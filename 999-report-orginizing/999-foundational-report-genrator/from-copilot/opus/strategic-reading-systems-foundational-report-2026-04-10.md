@@ -146,6 +146,704 @@ connection-strength:
   exploratory: ["AI-Assisted Reading", "Adaptive Learning Systems"]
 ---
 
+**Phase 1 analysis complete. Phase 2 selection:**
+
+1. **Argument Map** — The central causal chain: why passive reading fails and how the 7-strategy system fixes it
+2. **Comparison Matrix** — Dunlosky evidence ratings for all major strategies (the empirical verdict table)
+3. **Hierarchical Taxonomy Tree** — The 7 strategies organized by cognitive mechanism
+4. **Dependency / Prerequisite Graph** — What must exist before what (architectural interdependence)
+5. **Process Flow Diagram** — The integrated before/during/after PKB reading workflow
+6. **Concept Map** — The Nelson-Narens metacognitive monitoring-control system
+7. **Before/After Contrast Panel** — Passive reading vs. strategic reading system
+8. **2×2 Quadrant** — Strategies plotted against subjective difficulty vs. learning yield
+9. **Influence Map** — Intellectual genealogy of the report's key theoretical sources
+10. **TL;DR Scorecard** — Final synthesis packet
+
+---
+
+# Visual Aid Suite: Strategic Reading Systems
+
+**Report length:** ~15,000 words
+**Audience:** Informed generalist / advanced practitioner (PKB builders, autodidacts, graduate students)
+**Thesis:** A PKB-based strategic reading system implementing seven interdependent, empirically validated strategies — anchored in a Self-Determination Theory motivational architecture — transforms academic reading from passive consumption into compounding knowledge construction that sustains over a lifetime of learning.
+
+---
+
+## Visual Aid 1: Argument Map — The Central Causal Architecture
+
+**Purpose:** Shows the report's complete causal logic — why passive reading fails, how the seven strategies address each failure mode, and how the PKB and SDT architecture sustain the system over time.
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    PASSIVE READING                           │
+│           (re-reading, highlighting, familiarity)            │
+└──────────────┬───────────────────────────────────────────────┘
+               │ produces
+               ▼
+┌──────────────────────────────────────────────────────────────┐
+│                   FLUENCY ILLUSION                           │
+│   Processing ease mistaken for genuine comprehension         │
+│   Textbase extracted; situation model never built            │
+└──────────┬───────────────────┬───────────────────────────────┘
+           │                   │
+           ▼                   ▼
+    [False confidence]   [Early study termination]
+           │                   │
+           └─────────┬─────────┘
+                     ▼
+            [Rapid forgetting / no transfer]
+
+════════════════════════════════════════════════════════════════
+              SOLUTION: 7 EVIDENCE-BASED STRATEGIES
+════════════════════════════════════════════════════════════════
+
+  Failure mode targeted          Strategy
+  ───────────────────────────    ──────────────────────────────
+  Passive reception              → GENERATION EFFECT
+  Familiarity ≠ retrievability   → RETRIEVAL PRACTICE (Testing)
+  Single-session cramming        → SPACING
+  Blocked context dependence     → INTERLEAVING
+  Isolated storage               → ELABORATION
+  Surface comprehension          → SELF-EXPLANATION
+  Miscalibrated monitoring       → METACOGNITION
+
+               ↓ (interdependent system, not additive list)
+
+┌──────────────────────────────────────────────────────────────┐
+│            PKB (Personal Knowledge Base)                     │
+│   Externalizes construction · Enables spaced review          │
+│   Persists elaborative links · Monitors comprehension        │
+│   Functions as external metacognitive infrastructure         │
+└──────────────────────────────────┬───────────────────────────┘
+                                   │ requires
+                                   ▼
+┌──────────────────────────────────────────────────────────────┐
+│         SDT MOTIVATIONAL ARCHITECTURE                        │
+│  Autonomy support + Competence scaffolding + Relatedness     │
+│  (Without this: strategies adopted briefly, then abandoned)  │
+└──────────────────────────────────────────────────────────────┘
+                                   │ produces
+                                   ▼
+         ┌─────────────────────────────────────────┐
+         │  DURABLE, TRANSFERABLE, COMPOUNDING     │
+         │         KNOWLEDGE CONSTRUCTION          │
+         └─────────────────────────────────────────┘
+```
+
+**Reading guide:** Read top-to-bottom. The top half diagnoses the problem: passive reading produces a fluency illusion, which causes false confidence and early study termination, leading to rapid forgetting. The middle band shows how each of the seven strategies maps to a specific failure mode — they are not arbitrary choices but targeted interventions. The bottom shows the implementation layer (PKB) and the motivational layer (SDT) that must both be present for the system to sustain itself.
+
+**Source:** §1 (diagnosis), §1.4 (seven strategies), §1.5 (PKB and motivation), §8 (SDT architecture)
+
+---
+
+## Visual Aid 2: Comparison Matrix — The Dunlosky Verdict
+
+**Purpose:** Delivers the empirical verdict on study strategies side-by-side, showing what the literature actually recommends versus what most readers actually do.
+
+```
+┌──────────────────────────┬──────────────┬──────────────────┬──────────────────┐
+│  STRATEGY                │  DUNLOSKY    │  USAGE RATE      │  MECHANISM       │
+│                          │  UTILITY     │  (typical)       │  (WHY it works)  │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Retrieval Practice      │  ★★★★★ HIGH │  Rare            │  Strengthens     │
+│  (Practice Testing)      │             │                  │  retrieval path  │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Distributed Practice    │  ★★★★★ HIGH │  Rare            │  Spacing effect  │
+│  (Spaced Repetition)     │             │                  │  vs. forgetting  │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Elaborative             │  ★★★☆☆ MOD  │  Occasional      │  Schema          │
+│  Interrogation           │             │                  │  integration     │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Self-Explanation        │  ★★★☆☆ MOD  │  Occasional      │  Gap detection   │
+│                          │             │                  │  + model build   │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Interleaved Practice    │  ★★★☆☆ MOD  │  Rare            │  Discrimination  │
+│                          │             │                  │  learning        │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Generation              │  ★★★☆☆ MOD  │  Rare            │  Encoding        │
+│  (Look-away + recall)    │             │                  │  depth           │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Keyword Mnemonics       │  ★★☆☆☆ LOW  │  Common          │  Surface cue     │
+│                          │             │                  │  (narrow)        │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Imagery for Text        │  ★★☆☆☆ LOW  │  Common          │  Limited scope   │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Highlighting /          │  ★☆☆☆☆ LOW  │  Very common ⚠   │  Passive; no     │
+│  Underlining             │             │                  │  retrieval       │
+├──────────────────────────┼──────────────┼──────────────────┼──────────────────┤
+│  Re-reading              │  ★☆☆☆☆ LOW  │  Most common ⚠   │  Fluency         │
+│                          │             │                  │  illusion only   │
+└──────────────────────────┴──────────────┴──────────────────┴──────────────────┘
+
+⚠ WARNING: Inverse correlation between usage rate and effectiveness.
+   What feels most natural is systematically least effective.
+```
+
+**Reading guide:** The critical insight is the inverse correlation: the two strategies rated lowest utility (re-reading, highlighting) are the two most commonly practiced strategies. The two rated highest utility (retrieval practice, distributed practice) are rarely used spontaneously. This is the central practical takeaway from §1.2. The "Mechanism" column explains *why* each rating holds — connecting empirical finding to cognitive theory.
+
+**Source:** §1.2 (Dunlosky et al. 2013 review), §3–§6 (individual strategy sections)
+
+---
+
+## Visual Aid 3: Hierarchical Taxonomy Tree — The 7 Strategies by Mechanism
+
+**Purpose:** Organizes the seven strategies by the cognitive mechanism they primarily engage, revealing why they are architecturally complementary rather than redundant.
+
+```
+STRATEGIC READING SYSTEM
+│
+├── ENCODING MECHANISMS
+│   │   (How information enters long-term memory)
+│   │
+│   ├── Generation Effect
+│   │   ├── Look-away recall (before/during reading)
+│   │   ├── Question prediction before a section
+│   │   └── Free recall before re-engaging text
+│   │
+│   └── Elaboration
+│       ├── Elaborative Interrogation ("Why is this true?")
+│       ├── Analogical connection ("How is this like X?")
+│       ├── Implication mapping ("What does this rule out?")
+│       └── Wiki-link network building in PKB
+│
+├── RETRIEVAL MECHANISMS
+│   │   (How memories are strengthened and made durable)
+│   │
+│   ├── Retrieval Practice (Testing Effect)
+│   │   ├── Free recall (blank-page dump after session)
+│   │   ├── Cued recall (flashcard-style SRS)
+│   │   └── Practice testing (self-quizzing)
+│   │
+│   └── Self-Explanation
+│       ├── Explanation notes ("Why must this be true?")
+│       ├── Feynman technique (explain in simple terms)
+│       └── Gap detection (incompleteness annotation)
+│
+├── TEMPORAL MECHANISMS
+│   │   (How practice is distributed across time)
+│   │
+│   ├── Spacing
+│   │   ├── Spaced Repetition Systems (Anki, Obsidian SR)
+│   │   ├── Review scheduling (not immediately after encoding)
+│   │   └── Return-visit note architecture in PKB
+│   │
+│   └── Interleaving
+│       ├── Mixed topic review sessions
+│       ├── Varied practice before mastery is "complete"
+│       └── Cross-domain note linking in PKB
+│
+└── REGULATORY MECHANISM
+    │   (How the whole system is monitored and controlled)
+    │
+    └── Metacognition
+        ├── Monitoring layer
+        │   ├── Judgment of Learning (JOL)
+        │   ├── Feeling of Knowing (FOK)
+        │   ├── Comprehension monitoring
+        │   └── Calibration assessment
+        └── Control layer
+            ├── Strategy selection
+            ├── Resource reallocation
+            ├── Fix-up operations
+            └── PKB as external metacognitive infrastructure
+```
+
+**Reading guide:** The tree has three functional branches — encoding, retrieval, and temporal — plus a master regulatory layer. This structure reveals the architectural logic: encoding strategies get information in, retrieval strategies make it durable, temporal strategies distribute it optimally across time, and metacognition oversees and adjusts all three layers. No branch is optional; removing any one collapses the system's effectiveness.
+
+**Source:** §1.4 (seven strategies overview), §3–§7 (individual strategy sections)
+
+---
+
+## Visual Aid 4: Dependency / Prerequisite Graph — Architectural Interdependence
+
+**Purpose:** Shows which strategies must precede or scaffold which others, demonstrating why the system is architecturally interdependent rather than a menu of independent options.
+
+```
+[PRIOR KNOWLEDGE / SCHEMA NETWORK]
+           │
+           │ required for elaboration to work
+           ▼
+  [GENERATION]─────────────────────────────┐
+  (Look-away; produce before receiving)    │
+           │                               │
+           │ creates initial encoding      │ concurrent
+           ▼                               ▼
+  [ELABORATION]              [SELF-EXPLANATION]
+  (Connect outward →         (Explain inward →
+  to schema network)         to mechanism logic)
+           │    └──────────────────┘
+           │    both deepen initial encoding
+           ▼
+  [PKB NOTE — richly connected, explained]
+           │
+           │ enables
+           ▼
+  [RETRIEVAL PRACTICE]
+  (Test before re-reading;
+  flashcards; free recall)
+           │
+           │ reveals retention gaps
+           ▼
+  [SPACING]
+  (Distribute practice over time;
+  SRS scheduling based on recall)
+           │
+           │ applied across
+           ▼
+  [INTERLEAVING]
+  (Mix topics within sessions;
+  cross-domain retrieval)
+           │
+           └──────────────────────┐
+                                  ▼
+                         [METACOGNITION]
+                    (Monitors ALL layers above;
+                    controls strategy selection;
+                    detects calibration errors;
+                    PKB as external metacognitive
+                         infrastructure)
+                                  │
+                                  │ feeds back to
+                                  ▼
+                    [ADJUST READING STRATEGY]
+
+════════════════════════════════════════════
+KEY: Without metacognition, all other strat-
+egies run unchecked. Without generation,
+retrieval has nothing deep to retrieve.
+Without elaboration, spacing merely reviews
+shallow traces. The sequence matters.
+════════════════════════════════════════════
+```
+
+**Reading guide:** Follow the arrows downward for the operational sequence within a reading session. The left-right fork at elaboration/self-explanation represents the "two directions" insight from §6: elaboration builds the relational network outward; self-explanation builds the conceptual model inward — both are necessary. The metacognition loop at the bottom feeds back to every layer above it, making it the master regulator rather than a seventh technique to add at the end.
+
+**Source:** §1.4 (interdependence claim), §2 (cognitive foundations), §3–§7 (strategy mechanics), §7 (metacognitive control)
+
+---
+
+## Visual Aid 5: Process Flow — The Integrated PKB Reading Session
+
+**Purpose:** Maps the complete operational workflow — what a strategic reader actually does before, during, and after a reading session to implement the seven strategies systematically.
+
+```
+═══════════════════════════════════════════════════════════════
+         STRATEGIC PKB READING SESSION WORKFLOW
+═══════════════════════════════════════════════════════════════
+
+BEFORE READING (~10 min)
+─────────────────────────────────────────────────────────────
+  ┌──────────────┐
+  │ ACTIVATE     │  Survey chapter headings / abstract
+  │ SCHEMA       │  Ask: What do I already know about this?
+  │              │  Check linked PKB notes on the topic
+  └──────┬───────┘
+         │
+         ▼
+  ┌──────────────┐
+  │ GENERATION   │  Write questions you expect the text
+  │ PRIME        │  to answer — BEFORE reading it
+  │              │  (activates generation effect at point
+  │              │   of first contact)
+  └──────┬───────┘
+         │
+         ▼
+  ┌──────────────┐
+  │ RECALL PRIOR │  What do I remember from last session?
+  │ SESSION      │  Free recall dump (blank page, 5 min)
+  └──────┬───────┘
+         │ ← [SPACING triggers here: did you forget? Good.]
+         ▼
+
+DURING READING (~40-60 min)
+─────────────────────────────────────────────────────────────
+  ┌──────────────────────────────────────────────────────┐
+  │                 SECTION-BY-SECTION                   │
+  │                                                      │
+  │  Read section                                        │
+  │        │                                             │
+  │        ▼                                             │
+  │  Look away → Recall key claims (GENERATION)          │
+  │        │                                             │
+  │        ▼                                             │
+  │  Comprehension check: Do I understand why?           │
+  │        │                         │                  │
+  │      YES ──►  Elaboration         NO ──► Self-       │
+  │               questions:               Explanation:  │
+  │               Why true?               Write out why  │
+  │               What implies?           (reveals gaps) │
+  │               Connected to?                │        │
+  │               How like?                   │        │
+  │               └─────────────┬─────────────┘        │
+  │                             ▼                       │
+  │                Make PKB note (rich, linked)         │
+  └──────────────────────────────────────────────────────┘
+         │
+         ▼
+
+AFTER READING (~20-30 min)
+─────────────────────────────────────────────────────────────
+  ┌──────────────┐
+  │ FREE RECALL  │  Close book/notes entirely
+  │ DUMP         │  Write everything recalled (blank page)
+  │              │  Do NOT check notes during this step
+  └──────┬───────┘
+         │ ← [RETRIEVAL PRACTICE: effortful = effective]
+         ▼
+  ┌──────────────┐
+  │ GAP ANALYSIS │  Compare recall dump to notes
+  │              │  Flag items not recalled → SRS queue
+  │              │  Flag confusion → self-explanation task
+  └──────┬───────┘
+         │
+         ▼
+  ┌──────────────┐
+  │ SRS QUEUE    │  Add new flashcard seeds to SRS
+  │ UPDATE       │  Schedule next review (SPACING)
+  │              │  Mix with cards from other topics
+  │              │  (INTERLEAVING)
+  └──────┬───────┘
+         │
+         ▼
+  ┌──────────────┐
+  │ META-        │  Did I understand this session well?
+  │ COGNITIVE    │  Was my pre-reading recall accurate?
+  │ REVIEW       │  What strategy should I adjust next
+  │              │  session? Confidence rating per note.
+  └──────────────┘
+
+═══════════════════════════════════════════════════════════════
+Total: ~90 min investment → compounding returns over time
+═══════════════════════════════════════════════════════════════
+```
+
+**Reading guide:** The workflow has three distinct phases, each deploying specific strategies. "Before" deploys generation priming and retrieval of prior learning. "During" deploys the generation-elaboration-self-explanation triad at the section level. "After" deploys retrieval practice (free recall), gap analysis, and SRS update for spacing/interleaving. The metacognitive review at the end closes the monitoring-control loop. Each transition point between phases is where a specific cognitive mechanism activates — the brackets annotate these.
+
+**Source:** §1.5 (PKB imperative), §3–§7 (individual strategies), §8.x (workflow sections, appendix protocols)
+
+---
+
+## Visual Aid 6: Concept Map — The Nelson-Narens Metacognitive System
+
+**Purpose:** Maps the bidirectional monitoring-control architecture that regulates all learning strategy use, showing how the PKB externalizes each component.
+
+```
+                    ┌─────────────────────────────────┐
+                    │          META LEVEL              │
+                    │       (Metacognition)            │
+                    │                                  │
+                    │  ┌──────────────┐                │
+                    │  │  MONITORING  │                │
+                    │  │  judgments   │                │
+                    │  │  • JOL       │                │
+                    │  │  • FOK       │                │
+                    │  │  • Compreh.  │                │
+                    │  │  • Calibr.   │                │
+                    │  └──────┬───────┘                │
+                    │         │   uses to              │
+                    │         ▼                        │
+                    │  ┌──────────────┐                │
+                    │  │  CONTROL     │                │
+                    │  │  decisions   │                │
+                    │  │  • Allocate  │                │
+                    │  │  • Select    │                │
+                    │  │  • Adjust    │                │
+                    │  │  • Terminate │                │
+                    │  └──────┬───────┘                │
+                    └─────────┼───────────────────────-┘
+                              │
+       MONITORING             │              CONTROL
+       (upward flow)          │           (downward flow)
+       ◄─────────────────────-┼─────────────────────────►
+                              │
+                    ┌─────────┼────────────────────────┐
+                    │         │        OBJECT LEVEL     │
+                    │         ▼        (Cognition)      │
+                    │  ┌──────────────────────────────┐ │
+                    │  │  READING + ENCODING           │ │
+                    │  │  • Parsing text              │ │
+                    │  │  • Building textbase         │ │
+                    │  │  • Building situation model  │ │
+                    │  │  • Retrieval practice        │ │
+                    │  │  • Elaboration               │ │
+                    │  └──────────────────────────────┘ │
+                    └────────────────────────────────────┘
+
+═══ FLUENCY ILLUSION = MONITORING FAILURE ════════════════════
+  Wrong signal monitored: reading ease (fluency)
+  Instead of: genuine comprehension depth
+  Result: JOL inflated → control terminates study too early
+
+═══ PKB AS EXTERNAL METACOGNITIVE INFRASTRUCTURE ═════════════
+  Internal monitoring        →  PKB externalization
+  ───────────────────────────────────────────────────
+  JOL (confidence)           →  Confidence scores on notes
+  Comprehension monitoring   →  Comprehension flags / gaps
+  FOK (partial memory)       →  Review-needed markers
+  Calibration over time      →  SRS card performance tracking
+  Understanding map          →  Wiki-link graph + orphan nodes
+═══════════════════════════════════════════════════════════════
+```
+
+**Reading guide:** The diagram shows the bidirectional flow between the meta level (metacognition) and the object level (cognition/reading). Monitoring flows upward, providing information; control flows downward, adjusting behavior. The two callout boxes at the bottom explain the fluency illusion as a monitoring failure and show how a PKB externalizes each type of metacognitive signal into persistent, reviewable data. This is the report's most architecturally important insight: the PKB is not just a storage system — it is external metacognitive infrastructure.
+
+**Source:** §7.1 (Nelson-Narens model), §7.2 (key judgments), §7.4 (fluency illusion), §7 callout ("Metacognitive Infrastructure as PKB Architecture")
+
+---
+
+## Visual Aid 7: Before / After Contrast Panel — Two Reading Systems
+
+**Purpose:** Contrasts the passive default reading system against the strategic PKB system across the same dimensions, making the transformation concrete and actionable.
+
+```
+┌──────── PASSIVE READING SYSTEM ────────┬──────── STRATEGIC PKB SYSTEM ─────────┐
+│                                        │                                        │
+│  GOAL                                  │  GOAL                                  │
+│  • Finish the chapter                  │  • Build the situation model           │
+│  • Accumulate highlights               │  • Generate retrievable PKB artifacts  │
+│                                        │                                        │
+│  DURING READING                        │  DURING READING                        │
+│  • Read linearly                       │  • Survey → predict → generate         │
+│  • Underline / highlight               │  • Look away → recall → elaborate      │
+│  • Feel comprehension as fluency       │  • Self-explain what you don't follow  │
+│  • Re-read confusing passages          │  • Flag gaps, don't paper over them    │
+│                                        │                                        │
+│  AFTER READING                         │  AFTER READING                         │
+│  • Feel satisfied ("I read it")        │  • Free recall dump (effortful)        │
+│  • File highlights, rarely revisit     │  • Gap analysis against notes          │
+│  • Assume understanding is durable     │  • SRS queue update                    │
+│                                        │  • Metacognitive confidence rating     │
+│                                        │                                        │
+│  REVIEW SCHEDULE                       │  REVIEW SCHEDULE                       │
+│  • None (or: re-read before test)      │  • SRS-scheduled spaced returns        │
+│  • Blocked (same topic, same day)      │  • Interleaved across topics           │
+│                                        │                                        │
+│  WHAT SIGNALS "LEARNING"               │  WHAT SIGNALS "LEARNING"               │
+│  • Fluency / reading ease ✗            │  • Retrieval performance over time ✓   │
+│  • Familiarity of content ✗            │  • Elaboration richness of notes ✓     │
+│  • Volume of highlights ✗              │  • Gap-closure in comprehension ✓      │
+│                                        │                                        │
+│  ONE WEEK LATER                        │  ONE WEEK LATER                        │
+│  • ~10–20% retained                   │  • 60–80%+ retained (with SRS)        │
+│  • Cannot reconstruct arguments        │  • Can reconstruct + apply             │
+│  • No connection to other knowledge    │  • Rich wiki-linked network            │
+│                                        │                                        │
+│  MOTIVATIONAL PATTERN                  │  MOTIVATIONAL PATTERN                  │
+│  • External / introjected              │  • Identified / integrated             │
+│  • "I should read this"                │  • "I want to understand this"         │
+│  • Diminishing returns, abandonment    │  • Compounding returns, sustaining     │
+└────────────────────────────────────────┴────────────────────────────────────────┘
+```
+
+**Reading guide:** Read across each row to see the same dimension in both systems. The critical pattern: the passive system optimizes for subjective signals of learning (fluency, comfort) while the strategic system optimizes for objective signals (retrieval performance, connection richness). Note the motivational bottom row — even the best cognitive system will be abandoned if the motivational architecture isn't designed for autonomous rather than controlled regulation.
+
+**Source:** §1.1–§1.3 (passive reading failure), §1.4–§1.5 (strategic system), §8.1 (motivation-strategy interface)
+
+---
+
+## Visual Aid 8: 2×2 Quadrant — Strategies by Subjective Difficulty vs. Learning Yield
+
+**Purpose:** Plots the seven strategies (plus common poor alternatives) on axes of perceived difficulty and actual learning yield, making the "desirable difficulties" paradox visually immediate.
+
+```
+                    HIGH LEARNING YIELD
+                           ▲
+                           │
+  DESIRABLE DIFFICULTIES   │   PEAK PERFORMANCE
+  (counterintuitive but    │   (high effort,
+   extremely valuable)     │    high yield)
+                           │
+  • Interleaving           │   • Retrieval Practice
+  • Spacing (initially     │   • Self-Explanation
+    feels inefficient)     │   • Free Recall
+  • Generation Priming     │   • Elaborative
+    (takes prep time)      │     Interrogation
+                           │
+ LOW ◄──────────────────────┼────────────────────────► HIGH
+ PERCEIVED                  │                        PERCEIVED
+ DIFFICULTY                 │                        DIFFICULTY
+                           │
+  FEEL-GOOD BUT WEAK       │   HIGH EFFORT, LOW YIELD
+  (comfort zone;           │   (hard for the wrong
+   false progress)         │    reasons)
+                           │
+  • Re-reading ⚠           │   • Memorizing without
+  • Highlighting ⚠         │     understanding
+  • Reviewing notes        │   • Unfocused rereading
+    (passive)              │     under time pressure
+  • Summarizing            │
+    (only)                 │
+                           ▼
+                    LOW LEARNING YIELD
+
+═══════════════════════════════════════════════════════════════
+KEY INSIGHT (Desirable Difficulties — Bjork):
+The effort that feels like failure IS the mechanism of benefit.
+Difficulty of retrieval = strength of future memory trace.
+If studying feels easy, that is a warning sign, not a green light.
+═══════════════════════════════════════════════════════════════
+```
+
+**Reading guide:** The crucial quadrant is top-left: "desirable difficulties" — strategies that feel inefficient, frustrating, or slow but produce the highest learning gains. Interleaving feels like you're not making progress (performance in session is worse). Spacing feels like forgetting (it is — and the forgetting is the mechanism). Generation priming takes time before payoff. The bottom-left quadrant captures the common "feel-good" strategies that produce fluency illusions but minimal durable learning. The key lesson: calibrate study choices against the top axis (yield), not the horizontal axis (ease).
+
+**Source:** §1.2 (Dunlosky ratings), §4.2 (desirable difficulties), §5.2 (interleaving paradox), §3 (generation effort)
+
+---
+
+## Visual Aid 9: Influence Map — Intellectual Genealogy of the Report's Theoretical Sources
+
+**Purpose:** Shows who built on whom, tracing how the report's key theoretical frameworks developed from their origins to their current application in strategic reading PKB design.
+
+```
+                                         READING COMPREHENSION
+Craik & Lockhart (1972) ─────────────►  Levels of Processing
+Levels of Processing                            │
+                                                │
+                                                ▼
+van Dijk & Kintsch (1983) ──────────►  Situation Model Framework
+Textbase / Situation Model                      │
+                                                │ enables
+                                                ▼
+Dunlosky et al. (2013) ─────────────►  Evidence Verdict on Strategies
+Comprehensive Strategy Review            (what actually works)
+                                                │
+─────────────────────────────────────────────────────────────
+ENCODING                                        │
+─────────────────────────────────────────────────────────────
+Jacoby (1978) ──────────────────────►  Generation Effect
+                                                │
+Roediger & Karpicke (2006) ─────────►  Testing Effect / Retrieval
+                                         Practice (re-reading vs.)
+                                                │
+Ebbinghaus (1885) ──────────────────►  Forgetting Curve
+                                                │
+                                    ┌───────────┘
+                                    ▼
+Bjork (1988–2000s) ─────────────►  Desirable Difficulties
+                                   (spacing, interleaving, generation)
+                                                │
+─────────────────────────────────────────────────────────────
+METACOGNITION                                   │
+─────────────────────────────────────────────────────────────
+Flavell (1976, 1979) ───────────────►  Metacognition (tripartite)
+                                                │
+Nelson & Narens (1990) ─────────────►  Monitoring-Control Model
+                                                │
+─────────────────────────────────────────────────────────────
+ELABORATION / CONSTRUCTION                      │
+─────────────────────────────────────────────────────────────
+Chi et al. (1989) ──────────────────►  Self-Explanation Effect
+Pressley et al. (1992) ─────────────►  Elaborative Interrogation
+                                                │
+─────────────────────────────────────────────────────────────
+MOTIVATION                                      │
+─────────────────────────────────────────────────────────────
+Deci & Ryan (1985, 2000) ───────────►  Self-Determination Theory
+                                         Autonomy / Competence /
+                                         Relatedness
+                                                │
+Clark & Chalmers (1998) ────────────►  Extended Mind Theory
+                                         (PKB as cognitive extension)
+                                                │
+─────────────────────────────────────────────────────────────
+INTEGRATION (This Report)                       │
+─────────────────────────────────────────────────────────────
+All tributaries above ──────────────►  Strategic PKB Reading System
+                                       + Motivational Architecture
+                                       + Practical Workflow
+```
+
+**Reading guide:** The map shows four theoretical tributaries that feed this report's integrated framework: the reading comprehension tradition (Kintsch), the desirable difficulties / encoding tradition (Bjork, Roediger), the metacognition tradition (Flavell, Nelson-Narens), and the motivation tradition (Deci & Ryan). None alone is sufficient; the report's synthesis draws from all four streams. The Extended Mind Theory (Clark & Chalmers) provides the philosophical justification for why a PKB can function as genuine cognitive architecture rather than mere storage.
+
+**Source:** §2 (theoretical foundations), §3–§7 (individual strategy origins), §8 (SDT), §1.5 (Extended Mind)
+
+---
+
+## Visual Aid 10: TL;DR Scorecard
+
+**Purpose:** One-page synthesis of the report's central claims, evidence strength, key actions, and audience fit.
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║         STRATEGIC READING SYSTEMS — REPORT SCORECARD             ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  CORE THESIS                                                      ║
+║  A PKB-based strategic reading system implementing seven         ║
+║  interdependent, evidence-validated strategies — sustained by    ║
+║  an SDT motivational architecture — transforms passive reading   ║
+║  into compounding knowledge construction that lasts.             ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  TOP 5 TAKEAWAYS                                                  ║
+║                                                                  ║
+║  1. Re-reading is the most common and worst study strategy.      ║
+║     It produces fluency illusions, not durable learning.         ║
+║                                                                  ║
+║  2. Retrieval practice and spaced practice are the highest-      ║
+║     yield strategies (Dunlosky: HIGH utility). Both are          ║
+║     rarely used spontaneously.                                   ║
+║                                                                  ║
+║  3. The seven strategies are architecturally interdependent,     ║
+║     not a menu. Remove any one and the system degrades.          ║
+║     Metacognition is the master regulatory layer.                ║
+║                                                                  ║
+║  4. A PKB is not just storage — it is external metacognitive     ║
+║     infrastructure, externalizing JOLs, gaps, calibration,      ║
+║     and the link graph of understood connections.                ║
+║                                                                  ║
+║  5. Without SDT-aligned motivational design (autonomy,           ║
+║     competence, relatedness), even the best cognitive system     ║
+║     will be abandoned within weeks. System design > willpower.  ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STRONGEST EVIDENCE   : Retrieval practice (Roediger & Karpicke) ║
+║  MODERATE EVIDENCE    : Interleaving, elaboration, generation    ║
+║  WEAKEST LINK         : PKB-specific claims (theoretically       ║
+║                         motivated; not directly RCT-validated)   ║
+║  KEY OPEN QUESTION    : Does AI note-generation undermine the    ║
+║                         Generation Effect?                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ONE KEY ACTION       : Replace re-reading with free recall      ║
+║                         dumps + SRS review within one week.     ║
+║                         Start there. Everything else follows.    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  READ IF YOU          : Build a PKB; read extensively; want      ║
+║                         to remember what you read for years      ║
+║  SKIP IF YOU          : Need RCT-validated PKB-specific results  ║
+║                         (reach for Dunlosky 2013 directly)       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## Synthesis Packet
+
+**Top 5 takeaways:**
+1. The fluency illusion is the root cause of most academic reading failure — and re-reading is its primary enabler.
+2. Seven strategies constitute the solution, but only as an integrated system: generation primes encoding; retrieval practice builds durability; spacing and interleaving distribute and diversify practice; elaboration and self-explanation build the relational network and conceptual model; metacognition regulates all of the above.
+3. The PKB's role is not storage — it is external metacognitive infrastructure that makes the entire monitoring-control system persistent, reviewable, and actionable across years.
+4. SDT is not optional scaffolding — it is the system's fuel. Cognitive strategies deployed within a controlling, non-autonomous motivational environment will be abandoned, regardless of their evidence base.
+5. The critical practical move is immediately replacing re-reading with retrieval practice (free recall dump after each session) and SRS-scheduled review. This single substitution, consistently applied, transforms the return on reading investment.
+
+**Navigator — which aid answers which question:**
+
+| Question you might have | Go to |
+|---|---|
+| "What is the overall argument?" | Aid 1 — Argument Map |
+| "Which strategies actually have evidence?" | Aid 2 — Comparison Matrix |
+| "How are the strategies organized?" | Aid 3 — Taxonomy Tree |
+| "Why can't I just pick one or two?" | Aid 4 — Dependency Graph |
+| "What do I actually DO in a session?" | Aid 5 — Process Flow |
+| "How does metacognition fit?" | Aid 6 — Nelson-Narens Map |
+| "What would change in my practice?" | Aid 7 — Before/After Panel |
+| "Why does difficulty feel like failure?" | Aid 8 — 2×2 Quadrant |
+| "Where did these ideas come from?" | Aid 9 — Influence Map |
+| "What's the one-page version?" | Aid 10 — Scorecard |
+
+
+
+
 # Strategic Reading Systems: Designing a PKB-Based Motivational System for Academic Reading
 
 ## Abstract

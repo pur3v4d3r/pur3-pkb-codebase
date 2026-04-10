@@ -147,6 +147,474 @@ connection-strength:
   exploratory: ["PKB Report Processing", "Academic Identity"]
 ---
 
+Now I have a thorough read of the full ~17,500-word report. Let me produce the visual aid suite.
+
+---
+
+# Visual Aid Suite: Motivation and Academic Reading
+
+**Report length:** ~17,500 words  
+**Audience:** PKB practitioners, lifelong learners, informed generalists  
+**Thesis:** Students fail to use evidence-based learning strategies not from ignorance but from motivational insufficiency — and closing this "Motivational Deployment Problem" requires a complete architecture of autonomous motivation, mastery goal orientation, and SRL-SDT integration.
+
+**Aids selected:**
+1. **Three-Force Deployment Problem Map** — Visualises the report's central diagnostic framework
+2. **Seven Learning Effects Hierarchy** — Taxonomic tree of the strategy hierarchy by cognitive demand
+3. **Motivational Framing Hierarchy** — Comparison matrix mapping each strategy's negative frame to its motivational reframe
+4. **SRL × SDT Process Flow** — Shows how motivational quality hijacks each phase of the SRL cycle
+5. **SDT Regulatory Continuum** — Spectrum from external to intrinsic regulation
+6. **Theoretical Influence Map** — Intellectual genealogy of the three foundational frameworks
+7. **Before / After Panel** — Controlled vs. autonomous motivation in practice
+8. **TL;DR Scorecard** — Single-view synthesis
+
+---
+
+## Visual Aid 1: The Motivational Deployment Problem — Three-Force Diagnostic
+
+**Purpose:** Shows why the gap between knowing and using effective strategies is so persistent.
+
+```
+        STUDENT KNOWS: retrieval practice > re-reading
+                            │
+                ┌───────────▼────────────┐
+                │                        │
+                │   THE DEPLOYMENT GAP   │
+                │   (knowing ≠ doing)    │
+                │                        │
+                └───────────┬────────────┘
+                            │
+            ┌───────────────┼───────────────┐
+            ▼               ▼               ▼
+  ┌──────────────────┐ ┌──────────────┐ ┌──────────────────┐
+  │ FORCE 1          │ │ FORCE 2      │ │ FORCE 3          │
+  │ Phenomenological │ │ Incentive    │ │ Self-Efficacy    │
+  │ Asymmetry        │ │ Misalignment │ │ Trap             │
+  ├──────────────────┤ ├──────────────┤ ├──────────────────┤
+  │ Effective strat- │ │ Performance  │ │ Those who MOST   │
+  │ egies feel WORSE │ │ goals reward │ │ need desirable   │
+  │ during execution │ │ appearance   │ │ difficulties     │
+  │                  │ │ of mastery,  │ │ find them MOST   │
+  │ Retrieval feels  │ │ not actual   │ │ threatening      │
+  │ like failure     │ │ mastery      │ │                  │
+  │ Spacing feels    │ │              │ │ Retrieval diff-  │
+  │ like forgetting  │ │ Systems      │ │ iculty = ability │
+  │ Fluency = fake   │ │ punish the   │ │ signal (not      │
+  │ learning signal  │ │ struggle     │ │ strategy signal) │
+  └──────────────────┘ └──────────────┘ └──────────────────┘
+            │               │               │
+            └───────────────┼───────────────┘
+                            ▼
+            Solution requires MOTIVATIONAL ARCHITECTURE,
+            not more strategy information
+```
+
+**Reading guide:** The three forces operate simultaneously and reinforce each other. Force 1 is cognitive (the [[Fluency-Illusion]]); Force 2 is structural (institutions reward performance appearance); Force 3 is developmental (the students who most need help are the least able to tolerate it). Any intervention that addresses only one force will be defeated by the other two. The report's claim is that only a complete SDT-based motivational system can address all three simultaneously.
+
+**Source:** §1, §1.1 — "The Motivation-Strategy Nexus"
+
+---
+
+## Visual Aid 2: The Seven Learning Effects — Hierarchy by Cognitive Demand & Motivational Prerequisite
+
+**Purpose:** Shows how the seven effects form a genuine hierarchy, not a flat list of tips.
+
+```
+COGNITIVE DEMAND ────────────────────────────────────────► HIGH
+MOTIVATIONAL PREREQUISITE ──────────────────────────────► HIGH
+
+     BASE                                               APEX
+       │                                                  │
+       ▼                                                  ▼
+
+ [1] GENERATION EFFECT
+ ├── Mechanism: Producing > passively reading
+ ├── Motivational prerequisite: Pause tolerance;
+ │   coverage-criterion reframe
+ └── SRL Phase: Performance (in-session)
+
+ [2] TESTING EFFECT (Retrieval Practice)
+ ├── Mechanism: Retrieval reconsolidates memory trace
+ ├── Motivational prerequisite: Failure tolerance;
+ │   ego-safe learning environment
+ └── SRL Phase: Performance + Reflection (attribution)
+
+ [3] SPACING EFFECT
+ ├── Mechanism: Forgetting interval strengthens trace
+ ├── Motivational prerequisite: Forgetting tolerance;
+ │   effort-gratification gap endurance
+ └── SRL Phase: Forethought (scheduling) + Reflection
+
+ [4] INTERLEAVING EFFECT
+ ├── Mechanism: Mixed practice builds discrimination
+ ├── Motivational prerequisite: Confusion tolerance;
+ │   reduced need for immediate fluency
+ └── SRL Phase: Forethought (design) + Performance
+
+ [5] ELABORATION EFFECT
+ ├── Mechanism: Why-questioning deepens encoding
+ ├── Motivational prerequisite: Depth orientation;
+ │   background knowledge activation
+ └── SRL Phase: Performance (in-session depth)
+
+ [6] SELF-EXPLANATION EFFECT
+ ├── Mechanism: Explaining gaps triggers constructive
+ │   comprehension; debugging in real time
+ ├── Motivational prerequisite: Gap tolerance;
+ │   extended effortful processing
+ └── SRL Phase: Monitoring + Control (on-the-fly)
+
+ [7] METACOGNITIVE STRATEGY          ◄── APEX
+ ├── Mechanism: Monitors & regulates all other six
+ ├── Motivational prerequisite: Stable tolerance of
+ │   productive uncertainty; identity-level mastery
+ └── SRL Phase: ALL FOUR phases (orchestrates cycle)
+
+ Legend: Higher number = greater cognitive demand
+         = greater motivational infrastructure required
+```
+
+**Reading guide:** Read bottom-to-top for increasing demand. Each effect requires the motivational capacities of all effects below it. The critical insight is that [[Metacognitive-Strategy]] sits at the apex not only because it is cognitively sophisticated, but because maintaining honest metacognitive monitoring under conditions of uncertainty is itself a motivational achievement — it requires the learner not to flinch from evidence of their own ignorance.
+
+**Source:** §1.1 — "Scope of this Report," §3 — "The Seven Effects"
+
+---
+
+## Visual Aid 3: Motivational Framing Hierarchy — The Reframe System
+
+**Purpose:** Shows the specific cognitive reframe that transforms each strategy's aversive phenomenology into a productive signal.
+
+```
+┌────────────────────┬──────────────────────────┬─────────────────────────┐
+│ STRATEGY           │ NEGATIVE FRAME           │ MOTIVATIONAL REFRAME    │
+│                    │ (mechanistically wrong)  │ (phenomenologically AND │
+│                    │                          │  mechanistically right) │
+├────────────────────┼──────────────────────────┼─────────────────────────┤
+│ [1] Generation     │ "I'm wasting time not    │ "Pausing to generate IS │
+│                    │  reading forward"         │  reading — coverage w/o │
+│                    │                          │  generation isn't       │
+│                    │                          │  learning"              │
+├────────────────────┼──────────────────────────┼─────────────────────────┤
+│ [2] Retrieval      │ "I'm proving how much    │ "Failed recall shows    │
+│     Practice       │  I've forgotten"          │  exactly what to study  │
+│                    │                          │  next — it IS the       │
+│                    │                          │  learning"              │
+├────────────────────┼──────────────────────────┼─────────────────────────┤
+│ [3] Spacing        │ "I'm losing ground       │ "The forgetting inter-  │
+│                    │  between sessions"        │  val is the mechanism — │
+│                    │                          │  allowing it to work is │
+│                    │                          │  active strategy"       │
+├────────────────────┼──────────────────────────┼─────────────────────────┤
+│ [4] Interleaving   │ "I'm confused and        │ "Confusion during disc- │
+│                    │  inefficient"             │  rimination training is │
+│                    │                          │  the signal my brain is │
+│                    │                          │  building right circuits"│
+├────────────────────┼──────────────────────────┼─────────────────────────┤
+│ [5] Elaboration    │ "I'm going too slowly"   │ "Depth is velocity in   │
+│                    │                          │  the direction that     │
+│                    │                          │  matters — slow         │
+│                    │                          │  understanding compounds"│
+├────────────────────┼──────────────────────────┼─────────────────────────┤
+│ [6] Self-          │ "I'm discovering how     │ "Each gap found is a    │
+│     Explanation    │  much I don't understand" │  gap closed — my model  │
+│                    │                          │  is being debugged in   │
+│                    │                          │  real time"             │
+├────────────────────┼──────────────────────────┼─────────────────────────┤
+│ [7] Metacognition  │ "I'm suspending action   │ "Metacognitive reg is   │
+│                    │  to think about thinking" │  not overhead — it's    │
+│                    │                          │  quality control that   │
+│                    │                          │  makes all others pay"  │
+└────────────────────┴──────────────────────────┴─────────────────────────┘
+
+Key: Negative frames are phenomenologically accurate but mechanistically
+     WRONG. Reframes are accurate at BOTH levels. Reframes work only when
+     the learner genuinely understands the underlying learning science.
+```
+
+**Reading guide:** The left column is the report's Original Contribution 2. Each row pairs the typical emotional interpretation of a strategy (which is real but misleading) with the mechanistically accurate reframe. The claim is not motivational self-deception — it is replacing a wrong mental model with a correct one. When the reframe is genuinely believed, it becomes motivationally active rather than merely intellectually accepted.
+
+**Source:** §6.3 — "The Motivational Framing Hierarchy for Learning Effects"
+
+---
+
+## Visual Aid 4: The SRL × SDT Interface — Motivational Quality as Meta-Regulator
+
+**Purpose:** Shows how motivational quality (autonomous vs. controlled) determines the *quality* of self-regulation at each phase of the SRL cycle.
+
+```
+THE SRL CYCLE — WITH SDT MOTIVATIONAL QUALITY OVERLAY
+
+        ┌──────────────────────────────────────────────┐
+        │              FORETHOUGHT PHASE               │
+        │                                              │
+        │  AUTONOMOUS  →  Mastery goals; genuine       │
+        │                 comprehension criteria       │
+        │  CONTROLLED  →  Performance goals; coverage  │
+        │                 criteria; quota-driven       │
+        └──────────────────────┬───────────────────────┘
+                               │ feeds into
+                               ▼
+        ┌──────────────────────────────────────────────┐
+        │              MONITORING PHASE                │
+        │                                              │
+        │  AUTONOMOUS  →  HONEST monitoring; failure   │
+        │                 = information, not threat    │
+        │  CONTROLLED  →  EGO-DEFENSIVE monitoring;    │
+        │                 subjectively upgrades comp-  │
+        │                 rehension estimates          │
+        └──────────────────────┬───────────────────────┘
+                               │ feeds into
+                               ▼
+        ┌──────────────────────────────────────────────┐
+        │               CONTROL PHASE                  │
+        │                                              │
+        │  AUTONOMOUS  →  Adaptive strategy adjust-    │
+        │                 ment (30% recall = calibrate │
+        │                 spacing more aggressively)   │
+        │  CONTROLLED  →  Strategy ABANDONMENT (30%    │
+        │                 recall = this isn't working; │
+        │                 reduce aversive practice)    │
+        └──────────────────────┬───────────────────────┘
+                               │ feeds into
+                               ▼
+        ┌──────────────────────────────────────────────┐
+        │             SELF-REFLECTION PHASE            │
+        │                                              │
+        │  AUTONOMOUS  →  Growth attribution (failure  │
+        │                 = controllable strategy      │
+        │                 factor; adjust next cycle)   │
+        │  CONTROLLED  →  Helpless attribution (failure│
+        │                 = ability; destabilises next │
+        │                 forethought phase)           │
+        └──────────────────────┬───────────────────────┘
+                               │ feeds back into
+                               ▼
+                     FORETHOUGHT PHASE (next cycle)
+
+ ● AUTONOMOUS CYCLE: Self-correcting → strategy deepens over time
+ ● CONTROLLED CYCLE: Self-undermining → strategy abandoned over time
+```
+
+**Reading guide:** Read the cycle clockwise from Forethought. The key insight (Original Contribution 3) is that motivational quality does not merely predict *willingness* to self-regulate — it determines whether the regulation itself is *honest and effective*. The same monitoring signal (30% recall) produces opposite behavioral responses depending on which column the learner is in. This is why "just knowing about SRL" does not fix the deployment problem.
+
+**Source:** §5 — "The SRL-SDT Interface," §5.1, §5.2
+
+---
+
+## Visual Aid 5: SDT Regulatory Continuum — From External to Intrinsic
+
+**Purpose:** Shows the spectrum of motivational quality and its practical implications for strategy deployment.
+
+```
+CONTROLLED MOTIVATION ◄────────────────────────────► AUTONOMOUS MOTIVATION
+     (driven by external forces)                     (driven from within)
+         │                                                    │
+         ▼                                                    ▼
+
+ EXTERNAL   INTROJECTED   IDENTIFIED   INTEGRATED   INTRINSIC
+     │           │             │            │            │
+     ●───────────●─────────────●────────────●────────────●
+     │           │             │            │            │
+ "I study    "I study      "I study     "I study    "I study
+  to avoid    because I     because it   because it   because
+  punish-     feel          matters      is part of   I love
+  ment or     guilty/       for my       who I am"    learning
+  for         shameful      goals"                    itself"
+  reward"     if I don't"
+     │           │             │            │            │
+     ▼           ▼             ▼            ▼            ▼
+  Strategy   Strategy      Strategy     Strategy     Maximum
+  use brief, use anxiety-  use more     use robust   strategy
+  surface,   driven,       sustained    and self-    depth;
+  stops when defensive     but fragile  correcting   intrinsic
+  pressure   monitoring    monitoring               reframe
+  removed                                           natural
+
+ For desirable difficulties: Need at least IDENTIFIED regulation
+ For sustained PKB practice: Need INTEGRATED or INTRINSIC
+```
+
+**Reading guide:** The continuum moves from pure external control (left) to full autonomous regulation (right). The report argues that learners must reach at least *identified* regulation — genuinely valuing the learning goal for personal reasons — before desirable difficulties become sustainable. The practical levers for moving rightward are [[Self-Determination-Theory]]'s three basic needs: designing environments that satisfy autonomy, competence, and relatedness.
+
+**Source:** §4.1 — "Self-Determination Theory"
+
+---
+
+## Visual Aid 6: Theoretical Influence Map — The Report's Intellectual Genealogy
+
+**Purpose:** Shows which research traditions the report synthesises and how they connect.
+
+```
+COGNITIVE SCIENCE                  MOTIVATIONAL PSYCHOLOGY
+─────────────────                  ──────────────────────────
+
+Ebbinghaus (1885) ──► Forgetting    Deci & Ryan (1985) ──► SDT
+Forgetting Curve       Curve        Basic Needs Theory       │
+         │                          (Autonomy/Competence/    │
+         ▼                           Relatedness)            │
+Craik & Lockhart ──► Levels of                               │
+(1972)               Processing                             │
+         │           Theory                                  │
+         ▼                          Ames, Dweck, Elliot ──► AGT
+Rumelhart (1980) ──► Schema         Achievement Goal         │
+Anderson (1977)      Theory         Theory                   │
+         │                          (Mastery vs.             │
+         ▼                           Performance Goals)      │
+van Dijk &        ──► Situation                              │
+Kintsch (1983)       Model                                   │
+                      │             Bandura (1977) ─────► Self-Efficacy
+                      │             Weiner (1985) ──────► Attribution
+Sweller (1988) ───► CLT             Pekrun (2002) ──────► Academic
+Cognitive Load        │              Control-Value           Emotions
+Theory                │              Theory                   │
+         │            │                                       │
+         ▼            │                                       │
+Bjork & Bjork ────► Desirable       Pintrich (2000) ─────► SRL
+(1992)              Difficulties     Zimmerman (2002)         │
+         │          Framework                                  │
+         │                                                    │
+         └──────────────────────────┬─────────────────────────┘
+                                    ▼
+                        THIS REPORT'S SYNTHESIS:
+                        ──────────────────────────
+                        Motivational Deployment Problem
+                        SRL-SDT Interface Model
+                        Motivational Framing Hierarchy
+                        ──────────────────────────────
+                        → 7-Effect Strategy Hierarchy
+                        → Daily Session Architecture
+                        → PKB Integration Workflow
+```
+
+**Reading guide:** The left column supplies the *why strategies work* (cognitive mechanisms); the right column supplies the *why learners don't use them* (motivational barriers). The report's synthesis sits at the bottom, where both traditions converge. Key researchers to explore: [[Robert-Bjork]] (desirable difficulties), [[Edward-Deci]] / [[Richard-Ryan]] (SDT), [[Paul-Pintrich]] / [[Barry-Zimmerman]] (SRL).
+
+**Source:** §2 — Cognitive Architecture, §4 — Motivational Frameworks, §5 — SRL-SDT Interface
+
+---
+
+## Visual Aid 7: Before / After Contrast — Controlled vs. Autonomous Motivation in Practice
+
+**Purpose:** Concretely illustrates the behavioural difference autonomous motivation makes at each decision point.
+
+```
+┌──────── CONTROLLED MOTIVATION ────────┬──── AUTONOMOUS MOTIVATION ───────┐
+│ (Performance goals, external reg.)   │ (Mastery goals, identified+)     │
+├───────────────────────────────────────┼──────────────────────────────────┤
+│ SESSION GOAL                          │ SESSION GOAL                     │
+│ "Finish 40 pages by 7 PM"            │ "Understand the argument         │
+│ Coverage criterion                   │  structure of Section 3"         │
+│                                       │ Comprehension criterion          │
+├───────────────────────────────────────┼──────────────────────────────────┤
+│ WHEN RETRIEVAL TEST FAILS (30%)       │ WHEN RETRIEVAL TEST FAILS (30%)  │
+│ "This method isn't working"          │ "The system is showing me what   │
+│ Strategy reduced or abandoned        │  I actually know — adjust        │
+│                                       │  spacing intervals"              │
+├───────────────────────────────────────┼──────────────────────────────────┤
+│ DURING SPACING GAP                    │ DURING SPACING GAP               │
+│ "I'm losing what I learned"          │ "The forgetting is the           │
+│ Returns to re-reading for comfort    │  mechanism — I'm allowing the    │
+│                                       │  strategy to work"               │
+├───────────────────────────────────────┼──────────────────────────────────┤
+│ AFTER DIFFICULT SESSION              │ AFTER DIFFICULT SESSION          │
+│ Attribution: "I'm not smart          │ Attribution: "I chose a          │
+│ enough for this material"            │  strategy mismatch — I need      │
+│ → destabilises next forethought      │  more scaffolding first"         │
+│                                       │ → improves next forethought      │
+├───────────────────────────────────────┼──────────────────────────────────┤
+│ MONITORING QUALITY                    │ MONITORING QUALITY               │
+│ Ego-defensive: upgrades subjective   │ Honest: accepts failure as       │
+│ comprehension estimates to avoid     │ calibration data, not as         │
+│ aversive failure feedback            │ self-concept threat              │
+├───────────────────────────────────────┼──────────────────────────────────┤
+│ TRAJECTORY                            │ TRAJECTORY                       │
+│ Strategy use collapses in 2 weeks    │ Strategy deepens over 3+ months │
+│ Returns to passive re-reading        │ Becomes identity-level habit     │
+└───────────────────────────────────────┴──────────────────────────────────┘
+```
+
+**Reading guide:** Every row shows the same objective stimulus interpreted through two different motivational architectures, producing opposite behavioural outcomes. The right column is not unrealistically optimistic — it describes what the report's §6 motivational system is specifically designed to produce. The SRS failure-encounter example in the report (§5.3) maps directly onto the "Retrieval Test Fails" row.
+
+**Source:** §5.2 — SRL-SDT Interface, §5.3 — Critical Transitions, §6 — Building Your Motivational System
+
+---
+
+## Visual Aid 8: TL;DR Scorecard
+
+**Purpose:** Single-panel synthesis for rapid orientation or review.
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║           MOTIVATION AND ACADEMIC READING — SCORECARD               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Core thesis  : Students fail to use effective learning strategies   ║
+║                not from ignorance but from motivational             ║
+║                insufficiency. Closing the gap requires a complete   ║
+║                SDT-grounded, SRL-integrated motivational system.    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Key claim 1  : Effective strategies are aversive BY DESIGN. Their  ║
+║                phenomenological costs are performance-level; their  ║
+║                benefits are learning-level. The gap is causal.      ║
+║ Key claim 2  : Motivational QUALITY (autonomous vs. controlled),   ║
+║                not motivational INTENSITY, determines whether SRL   ║
+║                regulation is honest and self-correcting.            ║
+║ Key claim 3  : The 7 effects form a hierarchy — each higher        ║
+║                strategy requires more motivational infrastructure   ║
+║                than all the effects below it.                       ║
+║ Key claim 4  : Switching from COVERAGE to COMPREHENSION criteria   ║
+║                is the single highest-leverage behaviour change      ║
+║                available to any academic reader.                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Original #1  : Motivational Deployment Problem (3-force framework)  ║
+║ Original #2  : Motivational Framing Hierarchy (7 reframes)          ║
+║ Original #3  : SRL-SDT Interface (motivation as meta-regulator)     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Strongest evd: Testing/spacing/generation effects — among the most ║
+║                replicated findings in all of cognitive psychology.  ║
+║ Weakest link : Moderator variables (individual differences,        ║
+║                age, culture) underdeveloped; reframes untested      ║
+║                empirically as an intervention.                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Daily action : Forethought ritual (2 min) → Strategy-mix deploy   ║
+║                → Mid-session check-in → Reflection synthesis        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Read if you  : Know strategies but don't consistently use them.    ║
+║                Are building a PKB / SRS practice. Want to          ║
+║                understand the motivation science behind SRL.        ║
+║ Skip if you  : Need empirical primary sources (this is synthesis). ║
+║                Are looking for a beginner's overview of either SRL  ║
+║                or SDT (this presupposes both).                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## Synthesis Packet
+
+**Top 5 takeaways:**
+
+1. **The Deployment Problem is motivational, not informational.** More information about strategies doesn't close the knowing-doing gap. Only a motivational architecture that satisfies autonomy, competence, and relatedness needs does.
+2. **Effective strategies are aversive by design.** The phenomenological cost is real and not a mistake — it's the mechanism. The reframes in Aid 3 work only when genuinely believed, not just intellectually accepted.
+3. **Motivational quality corrupts the SRL cycle.** Controlled motivation produces ego-defensive monitoring, strategy abandonment at the control phase, and helpless attribution at reflection. The same regulatory behaviours occur, but in a systematically distorted direction.
+4. **The seven effects form a genuine hierarchy.** Deploying metacognition before building failure tolerance for retrieval practice is like trying to run a calibration engine without sensors — the required infrastructure isn't in place.
+5. **Identity-level internalization is the endgame.** The shift from "someone trying retrieval practice" to "someone who uses evidence-based strategies" is the transition that makes strategy use durable and relatively automatic.
+
+**Navigator — which aid answers which question:**
+
+| Question | Aid |
+|---|---|
+| "Why don't I use strategies I know work?" | Aid 1 — Three-Force Map |
+| "Which strategy is most cognitively demanding?" | Aid 2 — Hierarchy |
+| "What should I tell myself when retrieval feels like failure?" | Aid 3 — Framing Matrix |
+| "How does motivation actually break my study cycle?" | Aid 4 — SRL × SDT Flow |
+| "Where am I on the motivation spectrum?" | Aid 5 — SDT Continuum |
+| "Which theorists does this draw from?" | Aid 6 — Influence Map |
+| "What does this look like in practice day-to-day?" | Aid 7 — Before/After |
+| "Give me the one-page version" | Aid 8 — Scorecard |
+
+**Relevant vault links for connection-making:** [[Self-Regulated-Learning]], [[Self-Determination-Theory]], [[Desirable-Difficulties]], [[Metacognitive-Strategy]], [[Achievement-Goal-Theory]], [[Fluency-Illusion]], [[Testing-Effect]], [[Spacing-Effect]], [[Intrinsic-Motivation]], [[Attribution-Theory]], [[Self-Efficacy]], [[Mastery-Goal]], [[Levels-of-Processing-Theory]], [[Cognitive-Load-Theory]]
+
+
+
+
 # Motivation and Academic Reading: Developing Motivational Strategies for the Hierarchy of Learning Effects
 
 > [!abstract] Report Overview

@@ -146,6 +146,628 @@ connection-strength:
   exploratory: ["Computational Metacognition", "AI Metacognition Analogs"]
 ---
 
+Now I have a thorough read of the full ~18,500-word report. Executing the visual aid pipeline.
+
+---
+
+# Visual Aid Suite: Metacognitive Skills — Thinking About Thinking as a Learnable Competency
+
+**Report length:** ~18,500 words | **Audience:** Informed generalist / advanced practitioner
+**Thesis:** Metacognitive skills — monitoring, evaluating, and regulating one's own cognition — are the primary determinant of learning efficiency, are teachable with large transferable effects, and fail in systematic, diagnosable, and correctable ways.
+
+**Aids selected:**
+1. **Causal Architecture** — the report's central backbone (skill stack → learning outcomes)
+2. **Taxonomy Tree** — Flavell's knowledge types + regulation components
+3. **Timeline** — intellectual lineage from Wundt to today
+4. **Process Flow** — Zimmerman SRL Cycle as metacognitive engine
+5. **Comparison Matrix** — four major failure modes side-by-side
+6. **Dependency Graph** — Metacognitive Skill Stack prerequisites
+7. **Before/After Panel** — low vs. high metacognition learner behaviors
+8. **Evidence Ledger** — key claims mapped to evidence base
+9. **Risk Heat Grid** — Metacognitive Failure Taxonomy by layer and severity
+10. **TL;DR Scorecard** — one-page synthesis
+
+---
+
+## Visual Aid 1: The Metacognitive Causal Architecture
+
+**Purpose:** Shows how the four-layer Metacognitive Skill Stack causally connects, and where external calibration must intervene when internal monitoring fails.
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║            THE METACOGNITIVE CAUSAL ARCHITECTURE                         ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+ INPUTS                   SKILL STACK                      OUTPUTS
+ ───────                  ───────────                      ───────
+
+ Domain         ┌─────────────────────────┐
+ Knowledge  ──► │  LAYER 1: KNOWLEDGE     │ ──────────────────────────────►
+                │  Person / Task /        │    Accurate self-model
+ Developmental  │  Strategy               │    & task understanding
+ History    ──► └──────────┬──────────────┘
+                           │ semantic content
+                           ▼
+                ┌─────────────────────────┐
+ JOL / FOK  ──► │  LAYER 2: MONITORING    │ ──────────────────────────────►
+ EOL signals    │  Nelson-Narens          │    Accurate error signal
+                │  meta-level scan        │    or ← FAILURE: false signal
+                └──────────┬──────────────┘         (fluency illusion)
+                           │ error signal
+                    ┌──────┴───────┐
+                    │  Accurate?   │
+                    └──┬───────┬──┘
+                    YES│       │NO → External Calibration Required
+                       │       │    (testing, feedback, peer review)
+                       ▼       ▼
+                ┌─────────────────────────┐
+                │  LAYER 3: REGULATION    │ ──────────────────────────────►
+                │  Planning / Control /   │    Strategy switch,
+                │  Evaluation             │    effort reallocation
+                └──────────┬──────────────┘    or ← FAILURE: strategy inertia
+                           │ corrective action
+                           ▼
+                ┌─────────────────────────┐
+                │  LAYER 4: CALIBRATED    │ ──────────────────────────────►
+                │  ACTION                 │    Adaptive, efficient,
+                │  Integrated performance │    transferable learning
+                └─────────────────────────┘
+
+ ▲                                                              │
+ └──────────────── Feedback loop (Self-reflection phase) ───────┘
+```
+
+**Reading guide:** Read left to right, top to bottom. Each layer feeds the next. The critical branch at Layer 2 (monitoring accuracy) is where most metacognitive failures originate. When internal monitoring fails to generate an accurate signal, external calibration (testing, feedback, expert review) must substitute. Without a clean handoff from monitoring to regulation, even rich metacognitive knowledge produces no adaptive behavior.
+
+**Source:** §2 (Flavell framework), §3 (Nelson-Narens), §5 (Zimmerman SRL), Synthesis section (Skill Stack model)
+
+---
+
+## Visual Aid 2: Flavell's Metacognitive Taxonomy
+
+**Purpose:** Displays the full component structure of metacognition — knowledge types and regulation sub-processes — as a single navigable tree.
+
+```
+METACOGNITION (Flavell, 1976/1979)
+│
+├── A. METACOGNITIVE KNOWLEDGE (Long-term; stable)
+│   │
+│   ├── 1. PERSON KNOWLEDGE
+│   │   ├── Self-knowledge (stable traits: "I struggle with abstraction")
+│   │   ├── Variable characteristics ("I focus better in the morning")
+│   │   └── Universals of human cognition ("recognition > recall for all")
+│   │
+│   ├── 2. TASK KNOWLEDGE
+│   │   ├── Demand recognition ("verbatim recall >> gist recall")
+│   │   ├── Difficulty prediction ("novel > familiar material")
+│   │   └── Format effects ("open-ended > multiple-choice for depth")
+│   │
+│   └── 3. STRATEGY KNOWLEDGE
+│       ├── Declarative ("retrieval practice beats rereading")
+│       ├── Procedural ("how to implement spaced review")
+│       └── Conditional ← CRITICAL GAP
+│           ("when each strategy is warranted — most often absent")
+│
+└── B. METACOGNITIVE REGULATION (Online; dynamic)
+    │
+    ├── 1. PLANNING
+    │   ├── Goal-setting before task
+    │   ├── Prior knowledge activation
+    │   └── Strategy selection
+    │
+    ├── 2. MONITORING  ← Primary failure site
+    │   ├── Comprehension checking (online)
+    │   ├── Progress tracking against goals
+    │   └── Signal generation:
+    │       ├── JOL — Judgment of Learning
+    │       ├── FOK — Feeling of Knowing
+    │       └── EOL — Ease of Learning
+    │
+    └── 3. EVALUATION
+        ├── Post-task outcome assessment
+        ├── Strategy effectiveness judgment
+        └── Calibration updating
+
+    *** METACOGNITIVE EXPERIENCES ***
+    (bridge between knowledge & regulation)
+    Feeling of confusion │ Sense of comprehension │ Task difficulty signal
+```
+
+**Reading guide:** The tree has two main branches: Knowledge (what you know about cognition) and Regulation (how you manage cognition in real time). Metacognitive Experiences are the phenomenological signals — feelings of knowing, confusion, ease — that translate knowledge into regulatory action. The "Conditional" node under Strategy Knowledge is flagged as the critical gap because learners most often know *what* a strategy is but not *when* to apply it, which blocks transfer.
+
+**Source:** §2 (Flavell taxonomy), §4 (person/task/strategy knowledge; declarative-procedural-conditional distinction)
+
+---
+
+## Visual Aid 3: Intellectual History Timeline
+
+**Purpose:** Orients the reader to the lineage of metacognition research from philosophical roots to the contemporary field.
+
+```
+INTELLECTUAL HISTORY OF METACOGNITION
+═══════════════════════════════════════════════════════════════
+
+ Ancient ─── 1879 ─── 1920s ─── 1970 ─── 1979 ─── 1990 ─── 1999 ─── 2009+
+    │           │        │         │         │         │         │        │
+    ▼           ▼        ▼         ▼         ▼         ▼         ▼        ▼
+ "Know      Wundt:   Piaget:   Flavell:  Flavell:  Nelson &  Dunning  Hattie:
+ thyself"   Intro-   Genetic   coins     "Meta-    Narens:   & Kruger: Visible
+ (Delphi /  spective Episte-   "meta-    cognition Monitoring Dunning- Learning
+ Socrates)  psych-   mology    cognition & Cog-    -Control  Kruger   synthesis
+            ology    (implicit) " term   nitive    model     effect   (d>0.5 for
+                               Presiden- Monit-   (object / documen- meta-
+                               tial      oring"   meta-     ted      cognitive
+                               Address   paper     level     (1999)   training)
+                               (APA)
+
+═══════════════════════════════════════════════════════════════
+ PARALLEL TRADITIONS
+───────────────────────────────────────────────────────────────
+ DEVELOPMENTAL ── Flavell, Brown, Ann Brown (reciprocal teaching 1984)
+ COGNITIVE     ── Nelson & Narens, Metcalfe, Schwartz (tip-of-tongue)
+ EDUCATIONAL   ── Zimmerman (SRL cycle 1989-2000), Pintrich
+ CLINICAL      ── Wells (meta-cognitive therapy); Borkowski
+ NEUROSCIENCE  ── PFC localization (Fleming, Frith, 2010s)
+═══════════════════════════════════════════════════════════════
+ CURRENT FRONTIERS
+───────────────────────────────────────────────────────────────
+ Computational metacognition │ AI calibration analogs
+ PKM systems as algorithmic metacognition
+ Neuroscience of monitoring accuracy (anterior PFC)
+```
+
+**Reading guide:** Read left-to-right chronologically. The central spine tracks the main theoretical lineage. The parallel traditions row shows how different disciplines developed independent but converging metacognition research programs. Current frontiers (bottom) map where the report's far-transfer sections point.
+
+**Source:** §1 (historical overview), §2 (Flavell intellectual history), Appendix §8.1 (key researchers)
+
+---
+
+## Visual Aid 4: The Zimmerman SRL Cycle as Metacognitive Engine
+
+**Purpose:** Shows how Zimmerman's three-phase Self-Regulated Learning cycle implements metacognition in action, with the specific metacognitive operations at each phase.
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║           ZIMMERMAN SRL CYCLE — METACOGNITIVE IMPLEMENTATION         ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+                     ┌─────────────────────────┐
+                  ┌──►   PHASE 1: FORETHOUGHT   ◄──┐
+                  │  └─────────────────────────┘   │
+                  │                                  │
+                  │  Metacognitive operations:       │
+                  │  • Goal-setting (task knowledge) │
+                  │  • Strategy selection            │
+                  │  • Prior knowledge activation    │
+                  │  • Self-efficacy calibration     │
+                  │                                  │
+                  │          ↓ Task begins           │
+                  │                                  │
+   Self-          │  ┌─────────────────────────┐    │ Calibration
+   Reflection ────┘  │  PHASE 2: PERFORMANCE   │    │ update feeds
+   feeds next        └─────────────────────────┘    │ back to start
+   Forethought                                       │
+                     Metacognitive operations:       │
+                     • Online comprehension check    │
+                     • Progress monitoring vs. goal  │
+                     • Signal generation:            │
+                     │  JOL — Am I learning this?   │
+                     │  FOK — Can I retrieve later? │
+                     │  EOL — How easy is this?     │
+                     • Strategy adjustment on signal │
+                                                     │
+                          ↓ Task ends                │
+                                                     │
+                  ┌─────────────────────────┐        │
+                  │  PHASE 3: SELF-         ├────────┘
+                  │  REFLECTION             │
+                  └─────────────────────────┘
+
+                  Metacognitive operations:
+                  • Outcome evaluation (vs. goal)
+                  • Causal attribution:
+                  │  Entity lens → "I'm not smart" (→ disengagement)
+                  │  Incremental lens → "Wrong strategy" (→ adjustment)
+                  • Calibration update (JOL accuracy revised)
+                  • Strategy inventory updated for next cycle
+
+═══════════════════════════════════════════════════════════════════════
+ WITHOUT METACOGNITION:  Habit-following or reactive trial-and-error
+ WITH METACOGNITION:     Adaptive, efficient, recursive improvement
+═══════════════════════════════════════════════════════════════════════
+```
+
+**Reading guide:** The cycle runs clockwise. Each phase has distinct metacognitive operations. The critical fork in Phase 3 (attribution style) shows how growth mindset vs. entity mindset directly determines whether the cycle improves or degrades across iterations. Without metacognition, the cycle degenerates into repetition without adaptation.
+
+**Source:** §5 (Zimmerman SRL cycle), §7 (growth mindset as person-knowledge intervention), §2 (monitoring signals)
+
+---
+
+## Visual Aid 5: Metacognitive Failure Modes — Comparison Matrix
+
+**Purpose:** Side-by-side diagnostic comparison of the four major failure types, enabling practitioners to identify which failure is active and what intervention is warranted.
+
+```
+┌──────────────────┬──────────────────┬──────────────────┬──────────────────┐
+│ FAILURE MODE     │ DUNNING-KRUGER   │ ILLUSION OF      │ METACOGNITIVE    │
+│ DIMENSION        │ EFFECT           │ KNOWING          │ BLINDNESS        │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ What fails?      │ Monitoring of    │ Monitoring signal│ Monitoring       │
+│                  │ comparative      │ is false positive│ generates NO     │
+│                  │ performance      │ (fluency ≠ depth)│ signal at all    │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Signal type      │ False HIGH       │ False HIGH       │ ABSENT           │
+│                  │ confidence       │ comprehension    │ (no signal)      │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Mechanism        │ Domain knowledge │ Processing       │ Unknown unknown: │
+│                  │ required to      │ fluency (ease of │ lacks model of   │
+│                  │ judge domain     │ recognition)     │ what it doesn't  │
+│                  │ performance      │ mistaken for     │ know             │
+│                  │                  │ understanding    │                  │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Who is at risk?  │ All learners in  │ All learners;    │ All learners;    │
+│                  │ early-stage      │ esp. re-readers  │ most dangerous   │
+│                  │ domain learning  │                  │ in experts who   │
+│                  │                  │                  │ over-generalize  │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Taxonomy layer   │ Layer 2          │ Layer 2          │ Layer 2          │
+│ (Skill Stack)    │ Monitoring       │ Monitoring       │ Monitoring       │
+│                  │ failure          │ false signal     │ absent signal    │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Evidence base    │ ★★★★★           │ ★★★★☆           │ ★★★★☆           │
+│                  │ Dozens of        │ Glenberg et al.; │ Conceptual;      │
+│                  │ replications     │ strong indirect  │ strong inference │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Self-correcting? │ NO — low         │ NO — rereading   │ NO — impossible  │
+│                  │ performers lack  │ increases        │ from the inside  │
+│                  │ the skill needed │ the illusion     │ by definition    │
+│                  │ to diagnose it   │                  │                  │
+├──────────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ Primary fix      │ External         │ Retrieval        │ External         │
+│                  │ performance      │ practice;        │ comparison       │
+│                  │ feedback;        │ testing before   │ standard ONLY    │
+│                  │ calibration      │ restudying       │ (tests, experts, │
+│                  │ standards        │                  │ peer review)     │
+└──────────────────┴──────────────────┴──────────────────┴──────────────────┘
+
+  HINDSIGHT BIAS (crosses all domains):
+  Mechanism: Retroactive distortion of prior predictions → calibration
+  learning is prevented because the memory of prior uncertainty is
+  overwritten. Fix: Prospective prediction logs; pre-mortems.
+```
+
+**Reading guide:** Each column is a distinct failure mode; rows are diagnostic dimensions. Notice that all four failures cluster at Layer 2 (Monitoring) of the Skill Stack — this is why the report positions monitoring accuracy as the primary intervention target. The "self-correcting?" row is the most practically important: all four failures require external intervention, not merely increased self-reflection.
+
+**Source:** §8 (failure modes), Synthesis (Metacognitive Failure Taxonomy)
+
+---
+
+## Visual Aid 6: Metacognitive Skill Stack — Dependency Graph
+
+**Purpose:** Makes explicit what must be in place before each higher layer can function — mapping the prerequisite structure that dictates intervention sequencing.
+
+```
+                    ┌───────────────────────────────┐
+                    │   CALIBRATED PERFORMANCE       │  ← Expert-level
+                    │   Integrated metacognitive     │    adaptive learning
+                    │   agency across full cycle     │
+                    └───────────────────────────────┘
+                                   ▲
+                    requires       │       requires
+          ┌────────────────────────┼────────────────────────┐
+          │                        │                         │
+┌─────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+│  REGULATION     │     │  CALIBRATED      │     │  REFLECTION      │
+│  FLEXIBILITY    │     │  EXTERNAL        │     │  (Attribution    │
+│  strategy       │     │  FEEDBACK        │     │  accuracy +      │
+│  repertoire     │     │  testing, expert │     │  growth mindset) │
+│  & switching    │     │  review, peers   │     │                  │
+└─────────────────┘     └──────────────────┘     └──────────────────┘
+         ▲                        ▲                        ▲
+         │                        │                        │
+         └──────────────┬─────────┘                        │
+                        │                                   │
+                ┌───────────────────┐            requires   │
+                │  MONITORING       │                       │
+                │  ACCURACY         │ ──────────────────────┘
+                │  (JOL / FOK / EOL │
+                │  calibration)     │
+                └───────────────────┘
+                        ▲
+                        │ requires
+          ┌─────────────┼──────────────┐
+          │             │              │
+┌──────────────┐ ┌────────────┐ ┌────────────────┐
+│ PERSON       │ │ TASK       │ │ STRATEGY       │
+│ KNOWLEDGE    │ │ KNOWLEDGE  │ │ KNOWLEDGE      │
+│ (stable self-│ │(demand     │ │(decl.+proc.+   │
+│  model)      │ │ recognition│ │ conditional)   │
+└──────────────┘ └────────────┘ └────────────────┘
+        ▲               ▲               ▲
+        │               │               │
+        └───────────────┴───────────────┘
+                        │
+                DOMAIN KNOWLEDGE BASE
+                (necessary substrate for
+                 all metacognitive layers)
+```
+
+**Reading guide:** Read bottom to top. The foundational prerequisite is domain knowledge — without it, no metacognitive layer above can function correctly. The three knowledge types (person, task, strategy) must develop before monitoring accuracy is possible. Monitoring accuracy is the gateway to effective regulation. External calibration (middle column) is a parallel prerequisite that compensates for monitoring failures the internal system cannot self-correct. Interventions must target the lowest unmet prerequisite.
+
+**Source:** §4 (knowledge types), §3 (Nelson-Narens monitoring), Synthesis (Skill Stack model), §8 (blindness requires external fix)
+
+---
+
+## Visual Aid 7: Low vs. High Metacognition — Before/After Learner Panel
+
+**Purpose:** Renders the practical behavioral difference between a metacognitively naive learner and a metacognitively skilled one across a complete study cycle.
+
+```
+┌────────────── LOW METACOGNITION ────────────┬────────────── HIGH METACOGNITION ──────────┐
+│                                              │                                              │
+│  BEFORE STUDY                                │  BEFORE STUDY                                │
+│  • Opens textbook and begins reading         │  • Asks: What do I need to achieve?         │
+│  • No goal articulation                      │  • Activates prior knowledge deliberately    │
+│  • Strategy: default to rereading            │  • Selects strategy for this task type       │
+│  • Self-efficacy: vague confidence           │  • Self-efficacy: calibrated to prior data   │
+│                                              │                                              │
+│  DURING STUDY                                │  DURING STUDY                                │
+│  • Reads until "it feels understood"         │  • Tests comprehension before moving on      │
+│  • Familiarity signals mistaken for learning │  • Knows fluency ≠ understanding (trained)  │
+│  • Highlights; rereads highlighted passages  │  • Self-tests (retrieval > rereading)        │
+│  • Confidence rises as material feels easier │  • Disfluency during testing treated as      │
+│  • No strategy switching triggered           │    productive, not as evidence of failure    │
+│  • No error log                              │  • Adjusts strategy when monitoring flags gap│
+│                                              │  • Logs errors for targeted review           │
+│  AFTER STUDY                                 │  AFTER STUDY                                 │
+│  • Feels confident ("I understand this")     │  • Checks prediction against actual test     │
+│  • Attributes poor outcomes to:              │  • Attributes outcomes to:                   │
+│    bad luck / hard exam / bad teacher        │    strategy choice and preparation (modif.)  │
+│  • Updates nothing                           │  • Updates strategy inventory and time alloc.│
+│  • Repeats same study cycle next time        │  • Designs next cycle to address diagnosed   │
+│                                              │    gaps — retrieval-first, spaced, targeted  │
+│  OUTCOME TRAJECTORY                          │  OUTCOME TRAJECTORY                          │
+│  ──────────────────                          │  ──────────────────                          │
+│  Performance ──► PLATEAU                     │  Performance ──► IMPROVEMENT (recursive)     │
+│  Strategy repertoire: FIXED                  │  Strategy repertoire: EXPANDING              │
+│  Self-knowledge: DISTORTED                   │  Self-knowledge: CALIBRATED                  │
+│  Transfer: MINIMAL (strategy stays local)    │  Transfer: HIGH (conditional knowledge used) │
+└──────────────────────────────────────────────┴──────────────────────────────────────────────┘
+```
+
+**Reading guide:** Read each row left-to-right across the divide. The Before/During/After structure maps onto Zimmerman's three SRL phases. Every behavioral difference in the right column traces to a specific metacognitive skill: monitoring accuracy changes During Study; calibrated attribution changes After Study; conditional knowledge changes the Before Study strategy selection. The outcome trajectories diverge not from intelligence or effort differences but from metacognitive architecture.
+
+**Source:** §1 (fluency illusion, strategy preference), §5 (SRL cycle), §7 (desirable difficulties, attribution reframing)
+
+---
+
+## Visual Aid 8: Evidence Ledger — Key Claims and Their Support
+
+**Purpose:** Links the report's central claims to their evidence types and strength, enabling critical evaluation.
+
+```
+┌───────────────────────────────────────┬──────────────────┬──────────┬──────────┐
+│ CLAIM                                 │ EVIDENCE TYPE    │ STRENGTH │ SECTION  │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Metacognitive training produces large │ Meta-analysis    │  ★★★★★  │  §1, §7  │
+│ learning gains (d ≥ 0.5)             │ Hattie synthesis │          │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Retrieval practice outperforms        │ Multiple RCTs;   │  ★★★★★  │  §7      │
+│ rereading for long-term retention     │ Roediger et al.  │          │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Dunning-Kruger: low performers        │ Experimental;    │  ★★★★☆  │  §1, §8  │
+│ systematically overestimate           │ dozens of replic.│          │          │
+│                                       │ (methodol. debate│          │          │
+│                                       │  on exact effect)│          │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Growth mindset intervention shifts    │ Longitudinal RCT │  ★★★★☆  │  §7      │
+│ academic trajectories (Blackwell)     │ (Blackwell 2007) │  (some   │          │
+│                                       │                  │  replica.│          │
+│                                       │                  │  issues) │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Processing fluency is an unreliable   │ Experimental;    │  ★★★★☆  │  §2, §8  │
+│ indicator of actual learning          │ Glenberg et al.; │          │          │
+│ (fluency illusion)                    │ JOL research     │          │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Metacognitive training must include   │ Experimental;    │  ★★★★☆  │  §7      │
+│ conditional knowledge for transfer    │ Pressley, Brown  │          │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Deliberate practice requires          │ Expert-novice    │  ★★★★☆  │  §1      │
+│ metacognitive regulation (Ericsson)   │ comparative;     │          │          │
+│                                       │ correlational    │          │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Metacognitive Skill Stack model       │ Theoretical      │  ★★★☆☆  │  Synth.  │
+│ (Knowledge→Monitor→Regulate→Action)   │ integration;     │          │          │
+│                                       │ NOT empirical    │          │          │
+├───────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Hindsight bias prevents calibration   │ Correlational;   │  ★★★☆☆  │  §8      │
+│ learning from experience              │ strong theory;   │          │          │
+│                                       │ some causal gaps │          │          │
+└───────────────────────────────────────┴──────────────────┴──────────┴──────────┘
+Legend: ★★★★★ very strong (replicated meta-analyses)  ★★★★☆ strong (replicated RCTs)
+        ★★★☆☆ moderate (good theory + correlational)  ★★☆☆☆ weak (preliminary)
+```
+
+**Reading guide:** Claims in the top half have the strongest evidence bases; the Metacognitive Skill Stack row is explicitly flagged as theoretical integration rather than empirical finding — an honest signal from the report itself. The strength column enables readers to calibrate how much to rely on each claim in practice. The section column provides a direct pointer for deeper reading.
+
+**Source:** §1, §7, §8, Synthesis, and §8.12 (quality self-assessment)
+
+---
+
+## Visual Aid 9: Metacognitive Failure Taxonomy — Risk-Severity Heat Grid
+
+**Purpose:** Maps all failure types from the report's Failure Taxonomy across two axes — which Skill Stack layer fails (x-axis) and how severe/consequential the failure is (y-axis) — using ASCII shading to convey intensity.
+
+```
+            METACOGNITIVE FAILURE TAXONOMY — RISK HEAT GRID
+
+SEVERITY     LAYER 1          LAYER 2          LAYER 3          LAYER 4
+(Impact on   KNOWLEDGE        MONITORING       REGULATION       INTEGRATION
+learning     FAILURES         FAILURES         FAILURES         FAILURES
+outcomes)    ─────────────    ─────────────    ─────────────    ─────────────
+
+CRITICAL     Entity theory    Metacognitive    Metacognitive    Monitoring-
+(pervasive,  belief           BLINDNESS        Disengagement    Control Gap
+systemic,    (intelligence    (no signal at    (monitoring      (accurate JOL
+hard to fix) is fixed)        all; requires    accurate but     ≠ adaptive
+             ▓▓▓▓▓▓▓▓▓▓▓▓    external fix)    regulation       study alloc.)
+                              ████████████     withdraws)       ▓▓▓▓▓▓▓▓▓▓▓▓
+                                               ████████████
+
+HIGH         False strategy   DUNNING-         Strategy         Performance-
+(frequent,   beliefs          KRUGER           Inertia          Calibration
+recoverable  (re-reading =    (false positive  (monitoring      Decoupling
+with interv) good learning)   overconfidence;  signals failure; (JOL accurate,
+             ▒▒▒▒▒▒▒▒▒▒▒▒    DK aware = step  no strategy      performance
+                              toward fix)      switch)          still poor)
+                              ▓▓▓▓▓▓▓▓▓▓▓▓    ▒▒▒▒▒▒▒▒▒▒▒▒    ▒▒▒▒▒▒▒▒▒▒▒▒
+
+MODERATE     Miscalibrated    ILLUSION OF      Hindsight Bias   Context-bound
+(domain-     task demand      KNOWING          (retroactive     strategy
+specific,    assessment       (fluency ≠       distortion of    activation
+often        ░░░░░░░░░░░░    depth; potent-   prior uncert.)   (no transfer)
+correctable)                  iated by         ▒▒▒▒▒▒▒▒▒▒▒▒    ░░░░░░░░░░░░
+                              rereading)
+                              ▒▒▒▒▒▒▒▒▒▒▒▒
+
+LOW          Absent person    Mild JOL         Minor strategy   Slow
+(minor,      knowledge        overconfidence   persistence      calibration
+context-     (not knowing     (corrects with   before switch    updating
+specific)    one's own        first test)      ░░░░░░░░░░░░    ░░░░░░░░░░░░
+             patterns)        ░░░░░░░░░░░░
+             ░░░░░░░░░░░░
+
+═══════════════════════════════════════════════════════════════════════════════
+Legend: ████ critical zone │ ▓▓▓▓ high │ ▒▒▒▒ moderate │ ░░░░ low
+Intervention priority = CRITICAL cells first → work down and across
+```
+
+**Reading guide:** The darkest cells identify highest-priority intervention targets. Metacognitive Blindness (Layer 2, Critical) and Entity Theory beliefs (Layer 1, Critical) are the two most dangerous failure modes — one because it is invisible from the inside, one because it poisons how all monitoring signals are interpreted. All Layer 2 failures require external calibration as primary fix. Layer 3 failures respond more readily to internal training (strategy repertoire expansion, attribution retraining). Layer 4 failures are addressed by full-cycle practice integrating all layers simultaneously.
+
+**Source:** Synthesis section (Metacognitive Failure Taxonomy), §8 (failure mode analysis), §4 (entity theory), §7 (training)
+
+---
+
+## Visual Aid 10: Metacognitive Skills — Transfer Map
+
+**Purpose:** Shows how the core metacognitive architecture described in the report transfers to four domains beyond formal education.
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║            FAR TRANSFER — METACOGNITIVE ARCHITECTURE IN CONTEXT          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+ CORE PRINCIPLE          TRANSFER DOMAIN          HOW IT MAPS
+ ─────────────           ───────────────          ──────────
+ Nelson-Narens      ──►  PERSONAL KNOWLEDGE       Spaced repetition =
+ Monitoring-            MANAGEMENT (PKM)          algorithmic JOL
+ Control                                          Zettelkasten notes =
+                         Strength: ★★★★☆          externalized monitoring
+                         Limit: PKM ≠ novel        Review intervals =
+                         domain metacognition       control decisions
+ ────────────────────────────────────────────────────────────────────────
+ Failure Mode       ──►  PROFESSIONAL             Systematic review =
+ Taxonomy               DECISION-MAKING           anti-hindsight bias
+ (illusion of           (medicine, finance,       Pre-mortem = force
+ knowing, DK,           policy, military)         Forethought-phase
+ hindsight bias)                                  monitoring
+                         Strength: ★★★★★          Peer review = external
+                         Well-documented           calibration for blindness
+ ────────────────────────────────────────────────────────────────────────
+ Calibration       ──►  ARTIFICIAL                ML calibration scores =
+ (JOL accuracy         INTELLIGENCE               JOL accuracy analog
+ = epistemic            SYSTEMS                   RAG systems =
+ accuracy)                                        architecture for
+                         Strength: ★★★☆☆          external monitoring
+                         Structural analogy;       "Does model know what
+                         not isomorphic            it doesn't know?" =
+                                                  FOK architecture
+ ────────────────────────────────────────────────────────────────────────
+ Regulation        ──►  COLLABORATIVE             Red team/blue team =
+ (Monitoring →          REASONING &               assigned monitoring
+ Control)               DIALOGUE                  Pre-mortem = collective
+                                                  Forethought phase
+                         Strength: ★★★★☆          Argument mapping =
+                                                  externalized inference
+                                                  monitoring
+```
+
+**Reading guide:** Each row reads left-to-right: the core metacognitive mechanism (left) is the structural principle being transferred; the domain (middle) shows where it applies; the right column shows the concrete implementation. Star ratings reflect transfer confidence — the AI column is weaker because the analogy is structural rather than mechanistic. The PKM transfer is the most directly relevant for this vault's mission.
+
+**Source:** Far Transfer section (all four transfer domains)
+
+---
+
+## Synthesis Packet
+
+### Top 5 Takeaways
+
+1. **Metacognitive skill is the regulatory engine of all learning.** Without it, even motivated, high-effort learners gravitate toward low-efficacy strategies (rereading, massed practice) that feel productive but produce minimal durable learning. Metacognition is not a "soft skill" — it is the primary determinant of learning efficiency.
+
+2. **The Metacognitive Skill Stack has a strict dependency order.** Intervention must target the lowest unfulfilled layer: Knowledge → Monitoring → Regulation → Integration. Training regulation in learners who lack monitoring accuracy is analogous to training speed before form — it accelerates dysfunction.
+
+3. **Monitoring failures are systematic and not self-correcting.** The Dunning-Kruger effect, illusion of knowing, and metacognitive blindness all require *external* calibration standards — testing, expert feedback, peer review — because the internal monitoring system literally cannot see what it cannot see. External structure is not supplementary; it is irreplaceable.
+
+4. **Training must include the "why and when," not just the "how."** Conditional knowledge is the most under-taught component of strategy knowledge and the primary determinant of transfer. Metacognitive strategies taught without rationale and varied application contexts stay context-bound and fail to generalize.
+
+5. **Growth mindset is a metacognitive person-knowledge intervention.** Entity vs. incremental intelligence beliefs determine how monitoring signals of difficulty are interpreted — as threats (disengagement) or challenges (mastery response). A single well-designed mindset shift can alter the interpretation of every subsequent difficulty signal across the learning career.
+
+---
+
+### Navigator — Which Aid Answers Which Question
+
+| Reader Question | Best Aid |
+|---|---|
+| "What is the overall causal model of this report?" | Aid 1 (Causal Architecture) |
+| "What are all the components of metacognition?" | Aid 2 (Flavell Taxonomy Tree) |
+| "Where did this field come from?" | Aid 3 (Timeline) |
+| "How does metacognition operate during a study session?" | Aid 4 (SRL Cycle) |
+| "Which failure mode is affecting this learner?" | Aid 5 (Failure Comparison Matrix) |
+| "What must be in place before I can target higher skills?" | Aid 6 (Dependency Graph) |
+| "What does poor vs. good metacognition look like concretely?" | Aid 7 (Before/After Panel) |
+| "How strong is the evidence for these claims?" | Aid 8 (Evidence Ledger) |
+| "How urgent/serious is each failure type?" | Aid 9 (Risk Heat Grid) |
+| "How do these ideas apply outside the classroom?" | Aid 10 (Transfer Map) |
+
+---
+
+### Final Scorecard
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              REPORT SCORECARD                                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Core thesis  : Metacognitive skills are the regulatory engine   ║
+║               of learning; they are learnable, they fail        ║
+║               systematically, and the failures are fixable —    ║
+║               but only partly from the inside.                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Strongest evd: Retrieval practice > rereading (RCT-replicated)  ║
+║               Hattie d > 0.5 for metacognitive training         ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Weakest link : Metacognitive Skill Stack is theoretical         ║
+║               integration, not empirical — treat as organizing  ║
+║               framework, not established model                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Original     : Metacognitive Failure Taxonomy (diagnostic tool) ║
+║ contributions: Metacognitive Skill Stack (developmental arch.)  ║
+║               Algorithmic metacognition concept (PKM)           ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Key action   : Replace rereading with retrieval practice;       ║
+║               seek external calibration (tests, feedback);      ║
+║               teach strategy rationale, not just mechanics      ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Read if you  : Teach, design curricula, build PKM systems,      ║
+║               study deliberately, or manage knowledge workers   ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Quality score: 8.56/10 (report's own self-assessment — honest   ║
+║               about cultural and neuroscience limitations)      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+
+
+
 # Metacognitive Skills: Thinking About Thinking as a Learnable Competency
 
 ## Abstract

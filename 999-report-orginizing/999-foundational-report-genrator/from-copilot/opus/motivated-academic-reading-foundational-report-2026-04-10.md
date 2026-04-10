@@ -150,6 +150,659 @@ connection-strength:
 
 ---
 
+Now I have a thorough picture of the report. Let me build the full suite.
+
+---
+
+# Visual Aid Suite: Motivated Academic Reading
+
+**Report length:** ~13,500 words
+**Audience:** Informed generalist / advanced self-directed learner
+**Thesis:** Motivated academic reading is not a trait but an emergent property of correctly configured cognitive competence, need-satisfying environments, and progressively internalized regulatory structures — and evidence-based strategies must be hierarchically sequenced to address each layer in prerequisite order.
+
+**Aids selected:**
+1. **Argument Map** — captures the bidirectional causal spine of the report
+2. **Dependency / Prerequisite Graph** — the three-tier strategy hierarchy's logical structure
+3. **Taxonomy Tree** — the three-level text representation architecture
+4. **2×2 Quadrant** — achievement goal orientations and their reading consequences
+5. **Process / Flow Diagram** — Zimmerman's SRL cycle applied to academic reading
+6. **Concept Map** — the Motivational-Cognitive Reading Stack (original synthesis)
+7. **Before / After Panel** — vicious cycle vs. virtuous cycle reader behaviors
+8. **Evidence Ledger** — key claims rated by evidential strength
+9. **Timeline / Chronology Band** — interest development phases
+10. **TL;DR Scorecard** — synthesis and navigator
+
+---
+
+## Visual Aid 1: Argument Map — The Causal Spine
+
+**Purpose:** Shows why motivation and cognition are structurally interdependent, and why one cannot be fixed without the other.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│           THE CENTRAL INTERDEPENDENCE ARGUMENT                           │
+└──────────────────────────────────────────────────────────────────────────┘
+
+  COGNITIVE COMPETENCE                    MOTIVATIONAL ORIENTATION
+  (Fluency, Vocabulary,                   (Autonomous regulation,
+   Working Memory, Schema)                 Mastery goals, Need-satisfaction)
+         │                                          │
+         │ makes engagement                         │ drives effortful
+         │ cognitively rewarding                    │ strategy deployment
+         │                                          │
+         └──────────────┬───────────────────────────┘
+                        │
+                        ▼
+            ┌───────────────────────┐
+            │   SITUATION MODEL     │
+            │   CONSTRUCTION        │
+            │  (genuine understanding│
+            │   of text's world)    │
+            └───────────┬───────────┘
+                        │ produces
+                        ▼
+            ┌───────────────────────┐
+            │  COMPETENCE NEED      │
+            │  SATISFACTION         │
+            │  (felt sense of real  │
+            │   understanding)      │
+            └───────────┬───────────┘
+                        │ feeds
+                        ▼
+            ┌───────────────────────┐
+            │  INTRINSIC MOTIVATION │
+            │  REINFORCEMENT        │
+            │  (want to read more,  │
+            │   deeper, longer)     │
+            └───────────┬───────────┘
+                        │
+            ┌───────────┴───────────┐
+            ▼                       ▼
+   Better strategies         More reading time
+   deployed more             invested willingly
+   persistently
+            │                       │
+            └───────────┬───────────┘
+                        ▼
+            STRONGER COGNITIVE COMPETENCE
+            (cycle accelerates — Matthew Effect)
+
+─────────────────────────────────────────────────────────────────────────
+WHERE THE CYCLE BREAKS (three failure modes)
+
+  Competence deficit  →  no situation models  →  no reward  →  avoidance
+  Autonomy erosion    →  controlled reading   →  surface processing  →  decay
+  Relatedness gap     →  epistemic alienation →  no curiosity  →  disengagement
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** Read top-to-bottom first: cognitive competence and motivational orientation jointly enable situation model construction, which in turn satisfies the competence need, which fuels more intrinsic motivation in a self-reinforcing loop. Then read the failure-mode panel at the bottom — each maps to one of the three basic psychological need threats identified in Section 1. The bidirectional arrows at the top are the report's central claim: neither side can be fixed alone.
+
+**Source:** §1.1–1.2, §2.1, §4.1–4.2, §6.1
+
+---
+
+## Visual Aid 2: Prerequisite Graph — The Three-Tier Strategy Hierarchy
+
+**Purpose:** Makes explicit what each tier logically requires from the tier below, demonstrating why sequencing matters.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│        THE THREE-TIER STRATEGY HIERARCHY (prerequisite logic)            │
+└──────────────────────────────────────────────────────────────────────────┘
+
+TIER 3 — MOTIVATIONAL ARCHITECTURE
+  Autonomous regulation, Mastery goals,
+  Intrinsic goal framing, Interest-building,
+  Reading identity development
+         ▲
+         │  REQUIRES: reliable experience of genuine
+         │  understanding to remain self-sustaining
+         │
+TIER 2 — COMPREHENSION-ORIENTED STRATEGIES
+  Self-explanation, Elaborative interrogation,
+  Retrieval practice, KWL pre-questioning,
+  Active annotation, Spaced repetition
+         ▲
+         │  REQUIRES: sufficient cognitive headroom
+         │  (working memory free for inference)
+         │
+TIER 1 — COGNITIVE FOUNDATION
+  Vocabulary pre-loading, Fluency development,
+  Strategic text selection (70-80% comprehension),
+  Load management (chunking, environment, consolidation)
+
+─────────────────────────────────────────────────────────────────────────
+DIAGNOSTIC DECISION TREE
+
+Reader cannot sustain engagement?
+├─ Has good motivation but poor comprehension?
+│   └─► INTERVENE AT TIER 2
+│
+├─ Has good comprehension but loses motivation over time?
+│   └─► INTERVENE AT TIER 3
+│
+└─ Cannot comprehend despite motivation and strategy?
+    └─► INTERVENE AT TIER 1
+
+─────────────────────────────────────────────────────────────────────────
+CRITICAL NOTE: "Tier 1 = lower priority" is a MISREADING.
+Tier 1 = NECESSARY PREREQUISITE — without it, Tiers 2 & 3 cannot operate.
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** The arrows point upward to show dependency: higher tiers presuppose lower-tier conditions. Tier 1 without Tier 2 produces technically competent but intellectually shallow reading; Tier 2 without Tier 1 burns cognitive resources before inference can begin; Tier 3 without Tier 2 produces enthusiasm that collapses when the reading fails to reward. The diagnostic tree at the bottom operationalizes the report's central practical implication: identify the *lowest* tier where the system is failing before prescribing strategies.
+
+**Source:** §6.1–6.4
+
+---
+
+## Visual Aid 3: Taxonomy Tree — The Three-Level Architecture of Text Representation
+
+**Purpose:** Clarifies what "genuine comprehension" means cognitively, and why most study strategies fall short.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│          THREE LEVELS OF TEXT REPRESENTATION (Kintsch & van Dijk)        │
+└──────────────────────────────────────────────────────────────────────────┘
+
+TEXT COMPREHENSION
+│
+├── Level 1: SURFACE CODE
+│   │
+│   ├── Definition: verbatim linguistic content, exact words & syntax
+│   ├── Duration: highly transient — lost within seconds/minutes
+│   ├── Use: minimal academic utility on its own
+│   └── Target of: rote memorization, verbatim copying
+│
+├── Level 2: TEXTBASE
+│   │
+│   ├── Definition: propositional content — what the text stated
+│   ├── Duration: moderate — supports recall and paraphrase
+│   ├── Use: adequate for factual recall; insufficient for transfer
+│   └── Target of: most common study strategies
+│           ├── note-taking (without elaboration)
+│           ├── underlining / highlighting
+│           └── summary writing without self-explanation
+│
+└── Level 3: SITUATION MODEL  ◄──── TARGET FOR ACADEMIC READING
+    │
+    ├── Definition: analog mental model of the world the text describes
+    │   (entities, causal relationships, logical structure)
+    ├── Duration: durable — enables transfer and inference
+    ├── Use: genuine comprehension, novel problem transfer, PKM integration
+    └── Target of: evidence-based Tier 2 strategies
+            ├── self-explanation ("what does this mean in my words?")
+            ├── elaborative interrogation ("why is this true?")
+            ├── retrieval practice (forces model testing)
+            └── annotation with explanatory paraphrases
+
+─────────────────────────────────────────────────────────────────────────
+THE GAP: Most academic readers target Level 2.
+         Most academic purposes require Level 3.
+         The strategies to reach Level 3 require motivated effort.
+         ∴ Motivation and comprehension are structurally linked.
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** This tree shows the cognitive hierarchy that Section 2 establishes as the foundation for everything else. Surface code and textbase are not "wrong" — they are simply insufficient. The critical insight for self-directed learners is in the bottom panel: the gap between where most strategies aim (Level 2) and where academic purposes require understanding (Level 3) is precisely why motivated deep processing matters. Only Tier 2 strategies reliably target Level 3.
+
+**Source:** §2.1–2.2
+
+---
+
+## Visual Aid 4: 2×2 Quadrant — Achievement Goal Orientations in Academic Reading
+
+**Purpose:** Maps the four goal orientations and their contrasting predictions for reading behavior.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│    ACHIEVEMENT GOAL ORIENTATIONS — Reading Behavior Predictions          │
+│                        (Elliot & McGregor, 2001)                         │
+└──────────────────────────────────────────────────────────────────────────┘
+
+                        APPROACH (seeking)
+                              ▲
+                              │
+  MASTERY-APPROACH            │       PERFORMANCE-APPROACH
+  • Deep processing           │       • Adequate-to-surface processing
+  • Persistence under diff.   │       • Engagement while assessed
+  • Genuine comprehension      │       • Grade / comparison motivated
+  • Curiosity-driven           │       • Achievement without deep learning
+  • Best long-term outcome     │       • Risk: exam competence ≠ real understanding
+                              │
+  MASTERY ◄──────────────────┼───────────────────────► PERFORMANCE
+  (self-referenced)           │                         (other-referenced)
+                              │
+  MASTERY-AVOIDANCE           │       PERFORMANCE-AVOIDANCE
+  • Fear of not understanding  │       ★ WORST OUTCOME ★
+  • Paralysis at difficulty     │       • Avoidance of challenge
+  • Shame spirals at failure   │       • Surface processing to hide gaps
+  • Rumination, not strategy   │       • Learned helplessness
+  • Underdiagnosed in high-    │       • Withdrawal from academic texts
+    achieving students         │       • Activated by public failure threat
+                              │
+                              ▼
+                        AVOIDANCE (fearing)
+
+─────────────────────────────────────────────────────────────────────────
+DIAGNOSTIC IMPLICATION:
+"I don't like academic reading" — FIRST QUESTION:
+  Which quadrant is this reader operating from?
+  Each quadrant requires a different intervention.
+─────────────────────────────────────────────────────────────────────────
+ENVIRONMENTAL LEVER:
+  Controlling / comparative environments → push readers RIGHTWARD
+  Autonomy-supportive / mastery environments → pull readers LEFTWARD
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** The horizontal axis contrasts mastery (self-improvement) with performance (social comparison); the vertical axis contrasts approach (seeking success) with avoidance (fearing failure). The ideal for academic reading development is the upper-left quadrant: mastery-approach orientation. The environmental lever at the bottom is critical: the same reader can occupy different quadrants depending on whether they perceive their reading environment as supporting autonomy or enforcing comparison. The asterisk on performance-avoidance marks the report's finding that this quadrant is most consistently associated with negative reading outcomes.
+
+**Source:** §5.1–5.2
+
+---
+
+## Visual Aid 5: Process Flow — Zimmerman's SRL Cycle Applied to Academic Reading
+
+**Purpose:** Operationalizes what self-regulated reading looks like as a concrete phase-by-phase sequence.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│      ZIMMERMAN'S CYCLICAL SRL MODEL — Academic Reading Application       │
+└──────────────────────────────────────────────────────────────────────────┘
+
+  ┌─────────────────────────────────────────┐
+  │         PHASE 1: FORETHOUGHT            │
+  │   (before reading begins)               │
+  │                                         │
+  │  ● Set specific comprehension goals     │
+  │  ● Plan strategy selection              │
+  │    (which tier strategies for           │
+  │     this text type & difficulty?)       │
+  │  ● Activate intrinsic goal frames       │
+  │    ("What am I genuinely curious        │
+  │     about? Why does this matter?)       │
+  │  ● KWL: generate pre-questions          │
+  │  ● Vocabulary pre-load if needed        │
+  └────────────────────┬────────────────────┘
+                       │
+                       ▼
+  ┌─────────────────────────────────────────┐
+  │        PHASE 2: PERFORMANCE             │
+  │   (during reading)                      │
+  │                                         │
+  │  ● Comprehension monitoring (meta-level)│
+  │    ─ Is a coherent situation model      │
+  │      forming? What is unclear?          │
+  │    ─ Watch for Fluency Illusion:        │
+  │      easy reading ≠ real understanding  │
+  │                                         │
+  │  ● Strategy deployment (object-level)   │
+  │    ─ Self-explanation paragraph by para.│
+  │    ─ Elaborative interrogation (why?)   │
+  │    ─ Active annotation                  │
+  │    ─ Adjust reading pace to difficulty  │
+  │                                         │
+  │  ● Fix-up when monitoring detects fail: │
+  │    Local failure → re-read nearby       │
+  │    Global failure → re-read from anchor │
+  │    Vocabulary gap → external look-up    │
+  │    Knowledge gap → suspend & acquire    │
+  └────────────────────┬────────────────────┘
+                       │
+                       ▼
+  ┌─────────────────────────────────────────┐
+  │      PHASE 3: SELF-REFLECTION           │
+  │   (after reading session)               │
+  │                                         │
+  │  ● Self-evaluation: What did I          │
+  │    genuinely understand? What remains   │
+  │    unclear?                             │
+  │  ● Retrieval practice: Close text,      │
+  │    reconstruct main argument from       │
+  │    memory, check accuracy               │
+  │  ● Causal attribution: Did failure come │
+  │    from poor strategy, vocabulary gap,  │
+  │    attention, or prior knowledge?       │
+  │  ● Adaptive planning: What changes      │
+  │    for next session?                    │
+  │  ● Schedule spaced review of notes      │
+  └────────────────────┬────────────────────┘
+                       │
+                       └──────► feeds next Forethought Phase
+                                (cycle = self-improving over time)
+
+─────────────────────────────────────────────────────────────────────────
+KEY INSIGHT: The cycle is self-improving ONLY if Phase 3 is executed.
+Readers who skip self-reflection merely repeat reading, not improve it.
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** Follow the phases top to bottom, then loop the bottom arrow back to the top — the cycle is iterative across reading sessions. The most underexecuted phase is Phase 3: most readers stop when the text ends rather than completing the retrieval, attribution, and planning loop. Without Phase 3, even good in-session strategies fail to compound over time. The fix-up strategy decision tree inside Phase 2 reflects the report's observation that the correct fix-up depends on accurate diagnosis of the failure type.
+
+**Source:** §7.2
+
+---
+
+## Visual Aid 6: Concept Map — The Motivational-Cognitive Reading Stack
+
+**Purpose:** Displays the report's original integrative synthesis as a layered architectural model.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│   THE MOTIVATIONAL-COGNITIVE READING STACK (Original Synthesis)          │
+│   [well-motivated synthesis — not yet empirically validated as package]  │
+└──────────────────────────────────────────────────────────────────────────┘
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║  LAYER 3 — MOTIVATIONAL ARCHITECTURE                                     ║
+║  (governs persistence and regulatory quality over time)                  ║
+║                                                                          ║
+║  Autonomous regulation · Mastery orientation · Incremental ability      ║
+║  beliefs · Intrinsic goal framing · Interest development ·              ║
+║  Reading identity · Autonomy-supportive environment design               ║
+║                                                                          ║
+║  Addressed by: TIER 3 strategies                                         ║
+║  Failure symptom: Disengages from reading programs despite adequate      ║
+║  comprehension; motivation doesn't compound over time                    ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  LAYER 2 — COMPREHENSION PROCESSING                                      ║
+║  (converts cognitive capacity into genuine understanding experiences)    ║
+║                                                                          ║
+║  Situation model construction · Self-explanation · Elaborative           ║
+║  interrogation · Active annotation · Retrieval practice ·               ║
+║  Spaced repetition · Comprehension monitoring                            ║
+║                                                                          ║
+║  Addressed by: TIER 2 strategies                                         ║
+║  Failure symptom: Cannot experience genuine understanding even when      ║
+║  cognitively capable; cannot extract meaning from fluent decoding        ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  LAYER 1 — COGNITIVE PRE-CONDITIONS                                      ║
+║  (necessary substrate; without this, upper layers cannot function)       ║
+║                                                                          ║
+║  Reading fluency · Domain vocabulary · Working memory management ·      ║
+║  Prior knowledge structures · Load management · Text difficulty          ║
+║  calibration (70-80% comprehension zone)                                 ║
+║                                                                          ║
+║  Addressed by: TIER 1 strategies                                         ║
+║  Failure symptom: Comprehension fails entirely; no working memory        ║
+║  left for inference; all motivation evaporates through frustration       ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+─────────────────────────────────────────────────────────────────────────
+BIDIRECTIONAL EFFECTS (non-obvious):
+
+Layer 3 → Layer 2: Mastery goals increase depth of strategy deployment
+Layer 2 → Layer 3: Genuine understanding experiences feed intrinsic motivation
+Layer 2 → Layer 1: Deep processing builds fluency through repeated engagement
+Layer 1 → Layer 2: Freed cognitive capacity makes inference generation possible
+
+─────────────────────────────────────────────────────────────────────────
+DIAGNOSTIC RULE: Identify the LOWEST layer where the system is failing.
+Intervene there first. Upper-layer interventions fail if lower-layer
+prerequisites are absent.
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** Read bottom-to-top to understand architecture (each layer presupposes the one below), then top-to-bottom to understand goal (Layer 3 is the destination: durable, self-sustaining academic reading motivation). The bidirectional effects panel in the middle is the report's key nuance: the layers don't simply stack in one direction — they mutually reinforce, which means a strong Layer 2 slowly builds Layer 1 skills and also sustains Layer 3 motivation. The stack metaphor is architectural: the ground floor is necessary before the second floor can be built.
+
+**Source:** §6.1–6.4, original synthesis
+
+---
+
+## Visual Aid 7: Before / After Panel — Vicious Cycle vs. Virtuous Cycle
+
+**Purpose:** Shows how the same interdependence mechanism produces either collapse or flourishing depending on the entry conditions.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│              TWO TRAJECTORIES OF ACADEMIC READING DEVELOPMENT            │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌─────────── VICIOUS CYCLE ────────────┬──────────── VIRTUOUS CYCLE ───────────┐
+│ (how motivated reading collapses)    │ (how motivated reading compounds)      │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│                                      │                                        │
+│ Insufficient fluency / vocab         │ Adequate fluency + vocab pre-load      │
+│     ↓                                │     ↓                                  │
+│ Cognitive overload during reading    │ Cognitive headroom available           │
+│     ↓                                │     ↓                                  │
+│ Textbase-only processing             │ Situation model construction           │
+│ (no situation model forms)           │ (genuine understanding occurs)         │
+│     ↓                                │     ↓                                  │
+│ No felt sense of understanding       │ Competence need satisfied              │
+│     ↓                                │     ↓                                  │
+│ No competence need satisfaction      │ Intrinsic motivation activated         │
+│     ↓                                │     ↓                                  │
+│ Reading feels effortful, unrewarding │ Reading becomes self-motivating        │
+│     ↓                                │     ↓                                  │
+│ Avoidance, procrastination           │ More reading → more schema             │
+│     ↓                                │     ↓                                  │
+│ Less reading → schema stagnates      │ Stronger schema → easier comprehension │
+│     ↓                                │     ↓                                  │
+│ Wider vocabulary & knowledge gap     │ Wider vocabulary & knowledge base      │
+│     ↓                                │     ↓                                  │
+│ Next academic text even harder       │ Next academic text more accessible     │
+│     ↓                                │     ↓                                  │
+│ Fixed-mindset attribution:           │ Incremental-mindset attribution:       │
+│ "I'm just not a reader"              │ "Challenging texts develop my skill"   │
+│                                      │                                        │
+├──────────────────────────────────────┼────────────────────────────────────────┤
+│ BREAKPOINT INTERVENTIONS             │ MAINTENANCE STRATEGIES                 │
+│                                      │                                        │
+│ • Tier 1 first: text calibration    │ • Keep texts in 70-80% zone            │
+│ • Vocabulary pre-loading             │ • Protect spaced review schedule       │
+│ • Easier but engaging entry texts   │ • Sustain Tier 3 goal framing          │
+│ • Self-explanation with scaffolding  │ • Cultivate reading identity           │
+│ • Mindset reframing intervention     │ • Expand into adjacent domains         │
+└──────────────────────────────────────┴────────────────────────────────────────┘
+```
+
+**Reading guide:** Trace each cycle from top to bottom — they both start from the same system, but opposite entry conditions cascade in opposite directions. The Matthew Effect mentioned in Section 1 is visible here: each cycle amplifies itself. The breakpoint interventions column at the bottom shows what the report prescribes to interrupt the vicious cycle — almost all of them are Tier 1 strategies, consistent with the hierarchy's logic that cognitive foundation must be addressed before motivation strategies can take hold.
+
+**Source:** §1.2–1.3, §6.1–6.2, §4.1
+
+---
+
+## Visual Aid 8: Evidence Ledger — Key Claims and Their Empirical Strength
+
+**Purpose:** Allows the reader to quickly assess what the report stakes confidently vs. tentatively.
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│                        EVIDENCE LEDGER — Key Claims                                     │
+├──────────────────────────────────────────┬────────────────────┬──────────┬─────────────┤
+│ CLAIM                                    │ EVIDENCE TYPE      │STRENGTH  │ SECTION     │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Vocabulary instruction improves          │ Meta-analysis;     │ ★★★★★   │ §6.2        │
+│ reading comprehension                    │ extensive lit.     │ strong   │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Self-explanation is one of the most      │ Experimental       │ ★★★★★   │ §6.3        │
+│ effective learning strategies            │ (Chi et al., 1994) │ strong   │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Retrieval practice > re-reading for      │ RCT;               │ ★★★★★   │ §6.3        │
+│ long-term retention (testing effect)     │ replicated widely  │ strong   │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Spaced > massed practice for retention   │ Meta-analysis;     │ ★★★★★   │ §6.3        │
+│                                          │ highly replicated  │ strong   │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Mastery goals → deeper processing than  │ Correlational +    │ ★★★★☆   │ §5.1–5.2    │
+│ performance-avoidance goals              │ experimental       │ good     │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Process praise > ability praise          │ Experimental       │ ★★★★☆   │ §5.3        │
+│ for persistence (Mueller & Dweck, 1998)  │ (replicated)       │ good     │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Self-efficacy is among the strongest     │ Multiple           │ ★★★★☆   │ §1.2        │
+│ predictors of reading persistence        │ meta-analyses      │ good     │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Autonomy-supportive environments         │ SDT experimental   │ ★★★★☆   │ §4.1–4.2    │
+│ increase internalized reading motivation │ literature         │ good     │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Elaborative interrogation improves       │ Experimental       │ ★★★★☆   │ §6.3        │
+│ comprehension vs. restating             │ (Pressley et al.)  │ good     │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Identity-based motivation more durable   │ Correlational;     │ ★★★☆☆   │ §6.4        │
+│ than instrumental motivation             │ (Oyserman et al.)  │ moderate │             │
+├──────────────────────────────────────────┼────────────────────┼──────────┼─────────────┤
+│ Motivational-Cognitive Reading Stack     │ Author synthesis;  │ ★★☆☆☆   │ §6.4        │
+│ as packaged intervention hierarchy       │ NOT empirically    │ specul.  │ [original]  │
+│                                          │ validated as unit  │          │             │
+└──────────────────────────────────────────┴────────────────────┴──────────┴─────────────┘
+
+★★★★★ = strong (replicated meta-analysis)  ★★★★☆ = good (replicated experiments)
+★★★☆☆ = moderate (correlational / limited replication)  ★★☆☆☆ = speculative (synthesis)
+```
+
+**Reading guide:** The table separates what the report claims with strong empirical backing (retrieval practice, vocabulary instruction, self-explanation) from what it synthesizes as a novel theoretical framework (the Stack model). Readers should treat the top five rows as reliable actionable findings and the bottom two rows as well-reasoned propositions that await direct validation. The report itself flags the Stack's speculative status — this ledger makes that distinction maximally visible.
+
+**Source:** §6.2–6.4, §8.12 (quality self-assessment)
+
+---
+
+## Visual Aid 9: Timeline — The Four-Phase Interest Development Model
+
+**Purpose:** Shows how a reader's motivational relationship to academic content evolves across time, enabling deliberate curriculum design.
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│          FOUR-PHASE INTEREST DEVELOPMENT MODEL                           │
+│          (Applied to Academic Reading Motivation)                        │
+└──────────────────────────────────────────────────────────────────────────┘
+
+PHASE 1 ────── PHASE 2 ────── PHASE 3 ────── PHASE 4
+  │                │               │               │
+Triggering      Maintaining    Emerging         Individual
+Situational     Situational    Individual       Interest
+Interest        Interest       Interest         (Stable)
+  │                │               │               │
+  ▼                ▼               ▼               ▼
+Engaging,        Repeated       Reader begins   Reader
+accessible       positive       asking own      identifies
+entry texts      encounters;    questions       as domain
+in target        relevance      beyond text;    member;
+domain           connections    seeks deeper    self-sustaining
+                 maintained     material        engagement
+
+─────────────────────────────────────────────────────────────────────────
+INSTRUCTIONAL INTERVENTIONS BY PHASE
+
+Phase 1 │ Choose high situational-interest texts on target topic
+        │ Allow freedom to follow curiosity
+        │ Avoid dense/abstract materials prematurely
+        │ Create positive first encounters with domain ideas
+
+Phase 2 │ Maintain personal relevance connections explicitly
+        │ Sequence texts with gradually increasing difficulty
+        │ Use KWL / pre-questioning to build anticipation
+        │ Protect early enthusiasm from performance pressure
+
+Phase 3 │ Introduce primary/more challenging sources
+        │ Encourage self-generated questions as reading driver
+        │ Connect to epistemic community (whose work is this?)
+        │ Reward curiosity expressions, not just comprehension
+
+Phase 4 │ Reader largely self-directing at this point
+        │ Support domain expansion; lateral reading
+        │ Feed advanced interest with genuine scholarly engagement
+        │ Reading identity development becomes primary project
+
+─────────────────────────────────────────────────────────────────────────
+TIME SCALE: Months to years, not sessions. Interest compounds.
+RISK: Skipping Phase 1-2 by assigning difficult texts prematurely
+      stalls development at Phase 1 or collapses into vicious cycle.
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** Read left-to-right across the phase band, then down into each phase's intervention column. The timeline does not show fixed durations — Phase 1–2 might last weeks or months depending on prior exposure and domain. The key design principle is progression: beginning where the reader's current engagement can be met by accessible material, then deliberately increasing challenge. The risk note at the bottom addresses a common error: treating university-level texts as the appropriate starting point for readers in Phases 1 or 2.
+
+**Source:** §6.4, §4.3 (interest development)
+
+---
+
+## Visual Aid 10: TL;DR Scorecard — Synthesis
+
+**Purpose:** Single-page executive summary synthesizing the report's core argument, strongest evidence, and navigation guide.
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║              REPORT SCORECARD: MOTIVATED ACADEMIC READING                ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ Core thesis    : Reading motivation is an EMERGENT PROPERTY of the      ║
+║                  correct configuration of cognitive competence,          ║
+║                  need-satisfying environments, and internalized          ║
+║                  regulatory structures — not a trait you have or lack.   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ Strongest evd  : Retrieval practice > re-reading (massive replication); ║
+║                  self-explanation (Chi et al., 1994);                    ║
+║                  vocabulary instruction effects on comprehension.         ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ Key original   : Motivational-Cognitive Reading Stack (3-layer model)   ║
+║ contribution   : and Hierarchical Strategy Deployment Model.             ║
+║                  [Well-motivated synthesis; not empirically validated]   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ Main caveat    : Evidence base is K-12 / college-aged. Adult autodidact  ║
+║                  generalizability is assumed, not demonstrated.          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ First action   : Run the diagnostic — which tier is failing first?       ║
+║                  Don't apply Tier 3 strategies to a Tier 1 problem.      ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ Read if you    : Are building a self-directed academic reading practice, ║
+║                  struggle to sustain motivation for hard texts, or want  ║
+║                  a theoretically grounded strategy sequence.             ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ Skip if you    : Need neuroscientific, cultural-linguistic, or gender-   ║
+║                  specific reading motivation analysis (gaps noted).      ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+TOP 5 TAKEAWAYS:
+
+1. Cognitive competence and reading motivation are STRUCTURALLY
+   INTERDEPENDENT — one cannot be fixed in isolation from the other.
+
+2. Most study strategies target the TEXTBASE level (recall & paraphrase).
+   Academic purposes require SITUATION MODEL construction (transfer
+   & genuine understanding). Self-explanation and retrieval practice
+   are the highest-evidence bridges between these levels.
+
+3. The three-tier strategy hierarchy is ARCHITECTURAL, not a priority
+   ranking. Diagnose the lowest failing tier; intervene there first.
+
+4. Goal orientation (mastery vs. performance-avoidance) is a DIAGNOSTIC
+   before any strategy prescription. The same strategy works
+   very differently depending on the reader's goal orientation.
+
+5. Metacognitive monitoring during reading — explicitly tracking whether
+   a situation model is forming — is the single highest-leverage
+   metacognitive skill for academic readers, and the one most routinely
+   neglected under cognitive load.
+
+─────────────────────────────────────────────────────────────────────────
+NAVIGATOR — which aid answers which question:
+
+"Why are motivation and cognition linked?"         → Aid 1 (Argument Map)
+"What strategies do I use and in what order?"      → Aid 2 (Prerequisite Graph)
+"What does 'real comprehension' mean cognitively?" → Aid 3 (Taxonomy Tree)
+"Why don't I finish academic reading programs?"    → Aid 4 (2×2 Goals) +
+                                                     Aid 7 (Before/After)
+"What do I do before, during, and after reading?"  → Aid 5 (SRL Cycle)
+"How does the whole system fit together?"          → Aid 6 (Stack Model)
+"What can I trust as solid evidence?"              → Aid 8 (Evidence Ledger)
+"How do I build long-term reading motivation?"     → Aid 9 (Interest Timeline)
+─────────────────────────────────────────────────────────────────────────
+```
+
+**Reading guide:** Start here if you've just finished skimming the report and want orientation, or return here after working through all aids to consolidate. The navigator at the bottom cross-references each practical question a reader is likely to bring to the report against the specific visual aid that most directly answers it — use it as a question-driven entry point.
+
+**Source:** Synthesis of all sections; self-assessment §8.12
+
+---
+
+These ten aids cover the report's causal logic, cognitive architecture, strategy hierarchy, motivational typology, regulatory process, integrative model, trajectory dynamics, evidence base, developmental timeline, and summary. All render in plain Obsidian markdown, terminal, or any monospace viewer without external dependencies.
+
+
+
+
 ## Abstract
 
 Academic reading stands at the intersection of two vast and largely independent research traditions: the cognitive science of text comprehension and the psychology of motivation. Most treatments of the problem focus on one domain at the expense of the other — readers are advised either to adopt better comprehension strategies (as though motivation were not the obstacle) or to cultivate a love of learning (as though cognitive technique were irrelevant). This report attempts a genuine synthesis. It argues that motivated academic reading cannot be developed by addressing either the motivational or the cognitive dimension alone; the two are structurally interdependent in ways that have profound practical implications for how learners should sequence their efforts.
