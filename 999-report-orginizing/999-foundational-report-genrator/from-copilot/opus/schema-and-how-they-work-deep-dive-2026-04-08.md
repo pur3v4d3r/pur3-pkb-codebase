@@ -100,6 +100,740 @@ references_count: 18
 sr_seeds_count: 12
 ---
 
+Now I have a full picture of this ~18,500-word report. Let me build the complete visual aid suite.
+
+---
+
+# Visual Aid Suite: Cognitive Schema Architecture
+
+**Report length:** ~18,500 words  
+**Audience:** Specialists and advanced practitioners (cognitive psychology, learning science, PKM)  
+**Thesis:** Schemas are not passive knowledge templates but active generative structures — they constrain perception, generate inferences via spreading activation, fill gaps with defaults, compete for dominance, and resist modification in ways that simultaneously enable expert performance and produce systematic cognitive failure. Understanding their architecture at mechanism, substructure, and dynamic levels is prerequisite to understanding expertise, memory distortion, and the genuine difficulty of conceptual change.
+
+**Aids selected:**
+1. **Magnification Taxonomy Tree** — maps the 7-level structure of the entire report
+2. **Causal Architecture Map** — the schema activation → comprehension → memory chain
+3. **Intellectual Genealogy Timeline** — schema theory from Bartlett 1932 to predictive processing
+4. **Schema Activation Flow Diagram** — the threshold competition and selection process
+5. **Three Modes Comparison Matrix** — Accretion / Tuning / Restructuring side-by-side
+6. **Concept Distinction Table** — eight easily-confused pairs with discriminating features
+7. **Evidence Ledger** — key claims ranked by evidential strength
+8. **Novice vs. Expert Before/After Panel** — how schema automation changes cognition
+9. **Update-Mode Quadrant** — schema change modes plotted on two axes
+10. **TL;DR Scorecard** — one-page synthesis
+
+---
+
+## Visual Aid 1: Magnification Taxonomy Tree
+
+**Purpose:** Shows how the report's seven levels deepen progressively — each level is not a new topic but a finer zoom on the same subject.
+
+```
+COGNITIVE SCHEMA ARCHITECTURE
+│
+├── Level 1 ── SURFACE: What schemas appear to be
+│   ├── Schemas as knowledge templates / "filing cabinets"
+│   ├── Bartlett: reconstructive (not reproductive) memory
+│   ├── Rumelhart: variable slots + default values + constraints
+│   └── Three subtypes
+│       ├── Declarative schemas  ("what" — facts, concepts)
+│       ├── Procedural schemas   ("how" — action sequences)
+│       └── Conditional schemas  ("when" — pragmatic rules)
+│
+├── Level 2 ── MECHANISM: How schemas constrain and generate
+│   ├── Top-down constraint on bottom-up processing
+│   ├── Inference generation via spreading activation
+│   ├── Default value assignment (gap-filling)
+│   ├── Three-stage comprehension: Select → Instantiate → Infer
+│   └── Assimilation (default) vs. Accommodation (effortful)
+│
+├── Level 3 ── SUBSTRUCTURE: What makes mechanism possible
+│   ├── Symbolic account: nodes, edges, typed variables
+│   ├── Connectionist account: distributed weights, attractor basins
+│   ├── Schema hierarchies: sub-schemas embedded in parent schemas
+│   ├── Spreading activation through semantic networks
+│   └── Working memory interface: automation = compression
+│
+├── Level 4 ── DYNAMICS: Activation, competition, and update
+│   ├── Activation threshold + lateral inhibition → single-schema dominance
+│   ├── THREE MODES OF SCHEMA CHANGE
+│   │   ├── Accretion   (add instances; no structural change)
+│   │   ├── Tuning      (adjust parameters; architecture intact)
+│   │   └── Restructuring (architecture itself modified; rare)
+│   ├── Prediction error as trigger for accommodation
+│   └── Sleep consolidation → schema crystallization
+│
+├── Level 5 ── EDGE CASES: Where the standard story breaks down
+│   ├── Schema intrusion errors (default fills genuine gap)
+│   ├── Expert blindness (automation suppresses anomalies)
+│   ├── Accommodation resistance (strong priors block change)
+│   ├── Schema-incongruent memory advantage (violations > confirmations)
+│   ├── Trauma as schema disruption (dual representation)
+│   └── Cultural variability (schema CONTENT differs; architecture doesn't)
+│
+├── Level 6 ── FRONTIER: Active research sites
+│   ├── Hippocampal-neocortical transfer during sleep
+│   ├── Predictive processing: schemas as Bayesian hierarchical priors
+│   ├── Transformer attention as schema-like content-addressable memory
+│   ├── Schema distinctness debate (unified construct vs. family of phenomena)
+│   └── Binding problem: gamma-band synchrony hypothesis
+│
+└── Level 7 ── SPECULATION: Informed extrapolation
+    ├── Schema engineering in PKM / PKB design
+    ├── Schema-aware AI tutoring (target modification mode directly)
+    ├── Schema transplantation via AI-mediated prior construction
+    ├── Body-schema and embodied cognition extension
+    └── Cultural transmission as schema synchronization across minds
+```
+
+**Reading guide:** Read top-to-bottom as progressive depth, not breadth. Each level presupposes the one above it. The left column is always the question; the nested items are what the report reveals at that zoom level. The critical split is at Level 2 (mechanism) — everything below it explains HOW the mechanism is possible; everything above it explains WHAT that mechanism produces.
+
+**Source:** §Abstract, §Magnification Path diagram, §Level 1–7 headers
+
+---
+
+## Visual Aid 2: Causal Architecture Map
+
+**Purpose:** Shows the causal spine of schema cognition — from input through activation, comprehension, and memory, with the update loop.
+
+```
+INPUT FEATURES ─────────────────────────────────────────┐
+(perceptual, linguistic, contextual)                     │
+        │                                                │
+        ▼                                                │
+ PARTIAL ACTIVATION                                      │
+ of all candidate schemas                                │
+ (proportional to feature-match)                        │
+        │                                                │
+        ▼                                                │
+ LATERAL INHIBITION                                      │
+ (competing schemas suppress each other)                 │
+        │                                                │
+        ▼                                                │
+ WINNING SCHEMA INSTANTIATED ◄── PRIMING (lowers threshold)
+ (highest activation crosses threshold)                 │
+        │                                                │
+        ├─────────────────────────────────────────────── ┘
+        │           TOP-DOWN CONSTRAINT
+        ▼               (feeds back to filter incoming input)
+ ┌──────────────────────────────┐
+ │  COMPREHENSION ENGINE        │
+ │  ① Select schema             │
+ │  ② Bind specific values      │
+ │     to variable slots        │
+ │  ③ Assign defaults to        │
+ │     unfilled slots           │
+ │  ④ Generate elaborative      │
+ │     inferences automatically  │
+ └──────────────┬───────────────┘
+                │
+     ┌──────────┼──────────┐
+     ▼          ▼          ▼
+  MEMORY      BEHAVIOR  PREDICTION
+  ENCODING    GUIDANCE  GENERATION
+  (schema-    (schema   (schema
+  shaped      guides    tells you
+  trace)      action)   what comes
+     │                  next)
+     ▼
+ RETRIEVAL ◄── Schema re-activated at recall
+ (reconstructive; defaults substituted
+  for weakly-encoded specifics)
+
+
+ ════════════════════════════════════════
+ UPDATE LOOP
+ ════════════════════════════════════════
+
+ PREDICTION ──► MATCHES INPUT?
+                    │
+          YES ──────┤──── NO (prediction error)
+          │         │         │
+          ▼         │         ▼
+    ASSIMILATION    │   ERROR LARGE ENOUGH?
+    (default;       │         │
+    schema          │   NO ───┤─── YES
+    unchanged)      │   │         │
+                    │  Ignore    ACCOMMODATION
+                    │           (Accretion /
+                    │            Tuning /
+                    │            Restructuring)
+                    │
+                    └─── Sleep consolidation ──►
+                         Schema crystallization
+```
+
+**Reading guide:** Follow the vertical spine for the activation-to-comprehension path. The top-down constraint arrow (looping back left) is crucial — schemas don't passively await input; they actively constrain what input registers. The update loop at the bottom shows why accommodation is the exception: prediction error must clear a threshold, and most new information assimilates without changing the schema.
+
+**Source:** §2.1–2.6 (Mechanism), §4.1 (Dynamics: Activation Thresholds), §4.2 (Three Modes)
+
+---
+
+## Visual Aid 3: Intellectual Genealogy Timeline
+
+**Purpose:** Maps the theoretical lineage of schema theory from its origin to the predictive processing frontier, showing who built on whom.
+
+```
+1932 ─── 1970s ─── 1975-80 ─── 1977 ─── 1980 ─── 1990s ─── 2000s ─── 2010s+
+  │         │          │          │         │         │          │          │
+BARTLETT   MINSKY   RUMELHART  SCHANK   ANDERSON   PDP      PREDICTIVE  HPC
+  │         │          │       & ABELSON EDUCATION  CONNEC-  PROCESSING  MEMORY
+  │         │          │          │     SCHEMA      TIONISM    │       TRANSFER
+"Ghost of  Frames    Formal      │       │           │         │          │
+the Waves" (AI;     Computa-  Scripts  Schema       Schema   Schemas    Sleep-
+  │        slot-    tional     (temporal as basis   behavior  as        dependent
+Recon-     terminal  Schema     event   for CLT   emerging  Bayesian   schema
+structive  values)  Specif-    schemas)   │        from     hierarchi-  crystal-
+Memory     │        ication      │        │        distri-  cal priors  ization
+  │         │         │          │        │        buted    (Friston,   (van
+  │    Minsky ────► Rumelhart   │    Sweller ─►   weights  Clark,      Kesteren
+  │    Frames         │         │    Cognitive     │        etc.)       dissoci-
+  │                   │    Schank &  Load          │          │         ation)
+  │              Schema ──► Abelson   Theory        │      Free         │
+  │              Hier-        │          │           │      Energy       │
+  │              archies      └──────────┘           │      Principle   │
+  │              (sub-      RESTAURANT              PDP ──► Predictive ─►  AI
+  │              schemas    SCRIPT as              (McCl-   Processing    models
+  └──────────────────────────────────────────────────────────────────────────►
+                                TEMPORAL ARROW
+```
+
+```
+INFLUENCE MAP (key intellectual debts)
+
+Bartlett (1932) ─────────────────────────► Rumelhart (1980)
+                                                  │
+Piaget (Assimilation / Accommodation) ────────────┤
+                                                  │
+Minsky (Frames, 1975) ────────────────────────────┤
+                                                  ▼
+                                     Rumelhart & Norman
+                                       (Three Schema
+                                       Change Modes, 1978)
+                                                  │
+                                     ┌────────────┼────────────┐
+                                     ▼            ▼            ▼
+                                 Sweller       Schank &   Anderson
+                                 (CLT, 1988)  Abelson    (Education)
+                                     │        (Scripts)
+                                     ▼
+                               Cognitive Load
+                               Theory + Schema
+                               Automation
+
+Connectionism (Rumelhart & McClelland 1986) ──► Attractor Basin
+                                                Schema Model
+                                                     │
+                                                     ▼
+                                             Transformer / LLM
+                                             analogue (2010s+)
+
+Friston (2010+) ──── Free Energy Principle ──► Schemas-as-Priors
+                                                (Predictive Processing)
+```
+
+**Reading guide:** The horizontal timeline shows the historical order; the influence map below shows logical dependency. The key insight is that two separate streams — symbolic AI (Minsky) and cognitive psychology (Bartlett, Piaget) — converged in Rumelhart's 1980 formal specification, which then branched into educational science (Sweller, Anderson), connectionism, and eventually predictive processing.
+
+**Source:** §1.6 (Schema Theory Lineage), §6.2–6.4 (Frontier), §8.10 (PKB Connections Index)
+
+---
+
+## Visual Aid 4: Schema Activation Flow Diagram
+
+**Purpose:** Shows the step-by-step competitive selection process by which one schema wins and becomes the interpretive frame for a given input.
+
+```
+┌──────────────────────────────────────────────────────┐
+│                    INPUT ARRIVES                      │
+│        (text, perception, problem context)           │
+└─────────────────────┬────────────────────────────────┘
+                      │
+                      ▼
+        ┌─────────────────────────┐
+        │ ALL SCHEMAS WITH        │
+        │ PARTIAL FEATURE-MATCH   │
+        │ RECEIVE ACTIVATION      │
+        │   Schema A ░░░░░░       │
+        │   Schema B ░░░░░░░░░    │
+        │   Schema C ░░░          │
+        └─────────────┬───────────┘
+                      │
+                      ▼
+        ┌─────────────────────────┐
+        │ LATERAL INHIBITION       │
+        │ (schemas compete;        │
+        │  higher activation      │
+        │  suppresses rivals)     │
+        │   Schema A ░░           │
+        │   Schema B ██████████   │◄── Priming lowers
+        │   Schema C ░            │    Schema B's threshold
+        └─────────────┬───────────┘
+                      │
+                      ▼
+         Schema B crosses threshold?
+                      │
+            YES ──────┤──── NO
+             │                │
+             ▼                ▼
+    ┌─────────────────┐   ┌──────────────────┐
+    │ SCHEMA B        │   │ Wait for more    │
+    │ INSTANTIATED    │   │ input or revert  │
+    │                 │   │ to default       │
+    │ Variable slots  │   └──────────────────┘
+    │ bound to        │
+    │ specific values │
+    │                 │
+    │ Unfilled slots  │
+    │ assigned default│
+    │ values          │
+    └────────┬────────┘
+             │
+             ▼
+    ┌─────────────────┐
+    │ TOP-DOWN        │
+    │ PREDICTIONS     │
+    │ GENERATED       │
+    │                 │
+    │ Schema B now    │
+    │ ACTIVELY        │
+    │ SUPPRESSES      │
+    │ competitors     │
+    │ and filters     │
+    │ subsequent      │
+    │ input           │
+    └────────┬────────┘
+             │
+             ├─── Strong match → Comprehension proceeds
+             │
+             └─── Major mismatch → Prediction Error Signal
+                          │
+                    Large enough?
+                          │
+                  YES ────┴──── NO
+                   │             │
+              ACCOMMODATION    ASSIMILATION
+              triggered        continues
+              (schema changes) (input distorted
+                               to fit schema)
+```
+
+**Reading guide:** The critical decision point is the prediction-error threshold at the bottom. Most inputs assimilate — the schema "wins" and shapes the representation of new information. Accommodation is the exception that requires effortful cognitive work. Note that once instantiated, a schema actively suppresses competitors — this is why wrong-schema activation is so sticky and hard to interrupt with a single corrective input.
+
+**Source:** §4.1 (Activation Dynamics), §2.5 (Assimilation/Accommodation), §4.2 (Three Modes)
+
+---
+
+## Visual Aid 5: Three Modes of Schema Change Comparison Matrix
+
+**Purpose:** Side-by-side comparison of Rumelhart & Norman's three schema modification modes across every relevant dimension.
+
+```
+┌──────────────────────┬─────────────────┬──────────────────┬──────────────────┐
+│   DIMENSION          │   ACCRETION     │    TUNING        │  RESTRUCTURING   │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ What changes         │ Instances only  │ Parameters /     │ The schema's     │
+│                      │ (new cases      │ defaults /       │ architecture     │
+│                      │ added as data)  │ constraints      │ itself           │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Schema structure     │ UNCHANGED       │ UNCHANGED        │ CHANGED          │
+│ preserved?           │ ✓               │ ✓ (mostly)       │ ✗                │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Frequency            │ Very common     │ Moderate         │ Rare             │
+│                      │ (most learning) │                  │ (hardest)        │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Cognitive cost       │ Low             │ Moderate         │ Very high        │
+│                      │ ░░              │ ░░░░░            │ ██████████       │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Trigger condition    │ Any assimilable │ Repeated         │ Major prediction │
+│                      │ new instance    │ parameter mis-   │ failure; schema  │
+│                      │                 │ match across     │ cannot assimilate│
+│                      │                 │ many cases       │ input at all     │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Piaget equivalent    │ Assimilation    │ Weak             │ Accommodation    │
+│                      │                 │ accommodation    │                  │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Memory durability    │ Moderate        │ Moderate-High    │ Very high        │
+│                      │ (instances fade)│                  │ (restructuring   │
+│                      │                 │                  │ is memorable)    │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Sleep dependence     │ Low             │ Moderate         │ HIGH             │
+│                      │                 │                  │ (consolidation   │
+│                      │                 │                  │ required)        │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Instructional        │ Exposure to     │ Deliberate       │ Cognitive        │
+│ strategy             │ many examples   │ practice with    │ conflict;        │
+│                      │                 │ feedback across  │ explicit         │
+│                      │                 │ varied cases     │ confrontation    │
+│                      │                 │                  │ of schema limits │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ SRS targeting        │ New-card        │ Lapse review     │ Hard cards;      │
+│                      │ learning        │ (re-calibration) │ generative       │
+│                      │                 │                  │ questions        │
+├──────────────────────┼─────────────────┼──────────────────┼──────────────────┤
+│ Example              │ Visiting a new  │ After many       │ Learning that    │
+│                      │ Thai restaurant │ restaurants,     │ sushi bars ARE   │
+│                      │ (new instance   │ "wait time"      │ restaurants —    │
+│                      │ filed under     │ default updates  │ schema for       │
+│                      │ RESTAURANT)     │ from 15 to       │ "restaurant"     │
+│                      │                 │ 30 minutes       │ restructured     │
+└──────────────────────┴─────────────────┴──────────────────┴──────────────────┘
+```
+
+**Reading guide:** Read across rows for dimension-by-dimension comparison. The cognitive cost row (shaded blocks) visually captures the key asymmetry: accretion is cheap and frequent, restructuring is expensive and rare. The SRS row links directly to PKM practice — spacing-based repetition naturally targets accretion and tuning but rarely forces restructuring without deliberate question design.
+
+**Source:** §4.2 (Three Modes), §4.3–4.4 (Prediction Error, Sleep Consolidation), §7.1 (PKM Speculation)
+
+---
+
+## Visual Aid 6: Concept Distinction Table
+
+**Purpose:** Disambiguates eight pairs of easily-confused schema-related concepts, each with the single discriminating feature.
+
+```
+┌──────────────────────────┬───────────────────────────────┬──────────────────────────────┬──────────────────────────────────┐
+│  EASILY CONFUSED PAIR    │  CONCEPT A                    │  CONCEPT B                   │  KEY DISTINGUISHING FEATURE      │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Assimilation vs.         │ Info fitted to schema;        │ Schema modified to fit        │ Direction of adaptation:         │
+│ Accommodation            │ schema unchanged              │ info; schema changes          │ info→schema (A) vs.              │
+│                          │                               │                               │ schema→info (B)                  │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Accretion vs. Tuning     │ New instances added;          │ Parameters/defaults adjusted; │ What changes: instances          │
+│                          │ structure unchanged           │ architecture still intact     │ only (A) vs. defaults (B)        │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Tuning vs.               │ Schema parameters             │ Schema architecture           │ Depth of change:                 │
+│ Restructuring            │ adjusted within               │ itself modified               │ parametric (A) vs.               │
+│                          │ existing architecture         │                               │ architectural (B)                │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Schema vs. Script        │ General structured            │ Specifically temporal         │ Scope: general any-domain        │
+│                          │ knowledge (any domain)        │ event sequence                │ (A) vs. time-ordered (B)         │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Schema vs. Prototype     │ Slot-variable architecture    │ Central tendency              │ Architecture: slot-variable      │
+│                          │ with constraints              │ representation                │ (A) vs. average instance (B)     │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Schema Activation vs.    │ Schema enters WM              │ Schema receives specific       │ Stage: selection into            │
+│ Instantiation            │ as candidate                  │ bound values                  │ WM (A) vs. variable              │
+│                          │                               │                               │ binding (B)                      │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Expert Blindness vs.     │ Automated schema SUPPRESSES   │ Motivated reasoning           │ Mechanism: automatic             │
+│ Confirmation Bias        │ incompatible cues             │ selectively SEEKS             │ perceptual suppression (A)       │
+│                          │ (perceptual effect)           │ confirming evidence           │ vs. motivated search (B)         │
+├──────────────────────────┼───────────────────────────────┼──────────────────────────────┼──────────────────────────────────┤
+│ Schema Intrusion vs.     │ Schema-consistent             │ Memory attributed             │ Genesis: inference fills         │
+│ Source Monitoring Error  │ inference FILLS gap           │ to wrong source               │ gap (A) vs. misattribution       │
+│                          │ (no trace existed)            │ (trace exists)                │ of genuine trace (B)             │
+└──────────────────────────┴───────────────────────────────┴──────────────────────────────┴──────────────────────────────────┘
+```
+
+**Reading guide:** Focus on the rightmost column — each discriminating feature is the minimum information needed to tell the concepts apart under pressure (e.g., in an exam or when applying them to an empirical case). Pairs in rows 1–3 form a nested hierarchy: assimilation/accommodation is the Piagetian version; accretion/tuning/restructuring is the finer-grained Rumelhart-Norman version of the same underlying distinction.
+
+**Source:** §8.11 (Concept Distinction Table), §2.5 (Assimilation/Accommodation), §4.2 (Three Modes)
+
+---
+
+## Visual Aid 7: Evidence Ledger
+
+**Purpose:** Links the report's central claims to their evidence type and strength, enabling the reader to assess which arguments are well-grounded vs. more speculative.
+
+```
+┌────────────────────────────────────────────┬──────────────────┬──────────┬──────────┐
+│  CLAIM                                     │  EVIDENCE TYPE   │ STRENGTH │ LEVEL    │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Memory is reconstructive, not reproductive │ Experimental     │ ★★★★★   │ L1       │
+│ (Bartlett war story; intrusion errors)     │ (replicated)     │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Schema-consistent intrusions are           │ Experimental     │ ★★★★★   │ L2       │
+│ systematic (not random forgetting)         │ (meta-analyzed)  │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Automated schemas reduce WM load           │ Experimental     │ ★★★★★   │ L3       │
+│ (Sweller CLT; chess expertise)             │ + computational  │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Schema-incongruent items are better        │ Experimental     │ ★★★★☆   │ L5       │
+│ remembered than congruent items            │ (replicated with │          │          │
+│ in many conditions                         │  some boundary   │          │          │
+│                                            │  conditions)     │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Assimilation is the default;               │ Theoretical      │ ★★★★☆   │ L2       │
+│ accommodation requires error threshold     │ + experimental   │          │          │
+│                                            │  support (mixed) │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Hippocampus encodes incongruent schemas;   │ Neuroscience     │ ★★★★☆   │ L6       │
+│ mPFC encodes congruent (van Kesteren)      │ (replicated in   │          │          │
+│                                            │  few labs)       │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Prior schema availability speeds           │ Neuroscience     │ ★★★★☆   │ L6       │
+│ new schema formation                       │ + behavioral     │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Sleep/offline replay consolidates          │ Neuroscience     │ ★★★★☆   │ L4/L6    │
+│ schema-like regularities                   │ + behavioral     │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Schemas = hierarchical Bayesian priors     │ Theoretical      │ ★★★☆☆   │ L6       │
+│ (predictive processing reframe)            │ (elegant but     │          │          │
+│                                            │  overlap with    │          │          │
+│                                            │  standard acct   │          │          │
+│                                            │  unclear)        │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Transformer attention = schema-like        │ Computational    │ ★★★☆☆   │ L6       │
+│ content-addressable memory                 │ analogy (not     │          │          │
+│                                            │  mechanistic     │          │          │
+│                                            │  identity)       │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ PKB design can deliberately engineer       │ Speculative      │ ★★☆☆☆   │ L7       │
+│ schema formation trajectories              │ (plausible;      │          │          │
+│                                            │  not yet tested) │          │          │
+├────────────────────────────────────────────┼──────────────────┼──────────┼──────────┤
+│ Gamma-band synchrony = binding mechanism   │ Neuroscience     │ ★★☆☆☆   │ L6       │
+│ for schema instantiation                   │ (correlational;  │          │          │
+│                                            │  causal unproven)│          │          │
+└────────────────────────────────────────────┴──────────────────┴──────────┴──────────┘
+★★★★★ = Established, replicated, consensus
+★★★★☆ = Strong, replicated with some limits
+★★★☆☆ = Promising but contested/frontier
+★★☆☆☆ = Plausible speculation / early evidence
+```
+
+**Reading guide:** Stars indicate the epistemological status, not the importance, of a claim. The most practically important claims (schema automation, accretion vs. restructuring) tend to be the best-evidenced. The predictive processing reframe and transformer analogies score lower not because they're wrong but because their distinctiveness from existing accounts hasn't been fully established.
+
+**Source:** §8.12 (Quality Self-Assessment), Level 6 frontier callouts, evidence cited throughout
+
+---
+
+## Visual Aid 8: Novice vs. Expert Before/After Panel
+
+**Purpose:** Concretely shows how schema automation transforms the cognitive situation of a novice into the radically different situation of an expert — using the same underlying mechanism.
+
+```
+┌─────────────── NOVICE ──────────────────┬──────────────── EXPERT ─────────────────┐
+│                                         │                                          │
+│ SCHEMA AVAILABILITY                     │ SCHEMA AVAILABILITY                      │
+│ • Few schemas, sparsely connected       │ • Many automated schemas, richly linked  │
+│ • Schemas require deliberate retrieval  │ • Schemas auto-activate on cue exposure  │
+│ • Instantiation is effortful, slow      │ • Instantiation is fast, effortless      │
+│                                         │                                          │
+│ WORKING MEMORY LOAD                     │ WORKING MEMORY LOAD                      │
+│ • Represents each feature separately   │ • Represents whole situation as 1 schema │
+│ • Chess board = 32 individual pieces    │ • Chess board = "kingside attack"        │
+│ • High intrinsic load on basics         │ • Basics are free; WM available for      │
+│   leaves nothing for deep thinking      │   higher-order reasoning                 │
+│                                         │                                          │
+│ PERCEPTION                              │ PERCEPTION                               │
+│ • Bottom-up dominant: sees features     │ • Top-down dominant: sees patterns       │
+│ • Anomalies are noticed (no schema to   │ • Anomalies are SUPPRESSED               │
+│   suppress them)                        │   (expert blindness risk)                │
+│ • Slow to recognize situation type      │ • Immediate, automatic type recognition  │
+│                                         │                                          │
+│ INFERENCE                               │ INFERENCE                                │
+│ • Few automatic inferences generated    │ • Rich inferences auto-generated by      │
+│ • Must consciously reason to fill gaps  │   schema spreading activation            │
+│ • Default values: missing or wrong      │ • Accurate defaults from calibrated WM   │
+│                                         │                                          │
+│ ERROR PROFILE                           │ ERROR PROFILE                            │
+│ • Omission errors (misses things)       │ • Commission errors (adds things)        │
+│ • Inconsistency errors                  │ • Schema intrusion errors                │
+│ • Slow errors (overloaded WM)           │ • Premature-closure errors               │
+│                                         │ • Automation blindness to outliers       │
+│                                         │                                          │
+│ ACCOMMODATION SENSITIVITY              │ ACCOMMODATION SENSITIVITY                │
+│ • Easier to restructure (less to undo)  │ • HARDER to restructure (strong priors) │
+│ • Conceptual change more accessible     │ • Expert schemas resist update even      │
+│                                         │   under contrary evidence                │
+└─────────────────────────────────────────┴──────────────────────────────────────────┘
+KEY INSIGHT: The SAME mechanism (schema automation) produces BOTH
+expert advantage AND expert blindness. These are not separate phenomena.
+```
+
+**Reading guide:** Read row-by-row for direct comparison on each dimension. The bottom "KEY INSIGHT" is the report's sharpest edge: schema automation is not unambiguously good. Every gain in efficiency (WM compression, fast activation, rich inference) comes with a paired liability (suppressed anomalies, intrusion errors, accommodation resistance). Instructional and PKM design must exploit the former while compensating for the latter.
+
+**Source:** §3.6 (WM Interface), §4.1 (Activation), §5.1 (Expert Blindness), §5.2 (Accommodation Resistance)
+
+---
+
+## Visual Aid 9: Update-Mode Quadrant
+
+**Purpose:** Positions the three schema change modes on two axes (depth of structural change × cognitive cost), making their relationships immediately visible.
+
+```
+                    HIGH STRUCTURAL CHANGE
+                              ▲
+                              │
+                              │
+                   ┌──────────────────────┐
+                   │                      │
+                   │    RESTRUCTURING     │
+     HIGH          │    • Architecture    │
+     COST          │      modified        │
+       ██          │    • Rare            │
+       ██          │    • Requires        │
+       ██          │      disequilibrium  │
+       ██          │    • Sleep-dependent │
+       ██          │      consolidation   │
+                   │      often needed    │
+                   │                      │
+LOW ◄──────────────┼──────────────────────┼───────────────► HIGH
+STRUCTURAL         │                      │           STRUCTURAL
+CHANGE             │      TUNING          │           CHANGE
+       ▒▒          │   • Parameters       │
+       ▒▒          │     adjusted         │
+       ▒▒          │   • Moderate freq.   │
+       ▒▒          │   • Requires many    │
+                   │     varied cases     │
+                   │                      │
+                   └──────────────────────┘
+                              │
+                   ┌──────────────────────┐
+     LOW           │                      │
+     COST          │    ACCRETION         │
+       ░░          │    • Instances added │
+       ░░          │    • Very frequent   │
+                   │    • No structural   │
+                   │      change          │
+                   │    • Most of what    │
+                   │      passes for      │
+                   │      "learning"      │
+                   │                      │
+                   └──────────────────────┘
+                              │
+                              ▼
+                    LOW STRUCTURAL CHANGE
+
+Legend:
+░░ = Low cognitive cost      (fast, automatic)
+▒▒ = Moderate cognitive cost (requires practice)
+██ = High cognitive cost     (requires conflict, sleep, time)
+
+IMPLICATION FOR INSTRUCTION:
+Most classroom learning → Accretion zone (cheap but shallow)
+Deliberate practice → Tuning zone (parameters refined)
+Conceptual change → Restructuring zone (hardest; often requires
+                     explicit conflict and consolidation time)
+```
+
+**Reading guide:** The quadrant is asymmetric by design — there is no low-structural-change / high-cost zone, because trivial changes don't require major effort. The critical teaching insight is the upper-left: restructuring is simultaneously the most valuable and most costly change. Instruction that stays in the accretion zone accumulates facts without changing understanding.
+
+**Source:** §4.2 (Three Modes), §5.2 (Accommodation Resistance), §7.1 (PKM Speculation)
+
+---
+
+## Visual Aid 10: Dependency / Prerequisite Graph
+
+**Purpose:** Shows what conceptual foundations must be in place before higher-level schema operations are possible.
+
+```
+[Variable-Slot Architecture]   [Default Value System]
+           │                           │
+           └───────────┬───────────────┘
+                       ▼
+              [Schema-Type / Instance
+               Distinction]
+                       │
+           ┌───────────┼────────────┐
+           ▼           ▼            ▼
+   [Spreading     [Hierarchical  [WM Interface:
+    Activation]    Sub-Schema     Automation as
+       │           Embedding]     Compression]
+       │               │               │
+       └───────────┬───┘               │
+                   ▼                   │
+         [Comprehension Engine:        │
+          Select → Instantiate →       │
+          Infer → Default-Fill]        │
+                   │                   │
+                   └─────────┬─────────┘
+                             ▼
+              [Assimilation (default) vs.
+               Accommodation (effortful)]
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+         [Accretion]    [Tuning]    [Restructuring]
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                 [Prediction Error as
+                  Update Signal]
+                             │
+                    ┌────────┼────────┐
+                    ▼        ▼        ▼
+             [Expert     [Schema  [Sleep +
+              Blindness]  Intru-   Consolid-
+                          sion]    ation]
+                             │
+                             ▼
+              [Frontier: Predictive Processing /
+               Hippocampal-Neocortical Transfer /
+               Binding Problem]
+```
+
+**Reading guide:** Read top-to-bottom. You cannot understand schema dynamics (Level 4) without the substructure (Level 3), and you cannot understand the substructure without the formal specification of slot-variable architecture (Level 1). The edge cases (Level 5) are downstream consequences of the dynamics, not separate phenomena — they make sense only if the mechanism chain above them is clear.
+
+**Source:** §1.4 (Rumelhart Formal Spec), §2.1–2.6, §3.1–3.6, §4.1–4.4, §5.1–5.6
+
+---
+
+## Synthesis Packet
+
+**Top 5 takeaways:**
+
+1. **The filing-cabinet metaphor is wrong at mechanism level.** Schemas do not store knowledge passively — they actively generate predictions, constrain incoming perception, and reconstruct memory at retrieval. The gap between the storage metaphor and the generative mechanism is where most misconceptions about learning live.
+
+2. **Assimilation is the default; accommodation is the expensive exception.** New information almost always gets fitted to existing schemas (even distorted in the process). Schema change requires a prediction error large enough to cross a threshold — which most new information, delivered in typical instruction, does not do. This is why conceptual change is hard and why "more exposure" is often not the answer.
+
+3. **Schema automation is a double-edged mechanism.** The same process (automation) that gives experts WM compression, fast activation, and rich inference also produces expert blindness, schema intrusion errors, and resistance to accommodation. You cannot have the benefits without the liabilities — but you can compensate by designing for anomaly detection.
+
+4. **The three modification modes target different instructional strategies.** Accretion (varied examples) → Tuning (deliberate practice with feedback across cases) → Restructuring (explicit cognitive conflict + consolidation time). Most instruction operates in the accretion zone. Genuine conceptual change requires engineering restructuring conditions, including sleep.
+
+5. **The frontier is converging on schemas-as-priors in a predictive processing framework.** This is theoretically elegant and backed by hippocampal-neocortical neuroscience (van Kesteren dissociation), but its distinctiveness from classical schema theory remains contested. The transformer/LLM analogy is thought-provoking but not yet mechanistically settled.
+
+---
+
+**Navigator — which aid answers which question:**
+
+```
+"What does the whole report cover?"         → Aid 1  (Taxonomy Tree)
+"How do schemas actually work?"             → Aid 2  (Causal Architecture Map)
+"Where did schema theory come from?"        → Aid 3  (Genealogy Timeline)
+"How does a schema win over competitors?"   → Aid 4  (Activation Flow Diagram)
+"What's the difference between accretion,
+  tuning, and restructuring?"              → Aid 5  (Three Modes Matrix)
+"What's the difference between [X] and [Y]
+  in schema theory?"                       → Aid 6  (Concept Distinction Table)
+"Which claims are well-evidenced?"          → Aid 7  (Evidence Ledger)
+"How do novice and expert differ?"          → Aid 8  (Before/After Panel)
+"Why is conceptual change so hard?"         → Aid 9  (Update-Mode Quadrant)
+"What must I understand before I can
+  understand schema dynamics?"             → Aid 10 (Dependency Graph)
+```
+
+---
+
+**Final Scorecard:**
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║            REPORT SCORECARD: Cognitive Schema Architecture       ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Core thesis   : Schemas are active generative engines, not       ║
+║                 storage — they constrain, infer, fill defaults,  ║
+║                 and resist revision in systematic ways           ║
+║ Strongest evd : Bartlett intrusion experiments (replicated);     ║
+║                 WM compression in chess expertise (★★★★★)        ║
+║ Most useful   : Three-mode change taxonomy (Accretion/Tuning/    ║
+║  distinction  :  Restructuring) — maps directly to instruction   ║
+║ Weakest claim : PP reframe as genuine advance over classical     ║
+║                 schema theory (overlap unclear; ★★★☆☆)           ║
+║ Open frontier : Binding problem (gamma synchrony); hippocampal-  ║
+║                 neocortical transfer; schema distinctness debate  ║
+║ Key action    : Design instruction for RESTRUCTURING, not just   ║
+║                 accretion — most "learning" stays in accretion   ║
+║ Read if you   : Design instruction, study expertise, build PKM   ║
+║                 systems, or work in cognitive science            ║
+║ Skip if you   : Need database schemas, AI frames, or social      ║
+║                 stereotyping (explicitly excluded)               ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+
+
+
 
 # Cognitive Schema Architecture: The Mechanisms of Formation, Activation, and Update in Memory and Learning
 
