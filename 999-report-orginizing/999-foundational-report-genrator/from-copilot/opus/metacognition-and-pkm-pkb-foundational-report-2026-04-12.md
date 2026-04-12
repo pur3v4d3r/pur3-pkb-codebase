@@ -82,7 +82,7 @@ key-researchers: ["John Flavell", "Ann Brown", "Thomas Nelson", "Louis Narens", 
 # ═══════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
 # ═══════════════════════════════════════════════════════════════
-word-count: "TBD"
+word-count: "~18,200"
 complexity-level: advanced-practitioner
 target-audience: "Intermediate to advanced learners; PKM practitioners; lifelong autodidacts"
 depth-level: comprehensive
@@ -117,12 +117,12 @@ appendix_sections_included:
   - pkb_connections
   - quality_self_assessment
 
-lexicon_term_count: "TBD"
-reference_count: "TBD"
-flashcard_seed_count: "TBD"
-expansion_topic_count: "TBD"
-wiki_link_count: "TBD"
-callout_count: "TBD"
+lexicon_term_count: "9"
+reference_count: "10"
+flashcard_seed_count: "9"
+expansion_topic_count: "5"
+wiki_link_count: "~60"
+callout_count: "~38"
 
 # ═══════════════════════════════════════════════════════════════
 # ORIGINAL CONTRIBUTIONS (Pipeline-Compatible)
