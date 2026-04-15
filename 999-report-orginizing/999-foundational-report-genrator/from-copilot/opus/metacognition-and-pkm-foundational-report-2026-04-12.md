@@ -689,7 +689,7 @@ What remains is the empirical work — the careful measurement of how specific P
 > The downward control flow in the meta-level/object-level architecture: executive processes through which the meta-level modifies object-level cognitive activity. Decomposed into planning (before task), monitoring (during task), and evaluating (after task).
 >
 > **Boundary:** Regulation is not the strategies it deploys — it is the *selection
-
+> 
 , orchestration, and evaluation* of those strategies. Using elaborative interrogation is a cognitive strategy; *deciding* to use it is regulation.
 >
 > **Report-Specific Significance:** Section IV shows how PKM workflows instantiate regulatory processes and how templates serve as externalised regulatory scaffolding.
