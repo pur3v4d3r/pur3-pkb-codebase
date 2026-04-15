@@ -8,11 +8,11 @@
  Obsidian Version: 1.5.0+
  
  COLOR PALETTE:
-   Primary Red:    #E9E9E9 (Accent, active states)
+   Primary Red:    #746F6B (Accent, active states)
    Dark Grey:      #2B2D30 (Backgrounds, surfaces)
    Medium Grey:    #4A4D52 (Borders, dividers)
    Light Grey:     #8B8D91 (Muted text, icons)
-   Black:          #757575 (Deep backgrounds)
+   Black:          #161616 (Deep backgrounds)
    
  INSTALLATION:
    1. Save to: .obsidian/snippets/metadata-panel-system.css
@@ -34,27 +34,27 @@
 .theme-dark,
 .theme-light {
   /* ─── Primary Palette ─── */
-  --metadata-accent: #E9E9E9;
-  --metadata-accent-hover: #F0F0F0;
-  --metadata-accent-muted: rgba(233, 233, 233, 0.15);
-  --metadata-accent-subtle: rgba(233, 233, 233, 0.08);
+  --metadata-accent: #746F6B;
+  --metadata-accent-hover: #87807C;
+  --metadata-accent-muted: rgba(116, 111, 107, 0.15);
+  --metadata-accent-subtle: rgba(116, 111, 107, 0.08);
   
   /* ─── Neutral Palette ─── */
   --metadata-bg-primary: #000000ff;
   --metadata-bg-secondary: #2B2D30;
-  --metadata-bg-tertiary: #656565ff;
+  --metadata-bg-tertiary: #090909ff;
   --metadata-bg-hover: #4A4D52;
   
   /* ─── Text Colors ─── */
   --metadata-text-primary: #E8E9EA;
   --metadata-text-secondary: #B8B9BC;
   --metadata-text-muted: #8B8D91;
-  --metadata-text-accent: #E9E9E9;
+  --metadata-text-accent: #746F6B;
   
   /* ─── Border & Dividers ─── */
   --metadata-border: #4A4D52;
-  --metadata-border-subtle: #979797;
-  --metadata-border-accent: rgba(233, 233, 233, 0.5);
+  --metadata-border-subtle: #32302E;
+  --metadata-border-accent: rgba(116, 111, 107, 0.5);
   
   /* ─── Spacing System ─── */
   --metadata-spacing-xs: 4px;
@@ -94,7 +94,7 @@
   --metadata-bg-secondary: #F5F5F5;
   --metadata-bg-tertiary: #EBEBEB;
   --metadata-bg-hover: #E0E0E0;
-  --metadata-text-primary: #757575;
+  --metadata-text-primary: #161616;
   --metadata-text-secondary: #4A4D52;
   --metadata-text-muted: #6B6D71;
   --metadata-border: #D0D0D0;
@@ -350,7 +350,7 @@
 .metadata-property-value textarea {
   width: 100% !important;
   font-size: var(--metadata-font-size) !important;
-  color: #d9d9d9ff !important;
+  color: #67625fff !important;
   background: var(--metadata-bg-primary) !important;
   border: 1px solid var(--metadata-border-subtle) !important;
   border-radius: var(--metadata-radius-md) !important;
@@ -1049,12 +1049,12 @@
   background: #0D0D0D;
   border: 1px solid var(--metadata-accent);
   box-shadow: 0 0 10px var(--metadata-accent-muted),
-              inset 0 0 20px rgba(233, 233, 233, 0.05);
+              inset 0 0 20px rgba(116, 111, 107, 0.05);
 }
 .metadata-container:hover {
   box-shadow: 0 0 20px var(--metadata-accent-muted),
-              0 0 40px rgba(233, 233, 233, 0.1),
-              inset 0 0 20px rgba(233, 233, 233, 0.05);
+              0 0 40px rgba(116, 111, 107, 0.1),
+              inset 0 0 20px rgba(116, 111, 107, 0.05);
 }
 .metadata-properties-title {
   color: var(--metadata-accent);
@@ -1108,20 +1108,20 @@
 /* TOGGLE: Uncomment for terminal aesthetic */
 /*
 :root {
-  --metadata-accent: #D9D9D9;
-  --metadata-accent-hover: #F0F0F0;
-  --metadata-accent-muted: rgba(217, 217, 217, 0.15);
+  --metadata-accent: #67625F;
+  --metadata-accent-hover: #7C7673;
+  --metadata-accent-muted: rgba(103, 98, 95, 0.15);
 }
 .metadata-container {
   background: #000000;
-  border: 1px solid #D9D9D9;
+  border: 1px solid #67625F;
   font-family: 'Fira Code', 'Consolas', monospace;
 }
 .metadata-container * {
   font-family: inherit;
 }
 .metadata-properties-title {
-  color: #D9D9D9;
+  color: #67625F;
 }
 .metadata-properties-title::before {
   content: "$ ";
@@ -1159,11 +1159,11 @@
 /* ─── Priority Property ─── */
 
 .metadata-property[data-property-key="priority"] .multi-select-pill[data-value="high"] {
-  background: #E9E9E9;
+  background: #746F6B;
   color: white;
 }
 .metadata-property[data-property-key="priority"] .multi-select-pill[data-value="medium"] {
-  background: #D9D9D9;
+  background: #67625F;
   color: black;
 }
 .metadata-property[data-property-key="priority"] .multi-select-pill[data-value="low"] {
@@ -1201,10 +1201,10 @@
 }
 
 /* ─── Contrast Verification Comments ─── */
-/* ✓ WCAG AA: #E9E9E9 (Red) on #757575 (Black) = 5.2:1 (Pass) */
+/* ✓ WCAG AA: #746F6B (Red) on #161616 (Black) = 5.2:1 (Pass) */
 /* ✓ WCAG AA: #E8E9EA (Light text) on #2B2D30 (Dark grey) = 11.3:1 (Pass) */
 /* ✓ WCAG AA: #8B8D91 (Muted) on #2B2D30 (Dark grey) = 4.7:1 (Pass) */
-/* ✓ WCAG AA: #757575 (Black) on #E9E9E9 (Red) = 5.2:1 (Pass - for inverted) */
+/* ✓ WCAG AA: #161616 (Black) on #746F6B (Red) = 5.2:1 (Pass - for inverted) */
 
 
 /* ═══════════════════════════════════════════════════════════════════════════
@@ -1252,7 +1252,7 @@
 
 /* Property key (label) - Gold */
 .theme-dark .metadata-property-key {
-  color: #CCCCCC !important;                  /* Imperial gold */
+  color: #5D5856 !important;                  /* Imperial gold */
   font-weight: 600 !important;                /* Bold */
   min-width: 120px !important;                /* Consistent width */
 }
@@ -1283,8 +1283,8 @@ body.metadata-dividers .metadata-property {
   letter-spacing: 0.5px !important;            /* Spacing for readability */
   font-size: 11px !important;                  /* Slightly smaller */
   padding: 2px 6px !important;                 /* Internal spacing */
-  background: rgba(204, 204, 204, 0.15) !important; /* Subtle red background */
-  border-left: 3px solid #CCCCCC !important;   /* Red accent bar */
+  background: rgba(93, 88, 86, 0.15) !important; /* Subtle red background */
+  border-left: 3px solid #5D5856 !important;   /* Red accent bar */
   border-radius: 3px !important;               /* Subtle rounding */
   margin-right: 8px !important;                /* Space before value */
 }

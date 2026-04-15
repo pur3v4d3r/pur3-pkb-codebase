@@ -38,12 +38,12 @@
      ──────────────────────────────────────────────────────────────────────── */
   
   /* Primary Crimson Spectrum */
-  --callout-crimson: 204, 204, 204;              /* #CCCCCC - Vivid */
-  --callout-crimson-bright: 217, 217, 217;       /* #D9D9D9 - Bright */
-  --callout-crimson-dim: 191, 191, 191;          /* #BFBFBF - Dim */
-  --callout-crimson-dark: 179, 179, 179;         /* #B3B3B3 - Dark */
-  --callout-crimson-ultra: 166, 166, 166;        /* #a6a6a6 - Ultra Dim */
-  --callout-crimson-soft: 240, 240, 240;     /* #F0F0F0 - Soft */
+  --callout-crimson: 93, 88, 86;              /* #5D5856 - Vivid */
+  --callout-crimson-bright: 103, 98, 95;       /* #67625F - Bright */
+  --callout-crimson-dim: 83, 79, 76;          /* #534F4C - Dim */
+  --callout-crimson-dark: 73, 69, 67;         /* #494543 - Dark */
+  --callout-crimson-ultra: 62, 59, 57;        /* #3e3b39 - Ultra Dim */
+  --callout-crimson-soft: 144, 138, 135;     /* #908A87 - Soft */
   
   /* Greyscale Hierarchy */
   --callout-grey-high: 224, 224, 224;        /* #E0E0E0 - High emphasis */
@@ -51,7 +51,7 @@
   --callout-grey-low: 122, 122, 122;         /* #7A7A7A - Low */
   
   /* Accent Colors */
-  --callout-orange: 217, 217, 217;              /* #D9D9D9 - Warm accent */
+  --callout-orange: 103, 98, 95;              /* #67625F - Warm accent */
   
   /* Structural Colors */
   --callout-disabled: 90, 90, 90;            /* #5A5A5A */
@@ -296,7 +296,7 @@
 .callout-title strong,
 .callout-title b {
   font-weight: 700 !important;
-  color: #CCCCCC !important;  /* Vivid Crimson */
+  color: #5D5856 !important;  /* Vivid Crimson */
 }
 
 .callout-content em,
@@ -313,7 +313,7 @@
 .callout-content i b {
   font-weight: 700;
   font-style: italic;
-  color: #CCCCCC;
+  color: #5D5856;
 }
 
 /* Icon Styling */
@@ -437,7 +437,7 @@
 .callout[data-callout="done"],
 .callout[data-callout="complete"],
 .callout[data-callout="read-complete"] {
-  --callout-color: 232, 232, 232; /* Green-tinted grey */
+  --callout-color: 116, 110, 107; /* Green-tinted grey */
 }
 
 /* ────────────────────────────────────────────────────────────────────────
@@ -509,7 +509,7 @@
 .callout[data-callout="meeting"],
 .callout[data-callout="agenda"] {
   --callout-color: var(--callout-grey-medium);
-  border-left: 3px solid rgba(217, 217, 217, 0.6); /* Orange accent */
+  border-left: 3px solid rgba(103, 98, 95, 0.6); /* Orange accent */
 }
 
 /* ────────────────────────────────────────────────────────────────────────
@@ -568,7 +568,7 @@
 .callout[data-callout="gemini-pro-response"],
 .callout[data-callout="claude-thinking"],
 .callout[data-callout="key-changes"] {
-  --callout-color: 217, 217, 217; /* Golden yellow from data.json */
+  --callout-color: 103, 98, 95; /* Golden yellow from data.json */
   border-left-width: 3px;
 }
 
@@ -577,20 +577,20 @@
    ──────────────────────────────────────────────────────────────────────── */
 
 .callout[data-callout="stoic-quote"] {
-  --callout-color: 217, 217, 217; /* Golden yellow */
+  --callout-color: 103, 98, 95; /* Golden yellow */
   border-left-width: 4px;
   font-style: italic;
 }
 
 .callout[data-callout="in-note-metadata"] {
-  --callout-color: 240, 240, 240; /* Purple from data.json */
+  --callout-color: 129, 123, 119; /* Purple from data.json */
   border-left-width: 2px;
   font-size: 0.9em;
 }
 
 .callout[data-callout="caltab"],
 .callout[data-callout="your-name"] {
-  --callout-color: 217, 217, 217; /* Bright red */
+  --callout-color: 103, 98, 95; /* Bright red */
   border-left-width: 3px;
 }
 
@@ -603,9 +603,9 @@
 .callout[data-callout="core-concept"] {
   --callout-color: var(--callout-crimson);
   background: linear-gradient(135deg,
-    rgba(204, 204, 204, 0.03) 0%,
-    rgba(204, 204, 204, 0.03) 50%,
-    rgba(204, 204, 204, 0.03) 100%);
+    rgba(93, 88, 86, 0.03) 0%,
+    rgba(93, 88, 86, 0.03) 50%,
+    rgba(93, 88, 86, 0.03) 100%);
   background-size: 200% 200%;
   animation: shimmer 8s linear infinite, fadeInScale var(--animation-speed-normal) var(--animation-easing);
 }
@@ -615,11 +615,11 @@
 .callout[data-callout="premium"],
 .callout[data-callout="valuable"] {
   --callout-color: var(--callout-crimson);
-  border: 2px solid rgba(204, 204, 204, 0.4);
+  border: 2px solid rgba(93, 88, 86, 0.4);
   border-left-width: 4px;
   box-shadow:
-    0 0 20px rgba(204, 204, 204, 0.2),
-    0 0 40px rgba(204, 204, 204, 0.1),
+    0 0 20px rgba(93, 88, 86, 0.2),
+    0 0 40px rgba(93, 88, 86, 0.1),
     var(--shadow-depth-2);
 }
 
@@ -642,7 +642,7 @@
   box-shadow:
     0 8px 16px rgba(0, 0, 0, 0.5),
     0 16px 32px rgba(0, 0, 0, 0.35),
-    0 0 20px rgba(204, 204, 204, 0.2),
+    0 0 20px rgba(93, 88, 86, 0.2),
     inset 0 1px 0 rgba(224, 224, 224, 0.1);
   background: linear-gradient(180deg,
     rgba(30, 30, 30, 0.8) 0%,
@@ -654,7 +654,7 @@
 .callout[data-callout="pinned"],
 .callout[data-callout="bookmark"] {
   --callout-color: var(--callout-crimson);
-  border-top: 2px solid rgba(204, 204, 204, 0.4);
+  border-top: 2px solid rgba(93, 88, 86, 0.4);
   border-left-width: 4px;
 }
 
@@ -677,10 +677,10 @@
 .callout[data-callout="precision"],
 .callout[data-callout="exact"] {
   --callout-color: var(--callout-crimson);
-  border: 2px solid rgba(204, 204, 204, 0.3);
-  border-left: 4px solid rgb(204, 204, 204);
+  border: 2px solid rgba(93, 88, 86, 0.3);
+  border-left: 4px solid rgb(93, 88, 86);
   box-shadow:
-    0 0 0 4px rgba(204, 204, 204, 0.1),
+    0 0 0 4px rgba(93, 88, 86, 0.1),
     var(--shadow-depth-2);
 }
 
@@ -691,7 +691,7 @@
   --callout-color: var(--callout-crimson);
   border-left-width: 5px;
   box-shadow:
-    -3px 0 0 rgba(204, 204, 204, 0.3),
+    -3px 0 0 rgba(93, 88, 86, 0.3),
     var(--shadow-depth-2);
 }
 
@@ -1015,7 +1015,7 @@ body.callout-variant-raised .callout:hover {
    All design tokens are in :root {} at the top of this file.
    
    To customize colors, edit these variables:
-   - --callout-crimson: 204, 204, 204;        (change to your brand color)
+   - --callout-crimson: 93, 88, 86;        (change to your brand color)
    - --callout-grey-high: 224, 224, 224;  (adjust greyscale palette)
    - --glow-intensity: 0.3;               (increase/decrease glow strength)
    

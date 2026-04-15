@@ -50,7 +50,7 @@
   /* These are the accent colors available for callout types.               */
   /* Change any value to customize. Format: R, G, B                         */
 
-  --co-purple:       103, 98, 95;     /* #67625F — Electric Purple         */
+  --co-purple:       103, 98, 95;     /* #232121 — Electric Purple         */
   --co-purple-dim:   83, 79, 76;     /* #534F4C — Muted Purple            */
   --co-purple-deep:  62, 59, 57;      /* #3e3b39 — Deep Purple             */
   --co-cyan:         103, 98, 95;     /* #67625F — Neon Cyan               */
@@ -360,6 +360,13 @@
 .callout[data-callout="terms"],
 .callout[data-callout="details"],
 .callout[data-callout="about-the-author"],
+.callout[data-callout="section-summary"],
+.callout[data-callout="claude-insight"],
+.callout[data-callout="far-transfer"],
+.callout[data-callout="debate"],
+.callout[data-callout="schema-activation"],
+.callout[data-callout="active-reading"],
+.callout[data-callout="active-reading-prompt"],
 .callout[data-callout="comprehensive-reference"] {
   --callout-color: var(--co-purple);
 }

@@ -15,12 +15,12 @@
 
 :root {
   /* ─── PRIMARY RED PALETTE ─── */
-  --v4d3r-purple-primary: #d9d9d9ff;
-  --v4d3r-purple-dark: #B3B3B3;
-  --v4d3r-purple-darker: #A7A7A7;
-  --v4d3r-purple-light: #F0F0F0;
-  --v4d3r-purple-pale: #d9d9d9ff;
-  --v4d3r-purple-glow: rgba(218, 218, 218, 0.4);
+  --v4d3r-purple-primary: #67625fff;
+  --v4d3r-purple-dark: #494543;
+  --v4d3r-purple-darker: #3F3C3A;
+  --v4d3r-purple-light: #7D7673;
+  --v4d3r-purple-pale: #67625fff;
+  --v4d3r-purple-glow: rgba(105, 100, 97, 0.4);
   
   /* ─── BLACK PALETTE ─── */
   --v4d3r-black-pure: #000000;
@@ -29,23 +29,23 @@
   --v4d3r-black-rich: #1d1d1dff;
   
   /* ─── GREY PALETTE ─── */
-  --v4d3r-grey-darkest: #9d9d9d;
-  --v4d3r-grey-dark: #B0B0B0;
-  --v4d3r-grey-medium: #CFCFCF;
-  --v4d3r-grey-light: #F0F0F0;
-  --v4d3r-grey-pale: #F0F0F0;
-  --v4d3r-grey-ghost: #F0F0F0;
-  --v4d3r-grey-snow: #F0F0F0;
+  --v4d3r-grey-darkest: #373433;
+  --v4d3r-grey-dark: #474341;
+  --v4d3r-grey-medium: #5F5B58;
+  --v4d3r-grey-light: #86807C;
+  --v4d3r-grey-pale: #AAA6A3;
+  --v4d3r-grey-ghost: #B8B4B2;
+  --v4d3r-grey-snow: #BAB7B5;
   
   /* ─── ACCENT COLORS ─── */
-  --v4d3r-accent-crimson: #C4C4C4;
-  --v4d3r-accent-rose: #D8D8D8;
-  --v4d3r-accent-maroon: #a7a7a7;
+  --v4d3r-accent-crimson: #565250;
+  --v4d3r-accent-rose: #67625F;
+  --v4d3r-accent-maroon: #3f3c3a;
   
   /* ─── SEMANTIC COLORS ─── */
-  --v4d3r-success: #a7a7a7;
-  --v4d3r-warning: #C9C9C9;
-  --v4d3r-info: #CFCFCF;
+  --v4d3r-success: #3f3c3a;
+  --v4d3r-warning: #5A5653;
+  --v4d3r-info: #5F5B58;
   --v4d3r-error: var(--v4d3r-purple-primary);
 }
 
@@ -508,20 +508,20 @@
 }
 .mermaid:hover {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
-  border-color: #a5a5a5ff; /* Red Arrow Highlight */
+  border-color: #3d3a39ff; /* Red Arrow Highlight */
 }
 .node rect, .node circle, .node polygon {
-  fill: #121212 !important; stroke: #DADADA !important; stroke-width: 2px !important;
+  fill: #121212 !important; stroke: #696461 !important; stroke-width: 2px !important;
 }
-.edgePath .path { stroke: #CFCFCF !important; stroke-width: 2px !important; }
-.marker { fill: #DADADA !important; stroke: #DADADA !important; }
-.label { color: #F0F0F0 !important; font-family: "JetBrains Mono" !important; }
+.edgePath .path { stroke: #5F5B58 !important; stroke-width: 2px !important; }
+.marker { fill: #696461 !important; stroke: #696461 !important; }
+.label { color: #B8B4B2 !important; font-family: "JetBrains Mono" !important; }
 /*node Hover effect*/
 .node:hover rect, .node:hover circle, .node:hover polygon {
-  fill: #1F1F1F !important; stroke: #D9D9D9 !important; stroke-width: 2px !important;
+  fill: #1F1F1F !important; stroke: #67625F !important; stroke-width: 2px !important;
 }
-.edgePath:hover .path { stroke: #D9D9D9 !important; stroke-width: 2px !important; }
-.marker:hover { fill: #D9D9D9 !important; stroke-width: 2px !important; }
+.edgePath:hover .path { stroke: #67625F !important; stroke-width: 2px !important; }
+.marker:hover { fill: #67625F !important; stroke-width: 2px !important; }
 .label:hover { color: #FFFFFF !important; font-family: "JetBrains Mono" !important; }
 
 
@@ -598,15 +598,15 @@
 
 /* Flowchart nodes */
 .theme-dark .mermaid .node rect {
-  fill: rgba(204, 204, 204, 0.1) !important;    /* Purple tint */
-  stroke: #CCCCCC !important;                 /* Purple border */
+  fill: rgba(93, 88, 86, 0.1) !important;    /* Purple tint */
+  stroke: #5D5856 !important;                 /* Purple border */
   stroke-width: 2px;
 }
 
 /* Sequence diagram boxes */
 .theme-dark .mermaid .actor {
   fill: var(--background-secondary) !important;
-  stroke: #CCCCCC !important;                 /* Gold border */
+  stroke: #5D5856 !important;                 /* Gold border */
 }
 
 

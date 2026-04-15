@@ -21,11 +21,11 @@
 .markdown-preview-view pre:has(code[class*="language-prompt"]),
 .markdown-rendered pre:has(code[class*="language-prompt"]) {
   position: relative !important;
-  background: linear-gradient(135deg, rgba(129, 129, 129, 0.12) 0%, rgba(106, 106, 106, 0.08) 100%) !important;
-  border: 2px solid rgba(129, 129, 129, 0.4) !important;
-  border-left: 4px solid #818181 !important;
+  background: linear-gradient(135deg, rgba(105, 100, 97, 0.12) 0%, rgba(86, 82, 80, 0.08) 100%) !important;
+  border: 2px solid rgba(105, 100, 97, 0.4) !important;
+  border-left: 4px solid #696461 !important;
   border-radius: 12px !important;
-  box-shadow: 0 0 20px rgba(129, 129, 129, 0.15) !important;
+  box-shadow: 0 0 20px rgba(105, 100, 97, 0.15) !important;
 }
 
 /* Badge label */
@@ -41,10 +41,10 @@
   font-weight: 600 !important;
   text-transform: uppercase !important;
   letter-spacing: 0.5px !important;
-  background: linear-gradient(135deg, #818181 0%, #6A6A6A 100%) !important;
+  background: linear-gradient(135deg, #696461 0%, #565250 100%) !important;
   color: #FFFFFF !important;
   border-radius: 6px !important;
-  box-shadow: 0 2px 8px rgba(129, 129, 129, 0.4) !important;
+  box-shadow: 0 2px 8px rgba(105, 100, 97, 0.4) !important;
   z-index: 10 !important;
 }
 
@@ -57,11 +57,11 @@
 .markdown-preview-view pre:has(code[class*="language-prompt-component"]),
 .markdown-rendered pre:has(code[class*="language-prompt-component"]) {
   position: relative !important;
-  background: linear-gradient(135deg, rgba(154, 154, 154, 0.12) 0%, rgba(129, 129, 129, 0.08) 100%) !important;
-  border: 2px solid rgba(154, 154, 154, 0.4) !important;
-  border-left: 4px solid #9A9A9A !important;
+  background: linear-gradient(135deg, rgba(125, 118, 115, 0.12) 0%, rgba(105, 100, 97, 0.08) 100%) !important;
+  border: 2px solid rgba(125, 118, 115, 0.4) !important;
+  border-left: 4px solid #7D7673 !important;
   border-radius: 12px !important;
-  box-shadow: 0 0 20px rgba(154, 154, 154, 0.15) !important;
+  box-shadow: 0 0 20px rgba(125, 118, 115, 0.15) !important;
 }
 
 .markdown-preview-view pre:has(code[class*="language-prompt-component"])::before,
@@ -76,10 +76,10 @@
   font-weight: 600 !important;
   text-transform: uppercase !important;
   letter-spacing: 0.5px !important;
-  background: linear-gradient(135deg, #9A9A9A 0%, #818181 100%) !important;
+  background: linear-gradient(135deg, #7D7673 0%, #696461 100%) !important;
   color: #FFFFFF !important;
   border-radius: 6px !important;
-  box-shadow: 0 2px 8px rgba(154, 154, 154, 0.4) !important;
+  box-shadow: 0 2px 8px rgba(125, 118, 115, 0.4) !important;
   z-index: 10 !important;
 }
 
@@ -92,11 +92,11 @@
 .markdown-preview-view pre:has(code[class*="language-claude-project"]),
 .markdown-rendered pre:has(code[class*="language-claude-project"]) {
   position: relative !important;
-  background: linear-gradient(135deg, rgba(106, 106, 106, 0.12) 0%, rgba(90, 90, 90, 0.08) 100%) !important;
-  border: 2px solid rgba(106, 106, 106, 0.4) !important;
-  border-left: 4px solid #6A6A6A !important;
+  background: linear-gradient(135deg, rgba(86, 82, 80, 0.12) 0%, rgba(73, 69, 67, 0.08) 100%) !important;
+  border: 2px solid rgba(86, 82, 80, 0.4) !important;
+  border-left: 4px solid #565250 !important;
   border-radius: 12px !important;
-  box-shadow: 0 0 20px rgba(106, 106, 106, 0.15) !important;
+  box-shadow: 0 0 20px rgba(86, 82, 80, 0.15) !important;
 }
 
 .markdown-preview-view pre:has(code[class*="language-claude-project"])::before,
@@ -111,10 +111,10 @@
   font-weight: 600 !important;
   text-transform: uppercase !important;
   letter-spacing: 0.5px !important;
-  background: linear-gradient(135deg, #6A6A6A 0%, #5A5A5A 100%) !important;
+  background: linear-gradient(135deg, #565250 0%, #494543 100%) !important;
   color: #FFFFFF !important;
   border-radius: 6px !important;
-  box-shadow: 0 2px 8px rgba(106, 106, 106, 0.4) !important;
+  box-shadow: 0 2px 8px rgba(86, 82, 80, 0.4) !important;
   z-index: 10 !important;
 }
 
@@ -127,11 +127,11 @@
 .markdown-preview-view pre:has(code[class*="language-gemini-gem"]),
 .markdown-rendered pre:has(code[class*="language-gemini-gem"]) {
   position: relative !important;
-  background: linear-gradient(135deg, rgba(154, 154, 154, 0.12) 0%, rgba(127, 127, 127, 0.08) 100%) !important;
-  border: 2px solid rgba(154, 154, 154, 0.4) !important;
-  border-left: 4px solid #9A9A9A !important;
+  background: linear-gradient(135deg, rgba(125, 118, 115, 0.12) 0%, rgba(103, 98, 95, 0.08) 100%) !important;
+  border: 2px solid rgba(125, 118, 115, 0.4) !important;
+  border-left: 4px solid #7D7673 !important;
   border-radius: 12px !important;
-  box-shadow: 0 0 20px rgba(154, 154, 154, 0.15) !important;
+  box-shadow: 0 0 20px rgba(125, 118, 115, 0.15) !important;
 }
 
 .markdown-preview-view pre:has(code[class*="language-gemini-gem"])::before,
@@ -146,10 +146,10 @@
   font-weight: 600 !important;
   text-transform: uppercase !important;
   letter-spacing: 0.5px !important;
-  background: linear-gradient(135deg, #9A9A9A 0%, #7F7F7F 100%) !important;
+  background: linear-gradient(135deg, #7D7673 0%, #67625F 100%) !important;
   color: #FFFFFF !important;
   border-radius: 6px !important;
-  box-shadow: 0 2px 8px rgba(154, 154, 154, 0.4) !important;
+  box-shadow: 0 2px 8px rgba(125, 118, 115, 0.4) !important;
   z-index: 10 !important;
 }
 
@@ -162,11 +162,11 @@
 .markdown-preview-view pre:has(code[class*="language-system"]),
 .markdown-rendered pre:has(code[class*="language-system"]) {
   position: relative !important;
-  background: linear-gradient(135deg, rgba(127, 127, 127, 0.12) 0%, rgba(104, 104, 104, 0.08) 100%) !important;
-  border: 2px solid rgba(127, 127, 127, 0.4) !important;
-  border-left: 4px solid #7F7F7F !important;
+  background: linear-gradient(135deg, rgba(103, 98, 95, 0.12) 0%, rgba(84, 80, 78, 0.08) 100%) !important;
+  border: 2px solid rgba(103, 98, 95, 0.4) !important;
+  border-left: 4px solid #67625F !important;
   border-radius: 12px !important;
-  box-shadow: 0 0 20px rgba(127, 127, 127, 0.15) !important;
+  box-shadow: 0 0 20px rgba(103, 98, 95, 0.15) !important;
 }
 
 .markdown-preview-view pre:has(code[class*="language-system"])::before,
@@ -181,10 +181,10 @@
   font-weight: 600 !important;
   text-transform: uppercase !important;
   letter-spacing: 0.5px !important;
-  background: linear-gradient(135deg, #7F7F7F 0%, #686868 100%) !important;
+  background: linear-gradient(135deg, #67625F 0%, #54504E 100%) !important;
   color: #FFFFFF !important;
   border-radius: 6px !important;
-  box-shadow: 0 2px 8px rgba(127, 127, 127, 0.4) !important;
+  box-shadow: 0 2px 8px rgba(103, 98, 95, 0.4) !important;
   z-index: 10 !important;
 }
 

@@ -83,9 +83,9 @@ h3 {
     font-size: 1.8em !important;
     font-weight: 100 !important;
     font-variant: all-small-caps !important;
-    color: #000000ff !important;                  /* Pure Black */
+    color: rgb(255, 255, 255) !important;                  /* Pure Black */
     text-decoration: underline !important;
-    text-shadow: 0 0 30px #252322ff, 0 0 20px #000000ee, 0 0 30px #67625fcc,
+    text-shadow: 0 0 30px rgb(0, 0, 0), 0 0 20px #ffffffee, 0 0 30px #000000cc,
                  0 0 30px #000000aa, 0 0 50px #67625f77;
                  /* Strong purple neon glow */
   }
@@ -125,9 +125,9 @@ h5 {
   font-size: 1.15em !important;
   font-weight: 400 !important;
   font-variant: all-small-caps !important;
-  color: #000000 !important;                  /* Pure Black */
+  color: #ffffff !important;                  /* Pure Black */
   text-decoration: underline !important;
-  text-shadow: 0 0 2px #67625fcc, 0 0 4px #67625faa, 0 0 7px #67625f77,
+  text-shadow: 0 0 2px #ffffffcc, 0 0 4px #ffffffaa, 0 0 7px #ffffff77,
                0 0 10px #67625f55;
                /* Soft purple neon glow */
 }

@@ -6,8 +6,8 @@
 /* ═══ CORE VARIABLES ═══ */
 :root {
   --purple-glow: rgb(0, 0, 0);
-  --purple-glow-bright: #999999;
-  --purple-shadow: rgba(128, 128, 128, 0.7);
+  --purple-glow-bright: #7c7673;
+  --purple-shadow: rgba(103, 98, 95, 0.7);
   --bracket-shadow: 0 0 3px var(--purple-shadow), 0 0 5px var(--purple-shadow);
 }
 
@@ -234,12 +234,12 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --purple-shadow: rgb(128, 128, 128);
+  --purple-shadow: rgb(103, 98, 95);
   --bracket-shadow: 0 0 3px var(--purple-shadow), 0 0 5px var(--purple-shadow);
 }
 
 .theme-light {
-  --purple-shadow: rgba(128, 128, 128, 0.55);
+  --purple-shadow: rgba(103, 98, 95, 0.55);
   --bracket-shadow: 0 0 2px var(--purple-shadow), 0 0 4px var(--purple-shadow);
 }
 
@@ -265,7 +265,7 @@ pre[class*="language-"] .token.bracket,
 .test-brackets * {
   color: var(--purple-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
-  background: rgba(128, 128, 128, 1) !important;
+  background: rgba(103, 98, 95, 1) !important;
 }
 /* ══════════════════════════════════════════════════════════════════════════════════
    BRACKET GLOW INTENSITY CONTROL
@@ -364,8 +364,8 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 /* BLUE VARIANT */
 /*
 :root {
-  --purple-glow: #808080;
-  --purple-shadow: rgba(128, 128, 128, 0.9);
+  --purple-glow: #67625f;
+  --purple-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
@@ -373,15 +373,15 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 
 :root {
   --purple-glow: #ffffff;
-  --purple-shadow: rgba(128, 128, 128, 0.9);
+  --purple-shadow: rgba(103, 98, 95, 0.9);
 }
 
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --purple-glow: #808080;
-  --purple-shadow: rgba(128, 128, 128, 0.9);
+  --purple-glow: #67625f;
+  --purple-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 /* ══════════════════════════════════════════════════════════════════════════════════ */

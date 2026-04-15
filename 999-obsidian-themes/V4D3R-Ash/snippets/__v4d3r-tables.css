@@ -67,7 +67,7 @@
 ───────────────────────────────────────────────────────────────────────── */
 .markdown-preview-view tbody tr:hover,
 .markdown-rendered tbody tr:hover {
-  background: rgba(218, 218, 218, 0.15) !important;
+  background: rgba(105, 100, 97, 0.15) !important;
   transition: background 0.2s ease;
 }
 
@@ -181,15 +181,15 @@
    [TOGGLE] T13: TABLE WITH SHADOWS (use cssclass: table-shadow)
 ───────────────────────────────────────────────────────────────────────── */
 .table-shadow table {
-  box-shadow: 0 4px 6px 1px rgba(217, 217, 217, 0.4)!important;
+  box-shadow: 0 4px 6px 1px rgba(103, 98, 95, 0.4)!important;
   border: none;
   border-radius: 8px;
 }
 .table-shadow thead {
-  box-shadow: 0 2px 4px 1px rgba(217, 217, 217, 0.3)!important;
+  box-shadow: 0 2px 4px 1px rgba(103, 98, 95, 0.3)!important;
 }
 .table-shadow tbody tr {
-  box-shadow: 0 2px 4px 1px rgba(217, 217, 217, 0.3)!important;
+  box-shadow: 0 2px 4px 1px rgba(103, 98, 95, 0.3)!important;
   transition: box-shadow 0.2s ease;
   
 }
@@ -236,7 +236,7 @@
 ───────────────────────────────────────────────────────────────────────── */
 .markdown-preview-view tr.highlight,
 .markdown-rendered tr.highlight {
-  background: rgba(218, 218, 218, 0.25) !important;
+  background: rgba(105, 100, 97, 0.25) !important;
   border-left: 3px solid var(--v4d3r-purple-primary)!important;
 }
 

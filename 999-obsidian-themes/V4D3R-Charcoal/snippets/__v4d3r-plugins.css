@@ -29,7 +29,7 @@
 }
 
 .dataview.table-view-table tr:hover {
-  background: rgba(129, 129, 129, 0.1);
+  background: rgba(105, 100, 97, 0.1);
 }
 .dataview.table-view-table tr:nth-child(even) {
   background: var(--v4d3r-black-rich);
@@ -321,7 +321,7 @@
 }
 
 .outline-tree .tree-item-self:hover {
-  background: rgba(129, 129, 129, 0.1);
+  background: rgba(105, 100, 97, 0.1);
 }
 
 .outline-tree .tree-item-self.is-active {

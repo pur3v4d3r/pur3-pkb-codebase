@@ -30,7 +30,7 @@
 /* Define the color variables */
 :root {
   --purple-glow: #808080;
-  --purple-shadow: rgba(128, 128, 128, 0.9);
+  --purple-shadow: rgba(103, 98, 95, 0.9);
 }
 
 /* Keyframe animation */
@@ -99,23 +99,23 @@ a.internal-link,
 /* BLUE VARIANT */
 /*
 :root {
-  --purple-glow: #808080;
-  --purple-shadow: rgba(128, 128, 128, 0.9);
+  --purple-glow: #67625f;
+  --purple-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* GREEN VARIANT */
 /*
 :root {
-  --purple-glow: #808080;
-  --purple-shadow: rgba(128, 128, 128, 0.9);
+  --purple-glow: #67625f;
+  --purple-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --purple-glow: #808080;
-  --purple-shadow: rgba(128, 128, 128, 0.9);
+  --purple-glow: #67625f;
+  --purple-shadow: rgba(103, 98, 95, 0.9);
 }
 */

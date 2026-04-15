@@ -13,18 +13,18 @@
 
 :root {
   /* === PRIMARY ACCENT COLORS === */
-  --theme-crimson: #CCCCCC;
-  --theme-crimson-bright: #D9D9D9;
-  --theme-crimson-dim: #BFBFBF;
+  --theme-crimson: #5D5856;
+  --theme-crimson-bright: #67625F;
+  --theme-crimson-dim: #534F4C;
 
   /* === CORE UI COLORS === */
   --theme-text: #E0E0E0;
   --theme-bg: #121212;
 
   /* === RGB VERSIONS (for rgba() transparency) === */
-  --theme-crimson-rgb: 204, 204, 204;
-  --theme-crimson-bright-rgb: 217, 217, 217;
-  --theme-crimson-dim-rgb: 191, 191, 191;
+  --theme-crimson-rgb: 93, 88, 86;
+  --theme-crimson-bright-rgb: 103, 98, 95;
+  --theme-crimson-dim-rgb: 83, 79, 76;
   --theme-text-rgb: 224, 224, 224;
   --theme-bg-rgb: 18, 18, 18;
 
@@ -39,7 +39,7 @@
    └─────────────────────────────────────────────────────────────┘ */
 
 /* ═══════════════════════════════════════════════════════════════
-   CATEGORY 1: LOGIC, ARGUMENT & ACADEMIC ANALYSIS (Purple #CCCCCC)
+   CATEGORY 1: LOGIC, ARGUMENT & ACADEMIC ANALYSIS (Purple #5D5856)
    
    Purpose: Core intellectual work
    - Claims, evidence, reasoning
@@ -85,7 +85,7 @@
 }
 
 /* ═══════════════════════════════════════════════════════════════
-   CATEGORY 2: PROJECTS, WORKFLOW & STATUS (Gold #CCCCCC)
+   CATEGORY 2: PROJECTS, WORKFLOW & STATUS (Gold #5D5856)
    
    Purpose: Task and project management
    - Reading status tracking
@@ -135,7 +135,7 @@
 }
 
 /* ═══════════════════════════════════════════════════════════════
-   CATEGORY 3: IDEAS, META & QUESTIONS (Teal #CCCCCC)
+   CATEGORY 3: IDEAS, META & QUESTIONS (Teal #5D5856)
    
    Purpose: Reflective thinking and exploration
    - Questions and confusion

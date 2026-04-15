@@ -92,20 +92,20 @@
 }
 .mermaid:hover {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
-  border-color: #4c4c4cff; /* Red Arrow Highlight */
+  border-color: #3d3a39ff; /* Red Arrow Highlight */
 }
 .node rect, .node circle, .node polygon {
-  fill: #121212 !important; stroke: #818181 !important; stroke-width: 2px !important;
+  fill: #121212 !important; stroke: #696461 !important; stroke-width: 2px !important;
 }
-.edgePath .path { stroke: #767676 !important; stroke-width: 2px !important; }
-.marker { fill: #818181 !important; stroke: #818181 !important; }
-.label { color: #E0E0E0 !important; font-family: "JetBrains Mono" !important; }
+.edgePath .path { stroke: #5F5B58 !important; stroke-width: 2px !important; }
+.marker { fill: #696461 !important; stroke: #696461 !important; }
+.label { color: #B8B4B2 !important; font-family: "JetBrains Mono" !important; }
 /*node Hover effect*/
 .node:hover rect, .node:hover circle, .node:hover polygon {
-  fill: #1F1F1F !important; stroke: #808080 !important; stroke-width: 2px !important;
+  fill: #1F1F1F !important; stroke: #67625F !important; stroke-width: 2px !important;
 }
-.edgePath:hover .path { stroke: #808080 !important; stroke-width: 2px !important; }
-.marker:hover { fill: #808080 !important; stroke-width: 2px !important; }
+.edgePath:hover .path { stroke: #67625F !important; stroke-width: 2px !important; }
+.marker:hover { fill: #67625F !important; stroke-width: 2px !important; }
 .label:hover { color: #FFFFFF !important; font-family: "JetBrains Mono" !important; }
 
 
@@ -182,15 +182,15 @@
 
 /* Flowchart nodes */
 .theme-dark .mermaid .node rect {
-  fill: rgba(114, 114, 114, 0.1) !important;    /* Purple tint */
-  stroke: #727272 !important;                 /* Purple border */
+  fill: rgba(93, 88, 86, 0.1) !important;    /* Purple tint */
+  stroke: #5D5856 !important;                 /* Purple border */
   stroke-width: 2px;
 }
 
 /* Sequence diagram boxes */
 .theme-dark .mermaid .actor {
   fill: var(--background-secondary) !important;
-  stroke: #727272 !important;                 /* Gold border */
+  stroke: #5D5856 !important;                 /* Gold border */
 }
 
 

@@ -11,8 +11,8 @@ body {
     /* How blurry the background image/wallpaper looks through the glass */
     --glass-blur-radius: 30px !important; 
     
-    /* Your Crimson Accent (#727272) tailored for the borders */
-    --glass-border-color: rgba(114, 114, 114, 0.3) !important;
+    /* Your Crimson Accent (#5D5856) tailored for the borders */
+    --glass-border-color: rgba(93, 88, 86, 0.3) !important;
 }
 
 /* 1. FORCE Ribbon Transparency (Far left strip) */
@@ -82,7 +82,7 @@ body {
 .markdown-preview-view h3,
 .cm-header-3,
 h3 {
-  background: linear-gradient(135deg, #727272 0%, #808080 100%) !important;
+  background: linear-gradient(135deg, #5D5856 0%, #67625F 100%) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   background-clip: text !important;

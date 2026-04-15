@@ -16,7 +16,7 @@
  Download JetBrains Mono from: https://www.jetbrains.com/lp/mono/
  Install all font weights for best results.
 ═══════════════════════════════════════════════════════════
-*/
+
 
 /* [SECTION 1: Global Font Variables] */
 body {
@@ -88,5 +88,5 @@ h1, h2, h3, h4, h5, h6,
 .popover.hover-popover,
 .menu,
 .suggestion-container {
-  box-shadow: 0 0px 48px rgba(128, 128, 128, 0.3) !important;
+  box-shadow: 0 0px 48px rgba(103, 98, 95, 0.3) !important;
 }

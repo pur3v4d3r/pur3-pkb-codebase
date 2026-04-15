@@ -586,15 +586,7 @@ CONTRAST VALIDATION RESULTS:
      font-family: var(--font-monospace) !important;
      font-weight: var(--v4d3r-base-font-weight) !important;
    }
-   
-   /* Headings */
-   h1, h2, h3, h4, h5, h6,
-   .cm-header-1, .cm-header-2, .cm-header-3,
-   .cm-header-4, .cm-header-5, .cm-header-6 {
-     font-family: var(--font-text) !important;
-     font-weight: var(--font-weight-bold) !important;
-   }
-   
+ 
    /* ═══════════════════════════════════════════════════════════════════════════
       PART 3: WORKSPACE & CANVAS
       ══════════════════════════════════════════════════════════════════════════ */
@@ -616,90 +608,11 @@ CONTRAST VALIDATION RESULTS:
      background-color: var(--v4d3r-grey-darkest) !important;
    }
    
-   /* ═══════════════════════════════════════════════════════════════════════════
-      PART 4: RIBBON (Left Sidebar)
-      ══════════════════════════════════════════════════════════════════════════ */
-   
-   .workspace-ribbon {
-     background-color: var(--v4d3r-grey-darker) !important;
-     border-right: 1px solid var(--v4d3r-grey-dark) !important;
-     padding: var(--v4d3r-space-sm) !important;
-   }
-   
-   .workspace-ribbon.mod-left {
-     background: linear-gradient(180deg, var(--v4d3r-grey-darker) 0%, var(--v4d3r-black-soft) 100%) !important;
-     box-shadow: 2px 0 8px var(--v4d3r-black-alpha-50) !important;
-   }
-   
-   /* Ribbon Actions */
-   .workspace-ribbon-collapse-btn {
-     color: var(--v4d3r-grey-light) !important;
-     background-color: transparent !important;
-     transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
-   }
-   
-   .workspace-ribbon-collapse-btn:hover {
-     color: var(--v4d3r-yellow-primary) !important;
-     background-color: var(--v4d3r-yellow-alpha-10) !important;
-     box-shadow: var(--v4d3r-shadow-yellow-sm) !important;
-   }
-   
-   .side-dock-ribbon-action {
-     color: var(--v4d3r-grey-light) !important;
-     margin: var(--v4d3r-space-xs) 0 !important;
-     padding: var(--v4d3r-space-sm) !important;
-     border-radius: var(--v4d3r-radius-md) !important;
-     transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
-   }
-   
-   .side-dock-ribbon-action:hover {
-     color: var(--v4d3r-yellow-bright) !important;
-     background-color: var(--v4d3r-yellow-alpha-15) !important;
-     transform: translateX(4px) !important;
-     box-shadow: var(--v4d3r-shadow-yellow-sm) !important;
-   }
-   
-   .side-dock-ribbon-action.is-active {
-     color: var(--v4d3r-yellow-primary) !important;
-     background-color: var(--v4d3r-yellow-alpha-20) !important;
-     border-left: var(--v4d3r-border-thick) solid var(--v4d3r-yellow-primary) !important;
-   }
-   
+
    /* ═══════════════════════════════════════════════════════════════════════════
       PART 5: SIDEBARS (Left & Right Panels)
       ══════════════════════════════════════════════════════════════════════════ */
-   
-   .workspace-split.mod-left-split,
-   .workspace-split.mod-right-split {
-     background-color: var(--v4d3r-grey-darker) !important;
-     border-right: 1px solid var(--v4d3r-grey-dark) !important;
-   }
-   
-   .workspace-split.mod-left-split {
-     box-shadow: 2px 0 12px var(--v4d3r-black-alpha-50) !important;
-   }
-   
-   .workspace-split.mod-right-split {
-     border-right: none !important;
-     border-left: 1px solid var(--v4d3r-grey-dark) !important;
-     box-shadow: -2px 0 12px var(--v4d3r-black-alpha-50) !important;
-   }
-   
-   /* Sidebar Headers */
-   .workspace-tab-header-container {
-     background-color: var(--v4d3r-grey-dark) !important;
-     border-bottom: 1px solid var(--v4d3r-grey-medium-dark) !important;
-     padding: var(--v4d3r-space-xs) var(--v4d3r-space-sm) !important;
-   }
-   
-   .workspace-tab-header {
-     color: var(--v4d3r-grey) !important;
-     font-size: 13px !important;
-     padding: var(--v4d3r-space-xs) var(--v4d3r-space-md) !important;
-     border-radius: var(--v4d3r-radius-md) !important;
-     transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
-   }
-   
+
    .workspace-tab-header:hover {
      color: var(--v4d3r-grey-light) !important;
      background-color: var(--v4d3r-grey-medium-dark) !important;
@@ -800,7 +713,8 @@ CONTRAST VALIDATION RESULTS:
    .nav-folder-title[data-path="99-system"]::before { content: "⚙️ "; margin-right: 6px; }
    .nav-folder-title[data-path="99-scripts"]::before { content: "👾 "; margin-right: 6px; }
    .nav-folder-title[data-path="00-meta"]::before { content: "♾️ "; margin-right: 6px; }
-   
+
+  
    /* ═══════════════════════════════════════════════════════════════════════════
       PART 7: TABS & TAB BAR
       ══════════════════════════════════════════════════════════════════════════ */
@@ -810,43 +724,9 @@ CONTRAST VALIDATION RESULTS:
      border-bottom: 1px solid var(--v4d3r-grey-dark) !important;
    }
    
-   .workspace-tab-header {
-     background-color: transparent !important;
-     color: var(--v4d3r-grey) !important;
-     border-radius: var(--v4d3r-radius-md) var(--v4d3r-radius-md) 0 0 !important;
-     margin: 0 2px !important;
-     padding: var(--v4d3r-space-sm) var(--v4d3r-space-md) !important;
-     transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
-   }
-   
-   .workspace-tab-header:hover {
-     background-color: var(--v4d3r-grey-dark) !important;
-     color: var(--v4d3r-grey-light) !important;
-   }
-   
-   .workspace-tab-header.is-active {
-     background-color: var(--v4d3r-grey-darkest) !important;
-     color: var(--v4d3r-yellow-primary) !important;
-     border-bottom: 2px solid var(--v4d3r-yellow-primary) !important;
-     box-shadow: 0 2px 8px var(--v4d3r-yellow-alpha-30) !important;
-   }
-   
-   .workspace-tab-header-inner {
-     font-size: 13px !important;
-     font-weight: var(--font-weight-normal) !important;
-   }
-   
-   .workspace-tab-header-inner-icon {
-     color: var(--v4d3r-grey) !important;
-   }
-   
-   .workspace-tab-header.is-active .workspace-tab-header-inner-icon {
-     color: var(--v4d3r-yellow-primary) !important;
-   }
-   
    /* Tab Close Button */
    .workspace-tab-header-inner-close-button {
-     color: var(--v4d3r-grey) !important;
+     color: var(--v4d3r-black-alpha-50) !important;
      padding: 2px !important;
      border-radius: var(--v4d3r-radius-sm) !important;
      transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
@@ -1019,7 +899,7 @@ CONTRAST VALIDATION RESULTS:
    }
    
    ::-webkit-scrollbar-thumb {
-     background-color: var(--v4d3r-grey-medium-dark) !important;
+     background-color: var(--v4d3r-yellow-accent) !important;
      border-radius: var(--v4d3r-radius-sm) !important;
      border: 2px solid var(--v4d3r-grey-darker) !important;
      transition: background-color var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
@@ -1189,9 +1069,10 @@ CONTRAST VALIDATION RESULTS:
    
    .internal-link {
      color: var(--v4d3r-yellow-primary) !important;
-     text-decoration: none !important;
+     text-decoration: dashed underline !important; 
    }
    
+
    .internal-link:hover {
      color: var(--v4d3r-yellow-bright) !important;
      text-decoration: underline !important;
@@ -1202,50 +1083,13 @@ CONTRAST VALIDATION RESULTS:
      opacity: 0.7 !important;
    }
    
-   
-   /* ═══════════════════════════════════════════════════════════════════════════
-      PART 20: HEADINGS
-      ══════════════════════════════════════════════════════════════════════════ */
-   
-   h1, h2, h3, h4, h5, h6 {
-     color: var(--v4d3r-grey-lightest) !important;
-     font-weight: var(--font-weight-bold) !important;
-     margin-top: var(--v4d3r-space-lg) !important;
-     margin-bottom: var(--v4d3r-space-md) !important;
-   }
-   
-   h1 {
-     font-size: var(--h1-size) !important;
-     color: var(--v4d3r-yellow-bright) !important;
-     border-bottom: 2px solid var(--v4d3r-yellow-dark) !important;
-     padding-bottom: var(--v4d3r-space-sm) !important;
-   }
-   
-   h2 {
-     font-size: var(--h2-size) !important;
-     border-bottom: 1px solid var(--v4d3r-grey-dark) !important;
-     padding-bottom: var(--v4d3r-space-xs) !important;
-   }
-   
-   h3 {
-     font-size: var(--h3-size) !important;
-     color: var(--v4d3r-grey-lighter) !important;
-   }
-   
-   h4 {
-     font-size: var(--h4-size) !important;
-     color: var(--v4d3r-grey-lighter) !important;
-   }
-   
-   h5 {
-     font-size: var(--h5-size) !important;
-   }
-   
-   h6 {
-     font-size: var(--h6-size) !important;
+   .internal-link.is-unresolved:hover {
      color: var(--v4d3r-grey) !important;
-     font-weight: var(--font-weight-medium) !important;
+     opacity: 0.7 !important;
+     text-decoration: line-through !important;
    }
+
+
    
    /* ═══════════════════════════════════════════════════════════════════════════
       PART 21: TABLES
@@ -1497,6 +1341,188 @@ h2 {
     0 0 8px rgba(230, 230, 10, 0.4),
     0 0 16px rgba(255, 255, 0, 0.2) !important;
 }
+h3 {
+  text-shadow: 
+    0 0 6px rgba(230, 230, 10, 0.3),
+    0 0 12px rgba(255, 255, 0, 0.1) !important;
+}
+h4 {
+  text-shadow: 
+    0 0 4px rgba(230, 230, 10, 0.2),
+    0 0 8px rgba(255, 255, 0, 0.1) !important;
+}
+h5 {
+  text-shadow: 
+    0cap 0 2px rgba(230, 230, 10, 0.1),
+    0 0 4px rgba(255, 255, 0, 0.05) !important;
+}
+h6 {
+  text-shadow: 
+    0cap  0 1px rgba(230, 230, 10, 0.05),
+    0 0 2px rgba(255, 255, 0, 0.02) !important;
+}
+
+
+
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ SNIPPET: Glowing Headers System
+ Category: Typography
+ Purpose: Neon glow heading hierarchy with RED/BLACK/GREY palette
+ Author: Pur3v4d3r
+ Created: 2025-12-29
+ Version: 1.0.0
+
+ Description:
+ Complete heading hierarchy (H1-H6) featuring dark text with glowing
+ purple neon text-shadow effects. Uses JetBrains Mono with all-small-caps
+ for a professional cyberpunk aesthetic.
+
+ Color Palette:
+ - Primary Glow: #67625F (Vivid Purple)
+ - Secondary Glow: #5D5856 (Deep Purple)
+ - Tertiary Glow: #494543 (Dark Purple)
+ - Text Base: #040404 (Near Black)
+ - Accent Grey: #858585 (Medium Grey)
+
+ Font Requirements:
+ - JetBrains Mono (recommended)
+ - Download: https://www.jetbrains.com/lp/mono/
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 1 - Intense Red Glow
+   Primary headings with maximum glow intensity
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1,
+.theme-dark .cm-header-1,
+.markdown-preview-view h1,
+.cm-header-1,
+h1 {
+    font-family: "Jetbrains Mono", var(--font-monospace) !important;
+    font-size: 1.8em !important;
+    font-weight: 600 !important;
+    font-variant: all-small-caps !important;
+    color: #000000 !important;                  /* Pure Black */
+    text-decoration: underline !important;
+    text-shadow: 0 0 3px #67625fff, 0 0 6px #67625fee, 0 0 10px #67625fcc,
+                 0 0 14px #67625faa, 0 0 18px #67625f77;
+                 /* Strong purple neon glow */
+  }
+  
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 2 - Strong Red Glow
+   Section headings with bold presence
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h2,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-2,
+.theme-dark .cm-header-2,
+.markdown-preview-view h2,
+.cm-header-2,
+h2 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.8em !important;
+  font-weight: 600 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 3px #67625fff, 0 0 6px #67625fee, 0 0 10px #67625fcc,
+               0 0 14px #67625faa, 0 0 18px #67625f77;
+               /* Strong purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 3 - Medium Red Glow
+   Subsection headings with reduced intensity
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h3,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-3,
+.theme-dark .cm-header-3,
+.markdown-preview-view h3,
+.cm-header-3,
+h3 {
+    font-family: "Jetbrains Mono", var(--font-monospace) !important;
+    font-size: 1.8em !important;
+    font-weight: 100 !important;
+    font-variant: all-small-caps !important;
+    color: rgb(255, 255, 255) !important;                  /* Pure Black */
+    text-decoration: underline !important;
+    text-shadow: 0 0 30px rgb(0, 0, 0), 0 0 20px #ffffffee, 0 0 30px #000000cc,
+                 0 0 30px #000000aa, 0 0 50px #67625f77;
+                 /* Strong purple neon glow */
+  }
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 4 - Subtle Red Glow
+   Minor section headings with softer effect
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h4,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-4,
+.theme-dark .cm-header-4,
+.markdown-preview-view h4,
+.cm-header-4,
+h4 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.3em !important;
+  font-weight: 500 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 2px #67625fdd, 0 0 5px #67625fbb, 0 0 8px #67625f99,
+               0 0 11px #67625f66;
+               /* Subtle purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 5 - Grey-Red Hybrid Glow
+   Detail headings with grey undertones
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h5,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-5,
+.theme-dark .cm-header-5,
+.markdown-preview-view h5,
+.cm-header-5,
+h5 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.15em !important;
+  font-weight: 400 !important;
+  font-variant: all-small-caps !important;
+  color: #ffffff !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 2px #ffffffcc, 0 0 4px #ffffffaa, 0 0 7px #ffffff77,
+               0 0 10px #67625f55;
+               /* Soft purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 6 - Minimal Red Glow
+   Smallest headings with faint purple effect
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view h6,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-6,
+.theme-dark .cm-header-6,
+.markdown-preview-view h6,
+.cm-header-6,
+h6 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.05em !important;
+  font-weight: 400 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;                  /* Pure Black */
+  text-decoration: underline !important;
+  text-shadow: 0 0 2px #67625faa, 0 0 4px #67625f88, 0 0 6px #67625f55;
+               /* Minimal purple neon glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   END OF GLOWING HEADERS SYSTEM
+   ══════════════════════════════════════════════════════════ */
+
+
 
 /*
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -1994,3 +2020,994 @@ h2 {
     text-shadow: none !important;
   }
 }
+
+/* ══════════════════════════════════════════════════════════
+   READING WIDTH
+   Optimal line length for readability
+   ══════════════════════════════════════════════════════════ */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-content {
+  max-width: 110ch !important;                 /* 95 characters optimal */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   TEXT FORMATTING - Bold and Italic
+   Bold text gets Imperial Gold color
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view strong,
+.theme-dark .markdown-source-view.mod-cm6 .cm-strong,
+.cm-strong {
+  color: rgb(255, 255, 0) !important;  
+  text-transform: uppercase !important;  /* Capitalize bold text */
+  font-weight: 600 !important;                /* Semi-bold weight */
+}
+.theme-dark .markdown-preview-view em,
+.theme-dark .markdown-source-view.mod-cm6 .cm-em,
+.cm-em {
+  font-style: italic !important;
+  color: rgba(255, 255, 0, 0.63) !important;
+}
+
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET NAME: Custom Ordered List Numbers (Colored)
+ Purpose: Color-coded numbered list markers by nesting level
+          Level 1: Numbers (Gold #5D5856)
+          Level 2: Arrow → (Purple #5D5856)
+          Level 3: Dash — (Teal #5D5856)
+          Level 4: Plus + (White)
+ Author: Pur3v4d3r
+ Date: 2025-12-05
+ Obsidian Version: 1.5.0+
+ Dependencies: None
+ Installation: Place in .obsidian/snippets/ and enable in Settings
+ 
+ CUSTOMIZATION VARIABLES:
+ Adjust these values to change size and position of markers
+═══════════════════════════════════════════════════════════
+*/
+
+/* ═══════════ CUSTOMIZATION VARIABLES ═══════════ */
+
+:root {
+    /* LEVEL 1 - Numbers */
+    --ol-level1-size: 1em;           /* Font size of numbers */
+    --ol-level1-weight: 600;         /* Font weight (400=normal, 600=semi-bold, 700=bold) */
+    --ol-level1-left: -1.5em;        /* Horizontal position (negative = left, positive = right) */
+    --ol-level1-top: 0em;            /* Vertical offset (negative = up, positive = down) */
+    
+    /* LEVEL 2 - Arrow → */
+    --ol-level2-size: 1.25em;        /* Size of arrow symbol */
+    --ol-level2-weight: 600;
+    --ol-level2-left: -1.5em;
+    --ol-level2-top: -0.25em;
+    
+    /* LEVEL 3 - Dash — */
+    --ol-level3-size: 1.25em;        /* Size of dash symbol */
+    --ol-level3-weight: 600;
+    --ol-level3-left: -1.5em;
+    --ol-level3-top: -0.15em;
+    
+    /* LEVEL 4 - Plus + */
+    --ol-level4-size: 1.25em;        /* Size of plus symbol */
+    --ol-level4-weight: 600;
+    --ol-level4-left: -1.5em;
+    --ol-level4-top: -0.15em;
+    
+    /* SPACING */
+    --ol-marker-spacing: 0.25em;     /* Space between marker and text */
+}
+
+/* ═══════════ EDITOR MODE (Source & Live Preview) ═══════════ */
+
+/* Level 1: Gold numbers */
+.cm-formatting-list-ol.cm-list-1 {
+    color: #ffff00 !important; /* ✓ WCAG AA: 10.8:1 on dark backgrounds */
+    font-weight: 300 !important;
+    font-size: 18 !important;
+    position: relative !important;
+}
+
+/* Level 2: Purple arrow → */
+.cm-formatting-list-ol.cm-list-2 {
+    color: transparent !important;
+    position: relative !important;
+}
+
+
+
+.cm-formatting-list-ol.cm-list-2::after {
+    content: "->" !important; /* → Arrow */
+    color: #ffff00 !important; /* Teal */
+    font-weight: 300 !important;
+    font-size: 18px !important;
+    position: absolute !important;
+    left: 10px !important;
+}
+
+
+
+
+/* Level 3:  dash — */
+.cm-formatting-list-ol.cm-list-3 {
+    color: transparent !important;
+    position: relative !important;
+}
+
+.cm-formatting-list-ol.cm-list-3::after {
+    content: "-" !important; /* — Em dash */
+    color: #ffff00 !important; /* Teal */
+    font-weight: 300 !important;
+    font-size: 18 !important;
+    position: absolute !important;
+    left: 10px !important;
+    
+}
+
+
+
+
+/* ═══════════ READING MODE ═══════════ */
+
+/* Set up counters by exact nesting depth to avoid level collisions */
+.markdown-rendered ol:not(ol ol) {
+    counter-reset: level1;
+}
+
+.markdown-rendered ol ol:not(ol ol ol) {
+    counter-reset: level2;
+}
+
+.markdown-rendered ol ol ol:not(ol ol ol ol) {
+    counter-reset: level3;
+}
+
+.markdown-rendered ol ol ol ol {
+    counter-reset: level4;
+}
+
+/* Shared list item baseline for all ordered list levels */
+.markdown-rendered ol li {
+    list-style: none !important;
+    position: relative !important;
+    overflow: visible !important;
+}
+
+.markdown-rendered ol li::marker {
+    content: "" !important;
+}
+
+/* Reset inherited pseudo markers before applying depth-specific markers */
+.markdown-rendered ol li::before {
+    content: none !important;
+}
+
+/* Level 1: Numbers */
+.markdown-rendered ol:not(ol ol) > li {
+    counter-increment: level1 !important;
+}
+
+.markdown-rendered ol:not(ol ol) > li::before {
+    content: counter(level1) ". " !important;
+    position: absolute !important;
+    left: var(--ol-level1-left) !important;
+    top: var(--ol-level1-top) !important;
+    color: #ffff00 !important; /* Gold */
+    font-weight: var(--ol-level1-weight) !important;
+    font-size: var(--ol-level1-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* Level 2: Arrow */
+.markdown-rendered ol ol:not(ol ol ol) > li {
+    counter-increment: level2 !important;
+}
+
+.markdown-rendered ol ol:not(ol ol ol) > li::before {
+    content: "\2192 " !important; /* → Arrow */
+    position: absolute !important;
+    color: #ffff00 !important;
+    left: var(--ol-level2-left) !important;
+    top: var(--ol-level2-top) !important;
+    font-weight: var(--ol-level2-weight) !important;
+    font-size: var(--ol-level2-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* Level 3: Dash */
+.markdown-rendered ol ol ol:not(ol ol ol ol) > li {
+    counter-increment: level3 !important;
+}
+
+.markdown-rendered ol ol ol:not(ol ol ol ol) > li::before {
+    content: "\2014 " !important; /* — Em dash */
+    position: absolute !important;
+    color: #ffff00 !important;
+    left: var(--ol-level3-left) !important;
+    top: var(--ol-level3-top) !important;
+    font-weight: var(--ol-level3-weight) !important;
+    font-size: var(--ol-level3-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* Level 4: Plus */
+.markdown-rendered ol ol ol ol > li {
+    counter-increment: level4 !important;
+}
+
+.markdown-rendered ol ol ol ol > li::before {
+    content: "\002B " !important; /* + Plus */
+    position: absolute !important;
+    color: #ffff00 !important;
+    left: var(--ol-level4-left) !important;
+    top: var(--ol-level4-top) !important;
+    font-weight: var(--ol-level4-weight) !important;
+    font-size: var(--ol-level4-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* ═══════════ Live Preview Mode (markdown-preview-view) ═══════════ */
+
+.markdown-preview-view ol li::before {
+    content: none !important;
+}
+
+.markdown-preview-view ol:not(ol ol) > li::before {
+    content: counter(list-item) ". " !important;
+    color: #7a7a00 !important;
+    font-size: var(--ol-level1-size) !important;
+    font-weight: var(--ol-level1-weight) !important;
+}
+
+.markdown-preview-view ol ol:not(ol ol ol) > li::before {
+    content: "\2192 " !important;
+    color: #7a7a00 !important;
+    font-size: var(--ol-level2-size) !important;
+    font-weight: var(--ol-level2-weight) !important;
+}
+
+.markdown-preview-view ol ol ol:not(ol ol ol ol) > li::before {
+    content: "\2014 " !important;
+    color: #7a7a00 !important;
+    font-size: var(--ol-level3-size) !important;
+    font-weight: var(--ol-level3-weight) !important;
+}
+
+.markdown-preview-view ol ol ol ol > li::before {
+    content: "\002B " !important;
+    color: #7a7a00 !important;
+    font-size: var(--ol-level4-size) !important;
+    font-weight: var(--ol-level4-weight) !important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   CUSTOMIZATION GUIDE:
+   
+   To adjust marker appearance, modify the variables in the :root section:
+   
+   SIZE:
+   - Increase --ol-levelX-size for larger markers (e.g., 1.5em, 2em)
+   - Decrease for smaller markers (e.g., 0.8em, 0.9em)
+   
+   POSITION (Horizontal):
+   - More negative --ol-levelX-left moves marker further left (e.g., -2em)
+   - Less negative or positive values move it right (e.g., -1em, 0em)
+   
+   POSITION (Vertical):
+   - Negative --ol-levelX-top moves marker up (e.g., -0.2em)
+   - Positive values move it down (e.g., 0.1em)
+   
+   WEIGHT:
+   - 400 = normal
+   - 600 = semi-bold (default)
+   - 700 = bold
+   
+   SPACING:
+   - Adjust --ol-marker-spacing to control gap between marker and text
+   
+   Example custom configuration:
+   
+   :root {
+       --ol-level1-size: 1.1em;
+       --ol-level2-size: 1.4em;
+       --ol-level3-size: 1.3em;
+       --ol-level2-left: -1.8em;
+       --ol-level3-top: -0.1em;
+   }
+   
+═══════════════════════════════════════════════════════════ */
+/*
+    Custom Snippet: Custom List Markers
+*/
+
+/* Editor mode only */
+.cm-formatting-list-ul .list-bullet {
+    background: transparent !important;
+    border: none !important;
+}
+
+.cm-formatting-list-ul .list-bullet::after {
+    content: "" !important;
+    display: inline-block !important;
+    width: 1.2em !important;
+    background: transparent !important;
+    border: none !important;
+}
+
+/* Level 3 (third indent) - Plus */
+.cm-formatting-list-ul.cm-list-3 > .list-bullet::after {
+    content: "\002B" !important; /* + */
+    color: rgb(83, 83, 0) !important;
+    font-size: 1.30em !important;
+    font-weight: 300 !important;
+    top: -0.27em !important;
+    right: -0.90em !important;
+}
+
+/* Level 2 (second indent) - Dash */
+.cm-formatting-list-ul.cm-list-2 > .list-bullet::after {
+    content: "-" !important;
+    color: rgb(83, 83, 0) !important;
+    font-size: 0.90em !important;
+    font-weight: 300 !important;
+    top: -0.12em !important;
+    right: -0.82em !important;
+}
+
+/* Level 1 (first indent) - Arrow */
+.cm-formatting-list-ul.cm-list-1 > .list-bullet::after {
+    content: "->" !important;
+    color: rgb(83, 83, 0) !important;
+    font-size: 0.90em !important;
+    font-weight: 300 !important;
+    position: relative !important;
+    top: -0.62em !important;
+}
+
+/* Reading/preview mode */
+.markdown-rendered .list-bullet,
+.markdown-preview-view .list-bullet {
+    background: transparent !important;
+    border: none !important;
+}
+
+/* Neutralize theme marker so only custom marker remains */
+.markdown-rendered .list-bullet::after,
+.markdown-preview-view .list-bullet::after {
+    content: "" !important;
+    width: 0 !important;
+    height: 0 !important;
+    background: transparent !important;
+    border: none !important;
+}
+
+/* Custom marker injection for rendered/preview list items */
+.markdown-rendered ul,
+.markdown-preview-view ul {
+    list-style-type: none !important;
+    list-style: none !important;
+}
+
+.markdown-rendered ul li,
+.markdown-preview-view ul li {
+    list-style: none !important;
+    list-style-type: none !important;
+    position: relative !important;
+    overflow: visible !important;
+}
+
+.markdown-rendered ul li::marker,
+.markdown-preview-view ul li::marker {
+    content: "" !important;
+    color: transparent !important;
+    font-size: 0 !important;
+}
+
+.markdown-rendered ul li::before,
+.markdown-preview-view ul li::before {
+    content: none !important;
+    position: absolute !important;
+    left: -1.5em !important;
+}
+
+/* UL level 1 */
+.markdown-rendered ul:not(ul ul) > li::before,
+.markdown-preview-view ul:not(ul ul) > li::before {
+    content: "->" !important;
+    color: rgb(83, 83, 0) !important;
+    font-size: 0.90em !important;
+    font-weight: 300 !important;
+    top: 0.05em !important;
+}
+
+/* UL level 2 */
+.markdown-rendered ul ul:not(ul ul ul) > li::before,
+.markdown-preview-view ul ul:not(ul ul ul) > li::before {
+    content: "-" !important;
+    color: rgb(83, 83, 0) !important;
+    font-size: 0.90em !important;
+    font-weight: 300 !important;
+    top: 0.05em !important;
+}
+
+/* UL level 3 */
+.markdown-rendered ul ul ul:not(ul ul ul ul) > li::before,
+.markdown-preview-view ul ul ul:not(ul ul ul ul) > li::before {
+    content: "+" !important;
+    color: rgb(83, 83, 0) !important;
+    font-size: 1.10em !important;
+    font-weight: 300 !important;
+    top: -0.02em !important;
+}
+
+/* End of Custom List Markers Snippet */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 2: RIBBON & SIDEBAR CUSTOMIZATION
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.1 RIBBON BASE STYLING                                                      │
+   │ Toggle: Customize ribbon appearance                                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Ribbon Base Colors --- */
+.workspace-ribbon {
+  background-color: var(--v4d3r-black-deep) !important;  border-color: var(--v4d3r-border-subtle) !important;}
+
+.workspace-ribbon.mod-left {
+  background-color: var(--v4d3r-black-deep) !important;  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.workspace-ribbon.mod-left::before {
+  background-color: var(--v4d3r-black-deep) !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;}
+/* --- END TOGGLE: Ribbon Base Colors --- */
+
+/* --- BEGIN TOGGLE: Ribbon Icon Styling --- */
+.workspace-ribbon .sidebar-toggle-button,
+.workspace-ribbon .clickable-icon {
+  color: var(--v4d3r-grey-lighter) !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon .sidebar-toggle-button:hover,
+.workspace-ribbon .clickable-icon:hover {
+  color: var(--v4d3r-purple-accent) !important;  background-color: var(--v4d3r-bg-hover) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+
+.workspace-ribbon .clickable-icon.is-active {
+  color: var(--v4d3r-purple-primary) !important;}
+/* --- END TOGGLE: Ribbon Icon Styling --- */
+
+/* --- BEGIN TOGGLE: Colored Ribbon Accent --- */
+
+
+.workspace-ribbon.mod-left::before,
+.workspace-ribbon.mod-left > .sidebar-toggle-button {
+  --titlebar-background: var(--v4d3r-purple-dark) !important;}
+
+.workspace-ribbon.mod-left .clickable-icon {
+  color: rgba(255, 255, 255, 0.8) !important;}
+
+.workspace-ribbon.mod-left .clickable-icon:hover {
+  color: #ffffff !important;  background-color: rgba(56, 53, 51, 0.1) !important;}
+*/
+/* --- END TOGGLE: Colored Ribbon Accent --- */
+
+
+
+.workspace-ribbon.mod-left {
+  transition: all var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon.mod-left::before {
+  transition: all var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon.mod-left.is-collapsed {
+  background-color: transparent !important;  border-right-color: transparent !important;}
+
+.workspace-ribbon.mod-left.is-collapsed::before {
+  border-bottom-color: transparent !important;}
+
+ Fade ribbon icons when collapsed, show on hover */
+.workspace-ribbon.mod-left.is-collapsed > :nth-child(n+2) {
+  opacity: 0 !important;  transition: opacity var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon.mod-left.is-collapsed:hover > :nth-child(n+2) {
+  opacity: 1 !important;}
+
+/* Keep toggle button visible */
+.workspace-ribbon.mod-left.is-collapsed:hover::before {
+  border-bottom-color: var(--v4d3r-border-subtle) !important;}
+/* --- END TOGGLE: Immersive Ribbon (Hide on Collapse) --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.3 SIDEBAR BASE STYLING                                                     │
+   │ Toggle: Customize left and right sidebar appearance                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+   /* --- BEGIN TOGGLE: Sidebar Base Colors --- */
+   .workspace-split.mod-horizontal.mod-left-split,
+   .workspace-split.mod-horizontal.mod-right-split {
+     background-color: var(--v4d3r-black-deep) !important;  border-color: var(--v4d3r-border-subtle) !important;}
+   /* --- END TOGGLE: Sidebar Base Colors --- */
+   
+   /* --- BEGIN TOGGLE: Sidebar Background --- */
+   .mod-left-split,
+   .mod-right-split {
+     background-color: var(--v4d3r-bg-secondary) !important;}
+   
+   .mod-left-split .workspace-tabs,
+   .mod-right-split .workspace-tabs {
+     background-color: var(--v4d3r-bg-secondary) !important;}
+   
+   .workspace-tab-container {
+     background-color: var(--v4d3r-bg-secondary) !important;}
+   /* --- END TOGGLE: Sidebar Background --- */
+
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.4 IMMERSIVE SIDEBAR COLLAPSE                                               │
+   │ Toggle: Sidebar content fades when collapsed                                 │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Immersive Sidebar Collapse --- */
+.workspace-split.mod-horizontal.mod-left-split.is-sidedock-collapsed,
+.workspace-split.mod-horizontal.mod-right-split.is-sidedock-collapsed {
+  background-color: transparent !important;}
+
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs .workspace-tab-header-container,
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs .workspace-tab-container,
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs .workspace-leaf-resize-handle {
+  opacity: 0 !important;  transition: opacity var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs.mod-top .workspace-tab-header-container {
+  opacity: 1 !important;}
+/* --- END TOGGLE: Immersive Sidebar Collapse --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.5 SIDEBAR CONNECTION LINES                                                 │
+   │ Toggle: Visual hierarchy lines in navigation                                 │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Navigation Connection Lines --- */
+/* File explorer and nav folder connection lines */
+.nav-folder-children .nav-folder-children {
+  margin-left: 10px !important;  padding-left: 10px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: border-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.nav-folder-children .nav-folder-children:hover {
+  border-left-color: var(--v4d3r-purple-muted) !important;}
+
+/* Outline pane connection lines */
+.outline .tree-item-children {
+  margin-left: 12px !important;  padding-left: 8px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: border-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.outline .tree-item-children:hover {
+  border-left-color: var(--v4d3r-purple-muted) !important;}
+
+/* Backlinks connection lines */
+.backlink-pane .tree-item-children {
+  margin-left: 12px !important;  padding-left: 8px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+/* --- END TOGGLE: Navigation Connection Lines --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.6 SIDEBAR RESIZE HANDLE ACCENT                                             │
+   │ Toggle: Red accent on resize handle hover                                    │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Sidebar Resize Handle --- */
+.mod-left-split > .workspace-leaf-resize-handle,
+.mod-right-split > .workspace-leaf-resize-handle {
+  background-color: transparent !important;  transition: background-color var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.mod-left-split > .workspace-leaf-resize-handle:hover,
+.mod-right-split > .workspace-leaf-resize-handle:hover {
+  background-color: var(--v4d3r-purple-primary) !important;}
+/* --- END TOGGLE: Sidebar Resize Handle --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.7 COLLAPSIBLE RIBBON WIDTH                                                 │
+   │ Toggle: Make ribbon super thin when collapsed                                │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Thin Collapsed Ribbon --- */
+
+.workspace-ribbon.mod-left.is-collapsed {
+  width: 0px !important;  overflow: hidden !important;}
+
+.workspace-ribbon.mod-left.is-collapsed:hover {
+  width: var(--ribbon-width) !important;  overflow: visible !important;}
+*/
+/* --- END TOGGLE: Thin Collapsed Ribbon --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.8 VERTICAL LABELED NAVIGATION (Left Sidebar)                               │
+   │ Toggle: Show text labels next to sidebar icons                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Vertical Label Navigation --- */
+
+.mod-left-split .mod-top .workspace-tab-header {
+  padding: 0 !important;  margin-bottom: 2px !important;  height: auto !important;}
+
+.mod-left-split .mod-top .workspace-tab-header .workspace-tab-header-inner {
+  gap: var(--v4d3r-spacing-xs) !important;  padding: var(--v4d3r-spacing-xs) var(--v4d3r-spacing-sm) !important;}
+
+.mod-left-split .mod-top .workspace-tab-header-inner-title {
+  display: inline-block !important;  font-weight: 300 !important;  font-size: 0.75em !important;}
+
+.mod-left-split .mod-top .workspace-tab-header-spacer {
+  display: none !important;}
+/* --- END TOGGLE: Vertical Label Navigation --- */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 2 - Ribbon & Sidebar
+   ═══════════════════════════════════════════════════════════════════════════════ */
+   /* ═══════════════════════════════════════════════════════════════════════════════
+   PART 3: TABS & TAB BAR CUSTOMIZATION
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.1 TAB HEADER BASE STYLING                                                  │
+   │ Toggle: Core tab appearance and colors                                       │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Header Base --- */
+.workspace-tab-header-container {
+  background-color: var(--v4d3r-bg-tertiary) !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;  padding: 0 !important;}
+
+.workspace-tab-header {
+  color: var(--v4d3r-text-muted) !important;  background-color: transparent !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-tab-header:hover {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-hover) !important;}
+
+.workspace-tab-header.is-active {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-primary) !important;}
+
+/* Active tab indicator line */
+.workspace-tab-header.is-active::after {
+  content: '' !important;  position: absolute !important;  bottom: 0 !important;  left: 0 !important;  right: 0 !important;  height: 2px !important;  background-color: var(--v4d3r-purple-primary) !important;}
+/* --- END TOGGLE: Tab Header Base --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.2 SQUARE TABS                                                              │
+   │ Toggle: Remove rounded corners from tabs                                     │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Square Tabs --- */
+
+
+.workspace-tab-header-inner {
+  border-radius: 0 !important;}
+
+.workspace-tab-header-container-inner {
+  gap: 0 !important;}
+
+/* Add subtle separator between tabs */
+.workspace-tab-header:not(:last-child) {
+  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+/* --- END TOGGLE: Square Tabs --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.3 COLORED TAB CONTAINER                                                    │
+   │ Toggle: Red accent for tab container background                              │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Colored Tab Container --- */
+/*
+.mod-root .workspace-tab-header-container {
+  background-color: var(--v4d3r-purple-dark) !important;  border-bottom: none !important;}
+
+.mod-root .workspace-tab-header {
+  color: rgba(255, 255, 255, 0.7) !important;}
+
+.mod-root .workspace-tab-header:hover {
+  color: #ffffff !important;  background-color: rgba(255, 255, 255, 0.1) !important;}
+
+.mod-root .workspace-tab-header.is-active {
+  color: #ffffff !important;  background-color: var(--v4d3r-bg-primary) !important;}
+
+.mod-root .workspace-tab-header.is-active::after {
+  background-color: #ffffff !important;}
+*/
+/* --- END TOGGLE: Colored Tab Container --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.4 STACKED TABS STYLING                                                     │
+   │ Toggle: Enhanced stacked/vertical tab appearance                             │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+ /* --- BEGIN TOGGLE: Stacked Tabs Base --- */
+.workspace-tabs.mod-stacked .workspace-tab-header-container {
+  background-color: var(--v4d3r-bg-tertiary) !important;  border-bottom: none !important;  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header {
+  background-color: transparent !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header:hover {
+  background-color: var(--v4d3r-bg-hover) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header.is-active {
+  background-color: var(--v4d3r-bg-primary) !important;}
+
+/* Active indicator for stacked tabs - left border instead of bottom */
+.workspace-tabs.mod-stacked .workspace-tab-header.is-active::before {
+  content: '' !important;  position: absolute !important;  left: 0 !important;  top: 0 !important;  bottom: 0 !important;  width: 3px !important;  background-color: var(--v4d3r-purple-primary) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header.is-active::after {
+  display: none !important;}
+/* --- END TOGGLE: Stacked Tabs Base --- */
+
+/* --- BEGIN TOGGLE: Stacked Tabs Vertical Text --- */
+/*
+.workspace-tabs.mod-stacked .workspace-tab-header .workspace-tab-header-inner-title {
+  writing-mode: vertical-rl !important;  text-orientation: mixed !important;  transform: rotate(180deg) !important;  white-space: nowrap !important;  font-size: 0.85em !important;  letter-spacing: 0.5px !important;}
+*/
+/* --- END TOGGLE: Stacked Tabs Vertical Text --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.5 COMPACT TABS                                                             │
+   │ Toggle: Reduce tab height and padding                                        │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Compact Tabs --- */
+/*
+.workspace-tab-header-container {
+  --tab-container-height: 32px !important;}
+
+.workspace-tab-header {
+  min-height: 28px !important;  padding-top: 2px !important;  padding-bottom: 2px !important;}
+
+.workspace-tab-header-inner {
+  padding: 2px 8px !important;  font-size: 0.9em !important;}
+
+.workspace-tab-header-inner-icon {
+  width: 14px !important;  height: 14px !important;}
+*/
+/* --- END TOGGLE: Compact Tabs --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.6 PINNED TAB STYLING                                                       │
+   │ Toggle: Special appearance for pinned tabs                                   │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Pinned Tab Styling --- */
+.workspace-tab-header.is-pinned {
+  background-color: var(--v4d3r-bg-tertiary) !important;  position: relative !important;}
+
+.workspace-tab-header.is-pinned::before {
+  content: '' !important;  position: absolute !important;  top: 4px !important;  left: 4px !important;  width: 6px !important;  height: 6px !important;  background-color: var(--v4d3r-purple-accent) !important;  border-radius: 50% !important;  opacity: 0.8 !important;}
+
+.workspace-tab-header.is-pinned:hover::before {
+  opacity: 1 !important;  animation: pulse 1.5s ease-in-out infinite !important;}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.2); opacity: 1; }
+}
+/* --- END TOGGLE: Pinned Tab Styling --- */
+
+/* --- BEGIN TOGGLE: Pinned Tab Icon Only --- */
+
+.workspace-tab-header.is-pinned .workspace-tab-header-inner-title {
+  display: none !important;}
+
+.workspace-tab-header.is-pinned {
+  max-width: 40px !important;  min-width: 40px !important;}
+
+.workspace-tab-header.is-pinned .workspace-tab-header-inner {
+  justify-content: center !important;}
+
+/* --- END TOGGLE: Pinned Tab Icon Only --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.7 TAB CLOSE BUTTON STYLING                                                 │
+   │ Toggle: Customize close button appearance                                    │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Close Button --- */
+.workspace-tab-header-inner-close-button {
+  color: var(--v4d3r-text-muted) !important;  opacity: 0.7 !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-tab-header-inner-close-button:hover {
+  color: var(--v4d3r-purple-accent) !important;  opacity: 1 !important;  background-color: var(--v4d3r-bg-hover) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+/* --- END TOGGLE: Tab Close Button --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.8 TAB FADE EFFECT                                                          │
+   │ Toggle: Inactive tabs fade for focus                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Fade Effect --- */
+
+.workspace-tab-header:not(.is-active) {
+  opacity: 0.6 !important;}
+
+.workspace-tab-header:not(.is-active):hover {
+  opacity: 0.9 !important;}
+
+.workspace-tab-header-container:hover .workspace-tab-header:not(.is-active) {
+  opacity: 0.8 !important;}
+*/
+/* --- END TOGGLE: Tab Fade Effect --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.9 NEW TAB BUTTON STYLING                                                   │
+   │ Toggle: Customize the new tab button                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: New Tab Button --- */
+.workspace-tab-header-new-tab {
+  color: var(--v4d3r-text-muted) !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-tab-header-new-tab:hover {
+  color: var(--v4d3r-purple-accent) !important;  background-color: var(--v4d3r-bg-hover) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+/* --- END TOGGLE: New Tab Button --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.10 TAB DIVIDER STYLING                                                     │
+   │ Toggle: Custom dividers between tabs                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Dividers --- */
+
+.workspace-tab-header:not(:last-child) {
+  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+.workspace-tab-header-container-inner::before {
+  content: '' !important;  position: absolute !important;  left: 0 !important;  right: 0 !important;  bottom: 0 !important;  height: 1px !important;  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--v4d3r-purple-muted) 20%,
+    var(--v4d3r-purple-primary) 50%,
+    var(--v4d3r-purple-muted) 80%,
+    transparent 100%
+  ) !important;}
+  /* --- END TOGGLE: Tab Dividers --- */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 3 - Tabs & Tab Bar
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 4: STATUS BAR & TITLEBAR CUSTOMIZATION
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.1 STATUS BAR BASE STYLING                                                  │
+   │ Toggle: Core status bar appearance                                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Status Bar Base --- */
+.status-bar {
+  background-color: var(--v4d3r-bg-tertiary) !important;  border-top: 1px solid var(--v4d3r-border-subtle) !important;  height: 28px !important;  padding: 0 12px !important;  font-size: 12px !important;  color: var(--v4d3r-text-muted) !important;  display: flex !important;  align-items: center !important;  gap: var(--v4d3r-spacing-md) !important;}
+.status-bar-item {
+  color: var(--v4d3r-text-muted) !important;  transition: color var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+.status-bar-item:hover {
+  color: var(--v4d3r-text-primary) !important;}
+/* --- END TOGGLE: Status Bar Base --- */
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.2 FADED STATUS BAR                                                         │
+   │ Toggle: Status bar fades when not hovered over                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+/* --- BEGIN TOGGLE: Status Bar Fade --- */
+
+.status-bar {
+  opacity: 0.6 !important;  transition: opacity var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+.status-bar:hover {
+  opacity: 1 !important;}
+  
+/* --- END TOGGLE: Status Bar Fade --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.3 HIDDEN STATUS BAR                                                        │
+   │ Toggle: Completely hide status bar                                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Hidden Status Bar --- */
+/*
+.status-bar {
+  display: none !important !important;}
+*/
+/* --- END TOGGLE: Hidden Status Bar --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.4 MINIMAL STATUS BAR                                                       │
+   │ Toggle: Thin, minimal status bar                                             │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Minimal Status Bar --- */
+/*
+.status-bar {
+  --status-bar-font-size: 11px !important;  height: 20px !important;  padding: 0 8px !important;  background-color: transparent !important;  border-top: none !important;}
+
+.status-bar-item {
+  padding: 0 4px !important;}
+*/
+/* --- END TOGGLE: Minimal Status Bar --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.5 STATUS BAR ACCENT STYLING                                                │
+   │ Toggle: Red accented status bar                                              │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Status Bar Accent --- */
+
+
+.status-bar {
+  border-top: 2px solid var(--v4d3r-purple-primary) !important;}
+.status-bar-item:hover {
+  color: var(--v4d3r-purple-accent) !important;}
+
+/* --- END TOGGLE: Status Bar Accent --- */
+
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.11 WORD COUNT STYLING                                                      │
+   │ Toggle: Enhanced word count display                                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Word Count Styling --- */
+.status-bar-item.plugin-word-count {
+  color: var(--v4d3r-purple-accent) !important;  font-family: 'JetBrains Mono', 'Fira Code', monospace !important;  font-size: 0.8em !important;}
+
+.status-bar-item.plugin-word-count:hover {
+  color: var(--v4d3r-purple-primary) !important;  font-weight: 200 !important;}
+
+  
+/* --- END TOGGLE: Word Count Styling --- */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 4 - Status Bar & Titlebar
+   ═══════════════════════════════════════════════════════════════════════════════ */
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.7 NOTICE/NOTIFICATION STYLING                                              │
+   │ Toggle: Enhanced notification appearance                                     │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Notice Styling --- */
+.notice {
+  background-color: var(--v4d3r-bg-secondary) !important;  color: var(--v4d3r-text-primary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-left: 4px solid var(--v4d3r-purple-primary) !important;  border-radius: var(--v4d3r-radius-md) !important;  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3) !important;}
+
+.notice-container {
+  padding: 12px 16px !important;}
+
+/* Success notice */
+.notice.mod-success {
+  border-left-color: #78726f !important;}
+
+/* Warning notice */
+.notice.mod-warning {
+  border-left-color: #746f6b !important;}
+
+/* Error notice */
+.notice.mod-error {
+  border-left-color: var(--v4d3r-purple-primary) !important;  background-color: var(--v4d3r-purple-muted) !important;}
+
+/* --- END TOGGLE: Notice Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.8 BUTTON STYLING                                                           │
+   │ Toggle: Enhanced button appearance                                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Button Styling --- */
+button {
+  background-color: var(--v4d3r-bg-tertiary) !important;  color: var(--v4d3r-text-secondary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-md) !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+button:hover {
+  background-color: var(--v4d3r-bg-hover) !important;  color: var(--v4d3r-text-primary) !important;  border-color: var(--v4d3r-grey-base) !important;}
+
+button.mod-warning {
+  background-color: transparent !important;  color: var(--v4d3r-purple-primary) !important;  border-color: var(--v4d3r-purple-primary) !important;}
+
+button.mod-warning:hover {
+  background-color: var(--v4d3r-purple-muted) !important;}
+/* --- END TOGGLE: Button Styling --- */
+
