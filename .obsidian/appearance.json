@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Purple",
+  "cssTheme": "V4D3R Crimson",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -31,7 +31,8 @@
     "_dataview",
     "code-block-language-custom",
     "callout-base",
-    "___v4d3r-ui-system (1)"
+    "___v4d3r-ui-system",
+    "pur3v4d3r-ultimate-callout-system"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
@@ -40,7 +41,7 @@
   "showRibbon": false,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "theme": "obsidian",
   "accentColor": "#ff0000"
 }
