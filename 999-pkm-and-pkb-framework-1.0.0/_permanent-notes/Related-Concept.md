@@ -5,6 +5,7 @@
 title: "Related Concept"
 aliases:
   - "Related Concept"
+  - "related-concept"
 type: permanent-note
 status: seedling
 confidence: low

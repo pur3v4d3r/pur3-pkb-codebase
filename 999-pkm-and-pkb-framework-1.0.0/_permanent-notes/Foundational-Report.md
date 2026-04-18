@@ -5,6 +5,7 @@
 title: "Foundational-Report"
 aliases:
   - "Foundational-Report"
+  - "Foundational Report"
 type: permanent-note
 status: seedling
 confidence: low
