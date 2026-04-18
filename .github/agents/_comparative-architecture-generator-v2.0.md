@@ -164,6 +164,7 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 | `[!warning]` | 2-4 | Common selection mistakes |
 | `[!section-summary]` | = dim count | End-of-dimension summaries |
 | `[!reflection]` | = dim count | Decision-oriented questions |
+| `[!situation-model]` | = section count | Running situation model — metacognitive scaffolding |
 
 ---
 
@@ -254,6 +255,31 @@ For EACH alternative, provide:
 
 - `[!section-summary]` — "On [dimension], choose [X] when [conditions], [Y] when [other conditions]"
 - `[!reflection]` — "How important is [dimension] for YOUR specific situation? What constraints determine the weight you should give it?"
+- `[!situation-model]` — **Running Situation Model** (metacognitive scaffolding):
+  - **Purpose:** Build a cumulative mental model of the report that grows with each section. This trains the reader to develop their own situation models — eventually making this scaffold unnecessary.
+  - **Must include and continuously update:**
+    - **Key Entities & Actors:** Who/what are the central agents, systems, or concepts introduced so far?
+    - **Causal Relationships:** What causes what? What mechanisms drive outcomes?
+    - **Temporal/Logical Sequence:** What comes before what? What depends on what?
+    - **Spatial/Structural Layout:** How are the parts organized? What's the architecture?
+    - **Goals & Motivations:** What are the purposes, intentions, or design goals at play?
+    - **Tensions & Unresolved Questions:** What conflicts or open questions remain?
+    - **Connections Across Sections:** How does this section's content relate to previous sections? What patterns are emerging?
+  - **Format:**
+    ```markdown
+    > [!situation-model] **Situation Model — Updated Through Section [N]**
+    > **Key Entities:** [Updated list of central concepts/actors and their roles]
+    > **Causal Map:** [How entities influence each other — updated with this section's contributions]
+    > **Structural Overview:** [How the pieces fit together so far]
+    > **Evolution This Section:** [What changed, was added, or was reframed by this section]
+    > **Emerging Patterns:** [Cross-section patterns becoming visible]
+    > **Open Threads:** [Unresolved questions, tensions, or gaps that future sections may address]
+    ```
+  - **Critical rules:**
+    - Each section's situation model must BUILD ON the previous one — never start from scratch
+    - Explicitly note what THIS section added or changed in the model
+    - Flag when new information contradicts or reframes earlier understanding
+    - The model should grow in richness and interconnection as the report progresses
 
 ---
 
@@ -533,6 +559,31 @@ For EACH alternative (~150-300 words each):
 #### 6. Dimension Scaffolding
 - `[!section-summary]` — conditional verdict: "Choose X when... Choose Y when..."
 - `[!reflection]` — "How important is [dimension] for YOUR specific use case?"
+- `[!situation-model]` — **Running Situation Model** (metacognitive scaffolding):
+  - **Purpose:** Build a cumulative mental model of the report that grows with each section. This trains the reader to develop their own situation models — eventually making this scaffold unnecessary.
+  - **Must include and continuously update:**
+    - **Key Entities & Actors:** Who/what are the central agents, systems, or concepts introduced so far?
+    - **Causal Relationships:** What causes what? What mechanisms drive outcomes?
+    - **Temporal/Logical Sequence:** What comes before what? What depends on what?
+    - **Spatial/Structural Layout:** How are the parts organized? What's the architecture?
+    - **Goals & Motivations:** What are the purposes, intentions, or design goals at play?
+    - **Tensions & Unresolved Questions:** What conflicts or open questions remain?
+    - **Connections Across Sections:** How does this section's content relate to previous sections? What patterns are emerging?
+  - **Format:**
+    ```markdown
+    > [!situation-model] **Situation Model — Updated Through Section [N]**
+    > **Key Entities:** [Updated list of central concepts/actors and their roles]
+    > **Causal Map:** [How entities influence each other — updated with this section's contributions]
+    > **Structural Overview:** [How the pieces fit together so far]
+    > **Evolution This Section:** [What changed, was added, or was reframed by this section]
+    > **Emerging Patterns:** [Cross-section patterns becoming visible]
+    > **Open Threads:** [Unresolved questions, tensions, or gaps that future sections may address]
+    ```
+  - **Critical rules:**
+    - Each section's situation model must BUILD ON the previous one — never start from scratch
+    - Explicitly note what THIS section added or changed in the model
+    - Flag when new information contradicts or reframes earlier understanding
+    - The model should grow in richness and interconnection as the report progresses
 
 #### Per-Dimension Check
 ```
@@ -544,7 +595,7 @@ DIMENSION [N] CHECK:
 - Verdict: ☐ (conditional, not absolute)
 - Trade-off: ☐
 - Word count: [count] / target: [target]
-- Summary: ☐  Reflective Qs: ☐
+- Summary: ☐  Reflective Qs: ☐  Situation Model: ☐
 - VERDICT: [PASS / FAIL]
 ```
 
@@ -886,6 +937,7 @@ FILE INTEGRITY
 | `[!warning]` | Common selection mistakes | Informational |
 | `[!section-summary]` | Conditional verdicts | Informational |
 | `[!reflection]` | Decision-oriented questions | Informational |
+| `[!situation-model]` | Running situation model — metacognitive scaffolding | Informational |
 
 ### Appendix Callouts
 Identical to Suite v2.0 standard.

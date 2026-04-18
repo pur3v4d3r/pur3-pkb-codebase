@@ -154,6 +154,7 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 | **Original synthesis callouts** | ≥2 |
 | **Section summaries** | 1 per main section |
 | **Reflective question sets** | 1 per main section |
+| **Situation models** | 1 per main section |
 | **Lexicon terms** | ≥8 |
 | **References** | ≥8 |
 | **Flashcard seeds** | ≥8 |
@@ -181,6 +182,7 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 | `[!warning]` | 2-3 | Reasoning pitfalls (false foundations, premature reconstruction) |
 | `[!section-summary]` | per section | Phase takeaways |
 | `[!reflection]` | per section | Foundational questions |
+| `[!situation-model]` | = section count | Running situation model — metacognitive scaffolding |
 
 ---
 
@@ -760,6 +762,31 @@ divergence_types:
   - "Which of these foundations surprised you? Did you expect it to be foundational?"
   - "Can you think of an additional foundation that was missed?"
   - "What would change in your understanding if Foundation X failed verification?"
+- `[!situation-model]` — **Running Situation Model** (metacognitive scaffolding):
+  - **Purpose:** Build a cumulative mental model of the report that grows with each section. This trains the reader to develop their own situation models — eventually making this scaffold unnecessary.
+  - **Must include and continuously update:**
+    - **Key Entities & Actors:** Who/what are the central agents, systems, or concepts introduced so far?
+    - **Causal Relationships:** What causes what? What mechanisms drive outcomes?
+    - **Temporal/Logical Sequence:** What comes before what? What depends on what?
+    - **Spatial/Structural Layout:** How are the parts organized? What's the architecture?
+    - **Goals & Motivations:** What are the purposes, intentions, or design goals at play?
+    - **Tensions & Unresolved Questions:** What conflicts or open questions remain?
+    - **Connections Across Sections:** How does this section's content relate to previous sections? What patterns are emerging?
+  - **Format:**
+    ```markdown
+    > [!situation-model] **Situation Model — Updated Through Section [N]**
+    > **Key Entities:** [Updated list of central concepts/actors and their roles]
+    > **Causal Map:** [How entities influence each other — updated with this section's contributions]
+    > **Structural Overview:** [How the pieces fit together so far]
+    > **Evolution This Section:** [What changed, was added, or was reframed by this section]
+    > **Emerging Patterns:** [Cross-section patterns becoming visible]
+    > **Open Threads:** [Unresolved questions, tensions, or gaps that future sections may address]
+    ```
+  - **Critical rules:**
+    - Each section's situation model must BUILD ON the previous one — never start from scratch
+    - Explicitly note what THIS section added or changed in the model
+    - Flag when new information contradicts or reframes earlier understanding
+    - The model should grow in richness and interconnection as the report progresses
 
 **WRITE STEPS:**
 ```
@@ -1046,6 +1073,7 @@ FILE INTEGRITY
 | `[!warning]` | Reasoning pitfalls | Informational |
 | `[!section-summary]` | Phase takeaways | Informational |
 | `[!reflection]` | Foundational questions | Informational |
+| `[!situation-model]` | Running situation model — metacognitive scaffolding | Informational |
 
 ### Appendix Callouts
 Identical to Suite v2.0 standard.

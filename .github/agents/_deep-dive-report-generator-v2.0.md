@@ -191,6 +191,7 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 | `[!warning]` | 3-5 | Specialist-level pitfalls |
 | `[!section-summary]` | per level | Level takeaways |
 | `[!reflection]` | per level | Specialist questions |
+| `[!situation-model]` | = section count | Running situation model — metacognitive scaffolding |
 
 ---
 
@@ -333,6 +334,32 @@ The bulk of each level. Technical, dense, specialist-appropriate. Use:
   - "Now that you can see [level N detail], how does this change your understanding of [level N-1 mechanism]?"
   - "Can you think of a context where this technical detail matters in practice?"
   - "What experimental evidence would distinguish between these two interpretations?"
+
+- `[!situation-model]` — **Running Situation Model** (metacognitive scaffolding):
+  - **Purpose:** Build a cumulative mental model of the report that grows with each section. This trains the reader to develop their own situation models — eventually making this scaffold unnecessary.
+  - **Must include and continuously update:**
+    - **Key Entities & Actors:** Who/what are the central agents, systems, or concepts introduced so far?
+    - **Causal Relationships:** What causes what? What mechanisms drive outcomes?
+    - **Temporal/Logical Sequence:** What comes before what? What depends on what?
+    - **Spatial/Structural Layout:** How are the parts organized? What's the architecture?
+    - **Goals & Motivations:** What are the purposes, intentions, or design goals at play?
+    - **Tensions & Unresolved Questions:** What conflicts or open questions remain?
+    - **Connections Across Sections:** How does this section's content relate to previous sections? What patterns are emerging?
+  - **Format:**
+    ```markdown
+    > [!situation-model] **Situation Model — Updated Through Section [N]**
+    > **Key Entities:** [Updated list of central concepts/actors and their roles]
+    > **Causal Map:** [How entities influence each other — updated with this section's contributions]
+    > **Structural Overview:** [How the pieces fit together so far]
+    > **Evolution This Section:** [What changed, was added, or was reframed by this section]
+    > **Emerging Patterns:** [Cross-section patterns becoming visible]
+    > **Open Threads:** [Unresolved questions, tensions, or gaps that future sections may address]
+    ```
+  - **Critical rules:**
+    - Each section's situation model must BUILD ON the previous one — never start from scratch
+    - Explicitly note what THIS section added or changed in the model
+    - Flag when new information contradicts or reframes earlier understanding
+    - The model should grow in richness and interconnection as the report progresses
 
 ---
 
@@ -679,7 +706,7 @@ LEVEL [N] CHECK:
 - Specialist content density: [Pass/Fail — would a specialist learn from this?]
 - Technical details: [count] (target: ≥1 per level)
 - Nuances: [count]
-- Section summary: ☐  Reflection: ☐
+- Section summary: ☐  Reflection: ☐  Situation Model: ☐
 - VERDICT: [PASS / FAIL]
 ```
 
@@ -971,6 +998,7 @@ FILE INTEGRITY
 | `[!warning]` | Specialist-level pitfalls | Informational |
 | `[!section-summary]` | Level takeaways | Informational |
 | `[!reflection]` | Specialist questions | Informational |
+| `[!situation-model]` | Running situation model — metacognitive scaffolding | Informational |
 
 ### Appendix Callouts
 Identical to Suite v2.0 standard.
