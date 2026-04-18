@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "2025-W49"
+title: "Instrumental-Convergence"
 aliases:
-  - "2025-W49"
+  - "Instrumental-Convergence"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,8 +23,8 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-01
+created: 2026-04-18
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,14 +37,14 @@ referenced-by-count: 8
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Analogical-Representation]]"
-  - "[[Assumption-5-RuleModel-Dichotomy]]"
-  - "[[Attribution-Theory]]"
-  - "[[Axiom-1-Systematicity-of-Reasoning-Errors]]"
-  - "[[Model-Completeness-Hypothesis]]"
-  - "[[Pragmatic-Construction]]"
-  - "[[Pragmatic-Reasoning-Schemas]]"
-  - "[[Relational-Emergent-Autonomy]]"
+  - "[[Autonomy-Support]]"
+  - "[[Effectance-Motivation]]"
+  - "[[Functional-Significance]]"
+  - "[[Intrinsic-Motivation]]"
+  - "[[Overjustification-Effect]]"
+  - "[[Perceived-Competence]]"
+  - "[[Perceived-Locus-of-Causality]]"
+  - "[[Reward-Contingency-Types]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -54,20 +54,20 @@ mastery-stage: seedling
 importance: low
 ---
 
-# 2025-W49
+# Instrumental-Convergence
 
-> [!definition] **2025-W49**
+> [!definition] **Instrumental-Convergence**
 > *Stub note — concept referenced by 8 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
 *Auto-generated stub — referenced by 8 permanent notes.*
 
 ## Referenced By
 
-- [[Analogical-Representation]]
-- [[Assumption-5-RuleModel-Dichotomy]]
-- [[Attribution-Theory]]
-- [[Axiom-1-Systematicity-of-Reasoning-Errors]]
-- [[Model-Completeness-Hypothesis]]
-- [[Pragmatic-Construction]]
-- [[Pragmatic-Reasoning-Schemas]]
-- [[Relational-Emergent-Autonomy]]
+- [[Autonomy-Support]]
+- [[Effectance-Motivation]]
+- [[Functional-Significance]]
+- [[Intrinsic-Motivation]]
+- [[Overjustification-Effect]]
+- [[Perceived-Competence]]
+- [[Perceived-Locus-of-Causality]]
+- [[Reward-Contingency-Types]]

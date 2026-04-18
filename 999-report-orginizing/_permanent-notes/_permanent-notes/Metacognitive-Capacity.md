@@ -5,7 +5,6 @@
 title: "Metacognitive Capacity"
 aliases:
   - "Metacognitive Capacity"
-  - "metacognitive-capacity"
 type: permanent-note
 status: evergreen
 confidence: medium
@@ -35,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-18
+updated: 2026-04-01
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,18 +75,20 @@ see-also:
   - "[[Personal-Development|Personal Development]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Metacognition]]"
+  - "[[Cognitive-Biases|cognitive biases]]"
   - "[[Cognitive-Debt|cognitive debt]]"
   - "[[technical-debt|technical debt]]"
   - "[[human-cognition|human cognition]]"
   - "[[heuristics]]"
+  - "[[Cognitive-Biases|cognitive biases]]"
   - "[[system-justification-theory|system-justification theory]]"
   - "[[Confirmation-Bias|confirmation bias]]"
   - "[[Anchoring-Effects|anchoring effects]]"
+  - "[[Confirmation-Bias|confirmation bias]]"
   - "[[debiasing]]"
   - "[[cognitive-neuroscience|cognitive neuroscience]]"
   - "[[Availability-Heuristic|availability heuristic]]"
   - "[[Compound-Interest|compound interest]]"
-  - "[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -172,14 +173,6 @@ importance: medium
 
 **Related concepts:**
 [[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[Cognitive-Biases|cognitive biases]] · [[Cognitive-Debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[Cognitive-Biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[Confirmation-Bias|confirmation bias]] · [[Anchoring-Effects|anchoring effects]] · [[Confirmation-Bias|confirmation bias]] · [[debiasing]] · [[cognitive-neuroscience|cognitive neuroscience]] · [[Availability-Heuristic|availability heuristic]] · [[Compound-Interest|compound interest]] · [[Confirmation-Bias|confirmation bias]] · [[Metacognitive-Capacity|metacognitive capacity]] · [[Compound-Interest|Compound Interest]] · [[Neural-Plasticity|Neural Plasticity]] · [[Adolescence]] · [[prefrontal-cortex|prefrontal cortex]] · [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] · [[interpretation-bias|interpretation bias]] · [[memory-bias|memory bias]] · [[negative-interpretation-bias|negative interpretation bias]]
-
-**Related concepts** *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*:
-[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[Confirmation-Bias|confirmation bias]] * [[Anchoring-Effects|anchoring effects]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[Compound-Interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] * [[negative-interpretation-bias|negative interpretation bias]] * [[groupthink|groupthink]] * [[optimism-bias|optimism bias]] * [[Sunk-cost-fallacy|sunk cost fallacy]] * [[belief-schema|belief schema]] * [[Identity-Formation|Identity Formation]] * [[selective-exposure|selective exposure]] * [[metacognitive-awareness|metacognitive awareness]] * [[Overconfidence-Bias|overconfidence bias]] * [[opportunity-costs|opportunity costs]] * [[Loss-aversion|Loss aversion]] * [[Status-quo-bias|status quo bias]] * [[System-2|system 2]] * [[Cognitive-Restructuring|cognitive restructuring]]
-
-**Related concepts** *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*:
-[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[Confirmation-Bias|confirmation bias]] * [[Anchoring-Effects|anchoring effects]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[Compound-Interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] * [[negative-interpretation-bias|negative interpretation bias]] * [[optimism-bias|optimism bias]] * [[Sunk-cost-fallacy|sunk cost fallacy]] * [[belief-schema|belief schema]] * [[Identity-Formation|Identity Formation]] * [[selective-exposure|selective exposure]] * [[metacognitive-awareness|metacognitive awareness]] * [[Overconfidence-Bias|overconfidence bias]] * [[opportunity-costs|opportunity costs]] * [[Loss-aversion|Loss aversion]] * [[Status-quo-bias|status quo bias]] * [[System-2|system 2]] * [[Cognitive-Restructuring|cognitive restructuring]] * [[Growth-Mindset|growth mindset]]
-
-
 
 ## References
 

@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "2025-Q4"
+title: "walking-and-academic-reading-foundational-report-2026-04-13"
 aliases:
-  - "2025-Q4"
+  - "walking-and-academic-reading-foundational-report-2026-04-13"
 type: permanent-note
 status: seedling
 confidence: low
@@ -23,53 +23,59 @@ domain: other
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-01
+created: 2026-04-18
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 9
+referenced-by-count: 14
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Analogical-Representation]]"
-  - "[[Assumption-5-RuleModel-Dichotomy]]"
-  - "[[Axiom-1-Systematicity-of-Reasoning-Errors]]"
-  - "[[Model-Completeness-Hypothesis]]"
-  - "[[Pragmatic-Construction]]"
-  - "[[Pragmatic-Reasoning-Schemas]]"
-  - "[[Relational-Emergent-Autonomy]]"
-  - "[[Standard-Template-Metadata]]"
-  - "[[permanent-notes-index|_permanent-notes-index]]"
+  - "[[Automaticity]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Dual-Task-Interference]]"
+  - "[[Element-Interactivity]]"
+  - "[[Embodied-Cognition]]"
+  - "[[Generation-Effect]]"
+  - "[[Intrinsic-Cognitive-Load]]"
+  - "[[Original-Synthesis-Reframing-as-Opportunity-Cost]]"
+  - "[[Original-Synthesis-Temporal-Separation-as-the-Optimal-Strategy]]"
+  - "[[Temporal-Separation-Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-importance: low
+importance: medium
 ---
 
-# 2025-Q4
+# walking-and-academic-reading-foundational-report-2026-04-13
 
-> [!definition] **2025-Q4**
-> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] **walking-and-academic-reading-foundational-report-2026-04-13**
+> *Stub note — concept referenced by 14 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 9 permanent notes.*
+*Auto-generated stub — referenced by 14 permanent notes.*
 
 ## Referenced By
 
-- [[Analogical-Representation]]
-- [[Assumption-5-RuleModel-Dichotomy]]
-- [[Axiom-1-Systematicity-of-Reasoning-Errors]]
-- [[Model-Completeness-Hypothesis]]
-- [[Pragmatic-Construction]]
-- [[Pragmatic-Reasoning-Schemas]]
-- [[Relational-Emergent-Autonomy]]
-- [[Standard-Template-Metadata]]
-- [[permanent-notes-index|_permanent-notes-index]]
+- [[Automaticity]]
+- [[Cognitive-Load-Theory]]
+- [[Dual-Task-Interference]]
+- [[Element-Interactivity]]
+- [[Embodied-Cognition]]
+- [[Generation-Effect]]
+- [[Intrinsic-Cognitive-Load]]
+- [[Original-Synthesis-Reframing-as-Opportunity-Cost]]
+- [[Original-Synthesis-Temporal-Separation-as-the-Optimal-Strategy]]
+- [[Temporal-Separation-Model]]
+- [[Working-Memory]]
+- [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
+- [[_Master-Reference-Index|_Master-Reference-Index]]
