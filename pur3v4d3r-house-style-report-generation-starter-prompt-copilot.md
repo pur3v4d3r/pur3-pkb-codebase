@@ -89,7 +89,7 @@ appendix architecture). Style operates at the prose level, not the structural le
 </style-directive>
 `````
 
-
+Emoji for Completion: ✅
 
 # Topic Ideas
 
@@ -100,4 +100,31 @@ appendix architecture). Style operates at the prose level, not the structural le
 - The impact of schemas on learning and memory
 - Cognitive Load Theory and schemas
 - Cognitive Load Theory and instructional design
-- Four Component Instructional Design Model [4C/ID]
+- Cognitive Load Theory, Four Component Instructional Design Model [4C/ID], and PKB Architecture
+- PKB Architecture and Cognitive Science
+- Self Explanation Effect
+- ACT-R Theory
+- ACT-R Theory and PKB Architecture
+- PKB Architecture and the Self Explanation Effect
+- Long Term Memory
+- Working Memory
+- Semantic Memory
+- Episodic Memory
+- Procedural Memory
+- Declarative Memory
+- Spreading Activation Theory
+- Connectionism and Spreading Activation Theory
+- Spreading Activation Theory and PKB Architecture
+- PKB / PKM Planning
+- PKB / PKM Planning and Cognitive Science✅
+- PKB / PKM Planning -> SRL -> Metacognition -> SDT
+- Implementation Intentions and PKB Architecture
+- Implementation Intentions
+- PKB Metacognitive Scaffolding for Study & Planning✅
+- Cognitive Strategies for Learning
+- Cognitive Strategies for Learning and PKB Architecture✅
+- Schema Construction and PKB Architecture
+- Schema Automation and PKB Architecture
+- Schema Construction, Schema Automation, and PKB Architecture
+- PKB Architecture and the Schema Theory of Learning
+- Expertise Development and PKB Architecture
