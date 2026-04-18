@@ -233,7 +233,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Antifragility]]
+- [[antifragility]]
 - [[Biomimicry in Engineering]]
 - [[Cognitive-Friction|Cognitive Friction]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -289,7 +289,7 @@ extraction_summary:
 | 20 | [[Desirable Difficulty]] | — | — | 4\. Mechanisms of Action: Engineering... | 93 |
 | 21 | [[Coupling]] | — | — | 4\. Mechanisms of Action: Engineering... | 95 |
 | 22 | [[Iterative Design]] | — | — | 5\. Analysis: Rigid vs. Adaptive Systems | 105 |
-| 23 | [[Antifragility]] | — | — | 5\. Analysis: Rigid vs. Adaptive Systems | 107 |
+| 23 | [[antifragility]] | — | — | 5\. Analysis: Rigid vs. Adaptive Systems | 107 |
 | 24 | [[Nassim Nicholas Taleb]] | — | — | 5\. Analysis: Rigid vs. Adaptive Systems | 107 |
 | 25 | [[Exocortex]] | — | — | 6\. Discussion: The Exocortex and Hom... | 114 |
 | 26 | [[Homeostasis]] | — | — | 6\. Discussion: The Exocortex and Hom... | 116 |
@@ -415,7 +415,7 @@ $$
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Antifragility]]
+- [[antifragility]]
 - [[Biomimicry in Engineering]]
 - [[Cognitive-Friction|Cognitive Friction]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]

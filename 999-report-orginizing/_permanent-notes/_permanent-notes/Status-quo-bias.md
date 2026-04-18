@@ -5,6 +5,7 @@
 title: "Status quo bias"
 aliases:
   - "Status quo bias"
+  - "status-quo-bias"
 type: permanent-note
 status: seedling
 confidence: low
@@ -39,7 +40,7 @@ referenced-by-count: 3
 see-also:
   - "[[Cognitive-Debt]]"
   - "[[Metacognitive-Capacity]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,4 +61,4 @@ importance: low
 
 - [[Cognitive-Debt]]
 - [[Metacognitive-Capacity]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

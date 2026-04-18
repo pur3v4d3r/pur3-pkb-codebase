@@ -682,7 +682,7 @@ extraction_summary:
 
 - [[SRL Interventions in Higher Education]]
 - [[Self-Efficacy and Academic Achievement]]
-- [[Metacognitive Monitoring Accuracy]]
+- [[Metacognitive-Monitoring-Accuracy|Metacognitive Monitoring Accuracy]]
 
 #### See Also
 

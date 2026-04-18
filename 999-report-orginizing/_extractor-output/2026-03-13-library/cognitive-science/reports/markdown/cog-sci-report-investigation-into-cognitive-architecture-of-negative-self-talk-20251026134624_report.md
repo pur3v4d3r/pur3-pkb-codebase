@@ -144,7 +144,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This article provides a comprehensive investigation into the psychological and neuroscientific foundations of negative self-talk, examining its origins in cognitive theory, its reinforcement through neural mechanisms, and the efficacy of evidence-based interventions for its remediation. We explore the architecture of [[Automatic Thoughts|automatic thoughts]] as conceptualized by Aaron Beck's [[Cognitive Theory]], investigating how these rapid-fire, often unconscious cognitions become embedded through repeated neural activation patterns. The central thesis posits that negative self-talk is not merely a symptom of psychological distress but a learned cognitive pattern maintained through specific brain network activity—particularly within the [[Default Mode Network]]—and can therefore be systematically deconstructed and restructured through targeted cognitive-behavioral interventions and self-compassion practices.
 > 
-> We detail the mechanisms by which [[Cognitive Distortions]] emerge from early developmental experiences and become reinforced through [[Neuroplastic]] changes, creating self-perpetuating cycles of negative thought. The article examines the empirical evidence supporting [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] (CBT) techniques, particularly [[Cognitive Restructuring]], as well as emerging self-compassion-based interventions pioneered by Kristin Neff. Finally, we explore the broader implications of this understanding for mental health treatment, emphasizing that the brain's inherent plasticity provides grounds for optimism—what has been learned can, with proper intervention and sustained effort, be unlearned and replaced with more adaptive cognitive patterns.
+> We detail the mechanisms by which [[Cognitive Distortions]] emerge from early developmental experiences and become reinforced through [[Neuroplastic]] changes, creating self-perpetuating cycles of negative thought. The article examines the empirical evidence supporting [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] (CBT) techniques, particularly [[Cognitive-Restructuring|Cognitive Restructuring]], as well as emerging self-compassion-based interventions pioneered by Kristin Neff. Finally, we explore the broader implications of this understanding for mental health treatment, emphasizing that the brain's inherent plasticity provides grounds for optimism—what has been learned can, with proper intervention and sustained effort, be unlearned and replaced with more adaptive cognitive patterns.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 46)*
 
@@ -167,7 +167,7 @@ extraction_summary:
 > - *How did the* **historical development** *of this idea* **shape** *our current understanding?*
 >     - Beck's cognitive model represented a paradigm shift in clinical psychology. Prior to this work, the dominant explanatory frameworks for depression were either psychoanalytic (emphasizing unconscious conflicts and early childhood experiences) or biological (emphasizing neurotransmitter imbalances). Beck's model offered a third way: it acknowledged the psychological nature of depression while providing a specific, testable mechanism—biased information processing—that could be targeted through structured therapeutic interventions. This cognitive revolution had profound implications. It suggested that psychological suffering was not necessarily the result of deep-seated unconscious conflicts requiring years of analysis to uncover, nor was it purely a brain chemistry problem requiring lifelong medication. Instead, it proposed that much psychological distress resulted from learned patterns of thinking that could, in principle, be unlearned and replaced with more adaptive patterns. This was tremendously empowering for both clinicians and patients, as it placed the locus of change within reach of conscious, systematic effort.
 > - *Are there any* **abandoned theories** *that are as interesting as the current one?*
->     - One fascinating alternative theory that has received less attention in recent decades is Martin Seligman's [[Learned-Helplessness|learned helplessness]] model of depression, developed in the 1970s. Seligman's theory, based on experiments with dogs exposed to inescapable shock, proposed that depression resulted from learning that one's actions have no effect on outcomes—a profound sense of lack of control. While this model generated tremendous research interest and led to the development of the [[explanatory style]] concept (the characteristic way individuals explain negative events to themselves), it was eventually integrated with Beck's cognitive model rather than displacing it. The synthesis of these approaches—recognizing both cognitive distortions and attributional style as important factors—reflects the field's movement toward integrative, multi-factor models of psychopathology.
+>     - One fascinating alternative theory that has received less attention in recent decades is Martin Seligman's [[Learned-Helplessness|learned helplessness]] model of depression, developed in the 1970s. Seligman's theory, based on experiments with dogs exposed to inescapable shock, proposed that depression resulted from learning that one's actions have no effect on outcomes—a profound sense of lack of control. While this model generated tremendous research interest and led to the development of the [[Explanatory-Style|explanatory style]] concept (the characteristic way individuals explain negative events to themselves), it was eventually integrated with Beck's cognitive model rather than displacing it. The synthesis of these approaches—recognizing both cognitive distortions and attributional style as important factors—reflects the field's movement toward integrative, multi-factor models of psychopathology.
 
 #### 7. [QUOTE] Untitled *(Line 102)*
 
@@ -346,7 +346,7 @@ extraction_summary:
 > [!links-to-related-notes] Untitled
 > - Identify **three key terms** or **concepts** from this article.
 > - *Write your* **own definition** *for each and create a new note to link them back to this one*.
-> 1. [[Cognitive Restructuring]]
+> 1. [[Cognitive-Restructuring|Cognitive Restructuring]]
 >     - Cognitive restructuring is a systematic therapeutic process involving the identification, evaluation, and modification of automatic thoughts and core beliefs that contribute to psychological distress. It operates through helping individuals recognize the interpretive nature of their thoughts, examine evidence for and against specific interpretations, consider alternative viewpoints, and develop more balanced, evidence-based ways of processing information. The goal is not to replace negative thoughts with unrealistically positive ones, but to cultivate cognitive flexibility—the ability to consider multiple perspectives and choose interpretations that best reflect reality and support wellbeing.
 > 1. [[Neuroplasticity]]
 >     - Neuroplasticity refers to the brain's capacity for structural and functional change in response to experience, including the formation and elimination of synaptic connections, modification of synaptic strengths, and reorganization of brain networks. This capacity is highest during childhood but persists throughout life, meaning that learned patterns of thinking and behaving can be modified even in adulthood through sustained practice. The principle of neuroplasticity is fundamentally hopeful: it means that dysfunctional patterns—whether cognitive, emotional, or behavioral—are not permanently fixed but can be altered through deliberate intervention and practice.
@@ -423,7 +423,7 @@ extraction_summary:
 - [[Cognition Checklist]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Theory]]
 - [[Cognitive Triad]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
@@ -435,7 +435,7 @@ extraction_summary:
 - [[Lifespan Development Theory]]
 - [[Major Depressive Disorder]]
 - [[Metacognition]]
-- [[Metacognitive Therapy]]
+- [[Metacognitive-Therapy|Metacognitive Therapy]]
 - [[Mindfulness Meditation]]
 - [[Neuroplastic]]
 - [[Neuroplasticity]]
@@ -452,11 +452,11 @@ extraction_summary:
 - [[brain-derived neurotrophic factor]]
 - [[caregiving system]]
 - [[cognitive mediation]]
-- [[cognitive restructuring]]
+- [[Cognitive-Restructuring|cognitive restructuring]]
 - [[cognitive schemas]]
 - [[core beliefs]]
 - [[decentering]]
-- [[explanatory style]]
+- [[Explanatory-Style|explanatory style]]
 - [[functional connectivity]]
 - [[functional magnetic resonance imaging]]
 - [[inferior parietal lobule]]
@@ -490,17 +490,17 @@ extraction_summary:
 | 9 | [[Cognitive Distortions]] | — | — | Document Start | 40 |
 | 10 | [[Neuroplastic]] | — | — | Document Start | 40 |
 | 11 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Document Start | 40 |
-| 12 | [[Cognitive Restructuring]] | — | — | Document Start | 40 |
+| 12 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | Document Start | 40 |
 | 13 | [[Neuroplasticity]] | — | — | 1.0 📜 INTRODUCTION | 47 |
 | 14 | [[automatic negative thoughts]] | — | — | 1.0 📜 INTRODUCTION | 49 |
 | 15 | [[Major Depressive Disorder]] | — | — | 1.0 📜 INTRODUCTION | 61 |
 | 16 | [[Anxiety disorders]] | — | — | 1.0 📜 INTRODUCTION | 61 |
 | 17 | [[Default Mode Network]] | — | — | 1.0 📜 INTRODUCTION | 63 |
 | 18 | [[Rumination]] | — | — | 1.0 📜 INTRODUCTION | 63 |
-| 19 | [[cognitive restructuring]] | — | — | 1.0 📜 INTRODUCTION | 63 |
+| 19 | [[Cognitive-Restructuring|cognitive restructuring]] | — | — | 1.0 📜 INTRODUCTION | 63 |
 | 20 | [[quote-the-greatest-discovery-of-my-generation-is-that-human-beings-20251030223012]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 21 | [[Learned-Helplessness|learned helplessness]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 79 |
-| 22 | [[explanatory style]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 79 |
+| 22 | [[Explanatory-Style|explanatory style]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 79 |
 | 23 | [[Cognitive Triad]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 81 |
 | 24 | [[cognitive schemas]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
 | 25 | [[automatic thoughts]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 85 |
@@ -549,10 +549,10 @@ extraction_summary:
 | 68 | [[Metacognition]] | — | — | 7.3 ENHANCING NEUROPLASTICITY THROUGH... | 305 |
 | 69 | [[decentering]] | — | — | 7.3 ENHANCING NEUROPLASTICITY THROUGH... | 305 |
 | 70 | [[Attachment-Theory|Attachment Theory]] | — | — | 9.0 🧠 KEY QUESTIONS | 335 |
-| 71 | [[Cognitive Restructuring]] | — | — | 9.0 🧠 KEY QUESTIONS | 347 |
+| 71 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | 9.0 🧠 KEY QUESTIONS | 347 |
 | 72 | [[Neuroplasticity]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
 | 73 | [[Default Mode Network]] | — | — | 9.0 🧠 KEY QUESTIONS | 351 |
-| 74 | [[Metacognitive Therapy]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 408 |
+| 74 | [[Metacognitive-Therapy|Metacognitive Therapy]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 408 |
 | 75 | [[Schema Therapy]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 409 |
 | 76 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 410 |
 | 77 | [[Rumination-Focused CBT]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 411 |
@@ -675,7 +675,7 @@ I'll conduct comprehensive research on negative self-talk, its psychological fou
 - [[Cognition Checklist]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Theory]]
 - [[Cognitive Triad]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
@@ -687,7 +687,7 @@ I'll conduct comprehensive research on negative self-talk, its psychological fou
 - [[Lifespan Development Theory]]
 - [[Major Depressive Disorder]]
 - [[Metacognition]]
-- [[Metacognitive Therapy]]
+- [[Metacognitive-Therapy|Metacognitive Therapy]]
 - [[Mindfulness Meditation]]
 - [[Neuroplastic]]
 - [[Neuroplasticity]]
@@ -704,11 +704,11 @@ I'll conduct comprehensive research on negative self-talk, its psychological fou
 - [[brain-derived neurotrophic factor]]
 - [[caregiving system]]
 - [[cognitive mediation]]
-- [[cognitive restructuring]]
+- [[Cognitive-Restructuring|cognitive restructuring]]
 - [[cognitive schemas]]
 - [[core beliefs]]
 - [[decentering]]
-- [[explanatory style]]
+- [[Explanatory-Style|explanatory style]]
 - [[functional connectivity]]
 - [[functional magnetic resonance imaging]]
 - [[inferior parietal lobule]]

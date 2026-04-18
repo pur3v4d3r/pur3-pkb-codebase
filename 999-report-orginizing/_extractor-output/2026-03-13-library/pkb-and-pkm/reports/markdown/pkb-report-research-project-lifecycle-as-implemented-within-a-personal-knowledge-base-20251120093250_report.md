@@ -300,7 +300,7 @@ extraction_summary:
 > 
 > 1.  `[[Zettelkasten]]`
 > 1.  `[[Emergent Synthesis]]`
-> 1.  `[[Atomic Note (Evergreen Note)]]`
+> 1.  `[[Atomic-Note|Atomic Note (Evergreen Note)]]`
 
 #### 24. [QUESTION] Untitled *(Line 347)*
 
@@ -331,7 +331,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Article - The PKB Research Lifecycle]]
-- [[Atomic Note (Evergreen Note)]]
+- [[Atomic-Note|Atomic Note (Evergreen Note)]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Composition]]
 - [[Compositional Storytelling]]
@@ -371,7 +371,7 @@ extraction_summary:
 | 19 | [[Extended Cognition (EC)]] | — | — | 6.0 🌍 BROADER IMPLICATIONS AND SIGNIF... | 271 |
 | 20 | [[Zettelkasten]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 343 |
 | 21 | [[Emergent Synthesis]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 344 |
-| 22 | [[Atomic Note (Evergreen Note)]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 345 |
+| 22 | [[Atomic-Note|Atomic Note (Evergreen Note)]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 345 |
 
 ---
 
@@ -427,7 +427,7 @@ graph TD
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Article - The PKB Research Lifecycle]]
-- [[Atomic Note (Evergreen Note)]]
+- [[Atomic-Note|Atomic Note (Evergreen Note)]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Composition]]
 - [[Compositional Storytelling]]

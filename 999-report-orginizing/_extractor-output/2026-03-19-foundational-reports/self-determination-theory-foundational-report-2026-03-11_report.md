@@ -505,7 +505,7 @@ extraction_summary:
 - [[Assor et al.'s]]
 - [[Autonomy]]
 - [[Autonomy-Support|Autonomy Support]]
-- [[Autonomy-Supportive Teaching]]
+- [[Autonomy-Supportive-Teaching|Autonomy-Supportive Teaching]]
 - [[Autonomy-Supportive Teaching: Evidence and Practice]]
 - [[Bart-Soenens|Bart Soenens]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
@@ -554,7 +554,7 @@ extraction_summary:
 - [[Patall et al.]]
 - [[Pawn]]
 - [[Pelletier et al.]]
-- [[Personal Causation]]
+- [[Personal-Causation|Personal Causation]]
 - [[Randomised Controlled Trials]]
 - [[Reeve|Reeve (2009)]]
 - [[Relatedness]]
@@ -608,7 +608,7 @@ extraction_summary:
 | 27 | [[Jean-Piaget|Jean Piaget]] | — | — | The Intellectual Genealogy of SDT | 296 |
 | 28 | [[Assimilation]] | — | — | The Intellectual Genealogy of SDT | 296 |
 | 29 | [[Richard deCharms]] | — | — | The Intellectual Genealogy of SDT | 298 |
-| 30 | [[Personal Causation]] | — | — | The Intellectual Genealogy of SDT | 298 |
+| 30 | [[Personal-Causation|Personal Causation]] | — | — | The Intellectual Genealogy of SDT | 298 |
 | 31 | [[Origin]] | — | — | The Intellectual Genealogy of SDT | 298 |
 | 32 | [[Pawn]] | — | — | The Intellectual Genealogy of SDT | 298 |
 | 33 | [[Self-Efficacy-Theory|Self-Efficacy Theory]] | — | — | Core Definitions | 312 |
@@ -650,7 +650,7 @@ extraction_summary:
 | 69 | [[Reeve|Reeve (2009)]] | — | — | Autonomy Support: The Key Social Cond... | 455 |
 | 70 | [[Assor et al.'s]] | — | — | Need Thwarting: Active Frustration an... | 468 |
 | 71 | [[Conditional-Regard|Conditional Regard]] | — | — | Need Thwarting: Active Frustration an... | 468 |
-| 72 | [[Autonomy-Supportive Teaching]] | — | — | SDT in Educational Contexts | 487 |
+| 72 | [[Autonomy-Supportive-Teaching|Autonomy-Supportive Teaching]] | — | — | SDT in Educational Contexts | 487 |
 | 73 | [[Johnmarshall Reeve]] | — | — | SDT in Educational Contexts | 489 |
 | 74 | [[Patall et al.]] | — | — | SDT in Educational Contexts | 489 |
 | 75 | [[Motivational-Climate-Design|Motivational Climate Design]] | — | — | SDT in Educational Contexts | 494 |
@@ -702,7 +702,7 @@ extraction_summary:
 - [[Assor et al.'s]]
 - [[Autonomy]]
 - [[Autonomy-Support|Autonomy Support]]
-- [[Autonomy-Supportive Teaching]]
+- [[Autonomy-Supportive-Teaching|Autonomy-Supportive Teaching]]
 - [[Autonomy-Supportive Teaching: Evidence and Practice]]
 - [[Bart-Soenens|Bart Soenens]]
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
@@ -751,7 +751,7 @@ extraction_summary:
 - [[Patall et al.]]
 - [[Pawn]]
 - [[Pelletier et al.]]
-- [[Personal Causation]]
+- [[Personal-Causation|Personal Causation]]
 - [[Randomised Controlled Trials]]
 - [[Reeve|Reeve (2009)]]
 - [[Relatedness]]

@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,6 +43,7 @@ updated: 2026-04-01
 source-type: report-extraction
 source-reports:
   - "report-09-the-embodied-thinker"
+  - "report-10-the-feeling-reasoner.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
@@ -86,7 +87,6 @@ see-also:
   - "[[Embodied-Cognition|Embodied Cognition]]"
   - "[[Interoceptive-Inference|Interoceptive Inference]]"
   - "[[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]"
-  - "[[Allostatic-Load|Allostatic Load]]"
   - "[[Francisco-Varela|Francisco Varela]]"
   - "[[Evan-Thompson|Evan Thompson]]"
   - "[[Eleanor-Rosch|Eleanor Rosch]]"
@@ -136,10 +136,22 @@ importance: high
 > [!reflection] **Reflect** *(from [[report-09-the-embodied-thinker]])*
 > Think about the most intellectually important decisions or evaluations you have made in the past year. What was your physiological state during those moments of deliberation? Were you well-rested, regulated, and embodied — or were you operating under conditions of significant allostatic load? Is it possible that some of those decisions were shaped more by physiological state than by the evidence and values you believed you were bringing to bear? What would it mean to take this question…
 
+> [!reflection] **Reflect** *(from [[report-10-the-feeling-reasoner]])*
+> Think of a recurrent emotional pattern in your life — a persistent anxiety, a habitual anger, a chronic dissatisfaction. Now ask: what evaluative judgment is constituting this response? What must you be implicitly treating as genuinely good or bad for this emotion to be generated? The Stoic insight is that identifying this implicit judgment is the first step toward correcting it — and that the correction is not suppression but *accurate re-evaluation*.
+
+> [!reflection] **Reflect** *(from [[report-10-the-feeling-reasoner]])*
+> Can you identify a situation where you felt something was wrong — in a relationship, a professional context, a decision — before you could articulate why? And can you identify a situation where you overrode that affective signal with deliberate reasoning and later regretted it? The examined life involves taking seriously the question of when one's affective signals are tracking something real and when they are projecting a historical pattern onto a present situation.
+
+
+
 ## Connections & Context
 
 **Related concepts:**
 [[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Stoic-Prohairesis|Stoic Prohairesis]] · [[Intellectual-Virtue|Intellectual Virtue]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Allostatic-Load|Allostatic Load]] · [[Working-Memory|Working Memory]] · [[Executive-Function|Executive Function]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Belief-Revision|Belief Revision]] · [[Physiological-Metacognition|Physiological Metacognition]] · [[Report-06|Report 06]] · [[Embodied-Cognition|Embodied Cognition]] · [[Interoceptive-Inference|Interoceptive Inference]] · [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] · [[Allostatic-Load|Allostatic Load]] · [[Francisco-Varela|Francisco Varela]] · [[Evan-Thompson|Evan Thompson]] · [[Eleanor-Rosch|Eleanor Rosch]] · [[Andy-Clark|Andy Clark]] · [[David-Chalmers|David Chalmers]] · [[Lawrence-Shapiro|Lawrence Shapiro]] · [[Anil-Seth|Anil Seth]] · [[Karl-Friston|Karl Friston]] · [[Free-Energy-Principle|Free Energy Principle]] · [[Anterior-Insular-Cortex|Anterior Insular Cortex]] · [[The-Predictive-Mind|The Predictive Mind]] · [[Antonio-Damasio|Antonio Damasio]]
+
+**Related concepts** *(from [[report-09-the-embodied-thinker]], [[report-10-the-feeling-reasoner]])*:
+[[Aporic-Receptivity|Aporic Receptivity]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Intellectual-Virtue|Intellectual Virtue]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Allostatic-Load|Allostatic Load]] * [[Working-Memory|Working Memory]] * [[Executive-Function|Executive Function]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Belief-Revision|Belief Revision]] * [[Physiological-Metacognition|Physiological Metacognition]] * [[Report-06|Report 06]] * [[Embodied-Cognition|Embodied Cognition]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Francisco-Varela|Francisco Varela]] * [[Evan-Thompson|Evan Thompson]] * [[Eleanor-Rosch|Eleanor Rosch]] * [[Andy-Clark|Andy Clark]] * [[David-Chalmers|David Chalmers]] * [[Lawrence-Shapiro|Lawrence Shapiro]] * [[Anil-Seth|Anil Seth]] * [[Karl-Friston|Karl Friston]] * [[Free-Energy-Principle|Free Energy Principle]] * [[Anterior-Insular-Cortex|Anterior Insular Cortex]] * [[The-Predictive-Mind|The Predictive Mind]] * [[Antonio-Damasio|Antonio Damasio]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Iowa-Gambling-Task|Iowa Gambling Task]] * [[Peter-Sterling|Peter Sterling]]
+
 
 ## Methodology Notes
 
@@ -150,6 +162,14 @@ importance: high
 > This report synthesizes five theoretical frameworks drawn from distinct methodological traditions: philosophical analysis (embodied and extended cognition, Stoic propatheiai), computational neuroscience (interoceptive inference), clinical neuropsychology (somatic marker hypothesis), stress physiology (allostatic load), and meta-analytic research. The synthesis is supported by empirical findings including the Iowa Gambling Task paradigm, VMPFC lesion studies, cortisol–hippocampus research, and meta-analyses of allostatic load and cognition. The primary synthesis moves — identifying the…
 
 ---
+
+> [!methodology-and-sources] **📊 Empirical Grounding of Appraisal Theory** *(from [[report-10-the-feeling-reasoner]])*
+> Appraisal theory has accumulated substantial cross-cultural empirical support. Scherer's GRID studies across 34 countries confirm cross-cultural appraisal-emotion associations. Siemer et al.'s (2007) manipulation study demonstrated experimentally that appraisal profiles generate predicted emotion types in ambiguous situations. Cross-cultural studies by Imada & Ellsworth (2011) confirmed that the same appraisal dimensions predict emotion types across diverse cultural contexts, with some cultural modulation of specific appraisal criteria (e.g., which actions count as intentional or blameworthy).
+
+> [!methodology-and-sources] **📊 Research Grounding and Synthesis Claims** *(from [[report-10-the-feeling-reasoner]])*
+> This report synthesizes empirical research (Barrett, Siemer et al., Erbas et al., O'Toole et al., Schwarz & Clore), philosophical analysis (Chrysippus, Nussbaum, Graver), and clinical/neurological evidence (Damasio, affective realism studies). The convergent claims — that emotions carry evaluative information, that granularity improves both cognitive and regulatory outcomes, that the Stoic project is calibration not suppression — are well-supported across multiple independent lines of evidence. The specific emergent insight (emotional granularity as epistemic precision) is a theoretical synthesis that draws on all these lines but goes beyond any single one. The connection of this synthesis to the predictive processing framework (previewed in the cross-report connections) is theoretically compelling but awaits direct empirical validation in Report 13.
+
+
 
 ## Source Attribution
 

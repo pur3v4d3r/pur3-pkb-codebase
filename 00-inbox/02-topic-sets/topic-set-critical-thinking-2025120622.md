@@ -129,7 +129,7 @@ This is perhaps the most influential framework in modern cognitive science for u
 - [[Cognitive-Miserliness]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Attribute Substitution]]
-- [[Mental Effort]]
+- [[Mental-Effort]]
 - [[Default Interventionist Model]]
 - [[Parallel Competitive Model]]
 - [[Cognitive-Decoupling]]
@@ -168,9 +168,9 @@ Argument mapping represents the intersection of formal logic, cognitive science 
 - [[Argument Diagramming Software]]
 - [[Logical Fallacies]]
 - [[Defeasible Reasoning]]
-- [[Burden of Proof]]
+- [[Burden-of-Proof]]
 - [[Argumentation Schemes]]
-- [[Informal Logic]]
+- [[Informal-Logic]]
 - [[Critical Thinking Visualization]]
 - [[Cognitive Load Externalization]]
 - [[Dialectical Structures]]
@@ -250,7 +250,7 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 - [[Consider-the-Opposite Strategy]]
 - [[Premortem Technique]]
 - [[Outside View (Reference Class Forecasting)]]
-- [[Nudge Theory]]
+- [[Nudge-Theory]]
 - [[choice-architecture]]
 - [[Ecological-Rationality]]
 - [[Fast-and-Frugal-Heuristics]]
@@ -1118,7 +1118,7 @@ Here is the research strategy and topic curation for **Critical Thinking**, desi
 
 Title: The Architecture of Reason: Strategic Inquiry into Critical Thinking
 Tags: \#critical-thinking \#epistemology \#cognitive-science \#pedagogy \#decision-theory
-Aliases: [[Applied Logic]], [[Cognitive Restructuring]], [[Rational Inquiry]]
+Aliases: [[Applied Logic]], [[Cognitive-Restructuring]], [[Rational Inquiry]]
 
 > [!the-purpose]
 > This topic set deconstructs Critical Thinking from a vague buzzword into a rigorous set of cognitive processes, historical lineages, and practical applications. The topics below are designed to explore the subject not just as a "soft skill," but as a fundamental mechanism for error correction in human cognition, a defense against misinformation in the digital age, and a disciplined framework for analyzing complex systems. Each topic is engineered to sustain a deep, five-part structural analysis ranging from historical philosophy to modern neuroscientific evidence.

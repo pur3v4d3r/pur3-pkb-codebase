@@ -868,7 +868,7 @@ narrower:
   - "[[Split-Attention-Effect]]"
 
 see-also:
-  - "[[Multimedia Learning Theory]]"
+  - "[[Multimedia-Learning-Theory]]"
   - "[[Deliberate-Practice]]"
   - "[[Zone-of-Proximal-Development]]"
 
@@ -946,7 +946,7 @@ CLT has generated numerous empirically validated instructional design principles
 CLT intersects powerfully with [[Metacognition]] and [[Self-Regulated-Learning]]. Metacognitive monitoring consumes cognitive resources, creating a paradox: the act of monitoring one's own learning imposes additional load on the very system it seeks to optimize. This tension explains why [[Metacognitive Monitoring Protocols]] must be carefully scaffolded for novices — adding monitoring demands to an already overloaded working memory produces worse outcomes than no monitoring at all.
 
 > [!connection] **Cross-Domain Application**
-> CLT principles apply well beyond education. [[User Interface Design]] leverages cognitive load concepts to minimize extraneous processing in software interfaces. [[Professional Training]] programs use load management to sequence complex skill acquisition. Even [[Decision Making Under Uncertainty]] benefits from understanding how information presentation affects the quality of reasoning under cognitive constraint.
+> CLT principles apply well beyond education. [[User Interface Design]] leverages cognitive load concepts to minimize extraneous processing in software interfaces. [[Professional Training]] programs use load management to sequence complex skill acquisition. Even [[Decision-Making-Under-Uncertainty]] benefits from understanding how information presentation affects the quality of reasoning under cognitive constraint.
 
 The theory also illuminates why [[Transfer-of-Learning]] is so difficult: transfer requires processing novel problems through partially automated schemas, which imposes significant intrinsic load. Learners whose working memory is already taxed by extraneous factors have insufficient capacity for the deep structural encoding that [[Transfer-of-Learning|transfer]] demands.
 

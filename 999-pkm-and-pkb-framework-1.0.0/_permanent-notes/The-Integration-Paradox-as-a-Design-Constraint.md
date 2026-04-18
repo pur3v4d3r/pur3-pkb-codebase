@@ -37,7 +37,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -321,6 +321,56 @@ importance: high
 - [[SDT's-Regulatory-Continuum|SDT's-Regulatory-Continuum]]
 - [[The-Regulatory-Spectrum|The-Regulatory-Spectrum]]
 
+**Related concepts** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+[[Nutritive-Environment-Requirement|Nutritive-Environment Requirement]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Nutritive-Environment-Requirement|Nutritive-Environment Requirement]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Identity-Based-Habits|Identity-Based-Habits]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Schema-Theory|Schema-Theory]]
+- [[Conceptual-Change-Theory|Conceptual-Change-Theory]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Organismic-Integration-Theory|Organismic-Integration-Theory]]
+- [[The-Integration-Paradox|The-Integration-Paradox]]
+- [[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces|The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]]
+- [[SDT's-Regulatory-Continuum|SDT's-Regulatory-Continuum]]
+- [[The-Regulatory-Spectrum|The-Regulatory-Spectrum]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Nutritive-Environment-Requirement|Nutritive-Environment-Requirement]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Identity-Based-Habits|Identity-Based-Habits]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Schema-Theory|Schema-Theory]]
+- [[Conceptual-Change-Theory|Conceptual-Change-Theory]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Organismic-Integration-Theory|Organismic-Integration-Theory]]
+- [[The-Integration-Paradox|The-Integration-Paradox]]
+- [[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces|The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]]
+- [[SDT's-Regulatory-Continuum|SDT's-Regulatory-Continuum]]
+- [[The-Regulatory-Spectrum|The-Regulatory-Spectrum]]
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -360,6 +410,66 @@ importance: high
 - **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: The [[Self-Concordance-Model]] shows that goal pursuit aligned with autonomous motivation produces better outcomes and more stable commitment than goal pursuit under controlled motivation. Supports Phase III and Phase V wellbeing outcome discussions.
 
 - **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Connects goal content theory (intrinsic vs. extrinsic goal framing) to regulatory style outcomes in educational contexts. Supports Phase V implications.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Establishes the independence of need frustration from need dissatisfaction. Supports the Phase III need frustration asymmetry analysis and Phase IV's dual pathway account.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: Applied treatment of SDT principles in educational design. Supports Phase V's educational design implications.
+
+- **Ryan, R. M. (1982). Control and information in the intrapersonal sphere: An extension of cognitive evaluation theory. *Journal of Personality and Social Psychology, 43*(3), 450–461.**: The original theoretical characterization of introjected regulation as "internal compulsion." Supports the Phase IV mechanistic analysis of introjection.
+
+- **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: The [[Self-Concordance-Model]] shows that goal pursuit aligned with autonomous motivation produces better outcomes and more stable commitment than goal pursuit under controlled motivation. Supports Phase III and Phase V wellbeing outcome discussions.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Connects goal content theory (intrinsic vs. extrinsic goal framing) to regulatory style outcomes in educational contexts. Supports Phase V implications.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Establishes the independence of need frustration from need dissatisfaction. Supports the Phase III need frustration asymmetry analysis and Phase IV's dual pathway account.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: Applied treatment of SDT principles in educational design. Supports Phase V's educational design implications.
+
+- **Ryan, R. M. (1982). Control and information in the intrapersonal sphere: An extension of cognitive evaluation theory. *Journal of Personality and Social Psychology, 43*(3), 450–461.**: The original theoretical characterization of introjected regulation as "internal compulsion." Supports the Phase IV mechanistic analysis of introjection.
+
+- **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: The [[Self-Concordance-Model]] shows that goal pursuit aligned with autonomous motivation produces better outcomes and more stable commitment than goal pursuit under controlled motivation. Supports Phase III and Phase V wellbeing outcome discussions.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Connects goal content theory (intrinsic vs. extrinsic goal framing) to regulatory style outcomes in educational contexts. Supports Phase V implications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

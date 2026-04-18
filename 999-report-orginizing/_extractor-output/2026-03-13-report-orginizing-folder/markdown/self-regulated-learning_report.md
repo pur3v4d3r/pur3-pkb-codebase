@@ -520,7 +520,7 @@ extraction_summary:
 #### 48. [TOPIC-IDEA] Untitled *(Line 540)*
 
 > [!topic-idea] Untitled
-> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit-Formation|Habit Formation]], [[Emotion Regulation]], and the [[Allostatic-Load|Allostatic Load]] literature.
+> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit-Formation|Habit Formation]], [[Emotion-Regulation|Emotion Regulation]], and the [[Allostatic-Load|Allostatic Load]] literature.
 
 #### 49. [TOPIC-IDEA] Untitled *(Line 543)*
 
@@ -1026,23 +1026,23 @@ extraction_summary:
 - [[Agency Theory]]
 - [[Albert-Bandura|Albert Bandura]]
 - [[Allostatic-Load|Allostatic Load]]
-- [[Allyson Hadwin]]
-- [[Andrew Elliot]]
+- [[Allyson-Hadwin|Allyson Hadwin]]
+- [[Andrew-Elliot|Andrew Elliot]]
 - [[Appraisal]]
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attributional Style]]
+- [[Attributional-Style|Attributional Style]]
 - [[B.F. Skinner]]
 - [[BASB]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Bernard-Weiner|Bernard Weiner]]
 - [[Boekaerts' Dual Processing Model — Well-Being Regulation vs. Growth Regulation]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[COPES Model]]
 - [[Calibration and the Illusion of Knowing]]
 - [[Carol-Dweck|Carol Dweck]]
-- [[Causal Attribution]]
+- [[Causal-Attribution|Causal Attribution]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Claude-Code|Claude Code]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
@@ -1052,7 +1052,7 @@ extraction_summary:
 - [[Constructivist Epistemology]]
 - [[Cyclical Model of Self-Regulation]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Discrepancy Reduction Model]]
+- [[Discrepancy-Reduction-Model|Discrepancy Reduction Model]]
 - [[Distributed Practice]]
 - [[Donald-Schön|Donald Schön]]
 - [[Donald Schön and Reflective Practice]]
@@ -1065,7 +1065,7 @@ extraction_summary:
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elliot & Dweck]]
 - [[Elliot Ames]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation|Emotion Regulation]]
 - [[Emotion Regulation and SRL]]
 - [[Emotional-Regulation|Emotional Regulation]]
 - [[Epistemic Agency]]
@@ -1091,7 +1091,7 @@ extraction_summary:
 - [[Illusions of Competence]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 - [[Implicit Theories of Intelligence and Growth Mindset]]
-- [[Inner Speech]]
+- [[Inner-Speech|Inner Speech]]
 - [[Interest-Development-Theory|Interest Development Theory]]
 - [[Internalization]]
 - [[Interoception]]
@@ -1107,7 +1107,7 @@ extraction_summary:
 - [[Learning-Analytics|Learning Analytics]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Locke & Latham Goal Setting Theory]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[MCP Integration with Obsidian]]
 - [[MSLQ]]
 - [[Martin Seligman]]
@@ -1145,7 +1145,7 @@ extraction_summary:
 - [[Psychological Tools]]
 - [[Reading Metacognition]]
 - [[Reciprocal Determinism]]
-- [[Reciprocal Teaching]]
+- [[Reciprocal-Teaching|Reciprocal Teaching]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[Relational Motivation Theory]]
 - [[Retrieval-Practice|Retrieval Practice]]
@@ -1179,7 +1179,7 @@ extraction_summary:
 - [[Testing-Effect|Testing Effect]]
 - [[The Metacognitive Accuracy Problem — Overconfidence, Dunning-Kruger, and Calibration Interventions]]
 - [[The Principles of Psychology]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Time Blocking]]
 - [[Triadic Reciprocal Determinism]]
 - [[Ulric Neisser]]
@@ -1221,7 +1221,7 @@ extraction_summary:
 | 16 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 17 | [[Sociocultural Theory]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 18 | [[Psychological Tools]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
-| 19 | [[Inner Speech]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
+| 19 | [[Inner-Speech|Inner Speech]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 20 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 21 | [[John-Flavell|John Flavell]] | — | — | 📜 Phase 2: Historical Foundations — W... | 68 |
 | 22 | [[Metacognition]] | — | — | 📜 Phase 2: Historical Foundations — W... | 68 |
@@ -1289,7 +1289,7 @@ extraction_summary:
 | 84 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | For Personal Knowledge Management | 151 |
 | 85 | [[Paul-Elder-Framework|Paul-Elder Framework]] | — | — | For Personal Knowledge Management | 151 |
 | 86 | [[Reflective-Thinking|Reflective Thinking]] | — | — | For Personal Knowledge Management | 151 |
-| 87 | [[Building a Second Brain]] | — | — | For Personal Knowledge Management | 153 |
+| 87 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | For Personal Knowledge Management | 153 |
 | 88 | [[BASB]] | — | — | For Personal Knowledge Management | 153 |
 | 89 | [[Learning-Analytics|Learning Analytics]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
 | 90 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
@@ -1376,7 +1376,7 @@ extraction_summary:
 | 171 | [[Goal Orientation Theory]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
 | 172 | [[Carol-Dweck|Carol Dweck]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
 | 173 | [[Elliot & Dweck]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
-| 174 | [[Andrew Elliot]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
+| 174 | [[Andrew-Elliot|Andrew Elliot]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
 | 175 | [[Mastery-Goals|Mastery Goals]] | — | — | Goal Orientation Theory and Its Integ... | 407 |
 | 176 | [[Zimmerman Cyclical Model]] | — | — | Goal Orientation Theory and Its Integ... | 407 |
 | 177 | [[Goal Setting]] | — | — | Component One: [[Goal Setting]] | 413 |
@@ -1407,7 +1407,7 @@ extraction_summary:
 | 202 | [[Goal Setting]] | — | — | Component Three: [[Self-Evaluation]] | 444 |
 | 203 | [[Self-Monitoring]] | — | — | Component Three: [[Self-Evaluation]] | 444 |
 | 204 | [[Self-Evaluation]] | — | — | Component Three: [[Self-Evaluation]] | 447 |
-| 205 | [[Causal Attribution]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
+| 205 | [[Causal-Attribution|Causal Attribution]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
 | 206 | [[Bernard-Weiner|Bernard Weiner]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
 | 207 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
 | 208 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | — | — | Component Three: [[Self-Evaluation]] | 452 |
@@ -1459,7 +1459,7 @@ extraction_summary:
 | 254 | [[Volitional Control and Motivational Self-Regulation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
 | 255 | [[Volitional Control]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
 | 256 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
-| 257 | [[Emotion Regulation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
+| 257 | [[Emotion-Regulation|Emotion Regulation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
 | 258 | [[Allostatic-Load|Allostatic Load]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
 | 259 | [[Donald Schön and Reflective Practice]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 544 |
 | 260 | [[AI-Augmented Metacognition and Adaptive PKM]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 547 |
@@ -1489,8 +1489,8 @@ extraction_summary:
 | 284 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 682 |
 | 285 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 682 |
 | 286 | [[John-Flavell|John Flavell]] | — | — | Flavell and the Formal Architecture o... | 686 |
-| 287 | [[Thomas Nelson]] | — | — | The Nelson-Narens Framework and the C... | 695 |
-| 288 | [[Louis Narens]] | — | — | The Nelson-Narens Framework and the C... | 695 |
+| 287 | [[Thomas-Nelson|Thomas Nelson]] | — | — | The Nelson-Narens Framework and the C... | 695 |
+| 288 | [[Louis-Narens|Louis Narens]] | — | — | The Nelson-Narens Framework and the C... | 695 |
 | 289 | [[Nelson-Narens Framework]] | — | — | The Nelson-Narens Framework and the C... | 695 |
 | 290 | [[Albert-Bandura|Albert Bandura]] | — | — | Bandura, Social Cognitive Theory, and... | 704 |
 | 291 | [[Self-Efficacy]] | — | — | Bandura, Social Cognitive Theory, and... | 704 |
@@ -1499,7 +1499,7 @@ extraction_summary:
 | 294 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Pintrich's Phases and Areas Framework | 729 |
 | 295 | [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]] | — | — | Pintrich's Phases and Areas Framework | 729 |
 | 296 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Metacognitive Knowledge as the Declar... | 766 |
-| 297 | [[Discrepancy Reduction Model]] | — | — | Metacognitive Monitoring: The Foretho... | 770 |
+| 297 | [[Discrepancy-Reduction-Model|Discrepancy Reduction Model]] | — | — | Metacognitive Monitoring: The Foretho... | 770 |
 | 298 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Metacognitive Monitoring: The Perform... | 776 |
 | 299 | [[Robert-Bjork|Robert Bjork]] | — | — | Metacognitive Monitoring: The Perform... | 781 |
 | 300 | [[John Dunlosky]] | — | — | Monitoring Accuracy and the Calibrati... | 815 |
@@ -1507,7 +1507,7 @@ extraction_summary:
 | 302 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Monitoring Accuracy and the Calibrati... | 815 |
 | 303 | [[Robert-Bjork|Robert Bjork]] | — | — | Monitoring Accuracy and the Calibrati... | 820 |
 | 304 | [[Self-Efficacy]] | — | — | Metacognition, Self-Efficacy, and the... | 838 |
-| 305 | [[Reciprocal Teaching]] | — | — | Reciprocal Teaching and Collaborative... | 860 |
+| 305 | [[Reciprocal-Teaching|Reciprocal Teaching]] | — | — | Reciprocal Teaching and Collaborative... | 860 |
 | 306 | [[Reading Metacognition]] | — | — | Reciprocal Teaching and Collaborative... | 860 |
 | 307 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Personal Knowledge Management: Metaco... | 864 |
 | 308 | [[Nelson-Narens Framework]] | — | — | Personal Knowledge Management: Metaco... | 873 |
@@ -1516,7 +1516,7 @@ extraction_summary:
 | 311 | [[Habit-Formation|Habit Formation]] | — | — | Personal Knowledge Management: Metaco... | 873 |
 | 312 | [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] | — | — | Personal Knowledge Management: Metaco... | 873 |
 | 313 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Personal Knowledge Management: Metaco... | 873 |
-| 314 | [[Allyson Hadwin]] | — | — | Collaborative Self-Regulation and Soc... | 897 |
+| 314 | [[Allyson-Hadwin|Allyson Hadwin]] | — | — | Collaborative Self-Regulation and Soc... | 897 |
 | 315 | [[Socially-Shared-Regulation|Socially Shared Regulation]] | — | — | Collaborative Self-Regulation and Soc... | 897 |
 | 316 | [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
 | 317 | [[Barry-Zimmerman|Barry Zimmerman]] | Zimmerman's Cyclical Model | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
@@ -1558,7 +1558,7 @@ extraction_summary:
 | 353 | [[Julian Rotter]] | Rotter's (1966) | — | 📜 Phase 2: Historical Foundations — F... | 1085 |
 | 354 | [[Martin Seligman]] | Seligman's (1975) | — | 📜 Phase 2: Historical Foundations — F... | 1085 |
 | 355 | [[Bernard-Weiner|Bernard Weiner]] | Weiner's (1985, 1986) | — | 📜 Phase 2: Historical Foundations — F... | 1085 |
-| 356 | [[Attributional Style]] | attributional style | — | 📜 Phase 2: Historical Foundations — F... | 1085 |
+| 356 | [[Attributional-Style|Attributional Style]] | attributional style | — | 📜 Phase 2: Historical Foundations — F... | 1085 |
 | 357 | [[Albert-Bandura|Albert Bandura]] | Bandura's (1977, 1986) | — | 📜 Phase 2: Historical Foundations — F... | 1090 |
 | 358 | [[Self-Efficacy]] | self-efficacy | — | 📜 Phase 2: Historical Foundations — F... | 1090 |
 | 359 | [[Triadic Reciprocal Determinism]] | triadic reciprocal determinism | — | 📜 Phase 2: Historical Foundations — F... | 1090 |
@@ -1568,7 +1568,7 @@ extraction_summary:
 | 363 | [[Carol-Dweck|Carol Dweck]] | Dweck's (1986) | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 364 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | implicit theories of intelligence | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 365 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | achievement goal theory | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
-| 366 | [[Andrew Elliot]] | Elliot (1997, 1999) | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
+| 366 | [[Andrew-Elliot|Andrew Elliot]] | Elliot (1997, 1999) | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 367 | [[Internalization]] | internalization | — | Self-Determination Theory: The Motiva... | 1103 |
 | 368 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | Cognitive Evaluation Theory (CET) | — | Self-Determination Theory: The Motiva... | 1103 |
 | 369 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | Organismic Integration Theory (OIT) | — | Self-Determination Theory: The Motiva... | 1103 |
@@ -1754,23 +1754,23 @@ $$
 - [[Agency Theory]]
 - [[Albert-Bandura|Albert Bandura]]
 - [[Allostatic-Load|Allostatic Load]]
-- [[Allyson Hadwin]]
-- [[Andrew Elliot]]
+- [[Allyson-Hadwin|Allyson Hadwin]]
+- [[Andrew-Elliot|Andrew Elliot]]
 - [[Appraisal]]
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Attribution-Theory|Attribution Theory]]
-- [[Attributional Style]]
+- [[Attributional-Style|Attributional Style]]
 - [[B.F. Skinner]]
 - [[BASB]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]
 - [[Bernard-Weiner|Bernard Weiner]]
 - [[Boekaerts' Dual Processing Model — Well-Being Regulation vs. Growth Regulation]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[COPES Model]]
 - [[Calibration and the Illusion of Knowing]]
 - [[Carol-Dweck|Carol Dweck]]
-- [[Causal Attribution]]
+- [[Causal-Attribution|Causal Attribution]]
 - [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Claude-Code|Claude Code]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
@@ -1780,7 +1780,7 @@ $$
 - [[Constructivist Epistemology]]
 - [[Cyclical Model of Self-Regulation]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Discrepancy Reduction Model]]
+- [[Discrepancy-Reduction-Model|Discrepancy Reduction Model]]
 - [[Distributed Practice]]
 - [[Donald-Schön|Donald Schön]]
 - [[Donald Schön and Reflective Practice]]
@@ -1793,7 +1793,7 @@ $$
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elliot & Dweck]]
 - [[Elliot Ames]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation|Emotion Regulation]]
 - [[Emotion Regulation and SRL]]
 - [[Emotional-Regulation|Emotional Regulation]]
 - [[Epistemic Agency]]
@@ -1819,7 +1819,7 @@ $$
 - [[Illusions of Competence]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 - [[Implicit Theories of Intelligence and Growth Mindset]]
-- [[Inner Speech]]
+- [[Inner-Speech|Inner Speech]]
 - [[Interest-Development-Theory|Interest Development Theory]]
 - [[Internalization]]
 - [[Interoception]]
@@ -1835,7 +1835,7 @@ $$
 - [[Learning-Analytics|Learning Analytics]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Locke & Latham Goal Setting Theory]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[MCP Integration with Obsidian]]
 - [[MSLQ]]
 - [[Martin Seligman]]
@@ -1873,7 +1873,7 @@ $$
 - [[Psychological Tools]]
 - [[Reading Metacognition]]
 - [[Reciprocal Determinism]]
-- [[Reciprocal Teaching]]
+- [[Reciprocal-Teaching|Reciprocal Teaching]]
 - [[Reflective-Thinking|Reflective Thinking]]
 - [[Relational Motivation Theory]]
 - [[Retrieval-Practice|Retrieval Practice]]
@@ -1907,7 +1907,7 @@ $$
 - [[Testing-Effect|Testing Effect]]
 - [[The Metacognitive Accuracy Problem — Overconfidence, Dunning-Kruger, and Calibration Interventions]]
 - [[The Principles of Psychology]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Time Blocking]]
 - [[Triadic Reciprocal Determinism]]
 - [[Ulric Neisser]]

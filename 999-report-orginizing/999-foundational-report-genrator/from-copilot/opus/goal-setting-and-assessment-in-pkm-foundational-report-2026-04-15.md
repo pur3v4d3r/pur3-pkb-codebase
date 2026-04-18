@@ -94,7 +94,7 @@ core-concepts: ["Goal-Setting Theory", "Achievement Goal Theory", "Self-Determin
 key-distinctions: ["Mastery vs. Performance Goal Orientation", "Autonomous vs. Controlled Motivation", "Metacognitive Monitoring vs. Metacognitive Control", "Near vs. Far Transfer"]
 prerequisites: ["[[Self-Determination-Theory]]", "[[Self-Regulated-Learning]]", "[[Metacognition]]", "[[Personal-Knowledge-Management]]"]
 related: ["[[Goal-Setting-Theory]]", "[[Achievement-Goal-Theory]]", "[[Formative-Assessment]]", "[[Self-Directed-Learning]]", "[[Expertise-Development]]"]
-broader: ["[[Educational-Psychology]]", "[[Learning-Sciences]]", "[[Motivation-Science]]"]
+broader: ["[[Educational-Psychology]]", "[[Learning-Sciences]]", "[[motivation-science]]"]
 narrower: ["[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]", "[[Basic-Psychological-Needs-Theory]]", "[[Nelson-Narens-Model]]"]
 see-also: ["[[Growth-Mindset]]", "[[Flow-Theory]]", "[[Self-Efficacy]]", "[[Transfer-of-Learning]]"]
 builds-on: ["[[Self-Determination-Theory]]", "[[Self-Regulated-Learning]]", "[[Metacognition]]"]

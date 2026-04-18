@@ -284,7 +284,7 @@ graph TD
 | 26 | [[Feedback Loops in PKM]] | 3 | Systems feedback | [[Feedback Systems]], [[Learning-Metabolism]] |
 | 27 | [[The Complete PKM/PKB Design Framework]] | 4 | **Capstone synthesis** | [[Five-Convergence-Zones]], [[Twelve-Master-Principles]], [[Integrated-Learning-System-Model]] |
 | 28 | [[Philosophy of Personal Knowledge]] | 4 | Epistemological grounding | [[Justified-True-Belief]], [[Virtue-Epistemology]], [[Pragmatist-Truth]] |
-| 29 | [[Ethical PKM]] | 4 | Ethical foundation | [[Intellectual-Honesty]], [[Epistemic Responsibility]] |
+| 29 | [[Ethical PKM]] | 4 | Ethical foundation | [[Intellectual-Honesty]], [[Epistemic-Responsibility]] |
 | 30 | [[Future of PKM / AI-Enhanced Knowledge Building]] | 4 | AI-era projection | [[Cognitive Partnership Model]], [[Extended-Mind-Theory]], [[RAG]] |
 
 ### Dependency Map: Critical Intellectual Pathways

@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -138,6 +138,10 @@ importance: high
 
 **Related concepts** *(from report-10-the-feeling-reasoner.md)*:
 [[Self-Determination-Theory|Self-Determination Theory]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Antonio-Damasio|Antonio Damasio]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Somatic-Markers|Somatic Markers]] * [[Norbert-Schwarz|Norbert Schwarz]] * [[Gerald-Clore|Gerald Clore]] * [[Affect-as-Information-Theory|Affect-as-Information Theory]] * [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] * [[Appraisal-Theory|Appraisal Theory]] * [[Emotional-Granularity|Emotional Granularity]] * [[Appraisal-Accuracy|Appraisal Accuracy]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Classical-View-of-Emotion|Classical View of Emotion]] * [[Anil-Seth|Anil Seth]] * [[Emotion-Concepts|Emotion Concepts]] * [[Affective-Realism|Affective Realism]] * [[Barrett-and-Wormwood|Barrett and Wormwood]] * [[Predictive-Processing|Predictive Processing]] * [[Richard-Lazarus|Richard Lazarus]] * [[Klaus-Scherer|Klaus Scherer]] * [[Component-Process-Model|Component Process Model]] * [[Siemer,-Mauss,-and-Gross|Siemer, Mauss, and Gross]] * [[Cicero|Cicero]] * [[Galen|Galen]] * [[Seneca|Seneca]] * [[Margaret-Graver|Margaret Graver]] * [[Martha-Nussbaum|Martha Nussbaum]] * [[Emotion-Differentiation|Emotion Differentiation]]
+
+**Related concepts** *(from [[report-10-the-feeling-reasoner]])*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Antonio-Damasio|Antonio Damasio]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Somatic-Markers|Somatic Markers]] * [[Norbert-Schwarz|Norbert Schwarz]] * [[Gerald-Clore|Gerald Clore]] * [[Affect-as-Information-Theory|Affect-as-Information Theory]] * [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] * [[Appraisal-Theory|Appraisal Theory]] * [[Emotional-Granularity|Emotional Granularity]] * [[Appraisal-Accuracy|Appraisal Accuracy]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Classical-View-of-Emotion|Classical View of Emotion]] * [[Anil-Seth|Anil Seth]] * [[Emotion-Concepts|Emotion Concepts]] * [[Affective-Realism|Affective Realism]] * [[Barrett-and-Wormwood|Barrett and Wormwood]] * [[Predictive-Processing|Predictive Processing]] * [[Richard-Lazarus|Richard Lazarus]] * [[Klaus-Scherer|Klaus Scherer]] * [[Component-Process-Model|Component Process Model]] * [[Siemer,-Mauss,-and-Gross|Siemer, Mauss, and Gross]] * [[Margaret-Graver|Margaret Graver]] * [[Martha-Nussbaum|Martha Nussbaum]] * [[Emotion-Differentiation|Emotion Differentiation]] * [[O'Toole,-Bovard-Abbo,-and-Weightman|O'Toole, Bovard-Abbo, and Weightman]] * [[Erbas,-Ceulemans,-Lee-Pe,-Koval,-and-Kuppens|Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]] * [[Emotion-Regulation|Emotion Regulation]]
+
 
 
 ## Methodology Notes

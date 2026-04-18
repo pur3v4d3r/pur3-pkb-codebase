@@ -277,7 +277,7 @@ extraction_summary:
 #### 25. [SUMMARY] Untitled *(Line 264)*
 
 > [!summary] Untitled
-> Socratic questioning and personal knowledge management are not adjacent disciplines that happen to share some vocabulary; they are complementary cognitive architectures that, when integrated, produce an intellectual environment qualitatively superior to either alone. The theoretical synthesis can be stated in three propositions. First, knowledge is not collected but constructed, and the quality of that construction depends on the quality of the interrogative processes that shape it — a claim rooted in Socratic philosophy, confirmed by Deweyan pragmatism, and empirically supported by the cognitive science of [[Elaborative Encoding]] and [[Desirable-Difficulties|Desirable Difficulties]]. Second, PKM systems without embedded interrogative scaffolding are structurally biased toward information accumulation rather than knowledge construction — they optimize for storage and retrieval at the expense of understanding and synthesis. Third, the six-category taxonomy of Socratic questions developed by Paul and Elder provides the most operationally precise and practically implementable framework currently available for embedding interrogative depth into every stage of the PKM lifecycle, from initial capture through processing, review, and synthesis.
+> Socratic questioning and personal knowledge management are not adjacent disciplines that happen to share some vocabulary; they are complementary cognitive architectures that, when integrated, produce an intellectual environment qualitatively superior to either alone. The theoretical synthesis can be stated in three propositions. First, knowledge is not collected but constructed, and the quality of that construction depends on the quality of the interrogative processes that shape it — a claim rooted in Socratic philosophy, confirmed by Deweyan pragmatism, and empirically supported by the cognitive science of [[Elaborative-Encoding|Elaborative Encoding]] and [[Desirable-Difficulties|Desirable Difficulties]]. Second, PKM systems without embedded interrogative scaffolding are structurally biased toward information accumulation rather than knowledge construction — they optimize for storage and retrieval at the expense of understanding and synthesis. Third, the six-category taxonomy of Socratic questions developed by Paul and Elder provides the most operationally precise and practically implementable framework currently available for embedding interrogative depth into every stage of the PKM lifecycle, from initial capture through processing, review, and synthesis.
 > 
 > The practitioner who builds a Socratic PKM system is not merely organizing information more efficiently; they are constructing a *thinking environment* — an architecture of productive epistemic friction that, over time, systematically develops their capacity for precise thought, well-grounded reasoning, perspectival breadth, and genuine intellectual humility. This is the deepest argument for the Socratic PKM integration: not that it makes the knowledge base better (though it does), but that it makes the mind that built it better.
 
@@ -387,14 +387,14 @@ extraction_summary:
 - [[Automatic Thoughts]]
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Boghossian (2012)]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Chain-of-Verification|Chain of Verification]]
 - [[Christopher Langdell]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Schema]]
 - [[Conceptual Bridges]]
 - [[Cornell Critical Thinking Test]]
@@ -403,9 +403,9 @@ extraction_summary:
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulty]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Elements of Thought]]
+- [[Elements-of-Thought|Elements of Thought]]
 - [[Elenchus|Elenchus]]
 - [[Epistemic Depth]]
 - [[Epistemic Depth Metrics]]
@@ -442,7 +442,7 @@ extraction_summary:
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Pedagogical Method]]
-- [[Permanent Notes]]
+- [[Permanent-Notes|Permanent Notes]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plato]]
 - [[Progressive-Summarization|Progressive Summarization]]
@@ -485,12 +485,12 @@ extraction_summary:
 | 8 | [[Epistemic Friction]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 15 |
 | 9 | [[Vannevar Bush]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 17 |
 | 10 | [[Tiago Forte]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 17 |
-| 11 | [[Building a Second Brain]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 17 |
+| 11 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 17 |
 | 12 | [[Niklas Luhmann]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 17 |
 | 13 | [[Zettelkasten]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 17 |
 | 14 | [[Pedagogical Method]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
 | 15 | [[Higher-Order Thinking Skills]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
-| 16 | [[Cognitive Restructuring]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
+| 16 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
 | 17 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 19 |
 | 18 | [[Socrates]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 22 |
 | 19 | [[Plato]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 22 |
@@ -512,7 +512,7 @@ extraction_summary:
 | 35 | [[Richard-Paul|Richard Paul]] | — | — | The Modern Transformation: From Dialo... | 50 |
 | 36 | [[Linda-Elder|Linda Elder]] | — | — | The Modern Transformation: From Dialo... | 50 |
 | 37 | [[Foundation for Critical Thinking]] | — | — | The Modern Transformation: From Dialo... | 50 |
-| 38 | [[Elements of Thought]] | intellectual standards framework | — | The Modern Transformation: From Dialo... | 52 |
+| 38 | [[Elements-of-Thought|Elements of Thought]] | intellectual standards framework | — | The Modern Transformation: From Dialo... | 52 |
 | 39 | [[John-Dewey|John Dewey]] | — | — | Parallel Intellectual Currents: Dewey... | 61 |
 | 40 | [[Reflective-Thinking|Reflective Thinking]] | — | — | Parallel Intellectual Currents: Dewey... | 61 |
 | 41 | [[Benjamin-Bloom|Benjamin Bloom]] | — | — | Parallel Intellectual Currents: Dewey... | 63 |
@@ -548,7 +548,7 @@ extraction_summary:
 | 71 | [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] | — | — | Higher-Order Thinking and Academic Pe... | 165 |
 | 72 | [[Torrance Tests of Creative Thinking]] | — | — | Higher-Order Thinking and Academic Pe... | 165 |
 | 73 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
-| 74 | [[Cognitive Restructuring]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
+| 74 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
 | 75 | [[Automatic Thoughts]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
 | 76 | [[Cognitive Distortions]] | — | — | Evidence from CBT and Clinical Psycho... | 187 |
 | 77 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Learning from Failures: Where Socrati... | 198 |
@@ -562,11 +562,11 @@ extraction_summary:
 | 85 | [[Zettelkasten]] | — | — | The Knowledge Quality Spectrum | 216 |
 | 86 | [[Fleeting Notes]] | — | — | Customization and Workflow Integration | 222 |
 | 87 | [[Literature Notes]] | — | — | Customization and Workflow Integration | 222 |
-| 88 | [[Permanent Notes]] | — | — | Customization and Workflow Integration | 222 |
+| 88 | [[Permanent-Notes|Permanent Notes]] | — | — | Customization and Workflow Integration | 222 |
 | 89 | [[Second-Order Learning]] | — | — | Customization and Workflow Integration | 225 |
 | 90 | [[Epistemic Depth]] | — | — | Quantitative Models of Questioning Ef... | 246 |
 | 91 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Quantitative Models of Questioning Ef... | 246 |
-| 92 | [[Elaborative Encoding]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 265 |
+| 92 | [[Elaborative-Encoding|Elaborative Encoding]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 265 |
 | 93 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 265 |
 | 94 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
 | 95 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 272 |
@@ -695,14 +695,14 @@ $$
 - [[Automatic Thoughts]]
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Boghossian (2012)]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Chain-of-Verification|Chain of Verification]]
 - [[Christopher Langdell]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Distortions]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Schema]]
 - [[Conceptual Bridges]]
 - [[Cornell Critical Thinking Test]]
@@ -711,9 +711,9 @@ $$
 - [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Desirable Difficulty]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Elements of Thought]]
+- [[Elements-of-Thought|Elements of Thought]]
 - [[Elenchus|Elenchus]]
 - [[Epistemic Depth]]
 - [[Epistemic Depth Metrics]]
@@ -750,7 +750,7 @@ $$
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Pedagogical Method]]
-- [[Permanent Notes]]
+- [[Permanent-Notes|Permanent Notes]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plato]]
 - [[Progressive-Summarization|Progressive Summarization]]

@@ -646,7 +646,7 @@ But for an experienced PKM practitioner who has developed their own reliable cap
 >
 > **Report-Specific Significance:** PKM frameworks and methods should be evaluated not as universally applicable prescriptions but as solutions optimised for particular expertise levels. Practitioners should expect their optimal PKM design to evolve as their schemas develop, and should recognise resistance to previously helpful structures as a signal of expertise development rather than system failure.
 >
-> **See also:** [[Expertise-Reversal-Effect]], [[Faded-Worked-Example]], [[Cognitive-Load-Management-Strategies]], [[Self-Regulated-Learning]], [[Metacognition]]
+> **See also:** [[Expertise-Reversal-Effect]], [[faded-worked-example]], [[Cognitive-Load-Management-Strategies]], [[Self-Regulated-Learning]], [[Metacognition]]
 
 ### 8.2 The Evolution of Optimal PKM Design
 
@@ -938,7 +938,7 @@ The practical horizon of this analysis is not a specific PKM tool, method, or ar
 >
 > **Boundary:** The effect is domain-specific — an expert in one domain may simultaneously function as a novice in a related sub-domain, requiring different scaffolding levels for different elements of their work.
 >
-> **See also:** [[Expertise-Reversal-Effect]], [[Faded-Worked-Example]], [[Schema-Theory]], [[Self-Regulated-Learning]]
+> **See also:** [[Expertise-Reversal-Effect]], [[faded-worked-example]], [[Schema-Theory]], [[Self-Regulated-Learning]]
 
 > [!definition] **Element Interactivity (Sweller, 1994)**
 > The degree to which understanding a body of information requires simultaneous processing of multiple interdependent elements. High element interactivity (where elements must be grasped together) generates high intrinsic load; low element interactivity (where elements can be processed sequentially) generates low intrinsic load.

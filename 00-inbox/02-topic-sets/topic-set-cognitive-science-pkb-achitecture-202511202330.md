@@ -36,7 +36,7 @@ aliases: [Cognitive PKM Design, Science-Based Knowledge Management, Cognitive Ar
 The intersection of [[Cognitive-Science]] and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents one of the most fertile grounds for systematic PKB improvement. Your refactoring goal—to embed cognitive principles into the foundational architecture—moves beyond superficial organization toward designing a system that genuinely extends and complements human cognition rather than fighting against it.
 
 > [!principle-point] Core Insight: Cognitive Alignment Principle
-> An effective PKB should reduce [[Cognitive-Load]], support [[Schema Formation]], enable [[Metacognition]], and scaffold [[Self-Regulated-Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
+> An effective PKB should reduce [[Cognitive-Load]], support [[Schema-Formation]], enable [[Metacognition]], and scaffold [[Self-Regulated-Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
 
 ## 🧠 Essential Integration Topics
 
@@ -313,7 +313,7 @@ Your refactoring process should itself embody [[Incremental Learning]] principle
 
 3. **[[Cognitive Offloading vs. Cognitive Partnership in External Systems]]**
    - *Connection*: Addresses fundamental question: should your PKB simply store information (offloading) or actively enhance thinking processes (partnership)? Different cognitive science principles support different answers
-   - *Depth Potential*: Synthesis of [[Extended Mind Thesis]] (Clark & Chalmers), [[Distributed-Cognition]], and [[Cognitive Artifacts]] research with PKB design philosophy
+   - *Depth Potential*: Synthesis of [[Extended-Mind-Thesis]] (Clark & Chalmers), [[Distributed-Cognition]], and [[Cognitive Artifacts]] research with PKB design philosophy
    - *Knowledge Graph Role*: Theoretical foundation that shapes every architectural decision—determines whether you design for retrieval or for thinking augmentation
 
 4. **[[Affective Factors in Long-Term PKB Engagement]]**

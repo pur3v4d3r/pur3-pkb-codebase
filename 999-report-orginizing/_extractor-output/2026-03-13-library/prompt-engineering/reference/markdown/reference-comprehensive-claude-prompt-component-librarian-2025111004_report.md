@@ -562,7 +562,7 @@ extraction_summary:
 - [[Core-Role-Technical-Writer-v1]]
 - [[Core-Task-API-Documentation-v1]]
 - [[Data Analysis]]
-- [[Data Visualization]]
+- [[Data-Visualization|Data Visualization]]
 - [[Data Visualization MOC]]
 - [[Dataview]]
 - [[Execute Code]]
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Theory and Practice]]
 - [[Knowledge Synthesis]]
-- [[Machine Learning]]
+- [[Machine-Learning|Machine Learning]]
 - [[Machine Learning MOC]]
 - [[Map of Content]]
 - [[Meta-Learning and Self-Improving Systems]]
@@ -726,7 +726,7 @@ extraction_summary:
 | 86 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Integration with Existing Workflows | 599 |
 | 87 | [[Execute Code]] | — | — | Integration with Existing Workflows | 599 |
 | 88 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Integration with Existing Workflows | 603 |
-| 89 | [[Data Visualization]] | — | — | Integration with Existing Workflows | 603 |
+| 89 | [[Data-Visualization|Data Visualization]] | — | — | Integration with Existing Workflows | 603 |
 | 90 | [[Data Visualization MOC]] | — | — | Integration with Existing Workflows | 603 |
 | 91 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Integration with Existing Workflows | 603 |
 | 92 | [[Operational Workflows]] | — | — | 5. 🔄 Operational Workflows | 614 |
@@ -737,7 +737,7 @@ extraction_summary:
 | 97 | [[Templater]] | — | — | Automated Component Generation & Temp... | 789 |
 | 98 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Cross-Library Integration & Knowledge... | 811 |
 | 99 | [[wiki-links]] | — | — | Cross-Library Integration & Knowledge... | 813 |
-| 100 | [[Machine Learning]] | — | — | Cross-Library Integration & Knowledge... | 813 |
+| 100 | [[Machine-Learning|Machine Learning]] | — | — | Cross-Library Integration & Knowledge... | 813 |
 | 101 | [[Machine Learning MOC]] | — | — | Cross-Library Integration & Knowledge... | 813 |
 | 102 | [[Supervised Learning]] | — | — | Cross-Library Integration & Knowledge... | 813 |
 | 103 | [[Overfitting]] | — | — | Cross-Library Integration & Knowledge... | 813 |
@@ -1025,7 +1025,7 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 - [[Core-Role-Technical-Writer-v1]]
 - [[Core-Task-API-Documentation-v1]]
 - [[Data Analysis]]
-- [[Data Visualization]]
+- [[Data-Visualization|Data Visualization]]
 - [[Data Visualization MOC]]
 - [[Dataview]]
 - [[Execute Code]]
@@ -1034,7 +1034,7 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge Graph Theory and Practice]]
 - [[Knowledge Synthesis]]
-- [[Machine Learning]]
+- [[Machine-Learning|Machine Learning]]
 - [[Machine Learning MOC]]
 - [[Map of Content]]
 - [[Meta-Learning and Self-Improving Systems]]

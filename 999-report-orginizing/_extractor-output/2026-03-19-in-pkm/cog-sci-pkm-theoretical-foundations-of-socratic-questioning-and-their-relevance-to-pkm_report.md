@@ -176,7 +176,7 @@ extraction_summary:
 #### 10. [ANALOGY] Untitled *(Line 92)*
 
 > [!analogy] Untitled
-> The elenctic mechanism is architecturally similar to what the cognitive scientist [[Piaget]] called [[cognitive-dissonance|Cognitive Dissonance]] (though historically predating and conceptually preceding it): the state of tension that arises when a new piece of information or argument conflicts with existing cognitive structures. Just as a software debugger does not tell you the correct code but reveals the lines that conflict with the expected output, the Socratic questioner does not provide answers but reveals the points at which the interlocutor's beliefs generate contradictions. The resolution of those contradictions—cognitive *accommodation* in Piaget's vocabulary—is where genuine learning occurs.
+> The elenctic mechanism is architecturally similar to what the cognitive scientist [[Piaget]] called [[Cognitive-Dissonance|Cognitive Dissonance]] (though historically predating and conceptually preceding it): the state of tension that arises when a new piece of information or argument conflicts with existing cognitive structures. Just as a software debugger does not tell you the correct code but reveals the lines that conflict with the expected output, the Socratic questioner does not provide answers but reveals the points at which the interlocutor's beliefs generate contradictions. The resolution of those contradictions—cognitive *accommodation* in Piaget's vocabulary—is where genuine learning occurs.
 
 #### 11. [EVIDENCE] Untitled *(Line 99)*
 
@@ -345,11 +345,11 @@ extraction_summary:
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Assumption Hunting]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
@@ -358,7 +358,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Elizabeth Krumrei-Mancuso]]
 - [[Epistemic-Humility|Epistemic Humility]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes|Evergreen Notes]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Foundation for Critical Thinking]]
 - [[Gregory-Vlastos|Gregory Vlastos]]
@@ -432,12 +432,12 @@ extraction_summary:
 | 19 | [[Productive-Failure|Productive Failure]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 65 |
 | 20 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 65 |
 | 21 | [[Aporia]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 68 |
-| 22 | [[Evergreen Notes]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 70 |
+| 22 | [[Evergreen-Notes|Evergreen Notes]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 70 |
 | 23 | [[Zettelkasten]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 70 |
 | 24 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 77 |
 | 25 | [[Critical-Thinking|Critical Thinking]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 82 |
 | 26 | [[Piaget]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 93 |
-| 27 | [[cognitive-dissonance|Cognitive Dissonance]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 93 |
+| 27 | [[Cognitive-Dissonance|Cognitive Dissonance]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 93 |
 | 28 | [[Metacognition]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 95 |
 | 29 | [[Mark McDaniel]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 97 |
 | 30 | [[Testing-Effect|Testing Effect]] | — | — | ⚙️ Phase 4: Mechanisms — How It Works | 97 |
@@ -457,7 +457,7 @@ extraction_summary:
 | 44 | [[Productive-Failure|Productive Failure]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 128 |
 | 45 | [[Manu-Kapur|Manu Kapur]] | — | — | 📊 Phase 5: Evidence Base — What We Know | 128 |
 | 46 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🌍 Phase 6: Implications & Application... | 134 |
-| 47 | [[Building a Second Brain]] | — | — | 🌍 Phase 6: Implications & Application... | 139 |
+| 47 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 🌍 Phase 6: Implications & Application... | 139 |
 | 48 | [[Zettelkasten]] | — | — | 🌍 Phase 6: Implications & Application... | 139 |
 | 49 | [[Obsidian]] | — | — | 🌍 Phase 6: Implications & Application... | 142 |
 | 50 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🌍 Phase 6: Implications & Application... | 144 |
@@ -559,11 +559,11 @@ $$
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Assumption Hunting]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
@@ -572,7 +572,7 @@ $$
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Elizabeth Krumrei-Mancuso]]
 - [[Epistemic-Humility|Epistemic Humility]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes|Evergreen Notes]]
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 - [[Foundation for Critical Thinking]]
 - [[Gregory-Vlastos|Gregory Vlastos]]

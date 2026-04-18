@@ -179,7 +179,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Core Principle 1: The Monitoring-Control Duality**
->     - Metacognition operates through two complementary but distinct processes: [[Metacognitive-Monitoring|Metacognitive Monitoring]] (the assessment of one's current cognitive state) and [[Metacognitive-Control|Metacognitive Control]] (the regulation of cognitive processes based on that assessment). This duality, first articulated by [[Thomas Nelson]] and [[Louis Narens]] (1990), establishes metacognition as a cybernetic system with feedback loops analogous to those found in engineering control systems.[^9] The monitoring process involves tracking one's cognitive performance in real-time—am I understanding this concept? Is my current strategy working? How confident am I in this answer? This information flows from the object-level (the cognitive task itself) to the meta-level (the metacognitive system). The control process then uses this monitoring information to adjust cognitive strategies, allocate attention, modify approaches, or terminate unsuccessful efforts. This bidirectional flow—monitoring flowing upward from object-level to meta-level, control flowing downward from meta-level to object-level—creates a dynamic self-regulating system. The sophistication of this monitoring-control loop determines the quality of self-directed learning: individuals with more accurate monitoring and more flexible control demonstrate superior learning outcomes, adaptive problem-solving, and intellectual development.
+>     - Metacognition operates through two complementary but distinct processes: [[Metacognitive-Monitoring|Metacognitive Monitoring]] (the assessment of one's current cognitive state) and [[Metacognitive-Control|Metacognitive Control]] (the regulation of cognitive processes based on that assessment). This duality, first articulated by [[Thomas-Nelson|Thomas Nelson]] and [[Louis-Narens|Louis Narens]] (1990), establishes metacognition as a cybernetic system with feedback loops analogous to those found in engineering control systems.[^9] The monitoring process involves tracking one's cognitive performance in real-time—am I understanding this concept? Is my current strategy working? How confident am I in this answer? This information flows from the object-level (the cognitive task itself) to the meta-level (the metacognitive system). The control process then uses this monitoring information to adjust cognitive strategies, allocate attention, modify approaches, or terminate unsuccessful efforts. This bidirectional flow—monitoring flowing upward from object-level to meta-level, control flowing downward from meta-level to object-level—creates a dynamic self-regulating system. The sophistication of this monitoring-control loop determines the quality of self-directed learning: individuals with more accurate monitoring and more flexible control demonstrate superior learning outcomes, adaptive problem-solving, and intellectual development.
 
 #### 8. [QUOTE] Untitled *(Line 95)*
 
@@ -411,7 +411,7 @@ extraction_summary:
 - [[Alexander Luria]]
 - [[Alexander Rounis]]
 - [[Ann-Brown|Ann Brown]]
-- [[Asher Koriat]]
+- [[Asher-Koriat|Asher Koriat]]
 - [[Assimilation-(Constructivist-Learning)]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bayesian metacognition models]]
@@ -447,7 +447,7 @@ extraction_summary:
 - [[Karl-Popper|Karl Popper]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Liang Qiu]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Markman's comprehension monitoring research]]
 - [[María Teresa Sánchez-López]]
 - [[Matthias Michel]]
@@ -460,7 +460,7 @@ extraction_summary:
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Planning]]
-- [[Metacognitive therapy]]
+- [[Metacognitive-Therapy|Metacognitive therapy]]
 - [[Michael Tomasello]]
 - [[Michelene Chi]]
 - [[Mindfulness and Metacognitive Awareness]]
@@ -488,7 +488,7 @@ extraction_summary:
 - [[Socratic Method and Metacognitive Dialogue]]
 - [[Stephen-Fleming|Stephen Fleming]]
 - [[Theory of Mind Development]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Veenman and colleagues' research]]
 - [[William-James|William James]]
 - [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]]
@@ -502,13 +502,13 @@ extraction_summary:
 - [[dorsomedial prefrontal cortex]]
 - [[executive functions]]
 - [[inferior parietal lobule]]
-- [[inner speech]]
+- [[Inner-Speech|inner speech]]
 - [[intelligent tutoring systems]]
 - [[introspectionist movement]]
 - [[knowing about knowing]]
 - [[lateral frontopolar cortex]]
 - [[medial prefrontal cortex]]
-- [[metamemory]]
+- [[Metamemory]]
 - [[overconfidence]]
 - [[posterior cingulate cortex]]
 - [[prefrontal-cortex|prefrontal cortex]]
@@ -552,11 +552,11 @@ extraction_summary:
 | 22 | [[reflective abstraction]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
 | 23 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 24 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
-| 25 | [[inner speech]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
+| 25 | [[Inner-Speech|inner speech]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 26 | [[Alexander Luria]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 27 | [[2025-11-04]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 28 | [[John-H.-Flavell|John H. Flavell]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
-| 29 | [[metamemory]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
+| 29 | [[Metamemory]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
 | 30 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
 | 31 | [[Metacognitive-Experiences|Metacognitive Experiences]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 73 |
 | 32 | [[Ann-Brown|Ann Brown]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
@@ -570,8 +570,8 @@ extraction_summary:
 | 40 | [[William-James|William James]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
 | 41 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
 | 42 | [[Metacognitive-Control|Metacognitive Control]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
-| 43 | [[Thomas Nelson]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
-| 44 | [[Louis Narens]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
+| 43 | [[Thomas-Nelson|Thomas Nelson]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
+| 44 | [[Louis-Narens|Louis Narens]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
 | 45 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 103 |
 | 46 | [[overconfidence]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 104 |
 | 47 | [[underconfidence]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 104 |
@@ -591,7 +591,7 @@ extraction_summary:
 | 61 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 128 |
 | 62 | [[Metacognitive Planning]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
 | 63 | [[Prospective Metacognition]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
-| 64 | [[Asher Koriat]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
+| 64 | [[Asher-Koriat|Asher Koriat]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
 | 65 | [[Illusions of Comprehension]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 132 |
 | 66 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 138 |
 | 67 | [[rostrolateral prefrontal cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 140 |
@@ -606,9 +606,9 @@ extraction_summary:
 | 76 | [[dorsal anterior cingulate cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
 | 77 | [[Anterior-Insular-Cortex|anterior insular cortex]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
 | 78 | [[inferior parietal lobule]] | — | — | 4.2 NEUROPSYCHOLOGICAL MECHANISMS | 144 |
-| 79 | [[inner speech]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 156 |
+| 79 | [[Inner-Speech|inner speech]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 156 |
 | 80 | [[Private Speech]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 156 |
-| 81 | [[inner speech]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 156 |
+| 81 | [[Inner-Speech|inner speech]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 156 |
 | 82 | [[self-explanation effects]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 160 |
 | 83 | [[Michelene Chi]] | — | — | 4.3 THE MEDIATING ROLE OF LANGUAGE AN... | 160 |
 | 84 | [[Flavell's metamemory studies]] | — | — | 5.1 DEVELOPMENTAL EVIDENCE | 174 |
@@ -650,7 +650,7 @@ extraction_summary:
 | 120 | [[Claudia Roebers]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 259 |
 | 121 | [[Delay of gratification]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 263 |
 | 122 | [[self-control]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 263 |
-| 123 | [[Metacognitive therapy]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 267 |
+| 123 | [[Metacognitive-Therapy|Metacognitive therapy]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 267 |
 | 124 | [[Adrian Wells]] | — | — | 6.3 METACOGNITION AS THE ARCHITECTURE... | 267 |
 | 125 | [[Matthias Michel]] | — | — | 7.1 THE NEURAL MECHANISMS OF METACOGN... | 284 |
 | 126 | [[two-stage signal detection model]] | — | — | 7.1 THE NEURAL MECHANISMS OF METACOGN... | 286 |
@@ -759,7 +759,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Alexander Luria]]
 - [[Alexander Rounis]]
 - [[Ann-Brown|Ann Brown]]
-- [[Asher Koriat]]
+- [[Asher-Koriat|Asher Koriat]]
 - [[Assimilation-(Constructivist-Learning)]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bayesian metacognition models]]
@@ -795,7 +795,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Karl-Popper|Karl Popper]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Liang Qiu]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Markman's comprehension monitoring research]]
 - [[María Teresa Sánchez-López]]
 - [[Matthias Michel]]
@@ -808,7 +808,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Planning]]
-- [[Metacognitive therapy]]
+- [[Metacognitive-Therapy|Metacognitive therapy]]
 - [[Michael Tomasello]]
 - [[Michelene Chi]]
 - [[Mindfulness and Metacognitive Awareness]]
@@ -836,7 +836,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Socratic Method and Metacognitive Dialogue]]
 - [[Stephen-Fleming|Stephen Fleming]]
 - [[Theory of Mind Development]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Veenman and colleagues' research]]
 - [[William-James|William James]]
 - [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]]
@@ -850,13 +850,13 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[dorsomedial prefrontal cortex]]
 - [[executive functions]]
 - [[inferior parietal lobule]]
-- [[inner speech]]
+- [[Inner-Speech|inner speech]]
 - [[intelligent tutoring systems]]
 - [[introspectionist movement]]
 - [[knowing about knowing]]
 - [[lateral frontopolar cortex]]
 - [[medial prefrontal cortex]]
-- [[metamemory]]
+- [[Metamemory]]
 - [[overconfidence]]
 - [[posterior cingulate cortex]]
 - [[prefrontal-cortex|prefrontal cortex]]

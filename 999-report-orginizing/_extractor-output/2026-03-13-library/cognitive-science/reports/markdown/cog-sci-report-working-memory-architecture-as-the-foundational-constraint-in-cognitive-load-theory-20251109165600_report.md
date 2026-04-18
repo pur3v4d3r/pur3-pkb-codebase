@@ -272,7 +272,7 @@ extraction_summary:
 - [[K. Anders Ericsson]]
 - [[Kolmogorov complexity]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Working Memory]]
+- [[Long-Term-Working-Memory|Long-Term Working Memory]]
 - [[Long-Term Working Memory Theory]]
 - [[Memory Systems and Learning]]
 - [[Metacognitive Regulation of Cognitive Load]]
@@ -289,9 +289,9 @@ extraction_summary:
 - [[Zettelkasten]]
 - [[Cognitive-Load|cognitive load]]
 - [[Distributed-Cognition|distributed cognition]]
-- [[dopamine]]
+- [[Dopamine]]
 - [[dorsolateral prefrontal cortex]]
-- [[dual-task interference]]
+- [[Dual-Task-Interference|dual-task interference]]
 - [[Element-Interactivity|element interactivity]]
 - [[Episodic-Buffer|episodic buffer]]
 - [[external cognitive artifacts]]
@@ -346,7 +346,7 @@ extraction_summary:
 | 29 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 75 |
 | 30 | [[schemas]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 79 |
 | 31 | [[automation]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 83 |
-| 32 | [[Long-Term Working Memory]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
+| 32 | [[Long-Term-Working-Memory|Long-Term Working Memory]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 33 | [[K. Anders Ericsson]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 34 | [[Walter-Kintsch|Walter Kintsch]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 35 | [[Retrieval Structures]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
@@ -358,9 +358,9 @@ extraction_summary:
 | 41 | [[Phonological-Loop|phonological loop]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
 | 42 | [[Visuospatial-Sketchpad|visuospatial sketchpad]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
 | 43 | [[Episodic-Buffer|episodic buffer]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
-| 44 | [[dual-task interference]] | — | — | ⚡ Attention Allocation and Cognitive ... | 96 |
+| 44 | [[Dual-Task-Interference|dual-task interference]] | — | — | ⚡ Attention Allocation and Cognitive ... | 96 |
 | 45 | [[GABA]] | — | — | ⚡ Attention Allocation and Cognitive ... | 100 |
-| 46 | [[dopamine]] | — | — | ⚡ Attention Allocation and Cognitive ... | 100 |
+| 46 | [[Dopamine]] | — | — | ⚡ Attention Allocation and Cognitive ... | 100 |
 | 47 | [[D1 receptors]] | — | — | ⚡ Attention Allocation and Cognitive ... | 100 |
 | 48 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
 | 49 | [[Cognitive-Load|cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
@@ -516,7 +516,7 @@ Search Strategy:
 - [[K. Anders Ericsson]]
 - [[Kolmogorov complexity]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Working Memory]]
+- [[Long-Term-Working-Memory|Long-Term Working Memory]]
 - [[Long-Term Working Memory Theory]]
 - [[Memory Systems and Learning]]
 - [[Metacognitive Regulation of Cognitive Load]]
@@ -533,9 +533,9 @@ Search Strategy:
 - [[Zettelkasten]]
 - [[Cognitive-Load|cognitive load]]
 - [[Distributed-Cognition|distributed cognition]]
-- [[dopamine]]
+- [[Dopamine]]
 - [[dorsolateral prefrontal cortex]]
-- [[dual-task interference]]
+- [[Dual-Task-Interference|dual-task interference]]
 - [[Element-Interactivity|element interactivity]]
 - [[Episodic-Buffer|episodic buffer]]
 - [[external cognitive artifacts]]

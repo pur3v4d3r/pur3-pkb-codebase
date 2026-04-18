@@ -145,7 +145,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This exposition examines the deep structural relationship between [[Metacognition]] and [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]], arguing that metacognitive capacity is not merely one useful skill among many in PKM practice but rather the architectural foundation upon which the entire enterprise of intelligent self-directed knowledge work depends. Without metacognition—the capacity to observe, evaluate, and regulate one's own cognitive processes—a PKM system is reduced to an elaborate filing cabinet: objects accumulate, but no living intelligence governs what is retained, how connections are drawn, when knowledge is sufficient, or where understanding has failed. With metacognition, the same system becomes a cognitive amplifier, a second mind that not only stores but reflects, not only organizes but interrogates.
 > 
-> The argument unfolds across eight phases. Beginning with the intellectual history of metacognition from Aristotle through [[John-Flavell|John Flavell]]'s foundational 1979 model, the exposition establishes the theoretical architecture of the construct, distinguishing its two primary dimensions—[[Metacognitive-Knowledge|Metacognitive Knowledge]] and [[Metacognitive-Regulation|Metacognitive Regulation]]—and elaborating Flavell's four-component taxonomy of metacognitive knowledge (person variables, task variables, strategy variables, and the often-neglected [[Metacognitive-Experiences|Metacognitive Experiences]]). It then maps these theoretical constructs directly onto the core processes of PKM: capture, organization, elaboration, retrieval, and synthesis. The middle sections develop a comprehensive account of the mechanisms by which metacognitive skills transform PKM practice, marshaling evidence from cognitive science, educational psychology, and empirical PKM research. The exposition concludes by constructing a practical, evidence-based framework for fostering metacognitive skills within PKM workflows, with specific attention to [[Obsidian]]-based vault architectures, the [[Zettelkasten]] method, Tiago Forte's [[Building a Second Brain (BASB)]] methodology, and Harold Jarche's [[Seek-Sense-Share Framework]].
+> The argument unfolds across eight phases. Beginning with the intellectual history of metacognition from Aristotle through [[John-Flavell|John Flavell]]'s foundational 1979 model, the exposition establishes the theoretical architecture of the construct, distinguishing its two primary dimensions—[[Metacognitive-Knowledge|Metacognitive Knowledge]] and [[Metacognitive-Regulation|Metacognitive Regulation]]—and elaborating Flavell's four-component taxonomy of metacognitive knowledge (person variables, task variables, strategy variables, and the often-neglected [[Metacognitive-Experiences|Metacognitive Experiences]]). It then maps these theoretical constructs directly onto the core processes of PKM: capture, organization, elaboration, retrieval, and synthesis. The middle sections develop a comprehensive account of the mechanisms by which metacognitive skills transform PKM practice, marshaling evidence from cognitive science, educational psychology, and empirical PKM research. The exposition concludes by constructing a practical, evidence-based framework for fostering metacognitive skills within PKM workflows, with specific attention to [[Obsidian]]-based vault architectures, the [[Zettelkasten]] method, Tiago Forte's [[Building-a-Second-Brain|Building a Second Brain (BASB)]] methodology, and Harold Jarche's [[Seek-Sense-Share Framework]].
 > 
 > The central intellectual contribution is a unified theoretical model—the **Metacognitive PKM Architecture**—which positions metacognitive monitoring and regulation as the governing intelligence layer of any effective personal knowledge system, and derives from this model concrete design principles for PKM systems intended to be not merely repositories of information but dynamic instruments of intellectual growth.
 
@@ -435,7 +435,7 @@ extraction_summary:
 - [[Ann-Brown|Ann Brown]]
 - [[Aristotle]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Building a Second Brain (BASB)]]
+- [[Building-a-Second-Brain|Building a Second Brain (BASB)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Communities-of-Practice|Communities of Practice]]
@@ -464,7 +464,7 @@ extraction_summary:
 - [[John-H.-Flavell|John H. Flavell]]
 - [[Kahneman's Thinking Fast and Slow]]
 - [[Knowledge-of-Cognition|Knowledge of Cognition]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Metacognition]]
 - [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory (MAI)]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
@@ -492,7 +492,7 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stephen-Fleming|Stephen Fleming]]
 - [[The Social Dimension of Metacognitive PKM — Sharing as Calibration]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Transfer-Appropriate-Processing|Transfer Appropriate Processing]]
 - [[Transfer Problem]]
 - [[Transfer Problem in Critical Thinking]]
@@ -513,7 +513,7 @@ extraction_summary:
 | 6 | [[Metacognitive-Experiences|Metacognitive Experiences]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 7 | [[Obsidian]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 8 | [[Zettelkasten]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
-| 9 | [[Building a Second Brain (BASB)]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
+| 9 | [[Building-a-Second-Brain|Building a Second Brain (BASB)]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 10 | [[Seek-Sense-Share Framework]] | — | — | 🧠 The Role of Metacognition in Person... | 14 |
 | 11 | [[John-H.-Flavell|John H. Flavell]] | — | — | 🎼 Phase 1: Overture & Foundation | 23 |
 | 12 | [[Dave Snowden]] | — | — | 🎼 Phase 1: Overture & Foundation | 26 |
@@ -536,13 +536,13 @@ extraction_summary:
 | 29 | [[Seek-Sense-Share Framework]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 30 | [[David Allen]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 31 | [[Getting-Things-Done|Getting Things Done (GTD)]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
-| 32 | [[Building a Second Brain (BASB)]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
+| 32 | [[Building-a-Second-Brain|Building a Second Brain (BASB)]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 33 | [[PARA-Method|PARA Method]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 34 | [[Progressive-Summarization|Progressive Summarization]] | — | — | The Evolution of PKM as an Intellectu... | 53 |
 | 35 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | The Bipartite Framework: Knowledge an... | 77 |
 | 36 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | The Bipartite Framework: Knowledge an... | 77 |
-| 37 | [[Thomas Nelson]] | — | — | The Nelson-Narens Control Model | 87 |
-| 38 | [[Louis Narens]] | — | — | The Nelson-Narens Control Model | 87 |
+| 37 | [[Thomas-Nelson|Thomas Nelson]] | — | — | The Nelson-Narens Control Model | 87 |
+| 38 | [[Louis-Narens|Louis Narens]] | — | — | The Nelson-Narens Control Model | 87 |
 | 39 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Capture Phase: Metacognitive Sele... | 106 |
 | 40 | [[Kahneman's Thinking Fast and Slow]] | — | — | The Capture Phase: Metacognitive Sele... | 106 |
 | 41 | [[Niklas Luhmann]] | — | — | The Elaboration Phase: Metacognitive ... | 115 |
@@ -640,7 +640,7 @@ extraction_summary:
 - [[Ann-Brown|Ann Brown]]
 - [[Aristotle]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
-- [[Building a Second Brain (BASB)]]
+- [[Building-a-Second-Brain|Building a Second Brain (BASB)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Communities-of-Practice|Communities of Practice]]
@@ -669,7 +669,7 @@ extraction_summary:
 - [[John-H.-Flavell|John H. Flavell]]
 - [[Kahneman's Thinking Fast and Slow]]
 - [[Knowledge-of-Cognition|Knowledge of Cognition]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Metacognition]]
 - [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory (MAI)]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
@@ -697,7 +697,7 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stephen-Fleming|Stephen Fleming]]
 - [[The Social Dimension of Metacognitive PKM — Sharing as Calibration]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Transfer-Appropriate-Processing|Transfer Appropriate Processing]]
 - [[Transfer Problem]]
 - [[Transfer Problem in Critical Thinking]]

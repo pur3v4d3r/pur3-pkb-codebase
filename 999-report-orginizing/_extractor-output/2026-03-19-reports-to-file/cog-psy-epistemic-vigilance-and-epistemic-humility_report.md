@@ -137,7 +137,7 @@ extraction_summary:
 - [[Cultural Transmission]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Evolutionary Psychology Principles]]
 - [[Intellectual Humility Project]]
 - [[Justification]]
@@ -150,7 +150,7 @@ extraction_summary:
 - [[Second-Order Beliefs]]
 - [[Social Psychology]]
 - [[Socratic-Method|Socratic Method]]
-- [[Source Monitoring]]
+- [[Source-Monitoring|Source Monitoring]]
 - [[Stoic Epistemology]]
 - [[Testimonial Knowledge]]
 - [[The Argumentative Theory of Reasoning]]
@@ -176,7 +176,7 @@ extraction_summary:
 | 10 | [[Testimonial Knowledge]] | — | — | Foundational Architecture | 30 |
 | 11 | [[Cultural Transmission]] | — | — | Foundational Architecture | 32 |
 | 12 | [[Theory of Mind]] | — | — | Foundational Architecture | 42 |
-| 13 | [[Source Monitoring]] | — | — | Foundational Architecture | 42 |
+| 13 | [[Source-Monitoring|Source Monitoring]] | — | — | Foundational Architecture | 42 |
 | 14 | [[Pragmatics]] | — | — | Enrichment: Evidence, Mechanisms, and... | 63 |
 | 15 | [[Relevance Theory]] | — | — | Enrichment: Evidence, Mechanisms, and... | 63 |
 | 16 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Enrichment: Evidence, Mechanisms, and... | 75 |
@@ -184,7 +184,7 @@ extraction_summary:
 | 18 | [[Critical-Thinking|Critical Thinking]] | — | — | Enrichment: Evidence, Mechanisms, and... | 79 |
 | 19 | [[Theory of Mind]] | — | — | Integration: Connections, Application... | 87 |
 | 20 | [[Bayesian-Reasoning|Bayesian Reasoning]] | — | — | Integration: Connections, Application... | 87 |
-| 21 | [[Evolutionary Psychology]] | — | — | Integration: Connections, Application... | 87 |
+| 21 | [[Evolutionary-Psychology|Evolutionary Psychology]] | — | — | Integration: Connections, Application... | 87 |
 | 22 | [[Availability-Heuristic|Availability Heuristic]] | — | — | Integration: Connections, Application... | 112 |
 | 23 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Foundational Architecture | 129 |
 | 24 | [[Second-Order Beliefs]] | — | — | Foundational Architecture | 133 |
@@ -240,7 +240,7 @@ extraction_summary:
 - [[Cultural Transmission]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Evolutionary Psychology Principles]]
 - [[Intellectual Humility Project]]
 - [[Justification]]
@@ -253,7 +253,7 @@ extraction_summary:
 - [[Second-Order Beliefs]]
 - [[Social Psychology]]
 - [[Socratic-Method|Socratic Method]]
-- [[Source Monitoring]]
+- [[Source-Monitoring|Source Monitoring]]
 - [[Stoic Epistemology]]
 - [[Testimonial Knowledge]]
 - [[The Argumentative Theory of Reasoning]]

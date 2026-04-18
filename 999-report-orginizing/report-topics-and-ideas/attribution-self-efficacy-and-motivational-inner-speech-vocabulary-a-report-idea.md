@@ -28,7 +28,7 @@ connections:
 - [[Attribution-Theory]]
 - [[Goal Setting]]
 - [[Academic Reading]]
-- [[Inner Speech]]
+- [[Inner-Speech]]
 - [[Vocabulary]]
 - [[Mental-Models]]
 - [[Strategies]]

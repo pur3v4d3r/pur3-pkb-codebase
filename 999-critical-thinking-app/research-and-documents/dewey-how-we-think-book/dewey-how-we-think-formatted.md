@@ -3127,7 +3127,7 @@ Drawing on real student examples arranged from rudimentary to complex, Dewey dem
 
 - Builds on: [[Chapter Five]] — *Chapter Five criticized purely formal thinking detached from life-situations; Chapter Six provides concrete cases that show what situated, genuinely inferential thinking looks like in contrast.*
 - Anticipates: [[Chapter Seven]] — *Chapter Six closes by announcing that the next chapter will extract an analytic account of what the three cases share in common, pointing directly to the five-phase model of reflective thought.*
-- Contrasts with: [[Formal Logic]] — *Dewey explicitly contrasts genuine inference — arising from lived situations, involving a leap, tested against consequences — with exclusively formal thought that never engages actual perplexed situations.*
+- Contrasts with: [[Formal-Logic]] — *Dewey explicitly contrasts genuine inference — arising from lived situations, involving a leap, tested against consequences — with exclusively formal thought that never engages actual perplexed situations.*
 - Contrasts with: [[Decontextualized School Problems]] — *Textbook arithmetic problems solved by rote are contrasted with the lumberyard purchase, where situational stakes compel genuine thought.*
 
 

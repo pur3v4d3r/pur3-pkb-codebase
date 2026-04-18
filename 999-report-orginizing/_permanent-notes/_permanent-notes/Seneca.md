@@ -79,4 +79,4 @@ importance: medium
 - [[Somatic-Marker-Hypothesis]]
 - [[The-Stoic-Core-Insight]]
 - [[Theory-of-Constructed-Emotion]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

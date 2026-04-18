@@ -37,7 +37,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -473,6 +473,38 @@ importance: high
 - [[The-Schema-Progressive-Architecture-for-PKB-Design|The-Schema-Progressive-Architecture-for-PKB-Design]]
 - [[Schema-Crystallization-Event|Schema-Crystallization-Event]]
 
+**Cross-report connections** *(from [[schema-construction-problem-focused-analysis-2026-03-22]])*:
+- [[Scaffolding|Scaffolding]]
+
+**Cross-report connections** *(from [[schema-construction-problem-focused-analysis-2026-03-22]])*:
+- [[Thomas-Kuhn|Thomas-Kuhn]]
+
+**Cross-report connections** *(from [[schema-construction-problem-focused-analysis-2026-03-22]])*:
+- [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema-Construction-Problem-—-Original-Analytical-Insight]]
+- [[Schema-Theory-and-Learning|Schema-Theory-and-Learning]]
+- [[Schema-Progressive-Architecture|Schema-Progressive-Architecture]]
+- [[The-Schema-Progressive-Architecture-for-PKB-Design|The-Schema-Progressive-Architecture-for-PKB-Design]]
+- [[Schema-Crystallization-Event|Schema-Crystallization-Event]]
+
+**Cross-report connections** *(from [[schema-construction-problem-focused-analysis-2026-03-22]])*:
+- [[Scaffolding|Scaffolding]]
+
+**Cross-report connections** *(from [[schema-construction-problem-focused-analysis-2026-03-22]])*:
+- [[Thomas-Kuhn|Thomas-Kuhn]]
+
+**Cross-report connections** *(from [[schema-construction-problem-focused-analysis-2026-03-22]])*:
+- [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema-Construction-Problem-—-Original-Analytical-Insight]]
+- [[Schema-Theory-and-Learning|Schema-Theory-and-Learning]]
+- [[Schema-Progressive-Architecture|Schema-Progressive-Architecture]]
+- [[The-Schema-Progressive-Architecture-for-PKB-Design|The-Schema-Progressive-Architecture-for-PKB-Design]]
+- [[Schema-Crystallization-Event|Schema-Crystallization-Event]]
+
+
+
+
+
+
+
 
 
 
@@ -508,6 +540,60 @@ importance: high
 - **Ausubel, D.P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272.**: The foundational advance organizer paper. The analysis here argues that advance organizers address degree novelty but are insufficient for categorical novelty, which requires structural analogue pre-teaching.
 
 - **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The deliberate practice framework extending the chess chunking findings to expertise development broadly. Provides the longitudinal time-scale evidence for schema construction.
+
+- **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational empirical work demonstrating schema-guided reconstruction in memory. Bartlett's serial reproduction paradigm remains the clearest experimental evidence for schemas operating — and is, as this report argues, silent on how those schemas were formed. Essential for Phase III.
+
+- **Bransford, J.D., & Johnson, M.K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The "schema timing" paradigm demonstrating that schemas must be active *during* comprehension to be effective. The post-context condition evidence directly motivates the Schema-Timing Paradox in Phase III.
+
+- **Chase, W.G., & Simon, H.A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81.**: The chess chunk studies providing the clearest evidence for schema construction through expertise development. The 50,000 chunks estimate and the 10-year rule are central to Phase III.
+
+- **Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170.**: The foundational paper on Structural Mapping Theory, providing the theoretical framework for the analogy-as-scaffolding mechanism analyzed in Phase IV. The core of the Analogy-First Instructional Principle.
+
+- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.**: Piaget's developmental account of schema construction through sensorimotor interaction. The stage transition evidence is central to Phase III's claim that schema construction has a discontinuous character. The equilibration mechanism is the developmental precursor to the crystallization event model.
+
+- **Rumelhart, D.E. (1980). Schemata: The building blocks of cognition. In R.J. Spiro, B.C. Bruce, & W.F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: The canonical Schema Theory formalization. The three-mode learning model (accretion, tuning, restructuring) is the theoretical foundation for this report's analysis of the construction-activation asymmetry.
+
+- **Rumelhart, D.E., & Norman, D.A. (1978). Accretion, tuning, and restructuring: Three modes of learning. In J.W. Cotton & R.L. Klatzky (Eds.), *Semantic Factors in Cognition* (pp. 37–53). Erlbaum.**: The original three-mode learning taxonomy. Restructuring receives the thinnest theoretical development of the three modes — a fact central to this report's diagnosis of the construction-activation asymmetry.
+
+- **Ausubel, D.P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272.**: The foundational advance organizer paper. The analysis here argues that advance organizers address degree novelty but are insufficient for categorical novelty, which requires structural analogue pre-teaching.
+
+- **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The deliberate practice framework extending the chess chunking findings to expertise development broadly. Provides the longitudinal time-scale evidence for schema construction.
+
+- **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational empirical work demonstrating schema-guided reconstruction in memory. Bartlett's serial reproduction paradigm remains the clearest experimental evidence for schemas operating — and is, as this report argues, silent on how those schemas were formed. Essential for Phase III.
+
+- **Bransford, J.D., & Johnson, M.K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The "schema timing" paradigm demonstrating that schemas must be active *during* comprehension to be effective. The post-context condition evidence directly motivates the Schema-Timing Paradox in Phase III.
+
+- **Chase, W.G., & Simon, H.A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81.**: The chess chunk studies providing the clearest evidence for schema construction through expertise development. The 50,000 chunks estimate and the 10-year rule are central to Phase III.
+
+- **Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170.**: The foundational paper on Structural Mapping Theory, providing the theoretical framework for the analogy-as-scaffolding mechanism analyzed in Phase IV. The core of the Analogy-First Instructional Principle.
+
+- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.**: Piaget's developmental account of schema construction through sensorimotor interaction. The stage transition evidence is central to Phase III's claim that schema construction has a discontinuous character. The equilibration mechanism is the developmental precursor to the crystallization event model.
+
+- **Rumelhart, D.E. (1980). Schemata: The building blocks of cognition. In R.J. Spiro, B.C. Bruce, & W.F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: The canonical Schema Theory formalization. The three-mode learning model (accretion, tuning, restructuring) is the theoretical foundation for this report's analysis of the construction-activation asymmetry.
+
+- **Rumelhart, D.E., & Norman, D.A. (1978). Accretion, tuning, and restructuring: Three modes of learning. In J.W. Cotton & R.L. Klatzky (Eds.), *Semantic Factors in Cognition* (pp. 37–53). Erlbaum.**: The original three-mode learning taxonomy. Restructuring receives the thinnest theoretical development of the three modes — a fact central to this report's diagnosis of the construction-activation asymmetry.
+
+- **Ausubel, D.P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272.**: The foundational advance organizer paper. The analysis here argues that advance organizers address degree novelty but are insufficient for categorical novelty, which requires structural analogue pre-teaching.
+
+- **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The deliberate practice framework extending the chess chunking findings to expertise development broadly. Provides the longitudinal time-scale evidence for schema construction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

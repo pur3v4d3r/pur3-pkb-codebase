@@ -3,7 +3,7 @@ title: Levels of Processing Theory (Craik & Lockhart)
 aliases:
   - "[[Levels-of-Processing|Levels of Processing]]"
   - "[[LOP-Theory|LOP Theory]]"
-  - "[[Depth of Processing]]"
+  - "[[Depth-of-Processing|Depth of Processing]]"
   - "[[Craik-Lockhart Framework]]"
 type: permanent-note
 status: evergreen
@@ -117,7 +117,7 @@ applied-in:
   - "[[Study Strategy Design]]"
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Curriculum Development]]"
-  - "[[Formative Assessment Design]]"
+  - "[[Formative-Assessment-Design|Formative Assessment Design]]"
 builds-on:
   - "[[Working-Memory|Working Memory]]"
   - "[[Atkinson-Shiffrin-Multi-Store-Model|Atkinson-Shiffrin Multi-Store Model]]"
@@ -390,7 +390,7 @@ The [[Levels-of-Processing|Levels of Processing]] framework has generated a rich
 
 The [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] perspective, taken alongside LOP, has direct implications for assessment design. If students study by encoding material semantically but are then tested on surface features (e.g., "Was this term defined in Chapter 3 or Chapter 4?"), the encoding-retrieval match is poor. More profoundly, if students are repeatedly assessed using recognition formats (multiple-choice questions with identical wording to lecture), the assessment inadvertently trains students toward shallower encoding strategies, because recognition success can often be achieved without deep semantic processing.
 
-Assessment formats that require generation, application, comparison, or explanation — constructed-response, short-answer, essay, problem-solving — create retrieval demands that reward and reinforce deep processing strategies at study. This creates a virtuous cycle: students who are regularly tested with generation-requiring formats learn, often unconsciously, to encode material more deeply in anticipation of those test demands. [[Formative Assessment Design]] consistent with [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] should therefore prioritize retrieval practice formats that are transfer-appropriate to the kind of semantic understanding the course aims to develop.
+Assessment formats that require generation, application, comparison, or explanation — constructed-response, short-answer, essay, problem-solving — create retrieval demands that reward and reinforce deep processing strategies at study. This creates a virtuous cycle: students who are regularly tested with generation-requiring formats learn, often unconsciously, to encode material more deeply in anticipation of those test demands. [[Formative-Assessment-Design|Formative Assessment Design]] consistent with [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] should therefore prioritize retrieval practice formats that are transfer-appropriate to the kind of semantic understanding the course aims to develop.
 
 ### Limitations: The Circularity Problem
 

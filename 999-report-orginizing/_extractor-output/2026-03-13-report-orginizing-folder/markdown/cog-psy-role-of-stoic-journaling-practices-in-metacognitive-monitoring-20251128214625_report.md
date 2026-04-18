@@ -349,7 +349,7 @@ extraction_summary:
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Behavioral-Modification|Behavioral Modification]]
 - [[Cognition]]
-- [[Cognitive Arousal]]
+- [[Cognitive-Arousal|Cognitive Arousal]]
 - [[Cognitive Behavioral Therapy and Stoicism Convergence]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive-Distortion|Cognitive Distortion]]
@@ -375,7 +375,7 @@ extraction_summary:
 - [[Implementation-Intention|Implementation Intention]]
 - [[Journaling]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Medial Prefrontal Cortex]]
 - [[Memory-Consolidation|Memory Consolidation]]
@@ -481,7 +481,7 @@ extraction_summary:
 | 67 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
 | 68 | [[Stoicism]] | Stoic | — | 💤 Memory Consolidation: The Neuroscie... | 182 |
 | 69 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | 💤 Memory Consolidation: The Neuroscie... | 186 |
-| 70 | [[Cognitive Arousal]] | cognitive arousal | — | 💤 Memory Consolidation: The Neuroscie... | 188 |
+| 70 | [[Cognitive-Arousal|Cognitive Arousal]] | cognitive arousal | — | 💤 Memory Consolidation: The Neuroscie... | 188 |
 | 71 | [[Memory-Consolidation|Memory Consolidation]] | memory consolidation | — | 💤 Memory Consolidation: The Neuroscie... | 188 |
 | 72 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 💤 Memory Consolidation: The Neuroscie... | 190 |
 | 73 | [[Elaborative-Rehearsal|Elaborative Rehearsal]] | elaborative rehearsal | — | 💤 Memory Consolidation: The Neuroscie... | 190 |
@@ -514,7 +514,7 @@ extraction_summary:
 | 100 | [[Competence]] | competence | — | Self-Determination Theory and Autonom... | 246 |
 | 101 | [[Relatedness]] | relatedness | — | Self-Determination Theory and Autonom... | 246 |
 | 102 | [[Neuroplasticity]] | neuroscience | — | Neuroplasticity and the Neurobiology ... | 254 |
-| 103 | [[Long-Term Potentiation]] | long-term potentiation | — | Neuroplasticity and the Neurobiology ... | 256 |
+| 103 | [[Long-Term-Potentiation|Long-Term Potentiation]] | long-term potentiation | — | Neuroplasticity and the Neurobiology ... | 256 |
 | 104 | [[Functional Connectivity]] | functional connectivity | — | Neuroplasticity and the Neurobiology ... | 256 |
 | 105 | [[Executive-Function|Executive Function]] | executive control | — | Neuroplasticity and the Neurobiology ... | 258 |
 | 106 | [[Dorsolateral Prefrontal Cortex]] | dorsolateral prefrontal cortex | — | Neuroplasticity and the Neurobiology ... | 258 |
@@ -635,7 +635,7 @@ extraction_summary:
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Behavioral-Modification|Behavioral Modification]]
 - [[Cognition]]
-- [[Cognitive Arousal]]
+- [[Cognitive-Arousal|Cognitive Arousal]]
 - [[Cognitive Behavioral Therapy and Stoicism Convergence]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive-Distortion|Cognitive Distortion]]
@@ -661,7 +661,7 @@ extraction_summary:
 - [[Implementation-Intention|Implementation Intention]]
 - [[Journaling]]
 - [[Locus-of-Control|Locus of Control]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Marcus-Aurelius|Marcus Aurelius]]
 - [[Medial Prefrontal Cortex]]
 - [[Memory-Consolidation|Memory Consolidation]]

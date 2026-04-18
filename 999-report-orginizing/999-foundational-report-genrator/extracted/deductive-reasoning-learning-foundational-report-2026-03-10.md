@@ -163,7 +163,7 @@ contrasts-with:
 
 applied-in:
   - "[[Mathematics Education]]"
-  - "[[Legal Reasoning]]"
+  - "[[Legal-Reasoning|Legal Reasoning]]"
   - "[[Scientific-Method|Scientific Method]]"
   - "[[Formal Argumentation]]"
   - "[[Computer Science Education]]"
@@ -455,7 +455,7 @@ Understanding this structure is essential for science literacy. Students who lac
 
 ### Deductive Reasoning in Legal and Argumentation Contexts
 
-[[Legal reasoning]] provides a high-stakes domain for deductive inference. Judicial syllogisms — in which a legal rule (major premise), a finding of fact (minor premise), and a legal conclusion are related — represent the formal deductive structure of legal adjudication. Students of law who understand this structure reason more clearly about the distinction between disputes about facts (minor premise) and disputes about legal interpretation (major premise) — a distinction that is central to legal practice.
+[[Legal-Reasoning|Legal reasoning]] provides a high-stakes domain for deductive inference. Judicial syllogisms — in which a legal rule (major premise), a finding of fact (minor premise), and a legal conclusion are related — represent the formal deductive structure of legal adjudication. Students of law who understand this structure reason more clearly about the distinction between disputes about facts (minor premise) and disputes about legal interpretation (major premise) — a distinction that is central to legal practice.
 
 More broadly, the capacity for [[Argumentation]] — the ability to construct, evaluate, and respond to structured arguments — depends fundamentally on deductive competence. Students who cannot identify the premises and logical structure of an argument cannot assess whether the conclusion follows, regardless of whether they agree with it. This is a prerequisite for intellectual autonomy in civic discourse.
 

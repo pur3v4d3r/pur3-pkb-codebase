@@ -257,7 +257,7 @@ extraction_summary:
 - [[Hebbian Plasticity]]
 - [[Interoceptive Awareness and the Insular Cortex]]
 - [[Long-Term Depression]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Mindfulness Meditation]]
 - [[Neuroimaging]]
 - [[Neuroplasticity]]
@@ -281,7 +281,7 @@ extraction_summary:
 | 6 | [[Executive-Function|Executive Function]] | — | — | Claude Thinking: | 70 |
 | 7 | [[Default Mode Network]] | — | — | Claude Thinking: | 70 |
 | 8 | [[Synaptic Plasticity]] | — | — | Claude Thinking: | 70 |
-| 9 | [[Long-Term Potentiation]] | — | — | Claude Thinking: | 70 |
+| 9 | [[Long-Term-Potentiation|Long-Term Potentiation]] | — | — | Claude Thinking: | 70 |
 | 10 | [[Gray Matter Density]] | — | — | Claude Thinking: | 70 |
 | 11 | [[Functional Connectivity]] | — | — | Claude Thinking: | 70 |
 | 12 | [[Neuroimaging]] | — | — | Claude Thinking: | 70 |
@@ -291,7 +291,7 @@ extraction_summary:
 | 16 | [[Neuroplasticity]] | — | — | The Historical Arc from Fixed Circuit... | 101 |
 | 17 | [[Hebbian Plasticity]] | — | — | The Historical Arc from Fixed Circuit... | 104 |
 | 18 | [[Synaptic Plasticity]] | — | — | Molecular Mechanisms: The Biochemical... | 108 |
-| 19 | [[Long-Term Potentiation]] | — | — | Molecular Mechanisms: The Biochemical... | 110 |
+| 19 | [[Long-Term-Potentiation|Long-Term Potentiation]] | — | — | Molecular Mechanisms: The Biochemical... | 110 |
 | 20 | [[Long-Term Depression]] | — | — | Molecular Mechanisms: The Biochemical... | 112 |
 | 21 | [[Brain-Derived Neurotrophic Factor]] | — | — | Molecular Mechanisms: The Biochemical... | 115 |
 | 22 | [[Functional Plasticity]] | — | — | Structural Versus Functional Plastici... | 119 |
@@ -361,7 +361,7 @@ extraction_summary:
 - [[Hebbian Plasticity]]
 - [[Interoceptive Awareness and the Insular Cortex]]
 - [[Long-Term Depression]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Mindfulness Meditation]]
 - [[Neuroimaging]]
 - [[Neuroplasticity]]

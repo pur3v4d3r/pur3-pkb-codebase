@@ -685,9 +685,9 @@ This connects to debates about **learning without awareness** in [[implicit lear
 
 The Broadbent-Treisman-Deutsch progression established the foundational questions that continue to drive attention research:
 
-1. **Automaticity vs. Control:** How much processing occurs automatically vs. requiring controlled attention? → Research on [[automatic processing]] and [[controlled processing]] (Shiffrin & Schneider, 1977)
+1. **Automaticity vs. Control:** How much processing occurs automatically vs. requiring controlled attention? → Research on [[automatic-processing]] and [[Controlled-Processing]] (Shiffrin & Schneider, 1977)
 
-2. **Selectivity vs. Capacity:** Are attention limits about selecting specific inputs or distributing limited capacity? → [[Load Theory]] (Lavie, 1995) and [[capacity-sharing models]]
+2. **Selectivity vs. Capacity:** Are attention limits about selecting specific inputs or distributing limited capacity? → [[Load-Theory]] (Lavie, 1995) and [[capacity-sharing models]]
 
 3. **Awareness vs. Processing:** Can processing occur without awareness? → Research on [[subliminal-perception]], [[blindsight]], and [[unconscious cognition]]
 

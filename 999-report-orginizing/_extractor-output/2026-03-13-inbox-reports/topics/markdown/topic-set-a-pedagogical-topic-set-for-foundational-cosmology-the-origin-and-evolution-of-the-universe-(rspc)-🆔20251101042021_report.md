@@ -171,7 +171,7 @@ extraction_summary:
 - [[Gas Giants]]
 - [[Gravitational Wave Astronomy]]
 - [[Habitable Zone Dynamics]]
-- [[Hertzsprung-Russell Diagram]]
+- [[Hertzsprung-Russell-Diagram|Hertzsprung-Russell Diagram]]
 - [[IAU Pluto Reclassification]]
 - [[Multi-Messenger Astronomy]]
 - [[Observational Spectroscopy]]
@@ -182,7 +182,7 @@ extraction_summary:
 - [[Protostellar Disks and Angular Momentum]]
 - [[Socratic Inquiry]]
 - [[Stellar Classification Systems]]
-- [[Stellar Evolution]]
+- [[Stellar-Evolution|Stellar Evolution]]
 - [[Stellar Nucleosynthesis]]
 - [[Stellar Phenomena]]
 - [[Supernova 1987A]]
@@ -196,11 +196,11 @@ extraction_summary:
 | 1 | [[Cosmology]] | — | — | A Pedagogical Topic Set for Cosmology... | 26 |
 | 2 | [[Planetary Bodies]] | — | — | A Pedagogical Topic Set for Cosmology... | 26 |
 | 3 | [[Stellar Phenomena]] | — | — | A Pedagogical Topic Set for Cosmology... | 26 |
-| 4 | [[Hertzsprung-Russell Diagram]] | — | — | A Pedagogical Topic Set for Cosmology... | 36 |
+| 4 | [[Hertzsprung-Russell-Diagram|Hertzsprung-Russell Diagram]] | — | — | A Pedagogical Topic Set for Cosmology... | 36 |
 | 5 | [[Exoplanet Detection]] | — | — | A Pedagogical Topic Set for Cosmology... | 51 |
 | 6 | [[Socratic Inquiry]] | — | — | A Pedagogical Topic Set for Cosmology... | 66 |
 | 7 | [[IAU Pluto Reclassification]] | — | — | A Pedagogical Topic Set for Cosmology... | 66 |
-| 8 | [[Stellar Evolution]] | — | — | A Pedagogical Topic Set for Cosmology... | 81 |
+| 8 | [[Stellar-Evolution|Stellar Evolution]] | — | — | A Pedagogical Topic Set for Cosmology... | 81 |
 | 9 | [[Terrestrial Planets]] | — | — | A Pedagogical Topic Set for Cosmology... | 107 |
 | 10 | [[Gas Giants]] | — | — | A Pedagogical Topic Set for Cosmology... | 107 |
 | 11 | [[Protoplanetary Disk]] | — | — | A Pedagogical Topic Set for Cosmology... | 107 |
@@ -414,7 +414,7 @@ Let me refine these to ensure they're manageable but deep, avoiding heavy math w
 - [[Gas Giants]]
 - [[Gravitational Wave Astronomy]]
 - [[Habitable Zone Dynamics]]
-- [[Hertzsprung-Russell Diagram]]
+- [[Hertzsprung-Russell-Diagram|Hertzsprung-Russell Diagram]]
 - [[IAU Pluto Reclassification]]
 - [[Multi-Messenger Astronomy]]
 - [[Observational Spectroscopy]]
@@ -425,7 +425,7 @@ Let me refine these to ensure they're manageable but deep, avoiding heavy math w
 - [[Protostellar Disks and Angular Momentum]]
 - [[Socratic Inquiry]]
 - [[Stellar Classification Systems]]
-- [[Stellar Evolution]]
+- [[Stellar-Evolution|Stellar Evolution]]
 - [[Stellar Nucleosynthesis]]
 - [[Stellar Phenomena]]
 - [[Supernova 1987A]]

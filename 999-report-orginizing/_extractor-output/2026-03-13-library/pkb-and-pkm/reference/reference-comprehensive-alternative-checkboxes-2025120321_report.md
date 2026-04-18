@@ -511,7 +511,7 @@ extraction_summary:
 > **Choose Alternative Checkboxes When:**
 > - Managing complex multi-state workflows
 > - Requiring visual semantic indicators
-> - Building sophisticated [[Knowledge Work]] systems
+> - Building sophisticated [[Knowledge-Work|Knowledge Work]] systems
 > - Integrating with [[Tasks-Plugin|Tasks Plugin]] or [[Dataview]]
 > - Tracking diverse information types beyond tasks
 
@@ -636,7 +636,7 @@ extraction_summary:
 - [[ITS Theme]]
 - [[Information-Architecture|Information Architecture]]
 - [[Kanban Plugin]]
-- [[Knowledge Work]]
+- [[Knowledge-Work|Knowledge Work]]
 - [[Live Preview]]
 - [[Lucide Icons]]
 - [[Markdown]]
@@ -703,7 +703,7 @@ extraction_summary:
 | 22 | [[CSS]] | — | — | 🔍 Foundational Concepts | 251 |
 | 23 | [[Obsidian Themes]] | — | — | 🔍 Foundational Concepts | 251 |
 | 24 | [[Markdown]] | — | — | The Evolution from Standard Markdown | 255 |
-| 25 | [[Knowledge Work]] | — | — | The Evolution from Standard Markdown | 255 |
+| 25 | [[Knowledge-Work|Knowledge Work]] | — | — | The Evolution from Standard Markdown | 255 |
 | 26 | [[Project Management]] | — | — | The Evolution from Standard Markdown | 255 |
 | 27 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Evolution from Standard Markdown | 255 |
 | 28 | [[Obsidian]] | — | — | The Evolution from Standard Markdown | 255 |
@@ -823,7 +823,7 @@ extraction_summary:
 | 142 | [[Obsidian Mobile]] | — | — | Installation & Management | 897 |
 | 143 | [[GTD]] | — | — | Task Management Workflows | 907 |
 | 144 | [[ITS Theme]] | — | — | Creative Writing & Content Development | 952 |
-| 145 | [[Knowledge Work]] | — | — | Habit Tracking | 1145 |
+| 145 | [[Knowledge-Work|Knowledge Work]] | — | — | Habit Tracking | 1145 |
 | 146 | [[Tasks-Plugin|Tasks Plugin]] | — | — | Habit Tracking | 1146 |
 | 147 | [[Dataview]] | — | — | Habit Tracking | 1146 |
 | 148 | [[Finite State Machine]] | — | — | Cognitive Models for Alternative Chec... | 1208 |
@@ -1782,7 +1782,7 @@ stateDiagram-v2
 - [[ITS Theme]]
 - [[Information-Architecture|Information Architecture]]
 - [[Kanban Plugin]]
-- [[Knowledge Work]]
+- [[Knowledge-Work|Knowledge Work]]
 - [[Live Preview]]
 - [[Lucide Icons]]
 - [[Markdown]]

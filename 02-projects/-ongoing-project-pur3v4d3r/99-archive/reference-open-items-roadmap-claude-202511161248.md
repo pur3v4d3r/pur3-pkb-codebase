@@ -339,12 +339,12 @@ Important for efficiency, but system functions without them:
 
 **Suggested Focus Areas**:
 1. [[Cognitive-Load-Theory]] (directly applicable to PKB design)
-2. [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active Recall]] (learning efficiency)
+2. [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active-Recall]] (learning efficiency)
 3. [[Metacognitive-Regulation]] (learning to learn)
 4. [[Transfer-of-Learning]] (applying knowledge across domains)
 
 > [!connection-ideas]
-> Create atomic notes for each major concept. Link to practical applications in your PKB workflows. This is perfect candidate for [[zettelkasten method]]—theoretical notes linked to practical implementation notes.
+> Create atomic notes for each major concept. Link to practical applications in your PKB workflows. This is perfect candidate for [[Zettelkasten-Method]]—theoretical notes linked to practical implementation notes.
 
 ---
 
@@ -1384,7 +1384,7 @@ Just as I can improve my outputs, you can optimize your inputs to receive higher
 > [!example]
 > **Good Request**: "Create an atomic note on the Feynman Technique"
 > 
-> **Better Request**: "Create an atomic note on the Feynman Technique. This goes in `/Reference/Learning-Methods/`. I already have notes on [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active Recall]]. Focus on the four-step process with a concrete example. Use [!methodology-and-sources] callout for the steps and [!example] for the application. 600-800 words. Tags: `#learning-methods #study-techniques #atomic-concept`"
+> **Better Request**: "Create an atomic note on the Feynman Technique. This goes in `/Reference/Learning-Methods/`. I already have notes on [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active-Recall]]. Focus on the four-step process with a concrete example. Use [!methodology-and-sources] callout for the steps and [!example] for the application. 600-800 words. Tags: `#learning-methods #study-techniques #atomic-concept`"
 
 ---
 

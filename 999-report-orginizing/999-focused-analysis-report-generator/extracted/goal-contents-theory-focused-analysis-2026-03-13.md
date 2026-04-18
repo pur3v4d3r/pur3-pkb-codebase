@@ -116,7 +116,7 @@ narrower:
 see-also:
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Rokeach Value Theory]]"
-  - "[[Terror Management Theory]]"
+  - "[[Terror-Management-Theory|Terror Management Theory]]"
   - "[[Materialism Research]]"
 contrasts-with:
   - "[[Goal-Setting-Theory|Goal Setting Theory (Locke & Latham)]]"

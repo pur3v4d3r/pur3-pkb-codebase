@@ -161,7 +161,7 @@ Your prompt defines **at least 12 different inline marking systems**:
 ```xml
 <marker_hierarchy>
 TIER 1 (Always Apply):
-  - Wiki-links [[Concept]]
+  - Wiki-links [[concept]]
   - Inline fields [**Field**:: value]
   - Confidence markers ^verified/^provisional/^speculative
 
@@ -1319,7 +1319,7 @@ The practical implications extend beyond diagram design to any situation where l
 ```markdown
 [**Application-Domain**:: [[Domain]] | trigger:"situation" | action:"response" | confidence:high]
 
-[**Anti-Pattern**:: [[Concept]] | context:"where it fails" | reason:"why" | alternative:"what instead"]
+[**Anti-Pattern**:: [[concept]] | context:"where it fails" | reason:"why" | alternative:"what instead"]
 ```
 
 ### Common Trigger Patterns
@@ -1607,7 +1607,7 @@ The success of basic Chain-of-Thought prompting catalyzed development of increas
 
 The mechanism exploits <span style='color: #27FF00;'>reasoning diversity</span> while leveraging the <span style='color: #72FFF1;'>answer convergence property</span>. Consider a math word problem: one reasoning chain might solve it algebraically, another through step-by-step numerical substitution, another via proportion reasoning—but all should yield $x = 42$. <span style='color: #FF00DC;'>Errors in reasoning</span> (arithmetic mistakes, logical fallacies, incorrect variable assignments) produce scattered incorrect answers, while the <span style='color: #27FF00;'>correct answer appears with high frequency</span> despite pathway variation.
 
-%%synthesis-potential: self-consistency×ensemble-methods%% Self-Consistency instantiates principles from [[Ensemble-Learning]] and [[Bootstrap Aggregating]], where model uncertainty and error reduction arise from aggregating diverse predictions. The critical difference: rather than training multiple models, Self-Consistency exploits the <span style='color: #72FFF1;'>stochastic sampling</span> of a single model to generate an ensemble of reasoning attempts.
+%%synthesis-potential: self-consistency×ensemble-methods%% Self-Consistency instantiates principles from [[Ensemble-Learning]] and [[Bootstrap-Aggregating]], where model uncertainty and error reduction arise from aggregating diverse predictions. The critical difference: rather than training multiple models, Self-Consistency exploits the <span style='color: #72FFF1;'>stochastic sampling</span> of a single model to generate an ensemble of reasoning attempts.
 
 [**Self-Consistency-Limitation**:: The primary drawback involves computational cost—generating 20-40 reasoning chains increases inference latency proportionally and multiplies API costs linearly with sample count, making Self-Consistency prohibitively expensive for real-time applications or large-scale deployment.]^established
 
@@ -1646,7 +1646,7 @@ The framework involves four key components operating in concert:
 
 The <span style='color: #27FF00;'>power of ToT</span> manifests in tasks where <span style='color: #FFC700;'>initial decisions critically constrain outcomes</span> and require exploration of alternatives. [[Strategic-Planning]], [[Creative Problem Solving]], and [[Optimization Problems]] benefit dramatically from the ability to <span style='color: #72FFF1;'>deliberately consider multiple approaches</span> rather than committing to a single reasoning path.
 
-However, ToT introduces substantial <span style='color: #FF00DC;'>computational overhead</span>—exploring a tree with branching factor $b$ and depth $d$ requires evaluating $O(b^d)$ thought candidates in worst case. Even with pruning through state evaluation, <span style='color: #FF00DC;'>practical ToT implementations may require 50-200 model calls</span> per problem, making deployment expensive. Recent work explores [[Reinforcement Learning]] approaches to train specialized "ToT Controllers" that learn efficient search strategies, reducing computational waste.
+However, ToT introduces substantial <span style='color: #FF00DC;'>computational overhead</span>—exploring a tree with branching factor $b$ and depth $d$ requires evaluating $O(b^d)$ thought candidates in worst case. Even with pruning through state evaluation, <span style='color: #FF00DC;'>practical ToT implementations may require 50-200 model calls</span> per problem, making deployment expensive. Recent work explores [[Reinforcement-Learning]] approaches to train specialized "ToT Controllers" that learn efficient search strategies, reducing computational waste.
 
 ### <span style='color: #9E6CD3;'>Graph of Thoughts: Beyond Hierarchical Reasoning</span>
 
@@ -1688,7 +1688,7 @@ The mechanism through which CoT mitigates fallacies operates via <span style='co
 
 %%counterexample: cot-always-improves-reasoning%% CoT prompting does not universally improve reasoning across all domains or model scales. [[Wang et al. (2023)]] found that for certain natural language inference tasks (ANLI, e-SNLI, RTE), adding CoT actually <span style='color: #FF00DC;'>degraded performance</span> relative to standard prompting in models below 100B parameters, suggesting that premature application of CoT can introduce noise rather than enhancing reasoning. The effectiveness of CoT shows strong <span style='color: #72FFF1;'>task-dependence</span> and <span style='color: #FF00DC;'>scale-dependence</span>.
 
-The relationship between <span style='color: #FFC700;'>intermediate token generation</span> and <span style='color: #27FF00;'>fallacy mitigation</span> connects to broader questions about [[AI Alignment]] and [[Interpretability]]. If reasoning traces improve logical validity, they provide a <span style='color: #72FFF1;'>transparency mechanism</span> for identifying when models employ invalid inference patterns—critical for high-stakes applications like medical diagnosis, legal reasoning, and scientific inference where logical rigor is non-negotiable.
+The relationship between <span style='color: #FFC700;'>intermediate token generation</span> and <span style='color: #27FF00;'>fallacy mitigation</span> connects to broader questions about [[AI-Alignment]] and [[Interpretability]]. If reasoning traces improve logical validity, they provide a <span style='color: #72FFF1;'>transparency mechanism</span> for identifying when models employ invalid inference patterns—critical for high-stakes applications like medical diagnosis, legal reasoning, and scientific inference where logical rigor is non-negotiable.
 
 [**Dual-Reasoning-Framework-Proposal**:: Walker et al. (2025) propose training LLMs with both affirmative generation (standard next-token prediction) and structured counterfactual denial (learning to reject invalid inferences), creating a "dual-reasoning" architecture that explicitly encodes both what follows from premises and what does not—analogous to training models on both positive and negative examples in supervised learning.]^provisional
 
@@ -1786,7 +1786,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 > [[Mathematical Problem Solving]] — Primary application domain showing 40-60% accuracy gains  
 > [[Scientific-Reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
 > [[Code Generation]] — Programming tasks benefit from step-by-step algorithmic decomposition  
-> [[Educational Technology]] — CoT enables tutoring systems that demonstrate solution processes
+> [[Educational-Technology]] — CoT enables tutoring systems that demonstrate solution processes
 
 ---
 
@@ -1870,7 +1870,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 
 **Depth Potential:** Research on whether reasoning requires architectural changes (specialized reasoning heads, hierarchical planning modules) versus training procedure modifications (reasoning-focused pre-training, RL from verifiable reasoning traces). Could lead to models that reason efficiently without external prompting overhead.
 
-**Knowledge Graph Role:** Connects [[Chain-of-Thought-Prompting]] with [[Transformer Architecture Design]], [[Reinforcement Learning]], [[Curriculum Learning]], and [[Training Objectives]], exploring how prompting insights inform architecture evolution.
+**Knowledge Graph Role:** Connects [[Chain-of-Thought-Prompting]] with [[Transformer Architecture Design]], [[Reinforcement-Learning]], [[Curriculum Learning]], and [[Training Objectives]], exploring how prompting insights inform architecture evolution.
 
 **Priority:** High — Represents next frontier in reasoning research as field transitions from prompting to architecture
 

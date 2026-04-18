@@ -285,6 +285,13 @@ def _normalize_for_dedup(text: str) -> str:
 # CONTENT INSERTION
 # ==============================================================================
 
+
+
+def _source_wiki_link(source_report: str) -> str:
+    """Convert a source report filename or stem to an Obsidian wiki-link."""
+    stem = source_report.replace(".md", "").replace(".MD", "")
+    return f"[[{stem}]]"
+
 def _build_callout_block(callout_type: str, title: str, body: str) -> str:
     """Build a properly formatted callout block."""
     lines = [f"> [!{callout_type}] {title}"]
@@ -471,7 +478,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(ev, existing_evidence):
                     callout = _build_callout_block(
                         "evidence",
-                        f"Supporting Evidence *(from {c.source_report})*",
+                        f"Supporting Evidence *(from {_source_wiki_link(c.source_report)})*",
                         ev,
                     )
                     body = _insert_before_section_end(body, "Core Explanation", callout)
@@ -485,7 +492,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(insight, existing_insights):
                     callout = _build_callout_block(
                         "analytical-insight",
-                        f"Key Insight *(from {c.source_report})*",
+                        f"Key Insight *(from {_source_wiki_link(c.source_report)})*",
                         insight,
                     )
                     body = _insert_before_section_end(body, "Core Explanation", callout)
@@ -499,7 +506,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(practice, existing_practices):
                     callout = _build_callout_block(
                         "example",
-                        f"**Application** *(from {c.source_report})*",
+                        f"**Application** *(from {_source_wiki_link(c.source_report)})*",
                         practice,
                     )
                     body = _insert_before_section_end(
@@ -515,7 +522,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(warning, existing_warnings):
                     callout = _build_callout_block(
                         "warning",
-                        f"**Key Distinction** *(from {c.source_report})*",
+                        f"**Key Distinction** *(from {_source_wiki_link(c.source_report)})*",
                         warning,
                     )
                     body = _insert_before_section_end(
@@ -531,7 +538,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(reflection, existing_reflections):
                     callout = _build_callout_block(
                         "reflection",
-                        f"**Reflect** *(from {c.source_report})*",
+                        f"**Reflect** *(from {_source_wiki_link(c.source_report)})*",
                         reflection,
                     )
                     body = _insert_before_section_end(
@@ -552,7 +559,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(card_body, existing_flashcards):
                     callout = _build_callout_block(
                         "flashcard",
-                        f"**Spaced Repetition** *(from {c.source_report})*",
+                        f"**Spaced Repetition** *(from {_source_wiki_link(c.source_report)})*",
                         card_body,
                     )
                     body = _insert_before_section_end(
@@ -570,7 +577,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(person_body, existing_persons):
                     callout = _build_callout_block(
                         "person",
-                        f"**{person_title}** *(from {c.source_report})*",
+                        f"**{person_title}** *(from {_source_wiki_link(c.source_report)})*",
                         person_body,
                     )
                     body = _insert_before_section_end(
@@ -588,7 +595,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(tension_body, existing_tensions):
                     callout = _build_callout_block(
                         "tension",
-                        f"**{tension_title}** *(from {c.source_report})*",
+                        f"**{tension_title}** *(from {_source_wiki_link(c.source_report)})*",
                         tension_body,
                     )
                     body = _insert_before_section_end(
@@ -606,7 +613,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(oq_body, existing_oqs):
                     callout = _build_callout_block(
                         "open-question",
-                        f"**{oq_title}** *(from {c.source_report})*" if oq_title else f"*(from {c.source_report})*",
+                        f"**{oq_title}** *(from {_source_wiki_link(c.source_report)})*" if oq_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         oq_body,
                     )
                     body = _insert_before_section_end(
@@ -624,7 +631,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(protocol_body, existing_protocols):
                     callout = _build_callout_block(
                         "protocol",
-                        f"**{protocol_title}** *(from {c.source_report})*",
+                        f"**{protocol_title}** *(from {_source_wiki_link(c.source_report)})*",
                         protocol_body,
                     )
                     body = _insert_before_section_end(
@@ -642,7 +649,9 @@ class NoteUpdater:
                 if not _is_duplicate_callout(diagram_body, existing_diagrams):
                     callout = _build_callout_block(
                         "diagram",
-                        f"**{diagram_title}**" if diagram_title else "",
+                        f"**{diagram_title}** *(from {_source_wiki_link(c.source_report)})*"
+                        if diagram_title
+                        else f"*(from {_source_wiki_link(c.source_report)})*",
                         diagram_body,
                     )
                     body = _insert_before_section_end(
@@ -673,7 +682,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(meth_body, existing_methodology):
                     callout = _build_callout_block(
                         "methodology-and-sources",
-                        f"**{meth_title}** *(from {c.source_report})*" if meth_title else f"*(from {c.source_report})*",
+                        f"**{meth_title}** *(from {_source_wiki_link(c.source_report)})*" if meth_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         meth_body,
                     )
                     body = _insert_before_section_end(
@@ -691,7 +700,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(sa_body, existing_schema):
                     callout = _build_callout_block(
                         "schema-activation",
-                        f"**{sa_title}** *(from {c.source_report})*" if sa_title else f"*(from {c.source_report})*",
+                        f"**{sa_title}** *(from {_source_wiki_link(c.source_report)})*" if sa_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         sa_body,
                     )
                     body = _insert_before_section_end(
@@ -708,7 +717,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(ar_body, existing_ar):
                     callout = _build_callout_block(
                         "active-reading",
-                        f"**{ar_title}** *(from {c.source_report})*" if ar_title else f"*(from {c.source_report})*",
+                        f"**{ar_title}** *(from {_source_wiki_link(c.source_report)})*" if ar_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         ar_body,
                     )
                     body = _insert_before_section_end(
@@ -725,7 +734,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(ft_body, existing_ft):
                     callout = _build_callout_block(
                         "far-transfer",
-                        f"**{ft_title}** *(from {c.source_report})*" if ft_title else f"*(from {c.source_report})*",
+                        f"**{ft_title}** *(from {_source_wiki_link(c.source_report)})*" if ft_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         ft_body,
                     )
                     body = _insert_before_section_end(
@@ -742,7 +751,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(debate_body, existing_debates):
                     callout = _build_callout_block(
                         "debate",
-                        f"**{debate_title}** *(from {c.source_report})*" if debate_title else f"*(from {c.source_report})*",
+                        f"**{debate_title}** *(from {_source_wiki_link(c.source_report)})*" if debate_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         debate_body,
                     )
                     body = _insert_before_section_end(
@@ -759,7 +768,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(ex_body, existing_examples):
                     callout = _build_callout_block(
                         "example",
-                        f"**{ex_title}** *(from {c.source_report})*" if ex_title else f"*(from {c.source_report})*",
+                        f"**{ex_title}** *(from {_source_wiki_link(c.source_report)})*" if ex_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         ex_body,
                     )
                     body = _insert_before_section_end(
@@ -776,7 +785,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(ci_body, existing_ci):
                     callout = _build_callout_block(
                         "claude-insight",
-                        f"**{ci_title}** *(from {c.source_report})*" if ci_title else f"*(from {c.source_report})*",
+                        f"**{ci_title}** *(from {_source_wiki_link(c.source_report)})*" if ci_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         ci_body,
                     )
                     body = _insert_before_section_end(
@@ -793,7 +802,7 @@ class NoteUpdater:
                 if not _is_duplicate_callout(ss_body, existing_ss):
                     callout = _build_callout_block(
                         "section-summary",
-                        f"**{ss_title}** *(from {c.source_report})*" if ss_title else f"*(from {c.source_report})*",
+                        f"**{ss_title}** *(from {_source_wiki_link(c.source_report)})*" if ss_title else f"*(from {_source_wiki_link(c.source_report)})*",
                         ss_body,
                     )
                     body = _insert_before_section_end(
@@ -818,7 +827,8 @@ class NoteUpdater:
         if new_wl_for_body:
             # Build a "Related concepts" line with pipe-links
             source_label = ", ".join(
-                sorted(set(c.source_report for c in candidates if c.source_report))
+                _source_wiki_link(r)
+                for r in sorted(set(c.source_report for c in candidates if c.source_report))
             )
             link_text = " * ".join(
                 _pipe_link(wl) for wl in new_wl_for_body[:MAX_WIKI_LINKS_DISPLAY]
@@ -840,7 +850,7 @@ class NoteUpdater:
                     conn_links = _WIKILINK_RE.findall(conn)
                     if conn_links:
                         conn_block = (
-                            f"**Cross-report connections** *(from {c.source_report})*:\n"
+                            f"**Cross-report connections** *(from {_source_wiki_link(c.source_report)})*:\n"
                             + "\n".join(f"- {_pipe_link(cl)}" for cl in conn_links[:5])
                         )
                         body = _insert_before_section_end(

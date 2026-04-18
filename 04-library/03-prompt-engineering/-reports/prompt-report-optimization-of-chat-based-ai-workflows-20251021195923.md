@@ -394,7 +394,7 @@ Our investigation has shown that we are at the very beginning of this new discip
 >
 > **What is one question I still have after reading this? Where might I look for an answer?**
 >
->   - This article explains *how* RAG-based memory *should* work, but it doesn't show me the *actual interface* for controlling it. My question is: "What are the current *best-in-class* UI/UX designs for managing an LLM's memory?" I would look for an answer in the proceedings of a major [[Human-Computer Interaction]] conference (like CHI or UIST) or in deep-dive product teardowns from designers on platforms like Medium or Substack.
+>   - This article explains *how* RAG-based memory *should* work, but it doesn't show me the *actual interface* for controlling it. My question is: "What are the current *best-in-class* UI/UX designs for managing an LLM's memory?" I would look for an answer in the proceedings of a major [[Human-Computer-Interaction]] conference (like CHI or UIST) or in deep-dive product teardowns from designers on platforms like Medium or Substack.
 
 ## 10\. 📚 References
 

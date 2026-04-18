@@ -442,7 +442,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Next Generation Science Standards]]
+- [[Next-Generation-Science-Standards|Next Generation Science Standards]]
 - [[Norwood-Russell-Hanson|Norwood Russell Hanson]]
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Peirce]]
@@ -497,7 +497,7 @@ extraction_summary:
 | 35 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | inquiry-based learning | — | Abductive Reasoning in Educational Pr... | 435 |
 | 36 | [[Manu-Kapur|Manu Kapur]] | — | — | Abductive Reasoning in Educational Pr... | 438 |
 | 37 | [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] | Science education | — | Abductive Reasoning and Scientific In... | 447 |
-| 38 | [[Next Generation Science Standards]] | NGSS | — | Abductive Reasoning and Scientific In... | 447 |
+| 38 | [[Next-Generation-Science-Standards|Next Generation Science Standards]] | NGSS | — | Abductive Reasoning and Scientific In... | 447 |
 | 39 | [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] | design thinking | — | Domain-Specific Applications: Medicin... | 460 |
 | 40 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | metacognition | — | Drawing the Threads Together | 491 |
 | 41 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learner | — | Drawing the Threads Together | 491 |
@@ -556,7 +556,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Next Generation Science Standards]]
+- [[Next-Generation-Science-Standards|Next Generation Science Standards]]
 - [[Norwood-Russell-Hanson|Norwood Russell Hanson]]
 - [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]]
 - [[Peirce]]

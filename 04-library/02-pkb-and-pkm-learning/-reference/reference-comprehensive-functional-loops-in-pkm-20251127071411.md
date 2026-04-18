@@ -137,7 +137,7 @@ I'll organize around loop categories:
 - [!warning] for potential negative loops
 
 **Wiki-Link Opportunities:**
-Primary concepts: [[Feedback Loop]], [[Self-Regulated-Learning]], [[Retrieval-Practice]], [[Spacing-Effect]], [[Schema-Theory]], [[Self-Efficacy]], [[Metacognition]], [[Knowledge-Graph]], [[Habit-Formation]], [[Neural-Plasticity]], [[Desirable-Difficulties]], [[Transfer-of-Learning]], [[Intrinsic-Motivation]], [[Cognitive-Load-Theory]], [[Working-Memory]], [[Long-Term-Memory]], [[Zettelkasten]], [[Progressive-Summarization]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active Recall]]
+Primary concepts: [[Feedback Loop]], [[Self-Regulated-Learning]], [[Retrieval-Practice]], [[Spacing-Effect]], [[Schema-Theory]], [[Self-Efficacy]], [[Metacognition]], [[Knowledge-Graph]], [[Habit-Formation]], [[Neural-Plasticity]], [[Desirable-Difficulties]], [[Transfer-of-Learning]], [[Intrinsic-Motivation]], [[Cognitive-Load-Theory]], [[Working-Memory]], [[Long-Term-Memory]], [[Zettelkasten]], [[Progressive-Summarization]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active-Recall]]
 
 Secondary concepts: [[Ebbinghaus Forgetting Curve]], [[Testing-Effect]], [[Elaborative-Rehearsal]], [[Chunking]], [[Mental-Models]], [[Flow-State]], [[Deliberate-Practice]], [[Distributed Practice]], [[interleaving]], [[Generation-Effect]]
 
@@ -191,7 +191,7 @@ aliases: [Functional Loops in PKM, Self-Reinforcing Learning Cycles, PKB Feedbac
 
 The retrieval practice effect refers to enhanced learning through actively attempting to retrieve information from memory, which strengthens memory traces even when retrieval is initially unsuccessful. This creates a fundamental loop in knowledge work: every successful retrieval makes future retrieval easier, which increases the likelihood of spontaneous access, which further consolidates the memory.
 
-The neurobiological basis involves [[Synaptic Plasticity]] and [[Long-Term Potentiation]]. Memory consolidation is a procedure in which neurons are created, linked, and reactivated with various patterns and firing rates, with spaced practices resulting in more robust enhancement of long-term memory encoding through both direct and indirect effects of memory processing characteristics. Critically, this consolidation requires time—massed practice (cramming) increases short-term retrieval strength but reduces long-term encoding.
+The neurobiological basis involves [[Synaptic Plasticity]] and [[Long-Term-Potentiation]]. Memory consolidation is a procedure in which neurons are created, linked, and reactivated with various patterns and firing rates, with spaced practices resulting in more robust enhancement of long-term memory encoding through both direct and indirect effects of memory processing characteristics. Critically, this consolidation requires time—massed practice (cramming) increases short-term retrieval strength but reduces long-term encoding.
 
 In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a note strengthens the [[Mental-Model]] of where it lives in your system, making it easier to find next time, which increases the probability you'll reference it in future work, which further strengthens the retrieval pathway. The more reviews are completed with appropriate spacing, the longer the memory will be retained, and the longer one can wait until the next review is needed.
 
@@ -206,7 +206,7 @@ In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a
 
 > [!key-claim]
 > **The Testing Effect Paradox**
-> Multiple-choice testing enhances retention of tested material but can expose students to misinformation through lures; however, feedback boosts positive effects and reduces negative effects by increasing correct responses and reducing intrusions on delayed recall tests. This reveals why [[Active Recall]] with immediate correction is more powerful than passive review.
+> Multiple-choice testing enhances retention of tested material but can expose students to misinformation through lures; however, feedback boosts positive effects and reduces negative effects by increasing correct responses and reducing intrusions on delayed recall tests. This reveals why [[Active-Recall]] with immediate correction is more powerful than passive review.
 
 ### Implementation: The Spacing-Retrieval Loop in PKM
 

@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -250,6 +250,30 @@ importance: medium
 - [[Chain-of-Thought|Chain-of-Thought]]
 - [[Few-Shot-Learning|Few-Shot Learning]]
 - [[Self-Refine|Self-Refine]]
+
+**Related concepts** *(from [[prompt-report-self-consistency-complexity-based-consistency-202512250916]])*:
+[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] * [[Ensemble-Methods|Ensemble Methods]] * [[Reasoning-Verification|Reasoning Verification]] * [[Cognitive-Diversity|Cognitive Diversity]] * [[Temperature-Sampling|Temperature Sampling]] * [[Ensemble-Learning|Ensemble Learning]] * [[Bayesian-Reasoning|Bayesian Reasoning]] * [[Complex-Reasoning-Tasks|Complex Reasoning Tasks]] * [[Math-Word-Problems|Math Word Problems]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Multi-Step-Inference|Multi-Step Inference]] * [[Prompt-Reliability-Engineering|Prompt Reliability Engineering]] * [[LLM-Calibration|LLM Calibration]] * [[Error-Detection|Error Detection]] * [[Wang-et-al.-(2022)|Wang et al. (2022)]] * [[Large-Language-Models|Large Language Models]] * [[Galton-(1907)|Galton (1907)]] * [[Surowiecki-(2004)|Surowiecki (2004)]] * [[Wisdom-of-Crowds|Wisdom of Crowds]] * [[Language-Model|Language Model]] * [[JSON-Mode|JSON Mode]] * [[Complexity-Based-Consistency|Complexity-Based Consistency]] * [[Confidence-Calibration|Confidence Calibration]] * [[Brown-et-al.-(2023)|Brown et al. (2023)]] * [[Beam-Search|Beam Search]] * [[Ensemble-Prompting|Ensemble Prompting]] * [[Reliability-Engineering|Reliability Engineering]] * [[Triple-Modular-Redundancy|Triple Modular Redundancy]] * [[Early-Stopping|Early Stopping]] * [[Few-Shot-Learning|Few-Shot Learning]]
+
+**Cross-report connections** *(from [[prompt-report-self-consistency-complexity-based-consistency-202512250916]])*:
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
+- [[Self-Consistency|Self-Consistency]]
+- [[Chain-of-Thought|Chain-of-Thought]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
+- [[Self-Refine|Self-Refine]]
+
+**Related concepts** *(from [[prompt-report-self-consistency-complexity-based-consistency-202512250916]])*:
+[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] * [[Ensemble-Methods|Ensemble Methods]] * [[Reasoning-Verification|Reasoning Verification]] * [[Cognitive-Diversity|Cognitive Diversity]] * [[Temperature-Sampling|Temperature Sampling]] * [[Ensemble-Learning|Ensemble Learning]] * [[Bayesian-Reasoning|Bayesian Reasoning]] * [[Complex-Reasoning-Tasks|Complex Reasoning Tasks]] * [[Math-Word-Problems|Math Word Problems]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Multi-Step-Inference|Multi-Step Inference]] * [[Prompt-Reliability-Engineering|Prompt Reliability Engineering]] * [[LLM-Calibration|LLM Calibration]] * [[Error-Detection|Error Detection]] * [[Wang-et-al.-(2022)|Wang et al. (2022)]] * [[Large-Language-Models|Large Language Models]] * [[Galton-(1907)|Galton (1907)]] * [[Surowiecki-(2004)|Surowiecki (2004)]] * [[Wisdom-of-Crowds|Wisdom of Crowds]] * [[Language-Model|Language Model]] * [[JSON-Mode|JSON Mode]] * [[Complexity-Based-Consistency|Complexity-Based Consistency]] * [[Confidence-Calibration|Confidence Calibration]] * [[Brown-et-al.-(2023)|Brown et al. (2023)]] * [[Beam-Search|Beam Search]] * [[Ensemble-Prompting|Ensemble Prompting]] * [[Reliability-Engineering|Reliability Engineering]] * [[Triple-Modular-Redundancy|Triple Modular Redundancy]] * [[Early-Stopping|Early Stopping]] * [[Few-Shot-Learning|Few-Shot Learning]]
+
+**Cross-report connections** *(from [[prompt-report-self-consistency-complexity-based-consistency-202512250916]])*:
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
+- [[Self-Consistency|Self-Consistency]]
+- [[Chain-of-Thought|Chain-of-Thought]]
+- [[Few-Shot-Learning|Few-Shot Learning]]
+- [[Self-Refine|Self-Refine]]
+
+
+
+
 
 
 

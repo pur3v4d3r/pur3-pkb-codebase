@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,8 +78,6 @@ see-also:
   - "[[Experimental-Methodology|Experimental Methodology]]"
   - "[[dichotic-listening-tasks|dichotic listening tasks]]"
   - "[[Cocktail-Party-Effect|Cocktail Party Effect]]"
-  - "[[Information-Processing-Theory|information processing theory]]"
-  - "[[Information-Processing-Theory|Information Processing Theory]]"
   - "[[dichotic-listening|dichotic listening]]"
   - "[[information-processing-model|information processing model]]"
   - "[[communications-engineering|communications engineering]]"
@@ -90,6 +88,7 @@ see-also:
   - "[[implicit-memory|implicit memory]]"
   - "[[subliminal-perception|subliminal perception]]"
   - "[[Shannon-Information-Theory|Shannon Information Theory]]"
+  - "[[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -154,6 +153,14 @@ importance: medium
 
 **Related concepts:**
 [[The-Evolution-of-Selective-Attention-Theory-From-Broadbent's-Filter-to-Late-Sele|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] · [[Cognitive-Architecture|Cognitive Architecture]] · [[Information-Processing-Theory|Information Processing Theory]] · [[Working-Memory|Working Memory]] · [[Perceptual-Psychology|Perceptual Psychology]] · [[Experimental-Methodology|Experimental Methodology]] · [[dichotic-listening-tasks|dichotic listening tasks]] · [[Cocktail-Party-Effect|Cocktail Party Effect]] · [[Information-Processing-Theory|information processing theory]] · [[Information-Processing-Theory|Information Processing Theory]] · [[dichotic-listening|dichotic listening]] · [[information-processing-model|information processing model]] · [[communications-engineering|communications engineering]] · [[Shannon-Weaver-Information-Theory|Shannon-Weaver Information Theory]] · [[Short-Term-Memory|short-term memory]] · [[Long-Term-Memory|long-term memory]] · [[priming]] · [[implicit-memory|implicit memory]] · [[subliminal-perception|subliminal perception]] · [[Shannon-Information-Theory|Shannon Information Theory]] · [[Working-Memory|Working memory]] · [[conscious-awareness|conscious awareness]] · [[cognitive-neuroscience|cognitive neuroscience]] · [[Working-Memory|working memory]] · [[Executive-Function|executive function]] · [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] · [[Cowan's-Embedded-Processes-Model|Cowan's Embedded Processes Model]] · [[biased-competition-models|biased competition models]] · [[Long-Term-Memory|long-term memory]] · [[repetition-priming|repetition priming]]
+
+**Related concepts** *(from [[cog-psy-evolution-of-selective-attention-theory-202512142019]])*:
+[[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] * [[Cognitive-Architecture|Cognitive Architecture]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Working-Memory|Working Memory]] * [[Perceptual-Psychology|Perceptual Psychology]] * [[Experimental-Methodology|Experimental Methodology]] * [[dichotic-listening-tasks|dichotic listening tasks]] * [[Cocktail-Party-Effect|Cocktail Party Effect]] * [[dichotic-listening|dichotic listening]] * [[information-processing-model|information processing model]] * [[communications-engineering|communications engineering]] * [[Shannon-Weaver-Information-Theory|Shannon-Weaver Information Theory]] * [[Short-Term-Memory|short-term memory]] * [[Long-Term-Memory|long-term memory]] * [[implicit-memory|implicit memory]] * [[subliminal-perception|subliminal perception]] * [[Shannon-Information-Theory|Shannon Information Theory]] * [[conscious-awareness|conscious awareness]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Executive-Function|executive function]] * [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] * [[Cowan's-Embedded-Processes-Model|Cowan's Embedded Processes Model]] * [[biased-competition-models|biased competition models]] * [[repetition-priming|repetition priming]] * [[implicit-learning|implicit learning]] * [[statistical-learning|statistical learning]] * [[Procedural-Memory|procedural memory]] * [[automatic-processing|automatic processing]] * [[Controlled-Processing|controlled processing]] * [[Load-Theory|Load Theory]]
+
+**Related concepts** *(from [[cog-psy-evolution-of-selective-attention-theory-202512142019]])*:
+[[The-Evolution-of-Selective-Attention-Theory:-From-Broadbent's-Filter-to-Late-Selection-Models|The Evolution of Selective Attention Theory: From Broadbent's Filter to Late Selection Models]] * [[Cognitive-Architecture|Cognitive Architecture]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Working-Memory|Working Memory]] * [[Perceptual-Psychology|Perceptual Psychology]] * [[Experimental-Methodology|Experimental Methodology]] * [[dichotic-listening-tasks|dichotic listening tasks]] * [[Cocktail-Party-Effect|Cocktail Party Effect]] * [[dichotic-listening|dichotic listening]] * [[information-processing-model|information processing model]] * [[communications-engineering|communications engineering]] * [[Shannon-Weaver-Information-Theory|Shannon-Weaver Information Theory]] * [[Short-Term-Memory|short-term memory]] * [[Long-Term-Memory|long-term memory]] * [[implicit-memory|implicit memory]] * [[subliminal-perception|subliminal perception]] * [[Shannon-Information-Theory|Shannon Information Theory]] * [[conscious-awareness|conscious awareness]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Executive-Function|executive function]] * [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] * [[Cowan's-Embedded-Processes-Model|Cowan's Embedded Processes Model]] * [[biased-competition-models|biased competition models]] * [[repetition-priming|repetition priming]] * [[implicit-learning|implicit learning]] * [[statistical-learning|statistical learning]] * [[Procedural-Memory|procedural memory]] * [[automatic-processing|automatic processing]] * [[Controlled-Processing|controlled processing]] * [[Load-Theory|Load Theory]]
+
+
 
 ## References
 

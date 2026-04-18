@@ -141,7 +141,7 @@ This section analyzes the new solution that was "rebuilt" in Section 3.0. We now
 
 > [!outcome]
 > **The Rebuilt Solution:**
-> - The new, rebuilt model is a **[[Metacognitive Checkpoint System]]**. This is a framework for [[Decision-Making]] and [[active learning]] that operates on the *assumption* of default bias. It is not a "cure" for bias, but a *prosthetic* for the mind. It is a "cognitive exoskeleton" that provides the structure, rigor, and "cognitive decoupling" that our [[System-2]] needs to function, but is too "lazy" to build on its own in real-time. This system is a designed set of *tools*—checklists, protocols, and mandatory questions—that are integrated into a workflow to *force* reflective pauses.
+> - The new, rebuilt model is a **[[Metacognitive Checkpoint System]]**. This is a framework for [[Decision-Making]] and [[Active-Learning]] that operates on the *assumption* of default bias. It is not a "cure" for bias, but a *prosthetic* for the mind. It is a "cognitive exoskeleton" that provides the structure, rigor, and "cognitive decoupling" that our [[System-2]] needs to function, but is too "lazy" to build on its own in real-time. This system is a designed set of *tools*—checklists, protocols, and mandatory questions—that are integrated into a workflow to *force* reflective pauses.
 
 > [!insight]
 > - **Why This Model is Fundamentally Different:**
@@ -212,5 +212,5 @@ This section analyzes the new solution that was "rebuilt" in Section 3.0. We now
 > - [[Deconstruction]]
 > - [[Dual-Process-Theory]]
 > - [[choice-architecture]]
-> - [[Systems Thinking]]
+> - [[Systems-Thinking]]
 > - [[Epistemology]]

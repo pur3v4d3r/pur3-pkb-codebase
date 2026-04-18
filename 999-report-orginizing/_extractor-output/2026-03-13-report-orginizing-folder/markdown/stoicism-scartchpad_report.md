@@ -425,7 +425,7 @@ extraction_summary:
 - [[Negative Visualization]]
 - [[Neuroplastic Change]]
 - [[Neuroplasticity]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Practical Philosophy]]
 - [[pragmatism]]
 - [[prefrontal-cortex|Prefrontal Cortex]]
@@ -563,7 +563,7 @@ extraction_summary:
 | 104 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 376 |
 | 105 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 377 |
 | 106 | [[Structured Prompts]] | — | — | The Three-Pillar Architecture | 378 |
-| 107 | [[Pattern Recognition]] | — | — | The Three-Pillar Architecture | 379 |
+| 107 | [[Pattern-Recognition|Pattern Recognition]] | — | — | The Three-Pillar Architecture | 379 |
 | 108 | [[Neuroplastic Change]] | — | — | The Three-Pillar Architecture | 380 |
 | 109 | [[Judgments]] | — | — | The Three-Pillar Architecture | 388 |
 | 110 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | The Three-Pillar Architecture | 388 |
@@ -701,7 +701,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Negative Visualization]]
 - [[Neuroplastic Change]]
 - [[Neuroplasticity]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Practical Philosophy]]
 - [[pragmatism]]
 - [[prefrontal-cortex|Prefrontal Cortex]]

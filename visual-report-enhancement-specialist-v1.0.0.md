@@ -54,7 +54,7 @@ estimated_total_tokens: 40000
 
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
-  - "[[Data Visualization]]"
+  - "[[Data-Visualization]]"
   - "[[Mermaid Diagram Language]]"
   - "[[Chart.js Integration]]"
   - "[[Mind-Mapping]]"

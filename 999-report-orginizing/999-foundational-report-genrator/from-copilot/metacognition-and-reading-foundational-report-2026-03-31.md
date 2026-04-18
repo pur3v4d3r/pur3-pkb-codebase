@@ -185,7 +185,7 @@ enables:
   - "[[writing-to-learn-focused-analysis-2026-03-21]]"
 
 expansion-topics:
-  - "[[Reciprocal Teaching]]"
+  - "[[Reciprocal-Teaching|Reciprocal Teaching]]"
   - "[[Situation-Models-in-Text-Comprehension]]"
   - "[[Metacognitive-Accuracy]]"
   - "[[Matthew-Effect-in-Reading]]"
@@ -572,7 +572,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 > [!person] **Ann L. Brown (1943–1999)**
 > Developmental and educational psychologist, University of California, Berkeley. Brown's contributions to metacognitive reading research were twin-tracked: empirical (demonstrating comprehension monitoring deficits in poor readers and younger students) and pedagogical (co-developing Reciprocal Teaching with Palincsar). Her synthesis of Flavell's framework with Vygotsky's Zone of Proximal Development produced the social-constructivist metacognitive pedagogy that reciprocal teaching instantiates.
 >
-> **Lineage:** Student of the Flavellian tradition; collaborator with [[Anneliese Palincsar]] on instructional applications; influenced by Vygotsky via the Zone of Proximal Development.
+> **Lineage:** Student of the Flavellian tradition; collaborator with [[Anneliese-Palincsar|Anneliese Palincsar]] on instructional applications; influenced by Vygotsky via the Zone of Proximal Development.
 >
 > **Relationship to Report:** Central to Phases III and V; her distinction between monitoring (evaluation) and regulation (fix-up) anchors the mechanistic treatment in Phase IV.
 

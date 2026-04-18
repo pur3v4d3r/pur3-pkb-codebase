@@ -662,7 +662,7 @@ extraction_summary:
 
 - [[Science Education]]
 - [[Critical-Thinking-Pedagogy|Critical Thinking Pedagogy]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice|Evidence-Based Practice]]
 - [[Democratic Deliberation]]
 
 #### Builds On

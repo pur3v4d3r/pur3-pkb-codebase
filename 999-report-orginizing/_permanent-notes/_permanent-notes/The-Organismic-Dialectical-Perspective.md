@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -468,6 +468,80 @@ importance: high
 - [[SDT's-Regulatory-Continuum|SDT's-Regulatory-Continuum]]
 - [[The-Regulatory-Spectrum|The-Regulatory-Spectrum]]
 
+**Related concepts** *(from [[self-determination-theory-focused-analysis-2026-03-19]], [[self-determination-theory-foundational-report-2026-03-11]])*:
+[[Edward-L.-Deci|Edward L. Deci]] * [[Richard-M.-Ryan|Richard M. Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Goal-Contents-Theory|Goal Contents Theory]] * [[Relationship-Motivation-Theory|Relationship Motivation Theory]] * [[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Growth-Mindset|Growth Mindset]] * [[Robert-W.-White|Robert W. White]] * [[Effectance-Motivation|Effectance Motivation]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Carl-Rogers|Carl Rogers]] * [[Abraham-Maslow|Abraham Maslow]] * [[Organismic-Valuing-Process|Organismic Valuing Process]] * [[Jean-Piaget|Jean Piaget]] * [[Richard-deCharms|Richard deCharms]] * [[Personal-Causation|Personal Causation]] * [[Self-Efficacy-Theory|Self-Efficacy Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Overjustification-Effect|Overjustification Effect]] * [[Mark-Lepper|Mark Lepper]] * [[Verbal-praise|Verbal praise]] * [[Deci-et-al.'s-1999-meta-analysis|Deci et al.'s 1999 meta-analysis]] * [[Autonomy-Support|Autonomy Support]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Nutritive-Environment-Requirement|Nutritive-Environment Requirement]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Identity-Based-Habits|Identity-Based-Habits]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Schema-Theory|Schema-Theory]]
+- [[Conceptual-Change-Theory|Conceptual-Change-Theory]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Organismic-Integration-Theory|Organismic-Integration-Theory]]
+- [[The-Integration-Paradox|The-Integration-Paradox]]
+- [[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces|The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]]
+- [[SDT's-Regulatory-Continuum|SDT's-Regulatory-Continuum]]
+- [[The-Regulatory-Spectrum|The-Regulatory-Spectrum]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Nutritive-Environment-Requirement|Nutritive-Environment-Requirement]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Identity-Based-Habits|Identity-Based-Habits]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Satisfaction-Frustration-Asymmetry|Satisfaction-Frustration-Asymmetry]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Schema-Theory|Schema-Theory]]
+- [[Conceptual-Change-Theory|Conceptual-Change-Theory]]
+
+**Cross-report connections** *(from [[self-determination-theory-focused-analysis-2026-03-19]])*:
+- [[Organismic-Integration-Theory|Organismic-Integration-Theory]]
+- [[The-Integration-Paradox|The-Integration-Paradox]]
+- [[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces|The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]]
+- [[SDT's-Regulatory-Continuum|SDT's-Regulatory-Continuum]]
+- [[The-Regulatory-Spectrum|The-Regulatory-Spectrum]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Motivational-Climate-Design|Motivational-Climate-Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -544,6 +618,147 @@ importance: high
 - **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: The [[Self-Concordance-Model]] shows that goal pursuit aligned with autonomous motivation produces better outcomes and more stable commitment than goal pursuit under controlled motivation. Supports Phase III and Phase V wellbeing outcome discussions.
 
 - **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Connects goal content theory (intrinsic vs. extrinsic goal framing) to regulatory style outcomes in educational contexts. Supports Phase V implications.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Establishes the independence of need frustration from need dissatisfaction. Supports the Phase III need frustration asymmetry analysis and Phase IV's dual pathway account.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: Applied treatment of SDT principles in educational design. Supports Phase V's educational design implications.
+
+- **Ryan, R. M. (1982). Control and information in the intrapersonal sphere: An extension of cognitive evaluation theory. *Journal of Personality and Social Psychology, 43*(3), 450–461.**: The original theoretical characterization of introjected regulation as "internal compulsion." Supports the Phase IV mechanistic analysis of introjection.
+
+- **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: The [[Self-Concordance-Model]] shows that goal pursuit aligned with autonomous motivation produces better outcomes and more stable commitment than goal pursuit under controlled motivation. Supports Phase III and Phase V wellbeing outcome discussions.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Connects goal content theory (intrinsic vs. extrinsic goal framing) to regulatory style outcomes in educational contexts. Supports Phase V implications.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Springer.**: The foundational text introducing the full SDT framework including OIT. Supports Phases II and IV on the internalization mechanism and the regulatory continuum. The organismic dialectical metatheory is introduced here.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality, 62*(1), 119–142.**: The foundational experimental study on the conditions that determine the quality (identification vs. introjection) of internalization. The three-condition model (rationale, perspective acknowledgment, choice) supports Phase III and Phase IV.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Landmark summary article establishing the SDT framework for applied domains. Supports Phase II framework overview and Phase V implications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect. Supports Phase III's treatment of the undermining effect and its mechanistic interpretation.
+
+- **Roth, G., Assor, A., Niemiec, C. P., Ryan, R. M., & Deci, E. L. (2009). The emotional and academic consequences of parental conditional regard: Comparing conditional positive regard, conditional negative regard, and autonomy support as parenting practices. *Developmental Psychology, 45*(4), 1119–1142.**: Primary research on conditional positive regard as a driver of introjected (not identified) regulation. Supports the Phase III conditional regard analysis.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Establishes the independence of need frustration from need dissatisfaction. Supports the Phase III need frustration asymmetry analysis and Phase IV's dual pathway account.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: Applied treatment of SDT principles in educational design. Supports Phase V's educational design implications.
+
+- **Ryan, R. M. (1982). Control and information in the intrapersonal sphere: An extension of cognitive evaluation theory. *Journal of Personality and Social Psychology, 43*(3), 450–461.**: The original theoretical characterization of introjected regulation as "internal compulsion." Supports the Phase IV mechanistic analysis of introjection.
+
+- **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: The [[Self-Concordance-Model]] shows that goal pursuit aligned with autonomous motivation produces better outcomes and more stable commitment than goal pursuit under controlled motivation. Supports Phase III and Phase V wellbeing outcome discussions.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Connects goal content theory (intrinsic vs. extrinsic goal framing) to regulatory style outcomes in educational contexts. Supports Phase V implications.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

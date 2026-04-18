@@ -111,7 +111,7 @@ narrower:
   - "[[Compassionate vs. Self-Image Goals in Relationships]]"
 see-also:
   - "[[Interdependence Theory — Kelley and Thibaut]]"
-  - "[[Terror Management Theory]]"
+  - "[[Terror-Management-Theory|Terror Management Theory]]"
   - "[[Positive Psychology — Flourishing Models]]"
 contrasts-with:
   - "[[Social Exchange Theory]]"

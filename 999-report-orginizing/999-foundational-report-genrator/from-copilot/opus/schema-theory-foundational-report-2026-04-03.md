@@ -897,7 +897,7 @@ Contemporary research — Situated cognition integration; predictive processing 
 > - [[Dual-Coding-Theory]] — Extends schema theory to include imagistic as well as verbal knowledge structures
 > - [[Predictive-Processing]] — Potential neural implementation of schema-based top-down processing
 > - [[Situated-Cognition]] — Challenges and complexifies classical schema theory by emphasizing contextual constitution of schemas
-> - [[Parallel-Distributed-Processing]] / [[parallel-distributed-processing]] — Subsymbolic alternative implementation account
+> - [[parallel-distributed-processing]] / [[parallel-distributed-processing]] — Subsymbolic alternative implementation account
 > - [[Bartlett's-reconstructive-memory-theory]] — The specific tradition linking schema theory to memory distortion research
 >
 > **STRENGTHENED BY THIS REPORT (These receive additional connection depth):**

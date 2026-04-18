@@ -338,7 +338,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[**Chanin Of Thought**]]
-- [[AI Alignment]]
+- [[AI-Alignment|AI Alignment]]
 - [[AI Economics]]
 - [[AI-Safety|AI Safety]]
 - [[Activation Analysis]]
@@ -349,7 +349,7 @@ extraction_summary:
 - [[Attention-Mechanism|Attention Mechanism]]
 - [[Attention Visualization]]
 - [[Beam Search]]
-- [[Bootstrap Aggregating]]
+- [[Bootstrap-Aggregating|Bootstrap Aggregating]]
 - [[Breadth-First Search]]
 - [[Causal Tracing]]
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
@@ -411,7 +411,7 @@ extraction_summary:
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Injection]]
 - [[Protocol Analysis]]
-- [[Reinforcement Learning]]
+- [[Reinforcement-Learning|Reinforcement Learning]]
 - [[Resource Optimization]]
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Self-Attention]]
@@ -478,7 +478,7 @@ extraction_summary:
 | 35 | [[Meincke et al. (2025)]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 166 |
 | 36 | [[Wang-et-al.|Wang et al. (2022)]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 170 |
 | 37 | [[Ensemble-Learning|Ensemble Learning]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
-| 38 | [[Bootstrap Aggregating]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
+| 38 | [[Bootstrap-Aggregating|Bootstrap Aggregating]] | — | — | <span style='color: #9E6CD3;'>Self-Co... | 183 |
 | 39 | [[Yao et al. (2023)]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 186 |
 | 40 | [[Breadth-First Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
 | 41 | [[Depth-First Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
@@ -486,11 +486,11 @@ extraction_summary:
 | 43 | [[Strategic-Planning|Strategic Planning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 44 | [[Creative Problem Solving]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 45 | [[Optimization Problems]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
-| 46 | [[Reinforcement Learning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 209 |
+| 46 | [[Reinforcement-Learning|Reinforcement Learning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 209 |
 | 47 | [[Walker et al. (2025)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 221 |
 | 48 | [[Wang-et-al.|Wang et al. (2023)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 229 |
 | 49 | [[Wang-et-al.|Wang et al. (2023)]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 230 |
-| 50 | [[AI Alignment]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 231 |
+| 50 | [[AI-Alignment|AI Alignment]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 231 |
 | 51 | [[Interpretability]] | — | — | 🎯 Logical Fallacy Mitigation Through ... | 231 |
 | 52 | [[GSM8K]] | — | — | <span style='color: #9E6CD3;'>Arithme... | 236 |
 | 53 | [[MultiArith]] | — | — | <span style='color: #9E6CD3;'>Arithme... | 236 |
@@ -549,7 +549,7 @@ extraction_summary:
 | 106 | [[Training-Time Integration: CoT as Architectural Inductive Bias]] | — | — | 5. **[[Training-Time Integration: CoT... | 349 |
 | 107 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
 | 108 | [[Transformer Architecture Design]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
-| 109 | [[Reinforcement Learning]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
+| 109 | [[Reinforcement-Learning|Reinforcement Learning]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
 | 110 | [[Curriculum Learning]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
 | 111 | [[Training Objectives]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
 | 112 | [[Neural Architecture Search]] | — | — | 5. **[[Training-Time Integration: CoT... | 354 |
@@ -1113,7 +1113,7 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[**Chanin Of Thought**]]
-- [[AI Alignment]]
+- [[AI-Alignment|AI Alignment]]
 - [[AI Economics]]
 - [[AI-Safety|AI Safety]]
 - [[Activation Analysis]]
@@ -1124,7 +1124,7 @@ $$
 - [[Attention-Mechanism|Attention Mechanism]]
 - [[Attention Visualization]]
 - [[Beam Search]]
-- [[Bootstrap Aggregating]]
+- [[Bootstrap-Aggregating|Bootstrap Aggregating]]
 - [[Breadth-First Search]]
 - [[Causal Tracing]]
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
@@ -1186,7 +1186,7 @@ $$
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[Prompt Injection]]
 - [[Protocol Analysis]]
-- [[Reinforcement Learning]]
+- [[Reinforcement-Learning|Reinforcement Learning]]
 - [[Resource Optimization]]
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Self-Attention]]

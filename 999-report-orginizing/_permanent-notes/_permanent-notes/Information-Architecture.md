@@ -42,7 +42,7 @@ see-also:
   - "[[Personal-Workflow-Architecture]]"
   - "[[Standard-Template-Metadata]]"
   - "[[TASK-Query-Type-Fundamentals]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -65,4 +65,4 @@ importance: low
 - [[Personal-Workflow-Architecture]]
 - [[Standard-Template-Metadata]]
 - [[TASK-Query-Type-Fundamentals]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

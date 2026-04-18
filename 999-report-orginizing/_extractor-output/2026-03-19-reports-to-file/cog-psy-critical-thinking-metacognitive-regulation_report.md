@@ -995,7 +995,7 @@ extraction_summary:
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Neuroscience of Metacognition]]
 - [[PENCRISAL]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
 - [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Ramond Dennison]]
@@ -1071,7 +1071,7 @@ extraction_summary:
 | 50 | [[Logical Fallacies]] | — | — | The Structure Training Imperative | 718 |
 | 51 | [[Argument Strength]] | — | — | The Structure Training Imperative | 718 |
 | 52 | [[Hypothesis-Testing|Hypothesis Testing]] | — | — | The Structure Training Imperative | 718 |
-| 53 | [[Pattern Recognition]] | — | — | The Structure Training Imperative | 718 |
+| 53 | [[Pattern-Recognition|Pattern Recognition]] | — | — | The Structure Training Imperative | 718 |
 | 54 | [[Robert-Ennis|Robert Ennis]] | — | — | The Structure Training Imperative | 720 |
 | 55 | [[John McPeck]] | — | — | The Structure Training Imperative | 720 |
 | 56 | [[PENCRISAL]] | — | — | The Structure Training Imperative | 720 |
@@ -1511,7 +1511,7 @@ PROCESS STANDARDS
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
 - [[Neuroscience of Metacognition]]
 - [[PENCRISAL]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
 - [[Procedural-Knowledge|Procedural Knowledge]]
 - [[Ramond Dennison]]
@@ -1549,7 +1549,7 @@ PROCESS STANDARDS
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Argument-Analysis|Argument Analysis]]
-- [[Decision Making Under Uncertainty]]
+- [[Decision-Making-Under-Uncertainty|Decision Making Under Uncertainty]]
 - [[Cognitive Biases and Debiasing]]
 - [[Scientific-Reasoning|Scientific Reasoning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -1600,7 +1600,7 @@ PROCESS STANDARDS
 - [[Academic Research]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[Problem Solving in Complex Domains]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice|Evidence-Based Practice]]
 
 #### Builds On
 

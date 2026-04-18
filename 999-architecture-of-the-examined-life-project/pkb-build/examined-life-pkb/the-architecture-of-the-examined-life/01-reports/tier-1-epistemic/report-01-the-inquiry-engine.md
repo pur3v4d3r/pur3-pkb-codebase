@@ -93,7 +93,7 @@ related:
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
 broader:
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education|Philosophy of Education]]"
   - "[[Cognitive-Science|Cognitive Science]]"
   - "[[Applied Epistemology]]"
 expansion-topics:

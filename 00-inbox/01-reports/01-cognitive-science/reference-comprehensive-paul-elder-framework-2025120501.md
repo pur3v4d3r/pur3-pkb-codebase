@@ -509,7 +509,7 @@ Information serves as the empirical foundation for reasoning. Data represents th
 > - **Universal principle**: All reasoning is expressed through, and shaped by, concepts and ideas.
 
 Concepts and ideas provide the common language needed to understand a problem. Concepts function as cognitive organizing structures, determining what we notice, how we categorize, and what relationships we perceive. Key concepts include both:
-- **Explicit concepts**: Consciously invoked and defined (e.g., [[justice]], [[freedom]], [[entropy]])
+- **Explicit concepts**: Consciously invoked and defined (e.g., [[justice]], [[freedom]], [[Entropy]])
 - **Implicit concepts**: Tacitly shaping thought without explicit recognition
 
 **Critical Questions for Concepts:**
@@ -803,7 +803,7 @@ Significance compels us to include the most important ideas, ensuring we don't l
 > - **Core Question**: Am I considering the viewpoints of others seriously, or am I just protecting my own interests? Am I being biased in my reasoning? Am I giving equal weight to evidence that contradicts my preferred conclusion?
 > - **Definition**: The reasoning is balanced, unbiased, impartial, and genuinely considers alternative perspectives without distortion.
 
-Fairness means the argument is balanced and free from bias, pushing us to be impartial and evenhanded toward other positions, being objective. Fairness represents the ethical dimension of intellectual standards, requiring [[Intellectual-Integrity]] and resistance to [[egocentric thinking]].
+Fairness means the argument is balanced and free from bias, pushing us to be impartial and evenhanded toward other positions, being objective. Fairness represents the ethical dimension of intellectual standards, requiring [[Intellectual-Integrity]] and resistance to [[Egocentric-Thinking]].
 
 **Fairness Requirements:**
 - Accurately represent opposing views (not straw-man versions)
@@ -1142,7 +1142,7 @@ graph TD
 ### How the Components Interact
 
 #### Phase 1: Analysis (Elements)
-The critical thinker begins by deconstructing reasoning into its fundamental components using the [[Elements of Thought]]. This analytical phase involves:
+The critical thinker begins by deconstructing reasoning into its fundamental components using the [[Elements-of-Thought]]. This analytical phase involves:
 - Identifying the [[purpose]] and [[Question-at-Issue]]
 - Surfacing [[Assumptions]] and [[Point-of-View]]
 - Examining [[Information]] and [[Concepts]]
@@ -1200,7 +1200,7 @@ For any reasoning task, the triadic model suggests this systematic approach:
 
 ### The Question-Based Analysis Method
 
-The Framework provides systematic question templates for analyzing any piece of reasoning. By combining [[Elements of Thought]] with [[Intellectual-Standards]], we generate diagnostic questions:
+The Framework provides systematic question templates for analyzing any piece of reasoning. By combining [[Elements-of-Thought]] with [[Intellectual-Standards]], we generate diagnostic questions:
 
 #### Template for Comprehensive Analysis
 

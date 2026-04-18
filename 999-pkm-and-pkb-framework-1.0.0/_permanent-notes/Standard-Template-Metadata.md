@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -123,6 +123,14 @@ importance: medium
 
 **Related concepts** *(from reference-taxonomy-current-metadata-system-2025121309.md)*:
 [[Metadata-System-Quick-Reference|Metadata System Quick Reference]] * [[Reference-Note|Reference Note]] * [[Knowledge-Graph|Knowledge Graph]] * [[Quick-Switcher|Quick Switcher]] * [[Dataviewjs-Query-Snippets|Dataviewjs Query Snippets]] * [[Taxonomy-Design-Principles|Taxonomy Design Principles]] * [[Facetted-Classification|Facetted Classification]] * [[Hierarchical-Taxonomy|Hierarchical Taxonomy]] * [[Information-Architecture|Information Architecture]] * [[Prompt-Component-Library|Prompt Component Library]] * [[Prompt-Engineering|Prompt Engineering]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Cognitive-Science|Cognitive Science]] * [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] * [[Metadata-Schema-Design|Metadata Schema Design]] * [[Obsidian-Query-Optimization|Obsidian Query Optimization]] * [[YAML-Frontmatter-Best-Practices|YAML Frontmatter Best Practices]]
+
+**Related concepts** *(from [[reference-taxonomy-current-metadata-system-2025121309]])*:
+[[Metadata-System-Quick-Reference|Metadata System Quick Reference]] * [[Reference-Note|Reference Note]] * [[Knowledge-Graph|Knowledge Graph]] * [[Quick-Switcher|Quick Switcher]] * [[Dataviewjs-Query-Snippets|Dataviewjs Query Snippets]] * [[Taxonomy-Design-Principles|Taxonomy Design Principles]] * [[Facetted-Classification|Facetted Classification]] * [[Hierarchical-Taxonomy|Hierarchical Taxonomy]] * [[Information-Architecture|Information Architecture]] * [[Prompt-Component-Library|Prompt Component Library]] * [[Prompt-Engineering|Prompt Engineering]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Cognitive-Science|Cognitive Science]] * [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] * [[Metadata-Schema-Design|Metadata Schema Design]] * [[Obsidian-Query-Optimization|Obsidian Query Optimization]] * [[YAML-Frontmatter-Best-Practices|YAML Frontmatter Best Practices]]
+
+**Related concepts** *(from [[reference-taxonomy-current-metadata-system-2025121309]])*:
+[[Metadata-System-Quick-Reference|Metadata System Quick Reference]] * [[Reference-Note|Reference Note]] * [[Knowledge-Graph|Knowledge Graph]] * [[Quick-Switcher|Quick Switcher]] * [[Dataviewjs-Query-Snippets|Dataviewjs Query Snippets]] * [[Taxonomy-Design-Principles|Taxonomy Design Principles]] * [[Facetted-Classification|Facetted Classification]] * [[Hierarchical-Taxonomy|Hierarchical Taxonomy]] * [[Information-Architecture|Information Architecture]] * [[Prompt-Component-Library|Prompt Component Library]] * [[Prompt-Engineering|Prompt Engineering]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Cognitive-Science|Cognitive Science]] * [[DataviewJS-Advanced-Patterns|DataviewJS Advanced Patterns]] * [[Metadata-Schema-Design|Metadata Schema Design]] * [[Obsidian-Query-Optimization|Obsidian Query Optimization]] * [[YAML-Frontmatter-Best-Practices|YAML Frontmatter Best Practices]]
+
+
 
 
 ## Methodology Notes

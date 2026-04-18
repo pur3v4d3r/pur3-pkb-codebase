@@ -196,7 +196,7 @@ extraction_summary:
 #### 12. [INSIGHT] Untitled *(Line 112)*
 
 > [!insight] Untitled
-> The connection stage is where PKM systems most powerfully leverage the neuroscience of [[pattern recognition]] and [[schema activation]]. When a practitioner encounters a new note and actively searches for connections to existing notes, they are performing the same associative traversal that the brain performs during memory consolidation—particularly during the [[hippocampal-cortical transfer]] process that occurs during sleep. The explicit, behavioral version of this process in PKM is cognitively more tractable than its neurological counterpart because it externalizes the associative structure, making it visible and manipulable. Building the habit of actively seeking connections—rather than merely filing and forgetting—is arguably the highest-leverage habit in the entire PKM practice.
+> The connection stage is where PKM systems most powerfully leverage the neuroscience of [[Pattern-Recognition|pattern recognition]] and [[Schema-Activation|schema activation]]. When a practitioner encounters a new note and actively searches for connections to existing notes, they are performing the same associative traversal that the brain performs during memory consolidation—particularly during the [[hippocampal-cortical transfer]] process that occurs during sleep. The explicit, behavioral version of this process in PKM is cognitively more tractable than its neurological counterpart because it externalizes the associative structure, making it visible and manipulable. Building the habit of actively seeking connections—rather than merely filing and forgetting—is arguably the highest-leverage habit in the entire PKM practice.
 
 #### 13. [EQUATION] Untitled *(Line 119)*
 
@@ -247,7 +247,7 @@ extraction_summary:
 #### 21. [CONNECTIONS-AND-LINKS] Untitled *(Line 219)*
 
 > [!connections-and-links] Untitled
-> **Core connections within the knowledge base:** This exposition connects to [[William James's Habit Theory]] (the foundational behavioral insight that automated practice frees the mind for higher work), [[John Dewey's Reflective Thinking]] (the daily PKM review cycle as structured reflective inquiry), [[Dual-Process-Theory|Dual Process Theory]] (the System 1/System 2 architecture governing the automation imperative), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the working memory constraints that PKM systems address through cognitive offloading), [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] (the dimensions of metacognitive knowledge and regulation that PKM reviews exercise), [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] (the empirically validated retrieval strategy that addresses the forgetting curve within PKM systems), and [[Self-Determination-Theory|Self-Determination Theory]] (the motivational framework governing the sustainability of PKM practice). Secondary connections include [[Zettelkasten Method]], [[PENCRISAL Critical Thinking Assessment]], [[Second Brain Methodology]], and [[Knowledge Graph Architecture]].
+> **Core connections within the knowledge base:** This exposition connects to [[William James's Habit Theory]] (the foundational behavioral insight that automated practice frees the mind for higher work), [[John Dewey's Reflective Thinking]] (the daily PKM review cycle as structured reflective inquiry), [[Dual-Process-Theory|Dual Process Theory]] (the System 1/System 2 architecture governing the automation imperative), [[Cognitive-Load-Theory|Cognitive Load Theory]] (the working memory constraints that PKM systems address through cognitive offloading), [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] (the dimensions of metacognitive knowledge and regulation that PKM reviews exercise), [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] (the empirically validated retrieval strategy that addresses the forgetting curve within PKM systems), and [[Self-Determination-Theory|Self-Determination Theory]] (the motivational framework governing the sustainability of PKM practice). Secondary connections include [[Zettelkasten-Method|Zettelkasten Method]], [[PENCRISAL Critical Thinking Assessment]], [[Second Brain Methodology]], and [[Knowledge Graph Architecture]].
 
 #### 22. [FURTHER-EXPLORATION] Untitled *(Line 222)*
 
@@ -362,7 +362,7 @@ extraction_summary:
 - [[Law of Effect]]
 - [[Linking Your Thinking]]
 - [[Logseq]]
-- [[Long-term potentiation]]
+- [[Long-Term-Potentiation|Long-term potentiation]]
 - [[MAPK]]
 - [[Mem.ai]]
 - [[Metacognition]]
@@ -381,7 +381,7 @@ extraction_summary:
 - [[Pam Mueller]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Peter Drucker]]
-- [[Peter Gollwitzer]]
+- [[Peter-Gollwitzer|Peter Gollwitzer]]
 - [[Rainer Kuhlen]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Richard-West|Richard West]]
@@ -397,7 +397,7 @@ extraction_summary:
 - [[William-James|William James]]
 - [[William James's Habit Theory]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[adaptive PKM systems]]
 - [[associative memory]]
 - [[Autonomy]]
@@ -431,12 +431,12 @@ extraction_summary:
 - [[metacognitive science]]
 - [[neurofeedback]]
 - [[organizational knowledge management]]
-- [[pattern recognition]]
+- [[Pattern-Recognition|pattern recognition]]
 - [[prefrontal-cortex|prefrontal cortex]]
 - [[Relatedness]]
 - [[Testing-Effect-Retrieval-Practice-Effect|retrieval practice effect]]
 - [[routine installation]]
-- [[schema activation]]
+- [[Schema-Activation|schema activation]]
 - [[Self-Determination-Theory|self-determination theory]]
 - [[social cognitive theory]]
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]
@@ -508,7 +508,7 @@ extraction_summary:
 | 53 | [[prefrontal-cortex|prefrontal cortex]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 54 | [[dorsolateral prefrontal cortex]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 55 | [[dorsolateral striatum]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
-| 56 | [[Long-term potentiation]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
+| 56 | [[Long-Term-Potentiation|Long-term potentiation]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 57 | [[NMDA receptor]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 58 | [[MAPK]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
 | 59 | [[CREB]] | — | — | The Habit Loop and Its PKM Instantiation | 67 |
@@ -525,11 +525,11 @@ extraction_summary:
 | 70 | [[Executive-Function|executive function]] | — | — | The Four-Stage PKM Workflow and Its H... | 108 |
 | 71 | [[associative memory]] | — | — | The Four-Stage PKM Workflow and Its H... | 110 |
 | 72 | [[Interconnected note-taking]] | — | — | The Four-Stage PKM Workflow and Its H... | 110 |
-| 73 | [[pattern recognition]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
-| 74 | [[schema activation]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
+| 73 | [[Pattern-Recognition|pattern recognition]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
+| 74 | [[Schema-Activation|schema activation]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
 | 75 | [[hippocampal-cortical transfer]] | — | — | The Four-Stage PKM Workflow and Its H... | 113 |
 | 76 | [[Implementation-Intention|implementation intention]] | — | — | Implementation Intentions and Environ... | 117 |
-| 77 | [[Peter Gollwitzer]] | — | — | Implementation Intentions and Environ... | 117 |
+| 77 | [[Peter-Gollwitzer|Peter Gollwitzer]] | — | — | Implementation Intentions and Environ... | 117 |
 | 78 | [[B.J. Fogg]] | — | — | Implementation Intentions and Environ... | 126 |
 | 79 | [[digital friction]] | — | — | Implementation Intentions and Environ... | 126 |
 | 80 | [[Spaced-Repetition-Spacing-Effect|spaced repetition]] | — | — | Spaced Repetition and the Science of ... | 134 |
@@ -582,7 +582,7 @@ extraction_summary:
 | 127 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 128 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 129 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
-| 130 | [[Zettelkasten Method]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
+| 130 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 131 | [[PENCRISAL Critical Thinking Assessment]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 132 | [[Second Brain Methodology]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
 | 133 | [[Knowledge Graph Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 220 |
@@ -683,7 +683,7 @@ $$
 - [[Law of Effect]]
 - [[Linking Your Thinking]]
 - [[Logseq]]
-- [[Long-term potentiation]]
+- [[Long-Term-Potentiation|Long-term potentiation]]
 - [[MAPK]]
 - [[Mem.ai]]
 - [[Metacognition]]
@@ -702,7 +702,7 @@ $$
 - [[Pam Mueller]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Peter Drucker]]
-- [[Peter Gollwitzer]]
+- [[Peter-Gollwitzer|Peter Gollwitzer]]
 - [[Rainer Kuhlen]]
 - [[Richard-Ryan|Richard Ryan]]
 - [[Richard-West|Richard West]]
@@ -718,7 +718,7 @@ $$
 - [[William-James|William James]]
 - [[William James's Habit Theory]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[adaptive PKM systems]]
 - [[associative memory]]
 - [[Autonomy]]
@@ -752,12 +752,12 @@ $$
 - [[metacognitive science]]
 - [[neurofeedback]]
 - [[organizational knowledge management]]
-- [[pattern recognition]]
+- [[Pattern-Recognition|pattern recognition]]
 - [[prefrontal-cortex|prefrontal cortex]]
 - [[Relatedness]]
 - [[Testing-Effect-Retrieval-Practice-Effect|retrieval practice effect]]
 - [[routine installation]]
-- [[schema activation]]
+- [[Schema-Activation|schema activation]]
 - [[Self-Determination-Theory|self-determination theory]]
 - [[social cognitive theory]]
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]

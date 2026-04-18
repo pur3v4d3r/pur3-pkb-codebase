@@ -87,7 +87,7 @@ related-concepts:
   - "[[Epistemic Discomfort]]"
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[PKM Daily Practice]]"
-  - "[[Obsidian Dataview]]"
+  - "[[Obsidian-Dataview]]"
 summary: |
   Cross-domain synthesis revealing why metacognitive monitoring — despite being universally acknowledged as essential for effective PKM — systematically fails in daily PKB practice, and how to redesign PKB systems to correct this failure structurally rather than motivationally. Central contribution: the Structural Metacognition Principle, which holds that monitoring fails not from insufficient effort or awareness but from PKB designs that accidentally reward the fluency illusion while making genuine monitoring effortful. The solution is to embed monitoring infrastructure — automated reflection prompts, calibration metadata, learning process logs, and metacognitive dashboards — as structural defaults that make honest self-assessment the easiest available action rather than the hardest. Synthesizes Zimmerman's SRL cycle, Flavell's monitoring processes, Gollwitzer's implementation intentions, and Dewey's reflective inquiry with fluency illusion research and habit formation science.
 aliases:

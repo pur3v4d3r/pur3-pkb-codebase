@@ -40,7 +40,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -487,6 +487,52 @@ importance: high
 - [[Attribution-Theory|Attribution-Theory]]
 - [[Self-Reflection-Phase|Self-Reflection-Phase]]
 
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Negative-Feedback-Control-System|Negative-Feedback-Control-System]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Ericsson|Ericsson]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Donald-Schön|Donald-Schön]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Single-Loop-Learning-vs.-Double-Loop-Learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Reflection-Phase|Self-Reflection-Phase]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Negative-Feedback-Control-System|Negative-Feedback-Control-System]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Ericsson|Ericsson]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Donald-Schön|Donald-Schön]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Single-Loop-Learning-vs.-Double-Loop-Learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Reflection-Phase|Self-Reflection-Phase]]
+
+
+
+
+
+
+
+
+
 
 
 
@@ -520,6 +566,54 @@ importance: high
 - **Argyris, C., & Schön, D. (1978). *Organizational Learning: A Theory of Action Perspective.* Addison-Wesley.**: The source of the single-loop/double-loop learning distinction used in the FAR transfer phase. The organizational defensive routines Argyris documented are structurally equivalent to the individual defensive inferences Zimmerman theorized. Recommended for readers interested in the organizational learning implications of Phase VII's transfer analysis.
 
 - **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The foundational paper for deliberate practice theory. Used in Phase VII to establish the deliberate practice–SRL cycle structural analogue. The cycle-closure mechanism's importance for expertise development is implicit in Ericsson's framework but is made explicit by the comparison with Zimmerman's model.
+
+- **Zimmerman, B.J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The primary theoretical statement of the cyclical model in its mature form. This chapter is the canonical source for the three-phase architecture and the phase-transition mechanism. Essential reading for Phases II and IV of this report; the adaptive/defensive inference distinction is elaborated here with unusual precision.
+
+- **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70.**: A highly accessible summary of the cyclical model with illustrative examples from across learning domains. Particularly useful for the expert-novice comparisons cited in Phase III. Recommended for readers seeking a shorter entry point into the primary literature before reading the full 2000 Handbook chapter.
+
+- **Zimmerman, B.J., & Kitsantas, A. (1997). Developmental phases in self-regulation: Shifting from process goals to outcome goals. *Journal of Educational Psychology, 89*(1), 29–36.**: The dart-throwing study cited in Phase III as direct experimental evidence for the self-reflection-to-forethought transition mechanism. Demonstrates that goal type during performance shapes self-reflection content which shapes subsequent self-efficacy. Supports reading in Phase III before examining other empirical studies.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.**: The foundational paper for the three-dimensional attribution framework used throughout Phase IV's mechanism analysis. The stability × controllability interaction — which generates the asymmetric risk in self-efficacy updating identified in this report — is theorized here with formal precision.
+
+- **Dweck, C.S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674–685.**: The original attribution retraining study showing that teaching children to attribute failure to insufficient effort (rather than ability) improved subsequent persistence and performance. Cited in Phase IV as the primary attribution retraining evidence supporting the self-reflection-first instructional recommendation.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7–74.**: The meta-analytic foundation for formative assessment's effectiveness. This report reinterprets Black and Wiliam's findings through the cyclical SRL lens: formative assessment works because it provides externally scaffolded cycle closure. The mechanism their analysis left unspecified is identified here as the self-reflection phase's attribution and adaptive inference sub-processes.
+
+- **Argyris, C., & Schön, D. (1978). *Organizational Learning: A Theory of Action Perspective.* Addison-Wesley.**: The source of the single-loop/double-loop learning distinction used in the FAR transfer phase. The organizational defensive routines Argyris documented are structurally equivalent to the individual defensive inferences Zimmerman theorized. Recommended for readers interested in the organizational learning implications of Phase VII's transfer analysis.
+
+- **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The foundational paper for deliberate practice theory. Used in Phase VII to establish the deliberate practice–SRL cycle structural analogue. The cycle-closure mechanism's importance for expertise development is implicit in Ericsson's framework but is made explicit by the comparison with Zimmerman's model.
+
+- **Zimmerman, B.J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The primary theoretical statement of the cyclical model in its mature form. This chapter is the canonical source for the three-phase architecture and the phase-transition mechanism. Essential reading for Phases II and IV of this report; the adaptive/defensive inference distinction is elaborated here with unusual precision.
+
+- **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70.**: A highly accessible summary of the cyclical model with illustrative examples from across learning domains. Particularly useful for the expert-novice comparisons cited in Phase III. Recommended for readers seeking a shorter entry point into the primary literature before reading the full 2000 Handbook chapter.
+
+- **Zimmerman, B.J., & Kitsantas, A. (1997). Developmental phases in self-regulation: Shifting from process goals to outcome goals. *Journal of Educational Psychology, 89*(1), 29–36.**: The dart-throwing study cited in Phase III as direct experimental evidence for the self-reflection-to-forethought transition mechanism. Demonstrates that goal type during performance shapes self-reflection content which shapes subsequent self-efficacy. Supports reading in Phase III before examining other empirical studies.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.**: The foundational paper for the three-dimensional attribution framework used throughout Phase IV's mechanism analysis. The stability × controllability interaction — which generates the asymmetric risk in self-efficacy updating identified in this report — is theorized here with formal precision.
+
+- **Dweck, C.S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674–685.**: The original attribution retraining study showing that teaching children to attribute failure to insufficient effort (rather than ability) improved subsequent persistence and performance. Cited in Phase IV as the primary attribution retraining evidence supporting the self-reflection-first instructional recommendation.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7–74.**: The meta-analytic foundation for formative assessment's effectiveness. This report reinterprets Black and Wiliam's findings through the cyclical SRL lens: formative assessment works because it provides externally scaffolded cycle closure. The mechanism their analysis left unspecified is identified here as the self-reflection phase's attribution and adaptive inference sub-processes.
+
+- **Argyris, C., & Schön, D. (1978). *Organizational Learning: A Theory of Action Perspective.* Addison-Wesley.**: The source of the single-loop/double-loop learning distinction used in the FAR transfer phase. The organizational defensive routines Argyris documented are structurally equivalent to the individual defensive inferences Zimmerman theorized. Recommended for readers interested in the organizational learning implications of Phase VII's transfer analysis.
+
+- **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The foundational paper for deliberate practice theory. Used in Phase VII to establish the deliberate practice–SRL cycle structural analogue. The cycle-closure mechanism's importance for expertise development is implicit in Ericsson's framework but is made explicit by the comparison with Zimmerman's model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

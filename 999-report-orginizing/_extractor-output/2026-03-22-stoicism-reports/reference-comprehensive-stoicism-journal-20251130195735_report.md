@@ -673,7 +673,7 @@ extraction_summary:
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
 - [[Cognitive Responses]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
@@ -701,7 +701,7 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Evening Review Practice]]
 - [[Executive-Control|Executive Control]]
-- [[Exposure Therapy]]
+- [[Exposure-Therapy|Exposure Therapy]]
 - [[External-Achievement|External Achievement]]
 - [[External Events]]
 - [[Fear-Extinction|Fear Extinction]]
@@ -752,7 +752,7 @@ extraction_summary:
 - [[PERMA Profiler]]
 - [[PKB]]
 - [[Passions]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Permanence]]
 - [[Perspective Shift]]
 - [[Philosopher-Emperor]]
@@ -802,7 +802,7 @@ extraction_summary:
 - [[Thought Records]]
 - [[Universal Reason]]
 - [[Value-Assessments]]
-- [[Values Clarification]]
+- [[Values-Clarification|Values Clarification]]
 - [[View from Above]]
 - [[Virtue]]
 - [[Virtue-Ethics|Virtue Ethics]]
@@ -895,7 +895,7 @@ extraction_summary:
 | 78 | [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] | — | — | The Metacognitive Foundation | 305 |
 | 79 | [[Rational Emotive Behavior Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
 | 80 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
-| 81 | [[Cognitive Restructuring]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
+| 81 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
 | 82 | [[Automatic Thoughts]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
 | 83 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | The CBT Connection: Philosophical Ori... | 316 |
 | 84 | [[Cognitive Disputation]] | — | — | The CBT Connection: Philosophical Ori... | 316 |
@@ -905,9 +905,9 @@ extraction_summary:
 | 88 | [[Sphere of Influence]] | — | — | The CBT Connection: Philosophical Ori... | 318 |
 | 89 | [[Rumination]] | — | — | The CBT Connection: Philosophical Ori... | 318 |
 | 90 | [[Premeditatio-Malorum]] | — | — | The CBT Connection: Philosophical Ori... | 319 |
-| 91 | [[Exposure Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 319 |
+| 91 | [[Exposure-Therapy|Exposure Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 319 |
 | 92 | [[Virtue]] | — | — | The CBT Connection: Philosophical Ori... | 320 |
-| 93 | [[Values Clarification]] | — | — | The CBT Connection: Philosophical Ori... | 320 |
+| 93 | [[Values-Clarification|Values Clarification]] | — | — | The CBT Connection: Philosophical Ori... | 320 |
 | 94 | [[Fear-Extinction|Fear Extinction]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
 | 95 | [[Emotional-Regulation|Emotional Regulation]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
 | 96 | [[Executive-Control|Executive Control]] | — | — | The CBT Connection: Philosophical Ori... | 324 |
@@ -951,7 +951,7 @@ extraction_summary:
 | 134 | [[Socratic-Questioning|Socratic Questioning]] | — | — | Integration with Modern Psychological... | 575 |
 | 135 | [[Cognitive Distortions]] | — | — | Integration with Modern Psychological... | 576 |
 | 136 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | Integration with Modern Psychological... | 581 |
-| 137 | [[Values Clarification]] | — | — | Integration with Modern Psychological... | 582 |
+| 137 | [[Values-Clarification|Values Clarification]] | — | — | Integration with Modern Psychological... | 582 |
 | 138 | [[Cognitive Defusion]] | — | — | Integration with Modern Psychological... | 583 |
 | 139 | [[Psychological Flexibility]] | — | — | Integration with Modern Psychological... | 584 |
 | 140 | [[Committed Action]] | — | — | Integration with Modern Psychological... | 585 |
@@ -1022,7 +1022,7 @@ extraction_summary:
 | 205 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 2243 |
 | 206 | [[Cognitive-Offloading|Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 2244 |
 | 207 | [[Structured Prompts]] | — | — | The Three-Pillar Architecture | 2245 |
-| 208 | [[Pattern Recognition]] | — | — | The Three-Pillar Architecture | 2246 |
+| 208 | [[Pattern-Recognition|Pattern Recognition]] | — | — | The Three-Pillar Architecture | 2246 |
 | 209 | [[Neuroplastic Change]] | — | — | The Three-Pillar Architecture | 2247 |
 | 210 | [[Second Nature]] | — | — | The Progression of Mastery | 2302 |
 | 211 | [[Metacognitive Scaffold]] | — | — | The Scaffold Model | 2332 |
@@ -1613,12 +1613,12 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 
 | Stoic Practice | Modern CBT Equivalent | Mechanism |
 | --- | --- | --- |
-| Separating judgments from events | [[Cognitive Restructuring]] | Identifying [[Automatic Thoughts]] |
+| Separating judgments from events | [[Cognitive-Restructuring|Cognitive Restructuring]] | Identifying [[Automatic Thoughts]] |
 | Examining [[Stoic-Synkatathesis-—-Assent|Assent]] to impressions | [[Cognitive Disputation]] | Challenging [[Cognitive Distortions]] |
 | Evening review | [[Thought Records]] | Documenting triggers and responses |
 | [[Dichotomy-of-Control|Dichotomy of Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
-| [[Premeditatio-Malorum]] | [[Exposure Therapy]] | Systematic desensitization |
-| [[Virtue]] cultivation | [[Values Clarification]] | Aligning behavior with principles |
+| [[Premeditatio-Malorum]] | [[Exposure-Therapy|Exposure Therapy]] | Systematic desensitization |
+| [[Virtue]] cultivation | [[Values-Clarification|Values Clarification]] | Aligning behavior with principles |
 
 ### Table 3 *(Line 856, 5 rows)*
 
@@ -1723,7 +1723,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
 - [[Cognitive Responses]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
@@ -1751,7 +1751,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Eudaimonia]]
 - [[Evening Review Practice]]
 - [[Executive-Control|Executive Control]]
-- [[Exposure Therapy]]
+- [[Exposure-Therapy|Exposure Therapy]]
 - [[External-Achievement|External Achievement]]
 - [[External Events]]
 - [[Fear-Extinction|Fear Extinction]]
@@ -1802,7 +1802,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[PERMA Profiler]]
 - [[PKB]]
 - [[Passions]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Permanence]]
 - [[Perspective Shift]]
 - [[Philosopher-Emperor]]
@@ -1852,7 +1852,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Thought Records]]
 - [[Universal Reason]]
 - [[Value-Assessments]]
-- [[Values Clarification]]
+- [[Values-Clarification|Values Clarification]]
 - [[View from Above]]
 - [[Virtue]]
 - [[Virtue-Ethics|Virtue Ethics]]

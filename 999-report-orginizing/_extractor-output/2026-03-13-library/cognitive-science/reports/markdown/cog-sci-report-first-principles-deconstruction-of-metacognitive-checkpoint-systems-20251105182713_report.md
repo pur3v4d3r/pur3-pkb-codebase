@@ -247,7 +247,7 @@ extraction_summary:
 
 > [!outcome] Untitled
 > **The Rebuilt Solution:**
-> - The new, rebuilt model is a **[[Metacognitive Checkpoint System]]**. This is a framework for [[Decision-Making]] and [[active learning]] that operates on the *assumption* of default bias. It is not a "cure" for bias, but a *prosthetic* for the mind. It is a "cognitive exoskeleton" that provides the structure, rigor, and "cognitive decoupling" that our [[System-2|System 2]] needs to function, but is too "lazy" to build on its own in real-time. This system is a designed set of *tools*—checklists, protocols, and mandatory questions—that are integrated into a workflow to *force* reflective pauses.
+> - The new, rebuilt model is a **[[Metacognitive Checkpoint System]]**. This is a framework for [[Decision-Making]] and [[Active-Learning|active learning]] that operates on the *assumption* of default bias. It is not a "cure" for bias, but a *prosthetic* for the mind. It is a "cognitive exoskeleton" that provides the structure, rigor, and "cognitive decoupling" that our [[System-2|System 2]] needs to function, but is too "lazy" to build on its own in real-time. This system is a designed set of *tools*—checklists, protocols, and mandatory questions—that are integrated into a workflow to *force* reflective pauses.
 
 #### 18. [INSIGHT] Untitled *(Line 146)*
 
@@ -321,7 +321,7 @@ extraction_summary:
 > - [[Deconstruction]]
 > - [[Dual-Process-Theory|Dual-Process Theory]]
 > - [[choice-architecture|Choice Architecture]]
-> - [[Systems Thinking]]
+> - [[Systems-Thinking|Systems Thinking]]
 > - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 
 ---
@@ -367,7 +367,7 @@ extraction_summary:
 - [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[The Law of Cognitive Miserliness]]
 - [[The Law of Cognitive Miserliness (Dual-Process Theory)]]
 - [[The Necessity of External Scaffolding]]
@@ -375,7 +375,7 @@ extraction_summary:
 - [[The Opaque Nature of Bias (The Bias Blind Spot)]]
 - [[The belief that 'willpower' is the key to productivity]]
 - [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]]
-- [[active learning]]
+- [[Active-Learning|active learning]]
 - [[as]]
 - [[Decision-Making]]
 - [[First-Principles-What-Is-Knowledge|first principles]]
@@ -455,7 +455,7 @@ extraction_summary:
 | 69 | [[System-1|System 1]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: BUILDING A... | 134 |
 | 70 | [[Metacognitive Checkpoint System]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
 | 71 | [[Decision-Making]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
-| 72 | [[active learning]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
+| 72 | [[Active-Learning|active learning]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
 | 73 | [[System-2|System 2]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 144 |
 | 74 | [[System-1|System 1]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 149 |
 | 75 | [[System-1|System 1]] | — | — | 4.0 💡 THE INSIGHT: THE REBUILT MODEL | 150 |
@@ -479,7 +479,7 @@ extraction_summary:
 | 93 | [[Deconstruction]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 212 |
 | 94 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 213 |
 | 95 | [[choice-architecture|Choice Architecture]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 214 |
-| 96 | [[Systems Thinking]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 215 |
+| 96 | [[Systems-Thinking|Systems Thinking]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 215 |
 | 97 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 216 |
 
 ---
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
 - [[System-1|System 1]]
 - [[System-2|System 2]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[The Law of Cognitive Miserliness]]
 - [[The Law of Cognitive Miserliness (Dual-Process Theory)]]
 - [[The Necessity of External Scaffolding]]
@@ -556,7 +556,7 @@ extraction_summary:
 - [[The Opaque Nature of Bias (The Bias Blind Spot)]]
 - [[The belief that 'willpower' is the key to productivity]]
 - [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]]
-- [[active learning]]
+- [[Active-Learning|active learning]]
 - [[as]]
 - [[Decision-Making]]
 - [[First-Principles-What-Is-Knowledge|first principles]]

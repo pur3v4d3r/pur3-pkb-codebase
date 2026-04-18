@@ -1,0 +1,1399 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:35.134781",
+    "source_file": "SRL-Quick-Reference-Cards.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\srl-practice\\srl-system\\SRL-Quick-Reference-Cards.md",
+    "source_file_size_bytes": 13827,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "type": "srl-reference",
+      "status": "evergreen",
+      "created": "{{date}}",
+      "updated": "{{date}}",
+      "tags": [
+        "srl-system",
+        "reference-card",
+        "mastery-grammar",
+        "attribution-retraining",
+        "goal-setting",
+        "language-design",
+        "quick-reference"
+      ],
+      "aliases": [
+        "SRL Reference Cards",
+        "Mastery Grammar Reference",
+        "Attribution Retraining Card"
+      ]
+    },
+    "word_count": 1799,
+    "character_count": 12551,
+    "line_count": 206,
+    "heading_count": 17
+  },
+  "extraction_summary": {
+    "total_items_extracted": 107,
+    "by_type": {
+      "headings": 17,
+      "callouts": 15,
+      "wiki_links": 52,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 5,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 4,
+      "lists_unordered": 14,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "🃏 SRL Quick Reference Cards",
+      "anchor": "srl-quick-reference-cards",
+      "line_number": 25,
+      "source": "SRL-Quick-Reference-Cards.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Card 1: 🎯 Goal-Setting Language Bank",
+          "anchor": "card-1-goal-setting-language-bank",
+          "line_number": 32,
+          "source": "SRL-Quick-Reference-Cards.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "What to Avoid → What to Use",
+              "anchor": "what-to-avoid-what-to-use",
+              "line_number": 37,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Comprehension Criterion Templates",
+              "anchor": "comprehension-criterion-templates",
+              "line_number": 49,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Card 2: 🔬 Attribution Retraining Protocol",
+          "anchor": "card-2-attribution-retraining-protocol",
+          "line_number": 70,
+          "source": "SRL-Quick-Reference-Cards.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Five Controllable-Attribution Candidates",
+              "anchor": "the-five-controllable-attribution-candidates",
+              "line_number": 75,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The One-Sentence Attribution Protocol",
+              "anchor": "the-one-sentence-attribution-protocol",
+              "line_number": 108,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "After Running All Five",
+              "anchor": "after-running-all-five",
+              "line_number": 115,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Card 3: 💬 Mastery Grammar vs. Performance Grammar",
+          "anchor": "card-3-mastery-grammar-vs-performance-grammar",
+          "line_number": 122,
+          "source": "SRL-Quick-Reference-Cards.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Self-Evaluation Language",
+              "anchor": "self-evaluation-language",
+              "line_number": 126,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Autonomy-Supportive vs. Controlling Self-Talk",
+              "anchor": "autonomy-supportive-vs-controlling-self-talk",
+              "line_number": 137,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Attribution-Retraining Language",
+              "anchor": "attribution-retraining-language",
+              "line_number": 149,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Card 4: 📐 Adaptive Inference Quality Checklist",
+          "anchor": "card-4-adaptive-inference-quality-checklist",
+          "line_number": 160,
+          "source": "SRL-Quick-Reference-Cards.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Examples of Good vs. Poor Adaptive Inferences",
+              "anchor": "examples-of-good-vs-poor-adaptive-inferences",
+              "line_number": 172,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Card 5: ⚡ Early Implementation Survival Guide",
+          "anchor": "card-5-early-implementation-survival-guide",
+          "line_number": 184,
+          "source": "SRL-Quick-Reference-Cards.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "What to Expect in the First 5-10 Sessions",
+              "anchor": "what-to-expect-in-the-first-5-10-sessions",
+              "line_number": 189,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Three Protective Strategies",
+              "anchor": "three-protective-strategies",
+              "line_number": 196,
+              "source": "SRL-Quick-Reference-Cards.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Purpose",
+        "body": "Rapid-access reference cards for use during [[Forethought-Phase|Forethought]] and [[Self-Reflection-Phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[Achievement-Goal-Theory]], [[Self-Determination-Theory]], [[Attribution-Theory]], and [[Formative-Assessment]] research. **Bookmark this note for quick access during sessions.**",
+        "line_number": 27,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 668,
+        "char_end": 1069
+      },
+      {
+        "type": "tip",
+        "title": "Mastery-Framed Goal Formulations",
+        "body": "Use right-column language in Forethought Protocol goal-setting. The distinction in each pair is between **stable, global, ability-referenced** language (avoid) and **specific, process-referenced, controllable** language (use). See [[Achievement-Goal-Theory]] and [[Mastery-Goal-Orientation]].",
+        "line_number": 34,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 1116,
+        "char_end": 1453
+      },
+      {
+        "type": "example",
+        "title": "Fill-in-the-blank formulas for specific, evaluable comprehension criteria. See [[The-Fluency-Illusion|why these must require cognitive production, not recognition]].",
+        "body": "",
+        "line_number": 51,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 2601,
+        "char_end": 2780
+      },
+      {
+        "type": "warning",
+        "title": "Use this card whenever you notice a global attribution during Self-Reflection.",
+        "body": "Global attributions (\"I'm not good at this,\" \"this material is too hard\") are the most consequential failure mode in the SRL cycle. They route to [[Defensive-Inference|defensive inferences]] that degrade the next [[Forethought-Phase]]. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "line_number": 72,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 3676,
+        "char_end": 4086
+      },
+      {
+        "type": "example",
+        "title": "1. Schema Gap",
+        "body": "\"Was there [[Prior-Knowledge|prior knowledge]] that this text assumed I had, that I didn't have?\"\n- **If yes:** What specific prerequisite reading would address this?\n- **Action:** Add to [[SRL-Living-Learning-Agenda]] reading queue",
+        "line_number": 79,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 4273,
+        "char_end": 4539
+      },
+      {
+        "type": "example",
+        "title": "2. Goal Calibration",
+        "body": "\"Was my comprehension criterion appropriately matched to my current schema level?\"\n- **If too ambitious:** What more proximal criterion would have been achievable?\n- **Action:** Adjust goal scope in next Forethought",
+        "line_number": 84,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 4540,
+        "char_end": 4795
+      },
+      {
+        "type": "example",
+        "title": "3. Strategy Mismatch",
+        "body": "\"Did I use the most effective reading strategy for this text type and my schema level?\"\n- **If no:** Which would have been better?\n  - [[Advance-Organizers|Advance organizer activation]]\n  - [[Elaborative-Interrogation|Elaborative interrogation]]\n  - Self-explanation at section breaks\n  - Structural reading before detail\n- **Action:** Select and implement alternative strategy",
+        "line_number": 89,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 4796,
+        "char_end": 5223
+      },
+      {
+        "type": "example",
+        "title": "4. Attention Management",
+        "body": "\"Was my attention available for the cognitive demands this text required?\"\n- **If no:** What environmental or scheduling adjustment would address this?\n- **Action:** Modify session conditions",
+        "line_number": 98,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 5224,
+        "char_end": 5459
+      },
+      {
+        "type": "example",
+        "title": "5. Time/Scope Pressure",
+        "body": "\"Did I attempt too much in this session relative to the text's density?\"\n- **If yes:** What is a more realistic scope for one session?\n- **Action:** Reduce scope in next session's Forethought",
+        "line_number": 103,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 5460,
+        "char_end": 5694
+      },
+      {
+        "type": "important",
+        "title": "For any session where process goals were substantially unmet, complete this sentence:",
+        "body": "*\"The strategy I used was [specific strategy]. It was insufficient because [specific mechanism]. A better approach for next time would be [specific alternative].\"*\n\nThis sentence structure makes it structurally difficult to make external or fixed-internal attributions. See [[Mastery-Oriented-Response-Pattern]].",
+        "line_number": 110,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 5738,
+        "char_end": 6157
+      },
+      {
+        "type": "tip",
+        "title": "The language you use in self-talk during sessions shapes your [[Achievement-Goal-Theory|goal orientation]]. Performance grammar activates ego-threat; mastery grammar activates learning orientation. See [[Formative-Assessment]] and [[Self-Determination-Theory]].",
+        "body": "",
+        "line_number": 124,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 6643,
+        "char_end": 6914
+      },
+      {
+        "type": "warning",
+        "title": "Even self-directed controlling language undermines [[Intrinsic-Motivation]]. See [[Self-Determination-Theory]] and [[Autonomy-Support]].",
+        "body": "",
+        "line_number": 139,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 7918,
+        "char_end": 8068
+      },
+      {
+        "type": "tip",
+        "title": "Use this checklist to validate that the adaptive inferences you generate in Self-Reflection are genuinely actionable. See [[Adaptive-Inference]].",
+        "body": "",
+        "line_number": 162,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 9415,
+        "char_end": 9570
+      },
+      {
+        "type": "warning",
+        "title": "The Early Implementation Dip Is Normal",
+        "body": "Research on [[Deliberate-Practice]] and metacognitive training consistently shows an initial performance dip when implementing explicit self-regulatory strategies. This is expected and temporary — the cognitive overhead of the new protocols competes with resources available for content processing. See [[Cognitive-Load-Theory]].",
+        "line_number": 186,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 10715,
+        "char_end": 11099
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**PKB Connections:**\n- [[Achievement-Goal-Theory]] — Grounds the mastery/performance language distinction\n- [[Self-Determination-Theory]] — Grounds the autonomy-supportive language design\n- [[Attribution-Theory]] — Grounds the attribution retraining protocol\n- [[Bernard-Weiner]] — The locus-stability-controllability framework\n- [[Formative-Assessment]] — Descriptive vs. evaluative feedback principles\n- [[The-Fluency-Illusion]] — Why comprehension criteria must require production\n- [[Mastery-Oriented-Response-Pattern]] — The target response pattern for difficulty\n- [[Growth-Mindset]] — Incremental theory supporting adaptive attributions\n- [[Deliberate-Practice]] — The early implementation dip is a deliberate practice phenomenon\n- [[Intrinsic-Motivation]] — Language design protects autonomous motivation\n- [[Adaptive-Inference]] — The quality checklist validates inference quality",
+        "line_number": 215,
+        "source": "SRL-Quick-Reference-Cards.md",
+        "char_start": 12245,
+        "char_end": 13186
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": "Forethought",
+        "full_match": "[[Forethought-Phase|Forethought]]",
+        "line_number": 28,
+        "section": "🃏 SRL Quick Reference Cards",
+        "context_line": "> Rapid-access reference cards for use during [[Forethought-Phase|Forethought]] and [[Self-Reflection-Phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[Achievement-Goal-Theory]], [[Self-Determination-Theory]], [[Attribution-Theory]], and [[Formative-Assessment]] research. **Bookmark this note for quick access during sessions.**",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": "Self-Reflection",
+        "full_match": "[[Self-Reflection-Phase|Self-Reflection]]",
+        "line_number": 28,
+        "section": "🃏 SRL Quick Reference Cards",
+        "context_line": "> Rapid-access reference cards for use during [[Forethought-Phase|Forethought]] and [[Self-Reflection-Phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[Achievement-Goal-Theory]], [[Self-Determination-Theory]], [[Attribution-Theory]], and [[Formative-Assessment]] research. **Bookmark this note for quick access during sessions.**",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 28,
+        "section": "🃏 SRL Quick Reference Cards",
+        "context_line": "> Rapid-access reference cards for use during [[Forethought-Phase|Forethought]] and [[Self-Reflection-Phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[Achievement-Goal-Theory]], [[Self-Determination-Theory]], [[Attribution-Theory]], and [[Formative-Assessment]] research. **Bookmark this note for quick access during sessions.**",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 28,
+        "section": "🃏 SRL Quick Reference Cards",
+        "context_line": "> Rapid-access reference cards for use during [[Forethought-Phase|Forethought]] and [[Self-Reflection-Phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[Achievement-Goal-Theory]], [[Self-Determination-Theory]], [[Attribution-Theory]], and [[Formative-Assessment]] research. **Bookmark this note for quick access during sessions.**",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 28,
+        "section": "🃏 SRL Quick Reference Cards",
+        "context_line": "> Rapid-access reference cards for use during [[Forethought-Phase|Forethought]] and [[Self-Reflection-Phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[Achievement-Goal-Theory]], [[Self-Determination-Theory]], [[Attribution-Theory]], and [[Formative-Assessment]] research. **Bookmark this note for quick access during sessions.**",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 28,
+        "section": "🃏 SRL Quick Reference Cards",
+        "context_line": "> Rapid-access reference cards for use during [[Forethought-Phase|Forethought]] and [[Self-Reflection-Phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[Achievement-Goal-Theory]], [[Self-Determination-Theory]], [[Attribution-Theory]], and [[Formative-Assessment]] research. **Bookmark this note for quick access during sessions.**",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 35,
+        "section": "Card 1: 🎯 Goal-Setting Language Bank",
+        "context_line": "> Use right-column language in Forethought Protocol goal-setting. The distinction in each pair is between **stable, global, ability-referenced** language (avoid) and **specific, process-referenced, controllable** language (use). See [[Achievement-Goal-Theory]] and [[Mastery-Goal-Orientation]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Mastery-Goal-Orientation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Goal-Orientation]]",
+        "line_number": 35,
+        "section": "Card 1: 🎯 Goal-Setting Language Bank",
+        "context_line": "> Use right-column language in Forethought Protocol goal-setting. The distinction in each pair is between **stable, global, ability-referenced** language (avoid) and **specific, process-referenced, controllable** language (use). See [[Achievement-Goal-Theory]] and [[Mastery-Goal-Orientation]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Prior-Knowledge",
+        "heading": null,
+        "display_text": "prior knowledge",
+        "full_match": "[[Prior-Knowledge|prior knowledge]]",
+        "line_number": 43,
+        "section": "What to Avoid → What to Use",
+        "context_line": "| Responding to difficulty | \"This section is too hard\" | \"This section reveals a [[Prior-Knowledge|prior knowledge]] gap — I'll flag it for attribution analysis\" |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "The-Fluency-Illusion",
+        "heading": null,
+        "display_text": "why these must require cognitive production, not recognition",
+        "full_match": "[[The-Fluency-Illusion|why these must require cognitive production, not recognition]]",
+        "line_number": 51,
+        "section": "Comprehension Criterion Templates",
+        "context_line": "> [!example] Fill-in-the-blank formulas for specific, evaluable comprehension criteria. See [[The-Fluency-Illusion|why these must require cognitive production, not recognition]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "specific PKB note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[specific PKB note]]",
+        "line_number": 60,
+        "section": "Comprehension Criterion Templates",
+        "context_line": "> \"Be able to articulate how [concept from this text] relates to [[specific PKB note]], including where they align and where they create tension.\"",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Defensive-Inference",
+        "heading": null,
+        "display_text": "defensive inferences",
+        "full_match": "[[Defensive-Inference|defensive inferences]]",
+        "line_number": 73,
+        "section": "Card 2: 🔬 Attribution Retraining Protocol",
+        "context_line": "> Global attributions (\"I'm not good at this,\" \"this material is too hard\") are the most consequential failure mode in the SRL cycle. They route to [[Defensive-Inference|defensive inferences]] that degrade the next [[Forethought-Phase]]. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 73,
+        "section": "Card 2: 🔬 Attribution Retraining Protocol",
+        "context_line": "> Global attributions (\"I'm not good at this,\" \"this material is too hard\") are the most consequential failure mode in the SRL cycle. They route to [[Defensive-Inference|defensive inferences]] that degrade the next [[Forethought-Phase]]. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 73,
+        "section": "Card 2: 🔬 Attribution Retraining Protocol",
+        "context_line": "> Global attributions (\"I'm not good at this,\" \"this material is too hard\") are the most consequential failure mode in the SRL cycle. They route to [[Defensive-Inference|defensive inferences]] that degrade the next [[Forethought-Phase]]. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Bernard-Weiner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bernard-Weiner]]",
+        "line_number": 73,
+        "section": "Card 2: 🔬 Attribution Retraining Protocol",
+        "context_line": "> Global attributions (\"I'm not good at this,\" \"this material is too hard\") are the most consequential failure mode in the SRL cycle. They route to [[Defensive-Inference|defensive inferences]] that degrade the next [[Forethought-Phase]]. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Attribution-Retraining",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining]]",
+        "line_number": 73,
+        "section": "Card 2: 🔬 Attribution Retraining Protocol",
+        "context_line": "> Global attributions (\"I'm not good at this,\" \"this material is too hard\") are the most consequential failure mode in the SRL cycle. They route to [[Defensive-Inference|defensive inferences]] that degrade the next [[Forethought-Phase]]. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Prior-Knowledge",
+        "heading": null,
+        "display_text": "prior knowledge",
+        "full_match": "[[Prior-Knowledge|prior knowledge]]",
+        "line_number": 80,
+        "section": "The Five Controllable-Attribution Candidates",
+        "context_line": "> \"Was there [[Prior-Knowledge|prior knowledge]] that this text assumed I had, that I didn't have?\"",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 82,
+        "section": "The Five Controllable-Attribution Candidates",
+        "context_line": "> - **Action:** Add to [[SRL-Living-Learning-Agenda]] reading queue",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Advance-Organizers",
+        "heading": null,
+        "display_text": "Advance organizer activation",
+        "full_match": "[[Advance-Organizers|Advance organizer activation]]",
+        "line_number": 92,
+        "section": "The Five Controllable-Attribution Candidates",
+        "context_line": ">   - [[Advance-Organizers|Advance organizer activation]]",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": "Elaborative interrogation",
+        "full_match": "[[Elaborative-Interrogation|Elaborative interrogation]]",
+        "line_number": 93,
+        "section": "The Five Controllable-Attribution Candidates",
+        "context_line": ">   - [[Elaborative-Interrogation|Elaborative interrogation]]",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Mastery-Oriented-Response-Pattern",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Oriented-Response-Pattern]]",
+        "line_number": 113,
+        "section": "The One-Sentence Attribution Protocol",
+        "context_line": "> This sentence structure makes it structurally difficult to make external or fixed-internal attributions. See [[Mastery-Oriented-Response-Pattern]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Scaffolding-Instructional-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Scaffolding-Instructional-Design]]",
+        "line_number": 118,
+        "section": "After Running All Five",
+        "context_line": "Make a note to return to this text after completing a lighter introduction to the domain (schema-building session). The attribution may be accurate — this material genuinely exceeds current schema — but the corrective action is still specific and controllable: **build the schema first.** See [[Scaffolding-Instructional-Design]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": "goal orientation",
+        "full_match": "[[Achievement-Goal-Theory|goal orientation]]",
+        "line_number": 124,
+        "section": "Card 3: 💬 Mastery Grammar vs. Performance Grammar",
+        "context_line": "> [!tip] The language you use in self-talk during sessions shapes your [[Achievement-Goal-Theory|goal orientation]]. Performance grammar activates ego-threat; mastery grammar activates learning orientation. See [[Formative-Assessment]] and [[Self-Determination-Theory]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 124,
+        "section": "Card 3: 💬 Mastery Grammar vs. Performance Grammar",
+        "context_line": "> [!tip] The language you use in self-talk during sessions shapes your [[Achievement-Goal-Theory|goal orientation]]. Performance grammar activates ego-threat; mastery grammar activates learning orientation. See [[Formative-Assessment]] and [[Self-Determination-Theory]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 124,
+        "section": "Card 3: 💬 Mastery Grammar vs. Performance Grammar",
+        "context_line": "> [!tip] The language you use in self-talk during sessions shapes your [[Achievement-Goal-Theory|goal orientation]]. Performance grammar activates ego-threat; mastery grammar activates learning orientation. See [[Formative-Assessment]] and [[Self-Determination-Theory]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Transfer-of-Learning\\",
+        "heading": null,
+        "display_text": "transfer",
+        "full_match": "[[Transfer-of-Learning\\|transfer]]",
+        "line_number": 131,
+        "section": "Self-Evaluation Language",
+        "context_line": "| \"Did I get it?\" | \"What can I now do with this that I couldn't before?\" | Activates [[Transfer-of-Learning\\|transfer]] as criterion |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Metacognitive-Calibration\\",
+        "heading": null,
+        "display_text": "calibration",
+        "full_match": "[[Metacognitive-Calibration\\|calibration]]",
+        "line_number": 134,
+        "section": "Self-Evaluation Language",
+        "context_line": "| \"I failed to meet my goals\" | \"I learned that these goals were [too ambitious / calibrated / too easy]\" | Reframes performance data as [[Metacognitive-Calibration\\|calibration]] information |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Entity-Theory\\",
+        "heading": null,
+        "display_text": "Entity",
+        "full_match": "[[Entity-Theory\\|Entity]]",
+        "line_number": 135,
+        "section": "Self-Evaluation Language",
+        "context_line": "| \"I'm struggling with this\" | \"This is an area of developing capability\" | [[Entity-Theory\\|Entity]] vs. [[Growth-Mindset\\|incremental]] framing |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Growth-Mindset\\",
+        "heading": null,
+        "display_text": "incremental",
+        "full_match": "[[Growth-Mindset\\|incremental]]",
+        "line_number": 135,
+        "section": "Self-Evaluation Language",
+        "context_line": "| \"I'm struggling with this\" | \"This is an area of developing capability\" | [[Entity-Theory\\|Entity]] vs. [[Growth-Mindset\\|incremental]] framing |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Intrinsic-Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic-Motivation]]",
+        "line_number": 139,
+        "section": "Autonomy-Supportive vs. Controlling Self-Talk",
+        "context_line": "> [!warning] Even self-directed controlling language undermines [[Intrinsic-Motivation]]. See [[Self-Determination-Theory]] and [[Autonomy-Support]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 139,
+        "section": "Autonomy-Supportive vs. Controlling Self-Talk",
+        "context_line": "> [!warning] Even self-directed controlling language undermines [[Intrinsic-Motivation]]. See [[Self-Determination-Theory]] and [[Autonomy-Support]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Autonomy-Support",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomy-Support]]",
+        "line_number": 139,
+        "section": "Autonomy-Supportive vs. Controlling Self-Talk",
+        "context_line": "> [!warning] Even self-directed controlling language undermines [[Intrinsic-Motivation]]. See [[Self-Determination-Theory]] and [[Autonomy-Support]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Adaptive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adaptive-Inference]]",
+        "line_number": 162,
+        "section": "Card 4: 📐 Adaptive Inference Quality Checklist",
+        "context_line": "> [!tip] Use this checklist to validate that the adaptive inferences you generate in Self-Reflection are genuinely actionable. See [[Adaptive-Inference]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "self-explanation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[self-explanation]]",
+        "line_number": 176,
+        "section": "Examples of Good vs. Poor Adaptive Inferences",
+        "context_line": "| \"Be more focused\" | \"Set a 25-minute timer and do a [[self-explanation]] at each section break\" |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative-Interrogation]]",
+        "line_number": 177,
+        "section": "Examples of Good vs. Poor Adaptive Inferences",
+        "context_line": "| \"Read more carefully\" | \"Use [[Elaborative-Interrogation]] on mechanism sections by asking 'why does this work?'\" |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "specific PKB note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[specific PKB note]]",
+        "line_number": 178,
+        "section": "Examples of Good vs. Poor Adaptive Inferences",
+        "context_line": "| \"Prepare better\" | \"Review [[specific PKB note]] before the session to activate relevant schema\" |",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 187,
+        "section": "Card 5: ⚡ Early Implementation Survival Guide",
+        "context_line": "> Research on [[Deliberate-Practice]] and metacognitive training consistently shows an initial performance dip when implementing explicit self-regulatory strategies. This is expected and temporary — the cognitive overhead of the new protocols competes with resources available for content processing. See [[Cognitive-Load-Theory]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive-Load-Theory]]",
+        "line_number": 187,
+        "section": "Card 5: ⚡ Early Implementation Survival Guide",
+        "context_line": "> Research on [[Deliberate-Practice]] and metacognitive training consistently shows an initial performance dip when implementing explicit self-regulatory strategies. This is expected and temporary — the cognitive overhead of the new protocols competes with resources available for content processing. See [[Cognitive-Load-Theory]].",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 206,
+        "section": "Three Protective Strategies",
+        "context_line": "- This maintains [[Self-Efficacy]] during the adaptation period",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 209,
+        "section": "Three Protective Strategies",
+        "context_line": "- Track sessions completed in [[SRL-Calibration-Log]]",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": "mastery experience",
+        "full_match": "[[Self-Efficacy|mastery experience]]",
+        "line_number": 211,
+        "section": "Three Protective Strategies",
+        "context_line": "- The visible record of practice IS the [[Self-Efficacy|mastery experience]]",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 217,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Achievement-Goal-Theory]] — Grounds the mastery/performance language distinction",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 218,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Self-Determination-Theory]] — Grounds the autonomy-supportive language design",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 219,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Attribution-Theory]] — Grounds the attribution retraining protocol",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Bernard-Weiner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bernard-Weiner]]",
+        "line_number": 220,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Bernard-Weiner]] — The locus-stability-controllability framework",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 221,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Formative-Assessment]] — Descriptive vs. evaluative feedback principles",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "The-Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Fluency-Illusion]]",
+        "line_number": 222,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[The-Fluency-Illusion]] — Why comprehension criteria must require production",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Mastery-Oriented-Response-Pattern",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Oriented-Response-Pattern]]",
+        "line_number": 223,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Mastery-Oriented-Response-Pattern]] — The target response pattern for difficulty",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Growth-Mindset",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset]]",
+        "line_number": 224,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Growth-Mindset]] — Incremental theory supporting adaptive attributions",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 225,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Deliberate-Practice]] — The early implementation dip is a deliberate practice phenomenon",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Intrinsic-Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic-Motivation]]",
+        "line_number": 226,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Intrinsic-Motivation]] — Language design protects autonomous motivation",
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "target": "Adaptive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adaptive-Inference]]",
+        "line_number": 227,
+        "section": "Three Protective Strategies",
+        "context_line": "> - [[Adaptive-Inference]] — The quality checklist validates inference quality",
+        "source": "SRL-Quick-Reference-Cards.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "🃏 SRL Quick Reference Cards",
+        "anchor": "srl-quick-reference-cards",
+        "line_number": 25,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 2,
+        "text": "Card 1: 🎯 Goal-Setting Language Bank",
+        "anchor": "card-1-goal-setting-language-bank",
+        "line_number": 32,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "What to Avoid → What to Use",
+        "anchor": "what-to-avoid-what-to-use",
+        "line_number": 37,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "Comprehension Criterion Templates",
+        "anchor": "comprehension-criterion-templates",
+        "line_number": 49,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 2,
+        "text": "Card 2: 🔬 Attribution Retraining Protocol",
+        "anchor": "card-2-attribution-retraining-protocol",
+        "line_number": 70,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "The Five Controllable-Attribution Candidates",
+        "anchor": "the-five-controllable-attribution-candidates",
+        "line_number": 75,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "The One-Sentence Attribution Protocol",
+        "anchor": "the-one-sentence-attribution-protocol",
+        "line_number": 108,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "After Running All Five",
+        "anchor": "after-running-all-five",
+        "line_number": 115,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 2,
+        "text": "Card 3: 💬 Mastery Grammar vs. Performance Grammar",
+        "anchor": "card-3-mastery-grammar-vs-performance-grammar",
+        "line_number": 122,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "Self-Evaluation Language",
+        "anchor": "self-evaluation-language",
+        "line_number": 126,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "Autonomy-Supportive vs. Controlling Self-Talk",
+        "anchor": "autonomy-supportive-vs-controlling-self-talk",
+        "line_number": 137,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "Attribution-Retraining Language",
+        "anchor": "attribution-retraining-language",
+        "line_number": 149,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 2,
+        "text": "Card 4: 📐 Adaptive Inference Quality Checklist",
+        "anchor": "card-4-adaptive-inference-quality-checklist",
+        "line_number": 160,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "Examples of Good vs. Poor Adaptive Inferences",
+        "anchor": "examples-of-good-vs-poor-adaptive-inferences",
+        "line_number": 172,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 2,
+        "text": "Card 5: ⚡ Early Implementation Survival Guide",
+        "anchor": "card-5-early-implementation-survival-guide",
+        "line_number": 184,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "What to Expect in the First 5-10 Sessions",
+        "anchor": "what-to-expect-in-the-first-5-10-sessions",
+        "line_number": 189,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "level": 3,
+        "text": "Three Protective Strategies",
+        "anchor": "three-protective-strategies",
+        "line_number": 196,
+        "source": "SRL-Quick-Reference-Cards.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [
+      {
+        "headers": [
+          "Situation",
+          "❌ Performance-Oriented (Avoid)",
+          "✅ Mastery-Oriented (Use)"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Setting outcome goal",
+            "\"Understand this report thoroughly\"",
+            "\"Explain the key mechanism in my own words\""
+          ],
+          [
+            "Setting process goal",
+            "\"Take good notes\"",
+            "\"Write a one-sentence summary at each section break\""
+          ],
+          [
+            "Responding to difficulty",
+            "\"This section is too hard\"",
+            "\"This section reveals a [[Prior-Knowledge",
+            "prior knowledge]] gap — I'll flag it for attribution analysis\""
+          ],
+          [
+            "Post-session failure",
+            "\"I didn't understand this well enough\"",
+            "\"Sections 2 and 4 were not fully reconstructed — here's why…\""
+          ],
+          [
+            "Process failure",
+            "\"I wasn't focused enough\"",
+            "\"I skipped the monitoring checkpoint at section 3 — specific fix: set a timer\""
+          ],
+          [
+            "Success attribution",
+            "\"I got lucky this was easy\"",
+            "\"My PKB reconnaissance activated relevant schemas that supported comprehension\""
+          ],
+          [
+            "Failure attribution",
+            "\"I'm not good at this material\"",
+            "\"I encountered this framework without adequate preparation — addressable by reviewing [[]] first\""
+          ]
+        ],
+        "line_start": 39,
+        "row_count": 7,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "headers": [
+          "❌ Performance Grammar",
+          "✅ Mastery Grammar",
+          "Why"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "\"How well did I do?\"",
+            "\"What did I understand better by the end?\"",
+            "Shifts from judgment → growth"
+          ],
+          [
+            "\"Did I get it?\"",
+            "\"What can I now do with this that I couldn't before?\"",
+            "Activates [[Transfer-of-Learning\\",
+            "transfer]] as criterion"
+          ],
+          [
+            "\"Was this good enough?\"",
+            "\"Where is the growing edge of my current understanding?\"",
+            "Positions incompleteness as directional, not deficient"
+          ],
+          [
+            "\"I should have done better\"",
+            "\"Here is what I understand about why this was difficult\"",
+            "Replaces self-criticism with analysis"
+          ],
+          [
+            "\"I failed to meet my goals\"",
+            "\"I learned that these goals were [too ambitious / calibrated / too easy]\"",
+            "Reframes performance data as [[Metacognitive-Calibration\\",
+            "calibration]] information"
+          ],
+          [
+            "\"I'm struggling with this\"",
+            "\"This is an area of developing capability\"",
+            "[[Entity-Theory\\",
+            "Entity]] vs. [[Growth-Mindset\\",
+            "incremental]] framing"
+          ]
+        ],
+        "line_start": 128,
+        "row_count": 6,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "headers": [
+          "❌ Controlling Language",
+          "✅ Autonomy-Supportive Language"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "\"I have to get through this\"",
+            "\"I'm choosing to engage with this because…\""
+          ],
+          [
+            "\"I must understand this section\"",
+            "\"I'm curious about what this section will add to my understanding of X\""
+          ],
+          [
+            "\"I should be further along\"",
+            "\"Where I am is the starting point for where I'm going\""
+          ],
+          [
+            "\"I can't skip this even though it's tedious\"",
+            "\"I notice resistance — what does that tell me about my current relationship with this content?\""
+          ],
+          [
+            "\"I need to try harder\"",
+            "\"I want to try a different approach to see what happens\""
+          ]
+        ],
+        "line_start": 141,
+        "row_count": 5,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "headers": [
+          "❌ Maladaptive Attribution",
+          "🔄 Retraining Prompt",
+          "✅ Adaptive Direction"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "\"This material is just too dense\"",
+            "\"What specific aspect of my current schema made this density challenging?\"",
+            "Underdeveloped background → specific reading strategy"
+          ],
+          [
+            "\"I didn't have enough time\"",
+            "\"What would I have done differently with better time management?\"",
+            "Time allocation → adjustable"
+          ],
+          [
+            "\"I'm not a theory person\"",
+            "\"What specific processing does theoretical material require that I haven't developed yet?\"",
+            "Missing strategy → developable"
+          ],
+          [
+            "\"I was too tired\"",
+            "\"What environmental conditions support my best engagement?\"",
+            "Environmental design → controllable"
+          ]
+        ],
+        "line_start": 151,
+        "row_count": 4,
+        "source": "SRL-Quick-Reference-Cards.md"
+      },
+      {
+        "headers": [
+          "❌ Poor (vague, unactionable)",
+          "✅ Good (specific, testable)"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "\"Be more focused\"",
+            "\"Set a 25-minute timer and do a [[self-explanation]] at each section break\""
+          ],
+          [
+            "\"Read more carefully\"",
+            "\"Use [[Elaborative-Interrogation]] on mechanism sections by asking 'why does this work?'\""
+          ],
+          [
+            "\"Prepare better\"",
+            "\"Review [[specific PKB note]] before the session to activate relevant schema\""
+          ],
+          [
+            "\"Take more time\"",
+            "\"Reduce scope to sections 1-3 only, saving sections 4-5 for a separate session\""
+          ],
+          [
+            "\"Try harder\"",
+            "\"Add process goal: write one connection to existing PKB knowledge per section\""
+          ]
+        ],
+        "line_start": 174,
+        "row_count": 5,
+        "source": "SRL-Quick-Reference-Cards.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Sessions will feel longer** — The protocol adds 15-25 minutes to each session",
+          "indent_level": 0,
+          "line_number": 190,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "**Comprehension may temporarily decrease** — This is normal, not evidence of failure",
+          "indent_level": 0,
+          "line_number": 192,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "**The protocols will feel awkward** — Like any new skill, fluency develops through practice",
+          "indent_level": 0,
+          "line_number": 193,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "**You will want to skip zones** — This is the precise moment to persist",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "SRL-Quick-Reference-Cards.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "[ ] **Specific** — Names a particular strategy or behavior (not \"try harder\")",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "[ ] **Actionable** — Can be entered directly into the next Forethought template",
+          "indent_level": 0,
+          "line_number": 167,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "[ ] **Testable** — You can tell whether it worked after the next session",
+          "indent_level": 0,
+          "line_number": 168,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "[ ] **Within control** — Depends on your actions, not circumstances",
+          "indent_level": 0,
+          "line_number": 169,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "[ ] **Strategy-based** — Addresses HOW you approach the material, not whether you're \"capable\"",
+          "indent_level": 0,
+          "line_number": 170,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "Weeks 1-2: Implement Zone 1 (Prior Knowledge) and Zone 3 (Goal Setting) from Forethought only",
+          "indent_level": 0,
+          "line_number": 199,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "Weeks 3-4: Add Zone 1 (Cold Reconstruction) from Self-Reflection",
+          "indent_level": 0,
+          "line_number": 200,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "Weeks 5-6: Add remaining zones gradually",
+          "indent_level": 0,
+          "line_number": 201,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "**Do NOT implement the full protocol immediately**",
+          "indent_level": 0,
+          "line_number": 202,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "Count a session as successful if you **executed the protocol with integrity** — regardless of comprehension outcome",
+          "indent_level": 0,
+          "line_number": 205,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "This maintains [[Self-Efficacy]] during the adaptation period",
+          "indent_level": 0,
+          "line_number": 206,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "Track sessions completed in [[SRL-Calibration-Log]]",
+          "indent_level": 0,
+          "line_number": 209,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "Note when zones become easier to complete",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "SRL-Quick-Reference-Cards.md"
+        },
+        {
+          "text": "The visible record of practice IS the [[Self-Efficacy|mastery experience]]",
+          "indent_level": 0,
+          "line_number": 211,
+          "source": "SRL-Quick-Reference-Cards.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Advance-Organizers",
+      "Attribution-Retraining",
+      "Attribution-Theory",
+      "Autonomy-Support",
+      "Bernard-Weiner",
+      "Cognitive-Load-Theory",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Elaborative-Interrogation",
+      "Entity-Theory\\",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Growth-Mindset",
+      "Growth-Mindset\\",
+      "Intrinsic-Motivation",
+      "Mastery-Goal-Orientation",
+      "Mastery-Oriented-Response-Pattern",
+      "Metacognitive-Calibration\\",
+      "Prior-Knowledge",
+      "SRL-Calibration-Log",
+      "SRL-Living-Learning-Agenda",
+      "Scaffolding-Instructional-Design",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Reflection-Phase",
+      "The-Fluency-Illusion",
+      "Transfer-of-Learning\\",
+      "self-explanation",
+      "specific PKB note"
+    ],
+    "unique_wiki_link_count": 31,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Advance-Organizers",
+      "Attribution-Retraining",
+      "Attribution-Theory",
+      "Autonomy-Support",
+      "Bernard-Weiner",
+      "Cognitive-Load-Theory",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Elaborative-Interrogation",
+      "Entity-Theory\\",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Growth-Mindset",
+      "Growth-Mindset\\",
+      "Intrinsic-Motivation",
+      "Mastery-Goal-Orientation",
+      "Mastery-Oriented-Response-Pattern",
+      "Metacognitive-Calibration\\",
+      "Prior-Knowledge",
+      "SRL-Calibration-Log",
+      "SRL-Living-Learning-Agenda",
+      "Scaffolding-Instructional-Design",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Reflection-Phase",
+      "The-Fluency-Illusion",
+      "Transfer-of-Learning\\",
+      "self-explanation",
+      "specific PKB note"
+    ]
+  }
+}

@@ -338,7 +338,7 @@ Encode where/when/how to apply captured knowledge.
 ### Inline Application Markers
 ```markdown
 [**Application-Domain**:: [[Domain]] | trigger:"situation description" | action:"recommended response" | confidence:high]
-[**Anti-Pattern**:: [[Concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
+[**Anti-Pattern**:: [[concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
 ```
 </inline_syntax>
 <trigger_condition_patterns>
@@ -572,7 +572,7 @@ Encode where/when/how to apply captured knowledge.
 ### Inline Application Markers
 ```markdown
 [**Application-Domain**:: [[Domain]] | trigger:"situation description" | action:"recommended response" | confidence:high]
-[**Anti-Pattern**:: [[Concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
+[**Anti-Pattern**:: [[concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
 ```
 </inline_syntax>
 <trigger_condition_patterns>
@@ -769,8 +769,8 @@ Explicitly connect concepts to foundational mental models.
 <inline_syntax>
 ### Inline Model Anchors
 ```markdown
-[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
-[**Model-Application**:: [[Concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
+[**Model-Anchor**:: [[concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
+[**Model-Application**:: [[concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
 </inline_syntax>
 <foundational_model_library>
@@ -781,7 +781,7 @@ Explicitly connect concepts to foundational mental models.
 | [[First Principles]] | Decompose to fundamentals | "What are the basic building blocks?" |
 | [[Inversion]] | Solve by negation | "What would make this fail?" |
 | [[Second-Order Effects]] | Consequences of consequences | "And then what?" |
-| [[Systems Thinking]] | Interconnected wholes | "What are the feedback loops?" |
+| [[Systems-Thinking]] | Interconnected wholes | "What are the feedback loops?" |
 | [[Opportunity Cost]] | Value of alternatives foregone | "What am I giving up?" |
 | [[Constraint Theory]] | Bottleneck identification | "What's the limiting factor?" |
 | [[Circle of Competence]] | Know your limits | "Am I qualified to judge this?" |
@@ -1694,7 +1694,7 @@ Follow the full output scaffold below.
 > Explicitly analyze how this topic connects to broader PKM and cognitive science concepts:  
 > - [[Second-Order Thinking]] → enhances prompt design by anticipating model behavior  
 > - [[Cognitive-Load-Theory]] → informs clarity and structure of prompts  
-> - [[Systems Thinking]] → models LLMs as components in knowledge workflows  
+> - [[Systems-Thinking]] → models LLMs as components in knowledge workflows  
 > - [[First Principles]] → enables deconstruction of prompt failures  
 > - [[spaced-practice]] → suggests iterative refinement cycles  
 > - [[Mental-Models]] → frames prompting as model-based reasoning  
@@ -1818,7 +1818,7 @@ review-history:
 > **Primary Model Anchors**:  
 >  - [[First Principles]] — deconstruct prompts to intent, structure, constraints  
 >  - [[Inversion]] — "What would make this prompt fail?"  
->  - [[Systems Thinking]] — model the human-AI interaction loop  
+>  - [[Systems-Thinking]] — model the human-AI interaction loop  
 >   
 > **Model Application Notes**:  
 >  - First Principles helps eliminate unnecessary complexity  
@@ -2131,7 +2131,7 @@ Follow the universal output scaffold below.
 > [!connections-and-links]  
 > **Integration with Cognitive Frameworks**  
 > - [[First Principles]] → deconstructs complex systems  
-> - [[Systems Thinking]] → maps interdependencies  
+> - [[Systems-Thinking]] → maps interdependencies  
 > - [[Second-Order Effects]] → anticipates downstream impacts  
 > - [[Constraint Theory]] → identifies bottlenecks  
 > - [[Mental-Models]] → enables cross-domain transfer  
@@ -2182,7 +2182,7 @@ Use `%%ATOMIC: slug | type | priority | reason%%` for lower-priority items.
 
 <synthesis_potential_markers>  
 > [!synthesis-opportunity] [Title]  
-> **Source Domain**: [[Primary]] — [[Concept]]  
+> **Source Domain**: [[Primary]] — [[concept]]  
 > **Target Domains**: [[Domain 1]], [[Domain 2]]  
 > **Synthesis Type**: analogical  
 > **Seed Questions**:  
@@ -2215,7 +2215,7 @@ review-history:
 > **Primary Model Anchors**:  
 >  - [[First Principles]] — [explanation]  
 >  - [[Inversion]] — [explanation]  
->  - [[Systems Thinking]] — [explanation]  
+>  - [[Systems-Thinking]] — [explanation]  
 >   
 > **Inverse Application**:  
 >  - Can be applied to: [[Domain 1]], [[Domain 2]]  

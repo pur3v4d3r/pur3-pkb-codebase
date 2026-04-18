@@ -611,7 +611,7 @@ aliases: [Spaced Practice, Distributed Practice, SR]
 > [!methodology-and-sources]
 > [Practical framework]
 ## Related Concepts
-See also: [[Active Recall]], [[Interleaved Practice]], [[Desirable Difficulty]]
+See also: [[Active-Recall]], [[Interleaved Practice]], [[Desirable Difficulty]]
 ```
 **Characteristics**:
 - 300-800 words

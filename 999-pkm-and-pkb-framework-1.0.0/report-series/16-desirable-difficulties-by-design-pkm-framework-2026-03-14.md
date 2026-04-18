@@ -99,7 +99,7 @@ related_concepts:
   - "[[Variability of Practice]]"
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[Obsidian]]"
-  - "[[Active Recall]]"
+  - "[[Active-Recall]]"
   - "[[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]"
 aliases:
   - Report 16

@@ -142,7 +142,7 @@ link-related: []
 * `[[Stoic Physics and Cosmology]]` – Understanding the metaphysical foundations that underpin the dichotomy of control, including the Stoic conception of [[determinism]] and [[fate]].
 * `[[Prohairesis - The Stoic Faculty of Choice]]` – A deep dive into the uniquely Stoic concept of *prohairesis*, the faculty of moral choice that [[Epictetus]] considers the essence of human freedom.
 * `[[Amor Fati - Love of Fate]]` – Exploring how the dichotomy of control connects to [[Nietzsche]]'s appropriation and transformation of the Stoic concept of embracing necessity.
-* `[[Cognitive Behavioral Therapy (CBT) and Stoicism]]` – Tracing the influence of [[Epictetus]]'s teachings on modern [[psychotherapy]], particularly [[Albert Ellis]]'s [[Rational Emotive Behavior Therapy]] (REBT).
+* `[[Cognitive Behavioral Therapy (CBT) and Stoicism]]` – Tracing the influence of [[Epictetus]]'s teachings on modern [[Psychotherapy]], particularly [[Albert Ellis]]'s [[Rational Emotive Behavior Therapy]] (REBT).
 * `[[Marcus Aurelius's Meditations]]` – Comparing [[Epictetus]]'s didactic approach to the introspective, journal-like style of the Roman Emperor's personal [[Stoic]] exercises.
 ```
 <thinking>

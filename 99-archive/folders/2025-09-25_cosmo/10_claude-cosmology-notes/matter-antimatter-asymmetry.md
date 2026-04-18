@@ -192,7 +192,7 @@ From BBN: η_B = (5.8 ± 0.4) × 10^-10
 Remarkable agreement between early and late universe!
 ```
 
-### Connection to [[nucleosynthesis]]
+### Connection to [[Nucleosynthesis]]
 - **Baryon Density**: Controls nuclear reaction rates
 - **Light Elements**: He, D, Li abundances depend on η_B
 - **Consistency**: BBN and CMB give same baryon asymmetry
@@ -254,7 +254,7 @@ Remarkable agreement between early and late universe!
 
 ## 🔗 Cross-References
 
-**Timeline**: [[Timeline of the Universe]], [[nucleosynthesis]], [[The Big Bang Theory]]
+**Timeline**: [[Timeline of the Universe]], [[Nucleosynthesis]], [[The Big Bang Theory]]
 **Theory**: [[Particle Physics and Cosmology]], [[Cosmic Inflation]]
 **Related**: [[The Dark Matter Problem]], [[The Dark Energy Mystery]]
 **Evidence**: [[Cosmic Microwave Background]], [[Lambda-CDM Model]]

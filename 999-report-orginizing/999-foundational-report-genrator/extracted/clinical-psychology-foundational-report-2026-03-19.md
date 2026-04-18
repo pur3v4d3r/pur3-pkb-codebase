@@ -130,7 +130,7 @@ related:
   - "[[Self-Efficacy]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Metacognition]]"
-  - "[[Emotion Regulation]]"
+  - "[[Emotion-Regulation|Emotion Regulation]]"
   - "[[Learned-Helplessness]]"
   - "[[Theory-of-Constructed-Emotion]]"
   - "[[Cognitive-Reappraisal|Cognitive Reappraisal]]"
@@ -143,8 +143,8 @@ broader:
 narrower:
   - "[[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]"
   - "[[Psychodynamic Theory]]"
-  - "[[Therapeutic Alliance]]"
-  - "[[Empirically Supported Treatments]]"
+  - "[[Therapeutic-Alliance|Therapeutic Alliance]]"
+  - "[[Empirically-Supported-Treatments|Empirically Supported Treatments]]"
   - "[[Psychological Assessment]]"
 
 see-also:
@@ -159,7 +159,7 @@ contrasts-with:
   - "[[Counseling Psychology]]"
 
 applied-in:
-  - "[[Evidence-Based Practice in Psychology]]"
+  - "[[Evidence-Based-Practice-in-Psychology|Evidence-Based Practice in Psychology]]"
   - "[[Feedback-Design]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -174,14 +174,14 @@ builds-on:
 enables:
   - "[[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]"
   - "[[Psychopathology]]"
-  - "[[Empirically Supported Treatments]]"
-  - "[[Therapeutic Alliance]]"
+  - "[[Empirically-Supported-Treatments|Empirically Supported Treatments]]"
+  - "[[Therapeutic-Alliance|Therapeutic Alliance]]"
 
 expansion-topics:
   - topic: "[[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]"
     description: "A dedicated report on CBT's theoretical architecture, core techniques, and evidence base — including cognitive restructuring, behavioral experiments, and schema-focused approaches."
     priority: high
-  - topic: "[[Therapeutic Alliance]]"
+  - topic: "[[Therapeutic-Alliance|Therapeutic Alliance]]"
     description: "Deep treatment of the working alliance as a predictive variable in therapy outcomes, examining Bordin's tripartite model (bond, tasks, goals) and its measurement."
     priority: high
   - topic: "[[Psychopathology]]"
@@ -190,13 +190,13 @@ expansion-topics:
   - topic: "[[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]"
     description: "Report on ACT's philosophical grounding in functional contextualism, its six core processes (acceptance, defusion, present-moment contact, self-as-context, values, committed action), and evidence base."
     priority: high
-  - topic: "[[Emotion Regulation]]"
+  - topic: "[[Emotion-Regulation|Emotion Regulation]]"
     description: "Treatment of the full landscape of emotion regulation strategies — cognitive reappraisal, expressive suppression, acceptance, and their neural underpinnings — bridging clinical and cognitive science."
     priority: high
-  - topic: "[[Empirically Supported Treatments]]"
+  - topic: "[[Empirically-Supported-Treatments|Empirically Supported Treatments]]"
     description: "The criteria, debates, and implications of the EST movement — including the Chambless criteria, the efficacy-effectiveness gap, and the challenge of manualization."
     priority: medium
-  - topic: "[[Common Factors Theory]]"
+  - topic: "[[Common-Factors-Theory|Common Factors Theory]]"
     description: "A focused report on Wampold's Contextual Model vs. the Medical Model of psychotherapy, examining meta-analytic evidence and implications for training."
     priority: medium
 
@@ -262,7 +262,7 @@ There is a question that has haunted Western civilization since at least the anc
 
 Clinical psychology can be provisionally defined as the branch of psychology devoted to the understanding, assessment, diagnosis, and treatment of [[Psychopathology|psychological distress and disorder]] across the lifespan. But this definition immediately demands unpacking. "Understanding" here encompasses both scientific theory-building and the practical interpretive work of comprehending a specific individual's suffering in its full biographical, cultural, and contextual complexity. "Assessment" involves the disciplined gathering of evidence about a person's psychological functioning — through structured interviews, standardized tests, observational data, and collaborative exploration. "Diagnosis" remains one of the field's most contentious activities, involving the classification of patterns of distress into named categories — a process that carries genuine clinical utility but equally genuine conceptual risks. And "treatment" — [[Psychotherapy|psychotherapy]] in its many forms — is the heart of clinical practice: the disciplined, theoretically grounded application of psychological principles to relieve suffering and promote flourishing.
 
-This report matters to a learner invested in [[cognitive-psychology|Cognitive Psychology]], [[Educational-Psychology|Educational Psychology]], [[Metacognition]], and [[Self-Determined Learning]] for a reason that is anything but tangential: the mechanisms through which clinical psychology achieves change — cognitive restructuring, motivational enhancement, schema revision, emotion regulation, the building of self-awareness and self-compassion — are deeply continuous with the mechanisms through which *any* learning and growth occur. Clinical psychology is, in one sense, the study of the most difficult form of [[Conceptual-Change-Theory|conceptual change]]: the revision of deeply entrenched, emotionally loaded, self-referential beliefs that have organized a person's entire experience of the world. Understanding how that change happens illuminates how all significant psychological change happens.
+This report matters to a learner invested in [[cognitive-psychology|Cognitive Psychology]], [[Educational-Psychology|Educational Psychology]], [[Metacognition]], and [[Self-Determined-Learning|Self-Determined Learning]] for a reason that is anything but tangential: the mechanisms through which clinical psychology achieves change — cognitive restructuring, motivational enhancement, schema revision, emotion regulation, the building of self-awareness and self-compassion — are deeply continuous with the mechanisms through which *any* learning and growth occur. Clinical psychology is, in one sense, the study of the most difficult form of [[Conceptual-Change-Theory|conceptual change]]: the revision of deeply entrenched, emotionally loaded, self-referential beliefs that have organized a person's entire experience of the world. Understanding how that change happens illuminates how all significant psychological change happens.
 
 The report proceeds through seven phases. Phase II establishes foundational definitions and traces the field's intellectual genealogy. Phase III maps the major theoretical frameworks — psychodynamic, behavioral, cognitive-behavioral, humanistic-existential, and the third-wave approaches. Phase IV descends into mechanism: how, precisely, does therapy work? Phase V examines applications, evidence, and limitations. Phase VI synthesizes and connects to your broader PKB. Phase VII provides a lexicon, references, and expansion topics.
 
@@ -282,19 +282,19 @@ The report proceeds through seven phases. Phase II establishes foundational defi
 > The *Diagnostic and Statistical Manual of Mental Disorders* (Fifth Edition), the dominant American diagnostic system, defines a mental disorder as a syndrome characterized by clinically significant disturbance in cognition, emotion regulation, or behavior that reflects a dysfunction in psychological, biological, or developmental processes underlying mental functioning. The syndrome must typically cause significant distress or disability and must not be primarily a culturally sanctioned response to a common life stressor or an expression of political, religious, or sexual minority status. This definition acknowledges dysfunction without requiring deviation — a person can be suffering from a genuine disorder while appearing to conform to all social norms.
 
 > [!definition] **Psychotherapy**
-> A structured, theoretically grounded set of psychological interventions, delivered by a trained professional in a defined relationship with a client, aimed at alleviating psychological distress, modifying problematic behavior patterns, and/or promoting personal growth and flourishing. Psychotherapy is distinguished from informal helping by its explicit theoretical basis, systematic procedures, structured setting, and trained practitioner. Critically, all credible forms of psychotherapy share certain universal features — a healing context, a rationale or explanatory framework, a set of procedures, and a therapeutic relationship — which [[Common Factors Theory|common factors theorists]] argue are the primary engines of change, not the specific techniques that distinguish one modality from another.
+> A structured, theoretically grounded set of psychological interventions, delivered by a trained professional in a defined relationship with a client, aimed at alleviating psychological distress, modifying problematic behavior patterns, and/or promoting personal growth and flourishing. Psychotherapy is distinguished from informal helping by its explicit theoretical basis, systematic procedures, structured setting, and trained practitioner. Critically, all credible forms of psychotherapy share certain universal features — a healing context, a rationale or explanatory framework, a set of procedures, and a therapeutic relationship — which [[Common-Factors-Theory|common factors theorists]] argue are the primary engines of change, not the specific techniques that distinguish one modality from another.
 
 ### Historical Genealogy
 
 Clinical psychology's intellectual genealogy begins not with Freud but with the broader crisis of scientific modernity confronting human suffering. For millennia, psychological distress was understood through supernatural, moral, and somatic frameworks. The possessed, the mad, and the melancholic were treated through exorcism, restraint, and crude physical intervention. The asylum movement of the eighteenth and nineteenth centuries represented a humanitarian reform that nonetheless confined rather than treated. It was Philippe Pinel in France and William Tuke in England who first proposed that mental illness might respond to moral treatment — structured environments, respect, and rational conversation — anticipating the therapeutic relationship by a century.
 
-[[Sigmund Freud]] — working with Josef Breuer in the 1880s and 1890s — made the pivotal conceptual move: he proposed that psychological symptoms had *psychological causes* that could be accessed through language. The hysterical paralyses, amnesias, and conversions he observed were, he argued, the symptomatic expression of unconscious conflicts rooted in unacceptable wishes, traumatic memories, and the relational dynamics of early childhood. Whether or not Freud's specific claims survive scientific scrutiny (many do not), his core insight — that systematic conversation about psychological experience can produce psychological change — founded the entire enterprise of psychotherapy.
+[[Sigmund-Freud|Sigmund Freud]] — working with Josef Breuer in the 1880s and 1890s — made the pivotal conceptual move: he proposed that psychological symptoms had *psychological causes* that could be accessed through language. The hysterical paralyses, amnesias, and conversions he observed were, he argued, the symptomatic expression of unconscious conflicts rooted in unacceptable wishes, traumatic memories, and the relational dynamics of early childhood. Whether or not Freud's specific claims survive scientific scrutiny (many do not), his core insight — that systematic conversation about psychological experience can produce psychological change — founded the entire enterprise of psychotherapy.
 
-The behaviorist revolution of the early twentieth century offered a radically different genealogy. John Watson, building on Pavlov's classical conditioning, and later B.F. Skinner, building on Thorndike's instrumental learning, proposed that psychological problems were learned behavioral patterns that could be systematically unlearned through the manipulation of environmental contingencies. This framework — which treats maladaptive behavior rather than unconscious conflict as the target of intervention — gave rise to [[Behavioral-Science|behavior therapy]] and established the experimental, empirical tradition that now characterizes much of [[Evidence-Based Practice in Psychology|evidence-based clinical psychology]].
+The behaviorist revolution of the early twentieth century offered a radically different genealogy. John Watson, building on Pavlov's classical conditioning, and later B.F. Skinner, building on Thorndike's instrumental learning, proposed that psychological problems were learned behavioral patterns that could be systematically unlearned through the manipulation of environmental contingencies. This framework — which treats maladaptive behavior rather than unconscious conflict as the target of intervention — gave rise to [[Behavioral-Science|behavior therapy]] and established the experimental, empirical tradition that now characterizes much of [[Evidence-Based-Practice-in-Psychology|evidence-based clinical psychology]].
 
-The cognitive revolution of the 1950s-1970s integrated these streams with a new focus: the content and structure of thought. [[Aaron Beck]], treating depressed patients in the 1960s, noticed that they shared characteristic patterns of negative, distorted automatic thoughts — thoughts that felt true but that, upon examination, failed to match the evidence of their actual lives. From this observation emerged [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]], which became the most extensively researched and validated form of psychological intervention in history.
+The cognitive revolution of the 1950s-1970s integrated these streams with a new focus: the content and structure of thought. [[Aaron-Beck|Aaron Beck]], treating depressed patients in the 1960s, noticed that they shared characteristic patterns of negative, distorted automatic thoughts — thoughts that felt true but that, upon examination, failed to match the evidence of their actual lives. From this observation emerged [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]], which became the most extensively researched and validated form of psychological intervention in history.
 
-The humanistic tradition, running parallel to both psychoanalysis and behaviorism, emphasized a different set of commitments: the person's inherent capacity for growth, the importance of subjective experience, and the therapeutic relationship characterized by Carl Rogers's triad of unconditional positive regard, accurate empathy, and congruence. This tradition finds its descendant in contemporary person-centered approaches and contributed crucially to our understanding of the [[Therapeutic Alliance]] as a universal ingredient of effective therapy.
+The humanistic tradition, running parallel to both psychoanalysis and behaviorism, emphasized a different set of commitments: the person's inherent capacity for growth, the importance of subjective experience, and the therapeutic relationship characterized by Carl Rogers's triad of unconditional positive regard, accurate empathy, and congruence. This tradition finds its descendant in contemporary person-centered approaches and contributed crucially to our understanding of the [[Therapeutic-Alliance|Therapeutic Alliance]] as a universal ingredient of effective therapy.
 
 > [!reflection] **Deepening Your Understanding**
 > 1. Which of these genealogical threads — psychodynamic, behavioral, cognitive, humanistic — resonates most with your intuitions about human suffering and its alleviation? What prior beliefs or experiences might be shaping that resonance?
@@ -368,7 +368,7 @@ The most consistently replicated finding in psychotherapy research is that the q
 > [!evidence] **The Alliance as Outcome Predictor**
 > Meta-analyses consistently find a moderate but robust correlation (r ≈ .22–.28) between alliance quality and therapeutic outcome — a correlation that has held across hundreds of studies, multiple disorders, and diverse populations. Critically, this relationship appears to be *causal* in direction: early alliance quality predicts later change, rather than change producing a better alliance. Wampold's 2001 and 2015 meta-analyses estimate that specific techniques account for roughly 1% of outcome variance, while common factors including the alliance account for substantially more. This finding creates an uncomfortable challenge to the assumption that training in specific technique packages is the primary driver of clinical effectiveness.
 
-[[Therapeutic Alliance|The therapeutic alliance]] operates through several interconnected mechanisms. First, it provides a secure base — in Bowlby's sense — from which the client can explore distressing material, take interpersonal risks, and tolerate the discomfort of psychological change. Second, it provides a corrective relational experience: for clients whose psychological difficulties are rooted in early relational injury, the experience of a relationship characterized by consistency, boundaried care, and genuine attunement disconfirms the relational schemas that organize their experience. Third, it activates hope and expectancy — what Frank called the "demoralization hypothesis": a primary feature of many presentations is a collapse of the sense that change is possible, and the therapeutic relationship, by communicating genuine positive regard and confidence in the client's capacity for growth, directly addresses this demoralization.
+[[Therapeutic-Alliance|The therapeutic alliance]] operates through several interconnected mechanisms. First, it provides a secure base — in Bowlby's sense — from which the client can explore distressing material, take interpersonal risks, and tolerate the discomfort of psychological change. Second, it provides a corrective relational experience: for clients whose psychological difficulties are rooted in early relational injury, the experience of a relationship characterized by consistency, boundaried care, and genuine attunement disconfirms the relational schemas that organize their experience. Third, it activates hope and expectancy — what Frank called the "demoralization hypothesis": a primary feature of many presentations is a collapse of the sense that change is possible, and the therapeutic relationship, by communicating genuine positive regard and confidence in the client's capacity for growth, directly addresses this demoralization.
 
 ### Cognitive Change Mechanisms
 
@@ -394,7 +394,7 @@ This mechanism maps onto [[Self-Determination-Theory|SDT's]] account of autonomo
 
 ### Emotion Regulation Mechanisms
 
-[[Emotion Regulation|Emotion regulation]] is increasingly recognized as a transdiagnostic mechanism — a capacity whose disruption underlies a wide range of disorders and whose improvement is a common mechanism of change across therapies. Emotion regulation encompasses all the processes by which people influence which emotions they have, when they have them, and how they experience and express them. [[Cognitive-Reappraisal|Cognitive Reappraisal]] — changing the appraisal of an emotional stimulus to alter its emotional impact — is among the most extensively studied strategies and is explicitly theorized in [[Appraisal-Theory]]: if the appraisal of an event determines its emotional significance, then changing the appraisal changes the emotion. Acceptance and mindfulness-based strategies work through a different mechanism: rather than changing the appraisal, they change the relationship to the emotion — reducing the secondary suffering caused by resisting, amplifying, or catastrophizing about primary emotional experience.
+[[Emotion-Regulation|Emotion regulation]] is increasingly recognized as a transdiagnostic mechanism — a capacity whose disruption underlies a wide range of disorders and whose improvement is a common mechanism of change across therapies. Emotion regulation encompasses all the processes by which people influence which emotions they have, when they have them, and how they experience and express them. [[Cognitive-Reappraisal|Cognitive Reappraisal]] — changing the appraisal of an emotional stimulus to alter its emotional impact — is among the most extensively studied strategies and is explicitly theorized in [[Appraisal-Theory]]: if the appraisal of an event determines its emotional significance, then changing the appraisal changes the emotion. Acceptance and mindfulness-based strategies work through a different mechanism: rather than changing the appraisal, they change the relationship to the emotion — reducing the secondary suffering caused by resisting, amplifying, or catastrophizing about primary emotional experience.
 
 > [!ask-yourself-this] **Testing Mechanistic Understanding**
 > Before continuing: can you articulate, in your own words, why a cognitive-behavioral therapist and an ACT therapist would intervene differently on the same clinical presentation — say, a person with catastrophic thoughts about health? What is the mechanism each targets, and what does each leave untouched? The ability to answer this question with precision is a good test of whether your understanding of the theoretical landscape is genuinely mechanistic.
@@ -410,7 +410,7 @@ This mechanism maps onto [[Self-Determination-Theory|SDT's]] account of autonomo
 
 ### Evidence-Based Practice in Psychology
 
-The movement toward [[Evidence-Based Practice in Psychology]] (EBPP) represents one of the most significant and contested developments in clinical psychology over the past three decades. Stimulated by parallel movements in medicine, the 1990s saw clinical psychology begin to systematically identify which specific treatments had adequate empirical support — leading to the [[Empirically Supported Treatments]] (ESTs) movement, formalized by the American Psychological Association's Division 12 task force.
+The movement toward [[Evidence-Based-Practice-in-Psychology|Evidence-Based Practice in Psychology]] (EBPP) represents one of the most significant and contested developments in clinical psychology over the past three decades. Stimulated by parallel movements in medicine, the 1990s saw clinical psychology begin to systematically identify which specific treatments had adequate empirical support — leading to the [[Empirically-Supported-Treatments|Empirically Supported Treatments]] (ESTs) movement, formalized by the American Psychological Association's Division 12 task force.
 
 The original EST criteria required at minimum two well-conducted randomized controlled trials (RCTs) demonstrating that the treatment outperformed a control condition or an alternative treatment. This created a validated list of treatment protocols — manualized, disorder-specific, empirically tested — that could theoretically guide practice. The model has achieved genuine accomplishments: it has elevated the evidentiary standards for clinical claims, reduced purely ideology-driven therapy selection, and created a foundation for systematic training in effective techniques.
 
@@ -559,7 +559,7 @@ The third deep theme is the role of avoidance in maintaining disorder. Across di
 > > [!topic-idea] [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 > > A dedicated Foundational Report on CBT would provide comprehensive treatment of Beck's full cognitive model (including schema modes and schema therapy extensions), the range of CBT applications across different disorders (depression, anxiety, OCD, PTSD, eating disorders), the specific intervention techniques (Socratic questioning, behavioral experiments, thought records, imagery rescripting), and the evidence base supporting each application. It would also address recent developments including compassion-focused CBT (Gilbert) and the integration of third-wave acceptance-based elements into traditional CBT frameworks. This is the highest-priority expansion given CBT's centrality to contemporary clinical practice and evidence-based training.
 >
-> > [!topic-idea] [[Therapeutic Alliance]]
+> > [!topic-idea] [[Therapeutic-Alliance|Therapeutic Alliance]]
 > > This report would provide in-depth treatment of Bordin's tripartite working alliance model (bond, tasks, goals), the major measurement instruments (WAI, HAq), the meta-analytic evidence for alliance-outcome relationships, and the theoretical debate between common factors and specific factors accounts of therapy. It would examine alliance rupture-repair processes — the moments of interpersonal strain that, when navigated skillfully, can themselves become powerful therapeutic experiences — and connect to the attachment theory foundations of the alliance concept. Directly enables the nuanced clinical application of what this foundational report identifies as the field's most robust finding.
 >
 > > [!topic-idea] [[Psychopathology]]
@@ -568,11 +568,11 @@ The third deep theme is the role of avoidance in maintaining disorder. Across di
 > > [!topic-idea] [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 > > ACT warrants its own foundational report given its distinctive philosophical grounding in functional contextualism, its theoretical basis in Relational Frame Theory (a behavioral account of language and cognition), and the specificity of its six-process model. A dedicated report would also examine the empirical evidence base, the clinical application of ACT's experiential exercises and metaphors, and the theoretical relationship between ACT and other third-wave approaches. The connections to SDT, intrinsic motivation, and values-based action make ACT particularly relevant to your PKB's existing conceptual architecture.
 >
-> > [!topic-idea] [[Emotion Regulation]]
+> > [!topic-idea] [[Emotion-Regulation|Emotion Regulation]]
 > > This report would build a comprehensive architecture of emotion regulation — drawing on Gross's process model (distinguishing antecedent-focused strategies like cognitive reappraisal from response-focused strategies like expressive suppression), Linehan's biosocial theory of emotion dysregulation, and Gratz and Roemer's multidimensional model (awareness, acceptance, access to strategies, and impulse control). It would examine neural mechanisms, developmental trajectories, and clinical applications across the full range of emotional disorders. Critically, it bridges your existing work on appraisal theory and metacognition with the clinical applications of emotion regulation training.
 >
 > > [!topic-idea] [[Attachment-Theory|Attachment Theory]]
 > > Bowlby's attachment theory is arguably the most empirically productive framework in developmental and clinical psychology, generating research from infant-caregiver observations through adult romantic relationships to the mechanisms of psychotherapy. A foundational report would cover the ethological origins of attachment theory, Ainsworth's Strange Situation paradigm and attachment classification system (secure, anxious, avoidant, disorganized), Main's Adult Attachment Interview and the transmission gap, and the clinical implications for understanding personality disorder, relationship dysfunction, and therapeutic process. Connects fundamentally to the relational and psychodynamic emphases of this report.
 >
-> > [!topic-idea] [[Common Factors Theory]]
+> > [!topic-idea] [[Common-Factors-Theory|Common Factors Theory]]
 > > A focused report on the common factors debate would examine the historical development of the Dodo Bird verdict (Luborsky et al., 1975), Wampold's Contextual Model versus the Medical Model of psychotherapy, the key meta-analytic battlegrounds, and the implications for training, practice, and dissemination policy. It would engage the specific factors counterarguments (Longmore and Worrell's defense of technique specificity) and examine what a synthesis position might look like — one that takes both common and specific factors seriously without collapsing them into a false dichotomy.

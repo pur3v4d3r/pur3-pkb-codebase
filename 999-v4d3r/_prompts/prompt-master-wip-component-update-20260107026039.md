@@ -1476,7 +1476,7 @@ Encode where/when/how to apply captured knowledge.
 ```markdown
 [**Application-Domain**:: [[Domain]] | trigger:"situation description" | action:"recommended response" | confidence:high]
 
-[**Anti-Pattern**:: [[Concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
+[**Anti-Pattern**:: [[concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
 ```
 </inline_syntax>
 
@@ -2044,7 +2044,7 @@ Use this when you specifically want to create teaching analogies.
 <metaphor_generator_protocol>
 Identify a "Source Domain" that is familiar to the audience (e.g., Cooking, Driving) and map the "Target Concept" to it.
 
-**Target**: [[Neural Networks]]
+**Target**: [[Neural-Networks]]
 **Source**: [[Cooking]]
 **Mapping**:
 - Layers → Steps in a recipe
@@ -2487,9 +2487,9 @@ Explicitly connect concepts to foundational mental models.
 ### Inline Model Anchors
 
 ```markdown
-[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
 
-[**Model-Application**:: [[Concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
+[**Model-Application**:: [[concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
 </inline_syntax>
 
@@ -2501,7 +2501,7 @@ Explicitly connect concepts to foundational mental models.
 | [[First Principles]] | Decompose to fundamentals | "What are the basic building blocks?" |
 | [[Inversion]] | Solve by negation | "What would make this fail?" |
 | [[Second-Order Effects]] | Consequences of consequences | "And then what?" |
-| [[Systems Thinking]] | Interconnected wholes | "What are the feedback loops?" |
+| [[Systems-Thinking]] | Interconnected wholes | "What are the feedback loops?" |
 | [[Opportunity Cost]] | Value of alternatives foregone | "What am I giving up?" |
 | [[Constraint Theory]] | Bottleneck identification | "What's the limiting factor?" |
 | [[Circle of Competence]] | Know your limits | "Am I qualified to judge this?" |

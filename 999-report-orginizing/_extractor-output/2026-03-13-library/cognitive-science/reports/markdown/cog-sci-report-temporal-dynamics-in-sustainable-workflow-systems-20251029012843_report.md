@@ -188,13 +188,13 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 4:** [[The Inverted-U Relationship Between Arousal and Performance]]
->   - Human performance does not scale linearly with effort, arousal, or stress. Rather, it follows an inverted-U function first described by the [[Yerkes-Dodson Law]], where performance is impaired by both insufficient arousal (resulting in insufficient resource mobilization) and excessive arousal (resulting in resource depletion, cognitive tunnel vision, and impaired executive function). The apex of this curve—the zone of optimal arousal—varies depending on task complexity, with simple tasks tolerating higher arousal levels and complex tasks requiring moderate arousal for optimal performance. This principle extends beyond moment-to-moment arousal to cumulative stress load over longer timescales. The [[fitness-fatigue model]] of training adaptation formalizes this relationship, proposing that any training stimulus produces two simultaneous effects: a long-lasting positive fitness effect (capacity enhancement) and a shorter-duration negative fatigue effect (temporarily impaired function). An athlete's current preparedness is determined by the algebraic sum of these effects at any given moment. During intense training blocks, fatigue accumulates and performance temporarily declines despite underlying fitness improvements; during recovery or taper periods, fatigue dissipates more rapidly than fitness decays, revealing enhanced performance capacity. This creates the counterintuitive but empirically verified reality that maximum performance often occurs not after maximum training volume but rather after strategic reductions in training load that allow accumulated fatigue to resolve while retaining fitness adaptations. The implication for workflow design is profound: sustainable high performance requires periodic strategic underloading to allow latent capacity improvements to manifest. The chronic pursuit of maximum effort at all times produces a state of persistent elevated fatigue that masks underlying capacity development and eventually leads to exhaustion and performance breakdown.
+>   - Human performance does not scale linearly with effort, arousal, or stress. Rather, it follows an inverted-U function first described by the [[Yerkes-Dodson-Law|Yerkes-Dodson Law]], where performance is impaired by both insufficient arousal (resulting in insufficient resource mobilization) and excessive arousal (resulting in resource depletion, cognitive tunnel vision, and impaired executive function). The apex of this curve—the zone of optimal arousal—varies depending on task complexity, with simple tasks tolerating higher arousal levels and complex tasks requiring moderate arousal for optimal performance. This principle extends beyond moment-to-moment arousal to cumulative stress load over longer timescales. The [[fitness-fatigue model]] of training adaptation formalizes this relationship, proposing that any training stimulus produces two simultaneous effects: a long-lasting positive fitness effect (capacity enhancement) and a shorter-duration negative fatigue effect (temporarily impaired function). An athlete's current preparedness is determined by the algebraic sum of these effects at any given moment. During intense training blocks, fatigue accumulates and performance temporarily declines despite underlying fitness improvements; during recovery or taper periods, fatigue dissipates more rapidly than fitness decays, revealing enhanced performance capacity. This creates the counterintuitive but empirically verified reality that maximum performance often occurs not after maximum training volume but rather after strategic reductions in training load that allow accumulated fatigue to resolve while retaining fitness adaptations. The implication for workflow design is profound: sustainable high performance requires periodic strategic underloading to allow latent capacity improvements to manifest. The chronic pursuit of maximum effort at all times produces a state of persistent elevated fatigue that masks underlying capacity development and eventually leads to exhaustion and performance breakdown.
 
 #### 12. [PRINCIPLE-POINT] Untitled *(Line 88)*
 
 > [!principle-point] Untitled
 > - **First Principle 5:** [[The Finite Nature of Attentional and Metabolic Resources]]
->   - Human attention and metabolic energy represent genuinely finite resources that deplete with use and require time to replenish. [[Cognitive-Load-Theory|Cognitive Load Theory]] demonstrates that working memory has severe capacity limitations (approximately 7±2 information chunks) and that sustained attention on demanding tasks progressively depletes a metabolically expensive resource that cognitive scientists model as [[ego depletion]] or [[decision fatigue]]. Research by [[Roy Baumeister]] and colleagues established that self-control, willpower, and focused attention draw upon a shared limited resource, with depletion in one domain impairing performance in others. While some aspects of ego depletion theory remain controversial, the broader finding of resource depletion with sustained cognitive work is robust and replicated. At the physiological level, intense cognitive work increases brain glucose metabolism, generates reactive oxygen species, and depletes neurotransmitter pools. These metabolic costs necessitate recovery periods during which damaged cellular structures are repaired, waste products are cleared, energy stores are replenished, and baseline function is restored. Similarly, [[Deliberate-Practice|deliberate practice]]—the form of highly focused, effortful training that drives skill acquisition—cannot be sustained for more than 3-5 hours per day even in elite performers, with beginners limited to 15-20 minutes of maximum concentration before requiring rest. [[Anders-Ericsson|Anders Ericsson]]'s research with expert musicians revealed that world-class violinists practiced deliberate practice for approximately 4 hours daily on average, typically structured as two 90-minute sessions separated by rest. Attempts to exceed these natural limits result not in proportionally greater improvement but rather in diminishing returns, increased error rates, degraded quality of practice, and elevated injury or burnout risk. The fundamental constraint is biological: the systems that enable focused attention and skilled performance have inherent metabolic costs and recovery requirements that cannot be overcome through motivation or discipline alone.
+>   - Human attention and metabolic energy represent genuinely finite resources that deplete with use and require time to replenish. [[Cognitive-Load-Theory|Cognitive Load Theory]] demonstrates that working memory has severe capacity limitations (approximately 7±2 information chunks) and that sustained attention on demanding tasks progressively depletes a metabolically expensive resource that cognitive scientists model as [[ego depletion]] or [[Decision-Fatigue|decision fatigue]]. Research by [[Roy Baumeister]] and colleagues established that self-control, willpower, and focused attention draw upon a shared limited resource, with depletion in one domain impairing performance in others. While some aspects of ego depletion theory remain controversial, the broader finding of resource depletion with sustained cognitive work is robust and replicated. At the physiological level, intense cognitive work increases brain glucose metabolism, generates reactive oxygen species, and depletes neurotransmitter pools. These metabolic costs necessitate recovery periods during which damaged cellular structures are repaired, waste products are cleared, energy stores are replenished, and baseline function is restored. Similarly, [[Deliberate-Practice|deliberate practice]]—the form of highly focused, effortful training that drives skill acquisition—cannot be sustained for more than 3-5 hours per day even in elite performers, with beginners limited to 15-20 minutes of maximum concentration before requiring rest. [[Anders-Ericsson|Anders Ericsson]]'s research with expert musicians revealed that world-class violinists practiced deliberate practice for approximately 4 hours daily on average, typically structured as two 90-minute sessions separated by rest. Attempts to exceed these natural limits result not in proportionally greater improvement but rather in diminishing returns, increased error rates, degraded quality of practice, and elevated injury or burnout risk. The fundamental constraint is biological: the systems that enable focused attention and skilled performance have inherent metabolic costs and recovery requirements that cannot be overcome through motivation or discipline alone.
 
 #### 13. [SUMMARY] Untitled *(Line 92)*
 
@@ -336,7 +336,7 @@ extraction_summary:
 > - [[Sleep Architecture and Memory Consolidation]] — The specific mechanisms through which different sleep stages contribute to skill acquisition, creative insight, and capacity recovery
 > - [[Hormetic Stress and Adaptive Capacity]] — How low-dose stressors (cold exposure, fasting, exercise) may enhance overall adaptive capacity through cross-adaptation mechanisms
 > - [[Neural Plasticity Timescales]] — The distinct temporal dynamics of synaptic potentiation, structural plasticity, and systems consolidation in skill development
-> - [[Attention Restoration Theory]] — How natural environments and specific types of cognitive breaks differentially restore attentional capacity
+> - [[Attention-Restoration-Theory|Attention Restoration Theory]] — How natural environments and specific types of cognitive breaks differentially restore attentional capacity
 > - [[Circadian Photoentrainment]] — Practical applications of light exposure timing for optimizing circadian phase and performance readiness
 > - [[Block Periodization vs. Linear Periodization]] — Comparative analysis of different periodization models for specific performance objectives
 > - [[Overtraining Syndrome Biomarkers]] — Objective measures for detecting excessive training load before performance breakdown
@@ -356,7 +356,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Anders-Ericsson|Anders Ericsson]]
-- [[Attention Restoration Theory]]
+- [[Attention-Restoration-Theory|Attention Restoration Theory]]
 - [[Basic Rest-Activity Cycle]]
 - [[Block Periodization vs. Linear Periodization]]
 - [[Circadian Photoentrainment]]
@@ -394,7 +394,7 @@ extraction_summary:
 - [[The Multi-Scale Architecture of Biological Time]]
 - [[The Specificity and Time-Course of Biological Adaptation]]
 - [[Workflow Gamification and Temporal Structure]]
-- [[Yerkes-Dodson Law]]
+- [[Yerkes-Dodson-Law|Yerkes-Dodson Law]]
 - [[Burnout]]
 - [[chronobiology]]
 - [[circadian misalignment]]
@@ -403,7 +403,7 @@ extraction_summary:
 - [[Consolidation]]
 - [[cortisol]]
 - [[creative synthesis]]
-- [[decision fatigue]]
+- [[Decision-Fatigue|decision fatigue]]
 - [[Deliberate-Practice|deliberate practice]]
 - [[deliberate practice frameworks]]
 - [[detraining]]
@@ -475,12 +475,12 @@ extraction_summary:
 | 35 | [[Consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
 | 36 | [[mental representations]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 82 |
 | 37 | [[The Inverted-U Relationship Between Arousal and Performance]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 85 |
-| 38 | [[Yerkes-Dodson Law]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 86 |
+| 38 | [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 86 |
 | 39 | [[fitness-fatigue model]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 86 |
 | 40 | [[The Finite Nature of Attentional and Metabolic Resources]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 89 |
 | 41 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 42 | [[ego depletion]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
-| 43 | [[decision fatigue]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
+| 43 | [[Decision-Fatigue|decision fatigue]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 44 | [[Roy Baumeister]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 45 | [[Deliberate-Practice|deliberate practice]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 46 | [[Anders-Ericsson|Anders Ericsson]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
@@ -515,7 +515,7 @@ extraction_summary:
 | 75 | [[Sleep Architecture and Memory Consolidation]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 218 |
 | 76 | [[Hormetic Stress and Adaptive Capacity]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 219 |
 | 77 | [[Neural Plasticity Timescales]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 220 |
-| 78 | [[Attention Restoration Theory]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 221 |
+| 78 | [[Attention-Restoration-Theory|Attention Restoration Theory]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 221 |
 | 79 | [[Circadian Photoentrainment]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 222 |
 | 80 | [[Block Periodization vs. Linear Periodization]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 223 |
 | 81 | [[Overtraining Syndrome Biomarkers]] | — | — | 6.0 📚 REFERENCE/APPENDIX | 224 |
@@ -636,7 +636,7 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Anders-Ericsson|Anders Ericsson]]
-- [[Attention Restoration Theory]]
+- [[Attention-Restoration-Theory|Attention Restoration Theory]]
 - [[Basic Rest-Activity Cycle]]
 - [[Block Periodization vs. Linear Periodization]]
 - [[Circadian Photoentrainment]]
@@ -674,7 +674,7 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 - [[The Multi-Scale Architecture of Biological Time]]
 - [[The Specificity and Time-Course of Biological Adaptation]]
 - [[Workflow Gamification and Temporal Structure]]
-- [[Yerkes-Dodson Law]]
+- [[Yerkes-Dodson-Law|Yerkes-Dodson Law]]
 - [[Burnout]]
 - [[chronobiology]]
 - [[circadian misalignment]]
@@ -683,7 +683,7 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 - [[Consolidation]]
 - [[cortisol]]
 - [[creative synthesis]]
-- [[decision fatigue]]
+- [[Decision-Fatigue|decision fatigue]]
 - [[Deliberate-Practice|deliberate practice]]
 - [[deliberate practice frameworks]]
 - [[detraining]]

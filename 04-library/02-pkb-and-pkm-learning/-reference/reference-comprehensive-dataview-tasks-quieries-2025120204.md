@@ -1030,7 +1030,7 @@ dv.taskList(tasks);
 
 ## 🔗 Related Topics for PKB Expansion
 
-1. **[[Dataview Query Optimization Techniques]]**
+1. **[[Dataview-Query-Optimization-Techniques]]**
    - *Connection*: Performance tuning builds on the query patterns documented here
    - *Depth Potential*: Deep dive into caching strategies, index optimization, and query plan analysis for large vaults (1000+ notes)
    - *Knowledge Graph Role*: Technical optimization connecting to [[Query-Performance]], [[Obsidian Architecture]], and [[JavaScript Performance]]
@@ -1040,15 +1040,15 @@ dv.taskList(tasks);
    - *Depth Potential*: Comprehensive coverage of recurrence rules, custom statuses, natural language parsing, and Tasks-specific filtering syntax
    - *Knowledge Graph Role*: Complementary system documentation linking [[Task-Management]], [[GTD-Workflow]], [[Productivity-Systems]]
 
-3. **[[DataviewJS Custom Functions Library]]**
+3. **[[DataviewJS-Custom-Functions-Library]]**
    - *Connection*: Advanced task manipulation patterns require reusable JavaScript functions
    - *Depth Potential*: Building a personal function library for date calculations, task transformations, and custom renderers
-   - *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Functional Programming]], [[Obsidian API]]
+   - *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Functional-Programming]], [[Obsidian API]]
 
-4. **[[Dashboard Design Principles for PKM]]**
+4. **[[Dashboard-Design-Principles-for-PKM]]**
    - *Connection*: Query patterns are components; dashboards are the architecture
    - *Depth Potential*: Explore information architecture, visual hierarchy, cognitive load management, and dashboard composition strategies
-   - *Knowledge Graph Role*: [[Information-Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data Visualization]]
+   - *Knowledge Graph Role*: [[Information-Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data-Visualization]]
 
 ---
 

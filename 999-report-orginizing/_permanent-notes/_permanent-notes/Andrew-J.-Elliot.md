@@ -80,4 +80,4 @@ importance: medium
 - [[TARGET-Framework]]
 - [[Task-Involvement]]
 - [[Undifferentiated-Conception-of-Ability]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

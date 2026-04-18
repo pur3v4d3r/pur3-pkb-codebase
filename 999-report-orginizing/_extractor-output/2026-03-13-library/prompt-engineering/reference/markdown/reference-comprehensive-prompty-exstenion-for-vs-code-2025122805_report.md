@@ -620,7 +620,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Integration with Cognitive Frameworks**  
 > - [[First-Principles-What-Is-Knowledge|First Principles]] → enables deconstruction of automation needs  
-> - [[Systems Thinking]] → maps interdependencies between tools  
+> - [[Systems-Thinking|Systems Thinking]] → maps interdependencies between tools  
 > - [[Second-Order Effects]] → anticipates ripple effects of automation  
 > - [[Constraint Theory]] → identifies bottlenecks in scripting workflows  
 > - [[Mental-Models|Mental Models]] → supports cross-domain transfer
@@ -697,7 +697,7 @@ extraction_summary:
 > **Primary Model Anchors**:  
 > - [[First-Principles-What-Is-Knowledge|First Principles]] — [Break down automation needs to core functions]  
 > - [[Inversion]] — [What breaks if scripting is misapplied?]  
-> - [[Systems Thinking]] — [Map interdependencies between platforms and tasks]
+> - [[Systems-Thinking|Systems Thinking]] — [Map interdependencies between platforms and tasks]
 
 #### 55. [COUNTEREXAMPLE] Scripting for PKM *(Line 1252)*
 
@@ -781,7 +781,7 @@ extraction_summary:
 - [[Scripting Platforms]]
 - [[Second-Order Effects]]
 - [[Semantic Kernel]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Technical]]
 - [[Templating Systems]]
 - [[VS-Code|VS Code]]
@@ -890,7 +890,7 @@ extraction_summary:
 | 90 | [[Common Scripting Misconceptions]] | — | — | 🔗 Related Topics for PKB Expansion | 1137 |
 | 91 | [[Future of Scripting: Emerging Trends]] | — | — | 🔗 Related Topics for PKB Expansion | 1138 |
 | 92 | [[First-Principles-What-Is-Knowledge|First Principles]] | — | — | Section 1: PKB Integration | 1144 |
-| 93 | [[Systems Thinking]] | — | — | Section 1: PKB Integration | 1145 |
+| 93 | [[Systems-Thinking|Systems Thinking]] | — | — | Section 1: PKB Integration | 1145 |
 | 94 | [[Second-Order Effects]] | — | — | Section 1: PKB Integration | 1146 |
 | 95 | [[Constraint Theory]] | — | — | Section 1: PKB Integration | 1147 |
 | 96 | [[Mental-Models|Mental Models]] | — | — | Section 1: PKB Integration | 1148 |
@@ -903,7 +903,7 @@ extraction_summary:
 | 103 | [[DevOps]] | — | — | Section 2: Synthesis & Reflection | 1211 |
 | 104 | [[First-Principles-What-Is-Knowledge|First Principles]] | — | — | Section 2: Synthesis & Reflection | 1242 |
 | 105 | [[Inversion]] | — | — | Section 2: Synthesis & Reflection | 1243 |
-| 106 | [[Systems Thinking]] | — | — | Section 2: Synthesis & Reflection | 1244 |
+| 106 | [[Systems-Thinking|Systems Thinking]] | — | — | Section 2: Synthesis & Reflection | 1244 |
 | 107 | [[DevOps]] | — | — | Section 2: Synthesis & Reflection | 1247 |
 | 108 | [[Data Science]] | — | — | Section 2: Synthesis & Reflection | 1247 |
 | 109 | [[PKM Fundamentals]] | — | — | Section 2: Synthesis & Reflection | 1266 |
@@ -1493,7 +1493,7 @@ description includes Review
 - [[Scripting Platforms]]
 - [[Second-Order Effects]]
 - [[Semantic Kernel]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Technical]]
 - [[Templating Systems]]
 - [[VS-Code|VS Code]]

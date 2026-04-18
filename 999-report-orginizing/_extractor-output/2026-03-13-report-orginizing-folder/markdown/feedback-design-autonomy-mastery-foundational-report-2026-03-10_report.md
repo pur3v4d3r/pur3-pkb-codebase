@@ -496,7 +496,7 @@ extraction_summary:
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback-Timing|Feedback Timing]]
 - [[Formative-Assessment|Formative Assessment]]
-- [[Formative Assessment Design]]
+- [[Formative-Assessment-Design|Formative Assessment Design]]
 - [[Formative-Feedback|Formative Feedback]]
 - [[Goal Orientation Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -572,7 +572,7 @@ extraction_summary:
 | 44 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | D. Expansion Topics | 658 |
 | 45 | [[Zimmerman]] | — | — | D. Expansion Topics | 659 |
 | 46 | [[Pintrich]] | — | — | D. Expansion Topics | 659 |
-| 47 | [[Formative Assessment Design]] | — | — | D. Expansion Topics | 661 |
+| 47 | [[Formative-Assessment-Design|Formative Assessment Design]] | — | — | D. Expansion Topics | 661 |
 | 48 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | D. Expansion Topics | 664 |
 | 49 | [[John-Sweller|John Sweller]] | — | — | D. Expansion Topics | 665 |
 | 50 | [[Goal Orientation Theory]] | — | — | D. Expansion Topics | 667 |
@@ -623,7 +623,7 @@ extraction_summary:
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback-Timing|Feedback Timing]]
 - [[Formative-Assessment|Formative Assessment]]
-- [[Formative Assessment Design]]
+- [[Formative-Assessment-Design|Formative Assessment Design]]
 - [[Formative-Feedback|Formative Feedback]]
 - [[Goal Orientation Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]

@@ -121,7 +121,7 @@ extraction_summary:
 #### 1. [PRINCIPLE-POINT] Core Insight: Cognitive Alignment Principle *(Line 38)*
 
 > [!principle-point] Core Insight: Cognitive Alignment Principle
-> An effective PKB should reduce [[Cognitive-Load|Cognitive Load]], support [[Schema Formation]], enable [[Metacognition]], and scaffold [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
+> An effective PKB should reduce [[Cognitive-Load|Cognitive Load]], support [[Schema-Formation|Schema Formation]], enable [[Metacognition]], and scaffold [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
 
 #### 2. [KEY-CLAIM] Design Constraint from Cognitive Science *(Line 45)*
 
@@ -318,7 +318,7 @@ extraction_summary:
 - [[Emotional Memory Enhancement]]
 - [[Expertise Development Stages and PKB Architecture Evolution]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
-- [[Extended Mind Thesis]]
+- [[Extended-Mind-Thesis|Extended Mind Thesis]]
 - [[Extraneous-Load|Extraneous Load]]
 - [[Feedback Loops]]
 - [[Feedback Loops - Abstract Principle]]
@@ -351,7 +351,7 @@ extraction_summary:
 - [[Relatedness]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Schema]]
-- [[Schema Formation]]
+- [[Schema-Formation|Schema Formation]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema Theory and MOC Architecture]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
@@ -374,7 +374,7 @@ extraction_summary:
 | 1 | [[Cognitive-Science|Cognitive Science]] | — | — | Cognitive Science × PKB Architecture:... | 36 |
 | 2 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Cognitive Science × PKB Architecture:... | 36 |
 | 3 | [[Cognitive-Load|Cognitive Load]] | — | — | Cognitive Science × PKB Architecture:... | 39 |
-| 4 | [[Schema Formation]] | — | — | Cognitive Science × PKB Architecture:... | 39 |
+| 4 | [[Schema-Formation|Schema Formation]] | — | — | Cognitive Science × PKB Architecture:... | 39 |
 | 5 | [[Metacognition]] | — | — | Cognitive Science × PKB Architecture:... | 39 |
 | 6 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Cognitive Science × PKB Architecture:... | 39 |
 | 7 | [[Working Memory Architecture in Note Design]] | — | — | 1. **[[Working Memory Architecture in... | 43 |
@@ -448,7 +448,7 @@ extraction_summary:
 | 75 | [[Adaptive Expertise]] | — | — | 🔗 Related Topics for PKB Expansion | 311 |
 | 76 | [[Expertise-Reversal-Effect|Expertise Reversal Effect]] | — | — | 🔗 Related Topics for PKB Expansion | 311 |
 | 77 | [[Cognitive Offloading vs. Cognitive Partnership in External Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 314 |
-| 78 | [[Extended Mind Thesis]] | — | — | 🔗 Related Topics for PKB Expansion | 316 |
+| 78 | [[Extended-Mind-Thesis|Extended Mind Thesis]] | — | — | 🔗 Related Topics for PKB Expansion | 316 |
 | 79 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 🔗 Related Topics for PKB Expansion | 316 |
 | 80 | [[Cognitive Artifacts]] | — | — | 🔗 Related Topics for PKB Expansion | 316 |
 | 81 | [[Affective Factors in Long-Term PKB Engagement]] | — | — | 🔗 Related Topics for PKB Expansion | 319 |
@@ -549,7 +549,7 @@ Structural Planning:
 - [[Emotional Memory Enhancement]]
 - [[Expertise Development Stages and PKB Architecture Evolution]]
 - [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
-- [[Extended Mind Thesis]]
+- [[Extended-Mind-Thesis|Extended Mind Thesis]]
 - [[Extraneous-Load|Extraneous Load]]
 - [[Feedback Loops]]
 - [[Feedback Loops - Abstract Principle]]
@@ -582,7 +582,7 @@ Structural Planning:
 - [[Relatedness]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Schema]]
-- [[Schema Formation]]
+- [[Schema-Formation|Schema Formation]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema Theory and MOC Architecture]]
 - [[Self-Determination-Theory|Self-Determination Theory]]

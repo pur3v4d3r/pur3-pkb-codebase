@@ -769,7 +769,7 @@ Challenges involve:
 
 > [!definition]
 > - **Flipped Classroom**:: An instructional approach where direct instruction moves outside class time (typically via video), with class time dedicated to active learning, application, and collaborative work
-> - **Theoretical Foundation**:: [[Active Learning]], [[Bloom's-Taxonomy]] (reserving class for higher-order thinking)
+> - **Theoretical Foundation**:: [[Active-Learning]], [[Bloom's-Taxonomy]] (reserving class for higher-order thinking)
 
 The flipped learning approach moves direct instruction from group learning space to individual learning space, transforming the group space into a dynamic, interactive environment where educators guide students as they apply concepts and engage creatively.
 

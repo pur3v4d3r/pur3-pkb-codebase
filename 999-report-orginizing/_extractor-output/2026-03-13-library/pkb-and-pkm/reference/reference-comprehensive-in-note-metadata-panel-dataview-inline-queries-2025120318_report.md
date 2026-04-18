@@ -465,9 +465,9 @@ extraction_summary:
 - [[Frontmatter]]
 - [[Inline-Queries|Inline Queries]]
 - [[Knowledge-Graph|Knowledge Graph]]
-- [[Knowledge Graph Analytics Formulas]]
+- [[Knowledge-Graph-Analytics-Formulas|Knowledge Graph Analytics Formulas]]
 - [[Link-Analysis|Link Analysis]]
-- [[Meta Bind Reactive Fields]]
+- [[Meta-Bind-Reactive-Fields|Meta Bind Reactive Fields]]
 - [[Metadata]]
 - [[Obsidian]]
 - [[PKB-Architecture|PKB Architecture]]
@@ -524,9 +524,9 @@ extraction_summary:
 | 40 | [[Templater Integration with Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 1129 |
 | 41 | [[Templater]] | — | — | 🔗 Related Topics for PKB Expansion | 1130 |
 | 42 | [[PKB-Architecture|PKB Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1132 |
-| 43 | [[Meta Bind Reactive Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 1134 |
+| 43 | [[Meta-Bind-Reactive-Fields|Meta Bind Reactive Fields]] | — | — | 🔗 Related Topics for PKB Expansion | 1134 |
 | 44 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 1137 |
-| 45 | [[Knowledge Graph Analytics Formulas]] | — | — | 🔗 Related Topics for PKB Expansion | 1139 |
+| 45 | [[Knowledge-Graph-Analytics-Formulas|Knowledge Graph Analytics Formulas]] | — | — | 🔗 Related Topics for PKB Expansion | 1139 |
 | 46 | [[Knowledge-Graph|Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 1140 |
 | 47 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 1142 |
 
@@ -1366,9 +1366,9 @@ LIMIT 15
 - [[Frontmatter]]
 - [[Inline-Queries|Inline Queries]]
 - [[Knowledge-Graph|Knowledge Graph]]
-- [[Knowledge Graph Analytics Formulas]]
+- [[Knowledge-Graph-Analytics-Formulas|Knowledge Graph Analytics Formulas]]
 - [[Link-Analysis|Link Analysis]]
-- [[Meta Bind Reactive Fields]]
+- [[Meta-Bind-Reactive-Fields|Meta Bind Reactive Fields]]
 - [[Metadata]]
 - [[Obsidian]]
 - [[PKB-Architecture|PKB Architecture]]

@@ -475,7 +475,7 @@ extraction_summary:
 #### Prerequisites
 
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Philosophy of Education]]
+- [[Philosophy-of-Education|Philosophy of Education]]
 - [[Cognitive-Science|Cognitive Science]]
 
 #### Related Concepts

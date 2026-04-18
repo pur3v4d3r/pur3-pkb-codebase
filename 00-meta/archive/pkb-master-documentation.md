@@ -4806,7 +4806,7 @@ prerequisites:
   - "[[Linear Algebra]]"
   - "[[Python Basics]]"
 next-steps:
-  - "[[Neural Networks]]"
+  - "[[Neural-Networks]]"
 
 ```
 

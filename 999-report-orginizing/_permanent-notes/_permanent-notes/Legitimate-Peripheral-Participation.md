@@ -79,4 +79,4 @@ importance: medium
 - [[The-Philosophical-Lens]]
 - [[The-Practical-Lens]]
 - [[The-Schema-Disruption-Pedagogical-Inversion]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

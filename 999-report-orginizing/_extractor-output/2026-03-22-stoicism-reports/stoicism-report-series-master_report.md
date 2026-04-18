@@ -2058,7 +2058,7 @@ extraction_summary:
 #### 224. [CONNECTION-IDEAS] Untitled *(Line 2496)*
 
 > [!connection-ideas] Untitled
-> **Stoic Practice and [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
+> **Stoic Practice and [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron-Beck|Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
 
 #### 225. [EXAMPLE] Untitled *(Line 2519)*
 
@@ -4254,7 +4254,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[ABC Model REBT]]
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Academic Research]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Advanced Reasoning Techniques]]
@@ -4316,7 +4316,7 @@ extraction_summary:
 - [[Cognitive Model of Emotion]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Triad Beck]]
 - [[Comparative Philosophy]]
 - [[Concept A]]
@@ -4337,7 +4337,7 @@ extraction_summary:
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Debiasing-Interventions|Debiasing Interventions]]
 - [[Debugging Strategies for Reasoning Errors]]
-- [[Decision Making Under Uncertainty]]
+- [[Decision-Making-Under-Uncertainty|Decision Making Under Uncertainty]]
 - [[Decision-Theory|Decision Theory]]
 - [[Deductive Reasoning Techniques]]
 - [[Dialectical Behavior Therapy]]
@@ -4355,7 +4355,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Early Stoa]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation|Emotion Regulation]]
 - [[Emotion Regulation Science]]
 - [[Emotional-Regulation|Emotional Regulation]]
 - [[Enchiridion]]
@@ -4377,7 +4377,7 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Eudaimonic Wellbeing]]
 - [[Eudaimonic Wellbeing Research]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice|Evidence-Based Practice]]
 - [[Existential Therapy]]
 - [[Expertise-Development|Expertise Development]]
 - [[Forgiveness in Stoicism]]
@@ -4661,7 +4661,7 @@ extraction_summary:
 | 25 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | ═════════════════════════════════════... | 543 |
 | 26 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | ═════════════════════════════════════... | 544 |
 | 27 | [[Argument-Analysis|Argument Analysis]] | — | — | ═════════════════════════════════════... | 545 |
-| 28 | [[Decision Making Under Uncertainty]] | — | — | ═════════════════════════════════════... | 546 |
+| 28 | [[Decision-Making-Under-Uncertainty|Decision Making Under Uncertainty]] | — | — | ═════════════════════════════════════... | 546 |
 | 29 | [[Cognitive Biases and Debiasing]] | — | — | ═════════════════════════════════════... | 547 |
 | 30 | [[Scientific-Reasoning|Scientific Reasoning]] | — | — | ═════════════════════════════════════... | 548 |
 | 31 | [[Transfer-of-Learning]] | — | — | ═════════════════════════════════════... | 549 |
@@ -4697,7 +4697,7 @@ extraction_summary:
 | 61 | [[Academic Research]] | — | — | ═════════════════════════════════════... | 589 |
 | 62 | [[Strategic-Planning|Strategic Planning]] | — | — | ═════════════════════════════════════... | 590 |
 | 63 | [[Problem Solving in Complex Domains]] | — | — | ═════════════════════════════════════... | 591 |
-| 64 | [[Evidence-Based Practice]] | — | — | ═════════════════════════════════════... | 592 |
+| 64 | [[Evidence-Based-Practice|Evidence-Based Practice]] | — | — | ═════════════════════════════════════... | 592 |
 | 65 | [[Foundational-Logic|Foundational Logic]] | — | — | ═════════════════════════════════════... | 598 |
 | 66 | [[Cognitive-Development-Theory|Cognitive Development Theory]] | — | — | ═════════════════════════════════════... | 599 |
 | 67 | [[Information-Processing-Models|Information Processing Models]] | — | — | ═════════════════════════════════════... | 600 |
@@ -4785,7 +4785,7 @@ extraction_summary:
 | 149 | [[Cicero]] | — | — | Zeno of Citium (c. 334–262 BCE) | 1167 |
 | 150 | [[Plutarch]] | — | — | Zeno of Citium (c. 334–262 BCE) | 1167 |
 | 151 | [[Stobaeus]] | — | — | Zeno of Citium (c. 334–262 BCE) | 1167 |
-| 152 | [[Aaron Beck]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 1173 |
+| 152 | [[Aaron-Beck|Aaron Beck]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 1173 |
 | 153 | [[Albert Ellis]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 1173 |
 | 154 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 1173 |
 | 155 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Part 4: The Stoic Toolkit — Practical... | 1230 |
@@ -4976,7 +4976,7 @@ extraction_summary:
 | 340 | [[James Gross]] | — | — | The Neuroscience of Cognitive Reappra... | 2474 |
 | 341 | [[James Pennebaker]] | — | — | The Cognitive Science of Journaling | 2492 |
 | 342 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | The Cognitive Science of Journaling | 2497 |
-| 343 | [[Aaron Beck]] | — | — | The Cognitive Science of Journaling | 2497 |
+| 343 | [[Aaron-Beck|Aaron Beck]] | — | — | The Cognitive Science of Journaling | 2497 |
 | 344 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 2497 |
 | 345 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 2503 |
 | 346 | [[Self-Efficacy]] | — | — | The Research on Voluntary Discomfort | 2503 |
@@ -5014,12 +5014,12 @@ extraction_summary:
 | 378 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | ═════════════════════════════════════... | 3001 |
 | 379 | [[Positive Psychology]] | — | — | ═════════════════════════════════════... | 3002 |
 | 380 | [[Mindfulness]] | — | — | ═════════════════════════════════════... | 3003 |
-| 381 | [[Emotion Regulation]] | — | — | ═════════════════════════════════════... | 3004 |
+| 381 | [[Emotion-Regulation|Emotion Regulation]] | — | — | ═════════════════════════════════════... | 3004 |
 | 382 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | ═════════════════════════════════════... | 3005 |
 | 383 | [[Prohairesis]] | — | — | ═════════════════════════════════════... | 3006 |
 | 384 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 3007 |
 | 385 | [[Albert Ellis]] | — | — | ═════════════════════════════════════... | 3008 |
-| 386 | [[Aaron Beck]] | — | — | ═════════════════════════════════════... | 3009 |
+| 386 | [[Aaron-Beck|Aaron Beck]] | — | — | ═════════════════════════════════════... | 3009 |
 | 387 | [[James Gross]] | — | — | ═════════════════════════════════════... | 3010 |
 | 388 | [[Martin Seligman]] | — | — | ═════════════════════════════════════... | 3011 |
 | 389 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 3012 |
@@ -5051,7 +5051,7 @@ extraction_summary:
 | 415 | [[Epictetan Cognitive Model]] | — | — | ═════════════════════════════════════... | 3093 |
 | 416 | [[Stoic Pathology of Emotion]] | — | — | ═════════════════════════════════════... | 3094 |
 | 417 | [[ABC Model REBT]] | — | — | ═════════════════════════════════════... | 3095 |
-| 418 | [[Cognitive Restructuring]] | — | — | ═════════════════════════════════════... | 3096 |
+| 418 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | ═════════════════════════════════════... | 3096 |
 | 419 | [[Psychological Flexibility]] | — | — | ═════════════════════════════════════... | 3097 |
 | 420 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | ═════════════════════════════════════... | 3100 |
 | 421 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | ═════════════════════════════════════... | 3101 |
@@ -5071,7 +5071,7 @@ extraction_summary:
 | 435 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 3207 |
 | 436 | [[Rational Emotive Behavior Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 3207 |
 | 437 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 3207 |
-| 438 | [[Aaron Beck]] | — | — | Cognitive Behavioral Therapy and REBT | 3211 |
+| 438 | [[Aaron-Beck|Aaron Beck]] | — | — | Cognitive Behavioral Therapy and REBT | 3211 |
 | 439 | [[Albert Ellis]] | — | — | Cognitive Behavioral Therapy and REBT | 3215 |
 | 440 | [[Steven Hayes]] | — | — | Cognitive Behavioral Therapy and REBT | 3223 |
 | 441 | [[Martin Seligman]] | — | — | Cognitive Behavioral Therapy and REBT | 3227 |
@@ -5612,7 +5612,7 @@ extraction_summary:
 | 976 | [[Rational Emotive Behavior Therapy]] | — | — | ═════════════════════════════════════... | 7208 |
 | 977 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | ═════════════════════════════════════... | 7209 |
 | 978 | [[Albert Ellis]] | — | — | ═════════════════════════════════════... | 7210 |
-| 979 | [[Aaron Beck]] | — | — | ═════════════════════════════════════... | 7211 |
+| 979 | [[Aaron-Beck|Aaron Beck]] | — | — | ═════════════════════════════════════... | 7211 |
 | 980 | [[Steven Hayes]] | — | — | ═════════════════════════════════════... | 7212 |
 | 981 | [[Donald Robertson]] | — | — | ═════════════════════════════════════... | 7213 |
 | 982 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | ═════════════════════════════════════... | 7214 |
@@ -5621,11 +5621,11 @@ extraction_summary:
 | 985 | [[Eudaimonia]] | — | — | ═════════════════════════════════════... | 7217 |
 | 986 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 7218 |
 | 987 | [[Preferred-Indifferents|Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 7219 |
-| 988 | [[Cognitive Restructuring]] | — | — | ═════════════════════════════════════... | 7220 |
+| 988 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | ═════════════════════════════════════... | 7220 |
 | 989 | [[Cognitive Distortions]] | — | — | ═════════════════════════════════════... | 7221 |
 | 990 | [[Psychological Flexibility]] | — | — | ═════════════════════════════════════... | 7222 |
 | 991 | [[Mindfulness]] | — | — | ═════════════════════════════════════... | 7223 |
-| 992 | [[Emotion Regulation]] | — | — | ═════════════════════════════════════... | 7224 |
+| 992 | [[Emotion-Regulation|Emotion Regulation]] | — | — | ═════════════════════════════════════... | 7224 |
 | 993 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | ═════════════════════════════════════... | 7227 |
 | 994 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | ═════════════════════════════════════... | 7230 |
 | 995 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | ═════════════════════════════════════... | 7231 |
@@ -5676,7 +5676,7 @@ extraction_summary:
 | 1040 | [[B.F. Skinner]] | — | — | First Wave: Behavioral Therapy | 7419 |
 | 1041 | [[Joseph Wolpe]] | — | — | First Wave: Behavioral Therapy | 7419 |
 | 1042 | [[Albert Ellis]] | — | — | Second Wave: The Cognitive Revolution... | 7423 |
-| 1043 | [[Aaron Beck]] | — | — | Second Wave: The Cognitive Revolution... | 7423 |
+| 1043 | [[Aaron-Beck|Aaron Beck]] | — | — | Second Wave: The Cognitive Revolution... | 7423 |
 | 1044 | [[Cognitive Distortions]] | — | — | Second Wave: The Cognitive Revolution... | 7434 |
 | 1045 | [[Steven Hayes]] | — | — | Third Wave: Acceptance and Commitment... | 7441 |
 | 1046 | [[Cognitive Defusion]] | — | — | Third Wave: Acceptance and Commitment... | 7445 |
@@ -5910,7 +5910,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 > Each is a candidate for backlink creation in your PKB.
 
 - [[ABC Model REBT]]
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Academic Research]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Advanced Reasoning Techniques]]
@@ -5972,7 +5972,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Cognitive Model of Emotion]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Triad Beck]]
 - [[Comparative Philosophy]]
 - [[Concept A]]
@@ -5993,7 +5993,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Daniel-Kahneman|Daniel Kahneman]]
 - [[Debiasing-Interventions|Debiasing Interventions]]
 - [[Debugging Strategies for Reasoning Errors]]
-- [[Decision Making Under Uncertainty]]
+- [[Decision-Making-Under-Uncertainty|Decision Making Under Uncertainty]]
 - [[Decision-Theory|Decision Theory]]
 - [[Deductive Reasoning Techniques]]
 - [[Dialectical Behavior Therapy]]
@@ -6011,7 +6011,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Early Stoa]]
 - [[Educational-Psychology|Educational Psychology]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation|Emotion Regulation]]
 - [[Emotion Regulation Science]]
 - [[Emotional-Regulation|Emotional Regulation]]
 - [[Enchiridion]]
@@ -6033,7 +6033,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Eudaimonia]]
 - [[Eudaimonic Wellbeing]]
 - [[Eudaimonic Wellbeing Research]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice|Evidence-Based Practice]]
 - [[Existential Therapy]]
 - [[Expertise-Development|Expertise Development]]
 - [[Forgiveness in Stoicism]]

@@ -39,7 +39,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -282,6 +282,22 @@ importance: high
 - [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
 - [[Metacognitive-Regulation|Metacognitive-Regulation]]
 
+**Cross-report connections** *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*:
+- [[Metacognition|Metacognition]]
+- [[Metacognition|Metacognition]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive-Regulation]]
+
+**Cross-report connections** *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*:
+- [[Metacognition|Metacognition]]
+- [[Metacognition|Metacognition]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive-Regulation]]
+
+
+
 
 
 ## References
@@ -324,6 +340,78 @@ importance: high
 - **Renkl, A. (2002). Worked-out examples: Instructional explanations support learning by self-explanations. *Learning and Instruction*, 12, 529–556.**: Strong evidence for the self-explanation effect in instructional contexts, extending the Chi et al. findings. Supports the externalization principle and the claim that it is the monitoring-externalization component of self-explanation (not elaboration per se) that drives comprehension gains.
 
 - **Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. *Psychological Bulletin*, 123, 162–185.**: Comprehensive review of the situation model literature, establishing the five dimensions of situational coherence monitoring (temporal, causal, spatial, protagonist, intentional). Supports the three-tier monitoring model's Tier 3 specification.
+
+- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
+
+- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
+
+- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
+
+- **Garner, R. (1987). *Metacognition and Reading Comprehension*. Ablex.**: The most comprehensive treatment of metacognitive failures in reading. Identified the "compile to understand" illusion, documented the evidence on adult readers' poor monitoring, and provided the fix-up strategy taxonomy used in Phase IV. Core reference for the fluency trap mechanism.
+
+- **Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press.**: The authoritative account of the construction-integration model of text comprehension, including the textbase/situation model distinction used throughout this analysis. Provides the cognitive architecture within which comprehension monitoring must be understood.
+
+- **LaBerge, D. & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology*, 6, 293–323.**: Established the automaticity account of skilled reading — the theoretical foundation for the fluency trap mechanism. The argument that decoding automatization frees resources for comprehension is here complicated by the insight that those resources are not automatically redirected to monitoring.
+
+- **Nelson, T. O. & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 26, pp. 125–173). Academic Press.**: The monitoring-control model of metacognition used as the primary theoretical framework in Phase II and IV. The distinction between monitoring (upward) and control (downward) information flow provided the precise architecture for the decoupling analysis.
+
+- **Palincsar, A. S. & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction*, 1, 117–175.**: The foundational reciprocal teaching study. Produced some of the largest effect sizes in comprehension instruction research. Analyzed here as evidence for the externalization principle: the social externalization of monitoring was the key architectural change.
+
+- **Renkl, A. (2002). Worked-out examples: Instructional explanations support learning by self-explanations. *Learning and Instruction*, 12, 529–556.**: Strong evidence for the self-explanation effect in instructional contexts, extending the Chi et al. findings. Supports the externalization principle and the claim that it is the monitoring-externalization component of self-explanation (not elaboration per se) that drives comprehension gains.
+
+- **Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. *Psychological Bulletin*, 123, 162–185.**: Comprehensive review of the situation model literature, establishing the five dimensions of situational coherence monitoring (temporal, causal, spatial, protagonist, intentional). Supports the three-tier monitoring model's Tier 3 specification.
+
+- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
+
+- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
+
+- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
+
+- **Garner, R. (1987). *Metacognition and Reading Comprehension*. Ablex.**: The most comprehensive treatment of metacognitive failures in reading. Identified the "compile to understand" illusion, documented the evidence on adult readers' poor monitoring, and provided the fix-up strategy taxonomy used in Phase IV. Core reference for the fluency trap mechanism.
+
+- **Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press.**: The authoritative account of the construction-integration model of text comprehension, including the textbase/situation model distinction used throughout this analysis. Provides the cognitive architecture within which comprehension monitoring must be understood.
+
+- **LaBerge, D. & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology*, 6, 293–323.**: Established the automaticity account of skilled reading — the theoretical foundation for the fluency trap mechanism. The argument that decoding automatization frees resources for comprehension is here complicated by the insight that those resources are not automatically redirected to monitoring.
+
+- **Nelson, T. O. & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 26, pp. 125–173). Academic Press.**: The monitoring-control model of metacognition used as the primary theoretical framework in Phase II and IV. The distinction between monitoring (upward) and control (downward) information flow provided the precise architecture for the decoupling analysis.
+
+- **Palincsar, A. S. & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction*, 1, 117–175.**: The foundational reciprocal teaching study. Produced some of the largest effect sizes in comprehension instruction research. Analyzed here as evidence for the externalization principle: the social externalization of monitoring was the key architectural change.
+
+- **Renkl, A. (2002). Worked-out examples: Instructional explanations support learning by self-explanations. *Learning and Instruction*, 12, 529–556.**: Strong evidence for the self-explanation effect in instructional contexts, extending the Chi et al. findings. Supports the externalization principle and the claim that it is the monitoring-externalization component of self-explanation (not elaboration per se) that drives comprehension gains.
+
+- **Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. *Psychological Bulletin*, 123, 162–185.**: Comprehensive review of the situation model literature, establishing the five dimensions of situational coherence monitoring (temporal, causal, spatial, protagonist, intentional). Supports the three-tier monitoring model's Tier 3 specification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

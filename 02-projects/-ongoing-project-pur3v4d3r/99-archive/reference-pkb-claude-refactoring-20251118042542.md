@@ -33,7 +33,7 @@ aliases: [PKB Refactoring Dashboard, Naming Convention Update Center, Tag Migrat
 > [!the-purpose]
 > **Mission**: This dashboard serves as your command center for systematically updating your [[Personal-Knowledge-Base]] [[Naming Conventions]] and [[Tag Taxonomy]] while managing [[Cognitive-Load-Theory|cognitive load]] and maintaining [[Working-Memory]] efficiency throughout the refactoring process.
 > 
-> **Why This Matters**: Refactoring a PKB's foundational structure is cognitively demanding work that requires sustained [[Decision-Making]], pattern recognition, and quality assurance. This dashboard externalizes that cognitive burden into a structured workflow that prevents [[decision fatigue]] and ensures consistency.
+> **Why This Matters**: Refactoring a PKB's foundational structure is cognitively demanding work that requires sustained [[Decision-Making]], pattern recognition, and quality assurance. This dashboard externalizes that cognitive burden into a structured workflow that prevents [[Decision-Fatigue]] and ensures consistency.
 
 ---
 
@@ -87,7 +87,7 @@ SORT file.name ASC
 > 3. **Documentation First**: Record the "why" before implementing the "how"
 > 4. **Test Before Scale**: Validate changes on sample notes before full deployment
 > 5. **Rollback Planning**: Always maintain ability to revert changes
-> 6. **Cognitive Pacing**: Structure work to prevent [[decision fatigue]]
+> 6. **Cognitive Pacing**: Structure work to prevent [[Decision-Fatigue]]
 
 ---
 
@@ -552,7 +552,7 @@ LIMIT 20
 > 
 > **Workflow Support Notes**:
 > - [[Cognitive-Load-Theory]] - Understanding mental bandwidth
-> - [[decision fatigue]] - Managing choice exhaustion
+> - [[Decision-Fatigue]] - Managing choice exhaustion
 > - [[Working-Memory]] - Optimizing cognitive capacity
 > - [[Batch Processing]] - Efficient task grouping strategies
 > - [[Refactoring]] - Software engineering principles applied to knowledge work
@@ -579,7 +579,7 @@ LIMIT 20
 4. **[[Progressive Note Evolution Models]]**
    - *Connection*: Notes change over time; naming and tagging systems should support maturation without constant refactoring
    - *Depth Potential*: Design conventions that accommodate notes moving from seedling → developing → mature states
-   - *Knowledge Graph Role*: Connects to [[Note Lifecycle Management]], [[Evergreen Notes]], and [[Zettelkasten Growth Patterns]]
+   - *Knowledge Graph Role*: Connects to [[Note Lifecycle Management]], [[Evergreen-Notes]], and [[Zettelkasten Growth Patterns]]
 
 ---
 
@@ -646,7 +646,7 @@ I'll create a comprehensive reference note with:
 - Examples and templates
 
 **Wiki-links to identify:**
-[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Obsidian]], [[Zettelkasten]], [[PARA-Method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[YAML-Frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[Cognitive-Load]], [[Mental-Models]], [[MOC]], [[Atomic-Notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building a Second Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
+[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Obsidian]], [[Zettelkasten]], [[PARA-Method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[YAML-Frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[Cognitive-Load]], [[Mental-Models]], [[MOC]], [[Atomic-Notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building-a-Second-Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
 
 **Callouts to use (selecting 10-15 from the pool):**
 - [!definition] - for key terms
@@ -1202,5 +1202,5 @@ Controlled Taxonomy ←→ Organic Folksonomy
 
 4. **[[Progressive Summarization and Tag Evolution]]**
    - *Connection*: As notes evolve through [[Progressive-Summarization]] stages, their tag requirements change—initial broad tags refine into specific classifications as understanding deepens
-   - *Depth Potential*: Lifecycle models for note maturity, tag promotion/demotion protocols, status-based workflows, and integrating [[Building a Second Brain]] principles with dynamic taxonomy
+   - *Depth Potential*: Lifecycle models for note maturity, tag promotion/demotion protocols, status-based workflows, and integrating [[Building-a-Second-Brain]] principles with dynamic taxonomy
    - *Knowledge Graph Role*: Synthesizes [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] methodologies with practical taxonomy application, connecting to [[Information Lifecycle Management]] and [[Content Strategy]]

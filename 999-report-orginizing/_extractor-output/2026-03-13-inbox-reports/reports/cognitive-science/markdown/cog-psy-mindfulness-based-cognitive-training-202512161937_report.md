@@ -444,7 +444,7 @@ extraction_summary:
 > [!connections-and-links] Integration with Existing Cognitive Science Frameworks
 > The evidence for mindfulness-based cognitive enhancement intersects with and informs multiple established domains within cognitive science and neuroscience. **[[Cognitive-Load-Theory|Cognitive Load Theory]]** provides a complementary framework for understanding mindfulness effects: if working memory capacity increases or cognitive efficiency improves, the effective cognitive load imposed by complex tasks should decrease, enabling better learning and performance. The finding that mindfulness training enhances working memory accuracy but not processing speed suggests improvements in the quality of cognitive processing rather than mere acceleration—consistent with Cognitive Load Theory's emphasis on germane load (productive cognitive effort) over extraneous load (wasted effort due to poor design or internal interference).
 > 
-> **[[Dual-Coding-Theory|Dual Coding Theory]]** and **[[Elaborative Encoding]]** principles from learning science suggest potential synergies between mindfulness training and evidence-based learning strategies. Enhanced working memory capacity should enable more effective elaborative encoding—the deep processing of new information through connection to existing knowledge structures—by freeing cognitive resources for generative learning processes. Students combining mindfulness practice with active learning strategies may achieve greater benefit than either approach alone, though this hypothesis remains largely untested in controlled research. The integration of contemplative practices with evidence-based pedagogy represents an promising frontier for educational neuroscience.
+> **[[Dual-Coding-Theory|Dual Coding Theory]]** and **[[Elaborative-Encoding|Elaborative Encoding]]** principles from learning science suggest potential synergies between mindfulness training and evidence-based learning strategies. Enhanced working memory capacity should enable more effective elaborative encoding—the deep processing of new information through connection to existing knowledge structures—by freeing cognitive resources for generative learning processes. Students combining mindfulness practice with active learning strategies may achieve greater benefit than either approach alone, though this hypothesis remains largely untested in controlled research. The integration of contemplative practices with evidence-based pedagogy represents an promising frontier for educational neuroscience.
 > 
 > **[[Attentional Control Theory]]**, which explains how anxiety impairs cognitive performance through disruption of executive function, provides a mechanistic framework for understanding mindfulness-based cognitive enhancement in clinical populations. If anxiety chronically occupies working memory with threat-related content and disrupts goal-directed attention, then mindfulness training's capacity to enhance attentional control and reduce emotional reactivity could restore executive function by preventing this anxiety-induced impairment. This suggests mindfulness may be particularly beneficial for individuals whose cognitive performance is limited by anxiety rather than by fundamental capacity constraints—a prediction that could be tested through individual differences research examining anxiety as a moderator of training effects.
 > 
@@ -489,7 +489,7 @@ extraction_summary:
 > **Connection:** Attention Restoration Theory proposes that natural environments restore depleted attentional capacity through involuntary attention to fascinating stimuli—potentially synergizing with mindfulness practice conducted in nature.
 > **Depth Potential:** Comparative studies of indoor versus outdoor mindfulness practice could establish whether nature exposure amplifies cognitive benefits through complementary mechanisms of voluntary (mindfulness) and involuntary (nature) attention restoration.
 > **Knowledge Graph Role:** Connects environmental psychology, contemplative practice, and cognitive restoration—suggesting place-based interventions maximizing cognitive recovery.
-> **Prerequisites:** [[Attention Restoration Theory]], [[Directed vs Fascination Attention]], [[Biophilia Hypothesis]], [[Environmental Neuroscience]].
+> **Prerequisites:** [[Attention-Restoration-Theory|Attention Restoration Theory]], [[Directed vs Fascination Attention]], [[Biophilia Hypothesis]], [[Environmental Neuroscience]].
 
 #### 34. [SUMMARY] Essential Insights for Knowledge Integration *(Line 621)*
 
@@ -568,7 +568,7 @@ extraction_summary:
 - [[Amishi Jha]]
 - [[Anterior Cingulate Cortex]]
 - [[Attention Networks]]
-- [[Attention Restoration Theory]]
+- [[Attention-Restoration-Theory|Attention Restoration Theory]]
 - [[Attention Restoration Theory and Nature-Based Mindfulness]]
 - [[Attentional Control Theory]]
 - [[Baddeley]]
@@ -592,7 +592,7 @@ extraction_summary:
 - [[Dorsolateral Prefrontal Cortex]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[EEG]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Embodied Cognition Theory]]
 - [[Embodied Cognition and Somatic Awareness]]
 - [[Environmental Neuroscience]]
@@ -649,7 +649,7 @@ extraction_summary:
 - [[Stroop Task]]
 - [[Successful Aging]]
 - [[Sustained Attention]]
-- [[Task Switching]]
+- [[Task-Switching|Task Switching]]
 - [[Trail Making Test Part B]]
 - [[Transdiagnostic Mechanisms]]
 - [[Triple Network Model]]
@@ -689,7 +689,7 @@ extraction_summary:
 | 21 | [[Episodic-Buffer|Episodic Buffer]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
 | 22 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
 | 23 | [[Set Shifting]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
-| 24 | [[Task Switching]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
+| 24 | [[Task-Switching|Task Switching]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 25 | [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 26 | [[Trail Making Test Part B]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 27 | [[Mindfulness Meditation]] | — | — | 🧠 Theoretical Foundations: Executive ... | 368 |
@@ -763,7 +763,7 @@ extraction_summary:
 | 95 | [[Richard Davidson]] | — | — | Clinical and Therapeutic Applications | 543 |
 | 96 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 573 |
 | 97 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 575 |
-| 98 | [[Elaborative Encoding]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 575 |
+| 98 | [[Elaborative-Encoding|Elaborative Encoding]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 575 |
 | 99 | [[Attentional Control Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 577 |
 | 100 | [[Neural Darwinism]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 579 |
 | 101 | [[Hebbian Learning]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 579 |
@@ -794,7 +794,7 @@ extraction_summary:
 | 126 | [[Sensorimotor Grounding]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 613 |
 | 127 | [[4E-Cognition|4E Cognition]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 613 |
 | 128 | [[Attention Restoration Theory and Nature-Based Mindfulness]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 615 |
-| 129 | [[Attention Restoration Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 619 |
+| 129 | [[Attention-Restoration-Theory|Attention Restoration Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 619 |
 | 130 | [[Directed vs Fascination Attention]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 619 |
 | 131 | [[Biophilia Hypothesis]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 619 |
 | 132 | [[Environmental Neuroscience]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 619 |
@@ -1441,7 +1441,7 @@ for (let letter of sortedLetters) {
 - [[Amishi Jha]]
 - [[Anterior Cingulate Cortex]]
 - [[Attention Networks]]
-- [[Attention Restoration Theory]]
+- [[Attention-Restoration-Theory|Attention Restoration Theory]]
 - [[Attention Restoration Theory and Nature-Based Mindfulness]]
 - [[Attentional Control Theory]]
 - [[Baddeley]]
@@ -1465,7 +1465,7 @@ for (let letter of sortedLetters) {
 - [[Dorsolateral Prefrontal Cortex]]
 - [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[EEG]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Embodied Cognition Theory]]
 - [[Embodied Cognition and Somatic Awareness]]
 - [[Environmental Neuroscience]]
@@ -1522,7 +1522,7 @@ for (let letter of sortedLetters) {
 - [[Stroop Task]]
 - [[Successful Aging]]
 - [[Sustained Attention]]
-- [[Task Switching]]
+- [[Task-Switching|Task Switching]]
 - [[Trail Making Test Part B]]
 - [[Transdiagnostic Mechanisms]]
 - [[Triple Network Model]]

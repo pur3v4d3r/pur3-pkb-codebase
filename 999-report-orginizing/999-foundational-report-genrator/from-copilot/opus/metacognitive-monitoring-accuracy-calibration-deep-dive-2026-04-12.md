@@ -833,7 +833,7 @@ A third frontier approach embeds monitoring in computational memory models — c
 > **Why follow it:** Anosognosia dissociates monitoring from the monitored process, revealing domain-specificity at the neural level. A patient may monitor vision accurately but completely fail to monitor motor function — suggesting that monitoring circuits are at least partially domain-specific at the neural implementation level.
 > **Time investment:** Moderate — 10-20 hours of reading to understand the clinical syndrome and its implications for metacognitive theory.
 > **Where to start:** Prigatano (2010), *The Study of Anosognosia*; Berti et al. (2005) on dissociable monitoring deficits.
-> **See also:** [[Metacognitive-Awareness]], [[Self-Monitoring]]
+> **See also:** [[metacognitive-awareness]], [[Self-Monitoring]]
 
 ### 6.3 Technology-Mediated Calibration Enhancement
 

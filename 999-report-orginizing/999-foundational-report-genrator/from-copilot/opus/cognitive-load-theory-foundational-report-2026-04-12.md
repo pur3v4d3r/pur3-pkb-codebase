@@ -382,7 +382,7 @@ CLT's theoretical framework has generated one of the most extensive and internal
 >
 > **Boundary:** The effect is robust for novices but reverses for advanced learners (the [[Expertise-Reversal-Effect]]). It applies most strongly to well-structured domains with clear solution procedures.
 >
-> **See also:** [[Worked-Examples]], [[faded-worked-example|Faded Worked Examples]], [[Self-Explanation]], [[Completion-Problem-Effect]]
+> **See also:** [[Worked-Examples]], [[faded-worked-example|Faded Worked Examples]], [[self-explanation]], [[Completion-Problem-Effect]]
 
 The worked example effect is CLT's most replicated and practically significant finding. The explanation is elegant: when novice learners solve conventional problems, they must engage in means-ends analysis — a general problem-solving strategy that involves working backward from the goal, identifying differences between current state and goal state, and selecting operators to reduce those differences. This process imposes heavy extraneous load on working memory because learners must simultaneously maintain the goal state, the current state, the available operators, and the subgoals — none of which directly contributes to schema construction. Studying a worked example, by contrast, allows learners to devote their working memory resources to understanding the *rationale* behind each solution step — which *does* contribute to schema construction.
 
@@ -432,7 +432,7 @@ Beyond the major effects discussed above, CLT research has identified several ad
 
 - **The Isolated Elements Effect:** When element interactivity is very high, initial instruction that presents elements in isolation (temporarily breaking their interdependencies) can reduce intrinsic load to manageable levels, even though the isolated presentation is technically incomplete. Once learners have acquired schemas for the individual elements, they can then learn the interactions.
 
-- **The [[Self-Explanation|Self-Explanation Effect]]:** Prompting learners to explain worked example steps to themselves enhances learning by directing germane processing toward the rationale underlying solution procedures.
+- **The [[self-explanation|Self-Explanation Effect]]:** Prompting learners to explain worked example steps to themselves enhances learning by directing germane processing toward the rationale underlying solution procedures.
 
 - **The [[Generation-Effect|Generation Effect]]:** Under certain conditions, generating information rather than receiving it passively enhances learning — though this effect is moderated by element interactivity and expertise level in ways consistent with CLT predictions.
 
@@ -504,7 +504,7 @@ This reconceptualization remains contentious. [[Jeroen-van-Merriënboer|Van Merr
 
 ### 7.2 CLT and Desirable Difficulties
 
-Perhaps the most productive external challenge to CLT comes from the [[Desirable-Difficulties|desirable difficulties]] framework, associated primarily with [[Robert-Bjork|Robert and Elizabeth Bjork]]. Desirable difficulties are conditions that introduce difficulty during learning but *enhance* long-term retention and transfer. The classic examples include [[Interleaving|interleaved practice]] (mixing different types of problems), [[Retrieval-Practice|retrieval practice]] (testing as a learning event), spaced practice (distributing study over time), and [[Generation-Effect|generation]] (producing answers rather than reading them).
+Perhaps the most productive external challenge to CLT comes from the [[Desirable-Difficulties|desirable difficulties]] framework, associated primarily with [[Robert-Bjork|Robert and Elizabeth Bjork]]. Desirable difficulties are conditions that introduce difficulty during learning but *enhance* long-term retention and transfer. The classic examples include [[interleaving|interleaved practice]] (mixing different types of problems), [[Retrieval-Practice|retrieval practice]] (testing as a learning event), spaced practice (distributing study over time), and [[Generation-Effect|generation]] (producing answers rather than reading them).
 
 The apparent tension with CLT is straightforward: CLT generally predicts that reducing unnecessary cognitive load improves learning, while desirable difficulties research shows that *adding* certain kinds of difficulty improves learning. If CLT is correct that extraneous load impairs learning, why do these added difficulties help?
 
@@ -583,7 +583,7 @@ The principles underlying [[Cognitive-Load-Theory]] extend well beyond their ori
 > [!far-transfer] **Software Engineering and System Architecture**
 > CLT's architecture — limited processor, vast store, chunks as the optimization unit — maps directly onto fundamental principles of computing and system design. RAM (working memory) is fast but small; disk/database (long-term memory) is vast but slow; caching and indexing (schemas) bridge the two by organizing frequently accessed information for rapid retrieval. The principle of reducing extraneous load translates into the software engineering heuristic of eliminating unnecessary complexity: clean code, separation of concerns, and minimal interface surface area all reduce the "extraneous load" on the developer-reader. The expertise reversal effect maps onto the observation that code abstractions helpful for junior developers (extensive comments, step-by-step documentation) become redundant noise for senior developers who have automated those schemas. API design that manages cognitive complexity — progressive disclosure, sensible defaults, layered abstraction — is CLT-informed design whether or not the designer knows it.
 >
-> **See also:** [[Cognitive-Architecture]], [[Chunking]], [[Information-Processing]]
+> **See also:** [[Cognitive-Architecture]], [[Chunking]], [[information-processing]]
 
 > [!far-transfer] **Organizational Management and Meeting Design**
 > Organizations routinely violate CLT principles. Meetings that address 15 agenda items in 60 minutes impose element interactivity that exceeds any participant's processing capacity. Presentation slides that combine dense data tables with narration that restates the table content create redundancy effects. Onboarding programs that immerse new employees in the full complexity of organizational systems without scaffolding create the equivalent of unsupported problem-solving for novice learners. CLT-informed organizational practice would chunk meeting agendas, eliminate presentation redundancy, scaffold onboarding with worked examples of organizational procedures, and recognize the expertise reversal effect in training design — providing more structure for newer employees and progressively fading support as expertise develops.
@@ -706,13 +706,13 @@ The guiding question posed at the outset — why does instruction that seems int
 > **See also:** [[Expertise-Reversal-Effect]], [[Sergei-Kalyuga]], [[Adaptive-Instruction]]
 
 > [!definition] **Desirable Difficulties (Robert Bjork, 1994)**
-> Conditions of learning that introduce difficulty during encoding or practice but enhance long-term retention and transfer. Key examples include [[Retrieval-Practice|retrieval practice]], [[Interleaving|interleaved practice]], spaced practice, and the [[Generation-Effect|generation effect]]. Desirable difficulties increase productive engagement with material's intrinsic structure.
+> Conditions of learning that introduce difficulty during encoding or practice but enhance long-term retention and transfer. Key examples include [[Retrieval-Practice|retrieval practice]], [[interleaving|interleaved practice]], spaced practice, and the [[Generation-Effect|generation effect]]. Desirable difficulties increase productive engagement with material's intrinsic structure.
 >
 > **Boundary:** "Desirable" is the crucial qualifier: not all difficulties are beneficial. Difficulties that impose extraneous load (poor design, confusing instructions) are undesirable. Only difficulties that increase germane processing of intrinsic content are desirable.
 >
 > **Report-Specific Significance:** The desirable difficulties framework provides the most productive external challenge to CLT, requiring reconciliation of CLT's load-reduction orientation with evidence that certain added difficulties enhance learning.
 >
-> **See also:** [[Desirable-Difficulties]], [[Robert-Bjork]], [[Retrieval-Practice]], [[Interleaving]], [[Generation-Effect]]
+> **See also:** [[Desirable-Difficulties]], [[Robert-Bjork]], [[Retrieval-Practice]], [[interleaving]], [[Generation-Effect]]
 
 ---
 
@@ -1055,7 +1055,7 @@ The guiding question posed at the outset — why does instruction that seems int
 > > **Connection to this report:** Section 7.2 establishes the desirable difficulties framework as CLT's most productive external interlocutor. A practitioner-focused treatment would translate the reconciliation into actionable learning strategies.
 > > **Priority:** High
 > > **Suggested report type:** Practitioner's Field Guide
-> > **Prerequisites:** [[Cognitive-Load-Theory]], [[Retrieval-Practice]], [[Interleaving]], [[Self-Regulated-Learning]]
+> > **Prerequisites:** [[Cognitive-Load-Theory]], [[Retrieval-Practice]], [[interleaving]], [[Self-Regulated-Learning]]
 >
 > > [!topic-idea] **[[Four-Component-Instructional-Design-4CID|The 4C/ID Model — Complete Instructional Design Methodology]]**
 > > **Description:** A comprehensive treatment of van Merriënboer's Four-Component Instructional Design model as CLT's most fully developed practical instantiation, including learning tasks, supportive information, procedural information, and part-task practice.
@@ -1076,7 +1076,7 @@ The guiding question posed at the outset — why does instruction that seems int
 > - [[Schema-Theory]] — The representational framework CLT adopts from cognitive psychology. Schema construction and automation are CLT's learning outcomes.
 > - [[Information-Processing-Theory]] — The broader theoretical tradition within which CLT is situated. The information processing framework provides the computational metaphor CLT employs.
 > - [[Baddeley's-Working-Memory-Model]] — The specific working memory architecture CLT draws upon, particularly the multi-component structure with phonological loop and visuospatial sketchpad.
-> - [[Cognitive-Psychology]] — The disciplinary home of CLT's foundational assumptions about mental architecture, processing limits, and knowledge representation.
+> - [[cognitive-psychology]] — The disciplinary home of CLT's foundational assumptions about mental architecture, processing limits, and knowledge representation.
 >
 > **2. Downstream Applications** (this report enables):
 > - [[Instructional-Design]] — CLT is the primary theoretical foundation for evidence-based instructional design. This report provides the theory; instructional design notes provide the practice.

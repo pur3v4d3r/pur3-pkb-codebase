@@ -155,7 +155,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Key "Stocks" (The Accumulations):**
->   	  - The PKB accumulates three primary types of *stocks*—think of these as the "inventory" that defines the system's current state. First, there are **[[Atomic-Notes|Notes]]**, the discrete packets of captured thought. In the [[Zettelkasten Method|Zettelkasten]] tradition, each note is "atomic," meaning it contains a single, complete idea that can stand alone and be combined with other ideas. These notes are not mere transcriptions; they are *reformulations* of external information through your own cognitive filter. Second, there are **[[Connections|Links]]**, the associative pathways between notes. In a mature PKB, the number of connections often exceeds the number of notes themselves, forming a dense web. These links represent your understanding of *relationships*—how concepts influence, contradict, or extend one another. Third, and most importantly, there is the stock of **[[Mental-Models|Understanding]]**—the internalized, tacit knowledge that resides not in the files themselves, but in *your mind* as a result of engaging with the system. This is the PKB's ultimate output: a transformed capacity for thought.
+>   	  - The PKB accumulates three primary types of *stocks*—think of these as the "inventory" that defines the system's current state. First, there are **[[Atomic-Notes|Notes]]**, the discrete packets of captured thought. In the [[Zettelkasten-Method|Zettelkasten]] tradition, each note is "atomic," meaning it contains a single, complete idea that can stand alone and be combined with other ideas. These notes are not mere transcriptions; they are *reformulations* of external information through your own cognitive filter. Second, there are **[[Connections|Links]]**, the associative pathways between notes. In a mature PKB, the number of connections often exceeds the number of notes themselves, forming a dense web. These links represent your understanding of *relationships*—how concepts influence, contradict, or extend one another. Third, and most importantly, there is the stock of **[[Mental-Models|Understanding]]**—the internalized, tacit knowledge that resides not in the files themselves, but in *your mind* as a result of engaging with the system. This is the PKB's ultimate output: a transformed capacity for thought.
 
 #### 8. [PRINCIPLE-POINT] Untitled *(Line 55)*
 
@@ -230,7 +230,7 @@ extraction_summary:
 
 > [!helpful-tip] Untitled
 > - **A Second High-Leverage Intervention: Redefine the Goal from "Collection" to "Connection"**
->   	  - In Meadows' hierarchy, the *goals* of a system are among the highest leverage points. Most people intuitively frame their PKB goal as "collecting knowledge" or "saving information." This goal orients all behavior toward *accumulation*—the growth of the stock of notes. But accumulation triggers the **Cognitive Load Regulation Loop**, which eventually limits the system. A more powerful goal is to reframe the PKB's purpose as **"making connections between ideas."** This subtle shift changes everything. When your goal is connection-making, you prioritize *linking* over capture, you value *quality* of notes over quantity, and you recognize that a smaller, densely connected PKB is more valuable than a larger, fragmented one. This goal shift also changes your relationship with the **Time Allocation Loop**: time spent linking and reviewing no longer feels like "overhead"—it *is* the work. This is the philosophy underlying the [[Zettelkasten Method|Zettelkasten]]: [[Niklas Luhmann]] wrote roughly 90,000 notes over 30 years, but the power of his system came not from the volume, but from the meticulous cross-referencing that created a "web of thought."
+>   	  - In Meadows' hierarchy, the *goals* of a system are among the highest leverage points. Most people intuitively frame their PKB goal as "collecting knowledge" or "saving information." This goal orients all behavior toward *accumulation*—the growth of the stock of notes. But accumulation triggers the **Cognitive Load Regulation Loop**, which eventually limits the system. A more powerful goal is to reframe the PKB's purpose as **"making connections between ideas."** This subtle shift changes everything. When your goal is connection-making, you prioritize *linking* over capture, you value *quality* of notes over quantity, and you recognize that a smaller, densely connected PKB is more valuable than a larger, fragmented one. This goal shift also changes your relationship with the **Time Allocation Loop**: time spent linking and reviewing no longer feels like "overhead"—it *is* the work. This is the philosophy underlying the [[Zettelkasten-Method|Zettelkasten]]: [[Niklas Luhmann]] wrote roughly 90,000 notes over 30 years, but the power of his system came not from the volume, but from the meticulous cross-referencing that created a "web of thought."
 
 #### 21. [SUMMARY] Untitled *(Line 162)*
 
@@ -287,7 +287,7 @@ extraction_summary:
 > - **[[Emergence]]** — The phenomenon where complex systems exhibit properties that cannot be predicted from their individual components alone.
 > - **[[Leverage Points]]** — Donella Meadows' hierarchy of intervention points in complex systems, from weak (parameters) to powerful (paradigms).
 > - **[[Stocks and Flows]]** — The fundamental building blocks of system dynamics: accumulated quantities and the rates at which they change.
-> - **[[Zettelkasten Method]]** — Niklas Luhmann's note-taking system based on atomic notes, unique identifiers, and dense cross-referencing.
+> - **[[Zettelkasten-Method|Zettelkasten Method]]** — Niklas Luhmann's note-taking system based on atomic notes, unique identifiers, and dense cross-referencing.
 > - **[[Progressive-Summarization|Progressive Summarization]]** — Tiago Forte's technique for iteratively distilling notes through multiple passes of highlighting and compression.
 > - **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]** — The learning technique that leverages the psychological spacing effect to optimize long-term memory retention.
 > - **[[Atomic-Notes|Atomic Notes]]** — The practice of capturing single, complete ideas in individual notes to maximize modularity and recombination.
@@ -350,13 +350,13 @@ extraction_summary:
 - [[Serendipity]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stocks and Flows]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Sönke Ahrens]]
 - [[Teaching]]
 - [[Tiago Forte]]
 - [[User Interface Design]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[review]]
 - [[synthesis]]
 
@@ -382,7 +382,7 @@ extraction_summary:
 | 16 | [[Roam Research]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 17 | [[PARA-Method|PARA Method]] | CODE | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 18 | [[Atomic-Notes|Atomic Notes]] | Notes | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
-| 19 | [[Zettelkasten Method]] | Zettelkasten | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
+| 19 | [[Zettelkasten-Method|Zettelkasten Method]] | Zettelkasten | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 20 | [[Connections]] | Links | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 21 | [[Mental-Models|Mental Models]] | Understanding | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 22 | [[Capture]] | Note Creation | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
@@ -399,7 +399,7 @@ extraction_summary:
 | 33 | [[Teaching]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
 | 34 | [[Memory]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
 | 35 | [[User Interface Design]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
-| 36 | [[Zettelkasten Method]] | Zettelkasten | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 76 |
+| 36 | [[Zettelkasten-Method|Zettelkasten Method]] | Zettelkasten | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 76 |
 | 37 | [[Retrieval-Practice|Retrieval Practice]] | retrieval | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 80 |
 | 38 | [[Niklas Luhmann]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 86 |
 | 39 | [[Zettelkasten]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 86 |
@@ -424,7 +424,7 @@ extraction_summary:
 | 58 | [[Notion]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
 | 59 | [[Notion]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
 | 60 | [[Obsidian]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
-| 61 | [[Zettelkasten Method]] | Zettelkasten | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 154 |
+| 61 | [[Zettelkasten-Method|Zettelkasten Method]] | Zettelkasten | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 154 |
 | 62 | [[Niklas Luhmann]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 154 |
 | 63 | [[Insight Compounding Loop]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 185 |
 | 64 | [[Cognitive Load Regulation Loop]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 187 |
@@ -433,13 +433,13 @@ extraction_summary:
 | 67 | [[Emergence]] | — | — | 7.0 📚 Reference/Appendix | 210 |
 | 68 | [[Leverage Points]] | — | — | 7.0 📚 Reference/Appendix | 211 |
 | 69 | [[Stocks and Flows]] | — | — | 7.0 📚 Reference/Appendix | 212 |
-| 70 | [[Zettelkasten Method]] | — | — | 7.0 📚 Reference/Appendix | 213 |
+| 70 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 7.0 📚 Reference/Appendix | 213 |
 | 71 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 7.0 📚 Reference/Appendix | 214 |
 | 72 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 7.0 📚 Reference/Appendix | 215 |
 | 73 | [[Atomic-Notes|Atomic Notes]] | — | — | 7.0 📚 Reference/Appendix | 216 |
 | 74 | [[Mental-Models|Mental Models]] | — | — | 7.0 📚 Reference/Appendix | 217 |
 | 75 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 7.0 📚 Reference/Appendix | 218 |
-| 76 | [[Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 224 |
+| 76 | [[Systems-Thinking|Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 224 |
 | 77 | [[Knowledge-Management|Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 225 |
 | 78 | [[Networked Thought]] | — | — | 🔗 Related Topics for PKB Expansion | 226 |
 | 79 | [[Second Brain]] | — | — | 🔗 Related Topics for PKB Expansion | 227 |
@@ -570,13 +570,13 @@ Let me break down what I need to do:
 - [[Serendipity]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stocks and Flows]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Sönke Ahrens]]
 - [[Teaching]]
 - [[Tiago Forte]]
 - [[User Interface Design]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[review]]
 - [[synthesis]]
 

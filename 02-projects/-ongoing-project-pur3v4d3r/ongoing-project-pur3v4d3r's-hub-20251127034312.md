@@ -368,7 +368,7 @@ SORT file.ctime DESC
 > - **Description**:: I am adding this topic as it is the critical link between planning and reflection. This is the *in-the-moment* awareness and tracking of one's own learning and comprehension *during* a task. It involves processes like "judgments of learning" (JOLs)—assessing how well you know something—which allows you to make real-time adjustments, such as re-reading a confusing paragraph or switching strategies.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Metacognitive Reflection]]
+> - **Topic or Idea**:: [[Metacognitive-Reflection]]
 > - **Key Figure(s)**:: *Barry Zimmerman*, *Donald Schön*
 > - **Description**:: This is the **self-reflection phase** that occurs *after* a learning attempt, forming the crucial feedback loop in [[Self-Regulated-Learning]]. It involves **self-evaluation** (judging one's performance against the goal) and **self-reaction** (attributing outcomes to specific causes, like effort or strategy choice). This reflection is what informs and improves future [[Metacognitive Planning]].
 
@@ -412,7 +412,7 @@ SORT file.ctime DESC
 ## 🎯 Productivity & Cognitive Styles
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Emotion Regulation]]
+> - **Topic or Idea**:: [[Emotion-Regulation]]
 > - **Key Figure(s)**:: *James J. Gross*
 > - **Description**:: The process by which individuals influence *which* emotions they have, *when* they have them, and *how* they experience and express these emotions. Gross's **process model** outlines key strategies like **situation selection**, **cognitive change** (reappraisal), and **response modulation** (suppression). It is a crucial, specific domain of [[Self-Regulation Theory]].
 
@@ -525,7 +525,7 @@ The following table presents the optimal pairings, justifying the choice based o
 | **Andragogy & Cognition** | A Comprehensive Inquiry into the Symbiotic Relationship Between Andragogical Principles and the Cultivation of Higher-Order Cognitive Skills… | **🗺️ Interdisciplinary Synthesis** | Requires **synthesizing** two distinct fields: [[Adult Learning Theory (Andragogy)]] and [[Higher-Order Cognitive Skills (HOCS)]], to find emergent connections. |
 | **Critical Thinking Barriers** | An Investigation into the Cognitive Biases, Logical Fallacies, and Psychological Barriers that Impede Effective Critical… | **3. ⚖️ Socratic Inquiry** | The best way to mitigate biases is to **critically challenge** them. The dialogue-based model forces the deconstruction of *your own* assumptions. |
 | **Problem-Solving** | A Structural Analysis of the Critical Problem-Solving Process, Detailing a Comprehensive Methodological Framework… | **2. ⚙️ Problem-Based Learning (PBL)** | The topic is focused on detailing a **methodological framework** for applied problem-solving. PBL uses a structured approach to solve a concrete problem instance. |
-| **Zettelkasten & Metacognition** | An Examination of the [[zettelkasten method]] and Reflective Practice… for Fostering Metacognition… | **7. 🕸️ Systems Thinking** | Zettelkasten is a **dynamic, adaptive system** of interlinked notes and processes. Understanding its function requires analyzing the full feedback loop of note-taking $\rightarrow$ linking $\rightarrow$ synthesis. |
+| **Zettelkasten & Metacognition** | An Examination of the [[Zettelkasten-Method]] and Reflective Practice… for Fostering Metacognition… | **7. 🕸️ Systems Thinking** | Zettelkasten is a **dynamic, adaptive system** of interlinked notes and processes. Understanding its function requires analyzing the full feedback loop of note-taking $\rightarrow$ linking $\rightarrow$ synthesis. |
 | **Cognitive Mechanisms** | A Methodological Analysis of the Cognitive Mechanisms Underpinning Critical and Divergent Thinking, and Their Synthesized Application… | **⚙️ First Principles Problem-Solving** | To understand the *mechanisms* underpinning thinking, you must **deconstruct** the cognitive process to its axioms (e.g., pattern recognition, working memory) and reason *up* to the framework. |
 | **Flow & Workflow Design** | A Comprehensive Analysis of Workflow Design Principles as a Mechanism for Systematically Inducing… Psychological Flow States… | **7. 🕸️ Systems Thinking** | Workflow is a **system**. The goal is to induce the **emergent state** of flow by manipulating inputs and feedback loops within the system architecture. |
 | **Flow State Psychology** | A comprehensive analysis of flow state psychology, examining the historical development of optimal experience theory… | **⏳ Conceptual Genealogy Framework** | The prompt explicitly requires tracing the **historical development** from Csikszentmihalyi's foundational work through contemporary neuroscience. |

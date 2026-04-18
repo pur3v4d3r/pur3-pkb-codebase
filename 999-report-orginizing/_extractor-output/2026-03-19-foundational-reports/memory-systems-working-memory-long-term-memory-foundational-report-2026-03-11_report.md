@@ -251,7 +251,7 @@ extraction_summary:
 #### 22. [COUNTER-ARGUMENT] Multiple Trace Theory *(Line 386)*
 
 > [!counter-argument] Multiple Trace Theory
-> [[Lynn-Nadel|Lynn Nadel]] and [[Morris Moscovitch]] have challenged the Standard Model with the **Multiple Trace Theory** (MTT). MTT argues that episodic memories remain hippocampus-dependent throughout their lifetime — each retrieval creates a new hippocampal trace, and the hippocampus is always required to reconstruct the contextual richness of episodic experience. What becomes neocortically independent over time is not episodic memory per se but the semantic knowledge extracted from repeated episodes. This framework predicts that remote episodic memories should be just as vulnerable to hippocampal damage as recent ones — a prediction supported by some neuropsychological evidence but contested by others. The debate between the Standard Model and MTT remains active and has important implications for understanding the distinction between semantic and episodic memory.
+> [[Lynn-Nadel|Lynn Nadel]] and [[Morris-Moscovitch|Morris Moscovitch]] have challenged the Standard Model with the **Multiple Trace Theory** (MTT). MTT argues that episodic memories remain hippocampus-dependent throughout their lifetime — each retrieval creates a new hippocampal trace, and the hippocampus is always required to reconstruct the contextual richness of episodic experience. What becomes neocortically independent over time is not episodic memory per se but the semantic knowledge extracted from repeated episodes. This framework predicts that remote episodic memories should be just as vulnerable to hippocampal damage as recent ones — a prediction supported by some neuropsychological evidence but contested by others. The debate between the Standard Model and MTT remains active and has important implications for understanding the distinction between semantic and episodic memory.
 
 #### 23. [ASK-YOURSELF-THIS] A Theoretical Choice *(Line 389)*
 
@@ -555,8 +555,8 @@ extraction_summary:
 - [[Lynn-Nadel|Lynn Nadel]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Miyake-and-colleagues|Miyake and colleagues]]
-- [[Morris Moscovitch]]
-- [[Multiple Trace Theory]]
+- [[Morris-Moscovitch|Morris Moscovitch]]
+- [[Multiple-Trace-Theory|Multiple Trace Theory]]
 - [[Nelson-Cowan|Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
 - [[Norman-and-Shallice|Norman and Shallice]]
@@ -622,7 +622,7 @@ extraction_summary:
 | 37 | [[Amygdala]] | — | — | The Multiple Memory Systems Framework | 371 |
 | 38 | [[Standard-Model-of-Consolidation|Standard Model of Consolidation]] | — | — | Consolidation: The Transition from Fr... | 384 |
 | 39 | [[Lynn-Nadel|Lynn Nadel]] | — | — | Consolidation: The Transition from Fr... | 387 |
-| 40 | [[Morris Moscovitch]] | — | — | Consolidation: The Transition from Fr... | 387 |
+| 40 | [[Morris-Moscovitch|Morris Moscovitch]] | — | — | Consolidation: The Transition from Fr... | 387 |
 | 41 | [[Fergus Craik]] | — | — | Encoding: How Information Enters Memory | 403 |
 | 42 | [[Robert Lockhart]] | — | — | Encoding: How Information Enters Memory | 403 |
 | 43 | [[Endel-Tulving|Endel Tulving]] | — | — | Encoding: How Information Enters Memory | 406 |
@@ -645,7 +645,7 @@ extraction_summary:
 | 60 | [[Akira Miyake and colleagues]] | — | — | Limitations of the Field | 488 |
 | 61 | [[Daniel-Willingham|Daniel Willingham]] | — | — | What Memory Science Reveals | 510 |
 | 62 | [[g]] | — | — | Unresolved Questions | 517 |
-| 63 | [[Multiple Trace Theory]] | — | — | Unresolved Questions | 517 |
+| 63 | [[Multiple-Trace-Theory|Multiple Trace Theory]] | — | — | Unresolved Questions | 517 |
 | 64 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 524 |
 | 65 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 526 |
 | 66 | [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] | — | — | Unresolved Questions | 528 |
@@ -707,8 +707,8 @@ extraction_summary:
 - [[Lynn-Nadel|Lynn Nadel]]
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Miyake-and-colleagues|Miyake and colleagues]]
-- [[Morris Moscovitch]]
-- [[Multiple Trace Theory]]
+- [[Morris-Moscovitch|Morris Moscovitch]]
+- [[Multiple-Trace-Theory|Multiple Trace Theory]]
 - [[Nelson-Cowan|Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
 - [[Norman-and-Shallice|Norman and Shallice]]

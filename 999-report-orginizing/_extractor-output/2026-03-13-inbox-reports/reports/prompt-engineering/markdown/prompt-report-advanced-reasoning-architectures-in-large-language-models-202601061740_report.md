@@ -203,7 +203,7 @@ extraction_summary:
 - [[Chain-of-Verification|Chain of Verification]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
-- [[Chi et al. (1981)]]
+- [[Chi-et-al.|Chi et al. (1981)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory-Applications-to-LLM-Prompting]]
 - [[Comparative-Analysis-of-Vector-Databases-for-RAG]]
@@ -237,7 +237,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**Advanced Reasoning Architectures in Large Language Models: A Comprehensive Analysis of Claude's Extended Thinking Framework and Prompt-Engineered Reasoning Methodologies**]] | — | — | Foundational Understanding | 101 |
 | 2 | [[Kahneman's Dual Process Theory]] | — | — | The Cognitive Architecture of Modern ... | 129 |
-| 3 | [[Chi et al. (1981)]] | — | — | The Cognitive Architecture of Modern ... | 135 |
+| 3 | [[Chi-et-al.|Chi et al. (1981)]] | — | — | The Cognitive Architecture of Modern ... | 135 |
 | 4 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Theoretical Underpinnings from Cognit... | 141 |
 | 5 | [[Cowan's Capacity Estimates]] | — | — | Theoretical Underpinnings from Cognit... | 141 |
 | 6 | [[Bereiter and Scardamalia's (1987)]] | — | — | The Role of Thinking Tags in Reasonin... | 167 |
@@ -1078,7 +1078,7 @@ description includes Review
 - [[Chain-of-Verification|Chain of Verification]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
-- [[Chi et al. (1981)]]
+- [[Chi-et-al.|Chi et al. (1981)]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory-Applications-to-LLM-Prompting]]
 - [[Comparative-Analysis-of-Vector-Databases-for-RAG]]

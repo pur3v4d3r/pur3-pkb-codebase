@@ -373,7 +373,7 @@ Encode where/when/how to apply captured knowledge.
 ```markdown
 [**Application-Domain**:: [[Domain]] | trigger:"situation description" | action:"recommended response" | confidence:high]
 
-[**Anti-Pattern**:: [[Concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
+[**Anti-Pattern**:: [[concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
 ```
 </inline_syntax>
 
@@ -654,7 +654,7 @@ Encode where/when/how to apply captured knowledge.
 ```markdown
 [**Application-Domain**:: [[Domain]] | trigger:"situation description" | action:"recommended response" | confidence:high]
 
-[**Anti-Pattern**:: [[Concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
+[**Anti-Pattern**:: [[concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
 ```
 </inline_syntax>
 
@@ -884,9 +884,9 @@ Explicitly connect concepts to foundational mental models.
 ### Inline Model Anchors
 
 ```markdown
-[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
 
-[**Model-Application**:: [[Concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
+[**Model-Application**:: [[concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
 </inline_syntax>
 
@@ -898,7 +898,7 @@ Explicitly connect concepts to foundational mental models.
 | [[First Principles]] | Decompose to fundamentals | "What are the basic building blocks?" |
 | [[Inversion]] | Solve by negation | "What would make this fail?" |
 | [[Second-Order Effects]] | Consequences of consequences | "And then what?" |
-| [[Systems Thinking]] | Interconnected wholes | "What are the feedback loops?" |
+| [[Systems-Thinking]] | Interconnected wholes | "What are the feedback loops?" |
 | [[Opportunity Cost]] | Value of alternatives foregone | "What am I giving up?" |
 | [[Constraint Theory]] | Bottleneck identification | "What's the limiting factor?" |
 | [[Circle of Competence]] | Know your limits | "Am I qualified to judge this?" |
@@ -1517,7 +1517,7 @@ Identify and link any term that meets these criteria:
 
 ✓ **Academic Fields**
 - Broad domains: [[Cognitive-Science]], [[neuroscience]], [[Instructional-Design]]
-- Subdisciplines: [[Educational-Psychology]], [[Human-Computer Interaction]]
+- Subdisciplines: [[Educational-Psychology]], [[Human-Computer-Interaction]]
 - Research areas: [[Learning-Analytics]], [[Metacognition]]
 
 ✓ **Specialized Subfields**
@@ -1612,7 +1612,7 @@ Use when: The note title is the exact term you want displayed
 ```
 Use when: 
 - Grammatical integration: "theories of [[Cognitive-Load-Theory|cognitive load]]"
-- Shortened reference: "the [[Zettelkasten Method|method]]"
+- Shortened reference: "the [[Zettelkasten-Method|method]]"
 - Alternative phrasing: "[[Progressive-Summarization|layer-based distillation]]"
 
 **HEADER LINK** (section-specific):
@@ -1715,7 +1715,7 @@ This [[method]] uses several [[techniques]] to improve [[things]].
 ```
 ✅ **Correct Approach:**
 ```markdown
-The [[Zettelkasten Method]] uses [[Atomic-Notes]] and [[Progressive Linking]] 
+The [[Zettelkasten-Method]] uses [[Atomic-Notes]] and [[Progressive Linking]] 
 to improve knowledge retention.
 ```
 
@@ -3163,7 +3163,7 @@ FOR each section:
 
 **WITH WIKI-LINKS:**
 ```markdown
-The <span style='color: #FFC700;'>[[Zettelkasten Method]]</span> leverages <span style='color: #72FFF1;'>[[Atomic-Notes]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
+The <span style='color: #FFC700;'>[[Zettelkasten-Method]]</span> leverages <span style='color: #72FFF1;'>[[Atomic-Notes]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
 ```
 *Color can wrap wiki-links to add semantic layer.*
 

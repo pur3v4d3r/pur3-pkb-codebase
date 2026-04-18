@@ -465,7 +465,7 @@ extraction_summary:
 - [[Automation Strategies]]
 - [[Bidirectional Linking]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Chunking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and Instructional Design for PKM Systems]]
@@ -477,7 +477,7 @@ extraction_summary:
 - [[Depth of Processing Theory]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elaborative Interrogation as Progressive Technique]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes|Evergreen Notes]]
 - [[Excalidraw]]
 - [[Extended Mind]]
 - [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]
@@ -622,8 +622,8 @@ extraction_summary:
 | 67 | [[Templater]] | — | — | Automation Opportunities | 696 |
 | 68 | [[Dataview]] | — | — | Automation Opportunities | 696 |
 | 69 | [[Spaced Repetition System]] | spaced retrieval practice | — | Evidence for Progressive Summarizatio... | 753 |
-| 70 | [[Building a Second Brain]] | — | — | Connection to Building a Second Brain... | 803 |
-| 71 | [[Evergreen Notes]] | — | — | Relationship to Evergreen Notes | 821 |
+| 70 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | Connection to Building a Second Brain... | 803 |
+| 71 | [[Evergreen-Notes|Evergreen Notes]] | — | — | Relationship to Evergreen Notes | 821 |
 | 72 | [[Whisper]] | — | — | Multi-Modal Progressive Summarization | 842 |
 | 73 | [[Otter.ai]] | — | — | Multi-Modal Progressive Summarization | 842 |
 | 74 | [[Excalidraw]] | — | — | Multi-Modal Progressive Summarization | 857 |
@@ -1224,7 +1224,7 @@ for (let letter of sortedLetters) {
 | 144 | `#9E6CD3` | Technical (Deep Amethyst) — Technical terms, syntax | **Express:** | 809 |
 | 145 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Each layer creates anchors (highlights, summari... | 812 |
 | 146 | `#72FFF1` | Custom (#72FFF1) | Searching for "attention allocation" finds note... | 815 |
-| 147 | `#FF5700` | Reference (Reactor Orange) — Citations, external sources | Andy Matuschak's [[Evergreen Notes]] | 821 |
+| 147 | `#FF5700` | Reference (Reactor Orange) — Citations, external sources | Andy Matuschak's [[Evergreen-Notes|Evergreen Notes]] | 821 |
 | 148 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | **Atomic:** | 822 |
 | 149 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | **Concept-oriented:** | 823 |
 | 150 | `#72FFF1` | Custom (#72FFF1) | **Densely linked:** | 824 |
@@ -1364,7 +1364,7 @@ for (let letter of sortedLetters) {
 - [[Automation Strategies]]
 - [[Bidirectional Linking]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Chunking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and Instructional Design for PKM Systems]]
@@ -1376,7 +1376,7 @@ for (let letter of sortedLetters) {
 - [[Depth of Processing Theory]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elaborative Interrogation as Progressive Technique]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes|Evergreen Notes]]
 - [[Excalidraw]]
 - [[Extended Mind]]
 - [[Extraneous-Cognitive-Load|Extraneous Cognitive Load]]

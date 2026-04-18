@@ -100,7 +100,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Slow, deliberate, periodic. **Sentence-length profile:** Long-uniform (35–60 words mean). **Register:** Formal-academic, technically dense. **Voice:** Third-person impersonal. **Devices:** Periodic sentence structure, parenthetical qualification, hypotactic subordination, hedged precision. **Affect:** Neutral, scholarly. **Default move:** Definition-first with conditioning clauses.
 
-**Best paired with:** [[Foundational Report]], [[Annotated Critical Analysis]], [[First Principles Analysis]] — generators where epistemic precision matters more than accessibility.
+**Best paired with:** [[Foundational-Report]], [[Annotated Critical Analysis]], [[First Principles Analysis]] — generators where epistemic precision matters more than accessibility.
 
 > A schema, in its strictest cognitive-psychological formulation, denotes an organized representational structure that encodes regularities abstracted from prior experience and that subsequently constrains the encoding, retrieval, and inferential elaboration of incoming information. Bartlett's (1932) seminal demonstration — that English participants progressively distorted the Native American folktale "The War of the Ghosts" toward culturally familiar narrative conventions across successive recall trials — established empirically what subsequent neuroimaging and computational modeling would only later formalize: that memory is not a passive trace of perceptual input but a reconstructive process scaffolded by pre-existing knowledge architectures whose influence is, in the typical case, neither effortful nor available to introspective report. The theoretical commitments entailed by this view, though they remain contested at the margins, have proven sufficiently generative to organize five subsequent decades of empirical work.
 
@@ -111,7 +111,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Steady, conversational. **Sentence-length profile:** Medium-uniform (12–22 words). **Register:** Lucid-popular, technical when needed but never showy. **Voice:** Third-person with occasional second-person. **Devices:** Concrete examples woven inline, deliberate pivots, the occasional one-sentence punctuation paragraph. **Affect:** Warm, confident. **Default move:** Plain definition followed by a concrete instance.
 
-**Best paired with:** [[Practitioner's Field Guide]], [[Foundational Report]] when written for a non-specialist audience. The voice associated with Steven Pinker, Daniel Kahneman in trade-book mode, or *The New Yorker* science writing.
+**Best paired with:** [[Practitioner's Field Guide]], [[Foundational-Report]] when written for a non-specialist audience. The voice associated with Steven Pinker, Daniel Kahneman in trade-book mode, or *The New Yorker* science writing.
 
 > A schema is a mental shortcut. More precisely, it's a packet of organized knowledge that your mind has assembled from past experience and now uses to make sense of new situations. When you walk into a restaurant, you don't have to figure out what to do — your restaurant schema tells you to wait for a host, expect a menu, order, eat, pay. The remarkable thing isn't that we have schemas. It's that they operate so silently. They shape what we notice, what we remember, and what we infer, all before conscious thought has a chance to weigh in. This silence is what makes schemas powerful, and it's also what makes them dangerous. The mind that quietly fills in the missing pieces of a story is the same mind that quietly fills in the missing pieces of a face it thinks it has seen before.
 
@@ -177,7 +177,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Even, paced, citation-punctuated. **Sentence-length profile:** Medium-uniform (15–25 words). **Register:** Empirical-scholarly, with embedded citations. **Voice:** Third-person impersonal, frequent passive constructions. **Devices:** Hedged claims ("consistent with," "suggests," "has been associated with"), parenthetical citations, qualified attribution. **Affect:** Sober, measured. **Default move:** Empirical claim → citation → qualification.
 
-**Best paired with:** Empirical sections of [[Foundational Report]] and [[Annotated Critical Analysis]]. The voice of journal review articles.
+**Best paired with:** Empirical sections of [[Foundational-Report]] and [[Annotated Critical Analysis]]. The voice of journal review articles.
 
 > Schemas have been operationalized in the cognitive literature as organized knowledge structures that influence encoding and retrieval (Bartlett, 1932; Alba & Hasher, 1983). Consistent with this characterization, schema-congruent information is reliably recalled more accurately than schema-incongruent information under most conditions (Brewer & Treyens, 1981), though schema-incongruent items show enhanced recall when sufficient processing resources are available — an effect commonly attributed to elaborative encoding. The neural correlates of schema effects have been increasingly localized to medial prefrontal regions (van Kesteren et al., 2012), with several lines of evidence suggesting a consolidation-related interaction with the hippocampus. Methodological heterogeneity across studies, however, complicates direct comparison and warrants caution in generalizing effect sizes.
 
@@ -188,7 +188,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Integrative, abstracting, with frequent enumeration-into-unification moves. **Sentence-length profile:** Medium-to-long (20–35 words). **Register:** Abstract-theoretical. **Voice:** Third-person impersonal. **Devices:** Tricolon and longer enumeration, abstraction nouns, "what unites X is…" structure, structural analogy, framework-naming. **Affect:** Intellectually appetitive, pattern-hungry. **Default move:** List → unifying claim → consequence.
 
-**Best paired with:** Synthesis sections of any generator, [[Comparative Architecture]], and [[Historical-Genealogical]] when tracing convergent threads.
+**Best paired with:** Synthesis sections of any generator, [[Comparative-Architecture]], and [[Historical-Genealogical]] when tracing convergent threads.
 
 > What unites Bartlett's reconstructive memory, Piaget's developmental assimilation, Schank and Abelson's scripts, Minsky's frames, and Rosch's prototypes is a single architectural commitment: that cognition is organized around structured knowledge, and that this structure is the engine of both perception's economy and its distortion. Each tradition names it differently. Each characterizes its internal grammar with different formal commitments. But the underlying claim is shared, and it is consequential: the mind is not a recorder of its environment but a model of it, and the model is what does the work. Once this commitment is internalized, a remarkable amount of otherwise puzzling phenomena — eyewitness misidentification, expert blind spots, cross-cultural memory differences, the stubborn persistence of stereotypes against contradicting evidence — falls into a single explanatory frame.
 
@@ -366,7 +366,7 @@ A quick-reference cross-tab for which styles work cleanly with each of your nine
 >
 > **Lateral:** [[Cognitive Load Optimization in Prompt Design]], [[Rhetorical Devices Reference]], [[Voice and Register in Academic Writing]], [[Style Transfer in LLMs]]
 >
-> **Strengthened:** [[Prompt Engineering Specialist Agent v4.0]] (gains stylistic-control capability), the report-generator suite as a whole (gains a stylistic dimension previously absent)
+> **Strengthened:** [[Prompt-Engineering-Specialist-Agent-v4.0]] (gains stylistic-control capability), the report-generator suite as a whole (gains a stylistic dimension previously absent)
 
 ---
 

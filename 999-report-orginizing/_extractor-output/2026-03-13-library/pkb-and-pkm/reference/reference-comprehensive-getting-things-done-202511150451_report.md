@@ -995,7 +995,7 @@ extraction_summary:
 - [[Synthesis Note - Memory Safety Without Garbage Collection]]
 - [[Synthesis Note - When to Use Which Statistical Test]]
 - [[Systems Programming Best Practices MOC]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Task-Management|Task Management]]
 - [[Testing Effect vs Spacing Effect]]
 - [[Time Blocking Method]]
@@ -1168,7 +1168,7 @@ extraction_summary:
 | 147 | [[Natural Planning Model Deep Dive]] | — | — | 🔗 Related Topics for PKB Expansion | 3160 |
 | 148 | [[Project Management]] | — | — | 🔗 Related Topics for PKB Expansion | 3163 |
 | 149 | [[Creative Process]] | — | — | 🔗 Related Topics for PKB Expansion | 3163 |
-| 150 | [[Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 3163 |
+| 150 | [[Systems-Thinking|Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 3163 |
 | 151 | [[Mind Like Water Philosophy - Eastern Influences on Productivity]] | — | — | 🔗 Related Topics for PKB Expansion | 3165 |
 | 152 | [[GTD]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
 | 153 | [[philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 3168 |
@@ -2725,7 +2725,7 @@ graph TD
 - [[Synthesis Note - Memory Safety Without Garbage Collection]]
 - [[Synthesis Note - When to Use Which Statistical Test]]
 - [[Systems Programming Best Practices MOC]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Task-Management|Task Management]]
 - [[Testing Effect vs Spacing Effect]]
 - [[Time Blocking Method]]

@@ -410,7 +410,7 @@ extraction_summary:
 - [[cosmological redshift]]
 - [[dark matter density]]
 - [[geometry of spacetime]]
-- [[nucleosynthesis]]
+- [[Nucleosynthesis]]
 - [[plasma]]
 - [[primordial gravitational waves]]
 - [[quantum sensors]]
@@ -432,7 +432,7 @@ extraction_summary:
 | 8 | [[Lambda-CDM Model]] | — | — | Document Start | 39 |
 | 9 | [[Georges Lemaître]] | — | — | 2.0 🧭Historical Context & Foundationa... | 57 |
 | 10 | [[Richard C. Tolman]] | — | — | 2.0 🧭Historical Context & Foundationa... | 57 |
-| 11 | [[nucleosynthesis]] | — | — | 2.0 🧭Historical Context & Foundationa... | 59 |
+| 11 | [[Nucleosynthesis]] | — | — | 2.0 🧭Historical Context & Foundationa... | 59 |
 | 12 | [[George Gamow]] | — | — | 2.0 🧭Historical Context & Foundationa... | 59 |
 | 13 | [[Ralph Alpher]] | — | — | 2.0 🧭Historical Context & Foundationa... | 59 |
 | 14 | [[plasma]] | — | — | 2.0 🧭Historical Context & Foundationa... | 72 |
@@ -560,7 +560,7 @@ I'll research the Cosmic Microwave Background Radiation comprehensively to creat
 - [[cosmological redshift]]
 - [[dark matter density]]
 - [[geometry of spacetime]]
-- [[nucleosynthesis]]
+- [[Nucleosynthesis]]
 - [[plasma]]
 - [[primordial gravitational waves]]
 - [[quantum sensors]]

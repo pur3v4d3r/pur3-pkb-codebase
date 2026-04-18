@@ -550,7 +550,7 @@ extraction_summary:
 #### Prerequisites
 
 - [[Cognitive Development Theories]]
-- [[Philosophy of Education]]
+- [[Philosophy-of-Education|Philosophy of Education]]
 
 #### Related
 

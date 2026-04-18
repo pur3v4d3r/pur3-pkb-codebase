@@ -246,7 +246,7 @@ extraction_summary:
 - [[Warren Buffett]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[hiring decisions]]
 
 ### All Occurrences
@@ -261,7 +261,7 @@ extraction_summary:
 | 6 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 1.0 📜 Introduction | 83 |
 | 7 | [[Berkshire Hathaway]] | — | — | The Evolution of Mental Models as a C... | 97 |
 | 8 | [[Warren Buffett]] | — | — | The Evolution of Mental Models as a C... | 97 |
-| 9 | [[Zettelkasten Method]] | — | — | The Zettelkasten Tradition and Networ... | 110 |
+| 9 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | The Zettelkasten Tradition and Networ... | 110 |
 | 10 | [[Obsidian]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
 | 11 | [[Roam Research]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
 | 12 | [[Notion]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
@@ -441,7 +441,7 @@ Based on my research, I now have a deep understanding of the key concepts needed
 - [[Warren Buffett]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[hiring decisions]]
 
 ---

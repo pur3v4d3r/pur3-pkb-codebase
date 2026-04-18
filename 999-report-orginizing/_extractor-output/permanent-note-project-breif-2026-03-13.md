@@ -639,7 +639,7 @@ related:
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Argument-Analysis|Argument Analysis]]"
-  - "[[Decision Making Under Uncertainty]]"
+  - "[[Decision-Making-Under-Uncertainty|Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific-Reasoning|Scientific Reasoning]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
@@ -685,7 +685,7 @@ applied-in:
   - "[[Academic Research]]"
   - "[[Strategic-Planning|Strategic Planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based Practice]]"
+  - "[[Evidence-Based-Practice|Evidence-Based Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS

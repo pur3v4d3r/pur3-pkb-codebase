@@ -753,7 +753,7 @@ extraction_summary:
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Atomic-Notes|Atomic Notes]]
 - [[Elaboration Prompts]]
-- [[Note-Making vs Note-Taking]]
+- [[Note-Making-vs-Note-Taking]]
 - [[Articulatory-Construction-Principle|Articulatory Construction Principle]]
 - [[Cognitive-Event-Model|Cognitive Event Model]]
 

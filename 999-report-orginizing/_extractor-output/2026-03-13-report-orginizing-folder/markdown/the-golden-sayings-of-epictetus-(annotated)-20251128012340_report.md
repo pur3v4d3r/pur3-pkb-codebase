@@ -815,13 +815,13 @@ extraction_summary:
 
 > [!social-dynamics] Untitled
 > **Interest Alignment**
-> The heart of a bad man is faithless… now overpowered by one impression, now by another…. Ask not the usual questions, Were they born of the same parents… but ask this only, **in what they place their real interest—whether in outward things or in the [[Will]].**
+> The heart of a bad man is faithless… now overpowered by one impression, now by another…. Ask not the usual questions, Were they born of the same parents… but ask this only, **in what they place their real interest—whether in outward things or in the [[will]].**
 
 #### 92. [CORE-PRINCIPLE] Untitled *(Line 650)*
 
 > [!core-principle] Untitled
 > **Unassailable Agency**
-> No man can rob us of our [[Will]]—no man can lord it over that!
+> No man can rob us of our [[will]]—no man can lord it over that!
 
 #### 93. [MEDITATION] Untitled *(Line 656)*
 
@@ -1133,7 +1133,7 @@ extraction_summary:
 - [[God]]
 - [[Guardian Spirit]]
 - [[Prohairesis]]
-- [[Will]]
+- [[will]]
 
 ### All Occurrences
 
@@ -1144,10 +1144,10 @@ extraction_summary:
 | 3 | [[God]] | — | — | IX. Dual Citizenship (Earth & Heaven) | 125 |
 | 4 | [[God]] | — | — | XXXVI. The Cosmic Sympathy | 326 |
 | 5 | [[Guardian Spirit]] | — | — | XXXVII. The Guardian Within | 336 |
-| 6 | [[Will]] | — | — | XL. The Valuation of Status | 359 |
+| 6 | [[will]] | — | — | XL. The Valuation of Status | 359 |
 | 7 | [[God]] | — | — | LXXI. The Hercules Mindset | 572 |
-| 8 | [[Will]] | — | — | LXXXII. The Basis of Friendship | 646 |
-| 9 | [[Will]] | — | — | LXXXIII. The Sovereign Will | 652 |
+| 8 | [[will]] | — | — | LXXXII. The Basis of Friendship | 646 |
+| 9 | [[will]] | — | — | LXXXIII. The Sovereign Will | 652 |
 | 10 | [[God]] | — | — | CX. The Calling of the Cynic | 814 |
 | 11 | [[God]] | — | — | CXLIV. The Declaration of Independence | 869 |
 
@@ -1163,7 +1163,7 @@ extraction_summary:
 - [[God]]
 - [[Guardian Spirit]]
 - [[Prohairesis]]
-- [[Will]]
+- [[will]]
 
 ---
 

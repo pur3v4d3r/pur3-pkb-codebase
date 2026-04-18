@@ -221,7 +221,7 @@ This proposition explains phenomena such as [[Ego-Involvement]], where individua
 
 ## 🔬 The Empirical Foundation: Deci's Groundbreaking Studies
 
-The empirical story of CET begins with Edward Deci's ingenious experimental methodology. In 1971, Deci introduced the [[Free-Choice Paradigm]]—an experimental design that would become the gold standard for studying intrinsic motivation for decades. The paradigm's logic was elegant: if people are intrinsically motivated to perform an activity, they will choose to engage with it spontaneously when given free time and no external incentives to do so.
+The empirical story of CET begins with Edward Deci's ingenious experimental methodology. In 1971, Deci introduced the [[Free-Choice-Paradigm]]—an experimental design that would become the gold standard for studying intrinsic motivation for decades. The paradigm's logic was elegant: if people are intrinsically motivated to perform an activity, they will choose to engage with it spontaneously when given free time and no external incentives to do so.
 
 **The Original Soma Puzzle Experiment (1971)**
 

@@ -43,7 +43,7 @@ see-also:
   - "[[Prompty-Asset-Class]]"
   - "[[Smart-Connections]]"
   - "[[Text-Generator-Plugin]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -68,4 +68,4 @@ importance: low
 - [[Prompty-Asset-Class]]
 - [[Smart-Connections]]
 - [[Text-Generator-Plugin]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

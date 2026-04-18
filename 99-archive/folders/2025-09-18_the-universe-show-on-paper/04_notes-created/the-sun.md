@@ -21,13 +21,13 @@ status: evergreen
 
 ## 1) A Portrait of a Main-Sequence Star ☀️
 
-The [[Sun|Sun]] is the ordinary miracle at the center of our lives: a yellow-white [[Stellar classification|G-type]] [[Main sequence|main-sequence]] star that converts mass into light with disciplined regularity. “Main sequence” isn’t a marketing label; it’s a physical regime. Stars on this band of the Hertzsprung–Russell diagram are in hydrostatic and thermal equilibrium: gravity pulls inward, gas pressure and radiation push outward, and fusion in the core replenishes the energy radiated from the surface. The balance is stable and long-lived. That stability is why you and I have time to argue about coffee and climate.
+The [[Sun|Sun]] is the ordinary miracle at the center of our lives: a yellow-white [[Stellar classification|G-type]] [[Main-Sequence|main-sequence]] star that converts mass into light with disciplined regularity. “Main sequence” isn’t a marketing label; it’s a physical regime. Stars on this band of the Hertzsprung–Russell diagram are in hydrostatic and thermal equilibrium: gravity pulls inward, gas pressure and radiation push outward, and fusion in the core replenishes the energy radiated from the surface. The balance is stable and long-lived. That stability is why you and I have time to argue about coffee and climate.
 
 What distinguishes the Sun on the main sequence is the fuel and the thermostat. The fuel is hydrogen. The thermostat is quantum statistics and gas physics conspiring so that when the core gets squeezed, it heats up, fusion speeds up, and extra pressure pushes back; when it cools, fusion slows and gravity tightens the squeeze. The result is self-regulation over billions of years.
 
 A neat way to “see” the main-sequence idea is to think of a star as a power plant with feedback. Turn up the fusion rate and luminosity rises, but the core expands and cools, damping the reaction. Turn it down and gravity compresses the core, heating it until fusion ramps back up. That feedback keeps the Sun’s luminosity within a narrow range on human timescales. Over geologic time, though, the feedback traces a slow drift: the [[Sun|Sun]] brightens by roughly ten percent every billion years as helium “ash” accumulates, raising core temperature and reaction rates.
 
-There’s philosophy hiding here. A stable star isn’t static; it’s a river of processes that cancel, balance, and renew. The [[Main sequence|main-sequence]] stage is balance through flow—energy streaming outward, matter turning into light, magnetic fields tangling and relaxing—yet the whole remains serenely constant to our senses. That is the quiet genius of the Sun: dynamic stillness.
+There’s philosophy hiding here. A stable star isn’t static; it’s a river of processes that cancel, balance, and renew. The [[Main-Sequence|main-sequence]] stage is balance through flow—energy streaming outward, matter turning into light, magnetic fields tangling and relaxing—yet the whole remains serenely constant to our senses. That is the quiet genius of the Sun: dynamic stillness.
 
 This essay walks layer by layer from the core to the [[Corona|corona]], follows a photon’s long escape through the radiative and convective zones, visits the magnetic weather of cycles and [[Sunspot|sunspots]], rides the [[Solar wind|solar wind]] out to the [[Heliosphere|heliosphere]], retraces the Sun’s birth from a cold molecular cloud, and looks ahead to the star’s retirement plan. Along the way, the goal is not only to catalog facts but to understand the “why” behind the “what”: why fusion happens the way it does, why energy transport switches mechanisms, why the solar cycle flips, and why all of this matters for life and the long-term stability of the [[Solar System|Solar System]].
 
@@ -87,7 +87,7 @@ Other branches (pp-II, pp-III) involve steps through beryllium-7, lithium-7, and
 In stars more massive than the Sun, the [[CNO cycle|CNO cycle]] becomes the dominant hydrogen-burning mechanism, using carbon, nitrogen, and oxygen as catalysts to convert hydrogen to helium. In the Sun, CNO contributes a small fraction of the energy but a non-negligible fraction of the neutrino signature.
 
 **Why the Rate Is Self-Regulating:**  
-Fusion rates are extremely temperature-sensitive: a small change in core temperature produces a big change in reaction rate. If the core is compressed, temperature rises, reactions speed up, pressure rises, and the core expands—cooling the core and dialing reactions back. That thermostat effect keeps the star on the [[Main sequence|main sequence]]. Over eons, helium build-up changes the core’s equation of state and opacity enough to raise the equilibrium temperature, which is why the Sun’s luminosity climbs slowly with age.
+Fusion rates are extremely temperature-sensitive: a small change in core temperature produces a big change in reaction rate. If the core is compressed, temperature rises, reactions speed up, pressure rises, and the core expands—cooling the core and dialing reactions back. That thermostat effect keeps the star on the [[Main-Sequence|main sequence]]. Over eons, helium build-up changes the core’s equation of state and opacity enough to raise the equilibrium temperature, which is why the Sun’s luminosity climbs slowly with age.
 
 **Neutrinos as Messengers:**  
 Neutrinos escape from the core essentially unimpeded, arriving at Earth minutes after creation. They carry present-tense information about the core, unlike photons that took a diffusion-aged eternity to reach the surface. The resolution of the historic “solar neutrino problem” relied on neutrino oscillations—flavor changes en route—which showed that the Sun’s core behaves as theory predicts.
@@ -170,7 +170,7 @@ Roll the tape back 4.6 billion years. The Sun’s story begins in a cold, dense 
 As gas piles in, the protostar heats via gravitational contraction (Kelvin–Helmholtz mechanism). Opacity is high, so energy leaks slowly. Magnetic fields thread the disk and star, launching bipolar jets that carry away angular momentum and shape the environment. Dust in the disk coagulates into pebbles, planetesimals, and then protoplanets via collisions and streaming instabilities.
 
 **Ignition of the Main Sequence:**  
-When the central temperature reaches ~10 million K and density follows suit, the [[Proton–proton chain reaction|pp chain]] lights. Fusion pressure rises, contraction halts, and the newborn Sun settles onto the [[Main sequence|main sequence]]. By then, the protoplanetary disk has already seeded the architecture of the [[Solar System|Solar System]]: rocky worlds inside, gas giants outside, icy leftovers farther still.
+When the central temperature reaches ~10 million K and density follows suit, the [[Proton–proton chain reaction|pp chain]] lights. Fusion pressure rises, contraction halts, and the newborn Sun settles onto the [[Main-Sequence|main sequence]]. By then, the protoplanetary disk has already seeded the architecture of the [[Solar System|Solar System]]: rocky worlds inside, gas giants outside, icy leftovers farther still.
 
 **Why Our Sun Is Calm:**  
 The Sun’s mass—about one solar mass by definition—is a sweet spot. Less massive stars (K and M dwarfs) live far longer but can be more magnetically rowdy in youth. More massive stars burn hot and die young, disrupting surroundings. A one-solar-mass star, forming in a relatively quiescent neighborhood, offered a long, steady energy supply and less frequent catastrophic outbursts once its youthful tantrums subsided. That calm has been an environmental subsidy for life.
@@ -184,7 +184,7 @@ The main-sequence switch wasn’t a bang; it was a handoff. Gravity built the st
 
 ## 8) How Long It Lasts: Age, Main-Sequence Expectancy, and the Brightening Sun ⏳
 
-The Sun is about 4.6 billion years old, inferred from radiometric dating of the oldest meteorites and supported by solar models tuned to helioseismology and present luminosity. On the [[Main sequence|main sequence]], a one-solar-mass star’s tenure is roughly 10–11 billion years, set by how fast it can convert core hydrogen to helium at the needed luminosity. That places the Sun in late midlife—past youthful vigor, far from retirement.
+The Sun is about 4.6 billion years old, inferred from radiometric dating of the oldest meteorites and supported by solar models tuned to helioseismology and present luminosity. On the [[Main-Sequence|main sequence]], a one-solar-mass star’s tenure is roughly 10–11 billion years, set by how fast it can convert core hydrogen to helium at the needed luminosity. That places the Sun in late midlife—past youthful vigor, far from retirement.
 
 **Why It Brightens:**  
 As helium builds up in the core, the mean molecular weight rises. For pressure to balance gravity, the core temperature must increase. Higher temperature accelerates fusion, so luminosity climbs. The “faint young Sun paradox” arises because Earth shows liquid water evidence billions of years ago despite a dimmer Sun; greenhouse gases and different albedo likely compensated.
@@ -240,7 +240,7 @@ The Sun is thus a paradoxical guardian. It’s wild enough to be interesting, st
 - Radiative diffusion and convective overturn carry energy to the surface, imprinting the Sun’s granulated face and partnering with rotation to forge the dynamo.  
 - The solar cycle braids magnetism into weather, from [[Sunspot|sunspots]] to [[Coronal mass ejection|CMEs]], tying the Sun to technology and climate at Earth’s edge.  
 - The [[Solar wind|solar wind]] and [[Heliosphere|heliosphere]] expand the Sun’s presence far beyond the visible disk, shaping planetary atmospheres and shielding the inner system from some interstellar hazards.  
-- A serene origin in a protostellar cloud and a long [[Main sequence|main-sequence]] life made complex life possible here.  
+- A serene origin in a protostellar cloud and a long [[Main-Sequence|main-sequence]] life made complex life possible here.  
 - The end will be luminous but gentle by cosmic standards: a red giant’s bloom, a planetary nebula’s sigh, and a white dwarf’s ember.
 
 Understanding the Sun is understanding the enabling conditions of our existence—and the timelines that come with them.
@@ -251,8 +251,8 @@ Understanding the Sun is understanding the enabling conditions of our existence�
 
 | Date (approx.) | Event | Note |
 |---|---|---|
-| ~4.6 Ga | Collapse of molecular cloud core | Protostar + disk form; Sun begins as a contracting object. [[Molecular cloud|Molecular cloud]], [[Protostar|protostar]] |
-| ~4.57 Ga | Ignition of hydrogen fusion | Sun settles on the [[Main sequence|main sequence]]; disk evolves into planets. |
+| ~4.6 Ga | Collapse of molecular cloud core | Protostar + disk form; Sun begins as a contracting object. [[Molecular-Cloud|Molecular cloud]], [[Protostar|protostar]] |
+| ~4.57 Ga | Ignition of hydrogen fusion | Sun settles on the [[Main-Sequence|main sequence]]; disk evolves into planets. |
 | 3.8–3.5 Ga | Early liquid water on Earth | Despite a fainter Sun; “faint young Sun paradox.” [[Earth|Earth]], [[Greenhouse effect|greenhouse effect]] |
 | 1610 CE | Telescopic sunspot observations | [[Galileo Galilei|Galileo]] documents [[Sunspot|sunspots]], undermining idea of celestial perfection. |
 | 1905–1920s | Radiation pressure & fusion ideas mature | [[Albert Einstein|Einstein]]’s \(E=mc^2\); [[Arthur Eddington|Eddington]] argues stars shine by fusion. |

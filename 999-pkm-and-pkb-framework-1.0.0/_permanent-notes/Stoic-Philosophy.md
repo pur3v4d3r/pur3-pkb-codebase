@@ -76,4 +76,4 @@ importance: medium
 - [[Maturity-Level-Definitions-&-Criteria]]
 - [[The-Bias-Virtue-Correspondence]]
 - [[Virtue-Epistemology]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

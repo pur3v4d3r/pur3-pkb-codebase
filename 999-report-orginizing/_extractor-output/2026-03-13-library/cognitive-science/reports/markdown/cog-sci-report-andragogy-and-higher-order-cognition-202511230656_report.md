@@ -154,7 +154,7 @@ extraction_summary:
 > 
 > **Principle 1: The Accumulation of Experience.** Adults enter the learning environment with a vast, idiosyncratic schema of life experiences. In andragogy, this experience is not merely a backdrop but the defining variable of the learner's identity. Therefore, for Higher-Order Cognition to occur, new concepts must be integrated into this pre-existing lattice. Learning is the transformation of experience, and critical thinking is the mechanism by which experience is audited for validity.
 > 
-> **Principle 2: Orientation to Learning.** Adults possess a problem-centered orientation rather than a subject-centered one. They are motivated to learn to the extent that they perceive that learning will help them perform tasks or deal with problems that they confront in their life situations. This implies that [[Divergent Thinking]]—the ability to generate multiple creative solutions—is triggered most effectively by authentic, contextual challenges rather than abstract theoretical postulates.
+> **Principle 2: Orientation to Learning.** Adults possess a problem-centered orientation rather than a subject-centered one. They are motivated to learn to the extent that they perceive that learning will help them perform tasks or deal with problems that they confront in their life situations. This implies that [[Divergent-Thinking|Divergent Thinking]]—the ability to generate multiple creative solutions—is triggered most effectively by authentic, contextual challenges rather than abstract theoretical postulates.
 
 #### 6. [QUESTION] Untitled *(Line 86)*
 
@@ -171,7 +171,7 @@ extraction_summary:
 > 
 > > [!analogy]
 > > **The Forest Path:**
-> > Viewing memory through the lens of a forest, a child's brain is a meadow of saplings—paths can be cut anywhere with ease. The adult brain is an old-growth forest with deeply rutted, paved roads (crystallized intelligence). To engage in [[Divergent Thinking]] is not merely to walk a new path, but to take a machete to the underbrush and ignore the paved highway. This requires significantly more energy and motivation, validating Knowles' assumption that adults must know *why* they need to learn something before undertaking the effort.
+> > Viewing memory through the lens of a forest, a child's brain is a meadow of saplings—paths can be cut anywhere with ease. The adult brain is an old-growth forest with deeply rutted, paved roads (crystallized intelligence). To engage in [[Divergent-Thinking|Divergent Thinking]] is not merely to walk a new path, but to take a machete to the underbrush and ignore the paved highway. This requires significantly more energy and motivation, validating Knowles' assumption that adults must know *why* they need to learn something before undertaking the effort.
 > 
 > > [!key-claim]
 > > **Neuro-Andragogical Imperative:** Andragogy is not just a preferred teaching style; it is a mechanism for overcoming the inertia of [[Synaptic Homeostasis]]. Without the intrinsic motivation and problem-orientation utilized in andragogy, the adult brain lacks the neurochemical impetus (dopamine and norepinephrine release) required to induce plasticity in established cortical maps.
@@ -333,7 +333,7 @@ extraction_summary:
 - [[Constructivist Epistemology]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Crystallized Intelligence]]
-- [[Divergent Thinking]]
+- [[Divergent-Thinking|Divergent Thinking]]
 - [[Epistemic Homeostasis]]
 - [[Hebbian Learning]]
 - [[Higher-Order Cognition]]
@@ -357,16 +357,16 @@ extraction_summary:
 | 3 | [[Malcolm-Knowles|Malcolm Knowles]] | — | — | 1.1. Baseline Definition | 60 |
 | 4 | [[Bloom’s Taxonomy]] | — | — | 1.1. Baseline Definition | 60 |
 | 5 | [[Critical-Thinking|Critical Thinking]] | — | — | 1.1. Baseline Definition | 62 |
-| 6 | [[Divergent Thinking]] | — | — | 1.2. Foundational Principles | 71 |
+| 6 | [[Divergent-Thinking|Divergent Thinking]] | — | — | 1.2. Foundational Principles | 71 |
 | 7 | [[Metacognition]] | — | — | 1.2. Foundational Principles | 73 |
 | 8 | [[Neuroplasticity]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 82 |
 | 9 | [[Crystallized Intelligence]] | — | — | 2.1. A New Lens: Neuroscience's Persp... | 88 |
 | 10 | [[Critical-Thinking|Critical Thinking]] | — | — | 2.1. A New Lens: Neuroscience's Persp... | 90 |
 | 11 | [[Hebbian Learning]] | — | — | 2.1. A New Lens: Neuroscience's Persp... | 92 |
-| 12 | [[Divergent Thinking]] | — | — | 2.2. Emergent Insights & Connections | 103 |
+| 12 | [[Divergent-Thinking|Divergent Thinking]] | — | — | 2.2. Emergent Insights & Connections | 103 |
 | 13 | [[Synaptic Homeostasis]] | — | — | 2.2. Emergent Insights & Connections | 106 |
 | 14 | [[Higher-Order Cognition]] | — | — | 3.1. A New Lens: Complexity Science's... | 128 |
-| 15 | [[Divergent Thinking]] | — | — | 3.1. A New Lens: Complexity Science's... | 128 |
+| 15 | [[Divergent-Thinking|Divergent Thinking]] | — | — | 3.1. A New Lens: Complexity Science's... | 128 |
 | 16 | [[Adjacent Possible]] | — | — | 3.2. Emergent Insights & Connections | 142 |
 | 17 | [[Higher-Order Cognition]] | — | — | 4.1. A New Lens: Epistemology's Persp... | 164 |
 | 18 | [[Jack Mezirow]] | — | — | 4.1. A New Lens: Epistemology's Persp... | 166 |
@@ -471,7 +471,7 @@ $$
 - [[Constructivist Epistemology]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Crystallized Intelligence]]
-- [[Divergent Thinking]]
+- [[Divergent-Thinking|Divergent Thinking]]
 - [[Epistemic Homeostasis]]
 - [[Hebbian Learning]]
 - [[Higher-Order Cognition]]

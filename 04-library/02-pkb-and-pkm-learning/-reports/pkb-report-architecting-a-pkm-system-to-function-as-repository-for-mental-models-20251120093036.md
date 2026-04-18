@@ -322,7 +322,7 @@ What does a functioning "foundry" look like? How do you know it's working? It ma
 
 > [!connection-ideas]
 >
-> The principles of the "foundry" are a direct application of [[Systems Thinking]]. The system we've designed is a **cybernetic loop**—a system that uses *feedback* to *steer* itself.
+> The principles of the "foundry" are a direct application of [[Systems-Thinking]]. The system we've designed is a **cybernetic loop**—a system that uses *feedback* to *steer* itself.
 >
 >   - **The System:** Your "Latticework of Mental Models."
 >   - **The Goal:** Make better decisions.
@@ -388,7 +388,7 @@ Based on current trends in PKM and AI, the "foundry" concept is at the bleeding 
 >   - **What was the most surprising or counter-intuitive concept presented? Why?**
 >       - Your Answer Goes Here: "The most counter-intuitive idea is that *friction* can be a *good* thing (`Counter-Argument` section). The "Decision Journal" adds friction; it makes a decision *slower*. My instinct is to make things fast and easy. But the article argues this 'friction' *is* the thinking. By *forcing* me to slow down and write out the models I'm using, the system is forcing me to be more deliberate. The friction *is* the value."
 >   - **What pre-existing knowledge did this article connect with or challenge for me?**
->       - Your Answer Goes Here: "This article directly connects with my understanding of `[[Systems Thinking]]` and feedback loops (`Connection-Ideas` section). I've always seen my notes as a *static* resource. This re-frames my *entire PKM* as a dynamic system, with inputs (reading), processing (casting notes), outputs (decisions), and a *feedback loop* (retrospectives). It challenged my "filing cabinet" mental model and replaced it with a "cybernetic" one."
+>       - Your Answer Goes Here: "This article directly connects with my understanding of `[[Systems-Thinking]]` and feedback loops (`Connection-Ideas` section). I've always seen my notes as a *static* resource. This re-frames my *entire PKM* as a dynamic system, with inputs (reading), processing (casting notes), outputs (decisions), and a *feedback loop* (retrospectives). It challenged my "filing cabinet" mental model and replaced it with a "cybernetic" one."
 
 > [!quote]
 >

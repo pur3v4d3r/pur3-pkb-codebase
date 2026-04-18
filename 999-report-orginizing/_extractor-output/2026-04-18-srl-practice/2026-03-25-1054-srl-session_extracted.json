@@ -1,0 +1,2133 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:35.111563",
+    "source_file": "2026-03-25-1054-srl-session.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\srl-practice\\srl-sessions\\2026-03-25-1054-srl-session.md",
+    "source_file_size_bytes": 21729,
+    "processing_time_seconds": 0.008
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "type": "srl-reading-session",
+      "session-id": "2026-03-25-1054-srl-session",
+      "date": "2026-03-25",
+      "time-started": 654,
+      "text-title": "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+      "text-type": "dialectical",
+      "schema-level": "moderate",
+      "forethought-completed": false,
+      "outcome-goal": "",
+      "process-goals-count": 0,
+      "self-efficacy-pre": 0,
+      "confidence-calibration": "",
+      "reflection-completed": false,
+      "comprehension-level": "Substantial — mostly met criterion",
+      "process-integrity-rating": 0,
+      "self-efficacy-post": 0,
+      "attribution-type": "",
+      "attribution-controllable": false,
+      "adaptive-inference": "",
+      "defensive-inference-detected": false,
+      "prediction-accuracy": "",
+      "calibration-delta": 0,
+      "new-notes-created": 0,
+      "connections-established": 0,
+      "learning-agenda-updated": false,
+      "tags": [
+        "srl-session",
+        "forethought-phase",
+        "self-reflection-phase",
+        "dialectical",
+        "schema-moderate",
+        "reading-session"
+      ],
+      "status": "active",
+      "linked-learning-agenda": "[[SRL-Living-Learning-Agenda]]",
+      "linked-calibration-log": "[[SRL-Calibration-Log]]"
+    },
+    "word_count": 2786,
+    "character_count": 20032,
+    "line_count": 471,
+    "heading_count": 36
+  },
+  "extraction_summary": {
+    "total_items_extracted": 186,
+    "by_type": {
+      "headings": 36,
+      "callouts": 19,
+      "wiki_links": 79,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 3,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 49,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "📖 SRL Reading Session: srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+      "anchor": "srl-reading-session-srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+      "line_number": 39,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 48,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "PHASE 1: FORETHOUGHT (Complete Before Reading)",
+      "anchor": "phase-1-forethought-complete-before-reading",
+      "line_number": 49,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 50,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🔍 Zone 1: Prior Knowledge Activation",
+          "anchor": "zone-1-prior-knowledge-activation",
+          "line_number": 57,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📋 Zone 2: Task Characterization",
+          "anchor": "zone-2-task-characterization",
+          "line_number": 81,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎯 Zone 3: Goal Setting — Three-Part Structure",
+          "anchor": "zone-3-goal-setting-three-part-structure",
+          "line_number": 95,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Learning Outcome Goal *(mastery-framed, specific, proximal)*",
+              "anchor": "learning-outcome-goal-mastery-framed-specific-proximal",
+              "line_number": 100,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Process Goals *(behavioral, under my direct control)*",
+              "anchor": "process-goals-behavioral-under-my-direct-control",
+              "line_number": 119,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Stopping Rule",
+              "anchor": "stopping-rule",
+              "line_number": 128,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "💪 Zone 4: Self-Efficacy Calibration",
+          "anchor": "zone-4-self-efficacy-calibration",
+          "line_number": 134,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "✨ Zone 5: Motivational Priming",
+          "anchor": "zone-5-motivational-priming",
+          "line_number": 154,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 176,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "PHASE 2: SELF-REFLECTION (Complete After Reading)",
+      "anchor": "phase-2-self-reflection-complete-after-reading",
+      "line_number": 177,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 178,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*",
+          "anchor": "zone-1-cold-reconstruction-retrieval-based-comprehension-test",
+          "line_number": 188,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Generativity Tests *(Calibration instruments — go beyond recognition)*",
+              "anchor": "generativity-tests-calibration-instruments-go-beyond-recognition",
+              "line_number": 214,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "✅ Zone 2: Process Goal Audit",
+          "anchor": "zone-2-process-goal-audit",
+          "line_number": 246,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔬 Zone 3: Causal Attribution Analysis",
+          "anchor": "zone-3-causal-attribution-analysis",
+          "line_number": 263,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Attribution Analysis — For Each Comprehension Gap:",
+              "anchor": "attribution-analysis-for-each-comprehension-gap",
+              "line_number": 270,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚡ Zone 4: Self-Reaction — Adaptive Inference Generation",
+          "anchor": "zone-4-self-reaction-adaptive-inference-generation",
+          "line_number": 302,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Affect Acknowledgment",
+              "anchor": "affect-acknowledgment",
+              "line_number": 307,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "What Worked — Sustain These",
+              "anchor": "what-worked-sustain-these",
+              "line_number": 311,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Strategy Revisions for Next Session",
+              "anchor": "strategy-revisions-for-next-session",
+              "line_number": 315,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Goal Adjustments",
+              "anchor": "goal-adjustments",
+              "line_number": 320,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Defensive Inference Check",
+              "anchor": "defensive-inference-check",
+              "line_number": 328,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Zone 5: PKB Integration & Forward Planning",
+          "anchor": "zone-5-pkb-integration-forward-planning",
+          "line_number": 338,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "New Permanent Notes to Create/Update",
+              "anchor": "new-permanent-notes-to-createupdate",
+              "line_number": 340,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "New Connections Established",
+              "anchor": "new-connections-established",
+              "line_number": 344,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Flagged Gaps for Follow-Up",
+              "anchor": "flagged-gaps-for-follow-up",
+              "line_number": 347,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Carry-Forward to [[SRL-Living-Learning-Agenda]]",
+              "anchor": "carry-forward-to-srl-living-learning-agenda",
+              "line_number": 350,
+              "source": "2026-03-25-1054-srl-session.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🤝 Zone 6: Handoff to Next Forethought Phase",
+          "anchor": "zone-6-handoff-to-next-forethought-phase",
+          "line_number": 357,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "💬 Mastery Reflection *(Close the emotional loop)*",
+          "anchor": "mastery-reflection-close-the-emotional-loop",
+          "line_number": 372,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Notes from Reading Session",
+      "anchor": "notes-from-reading-session",
+      "line_number": 401,
+      "source": "2026-03-25-1054-srl-session.md",
+      "children": [
+        {
+          "level": 4,
+          "text": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+          "anchor": "subsystem-1a-goal-setting-in-the-forethought-phase",
+          "line_number": 430,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        },
+        {
+          "level": 4,
+          "text": "Subsystem 1b: Strategic Planning in the Forethought Phase",
+          "anchor": "subsystem-1b-strategic-planning-in-the-forethought-phase",
+          "line_number": 449,
+          "source": "2026-03-25-1054-srl-session.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "info",
+        "title": "Session Info",
+        "body": "**Date:** 2026-03-25 | **Session ID:** `2026-03-25-1054-srl-session`\n**Text Type:** dialectical | **Schema Level:** moderate\n**Linked:** [[SRL-Living-Learning-Agenda]] | [[SRL-Calibration-Log]]",
+        "line_number": 41,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 1059,
+        "char_end": 1282
+      },
+      {
+        "type": "important",
+        "title": "Complete this entire section BEFORE you begin reading.",
+        "body": "Time investment: 5–10 minutes. This is not optional overhead — it is the structural mechanism that makes the reading session productive. See [[Zimmerman's-Cyclical-SRL-Model]] and [[Forethought-Phase]].",
+        "line_number": 52,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 1494,
+        "char_end": 1769
+      },
+      {
+        "type": "tip",
+        "title": "Purpose",
+        "body": "Activate relevant [[Prior-Knowledge-Activation|prior knowledge]] and existing schema before encountering new material. This reduces [[Cognitive-Load-Theory|cognitive load]] and creates explicit baselines for later calibration. See [[Advance-Organizers]].",
+        "line_number": 59,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 1816,
+        "char_end": 2090
+      },
+      {
+        "type": "tip",
+        "title": "Purpose",
+        "body": "Accurately assess what this reading task demands so that goal-setting and strategy selection are appropriately calibrated. See [[Strategic-Planning]].",
+        "line_number": 83,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 3535,
+        "char_end": 3705
+      },
+      {
+        "type": "tip",
+        "title": "Purpose",
+        "body": "Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[Intrinsic-Motivation]]. See [[Achievement-Goal-Theory]] and [[Goal-Setting-Theory]].",
+        "line_number": 97,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 4054,
+        "char_end": 4307
+      },
+      {
+        "type": "warning",
+        "title": "Process goals are what you actually DO, not what you hope to understand. They should be specific enough that you can definitively say Yes or No to whether you executed them. See [[Deliberate-Practice]].",
+        "body": "",
+        "line_number": 121,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 5503,
+        "char_end": 5719
+      },
+      {
+        "type": "tip",
+        "title": "Purpose",
+        "body": "Generate an *accurately calibrated* confidence estimate — not high confidence, but honest confidence. The target is [[Metacognitive-Calibration|calibration]], not elevation. See [[Self-Efficacy]] and [[The-Fluency-Illusion]].",
+        "line_number": 136,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 6455,
+        "char_end": 6700
+      },
+      {
+        "type": "tip",
+        "title": "Purpose",
+        "body": "Activate [[Self-Determination-Theory|autonomous motivation]] by connecting to genuine interest and [[Autonomy-Support|autonomy-supportive]] framing. See [[Intrinsic-Motivation]].",
+        "line_number": 156,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 7480,
+        "char_end": 7678
+      },
+      {
+        "type": "success",
+        "title": "Forethought Phase Complete",
+        "body": "You are now ready to begin reading. Open the text and execute your process goals.\n**Remember:** Flag confusion rather than explaining it away. That data is the raw material for Self-Reflection.",
+        "line_number": 170,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 8086,
+        "char_end": 8324
+      },
+      {
+        "type": "important",
+        "title": "Complete within 30 minutes of finishing the reading session.",
+        "body": "Time investment: 10–15 minutes. This is the generative engine of the SRL cycle — where [[Adaptive-Inference|adaptive inferences]] are produced that improve the next session. See [[Self-Reflection-Phase]].",
+        "line_number": 180,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 8539,
+        "char_end": 8822
+      },
+      {
+        "type": "warning",
+        "title": "Do NOT consult any notes or the text for this zone.",
+        "body": "Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[The-Fluency-Illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[Retrieval-Practice]] and [[Testing-Effect-Retrieval-Practice-Effect]].",
+        "line_number": 190,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 8962,
+        "char_end": 9281
+      },
+      {
+        "type": "tip",
+        "title": "Purpose",
+        "body": "Evaluate each process goal against behavioral evidence, not impressions. This is [[Formative-Assessment|formative self-assessment]] — descriptive, not evaluative. See [[Self-Evaluation]].",
+        "line_number": 248,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 12881,
+        "char_end": 13088
+      },
+      {
+        "type": "warning",
+        "title": "CRITICAL ZONE — This is the hinge on which the entire cycle turns.",
+        "body": "The attribution you generate here determines whether the next session improves or stagnates. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "line_number": 265,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 13478,
+        "char_end": 13733
+      },
+      {
+        "type": "important",
+        "title": "Before generating ANY global conclusion about your ability or the text's difficulty, complete the strategy-level search below.",
+        "body": "",
+        "line_number": 268,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 13734,
+        "char_end": 13876
+      },
+      {
+        "type": "danger",
+        "title": "Attribution Safety Check",
+        "body": "If your natural attribution is \"this material is too difficult for me\" or \"I'm not good at this type of content\" — these are global, stable, internal attributions. Before accepting them, you MUST list at least two specific strategy-level explanations you could test in the next session. See [[Mastery-Oriented-Response-Pattern]] and [[Growth-Mindset]].",
+        "line_number": 297,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 14825,
+        "char_end": 15217
+      },
+      {
+        "type": "tip",
+        "title": "Purpose",
+        "body": "Generate specific, actionable strategy adjustments that feed directly into the next Forethought Phase. This is where the cycle closes. See [[Adaptive-Inference]] and [[Defensive-Inference]].",
+        "line_number": 304,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 15283,
+        "char_end": 15493
+      },
+      {
+        "type": "success",
+        "title": "THE HANDOFF MECHANISM",
+        "body": "This is the physical link that ensures the SRL cycle actually closes. Copy this content to the Handoff field of your next session's Forethought Protocol, and update your [[SRL-Living-Learning-Agenda]].",
+        "line_number": 359,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 17001,
+        "char_end": 17240
+      },
+      {
+        "type": "quote",
+        "title": "Use mastery grammar to close productively. See [[Achievement-Goal-Theory]].",
+        "body": "",
+        "line_number": 374,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 17636,
+        "char_end": 17723
+      },
+      {
+        "type": "success",
+        "title": "Session Complete",
+        "body": "**Next Steps:**\n1. Update [[SRL-Calibration-Log]] with this session's metrics\n2. Update [[SRL-Living-Learning-Agenda]] with carry-forward items\n3. Create any permanent notes flagged in Zone 5\n4. Schedule next reading session",
+        "line_number": 387,
+        "source": "2026-03-25-1054-srl-session.md",
+        "char_start": 18178,
+        "char_end": 18443
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 44,
+        "section": "📖 SRL Reading Session: srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+        "context_line": "> **Linked:** [[SRL-Living-Learning-Agenda]] | [[SRL-Calibration-Log]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 44,
+        "section": "📖 SRL Reading Session: srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+        "context_line": "> **Linked:** [[SRL-Living-Learning-Agenda]] | [[SRL-Calibration-Log]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model]]",
+        "line_number": 53,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "> Time investment: 5–10 minutes. This is not optional overhead — it is the structural mechanism that makes the reading session productive. See [[Zimmerman's-Cyclical-SRL-Model]] and [[Forethought-Phase]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 53,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "> Time investment: 5–10 minutes. This is not optional overhead — it is the structural mechanism that makes the reading session productive. See [[Zimmerman's-Cyclical-SRL-Model]] and [[Forethought-Phase]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": "prior knowledge",
+        "full_match": "[[Prior-Knowledge-Activation|prior knowledge]]",
+        "line_number": 60,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "> Activate relevant [[Prior-Knowledge-Activation|prior knowledge]] and existing schema before encountering new material. This reduces [[Cognitive-Load-Theory|cognitive load]] and creates explicit baselines for later calibration. See [[Advance-Organizers]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory",
+        "heading": null,
+        "display_text": "cognitive load",
+        "full_match": "[[Cognitive-Load-Theory|cognitive load]]",
+        "line_number": 60,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "> Activate relevant [[Prior-Knowledge-Activation|prior knowledge]] and existing schema before encountering new material. This reduces [[Cognitive-Load-Theory|cognitive load]] and creates explicit baselines for later calibration. See [[Advance-Organizers]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Advance-Organizers",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advance-Organizers]]",
+        "line_number": 60,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "> Activate relevant [[Prior-Knowledge-Activation|prior knowledge]] and existing schema before encountering new material. This reduces [[Cognitive-Load-Theory|cognitive load]] and creates explicit baselines for later calibration. See [[Advance-Organizers]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Regulated-Learning-SRL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning-SRL]]",
+        "line_number": 63,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- [[Self-Regulated-Learning-SRL]] —",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 64,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- [[Attribution-Theory]] —",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": "Achievement Goal Theory",
+        "full_match": "[[Achievement-Goal-Theory|Achievement Goal Theory]]",
+        "line_number": 65,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- [[Achievement-Goal-Theory|Achievement Goal Theory]] —",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Regulated-Learning-SRL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning-SRL]]",
+        "line_number": 68,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- Gap 1: Specific sub-processes of [[Self-Regulated-Learning-SRL]], I know about Task Analysis, Motivational Aspects, but not the others. Im interested in developing this futher into the sub processes I dont yet recall.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 69,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- Gap 2: I would like to develop further understanding of how [[Attribution-Theory]] vocabulary can affect [[Self-Efficacy]], and [[Achievement-Goal-Theory|setting attainable goals]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 69,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- Gap 2: I would like to develop further understanding of how [[Attribution-Theory]] vocabulary can affect [[Self-Efficacy]], and [[Achievement-Goal-Theory|setting attainable goals]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": "setting attainable goals",
+        "full_match": "[[Achievement-Goal-Theory|setting attainable goals]]",
+        "line_number": 69,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- Gap 2: I would like to develop further understanding of how [[Attribution-Theory]] vocabulary can affect [[Self-Efficacy]], and [[Achievement-Goal-Theory|setting attainable goals]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": "Forethought Phase",
+        "full_match": "[[Forethought-Phase|Forethought Phase]]",
+        "line_number": 72,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- I predict this text will extend & challenge [[Forethought-Phase|Forethought Phase]] & [[Self-Reflection-Phase|Self-Reflection Phase]] because I have specifically engineered the topic of this report to help me better understand the relationships between these two phases, speciffically how to close the [[Self-Reflection-Phase|Self-Reflection Phase]] and lead into the next [[Forethought-Phase|Forethought Phase]] then improving the cycle.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": "Self-Reflection Phase",
+        "full_match": "[[Self-Reflection-Phase|Self-Reflection Phase]]",
+        "line_number": 72,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- I predict this text will extend & challenge [[Forethought-Phase|Forethought Phase]] & [[Self-Reflection-Phase|Self-Reflection Phase]] because I have specifically engineered the topic of this report to help me better understand the relationships between these two phases, speciffically how to close the [[Self-Reflection-Phase|Self-Reflection Phase]] and lead into the next [[Forethought-Phase|Forethought Phase]] then improving the cycle.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": "Self-Reflection Phase",
+        "full_match": "[[Self-Reflection-Phase|Self-Reflection Phase]]",
+        "line_number": 72,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- I predict this text will extend & challenge [[Forethought-Phase|Forethought Phase]] & [[Self-Reflection-Phase|Self-Reflection Phase]] because I have specifically engineered the topic of this report to help me better understand the relationships between these two phases, speciffically how to close the [[Self-Reflection-Phase|Self-Reflection Phase]] and lead into the next [[Forethought-Phase|Forethought Phase]] then improving the cycle.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": "Forethought Phase",
+        "full_match": "[[Forethought-Phase|Forethought Phase]]",
+        "line_number": 72,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- I predict this text will extend & challenge [[Forethought-Phase|Forethought Phase]] & [[Self-Reflection-Phase|Self-Reflection Phase]] because I have specifically engineered the topic of this report to help me better understand the relationships between these two phases, speciffically how to close the [[Self-Reflection-Phase|Self-Reflection Phase]] and lead into the next [[Forethought-Phase|Forethought Phase]] then improving the cycle.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 73,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- I expect tension with [[Attribution-Theory]] around the issue of developing the proper vocabulary to puposefully build [[Self-Efficacy]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 73,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "- I expect tension with [[Attribution-Theory]] around the issue of developing the proper vocabulary to puposefully build [[Self-Efficacy]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 76,
+        "section": "🔍 Zone 1: Prior Knowledge Activation",
+        "context_line": "*(Copy from last session's Self-Reflection adaptive inference, or from [[SRL-Living-Learning-Agenda]])*",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Strategic-Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Strategic-Planning]]",
+        "line_number": 84,
+        "section": "📋 Zone 2: Task Characterization",
+        "context_line": "> Accurately assess what this reading task demands so that goal-setting and strategy selection are appropriately calibrated. See [[Strategic-Planning]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Intrinsic-Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic-Motivation]]",
+        "line_number": 98,
+        "section": "🎯 Zone 3: Goal Setting — Three-Part Structure",
+        "context_line": "> Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[Intrinsic-Motivation]]. See [[Achievement-Goal-Theory]] and [[Goal-Setting-Theory]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 98,
+        "section": "🎯 Zone 3: Goal Setting — Three-Part Structure",
+        "context_line": "> Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[Intrinsic-Motivation]]. See [[Achievement-Goal-Theory]] and [[Goal-Setting-Theory]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Goal-Setting-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal-Setting-Theory]]",
+        "line_number": 98,
+        "section": "🎯 Zone 3: Goal Setting — Three-Part Structure",
+        "context_line": "> Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[Intrinsic-Motivation]]. See [[Achievement-Goal-Theory]] and [[Goal-Setting-Theory]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 108,
+        "section": "Learning Outcome Goal *(mastery-framed, specific, proximal)*",
+        "context_line": "> I can explain what types of language to use for building [[Self-Efficacy]], using [[Attribution-Theory]] to produce goal alighned with the startegies explained in the report.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 108,
+        "section": "Learning Outcome Goal *(mastery-framed, specific, proximal)*",
+        "context_line": "> I can explain what types of language to use for building [[Self-Efficacy]], using [[Attribution-Theory]] to produce goal alighned with the startegies explained in the report.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection-Phase]]",
+        "line_number": 115,
+        "section": "Learning Outcome Goal *(mastery-framed, specific, proximal)*",
+        "context_line": "> I plan to use this during the [[Self-Reflection-Phase]] of this template, so I can produce proper attributions of the goals listed above.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 121,
+        "section": "Process Goals *(behavioral, under my direct control)*",
+        "context_line": "> [!warning] Process goals are what you actually DO, not what you hope to understand. They should be specific enough that you can definitively say Yes or No to whether you executed them. See [[Deliberate-Practice]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "srl-forethought-selfreflection-pkb-report-2026-03-24",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[srl-forethought-selfreflection-pkb-report-2026-03-24]]",
+        "line_number": 129,
+        "section": "Stopping Rule",
+        "context_line": "> If I have been genuinely confused for more than _5__ minutes without progress, I will: Accept the passage need better prior knowledge activation or return to the Foundational Report here: [[srl-forethought-selfreflection-pkb-report-2026-03-24]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Metacognitive-Calibration",
+        "heading": null,
+        "display_text": "calibration",
+        "full_match": "[[Metacognitive-Calibration|calibration]]",
+        "line_number": 137,
+        "section": "💪 Zone 4: Self-Efficacy Calibration",
+        "context_line": "> Generate an *accurately calibrated* confidence estimate — not high confidence, but honest confidence. The target is [[Metacognitive-Calibration|calibration]], not elevation. See [[Self-Efficacy]] and [[The-Fluency-Illusion]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 137,
+        "section": "💪 Zone 4: Self-Efficacy Calibration",
+        "context_line": "> Generate an *accurately calibrated* confidence estimate — not high confidence, but honest confidence. The target is [[Metacognitive-Calibration|calibration]], not elevation. See [[Self-Efficacy]] and [[The-Fluency-Illusion]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "The-Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Fluency-Illusion]]",
+        "line_number": 137,
+        "section": "💪 Zone 4: Self-Efficacy Calibration",
+        "context_line": "> Generate an *accurately calibrated* confidence estimate — not high confidence, but honest confidence. The target is [[Metacognitive-Calibration|calibration]], not elevation. See [[Self-Efficacy]] and [[The-Fluency-Illusion]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": "metacognitive monitoring",
+        "full_match": "[[Metacognitive-Monitoring|metacognitive monitoring]]",
+        "line_number": 147,
+        "section": "💪 Zone 4: Self-Efficacy Calibration",
+        "context_line": "**If confidence is below 5:** Consider whether the comprehension criterion needs adjustment, or whether a preliminary schema-building activity is needed first. *(This is not failure — it is accurate [[Metacognitive-Monitoring|metacognitive monitoring]].)*",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": "mastery experience",
+        "full_match": "[[Self-Efficacy|mastery experience]]",
+        "line_number": 150,
+        "section": "💪 Zone 4: Self-Efficacy Calibration",
+        "context_line": "> *(A time I successfully understood material of similar complexity — this is the [[Self-Efficacy|mastery experience]] source of self-efficacy.)*",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": "autonomous motivation",
+        "full_match": "[[Self-Determination-Theory|autonomous motivation]]",
+        "line_number": 157,
+        "section": "✨ Zone 5: Motivational Priming",
+        "context_line": "> Activate [[Self-Determination-Theory|autonomous motivation]] by connecting to genuine interest and [[Autonomy-Support|autonomy-supportive]] framing. See [[Intrinsic-Motivation]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Autonomy-Support",
+        "heading": null,
+        "display_text": "autonomy-supportive",
+        "full_match": "[[Autonomy-Support|autonomy-supportive]]",
+        "line_number": 157,
+        "section": "✨ Zone 5: Motivational Priming",
+        "context_line": "> Activate [[Self-Determination-Theory|autonomous motivation]] by connecting to genuine interest and [[Autonomy-Support|autonomy-supportive]] framing. See [[Intrinsic-Motivation]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Intrinsic-Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic-Motivation]]",
+        "line_number": 157,
+        "section": "✨ Zone 5: Motivational Priming",
+        "context_line": "> Activate [[Self-Determination-Theory|autonomous motivation]] by connecting to genuine interest and [[Autonomy-Support|autonomy-supportive]] framing. See [[Intrinsic-Motivation]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Adaptive-Inference",
+        "heading": null,
+        "display_text": "adaptive inferences",
+        "full_match": "[[Adaptive-Inference|adaptive inferences]]",
+        "line_number": 181,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "> Time investment: 10–15 minutes. This is the generative engine of the SRL cycle — where [[Adaptive-Inference|adaptive inferences]] are produced that improve the next session. See [[Self-Reflection-Phase]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection-Phase]]",
+        "line_number": 181,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "> Time investment: 10–15 minutes. This is the generative engine of the SRL cycle — where [[Adaptive-Inference|adaptive inferences]] are produced that improve the next session. See [[Self-Reflection-Phase]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "The-Fluency-Illusion",
+        "heading": null,
+        "display_text": "fluency illusion",
+        "full_match": "[[The-Fluency-Illusion|fluency illusion]]",
+        "line_number": 191,
+        "section": "📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*",
+        "context_line": "> Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[The-Fluency-Illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[Retrieval-Practice]] and [[Testing-Effect-Retrieval-Practice-Effect]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Retrieval-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Retrieval-Practice]]",
+        "line_number": 191,
+        "section": "📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*",
+        "context_line": "> Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[The-Fluency-Illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[Retrieval-Practice]] and [[Testing-Effect-Retrieval-Practice-Effect]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Testing-Effect-Retrieval-Practice-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Testing-Effect-Retrieval-Practice-Effect]]",
+        "line_number": 191,
+        "section": "📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*",
+        "context_line": "> Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[The-Fluency-Illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[Retrieval-Practice]] and [[Testing-Effect-Retrieval-Practice-Effect]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 205,
+        "section": "📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*",
+        "context_line": "> [[Attribution-Theory]] —",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Regulated-Learning-SRL",
+        "heading": null,
+        "display_text": "SRL",
+        "full_match": "[[Self-Regulated-Learning-SRL|SRL]]",
+        "line_number": 230,
+        "section": "Generativity Tests *(Calibration instruments — go beyond recognition)*",
+        "context_line": "- *Connection:* [[Self-Regulated-Learning-SRL|SRL]] ↔ [[Prompt-Engineering]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Prompt-Engineering",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prompt-Engineering]]",
+        "line_number": 230,
+        "section": "Generativity Tests *(Calibration instruments — go beyond recognition)*",
+        "context_line": "- *Connection:* [[Self-Regulated-Learning-SRL|SRL]] ↔ [[Prompt-Engineering]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": "formative self-assessment",
+        "full_match": "[[Formative-Assessment|formative self-assessment]]",
+        "line_number": 249,
+        "section": "✅ Zone 2: Process Goal Audit",
+        "context_line": "> Evaluate each process goal against behavioral evidence, not impressions. This is [[Formative-Assessment|formative self-assessment]] — descriptive, not evaluative. See [[Self-Evaluation]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Evaluation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Evaluation]]",
+        "line_number": 249,
+        "section": "✅ Zone 2: Process Goal Audit",
+        "context_line": "> Evaluate each process goal against behavioral evidence, not impressions. This is [[Formative-Assessment|formative self-assessment]] — descriptive, not evaluative. See [[Self-Evaluation]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 266,
+        "section": "🔬 Zone 3: Causal Attribution Analysis",
+        "context_line": "> The attribution you generate here determines whether the next session improves or stagnates. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Bernard-Weiner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bernard-Weiner]]",
+        "line_number": 266,
+        "section": "🔬 Zone 3: Causal Attribution Analysis",
+        "context_line": "> The attribution you generate here determines whether the next session improves or stagnates. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Retraining",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining]]",
+        "line_number": 266,
+        "section": "🔬 Zone 3: Causal Attribution Analysis",
+        "context_line": "> The attribution you generate here determines whether the next session improves or stagnates. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": "elaborative interrogation",
+        "full_match": "[[Elaborative-Interrogation|elaborative interrogation]]",
+        "line_number": 288,
+        "section": "Attribution Analysis — For Each Comprehension Gap:",
+        "context_line": "| Did I use [[Elaborative-Interrogation|elaborative interrogation]]? | | |",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Mastery-Oriented-Response-Pattern",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Oriented-Response-Pattern]]",
+        "line_number": 298,
+        "section": "Attribution Analysis — For Each Comprehension Gap:",
+        "context_line": "> If your natural attribution is \"this material is too difficult for me\" or \"I'm not good at this type of content\" — these are global, stable, internal attributions. Before accepting them, you MUST list at least two specific strategy-level explanations you could test in the next session. See [[Mastery-Oriented-Response-Pattern]] and [[Growth-Mindset]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Growth-Mindset",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset]]",
+        "line_number": 298,
+        "section": "Attribution Analysis — For Each Comprehension Gap:",
+        "context_line": "> If your natural attribution is \"this material is too difficult for me\" or \"I'm not good at this type of content\" — these are global, stable, internal attributions. Before accepting them, you MUST list at least two specific strategy-level explanations you could test in the next session. See [[Mastery-Oriented-Response-Pattern]] and [[Growth-Mindset]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Adaptive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adaptive-Inference]]",
+        "line_number": 305,
+        "section": "⚡ Zone 4: Self-Reaction — Adaptive Inference Generation",
+        "context_line": "> Generate specific, actionable strategy adjustments that feed directly into the next Forethought Phase. This is where the cycle closes. See [[Adaptive-Inference]] and [[Defensive-Inference]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Defensive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Defensive-Inference]]",
+        "line_number": 305,
+        "section": "⚡ Zone 4: Self-Reaction — Adaptive Inference Generation",
+        "context_line": "> Generate specific, actionable strategy adjustments that feed directly into the next Forethought Phase. This is where the cycle closes. See [[Adaptive-Inference]] and [[Defensive-Inference]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Attribution-Retraining",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining]]",
+        "line_number": 329,
+        "section": "Defensive Inference Check",
+        "context_line": "> Did I generate any of these? If so, flag for [[Attribution-Retraining]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 350,
+        "section": "Carry-Forward to [[SRL-Living-Learning-Agenda]]",
+        "context_line": "### Carry-Forward to [[SRL-Living-Learning-Agenda]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 360,
+        "section": "🤝 Zone 6: Handoff to Next Forethought Phase",
+        "context_line": "> This is the physical link that ensures the SRL cycle actually closes. Copy this content to the Handoff field of your next session's Forethought Protocol, and update your [[SRL-Living-Learning-Agenda]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 374,
+        "section": "💬 Mastery Reflection *(Close the emotional loop)*",
+        "context_line": "> [!quote] Use mastery grammar to close productively. See [[Achievement-Goal-Theory]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 389,
+        "section": "💬 Mastery Reflection *(Close the emotional loop)*",
+        "context_line": "> 1. Update [[SRL-Calibration-Log]] with this session's metrics",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 390,
+        "section": "💬 Mastery Reflection *(Close the emotional loop)*",
+        "context_line": "> 2. Update [[SRL-Living-Learning-Agenda]] with carry-forward items",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24]]",
+        "line_number": 403,
+        "section": "Notes from Reading Session",
+        "context_line": "Reading: [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": "Forethought Phase",
+        "full_match": "[[Forethought-Phase|Forethought Phase]]",
+        "line_number": 406,
+        "section": "Notes from Reading Session",
+        "context_line": "Subsystems Used in Self Regulated Learning [[Forethought-Phase|Forethought Phase]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Goal-Setting-Theory",
+        "heading": null,
+        "display_text": "Goal Setting",
+        "full_match": "[[Goal-Setting-Theory|Goal Setting]]",
+        "line_number": 408,
+        "section": "Notes from Reading Session",
+        "context_line": "- [[Goal-Setting-Theory|Goal Setting]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Strategic-Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Strategic-Planning]]",
+        "line_number": 409,
+        "section": "Notes from Reading Session",
+        "context_line": "- [[Strategic-Planning]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": "Self-Efficacy Belifs",
+        "full_match": "[[Self-Efficacy|Self-Efficacy Belifs]]",
+        "line_number": 411,
+        "section": "Notes from Reading Session",
+        "context_line": "- [[Self-Efficacy|Self-Efficacy Belifs]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Goal-Orientation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal-Orientation]]",
+        "line_number": 414,
+        "section": "Notes from Reading Session",
+        "context_line": "- [[Goal-Orientation]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": "Forethought Phase",
+        "full_match": "[[Forethought-Phase|Forethought Phase]]",
+        "line_number": 428,
+        "section": "Notes from Reading Session",
+        "context_line": "Focus on more than just the Strategic Planning and Goal setting [the-visible-traits]. Don't neglect the motivational aspect of the [[Forethought-Phase|Forethought Phase]].",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Proximal Goals",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Proximal Goals]]",
+        "line_number": 435,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "**[[Proximal Goals]]** achievable in a single session.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Distal Goals",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Distal Goals]]",
+        "line_number": 436,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "**[[Distal Goals]]** achievable across multiple sessions, over longer time frames.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Proximal-Goals",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Proximal-Goals]]",
+        "line_number": 438,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "During the Forethought phase prioritize [[Proximal-Goals]] over distal ones.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 439,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "*Cross-References*: [[Self-Efficacy]], [[Mastery-Goal]], [[Goal-Setting-Theory]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Mastery-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Goal]]",
+        "line_number": 439,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "*Cross-References*: [[Self-Efficacy]], [[Mastery-Goal]], [[Goal-Setting-Theory]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Goal-Setting-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal-Setting-Theory]]",
+        "line_number": 439,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "*Cross-References*: [[Self-Efficacy]], [[Mastery-Goal]], [[Goal-Setting-Theory]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Mastery-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Goal]]",
+        "line_number": 443,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "[[Mastery-Goal]] -> Developing competence, understanding, and learning. -> Better Comprehension and persistence on difficult tasks.",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Performance-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Goal]]",
+        "line_number": 444,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "[[Performance-Goal]] -> focuses on demonstrating competence and superiority over competition, showing how smart you are. -> Undermines [[Intrinsic-Motivation|Intrinsic-motivation]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Intrinsic-Motivation",
+        "heading": null,
+        "display_text": "Intrinsic-motivation",
+        "full_match": "[[Intrinsic-Motivation|Intrinsic-motivation]]",
+        "line_number": 444,
+        "section": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "context_line": "[[Performance-Goal]] -> focuses on demonstrating competence and superiority over competition, showing how smart you are. -> Undermines [[Intrinsic-Motivation|Intrinsic-motivation]]",
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "target": "Performance-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Phase]]",
+        "line_number": 451,
+        "section": "Subsystem 1b: Strategic Planning in the Forethought Phase",
+        "context_line": "Specifically choosing and selecting strategies to be used during the [[Performance-Phase]], with specification on how they will be monitored and adjusted.",
+        "source": "2026-03-25-1054-srl-session.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "📖 SRL Reading Session: srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+        "anchor": "srl-reading-session-srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+        "line_number": 39,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 48,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 1,
+        "text": "PHASE 1: FORETHOUGHT (Complete Before Reading)",
+        "anchor": "phase-1-forethought-complete-before-reading",
+        "line_number": 49,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 50,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "🔍 Zone 1: Prior Knowledge Activation",
+        "anchor": "zone-1-prior-knowledge-activation",
+        "line_number": 57,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "📋 Zone 2: Task Characterization",
+        "anchor": "zone-2-task-characterization",
+        "line_number": 81,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Zone 3: Goal Setting — Three-Part Structure",
+        "anchor": "zone-3-goal-setting-three-part-structure",
+        "line_number": 95,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Learning Outcome Goal *(mastery-framed, specific, proximal)*",
+        "anchor": "learning-outcome-goal-mastery-framed-specific-proximal",
+        "line_number": 100,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Process Goals *(behavioral, under my direct control)*",
+        "anchor": "process-goals-behavioral-under-my-direct-control",
+        "line_number": 119,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Stopping Rule",
+        "anchor": "stopping-rule",
+        "line_number": 128,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "💪 Zone 4: Self-Efficacy Calibration",
+        "anchor": "zone-4-self-efficacy-calibration",
+        "line_number": 134,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "✨ Zone 5: Motivational Priming",
+        "anchor": "zone-5-motivational-priming",
+        "line_number": 154,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 176,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 1,
+        "text": "PHASE 2: SELF-REFLECTION (Complete After Reading)",
+        "anchor": "phase-2-self-reflection-complete-after-reading",
+        "line_number": 177,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 178,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*",
+        "anchor": "zone-1-cold-reconstruction-retrieval-based-comprehension-test",
+        "line_number": 188,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Generativity Tests *(Calibration instruments — go beyond recognition)*",
+        "anchor": "generativity-tests-calibration-instruments-go-beyond-recognition",
+        "line_number": 214,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "✅ Zone 2: Process Goal Audit",
+        "anchor": "zone-2-process-goal-audit",
+        "line_number": 246,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "🔬 Zone 3: Causal Attribution Analysis",
+        "anchor": "zone-3-causal-attribution-analysis",
+        "line_number": 263,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Attribution Analysis — For Each Comprehension Gap:",
+        "anchor": "attribution-analysis-for-each-comprehension-gap",
+        "line_number": 270,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "⚡ Zone 4: Self-Reaction — Adaptive Inference Generation",
+        "anchor": "zone-4-self-reaction-adaptive-inference-generation",
+        "line_number": 302,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Affect Acknowledgment",
+        "anchor": "affect-acknowledgment",
+        "line_number": 307,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "What Worked — Sustain These",
+        "anchor": "what-worked-sustain-these",
+        "line_number": 311,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Strategy Revisions for Next Session",
+        "anchor": "strategy-revisions-for-next-session",
+        "line_number": 315,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Goal Adjustments",
+        "anchor": "goal-adjustments",
+        "line_number": 320,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Defensive Inference Check",
+        "anchor": "defensive-inference-check",
+        "line_number": 328,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Zone 5: PKB Integration & Forward Planning",
+        "anchor": "zone-5-pkb-integration-forward-planning",
+        "line_number": 338,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "New Permanent Notes to Create/Update",
+        "anchor": "new-permanent-notes-to-createupdate",
+        "line_number": 340,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "New Connections Established",
+        "anchor": "new-connections-established",
+        "line_number": 344,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Flagged Gaps for Follow-Up",
+        "anchor": "flagged-gaps-for-follow-up",
+        "line_number": 347,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 3,
+        "text": "Carry-Forward to [[SRL-Living-Learning-Agenda]]",
+        "anchor": "carry-forward-to-srl-living-learning-agenda",
+        "line_number": 350,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "🤝 Zone 6: Handoff to Next Forethought Phase",
+        "anchor": "zone-6-handoff-to-next-forethought-phase",
+        "line_number": 357,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 2,
+        "text": "💬 Mastery Reflection *(Close the emotional loop)*",
+        "anchor": "mastery-reflection-close-the-emotional-loop",
+        "line_number": 372,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 1,
+        "text": "Notes from Reading Session",
+        "anchor": "notes-from-reading-session",
+        "line_number": 401,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 4,
+        "text": "Subsystem 1a: Goal-Setting in the Forethought Phase",
+        "anchor": "subsystem-1a-goal-setting-in-the-forethought-phase",
+        "line_number": 430,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "level": 4,
+        "text": "Subsystem 1b: Strategic Planning in the Forethought Phase",
+        "anchor": "subsystem-1b-strategic-planning-in-the-forethought-phase",
+        "line_number": 449,
+        "source": "2026-03-25-1054-srl-session.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [
+      {
+        "headers": [
+          "Dimension",
+          "Assessment"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Conceptual complexity**",
+            "`INPUT[inlineSelect(option(High), option(Moderate), option(Low)):complexity]`"
+          ],
+          [
+            "**Estimated reading time**",
+            "___ minutes"
+          ],
+          [
+            "**Primary challenge anticipated**",
+            ""
+          ],
+          [
+            "**Prior knowledge estimate**",
+            "moderate"
+          ]
+        ],
+        "line_start": 86,
+        "row_count": 4,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "headers": [
+          "Process Goal",
+          "Executed?",
+          "Evidence",
+          "Quality (1–5)"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "PG1:",
+            "Yes / Partial / No",
+            "",
+            ""
+          ],
+          [
+            "PG2:",
+            "Yes / Partial / No",
+            "",
+            ""
+          ],
+          [
+            "PG3:",
+            "Yes / Partial / No",
+            "",
+            ""
+          ],
+          [
+            "PG4:",
+            "Yes / Partial / No",
+            "",
+            ""
+          ]
+        ],
+        "line_start": 251,
+        "row_count": 4,
+        "source": "2026-03-25-1054-srl-session.md"
+      },
+      {
+        "headers": [
+          "Question",
+          "Y/N",
+          "Details"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Did I have sufficient prior schema?",
+            "",
+            ""
+          ],
+          [
+            "Was my goal specific enough?",
+            "",
+            ""
+          ],
+          [
+            "Did I use [[Elaborative-Interrogation",
+            "elaborative interrogation]]?",
+            "",
+            ""
+          ],
+          [
+            "Did I self-explain at section boundaries?",
+            "",
+            ""
+          ],
+          [
+            "Was my comprehension criterion calibrated to my actual level?",
+            "",
+            ""
+          ],
+          [
+            "Was my attention available for the cognitive demands?",
+            "",
+            ""
+          ],
+          [
+            "Did I attempt too much in this session?",
+            "",
+            ""
+          ]
+        ],
+        "line_start": 284,
+        "row_count": 7,
+        "source": "2026-03-25-1054-srl-session.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[[Self-Regulated-Learning-SRL]] —",
+          "indent_level": 0,
+          "line_number": 63,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[[Attribution-Theory]] —",
+          "indent_level": 0,
+          "line_number": 64,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[[Achievement-Goal-Theory|Achievement Goal Theory]] —",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Gap 1: Specific sub-processes of [[Self-Regulated-Learning-SRL]], I know about Task Analysis, Motivational Aspects, but not the others. Im interested in developing this futher into the sub processes I dont yet recall.",
+          "indent_level": 0,
+          "line_number": 68,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Gap 2: I would like to develop further understanding of how [[Attribution-Theory]] vocabulary can affect [[Self-Efficacy]], and [[Achievement-Goal-Theory|setting attainable goals]].",
+          "indent_level": 0,
+          "line_number": 69,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "I predict this text will extend & challenge [[Forethought-Phase|Forethought Phase]] & [[Self-Reflection-Phase|Self-Reflection Phase]] because I have specifically engineered the topic of this report to help me better understand the relationships between these two phases, speciffically how to close the [[Self-Reflection-Phase|Self-Reflection Phase]] and lead into the next [[Forethought-Phase|Forethought Phase]] then improving the cycle.",
+          "indent_level": 0,
+          "line_number": 72,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "I expect tension with [[Attribution-Theory]] around the issue of developing the proper vocabulary to puposefully build [[Self-Efficacy]].",
+          "indent_level": 0,
+          "line_number": 73,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "---",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] **PG1:** I will pause at each section break and write a one-sentence summary",
+          "indent_level": 0,
+          "line_number": 122,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] **PG2:** I will flag any passage where I experience genuine confusion (not explain it away)",
+          "indent_level": 0,
+          "line_number": 124,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[x] **PG3:** I will check each major claim against my connection hypothesis from Zone 1",
+          "indent_level": 0,
+          "line_number": 125,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] **PG4 (custom):**",
+          "indent_level": 0,
+          "line_number": 126,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*Concept:* Proximal Goals",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*My example:* My goal is to understand the various mechanism described during Section 4 of this report.",
+          "indent_level": 0,
+          "line_number": 219,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*What this reveals about my understanding:* That I understand the difference between proximal or short term related goals, and Distal goals which are ment as more of a longer term developing goal.",
+          "indent_level": 0,
+          "line_number": 220,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*Mechanism:*",
+          "indent_level": 0,
+          "line_number": 224,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*My reconstruction:*",
+          "indent_level": 0,
+          "line_number": 225,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*After checking — accurate? What was missing?*  I need to use a more generativ strategy during the Mechanism phase of the report something such as Elabritive Interrigation, asking Why and How does this actually work during reading of thoses sections. At the present time I am having trouble recalling and unsterstanding Causal Chain, maybe a report on this would help in the future.",
+          "indent_level": 0,
+          "line_number": 226,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*Connection:* [[Self-Regulated-Learning-SRL|SRL]] ↔ [[Prompt-Engineering]]",
+          "indent_level": 0,
+          "line_number": 230,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "*Why this connection matters:* I can use this Forethought and Self Reflection Phases during prompt engineering activites to better understand the inner mechanism of prompt engineering.",
+          "indent_level": 0,
+          "line_number": 231,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Gap 1: Still need work on Mechanisms, should use different techniques next time something more generative, or asking questions during this phase.",
+          "indent_level": 0,
+          "line_number": 238,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Gap 2: Figure out what Causal Chains actually are, how to study them appropriatley, and comprehension of those mechanisms.",
+          "indent_level": 0,
+          "line_number": 239,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Locus: Internal / External",
+          "indent_level": 0,
+          "line_number": 278,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Stability: Stable / Unstable",
+          "indent_level": 0,
+          "line_number": 279,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Controllability: Controllable / Uncontrollable",
+          "indent_level": 0,
+          "line_number": 280,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "-",
+          "indent_level": 0,
+          "line_number": 312,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Revision 1:",
+          "indent_level": 0,
+          "line_number": 317,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Revision 2:",
+          "indent_level": 0,
+          "line_number": 318,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] \"I should just read easier material\"",
+          "indent_level": 0,
+          "line_number": 330,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] \"Maybe this topic isn't for me\"",
+          "indent_level": 0,
+          "line_number": 331,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] \"I'll try harder next time\" (without strategy specificity)",
+          "indent_level": 0,
+          "line_number": 332,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] Desire to lower goals to avoid future failure",
+          "indent_level": 0,
+          "line_number": 333,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] None detected",
+          "indent_level": 0,
+          "line_number": 334,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] [[]] — Key content:",
+          "indent_level": 0,
+          "line_number": 341,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[ ] [[]] — Update needed:",
+          "indent_level": 0,
+          "line_number": 342,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[[]] ↔ [[]] — Relationship:",
+          "indent_level": 0,
+          "line_number": 345,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Gap: ___ — Suggested resource: [[]]",
+          "indent_level": 0,
+          "line_number": 348,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "New question:",
+          "indent_level": 0,
+          "line_number": 351,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Strategy insight:",
+          "indent_level": 0,
+          "line_number": 352,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Next reading priority:",
+          "indent_level": 0,
+          "line_number": 353,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Task Analysis",
+          "indent_level": 0,
+          "line_number": 407,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[[Goal-Setting-Theory|Goal Setting]]",
+          "indent_level": 0,
+          "line_number": 408,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[[Strategic-Planning]]",
+          "indent_level": 0,
+          "line_number": 409,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Motivational Beliefs",
+          "indent_level": 0,
+          "line_number": 410,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[[Self-Efficacy|Self-Efficacy Belifs]]",
+          "indent_level": 0,
+          "line_number": 411,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Outcome-Expectations",
+          "indent_level": 0,
+          "line_number": 412,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Task Intrest and Value",
+          "indent_level": 0,
+          "line_number": 413,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "[[Goal-Orientation]]",
+          "indent_level": 0,
+          "line_number": 414,
+          "source": "2026-03-25-1054-srl-session.md"
+        },
+        {
+          "text": "Quote from Report",
+          "indent_level": 0,
+          "line_number": 423,
+          "source": "2026-03-25-1054-srl-session.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Advance-Organizers",
+      "Attribution-Retraining",
+      "Attribution-Theory",
+      "Autonomy-Support",
+      "Bernard-Weiner",
+      "Cognitive-Load-Theory",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Distal Goals",
+      "Elaborative-Interrogation",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Goal-Orientation",
+      "Goal-Setting-Theory",
+      "Growth-Mindset",
+      "Intrinsic-Motivation",
+      "Mastery-Goal",
+      "Mastery-Oriented-Response-Pattern",
+      "Metacognitive-Calibration",
+      "Metacognitive-Monitoring",
+      "Performance-Goal",
+      "Performance-Phase",
+      "Prior-Knowledge-Activation",
+      "Prompt-Engineering",
+      "Proximal Goals",
+      "Proximal-Goals",
+      "Retrieval-Practice",
+      "SRL-Calibration-Log",
+      "SRL-Living-Learning-Agenda",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Evaluation",
+      "Self-Reflection-Phase",
+      "Self-Regulated-Learning-SRL",
+      "Strategic-Planning",
+      "Testing-Effect-Retrieval-Practice-Effect",
+      "The-Fluency-Illusion",
+      "Zimmerman's-Cyclical-SRL-Model",
+      "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+      "srl-forethought-selfreflection-pkb-report-2026-03-24"
+    ],
+    "unique_wiki_link_count": 42,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Advance-Organizers",
+      "Attribution-Retraining",
+      "Attribution-Theory",
+      "Autonomy-Support",
+      "Bernard-Weiner",
+      "Cognitive-Load-Theory",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Distal Goals",
+      "Elaborative-Interrogation",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Goal-Orientation",
+      "Goal-Setting-Theory",
+      "Growth-Mindset",
+      "Intrinsic-Motivation",
+      "Mastery-Goal",
+      "Mastery-Oriented-Response-Pattern",
+      "Metacognitive-Calibration",
+      "Metacognitive-Monitoring",
+      "Performance-Goal",
+      "Performance-Phase",
+      "Prior-Knowledge-Activation",
+      "Prompt-Engineering",
+      "Proximal Goals",
+      "Proximal-Goals",
+      "Retrieval-Practice",
+      "SRL-Calibration-Log",
+      "SRL-Living-Learning-Agenda",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Evaluation",
+      "Self-Reflection-Phase",
+      "Self-Regulated-Learning-SRL",
+      "Strategic-Planning",
+      "Testing-Effect-Retrieval-Practice-Effect",
+      "The-Fluency-Illusion",
+      "Zimmerman's-Cyclical-SRL-Model",
+      "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+      "srl-forethought-selfreflection-pkb-report-2026-03-24"
+    ]
+  }
+}

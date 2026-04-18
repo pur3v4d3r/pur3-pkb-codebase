@@ -437,7 +437,7 @@ extraction_summary:
 - [[History of Psychology]]
 - [[Hull House]]
 - [[Immanuel-Kant|Immanuel Kant]]
-- [[Information Literacy]]
+- [[Information-Literacy|Information Literacy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Jane Addams]]
 - [[Jane Addams and Hull House Laboratory for Social Democracy]]
@@ -454,7 +454,7 @@ extraction_summary:
 - [[MAI]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
-- [[Next Generation Science Standards]]
+- [[Next-Generation-Science-Standards|Next Generation Science Standards]]
 - [[Organisation for Economic Co-operation and Development]]
 - [[PENCRISAL]]
 - [[Pattern of Inquiry]]
@@ -494,7 +494,7 @@ extraction_summary:
 - [[Argumentation-Theory|argumentation theory]]
 - [[Automaticity]]
 - [[business education]]
-- [[clinical reasoning]]
+- [[Clinical-Reasoning|clinical reasoning]]
 - [[Cognitive-Disequilibrium|cognitive disequilibrium]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Science|cognitive science]]
@@ -517,8 +517,8 @@ extraction_summary:
 - [[experimental psychology]]
 - [[functionalist]]
 - [[imagination]]
-- [[informal logic]]
-- [[information literacy]]
+- [[Informal-Logic|informal logic]]
+- [[Information-Literacy|information literacy]]
 - [[inquiry]]
 - [[Inquiry-Based-Learning|inquiry-based learning]]
 - [[inquiry-based science education]]
@@ -547,7 +547,7 @@ extraction_summary:
 - [[scientific thinking]]
 - [[Situated-Cognition|situated cognition]]
 - [[Social-Constructivism|social constructivism]]
-- [[spectator theory of knowledge]]
+- [[Spectator-Theory-of-Knowledge|spectator theory of knowledge]]
 - [[Transfer]]
 - [[Transfer-of-Learning|transfer of learning]]
 - [[warranted-assertibility|warranted assertibility]]
@@ -596,7 +596,7 @@ extraction_summary:
 | 37 | [[Eight-Year Study Progressive Education]] | — | — | See Also | 141 |
 | 38 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | See Also | 142 |
 | 39 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | See Also | 143 |
-| 40 | [[Information Literacy]] | — | — | See Also | 144 |
+| 40 | [[Information-Literacy|Information Literacy]] | — | — | See Also | 144 |
 | 41 | [[21st Century Skills Frameworks]] | — | — | See Also | 145 |
 | 42 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | See Also | 146 |
 | 43 | [[Critical Pedagogy]] | — | — | See Also | 147 |
@@ -650,7 +650,7 @@ extraction_summary:
 | 91 | [[warranted-assertibility|warranted assertibility]] | — | — | Pragmatism and Instrumentalism: A New... | 345 |
 | 92 | [[Plato]] | — | — | Pragmatism and Instrumentalism: A New... | 345 |
 | 93 | [[correspondence theory of truth]] | — | — | Pragmatism and Instrumentalism: A New... | 347 |
-| 94 | [[spectator theory of knowledge]] | — | — | Pragmatism and Instrumentalism: A New... | 347 |
+| 94 | [[Spectator-Theory-of-Knowledge|spectator theory of knowledge]] | — | — | Pragmatism and Instrumentalism: A New... | 347 |
 | 95 | [[Reflective-Thinking|reflective thinking]] | — | — | Reflective Thinking: The Pattern of I... | 357 |
 | 96 | [[experience]] | — | — | Experiential Learning and the Theory ... | 373 |
 | 97 | [[continuity]] | — | — | Experiential Learning and the Theory ... | 373 |
@@ -685,10 +685,10 @@ extraction_summary:
 | 126 | [[legal education]] | — | — | Contemporary Applications: From K-12 ... | 479 |
 | 127 | [[business education]] | — | — | Contemporary Applications: From K-12 ... | 479 |
 | 128 | [[inquiry-based science education]] | — | — | Contemporary Applications: From K-12 ... | 481 |
-| 129 | [[Next Generation Science Standards]] | — | — | Contemporary Applications: From K-12 ... | 481 |
+| 129 | [[Next-Generation-Science-Standards|Next Generation Science Standards]] | — | — | Contemporary Applications: From K-12 ... | 481 |
 | 130 | [[Project-based learning]] | — | — | Contemporary Applications: From K-12 ... | 483 |
 | 131 | [[problem-based learning]] | — | — | Contemporary Applications: From K-12 ... | 485 |
-| 132 | [[clinical reasoning]] | — | — | Contemporary Applications: From K-12 ... | 485 |
+| 132 | [[Clinical-Reasoning|clinical reasoning]] | — | — | Contemporary Applications: From K-12 ... | 485 |
 | 133 | [[Reflective-Practitioner|reflective practitioner]] | — | — | Contemporary Applications: From K-12 ... | 485 |
 | 134 | [[Donald-Schön|Donald Schön]] | — | — | Contemporary Applications: From K-12 ... | 485 |
 | 135 | [[21st century skills]] | — | — | Contemporary Applications: From K-12 ... | 487 |
@@ -700,9 +700,9 @@ extraction_summary:
 | 141 | [[Peter-Facione|Peter Facione]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
 | 142 | [[Cornell Critical Thinking Tests]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
 | 143 | [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
-| 144 | [[informal logic]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
+| 144 | [[Informal-Logic|informal logic]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
 | 145 | [[Argumentation-Theory|argumentation theory]] | — | — | Critical Thinking and Dewey's Legacy | 498 |
-| 146 | [[information literacy]] | — | — | Critical Thinking and Dewey's Legacy | 502 |
+| 146 | [[Information-Literacy|information literacy]] | — | — | Critical Thinking and Dewey's Legacy | 502 |
 | 147 | [[misinformation]] | — | — | Critical Thinking and Dewey's Legacy | 502 |
 | 148 | [[Harvey Siegel]] | — | — | Reassessing Dewey's Epistemology | 511 |
 | 149 | [[Larry Hickman]] | — | — | Reassessing Dewey's Epistemology | 513 |
@@ -963,7 +963,7 @@ tags:
 - [[History of Psychology]]
 - [[Hull House]]
 - [[Immanuel-Kant|Immanuel Kant]]
-- [[Information Literacy]]
+- [[Information-Literacy|Information Literacy]]
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Jane Addams]]
 - [[Jane Addams and Hull House Laboratory for Social Democracy]]
@@ -980,7 +980,7 @@ tags:
 - [[MAI]]
 - [[Max Horkheimer]]
 - [[Metacognition]]
-- [[Next Generation Science Standards]]
+- [[Next-Generation-Science-Standards|Next Generation Science Standards]]
 - [[Organisation for Economic Co-operation and Development]]
 - [[PENCRISAL]]
 - [[Pattern of Inquiry]]
@@ -1020,7 +1020,7 @@ tags:
 - [[Argumentation-Theory|argumentation theory]]
 - [[Automaticity]]
 - [[business education]]
-- [[clinical reasoning]]
+- [[Clinical-Reasoning|clinical reasoning]]
 - [[Cognitive-Disequilibrium|cognitive disequilibrium]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
 - [[Cognitive-Science|cognitive science]]
@@ -1043,8 +1043,8 @@ tags:
 - [[experimental psychology]]
 - [[functionalist]]
 - [[imagination]]
-- [[informal logic]]
-- [[information literacy]]
+- [[Informal-Logic|informal logic]]
+- [[Information-Literacy|information literacy]]
 - [[inquiry]]
 - [[Inquiry-Based-Learning|inquiry-based learning]]
 - [[inquiry-based science education]]
@@ -1073,7 +1073,7 @@ tags:
 - [[scientific thinking]]
 - [[Situated-Cognition|situated cognition]]
 - [[Social-Constructivism|social constructivism]]
-- [[spectator theory of knowledge]]
+- [[Spectator-Theory-of-Knowledge|spectator theory of knowledge]]
 - [[Transfer]]
 - [[Transfer-of-Learning|transfer of learning]]
 - [[warranted-assertibility|warranted assertibility]]

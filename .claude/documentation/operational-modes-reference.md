@@ -542,7 +542,7 @@ aliases: [CLT, Working Memory Theory]
 Neural networks learn through backpropagation using gradient descent to minimize loss functions.
 
 # AFTER:
-[[Neural networks]] learn through [[Backpropagation]] using [[Gradient Descent]] to minimize [[Loss Functions]].
+[[Neural-Networks]] learn through [[Backpropagation]] using [[Gradient Descent]] to minimize [[Loss Functions]].
 ```
 
 #### Use Case 3: Comprehensive Refactoring

@@ -43,7 +43,7 @@ These deserve wiki-links whenever mentioned:
 | Named Frameworks | [[Zettelkasten]], [[PARA-Method]], [[GTD]] |
 | Named Effects/Phenomena | [[Spacing-Effect]], [[Testing-Effect]], [[Dunning-Kruger-Effect]] |
 | Researchers/Thinkers | [[Hermann-Ebbinghaus]], [[Niklas Luhmann]], [[Daniel-Kahneman]] |
-| Key Methodologies | [[Spaced-Repetition]], [[Active Recall]], [[Retrieval-Practice]] |
+| Key Methodologies | [[Spaced-Repetition]], [[Active-Recall]], [[Retrieval-Practice]] |
 | Tools/Software | [[Obsidian]], [[Anki]], [[Dataview]] |
 
 ### Tier 2: USUALLY Link (Medium Priority)
@@ -53,7 +53,7 @@ Link when the concept is substantive to the content:
 |----------|----------|
 | Technical Terms | [[Working-Memory]], [[Metacognition]], [[Executive-Function]] |
 | Domain Concepts | [[Cognitive-Load]], [[Schema]], [[Attention]] |
-| Processes | [[encoding]], [[retrieval]], [[Consolidation]] |
+| Processes | [[Encoding]], [[Retrieval]], [[Consolidation]] |
 | Practices | [[note-taking]], [[annotation]], [[summarization]] |
 
 ### Tier 3: SOMETIMES Link (Low Priority)
@@ -114,7 +114,7 @@ alongside [[cognitive flexibility]] and [[inhibitory control]].
 ### Strategy 4: Tool/Application Linking
 Connect abstract concepts to their practical implementations:
 ```
-[[Active recall]] can be implemented using [[Anki]] or [[Obsidian]]'s
+[[Active-Recall]] can be implemented using [[Anki]] or [[Obsidian]]'s
 [[Spaced-Repetition]] plugins like [[Obsidian SR]].
 ```
 
@@ -132,7 +132,7 @@ Results support [[Related Theory]] and extend [[Previous Finding]].
 ### Tutorial Pattern
 ```
 In [[Software Name]], the [[Feature Name]] allows you to [[Action]].
-This is similar to [[Alternative Tool]]'s approach to [[Concept]].
+This is similar to [[Alternative Tool]]'s approach to [[concept]].
 For advanced usage, see [[Related Feature]] and [[Plugin Name]].
 ```
 

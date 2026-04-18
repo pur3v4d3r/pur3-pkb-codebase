@@ -1998,7 +1998,7 @@ link-up: [[prompt-engineering-moc]]
 ### Variation 2: Philosophical/Humanities Focus
 *Optimized for abstract concepts, focusing on dialectics and history.*
 ```prompt
-# 🏛️ Philosophical Exposition: [[Concept]]
+# 🏛️ Philosophical Exposition: [[concept]]
 
 ## 1. Etymology & Definition
 > [!info] Word Origin

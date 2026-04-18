@@ -211,7 +211,7 @@ extraction_summary:
 > [!principle-point] Untitled
 > **Core Principle 3: The Eddington Limit and Accretion Physics**
 > 
-> For black holes that grow through [[accretion]]—capturing gas and dust from their surroundings—a fundamental limit governs their growth rate. The [[Eddington limit]] represents the maximum luminosity an accreting object can sustain before radiation pressure from emitted photons exceeds gravitational attraction, halting further accretion.
+> For black holes that grow through [[Accretion]]—capturing gas and dust from their surroundings—a fundamental limit governs their growth rate. The [[Eddington limit]] represents the maximum luminosity an accreting object can sustain before radiation pressure from emitted photons exceeds gravitational attraction, halting further accretion.
 
 #### 14. [PRINCIPLE-POINT] Untitled *(Line 174)*
 
@@ -476,8 +476,8 @@ extraction_summary:
 - [[Walter Baade]]
 - [[Xiaohui Fan]]
 - [[Zwicky Transient Facility]]
-- [[accretion]]
-- [[accretion disk]]
+- [[Accretion]]
+- [[Accretion-Disk|accretion disk]]
 - [[black hole]]
 - [[core collapse]]
 - [[core-collapse supernovae]]
@@ -578,9 +578,9 @@ extraction_summary:
 | 56 | [[neutron star]] | — | — | 3.1 ⚛️ Foundational Principles | 143 |
 | 57 | [[Tolman-Oppenheimer-Volkoff limit]] | — | — | 3.1 ⚛️ Foundational Principles | 145 |
 | 58 | [[equation of state]] | — | — | 3.1 ⚛️ Foundational Principles | 145 |
-| 59 | [[accretion]] | — | — | 3.1 ⚛️ Foundational Principles | 150 |
+| 59 | [[Accretion]] | — | — | 3.1 ⚛️ Foundational Principles | 150 |
 | 60 | [[Eddington limit]] | — | — | 3.1 ⚛️ Foundational Principles | 150 |
-| 61 | [[accretion disk]] | — | — | 3.1 ⚛️ Foundational Principles | 152 |
+| 61 | [[Accretion-Disk|accretion disk]] | — | — | 3.1 ⚛️ Foundational Principles | 152 |
 | 62 | [[radiation pressure]] | — | — | 3.1 ⚛️ Foundational Principles | 152 |
 | 63 | [[Thomson scattering cross-section]] | — | — | 3.1 ⚛️ Foundational Principles | 158 |
 | 64 | [[supermassive black hole formation problem]] | — | — | 3.1 ⚛️ Foundational Principles | 170 |
@@ -878,8 +878,8 @@ $$
 - [[Walter Baade]]
 - [[Xiaohui Fan]]
 - [[Zwicky Transient Facility]]
-- [[accretion]]
-- [[accretion disk]]
+- [[Accretion]]
+- [[Accretion-Disk|accretion disk]]
 - [[black hole]]
 - [[core collapse]]
 - [[core-collapse supernovae]]

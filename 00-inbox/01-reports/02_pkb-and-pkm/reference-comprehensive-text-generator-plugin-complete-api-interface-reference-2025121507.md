@@ -1842,7 +1842,7 @@ output: cursor          # cursor, replace, new-note
 **Priority:** High - Essential for maximizing TGP value
 **Prerequisites:** Basic understanding of LLMs
 
-##### 2. **[[Templater Plugin Advanced Patterns]]**
+##### 2. **[[Templater-Plugin-Advanced-Patterns]]**
 **Connection:** Complements TGP with powerful note templating; can trigger TGP generations within Templater workflows
 **Depth Potential:** Advanced scripting, dynamic templates, folder-based triggers, and integration with TGP for automated content generation
 **Knowledge Graph Role:** Sibling tool in PKB automation ecosystem
@@ -1853,14 +1853,14 @@ output: cursor          # cursor, replace, new-note
 
 #### Cross-Domain Connections
 
-##### 3. **[[Cognitive Load Theory and PKB Design]]**
+##### 3. **[[Cognitive-Load-Theory-and-PKB-Design]]**
 **Connection:** Understanding CLT informs how to structure AI-augmented workflows to minimize mental overhead while maximizing output quality
 **Depth Potential:** Applies cognitive science to PKB architecture, explaining why vault-centric AI reduces extraneous load
 **Knowledge Graph Role:** Theoretical bridge between cognitive science and PKM practice
 **Priority:** Medium - Deepens understanding of design decisions
 **Prerequisites:** [[Cognitive-Load-Theory]] basics
 
-##### 4. **[[API Cost Optimization Strategies]]**
+##### 4. **[[API-Cost-Optimization-Strategies]]**
 **Connection:** Direct relevance to managing TGP usage costs effectively through model selection, prompt engineering, and caching strategies
 **Depth Potential:** Covers token counting, model cost comparison, batching strategies, and local model fallbacks
 **Knowledge Graph Role:** Practical guide for sustainable AI usage
@@ -1871,7 +1871,7 @@ output: cursor          # cursor, replace, new-note
 
 #### Advanced Deep Dives
 
-##### 5. **[[Building Custom AI Agents in Obsidian]]** *[Requires prerequisites]*
+##### 5. **[[Building-Custom-AI-Agents-in-Obsidian]]** *[Requires prerequisites]*
 **Connection:** Extends TGP concepts to create autonomous agents that can perform multi-step research and synthesis tasks
 **Depth Potential:** Agent architectures, tool use patterns, memory systems, and goal-directed behavior within PKB context
 **Knowledge Graph Role:** Advanced node representing frontier PKB capabilities

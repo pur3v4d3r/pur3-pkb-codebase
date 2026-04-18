@@ -395,7 +395,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > **Expansion Topic 1: [[Terror Management Theory and Meaning]]**
-> Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski's [[Terror Management Theory]] (TMT) proposes that much of human culture, religion, and meaning-making is motivated by the need to manage anxiety about mortality. The examined life's meaning-making practices, viewed through this lens, are simultaneously genuinely valuable (they constitute a meaningful life) and defensively functional (they buffer existential anxiety). Exploring the relationship between narrative identity, terror management, and epistemic motivation would enrich the framework's account of *why* humans are meaning-seeking creatures. **Priority: High.**
+> Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski's [[Terror-Management-Theory|Terror Management Theory]] (TMT) proposes that much of human culture, religion, and meaning-making is motivated by the need to manage anxiety about mortality. The examined life's meaning-making practices, viewed through this lens, are simultaneously genuinely valuable (they constitute a meaningful life) and defensively functional (they buffer existential anxiety). Exploring the relationship between narrative identity, terror management, and epistemic motivation would enrich the framework's account of *why* humans are meaning-seeking creatures. **Priority: High.**
 
 #### 49. [CONNECTION-IDEAS] Untitled *(Line 549)*
 
@@ -493,7 +493,7 @@ extraction_summary:
 - [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoics]]
 - [[Strong Evaluation]]
-- [[Terror Management Theory]]
+- [[Terror-Management-Theory|Terror Management Theory]]
 - [[Terror Management Theory and Meaning]]
 - [[Viktor Frankl]]
 - [[Will to Meaning]]
@@ -582,7 +582,7 @@ extraction_summary:
 | 78 | [[Ipseity]] | — | — | Key Terms Lexicon | 484 |
 | 79 | [[Amor-Fati|Amor Fati]] | — | — | Key Terms Lexicon | 487 |
 | 80 | [[Terror Management Theory and Meaning]] | — | — | Expansion Topics for PKB Development | 546 |
-| 81 | [[Terror Management Theory]] | — | — | Expansion Topics for PKB Development | 547 |
+| 81 | [[Terror-Management-Theory|Terror Management Theory]] | — | — | Expansion Topics for PKB Development | 547 |
 | 82 | [[Narrative Therapy]] | — | — | Expansion Topics for PKB Development | 550 |
 | 83 | [[Externalised]] | — | — | Expansion Topics for PKB Development | 551 |
 | 84 | [[Paul Ricoeur's Narrative Time and Mimesis]] | — | — | Expansion Topics for PKB Development | 554 |
@@ -679,7 +679,7 @@ extraction_summary:
 - [[Stoic-Prosoche|Stoic Prosoche]]
 - [[Stoics]]
 - [[Strong Evaluation]]
-- [[Terror Management Theory]]
+- [[Terror-Management-Theory|Terror Management Theory]]
 - [[Terror Management Theory and Meaning]]
 - [[Viktor Frankl]]
 - [[Will to Meaning]]
@@ -709,7 +709,7 @@ extraction_summary:
 
 - [[Philosophy of the Examined Life]]
 - [[Existential Psychology]]
-- [[Eudaimonic Well-Being]]
+- [[Eudaimonic-Well-Being|Eudaimonic Well-Being]]
 - [[The Architecture of the Examined Life]]
 
 ---

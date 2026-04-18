@@ -178,7 +178,7 @@ extraction_summary:
 > [!methodology-and-sources] Untitled
 > **The Capture-Process-Organize-Review Workflow**
 > 
-> Modern [[PKM]] methodologies like [[Building a Second Brain]] explicitly separate the low-friction activity of capture from the higher-effort work of processing and organizing. This separation respects cognitive realities—when an insight strikes during another activity, you have neither the time nor the mental resources for careful categorization. By designing capture to be essentially frictionless (perhaps just a single hotkey that creates a new note or captures text to an inbox), you ensure that valuable information is preserved rather than lost. The processing and organization happens later, during dedicated time when you have the cognitive resources for thoughtful categorization and connection-making.
+> Modern [[PKM]] methodologies like [[Building-a-Second-Brain|Building a Second Brain]] explicitly separate the low-friction activity of capture from the higher-effort work of processing and organizing. This separation respects cognitive realities—when an insight strikes during another activity, you have neither the time nor the mental resources for careful categorization. By designing capture to be essentially frictionless (perhaps just a single hotkey that creates a new note or captures text to an inbox), you ensure that valuable information is preserved rather than lost. The processing and organization happens later, during dedicated time when you have the cognitive resources for thoughtful categorization and connection-making.
 
 #### 13. [KEY-CLAIM] Untitled *(Line 152)*
 
@@ -257,7 +257,7 @@ extraction_summary:
 #### 25. [CONNECTIONS-AND-LINKS] Untitled *(Line 274)*
 
 > [!connections-and-links] Untitled
-> The principles of antifragility connect directly to concepts from [[Evolutionary Epistemology]] and [[Variation and Selective Retention]]. Knowledge systems that maintain variation (trying multiple approaches), face selection pressures (actual use that reveals what works), and retain what survives testing (building on proven practices while discarding failures) naturally evolve toward greater fitness for their environment. This is [[Systems Thinking]] applied to the design of personal systems—recognizing that the most effective architecture emerges through evolution rather than being designed completely upfront.
+> The principles of antifragility connect directly to concepts from [[Evolutionary Epistemology]] and [[Variation and Selective Retention]]. Knowledge systems that maintain variation (trying multiple approaches), face selection pressures (actual use that reveals what works), and retain what survives testing (building on proven practices while discarding failures) naturally evolve toward greater fitness for their environment. This is [[Systems-Thinking|Systems Thinking]] applied to the design of personal systems—recognizing that the most effective architecture emerges through evolution rather than being designed completely upfront.
 
 #### 26. [PRINCIPLE-POINT] Untitled *(Line 283)*
 
@@ -324,7 +324,7 @@ extraction_summary:
 - [[Anki]]
 - [[Barry-Schwartz|Barry Schwartz]]
 - [[Bluma Zeigarnik]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive Coupling]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -407,7 +407,7 @@ extraction_summary:
 - [[Systems Design Thinking]]
 - [[Systems Intelligence]]
 - [[Systems Theory]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Sönke Ahrens]]
 - [[Tiago Forte]]
 - [[Time as a Filter]]
@@ -415,7 +415,7 @@ extraction_summary:
 - [[Two-Minute Rule]]
 - [[Vannevar Bush]]
 - [[Variation and Selective Retention]]
-- [[Via Negativa]]
+- [[via-negativa|Via Negativa]]
 - [[Wendy Wood]]
 - [[Wil van der Aalst]]
 - [[William Jones]]
@@ -423,12 +423,12 @@ extraction_summary:
 - [[Working-Memory|Working Memory]]
 - [[Yaneer Bar-Yam]]
 - [[Zeigarnik Effect]]
-- [[decision fatigue]]
+- [[Decision-Fatigue|decision fatigue]]
 - [[Flow]]
 - [[hormesis]]
 - [[Obsidian]]
 - [[PARA-Method|para method]]
-- [[zettelkasten method]]
+- [[Zettelkasten-Method|zettelkasten method]]
 
 ### All Occurrences
 
@@ -463,9 +463,9 @@ extraction_summary:
 | 27 | [[Personal Information Management]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 28 | [[Getting-Things-Done|Getting Things Done]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 29 | [[David Allen]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
-| 30 | [[zettelkasten method]] | Zettelkasten | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
+| 30 | [[Zettelkasten-Method|zettelkasten method]] | Zettelkasten | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 31 | [[Niklas Luhmann]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
-| 32 | [[Building a Second Brain]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
+| 32 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 33 | [[Tiago Forte]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 34 | [[PARA-Method|para method]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 81 |
 | 35 | [[PKM]] | — | — | 🌳 The Intellectual Genealogy: From Co... | 84 |
@@ -499,7 +499,7 @@ extraction_summary:
 | 63 | [[Personal Information Management]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 139 |
 | 64 | [[William Jones]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 139 |
 | 65 | [[PKM]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 144 |
-| 66 | [[Building a Second Brain]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 144 |
+| 66 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 144 |
 | 67 | [[Flow]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
 | 68 | [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
 | 69 | [[Flow-State|Flow State]] | Flow | — | 🔄 Mechanisms of Friction Reduction an... | 146 |
@@ -509,7 +509,7 @@ extraction_summary:
 | 73 | [[Habit-Formation|Habit Formation]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 157 |
 | 74 | [[Wendy Wood]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 157 |
 | 75 | [[Activation Energy]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 164 |
-| 76 | [[decision fatigue]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
+| 76 | [[Decision-Fatigue|decision fatigue]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
 | 77 | [[Barry-Schwartz|Barry Schwartz]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
 | 78 | [[Paradox of Choice]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 168 |
 | 79 | [[Herbert-Simon|Herbert Simon]] | — | — | 🔄 Mechanisms of Friction Reduction an... | 170 |
@@ -521,7 +521,7 @@ extraction_summary:
 | 85 | [[David Pauleen]] | — | — | 📊 Empirical Evidence: What Research R... | 192 |
 | 86 | [[PKM]] | — | — | 📊 Empirical Evidence: What Research R... | 192 |
 | 87 | [[Kenneth Kiewra]] | — | — | 📊 Empirical Evidence: What Research R... | 194 |
-| 88 | [[zettelkasten method]] | Zettelkasten | — | 📊 Empirical Evidence: What Research R... | 196 |
+| 88 | [[Zettelkasten-Method|zettelkasten method]] | Zettelkasten | — | 📊 Empirical Evidence: What Research R... | 196 |
 | 89 | [[Niklas Luhmann]] | — | — | 📊 Empirical Evidence: What Research R... | 196 |
 | 90 | [[Sönke Ahrens]] | — | — | 📊 Empirical Evidence: What Research R... | 196 |
 | 91 | [[Workflow Management Systems]] | — | — | 📊 Empirical Evidence: What Research R... | 201 |
@@ -547,7 +547,7 @@ extraction_summary:
 | 111 | [[Hydra]] | — | — | 🌱 Antifragile Architecture: Systems T... | 230 |
 | 112 | [[Optionality]] | — | — | 🌱 Antifragile Architecture: Systems T... | 238 |
 | 113 | [[Small Failures]] | Trial and Error with Small Failures | — | 🌱 Antifragile Architecture: Systems T... | 245 |
-| 114 | [[Via Negativa]] | — | — | 🌱 Antifragile Architecture: Systems T... | 247 |
+| 114 | [[via-negativa|Via Negativa]] | — | — | 🌱 Antifragile Architecture: Systems T... | 247 |
 | 115 | [[2025-11-24]] | — | — | 🌱 Antifragile Architecture: Systems T... | 247 |
 | 116 | [[2025-11-24]] | — | — | 🌱 Antifragile Architecture: Systems T... | 250 |
 | 117 | [[Redundancy]] | — | — | 🌱 Antifragile Architecture: Systems T... | 252 |
@@ -562,7 +562,7 @@ extraction_summary:
 | 126 | [[Yaneer Bar-Yam]] | — | — | 🌱 Antifragile Architecture: Systems T... | 272 |
 | 127 | [[Evolutionary Epistemology]] | — | — | 🌱 Antifragile Architecture: Systems T... | 275 |
 | 128 | [[Variation and Selective Retention]] | — | — | 🌱 Antifragile Architecture: Systems T... | 275 |
-| 129 | [[Systems Thinking]] | — | — | 🌱 Antifragile Architecture: Systems T... | 275 |
+| 129 | [[Systems-Thinking|Systems Thinking]] | — | — | 🌱 Antifragile Architecture: Systems T... | 275 |
 | 130 | [[Cybernetics]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 279 |
 | 131 | [[Systems Theory]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 279 |
 | 132 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Synthesis: Toward a Unified Framewo... | 279 |
@@ -683,7 +683,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Anki]]
 - [[Barry-Schwartz|Barry Schwartz]]
 - [[Bluma Zeigarnik]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive Coupling]]
 - [[Cognitive-Load|Cognitive Load]]
@@ -766,7 +766,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Systems Design Thinking]]
 - [[Systems Intelligence]]
 - [[Systems Theory]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Sönke Ahrens]]
 - [[Tiago Forte]]
 - [[Time as a Filter]]
@@ -774,7 +774,7 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Two-Minute Rule]]
 - [[Vannevar Bush]]
 - [[Variation and Selective Retention]]
-- [[Via Negativa]]
+- [[via-negativa|Via Negativa]]
 - [[Wendy Wood]]
 - [[Wil van der Aalst]]
 - [[William Jones]]
@@ -782,12 +782,12 @@ I'll conduct thorough research to ensure this foundational reference note is gro
 - [[Working-Memory|Working Memory]]
 - [[Yaneer Bar-Yam]]
 - [[Zeigarnik Effect]]
-- [[decision fatigue]]
+- [[Decision-Fatigue|decision fatigue]]
 - [[Flow]]
 - [[hormesis]]
 - [[Obsidian]]
 - [[PARA-Method|para method]]
-- [[zettelkasten method]]
+- [[Zettelkasten-Method|zettelkasten method]]
 
 ---
 

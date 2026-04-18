@@ -292,7 +292,7 @@ extraction_summary:
 > 
 > Understanding Stoicism's historical development illuminates its connections to multiple domains within a comprehensive knowledge system. **[[Epistemic-Autonomy-—-Epistemology|Epistemology]]** emerges as central to Stoic thought through their debate with Academic Skeptics over the possibility and criteria of knowledge, particularly their theory of kataleptic impressions as self-evidencing truth. This connects to **[[Cognitive-Science|Cognitive Science]]** through Stoic psychology of judgment and its anticipation of cognitive-behavioral therapy—the recognition that emotions result from evaluative beliefs that can be modified through rational examination. The Stoic emphasis on **[[Cognitive-Biases|Cognitive Biases]]** in the form of false judgments about value anticipates modern research on how systematic errors in thinking create suffering.
 > 
-> **[[Political-Philosophy|Political Philosophy]]** developed through Stoicism's transition from Greek city-state context to cosmopolitan Roman Empire, particularly their articulation of cosmopolitanism as moral framework transcending parochial loyalties. The tension between Stoic ideals and political realities visible in figures like Seneca and Marcus Aurelius connects to **[[Virtue-Ethics|Virtue Ethics]]** and its application in non-ideal circumstances. **[[Systems Thinking]]** appears in Stoic physics and its vision of cosmic interconnection, where individual events gain meaning through their place in larger rational order—an ancient anticipation of holistic approaches to understanding complex systems.
+> **[[Political-Philosophy|Political Philosophy]]** developed through Stoicism's transition from Greek city-state context to cosmopolitan Roman Empire, particularly their articulation of cosmopolitanism as moral framework transcending parochial loyalties. The tension between Stoic ideals and political realities visible in figures like Seneca and Marcus Aurelius connects to **[[Virtue-Ethics|Virtue Ethics]]** and its application in non-ideal circumstances. **[[Systems-Thinking|Systems Thinking]]** appears in Stoic physics and its vision of cosmic interconnection, where individual events gain meaning through their place in larger rational order—an ancient anticipation of holistic approaches to understanding complex systems.
 > 
 > **[[Learning Theory]]** emerges through Epictetus's emphasis on *askēsis* and deliberate practice, recognizing that intellectual understanding alone doesn't change behavior without systematic training—a principle confirmed by modern research on habit formation and skill acquisition. Stoicism's therapeutic dimension connects to **[[Positive Psychology]]** through its focus on human flourishing, resilience, and the cultivation of practical wisdom rather than mere theoretical knowledge. The historical evolution from early systematic philosophy to late practical ethics demonstrates how **[[Paradigm Shifts]]** occur when changing circumstances demand new emphases while preserving core commitments.
 > 
@@ -416,7 +416,7 @@ extraction_summary:
 - [[Stoic paradoxes]]
 - [[Stoic physics]]
 - [[Stoicism]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Tacitus]]
 - [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 - [[The Stoic Theory of Passions and Therapy]]
@@ -533,7 +533,7 @@ extraction_summary:
 | 88 | [[Cognitive-Biases|Cognitive Biases]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
 | 89 | [[Political-Philosophy|Political Philosophy]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
 | 90 | [[Virtue-Ethics|Virtue Ethics]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
-| 91 | [[Systems Thinking]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
+| 91 | [[Systems-Thinking|Systems Thinking]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
 | 92 | [[Learning Theory]] | — | — | ⚡ Historical Context and Philosophica... | 366 |
 | 93 | [[Positive Psychology]] | — | — | ⚡ Historical Context and Philosophica... | 366 |
 | 94 | [[Paradigm Shifts]] | — | — | ⚡ Historical Context and Philosophica... | 366 |
@@ -729,7 +729,7 @@ LIMIT 15
 - [[Stoic paradoxes]]
 - [[Stoic physics]]
 - [[Stoicism]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Tacitus]]
 - [[The-Historical-and-Intellectual-Origins-of-Stoicism|The Historical and Intellectual Origins of Stoicism]]
 - [[The Stoic Theory of Passions and Therapy]]

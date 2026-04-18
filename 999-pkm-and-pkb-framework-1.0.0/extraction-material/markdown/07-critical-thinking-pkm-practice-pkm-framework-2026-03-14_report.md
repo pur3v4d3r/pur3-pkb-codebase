@@ -736,7 +736,7 @@ extraction_summary:
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
 - [[Argument-Mapping|Argument Mapping]]
 - [[Toulmin-Model|Toulmin Model]]
-- [[Informal Logic]]
+- [[Informal-Logic]]
 - [[Epistemic-Humility|Epistemic Humility]]
 - [[Calibration]]
 - [[Causal Reasoning]]

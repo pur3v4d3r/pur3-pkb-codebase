@@ -40,7 +40,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -273,6 +273,22 @@ importance: high
 - [[ICAP-Framework|ICAP-Framework]]
 - [[Illusion-of-Knowing|Illusion-of-Knowing]]
 
+**Cross-report connections** *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*:
+- [[Melete|Melete]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive-Regulation]]
+- [[ICAP-Framework|ICAP-Framework]]
+- [[Illusion-of-Knowing|Illusion-of-Knowing]]
+
+**Cross-report connections** *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*:
+- [[Melete|Melete]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive-Regulation]]
+- [[ICAP-Framework|ICAP-Framework]]
+- [[Illusion-of-Knowing|Illusion-of-Knowing]]
+
+
+
 
 
 ## References
@@ -312,6 +328,72 @@ importance: high
 - **Baron, J. (1995). Myside bias in thinking about abortion. *Thinking and Reasoning, 1*(3), 221–235.**: An important empirical paper on actively open-minded thinking and myside bias. Documents the tendency for motivated reasoning to filter evidence in self-serving ways, directly relevant to Phase V's argument about the confirmation bias ceiling of solo silent reading and the necessity of social discourse.
 
 - **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation, Vol. 8* (pp. 47–89). Academic Press.**: The foundational working memory model paper, establishing the distinction between the phonological loop, visuospatial sketchpad, and central executive. The phonological loop mechanism central to this analysis is rooted in this framework.
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
+
+- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
+
+- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
+
+- **Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684.**: The original levels-of-processing paper. Establishes that depth of semantic processing — not repetition or effort per se — determines retention and comprehension quality. Foundational to Phase II's framework and the distinction between elaborative and evaluative processing.
+
+- **Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: The paper establishing the ICAP Framework used as a central analytical tool in Phase II. Demonstrates that Constructive and Interactive engagement modes produce significantly better learning outcomes than Active and Passive modes, and that the mode of engagement is not determined by the activity but by the cognitive operations the learner performs.
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about Knowing* (pp. 185–205). MIT Press.**: The foundational treatment of Desirable Difficulties. Establishes that processing conditions that feel more effortful produce better retention and transfer, and that fluency is a misleading guide to learning depth. Connected to the Fluency Illusion argument in Phase III.
+
+- **Rayner, K. (1998). Eye movements in reading and information processing: 20 years of research. *Psychological Bulletin, 124*(3), 372–422.**: The most comprehensive review of eye-tracking data on reading behavior, documenting regression patterns and their relationship to inference generation and complex text processing. Provides empirical grounding for the self-pacing mechanism in Phase III.
+
+- **Baron, J. (1995). Myside bias in thinking about abortion. *Thinking and Reasoning, 1*(3), 221–235.**: An important empirical paper on actively open-minded thinking and myside bias. Documents the tendency for motivated reasoning to filter evidence in self-serving ways, directly relevant to Phase V's argument about the confirmation bias ceiling of solo silent reading and the necessity of social discourse.
+
+- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation, Vol. 8* (pp. 47–89). Academic Press.**: The foundational working memory model paper, establishing the distinction between the phonological loop, visuospatial sketchpad, and central executive. The phonological loop mechanism central to this analysis is rooted in this framework.
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
+
+- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
+
+- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
+
+- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
+
+- **Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684.**: The original levels-of-processing paper. Establishes that depth of semantic processing — not repetition or effort per se — determines retention and comprehension quality. Foundational to Phase II's framework and the distinction between elaborative and evaluative processing.
+
+- **Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: The paper establishing the ICAP Framework used as a central analytical tool in Phase II. Demonstrates that Constructive and Interactive engagement modes produce significantly better learning outcomes than Active and Passive modes, and that the mode of engagement is not determined by the activity but by the cognitive operations the learner performs.
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about Knowing* (pp. 185–205). MIT Press.**: The foundational treatment of Desirable Difficulties. Establishes that processing conditions that feel more effortful produce better retention and transfer, and that fluency is a misleading guide to learning depth. Connected to the Fluency Illusion argument in Phase III.
+
+- **Rayner, K. (1998). Eye movements in reading and information processing: 20 years of research. *Psychological Bulletin, 124*(3), 372–422.**: The most comprehensive review of eye-tracking data on reading behavior, documenting regression patterns and their relationship to inference generation and complex text processing. Provides empirical grounding for the self-pacing mechanism in Phase III.
+
+- **Baron, J. (1995). Myside bias in thinking about abortion. *Thinking and Reasoning, 1*(3), 221–235.**: An important empirical paper on actively open-minded thinking and myside bias. Documents the tendency for motivated reasoning to filter evidence in self-serving ways, directly relevant to Phase V's argument about the confirmation bias ceiling of solo silent reading and the necessity of social discourse.
+
+- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation, Vol. 8* (pp. 47–89). Academic Press.**: The foundational working memory model paper, establishing the distinction between the phonological loop, visuospatial sketchpad, and central executive. The phonological loop mechanism central to this analysis is rooted in this framework.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

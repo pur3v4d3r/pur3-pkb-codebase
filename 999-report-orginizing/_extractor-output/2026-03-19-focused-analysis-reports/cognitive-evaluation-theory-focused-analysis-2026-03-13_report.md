@@ -614,7 +614,7 @@ extraction_summary:
 
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Feedback Effects on Learning]]
-- [[Autonomy-Supportive Teaching]]
+- [[Autonomy-Supportive-Teaching|Autonomy-Supportive Teaching]]
 - [[Gamification in Education]]
 
 #### Contrasts With

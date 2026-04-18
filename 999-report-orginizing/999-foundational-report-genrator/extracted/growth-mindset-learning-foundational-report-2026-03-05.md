@@ -120,7 +120,7 @@ related:
   - "[[Formative-Assessment|Formative Assessment]]"
   - "[[Productive-Failure|Productive Failure]]"
   - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
-  - "[[Grit and Perseverance]]"
+  - "[[Grit-and-Perseverance|Grit and Perseverance]]"
 
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"

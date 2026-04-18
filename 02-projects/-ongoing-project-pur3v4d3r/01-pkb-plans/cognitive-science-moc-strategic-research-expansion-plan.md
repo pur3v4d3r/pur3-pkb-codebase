@@ -48,15 +48,15 @@ These fill critical theoretical gaps in your existing pillars:
 > Your current Pillar I covers philosophical and structural frameworks but lacks computational precision. These notes provide the mathematical/computational rigor needed for deeper integration with AI/ML domains.
 
 1. **[[Computational Theory of Mind]]**
-   - **Connection to MOC**: Bridges [[Cognitive-Architecture]] ↔ [[Information-Theory]] ↔ [[Artificial Intelligence]]
+   - **Connection to MOC**: Bridges [[Cognitive-Architecture]] ↔ [[Information-Theory]] ↔ [[Artificial-Intelligence]]
    - **Research Value**: Provides computational substrate for understanding mental representation
-   - **Integration Points**: Links to [[Symbol Systems]], [[Connectionism]], [[Neural Networks]]
+   - **Integration Points**: Links to [[Symbol Systems]], [[Connectionism]], [[Neural-Networks]]
    - **Taxonomy Tags**: `#cognitive-science/foundations`, `#computational-modeling`, `#philosophy-of-mind`
 
 2. **[[Connectionism]]**
    - **Connection to MOC**: Complements [[Dual-Process-Theory]] with parallel distributed processing
    - **Research Value**: Alternative to symbolic AI; neural network foundations
-   - **Integration Points**: [[parallel-distributed-processing]] ↔ [[Neural Networks]] ↔ [[Pattern Recognition]]
+   - **Integration Points**: [[parallel-distributed-processing]] ↔ [[Neural-Networks]] ↔ [[Pattern-Recognition]]
    - **Taxonomy Tags**: `#cognitive-architecture`, `#computational-modeling`, `#neural-networks`
 
 3. **[[Bayesian Brain Hypothesis]]**
@@ -74,13 +74,13 @@ These fill critical theoretical gaps in your existing pillars:
 5. **[[Active-Inference]]**
    - **Connection to MOC**: Bridges [[Perception]] ↔ [[Action]] ↔ [[Learning]] under unified framework
    - **Research Value**: Explains agency, exploration, habit formation
-   - **Integration Points**: [[Free-Energy-Principle]] ↔ [[Motor Control]] ↔ [[Goal-Directed Behavior]]
+   - **Integration Points**: [[Free-Energy-Principle]] ↔ [[Motor Control]] ↔ [[Goal-Directed-Behavior]]
    - **Taxonomy Tags**: `#action`, `#decision-making`, `#predictive-processing`
 
 ### Pillar II Enhancement: Memory Encoding & Consolidation Mechanisms
 
 6. **[[Encoding-Specificity-Principle]]**
-   - **Connection to MOC**: Explains [[Retrospective Memory]] ↔ [[Context-Dependent Memory]] ↔ [[Retrieval Cues]]
+   - **Connection to MOC**: Explains [[Retrospective Memory]] ↔ [[Context-Dependent-Memory]] ↔ [[Retrieval Cues]]
    - **Research Value**: Foundational principle for [[Spaced-Repetition]] optimization
    - **Integration Points**: [[Transfer-Appropriate-Processing]] ↔ [[State-Dependent Learning]]
    - **Taxonomy Tags**: `#memory-systems`, `#encoding`, `#retrieval-practice`
@@ -88,19 +88,19 @@ These fill critical theoretical gaps in your existing pillars:
 7. **[[Consolidation Theory]]**
    - **Connection to MOC**: Mechanistic explanation for [[Curve of Forgetting]] and [[Spaced-Repetition]]
    - **Research Value**: Sleep's role in memory, synaptic consolidation, systems consolidation
-   - **Integration Points**: [[Neuroplasticity]] ↔ [[Sleep-Dependent Memory]] ↔ [[Long-Term Potentiation]]
+   - **Integration Points**: [[Neuroplasticity]] ↔ [[Sleep-Dependent Memory]] ↔ [[Long-Term-Potentiation]]
    - **Taxonomy Tags**: `#memory-systems`, `#neuroscience`, `#consolidation`
 
 8. **[[Reconsolidation]]**
    - **Connection to MOC**: Explains memory malleability, therapeutic interventions
    - **Research Value**: Memory modification, trauma therapy, misinformation effects
-   - **Integration Points**: [[Memory Updating]] ↔ [[Cognitive Restructuring]] ↔ [[Clinical Applications]]
+   - **Integration Points**: [[Memory Updating]] ↔ [[Cognitive-Restructuring]] ↔ [[Clinical Applications]]
    - **Taxonomy Tags**: `#memory-systems`, `#clinical-cognition`, `#therapeutic-interventions`
 
 9. **[[Levels of Processing Framework]]**
    - **Connection to MOC**: Complements [[Cognitive-Load-Theory]] with encoding depth principles
    - **Research Value**: Explains why [[Elaborative-Interrogation]] and [[self-explanation]] work
-   - **Integration Points**: [[Shallow-Processing]] ↔ [[Deep-Processing]] ↔ [[Elaborative Encoding]]
+   - **Integration Points**: [[Shallow-Processing]] ↔ [[Deep-Processing]] ↔ [[Elaborative-Encoding]]
    - **Taxonomy Tags**: `#memory-systems`, `#learning-theory`, `#encoding-strategies`
 
 10. **[[Transfer-Appropriate-Processing]]**
@@ -126,7 +126,7 @@ These fill critical theoretical gaps in your existing pillars:
 13. **[[Capacity Theories of Attention]]**
     - **Connection to MOC**: Theoretical foundation for [[Cognitive-Load-Theory]] attention components
     - **Research Value**: Resource allocation, dual-task performance
-    - **Integration Points**: [[Divided Attention]] ↔ [[Cognitive Resources]] ↔ [[Multitasking]]
+    - **Integration Points**: [[Divided-Attention]] ↔ [[Cognitive Resources]] ↔ [[Multitasking]]
     - **Taxonomy Tags**: `#attention`, `#cognitive-resources`, `#executive-function`
 
 ### Pillar IV Enhancement: Skill Acquisition & Expertise
@@ -155,7 +155,7 @@ These fill critical theoretical gaps in your existing pillars:
 ### Visual Perception Core
 
 16. **[[Visual Perception]]**
-    - **Connection to MOC**: Foundational for [[Feature Integration Theory]] ↔ [[Pattern Recognition]]
+    - **Connection to MOC**: Foundational for [[Feature Integration Theory]] ↔ [[Pattern-Recognition]]
     - **Research Value**: Bottom-up vs. top-down processing, Gestalt principles
     - **Integration Points**: [[Object Recognition]] ↔ [[Scene Perception]] ↔ [[Visual Attention]]
     - **Taxonomy Tags**: `#perception`, `#visual-cognition`, `#sensory-processing`
@@ -166,7 +166,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Integration Points**: [[Feature Detection]] ↔ [[Perceptual Organization]] ↔ [[Recognition-by-Components]]
     - **Taxonomy Tags**: `#perception`, `#pattern-recognition`, `#visual-cognition`
 
-18. **[[Pattern Recognition]]**
+18. **[[Pattern-Recognition]]**
     - **Connection to MOC**: Cross-modal hub connecting [[Vision]] ↔ [[Audition]] ↔ [[Learning]]
     - **Research Value**: Template matching, feature analysis, structural descriptions
     - **Integration Points**: [[Expertise-Development]] ↔ [[Chunking]] ↔ [[Perceptual Learning]]
@@ -203,7 +203,7 @@ These fill critical theoretical gaps in your existing pillars:
 23. **[[Perceptual Learning]]**
     - **Connection to MOC**: Bridges [[Perception]] ↔ [[Learning Processes]] ↔ [[Expertise]]
     - **Research Value**: How repeated exposure improves discrimination
-    - **Integration Points**: [[Pattern Recognition]] ↔ [[Skill-Acquisition]] ↔ [[Neural-Plasticity]]
+    - **Integration Points**: [[Pattern-Recognition]] ↔ [[Skill-Acquisition]] ↔ [[Neural-Plasticity]]
     - **Taxonomy Tags**: `#perception`, `#learning-processes`, `#expertise-development`
 
 24. **[[Depth Perception]]**
@@ -244,7 +244,7 @@ These fill critical theoretical gaps in your existing pillars:
 28. **[[language-comprehension]]**
     - **Connection to MOC**: Integrates [[Speech Perception]] ↔ [[Semantic-Memory]] ↔ [[Working-Memory]]
     - **Research Value**: Parsing, syntactic processing, semantic integration
-    - **Integration Points**: [[Reading Comprehension]] ↔ [[Discourse Processing]] ↔ [[Inference]]
+    - **Integration Points**: [[Reading-Comprehension]] ↔ [[Discourse Processing]] ↔ [[Inference]]
     - **Taxonomy Tags**: `#language`, `#comprehension`, `#semantic-processing`
 
 29. **[[Language Production]]**
@@ -288,7 +288,7 @@ These fill critical theoretical gaps in your existing pillars:
 35. **[[Reading Processes]]**
     - **Connection to MOC**: Complex skill integrating [[Visual Perception]] ↔ [[Language]] ↔ [[Memory]]
     - **Research Value**: Decoding, sight word recognition, reading comprehension
-    - **Integration Points**: [[Phonological Awareness]] ↔ [[Orthographic Processing]] ↔ [[Comprehension Strategies]]
+    - **Integration Points**: [[Phonological-Awareness]] ↔ [[Orthographic Processing]] ↔ [[Comprehension Strategies]]
     - **Taxonomy Tags**: `#language`, `#reading`, `#literacy`
 
 ### Pragmatics & Social Language Use
@@ -325,7 +325,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Integration Points**: [[Broca's Aphasia]] ↔ [[Wernicke's Aphasia]] ↔ [[Reading Disorders]]
     - **Taxonomy Tags**: `#language`, `#clinical-cognition`, `#neuropsychology`
 
-41. **[[Inner Speech]]**
+41. **[[Inner-Speech]]**
     - **Connection to MOC**: Links [[Language]] ↔ [[Working-Memory]] ↔ [[consciousness]]
     - **Research Value**: Phonological loop function, self-regulation, thought
     - **Integration Points**: [[Verbal Working Memory]] ↔ [[Self-Talk]] ↔ [[Metacognition]]
@@ -338,7 +338,7 @@ These fill critical theoretical gaps in your existing pillars:
 <span style='color: #FFC700;'>**Your #3 Research Priority**</span> - High-value integration domain
 
 > [!helpful-tip] Cross-Domain Supernode Potential
-> Social cognition notes will create bridges to [[Emotion]], [[Language]], [[Decision-Making]], [[Clinical Psychology]], and [[Developmental Psychology]]—making them knowledge graph "hub" notes.
+> Social cognition notes will create bridges to [[Emotion]], [[Language]], [[Decision-Making]], [[Clinical-Psychology]], and [[Developmental Psychology]]—making them knowledge graph "hub" notes.
 
 42. **[[Theory of Mind]]**
     - **Connection to MOC**: Foundation for [[Social Cognition]] ↔ [[Perspective-Taking]] ↔ [[Empathy]]
@@ -409,7 +409,7 @@ These fill critical theoretical gaps in your existing pillars:
 > [!methodology-and-sources] Application Value
 > These notes translate cognitive theory into design principles, creating value for [[Instructional-Design]], [[Interface Design]], [[PKM Optimization]], and [[Productivity-Systems]].
 
-52. **[[Human-Computer Interaction]]**
+52. **[[Human-Computer-Interaction]]**
     - **Connection to MOC**: Applies [[Cognitive Ergonomics]] ↔ [[Usability]] ↔ [[Interface Design]]
     - **Research Value**: User-centered design, interaction patterns, accessibility
     - **Integration Points**: [[Mental-Models]] ↔ [[Affordances]] ↔ [[Cognitive Load in UI]]
@@ -569,7 +569,7 @@ These fill critical theoretical gaps in your existing pillars:
 
 1. **[[Working-Memory]]** - Will gain 20+ new connections from language, perception notes
 2. **[[Attention]]** - Will integrate perception, language, social cognition
-3. **[[Pattern Recognition]]** - Cross-domain hub (perception, learning, expertise)
+3. **[[Pattern-Recognition]]** - Cross-domain hub (perception, learning, expertise)
 4. **[[Theory of Mind]]** - Social cognition anchor with language, development links
 5. **[[Bayesian Brain Hypothesis]]** - Meta-theoretical integrator across all pillars
 
@@ -654,7 +654,7 @@ These fill critical theoretical gaps in your existing pillars:
    - *Knowledge Graph Role*: Could become central organizing principle for entire MOC
 
 2. **[[Connectionism]]**
-   - *Connection*: Computational substrate for [[Pattern Recognition]], [[Learning]], [[Memory]]
+   - *Connection*: Computational substrate for [[Pattern-Recognition]], [[Learning]], [[Memory]]
    - *Depth Potential*: Neural network models, parallel distributed processing, emergent computation
    - *Knowledge Graph Role*: Bridges cognitive science with AI/ML; complements symbolic approaches
 

@@ -1202,7 +1202,7 @@ extraction_summary:
 - [[Cognitive-Architecture]]
 - [[Cognitive Bias Mitigation Protocols]]
 - [[Cognitive Biases and Debiasing]]
-- [[Cognitive Conflict]]
+- [[Cognitive-Conflict]]
 - [[Cognitive-Development-Theory]]
 - [[Cognitive Engagement Architecture]]
 - [[Cognitive-Forcing-Functions]]
@@ -1228,7 +1228,7 @@ extraction_summary:
 - [[Death, Mortality, and the Stoic Practice of Memento Mori]]
 - [[Debiasing-Interventions]]
 - [[Debugging Strategies for Reasoning Errors]]
-- [[Decision Making Under Uncertainty]]
+- [[Decision-Making-Under-Uncertainty]]
 - [[Deductive Reasoning Techniques]]
 - [[Deep Dive Report Prompt]]
 - [[Desirable-Difficulties]]
@@ -1244,7 +1244,7 @@ extraction_summary:
 - [[Dunning-Kruger research]]
 - [[Educational-Philosophy]]
 - [[Educational-Psychology]]
-- [[Educational Technology]]
+- [[Educational-Technology]]
 - [[Elaboration-Theory]]
 - [[Elaborative-Interrogation]]
 - [[Elaborative-Retrieval]]
@@ -1259,7 +1259,7 @@ extraction_summary:
 - [[Epistemic Virtue Development]]
 - [[Epistemic Virtues]]
 - [[Epistemology]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice]]
 - [[Expertise-Development]]
 - [[Extended-Thinking-Architecture]]
 - [[FARG v1.0]]
@@ -1522,7 +1522,7 @@ extraction_summary:
 | 66 | [[Socratic-Dialectic]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
 | 67 | [[Argumentation-Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
 | 68 | [[Thesis-Antithesis-Synthesis]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
-| 69 | [[Cognitive Conflict]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
+| 69 | [[Cognitive-Conflict]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
 | 70 | [[Polanyi's Tacit Knowledge]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
 | 71 | [[Nonaka's SECI Model]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
 | 72 | [[Embodied-Cognition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
@@ -1530,7 +1530,7 @@ extraction_summary:
 | 74 | [[Constructivist Learning Environments]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 75 | [[Zone-of-Proximal-Development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 76 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
-| 77 | [[Educational Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
+| 77 | [[Educational-Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 78 | [[pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 79 | [[Andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 80 | [[Heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
@@ -1714,7 +1714,7 @@ extraction_summary:
 | 258 | [[Socratic-Dialectic]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
 | 259 | [[Argumentation-Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
 | 260 | [[Thesis-Antithesis-Synthesis]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
-| 261 | [[Cognitive Conflict]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
+| 261 | [[Cognitive-Conflict]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
 | 262 | [[Polanyi's Tacit Knowledge]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
 | 263 | [[Nonaka's SECI Model]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
 | 264 | [[Embodied-Cognition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
@@ -1722,7 +1722,7 @@ extraction_summary:
 | 266 | [[Constructivist Learning Environments]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 267 | [[Zone-of-Proximal-Development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 268 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
-| 269 | [[Educational Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
+| 269 | [[Educational-Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 270 | [[pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 271 | [[Andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 272 | [[Heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
@@ -1918,7 +1918,7 @@ extraction_summary:
 | 462 | [[Dual-Process-Theory]] | — | — | ═════════════════════════════════════... | 4941 |
 | 463 | [[Cognitive-Load-Theory]] | — | — | ═════════════════════════════════════... | 4942 |
 | 464 | [[Argument-Analysis]] | — | — | ═════════════════════════════════════... | 4943 |
-| 465 | [[Decision Making Under Uncertainty]] | — | — | ═════════════════════════════════════... | 4944 |
+| 465 | [[Decision-Making-Under-Uncertainty]] | — | — | ═════════════════════════════════════... | 4944 |
 | 466 | [[Cognitive Biases and Debiasing]] | — | — | ═════════════════════════════════════... | 4945 |
 | 467 | [[Scientific-Reasoning]] | — | — | ═════════════════════════════════════... | 4946 |
 | 468 | [[Transfer-of-Learning]] | — | — | ═════════════════════════════════════... | 4947 |
@@ -1954,7 +1954,7 @@ extraction_summary:
 | 498 | [[Academic Research]] | — | — | ═════════════════════════════════════... | 4987 |
 | 499 | [[Strategic-Planning]] | — | — | ═════════════════════════════════════... | 4988 |
 | 500 | [[Problem Solving in Complex Domains]] | — | — | ═════════════════════════════════════... | 4989 |
-| 501 | [[Evidence-Based Practice]] | — | — | ═════════════════════════════════════... | 4990 |
+| 501 | [[Evidence-Based-Practice]] | — | — | ═════════════════════════════════════... | 4990 |
 | 502 | [[Foundational-Logic]] | — | — | ═════════════════════════════════════... | 4996 |
 | 503 | [[Cognitive-Development-Theory]] | — | — | ═════════════════════════════════════... | 4997 |
 | 504 | [[Information-Processing-Models]] | — | — | ═════════════════════════════════════... | 4998 |
@@ -2899,7 +2899,7 @@ tags:
 - [[Cognitive-Architecture]]
 - [[Cognitive Bias Mitigation Protocols]]
 - [[Cognitive Biases and Debiasing]]
-- [[Cognitive Conflict]]
+- [[Cognitive-Conflict]]
 - [[Cognitive-Development-Theory]]
 - [[Cognitive Engagement Architecture]]
 - [[Cognitive-Forcing-Functions]]
@@ -2925,7 +2925,7 @@ tags:
 - [[Death, Mortality, and the Stoic Practice of Memento Mori]]
 - [[Debiasing-Interventions]]
 - [[Debugging Strategies for Reasoning Errors]]
-- [[Decision Making Under Uncertainty]]
+- [[Decision-Making-Under-Uncertainty]]
 - [[Deductive Reasoning Techniques]]
 - [[Deep Dive Report Prompt]]
 - [[Desirable-Difficulties]]
@@ -2941,7 +2941,7 @@ tags:
 - [[Dunning-Kruger research]]
 - [[Educational-Philosophy]]
 - [[Educational-Psychology]]
-- [[Educational Technology]]
+- [[Educational-Technology]]
 - [[Elaboration-Theory]]
 - [[Elaborative-Interrogation]]
 - [[Elaborative-Retrieval]]
@@ -2956,7 +2956,7 @@ tags:
 - [[Epistemic Virtue Development]]
 - [[Epistemic Virtues]]
 - [[Epistemology]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice]]
 - [[Expertise-Development]]
 - [[Extended-Thinking-Architecture]]
 - [[FARG v1.0]]

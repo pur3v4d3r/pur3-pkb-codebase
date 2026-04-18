@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -538,6 +538,34 @@ importance: high
 - [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]
 - [[Fluency-Illusion|Fluency-Illusion]]
 
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Single-Loop-Learning|Single-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Zimmerman's-Cyclical-Model-of-Self-Regulation|Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+- [[Monitoring-Regulation-Decoupling|Monitoring-Regulation-Decoupling]]
+- [[Nelson-Narens-Model|Nelson-Narens-Model]]
+- [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]
+- [[Fluency-Illusion|Fluency-Illusion]]
+
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Single-Loop-Learning|Single-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Zimmerman's-Cyclical-Model-of-Self-Regulation|Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+- [[Monitoring-Regulation-Decoupling|Monitoring-Regulation-Decoupling]]
+- [[Nelson-Narens-Model|Nelson-Narens-Model]]
+- [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]
+- [[Fluency-Illusion|Fluency-Illusion]]
+
+
+
+
+
 
 
 
@@ -569,6 +597,54 @@ importance: high
 - **Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.**: The foundational text on single-loop vs. double-loop learning and defensive routines in organizations. Provides the structural analogue for the FAR Transfer phase (Phase VI) connecting the Zimmerman cycle's self-reflection dynamics to organizational learning failure modes.
 
 - **Zimmerman, B. J., & Moylan, A. R. (2009). Self-regulation: Where metacognition and motivation intersect. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Handbook of metacognition in education* (pp. 299–315). Routledge.**: Zimmerman's own most sophisticated treatment of the monitoring-motivation intersection, acknowledging the role of metacognitive processes in mediating cyclical learning. Useful for nuanced engagement with the received view and for identifying where Zimmerman himself acknowledged conditional dependencies.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive articulation of the three-phase cyclical model. Presents the sub-processes within each phase with considerable detail and connects them to the Social Cognitive Theory foundation. Essential reading for understanding the received view at its best. Particularly relevant for Phase I (thesis articulation) and for understanding the self-efficacy sub-processes in the Forethought Phase.
+
+- **Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.**: The most comprehensive treatment of self-efficacy theory, including the four sources of self-efficacy information, the mechanisms of self-efficacy effects on performance, and the distinction between self-efficacy and related constructs. Foundational for understanding the model's motivational architecture. Relevant for Phase I and Phase IV (self-efficacy assumption analysis).
+
+- **Azevedo, R., & Cromley, J. G. (2004). Does training on self-regulated learning facilitate students' learning with hypermedia? *Journal of Educational Psychology*, 96(3), 523–535.**: Process-tracing study demonstrating that SRL training improved some regulatory processes but that monitoring-regulation decoupling persisted — students who monitored did not consistently regulate. Directly relevant to Phase III's empirical challenge. Important for understanding the conditions under which the monitoring-regulation link breaks down.
+
+- **Efklides, A. (2011). Interactions of metacognition with motivation and affect in self-regulated learning: The MASRL model. *Educational Psychologist*, 46(1), 6–25.**: Presents the Metacognitive and Affective Self-Regulated Learning (MASRL) model, which extends the Zimmerman framework to incorporate metacognitive experiences as the phenomenological signals mediating between monitoring and regulation. Directly relevant to Phase III and Phase IV's philosophical challenge: metacognitive experiences are shown to be influenced by fluency, affect, and task characteristics in ways that can decouple them from actual cognitive states.
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated engagement in learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The foundational presentation of the COPES model, which serves as the primary alternative interpretation in Phase IV and as a key element of the reconstructive synthesis. The conditional, event-driven architecture provides the theoretical machinery for understanding *when* regulation is triggered, which the Zimmerman model underspecifies.
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. Bower (Ed.), *The psychology of learning and motivation* (Vol. 26, pp. 125–173). Academic Press.**: The foundational articulation of the two-level metacognitive architecture (object level / meta level, monitoring / control). Provides the formal basis for understanding why monitoring-regulation decoupling is architecturally possible. Essential for Phase IV's alternative interpretations and for the calibration-dependency principle in Phase VI.
+
+- **Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.**: The foundational text on single-loop vs. double-loop learning and defensive routines in organizations. Provides the structural analogue for the FAR Transfer phase (Phase VI) connecting the Zimmerman cycle's self-reflection dynamics to organizational learning failure modes.
+
+- **Zimmerman, B. J., & Moylan, A. R. (2009). Self-regulation: Where metacognition and motivation intersect. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Handbook of metacognition in education* (pp. 299–315). Routledge.**: Zimmerman's own most sophisticated treatment of the monitoring-motivation intersection, acknowledging the role of metacognitive processes in mediating cyclical learning. Useful for nuanced engagement with the received view and for identifying where Zimmerman himself acknowledged conditional dependencies.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive articulation of the three-phase cyclical model. Presents the sub-processes within each phase with considerable detail and connects them to the Social Cognitive Theory foundation. Essential reading for understanding the received view at its best. Particularly relevant for Phase I (thesis articulation) and for understanding the self-efficacy sub-processes in the Forethought Phase.
+
+- **Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.**: The most comprehensive treatment of self-efficacy theory, including the four sources of self-efficacy information, the mechanisms of self-efficacy effects on performance, and the distinction between self-efficacy and related constructs. Foundational for understanding the model's motivational architecture. Relevant for Phase I and Phase IV (self-efficacy assumption analysis).
+
+- **Azevedo, R., & Cromley, J. G. (2004). Does training on self-regulated learning facilitate students' learning with hypermedia? *Journal of Educational Psychology*, 96(3), 523–535.**: Process-tracing study demonstrating that SRL training improved some regulatory processes but that monitoring-regulation decoupling persisted — students who monitored did not consistently regulate. Directly relevant to Phase III's empirical challenge. Important for understanding the conditions under which the monitoring-regulation link breaks down.
+
+- **Efklides, A. (2011). Interactions of metacognition with motivation and affect in self-regulated learning: The MASRL model. *Educational Psychologist*, 46(1), 6–25.**: Presents the Metacognitive and Affective Self-Regulated Learning (MASRL) model, which extends the Zimmerman framework to incorporate metacognitive experiences as the phenomenological signals mediating between monitoring and regulation. Directly relevant to Phase III and Phase IV's philosophical challenge: metacognitive experiences are shown to be influenced by fluency, affect, and task characteristics in ways that can decouple them from actual cognitive states.
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated engagement in learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The foundational presentation of the COPES model, which serves as the primary alternative interpretation in Phase IV and as a key element of the reconstructive synthesis. The conditional, event-driven architecture provides the theoretical machinery for understanding *when* regulation is triggered, which the Zimmerman model underspecifies.
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. Bower (Ed.), *The psychology of learning and motivation* (Vol. 26, pp. 125–173). Academic Press.**: The foundational articulation of the two-level metacognitive architecture (object level / meta level, monitoring / control). Provides the formal basis for understanding why monitoring-regulation decoupling is architecturally possible. Essential for Phase IV's alternative interpretations and for the calibration-dependency principle in Phase VI.
+
+- **Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.**: The foundational text on single-loop vs. double-loop learning and defensive routines in organizations. Provides the structural analogue for the FAR Transfer phase (Phase VI) connecting the Zimmerman cycle's self-reflection dynamics to organizational learning failure modes.
+
+- **Zimmerman, B. J., & Moylan, A. R. (2009). Self-regulation: Where metacognition and motivation intersect. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Handbook of metacognition in education* (pp. 299–315). Routledge.**: Zimmerman's own most sophisticated treatment of the monitoring-motivation intersection, acknowledging the role of metacognitive processes in mediating cyclical learning. Useful for nuanced engagement with the received view and for identifying where Zimmerman himself acknowledged conditional dependencies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

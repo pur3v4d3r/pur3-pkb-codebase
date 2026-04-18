@@ -116,7 +116,7 @@ related:
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Argument-Analysis|Argument Analysis]]"
-  - "[[Decision Making Under Uncertainty]]"
+  - "[[Decision-Making-Under-Uncertainty|Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific-Reasoning|Scientific Reasoning]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
@@ -157,7 +157,7 @@ applied-in:
   - "[[Academic Research]]"
   - "[[Strategic-Planning|Strategic Planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based Practice]]"
+  - "[[Evidence-Based-Practice|Evidence-Based Practice]]"
 builds-on:
   - "[[Foundational-Logic|Foundational Logic]]"
   - "[[Cognitive-Development-Theory|Cognitive Development Theory]]"
@@ -623,7 +623,7 @@ The fundamental problem facing critical thinking development is not knowledge ac
 
 ### The Structure Training Imperative
 
-Halpern's empirically-validated four-part model for achieving transfer specifies that effective critical thinking instruction must include **structure training** alongside skills instruction. While teaching specific reasoning techniques (such as identifying [[Logical Fallacies]], evaluating [[Argument Strength]], or conducting [[Hypothesis-Testing|Hypothesis Testing]]) provides necessary tools, structure training teaches learners to recognize the *underlying structural patterns* common across superficially different problems. For instance, recognizing that a political debate about healthcare policy, a business decision about market expansion, and a personal choice about career change all involve weighing tradeoffs between competing values allows learners to transfer decision-making frameworks across domains. This structural abstraction operates as a form of [[Pattern Recognition]] that triggers strategy deployment when novel situations match stored structural templates.
+Halpern's empirically-validated four-part model for achieving transfer specifies that effective critical thinking instruction must include **structure training** alongside skills instruction. While teaching specific reasoning techniques (such as identifying [[Logical Fallacies]], evaluating [[Argument Strength]], or conducting [[Hypothesis-Testing|Hypothesis Testing]]) provides necessary tools, structure training teaches learners to recognize the *underlying structural patterns* common across superficially different problems. For instance, recognizing that a political debate about healthcare policy, a business decision about market expansion, and a personal choice about career change all involve weighing tradeoffs between competing values allows learners to transfer decision-making frameworks across domains. This structural abstraction operates as a form of [[Pattern-Recognition|Pattern Recognition]] that triggers strategy deployment when novel situations match stored structural templates.
 
 The challenge, as [[Robert-Ennis|Robert Ennis]] and [[John McPeck]]'s debate highlights, is that structure training must be embedded within domain-specific content to avoid creating decontextualized skills that learners cannot activate in authentic contexts. The solution involves what Ennis terms the **infusion approach**: explicitly teaching critical thinking principles while simultaneously embedding them in meaningful domain-specific problems. This dual-layer approach develops both the recognition patterns that trigger deployment (through exposure to varied structural instances) and the domain knowledge necessary for competent execution (through contextualized practice). Empirical validation comes from studies using the [[PENCRISAL]] framework, which assesses critical thinking across five dimensions—deductive reasoning, inductive reasoning, practical reasoning, decision-making, and problem-solving—finding that improvements persist across time when instruction combines explicit strategy teaching with rich domain contexts.
 

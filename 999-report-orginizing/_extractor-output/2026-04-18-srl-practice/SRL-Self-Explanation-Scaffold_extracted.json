@@ -1,0 +1,536 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:35.137619",
+    "source_file": "SRL-Self-Explanation-Scaffold.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\srl-practice\\srl-system\\SRL-Self-Explanation-Scaffold.md",
+    "source_file_size_bytes": 5949,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "type": "srl-scaffold",
+      "status": "evergreen",
+      "created": "{{date}}",
+      "updated": "{{date}}",
+      "tags": [
+        "srl-system",
+        "self-explanation",
+        "performance-phase",
+        "deep-processing",
+        "scaffold",
+        "reading-strategy"
+      ],
+      "aliases": [
+        "Self-Explanation Scaffold",
+        "Deep Processing Template"
+      ]
+    },
+    "word_count": 746,
+    "character_count": 5072,
+    "line_count": 140,
+    "heading_count": 10
+  },
+  "extraction_summary": {
+    "total_items_extracted": 37,
+    "by_type": {
+      "headings": 10,
+      "callouts": 5,
+      "wiki_links": 15,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 1,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 6,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "🔬 Self-Explanation Scaffold",
+      "anchor": "self-explanation-scaffold",
+      "line_number": 22,
+      "source": "SRL-Self-Explanation-Scaffold.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Section: _______________",
+          "anchor": "section",
+          "line_number": 36,
+          "source": "SRL-Self-Explanation-Scaffold.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Core Claim Extraction",
+              "anchor": "1-core-claim-extraction",
+              "line_number": 41,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Mechanism Reconstruction",
+              "anchor": "2-mechanism-reconstruction",
+              "line_number": 51,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Evidence & Argument Assessment",
+              "anchor": "3-evidence-argument-assessment",
+              "line_number": 65,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Assumption Detection",
+              "anchor": "4-assumption-detection",
+              "line_number": 82,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. PKB Connection Mapping",
+              "anchor": "5-pkb-connection-mapping",
+              "line_number": 95,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6. Question Generation",
+              "anchor": "6-question-generation",
+              "line_number": 110,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "7. Compression Test *(The Two-Sentence Explanation)*",
+              "anchor": "7-compression-test-the-two-sentence-explanation",
+              "line_number": 120,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "8. Transfer Probe *(Optional — for advanced practice)*",
+              "anchor": "8-transfer-probe-optional-for-advanced-practice",
+              "line_number": 134,
+              "source": "SRL-Self-Explanation-Scaffold.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Purpose",
+        "body": "This scaffold guides the [[Elaborative-Interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[Performance-Phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[Prior-Knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[The-Fluency-Illusion]].",
+        "line_number": 24,
+        "source": "SRL-Self-Explanation-Scaffold.md",
+        "char_start": 565,
+        "char_end": 1205
+      },
+      {
+        "type": "tip",
+        "title": "When to Use",
+        "body": "- Dense theoretical sections where you notice comprehension slipping\n- Multi-step mechanism descriptions where causal chains are complex\n- Sections containing key distinctions that require precise understanding\n- Any passage flagged in your Forethought Protocol as requiring deep processing\n- When you catch yourself re-reading without generating new understanding",
+        "line_number": 27,
+        "source": "SRL-Self-Explanation-Scaffold.md",
+        "char_start": 1206,
+        "char_end": 1602
+      },
+      {
+        "type": "warning",
+        "title": "This IS the comprehension test.",
+        "body": "If you cannot explain this section to a skeptical colleague in two sentences, you have not yet understood it. The inability to compress is diagnostic of incomplete processing. See [[The-Generativity-Diagnostic]].",
+        "line_number": 122,
+        "source": "SRL-Self-Explanation-Scaffold.md",
+        "char_start": 3731,
+        "char_end": 3991
+      },
+      {
+        "type": "tip",
+        "title": "After Completing This Scaffold",
+        "body": "- If you completed it fluently → the section is well-understood; move on\n- If you struggled at Steps 2 or 7 → flag this section for Cold Reconstruction in Self-Reflection\n- If you couldn't complete Step 4 → your understanding may be surface-level; re-read with attention to the author's reasoning, not just their conclusions\n- If Step 5 produced rich connections → this is the material for permanent note creation",
+        "line_number": 143,
+        "source": "SRL-Self-Explanation-Scaffold.md",
+        "char_start": 4508,
+        "char_end": 4970
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "- [[Elaborative-Interrogation]] — The self-explanation process this scaffold implements\n- [[Chi-et-al.]] — The foundational research demonstrating the self-explanation effect\n- [[The-Fluency-Illusion]] — Why passive re-reading feels productive but isn't\n- [[The-Generativity-Diagnostic]] — The compression test operationalizes generativity\n- [[Deep-Processing]] — Self-explanation activates deep (not shallow) processing\n- [[Transfer-of-Learning]] — Step 8 tests for genuine understanding via transfer\n- [[Metacognitive-Monitoring]] — Struggle detection during scaffolding is monitoring",
+        "line_number": 151,
+        "source": "SRL-Self-Explanation-Scaffold.md",
+        "char_start": 4976,
+        "char_end": 5604
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": "self-explanation",
+        "full_match": "[[Elaborative-Interrogation|self-explanation]]",
+        "line_number": 25,
+        "section": "🔬 Self-Explanation Scaffold",
+        "context_line": "> This scaffold guides the [[Elaborative-Interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[Performance-Phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[Prior-Knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[The-Fluency-Illusion]].",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Performance-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Phase]]",
+        "line_number": 25,
+        "section": "🔬 Self-Explanation Scaffold",
+        "context_line": "> This scaffold guides the [[Elaborative-Interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[Performance-Phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[Prior-Knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[The-Fluency-Illusion]].",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Chi-et-al.",
+        "heading": null,
+        "display_text": "Chi et al.'s (1994)",
+        "full_match": "[[Chi-et-al.|Chi et al.'s (1994)]]",
+        "line_number": 25,
+        "section": "🔬 Self-Explanation Scaffold",
+        "context_line": "> This scaffold guides the [[Elaborative-Interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[Performance-Phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[Prior-Knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[The-Fluency-Illusion]].",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Prior-Knowledge",
+        "heading": null,
+        "display_text": "prior knowledge",
+        "full_match": "[[Prior-Knowledge|prior knowledge]]",
+        "line_number": 25,
+        "section": "🔬 Self-Explanation Scaffold",
+        "context_line": "> This scaffold guides the [[Elaborative-Interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[Performance-Phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[Prior-Knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[The-Fluency-Illusion]].",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "The-Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Fluency-Illusion]]",
+        "line_number": 25,
+        "section": "🔬 Self-Explanation Scaffold",
+        "context_line": "> This scaffold guides the [[Elaborative-Interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[Performance-Phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[Prior-Knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[The-Fluency-Illusion]].",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Falsificationism",
+        "heading": null,
+        "display_text": "falsificationist",
+        "full_match": "[[Falsificationism|falsificationist]]",
+        "line_number": 91,
+        "section": "4. Assumption Detection",
+        "context_line": "> *(This is [[Falsificationism|falsificationist]] thinking — it deepens understanding of the claim's scope)*",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 113,
+        "section": "6. Question Generation",
+        "context_line": "> *(Flag for [[SRL-Living-Learning-Agenda]] and Self-Reflection Zone 3)*",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "The-Generativity-Diagnostic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Generativity-Diagnostic]]",
+        "line_number": 123,
+        "section": "7. Compression Test *(The Two-Sentence Explanation)*",
+        "context_line": "> If you cannot explain this section to a skeptical colleague in two sentences, you have not yet understood it. The inability to compress is diagnostic of incomplete processing. See [[The-Generativity-Diagnostic]].",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative-Interrogation]]",
+        "line_number": 152,
+        "section": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "context_line": "> - [[Elaborative-Interrogation]] — The self-explanation process this scaffold implements",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Chi-et-al.",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chi-et-al.]]",
+        "line_number": 153,
+        "section": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "context_line": "> - [[Chi-et-al.]] — The foundational research demonstrating the self-explanation effect",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "The-Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Fluency-Illusion]]",
+        "line_number": 154,
+        "section": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "context_line": "> - [[The-Fluency-Illusion]] — Why passive re-reading feels productive but isn't",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "The-Generativity-Diagnostic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Generativity-Diagnostic]]",
+        "line_number": 155,
+        "section": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "context_line": "> - [[The-Generativity-Diagnostic]] — The compression test operationalizes generativity",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Deep-Processing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deep-Processing]]",
+        "line_number": 156,
+        "section": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "context_line": "> - [[Deep-Processing]] — Self-explanation activates deep (not shallow) processing",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Transfer-of-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer-of-Learning]]",
+        "line_number": 157,
+        "section": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "context_line": "> - [[Transfer-of-Learning]] — Step 8 tests for genuine understanding via transfer",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Monitoring]]",
+        "line_number": 158,
+        "section": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "context_line": "> - [[Metacognitive-Monitoring]] — Struggle detection during scaffolding is monitoring",
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "🔬 Self-Explanation Scaffold",
+        "anchor": "self-explanation-scaffold",
+        "line_number": 22,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 2,
+        "text": "Section: _______________",
+        "anchor": "section",
+        "line_number": 36,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Core Claim Extraction",
+        "anchor": "1-core-claim-extraction",
+        "line_number": 41,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Mechanism Reconstruction",
+        "anchor": "2-mechanism-reconstruction",
+        "line_number": 51,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Evidence & Argument Assessment",
+        "anchor": "3-evidence-argument-assessment",
+        "line_number": 65,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Assumption Detection",
+        "anchor": "4-assumption-detection",
+        "line_number": 82,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "5. PKB Connection Mapping",
+        "anchor": "5-pkb-connection-mapping",
+        "line_number": 95,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "6. Question Generation",
+        "anchor": "6-question-generation",
+        "line_number": 110,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "7. Compression Test *(The Two-Sentence Explanation)*",
+        "anchor": "7-compression-test-the-two-sentence-explanation",
+        "line_number": 120,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      },
+      {
+        "level": 3,
+        "text": "8. Transfer Probe *(Optional — for advanced practice)*",
+        "anchor": "8-transfer-probe-optional-for-advanced-practice",
+        "line_number": 134,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [
+      {
+        "headers": [
+          "PKB Note",
+          "Relationship",
+          "Specifics"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "[[]]",
+            "Extends / Challenges / Exemplifies / Refines / Tensions with",
+            ""
+          ],
+          [
+            "[[]]",
+            "",
+            ""
+          ],
+          [
+            "[[]]",
+            "",
+            ""
+          ]
+        ],
+        "line_start": 99,
+        "row_count": 3,
+        "source": "SRL-Self-Explanation-Scaffold.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] Empirical data (experimental, correlational, observational)",
+          "indent_level": 0,
+          "line_number": 71,
+          "source": "SRL-Self-Explanation-Scaffold.md"
+        },
+        {
+          "text": "[ ] Theoretical argument (logical derivation from premises)",
+          "indent_level": 0,
+          "line_number": 72,
+          "source": "SRL-Self-Explanation-Scaffold.md"
+        },
+        {
+          "text": "[ ] Case study / exemplification",
+          "indent_level": 0,
+          "line_number": 73,
+          "source": "SRL-Self-Explanation-Scaffold.md"
+        },
+        {
+          "text": "[ ] Meta-analysis / systematic review",
+          "indent_level": 0,
+          "line_number": 74,
+          "source": "SRL-Self-Explanation-Scaffold.md"
+        },
+        {
+          "text": "[ ] Authority appeal / consensus claim",
+          "indent_level": 0,
+          "line_number": 75,
+          "source": "SRL-Self-Explanation-Scaffold.md"
+        },
+        {
+          "text": "[ ] Analogical reasoning",
+          "indent_level": 0,
+          "line_number": 76,
+          "source": "SRL-Self-Explanation-Scaffold.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Chi-et-al.",
+      "Deep-Processing",
+      "Elaborative-Interrogation",
+      "Falsificationism",
+      "Metacognitive-Monitoring",
+      "Performance-Phase",
+      "Prior-Knowledge",
+      "SRL-Living-Learning-Agenda",
+      "The-Fluency-Illusion",
+      "The-Generativity-Diagnostic",
+      "Transfer-of-Learning"
+    ],
+    "unique_wiki_link_count": 11,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Chi-et-al.",
+      "Deep-Processing",
+      "Elaborative-Interrogation",
+      "Falsificationism",
+      "Metacognitive-Monitoring",
+      "Performance-Phase",
+      "Prior-Knowledge",
+      "SRL-Living-Learning-Agenda",
+      "The-Fluency-Illusion",
+      "The-Generativity-Diagnostic",
+      "Transfer-of-Learning"
+    ]
+  }
+}

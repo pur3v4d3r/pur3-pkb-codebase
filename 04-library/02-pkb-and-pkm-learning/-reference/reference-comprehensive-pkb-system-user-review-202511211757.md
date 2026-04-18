@@ -77,7 +77,7 @@ aliases: [Personal Review System, PKB Review Framework, Periodic Review Methodol
 
 ### The Purpose of Systematic Reviews
 
-Personal review systems address a fundamental challenge in knowledge work: our brains excel at creating and processing information but struggle with comprehensive storage and retrieval. This is the core insight behind both [[GTD (Getting Things Done)]] methodology and [[Building a Second Brain]] philosophy.
+Personal review systems address a fundamental challenge in knowledge work: our brains excel at creating and processing information but struggle with comprehensive storage and retrieval. This is the core insight behind both [[GTD (Getting Things Done)]] methodology and [[Building-a-Second-Brain]] philosophy.
 
 > [!key-claim]
 > **Central Thesis**: Regular, structured personal reviews serve three irreplaceable functions:

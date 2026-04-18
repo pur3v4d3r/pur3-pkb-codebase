@@ -695,7 +695,7 @@ extraction_summary:
 
 - [[Self-Efficacy-Theory|Self-Efficacy Theory (Bandura)]]
 - [[Flow-Theory|Flow Theory (Csikszentmihalyi)]]
-- [[Maslow's Hierarchy of Needs]]
+- [[Maslow's-Hierarchy-of-Needs|Maslow's Hierarchy of Needs]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 
 #### Contrasts With

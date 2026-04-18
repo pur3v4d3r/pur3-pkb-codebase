@@ -239,7 +239,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Executive Overview *(Line 365)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference note examines the intersection of [[Cognitive-Load-Theory|Cognitive Load Theory]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context-Switching|Context Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Productivity-Systems|Productivity Systems]], and [[Knowledge Work]] optimization.
+> This comprehensive reference note examines the intersection of [[Cognitive-Load-Theory|Cognitive Load Theory]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context-Switching|Context Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Productivity-Systems|Productivity Systems]], and [[Knowledge-Work|Knowledge Work]] optimization.
 
 #### 4. [DEFINITION] <span style='color: #FFC700;'>Cognitive Load</span> *(Line 372)*
 
@@ -371,7 +371,7 @@ extraction_summary:
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Interruption Science and Recovery Processes]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Knowledge Work]]
+- [[Knowledge-Work|Knowledge Work]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Metabolic Constraints on Cognition]]
 - [[Monotasking]]
@@ -381,7 +381,7 @@ extraction_summary:
 - [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Productivity-Systems|Productivity Systems]]
 - [[Prospective Memory]]
-- [[Psychological Refractory Period]]
+- [[Psychological-Refractory-Period|Psychological Refractory Period]]
 - [[Psychological Refractory Period and Response Selection Bottlenecks]]
 - [[Reaction Time Measurement]]
 - [[Reinforcement Learning Fundamentals]]
@@ -408,12 +408,12 @@ extraction_summary:
 | 10 | [[Monotasking]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 11 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 12 | [[Productivity-Systems|Productivity Systems]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
-| 13 | [[Knowledge Work]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
+| 13 | [[Knowledge-Work|Knowledge Work]] | — | — | ⚙️ Cognitive Load Theory and the Atte... | 366 |
 | 14 | [[Working-Memory|Working Memory]] | — | — | 🧠 Theoretical Foundations: Cognitive ... | 375 |
 | 15 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🧠 Theoretical Foundations: Cognitive ... | 375 |
 | 16 | [[Working-Memory-Capacity|Working Memory Capacity]] | — | — | 📊 Quantifying Context Switching: Empi... | 418 |
 | 17 | [[prefrontal-cortex|Prefrontal Cortex]] | — | — | 🔬 The Neurological Substrate: Why Con... | 422 |
-| 18 | [[Psychological Refractory Period]] | — | — | 📉 Context Switching Across Cognitive ... | 442 |
+| 18 | [[Psychological-Refractory-Period|Psychological Refractory Period]] | — | — | 📉 Context Switching Across Cognitive ... | 442 |
 | 19 | [[Pomodoro Technique]] | — | — | ✅ Monotasking Protocols: Empirical Ev... | 470 |
 | 20 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🌐 Integration with Self-Determination... | 489 |
 | 21 | [[Psychological Refractory Period and Response Selection Bottlenecks]] | — | — | 1. **[[Psychological Refractory Perio... | 501 |
@@ -831,7 +831,7 @@ for (let letter of sortedLetters) {
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Interruption Science and Recovery Processes]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Knowledge Work]]
+- [[Knowledge-Work|Knowledge Work]]
 - [[Long-Term-Memory|Long-Term Memory]]
 - [[Metabolic Constraints on Cognition]]
 - [[Monotasking]]
@@ -841,7 +841,7 @@ for (let letter of sortedLetters) {
 - [[prefrontal-cortex|Prefrontal Cortex]]
 - [[Productivity-Systems|Productivity Systems]]
 - [[Prospective Memory]]
-- [[Psychological Refractory Period]]
+- [[Psychological-Refractory-Period|Psychological Refractory Period]]
 - [[Psychological Refractory Period and Response Selection Bottlenecks]]
 - [[Reaction Time Measurement]]
 - [[Reinforcement Learning Fundamentals]]

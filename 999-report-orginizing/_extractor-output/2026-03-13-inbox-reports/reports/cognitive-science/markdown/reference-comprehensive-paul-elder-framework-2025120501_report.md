@@ -1092,7 +1092,7 @@ extraction_summary:
 - [[Denying the antecedent]]
 - [[Depth]]
 - [[Egocentric and Sociocentric Thinking]]
-- [[Elements of Thought]]
+- [[Elements-of-Thought|Elements of Thought]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Equivocation]]
 - [[Evidence]]
@@ -1133,10 +1133,10 @@ extraction_summary:
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[consistency]]
 - [[Distributed-Cognition|distributed cognition]]
-- [[egocentric thinking]]
+- [[Egocentric-Thinking|egocentric thinking]]
 - [[element of thought]]
 - [[emotions]]
-- [[entropy]]
+- [[Entropy]]
 - [[frame of reference]]
 - [[freedom]]
 - [[human-cognition|human cognition]]
@@ -1221,7 +1221,7 @@ extraction_summary:
 | 51 | [[anecdotal evidence]] | — | — | 3.5 Information (Data, Evidence) | 501 |
 | 52 | [[justice]] | — | — | 3.6 Concepts (Ideas, Theories) | 512 |
 | 53 | [[freedom]] | — | — | 3.6 Concepts (Ideas, Theories) | 512 |
-| 54 | [[entropy]] | — | — | 3.6 Concepts (Ideas, Theories) | 512 |
+| 54 | [[Entropy]] | — | — | 3.6 Concepts (Ideas, Theories) | 512 |
 | 55 | [[SEE-I method]] | — | — | 3.6 Concepts (Ideas, Theories) | 528 |
 | 56 | [[Humility]] | — | — | 3.8 Implications and Consequences | 594 |
 | 57 | [[Distributed-Cognition|distributed cognition]] | — | — | The Interdependence of Elements | 611 |
@@ -1240,10 +1240,10 @@ extraction_summary:
 | 70 | [[purpose]] | — | — | 4.8 Significance | 785 |
 | 71 | [[Question-at-Issue|question at issue]] | — | — | 4.8 Significance | 785 |
 | 72 | [[Intellectual-Integrity|intellectual integrity]] | — | — | 4.9 Fairness | 806 |
-| 73 | [[egocentric thinking]] | — | — | 4.9 Fairness | 806 |
+| 73 | [[Egocentric-Thinking|egocentric thinking]] | — | — | 4.9 Fairness | 806 |
 | 74 | [[element of thought]] | — | — | Applying Standards to Elements | 823 |
 | 75 | [[consistency]] | — | — | 5.5 Intellectual Integrity | 992 |
-| 76 | [[Elements of Thought]] | — | — | Phase 1: Analysis (Elements) | 1145 |
+| 76 | [[Elements-of-Thought|Elements of Thought]] | — | — | Phase 1: Analysis (Elements) | 1145 |
 | 77 | [[purpose]] | — | — | Phase 1: Analysis (Elements) | 1146 |
 | 78 | [[Question-at-Issue|question at issue]] | — | — | Phase 1: Analysis (Elements) | 1146 |
 | 79 | [[Assumptions]] | — | — | Phase 1: Analysis (Elements) | 1147 |
@@ -1253,7 +1253,7 @@ extraction_summary:
 | 83 | [[inferences]] | — | — | Phase 1: Analysis (Elements) | 1149 |
 | 84 | [[Implications]] | — | — | Phase 1: Analysis (Elements) | 1149 |
 | 85 | [[Universal Intellectual Standards]] | — | — | Phase 2: Evaluation (Standards) | 1152 |
-| 86 | [[Elements of Thought]] | — | — | The Question-Based Analysis Method | 1203 |
+| 86 | [[Elements-of-Thought|Elements of Thought]] | — | — | The Question-Based Analysis Method | 1203 |
 | 87 | [[Intellectual-Standards|Intellectual Standards]] | — | — | The Question-Based Analysis Method | 1203 |
 | 88 | [[Self-Regulated-Learning-—-SRL|self-regulated learning]] | — | — | Self-Directed Learning Protocol | 1346 |
 | 89 | [[Intellectual-Traits|intellectual traits]] | — | — | Daily Intellectual Routine | 1412 |
@@ -1539,7 +1539,7 @@ graph TD
 - [[Denying the antecedent]]
 - [[Depth]]
 - [[Egocentric and Sociocentric Thinking]]
-- [[Elements of Thought]]
+- [[Elements-of-Thought|Elements of Thought]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Equivocation]]
 - [[Evidence]]
@@ -1580,10 +1580,10 @@ graph TD
 - [[Confirmation-Bias-Myside-Bias|confirmation bias]]
 - [[consistency]]
 - [[Distributed-Cognition|distributed cognition]]
-- [[egocentric thinking]]
+- [[Egocentric-Thinking|egocentric thinking]]
 - [[element of thought]]
 - [[emotions]]
-- [[entropy]]
+- [[Entropy]]
 - [[frame of reference]]
 - [[freedom]]
 - [[human-cognition|human cognition]]

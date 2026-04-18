@@ -774,7 +774,7 @@ dv.paragraph(`\n**Folder Summary**: ${files.length} notes | ~${totalWords.toLoca
 ## ⏰ Category 4: Temporal & Review Management
 
 > [!methodology-and-sources] Use Case
-> Time-based queries for [[Spaced-Repetition]], review scheduling, and temporal pattern analysis. Essential for maintaining [[evergreen notes]] and implementing review systems.
+> Time-based queries for [[Spaced-Repetition]], review scheduling, and temporal pattern analysis. Essential for maintaining [[Evergreen-Notes]] and implementing review systems.
 
 ### **4.1 Notes Due for Review (Spaced Repetition)**
 

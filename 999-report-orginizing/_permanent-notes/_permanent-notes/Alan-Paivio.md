@@ -44,7 +44,7 @@ see-also:
   - "[[Long-Term-Memory]]"
   - "[[Modality-Effect]]"
   - "[[Redundancy-Effect]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -69,4 +69,4 @@ importance: low
 - [[Long-Term-Memory]]
 - [[Modality-Effect]]
 - [[Redundancy-Effect]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

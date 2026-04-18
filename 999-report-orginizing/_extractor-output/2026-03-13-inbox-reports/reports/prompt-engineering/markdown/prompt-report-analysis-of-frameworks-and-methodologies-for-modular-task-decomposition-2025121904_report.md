@@ -134,7 +134,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Executive Overview *(Line 114)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference document synthesizes cutting-edge research from 2023-2025 on <span style='color: #FFC700;'>**modular task decomposition**</span> as applied to <span style='color: #FFC700;'>**sequential prompt engineering**</span> for <span style='color: #FFC700;'>**high-fidelity long-form document generation**</span>. Drawing from [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Human-Computer Interaction]] principles, and recent advances in [[Large Language Model]] optimization, this analysis explores how breaking complex cognitive tasks into manageable sub-components fundamentally transforms the quality, reliability, and scalability of AI-generated content. The document examines both theoretical underpinnings---rooted in [[Working-Memory|Working Memory]] constraints and [[Schema-Theory|Schema Theory]]---and practical implementations including [[Decomposed Prompting]], [[Chain-of-Thought|Chain of Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], and emerging [[Modular Prompt Architecture]] methodologies.
+> This comprehensive reference document synthesizes cutting-edge research from 2023-2025 on <span style='color: #FFC700;'>**modular task decomposition**</span> as applied to <span style='color: #FFC700;'>**sequential prompt engineering**</span> for <span style='color: #FFC700;'>**high-fidelity long-form document generation**</span>. Drawing from [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Human-Computer-Interaction|Human-Computer Interaction]] principles, and recent advances in [[Large Language Model]] optimization, this analysis explores how breaking complex cognitive tasks into manageable sub-components fundamentally transforms the quality, reliability, and scalability of AI-generated content. The document examines both theoretical underpinnings---rooted in [[Working-Memory|Working Memory]] constraints and [[Schema-Theory|Schema Theory]]---and practical implementations including [[Decomposed Prompting]], [[Chain-of-Thought|Chain of Thought]], [[Tree-of-Thoughts|Tree of Thoughts]], and emerging [[Modular Prompt Architecture]] methodologies.
 
 #### 2. [PRINCIPLE-POINT] The Capacity Bottleneck Principle *(Line 125)*
 
@@ -326,7 +326,7 @@ extraction_summary:
 - [[Formal Verification]]
 - [[Formal Verification and Correctness Guarantees in Modular Prompt Systems]]
 - [[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]]
-- [[Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Lambda Calculus]]
 - [[Large Language Model]]
@@ -360,9 +360,9 @@ extraction_summary:
 | 2 | [[Chain of Thought Reasoning]] | — | — | Document Start | 109 |
 | 3 | [[Large-Language-Models|Large Language Models]] | — | — | Document Start | 109 |
 | 4 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Document Start | 109 |
-| 5 | [[Human-Computer Interaction]] | — | — | Document Start | 109 |
+| 5 | [[Human-Computer-Interaction|Human-Computer Interaction]] | — | — | Document Start | 109 |
 | 6 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
-| 7 | [[Human-Computer Interaction]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
+| 7 | [[Human-Computer-Interaction|Human-Computer Interaction]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
 | 8 | [[Large Language Model]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
 | 9 | [[Working-Memory|Working Memory]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
 | 10 | [[Schema-Theory|Schema Theory]] | — | — | 📚 A Comprehensive Analysis of Theoret... | 115 |
@@ -411,8 +411,8 @@ extraction_summary:
 | 53 | [[Compositional Semantics]] | — | — | 3. **[[Compositional Generalization: ... | 592 |
 | 54 | [[Systematic Generalization]] | — | — | 3. **[[Compositional Generalization: ... | 592 |
 | 55 | [[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 594 |
-| 56 | [[Human-Computer Interaction]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 596 |
-| 57 | [[Human-Computer Interaction]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 599 |
+| 56 | [[Human-Computer-Interaction|Human-Computer Interaction]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 596 |
+| 57 | [[Human-Computer-Interaction|Human-Computer Interaction]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 599 |
 | 58 | [[Explainable AI]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 599 |
 | 59 | [[Mixed-Initiative Systems]] | — | — | 4. **[[Human-AI Collaborative Workflo... | 599 |
 | 60 | [[Meta-Learning and Automated Decomposition Strategy Discovery]] | — | — | 5. **[[Meta-Learning and Automated De... | 603 |
@@ -924,7 +924,7 @@ $$
 - [[Formal Verification]]
 - [[Formal Verification and Correctness Guarantees in Modular Prompt Systems]]
 - [[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]]
-- [[Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Lambda Calculus]]
 - [[Large Language Model]]

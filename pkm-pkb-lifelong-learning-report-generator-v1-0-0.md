@@ -1148,7 +1148,7 @@ These reports tackle the most sophisticated integration challenges and edge case
 - **Disciplines**: Cognitive Psychology, Educational Psychology, Knowledge Management, Instructional Design
 
 **Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement**
-- **Synthesis Focus**: How do [[Socratic-Dialectic]], [[Argumentation-Theory]], [[Thesis-Antithesis-Synthesis]], and [[Cognitive Conflict]] inform PKB practices for deepening understanding through structured intellectual disagreement with one's own notes?
+- **Synthesis Focus**: How do [[Socratic-Dialectic]], [[Argumentation-Theory]], [[Thesis-Antithesis-Synthesis]], and [[Cognitive-Conflict]] inform PKB practices for deepening understanding through structured intellectual disagreement with one's own notes?
 - **Disciplines**: Philosophy (Socratic, dialectical), Critical Thinking, Educational Psychology (cognitive conflict), Knowledge Management
 
 **Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store**
@@ -1156,7 +1156,7 @@ These reports tackle the most sophisticated integration challenges and edge case
 - **Disciplines**: Knowledge Management, Philosophy of Mind, Cognitive Science, Educational Philosophy
 
 **Report 23: Learning Environments Design — The PKB as a Constructed Learning Space**
-- **Synthesis Focus**: How do [[Constructivist Learning Environments]], [[Zone-of-Proximal-Development]], [[Learning-Experience-Design]], and [[Educational Technology]] principles combine to frame the PKB as a designed learning environment rather than a mere storage system?
+- **Synthesis Focus**: How do [[Constructivist Learning Environments]], [[Zone-of-Proximal-Development]], [[Learning-Experience-Design]], and [[Educational-Technology]] principles combine to frame the PKB as a designed learning environment rather than a mere storage system?
 - **Disciplines**: Educational Science, Constructivism, Learning Experience Design, Educational Technology
 
 **Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy**

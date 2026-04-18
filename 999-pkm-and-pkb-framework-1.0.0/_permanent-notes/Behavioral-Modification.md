@@ -38,7 +38,7 @@ referenced-by-count: 3
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Core-Concept-Definition]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
   - "[[🔑-Core-Concept-Definition]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -59,5 +59,5 @@ importance: low
 ## Referenced By
 
 - [[Core-Concept-Definition]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]
 - [[🔑-Core-Concept-Definition]]

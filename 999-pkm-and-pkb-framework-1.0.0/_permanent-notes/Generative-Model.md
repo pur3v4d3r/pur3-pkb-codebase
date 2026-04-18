@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -140,6 +140,10 @@ importance: high
 
 **Related concepts** *(from report-13-the-predictive-mind.md)*:
 [[Predictive-Processing|Predictive Processing]] * [[Karl-Friston|Karl Friston]] * [[Andy-Clark|Andy Clark]] * [[Jakob-Hohwy|Jakob Hohwy]] * [[Anil-Seth|Anil Seth]] * [[Thomas-Metzinger|Thomas Metzinger]] * [[Free-Energy-Principle|Free Energy Principle]] * [[Precision-Weighting|Precision Weighting]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Constructed-Emotion-Theory|Constructed Emotion Theory]] * [[Phenomenal-Self-Model|Phenomenal Self-Model]] * [[John-Dewey|John Dewey]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Jean-Piaget|Jean Piaget]] * [[Assimilation-and-Accommodation|Assimilation and Accommodation]] * [[Schema-Theory|Schema Theory]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Cognitive-Bias|Cognitive Bias]] * [[Prosoche|Prosoche]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Emotional-Granularity|Emotional Granularity]] * [[Phronesis|Phronesis]] * [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] * [[Social-Epistemology|Social Epistemology]] * [[Hugo-Mercier|Hugo Mercier]]
+
+**Related concepts** *(from [[report-13-the-predictive-mind]])*:
+[[Predictive-Processing|Predictive Processing]] * [[Karl-Friston|Karl Friston]] * [[Andy-Clark|Andy Clark]] * [[Jakob-Hohwy|Jakob Hohwy]] * [[Anil-Seth|Anil Seth]] * [[Thomas-Metzinger|Thomas Metzinger]] * [[Free-Energy-Principle|Free Energy Principle]] * [[Precision-Weighting|Precision Weighting]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Constructed-Emotion-Theory|Constructed Emotion Theory]] * [[Phenomenal-Self-Model|Phenomenal Self-Model]] * [[John-Dewey|John Dewey]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Jean-Piaget|Jean Piaget]] * [[Assimilation-and-Accommodation|Assimilation and Accommodation]] * [[Schema-Theory|Schema Theory]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Cognitive-Bias|Cognitive Bias]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Emotional-Granularity|Emotional Granularity]] * [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] * [[Social-Epistemology|Social Epistemology]] * [[Hugo-Mercier|Hugo Mercier]] * [[Dan-Sperber|Dan Sperber]] * [[Miranda-Fricker|Miranda Fricker]]
+
 
 
 ## Methodology Notes

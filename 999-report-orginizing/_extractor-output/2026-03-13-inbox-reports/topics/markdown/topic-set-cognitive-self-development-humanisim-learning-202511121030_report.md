@@ -214,7 +214,7 @@ extraction_summary:
 - [[Black Box]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Carl-Rogers|Carl Rogers]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Cognitive Learning]]
 - [[Cognitive Learning Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -247,13 +247,13 @@ extraction_summary:
 - [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Reflection]]
+- [[Metacognitive-Reflection|Metacognitive Reflection]]
 - [[Optimal-Challenge|Optimal Challenge]]
 - [[Overjustification-Effect|Overjustification Effect]]
 - [[Peak Experiences]]
 - [[Peer Learning]]
 - [[Person-Centered Therapy]]
-- [[Personal Knowledge Management Systems]]
+- [[Personal-Knowledge-Management-Systems|Personal Knowledge Management Systems]]
 - [[Phenomenological Psychology]]
 - [[Planning Fallacy]]
 - [[Progressive-Summarization|Progressive Summarization]]
@@ -276,7 +276,7 @@ extraction_summary:
 - [[Socratic Dialogue]]
 - [[Thinking Tool]]
 - [[Transformative Learning Theory]]
-- [[Unconditional Positive Regard]]
+- [[Unconditional-Positive-Regard|Unconditional Positive Regard]]
 - [[Zettelkasten]]
 - [[Zone-of-Proximal-Development|Zone Of Proximal Development]]
 
@@ -297,7 +297,7 @@ extraction_summary:
 | 11 | [[Peak Experiences]] | — | — | 📚 Historical Context and Key Theorists | 58 |
 | 12 | [[Carl-Rogers|Carl Rogers]] | — | — | 📚 Historical Context and Key Theorists | 60 |
 | 13 | [[Person-Centered Therapy]] | — | — | 📚 Historical Context and Key Theorists | 60 |
-| 14 | [[Unconditional Positive Regard]] | — | — | 📚 Historical Context and Key Theorists | 62 |
+| 14 | [[Unconditional-Positive-Regard|Unconditional Positive Regard]] | — | — | 📚 Historical Context and Key Theorists | 62 |
 | 15 | [[Empathic Understanding]] | — | — | 📚 Historical Context and Key Theorists | 63 |
 | 16 | [[Congruence]] | — | — | 📚 Historical Context and Key Theorists | 64 |
 | 17 | [[Cognitive Learning]] | — | — | 📚 Historical Context and Key Theorists | 66 |
@@ -308,7 +308,7 @@ extraction_summary:
 | 22 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | The Phenomenological Learning Cycle | 81 |
 | 23 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Phenomenological Learning Cycle | 81 |
 | 24 | [[Significant Learning]] | — | — | The Phenomenological Learning Cycle | 83 |
-| 25 | [[Metacognitive Reflection]] | — | — | The Phenomenological Learning Cycle | 85 |
+| 25 | [[Metacognitive-Reflection|Metacognitive Reflection]] | — | — | The Phenomenological Learning Cycle | 85 |
 | 26 | [[Schema Transformation]] | — | — | The Phenomenological Learning Cycle | 85 |
 | 27 | [[Schema Addition]] | — | — | The Phenomenological Learning Cycle | 85 |
 | 28 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | Affective Domain Primacy | 92 |
@@ -317,14 +317,14 @@ extraction_summary:
 | 31 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | Self-Directed Learning Architecture | 110 |
 | 32 | [[Planning Fallacy]] | — | — | Self-Directed Learning Architecture | 112 |
 | 33 | [[Psychological-Safety|Psychological Safety]] | — | — | The Facilitative Learning Environment | 125 |
-| 34 | [[Unconditional Positive Regard]] | — | — | The Facilitative Learning Environment | 125 |
+| 34 | [[Unconditional-Positive-Regard|Unconditional Positive Regard]] | — | — | The Facilitative Learning Environment | 125 |
 | 35 | [[Resource Accessibility]] | — | — | The Facilitative Learning Environment | 127 |
 | 36 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Facilitative Learning Environment | 127 |
 | 37 | [[Collaborative Inquiry]] | — | — | The Facilitative Learning Environment | 129 |
 | 38 | [[Socratic Dialogue]] | — | — | The Facilitative Learning Environment | 129 |
 | 39 | [[Peer Learning]] | — | — | The Facilitative Learning Environment | 129 |
 | 40 | [[Reflective Practice Structures]] | — | — | The Facilitative Learning Environment | 131 |
-| 41 | [[Metacognitive Reflection]] | — | — | The Facilitative Learning Environment | 131 |
+| 41 | [[Metacognitive-Reflection|Metacognitive Reflection]] | — | — | The Facilitative Learning Environment | 131 |
 | 42 | [[Behaviorism]] | — | — | Contrast with [[Behaviorism]] | 139 |
 | 43 | [[Behaviorist Learning Theory]] | — | — | Contrast with [[Behaviorism]] | 141 |
 | 44 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Contrast with [[Behaviorism]] | 143 |
@@ -340,8 +340,8 @@ extraction_summary:
 | 54 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Connection to [[Experiential Learning... | 173 |
 | 55 | [[Zettelkasten]] | — | — | 🎓 Implications for Self-Directed Cogn... | 190 |
 | 56 | [[Aha Moments]] | — | — | 🎓 Implications for Self-Directed Cogn... | 195 |
-| 57 | [[cognitive-dissonance|Cognitive Dissonance]] | — | — | 🎓 Implications for Self-Directed Cogn... | 195 |
-| 58 | [[Metacognitive Reflection]] | — | — | 🎓 Implications for Self-Directed Cogn... | 197 |
+| 57 | [[Cognitive-Dissonance|Cognitive Dissonance]] | — | — | 🎓 Implications for Self-Directed Cogn... | 195 |
+| 58 | [[Metacognitive-Reflection|Metacognitive Reflection]] | — | — | 🎓 Implications for Self-Directed Cogn... | 197 |
 | 59 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🎓 Implications for Self-Directed Cogn... | 203 |
 | 60 | [[Deliberate-Practice|Deliberate Practice]] | — | — | 🎓 Implications for Self-Directed Cogn... | 207 |
 | 61 | [[Thinking Tool]] | — | — | 🎓 Implications for Self-Directed Cogn... | 208 |
@@ -367,7 +367,7 @@ extraction_summary:
 | 81 | [[Critical Pedagogy]] | — | — | 🟡 Tier 3: Comparative/Critical Perspe... | 315 |
 | 82 | [[Self-Directed Learning Models]] | — | — | 🟢 Tier 4: Implementation & Integration | 323 |
 | 83 | [[Reflective Practice Theory]] | — | — | 🟢 Tier 4: Implementation & Integration | 328 |
-| 84 | [[Personal Knowledge Management Systems]] | — | — | 🟢 Tier 4: Implementation & Integration | 333 |
+| 84 | [[Personal-Knowledge-Management-Systems|Personal Knowledge Management Systems]] | — | — | 🟢 Tier 4: Implementation & Integration | 333 |
 | 85 | [[Learning Transfer Theory]] | — | — | 🟢 Tier 4: Implementation & Integration | 338 |
 | 86 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🗺️ Suggested Learning Path | 351 |
 | 87 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | 🗺️ Suggested Learning Path | 351 |
@@ -465,7 +465,7 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Black Box]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Carl-Rogers|Carl Rogers]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Cognitive Learning]]
 - [[Cognitive Learning Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -498,13 +498,13 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Malcolm-Knowles|Malcolm Knowles]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Metacognitive Reflection]]
+- [[Metacognitive-Reflection|Metacognitive Reflection]]
 - [[Optimal-Challenge|Optimal Challenge]]
 - [[Overjustification-Effect|Overjustification Effect]]
 - [[Peak Experiences]]
 - [[Peer Learning]]
 - [[Person-Centered Therapy]]
-- [[Personal Knowledge Management Systems]]
+- [[Personal-Knowledge-Management-Systems|Personal Knowledge Management Systems]]
 - [[Phenomenological Psychology]]
 - [[Planning Fallacy]]
 - [[Progressive-Summarization|Progressive Summarization]]
@@ -527,7 +527,7 @@ I'll provide you with a comprehensive Reference Note on **Humanistic Learning Th
 - [[Socratic Dialogue]]
 - [[Thinking Tool]]
 - [[Transformative Learning Theory]]
-- [[Unconditional Positive Regard]]
+- [[Unconditional-Positive-Regard|Unconditional Positive Regard]]
 - [[Zettelkasten]]
 - [[Zone-of-Proximal-Development|Zone Of Proximal Development]]
 

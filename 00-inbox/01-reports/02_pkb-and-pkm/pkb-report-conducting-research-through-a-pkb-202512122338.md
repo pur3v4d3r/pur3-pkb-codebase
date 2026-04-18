@@ -484,7 +484,7 @@ The literature note functions as a processing waystation. Raw annotations and hi
 
 Template design matters considerably. Your literature note template should prompt the cognitive operations that produce deep understanding. Consider including: a field for one-sentence synthesis of the source's main contribution; prompts for identifying strengths and limitations; explicit space for connecting to previous reading; and fields for tracking whether processing is complete.
 
-The relationship between literature notes and [[Atomic-Notes]] (or [[permanent notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.
+The relationship between literature notes and [[Atomic-Notes]] (or [[Permanent-Notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.
 
 ### Atomic Notes: The Knowledge Graph Foundation
 

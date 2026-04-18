@@ -39,7 +39,7 @@ referenced-by-count: 3
 see-also:
   - "[[Choice-Function]]"
   - "[[File-Metadata-Queries]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,4 +60,4 @@ importance: low
 
 - [[Choice-Function]]
 - [[File-Metadata-Queries]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

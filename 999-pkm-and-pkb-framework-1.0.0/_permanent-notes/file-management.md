@@ -39,7 +39,7 @@ referenced-by-count: 3
 see-also:
   - "[[DOpus-Built-in-Variables]]"
   - "[[DOpus-Command-Modifiers]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,4 +60,4 @@ importance: low
 
 - [[DOpus-Built-in-Variables]]
 - [[DOpus-Command-Modifiers]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

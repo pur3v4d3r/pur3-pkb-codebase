@@ -1,0 +1,102 @@
+{
+  "processed_dirs": [
+    "999-first-principles-reports",
+    "999-focused-analysis-report-generator",
+    "999-foundational-report-genrator",
+    "from-copilot",
+    "opus",
+    "999-socratic-reports",
+    "999-comparative-synthesis-report-generator",
+    "999-dialectical-re-examination-report-generator",
+    "999-stoicism",
+    "999-focused-analysis-report-generator-v1.1.0",
+    "999-generative-learning",
+    "srl-practice"
+  ],
+  "batches": [
+    {
+      "dir_name": "999-first-principles-reports",
+      "batch_name": "999-first-principles-reports",
+      "processed_at": "2026-04-18T02:40:36.515648",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-focused-analysis-report-generator",
+      "batch_name": "999-focused-analysis-report-generator",
+      "processed_at": "2026-04-18T02:40:36.779727",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-foundational-report-genrator",
+      "batch_name": "999-foundational-report-genrator",
+      "processed_at": "2026-04-18T02:40:41.288858",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "from-copilot",
+      "batch_name": "from-copilot",
+      "processed_at": "2026-04-18T02:40:44.829249",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "opus",
+      "batch_name": "opus",
+      "processed_at": "2026-04-18T02:40:48.067519",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-socratic-reports",
+      "batch_name": "999-socratic-reports",
+      "processed_at": "2026-04-18T02:40:48.202513",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-comparative-synthesis-report-generator",
+      "batch_name": "999-comparative-synthesis-report-generator",
+      "processed_at": "2026-04-18T02:40:48.297913",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-dialectical-re-examination-report-generator",
+      "batch_name": "999-dialectical-re-examination-report-generator",
+      "processed_at": "2026-04-18T02:40:48.708729",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-stoicism",
+      "batch_name": "999-stoicism",
+      "processed_at": "2026-04-18T02:41:34.175872",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-focused-analysis-report-generator-v1.1.0",
+      "batch_name": "999-focused-analysis-report-generator-v1.1.0",
+      "processed_at": "2026-04-18T02:41:34.922374",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "999-generative-learning",
+      "batch_name": "999-generative-learning",
+      "processed_at": "2026-04-18T02:41:35.041475",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "srl-practice",
+      "batch_name": "srl-practice",
+      "processed_at": "2026-04-18T02:41:35.153309",
+      "note_count": 0,
+      "status": "complete"
+    }
+  ]
+}

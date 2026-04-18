@@ -423,7 +423,7 @@ extraction_summary:
 - [[Kutluhan Erol]]
 - [[LangChain]]
 - [[Learning-Hierarchical-Task-Networks-from-Demonstrations]]
-- [[MDP]]
+- [[Motivational-Deployment-Problem|MDP]]
 - [[Means-Ends Analysis]]
 - [[Miller's 7±2]]
 - [[Multi-Agent-Coordination-and-Decomposition]]
@@ -491,7 +491,7 @@ extraction_summary:
 | 36 | [[Reusability]] | — | — | Hierarchical Task Networks (HTN) | 471 |
 | 37 | [[PDDL 2.1]] | — | — | Modern Extensions: Temporal, Probabil... | 524 |
 | 38 | [[Text-Generator-Plugin|TGP]] | — | — | Modern Extensions: Temporal, Probabil... | 524 |
-| 39 | [[MDP]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
+| 39 | [[Motivational-Deployment-Problem|MDP]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
 | 40 | [[POMDP]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
 | 41 | [[Contingent Planning]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
 | 42 | [[Online Planning]] | — | — | Modern Extensions: Temporal, Probabil... | 534 |
@@ -2413,7 +2413,7 @@ graph TD
 - [[Kutluhan Erol]]
 - [[LangChain]]
 - [[Learning-Hierarchical-Task-Networks-from-Demonstrations]]
-- [[MDP]]
+- [[Motivational-Deployment-Problem|MDP]]
 - [[Means-Ends Analysis]]
 - [[Miller's 7±2]]
 - [[Multi-Agent-Coordination-and-Decomposition]]

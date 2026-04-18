@@ -1482,7 +1482,7 @@ exceeds_minimum_by: 128
 - Collaborative error correction protocols
 - Emergent collective intelligence from individual MP
 
-**Knowledge Graph Role**: Connects MP to [[Multi-Agent Systems]], [[Collective Intelligence]], [[Debate-Based Prompting]], and [[Constitutional-AI]]. Opens pathway to advanced agentic workflows.
+**Knowledge Graph Role**: Connects MP to [[Multi-Agent Systems]], [[Collective-Intelligence]], [[Debate-Based Prompting]], and [[Constitutional-AI]]. Opens pathway to advanced agentic workflows.
 
 **Priority**: **MEDIUM** - Increasingly relevant as multi-agent systems mature, but builds on solid single-agent MP foundation first.
 

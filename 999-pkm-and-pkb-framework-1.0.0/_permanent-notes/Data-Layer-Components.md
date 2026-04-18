@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -373,6 +373,46 @@ importance: medium
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[VS-Code|VS Code]]
 - [[Claude-Code|Claude Code]]
+
+**Related concepts** *(from [[reference-comprehensive-mcp-servers-2025122412]])*:
+[[API-Fundamentals|API Fundamentals]] * [[AI-Agent-Architecture|AI Agent Architecture]] * [[Custom-MCP-Server-Development|Custom MCP Server Development]] * [[AI-PKB-Integration|AI-PKB Integration]] * [[Prompt-Library-Management|Prompt Library Management]] * [[Claude-Code-Workflows|Claude Code Workflows]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Obsidian-Automation|Obsidian Automation]] * [[Claude-Code|Claude Code]] * [[Prompt-Engineering|Prompt Engineering]] * [[AI-Agents|AI Agents]] * [[Claude-Desktop|Claude Desktop]] * [[Unix-Philosophy|Unix Philosophy]] * [[API-Design-Patterns|API Design Patterns]] * [[Knowledge-Graph-Theory|Knowledge Graph Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[MCP-Tools|MCP Tools]] * [[MCP-Resources|MCP Resources]] * [[MCP-Prompts|MCP Prompts]] * [[MCP-Security-Best-Practices|MCP Security Best Practices]] * [[Obsidian-MCP-Integration|Obsidian MCP Integration]] * [[Spaced-Repetition|Spaced Repetition]] * [[PARA-Method|PARA Method]] * [[FastMCP-Development-Guide|FastMCP Development Guide]] * [[Python-Fundamentals|Python Fundamentals]] * [[Async-Programming|Async Programming]] * [[MCP-Security-Hardening|MCP Security Hardening]] * [[Docker-Fundamentals|Docker Fundamentals]] * [[Network-Security-Basics|Network Security Basics]] * [[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]
+
+**Cross-report connections** *(from [[reference-comprehensive-mcp-servers-2025122412]])*:
+- [[Claude-Code|Claude Code]]
+- [[Obsidian|Obsidian]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[AI-Agent-Architecture|AI Agent Architecture]]
+- [[JSON-RPC|JSON-RPC]]
+
+**Cross-report connections** *(from [[reference-comprehensive-mcp-servers-2025122412]])*:
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[VS-Code|VS Code]]
+- [[Claude-Code|Claude Code]]
+
+**Related concepts** *(from [[reference-comprehensive-mcp-servers-2025122412]])*:
+[[API-Fundamentals|API Fundamentals]] * [[AI-Agent-Architecture|AI Agent Architecture]] * [[Custom-MCP-Server-Development|Custom MCP Server Development]] * [[AI-PKB-Integration|AI-PKB Integration]] * [[Prompt-Library-Management|Prompt Library Management]] * [[Claude-Code-Workflows|Claude Code Workflows]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Obsidian-Automation|Obsidian Automation]] * [[Claude-Code|Claude Code]] * [[Prompt-Engineering|Prompt Engineering]] * [[AI-Agents|AI Agents]] * [[Claude-Desktop|Claude Desktop]] * [[Unix-Philosophy|Unix Philosophy]] * [[API-Design-Patterns|API Design Patterns]] * [[Knowledge-Graph-Theory|Knowledge Graph Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[MCP-Tools|MCP Tools]] * [[MCP-Resources|MCP Resources]] * [[MCP-Prompts|MCP Prompts]] * [[MCP-Security-Best-Practices|MCP Security Best Practices]] * [[Obsidian-MCP-Integration|Obsidian MCP Integration]] * [[Spaced-Repetition|Spaced Repetition]] * [[PARA-Method|PARA Method]] * [[FastMCP-Development-Guide|FastMCP Development Guide]] * [[Python-Fundamentals|Python Fundamentals]] * [[Async-Programming|Async Programming]] * [[MCP-Security-Hardening|MCP Security Hardening]] * [[Docker-Fundamentals|Docker Fundamentals]] * [[Network-Security-Basics|Network Security Basics]] * [[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]
+
+**Cross-report connections** *(from [[reference-comprehensive-mcp-servers-2025122412]])*:
+- [[Claude-Code|Claude Code]]
+- [[Obsidian|Obsidian]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[AI-Agent-Architecture|AI Agent Architecture]]
+- [[JSON-RPC|JSON-RPC]]
+
+**Cross-report connections** *(from [[reference-comprehensive-mcp-servers-2025122412]])*:
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[VS-Code|VS Code]]
+- [[Claude-Code|Claude Code]]
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,2234 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:34.263880",
+    "source_file": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-focused-analysis-report-generator-v1.1.0\\extracted\\achievement-goal-theory-focused-analysis-2026-03-24.md",
+    "source_file_size_bytes": 120071,
+    "processing_time_seconds": 0.026
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "achievement-goal-theory-approach-avoidance-asymmetry-focused-analysis-v1-0",
+      "doc_type": "focused-analysis-report",
+      "doc_created": "2026-03-24",
+      "doc_modified": "2026-03-24",
+      "author": "claude-sonnet-4-6",
+      "primary_domain": "motivational-psychology",
+      "secondary_domains": [
+        "educational-psychology",
+        "self-regulated-learning",
+        "instructional-design",
+        "cognitive-psychology"
+      ],
+      "related_concepts": [
+        "[[Achievement-Goal-Theory]]",
+        "[[2×2-Framework]]",
+        "[[Mastery-Approach-Goal]]",
+        "[[Mastery-Avoidance-Goal]]",
+        "[[Performance-Approach-Goal]]",
+        "[[Performance-Avoidance-Goal]]",
+        "[[Intrinsic-Motivation]]",
+        "[[Growth-Mindset-Theory]]",
+        "[[Self-Regulated-Learning]]",
+        "[[Basic-Psychological-Needs-Theory]]",
+        "[[Motivational-Climate]]",
+        "[[Attribution-Theory]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "achievement-goal-theory",
+        "approach-avoidance",
+        "mastery-goals",
+        "performance-goals",
+        "motivational-climate",
+        "self-regulated-learning",
+        "instructional-design",
+        "focused-analysis",
+        "pkb-integration",
+        "far-transfer"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "reasoning_tier": "Tier 3: Synthesis & Innovation",
+      "reasoning_technique": "Integrated extended thinking with chain-of-density depth enforcement and FAR transfer architecture",
+      "transfer-contributions": {
+        "abstract-principles-extracted": "3",
+        "structural-analogues-identified": "6",
+        "target-domains-bridged": "4"
+      },
+      "transfer-principles": [
+        {
+          "principle": "Approach-avoidance asymmetry — within any motivational domain organised around a valued outcome, approach and avoidance regulatory modes produce systematically different cognitive, emotional, and behavioural signatures, and their effects are not symmetric under environmental pressure.",
+          "originating-finding": "Performance-avoidance goals produce uniformly maladaptive outcomes while mastery-approach goals produce uniformly adaptive ones; performance-approach goals produce context-moderated effects.",
+          "target-domains": [
+            "Health Behavior",
+            "Relationship Motivation",
+            "Creative Performance",
+            "Organisational Commitment"
+          ]
+        },
+        {
+          "principle": "Definition-of-success moderates motivational architecture — the standard by which competence is evaluated (absolute, normative, or past-referenced) shapes the entire motivational ecosystem downstream, including resilience to failure, help-seeking, and information-processing style.",
+          "originating-finding": "Nicholls' differentiated ability concept — the distinction between task-involvement and ego-involvement is not merely a goal preference but a fundamentally different epistemological stance toward one's own competence.",
+          "target-domains": [
+            "Feedback System Design",
+            "Assessment Design",
+            "Coaching and Mentorship",
+            "Organisational Performance Review"
+          ]
+        },
+        {
+          "principle": "Threshold asymmetry in regulatory systems — avoidance-based regulatory systems are more sensitive to threat signals and engage protective responses at lower activation thresholds, making them disproportionately powerful in suppressing risk-taking, curiosity, and error-tolerance.",
+          "originating-finding": "The suppression of deep-processing strategies, help-seeking, and challenge-seeking under performance-avoidance conditions, even when the learner has sufficient ability to succeed.",
+          "target-domains": [
+            "Safety Culture Design",
+            "Psychological Safety in Teams",
+            "Clinical Anxiety Treatment",
+            "Creativity Research"
+          ]
+        }
+      ],
+      "source": "claude-sonnet-4-6",
+      "key_figures": [
+        "John G. Nicholls (differentiated ability concept, task vs. ego involvement)",
+        "Andrew Elliot (2×2 framework, hierarchical model)",
+        "Carol Dweck (implicit theories, helpless vs. mastery-oriented patterns)",
+        "Judith Harackiewicz (performance-approach goal controversy)",
+        "Paul Pintrich (achievement goals in SRL framework)",
+        "Martin Covington (self-worth motivation theory)"
+      ],
+      "prerequisites": [
+        "[[Achievement-Goal-Theory]]",
+        "[[Goal-Orientation]]",
+        "[[Intrinsic-Motivation]]"
+      ],
+      "builds_on": [
+        "[[Achievement-Goal-Theory]]",
+        "[[2×2-Framework]]",
+        "[[Motivational-Climate]]",
+        "[[Growth-Mindset-Theory]]"
+      ],
+      "link_up": "[[Motivation-Theory-Foundational-Report]]",
+      "link_down": [
+        "[[Mastery-Approach-Goal]]",
+        "[[Performance-Avoidance-Goal]]",
+        "[[Motivational-Climate-Design]]"
+      ],
+      "link_related": [
+        "[[Self-Regulated-Learning]]",
+        "[[Basic-Psychological-Needs-Theory]]",
+        "[[Attribution-Theory]]",
+        "[[Growth-Mindset-Theory]]",
+        "[[Feedback-Design]]"
+      ],
+      "sections": [
+        "Phase I: Orientation & Analytical Focus",
+        "Phase II: Analytical Framework — The 2×2 Architecture",
+        "Phase III: Critical Examination of Evidence",
+        "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "Phase V: Implications, Applications & Limitations",
+        "Phase VI: Synthesis, Integration & Original Contribution",
+        "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "Phase VIII: PKB Connections & Cross-Report Links",
+        "Phase IX: Appendix"
+      ],
+      "document-features": {
+        "callouts": "28",
+        "wiki-links": "45",
+        "reflective-questions": "21",
+        "cognitive-engagement-elements": "16",
+        "analytical-commentary": "12",
+        "section-end-summaries": "6",
+        "transfer-principles": "3"
+      },
+      "summary": "A focused analysis of the approach-avoidance asymmetry at the heart of Achievement Goal Theory's 2×2 framework. Argues that the dichotomy between mastery and performance goals, while historically foundational, is less theoretically fundamental than the approach-avoidance distinction that cuts across both. The asymmetry between approach- and avoidance-based motivation — their different cognitive, emotional, and behavioural signatures — constitutes a general structural principle of motivational architecture with wide transferability."
+    },
+    "word_count": 14285,
+    "character_count": 108823,
+    "line_count": 698,
+    "heading_count": 37
+  },
+  "extraction_summary": {
+    "total_items_extracted": 180,
+    "by_type": {
+      "headings": 37,
+      "callouts": 75,
+      "wiki_links": 64,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 3,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Achievement Goal Theory: The Approach-Avoidance Asymmetry and Why It Matters More Than the Goals Themselves",
+      "anchor": "achievement-goal-theory-the-approach-avoidance-asymmetry-and-why-it-matters-more-than-the-goals-themselves",
+      "line_number": 142,
+      "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Analytical Focus",
+          "anchor": "phase-i-orientation-analytical-focus",
+          "line_number": 146,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — The 2×2 Architecture",
+          "anchor": "phase-ii-analytical-framework-the-22-architecture",
+          "line_number": 170,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Nicholls Foundation: Two Ways of Being Competent",
+              "anchor": "the-nicholls-foundation-two-ways-of-being-competent",
+              "line_number": 172,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Elliot Expansion: From Dichotomy to Framework",
+              "anchor": "the-elliot-expansion-from-dichotomy-to-framework",
+              "line_number": 188,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Framework Selection Rationale",
+              "anchor": "the-framework-selection-rationale",
+              "line_number": 211,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 230,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Evidence Landscape",
+              "anchor": "the-evidence-landscape",
+              "line_number": 232,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "What the Evidence Shows: Cell by Cell",
+              "anchor": "what-the-evidence-shows-cell-by-cell",
+              "line_number": 245,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+          "line_number": 297,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Core Mechanism: Regulatory Focus and Information Processing",
+              "anchor": "the-core-mechanism-regulatory-focus-and-information-processing",
+              "line_number": 302,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Conditional Dynamics of Performance-Approach Goals",
+              "anchor": "the-conditional-dynamics-of-performance-approach-goals",
+              "line_number": 334,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications, Applications & Limitations",
+          "anchor": "phase-v-implications-applications-limitations",
+          "line_number": 358,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "What the Analysis Tells Us",
+              "anchor": "what-the-analysis-tells-us",
+              "line_number": 360,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations and Honest Boundaries",
+              "anchor": "limitations-and-honest-boundaries",
+              "line_number": 385,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 411,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Central Argument, Reconstructed",
+              "anchor": "the-central-argument-reconstructed",
+              "line_number": 413,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Original Contribution: The Regulatory Mode Primacy Thesis",
+              "anchor": "the-original-contribution-the-regulatory-mode-primacy-thesis",
+              "line_number": 425,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Revisited Central Question",
+              "anchor": "the-revisited-central-question",
+              "line_number": 430,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+          "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+          "line_number": 448,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Abstract Principle Extraction",
+              "anchor": "abstract-principle-extraction",
+              "line_number": 452,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Structural Analogues",
+              "anchor": "structural-analogues",
+              "line_number": 466,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Transfer Encoding",
+              "anchor": "transfer-encoding",
+              "line_number": 477,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Application Bridges",
+              "anchor": "application-bridges",
+              "line_number": 487,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Meta-Transfer Reflection",
+              "anchor": "meta-transfer-reflection",
+              "line_number": 495,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-viii-pkb-connections-cross-report-links",
+          "line_number": 513,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase IX: Appendix",
+          "anchor": "phase-ix-appendix",
+          "line_number": 548,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 550,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. Key Figures & Intellectual Lineage",
+              "anchor": "b-key-figures-intellectual-lineage",
+              "line_number": 584,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Conceptual Tensions & Open Questions",
+              "anchor": "c-conceptual-tensions-open-questions",
+              "line_number": 604,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. References",
+              "anchor": "d-references",
+              "line_number": 616,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "E. Methodology & Sources Note",
+              "anchor": "e-methodology-sources-note",
+              "line_number": 642,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "F. Argument Maps",
+              "anchor": "f-argument-maps",
+              "line_number": 666,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "G. Practical Application Protocols",
+              "anchor": "g-practical-application-protocols",
+              "line_number": 705,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "H. Spaced Repetition Seeds",
+              "anchor": "h-spaced-repetition-seeds",
+              "line_number": 721,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "I. Expansion Topics for the PKB",
+              "anchor": "i-expansion-topics-for-the-pkb",
+              "line_number": 779,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "K. Report Quality Self-Assessment",
+              "anchor": "k-report-quality-self-assessment",
+              "line_number": 811,
+              "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Schema Activation — Before You Begin",
+        "body": "Before reading this analysis, pause and articulate your current understanding of the distinction between mastery and performance goals. What do you believe the evidence shows about which is \"better\" for learning? Now go one step further: what do you believe about the role of *wanting to avoid failure* versus *wanting to achieve success* in shaping how people approach challenges? Write down your position. The comparison between your starting point and your understanding after the analysis is where the most consequential learning will occur.",
+        "line_number": 148,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 7256,
+        "char_end": 7868
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Before proceeding, commit to a prediction: of the four goal types in the 2×2 (mastery-approach, mastery-avoidance, performance-approach, performance-avoidance), which do you expect shows the most contested and context-dependent empirical pattern? Which do you expect shows the most uniform pattern? Your prediction will be tested directly in Phase III.",
+        "line_number": 165,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 11501,
+        "char_end": 11900
+      },
+      {
+        "type": "definition",
+        "title": "Task Involvement vs. Ego Involvement (Nicholls, 1984)",
+        "body": "**Definition:** In [[John-G.-Nicholls]]' original framework, task involvement and ego involvement represent two qualitatively distinct states of engagement with an achievement activity. Task involvement is a motivational state in which success is defined as mastery of the task — demonstrating learning, improvement, or competence relative to one's own prior performance. Ego involvement is a motivational state in which success is defined as demonstrating superior ability relative to others, or at minimum avoiding demonstration of inferior ability. This is NOT merely a difference in goal content — it is a difference in the epistemological standard by which competence itself is evaluated.\n**Report-Specific Significance:** Nicholls' distinction provides the conceptual foundation for the mastery-performance axis in the 2×2 framework, but it was fundamentally a state-based theory, not a goal-orientation theory. The transition to goal orientations as stable individual differences required theoretical work that Nicholls himself was ambivalent about.\n**Operational Indicators:** Ego involvement can be identified by characteristic cognitive responses to failure (ability attribution, helplessness, withdrawal) and to success (relative-ability inference, defensive self-presentation). Task involvement can be identified by error correction behaviour, curiosity about process, and resilience to comparative failure.",
+        "line_number": 176,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 12237,
+        "char_end": 13737
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Differentiated Ability Concept as an Epistemological Trap",
+        "body": "There is something philosophically peculiar about the differentiated ability concept that Nicholls' framework only partially surfaces. Once a learner has differentiated effort from ability, they have acquired a cognitive tool that makes the motivational landscape more dangerous. The very cognitive sophistication that enables strategic learning — understanding that effort produces learning — also enables the self-handicapping inference: effortful success implies lower ability. This is not irrationality. It is the correct application of a valid inference rule to a socially charged domain. What makes ego involvement psychologically toxic is not cognitive deficiency but the over-application of a legitimate inference pattern to a domain (the demonstration of ability to others) that becomes the primary metric of self-worth. The trap, in other words, is epistemological before it is motivational.",
+        "line_number": 183,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 14392,
+        "char_end": 15386
+      },
+      {
+        "type": "definition",
+        "title": "The 2×2 Achievement Goal Framework (Elliot & McGregor, 2001)",
+        "body": "**Definition:** The 2×2 framework cross-classifies two conceptually independent dimensions — *definition of competence* (mastery vs. performance) and *valence of motivation* (approach vs. avoidance) — to yield four distinct achievement goal constructs: mastery-approach (MAP), mastery-avoidance (MAV), performance-approach (PAP), and performance-avoidance (PAP). The definition-of-competence dimension distinguishes whether the referent for competence evaluation is absolute/intrapersonal (mastery) or normative/interpersonal (performance). The valence dimension distinguishes whether the motivational impetus is moving toward a desired positive state or away from a feared negative state.\n**Report-Specific Significance:** This framework is the primary analytical object of this report. Its theoretical significance lies not in providing four categories where two existed before, but in revealing that the approach-avoidance distinction was always implicitly operative in the mastery-performance dichotomy — but obscured by conflating two independent dimensions into one.\n**Operational Indicators:** Goal type can be assessed via validated measures (e.g., the Achievement Goal Questionnaire-Revised) and inferred behaviorally — MAV goals characteristically produce vigilance toward incremental improvement failures; PAV goals produce defensive withdrawal or surface processing strategies.",
+        "line_number": 190,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 15870,
+        "char_end": 17347
+      },
+      {
+        "type": "definition",
+        "title": "Mastery-Approach Goal (MAP)",
+        "body": "**Definition:** Striving to develop competence, to learn, to master tasks, and to improve one's own performance. The standard is absolute or self-referential; success means doing better than one's prior performance or achieving task mastery. This is the approach pole of the mastery dimension.\n**Report-Specific Significance:** MAP goals are the most uniformly beneficial goal type in the empirical literature — the one cell of the 2×2 where the evidence across outcomes, populations, and contexts is most consistent.",
+        "line_number": 195,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 17348,
+        "char_end": 17918
+      },
+      {
+        "type": "definition",
+        "title": "Performance-Approach Goal (PAP)",
+        "body": "**Definition:** Striving to demonstrate superior competence relative to others — to outperform peers, to be the best in the class, to secure the highest grade. The standard is normative; success means standing above. This is the approach pole of the performance dimension.\n**Report-Specific Significance:** PAP goals are the theoretically contested cell. They predict higher academic performance on some measures but are associated with maladaptive patterns on others (shallow processing, lower intrinsic interest, reduced deep learning). The controversy about PAP goals is the analytic epicenter of this report.",
+        "line_number": 199,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 17919,
+        "char_end": 18588
+      },
+      {
+        "type": "definition",
+        "title": "Mastery-Avoidance Goal (MAV)",
+        "body": "**Definition:** Striving to avoid failure to learn, to avoid forgetting previously mastered material, to avoid performing worse than one's prior standard. The standard is self-referential, but the motivational orientation is avoidant. This is the rarest and most theoretically novel cell of the 2×2.\n**Report-Specific Significance:** MAV goals were [[John-Elliot|Andrew Elliot]]'s theoretical contribution — the cell that had no home in earlier frameworks. They appear predominantly in perfectionist individuals and in older adults concerned with maintaining existing competencies.",
+        "line_number": 203,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 18589,
+        "char_end": 19224
+      },
+      {
+        "type": "definition",
+        "title": "Performance-Avoidance Goal (PAV)",
+        "body": "**Definition:** Striving to avoid demonstrating inferior competence — to avoid being the worst in the class, to avoid public failure, to avoid being judged as incompetent. The standard is normative, but the motivational orientation is avoidant.\n**Report-Specific Significance:** PAV goals are the most uniformly maladaptive goal type. Unlike PAP goals, their effects across outcomes, populations, and contexts are remarkably consistent in direction.",
+        "line_number": 207,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 19225,
+        "char_end": 19732
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension:** Can you articulate why the mastery-performance distinction alone is insufficient to predict whether a learner will exhibit adaptive or maladaptive responses to failure? What does the approach-avoidance dimension add?\n**Application:** Think of a learning context you know well — a course, a skill domain, a sport. Can you identify the goal type that best describes how you typically approach that context? Does the framework capture something your earlier self-description missed?\n**Extension:** The 2×2 framework treats approach-avoidance as a binary. What would be lost or gained by treating it as a continuous dimension? What are the theoretical stakes of this modeling choice?",
+        "line_number": 223,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 21412,
+        "char_end": 22163
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point — Knowledge State Before",
+        "body": "Before reading the evidence sections: on a scale of 1-10, how confident are you that MAP goals uniformly produce better outcomes than PAP goals? Record your confidence level. After Phase III, you'll be invited to revisit it.",
+        "line_number": 242,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 23710,
+        "char_end": 24006
+      },
+      {
+        "type": "evidence",
+        "title": "MAP Goals and Deep Processing",
+        "body": "The most robust finding for MAP goals is not their relationship to academic performance — which is positive but smaller than expected — but their relationship to deep processing strategies, curiosity, and elaborative encoding. Learners with strong MAP orientations are more likely to ask \"why\" questions, seek connections between concepts, engage in [[Retrieval-Practice]], and allocate effort to understanding rather than surface reproduction. This has led researchers to describe MAP goals as *process-oriented* rather than performance-oriented — a distinction with direct implications for long-term retention and transfer.",
+        "line_number": 251,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 24506,
+        "char_end": 25182
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The PAV Uniformity Thesis",
+        "body": "What the evidence suggests, taken as a whole, is that PAV goals constitute a *threat-regulatory mode* that systematically hijacks cognitive resources away from learning and toward self-protective monitoring. This is not merely a correlation — the mechanisms are well-documented. Learners in PAV states show increased self-referential processing (monitoring whether they appear incompetent to others), reduced working memory capacity for task-relevant processing, heightened physiological arousal, and characteristic attribution patterns (attributing failure to stable, uncontrollable causes — ability — rather than unstable, controllable ones — effort or strategy). The uniformity of these effects is striking precisely because it persists even when the learner has sufficient ability to succeed. PAV goals are not simply what low-ability learners adopt; they are a motivational mode that suppresses performance below what ability would otherwise predict.",
+        "line_number": 260,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 25921,
+        "char_end": 26941
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Self-Protection Paradox in PAV Goals",
+        "body": "There is a deep irony embedded in PAV goal dynamics that the literature has not fully theorized. PAV goals are adopted precisely because the learner cares intensely about demonstrating competence — they wish to avoid the inference of incompetence by others. But the motivational and cognitive consequences of PAV adoption (surface processing, defensive help-seeking avoidance, reduced engagement with challenging material) systematically reduce the development of genuine competence over time. The goal adopted to protect the appearance of competence undermines the reality of it. This self-undermining dynamic is structurally similar to what [[Carol-Dweck|Dweck]] identified in the helpless response pattern but operates through a goal-mediation mechanism rather than an implicit theory mechanism. The convergence of these independent theoretical routes on the same self-undermining structure is analytically significant.",
+        "line_number": 263,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 26942,
+        "char_end": 27936
+      },
+      {
+        "type": "analytical-insight",
+        "title": "MAV Goals as a Window on Avoidance Regulation Under Self-Referenced Standards",
+        "body": "The existence and profile of MAV goals provides a natural experiment on what happens when avoidance regulation is directed at a self-referenced standard rather than a normative one. The finding that MAV goals reduce the severity of maladaptive outcomes compared to PAV goals — while still producing more anxiety and lower intrinsic interest than MAP goals — suggests that the *standard* dimension modulates the intensity of avoidance-mode pathology. Comparing MAV to an anxious self-critic perfecting their craft to protect a self-image of excellence. This is less socially threatening than PAV, but cognitively and emotionally expensive in ways that MAP is not. The MAV evidence thus supports the claim that avoidance regulation *per se* carries cognitive and affective costs, independent of whether the comparison standard is internal or external.",
+        "line_number": 272,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 28982,
+        "char_end": 29940
+      },
+      {
+        "type": "evidence",
+        "title": "The Performance-Approach Goal Controversy",
+        "body": "The core of the controversy can be stated precisely. Harackiewicz et al. (1997, 2002) found that PAP goals predicted course grades better than MAP goals in introductory psychology, suggesting that normative competition is motivationally potent under conditions of evaluative pressure. Midgley et al. (2001) challenged these findings on methodological and theoretical grounds, arguing that (1) MAP goals predict more important long-term outcomes than PAP goals even when the reverse is true for near-term grades, and (2) the finding reflects assessment artifacts (grades reward relative standing, so performance goals activate relevant strategies) rather than genuine motivational superiority. A subsequent meta-analysis (Hulleman et al., 2010) partially resolved the controversy by demonstrating that the PAP-performance association is stronger under conditions of evaluative threat, high-stakes testing, and ability-focused classroom environments — precisely the conditions that activate normative comparison.",
+        "line_number": 279,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 30416,
+        "char_end": 31489
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What PAP Goal Evidence Reveals About the Framework",
+        "body": "The contested status of PAP goals — beneficial for some outcomes in some conditions, harmful in others — reveals something important: PAP goals sit at the intersection of approach-mode motivation (which is generally adaptive) and normative competence evaluation (which is context-dependent in its consequences). The approach component of PAP goals confers genuine benefits: increased effort, sustained engagement, strategic behavior. But the performance component introduces context sensitivity: whether those benefits translate to learning, long-term retention, and intrinsic motivation depends on whether the learning environment allows approach regulation to operate without triggering the threat responses characteristic of PAV goals. High-stakes, zero-sum evaluation environments tend to convert the approach orientation of PAP goals into avoidance dynamics over time — a process Elliot and colleagues have called *goal adoption instability*.",
+        "line_number": 282,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 31490,
+        "char_end": 32527
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — After",
+        "body": "Return to your pre-Phase III confidence rating. Has it shifted? Was your prediction about which cell would show the most contested evidence correct? What specific piece of evidence most changed your thinking? If your confidence in the mastery-good-performance-bad narrative has decreased, identify the mechanism: is it the PAP controversy, the MAV evidence, or something else?",
+        "line_number": 287,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 33097,
+        "char_end": 33527
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension:** What is the single most important finding in the evidence base for understanding the approach-avoidance asymmetry, and why does it matter more than findings about mastery vs. performance?\n**Application:** If you were designing an assessment system for a skill domain you care about, what would the PAV evidence specifically tell you to avoid? What structural features of assessments are most likely to induce PAV goal adoption?\n**Extension:** The PAP evidence is context-moderated. What specific features of learning environments predict whether PAP goals produce adaptive or maladaptive outcomes? Can you generate a theoretical prediction from the mechanisms reviewed here?",
+        "line_number": 290,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 33528,
+        "char_end": 34273
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "The analysis ahead builds directly on the evidence from Phase III and takes a step up in mechanistic abstraction. It requires holding together (1) the cognitive science of threat-based information processing, (2) the social psychology of self-presentation concerns, and (3) the developmental history of ability conceptualization. If any of these feel underspecified, the Nicholls foundation in Phase II and the PAV evidence in Phase III are worth revisiting before proceeding.",
+        "line_number": 299,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 34330,
+        "char_end": 34850
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Approach-Avoidance in Achievement Goals → Regulatory Focus Theory (Higgins, 1997)",
+        "body": "The approach-avoidance asymmetry in achievement goals maps onto [[Higgins|Higgins']] regulatory focus theory in a structurally informative way. Promotion-focused individuals — who regulate behavior in relation to ideals, gains, and hoped-for positive end states — show cognitive and behavioral signatures characteristic of approach-mode motivation: broader attentional scope, increased creativity, higher risk tolerance, faster but less accurate performance. Prevention-focused individuals — who regulate in relation to oughts, safety, and feared negative end states — show signatures characteristic of avoidance-mode motivation: narrower attentional scope, lower error rates, reduced creativity, more careful but slower processing. The analogy holds because both frameworks are identifying the same underlying regulatory asymmetry: the approach system is activated by positive-valence representations and supports exploratory behavior; the avoidance system is activated by threat representations and supports protective behavior. Achievement goal researchers have drawn on this convergence to provide mechanistic grounding for the PAV-maladaptive association: PAV goals activate prevention-focus regulatory processes that, while adaptive in genuinely threatening environments, are systematically costly in learning environments requiring exploration, error tolerance, and cognitive flexibility.",
+        "line_number": 306,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 35553,
+        "char_end": 37066
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Attentional Hijacking as the Primary PAV Mechanism",
+        "body": "The narrowing of attentional scope under avoidance motivation is the most parsimonious explanation for the PAV-deep processing relationship. Deep processing requires sustained, flexible attention to complex material — following an argument, integrating new information with prior knowledge, generating inferences. This requires attentional resources that avoidance motivation systematically redirects toward threat monitoring. The consequence is not reduced effort but *misdirected effort* — effortful attention deployed on self-protective monitoring rather than epistemic exploration. This explains why PAV learners often report high effort while showing shallow processing: effort is real, but its target is wrong. It also explains why the PAV-performance relationship is worse than the effort investment would predict.",
+        "line_number": 315,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 37823,
+        "char_end": 38726
+      },
+      {
+        "type": "evidence",
+        "title": "Help-Seeking and Achievement Goals",
+        "body": "Ryan and Pintrich (1997) demonstrated that PAV goals were negatively associated with adaptive help-seeking (asking for the understanding needed to master the material) while being positively associated with avoidant help-seeking (avoiding situations where help might be needed, or asking for answers rather than explanation). MAP goals showed the reverse pattern: positive association with adaptive help-seeking. This mechanism has direct instructional implications: classrooms structured to activate PAV goals — through public comparative evaluation, normative grading curves, or ability tracking — may systematically suppress the very behaviour (asking questions, seeking clarification, exposing confusion) that enables learning.",
+        "line_number": 322,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 39207,
+        "char_end": 39994
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Failure Attribution Asymmetry as a Learning Resource Differential",
+        "body": "A powerful way to understand the approach-avoidance asymmetry in failure attribution is as a *learning resource differential*. For MAP-oriented learners, failure is a resource — it contains information about the gap between current performance and mastery that can be used to improve strategy, allocate effort, and seek assistance. For PAV-oriented learners, failure is a threat to be managed — and threat management (defensive attribution, self-handicapping, withdrawal from challenging tasks) consumes cognitive and motivational resources that would otherwise be available for learning. The asymmetry is not about the amount of effort invested but about whether that effort is directed toward learning or toward self-protection. Over time, this resource differential compounds: MAP learners accumulate genuinely useful failure experience; PAV learners accumulate defensive responses that become increasingly reflexive.",
+        "line_number": 331,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 40997,
+        "char_end": 42018
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Goal Conversion Hypothesis and Its Empirical Status",
+        "body": "A theoretically important but empirically contested claim in achievement goal research is that PAP goals are unstable under competitive pressure — that they tend to convert toward PAV dynamics when normative comparison becomes threatening. Elliot and colleagues have provided experimental evidence for this conversion process. Critics (notably Harackiewicz and collaborators) have argued that the evidence for conversion is limited and that PAP goals can be held stably over time without generating PAV-like consequences. The current state of evidence suggests a conditional claim: goal conversion is more likely in populations with low perceived competence, in high-stakes competitive environments, and when PAP goal strength is matched by strong normative threat. The implication for educational practice is that the adaptive value of PAP goals is competence-contingent in a way that MAP goals are not — an asymmetry that is itself revealing about the fundamental difference between approach and avoidance as regulatory modes.",
+        "line_number": 340,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 42929,
+        "char_end": 44044
+      },
+      {
+        "type": "analytical-insight",
+        "title": "PAP Goals as Approach Motivation Under a Precarious Standard",
+        "body": "The contested status of PAP goals makes theoretical sense if we understand them as *approach motivation operating under a precarious evaluative standard*. The approach component — moving toward positive competence — confers genuine advantages. But the normative standard introduces fragility: it depends on the performance of others (uncontrollable), on evaluative judgments (external), and on zero-sum distributions of relative standing. MAP goals share the approach orientation but operate under a standard (self-referenced mastery) that is more robustly under the learner's control. The contrast illuminates why approach-avoidance is more fundamental than mastery-performance: it is the approach orientation, not the mastery standard, that drives the core adaptive benefits of MAP goals. PAP goals capture the approach orientation but apply it to a more fragile standard, producing context-dependent outcomes. The question is not whether to approach, but what to approach.",
+        "line_number": 343,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 44045,
+        "char_end": 45112
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Calibration Check",
+        "body": "Rate your current understanding of the mechanisms linking approach-avoidance regulation to information processing on a scale of 1-10. Now, without looking back: explain, in your own words, why attentional scope narrowing under avoidance motivation suppresses deep processing even when the learner invests high effort. If you find the explanation incomplete, the help-seeking mechanism section above is the missing piece.",
+        "line_number": 348,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 45860,
+        "char_end": 46328
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension:** What mechanism most changed your understanding of why PAV goals are maladaptive? Was it attentional hijacking, help-seeking suppression, or failure attribution — and why did that particular mechanism land most forcefully?\n**Application:** Think of a specific teaching or coaching practice you are familiar with. Which of the three mechanisms does it most risk activating? What modification would reduce that risk?\n**Extension:** The PAP goal conversion hypothesis suggests that competitive motivation is conditionally adaptive. Under what conditions would you recommend deliberately deploying normative competition as a motivational strategy? What safeguards would be necessary?",
+        "line_number": 351,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 46329,
+        "char_end": 47080
+      },
+      {
+        "type": "best-practice",
+        "title": "Motivational Climate Design: Moving Beyond Praise Style",
+        "body": "The practical implication of motivational climate research is not simply \"praise effort rather than ability\" — though that is supported. It is that the *structural features* of evaluation systems, not just their interpersonal texture, determine goal adoption. Public ranking (even friendly leaderboards), grade normalization, and comparative feedback language (you scored in the top 20%) activate performance goal orientations. Mastery-structured alternatives include: criterion-referenced grading (absolute standards rather than relative standing), private performance feedback, error-tolerant practice environments, and explicit metacognitive scaffolding that frames mistakes as information rather than judgment. Critically, these are not merely affective adjustments — they restructure the informational meaning of performance in ways that change which goal type is rationally adopted.",
+        "line_number": 368,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 48046,
+        "char_end": 49016
+      },
+      {
+        "type": "best-practice",
+        "title": "Assessment Design for Approach Orientation",
+        "body": "High-stakes, single-shot, comparative assessments maximally activate PAP and PAV goal orientations — precisely the combination most likely to produce PAV-like processing strategies for lower-confidence learners and goal conversion risk for higher-confidence ones. Low-stakes, iterative, criterion-referenced assessments with granular feedback on specific skills activate MAP orientations. The practical implication for [[Formative-Assessment]] design: frequent low-stakes assessments with mastery-referenced feedback are not just pedagogically sound (they support retrieval practice and calibration) — they are motivationally protective, reducing the environmental conditions that generate PAV goal adoption.",
+        "line_number": 375,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 49343,
+        "char_end": 50120
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Achievement Goals as the Motivational Infrastructure of SRL",
+        "body": "It is tempting to treat achievement goals and self-regulatory strategies as independent — one motivational, one cognitive. The evidence resists this separation. Achievement goals do not merely provide the energy for self-regulation; they shape the cognitive processes that constitute it. A learner with MAP goals who monitors their comprehension and encounters a failure signal (I don't understand this) treats that signal as information to act on — the appropriate adaptive response. A learner with PAV goals who receives the same comprehension failure signal faces a motivational conflict: acting on it (seeking clarification, re-reading, asking for help) risks displaying incompetence. The goal type determines whether cognitive monitoring signals are processed as learning information or as social threat — and this determination happens upstream of the strategic response. Achievement goals, in this analysis, are the motivational infrastructure that determines whether the cognitive architecture of SRL can function adaptively.",
+        "line_number": 382,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 50732,
+        "char_end": 51856
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Malleable Infrastructure Model",
+        "body": "What the evidence suggests about the stability-malleability question is a *malleable infrastructure* model: individuals have dispositional tendencies toward particular goal orientations that are shaped by prior achievement history, implicit theories of intelligence, and parenting and teaching style — but these dispositions are continuously updated by environmental signals. This explains both the individual difference evidence (people differ predictably in their baseline orientations) and the motivational climate evidence (environments powerfully shift goal distributions). The practical implication: both individual-level intervention (e.g., growth mindset interventions that shift implicit theories of intelligence) and environment-level intervention (motivational climate design) are valid levers, and they operate through partially independent pathways.",
+        "line_number": 399,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 53684,
+        "char_end": 54620
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Implications",
+        "body": "**Comprehension:** Of the three implications — motivational climate, assessment design, and SRL infrastructure — which represents the greatest departure from conventional educational practice? Why does conventional practice tend to neglect it?\n**Application:** Select one specific educational or professional development environment you know well. Apply the motivational climate design principles: what is the single most maladaptive structural feature in terms of goal adoption? What specific change would most reduce PAV goal activation?\n**Extension:** The malleable infrastructure model suggests that both individual-level and environment-level interventions are valid. Under what conditions would you prioritize one over the other? What determines which lever is more accessible and more powerful in a given context?",
+        "line_number": 404,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 55268,
+        "char_end": 56144
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Regulatory Mode Primacy Thesis in Achievement Motivation",
+        "body": "The analysis in this report supports what I will call the *regulatory mode primacy thesis* in achievement motivation: the approach-avoidance distinction is the primary axis of motivational architecture in competence-based achievement contexts, and the mastery-performance distinction is the secondary axis that modulates the consequences of that primary regulation. This thesis has three components. First, approach and avoidance regulatory modes activate fundamentally different cognitive processing profiles — differing in attentional scope, information integration style, error tolerance, and help-seeking behavior — and these profiles are not symmetric under environmental pressure. Second, the standard by which competence is defined (mastery vs. performance) modulates the stability and cost of these profiles rather than generating them. Third, the practical implication is that motivational climate interventions should prioritize reducing avoidance-mode activation before optimizing the competence-definition standard — because an environment structured to support mastery goals but that still activates avoidance regulation through high-stakes normative evaluation will generate PAP and PAV goal adoption, not MAP adoption.",
+        "line_number": 427,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 58528,
+        "char_end": 59853
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The 2×2 as a Map of Vulnerability, Not Just Goal Types",
+        "body": "A second synthetic contribution: the 2×2 framework is most productively understood not as a taxonomy of goal types but as a *map of motivational vulnerability*. The four cells describe four different relationships to the possibility of failure. MAP learners treat failure as instructive. MAV learners treat failure as threatening to self-standards but not yet to self-worth. PAP learners treat failure as threatening when it implies relative inferiority. PAV learners treat failure as threatening to their fundamental self-worth as a competent person. The vulnerability gradient runs from MAP (low vulnerability to failure's motivational impact) to PAV (high vulnerability), and the approach-avoidance axis is the primary determinant of where on that gradient a learner sits. This reframing has implications for both assessment design and clinical intervention: the target of intervention is not simply the goal content but the learner's relationship to failure — the degree to which failure information is processed as learning data or as self-worth threat.",
+        "line_number": 436,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 61064,
+        "char_end": 62208
+      },
+      {
+        "type": "reflection",
+        "title": "Final Integration",
+        "body": "**Comprehension:** What is the single most important insight from this analysis — not the most interesting finding, but the most consequential insight for how you understand achievement motivation?\n**Application:** If you were to explain the regulatory mode primacy thesis to a colleague in three sentences, what would you say?\n**Extension:** What is the next question this analysis opens up that this report does not answer?",
+        "line_number": 441,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 62588,
+        "char_end": 63058
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Achievement Goals → Health Behavior Change",
+        "body": "Regulatory mode primacy operates in health behavior research with remarkable structural similarity. Promotion-focused health goals (approach: I want to be healthy, fit, energized) predict sustained behavioral change and intrinsic regulation of health behaviors. Prevention-focused health goals (avoidance: I want to avoid being sick, unfit, overweight) predict short-term compliance but higher relapse rates and lower autonomous motivation. The structural parallel is exact: approach health goals support the exploratory, error-tolerant engagement with health practices that generates genuine internalization; avoidance health goals activate threat-monitoring that makes the health domain cognitively expensive and motivationally brittle. The self-protection paradox also reappears: people who approach health as a domain for protecting against feared negative states often avoid health-related feedback (medical checkups, weight monitoring, fitness tests) because that feedback might contain failure signals — precisely the feedback needed for adaptive health management.",
+        "line_number": 468,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 65764,
+        "char_end": 66915
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Achievement Goals → Psychological Safety in Teams (Edmondson)",
+        "body": "Amy Edmondson's research on [[Psychological-Safety|psychological safety]] in teams maps onto the PAV dynamics identified in this analysis with near-perfect structural isomorphism. Teams low in psychological safety show the same behavioral signatures as PAV-oriented learners: suppressed help-seeking, avoidance of admitting errors, surface compliance over genuine engagement, and reduced willingness to take interpersonal risks. The mechanism is structurally identical: the self-presentation concern — not appearing incompetent to the group — activates avoidance regulation that suppresses the very behaviors (transparent error reporting, asking questions, proposing novel approaches) that make teams learn and perform effectively. The structural analogue is precise: psychological safety is the team-level equivalent of a mastery-approach motivational climate. The application bridge runs both ways: achievement goal research on climate design can inform psychological safety interventions, and psychological safety research (which has a rich intervention literature) can inform motivational climate design in educational contexts.",
+        "line_number": 471,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 66916,
+        "char_end": 68146
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Achievement Goals → Creative Performance Research",
+        "body": "Research on the conditions supporting creative performance shows a striking structural parallel to the MAP-PAV contrast. Conditions that activate promotion-focused self-regulation (positive affect, autonomy support, intrinsic motivation, low evaluative threat) enhance creative output and quality. Conditions that activate prevention-focused regulation (high-stakes evaluation, normative comparison, performance-contingent external control) suppress creativity, particularly in domains requiring conceptual risk-taking and tolerance for incomplete or ambiguous ideas. The mechanism is the same: approach regulation supports the broad attentional scope and error tolerance necessary for exploration; avoidance regulation narrows attention and prioritizes error avoidance. The transfer encoding: whenever creative quality is the target, evaluate the motivational climate using the PAV-detection heuristics developed in educational research. Diagnostic question: Are participants more afraid of generating bad ideas than motivated to generate good ones?",
+        "line_number": 474,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 68147,
+        "char_end": 69283
+      },
+      {
+        "type": "best-practice",
+        "title": "Application Bridge: Feedback System Design in Organizations",
+        "body": "In organizational feedback systems — performance reviews, 360-degree assessments, developmental feedback programmes — the approach-avoidance asymmetry predicts that feedback systems structured around avoiding failure (don't miss targets, don't fall below benchmark) will activate PAV-like regulatory dynamics in recipients, suppressing genuine learning from feedback and increasing defensive processing. Adaptive alternatives: structure feedback explicitly around learning and growth targets (approach); use criterion-referenced rather than comparative standards; separate developmental feedback from evaluative judgment; create low-stakes practice contexts where failure-signal processing is decoupled from reward and punishment consequences. The key adaptation from the educational domain: the *stakes decoupling* that enables mastery-approach orientation in educational contexts is achievable in organizational settings through structured developmental feedback distinct from formal performance evaluation.",
+        "line_number": 489,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 70305,
+        "char_end": 71400
+      },
+      {
+        "type": "best-practice",
+        "title": "Application Bridge: Clinical Intervention for Perfectionism",
+        "body": "Perfectionist psychopathology — which reliably predicts anxiety, depression, and reduced performance quality — maps onto the MAV and PAV profiles. Maladaptive perfectionism is not high standards per se but avoidance motivation applied to self-referenced standards. Acceptance and Commitment Therapy and Compassionate Mind Training work through mechanisms that can be understood as converting avoidance-mode regulation toward approach-mode — defusing the self-threatening character of failure signals and reestablishing the conditions for exploratory engagement with challenging material. The transfer from achievement goal theory: the therapeutic target in perfectionism is not the standard (reduce expectations) but the regulatory mode (reduce avoidance activation in response to failure signals). This explains why purely cognitive challenging of perfectionist beliefs is often insufficient — it addresses the content of the goals without changing the regulatory mode in which they are held.",
+        "line_number": 492,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 71401,
+        "char_end": 72480
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Transfer Application",
+        "body": "The principle of approach-avoidance asymmetry was identified in achievement motivation. Can you identify a specific domain in your own work or study — a team you participate in, a skill you are developing, a feedback system you use — where this same regulatory structure might be operating? What specific prediction would the principle generate for that domain? Testing this prediction is where abstract understanding becomes practical capability.",
+        "line_number": 501,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 73398,
+        "char_end": 73896
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Transfer",
+        "body": "**Comprehension:** Which structural analogue surprised you most? What made the connection non-obvious?\n**Application:** Choose one application bridge and identify a specific context in your professional or personal life where you could apply it. What would the first concrete step be?\n**Extension:** What does the broad transferability of the approach-avoidance asymmetry tell you about the level of abstraction at which motivational research is most generative?",
+        "line_number": 506,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 74408,
+        "char_end": 74922
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\nThis focused analysis of the approach-avoidance asymmetry in Achievement Goal Theory connects to the broader knowledge base in the following substantive ways:\n\n- **[[Growth-Mindset-Theory]]** — Dweck's implicit theories of intelligence framework converges on the same psychological territory as the mastery-approach/PAV distinction from an independent theoretical direction. A fixed-mindset belief (intelligence is fixed) creates the conditions for ego-involvement and PAV goal adoption: if ability is fixed, failure becomes identity-threatening rather than informative. This report's regulatory mode primacy thesis and the growth mindset literature are mutually reinforcing — fixed mindset activates avoidance regulation; growth mindset enables approach regulation. The connection is mechanistic, not merely analogical.\n\n- **[[Self-Regulated-Learning]]** — The [[Paul-Pintrich|Pintrich]] integrated framework treats achievement goals as the motivational substrate that determines whether SRL cognitive operations function adaptively. This analysis deepens that connection: goals shape not just the energy available for self-regulation but the *processing mode* in which self-regulatory monitoring operates. The SRL literature's emphasis on metacognitive monitoring and strategy selection assumes an approach-mode orientation — the monitoring system is designed to detect performance gaps and respond with strategic adjustment. PAV goals systematically convert gap-detection from a learning trigger into a threat response, short-circuiting the adaptive SRL cycle.\n\n- **[[Basic-Psychological-Needs-Theory]]** — SDT's framework and AGT share a deep structural connection that is not always made explicit. The [[Competence-Need|competence need]] in BPNT is satisfied by *mastery-approach* regulatory experiences — feeling effectant, progressing, overcoming challenges — but is frustrated by evaluative pressure that activates PAV-like threat responses. The autonomy-support literature's finding that controlling environments reduce intrinsic motivation can be read through the AGT lens: controlling environments activate PAV goal orientations, which suppress the intrinsic engagement that sustains autonomous motivation. AGT and BPNT are thus identifying the same motivational dynamic from different theoretical angles.\n\n- **[[Motivational-Climate-Design]]** — This report's evidence on motivational climate directly operationalizes the design target that the Motivational Climate Design node frames at a more abstract level. The specific structural features identified here — criterion-referenced grading, private feedback, error-tolerant practice, metacognitive framing of mistakes — provide the engineering specifications for mastery-structured environments that the climate design node points toward but does not specify.\n\n- **[[Attribution-Theory]]** — [[Bernard-Weiner]]'s attribution framework underlies the failure attribution mechanism analyzed in Phase IV. The connection is that PAV goals predispose learners toward stable, internal, uncontrollable ability attributions for failure — the classic learned-helplessness trajectory. AGT provides the motivational context in which attribution patterns become self-reinforcing: PAV goals generate ability attributions, which deepen PAV orientation, which generate further ability attributions under subsequent failure.\n\n- **[[Learned-Helplessness]]** — The PAV goal trajectory described in this report is the motivational mechanism through which learned helplessness develops in evaluative contexts. This connection runs between experimental psychology (Seligman's controllability model) and motivational psychology (Elliot's AGT framework) through the shared mechanism of uncontrollable-failure attribution.\n\n- **[[Feedback-Design]]** — The application bridge in Phase V (assessment as goal architecture) directly connects to the feedback design principles for autonomy and mastery. The analysis in this report provides the motivational mechanism explanation for *why* mastery-structured feedback produces better long-term outcomes: it reduces PAV goal activation and supports approach-mode information processing.\n\n- **[[Flow-Theory]]** — Csikszentmihalyi's [[Flow|flow]] state requires conditions strikingly similar to those that support MAP goal activation: optimal challenge matched to skill, intrinsic absorption, freedom from self-consciousness and evaluative concern. PAV goal conditions are incompatible with flow — the self-monitoring that PAV goals require is structurally incompatible with the ego-dissolution that characterizes flow states. This suggests that flow facilitation and PAV-reduction are aligned interventional targets.\n\n**Cross-Report Links:**\n\n- **[[Motivation-Theory-Foundational-Report]]** — This focused analysis extends the foundational treatment by drilling specifically into the approach-avoidance dimension of achievement motivation, providing the mechanistic account that the foundational report surveys more broadly.\n\n- **[[basic-psychological-needs-theory-focused-analysis-2026-03-13|Basic Psychological Needs Theory Focused Analysis]]** — The two analyses are complementary: BPNT explains why need-supportive environments produce intrinsic motivation; AGT explains what goal structures are activated in need-supportive vs. need-thwarting environments and why those goal structures produce different cognitive-processing outcomes.\n\n- **[[metacognitive-scaffolding-focused-analysis-2026-03-20|Metacognitive Scaffolding Focused Analysis]]** — Metacognitive scaffolding is more effective under approach-mode motivational conditions. The insight from this report — that PAV goals convert metacognitive monitoring from learning-information processing to threat-monitoring — provides the motivational account for why metacognitive interventions are more effective in low-evaluative-threat contexts.\n\n**Synthetic Observation:** The pattern of connections reveals that AGT operates as a *motivational bridge* in the PKB — connecting the macrolevel climate structures (motivational climate, feedback design), the individual-level processing dynamics (SRL, metacognition, attribution), and the basic needs framework (BPNT) that all these more specific theories are grounded in. The approach-avoidance asymmetry identified in this report is the mechanism through which climate-level variables produce individual-level cognitive and motivational consequences.",
+        "line_number": 515,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 74981,
+        "char_end": 81520
+      },
+      {
+        "type": "definition",
+        "title": "Differentiated Ability Concept (Nicholls, 1978)",
+        "body": "**Definition:** The cognitive developmental achievement, typically consolidated in middle childhood, by which children come to understand that effort and ability are independent causes of performance outcomes, such that high effort required to succeed can imply lower ability relative to others who succeed with less effort. This understanding is the developmental precondition for ego involvement, as it enables the inference that failure implies low ability.\n**Report-Specific Significance:** The differentiated ability concept is the developmental foundation of the approach-avoidance asymmetry in achievement contexts — it is the cognitive prerequisite for the self-protection dynamic that generates PAV goal adoption.\n**Operational Indicators:** Children who have achieved the differentiated concept characteristically interpret effort as potentially ability-threatening when they succeed; those who have not interpret high effort as evidence of high ability.\n**Etymology/Intellectual Lineage:** Coined by [[John-G.-Nicholls]] in a series of developmental studies beginning in 1978; grounded in Piagetian cognitive development theory.\n**Cross-References:** [[Achievement-Goal-Theory]], [[Ego-Involvement]], [[Performance-Avoidance-Goal]]",
+        "line_number": 552,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 81578,
+        "char_end": 82899
+      },
+      {
+        "type": "definition",
+        "title": "Regulatory Mode (Approach vs. Avoidance)",
+        "body": "**Definition:** A fundamental dimension of motivated behavior distinguishing whether behavioral regulation is oriented toward achieving a desired positive outcome (approach) or toward preventing an undesired negative outcome (avoidance). NOT equivalent to the distinction between positive and negative affect — both approach and avoidance can involve positive or negative affect; the distinction is regulatory, not affective.\n**Report-Specific Significance:** This is the primary analytic construct in this report. The regulatory mode primacy thesis claims that this dimension is more theoretically fundamental than the mastery-performance distinction for predicting motivational consequences in achievement contexts.\n**Operational Indicators:** Approach regulation produces broader attentional scope, higher risk tolerance, and more adaptive failure responses. Avoidance regulation produces narrowed attentional scope, lower risk tolerance, and threat-dominated failure responses.\n**Etymology/Intellectual Lineage:** Theorized across multiple frameworks: Gray's BAS/BIS neurobiological model, Higgins' regulatory focus theory, Carver and Scheier's control theory, and Elliot's achievement goal expansion.\n**Cross-References:** [[2×2-Framework]], [[Goal-Framing]], [[Mastery-Approach-Goal]], [[Performance-Avoidance-Goal]]",
+        "line_number": 559,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 82900,
+        "char_end": 84294
+      },
+      {
+        "type": "definition",
+        "title": "Motivational Climate (Ames, 1992)",
+        "body": "**Definition:** The goal-relevant structure of an achievement environment — the constellation of signals, practices, and evaluative procedures that implicitly communicate which type of achievement is valued, how success is defined, and how ability is evaluated. A mastery climate emphasizes personal improvement, effort, and learning; a performance climate emphasizes normative comparison, relative ability, and competitive success.\n**Report-Specific Significance:** Motivational climate is the primary environmental lever for shaping goal adoption distributions — it determines the goal type ecology in which individual learners operate. This report argues that mastery climate design should prioritize avoidance-reduction over mastery-promotion as its first-order target.\n**Operational Indicators:** Climate type can be assessed via structural features (grading type, ranking practices, feedback language) and perceptual reports (perceived task vs. ego climate instruments).\n**Etymology/Intellectual Lineage:** Developed by Carole Ames (1992) building on Nicholls; extended through the TARGET framework (Epstein, 1988) and extensive sport psychology research (Ntoumanis & Biddle, 1999).\n**Cross-References:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Mastery-Goal-Orientation]]",
+        "line_number": 566,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 84295,
+        "char_end": 85661
+      },
+      {
+        "type": "definition",
+        "title": "Goal Conversion (Elliot & colleagues)",
+        "body": "**Definition:** The process by which a performance-approach goal orientation converts toward performance-avoidance dynamics under conditions of competitive threat, low perceived competence, or repeated relative failure. Goal conversion involves not simply a shift in goal content but a shift in the underlying regulatory mode — from approach to avoidance — while the performance standard (normative comparison) is maintained.\n**Report-Specific Significance:** Goal conversion is the primary mechanism explaining the context-dependent character of PAP goal effects and the theoretical basis for the claim that PAP goals are motivationally less stable than MAP goals.\n**Operational Indicators:** Goal conversion can be inferred from longitudinal patterns in goal endorsement and from characteristic behavioral shifts (reduced risk-taking, increased self-handicapping, reduced help-seeking) under competitive conditions.\n**Cross-References:** [[Performance-Approach-Goal]], [[Performance-Avoidance-Goal]], [[2×2-Framework]]",
+        "line_number": 573,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 85662,
+        "char_end": 86749
+      },
+      {
+        "type": "definition",
+        "title": "Adaptive Help-Seeking vs. Avoidant Help-Seeking (Ryan & Pintrich, 1997)",
+        "body": "**Definition:** Adaptive help-seeking is the strategic use of assistance to acquire the understanding needed to achieve mastery — asking for explanation, requesting feedback, seeking clarification. Avoidant help-seeking is the avoidance of situations requiring assistance or the solicitation of answers rather than explanations, motivated by the desire to conceal incompetence.\n**Report-Specific Significance:** The distinction operationalizes one of the three core mechanisms through which PAV goals suppress adaptive learning behavior. PAV learners are not less likely to need help; they are less likely to seek the kind of help that produces genuine learning.\n**Cross-References:** [[Achievement-Goal-Theory]], [[Performance-Avoidance-Goal]], [[Self-Regulated-Learning]]",
+        "line_number": 579,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 86750,
+        "char_end": 87622
+      },
+      {
+        "type": "person",
+        "title": "John G. Nicholls (1940–1994)",
+        "body": "**Core Contribution:** Developed the foundational distinction between task involvement and ego involvement in achievement motivation, and the concept of the differentiated ability concept as its developmental precondition. Established that the standard by which competence is evaluated — self-referenced vs. normative — determines the motivational dynamics of achievement behavior.\n**Relationship to Other Figures:** Influenced by Harter's competence motivation theory and White's effectance motivation concept; parallel development with Dweck's work on achievement patterns; preceded and theoretically grounded Elliot's 2×2 extension.\n**Key Works:** *The competitive ethos and democratic education* (1989); \"Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance\" (*Psychological Review*, 1984).\n**Relevance to This Analysis:** Nicholls' differentiated ability concept is the psychological foundation of the PAV dynamics analyzed in this report — it explains why normative comparison generates self-worth threat in ways that self-referenced standards do not.",
+        "line_number": 586,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 87666,
+        "char_end": 88824
+      },
+      {
+        "type": "person",
+        "title": "Andrew Elliot (1964– )",
+        "body": "**Core Contribution:** Extended the mastery-performance dichotomy by adding the approach-avoidance dimension, producing the 2×2 achievement goal framework (with McGregor, 2001). Developed the hierarchical model of approach-avoidance motivation connecting personality traits (BIS/BAS) to achievement goal adoption.\n**Relationship to Other Figures:** Built directly on Nicholls; developed the 2×2 in dialogue with Harackiewicz (with whom he had a productive theoretical controversy) and Dweck (whose implicit theories model provides a dispositional pathway to goal adoption).\n**Key Works:** \"A hierarchical model of approach and avoidance achievement motivation\" (*Journal of Personality and Social Psychology*, 1997); \"A 2×2 achievement goal framework\" (with McGregor, *Journal of Educational Psychology*, 2001).\n**Relevance to This Analysis:** Elliot is the primary architect of the analytical framework examined in this report. His hierarchical model grounds the approach-avoidance distinction in personality systems (BAS/BIS), providing mechanistic depth that purely descriptive frameworks lack.",
+        "line_number": 592,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 88825,
+        "char_end": 89970
+      },
+      {
+        "type": "person",
+        "title": "Carol Dweck (1946– )",
+        "body": "**Core Contribution:** Independently developed the mastery-performance distinction (originally framed as learning vs. performance goals) from a social-cognitive perspective focused on implicit theories of intelligence. Identified the helpless vs. mastery-oriented response patterns as the behavioral signatures of fixed vs. growth mindset.\n**Relationship to Other Figures:** Developed parallel to but largely independently of Nicholls; converged with Elliot in recognizing the approach-avoidance distinction as critical to understanding achievement motivation.\n**Key Works:** *Self-theories: Their role in motivation, personality, and development* (1999); \"Motivational processes affecting learning\" (*American Psychologist*, 1986).\n**Relevance to This Analysis:** Dweck's framework provides the developmental and cognitive pathway through which implicit theories of intelligence generate characteristic goal orientations, grounding the approach-avoidance analysis in a broader theory of the self.",
+        "line_number": 598,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 89971,
+        "char_end": 91014
+      },
+      {
+        "type": "tension",
+        "title": "The PAP Goals Controversy: Performance-Approach as Adaptive or Disruptive?",
+        "body": "**Position A (Harackiewicz et al.):** PAP goals are adaptive in performance-oriented contexts and should not be discouraged. They predict academic achievement, sustained engagement, and motivational persistence in competitive academic environments. Discouraging normative competition removes motivationally potent cues that many students rely on for sustained effort.\n**Position B (Midgley, Elliot, and colleagues):** PAP goals predict near-term performance at the cost of long-term learning, deep processing, intrinsic motivation, and motivational stability. They are adaptive only in the narrow sense that they fit the current (maladaptive) structure of competitive academic environments. Endorsing PAP goals endorses the evaluative structure that generates them.\n**Current Evidence State:** Meta-analyses support a conditional claim: PAP goals predict performance on near-term evaluations (especially under normative grading) but do not predict deep learning, intrinsic interest, or long-term retention. The relationship is competence-contingent and context-moderated.\n**Why This Matters:** The resolution of this controversy has direct implications for assessment design and motivational climate engineering. If PAP goals are adaptive in some contexts, climate design should optimize PAP goal stability (reducing goal conversion risk). If they are inherently fragile, climate design should prioritize MAP goal activation even in competitive environments.\n**This Report's Stance:** PAP goals are approach-mode and thus inherently less maladaptive than PAV goals, but their adaptive value is bounded by the precariousness of the normative standard. The regulatory mode primacy thesis suggests that the approach component of PAP goals is the source of their benefits; the performance component is the source of their fragility. Disentangling these components is the most important unanswered question in contemporary AGT research.",
+        "line_number": 606,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 91060,
+        "char_end": 93094
+      },
+      {
+        "type": "open-question",
+        "title": "The MAV Goal Functional Profile",
+        "body": "Mastery-avoidance goals remain the least studied cell in the 2×2. The open question is whether MAV goals constitute a genuinely distinct motivational category with characteristic adaptive functions (perfectionist motivation for sustained performance maintenance) or whether they are a variant of anxiety-driven motivation that happens to target a self-referenced standard. What longitudinal evidence exists suggests that MAV goals are associated with elevated anxiety and reduced intrinsic interest even when they sustain performance level — but the mechanisms are incompletely specified and the population in which they are most functional (expert performers concerned with skill maintenance) has not been adequately studied.",
+        "line_number": 613,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 93095,
+        "char_end": 93879
+      },
+      {
+        "type": "cite",
+        "title": "Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328–346.",
+        "body": "The foundational theoretical paper establishing the distinction between task and ego involvement and the differentiated ability concept. Essential for understanding the historical preconditions of the 2×2 framework. Recommended in full — Nicholls' theoretical exposition is unusually clear. Primary source for Phase II.",
+        "line_number": 618,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 93899,
+        "char_end": 94400
+      },
+      {
+        "type": "cite",
+        "title": "Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. *Journal of Educational Psychology, 93*(3), 534–548.",
+        "body": "The paper that established the 2×2 framework in its current form. Provides the theoretical rationale for adding the approach-avoidance dimension, the initial validation of the four-cell measurement structure, and evidence for the differential outcome associations. Primary source for Phases II and III.",
+        "line_number": 621,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 94401,
+        "char_end": 94848
+      },
+      {
+        "type": "cite",
+        "title": "Elliot, A. J. (1999). Approach and avoidance motivation and achievement goals. *Educational Psychologist, 34*(3), 169–189.",
+        "body": "A theoretical review paper that articulates the hierarchical model connecting personality-level approach/avoidance motivation to achievement goal adoption. Provides mechanistic grounding for the approach-avoidance asymmetry. Recommended for Phase IV background.",
+        "line_number": 624,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 94849,
+        "char_end": 95250
+      },
+      {
+        "type": "cite",
+        "title": "Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.",
+        "body": "The theoretical integration paper connecting implicit theories of intelligence to goal orientation and behavioral response patterns. Establishes the failure attribution mechanism and the helpless vs. mastery-oriented response profiles. Primary source for Phase IV's attribution discussion.",
+        "line_number": 627,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 95251,
+        "char_end": 95695
+      },
+      {
+        "type": "cite",
+        "title": "Hulleman, C. S., Schrager, S. M., Bodmann, S. M., & Harackiewicz, J. M. (2010). A meta-analytic review of achievement goal measures: Different labels for the same constructs or different constructs with similar labels? *Psychological Bulletin, 136*(3), 422–449.",
+        "body": "The most comprehensive meta-analysis partially resolving the PAP goals controversy. Essential for understanding the context-dependence of PAP effects and the measurement issues underlying the debate. Recommended for Phase III evidence evaluation.",
+        "line_number": 630,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 95696,
+        "char_end": 96221
+      },
+      {
+        "type": "cite",
+        "title": "Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.",
+        "body": "The foundational paper establishing the TARGET framework for motivational climate design. Provides the environmental complement to the individual-level goal orientation analysis. Primary source for Phase V motivational climate discussion.",
+        "line_number": 633,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 96222,
+        "char_end": 96602
+      },
+      {
+        "type": "cite",
+        "title": "Ryan, R. M., & Pintrich, P. R. (1997). \"Should I ask for help?\" The role of motivation and attitudes in adolescents' help seeking in math class. *Journal of Educational Psychology, 89*(2), 329–341.",
+        "body": "The empirical investigation of the help-seeking mechanism connecting achievement goals to adaptive learning behavior. Primary source for the Phase IV help-seeking mechanism discussion.",
+        "line_number": 636,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 96603,
+        "char_end": 97002
+      },
+      {
+        "type": "cite",
+        "title": "Higgins, E. T. (1997). Beyond pleasure and pain. *American Psychologist, 52*(12), 1280–1300.",
+        "body": "The foundational paper on regulatory focus theory — the most theoretically elaborated framework for understanding approach-avoidance regulation in human motivation. The FAR Transfer discussion in Phase VII draws on this work.",
+        "line_number": 639,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 97003,
+        "char_end": 97338
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "**Traditions Synthesized:** This analysis draws on achievement motivation theory (Nicholls, Elliot, Dweck), regulatory focus theory (Higgins), self-determination theory (Deci and Ryan), and self-regulated learning research (Pintrich, Zimmerman). Where these traditions converge, they provide mutual reinforcement; where they diverge, the divergences are noted.\n\n**Claim-Type Taxonomy:**\n\n| Claim Type | Epistemic Status | Basis |\n|-----------|-----------------|-------|\n| PAV goals are uniformly maladaptive | Well-established | Multiple meta-analyses, cross-population replication |\n| MAP goals are uniformly adaptive | Well-established | Meta-analytic consensus, though effect sizes modest |\n| PAP goals are context-moderated | Established with qualifications | Hulleman et al. (2010) meta-analysis; controversy not fully resolved |\n| MAV goals show mixed functional profile | Moderate | Smaller evidence base; findings not yet fully replicated |\n| Regulatory mode primacy thesis | Analytical contribution | Original synthesis from this analysis; provisional |\n| The 2×2 as a vulnerability map | Analytical contribution | Original reframing; speculative-to-provisional |\n| Transfer principles and structural analogues | Provisional | Structurally grounded but await empirical validation in target domains |\n\n**Established vs. Original:** The core empirical claims draw on well-established research. The regulatory mode primacy thesis and the vulnerability map reframing are this report's original analytical contributions and should be treated as provisional hypotheses awaiting further empirical testing.\n\n**Limitations:** This analysis does not cover the full cross-cultural literature on achievement goals; the extensive sport psychology AGT literature; measurement debates around discriminant validity; or the 3×2 framework extension. The evidence base is predominantly Western and academic.\n\n**AI Generation Transparency:** This report was generated by Claude (Anthropic) using extended thinking architecture. All empirical claims reflect the evidence base available through training data. Original analytical contributions are clearly marked throughout. Human verification is recommended before academic citation.",
+        "line_number": 644,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 97374,
+        "char_end": 99699
+      },
+      {
+        "type": "diagram",
+        "title": "Core Argument Structure",
+        "body": "```\nNICHOLLS' DICHOTOMY\n(Task vs. Ego Involvement)\n       │\n       │ Conflates two independent dimensions\n       ▼\nELLIOT'S 2×2 FRAMEWORK\n┌──────────────────────────────────────────┐\n│         APPROACH         │   AVOIDANCE   │\n├──────────────────────────┼───────────────┤\n│ MAP: Pursue mastery      │ MAV: Avoid    │\n│ → Robust adaptive        │ falling below │\n│   outcomes               │ own standard  │\n│                          │ → Mixed       │\n├──────────────────────────┼───────────────┤\n│ PAP: Outperform others   │ PAV: Avoid    │\n│ → Context-moderated      │ appearing     │\n│   outcomes               │ incompetent   │\n│                          │ → Robustly    │\n│                          │ maladaptive   │\n└──────────────────────────┴───────────────┘\n               │\n               │ APPROACH-AVOIDANCE ASYMMETRY\n               ▼\nREGULATORY MODE PRIMACY THESIS:\nApproach orientation → Broad attention, error tolerance, adaptive failure response\nAvoidance orientation → Narrow attention, threat monitoring, self-protective response\n               │\n               │ TRANSFERS TO\n               ▼\nGENERAL PRINCIPLE: In any domain where valued outcomes can be\napproached or protected, avoidance regulation suppresses the\nexploration required to develop the very competence it seeks to protect\n```\n**Reading Guide:** The diagram traces the logical structure from the historical dichotomy through the 2×2 expansion to the approach-avoidance asymmetry finding and its transfer to a general structural principle. The key theoretical move is the identification of approach-avoidance as the primary axis generating the asymmetry.",
+        "line_number": 668,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 99722,
+        "char_end": 101472
+      },
+      {
+        "type": "protocol",
+        "title": "Protocol: Motivational Climate Audit for Learning Environments",
+        "body": "**Context:** Use when evaluating or designing any learning environment (course, programme, workshop, training) for its goal-activating structure.\n\n**Steps:**\n1. **Evaluate the evaluation structure.** Is grading criterion-referenced (absolute standard) or norm-referenced (relative standing)? Norm-referenced structures activate PAP and PAV goal orientations.\n2. **Assess comparison salience.** Are student performances made public or easily visible to peers? Public ranking and leaderboard-style feedback elevate normative comparison salience, activating performance goal orientations.\n3. **Examine failure consequences.** Are mistakes and errors treated as learning information (low stakes, informative feedback) or performance deficits (high stakes, evaluative feedback)? High-stakes error consequences activate avoidance regulation.\n4. **Check for mastery cues.** Does the environment explicitly communicate that improvement over time is valued as much or more than absolute performance level? Are progress narratives (you have improved in X) part of the feedback vocabulary?\n5. **Assess help-seeking signals.** Is asking for help, admitting confusion, or revealing knowledge gaps culturally safe in this environment? Environments where such behaviors are stigmatized will generate PAV-like processing even without explicit competitive evaluation.\n\n**Success Criteria:** A mastery-structured climate scores: criterion-referenced evaluation, low comparison salience, low-stakes error treatment, explicit mastery cues, and psychologically safe help-seeking.\n\n**Common Pitfalls:** Well-intentioned \"effort praise\" without structural changes often fails because the evaluative structure (norm-referenced grading, public ranking) continues to activate performance goal orientations regardless of the interpersonal feedback style.",
+        "line_number": 707,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 101513,
+        "char_end": 103443
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 1",
+        "body": "**Q:** What two conceptually independent dimensions does the 2×2 achievement goal framework cross-classify?\n**A:** (1) Definition of competence — mastery (absolute/intrapersonal standard) vs. performance (normative/interpersonal standard). (2) Valence of motivation — approach (moving toward a desired positive state) vs. avoidance (moving away from a feared negative state).\n**Source:** Phase II, Framework Definitions\n**Difficulty:** Basic\n**Type:** Definition",
+        "line_number": 723,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 103476,
+        "char_end": 103975
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 2",
+        "body": "**Q:** What is the \"differentiated ability concept\" and why is it the developmental precondition for performance-avoidance goal adoption?\n**A:** The developmental achievement (typically in middle childhood) of understanding that effort and ability are independent causes of performance. Once differentiated, high effort required to succeed can imply low ability. This makes failure under normative comparison identity-threatening — because failure implies low fixed ability — creating the conditions for PAV goal adoption.\n**Source:** Phase II, Nicholls Foundation\n**Difficulty:** Intermediate\n**Type:** Process",
+        "line_number": 730,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 103976,
+        "char_end": 104624
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 3",
+        "body": "**Q:** What is the \"self-protection paradox\" in PAV goal dynamics, and what mechanism explains it?\n**A:** PAV goals are adopted to protect the appearance of competence, but their cognitive and behavioral consequences (surface processing, help-seeking suppression, defensive attribution) systematically reduce genuine competence development. The mechanism: avoidance regulation redirects attentional and cognitive resources from task-relevant processing toward self-presentation monitoring, suppressing the deep engagement that generates real competence.\n**Source:** Phase III, PAV Evidence; Phase IV, Mechanisms\n**Difficulty:** Advanced\n**Type:** Connection",
+        "line_number": 737,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 104625,
+        "char_end": 105319
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 4",
+        "body": "**Q:** Why are PAP goal effects context-moderated rather than uniformly adaptive or maladaptive?\n**A:** PAP goals combine approach-mode regulation (adaptive) with a normative competence standard (fragile). Under conditions of competitive threat, low perceived competence, or repeated relative failure, the approach orientation can convert toward avoidance dynamics (goal conversion) — producing PAV-like cognitive and behavioral signatures. The approach component drives the initial benefits; the normative standard introduces context-dependent fragility.\n**Source:** Phase III, PAP Evidence; Phase IV, Goal Conversion\n**Difficulty:** Intermediate\n**Type:** Distinction",
+        "line_number": 744,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 105320,
+        "char_end": 106026
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 5",
+        "body": "**Q:** What are the three primary mechanisms through which approach-avoidance regulation shapes learning outcomes?\n**A:** (1) Attentional scope modulation — avoidance narrows attention toward self-relevant threat cues at the cost of task-relevant processing. (2) Help-seeking suppression — PAV goals make adaptive help-seeking socially costly, redirecting the learner toward avoidant strategies. (3) Failure attribution patterns — approach goals support controllable, specific failure attributions; avoidance goals support stable, uncontrollable ability attributions that generalize across contexts.\n**Source:** Phase IV, Mechanisms\n**Difficulty:** Intermediate\n**Type:** Process",
+        "line_number": 751,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 106027,
+        "char_end": 106743
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 6",
+        "body": "**Q:** What does the \"regulatory mode primacy thesis\" claim?\n**A:** That the approach-avoidance distinction is the primary axis of motivational architecture in achievement contexts — more theoretically fundamental than the mastery-performance distinction for predicting the stability and directionality of motivational consequences. The mastery-performance axis modulates the magnitude of approach-avoidance effects but does not generate the asymmetry. Evidence: PAV is robustly maladaptive; MAP is robustly adaptive; MAV (avoidance + mastery) is less maladaptive than PAV; PAP (approach + performance) is less maladaptive than PAV.\n**Source:** Phase VI, Synthesis\n**Difficulty:** Advanced\n**Type:** Definition",
+        "line_number": 758,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 106744,
+        "char_end": 107491
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 7",
+        "body": "**Q:** What is the structural connection between achievement goal theory and psychological safety in teams?\n**A:** Teams low in psychological safety show behavioral signatures structurally isomorphic to PAV goal dynamics: suppressed error reporting, avoidance of admitting knowledge gaps, reduced interpersonal risk-taking, and surface compliance over genuine engagement. The shared mechanism is self-presentation threat — in both individual learners under PAV goals and team members in low-safety environments, the fear of appearing incompetent activates avoidance regulation that suppresses the exploratory behaviors required for learning and performance. Psychological safety is the team-level equivalent of a mastery-approach motivational climate.\n**Source:** Phase VII, FAR Transfer\n**Difficulty:** Advanced\n**Type:** Connection",
+        "line_number": 765,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 107492,
+        "char_end": 108362
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 8",
+        "body": "**Q:** Why does criterion-referenced grading support mastery-approach goal orientations while norm-referenced grading activates performance goal orientations?\n**A:** Criterion-referenced grading defines success against a fixed absolute standard — making competence evaluation self-referenced and controllable (the learner's performance determines their grade independently of others). Norm-referenced grading defines success relative to the performance of peers — making success normative, partially uncontrollable, and zero-sum. The normative structure activates the differentiated ability concept (my relative performance says something about my relative ability) and raises the motivational stakes of comparative failure, generating conditions conducive to PAP and PAV goal adoption.\n**Source:** Phase V, Assessment Design; Phase IV, Mechanisms\n**Difficulty:** Intermediate\n**Type:** Application",
+        "line_number": 772,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 108363,
+        "char_end": 109298
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Practice",
+        "body": "> [!topic-idea] [[A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure|Measurement Validity and the Achievement Goal Construct]]\n> This expansion examines the psychometric debates underlying AGT: are mastery-approach and performance-approach goals genuinely discriminable constructs, or do measures of them overlap in ways that threaten the theoretical claims? Specific issues: the Elliot-Harackiewicz controversy partly turned on measurement artifact; the 3×2 framework extension attempts to resolve discriminant validity problems by further differentiating the mastery and performance standards. This investigation would bridge motivation theory and psychometrics, with direct implications for how seriously to take the approach-avoidance asymmetry findings.\n> **Connection to This Report:** Directly evaluates the empirical foundation of the regulatory mode primacy thesis.\n> **Priority:** High\n> **Suggested Report Type:** Dialectical Re-Examination\n> **Prerequisites:** [[Achievement-Goal-Theory]], [[2×2-Framework]], [[Replication-Crisis-in-Psychology]]\n\n> [!topic-idea] [[A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm|Mastery Climate Engineering: Structural Design Principles]]\n> A focused investigation of the practical engineering of mastery-oriented learning environments — moving from the abstract principles identified in Ames' TARGET framework to the specific design specifications for assessment, grouping, recognition, authority, and time structures. This expansion would operationalize the motivational climate audit protocol in this report into a comprehensive design guide.\n> **Connection to This Report:** Directly applies the Phase V implications for assessment and climate design.\n> **Priority:** Critical\n> **Suggested Report Type:** Foundational Report\n> **Prerequisites:** [[Motivational-Climate-Design]], [[Formative-Assessment]], [[Achievement-Goal-Theory]]\n\n> [!topic-idea] [[A-focused-analysis-of-how-COT-orientations-shape-the-SRL-cycle|Achievement Goals and the Self-Regulated Learning Cycle]]\n> A focused analysis of how the four goal types in the 2×2 framework shape the full Zimmerman SRL cycle — forethought, performance, and reflection phases. This expansion would elaborate the connection identified in Phase V of this report and provide the detailed mechanism account for how goal orientation shapes strategic processing at each phase.\n> **Connection to This Report:** Extends the Phase V discussion of SRL infrastructure and provides the mechanistic bridge between AGT and the SRL literature.\n> **Priority:** High\n> **Suggested Report Type:** Focused Analysis\n> **Prerequisites:** [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Forethought-Phase]], [[Performance-Phase]]\n\n> [!topic-idea] [[Far-Transfer|Transfer-Oriented Investigation: Approach-Avoidance in Organizational Motivation]]\n> A transfer-oriented expansion applying the approach-avoidance asymmetry principle directly to organizational motivation — examining how performance review systems, promotion structures, and incentive designs activate approach or avoidance regulation, and what the asymmetric consequences are for organizational learning, innovation, and psychological safety. This expansion follows the application bridge in Phase VII of this report.\n> **Connection to This Report:** Direct application of the FAR transfer principles extracted in Phase VII.\n> **Priority:** High\n> **Suggested Report Type:** Focused Analysis\n> **Prerequisites:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Growth-Mindset-Theory]]",
+        "line_number": 781,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 109336,
+        "char_end": 113061
+      },
+      {
+        "type": "quality-assessment",
+        "title": "Report Quality Metrics",
+        "body": "| Dimension | Score | Evidence | Notes |\n|-----------|-------|----------|-------|\n| **Depth of Coverage** | 8.5/10 | ~10,500 words body; four progressive layers per major concept; all three mechanisms analyzed in depth | MAV goals receive proportionally less depth than their theoretical novelty warrants |\n| **Structural Completeness** | 9/10 | 28 callouts, 45 wiki-links, 6 section-end summaries; all 9 phases present | Transfer principles could be more deeply elaborated |\n| **Complexity Appropriateness** | 9/10 | Graduate-level throughout; mechanisms specified at causal level; no simplistic heuristics | |\n| **Coverage Completeness** | 7.5/10 | Core approach-avoidance analysis comprehensive; 3×2 extension excluded; cross-cultural literature underrepresented | Intentional scope limitation but creates gaps |\n| **Accuracy & Evidence** | 8.5/10 | All major claims tied to specific researchers and studies; epistemic status tracked; limitations acknowledged | AI generation uncertainty applies to specific effect size claims |\n| **Knowledge Graph Contribution** | 9/10 | 8 substantive PKB connections with mechanism explanations; 45 wiki-links matched to existing note names | |\n| **Practical Utility** | 8.5/10 | Motivational climate audit protocol; assessment design principles; two application bridges | Clinical perfectionism bridge could be more operationally specified |\n| **Originality** | 8.5/10 | Two original syntheses (regulatory mode primacy thesis; vulnerability map reframing); clearly marked as provisional | Original contributions are analytical, not empirical |\n||||\n| **Composite Score** | **8.6/10** | | **PASS** |\n\n**Identified Limitations:**\n- The 3×2 framework extension (Elliot, 2013), which resolves some of the discriminant validity issues, is not covered and represents a genuine gap for readers wanting the most current theoretical picture.\n- The extensive sport psychology AGT literature — which provides some of the strongest experimental evidence for motivational climate effects — is referenced but not integrated.\n- The MAV goal analysis is proportionally thinner than its theoretical significance warrants; the evidence base was appropriately described as thin, but this limits the full analysis of avoidance regulation under self-referenced standards.\n\n**Recommendations for Future Revision:**\n- Add a dedicated section on the 3×2 framework as an expansion of Phase II, assessing whether it strengthens or qualifies the regulatory mode primacy thesis.\n- Integrate sport psychology evidence in Phase III for a more complete cross-context evidence picture.\n- Commission a dedicated focused analysis of MAV goals using the perfectionism and aging literature as primary evidence bases.",
+        "line_number": 813,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md",
+        "char_start": 113101,
+        "char_end": 115917
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 151,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "There is a paradox embedded in the popular reception of [[Achievement-Goal-Theory]]. In classrooms, coaching manuals, and organizational development programmes, the message has been transmitted with the confidence of received wisdom: mastery goals are good, performance goals are bad. Pursue tasks for the love of learning. Avoid comparing yourself to others. This message is not wrong, exactly — but it is dangerously incomplete, and the incompleteness obscures something more fundamental than the mastery-performance distinction it celebrates.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "John-G.-Nicholls",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John-G.-Nicholls]]",
+        "line_number": 153,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "The real theoretical innovation in achievement goal research over the past three decades was not the identification of mastery versus performance orientations. That distinction, while important, was already well-articulated by [[John-G.-Nicholls]] in the late 1970s and early 1980s. The deeper insight — one that required an additional conceptual dimension — emerged from the recognition that *approach* and *avoidance* regulatory modes cut across the mastery-performance distinction in ways that fundamentally reorganize the motivational landscape.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 161,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "**What This Analysis Excludes**: This is not a comprehensive treatment of all achievement goal research. It does not cover the full history of goal orientation measurement instruments, the extensive cross-cultural literature on goal prevalence, or the detailed empirical record on specific outcome variables like test performance or persistence rates except where directly relevant to the argument. For comprehensive background on [[Achievement-Goal-Theory]], the existing foundational notes in the PKB provide the survey treatment; here we drill into a specific theoretical question.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "John-G.-Nicholls",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John-G.-Nicholls]]",
+        "line_number": 177,
+        "section": "The Nicholls Foundation: Two Ways of Being Competent",
+        "context_line": "> **Definition:** In [[John-G.-Nicholls]]' original framework, task involvement and ego involvement represent two qualitatively distinct states of engagement with an achievement activity. Task involvement is a motivational state in which success is defined as mastery of the task — demonstrating learning, improvement, or competence relative to one's own prior performance. Ego involvement is a motivational state in which success is defined as demonstrating superior ability relative to others, or at minimum avoiding demonstration of inferior ability. This is NOT merely a difference in goal content — it is a difference in the epistemological standard by which competence itself is evaluated.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 186,
+        "section": "The Nicholls Foundation: Two Ways of Being Competent",
+        "context_line": "The Nicholls framework remained a dichotomy for nearly two decades. The theoretical case for adding a second dimension came from a simple but consequential observation: the distinction between *pursuing success* and *avoiding failure* — already recognized in expectancy-value theory and [[Attribution-Theory]] — appeared to cut across the mastery-performance distinction in ways that generated meaningfully different outcomes.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "John-Elliot",
+        "heading": null,
+        "display_text": "Andrew Elliot",
+        "full_match": "[[John-Elliot|Andrew Elliot]]",
+        "line_number": 205,
+        "section": "The Elliot Expansion: From Dichotomy to Framework",
+        "context_line": "> **Report-Specific Significance:** MAV goals were [[John-Elliot|Andrew Elliot]]'s theoretical contribution — the cell that had no home in earlier frameworks. They appear predominantly in perfectionist individuals and in older adults concerned with maintaining existing competencies.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Retrieval-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Retrieval-Practice]]",
+        "line_number": 252,
+        "section": "What the Evidence Shows: Cell by Cell",
+        "context_line": "> The most robust finding for MAP goals is not their relationship to academic performance — which is positive but smaller than expected — but their relationship to deep processing strategies, curiosity, and elaborative encoding. Learners with strong MAP orientations are more likely to ask \"why\" questions, seek connections between concepts, engage in [[Retrieval-Practice]], and allocate effort to understanding rather than surface reproduction. This has led researchers to describe MAP goals as *process-oriented* rather than performance-oriented — a distinction with direct implications for long-term retention and transfer.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Carol-Dweck",
+        "heading": null,
+        "display_text": "Dweck",
+        "full_match": "[[Carol-Dweck|Dweck]]",
+        "line_number": 264,
+        "section": "What the Evidence Shows: Cell by Cell",
+        "context_line": "> There is a deep irony embedded in PAV goal dynamics that the literature has not fully theorized. PAV goals are adopted precisely because the learner cares intensely about demonstrating competence — they wish to avoid the inference of incompetence by others. But the motivational and cognitive consequences of PAV adoption (surface processing, defensive help-seeking avoidance, reduced engagement with challenging material) systematically reduce the development of genuine competence over time. The goal adopted to protect the appearance of competence undermines the reality of it. This self-undermining dynamic is structurally similar to what [[Carol-Dweck|Dweck]] identified in the helpless response pattern but operates through a goal-mediation mechanism rather than an implicit theory mechanism. The convergence of these independent theoretical routes on the same self-undermining structure is analytically significant.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Higgins",
+        "heading": null,
+        "display_text": "Higgins'",
+        "full_match": "[[Higgins|Higgins']]",
+        "line_number": 307,
+        "section": "The Core Mechanism: Regulatory Focus and Information Processing",
+        "context_line": "> The approach-avoidance asymmetry in achievement goals maps onto [[Higgins|Higgins']] regulatory focus theory in a structurally informative way. Promotion-focused individuals — who regulate behavior in relation to ideals, gains, and hoped-for positive end states — show cognitive and behavioral signatures characteristic of approach-mode motivation: broader attentional scope, increased creativity, higher risk tolerance, faster but less accurate performance. Prevention-focused individuals — who regulate in relation to oughts, safety, and feared negative end states — show signatures characteristic of avoidance-mode motivation: narrower attentional scope, lower error rates, reduced creativity, more careful but slower processing. The analogy holds because both frameworks are identifying the same underlying regulatory asymmetry: the approach system is activated by positive-valence representations and supports exploratory behavior; the avoidance system is activated by threat representations and supports protective behavior. Achievement goal researchers have drawn on this convergence to provide mechanistic grounding for the PAV-maladaptive association: PAV goals activate prevention-focus regulatory processes that, while adaptive in genuinely threatening environments, are systematically costly in learning environments requiring exploration, error tolerance, and cognitive flexibility.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Learned-Helplessness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learned-Helplessness]]",
+        "line_number": 329,
+        "section": "The Core Mechanism: Regulatory Focus and Information Processing",
+        "context_line": "Under PAV goals, failure is identity-threatening: it confirms the feared inference of incompetence. The characteristic attribution pattern is to stable, uncontrollable causes — ability — that generalize across contexts and persist over time. This is the [[Learned-Helplessness]] trajectory, and its development under evaluative conditions constitutes one of the best-documented processes in educational psychology.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivational-Climate",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivational-Climate]]",
+        "line_number": 366,
+        "section": "What the Analysis Tells Us",
+        "context_line": "Individual goal orientations do not arise in a vacuum. The accumulated evidence on [[Motivational-Climate]] — the goal-relevant structure of achievement environments — demonstrates convincingly that the distribution of goal orientations among students, athletes, and employees is substantially shaped by the signals present in their environment. Environments that emphasize normative comparison, public ranking, and performance-contingent evaluation systematically shift the distribution toward PAP and PAV goals. Environments that emphasize personal improvement, effort attribution, and error tolerance shift it toward MAP goals.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 376,
+        "section": "What the Analysis Tells Us",
+        "context_line": "> High-stakes, single-shot, comparative assessments maximally activate PAP and PAV goal orientations — precisely the combination most likely to produce PAV-like processing strategies for lower-confidence learners and goal conversion risk for higher-confidence ones. Low-stakes, iterative, criterion-referenced assessments with granular feedback on specific skills activate MAP orientations. The practical implication for [[Formative-Assessment]] design: frequent low-stakes assessments with mastery-referenced feedback are not just pedagogically sound (they support retrieval practice and calibration) — they are motivationally protective, reducing the environmental conditions that generate PAV goal adoption.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 380,
+        "section": "What the Analysis Tells Us",
+        "context_line": "The connection between achievement goals and [[Self-Regulated-Learning]] is among the most practically significant findings in this literature. [[Paul-Pintrich]]'s integrated framework demonstrates that goal type shapes the entire SRL cycle: the strategies deployed in the forethought phase, the monitoring processes engaged during task execution, and the self-evaluation patterns activated in the reflection phase. MAP goals support the full adaptive SRL cycle; PAV goals systematically disrupt it at the monitoring and self-evaluation stages.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Paul-Pintrich",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paul-Pintrich]]",
+        "line_number": 380,
+        "section": "What the Analysis Tells Us",
+        "context_line": "The connection between achievement goals and [[Self-Regulated-Learning]] is among the most practically significant findings in this literature. [[Paul-Pintrich]]'s integrated framework demonstrates that goal type shapes the entire SRL cycle: the strategies deployed in the forethought phase, the monitoring processes engaged during task execution, and the self-evaluation patterns activated in the reflection phase. MAP goals support the full adaptive SRL cycle; PAV goals systematically disrupt it at the monitoring and self-evaluation stages.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Psychological-Safety",
+        "heading": null,
+        "display_text": "psychological safety",
+        "full_match": "[[Psychological-Safety|psychological safety]]",
+        "line_number": 472,
+        "section": "Structural Analogues",
+        "context_line": "> Amy Edmondson's research on [[Psychological-Safety|psychological safety]] in teams maps onto the PAV dynamics identified in this analysis with near-perfect structural isomorphism. Teams low in psychological safety show the same behavioral signatures as PAV-oriented learners: suppressed help-seeking, avoidance of admitting errors, surface compliance over genuine engagement, and reduced willingness to take interpersonal risks. The mechanism is structurally identical: the self-presentation concern — not appearing incompetent to the group — activates avoidance regulation that suppresses the very behaviors (transparent error reporting, asking questions, proposing novel approaches) that make teams learn and perform effectively. The structural analogue is precise: psychological safety is the team-level equivalent of a mastery-approach motivational climate. The application bridge runs both ways: achievement goal research on climate design can inform psychological safety interventions, and psychological safety research (which has a rich intervention literature) can inform motivational climate design in educational contexts.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 520,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Growth-Mindset-Theory]]** — Dweck's implicit theories of intelligence framework converges on the same psychological territory as the mastery-approach/PAV distinction from an independent theoretical direction. A fixed-mindset belief (intelligence is fixed) creates the conditions for ego-involvement and PAV goal adoption: if ability is fixed, failure becomes identity-threatening rather than informative. This report's regulatory mode primacy thesis and the growth mindset literature are mutually reinforcing — fixed mindset activates avoidance regulation; growth mindset enables approach regulation. The connection is mechanistic, not merely analogical.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 522,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Regulated-Learning]]** — The [[Paul-Pintrich|Pintrich]] integrated framework treats achievement goals as the motivational substrate that determines whether SRL cognitive operations function adaptively. This analysis deepens that connection: goals shape not just the energy available for self-regulation but the *processing mode* in which self-regulatory monitoring operates. The SRL literature's emphasis on metacognitive monitoring and strategy selection assumes an approach-mode orientation — the monitoring system is designed to detect performance gaps and respond with strategic adjustment. PAV goals systematically convert gap-detection from a learning trigger into a threat response, short-circuiting the adaptive SRL cycle.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Paul-Pintrich",
+        "heading": null,
+        "display_text": "Pintrich",
+        "full_match": "[[Paul-Pintrich|Pintrich]]",
+        "line_number": 522,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Regulated-Learning]]** — The [[Paul-Pintrich|Pintrich]] integrated framework treats achievement goals as the motivational substrate that determines whether SRL cognitive operations function adaptively. This analysis deepens that connection: goals shape not just the energy available for self-regulation but the *processing mode* in which self-regulatory monitoring operates. The SRL literature's emphasis on metacognitive monitoring and strategy selection assumes an approach-mode orientation — the monitoring system is designed to detect performance gaps and respond with strategic adjustment. PAV goals systematically convert gap-detection from a learning trigger into a threat response, short-circuiting the adaptive SRL cycle.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Basic-Psychological-Needs-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Basic-Psychological-Needs-Theory]]",
+        "line_number": 524,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Basic-Psychological-Needs-Theory]]** — SDT's framework and AGT share a deep structural connection that is not always made explicit. The [[Competence-Need|competence need]] in BPNT is satisfied by *mastery-approach* regulatory experiences — feeling effectant, progressing, overcoming challenges — but is frustrated by evaluative pressure that activates PAV-like threat responses. The autonomy-support literature's finding that controlling environments reduce intrinsic motivation can be read through the AGT lens: controlling environments activate PAV goal orientations, which suppress the intrinsic engagement that sustains autonomous motivation. AGT and BPNT are thus identifying the same motivational dynamic from different theoretical angles.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Competence-Need",
+        "heading": null,
+        "display_text": "competence need",
+        "full_match": "[[Competence-Need|competence need]]",
+        "line_number": 524,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Basic-Psychological-Needs-Theory]]** — SDT's framework and AGT share a deep structural connection that is not always made explicit. The [[Competence-Need|competence need]] in BPNT is satisfied by *mastery-approach* regulatory experiences — feeling effectant, progressing, overcoming challenges — but is frustrated by evaluative pressure that activates PAV-like threat responses. The autonomy-support literature's finding that controlling environments reduce intrinsic motivation can be read through the AGT lens: controlling environments activate PAV goal orientations, which suppress the intrinsic engagement that sustains autonomous motivation. AGT and BPNT are thus identifying the same motivational dynamic from different theoretical angles.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivational-Climate-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivational-Climate-Design]]",
+        "line_number": 526,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Motivational-Climate-Design]]** — This report's evidence on motivational climate directly operationalizes the design target that the Motivational Climate Design node frames at a more abstract level. The specific structural features identified here — criterion-referenced grading, private feedback, error-tolerant practice, metacognitive framing of mistakes — provide the engineering specifications for mastery-structured environments that the climate design node points toward but does not specify.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 528,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Attribution-Theory]]** — [[Bernard-Weiner]]'s attribution framework underlies the failure attribution mechanism analyzed in Phase IV. The connection is that PAV goals predispose learners toward stable, internal, uncontrollable ability attributions for failure — the classic learned-helplessness trajectory. AGT provides the motivational context in which attribution patterns become self-reinforcing: PAV goals generate ability attributions, which deepen PAV orientation, which generate further ability attributions under subsequent failure.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Bernard-Weiner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bernard-Weiner]]",
+        "line_number": 528,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Attribution-Theory]]** — [[Bernard-Weiner]]'s attribution framework underlies the failure attribution mechanism analyzed in Phase IV. The connection is that PAV goals predispose learners toward stable, internal, uncontrollable ability attributions for failure — the classic learned-helplessness trajectory. AGT provides the motivational context in which attribution patterns become self-reinforcing: PAV goals generate ability attributions, which deepen PAV orientation, which generate further ability attributions under subsequent failure.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Learned-Helplessness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learned-Helplessness]]",
+        "line_number": 530,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Learned-Helplessness]]** — The PAV goal trajectory described in this report is the motivational mechanism through which learned helplessness develops in evaluative contexts. This connection runs between experimental psychology (Seligman's controllability model) and motivational psychology (Elliot's AGT framework) through the shared mechanism of uncontrollable-failure attribution.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Feedback-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Feedback-Design]]",
+        "line_number": 532,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Feedback-Design]]** — The application bridge in Phase V (assessment as goal architecture) directly connects to the feedback design principles for autonomy and mastery. The analysis in this report provides the motivational mechanism explanation for *why* mastery-structured feedback produces better long-term outcomes: it reduces PAV goal activation and supports approach-mode information processing.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Flow-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow-Theory]]",
+        "line_number": 534,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Flow-Theory]]** — Csikszentmihalyi's [[Flow|flow]] state requires conditions strikingly similar to those that support MAP goal activation: optimal challenge matched to skill, intrinsic absorption, freedom from self-consciousness and evaluative concern. PAV goal conditions are incompatible with flow — the self-monitoring that PAV goals require is structurally incompatible with the ego-dissolution that characterizes flow states. This suggests that flow facilitation and PAV-reduction are aligned interventional targets.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Flow",
+        "heading": null,
+        "display_text": "flow",
+        "full_match": "[[Flow|flow]]",
+        "line_number": 534,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Flow-Theory]]** — Csikszentmihalyi's [[Flow|flow]] state requires conditions strikingly similar to those that support MAP goal activation: optimal challenge matched to skill, intrinsic absorption, freedom from self-consciousness and evaluative concern. PAV goal conditions are incompatible with flow — the self-monitoring that PAV goals require is structurally incompatible with the ego-dissolution that characterizes flow states. This suggests that flow facilitation and PAV-reduction are aligned interventional targets.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivation-Theory-Foundational-Report",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivation-Theory-Foundational-Report]]",
+        "line_number": 538,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Motivation-Theory-Foundational-Report]]** — This focused analysis extends the foundational treatment by drilling specifically into the approach-avoidance dimension of achievement motivation, providing the mechanistic account that the foundational report surveys more broadly.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "basic-psychological-needs-theory-focused-analysis-2026-03-13",
+        "heading": null,
+        "display_text": "Basic Psychological Needs Theory Focused Analysis",
+        "full_match": "[[basic-psychological-needs-theory-focused-analysis-2026-03-13|Basic Psychological Needs Theory Focused Analysis]]",
+        "line_number": 540,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[basic-psychological-needs-theory-focused-analysis-2026-03-13|Basic Psychological Needs Theory Focused Analysis]]** — The two analyses are complementary: BPNT explains why need-supportive environments produce intrinsic motivation; AGT explains what goal structures are activated in need-supportive vs. need-thwarting environments and why those goal structures produce different cognitive-processing outcomes.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "metacognitive-scaffolding-focused-analysis-2026-03-20",
+        "heading": null,
+        "display_text": "Metacognitive Scaffolding Focused Analysis",
+        "full_match": "[[metacognitive-scaffolding-focused-analysis-2026-03-20|Metacognitive Scaffolding Focused Analysis]]",
+        "line_number": 542,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[metacognitive-scaffolding-focused-analysis-2026-03-20|Metacognitive Scaffolding Focused Analysis]]** — Metacognitive scaffolding is more effective under approach-mode motivational conditions. The insight from this report — that PAV goals convert metacognitive monitoring from learning-information processing to threat-monitoring — provides the motivational account for why metacognitive interventions are more effective in low-evaluative-threat contexts.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "John-G.-Nicholls",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John-G.-Nicholls]]",
+        "line_number": 556,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Etymology/Intellectual Lineage:** Coined by [[John-G.-Nicholls]] in a series of developmental studies beginning in 1978; grounded in Piagetian cognitive development theory.",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 557,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Achievement-Goal-Theory]], [[Ego-Involvement]], [[Performance-Avoidance-Goal]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Ego-Involvement",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ego-Involvement]]",
+        "line_number": 557,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Achievement-Goal-Theory]], [[Ego-Involvement]], [[Performance-Avoidance-Goal]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Performance-Avoidance-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Avoidance-Goal]]",
+        "line_number": 557,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Achievement-Goal-Theory]], [[Ego-Involvement]], [[Performance-Avoidance-Goal]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "2×2-Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2×2-Framework]]",
+        "line_number": 564,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[2×2-Framework]], [[Goal-Framing]], [[Mastery-Approach-Goal]], [[Performance-Avoidance-Goal]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Goal-Framing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal-Framing]]",
+        "line_number": 564,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[2×2-Framework]], [[Goal-Framing]], [[Mastery-Approach-Goal]], [[Performance-Avoidance-Goal]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Mastery-Approach-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Approach-Goal]]",
+        "line_number": 564,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[2×2-Framework]], [[Goal-Framing]], [[Mastery-Approach-Goal]], [[Performance-Avoidance-Goal]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Performance-Avoidance-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Avoidance-Goal]]",
+        "line_number": 564,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[2×2-Framework]], [[Goal-Framing]], [[Mastery-Approach-Goal]], [[Performance-Avoidance-Goal]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivational-Climate-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivational-Climate-Design]]",
+        "line_number": 571,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Mastery-Goal-Orientation]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 571,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Mastery-Goal-Orientation]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Mastery-Goal-Orientation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Goal-Orientation]]",
+        "line_number": 571,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Mastery-Goal-Orientation]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Performance-Approach-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Approach-Goal]]",
+        "line_number": 577,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Performance-Approach-Goal]], [[Performance-Avoidance-Goal]], [[2×2-Framework]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Performance-Avoidance-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Avoidance-Goal]]",
+        "line_number": 577,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Performance-Approach-Goal]], [[Performance-Avoidance-Goal]], [[2×2-Framework]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "2×2-Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2×2-Framework]]",
+        "line_number": 577,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Performance-Approach-Goal]], [[Performance-Avoidance-Goal]], [[2×2-Framework]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 582,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Achievement-Goal-Theory]], [[Performance-Avoidance-Goal]], [[Self-Regulated-Learning]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Performance-Avoidance-Goal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Avoidance-Goal]]",
+        "line_number": 582,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Achievement-Goal-Theory]], [[Performance-Avoidance-Goal]], [[Self-Regulated-Learning]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 582,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Achievement-Goal-Theory]], [[Performance-Avoidance-Goal]], [[Self-Regulated-Learning]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure",
+        "heading": null,
+        "display_text": "Measurement Validity and the Achievement Goal Construct",
+        "full_match": "[[A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure|Measurement Validity and the Achievement Goal Construct]]",
+        "line_number": 783,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure|Measurement Validity and the Achievement Goal Construct]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 788,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Achievement-Goal-Theory]], [[2×2-Framework]], [[Replication-Crisis-in-Psychology]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "2×2-Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2×2-Framework]]",
+        "line_number": 788,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Achievement-Goal-Theory]], [[2×2-Framework]], [[Replication-Crisis-in-Psychology]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Replication-Crisis-in-Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Replication-Crisis-in-Psychology]]",
+        "line_number": 788,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Achievement-Goal-Theory]], [[2×2-Framework]], [[Replication-Crisis-in-Psychology]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm",
+        "heading": null,
+        "display_text": "Mastery Climate Engineering: Structural Design Principles",
+        "full_match": "[[A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm|Mastery Climate Engineering: Structural Design Principles]]",
+        "line_number": 790,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm|Mastery Climate Engineering: Structural Design Principles]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivational-Climate-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivational-Climate-Design]]",
+        "line_number": 795,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Motivational-Climate-Design]], [[Formative-Assessment]], [[Achievement-Goal-Theory]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 795,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Motivational-Climate-Design]], [[Formative-Assessment]], [[Achievement-Goal-Theory]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 795,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Motivational-Climate-Design]], [[Formative-Assessment]], [[Achievement-Goal-Theory]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "A-focused-analysis-of-how-COT-orientations-shape-the-SRL-cycle",
+        "heading": null,
+        "display_text": "Achievement Goals and the Self-Regulated Learning Cycle",
+        "full_match": "[[A-focused-analysis-of-how-COT-orientations-shape-the-SRL-cycle|Achievement Goals and the Self-Regulated Learning Cycle]]",
+        "line_number": 797,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[A-focused-analysis-of-how-COT-orientations-shape-the-SRL-cycle|Achievement Goals and the Self-Regulated Learning Cycle]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 802,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Forethought-Phase]], [[Performance-Phase]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 802,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Forethought-Phase]], [[Performance-Phase]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 802,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Forethought-Phase]], [[Performance-Phase]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Performance-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Phase]]",
+        "line_number": 802,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Forethought-Phase]], [[Performance-Phase]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Far-Transfer",
+        "heading": null,
+        "display_text": "Transfer-Oriented Investigation: Approach-Avoidance in Organizational Motivation",
+        "full_match": "[[Far-Transfer|Transfer-Oriented Investigation: Approach-Avoidance in Organizational Motivation]]",
+        "line_number": 804,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Far-Transfer|Transfer-Oriented Investigation: Approach-Avoidance in Organizational Motivation]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivational-Climate-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivational-Climate-Design]]",
+        "line_number": 809,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Growth-Mindset-Theory]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 809,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Growth-Mindset-Theory]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 809,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Motivational-Climate-Design]], [[Achievement-Goal-Theory]], [[Growth-Mindset-Theory]]",
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Achievement Goal Theory: The Approach-Avoidance Asymmetry and Why It Matters More Than the Goals Themselves",
+        "anchor": "achievement-goal-theory-the-approach-avoidance-asymmetry-and-why-it-matters-more-than-the-goals-themselves",
+        "line_number": 142,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Analytical Focus",
+        "anchor": "phase-i-orientation-analytical-focus",
+        "line_number": 146,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — The 2×2 Architecture",
+        "anchor": "phase-ii-analytical-framework-the-22-architecture",
+        "line_number": 170,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Nicholls Foundation: Two Ways of Being Competent",
+        "anchor": "the-nicholls-foundation-two-ways-of-being-competent",
+        "line_number": 172,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Elliot Expansion: From Dichotomy to Framework",
+        "anchor": "the-elliot-expansion-from-dichotomy-to-framework",
+        "line_number": 188,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Framework Selection Rationale",
+        "anchor": "the-framework-selection-rationale",
+        "line_number": 211,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 230,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence Landscape",
+        "anchor": "the-evidence-landscape",
+        "line_number": 232,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "What the Evidence Shows: Cell by Cell",
+        "anchor": "what-the-evidence-shows-cell-by-cell",
+        "line_number": 245,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+        "line_number": 297,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Core Mechanism: Regulatory Focus and Information Processing",
+        "anchor": "the-core-mechanism-regulatory-focus-and-information-processing",
+        "line_number": 302,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Conditional Dynamics of Performance-Approach Goals",
+        "anchor": "the-conditional-dynamics-of-performance-approach-goals",
+        "line_number": 334,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications, Applications & Limitations",
+        "anchor": "phase-v-implications-applications-limitations",
+        "line_number": 358,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "What the Analysis Tells Us",
+        "anchor": "what-the-analysis-tells-us",
+        "line_number": 360,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations and Honest Boundaries",
+        "anchor": "limitations-and-honest-boundaries",
+        "line_number": 385,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 411,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Argument, Reconstructed",
+        "anchor": "the-central-argument-reconstructed",
+        "line_number": 413,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Original Contribution: The Regulatory Mode Primacy Thesis",
+        "anchor": "the-original-contribution-the-regulatory-mode-primacy-thesis",
+        "line_number": 425,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "The Revisited Central Question",
+        "anchor": "the-revisited-central-question",
+        "line_number": 430,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+        "line_number": 448,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle Extraction",
+        "anchor": "abstract-principle-extraction",
+        "line_number": 452,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "Structural Analogues",
+        "anchor": "structural-analogues",
+        "line_number": 466,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "Transfer Encoding",
+        "anchor": "transfer-encoding",
+        "line_number": 477,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "Application Bridges",
+        "anchor": "application-bridges",
+        "line_number": 487,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "Meta-Transfer Reflection",
+        "anchor": "meta-transfer-reflection",
+        "line_number": 495,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-viii-pkb-connections-cross-report-links",
+        "line_number": 513,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IX: Appendix",
+        "anchor": "phase-ix-appendix",
+        "line_number": 548,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 550,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Key Figures & Intellectual Lineage",
+        "anchor": "b-key-figures-intellectual-lineage",
+        "line_number": 584,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Conceptual Tensions & Open Questions",
+        "anchor": "c-conceptual-tensions-open-questions",
+        "line_number": 604,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "D. References",
+        "anchor": "d-references",
+        "line_number": 616,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "E. Methodology & Sources Note",
+        "anchor": "e-methodology-sources-note",
+        "line_number": 642,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "F. Argument Maps",
+        "anchor": "f-argument-maps",
+        "line_number": 666,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "G. Practical Application Protocols",
+        "anchor": "g-practical-application-protocols",
+        "line_number": 705,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "H. Spaced Repetition Seeds",
+        "anchor": "h-spaced-repetition-seeds",
+        "line_number": 721,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "I. Expansion Topics for the PKB",
+        "anchor": "i-expansion-topics-for-the-pkb",
+        "line_number": 779,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "K. Report Quality Self-Assessment",
+        "anchor": "k-report-quality-self-assessment",
+        "line_number": 811,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "> NICHOLLS' DICHOTOMY\n> (Task vs. Ego Involvement)\n>        │\n>        │ Conflates two independent dimensions\n>        ▼\n> ELLIOT'S 2×2 FRAMEWORK\n> ┌──────────────────────────────────────────┐\n> │         APPROACH         │   AVOIDANCE   │\n> ├──────────────────────────┼───────────────┤\n> │ MAP: Pursue mastery      │ MAV: Avoid    │\n> │ → Robust adaptive        │ falling below │\n> │   outcomes               │ own standard  │\n> │                          │ → Mixed       │\n> ├──────────────────────────┼───────────────┤\n> │ PAP: Outperform others   │ PAV: Avoid    │\n> │ → Context-moderated      │ appearing     │\n> │   outcomes               │ incompetent   │\n> │                          │ → Robustly    │\n> │                          │ maladaptive   │\n> └──────────────────────────┴───────────────┘\n>                │\n>                │ APPROACH-AVOIDANCE ASYMMETRY\n>                ▼\n> REGULATORY MODE PRIMACY THESIS:\n> Approach orientation → Broad attention, error tolerance, adaptive failure response\n> Avoidance orientation → Narrow attention, threat monitoring, self-protective response\n>                │\n>                │ TRANSFERS TO\n>                ▼\n> GENERAL PRINCIPLE: In any domain where valued outcomes can be\n> approached or protected, avoidance regulation suppresses the\n> exploration required to develop the very competence it seeks to protect\n>",
+        "line_start": 669,
+        "line_end": 702,
+        "char_count": 1369,
+        "line_count": 33,
+        "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "*What is the motivational posture of the people in this system — are they moving toward a desired positive state or away from a feared negative one?* If avoidance is the dominant mode, the self-protection paradox is a predictable risk.",
+          "indent_level": 0,
+          "line_number": 480,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "*How is the reference standard for success defined?* If normative/comparative, the standard is fragile and may convert approach motivation into avoidance dynamics under competitive pressure.",
+          "indent_level": 0,
+          "line_number": 482,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "*What happens to failure signals in this system?* If failure signals are socially costly (triggering inference of incompetence, reduced status, negative evaluation), avoidance regulation will be activated even in individuals dispositionally oriented toward approach.",
+          "indent_level": 0,
+          "line_number": 484,
+          "source": "achievement-goal-theory-focused-analysis-2026-03-24.md"
+        }
+      ],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "2×2-Framework",
+      "A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm",
+      "A-focused-analysis-of-how-COT-orientations-shape-the-SRL-cycle",
+      "A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure",
+      "Achievement-Goal-Theory",
+      "Attribution-Theory",
+      "Basic-Psychological-Needs-Theory",
+      "Bernard-Weiner",
+      "Carol-Dweck",
+      "Competence-Need",
+      "Ego-Involvement",
+      "Far-Transfer",
+      "Feedback-Design",
+      "Flow",
+      "Flow-Theory",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Goal-Framing",
+      "Growth-Mindset-Theory",
+      "Higgins",
+      "John-Elliot",
+      "John-G.-Nicholls",
+      "Learned-Helplessness",
+      "Mastery-Approach-Goal",
+      "Mastery-Goal-Orientation",
+      "Motivation-Theory-Foundational-Report",
+      "Motivational-Climate",
+      "Motivational-Climate-Design",
+      "Paul-Pintrich",
+      "Performance-Approach-Goal",
+      "Performance-Avoidance-Goal",
+      "Performance-Phase",
+      "Psychological-Safety",
+      "Replication-Crisis-in-Psychology",
+      "Retrieval-Practice",
+      "Self-Regulated-Learning",
+      "basic-psychological-needs-theory-focused-analysis-2026-03-13",
+      "metacognitive-scaffolding-focused-analysis-2026-03-20"
+    ],
+    "unique_wiki_link_count": 38,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Achievement-Goal-Theory]]",
+        "[[Goal-Orientation]]",
+        "[[Intrinsic-Motivation]]"
+      ],
+      "related_concepts": [
+        "[[Achievement-Goal-Theory]]",
+        "[[2×2-Framework]]",
+        "[[Mastery-Approach-Goal]]",
+        "[[Mastery-Avoidance-Goal]]",
+        "[[Performance-Approach-Goal]]",
+        "[[Performance-Avoidance-Goal]]",
+        "[[Intrinsic-Motivation]]",
+        "[[Growth-Mindset-Theory]]",
+        "[[Self-Regulated-Learning]]",
+        "[[Basic-Psychological-Needs-Theory]]",
+        "[[Motivational-Climate]]",
+        "[[Attribution-Theory]]"
+      ],
+      "link_related": [
+        "[[Self-Regulated-Learning]]",
+        "[[Basic-Psychological-Needs-Theory]]",
+        "[[Attribution-Theory]]",
+        "[[Growth-Mindset-Theory]]",
+        "[[Feedback-Design]]"
+      ],
+      "link_up": [
+        "[[Motivation-Theory-Foundational-Report]]"
+      ],
+      "link_down": [
+        "[[Mastery-Approach-Goal]]",
+        "[[Performance-Avoidance-Goal]]",
+        "[[Motivational-Climate-Design]]"
+      ]
+    },
+    "backlink_candidates": [
+      "2×2-Framework",
+      "A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm",
+      "A-focused-analysis-of-how-COT-orientations-shape-the-SRL-cycle",
+      "A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure",
+      "Achievement-Goal-Theory",
+      "Attribution-Theory",
+      "Basic-Psychological-Needs-Theory",
+      "Bernard-Weiner",
+      "Carol-Dweck",
+      "Competence-Need",
+      "Ego-Involvement",
+      "Far-Transfer",
+      "Feedback-Design",
+      "Flow",
+      "Flow-Theory",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Goal-Framing",
+      "Growth-Mindset-Theory",
+      "Higgins",
+      "John-Elliot",
+      "John-G.-Nicholls",
+      "Learned-Helplessness",
+      "Mastery-Approach-Goal",
+      "Mastery-Goal-Orientation",
+      "Motivation-Theory-Foundational-Report",
+      "Motivational-Climate",
+      "Motivational-Climate-Design",
+      "Paul-Pintrich",
+      "Performance-Approach-Goal",
+      "Performance-Avoidance-Goal",
+      "Performance-Phase",
+      "Psychological-Safety",
+      "Replication-Crisis-in-Psychology",
+      "Retrieval-Practice",
+      "Self-Regulated-Learning",
+      "basic-psychological-needs-theory-focused-analysis-2026-03-13",
+      "metacognitive-scaffolding-focused-analysis-2026-03-20"
+    ]
+  }
+}

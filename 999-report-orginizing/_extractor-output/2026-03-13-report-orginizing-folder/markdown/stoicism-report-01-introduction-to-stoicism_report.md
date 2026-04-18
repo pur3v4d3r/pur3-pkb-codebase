@@ -361,7 +361,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Albert Ellis]]
 - [[Aristotle]]
@@ -437,7 +437,7 @@ extraction_summary:
 | 24 | [[Cicero]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
 | 25 | [[Plutarch]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
 | 26 | [[Stobaeus]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
-| 27 | [[Aaron Beck]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
+| 27 | [[Aaron-Beck|Aaron Beck]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
 | 28 | [[Albert Ellis]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
 | 29 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
 | 30 | [[Pierre-Hadot|Pierre Hadot]] | — | — | Part 4: The Stoic Toolkit — Practical... | 417 |
@@ -500,7 +500,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Albert Ellis]]
 - [[Aristotle]]

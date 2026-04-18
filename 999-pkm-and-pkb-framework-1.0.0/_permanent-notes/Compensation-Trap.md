@@ -38,7 +38,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -306,6 +306,38 @@ importance: high
 - [[Germane-Cognitive-Load|Germane-Cognitive-Load]]
 - [[Schema-Automation|Schema-Automation]]
 
+**Cross-report connections** *(from [[reading-fluency-automaticity-focused-analysis-2026-03-20]])*:
+- [[Schema-Automation|Schema-Automation]]
+
+**Cross-report connections** *(from [[reading-fluency-automaticity-focused-analysis-2026-03-20]])*:
+- [[Focal-Subsidiary-Attention-Distinction|Focal-Subsidiary-Attention-Distinction]]
+
+**Cross-report connections** *(from [[reading-fluency-automaticity-focused-analysis-2026-03-20]])*:
+- [[Working-Memory|Working-Memory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Extraneous-Load|Extraneous-Load]]
+- [[Germane-Cognitive-Load|Germane-Cognitive-Load]]
+- [[Schema-Automation|Schema-Automation]]
+
+**Cross-report connections** *(from [[reading-fluency-automaticity-focused-analysis-2026-03-20]])*:
+- [[Schema-Automation|Schema-Automation]]
+
+**Cross-report connections** *(from [[reading-fluency-automaticity-focused-analysis-2026-03-20]])*:
+- [[Focal-Subsidiary-Attention-Distinction|Focal-Subsidiary-Attention-Distinction]]
+
+**Cross-report connections** *(from [[reading-fluency-automaticity-focused-analysis-2026-03-20]])*:
+- [[Working-Memory|Working-Memory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Extraneous-Load|Extraneous-Load]]
+- [[Germane-Cognitive-Load|Germane-Cognitive-Load]]
+- [[Schema-Automation|Schema-Automation]]
+
+
+
+
+
+
+
 
 
 
@@ -353,6 +385,84 @@ importance: high
 - **Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.**: Philosophical work developing the focal-subsidiary attention distinction — the concept that skilled performance involves attending through tools (words, instruments, syntax) to goals (meaning, music, argument), with the tools operating subsidiarily rather than focally. Provides the phenomenological framework for the automaticity transition in reading. Referenced in Phase IV.
 
 - **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum.**: Foundational work distinguishing knowledge-telling from knowledge-transforming writing strategies. Provides the empirical basis for the bottleneck analysis in Phase VII: writing mechanics non-automaticity drives knowledge-telling as a low-cognitive-demand default strategy. Referenced in Phase VII.
+
+- **LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293-323.**: The foundational paper proposing that skilled reading requires automaticity in lower-level processes (letter and word recognition) so that attention can be devoted to comprehension. Introduced the concept of automatic processing as a prerequisite for fluent reading and shaped subsequent fluency research for five decades. Referenced in Phases II and IV.
+
+- **Gough, P. B., & Tunmer, W. E. (1986). Decoding, reading, and reading disability. *Remedial and Special Education, 7*(1), 6-10.**: The original presentation of the Simple View of Reading. Brief but theoretically important for establishing the two-component architecture of reading comprehension and the diagnostic clarity it provides for reading disability classification. Referenced in Phase II.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360-407.**: The seminal paper establishing the Matthew Effect in reading development. Synthesized longitudinal and cross-sectional evidence for the compounding inequality of early reading skill and its consequences for vocabulary, world knowledge, and cognitive development. One of the most cited papers in educational psychology. Referenced in Phases III and VII.
+
+- **Perfetti, C. A. (1985). *Reading Ability*. Oxford University Press.**: The foundational monograph developing verbal efficiency theory. Establishes the working memory mechanism of the fluency-comprehension link and provides the most precise account of how local text processing efficiency determines comprehension quality. Referenced in Phases II and IV.
+
+- **Wolf, M., & Katzir-Cohen, T. (2001). Reading fluency and its intervention. *Scientific Studies of Reading, 5*(3), 211-239.**: Influential paper providing the three-component (accuracy, rate, prosody) definition of reading fluency and a comprehensive review of fluency intervention approaches. Also presents Wolf's RAVE-O program (Retrieval, Automaticity, Vocabulary elaboration, Engagement with language, Orthography) as a multidimensional fluency intervention. Referenced in Phase II.
+
+- **National Reading Panel. (2000). *Teaching Children to Read: An Evidence-Based Assessment of the Scientific Research Literature on Reading and Its Implications for Reading Instruction*. National Institutes of Health.**: The comprehensive government-commissioned meta-analysis of reading research that identified phonemic awareness, phonics, fluency, vocabulary, and comprehension as the five pillars of reading instruction. Established the evidentiary basis for guided oral reading as an effective fluency intervention. Referenced in Phase III.
+
+- **Samuels, S. J. (1979). The method of repeated readings. *The Reading Teacher, 32*(4), 403-408.**: The original paper describing the repeated reading technique for fluency development. Demonstrated that multiple readings of short passages to a fluency criterion produce both within-text fluency gains and generalization to new text — providing evidence for automatization of processing capabilities rather than text-specific memorization. Referenced in Phases III and V.
+
+- **Baddeley, A. D. (1986). *Working Memory*. Oxford University Press.**: The foundational monograph developing the multi-component model of working memory including the phonological loop, visuospatial sketchpad, and central executive. Provides the theoretical basis for understanding how decoding resource demands interact with sentence-level integration. Referenced in Phase IV.
+
+- **Kuhn, M. R., & Stahl, S. A. (2003). Fluency: A review of developmental and remedial practices. *Journal of Educational Psychology, 95*(1), 3-21.**: Comprehensive meta-analytic review of fluency development and intervention research. Established effect sizes for guided oral reading on fluency and comprehension outcomes and identified the conditions under which fluency interventions are most effective. Referenced in Phase III.
+
+- **Rasinski, T. V. (2004). *The Fluent Reader: Oral Reading Strategies for Building Word Recognition, Fluency, and Comprehension*. Scholastic.**: Practical and theoretical synthesis of fluency research with instructional applications. Emphasizes prosody as a component of fluency and its relationship to comprehension. Accessible treatment for practitioners building on the same research base. Referenced in Phases II and V.
+
+- **Kintsch, W., & van Dijk, T. A. (1978). Toward a model of text comprehension and production. *Psychological Review, 85*(5), 363-394.**: The foundational model of text comprehension as the construction of a situation model. Critical for understanding why fluency impairment affects not just word-level processing but the coherence of the mental representation of text content. Referenced in Phase IV.
+
+- **Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.**: Philosophical work developing the focal-subsidiary attention distinction — the concept that skilled performance involves attending through tools (words, instruments, syntax) to goals (meaning, music, argument), with the tools operating subsidiarily rather than focally. Provides the phenomenological framework for the automaticity transition in reading. Referenced in Phase IV.
+
+- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum.**: Foundational work distinguishing knowledge-telling from knowledge-transforming writing strategies. Provides the empirical basis for the bottleneck analysis in Phase VII: writing mechanics non-automaticity drives knowledge-telling as a low-cognitive-demand default strategy. Referenced in Phase VII.
+
+- **LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293-323.**: The foundational paper proposing that skilled reading requires automaticity in lower-level processes (letter and word recognition) so that attention can be devoted to comprehension. Introduced the concept of automatic processing as a prerequisite for fluent reading and shaped subsequent fluency research for five decades. Referenced in Phases II and IV.
+
+- **Gough, P. B., & Tunmer, W. E. (1986). Decoding, reading, and reading disability. *Remedial and Special Education, 7*(1), 6-10.**: The original presentation of the Simple View of Reading. Brief but theoretically important for establishing the two-component architecture of reading comprehension and the diagnostic clarity it provides for reading disability classification. Referenced in Phase II.
+
+- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360-407.**: The seminal paper establishing the Matthew Effect in reading development. Synthesized longitudinal and cross-sectional evidence for the compounding inequality of early reading skill and its consequences for vocabulary, world knowledge, and cognitive development. One of the most cited papers in educational psychology. Referenced in Phases III and VII.
+
+- **Perfetti, C. A. (1985). *Reading Ability*. Oxford University Press.**: The foundational monograph developing verbal efficiency theory. Establishes the working memory mechanism of the fluency-comprehension link and provides the most precise account of how local text processing efficiency determines comprehension quality. Referenced in Phases II and IV.
+
+- **Wolf, M., & Katzir-Cohen, T. (2001). Reading fluency and its intervention. *Scientific Studies of Reading, 5*(3), 211-239.**: Influential paper providing the three-component (accuracy, rate, prosody) definition of reading fluency and a comprehensive review of fluency intervention approaches. Also presents Wolf's RAVE-O program (Retrieval, Automaticity, Vocabulary elaboration, Engagement with language, Orthography) as a multidimensional fluency intervention. Referenced in Phase II.
+
+- **National Reading Panel. (2000). *Teaching Children to Read: An Evidence-Based Assessment of the Scientific Research Literature on Reading and Its Implications for Reading Instruction*. National Institutes of Health.**: The comprehensive government-commissioned meta-analysis of reading research that identified phonemic awareness, phonics, fluency, vocabulary, and comprehension as the five pillars of reading instruction. Established the evidentiary basis for guided oral reading as an effective fluency intervention. Referenced in Phase III.
+
+- **Samuels, S. J. (1979). The method of repeated readings. *The Reading Teacher, 32*(4), 403-408.**: The original paper describing the repeated reading technique for fluency development. Demonstrated that multiple readings of short passages to a fluency criterion produce both within-text fluency gains and generalization to new text — providing evidence for automatization of processing capabilities rather than text-specific memorization. Referenced in Phases III and V.
+
+- **Baddeley, A. D. (1986). *Working Memory*. Oxford University Press.**: The foundational monograph developing the multi-component model of working memory including the phonological loop, visuospatial sketchpad, and central executive. Provides the theoretical basis for understanding how decoding resource demands interact with sentence-level integration. Referenced in Phase IV.
+
+- **Kuhn, M. R., & Stahl, S. A. (2003). Fluency: A review of developmental and remedial practices. *Journal of Educational Psychology, 95*(1), 3-21.**: Comprehensive meta-analytic review of fluency development and intervention research. Established effect sizes for guided oral reading on fluency and comprehension outcomes and identified the conditions under which fluency interventions are most effective. Referenced in Phase III.
+
+- **Rasinski, T. V. (2004). *The Fluent Reader: Oral Reading Strategies for Building Word Recognition, Fluency, and Comprehension*. Scholastic.**: Practical and theoretical synthesis of fluency research with instructional applications. Emphasizes prosody as a component of fluency and its relationship to comprehension. Accessible treatment for practitioners building on the same research base. Referenced in Phases II and V.
+
+- **Kintsch, W., & van Dijk, T. A. (1978). Toward a model of text comprehension and production. *Psychological Review, 85*(5), 363-394.**: The foundational model of text comprehension as the construction of a situation model. Critical for understanding why fluency impairment affects not just word-level processing but the coherence of the mental representation of text content. Referenced in Phase IV.
+
+- **Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.**: Philosophical work developing the focal-subsidiary attention distinction — the concept that skilled performance involves attending through tools (words, instruments, syntax) to goals (meaning, music, argument), with the tools operating subsidiarily rather than focally. Provides the phenomenological framework for the automaticity transition in reading. Referenced in Phase IV.
+
+- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum.**: Foundational work distinguishing knowledge-telling from knowledge-transforming writing strategies. Provides the empirical basis for the bottleneck analysis in Phase VII: writing mechanics non-automaticity drives knowledge-telling as a low-cognitive-demand default strategy. Referenced in Phase VII.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

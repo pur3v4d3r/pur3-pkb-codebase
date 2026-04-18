@@ -415,7 +415,7 @@ extraction_summary:
 - [[Anders-Ericsson|Anders Ericsson]]
 - [[Ann-Brown|Ann Brown]]
 - [[Ann-L.-Brown|Ann L. Brown]]
-- [[Annemarie Palincsar]]
+- [[Annemarie-Palincsar|Annemarie Palincsar]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bernard-Weiner|Bernard Weiner]]
 - [[Calibration]]
@@ -453,7 +453,7 @@ extraction_summary:
 - [[William-James|William James]]
 - [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]]
 - [[Attribution-Theory|attribution theory]]
-- [[clinical reasoning]]
+- [[Clinical-Reasoning|clinical reasoning]]
 - [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]]
 - [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]
 - [[Deliberate-Practice|deliberate practice]]
@@ -470,7 +470,7 @@ extraction_summary:
 - [[prefrontal-cortex|prefrontal cortex]]
 - [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
-- [[reciprocal teaching]]
+- [[Reciprocal-Teaching|reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
@@ -527,13 +527,13 @@ extraction_summary:
 | 43 | [[Attribution-Theory|attribution theory]] | — | — | The Feedback Architecture of Learning | 393 |
 | 44 | [[Ann-Brown|Ann Brown]] | — | — | Metacognitive Development Across the ... | 402 |
 | 45 | [[prefrontal-cortex|prefrontal cortex]] | — | — | Metacognitive Development Across the ... | 404 |
-| 46 | [[reciprocal teaching]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
+| 46 | [[Reciprocal-Teaching|reciprocal teaching]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 47 | [[Ann-Brown|Ann Brown]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
-| 48 | [[Annemarie Palincsar]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
+| 48 | [[Annemarie-Palincsar|Annemarie Palincsar]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 49 | [[Reflective-Practice|Reflective practice]] | — | — | Cultivating Metacognitive Practice: W... | 426 |
 | 50 | [[Formative-Assessment|Formative assessment]] | — | — | Cultivating Metacognitive Practice: W... | 428 |
 | 51 | [[medical education]] | — | — | Metacognition in Professional and Org... | 443 |
-| 52 | [[clinical reasoning]] | — | — | Metacognition in Professional and Org... | 443 |
+| 52 | [[Clinical-Reasoning|clinical reasoning]] | — | — | Metacognition in Professional and Org... | 443 |
 | 53 | [[Deliberate-Practice|deliberate practice]] | — | — | Metacognition in Professional and Org... | 445 |
 | 54 | [[Anders-Ericsson|Anders Ericsson]] | — | — | Metacognition in Professional and Org... | 445 |
 | 55 | [[pseudoexpertise]] | — | — | Metacognition in Professional and Org... | 448 |
@@ -565,7 +565,7 @@ extraction_summary:
 - [[Anders-Ericsson|Anders Ericsson]]
 - [[Ann-Brown|Ann Brown]]
 - [[Ann-L.-Brown|Ann L. Brown]]
-- [[Annemarie Palincsar]]
+- [[Annemarie-Palincsar|Annemarie Palincsar]]
 - [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bernard-Weiner|Bernard Weiner]]
 - [[Calibration]]
@@ -603,7 +603,7 @@ extraction_summary:
 - [[William-James|William James]]
 - [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]]
 - [[Attribution-Theory|attribution theory]]
-- [[clinical reasoning]]
+- [[Clinical-Reasoning|clinical reasoning]]
 - [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]]
 - [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]
 - [[Deliberate-Practice|deliberate practice]]
@@ -620,7 +620,7 @@ extraction_summary:
 - [[prefrontal-cortex|prefrontal cortex]]
 - [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
-- [[reciprocal teaching]]
+- [[Reciprocal-Teaching|reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]

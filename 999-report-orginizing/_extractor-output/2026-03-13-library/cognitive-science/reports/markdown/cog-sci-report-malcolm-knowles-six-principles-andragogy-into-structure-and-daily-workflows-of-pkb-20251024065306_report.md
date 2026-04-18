@@ -485,7 +485,7 @@ extraction_summary:
 > 
 > This article connects most directly to [[Constructivist-Learning-Theory|Constructivist Learning Theory]], particularly the work of Piaget and Vygotsky on how learners actively construct understanding rather than passively receiving it. The emphasis on connection-making, elaboration, and integration of new knowledge with existing schemas is fundamentally constructivist. The Personal Knowledge Base becomes an external manifestation of constructivist processes—you can literally see the construction happening as notes are created, linked, and elaborated over time.
 > 
-> It also resonates deeply with [[Systems Thinking]] approaches, particularly the recognition that the structure of a system shapes the behavior it produces. A Personal Knowledge Base structured around folders and categories will produce different thinking patterns than one structured around problems and connections. This is not merely a superficial difference—the architecture shapes cognition itself, making some thought patterns easy and others difficult. Understanding this gives you leverage: by consciously designing system structure, you can shape your own thinking patterns.
+> It also resonates deeply with [[Systems-Thinking|Systems Thinking]] approaches, particularly the recognition that the structure of a system shapes the behavior it produces. A Personal Knowledge Base structured around folders and categories will produce different thinking patterns than one structured around problems and connections. This is not merely a superficial difference—the architecture shapes cognition itself, making some thought patterns easy and others difficult. Understanding this gives you leverage: by consciously designing system structure, you can shape your own thinking patterns.
 > 
 > Where the article challenged my thinking was in its critique of comprehensive approaches. I've been influenced by the [[GTD]] (Getting Things Done) methodology and similar productivity systems that emphasize capturing everything and processing systematically. This article suggests that comprehensiveness itself may be counterproductive for learning—that trying to capture and process everything diffuses focus and prevents the deep engagement necessary for real understanding. The tension between completeness and depth is real, and this article persuasively argues for choosing depth.
 
@@ -608,7 +608,7 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[The PARA Method]]
 - [[Transclusion and Context Multiplicity]]
 - [[Zettelkasten]]
@@ -673,7 +673,7 @@ extraction_summary:
 | 42 | [[Anki]] | — | — | 7.2 🧬 SPACED REPETITION AND LONG-TERM... | 643 |
 | 43 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 7.2 🧬 SPACED REPETITION AND LONG-TERM... | 643 |
 | 44 | [[Constructivist-Learning-Theory|Constructivist Learning Theory]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 734 |
-| 45 | [[Systems Thinking]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 736 |
+| 45 | [[Systems-Thinking|Systems Thinking]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 736 |
 | 46 | [[GTD]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 738 |
 | 47 | [[Andragogy]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 743 |
 | 48 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 746 |
@@ -827,7 +827,7 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[The PARA Method]]
 - [[Transclusion and Context Multiplicity]]
 - [[Zettelkasten]]

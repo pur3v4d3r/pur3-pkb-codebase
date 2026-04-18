@@ -37,7 +37,7 @@ Aliases: [[Metacognitive PKM Frameworks]], [[Externalized Cognition in Note-Taki
 
 > [!definition]
 > **Metacognitive PKM**
-> An approach to knowledge management where the software environment acts as an extension of the user's working memory (following the [[Extended Mind Thesis]]). In this framework, the manipulation of digital objects (notes) represents the manipulation of mental schemas, providing the user with concrete feedback regarding the depth, accuracy, and connectivity of their knowledge base.
+> An approach to knowledge management where the software environment acts as an extension of the user's working memory (following the [[Extended-Mind-Thesis]]). In this framework, the manipulation of digital objects (notes) represents the manipulation of mental schemas, providing the user with concrete feedback regarding the depth, accuracy, and connectivity of their knowledge base.
 
 > [!the-philosophy]
 > **The Externalization of the Internal Dialogue**
@@ -95,7 +95,7 @@ The review process also serves as a diagnostic tool. If a note from the past is 
 
 > [!connections-and-links]
 > **Network Integration**
-> This methodological analysis connects deeply with the [[zettelkasten method]], which privileges the communication between notes as a driver of insight. It also serves as a practical application of [[Constructivist Epistemology]], validating the idea that knowledge is built, not found. Furthermore, it provides the "How" for the [[Feynman Technique]], offering a digital canvas to simplify and teach concepts to oneself.
+> This methodological analysis connects deeply with the [[Zettelkasten-Method]], which privileges the communication between notes as a driver of insight. It also serves as a practical application of [[Constructivist Epistemology]], validating the idea that knowledge is built, not found. Furthermore, it provides the "How" for the [[Feynman Technique]], offering a digital canvas to simplify and teach concepts to oneself.
 
 > [!further-exploration]
 > **New Avenues of Inquiry**

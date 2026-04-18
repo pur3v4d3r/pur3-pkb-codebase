@@ -39,7 +39,7 @@ referenced-by-count: 3
 see-also:
   - "[[Context-Window]]"
   - "[[_Master-Definition-Index|_Master-Definition-Index]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,4 +60,4 @@ importance: low
 
 - [[Context-Window]]
 - [[_Master-Definition-Index|_Master-Definition-Index]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

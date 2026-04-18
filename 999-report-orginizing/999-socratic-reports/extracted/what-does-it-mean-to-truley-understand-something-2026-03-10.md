@@ -82,7 +82,7 @@ generation-prompt: "[[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue 
 
 prerequisites:
   - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education|Philosophy of Education]]"
   - "[[Cognitive-Science|Cognitive Science]]"
 
 builds_on:

@@ -737,7 +737,7 @@ These limitations, however, define a productive research frontier rather than in
 >
 > **Report-Specific Significance:** Identifies the risk that accompanies monitoring-control decoupling (Section 3) — the gap between system-level monitoring and practitioner-level metacognitive regulation.
 >
-> **See also:** [[Pseudometacognition]], [[Monitoring-Regulation-Decoupling]], [[Metacognitive-Awareness]]
+> **See also:** [[Pseudometacognition]], [[Monitoring-Regulation-Decoupling]], [[metacognitive-awareness]]
 
 > [!definition] **Judgment of Learning (Nelson & Dunlosky, 1991)**
 > A metacognitive monitoring judgment assessing how well material has been learned, typically made during or shortly after a learning episode. JOLs are among the most studied metacognitive judgments, with research demonstrating that delayed JOLs are more accurate than immediate JOLs (because they are based on retrieval success rather than processing fluency). In PKB practice, note quality serves as an externalized JOL — a persistent record of learning depth.

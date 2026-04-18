@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,6 +42,7 @@ updated: 2026-04-01
 source-type: report-extraction
 source-reports:
   - "schema-theory-dialectical-re-examination-2026-03-22"
+  - "schema-theory-foundational-report-2026-03-31.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
@@ -202,10 +203,26 @@ importance: high
 > [!analytical-insight] Key Insight *(from [[schema-theory-dialectical-re-examination-2026-03-22]])*
 > The term "accommodation" suggests a minor structural adjustment — a schema making room for new information. But the [[Conceptual-Change]] research tradition demonstrates that what Rumelhart & Norman called "restructuring" (and what Bartlett's wavy, contradictory recall data actually showed) is better described as conceptual revolution in miniature: a whole framework of expectations, causal beliefs, and explanatory categories must be dismantled and rebuilt. Calling this "accommodation" is like…
 
+> [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-03-31]])*
+> From the perspective of [[Cognitive-Load-Theory|Cognitive Load Theory]] and instructional science, schemas are the units of [[Long-Term-Memory|long-term memory]] that matter most for learning. They compress complexity into manageable patterns by chunking multiple elements that must be treated as a unit into a single representational structure. What the working memory theorist sees as "a single chunk" is, more precisely, an instantiated schema. This compression is why experts can hold far more domain-relevant information in working memory than novices: their schemas chunk more. Schema acquisition is, in effect, the mechanism by which [[Working-Memory|working memory]] limitations are circumvented in the long run.
+
+> [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-03-31]])*
+> Bartlett's central and most durable claim is that memory is not reproductive but *reconstructive*. When we recall a past experience, a text, or a narrative, we do not replay a stored recording. We reconstruct: we build a plausible account from available schema-consistent fragments, filling gaps with schema-generated defaults, rationalizing anomalies toward schema expectations, and unconsciously editing what was experienced toward a more schema-coherent version. The result is a memory that is often partially correct, systematically distorted toward schema expectations, and experienced by the rememberer as accurate.
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
+
+> [!example] **Application** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> The release of working memory through schema automation is not merely convenient — it is the mechanism by which higher-order cognition becomes possible. When basic operations are automated, working memory is available for integration, evaluation, creative adaptation, and metacognitive monitoring. This is why fluency — genuine automaticity at the level of component skills and domain schemas — is a prerequisite for higher-order competence, not a lesser form of it. Instructional programs that move too rapidly to complex, integrative tasks before component schemas have been automated are asking learners to perform higher-order operations without the working memory resources those operations require.
+
+> [!warning] **Key Distinction** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> The reconstructive character of memory has direct implications far beyond the laboratory. Eyewitness testimony in legal contexts is routinely distorted by schema-driven reconstruction — eyewitnesses are not lying when they report schema-consistent details that did not occur; they are accurately reporting their (reconstructed) memory. Medical history-taking is vulnerable to schema-driven distortion on both sides: patients reconstruct their symptom histories in light of available scripts for illness, and clinicians hear symptom reports through the schemas activated by their preliminary diagnostic hypotheses. Expert-level schema theory is not merely an academic concern; it is a framework for understanding systematic error in high-stakes human judgment.
+
+
 
 ## Key Figures & Intellectual Lineage
 
@@ -318,6 +335,28 @@ importance: high
 > **Application**: Choose the "disruption before resources" principle and identify one specific context in your own practice where you could apply it. What would the disruption look like? How would you know it was working?
 > 
 > **Extension**: The transferability of these patterns across domains — cognition, economics, software, organizational change — is itself data. What does it…
+
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> Before reading further, take a moment to interrogate your own experience of comprehension. Consider the last time you read something genuinely difficult — a dense academic paper, an unfamiliar technical manual, a passage in a language you know imperfectly. What made it hard? Was it the individual words, or was it something more structural — a felt sense of lacking the right *framework* for what you were reading? Conversely, recall a moment when a text seemed to organize itself almost automatically in your mind, when understanding arrived with very little effort. What made the difference? The answer that schema theory proposes is not merely conceptual: it is architectural. Note your intuitions here. They will be productively disturbed.
+
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> 1. Can you identify a domain — professional, academic, or recreational — in which you possess genuinely rich schemas? What does expert comprehension in that domain *feel like* compared to novice comprehension in an unfamiliar domain?
+> 2. Schema theorists claim that even perception is schema-mediated — that we never perceive raw sensory data but always an already-interpreted world. Do you find this claim plausible or counterintuitive? What evidence from your own experience supports or challenges it?
+> 3. Piaget's accommodation requires disequilibrium. Can you think of a learning situation in which you avoided disequilibrium — in which you assimilated new information rather than genuinely revising your understanding? What were the consequences?
+
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> 1. Each of the theoretical strands reviewed here — Bartlett, Piaget, Rumelhart, Ausubel, Schank — emphasizes a different aspect of schemas. Which aspect do you find most theoretically compelling? Which most practically relevant?
+> 2. Rumelhart's computational model treats schemas as data structures with slots and defaults. Does this computational metaphor illuminate or obscure something important about the psychological reality of schemas?
+> 3. The accretion/tuning/restructuring taxonomy suggests that most learning is accretion — shallow, instance-adding — rather than deep restructuring. What implications does this have for how instructional time should be allocated?
+
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> 1. The limitations section identifies three major challenges: circularity, cultural specificity, and the formation gap. Which of these do you judge to be most damaging to the theoretical project? Which is most tractable?
+> 2. Given the cultural-specificity problem, what specific adjustments would need to be made to standard schema-theoretic accounts of reading comprehension before they could be applied to instruction in culturally diverse classrooms?
+> 3. Does the PDP challenge to symbolic schema representations constitute a refutation of schema theory, a reduction of it, or merely a re-description at a different level of analysis?
+
+
+
+
 
 ## Spaced Repetition Seeds
 
@@ -523,6 +562,42 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
 - [[Advance-Organizer|Advance-Organizer]]
 
+**Related concepts** *(from [[schema-theory-dialectical-re-examination-2026-03-22]], [[schema-theory-foundational-report-2026-03-31]])*:
+[[Advance-Organizers|Advance-Organizers]] * [[Expert-Novice-Research|Expert-Novice-Research]] * [[Jean-Piaget|Jean-Piaget]] * [[David-Rumelhart|David-Rumelhart]] * [[David-Ausubel|David-Ausubel]] * [[Roger-Schank|Roger-Schank]] * [[Conceptual-Change-Theory|Conceptual-Change-Theory]] * [[Immanuel-Kant|Immanuel-Kant]] * [[Working-Memory|Working-Memory]] * [[Constructivism|Constructivism]] * [[restaurant-schema|restaurant schema]] * [[Declarative-schemas|Declarative-schemas]] * [[Procedural-schemas|Procedural-schemas]] * [[John-Anderson|John-Anderson]] * [[ACT-R-theory|ACT-R-theory]] * [[top-down-processing|top-down-processing]] * [[bottom-up-processing|bottom-up-processing]] * [[Hermann-Ebbinghaus|Hermann-Ebbinghaus]] * [[Richard-Anderson|Richard-Anderson]] * [[Spreading-Activation|Spreading-Activation]] * [[Robert-Abelson|Robert-Abelson]] * [[Donald-Norman|Donald-Norman]] * [[Schema-Activation|Schema-Activation]] * [[Expertise-Development|Expertise-Development]] * [[Worked-Examples|Worked-Examples]] * [[Pattern-Recognition|Pattern-Recognition]] * [[Mental-Model|Mental-Model]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Schema-Attractor|Schema-Attractor]] * [[Schema-Progressive-Architecture|Schema-Progressive-Architecture]]
+
+**Cross-report connections** *(from [[schema-theory-dialectical-re-examination-2026-03-22]])*:
+- [[Schema-Theory-and-Learning|Schema-Theory-and-Learning]]
+- [[Schema-Accommodation|Schema-Accommodation]]
+- [[Schema-Automation|Schema-Automation]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Advance-Organizer|Advance-Organizer]]
+
+**Cross-report connections** *(from [[schema-theory-dialectical-re-examination-2026-03-22]])*:
+- [[Schema-Theory-and-Learning|Schema-Theory-and-Learning]]
+- [[Schema-Accommodation|Schema-Accommodation]]
+- [[Schema-Automation|Schema-Automation]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Advance-Organizer|Advance-Organizer]]
+
+**Cross-report connections** *(from [[schema-theory-foundational-report-2026-03-31]])*:
+- [[Working-Memory|Working-Memory]]
+- [[Long-Term-Memory|Long-Term-Memory]]
+- [[Prior-Knowledge|Prior-Knowledge]]
+- [[Mental-Model|Mental-Model]]
+- [[Dual-Coding-Theory|Dual-Coding-Theory]]
+
+**Cross-report connections** *(from [[schema-theory-foundational-report-2026-03-31]])*:
+- [[Working-Memory|Working-Memory]]
+- [[Long-Term-Memory|Long-Term-Memory]]
+- [[Prior-Knowledge|Prior-Knowledge]]
+- [[Mental-Model|Mental-Model]]
+- [[Dual-Coding-Theory|Dual-Coding-Theory]]
+
+
+
+
+
+
 
 
 ## References
@@ -563,6 +638,72 @@ importance: high
 
 - **Rumelhart, D. E., & Norman, D. A. (1978). Accretion, tuning, and restructuring: Three modes of learning. In J. W. Cotton & R. Klatzky (Eds.), *Semantic Factors in Cognition*. Erlbaum.**: The taxonomy of schema change mechanisms. Essential for understanding why restructuring is the underdescribed mechanism that conceptual change theory must supplement.
 
+- **Rumelhart, D. E., & Ortony, A. (1977). The representation of knowledge in memory. In R. C. Anderson, R. J. Spiro, & W. E. Montague (Eds.), *Schooling and the Acquisition of Knowledge*. Erlbaum.**: Foundational formalization of schema theory in computational terms; introduces slot-filler architecture. The primary target of the philosophical challenge regarding the representation assumption. Essential reading for understanding exactly what the received view claims. Recommend Chapters 2 and 4.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The original and still most important primary source. Read both for its schema theory contribution AND for the culturally-embedded account that the later formalization tradition lost. Chapters 10–12 contain the "War of the Ghosts" studies; the final chapters contain Bartlett's own theoretical framework, which is richer and more nuanced than his heirs acknowledged.
+
+- **Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The elegant context/schema activation study demonstrating that comprehension requires appropriate prior knowledge. Essential empirical support for the thesis; also consistent with the attractor account.
+
+- **Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299.**: The most comprehensive synthesis of Kapur's productive failure research program. Directly supports the schema-disruption-before-resources reconstructive prescription. Empirical challenge to the schema-activation-first instructional model.
+
+- **Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal, 40*(4), 905–928.**: Primary empirical source for the expert blind spot finding — a direct practical prediction failure of the schema automation model. Demonstrates that subject-matter expertise is negatively correlated with pedagogical effectiveness for novices.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text for the embodied cognition challenge to schema theory's representationalist assumptions. The most thorough philosophical challenge to the amodal data-structure conception of cognitive representation. Requires philosophical sophistication; start with the Introduction and Chapters 3–4.
+
+- **Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education, 66*(2), 211–227.**: Founding paper of conceptual change theory. Identifies the four conditions for genuine restructuring (dissatisfaction, intelligibility, plausibility, fruitfulness). The reconstructive resource that provides what schema theory's own accommodation mechanism fails to provide.
+
+- **Barsalou, L. W. (1999). Perceptual symbol systems. *Behavioral and Brain Sciences, 22*(4), 577–660.**: The most developed empirical case for the grounded/embodied account of conceptual knowledge. The primary empirical support for the philosophical challenge to schema theory's amodal representation assumption. The target article and peer commentary together constitute a complete state-of-the-debate resource.
+
+- **Lave, J., & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press.**: Foundational text for situated cognition as an alternative to schema theory's individual-cognitive-structure model. The source for understanding how knowledge is distributed across social practice rather than held in individual schemas.
+
+- **Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science, 5*(2), 121–152.**: The canonical expert-novice study demonstrating domain-specific schematic organization. Provides empirical support for *something functioning schematically* in expertise — the evidence that survives the dialectical challenge.
+
+- **Rumelhart, D. E., & Norman, D. A. (1978). Accretion, tuning, and restructuring: Three modes of learning. In J. W. Cotton & R. Klatzky (Eds.), *Semantic Factors in Cognition*. Erlbaum.**: The taxonomy of schema change mechanisms. Essential for understanding why restructuring is the underdescribed mechanism that conceptual change theory must supplement.
+
+- **Rumelhart, D. E., & Ortony, A. (1977). The representation of knowledge in memory. In R. C. Anderson, R. J. Spiro, & W. E. Montague (Eds.), *Schooling and the Acquisition of Knowledge*. Erlbaum.**: Foundational formalization of schema theory in computational terms; introduces slot-filler architecture. The primary target of the philosophical challenge regarding the representation assumption. Essential reading for understanding exactly what the received view claims. Recommend Chapters 2 and 4.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The original and still most important primary source. Read both for its schema theory contribution AND for the culturally-embedded account that the later formalization tradition lost. Chapters 10–12 contain the "War of the Ghosts" studies; the final chapters contain Bartlett's own theoretical framework, which is richer and more nuanced than his heirs acknowledged.
+
+- **Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The elegant context/schema activation study demonstrating that comprehension requires appropriate prior knowledge. Essential empirical support for the thesis; also consistent with the attractor account.
+
+- **Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299.**: The most comprehensive synthesis of Kapur's productive failure research program. Directly supports the schema-disruption-before-resources reconstructive prescription. Empirical challenge to the schema-activation-first instructional model.
+
+- **Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal, 40*(4), 905–928.**: Primary empirical source for the expert blind spot finding — a direct practical prediction failure of the schema automation model. Demonstrates that subject-matter expertise is negatively correlated with pedagogical effectiveness for novices.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text for the embodied cognition challenge to schema theory's representationalist assumptions. The most thorough philosophical challenge to the amodal data-structure conception of cognitive representation. Requires philosophical sophistication; start with the Introduction and Chapters 3–4.
+
+- **Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education, 66*(2), 211–227.**: Founding paper of conceptual change theory. Identifies the four conditions for genuine restructuring (dissatisfaction, intelligibility, plausibility, fruitfulness). The reconstructive resource that provides what schema theory's own accommodation mechanism fails to provide.
+
+- **Barsalou, L. W. (1999). Perceptual symbol systems. *Behavioral and Brain Sciences, 22*(4), 577–660.**: The most developed empirical case for the grounded/embodied account of conceptual knowledge. The primary empirical support for the philosophical challenge to schema theory's amodal representation assumption. The target article and peer commentary together constitute a complete state-of-the-debate resource.
+
+- **Lave, J., & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press.**: Foundational text for situated cognition as an alternative to schema theory's individual-cognitive-structure model. The source for understanding how knowledge is distributed across social practice rather than held in individual schemas.
+
+- **Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science, 5*(2), 121–152.**: The canonical expert-novice study demonstrating domain-specific schematic organization. Provides empirical support for *something functioning schematically* in expertise — the evidence that survives the dialectical challenge.
+
+- **Rumelhart, D. E., & Norman, D. A. (1978). Accretion, tuning, and restructuring: Three modes of learning. In J. W. Cotton & R. Klatzky (Eds.), *Semantic Factors in Cognition*. Erlbaum.**: The taxonomy of schema change mechanisms. Essential for understanding why restructuring is the underdescribed mechanism that conceptual change theory must supplement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -588,6 +729,10 @@ importance: high
 > |…
 
 ---
+
+> [!methodology-and-sources] **Method of this Report** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> This report was constructed through integrative theoretical synthesis of the primary and secondary literature on schema theory, drawing on the original formulations of Bartlett (1932), Piaget (1952), Rumelhart (1975, 1980), Ausubel (1963, 1968), Schank and Abelson (1977), and the empirical literature reviewed in Anderson and Pearson (1984), Bower, Black, and Turner (1979), and Bransford and Johnson (1972). The coverage prioritizes conceptual clarity, theoretical precision, and instructional applicability over comprehensive bibliographic survey. Where the report makes synthesizing claims that go beyond direct citation — particularly in the "Schema Formation Gap" and "Schema Automation Bottleneck" formulations — these are flagged as theoretical integrations warranting further scholarly scrutiny. The [[Foundational-Report-Generator-v1.1]] prompt standard and PKB metadata protocols were applied throughout.
+
 
 ## Source Attribution
 

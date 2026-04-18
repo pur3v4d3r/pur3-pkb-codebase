@@ -147,7 +147,7 @@ extraction_summary:
 - [[Defensive Self-Esteem]]
 - [[Developmental Origins of Orientations]]
 - [[Ego-Involvement]]
-- [[Eudaimonic Well-Being]]
+- [[Eudaimonic-Well-Being|Eudaimonic Well-Being]]
 - [[External-Regulation|External Regulation]]
 - [[Extrinsic Life Goals]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
@@ -250,7 +250,7 @@ extraction_summary:
 | 28 | [[Universal Human Needs]] | — | — | Claude Thinking | 101 |
 | 29 | [[Need Substitution Hypothesis]] | — | — | Claude Thinking | 102 |
 | 30 | [[Cross-Cultural Validity of SDT]] | — | — | Claude Thinking | 103 |
-| 31 | [[Eudaimonic Well-Being]] | — | — | Claude Thinking | 104 |
+| 31 | [[Eudaimonic-Well-Being|Eudaimonic Well-Being]] | — | — | Claude Thinking | 104 |
 | 32 | [[Hedonic Well-Being]] | — | — | Claude Thinking | 104 |
 | 33 | [[Intrinsic Life Goals]] | — | — | Claude Thinking | 105 |
 | 34 | [[Extrinsic Life Goals]] | — | — | Claude Thinking | 105 |
@@ -402,7 +402,7 @@ BPNT is the cornerstone mini-theory of SDT that makes the controversial claim th
 - [[Universal Human Needs]] - philosophical debates
 - [[Need Substitution Hypothesis]] - why needs cannot substitute for each other
 - [[Cross-Cultural Validity of SDT]]
-- [[Eudaimonic Well-Being]] versus [[Hedonic Well-Being]]
+- [[Eudaimonic-Well-Being|Eudaimonic Well-Being]] versus [[Hedonic Well-Being]]
 - [[Intrinsic Life Goals]] versus [[Extrinsic Life Goals]]
 **Analogical Potential**:
 The three needs function like essential nutrients for plants—just as plants require nitrogen, phosphorus, and potassium (and one cannot substitute for another), humans require autonomy, competence, and relatedness for psychological flourishing, with deficiency in any creating specific pathologies.
@@ -601,7 +601,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 - [[Defensive Self-Esteem]]
 - [[Developmental Origins of Orientations]]
 - [[Ego-Involvement]]
-- [[Eudaimonic Well-Being]]
+- [[Eudaimonic-Well-Being|Eudaimonic Well-Being]]
 - [[External-Regulation|External Regulation]]
 - [[Extrinsic Life Goals]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]

@@ -82,4 +82,4 @@ importance: medium
 - [[The-Undermining-Effect]]
 - [[Universal-Need]]
 - [[Volitional-Congruence]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

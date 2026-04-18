@@ -1,0 +1,1363 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:40:48.433434",
+    "source_file": "optimal-reading-session-worked-example-2026-03-25.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-dialectical-re-examination-report-generator\\extracted\\optimal-reading-session-worked-example-2026-03-25.md",
+    "source_file_size_bytes": 46805,
+    "processing_time_seconds": 0.009
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Worked Example — Optimal Active Reading Session Applied to: SRL Forethought & Self-Reflection PKB Report",
+      "aliases": [
+        "[[Optimal Reading Session Worked Example]]",
+        "[[Active Reading Techniques Worked Example]]",
+        "[[PKB Reading Session Guide — Applied Example]]"
+      ],
+      "type": "permanent-note",
+      "status": "evergreen",
+      "confidence": "high",
+      "tags": [
+        "permanent-note",
+        "worked-example",
+        "active-reading",
+        "note-taking",
+        "reading-strategies",
+        "educational-psychology/self-regulated-learning",
+        "educational-psychology/metacognition",
+        "pkb-integration",
+        "study-skills",
+        "evergreen",
+        "reference-guide",
+        "operational-guide"
+      ],
+      "domain": "educational-psychology",
+      "subdomains": [
+        "active-reading",
+        "self-regulated-learning",
+        "metacognition",
+        "knowledge-management"
+      ],
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "source": "claude-sonnet-4-6",
+      "generation-date": "2026-03-25",
+      "review-frequency": "quarterly",
+      "mastery-stage": "budding",
+      "importance": "critical",
+      "target-text": "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24.md",
+      "techniques-demonstrated": [
+        "Schema Activation",
+        "Text Survey / Advance Organizer Scanning",
+        "Pre-Question Generation",
+        "Goal Setting (Process + Outcome)",
+        "Marginal Annotation",
+        "Elaborative Interrogation",
+        "Self-Explanation",
+        "Connection-Making / Wiki-Linking",
+        "Comprehension Monitoring",
+        "Cold Reconstruction",
+        "Comprehension Gap Analysis",
+        "Causal Attribution Analysis",
+        "PKB Integration"
+      ]
+    },
+    "word_count": 6380,
+    "character_count": 43761,
+    "line_count": 479,
+    "heading_count": 20
+  },
+  "extraction_summary": {
+    "total_items_extracted": 116,
+    "by_type": {
+      "headings": 20,
+      "callouts": 26,
+      "wiki_links": 54,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 15,
+      "html_comments": 1,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Optimal Active Reading Session — Worked Example",
+      "anchor": "optimal-active-reading-session-worked-example",
+      "line_number": 77,
+      "source": "optimal-reading-session-worked-example-2026-03-25.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase 0: Pre-Reading Setup (~10 minutes)",
+          "anchor": "phase-0-pre-reading-setup-10-minutes",
+          "line_number": 94,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "0.1 — Schema Activation",
+              "anchor": "01-schema-activation",
+              "line_number": 100,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "0.2 — Text Survey (Advance Organizer Scan)",
+              "anchor": "02-text-survey-advance-organizer-scan",
+              "line_number": 115,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "0.3 — Process and Outcome Goal Setting",
+              "anchor": "03-process-and-outcome-goal-setting",
+              "line_number": 139,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "0.4 — Pre-Question Generation",
+              "anchor": "04-pre-question-generation",
+              "line_number": 157,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase 1: Active Reading Log",
+          "anchor": "phase-1-active-reading-log",
+          "line_number": 176,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Reading: Part I — Orientation (Central Thesis)",
+              "anchor": "reading-part-i-orientation-central-thesis",
+              "line_number": 182,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Reading: Part II — The Forethought Phase, Two Subsystems",
+              "anchor": "reading-part-ii-the-forethought-phase-two-subsystems",
+              "line_number": 199,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Reading: Part IV — The Self-Reflection Phase, Adaptive vs. Defensive Inference",
+              "anchor": "reading-part-iv-the-self-reflection-phase-adaptive-vs-defensive-inference",
+              "line_number": 223,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Reading: Part VI — The Five Feedback Channels",
+              "anchor": "reading-part-vi-the-five-feedback-channels",
+              "line_number": 253,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Reading: Part VII — Metacognitive Dimensions",
+              "anchor": "reading-part-vii-metacognitive-dimensions",
+              "line_number": 283,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Reading: Part VIII — Motivational Architecture",
+              "anchor": "reading-part-viii-motivational-architecture",
+              "line_number": 308,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase 2: Cold Reconstruction (~5 minutes, timed)",
+          "anchor": "phase-2-cold-reconstruction-5-minutes-timed",
+          "line_number": 321,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase 3: Self-Reflection Protocol",
+          "anchor": "phase-3-self-reflection-protocol",
+          "line_number": 367,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Zone 1: Retrieval-Based Comprehension Assessment",
+              "anchor": "zone-1-retrieval-based-comprehension-assessment",
+              "line_number": 373,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Zone 2: Process Goal Audit",
+              "anchor": "zone-2-process-goal-audit",
+              "line_number": 383,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Zone 3: Causal Attribution Analysis",
+              "anchor": "zone-3-causal-attribution-analysis",
+              "line_number": 411,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Zone 4: PKB Integration and Forward Planning",
+              "anchor": "zone-4-pkb-integration-and-forward-planning",
+              "line_number": 444,
+              "source": "optimal-reading-session-worked-example-2026-03-25.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Summary Reference: Reading Technique Deployment Guide",
+          "anchor": "summary-reference-reading-technique-deployment-guide",
+          "line_number": 472,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "important",
+        "title": "How to Use This Worked Example",
+        "body": "This note is not a summary of the target report. It is a **documented simulation of the reading process itself** — showing what a skilled, self-regulated reader *produces* while moving through a complex academic text. Each technique is labeled with its name and a brief explanation of why it is deployed at that moment. The content used in every demonstration is real material drawn directly from the target report.\n\nWhen reading your own PKB reports in future, open a blank note alongside the report and replicate this structure. The goal is not to fill every technique slot on every session — it is to develop judgment about which tools to pick up and when. This note gives you a model to imitate until that judgment is internalized.",
+        "line_number": 87,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 2773,
+        "char_end": 3564
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Technique: Schema Activation",
+        "body": "*Why here: [[Prior-Knowledge-Activation]] before reading reduces cognitive load during reading by giving new information anchors to attach to. Write for 3–5 minutes before opening the text. Do not look at the report yet — not even the headers.*\n\n**What do I already believe about this topic?**\n\nI have read the Zimmerman foundational report (see [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]). My current model: the SRL cycle has three phases — Forethought, Performance, Self-Reflection — and they feed into each other. Forethought involves setting goals and planning strategies. Self-Reflection involves evaluating how well you did. I have a working sense of what the cycle *is*, but I am fuzzy on the internal *structure* of each phase — what exactly happens inside them.\n\n**What I expect to be challenged on:** My guess is that I oversimplify Forethought as \"planning\" and Self-Reflection as \"evaluation.\" The report probably complicates both.\n\n**What I am genuinely curious about:** How do you actually *do* the Self-Reflection phase in a way that makes the next session better? I know the theory. I want the mechanics.",
+        "line_number": 102,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 3873,
+        "char_end": 5076
+      },
+      {
+        "type": "annotation",
+        "title": "Technique: Text Survey — What the Structure Tells You Before You Read",
+        "body": "*Why here: Scanning structure before reading activates [[Schema-Theory|schema]] formation. You are building a \"skeleton\" that the content will hang on. Note headers that surprise you — those are where the real learning is likely to be.*\n\n**Header map produced by scan:**\n- Part I: Orientation\n- Part II: Forethought Phase — Deep Architecture *(note: \"deep architecture\" — this is a theoretical treatment, not a how-to)*\n- Part III: Forethought Phase — PKB Operationalization *(now the how-to)*\n- Part IV: Self-Reflection Phase — Deep Architecture\n- Part V: Self-Reflection Phase — PKB Operationalization\n- Part VI: Closing the Loop *(the feedback mechanism — this is what I am most curious about)*\n- Part VII: Metacognitive Dimensions\n- Part VIII: Motivational Architecture\n- Part IX: Tools, Templates, and Prompts\n\n**Surprises noted:** The pairing pattern — theory then operationalization for each phase — is deliberate. And Part VIII is entire dedicated to motivation. That is unusual for an SRL how-to. Flag for close reading.\n\n**Structural inference:** The report is treating this as both a theoretical and a practical document. The key question I should hold: *How does the theory in Parts II and IV cash out into the protocols in Parts III and V?*",
+        "line_number": 119,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 5331,
+        "char_end": 6704
+      },
+      {
+        "type": "key-claim",
+        "title": "Technique: Explicit Goal Setting (Process + Outcome)",
+        "body": "*Why here: Vague goals produce vague self-evaluation. Specific, behavioral process goals give you something concrete to audit after the session. Set both kinds: outcome goals (what you want to understand) and process goals (how you will read).*\n\n**Outcome Goals:**\n1. Be able to explain, without notes, the two-subsystem structure of *both* the Forethought Phase and the Self-Reflection Phase.\n2. Be able to describe the \"five feedback channels\" through which Self-Reflection generates the next Forethought.\n3. Understand the difference between adaptive and defensive inference — not just as a definition, but as a mechanism.\n\n**Process Goals:**\n1. Self-explain at the end of each Part (close the report, write in my own words, then re-open).\n2. Generate at least one [[Elaborative-Interrogation]] question per major section.\n3. Pause at every callout labeled `[!key-claim]` and paraphrase it before moving on.\n4. Flag every concept I cannot yet wiki-link to an existing PKB note (these are knowledge gaps, not just unfamiliar words).",
+        "line_number": 141,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 6754,
+        "char_end": 7883
+      },
+      {
+        "type": "question",
+        "title": "Technique: Pre-Question Generation",
+        "body": "*Why here: Pre-questions transform passive reading into purposeful search. They are generated FROM the survey — you are essentially asking \"what would I need to know to understand why this section exists?\" Each becomes a reading goal for that section.*\n\n**Questions generated from header scan:**\n\n**Q1 (Part II):** What is the \"deep architecture\" of Forethought? Is it more than goal-setting?\n\n**Q2 (Part IV):** The report says Self-Reflection is the \"most neglected\" phase. What makes it so easy to skip — and what does skipping it actually cost?\n\n**Q3 (Part VI):** The title says \"Closing the Loop.\" What exactly is the *mechanism* by which Self-Reflection generates the next Forethought? Is it automatic, or does it have to be deliberately designed?\n\n**Q4 (Part VIII):** Why does motivation get its own dedicated section in a report that is ostensibly about process? What failure mode is this section addressing?\n\n**Q5 (General):** The report is specifically about reading PKB reports, not general academic texts. What makes PKB reports *specifically* harder to self-regulate on?",
+        "line_number": 159,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 7924,
+        "char_end": 9080
+      },
+      {
+        "type": "annotation",
+        "title": "Technique: Annotating the Central Framing Claim",
+        "body": "*Why here: The first substantive argument establishes the frame for everything that follows. If you get this wrong, all subsequent processing is built on a misunderstanding. Annotate it explicitly so you can return to it.*\n\n**Passage flagged:**\n*\"The Forethought Phase is not merely planning — it is motivational priming. The quality of the beliefs you activate before engaging with a demanding text determines what kind of learning becomes possible during engagement. And the Self-Reflection Phase is not post-hoc evaluation — it is the generative engine of the entire cycle.\"*\n\n**Annotation:** This is the thesis. The report is not going to tell me how to plan better — it is going to tell me that what I activate *before* reading creates the ceiling on what I can learn. And the Self-Reflection Phase is productive (generative), not merely retrospective. Mark this as the lens for everything else.",
+        "line_number": 184,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 9401,
+        "char_end": 10380
+      },
+      {
+        "type": "question",
+        "title": "Technique: Immediate Question Generated by Claim",
+        "body": "*Why here: This claim is surprising — specifically the word \"generative\" for Self-Reflection. That is not how I thought about it. The surprise is a signal: this is where my prior model is being challenged. Generate a question rather than just noting the surprise.*\n\n**Q (generated):** In what sense is Self-Reflection \"generative\"? The report says it creates the inputs for the next Forethought Phase — but how? Is it through specific outputs (like updated goals), or is it more diffuse (like changed motivation)? ← *Answer this by the end of Part VI.*",
+        "line_number": 192,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 10381,
+        "char_end": 11006
+      },
+      {
+        "type": "self-explanation",
+        "title": "Technique: Self-Explanation After New Conceptual Architecture",
+        "body": "*Why here: The two-subsystem model (Task Analysis + Motivational Beliefs) is the conceptual payload of this section. [[self-explanation|Self-explanation]] forces you to re-encode in your own language, which surfaces gaps in understanding that passive reading conceals.*\n\n**Self-explanation produced (written with report closed):**\n\nForethought Phase has two subsystems that run in parallel, not sequence. Subsystem 1 — Task Analysis — is the cognitive/strategic side: you set goals and plan how you will execute the reading (which strategies, in what order). Subsystem 2 — Motivational Beliefs — is the motivational/psychological side: you activate beliefs about your competence, about why this matters, about what kind of goal you are pursuing (mastery vs. performance). The key insight is that *both* have to be activated for Forethought to do its job. You can set perfect goals with a broken motivational system — and the broken motivational system will silently corrupt the execution.\n\n**Gap detected in my self-explanation:** I said \"run in parallel\" but I am not actually sure they are simultaneous. Does motivational belief activation happen *first* (as a kind of filter on what goals you allow yourself to set), or genuinely simultaneously? Flag for re-check.",
+        "line_number": 201,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 11074,
+        "char_end": 12441
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Technique: Elaborative Interrogation — Why Would This Be True?",
+        "body": "*Why here: [[Elaborative-Interrogation]] is most powerful when applied to a claim that is not intuitively obvious. Asking \"why would this be true?\" forces you to reconstruct the mechanism, which is deeper processing than accepting the claim.*\n\n**Claim:** Low self-efficacy can \"corrupt\" the Task Analysis subsystem — meaning that what goals you set and what strategies you select are contaminated by your motivational beliefs before you even consciously notice it.\n\n**Elaborative interrogation question:** Why would low self-efficacy corrupt task analysis, rather than simply discouraging effort *during* performance?\n\n**Generated answer:** Because goal-setting is not a purely rational exercise — it is constrained by what you believe is achievable. If I believe I am unlikely to understand a dense theoretical section, I will set a shallower comprehension goal without consciously deciding to. The belief operates upstream of the decision. This is why the report says you cannot optimize the two subsystems independently. Low self-efficacy shrinks the ambition of the plan *before you know it is being shrunk*.\n\n**Connection made:** This is the same mechanism as [[Learned-Helplessness]] — expectation of failure causing reduced effort before any actual failure occurs. → Add wiki-link to [[Self-Efficacy]].",
+        "line_number": 210,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 12442,
+        "char_end": 13857
+      },
+      {
+        "type": "annotation",
+        "title": "Technique: Annotation — The Load-Bearing Distinction",
+        "body": "*Why here: The distinction between adaptive and defensive inference is the conceptual hinge of the entire Self-Reflection Phase. Everything in Zone 3 of the protocol depends on understanding this distinction operationally, not just definitionally.*\n\n**Passage flagged:**\nThe report contrasts two learners receiving identical self-judgment outputs:\n- *Learner A (Adaptive):* attributes comprehension failure to \"insufficient prior knowledge activation, compounded by strategy lapse\" → infers specific adjustments for next session.\n- *Learner B (Defensive):* attributes failure to \"this material is too advanced for my current level\" → infers withdrawal (\"I'll revisit it when I'm more prepared\").\n\n**Annotation:** The difference is NOT cognitive — both learners have processed the same information. The difference is **attributional**. Learner A's attribution (controllable, unstable, process-based) licenses adaptive inference. Learner B's attribution (stable, dispositional) licenses defensive inference. The report calls defensive inferences \"rational errors\" — they feel like good judgment. This is the danger.",
+        "line_number": 227,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 14044,
+        "char_end": 15245
+      },
+      {
+        "type": "connection",
+        "title": "Technique: Cross-Domain Connection — Linking to Existing PKB Knowledge",
+        "body": "*Why here: The concept of defensive inference as \"rational error\" maps directly onto something already in the PKB. Making this connection explicitly creates a network edge in the knowledge graph and deepens retention of both nodes.*\n\n**Connection identified:** The mechanism described here — a defensive response that *feels* like reasonable judgment while being epistemically incorrect — is structurally identical to [[Desirable-Difficulties]] research. Bjork (1994) showed that the conditions that feel *harder* during learning (retrieval practice, spacing, interleaving) actually produce *better* long-term retention. A learner who finds retrieval harder than re-reading will rationally prefer re-reading — but that preference is miscalibrated. The same structure: subjective difficulty (or failure) is misread as evidence that the task is wrong for you.\n\n**PKB action:** Create explicit wiki-link bridge: [[Defensive-Inference]] ↔ [[Desirable-Difficulties]] ↔ [[Fluency-Illusion]]. These three concepts form a cluster.",
+        "line_number": 237,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 15246,
+        "char_end": 16368
+      },
+      {
+        "type": "question",
+        "title": "Technique: Comprehension Monitoring — Flagging a Genuine Confusion",
+        "body": "*Why here: [[Comprehension-Monitoring]] means noticing when understanding breaks down — not just reading past confusion. This is an instance where a claim raised genuine uncertainty for me. Flag it explicitly rather than passively continuing.*\n\n**Confusion flagged:** The report says that defensive inferences \"masquerade as rational strategy.\" I understand what this means in the examples given. But I am uncertain about the *boundary*: Is there any legitimate form of \"I should wait until I have more prerequisites before re-engaging with this text\"? Or is any withdrawal-framing always a defensive inference? The report seems to allow for genuine difficulty being a valid attribution — but not as the *final* attribution. I need to find where that distinction is made explicit. → Scan forward for \"genuine difficulty\" language.\n\n**Note added after scanning:** Found it. The report says: \"The goal is not to eliminate honest attribution to difficulty... The goal is to ensure that *difficulty* is not the *final* attribution.\" Confusion resolved. Difficulty is a valid *intermediate* attribution; it becomes defensive when it terminates inquiry rather than opening the next question: \"What specifically made this hard for me in this session?\"",
+        "line_number": 244,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 16369,
+        "char_end": 17707
+      },
+      {
+        "type": "self-explanation",
+        "title": "Technique: Self-Explanation of a Process Model",
+        "body": "*Why here: The five feedback channels are enumerable. [[Self-Explanation-Effect|Self-explanation]] of enumerable processes is especially high-value because it tests whether you can reproduce both the items AND their logic — not just recall their names.*\n\n**Self-explanation produced (report closed, 5-minute timer):**\n\nThe five channels through which Self-Reflection regenerates Forethought:\n\n1. **Self-efficacy recalibration** — after the session, your confidence in your ability to do this type of reading is updated. If you successfully met your process goals, confidence stabilizes or rises, which makes the next Forethought more ambitious.\n\n2. **Prior knowledge update** — the PKB gets richer after a good session, so the next Forethought's \"reconnaissance\" phase has better material to draw from. Better prior knowledge = better gap mapping = better goals.\n\n3. **Strategic knowledge refinement** — you now know more about which strategies worked and which didn't. This feeds directly into next session's strategy planning.\n\n4. **Goal standard recalibration** — if you consistently hit your goals, they were probably too easy; if you consistently miss them despite following process, they may be miscalibrated. Either way you adjust.\n\n5. **Motivational trajectory** — whether you drew adaptive or defensive inferences determines whether the next session starts with maintained or degraded motivation.\n\n**Gap detected:** I almost certainly have channels 1–3 right. I am less confident about 4 and 5. Channel 4 — goal standard recalibration — feels like a second-order effect, not a direct \"channel.\" Re-read to check. *(Post-check: Correct — the report calls it \"recalibrated outcome expectations, based on actual experience with this type of text.\" My framing was close enough.)*",
+        "line_number": 255,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 17764,
+        "char_end": 19648
+      },
+      {
+        "type": "original-synthesis",
+        "title": "Technique: Original Synthesis — Connecting to an Existing Framework",
+        "body": "*Why here: When a concept crystallizes in a way that connects to a different domain's framework, record it explicitly. This is the kind of note that makes your PKB genuinely productive — a cross-domain connection that neither source explicitly makes.*\n\n**Synthesis produced:** The \"SRL cycle as self-improving algorithm\" claim in the report resonates with the structure of [[Deliberate-Practice]] in a way that deserves explicit articulation. In Ericsson's model, expert development accelerates because each practice session produces targeted feedback that makes the next session more efficient. In the SRL model described here, each reading cycle produces five specific inputs that make the next cycle better. Both systems have *increasing marginal returns* — later iterations are more efficient than earlier ones. The mechanism is different (expert feedback vs. self-generated feedback), but the structural logic is identical: the quality of the *feedback loop* is what separates developing expertise from mere repeated experience.\n\n**PKB action:** Create a note linking [[Deliberate-Practice]] and [[Zimmerman's-Cyclical-SRL-Model]] via this structural isomorphism. See also: [[The-SRL-Cycle-as-a-Calibration-Engine]].",
+        "line_number": 274,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 19649,
+        "char_end": 20975
+      },
+      {
+        "type": "annotation",
+        "title": "Technique: Annotation — Flagging the Critical Dependency",
+        "body": "*Why here: This section contains a claim that reframes the entire Self-Reflection protocol. If I miss it, my subsequent use of the protocol will be structurally defective.*\n\n**Passage flagged:**\n*\"The Self-Reflection Phase is not a phase that can be imported as a standalone practice into an otherwise unreflective reading style. It requires real-time monitoring during the Performance Phase to generate the data it needs.\"*\n\n**Annotation:** This is a hard dependency. Self-Reflection is downstream of Performance Phase monitoring. If I read without monitoring, I arrive at Self-Reflection with a \"fundamentally impoverished data set\" — my self-evaluation will be based on the subjective sense of understanding (which is contaminated by the [[Fluency-Illusion]]) rather than actual comprehension evidence. The implication: I cannot bolt the Self-Reflection protocol onto my existing reading habits without also changing what happens *during* reading.\n\n**Follow-up question generated:** What are the specific monitoring targets during reading? (Found in same section: comprehension monitoring, connection monitoring, confusion monitoring, goal monitoring, strategy monitoring. Five targets — analogous to five feedback channels. This parallelism seems intentional.)",
+        "line_number": 285,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 21031,
+        "char_end": 22386
+      },
+      {
+        "type": "elaborative-interrogation",
+        "title": "Technique: Elaborative Interrogation — Three Types of Metacognitive Knowledge",
+        "body": "*Why here: The declarative/procedural/conditional distinction in Flavell's framework (introduced in this section) is easy to memorize but hard to use without pushing on WHY the three types are distinct and not reducible to each other.*\n\n**Claim:** You need all three types of metacognitive knowledge — declarative (what), procedural (how), conditional (when/why) — for sophisticated Forethought and Self-Reflection.\n\n**Elaborative interrogation:** Why can't declarative knowledge substitute for conditional knowledge? They seem related — if I know *what* a strategy is and *how* to use it, don't I already know *when* to use it?\n\n**Generated answer:** No — because conditional knowledge is about *fit* between strategy and context, which is a third-order judgment that requires experience with both the strategy and the context under which it succeeds and fails. I can know perfectly well what elaborative interrogation is and how to execute it, while having no reliable sense of *when* it is more valuable than a different strategy. Conditional knowledge is acquired by observing strategy effectiveness across varied conditions — which is exactly what the Zone 3 attribution analysis is designed to produce. The protocol builds conditional knowledge by forcing explicit analysis of \"which strategy worked and which didn't, in what kind of text, at what level of prior knowledge.\"\n\n**Connection made:** This is the same structure as the [[Dreyfus-Skill-Acquisition-Model]]'s distinction between novice (rule-following) and expert (situational judgment). Conditional metacognitive knowledge is what expertise in self-regulated reading feels like from the inside. → [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]",
+        "line_number": 295,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 22387,
+        "char_end": 24247
+      },
+      {
+        "type": "question",
+        "title": "Technique: Answering a Pre-Question",
+        "body": "*Why here: Return to the pre-question generated during the text survey. Use the section to explicitly close the loop — and note where the answer surprised you.*\n\n**Pre-Question Q4 (revisited):** Why does motivation get its own dedicated section in a report that is ostensibly about process? What failure mode is this section addressing?\n\n**Answer constructed from reading:** The failure mode is motivational attrition. The SRL protocols require sustained effortful engagement with difficult material. This is intrinsically costly. Without specific design features that satisfy the three basic psychological needs identified by [[Self-Determination-Theory]] (autonomy, competence, relatedness), the practice gradually becomes aversive and is abandoned — even when the learner intellectually endorses it. The motivational architecture section is addressing the gap between *knowing the protocol* and *wanting to execute it when the material is hard*.\n\n**What surprised me:** The section identifies something called the \"Early Implementation Dip\" — an initial performance degradation when learners begin implementing explicit self-regulatory protocols, because the cognitive overhead of the new practices competes with resources for content processing. This is directly relevant to my situation. If I begin using these protocols and notice that my comprehension feels *worse* in the short term, the correct response is not \"these techniques don't work\" — it is to persist with process-goal standards (was I following the protocol?) rather than outcome standards (did I understand everything?). The Dip is a feature, not a defect.",
+        "line_number": 310,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 24305,
+        "char_end": 25997
+      },
+      {
+        "type": "cold-reconstruction",
+        "title": "Technique: Cold Reconstruction — Written From Memory, Timer Running",
+        "body": "*Why here: The gap between what you think you understood (subjective fluency during reading) and what you can actually reconstruct (genuine comprehension) is your real comprehension map. This is the primary output that feeds into the attribution analysis.*\n\n**Cold Reconstruction — SRL Forethought & Self-Reflection Report:**\n\nThe Zimmerman SRL cycle has three phases: Forethought, Performance, Self-Reflection. This report focused on Forethought and Self-Reflection.\n\n**Forethought Phase** has two subsystems: (1) Task Analysis — includes goal-setting and strategic planning, (2) Motivational Beliefs — includes self-efficacy assessment and goal orientation. The key claim is that Motivational Beliefs can *corrupt* Task Analysis — low self-efficacy causes you to set shallower goals before you consciously decide to.\n\n**Self-Reflection Phase** also has two subsystems: (1) Self-Judgment — includes self-evaluation (comparing performance to goals) and causal attribution (why did I perform that way), (2) Self-Reaction — includes self-satisfaction and, most importantly, *adaptive vs. defensive inference*.\n\n**Adaptive inference:** controllable, unstable attribution → \"I failed because I didn't review prerequisites → next time I will\" → maintains or improves self-efficacy.\n\n**Defensive inference:** stable, uncontrollable attribution → \"this material is too advanced for me now\" → disguised as good judgment, actually prevents productive struggle.\n\n**The five feedback channels** through which Self-Reflection generates the next Forethought: (1) self-efficacy recalibration, (2) prior knowledge update, (3) strategic knowledge refinement, (4) goal standard recalibration, (5) motivational trajectory. I am less confident about #4 and #5 — the exact phrasing.\n\n**The Monitoring-Reflection Dependency:** Self-Reflection quality depends entirely on monitoring quality during reading. You cannot accurately reflect on what you didn't track.\n\n**Three types of metacognitive knowledge:** declarative (what), procedural (how), conditional (when/why). Conditional is the hardest and is what expertise feels like.\n\n*Timer expired.*",
+        "line_number": 327,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 26334,
+        "char_end": 28590
+      },
+      {
+        "type": "comprehension-gap",
+        "title": "Technique: Comprehension Gap Analysis — Comparing Reconstruction to Text",
+        "body": "*Why here: After reconstruction, re-open the report and scan for gaps. These are not moral failures — they are the specific targets for attribution analysis and the inputs to the next Forethought.*\n\n**Gaps identified by comparison:**\n\n**Gap 1:** I could not recall the specific names of the Forethought Phase's PKB operationalization zones. I know there are five but could only name 2–3 (PKB Reconnaissance, Goal-Setting, Strategy Selection — but not Metacognitive Self-Efficacy Assessment or Motivational Priming as labeled zones). *This is a retrieval-specific gap — I understood the content but did not encode the structural labels.*\n\n**Gap 2:** I conflated \"self-satisfaction\" and \"self-evaluation\" as if they were the same subsystem. Self-satisfaction belongs to Self-Reaction (Subsystem 2), not Self-Judgment (Subsystem 1). This is a structural encoding error — I mixed up which component belongs to which subsystem. *This is a comprehension gap, not just a retrieval gap.*\n\n**Gap 3:** I could not reproduce the \"Early Implementation Dip\" concept or its name, despite having read it and found it practically relevant. It did not encode as a named concept. *Encoding failure — found it meaningful but didn't encode it as a discrete, nameable idea.*\n\n**Correctly reconstructed (confidence high):** The two-subsystem architecture of both phases, the adaptive vs. defensive inference distinction and its mechanism, the five feedback channels (approximate), the monitoring-reflection dependency, the three types of metacognitive knowledge.",
+        "line_number": 352,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 28596,
+        "char_end": 30254
+      },
+      {
+        "type": "reflection",
+        "title": "Technique: Process Goal Audit — Behavioral Evidence Only",
+        "body": "*Why here: The process goal audit must be behavioral, not impressionistic. \"I was engaged\" is not evidence. \"I self-explained after Parts II and IV with the report closed\" is evidence.*\n\n**Process Goal 1 — Self-explain at the end of each Part:**\n- Executed: **Partially.** Self-explained after Part II and Part VI but not after Parts III, V, VII, or VIII.\n- Evidence: Notes in Phase 1 Active Reading Log show self-explanations documented for Part II (two-subsystem architecture) and Part VI (five feedback channels) — but not systematically after every Part.\n- **Assessment:** Goal underexecuted. I defaulted to annotation and question-generation when the material felt familiar, only switching to self-explanation when the conceptual load felt high.\n\n**Process Goal 2 — Generate at least one elaborative interrogation question per section:**\n- Executed: **Yes.**\n- Evidence: Active Reading Log contains elaborative interrogation questions for Parts II, IV, and VII. All three generated genuine reasoning that added to understanding.\n- **Assessment:** Goal met. The elaborative interrogation on the corruption mechanism (Part II) was particularly productive.\n\n**Process Goal 3 — Pause at every [!key-claim] callout and paraphrase:**\n- Executed: **Partially.** I paused at key-claims in Parts I, II, and IV but accelerated through Parts VII and VIII, especially during the motivational architecture section.\n- Evidence: Pre-question Q4 (about motivation) was answered from reading but without explicit paraphrase of the key-claim callouts in that section.\n- **Assessment:** Goal drifted in the back half. Classic pattern — front-loaded attention, back-half fatigue.\n\n**Process Goal 4 — Flag every concept I cannot wiki-link:**\n- Executed: **No.** I made connections to existing wiki-links but did not systematically flag unfamiliar concepts.\n- Evidence: I noted the [[Early-Implementation-Dip]] concept as important but did not create a flag to build that PKB node. Similarly, [[Mastery-Experience]] appeared multiple times without explicit flagging.\n\n**Overall Process Integrity Rating:** 6/10. Partially executed. Front-heavy execution with drift in the second half.",
+        "line_number": 385,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 31056,
+        "char_end": 33340
+      },
+      {
+        "type": "reflection",
+        "title": "Technique: Causal Attribution Analysis",
+        "body": "*Why here: This is the intellectually demanding core of the Self-Reflection Protocol. The task is to generate specific, controllable attributions for each comprehension gap and process failure — and then derive a specific action implication.*",
+        "line_number": 413,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 33387,
+        "char_end": 33691
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Technique: PKB Connection-Making and Integration",
+        "body": "*Why here: This is the step that transforms comprehension into networked knowledge. Beyond filing notes, the goal is to record the connective structure — how what was just learned changes, extends, or qualifies existing nodes.*\n\n**Permanent note actions:**\n\n- **Update [[Forethought-Phase]]:** Add the two-subsystem architecture (Task Analysis + Motivational Beliefs) and the corruption mechanism. This is new content beyond what the foundational SRL report covered.\n\n- **Update [[Self-Reflection-Phase]]:** Add the two-subsystem architecture (Self-Judgment + Self-Reaction), the adaptive/defensive inference distinction, and the five feedback channels.\n\n- **Create new node:** [[Early-Implementation-Dip]] — the initial performance degradation when implementing explicit SRL protocols. Connect to [[Desirable-Difficulties]], [[Self-Efficacy]], and [[Productive-Struggle]].\n\n**Connection-making (structural, not just topical):**\n\n- [[Deliberate-Practice]] ↔ [[Zimmerman's-Cyclical-SRL-Model]]: Both are self-improving systems with increasing marginal returns. The structural isomorphism is the compounding feedback loop. This connection was not in either note before this session.\n\n- [[Defensive-Inference]] ↔ [[Fluency-Illusion]] ↔ [[Desirable-Difficulties]]: Three phenomena that share the same structural property — subjective experience (of safety, of understanding, of ease) is systematically miscalibrated relative to actual learning outcomes. These form a conceptual cluster worth building into a synthesis note.\n\n- [[Metacognitive-Calibration]] is now understood as the *output* that the Forethought/Self-Reflection loop is building over time — not just a desirable property but the developmental target of the entire system. Update [[Metacognitive-Calibration]] to note this.\n\n**Forethought Protocol modification for next session:**\nAdd to Zone 2 (Goal-Setting): \"Structural organization check\" — for any session where the report contains a phase or zone architecture, add a specific outcome goal to reproduce the internal structure of that architecture.\n\nAdd to Zone 1 (PKB Reconnaissance): \"Scan for 'applied' sections that may contain novel conceptual content — do not lower monitoring threshold based on section label alone.\"",
+        "line_number": 446,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 37002,
+        "char_end": 39355
+      },
+      {
+        "type": "best-practice",
+        "title": "When to Deploy Each Technique",
+        "body": "| Technique | Deploy When | Output |\n|-----------|-------------|--------|\n| **Schema Activation** | Before every session — no exceptions | 3–5 sentence statement of prior model + expectation of challenge |\n| **Text Survey** | Before reading prose — every session | Header map, structural inference, surprises flagged |\n| **Pre-Question Generation** | After text survey | 3–5 live questions that become reading purposes |\n| **Goal Setting (Process + Outcome)** | After pre-questions | 2–3 outcome goals; 2–4 behavioral process goals |\n| **Marginal Annotation** | On central thesis claims, load-bearing distinctions, surprising reframings | Brief paraphrase + \"why this matters\" note |\n| **Elaborative Interrogation** | When a claim is counterintuitive or surprising | Question → generated answer → connection made |\n| **Self-Explanation** | After every new conceptual architecture or enumerable model | Written reconstruction with report closed; note gaps |\n| **Connection-Making** | When content maps onto existing PKB nodes | Wiki-link + 1–2 sentence structural description of the connection |\n| **Comprehension Monitoring** | Continuously — flag confusion explicitly rather than reading past it | Flagged question → scan for resolution → note if unresolved |\n| **Cold Reconstruction** | Immediately after closing the report — before any notes | 5-minute timed free-recall write |\n| **Comprehension Gap Analysis** | Immediately after Cold Reconstruction | List of specific gaps with grain-size assessment |\n| **Causal Attribution Analysis** | For each identified gap and process failure | Attribution (locus/stability/controllability) + specific action implication |\n| **PKB Integration** | Final 5–10 minutes of session | Updated nodes, new edges, Forethought modification for next session |",
+        "line_number": 476,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 39532,
+        "char_end": 41411
+      },
+      {
+        "type": "warning",
+        "title": "The Most Common Shortcuts — And Why They Fail",
+        "body": "1. **Skipping Schema Activation:** Feels unnecessary because \"I already read the foundational report.\" Cost: new content has no anchor, encoding is shallower, and comprehension gaps are larger.\n\n2. **Skipping Cold Reconstruction:** Feels unnecessary because \"I was paying attention.\" Cost: the [[Fluency-Illusion]] is never punctured — you carry a falsely confident comprehension model forward into the next session and subsequent PKB activity.\n\n3. **Writing attributions as global impressions:** \"I didn't understand it well\" instead of \"I couldn't reconstruct the distinction between X and Y because I didn't execute the structural organization check.\" Cost: no specific action implication → no improvement in next session.\n\n4. **PKB integration = filing the report:** Adding the report to your vault without recording the connections you made, the gaps you found, and the next-session protocol modifications. Cost: each session remains episodically isolated — the SRL cycle cannot compound.",
+        "line_number": 496,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 41417,
+        "char_end": 42487
+      },
+      {
+        "type": "reflection",
+        "title": "Final Integration",
+        "body": "**Comprehension:** Without consulting this note, can you name the two subsystems of the Forethought Phase, the two subsystems of the Self-Reflection Phase, and the five feedback channels? If you can, your reconstruction of the model is solid. If you cannot, the [[Self-Reflection-Phase|Self-Reflection]] protocol just revealed where to focus next time.\n\n**Application:** Looking at your most recent reading session before this one: what was your attribution for the things you didn't understand? Was it controllable and specific? Or was it a stable-internal attribution that produced no action implication?\n\n**Extension:** The entire protocol demonstrated here assumes that the Performance Phase — the actual reading — is being executed well enough to generate monitoring data. What does your current reading behavior look like *during* reading? Are you monitoring comprehension, or moving through? The answer determines whether the Self-Reflection protocol has anything real to work with.",
+        "line_number": 508,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 42493,
+        "char_end": 43531
+      },
+      {
+        "type": "connections-and-links",
+        "title": "PKB Links",
+        "body": "- **[[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24]]** — The source report this session was applied to. The techniques demonstrated here are operationalizations of the protocols described there.\n\n- **[[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]** — The foundational SRL report. The current session built on the schema established there.\n\n- **[[Self-Regulated-Learning]]** — The parent framework. All techniques in this note are instantiations of the SRL cycle.\n\n- **[[Self-Explanation-Effect]]** — Grounds the self-explanation technique and the cold reconstruction protocol. Chi et al. (1994) established that self-explanation produces deeper processing than re-reading or recognition-based review.\n\n- **[[Elaborative-Interrogation]]** — The \"why would this be true?\" technique demonstrated in the Forethought Phase corruption section.\n\n- **[[Metacognitive-Calibration]]** — The long-term developmental output of repeated Forethought/Self-Reflection cycles. Each cold reconstruction + gap analysis is a calibration trial.\n\n- **[[Fluency-Illusion]]** — The cognitive bias that makes cold reconstruction necessary. Without retrieval testing, subjective fluency is mistaken for actual comprehension.\n\n- **[[Desirable-Difficulties]]** — Connected to defensive inference: the conditions that produce defensive responses (difficulty, struggle, apparent failure) are often the conditions that produce the deepest learning.\n\n- **[[Deliberate-Practice]]** — Structurally isomorphic to the SRL cycle. Both are self-improving systems with increasing marginal returns driven by the quality of the feedback loop.\n\n- **[[Prior-Knowledge-Activation]]** — The theoretical grounding for Schema Activation. Advance organizers reduce cognitive load by providing anchors for new information.\n\n- **[[Advance-Organizer]]** — The mechanism behind the Text Survey technique. Scanning structure before reading builds the skeleton that content hangs on.",
+        "line_number": 518,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md",
+        "char_start": 43537,
+        "char_end": 45569
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 96,
+        "section": "Phase 0: Pre-Reading Setup (~10 minutes)",
+        "context_line": "*This phase corresponds to Zimmerman's [[Forethought-Phase]]. Nothing in the text has been read yet. The goal is to arrive at the first sentence with activated prior knowledge, specific goals, and a live set of questions.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prior-Knowledge-Activation]]",
+        "line_number": 103,
+        "section": "0.1 — Schema Activation",
+        "context_line": "> *Why here: [[Prior-Knowledge-Activation]] before reading reduces cognitive load during reading by giving new information anchors to attach to. Write for 3–5 minutes before opening the text. Do not look at the report yet — not even the headers.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "zimmerman-cyclical-srl-focused-analysis-2026-03-23",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]",
+        "line_number": 107,
+        "section": "0.1 — Schema Activation",
+        "context_line": "> I have read the Zimmerman foundational report (see [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]). My current model: the SRL cycle has three phases — Forethought, Performance, Self-Reflection — and they feed into each other. Forethought involves setting goals and planning strategies. Self-Reflection involves evaluating how well you did. I have a working sense of what the cycle *is*, but I am fuzzy on the internal *structure* of each phase — what exactly happens inside them.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advance-Organizer]]",
+        "line_number": 117,
+        "section": "0.2 — Text Survey (Advance Organizer Scan)",
+        "context_line": "*Time: ~3 minutes. Scan title, abstract/intro paragraph, ALL headers, and the final section. Do not read prose. This builds the [[Advance-Organizer]] structure that makes the body easier to process.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Schema-Theory",
+        "heading": null,
+        "display_text": "schema",
+        "full_match": "[[Schema-Theory|schema]]",
+        "line_number": 120,
+        "section": "0.2 — Text Survey (Advance Organizer Scan)",
+        "context_line": "> *Why here: Scanning structure before reading activates [[Schema-Theory|schema]] formation. You are building a \"skeleton\" that the content will hang on. Note headers that surprise you — those are where the real learning is likely to be.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative-Interrogation]]",
+        "line_number": 151,
+        "section": "0.3 — Process and Outcome Goal Setting",
+        "context_line": "> 2. Generate at least one [[Elaborative-Interrogation]] question per major section.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "self-explanation",
+        "heading": null,
+        "display_text": "Self-explanation",
+        "full_match": "[[self-explanation|Self-explanation]]",
+        "line_number": 202,
+        "section": "Reading: Part II — The Forethought Phase, Two Subsystems",
+        "context_line": "> *Why here: The two-subsystem model (Task Analysis + Motivational Beliefs) is the conceptual payload of this section. [[self-explanation|Self-explanation]] forces you to re-encode in your own language, which surfaces gaps in understanding that passive reading conceals.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative-Interrogation]]",
+        "line_number": 211,
+        "section": "Reading: Part II — The Forethought Phase, Two Subsystems",
+        "context_line": "> *Why here: [[Elaborative-Interrogation]] is most powerful when applied to a claim that is not intuitively obvious. Asking \"why would this be true?\" forces you to reconstruct the mechanism, which is deeper processing than accepting the claim.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Learned-Helplessness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learned-Helplessness]]",
+        "line_number": 219,
+        "section": "Reading: Part II — The Forethought Phase, Two Subsystems",
+        "context_line": "> **Connection made:** This is the same mechanism as [[Learned-Helplessness]] — expectation of failure causing reduced effort before any actual failure occurs. → Add wiki-link to [[Self-Efficacy]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 219,
+        "section": "Reading: Part II — The Forethought Phase, Two Subsystems",
+        "context_line": "> **Connection made:** This is the same mechanism as [[Learned-Helplessness]] — expectation of failure causing reduced effort before any actual failure occurs. → Add wiki-link to [[Self-Efficacy]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Desirable-Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable-Difficulties]]",
+        "line_number": 240,
+        "section": "Reading: Part IV — The Self-Reflection Phase, Adaptive vs. Defensive Inference",
+        "context_line": "> **Connection identified:** The mechanism described here — a defensive response that *feels* like reasonable judgment while being epistemically incorrect — is structurally identical to [[Desirable-Difficulties]] research. Bjork (1994) showed that the conditions that feel *harder* during learning (retrieval practice, spacing, interleaving) actually produce *better* long-term retention. A learner who finds retrieval harder than re-reading will rationally prefer re-reading — but that preference is miscalibrated. The same structure: subjective difficulty (or failure) is misread as evidence that the task is wrong for you.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Defensive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Defensive-Inference]]",
+        "line_number": 242,
+        "section": "Reading: Part IV — The Self-Reflection Phase, Adaptive vs. Defensive Inference",
+        "context_line": "> **PKB action:** Create explicit wiki-link bridge: [[Defensive-Inference]] ↔ [[Desirable-Difficulties]] ↔ [[Fluency-Illusion]]. These three concepts form a cluster.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Desirable-Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable-Difficulties]]",
+        "line_number": 242,
+        "section": "Reading: Part IV — The Self-Reflection Phase, Adaptive vs. Defensive Inference",
+        "context_line": "> **PKB action:** Create explicit wiki-link bridge: [[Defensive-Inference]] ↔ [[Desirable-Difficulties]] ↔ [[Fluency-Illusion]]. These three concepts form a cluster.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 242,
+        "section": "Reading: Part IV — The Self-Reflection Phase, Adaptive vs. Defensive Inference",
+        "context_line": "> **PKB action:** Create explicit wiki-link bridge: [[Defensive-Inference]] ↔ [[Desirable-Difficulties]] ↔ [[Fluency-Illusion]]. These three concepts form a cluster.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Comprehension-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Comprehension-Monitoring]]",
+        "line_number": 245,
+        "section": "Reading: Part IV — The Self-Reflection Phase, Adaptive vs. Defensive Inference",
+        "context_line": "> *Why here: [[Comprehension-Monitoring]] means noticing when understanding breaks down — not just reading past confusion. This is an instance where a claim raised genuine uncertainty for me. Flag it explicitly rather than passively continuing.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Explanation-Effect",
+        "heading": null,
+        "display_text": "Self-explanation",
+        "full_match": "[[Self-Explanation-Effect|Self-explanation]]",
+        "line_number": 256,
+        "section": "Reading: Part VI — The Five Feedback Channels",
+        "context_line": "> *Why here: The five feedback channels are enumerable. [[Self-Explanation-Effect|Self-explanation]] of enumerable processes is especially high-value because it tests whether you can reproduce both the items AND their logic — not just recall their names.*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 277,
+        "section": "Reading: Part VI — The Five Feedback Channels",
+        "context_line": "> **Synthesis produced:** The \"SRL cycle as self-improving algorithm\" claim in the report resonates with the structure of [[Deliberate-Practice]] in a way that deserves explicit articulation. In Ericsson's model, expert development accelerates because each practice session produces targeted feedback that makes the next session more efficient. In the SRL model described here, each reading cycle produces five specific inputs that make the next cycle better. Both systems have *increasing marginal returns* — later iterations are more efficient than earlier ones. The mechanism is different (expert feedback vs. self-generated feedback), but the structural logic is identical: the quality of the *feedback loop* is what separates developing expertise from mere repeated experience.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 279,
+        "section": "Reading: Part VI — The Five Feedback Channels",
+        "context_line": "> **PKB action:** Create a note linking [[Deliberate-Practice]] and [[Zimmerman's-Cyclical-SRL-Model]] via this structural isomorphism. See also: [[The-SRL-Cycle-as-a-Calibration-Engine]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model]]",
+        "line_number": 279,
+        "section": "Reading: Part VI — The Five Feedback Channels",
+        "context_line": "> **PKB action:** Create a note linking [[Deliberate-Practice]] and [[Zimmerman's-Cyclical-SRL-Model]] via this structural isomorphism. See also: [[The-SRL-Cycle-as-a-Calibration-Engine]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "The-SRL-Cycle-as-a-Calibration-Engine",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-SRL-Cycle-as-a-Calibration-Engine]]",
+        "line_number": 279,
+        "section": "Reading: Part VI — The Five Feedback Channels",
+        "context_line": "> **PKB action:** Create a note linking [[Deliberate-Practice]] and [[Zimmerman's-Cyclical-SRL-Model]] via this structural isomorphism. See also: [[The-SRL-Cycle-as-a-Calibration-Engine]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 291,
+        "section": "Reading: Part VII — Metacognitive Dimensions",
+        "context_line": "> **Annotation:** This is a hard dependency. Self-Reflection is downstream of Performance Phase monitoring. If I read without monitoring, I arrive at Self-Reflection with a \"fundamentally impoverished data set\" — my self-evaluation will be based on the subjective sense of understanding (which is contaminated by the [[Fluency-Illusion]]) rather than actual comprehension evidence. The implication: I cannot bolt the Self-Reflection protocol onto my existing reading habits without also changing what happens *during* reading.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Dreyfus-Skill-Acquisition-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dreyfus-Skill-Acquisition-Model]]",
+        "line_number": 304,
+        "section": "Reading: Part VII — Metacognitive Dimensions",
+        "context_line": "> **Connection made:** This is the same structure as the [[Dreyfus-Skill-Acquisition-Model]]'s distinction between novice (rule-following) and expert (situational judgment). Conditional metacognitive knowledge is what expertise in self-regulated reading feels like from the inside. → [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]",
+        "line_number": 304,
+        "section": "Reading: Part VII — Metacognitive Dimensions",
+        "context_line": "> **Connection made:** This is the same structure as the [[Dreyfus-Skill-Acquisition-Model]]'s distinction between novice (rule-following) and expert (situational judgment). Conditional metacognitive knowledge is what expertise in self-regulated reading feels like from the inside. → [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 315,
+        "section": "Reading: Part VIII — Motivational Architecture",
+        "context_line": "> **Answer constructed from reading:** The failure mode is motivational attrition. The SRL protocols require sustained effortful engagement with difficult material. This is intrinsically costly. Without specific design features that satisfy the three basic psychological needs identified by [[Self-Determination-Theory]] (autonomy, competence, relatedness), the practice gradually becomes aversive and is abandoned — even when the learner intellectually endorses it. The motivational architecture section is addressing the gap between *knowing the protocol* and *wanting to execute it when the material is hard*.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Explanation-Effect",
+        "heading": null,
+        "display_text": "the single most accurate form of comprehension testing available to a self-directed reader",
+        "full_match": "[[Self-Explanation-Effect|the single most accurate form of comprehension testing available to a self-directed reader]]",
+        "line_number": 323,
+        "section": "Phase 2: Cold Reconstruction (~5 minutes, timed)",
+        "context_line": "*Close the report. Open a blank note. Set a 5-minute timer. Write everything you can reconstruct about the core content. Do not consult notes. This is [[Self-Explanation-Effect|the single most accurate form of comprehension testing available to a self-directed reader]].*",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 379,
+        "section": "Zone 1: Retrieval-Based Comprehension Assessment",
+        "context_line": "**Calibration gap:** slight overconfidence, primarily in structural labeling. [[Fluency-Illusion]] was operating — familiarity with the concepts created a higher confidence than warranted on precise structural recall.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Early-Implementation-Dip",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Early-Implementation-Dip]]",
+        "line_number": 405,
+        "section": "Zone 2: Process Goal Audit",
+        "context_line": "> - Evidence: I noted the [[Early-Implementation-Dip]] concept as important but did not create a flag to build that PKB node. Similarly, [[Mastery-Experience]] appeared multiple times without explicit flagging.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Mastery-Experience",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Experience]]",
+        "line_number": 405,
+        "section": "Zone 2: Process Goal Audit",
+        "context_line": "> - Evidence: I noted the [[Early-Implementation-Dip]] concept as important but did not create a flag to build that PKB node. Similarly, [[Mastery-Experience]] appeared multiple times without explicit flagging.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 451,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - **Update [[Forethought-Phase]]:** Add the two-subsystem architecture (Task Analysis + Motivational Beliefs) and the corruption mechanism. This is new content beyond what the foundational SRL report covered.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection-Phase]]",
+        "line_number": 453,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - **Update [[Self-Reflection-Phase]]:** Add the two-subsystem architecture (Self-Judgment + Self-Reaction), the adaptive/defensive inference distinction, and the five feedback channels.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Early-Implementation-Dip",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Early-Implementation-Dip]]",
+        "line_number": 455,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - **Create new node:** [[Early-Implementation-Dip]] — the initial performance degradation when implementing explicit SRL protocols. Connect to [[Desirable-Difficulties]], [[Self-Efficacy]], and [[Productive-Struggle]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Desirable-Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable-Difficulties]]",
+        "line_number": 455,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - **Create new node:** [[Early-Implementation-Dip]] — the initial performance degradation when implementing explicit SRL protocols. Connect to [[Desirable-Difficulties]], [[Self-Efficacy]], and [[Productive-Struggle]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 455,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - **Create new node:** [[Early-Implementation-Dip]] — the initial performance degradation when implementing explicit SRL protocols. Connect to [[Desirable-Difficulties]], [[Self-Efficacy]], and [[Productive-Struggle]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Productive-Struggle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Productive-Struggle]]",
+        "line_number": 455,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - **Create new node:** [[Early-Implementation-Dip]] — the initial performance degradation when implementing explicit SRL protocols. Connect to [[Desirable-Difficulties]], [[Self-Efficacy]], and [[Productive-Struggle]].",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 459,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - [[Deliberate-Practice]] ↔ [[Zimmerman's-Cyclical-SRL-Model]]: Both are self-improving systems with increasing marginal returns. The structural isomorphism is the compounding feedback loop. This connection was not in either note before this session.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model]]",
+        "line_number": 459,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - [[Deliberate-Practice]] ↔ [[Zimmerman's-Cyclical-SRL-Model]]: Both are self-improving systems with increasing marginal returns. The structural isomorphism is the compounding feedback loop. This connection was not in either note before this session.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Defensive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Defensive-Inference]]",
+        "line_number": 461,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - [[Defensive-Inference]] ↔ [[Fluency-Illusion]] ↔ [[Desirable-Difficulties]]: Three phenomena that share the same structural property — subjective experience (of safety, of understanding, of ease) is systematically miscalibrated relative to actual learning outcomes. These form a conceptual cluster worth building into a synthesis note.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 461,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - [[Defensive-Inference]] ↔ [[Fluency-Illusion]] ↔ [[Desirable-Difficulties]]: Three phenomena that share the same structural property — subjective experience (of safety, of understanding, of ease) is systematically miscalibrated relative to actual learning outcomes. These form a conceptual cluster worth building into a synthesis note.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Desirable-Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable-Difficulties]]",
+        "line_number": 461,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - [[Defensive-Inference]] ↔ [[Fluency-Illusion]] ↔ [[Desirable-Difficulties]]: Three phenomena that share the same structural property — subjective experience (of safety, of understanding, of ease) is systematically miscalibrated relative to actual learning outcomes. These form a conceptual cluster worth building into a synthesis note.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Metacognitive-Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Calibration]]",
+        "line_number": 463,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - [[Metacognitive-Calibration]] is now understood as the *output* that the Forethought/Self-Reflection loop is building over time — not just a desirable property but the developmental target of the entire system. Update [[Metacognitive-Calibration]] to note this.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Metacognitive-Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Calibration]]",
+        "line_number": 463,
+        "section": "Zone 4: PKB Integration and Forward Planning",
+        "context_line": "> - [[Metacognitive-Calibration]] is now understood as the *output* that the Forethought/Self-Reflection loop is building over time — not just a desirable property but the developmental target of the entire system. Update [[Metacognitive-Calibration]] to note this.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 500,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> 2. **Skipping Cold Reconstruction:** Feels unnecessary because \"I was paying attention.\" Cost: the [[Fluency-Illusion]] is never punctured — you carry a falsely confident comprehension model forward into the next session and subsequent PKB activity.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": "Self-Reflection",
+        "full_match": "[[Self-Reflection-Phase|Self-Reflection]]",
+        "line_number": 510,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> **Comprehension:** Without consulting this note, can you name the two subsystems of the Forethought Phase, the two subsystems of the Self-Reflection Phase, and the five feedback channels? If you can, your reconstruction of the model is solid. If you cannot, the [[Self-Reflection-Phase|Self-Reflection]] protocol just revealed where to focus next time.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24]]",
+        "line_number": 520,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24]]** — The source report this session was applied to. The techniques demonstrated here are operationalizations of the protocols described there.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "zimmerman-cyclical-srl-focused-analysis-2026-03-23",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]",
+        "line_number": 522,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]** — The foundational SRL report. The current session built on the schema established there.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 524,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Self-Regulated-Learning]]** — The parent framework. All techniques in this note are instantiations of the SRL cycle.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Self-Explanation-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Explanation-Effect]]",
+        "line_number": 526,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Self-Explanation-Effect]]** — Grounds the self-explanation technique and the cold reconstruction protocol. Chi et al. (1994) established that self-explanation produces deeper processing than re-reading or recognition-based review.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative-Interrogation]]",
+        "line_number": 528,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Elaborative-Interrogation]]** — The \"why would this be true?\" technique demonstrated in the Forethought Phase corruption section.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Metacognitive-Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Calibration]]",
+        "line_number": 530,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Metacognitive-Calibration]]** — The long-term developmental output of repeated Forethought/Self-Reflection cycles. Each cold reconstruction + gap analysis is a calibration trial.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency-Illusion]]",
+        "line_number": 532,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Fluency-Illusion]]** — The cognitive bias that makes cold reconstruction necessary. Without retrieval testing, subjective fluency is mistaken for actual comprehension.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Desirable-Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable-Difficulties]]",
+        "line_number": 534,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Desirable-Difficulties]]** — Connected to defensive inference: the conditions that produce defensive responses (difficulty, struggle, apparent failure) are often the conditions that produce the deepest learning.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 536,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Deliberate-Practice]]** — Structurally isomorphic to the SRL cycle. Both are self-improving systems with increasing marginal returns driven by the quality of the feedback loop.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prior-Knowledge-Activation]]",
+        "line_number": 538,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Prior-Knowledge-Activation]]** — The theoretical grounding for Schema Activation. Advance organizers reduce cognitive load by providing anchors for new information.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advance-Organizer]]",
+        "line_number": 540,
+        "section": "Summary Reference: Reading Technique Deployment Guide",
+        "context_line": "> - **[[Advance-Organizer]]** — The mechanism behind the Text Survey technique. Scanning structure before reading builds the skeleton that content hangs on.",
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Optimal Active Reading Session — Worked Example",
+        "anchor": "optimal-active-reading-session-worked-example",
+        "line_number": 77,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 0: Pre-Reading Setup (~10 minutes)",
+        "anchor": "phase-0-pre-reading-setup-10-minutes",
+        "line_number": 94,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "0.1 — Schema Activation",
+        "anchor": "01-schema-activation",
+        "line_number": 100,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "0.2 — Text Survey (Advance Organizer Scan)",
+        "anchor": "02-text-survey-advance-organizer-scan",
+        "line_number": 115,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "0.3 — Process and Outcome Goal Setting",
+        "anchor": "03-process-and-outcome-goal-setting",
+        "line_number": 139,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "0.4 — Pre-Question Generation",
+        "anchor": "04-pre-question-generation",
+        "line_number": 157,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 1: Active Reading Log",
+        "anchor": "phase-1-active-reading-log",
+        "line_number": 176,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading: Part I — Orientation (Central Thesis)",
+        "anchor": "reading-part-i-orientation-central-thesis",
+        "line_number": 182,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading: Part II — The Forethought Phase, Two Subsystems",
+        "anchor": "reading-part-ii-the-forethought-phase-two-subsystems",
+        "line_number": 199,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading: Part IV — The Self-Reflection Phase, Adaptive vs. Defensive Inference",
+        "anchor": "reading-part-iv-the-self-reflection-phase-adaptive-vs-defensive-inference",
+        "line_number": 223,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading: Part VI — The Five Feedback Channels",
+        "anchor": "reading-part-vi-the-five-feedback-channels",
+        "line_number": 253,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading: Part VII — Metacognitive Dimensions",
+        "anchor": "reading-part-vii-metacognitive-dimensions",
+        "line_number": 283,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading: Part VIII — Motivational Architecture",
+        "anchor": "reading-part-viii-motivational-architecture",
+        "line_number": 308,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 2: Cold Reconstruction (~5 minutes, timed)",
+        "anchor": "phase-2-cold-reconstruction-5-minutes-timed",
+        "line_number": 321,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 3: Self-Reflection Protocol",
+        "anchor": "phase-3-self-reflection-protocol",
+        "line_number": 367,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Zone 1: Retrieval-Based Comprehension Assessment",
+        "anchor": "zone-1-retrieval-based-comprehension-assessment",
+        "line_number": 373,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Zone 2: Process Goal Audit",
+        "anchor": "zone-2-process-goal-audit",
+        "line_number": 383,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Zone 3: Causal Attribution Analysis",
+        "anchor": "zone-3-causal-attribution-analysis",
+        "line_number": 411,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 3,
+        "text": "Zone 4: PKB Integration and Forward Planning",
+        "anchor": "zone-4-pkb-integration-and-forward-planning",
+        "line_number": 444,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      },
+      {
+        "level": 2,
+        "text": "Summary Reference: Reading Technique Deployment Guide",
+        "anchor": "summary-reference-reading-technique-deployment-guide",
+        "line_number": 472,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "*First-response attribution:* \"There were a lot of them and I wasn't specifically trying to memorize them.\"",
+          "indent_level": 0,
+          "line_number": 417,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Locus:* Internal | *Stability:* Unstable | *Controllability:* Controllable",
+          "indent_level": 0,
+          "line_number": 419,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Most accurate controllable attribution:* I did not set an outcome goal specific to the zone labels — my outcome goal was about *concepts* (subsystem architecture, five feedback channels), not about *structural organization*. The labels were treated as scaffolding, not as targets.",
+          "indent_level": 0,
+          "line_number": 420,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Implied action:* Next session on template-heavy reports: add an explicit outcome goal for structural labeling. \"I will be able to reproduce the zone structure without looking.\"",
+          "indent_level": 0,
+          "line_number": 421,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*First-response attribution:* \"I moved too fast through the subsystem architecture section.\"",
+          "indent_level": 0,
+          "line_number": 424,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Locus:* Internal | *Stability:* Unstable | *Controllability:* Controllable",
+          "indent_level": 0,
+          "line_number": 426,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Most accurate controllable attribution:* I self-explained the subsystem architecture but only at a \"what does each subsystem do\" level — I did not check the internal organization within subsystems (which component of which subsystem). The self-explanation was at the wrong grain size.",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Implied action:* After self-explaining architecture, add an explicit structural check: \"Which component belongs to which subsystem?\" — treat the internal organization of each phase as a separate self-explanation target.",
+          "indent_level": 0,
+          "line_number": 428,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*First-response attribution:* \"The back half of the report felt more applied and less dense — I relaxed the attention.\"",
+          "indent_level": 0,
+          "line_number": 431,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Locus:* Internal | *Stability:* Unstable | *Controllability:* Controllable",
+          "indent_level": 0,
+          "line_number": 433,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Most accurate controllable attribution:* Two things: (a) I had not anticipated that the motivational architecture section would contain novel conceptual content (the Early Implementation Dip) — I had primed myself to read it as \"important but intuitive,\" which lowered my monitoring threshold. (b) I did not have a process goal specifically targeting the second half of the session.",
+          "indent_level": 0,
+          "line_number": 434,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Implied action for future sessions:* During the text survey, explicitly scan for sections that *look* applied/practical but may contain novel conceptual content. Create a separate process goal for the second half of sessions on long documents (> 45 minutes of reading).",
+          "indent_level": 0,
+          "line_number": 435,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Process integrity satisfaction:* Moderate. I executed the front-half protocols well and generated genuinely productive reasoning through elaborative interrogation and connection-making. I underexecuted systematically across the back half.",
+          "indent_level": 0,
+          "line_number": 438,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Outcome achievement satisfaction:* Moderate-high. I can explain the core model, the key distinctions, and the compounding mechanism. The gaps are structural/organizational, not conceptual.",
+          "indent_level": 0,
+          "line_number": 439,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        },
+        {
+          "text": "*Adaptive inference:* This was a first full application of the Forethought + Active Reading + Self-Reflection arc. The drift in the back half is expected and manageable. The attributions are specific and controllable. The next session should add a second-half process goal and a structural organization check to self-explanation.",
+          "indent_level": 0,
+          "line_number": 440,
+          "source": "optimal-reading-session-worked-example-2026-03-25.md"
+        }
+      ]
+    },
+    "html_comments": [
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════\n     OPTIMAL ACTIVE READING SESSION — WORKED EXAMPLE\n     \n     This note documents what an optimal reading session looks like\n     when applied to a real PKB report. Every technique is labeled,\n     every output is real (drawn from the target text), and\n     brief meta-commentary explains WHY each technique is deployed.\n     \n     Use this note as a template. The structure is the session.\n     The techniques are the tools. The content is the proof.\n══════════════════════════════════════════════════════════════════════════",
+        "line_number": 65,
+        "source": "optimal-reading-session-worked-example-2026-03-25.md"
+      }
+    ],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Advance-Organizer",
+      "Comprehension-Monitoring",
+      "Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Desirable-Difficulties",
+      "Dreyfus-Skill-Acquisition-Model",
+      "Early-Implementation-Dip",
+      "Elaborative-Interrogation",
+      "Fluency-Illusion",
+      "Forethought-Phase",
+      "Learned-Helplessness",
+      "Mastery-Experience",
+      "Metacognitive-Calibration",
+      "Prior-Knowledge-Activation",
+      "Productive-Struggle",
+      "Schema-Theory",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Explanation-Effect",
+      "Self-Reflection-Phase",
+      "Self-Regulated-Learning",
+      "The-SRL-Cycle-as-a-Calibration-Engine",
+      "Zimmerman's-Cyclical-SRL-Model",
+      "self-explanation",
+      "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+      "zimmerman-cyclical-srl-focused-analysis-2026-03-23"
+    ],
+    "unique_wiki_link_count": 27,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Advance-Organizer",
+      "Comprehension-Monitoring",
+      "Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Desirable-Difficulties",
+      "Dreyfus-Skill-Acquisition-Model",
+      "Early-Implementation-Dip",
+      "Elaborative-Interrogation",
+      "Fluency-Illusion",
+      "Forethought-Phase",
+      "Learned-Helplessness",
+      "Mastery-Experience",
+      "Metacognitive-Calibration",
+      "Prior-Knowledge-Activation",
+      "Productive-Struggle",
+      "Schema-Theory",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Explanation-Effect",
+      "Self-Reflection-Phase",
+      "Self-Regulated-Learning",
+      "The-SRL-Cycle-as-a-Calibration-Engine",
+      "Zimmerman's-Cyclical-SRL-Model",
+      "self-explanation",
+      "srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24",
+      "zimmerman-cyclical-srl-focused-analysis-2026-03-23"
+    ]
+  }
+}

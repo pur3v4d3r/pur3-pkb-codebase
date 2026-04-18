@@ -43,7 +43,7 @@ see-also:
   - "[[Smart-Connections]]"
   - "[[Standard-Template-Metadata]]"
   - "[[Text-Generator-Plugin]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -68,4 +68,4 @@ importance: low
 - [[Smart-Connections]]
 - [[Standard-Template-Metadata]]
 - [[Text-Generator-Plugin]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

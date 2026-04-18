@@ -1467,7 +1467,7 @@ importance: high
 > **Connection:** Attention Restoration Theory proposes that natural environments restore depleted attentional capacity through involuntary attention to fascinating stimuli—potentially synergizing with mindfulness practice conducted in nature.
 > **Depth Potential:** Comparative studies of indoor versus outdoor mindfulness practice could establish whether nature exposure amplifies cognitive benefits through complementary mechanisms of voluntary (mindfulness) and involuntary (nature) attention restoration.
 > **Knowledge Graph Role:** Connects environmental psychology, contemplative practice, and cognitive restoration—suggesting place-based interventions maximizing cognitive recovery.
-> **Prerequisites:** [[Attention Restoration Theory]], [[Directed vs Fascination Attention]], [[Biophilia Hypothesis]], [[Environmental Neuroscience]].
+> **Prerequisites:** [[Attention-Restoration-Theory]], [[Directed vs Fascination Attention]], [[Biophilia Hypothesis]], [[Environmental Neuroscience]].
 
 > [!topic-idea] From: [[topic-set-a-pedagogical-topic-set-for-foundational-cosmology-rspc-🆔2025110120293|topic-set-a-pedagogical-topic-set-for-foundational-cosmology-(rspc)-🆔20251101202931]]
 > 🏛️*Knowledge-Driven Learning*: The Cosmic Microwave Background Radiation
@@ -2926,7 +2926,7 @@ importance: high
 > [!further-exploration] From: [[topic-set-architecting-personal-transformation-a-systematic-framework-for-self-d|topic-set_architecting-personal-transformation-a-systematic-framework-for-self-development-tool-selection-and-integration_🆔20251028023510]]
 > Recommended continued study:
 > - **[[Dual-Process-Theory]]** and **[[System 1 vs System 2 Thinking]]**: Understanding the cognitive architecture that underlies many self-development challenges (automatic vs deliberate processing)
-> - **[[Implementation Intentions]]** and **[[WOOP Model]]**: Bridging the intention-action gap through evidence-based planning strategies
+> - **[[Implementation-Intentions]]** and **[[WOOP Model]]**: Bridging the intention-action gap through evidence-based planning strategies
 > - **[[Cognitive Behavioral Therapy (CBT)]]** cognitive restructuring techniques: Practical methods for challenging and modifying maladaptive thought patterns
 > - **[[Growth-Mindset-Theory]]** and **[[implicit-theories-of-intelligence]]**: How beliefs about changeability influence learning and persistence
 > - **[[Deliberate-Practice]]** frameworks: The specific training methodologies that accelerate skill acquisition and expertise development
@@ -3311,11 +3311,11 @@ importance: high
 > [!further-exploration] From: [[topic-set-workflow-systems,-flow-psychology,-and-sustainable-high-performance-🆔2|topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850]]
 > Recommended continued study:
 > - [[Cognitive-Load-Theory]] and working memory architecture as foundational constraints on workflow design
-> - [[Attention Restoration Theory]] and the role of restorative environments in sustaining cognitive performance
-> - [[Habit Stacking]] and [[Implementation Intentions]] as practical mechanisms for behavioral integration
+> - [[Attention-Restoration-Theory]] and the role of restorative environments in sustaining cognitive performance
+> - [[Habit Stacking]] and [[Implementation-Intentions]] as practical mechanisms for behavioral integration
 > - [[Energy Management]] frameworks that prioritize vitality over mere time management
 > - [[Deliberate-Practice]] methodology and the structured acquisition of workflow-related meta-skills
-> - [[decision fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work
+> - [[Decision-Fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work
 > - [[Complexity Science]] applied to personal systems: emergence, self-organization, and adaptation in workflow
 > - [[Mindfulness and Metacognition]] practices for developing awareness of one's own workflow patterns and mental states
 
@@ -3457,12 +3457,12 @@ importance: high
 > Dweck's framework on entity vs. incremental theories of intelligence is the cognitive-developmental upstream cause of goal orientation differences. Understanding *why* people adopt different goal orientations requires understanding the implicit beliefs about the nature of ability that drive those orientations. This report would cover the experimental evidence base for mindset interventions, the theoretical relationship between mindset and AGT, and the important recent replication debates that have complicated the field's earlier enthusiasm for brief mindset interventions. Priority: **High** — directly linked to this report and already referenced in the PKB.
 
 > [!topic-idea] From: [[achievement-goal-theory-foundational-report-2026-03-10|achievement-goal-theory-foundational-report-2026-03-10]]
-> **[[Achievement Emotions — Pekrun's Control-Value Theory]]**
+> **[[Achievement-Emotions-—-Pekrun's-Control-Value-Theory]]**
 > 
 > Reinhard Pekrun's Control-Value Theory of achievement emotions provides a rich account of the affective consequences of achievement goal orientations, including enjoyment, boredom, anxiety, pride, shame, hopelessness, and relief. Because emotional experience is a major outcome variable in AGT research, and because emotions in turn influence cognitive processing and motivation, this framework deepens the AGT account significantly. The connection between performance-avoidance goals and test anxiety, and between mastery goals and epistemic enjoyment, are particularly well-developed in Pekrun's work. Priority: **Medium** — enriches AGT but is not necessary for applying it.
 
 > [!topic-idea] From: [[achievement-goal-theory-foundational-report-2026-03-10|achievement-goal-theory-foundational-report-2026-03-10]]
-> **[[Assessment Design & Goal Orientation]]**
+> **[[Assessment-Design-&-Goal-Orientation]]**
 > 
 > Assessment is the most powerful climate-signalling dimension in most formal educational settings, and yet it is also the dimension most resistant to change — external pressures (standardised testing, grading systems, institutional accountability) heavily constrain what educators can do. This report would examine the evidence on how different assessment practices (formative vs. summative, criterion-referenced vs. norm-referenced, portfolio vs. examination, self-assessment vs. external evaluation) signal different goal orientations, with attention to both the design of individual assessments and the systemic constraints that shape what is possible. Priority: **High** — assessment design is a critical application domain.
 
@@ -3693,7 +3693,7 @@ importance: high
 > **[[Prior Knowledge as the Primary Leverage Variable in Reading]]** — A focused analysis of the research demonstrating that domain prior knowledge is the single most powerful predictor of reading comprehension and retention, with implications for strategic reading sequence design — reading order matters enormously and should be calibrated to build knowledge scaffolding progressively. Connects to [[Schema-Theory]], [[Advance-Organizers]], and [[Cognitive-Load-Theory]].
 
 > [!topic-idea] From: [[cog-sci-pkm-reading-techniques-and-strategies-for-pkm|cog-sci-pkm-reading-techniques-and-strategies-for-pkm]]
-> **[[The Mnemonic Media Design Space]]** — A design-space analysis of augmented reading environments incorporating retrieval practice, including Matuschak and Nielsen's [[Orbit]] system, AI-augmented reading tools, and the design principles for embedding active processing into digital text. Bridges reading science with PKM tool design and [[Human-Computer Interaction]] research.
+> **[[The Mnemonic Media Design Space]]** — A design-space analysis of augmented reading environments incorporating retrieval practice, including Matuschak and Nielsen's [[Orbit]] system, AI-augmented reading tools, and the design principles for embedding active processing into digital text. Bridges reading science with PKM tool design and [[Human-Computer-Interaction]] research.
 
 > [!topic-idea] From: [[cog-sci-pkm-reading-techniques-and-strategies-for-pkm|cog-sci-pkm-reading-techniques-and-strategies-for-pkm]]
 > **[[Annotation Epistemology and Knowledge Capture Standards]]** — A philosophical and practical treatment of what constitutes a high-quality annotation: the distinction between extractive notes (capturing the author's words) and generative notes (capturing the reader's understanding), quality criteria for atomic notes in the Zettelkasten tradition, and the relationship between annotation quality and long-term knowledge utility. Integrates with the gold-standard note structure specifications in the existing vault.
@@ -5117,7 +5117,7 @@ importance: high
 > **[[Metacognitive Calibration and Monitoring Accuracy]]** — A dedicated investigation of the conditions under which self-monitoring is accurate versus systematically biased, covering the illusion of knowing, fluency misattribution, the testing effect as a calibration mechanism, and Metcalfe's *region of proximal learning* model. This would bridge the SRL vault note with the existing [[Metacognition]] and [[Spaced Retrieval Practice]] notes.
 
 > [!topic-idea] From: [[Self-Regulated-Learning|self-regulated-learning]]
-> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit-Formation]], [[Emotion Regulation]], and the [[Allostatic-Load]] literature.
+> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit-Formation]], [[Emotion-Regulation]], and the [[Allostatic-Load]] literature.
 
 > [!topic-idea] From: [[Self-Regulated-Learning|self-regulated-learning]]
 > **[[Donald Schön and Reflective Practice]]** — A full exposition of Schön's *The Reflective Practitioner* (1983) and its relationship to SRL's self-reflection component, distinguishing *reflection-in-action* (monitoring during performance) from *reflection-on-action* (post-performance synthesis) and connecting both to the Zimmerman cyclical model and to professional learning in non-formal contexts.
@@ -5574,12 +5574,12 @@ importance: high
 > Dweck's framework on entity vs. incremental theories of intelligence is the cognitive-developmental upstream cause of goal orientation differences. Understanding *why* people adopt different goal orientations requires understanding the implicit beliefs about the nature of ability that drive those orientations. This report would cover the experimental evidence base for mindset interventions, the theoretical relationship between mindset and AGT, and the important recent replication debates that have complicated the field's earlier enthusiasm for brief mindset interventions. Priority: **High** — directly linked to this report and already referenced in the PKB.
 
 > [!topic-idea] From: [[achievement-goal-theory-foundational-report-2026-03-10|achievement-goal-theory-foundational-report-2026-03-10]]
-> **[[Achievement Emotions — Pekrun's Control-Value Theory]]**
+> **[[Achievement-Emotions-—-Pekrun's-Control-Value-Theory]]**
 > 
 > Reinhard Pekrun's Control-Value Theory of achievement emotions provides a rich account of the affective consequences of achievement goal orientations, including enjoyment, boredom, anxiety, pride, shame, hopelessness, and relief. Because emotional experience is a major outcome variable in AGT research, and because emotions in turn influence cognitive processing and motivation, this framework deepens the AGT account significantly. The connection between performance-avoidance goals and test anxiety, and between mastery goals and epistemic enjoyment, are particularly well-developed in Pekrun's work. Priority: **Medium** — enriches AGT but is not necessary for applying it.
 
 > [!topic-idea] From: [[achievement-goal-theory-foundational-report-2026-03-10|achievement-goal-theory-foundational-report-2026-03-10]]
-> **[[Assessment Design & Goal Orientation]]**
+> **[[Assessment-Design-&-Goal-Orientation]]**
 > 
 > Assessment is the most powerful climate-signalling dimension in most formal educational settings, and yet it is also the dimension most resistant to change — external pressures (standardised testing, grading systems, institutional accountability) heavily constrain what educators can do. This report would examine the evidence on how different assessment practices (formative vs. summative, criterion-referenced vs. norm-referenced, portfolio vs. examination, self-assessment vs. external evaluation) signal different goal orientations, with attention to both the design of individual assessments and the systemic constraints that shape what is possible. Priority: **High** — assessment design is a critical application domain.
 
@@ -6164,7 +6164,7 @@ importance: high
 > **[[Prior Knowledge as the Primary Leverage Variable in Reading]]** — A focused analysis of the research demonstrating that domain prior knowledge is the single most powerful predictor of reading comprehension and retention, with implications for strategic reading sequence design — reading order matters enormously and should be calibrated to build knowledge scaffolding progressively. Connects to [[Schema-Theory]], [[Advance-Organizers]], and [[Cognitive-Load-Theory]].
 
 > [!topic-idea] From: [[cog-sci-pkm-reading-techniques-and-strategies-for-pkm|cog-sci-pkm-reading-techniques-and-strategies-for-pkm]]
-> **[[The Mnemonic Media Design Space]]** — A design-space analysis of augmented reading environments incorporating retrieval practice, including Matuschak and Nielsen's [[Orbit]] system, AI-augmented reading tools, and the design principles for embedding active processing into digital text. Bridges reading science with PKM tool design and [[Human-Computer Interaction]] research.
+> **[[The Mnemonic Media Design Space]]** — A design-space analysis of augmented reading environments incorporating retrieval practice, including Matuschak and Nielsen's [[Orbit]] system, AI-augmented reading tools, and the design principles for embedding active processing into digital text. Bridges reading science with PKM tool design and [[Human-Computer-Interaction]] research.
 
 > [!topic-idea] From: [[cog-sci-pkm-reading-techniques-and-strategies-for-pkm|cog-sci-pkm-reading-techniques-and-strategies-for-pkm]]
 > **[[Annotation Epistemology and Knowledge Capture Standards]]** — A philosophical and practical treatment of what constitutes a high-quality annotation: the distinction between extractive notes (capturing the author's words) and generative notes (capturing the reader's understanding), quality criteria for atomic notes in the Zettelkasten tradition, and the relationship between annotation quality and long-term knowledge utility. Integrates with the gold-standard note structure specifications in the existing vault.
@@ -6288,7 +6288,7 @@ importance: high
 > **[[Metacognitive Calibration and Monitoring Accuracy]]** — A dedicated investigation of the conditions under which self-monitoring is accurate versus systematically biased, covering the illusion of knowing, fluency misattribution, the testing effect as a calibration mechanism, and Metcalfe's *region of proximal learning* model. This would bridge the SRL vault note with the existing [[Metacognition]] and [[Spaced Retrieval Practice]] notes.
 
 > [!topic-idea] From: [[Self-Regulated-Learning|self-regulated-learning]]
-> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit-Formation]], [[Emotion Regulation]], and the [[Allostatic-Load]] literature.
+> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit-Formation]], [[Emotion-Regulation]], and the [[Allostatic-Load]] literature.
 
 > [!topic-idea] From: [[Self-Regulated-Learning|self-regulated-learning]]
 > **[[Donald Schön and Reflective Practice]]** — A full exposition of Schön's *The Reflective Practitioner* (1983) and its relationship to SRL's self-reflection component, distinguishing *reflection-in-action* (monitoring during performance) from *reflection-on-action* (post-performance synthesis) and connecting both to the Zimmerman cyclical model and to professional learning in non-formal contexts.

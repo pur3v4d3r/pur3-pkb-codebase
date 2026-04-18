@@ -204,7 +204,7 @@ extraction_summary:
 #### 15. [CONNECTIONS-AND-LINKS] Untitled *(Line 303)*
 
 > [!connections-and-links] Untitled
-> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology|Cognitive Psychology]] (explaining how thinking works), [[Educational-Psychology|Educational Psychology]] (establishing how learning happens), [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management|Knowledge Management]] (establishing organizational knowledge practices), [[Human-Computer Interaction]] (ensuring usable interfaces), and [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
+> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology|Cognitive Psychology]] (explaining how thinking works), [[Educational-Psychology|Educational Psychology]] (establishing how learning happens), [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management|Knowledge Management]] (establishing organizational knowledge practices), [[Human-Computer-Interaction|Human-Computer Interaction]] (ensuring usable interfaces), and [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
 
 #### 16. [CITE] Untitled *(Line 310)*
 
@@ -284,7 +284,7 @@ extraction_summary:
 - [[Goal Setting]]
 - [[Habit-Formation|Habit Formation]]
 - [[Heutagogy]]
-- [[Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
 - [[Information-Architecture|Information Architecture]]
 - [[information-processing|Information Processing]]
 - [[Information-Theory|Information Theory]]
@@ -298,7 +298,7 @@ extraction_summary:
 - [[Literature Notes]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Working Memory]]
+- [[Long-Term-Working-Memory|Long-Term Working Memory]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Metadata]]
@@ -446,7 +446,7 @@ extraction_summary:
 | 98 | [[Feynman Technique]] | — | — | 🔄 Retrieval Architecture: Combating K... | 220 |
 | 99 | [[Working-Memory|Working Memory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 234 |
 | 100 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 234 |
-| 101 | [[Long-Term Working Memory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 234 |
+| 101 | [[Long-Term-Working-Memory|Long-Term Working Memory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 234 |
 | 102 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 234 |
 | 103 | [[Cognitive Load Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 234 |
 | 104 | [[Constructivism]] | — | — | 🌐 Integration: The Forty Concepts as ... | 238 |
@@ -516,7 +516,7 @@ extraction_summary:
 | 168 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
 | 169 | [[Library Science]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
 | 170 | [[Knowledge-Management|Knowledge Management]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
-| 171 | [[Human-Computer Interaction]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
+| 171 | [[Human-Computer-Interaction|Human-Computer Interaction]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
 | 172 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | 💡 Synthesis: From Principles to Practice | 304 |
 | 173 | [[Spaced Repetition Systems in PKM]] | — | — | 🔗 Related Topics for PKB Expansion | 339 |
 | 174 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🔗 Related Topics for PKB Expansion | 340 |
@@ -659,7 +659,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Goal Setting]]
 - [[Habit-Formation|Habit Formation]]
 - [[Heutagogy]]
-- [[Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
 - [[Information-Architecture|Information Architecture]]
 - [[information-processing|Information Processing]]
 - [[Information-Theory|Information Theory]]
@@ -673,7 +673,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Literature Notes]]
 - [[Locus-of-Control|Locus of Control]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Working Memory]]
+- [[Long-Term-Working-Memory|Long-Term Working Memory]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Metadata]]

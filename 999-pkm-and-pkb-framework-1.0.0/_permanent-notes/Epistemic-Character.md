@@ -33,7 +33,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -155,6 +155,10 @@ importance: high
 
 **Related concepts:**
 [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[pragmatism]] · [[Constructivism]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] · [[Prohairesis]] · [[Zone-of-Proximal-Development|Zone of Proximal Development]] · [[Schema-Theory|Schema Theory]] · [[Pragmatic-Maxim|Pragmatic Maxim]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructive-Attentiveness|Constructive Attentiveness]] · [[Intellectual-Humility|Intellectual Humility]] · [[Intellectual-Courage|Intellectual Courage]] · [[Intellectual-Empathy|Intellectual Empathy]] · [[Intellectual-Perseverance|Intellectual Perseverance]] · [[Intellectual-Integrity|Intellectual Integrity]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Stoic-Prosoche|Stoic Prosoche]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Constructivism]] · [[SDT]] · [[Metacognitive-Strategy|Metacognitive Strategy]] · [[Recursive-Self-Authorship|Recursive Self-Authorship]] · [[Phronesis]]
+
+**Related concepts** *(from [[report-08-the-examined-life-in-practice]])*:
+[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Schema-Theory|Schema Theory]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Integrity|Intellectual Integrity]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Stoic-Prosoche|Stoic Prosoche]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Recursive-Self-Authorship|Recursive Self-Authorship]]
+
 
 ## Methodology Notes
 

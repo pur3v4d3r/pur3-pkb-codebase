@@ -543,7 +543,7 @@ related:
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
   - "[[Argument-Analysis]]"
-  - "[[Decision Making Under Uncertainty]]"
+  - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific-Reasoning]]"
   - "[[Transfer-of-Learning]]"
@@ -589,7 +589,7 @@ applied-in:
   - "[[Academic Research]]"
   - "[[Strategic-Planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based Practice]]"
+  - "[[Evidence-Based-Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -1170,7 +1170,7 @@ Virtually none of Zeno's own writings survive. We know his doctrines primarily t
 
 [Chrysippus-Role:: As the third head of the Stoic school and its most prolific writer, Chrysippus systematized and defended Stoic doctrine with extraordinary technical rigor, developing its formal logic, its theory of fate and freedom, its account of the passions, and its responses to Skeptical attacks. The ancient saying "if there had been no Chrysippus, there would have been no Stoa" reflects the consensus that he, more than anyone, gave Stoicism the intellectual substance to survive philosophical scrutiny across the centuries.]
 
-Chrysippus was arguably the most sophisticated logician in the ancient world before the modern period. His propositional logic — his analysis of conditionals, disjunctions, and argument forms — anticipates aspects of Frege's propositional calculus, developed over two millennia later. He also developed the Stoic account of the passions (*pathē*) with great psychological subtlety: passions, in his analysis, are not simply feelings that overcome rational judgment from outside but are themselves *mistaken judgments* — cognitive errors. If I am consumed by grief, it is because I have made the false judgment that the loss I have suffered is a genuine evil. Correct the judgment; correct the passion. This insight — that emotions are constituted by evaluative beliefs and can be modified by changing those beliefs — is the insight that would be rediscovered in the twentieth century by [[Aaron Beck]] and [[Albert Ellis]] in the development of [[Cognitive-Behavioral-Therapy]].
+Chrysippus was arguably the most sophisticated logician in the ancient world before the modern period. His propositional logic — his analysis of conditionals, disjunctions, and argument forms — anticipates aspects of Frege's propositional calculus, developed over two millennia later. He also developed the Stoic account of the passions (*pathē*) with great psychological subtlety: passions, in his analysis, are not simply feelings that overcome rational judgment from outside but are themselves *mistaken judgments* — cognitive errors. If I am consumed by grief, it is because I have made the false judgment that the loss I have suffered is a genuine evil. Correct the judgment; correct the passion. This insight — that emotions are constituted by evaluative beliefs and can be modified by changing those beliefs — is the insight that would be rediscovered in the twentieth century by [[Aaron-Beck]] and [[Albert Ellis]] in the development of [[Cognitive-Behavioral-Therapy]].
 
 ### Seneca the Younger (c. 4 BCE–65 CE)
 
@@ -2494,7 +2494,7 @@ The Stoic practice of written self-examination — exemplified by Marcus Aureliu
 The mechanism Pennebaker identifies is directly analogous to what the Stoics called the Discipline of Assent: the act of writing forces the translation of diffuse emotional experience into structured linguistic propositions, which subjects those experiences to the same kind of rational examination that Epictetus prescribed. Writing about a distressing event is cognitively impossible without, to some degree, interpreting it — assigning it meaning, contextualizing it, connecting it to one's broader understanding of the world. That interpretive work is the Stoic exercise in practice.
 
 > [!connection-ideas]
-> **Stoic Practice and [[Cognitive-Behavioral-Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
+> **Stoic Practice and [[Cognitive-Behavioral-Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron-Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
 
 ### The Research on Voluntary Discomfort
 
@@ -3001,12 +3001,12 @@ related:
   - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Positive Psychology]]"
   - "[[Mindfulness]]"
-  - "[[Emotion Regulation]]"
+  - "[[Emotion-Regulation]]"
   - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
   - "[[Eudaimonia]]"
   - "[[Albert Ellis]]"
-  - "[[Aaron Beck]]"
+  - "[[Aaron-Beck]]"
   - "[[James Gross]]"
   - "[[Martin Seligman]]"
   - "[[Cognitive-Reappraisal]]"
@@ -3093,7 +3093,7 @@ link-down:
   - "[[Epictetan Cognitive Model]]"
   - "[[Stoic Pathology of Emotion]]"
   - "[[ABC Model REBT]]"
-  - "[[Cognitive Restructuring]]"
+  - "[[Cognitive-Restructuring]]"
   - "[[Psychological Flexibility]]"
 
 link-related:
@@ -3208,7 +3208,7 @@ Modern psychology's engagement with the relationship between thought and emotion
 
 ### Cognitive Behavioral Therapy and REBT
 
-[[Aaron Beck]] developed cognitive therapy in the 1960s at the University of Pennsylvania, initially as a treatment for depression. His fundamental clinical observation was that depressed patients exhibited characteristic patterns of negative automatic thoughts — spontaneous, brief, and often unexamined cognitive appraisals of themselves, their situations, and their futures. These automatic thoughts were not simply symptoms of depression; they were, in Beck's analysis, *constitutive* of the depressive experience. Change the thoughts, and the emotion changes.
+[[Aaron-Beck]] developed cognitive therapy in the 1960s at the University of Pennsylvania, initially as a treatment for depression. His fundamental clinical observation was that depressed patients exhibited characteristic patterns of negative automatic thoughts — spontaneous, brief, and often unexamined cognitive appraisals of themselves, their situations, and their futures. These automatic thoughts were not simply symptoms of depression; they were, in Beck's analysis, *constitutive* of the depressive experience. Change the thoughts, and the emotion changes.
 
 [CBT-Core-Model:: The core model of Cognitive Behavioral Therapy posits that emotional responses are not direct reactions to events but are mediated by cognitive appraisals — the interpretive meanings individuals assign to events. Dysfunctional emotional responses (anxiety, depression, rage) are maintained by systematic errors in these appraisals, which CBT terms "cognitive distortions." The primary therapeutic intervention is *cognitive restructuring*: identifying distorted automatic thoughts, examining the evidence for and against them, and replacing them with more accurate, adaptive appraisals.]
 
@@ -7208,7 +7208,7 @@ related:
   - "[[Rational Emotive Behavior Therapy]]"
   - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Albert Ellis]]"
-  - "[[Aaron Beck]]"
+  - "[[Aaron-Beck]]"
   - "[[Steven Hayes]]"
   - "[[Donald Robertson]]"
   - "[[Dichotomy-of-Control]]"
@@ -7217,11 +7217,11 @@ related:
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
   - "[[Preferred-Indifferents]]"
-  - "[[Cognitive Restructuring]]"
+  - "[[Cognitive-Restructuring]]"
   - "[[Cognitive Distortions]]"
   - "[[Psychological Flexibility]]"
   - "[[Mindfulness]]"
-  - "[[Emotion Regulation]]"
+  - "[[Emotion-Regulation]]"
 
 series-connections:
   previous: "[[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]"
@@ -7420,7 +7420,7 @@ The first wave of behavior therapy, associated with [[B.F. Skinner]], [[Joseph W
 
 ### Second Wave: The Cognitive Revolution — Beck and Ellis
 
-The cognitive revolution of the late 1950s and 1960s transformed behavioral therapy by reintroducing the internal cognitive life as a legitimate object of therapeutic intervention. The two foundational figures of this revolution were [[Albert Ellis]] and [[Aaron Beck]], and their contributions, while parallel in structure, came from different directions and had distinct emphases that remain practically important.
+The cognitive revolution of the late 1950s and 1960s transformed behavioral therapy by reintroducing the internal cognitive life as a legitimate object of therapeutic intervention. The two foundational figures of this revolution were [[Albert Ellis]] and [[Aaron-Beck]], and their contributions, while parallel in structure, came from different directions and had distinct emphases that remain practically important.
 
 [Albert-Ellis-REBT:: Rational Emotive Behavior Therapy (REBT), developed by Albert Ellis from 1955 onward, was built explicitly on Epictetan foundations. Ellis's ABC model (Activating event → Belief → Consequence) directly translates Epictetus's principle that emotions follow from judgments, not events. REBT focuses specifically on identifying and disputing "irrational beliefs" — particularly what Ellis called "musturbation" (the demand that things must be a certain way), "awfulizing" (catastrophizing), "I-can't-stand-it-itis" (low frustration tolerance), and "global self-rating" (total self-condemnation based on partial failure). These map precisely onto the Stoic pathē and their cognitive grounds.]
 

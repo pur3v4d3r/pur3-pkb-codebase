@@ -562,7 +562,7 @@ You should see your application note appear in the self-discovery query table!
 
 ```
 📄 Note | FieldName1 | FieldName2 | FieldName3
-[Your Application Note] | [Value] | [[Concept]] | [Value]
+[Your Application Note] | [Value] | [[concept]] | [Value]
 ```
 
 > [!important] If Application Doesn't Appear
@@ -877,7 +877,7 @@ Theories:: [[Working-Memory]]
 
 **This is a PROBLEM if**:
 - Application notes exist but don't show in inlinks
-- **Fix**: Application notes must use WIKI-LINK syntax `[[Concept]]`, not just text
+- **Fix**: Application notes must use WIKI-LINK syntax `[[concept]]`, not just text
 
 **Quick Test**:
 1. Create temporary note

@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -243,6 +243,46 @@ importance: medium
 - [[Second-Order-Effects|Second-Order Effects]]
 - [[Constraint-Theory|Constraint Theory]]
 - [[Mental-Models|Mental Models]]
+
+**Related concepts** *(from [[reference-comprehensive-prompty-exstenion-for-vs-code-2025122805]])*:
+[[Claude-Code|Claude Code]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Semantic-Kernel|Semantic Kernel]] * [[Prompt-Flow|Prompt Flow]] * [[Prompt-Engineering|Prompt Engineering]] * [[Version-Control|Version Control]] * [[LLM-Development-Tools|LLM Development Tools]] * [[LiteLLM-Unified-API-Gateway|LiteLLM Unified API Gateway]] * [[Prompt-Versioning-&-Git-Workflows|Prompt Versioning & Git Workflows]] * [[Jinja2-Templating-for-Dynamic-Prompts|Jinja2 Templating for Dynamic Prompts]] * [[Obsidian-+-VS-Code-Dual-Editor-Workflow|Obsidian + VS Code Dual-Editor Workflow]] * [[VS-Code|VS Code]] * [[Prompt-Engineering-Framework-Comparison|Prompt Engineering Framework Comparison]] * [[Claude-Code-vs.-GitHub-Copilot-vs.-Cursor|Claude Code vs. GitHub Copilot vs. Cursor]] * [[PKM-Automation|PKM Automation]] * [[VS-Code-Extensions|VS Code Extensions]] * [[Scripting-Platforms|Scripting Platforms]] * [[Python-for-PKM|Python for PKM]] * [[JavaScript-for-Automation|JavaScript for Automation]] * [[Templating-Systems|Templating Systems]] * [[Advanced-Scripting-Techniques|Advanced Scripting Techniques]] * [[Historical-Development-of-Scripting-Languages|Historical Development of Scripting Languages]] * [[Common-Scripting-Misconceptions|Common Scripting Misconceptions]] * [[Future-of-Scripting:-Emerging-Trends|Future of Scripting: Emerging Trends]] * [[First-Principles|First Principles]] * [[Systems-Thinking|Systems Thinking]] * [[Second-Order-Effects|Second-Order Effects]] * [[Constraint-Theory|Constraint Theory]] * [[Mental-Models|Mental Models]] * [[PKM|PKM]]
+
+**Cross-report connections** *(from [[reference-comprehensive-prompty-exstenion-for-vs-code-2025122805]])*:
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[Version-Control|Version Control]]
+- [[Markdown|Markdown]]
+- [[Jinja2|Jinja2]]
+- [[Claude-Code|Claude Code]]
+
+**Cross-report connections** *(from [[reference-comprehensive-prompty-exstenion-for-vs-code-2025122805]])*:
+- [[First-Principles|First Principles]]
+- [[Systems-Thinking|Systems Thinking]]
+- [[Second-Order-Effects|Second-Order Effects]]
+- [[Constraint-Theory|Constraint Theory]]
+- [[Mental-Models|Mental Models]]
+
+**Related concepts** *(from [[reference-comprehensive-prompty-exstenion-for-vs-code-2025122805]])*:
+[[Claude-Code|Claude Code]] * [[Gemini-Code-Assist|Gemini Code Assist]] * [[Semantic-Kernel|Semantic Kernel]] * [[Prompt-Flow|Prompt Flow]] * [[Prompt-Engineering|Prompt Engineering]] * [[Version-Control|Version Control]] * [[LLM-Development-Tools|LLM Development Tools]] * [[LiteLLM-Unified-API-Gateway|LiteLLM Unified API Gateway]] * [[Prompt-Versioning-&-Git-Workflows|Prompt Versioning & Git Workflows]] * [[Jinja2-Templating-for-Dynamic-Prompts|Jinja2 Templating for Dynamic Prompts]] * [[Obsidian-+-VS-Code-Dual-Editor-Workflow|Obsidian + VS Code Dual-Editor Workflow]] * [[VS-Code|VS Code]] * [[Prompt-Engineering-Framework-Comparison|Prompt Engineering Framework Comparison]] * [[Claude-Code-vs.-GitHub-Copilot-vs.-Cursor|Claude Code vs. GitHub Copilot vs. Cursor]] * [[PKM-Automation|PKM Automation]] * [[VS-Code-Extensions|VS Code Extensions]] * [[Scripting-Platforms|Scripting Platforms]] * [[Python-for-PKM|Python for PKM]] * [[JavaScript-for-Automation|JavaScript for Automation]] * [[Templating-Systems|Templating Systems]] * [[Advanced-Scripting-Techniques|Advanced Scripting Techniques]] * [[Historical-Development-of-Scripting-Languages|Historical Development of Scripting Languages]] * [[Common-Scripting-Misconceptions|Common Scripting Misconceptions]] * [[Future-of-Scripting:-Emerging-Trends|Future of Scripting: Emerging Trends]] * [[First-Principles|First Principles]] * [[Systems-Thinking|Systems Thinking]] * [[Second-Order-Effects|Second-Order Effects]] * [[Constraint-Theory|Constraint Theory]] * [[Mental-Models|Mental Models]] * [[Education|Education]]
+
+**Cross-report connections** *(from [[reference-comprehensive-prompty-exstenion-for-vs-code-2025122805]])*:
+- [[Prompt-Engineering|Prompt Engineering]]
+- [[Version-Control|Version Control]]
+- [[Markdown|Markdown]]
+- [[Jinja2|Jinja2]]
+- [[Claude-Code|Claude Code]]
+
+**Cross-report connections** *(from [[reference-comprehensive-prompty-exstenion-for-vs-code-2025122805]])*:
+- [[First-Principles|First Principles]]
+- [[Systems-Thinking|Systems Thinking]]
+- [[Second-Order-Effects|Second-Order Effects]]
+- [[Constraint-Theory|Constraint Theory]]
+- [[Mental-Models|Mental Models]]
+
+
+
+
+
+
 
 
 

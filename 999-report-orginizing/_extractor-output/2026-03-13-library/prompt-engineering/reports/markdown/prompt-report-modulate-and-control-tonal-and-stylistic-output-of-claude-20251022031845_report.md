@@ -310,7 +310,7 @@ extraction_summary:
 #### 22. [CONNECTION-IDEAS] Untitled *(Line 336)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of [[Human-Computer Interaction (HCI)]]. We are in the process of moving from *explicit* interfaces (buttons, menus) to *linguistic* interfaces. Learning to "prompt" effectively is analogous to learning a new programming language—a language for communicating *intent* to a non-human intelligence.
+> The principles discussed here strongly connect to the field of [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]. We are in the process of moving from *explicit* interfaces (buttons, menus) to *linguistic* interfaces. Learning to "prompt" effectively is analogous to learning a new programming language—a language for communicating *intent* to a non-human intelligence.
 > 
 > This also connects deeply to [[Cognitive-Science|Cognitive Science]] and [[pedagogy]]. A student can use these techniques to transform Claude into an infinite variety of educational tools:
 > 
@@ -400,7 +400,7 @@ extraction_summary:
 
 - [[Cognitive-Science|Cognitive Science]]
 - [[Constitutional-AI|Constitutional AI (CAI)]]
-- [[Human-Computer Interaction (HCI)]]
+- [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]
 - [[pedagogy]]
 - [[Persona-Driven Prompting]]
 - [[Structural Scaffolding (LLMs)]]
@@ -409,7 +409,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Human-Computer Interaction (HCI)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 338 |
+| 1 | [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 338 |
 | 2 | [[Cognitive-Science|Cognitive Science]] | — | — | 6\. 🌍Broader Implications and Signifi... | 340 |
 | 3 | [[pedagogy]] | — | — | 6\. 🌍Broader Implications and Signifi... | 340 |
 | 4 | [[Constitutional-AI|Constitutional AI (CAI)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 413 |
@@ -497,7 +497,7 @@ Write a 500-word description of a traveler arriving at the gates of an ancient, 
 
 - [[Cognitive-Science|Cognitive Science]]
 - [[Constitutional-AI|Constitutional AI (CAI)]]
-- [[Human-Computer Interaction (HCI)]]
+- [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]
 - [[pedagogy]]
 - [[Persona-Driven Prompting]]
 - [[Structural Scaffolding (LLMs)]]

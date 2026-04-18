@@ -46,7 +46,7 @@ The user is requesting topic generation within the domain of **Socratic Thinking
    - Cognitive science research on questioning techniques
 
 4. **PKB Integration Potential**: ✅ EXCEPTIONAL
-   - Will connect to: [[Critical-Thinking]], [[Epistemology]], [[Dialectical Reasoning]], [[pedagogy]], [[Philosophy of Education]], [[Informal Logic]], [[Argumentation-Theory]], [[Cognitive-Biases]], [[Intellectual-Humility]], [[Elenchus]], [[Maieutics]], [[Aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation for Critical Thinking]]
+   - Will connect to: [[Critical-Thinking]], [[Epistemology]], [[Dialectical Reasoning]], [[pedagogy]], [[Philosophy-of-Education]], [[Informal-Logic]], [[Argumentation-Theory]], [[Cognitive-Biases]], [[Intellectual-Humility]], [[Elenchus]], [[Maieutics]], [[Aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation for Critical Thinking]]
    - Multiple cross-domain connections: philosophy, education, psychology, law, leadership
 
 5. **Conceptual Complexity**: ✅ HIGH
@@ -177,7 +177,7 @@ Socratic questioning works like a **multi-tool knife** for the mind—each quest
 - [[The Meno Paradox]] - How can we seek what we don't know?
 - [[Innate Ideas]] - Rationalist vs. empiricist debates about knowledge origin
 - [[Facilitative Teaching]] - Teacher as guide vs. transmitter
-- [[cognitive-dissonance]] - Psychological tension that drives learning
+- [[Cognitive-Dissonance]] - Psychological tension that drives learning
 - [[Socratic-Ignorance]] - "I know that I know nothing"
 - [[Student-Centered Learning]] - Modern pedagogical descendant
 - [[Zone-of-Proximal-Development]] - Vygotsky's related concept
@@ -297,12 +297,12 @@ The Socratic Fallacy debate is like arguing whether you need to **read the sourc
 1. **[[Critical Thinking as Disciplined Self-Direction - Richard Paul's Intellectual Standards]]**
    - *Connection*: Richard Paul systematized Socratic questioning into a comprehensive critical thinking framework, establishing intellectual standards (clarity, accuracy, precision, relevance, depth, breadth, logic, fairness) that operationalize Socratic inquiry for modern education.
    - *Depth Potential*: Merits 2000+ word exploration of each intellectual standard, their interrelationships, and practical application across disciplines (science, law, business, personal decision-making).
-   - *Knowledge Graph Role*: Central hub connecting [[Socratic Thinking]], [[Educational-Psychology]], [[Informal Logic]], and [[Metacognition]]; serves as bridge between ancient philosophy and contemporary pedagogy.
+   - *Knowledge Graph Role*: Central hub connecting [[Socratic Thinking]], [[Educational-Psychology]], [[Informal-Logic]], and [[Metacognition]]; serves as bridge between ancient philosophy and contemporary pedagogy.
 
 2. **[[Dialectical Reasoning in Hegel - The Evolution from Socratic to Absolute Dialectic]]**
    - *Connection*: Hegel transformed Socratic dialectic (thesis challenged by antithesis) into a grand metaphysical system where contradictions drive historical and conceptual development toward synthesis—a radical reinterpretation of Socratic aporia.
    - *Depth Potential*: Requires 2500+ words to trace evolution from Socratic elenchus → Platonic dialectic → Hegelian Aufhebung (sublation), including Marx's materialist inversion and contemporary applications in critical theory.
-   - *Knowledge Graph Role*: Creates crucial link between [[Ancient Philosophy]], [[German Idealism]], [[Philosophy of History]], and [[Continental Philosophy]]; demonstrates how Socratic method influenced Western metaphysics.
+   - *Knowledge Graph Role*: Creates crucial link between [[Ancient Philosophy]], [[German-idealism]], [[Philosophy of History]], and [[Continental Philosophy]]; demonstrates how Socratic method influenced Western metaphysics.
 
 3. **[[Socratic Ignorance vs. Skepticism - The Epistemology of Knowing What You Don't Know]]**
    - *Connection*: Socrates' famous claim "I know that I know nothing" appears to endorse skepticism, but actually establishes a sophisticated epistemological position distinct from ancient Skeptics (Pyrrho, Sextus Empiricus) who suspended judgment entirely.
@@ -312,7 +312,7 @@ The Socratic Fallacy debate is like arguing whether you need to **read the sourc
 4. **[[The Socratic Method in Legal Education - Langdell's Case Method and Its Critiques]]**
    - *Connection*: Christopher Columbus Langdell adapted Socratic questioning for Harvard Law School in the 1870s, creating the "case method" where professors interrogate students about legal principles through hypothetical scenarios—a technique both celebrated and criticized for its intellectual rigor and psychological pressure.
    - *Depth Potential*: 2000-3500 words exploring the method's transplantation from philosophy to law, analyzing its effectiveness for teaching legal reasoning, examining the "Socratic terror" phenomenon, and discussing reforms (modified Socratic methods, collaborative learning alternatives).
-   - *Knowledge Graph Role*: Bridges [[Socratic Pedagogy]], [[Legal Reasoning]], [[Professional Education]], [[Case-Based Reasoning]], and [[Power Dynamics in Education]]; demonstrates real-world institutional application of ancient philosophical method.
+   - *Knowledge Graph Role*: Bridges [[Socratic Pedagogy]], [[Legal-Reasoning]], [[Professional Education]], [[Case-Based Reasoning]], and [[Power Dynamics in Education]]; demonstrates real-world institutional application of ancient philosophical method.
 
 ---
 

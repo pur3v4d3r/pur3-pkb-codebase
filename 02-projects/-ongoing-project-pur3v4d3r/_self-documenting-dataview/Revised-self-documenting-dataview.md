@@ -486,7 +486,7 @@ concepts: [[Today's Learning Focus]]
 
 ### For 02-pkb-and-pkm-learning:
 ```yaml
-concepts: [[Zettelkasten]], [[Evergreen Notes]]
+concepts: [[Zettelkasten]], [[Evergreen-Notes]]
 methodology: [[Progressive-Summarization]]
 ```
 
@@ -1966,13 +1966,13 @@ WHERE
 ```yaml
 # In "Machine Learning.md"
 concept-type: field
-sub-concepts: [[Neural Networks]], [[Decision Trees]], [[Clustering]]
+sub-concepts: [[Neural-Networks]], [[Decision Trees]], [[Clustering]]
 ```
 
 ```yaml
 # In "Neural Networks.md"
 concept-type: methodology
-parent-concept: [[Machine Learning]]
+parent-concept: [[Machine-Learning]]
 ```
 
 **Query in Parent:**
@@ -1996,7 +1996,7 @@ WHERE sub-concepts AND contains(sub-concepts, this.file.link)
 ```yaml
 owner: [[User A]]
 project: [[Project X]]
-concepts: [[Concept]]
+concepts: [[concept]]
 ```
 
 **User-Specific Query:**

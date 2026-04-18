@@ -565,7 +565,7 @@ extraction_summary:
 
 - [[Educational-Psychology|Educational Psychology]]
 - [[Cognitive-Science|Cognitive Science]]
-- [[Philosophy of Education]]
+- [[Philosophy-of-Education|Philosophy of Education]]
 
 ---
 

@@ -545,12 +545,12 @@ A critical inflection point in cognitive debt accumulation occurs when biases tr
 %%extract-atomic: Identity-Level Bias Integration%%
 
 > [!key-claim] Identity Protection Mechanisms
-> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive-dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect]] and [[Sunk-cost-fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
+> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[Cognitive-Dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect]] and [[Sunk-cost-fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
 
 The longitudinal research on adolescent bias development reveals this integration process empirically. Zavlis et al. (2024) found that domain-specific negative interpretive biases (academic, family, peer) predicted development of self-referential negative interpretations. This represents identity integration: what began as situational processing tendencies ("I tend to interpret teacher feedback negatively") consolidates into trait characteristics ("I'm the kind of person who disappoints authority figures"). The cognitive debt has now colonized core identity structures.
 
 %%confidence: confident%%
-%%prereq-hard: [[Identity Formation]]%%
+%%prereq-hard: [[Identity-Formation]]%%
 %%synthesis-potential: developmental-psychology×cognitive-science%%
 
 ### Environmental Reinforcement: Echo Chambers and Selective Exposure
@@ -635,7 +635,7 @@ The metacognitive erosion mechanism explains why cognitive debt often reaches cr
 The compound interest model of cognitive debt reveals that <span style='background-color: #27FF0040; color: #27FF00;'>early intervention yields exponentially greater returns than delayed correction</span>. Addressing biases during childhood and adolescence—before identity integration, before years of selective memory accumulation, before opportunity cost snowballs initiate—prevents decades of compounding and offers the highest return on investment for mitigation efforts.
 
 > [!helpful-tip] Developmental Windows for Bias Mitigation
-> The CogBIAS longitudinal research identified adolescence as a **critical window** where negative interpretive biases either crystallize into trait-level characteristics or remain amenable to correction. <span style='color: #27FF00;'>Interventions targeting ages 12-16 can prevent bias generalization from domain-specific (academic, social) to trait-level (self-referential)</span>. Key strategies include: (1) <span style='color: #72FFF1;'>[[cognitive restructuring]]</span> training to challenge automatic negative interpretations, (2) <span style='color: #72FFF1;'>[[metacognitive-awareness]]</span> development to recognize when biases activate, (3) <span style='color: #72FFF1;'>[[Growth-Mindset]]</span> cultivation to prevent fixed self-concepts that integrate biases, (4) <span style='color: #72FFF1;'>environmental design</span> that reduces bias-confirming feedback.
+> The CogBIAS longitudinal research identified adolescence as a **critical window** where negative interpretive biases either crystallize into trait-level characteristics or remain amenable to correction. <span style='color: #27FF00;'>Interventions targeting ages 12-16 can prevent bias generalization from domain-specific (academic, social) to trait-level (self-referential)</span>. Key strategies include: (1) <span style='color: #72FFF1;'>[[Cognitive-Restructuring]]</span> training to challenge automatic negative interpretations, (2) <span style='color: #72FFF1;'>[[metacognitive-awareness]]</span> development to recognize when biases activate, (3) <span style='color: #72FFF1;'>[[Growth-Mindset]]</span> cultivation to prevent fixed self-concepts that integrate biases, (4) <span style='color: #72FFF1;'>environmental design</span> that reduces bias-confirming feedback.
 
 [**Critical-Period-Intervention**:: <span style='color: #27FF00;'>Bias mitigation efforts timed to coincide with developmental windows of high neural plasticity and before identity consolidation, offering maximum effectiveness with minimal cognitive debt to overcome</span>]
 
@@ -669,7 +669,7 @@ The effectiveness of continuous monitoring depends critically on [[Metacognitive
 
 ### Tertiary Prevention: Structured Debt Repayment Programs
 
-For individuals carrying substantial accumulated cognitive debt—identifiable through persistent suboptimal decisions, chronic [[cognitive-dissonance]], relationship conflicts, career stagnation, or psychological distress—<span style='color: #FFC700;'>**structured debt repayment programs**</span> analogous to financial debt counseling become necessary. These typically require external professional support ([[Cognitive-Behavioral-Therapy]], executive coaching, structured decision analysis) to provide the metacognitive scaffolding that internal resources can no longer supply.
+For individuals carrying substantial accumulated cognitive debt—identifiable through persistent suboptimal decisions, chronic [[Cognitive-Dissonance]], relationship conflicts, career stagnation, or psychological distress—<span style='color: #FFC700;'>**structured debt repayment programs**</span> analogous to financial debt counseling become necessary. These typically require external professional support ([[Cognitive-Behavioral-Therapy]], executive coaching, structured decision analysis) to provide the metacognitive scaffolding that internal resources can no longer supply.
 
 > [!how-to] Cognitive Debt Repayment Framework
 > Structured repayment typically follows this progression: 
@@ -678,7 +678,7 @@ For individuals carrying substantial accumulated cognitive debt—identifiable t
 > 
 > **Phase 2 - Prioritization:** Identify highest-interest debt—biases causing most damage or constraining most opportunities. Following compound interest logic, address biases with highest reinforcement rates first to slow accumulation.
 > 
-> **Phase 3 - Restructuring:** Systematic belief revision through [[cognitive restructuring]] techniques. This parallels debt consolidation—taking biases operating across multiple domains and examining their shared underlying assumptions, then revising those core assumptions rather than addressing each manifestation individually.
+> **Phase 3 - Restructuring:** Systematic belief revision through [[Cognitive-Restructuring]] techniques. This parallels debt consolidation—taking biases operating across multiple domains and examining their shared underlying assumptions, then revising those core assumptions rather than addressing each manifestation individually.
 > 
 > **Phase 4 - Maintenance:** Implementing monitoring systems and environmental modifications to prevent reaccumulation. Like financial debt counseling includes budgeting systems and spending constraints, cognitive debt repayment requires decision protocols and information diet management.
 
@@ -697,7 +697,7 @@ The debt repayment analogy proves particularly apt regarding timescales and expe
 Given the limited effectiveness of individual-level cognitive training, the most promising long-term approach to cognitive debt management may involve <span style='color: #FFC700;'>**environmental engineering**</span>—designing decision contexts, information ecosystems, and organizational structures that reduce bias activation and provide external cognitive scaffolding.
 
 > [!key-claim] Nudges, Decision Architecture, and Bias-Resistant Systems
-> Rather than trying to "debias" human minds, [[nudge theory]] and [[choice-architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[Status-quo-bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[Loss-aversion]] and [[Sunk-cost-fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[System-2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[Confirmation-Bias]] through forced consideration of disconfirming evidence.
+> Rather than trying to "debias" human minds, [[Nudge-Theory]] and [[choice-architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[Status-quo-bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[Loss-aversion]] and [[Sunk-cost-fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[System-2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[Confirmation-Bias]] through forced consideration of disconfirming evidence.
 
 [**Choice-Architecture**:: <span style='color: #72FFF1;'>The deliberate design of decision contexts and option presentation to influence choices in predictable ways while preserving freedom of choice; used to counteract cognitive biases by modifying environments rather than modifying cognition</span>]
 
@@ -871,7 +871,7 @@ The framework also reframes the personal development question from "how do I bec
 **Prerequisites:** Understanding of basic [[Metacognition]] concepts and [[Cognitive-Bias]] categories.
 
 ### 2. **[[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]]**
-**Connection:** Given limited effectiveness of individual-level training (Korteling et al., 2021), environmental engineering emerges as most promising long-term strategy. Detailed exploration of [[choice-architecture]], [[nudge theory]], and organizational decision protocols would operationalize system-level interventions.  
+**Connection:** Given limited effectiveness of individual-level training (Korteling et al., 2021), environmental engineering emerges as most promising long-term strategy. Detailed exploration of [[choice-architecture]], [[Nudge-Theory]], and organizational decision protocols would operationalize system-level interventions.  
 **Depth Potential:** Could examine digital environment design (algorithm modification, information diet management), organizational structures (decision protocols, dissent cultivation), physical space design (attention architecture), and public policy applications (regulation as bias mitigation).  
 **Knowledge Graph Role:** Connects cognitive science foundations to behavioral economics, organizational behavior, and public policy domains—establishing interdisciplinary synthesis opportunities.  
 **Priority:** **High** - System-level interventions may prove more tractable than individual-level debiasing given neuroevolutionary origins of bias.  
@@ -884,30 +884,30 @@ The framework also reframes the personal development question from "how do I bec
 **Depth Potential:** Could develop formal mathematical models (differential equations, agent-based simulations) of psychological compound processes, identify boundary conditions where compounding becomes exponential vs. logarithmic, examine interaction effects between different compounding processes, and establish unified framework for temporal dynamics in psychology.  
 **Knowledge Graph Role:** Creates powerful cross-domain bridge connecting [[mathematics]], [[systems theory]], [[behavioral economics]], and [[developmental psychology]]—enabling transfer of insights across traditionally siloed domains.  
 **Priority:** **Medium** - High theoretical value but requires significant mathematical infrastructure; perhaps defer until foundational concepts solidified.  
-**Prerequisites:** [[Compound-Interest]] basics, [[Systems Thinking]], comfort with mathematical modeling.
+**Prerequisites:** [[Compound-Interest]] basics, [[Systems-Thinking]], comfort with mathematical modeling.
 
 ### 4. **[[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]]**
 **Connection:** The transition from biases-as-processes to biases-as-identity represents critical inflection point in debt accumulation. Deep exploration of identity formation, [[self-schema]], belief-identity fusion, and identity defense mechanisms would clarify when and how biases achieve "unrepayable" status.  
 **Depth Potential:** Could examine developmental trajectories of identity formation (particularly during adolescence per CogBIAS findings), cultural variation in identity-belief fusion, therapeutic approaches to identity revision ([[schema therapy]], [[Acceptance-and-Commitment-Therapy]]), and neurobiological substrates of self-referential processing.  
-**Knowledge Graph Role:** Bridges [[Cognitive-Science]], [[developmental psychology]], [[social psychology]], and [[clinical psychology]]—with special connection to [[Narrative-Identity]] frameworks and [[Self-Determination-Theory]].  
+**Knowledge Graph Role:** Bridges [[Cognitive-Science]], [[developmental psychology]], [[social psychology]], and [[Clinical-Psychology]]—with special connection to [[Narrative-Identity]] frameworks and [[Self-Determination-Theory]].  
 **Priority:** **High** - Understanding identity integration mechanisms critical for designing interventions before biases reach unrepayable status.  
-**Prerequisites:** Basic understanding of [[identity formation]], [[self-concept]], and [[Cognitive-Biases]].
+**Prerequisites:** Basic understanding of [[Identity-Formation]], [[self-concept]], and [[Cognitive-Biases]].
 
 ## Advanced Deep Dives
 
 ### 5. **[[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]]** *[Requires solid evolutionary psychology and neuroscience background]*
 **Connection:** The Korteling et al. neuroevolutionary framework establishing biases as adaptive trade-offs rather than errors warrants comprehensive examination of mismatch dynamics—how cognitive adaptations optimized for ancestral environments systematically misfire in modern contexts.  
 **Depth Potential:** Could explore specific mismatch examples across domains (financial, social, health, political), evolutionary game theory models of when biases prove adaptive vs. maladaptive, comparative psychology examining bias distribution across species, and speculative frameworks for "evolutionary patches" through technology or culture.  
-**Knowledge Graph Role:** Integrates [[evolutionary psychology]], [[cognitive-neuroscience]], [[behavioral economics]], and [[anthropology]]—requires advanced understanding across multiple domains but offers profound insights into human nature and potential intervention strategies.  
+**Knowledge Graph Role:** Integrates [[Evolutionary-Psychology]], [[cognitive-neuroscience]], [[behavioral economics]], and [[anthropology]]—requires advanced understanding across multiple domains but offers profound insights into human nature and potential intervention strategies.  
 **Priority:** **Medium** - High intellectual value but requires substantial prerequisites; best pursued after mastering foundational bias concepts and evolutionary frameworks.  
-**Prerequisites:** **[[Evolutionary Psychology]]**, **[[cognitive-neuroscience]]**, **[[Heuristics and Biases Research]]**, **[[Game Theory]]**.
+**Prerequisites:** **[[Evolutionary-Psychology]]**, **[[cognitive-neuroscience]]**, **[[Heuristics and Biases Research]]**, **[[Game Theory]]**.
 
 ### 6. **[[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]]** *[Requires computational modeling and clinical psychology knowledge]*
 **Connection:** Many psychiatric conditions (depression, anxiety, addiction, PTSD) involve patterns interpretable as extreme cognitive debt—accumulated distortions requiring clinical intervention. Applying computational debt models to psychiatric phenomena could yield novel diagnostic and treatment frameworks.  
 **Depth Potential:** Could develop formal computational models of disorders as debt accumulation processes, specify interventions as debt restructuring/repayment protocols, simulate treatment trajectories using agent-based or differential equation models, and predict intervention outcomes based on debt parameters. Integration with [[computational psychiatry]] approaches using [[Bayesian brain]] frameworks.  
-**Knowledge Graph Role:** Revolutionary bridge between [[clinical psychology]], [[computational neuroscience]], [[psychiatry]], and [[systems theory]]—potentially transforming how mental health is conceptualized and treated, moving from symptom-focused to structure-focused frameworks.  
+**Knowledge Graph Role:** Revolutionary bridge between [[Clinical-Psychology]], [[computational neuroscience]], [[psychiatry]], and [[systems theory]]—potentially transforming how mental health is conceptualized and treated, moving from symptom-focused to structure-focused frameworks.  
 **Priority:** **Low** (current time) but **Extremely High** (long-term) - Requires mastery of both clinical psychology and computational modeling; represents frontier research territory but could reshape clinical practice if successfully developed.  
-**Prerequisites:** **[[Computational Modeling]]**, **[[Clinical Psychology]]**, **[[Bayesian-Inference]]**, **[[Psychopathology]]**, **[[Dynamical Systems Theory]]**, deep understanding of specific disorders.
+**Prerequisites:** **[[Computational Modeling]]**, **[[Clinical-Psychology]]**, **[[Bayesian-Inference]]**, **[[Psychopathology]]**, **[[Dynamical Systems Theory]]**, deep understanding of specific disorders.
 
 ---
 

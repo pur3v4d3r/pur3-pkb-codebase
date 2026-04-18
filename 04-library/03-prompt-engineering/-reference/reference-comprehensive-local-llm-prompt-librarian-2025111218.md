@@ -69,7 +69,7 @@ aliases: [Local LLM Component Librarian, Obsidian LLM Integration, Self-Hosted P
 ## 1️⃣ Conceptual Foundation: Local LLM as Component Librarian
 
 > [!definition]
-> - **Local LLM Component Librarian**: A self-hosted [[Artificial Intelligence]] system that manages, retrieves, analyzes, and synthesizes [[Prompt Components]] within a [[Personal-Knowledge-Base]], operating entirely on local hardware without external API dependencies.
+> - **Local LLM Component Librarian**: A self-hosted [[Artificial-Intelligence]] system that manages, retrieves, analyzes, and synthesizes [[Prompt Components]] within a [[Personal-Knowledge-Base]], operating entirely on local hardware without external API dependencies.
 > - **Core Function**: Semantic search, component recommendation, composition assistance, and metadata enrichment for prompt engineering artifacts.
 
 ### The Paradigm Shift: From Cloud to Edge

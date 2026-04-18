@@ -207,7 +207,7 @@ link-related:
 > - [[Decision-Making]]
 > - [[Problem Solving]]
 > - [[Metacognition]]
-> - [[Information Literacy]]
+> - [[Information-Literacy]]
 > - [[Constructivism]]
 > - [[Bloom's-Taxonomy]]
 > - [[Socratic-Questioning]]
@@ -288,7 +288,7 @@ The ACER Framework synthesizes four major traditions in critical thinking resear
 
 **Psychological Tradition**: Incorporating [[cognitive-psychology]] research on [[information-processing]], [[Metacognition]] (Kuhn, 1999), and [[Problem Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
 
-**Information Literacy Tradition**: Recognizing overlap with [[Information Literacy]] frameworks (American Library Association, 1989), the ACER model includes skills for recognizing knowledge gaps, evaluating source reliability, and organizing information effectively—essential for [[Knowledge Construction]].
+**Information Literacy Tradition**: Recognizing overlap with [[Information-Literacy]] frameworks (American Library Association, 1989), the ACER model includes skills for recognizing knowledge gaps, evaluating source reliability, and organizing information effectively—essential for [[Knowledge Construction]].
 
 **Educational Tradition**: Grounded in [[Bloom's-Taxonomy]] and contemporary [[Instructional-Design]] principles, emphasizing observable behaviors, teachable components, and measurable outcomes suitable for classroom implementation.
 
@@ -332,7 +332,7 @@ This structure acknowledges that critical thinking serves multiple functions sim
 > **Relationship to Other Frameworks**
 > - **[[Bloom's-Taxonomy]]**: ACER aligns with Bloom's higher-order thinking (Analyze, Evaluate, Create) but provides more granular operational detail
 > - **[[Creative Thinking]]**: While ACER focuses on critical/analytical processes, ACER also developed parallel frameworks for creative thinking, collaboration, and self-regulation
-> - **[[Information Literacy]] Models**: Significant overlap with Big6, SCONUL Seven Pillars, and ACRL Framework, particularly in Strand 1
+> - **[[Information-Literacy]] Models**: Significant overlap with Big6, SCONUL Seven Pillars, and ACRL Framework, particularly in Strand 1
 > - **[[Problem-Solving Models]]**: Decision-making strand connects to problem-solving but focuses specifically on analytical/evaluative aspects rather than creative generation
 
 ---
@@ -344,7 +344,7 @@ This structure acknowledges that critical thinking serves multiple functions sim
 
 ### Foundational Concepts
 
-The first strand addresses the *generative* dimension of critical thinking—how thinkers actively build knowledge rather than passively receive it. This reflects [[Constructivism|Constructivist]] epistemology: knowledge is constructed through interaction with information, not simply transmitted. The strand encompasses skills traditionally associated with [[Information Literacy]], [[Research Methods]], and [[Inquiry-Based-Learning]].
+The first strand addresses the *generative* dimension of critical thinking—how thinkers actively build knowledge rather than passively receive it. This reflects [[Constructivism|Constructivist]] epistemology: knowledge is constructed through interaction with information, not simply transmitted. The strand encompasses skills traditionally associated with [[Information-Literacy]], [[Research Methods]], and [[Inquiry-Based-Learning]].
 
 Knowledge construction in the ACER Framework requires critical thinking at every stage: identifying what is unknown, determining what information is needed, assessing source quality, interpreting meaning, and synthesizing findings into coherent understanding. This moves beyond simple information retrieval to active knowledge building—essential for [[Lifelong-learning]] and [[Personal-Knowledge-Management]].
 
@@ -380,7 +380,7 @@ Questioning represents the initiating aspect of knowledge construction. It invol
 > [!definition]
 > **Interpreting Information**:: The ability to comprehend, analyze, and derive meaning from various forms of information, representations, and data
 
-Interpretation moves beyond surface-level comprehension to deep understanding of meaning, implications, and relationships. It requires analyzing information structure, identifying key concepts, recognizing patterns, and inferring implicit meanings. This aspect connects directly to [[Reading Comprehension]], [[Data Analysis]], and [[Sense-Making]].
+Interpretation moves beyond surface-level comprehension to deep understanding of meaning, implications, and relationships. It requires analyzing information structure, identifying key concepts, recognizing patterns, and inferring implicit meanings. This aspect connects directly to [[Reading-Comprehension]], [[Data Analysis]], and [[Sense-Making]].
 
 **Observable Behaviors:**
 - Accurately comprehends explicit content and meaning
@@ -400,7 +400,7 @@ Interpretation moves beyond surface-level comprehension to deep understanding of
 
 **Cognitive Skills Involved:**
 - [[Comprehension]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition]]
 - [[Inference]] and [[Implication]] detection
 - [[Selective Combination]] (Sternberg) - integrating information coherently
 - [[Perspective-Taking]]
@@ -431,7 +431,7 @@ Organization transforms interpreted information into usable knowledge structures
 
 **Cognitive Skills Involved:**
 - [[Categorical Thinking]]
-- [[Systems Thinking]] (understanding relationships and structures)
+- [[Systems-Thinking]] (understanding relationships and structures)
 - [[Synthesis]]
 - [[Selective Comparison]] (Sternberg) - relating new to known information
 - [[knowledge-representation]]
@@ -451,7 +451,7 @@ Organization transforms interpreted information into usable knowledge structures
 
 The second strand addresses the *critical* dimension of critical thinking—systematic evaluation of existing ideas, arguments, and reasoning. This reflects the philosophical tradition of critical thinking, emphasizing [[Logical-Reasoning]], [[Argument-Analysis]], and [[Evidence-Based Reasoning]]. Where Strand 1 focuses on building knowledge, Strand 2 focuses on assessing the quality and validity of knowledge claims.
 
-Evaluation in the ACER Framework requires understanding of logical principles, standards of evidence, and rational analysis. It encompasses skills associated with [[Informal Logic]], [[Argumentation-Theory]], and [[Scientific-Reasoning]]. This strand is particularly crucial for identifying [[Cognitive-Biases]], [[Logical Fallacies]], and [[misinformation]].
+Evaluation in the ACER Framework requires understanding of logical principles, standards of evidence, and rational analysis. It encompasses skills associated with [[Informal-Logic]], [[Argumentation-Theory]], and [[Scientific-Reasoning]]. This strand is particularly crucial for identifying [[Cognitive-Biases]], [[Logical Fallacies]], and [[misinformation]].
 
 ### Aspect 2.1: Identifying Reasoning
 
@@ -494,7 +494,7 @@ Identifying reasoning involves analyzing how conclusions are derived from premis
 > [!definition]
 > **Applying Logic**:: The ability to evaluate reasoning using principles of formal and informal logic, assessing validity and soundness
 
-Applying logic involves assessing whether conclusions follow from premises (validity) and whether premises are true (soundness). It requires understanding logical operators, truth conditions, [[Logical Fallacies]], and principles of valid inference. This aspect connects to [[Formal Logic]], [[Propositional Logic]], and [[Modal Logic]].
+Applying logic involves assessing whether conclusions follow from premises (validity) and whether premises are true (soundness). It requires understanding logical operators, truth conditions, [[Logical Fallacies]], and principles of valid inference. This aspect connects to [[Formal-Logic]], [[Propositional Logic]], and [[Modal Logic]].
 
 **Observable Behaviors:**
 - Determines whether conclusions follow logically from premises
@@ -826,7 +826,7 @@ This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-
 - [[Metacognitive-Monitoring]]
 - [[Evidence Evaluation]]
 - [[Causal Analysis]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition]]
 - [[Adaptive Learning]]
 - [[Reflective-Practice]]
 
@@ -1280,7 +1280,7 @@ Understanding ACER's position within the broader landscape of critical thinking 
 | **[[Paul-Elder-Framework]]** | Elements and standards of reasoning | Depth of logical analysis | ACER's Strand 2 aligns closely; ACER adds knowledge construction and decision-making |
 | **[[Facione's Core Skills]]** | Six core cognitive skills | Comprehensive skill catalog | ACER organizes similar skills into strand-based applications |
 | **[[RED Model]]** (Recognize, Evaluate, Decide) | Decision-focused critical thinking | Explicitly pragmatic | Very similar to ACER Strand 3; ACER adds knowledge construction and evaluation strands |
-| **[[Information Literacy]] Standards** | Research and information evaluation | Academic research focus | ACER Strand 1 incorporates and extends information literacy principles |
+| **[[Information-Literacy]] Standards** | Research and information evaluation | Academic research focus | ACER Strand 1 incorporates and extends information literacy principles |
 
 ACER's distinctive contribution: **Synthesis of knowledge construction, evaluation, and decision-making into a unified, operational framework with validated developmental levels**.
 

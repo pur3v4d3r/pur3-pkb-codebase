@@ -173,7 +173,7 @@ related-concepts: [[Supporting Concept]]
 # Reference Documents
 source-type: book | paper | article | course
 authors: [[Author-Name]]
-theories: [[Theoretical Framework]]
+theories: [[Theoretical-Framework]]
 methodologies: [[Research Method]]
 fields: [[Academic Field]]
 ```
@@ -192,7 +192,7 @@ status: planning | active | on-hold | completed
 
 ```yaml
 # Daily Atomic Entries
-concepts-explored: [[Concept]]
+concepts-explored: [[concept]]
 tools-used: [[Tool]]
 ```
 
@@ -411,7 +411,7 @@ link-related: []
 # SELF-DOCUMENTING FIELDS
 source-type: book          # book | paper | article | course | video
 authors: []                # [[Author-Name]]
-theories: []               # [[Theoretical Framework]]
+theories: []               # [[Theoretical-Framework]]
 methodologies: []          # [[Research Method]]
 fields: []                 # [[Academic Domain]]
 concepts: []               # [[Key-Concepts]]
@@ -861,7 +861,7 @@ SORT maturity ASC, length(file.inlinks) DESC
 ```
 # ✅ GOOD - Scoped, limited, direct
 FROM "03-notes" OR "02-projects"
-WHERE concepts AND contains(concepts, [[Concept]])
+WHERE concepts AND contains(concepts, [[concept]])
 LIMIT 50
 
 # ❌ BAD - Unscoped, unlimited, complex

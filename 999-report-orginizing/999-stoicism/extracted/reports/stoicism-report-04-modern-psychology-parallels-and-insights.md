@@ -123,12 +123,12 @@ related:
   - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Positive Psychology]]"
   - "[[Mindfulness]]"
-  - "[[Emotion Regulation]]"
+  - "[[Emotion-Regulation]]"
   - "[[Dichotomy-of-Control]]"
   - "[[Prohairesis]]"
   - "[[Eudaimonia]]"
   - "[[Albert Ellis]]"
-  - "[[Aaron Beck]]"
+  - "[[Aaron-Beck]]"
   - "[[James Gross]]"
   - "[[Martin Seligman]]"
   - "[[Cognitive-Reappraisal]]"
@@ -215,7 +215,7 @@ link-down:
   - "[[Epictetan Cognitive Model]]"
   - "[[Stoic Pathology of Emotion]]"
   - "[[ABC Model REBT]]"
-  - "[[Cognitive Restructuring]]"
+  - "[[Cognitive-Restructuring]]"
   - "[[Psychological Flexibility]]"
 
 link-related:
@@ -330,7 +330,7 @@ Modern psychology's engagement with the relationship between thought and emotion
 
 ### Cognitive Behavioral Therapy and REBT
 
-[[Aaron Beck]] developed cognitive therapy in the 1960s at the University of Pennsylvania, initially as a treatment for depression. His fundamental clinical observation was that depressed patients exhibited characteristic patterns of negative automatic thoughts — spontaneous, brief, and often unexamined cognitive appraisals of themselves, their situations, and their futures. These automatic thoughts were not simply symptoms of depression; they were, in Beck's analysis, *constitutive* of the depressive experience. Change the thoughts, and the emotion changes.
+[[Aaron-Beck]] developed cognitive therapy in the 1960s at the University of Pennsylvania, initially as a treatment for depression. His fundamental clinical observation was that depressed patients exhibited characteristic patterns of negative automatic thoughts — spontaneous, brief, and often unexamined cognitive appraisals of themselves, their situations, and their futures. These automatic thoughts were not simply symptoms of depression; they were, in Beck's analysis, *constitutive* of the depressive experience. Change the thoughts, and the emotion changes.
 
 [CBT-Core-Model:: The core model of Cognitive Behavioral Therapy posits that emotional responses are not direct reactions to events but are mediated by cognitive appraisals — the interpretive meanings individuals assign to events. Dysfunctional emotional responses (anxiety, depression, rage) are maintained by systematic errors in these appraisals, which CBT terms "cognitive distortions." The primary therapeutic intervention is *cognitive restructuring*: identifying distorted automatic thoughts, examining the evidence for and against them, and replacing them with more accurate, adaptive appraisals.]
 

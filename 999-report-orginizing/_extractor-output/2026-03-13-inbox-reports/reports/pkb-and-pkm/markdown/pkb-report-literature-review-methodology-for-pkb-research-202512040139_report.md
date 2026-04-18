@@ -258,7 +258,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 177)*
 
 > [!abstract] Untitled
-> This comprehensive reference explores the methodological foundations of conducting systematic literature reviews within [[Personal-Knowledge-Base|Personal Knowledge Base]] environments, examining how traditional academic review protocols adapt to linked note-taking architectures. The synthesis addresses the tension between rigorous scholarly methodology and the unique affordances of networked knowledge systems, where the goal extends beyond producing singular review documents to constructing living knowledge graphs that support continuous intellectual development. By integrating established frameworks like [[PRISMA Guidelines]], [[Zettelkasten Method]] principles, and modern tool ecosystems exemplified by the [[Zotero]]-[[Obsidian]] workflow, this reference establishes a comprehensive methodology for transforming source material into atomic, interconnected knowledge units while maintaining academic rigor, proper [[Citation Management]], and intellectual provenance.
+> This comprehensive reference explores the methodological foundations of conducting systematic literature reviews within [[Personal-Knowledge-Base|Personal Knowledge Base]] environments, examining how traditional academic review protocols adapt to linked note-taking architectures. The synthesis addresses the tension between rigorous scholarly methodology and the unique affordances of networked knowledge systems, where the goal extends beyond producing singular review documents to constructing living knowledge graphs that support continuous intellectual development. By integrating established frameworks like [[PRISMA Guidelines]], [[Zettelkasten-Method|Zettelkasten Method]] principles, and modern tool ecosystems exemplified by the [[Zotero]]-[[Obsidian]] workflow, this reference establishes a comprehensive methodology for transforming source material into atomic, interconnected knowledge units while maintaining academic rigor, proper [[Citation Management]], and intellectual provenance.
 
 #### 4. [DEFINITION] Literature Review *(Line 182)*
 
@@ -268,7 +268,7 @@ extraction_summary:
 #### 5. [THE-PHILOSOPHY] Untitled *(Line 191)*
 
 > [!the-philosophy] Untitled
-> The integration of systematic literature review methodology within Personal Knowledge Base systems represents a reconciliation between two historically distinct intellectual traditions: the rigor of evidence-based practice demanding exhaustive, protocol-driven synthesis, and the organic, discovery-oriented approach of the [[Zettelkasten Method]] emphasizing atomic notes and emergent structure. This synthesis creates a methodological framework where *process rigor* and *structural flexibility* coexist, enabling researchers to maintain academic standards while building knowledge systems that support creative recombination and novel insight generation.
+> The integration of systematic literature review methodology within Personal Knowledge Base systems represents a reconciliation between two historically distinct intellectual traditions: the rigor of evidence-based practice demanding exhaustive, protocol-driven synthesis, and the organic, discovery-oriented approach of the [[Zettelkasten-Method|Zettelkasten Method]] emphasizing atomic notes and emergent structure. This synthesis creates a methodological framework where *process rigor* and *structural flexibility* coexist, enabling researchers to maintain academic standards while building knowledge systems that support creative recombination and novel insight generation.
 
 #### 6. [CITE] Primary Sources Consulted *(Line 458)*
 
@@ -379,7 +379,7 @@ extraction_summary:
 - [[PRISMA Guidelines]]
 - [[Pandoc]]
 - [[Performance Bias]]
-- [[Permanent Notes]]
+- [[Permanent-Notes|Permanent Notes]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Preprint Archives]]
@@ -420,7 +420,7 @@ extraction_summary:
 - [[Theory Notes]]
 - [[wiki-links]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[Zotero]]
 - [[Zotero Integration]]
 - [[Zotero URIs]]
@@ -432,18 +432,18 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎓 Abstract | 178 |
 | 2 | [[PRISMA Guidelines]] | — | — | 🎓 Abstract | 178 |
-| 3 | [[Zettelkasten Method]] | — | — | 🎓 Abstract | 178 |
+| 3 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 🎓 Abstract | 178 |
 | 4 | [[Zotero]] | — | — | 🎓 Abstract | 178 |
 | 5 | [[Obsidian]] | — | — | 🎓 Abstract | 178 |
 | 6 | [[Citation Management]] | — | — | 🎓 Abstract | 178 |
 | 7 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📖 Defining Literature Review in PKB C... | 183 |
 | 8 | [[Literature Notes]] | — | — | 📖 Defining Literature Review in PKB C... | 185 |
-| 9 | [[Permanent Notes]] | — | — | 📖 Defining Literature Review in PKB C... | 185 |
+| 9 | [[Permanent-Notes|Permanent Notes]] | — | — | 📖 Defining Literature Review in PKB C... | 185 |
 | 10 | [[Bidirectional Linking]] | — | — | 📖 Defining Literature Review in PKB C... | 187 |
-| 11 | [[Zettelkasten Method]] | — | — | 🏛️ The Philosophy of Literature Revie... | 192 |
+| 11 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 🏛️ The Philosophy of Literature Revie... | 192 |
 | 12 | [[Systematic Review Protocols]] | — | — | 🏛️ The Philosophy of Literature Revie... | 194 |
 | 13 | [[Critical Appraisal Tools]] | — | — | 🏛️ The Philosophy of Literature Revie... | 194 |
-| 14 | [[Zettelkasten Method]] | — | — | 🏛️ The Philosophy of Literature Revie... | 196 |
+| 14 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 🏛️ The Philosophy of Literature Revie... | 196 |
 | 15 | [[Search Strategy Development]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
 | 16 | [[Inclusion and Exclusion Criteria]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
 | 17 | [[Source Evaluation]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
@@ -468,7 +468,7 @@ extraction_summary:
 | 36 | [[Tag Taxonomies]] | — | — | Phase One: Question Formulation and P... | 232 |
 | 37 | [[Metadata Fields]] | — | — | Phase One: Question Formulation and P... | 232 |
 | 38 | [[Literature Notes]] | — | — | Phase One: Question Formulation and P... | 232 |
-| 39 | [[Permanent Notes]] | — | — | Phase One: Question Formulation and P... | 232 |
+| 39 | [[Permanent-Notes|Permanent Notes]] | — | — | Phase One: Question Formulation and P... | 232 |
 | 40 | [[Search Log Notes]] | — | — | Phase Two: Comprehensive Search and S... | 238 |
 | 41 | [[Boolean Operators]] | — | — | Phase Two: Comprehensive Search and S... | 238 |
 | 42 | [[Grey Literature]] | — | — | Phase Two: Comprehensive Search and S... | 240 |
@@ -512,7 +512,7 @@ extraction_summary:
 | 80 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Phase Six: Synthesis, Interpretation,... | 270 |
 | 81 | [[Gap Analysis]] | — | — | Phase Six: Synthesis, Interpretation,... | 270 |
 | 82 | [[Literature Notes]] | — | — | Phase Six: Synthesis, Interpretation,... | 272 |
-| 83 | [[Permanent Notes]] | — | — | Phase Six: Synthesis, Interpretation,... | 272 |
+| 83 | [[Permanent-Notes|Permanent Notes]] | — | — | Phase Six: Synthesis, Interpretation,... | 272 |
 | 84 | [[CASP Assessment Template]] | — | — | Implementing the CASP Framework | 280 |
 | 85 | [[Literature Notes]] | — | — | Implementing the CASP Framework | 280 |
 | 86 | [[Appraisal Tool Templates]] | — | — | Domain-Specific Appraisal Tools | 288 |
@@ -842,7 +842,7 @@ LIMIT 15
 - [[PRISMA Guidelines]]
 - [[Pandoc]]
 - [[Performance Bias]]
-- [[Permanent Notes]]
+- [[Permanent-Notes|Permanent Notes]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Preprint Archives]]
@@ -883,7 +883,7 @@ LIMIT 15
 - [[Theory Notes]]
 - [[wiki-links]]
 - [[YAML-Frontmatter|YAML Frontmatter]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[Zotero]]
 - [[Zotero Integration]]
 - [[Zotero URIs]]

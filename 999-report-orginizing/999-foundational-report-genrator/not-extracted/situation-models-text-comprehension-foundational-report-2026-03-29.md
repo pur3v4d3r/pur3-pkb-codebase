@@ -2,7 +2,7 @@
 title: "Situation Models in Text Comprehension"
 aliases:
   - "[[Situation-Models|Situation Models (van Dijk & Kintsch)]]"
-  - "[[Construction-Integration Model]]"
+  - "[[Construction-Integration-Model|Construction-Integration Model]]"
   - "[[C-I Model]]"
   - "[[Discourse Comprehension — Situation Level]]"
 type: permanent-note

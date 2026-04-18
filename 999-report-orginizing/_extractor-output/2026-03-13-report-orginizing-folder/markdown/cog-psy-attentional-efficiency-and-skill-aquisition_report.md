@@ -379,7 +379,7 @@ extraction_summary:
 - [[consistent mapping]]
 - [[declarative knowledge]]
 - [[Deliberate-Practice|deliberate practice]]
-- [[dopamine]]
+- [[Dopamine]]
 - [[electrophysiology]]
 - [[expert-performance|expert performance]]
 - [[functional neuroimaging]]
@@ -449,7 +449,7 @@ extraction_summary:
 | 48 | [[anterior cingulate cortex]] | — | — | Prefrontal-to-Posterior Shifts: The C... | 198 |
 | 49 | [[Effective connectivity]] | — | — | Posterior Cortical Specialization and... | 220 |
 | 50 | [[Basal-Ganglia|basal ganglia]] | — | — | Basal Ganglia and Procedural Consolid... | 226 |
-| 51 | [[dopamine]] | — | — | Basal Ganglia and Procedural Consolid... | 233 |
+| 51 | [[Dopamine]] | — | — | Basal Ganglia and Procedural Consolid... | 233 |
 | 52 | [[sleep]] | — | — | Consolidation Processes and Sleep-Dep... | 244 |
 | 53 | [[REM sleep]] | — | — | Consolidation Processes and Sleep-Dep... | 244 |
 | 54 | [[cognitive-psychology|cognitive psychology]] | — | — | Distinguishing Automatic from Control... | 260 |
@@ -905,7 +905,7 @@ production_ready: true
 - [[consistent mapping]]
 - [[declarative knowledge]]
 - [[Deliberate-Practice|deliberate practice]]
-- [[dopamine]]
+- [[Dopamine]]
 - [[electrophysiology]]
 - [[expert-performance|expert performance]]
 - [[functional neuroimaging]]

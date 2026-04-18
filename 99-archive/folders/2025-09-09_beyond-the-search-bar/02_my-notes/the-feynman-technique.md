@@ -15,7 +15,7 @@ summary: The Feynman Technique is a four-step process developed by Richard Feynm
 
 ## 🔗 Connections
 - [[Richard-Feynman]]
-- [[Active Recall]]
+- [[Active-Recall]]
 - [[Learning Strategies]]
 - [[Deep Understanding]]
 - [[Knowledge Gaps]]

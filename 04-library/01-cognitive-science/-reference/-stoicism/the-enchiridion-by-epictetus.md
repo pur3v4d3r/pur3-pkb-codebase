@@ -31,7 +31,7 @@ related: [[Concept_A]], [[Concept_B]]
 - **Headers:** Convert simple numbers (I, II, III) into descriptive headers (e.g., `### I. The Discipline of Assent`).
 - **Bold (`**text**`):** Use STRICTLY for the "Punchline," the core axiom, or the imperative command within a paragraph. Do not over-bold.
 - **Italic (`*text*`):** Use for the "Interlocutor" (the imagined debater) or internal monologue.
-- **Wiki-Links (`[[Concept]]`):** Link "Atomic Concepts" relevant to Cognitive Science or the specific domain (e.g., `[[Prohairesis]]`, `[[Hegemonikon]]`, `[[Sympatheia]]`). Do not link common words.
+- **Wiki-Links (`[[concept]]`):** Link "Atomic Concepts" relevant to Cognitive Science or the specific domain (e.g., `[[Prohairesis]]`, `[[Hegemonikon]]`, `[[Sympatheia]]`). Do not link common words.
 
 ### [3. CALLOUT MAPPING STRATEGY]
 You must use the specific Callout Library below to categorize insights. Do not use generic blockquotes. Select the most appropriate callout for the cognitive function of the text.

@@ -137,7 +137,7 @@ extraction_summary:
 > 
 > To solve this "impossible" problem, astronomers have developed a toolkit of ingenious *indirect* methods. This report will systematically deconstruct the four primary solutions. We will explore the [[Transit Method]], which watches for the subtle *dimming* of a star as a planet passes in front of it. We will analyze the [[Radial Velocity Method]], which measures the tiny gravitational "wobble" a planet induces in its host star. We will also investigate the technologically demanding [[Direct Imaging]] method, which uses advanced optics to *block* the starlight and capture a direct photon from the planet itself. Finally, we will examine the [[Gravitational Microlensing]] technique, which uses [[Albert Einstein]]'s theory of [[General Relativity]] to detect planets by how their gravity magnifies a distant background star.
 > 
-> The final outcome of this analysis will demonstrate that no single method is sufficient. The "solved state" of exoplanetology is achieved only through the *synergy* of these methods. By combining the [[radius]] data from transits with the [[mass]] data from radial velocity, we can calculate a planet's [[density]] and begin to characterize it. By applying [[spectroscopy]] during a transit, we can even "read" the chemical composition of its atmosphere, moving us from a simple census of planets to the profound search for [[life]] elsewhere in the cosmos.
+> The final outcome of this analysis will demonstrate that no single method is sufficient. The "solved state" of exoplanetology is achieved only through the *synergy* of these methods. By combining the [[radius]] data from transits with the [[mass]] data from radial velocity, we can calculate a planet's [[density]] and begin to characterize it. By applying [[Spectroscopy]] during a transit, we can even "read" the chemical composition of its atmosphere, moving us from a simple census of planets to the profound search for [[life]] elsewhere in the cosmos.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 40)*
 
@@ -430,7 +430,7 @@ extraction_summary:
 - [[radial velocity]]
 - [[radius]]
 - [[redshift]]
-- [[spectroscopy]]
+- [[Spectroscopy]]
 - [[starshade]]
 - [[terrestrial planet]]
 
@@ -449,7 +449,7 @@ extraction_summary:
 | 9 | [[radius]] | — | — | Document Start | 36 |
 | 10 | [[mass]] | — | — | Document Start | 36 |
 | 11 | [[density]] | — | — | Document Start | 36 |
-| 12 | [[spectroscopy]] | — | — | Document Start | 36 |
+| 12 | [[Spectroscopy]] | — | — | Document Start | 36 |
 | 13 | [[life]] | — | — | Document Start | 36 |
 | 14 | [[gas giant]] | — | — | 1.0  DIAGNOSTICS: Deconstructing the ... | 46 |
 | 15 | [[angular resolution]] | — | — | 1.0  DIAGNOSTICS: Deconstructing the ... | 47 |
@@ -690,7 +690,7 @@ extraction_summary:
 - [[radial velocity]]
 - [[radius]]
 - [[redshift]]
-- [[spectroscopy]]
+- [[Spectroscopy]]
 - [[starshade]]
 - [[terrestrial planet]]
 

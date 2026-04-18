@@ -384,7 +384,7 @@ Identify and link any term that meets these criteria:
 
 ✓ **Academic Fields**
 - Broad domains: [[Cognitive-Science]], [[neuroscience]], [[Instructional-Design]]
-- Subdisciplines: [[Educational-Psychology]], [[Human-Computer Interaction]]
+- Subdisciplines: [[Educational-Psychology]], [[Human-Computer-Interaction]]
 - Research areas: [[Learning-Analytics]], [[Metacognition]]
 
 ✓ **Specialized Subfields**
@@ -479,7 +479,7 @@ Use when: The note title is the exact term you want displayed
 ```
 Use when: 
 - Grammatical integration: "theories of [[Cognitive-Load-Theory|cognitive load]]"
-- Shortened reference: "the [[Zettelkasten Method|method]]"
+- Shortened reference: "the [[Zettelkasten-Method|method]]"
 - Alternative phrasing: "[[Progressive-Summarization|layer-based distillation]]"
 
 **HEADER LINK** (section-specific):
@@ -582,7 +582,7 @@ This [[method]] uses several [[techniques]] to improve [[things]].
 ```
 ✅ **Correct Approach:**
 ```markdown
-The [[Zettelkasten Method]] uses [[Atomic-Notes]] and [[Progressive Linking]] 
+The [[Zettelkasten-Method]] uses [[Atomic-Notes]] and [[Progressive Linking]] 
 to improve knowledge retention.
 ```
 
@@ -2030,7 +2030,7 @@ FOR each section:
 
 **WITH WIKI-LINKS:**
 ```markdown
-The <span style='color: #FFC700;'>[[Zettelkasten Method]]</span> leverages <span style='color: #72FFF1;'>[[Atomic-Notes]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
+The <span style='color: #FFC700;'>[[Zettelkasten-Method]]</span> leverages <span style='color: #72FFF1;'>[[Atomic-Notes]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
 ```
 *Color can wrap wiki-links to add semantic layer.*
 

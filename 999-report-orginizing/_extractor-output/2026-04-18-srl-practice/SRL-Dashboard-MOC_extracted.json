@@ -1,0 +1,1225 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:35.126960",
+    "source_file": "SRL-Dashboard-MOC.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\srl-practice\\srl-system\\SRL-Dashboard-MOC.md",
+    "source_file_size_bytes": 12465,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "type": "moc",
+      "status": "evergreen",
+      "created": "{{date}}",
+      "updated": "{{date}}",
+      "tags": [
+        "moc",
+        "srl-system",
+        "dashboard",
+        "navigation",
+        "dataview",
+        "meta-bind"
+      ],
+      "aliases": [
+        "SRL Dashboard",
+        "SRL System Hub",
+        "Self-Regulated Learning Dashboard"
+      ]
+    },
+    "word_count": 1195,
+    "character_count": 10784,
+    "line_count": 301,
+    "heading_count": 20
+  },
+  "extraction_summary": {
+    "total_items_extracted": 99,
+    "by_type": {
+      "headings": 20,
+      "callouts": 3,
+      "wiki_links": 52,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 5,
+      "code_blocks": 12,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 6,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 1
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "🧠 SRL Reading System Dashboard",
+      "anchor": "srl-reading-system-dashboard",
+      "line_number": 23,
+      "source": "SRL-Dashboard-MOC.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "⚡ Quick Actions",
+          "anchor": "quick-actions",
+          "line_number": 30,
+          "source": "SRL-Dashboard-MOC.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📊 System Metrics",
+          "anchor": "system-metrics",
+          "line_number": 98,
+          "source": "SRL-Dashboard-MOC.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Session Overview",
+              "anchor": "session-overview",
+              "line_number": 100,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Recent Sessions",
+              "anchor": "recent-sessions",
+              "line_number": 119,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Attribution Health",
+              "anchor": "attribution-health",
+              "line_number": 134,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🗺️ System Components",
+          "anchor": "system-components",
+          "line_number": 162,
+          "source": "SRL-Dashboard-MOC.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Core Workflow Documents",
+              "anchor": "core-workflow-documents",
+              "line_number": 164,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Session Workflow",
+              "anchor": "session-workflow",
+              "line_number": 175,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📚 Theoretical Foundation",
+          "anchor": "theoretical-foundation",
+          "line_number": 201,
+          "source": "SRL-Dashboard-MOC.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Core Frameworks",
+              "anchor": "core-frameworks",
+              "line_number": 203,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Key Concepts",
+              "anchor": "key-concepts",
+              "line_number": 216,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔧 System Maintenance",
+          "anchor": "system-maintenance",
+          "line_number": 236,
+          "source": "SRL-Dashboard-MOC.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Overdue Reviews",
+              "anchor": "overdue-reviews",
+              "line_number": 238,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Monthly Review Schedule",
+              "anchor": "monthly-review-schedule",
+              "line_number": 247,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "System Health Checklist",
+              "anchor": "system-health-checklist",
+              "line_number": 259,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📖 Implementation Guide",
+          "anchor": "implementation-guide",
+          "line_number": 270,
+          "source": "SRL-Dashboard-MOC.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "For New Users",
+              "anchor": "for-new-users",
+              "line_number": 272,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Scaffold Fading Schedule",
+              "anchor": "scaffold-fading-schedule",
+              "line_number": 280,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Folder Structure",
+              "anchor": "folder-structure",
+              "line_number": 290,
+              "source": "SRL-Dashboard-MOC.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "System Overview",
+        "body": "This is the central hub for your **Self-Regulated Learning Reading System** — an Obsidian-native implementation of [[Zimmerman's-Cyclical-SRL-Model|Zimmerman's Cyclical SRL Model]] designed for reading complex academic texts within your PKB. The system integrates [[Forethought-Phase|Forethought]], [[Self-Reflection-Phase|Self-Reflection]], [[Metacognitive-Calibration|calibration tracking]], and [[Achievement-Goal-Theory|mastery-oriented]] motivational design.",
+        "line_number": 25,
+        "source": "SRL-Dashboard-MOC.md",
+        "char_start": 534,
+        "char_end": 1030
+      },
+      {
+        "type": "tip",
+        "title": "Use these to launch system components quickly.",
+        "body": "",
+        "line_number": 32,
+        "source": "SRL-Dashboard-MOC.md",
+        "char_start": 1056,
+        "char_end": 1112
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**This MOC connects to:**\n- [[Zimmerman's-Cyclical-SRL-Model]] — The theoretical architecture this system implements\n- [[practical-philosophy-moc]] — Broader philosophical practice context\n- [[Metacognition]] — The cognitive science foundation\n- [[Self-Regulated-Learning]] — The research domain\n- [[PKB]] — The knowledge management system this integrates with\n- [[Obsidian]] — The platform this system runs on",
+        "line_number": 313,
+        "source": "SRL-Dashboard-MOC.md",
+        "char_start": 10830,
+        "char_end": 11282
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": "Zimmerman's Cyclical SRL Model",
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model|Zimmerman's Cyclical SRL Model]]",
+        "line_number": 26,
+        "section": "🧠 SRL Reading System Dashboard",
+        "context_line": "> This is the central hub for your **Self-Regulated Learning Reading System** — an Obsidian-native implementation of [[Zimmerman's-Cyclical-SRL-Model|Zimmerman's Cyclical SRL Model]] designed for reading complex academic texts within your PKB. The system integrates [[Forethought-Phase|Forethought]], [[Self-Reflection-Phase|Self-Reflection]], [[Metacognitive-Calibration|calibration tracking]], and [[Achievement-Goal-Theory|mastery-oriented]] motivational design.",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": "Forethought",
+        "full_match": "[[Forethought-Phase|Forethought]]",
+        "line_number": 26,
+        "section": "🧠 SRL Reading System Dashboard",
+        "context_line": "> This is the central hub for your **Self-Regulated Learning Reading System** — an Obsidian-native implementation of [[Zimmerman's-Cyclical-SRL-Model|Zimmerman's Cyclical SRL Model]] designed for reading complex academic texts within your PKB. The system integrates [[Forethought-Phase|Forethought]], [[Self-Reflection-Phase|Self-Reflection]], [[Metacognitive-Calibration|calibration tracking]], and [[Achievement-Goal-Theory|mastery-oriented]] motivational design.",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": "Self-Reflection",
+        "full_match": "[[Self-Reflection-Phase|Self-Reflection]]",
+        "line_number": 26,
+        "section": "🧠 SRL Reading System Dashboard",
+        "context_line": "> This is the central hub for your **Self-Regulated Learning Reading System** — an Obsidian-native implementation of [[Zimmerman's-Cyclical-SRL-Model|Zimmerman's Cyclical SRL Model]] designed for reading complex academic texts within your PKB. The system integrates [[Forethought-Phase|Forethought]], [[Self-Reflection-Phase|Self-Reflection]], [[Metacognitive-Calibration|calibration tracking]], and [[Achievement-Goal-Theory|mastery-oriented]] motivational design.",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Metacognitive-Calibration",
+        "heading": null,
+        "display_text": "calibration tracking",
+        "full_match": "[[Metacognitive-Calibration|calibration tracking]]",
+        "line_number": 26,
+        "section": "🧠 SRL Reading System Dashboard",
+        "context_line": "> This is the central hub for your **Self-Regulated Learning Reading System** — an Obsidian-native implementation of [[Zimmerman's-Cyclical-SRL-Model|Zimmerman's Cyclical SRL Model]] designed for reading complex academic texts within your PKB. The system integrates [[Forethought-Phase|Forethought]], [[Self-Reflection-Phase|Self-Reflection]], [[Metacognitive-Calibration|calibration tracking]], and [[Achievement-Goal-Theory|mastery-oriented]] motivational design.",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": "mastery-oriented",
+        "full_match": "[[Achievement-Goal-Theory|mastery-oriented]]",
+        "line_number": 26,
+        "section": "🧠 SRL Reading System Dashboard",
+        "context_line": "> This is the central hub for your **Self-Regulated Learning Reading System** — an Obsidian-native implementation of [[Zimmerman's-Cyclical-SRL-Model|Zimmerman's Cyclical SRL Model]] designed for reading complex academic texts within your PKB. The system integrates [[Forethought-Phase|Forethought]], [[Self-Reflection-Phase|Self-Reflection]], [[Metacognitive-Calibration|calibration tracking]], and [[Achievement-Goal-Theory|mastery-oriented]] motivational design.",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 53,
+        "section": "⚡ Quick Actions",
+        "context_line": "link: \"[[SRL-Living-Learning-Agenda]]\"",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 62,
+        "section": "⚡ Quick Actions",
+        "context_line": "link: \"[[SRL-Calibration-Log]]\"",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Quick-Reference-Cards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Quick-Reference-Cards]]",
+        "line_number": 71,
+        "section": "⚡ Quick Actions",
+        "context_line": "link: \"[[SRL-Quick-Reference-Cards]]\"",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Reading-Session-Template",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Reading-Session-Template]]",
+        "line_number": 168,
+        "section": "Core Workflow Documents",
+        "context_line": "| [[SRL-Reading-Session-Template]] | Master session template (Forethought + Self-Reflection) | Every reading session |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 169,
+        "section": "Core Workflow Documents",
+        "context_line": "| [[SRL-Living-Learning-Agenda]] | Forward-planning handoff node | Update after every session, consult before every session |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 170,
+        "section": "Core Workflow Documents",
+        "context_line": "| [[SRL-Calibration-Log]] | Long-term calibration tracking | Update after every session, review monthly |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Quick-Reference-Cards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Quick-Reference-Cards]]",
+        "line_number": 171,
+        "section": "Core Workflow Documents",
+        "context_line": "| [[SRL-Quick-Reference-Cards]] | Goal language, attribution retraining, mastery grammar | Reference during sessions as needed |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Monthly-Review-Template",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Monthly-Review-Template]]",
+        "line_number": 172,
+        "section": "Core Workflow Documents",
+        "context_line": "| [[SRL-Monthly-Review-Template]] | Periodic meta-reflection | Monthly |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Framework-Activation-Template",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Framework-Activation-Template]]",
+        "line_number": 173,
+        "section": "Core Workflow Documents",
+        "context_line": "| [[SRL-Framework-Activation-Template]] | Specialized Forethought for new frameworks | When reading introduces a new framework |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 179,
+        "section": "Session Workflow",
+        "context_line": "│  1. Consult [[SRL-Living-Learning-Agenda]]           │",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Reading-Session-   │\n│     Template",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Reading-Session-   │\n│     Template]]",
+        "line_number": 181,
+        "section": "Session Workflow",
+        "context_line": "│  2. Create new session from [[SRL-Reading-Session-   │",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Framework-Activation-       │\n│     Template",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Framework-Activation-       │\n│     Template]]",
+        "line_number": 182,
+        "section": "Session Workflow",
+        "context_line": "│     Template]] (or [[SRL-Framework-Activation-       │",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 191,
+        "section": "Session Workflow",
+        "context_line": "│  6. Update [[SRL-Living-Learning-Agenda]]            │",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 192,
+        "section": "Session Workflow",
+        "context_line": "│  7. Update [[SRL-Calibration-Log]]                   │",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model]]",
+        "line_number": 207,
+        "section": "Core Frameworks",
+        "context_line": "| [[Zimmerman's-Cyclical-SRL-Model]] | Primary structural architecture | The three-phase cycle |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 208,
+        "section": "Core Frameworks",
+        "context_line": "| [[Achievement-Goal-Theory]] | Goal language and motivational framing | Mastery vs. performance orientation |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 209,
+        "section": "Core Frameworks",
+        "context_line": "| [[Self-Determination-Theory]] | Autonomy-supportive design | Protecting intrinsic motivation |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 210,
+        "section": "Core Frameworks",
+        "context_line": "| [[Attribution-Theory]] | Causal attribution in Self-Reflection | Adaptive vs. defensive inferences |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 211,
+        "section": "Core Frameworks",
+        "context_line": "| [[Self-Efficacy]] | Motivational substrate | Calibrated confidence, not elevation |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Metacognitive-Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Calibration]]",
+        "line_number": 212,
+        "section": "Core Frameworks",
+        "context_line": "| [[Metacognitive-Calibration]] | Long-term developmental output | The Calibration Engine |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Formative-Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formative-Assessment]]",
+        "line_number": 213,
+        "section": "Core Frameworks",
+        "context_line": "| [[Formative-Assessment]] | Self-evaluation design | Descriptive, not evaluative |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 214,
+        "section": "Core Frameworks",
+        "context_line": "| [[Deliberate-Practice]] | Practice architecture | Feedback-driven skill development |",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 218,
+        "section": "Key Concepts",
+        "context_line": "- [[Forethought-Phase]] — Task Analysis + Motivational Beliefs",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection-Phase]]",
+        "line_number": 219,
+        "section": "Key Concepts",
+        "context_line": "- [[Self-Reflection-Phase]] — Self-Judgment + Self-Reaction",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Performance-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Phase]]",
+        "line_number": 220,
+        "section": "Key Concepts",
+        "context_line": "- [[Performance-Phase]] — Monitoring + Strategy deployment",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Adaptive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adaptive-Inference]]",
+        "line_number": 221,
+        "section": "Key Concepts",
+        "context_line": "- [[Adaptive-Inference]] — The cycle's primary output",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Defensive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Defensive-Inference]]",
+        "line_number": 222,
+        "section": "Key Concepts",
+        "context_line": "- [[Defensive-Inference]] — The cycle's primary failure mode",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "The-Fluency-Illusion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Fluency-Illusion]]",
+        "line_number": 223,
+        "section": "Key Concepts",
+        "context_line": "- [[The-Fluency-Illusion]] — Why Cold Reconstruction matters",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Mastery-Oriented-Response-Pattern",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Oriented-Response-Pattern]]",
+        "line_number": 224,
+        "section": "Key Concepts",
+        "context_line": "- [[Mastery-Oriented-Response-Pattern]] — The target response to difficulty",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Monitoring]]",
+        "line_number": 225,
+        "section": "Key Concepts",
+        "context_line": "- [[Metacognitive-Monitoring]] — Monitoring accuracy as quality control",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Attribution-Retraining",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining]]",
+        "line_number": 226,
+        "section": "Key Concepts",
+        "context_line": "- [[Attribution-Retraining]] — Shifting maladaptive attributions",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Growth-Mindset",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset]]",
+        "line_number": 227,
+        "section": "Key Concepts",
+        "context_line": "- [[Growth-Mindset]] — Incremental theory supporting adaptive attributions",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Autonomy-Support",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomy-Support]]",
+        "line_number": 228,
+        "section": "Key Concepts",
+        "context_line": "- [[Autonomy-Support]] — Language design for motivation protection",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prior-Knowledge-Activation]]",
+        "line_number": 229,
+        "section": "Key Concepts",
+        "context_line": "- [[Prior-Knowledge-Activation]] — Schema activation before reading",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Elaborative-Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative-Interrogation]]",
+        "line_number": 230,
+        "section": "Key Concepts",
+        "context_line": "- [[Elaborative-Interrogation]] — Deep processing strategy",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Retrieval-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Retrieval-Practice]]",
+        "line_number": 231,
+        "section": "Key Concepts",
+        "context_line": "- [[Retrieval-Practice]] — The mechanism behind Cold Reconstruction",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Testing-Effect-Retrieval-Practice-Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Testing-Effect-Retrieval-Practice-Effect]]",
+        "line_number": 232,
+        "section": "Key Concepts",
+        "context_line": "- [[Testing-Effect-Retrieval-Practice-Effect]] — Why production > recognition",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 262,
+        "section": "System Health Checklist",
+        "context_line": "- [ ] [[SRL-Living-Learning-Agenda]] updated within the last week",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 263,
+        "section": "System Health Checklist",
+        "context_line": "- [ ] [[SRL-Calibration-Log]] reviewed within the last month",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Living-Learning-Agenda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Living-Learning-Agenda]]",
+        "line_number": 265,
+        "section": "System Health Checklist",
+        "context_line": "- [ ] Process goals evolving in sophistication (check [[SRL-Living-Learning-Agenda]] Progressive Goal Log)",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "SRL-Quick-Reference-Cards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Quick-Reference-Cards]]",
+        "line_number": 274,
+        "section": "For New Users",
+        "context_line": "1. **Read** [[SRL-Quick-Reference-Cards]] Card 5 (Early Implementation Survival Guide)",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model]]",
+        "line_number": 315,
+        "section": "Folder Structure",
+        "context_line": "> - [[Zimmerman's-Cyclical-SRL-Model]] — The theoretical architecture this system implements",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "practical-philosophy-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[practical-philosophy-moc]]",
+        "line_number": 316,
+        "section": "Folder Structure",
+        "context_line": "> - [[practical-philosophy-moc]] — Broader philosophical practice context",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 317,
+        "section": "Folder Structure",
+        "context_line": "> - [[Metacognition]] — The cognitive science foundation",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 318,
+        "section": "Folder Structure",
+        "context_line": "> - [[Self-Regulated-Learning]] — The research domain",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB]]",
+        "line_number": 319,
+        "section": "Folder Structure",
+        "context_line": "> - [[PKB]] — The knowledge management system this integrates with",
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 320,
+        "section": "Folder Structure",
+        "context_line": "> - [[Obsidian]] — The platform this system runs on",
+        "source": "SRL-Dashboard-MOC.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "srl-session",
+        "full_tag": "#srl-session",
+        "hierarchy": [
+          "srl-session"
+        ],
+        "line_number": 93,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "tag": "srl-session",
+        "full_tag": "#srl-session",
+        "hierarchy": [
+          "srl-session"
+        ],
+        "line_number": 125,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "tag": "srl-session",
+        "full_tag": "#srl-session",
+        "hierarchy": [
+          "srl-session"
+        ],
+        "line_number": 127,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "tag": "srl-session",
+        "full_tag": "#srl-session",
+        "hierarchy": [
+          "srl-session"
+        ],
+        "line_number": 179,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "tag": "monthly-review",
+        "full_tag": "#monthly-review",
+        "hierarchy": [
+          "monthly-review"
+        ],
+        "line_number": 182,
+        "source": "SRL-Dashboard-MOC.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "🧠 SRL Reading System Dashboard",
+        "anchor": "srl-reading-system-dashboard",
+        "line_number": 23,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 2,
+        "text": "⚡ Quick Actions",
+        "anchor": "quick-actions",
+        "line_number": 30,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 System Metrics",
+        "anchor": "system-metrics",
+        "line_number": 98,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Session Overview",
+        "anchor": "session-overview",
+        "line_number": 100,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Recent Sessions",
+        "anchor": "recent-sessions",
+        "line_number": 119,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Attribution Health",
+        "anchor": "attribution-health",
+        "line_number": 134,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 2,
+        "text": "🗺️ System Components",
+        "anchor": "system-components",
+        "line_number": 162,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Core Workflow Documents",
+        "anchor": "core-workflow-documents",
+        "line_number": 164,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Session Workflow",
+        "anchor": "session-workflow",
+        "line_number": 175,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 Theoretical Foundation",
+        "anchor": "theoretical-foundation",
+        "line_number": 201,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Core Frameworks",
+        "anchor": "core-frameworks",
+        "line_number": 203,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Concepts",
+        "anchor": "key-concepts",
+        "line_number": 216,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 System Maintenance",
+        "anchor": "system-maintenance",
+        "line_number": 236,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Overdue Reviews",
+        "anchor": "overdue-reviews",
+        "line_number": 238,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Monthly Review Schedule",
+        "anchor": "monthly-review-schedule",
+        "line_number": 247,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "System Health Checklist",
+        "anchor": "system-health-checklist",
+        "line_number": 259,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 2,
+        "text": "📖 Implementation Guide",
+        "anchor": "implementation-guide",
+        "line_number": 270,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "For New Users",
+        "anchor": "for-new-users",
+        "line_number": 272,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Scaffold Fading Schedule",
+        "anchor": "scaffold-fading-schedule",
+        "line_number": 280,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "level": 3,
+        "text": "Folder Structure",
+        "anchor": "folder-structure",
+        "line_number": 290,
+        "source": "SRL-Dashboard-MOC.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 45,
+        "line_end": 47,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 54,
+        "line_end": 56,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 63,
+        "line_end": 65,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 72,
+        "line_end": 74,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 83,
+        "line_end": 85,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 📊 System Metrics\n\n### Session Overview",
+        "line_start": 94,
+        "line_end": 102,
+        "char_count": 46,
+        "line_count": 5,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Recent Sessions",
+        "line_start": 117,
+        "line_end": 121,
+        "char_count": 19,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Attribution Health",
+        "line_start": 132,
+        "line_end": 136,
+        "char_count": 22,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🗺️ System Components\n\n### Core Workflow Documents\n\n| Component | Purpose | Frequency |\n|-----------|---------|-----------|\n| [[SRL-Reading-Session-Template]] | Master session template (Forethought + Self-Reflection) | Every reading session |\n| [[SRL-Living-Learning-Agenda]] | Forward-planning handoff node | Update after every session, consult before every session |\n| [[SRL-Calibration-Log]] | Long-term calibration tracking | Update after every session, review monthly |\n| [[SRL-Quick-Reference-Cards]] | Goal language, attribution retraining, mastery grammar | Reference during sessions as needed |\n| [[SRL-Monthly-Review-Template]] | Periodic meta-reflection | Monthly |\n| [[SRL-Framework-Activation-Template]] | Specialized Forethought for new frameworks | When reading introduces a new framework |\n\n### Session Workflow",
+        "line_start": 158,
+        "line_end": 177,
+        "char_count": 834,
+        "line_count": 16,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 📚 Theoretical Foundation\n\n### Core Frameworks\n\n| Framework | Role in System | Key Note |\n|-----------|---------------|----------|\n| [[Zimmerman's-Cyclical-SRL-Model]] | Primary structural architecture | The three-phase cycle |\n| [[Achievement-Goal-Theory]] | Goal language and motivational framing | Mastery vs. performance orientation |\n| [[Self-Determination-Theory]] | Autonomy-supportive design | Protecting intrinsic motivation |\n| [[Attribution-Theory]] | Causal attribution in Self-Reflection | Adaptive vs. defensive inferences |\n| [[Self-Efficacy]] | Motivational substrate | Calibrated confidence, not elevation |\n| [[Metacognitive-Calibration]] | Long-term developmental output | The Calibration Engine |\n| [[Formative-Assessment]] | Self-evaluation design | Descriptive, not evaluative |\n| [[Deliberate-Practice]] | Practice architecture | Feedback-driven skill development |\n\n### Key Concepts\n\n- [[Forethought-Phase]] — Task Analysis + Motivational Beliefs\n- [[Self-Reflection-Phase]] — Self-Judgment + Self-Reaction\n- [[Performance-Phase]] — Monitoring + Strategy deployment\n- [[Adaptive-Inference]] — The cycle's primary output\n- [[Defensive-Inference]] — The cycle's primary failure mode\n- [[The-Fluency-Illusion]] — Why Cold Reconstruction matters\n- [[Mastery-Oriented-Response-Pattern]] — The target response to difficulty\n- [[Metacognitive-Monitoring]] — Monitoring accuracy as quality control\n- [[Attribution-Retraining]] — Shifting maladaptive attributions\n- [[Growth-Mindset]] — Incremental theory supporting adaptive attributions\n- [[Autonomy-Support]] — Language design for motivation protection\n- [[Prior-Knowledge-Activation]] — Schema activation before reading\n- [[Elaborative-Interrogation]] — Deep processing strategy\n- [[Retrieval-Practice]] — The mechanism behind Cold Reconstruction\n- [[Testing-Effect-Retrieval-Practice-Effect]] — Why production > recognition\n\n---\n\n## 🔧 System Maintenance\n\n### Overdue Reviews",
+        "line_start": 197,
+        "line_end": 240,
+        "char_count": 1951,
+        "line_count": 40,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Monthly Review Schedule",
+        "line_start": 245,
+        "line_end": 249,
+        "char_count": 27,
+        "line_count": 1,
+        "source": "SRL-Dashboard-MOC.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### System Health Checklist\n\n- [ ] All recent sessions have completed Self-Reflection phases\n- [ ] [[SRL-Living-Learning-Agenda]] updated within the last week\n- [ ] [[SRL-Calibration-Log]] reviewed within the last month\n- [ ] No persistent defensive inference patterns (check Attribution Health above)\n- [ ] Process goals evolving in sophistication (check [[SRL-Living-Learning-Agenda]] Progressive Goal Log)\n- [ ] Monthly review completed for current month\n\n---\n\n## 📖 Implementation Guide\n\n### For New Users\n\n1. **Read** [[SRL-Quick-Reference-Cards]] Card 5 (Early Implementation Survival Guide)\n2. **Start small** — Use only Zones 1 and 3 of Forethought, and Zone 1 of Self-Reflection\n3. **Use process-satisfaction standards** — Success = protocol execution, not comprehension\n4. **Expect the implementation dip** — First 5-10 sessions will feel harder, not easier\n5. **Add zones progressively** over 4-6 weeks as each becomes fluent\n\n### Scaffold Fading Schedule\n\n| Weeks | Forethought Zones | Self-Reflection Zones |\n|-------|-------------------|----------------------|\n| 1-2 | Zone 1 (Prior Knowledge) + Zone 3 (Goals) | Zone 1 (Cold Reconstruction) |\n| 3-4 | Add Zone 2 (Task Characterization) + Zone 4 (Self-Efficacy) | Add Zone 2 (Process Audit) |\n| 5-6 | Add Zone 5 (Motivational Priming) | Add Zone 3 (Attribution) |\n| 7-8 | Full Forethought Protocol | Add Zone 4 (Adaptive Inference) + Zone 5 (PKB Integration) |\n| 9+ | Full system with Zone 6 (Handoff) | Full system including Handoff |\n\n### Folder Structure",
+        "line_start": 257,
+        "line_end": 292,
+        "char_count": 1520,
+        "line_count": 32,
+        "source": "SRL-Dashboard-MOC.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "type: templaterCreateNote",
+          "indent_level": 1,
+          "line_number": 41,
+          "source": "SRL-Dashboard-MOC.md"
+        },
+        {
+          "text": "type: open",
+          "indent_level": 1,
+          "line_number": 51,
+          "source": "SRL-Dashboard-MOC.md"
+        },
+        {
+          "text": "type: open",
+          "indent_level": 1,
+          "line_number": 59,
+          "source": "SRL-Dashboard-MOC.md"
+        },
+        {
+          "text": "type: open",
+          "indent_level": 1,
+          "line_number": 68,
+          "source": "SRL-Dashboard-MOC.md"
+        },
+        {
+          "text": "type: templaterCreateNote",
+          "indent_level": 1,
+          "line_number": 77,
+          "source": "SRL-Dashboard-MOC.md"
+        },
+        {
+          "text": "type: templaterCreateNote",
+          "indent_level": 1,
+          "line_number": 87,
+          "source": "SRL-Dashboard-MOC.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{defensive}/",
+        "format": "inline",
+        "line_number": 144,
+        "source": "SRL-Dashboard-MOC.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Attribution-Retraining",
+      "Attribution-Theory",
+      "Autonomy-Support",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Elaborative-Interrogation",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Growth-Mindset",
+      "Mastery-Oriented-Response-Pattern",
+      "Metacognition",
+      "Metacognitive-Calibration",
+      "Metacognitive-Monitoring",
+      "Obsidian",
+      "PKB",
+      "Performance-Phase",
+      "Prior-Knowledge-Activation",
+      "Retrieval-Practice",
+      "SRL-Calibration-Log",
+      "SRL-Framework-Activation-       │\n│     Template",
+      "SRL-Framework-Activation-Template",
+      "SRL-Living-Learning-Agenda",
+      "SRL-Monthly-Review-Template",
+      "SRL-Quick-Reference-Cards",
+      "SRL-Reading-Session-   │\n│     Template",
+      "SRL-Reading-Session-Template",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Reflection-Phase",
+      "Self-Regulated-Learning",
+      "Testing-Effect-Retrieval-Practice-Effect",
+      "The-Fluency-Illusion",
+      "Zimmerman's-Cyclical-SRL-Model",
+      "practical-philosophy-moc"
+    ],
+    "unique_wiki_link_count": 36,
+    "unique_tags": [
+      "#monthly-review",
+      "#srl-session"
+    ],
+    "unique_tag_count": 2,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Attribution-Retraining",
+      "Attribution-Theory",
+      "Autonomy-Support",
+      "Defensive-Inference",
+      "Deliberate-Practice",
+      "Elaborative-Interrogation",
+      "Forethought-Phase",
+      "Formative-Assessment",
+      "Growth-Mindset",
+      "Mastery-Oriented-Response-Pattern",
+      "Metacognition",
+      "Metacognitive-Calibration",
+      "Metacognitive-Monitoring",
+      "Obsidian",
+      "PKB",
+      "Performance-Phase",
+      "Prior-Knowledge-Activation",
+      "Retrieval-Practice",
+      "SRL-Calibration-Log",
+      "SRL-Framework-Activation-       │\n│     Template",
+      "SRL-Framework-Activation-Template",
+      "SRL-Living-Learning-Agenda",
+      "SRL-Monthly-Review-Template",
+      "SRL-Quick-Reference-Cards",
+      "SRL-Reading-Session-   │\n│     Template",
+      "SRL-Reading-Session-Template",
+      "Self-Determination-Theory",
+      "Self-Efficacy",
+      "Self-Reflection-Phase",
+      "Self-Regulated-Learning",
+      "Testing-Effect-Retrieval-Practice-Effect",
+      "The-Fluency-Illusion",
+      "Zimmerman's-Cyclical-SRL-Model",
+      "practical-philosophy-moc"
+    ]
+  }
+}

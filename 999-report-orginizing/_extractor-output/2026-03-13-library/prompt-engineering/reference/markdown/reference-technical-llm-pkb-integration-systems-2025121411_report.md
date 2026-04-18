@@ -439,7 +439,7 @@ extraction_summary:
 > [!mental-model-anchor] Untitled
 > **Concept**: [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > **Anchors To**:
->   - [[Systems Thinking]] — feedback loops between load types
+>   - [[Systems-Thinking|Systems Thinking]] — feedback loops between load types
 >   - [[Constraint Theory]] — bottleneck identification
 >   - [[First Principles Thinking]] — decomposition to element level
 >   - [[Inversion]] — what would INCREASE load? (avoid that)
@@ -631,7 +631,7 @@ extraction_summary:
 > **Principle**: Single undifferentiated resource pool
 > **Counterexample**: Modality-specific interference patterns suggest multiple pools
 > **Boundary Condition**: Model may oversimplify for cross-modal tasks
-> **Alternative**: Consider [[Multiple Resource Theory]] for complex interfaces
+> **Alternative**: Consider [[Multiple-Resource-Theory|Multiple Resource Theory]] for complex interfaces
 
 ---
 
@@ -658,7 +658,7 @@ extraction_summary:
 - [[Cognitive-Science|Cognitive Science]]
 - [[Comprehensive LLM-PKB Integration Systems]]
 - [[Computer Science]]
-- [[Concept]]
+- [[concept]]
 - [[Constraint Theory]]
 - [[Dataview Query Library for PKB Integration]]
 - [[Dichotic Listening Paradigm]]
@@ -670,7 +670,7 @@ extraction_summary:
 - [[Economics]]
 - [[Element-Interactivity|Element Interactivity]]
 - [[Epistemology for Knowledge Workers]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice|Evidence-Based Practice]]
 - [[Expertise-Development|Expertise Development]]
 - [[Falsification]]
 - [[Filter Model]]
@@ -688,14 +688,14 @@ extraction_summary:
 - [[Kahneman Capacity Model]]
 - [[Late Selection Evidence]]
 - [[Learning Theory]]
-- [[Load Theory]]
+- [[Load-Theory|Load Theory]]
 - [[Map vs Territory]]
 - [[Mental-Model|Mental Model]]
 - [[Mental Model 1]]
 - [[Mental Model 2]]
 - [[Mental Model 3]]
 - [[Multimedia-Learning|Multimedia Learning]]
-- [[Multiple Resource Theory]]
+- [[Multiple-Resource-Theory|Multiple Resource Theory]]
 - [[Obsidian Automation Workflows for Marker Processing]]
 - [[Occam's Razor]]
 - [[Opportunity Cost]]
@@ -715,7 +715,7 @@ extraction_summary:
 - [[Source]]
 - [[Source Concept]]
 - [[Specific Concept]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Target]]
 - [[Target Domain]]
 - [[Target Domain 1]]
@@ -726,7 +726,7 @@ extraction_summary:
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Basics]]
 - [[Working Memory Model]]
-- [[Yerkes-Dodson Law]]
+- [[Yerkes-Dodson-Law|Yerkes-Dodson Law]]
 - [[Zettelkasten Atomicity Principles]]
 - [[arousal-theory]]
 - [[concept-slug-1]]
@@ -758,7 +758,7 @@ extraction_summary:
 | 11 | [[automation]] | — | — | 2. Bidirectional Link Hints — Relatio... | 398 |
 | 12 | [[Late Selection Evidence]] | — | — | 2. Bidirectional Link Hints — Relatio... | 399 |
 | 13 | [[Early Selection Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 399 |
-| 14 | [[Load Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
+| 14 | [[Load-Theory|Load Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 15 | [[Cognitive-Load-Theory|CLT]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 16 | [[Perceptual Load]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 17 | [[Attenuation Model]] | — | — | 3. Atomic Extraction Markers — Note S... | 419 |
@@ -770,14 +770,14 @@ extraction_summary:
 | 23 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 489 |
 | 24 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 498 |
 | 25 | [[Inert-Knowledge|Inert Knowledge]] | — | — | 11. **Application Context Markers** —... | 501 |
-| 26 | [[Evidence-Based Practice]] | — | — | 12. **Evidence Weight Indicators** — ... | 509 |
+| 26 | [[Evidence-Based-Practice|Evidence-Based Practice]] | — | — | 12. **Evidence Weight Indicators** — ... | 509 |
 | 27 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
 | 28 | [[Kahneman Capacity Model]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
 | 29 | [[Economics]] | — | — | 13. **Synthesis Potential Markers** —... | 538 |
 | 30 | [[Computer Science]] | — | — | 13. **Synthesis Potential Markers** —... | 539 |
 | 31 | [[Organizational Behavior]] | — | — | 13. **Synthesis Potential Markers** —... | 540 |
 | 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 586 |
-| 33 | [[Systems Thinking]] | — | — | 15. **Mental Model Anchors** — Framew... | 588 |
+| 33 | [[Systems-Thinking|Systems Thinking]] | — | — | 15. **Mental Model Anchors** — Framew... | 588 |
 | 34 | [[Constraint Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 589 |
 | 35 | [[First Principles Thinking]] | — | — | 15. **Mental Model Anchors** — Framew... | 590 |
 | 36 | [[Inversion]] | — | — | 15. **Mental Model Anchors** — Framew... | 591 |
@@ -822,7 +822,7 @@ extraction_summary:
 | 75 | [[Domain 2]] | — | — | Application Context Callout | 1710 |
 | 76 | [[Domain 3]] | — | — | Application Context Callout | 1711 |
 | 77 | [[Domain]] | — | — | Inline Application Markers | 1732 |
-| 78 | [[Concept]] | — | — | Inline Application Markers | 1734 |
+| 78 | [[concept]] | — | — | Inline Application Markers | 1734 |
 | 79 | [[Primary Domain]] | — | — | Synthesis Opportunity Callout | 1890 |
 | 80 | [[Specific Concept]] | — | — | Synthesis Opportunity Callout | 1890 |
 | 81 | [[Target Domain 1]] | — | — | Synthesis Opportunity Callout | 1892 |
@@ -833,14 +833,14 @@ extraction_summary:
 | 86 | [[Mental Model 1]] | — | — | Mental Model Anchor Callout | 2067 |
 | 87 | [[Mental Model 2]] | — | — | Mental Model Anchor Callout | 2068 |
 | 88 | [[Mental Model 3]] | — | — | Mental Model Anchor Callout | 2069 |
-| 89 | [[Concept]] | — | — | Inline Model Anchors | 2084 |
+| 89 | [[concept]] | — | — | Inline Model Anchors | 2084 |
 | 90 | [[Mental-Model|Mental Model]] | — | — | Inline Model Anchors | 2084 |
-| 91 | [[Concept]] | — | — | Inline Model Anchors | 2086 |
+| 91 | [[concept]] | — | — | Inline Model Anchors | 2086 |
 | 92 | [[Target Domain]] | — | — | Inline Model Anchors | 2086 |
 | 93 | [[First-Principles-What-Is-Knowledge|First Principles]] | — | — | Core Mental Model Reference | 2095 |
 | 94 | [[Inversion]] | — | — | Core Mental Model Reference | 2096 |
 | 95 | [[Second-Order Effects]] | — | — | Core Mental Model Reference | 2097 |
-| 96 | [[Systems Thinking]] | — | — | Core Mental Model Reference | 2098 |
+| 96 | [[Systems-Thinking|Systems Thinking]] | — | — | Core Mental Model Reference | 2098 |
 | 97 | [[Opportunity Cost]] | — | — | Core Mental Model Reference | 2099 |
 | 98 | [[Constraint Theory]] | — | — | Core Mental Model Reference | 2100 |
 | 99 | [[Circle of Competence]] | — | — | Core Mental Model Reference | 2101 |
@@ -858,11 +858,11 @@ extraction_summary:
 | 111 | [[arousal-theory]] | — | — | Example: Integrated Output Demonstration | 2252 |
 | 112 | [[ref-kahneman-1973]] | — | — | Core Components | 2269 |
 | 113 | [[Capacity Model]] | — | — | Core Components | 2272 |
-| 114 | [[Yerkes-Dodson Law]] | — | — | Core Components | 2272 |
+| 114 | [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] | — | — | Core Components | 2272 |
 | 115 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | Core Components | 2272 |
 | 116 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Core Components | 2278 |
 | 117 | [[UX Design]] | — | — | Core Components | 2279 |
-| 118 | [[Multiple Resource Theory]] | — | — | Core Components | 2290 |
+| 118 | [[Multiple-Resource-Theory|Multiple Resource Theory]] | — | — | Core Components | 2290 |
 | 119 | [[Dataview Query Library for PKB Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 2356 |
 | 120 | [[Obsidian Automation Workflows for Marker Processing]] | — | — | 🔗 Related Topics for PKB Expansion | 2361 |
 | 121 | [[Epistemology for Knowledge Workers]] | — | — | 🔗 Related Topics for PKB Expansion | 2366 |
@@ -1502,7 +1502,7 @@ freshness:
 > [!mental-model-anchor] 
 > **Concept**: [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > **Anchors To**:
->   - [[Systems Thinking]] — feedback loops between load types
+>   - [[Systems-Thinking|Systems Thinking]] — feedback loops between load types
 >   - [[Constraint Theory]] — bottleneck identification
 >   - [[First Principles Thinking]] — decomposition to element level
 >   - [[Inversion]] — what would INCREASE load? (avoid that)
@@ -2684,7 +2684,7 @@ Explicitly connect concepts to foundational mental models.
 | [[First-Principles-What-Is-Knowledge|First Principles]] | Decompose to fundamentals | "What are the basic building blocks?" |
 | [[Inversion]] | Solve by negation | "What would make this fail?" |
 | [[Second-Order Effects]] | Consequences of consequences | "And then what?" |
-| [[Systems Thinking]] | Interconnected wholes | "What are the feedback loops?" |
+| [[Systems-Thinking|Systems Thinking]] | Interconnected wholes | "What are the feedback loops?" |
 | [[Opportunity Cost]] | Value of alternatives foregone | "What am I giving up?" |
 | [[Constraint Theory]] | Bottleneck identification | "What's the limiting factor?" |
 | [[Circle of Competence]] | Know your limits | "Am I qualified to judge this?" |
@@ -2801,7 +2801,7 @@ The model comprises several interacting elements:
 ^source:: [[ref-kahneman-1973]] p.47
 ^evidence-type:: theoretical-claim
 
-[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson Law]] + [[Information-Processing-Theory|Information Processing Theory]]]
+[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] + [[Information-Processing-Theory|Information Processing Theory]]]
 
 %%QUERY-ANCHOR: attention:capacity-model-components%%
 
@@ -2869,7 +2869,7 @@ for (let letter of sortedLetters) {
 | `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working-Memory|Working Memory]] →(analogous-to)→ [[RAM]] |
 | `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[automation]] |
 | `falsifies` | →(falsifies)→ | Empirical refutation | [[Late Selection Evidence]] →(falsifies)→ [[Early Selection Theory]] |
-| `synthesizes` | →(synthesizes)→ | Integration of multiple | [[Load Theory]] →(synthesizes)→ [[Cognitive-Load-Theory|CLT]] + [[Perceptual Load]] |
+| `synthesizes` | →(synthesizes)→ | Integration of multiple | [[Load-Theory|Load Theory]] →(synthesizes)→ [[Cognitive-Load-Theory|CLT]] + [[Perceptual Load]] |
 
 ---
 
@@ -3008,7 +3008,7 @@ for (let letter of sortedLetters) {
 - [[Cognitive-Science|Cognitive Science]]
 - [[Comprehensive LLM-PKB Integration Systems]]
 - [[Computer Science]]
-- [[Concept]]
+- [[concept]]
 - [[Constraint Theory]]
 - [[Dataview Query Library for PKB Integration]]
 - [[Dichotic Listening Paradigm]]
@@ -3020,7 +3020,7 @@ for (let letter of sortedLetters) {
 - [[Economics]]
 - [[Element-Interactivity|Element Interactivity]]
 - [[Epistemology for Knowledge Workers]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice|Evidence-Based Practice]]
 - [[Expertise-Development|Expertise Development]]
 - [[Falsification]]
 - [[Filter Model]]
@@ -3038,14 +3038,14 @@ for (let letter of sortedLetters) {
 - [[Kahneman Capacity Model]]
 - [[Late Selection Evidence]]
 - [[Learning Theory]]
-- [[Load Theory]]
+- [[Load-Theory|Load Theory]]
 - [[Map vs Territory]]
 - [[Mental-Model|Mental Model]]
 - [[Mental Model 1]]
 - [[Mental Model 2]]
 - [[Mental Model 3]]
 - [[Multimedia-Learning|Multimedia Learning]]
-- [[Multiple Resource Theory]]
+- [[Multiple-Resource-Theory|Multiple Resource Theory]]
 - [[Obsidian Automation Workflows for Marker Processing]]
 - [[Occam's Razor]]
 - [[Opportunity Cost]]
@@ -3065,7 +3065,7 @@ for (let letter of sortedLetters) {
 - [[Source]]
 - [[Source Concept]]
 - [[Specific Concept]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Target]]
 - [[Target Domain]]
 - [[Target Domain 1]]
@@ -3076,7 +3076,7 @@ for (let letter of sortedLetters) {
 - [[Working-Memory|Working Memory]]
 - [[Working Memory Basics]]
 - [[Working Memory Model]]
-- [[Yerkes-Dodson Law]]
+- [[Yerkes-Dodson-Law|Yerkes-Dodson Law]]
 - [[Zettelkasten Atomicity Principles]]
 - [[arousal-theory]]
 - [[concept-slug-1]]

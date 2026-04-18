@@ -1,0 +1,249 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:35.115705",
+    "source_file": "SRL-starter-sheet-and-prompt.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\srl-practice\\SRL-starter-sheet-and-prompt.md",
+    "source_file_size_bytes": 5236,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Self-Regulated Learning: Forethought Phase and Self-Reflection Phase - Deliberate Practice Artifacts",
+      "completed": "2026-03-25",
+      "started": "2026-03-25",
+      "tags": [
+        "srl",
+        "forethought-phase",
+        "self-reflection-phase",
+        "metacognition",
+        "deliberate-practice",
+        "attribution-retraining",
+        "calibration-training",
+        "achievement-goal-theory",
+        "formative-assessment",
+        "self-regulated-learning"
+      ],
+      "aliases": [
+        "srl-forethought-phase",
+        "srl-self-reflection-phase",
+        "srl-metacognition",
+        "srl-deliberate-practice",
+        "srl-attribution-retraining",
+        "srl-calibration-training",
+        "srl-achievement-goal-theory",
+        "srl-formative-assessment",
+        "srl-self-regulated-learning"
+      ],
+      "connections": [
+        [
+          [
+            "Attribution-Retraining-Interventions"
+          ]
+        ],
+        [
+          [
+            "Deliberate-Practice"
+          ]
+        ],
+        [
+          [
+            "Metacognitive-Calibration-Training"
+          ]
+        ],
+        [
+          [
+            "Attribution-Theory"
+          ]
+        ],
+        [
+          [
+            "Achievement-Goal-Theory"
+          ]
+        ],
+        [
+          [
+            "Formative-Assessment"
+          ]
+        ],
+        [
+          [
+            "Self-Regulated-Learning"
+          ]
+        ],
+        [
+          [
+            "Self-Efficacy"
+          ]
+        ],
+        [
+          [
+            "Metacognitive-Monitoring"
+          ]
+        ]
+      ],
+      "produced": [
+        [
+          [
+            "SRL-Calibration-Log"
+          ]
+        ],
+        [
+          [
+            "SRL-Dashboard-MOC"
+          ]
+        ],
+        [
+          [
+            "SRL-Framework-Activation-Template"
+          ]
+        ],
+        [
+          [
+            "SRL-Living-Learning-Agenda"
+          ]
+        ],
+        [
+          [
+            "SRL-Monthly-Review-Template"
+          ]
+        ],
+        [
+          [
+            "SRL-Quick-Reference-Cards"
+          ]
+        ],
+        [
+          [
+            "SRL-Reading-Session-Template"
+          ]
+        ],
+        [
+          [
+            "SRL-Self-Explanation-Scaffold"
+          ]
+        ],
+        [
+          [
+            "SRL-System-Setup-Guide"
+          ]
+        ]
+      ]
+    },
+    "word_count": 544,
+    "character_count": 3660,
+    "line_count": 37,
+    "heading_count": 1
+  },
+  "extraction_summary": {
+    "total_items_extracted": 7,
+    "by_type": {
+      "headings": 1,
+      "callouts": 0,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 6,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Starter Prompt Used for Generating SRL Artifacts",
+      "anchor": "starter-prompt-used-for-generating-srl-artifacts",
+      "line_number": 65,
+      "source": "SRL-starter-sheet-and-prompt.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Starter Prompt Used for Generating SRL Artifacts",
+        "anchor": "starter-prompt-used-for-generating-srl-artifacts",
+        "line_number": 65,
+        "source": "SRL-starter-sheet-and-prompt.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "The reports also contain [in-various-formats] Forethought, Self Reflection, and Handoff between the phases templates for me to use to start deliberatly practicing this system in my learning process.",
+          "indent_level": 0,
+          "line_number": 68,
+          "source": "SRL-starter-sheet-and-prompt.md"
+        },
+        {
+          "text": "The artifacts should include prompts, scaffolds, and templates that can be used in the early stages of deliberate practice, as well as tools for setting effective goals and evaluating progress towards those goals.",
+          "indent_level": 0,
+          "line_number": 71,
+          "source": "SRL-starter-sheet-and-prompt.md"
+        },
+        {
+          "text": "The artifacts should also incorporate metacognitive strategies to improve comprehension and retention of information from complex academic texts, and should be designed to keep my motivation and self-efficacy high throughout the learning process.",
+          "indent_level": 0,
+          "line_number": 72,
+          "source": "SRL-starter-sheet-and-prompt.md"
+        },
+        {
+          "text": "The artifacts should be organized in a way that allows for easy access and use, and should be designed to facilitate the feedback loop between the Forethought Phase and the Self-Reflection Phase, allowing me to continuously improve my learning process over time.",
+          "indent_level": 0,
+          "line_number": 73,
+          "source": "SRL-starter-sheet-and-prompt.md"
+        },
+        {
+          "text": "The artifacts should be compatible with my PKB/PKM Learning System, which is based on Obsidian and VS Code, and should be designed to integrate seamlessly into my existing workflow.",
+          "indent_level": 0,
+          "line_number": 74,
+          "source": "SRL-starter-sheet-and-prompt.md"
+        },
+        {
+          "text": "The artifacts should be provided in a format that allows for easy customization and adaptation to my specific learning needs and goals, and should be designed to be flexible enough to accommodate different types of academic texts and learning contexts.",
+          "indent_level": 0,
+          "line_number": 75,
+          "source": "SRL-starter-sheet-and-prompt.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

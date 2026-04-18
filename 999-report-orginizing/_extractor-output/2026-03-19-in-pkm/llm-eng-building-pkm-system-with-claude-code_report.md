@@ -311,7 +311,7 @@ extraction_summary:
 - [[Agentic Workflow Design Patterns]]
 - [[Andy-Clark|Andy Clark]]
 - [[Ballred Obsidian-Claude-PKM]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[CLAUDE.md as Cognitive Specification Language]]
 - [[Claude-Code|Claude Code]]
 - [[Claude-Desktop|Claude Desktop]]
@@ -385,7 +385,7 @@ extraction_summary:
 | 17 | [[Niklas Luhmann]] | — | — | 📜 Phase 2: Historical Foundations — F... | 24 |
 | 18 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📜 Phase 2: Historical Foundations — F... | 24 |
 | 19 | [[Sönke Ahrens]] | Sönke Ahrens' | — | 📜 Phase 2: Historical Foundations — F... | 24 |
-| 20 | [[Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
+| 20 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
 | 21 | [[Tiago Forte]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
 | 22 | [[PARA-Method|PARA Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 26 |
 | 23 | [[Obsidian]] | — | — | 📜 Phase 2: Historical Foundations — F... | 28 |
@@ -486,7 +486,7 @@ extraction_summary:
 - [[Agentic Workflow Design Patterns]]
 - [[Andy-Clark|Andy Clark]]
 - [[Ballred Obsidian-Claude-PKM]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[CLAUDE.md as Cognitive Specification Language]]
 - [[Claude-Code|Claude Code]]
 - [[Claude-Desktop|Claude Desktop]]

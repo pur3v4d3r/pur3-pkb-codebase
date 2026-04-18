@@ -32,7 +32,7 @@ link-related:
   - "[[Planning]]"
   - "[[Self Behavioral Management]]"
   - "[[Long-Term-Memory]]"
-  - "[[Long-Term Working Memory]]"
+  - "[[Long-Term-Working-Memory]]"
   - "[[Planning]]"
   - "[[Critical-Thinking]]"
 maturity: seedling
@@ -70,7 +70,7 @@ review-priority: medium
 - *Application*: Critical for complex reasoning, problem-solving, and connecting new knowledge to existing [[schemas|schemas]]
 
 > [!connections-and-links]
-> - The relationship with [[Long-Term Working Memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to [[Chunking|chunk]] information efficiently, effectively expanding [[Working-Memory]] capacity within their domain of expertise.
+> - The relationship with [[Long-Term-Working-Memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to [[Chunking|chunk]] information efficiently, effectively expanding [[Working-Memory]] capacity within their domain of expertise.
 
 > [!connection-ideas]
 > **The Cognitive Load Relationship**

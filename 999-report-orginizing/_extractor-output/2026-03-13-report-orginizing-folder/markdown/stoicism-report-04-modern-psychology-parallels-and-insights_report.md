@@ -366,7 +366,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Albert Ellis]]
 - [[Albert Ellis and the Stoic Heritage of REBT]]
@@ -403,7 +403,7 @@ extraction_summary:
 | 8 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
 | 9 | [[Rational Emotive Behavior Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
 | 10 | [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
-| 11 | [[Aaron Beck]] | — | — | Cognitive Behavioral Therapy and REBT | 333 |
+| 11 | [[Aaron-Beck|Aaron Beck]] | — | — | Cognitive Behavioral Therapy and REBT | 333 |
 | 12 | [[Albert Ellis]] | — | — | Cognitive Behavioral Therapy and REBT | 337 |
 | 13 | [[Steven Hayes]] | — | — | Cognitive Behavioral Therapy and REBT | 345 |
 | 14 | [[Martin Seligman]] | — | — | Cognitive Behavioral Therapy and REBT | 349 |
@@ -447,7 +447,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Albert Ellis]]
 - [[Albert Ellis and the Stoic Heritage of REBT]]
@@ -490,12 +490,12 @@ extraction_summary:
 - [[Acceptance-and-Commitment-Therapy|Acceptance and Commitment Therapy]]
 - [[Positive Psychology]]
 - [[Mindfulness]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation|Emotion Regulation]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
 - [[Eudaimonia]]
 - [[Albert Ellis]]
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[James Gross]]
 - [[Martin Seligman]]
 - [[Cognitive-Reappraisal|Cognitive Reappraisal]]

@@ -466,7 +466,7 @@ SORT StudyType ASC
 
 ### Methodological Links
 - [[N-Back Task]] - Common WM assessment method
-- [[Dual-Task Paradigm]] - Tests WM subsystem independence
+- [[Dual-Task-Paradigm]] - Tests WM subsystem independence
 
 ## ⚠️ Limitations & Critiques
 
@@ -616,7 +616,7 @@ Results challenge the theoretical assumption that WM training can enhance domain
 
 ### Application to My Work
 
-This has major implications for my [[Learning System Design]] notes:
+This has major implications for my [[Learning-System-Design]] notes:
 - Don't rely on domain-general "capacity building" approaches
 - Focus on domain-specific practice with meaningful contexts
 - Consider if PKB development itself is a form of "cognitive training" - does it transfer?

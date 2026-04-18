@@ -122,7 +122,7 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Cognitive Development Theories]]"
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education|Philosophy of Education]]"
 
 related:
   - "[[Metacognition-in-Learning|Metacognition in Learning]]"

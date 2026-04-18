@@ -456,7 +456,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron Beck]]
+- [[Aaron-Beck]]
 - [[Albert Ellis]]
 - [[B.F. Skinner]]
 - [[Cognitive Defusion]]
@@ -498,7 +498,7 @@ extraction_summary:
 | 10 | [[B.F. Skinner]] | — | — | First Wave: Behavioral Therapy | 333 |
 | 11 | [[Joseph Wolpe]] | — | — | First Wave: Behavioral Therapy | 333 |
 | 12 | [[Albert Ellis]] | — | — | Second Wave: The Cognitive Revolution... | 337 |
-| 13 | [[Aaron Beck]] | — | — | Second Wave: The Cognitive Revolution... | 337 |
+| 13 | [[Aaron-Beck]] | — | — | Second Wave: The Cognitive Revolution... | 337 |
 | 14 | [[Cognitive Distortions]] | — | — | Second Wave: The Cognitive Revolution... | 348 |
 | 15 | [[Steven Hayes]] | — | — | Third Wave: Acceptance and Commitment... | 355 |
 | 16 | [[Cognitive Defusion]] | — | — | Third Wave: Acceptance and Commitment... | 359 |
@@ -558,7 +558,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron Beck]]
+- [[Aaron-Beck]]
 - [[Albert Ellis]]
 - [[B.F. Skinner]]
 - [[Cognitive Defusion]]
@@ -605,7 +605,7 @@ extraction_summary:
 - [[Rational Emotive Behavior Therapy]]
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
-- [[Aaron Beck]]
+- [[Aaron-Beck]]
 - [[Steven Hayes]]
 - [[Donald Robertson]]
 - [[Dichotomy-of-Control]]
@@ -614,11 +614,11 @@ extraction_summary:
 - [[Eudaimonia]]
 - [[Apatheia]]
 - [[Preferred-Indifferents]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring]]
 - [[Cognitive Distortions]]
 - [[Psychological Flexibility]]
 - [[Mindfulness]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation]]
 
 #### Broader
 

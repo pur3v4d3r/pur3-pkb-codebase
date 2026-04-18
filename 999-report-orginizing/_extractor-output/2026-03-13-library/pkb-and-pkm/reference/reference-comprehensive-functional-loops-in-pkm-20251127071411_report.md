@@ -197,7 +197,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **The Testing Effect Paradox**
-> Multiple-choice testing enhances retention of tested material but can expose students to misinformation through lures; however, feedback boosts positive effects and reduces negative effects by increasing correct responses and reducing intrusions on delayed recall tests. This reveals why [[Active Recall]] with immediate correction is more powerful than passive review.
+> Multiple-choice testing enhances retention of tested material but can expose students to misinformation through lures; however, feedback boosts positive effects and reduces negative effects by increasing correct responses and reducing intrusions on delayed recall tests. This reveals why [[Active-Recall|Active Recall]] with immediate correction is more powerful than passive review.
 
 #### 8. [METHODOLOGY-AND-SOURCES] Untitled *(Line 213)*
 
@@ -525,7 +525,7 @@ extraction_summary:
 
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
-- [[Active Recall]]
+- [[Active-Recall|Active Recall]]
 - [[Atomic-Notes|Atomic Notes]]
 - [[Basal-Ganglia|Basal Ganglia]]
 - [[Chunking]]
@@ -559,7 +559,7 @@ extraction_summary:
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Memory-Consolidation|Memory Consolidation]]
 - [[Mental-Model|Mental Model]]
 - [[Mental-Models|Mental Models]]
@@ -623,7 +623,7 @@ extraction_summary:
 | 18 | [[Zettelkasten]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 19 | [[Progressive-Summarization|Progressive Summarization]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 20 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 21 | [[Active Recall]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 21 | [[Active-Recall|Active Recall]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 22 | [[Ebbinghaus Forgetting Curve]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 23 | [[Testing-Effect|Testing Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 24 | [[Elaborative-Rehearsal|Elaborative Rehearsal]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
@@ -646,10 +646,10 @@ extraction_summary:
 | 41 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
 | 42 | [[Neural-Plasticity|Neural Plasticity]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
 | 43 | [[Synaptic Plasticity]] | — | — | Foundational Concepts: The Retrieval-... | 194 |
-| 44 | [[Long-Term Potentiation]] | — | — | Foundational Concepts: The Retrieval-... | 194 |
+| 44 | [[Long-Term-Potentiation|Long-Term Potentiation]] | — | — | Foundational Concepts: The Retrieval-... | 194 |
 | 45 | [[PKB]] | — | — | Foundational Concepts: The Retrieval-... | 196 |
 | 46 | [[Mental-Model|Mental Model]] | — | — | Foundational Concepts: The Retrieval-... | 196 |
-| 47 | [[Active Recall]] | — | — | Technical Specifications: Spacing Eff... | 209 |
+| 47 | [[Active-Recall|Active Recall]] | — | — | Technical Specifications: Spacing Eff... | 209 |
 | 48 | [[Cognitive-Load|Cognitive Load]] | — | — | Implementation: The Spacing-Retrieval... | 219 |
 | 49 | [[Atomic-Notes|Atomic Notes]] | — | — | Implementation: The Spacing-Retrieval... | 224 |
 | 50 | [[Schema]] | — | — | Implementation: The Spacing-Retrieval... | 225 |
@@ -858,7 +858,7 @@ More serendipitous discoveries possible
 
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
-- [[Active Recall]]
+- [[Active-Recall|Active Recall]]
 - [[Atomic-Notes|Atomic Notes]]
 - [[Basal-Ganglia|Basal Ganglia]]
 - [[Chunking]]
@@ -892,7 +892,7 @@ More serendipitous discoveries possible
 - [[Knowledge-Graph|Knowledge Graph]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Memory-Consolidation|Memory Consolidation]]
 - [[Mental-Model|Mental Model]]
 - [[Mental-Models|Mental Models]]

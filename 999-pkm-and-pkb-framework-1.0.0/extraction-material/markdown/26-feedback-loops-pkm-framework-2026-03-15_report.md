@@ -542,7 +542,7 @@ extraction_summary:
 - [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
 - [[Educational-Data-Mining|Educational Data Mining]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes]]
 - [[Feedback in Learning]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Generation-Effect|Generation Effect]]
@@ -643,7 +643,7 @@ extraction_summary:
 | 49 | [[Iterative Design]] | — | — | Complex Adaptive Systems Dynamics in ... | 297 |
 | 50 | [[Plan-Do-Check-Adapt (PDCA) cycle]] | — | — | Complex Adaptive Systems Dynamics in ... | 297 |
 | 51 | [[W. Edwards Deming]] | — | — | Complex Adaptive Systems Dynamics in ... | 297 |
-| 52 | [[Evergreen Notes]] | — | — | Design Principle 1: Architect Feedbac... | 317 |
+| 52 | [[Evergreen-Notes]] | — | — | Design Principle 1: Architect Feedbac... | 317 |
 | 53 | [[Learning Metabolism Framework]] | — | — | The Learning Metabolism Framework | 368 |
 | 54 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Return-and-Deepen: Calibration Revisited | 401 |
 | 55 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 414 |
@@ -687,7 +687,7 @@ extraction_summary:
 - [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
 - [[Educational-Data-Mining|Educational Data Mining]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes]]
 - [[Feedback in Learning]]
 - [[Formative-Assessment|Formative Assessment]]
 - [[Generation-Effect|Generation Effect]]

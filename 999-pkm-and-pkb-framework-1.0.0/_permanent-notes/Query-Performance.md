@@ -40,7 +40,7 @@ referenced-by-count: 3
 see-also:
   - "[[Core-DataviewJS-Task-Methods]]"
   - "[[TASK-Query-Type-Fundamentals]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -61,4 +61,4 @@ importance: low
 
 - [[Core-DataviewJS-Task-Methods]]
 - [[TASK-Query-Type-Fundamentals]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

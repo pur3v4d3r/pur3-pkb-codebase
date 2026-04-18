@@ -206,7 +206,7 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > **Insights from the Cognitive Psychology-Information Science Link**
 > 
->   * **Elaborative Encoding through Taxonomy.** The psychological concept of **[[Elaborative Encoding]]** (connecting new info to existing info) is operationalized through the Information Science practice of tagging and linking. Every tag added is a distinct neural pathway created for future retrieval.
+>   * **Elaborative Encoding through Taxonomy.** The psychological concept of **[[Elaborative-Encoding|Elaborative Encoding]]** (connecting new info to existing info) is operationalized through the Information Science practice of tagging and linking. Every tag added is a distinct neural pathway created for future retrieval.
 >   * > [\!key-claim]
 >   * **The "Gardener" Archetype.** The user transitions from an "Architect" (planning structures in advance, which is cognitively taxing) to a "Gardener" (allowing structure to emerge bottom-up). This aligns with **[[Emergent Complexity]]**, where local interactions (linking two notes) lead to global order (a comprehensive theory).
 
@@ -328,7 +328,7 @@ extraction_summary:
 - [[Cybernetics]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Educational Theory]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Emergent Complexity]]
 - [[Epistemic Scaffolding]]
 - [[Evolutionary Biology]]
@@ -385,7 +385,7 @@ extraction_summary:
 | 26 | [[Sense-Making]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
 | 27 | [[Cybernetics]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
 | 28 | [[Systems Theory]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
-| 29 | [[Elaborative Encoding]] | — | — | 3.2. Emergent Insights & Connections | 119 |
+| 29 | [[Elaborative-Encoding|Elaborative Encoding]] | — | — | 3.2. Emergent Insights & Connections | 119 |
 | 30 | [[Emergent Complexity]] | — | — | 3.2. Emergent Insights & Connections | 121 |
 | 31 | [[Educational Theory]] | — | — | 4\. 🌉 The Third Bridge: Analysis via ... | 125 |
 | 32 | [[Educational Theory]] | — | — | 4\. 🌉 The Third Bridge: Analysis via ... | 130 |
@@ -482,7 +482,7 @@ $$
 - [[Cybernetics]]
 - [[Distributed-Cognition|Distributed Cognition]]
 - [[Educational Theory]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Emergent Complexity]]
 - [[Epistemic Scaffolding]]
 - [[Evolutionary Biology]]

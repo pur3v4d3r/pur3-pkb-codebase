@@ -176,7 +176,7 @@ extraction_summary:
 #### 7. [ATOMIC-CONCEPT] Untitled *(Line 92)*
 
 > [!atomic-concept] Untitled
-> **Schema Theory** — originally proposed by Bartlett (1932) and theoretically elaborated by Rumelhart (1980) and Anderson & Pearson (1984) — holds that human knowledge is organized in memory as structured, interconnected frameworks called [[schemata]] (singular: schema). Each schema is an abstract knowledge structure that represents a class of similar entities, events, or situations, containing slots for variable information that gets filled by specific contextual instances. Schema theory's central claim is that written text does not carry meaning intrinsically; rather, it provides directions for readers to construct meaning from their pre-existing schemata. Reading comprehension is, at its core, a process of [[schema activation]] followed by [[schema-instantiation|schema instantiation]] — activating the appropriate knowledge framework and then filling its slots with the specific content of the text being read.
+> **Schema Theory** — originally proposed by Bartlett (1932) and theoretically elaborated by Rumelhart (1980) and Anderson & Pearson (1984) — holds that human knowledge is organized in memory as structured, interconnected frameworks called [[schemata]] (singular: schema). Each schema is an abstract knowledge structure that represents a class of similar entities, events, or situations, containing slots for variable information that gets filled by specific contextual instances. Schema theory's central claim is that written text does not carry meaning intrinsically; rather, it provides directions for readers to construct meaning from their pre-existing schemata. Reading comprehension is, at its core, a process of [[Schema-Activation|schema activation]] followed by [[schema-instantiation|schema instantiation]] — activating the appropriate knowledge framework and then filling its slots with the specific content of the text being read.
 
 #### 8. [INSIGHT] Untitled *(Line 99)*
 
@@ -196,7 +196,7 @@ extraction_summary:
 #### 11. [EXAMPLE] Untitled *(Line 130)*
 
 > [!example] Untitled
-> Consider a reader encountering a passage on [[Hebbian plasticity]] in a neuroscience text. A reader with strong prior knowledge of synaptic biology will immediately activate schemata connecting this concept to [[long-term potentiation]], [[NMDA receptor]] dynamics, and the broader [[plasticity-learning nexus]], allowing them to integrate the new passage quickly into an existing, well-elaborated network. A reader without this background must devote working memory resources to the decoding of unfamiliar terminology, leaving fewer resources for the inferential and connective processing that generates deep comprehension. The first reader's PKM note on this passage will therefore be richer, more connected, and more durable — demonstrating the compound interest effect of accumulated domain knowledge.
+> Consider a reader encountering a passage on [[Hebbian plasticity]] in a neuroscience text. A reader with strong prior knowledge of synaptic biology will immediately activate schemata connecting this concept to [[Long-Term-Potentiation|long-term potentiation]], [[NMDA receptor]] dynamics, and the broader [[plasticity-learning nexus]], allowing them to integrate the new passage quickly into an existing, well-elaborated network. A reader without this background must devote working memory resources to the decoding of unfamiliar terminology, leaving fewer resources for the inferential and connective processing that generates deep comprehension. The first reader's PKM note on this passage will therefore be richer, more connected, and more durable — demonstrating the compound interest effect of accumulated domain knowledge.
 
 #### 12. [EVIDENCE] Untitled *(Line 143)*
 
@@ -226,7 +226,7 @@ extraction_summary:
 #### 17. [EXAMPLE] Untitled *(Line 190)*
 
 > [!example] Untitled
-> A reader working through a text on [[Hebbian plasticity]] generates a literature note summarizing Hebb's rule ("neurons that fire together wire together") and a permanent note titled "[[Synaptic Strengthening Requires Temporal Correlation of Pre- and Post-Synaptic Activity]]." This permanent note is linked to an existing note on [[Long-Term Potentiation]], another on [[Computational Models of Learning]], and another on [[Pedagogical Implications of Neural Plasticity]]. The reading encounter thus amplifies three existing nodes in the knowledge graph and creates a new one, expanding the network without disrupting its coherence. A subsequent reading encounter on [[Spike-Timing Dependent Plasticity]] will naturally connect to the same node, building evidence for the broader principle.
+> A reader working through a text on [[Hebbian plasticity]] generates a literature note summarizing Hebb's rule ("neurons that fire together wire together") and a permanent note titled "[[Synaptic Strengthening Requires Temporal Correlation of Pre- and Post-Synaptic Activity]]." This permanent note is linked to an existing note on [[Long-Term-Potentiation|Long-Term Potentiation]], another on [[Computational Models of Learning]], and another on [[Pedagogical Implications of Neural Plasticity]]. The reading encounter thus amplifies three existing nodes in the knowledge graph and creates a new one, expanding the network without disrupting its coherence. A subsequent reading encounter on [[Spike-Timing Dependent Plasticity]] will naturally connect to the same node, building evidence for the broader principle.
 
 #### 18. [DEFINITION] Untitled *(Line 199)*
 
@@ -355,7 +355,7 @@ extraction_summary:
 - [[Adaptive Spaced Repetition Algorithms]]
 - [[Anki]]
 - [[Bartlett]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[CODE framework]]
 - [[Cognitive Bias and System 1 Errors]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -382,7 +382,7 @@ extraction_summary:
 - [[John Locke]]
 - [[Learning Theory]]
 - [[Logseq]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Map of Content]]
 - [[Metacognition]]
 - [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
@@ -428,11 +428,11 @@ extraction_summary:
 - [[interactive model]]
 - [[levels of processing framework]]
 - [[Long-Term-Memory|long-term memory]]
-- [[long-term potentiation]]
+- [[Long-Term-Potentiation|long-term potentiation]]
 - [[plasticity-learning nexus]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[Schema]]
-- [[schema activation]]
+- [[Schema-Activation|schema activation]]
 - [[schema enrichment]]
 - [[schema-instantiation|schema instantiation]]
 - [[schemata]]
@@ -488,7 +488,7 @@ extraction_summary:
 | 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
 | 41 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
 | 42 | [[schemata]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
-| 43 | [[schema activation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
+| 43 | [[Schema-Activation|schema activation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
 | 44 | [[schema-instantiation|schema instantiation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
 | 45 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory: Prior Knowledge as the... | 97 |
 | 46 | [[active reading]] | — | — | Schema Theory: Prior Knowledge as the... | 102 |
@@ -502,7 +502,7 @@ extraction_summary:
 | 54 | [[Desirable-Difficulties|desirable difficulties]] | — | — | Dual Process Theory: System 1 Decodin... | 118 |
 | 55 | [[interactive model]] | — | — | The Interactive Reading Process: Bott... | 128 |
 | 56 | [[Hebbian plasticity]] | — | — | The Interactive Reading Process: Bott... | 131 |
-| 57 | [[long-term potentiation]] | — | — | The Interactive Reading Process: Bott... | 131 |
+| 57 | [[Long-Term-Potentiation|long-term potentiation]] | — | — | The Interactive Reading Process: Bott... | 131 |
 | 58 | [[NMDA receptor]] | — | — | The Interactive Reading Process: Bott... | 131 |
 | 59 | [[plasticity-learning nexus]] | — | — | The Interactive Reading Process: Bott... | 131 |
 | 60 | [[Situation-Model|situation model]] | — | — | Situation Model Construction and the ... | 135 |
@@ -518,12 +518,12 @@ extraction_summary:
 | 70 | [[Logseq]] | — | — | The Zettelkasten: Emergent Knowledge ... | 188 |
 | 71 | [[Hebbian plasticity]] | — | — | The Zettelkasten: Emergent Knowledge ... | 191 |
 | 72 | [[Synaptic Strengthening Requires Temporal Correlation of Pre- and Post-Synaptic Activity]] | — | — | The Zettelkasten: Emergent Knowledge ... | 191 |
-| 73 | [[Long-Term Potentiation]] | — | — | The Zettelkasten: Emergent Knowledge ... | 191 |
+| 73 | [[Long-Term-Potentiation|Long-Term Potentiation]] | — | — | The Zettelkasten: Emergent Knowledge ... | 191 |
 | 74 | [[Computational Models of Learning]] | — | — | The Zettelkasten: Emergent Knowledge ... | 191 |
 | 75 | [[Pedagogical Implications of Neural Plasticity]] | — | — | The Zettelkasten: Emergent Knowledge ... | 191 |
 | 76 | [[Spike-Timing Dependent Plasticity]] | — | — | The Zettelkasten: Emergent Knowledge ... | 191 |
 | 77 | [[Tiago Forte]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
-| 78 | [[Building a Second Brain]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
+| 78 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
 | 79 | [[CODE framework]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
 | 80 | [[PARA-Method|PARA method]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
 | 81 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
@@ -598,7 +598,7 @@ extraction_summary:
 - [[Adaptive Spaced Repetition Algorithms]]
 - [[Anki]]
 - [[Bartlett]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[CODE framework]]
 - [[Cognitive Bias and System 1 Errors]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -625,7 +625,7 @@ extraction_summary:
 - [[John Locke]]
 - [[Learning Theory]]
 - [[Logseq]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Map of Content]]
 - [[Metacognition]]
 - [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
@@ -671,11 +671,11 @@ extraction_summary:
 - [[interactive model]]
 - [[levels of processing framework]]
 - [[Long-Term-Memory|long-term memory]]
-- [[long-term potentiation]]
+- [[Long-Term-Potentiation|long-term potentiation]]
 - [[plasticity-learning nexus]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[Schema]]
-- [[schema activation]]
+- [[Schema-Activation|schema activation]]
 - [[schema enrichment]]
 - [[schema-instantiation|schema instantiation]]
 - [[schemata]]
@@ -692,11 +692,11 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Dual-Process-Theory|Dual Process Theory]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[Progressive-Summarization|Progressive Summarization]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Retrieval-Practice|Retrieval Practice]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Metacognition]]
 - [[Working-Memory|Working Memory]]
 - [[Long-Term-Memory|Long-Term Memory]]

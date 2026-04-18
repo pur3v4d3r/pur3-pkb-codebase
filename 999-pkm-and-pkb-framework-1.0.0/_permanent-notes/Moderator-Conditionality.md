@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -286,6 +286,26 @@ importance: high
 - [[The-Integration-Paradox|The-Integration-Paradox]]
 - [[Autonomous-Motivation-vs.-Controlled-Motivation|Autonomous-Motivation-vs.-Controlled-Motivation]]
 
+**Related concepts** *(from [[self-determination-theory-dialectical-re-examination-2026-03-19]])*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]]
+
+**Cross-report connections** *(from [[self-determination-theory-dialectical-re-examination-2026-03-19]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Undermining-Effect|Undermining-Effect]]
+- [[Internalization-Continuum|Internalization-Continuum]]
+- [[The-Integration-Paradox|The-Integration-Paradox]]
+- [[Autonomous-Motivation-vs.-Controlled-Motivation|Autonomous-Motivation-vs.-Controlled-Motivation]]
+
+**Cross-report connections** *(from [[self-determination-theory-dialectical-re-examination-2026-03-19]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Undermining-Effect|Undermining-Effect]]
+- [[Internalization-Continuum|Internalization-Continuum]]
+- [[The-Integration-Paradox|The-Integration-Paradox]]
+- [[Autonomous-Motivation-vs.-Controlled-Motivation|Autonomous-Motivation-vs.-Controlled-Motivation]]
+
+
+
+
 
 
 ## References
@@ -325,6 +345,72 @@ importance: high
 - **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: Review of SDT applications to educational practice, including the optimal challenge principle and autonomy-supportive teaching. Useful for Phase III's practical challenge and for connecting SDT theory to the classroom contexts where the theory-practice gap is most visible.
 
 - **Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn? A taxonomy of far transfer. *Psychological Bulletin, 128*(4), 612–637.**: Comprehensive taxonomy of transfer dimensions relevant to Phase VI's FAR transfer architecture. The transfer encoding strategy in this report draws on Barnett and Ceci's analysis of the conditions that enable vs. impede far transfer.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical statement of SDT, introducing the basic needs framework, the internalization continuum, and cognitive evaluation theory. Essential reading for the received view this report examines. Particularly valuable for Phases I and II; the teleological elements of OIT are most visible in this original formulation.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The large-scale meta-analysis of 128 studies supporting the undermining effect. Central to Phase III's empirical challenge. Should be read alongside Cameron & Pierce's competing analyses for a complete view of the meta-analytic debate.
+
+- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423.**: The main competing meta-analysis challenging Deci et al.'s undermining effect claims. Cameron and Pierce found that verbal rewards enhance and tangible rewards do not reliably undermine intrinsic motivation. The methodological dispute between this work and Deci et al. (1999) constitutes one of motivational psychology's most productive empirical controversies and is central to Phase III's empirical challenge.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford.**: The comprehensive theoretical synthesis of SDT after four decades of development, covering all six mini-theories. The most authoritative current statement of the theory. Includes substantial treatment of cross-cultural research, need frustration, and relationship motivation theory not present in the 1985 formulation.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology, 84*(1), 97–110.**: Critical cross-cultural study demonstrating that autonomous functioning predicts well-being in both individualist and collectivist cultures, but that autonomy is expressed through relationally embedded decision-making in collectivist contexts. Central to Phase III's cross-cultural challenge and Phase V's reconceptualization of autonomy as volitional congruence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical statement of the need frustration vs. need absence distinction, establishing the [[Satisfaction-Frustration-Asymmetry]]. This paper's contribution is directly relevant to the reconstructed framework's emphasis on preventing need frustration as a baseline design principle.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical examination of how conditional positive regard from parents produces introjected regulation and contingent self-worth in children. Supports the distinction between introjection (taking in but not endorsing) and identification (genuine valuing). Relevant to the philosophical challenge regarding the measurement of regulatory quality.
+
+- **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: Introduces the self-concordance model as an extension of SDT's logic to goal pursuit, demonstrating that attaining self-concordant goals produces well-being gains that attaining non-concordant goals does not. Relevant to the Phase IV discussion of alternative frameworks and the distinction between goal attainment quantity and quality.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Behavioral coding study of autonomy-supportive teacher behaviors, providing empirical grounding for the practical challenge raised in Phase III regarding the implementation difficulty of autonomy-supportive pedagogy. Relevant to the gap between theoretical prescription and observed teacher behavior.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: Review of SDT applications to educational practice, including the optimal challenge principle and autonomy-supportive teaching. Useful for Phase III's practical challenge and for connecting SDT theory to the classroom contexts where the theory-practice gap is most visible.
+
+- **Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn? A taxonomy of far transfer. *Psychological Bulletin, 128*(4), 612–637.**: Comprehensive taxonomy of transfer dimensions relevant to Phase VI's FAR transfer architecture. The transfer encoding strategy in this report draws on Barnett and Ceci's analysis of the conditions that enable vs. impede far transfer.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical statement of SDT, introducing the basic needs framework, the internalization continuum, and cognitive evaluation theory. Essential reading for the received view this report examines. Particularly valuable for Phases I and II; the teleological elements of OIT are most visible in this original formulation.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668.**: The large-scale meta-analysis of 128 studies supporting the undermining effect. Central to Phase III's empirical challenge. Should be read alongside Cameron & Pierce's competing analyses for a complete view of the meta-analytic debate.
+
+- **Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423.**: The main competing meta-analysis challenging Deci et al.'s undermining effect claims. Cameron and Pierce found that verbal rewards enhance and tangible rewards do not reliably undermine intrinsic motivation. The methodological dispute between this work and Deci et al. (1999) constitutes one of motivational psychology's most productive empirical controversies and is central to Phase III's empirical challenge.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford.**: The comprehensive theoretical synthesis of SDT after four decades of development, covering all six mini-theories. The most authoritative current statement of the theory. Includes substantial treatment of cross-cultural research, need frustration, and relationship motivation theory not present in the 1985 formulation.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology, 84*(1), 97–110.**: Critical cross-cultural study demonstrating that autonomous functioning predicts well-being in both individualist and collectivist cultures, but that autonomy is expressed through relationally embedded decision-making in collectivist contexts. Central to Phase III's cross-cultural challenge and Phase V's reconceptualization of autonomy as volitional congruence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical statement of the need frustration vs. need absence distinction, establishing the [[Satisfaction-Frustration-Asymmetry]]. This paper's contribution is directly relevant to the reconstructed framework's emphasis on preventing need frustration as a baseline design principle.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical examination of how conditional positive regard from parents produces introjected regulation and contingent self-worth in children. Supports the distinction between introjection (taking in but not endorsing) and identification (genuine valuing). Relevant to the philosophical challenge regarding the measurement of regulatory quality.
+
+- **Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. *Journal of Personality and Social Psychology, 76*(3), 482–497.**: Introduces the self-concordance model as an extension of SDT's logic to goal pursuit, demonstrating that attaining self-concordant goals produces well-being gains that attaining non-concordant goals does not. Relevant to the Phase IV discussion of alternative frameworks and the distinction between goal attainment quantity and quality.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Behavioral coding study of autonomy-supportive teacher behaviors, providing empirical grounding for the practical challenge raised in Phase III regarding the implementation difficulty of autonomy-supportive pedagogy. Relevant to the gap between theoretical prescription and observed teacher behavior.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: Review of SDT applications to educational practice, including the optimal challenge principle and autonomy-supportive teaching. Useful for Phase III's practical challenge and for connecting SDT theory to the classroom contexts where the theory-practice gap is most visible.
+
+- **Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn? A taxonomy of far transfer. *Psychological Bulletin, 128*(4), 612–637.**: Comprehensive taxonomy of transfer dimensions relevant to Phase VI's FAR transfer architecture. The transfer encoding strategy in this report draws on Barnett and Ceci's analysis of the conditions that enable vs. impede far transfer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

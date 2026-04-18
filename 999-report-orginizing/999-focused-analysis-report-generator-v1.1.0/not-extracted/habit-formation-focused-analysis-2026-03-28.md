@@ -753,7 +753,7 @@ What makes these insights transferable? The structural principles identified her
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Habit-Breaking — The Inhibition Architecture]]
+> > [!topic-idea] [[Habit-Breaking-—-The-Inhibition-Architecture]]
 > > The analysis focused on habit formation; this expansion would address habit breaking from the same mechanistic framework. The key question: since established habits persist despite changed goals (devaluation paradigm), what interventions actually work? Evidence from Wood's contextual disruption strategies, Acceptance and Commitment Therapy's defusion techniques, and Implementation Intentions research on "if-then" planning. The deeper question concerns whether competing habit formation is structurally necessary for durable habit breaking.
 > >
 > > **Connection to This Report:** Direct extension of the devaluation asymmetry and the parallel systems problem identified in Phase III and IV.

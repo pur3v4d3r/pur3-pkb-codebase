@@ -231,7 +231,7 @@ The psychological concepts you identified map directly onto system architecture,
 
 **Cognitive Processing Constraints:**
 
-[[Working-Memory]], [[Long-Term-Memory]], [[Long-Term Working Memory]], and [[Cognitive-Load-Theory]] establish the fundamental constraints that every design decision must respect. Systems must reduce extraneous load, optimize intrinsic load through appropriate chunking, and maximize germane load devoted to meaningful schema construction. [[Cognitive Load Management]] becomes the central organizing principle ensuring that system complexity never exceeds users' cognitive resources.
+[[Working-Memory]], [[Long-Term-Memory]], [[Long-Term-Working-Memory]], and [[Cognitive-Load-Theory]] establish the fundamental constraints that every design decision must respect. Systems must reduce extraneous load, optimize intrinsic load through appropriate chunking, and maximize germane load devoted to meaningful schema construction. [[Cognitive Load Management]] becomes the central organizing principle ensuring that system complexity never exceeds users' cognitive resources.
 
 **Learning Architecture:**
 
@@ -301,7 +301,7 @@ The goal is not creating perfect systems but building **psychological architectu
 ---
 
 > [!connections-and-links]
-> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology]] (explaining how thinking works), [[Educational-Psychology]] (establishing how learning happens), [[Instructional-Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management]] (establishing organizational knowledge practices), [[Human-Computer Interaction]] (ensuring usable interfaces), and [[philosophy-of-mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
+> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology]] (explaining how thinking works), [[Educational-Psychology]] (establishing how learning happens), [[Instructional-Design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management]] (establishing organizational knowledge practices), [[Human-Computer-Interaction]] (ensuring usable interfaces), and [[philosophy-of-mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
 
 ---
 

@@ -546,7 +546,7 @@ extraction_summary:
 - [[Learning-Journal|Learning Journal]]
 - [[Metacognition]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Metacognitive Reflection]]
+- [[Metacognitive-Reflection]]
 - [[Narrative as Epistemic Tool — Story, Meaning, and the PKB]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Prediction-Error]]
@@ -582,7 +582,7 @@ extraction_summary:
 | 14 | [[Felt-Difficulty|Felt Difficulty]] | — | — | How Reflective Inquiry Works at the C... | 251 |
 | 15 | [[Prediction-Error]] | — | — | How Reflective Inquiry Works at the C... | 251 |
 | 16 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | The Tacit-Explicit Conversion Mechanism | 271 |
-| 17 | [[Metacognitive Reflection]] | — | — | Return-and-Deepen: Metacognitive Refl... | 292 |
+| 17 | [[Metacognitive-Reflection]] | — | — | Return-and-Deepen: Metacognitive Refl... | 292 |
 | 18 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Return-and-Deepen: Metacognitive Refl... | 294 |
 | 19 | [[Learning-Journal|Learning Journal]] | — | — | Design Principle 4: The Learning Jour... | 346 |
 | 20 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Return-and-Deepen: The Pragmatist PKB... | 411 |
@@ -625,7 +625,7 @@ extraction_summary:
 - [[Learning-Journal|Learning Journal]]
 - [[Metacognition]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Metacognitive Reflection]]
+- [[Metacognitive-Reflection]]
 - [[Narrative as Epistemic Tool — Story, Meaning, and the PKB]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Prediction-Error]]
@@ -673,7 +673,7 @@ extraction_summary:
 - [[Writing-to-Learn|Writing to Learn]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[Encoding-Specificity|Encoding Specificity]]
-- [[Metacognitive Reflection]]
+- [[Metacognitive-Reflection]]
 - [[Learning-Journal|Learning Journal]]
 - [[Experience Capture]]
 - [[Experience-Processing-Architecture|Experience Processing Architecture]]

@@ -3254,7 +3254,7 @@ Educational research on argument mapping, structured debate, and explicit reason
 
 ### Evidence for Constructivist Learning
 
-Research on [[Active Learning]]—learning through doing rather than passive listening—consistently shows superior retention, transfer, and deep understanding compared to passive instruction. Educational psychology has essentially confirmed what [[Piaget]] and [[Vygotsky]] theorized.
+Research on [[Active-Learning]]—learning through doing rather than passive listening—consistently shows superior retention, transfer, and deep understanding compared to passive instruction. Educational psychology has essentially confirmed what [[Piaget]] and [[Vygotsky]] theorized.
 
 Studies of the [[Generation-Effect]]—you remember and understand better what you generate yourself versus what you passively receive—align perfectly with constructivist principles about building knowledge actively.
 

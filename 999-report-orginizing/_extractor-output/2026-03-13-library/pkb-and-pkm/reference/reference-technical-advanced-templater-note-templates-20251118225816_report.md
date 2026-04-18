@@ -685,7 +685,7 @@ extraction_summary:
 - [[Advanced Topic 2]]
 - [[Anki]]
 - [[Architecture Pattern]]
-- [[Architecture Patterns]]
+- [[Architecture-Patterns|Architecture Patterns]]
 - [[Argument-Mapping|Argument Mapping]]
 - [[Atomic-Habits|Atomic Habits]]
 - [[Author-Name|Author Name]]
@@ -783,10 +783,10 @@ extraction_summary:
 - [[Tasks]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]
-- [[Technology Stack]]
+- [[Technology-Stack|Technology Stack]]
 - [[The-Power-of-Habit|The Power of Habit]]
 - [[Theoretical Concept]]
-- [[Theoretical Framework]]
+- [[Theoretical-Framework|Theoretical Framework]]
 - [[Theory 1]]
 - [[Theory 2]]
 - [[Theory Name]]
@@ -867,9 +867,9 @@ extraction_summary:
 | 49 | [[Tasks]] | — | — | Validated Multi-Field User Input Coll... | 1584 |
 | 50 | [[Author-Name|Author Name]] | — | — | Adaptive Content Scaffold Builder | 1681 |
 | 51 | [[Key-Concepts|Key Concepts]] | — | — | Adaptive Content Scaffold Builder | 1681 |
-| 52 | [[Theoretical Framework]] | — | — | Adaptive Content Scaffold Builder | 1681 |
-| 53 | [[Architecture Patterns]] | — | — | Adaptive Content Scaffold Builder | 1683 |
-| 54 | [[Technology Stack]] | — | — | Adaptive Content Scaffold Builder | 1683 |
+| 52 | [[Theoretical-Framework|Theoretical Framework]] | — | — | Adaptive Content Scaffold Builder | 1681 |
+| 53 | [[Architecture-Patterns|Architecture Patterns]] | — | — | Adaptive Content Scaffold Builder | 1683 |
+| 54 | [[Technology-Stack|Technology Stack]] | — | — | Adaptive Content Scaffold Builder | 1683 |
 | 55 | [[Dependencies]] | — | — | Adaptive Content Scaffold Builder | 1683 |
 | 56 | [[Concept-1|Concept 1]] | — | — | Adaptive Content Scaffold Builder | 1685 |
 | 57 | [[Concept-2|Concept 2]] | — | — | Adaptive Content Scaffold Builder | 1685 |
@@ -2106,7 +2106,7 @@ graph LR
 - [[Advanced Topic 2]]
 - [[Anki]]
 - [[Architecture Pattern]]
-- [[Architecture Patterns]]
+- [[Architecture-Patterns|Architecture Patterns]]
 - [[Argument-Mapping|Argument Mapping]]
 - [[Atomic-Habits|Atomic Habits]]
 - [[Author-Name|Author Name]]
@@ -2204,10 +2204,10 @@ graph LR
 - [[Tasks]]
 - [[Tasks-Plugin|Tasks Plugin]]
 - [[Technology Concept]]
-- [[Technology Stack]]
+- [[Technology-Stack|Technology Stack]]
 - [[The-Power-of-Habit|The Power of Habit]]
 - [[Theoretical Concept]]
-- [[Theoretical Framework]]
+- [[Theoretical-Framework|Theoretical Framework]]
 - [[Theory 1]]
 - [[Theory 2]]
 - [[Theory Name]]

@@ -76,4 +76,4 @@ importance: medium
 - [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]
 - [[Zimmerman's-Cyclical-SRL-Model]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

@@ -116,7 +116,7 @@ Working memory serves as your cognitive workspace—the mental "scratch pad" whe
 - **Episodic Buffer**: Integrates information from different modalities with [[Long-Term-Memory]]
 - **Central Executive**: Directs attention and coordinates the other components
 
-The relationship with [[Long-Term Working Memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to chunk information efficiently, effectively expanding working memory capacity within their domain of expertise.
+The relationship with [[Long-Term-Working-Memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to chunk information efficiently, effectively expanding working memory capacity within their domain of expertise.
 
 ### Cognitive Load Theory
 
@@ -181,7 +181,7 @@ Executive functions are not merely relevant for academic success—they predict 
 > [!methodology-and-sources]
 > **Evidence-Based Executive Function Training**
 > 1. **[[Deliberate-Practice]]**: Focused, challenging practice with immediate feedback strengthens all three EF components
-> 2. **[[Metacognitive Reflection]]**: Regular self-monitoring and strategy adjustment trains executive control
+> 2. **[[Metacognitive-Reflection]]**: Regular self-monitoring and strategy adjustment trains executive control
 > 3. **Physical Exercise**: Aerobic activity enhances prefrontal cortex function and executive capacity
 > 4. **Mindfulness Meditation**: Strengthens attentional control and cognitive flexibility
 > 5. **Challenging Cognitive Tasks**: Novel, complex activities (learning instruments, languages, programming) build executive reserves
@@ -517,7 +517,7 @@ Understanding cognitive strategies, their appropriate application contexts, and 
 
 ## 3.3 Metacognitive Regulation
 
-[[Metacognitive-Regulation]] involves three cyclical phases: [[Metacognitive Planning]], monitoring/control, and [[Metacognitive Reflection]].
+[[Metacognitive-Regulation]] involves three cyclical phases: [[Metacognitive Planning]], monitoring/control, and [[Metacognitive-Reflection]].
 
 ### Planning Phase
 
@@ -572,7 +572,7 @@ Metacognition involves cognitive self-awareness and self-regulation of cognitive
 ### Reflection Phase
 
 > [!definition]
-> **[[Metacognitive Reflection]]**:: Post-learning evaluation of outcomes, strategy effectiveness, and lessons for future learning
+> **[[Metacognitive-Reflection]]**:: Post-learning evaluation of outcomes, strategy effectiveness, and lessons for future learning
 
 [[Structured Reflection]] using frameworks like [[Reflective-Observation]] transforms experience into learning by making tacit lessons explicit.
 
@@ -1040,7 +1040,7 @@ Research on expertise reveals consistent patterns distinguishing experts from no
 | **Knowledge Structure** | Isolated facts, surface features | Rich [[Schema|schemas]], deep principles |
 | **Problem Representation** | Concrete, formula-focused | Abstract, conceptual patterns |
 | **Pattern Recognition** | Limited, effortful | Rapid, intuitive |
-| **[[Working-Memory]]** | Standard capacity (4±1 chunks) | Extended capacity through [[Long-Term Working Memory|domain-specific schemas]] |
+| **[[Working-Memory]]** | Standard capacity (4±1 chunks) | Extended capacity through [[Long-Term-Working-Memory|domain-specific schemas]] |
 | **Metacognitive Accuracy** | Poor calibration, overconfidence early ([[Dunning-Kruger-Effect]]) | Well-calibrated, accurate self-assessment |
 | **Strategy Use** | Limited repertoire, inflexible | Extensive, adaptively deployed |
 | **Error Detection** | External feedback required | Self-monitoring, early error detection |
@@ -1717,7 +1717,7 @@ Additional concepts to introduce as wiki-links:
 - [[Cognitive-Apprenticeship]]
 - [[Mental-Models]]
 - [[Progressive-Summarization]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes]]
 - [[Atomic-Notes]]
 - [[Concept Mapping]]
 - [[Elaborative-Interrogation]]

@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Permanent Notes]]
+> - **Key-Term**:: [[Permanent-Notes]]
 > - **Definition**::
 
 

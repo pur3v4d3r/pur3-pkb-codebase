@@ -157,7 +157,7 @@ extraction_summary:
 > 
 > The central thesis is that interface-specific features like **Custom Instructions** and **Contextual Memory** represent two distinct but complementary pillars of this new paradigm. We will analyze Custom Instructions as a form of **static, persistent context**: a user-defined "prime directive" that is injected into every interaction to ensure consistent persona, tone, and formatting. In contrast, we will explore Contextual Memory as a form of **dynamic, persistent context**: an adaptive mechanism, likely powered by [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]], that selectively retrieves and injects relevant facts from past conversations, enabling true long-term personalization and task continuity.
 > 
-> We will examine the underlying mechanisms of these features, from simple prompt prepending to sophisticated vector database retrieval. Drawing on recent research in [[Human-Computer Interaction (HCI)]], we will also analyze the observational evidence of their efficacy, including user "mental models" and the profound privacy and control challenges they introduce. Ultimately, this analysis frames these features not as minor conveniences, but as the foundational tools for transforming LLMs from stateless "oracles" into stateful, personalized collaborators.
+> We will examine the underlying mechanisms of these features, from simple prompt prepending to sophisticated vector database retrieval. Drawing on recent research in [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]], we will also analyze the observational evidence of their efficacy, including user "mental models" and the profound privacy and control challenges they introduce. Ultimately, this analysis frames these features not as minor conveniences, but as the foundational tools for transforming LLMs from stateless "oracles" into stateful, personalized collaborators.
 
 #### 4. [QUOTE] Untitled *(Line 54)*
 
@@ -289,7 +289,7 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > The principles discussed here are the technical bedrock of [[Personalization and Customization of LLM Responses]]. This work moves the AI from a generic "tool" to a domain-specific "agent". This has profound connections to:
 > 
->   - **[[Human-Computer Interaction (HCI)]]:** We are moving from "direct manipulation" (GUIs) to "delegated-action" (agentic interfaces). Instead of *doing* a task, we are *describing* the task and our *preferences* about its execution.
+>   - **[[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]:** We are moving from "direct manipulation" (GUIs) to "delegated-action" (agentic interfaces). Instead of *doing* a task, we are *describing* the task and our *preferences* about its execution.
 >   - **[[Cognitive Augmentation]]:** The AI, now equipped with a persistent memory of our goals and knowledge, becomes a true "Exocortex" or "Digital Amanuensis"—an extension of our own mind, capable of tracking complex projects and retrieving "our" information on demand.
 >   - **[[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]]:** An AI with memory can function as an active, conversational partner within a Personal Knowledge Base system like Obsidian. It can "read" your notes (via RAG) and "remember" your "Custom Instructions" (your intellectual goals), proactively suggesting connections or drafting content in your specific style.
 
@@ -367,7 +367,7 @@ extraction_summary:
 > [!question] Untitled
 > **What is one question I still have after reading this? Where might I look for an answer?**
 > 
->   - This article explains *how* RAG-based memory *should* work, but it doesn't show me the *actual interface* for controlling it. My question is: "What are the current *best-in-class* UI/UX designs for managing an LLM's memory?" I would look for an answer in the proceedings of a major [[Human-Computer Interaction]] conference (like CHI or UIST) or in deep-dive product teardowns from designers on platforms like Medium or Substack.
+>   - This article explains *how* RAG-based memory *should* work, but it doesn't show me the *actual interface* for controlling it. My question is: "What are the current *best-in-class* UI/UX designs for managing an LLM's memory?" I would look for an answer in the proceedings of a major [[Human-Computer-Interaction|Human-Computer Interaction]] conference (like CHI or UIST) or in deep-dive product teardowns from designers on platforms like Medium or Substack.
 
 #### 25. [CITE] Untitled *(Line 401)*
 
@@ -385,8 +385,8 @@ extraction_summary:
 
 - [[Cognitive Augmentation]]
 - [[Context Engineering]]
-- [[Human-Computer Interaction]]
-- [[Human-Computer Interaction (HCI)]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]
 - [[Large-Language-Models|Large Language Models]]
 - [[Large-Language-Models|Large Language Models (LLMs)]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]]
@@ -399,12 +399,12 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | Document Start | 48 |
-| 2 | [[Human-Computer Interaction (HCI)]] | — | — | Document Start | 50 |
+| 2 | [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]] | — | — | Document Start | 50 |
 | 3 | [[Large-Language-Models|Large Language Models (LLMs)]] | — | — | 1.0 📜Introduction | 60 |
 | 4 | [[Large-Language-Models|Large Language Models]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 126 |
 | 5 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | 4.3 Mechanism 3: Contextual Memory (D... | 247 |
 | 6 | [[Personalization and Customization of LLM Responses]] | — | — | 6\. 🌍Broader Implications and Signifi... | 312 |
-| 7 | [[Human-Computer Interaction (HCI)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 314 |
+| 7 | [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 314 |
 | 8 | [[Cognitive Augmentation]] | — | — | 6\. 🌍Broader Implications and Signifi... | 315 |
 | 9 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 316 |
 | 10 | [[Large-Language-Models|Large Language Models]] | — | — | 8. 🦕Conclusion | 358 |
@@ -412,7 +412,7 @@ extraction_summary:
 | 12 | [[Context Engineering]] | — | — | 9. 🧠Key Questions for Active Reading ... | 389 |
 | 13 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 390 |
 | 14 | [[Stateless vs. Stateful AI]] | — | — | 9. 🧠Key Questions for Active Reading ... | 391 |
-| 15 | [[Human-Computer Interaction]] | — | — | 9. 🧠Key Questions for Active Reading ... | 397 |
+| 15 | [[Human-Computer-Interaction|Human-Computer Interaction]] | — | — | 9. 🧠Key Questions for Active Reading ... | 397 |
 
 ---
 
@@ -480,8 +480,8 @@ extraction_summary:
 
 - [[Cognitive Augmentation]]
 - [[Context Engineering]]
-- [[Human-Computer Interaction]]
-- [[Human-Computer Interaction (HCI)]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]
 - [[Large-Language-Models|Large Language Models]]
 - [[Large-Language-Models|Large Language Models (LLMs)]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]]

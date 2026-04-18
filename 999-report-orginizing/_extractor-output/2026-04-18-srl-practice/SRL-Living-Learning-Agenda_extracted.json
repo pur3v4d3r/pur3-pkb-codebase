@@ -1,0 +1,1116 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:35.130355",
+    "source_file": "SRL-Living-Learning-Agenda.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\srl-practice\\srl-system\\SRL-Living-Learning-Agenda.md",
+    "source_file_size_bytes": 7530,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "type": "srl-learning-agenda",
+      "status": "evergreen",
+      "created": "{{date}}",
+      "updated": "{{date}}",
+      "tags": [
+        "srl-system",
+        "learning-agenda",
+        "forward-planning",
+        "handoff-mechanism",
+        "living-document"
+      ],
+      "aliases": [
+        "Learning Agenda",
+        "SRL Forward Planning"
+      ]
+    },
+    "word_count": 940,
+    "character_count": 6651,
+    "line_count": 175,
+    "heading_count": 16
+  },
+  "extraction_summary": {
+    "total_items_extracted": 89,
+    "by_type": {
+      "headings": 16,
+      "callouts": 3,
+      "wiki_links": 22,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 10,
+      "code_blocks": 0,
+      "tables": 4,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 34,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "📋 SRL Living Learning Agenda",
+      "anchor": "srl-living-learning-agenda",
+      "line_number": 21,
+      "source": "SRL-Living-Learning-Agenda.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯 Current Distal Goals",
+          "anchor": "current-distal-goals",
+          "line_number": 31,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Primary Learning Domain: ___",
+              "anchor": "primary-learning-domain",
+              "line_number": 35,
+              "source": "SRL-Living-Learning-Agenda.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Secondary Domain (if active): ___",
+              "anchor": "secondary-domain-if-active",
+              "line_number": 42,
+              "source": "SRL-Living-Learning-Agenda.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📚 Active Reading Queue",
+          "anchor": "active-reading-queue",
+          "line_number": 50,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "❓ Emerging Questions *(from Self-Reflection outputs)*",
+          "anchor": "emerging-questions-from-self-reflection-outputs",
+          "line_number": 62,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🛠️ Strategy Development Log",
+          "anchor": "strategy-development-log",
+          "line_number": 83,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Current Best Strategies by Text Type",
+              "anchor": "current-best-strategies-by-text-type",
+              "line_number": 93,
+              "source": "SRL-Living-Learning-Agenda.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔄 Active Adaptive Inferences *(Carry-Forward Queue)*",
+          "anchor": "active-adaptive-inferences-carry-forward-queue",
+          "line_number": 109,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "High Priority (Implement Next Session)",
+              "anchor": "high-priority-implement-next-session",
+              "line_number": 113,
+              "source": "SRL-Living-Learning-Agenda.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Queued (Implement When Relevant)",
+              "anchor": "queued-implement-when-relevant",
+              "line_number": 118,
+              "source": "SRL-Living-Learning-Agenda.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Recently Implemented (Evaluate Effectiveness)",
+              "anchor": "recently-implemented-evaluate-effectiveness",
+              "line_number": 123,
+              "source": "SRL-Living-Learning-Agenda.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📈 Progressive Goal Log",
+          "anchor": "progressive-goal-log",
+          "line_number": 131,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🏷️ Strategy Tags Vocabulary",
+          "anchor": "strategy-tags-vocabulary",
+          "line_number": 143,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔗 PKB Gap Registry",
+          "anchor": "pkb-gap-registry",
+          "line_number": 162,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📅 Upcoming Meta-Reviews",
+          "anchor": "upcoming-meta-reviews",
+          "line_number": 173,
+          "source": "SRL-Living-Learning-Agenda.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Purpose",
+        "body": "This is the **physical instantiation of the [[Zimmerman's-Cyclical-SRL-Model|SRL feedback loop]]** — the node where the outputs of [[Self-Reflection-Phase|Self-Reflection]] become the inputs of the next [[Forethought-Phase|Forethought Phase]]. Open this note BEFORE the Forethought template at the start of every reading session. Update it AFTER every Self-Reflection session. See [[Adaptive-Inference]] and [[Strategic-Planning]].",
+        "line_number": 23,
+        "source": "SRL-Living-Learning-Agenda.md",
+        "char_start": 550,
+        "char_end": 1006
+      },
+      {
+        "type": "warning",
+        "title": "Consult Before Every Forethought Session",
+        "body": "The value of this document depends entirely on it being *actively consulted*, not merely maintained. If you skip reviewing this before a session, the feedback loop is structurally open.",
+        "line_number": 26,
+        "source": "SRL-Living-Learning-Agenda.md",
+        "char_start": 1007,
+        "char_end": 1249
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**PKB Connections:**\n- [[Zimmerman's-Cyclical-SRL-Model]] — This note IS the feedback loop, instantiated as a PKB document\n- [[Forethought-Phase]] — Consult this note at the START of every Forethought session\n- [[Self-Reflection-Phase]] — Update this note at the END of every Self-Reflection session\n- [[Adaptive-Inference]] — The carry-forward queue holds active adaptive inferences\n- [[Strategic-Planning]] — The strategy development log tracks strategic knowledge growth\n- [[Metacognitive-Regulation]] — This note externalizes the regulation function\n- [[Deliberate-Practice]] — The progressive goal log demonstrates the deliberate practice trajectory\n- [[SRL-Calibration-Log]] — Companion tracking document for calibration metrics",
+        "line_number": 183,
+        "source": "SRL-Living-Learning-Agenda.md",
+        "char_start": 6387,
+        "char_end": 7167
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": "SRL feedback loop",
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model|SRL feedback loop]]",
+        "line_number": 24,
+        "section": "📋 SRL Living Learning Agenda",
+        "context_line": "> This is the **physical instantiation of the [[Zimmerman's-Cyclical-SRL-Model|SRL feedback loop]]** — the node where the outputs of [[Self-Reflection-Phase|Self-Reflection]] become the inputs of the next [[Forethought-Phase|Forethought Phase]]. Open this note BEFORE the Forethought template at the start of every reading session. Update it AFTER every Self-Reflection session. See [[Adaptive-Inference]] and [[Strategic-Planning]].",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": "Self-Reflection",
+        "full_match": "[[Self-Reflection-Phase|Self-Reflection]]",
+        "line_number": 24,
+        "section": "📋 SRL Living Learning Agenda",
+        "context_line": "> This is the **physical instantiation of the [[Zimmerman's-Cyclical-SRL-Model|SRL feedback loop]]** — the node where the outputs of [[Self-Reflection-Phase|Self-Reflection]] become the inputs of the next [[Forethought-Phase|Forethought Phase]]. Open this note BEFORE the Forethought template at the start of every reading session. Update it AFTER every Self-Reflection session. See [[Adaptive-Inference]] and [[Strategic-Planning]].",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": "Forethought Phase",
+        "full_match": "[[Forethought-Phase|Forethought Phase]]",
+        "line_number": 24,
+        "section": "📋 SRL Living Learning Agenda",
+        "context_line": "> This is the **physical instantiation of the [[Zimmerman's-Cyclical-SRL-Model|SRL feedback loop]]** — the node where the outputs of [[Self-Reflection-Phase|Self-Reflection]] become the inputs of the next [[Forethought-Phase|Forethought Phase]]. Open this note BEFORE the Forethought template at the start of every reading session. Update it AFTER every Self-Reflection session. See [[Adaptive-Inference]] and [[Strategic-Planning]].",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Adaptive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adaptive-Inference]]",
+        "line_number": 24,
+        "section": "📋 SRL Living Learning Agenda",
+        "context_line": "> This is the **physical instantiation of the [[Zimmerman's-Cyclical-SRL-Model|SRL feedback loop]]** — the node where the outputs of [[Self-Reflection-Phase|Self-Reflection]] become the inputs of the next [[Forethought-Phase|Forethought Phase]]. Open this note BEFORE the Forethought template at the start of every reading session. Update it AFTER every Self-Reflection session. See [[Adaptive-Inference]] and [[Strategic-Planning]].",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Strategic-Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Strategic-Planning]]",
+        "line_number": 24,
+        "section": "📋 SRL Living Learning Agenda",
+        "context_line": "> This is the **physical instantiation of the [[Zimmerman's-Cyclical-SRL-Model|SRL feedback loop]]** — the node where the outputs of [[Self-Reflection-Phase|Self-Reflection]] become the inputs of the next [[Forethought-Phase|Forethought Phase]]. Open this note BEFORE the Forethought template at the start of every reading session. Update it AFTER every Self-Reflection session. See [[Adaptive-Inference]] and [[Strategic-Planning]].",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 33,
+        "section": "🎯 Current Distal Goals",
+        "context_line": "> *What capabilities am I building through my current reading series? These are the broader goals that individual session goals serve. See [[Achievement-Goal-Theory]] and [[Mastery-Goal-Orientation]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Mastery-Goal-Orientation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Goal-Orientation]]",
+        "line_number": 33,
+        "section": "🎯 Current Distal Goals",
+        "context_line": "> *What capabilities am I building through my current reading series? These are the broader goals that individual session goals serve. See [[Achievement-Goal-Theory]] and [[Mastery-Goal-Orientation]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Prior-Knowledge-Activation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prior-Knowledge-Activation]]",
+        "line_number": 64,
+        "section": "❓ Emerging Questions *(from Self-Reflection outputs)*",
+        "context_line": "> *These are questions generated by previous sessions that should shape upcoming Forethought sessions. Review these when setting comprehension criteria. See [[Prior-Knowledge-Activation]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Metacognitive-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Regulation]]",
+        "line_number": 85,
+        "section": "🛠️ Strategy Development Log",
+        "context_line": "> *What I've learned about how to read this type of material effectively. This is the record of strategy development that accumulates across sessions. See [[Metacognitive-Regulation]] and [[Deliberate-Practice]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 85,
+        "section": "🛠️ Strategy Development Log",
+        "context_line": "> *What I've learned about how to read this type of material effectively. This is the record of strategy development that accumulates across sessions. See [[Metacognitive-Regulation]] and [[Deliberate-Practice]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": "mastery experience",
+        "full_match": "[[Self-Efficacy|mastery experience]]",
+        "line_number": 133,
+        "section": "📈 Progressive Goal Log",
+        "context_line": "> *Tracks the evolution of your process goals across sessions — showing how they've become more specific, ambitious, or refined. This makes the progressive calibration visible, which is itself a motivating [[Self-Efficacy|mastery experience]]. See [[Metacognitive-Calibration]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Metacognitive-Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Calibration]]",
+        "line_number": 133,
+        "section": "📈 Progressive Goal Log",
+        "context_line": "> *Tracks the evolution of your process goals across sessions — showing how they've become more specific, ambitious, or refined. This makes the progressive calibration visible, which is itself a motivating [[Self-Efficacy|mastery experience]]. See [[Metacognitive-Calibration]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Obsidian-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian-Automation]]",
+        "line_number": 145,
+        "section": "🏷️ Strategy Tags Vocabulary",
+        "context_line": "> *A stable vocabulary for tagging strategies in Forethought and Self-Reflection notes. Use in session notes for Dataview queryability. See [[Obsidian-Automation]].*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "SRL-Monthly-Review",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Monthly-Review]]",
+        "line_number": 175,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> *Schedule for periodic [[SRL-Monthly-Review]] sessions.*",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Zimmerman's-Cyclical-SRL-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman's-Cyclical-SRL-Model]]",
+        "line_number": 185,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[Zimmerman's-Cyclical-SRL-Model]] — This note IS the feedback loop, instantiated as a PKB document",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 186,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[Forethought-Phase]] — Consult this note at the START of every Forethought session",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Self-Reflection-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection-Phase]]",
+        "line_number": 187,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[Self-Reflection-Phase]] — Update this note at the END of every Self-Reflection session",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Adaptive-Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adaptive-Inference]]",
+        "line_number": 188,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[Adaptive-Inference]] — The carry-forward queue holds active adaptive inferences",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Strategic-Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Strategic-Planning]]",
+        "line_number": 189,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[Strategic-Planning]] — The strategy development log tracks strategic knowledge growth",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Metacognitive-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Regulation]]",
+        "line_number": 190,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[Metacognitive-Regulation]] — This note externalizes the regulation function",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "Deliberate-Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate-Practice]]",
+        "line_number": 191,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[Deliberate-Practice]] — The progressive goal log demonstrates the deliberate practice trajectory",
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "target": "SRL-Calibration-Log",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SRL-Calibration-Log]]",
+        "line_number": 192,
+        "section": "📅 Upcoming Meta-Reviews",
+        "context_line": "> - [[SRL-Calibration-Log]] — Companion tracking document for calibration metrics",
+        "source": "SRL-Living-Learning-Agenda.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "strategy/connection-making",
+        "full_tag": "#strategy/connection-making",
+        "hierarchy": [
+          "strategy",
+          "connection-making"
+        ],
+        "line_number": 149,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/generative-question",
+        "full_tag": "#strategy/generative-question",
+        "hierarchy": [
+          "strategy",
+          "generative-question"
+        ],
+        "line_number": 150,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/mechanism-tracing",
+        "full_tag": "#strategy/mechanism-tracing",
+        "hierarchy": [
+          "strategy",
+          "mechanism-tracing"
+        ],
+        "line_number": 151,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/elaborative-interrogation",
+        "full_tag": "#strategy/elaborative-interrogation",
+        "hierarchy": [
+          "strategy",
+          "elaborative-interrogation"
+        ],
+        "line_number": 152,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/self-explanation",
+        "full_tag": "#strategy/self-explanation",
+        "hierarchy": [
+          "strategy",
+          "self-explanation"
+        ],
+        "line_number": 153,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/structural-reading",
+        "full_tag": "#strategy/structural-reading",
+        "hierarchy": [
+          "strategy",
+          "structural-reading"
+        ],
+        "line_number": 154,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/advance-organizer",
+        "full_tag": "#strategy/advance-organizer",
+        "hierarchy": [
+          "strategy",
+          "advance-organizer"
+        ],
+        "line_number": 155,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/flag-and-return",
+        "full_tag": "#strategy/flag-and-return",
+        "hierarchy": [
+          "strategy",
+          "flag-and-return"
+        ],
+        "line_number": 156,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/scope-reduction",
+        "full_tag": "#strategy/scope-reduction",
+        "hierarchy": [
+          "strategy",
+          "scope-reduction"
+        ],
+        "line_number": 157,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "tag": "strategy/schema-building",
+        "full_tag": "#strategy/schema-building",
+        "hierarchy": [
+          "strategy",
+          "schema-building"
+        ],
+        "line_number": 158,
+        "source": "SRL-Living-Learning-Agenda.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "📋 SRL Living Learning Agenda",
+        "anchor": "srl-living-learning-agenda",
+        "line_number": 21,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Current Distal Goals",
+        "anchor": "current-distal-goals",
+        "line_number": 31,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 3,
+        "text": "Primary Learning Domain: ___",
+        "anchor": "primary-learning-domain",
+        "line_number": 35,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 3,
+        "text": "Secondary Domain (if active): ___",
+        "anchor": "secondary-domain-if-active",
+        "line_number": 42,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 Active Reading Queue",
+        "anchor": "active-reading-queue",
+        "line_number": 50,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "❓ Emerging Questions *(from Self-Reflection outputs)*",
+        "anchor": "emerging-questions-from-self-reflection-outputs",
+        "line_number": 62,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ Strategy Development Log",
+        "anchor": "strategy-development-log",
+        "line_number": 83,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 3,
+        "text": "Current Best Strategies by Text Type",
+        "anchor": "current-best-strategies-by-text-type",
+        "line_number": 93,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Active Adaptive Inferences *(Carry-Forward Queue)*",
+        "anchor": "active-adaptive-inferences-carry-forward-queue",
+        "line_number": 109,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 3,
+        "text": "High Priority (Implement Next Session)",
+        "anchor": "high-priority-implement-next-session",
+        "line_number": 113,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 3,
+        "text": "Queued (Implement When Relevant)",
+        "anchor": "queued-implement-when-relevant",
+        "line_number": 118,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 3,
+        "text": "Recently Implemented (Evaluate Effectiveness)",
+        "anchor": "recently-implemented-evaluate-effectiveness",
+        "line_number": 123,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 Progressive Goal Log",
+        "anchor": "progressive-goal-log",
+        "line_number": 131,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "🏷️ Strategy Tags Vocabulary",
+        "anchor": "strategy-tags-vocabulary",
+        "line_number": 143,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 PKB Gap Registry",
+        "anchor": "pkb-gap-registry",
+        "line_number": 162,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "level": 2,
+        "text": "📅 Upcoming Meta-Reviews",
+        "anchor": "upcoming-meta-reviews",
+        "line_number": 173,
+        "source": "SRL-Living-Learning-Agenda.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [
+      {
+        "headers": [
+          "Date",
+          "Strategy Tried",
+          "Result",
+          "Carry Forward?",
+          "Notes"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "Yes / No",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "line_start": 87,
+        "row_count": 3,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "headers": [
+          "Week",
+          "Process Goal Focus",
+          "Sophistication Level",
+          "Notes"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "Beginner / Developing / Intermediate / Advanced",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "line_start": 135,
+        "row_count": 3,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "headers": [
+          "Tag",
+          "Meaning",
+          "When to Use"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`#strategy/connection-making`",
+            "Actively connecting new content to existing PKB nodes",
+            "Schema-rich reading"
+          ],
+          [
+            "`#strategy/generative-question`",
+            "Generating questions during reading",
+            "All reading"
+          ],
+          [
+            "`#strategy/mechanism-tracing`",
+            "Tracing causal chains and mechanisms",
+            "Mechanism-heavy texts"
+          ],
+          [
+            "`#strategy/elaborative-interrogation`",
+            "Asking \"why\" and \"how\" questions during reading",
+            "Deep processing"
+          ],
+          [
+            "`#strategy/self-explanation`",
+            "Explaining sections to yourself at boundaries",
+            "Dense theoretical"
+          ],
+          [
+            "`#strategy/structural-reading`",
+            "Reading for overall structure before details",
+            "Schema-sparse"
+          ],
+          [
+            "`#strategy/advance-organizer`",
+            "Activating prior knowledge before reading",
+            "All reading"
+          ],
+          [
+            "`#strategy/flag-and-return`",
+            "Flagging confusion for later rather than forcing comprehension",
+            "Schema-sparse"
+          ],
+          [
+            "`#strategy/scope-reduction`",
+            "Reducing comprehension criterion scope",
+            "When goals too ambitious"
+          ],
+          [
+            "`#strategy/schema-building`",
+            "Pre-reading lighter material to build background",
+            "Schema-sparse"
+          ]
+        ],
+        "line_start": 147,
+        "row_count": 10,
+        "source": "SRL-Living-Learning-Agenda.md"
+      },
+      {
+        "headers": [
+          "Gap Identified",
+          "Source Session",
+          "Related Note",
+          "Action Needed",
+          "Status"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "",
+            "[[]]",
+            "[[]]",
+            "",
+            "Open / In progress / Resolved"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "line_start": 166,
+        "row_count": 2,
+        "source": "SRL-Living-Learning-Agenda.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] [[]] — Priority: High / Medium / Low | Preparation needed:",
+          "indent_level": 0,
+          "line_number": 53,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] [[]] — Priority: | Preparation needed:",
+          "indent_level": 0,
+          "line_number": 55,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] [[]] — Priority: | Preparation needed:",
+          "indent_level": 0,
+          "line_number": 56,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] [[]] — Priority: | Preparation needed:",
+          "indent_level": 0,
+          "line_number": 57,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] [[]] — Priority: | Preparation needed:",
+          "indent_level": 0,
+          "line_number": 58,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "**Q (date):**",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Originated from:* [[]]",
+          "indent_level": 1,
+          "line_number": 67,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Suggested reading to address:* [[]]",
+          "indent_level": 1,
+          "line_number": 68,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Status:* Open / Partially addressed / Resolved",
+          "indent_level": 1,
+          "line_number": 69,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "**Q (date):**",
+          "indent_level": 0,
+          "line_number": 70,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Originated from:*",
+          "indent_level": 1,
+          "line_number": 72,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Suggested reading to address:*",
+          "indent_level": 1,
+          "line_number": 73,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Status:*",
+          "indent_level": 1,
+          "line_number": 74,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "**Q (date):**",
+          "indent_level": 0,
+          "line_number": 75,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Originated from:*",
+          "indent_level": 1,
+          "line_number": 77,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Suggested reading to address:*",
+          "indent_level": 1,
+          "line_number": 78,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Status:*",
+          "indent_level": 1,
+          "line_number": 79,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "**For schema-sparse reading:**",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "**For dense theoretical material:**",
+          "indent_level": 0,
+          "line_number": 99,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "**For mechanism-heavy texts:**",
+          "indent_level": 0,
+          "line_number": 102,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "---",
+          "indent_level": 0,
+          "line_number": 105,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] **Inference:**",
+          "indent_level": 0,
+          "line_number": 114,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Source session:* [[]]",
+          "indent_level": 1,
+          "line_number": 115,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Implement by:* ___",
+          "indent_level": 1,
+          "line_number": 116,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] **Inference:**",
+          "indent_level": 0,
+          "line_number": 119,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Source session:*",
+          "indent_level": 1,
+          "line_number": 120,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Context:* *(When this is relevant)*",
+          "indent_level": 1,
+          "line_number": 121,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[x] **Inference:**",
+          "indent_level": 0,
+          "line_number": 124,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Implemented in:* [[]]",
+          "indent_level": 1,
+          "line_number": 125,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Result:*",
+          "indent_level": 1,
+          "line_number": 126,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "*Keep / Modify / Discard?*",
+          "indent_level": 1,
+          "line_number": 127,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] **Next monthly review due:** ___",
+          "indent_level": 0,
+          "line_number": 176,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] **Sessions since last review:** ___",
+          "indent_level": 0,
+          "line_number": 178,
+          "source": "SRL-Living-Learning-Agenda.md"
+        },
+        {
+          "text": "[ ] **Key question for next review:**",
+          "indent_level": 0,
+          "line_number": 179,
+          "source": "SRL-Living-Learning-Agenda.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Deliberate-Practice",
+      "Forethought-Phase",
+      "Mastery-Goal-Orientation",
+      "Metacognitive-Calibration",
+      "Metacognitive-Regulation",
+      "Obsidian-Automation",
+      "Prior-Knowledge-Activation",
+      "SRL-Calibration-Log",
+      "SRL-Monthly-Review",
+      "Self-Efficacy",
+      "Self-Reflection-Phase",
+      "Strategic-Planning",
+      "Zimmerman's-Cyclical-SRL-Model"
+    ],
+    "unique_wiki_link_count": 15,
+    "unique_tags": [
+      "#strategy/advance-organizer",
+      "#strategy/connection-making",
+      "#strategy/elaborative-interrogation",
+      "#strategy/flag-and-return",
+      "#strategy/generative-question",
+      "#strategy/mechanism-tracing",
+      "#strategy/schema-building",
+      "#strategy/scope-reduction",
+      "#strategy/self-explanation",
+      "#strategy/structural-reading"
+    ],
+    "unique_tag_count": 10,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Achievement-Goal-Theory",
+      "Adaptive-Inference",
+      "Deliberate-Practice",
+      "Forethought-Phase",
+      "Mastery-Goal-Orientation",
+      "Metacognitive-Calibration",
+      "Metacognitive-Regulation",
+      "Obsidian-Automation",
+      "Prior-Knowledge-Activation",
+      "SRL-Calibration-Log",
+      "SRL-Monthly-Review",
+      "Self-Efficacy",
+      "Self-Reflection-Phase",
+      "Strategic-Planning",
+      "Zimmerman's-Cyclical-SRL-Model"
+    ]
+  }
+}

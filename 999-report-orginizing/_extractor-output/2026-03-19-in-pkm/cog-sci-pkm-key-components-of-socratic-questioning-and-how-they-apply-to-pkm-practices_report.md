@@ -272,7 +272,7 @@ extraction_summary:
 > **Integrated Understanding**
 > Socratic questioning, properly understood, is not a technique supplemental to PKM practice but an architectural principle constitutive of what genuine PKM is. The six question types formalized by [[Richard-Paul|Richard Paul]] and [[Linda-Elder|Linda Elder]] — clarification, assumption-probing, evidence-probing, perspective-questioning, implication-probing, and meta-questioning — map onto the full structure of rigorous thinking identified in the Paul-Elder [[Critical-Thinking|Critical Thinking]] framework, and each type serves a distinct and irreplaceable epistemic function within the knowledge management lifecycle. When systematically embedded in capture templates, processing protocols, review workflows, linking conventions, and synthesis structures, these question types transform the PKM vault from a sophisticated retrieval archive into an active cognitive scaffolding architecture — a system that enforces deeper processing, surfaces hidden assumptions, drives inferential extension, and cultivates the intellectual virtues that constitute genuine epistemic mastery.
 > 
-> The convergence of evidence from [[Educational-Psychology|Educational Psychology]] (elaborative interrogation research), [[Cognitive-Science|Cognitive Science]] ([[Desirable-Difficulties|Desirable Difficulties]] and the [[Testing-Effect|Testing Effect]]), [[Metacognition]] theory (Flavell, Brown), and [[Clinical Psychology]] (CBT Socratic dialogue) provides a robust, multi-disciplinary foundation for the claim that active interrogative engagement with knowledge produces learning outcomes — in retention, transfer, comprehension depth, and critical thinking development — that passive processing cannot match. The practical implementation of this evidence through adaptive Socratic PKM templates, typed inferential links, and multi-scale review protocols is achievable within existing PKM tools such as [[Obsidian]] and [[Logseq]], and represents one of the highest-leverage investments a serious knowledge-worker can make in the productive architecture of their intellectual infrastructure.
+> The convergence of evidence from [[Educational-Psychology|Educational Psychology]] (elaborative interrogation research), [[Cognitive-Science|Cognitive Science]] ([[Desirable-Difficulties|Desirable Difficulties]] and the [[Testing-Effect|Testing Effect]]), [[Metacognition]] theory (Flavell, Brown), and [[Clinical-Psychology|Clinical Psychology]] (CBT Socratic dialogue) provides a robust, multi-disciplinary foundation for the claim that active interrogative engagement with knowledge produces learning outcomes — in retention, transfer, comprehension depth, and critical thinking development — that passive processing cannot match. The practical implementation of this evidence through adaptive Socratic PKM templates, typed inferential links, and multi-scale review protocols is achievable within existing PKM tools such as [[Obsidian]] and [[Logseq]], and represents one of the highest-leverage investments a serious knowledge-worker can make in the productive architecture of their intellectual infrastructure.
 
 #### 20. [CONNECTIONS-AND-LINKS] Untitled *(Line 318)*
 
@@ -362,11 +362,11 @@ extraction_summary:
 ### Unique Targets
 
 - [[AI-Augmented PKM and Socratic Interlocution]]
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Ann-Brown|Ann Brown]]
 - [[Atomic-Notes|Atomic Notes]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Clinical Psychology]]
+- [[Clinical-Psychology|Clinical Psychology]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]
@@ -501,7 +501,7 @@ extraction_summary:
 | 66 | [[John-Flavell|John Flavell]] | — | — | The Metacognition Evidence Base | 212 |
 | 67 | [[Ann-Brown|Ann Brown]] | — | — | The Metacognition Evidence Base | 214 |
 | 68 | [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]] | — | — | The CBT Literature: Clinical Evidence... | 218 |
-| 69 | [[Aaron Beck]] | — | — | The CBT Literature: Clinical Evidence... | 218 |
+| 69 | [[Aaron-Beck|Aaron Beck]] | — | — | The CBT Literature: Clinical Evidence... | 218 |
 | 70 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The CBT Literature: Clinical Evidence... | 224 |
 | 71 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | The Transfer Research: Socratic Quest... | 228 |
 | 72 | [[Robert Swartz]] | — | — | The Transfer Research: Socratic Quest... | 228 |
@@ -531,7 +531,7 @@ extraction_summary:
 | 96 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 97 | [[Testing-Effect|Testing Effect]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 98 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
-| 99 | [[Clinical Psychology]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
+| 99 | [[Clinical-Psychology|Clinical Psychology]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 100 | [[Obsidian]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 101 | [[Logseq]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 316 |
 | 102 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 321 |
@@ -617,11 +617,11 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[AI-Augmented PKM and Socratic Interlocution]]
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Ann-Brown|Ann Brown]]
 - [[Atomic-Notes|Atomic Notes]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
-- [[Clinical Psychology]]
+- [[Clinical-Psychology|Clinical Psychology]]
 - [[Cognitive-Behavioral-Therapy|Cognitive Behavioral Therapy]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]

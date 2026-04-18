@@ -233,7 +233,7 @@ extraction_summary:
 - [[Digital Garden]]
 - [[Digital Gardens]]
 - [[Digital Learning Environments]]
-- [[Eudaimonic Well-being]]
+- [[Eudaimonic-Well-Being|Eudaimonic Well-being]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow]]
 - [[Flow-Theory|Flow Theory]]
@@ -310,7 +310,7 @@ extraction_summary:
 | 23 | [[Metacognitive Kindness]] | — | — | The Role of Mindfulness and Self-Regu... | 118 |
 | 24 | [[Flow]] | — | — | Flow, Vitality, and Sustainable Engag... | 122 |
 | 25 | [[Flow-Theory|Flow Theory]] | — | — | Flow, Vitality, and Sustainable Engag... | 124 |
-| 26 | [[Eudaimonic Well-being]] | — | — | Flow, Vitality, and Sustainable Engag... | 126 |
+| 26 | [[Eudaimonic-Well-Being|Eudaimonic Well-being]] | — | — | Flow, Vitality, and Sustainable Engag... | 126 |
 | 27 | [[Digital Learning Environments]] | — | — | Educational Technology and Digital Le... | 132 |
 | 28 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Educational Technology and Digital Le... | 136 |
 | 29 | [[Metacognitive]] | — | — | Educational Technology and Digital Le... | 136 |
@@ -467,7 +467,7 @@ Following the output_template structure:
 - [[Digital Garden]]
 - [[Digital Gardens]]
 - [[Digital Learning Environments]]
-- [[Eudaimonic Well-being]]
+- [[Eudaimonic-Well-Being|Eudaimonic Well-being]]
 - [[Extrinsic-Motivation|Extrinsic Motivation]]
 - [[Flow]]
 - [[Flow-Theory|Flow Theory]]

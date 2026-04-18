@@ -148,11 +148,11 @@ extraction_summary:
 > [!further-exploration] Untitled
 > Recommended continued study:
 > - [[Cognitive-Load-Theory|Cognitive Load Theory]] and working memory architecture as foundational constraints on workflow design
-> - [[Attention Restoration Theory]] and the role of restorative environments in sustaining cognitive performance
+> - [[Attention-Restoration-Theory|Attention Restoration Theory]] and the role of restorative environments in sustaining cognitive performance
 > - [[Habit Stacking]] and [[Implementation-Intentions|Implementation Intentions]] as practical mechanisms for behavioral integration
 > - [[Energy Management]] frameworks that prioritize vitality over mere time management
 > - [[Deliberate-Practice|Deliberate Practice]] methodology and the structured acquisition of workflow-related meta-skills
-> - [[decision fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work
+> - [[Decision-Fatigue|decision fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work
 > - [[Complexity Science]] applied to personal systems: emergence, self-organization, and adaptation in workflow
 > - [[Mindfulness and Metacognition]] practices for developing awareness of one's own workflow patterns and mental states
 
@@ -166,7 +166,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Attention Restoration Theory]]
+- [[Attention-Restoration-Theory|Attention Restoration Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complexity Science]]
 - [[Deliberate-Practice|Deliberate Practice]]
@@ -175,19 +175,19 @@ extraction_summary:
 - [[Habit Stacking]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Mindfulness and Metacognition]]
-- [[decision fatigue]]
+- [[Decision-Fatigue|decision fatigue]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Further Exploration | 131 |
-| 2 | [[Attention Restoration Theory]] | — | — | Further Exploration | 132 |
+| 2 | [[Attention-Restoration-Theory|Attention Restoration Theory]] | — | — | Further Exploration | 132 |
 | 3 | [[Habit Stacking]] | — | — | Further Exploration | 133 |
 | 4 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Further Exploration | 133 |
 | 5 | [[Energy Management]] | — | — | Further Exploration | 134 |
 | 6 | [[Deliberate-Practice|Deliberate Practice]] | — | — | Further Exploration | 135 |
-| 7 | [[decision fatigue]] | — | — | Further Exploration | 136 |
+| 7 | [[Decision-Fatigue|decision fatigue]] | — | — | Further Exploration | 136 |
 | 8 | [[Ego Depletion]] | — | — | Further Exploration | 136 |
 | 9 | [[Complexity Science]] | — | — | Further Exploration | 137 |
 | 10 | [[Mindfulness and Metacognition]] | — | — | Further Exploration | 138 |
@@ -298,7 +298,7 @@ Let me deconstruct this user request carefully. The user is asking for topics re
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Attention Restoration Theory]]
+- [[Attention-Restoration-Theory|Attention Restoration Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complexity Science]]
 - [[Deliberate-Practice|Deliberate Practice]]
@@ -307,7 +307,7 @@ Let me deconstruct this user request carefully. The user is asking for topics re
 - [[Habit Stacking]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Mindfulness and Metacognition]]
-- [[decision fatigue]]
+- [[Decision-Fatigue|decision fatigue]]
 
 ---
 

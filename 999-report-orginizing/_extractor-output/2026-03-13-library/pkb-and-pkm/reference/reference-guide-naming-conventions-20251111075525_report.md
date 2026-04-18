@@ -548,7 +548,7 @@ extraction_summary:
 > [!related-topics-to-consider] Untitled
 > **Prerequisite Knowledge**
 > - `[[Personal-Knowledge-Management|Personal Knowledge Management]]` — The broader practice in which naming conventions exist
-> - `[[Zettelkasten Method]]` — Understanding this methodology clarifies *why* certain naming conventions emerged
+> - `[[Zettelkasten-Method|Zettelkasten Method]]` — Understanding this methodology clarifies *why* certain naming conventions emerged
 > - `[[Information-Architecture|Information Architecture]]` — The discipline of organizing information for findability and usability
 > 
 > **Directly Related Topics**
@@ -634,11 +634,11 @@ extraction_summary:
 - [[Unicode and Emoji in Filenames]]
 - [[wiki-links]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[Dataview]]
 - [[linking your thinking]]
 - [[PARA-Method|para method]]
-- [[zettelkasten method]]
+- [[Zettelkasten-Method|zettelkasten method]]
 
 ### All Occurrences
 
@@ -647,7 +647,7 @@ extraction_summary:
 | 1 | [[Zettelkasten]] | — | — | 📐 Core Principles of Effective Naming | 29 |
 | 2 | [[Obsidian]] | — | — | 📐 Core Principles of Effective Naming | 39 |
 | 3 | [[Obsidian]] | — | — | 📐 Core Principles of Effective Naming | 54 |
-| 4 | [[zettelkasten method]] | — | — | 🗃️ Zettelkasten Approaches | 104 |
+| 4 | [[Zettelkasten-Method|zettelkasten method]] | — | — | 🗃️ Zettelkasten Approaches | 104 |
 | 5 | [[Obsidian]] | — | — | 🗃️ Zettelkasten Approaches | 111 |
 | 6 | [[PARA-Method|para method]] | — | — | 📦 PARA Method Naming | 137 |
 | 7 | [[linking your thinking]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
@@ -665,7 +665,7 @@ extraction_summary:
 | 19 | [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
 | 20 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
 | 21 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧭 Further Exploration | 742 |
-| 22 | [[Zettelkasten Method]] | — | — | 🧭 Further Exploration | 743 |
+| 22 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 🧭 Further Exploration | 743 |
 | 23 | [[Information-Architecture|Information Architecture]] | — | — | 🧭 Further Exploration | 744 |
 | 24 | [[Folder Structure Strategies]] | — | — | 🧭 Further Exploration | 747 |
 | 25 | [[Tagging Systems]] | — | — | 🧭 Further Exploration | 748 |
@@ -684,7 +684,7 @@ extraction_summary:
 | 38 | [[Regular Expressions for Filename Parsing]] | — | — | 🧭 Further Exploration | 768 |
 | 39 | [[Git and Version Control for PKB]] | — | — | 🧭 Further Exploration | 769 |
 | 40 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 782 |
-| 41 | [[Zettelkasten Method]] | — | — | 🔗 Related Topics for PKB Expansion | 783 |
+| 41 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 🔗 Related Topics for PKB Expansion | 783 |
 | 42 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 784 |
 | 43 | [[PARA-Method|PARA Method]] | — | — | 🔗 Related Topics for PKB Expansion | 785 |
 | 44 | [[Linking Your Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 786 |
@@ -999,11 +999,11 @@ for root, dirs, files in os.walk(vault_path):
 - [[Unicode and Emoji in Filenames]]
 - [[wiki-links]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[Dataview]]
 - [[linking your thinking]]
 - [[PARA-Method|para method]]
-- [[zettelkasten method]]
+- [[Zettelkasten-Method|zettelkasten method]]
 
 ---
 

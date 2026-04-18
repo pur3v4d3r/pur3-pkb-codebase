@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -236,6 +236,62 @@ importance: high
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 
+**Related concepts** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+[[Classical-Cognitivism|Classical Cognitivism]] * [[Andy-Clark|Andy Clark]] * [[David-Chalmers|David Chalmers]] * [[Extended-Mind-Theory|Extended Mind Theory]] * [[4E-Cognition|4E Cognition]] * [[Embodied-Cognition|Embodied Cognition]] * [[Distributed-Cognition|Distributed Cognition]] * [[Hilary-Putnam|Hilary Putnam]] * [[Tyler-Burge|Tyler Burge]] * [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] * [[Lawrence-Barsalou|Lawrence Barsalou]] * [[Francisco-Varela|Francisco Varela]] * [[Evan-Thompson|Evan Thompson]] * [[Eleanor-Rosch|Eleanor Rosch]] * [[Edwin-Hutchins|Edwin Hutchins]] * [[Frederick-Adams|Frederick Adams]] * [[Kenneth-Aizawa|Kenneth Aizawa]] * [[Robert-Rupert|Robert Rupert]] * [[Risko-and-Gilbert|Risko and Gilbert]] * [[Maravita-and-Iriki|Maravita and Iriki]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Cognitive-Scaffolding|Cognitive Scaffolding]] * [[Personal-Knowledge-Base|Personal Knowledge Base]] * [[Instructional-Design|Instructional Design]] * [[Personal-Knowledge-Management|Personal Knowledge Management]] * [[Assistive-Technology|Assistive Technology]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Schema-Theory|Schema Theory]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended-Mind-Theory-—-Philosophy-of-Mind]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Schema-Theory|Schema-Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+**Related concepts** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+[[Classical-Cognitivism|Classical Cognitivism]] * [[Andy-Clark|Andy Clark]] * [[David-Chalmers|David Chalmers]] * [[Extended-Mind-Theory|Extended Mind Theory]] * [[4E-Cognition|4E Cognition]] * [[Embodied-Cognition|Embodied Cognition]] * [[Distributed-Cognition|Distributed Cognition]] * [[Hilary-Putnam|Hilary Putnam]] * [[Tyler-Burge|Tyler Burge]] * [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] * [[Lawrence-Barsalou|Lawrence Barsalou]] * [[Francisco-Varela|Francisco Varela]] * [[Evan-Thompson|Evan Thompson]] * [[Eleanor-Rosch|Eleanor Rosch]] * [[Edwin-Hutchins|Edwin Hutchins]] * [[Frederick-Adams|Frederick Adams]] * [[Kenneth-Aizawa|Kenneth Aizawa]] * [[Robert-Rupert|Robert Rupert]] * [[Risko-and-Gilbert|Risko and Gilbert]] * [[Maravita-and-Iriki|Maravita and Iriki]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Cognitive-Scaffolding|Cognitive Scaffolding]] * [[Personal-Knowledge-Base|Personal Knowledge Base]] * [[Instructional-Design|Instructional Design]] * [[Personal-Knowledge-Management|Personal Knowledge Management]] * [[Assistive-Technology|Assistive Technology]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Schema-Theory|Schema Theory]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[extended-mind-theory-foundational-report-2026-03-11]])*:
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended-Mind-Theory-—-Philosophy-of-Mind]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Schema-Theory|Schema-Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+
+
+
+
+
+
+
+
 
 
 
@@ -293,6 +349,186 @@ importance: high
 - **Menary, R. (Ed.) (2010). *The Extended Mind*. MIT Press.**: An excellent collection of the most important papers in the extended mind debate, including the original Clark-Chalmers paper, major criticisms (Adams & Aizawa, Rupert), and defences. The editorial introductions are valuable guides to the debate's structure and development. The best single-volume resource for sustained engagement with the literature.
 
 - **Rupert, R. D. (2004). Challenges to the hypothesis of extended cognition. *Journal of Philosophy*, 101(8), 389–428.**: Important critical paper arguing that the Hypothesis of Extended Cognition faces serious challenges, including the bloat problem and the difficulty of individuating extended cognitive systems. Proposes an alternative "HEMC" (Hypothesis of Embedded Cognition) as a less problematic account of environmental scaffolding. A more technically demanding critique than Adams and Aizawa but one that raises distinct challenges worth engaging.
+
+- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
+
+- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
+
+- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
+
+- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
+
+- **Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. *Trends in Cognitive Sciences*, 20(9), 676–688.**: Comprehensive empirical review of cognitive offloading research — the use of environmental resources to reduce internal cognitive demands. Provides the empirical grounding for the offloading/extension distinction. Particularly useful for establishing what is empirically well-supported (offloading is ubiquitous and adaptive) versus what is theoretically contested (whether offloaded processes constitute genuine cognitive extension).
+
+- **Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79–86.**: Review of neurological research on tool incorporation into the body schema, including Iriki's foundational work on parietal neurons extending their response fields to include held tools. Provides direct neurological evidence for one form of cognitive extension — the extension of the body schema — that is less theoretically contested than the extension of belief and memory. Supports the broader plausibility of extended mind arguments by showing that extension into tools is literally happening at the neural level.
+
+- **Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review*, 9(4), 625–636.**: Useful taxonomy of six distinct claims that travel under the label "embodied cognition," not all of which are equally well-supported. Provides conceptual clarity for distinguishing strong from weak versions of embodied and extended cognition claims. Helpful for readers who want to assess what empirical support exists for which specific propositions in the broader 4E literature.
+
+- **Menary, R. (Ed.) (2010). *The Extended Mind*. MIT Press.**: An excellent collection of the most important papers in the extended mind debate, including the original Clark-Chalmers paper, major criticisms (Adams & Aizawa, Rupert), and defences. The editorial introductions are valuable guides to the debate's structure and development. The best single-volume resource for sustained engagement with the literature.
+
+- **Rupert, R. D. (2004). Challenges to the hypothesis of extended cognition. *Journal of Philosophy*, 101(8), 389–428.**: Important critical paper arguing that the Hypothesis of Extended Cognition faces serious challenges, including the bloat problem and the difficulty of individuating extended cognitive systems. Proposes an alternative "HEMC" (Hypothesis of Embedded Cognition) as a less problematic account of environmental scaffolding. A more technically demanding critique than Adams and Aizawa but one that raises distinct challenges worth engaging.
+
+- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
+
+- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
+
+- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
+
+- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
+
+- **Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. *Trends in Cognitive Sciences*, 20(9), 676–688.**: Comprehensive empirical review of cognitive offloading research — the use of environmental resources to reduce internal cognitive demands. Provides the empirical grounding for the offloading/extension distinction. Particularly useful for establishing what is empirically well-supported (offloading is ubiquitous and adaptive) versus what is theoretically contested (whether offloaded processes constitute genuine cognitive extension).
+
+- **Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79–86.**: Review of neurological research on tool incorporation into the body schema, including Iriki's foundational work on parietal neurons extending their response fields to include held tools. Provides direct neurological evidence for one form of cognitive extension — the extension of the body schema — that is less theoretically contested than the extension of belief and memory. Supports the broader plausibility of extended mind arguments by showing that extension into tools is literally happening at the neural level.
+
+- **Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review*, 9(4), 625–636.**: Useful taxonomy of six distinct claims that travel under the label "embodied cognition," not all of which are equally well-supported. Provides conceptual clarity for distinguishing strong from weak versions of embodied and extended cognition claims. Helpful for readers who want to assess what empirical support exists for which specific propositions in the broader 4E literature.
+
+- **Menary, R. (Ed.) (2010). *The Extended Mind*. MIT Press.**: An excellent collection of the most important papers in the extended mind debate, including the original Clark-Chalmers paper, major criticisms (Adams & Aizawa, Rupert), and defences. The editorial introductions are valuable guides to the debate's structure and development. The best single-volume resource for sustained engagement with the literature.
+
+- **Rupert, R. D. (2004). Challenges to the hypothesis of extended cognition. *Journal of Philosophy*, 101(8), 389–428.**: Important critical paper arguing that the Hypothesis of Extended Cognition faces serious challenges, including the bloat problem and the difficulty of individuating extended cognitive systems. Proposes an alternative "HEMC" (Hypothesis of Embedded Cognition) as a less problematic account of environmental scaffolding. A more technically demanding critique than Adams and Aizawa but one that raises distinct challenges worth engaging.
+
+- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
+
+- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
+
+- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
+
+- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
+
+- **Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. *Trends in Cognitive Sciences*, 20(9), 676–688.**: Comprehensive empirical review of cognitive offloading research — the use of environmental resources to reduce internal cognitive demands. Provides the empirical grounding for the offloading/extension distinction. Particularly useful for establishing what is empirically well-supported (offloading is ubiquitous and adaptive) versus what is theoretically contested (whether offloaded processes constitute genuine cognitive extension).
+
+- **Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79–86.**: Review of neurological research on tool incorporation into the body schema, including Iriki's foundational work on parietal neurons extending their response fields to include held tools. Provides direct neurological evidence for one form of cognitive extension — the extension of the body schema — that is less theoretically contested than the extension of belief and memory. Supports the broader plausibility of extended mind arguments by showing that extension into tools is literally happening at the neural level.
+
+- **Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review*, 9(4), 625–636.**: Useful taxonomy of six distinct claims that travel under the label "embodied cognition," not all of which are equally well-supported. Provides conceptual clarity for distinguishing strong from weak versions of embodied and extended cognition claims. Helpful for readers who want to assess what empirical support exists for which specific propositions in the broader 4E literature.
+
+- **Menary, R. (Ed.) (2010). *The Extended Mind*. MIT Press.**: An excellent collection of the most important papers in the extended mind debate, including the original Clark-Chalmers paper, major criticisms (Adams & Aizawa, Rupert), and defences. The editorial introductions are valuable guides to the debate's structure and development. The best single-volume resource for sustained engagement with the literature.
+
+- **Rupert, R. D. (2004). Challenges to the hypothesis of extended cognition. *Journal of Philosophy*, 101(8), 389–428.**: Important critical paper arguing that the Hypothesis of Extended Cognition faces serious challenges, including the bloat problem and the difficulty of individuating extended cognitive systems. Proposes an alternative "HEMC" (Hypothesis of Embedded Cognition) as a less problematic account of environmental scaffolding. A more technically demanding critique than Adams and Aizawa but one that raises distinct challenges worth engaging.
+
+- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
+
+- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
+
+- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
+
+- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
+
+- **Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. *Trends in Cognitive Sciences*, 20(9), 676–688.**: Comprehensive empirical review of cognitive offloading research — the use of environmental resources to reduce internal cognitive demands. Provides the empirical grounding for the offloading/extension distinction. Particularly useful for establishing what is empirically well-supported (offloading is ubiquitous and adaptive) versus what is theoretically contested (whether offloaded processes constitute genuine cognitive extension).
+
+- **Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79–86.**: Review of neurological research on tool incorporation into the body schema, including Iriki's foundational work on parietal neurons extending their response fields to include held tools. Provides direct neurological evidence for one form of cognitive extension — the extension of the body schema — that is less theoretically contested than the extension of belief and memory. Supports the broader plausibility of extended mind arguments by showing that extension into tools is literally happening at the neural level.
+
+- **Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review*, 9(4), 625–636.**: Useful taxonomy of six distinct claims that travel under the label "embodied cognition," not all of which are equally well-supported. Provides conceptual clarity for distinguishing strong from weak versions of embodied and extended cognition claims. Helpful for readers who want to assess what empirical support exists for which specific propositions in the broader 4E literature.
+
+- **Menary, R. (Ed.) (2010). *The Extended Mind*. MIT Press.**: An excellent collection of the most important papers in the extended mind debate, including the original Clark-Chalmers paper, major criticisms (Adams & Aizawa, Rupert), and defences. The editorial introductions are valuable guides to the debate's structure and development. The best single-volume resource for sustained engagement with the literature.
+
+- **Rupert, R. D. (2004). Challenges to the hypothesis of extended cognition. *Journal of Philosophy*, 101(8), 389–428.**: Important critical paper arguing that the Hypothesis of Extended Cognition faces serious challenges, including the bloat problem and the difficulty of individuating extended cognitive systems. Proposes an alternative "HEMC" (Hypothesis of Embedded Cognition) as a less problematic account of environmental scaffolding. A more technically demanding critique than Adams and Aizawa but one that raises distinct challenges worth engaging.
+
+- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
+
+- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
+
+- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
+
+- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
+
+- **Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. *Trends in Cognitive Sciences*, 20(9), 676–688.**: Comprehensive empirical review of cognitive offloading research — the use of environmental resources to reduce internal cognitive demands. Provides the empirical grounding for the offloading/extension distinction. Particularly useful for establishing what is empirically well-supported (offloading is ubiquitous and adaptive) versus what is theoretically contested (whether offloaded processes constitute genuine cognitive extension).
+
+- **Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79–86.**: Review of neurological research on tool incorporation into the body schema, including Iriki's foundational work on parietal neurons extending their response fields to include held tools. Provides direct neurological evidence for one form of cognitive extension — the extension of the body schema — that is less theoretically contested than the extension of belief and memory. Supports the broader plausibility of extended mind arguments by showing that extension into tools is literally happening at the neural level.
+
+- **Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review*, 9(4), 625–636.**: Useful taxonomy of six distinct claims that travel under the label "embodied cognition," not all of which are equally well-supported. Provides conceptual clarity for distinguishing strong from weak versions of embodied and extended cognition claims. Helpful for readers who want to assess what empirical support exists for which specific propositions in the broader 4E literature.
+
+- **Menary, R. (Ed.) (2010). *The Extended Mind*. MIT Press.**: An excellent collection of the most important papers in the extended mind debate, including the original Clark-Chalmers paper, major criticisms (Adams & Aizawa, Rupert), and defences. The editorial introductions are valuable guides to the debate's structure and development. The best single-volume resource for sustained engagement with the literature.
+
+- **Rupert, R. D. (2004). Challenges to the hypothesis of extended cognition. *Journal of Philosophy*, 101(8), 389–428.**: Important critical paper arguing that the Hypothesis of Extended Cognition faces serious challenges, including the bloat problem and the difficulty of individuating extended cognitive systems. Proposes an alternative "HEMC" (Hypothesis of Embedded Cognition) as a less problematic account of environmental scaffolding. A more technically demanding critique than Adams and Aizawa but one that raises distinct challenges worth engaging.
+
+- **Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**: The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
+
+- **Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press.**: Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
+
+- **Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.**: The most sustained and influential critique of Extended Mind Theory. Develops the coupling-constitution objection in detail and proposes the mark of the cognitive as an alternative framework for demarcating cognitive systems. Essential for understanding the strongest objections to Extended Mind Theory and for appreciating the genuine difficulty of the constitutive question.
+
+- **Hutchins, E. (1995). *Cognition in the Wild*. MIT Press.**: Landmark empirical study of navigation as distributed cognition, providing detailed descriptive and analytical accounts of how cognitive work is distributed across persons, artefacts, and spatial arrangements in a real-world sociotechnical system. One of the most important empirical works in the broader 4E tradition. Supports the extended-mind framework from an ethnographic direction.
+
+- **Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.**: Foundational text of enactivism and the 4E cognition movement. Argues that cognition is enacted through sensorimotor coupling rather than computed over internal representations. Essential background for understanding the broader intellectual movement within which Extended Mind Theory sits, and for appreciating the differences between embodied, enacted, and extended cognition.
+
+- **Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. *Trends in Cognitive Sciences*, 20(9), 676–688.**: Comprehensive empirical review of cognitive offloading research — the use of environmental resources to reduce internal cognitive demands. Provides the empirical grounding for the offloading/extension distinction. Particularly useful for establishing what is empirically well-supported (offloading is ubiquitous and adaptive) versus what is theoretically contested (whether offloaded processes constitute genuine cognitive extension).
+
+- **Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79–86.**: Review of neurological research on tool incorporation into the body schema, including Iriki's foundational work on parietal neurons extending their response fields to include held tools. Provides direct neurological evidence for one form of cognitive extension — the extension of the body schema — that is less theoretically contested than the extension of belief and memory. Supports the broader plausibility of extended mind arguments by showing that extension into tools is literally happening at the neural level.
+
+- **Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review*, 9(4), 625–636.**: Useful taxonomy of six distinct claims that travel under the label "embodied cognition," not all of which are equally well-supported. Provides conceptual clarity for distinguishing strong from weak versions of embodied and extended cognition claims. Helpful for readers who want to assess what empirical support exists for which specific propositions in the broader 4E literature.
+
+- **Menary, R. (Ed.) (2010). *The Extended Mind*. MIT Press.**: An excellent collection of the most important papers in the extended mind debate, including the original Clark-Chalmers paper, major criticisms (Adams & Aizawa, Rupert), and defences. The editorial introductions are valuable guides to the debate's structure and development. The best single-volume resource for sustained engagement with the literature.
+
+- **Rupert, R. D. (2004). Challenges to the hypothesis of extended cognition. *Journal of Philosophy*, 101(8), 389–428.**: Important critical paper arguing that the Hypothesis of Extended Cognition faces serious challenges, including the bloat problem and the difficulty of individuating extended cognitive systems. Proposes an alternative "HEMC" (Hypothesis of Embedded Cognition) as a less problematic account of environmental scaffolding. A more technically demanding critique than Adams and Aizawa but one that raises distinct challenges worth engaging.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

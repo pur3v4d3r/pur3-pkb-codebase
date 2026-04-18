@@ -123,7 +123,7 @@ They have outgoing links but nothing links back to them.
 | [[Metacognitive-Monitoring]] | 194 | 64 |
 | [[Fluency-Illusion]] | 181 | 72 |
 | [[Transfer-of-Learning]] | 181 | 58 |
-| [[_permanent-notes-index]] | 178 | 2348 |
+| [[permanent-notes-index]] | 178 | 2348 |
 | [[Intrinsic-Motivation]] | 178 | 114 |
 | [[Attribution-Theory]] | 169 | 88 |
 | [[Organismic-Integration-Theory]] | 158 | 138 |

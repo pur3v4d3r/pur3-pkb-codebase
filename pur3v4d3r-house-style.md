@@ -209,7 +209,7 @@ CRITICAL CONSTRAINTS:
 > [!key-claim] Failure Mode 7 — Cross-Paragraph Arc Loss
 > **What it looks like:** Paragraphs become independent units. Each presents a topic and resolves it within itself. The cross-paragraph integration that defines the Patient Synthesizer disappears.
 >
-> **When it happens:** Particularly in long generators with explicit section structure (like [[Foundational Report]]). The model treats each section as a self-contained essay rather than as part of a continuous arc.
+> **When it happens:** Particularly in long generators with explicit section structure (like [[Foundational-Report]]). The model treats each section as a self-contained essay rather than as part of a continuous arc.
 
 > [!key-claim] Failure Mode 8 — Long-Sentence Cap Drift
 > **What it looks like:** Every sentence becomes long. The breathing — the short release sentences that make the long ones tolerable — disappears. The prose becomes airless.
@@ -294,7 +294,7 @@ Different sections have different decay profiles. Adjust accordingly:
 >
 > **Top counter-measures:** Mid-generation re-anchor at 5,000 words. Figure budget per section. Random-sample validation in Phase 9.
 >
-> **Best generators:** [[Foundational Report]], [[Annotated Critical Analysis]], [[Dialectical Report]], [[Comparative Architecture]], [[Historical-Genealogical]], [[First Principles Analysis]], [[Deep Dive Report]].
+> **Best generators:** [[Foundational-Report]], [[Annotated Critical Analysis]], [[Dialectical Report]], [[Comparative-Architecture]], [[Historical-Genealogical]], [[First Principles Analysis]], [[Deep Dive Report]].
 >
 > **Less suitable for:** [[Practitioner's Field Guide]] (too direct/operational), [[Socratic Exploration]] (too dialogic) — use library variants for these.
 
@@ -309,7 +309,7 @@ Different sections have different decay profiles. Adjust accordingly:
 >
 > **Lateral:** [[Cadence in Long-Form Prose]], [[Family Resemblance Concepts in Wittgenstein]] (the philosophical heritage of the signature argumentative move), [[Figured Texture in Academic Writing]], [[Style Decay in LLM Generation]]
 >
-> **Strengthened:** [[PKB Report Generator Suite v2.0]] (now has a canonical voice), [[Prompt Engineering Specialist Agent v4.0]] (gains personalized style-control infrastructure)
+> **Strengthened:** [[PKB Report Generator Suite v2.0]] (now has a canonical voice), [[Prompt-Engineering-Specialist-Agent-v4.0]] (gains personalized style-control infrastructure)
 
 ---
 
@@ -331,7 +331,7 @@ Different sections have different decay profiles. Adjust accordingly:
 > Extend `pipeline_v2.py` with a style-validation stage that scores generated reports against the Expected Behaviors checklist before pipeline extraction. Reports failing validation get flagged for review or regeneration.
 
 > [!topic-idea] Metacognitive Style Reflection
-> Adapt the [[Prompt Engineering Specialist Agent v4.0]]'s metacognitive scaffolding to include a style-self-check thinking block: before each major section, the model explicitly reasons about whether its prior section maintained the style and what to adjust for the next.
+> Adapt the [[Prompt-Engineering-Specialist-Agent-v4.0]]'s metacognitive scaffolding to include a style-self-check thinking block: before each major section, the model explicitly reasons about whether its prior section maintained the style and what to adjust for the next.
 
 ---
 

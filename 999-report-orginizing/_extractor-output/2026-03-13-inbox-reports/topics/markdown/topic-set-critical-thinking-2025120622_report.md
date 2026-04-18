@@ -394,7 +394,7 @@ extraction_summary:
 - [[Belief Revision Mechanisms]]
 - [[Bias Blind Spot]]
 - [[Bounded-Rationality|Bounded Rationality]]
-- [[Burden of Proof]]
+- [[Burden-of-Proof|Burden of Proof]]
 - [[Calibrated Probability Judgment]]
 - [[Calibration of Confidence]]
 - [[choice-architecture|Choice Architecture]]
@@ -411,7 +411,7 @@ extraction_summary:
 - [[Cognitive Reflection]]
 - [[Cognitive Reflection Test]]
 - [[Cognitive Resources]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Strategy Instruction]]
 - [[Comprehension-Monitoring|Comprehension Monitoring]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
@@ -450,7 +450,7 @@ extraction_summary:
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Inference Indicators]]
-- [[Informal Logic]]
+- [[Informal-Logic|Informal Logic]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Integrative Thinking]]
 - [[Intellectual-Humility|Intellectual Humility]]
@@ -459,7 +459,7 @@ extraction_summary:
 - [[Interleaved Practice]]
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Logical Fallacies]]
-- [[Mental Effort]]
+- [[Mental-Effort|Mental Effort]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Control|Metacognitive Control]]
@@ -470,7 +470,7 @@ extraction_summary:
 - [[Metamemory]]
 - [[Modal Qualifiers]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Nudge Theory]]
+- [[Nudge-Theory|Nudge Theory]]
 - [[Open-Mindedness]]
 - [[Outside View (Reference Class Forecasting)]]
 - [[Overconfidence-Bias|Overconfidence Bias]]
@@ -548,7 +548,7 @@ extraction_summary:
 | 27 | [[Cognitive-Miserliness|Cognitive Miserliness]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 129 |
 | 28 | [[Type 1 vs Type 2 Processing]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 130 |
 | 29 | [[Attribute Substitution]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 131 |
-| 30 | [[Mental Effort]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 132 |
+| 30 | [[Mental-Effort|Mental Effort]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 132 |
 | 31 | [[Default Interventionist Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 133 |
 | 32 | [[Parallel Competitive Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 134 |
 | 33 | [[Cognitive-Decoupling|Cognitive Decoupling]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 135 |
@@ -570,9 +570,9 @@ extraction_summary:
 | 49 | [[Argument Diagramming Software]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 168 |
 | 50 | [[Logical Fallacies]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 169 |
 | 51 | [[Defeasible Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 170 |
-| 52 | [[Burden of Proof]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 171 |
+| 52 | [[Burden-of-Proof|Burden of Proof]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 171 |
 | 53 | [[Argumentation Schemes]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 172 |
-| 54 | [[Informal Logic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 173 |
+| 54 | [[Informal-Logic|Informal Logic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 173 |
 | 55 | [[Critical Thinking Visualization]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 174 |
 | 56 | [[Cognitive Load Externalization]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 175 |
 | 57 | [[Dialectical Structures]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 176 |
@@ -618,7 +618,7 @@ extraction_summary:
 | 97 | [[Consider-the-Opposite Strategy]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 250 |
 | 98 | [[Premortem Technique]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 251 |
 | 99 | [[Outside View (Reference Class Forecasting)]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 252 |
-| 100 | [[Nudge Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 253 |
+| 100 | [[Nudge-Theory|Nudge Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 253 |
 | 101 | [[choice-architecture|Choice Architecture]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 254 |
 | 102 | [[Ecological-Rationality|Ecological Rationality]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 255 |
 | 103 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 256 |
@@ -660,7 +660,7 @@ extraction_summary:
 | 139 | [[epistemic-justification|Epistemic Justification]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 311 |
 | 140 | [[Constructivism in Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 311 |
 | 141 | [[Applied Logic]] | — | — | Further Exploration | 1121 |
-| 142 | [[Cognitive Restructuring]] | — | — | Further Exploration | 1121 |
+| 142 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | Further Exploration | 1121 |
 | 143 | [[Rational Inquiry]] | — | — | Further Exploration | 1121 |
 
 ---
@@ -760,7 +760,7 @@ This is perhaps the most influential framework in modern cognitive science for u
 - [[Cognitive-Miserliness|Cognitive Miserliness]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Attribute Substitution]]
-- [[Mental Effort]]
+- [[Mental-Effort|Mental Effort]]
 - [[Default Interventionist Model]]
 - [[Parallel Competitive Model]]
 - [[Cognitive-Decoupling|Cognitive Decoupling]]
@@ -795,9 +795,9 @@ Argument mapping represents the intersection of formal logic, cognitive science 
 - [[Argument Diagramming Software]]
 - [[Logical Fallacies]]
 - [[Defeasible Reasoning]]
-- [[Burden of Proof]]
+- [[Burden-of-Proof|Burden of Proof]]
 - [[Argumentation Schemes]]
-- [[Informal Logic]]
+- [[Informal-Logic|Informal Logic]]
 - [[Critical Thinking Visualization]]
 - [[Cognitive Load Externalization]]
 - [[Dialectical Structures]]
@@ -867,7 +867,7 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 - [[Consider-the-Opposite Strategy]]
 - [[Premortem Technique]]
 - [[Outside View (Reference Class Forecasting)]]
-- [[Nudge Theory]]
+- [[Nudge-Theory|Nudge Theory]]
 - [[choice-architecture|Choice Architecture]]
 - [[Ecological-Rationality|Ecological Rationality]]
 - [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
@@ -1203,7 +1203,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Belief Revision Mechanisms]]
 - [[Bias Blind Spot]]
 - [[Bounded-Rationality|Bounded Rationality]]
-- [[Burden of Proof]]
+- [[Burden-of-Proof|Burden of Proof]]
 - [[Calibrated Probability Judgment]]
 - [[Calibration of Confidence]]
 - [[choice-architecture|Choice Architecture]]
@@ -1220,7 +1220,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Cognitive Reflection]]
 - [[Cognitive Reflection Test]]
 - [[Cognitive Resources]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive Strategy Instruction]]
 - [[Comprehension-Monitoring|Comprehension Monitoring]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
@@ -1259,7 +1259,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Inference Indicators]]
-- [[Informal Logic]]
+- [[Informal-Logic|Informal Logic]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Integrative Thinking]]
 - [[Intellectual-Humility|Intellectual Humility]]
@@ -1268,7 +1268,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Interleaved Practice]]
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Logical Fallacies]]
-- [[Mental Effort]]
+- [[Mental-Effort|Mental Effort]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive-Control|Metacognitive Control]]
@@ -1279,7 +1279,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Metamemory]]
 - [[Modal Qualifiers]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
-- [[Nudge Theory]]
+- [[Nudge-Theory|Nudge Theory]]
 - [[Open-Mindedness]]
 - [[Outside View (Reference Class Forecasting)]]
 - [[Overconfidence-Bias|Overconfidence Bias]]

@@ -239,7 +239,7 @@ extraction_summary:
 > [!abstract] Untitled
 > **Executive Summary**
 > 
-> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive-Bias|cognitive biases]] have been extensively catalogued since [[Daniel-Kahneman]] and [[Amos-Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge Theory|nudges]] and [[choice-architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd-Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
+> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive-Bias|cognitive biases]] have been extensively catalogued since [[Daniel-Kahneman]] and [[Amos-Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge-Theory|nudges]] and [[choice-architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd-Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 190)*
 
@@ -447,7 +447,7 @@ extraction_summary:
 - [[Nancy Pennington]]
 - [[Negative Visualization]]
 - [[Nudge]]
-- [[Nudge Theory]]
+- [[Nudge-Theory]]
 - [[Optimism Bias]]
 - [[Outside View]]
 - [[Overconfidence-Bias]]
@@ -481,7 +481,7 @@ extraction_summary:
 | 4 | [[Amos-Tversky]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 5 | [[Consider-the-Opposite Strategy]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 6 | [[Premortem Technique]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 7 | [[Nudge Theory]] | nudges | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 7 | [[Nudge-Theory]] | nudges | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 8 | [[choice-architecture]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 9 | [[Bias Blind Spot]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 10 | [[Gerd-Gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
@@ -834,7 +834,7 @@ for (let letter of sortedLetters) {
 - [[Nancy Pennington]]
 - [[Negative Visualization]]
 - [[Nudge]]
-- [[Nudge Theory]]
+- [[Nudge-Theory]]
 - [[Optimism Bias]]
 - [[Outside View]]
 - [[Overconfidence-Bias]]

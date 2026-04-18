@@ -573,7 +573,7 @@ improvement-potential: "Medium"
 > 3. **Remove duplicate tags** (lines 358-360): Delete the second `tags:` block in document body
 > 
 > 4. **Add missed wiki-links**:
->    - `[[Yerkes-Dodson Law]]` at line 488
+>    - `[[Yerkes-Dodson-Law]]` at line 488
 >    - `[[Anne Treisman]]` at line 421
 >    - `[[Iconic-Memory]]` and `[[Echoic-Memory]]` at line 396
 >    - `[[Information-Theory]]` at line 372
@@ -700,7 +700,7 @@ Verify:
 For cognitive science content, ALWAYS wiki-link:
 - Named theories (e.g., [[Filter Model]], [[Capacity Model]])
 - Named researchers (e.g., [[Donald Broadbent]], [[Daniel-Kahneman]])
-- Named laws/principles (e.g., [[Yerkes-Dodson Law]])
+- Named laws/principles (e.g., [[Yerkes-Dodson-Law]])
 - Named experimental paradigms (e.g., [[Dichotic Listening Task]])
 - Memory systems (e.g., [[Iconic-Memory]], [[Echoic-Memory]])
 - Related frameworks mentioned in connections section

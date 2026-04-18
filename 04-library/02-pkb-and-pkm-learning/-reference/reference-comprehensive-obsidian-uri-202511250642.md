@@ -85,7 +85,7 @@ link-related:
 > - [[Dataview]]
 > - [[Cognitive-Load-Theory]]
 > - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-> - [[Active Recall]]
+> - [[Active-Recall]]
 > - [[Metacognition]]
 > - [[Self-Regulated-Learning]]
 > - [[automation]]

@@ -31,7 +31,7 @@ link-related:
   - "[[Information-Theory]]"
   - "[[Instructional-Design]]"
   - "[[Long-Term-Memory]]"
-  - "[[Long-Term Working Memory]]"
+  - "[[Long-Term-Working-Memory]]"
   - "[[Metacognition]]"
   - "[[Metacognitive-Knowledge]]"
   - "[[Metacognitive-Regulation]]"

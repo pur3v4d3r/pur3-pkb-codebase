@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,6 +42,13 @@ updated: 2026-04-01
 source-type: report-extraction
 source-reports:
   - "feedback-design-autonomy-mastery-foundational-report-2026-03-10"
+  - "sdt-focused-analysis-2026-03-06.md"
+  - "self-determination-theory-first-principles-report-2026-03-11.md"
+  - "self-determination-theory-foundational-report-2026-03-11.md"
+  - "basic-psychological-needs-theory-focused-analysis-2026-03-13.md"
+  - "organismic-integration-theory-focused-analysis-2026-03-13.md"
+  - "stoicism-codebase-pack.md"
+  - "self-determination-theory-foundational-report-2026-04-01.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
@@ -82,10 +89,8 @@ see-also:
   - "[[Learned-Helplessness|Learned Helplessness]]"
   - "[[Performance-Goals|Performance Goals]]"
   - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Carole-Ames|Carole Ames]]"
   - "[[Carol-Dweck|Carol Dweck]]"
-  - "[[Summative-Assessment|Summative Assessment]]"
   - "[[Feed-Forward]]"
   - "[[John-Hattie|John Hattie]]"
   - "[[Helen-Timperley|Helen Timperley]]"
@@ -169,6 +174,740 @@ importance: high
 > [!analytical-insight] Key Insight *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*
 > Too much feedback can paradoxically impair learning by substituting external regulation for internal processing. When learners receive dense, comprehensive feedback on every dimension of their performance, they have reduced incentive and reduced opportunity to develop their own self-monitoring. Selective, strategically sparse feedback — targeting the highest-leverage dimension for development — tends to produce better long-term outcomes than exhaustive annotation. This is sometimes called the…
 
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> This landmark meta-analysis examined 128 studies and found that tangible, expected, and contingent rewards significantly undermine intrinsic motivation (d ≈ −0.68 for engagement, −0.61 for intrinsic motivation measures), while verbal rewards under certain conditions can enhance intrinsic motivation when delivered as genuine positive informational feedback about competence rather than as evaluation or control. The conditions under which reward effects are positive, negative, or neutral depend almost entirely on the functional significance of the reward: whether it communicates information about competence (informational function) or communicates external control (controlling function).
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> The evidence, taken carefully, points toward an asymmetry that SDT's original formulations underemphasized: need thwarting produces stronger and more persistent negative outcomes than need satisfaction produces positive outcomes. Studies using need frustration scales alongside need satisfaction scales — a methodological innovation introduced by Bartholomew, Ntoumanis, and colleagues in sport contexts and extended to education by Vansteenkiste and Soenens — consistently find that need frustration is a stronger and more unique predictor of ill-being, controlled motivation, and amotivation than need satisfaction is of well-being and autonomous motivation. This asymmetry parallels findings from the positive psychology literature on the greater weight of negative affect relative to positive affect in wellbeing outcomes, and has important implications for prioritization: preventing thwarting may matter more than maximizing satisfaction.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> In a carefully designed experiment, Jang provided high school students with an uninteresting grammar activity under one of three conditions: no rationale, a controlling rationale ("you need to do this because it's in the curriculum"), or an autonomy-supportive rationale (acknowledging the activity's boring nature while providing genuine, informative reasons for its value). Students in the autonomy-supportive rationale condition showed significantly higher identified regulation, persistence, and learning performance than both other conditions — demonstrating that autonomous regulation of extrinsic tasks is achievable and that instructional delivery is the critical moderator.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> The evidence suggests that relatedness functions primarily as an enabling condition rather than a direct driver of specific learning behaviors. When felt security is absent — when students experience conditional regard (teacher warmth contingent on performance), when they feel socially excluded, or when peer relationships are competitive and comparison-based — the autonomy and competence needs become harder to satisfy because the learner's attentional and motivational resources are partially consumed by social threat monitoring. In high-relatedness classrooms, not only is motivation higher on average, but the *variance* in motivation is lower: fewer students are operating from fear, ego-defense, or social anxiety. The implication is that relatedness is most important as a risk-mitigation variable — its absence is more damaging than its presence is enhancing.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
+
+> [!evidence] Supporting Evidence *(from [[sdt-focused-analysis-2026-03-06]])*
+> Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Deci's classic studies (1971) found that external reward for intrinsically motivated activity reduced subsequent intrinsic motivation — an effect attributed to the perception shift from internal to external locus of causation. Meta-analyses of this paradigm (Deci, Koestner & Ryan, 1999; 128 studies, N > 10,000) found that tangible expected rewards contingent on task engagement reliably undermined intrinsic motivation, while positive performance feedback (informational rather than controlling) enhanced it. This distinction — informational vs. controlling aspects of environmental events — is the operative mechanism for autonomy need satisfaction and frustration respectively.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The competence need prediction generates perhaps the cleanest experimental evidence. Studies by Deci (1975) and extended by numerous researchers show that positive performance feedback satisfies the competence need and enhances intrinsic motivation, while negative feedback or absence of feedback undermines it. The key nuance is *informativeness*: feedback that communicates genuine information about mastery (even challenging feedback that implies a clear developmental path) differs in its effects from feedback that is merely evaluative or comparative. Csikszentmihalyi's [[Flow-Theory]] operationalizes optimal competence challenge as the match between skill and task difficulty — a structural parallel to BPNT that we will explore in Phase IV.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Baumeister and Leary's (1995) landmark review synthesized evidence across diverse literatures to argue that the need to belong is a fundamental human motivation. They found that social exclusion produces reliable negative affect and cognitive interference even in minimal social situations; that relationship formation is readily initiated with little provocation; and that the disruption of social bonds produces well-being deficits disproportionate to the objective significance of the bond. Within SDT-specific research, studies by La Guardia et al. (2000) showed that the degree to which specific relationships satisfy the relatedness need (rather than relationship quantity) predicts both relationship quality and broader well-being. Notably, relatedness satisfaction in one relationship (e.g., with a teacher) appears to be relatively independent of relatedness satisfaction in another (e.g., with peers), suggesting the need is not satisfied holistically but is relationship-specific.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Several studies have examined *need profiles* — typologies of participants based on their pattern of satisfaction across all three needs — rather than treating each need as an independent predictor. Vansteenkiste et al. (2020), using latent profile analysis across a sample of Belgian adolescents, identified distinct profiles including "need-satisfied" (high on all three), "need-deprived" (low on all three), "need-imbalanced" (high on one or two, low on others), and intermediate profiles. The critical finding: need-imbalanced profiles — even those with high satisfaction on two of the three needs — showed well-being and engagement outcomes significantly worse than the need-satisfied profile and not significantly better than partially deprived profiles. The arithmetic of compensation did not appear. Need-satisfied participants showed a reliably distinct well-being advantage that imbalanced profiles, despite their absolute advantages on specific needs, could not approximate through compensation.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Perhaps the most theoretically significant recent development in BPNT research is the measurement and validation of *need frustration* as a distinct construct from *need absence*. Chen et al. (2015) developed the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS), with separate subscales for satisfaction and frustration of each need. Confirmatory factor analysis across seven countries supported a six-factor model (three satisfaction, three frustration factors) rather than three bipolar factors. The critical finding: need frustration scores predicted ill-being, controlled motivation, and defensive behaviors *beyond and above* what was predicted by low need satisfaction scores alone. Active thwarting of a need is not merely the low end of a satisfaction continuum — it is a qualitatively different experience with additional negative consequences.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The asymmetry evidence suggests that BPNT has two distinct dynamics that have not always been kept analytically separate. Research focused primarily on *what promotes well-being* (need satisfaction → positive outcomes) has generated most of the foundational literature. But research on *what damages functioning* (need frustration → negative outcomes) reveals a darker and more complex motivational architecture. Chronic need frustration does not merely produce less well-being; it appears to activate qualitatively distinct psychological responses — rigidity, ego-defensive functioning, controlled motivation, and what Ryan et al. (2016) call the "dark side" of motivation, including introjected guilt and shame, contingent self-worth, and aggressive or withdrawn behavioral patterns. This darker architecture has significant implications for high-stakes or highly controlling learning environments.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Chirkov and colleagues examined the universality claim by studying autonomy need satisfaction in four cultures varying substantially in their degree of collectivism: the United States, Russia, Turkey, and South Korea. The counterintuitive finding was that across all four cultures, the degree to which participants felt they were autonomously enacting the practices valued in their culture predicted well-being — regardless of whether those practices were individualist or collectivist in content. South Korean students who willingly and volitionally engaged in family-oriented, duty-fulfilling behavior showed the same relationship between autonomy and well-being as American students who volitionally pursued individualist achievement goals. The *form* of autonomous behavior was culturally variable; the *function* of autonomy — perceived internal locus of causation — was universal in its relationship to well-being.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Examines the substitution hypothesis — whether satisfaction of one need can compensate for deprivation of another. Provides the most direct empirical test of the compensatory hypothesis and finds evidence for partial (but not full) substitution, complicating the strongest versions of the conjunctive thesis.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Review of SDT and BPNT research with specific application to educational contexts. Synthesizes the research on how teachers can support the three needs in classroom settings, with practical guidance on translating theory into practice.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Analysis of the structural and psychological factors that lead teachers toward controlling instructional styles and the specific behavioral changes involved in shifting toward autonomy-supportive pedagogy. Addresses the practical challenge that teachers face in applying BPNT while managing classroom pressures.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Landmark review synthesizing evidence for the universal need to belong — the empirical foundation for BPNT's relatedness need claim. Documents the well-being costs of social exclusion and the facility of relationship formation as evidence for an underlying organismic need.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Examination of the developmental and clinical consequences of chronic autonomy thwarting across the lifespan. Provides the most thorough treatment of the "dark side" of motivation — the defensive, substitute-satisfaction-seeking patterns produced by need frustration — from within the SDT theoretical framework.
+
+> [!evidence] Supporting Evidence *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Some of the most compelling evidence for OIT comes from health psychology. [[Williams,-Deci,-and-colleagues]] conducted a series of studies (1996–2009) on tobacco cessation, weight loss, diabetes management, dental hygiene, and medication adherence. In each domain, autonomous motivation predicted sustained behavior change while controlled motivation predicted initial compliance that did not persist. Critically, the studies included long-term follow-ups, often 12-24 months post-intervention — this temporal extension is important because it addresses the alternative hypothesis that motivation quality only matters in the short term.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> The weight of evidence across educational, health, and organizational domains supports OIT's quality-over-quantity claim. Studies that measure both conceptual understanding and surface-level performance consistently find that autonomous motivation predicts the former more strongly than the latter, while controlled motivation sometimes predicts surface performance adequately but fails to predict depth of understanding, retention, and transfer. This pattern — which holds even when controlling for time-on-task — suggests that regulatory style affects *how* people engage, not merely *whether* they engage.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Research by [[Assor & Roth (2002)]] on conditional regard — parental approval contingent on performance — provides a mechanistic account of why introjection is particularly damaging. When approval is contingent on behavior, children internalize the approving/disapproving parent as an internal critic. Unlike external regulation, which is clearly *outside* the self and therefore leaves the self intact, introjection involves a fracture *within* the self — the person experiences self-criticism, shame, and contingent self-worth as aspects of their own psychology. This makes it harder to distance oneself from, harder to dismiss, and generates the "hedonic contingency" pattern: brief self-esteem boosts after success, significant self-criticism after failure, with chronic anxiety throughout.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> The most cited comprehensive statement of SDT including all mini-theories. OIT is addressed in sections 3 and 4. Provides the integration of OIT within BPNT and the clearest statement of the basic need-satisfaction mechanism for internalization.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Foundational study linking parenting styles to children's internalization in academic contexts. Demonstrates that parental involvement vs. control differentially predict regulatory quality (not just quantity) and academic outcomes. Key early empirical support for OIT.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Critical empirical work demonstrating the specific psychological costs of conditional regard and introjected regulation. Provides mechanistic account of why introjection produces greater well-being costs than external regulation — the key evidence for the "introjection anomaly" discussed in Phase III.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Accessible synthesis of OIT's implications for educational design, including a practical overview of autonomy-supportive teaching practices. Addresses the distinction between intrinsic and extrinsic goal framing and its consequences for internalization. Good gateway for practitioners.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Exemplary application of OIT to health behavior change, demonstrating that autonomous motivation predicts sustained cessation while controlled motivation predicts short-term compliance. One of a series of health behavior studies establishing OIT's practical relevance in clinical contexts.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Empirical and theoretical analysis of teachers' controlling styles — why they emerge, what pressures drive them, and what shifts are necessary to become genuinely autonomy-supportive. Important practical resource; addresses the gap between knowing OIT and implementing it in real classrooms.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Classic experimental study distinguishing controlling from informational communication styles and their differential effects on motivation. Key evidence for the role of rationale quality in supporting vs. undermining autonomous regulation. Seminal for OIT's practical design implications.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Theoretical refinement of psychological control as a parenting construct, connecting it to OIT's account of introjection. Distinguishes between behavioral control (limiting behavior) and psychological control (threatening the child's self-concept) — a distinction with significant practical implications for educational contexts.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> The most comprehensive contemporary statement of SDT including updated OIT. Part III covers internalization in detail. This is the authoritative contemporary reference; earlier papers should be read in light of the theoretical developments this book synthesizes.
+
+> [!evidence] Supporting Evidence *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> **Primary Sources and Scholarly Works**
+> 
+> The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+> 
+> - [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+> - [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+> - [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+> - [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+> - [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+> - [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+> 
+> For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> Research into the neuroscience of journaling demonstrates that writing before sleep helps pre-organize experiences, making the brain's nighttime consolidation work more efficient, with consistent practice decreasing sleep onset time from 45 to approximately 15 minutes while improving self-reflection quality as internal dialogue shifts from harsh self-criticism toward curious and compassionate inquiry. This transformation occurs because regular writing strengthens connections between emotional and rational brain centers, effectively enhancing the prefrontal cortex's regulatory capacity over limbic emotional systems—precisely the neurobiological substrate of what Stoics conceptualized as "rational supremacy over passion."
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> **Metacognition and Journaling:**
+> - [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+> - [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+> - [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+> - [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+> - [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+> - [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+> 
+> **Memory Consolidation and Sleep:**
+> - [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+> - [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+> - [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+> - [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+> - [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+> - [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+> 
+> **Stoic Philosophy and Marcus Aurelius:**
+> - [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+> - [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+> - [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+> 
+> **Behavioral Modification and Habit Formation:**
+> - [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+> - [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+> - [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+> - [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+> - [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+> [!evidence] Supporting Evidence *(from [[stoicism-codebase-pack]])*
+> **Clinical Validation**
+> Stoic-informed CBT techniques have demonstrated effectiveness for social anxiety, obsessive-compulsive disorder, major depressive disorder, personality disorders, and psychological aspects of stuttering. The neural circuits targeted—particularly those involved in [[Fear-Extinction]], [[Emotional-Regulation]], and [[Executive-Control]]—align with the psychological architecture Stoic practices engage.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> The founding text of intrinsic motivation research, presenting Deci's early experimental evidence for the undermining effect and the first articulation of cognitive evaluation theory.
+> 
+> **Recommended Sections:** Chapters 2-4 on the original experiments; Chapter 8 on theoretical integration.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> The foundational text of SDT, presenting the first comprehensive statement of the theory including CET, OIT, and COT. Establishes the organismic metatheoretical framework and the basic need construct.
+> 
+> **Recommended Sections:** Chapter 2 on metatheory; Chapter 5 on cognitive evaluation theory; Chapters 6-7 on internalization.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> The most widely cited SDT paper, providing a concise overview of the theory's architecture and empirical evidence. Essential orientation text.
+> 
+> **Recommended Sections:** The entire article; particularly the internalization continuum diagram and the basic needs discussion.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> The definitive comprehensive statement of SDT in its mature form. Covers all six mini-theories, the full empirical evidence base, and recent theoretical developments. The essential reference for any serious engagement with SDT.
+> 
+> **Recommended Sections:** Chapters 3-8 on the six mini-theories; Chapter 10 on education; Chapter 20 on cross-cultural evidence.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> The landmark meta-analysis establishing the undermining effect as a robust empirical phenomenon across 128 experiments, with moderator analyses identifying the conditions under which rewards enhance versus diminish intrinsic motivation.
+> 
+> **Recommended Sections:** The moderator analyses clarifying when rewards undermine vs. when they do not.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Comprehensive review of BPNT's current state, including the need frustration formalization, cross-cultural evidence, and responses to critics.
+> 
+> **Recommended Sections:** Sections on need frustration, universality evidence, and the distinction between need deprivation and frustration.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Influential empirical paper detailing the specific behaviors that constitute autonomy-supportive teaching and their effects on student motivation, connecting SDT theory to classroom practice.
+> 
+> **Recommended Sections:** The behavioral taxonomy of autonomy-supportive practices.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Key empirical foundation for Goal Contents Theory, demonstrating that the relative emphasis on intrinsic versus extrinsic aspirations predicts well-being independently of goal attainment.
+> 
+> **Recommended Sections:** The differential prediction findings and aspirations index methodology.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Accessible translation of SDT principles into educational practice, covering autonomy-supportive teaching, competence-supportive structure, and relatedness-supportive classroom climate.
+> 
+> **Recommended Sections:** Practical recommendations organized by need.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Key theoretical paper formalizing the distinction between need satisfaction, need deprivation, and need frustration as distinct constructs with different predictive targets.
+> 
+> **Recommended Sections:** The tripartite model of need satisfaction, deprivation, and frustration.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Empirical demonstration that autonomy (as volition) is distinguishable from independence (as individualism) and predicts well-being across both individualistic and collectivistic cultures.
+> 
+> **Recommended Sections:** The cross-cultural analyses and the autonomy-independence distinction.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Critical empirical demonstration that autonomy support and structure are complementary rather than opposing dimensions of educational practice, challenging the misconception that SDT recommends unstructured teaching.
+> 
+> **Recommended Sections:** The interaction between autonomy support and structure dimensions.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Meta-analytic test of the simplex structure predicted by OIT's internalization continuum, finding partial but inconsistent support for the developmental ordering of regulatory styles.
+> 
+> **Recommended Sections:** The simplex correlation analyses and implications for the continuum interpretation.
+
+> [!evidence] Supporting Evidence *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Four-culture empirical study demonstrating the cross-cultural validity of need satisfaction and frustration and their differential predictions of well-being and ill-being.
+> 
+> **Recommended Sections:** The cross-cultural comparisons and the satisfaction-frustration factor structure.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> The three needs are not independent silos. Satisfaction of one need tends to amplify the motivational yield of the others, while thwarting of one degrades the others' functioning. A student who feels autonomously engaged in a task is more able to experience competence-relevant feedback as informational rather than threatening. A student who feels related — cared for and secure — is better positioned to take the risks that competence development requires. Treating the needs as additive components misses the dynamic interdependence that field research increasingly confirms.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> The single most common implementation failure when educators learn about SDT is the equation of autonomy support with reduced structure, loose expectations, or student-directed free choice. This conflation is not only theoretically wrong — it is practically harmful. SDT's research strongly supports the importance of **structure** (clear expectations, scaffolded challenges, organized support) as a distinct and necessary dimension of need-supportive teaching. The theoretical claim is not that structure undermines autonomy, but that *how* structure is delivered — with or without acknowledgment of the learner's perspective and choice — determines whether it satisfies or thwarts the autonomy need. A highly structured, demanding learning environment can be deeply autonomy-supportive if the learner understands and endorses the reasons for the demands. A loosely structured, permissive environment can still thwart autonomy if the student feels directionless, incompetent, or relationally disconnected.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> CET's predictions about feedback create a genuine tension that the empirical literature has not fully resolved. The theory predicts that positive feedback is motivationally enhancing when perceived as informational, but research on ego-involvement (Nicholls, 1984) and performance goal orientation (Dweck) suggests that some students — particularly those with fragile, contingent self-esteem — process positive feedback as ego-relevant rather than task-relevant, regardless of how it is delivered. The question of whether delivery can consistently override a student's pre-existing ego-involvement mode, or whether certain learners are so entrenched in ego-involvement that autonomy-supportive feedback simply doesn't reach them, is not resolved. Effective SDT applications need to engage with individual differences in ego-involvement rather than treating feedback effects as uniformly determined by delivery style.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> One of the most practically significant mechanisms in SDT is the effect of surveillance on PLOC and learning quality. Studies by Deci and colleagues show that even passive surveillance — simply being observed — shifts PLOC toward external, reduces intrinsic motivation, and degrades performance on subsequent free-choice activities. This has a disturbing implication for digitally-mediated learning environments that track every mouse click, keystroke, and time-on-task: the monitoring infrastructure itself may be costing some of the motivational quality it is designed to measure. This is not an argument against all monitoring, but a call for careful distinction between monitoring that communicates control (you are being watched, you must perform) and monitoring that communicates support (data is available to help you learn more effectively). The functional significance of monitoring — whether learners interpret it as surveillance or as support — is what determines its motivational impact.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> A subtle but important consequence of the CET competence mechanism is that it predicts a systematic interaction between regulatory style and feedback type. Learners operating from controlled regulation tend to process all feedback through a performance frame — they want to know how they compare to others or how they are being evaluated. These learners are particularly susceptible to the controlling function of feedback, because their PLOC is already external and performance-oriented. Learners operating from autonomous regulation process feedback through a mastery frame — they want to know what it tells them about what to do next. For these learners, even evaluative feedback is more likely to be processed informationally. This interaction has a practical implication that is rarely acknowledged in SDT-informed instructional design: autonomy-supportive feedback is most powerful when combined with efforts to shift learners from performance to mastery framing — which requires, in turn, addressing the competence and autonomy needs together, not separately.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> Learning requires risk: asking a question that might reveal ignorance, attempting a difficult problem that might result in failure, offering an original idea that might be criticized, admitting confusion in a context where others may judge you for it. The willingness to take these risks is not a fixed personality trait — it is a dynamic function of the learner's felt security in the relational environment. When relatedness is well-satisfied, the learner's psychological resources are available for risk-taking because failure does not threaten their standing in the community. When relatedness is thwarted — through conditional regard, social comparison, exclusion, or indifference — the learner's resources are partially consumed by social threat monitoring, and the risk budget for intellectual engagement shrinks accordingly. This is why the "psychological safety" construct in organizational research (Edmondson, 1999) maps so closely onto SDT's relatedness need: psychological safety is essentially the organizational-context version of relatedness satisfaction.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> SDT asserts that the three basic needs are universal — that their satisfaction is beneficial and their thwarting harmful across all human beings regardless of cultural background. This universality claim has generated substantial debate, particularly in cross-cultural psychology. Research in East Asian educational contexts has sometimes found weaker (though rarely reversed) effects of autonomy support on motivation, and evidence from collectivist cultures suggests that relatedness may, in some contexts, function as a more powerful regulatory mechanism than autonomy — meaning that social belonging and conformity to in-group norms can partially substitute for autonomous regulation in maintaining academic engagement. SDT's proponents respond that the universality claim is not that need satisfaction always looks the same across cultures, but that the functional relationships hold universally: autonomy satisfaction always predicts better outcomes than autonomy thwarting, even if the behaviors that constitute "autonomy support" vary across cultural contexts. The tension is not fully resolved, and practitioners working in diverse cultural contexts should treat the universality claim with appropriate nuance rather than as a license to export Western autonomy-support frameworks without adaptation.
+
+> [!analytical-insight] Key Insight *(from [[sdt-focused-analysis-2026-03-06]])*
+> A particularly important implication of the needs' interaction involves the limits of scaffolding. Scaffolding — carefully structured support that reduces task complexity to the learner's current level and gradually withdraws — is a powerful pedagogical tool for satisfying the competence need. But in controlling instructional climates, scaffolding can paradoxically undermine motivation by communicating low confidence in the learner's capabilities, shifting PLOC toward the external (the structure is doing it, not me), and producing competence attributions ("I succeeded because the task was easy") rather than efficacy attributions ("I succeeded because I can do this"). The scaffold itself, if not delivered in an autonomy-supportive manner, can become a source of controlled regulation. This suggests that the motivational value of scaffolding depends critically on how it is framed: as "I'm giving you this support because you can't do this yet" versus "I'm giving you this support so you can experience success at the frontier of your current ability."
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> Human beings possess three innate, universal basic psychological needs — autonomy, competence, and relatedness. The satisfaction of these needs is the proximal cause of intrinsic motivation and psychological well-being; their frustration is the proximal cause of ill-being and controlled motivation. This causal relationship holds across cultures, developmental stages, and life domains.
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> 1. Human motivation exists on a quality dimension from compelled-external to volitional-internal, and position on this dimension has independent causal effects on behavioural, cognitive, and affective outcomes.
+> 2. Motivation quality is a relational-emergent property of person-context transactions, not solely an internal property of the person.
+> 3. Social contexts that structure goal pursuit with rationale, choice, and informational (rather than controlling) feedback shift motivation quality toward the volitional end through processes of reduced external pressure and facilitated cognitive endorsement.
+> 4. Secure affiliative bonds enable autonomous motivation by reducing defensive regulatory dynamics; they are better understood as preconditions for autonomous motivation than as parallel needs of equivalent status.
+> 5. Motivation quality can be progressively improved through internalisation processes that are facilitated by need-supportive social conditions, and this improvement predicts sustained gains in outcome quality.
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> External events have two functional aspects: an **informational aspect** (conveying information about competence and effectiveness) and a **controlling aspect** (exerting pressure to behave in specific ways and shifting perceived locus of causality from internal to external). The motivational consequence of an external event depends on which functional aspect predominates as interpreted by the recipient. Events that function primarily as informational support intrinsic motivation by satisfying competence need without threatening autonomy. Events that function primarily as controlling undermine intrinsic motivation by shifting perceived locus of causality toward external and thus thwarting autonomy need.
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> OIT proposes a continuum of regulatory styles ordered by degree of self-determination:
+> 
+> **Amotivation** — the absence of intentional regulation entirely; the person neither intrinsically nor extrinsically motivated, experiencing the activity as incomprehensible or beyond their influence.
+> 
+> **External regulation** — behaviour controlled by external rewards, punishments, or demands; the most controlled form of extrinsic motivation. Locus of causality is entirely external.
+> 
+> **Introjected regulation** — a partially internalised, but not genuinely owned, form of regulation in which the person acts to avoid guilt, shame, or anxiety, or to bolster ego-esteem and gain approval. The regulation has been taken in but not integrated with the self. This produces contingent self-esteem and emotional instability.
+> 
+> **Identified regulation** — the person has genuinely endorsed the value or importance of the activity, even if they do not find it inherently enjoyable. Locus of causality is substantially internal. Associated with persistence, flexible functioning, and reduced anxiety compared to introjection.
+> 
+> **Integrated regulation** — the fullest form of extrinsic motivation internalisation: the activity and its values have been assimilated into the person's broader sense of self, are congruent with other held values, and are endorsed without conflict. Functionally similar to intrinsic motivation but differs in that the activity is still performed for its valued outcomes rather than for inherent satisfaction.
+> 
+> **Intrinsic motivation** — behaviour enacted for the inherent satisfaction of the activity itself; the most self-determined form of regulation.
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> BPNT's universality thesis holds that the three basic needs are necessary psychological nutriments for all humans — not in the sense that all humans consciously value them or seek them explicitly, but in the sense that their satisfaction and thwarting have equivalent functional consequences across persons and contexts. Just as all humans need vitamin C regardless of whether they know it or can articulate the desire for it, all humans suffer from autonomy thwarting and benefit from autonomy support regardless of whether they would describe autonomy as a conscious goal. This claim has significant cross-cultural implications and has been the subject of substantial empirical investigation and debate (see Phase V).
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> GCT predicts, and extensive evidence confirms, that placing high relative importance on extrinsic goals compared to intrinsic goals is associated with lower well-being, higher anxiety, more depression, and poorer relationship quality, even when absolute wealth or attainment is controlled for. The mechanism is that extrinsic goals are fundamentally need-non-satisfying: pursuing wealth or fame does not, in itself, satisfy needs for competence (mastery for its own sake), autonomy (genuine self-expression), or relatedness (genuine connection), even when those goals are attained.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Well-being, vitality, and optimal motivational functioning are not a weighted sum of three independent need-satisfaction scores. They require that *all three needs* be adequately satisfied simultaneously. A profile characterized by high autonomy + high competence + low relatedness satisfaction is not equivalent in its well-being implications to a profile of moderate satisfaction across all three — even if both profiles have the same arithmetic average.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The conjunctive thesis faces a genuine evidential challenge from studies of substitution. Sheldon and Gunz (2009) found that people whose relatedness need was thwarted showed increased preference for activities that satisfied their competence or autonomy needs — a pattern consistent with compensatory substitution. Importantly, this behavioral substitution produced some reduction in negative affect, suggesting partial compensation is psychologically real. The tension is not fully resolved: on one reading, this evidence shows that compensation fails to restore full well-being (partial compensation is not full compensation); on another reading, it shows that the three needs are more independent than the conjunctive thesis requires. This is one of the genuinely open questions in BPNT.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The cross-cultural challenge to BPNT's autonomy universality thesis typically takes the form of a reductio: if collectivist cultures value interdependence and subordination of individual will to group norms, how can the autonomy need be universal? The Chirkov et al. (2003) evidence reveals that this challenge rests on a conflation of *autonomy content* (what one chooses) with *autonomy function* (the experience of choosing volitionally). A collectivist student who genuinely endorses collective norms and enacts them from a place of authentic internalization is satisfying their autonomy need just as fully as an individualist student pursuing personal goals. What they both require — and what both will suffer without — is the experience of authorship over their own engagement, whether the content of that engagement is directed toward self or toward others. This distinction is critical for applying BPNT outside Western educational contexts.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Deci and Ryan invoke the concept of "psychological nutriments" — a term that deliberately parallels nutritional requirements in biology. This parallel is substantive, not ornamental. Just as no surplus of protein compensates for vitamin C deficiency (scurvy is a deficiency disease, not a protein insufficiency disease), no surplus of competence satisfaction compensates for relatedness deprivation. Each need serves a distinct and non-substitutable function in the organismic growth process. Competence satisfaction supports the experience of effectiveness that makes engagement sustainable. Relatedness satisfaction provides the interpersonal security that makes genuine exploration and risk-taking possible without defensive self-protection. Autonomy satisfaction enables the integration of experience and values into a coherent self — the process by which extrinsic regulation becomes progressively internalized into authentic self-regulation. These are distinct functional contributions to a shared developmental process. Removing any one of them is not like removing one ingredient from a recipe that happens to be less important than others; it is like removing a structural element from a building that the other elements cannot replace.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The asymmetry thesis has a specific structural implication that practitioners often miss: providing need satisfaction does not simply reverse the effects of prior need frustration. You cannot "undo" the defensive psychological states activated by chronic autonomy frustration merely by creating an autonomy-supportive environment. This is because the defensive states — ego-involvement, contingent self-worth, distrust of others' positive intentions — persist as psychological structures that must be actively addressed before the benefits of need support can be fully absorbed. In practical terms: a classroom that has previously been highly controlling cannot simply shift to autonomy-supportive pedagogy and expect immediate motivational benefits. The defensive psychological architecture that controlling environments produce has momentum. Intervention requires both addressing need satisfaction going forward and working with the already-established defensive structures.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> A mechanism rarely made explicit in BPNT applications is the *dynamic nature* of the competence need satisfaction threshold. Because competence develops through engagement, the level of challenge required to satisfy the competence need shifts as mastery increases. A task that initially satisfies the competence need becomes boring as expertise grows — not because the task changed but because the person did. This creates a structural requirement for learning environments: they must *continuously track and adjust to developing competence* rather than calibrating challenge once and holding it constant. The implication for instructional design is that competence need satisfaction cannot be engineered into a fixed curriculum structure; it requires ongoing responsiveness. This is why adaptive instruction and formative assessment are not merely pedagogically useful — from a BPNT perspective, they are *necessary* for sustained competence need satisfaction.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> A theoretically important tension in BPNT concerns distinguishing between genuinely internalized extrinsic motivations (which satisfy the autonomy need) and ego-involved performances that function as need substitutes (which do not). Both can produce intense, persistent engagement with activities not intrinsically enjoyable. The distinction lies in the psychological quality of the engagement — specifically, whether the person can disengage from the activity when their own needs suggest they should (genuine internalization preserves autonomy) versus feeling compelled to continue even against their own interests (substitute satisfaction creates compulsion). This distinction is difficult to operationalize and represents an active measurement challenge in BPNT research.
+
+> [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The tension is real and not easily dissolved. Highly directive instruction may maximize competence development in the short term while creating conditions that undermine the autonomous motivation needed for sustained post-instruction engagement. BPNT's response to this tension — provide rationales, acknowledge learner perspectives, offer choice within structure — is valuable but may be insufficient in contexts where the demands of competence development leave little room for genuine learner input. There is no clean theoretical resolution here; BPNT implies that the autonomy cost of directive instruction is real and that it must be actively managed rather than assumed to be offset by competence gains.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> The standard presentation of OIT implies that internalization is a process one moves through — a journey from external to integrated. But the continuum is better understood as a spectrum of *current states* that are highly context-dependent. The same individual can operate at identified regulation for studying medicine because she chose to be a doctor, while operating at introjected regulation for studying anatomy because her father's approval is contingent on her surgical specialization. OIT's regulatory styles describe *within-person variability across activities*, not a fixed developmental level. This has profound practical implications: practitioners cannot treat a learner's "motivational profile" as a stable trait to be gradually improved — it must be assessed activity by activity.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> [[Deci-&-Ryan]] position the organismic integration tendency as a default developmental tendency that will proceed naturally *unless thwarted by environmental conditions*. This reverses the typical assumption: the question is not "what forces push people to internalize?" but "what conditions prevent the natural integration tendency from operating?" The environment's role is not to create internalization but to support it.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> OIT presents the regulatory continuum as ordered by self-determination, with the implicit assumption that movement along it is uniformly beneficial. But the introjection anomaly challenges this. The evidence suggests that the relationship between regulatory style and psychological well-being is not monotonically increasing — introjection occupies a psychological position that may be *worse* than external regulation on well-being outcomes even while being technically more internalized. This creates a genuine theoretical tension: either the continuum is not ordered by well-being outcomes (which complicates its normative architecture), or the well-being costs of introjection reflect something other than its regulatory character — perhaps its specific mechanism (contingent self-worth) rather than its position on the internalization scale. Both interpretations have significant implications for how practitioners think about supporting internalization.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> There is a philosophically striking circularity embedded in OIT's mechanism. To internalize a value to the point of autonomous regulation, the person must experience their basic need for autonomy as satisfied *during the process of internalization itself*. Put differently: autonomy support from the environment produces autonomous motivation. But this means that the very quality whose absence we want to address (autonomous motivation) is produced by a process that requires a prior experience of autonomy. This is not a fatal circularity — it describes a developmental trajectory — but it has practical implications. When a learner is deeply in external or introjected regulation, the first task is not to provide identified-regulation-level rationales and expect them to take hold. The first task is to provide the experience of autonomy need satisfaction at the level the learner is currently at, creating the conditions from which internalization can proceed. Rushing the process by providing integration-level rationales to a person whose autonomy need is chronically frustrated is unlikely to work.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Providing a rationale for required behavior is a key autonomy-supportive practice in OIT. But the research distinguishes between rationale *provision* and rationale *quality*. [[Koestner et al. (1984)]] found that rationales acknowledging the person's perspective and the value of the behavior (vs. rules stated as constraints) produced higher internalization. [[Assor, Kaplan, & Roth (2002)]] found that the *relevance* of the rationale to the student's own goals and interests was the critical moderator — a rationale connecting required content to students' own future goals produced identified regulation, while a generic "this is important" rationale did not. This suggests that autonomy-supportive rationale provision is not a communication technique but a genuine cognitive process requiring the teacher or coach to understand the learner's own goals well enough to make an honest, individualized connection.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> OIT often implies that integrated regulation, once achieved, is stable — the person has fully made the value their own, and environmental changes are less likely to undermine it. The evidence for this stability claim is weaker than the framework suggests. Longitudinal studies show that regulatory styles are more variable over time than a "developmental achievement" framing implies, and that environmental changes — particularly changes in perceived autonomy support — can shift regulatory styles substantially. This creates a tension between OIT's organismic framing (integration is a durable achievement of the self) and the empirical picture (regulatory styles are responsive to ongoing environmental conditions). The resolution may lie in distinguishing two types of integration: *situational* integration (the current regulatory style in a specific context) and *dispositional* integration (a stable tendency to regulate autonomously across contexts). The latter may be genuinely durable; the former is highly responsive to context.
+
+> [!analytical-insight] Key Insight *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> External regulation is, in a sense, easier to address than introjection: remove the external contingency and you remove the control. Introjection is more resistant because the contingency is now internal. A person regulated by introjection cannot be "freed" by removing the external evaluator — the evaluator has been internalized. This is why simply increasing a learner's autonomy (removing surveillance, providing choice) does not automatically move them from introjected to identified regulation. The introjected evaluator continues operating. What does help, according to the research, is a combination of: sustained experience of unconditional positive regard from significant others; explicit work on the relationship between self-worth and performance; and the gradual extension of rationales that connect required behaviors to genuine personal values rather than to approval contingencies. This is a slower and more relational process than autonomy support for externally-regulated individuals.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **Zeno's Core Innovation**
+> 
+> Zeno's distinctive contribution was synthesizing Cynic ethics with systematic natural philosophy. He agreed with the Cynics that living virtuously according to nature constitutes the sole good, but he grounded this claim in a comprehensive account of the cosmos as a rational, providentially ordered whole. Virtue was not merely human excellence but alignment with the [[Logos]]—the divine rational principle pervading all nature. This move transformed Cynic ethics from lifestyle provocation into metaphysical system, giving it philosophical respectability and explanatory power.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **Philosophy as Freedom**
+> 
+> If Seneca represented the heights of Roman society adapting Stoicism to wealth and power, [[Epictetus]] (c. 50-135 CE) showed its relevance to those with no power whatsoever. Born into slavery in Hierapolis, Phrygia (modern-day Turkey), Epictetus endured a childhood and youth of complete powerlessness. Ancient sources report that his master, Epaphroditus (himself a freed slave serving in Nero's court), once twisted Epictetus's leg in a fit of anger, crippling him permanently. Epictetus reportedly responded calmly: "You will break my leg," and when the bone did snap, "Didn't I tell you that you would break it?"
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> Stoic journaling operates through three simultaneous but distinct neurocognitive mechanisms:
+> 
+> **Externalization-Based Cognitive Offloading**: Transferring mental content to permanent external format reduces working memory demands, creating capacity for higher-order processing.
+> 
+> **Metacognitive Monitoring Enhancement**: The act of articulating thought processes forces explicit awareness of previously automatic or implicit cognitive operations, strengthening monitoring capabilities.
+> 
+> **Behavioral Commitment Through Textual Permanence**: Written commitments create psychological accountability mechanisms that influence subsequent behavior through consistency pressure and identity alignment.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> Stoic journaling resolves an apparent paradox in behavior change: sustainable transformation requires both conscious effort and unconscious automaticity. The solution lies in **hierarchical habit architecture** where the meta-habit (daily reflective examination) remains consciously maintained while object-level behaviors (specific virtuous actions) gradually automatize through repetition. Marcus Aurelius's nightly practice functioned as the conscious meta-habit that monitored and reinforced multiple specific behavioral commitments, creating a self-sustaining system where metacognitive awareness prevented habit drift while habitual execution prevented decision fatigue.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> According to the conventional account, the mindset one holds acts as a lens that filters the entire experience of learning. A fixed mindset converts challenges into threats (because failure would reveal limited ability), produces helpless responses to difficulty, leads to avoidance of challenging tasks, and generates defensive explanations for setbacks. A growth mindset converts the same challenges into opportunities, produces mastery-oriented responses to difficulty, promotes engagement with hard material, and attributes setbacks to insufficient effort or strategy. The belief drives the behavior; the behavior drives the outcome.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> The conventional view enables something practically valuable: it provides a simple, actionable vocabulary for discussing effort, persistence, and response to failure with students and employees. "You have a growth mindset" functions as praise that attributes success to modifiable behavior rather than fixed ability. "What would a growth mindset look like here?" is a useful coaching prompt. Whatever its epistemic status, the framework has genuine utility as a conversational technology for orienting people toward effort-attribution.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> Derived from Axiom 2: In well-designed instructional environments, where tasks are appropriately challenging, feedback is accurate and effort-attributable, and students experience genuine growth, growth-mindset-consistent attributional patterns will emerge without explicit mindset instruction. Explicit mindset instruction adds incremental value primarily in environments where mastery experiences are rare or ambiguous.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> When people reason — whether about spatial relations, conditional statements, syllogistic arguments, or causal sequences — they construct one or more mental models that represent possible states of the world described by the premises. A conclusion is endorsed if it holds in all constructed models. Reasoning errors occur not because inference rules are applied incorrectly, but because people typically construct an incomplete subset of the logically possible models, and a conclusion that seems to hold across their constructed models may be falsified by a model they failed to build.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> From the four axioms together, the following conclusion follows: human reasoning is a *constructive, resource-sensitive, content-sensitive process that produces systematic patterns of success and failure*. This conclusion is robust. What does *not* follow from the axioms is the representational format of the construction — whether the constructed representations are analogical mental models, propositional rule applications, probabilistic estimates, or some multi-format combination. The axioms are format-agnostic.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **The Central Philosophical Claim**
+> Stoic journaling operates on the principle that systematic written examination of our [[Judgments]], [[Value-Assessments]], and [[Actions]] creates a feedback loop enabling progressive alignment with [[Rational-Nature]] and [[Virtue]]. The practice transforms abstract philosophical principles into embodied wisdom through repeated application and reflection.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **The Psychological Synthesis**
+> Stoic daily journaling works through multiple converging mechanisms: it creates metacognitive awareness, reduces cognitive load through externalization, provides structured prompts that guide effective reflection, establishes pattern recognition through repeated practice, and physically reshapes neural architecture through sustained engagement. These mechanisms operate synergistically—each enhancing the others—to produce robust psychological transformation.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **The Multi-Method Assessment Principle**
+> Effective measurement combines:
+> - **Quantitative tracking** (virtue scores, assessment tools)
+> - **Qualitative analysis** (journal content, depth progression)
+> - **Behavioral observation** (real-world application)
+> - **External validation** (life outcomes, others' reports)
+> - **Longitudinal comparison** (trajectory over months/years)
+> 
+> No single measure captures complete picture. The convergence of multiple positive indicators across different assessment types provides strongest evidence of practice effectiveness.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **The Pitfall Pattern Recognition Principle**
+> Most pitfalls arise from losing sight of practice purpose—[[Virtue]] cultivation and [[Flourishing]]. Regularly returning to foundational questions prevents drift:
+> - "Is this practice making me wiser, more just, more courageous, more moderate?"
+> - "Am I more at peace than when I started?"
+> - "Do I handle challenges better than before?"
+> - "Am I becoming the person I want to be?"
+> 
+> If answers are increasingly "no," the practice needs adjustment, not abandonment.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **The Advanced Practice Principle**
+> Advanced techniques serve three purposes:
+> 1. **Depth**: Move beyond surface-level reflection to genuine philosophical examination
+> 2. **Variety**: Prevent practice stagnation through novel approaches
+> 3. **Integration**: Connect Stoic principles across different life domains and temporal scales
+> 
+> These aren't necessary for basic practice but offer pathways for practitioners ready to deepen engagement after establishing foundational habits.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **The Synthesis Principle**
+> Stoic Daily Journaling succeeds because it integrates:
+> - Ancient wisdom with modern psychology
+> - Philosophical principles with practical application
+> - Individual development with social contribution
+> - Written reflection with embodied action
+> - Daily practice with lifetime transformation
+> 
+> This synthesis creates something greater than components—a comprehensive system for cultivating examined life, virtuous character, and sustained well-being across the human lifespan.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **Central Principle**
+> The Dichotomy of Control is the master key to [[Stoic-Philosophy|Stoic]] peace of mind. By accepting what we cannot change and taking responsibility for what we can, we achieve both freedom and power simultaneously.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **Central Principle**
+> Amor Fati transforms passive acceptance into active appreciation. By loving what is necessary, we make peace with reality and unlock the capacity for genuine joy regardless of circumstances.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **Central Teaching**
+> All Stoic practice begins with clear discernment of what is and is not within our power. Once this distinction is mastered, peace follows naturally.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **Central Principle**: The Stoics believed that [[Eudaimonia]] (human flourishing) is achieved solely through [[Arete]] (virtue), and that everything else in life—health, wealth, reputation, even life itself—is "indifferent" to our true happiness. This radical claim forms the bedrock of Stoic ethics.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **Unity of the Virtues**: The Stoics held that the [[Four-Cardinal-Virtues]] are fundamentally inseparable—you cannot fully possess one without possessing all. A truly wise person is necessarily courageous, just, and temperate, because [[Virtue]] is a unified rational disposition of the soul.
+
+> [!analytical-insight] Key Insight *(from [[stoicism-codebase-pack]])*
+> **The Stoic Psychological Chain**: Events → [[Phantasia]] (impression) → [[Sunkatathesis]] (assent) → [[hormê]] (impulse) → [[Praxis]] (action). The critical point where we have power is **assent**—we can examine impressions before accepting them as true.
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> The critical motivational divide is NOT between intrinsic and extrinsic motivation, but between autonomous motivation (intrinsic motivation + identified regulation + integrated regulation) and controlled motivation (external regulation + introjected regulation). This distinction — between acting with a sense of volition and self-endorsement versus acting under pressure — is the strongest predictor of learning quality, persistence, psychological health, and well-being.
+
+> [!analytical-insight] Key Insight *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> The need satisfaction mechanism is not merely correlational — SDT claims causal directionality: social environments cause motivation and well-being outcomes through their effects on need satisfaction. Experimental evidence supports this causal claim, particularly for CET predictions about the effects of rewards, deadlines, and surveillance on intrinsic motivation, and for interventions demonstrating that training teachers in autonomy-supportive practices produces measurable improvements in student motivation and learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*
@@ -182,6 +921,195 @@ importance: high
 > **Misconception 1**: "Positive feedback is always motivating." False. Person-directed positive feedback is systematically demotivating in the long run, even while producing short-term positive affect. The motivational value of positive feedback depends entirely on what it is attributed to and what level it targets.
 > 
 > **Misconception 2**: "More feedback is better." False. Feedback density above a threshold reduces learner agency and self-monitoring development. Strategic selectivity in feedback…
+
+> [!example] **Application** *(from [[sdt-focused-analysis-2026-03-06]])*
+> Given the evidence asymmetry between need thwarting and need satisfaction, the most impactful instructional decisions are those that *eliminate* active frustration of needs, not merely those that *add* need-satisfying elements. An autonomy-supportive feedback system sitting atop a classroom culture of conditional regard, social comparison, and surveillance is likely to produce minimal motivational yield. Audit for thwarting before adding satisfaction.
+
+> [!example] **Application** *(from [[sdt-focused-analysis-2026-03-06]])*
+> The competence mechanism requires individualized challenge calibration. Uniform assessments, single-path curricula, and whole-class pacing undermine competence experience for both above-average and below-average learners simultaneously. The practical implication is not that every student needs a unique curriculum, but that enough variability and choice must be built into the learning environment to allow students to operate near their own challenge frontier.
+
+> [!example] **Application** *(from [[sdt-focused-analysis-2026-03-06]])*
+> The most actionable single change available to most instructors is the delivery mode of structure, not the amount of structure. The same requirement, the same deadline, the same standard can be delivered in ways that acknowledge the learner's perspective (autonomy-supportive structure) or that simply impose the requirement (controlling structure). The critical elements: acknowledging that the requirement may feel burdensome, providing genuine rationale, and communicating genuine interest in the learner's perspective on it.
+
+> [!example] **Application** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> Prioritise affiliative security and psychological safety as structural preconditions before deploying autonomy-support interventions. Autonomy support in a context of belonging threat is likely to produce weaker motivational benefits than the standard SDT framework predicts, because defensive regulatory dynamics activated by attachment insecurity will attenuate the internalisation processes that autonomy support is designed to facilitate.
+
+> [!example] **Application** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> The empirically supported elements of an autonomy-supportive instructional style include: (1) providing meaningful, non-manipulative rationale for assignments and requirements that students may not find inherently interesting; (2) acknowledging student perspectives, including negative ones, as legitimate rather than as obstacles to be overcome; (3) using informational rather than controlling language — "you might consider" rather than "you must," "here's what I observe" rather than "you have to improve"; (4) offering meaningful choices within appropriate structural constraints; and (5) minimising surveillance, controlling deadlines, and evaluative pressure where these are not pedagogically necessary. Note that none of these elements requires abandoning structure, standards, or intellectual rigour.
+
+> [!example] **Application** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The primary practical implication of the conjunctive thesis is that the design goal should be *balanced adequacy across all three needs*, not maximum satisfaction of the most easily supported need. An instructional design audit should ask not "How well are we supporting competence?" but "What is our weakest need-support dimension, and what floor effects is it creating?" Identifying and remedying the most poorly supported need will likely produce greater motivational gains than continuing to optimize an already-adequate need. This is a reallocation logic rather than an addition logic — redistribute design effort toward need balance rather than amplify existing strengths.
+
+> [!example] **Application** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The most common misapplication of BPNT in learning environments conflates autonomy support with the absence of structure or teacher direction. Reeve and colleagues (2009) have developed the Autonomy-Supportive Orientation Scale (ASOS) and documented that high-structure, directive pedagogy can be autonomy-supportive when it includes: (a) genuine rationales for requirements that connect to learners' values, (b) acknowledgment of learners' perspectives and feelings, (c) clear information about outcomes without pressure or surveillance, and (d) opportunities for genuine input into aspects of the learning process. Conversely, unstructured environments that fail to provide clear feedback or developmental scaffolding may frustrate the competence need even while nominally supporting autonomy. Autonomy support is not permissiveness; it is a quality of the relational and informational environment.
+
+> [!example] **Application** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The satisfaction-frustration asymmetry has a direct practical corollary: if a learning environment has been characterized by need frustration (actively controlling, socially isolating, or chronically overwhelming), the intervention required goes beyond simply providing need support going forward. The defensive psychological states created by frustration — ego-involvement, distrust, avoidance motivation — must be explicitly addressed. This typically requires transparency (acknowledging the previous environment's qualities), relational repair (reestablishing the relational safety conditions for genuine engagement), and graduated exposure to need-satisfying conditions that allows defensive states to diminish before genuine engagement can emerge.
+
+> [!example] **Application** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Not every learner will find every required topic intrinsically interesting, and pretending otherwise is counterproductive. Acknowledging this honestly while providing genuine, individualized rationales for why the content matters — connected to the learner's own expressed goals and values — supports identified regulation. The key is specificity and authenticity: generic "this is important for your future" rationales have weak effects; rationales that connect to the learner's actual stated interests have stronger effects.
+
+> [!example] **Application** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> One of the most counterintuitive autonomy-supportive practices is acknowledging when required content is genuinely difficult, unpleasant, or apparently irrelevant. Dismissing learners' negative reactions ("this is easy once you get it," "you'll thank me later") frustrates the autonomy need by communicating that the learner's inner experience is not valid. Acknowledging it ("I know this is tedious — here's why it matters nonetheless") satisfies relatedness and autonomy needs simultaneously.
+
+> [!example] **Application** *(from [[stoicism-codebase-pack]])*
+> The highest-leverage intervention available to teachers and coaches is feedback that explicitly attributes specific failures to specific, correctable causes: "You didn't solve this because you tried to apply the algorithm before you understood the structure of the problem. Let's work on structure-recognition first." This is growth-mindset-in-action without being growth-mindset-as-lesson. It operates directly on Axiom 1.
+
+> [!example] **Application** *(from [[stoicism-codebase-pack]])*
+> Instructional design should prioritize sequences of genuine mastery experiences — not artificially easy wins, but carefully scaffolded challenges that students can overcome with appropriate effort and are recognized as having overcome. The belief that effort produces growth is most durable when it is inductively arrived at from actual experience, not deductively adopted from instruction.
+
+> [!example] **Application** *(from [[stoicism-codebase-pack]])*
+> Classroom and organizational environments that reduce normative comparison (social grading curves, public rankings), increase mastery criteria ("demonstrates this skill" rather than "outperforms peers"), and frame evaluation as diagnostic rather than judgmental activate mastery goal orientations without requiring explicit mindset instruction.
+
+> [!example] **Application** *(from [[stoicism-codebase-pack]])*
+> Based on the axiom-level reconstruction, the following interventions have the strongest theoretical and empirical support for improving reasoning:
+> - **Alternative generation training**: Explicitly prompting people to ask "what other scenarios are compatible with these premises?" targets the incompleteness problem without committing to a representational format.
+> - **Pragmatic assumption elicitation**: Teaching reasoners to make explicit the background assumptions that shape their interpretation targets Axiom 4's content sensitivity.
+> - **Worked example diversity**: Exposing reasoners to the same logical form across many content domains builds the abstraction that makes formal reasoning available across contexts.
+> - **Argument mapping**: Externalizing reasoning structure reduces the working memory demands identified in Axiom 3, regardless of whether internal representations are models or rules.
+
+> [!warning] **Key Distinction** *(from [[sdt-focused-analysis-2026-03-06]])*
+> The popular appropriation of SDT's evidence on rewards frequently overgeneralizes to "rewards are bad." The actual claim is more nuanced: rewards undermine intrinsic motivation when they shift PLOC toward external, communicate control, and signal that the task is instrumental rather than valuable in itself. Unexpected rewards, verbal praise delivered informationally, and task-noncontingent rewards (given for participation rather than performance) do not carry these properties and do not show consistent demotivating effects. The practical guidance is not to eliminate rewards but to examine their functional significance: what does this reward communicate to the learner about who controls their engagement with this material?
+
+> [!warning] **Key Distinction** *(from [[sdt-focused-analysis-2026-03-06]])*
+> As noted in Phase II, autonomy support is not the same as giving students choices about what to do. Autonomous regulation can be achieved in highly structured, teacher-directed environments if the learner genuinely understands and endorses the reasons for the direction. Conversely, environments offering extensive choice can still produce controlled regulation if choices are presented in ways that highlight performance consequences or social comparison. The locus of causality — not the structural source of the task — is what matters.
+
+> [!warning] **Key Distinction** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> The strongest practical error arising from the conventional SDT framework is the treatment of the three needs as parallel and equally independent contributors to well-being. This produces training programmes and environmental design approaches that address each need separately — add choice (autonomy), provide positive feedback (competence), schedule team activities (relatedness) — without attending to the functional interdependence of these conditions. The reconstruction suggests that relatedness/belonging is a precondition for the motivational effectiveness of autonomy support, not a parallel need of equal standing.
+
+> [!warning] **Key Distinction** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> Several misconceptions pervade popular appropriations of SDT. First: **autonomy support is not permissiveness**. Providing structure, setting high standards, and maintaining accountability are fully compatible with autonomy-supportive practice; what matters is how these elements are implemented, not whether they exist. Second: **intrinsic motivation cannot always be created**. Many necessary activities are not inherently interesting, and attempting to make them interesting through gamification or entertainment can be less effective than facilitating genuine identified regulation through rationale provision. Third: **removing external rewards does not automatically restore intrinsic motivation** once it has been undermined — the underlying need conditions must be addressed. Fourth: **SDT does not predict that all rewards are harmful** — only tangible, expected, performance-contingent rewards for initially interesting activities reliably show the undermining effect.
+
+> [!warning] **Key Distinction** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> The evidence on reward contingency is consistent: rewards structured as contingent on *doing well* (vs. contingent on mere participation, or non-contingent) undermine autonomous motivation, particularly when the activity has or might develop intrinsic value. This is the CET mechanism, but it applies in OIT contexts: rewards that make performance the condition for positive regard push learners toward introjection rather than identification.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> Praising effort indiscriminately can actively harm students who are already working at capacity, who genuinely lack prerequisite knowledge (where more effort at the same approach is futile), or who perceive effort praise as a signal of low expectations. Effort praise should be reserved for situations where effort is genuinely the limiting factor and where the student has actionable strategy choices.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> The most important practical warning is about the allure of brief interventions: one-time growth-mindset workshops, assemblies, or online modules do not reliably produce meaningful changes in academic outcomes. The resources invested in these programs would produce more impact if redirected toward teacher professional development in attribution-aware feedback practices.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> The conventional view's conflation of Johnson-Laird's technical mental models with the folk-psychological notion of a "mental model" (as in "the user's mental model of the system") has obscured important distinctions. In HCI and design, "mental model" typically refers to a user's understanding of how a system works — which is closer to what cognitive psychologists call a *schema* or *naïve theory*, not to Johnson-Laird's token-based, semantics-respecting models. Design practice based on "fixing users' mental models" often targets the wrong level of cognitive organization.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> The assumption that the appropriate normative standard for human reasoning is classical deductive validity is commonly embedded in discussions of [[Reasoning-Biases-and-Heuristics]], [[Bounded-Rationality]], and [[Critical-Thinking-Pedagogy]]. Readers engaging with those nodes should be aware that this assumption does not survive first-principles scrutiny in the context of everyday pragmatic reasoning. See Phase II, Assumption 5 and Phase V for the full analysis.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Rumination Red Flag**
+> If you find yourself writing the same analysis of the same type of situation three days in a row without implementing different action, you've entered rumination territory. Trigger: write "Action required" and specify single concrete behavioral change, then close journal.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **The Most Common Misunderstanding of Stoicism**: Stoicism is routinely confused with "being stoic" in the popular sense — emotional suppression, indifference, stiff-upper-lip endurance. This is almost precisely wrong. The Stoics distinguished sharply between *pathē* (irrational, destructive passions, like rage, anxiety, and excessive grief) and *eupatheiai* (good emotional responses appropriate to reason, like joy, caution, and wishing well to others). The goal of Stoic practice is not to feel nothing but to feel rightly — to replace irrational disturbance with rational, well-grounded responses. The Stoic sage is fully human emotionally; she simply is not enslaved by passions that have lost contact with what is genuinely good.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **The Most Common Misreading**: "Indifferent" does not mean *without value* or *to be ignored*. The Stoics explicitly distinguished between *preferred indifferents* (*proegmena adiaphora*) — things that are, in most circumstances, worth pursuing — and *dispreferred indifferents* (*apoproegmena adiaphora*) — things that are, in most circumstances, worth avoiding. Health is a preferred indifferent; illness a dispreferred indifferent. Wealth is preferred; poverty dispreferred. The point is not that these things do not matter at all, but that they do not matter in the way that virtue matters. They affect the *material* of your life, but not its *moral quality*.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 1: The Consistency Problem — Starting Strong and Fading**
+> Most people begin a Stoic practice with genuine enthusiasm — the ideas are compelling, the initial exercises produce noticeable effects, and the sense of having a framework for life is genuinely gratifying. The difficulty is sustaining the practice through the periods when the enthusiasm has subsided but the habits have not yet become automatic. Marcus Aurelius, writing in his private journal, returns to the same themes and the same self-exhortations again and again — not because he forgot them but because he knew that philosophical principles require constant renewal to remain operative rather than merely believed.
+> 
+> **The Stoic Response**: Seneca's counsel is direct: "Philosophy promises above all else: common sense, humanity, and fellowship. We shall be brought by this promise to depart from the general practice. The first thing philosophy promises us is the feeling of fellowship, of belonging to mankind and being members of a community; being unlike the general run of men is sufficient reason for our being suspected and hated by them. We must therefore be careful not to make our style of dress, or way of life, too outlandish." The practice must be woven into daily life as a natural rhythm, not performed as an exceptional achievement. Anchor the practices to existing habits — the morning review to waking, the evening review to the pre-sleep routine, the pause practice to the first sensation of emotional reactivity.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 2: The Stoicism-as-Emotional-Suppression Misreading**
+> One of the most common misapplications of Stoic practice is using it as a philosophical permission structure for emotional suppression — refusing to feel or acknowledge pain, loss, or grief on the grounds that these are "externals." This is a profound misunderstanding that the Stoics themselves explicitly addressed. The Stoic goal is *apatheia* — freedom from irrational, distorting passions (*pathē*) — not the absence of all emotional response.
+> 
+> **The Stoic Response**: The Stoics distinguished carefully between *pathē* (irrational passions based on false judgments about what is good and bad) and *eupatheiai* (rational emotions appropriate to a person of good character). Joy, caution, and rational wishing are *eupatheiai* — they are appropriate emotional responses for a Stoic sage. What the Stoics opposed were the distorted forms: excessive fear driven by irrational threat assessments, intense grief driven by false beliefs about what has been lost, craving driven by false beliefs about what is necessary. A Stoic who has lost someone they love is expected to grieve — but their grief is tempered by an accurate understanding of what has actually been lost (a [[Preferred-Indifferent]], not their genuine good) and does not collapse into extended despair based on the false belief that their happiness depended on the continued presence of that person.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 3: Philosophical Perfectionism — the All-or-Nothing Trap**
+> The Stoics posited the concept of the *sophos* — the perfectly wise sage who has fully internalized every virtue and never makes a cognitive error. This ideal functions as a regulative standard, not a realistic description of any actual person. The Stoics were explicit that the sage is vanishingly rare, perhaps nonexistent, and that most practitioners occupy the status of *prokoptons* — "those who are making progress." The danger is using the gap between one's current practice and the ideal sage as evidence of failure rather than as the normal condition of serious philosophical practice.
+> 
+> **The Stoic Response**: Epictetus was particularly clear on this point: "Do not seek to have events happen as you want them to, but instead want them to happen as they do happen, and your life will go well." The standard of practice is not the sage but yesterday's self. Marcus Aurelius, widely regarded as the most impressive Stoic practitioner in history, wrote his private journal in the language of a student still learning. That is not a contradiction — it is the accurate self-understanding of a serious practitioner.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 4: The Practice-Without-Philosophy Problem**
+> A final and subtler obstacle arises when the individual practices become separated from the philosophical framework that gives them meaning. The *premeditatio malorum* without the [[Dichotomy-of-Control]] is merely worry; the evening review without *prosoche* is merely self-criticism; the pause practice without the Discipline of Assent is merely hesitation. The practices are powerful precisely because they are implementations of a coherent philosophical understanding. Practitioners who adopt the techniques without engaging with the underlying theory typically find them effective for a time and then hollow.
+> 
+> **The Stoic Response**: Regular reading in the primary texts — not just motivational excerpts but sustained engagement with Epictetus's *Discourses*, Seneca's *Letters*, and Marcus Aurelius's *Meditations* — keeps the philosophical framework alive and prevents the practices from devolving into mere behavioral techniques. Hadot's point is crucial: the practices are "spiritual exercises" precisely because they are embedded in a coherent philosophical understanding of what constitutes the good life. Strip out the philosophy and you have techniques; keep the philosophy and you have a way of life.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **The Most Common Misunderstanding of Stoic Emotion**: Stoicism is not a philosophy of emotional suppression, detachment, or numbness. The popular conception of a "stoic" person as someone who simply endures suffering without feeling it is a caricature that inverts the actual Stoic teaching. The Stoics argued for the *correction* of false emotions through rational examination, and for the *cultivation* of rational emotions (*eupatheia*) that rest on accurate judgment. A Stoic practitioner who loses a child is not supposed to feel nothing — they are invited to distinguish between the natural, rational grief at loss and the irrational belief that the loss has destroyed something that was genuinely necessary for their wellbeing. This distinction is psychologically subtle and important.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 1: The False Dichotomy Between Effectiveness and Character**
+> 
+> The most common objection to virtue-based leadership is pragmatic: "In the real world, you sometimes have to compromise your values to get things done." The Stoics would recognize this as a precise expression of the category error their philosophy is designed to correct — the confusion of external success (outcomes, short-term results) with genuine good (virtuous conduct). The Stoic response is not to deny that maintaining virtue can sometimes cost organizational outcomes; it is to insist that the leader who regularly sacrifices virtue for outcomes is training their character toward the dispositions that will eventually produce catastrophic failures. The virtue-based approach is not less effective; it is differently effective — more sustainable, more trustworthy, more capable of recovering from setbacks without losing its moral core.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 2: Emotional Suppression Masquerading as Stoic Equanimity**
+> 
+> A persistent misreading of Stoicism — particularly dangerous in leadership contexts — is the equation of Stoic equanimity with emotional suppression or the performance of not caring. This produces leaders who are unresponsive to their people, who present false fronts of invulnerability, and who mistake rigidity for strength. The Stoic framework explicitly rejects this. [[Epictetus]] and [[Marcus-Aurelius]] both write about the existence of genuine emotional responses — they are not robots. What the Stoics argue is that one's judgment should not be *controlled by* emotion — that the assent-giving faculty should not defer to reactive emotional states in determining what is true or what is right. A Stoic leader can feel anger, fear, and grief; the Stoic practice is ensuring that those feelings do not distort judgment and conduct.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 3: Confusing the Acceptance of Difficulty with Passivity**
+> 
+> The [[Dichotomy-of-Control]] is sometimes misread as a counsel of passive acceptance — if something is outside my control, why act at all? This misses the structure of the framework entirely. The Dichotomy of Control is not a counsel of inaction; it is a counsel of *focused* action. The Stoic who has clearly identified what is within their power will act on that domain with full energy and commitment, precisely because they are not dissipating their energy in futile attempts to control what they cannot. The leader who understands the Dichotomy will be more decisive, not less — because their decision-making is not paralyzed by anxiety about uncontrollable outcomes.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 1: Confusing Stoic Resilience with Emotional Suppression**
+> 
+> **The Misunderstanding**: Stoicism requires you to suppress or deny your emotional responses to adversity — to pretend you don't feel pain, grief, or fear.
+> 
+> **The Stoic Response**: This is among the most common and most damaging misreadings of the tradition. The Stoics explicitly endorsed natural emotional responses to genuine losses. [[Epictetus]] wept when his friend was ill. [[Marcus-Aurelius]] grieved the deaths of his children and teachers. Seneca wrote some of the most searching and honest literature on grief in the ancient world. What the Stoics targeted was not emotion itself but the *additional* suffering generated by false philosophical judgments: the despair, the catastrophizing, the sense of identity-destruction that is the product of philosophical confusion rather than grief itself. Stoic practice aims to feel the right things in the right proportion — not nothing.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 2: The Practice Feels Artificial or Performative at First**
+> 
+> **The Misunderstanding**: Deliberately reframing adversity as "material for virtue" or deploying the control triage feels forced and inauthentic when the pain is acute. The philosophical stance seems to require pretending to a equanimity one doesn't feel.
+> 
+> **The Stoic Response**: This is an accurate description of the early stage of any genuine practice. [[Marcus-Aurelius]]'s *Meditations* repeatedly returns to the same philosophical principles across hundreds of entries — evidence that he was not writing from a position of settled equanimity but from a position of someone continuing to practice the return to philosophical orientation despite the pull of reactive emotions. The practice is not the performance of equanimity. It is the regular, imperfect, effortful direction of attention back to what is within one's power. Over months and years, this direction becomes progressively more natural and less effortful.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **Obstacle 3: The Framework Seems to Diminish the Importance of Genuine Losses**
+> 
+> **The Misunderstanding**: Calling losses "preferred indifferents" or saying that the good life remains available after loss seems to trivialize the real significance of what has been lost — especially the loss of people one loves.
+> 
+> **The Stoic Response**: This concern reflects a careful reading of the tradition, and the Stoics took it seriously. Seneca's *Consolation to Marcia* — written to a woman grieving her son — is a masterpiece of philosophical care precisely because it does not diminish the loss or rush past the grief. The Stoic framework does not say the loss is unimportant. It says two things: first, that the loved person's value and the grief at their loss are real and appropriate; second, that the *catastrophic judgment* — that one's life has been destroyed, that flourishing is no longer possible, that the loss is a final verdict — is a philosophical error that the grief-stricken person can gently, slowly, and with genuine support correct. These are distinct claims, and the second does not entail the first.
+
+> [!warning] **Key Distinction** *(from [[stoicism-codebase-pack]])*
+> **What the Stoic Framework Does NOT Require**
+> 
+> Stoic acceptance of what is outside our control does not extend to passively receiving harm and calling our passivity virtue. The *kathêkon* — the duty of appropriate action — includes the duty to set limits on interactions that systematically harm one's ability to live well. Leaving a harmful relationship, ending a friendship that has become corrupting, establishing clear limits on what one will participate in — these are not failures of Stoic virtue. They may be expressions of it. The relevant question is not "Should I stay?" but "What does wisdom require here?" — and wisdom sometimes requires ending or significantly transforming a relationship.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Reflection Prompts
 
@@ -216,6 +1144,412 @@ importance: high
 > 2. If you were to characterise the integrated framework in three sentences for a colleague who has not read this material, what would you say? Try drafting it before reading further.
 > 3. The report identifies *planned obsolescence* — feedback that aims to make itself…
 
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> Before reading further, take a moment to articulate your current intuition: Which of the three basic needs — autonomy, competence, or relatedness — do you believe is the *most* important driver of learning outcomes? Why? Is one need primary, or are they genuinely co-equal? Commit to a position. The evidence on this question is more complex and surprising than most practitioners expect, and your starting position will sharpen what you notice as you read.
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> The analysis ahead depends entirely on the distinction between *controlled* and *autonomous* regulation — and, critically, on the distinction between *autonomous* and *intrinsic* regulation. Before proceeding: Can you explain, in your own words, why a student who studies because they genuinely value learning (identified regulation) is motivationally more similar to a student who loves the subject (intrinsic motivation) than to a student who studies to avoid parental disapproval (introjected regulation), even though the first two cases both involve external content? If you find yourself uncertain, re-read the regulatory spectrum definition — the entire Phase IV analysis depends on this distinction.
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> **Comprehension**: Explain the difference between autonomy and independence in SDT's terms. Why does this distinction matter for how we evaluate a classroom where students have "choice" in their assignments?
+> 
+> **Application**: Think of a learning environment you are familiar with — your own education, a workplace training, a digital learning platform. Where on the autonomous/controlled regulatory spectrum would most learners in that environment likely fall, and why? What environmental features drove your assessment?
+> 
+> **Extension**: SDT's regulatory spectrum is typically presented as a developmental sequence — internalization progresses from external toward integrated. But is progression always linear? Can you think of conditions under which a learner who achieved identified regulation might slide back toward introjected or external regulation? What would this imply for instructional design?
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> Before engaging with the evidence, record your current estimate: What is the magnitude of the effect of autonomy-supportive teaching on learning outcomes (achievement, persistence, depth of processing, wellbeing)? Is it a strong effect (d > 0.5), a moderate effect (d = 0.2–0.5), or a weak-but-consistent effect (d < 0.2)? And where do you expect the evidence to be strongest — on achievement outcomes, on persistence, or on wellbeing? Write this down; the comparison will be revealing.
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> Return to your prediction about effect sizes and outcome domains. Were you in the right range? Did you anticipate the differential effects on conceptual understanding versus rote performance? And did you predict the asymmetry between need thwarting and need satisfaction? If any of these surprised you, examine the underlying assumptions that drove your original prediction — those assumptions likely reveal important things about your current mental model of motivation.
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> **Comprehension**: What is the single most important finding in this section, and why does it matter for the central question of how needs drive learning?
+> 
+> **Application**: If you were to use the need thwarting / need satisfaction distinction in your own practice or context, what specific instructional or environmental features would you examine first as potential sources of thwarting (rather than merely deprivation)?
+> 
+> **Extension**: The evidence for relatedness effects is described as "less well-specified" than for autonomy and competence. Design a study (in your mind) that would help clarify the direct versus mediated effects of relatedness on learning outcomes. What would you control, measure, and compare?
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> Rate your current understanding of the mechanisms in this section on a scale of 1–10. Now, without looking back, try to explain: (1) Why does surveillance reduce learning quality, mechanistically? (2) What is the "risk budget" role of relatedness, and how does conditional regard undermine it? (3) How does the autonomy-competence positive feedback loop break down in controlling environments? Compare your performance to your confidence rating. Any gap between them — in either direction — is valuable metacognitive information.
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> **Comprehension**: Which mechanism — autonomy's PLOC effect, competence's optimal challenge dependency, or relatedness's risk architecture — changed your understanding the most? Trace the causal chain for that mechanism from environmental input to learning outcome.
+> 
+> **Application**: Think of a specific instructional design decision you make or observe (a deadline, a grading rubric, a discussion prompt, a feedback format). Which need does it most directly address? Which mechanism is it engaging? Could it be redesigned to engage that mechanism more cleanly?
+> 
+> **Extension**: Consider a situation where satisfying one need might temporarily undermine another. For instance: a teacher provides very positive, enthusiastic feedback to motivate a struggling student (satisfying relatedness). Under what conditions might this undermine competence satisfaction or shift PLOC in the wrong direction?
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> Return to what you recorded before Phase III. How has your position on the central question — how the three needs function as learning drivers — shifted? Was the shift primarily additive (you now know more mechanisms) or transformative (the underlying framework changed)? Which of the evidence findings most significantly updated your prior beliefs? And what remains genuinely uncertain for you?
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> **Comprehension**: What is the most important limitation of this analysis, and how does it affect your confidence in the recommendations?
+> 
+> **Application**: If you were implementing one insight from this report in your own practice this week, which would it be, and what specific behavior would change?
+> 
+> **Extension**: The analysis recommends "audit for thwarting before adding satisfaction." What would such an audit look like in practice? What specific behaviors, structures, or language patterns would you examine as potential sources of need thwarting?
+
+> [!reflection] **Reflect** *(from [[sdt-focused-analysis-2026-03-06]])*
+> **Comprehension**: What is the single most important analytical contribution of this report — the insight that most changes how you think about SDT as a learning driver?
+> 
+> **Application**: Explain the core argument of this analysis to a colleague in three sentences, focusing on what is different from the standard SDT account they might already know.
+> 
+> **Extension**: The gateway model proposed here — autonomy as motivational gatekeeper — makes a testable prediction: interventions that improve autonomy support should produce larger effects on learning outcomes than competence-only or relatedness-only interventions, even controlling for the amount of need satisfaction provided. How would you design a study to test this prediction rigorously?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> Before the deconstruction begins, consider: what do you currently believe about why people are motivated? Do you believe there are universal human motivations that transcend culture? Do you think external rewards always undermine intrinsic interest, or only sometimes? Where did those beliefs come from — personal experience, your education, a specific course or book? The goal is not to abandon your priors but to make them visible, so you can track which ones survive the audit and which ones don't.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> 1. Which assumption's dissolution surprised you most? For many readers, the innateness claim (Assumption 2) is assumed so deeply that its dissolution feels disorienting — needs seem so obviously basic. Its dissolution points to the difference between "reliably predicts well-being" and "is a biological necessity."
+> 2. Which survived most intact? The empirical core — that something like autonomy, competence, and relatedness satisfaction consistently predicts flourishing outcomes — is robustly supported, even if its theoretical framing as innate and universal is not.
+> 3. What does the assumption map reveal? The assumptions cluster around two underlying commitments: a philosophical anthropology (humans are naturally growth-oriented organisms with innate needs) and an empirical research programme (need satisfaction predicts well-being). These two layers are conflated in the standard presentation but are separable — the empirical programme can survive the dissolution of the philosophical anthropology.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> For each axiom, attempt the negation test. Can you imagine a world in which motivation quality does not affect outcomes — where volitional and compelled behaviour produce equivalent results? That seems implausible given the mechanistic reasoning about cognitive engagement, not just the correlational evidence. Can you imagine a world where social context has no effect on motivation quality? That would require human motivation to be entirely internally determined, which contradicts everything known about social cognition. The axioms survive not because they are logically necessary but because they are empirically robust enough to function as foundations.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> 1. There are fewer axioms than the full SDT theoretical structure implies — because much of that structure rests on assumptions (innateness, universality as strong claim, three-need completeness) that dissolved under audit. What remains is leaner but also more secure.
+> 2. None of the axioms require the language of "needs." They can be stated in terms of motivation quality, social context, and internalisation processes — which are more directly operationalisable constructs.
+> 3. The axioms are largely behavioural and relational; they do not presuppose a particular philosophical anthropology about human nature's orientation toward growth.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> 1. What is most unsettling in this phase is the divergence on the relational-emergent character of autonomy — SDT's entire framing treats autonomy as something the organism "has" and contexts "satisfy." The reconstructed view treats it as something that emerges in the right person-context transaction. This feels like a smaller point but has large implications for how we design environments and interventions.
+> 2. The most reassuring convergence is that the core intervention logic — autonomy-supportive contexts produce better motivation quality, and this matters — is fully recoverable without any of the dissolved assumptions. SDT's practical programme survives the deconstruction even when its philosophical architecture does not.
+> 3. Changed practice: the reconstructed framework suggests attending to relational safety and belonging before deploying autonomy-supportive practices, rather than treating the needs as parallel levers of equal and independent standing.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> 1. The deconstruction reduces confidence in the sweeping universality claims while increasing confidence in the empirical core. This is the epistemically appropriate response: SDT is an extremely productive research programme whose theoretical overreach should be pruned rather than used as grounds for wholesale rejection.
+> 2. The most practically important change is attending to the functional asymmetry of relatedness and autonomy — belonging security as precondition rather than parallel need.
+> 3. The tension between what the reconstruction reveals (autonomy as relational achievement, culturally textured) and the convenience of the standard SDT framework for practice is real. The standard framework's simplicity is a practical asset; the reconstruction's accuracy is an epistemic requirement. Practitioners navigating this tension should treat SDT's three-need framework as a useful heuristic while attending to its limitations in high-stakes contexts (cross-cultural applications, clinical populations with attachment disruption).
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> 1. This analysis changed thinking about first-principles method itself: the most productive application is not dissolving theories but distinguishing what is empirically secured from what is philosophically imported. SDT is a case study in a productive theory whose overreach can be pruned without destroying the productive core.
+> 2. The most likely blind spot in this analysis is an undervaluation of the need construct itself. The word "need" does real philosophical work in distinguishing motivational deficits from preferences — if the three conditions are needs rather than preferences, then social institutions that frustrate them are not merely inconvenient but are legitimate objects of moral critique. Dissolving the innateness claim may inadvertently weaken the normative force of SDT's critique of controlling social structures.
+> 3. The domain where this analysis is most applicable beyond SDT is any self-help or educational framework that naturalises psychological states or conditions — framing socially constructed achievements as biological expressions of human nature. The first-principles methodology of distinguishing what the evidence establishes from what it is presumed to establish is portable across these frameworks.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> Before reading further, bring to mind a learning or work context in which you felt genuinely motivated — not because of external rewards or obligations, but because the activity itself was engaging or meaningful to you. Now bring to mind a contrasting context where motivation felt effortful, fragmented, or performed for external reasons. What was different about those two environments? What did the first context provide that the second did not? Hold these contrasts in mind as you read; SDT offers a precise vocabulary for articulating exactly what you are remembering.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> 1. SDT's concept of autonomy has surprised many readers who initially equate it with independence or non-conformity. How does the distinction between autonomy and independence change your understanding of what a need-supportive social environment would look like?
+> 2. The distinction between need thwarting and the absence of need satisfaction has practical implications for intervention design. In a context you know well (classroom, clinic, workplace), what would constitute active need thwarting rather than merely the absence of need satisfaction?
+> 3. Looking at the six core definitions above, which concept do you anticipate will be most theoretically contentious or empirically difficult to measure? Why?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> As you have encountered the six mini-theories, notice that they address different analytical levels: CET and COT address primarily situational and individual-level determinants of intrinsic motivation; OIT addresses the developmental process of internalisation; BPNT provides the need-based mechanism underlying all the others; GCT addresses goal content rather than regulatory style; RMT extends the framework to close relationships. Which of these analytic levels feels most fertile for the contexts you care most about? Which mini-theory introduces the most genuinely new concept for your existing mental model of motivation?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> 1. If you were to design a research study to test the universality claim of BPNT across two very different cultural contexts, what would your methodology look like? What findings would constitute convincing evidence for or against universality?
+> 2. The distinction between autonomous and controlled motivation operates even within extrinsic motivation (identified vs. introjected). Think of a context in your own experience where you engage in an activity for extrinsic reasons but feel genuinely autonomous while doing so. What made that identification possible?
+> 3. The six mini-theories address different phenomena but are claimed to be integrated. What is the integrating principle that makes SDT a coherent macro-theory rather than six separate theories?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> Can you trace the causal chain, for each of the three needs, from thwarting condition (a specific social event or environmental feature) through the psychological mechanism (what changes in the person's experience) to the predicted behavioural and well-being outcome? If you can do this from memory for all three needs, your grasp of Phase IV is solid. If you find yourself reaching for vague language ("it makes them feel bad"), return to the specific need-thwarting mechanisms described above and trace the causal chain more precisely.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> 1. What is the most counter-intuitive mechanism described in this phase — the one that most challenges a commonsense view of how motivation works?
+> 2. SDT distinguishes between structure (which supports competence) and autonomy support (which supports autonomy), arguing they are independent. Think of a teaching or coaching practice you know well: is it high on both, high on one only, or low on both? What would adding the missing dimension look like in practice?
+> 3. In what conditions might chronic need thwarting produce apparently high performance — and why would SDT predict this performance to be qualitatively different from autonomy-supported performance?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> 1. How might you redesign one specific practice in a domain you work in — teaching, coaching, managing, parenting — to be more autonomy-supportive without sacrificing structure or standards?
+> 2. Which limitation described here seems most likely to affect the application of SDT in the specific context you care most about? What would more cautious application look like given that limitation?
+> 3. SDT predicts that autonomous motivation predicts better long-term outcomes than controlled motivation. Can you think of a domain or context in which controlled motivation might actually be adaptive — where the SDT prediction might not hold?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> 1. What is the single most important insight from this report that changes or enriches your prior understanding of motivation? Where in your existing knowledge structure does it create the most productive disruption?
+> 2. If you were to explain the essence of SDT to a sceptical colleague in three sentences, what would you say? What would be the hardest element to convey briefly?
+> 3. Of the seven expansion topics listed in the appendix, which feels most urgent for your own PKB development, and why? What specific questions does this report leave you most eager to pursue?
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Before engaging with the evidence, commit to a position: Do you believe the three psychological needs operate *conjunctively* (all necessary, no compensation) or *compensatorily* (tradeoffs and substitutions possible)? What evidence or intuition anchors your prediction? Record your position — whether the analysis confirms or surprises you, the comparison will deepen your engagement with the material.
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The argument this report makes depends on understanding the distinction between *autonomy* and *independence*. Before proceeding, articulate this distinction in your own words. A useful test: Can you describe a situation in which a person is highly independent but experiences low autonomy? And conversely, a situation in which a person operates under significant external structure but experiences high autonomy? If you find yourself struggling to construct these scenarios, revisit the definition above — the distinction is foundational.
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: Can you explain why the definition of "need" in BPNT is more restrictive than everyday usage, and why meeting the three criteria (universal, organismic, satisfaction-predicts-well-being) matters for the theory's claims?
+> 
+> **Application**: Think of a learning environment you know well. Which of the three needs does it most richly support? Which does it most regularly fail to support? Does it seem like the better-supported needs "make up for" the deficits in the others?
+> 
+> **Extension**: The conjunctive thesis is a strong claim. What evidence would most decisively falsify it? What would compensatory data actually look like?
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Before engaging with the evidence, record your current position: How confident are you (1–10) that the three needs are *all necessary* for well-being, versus being *additively helpful*? What evidence or intuitions support your view? This baseline makes your subsequent learning visible.
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Rate your understanding of the three distinct mechanisms discussed in this phase on a scale of 1–10:
+> (a) the secure base mechanism linking relatedness to autonomous engagement,
+> (b) the approach/avoidance distinction explaining the satisfaction-frustration asymmetry,
+> (c) the moving-target dynamic for competence need satisfaction.
+> 
+> Without looking back, try to explain mechanism (b) to an imagined colleague: why does need frustration activate qualitatively different responses than need absence? If there is a gap between your confidence rating and your ability to explain this, return to Section 4.3 before proceeding.
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the mechanistic reason why need frustration activates different outcomes than need absence, and what does this imply for interventions that aim to reverse need-frustration effects?
+> 
+> **Application**: Think of a setting where you have observed what might be a "substitute satisfaction" — intense, rigid engagement that seemed to serve a need without genuinely fulfilling it. Does the BPNT framework clarify what you observed?
+> 
+> **Extension**: The substitute satisfaction dynamic implies that genuinely satisfying all three needs might reduce the appeal of certain substitute activities (e.g., ego-involved performance, aggressive status-seeking). What would a research design to test this look like?
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the most important design consequence of the conjunctive thesis, and how does it differ from an additive model of motivational factors?
+> 
+> **Application**: Identify a specific feature of a learning environment you know that might be creating need frustration (rather than merely need absence). What would a needs-based intervention look like in that context?
+> 
+> **Extension**: The measurement limitations are significant. What would non-self-report measures of need satisfaction look like? How might behavioral or physiological indicators be developed?
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> Return to what you recorded at the start of Phase III. How has your position on the conjunctive vs. compensatory question shifted? Was the shift additive (new information added to your prior view) or structural (your framework for thinking about motivation changed)? The distinction reveals the depth of engagement this analysis has produced for you.
+
+> [!reflection] **Reflect** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the single most important insight from this report — the one that most changes how you think about motivation and learning environment design?
+> 
+> **Application**: In three sentences, explain the conjunctive system thesis, the satisfaction-frustration asymmetry, and one practical consequence of each, as you would to a colleague.
+> 
+> **Extension**: What question does this analysis leave most urgently unanswered for you? What would you most want to know that this report did not cover?
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Before reading the framework section, take a moment to consider: On a spectrum from "fully externally controlled" to "fully intrinsically motivated," how many distinct positions do you think exist? Are these positions discrete stages, like rungs on a ladder, or something else? Commit to your answer and your reasoning — the theoretical architecture OIT proposes may challenge your intuition in a specific way.
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Before proceeding, distinguish clearly in your own mind between *introjected* and *external* regulation. Both involve controlled motivation, but the psychological mechanism differs importantly. Can you articulate what specifically makes introjection a form of *internalization* even though the person hasn't made the value genuinely their own? This distinction becomes critical for understanding the evidence in Phase III.
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the theoretical claim embedded in the term "organismic" in OIT's name? Why does it matter whether internalization is a natural tendency or an achieved outcome?
+> 
+> **Application**: Think of a value or behavior you adopted under external pressure that now feels fully your own. Where on the regulatory continuum would you locate it? Can you identify what shifted its position?
+> 
+> **Extension**: What would OIT predict about a person raised in an extremely controlling environment where genuine internalization was never supported? Would they have no internalized values, or would they have values of a particular character?
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Before engaging with the evidence, capture your current position: Do you believe that the *quality* of motivation (how self-determined it is) matters for learning and well-being outcomes *independently* of motivation quantity? Rate your confidence 1-10. What is your intuition based on? Record your answer to compare with the evidence picture.
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the key finding about introjection that disrupts a simple reading of the regulatory continuum, and what is the best theoretical explanation for it?
+> 
+> **Application**: If you were designing an educational environment aiming to reduce introjected regulation, what specific features would you change? What assumptions does your answer rely on?
+> 
+> **Extension**: The cross-cultural evidence suggests that the *mechanism* of autonomous motivation may vary across cultures even if its functional importance is universal. What would this mean for designing internalization-supportive environments in multicultural settings?
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Rate your current understanding of OIT's internalization mechanism on a scale of 1-10. Without looking back, try to explain: (1) what role need satisfaction plays in internalization, and (2) why autonomy support is not the same as permissiveness. Compare your explanation to the preceding sections. Any gap between confidence and performance is valuable metacognitive data — and may point to specific sections worth revisiting.
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the difference between addressing external regulation and addressing introjected regulation, and why does it matter for practice?
+> 
+> **Application**: Can you identify an analogy from a different domain — perhaps therapy, coaching, or behavior change — that captures the dynamic of introjection's resistance to simple freedom-giving? What does the analogy illuminate?
+> 
+> **Extension**: OIT proposes that the need for relatedness is part of the substrate for internalization. But what happens when a relationship that once supported internalization becomes unavailable — through loss, conflict, or change? What does OIT predict about the stability of regulations previously internalized within that relationship?
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> Return to your pre-evidence knowledge state. How has your position on whether motivation quality matters independently of quantity shifted? Was the shift incremental (adding evidence to an existing belief) or structural (changing the conceptual frame)? What single piece of evidence was most decisive for you, and why?
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the normativity problem in OIT, and why does it matter for practitioners?
+> 
+> **Application**: If you were advising an organization that wanted to move its employees from controlled to autonomous motivation, what would your first three recommendations be, in order of priority?
+> 
+> **Extension**: What additional evidence would you need to act on OIT's implications with full confidence in a specific context — for example, corporate training, medical education, or youth sports?
+
+> [!reflection] **Reflect** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> **Comprehension**: What is the Integration Paradox, and what does it imply about the sequence of interventions for learners in chronic controlled motivation?
+> 
+> **Application**: In three sentences, how would you explain the essence of OIT to a colleague who has heard of intrinsic motivation but not of the regulatory continuum?
+> 
+> **Extension**: What question has this analysis made you most curious about pursuing? The expansion topics in Phase VIII offer several directions.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> **Reflective Questions for Personal Application**
+> 
+> *First Reflection: Historical Distance and Contemporary Relevance* — The Stoics developed their philosophy to address specific historical challenges: the collapse of city-state autonomy, chronic political instability, limited individual power in vast empires. How do these original contexts both illuminate and potentially limit Stoicism's contemporary application? Consider whether the conditions that made Stoicism compelling in the Hellenistic and Roman periods parallel our current situation of rapid change, political uncertainty, and feelings of powerlessness amid global systems beyond individual control. Does recognizing Stoicism's original function as a response to concrete historical crisis change how you approach its practical application, or does it suggest that certain existential challenges transcend historical specificity? Examine whether your own attraction to Stoic principles reflects similar needs for psychological resilience and ethical clarity amid circumstances beyond your control, and whether understanding the tradition's origins helps you distinguish its timeless insights from historically contingent elements that may require adaptation.
+> 
+> *Second Reflection: The Evolution from System to Practice* — Stoicism transformed across five centuries from Chrysippus's technical philosophical system requiring expertise in logic and physics to Epictetus's stripped-down practical ethics and Marcus Aurelius's personal self-reminders, raising questions about what constitutes the "authentic" Stoic tradition. How does this evolution challenge the notion of philosophical systems as static bodies of doctrine? Consider your own engagement with Stoicism: do you approach it as a comprehensive metaphysical worldview requiring acceptance of Stoic physics and logic, or as a practical toolkit for ethical development and emotional resilience that can be extracted from its original theoretical framework? Reflect on whether this instrumentalist approach—taking what works while discarding theoretical commitments—represents legitimate philosophical adaptation or betrays essential features of the tradition. What would the early systematizers like Chrysippus say about late practical focus, and what would the late practical teachers like Epictetus say about early theoretical elaboration?
+> 
+> *Third Reflection: The Problem of Philosophical Hypocrisy* — The apparent contradiction between Seneca's Stoic teachings and his enormous wealth, political power, and compromised relationship with Nero raises enduring questions about the relationship between philosophical ideals and lived reality. How do you navigate the gap between philosophical aspirations and actual behavior in your own life? Consider whether expecting perfect consistency between principle and practice sets an impossible standard that discourages moral effort, or whether accepting "progress" (*prokopē*) rather than perfection licenses self-deception and rationalization of moral failure. Examine your current relationship with core Stoic principles: are there areas where you profess commitment to ideals your behavior contradicts, and how do you conceptualize this gap—as temporary imperfection to be overcome through practice, as inevitable human limitation requiring compassion, or as evidence that certain principles are unrealistic and should be revised? The historical Stoics themselves struggled with this tension, suggesting it may be inherent to philosophical life rather than a failure to be eliminated.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> **On Practice Commitment**: If systematic self-examination through journaling genuinely enhances cognitive capabilities, emotional resilience, and behavioral self-control as empirical evidence suggests, what justifies *not* implementing such practice? Are resistance patterns protecting against genuine difficulty or merely reflecting habitual avoidance of effortful cognitive work?
+> 
+> **On Philosophical Foundations**: Stoic journaling rests on specific metaphysical commitments—the dichotomy of control, virtue as sole good, rational nature of cosmos—that many contemporary individuals may not share. Can the practice mechanisms (metacognitive monitoring, cognitive reappraisal, behavioral tracking) function effectively when divorced from underlying Stoic philosophy, or does philosophical coherence prove essential for sustained motivation and meaningful interpretation?
+> 
+> **On Measurement and Optimization**: Modern culture emphasizes quantification and optimization across life domains. Does attempting to "optimize" journaling practice—through structured prompts, systematic schedules, measured outcomes—enhance its effectiveness or paradoxically undermine the authentic self-examination central to its value? Where does healthy structure end and counterproductive rigidity begin?
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> Before proceeding to the assumption audit, write down — or hold clearly in mind — what you currently believe about growth mindset. Do you believe that your own mindset has shaped your achievement? Do you believe intelligence is malleable? Where did this belief come from — personal experience, a book, a workshop, a teacher? Can you articulate what evidence convinced you, or did you adopt the view because it is culturally dominant? There is no wrong answer here. The point is to notice the difference between belief that arrived through reasoning and belief that arrived through cultural absorption.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. Which assumption's dissolution surprised you most? Many practitioners feel the shock most strongly with Assumption 6 (intervention transfer) because the entire applied enterprise rests on it. Its dissolution does not mean the theoretical claims are false — only that brief, generic delivery of them does not reliably change outcomes.
+> 2. Did any assumption you expected to dissolve actually survive? Assumptions 1 and 8 partially survived in revised form, suggesting that ability beliefs are real psychological constructs worth attending to — just not in the domain-general, stability-assuming, instruction-responsive form the framework treats them as.
+> 3. Is the conventional understanding more or less stable than you expected? Significantly less stable — and the instability clusters specifically around the causal mechanism and the intervention architecture, which are exactly the parts that matter most for practice.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> For each axiom, ask yourself: can I imagine it being false? For Axiom 1, can you imagine a world where attributing failure to lack of effort produces withdrawal rather than persistence? Only at the extreme (when effort is genuinely exhausted and more effort would be futile) — which is the scope limit, not a falsification. For Axiom 2, can you imagine domain-specific ability beliefs that are not shaped by domain-specific experience? Only in a system where people never update on evidence — possible but not the normal case. For Axiom 3, can you imagine goal orientation not affecting depth of processing and persistence? Only if goals don't influence information processing — again contradicted by robust experimental evidence. These axioms hold.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. There are three axioms where the conventional account implicitly presupposed eight or more assumptions. The reduction is striking. Most of what the growth mindset framework claims is either derivable from these three foundations or is overstated.
+> 2. The simplicity of Axiom 1 is not a disappointment — it reflects genuine theoretical compression. The insight that failure attribution to stable, uncontrollable causes produces helplessness is one of the most powerful and well-verified findings in behavioral science.
+> 3. If you could add a fourth axiom, you might propose that "Felt challenge promotes deeper processing than felt mastery" — the "desirable difficulties" axiom from cognitive science. This is well-supported, but it is derivable from Axiom 3 (challenge promotes mastery-goal activation) rather than being independently irreducible.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. The convergence with the conventional view at the phenomenological level should be reassuring. The conventional view is approximately right about what good learning environments look like. It is wrong about the mechanism and the intervention strategy.
+> 2. The most unsettling divergence may be the implication that the billions of dollars and millions of instructional hours invested in mindset interventions have been aimed at the wrong lever. The cognitive content of the intervention — "your brain is malleable" — is not what helps students. What helps is changing the attribution and goal-orientation dynamics in specific contexts.
+> 3. The most important practical change this reconstruction suggests: stop delivering growth mindset as a one-time workshop and start building mastery-experience architectures in specific performance domains.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. The revised understanding may leave you somewhat less certain about your ability to easily improve student outcomes through psychological intervention. This is appropriate epistemic calibration, not pessimism.
+> 2. The most important practical change: shift from asking "how do I get students to believe intelligence is malleable?" to asking "how do I design this learning sequence so that the feedback environment attributes failures to specific, correctable causes and activates mastery-goal orientation?"
+> 3. There is real tension between the revised understanding and much institutional practice — schools have invested substantially in growth mindset programs, teachers have been trained in the language, and dismantling this investment creates friction. The tension is real but should not prevent the better-grounded approach.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. This analysis may have clarified the process of first-principles thinking as much as the topic of growth mindset. The key discipline — holding the question "is this an axiom or an assumption?" against every proposition — is applicable to any framework that has achieved cultural authority.
+> 2. The most likely place where this analysis carries the analyst's unexamined assumptions is in its privileging of experimental and meta-analytic evidence over qualitative and practitioner evidence. A sophisticated critic would ask: what are the assumptions embedded in the evidence hierarchy itself?
+> 3. The topic in your own work or life most likely to benefit from this kind of deconstructive analysis is any domain where you have absorbed a framework so thoroughly that its assumptions feel like facts.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> Before we begin dismantling assumptions, take a moment to consider: what do you currently believe about mental models? Do you think human reasoning is fundamentally model-based, rule-based, or something else? Did you arrive at this view by examining evidence, or by absorbing it from coursework, popular accounts (Norman's *The Design of Everyday Things*), or the professional community you inhabit? Note that Johnson-Laird's precise technical sense of "mental model" and the loose colloquial sense are radically different — which one have you been thinking with?
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> Which of these assumption audits produced resistance? If you reacted to the dissolution of the rule/model dichotomy with "but that's obviously one or the other," note that reaction. The dichotomy is one of the field's inherited framings — it shaped careers, textbooks, and funding priorities — and its dissolution is therefore unsettling even when the evidence supports it. Productive discomfort here is the signal that we've found something load-bearing in the conventional understanding.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. The most surprising dissolution is probably Assumption 5 — the rule/model dichotomy. If this is an artifact, the *entire framing* of the debate changes, not just the resolution.
+> 2. Assumption 6 (content matters) survives but in theoretically neutral form — it no longer serves as evidence *for* models *against* rules.
+> 3. The conventional understanding is less stable than it appears: three assumptions dissolved or are suspended, two require significant revision, and only two survive relatively intact.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> For Axiom 1: Can you imagine a world in which reasoning errors are random? What would that world's cognitive architecture look like? The fact that it's hard to imagine is evidence of the axiom's robustness — randomness would require that all systematic influences on reasoning (working memory, content, prior knowledge) have *zero net effect*, which is implausible.
+> For Axiom 5 (the one we lack): Notice that none of these axioms specify *what kind of representation* is doing the work. That absence is not an oversight — it reflects the genuine state of the evidence.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. There are *four* axioms, not Johnson-Laird's rich representational architecture — far fewer than the theory deploys.
+> 2. Notably, none of the four axioms require the concept of a "mental model" as technically defined. They require: systematicity, construction, resource-sensitivity, and content-sensitivity. These are compatible with model-based, rule-based, probabilistic, and hybrid architectures.
+> 3. The most important missing axiom — the one we cannot establish — is the representational format axiom: whether reasoning proceeds specifically via analogical models. That is not a bedrock truth; it is a theoretical hypothesis about the mechanism that implements the four genuine axioms.
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. The convergence that is most reassuring: reasoning errors are systematic and arise from the constructive process. This confirms that Johnson-Laird was right to target the *representations* people build as the locus of errors, not the inference rules they apply.
+> 2. The divergence that is most unsettling: the specific representational format (analogical mental models) is not established by the evidence that supports the theory's empirical predictions. The question may be unanswerable at the level of behavioral experiments.
+> 3. The practical change: interventions aimed at improving reasoning should target the *constructive process* — teaching people to generate alternative representations, to consider what they may have omitted, to interrogate their pragmatic assumptions — rather than specifically "thinking in models" or "applying rules."
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. This analysis should produce more confidence in the *empirical* core of mental models research (the error patterns, the difficulty effects) and less confidence in the *theoretical* interpretation (that these effects prove analogical representation). One can be a thoroughgoing mental models researcher while agnostic about format.
+> 2. The single most important change: the rule/model dichotomy was always a theoretical framing, not a discovery. Dissolving it opens space for pluralistic accounts — perhaps the most important implication for researchers.
+> 3. For practitioners: the implication is not "stop teaching mental model building" but "be agnostic about whether the benefit comes from the analogical format or from the process of active construction and alternative generation."
+
+> [!reflection] **Reflect** *(from [[stoicism-codebase-pack]])*
+> 1. This report has changed the question. We arrived to analyze "what are mental models?" and left asking "what is the right normative standard for human reasoning?" That migration of the fundamental question is itself diagnostic — it suggests that the conventional framing concealed a deeper issue.
+> 2. The potential blind spot in this analysis is the analyst's theoretical orientation toward pluralism. A committed mental models theorist would have found different assumptions to dissolve and different axioms to retain. First-principles thinking is not view-from-nowhere thinking.
+> 3. The topic in your own thinking most suited to this method: any domain where you hold a strong theoretical preference that has calcified into an assumption. The discomfort of the assumption audit is most productive there.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Before proceeding, consider: what is your current working model of what motivates people to learn, persist, and engage? Do you tend to think of motivation as fundamentally about rewards and punishments, about beliefs and expectations, or about something more deeply organismic — an inherent directionality in human development? SDT takes a strong position on this question, and identifying your prior commitments will help you track where the theory challenges, confirms, or extends your existing understanding.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Consider your own most productive learning experiences. Were they characterized merely by the absence of pressure and coercion, or did they involve something actively supportive — a mentor who offered meaningful choices, an environment that provided just-right challenge, a community where you felt genuinely valued? SDT predicts that it is the active presence of need support, not merely the absence of need thwarting, that catalyzes optimal motivation.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> 1. SDT claims that autonomy means volition, not independence. Can you identify a situation in which you freely chose to submit to authority or follow strict rules? If so, SDT would classify that as autonomous behavior. Does that match your intuitive sense of the experience?
+> 2. The internalization continuum proposes that extrinsic motivation can be progressively transformed into self-endorsed regulation. Think of a practice you initially performed out of obligation but now value intrinsically — what happened during the transition? Can you trace it along the continuum?
+> 3. Which of the three basic needs — autonomy, competence, or relatedness — do you consider most important for your own learning? SDT predicts that all three are essential. Does the theory's universality claim match your experience?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Among the motivational frameworks surveyed — SDT, Achievement Goal Theory, Self-Efficacy Theory, Expectancy-Value Theory — which do you find most intuitively compelling? And in what ways does your intuitive preference reflect your own motivational history? SDT would predict that people who have experienced high autonomy support will find organismic explanations more resonant, while those in highly controlling environments may find reinforcement-based explanations more familiar.
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> 1. SDT emerged from the intersection of humanistic psychology and experimental motivation research. What are the strengths and risks of combining phenomenological insight with empirical rigor? Does the combination produce a framework that is stronger than either tradition alone, or does it inherit weaknesses from both?
+> 2. The six mini-theories address different phenomena but share a common foundation in basic psychological needs. Does this architectural unity represent theoretical elegance or an overextension of a single explanatory mechanism?
+> 3. How would you characterize the relationship between SDT and the other motivational frameworks — complementary, competing, or operating at different levels of analysis?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Consider the goals you are currently pursuing. Which fall on the intrinsic side (growth, relationships, contribution) and which on the extrinsic side (wealth, status, appearance)? GCT makes a strong empirical prediction: the relative weight of intrinsic versus extrinsic goals in your goal portfolio will predict your well-being independently of how successful you are in achieving them. Does this prediction match your experience?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> 1. SDT claims that all motivational effects operate through a single mediating pathway: basic need satisfaction. Can you think of a motivational phenomenon that this mechanism seems unable to explain? What would it take to falsify the need satisfaction mechanism?
+> 2. The internalization process requires autonomy support, competence structure, and relational warmth. In your educational experience, which of these conditions has been most frequently absent? What were the motivational consequences?
+> 3. CET predicts that the same external event (e.g., a reward or a piece of feedback) can enhance or undermine intrinsic motivation depending on its functional significance. Can you reconstruct a specific episode where you experienced the same type of event (e.g., praise) as either informational or controlling — and felt the motivational difference?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> 1. SDT-informed teaching emphasizes choice, rationale, and perspective-taking. In your experience, what are the practical barriers to implementing these practices in institutional educational settings? Are there contexts where controlling practices might be defensible?
+> 2. The universality debate raises a fundamental question: can a motivational theory developed primarily within Western academic contexts claim universal applicability? What evidence would you need to see to be persuaded either way?
+> 3. SDT claims that the pursuit and attainment of extrinsic goals does not produce lasting well-being. Does this claim apply to financial security — or does GCT's prediction hold only above a threshold of material sufficiency?
+
+> [!reflection] **Reflect** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> 1. What is the single most important insight you have gained from this report? How does it change or enrich your prior understanding of motivation?
+> 2. If you were to explain the essence of Self-Determination Theory to a colleague in three sentences, what would you say?
+> 3. What is the next question you want to pursue? What has this report made you curious about?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Concrete Examples
 
 > [!example] **Process Praise in Practice** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*
@@ -224,6 +1558,572 @@ importance: high
 > **Process-implicating (cultivate)**: "You worked through that systematically — I noticed you checked your work before submitting." / "The creative approach here came from your willingness to try a non-standard angle — that's a specific strategy worth naming." / "The improvement from your draft to this version is substantial — what did you do differently in your revision process?"
 > 
 > The key linguistic moves:…
+
+> [!example] **Controlling vs. Informational Language** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> The functional significance of a message is not determined solely by its semantic content but by the extent to which it conveys pressure versus information. Compare: "You should practice more if you want to keep your grade up" (controlling — includes implicit threat, shifts locus of causality externally) with "I've noticed that students who practice the algorithmic steps daily in the first week find the creative problem-solving in week two much more accessible — something to consider as you plan your time" (informational — provides competence-relevant information, preserves choice). Both convey roughly similar content, but SDT predicts that the informational framing preserves autonomous functioning while the controlling framing introduces perceived external pressure that may erode intrinsic interest and shift regulation toward external or introjected modes.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **The Paradox of the Wealthy Stoic**
+> 
+> [[Lucius-Annaeus-Seneca]] (c. 4 BCE-65 CE) embodied what critics saw as Stoicism's fundamental hypocrisy. He preached indifference to wealth while accumulating one of the largest fortunes in Rome. He wrote eloquently about withdrawing from political turmoil while serving as advisor and speech-writer to the emperor Nero. He advocated freedom from passion while his tragedies depicted violent emotion in lurid detail. His enemies mocked him as a hypocritical moralist who couldn't practice what he preached.
+
+> [!example] **📝 Case Illustration: Anger Management Through Stoic Journaling** *(from [[stoicism-codebase-pack]])*
+> Consider how a Stoic practitioner might use journaling to modify anger responses:
+> 
+> **Week 1-2 (Monitoring Phase)**: Journal documents instances when anger arose, recording triggers, physiological sensations, thoughts, and behaviors without attempting to change them. This establishes baseline awareness and reveals patterns: "Anger primarily triggered by perception of disrespect; physical tension in chest and jaw; thought 'they shouldn't treat me this way'; behavior was raised voice and aggressive posture."
+> 
+> **Week 3-6 (Intervention Phase)**: Evening reflection explicitly applies Stoic reframing: "They didn't disrespect me—I judged their behavior as disrespectful. Their action is outside my control; my interpretation is within it. I chose to interpret neutrally observable behavior (they interrupted me) as malicious intent (they don't value me). Alternative interpretation: they were excited about the topic and didn't notice they interrupted." This cognitive reappraisal is reinforced through written repetition across multiple instances.
+> 
+> **Week 7+ (Automatization Phase)**: The reframing pattern begins occurring spontaneously during triggering situations rather than only during evening reflection. Journaling documents this progress while monitoring for situations where old patterns persist, enabling targeted intervention where needed. Eventually, the reappraised interpretation becomes the default response, requiring minimal cognitive effort.
+
+> [!example] **Spatial Reasoning as a Test Case** *(from [[stoicism-codebase-pack]])*
+> Consider spatial relational reasoning — "A is to the left of B; B is to the left of C; therefore A is to the left of C." This is easy. "A is to the left of B; C is to the right of A; where is B relative to C?" — this is harder. The mental models account explains this by the number of models needed. Our reconstruction says: the constructive process for the second problem requires more simultaneous information. Both accounts predict the same difficulty ordering. The axiom-based reconstruction does not tell us whether people use a spatial analog or a propositional representation — but it does tell us that whatever they use, it must be sensitive to simultaneity demands. Neuroimaging, which shows parietal (spatial) activation for these tasks, is consistent with analog representation but does not prove it — spatial computations can be performed on non-spatial representations.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Marcus's Multi-Perspective Technique**
+> In Book 4.3, Marcus examines a single event from multiple angles:
+> - Physical description (what actually occurred)
+> - Causal chain (what led to this)
+> - Universal context (how this fits cosmic order)
+> - Rational assessment (what virtue demands)
+> - Mortality reminder (brevity of life)
+> This multi-perspective analysis prevents [[Cognitive-Narrowing]] and reveals hidden assumptions.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Marcus Aurelius and the Antonine Plague**
+> 
+> Between roughly 165 and 180 CE, the Roman Empire was struck by a catastrophic pandemic — probably smallpox — that killed an estimated five million people, perhaps a quarter of the Roman army. Marcus Aurelius managed this crisis while simultaneously commanding military campaigns on multiple fronts, all while writing the *Meditations* as a private philosophical journal.
+> 
+> His response to the plague illustrates Stoic principles in action at the highest possible stakes. He did not interpret the plague as divine punishment or as evidence of cosmic malevolence — the Stoic understanding of the Logos would not permit this. He organized public health measures, maintained civil order, managed imperial finances strained by the disaster, and continued campaigning when necessary. Through it all, he reminded himself — in the *Meditations* — that death is natural, that the plague was an external event outside his control, and that his only genuine obligation was to respond to it justly and wisely.
+> 
+> **The Stoic Lesson**: The distinction between the event itself (not in our control) and our response to it (in our control) is not merely consoling philosophy — it is a framework for effective action. Panic and despair at the plague's magnitude would have consumed the psychological and administrative resources Marcus needed. Stoic equanimity did not mean indifference to the suffering around him; it meant the preservation of his rational capacity to act helpfully despite being surrounded by suffering.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Marcus and the Antonine Plague**
+> 
+> When the Antonine Plague devastated Rome from 165 to 180 CE, Marcus Aurelius faced conditions that would have broken many rulers — mass death, economic disruption, military pressure on multiple frontiers, and the constant temptation to respond with panic or denial. His Stoic training shows in the *Meditations*' repeated return to the impermanence of individual lives, the naturalness of death as part of the cosmic order, and the sufficiency of doing one's duty well regardless of outcome. He organized relief efforts, maintained military commitments, and continued to show up to his administrative responsibilities not because he was unaffected by the scale of suffering but because his commitment to justice and his understanding of duty were more fundamental than his fear or grief.
+> 
+> **The Lesson**: Virtue in its unity does not eliminate difficulty or eliminate emotional response to difficulty. It provides a stable orientation — a commitment more fundamental than circumstance — that makes continued right action possible even under conditions of sustained adversity.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Epictetus and the Domain of the Will**
+> 
+> When students came to Epictetus complaining that external circumstances were preventing them from living well, his standard response was to redirect their attention to the domain of prohairesis. Not: "Things will get better." Not: "You should change your circumstances." But: "Your circumstance cannot touch what is genuinely yours — your choice of how to respond, what to value, what to pursue. The question is not what has happened to you but what you will do with your prohairesis given what has happened."
+> 
+> **The Lesson**: The Stoic claim about prohairesis is not that circumstances don't matter — they clearly do — but that the quality of one's engagement with circumstances depends on one's inner orientation more than on the circumstances themselves. This is not consolation philosophy; it is a robust claim about the structure of agency that has been repeatedly supported by empirical research on resilience and post-traumatic growth.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: The Morning Review in Practice**
+> 
+> **The Situation**: Marcus Aurelius was, by most accounts, a person of genuine patience and goodwill who was nonetheless surrounded by people who did not share his values — ambitious courtiers, incompetent subordinates, demanding supplicants, political rivals. The *Meditations* contains extensive evidence that he found this genuinely difficult.
+> 
+> **The Practice**: His response was not to wish the situation were different or to attempt to isolate himself from difficult people. It was to pre-process the difficulty each morning, ensuring that when the difficult person arrived, they arrived into a mind that had already accommodated their existence, understood their motivation in Stoic terms (ignorance, not malice), and resolved not to be disturbed by what could not harm his genuine good.
+> 
+> **The Stoic Reading**: The practice embodies all three of Epictetus's disciplines simultaneously. It trains the Discipline of Desire (not wanting people to be different from what they are), the Discipline of Action (intending to act justly toward them regardless), and the Discipline of Assent (pre-examining and pre-correcting the impression that their behavior is a genuine threat to him).
+> 
+> **The Lesson for Ordinary Life**: The morning review is not only for emperors dealing with courtiers. Its structure is universally applicable: before the day begins, identify the most likely sources of disturbance — the difficult colleague, the slow commute, the uncertain medical test, the unfinished work — and pre-process each one through the Stoic framework. What do I control here? What can actually harm my genuine good? How would a person of good character respond?
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Seneca's Evening Audit**
+> 
+> **The Practice Structure**: Seneca's description reveals a three-part evening review: (1) recall the day in its sequence; (2) identify specific moments of failure or weakness without self-condemnation; (3) offer self-forgiveness paired with a concrete commitment to improvement. The Pythagorean origins of this practice (it appears in slightly different form in Pythagorean communities centuries before Stoicism) suggest it addresses a deep human need for honest self-assessment that many traditions have independently discovered.
+> 
+> **The Critical Element — Non-Judgmental Honesty**: The most psychologically sophisticated aspect of Seneca's account is the combination of unflinching honesty ("I hide nothing from myself") with genuine self-compassion ("I forgive you"). The purpose of the review is not self-flagellation — which the Stoics would have classified as an irrational *pathē* directed at one's past self — but accurate diagnosis. A doctor who softens the diagnosis to spare the patient's feelings is a bad doctor. A practitioner who softens the evening audit to spare themselves discomfort is a bad student of Stoicism.
+> 
+> **What This Means in Practice**: A genuinely effective evening review asks: Where today did I respond to externals as if they mattered more than my character? Where did I allow an impression to pass without examination, and thereby react rather than respond? Where did I act in accordance with my values? Each question deserves a specific, concrete answer — not a general self-assessment ("I was stressed today") but a precisely identified moment ("At 3pm, when my colleague criticized my work, I felt defensive and said something dismissive — that response was driven by wounded pride, which is an irrational attachment to reputation").
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Voluntary Discomfort as Resilience Training**
+> 
+> **The Situation**: Pigliucci describes deliberately practicing minor voluntary discomforts — eating simple food when he could afford better, foregoing comfortable transport, occasionally fasting for a day — not as punishments or performances of virtue, but as calibration exercises. The question the practice is designed to answer is: *What do I actually need for my wellbeing, and what do I merely prefer?*
+> 
+> **The Stoic Reading**: Most people's sense of what they need for their wellbeing has been calibrated by their accustomed standard of living — they feel they "need" the level of comfort they have become used to. This calibration is largely a product of hedonic adaptation, not of genuine necessity. Voluntary discomfort resets the calibration by demonstrating, repeatedly, that the practitioner can function, maintain their values, and even be happy in conditions substantially below their accustomed standard. The practice does not teach that comfort is bad; it teaches that comfort is not necessary — a crucial distinction for the [[Preferred-Indifferents]] framework.
+> 
+> **The Lesson**: The practice is a form of what Seneca called *meditatio paupertas* — "meditation on poverty" — which he recommended as a periodic exercise: "Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'" The answer, almost invariably, is no. And that no is one of the most liberating discoveries available to a Stoic practitioner.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: The Emperor's Morning Reminder**
+> 
+> Marcus begins the *Meditations* with a catalogue of what he learned from the people who shaped him — not a celebration of power but a deliberate act of humility, reminding himself of his debts and of the character he aspires to rather than the character he often manages. Then, in Book V, he writes the passage that has become one of the most famous in the Stoic literature: a dialogue with himself about getting out of bed on a cold morning when he would rather stay under the covers. The philosophical move is characteristic: he uses the small case to rehearse the principle that will be needed in the large one. If he cannot act in accordance with his nature and his role in the small case (getting up), how can he trust himself to do so in the large one (governing justly under pressure)? The practice of virtue is continuous and cumulative, not reserved for exceptional circumstances.
+> 
+> **The Leadership Application**: Marcus's practice illustrates that Stoic leadership is not a framework deployed in crises but a discipline practiced daily. The integrity of judgment in high-stakes decisions is not something that can be summoned from nowhere — it is the accumulated result of thousands of small choices to examine one's own thinking, to act with courage in small things, to maintain honesty with oneself in private before being asked to maintain it in public.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: The Philosophy of Restraint**
+> 
+> Seneca's core argument in *On Clemency* is this: the ruler's power is not diminished by restraint — it is demonstrated by it. The ruler who punishes excessively is revealing that they are governed by reactive emotion rather than reason; they are, in the deepest sense, not in control. The ruler who can exercise restraint in the face of provocation has demonstrated the rarest and most important power: self-governance. This is not a counsel of softness; Seneca is perfectly clear that justice requires proportionate response to genuine wrongdoing. It is a counsel of *temperance* — the calibrated application of appropriate force rather than the reflexive discharge of emotional reaction.
+> 
+> **The Leadership Application**: For the contemporary leader, the parallel is precise. The leader who responds to challenge, failure, or conflict with disproportionate reaction — public criticism of team members, impulsive punishment of disagreement, escalation driven by ego rather than principle — reveals not strength but the absence of it. The Stoic leader who maintains proportionate, principled response in conditions that would trigger reactive behavior in others demonstrates the kind of authority that actually builds organizational trust and long-term effectiveness.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Stoicism in the Hanoi Hilton**
+> 
+> Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
+> 
+> Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve-Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
+> 
+> **The Leadership Application**: The Stockdale case demonstrates that Stoic leadership is not for easy circumstances. It is specifically designed for conditions where the tools that ordinarily produce good outcomes — optimism, positive thinking, confidence in improvement — actively fail. The leader who understands the Stoic framework has a more robust resource than optimism: a commitment to acting well regardless of how the situation resolves, grounded in a clear understanding of what is genuinely theirs to control.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Epictetus and the Slave Owner's Torture**
+> 
+> An ancient story — repeated in multiple sources — describes [[Epictetus]]'s master deliberately twisting his leg, presumably as an act of cruelty or as a test of whether Stoic equanimity was genuine or merely performed. Epictetus reportedly said, calmly, "You are going to break it." The master continued. Epictetus then said, "Did I not tell you that you would break it?" He reportedly showed no signs of anguish.
+> 
+> Whether this story is historically accurate or legendary, its philosophical content is precisely what the Stoic framework predicts and illustrates. The external event — physical pain and the injury — was real. What Epictetus declined to add to it was the layer of psychological devastation that would come from judging the event to be an outrage against his dignity, a sign of cosmic injustice, or evidence that his life was destroyed. The physical pain was not within his control. His response — characterized by clarity, absence of resentment, and the maintenance of his own judgment under pressure — was. He exercised the one thing in that interaction that was genuinely his.
+> 
+> **The Lesson**: The Stoic resilience framework does not require extraordinary courage of a kind most people lack. It requires the philosophical clarity to maintain the boundary between what is happening to you and what you do with it — and to continue locating your agency and dignity in the second category even when the first is severe. This is cultivatable through practice before the moment arrives.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: James Stockdale and the Stoic Framework in Extremis**
+> 
+> Stockdale had been introduced to Epictetus by philosopher Philip Rhinelander at Stanford. When he ejected from his aircraft over Vietnam, he later recounted thinking: "I'm leaving the world of technology and entering the world of Epictetus." He carried the [[Enchiridion]]'s framework with him as the cognitive architecture for surviving what followed.
+> 
+> His application of the [[Dichotomy-of-Control]] was direct and consequential. He could not control whether he was tortured, whether his fellow prisoners were treated humanely, or whether the war ended. He could control how he conducted himself under torture, what information he revealed and how he managed the inevitable moments when physical pressure exceeded his endurance, and the character of his leadership of the prisoner community. He focused entirely on the second category.
+> 
+> Crucially, Stockdale identified a specific psychological pattern that he called the "Stockdale Paradox" (named by Jim Collins in *Good to Great*): the prisoners who survived psychologically tended not to be the optimists who said "we'll be out by Christmas" — and then broke down when Christmas passed — but those who combined unflinching acceptance of the reality of their situation with an unshakeable conviction in their ultimate resilience. This is the Stoic combination exactly: *amor fati* (accepting what is) combined with the stable identity of prohairesis (the self that cannot be taken).
+> 
+> **The Lesson**: Stoic resilience in extremis is not the suppression of fear or pain. It is the maintained commitment to conducting oneself with integrity and clarity in the face of both, using the [[Dichotomy-of-Control]] as a cognitive structure that prevents the contraction of identity around what one cannot influence and redirects agency toward what one can.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Navigating Serious Illness with Stoic Orientation**
+> 
+> Without a Stoic framework, the most common psychological responses to Rachel's situation include: catastrophizing (mentally projecting to worst-case scenarios and inhabiting them as certainties), grief that expands into despair (the loss of her previous health becoming a loss of her sense of a worthwhile future), and the exhaustion of fighting the diagnosis itself — spending psychological resources resisting the reality rather than engaging with it.
+> 
+> With Stoic orientation, the first move is the application of the [[Dichotomy-of-Control]]: the diagnosis is real and not within her power to undo. What is within her power: her medical choices and engagement with treatment; her relationship with her body going forward; the quality of her relationships and presence with the people she loves; her continuing capacity to express virtue — care, courage, honesty, commitment to what she values — within whatever functional constraints the illness imposes. The illness changes the terrain. It does not change the agent navigating it.
+> 
+> The *premeditatio malorum* perspective: Rachel discovers, in working with this framework, that she has already done some of this thinking — that the years of deliberately contemplating impermanence have made the diagnosis, while genuinely painful, not the identity-shattering rupture it might otherwise have been. She can still distinguish between what she has lost and who she is.
+> 
+> The *amor fati* orientation: over time, Rachel finds that the illness, while something she would not have chosen, has clarified her priorities in ways that several normal years had not. The things she genuinely values — her relationships, her creative work, her engagement with the world — have become more vivid and more deliberately inhabited. The illness is part of her life; she can neither undo it nor, ultimately, live fully while spending her energy resenting it.
+> 
+> **The Lesson**: Stoic resilience does not mean Rachel suffers less or that the illness is somehow not a loss. It means her identity, her agency, and her capacity to inhabit her life fully are not entirely located in the external circumstances the illness has changed. This is the structural protection the framework provides — not immunity from pain, but resistance to despair.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **The Pattern: Relational Self-Correction as Practice**
+> 
+> **The Situation**: Marcus writes about dealing with people who are "troublesome, demanding, perverse" — the full spectrum of difficult people that any public figure encounters.
+> 
+> **The Response**: Rather than cataloguing their failings, he reminds himself of the doctrine of natural affiliation: these people are his relatives, sharing his rational nature. Their wrongdoing stems from ignorance. His task is not to punish or withdraw but to "show them the right path" if possible, and if not, to bear their failings with equanimity, because even their failings are part of the fabric of a rational cosmos.
+> 
+> **The Stoic Reading**: This is not passive acceptance. Marcus continued to make decisions, to correct where correction was possible, to hold people accountable to their obligations. What Stoic practice prevented was the contamination of his judgment by resentment — the degradation of his own character that would follow from treating his frustrations as license for cruelty or unfairness.
+> 
+> **The Lesson**: The Meditations are a record of someone who genuinely practiced this. The practice did not produce a person who never felt frustration; it produced a person who could feel frustration and continue to act with justice and generosity anyway.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Navigating a Chronic Relational Difficulty**
+> 
+> **The Situation**: An adult child navigating a parent whose behavior is consistently undermining, delivered without apparent self-awareness.
+> 
+> **The Stoic Analysis**:
+> 
+> First — the *Dichotomy of Control*. Her father's behavior is not in her control. His character was formed over eight decades; she did not produce it and cannot now fundamentally alter it. What *is* within her control: her interpretation of his comments, her emotional response to them, what she chooses to say in reply, how long she remains in the conversation, and whether she allows his assessment of her choices to contaminate her own self-assessment.
+> 
+> Second — the *involuntary error principle*. Why does her father behave as he does? Most likely: he was raised in a cultural context where parental authority was expressed through critique rather than affirmation; he genuinely believes he is helping; he may be experiencing anxiety about his own diminishing influence and relevance, which his criticism is a distorted attempt to manage. None of this excuses the behavior. All of it makes it comprehensible — and comprehension is the prerequisite for a response that is proportionate and useful rather than reactive and escalating.
+> 
+> Third — the *kathêkon*. What does the role of an adult child genuinely require? Honesty when honesty serves connection. Patience with the limitations of an elderly person. Setting appropriate limits on interactions that have become destructive. Not requiring the relationship to be other than it is.
+> 
+> **The Response**: Mara can choose to gently name the pattern once ("Dad, when you say things like that, I notice it makes me want to avoid talking to you about what matters to me, which isn't what I want"). She can choose to not defend her decisions — because their worth is not determined by his assessment. She can choose a brief, kind response and then change the subject. She can choose to reduce the topics she raises.
+> 
+> **The Lesson**: None of this makes the relationship what she wished it were. Stoicism does not promise relational transformation. It offers something more reliably available: the capacity to engage with a difficult relationship without being diminished by it — to maintain one's own character and one's own self-assessment independent of whether the other person changes.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Virtue-Based Friendship in Action**
+> 
+> **The Situation**: A philosopher corresponding with a student/friend over several years on the deepest questions of how to live.
+> 
+> **The Distinctive Features**: The friendship Seneca enacts with Lucilius is characterized by several qualities that Stoic philosophy mandates: absolute honesty (Seneca does not flatter, and he does not hide his own failings); genuine concern for Lucilius's flourishing rather than his happiness (Seneca challenges Lucilius when challenge is what growth requires, not merely when it is comfortable); recognition of their shared enterprise (both are making their way toward wisdom, and the friendship is animated by this shared direction); and absence of utility calculation (Seneca does not present the friendship as useful to either party — its value is intrinsic, located in the mutual recognition of two people genuinely trying to live well).
+> 
+> **The Lesson**: Stoic friendship is not cold or theoretical. The letters pulse with genuine affection, humor, and the particular pleasure of intellectual companionship. What Stoicism adds to ordinary affection is an orientation: the best thing you can do for someone you love is to be honest with them, to take their growth seriously, and to relate to them as the rational and capable being they are rather than as a source of your emotional needs.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Seneca's Meditatio Paupertatis in Practice**
+> 
+> **The Situation**: In Letter XVIII of the *Epistulae Morales*, Seneca describes his practice of periodic voluntary simplicity, written with the self-aware irony of a very rich man telling a friend to be poor sometimes. He describes setting aside several days to live on minimal rations — coarse bread, water, no comfortable bed — not as penance but as philosophical calibration. "I am not setting this before you as a rule," he writes, "but as a test. Lay aside for a few days your usual comforts, and let yourself discover whether poverty frightens you as much as your habits have led you to believe."
+> 
+> **The Stoic Reading**: Seneca is not advocating permanent asceticism. He continues to live in considerable comfort for the rest of the year. What the periodic poverty accomplishes is twofold. First, it provides an empirical test of a philosophical claim: that one's genuine wellbeing does not depend on one's material standard of living. The test is designed to be failed (if poverty turns out to be as devastating as feared) or passed (if it turns out, as Seneca believed, that the fear of poverty was more painful than poverty itself). Second, it recalibrates appreciation: after several days on bread and water, the ordinary meals that Seneca returned to were experienced, he reports, with genuine gratitude rather than as mere background entitlements. Negative visualization (addressed elsewhere in the series — see [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]) operates cognitively; meditatio paupertatis operates experientially.
+> 
+> **The Lesson**: The practice demonstrates that the felt sense of sufficiency — of having enough — is not a fixed quantity determined by one's material circumstances but a calibratable psychological state that can be maintained at a wide range of income levels through appropriate philosophical practice. The person who practices periodic simplicity is less vulnerable to the anxiety of potential loss, more capable of genuine appreciation for what they have, and less driven by the compulsive acquisition that the fear of insufficiency generates.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Marcus Aurelius — Simplicity Under the Purple**
+> 
+> **The Situation**: The *Meditations* were not written for publication. They are private philosophical exercises — reminders that Marcus wrote to himself during military campaigns, composed in the awareness that the emperor's life offered every opportunity for corruption through excess. He notes his own tendencies toward pleasure in food, entertainment, and ease with the clinical detachment of a physician monitoring symptoms. He reminds himself, repeatedly, that his role is to govern justly, that the purple robe does not change the nature of the man wearing it, and that the goods of power and wealth are real but of no ultimate significance.
+> 
+> **The Stoic Reading**: What Marcus practices is not the renunciation of imperial comfort but what we might call the psychological non-identification with it. He uses his position's resources as tools for governance and the common good while refusing to let his identity, his security, or his happiness become anchored to them. This is precisely the Stoic preferred indifferents doctrine applied to life at the extreme of material abundance: "I have all this, and I know it is not what I am." This stance, maintained across decades under the continuous pressure of absolute power, is perhaps the most demanding form of Stoic simplicity — not the simplicity of the person who lacks temptation because they lack resources, but the simplicity of the person who has every material good available and chooses daily to hold them as instruments rather than as the substance of a good life.
+> 
+> **The Lesson**: Stoic minimalism is equally applicable at every income level because its target is not the quantity of goods possessed but the quality of the relationship to possession. The millionaire who holds their wealth as a preferred indifferent is, in Stoic terms, living more simply than the person of modest means who is chronically anxious about the possibility of poverty and whose wellbeing is contingent on maintaining their financial position. The psychological discipline, not the material condition, determines the quality of the Stoic life.
+
+> [!example] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Case: Voluntary Simplicity in Contemporary Life**
+> 
+> **The Situation**: Potts's argument — developed without direct reference to Stoicism but with remarkable convergence — is that most people are time-poor and thing-rich in a way that inverts the actual conditions of a good life. The things that constitute genuine wellbeing (deep engagement with meaningful activities, rich relationships, the experience of novelty and growth) are time-intensive and materially cheap. The things that modern culture treats as constitutive of success (large homes, new vehicles, luxury goods) are materially expensive and time-consuming to maintain, and their wellbeing returns are subject to rapid hedonic adaptation. His prescription — reduce material complexity to create temporal and psychological space for intrinsically meaningful activity — is structurally identical to the Stoic framework.
+> 
+> **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline-of-Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
+> 
+> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Spaced Repetition Seeds
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What are the three basic psychological needs in Self-Determination Theory?
+> **A:** Autonomy (volition and self-endorsement), Competence (effectance and mastery), and Relatedness (meaningful connection with others).
+> **Source:** Phase II — Conceptual Foundations
+> **Difficulty:** Basic
+> **Type:** Definition
+> **Tags:** SDT, basic-needs, motivation
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is the critical distinction between autonomous motivation and controlled motivation in SDT?
+> **A:** Autonomous motivation involves a sense of volition and self-endorsement (intrinsic motivation + identified + integrated regulation). Controlled motivation involves acting under pressure from external contingencies or internal pressures like guilt (external + introjected regulation). This distinction is the strongest predictor of learning quality and well-being.
+> **Source:** Phase II — The Autonomous–Controlled Motivation Distinction
+> **Difficulty:** Basic
+> **Type:** Distinction
+> **Tags:** SDT, autonomous-motivation, controlled-motivation
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What does "autonomy" mean in SDT — and what does it NOT mean?
+> **A:** Autonomy means volition — the experience of self-endorsement in one's actions. It does NOT mean independence, self-reliance, or freedom from influence. A person can autonomously choose to follow rules, cooperate, or defer to authority if they endorse those actions as consistent with their values.
+> **Source:** Phase II — Core Concept: Autonomy
+> **Difficulty:** Intermediate
+> **Type:** Distinction
+> **Tags:** SDT, autonomy, common-misconceptions
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** Name the six mini-theories that comprise Self-Determination Theory.
+> **A:** (1) Cognitive Evaluation Theory (CET), (2) Organismic Integration Theory (OIT), (3) Basic Psychological Needs Theory (BPNT), (4) Causality Orientations Theory (COT), (5) Goal Contents Theory (GCT), (6) Relationship Motivation Theory (RMT).
+> **Source:** Phase III — The Six Mini-Theories
+> **Difficulty:** Basic
+> **Type:** Definition
+> **Tags:** SDT, mini-theories, structure
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is the "undermining effect" and what does Cognitive Evaluation Theory predict about it?
+> **A:** The undermining effect occurs when tangible external rewards offered contingently for engaging in an interesting task decrease intrinsic motivation. CET explains this through the concept of functional significance: when rewards are experienced as controlling (shifting the perceived locus of causality externally), intrinsic motivation decreases.
+> **Source:** Phase III — CET; Phase IV — CET Mediating Appraisals
+> **Difficulty:** Intermediate
+> **Type:** Process
+> **Tags:** SDT, CET, undermining-effect, rewards
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is the internalization continuum in Organismic Integration Theory?
+> **A:** A continuum of regulatory styles from external regulation (behavior controlled by external contingencies) through introjected regulation (internal pressure/guilt) through identified regulation (conscious valuing) through integrated regulation (full assimilation into self-system) to intrinsic motivation (inherent interest). The continuum represents progressively greater internalization.
+> **Source:** Phase II — The Autonomous–Controlled Motivation Distinction
+> **Difficulty:** Intermediate
+> **Type:** Process
+> **Tags:** SDT, OIT, internalization, regulation
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is the difference between need satisfaction, need deprivation, and need frustration in SDT?
+> **A:** Need satisfaction = active fulfillment of needs (experiencing volition, effectance, connection). Need deprivation = absence of need satisfaction without active thwarting. Need frustration = active thwarting of needs (experiencing coercion, incompetence, rejection). Frustration uniquely predicts ill-being beyond what low satisfaction accounts for.
+> **Source:** Phase II — Need Satisfaction and Need Frustration
+> **Difficulty:** Intermediate
+> **Type:** Distinction
+> **Tags:** SDT, BPNT, need-frustration, need-satisfaction
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is "functional significance" in Cognitive Evaluation Theory?
+> **A:** The perceived meaning of an external event with respect to its controlling versus informational aspects. The same event (e.g., praise) can be experienced as primarily controlling (pressuring behavior) or primarily informational (enhancing perceived competence), depending on delivery style and context. Functional significance determines the event's effect on intrinsic motivation.
+> **Source:** Phase IV — Cognitive Evaluation Theory
+> **Difficulty:** Advanced
+> **Type:** Definition
+> **Tags:** SDT, CET, functional-significance
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What three contextual conditions does OIT identify as supporting internalization?
+> **A:** (1) Autonomy support — choice, rationale, perspective-acknowledgment. (2) Competence structure — scaffolding, informational feedback, optimal challenge. (3) Relational warmth — genuine care, trust, involvement. All three facilitate the movement from external regulation toward identified and integrated regulation.
+> **Source:** Phase IV — The Internalization Process
+> **Difficulty:** Intermediate
+> **Type:** Process
+> **Tags:** SDT, OIT, internalization, autonomy-support
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** How does Goal Contents Theory distinguish between intrinsic and extrinsic aspirations?
+> **A:** Intrinsic aspirations (personal growth, community contribution, relationships, health) are directly linked to need satisfaction. Extrinsic aspirations (wealth, fame, appearance, power) function as need substitutes that fail to deliver well-being even when attained. The relative emphasis on intrinsic vs. extrinsic goals predicts well-being independently of success.
+> **Source:** Phase IV — The Goal Content Mechanism
+> **Difficulty:** Intermediate
+> **Type:** Distinction
+> **Tags:** SDT, GCT, aspirations, goal-contents
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is autonomy support in SDT, and how does it differ from permissiveness?
+> **A:** Autonomy support is a set of interpersonal practices: offering meaningful choice, providing rationales, acknowledging perspectives, minimizing controlling language, and supporting initiative. It is NOT permissiveness or laissez-faire teaching — autonomy support is fully compatible with clear structure and expectations, provided they are delivered non-controllingly.
+> **Source:** Phase V — Autonomy-Supportive Teaching
+> **Difficulty:** Intermediate
+> **Type:** Distinction
+> **Tags:** SDT, autonomy-support, teaching, misconceptions
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What are the three causality orientations in SDT's COT?
+> **A:** (1) Autonomy orientation — tendency to seek and respond to autonomy cues, regulate autonomously. (2) Control orientation — tendency to attend to rewards, demands, and regulate through external/introjected pressure. (3) Impersonal orientation — tendency toward amotivation, helplessness, and perceived incompetence. These are dimensional, not categorical.
+> **Source:** Phase IV — Causality Orientations
+> **Difficulty:** Intermediate
+> **Type:** Definition
+> **Tags:** SDT, COT, individual-differences
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** How does SDT relate to Self-Regulated Learning (SRL)?
+> **A:** SDT and SRL are complementary, not competing. SDT explains *why* learners self-regulate (motivational energetics — autonomous motivation drives deeper SRL engagement). SRL models explain *how* they self-regulate (cognitive-metacognitive processes). Autonomous motivation predicts more effective self-regulatory behavior than controlled motivation.
+> **Source:** Phase V — Implications for Self-Regulation
+> **Difficulty:** Advanced
+> **Type:** Connection
+> **Tags:** SDT, SRL, integration, metacognition
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is the main criticism of SDT's universality claim?
+> **A:** Critics argue that the emphasis on autonomy privileges Western individualistic values and may not apply to collectivist cultures. SDT responds that autonomy means volition (not independence) and that volition is valued across cultures. Cross-cultural evidence largely supports universality, though behavioral expressions of need satisfaction vary. The WEIRD sample bias remains a limitation.
+> **Source:** Phase V — Limitations
+> **Difficulty:** Advanced
+> **Type:** Application
+> **Tags:** SDT, universality, cross-cultural, criticism
+
+> [!flashcard] **Spaced Repetition** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Q:** Untitled
+> **A:** **Q:** What is the organismic metatheory underlying SDT?
+> **A:** The philosophical position that human beings are inherently active organisms with natural tendencies toward psychological growth, integration, and elaboration of a unified self. Unlike mechanistic models, the organismic perspective treats humans as proactive agents whose development depends on environmental satisfaction of basic psychological needs.
+> **Source:** Phase II — The Organismic Metatheoretical Commitment
+> **Difficulty:** Advanced
+> **Type:** Definition
+> **Tags:** SDT, metatheory, organismic, philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Key Figures & Intellectual Lineage
+
+> [!person] **[[Edward-Deci]] (1942–2022)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Co-founder of Self-Determination Theory. Professor of Psychology and Gowen Professor in the Social Sciences at the University of Rochester. Deci's groundbreaking 1971 experiments on the undermining effect of external rewards on intrinsic motivation launched the research program that would become SDT. His 1975 book *Intrinsic Motivation* and 1985 collaboration with Ryan (*Intrinsic Motivation and Self-Determination in Human Behavior*) established the foundational framework.
+> 
+> **Lineage:** Influenced by [[Robert-White]]'s concept of [[Effectance|effectance motivation]] and [[Carl-Rogers]]'s organismic psychology. Co-developed SDT with [[Richard-Ryan]]. Supervised and influenced [[Maarten-Vansteenkiste]], Christopher Niemiec, and numerous other SDT researchers.
+> 
+> **Relationship to Report:** Primary architect of the theoretical framework described in every section of this report.
+
+> [!person] **[[Richard-Ryan]] (1953–)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Co-founder of Self-Determination Theory. Professor at the Institute for Positive Psychology and Education at the Australian Catholic University and Research Professor at the University of Rochester. Ryan's philosophical training brought the organismic metatheoretical foundations and the emphasis on [[Eudaimonia|eudaimonic]] well-being that distinguish SDT from other motivational frameworks. His contributions to the theoretical architecture — particularly BPNT, OIT, and RMT — are inseparable from Deci's.
+> 
+> **Lineage:** Influenced by organismic developmental theory, philosophical ethics, and [[Humanistic-Psychology]]. Equal partner with [[Edward-Deci]] in SDT's development.
+> 
+> **Relationship to Report:** Co-architect of SDT; responsible for much of the theory's philosophical depth and its extension to well-being and personality.
+
+> [!person] **[[Maarten-Vansteenkiste]] (1978–)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Professor at Ghent University, Belgium. Leading figure in the second generation of SDT researchers. Major contributions include the formalization of [[Need-Frustration]] as distinct from low need satisfaction, the development of need satisfaction and frustration scales, and empirical work on the dark side of controlling motivation. Key contributor to the satisfaction–frustration asymmetry and its implications for educational practice.
+> 
+> **Lineage:** Trained within the SDT tradition; supervised by Willy Lens and collaborating extensively with [[Bart-Soenens]], Ryan, and Deci. Extended SDT's empirical reach to education, parenting, and clinical psychology.
+> 
+> **Relationship to Report:** Central figure in the need frustration literature and the satisfaction–frustration asymmetry discussed throughout this report.
+
+> [!person] **[[Tim-Kasser]] (1966–)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Professor Emeritus at Knox College. Developer (with Ryan) of [[Goal-Contents-Theory]] and the [[Aspiration-Index]]. Kasser's research on the detrimental effects of materialistic values on well-being — independently of income level — provided the empirical foundation for GCT and extended SDT's scope to the content of goals.
+> 
+> **Lineage:** Trained under Richard Ryan. Connected SDT to research on consumerism, environmental sustainability, and cultural values.
+> 
+> **Relationship to Report:** Architect of Goal Contents Theory and the empirical research on intrinsic versus extrinsic aspirations discussed in Phase IV.
+
+> [!person] **Johnmarshall Reeve (1953–)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Professor at the Institute of Positive Psychology and Education, Australian Catholic University. Leading researcher on [[Autonomy-Support|autonomy-supportive teaching practices]] and their effects on student motivation and learning. Developer of structured intervention protocols for training teachers in SDT-informed practices.
+> 
+> **Lineage:** Collaborator with [[Richard-Ryan]]. Connected SDT to educational practice through intervention research.
+> 
+> **Relationship to Report:** Primary empirical authority on autonomy-supportive teaching practices discussed in Phase V.
+
+> [!person] **[[Albert-Bandura]] (1925–2021)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Architect of [[Self-Efficacy-Theory]] and social cognitive theory. While not an SDT researcher, Bandura's work on self-efficacy represents the most significant theoretical interlocutor for SDT's competence construct and the most important alternative theory of motivated behavior.
+> 
+> **Lineage:** Developed self-efficacy theory independently of SDT. The two frameworks have been productively compared and partially integrated in educational psychology.
+> 
+> **Relationship to Report:** Key figure in the comparative theoretical analysis of Phase III; self-efficacy as the primary competing explanation for competence-related motivation.
+
+> [!person] **[[Abraham-Maslow]] (1908–1970)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Father of humanistic psychology and developer of the hierarchy of needs. Maslow's vision of self-actualization as the pinnacle of human development provided a philosophical precursor to SDT's concept of intrinsic motivation and eudaimonic well-being, though his theory lacked the empirical precision that Deci and Ryan would later achieve.
+> 
+> **Lineage:** Influenced [[Carl-Rogers]], [[Edward-Deci]], and the entire humanistic tradition. SDT can be understood as a partial empirical operationalization of Maslow's vision.
+> 
+> **Relationship to Report:** Historical precursor whose needs framework SDT both draws upon and supersedes through greater empirical rigor.
+
+> [!person] **[[Carl-Rogers]] (1902–1987)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Developer of person-centered therapy and client-centered approach. Rogers's emphasis on the [[Organismic-Valuing-Process]], unconditional positive regard, and the actualizing tendency directly influenced SDT's organismic metatheory, its concept of autonomous motivation, and its emphasis on the harmful effects of [[Conditional-Regard]] on internalization and self-integration.
+> 
+> **Lineage:** Critical influence on [[Edward-Deci]] and [[Richard-Ryan]]. Rogers's therapeutic insights about the conditions for growth (genuineness, unconditional regard, empathic understanding) map directly onto SDT's need satisfaction conditions (autonomy support, relational warmth, competence structure).
+> 
+> **Relationship to Report:** Philosophical precursor whose organismic framework directly shaped SDT's metatheoretical commitments.
+
+
+
+
+
+
+
+
+
+## Conceptual Tensions
+
+> [!tension] **The Positive Feedback Paradox** *(from [[sdt-focused-analysis-2026-03-06]])*
+> CET's predictions about feedback create a genuine tension that the empirical literature has not fully resolved. The theory predicts that positive feedback is motivationally enhancing when perceived as informational, but research on ego-involvement (Nicholls, 1984) and performance goal orientation (Dweck) suggests that some students — particularly those with fragile, contingent self-esteem — process positive feedback as ego-relevant rather than task-relevant, regardless of how it is delivered. The question of whether delivery can consistently override a student's pre-existing ego-involvement mode, or whether certain learners are so entrenched in ego-involvement that autonomy-supportive feedback simply doesn't reach them, is not resolved. Effective SDT applications need to engage with individual differences in ego-involvement rather than treating feedback effects as uniformly determined by delivery style.
+
+> [!tension] **The Universality Claim and Cultural Moderation** *(from [[sdt-focused-analysis-2026-03-06]])*
+> SDT asserts that the three basic needs are universal — that their satisfaction is beneficial and their thwarting harmful across all human beings regardless of cultural background. This universality claim has generated substantial debate, particularly in cross-cultural psychology. Research in East Asian educational contexts has sometimes found weaker (though rarely reversed) effects of autonomy support on motivation, and evidence from collectivist cultures suggests that relatedness may, in some contexts, function as a more powerful regulatory mechanism than autonomy — meaning that social belonging and conformity to in-group norms can partially substitute for autonomous regulation in maintaining academic engagement. SDT's proponents respond that the universality claim is not that need satisfaction always looks the same across cultures, but that the functional relationships hold universally: autonomy satisfaction always predicts better outcomes than autonomy thwarting, even if the behaviors that constitute "autonomy support" vary across cultural contexts. The tension is not fully resolved, and practitioners working in diverse cultural contexts should treat the universality claim with appropriate nuance rather than as a license to export Western autonomy-support frameworks without adaptation.
+
+> [!tension] **The Compensation Debate — What the Evidence Does Not Settle** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The conjunctive thesis faces a genuine evidential challenge from studies of substitution. Sheldon and Gunz (2009) found that people whose relatedness need was thwarted showed increased preference for activities that satisfied their competence or autonomy needs — a pattern consistent with compensatory substitution. Importantly, this behavioral substitution produced some reduction in negative affect, suggesting partial compensation is psychologically real. The tension is not fully resolved: on one reading, this evidence shows that compensation fails to restore full well-being (partial compensation is not full compensation); on another reading, it shows that the three needs are more independent than the conjunctive thesis requires. This is one of the genuinely open questions in BPNT.
+
+> [!tension] **The Line Between Internalized Values and Substitute Satisfactions** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> A theoretically important tension in BPNT concerns distinguishing between genuinely internalized extrinsic motivations (which satisfy the autonomy need) and ego-involved performances that function as need substitutes (which do not). Both can produce intense, persistent engagement with activities not intrinsically enjoyable. The distinction lies in the psychological quality of the engagement — specifically, whether the person can disengage from the activity when their own needs suggest they should (genuine internalization preserves autonomy) versus feeling compelled to continue even against their own interests (substitute satisfaction creates compulsion). This distinction is difficult to operationalize and represents an active measurement challenge in BPNT research.
+
+> [!tension] **The Autonomy-Competence Trade-off in Directive Instruction** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> The tension is real and not easily dissolved. Highly directive instruction may maximize competence development in the short term while creating conditions that undermine the autonomous motivation needed for sustained post-instruction engagement. BPNT's response to this tension — provide rationales, acknowledge learner perspectives, offer choice within structure — is valuable but may be insufficient in contexts where the demands of competence development leave little room for genuine learner input. There is no clean theoretical resolution here; BPNT implies that the autonomy cost of directive instruction is real and that it must be actively managed rather than assumed to be offset by competence gains.
+
+> [!tension] **The Continuum's Assumed Monotonicity** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> OIT presents the regulatory continuum as ordered by self-determination, with the implicit assumption that movement along it is uniformly beneficial. But the introjection anomaly challenges this. The evidence suggests that the relationship between regulatory style and psychological well-being is not monotonically increasing — introjection occupies a psychological position that may be *worse* than external regulation on well-being outcomes even while being technically more internalized. This creates a genuine theoretical tension: either the continuum is not ordered by well-being outcomes (which complicates its normative architecture), or the well-being costs of introjection reflect something other than its regulatory character — perhaps its specific mechanism (contingent self-worth) rather than its position on the internalization scale. Both interpretations have significant implications for how practitioners think about supporting internalization.
+
+> [!tension] **Integration as Endpoint vs. Integration as Stable State** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> OIT often implies that integrated regulation, once achieved, is stable — the person has fully made the value their own, and environmental changes are less likely to undermine it. The evidence for this stability claim is weaker than the framework suggests. Longitudinal studies show that regulatory styles are more variable over time than a "developmental achievement" framing implies, and that environmental changes — particularly changes in perceived autonomy support — can shift regulatory styles substantially. This creates a tension between OIT's organismic framing (integration is a durable achievement of the self) and the empirical picture (regulatory styles are responsive to ongoing environmental conditions). The resolution may lie in distinguishing two types of integration: *situational* integration (the current regulatory style in a specific context) and *dispositional* integration (a stable tendency to regulate autonomously across contexts). The latter may be genuinely durable; the former is highly responsive to context.
+
+> [!tension] **Autonomy as Volition vs. Autonomy as Independence** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Position A (SDT mainstream):** Autonomy means volition — the experience of self-endorsement and willing engagement — and is empirically distinguishable from independence. A person can be autonomously interdependent (e.g., freely choosing to cooperate, defer, or follow a leader).
+> 
+> **Position B (Cross-cultural critics):** Even as volition, autonomy retains Western individualistic assumptions. The emphasis on self-endorsement and internal locus of causality privileges a self-focused motivational stance that may not fit cultures where the self is primarily defined through social roles and relationships.
+> 
+> **Current state of evidence:** Meta-analytic evidence supports the adaptive value of autonomy-as-volition across cultures, but behavioral expressions vary substantially. The debate continues in [[Cross-Cultural-Psychology]].
+> 
+> **Why it matters:** The resolution of this tension determines whether SDT can genuinely claim universal applicability or remains a culturally embedded framework.
+> 
+> **See also:** [[Autonomy]], [[WEIRD-Sample-Bias]], [[Cross-Cultural-Psychology]]
+
+> [!tension] **Need Satisfaction vs. Need Frustration: Symmetric or Asymmetric?** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Position A (Recent formalization — Vansteenkiste & Ryan):** Need satisfaction and need frustration are asymmetric constructs — satisfaction predicts well-being, frustration uniquely predicts ill-being, and the absence of frustration does not equal satisfaction. They constitute distinct pathways with different predictive targets.
+> 
+> **Position B (Earlier SDT and some critics):** The distinction adds complexity without proportional explanatory value. Need satisfaction operates on a single continuum from frustration through deprivation to satisfaction, and the asymmetry claim is empirically overstated.
+> 
+> **Current state of evidence:** Factor analytic studies support the two-factor model, and frustration uniquely predicts negative outcomes. The asymmetry is likely real but its practical magnitude varies across studies.
+> 
+> **Why it matters:** If the asymmetry is genuine, environments must both remove thwarting conditions AND actively provide supportive conditions — a fundamentally different design principle than a single-continuum model implies.
+> 
+> **See also:** [[Need-Frustration]], [[Need-Satisfaction]], [[Satisfaction-Frustration-Asymmetry]]
+
+> [!tension] **Three Needs vs. More?** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Position A (SDT):** Autonomy, competence, and relatedness are the three (and only three) basic psychological needs. Proposed additional needs (novelty, security, beneficence, meaning) can be subsumed under or derived from the existing three.
+> 
+> **Position B (Critics — e.g., Sheldon, Prentice):** Additional needs — particularly novelty-variety, security-predictability, self-esteem, and meaning — meet the same theoretical criteria SDT uses to identify basic needs and should be added to the framework.
+> 
+> **Current state of evidence:** Mixed. Some proposed additional needs show incremental predictive validity in some studies. SDT researchers have partially accommodated the evidence (e.g., Ryan & Deci, 2017, acknowledge novelty and autonomy are related but distinct).
+> 
+> **Why it matters:** If additional needs are genuine, SDT's parsimony is reduced but its explanatory scope potentially increases.
+> 
+> **See also:** [[Basic-Psychological-Needs]], [[Basic-Psychological-Needs-Theory]]
+
+
+
+
+
+
+
+
+
+
+
+## Open Questions
+
+> [!open-question] **The Internalization Continuum: Stages or Styles?** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> Does the regulatory continuum described by OIT represent a developmental sequence through which individuals progress, or a set of distinct regulatory styles that coexist? The simplex pattern predicted by the stage interpretation receives inconsistent empirical support, and individuals appear to operate under multiple regulatory styles simultaneously across different behavioral domains.
+> 
+> **See also:** [[Organismic-Integration-Theory]], [[Internalization-Continuum]], [[SDT's-Regulatory-Continuum]]
+
+> [!open-question] **Can Controlling Motivation Ever Serve Adaptive Purposes?** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> SDT's framework implies that autonomous motivation is always preferable to controlled motivation. But in emergency situations, skill learning under time pressure, or contexts requiring rigid adherence to safety protocols, controlling contingencies may produce necessary behavior that autonomous motivation cannot guarantee. Is controlled motivation sometimes functionally adaptive — and if so, under what conditions?
+> 
+> **See also:** [[Controlled-Motivation]], [[External-Regulation]], [[Introjected-Regulation]]
+
+
+
+## Protocols & Methods
+
+> [!protocol] **Autonomy-Supportive Teaching Protocol (SDT-Informed)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Step 1:** Identify required activities and regulations that cannot be optional.
+> **Step 2:** For each requirement, formulate a genuine rationale explaining *why* it matters for the learner's growth — not merely compliance reasons.
+> **Step 3:** Where possible, offer meaningful choices within constraints — choices about method, sequence, pacing, or focus, even when the content itself is required.
+> **Step 4:** Acknowledge the learner's perspective explicitly, especially when making demands: "I understand this may feel tedious, and here is why I believe it matters for what you're trying to achieve."
+> **Step 5:** Replace controlling language ("You must," "You should," "You have to") with autonomy-supportive language ("You might consider," "One effective approach is," "This matters because").
+> **Step 6:** Support initiative and self-direction — ask learners what questions they have, rather than only telling them what they need to know.
+> **Step 7:** Monitor and adjust: observe whether learners are engaging with genuine interest or mere compliance, and adjust practices accordingly.
+
+
+## Visual Representations
+
+> [!diagram] **Core Argument Structure of SDT** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> ```
+> ORGANISMIC METATHEORY
+>   └─ Humans possess inherent growth tendencies
+>       └─ These tendencies require nutriments (basic psychological needs)
+>           ├─ AUTONOMY (volition, self-endorsement)
+>           ├─ COMPETENCE (effectance, mastery)
+>           └─ RELATEDNESS (connection, belonging)
+>               │
+>               ▼
+>       SOCIAL CONTEXTS vary in need support
+>           ├─ Autonomy-supportive → Need SATISFACTION → Autonomous Motivation
+>           │       → Deep Learning, Well-being, Growth
+>           └─ Controlling → Need FRUSTRATION → Controlled Motivation
+>                   → Shallow Learning, Ill-being, Defensiveness
+> ```
+
+> [!diagram] **The Internalization Continuum (OIT)** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> ```
+> AMOTIVATION ←→ EXTERNAL ←→ INTROJECTED ←→ IDENTIFIED ←→ INTEGRATED ←→ INTRINSIC
+>     │              │              │              │              │              │
+>   No intent    External      Internal        Conscious      Congruent      Inherent
+>   No value     pressure      pressure        valuing        with self      interest
+>     │              │              │              │              │              │
+>     └──────── CONTROLLED MOTIVATION ────┘  └────── AUTONOMOUS MOTIVATION ──────┘
+> ```
+
 
 ## Connections & Context
 
@@ -237,6 +2137,634 @@ importance: high
 
 **Related concepts:**
 [[Feedback-Design|Feedback Design]] · [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Growth-Mindset|Growth Mindset]] · [[Formative-Assessment|Formative Assessment]] · [[Black-&-Wiliam|Black & Wiliam]] · [[Attribution-Theory|Attribution Theory]] · [[Summative-Assessment|Summative Assessment]] · [[Formative-Feedback|Formative Feedback]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Learned-Helplessness|Learned Helplessness]] · [[Performance-Goals|Performance Goals]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Carole-Ames|Carole Ames]] · [[Carol-Dweck|Carol Dweck]] · [[Summative-Assessment|Summative Assessment]] · [[Feed-Forward]] · [[John-Hattie|John Hattie]] · [[Helen-Timperley|Helen Timperley]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Avi-Assor|Avi Assor]] · [[Guy-Roth|Guy Roth]] · [[Carol-Dweck|Carol Dweck]] · [[Claudia-Mueller|Claudia Mueller]] · [[Carol-Dweck|Carol Dweck]] · [[Bernard-Weiner|Bernard Weiner]]
+
+**Related concepts** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]], [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]], [[organismic-integration-theory-focused-analysis-2026-03-13]], [[sdt-focused-analysis-2026-03-06]], [[self-determination-theory-first-principles-report-2026-03-11]], [[self-determination-theory-foundational-report-2026-03-11]], [[self-determination-theory-foundational-report-2026-04-01]], [[stoicism-codebase-pack]])*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Avi-Assor|Avi Assor]] * [[Guy-Roth|Guy Roth]] * [[Claudia-Mueller|Claudia Mueller]] * [[Bernard-Weiner|Bernard Weiner]] * [[Assessment-for-Learning|Assessment for Learning]] * [[Feedback-Timing|Feedback Timing]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Critical-Thinking-in-Education|Critical Thinking in Education]] * [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[sdt-focused-analysis-2026-03-06]])*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Motivation-Continuum|Motivation Continuum]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from [[sdt-focused-analysis-2026-03-06]])*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Cognitive-Biases|Cognitive Biases]]
+- [[Political-Philosophy|Political Philosophy]]
+- [[Virtue-Ethics|Virtue Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Attachment-Theory|Attachment-Theory]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive-Evaluation-Theory]]
+- [[Organismic-Integration-Theory|Organismic-Integration-Theory]]
+- [[Motivation-Continuum|Motivation-Continuum]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's-Zone-of-Proximal-Development]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+
+**Cross-report connections** *(from [[sdt-focused-analysis-2026-03-06]])*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth-Mindset-and-Incremental-Intelligence-Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition-and-Self-Regulated-Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Gamification-in-Learning|Gamification-in-Learning]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Critical-Thinking-in-Education|Critical-Thinking-in-Education]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Motivational-Climate-Design|Motivational-Climate-Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-04-01]])*:
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive-Teaching-and-Learning-Environments]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive-Science]]
+- [[Cognitive-Biases|Cognitive-Biases]]
+- [[Political-Philosophy|Political-Philosophy]]
+- [[Virtue-Ethics|Virtue-Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory-Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual-Process-Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford-&-Chater-Probabilistic-Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-04-01]])*:
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive-Teaching-and-Learning-Environments]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+**Related concepts** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]], [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]], [[organismic-integration-theory-focused-analysis-2026-03-13]], [[sdt-focused-analysis-2026-03-06]], [[self-determination-theory-first-principles-report-2026-03-11]], [[self-determination-theory-foundational-report-2026-03-11]], [[self-determination-theory-foundational-report-2026-04-01]], [[stoicism-codebase-pack]])*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Avi-Assor|Avi Assor]] * [[Guy-Roth|Guy Roth]] * [[Claudia-Mueller|Claudia Mueller]] * [[Bernard-Weiner|Bernard Weiner]] * [[Assessment-for-Learning|Assessment for Learning]] * [[Feedback-Timing|Feedback Timing]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Critical-Thinking-in-Education|Critical Thinking in Education]] * [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[sdt-focused-analysis-2026-03-06]])*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Motivation-Continuum|Motivation Continuum]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from [[sdt-focused-analysis-2026-03-06]])*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Cognitive-Biases|Cognitive Biases]]
+- [[Political-Philosophy|Political Philosophy]]
+- [[Virtue-Ethics|Virtue Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Attachment-Theory|Attachment-Theory]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive-Evaluation-Theory]]
+- [[Organismic-Integration-Theory|Organismic-Integration-Theory]]
+- [[Motivation-Continuum|Motivation-Continuum]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's-Zone-of-Proximal-Development]]
+
+**Cross-report connections** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+
+**Cross-report connections** *(from [[sdt-focused-analysis-2026-03-06]])*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth-Mindset-and-Incremental-Intelligence-Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition-and-Self-Regulated-Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Gamification-in-Learning|Gamification-in-Learning]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Critical-Thinking-in-Education|Critical-Thinking-in-Education]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Motivational-Climate-Design|Motivational-Climate-Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-04-01]])*:
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive-Teaching-and-Learning-Environments]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive-Science]]
+- [[Cognitive-Biases|Cognitive-Biases]]
+- [[Political-Philosophy|Political-Philosophy]]
+- [[Virtue-Ethics|Virtue-Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory-Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual-Process-Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford-&-Chater-Probabilistic-Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[self-determination-theory-foundational-report-2026-04-01]])*:
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Autonomy-Supportive-Teaching-and-Learning-Environments|Autonomy-Supportive-Teaching-and-Learning-Environments]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## References
 
@@ -252,6 +2780,2513 @@ importance: high
 
 *Citations sourced from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]]*
 
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
+
+- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
+
+- **Sheldon, K. M., & Gunz, A. (2009). Psychological needs as basic motives, not just experiential requirements. *Journal of Personality*, 77(5), 1467–1492.**: Examines the substitution hypothesis — whether satisfaction of one need can compensate for deprivation of another. Provides the most direct empirical test of the compensatory hypothesis and finds evidence for partial (but not full) substitution, complicating the strongest versions of the conjunctive thesis.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133–144.**: Review of SDT and BPNT research with specific application to educational contexts. Synthesizes the research on how teachers can support the three needs in classroom settings, with practical guidance on translating theory into practice.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: Analysis of the structural and psychological factors that lead teachers toward controlling instructional styles and the specific behavioral changes involved in shifting toward autonomy-supportive pedagogy. Addresses the practical challenge that teachers face in applying BPNT while managing classroom pressures.
+
+- **Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin*, 117(3), 497–529.**: Landmark review synthesizing evidence for the universal need to belong — the empirical foundation for BPNT's relatedness need claim. Documents the well-being costs of social exclusion and the facility of relationship formation as evidence for an underlying organismic need.
+
+- **Ryan, R. M., Deci, E. L., Grolnick, W. S., & La Guardia, J. G. (2016). The significance of autonomy and autonomy support in psychological development and psychopathology. In D. Cicchetti (Ed.), *Developmental Psychopathology* (3rd ed., Vol. 1). Wiley.**: Examination of the developmental and clinical consequences of chronic autonomy thwarting across the lifespan. Provides the most thorough treatment of the "dark side" of motivation — the defensive, substitute-satisfaction-seeking patterns produced by need frustration — from within the SDT theoretical framework.
+
+- **Elliot, A. J. (2006). The hierarchical model of approach-avoidance motivation. *Motivation and Emotion*, 30(2), 111–116.**: Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The most cited comprehensive statement of SDT including all mini-theories. OIT is addressed in sections 3 and 4. Provides the integration of OIT within BPNT and the clearest statement of the basic need-satisfaction mechanism for internalization.
+
+- **Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. *Journal of Educational Psychology, 81*(2), 143–154.**: Foundational study linking parenting styles to children's internalization in academic contexts. Demonstrates that parental involvement vs. control differentially predict regulatory quality (not just quantity) and academic outcomes. Key early empirical support for OIT.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Critical empirical work demonstrating the specific psychological costs of conditional regard and introjected regulation. Provides mechanistic account of why introjection produces greater well-being costs than external regulation — the key evidence for the "introjection anomaly" discussed in Phase III.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Accessible synthesis of OIT's implications for educational design, including a practical overview of autonomy-supportive teaching practices. Addresses the distinction between intrinsic and extrinsic goal framing and its consequences for internalization. Good gateway for practitioners.
+
+- **Williams, G. C., Gagné, M., Ryan, R. M., & Deci, E. L. (2002). Facilitating autonomous motivation for smoking cessation. *Health Psychology, 21*(1), 40–50.**: Exemplary application of OIT to health behavior change, demonstrating that autonomous motivation predicts sustained cessation while controlled motivation predicts short-term compliance. One of a series of health behavior studies establishing OIT's practical relevance in clinical contexts.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist, 44*(3), 159–175.**: Empirical and theoretical analysis of teachers' controlling styles — why they emerge, what pressures drive them, and what shifts are necessary to become genuinely autonomy-supportive. Important practical resource; addresses the gap between knowing OIT and implementing it in real classrooms.
+
+- **Koestner, R., Ryan, R. M., Bernieri, F., & Holt, K. (1984). Setting limits on children's behavior: The differential effects of controlling vs. informational styles on intrinsic motivation and creativity. *Journal of Personality, 52*(3), 233–248.**: Classic experimental study distinguishing controlling from informational communication styles and their differential effects on motivation. Key evidence for the role of rationale quality in supporting vs. undermining autonomous regulation. Seminal for OIT's practical design implications.
+
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review, 30*(1), 74–99.**: Theoretical refinement of psychological control as a parenting construct, connecting it to OIT's account of introjection. Distinguishes between behavioral control (limiting behavior) and psychological control (threatening the child's self-concept) — a distinction with significant practical implications for educational contexts.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive contemporary statement of SDT including updated OIT. Part III covers internalization in detail. This is the authoritative contemporary reference; earlier papers should be read in light of the theoretical developments this book synthesizes.
+
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory: An historical overview, emerging trends, and future directions. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A). Emerald.**: Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
+
+- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Untitled**: **Primary Sources and Scholarly Works**
+
+The research for this report synthesized information from multiple authoritative sources on ancient Stoicism and Hellenistic philosophy:
+
+- [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/entries/stoicism/) — Comprehensive academic overview of Stoic philosophy, its historical development, and core doctrines
+- [Internet Encyclopedia of Philosophy: Stoicism](https://iep.utm.edu/stoicism/) — Detailed treatment of Stoic metaphysics, epistemology, and ethics
+- [Ancient History Encyclopedia: Stoicism](https://www.worldhistory.org/stoicism/) — Historical context and biographical information on major Stoic figures
+- [Stanford Encyclopedia: Hellenistic Philosophy](https://plato.stanford.edu/entries/hellenistic-philosophy/) — Broader context of Hellenistic philosophical movements
+- [Stanford Encyclopedia: Epictetus](https://plato.stanford.edu/entries/epictetus/) — Detailed analysis of Epictetus's life, works, and philosophy
+- [Stanford Encyclopedia: Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/) — Scholarly treatment of Marcus Aurelius's *Meditations* and philosophical contributions
+
+For further study, the surviving texts themselves remain essential: Epictetus's *Discourses* and *Enchiridion* (translated by Robin Hard or Robert Dobbin), Seneca's *Letters from a Stoic* and *Moral Essays*, and Marcus Aurelius's *Meditations* (Gregory Hays translation recommended for accessibility, Robin Hard for scholarly accuracy). For comprehensive treatment of Stoic physics and logic largely absent from Roman sources, consult A.A. Long and D.N. Sedley's *The Hellenistic Philosophers* (Cambridge, 1987), the standard scholarly collection of fragments and testimonia with commentary.
+
+- **Research Sources and Academic Literature**: **Metacognition and Journaling:**
+- [Developing Student Metacognition through Reflective Writing in an Upper Level Undergraduate Anatomy Course](https://pubmed.ncbi.nlm.nih.gov/31965753/) - PubMed study on blog-based reflective writing
+- [Reflective journaling and metacognitive awareness: insights from a longitudinal study in higher education](https://www.tandfonline.com/doi/full/10.1080/14623943.2020.1716708) - Reflective Practice journal
+- [The Use of Reflective Journal as a Tool for Monitoring of Metacognition Growth in Writing](https://www.researchgate.net/publication/342133783) - ResearchGate publication
+- [Reflective Journal Writing as a Metacognitive Tool](https://www.researchgate.net/publication/266319213) - ResearchGate study
+- [Metacognition: ideas and insights from neuro- and educational sciences](https://www.nature.com/articles/s41539-021-00089-5) - *npj Science of Learning*
+- [The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load](https://link.springer.com/article/10.1007/s10648-020-09541-1) - *Educational Psychology Review*
+
+**Memory Consolidation and Sleep:**
+- [Sleep—A brain-state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015) - *Neuron* journal
+- [System consolidation of memory during sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC3278619/) - PMC article
+- [The effects of bedtime writing on difficulty falling asleep](https://pubmed.ncbi.nlm.nih.gov/29058942/) - PubMed polysomnography study
+- [About Sleep's Role in Memory](https://journals.physiology.org/doi/abs/10.1152/physrev.00032.2012) - *Physiological Reviews*
+- [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3) - *Nature Neuroscience*
+- [Memory and Sleep: How Sleep Cognition Can Change the Waking Mind](https://pmc.ncbi.nlm.nih.gov/articles/PMC7983127/) - PMC comprehensive review
+
+**Stoic Philosophy and Marcus Aurelius:**
+- [Meditations - Wikipedia](https://en.wikipedia.org/wiki/Meditations) - Historical and philosophical overview
+- [Meditations by Marcus Aurelius: Book Summary, Key Lessons](https://dailystoic.com/meditations-marcus-aurelius/) - Daily Stoic analysis
+- [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/) - Scholarly philosophical examination
+
+**Behavioral Modification and Habit Formation:**
+- [The Power of Journaling for Positive Self-Change](https://www.thepaleomom.com/the-power-of-journaling-for-positive-self-change-self-monitoring-makes-all-the-difference/) - Self-monitoring research
+- [Self-Regulation Without Force: Can Awareness Leverage Habit Change](https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf) - SDT and awareness research
+- [From Habits to Self-Regulation: How Do We Change?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3375665/) - PMC article on dual-process theory
+- [Understanding Learning Strategy Use Through the Lens of Habit](https://link.springer.com/article/10.1007/s10648-025-10087-3) - *Educational Psychology Review*
+- [Self-Efficacy in Habit Building](https://pmc.ncbi.nlm.nih.gov/articles/PMC8137900/) - PMC study on automaticity and self-efficacy
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations (Ta eis heauton / To Himself)
+- **Author(s)**:: Marcus Aurelius Antoninus
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions; Gregory Hays translation recommended
+- **Volume / Issue**:: N/A (Complete work in 12 books)
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021910
+- **Date Created**:: 2025-12-02T19:10:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021911
+- **Date Created**:: 2025-12-02T19:11:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021912
+- **Date Created**:: 2025-12-02T19:12:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021913
+- **Date Created**:: 2025-12-02T19:13:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021914
+- **Date Created**:: 2025-12-02T19:14:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021915
+- **Date Created**:: 2025-12-02T19:15:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021916
+- **Date Created**:: 2025-12-02T19:16:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021917
+- **Date Created**:: 2025-12-02T19:17:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021918
+- **Date Created**:: 2025-12-02T19:18:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: Book 10
+- **Page(s)**:: Chapter 16
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021919
+- **Date Created**:: 2025-12-02T19:19:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Meditations
+- **Author(s)**:: Marcus Aurelius
+- **Year**:: c. 170-180 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html
+### Citation Metadata
+- **Citation ID**:: 202512021920
+- **Date Created**:: 2025-12-02T19:20:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Enchiridion (The Handbook)
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 125 CE
+- **Publisher / Journal**:: Various modern editions; Elizabeth Carter translation (1758)
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Chapter 1
+- **URL / DOI**:: https://classics.mit.edu/Epictetus/epicench.html
+### Citation Metadata
+- **Citation ID**:: 202512021921
+- **Date Created**:: 2025-12-02T19:21:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Discourses
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 108 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021922
+- **Date Created**:: 2025-12-02T19:22:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Enchiridion
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 125 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: https://classics.mit.edu/Epictetus/epicench.html
+### Citation Metadata
+- **Citation ID**:: 202512021923
+- **Date Created**:: 2025-12-02T19:23:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text (Modern Compilation)
+- **Title**:: The Art of Living (Compilation of teachings)
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 108-125 CE (original teachings)
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by compilation
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021924
+- **Date Created**:: 2025-12-02T19:24:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Discourses and Enchiridion (combined teachings)
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 108-125 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: N/A
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021925
+- **Date Created**:: 2025-12-02T19:25:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: The Art of Living (Compilation)
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 108-125 CE (original teachings)
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by compilation
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021926
+- **Date Created**:: 2025-12-02T19:26:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Discourses and Enchiridion
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 108-125 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: N/A
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021927
+- **Date Created**:: 2025-12-02T19:27:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Discourses and Enchiridion
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 108-125 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: N/A
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021928
+- **Date Created**:: 2025-12-02T19:28:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Discourses
+- **Author(s)**:: Epictetus (transcribed by Arrian)
+- **Year**:: c. 108 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021929
+- **Date Created**:: 2025-12-02T19:29:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Essay
+- **Title**:: On the Shortness of Life (De Brevitate Vitae)
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 49 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Varies by translation
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021930
+- **Date Created**:: 2025-12-02T19:30:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Letter
+- **Title**:: Moral Letters to Lucilius (Epistulae Morales ad Lucilium)
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 65 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: Book 2
+- **Page(s)**:: Letter 13.4
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021931
+- **Date Created**:: 2025-12-02T19:31:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: On Anger (De Ira) and other writings
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 41-49 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: N/A
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021932
+- **Date Created**:: 2025-12-02T19:32:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Letter
+- **Title**:: Moral Letters to Lucilius
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 65 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Letter 76
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021933
+- **Date Created**:: 2025-12-02T19:33:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Letters and Essays
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 41-65 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: N/A
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021934
+- **Date Created**:: 2025-12-02T19:34:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Letter
+- **Title**:: Moral Letters to Lucilius
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 65 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Letter 90
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021935
+- **Date Created**:: 2025-12-02T19:35:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Letter
+- **Title**:: Moral Letters to Lucilius
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 65 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Letter 28
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021936
+- **Date Created**:: 2025-12-02T19:36:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Essay
+- **Title**:: On Anger (De Ira)
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 41-49 CE
+- **Publisher / Journal**:: Various modern editions (appears in Dialogues and Essays)
+- **Volume / Issue**:: Book 3
+- **Page(s)**:: Chapter 36
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021937
+- **Date Created**:: 2025-12-02T19:37:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Letter
+- **Title**:: Moral Letters to Lucilius
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 65 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: Letter 16
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021938
+- **Date Created**:: 2025-12-02T19:38:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Untitled**: ### Quote Bibliographic Information
+- **Source Type**:: Ancient Philosophical Text
+- **Title**:: Various Letters and Essays
+- **Author(s)**:: Lucius Annaeus Seneca
+- **Year**:: c. 41-65 CE
+- **Publisher / Journal**:: Various modern editions
+- **Volume / Issue**:: N/A
+- **Page(s)**:: N/A
+- **URL / DOI**:: N/A
+### Citation Metadata
+- **Citation ID**:: 202512021939
+- **Date Created**:: 2025-12-02T19:39:00
+- **LLM Used**:: Claude Sonnet 4.5
+	- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
+
+- **Sheldon, K. M., & Gunz, A. (2009). Psychological needs as basic motives, not just experiential requirements. *Journal of Personality*, 77(5), 1467–1492.**: Examines the substitution hypothesis — whether satisfaction of one need can compensate for deprivation of another. Provides the most direct empirical test of the compensatory hypothesis and finds evidence for partial (but not full) substitution, complicating the strongest versions of the conjunctive thesis.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133–144.**: Review of SDT and BPNT research with specific application to educational contexts. Synthesizes the research on how teachers can support the three needs in classroom settings, with practical guidance on translating theory into practice.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: Analysis of the structural and psychological factors that lead teachers toward controlling instructional styles and the specific behavioral changes involved in shifting toward autonomy-supportive pedagogy. Addresses the practical challenge that teachers face in applying BPNT while managing classroom pressures.
+
+- **Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin*, 117(3), 497–529.**: Landmark review synthesizing evidence for the universal need to belong — the empirical foundation for BPNT's relatedness need claim. Documents the well-being costs of social exclusion and the facility of relationship formation as evidence for an underlying organismic need.
+
+- **Ryan, R. M., Deci, E. L., Grolnick, W. S., & La Guardia, J. G. (2016). The significance of autonomy and autonomy support in psychological development and psychopathology. In D. Cicchetti (Ed.), *Developmental Psychopathology* (3rd ed., Vol. 1). Wiley.**: Examination of the developmental and clinical consequences of chronic autonomy thwarting across the lifespan. Provides the most thorough treatment of the "dark side" of motivation — the defensive, substitute-satisfaction-seeking patterns produced by need frustration — from within the SDT theoretical framework.
+
+- **Elliot, A. J. (2006). The hierarchical model of approach-avoidance motivation. *Motivation and Emotion*, 30(2), 111–116.**: Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The most cited comprehensive statement of SDT including all mini-theories. OIT is addressed in sections 3 and 4. Provides the integration of OIT within BPNT and the clearest statement of the basic need-satisfaction mechanism for internalization.
+
+- **Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. *Journal of Educational Psychology, 81*(2), 143–154.**: Foundational study linking parenting styles to children's internalization in academic contexts. Demonstrates that parental involvement vs. control differentially predict regulatory quality (not just quantity) and academic outcomes. Key early empirical support for OIT.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Critical empirical work demonstrating the specific psychological costs of conditional regard and introjected regulation. Provides mechanistic account of why introjection produces greater well-being costs than external regulation — the key evidence for the "introjection anomaly" discussed in Phase III.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Accessible synthesis of OIT's implications for educational design, including a practical overview of autonomy-supportive teaching practices. Addresses the distinction between intrinsic and extrinsic goal framing and its consequences for internalization. Good gateway for practitioners.
+
+- **Williams, G. C., Gagné, M., Ryan, R. M., & Deci, E. L. (2002). Facilitating autonomous motivation for smoking cessation. *Health Psychology, 21*(1), 40–50.**: Exemplary application of OIT to health behavior change, demonstrating that autonomous motivation predicts sustained cessation while controlled motivation predicts short-term compliance. One of a series of health behavior studies establishing OIT's practical relevance in clinical contexts.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist, 44*(3), 159–175.**: Empirical and theoretical analysis of teachers' controlling styles — why they emerge, what pressures drive them, and what shifts are necessary to become genuinely autonomy-supportive. Important practical resource; addresses the gap between knowing OIT and implementing it in real classrooms.
+
+- **Koestner, R., Ryan, R. M., Bernieri, F., & Holt, K. (1984). Setting limits on children's behavior: The differential effects of controlling vs. informational styles on intrinsic motivation and creativity. *Journal of Personality, 52*(3), 233–248.**: Classic experimental study distinguishing controlling from informational communication styles and their differential effects on motivation. Key evidence for the role of rationale quality in supporting vs. undermining autonomous regulation. Seminal for OIT's practical design implications.
+
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review, 30*(1), 74–99.**: Theoretical refinement of psychological control as a parenting construct, connecting it to OIT's account of introjection. Distinguishes between behavioral control (limiting behavior) and psychological control (threatening the child's self-concept) — a distinction with significant practical implications for educational contexts.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive contemporary statement of SDT including updated OIT. Part III covers internalization in detail. This is the authoritative contemporary reference; earlier papers should be read in light of the theoretical developments this book synthesizes.
+
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory: An historical overview, emerging trends, and future directions. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A). Emerald.**: Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
+
+- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L. (1975). *Intrinsic Motivation*. Plenum Press.**: The founding text of intrinsic motivation research, presenting Deci's early experimental evidence for the undermining effect and the first articulation of cognitive evaluation theory.
+
+**Recommended Sections:** Chapters 2-4 on the original experiments; Chapter 8 on theoretical integration.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, presenting the first comprehensive statement of the theory including CET, OIT, and COT. Establishes the organismic metatheoretical framework and the basic need construct.
+
+**Recommended Sections:** Chapter 2 on metatheory; Chapter 5 on cognitive evaluation theory; Chapters 6-7 on internalization.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, 55(1), 68-78.**: The most widely cited SDT paper, providing a concise overview of the theory's architecture and empirical evidence. Essential orientation text.
+
+**Recommended Sections:** The entire article; particularly the internalization continuum diagram and the basic needs discussion.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The definitive comprehensive statement of SDT in its mature form. Covers all six mini-theories, the full empirical evidence base, and recent theoretical developments. The essential reference for any serious engagement with SDT.
+
+**Recommended Sections:** Chapters 3-8 on the six mini-theories; Chapter 10 on education; Chapter 20 on cross-cultural evidence.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627-668.**: The landmark meta-analysis establishing the undermining effect as a robust empirical phenomenon across 128 experiments, with moderator analyses identifying the conditions under which rewards enhance versus diminish intrinsic motivation.
+
+**Recommended Sections:** The moderator analyses clarifying when rewards undermine vs. when they do not.
+
+- **Vansteenkiste, M., Ryan, R. M., & Soenens, B. (2020). Basic psychological need theory: Advancements, critical themes, and future directions. *Motivation and Emotion*, 44(1), 1-31.**: Comprehensive review of BPNT's current state, including the need frustration formalization, cross-cultural evidence, and responses to critics.
+
+**Recommended Sections:** Sections on need frustration, universality evidence, and the distinction between need deprivation and frustration.
+
+- **Reeve, J. (2006). Teachers as facilitators: What autonomy-supportive teachers do and why their students benefit. *The Elementary School Journal*, 106(3), 225-236.**: Influential empirical paper detailing the specific behaviors that constitute autonomy-supportive teaching and their effects on student motivation, connecting SDT theory to classroom practice.
+
+**Recommended Sections:** The behavioral taxonomy of autonomy-supportive practices.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280-287.**: Key empirical foundation for Goal Contents Theory, demonstrating that the relative emphasis on intrinsic versus extrinsic aspirations predicts well-being independently of goal attainment.
+
+**Recommended Sections:** The differential prediction findings and aspirations index methodology.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133-144.**: Accessible translation of SDT principles into educational practice, covering autonomy-supportive teaching, competence-supportive structure, and relatedness-supportive classroom climate.
+
+**Recommended Sections:** Practical recommendations organized by need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263-280.**: Key theoretical paper formalizing the distinction between need satisfaction, need deprivation, and need frustration as distinct constructs with different predictive targets.
+
+**Recommended Sections:** The tripartite model of need satisfaction, deprivation, and frustration.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations, gender, and well-being. *Journal of Personality and Social Psychology*, 84(1), 97-110.**: Empirical demonstration that autonomy (as volition) is distinguishable from independence (as individualism) and predicts well-being across both individualistic and collectivistic cultures.
+
+**Recommended Sections:** The cross-cultural analyses and the autonomy-independence distinction.
+
+- **Jang, H., Reeve, J., & Deci, E. L. (2010). Engaging students in learning activities: It is not autonomy support or structure but autonomy support and structure. *Journal of Educational Psychology*, 102(3), 588-600.**: Critical empirical demonstration that autonomy support and structure are complementary rather than opposing dimensions of educational practice, challenging the misconception that SDT recommends unstructured teaching.
+
+**Recommended Sections:** The interaction between autonomy support and structure dimensions.
+
+- **Howard, J. L., Gagné, M., & Bureau, J. S. (2017). Testing a continuum structure of self-determined motivation: A meta-analysis. *Psychological Bulletin*, 143(12), 1346-1377.**: Meta-analytic test of the simplex structure predicted by OIT's internalization continuum, finding partial but inconsistent support for the developmental ordering of regulatory styles.
+
+**Recommended Sections:** The simplex correlation analyses and implications for the continuum interpretation.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216-236.**: Four-culture empirical study demonstrating the cross-cultural validity of need satisfaction and frustration and their differential predictions of well-being and ill-being.
+
+**Recommended Sections:** The cross-cultural comparisons and the satisfaction-frustration factor structure.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L. (1975). *Intrinsic Motivation*. Plenum Press.**: The founding text of intrinsic motivation research, presenting Deci's early experimental evidence for the undermining effect and the first articulation of cognitive evaluation theory.
+
+**Recommended Sections:** Chapters 2-4 on the original experiments; Chapter 8 on theoretical integration.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, presenting the first comprehensive statement of the theory including CET, OIT, and COT. Establishes the organismic metatheoretical framework and the basic need construct.
+
+**Recommended Sections:** Chapter 2 on metatheory; Chapter 5 on cognitive evaluation theory; Chapters 6-7 on internalization.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, 55(1), 68-78.**: The most widely cited SDT paper, providing a concise overview of the theory's architecture and empirical evidence. Essential orientation text.
+
+**Recommended Sections:** The entire article; particularly the internalization continuum diagram and the basic needs discussion.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The definitive comprehensive statement of SDT in its mature form. Covers all six mini-theories, the full empirical evidence base, and recent theoretical developments. The essential reference for any serious engagement with SDT.
+
+**Recommended Sections:** Chapters 3-8 on the six mini-theories; Chapter 10 on education; Chapter 20 on cross-cultural evidence.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627-668.**: The landmark meta-analysis establishing the undermining effect as a robust empirical phenomenon across 128 experiments, with moderator analyses identifying the conditions under which rewards enhance versus diminish intrinsic motivation.
+
+**Recommended Sections:** The moderator analyses clarifying when rewards undermine vs. when they do not.
+
+- **Vansteenkiste, M., Ryan, R. M., & Soenens, B. (2020). Basic psychological need theory: Advancements, critical themes, and future directions. *Motivation and Emotion*, 44(1), 1-31.**: Comprehensive review of BPNT's current state, including the need frustration formalization, cross-cultural evidence, and responses to critics.
+
+**Recommended Sections:** Sections on need frustration, universality evidence, and the distinction between need deprivation and frustration.
+
+- **Reeve, J. (2006). Teachers as facilitators: What autonomy-supportive teachers do and why their students benefit. *The Elementary School Journal*, 106(3), 225-236.**: Influential empirical paper detailing the specific behaviors that constitute autonomy-supportive teaching and their effects on student motivation, connecting SDT theory to classroom practice.
+
+**Recommended Sections:** The behavioral taxonomy of autonomy-supportive practices.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280-287.**: Key empirical foundation for Goal Contents Theory, demonstrating that the relative emphasis on intrinsic versus extrinsic aspirations predicts well-being independently of goal attainment.
+
+**Recommended Sections:** The differential prediction findings and aspirations index methodology.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133-144.**: Accessible translation of SDT principles into educational practice, covering autonomy-supportive teaching, competence-supportive structure, and relatedness-supportive classroom climate.
+
+**Recommended Sections:** Practical recommendations organized by need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263-280.**: Key theoretical paper formalizing the distinction between need satisfaction, need deprivation, and need frustration as distinct constructs with different predictive targets.
+
+**Recommended Sections:** The tripartite model of need satisfaction, deprivation, and frustration.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations, gender, and well-being. *Journal of Personality and Social Psychology*, 84(1), 97-110.**: Empirical demonstration that autonomy (as volition) is distinguishable from independence (as individualism) and predicts well-being across both individualistic and collectivistic cultures.
+
+**Recommended Sections:** The cross-cultural analyses and the autonomy-independence distinction.
+
+- **Jang, H., Reeve, J., & Deci, E. L. (2010). Engaging students in learning activities: It is not autonomy support or structure but autonomy support and structure. *Journal of Educational Psychology*, 102(3), 588-600.**: Critical empirical demonstration that autonomy support and structure are complementary rather than opposing dimensions of educational practice, challenging the misconception that SDT recommends unstructured teaching.
+
+**Recommended Sections:** The interaction between autonomy support and structure dimensions.
+
+- **Howard, J. L., Gagné, M., & Bureau, J. S. (2017). Testing a continuum structure of self-determined motivation: A meta-analysis. *Psychological Bulletin*, 143(12), 1346-1377.**: Meta-analytic test of the simplex structure predicted by OIT's internalization continuum, finding partial but inconsistent support for the developmental ordering of regulatory styles.
+
+**Recommended Sections:** The simplex correlation analyses and implications for the continuum interpretation.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216-236.**: Four-culture empirical study demonstrating the cross-cultural validity of need satisfaction and frustration and their differential predictions of well-being and ill-being.
+
+**Recommended Sections:** The cross-cultural comparisons and the satisfaction-frustration factor structure.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
+
+- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
+
+- **Sheldon, K. M., & Gunz, A. (2009). Psychological needs as basic motives, not just experiential requirements. *Journal of Personality*, 77(5), 1467–1492.**: Examines the substitution hypothesis — whether satisfaction of one need can compensate for deprivation of another. Provides the most direct empirical test of the compensatory hypothesis and finds evidence for partial (but not full) substitution, complicating the strongest versions of the conjunctive thesis.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133–144.**: Review of SDT and BPNT research with specific application to educational contexts. Synthesizes the research on how teachers can support the three needs in classroom settings, with practical guidance on translating theory into practice.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: Analysis of the structural and psychological factors that lead teachers toward controlling instructional styles and the specific behavioral changes involved in shifting toward autonomy-supportive pedagogy. Addresses the practical challenge that teachers face in applying BPNT while managing classroom pressures.
+
+- **Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin*, 117(3), 497–529.**: Landmark review synthesizing evidence for the universal need to belong — the empirical foundation for BPNT's relatedness need claim. Documents the well-being costs of social exclusion and the facility of relationship formation as evidence for an underlying organismic need.
+
+- **Ryan, R. M., Deci, E. L., Grolnick, W. S., & La Guardia, J. G. (2016). The significance of autonomy and autonomy support in psychological development and psychopathology. In D. Cicchetti (Ed.), *Developmental Psychopathology* (3rd ed., Vol. 1). Wiley.**: Examination of the developmental and clinical consequences of chronic autonomy thwarting across the lifespan. Provides the most thorough treatment of the "dark side" of motivation — the defensive, substitute-satisfaction-seeking patterns produced by need frustration — from within the SDT theoretical framework.
+
+- **Elliot, A. J. (2006). The hierarchical model of approach-avoidance motivation. *Motivation and Emotion*, 30(2), 111–116.**: Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The most cited comprehensive statement of SDT including all mini-theories. OIT is addressed in sections 3 and 4. Provides the integration of OIT within BPNT and the clearest statement of the basic need-satisfaction mechanism for internalization.
+
+- **Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. *Journal of Educational Psychology, 81*(2), 143–154.**: Foundational study linking parenting styles to children's internalization in academic contexts. Demonstrates that parental involvement vs. control differentially predict regulatory quality (not just quantity) and academic outcomes. Key early empirical support for OIT.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Critical empirical work demonstrating the specific psychological costs of conditional regard and introjected regulation. Provides mechanistic account of why introjection produces greater well-being costs than external regulation — the key evidence for the "introjection anomaly" discussed in Phase III.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Accessible synthesis of OIT's implications for educational design, including a practical overview of autonomy-supportive teaching practices. Addresses the distinction between intrinsic and extrinsic goal framing and its consequences for internalization. Good gateway for practitioners.
+
+- **Williams, G. C., Gagné, M., Ryan, R. M., & Deci, E. L. (2002). Facilitating autonomous motivation for smoking cessation. *Health Psychology, 21*(1), 40–50.**: Exemplary application of OIT to health behavior change, demonstrating that autonomous motivation predicts sustained cessation while controlled motivation predicts short-term compliance. One of a series of health behavior studies establishing OIT's practical relevance in clinical contexts.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist, 44*(3), 159–175.**: Empirical and theoretical analysis of teachers' controlling styles — why they emerge, what pressures drive them, and what shifts are necessary to become genuinely autonomy-supportive. Important practical resource; addresses the gap between knowing OIT and implementing it in real classrooms.
+
+- **Koestner, R., Ryan, R. M., Bernieri, F., & Holt, K. (1984). Setting limits on children's behavior: The differential effects of controlling vs. informational styles on intrinsic motivation and creativity. *Journal of Personality, 52*(3), 233–248.**: Classic experimental study distinguishing controlling from informational communication styles and their differential effects on motivation. Key evidence for the role of rationale quality in supporting vs. undermining autonomous regulation. Seminal for OIT's practical design implications.
+
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review, 30*(1), 74–99.**: Theoretical refinement of psychological control as a parenting construct, connecting it to OIT's account of introjection. Distinguishes between behavioral control (limiting behavior) and psychological control (threatening the child's self-concept) — a distinction with significant practical implications for educational contexts.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive contemporary statement of SDT including updated OIT. Part III covers internalization in detail. This is the authoritative contemporary reference; earlier papers should be read in light of the theoretical developments this book synthesizes.
+
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory: An historical overview, emerging trends, and future directions. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A). Emerald.**: Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
+
+- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
+
+- **Sheldon, K. M., & Gunz, A. (2009). Psychological needs as basic motives, not just experiential requirements. *Journal of Personality*, 77(5), 1467–1492.**: Examines the substitution hypothesis — whether satisfaction of one need can compensate for deprivation of another. Provides the most direct empirical test of the compensatory hypothesis and finds evidence for partial (but not full) substitution, complicating the strongest versions of the conjunctive thesis.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133–144.**: Review of SDT and BPNT research with specific application to educational contexts. Synthesizes the research on how teachers can support the three needs in classroom settings, with practical guidance on translating theory into practice.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: Analysis of the structural and psychological factors that lead teachers toward controlling instructional styles and the specific behavioral changes involved in shifting toward autonomy-supportive pedagogy. Addresses the practical challenge that teachers face in applying BPNT while managing classroom pressures.
+
+- **Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin*, 117(3), 497–529.**: Landmark review synthesizing evidence for the universal need to belong — the empirical foundation for BPNT's relatedness need claim. Documents the well-being costs of social exclusion and the facility of relationship formation as evidence for an underlying organismic need.
+
+- **Ryan, R. M., Deci, E. L., Grolnick, W. S., & La Guardia, J. G. (2016). The significance of autonomy and autonomy support in psychological development and psychopathology. In D. Cicchetti (Ed.), *Developmental Psychopathology* (3rd ed., Vol. 1). Wiley.**: Examination of the developmental and clinical consequences of chronic autonomy thwarting across the lifespan. Provides the most thorough treatment of the "dark side" of motivation — the defensive, substitute-satisfaction-seeking patterns produced by need frustration — from within the SDT theoretical framework.
+
+- **Elliot, A. J. (2006). The hierarchical model of approach-avoidance motivation. *Motivation and Emotion*, 30(2), 111–116.**: Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational text establishing SDT and OIT. Chapters 6 and 7 are most relevant to OIT's regulatory continuum and internalization mechanism. Essential reading for any researcher engaging seriously with OIT; later papers presuppose this theoretical architecture.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The most cited comprehensive statement of SDT including all mini-theories. OIT is addressed in sections 3 and 4. Provides the integration of OIT within BPNT and the clearest statement of the basic need-satisfaction mechanism for internalization.
+
+- **Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. *Journal of Educational Psychology, 81*(2), 143–154.**: Foundational study linking parenting styles to children's internalization in academic contexts. Demonstrates that parental involvement vs. control differentially predict regulatory quality (not just quantity) and academic outcomes. Key early empirical support for OIT.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Critical empirical work demonstrating the specific psychological costs of conditional regard and introjected regulation. Provides mechanistic account of why introjection produces greater well-being costs than external regulation — the key evidence for the "introjection anomaly" discussed in Phase III.
+
+- **Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the quality of academic motivation. *Educational Psychologist, 41*(1), 19–31.**: Accessible synthesis of OIT's implications for educational design, including a practical overview of autonomy-supportive teaching practices. Addresses the distinction between intrinsic and extrinsic goal framing and its consequences for internalization. Good gateway for practitioners.
+
+- **Williams, G. C., Gagné, M., Ryan, R. M., & Deci, E. L. (2002). Facilitating autonomous motivation for smoking cessation. *Health Psychology, 21*(1), 40–50.**: Exemplary application of OIT to health behavior change, demonstrating that autonomous motivation predicts sustained cessation while controlled motivation predicts short-term compliance. One of a series of health behavior studies establishing OIT's practical relevance in clinical contexts.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist, 44*(3), 159–175.**: Empirical and theoretical analysis of teachers' controlling styles — why they emerge, what pressures drive them, and what shifts are necessary to become genuinely autonomy-supportive. Important practical resource; addresses the gap between knowing OIT and implementing it in real classrooms.
+
+- **Koestner, R., Ryan, R. M., Bernieri, F., & Holt, K. (1984). Setting limits on children's behavior: The differential effects of controlling vs. informational styles on intrinsic motivation and creativity. *Journal of Personality, 52*(3), 233–248.**: Classic experimental study distinguishing controlling from informational communication styles and their differential effects on motivation. Key evidence for the role of rationale quality in supporting vs. undermining autonomous regulation. Seminal for OIT's practical design implications.
+
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review, 30*(1), 74–99.**: Theoretical refinement of psychological control as a parenting construct, connecting it to OIT's account of introjection. Distinguishes between behavioral control (limiting behavior) and psychological control (threatening the child's self-concept) — a distinction with significant practical implications for educational contexts.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive contemporary statement of SDT including updated OIT. Part III covers internalization in detail. This is the authoritative contemporary reference; earlier papers should be read in light of the theoretical developments this book synthesizes.
+
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory: An historical overview, emerging trends, and future directions. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A). Emerald.**: Historical overview of all five SDT mini-theories including OIT. Excellent for understanding how OIT developed in relation to the broader SDT framework and where current research frontiers lie. Good orientation for researchers new to SDT.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.**: The foundational theoretical work establishing SDT's original architecture, including Cognitive Evaluation Theory and the initial formulation of Organismic Integration Theory. Essential for understanding the theory's philosophical commitments (organismic, dialectical) and its historical grounding in experimental research on rewards and intrinsic motivation. Sections 3–5 are most directly relevant to educational applications.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 126*(6), 627–668.**: The most comprehensive empirical review of the reward-undermining-motivation literature, synthesizing 128 experimental studies. Critical for understanding the conditional nature of reward effects and for correcting the popular overgeneralization that "all rewards are harmful." Table 3 provides a useful breakdown of reward type by effect direction.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: The key programmatic statement of modern SDT, introducing Basic Psychological Needs Theory as a formal sub-theory and articulating the three-need framework with clear psychological definitions. Widely cited as the entry point for the modern SDT literature; supports Phases II and III of this analysis.
+
+- **Jang, H. (2008). Supporting students' motivation, engagement, and learning during an uninteresting activity. *Journal of Educational Psychology, 100*(4), 798–811.**: Experimental study providing clean evidence for the role of rationale in promoting internalization of extrinsic motivation. The design elegantly isolates delivery mode from task content, making it one of the clearest demonstrations of the autonomy-support mechanism. Cited in Phase III's treatment of internalization evidence.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration, 23*(3), 263–280.**: The theoretical paper most directly addressing the need thwarting / need deprivation distinction and the asymmetry between satisfaction and thwarting effects. Foundational for the Phase III evidence review and the Phase V practical recommendations.
+
+- **Reeve, J., & Jang, H. (2006). What teachers say and do to support students' autonomy during a learning activity. *Journal of Educational Psychology, 98*(1), 209–218.**: Observational coding study identifying specific teacher behaviors associated with autonomy support and control. Provides empirical grounding for the behavioral catalogue of autonomy-supportive teaching. Useful as a practical reference for the behaviors described in Phase V.
+
+- **Assor, A., Roth, G., & Deci, E. L. (2004). The emotional costs of parents' conditional regard: A self-determination theory analysis. *Journal of Personality, 72*(1), 47–88.**: Empirical study examining conditional regard as a form of relatedness thwarting and its association with introjected regulation, contingent self-esteem, and fragile academic motivation. Supports the Phase IV analysis of conditional regard and the relatedness risk-architecture mechanism.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education, 7*(2), 133–144.**: A practitioner-oriented review of SDT evidence in educational contexts, synthesizing the empirical literature into guidelines for classroom application. Useful as a supplement to this analysis for readers seeking a broader survey of the educational SDT literature.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin, 37*(11), 1459–1473.**: Methodologically important paper introducing the distinction between need satisfaction and need frustration scales, demonstrating that need frustration is a distinct and uniquely predictive construct rather than simply the low end of a satisfaction continuum. Essential empirical grounding for the asymmetry claim in Phase III.
+
+- **Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., Dochy, F., Mouratidis, A., ... & Beyers, W. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. *Learning and Instruction, 22*(6), 431–439.**: Empirical study examining the interaction between autonomy support and structure in educational contexts, providing evidence that the combination of both — rather than either alone — produces the strongest motivational and learning outcomes. Directly relevant to the Phase II and Phase V discussions of the autonomy-structure distinction.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key theoretical paper introducing the conceptual and empirical distinction between need satisfaction and need thwarting (frustration) as distinct phenomena with different antecedents and distinct outcomes. This paper established the "dark side" research programme within SDT and has since generated extensive empirical follow-up. Critical for anyone working with at-risk populations or interested in the SDT account of psychological ill-being.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The most comprehensive and current single-volume treatment of SDT, covering all six mini-theories, the full empirical literature, cross-cultural evidence, and applications across multiple domains. At over 700 pages, this is the authoritative scholarly reference. Particularly valuable for its integration of neuroscience, cross-cultural psychology, and clinical psychology perspectives that were less developed in earlier treatments.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: An influential theoretical analysis of why controlling teaching practices persist despite evidence favouring autonomy-supportive practices — addressing the institutional pressures, accountability systems, and pedagogical beliefs that push teachers toward controlling styles. Also provides a framework for understanding how autonomy-supportive teaching can be trained and sustained. Valuable for instructional designers and teacher educators.
+
+- **Williams, G. C., Grow, V. M., Freedman, Z. R., Ryan, R. M., & Deci, E. L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology*, 70(1), 115–126.**: One of the early SDT healthcare studies demonstrating that autonomous motivation for weight management (as opposed to controlled motivation driven by medical pressure or social appearance concerns) predicted both weight loss and long-term maintenance, mediated by attendance at treatment. A landmark study demonstrating SDT's practical power in clinical settings and helping establish the healthcare application literature.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280–287.**: A key empirical paper for GCT, demonstrating that relative emphasis on extrinsic goals (wealth, fame, image) versus intrinsic goals (growth, relationships, community) predicted lower well-being, more depression, and more anxiety, even controlling for absolute goal attainment. The paper helped establish Goal Contents Theory as a substantive research programme and contributed to the broader literature on materialism and well-being.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: A pivotal cross-cultural study testing SDT's universality thesis across four countries varying in collectivism-individualism. Found that autonomous internalization of cultural practices (including collectivistic practices) predicted well-being in all cultural contexts, while controlled internalization predicted ill-being, supporting the universality of the autonomy function even across very different value contexts. A critical reference for the cultural validity debate within SDT.
+
+- **Deci, E. L. (1975). *Intrinsic Motivation*. Plenum Press.**: The founding text of intrinsic motivation research, presenting Deci's early experimental evidence for the undermining effect and the first articulation of cognitive evaluation theory.
+
+**Recommended Sections:** Chapters 2-4 on the original experiments; Chapter 8 on theoretical integration.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, presenting the first comprehensive statement of the theory including CET, OIT, and COT. Establishes the organismic metatheoretical framework and the basic need construct.
+
+**Recommended Sections:** Chapter 2 on metatheory; Chapter 5 on cognitive evaluation theory; Chapters 6-7 on internalization.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, 55(1), 68-78.**: The most widely cited SDT paper, providing a concise overview of the theory's architecture and empirical evidence. Essential orientation text.
+
+**Recommended Sections:** The entire article; particularly the internalization continuum diagram and the basic needs discussion.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The definitive comprehensive statement of SDT in its mature form. Covers all six mini-theories, the full empirical evidence base, and recent theoretical developments. The essential reference for any serious engagement with SDT.
+
+**Recommended Sections:** Chapters 3-8 on the six mini-theories; Chapter 10 on education; Chapter 20 on cross-cultural evidence.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627-668.**: The landmark meta-analysis establishing the undermining effect as a robust empirical phenomenon across 128 experiments, with moderator analyses identifying the conditions under which rewards enhance versus diminish intrinsic motivation.
+
+**Recommended Sections:** The moderator analyses clarifying when rewards undermine vs. when they do not.
+
+- **Vansteenkiste, M., Ryan, R. M., & Soenens, B. (2020). Basic psychological need theory: Advancements, critical themes, and future directions. *Motivation and Emotion*, 44(1), 1-31.**: Comprehensive review of BPNT's current state, including the need frustration formalization, cross-cultural evidence, and responses to critics.
+
+**Recommended Sections:** Sections on need frustration, universality evidence, and the distinction between need deprivation and frustration.
+
+- **Reeve, J. (2006). Teachers as facilitators: What autonomy-supportive teachers do and why their students benefit. *The Elementary School Journal*, 106(3), 225-236.**: Influential empirical paper detailing the specific behaviors that constitute autonomy-supportive teaching and their effects on student motivation, connecting SDT theory to classroom practice.
+
+**Recommended Sections:** The behavioral taxonomy of autonomy-supportive practices.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280-287.**: Key empirical foundation for Goal Contents Theory, demonstrating that the relative emphasis on intrinsic versus extrinsic aspirations predicts well-being independently of goal attainment.
+
+**Recommended Sections:** The differential prediction findings and aspirations index methodology.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133-144.**: Accessible translation of SDT principles into educational practice, covering autonomy-supportive teaching, competence-supportive structure, and relatedness-supportive classroom climate.
+
+**Recommended Sections:** Practical recommendations organized by need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263-280.**: Key theoretical paper formalizing the distinction between need satisfaction, need deprivation, and need frustration as distinct constructs with different predictive targets.
+
+**Recommended Sections:** The tripartite model of need satisfaction, deprivation, and frustration.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations, gender, and well-being. *Journal of Personality and Social Psychology*, 84(1), 97-110.**: Empirical demonstration that autonomy (as volition) is distinguishable from independence (as individualism) and predicts well-being across both individualistic and collectivistic cultures.
+
+**Recommended Sections:** The cross-cultural analyses and the autonomy-independence distinction.
+
+- **Jang, H., Reeve, J., & Deci, E. L. (2010). Engaging students in learning activities: It is not autonomy support or structure but autonomy support and structure. *Journal of Educational Psychology*, 102(3), 588-600.**: Critical empirical demonstration that autonomy support and structure are complementary rather than opposing dimensions of educational practice, challenging the misconception that SDT recommends unstructured teaching.
+
+**Recommended Sections:** The interaction between autonomy support and structure dimensions.
+
+- **Howard, J. L., Gagné, M., & Bureau, J. S. (2017). Testing a continuum structure of self-determined motivation: A meta-analysis. *Psychological Bulletin*, 143(12), 1346-1377.**: Meta-analytic test of the simplex structure predicted by OIT's internalization continuum, finding partial but inconsistent support for the developmental ordering of regulatory styles.
+
+**Recommended Sections:** The simplex correlation analyses and implications for the continuum interpretation.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216-236.**: Four-culture empirical study demonstrating the cross-cultural validity of need satisfaction and frustration and their differential predictions of well-being and ill-being.
+
+**Recommended Sections:** The cross-cultural comparisons and the satisfaction-frustration factor structure.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.**: The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.**: The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.
+
+- **Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.**: The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.**: Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.
+
+- **Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.**: Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.
+
+- **Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.**: Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.
+
+- **Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.**: The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.
+
+- **Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.**: The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Deci, E. L. (1975). *Intrinsic Motivation*. Plenum Press.**: The founding text of intrinsic motivation research, presenting Deci's early experimental evidence for the undermining effect and the first articulation of cognitive evaluation theory.
+
+**Recommended Sections:** Chapters 2-4 on the original experiments; Chapter 8 on theoretical integration.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text of SDT, presenting the first comprehensive statement of the theory including CET, OIT, and COT. Establishes the organismic metatheoretical framework and the basic need construct.
+
+**Recommended Sections:** Chapter 2 on metatheory; Chapter 5 on cognitive evaluation theory; Chapters 6-7 on internalization.
+
+- **Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, 55(1), 68-78.**: The most widely cited SDT paper, providing a concise overview of the theory's architecture and empirical evidence. Essential orientation text.
+
+**Recommended Sections:** The entire article; particularly the internalization continuum diagram and the basic needs discussion.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The definitive comprehensive statement of SDT in its mature form. Covers all six mini-theories, the full empirical evidence base, and recent theoretical developments. The essential reference for any serious engagement with SDT.
+
+**Recommended Sections:** Chapters 3-8 on the six mini-theories; Chapter 10 on education; Chapter 20 on cross-cultural evidence.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627-668.**: The landmark meta-analysis establishing the undermining effect as a robust empirical phenomenon across 128 experiments, with moderator analyses identifying the conditions under which rewards enhance versus diminish intrinsic motivation.
+
+**Recommended Sections:** The moderator analyses clarifying when rewards undermine vs. when they do not.
+
+- **Vansteenkiste, M., Ryan, R. M., & Soenens, B. (2020). Basic psychological need theory: Advancements, critical themes, and future directions. *Motivation and Emotion*, 44(1), 1-31.**: Comprehensive review of BPNT's current state, including the need frustration formalization, cross-cultural evidence, and responses to critics.
+
+**Recommended Sections:** Sections on need frustration, universality evidence, and the distinction between need deprivation and frustration.
+
+- **Reeve, J. (2006). Teachers as facilitators: What autonomy-supportive teachers do and why their students benefit. *The Elementary School Journal*, 106(3), 225-236.**: Influential empirical paper detailing the specific behaviors that constitute autonomy-supportive teaching and their effects on student motivation, connecting SDT theory to classroom practice.
+
+**Recommended Sections:** The behavioral taxonomy of autonomy-supportive practices.
+
+- **Kasser, T., & Ryan, R. M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin*, 22(3), 280-287.**: Key empirical foundation for Goal Contents Theory, demonstrating that the relative emphasis on intrinsic versus extrinsic aspirations predicts well-being independently of goal attainment.
+
+**Recommended Sections:** The differential prediction findings and aspirations index methodology.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133-144.**: Accessible translation of SDT principles into educational practice, covering autonomy-supportive teaching, competence-supportive structure, and relatedness-supportive classroom climate.
+
+**Recommended Sections:** Practical recommendations organized by need.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263-280.**: Key theoretical paper formalizing the distinction between need satisfaction, need deprivation, and need frustration as distinct constructs with different predictive targets.
+
+**Recommended Sections:** The tripartite model of need satisfaction, deprivation, and frustration.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations, gender, and well-being. *Journal of Personality and Social Psychology*, 84(1), 97-110.**: Empirical demonstration that autonomy (as volition) is distinguishable from independence (as individualism) and predicts well-being across both individualistic and collectivistic cultures.
+
+**Recommended Sections:** The cross-cultural analyses and the autonomy-independence distinction.
+
+- **Jang, H., Reeve, J., & Deci, E. L. (2010). Engaging students in learning activities: It is not autonomy support or structure but autonomy support and structure. *Journal of Educational Psychology*, 102(3), 588-600.**: Critical empirical demonstration that autonomy support and structure are complementary rather than opposing dimensions of educational practice, challenging the misconception that SDT recommends unstructured teaching.
+
+**Recommended Sections:** The interaction between autonomy support and structure dimensions.
+
+- **Howard, J. L., Gagné, M., & Bureau, J. S. (2017). Testing a continuum structure of self-determined motivation: A meta-analysis. *Psychological Bulletin*, 143(12), 1346-1377.**: Meta-analytic test of the simplex structure predicted by OIT's internalization continuum, finding partial but inconsistent support for the developmental ordering of regulatory styles.
+
+**Recommended Sections:** The simplex correlation analyses and implications for the continuum interpretation.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216-236.**: Four-culture empirical study demonstrating the cross-cultural validity of need satisfaction and frustration and their differential predictions of well-being and ill-being.
+
+**Recommended Sections:** The cross-cultural comparisons and the satisfaction-frustration factor structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Methodology Notes
 
 > [!methodology-and-sources] **Research Grounding for Phase V** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*
@@ -261,6 +5296,237 @@ importance: high
 > This report synthesises four distinct empirical and theoretical traditions: the feedback level meta-analytic work of Hattie and Timperley, the formative assessment tradition initiated by Black and Wiliam, the SDT programme of Deci and Ryan, and Dweck's growth mindset and attribution research. All four traditions have substantial empirical bases; where their evidence quality differs, this is noted. The most robust findings — SDT basic need satisfaction, Mueller-Dweck process praise effects, Hattie-Timperley level hierarchy — are based on replicated controlled studies and meta-analyses. The…
 
 ---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[sdt-focused-analysis-2026-03-06]])*
+> This analysis draws on approximately five decades of SDT research, with heaviest reliance on meta-analytic syntheses, experimental studies, and theory-development papers from Deci, Ryan, Vansteenkiste, Reeve, Assor, and colleagues. The empirical claims in Phases III and IV are grounded in this literature and represent well-established findings within the SDT tradition.
+> 
+> The following distinctions apply across the analysis: (1) **Empirically established claims** include the reward-undermining-intrinsic-motivation effect, the learning advantages of autonomous over controlled regulation, and the internalization effect of autonomy-supportive rationale provision — all supported by multiple experimental studies and meta-analyses. (2) **Theoretically grounded integrations** include the mutual amplification account and the risk-architecture framing of relatedness — well-supported by convergent empirical evidence but not tested as unified constructs in single studies. (3) **Claude's original analytical contributions** include the Gateway Model (autonomy as motivational gatekeeper for the other two needs) and the Dynamic Equilibrium Model (need satisfaction as ongoing maintenance rather than cumulative score) — presented as theoretically motivated syntheses consistent with the evidence but not directly tested as stated. These contributions represent analytical extensions of the SDT framework, not established theoretical claims.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[self-determination-theory-first-principles-report-2026-03-11]])*
+> This analysis draws from three intellectual traditions: (1) the empirical SDT literature, primarily peer-reviewed publications from Deci, Ryan, and their collaborators spanning 1971–2023, including meta-analyses; (2) cross-cultural psychology, particularly the Markus-Kitayama tradition on self-construals; and (3) analytic philosophy of agency (Frankfurt, Bratman, Korsgaard) and philosophy of mind concerning innateness (Prinz, Griffiths).
+> 
+> The empirical audit of assumptions relies primarily on the SDT empirical literature itself, including internal revisions (the need satisfaction/frustration distinction, cross-cultural replications with nuanced findings) that have not yet been absorbed into standard textbook presentations. The axiomatic reconstruction is the analyst's original synthesis, not a formalisation of any existing source — it represents the theoretical contribution beyond established literature.
+> 
+> Claims marked [CONVERGES] and [DIVERGES] in Phase IV reflect comparisons between the reconstructed framework and the standard SDT account; these are the analyst's own theoretical positions and should be treated as reasoned proposals rather than established conclusions. The novel insights (relational-emergent autonomy; asymmetry of relatedness and autonomy) are theoretical proposals that generate testable predictions but have not been directly tested as formal models.
+> 
+> Potential blind spots: the analysis may underweight the normative and political dimensions of SDT's needs language (treating needs as social constructions weakens their status as objects of social justice critique); the analysis overrepresents WEIRD-population research; and the philosopher-of-agency tradition invoked for the autonomy-agency distinction is itself culturally specific in important ways.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[self-determination-theory-foundational-report-2026-03-11]])*
+> This report draws on the primary theoretical literature of SDT from 1971 to the present — principally Deci and Ryan's original texts, the major review papers, and the meta-analytic syntheses. It represents an academic synthesis rather than a contribution of original empirical data. The claims made about basic psychological needs, the internalisation continuum, and the effects of need satisfaction and thwarting reflect the weight of the empirical literature as established in multiple meta-analyses and cross-cultural studies; they are not the author's independent derivations.
+> 
+> The theoretical architecture presented — the six mini-theories and their relationships — reflects SDT as presented by Deci, Ryan, and their collaborators. Where the report characterises debates (the cultural universality question, the integrated/intrinsic distinction), it attempts to represent the current state of the scholarly discussion fairly, though the framing inevitably reflects the perspective of the SDT tradition itself. Readers seeking more critical perspectives should consult Heine (2008) on the cultural psychology critique and Danner et al. (2016) on measurement issues in BPNT research.
+> 
+> The empirical evidence base for SDT is substantially stronger in some mini-theories (CET, BPNT) than others (RMT, COT), and substantially stronger for North American and Western European populations than for Global South populations. Practitioners should calibrate their confidence in applying SDT principles in accordance with this uneven evidentiary landscape.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*
+> This report draws on a mature empirical literature with multiple independent research groups, cross-cultural replications, and a mix of correlational, experience-sampling, experimental, and structural equation modeling methods. The core findings regarding the individual importance of each need and the satisfaction-frustration asymmetry rest on strong empirical foundations — multiple methods, large samples, and cross-cultural replication. The conjunctive system thesis, in the form examined here, has strong support from latent profile analysis and correlational work but faces genuine challenges from the substitution literature; the report treats this as an open empirical question rather than a settled one. The form/function distinction for cross-cultural autonomy is supported by the Chirkov et al. evidence but awaits more comprehensive measurement development across cultural contexts. Claude's original analytical contributions — specifically, the synthesis in Section 6.2 framing the three needs as structural prerequisites for psychological integration, and the design principle in Section 6.4 — are presented as theoretical interpretations that go beyond what any individual source establishes, clearly distinguished from empirically supported claims.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[organismic-integration-theory-focused-analysis-2026-03-13]])*
+> This report draws on the empirical and theoretical literature in self-determination theory, specifically the OIT sub-theory. The evidence base is substantial: SDT/OIT has generated thousands of empirical studies across educational, health, organizational, and clinical contexts, with particularly strong longitudinal evidence from Williams, Deci, and colleagues' health behavior research program and strong experimental evidence from Koestner, Reeve, and Vansteenkiste's work on autonomy-supportive teaching.
+> 
+> Claims in this report fall into three categories, which the reader should distinguish:
+> 
+> **(1) Empirically established claims** — e.g., that autonomous motivation predicts better learning quality than controlled motivation; that introjection is associated with greater psychological costs than external regulation; that autonomy-supportive environments produce higher internalization than controlling environments. These claims are well-supported across multiple studies and cultural contexts.
+> 
+> **(2) Theoretical integrations grounded in multiple sources** — e.g., the description of the internalization mechanism as requiring need satisfaction as substrate; the claim that the regulatory continuum is context-specific rather than a stable person-level trait. These claims are theoretically coherent and supported by the literature but involve interpretation and synthesis beyond what any single study demonstrates.
+> 
+> **(3) Claude's original analytical contributions** — specifically, the "Integration Paradox" synthesis and the "Topological Landscape" reframing of the regulatory continuum. These represent novel analytical observations that follow from the evidence and theory but are not claims established in the existing literature. They are offered as analytical tools for practitioners and researchers, not as empirical findings, and should be treated accordingly — as hypotheses worth examining rather than established conclusions.
+
+> [!methodology-and-sources] **🛠️ The Stoic Evening Examination Protocol** *(from [[stoicism-codebase-pack]])*
+> Marcus Aurelius's practice, reconstructed from the *Meditations* and supplemented by modern neuroscientific understanding, follows a systematic structure:
+> 
+> **Pre-Sleep Timing**: Conduct reflection 30-60 minutes before intended sleep onset to allow cognitive arousal to diminish before attempting sleep initiation.
+> 
+> **Structured Prompting**: Rather than free-form writing, employ consistent questions that direct metacognitive monitoring: "What judgments did I make today? Were they based on what is within my control?" (monitoring for [[Cognitive-Distortion|cognitive distortions]]); "When did I react emotionally rather than rationally?" (identifying [[Emotional-Dysregulation|dysregulation]] instances); "What virtue did I practice or fail to practice?" (behavioral monitoring against standards).
+> 
+> **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
+> 
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[Implementation-Intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+
+> [!methodology-and-sources] **📋 Contemporary Stoic Journaling Template** *(from [[stoicism-codebase-pack]])*
+> A modernized implementation structure integrating classical Stoic practice with empirical research findings:
+> 
+> **Morning Session (5-10 minutes)**:
+> - **Prospective Visualization**: What challenges might today present? How do I want to respond?
+> - **Virtue Intention**: Which specific virtue will I emphasize today? (Wisdom, Justice, Courage, Temperance)
+> - **Control Dichotomy**: What is within versus outside my control today?
+> - **Implementation Intentions**: If [specific situation], then I will [specific response].
+> 
+> **Evening Session (10-15 minutes)**:
+> - **Event Documentation**: What significant events occurred? (factual recording)
+> - **Judgment Analysis**: What interpretations/judgments did I make? Were they based on what's controllable?
+> - **Emotional Inventory**: When did I experience strong emotions? What thoughts generated them?
+> - **Virtue Assessment**: Did I act according to my morning intention? Where did I succeed or fail?
+> - **Cognitive Reframing**: Select one problematic reaction and systematically reframe using Stoic principles
+> - **Lesson Extraction**: What did I learn today about myself, others, or effective action?
+> - **Tomorrow's Commitment**: Based on today's reflection, what specific intention will I set for tomorrow?
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[stoicism-codebase-pack]])*
+> This analysis draws from three intellectual traditions: Aristotelian decomposition (identifying propositions that are known in themselves vs. derived), Cartesian methodological doubt (treating each assumption as provisional until independently verified), and applied first-principles reasoning in the spirit of Weiner and Bandura's theory-building approach (seek the most parsimonious explanation grounded in robust empirical findings).
+> 
+> The evidence base for assumption auditing draws primarily on (1) the replication and meta-analytic literature published from 2015 onward, which provides the most rigorous assessment of effect sizes and boundary conditions; (2) the attribution theory and achievement goal theory literatures, which provide the best-replicated empirical foundations in the domain; and (3) Bandura's self-efficacy program, which offers the most extensively validated account of the role of experience in ability belief formation.
+> 
+> The novel contributions of this report — specifically the Specificity Principle, the Mastery-Experience Primacy Hypothesis, and the Goal Orientation Bypass — are logical derivations from the identified axioms rather than independent empirical claims. They are theoretically motivated and consistent with available evidence, but they have not been directly tested as stated here.
+> 
+> The analyst's most significant potential bias is toward experimental and quantitative evidence. Practitioners with extensive classroom experience may have phenomenological access to mindset effects that aggregate studies miss. This report should be read as a reframing of the theoretical and mechanistic claims, not as a dismissal of practitioners' observations.
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[stoicism-codebase-pack]])*
+> This analysis draws from the Aristotelian and Cartesian first-principles traditions as methodological scaffolding: systematic identification of what is asserted vs. what is assumed, followed by reconstruction from what survives scrutiny. The empirical claims are grounded in published meta-analyses and theoretical reviews in the cognitive psychology of reasoning literature through 2024. The assumption audit incorporates perspectives from both theoretical traditions (mental logic, mental models, probabilistic) and their philosophical underpinnings (philosophy of mind, formal semantics).
+> 
+> Where this analysis makes original contributions beyond established sources: (1) the characterization of "pragmatic construction" as the synthesizing insight from the axiom-based reconstruction — while elements of this appear in Oaksford & Chater and in relevance-theoretic accounts, the explicit derivation from the four axioms is the analyst's own; (2) the dissolution of the rule/model dichotomy as a theoretical artifact rather than an empirical discovery is increasingly the consensus but is stated here more starkly than in most published accounts.
+> 
+> The analyst's potential blind spots include: a theoretical orientation toward pluralism (which may have made dissolution of dichotomies more likely); greater familiarity with the philosophical than the empirical literature, which may have overweighted conceptual critiques relative to recent experimental refinements.
+
+> [!methodology-and-sources] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Virtue as the Evaluative Framework**
+> Rather than judging days as "good" or "bad" based on outcomes, Stoic journaling evaluates actions against virtue. The question is never "Did I get what I wanted?" but rather "Did I exercise wisdom, justice, courage, and moderation in this situation?" This reframes success as character development rather than [[External-Achievement]].
+
+> [!methodology-and-sources] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **The Seneca Evening Protocol** (from *De Ira* 3.36)
+> 
+> **Temporal Setting**: After light removed, wife silent—creating private space
+> **Comprehensive Review**: "I examine my entire day and go back over what I've done and said"
+> **Complete Honesty**: "hiding nothing from myself, passing nothing by"
+> **Self-Examination Questions**:
+> - "What bad habit of yours have you cured today?"
+> - "What vice have you checked?"
+> - "In what respect are you better?"
+> **Judgment with Mercy**: "For the moment, I excuse you. See that you do not do this anymore."
+> **Emotional Regulation Effect**: Anger becomes "more gentle" when it "knows every day it will have to appear before the judgment seat"
+
+> [!methodology-and-sources] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Optimal Morning Sequence (10-20 minutes)**
+> 
+> **1. Transition from Sleep (2-3 min)**
+> - Marcus Aurelius practice: "At dawn, when you have trouble getting out of bed, tell yourself: 'I have to go to work—as a human being.'"
+> - Resist temptation for passive scroll
+> - Deliberate movement to journaling space
+> 
+> **2. Grounding Reading (3-5 min)**
+> - Brief Stoic passage (Marcus, Seneca, Epictetus)
+> - Focus on actionable wisdom rather than theoretical philosophy
+> - Read slowly, contemplatively
+> - Select one principle to carry through day
+> 
+> **3. Premeditatio Malorum (3-5 min)**
+> - Identify known challenges for the day
+> - Visualize difficulties without catastrophizing
+> - Plan rational responses aligned with virtue
+> - Rehearse: "If X happens, I will respond with Y virtue"
+> 
+> **4. Intention Setting (2-4 min)**
+> - Define 1-3 specific virtue applications for the day
+> - Identify what's in control vs. what's not
+> - Written commitment to specific actions
+> - Set triggers for mindfulness (e.g., "When I feel frustration…")
+> 
+> **5. Gratitude Anchoring (1-2 min)**
+> - List 2-3 specific items of appreciation
+> - Connect to present moment rather than abstract blessings
+> - Creates positive baseline before engaging day
+
+> [!methodology-and-sources] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Optimal Evening Sequence (15-30 minutes)**
+> 
+> **1. Transition to Reflection (2-3 min)**
+> - Create ritual: "When the light has been removed and my wife has fallen silent"—establish consistent signal
+> - Remove distractions (phone, computer notifications)
+> - Create physical/digital space for review
+> - Deep breathing or brief meditation to settle mind
+> 
+> **2. Chronological Review (5-10 min)**
+> - Pythagorean method: Review events three times in order they occurred—people met, conversations had, tasks performed
+> - Write factual summary without initial judgment
+> - Note emotional peaks (positive and negative)
+> - Identify significant decisions or interactions
+> 
+> **3. Virtue Assessment (5-8 min)**
+> - For each cardinal virtue, evaluate day's performance
+> - Identify specific instances of virtue expression
+> - Note missed opportunities or failures
+> - Ask Epictetus's questions: "Where have I failed? What have I done? Anything like a free, noble-minded person?"
+> 
+> **4. Judgment Examination (3-5 min)**
+> - Identify 1-2 situations where judgment led to difficulty
+> - Separate event from interpretation
+> - Apply dichotomy of control retrospectively
+> - Propose alternative interpretation aligned with wisdom
+> 
+> **5. Pattern Recognition (2-4 min)**
+> - Note recurring themes from recent days
+> - Identify habit patterns (positive and negative)
+> - Connect to longer-term character development
+> 
+> **6. Compassionate Planning (2-3 min)**
+> - Seneca's approach: "For the moment, I excuse you. See that you do not do this anymore"
+> - Specific improvement plan for tomorrow
+> - One concrete action to implement
+> - Acceptance of imperfection
+> 
+> **7. Memento Mori Contemplation (1-2 min)**
+> - Seneca's closing: "When a man has said: 'I have lived!', every morning he arises he receives a bonus"
+> - Reflect on day as potentially complete life
+> - Gratitude for having lived this day
+> - Preparation to welcome next day as gift
+
+> [!methodology-and-sources] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Research Methodology**
+> This reference note synthesizes information from:
+> - **Ancient Sources**: Marcus Aurelius's *Meditations*, Seneca's *Letters* and *On Anger*, Epictetus's *Enchiridion* and *Discourses*, Pythagorean Golden Verses
+> - **Modern Scholarship**: Donald Robertson's work on Stoicism and CBT, Ryan Holiday's Daily Stoic resources, modern Stoic practice communities
+> - **Psychological Research**: Meta-analyses on journaling effectiveness, metacognitive awareness studies, CBT-Stoicism connections, resilience research
+> - **Contemporary Practice**: Current implementations across digital platforms, modern prompt systems, integration with PKB methodologies
+> 
+> **Research Queries Performed**:
+> 1. "Marcus Aurelius Meditations Stoic journaling daily practice"
+> 2. "Stoic morning evening routine Epictetus Seneca daily practice"
+> 3. "metacognitive journaling psychological research effectiveness behavior change"
+> 4. "Stoicism cognitive behavioral therapy CBT psychological research philosophy"
+> 
+> **Synthesis Approach**: Integrated ancient philosophical frameworks with contemporary psychological research, emphasizing evidence-based mechanisms while maintaining fidelity to original Stoic principles. Cross-referenced historical sources with modern implementations to identify enduring core practices and valid contemporary adaptations.
+> 
+> **Confidence Level**: 
+> - **High** for: Ancient Stoic frameworks (direct source evidence), CBT-Stoicism connections (explicit acknowledgment by founders), psychological mechanisms (peer-reviewed research)
+> - **Medium** for: Specific implementation details (varies by practitioner), optimal frequency/duration (limited controlled studies)
+> - **Moderate** for: Long-term effectiveness claims (requires longitudinal data, individual variation high)
+
+> [!methodology-and-sources] **Untitled** *(from [[stoicism-codebase-pack]])*
+> **Practical Framework**
+> 1. **Morning Practice**: Spend 5-10 minutes contemplating potential challenges for the day ahead
+> 2. **Specific Visualization**: Imagine concrete scenarios (project failure, difficult conversations, delays)
+> 3. **Response Rehearsal**: Mentally practice your virtuous response to each scenario
+> 4. **Acceptance**: Cultivate the attitude "if this happens, I will handle it with wisdom and courage"
+> 5. **Gratitude**: Recognize that these challenges have not yet occurred, fostering appreciation for the present
+
+> [!methodology-and-sources] **Untitled** *(from [[self-determination-theory-foundational-report-2026-04-01]])*
+> **Traditions Synthesized:** This report synthesizes the motivational psychology tradition (Deci & Ryan's SDT), humanistic psychology (Maslow, Rogers), educational psychology (Reeve, Niemiec), personality psychology (Causality Orientations Theory), and cross-cultural psychology (Chirkov, Chen et al.).
+> 
+> **Claim Type Taxonomy:**
+> - *Empirical findings* (e.g., the undermining effect, cross-cultural need satisfaction predictions): grounded in meta-analytic and experimental evidence.
+> - *Theoretical propositions* (e.g., the organismic metatheory, the need satisfaction mechanism): established within SDT but not independently verified outside the framework.
+> - *Original syntheses* (e.g., the motivational metabolism model, the need satisfaction–frustration asymmetry as a design constraint): interpretive constructs generated by this report, marked accordingly.
+> 
+> **Distinction Between Established Findings and Original Contributions:** The core theoretical architecture (six mini-theories, three needs, internalization continuum) and its empirical support represent established findings. The integrative syntheses in Phase VI and the framing of SDT as a "design science" for motivational environments represent this report's interpretive contributions.
+> 
+> **Limitations:** This report draws primarily on the SDT research tradition's own empirical and theoretical publications. While criticisms are engaged, the depth of engagement with alternative theoretical traditions (e.g., achievement goal theory, expectancy-value theory) is necessarily more limited than would be found in a dedicated comparative review.
+> 
+> **AI Generation Transparency:** This report was generated by an AI system (Claude) and should be verified against primary sources for factual claims, citation accuracy, and nuances of theoretical interpretation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Source Attribution
 

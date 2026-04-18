@@ -800,7 +800,7 @@ Progressive summarization resolves this through <span style='color: #27FF00;'>**
 
 %%applies-to: basb-methodology%%
 
-Progressive summarization embodies Forte's broader [[Building a Second Brain]] philosophy:
+Progressive summarization embodies Forte's broader [[Building-a-Second-Brain]] philosophy:
 
 **CODE Framework Integration:**
 - <span style='color: #FFC700;'>**Capture:**</span> Layer 1 (raw intake)
@@ -818,7 +818,7 @@ By creating multi-layer semantic structure, progressive summarization makes retr
 
 %%mental-model: Zettelkasten%%
 
-<span style='color: #FF5700;'>Andy Matuschak's [[Evergreen Notes]]</span> emphasize that notes should be:
+<span style='color: #FF5700;'>Andy Matuschak's [[Evergreen-Notes]]</span> emphasize that notes should be:
 - <span style='color: #27FF00;'>**Atomic:**</span> One concept per note
 - <span style='color: #FFC700;'>**Concept-oriented:**</span> Not tied to specific sources
 - <span style='color: #72FFF1;'>**Densely linked:**</span> Rich bidirectional connections

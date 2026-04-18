@@ -22,7 +22,7 @@ status: active
 - [[The Big Bang Theory]]
 - [[Cosmic Inflation]]
 - [[Timeline of the Universe]]
-- [[nucleosynthesis]]
+- [[Nucleosynthesis]]
 - [[Cosmic Microwave Background]]
 
 ### Fundamental Components

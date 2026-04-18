@@ -58,7 +58,7 @@ link-related:
   - "[[Learner Autonomy Spectrum]]"
   - "[[Library Science]]"
   - "[[Locus-of-Control]]"
-  - "[[Long-Term Working Memory]]"
+  - "[[Long-Term-Working-Memory]]"
   - "[[Long-Term-Memory]]"
   - "[[Metacognition]]"
   - "[[More-Knowledgeable-Other]]"

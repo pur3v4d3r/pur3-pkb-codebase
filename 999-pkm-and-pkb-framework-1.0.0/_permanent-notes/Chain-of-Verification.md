@@ -47,7 +47,7 @@ see-also:
   - "[[Regulatory-Threshold]]"
   - "[[The-Infrastructure-Model-of-Metacognitive-Skill]]"
   - "[[Thinking-Tag-Semantics]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -75,4 +75,4 @@ importance: medium
 - [[Regulatory-Threshold]]
 - [[The-Infrastructure-Model-of-Metacognitive-Skill]]
 - [[Thinking-Tag-Semantics]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

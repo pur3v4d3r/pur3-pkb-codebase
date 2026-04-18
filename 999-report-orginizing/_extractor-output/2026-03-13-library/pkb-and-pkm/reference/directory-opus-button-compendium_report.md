@@ -150,11 +150,11 @@ extraction_summary:
     - ### 1. **[[Directory-Opus-Scripting|Directory Opus Scripting]]**
     - ### 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]**
   - ## Cross-Domain Connections
-    - ### 3. **[[File Management Workflow Design]]**
+    - ### 3. **[[File-Management-Workflow-Design|File Management Workflow Design]]**
     - ### 4. **[[Windows Shell Integration]]**
   - ## Advanced Deep Dives
-    - ### 5. **[[Directory Opus Evaluator Functions]]** *[Requires prerequisites]*
-    - ### 6. **[[Multi-Tool Automation Pipelines]]** *[Requires prerequisites]*
+    - ### 5. **[[Directory-Opus-Evaluator-Functions|Directory Opus Evaluator Functions]]** *[Requires prerequisites]*
+    - ### 6. **[[Multi-Tool-Automation-Pipelines|Multi-Tool Automation Pipelines]]** *[Requires prerequisites]*
 
 ---
 
@@ -624,25 +624,25 @@ extraction_summary:
 ### Unique Targets
 
 - [[7-Zip]]
-- [[Basic Programming Logic]]
+- [[Basic-Programming-Logic|Basic Programming Logic]]
 - [[Beyond-Compare|Beyond Compare]]
-- [[CLI Tool Proficiency]]
+- [[CLI-Tool-Proficiency|CLI Tool Proficiency]]
 - [[Command-Prompt|Command Prompt]]
 - [[Directory-Opus|Directory Opus]]
 - [[Directory-Opus-Button-Basics|Directory Opus Button Basics]]
-- [[Directory Opus Evaluator Functions]]
+- [[Directory-Opus-Evaluator-Functions|Directory Opus Evaluator Functions]]
 - [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]
 - [[Directory-Opus-Scripting|Directory Opus Scripting]]
 - [[EXIF]]
-- [[File Management Workflow Design]]
+- [[File-Management-Workflow-Design|File Management Workflow Design]]
 - [[GTD]]
 - [[JPEG]]
 - [[JScript]]
 - [[JavaScript-Fundamentals|JavaScript Fundamentals]]
 - [[MD5]]
 - [[Markdown]]
-- [[Metadata Understanding]]
-- [[Multi-Tool Automation Pipelines]]
+- [[Metadata-Understanding|Metadata Understanding]]
+- [[Multi-Tool-Automation-Pipelines|Multi-Tool Automation Pipelines]]
 - [[Obsidian]]
 - [[PARA]]
 - [[PNG]]
@@ -701,8 +701,8 @@ extraction_summary:
 | 28 | [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1557 |
 | 29 | [[EXIF]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1559 |
 | 30 | [[Regular-Expressions|Regular Expressions]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1562 |
-| 31 | [[Metadata Understanding]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1562 |
-| 32 | [[File Management Workflow Design]] | — | — | 3. **[[File Management Workflow Desig... | 1566 |
+| 31 | [[Metadata-Understanding|Metadata Understanding]] | — | — | 2. **[[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]** | 1562 |
+| 32 | [[File-Management-Workflow-Design|File Management Workflow Design]] | — | — | 3. **[[File Management Workflow Desig... | 1566 |
 | 33 | [[GTD]] | — | — | 3. **[[File Management Workflow Desig... | 1568 |
 | 34 | [[PARA]] | — | — | 3. **[[File Management Workflow Desig... | 1568 |
 | 35 | [[file taxonomy]] | — | — | 3. **[[File Management Workflow Desig... | 1568 |
@@ -712,11 +712,11 @@ extraction_summary:
 | 39 | [[context menu]] | — | — | 4. **[[Windows Shell Integration]]** | 1575 |
 | 40 | [[registry]] | — | — | 4. **[[Windows Shell Integration]]** | 1575 |
 | 41 | [[Windows Command Line Basics]] | — | — | 4. **[[Windows Shell Integration]]** | 1578 |
-| 42 | [[Directory Opus Evaluator Functions]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1582 |
+| 42 | [[Directory-Opus-Evaluator-Functions|Directory Opus Evaluator Functions]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1582 |
 | 43 | [[Directory-Opus-Scripting|Directory Opus Scripting]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1587 |
-| 44 | [[Basic Programming Logic]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1587 |
-| 45 | [[Multi-Tool Automation Pipelines]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1589 |
-| 46 | [[CLI Tool Proficiency]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1594 |
+| 44 | [[Basic-Programming-Logic|Basic Programming Logic]] | — | — | 5. **[[Directory Opus Evaluator Funct... | 1587 |
+| 45 | [[Multi-Tool-Automation-Pipelines|Multi-Tool Automation Pipelines]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1589 |
+| 46 | [[CLI-Tool-Proficiency|CLI Tool Proficiency]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1594 |
 | 47 | [[Directory-Opus-Scripting|Directory Opus Scripting]] | — | — | 6. **[[Multi-Tool Automation Pipeline... | 1594 |
 
 ---
@@ -1652,25 +1652,25 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[7-Zip]]
-- [[Basic Programming Logic]]
+- [[Basic-Programming-Logic|Basic Programming Logic]]
 - [[Beyond-Compare|Beyond Compare]]
-- [[CLI Tool Proficiency]]
+- [[CLI-Tool-Proficiency|CLI Tool Proficiency]]
 - [[Command-Prompt|Command Prompt]]
 - [[Directory-Opus|Directory Opus]]
 - [[Directory-Opus-Button-Basics|Directory Opus Button Basics]]
-- [[Directory Opus Evaluator Functions]]
+- [[Directory-Opus-Evaluator-Functions|Directory Opus Evaluator Functions]]
 - [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]]
 - [[Directory-Opus-Scripting|Directory Opus Scripting]]
 - [[EXIF]]
-- [[File Management Workflow Design]]
+- [[File-Management-Workflow-Design|File Management Workflow Design]]
 - [[GTD]]
 - [[JPEG]]
 - [[JScript]]
 - [[JavaScript-Fundamentals|JavaScript Fundamentals]]
 - [[MD5]]
 - [[Markdown]]
-- [[Metadata Understanding]]
-- [[Multi-Tool Automation Pipelines]]
+- [[Metadata-Understanding|Metadata Understanding]]
+- [[Multi-Tool-Automation-Pipelines|Multi-Tool Automation Pipelines]]
 - [[Obsidian]]
 - [[PARA]]
 - [[PNG]]

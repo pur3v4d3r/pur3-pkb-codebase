@@ -135,7 +135,7 @@ extraction_summary:
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 35)*
 
 > [!the-philosophy] Untitled
-> "The universe is expanding" is commonly understood as galaxies flying apart through empty space from some central explosion point—like shrapnel from a cosmic bomb. This interpretation envisions the [[Big Bang]] as an event that occurred *at* a specific location, hurling matter outward into a pre-existing void.
+> "The universe is expanding" is commonly understood as galaxies flying apart through empty space from some central explosion point—like shrapnel from a cosmic bomb. This interpretation envisions the [[Big-Bang|Big Bang]] as an event that occurred *at* a specific location, hurling matter outward into a pre-existing void.
 
 #### 3. [ABSTRACT] Untitled *(Line 40)*
 
@@ -272,7 +272,7 @@ extraction_summary:
 
 > [!outcome] Untitled
 > **The Rebuilt Solution:**
-> "The universe is expanding" **actually means:** The metric of spacetime—the mathematical structure that defines distances between points—is evolving such that proper distances between gravitationally unbound objects (like galaxy clusters) increase systematically with time. This expansion has occurred throughout the observable universe for approximately 13.8 billion years, with the expansion rate characterized by the [[Hubble parameter]] $H(t) = \dot{a}/a$, where $a(t)$ is the cosmic [[scale factor]]. The expansion has no center and no edge; it is homogeneous and isotropic on scales above ~300 megaparsecs. As a consequence of this expansion, light traveling through space has its wavelength stretched by precisely the factor by which space has expanded during the photon's journey: $\lambda_{\text{obs}}/\lambda_{\text{em}} = a(t_{\text{obs}})/a(t_{\text{em}})$. Extrapolating backward, this expansion history implies the universe was once in an extremely hot, dense state—the [[Big Bang]]—though this state was not a singularity at a point in space, but rather a condition that filled *all* of space simultaneously.
+> "The universe is expanding" **actually means:** The metric of spacetime—the mathematical structure that defines distances between points—is evolving such that proper distances between gravitationally unbound objects (like galaxy clusters) increase systematically with time. This expansion has occurred throughout the observable universe for approximately 13.8 billion years, with the expansion rate characterized by the [[Hubble parameter]] $H(t) = \dot{a}/a$, where $a(t)$ is the cosmic [[scale factor]]. The expansion has no center and no edge; it is homogeneous and isotropic on scales above ~300 megaparsecs. As a consequence of this expansion, light traveling through space has its wavelength stretched by precisely the factor by which space has expanded during the photon's journey: $\lambda_{\text{obs}}/\lambda_{\text{em}} = a(t_{\text{obs}})/a(t_{\text{em}})$. Extrapolating backward, this expansion history implies the universe was once in an extremely hot, dense state—the [[Big-Bang|Big Bang]]—though this state was not a singularity at a point in space, but rather a condition that filled *all* of space simultaneously.
 
 #### 20. [INSIGHT] Untitled *(Line 207)*
 
@@ -379,7 +379,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Big Bang]]
+- [[Big-Bang|Big Bang]]
 - [[CMB Temperature Scaling]]
 - [[Comoving Coordinates]]
 - [[consciousness]]
@@ -434,7 +434,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Big Bang]] | — | — | 🧱 First-Principles Structural Scaffol... | 36 |
+| 1 | [[Big-Bang|Big Bang]] | — | — | 🧱 First-Principles Structural Scaffol... | 36 |
 | 2 | [[Cosmic Microwave Background]] | — | — | 🧱 First-Principles Structural Scaffol... | 41 |
 | 3 | [[redshifts]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 56 |
 | 4 | [[Doppler effect]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 63 |
@@ -460,7 +460,7 @@ extraction_summary:
 | 24 | [[balloon surface analogy]] | — | — | 3.0 🏗️ THE RECONSTRUCTION: Building a... | 193 |
 | 25 | [[Hubble parameter]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 205 |
 | 26 | [[scale factor]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 205 |
-| 27 | [[Big Bang]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 205 |
+| 27 | [[Big-Bang|Big Bang]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 205 |
 | 28 | [[general relativity]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 213 |
 | 29 | [[Cosmological Expansion]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 216 |
 | 30 | [[FLRW metric]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 217 |
@@ -642,7 +642,7 @@ $$
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Big Bang]]
+- [[Big-Bang|Big Bang]]
 - [[CMB Temperature Scaling]]
 - [[Comoving Coordinates]]
 - [[consciousness]]

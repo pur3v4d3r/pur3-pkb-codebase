@@ -619,7 +619,7 @@ extraction_summary:
 
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Learning Environment Design]]
-- [[Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
 - [[Assistive Technology Design]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 

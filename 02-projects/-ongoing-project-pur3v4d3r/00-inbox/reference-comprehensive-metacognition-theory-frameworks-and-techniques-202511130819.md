@@ -39,7 +39,7 @@ aliases: [Thinking About Thinking, Metacognitive Awareness, Self-Reflection, Cog
 
 > [!abstract]
 > **Executive Overview**
-> Metacognition—literally "thinking about thinking"—represents the apex of human cognitive capability: the ability to monitor, control, and optimize one's own mental processes. This comprehensive reference encompasses theoretical foundations from [[Flavell]]'s seminal 1979 model through contemporary [[Self-Regulated-Learning]] frameworks, detailed taxonomies of metacognitive knowledge and regulation, practical techniques for knowledge workers and lifelong learners, and empirical research on metacognitive judgment accuracy. Essential for anyone engaged in systematic [[Cognitive Development]], this resource provides both theoretical depth and actionable strategies for becoming an expert self-directed learner.
+> Metacognition—literally "thinking about thinking"—represents the apex of human cognitive capability: the ability to monitor, control, and optimize one's own mental processes. This comprehensive reference encompasses theoretical foundations from [[Flavell]]'s seminal 1979 model through contemporary [[Self-Regulated-Learning]] frameworks, detailed taxonomies of metacognitive knowledge and regulation, practical techniques for knowledge workers and lifelong learners, and empirical research on metacognitive judgment accuracy. Essential for anyone engaged in systematic [[Cognitive-Development]], this resource provides both theoretical depth and actionable strategies for becoming an expert self-directed learner.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -309,7 +309,7 @@ Effective self-directed learners cultivate broad strategy repertoires across mul
 - [[time management]] (scheduling, prioritization)
 - [[Environment Control]] (minimizing distractions)
 - [[Help-Seeking]] (knowing when/how to request assistance)
-- [[Effort Regulation]] (maintaining motivation and persistence)
+- [[Effort-Regulation]] (maintaining motivation and persistence)
 
 #### Strategy Interactions and Combinations
 

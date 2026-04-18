@@ -321,7 +321,7 @@ extraction_summary:
 #### 19. [CONNECTION-IDEAS] Untitled *(Line 388)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of [[Human-Computer Interaction (HCI)]]. The prompt is the new User Interface (UI). What we are witnessing is a fundamental split in UI philosophy.
+> The principles discussed here strongly connect to the field of [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]. The prompt is the new User Interface (UI). What we are witnessing is a fundamental split in UI philosophy.
 > 
 >   - **GPT's UI** is *conversational and instructional*. It's a "command-line interface" that accepts natural language and nuanced persona directives.
 >   - **Gemini's UI** is a *data-integration* interface. It's a "dashboard" where the user's primary job is to connect and provide data-sources (text, image, video, ecosystem apps) for the model to synthesize.
@@ -444,7 +444,7 @@ extraction_summary:
 
 - [[Chain-of-Thought (CoT) Reasoning]]
 - [[Digital Literacy]]
-- [[Human-Computer Interaction (HCI)]]
+- [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]
 - [[In-Context Learning (Few-Shot Prompting)]]
 - [[Prompt-Engineering|Prompt Engineering]]
 
@@ -452,7 +452,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Human-Computer Interaction (HCI)]] | — | — | 6. 🌍Broader Implications and Signific... | 390 |
+| 1 | [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]] | — | — | 6. 🌍Broader Implications and Signific... | 390 |
 | 2 | [[Digital Literacy]] | — | — | 6. 🌍Broader Implications and Signific... | 395 |
 | 3 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 9. 🧠Key Questions for Active Reading ... | 486 |
 | 4 | [[In-Context Learning (Few-Shot Prompting)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 487 |
@@ -525,7 +525,7 @@ extraction_summary:
 
 - [[Chain-of-Thought (CoT) Reasoning]]
 - [[Digital Literacy]]
-- [[Human-Computer Interaction (HCI)]]
+- [[Human-Computer-Interaction|Human-Computer Interaction (HCI)]]
 - [[In-Context Learning (Few-Shot Prompting)]]
 - [[Prompt-Engineering|Prompt Engineering]]
 

@@ -223,7 +223,7 @@ extraction_summary:
 > - [[Dataview]]
 > - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-> - [[Active Recall]]
+> - [[Active-Recall|Active Recall]]
 > - [[Metacognition]]
 > - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > - [[automation]]
@@ -510,7 +510,7 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Actions URI]]
-- [[Active Recall]]
+- [[Active-Recall|Active Recall]]
 - [[Advanced URI]]
 - [[AutoHotkey]]
 - [[AutoHotkey Scripting for PKB Automation]]
@@ -559,7 +559,7 @@ extraction_summary:
 | 8 | [[Dataview]] | — | — | 📊 Note Metadata Dashboard | 85 |
 | 9 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📊 Note Metadata Dashboard | 86 |
 | 10 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 📊 Note Metadata Dashboard | 87 |
-| 11 | [[Active Recall]] | — | — | 📊 Note Metadata Dashboard | 88 |
+| 11 | [[Active-Recall|Active Recall]] | — | — | 📊 Note Metadata Dashboard | 88 |
 | 12 | [[Metacognition]] | — | — | 📊 Note Metadata Dashboard | 89 |
 | 13 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📊 Note Metadata Dashboard | 90 |
 | 14 | [[automation]] | — | — | 📊 Note Metadata Dashboard | 91 |
@@ -936,7 +936,7 @@ Start-Process "obsidian://adv-uri?vault=$vault&filepath=05_moc-hubs/weekly-goals
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Actions URI]]
-- [[Active Recall]]
+- [[Active-Recall|Active Recall]]
 - [[Advanced URI]]
 - [[AutoHotkey]]
 - [[AutoHotkey Scripting for PKB Automation]]

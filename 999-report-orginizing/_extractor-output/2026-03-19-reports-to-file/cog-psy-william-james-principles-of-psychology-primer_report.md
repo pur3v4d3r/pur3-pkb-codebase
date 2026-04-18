@@ -190,7 +190,7 @@ extraction_summary:
 - [[Antonio-Damasio|Antonio Damasio]]
 - [[Attention Process Training]]
 - [[Biofeedback]]
-- [[British Empiricism]]
+- [[British-empiricism|British Empiricism]]
 - [[Carl Lange]]
 - [[Carl Wernicke]]
 - [[Charles Renouvier]]
@@ -208,7 +208,7 @@ extraction_summary:
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Edward-Titchener|Edward Titchener]]
 - [[Erving Goffman]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Executive-Function|Executive Function]]
 - [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Free Will]]
@@ -224,7 +224,7 @@ extraction_summary:
 - [[Hermann Lotze]]
 - [[Hermann von Helmholtz]]
 - [[Hippolyte Taine]]
-- [[James Mill]]
+- [[James-Mill|James Mill]]
 - [[James-Lange Theory]]
 - [[John-Dewey|John Dewey]]
 - [[John Dewey - Reflective Thinking]]
@@ -255,7 +255,7 @@ extraction_summary:
 - [[Synaptic Plasticity]]
 - [[Walter Cannon]]
 - [[Wilhelm Wundt]]
-- [[Will]]
+- [[will]]
 - [[Will to Believe]]
 - [[William-James|William James]]
 - [[William James - Habit and Education]]
@@ -271,14 +271,14 @@ extraction_summary:
 | 1 | [[pragmatism]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
 | 2 | [[Functionalism]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
 | 3 | [[Cognitive-Science|Cognitive Science]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
-| 4 | [[Will]] | — | — | 🌟 Historical & Biographical Context | 12 |
+| 4 | [[will]] | — | — | 🌟 Historical & Biographical Context | 12 |
 | 5 | [[Free Will]] | — | — | 🌟 Historical & Biographical Context | 12 |
 | 6 | [[Charles Renouvier]] | — | — | 🌟 Historical & Biographical Context | 14 |
 | 7 | [[Will to Believe]] | — | — | 🌟 Historical & Biographical Context | 14 |
 | 8 | [[Wilhelm Wundt]] | — | — | 🌟 Historical & Biographical Context | 16 |
 | 9 | [[Darwin]] | — | — | 🌟 Historical & Biographical Context | 21 |
 | 10 | [[Positivism]] | — | — | 🌟 Historical & Biographical Context | 21 |
-| 11 | [[British Empiricism]] | — | — | 🌟 Historical & Biographical Context | 21 |
+| 11 | [[British-empiricism|British Empiricism]] | — | — | 🌟 Historical & Biographical Context | 21 |
 | 12 | [[Josiah Royce]] | — | — | ⏳ The Twelve-Year Genesis: Compositio... | 36 |
 | 13 | [[Wilhelm Wundt]] | — | — | ⏳ The Twelve-Year Genesis: Compositio... | 36 |
 | 14 | [[Metaphysical Club]] | — | — | 🎭 Intellectual Network & Philosophica... | 44 |
@@ -305,7 +305,7 @@ extraction_summary:
 | 35 | [[James-Lange Theory]] | — | — | 📖 Structural Architecture: The 28 Cha... | 85 |
 | 36 | [[John Locke]] | — | — | 1. Stream of Consciousness | 100 |
 | 37 | [[David-Hume|David Hume]] | — | — | 1. Stream of Consciousness | 100 |
-| 38 | [[James Mill]] | — | — | 1. Stream of Consciousness | 100 |
+| 38 | [[James-Mill|James Mill]] | — | — | 1. Stream of Consciousness | 100 |
 | 39 | [[Edmund-Husserl|Edmund Husserl]] | — | — | 1. Stream of Consciousness | 106 |
 | 40 | [[Carl Lange]] | — | — | 2. The James-Lange Theory of Emotion | 110 |
 | 41 | [[Walter Cannon]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
@@ -322,7 +322,7 @@ extraction_summary:
 | 52 | [[John-Dewey|John Dewey]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 53 | [[George Herbert Mead]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 54 | [[Chicago School]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
-| 55 | [[Evolutionary Psychology]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
+| 55 | [[Evolutionary-Psychology|Evolutionary Psychology]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 56 | [[Frederic-Bartlett|Frederic Bartlett]] | — | — | 🌐 Contemporary Significance & Endurin... | 172 |
 | 57 | [[Edmund-Husserl|Edmund Husserl]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
 | 58 | [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
@@ -386,7 +386,7 @@ extraction_summary:
 - [[Antonio-Damasio|Antonio Damasio]]
 - [[Attention Process Training]]
 - [[Biofeedback]]
-- [[British Empiricism]]
+- [[British-empiricism|British Empiricism]]
 - [[Carl Lange]]
 - [[Carl Wernicke]]
 - [[Charles Renouvier]]
@@ -404,7 +404,7 @@ extraction_summary:
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Edward-Titchener|Edward Titchener]]
 - [[Erving Goffman]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Executive-Function|Executive Function]]
 - [[Frederic-Bartlett|Frederic Bartlett]]
 - [[Free Will]]
@@ -420,7 +420,7 @@ extraction_summary:
 - [[Hermann Lotze]]
 - [[Hermann von Helmholtz]]
 - [[Hippolyte Taine]]
-- [[James Mill]]
+- [[James-Mill|James Mill]]
 - [[James-Lange Theory]]
 - [[John-Dewey|John Dewey]]
 - [[John Dewey - Reflective Thinking]]
@@ -451,7 +451,7 @@ extraction_summary:
 - [[Synaptic Plasticity]]
 - [[Walter Cannon]]
 - [[Wilhelm Wundt]]
-- [[Will]]
+- [[will]]
 - [[Will to Believe]]
 - [[William-James|William James]]
 - [[William James - Habit and Education]]

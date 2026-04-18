@@ -35,7 +35,7 @@ link-up:
   - "[[Autonomy]]"
   - "[[Cognitive Processes]]"
   - "[[cognitive-psychology]]"
-  - "[[Cognitive Restructuring]]"
+  - "[[Cognitive-Restructuring]]"
   - "[[Cognitive-Science]]"
   - "[[Critical-Thinking]]"
   - "[[Default Mode Network]]"

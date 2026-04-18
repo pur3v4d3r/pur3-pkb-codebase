@@ -446,7 +446,7 @@ extraction_summary:
 - [[The Role of Environment in Galaxy Evolution]]
 - [[Thermodynamics]]
 - [[Ultra-Fast Outflows (UFOs)]]
-- [[accretion]]
+- [[Accretion]]
 - [[active galactic nuclei]]
 - [[galaxy evolution]]
 - [[galaxy luminosity function]]
@@ -464,7 +464,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[supermassive black holes]] | SMBHs | — | 1.0 📜 Introduction | 54 |
 | 2 | [[galaxy evolution]] | — | — | 1.0 📜 Introduction | 54 |
-| 3 | [[accretion]] | — | — | 1.0 📜 Introduction | 56 |
+| 3 | [[Accretion]] | — | — | 1.0 📜 Introduction | 56 |
 | 4 | [[active galactic nuclei]] | AGN | — | 1.0 📜 Introduction | 56 |
 | 5 | [[scaling relations]] | — | — | 1.0 📜 Introduction | 58 |
 | 6 | [[ultra-fast outflows]] | UFOs | — | 1.0 📜 Introduction | 60 |
@@ -602,7 +602,7 @@ I'll create a comprehensive academic article on SMBH-galaxy co-evolution and AGN
 - [[The Role of Environment in Galaxy Evolution]]
 - [[Thermodynamics]]
 - [[Ultra-Fast Outflows (UFOs)]]
-- [[accretion]]
+- [[Accretion]]
 - [[active galactic nuclei]]
 - [[galaxy evolution]]
 - [[galaxy luminosity function]]

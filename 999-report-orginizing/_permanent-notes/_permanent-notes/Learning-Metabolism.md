@@ -44,7 +44,7 @@ see-also:
   - "[[The-Integration-Paradox-as-a-Design-Constraint]]"
   - "[[The-Internalization-Metabolism-Model]]"
   - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -70,4 +70,4 @@ importance: low
 - [[The-Integration-Paradox-as-a-Design-Constraint]]
 - [[The-Internalization-Metabolism-Model]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

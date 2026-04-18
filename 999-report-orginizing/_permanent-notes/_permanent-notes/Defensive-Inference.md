@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,6 +42,7 @@ updated: 2026-04-01
 source-type: report-extraction
 source-reports:
   - "zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23"
+  - "zimmerman-srl-focused-analysis-2026-03-22.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
@@ -187,10 +188,102 @@ importance: high
 > [!analytical-insight] Key Insight *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*
 > **The assumption**: Zimmerman's model inherits from [[Self-Efficacy-Theory]] the assumption that self-efficacy beliefs, while variable, are meaningfully correlated with actual capability — that they constitute a reasonably calibrated appraisal of what learners can accomplish. The four sources of self-efficacy (mastery experiences, vicarious experiences, social persuasion, physiological state) are taken to produce, in aggregate, a belief that is *functionally accurate enough* to guide effective…
 
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Taken collectively, the attribution-and-efficacy literature suggests that the relationship between performance outcomes and subsequent self-efficacy is not direct — it is substantially mediated by causal attribution. This has a radical implication: the same performance outcome, attributed differently, produces different self-efficacy trajectories. This means the Self-Reflection Phase is not a passive recorder of performance outcomes but an active interpreter that determines which motivational consequences those outcomes have. The performance outcome itself is less causally important than how it is explained.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The evidence collectively suggests that self-regulated learners do not merely evaluate performance — they evaluate it against a chosen standard, and the standard choice is itself a regulated variable that skilled self-regulators manage. Less skilled self-regulators tend to default to normative standards (how did I do compared to others?), which imports social comparison dynamics and undermines the self-reflection quality. More skilled self-regulators maintain mastery standards even in competitive environments. This is not a trivial skill — it requires active effort to maintain mastery standards when social comparison information is salient.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The foundational paper establishing the SRL model within Bandura's Social Cognitive Theory framework. Zimmerman articulates the three phases and their interrelations for the first time. Supports Phases II and IV throughout.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The definitive chapter-length treatment of the three-phase cyclical model. Provides the most complete account of Self-Reflection Phase components (self-judgment and self-reaction). Foundational for the entire analysis.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The foundational self-efficacy paper. Establishes the four sources of efficacy information and the prospective, domain-specific nature of self-efficacy beliefs. Supports the self-efficacy feedback loop analysis in Phase IV.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Weiner's comprehensive attributional framework, establishing the locus-controllability dimensions. The theoretical foundation for the Attributional Bridge construct. Supports Phase III and Phase IV.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Establishes the attribution-learned helplessness link and demonstrates the asymmetric development of maladaptive attribution patterns. Evidence for the asymmetric ratchet construct in Phase VI.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Path analysis demonstrating that self-efficacy mediates the performance-outcome to subsequent performance link through attribution. Direct evidence for the attribution-mediation finding in Phase III.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Demonstrates that mastery-standard evaluation produces better self-efficacy, engagement, and learning outcomes than normative evaluation. Supports Phase III analysis of evaluative standards.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Establishes the goal orientation moderation of attributional tendencies — mastery goal orientation predicts effort/strategy attribution, performance orientation predicts ability attribution. Supports Phase III.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Articulates the three types of metacognitive knowledge (declarative, procedural, conditional) and their developmental patterns. Foundation for the conditional knowledge-attribution quality link in Phase IV.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Establishes that academic emotions are determined by perceived control and task value, and that they influence cognitive processing including attributional tendencies. Supports the emotional mediation limitation noted in Phase V.
+
+> [!evidence] Supporting Evidence *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Provides the theoretical foundation for understanding defensive inference as psychologically functional in contexts where performance is used as a signal of self-worth. Supports the tension-identified callout in Phase IV.
+
+> [!analytical-insight] Key Insight *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> A genuine tension in this literature is the asymmetry between how quickly maladaptive attributional patterns develop and how slowly they reverse. Intervention studies by Dweck and Goetz (1978) and by Perry and Penner (1990) suggest that changing an established attributional pattern from ability-focused to effort/strategy-focused typically requires multiple targeted interventions across several weeks, while the maladaptive pattern can establish itself from a single high-stakes failure attributed to ability. This asymmetry implies that the Self-Reflection Phase is not symmetrically sensitive to good and bad inputs — it appears to weight negative outcomes more heavily. The question of why this asymmetry exists and whether it is adaptive or maladaptive in different contexts has not been fully resolved in the literature.
+
+> [!analytical-insight] Key Insight *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The most analytically significant feature of the Attributional Bridge is that it is *constructed*, not *read from* the performance data. Two learners facing identical performance discrepancies are not reading the same causal signal — they are constructing different interpretations of the same data. This means the bridge is not a neutral conduit between the Performance Phase and the Forethought Phase but an active interpretive process that can systematically amplify or dampen a learner's capability. The practical implication is counterintuitive: improving performance without improving the bridge may not improve the learner's SRL trajectory, because the performance data will be fed through the same maladaptive interpretive architecture.
+
+> [!analytical-insight] Key Insight *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The self-defeating cycle illuminates a behavioral pattern that confounds many educators: the student who "doesn't try" despite clear intelligence. The conventional interpretation is motivational deficiency — a student who doesn't care. The SRL cyclical analysis suggests a different mechanism: a student who cares deeply but who has learned that high effort followed by failure produces more threatening evidence for low ability than low effort followed by failure. By not trying, the student preserves a residual self-efficacy that full investment would put at risk. This is a rational protective strategy within a self-defeating cycle — and it explains why direct motivational encouragement ("just try harder") tends to fail with these students. The problem is not motivational deficiency but an attributional architecture that has made full investment psychologically dangerous.
+
+> [!analytical-insight] Key Insight *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> A genuine intellectual tension in the literature is whether defensive inference is always maladaptive. Defensive responses are typically framed as failures of self-regulation, but some research (Crocker & Park, 2004) suggests they may represent rational responses to environments that use performance as a signal of global self-worth rather than domain-specific competence. If a student is in an evaluative environment where poor performance genuinely threatens social standing, relationship quality, or future opportunities, defensive self-protection may be the psychologically optimal response. The tension between the individual-focused adaptive inference model and the environmental determinants of self-protection has not been adequately integrated in the SRL literature.
+
+> [!analytical-insight] Key Insight *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The SRL cycle is not only as strong as its weakest phase — it is as *precise* as its least precise monitoring. A learner who monitors only pass/fail on learning tasks has only pass/fail data available for attribution. This means they can only attribute to coarse causes (knew the material / didn't know it) and can only draw coarse adaptive inferences (study more / study less). Learners who monitor at the strategy and sub-strategy level have access to causal data that enables strategy-specific attribution and strategy-specific adaptive inference. This implies that metacognitive monitoring training — a component of the Performance Phase — has direct consequences for Self-Reflection Phase quality, and therefore for the entire cycle's adaptivity. The investment in monitoring precision is a cycle-level investment, not merely a performance-phase one.
+
+> [!analytical-insight] Key Insight *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The role of conditional metacognitive knowledge in enabling adaptive attribution reveals a function of strategy education that is typically undervalued: it is not merely performance-enhancing, it is *motivationally protective*. A learner who knows multiple strategies and understands their conditions of application has a rich set of controllable causal attributions available when performance fails. This causal vocabulary insulates self-efficacy from ability-attribution damage. The practical implication is that strategy education in early learning is not only a performance investment — it is an investment in the resilience of the Self-Reflection Phase across all subsequent cycles. The learner who knows only one strategy has only one dimension of attributional latitude.
+
+> [!analytical-insight] Key Insight *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The structural analogues across athletic coaching, organizational learning, and clinical psychology reveal a universal pattern: wherever performance cycles through a human interpretation layer before feeding back into the beliefs that govern the next cycle, the same structural vulnerabilities apply. All these systems have an Attributional Bridge. All are subject to the asymmetric ratchet. All are more effectively intervened at the interpretive layer than at the execution layer. This is not a coincidence — it follows from the shared structure of cyclic systems in which beliefs are both inputs to and outputs of performance. The specific content of these systems differs; the structural architecture is the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
+
+> [!example] **Application** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> To support adaptive Self-Reflection Phase processing: (1) Provide feedback at the strategy level, not only the outcome level. (2) Make personal progress visible as a primary metric, with normative comparison either absent or secondary. (3) Ensure learners have a strategy vocabulary (conditional metacognitive knowledge) that provides controllable causal attributions when performance fails. (4) Frame challenges explicitly as strategy problems, not ability tests — the framing of the task affects the attributional architecture that learners bring to it. (5) Build in reflection prompts that ask *why* performance happened, not merely *what* happened — directing learners toward causal attribution rather than outcome description.
+
+> [!example] **Application** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> When reviewing previous notes, the attributional quality of the review determines its value. Noting that a concept is now confusing ("I don't understand this anymore") is outcome-level data. Asking *why* it is confusing — was the note too shallow to encode the causal structure? Was I in an encoding context that prioritized coverage over depth? Was the concept genuinely not well understood when I wrote it? — is strategy-level attribution. The PKB review that asks "what does this gap reveal about my learning strategy?" rather than "how well did I understand this?" will generate adaptive inferences for future note-taking and review practice.
+
+> [!warning] **Key Distinction** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> High test anxiety and performance anxiety can systematically impair the Self-Reflection Phase by biasing attribution toward ability causes and reducing the cognitive flexibility required for strategy-level reattribution. This means that interventions targeting the Attributional Bridge — teaching more adaptive attributions, building conditional metacognitive knowledge — may be less effective in high-anxiety learners unless the anxiety is addressed as a co-occurring intervention target. The implication for PKB practice is that high-stakes review conditions (studying before an exam) may produce less adaptive self-reflection than lower-stakes review conditions, which argues for building reflective practice into lower-stakes contexts where the Attributional Bridge can process without anxiety interference.
+
+
+
 
 ## Key Figures & Intellectual Lineage
 
@@ -250,6 +343,14 @@ importance: high
 > 
 > **Current Evidence State**: The Dunning-Kruger literature and metacognitive calibration research provide strong…
 
+> [!tension] **The Attribution Asymmetry Problem** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> A genuine tension in this literature is the asymmetry between how quickly maladaptive attributional patterns develop and how slowly they reverse. Intervention studies by Dweck and Goetz (1978) and by Perry and Penner (1990) suggest that changing an established attributional pattern from ability-focused to effort/strategy-focused typically requires multiple targeted interventions across several weeks, while the maladaptive pattern can establish itself from a single high-stakes failure attributed to ability. This asymmetry implies that the Self-Reflection Phase is not symmetrically sensitive to good and bad inputs — it appears to weight negative outcomes more heavily. The question of why this asymmetry exists and whether it is adaptive or maladaptive in different contexts has not been fully resolved in the literature.
+
+> [!tension] **The Protective Value of Defensive Inference** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> A genuine intellectual tension in the literature is whether defensive inference is always maladaptive. Defensive responses are typically framed as failures of self-regulation, but some research (Crocker & Park, 2004) suggests they may represent rational responses to environments that use performance as a signal of global self-worth rather than domain-specific competence. If a student is in an evaluative environment where poor performance genuinely threatens social standing, relationship quality, or future opportunities, defensive self-protection may be the psychologically optimal response. The tension between the individual-focused adaptive inference model and the environmental determinants of self-protection has not been adequately integrated in the SRL literature.
+
+
+
 ## Open Questions
 
 > [!open-question] **What Are the Conditions Under Which the Tight Loop Tightens?** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*
@@ -302,6 +403,62 @@ importance: high
 > **Application**: Choose one of the application bridges — curriculum design or performance management — and draft one specific design recommendation that applies the calibration-dependency principle. Make it concrete enough that you could actually implement it.
 > 
 > **Extension**:…
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Before reading this analysis, take a moment to articulate what you believe happens *between* a learner's attempts at a difficult task. When someone fails an exam, reads a difficult text without comprehension, or struggles through a complex problem, what mental events determine whether their next attempt is more skilled than their last — or equally frustrating? Write down your current model. The gap between that model and what Zimmerman's research reveals is where the most significant learning in this report lives.
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Before reading the framework section: What do you predict the Self-Reflection Phase primarily involves? Is it primarily about *evaluating* performance, *explaining* performance, or *deciding* what to do next? Commit to your prediction — the answer, and why the distinction matters mechanistically, is the analytical thread of this report.
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> **Comprehension**: Can you articulate the difference between the Task Analysis layer and the Self-Motivational Beliefs layer in the Forethought Phase — and why that difference matters for intervention design?
+> **Application**: Think of a learning task you've struggled with. Which phase do you spend the most time in? Which do you most neglect?
+> **Extension**: The model is cyclical, not linear. What does that imply about where in the cycle an intervention is most likely to produce lasting change?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Before this section, record: How confident are you (1–10) that formal evidence strongly supports the claim that *how* a learner interprets their performance outcome affects their subsequent capability, independent of the performance outcome itself?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> **Comprehension**: What is the single most important finding from this evidence survey, and what does it imply about where educational interventions should be targeted?
+> **Application**: Think of a domain where you have struggled repeatedly without improvement. Looking at the evidence reviewed here, what would you hypothesize about your attributional patterns in that domain?
+> **Extension**: The attribution asymmetry (maladaptive patterns form faster than they reverse) is a structural feature of the human cognitive system. What does this suggest about the design of learning environments? Is this asymmetry fundamentally a problem to be overcome, or might it serve an adaptive function in some contexts?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> **Comprehension**: In your own words, explain why a growth mindset intervention works — not at the level of "it makes students more positive" but at the mechanistic level of which component of which SRL phase it modifies.
+> **Application**: Think of a specific learning failure you've experienced. Which type of attribution did you make? Was it adaptive or defensive? What would an alternative attribution have looked like?
+> **Extension**: The monitoring-attribution interaction suggests that metacognitive monitoring training has second-order effects on motivational architecture. If you were designing a learning curriculum, what would you prioritize — explicit strategy instruction, or metacognitive monitoring training — and why?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> Return to your earlier recording of confidence about the attribution-capability link. How has your model changed? Was the shift additive (new information added to an existing model) or structural (the model itself reorganized)?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> **Comprehension**: What is the most important limitation of Zimmerman's Self-Reflection Phase analysis, and how does it affect confidence in the practical recommendations derived from it?
+> **Application**: Identify one specific change to your PKB review practice that follows directly from the analysis of adaptive self-reflection.
+> **Extension**: The analysis implies that the effectiveness of self-reflection interventions depends on the environment in which they are deployed. This creates a tension: individual learners can change their attributional architecture, but that architecture will be continuously pressured by environments that reinforce maladaptive attributions. How would you design a learning environment that provides structural support for adaptive self-reflection rather than just individual-level instruction?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> **Comprehension**: What is the single most consequential analytical insight from this report? Not the most interesting finding, but the one that changes the most about how you would design or approach learning.
+> **Application**: If you were to explain the Asymmetric Ratchet model to a colleague who teaches, what would you say in three sentences?
+> **Extension**: The model identifies early-cycle attribution architecture as the highest-leverage point. What does that imply about the design of introductory courses or first experiences with a new domain?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> The Attributional Bridge Principle was identified in this analysis of Zimmerman's SRL model. Can you identify a domain in your own work, learning, or professional practice where the same structural pattern is operating? What would the bridge look like in that domain? What would an adaptive versus maladaptive attribution look like? What would break the cycle if it were self-defeating?
+
+> [!reflection] **Reflect** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> **Comprehension**: Which structural analogue surprised you most, and why was the connection non-obvious?
+> **Application**: Choose one of the application bridges and draft a specific change to a practice in your own learning or professional life.
+> **Extension**: What does the transferability of these principles across education, sport, and organizational contexts tell you about the underlying nature of what Zimmerman was modeling?
+
+
+
+
+
+
+
+
+
+
+
 
 ## Spaced Repetition Seeds
 
@@ -536,6 +693,50 @@ importance: high
 - [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]
 - [[Fluency-Illusion|Fluency-Illusion]]
 
+**Related concepts** *(from [[zimmerman-srl-focused-analysis-2026-03-22]], [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+[[Barry-Zimmerman|Barry-Zimmerman]] * [[Personal-Knowledge-Base|Personal-Knowledge-Base]] * [[Attribution-Theory|Attribution-Theory]] * [[Mastery-Goal-Orientation|Mastery-Goal-Orientation]] * [[Mastery-Orientation-vs.-Helpless-Orientation|Mastery-Orientation-vs.-Helpless-Orientation]] * [[Zimmerman's-Cyclical-SRL-Model|Zimmerman's-Cyclical-SRL-Model]] * [[Growth-Mindset|Growth-Mindset]] * [[Metacognitive-Monitoring|Metacognitive-Monitoring]] * [[Control-Value-Theory|Control-Value-Theory]] * [[Single-Loop-Learning-vs.-Double-Loop-Learning|Single-Loop-Learning-vs.-Double-Loop-Learning]] * [[metacognition-in-learning-focused-analysis-2026-03-20|metacognition-in-learning-focused-analysis-2026-03-20]] * [[self-determination-theory-focused-analysis-2026-03-19|self-determination-theory-focused-analysis-2026-03-19]] * [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition-and-Self-Regulated-Learning]] * [[Deliberate-Practice|Deliberate-Practice]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]] * [[metacognitive-scaffolding-focused-analysis-2026-03-20|metacognitive-scaffolding-focused-analysis-2026-03-20]] * [[Attribution-Retraining|Attribution-Retraining]] * [[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty|Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]
+
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Single-Loop-Learning|Single-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Zimmerman's-Cyclical-Model-of-Self-Regulation|Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+- [[Monitoring-Regulation-Decoupling|Monitoring-Regulation-Decoupling]]
+- [[Nelson-Narens-Model|Nelson-Narens-Model]]
+- [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]
+- [[Fluency-Illusion|Fluency-Illusion]]
+
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Single-Loop-Learning|Single-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmermans-cyclical-model-srl-dialectical-re-examination-2026-03-23]])*:
+- [[Zimmerman's-Cyclical-Model-of-Self-Regulation|Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+- [[Monitoring-Regulation-Decoupling|Monitoring-Regulation-Decoupling]]
+- [[Nelson-Narens-Model|Nelson-Narens-Model]]
+- [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]
+- [[Fluency-Illusion|Fluency-Illusion]]
+
+**Cross-report connections** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*:
+- [[Single-Loop-Learning-vs.-Double-Loop-Learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*:
+- [[metacognition-in-learning-focused-analysis-2026-03-20|metacognition-in-learning-focused-analysis-2026-03-20]]
+- [[self-determination-theory-focused-analysis-2026-03-19|self-determination-theory-focused-analysis-2026-03-19]]
+- [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Attribution-Theory|Attribution-Theory]]
+
+
+
+
+
+
+
+
 
 
 
@@ -568,6 +769,87 @@ importance: high
 
 - **Zimmerman, B. J., & Moylan, A. R. (2009). Self-regulation: Where metacognition and motivation intersect. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Handbook of metacognition in education* (pp. 299–315). Routledge.**: Zimmerman's own most sophisticated treatment of the monitoring-motivation intersection, acknowledging the role of metacognitive processes in mediating cyclical learning. Useful for nuanced engagement with the received view and for identifying where Zimmerman himself acknowledged conditional dependencies.
 
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive articulation of the three-phase cyclical model. Presents the sub-processes within each phase with considerable detail and connects them to the Social Cognitive Theory foundation. Essential reading for understanding the received view at its best. Particularly relevant for Phase I (thesis articulation) and for understanding the self-efficacy sub-processes in the Forethought Phase.
+
+- **Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.**: The most comprehensive treatment of self-efficacy theory, including the four sources of self-efficacy information, the mechanisms of self-efficacy effects on performance, and the distinction between self-efficacy and related constructs. Foundational for understanding the model's motivational architecture. Relevant for Phase I and Phase IV (self-efficacy assumption analysis).
+
+- **Azevedo, R., & Cromley, J. G. (2004). Does training on self-regulated learning facilitate students' learning with hypermedia? *Journal of Educational Psychology*, 96(3), 523–535.**: Process-tracing study demonstrating that SRL training improved some regulatory processes but that monitoring-regulation decoupling persisted — students who monitored did not consistently regulate. Directly relevant to Phase III's empirical challenge. Important for understanding the conditions under which the monitoring-regulation link breaks down.
+
+- **Efklides, A. (2011). Interactions of metacognition with motivation and affect in self-regulated learning: The MASRL model. *Educational Psychologist*, 46(1), 6–25.**: Presents the Metacognitive and Affective Self-Regulated Learning (MASRL) model, which extends the Zimmerman framework to incorporate metacognitive experiences as the phenomenological signals mediating between monitoring and regulation. Directly relevant to Phase III and Phase IV's philosophical challenge: metacognitive experiences are shown to be influenced by fluency, affect, and task characteristics in ways that can decouple them from actual cognitive states.
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated engagement in learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The foundational presentation of the COPES model, which serves as the primary alternative interpretation in Phase IV and as a key element of the reconstructive synthesis. The conditional, event-driven architecture provides the theoretical machinery for understanding *when* regulation is triggered, which the Zimmerman model underspecifies.
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. Bower (Ed.), *The psychology of learning and motivation* (Vol. 26, pp. 125–173). Academic Press.**: The foundational articulation of the two-level metacognitive architecture (object level / meta level, monitoring / control). Provides the formal basis for understanding why monitoring-regulation decoupling is architecturally possible. Essential for Phase IV's alternative interpretations and for the calibration-dependency principle in Phase VI.
+
+- **Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.**: The foundational text on single-loop vs. double-loop learning and defensive routines in organizations. Provides the structural analogue for the FAR Transfer phase (Phase VI) connecting the Zimmerman cycle's self-reflection dynamics to organizational learning failure modes.
+
+- **Zimmerman, B. J., & Moylan, A. R. (2009). Self-regulation: Where metacognition and motivation intersect. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Handbook of metacognition in education* (pp. 299–315). Routledge.**: Zimmerman's own most sophisticated treatment of the monitoring-motivation intersection, acknowledging the role of metacognitive processes in mediating cyclical learning. Useful for nuanced engagement with the received view and for identifying where Zimmerman himself acknowledged conditional dependencies.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive articulation of the three-phase cyclical model. Presents the sub-processes within each phase with considerable detail and connects them to the Social Cognitive Theory foundation. Essential reading for understanding the received view at its best. Particularly relevant for Phase I (thesis articulation) and for understanding the self-efficacy sub-processes in the Forethought Phase.
+
+- **Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.**: The most comprehensive treatment of self-efficacy theory, including the four sources of self-efficacy information, the mechanisms of self-efficacy effects on performance, and the distinction between self-efficacy and related constructs. Foundational for understanding the model's motivational architecture. Relevant for Phase I and Phase IV (self-efficacy assumption analysis).
+
+- **Azevedo, R., & Cromley, J. G. (2004). Does training on self-regulated learning facilitate students' learning with hypermedia? *Journal of Educational Psychology*, 96(3), 523–535.**: Process-tracing study demonstrating that SRL training improved some regulatory processes but that monitoring-regulation decoupling persisted — students who monitored did not consistently regulate. Directly relevant to Phase III's empirical challenge. Important for understanding the conditions under which the monitoring-regulation link breaks down.
+
+- **Efklides, A. (2011). Interactions of metacognition with motivation and affect in self-regulated learning: The MASRL model. *Educational Psychologist*, 46(1), 6–25.**: Presents the Metacognitive and Affective Self-Regulated Learning (MASRL) model, which extends the Zimmerman framework to incorporate metacognitive experiences as the phenomenological signals mediating between monitoring and regulation. Directly relevant to Phase III and Phase IV's philosophical challenge: metacognitive experiences are shown to be influenced by fluency, affect, and task characteristics in ways that can decouple them from actual cognitive states.
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated engagement in learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The foundational presentation of the COPES model, which serves as the primary alternative interpretation in Phase IV and as a key element of the reconstructive synthesis. The conditional, event-driven architecture provides the theoretical machinery for understanding *when* regulation is triggered, which the Zimmerman model underspecifies.
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. Bower (Ed.), *The psychology of learning and motivation* (Vol. 26, pp. 125–173). Academic Press.**: The foundational articulation of the two-level metacognitive architecture (object level / meta level, monitoring / control). Provides the formal basis for understanding why monitoring-regulation decoupling is architecturally possible. Essential for Phase IV's alternative interpretations and for the calibration-dependency principle in Phase VI.
+
+- **Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.**: The foundational text on single-loop vs. double-loop learning and defensive routines in organizations. Provides the structural analogue for the FAR Transfer phase (Phase VI) connecting the Zimmerman cycle's self-reflection dynamics to organizational learning failure modes.
+
+- **Zimmerman, B. J., & Moylan, A. R. (2009). Self-regulation: Where metacognition and motivation intersect. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Handbook of metacognition in education* (pp. 299–315). Routledge.**: Zimmerman's own most sophisticated treatment of the monitoring-motivation intersection, acknowledging the role of metacognitive processes in mediating cyclical learning. Useful for nuanced engagement with the received view and for identifying where Zimmerman himself acknowledged conditional dependencies.
+
+- **Zimmerman, B. J. (1989). A social cognitive view of self-regulated academic learning. *Journal of Educational Psychology, 81*(3), 329–339.**: The foundational paper establishing the SRL model within Bandura's Social Cognitive Theory framework. Zimmerman articulates the three phases and their interrelations for the first time. Supports Phases II and IV throughout.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The definitive chapter-length treatment of the three-phase cyclical model. Provides the most complete account of Self-Reflection Phase components (self-judgment and self-reaction). Foundational for the entire analysis.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215.**: The foundational self-efficacy paper. Establishes the four sources of efficacy information and the prospective, domain-specific nature of self-efficacy beliefs. Supports the self-efficacy feedback loop analysis in Phase IV.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.**: Weiner's comprehensive attributional framework, establishing the locus-controllability dimensions. The theoretical foundation for the Attributional Bridge construct. Supports Phase III and Phase IV.
+
+- **Dweck, C. S., & Goetz, T. E. (1978). Attributions and learned helplessness. In J. Harvey, W. Ickes, & R. Kidd (Eds.), *New directions in attribution research* (Vol. 2). Erlbaum.**: Establishes the attribution-learned helplessness link and demonstrates the asymmetric development of maladaptive attribution patterns. Evidence for the asymmetric ratchet construct in Phase VI.
+
+- **Pajares, F., & Miller, M. D. (1994). Role of self-efficacy and self-concept beliefs in mathematical problem solving: A path analysis. *Journal of Educational Psychology, 86*(2), 193–203.**: Path analysis demonstrating that self-efficacy mediates the performance-outcome to subsequent performance link through attribution. Direct evidence for the attribution-mediation finding in Phase III.
+
+- **Butler, R. (1987). Task-involving and ego-involving properties of evaluation: Effects of different feedback conditions on motivational perceptions, interest, and performance. *Journal of Educational Psychology, 79*(4), 474–482.**: Demonstrates that mastery-standard evaluation produces better self-efficacy, engagement, and learning outcomes than normative evaluation. Supports Phase III analysis of evaluative standards.
+
+- **Elliot, A. J., & Dweck, C. S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology, 54*(1), 5–12.**: Establishes the goal orientation moderation of attributional tendencies — mastery goal orientation predicts effort/strategy attribution, performance orientation predicts ability attribution. Supports Phase III.
+
+- **Paris, S. G., & Winograd, P. (1990). How metacognition can promote academic learning and instruction. In B. J. Jones & L. Idol (Eds.), *Dimensions of thinking and cognitive instruction* (pp. 15–51). Erlbaum.**: Articulates the three types of metacognitive knowledge (declarative, procedural, conditional) and their developmental patterns. Foundation for the conditional knowledge-attribution quality link in Phase IV.
+
+- **Pekrun, R. (2006). The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice. *Educational Psychology Review, 18*(4), 315–341.**: Establishes that academic emotions are determined by perceived control and task value, and that they influence cognitive processing including attributional tendencies. Supports the emotional mediation limitation noted in Phase V.
+
+- **Crocker, J., & Park, L. E. (2004). The costly pursuit of self-esteem. *Psychological Bulletin, 130*(3), 392–414.**: Provides the theoretical foundation for understanding defensive inference as psychologically functional in contexts where performance is used as a signal of self-worth. Supports the tension-identified callout in Phase IV.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -589,6 +871,10 @@ importance: high
 > | Self-efficacy as key Forethought variable | Established | Bandura (1997);…
 
 ---
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*
+> This report draws on three categories of evidence. (1) *Empirically established claims*: Zimmerman's three-phase model structure, the self-efficacy-performance relationship, the attribution-self-efficacy mediation effect, goal orientation moderator effects, and the mastery vs. normative standard research are all supported by substantial empirical research programs. (2) *Theoretical integrations*: The Attributional Bridge as a mechanistic construct integrating Zimmerman, Weiner, and Bandura is a theoretical synthesis; while each individual component is empirically supported, the specific integration is analytical rather than directly tested. (3) *Original analytical contributions*: The Asymmetric Ratchet Model is Claude's original synthesis of the available evidence and is flagged explicitly as such. It is consistent with available evidence but not directly tested as a unified construct. The FAR Transfer applications represent principled extensions of the core analysis rather than empirically validated claims about those target domains. The emotional mediation limitation reflects genuine gaps in Zimmerman's formulation rather than contested findings. Readers should weight category (1) claims most heavily and treat category (3) contributions as analytically productive hypotheses for further investigation.
+
 
 ## Source Attribution
 

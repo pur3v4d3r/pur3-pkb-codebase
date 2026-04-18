@@ -137,7 +137,7 @@ related:
 broader:
   - "[[Philosophy of the Examined Life]]"
   - "[[Existential Psychology]]"
-  - "[[Eudaimonic Well-Being]]"
+  - "[[Eudaimonic-Well-Being|Eudaimonic Well-Being]]"
   - "[[The Architecture of the Examined Life]]"
 
 # LEARNING PATHWAYS
@@ -544,7 +544,7 @@ Finally, the claim that the examined life is constitutively valuable — that it
 
 > [!connection-ideas]
 > **Expansion Topic 1: [[Terror Management Theory and Meaning]]**
-> Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski's [[Terror Management Theory]] (TMT) proposes that much of human culture, religion, and meaning-making is motivated by the need to manage anxiety about mortality. The examined life's meaning-making practices, viewed through this lens, are simultaneously genuinely valuable (they constitute a meaningful life) and defensively functional (they buffer existential anxiety). Exploring the relationship between narrative identity, terror management, and epistemic motivation would enrich the framework's account of *why* humans are meaning-seeking creatures. **Priority: High.**
+> Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski's [[Terror-Management-Theory|Terror Management Theory]] (TMT) proposes that much of human culture, religion, and meaning-making is motivated by the need to manage anxiety about mortality. The examined life's meaning-making practices, viewed through this lens, are simultaneously genuinely valuable (they constitute a meaningful life) and defensively functional (they buffer existential anxiety). Exploring the relationship between narrative identity, terror management, and epistemic motivation would enrich the framework's account of *why* humans are meaning-seeking creatures. **Priority: High.**
 
 > [!connection-ideas]
 > **Expansion Topic 2: [[Narrative Therapy]]**

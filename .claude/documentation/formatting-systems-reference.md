@@ -413,7 +413,7 @@ Format as `[[wiki-link]]` if term meets **ANY** of these criteria:
 | **Core Concept** | Central to response content | `[[Cognitive-Load-Theory]]` |
 | **Technical Term** | Requires definition or explanation | `[[Working-Memory]]`, `[[Gradient Descent]]` |
 | **Linkable Topic** | Has potential for separate note | `[[Spaced-Repetition]]` |
-| **Cross-Reference** | Connects to existing knowledge | `[[Zettelkasten Method]]` |
+| **Cross-Reference** | Connects to existing knowledge | `[[Zettelkasten-Method]]` |
 | **Exploratory Depth** | Subject area with theoretical foundation | `[[Instructional-Design]]` |
 | **Framework/Methodology** | Named approach or system | `[[Agile Development]]` |
 
@@ -450,7 +450,7 @@ Format as `[[wiki-link]]` if term meets **ANY** of these criteria:
 #### Pattern 2: Technical Explanation
 
 ```markdown
-In [[Machine Learning]], [[Neural Networks]] use [[Backpropagation]] to update [[Weights]] based on [[Gradient Descent]] optimization. The [[Loss Function]] measures prediction error, guiding the [[Training Process]] toward better [[Generalization]].
+In [[Machine-Learning]], [[Neural-Networks]] use [[Backpropagation]] to update [[Weights]] based on [[Gradient Descent]] optimization. The [[Loss Function]] measures prediction error, guiding the [[Training Process]] toward better [[Generalization]].
 ```
 
 **Analysis:** 8 links in 2 sentences—high density appropriate for technical content.
@@ -458,7 +458,7 @@ In [[Machine Learning]], [[Neural Networks]] use [[Backpropagation]] to update [
 #### Pattern 3: Contextual Linking
 
 ```markdown
-The [[Feynman Technique]] involves explaining concepts in simple terms, identifying knowledge gaps, and iterating until understanding is complete. This approach aligns with principles from [[Active Learning]] and [[Metacognition]].
+The [[Feynman Technique]] involves explaining concepts in simple terms, identifying knowledge gaps, and iterating until understanding is complete. This approach aligns with principles from [[Active-Learning]] and [[Metacognition]].
 ```
 
 **Analysis:** 3 links in 2 sentences—moderate density for methodological content.
@@ -491,8 +491,8 @@ When display text should differ from target note:
 
 ```markdown
 [[Cognitive-Load-Theory|CLT]] is a framework...
-[[Zettelkasten Method|slip-box system]]...
-[[Neural Networks|deep learning models]]...
+[[Zettelkasten-Method|slip-box system]]...
+[[Neural-Networks|deep learning models]]...
 ```
 
 #### Block Links
@@ -581,7 +581,7 @@ Create MOCs when you have 10+ notes on a topic. MOC becomes navigation hub with 
 
 **2. Linking Common Words**
 ❌ `[[The]] [[importance]] [[of]] [[learning]]`
-✅ `The importance of [[Active Learning]]`
+✅ `The importance of [[Active-Learning]]`
 
 **3. Broken Link Syntax**
 ❌ `[Cognitive Load](cognitive-load.md)` (markdown link)

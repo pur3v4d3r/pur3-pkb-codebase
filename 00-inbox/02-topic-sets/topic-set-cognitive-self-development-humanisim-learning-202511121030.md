@@ -59,7 +59,7 @@ These principles emerged as direct critiques of [[Behaviorist Learning Theory]],
 
 **[[Carl-Rogers]] (1902-1987)** translated Humanistic Psychology into educational practice through his [[Person-Centered Therapy]] approach. Rogers identified three essential conditions for meaningful learning:
 
-1. **[[Unconditional Positive Regard]]**: The learner must feel accepted without judgment
+1. **[[Unconditional-Positive-Regard]]**: The learner must feel accepted without judgment
 2. **[[Empathic Understanding]]**: The facilitator must genuinely comprehend the learner's subjective experience
 3. **[[Congruence]]**: Authenticity and transparency in the learning relationship
 
@@ -82,7 +82,7 @@ Humanistic learning unfolds through a recursive process of engagement with perso
 
 **Phase 3: Experiential Integration** — The learner doesn't merely acquire information but reorganizes their self-concept and worldview. This involves what Rogers called "[[Significant Learning]]"—knowledge that alters perception, behavior, and identity.
 
-**Phase 4: Reflective Meaning-Making** — Through [[Metacognitive Reflection]], the learner consciously examines how new understanding changes their perspective. This creates [[Schema Transformation]] rather than mere [[Schema Addition]].
+**Phase 4: Reflective Meaning-Making** — Through [[Metacognitive-Reflection]], the learner consciously examines how new understanding changes their perspective. This creates [[Schema Transformation]] rather than mere [[Schema Addition]].
 
 > [!analogy] The Gardener vs. The Sculptor
 > Behaviorist learning resembles a sculptor imposing form on inert material through external force. Humanistic learning resembles a gardener creating conditions for growth while respecting the plant's inherent developmental trajectory. The gardener cannot *make* a seed grow, but can provide soil, water, and light that allow its genetic potential to unfold.
@@ -122,13 +122,13 @@ In this model, cognitive complexity is secondary to affective depth. A learner w
 
 Humanistic educators structure learning environments around several design principles:
 
-**[[Psychological-Safety]]**: Learners must feel secure enough to take intellectual risks, express confusion, and challenge assumptions without fear of judgment or punishment. This requires what Rogers called [[Unconditional Positive Regard]]—acceptance of the person independent of their performance.
+**[[Psychological-Safety]]**: Learners must feel secure enough to take intellectual risks, express confusion, and challenge assumptions without fear of judgment or punishment. This requires what Rogers called [[Unconditional-Positive-Regard]]—acceptance of the person independent of their performance.
 
 **[[Resource Accessibility]]**: Rather than controlled information delivery, the environment provides abundant, diverse resources that learners can engage based on emergent interests. This resembles [[Constructivist Learning Environments]] where knowledge is discovered rather than transmitted.
 
 **[[Collaborative Inquiry]]**: While emphasizing individual autonomy, humanistic learning recognizes that meaning-making often occurs through dialogue. [[Socratic Dialogue]] and [[Peer Learning]] structures allow learners to refine understanding through articulation and perspective-taking.
 
-**[[Reflective Practice Structures]]**: Regular opportunities for [[Metacognitive Reflection]]—journaling, think-aloud protocols, learning portfolios—help learners consciously process how understanding is evolving.
+**[[Reflective Practice Structures]]**: Regular opportunities for [[Metacognitive-Reflection]]—journaling, think-aloud protocols, learning portfolios—help learners consciously process how understanding is evolving.
 
 ## 🔗 Relationship to Other Learning Theories
 
@@ -192,9 +192,9 @@ This cycle embodies the humanistic emphasis on learning through personally meani
 
 **Integrate Affective Dimensions**: Traditional note-taking systems treat information as emotionally neutral. A humanistic approach suggests:
 - Capturing not just "what" but "why this matters to me"
-- Recording [[Aha Moments]] and [[cognitive-dissonance]] experiences
+- Recording [[Aha Moments]] and [[Cognitive-Dissonance]] experiences
 - Tracking how ideas change your perspective and self-concept
-- Using your PKB as a mirror for [[Metacognitive Reflection]]
+- Using your PKB as a mirror for [[Metacognitive-Reflection]]
 
 **Embrace Non-Linear Development**: Humanistic theory rejects the notion of pre-determined learning sequences. Your cognitive development project should:
 - Allow for recursive revisiting of concepts as understanding deepens
@@ -330,7 +330,7 @@ Based on your context (building a cognitive self-development project emphasizing
     - **Depth Potential**: Reflection-in-action vs. reflection-on-action, critical incidents, assumptions questioning
     - **PKB Integration**: Framework for your PKB as reflective tool rather than mere storage
 
-15. **[[Personal Knowledge Management Systems]] (Ahrens, Forte)**
+15. **[[Personal-Knowledge-Management-Systems]] (Ahrens, Forte)**
     - **Connection**: Technical implementation of humanistic learning principles in Obsidian
     - **Depth Potential**: Zettelkasten method, PARA method, progressive summarization, digital gardens
     - **PKB Integration**: Validates your current approach with contemporary research

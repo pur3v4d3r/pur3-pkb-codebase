@@ -39,7 +39,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -560,6 +560,42 @@ importance: high
 - [[Self-Efficacy|Self-Efficacy]]
 - [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
 
+**Related concepts** *(from [[pintrichs-framework-srl-focused-analysis-2026-03-23]])*:
+[[Paul-Pintrich|Paul Pintrich]] * [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]] * [[James-Clear|James Clear]]
+
+**Cross-report connections** *(from [[pintrichs-framework-srl-focused-analysis-2026-03-23]])*:
+- [[Constructivist-Learning-Theory|Constructivist-Learning-Theory]]
+
+**Cross-report connections** *(from [[pintrichs-framework-srl-focused-analysis-2026-03-23]])*:
+- [[James-Clear|James Clear]]
+
+**Cross-report connections** *(from [[pintrichs-framework-srl-focused-analysis-2026-03-23]])*:
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Zimmerman-SRL-Model|Zimmerman-SRL-Model]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition-and-Self-Regulated-Learning]]
+- [[Self-Efficacy|Self-Efficacy]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+**Cross-report connections** *(from [[pintrichs-framework-srl-focused-analysis-2026-03-23]])*:
+- [[Constructivist-Learning-Theory|Constructivist-Learning-Theory]]
+
+**Cross-report connections** *(from [[pintrichs-framework-srl-focused-analysis-2026-03-23]])*:
+- [[James-Clear|James-Clear]]
+
+**Cross-report connections** *(from [[pintrichs-framework-srl-focused-analysis-2026-03-23]])*:
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Zimmerman-SRL-Model|Zimmerman-SRL-Model]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition-and-Self-Regulated-Learning]]
+- [[Self-Efficacy|Self-Efficacy]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+
+
+
+
+
+
+
 
 
 
@@ -592,6 +628,54 @@ importance: high
 - **Deci, E.L., & Ryan, R.M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The central SDT paper against which the tension with Pintrich's motivational regulation framework is analyzed. Essential for understanding why high-quality autonomous motivation may not require deliberate motivational regulation. Supports Phase III's tension analysis and Phase VI's synthesis.
 
 - **Winne, P.H., & Hadwin, A.F. (1998). Studying as self-regulated learning. In D.J. Hacker, J. Dunlosky, & A.C. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's]] information processing model of SRL provides a useful comparison case — more cognitively detailed than Pintrich, less motivationally comprehensive. The comparison clarifies why Pintrich's motivational area is a theoretical advance over purely cognitive SRL models.
+
+- **Pintrich, P.R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: The central theoretical statement of Pintrich's framework. Establishes the four-area architecture and articulates the claim that motivation and context are regulated domains. Essential reading for understanding the theoretical commitments analyzed in Phases II and IV. Particularly valuable for its extended discussion of goal orientation's interaction with cognitive strategy use.
+
+- **Pintrich, P.R. (2004). A conceptual framework for assessing motivation and self-regulated learning in college students. *Educational Psychology Review, 16*(4), 385–407.**: The most concise and complete statement of the 4×4 matrix framework. The 2004 paper is the standard reference for the framework's architecture. Supports Phases II and III directly. Recommended sections: the matrix table (pp. 390–392) and the discussion of context regulation (pp. 397–400).
+
+- **Pintrich, P.R., & De Groot, E.V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology, 82*(1), 33–40.**: The foundational empirical study establishing that metacognitive self-regulation and cognitive strategy use predict academic performance, while self-efficacy and intrinsic goal orientation predict cognitive strategy use. The basis for the mediation claim discussed in Phase III. One of the most-cited papers in educational psychology.
+
+- **Wolters, C.A. (2003). Regulation of motivation: Evaluating an underemphasized aspect of self-regulated learning. *Educational Psychologist, 38*(4), 189–205.**: The primary empirical and theoretical treatment of motivational regulation within Pintrich's framework. Develops the taxonomy of motivational regulation strategies and presents survey evidence for their effects on academic outcomes. Directly supports Phase III's treatment of the motivational regulation evidence base.
+
+- **Pintrich, P.R., Smith, D.A.F., Garcia, T., & McKeachie, W.J. (1991). *A Manual for the Use of the Motivated Strategies for Learning Questionnaire (MSLQ)*. University of Michigan.**: The technical manual for the most widely used SRL measurement instrument. Essential for understanding how the framework's theoretical architecture has been operationalized. Particularly valuable for its discussion of subscale construction and validation.
+
+- **Zimmerman, B.J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: Zimmerman's definitive statement of his cyclical model, published in the same volume as Pintrich's 2000 paper. The juxtaposition clarifies the theoretical differences between the two approaches. Supports the comparative analysis throughout this report.
+
+- **Deci, E.L., & Ryan, R.M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The central SDT paper against which the tension with Pintrich's motivational regulation framework is analyzed. Essential for understanding why high-quality autonomous motivation may not require deliberate motivational regulation. Supports Phase III's tension analysis and Phase VI's synthesis.
+
+- **Winne, P.H., & Hadwin, A.F. (1998). Studying as self-regulated learning. In D.J. Hacker, J. Dunlosky, & A.C. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's]] information processing model of SRL provides a useful comparison case — more cognitively detailed than Pintrich, less motivationally comprehensive. The comparison clarifies why Pintrich's motivational area is a theoretical advance over purely cognitive SRL models.
+
+- **Pintrich, P.R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 451–502). Academic Press.**: The central theoretical statement of Pintrich's framework. Establishes the four-area architecture and articulates the claim that motivation and context are regulated domains. Essential reading for understanding the theoretical commitments analyzed in Phases II and IV. Particularly valuable for its extended discussion of goal orientation's interaction with cognitive strategy use.
+
+- **Pintrich, P.R. (2004). A conceptual framework for assessing motivation and self-regulated learning in college students. *Educational Psychology Review, 16*(4), 385–407.**: The most concise and complete statement of the 4×4 matrix framework. The 2004 paper is the standard reference for the framework's architecture. Supports Phases II and III directly. Recommended sections: the matrix table (pp. 390–392) and the discussion of context regulation (pp. 397–400).
+
+- **Pintrich, P.R., & De Groot, E.V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology, 82*(1), 33–40.**: The foundational empirical study establishing that metacognitive self-regulation and cognitive strategy use predict academic performance, while self-efficacy and intrinsic goal orientation predict cognitive strategy use. The basis for the mediation claim discussed in Phase III. One of the most-cited papers in educational psychology.
+
+- **Wolters, C.A. (2003). Regulation of motivation: Evaluating an underemphasized aspect of self-regulated learning. *Educational Psychologist, 38*(4), 189–205.**: The primary empirical and theoretical treatment of motivational regulation within Pintrich's framework. Develops the taxonomy of motivational regulation strategies and presents survey evidence for their effects on academic outcomes. Directly supports Phase III's treatment of the motivational regulation evidence base.
+
+- **Pintrich, P.R., Smith, D.A.F., Garcia, T., & McKeachie, W.J. (1991). *A Manual for the Use of the Motivated Strategies for Learning Questionnaire (MSLQ)*. University of Michigan.**: The technical manual for the most widely used SRL measurement instrument. Essential for understanding how the framework's theoretical architecture has been operationalized. Particularly valuable for its discussion of subscale construction and validation.
+
+- **Zimmerman, B.J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: Zimmerman's definitive statement of his cyclical model, published in the same volume as Pintrich's 2000 paper. The juxtaposition clarifies the theoretical differences between the two approaches. Supports the comparative analysis throughout this report.
+
+- **Deci, E.L., & Ryan, R.M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: The central SDT paper against which the tension with Pintrich's motivational regulation framework is analyzed. Essential for understanding why high-quality autonomous motivation may not require deliberate motivational regulation. Supports Phase III's tension analysis and Phase VI's synthesis.
+
+- **Winne, P.H., & Hadwin, A.F. (1998). Studying as self-regulated learning. In D.J. Hacker, J. Dunlosky, & A.C. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's]] information processing model of SRL provides a useful comparison case — more cognitively detailed than Pintrich, less motivationally comprehensive. The comparison clarifies why Pintrich's motivational area is a theoretical advance over purely cognitive SRL models.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

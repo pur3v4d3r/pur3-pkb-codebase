@@ -169,7 +169,7 @@ The beauty of the B=MAP framework is that it suggests different interventions de
 > **Core Principle 4: Strategic Automaticity Through Implementation Intentions**
 > Goal achievement is dramatically enhanced—effect size of d=.65—when abstract goal intentions ("I intend to exercise more") are translated into concrete implementation intentions that specify when, where, and how action will be taken ("If it is Monday morning at 7am, then I will put on my running shoes and jog around the park"). These if-then plans delegate control to environmental cues, automating goal-directed behavior and conserving cognitive resources for other tasks.
 
-[[Peter Gollwitzer]]'s research on [[Implementation-Intentions]] represents one of the most robust findings in self-regulation science.[^19] Meta-analyses across 94 studies demonstrate medium-to-large effects on goal attainment. The mechanism is straightforward: by pre-specifying situational cues and responses, implementation intentions create strong cue-action associations. When the specified situation is encountered, the response is initiated automatically—with "features of automaticity including immediacy, efficiency, and redundancy of conscious intent."[^20]
+[[Peter-Gollwitzer]]'s research on [[Implementation-Intentions]] represents one of the most robust findings in self-regulation science.[^19] Meta-analyses across 94 studies demonstrate medium-to-large effects on goal attainment. The mechanism is straightforward: by pre-specifying situational cues and responses, implementation intentions create strong cue-action associations. When the specified situation is encountered, the response is initiated automatically—with "features of automaticity including immediacy, efficiency, and redundancy of conscious intent."[^20]
 
 This is strategic automaticity: consciously using if-then planning to create habits. Unlike the reflexive automaticity of long-established habits, strategic automaticity involves deliberate front-loading of decision-making. You decide once (when forming the implementation intention) rather than deciding repeatedly (each time the situation arises). This conserves limited self-control resources for truly novel situations.
 
@@ -274,7 +274,7 @@ The formation of a new habit follows a predictable trajectory:
 Initially, performing the new behavior requires significant conscious effort and self-control. You must remember to do it, resist competing temptations, and actively initiate action. This phase is metabolically expensive—the [[prefrontal-cortex]] (the brain's executive control center) is highly active. Many development efforts fail here because people underestimate how much effort this phase requires and don't design adequate support.
 
 **Phase 2: Increasing Automaticity** (Weeks 3-8)
-With consistent repetition in a stable context, the behavior begins to require less conscious effort. The cue-response association strengthens. You start to feel "pulled" toward the behavior when the cue appears. [[Context-dependent memory]] plays a crucial role: the physical and temporal context becomes encoded as part of the action sequence. Research by [[Wendy Wood]] and colleagues shows that approximately 40-45% of daily behaviors are habitual—performed in the same context, virtually every day.[^26]
+With consistent repetition in a stable context, the behavior begins to require less conscious effort. The cue-response association strengthens. You start to feel "pulled" toward the behavior when the cue appears. [[Context-Dependent-Memory]] plays a crucial role: the physical and temporal context becomes encoded as part of the action sequence. Research by [[Wendy Wood]] and colleagues shows that approximately 40-45% of daily behaviors are habitual—performed in the same context, virtually every day.[^26]
 
 **Phase 3: Habit Stability** (Week 9+)
 The behavior becomes truly automatic. The cue reliably triggers the action without conscious deliberation. The neural signature shifts from prefrontal to basal ganglia activation. The habit is now "chunked"—the entire sequence fires as a unit.
@@ -440,7 +440,7 @@ The integrated framework has immediate applications for how organizations struct
 
 > [!connection-ideas]
 > *The principles discussed here* **strongly connect to the field of:**
->   - [[Organizational Learning]] and the concept of [[Learning Organizations]] articulated by Peter Senge
+>   - [[Organizational-Learning]] and the concept of [[Learning Organizations]] articulated by Peter Senge
 >   - **The reason:**
 >     - Organizations that master continuous learning at the collective level must first support continuous learning at the individual level. The five disciplines Senge describes (personal mastery, mental models, shared vision, team learning, systems thinking) all depend on individuals who engage in reflective practice, construct and revise their mental models, and sustain motivation for growth. Our framework provides the micro-level processes that enable Senge's macro-level organizational transformation.
 

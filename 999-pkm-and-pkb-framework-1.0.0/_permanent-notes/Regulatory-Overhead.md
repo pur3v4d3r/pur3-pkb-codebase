@@ -39,7 +39,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -672,6 +672,80 @@ importance: high
 - [[Attribution-Theory|Attribution-Theory]]
 - [[Self-Reflection-Phase|Self-Reflection-Phase]]
 
+**Related concepts** *(from [[sdt-srl-comparative-synthesis-2026-03-19]], [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning — SRL]] * [[Nelson-Narens-Model|Nelson-Narens-Model]] * [[Fixed-Mindset|Fixed-Mindset]] * [[Regulatory-Overhead|Regulatory-Overhead]] * [[Formative-Assessment|Formative-Assessment]] * [[Winne-and-Hadwin|Winne-and-Hadwin]] * [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman's-Three-Phase-SRL-Cycle]] * [[Self-Directed-Learning|Self-Directed-Learning]] * [[Feedback-Design|Feedback-Design]] * [[Monitoring-Regulation-Decoupling|Monitoring-Regulation-Decoupling]] * [[Self-Determined-Self-Regulation|Self-Determined-Self-Regulation]] * [[Region-of-Proximal-Learning|Region-of-Proximal-Learning]] * [[self-regulated-learning-focused-analysis-2026-03-06|self-regulated-learning-focused-analysis-2026-03-06]] * [[metacognition-in-learning-focused-analysis-2026-03-20|metacognition-in-learning-focused-analysis-2026-03-20]] * [[feedback-design-autonomy-mastery-foundational-report-2026-03-10|feedback-design-autonomy-mastery-foundational-report-2026-03-10]] * [[Bandura|Bandura]] * [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive-Load-Theory-—-Focused-Analysis]] * [[Working-Memory|Working-Memory]] * [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]] * [[Metacognitive-Calibration-Training|Metacognitive-Calibration-Training]] * [[Argyris-Double-Loop-Learning|Argyris-Double-Loop-Learning]] * [[SRL-Assessment-Methods-and-Measurement-Challenge|SRL-Assessment-Methods-and-Measurement-Challenge]]
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning — SRL]]
+- [[Undermining-Effect|Undermining-Effect]]
+- [[Internalization-Continuum|Internalization-Continuum]]
+- [[Barry-Zimmerman|Barry-Zimmerman]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Negative-Feedback-Control-System|Negative-Feedback-Control-System]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Ericsson|Ericsson]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Donald-Schön|Donald-Schön]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Single-Loop-Learning-vs.-Double-Loop-Learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Reflection-Phase|Self-Reflection-Phase]]
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated-Learning-—-SRL]]
+- [[Undermining-Effect|Undermining-Effect]]
+- [[Internalization-Continuum|Internalization-Continuum]]
+- [[Barry-Zimmerman|Barry-Zimmerman]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Negative-Feedback-Control-System|Negative-Feedback-Control-System]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Ericsson|Ericsson]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Donald-Schön|Donald-Schön]]
+- [[Double-Loop-Learning|Double-Loop-Learning]]
+- [[Single-Loop-Learning-vs.-Double-Loop-Learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]
+
+**Cross-report connections** *(from [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]])*:
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Reflection-Phase|Self-Reflection-Phase]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -729,6 +803,114 @@ importance: high
 - **Argyris, C., & Schön, D. (1978). *Organizational Learning: A Theory of Action Perspective.* Addison-Wesley.**: The source of the single-loop/double-loop learning distinction used in the FAR transfer phase. The organizational defensive routines Argyris documented are structurally equivalent to the individual defensive inferences Zimmerman theorized. Recommended for readers interested in the organizational learning implications of Phase VII's transfer analysis.
 
 - **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The foundational paper for deliberate practice theory. Used in Phase VII to establish the deliberate practice–SRL cycle structural analogue. The cycle-closure mechanism's importance for expertise development is implicit in Ericsson's framework but is made explicit by the comparison with Zimmerman's model.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
+
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
+
+- **Boekaerts, M., Pintrich, P. R., & Zeidner, M. (Eds.). (2000). *Handbook of self-regulation*. Academic Press.**: The field-defining handbook containing canonical statements of all major SRL frameworks. Essential reference for any systematic comparison of SRL theories. Contains chapters by Zimmerman, Pintrich, Winne, and Boekaerts himself.
+
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A, pp. 105–165).**: The most accessible single-chapter overview of all five SDT mini-theories. Particularly useful for understanding how the CET, OIT, COT, BPNT, and GCT components articulate. Directly informs Phase II's SDT profile and Phase IV's convergence analysis.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.**: The most recent and comprehensive textbook statement of SDT. Covers all six mini-theories, cross-cultural evidence, developmental applications, and the integration with clinical psychology. The primary contemporary reference for SDT.
+
+- **Zimmerman, B. J., & Schunk, D. H. (Eds.). (2011). *Handbook of self-regulation of learning and performance*. Routledge.**: A comprehensive survey of the SRL field in its modern form. Includes chapters on the SDT-SRL interface, on metacognitive models, and on domain-specific applications. Provides the evidence base for Phase V's situational navigation recommendations.
+
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review*, 30(1), 74–99.**: Important for the developmental analysis in Phase VI — demonstrates how SDT's account of need-supportive vs. need-thwarting parenting maps onto developmental trajectories in self-regulation that parallel Zimmerman's account of regulatory skill development.
+
+- **Zimmerman, B.J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The primary theoretical statement of the cyclical model in its mature form. This chapter is the canonical source for the three-phase architecture and the phase-transition mechanism. Essential reading for Phases II and IV of this report; the adaptive/defensive inference distinction is elaborated here with unusual precision.
+
+- **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70.**: A highly accessible summary of the cyclical model with illustrative examples from across learning domains. Particularly useful for the expert-novice comparisons cited in Phase III. Recommended for readers seeking a shorter entry point into the primary literature before reading the full 2000 Handbook chapter.
+
+- **Zimmerman, B.J., & Kitsantas, A. (1997). Developmental phases in self-regulation: Shifting from process goals to outcome goals. *Journal of Educational Psychology, 89*(1), 29–36.**: The dart-throwing study cited in Phase III as direct experimental evidence for the self-reflection-to-forethought transition mechanism. Demonstrates that goal type during performance shapes self-reflection content which shapes subsequent self-efficacy. Supports reading in Phase III before examining other empirical studies.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.**: The foundational paper for the three-dimensional attribution framework used throughout Phase IV's mechanism analysis. The stability × controllability interaction — which generates the asymmetric risk in self-efficacy updating identified in this report — is theorized here with formal precision.
+
+- **Dweck, C.S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674–685.**: The original attribution retraining study showing that teaching children to attribute failure to insufficient effort (rather than ability) improved subsequent persistence and performance. Cited in Phase IV as the primary attribution retraining evidence supporting the self-reflection-first instructional recommendation.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7–74.**: The meta-analytic foundation for formative assessment's effectiveness. This report reinterprets Black and Wiliam's findings through the cyclical SRL lens: formative assessment works because it provides externally scaffolded cycle closure. The mechanism their analysis left unspecified is identified here as the self-reflection phase's attribution and adaptive inference sub-processes.
+
+- **Argyris, C., & Schön, D. (1978). *Organizational Learning: A Theory of Action Perspective.* Addison-Wesley.**: The source of the single-loop/double-loop learning distinction used in the FAR transfer phase. The organizational defensive routines Argyris documented are structurally equivalent to the individual defensive inferences Zimmerman theorized. Recommended for readers interested in the organizational learning implications of Phase VII's transfer analysis.
+
+- **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The foundational paper for deliberate practice theory. Used in Phase VII to establish the deliberate practice–SRL cycle structural analogue. The cycle-closure mechanism's importance for expertise development is implicit in Ericsson's framework but is made explicit by the comparison with Zimmerman's model.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
+
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
+
+- **Boekaerts, M., Pintrich, P. R., & Zeidner, M. (Eds.). (2000). *Handbook of self-regulation*. Academic Press.**: The field-defining handbook containing canonical statements of all major SRL frameworks. Essential reference for any systematic comparison of SRL theories. Contains chapters by Zimmerman, Pintrich, Winne, and Boekaerts himself.
+
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A, pp. 105–165).**: The most accessible single-chapter overview of all five SDT mini-theories. Particularly useful for understanding how the CET, OIT, COT, BPNT, and GCT components articulate. Directly informs Phase II's SDT profile and Phase IV's convergence analysis.
+
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.**: The most recent and comprehensive textbook statement of SDT. Covers all six mini-theories, cross-cultural evidence, developmental applications, and the integration with clinical psychology. The primary contemporary reference for SDT.
+
+- **Zimmerman, B. J., & Schunk, D. H. (Eds.). (2011). *Handbook of self-regulation of learning and performance*. Routledge.**: A comprehensive survey of the SRL field in its modern form. Includes chapters on the SDT-SRL interface, on metacognitive models, and on domain-specific applications. Provides the evidence base for Phase V's situational navigation recommendations.
+
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review*, 30(1), 74–99.**: Important for the developmental analysis in Phase VI — demonstrates how SDT's account of need-supportive vs. need-thwarting parenting maps onto developmental trajectories in self-regulation that parallel Zimmerman's account of regulatory skill development.
+
+- **Zimmerman, B.J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P.R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13–39). Academic Press.**: The primary theoretical statement of the cyclical model in its mature form. This chapter is the canonical source for the three-phase architecture and the phase-transition mechanism. Essential reading for Phases II and IV of this report; the adaptive/defensive inference distinction is elaborated here with unusual precision.
+
+- **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70.**: A highly accessible summary of the cyclical model with illustrative examples from across learning domains. Particularly useful for the expert-novice comparisons cited in Phase III. Recommended for readers seeking a shorter entry point into the primary literature before reading the full 2000 Handbook chapter.
+
+- **Zimmerman, B.J., & Kitsantas, A. (1997). Developmental phases in self-regulation: Shifting from process goals to outcome goals. *Journal of Educational Psychology, 89*(1), 29–36.**: The dart-throwing study cited in Phase III as direct experimental evidence for the self-reflection-to-forethought transition mechanism. Demonstrates that goal type during performance shapes self-reflection content which shapes subsequent self-efficacy. Supports reading in Phase III before examining other empirical studies.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.**: The foundational paper for the three-dimensional attribution framework used throughout Phase IV's mechanism analysis. The stability × controllability interaction — which generates the asymmetric risk in self-efficacy updating identified in this report — is theorized here with formal precision.
+
+- **Dweck, C.S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674–685.**: The original attribution retraining study showing that teaching children to attribute failure to insufficient effort (rather than ability) improved subsequent persistence and performance. Cited in Phase IV as the primary attribution retraining evidence supporting the self-reflection-first instructional recommendation.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7–74.**: The meta-analytic foundation for formative assessment's effectiveness. This report reinterprets Black and Wiliam's findings through the cyclical SRL lens: formative assessment works because it provides externally scaffolded cycle closure. The mechanism their analysis left unspecified is identified here as the self-reflection phase's attribution and adaptive inference sub-processes.
+
+- **Argyris, C., & Schön, D. (1978). *Organizational Learning: A Theory of Action Perspective.* Addison-Wesley.**: The source of the single-loop/double-loop learning distinction used in the FAR transfer phase. The organizational defensive routines Argyris documented are structurally equivalent to the individual defensive inferences Zimmerman theorized. Recommended for readers interested in the organizational learning implications of Phase VII's transfer analysis.
+
+- **Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.**: The foundational paper for deliberate practice theory. Used in Phase VII to establish the deliberate practice–SRL cycle structural analogue. The cycle-closure mechanism's importance for expertise development is implicit in Ericsson's framework but is made explicit by the comparison with Zimmerman's model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

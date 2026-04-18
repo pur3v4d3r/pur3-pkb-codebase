@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -248,6 +248,34 @@ importance: high
 - [[Reasoning-Types-in-Education|Reasoning Types in Education]]
 - [[Deductive-Reasoning|Deductive Reasoning]]
 
+**Related concepts** *(from [[mental-models-johnson-laird-foundational-report-2026-03-11]])*:
+[[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]] * [[Conceptual-Change-Theory|Conceptual Change Theory]] * [[Multimedia-Learning|Multimedia Learning]] * [[Schema-Theory|Schema Theory]] * [[Mental-Models|Mental Models]] * [[Kenneth-Craik|Kenneth Craik]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[possible-worlds-semantics|possible worlds semantics]] * [[Formal-Rule-Theories-of-Reasoning|Formal Rule Theories of Reasoning]] * [[Propositional-Representation|Propositional Representation]] * [[Mental-Logic-Theory|Mental Logic Theory]] * [[Lance-Rips|Lance Rips]] * [[Martin-Braine|Martin Braine]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Keith-Stanovich|Keith Stanovich]] * [[Richard-West|Richard West]] * [[Jonathan-Evans|Jonathan Evans]] * [[Walter-Kintsch|Walter Kintsch]] * [[Situation-Models|Situation Models]] * [[Rolf-Zwaan|Rolf Zwaan]] * [[Stella-Vosniadou|Stella Vosniadou]] * [[Nancy-Nersessian|Nancy Nersessian]] * [[history-and-philosophy-of-science|history and philosophy of science]] * [[Long-Term-Memory|long-term memory]] * [[Spatial-Cognition|Spatial Cognition]] * [[Mary-Hegarty|Mary Hegarty]] * [[Mental-Simulation|Mental Simulation]]
+
+**Cross-report connections** *(from [[mental-models-johnson-laird-foundational-report-2026-03-11]])*:
+- [[Mental-Models-Theory|Mental Models Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+
+**Cross-report connections** *(from [[mental-models-johnson-laird-foundational-report-2026-03-11]])*:
+- [[Mental-Models-Theory|Mental Models Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Reasoning-Types-in-Education|Reasoning Types in Education]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+
+**Cross-report connections** *(from [[mental-models-johnson-laird-foundational-report-2026-03-11]])*:
+- [[Mental-Models-Theory|Mental-Models-Theory]]
+- [[Schema-Theory|Schema-Theory]]
+- [[Schema-Theory|Schema-Theory]]
+- [[Reasoning-Types-in-Education|Reasoning-Types-in-Education]]
+- [[Deductive-Reasoning|Deductive-Reasoning]]
+
+
+
+
+
 
 
 
@@ -300,6 +328,87 @@ importance: high
 - **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The most comprehensive treatment of [[Multimedia-Learning|Multimedia Learning Theory]], integrating three decades of experimental research on instructional design. Mayer's theory is explicitly grounded in the mental model framework: his "generative theory of multimedia learning" proposes that learners build verbal models, pictorial models, and an integrated mental model, and that effective instruction supports this construction without overloading working memory channels. Directly relevant to Phase V applications.
 
 - **Hegarty, M., & Just, M. A. (1993). Constructing mental models of machines from text and diagrams. *Journal of Memory and Language*, 32(6), 717–742.**: Key empirical study demonstrating that mechanical reasoning depends on the construction and mental animation of spatial mental models. Readers who received only text were less able to reason about the mechanism than those receiving diagrams — not because the text was inadequate propositionally, but because the text made model construction more effortful. Supports the Phase IV discussion of spatial mental models and mental simulation.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
+
+- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
+
+- **Zwaan, R. A., Langston, M. C., & Graesser, A. C. (1995). The construction of situation models in narrative comprehension: An event-indexing model. *Psychological Science*, 6(5), 292–297.**: Introduces the Event Indexing Model, specifying the five dimensions (space, time, causality, intentionality, protagonist) along which situation models are tracked during narrative comprehension. Reports reading-time studies showing that discontinuities along these dimensions slow comprehension — strong evidence that readers actively maintain and update multidimensional situation models.
+
+- **Vosniadou, S., & Brewer, W. F. (1992). Mental models of the earth: A study of conceptual change in childhood. *Cognitive Psychology*, 24(4), 535–585.**: Reports the classic study documenting children's synthetic mental models of the Earth's shape and how these models combine naive perceptual beliefs with partially absorbed scientific information. Essential for the Phase V discussion of science education applications. Demonstrates the coherence and persistence of misconception-as-model and the inadequacy of simple information presentation as a remediation strategy.
+
+- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The most comprehensive treatment of [[Multimedia-Learning|Multimedia Learning Theory]], integrating three decades of experimental research on instructional design. Mayer's theory is explicitly grounded in the mental model framework: his "generative theory of multimedia learning" proposes that learners build verbal models, pictorial models, and an integrated mental model, and that effective instruction supports this construction without overloading working memory channels. Directly relevant to Phase V applications.
+
+- **Hegarty, M., & Just, M. A. (1993). Constructing mental models of machines from text and diagrams. *Journal of Memory and Language*, 32(6), 717–742.**: Key empirical study demonstrating that mechanical reasoning depends on the construction and mental animation of spatial mental models. Readers who received only text were less able to reason about the mechanism than those receiving diagrams — not because the text was inadequate propositionally, but because the text made model construction more effortful. Supports the Phase IV discussion of spatial mental models and mental simulation.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
+
+- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning]].
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
+
+- **Zwaan, R. A., Langston, M. C., & Graesser, A. C. (1995). The construction of situation models in narrative comprehension: An event-indexing model. *Psychological Science*, 6(5), 292–297.**: Introduces the Event Indexing Model, specifying the five dimensions (space, time, causality, intentionality, protagonist) along which situation models are tracked during narrative comprehension. Reports reading-time studies showing that discontinuities along these dimensions slow comprehension — strong evidence that readers actively maintain and update multidimensional situation models.
+
+- **Vosniadou, S., & Brewer, W. F. (1992). Mental models of the earth: A study of conceptual change in childhood. *Cognitive Psychology*, 24(4), 535–585.**: Reports the classic study documenting children's synthetic mental models of the Earth's shape and how these models combine naive perceptual beliefs with partially absorbed scientific information. Essential for the Phase V discussion of science education applications. Demonstrates the coherence and persistence of misconception-as-model and the inadequacy of simple information presentation as a remediation strategy.
+
+- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The most comprehensive treatment of [[Multimedia-Learning|Multimedia Learning Theory]], integrating three decades of experimental research on instructional design. Mayer's theory is explicitly grounded in the mental model framework: his "generative theory of multimedia learning" proposes that learners build verbal models, pictorial models, and an integrated mental model, and that effective instruction supports this construction without overloading working memory channels. Directly relevant to Phase V applications.
+
+- **Hegarty, M., & Just, M. A. (1993). Constructing mental models of machines from text and diagrams. *Journal of Memory and Language*, 32(6), 717–742.**: Key empirical study demonstrating that mechanical reasoning depends on the construction and mental animation of spatial mental models. Readers who received only text were less able to reason about the mechanism than those receiving diagrams — not because the text was inadequate propositionally, but because the text made model construction more effortful. Supports the Phase IV discussion of spatial mental models and mental simulation.
+
+- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Cambridge University Press.**: The foundational text establishing [[Mental-Models-Theory|Mental Models Theory]] in its comprehensive form. Johnson-Laird develops the distinction between propositional representations, mental models, and mental images; proposes the three-stage inference cycle; demonstrates the model-multiplicity account of syllogistic reasoning difficulty; and extends the framework to spatial, relational, and modal reasoning. Essential primary reading for any serious engagement with the theory. Readers approaching without background in logic or cognitive science should be prepared for technical density in chapters 3–6.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: Comprehensive experimental and theoretical treatment of deductive reasoning from the mental models perspective. Reports the systematic studies of all 64 syllogistic figures, proposes the principle of truth, and develops the computational model in detail. A key reference for the empirical evidence supporting MMT over mental logic alternatives.
+
+- **Johnson-Laird, P. N., & Byrne, R. M. J. (2002). Conditionals: A theory of meaning, pragmatics, and inference. *Psychological Review*, 109(4), 646–678.**: Develops the application of the principle of truth to conditional ("if-then") reasoning — one of the most contested domains in the reasoning literature. The paper demonstrates how the principle predicts specific error patterns in conditional inference and engages directly with mental logic alternatives. Supports the Phase III discussion of the theoretical landscape and the Principle of Truth.
+
+- **Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.**: Extends MMT to counterfactual reasoning, developing the claim that people represent both the actual and the imagined alternative when thinking counterfactually. Contains extensive empirical support for the dual-model account of counterfactual cognition. Important for the Phase IV discussion of counterfactual mechanisms and for the planned expansion node on [[Counterfactual-Reasoning|Counterfactual Reasoning]].
+
+- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review*, 95(2), 163–182.**: Proposes the Construction-Integration model of discourse comprehension and introduces the situation model as the deepest level of text representation. Foundational for the extension of MMT to comprehension and for the planned expansion node on [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]. Kintsch's distinction among surface form, text-base, and situation model has become standard in discourse psychology.
+
+- **Zwaan, R. A., Langston, M. C., & Graesser, A. C. (1995). The construction of situation models in narrative comprehension: An event-indexing model. *Psychological Science*, 6(5), 292–297.**: Introduces the Event Indexing Model, specifying the five dimensions (space, time, causality, intentionality, protagonist) along which situation models are tracked during narrative comprehension. Reports reading-time studies showing that discontinuities along these dimensions slow comprehension — strong evidence that readers actively maintain and update multidimensional situation models.
+
+- **Vosniadou, S., & Brewer, W. F. (1992). Mental models of the earth: A study of conceptual change in childhood. *Cognitive Psychology*, 24(4), 535–585.**: Reports the classic study documenting children's synthetic mental models of the Earth's shape and how these models combine naive perceptual beliefs with partially absorbed scientific information. Essential for the Phase V discussion of science education applications. Demonstrates the coherence and persistence of misconception-as-model and the inadequacy of simple information presentation as a remediation strategy.
+
+- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The most comprehensive treatment of [[Multimedia-Learning|Multimedia Learning Theory]], integrating three decades of experimental research on instructional design. Mayer's theory is explicitly grounded in the mental model framework: his "generative theory of multimedia learning" proposes that learners build verbal models, pictorial models, and an integrated mental model, and that effective instruction supports this construction without overloading working memory channels. Directly relevant to Phase V applications.
+
+- **Hegarty, M., & Just, M. A. (1993). Constructing mental models of machines from text and diagrams. *Journal of Memory and Language*, 32(6), 717–742.**: Key empirical study demonstrating that mechanical reasoning depends on the construction and mental animation of spatial mental models. Readers who received only text were less able to reason about the mechanism than those receiving diagrams — not because the text was inadequate propositionally, but because the text made model construction more effortful. Supports the Phase IV discussion of spatial mental models and mental simulation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

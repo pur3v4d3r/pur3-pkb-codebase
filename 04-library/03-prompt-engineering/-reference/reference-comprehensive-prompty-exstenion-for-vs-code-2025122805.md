@@ -1142,7 +1142,7 @@ Common scripting paradigms include event-driven scripting (e.g., JavaScript), pr
 > [!connections-and-links]  
 > **Integration with Cognitive Frameworks**  
 > - [[First Principles]] → enables deconstruction of automation needs  
-> - [[Systems Thinking]] → maps interdependencies between tools  
+> - [[Systems-Thinking]] → maps interdependencies between tools  
 > - [[Second-Order Effects]] → anticipates ripple effects of automation  
 > - [[Constraint Theory]] → identifies bottlenecks in scripting workflows  
 > - [[Mental-Models]] → supports cross-domain transfer  
@@ -1241,7 +1241,7 @@ review-history:
 > **Primary Model Anchors**:  
 > - [[First Principles]] — [Break down automation needs to core functions]  
 > - [[Inversion]] — [What breaks if scripting is misapplied?]  
-> - [[Systems Thinking]] — [Map interdependencies between platforms and tasks]  
+> - [[Systems-Thinking]] — [Map interdependencies between platforms and tasks]  
 
 > **Inverse Application**:  
 > - Can be applied to: [[DevOps]], [[Data Science]]  

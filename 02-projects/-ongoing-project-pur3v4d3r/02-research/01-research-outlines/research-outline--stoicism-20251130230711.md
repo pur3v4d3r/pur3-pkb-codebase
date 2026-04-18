@@ -189,7 +189,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Logos]], [[Stoic Physics]], [[Stoic Logic]], [[Stoic-Ethics]], [[Pneuma]], [[Living According to Nature]], [[Cosmic Determinism]], [[Providence (Stoic)]]
 - Recommended tags: #stoicism #metaphysics #systematic-philosophy #logos #first-principles
-- Connection points: Strong bridge to [[Epistemology]] through Stoic logic; connect to [[Systems Thinking]] principles
+- Connection points: Strong bridge to [[Epistemology]] through Stoic logic; connect to [[Systems-Thinking]] principles
 
 **Prerequisites**: Topic 1 (historical context)
 
@@ -295,7 +295,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. Where do Stoicism and CBT diverge in their goals and methods?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Cognitive-Behavioral-Therapy]], [[Albert Ellis]], [[Aaron Beck]], [[REBT]], [[Cognitive Restructuring]], [[ABC Model (CBT)]], [[Modern Stoicism]], [[Stoic Week]], [[Donald Robertson]]
+- Core concepts to wiki-link: [[Cognitive-Behavioral-Therapy]], [[Albert Ellis]], [[Aaron-Beck]], [[REBT]], [[Cognitive-Restructuring]], [[ABC Model (CBT)]], [[Modern Stoicism]], [[Stoic Week]], [[Donald Robertson]]
 - Recommended tags: #stoicism #cbt #psychology #evidence-based #emotional-regulation
 - Connection points: Strong bridge to [[Cognitive-Science]]; connect to [[Emotional-Regulation]] research; potential link to [[Self-Determination-Theory]] autonomy support
 

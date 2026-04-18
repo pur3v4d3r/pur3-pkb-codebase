@@ -132,7 +132,7 @@ extraction_summary:
 #### 3. [CORE-PRINCIPLE] Untitled *(Line 48)*
 
 > [!core-principle] Untitled
-> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working-Memory|Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical-Thinking|Critical Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.
+> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working-Memory|Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical-Thinking|Critical Thinking]] and the creative flexibility of [[Divergent-Thinking|Divergent Thinking]] without exceeding cognitive capacity limits.
 
 #### 4. [ATOMIC-CONCEPT] Untitled *(Line 57)*
 
@@ -171,7 +171,7 @@ extraction_summary:
 #### 10. [CONNECTIONS-AND-LINKS] Untitled *(Line 115)*
 
 > [!connections-and-links] Untitled
-> The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.
+> The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary-Psychology|Evolutionary Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems-Thinking|Systems Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.
 
 #### 11. [FURTHER-EXPLORATION] Untitled *(Line 118)*
 
@@ -234,10 +234,10 @@ extraction_summary:
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Deliberate-Practice|Deliberate Practice]]
-- [[Divergent Thinking]]
+- [[Divergent-Thinking|Divergent Thinking]]
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Expertise-Development|Expertise Development]]
 - [[Game Theory]]
 - [[Interleaving vs. Blocking]]
@@ -245,7 +245,7 @@ extraction_summary:
 - [[Metacognition]]
 - [[Neuroplasticity]]
 - [[Novice to Expert Continuum]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Working-Memory|Working Memory]]
 
 ### All Occurrences
@@ -263,21 +263,21 @@ extraction_summary:
 | 9 | [[Neuroplasticity]] | — | — | 1\. Define Core Parameters | 38 |
 | 10 | [[Dreyfus Model]] | — | — | 1\. Define Core Parameters | 38 |
 | 11 | [[Critical-Thinking|Critical Thinking]] | — | — | 1\. Define Core Parameters | 38 |
-| 12 | [[Divergent Thinking]] | — | — | 1\. Define Core Parameters | 38 |
+| 12 | [[Divergent-Thinking|Divergent Thinking]] | — | — | 1\. Define Core Parameters | 38 |
 | 13 | [[Neuroplasticity]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 46 |
 | 14 | [[Working-Memory|Working Memory]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
 | 15 | [[Critical-Thinking|Critical Thinking]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
-| 16 | [[Divergent Thinking]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
+| 16 | [[Divergent-Thinking|Divergent Thinking]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
 | 17 | [[Critical-Thinking|Critical Thinking]] | — | — | The Architecture of Acquisition: From... | 59 |
 | 18 | [[Working-Memory|Working Memory]] | — | — | The Architecture of Acquisition: From... | 61 |
 | 19 | [[Andragogy]] | — | — | Andragogy: The Adult Brain in Learnin... | 69 |
 | 20 | [[Critical-Thinking|Critical Thinking]] | — | — | Andragogy: The Adult Brain in Learnin... | 69 |
 | 21 | [[K. Anders Ericsson]] | — | — | The Engine of Mastery: Deliberate Pra... | 75 |
 | 22 | [[Critical-Thinking|Critical Thinking]] | — | — | The Engine of Mastery: Deliberate Pra... | 77 |
-| 23 | [[Divergent Thinking]] | — | — | The Engine of Mastery: Deliberate Pra... | 82 |
+| 23 | [[Divergent-Thinking|Divergent Thinking]] | — | — | The Engine of Mastery: Deliberate Pra... | 82 |
 | 24 | [[Metacognition]] | — | — | Cognitive-Metacognitive Shifts: The E... | 86 |
-| 25 | [[Evolutionary Psychology]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
-| 26 | [[Systems Thinking]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
+| 25 | [[Evolutionary-Psychology|Evolutionary Psychology]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
+| 26 | [[Systems-Thinking|Systems Thinking]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
 | 27 | [[Game Theory]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
 | 28 | [[Interleaving vs. Blocking]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 120 |
 | 29 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 123 |
@@ -358,10 +358,10 @@ $$
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Critical-Thinking|Critical Thinking]]
 - [[Deliberate-Practice|Deliberate Practice]]
-- [[Divergent Thinking]]
+- [[Divergent-Thinking|Divergent Thinking]]
 - [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Expertise-Development|Expertise Development]]
 - [[Game Theory]]
 - [[Interleaving vs. Blocking]]
@@ -369,7 +369,7 @@ $$
 - [[Metacognition]]
 - [[Neuroplasticity]]
 - [[Novice to Expert Continuum]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Working-Memory|Working Memory]]
 
 ---

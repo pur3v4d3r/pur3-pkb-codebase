@@ -158,7 +158,7 @@ extraction_summary:
 > - **Key "Stocks" (The Accumulations):**
 >   	  - **[[Stock of Concrete Experiences]]:** The accumulated reservoir of captured experiences—fleeting notes, journal entries, event descriptions, practice logs, and documented encounters. This stock represents the raw material of learning, the "grist for the mill." In a PKB, this might manifest as **[[Daily-Notes|Daily Notes]]**, **[[Project Logs]]**, or **[[Experience Captures]]**. The size of this stock at any moment represents how much raw experiential data has been preserved for processing.
 >   	  - **[[Stock of Reflective Observations]]:** The accumulated body of reflections on experiences—analysis notes, pattern identifications, emotional responses documented, and comparative observations linking new experiences to previous ones. This stock grows as the learner engages in **[[Reflective-Observation|Reflective Observation]]**, creating notes that examine "what happened" and "what it means." In practice, these are often **[[Literature Notes]]**, **[[Reflection Prompts]]**, or **[[Comparative Analysis Notes]]**.
->   	  - **[[Stock of Abstract Conceptualizations]]:** The accumulated theoretical frameworks, principles, models, and generalized understandings derived from reflections. This represents the **[[Permanent Notes]]** or **[[Atomic Concept Notes]]** in a **[[Zettelkasten]]** system—the distilled wisdom that transcends individual experiences. This is where experiential learning transforms into **[[Portable Knowledge]]** that can be applied across contexts.
+>   	  - **[[Stock of Abstract Conceptualizations]]:** The accumulated theoretical frameworks, principles, models, and generalized understandings derived from reflections. This represents the **[[Permanent-Notes|Permanent Notes]]** or **[[Atomic Concept Notes]]** in a **[[Zettelkasten]]** system—the distilled wisdom that transcends individual experiences. This is where experiential learning transforms into **[[Portable Knowledge]]** that can be applied across contexts.
 >   	  - **[[Stock of Experimental Results]]:** The accumulated evidence from testing conceptual frameworks in practice—documented outcomes of behavior changes, project results, failed experiments, and validated approaches. This stock includes **[[Success Patterns]]**, **[[Failure Post-Mortems]]**, and **[[Practice Logs]]** that close the learning loop by providing concrete feedback on whether abstractions work in reality.
 >   	  - **[[Stock of Structural Knowledge]]:** The accumulated network of connections, **[[Maps-of-Content-—-MOCs|MOCs]]** (**[[Maps-of-Content-—-MOCs|Maps of Content]]**), tags, and links that create the **[[Knowledge-Graph|Knowledge Graph]]**. This meta-stock represents the *organization* and *accessibility* of knowledge—how findable and combinable the other stocks are.
 
@@ -231,7 +231,7 @@ extraction_summary:
 
 > [!example] Untitled
 > - **Balancing Loop 2: [[The Ego-Protection Loop]]**
->   	  - **How it Works:** When you engage in **[[Active-Experimentation|Active Experimentation]]**—testing your conceptual frameworks in reality—you risk discovering that your understanding was wrong. Failed experiments create **[[cognitive-dissonance|Cognitive Dissonance]]** and threaten **[[Self-Concept]]** as a competent learner. This discomfort reduces willingness to experiment, which reduces the **[[Experimentation Frequency Rate]]**, which means fewer tests of your abstractions. The system balances around a "safe" level of experimentation that protects ego but slows learning: **More Failed Experiments → Increased Ego Threat → Reduced Experimentation Willingness → Fewer Failed Experiments (but also less learning)**.
+>   	  - **How it Works:** When you engage in **[[Active-Experimentation|Active Experimentation]]**—testing your conceptual frameworks in reality—you risk discovering that your understanding was wrong. Failed experiments create **[[Cognitive-Dissonance|Cognitive Dissonance]]** and threaten **[[Self-Concept]]** as a competent learner. This discomfort reduces willingness to experiment, which reduces the **[[Experimentation Frequency Rate]]**, which means fewer tests of your abstractions. The system balances around a "safe" level of experimentation that protects ego but slows learning: **More Failed Experiments → Increased Ego Threat → Reduced Experimentation Willingness → Fewer Failed Experiments (but also less learning)**.
 >   	  - **Its Behavior:** This loop maintains psychological comfort at the expense of accelerated learning. It's why many PKBs become repositories of *untested* theories—beautiful conceptual frameworks that have never faced the crucible of reality. The system remains in equilibrium, but it's the equilibrium of a closed system, not a learning system.
 >   	  - **Systems Insight:** Changing this loop requires interventions at the paradigm level—reframing failure as **[[Valuable Negative Information]]** and building a **[[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]** culture within your own practice. **[[Failure Logging]]** as an explicit practice in your PKB can transform this loop from a learning constraint into a learning accelerator.
 
@@ -428,7 +428,7 @@ extraction_summary:
 - [[Capture Friction]]
 - [[Capture Trap]]
 - [[Causal Loop Diagrams]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Cognitive Energy Available]]
 - [[Cognitive Load Management]]
 - [[Cognitive Load Regulation]]
@@ -520,7 +520,7 @@ extraction_summary:
 - [[Novel Insights]]
 - [[PKB]]
 - [[Parameter Change]]
-- [[Permanent Notes]]
+- [[Permanent-Notes|Permanent Notes]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personalized Epistemology]]
 - [[Personalized Epistemology Development]]
@@ -630,7 +630,7 @@ extraction_summary:
 | 35 | [[Reflection Prompts]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 36 | [[Comparative Analysis Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 37 | [[Stock of Abstract Conceptualizations]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 58 |
-| 38 | [[Permanent Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 58 |
+| 38 | [[Permanent-Notes|Permanent Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 58 |
 | 39 | [[Atomic Concept Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 58 |
 | 40 | [[Zettelkasten]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 58 |
 | 41 | [[Portable Knowledge]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 58 |
@@ -697,7 +697,7 @@ extraction_summary:
 | 102 | [[Batch Processing Rituals]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 115 |
 | 103 | [[The Ego-Protection Loop]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 118 |
 | 104 | [[Active-Experimentation|Active Experimentation]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
-| 105 | [[cognitive-dissonance|Cognitive Dissonance]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
+| 105 | [[Cognitive-Dissonance|Cognitive Dissonance]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
 | 106 | [[Self-Concept]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
 | 107 | [[Experimentation Frequency Rate]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
 | 108 | [[Valuable Negative Information]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 121 |
@@ -922,7 +922,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Capture Friction]]
 - [[Capture Trap]]
 - [[Causal Loop Diagrams]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Cognitive Energy Available]]
 - [[Cognitive Load Management]]
 - [[Cognitive Load Regulation]]
@@ -1014,7 +1014,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Novel Insights]]
 - [[PKB]]
 - [[Parameter Change]]
-- [[Permanent Notes]]
+- [[Permanent-Notes|Permanent Notes]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personalized Epistemology]]
 - [[Personalized Epistemology Development]]

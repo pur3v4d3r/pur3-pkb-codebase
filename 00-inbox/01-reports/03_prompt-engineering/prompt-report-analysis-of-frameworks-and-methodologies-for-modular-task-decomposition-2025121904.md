@@ -106,13 +106,13 @@ modified: 2025-12-19
 status: evergreen
 certainty: confident
 type: reference
-related: [[Cognitive-Load-Theory]], [[Chain of Thought Reasoning]], [[Large-Language-Models]], [[Instructional-Design]], [[Human-Computer Interaction]]
+related: [[Cognitive-Load-Theory]], [[Chain of Thought Reasoning]], [[Large-Language-Models]], [[Instructional-Design]], [[Human-Computer-Interaction]]
 - --
 
 # 📚 A Comprehensive Analysis of Theoretical Frameworks and Practical Methodologies for Modular Task Decomposition in Sequential Prompt Engineering to Facilitate High-Fidelity Long-Form Document Generation
 
 > [!abstract] Executive Overview
-> This comprehensive reference document synthesizes cutting-edge research from 2023-2025 on <span style='color: #FFC700;'>**modular task decomposition**</span> as applied to <span style='color: #FFC700;'>**sequential prompt engineering**</span> for <span style='color: #FFC700;'>**high-fidelity long-form document generation**</span>. Drawing from [[Cognitive-Load-Theory]], [[Human-Computer Interaction]] principles, and recent advances in [[Large Language Model]] optimization, this analysis explores how breaking complex cognitive tasks into manageable sub-components fundamentally transforms the quality, reliability, and scalability of AI-generated content. The document examines both theoretical underpinnings---rooted in [[Working-Memory]] constraints and [[Schema-Theory]]---and practical implementations including [[Decomposed Prompting]], [[Chain-of-Thought]], [[Tree-of-Thoughts]], and emerging [[Modular Prompt Architecture]] methodologies.
+> This comprehensive reference document synthesizes cutting-edge research from 2023-2025 on <span style='color: #FFC700;'>**modular task decomposition**</span> as applied to <span style='color: #FFC700;'>**sequential prompt engineering**</span> for <span style='color: #FFC700;'>**high-fidelity long-form document generation**</span>. Drawing from [[Cognitive-Load-Theory]], [[Human-Computer-Interaction]] principles, and recent advances in [[Large Language Model]] optimization, this analysis explores how breaking complex cognitive tasks into manageable sub-components fundamentally transforms the quality, reliability, and scalability of AI-generated content. The document examines both theoretical underpinnings---rooted in [[Working-Memory]] constraints and [[Schema-Theory]]---and practical implementations including [[Decomposed Prompting]], [[Chain-of-Thought]], [[Tree-of-Thoughts]], and emerging [[Modular Prompt Architecture]] methodologies.
 
 ## 🎯 The Fundamental Problem: Complexity, Coherence, and Cognitive Constraints
 
@@ -593,10 +593,10 @@ The synthesis of cognitive-theoretical foundations with practical methodological
 
 ### 4. **[[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]]**
 * *Connection:** This document focuses on technical implementation of modular systems but only implicitly addresses how *humans* interact with such systems---specifying decompositions, providing sub-task guidance, reviewing intermediate outputs, and iterating on module design.
-* *Depth Potential:** Drawing from [[Human-Computer Interaction]] research on explainability, controllability, and mixed-initiative systems could yield design principles for interfaces that make modular prompt engineering accessible to non-experts while providing sophisticated control for power users.
+* *Depth Potential:** Drawing from [[Human-Computer-Interaction]] research on explainability, controllability, and mixed-initiative systems could yield design principles for interfaces that make modular prompt engineering accessible to non-experts while providing sophisticated control for power users.
 * *Knowledge Graph Role:** Bridge between prompt engineering and HCI/UX design, extending the document's technical focus into user-facing application contexts.
 * *Priority:** Medium - Essential for widespread adoption but less theoretically fundamental than cognitive/architectural topics.
-* *Prerequisites:** [[Human-Computer Interaction]], [[Explainable AI]], [[Mixed-Initiative Systems]]
+* *Prerequisites:** [[Human-Computer-Interaction]], [[Explainable AI]], [[Mixed-Initiative Systems]]
 
 ## Advanced Deep Dives
 

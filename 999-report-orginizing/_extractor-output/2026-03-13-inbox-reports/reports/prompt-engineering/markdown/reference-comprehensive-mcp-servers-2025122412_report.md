@@ -121,7 +121,7 @@ extraction_summary:
       - #### 1. **[[FastMCP-Development-Guide|FastMCP Development Guide]]**
       - #### 2. **[[MCP-Security-Hardening|MCP Security Hardening]]**
     - ### Cross-Domain Connections
-      - #### 3. **[[AI-Augmented Zettelkasten]]**
+      - #### 3. **[[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]**
       - #### 4. **[[Prompt Engineering Version Control]]**
     - ### Advanced Deep Dives
       - #### 5. **[[MCP Transport Layer Internals]]** *[Requires prerequisites]*
@@ -1217,7 +1217,7 @@ extraction_summary:
 - [[AI Agent Gateway]]
 - [[AI Agent Orchestration]]
 - [[AI-Agents|AI Agents]]
-- [[AI-Augmented Zettelkasten]]
+- [[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]
 - [[AI-PKB-Integration|AI-PKB Integration]]
 - [[API-Design-Patterns|API Design Patterns]]
 - [[API-Fundamentals|API Fundamentals]]
@@ -1258,7 +1258,7 @@ extraction_summary:
 - [[MCP-Servers|MCP Servers]]
 - [[MCP-Tools|MCP Tools]]
 - [[MCP Transport Layer Internals]]
-- [[Network Security Basics]]
+- [[Network-Security-Basics|Network Security Basics]]
 - [[Node.js]]
 - [[Obsidian]]
 - [[Obsidian-Automation|Obsidian Automation]]
@@ -1332,12 +1332,12 @@ extraction_summary:
 | 45 | [[Async-Programming|Async Programming]] | — | — | 1. **[[FastMCP-Development-Guide|FastMCP Development Guide]]** | 1071 |
 | 46 | [[MCP-Security-Hardening|MCP Security Hardening]] | — | — | 2. **[[MCP-Security-Hardening|MCP Security Hardening]]** | 1073 |
 | 47 | [[Docker-Fundamentals|Docker Fundamentals]] | — | — | 2. **[[MCP-Security-Hardening|MCP Security Hardening]]** | 1078 |
-| 48 | [[Network Security Basics]] | — | — | 2. **[[MCP-Security-Hardening|MCP Security Hardening]]** | 1078 |
-| 49 | [[AI-Augmented Zettelkasten]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1082 |
-| 50 | [[Zettelkasten]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1085 |
-| 51 | [[AI-Agent-Architecture|AI Agent Architecture]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1085 |
-| 52 | [[Zettelkasten Methodology]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1087 |
-| 53 | [[MCP-Servers|MCP Servers]] | — | — | 3. **[[AI-Augmented Zettelkasten]]** | 1087 |
+| 48 | [[Network-Security-Basics|Network Security Basics]] | — | — | 2. **[[MCP-Security-Hardening|MCP Security Hardening]]** | 1078 |
+| 49 | [[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]] | — | — | 3. **[[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]** | 1082 |
+| 50 | [[Zettelkasten]] | — | — | 3. **[[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]** | 1085 |
+| 51 | [[AI-Agent-Architecture|AI Agent Architecture]] | — | — | 3. **[[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]** | 1085 |
+| 52 | [[Zettelkasten Methodology]] | — | — | 3. **[[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]** | 1087 |
+| 53 | [[MCP-Servers|MCP Servers]] | — | — | 3. **[[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]** | 1087 |
 | 54 | [[Prompt Engineering Version Control]] | — | — | 4. **[[Prompt Engineering Version Con... | 1089 |
 | 55 | [[Prompt-Engineering|Prompt Engineering]] | — | — | 4. **[[Prompt Engineering Version Con... | 1092 |
 | 56 | [[DevOps Practices]] | — | — | 4. **[[Prompt Engineering Version Con... | 1092 |
@@ -2378,7 +2378,7 @@ graph LR
 - [[AI Agent Gateway]]
 - [[AI Agent Orchestration]]
 - [[AI-Agents|AI Agents]]
-- [[AI-Augmented Zettelkasten]]
+- [[AI-Augmented-Zettelkasten|AI-Augmented Zettelkasten]]
 - [[AI-PKB-Integration|AI-PKB Integration]]
 - [[API-Design-Patterns|API Design Patterns]]
 - [[API-Fundamentals|API Fundamentals]]
@@ -2419,7 +2419,7 @@ graph LR
 - [[MCP-Servers|MCP Servers]]
 - [[MCP-Tools|MCP Tools]]
 - [[MCP Transport Layer Internals]]
-- [[Network Security Basics]]
+- [[Network-Security-Basics|Network Security Basics]]
 - [[Node.js]]
 - [[Obsidian]]
 - [[Obsidian-Automation|Obsidian Automation]]

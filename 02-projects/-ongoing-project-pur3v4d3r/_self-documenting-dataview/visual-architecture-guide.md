@@ -78,7 +78,7 @@ sequenceDiagram
     
     U->>A: Create application note
     U->>A: Add metadata fields
-    U->>A: Link to [[Concept]]
+    U->>A: Link to [[concept]]
     A->>A: Save file
     
     Note over C,D: Automatic process (no manual action)
@@ -538,7 +538,7 @@ graph TD
     A[Problem Detected] --> B{What's the Issue?}
     
     B -->|Application Not<br/>in Query| C{Is Concept<br/>Linked?}
-    C -->|No| C1[Add [[Concept]] Link]
+    C -->|No| C1[Add [[concept]] Link]
     C -->|Yes| C2{Is Path<br/>Correct?}
     C2 -->|No| C3[Fix FROM Path]
     C2 -->|Yes| C4{Are Field<br/>Names Right?}

@@ -1224,7 +1224,7 @@ Each document must include **self-contained introductions** to core concepts whi
 > emphasizes empirical testing of ideas, flexible adaptation based on outcomes, 
 > and focus on "what works" rather than abstract ideals.
 >
-> **Cognitive Grounding**: Pragmatism aligns with [[reinforcement learning]] 
+> **Cognitive Grounding**: Pragmatism aligns with [[Reinforcement-Learning]] 
 > mechanisms in the brain, where actions are evaluated based on reward 
 > prediction errors (RPEs) mediated by dopaminergic pathways.
 ```
@@ -1894,9 +1894,9 @@ Before generating ANY document, confirm:
 
 **Tier 3: Cognitive Science Concepts** (as relevant)
 - Neural structures: `[[prefrontal-cortex]]`, `[[Amygdala]]`, `[[Hippocampus]]`
-- Neurotransmitters: `[[dopamine]]`, `[[serotonin]]`, `[[cortisol]]`
+- Neurotransmitters: `[[Dopamine]]`, `[[serotonin]]`, `[[cortisol]]`
 - Models: `[[Dual-Process-Theory]]`, `[[Working-Memory]]`, `[[Predictive-Processing]]`
-- Processes: `[[Cognitive-Reappraisal]]`, `[[reinforcement learning]]`, `[[schema formation]]`
+- Processes: `[[Cognitive-Reappraisal]]`, `[[Reinforcement-Learning]]`, `[[Schema-Formation]]`
 
 **Tier 4: Philosophical Figures** (historical context)
 - `[[Charles-Sanders-Peirce]]`, `[[William-James]]`, `[[John-Dewey]]`
@@ -1972,7 +1972,7 @@ Each document should generate **4-6 new potential topics** for PKB expansion:
 > [!insight] **Updated Understanding**
 > 
 > In [[Report 2: Cognitive Science Foundations]], we discussed the role of 
-> [[dopamine]] in reward processing. Recent meta-analyses (Smith et al., 2023) 
+> [[Dopamine]] in reward processing. Recent meta-analyses (Smith et al., 2023) 
 > have refined this understanding, showing that dopamine functions more as a 
 > "prediction error signal" than a simple "reward signal." This updated 
 > framework better aligns with the [[Pragmatic Decision-Making]] emphasis on 
@@ -2236,11 +2236,11 @@ Now, let me create the **comprehensive development checklist** for tracking your
 - [ ] [[prefrontal-cortex]]
 - [ ] [[Amygdala]]
 - [ ] [[Hippocampus]]
-- [ ] [[dopamine]]
+- [ ] [[Dopamine]]
 - [ ] [[Dual-Process-Theory]]
 - [ ] [[Working-Memory]]
 - [ ] [[Cognitive-Reappraisal]]
-- [ ] [[reinforcement learning]]
+- [ ] [[Reinforcement-Learning]]
 - [ ] [[Predictive-Processing]]
 - [ ] [[Metacognition]]
 
@@ -2768,7 +2768,7 @@ This alignment creates what we term the **Layered Model**—a hierarchical yet i
 > 
 > **Core Question**: "What works in practice?"
 > 
-> **Neural Substrate**: Pragmatism aligns with [[reinforcement learning]] mechanisms in the [[Ventromedial-Prefrontal-Cortex]] and [[Striatum]], where actions are evaluated based on [[reward prediction errors]] mediated by [[dopaminergic pathways]]. The [[dorsolateral prefrontal cortex]] supports the planning and execution of pragmatic experiments, while [[orbitofrontal cortex]] integrates outcome feedback to update action policies.
+> **Neural Substrate**: Pragmatism aligns with [[Reinforcement-Learning]] mechanisms in the [[Ventromedial-Prefrontal-Cortex]] and [[Striatum]], where actions are evaluated based on [[reward prediction errors]] mediated by [[dopaminergic pathways]]. The [[dorsolateral prefrontal cortex]] supports the planning and execution of pragmatic experiments, while [[orbitofrontal cortex]] integrates outcome feedback to update action policies.
 
 The neurocognitive grounding for Pragmatism's domain assignment emerges from research on decision-making neural architecture. Studies by Koechlin and colleagues demonstrate that the [[lateral prefrontal cortex]] specifically encodes action-outcome contingencies and supports flexible rule-based action selection—precisely the cognitive operations emphasized by pragmatic philosophy. The pragmatic maxim—"consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have"—directly parallels how the brain's [[dorsolateral prefrontal cortex]] evaluates potential action sequences by simulating their consequences through [[Mental-Models]].
 
@@ -2814,7 +2814,7 @@ The cognitive architecture of critical thinking also involves [[posterior pariet
 
 > [!definition] **Constructivism**
 > 
-> [[Constructivism]] encompasses both an epistemological position and a learning theory holding that knowledge is actively constructed by individuals through interaction with their environment rather than passively received as objective truth. The tradition emerged primarily through [[Jean-Piaget]]'s theory of [[cognitive development]] emphasizing [[Assimilation]] and [[Accommodation]] of experiences into cognitive [[schemas]], and [[Lev-Vygotsky]]'s [[sociocultural theory]] highlighting the role of social interaction and cultural tools in cognitive development. Constructivism maintains that learning occurs through the progressive reorganization of mental frameworks as individuals integrate new experiences with prior knowledge.
+> [[Constructivism]] encompasses both an epistemological position and a learning theory holding that knowledge is actively constructed by individuals through interaction with their environment rather than passively received as objective truth. The tradition emerged primarily through [[Jean-Piaget]]'s theory of [[Cognitive-Development]] emphasizing [[Assimilation]] and [[Accommodation]] of experiences into cognitive [[schemas]], and [[Lev-Vygotsky]]'s [[sociocultural theory]] highlighting the role of social interaction and cultural tools in cognitive development. Constructivism maintains that learning occurs through the progressive reorganization of mental frameworks as individuals integrate new experiences with prior knowledge.
 > 
 > **Cognitive Domain Focus**: [[Knowledge Building]] and [[Learning]]
 > 
@@ -3149,7 +3149,7 @@ Before exploring specific cognitive mechanisms, understanding the methodological
 >
 > **Lesion Studies** examine cognitive function in patients with brain damage from stroke, trauma, or neurosurgical intervention. Classical neuropsychology established many fundamental principles about brain organization through careful documentation of how specific brain injuries affect cognition and behavior. For example, damage to the ventromedial prefrontal cortex impairs decision-making while preserving general intelligence—a finding that illuminates the specialized role of this region in integrating emotional information into choices, relevant to both [[pragmatism]] and [[Stoicism]].
 >
-> **Computational Modeling** translates verbal theories into mathematical frameworks that generate testable predictions. [[Reinforcement learning]] models, for instance, formalize how organisms learn from rewards and punishments through equations describing value updating and action selection. When these models accurately predict both behavioral choices and neural activity patterns (as measured through fMRI), they provide strong evidence that the brain implements similar computational principles—establishing a mechanistic bridge between abstract theory and biological implementation.
+> **Computational Modeling** translates verbal theories into mathematical frameworks that generate testable predictions. [[Reinforcement-Learning]] models, for instance, formalize how organisms learn from rewards and punishments through equations describing value updating and action selection. When these models accurately predict both behavioral choices and neural activity patterns (as measured through fMRI), they provide strong evidence that the brain implements similar computational principles—establishing a mechanistic bridge between abstract theory and biological implementation.
 
 > [!analogy] **Tier 2: Understanding Research Methods**
 > 
@@ -3203,7 +3203,7 @@ The human brain is organized into hierarchical systems that process information 
 
 > [!evidence] **Tier 1: Basal Ganglia and Reinforcement Learning**
 > 
-> The [[Basal-Ganglia]], a collection of subcortical nuclei including the striatum and substantia nigra, implement [[reinforcement learning]]—the computational process of learning which actions lead to rewarding outcomes. This system is fundamental to [[pragmatism]]'s emphasis on learning from consequences. The basal ganglia receive dopaminergic projections from the midbrain that signal [[reward prediction errors]] (RPEs)—the difference between expected and actual rewards (Schultz, 1998).
+> The [[Basal-Ganglia]], a collection of subcortical nuclei including the striatum and substantia nigra, implement [[Reinforcement-Learning]]—the computational process of learning which actions lead to rewarding outcomes. This system is fundamental to [[pragmatism]]'s emphasis on learning from consequences. The basal ganglia receive dopaminergic projections from the midbrain that signal [[reward prediction errors]] (RPEs)—the difference between expected and actual rewards (Schultz, 1998).
 >
 > When an outcome is better than expected (positive RPE), dopamine release increases, strengthening synapses associated with the actions that led to that outcome. When outcomes are worse than expected (negative RPE), dopamine decreases below baseline, weakening those action-outcome associations. This mechanism implements a form of trial-and-error learning remarkably similar to [[pragmatism]]'s philosophical emphasis on testing ideas through action and revising based on results.
 >
@@ -3484,7 +3484,7 @@ This report has established the cognitive science foundation underlying the [[Sy
 ---
 
 **Wiki-Links Introduced in This Report** (Total: 35):
-[[Cognitive-Science]], [[Synthesis Framework]], [[pragmatism]], [[Stoicism]], [[Critical-Thinking]], [[Constructivism]], [[Tier-1]], [[Tier 2]], [[Frederick Bartlett]], [[schemas]], [[Alan Turing]], [[Allen Newell]], [[Herbert-Simon]], [[Noam Chomsky]], [[George-Miller]], [[Working-Memory]], [[cognitive-neuroscience]], [[Michael Gazzaniga]], [[Karl Pribram]], [[Steven Pinker]], [[fMRI]], [[PET]], [[EEG]], [[reinforcement learning]], [[prefrontal-cortex]], [[dlPFC]], [[vmPFC]], [[ACC]], [[Amygdala]], [[Hippocampus]], [[Basal-Ganglia]], [[reward prediction errors]], [[Cognitive-Reappraisal]], [[Dual-Process-Theory]], [[Metacognition]]
+[[Cognitive-Science]], [[Synthesis Framework]], [[pragmatism]], [[Stoicism]], [[Critical-Thinking]], [[Constructivism]], [[Tier-1]], [[Tier 2]], [[Frederick Bartlett]], [[schemas]], [[Alan Turing]], [[Allen Newell]], [[Herbert-Simon]], [[Noam Chomsky]], [[George-Miller]], [[Working-Memory]], [[cognitive-neuroscience]], [[Michael Gazzaniga]], [[Karl Pribram]], [[Steven Pinker]], [[fMRI]], [[PET]], [[EEG]], [[Reinforcement-Learning]], [[prefrontal-cortex]], [[dlPFC]], [[vmPFC]], [[ACC]], [[Amygdala]], [[Hippocampus]], [[Basal-Ganglia]], [[reward prediction errors]], [[Cognitive-Reappraisal]], [[Dual-Process-Theory]], [[Metacognition]]
 
 ---
 
@@ -3609,7 +3609,7 @@ prerequisites:
 related_concepts:
   - "[[pragmatism]]"
   - "[[Decision-Making]]"
-  - "[[reinforcement learning]]"
+  - "[[Reinforcement-Learning]]"
   - "[[reward prediction error]]"
   - "[[Executive-Function]]"
   - "[[Charles-Sanders-Peirce]]"
@@ -3638,7 +3638,7 @@ related_concepts:
 
 > [!abstract]
 > 
-> This report examines [[pragmatism]] as the philosophical pillar of [[Decision-Making]] and action within the [[Synthesis Framework]]. Originating in the intellectual ferment of late nineteenth-century America, Pragmatism offers a distinctive approach to evaluating ideas, beliefs, and strategies: rather than judging them by their correspondence to abstract truth, it evaluates them by their practical consequences and operational utility. Within the [[Layered Model]] that organizes this series, Pragmatism maps directly to the cognitive domain of [[Executive-Function]], behavioral activation, and [[Consequence Evaluation]]—the mental processes that transform intention into effective action. By grounding Pragmatism in the neuroscience of [[reinforcement learning]] and [[reward prediction error]], this report demonstrates that the philosophical imperative to "test ideas through experience" is not merely a rhetorical posture but reflects the fundamental architecture of how the human brain learns from outcomes and adjusts future behavior.
+> This report examines [[pragmatism]] as the philosophical pillar of [[Decision-Making]] and action within the [[Synthesis Framework]]. Originating in the intellectual ferment of late nineteenth-century America, Pragmatism offers a distinctive approach to evaluating ideas, beliefs, and strategies: rather than judging them by their correspondence to abstract truth, it evaluates them by their practical consequences and operational utility. Within the [[Layered Model]] that organizes this series, Pragmatism maps directly to the cognitive domain of [[Executive-Function]], behavioral activation, and [[Consequence Evaluation]]—the mental processes that transform intention into effective action. By grounding Pragmatism in the neuroscience of [[Reinforcement-Learning]] and [[reward prediction error]], this report demonstrates that the philosophical imperative to "test ideas through experience" is not merely a rhetorical posture but reflects the fundamental architecture of how the human brain learns from outcomes and adjusts future behavior.
 
 > [!definition] **Pragmatism**
 > 
@@ -3648,7 +3648,7 @@ related_concepts:
 > 
 > **Core Question**: *"What works in practice?"*
 > 
-> **Cognitive Grounding**: Pragmatism aligns with [[reinforcement learning]] mechanisms in the brain, where actions are evaluated based on [[reward prediction error|reward prediction errors]] (RPEs) mediated by [[dopamine|dopaminergic]] pathways originating in the [[ventral tegmental area]] (VTA).
+> **Cognitive Grounding**: Pragmatism aligns with [[Reinforcement-Learning]] mechanisms in the brain, where actions are evaluated based on [[reward prediction error|reward prediction errors]] (RPEs) mediated by [[Dopamine|dopaminergic]] pathways originating in the [[ventral tegmental area]] (VTA).
 
 > [!connections-and-links] **Series Navigation**
 > 
@@ -3709,17 +3709,17 @@ Dewey also contributed a social dimension largely absent from Peirce's logical a
 
 ## 🧬 Cognitive Science Integration
 
-The pragmatic emphasis on learning through consequences and adjusting behavior based on outcomes finds remarkable validation in the neuroscience of [[reinforcement learning]]—the computational and neural mechanisms by which organisms learn from reward and punishment to optimize future decisions.
+The pragmatic emphasis on learning through consequences and adjusting behavior based on outcomes finds remarkable validation in the neuroscience of [[Reinforcement-Learning]]—the computational and neural mechanisms by which organisms learn from reward and punishment to optimize future decisions.
 
 ### Neural and Cognitive Mechanisms
 
 > [!evidence] **Tier 1: The Dopamine Reward Prediction Error System**
 > 
-> The brain's primary mechanism for pragmatic learning—evaluating outcomes and adjusting behavior—operates through [[dopamine|dopaminergic]] neurons originating in the [[ventral tegmental area]] (VTA) and projecting to the [[Striatum]], [[prefrontal-cortex]], and [[Amygdala]]. In a landmark series of experiments, Wolfram Schultz and colleagues demonstrated that these neurons do not simply signal the occurrence of rewards. Instead, they encode [[reward prediction error|reward prediction errors]] (RPEs): the difference between expected and received outcomes (Schultz, Dayan, & Montague, 1997).
+> The brain's primary mechanism for pragmatic learning—evaluating outcomes and adjusting behavior—operates through [[Dopamine|dopaminergic]] neurons originating in the [[ventral tegmental area]] (VTA) and projecting to the [[Striatum]], [[prefrontal-cortex]], and [[Amygdala]]. In a landmark series of experiments, Wolfram Schultz and colleagues demonstrated that these neurons do not simply signal the occurrence of rewards. Instead, they encode [[reward prediction error|reward prediction errors]] (RPEs): the difference between expected and received outcomes (Schultz, Dayan, & Montague, 1997).
 > 
 > The RPE signal operates with elegant computational logic. When an outcome exceeds expectations (positive prediction error), dopamine neurons fire in bursts, strengthening the behavioral pathways that led to the reward. When an outcome matches expectations precisely, the neurons maintain baseline activity—the situation is already "known" and no learning is required. When an outcome falls below expectations (negative prediction error), dopamine activity is suppressed below baseline, weakening the associated behavioral patterns (Schultz, 2016).
 > 
-> This three-part response pattern corresponds precisely to the [[temporal difference learning]] (TD learning) algorithm in computational [[reinforcement learning]], a derivative of the Rescorla-Wagner model of associative learning. The correspondence between dopaminergic firing patterns and TD prediction errors has been confirmed across species—including humans, monkeys, and rodents—and validated through functional magnetic resonance imaging (fMRI) studies showing analogous RPE signals in the human [[Striatum]] (Dayan & Dolan, 2009; Watabe-Uchida, Eshel, & Bhatt, 2017).
+> This three-part response pattern corresponds precisely to the [[temporal difference learning]] (TD learning) algorithm in computational [[Reinforcement-Learning]], a derivative of the Rescorla-Wagner model of associative learning. The correspondence between dopaminergic firing patterns and TD prediction errors has been confirmed across species—including humans, monkeys, and rodents—and validated through functional magnetic resonance imaging (fMRI) studies showing analogous RPE signals in the human [[Striatum]] (Dayan & Dolan, 2009; Watabe-Uchida, Eshel, & Bhatt, 2017).
 > 
 > The neural circuitry of RPE encompasses multiple brain structures serving complementary functions. The [[Striatum]] directly encodes prediction errors and is critical for habitual learning—the formation of stimulus-response associations through repeated experience. The [[prefrontal-cortex]], particularly the [[dorsolateral prefrontal cortex]] (dlPFC) and orbitofrontal cortex (OFC), enables higher-level decision-making about actions, including the flexible updating of action values and the selection among competing behavioral strategies. The [[Amygdala]] contextualizes reward signals with emotional valence, providing the affective coloring that influences risk assessment and motivational salience (BrainFacts, 2021).
 > 
@@ -3731,7 +3731,7 @@ The pragmatic emphasis on learning through consequences and adjusting behavior b
 
 > [!analogy] **Tier 2: The Brain as a Pragmatic Learning Engine**
 > 
-> Imagine you regularly visit two coffee shops on your way to work. Initially, you try both with equal frequency. Shop A consistently delivers excellent espresso; Shop B is hit-or-miss. Each time Shop A exceeds your expectations, your brain releases a burst of [[dopamine]]—a biological "this worked better than expected" signal. Each time Shop B disappoints, dopamine dips below baseline—a "this didn't work as expected" signal. Over time, these prediction error signals sculpt your habitual behavior: you increasingly choose Shop A without conscious deliberation, because your [[Striatum]] has encoded the accumulated prediction errors into a behavioral preference.
+> Imagine you regularly visit two coffee shops on your way to work. Initially, you try both with equal frequency. Shop A consistently delivers excellent espresso; Shop B is hit-or-miss. Each time Shop A exceeds your expectations, your brain releases a burst of [[Dopamine]]—a biological "this worked better than expected" signal. Each time Shop B disappoints, dopamine dips below baseline—a "this didn't work as expected" signal. Over time, these prediction error signals sculpt your habitual behavior: you increasingly choose Shop A without conscious deliberation, because your [[Striatum]] has encoded the accumulated prediction errors into a behavioral preference.
 > 
 > This is pragmatism operating at the neural level. Your brain does not evaluate the coffee shops based on abstract principles of espresso theory. It evaluates them based on practical outcomes—"what works"—and it continually updates its predictions through experience. The [[prefrontal-cortex]] can override this habitual system when conditions change (Shop A gets a new barista; a colleague recommends Shop C), enabling the kind of flexible, adaptive decision-making that the pragmatic tradition champions.
 > 
@@ -3789,7 +3789,7 @@ The theoretical principles of [[pragmatism]] translate into practical frameworks
 
 Drawing on Dewey's theory of [[inquiry]], the pragmatic approach to decision-making follows a cyclical process that integrates thought and action. This cycle operates through five interconnected phases: (1) recognizing a problematic situation, (2) defining the problem through investigation, (3) generating and evaluating potential solutions by their anticipated consequences, (4) testing selected solutions through action, and (5) reflecting on outcomes to inform future decisions. The cycle is iterative rather than linear—each round of action generates new information that may redefine the problem, suggest new hypotheses, or confirm effective strategies.
 
-This process model reflects the neural architecture described earlier. Phase 1 corresponds to the disruption of prediction—an unexpected outcome or novel situation that generates a prediction error signal demanding attention. Phases 2 and 3 engage [[Executive-Function]] in the [[prefrontal-cortex]], where [[Working-Memory]] holds relevant information and cognitive flexibility generates alternative strategies. Phase 4 produces new experiential data that the [[reinforcement learning]] system encodes through RPE signals. Phase 5 represents [[Metacognition]]—the deliberate reflection on one's own learning processes that the [[Synthesis Framework]] associates with [[Constructivism]] (Report 6).
+This process model reflects the neural architecture described earlier. Phase 1 corresponds to the disruption of prediction—an unexpected outcome or novel situation that generates a prediction error signal demanding attention. Phases 2 and 3 engage [[Executive-Function]] in the [[prefrontal-cortex]], where [[Working-Memory]] holds relevant information and cognitive flexibility generates alternative strategies. Phase 4 produces new experiential data that the [[Reinforcement-Learning]] system encodes through RPE signals. Phase 5 represents [[Metacognition]]—the deliberate reflection on one's own learning processes that the [[Synthesis Framework]] associates with [[Constructivism]] (Report 6).
 
 > [!ask-yourself-this] **Pragmatic Decision Prompts**
 > 
@@ -3813,7 +3813,7 @@ This process model reflects the neural architecture described earlier. Phase 1 c
 > 
 > **Pragmatic Application**: Rather than attempting to resolve the uncertainty through extended deliberation alone, the pragmatic approach prescribes experimental action. The engineer seeks opportunities to take on product-oriented responsibilities within the current role—leading a cross-functional initiative, conducting user research, or collaborating closely with the product team on a feature launch. Each such experiment generates concrete evidence about fit and interest. She establishes explicit criteria for evaluating outcomes ("Did I find the strategic planning energizing or draining?", "Did stakeholder management come naturally or feel like a constant struggle?") and sets a time-bounded evaluation period.
 > 
-> **Cognitive Science Connection**: This approach leverages the brain's [[reinforcement learning]] architecture. Each experimental action produces prediction errors that update the engineer's internal model of her aptitudes and preferences. The explicit evaluation criteria engage [[Executive-Function]], transforming implicit gut feelings into deliberate learning. The time-bounded structure prevents the paralysis that occurs when the prefrontal cortex's evaluative processes operate without experiential input.
+> **Cognitive Science Connection**: This approach leverages the brain's [[Reinforcement-Learning]] architecture. Each experimental action produces prediction errors that update the engineer's internal model of her aptitudes and preferences. The explicit evaluation criteria engage [[Executive-Function]], transforming implicit gut feelings into deliberate learning. The time-bounded structure prevents the paralysis that occurs when the prefrontal cortex's evaluative processes operate without experiential input.
 > 
 > **Outcome Orientation**: After six months of structured experimentation, the engineer possesses far richer evidence than any amount of introspection or advice-seeking could have provided. Her decision—whatever it is—rests on pragmatic foundations: tested hypotheses and observed consequences rather than theoretical speculation.
 
@@ -3831,7 +3831,7 @@ This process model reflects the neural architecture described earlier. Phase 1 c
 > 
 > **Pragmatic Application**: Instead of devising yet another comprehensive fitness plan, the pragmatic approach treats the problem as a domain for iterative experimentation. The individual identifies one small, testable behavior change (a fifteen-minute morning walk) and commits to it for two weeks with explicit attention to what helps and hinders consistency. She tracks not only compliance but also the contextual factors that correlate with success (sleep quality, schedule flexibility, weather, social support) and failure. Based on this evidence, she adjusts the next experiment—perhaps shifting the time, adding a companion, or modifying intensity.
 > 
-> **Cognitive Science Connection**: This iterative approach works with, rather than against, the brain's [[reinforcement learning]] system. Grand plans fail because they demand sustained [[Executive-Function]] engagement that the [[prefrontal-cortex]] cannot maintain against competing demands. Small experiments succeed because they generate positive prediction errors (the walk was more pleasant than expected) that gradually build habitual pathways in the [[Striatum]]. The explicit attention to contextual factors leverages the role of the [[Amygdala]] and hippocampus in contextual memory, creating richer associations that support behavior maintenance.
+> **Cognitive Science Connection**: This iterative approach works with, rather than against, the brain's [[Reinforcement-Learning]] system. Grand plans fail because they demand sustained [[Executive-Function]] engagement that the [[prefrontal-cortex]] cannot maintain against competing demands. Small experiments succeed because they generate positive prediction errors (the walk was more pleasant than expected) that gradually build habitual pathways in the [[Striatum]]. The explicit attention to contextual factors leverages the role of the [[Amygdala]] and hippocampus in contextual memory, creating richer associations that support behavior maintenance.
 
 ---
 
@@ -3889,7 +3889,7 @@ Additionally, pragmatism may underserve situations requiring moral reasoning tha
 
 > [!summary]
 > 
-> [[pragmatism]] occupies a foundational position within the [[Synthesis Framework]] as the philosophical pillar of [[Decision-Making]] and action. Its core commitments—that meaning derives from practical consequences, that ideas must be tested through experience, that beliefs should be held fallibilistically and revised adaptively, and that inquiry is a communal process of iterative problem-solving—provide both a philosophical orientation and an operational methodology for effective decision-making. These commitments are grounded in the neuroscience of [[reinforcement learning]]: the brain's [[dopamine|dopaminergic]] [[reward prediction error]] system implements, at the neural level, the pragmatic cycle of prediction, action, evaluation, and adjustment. Integrated with [[Stoic Emotional Regulation]], [[Critical-Thinking]], and [[Constructivist Learning]], Pragmatism transforms from an isolated philosophical stance into a dynamic component of a comprehensive framework for navigating complexity, uncertainty, and change.
+> [[pragmatism]] occupies a foundational position within the [[Synthesis Framework]] as the philosophical pillar of [[Decision-Making]] and action. Its core commitments—that meaning derives from practical consequences, that ideas must be tested through experience, that beliefs should be held fallibilistically and revised adaptively, and that inquiry is a communal process of iterative problem-solving—provide both a philosophical orientation and an operational methodology for effective decision-making. These commitments are grounded in the neuroscience of [[Reinforcement-Learning]]: the brain's [[Dopamine|dopaminergic]] [[reward prediction error]] system implements, at the neural level, the pragmatic cycle of prediction, action, evaluation, and adjustment. Integrated with [[Stoic Emotional Regulation]], [[Critical-Thinking]], and [[Constructivist Learning]], Pragmatism transforms from an isolated philosophical stance into a dynamic component of a comprehensive framework for navigating complexity, uncertainty, and change.
 
 > [!further-exploration] **Expanding the Knowledge Base**
 
@@ -4200,14 +4200,14 @@ The Roman Stoics translated this theoretical framework into practical methodolog
 > "Choose not to be harmed—and you won't feel harmed. Don't feel harmed—and you haven't been."
 > — **[[Marcus-Aurelius]]**, *Meditations* IV.7
 
-The Stoic intellectual lineage extends beyond antiquity into the modern era through a direct and well-documented line of influence on [[Cognitive-Behavioral-Therapy]]. [[Albert Ellis]], the founder of [[Rational Emotive Behavior Therapy]] (REBT) in the 1950s, explicitly credited [[Epictetus]] as a primary inspiration, stating that the central principles of REBT were "originally discovered and stated" by the Stoics. [[Aaron Beck]], the founder of [[Cognitive Therapy]], similarly acknowledged that the philosophical origins of his approach could be traced to Stoic philosophy, and he quoted [[Marcus-Aurelius]] in his foundational writings. This lineage is not merely historical; it establishes that the empirical validation accumulated by CBT over decades of clinical research constitutes, in significant measure, empirical validation of Stoic psychological principles.
+The Stoic intellectual lineage extends beyond antiquity into the modern era through a direct and well-documented line of influence on [[Cognitive-Behavioral-Therapy]]. [[Albert Ellis]], the founder of [[Rational Emotive Behavior Therapy]] (REBT) in the 1950s, explicitly credited [[Epictetus]] as a primary inspiration, stating that the central principles of REBT were "originally discovered and stated" by the Stoics. [[Aaron-Beck]], the founder of [[Cognitive Therapy]], similarly acknowledged that the philosophical origins of his approach could be traced to Stoic philosophy, and he quoted [[Marcus-Aurelius]] in his foundational writings. This lineage is not merely historical; it establishes that the empirical validation accumulated by CBT over decades of clinical research constitutes, in significant measure, empirical validation of Stoic psychological principles.
 
 
 ## 🧬 Cognitive Science Integration
 
 ### Neural Mechanisms of Cognitive Reappraisal
 
-The Stoic practice of examining and revising one's judgments about events finds its modern neuroscientific counterpart in [[Cognitive-Reappraisal]]—the deliberate reinterpretation of an emotion-eliciting situation in a way that changes its emotional impact. This is among the most extensively studied [[emotion regulation]] strategies in affective neuroscience, and the convergence between its neural mechanisms and Stoic philosophical practice is striking.
+The Stoic practice of examining and revising one's judgments about events finds its modern neuroscientific counterpart in [[Cognitive-Reappraisal]]—the deliberate reinterpretation of an emotion-eliciting situation in a way that changes its emotional impact. This is among the most extensively studied [[Emotion-Regulation]] strategies in affective neuroscience, and the convergence between its neural mechanisms and Stoic philosophical practice is striking.
 
 > [!evidence] **Tier 1: The Prefrontal-Amygdala Regulatory Circuit**
 > 
@@ -4423,7 +4423,7 @@ Additionally, the Stoic approach to [[Emotional-Regulation]] is most effective w
 > [!further-exploration] **Expanding the Knowledge Base**
 
 > [!topic-idea] [[Stoic Influence on Cognitive Behavioral Therapy]]
-> A detailed comparative analysis tracing the direct intellectual lineage from [[Epictetus]] and [[Marcus-Aurelius]] through [[Albert Ellis]]'s REBT and [[Aaron Beck]]'s Cognitive Therapy, examining which specific Stoic techniques survived translation into clinical practice, which were lost, and what the third-wave CBT movement (ACT, DBT) has rediscovered.
+> A detailed comparative analysis tracing the direct intellectual lineage from [[Epictetus]] and [[Marcus-Aurelius]] through [[Albert Ellis]]'s REBT and [[Aaron-Beck]]'s Cognitive Therapy, examining which specific Stoic techniques survived translation into clinical practice, which were lost, and what the third-wave CBT movement (ACT, DBT) has rediscovered.
 
 > [!topic-idea] [[Neuroplasticity and Philosophical Practice]]
 > An investigation of how sustained philosophical practice—including Stoic meditation, journaling, and reflective exercises—produces measurable changes in brain structure and function, drawing on research in [[contemplative neuroscience]] and experience-dependent [[Neuroplasticity]].
@@ -4767,7 +4767,7 @@ The intellectual lineage of critical thinking stretches far deeper than commonly
 
 [[Xenophanes]] deserves particular mention for articulating what may be the earliest recorded instance of epistemic humility combined with critical analysis. He challenged the anthropomorphic theology of his era not through mere assertion but through a recognizable form of [[Argument-Analysis|argument by analogy]]: if horses could draw, they would depict gods as horses; Ethiopians portrayed gods with dark skin while Thracians gave theirs red hair—therefore, human conceptions of the divine reflect human projection rather than divine reality. This is critical reasoning in its most recognizable form: identifying an unexamined assumption, marshaling evidence against it, and proposing an alternative explanation.
 
-[[Socrates]] refined this impulse into a systematic method. The [[Socratic-Method|Socratic method]] of *elenchus*—questioning interlocutors to expose contradictions in their stated beliefs—established the enduring principle that critical examination of ideas through dialogue produces more reliable knowledge than unreflective acceptance. Socrates did not claim to possess truth himself; his method was fundamentally about demonstrating the inadequacy of unreflective conviction. [[Plato]] formalized these dialogues, while [[Aristotle]] transformed the analysis of reasoning into a technical discipline. Aristotle's *Prior Analytics* laid the foundations of [[formal logic]] through the theory of the syllogism, and his *Rhetoric* and *Sophistical Refutations* provided the first systematic catalog of both sound argumentative structures and [[Logical Fallacies|logical fallacies]]—reasoning errors that appear persuasive but contain identifiable structural flaws.
+[[Socrates]] refined this impulse into a systematic method. The [[Socratic-Method|Socratic method]] of *elenchus*—questioning interlocutors to expose contradictions in their stated beliefs—established the enduring principle that critical examination of ideas through dialogue produces more reliable knowledge than unreflective acceptance. Socrates did not claim to possess truth himself; his method was fundamentally about demonstrating the inadequacy of unreflective conviction. [[Plato]] formalized these dialogues, while [[Aristotle]] transformed the analysis of reasoning into a technical discipline. Aristotle's *Prior Analytics* laid the foundations of [[Formal-Logic]] through the theory of the syllogism, and his *Rhetoric* and *Sophistical Refutations* provided the first systematic catalog of both sound argumentative structures and [[Logical Fallacies|logical fallacies]]—reasoning errors that appear persuasive but contain identifiable structural flaws.
 
 > [!quote]
 > "It is the mark of an educated mind to be able to entertain a thought without accepting it."
@@ -4775,7 +4775,7 @@ The intellectual lineage of critical thinking stretches far deeper than commonly
 
 The modern critical thinking movement emerged from a quite specific historical context. The conventional attribution credits [[John-Dewey]] with originating the concept in his 1910 work *How We Think*, but this narrative requires qualification. Dewey's primary term was "[[Reflective-Thinking]]"—a phrase that appeared approximately twenty times in the first edition, while "critical thinking" appeared only twice and was not indexed (Lau, 2024). What Dewey contributed was not the terminology itself but the educational philosophy that systematic thinking could and should be taught as a deliberate skill rather than assumed as an innate capacity. His conception of reflective thought as "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it" remains foundational.
 
-The crystallization of critical thinking as a distinct field occurred in the 1970s and 1980s through the [[informal logic]] movement. [[Robert-Ennis]] published his influential definition in 1962 and refined it over subsequent decades, establishing the framework that most contemporary critical thinking instruction follows. [[Richard-Paul]] made a crucial contribution by distinguishing between "weak-sense" and "strong-sense" critical thinking. Weak-sense critical thinking applies logical tools selectively—finding flaws in opponents' arguments while exempting one's own beliefs from scrutiny. Strong-sense critical thinking, by contrast, requires intellectual courage: the willingness to turn the full apparatus of critical analysis upon one's own most cherished convictions. Paul's distinction illuminates a persistent challenge within the field—the difference between critical thinking as a *skill set* (analyzable, teachable, assessable) and critical thinking as an *intellectual character* (requiring sustained cultivation of dispositions like intellectual humility, fair-mindedness, and epistemic courage).
+The crystallization of critical thinking as a distinct field occurred in the 1970s and 1980s through the [[Informal-Logic]] movement. [[Robert-Ennis]] published his influential definition in 1962 and refined it over subsequent decades, establishing the framework that most contemporary critical thinking instruction follows. [[Richard-Paul]] made a crucial contribution by distinguishing between "weak-sense" and "strong-sense" critical thinking. Weak-sense critical thinking applies logical tools selectively—finding flaws in opponents' arguments while exempting one's own beliefs from scrutiny. Strong-sense critical thinking, by contrast, requires intellectual courage: the willingness to turn the full apparatus of critical analysis upon one's own most cherished convictions. Paul's distinction illuminates a persistent challenge within the field—the difference between critical thinking as a *skill set* (analyzable, teachable, assessable) and critical thinking as an *intellectual character* (requiring sustained cultivation of dispositions like intellectual humility, fair-mindedness, and epistemic courage).
 
 > [!insight]
 > The distinction between weak-sense and strong-sense critical thinking maps directly onto the [[Synthesis Framework]]'s broader architecture. Weak-sense critical thinking operates in isolation—using analytical tools instrumentally. Strong-sense critical thinking requires the emotional regulation provided by [[Stoicism]] (to tolerate discomfort when one's beliefs are challenged), the pragmatic orientation of [[pragmatism]] (to value truth over comfort), and the learning disposition of [[Constructivism]] (to integrate new understanding from the process of self-examination).
@@ -4838,7 +4838,7 @@ The theoretical architecture of critical thinking encompasses several interconne
 
 > [!atomic-concept] **Argument Structure**
 >
-> At the core of [[Argument-Analysis]] lies the recognition that arguments are not merely opinions or assertions—they are structured claims consisting of premises (supporting reasons) and conclusions (the claim being supported). [[Formal logic]], originating with Aristotle's syllogistic theory, provides tools for evaluating whether conclusions follow necessarily from premises—a property called *validity*. [[Informal logic]], developed primarily through the work of the 1970s critical thinking movement, addresses the far more common real-world situation where arguments rely on probability, relevance, and evidential weight rather than deductive certainty. As the Internet Encyclopedia of Philosophy notes, critical thinking employs a wide range of reasoning methods including "formal and informal logic, linguistic analysis, experimental methods of the sciences, historical and textual methods, and philosophical methods, such as Socratic questioning and reasoning by counterexample."
+> At the core of [[Argument-Analysis]] lies the recognition that arguments are not merely opinions or assertions—they are structured claims consisting of premises (supporting reasons) and conclusions (the claim being supported). [[Formal-Logic]], originating with Aristotle's syllogistic theory, provides tools for evaluating whether conclusions follow necessarily from premises—a property called *validity*. [[Informal-Logic]], developed primarily through the work of the 1970s critical thinking movement, addresses the far more common real-world situation where arguments rely on probability, relevance, and evidential weight rather than deductive certainty. As the Internet Encyclopedia of Philosophy notes, critical thinking employs a wide range of reasoning methods including "formal and informal logic, linguistic analysis, experimental methods of the sciences, historical and textual methods, and philosophical methods, such as Socratic questioning and reasoning by counterexample."
 
 A critical thinker evaluates arguments along multiple dimensions. **Deductive validity** asks whether the conclusion follows necessarily from the premises given their logical form. **Inductive strength** asks whether the premises, if true, make the conclusion probable. **Evidential adequacy** asks whether the premises themselves are well-supported. **Relevance** asks whether the premises actually bear on the conclusion rather than constituting a rhetorical distraction. The identification of **enthymemes**—arguments with unstated premises—represents a particularly important skill, since much real-world reasoning relies on assumptions that are never made explicit and therefore never examined.
 
@@ -4976,7 +4976,7 @@ Critical thinking has genuine limitations that an honest assessment must acknowl
 ## 🎯 Phase 8: Synthesis & Continued Learning
 
 > [!summary]
-> Critical thinking occupies a unique position within the [[Synthesis Framework]] as the domain responsible for the *quality* of [[information-processing]] and analysis. Grounded in an intellectual tradition stretching from the [[Presocratics]] through [[Aristotle]], the [[informal logic]] movement, and modern [[Cognitive-Science]], it provides the evaluative mechanisms through which claims, evidence, and arguments are assessed for reliability. The cognitive science of [[Dual-Process-Theory]] reveals that critical thinking is fundamentally an exercise in System 2 oversight of System 1—engaging the [[dorsolateral prefrontal cortex]] and [[anterior cingulate cortex]] to monitor and correct the rapid but bias-prone outputs of automatic processing. [[Cognitive-Biases]] such as [[Confirmation-Bias]], the [[Availability-Heuristic]], and [[Motivated-Reasoning]] represent systematic obstacles to accurate information processing, but their very systematicity means they can be anticipated and counteracted through structured analytical practice. Within the [[Layered Model]], critical thinking provides the analytical foundation upon which [[pragmatism|pragmatic experimentation]], [[Stoicism|stoic resilience]], and [[Constructivism|constructivist learning]] all depend—it is the quality assurance mechanism of the entire framework.
+> Critical thinking occupies a unique position within the [[Synthesis Framework]] as the domain responsible for the *quality* of [[information-processing]] and analysis. Grounded in an intellectual tradition stretching from the [[Presocratics]] through [[Aristotle]], the [[Informal-Logic]] movement, and modern [[Cognitive-Science]], it provides the evaluative mechanisms through which claims, evidence, and arguments are assessed for reliability. The cognitive science of [[Dual-Process-Theory]] reveals that critical thinking is fundamentally an exercise in System 2 oversight of System 1—engaging the [[dorsolateral prefrontal cortex]] and [[anterior cingulate cortex]] to monitor and correct the rapid but bias-prone outputs of automatic processing. [[Cognitive-Biases]] such as [[Confirmation-Bias]], the [[Availability-Heuristic]], and [[Motivated-Reasoning]] represent systematic obstacles to accurate information processing, but their very systematicity means they can be anticipated and counteracted through structured analytical practice. Within the [[Layered Model]], critical thinking provides the analytical foundation upon which [[pragmatism|pragmatic experimentation]], [[Stoicism|stoic resilience]], and [[Constructivism|constructivist learning]] all depend—it is the quality assurance mechanism of the entire framework.
 
 > [!further-exploration] **Expanding the Knowledge Base**
 
@@ -4987,7 +4987,7 @@ Critical thinking has genuine limitations that an honest assessment must acknowl
 > A systematic review of empirically tested techniques for reducing [[Cognitive-Biases]], including consider-the-opposite strategies, pre-mortems, structured analytic techniques from intelligence analysis, and calibration training. This topic would evaluate the evidence base for each technique and identify which biases are most and least amenable to correction.
 
 > [!topic-idea] [[Bayesian Reasoning as a Framework for Evidence Evaluation]]
-> An exploration of how [[Bayes' theorem]] provides a formal framework for updating beliefs in light of new evidence, and how Bayesian reasoning can be taught as a practical critical thinking skill. This topic would bridge [[formal logic]] and [[Evidence Evaluation]], connecting the mathematical framework to everyday reasoning about probability and evidence.
+> An exploration of how [[Bayes' theorem]] provides a formal framework for updating beliefs in light of new evidence, and how Bayesian reasoning can be taught as a practical critical thinking skill. This topic would bridge [[Formal-Logic]] and [[Evidence Evaluation]], connecting the mathematical framework to everyday reasoning about probability and evidence.
 
 > [!topic-idea] [[Epistemic Virtues and Critical Thinking Dispositions]]
 > An investigation into the character traits—intellectual humility, intellectual courage, intellectual empathy, and intellectual integrity—that sustain effective critical thinking practice over time. This topic would connect [[Aristotle]]'s virtue epistemology to contemporary work on critical thinking dispositions by [[Robert-Ennis]], [[Richard-Paul]], and Linda Elder.
@@ -5074,7 +5074,7 @@ Critical thinking has genuine limitations that an honest assessment must acknowl
      [[Logical Fallacies]], [[Cognitive-Biases]], [[Confirmation-Bias]],
      [[Availability-Heuristic]], [[Analytical Reasoning]], [[Evidence Evaluation]],
      [[System-1]], [[System-2]], [[Robert-Ennis]], [[Richard-Paul]],
-     [[informal logic]], [[Presocratics]], [[Xenophanes]], [[formal logic]],
+     [[Informal-Logic]], [[Presocratics]], [[Xenophanes]], [[Formal-Logic]],
      [[Motivated-Reasoning]], [[Anchoring Effect]], [[Dunning-Kruger-Effect]],
      [[correlation]], [[causation]], [[Socratic-Method]], [[Reflective-Thinking]],
      [[Zeno of Elea]], [[dorsal anterior cingulate cortex]],
@@ -5257,7 +5257,7 @@ callout_count: 15
 ## 🎯 Introduction: Constructivism and the Architecture of Understanding
 
 > [!abstract]
-> This report examines [[Constructivism]] as the fourth and final philosophical pillar of the [[Synthesis Framework]], mapping it to the cognitive domain of **Knowledge Building & Learning**. Where [[pragmatism]] guides action through consequence evaluation, [[Stoicism]] cultivates resilience through [[Emotional-Regulation]], and [[Critical-Thinking]] sharpens analysis through rigorous [[information-processing]], Constructivism addresses the foundational question of how human beings build, organize, and transform knowledge itself. Drawing on the work of [[Jean-Piaget]], [[Lev-Vygotsky]], [[Jerome-Bruner]], and contemporary cognitive neuroscience, this report demonstrates that learning is neither the passive reception of transmitted facts nor the simple accumulation of experience, but rather an active, iterative process of constructing mental representations through engagement with the world and with others. Cognitive science research on [[schema formation]], [[Hippocampus|hippocampal]] [[Memory-Consolidation]], and [[Metacognition|metacognitive]] monitoring provides robust empirical grounding for constructivist principles, revealing that the brain is fundamentally an organ of construction rather than storage.
+> This report examines [[Constructivism]] as the fourth and final philosophical pillar of the [[Synthesis Framework]], mapping it to the cognitive domain of **Knowledge Building & Learning**. Where [[pragmatism]] guides action through consequence evaluation, [[Stoicism]] cultivates resilience through [[Emotional-Regulation]], and [[Critical-Thinking]] sharpens analysis through rigorous [[information-processing]], Constructivism addresses the foundational question of how human beings build, organize, and transform knowledge itself. Drawing on the work of [[Jean-Piaget]], [[Lev-Vygotsky]], [[Jerome-Bruner]], and contemporary cognitive neuroscience, this report demonstrates that learning is neither the passive reception of transmitted facts nor the simple accumulation of experience, but rather an active, iterative process of constructing mental representations through engagement with the world and with others. Cognitive science research on [[Schema-Formation]], [[Hippocampus|hippocampal]] [[Memory-Consolidation]], and [[Metacognition|metacognitive]] monitoring provides robust empirical grounding for constructivist principles, revealing that the brain is fundamentally an organ of construction rather than storage.
 
 > [!definition] **Constructivism**
 >
@@ -5267,7 +5267,7 @@ callout_count: 15
 >
 > **Core Question**: *"How do I build understanding from experience?"*
 >
-> **Cognitive Grounding**: Constructivism aligns with [[schema formation]] mechanisms in the [[Hippocampus]] and [[prefrontal-cortex]], where new experiences are encoded in relation to pre-existing neural representations, and with [[Metacognition|metacognitive]] monitoring systems that enable learners to evaluate and regulate their own understanding (Ghosh & Gilboa, 2014; Fleming, 2024).
+> **Cognitive Grounding**: Constructivism aligns with [[Schema-Formation]] mechanisms in the [[Hippocampus]] and [[prefrontal-cortex]], where new experiences are encoded in relation to pre-existing neural representations, and with [[Metacognition|metacognitive]] monitoring systems that enable learners to evaluate and regulate their own understanding (Ghosh & Gilboa, 2014; Fleming, 2024).
 
 > [!the-philosophy] **Foundational Principles of Constructivism**
 >
@@ -5501,7 +5501,7 @@ Constructivism also faces limitations in domains where knowledge is conventional
 
 > [!summary] **Constructivism's Role in the Synthesis Framework**
 >
-> [[Constructivism]] occupies a distinctive position within the [[Synthesis Framework]] as the pillar that addresses how knowledge itself is built, organized, and transformed. While [[pragmatism]] provides the methodology of experimentation and consequence evaluation, [[Stoicism]] provides the emotional resilience to persist through difficulty, and [[Critical-Thinking]] provides the analytical rigor to validate reasoning, Constructivism provides the foundational theory of how these processes generate genuine understanding. The cognitive neuroscience of [[schema formation]], [[Memory-Consolidation]], and [[Metacognition]] confirms that the brain is not a recording device but a construction engine—one that builds, tests, and revises mental models through continuous interaction with experience and social context.
+> [[Constructivism]] occupies a distinctive position within the [[Synthesis Framework]] as the pillar that addresses how knowledge itself is built, organized, and transformed. While [[pragmatism]] provides the methodology of experimentation and consequence evaluation, [[Stoicism]] provides the emotional resilience to persist through difficulty, and [[Critical-Thinking]] provides the analytical rigor to validate reasoning, Constructivism provides the foundational theory of how these processes generate genuine understanding. The cognitive neuroscience of [[Schema-Formation]], [[Memory-Consolidation]], and [[Metacognition]] confirms that the brain is not a recording device but a construction engine—one that builds, tests, and revises mental models through continuous interaction with experience and social context.
 >
 > With the completion of this fourth philosophical pillar, the [[Synthesis Framework]] is now positioned for the integration phase (Report 7), where the patterns of interaction, complementarity, and tension among all four pillars will be examined systematically. The constructivist perspective will be essential to this synthesis, as it provides the meta-framework for understanding how integrated knowledge is itself constructed from the contributions of multiple disciplines.
 

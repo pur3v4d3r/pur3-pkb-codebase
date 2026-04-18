@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -83,11 +83,8 @@ see-also:
   - "[[Locus-of-Control|Locus of Control]]"
   - "[[Amotivation]]"
   - "[[Learned-Helplessness|Learned Helplessness]]"
-  - "[[General-Causality-Orientations-Scale|General Causality Orientations Scale]]"
-  - "[[Locus-of-Control|Locus of Control]]"
   - "[[Attentional-Deployment|Attentional Deployment]]"
   - "[[Selective-Attention|Selective Attention]]"
-  - "[[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]"
   - "[[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -272,6 +269,22 @@ importance: high
 **Related concepts:**
 [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Autonomy-Orientation|Autonomy Orientation]] · [[Control-Orientation|Control Orientation]] · [[Impersonal-Orientation|Impersonal Orientation]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] · [[Locus-of-Control|Locus of Control]] · [[Amotivation]] · [[Learned-Helplessness|Learned Helplessness]] · [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] · [[Locus-of-Control|Locus of Control]] · [[Attentional-Deployment|Attentional Deployment]] · [[Selective-Attention|Selective Attention]] · [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] · [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] · [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]] · [[Learned-Helplessness|Learned Helplessness]] · [[Metacognition-and-Motivation|Metacognition and Motivation]] · [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] · [[Psychological-Need-Satisfaction-and-Developmental-Trajectories|Psychological Need Satisfaction and Developmental Trajectories]] · [[Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface|Autonomy Orientation and Self-Regulated Learning — The Missing Interface]] · [[The-Impersonal-Orientation-—-Learned-Helplessness,-Amotivation,-and-Clinical-Cor|The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]] · [[COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate|COT in Organizational Settings — Managerial Orientation and Motivational Climate]] · [[GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure|GCOS Psychometrics — Measurement Debates and Factor Structure]] · [[COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology|COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
 
+**Related concepts** *(from [[causality-orientations-theory-focused-analysis-2026-03-13]])*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Autonomy-Orientation|Autonomy Orientation]] * [[Control-Orientation|Control Orientation]] * [[Impersonal-Orientation|Impersonal Orientation]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] * [[Locus-of-Control|Locus of Control]] * [[Learned-Helplessness|Learned Helplessness]] * [[Attentional-Deployment|Attentional Deployment]] * [[Selective-Attention|Selective Attention]] * [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] * [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]] * [[Metacognition-and-Motivation|Metacognition and Motivation]] * [[Psychological-Need-Satisfaction-and-Developmental-Trajectories|Psychological Need Satisfaction and Developmental Trajectories]] * [[Autonomy-Orientation-and-Self-Regulated-Learning-—-The-Missing-Interface|Autonomy Orientation and Self-Regulated Learning — The Missing Interface]] * [[The-Impersonal-Orientation-—-Learned-Helplessness,-Amotivation,-and-Clinical-Correlates|The Impersonal Orientation — Learned Helplessness, Amotivation, and Clinical Correlates]] * [[COT-in-Organizational-Settings-—-Managerial-Orientation-and-Motivational-Climate|COT in Organizational Settings — Managerial Orientation and Motivational Climate]] * [[GCOS-Psychometrics-—-Measurement-Debates-and-Factor-Structure|GCOS Psychometrics — Measurement Debates and Factor Structure]] * [[COT-and-Growth-Mindset-—-Convergence-and-Divergence-in-Motivational-Psychology|COT and Growth Mindset — Convergence and Divergence in Motivational Psychology]]
+
+**Cross-report connections** *(from [[causality-orientations-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
+- [[Learned-Helplessness|Learned Helplessness]]
+- [[Metacognition-and-Motivation|Metacognition and Motivation]]
+
+**Cross-report connections** *(from [[causality-orientations-theory-focused-analysis-2026-03-13]])*:
+- [[Learned-Helplessness|Learned-Helplessness]]
+
+
+
+
 ## References
 
 - **Deci, E.L. & Ryan, R.M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
@@ -287,6 +300,72 @@ importance: high
 - **Seligman, M.E.P. (1975). *Helplessness: On Depression, Development, and Death*. W.H. Freeman.**: The foundational text for learned helplessness theory. Essential for understanding the theoretical and empirical backdrop against which COT's impersonal orientation should be understood — the learned helplessness mechanism is the most plausible account of how impersonal orientation develops and operates.
 
 *Citations sourced from [[causality-orientations-theory-focused-analysis-2026-03-13]]*
+
+- **Deci, E.L. & Ryan, R.M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
+
+- **Deci, E.L. & Ryan, R.M. (1985). The General Causality Orientations Scale: Self-determination in personality. *Journal of Research in Personality, 19*(2), 109–134.**: The instrument validation paper for the GCOS. Presents the scale, initial reliability and validity data, and the conceptual rationale for a multidimensional, non-ipsative measurement approach. The source for understanding the measurement architecture and the original evidence for GCOS validity.
+
+- **Williams, G.C., Grow, V.M., Freedman, Z., Ryan, R.M., & Deci, E.L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology, 70*(1), 115–126.**: A landmark application of COT and autonomous motivation to health behavior change. Demonstrates that autonomous orientation (and autonomous motivation for behavior change) predicts better adherence and maintenance than controlled motivation — across a domain (weight loss) where most existing research focused on external incentives. Crucial for understanding how COT extends SDT predictions to real-world health outcomes.
+
+- **Koestner, R., Bernieri, F., & Zuckerman, M. (1992). Self-regulation and consistency between attitudes, traits, and behaviors. *Personality and Social Psychology Bulletin, 18*(1), 52–59.**: Provides evidence for the interpersonal transmission of causality orientations — specifically that control-oriented individuals tend to create more controlling conditions in their interactions with others. This study is important for the cascade mechanism described in Phase IV and for understanding how orientations have organizational and relational effects beyond individual psychology.
+
+- **Hodgins, H.S., Koestner, R., & Duncan, N. (1996). On the compatibility of autonomy and relatedness. *Personality and Social Psychology Bulletin, 22*(3), 227–237.**: Examines the relationship between autonomy orientation and relationship quality, addressing the potential misconception that autonomy orientation implies disconnection from others. Finds that autonomy orientation is associated with higher quality, more genuinely connected relationships — supporting SDT's claim that autonomy and relatedness are complementary rather than competing needs.
+
+- **Chirkov, V., Ryan, R.M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology, 84*(1), 97–110.**: Critical cross-cultural study examining whether autonomy orientation's benefits generalize beyond Western individualist contexts. Finds that autonomous motivation predicts well-being across collectivist and individualist cultures, but that the behavioral expression of autonomy is shaped by cultural context. Important for evaluating the universality claims of SDT and COT.
+
+- **Weinstein, N., Deci, E.L., & Ryan, R.M. (2011). Motivational determinants of integrating positive and negative past identity. *Journal of Personality and Social Psychology, 100*(3), 527–544.**: Examines how causality orientations influence the integration of identity-relevant experiences, including unpleasant information. Autonomy-oriented individuals show greater openness to integrating negative feedback; control-oriented individuals show more defensive processing. Important for understanding COT's implications for learning from failure and for the SRL connection.
+
+- **Guay, F., Mageau, G.A., & Vallerand, R.J. (2003). On the hierarchical structure of self-determined motivation: A test of top-down, bottom-up, recursive, and horizontal effects. *Personality and Social Psychology Bulletin, 29*(8), 992–1004.**: Tests the hierarchical structure of motivation within SDT, showing how global orientations (like those measured by GCOS) influence more contextual and situational motivational processes. Provides evidence for the top-down influence pathway from causality orientations to situation-specific motivation, supporting the dispositional character of orientations.
+
+- **Ryan, R.M. & Deci, E.L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Integrative review of SDT that provides the mature theoretical framework within which COT is situated. Essential for understanding how COT's individual-differences emphasis fits with SDT's broader universalist claims about needs and their effects.
+
+- **Ryan, R.M. & Deci, E.L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The comprehensive theoretical and empirical treatment of SDT in its mature form. Includes updated discussion of COT within the broader SDT framework, addressing accumulated evidence and theoretical refinements since 1985. The authoritative current source for SDT and COT theory.
+
+- **Seligman, M.E.P. (1975). *Helplessness: On Depression, Development, and Death*. W.H. Freeman.**: The foundational text for learned helplessness theory. Essential for understanding the theoretical and empirical backdrop against which COT's impersonal orientation should be understood — the learned helplessness mechanism is the most plausible account of how impersonal orientation develops and operates.
+
+- **Deci, E.L. & Ryan, R.M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum Press.**: The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
+
+- **Deci, E.L. & Ryan, R.M. (1985). The General Causality Orientations Scale: Self-determination in personality. *Journal of Research in Personality, 19*(2), 109–134.**: The instrument validation paper for the GCOS. Presents the scale, initial reliability and validity data, and the conceptual rationale for a multidimensional, non-ipsative measurement approach. The source for understanding the measurement architecture and the original evidence for GCOS validity.
+
+- **Williams, G.C., Grow, V.M., Freedman, Z., Ryan, R.M., & Deci, E.L. (1996). Motivational predictors of weight loss and weight-loss maintenance. *Journal of Personality and Social Psychology, 70*(1), 115–126.**: A landmark application of COT and autonomous motivation to health behavior change. Demonstrates that autonomous orientation (and autonomous motivation for behavior change) predicts better adherence and maintenance than controlled motivation — across a domain (weight loss) where most existing research focused on external incentives. Crucial for understanding how COT extends SDT predictions to real-world health outcomes.
+
+- **Koestner, R., Bernieri, F., & Zuckerman, M. (1992). Self-regulation and consistency between attitudes, traits, and behaviors. *Personality and Social Psychology Bulletin, 18*(1), 52–59.**: Provides evidence for the interpersonal transmission of causality orientations — specifically that control-oriented individuals tend to create more controlling conditions in their interactions with others. This study is important for the cascade mechanism described in Phase IV and for understanding how orientations have organizational and relational effects beyond individual psychology.
+
+- **Hodgins, H.S., Koestner, R., & Duncan, N. (1996). On the compatibility of autonomy and relatedness. *Personality and Social Psychology Bulletin, 22*(3), 227–237.**: Examines the relationship between autonomy orientation and relationship quality, addressing the potential misconception that autonomy orientation implies disconnection from others. Finds that autonomy orientation is associated with higher quality, more genuinely connected relationships — supporting SDT's claim that autonomy and relatedness are complementary rather than competing needs.
+
+- **Chirkov, V., Ryan, R.M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology, 84*(1), 97–110.**: Critical cross-cultural study examining whether autonomy orientation's benefits generalize beyond Western individualist contexts. Finds that autonomous motivation predicts well-being across collectivist and individualist cultures, but that the behavioral expression of autonomy is shaped by cultural context. Important for evaluating the universality claims of SDT and COT.
+
+- **Weinstein, N., Deci, E.L., & Ryan, R.M. (2011). Motivational determinants of integrating positive and negative past identity. *Journal of Personality and Social Psychology, 100*(3), 527–544.**: Examines how causality orientations influence the integration of identity-relevant experiences, including unpleasant information. Autonomy-oriented individuals show greater openness to integrating negative feedback; control-oriented individuals show more defensive processing. Important for understanding COT's implications for learning from failure and for the SRL connection.
+
+- **Guay, F., Mageau, G.A., & Vallerand, R.J. (2003). On the hierarchical structure of self-determined motivation: A test of top-down, bottom-up, recursive, and horizontal effects. *Personality and Social Psychology Bulletin, 29*(8), 992–1004.**: Tests the hierarchical structure of motivation within SDT, showing how global orientations (like those measured by GCOS) influence more contextual and situational motivational processes. Provides evidence for the top-down influence pathway from causality orientations to situation-specific motivation, supporting the dispositional character of orientations.
+
+- **Ryan, R.M. & Deci, E.L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.**: Integrative review of SDT that provides the mature theoretical framework within which COT is situated. Essential for understanding how COT's individual-differences emphasis fits with SDT's broader universalist claims about needs and their effects.
+
+- **Ryan, R.M. & Deci, E.L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press.**: The comprehensive theoretical and empirical treatment of SDT in its mature form. Includes updated discussion of COT within the broader SDT framework, addressing accumulated evidence and theoretical refinements since 1985. The authoritative current source for SDT and COT theory.
+
+- **Seligman, M.E.P. (1975). *Helplessness: On Depression, Development, and Death*. W.H. Freeman.**: The foundational text for learned helplessness theory. Essential for understanding the theoretical and empirical backdrop against which COT's impersonal orientation should be understood — the learned helplessness mechanism is the most plausible account of how impersonal orientation develops and operates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methodology Notes
 

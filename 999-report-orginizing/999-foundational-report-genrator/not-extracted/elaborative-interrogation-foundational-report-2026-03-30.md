@@ -864,7 +864,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 > - What is the central claim in the source that you want to encode? State it in one sentence.
 >
 > **Step 2 — Generate the Node-Integration Question:**
-> - "Why would this be true, given what I already know about [[related PKB node 1]] and [[related PKB node 2]]?"
+> - "Why would this be true, given what I already know about [[related-PKB-node-1|related PKB node 1]] and [[related-PKB-node-2|related PKB node 2]]?"
 >
 > **Step 3 — Generate the Integration Answer:**
 > - Write 3–8 sentences explaining how the novel proposition relates to the existing PKB nodes referenced. This becomes the *primary content of the note*, not the original proposition.

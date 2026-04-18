@@ -513,7 +513,7 @@ A more sophisticated implication is that the format of study practice should sim
 
 A sophisticated reading of the ESP might superficially suggest that learning should always occur in highly stable, controlled environments to maximize encoding-retrieval match. But this conclusion is incomplete. A learner who only encodes material in one context — say, their study room — may develop a narrowly cued trace that can only be retrieved from that one context. For knowledge that needs to be applied flexibly across many contexts, this is a failure mode.
 
-The solution the ESP implies is actually more nuanced: encode across multiple contexts such that the trace is rich in context-independent semantic and procedural attributes, rather than exclusively associated with one context. [[Interleaving]] — studying multiple topics or problem types intermixed rather than in blocks — serves this function in part by forcing the learner to retrieve knowledge across varied encoding contexts. Varied practice, by inducing multiple contextual encodings of the same material, increases the probability that a wide range of future retrieval contexts will find resonant encoded attributes.
+The solution the ESP implies is actually more nuanced: encode across multiple contexts such that the trace is rich in context-independent semantic and procedural attributes, rather than exclusively associated with one context. [[interleaving]] — studying multiple topics or problem types intermixed rather than in blocks — serves this function in part by forcing the learner to retrieve knowledge across varied encoding contexts. Varied practice, by inducing multiple contextual encodings of the same material, increases the probability that a wide range of future retrieval contexts will find resonant encoded attributes.
 
 This is a joint prediction from the ESP and from the [[Desirable-Difficulties]] literature (Bjork & Bjork, 1992; [[Robert-Bjork]]): contextual variability during encoding produces slower initial acquisition but more robust retrieval across diverse test contexts. What appears, mid-learning, to be a performance decrement is actually the construction of a more contextually flexible, multi-attributed trace.
 
@@ -726,7 +726,7 @@ The guiding question posed in the opening Schema Activation section asked whethe
 >
 > **Boundary:** Not all difficulties are desirable. Difficulties that overwhelm processing capacity or produce highly specific encoding without generalizability may reduce rather than enhance learning.
 >
-> **See also:** [[Desirable-Difficulties]], [[Spaced-Repetition]], [[Testing-Effect]], [[Interleaving]], [[Robert-Bjork]]
+> **See also:** [[Desirable-Difficulties]], [[Spaced-Repetition]], [[Testing-Effect]], [[interleaving]], [[Robert-Bjork]]
 
 ---
 

@@ -955,7 +955,7 @@ aliases:
 
 ### Other Methodologies
 - [[PARA-Method]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain]]
 - [[Linking Your Thinking (LYT)]]
 - [[Evergreen Notes Method]]
 - [[Digital Gardening Philosophy]]

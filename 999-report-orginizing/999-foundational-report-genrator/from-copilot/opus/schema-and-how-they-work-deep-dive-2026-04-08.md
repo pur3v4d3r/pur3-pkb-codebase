@@ -2409,7 +2409,7 @@ The following vault wiki-links were cited or implicated in this report, organize
 - [[Scripts-Schank-Abelson]] — Temporal sub-class of schemas
 - [[Prototype-Theory]] — Alternative model of categorical knowledge
 - [[Semantic-Memory]] — Storage substrate for generic schema knowledge
-- [[Knowledge-Representation]] — Broader computational context
+- [[knowledge-representation]] — Broader computational context
 
 **Level 2 — Mechanism**
 - [[Constraint-Satisfaction]] — Computational mechanism of schema activation

@@ -81,5 +81,5 @@ importance: medium
 - [[Synaptic-Consolidation]]
 - [[Systems-Consolidation]]
 - [[Visuospatial-Sketchpad]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]
 - [[🔑-Core-Concept-Definition]]

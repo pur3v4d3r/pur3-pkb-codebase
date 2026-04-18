@@ -1147,7 +1147,7 @@ Meeting: [Topic] - [Date]
 ├─ Attendees
 │  ├─ [[Person-A]]
 │  ├─ [[Person-B]]
-│  └─ [[Person C]]
+│  └─ [[Person-C]]
 ├─ Agenda Items
 │  ├─ Topic 1
 │  │  └─ [Discussion points as you capture them]
@@ -1289,7 +1289,7 @@ Meeting: [Topic] - [Date]
 > - Draw system architecture diagram
 > - Show data flows, APIs, dependencies
 > - Annotate with technical details
-> - Link to mind map: `[[System Architecture Mindmap]]`
+> - Link to mind map: `[[System-Architecture-Mindmap]]`
 > 
 > **Integration Point:**
 > - Create MOC linking both views
@@ -1472,7 +1472,7 @@ Meeting: [Topic] - [Date]
 ### 6. **[[Visual System Modeling & Diagramming]]** *[Requires systems thinking background]*
 **Connection:** Both plugins enable system visualization—this topic explores formal diagramming methodologies (UML, C4, data flow diagrams) and how to implement them in Obsidian.
 **Depth Potential:** Systematic diagram types (sequence diagrams, class diagrams, architecture diagrams), formal notations (UML, BPMN), and best practices for system documentation. Include templates and libraries for each diagram type in both Excalidraw and MarkMind where applicable.
-**Knowledge Graph Role:** Specialized technical node connecting [[Systems Thinking]], [[Software Engineering]], [[Architecture Documentation]] to visual tools. Critical for technical documentation workflows.
+**Knowledge Graph Role:** Specialized technical node connecting [[Systems-Thinking]], [[Software Engineering]], [[Architecture Documentation]] to visual tools. Critical for technical documentation workflows.
 **Priority:** Medium (high for software developers/system architects)
 **Prerequisites:** [[Systems Thinking Basics]], [[Software Architecture Fundamentals]], [[Excalidraw Advanced Features]]
 

@@ -677,7 +677,7 @@ extraction_summary:
 #### Contrasts With
 
 - [[Drive Reduction Theory]]
-- [[Maslow's Hierarchy of Needs]]
+- [[Maslow's-Hierarchy-of-Needs|Maslow's Hierarchy of Needs]]
 - [[Incentive-Based Motivation Models]]
 
 #### Applied In

@@ -36,7 +36,7 @@ related_concepts:
   - "[[Writing-to-Learn|Writing to Learn]]"
   - "[[Self-Explanation-Effect|Self-Explanation Effect]]"
   - "[[Encoding-Specificity|Encoding Specificity]]"
-  - "[[Metacognitive Reflection]]"
+  - "[[Metacognitive-Reflection]]"
   - "[[Learning-Journal|Learning Journal]]"
   - "[[Experience Capture]]"
   - "[[Experience-Processing-Architecture|Experience Processing Architecture]]"
@@ -294,7 +294,7 @@ Understanding why people fail to learn from experience — despite having rich, 
 
 ### Return-and-Deepen: Metacognitive Reflection Revisited
 
-Report 04 introduced [[Metacognitive Reflection]] as the monitoring and control of one's own cognitive processes. With the experiential learning framework now in view, we can see an implication that was not visible before: metacognitive reflection, properly understood, must extend to the management of the entire experiential learning cycle — not merely the monitoring of individual cognitive operations.
+Report 04 introduced [[Metacognitive-Reflection]] as the monitoring and control of one's own cognitive processes. With the experiential learning framework now in view, we can see an implication that was not visible before: metacognitive reflection, properly understood, must extend to the management of the entire experiential learning cycle — not merely the monitoring of individual cognitive operations.
 
 Zimmerman's [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] model (covered in Report 04) identifies a forethought phase, a performance phase, and a self-reflection phase. When this model is mapped onto the Kolb cycle, the correspondence is illuminating: Zimmerman's forethought phase corresponds to Kolb's active experimentation (designing the next experience); Zimmerman's performance phase corresponds to concrete experience; Zimmerman's self-reflection phase encompasses both reflective observation and abstract conceptualization. This structural correspondence reveals that self-regulated learning and experiential learning are describing the same cycle from different vantage points — SRL from the inside (the learner's cognitive management) and ELC from the outside (the observable sequence of learning activities).
 

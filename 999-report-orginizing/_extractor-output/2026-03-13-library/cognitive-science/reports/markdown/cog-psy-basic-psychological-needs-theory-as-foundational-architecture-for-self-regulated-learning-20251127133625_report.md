@@ -334,7 +334,7 @@ extraction_summary:
 - [[Relatedness]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard-Ryan|Richard Ryan]]
-- [[Robert White]]
+- [[Robert-White|Robert White]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]
@@ -375,7 +375,7 @@ extraction_summary:
 | 27 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
 | 28 | [[Behaviorist]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
 | 29 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
-| 30 | [[Robert White]] | — | — | Competence: The Experience of Effectance | 188 |
+| 30 | [[Robert-White|Robert White]] | — | — | Competence: The Experience of Effectance | 188 |
 | 31 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Competence: The Experience of Effectance | 188 |
 | 32 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Competence: The Experience of Effectance | 193 |
 | 33 | [[Metacognitive-strategies|Metacognitive Strategies]] | — | — | Competence: The Experience of Effectance | 193 |
@@ -469,7 +469,7 @@ extraction_summary:
 - [[Relatedness]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard-Ryan|Richard Ryan]]
-- [[Robert White]]
+- [[Robert-White|Robert White]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]

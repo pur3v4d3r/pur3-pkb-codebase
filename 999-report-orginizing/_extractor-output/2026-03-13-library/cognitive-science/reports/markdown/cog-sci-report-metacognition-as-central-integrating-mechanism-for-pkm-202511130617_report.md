@@ -408,12 +408,12 @@ extraction_summary:
 
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Accommodation]]
-- [[Active Learning]]
+- [[Active-Learning|Active Learning]]
 - [[Adaptive Expertise]]
-- [[Allyson Hadwin]]
+- [[Allyson-Hadwin|Allyson Hadwin]]
 - [[Andragogy]]
 - [[Ann-Brown|Ann Brown]]
-- [[Annemarie Palincsar]]
+- [[Annemarie-Palincsar|Annemarie Palincsar]]
 - [[Aristotle]]
 - [[Assimilation]]
 - [[Atomic-Notes|Atomic Notes]]
@@ -457,7 +457,7 @@ extraction_summary:
 - [[K. Anders Ericsson]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Linda-Elder|Linda Elder]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Meriel Goos]]
 - [[Metacognition]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
@@ -493,7 +493,7 @@ extraction_summary:
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
 - [[Stephen-Fleming|Stephen Fleming]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Tiago Forte]]
 - [[Visible Thinking]]
 - [[Vygotsky]]
@@ -539,8 +539,8 @@ extraction_summary:
 | 27 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | The Cognitive Revolution and Flavell'... | 79 |
 | 28 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | The Cognitive Revolution and Flavell'... | 79 |
 | 29 | [[Ann-Brown|Ann Brown]] | — | — | Ann Brown and the Expansion of Metaco... | 87 |
-| 30 | [[Thomas Nelson]] | — | — | The Nelson and Narens Metacognitive F... | 93 |
-| 31 | [[Louis Narens]] | — | — | The Nelson and Narens Metacognitive F... | 93 |
+| 30 | [[Thomas-Nelson|Thomas Nelson]] | — | — | The Nelson and Narens Metacognitive F... | 93 |
+| 31 | [[Louis-Narens|Louis Narens]] | — | — | The Nelson and Narens Metacognitive F... | 93 |
 | 32 | [[Metamemory]] | — | — | The Nelson and Narens Metacognitive F... | 95 |
 | 33 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | Metacognitive Knowledge: The Declarat... | 106 |
 | 34 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Metacognitive Knowledge: The Declarat... | 108 |
@@ -583,10 +583,10 @@ extraction_summary:
 | 71 | [[Paul-Pintrich|Paul Pintrich]] | — | — | Pintrich's Integration of Motivation ... | 280 |
 | 72 | [[Motivated-Strategies-for-Learning-Questionnaire|Motivated Strategies for Learning Questionnaire]] | — | — | Pintrich's Integration of Motivation ... | 282 |
 | 73 | [[Philip-Winne|Philip Winne]] | — | — | Winne and Hadwin's Information Proces... | 288 |
-| 74 | [[Allyson Hadwin]] | — | — | Winne and Hadwin's Information Proces... | 288 |
+| 74 | [[Allyson-Hadwin|Allyson Hadwin]] | — | — | Winne and Hadwin's Information Proces... | 288 |
 | 75 | [[Implementation-Intentions|Implementation Intentions]] | — | — | From Self-Regulated Learning to Self-... | 299 |
 | 76 | [[Habit-Formation|Habit Formation]] | — | — | From Self-Regulated Learning to Self-... | 301 |
-| 77 | [[Active Learning]] | — | — | The Common Metacognitive Core | 314 |
+| 77 | [[Active-Learning|Active Learning]] | — | — | The Common Metacognitive Core | 314 |
 | 78 | [[Obsidian]] | — | — | Practical Implications for Learning S... | 327 |
 | 79 | [[Charlotte Dignath]] | — | — | Meta-Analytic Evidence | 353 |
 | 80 | [[Gerhard Büttner]] | — | — | Meta-Analytic Evidence | 353 |
@@ -599,7 +599,7 @@ extraction_summary:
 | 87 | [[Vygotsky]] | — | — | Intervention Studies | 371 |
 | 88 | [[Visible Thinking]] | — | — | Educational Applications | 384 |
 | 89 | [[Harvard Project Zero]] | — | — | Educational Applications | 384 |
-| 90 | [[Annemarie Palincsar]] | — | — | Educational Applications | 386 |
+| 90 | [[Annemarie-Palincsar|Annemarie Palincsar]] | — | — | Educational Applications | 386 |
 | 91 | [[Ann-Brown|Ann Brown]] | — | — | Educational Applications | 386 |
 | 92 | [[Michelene Chi]] | — | — | Educational Applications | 388 |
 | 93 | [[Obsidian]] | — | — | Personal Knowledge Management Applica... | 395 |
@@ -713,12 +713,12 @@ This requires the full academic report scaffold:
 
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Accommodation]]
-- [[Active Learning]]
+- [[Active-Learning|Active Learning]]
 - [[Adaptive Expertise]]
-- [[Allyson Hadwin]]
+- [[Allyson-Hadwin|Allyson Hadwin]]
 - [[Andragogy]]
 - [[Ann-Brown|Ann Brown]]
-- [[Annemarie Palincsar]]
+- [[Annemarie-Palincsar|Annemarie Palincsar]]
 - [[Aristotle]]
 - [[Assimilation]]
 - [[Atomic-Notes|Atomic Notes]]
@@ -762,7 +762,7 @@ This requires the full academic report scaffold:
 - [[K. Anders Ericsson]]
 - [[Lev-Vygotsky|Lev Vygotsky]]
 - [[Linda-Elder|Linda Elder]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Meriel Goos]]
 - [[Metacognition]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
@@ -798,7 +798,7 @@ This requires the full academic report scaffold:
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
 - [[Stephen-Fleming|Stephen Fleming]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Tiago Forte]]
 - [[Visible Thinking]]
 - [[Vygotsky]]

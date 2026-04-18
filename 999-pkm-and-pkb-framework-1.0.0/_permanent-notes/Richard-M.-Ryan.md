@@ -76,4 +76,4 @@ importance: medium
 - [[Perceived-Locus-of-Causality]]
 - [[Relatedness]]
 - [[The-Organismic-Dialectical-Perspective]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

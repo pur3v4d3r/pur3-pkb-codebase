@@ -585,7 +585,7 @@ extraction_summary:
 - [[Formative-Assessment|Formative Assessment]]
 - [[Productive-Failure|Productive Failure]]
 - [[Self-Efficacy-Theory|Self-Efficacy Theory]]
-- [[Grit and Perseverance]]
+- [[Grit-and-Perseverance|Grit and Perseverance]]
 
 #### Broader
 

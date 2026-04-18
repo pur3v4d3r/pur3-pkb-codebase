@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -77,12 +77,7 @@ see-also:
   - "[[Autonomy]]"
   - "[[Competence]]"
   - "[[Relatedness]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Autonomy]]"
-  - "[[Competence]]"
-  - "[[Relatedness]]"
   - "[[Perceived-Partner-Responsiveness|perceived partner responsiveness]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Knee]]"
@@ -256,6 +251,34 @@ importance: high
 **Related concepts:**
 [[Relationship-Motivation-Theory|Relationship Motivation Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Knee]] · [[Patrick]] · [[Lonsbary]] · [[Autonomy-Support|Autonomy support]] · [[La-Guardia|La Guardia]] · [[Deci]] · [[Impett]] · [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] · [[Conditional-Positive-Regard|conditional positive regard]] · [[Autonomy-Support|autonomy support]] · [[Autonomy-Support|Autonomy support]] · [[Canevello]] · [[Crocker]] · [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
 
+**Related concepts** *(from [[relationship-motivation-theory-focused-analysis-2026-03-13]])*:
+[[Relationship-Motivation-Theory|Relationship Motivation Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Autonomy-Support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Conditional-Positive-Regard|conditional positive regard]] * [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]] * [[autonomy-relatedness-integration-problem|autonomy-relatedness integration problem]] * [[Reeve|Reeve]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Attachment-Theory|Attachment Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]] * [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]] * [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy Support in Teaching — Mechanisms and Evidence]] * [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional Positive Regard — Costs and Clinical Implications]] * [[Need-Thwarting-Dynamics-—-Beyond-the-Absence-of-Support|Need Thwarting Dynamics — Beyond the Absence of Support]] * [[Attachment-Security-and-Need-Fulfillment-—-Integrating-RMT-and-Attachment-Theory|Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]] * [[Compassionate-Goals-vs.-Self-Image-Goals-in-Close-Relationships|Compassionate Goals vs. Self-Image Goals in Close Relationships]] * [[Perceived-Partner-Responsiveness-—-Theory,-Measurement,-and-Mechanisms|Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]] * [[autonomy-relatedness-integration-problem|autonomy-relatedness-integration-problem]] * [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] * [[Attachment-Theory|Attachment-Theory]] * [[Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence|Autonomy-Support-in-Teaching-—-Mechanisms-and-Evidence]] * [[Conditional-Positive-Regard-—-Costs-and-Clinical-Implications|Conditional-Positive-Regard-—-Costs-and-Clinical-Implications]]
+
+**Cross-report connections** *(from [[relationship-motivation-theory-focused-analysis-2026-03-13]])*:
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+**Cross-report connections** *(from [[relationship-motivation-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Conditional-Positive-Regard|Conditional Positive Regard]]
+- [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment Theory — Bowlby and Ainsworth]]
+
+**Cross-report connections** *(from [[relationship-motivation-theory-focused-analysis-2026-03-13]])*:
+- [[Iterated-Prisoner's-Dilemma|Iterated-Prisoner's-Dilemma]]
+
+**Cross-report connections** *(from [[relationship-motivation-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Conditional-Positive-Regard|Conditional-Positive-Regard]]
+- [[Attachment-Theory-—-Bowlby-and-Ainsworth|Attachment-Theory-—-Bowlby-and-Ainsworth]]
+
+
+
+
+
+
 ## References
 
 - **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: The foundational study establishing that need fulfillment varies within-person across specific relationships, and that within-person variation in need satisfaction predicts within-person variation in relationship quality and attachment security. Essential for understanding how RMT's claims apply not to relationships in the abstract but to specific dyadic contexts, and for the integration of attachment theory and basic needs theory.
@@ -271,6 +294,72 @@ importance: high
 - **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: The most important bridge study between RMT's relational analysis and its educational applications. Examines why teachers adopt controlling vs. autonomy-supportive styles and what structural and psychological factors can shift them toward greater autonomy support — directly relevant to Phase V's discussion of the relational climate of learning.
 
 *Citations sourced from [[relationship-motivation-theory-focused-analysis-2026-03-13]]*
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: The foundational study establishing that need fulfillment varies within-person across specific relationships, and that within-person variation in need satisfaction predicts within-person variation in relationship quality and attachment security. Essential for understanding how RMT's claims apply not to relationships in the abstract but to specific dyadic contexts, and for the integration of attachment theory and basic needs theory.
+
+- **Deci, E. L., La Guardia, J. G., Moller, A. C., Scheiner, M. J., & Ryan, R. M. (2006). On the benefits of giving as well as receiving autonomy support: Mutuality in close friendships. *Personality and Social Psychology Bulletin*, 32(3), 313–327.**: The study most directly examining controlled motivation for relationship maintenance and its effects on well-being and daily functioning. Shows that equivalent relationship satisfaction predicts different well-being outcomes depending on motivational quality, and documents the spillover from controlled relationship motivation to reduced autonomous functioning in non-relational domains. Central to the Phase III evidence review.
+
+- **Patrick, H., Knee, C. R., Canevello, A., & Lonsbary, C. (2007). The role of need fulfillment in relationship functioning and well-being: A self-determination theory perspective. *Journal of Personality and Social Psychology*, 92(3), 434–457.**: Two studies establishing need fulfillment as a mediator between perceived partner responsiveness and both relationship quality and individual well-being. Provides the clearest empirical evidence for the mechanism through which partner behavior translates into well-being outcomes, and establishes that competence and autonomy needs contribute to this mediation within the relational context, not just relatedness.
+
+- **Knee, C. R., Patrick, H., & Lonsbary, C. (2003). Implicit theories of relationships: Orientations toward evaluation and cultivation. *Personality and Social Psychology Review*, 7(1), 41–55.**: The study establishing how autonomous vs. controlled relationship motivation moderates conflict response, attribution, and resilience in the face of relational challenge. The daily diary design provides temporal evidence for the causal role of motivational quality in shaping relational processes over time.
+
+- **Impett, E. A., Gordon, A. M., Kogan, A., Oveis, C., Gable, S. L., & Keltner, D. (2010). Moving toward more perfect unions: Daily and long-term consequences of approach and avoidance goals in romantic relationships. *Journal of Personality and Social Psychology*, 99(6), 948–963.**: The autonomous vs. controlled sacrifice study. Demonstrates that the motivational quality of prosocial behavior within relationships predicts relationship outcomes independently of the behavior itself, and provides evidence that receivers are sensitive to the motivational quality of a partner's giving. Central to the Phase III analysis of how motivational quality permeates relational behavior.
+
+- **Canevello, A., & Crocker, J. (2010). Creating good relationships: Responsiveness, relationship quality, and interpersonal goals. *Journal of Personality and Social Psychology*, 99(1), 78–106.**: The foundational study on compassionate vs. self-image goals in close relationships and their consequences for mutual responsiveness and need satisfaction. Provides the most direct evidence for the mutuality dynamics analyzed in Phase IV, showing how the goal orientation both partners bring to the relationship shapes the quality of the motivational climate they co-create.
+
+- **Reis, H. T., Clark, M. S., & Holmes, J. G. (2004). Perceived partner responsiveness as an organizing construct in the study of intimacy and closeness. In D. J. Mashek & A. P. Aron (Eds.), *Handbook of Closeness and Intimacy* (pp. 201–225). Lawrence Erlbaum.**: The theoretical treatment of perceived partner responsiveness — understanding, validation, and care — as the primary phenomenological marker of relational connection and the mechanism through which need-supportive behavior translates into felt intimacy. Essential background for the Phase IV analysis of autonomy support and disclosure.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational articulation of Basic Psychological Needs Theory, establishing the universality claim and the psychological essentials (not merely preferences) status of the three needs. Essential background for understanding the theoretical claims RMT inherits from its parent theory.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin*, 37(11), 1459–1473.**: The primary study establishing that need thwarting is empirically separable from absence of need support and predicts ill-being outcomes over and above what need satisfaction alone predicts. Central to the Phase II discussion of the need thwarting vs. absence of support distinction and the tension identified regarding its measurement.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality*, 62(1), 119–142.**: The experimental study most directly examining the conditions that facilitate internalization of extrinsic motivation — the relational antecedents (autonomy support, rationale provision, perspective-taking) that produce movement from external to identified and integrated regulation. Bridges OIT's theoretical framework and the relational conditions for internalization analyzed in Phase IV.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: The most important bridge study between RMT's relational analysis and its educational applications. Examines why teachers adopt controlling vs. autonomy-supportive styles and what structural and psychological factors can shift them toward greater autonomy support — directly relevant to Phase V's discussion of the relational climate of learning.
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: The foundational study establishing that need fulfillment varies within-person across specific relationships, and that within-person variation in need satisfaction predicts within-person variation in relationship quality and attachment security. Essential for understanding how RMT's claims apply not to relationships in the abstract but to specific dyadic contexts, and for the integration of attachment theory and basic needs theory.
+
+- **Deci, E. L., La Guardia, J. G., Moller, A. C., Scheiner, M. J., & Ryan, R. M. (2006). On the benefits of giving as well as receiving autonomy support: Mutuality in close friendships. *Personality and Social Psychology Bulletin*, 32(3), 313–327.**: The study most directly examining controlled motivation for relationship maintenance and its effects on well-being and daily functioning. Shows that equivalent relationship satisfaction predicts different well-being outcomes depending on motivational quality, and documents the spillover from controlled relationship motivation to reduced autonomous functioning in non-relational domains. Central to the Phase III evidence review.
+
+- **Patrick, H., Knee, C. R., Canevello, A., & Lonsbary, C. (2007). The role of need fulfillment in relationship functioning and well-being: A self-determination theory perspective. *Journal of Personality and Social Psychology*, 92(3), 434–457.**: Two studies establishing need fulfillment as a mediator between perceived partner responsiveness and both relationship quality and individual well-being. Provides the clearest empirical evidence for the mechanism through which partner behavior translates into well-being outcomes, and establishes that competence and autonomy needs contribute to this mediation within the relational context, not just relatedness.
+
+- **Knee, C. R., Patrick, H., & Lonsbary, C. (2003). Implicit theories of relationships: Orientations toward evaluation and cultivation. *Personality and Social Psychology Review*, 7(1), 41–55.**: The study establishing how autonomous vs. controlled relationship motivation moderates conflict response, attribution, and resilience in the face of relational challenge. The daily diary design provides temporal evidence for the causal role of motivational quality in shaping relational processes over time.
+
+- **Impett, E. A., Gordon, A. M., Kogan, A., Oveis, C., Gable, S. L., & Keltner, D. (2010). Moving toward more perfect unions: Daily and long-term consequences of approach and avoidance goals in romantic relationships. *Journal of Personality and Social Psychology*, 99(6), 948–963.**: The autonomous vs. controlled sacrifice study. Demonstrates that the motivational quality of prosocial behavior within relationships predicts relationship outcomes independently of the behavior itself, and provides evidence that receivers are sensitive to the motivational quality of a partner's giving. Central to the Phase III analysis of how motivational quality permeates relational behavior.
+
+- **Canevello, A., & Crocker, J. (2010). Creating good relationships: Responsiveness, relationship quality, and interpersonal goals. *Journal of Personality and Social Psychology*, 99(1), 78–106.**: The foundational study on compassionate vs. self-image goals in close relationships and their consequences for mutual responsiveness and need satisfaction. Provides the most direct evidence for the mutuality dynamics analyzed in Phase IV, showing how the goal orientation both partners bring to the relationship shapes the quality of the motivational climate they co-create.
+
+- **Reis, H. T., Clark, M. S., & Holmes, J. G. (2004). Perceived partner responsiveness as an organizing construct in the study of intimacy and closeness. In D. J. Mashek & A. P. Aron (Eds.), *Handbook of Closeness and Intimacy* (pp. 201–225). Lawrence Erlbaum.**: The theoretical treatment of perceived partner responsiveness — understanding, validation, and care — as the primary phenomenological marker of relational connection and the mechanism through which need-supportive behavior translates into felt intimacy. Essential background for the Phase IV analysis of autonomy support and disclosure.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational articulation of Basic Psychological Needs Theory, establishing the universality claim and the psychological essentials (not merely preferences) status of the three needs. Essential background for understanding the theoretical claims RMT inherits from its parent theory.
+
+- **Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., Bosch, J. A., & Thøgersen-Ntoumani, C. (2011). Self-determination theory and diminished functioning: The role of interpersonal control and psychological need thwarting. *Personality and Social Psychology Bulletin*, 37(11), 1459–1473.**: The primary study establishing that need thwarting is empirically separable from absence of need support and predicts ill-being outcomes over and above what need satisfaction alone predicts. Central to the Phase II discussion of the need thwarting vs. absence of support distinction and the tension identified regarding its measurement.
+
+- **Deci, E. L., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality*, 62(1), 119–142.**: The experimental study most directly examining the conditions that facilitate internalization of extrinsic motivation — the relational antecedents (autonomy support, rationale provision, perspective-taking) that produce movement from external to identified and integrated regulation. Bridges OIT's theoretical framework and the relational conditions for internalization analyzed in Phase IV.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: The most important bridge study between RMT's relational analysis and its educational applications. Examines why teachers adopt controlling vs. autonomy-supportive styles and what structural and psychological factors can shift them toward greater autonomy support — directly relevant to Phase V's discussion of the relational climate of learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methodology Notes
 

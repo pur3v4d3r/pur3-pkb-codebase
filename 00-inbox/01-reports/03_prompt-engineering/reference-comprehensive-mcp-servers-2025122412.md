@@ -1075,11 +1075,11 @@ await server.connect(transport);
 **Depth Potential:** Container configurations, network policies, monitoring dashboards, incident response
 **Knowledge Graph Role:** Security specialization branch from main MCP reference
 **Priority:** High — Critical for any production MCP deployment
-**Prerequisites:** [[Docker-Fundamentals]], [[Network Security Basics]]
+**Prerequisites:** [[Docker-Fundamentals]], [[Network-Security-Basics]]
 
 ### Cross-Domain Connections
 
-#### 3. **[[AI-Augmented Zettelkasten]]**
+#### 3. **[[AI-Augmented-Zettelkasten]]**
 **Connection:** Synthesis of traditional Zettelkasten methodology with MCP-enabled AI capabilities
 **Depth Potential:** Automated linking, semantic note clustering, AI-assisted atomic note extraction
 **Knowledge Graph Role:** Bridge between [[Zettelkasten]] methodology and [[AI-Agent-Architecture]]

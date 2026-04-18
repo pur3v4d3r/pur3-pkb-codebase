@@ -133,7 +133,7 @@ The [[Progress Principle]] (Teresa Amabile) demonstrates that perceived progress
 [[Metacognition]]—thinking about thinking—is enhanced through reflective documentation. When you log not just *what* you did but *why* and *how*, you activate metacognitive monitoring. Over time, this develops pattern recognition: "I notice I'm stuck because I'm solving the wrong problem" becomes recognizable faster because you've documented similar situations previously.
 
 **3. Context Restoration Efficiency**
-[[Attention Residue]] research (Sophie Leroy) shows that task switching leaves cognitive residue from the previous task, reducing performance on the new task. Work logs accelerate context restoration by providing explicit cues: "I was debugging the OAuth flow, specifically the token refresh mechanism, and suspected a race condition." This specificity minimizes the cognitive cost of resuming interrupted work.
+[[Attention-Residue]] research (Sophie Leroy) shows that task switching leaves cognitive residue from the previous task, reducing performance on the new task. Work logs accelerate context restoration by providing explicit cues: "I was debugging the OAuth flow, specifically the token refresh mechanism, and suspected a race condition." This specificity minimizes the cognitive cost of resuming interrupted work.
 
 **4. Temporal Confidence Calibration**
 Most knowledge workers suffer from the [[Planning Fallacy]]—systematic underestimation of task duration. Work logs create calibration data: "I estimated 2 hours for API integration; actual time: 6 hours." Repeated logging enables **temporal confidence intervals**: "For this type of task, I should estimate 2.5× my initial guess."

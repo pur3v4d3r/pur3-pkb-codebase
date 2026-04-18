@@ -10693,7 +10693,7 @@ Every note should be enriched with layers of information that give it context an
 > created: "2025-10-13T21:45:00.000Z"
 > updated: "2025-10-13T21:45:00.000Z"
 > source: "Book - How to Take Smart Notes by Sönke Ahrens"
-> related: "[[Zettelkasten Method]], [[Niklas Luhmann]]"
+> related: "[[Zettelkasten-Method]], [[Niklas Luhmann]]"
 > ---
 > ```
 > - **`title`**: The official name of the note.
@@ -20442,7 +20442,7 @@ But *first* I need to do a *few things*:
 
 * **Critical Thinking Models:** Since your goal is to build a "Gem-Instruction-Set" for analysis, your next step could be to research specific models to include. You could investigate **Bloom's Taxonomy** (for levels of understanding: remember, understand, apply, analyze, evaluate, create), the **Socratic Method** (for probing questions), or **First Principles Thinking** (for deconstructing a quote to its fundamental truths).
 
-[[Rhetorical Analysis]]: Create notes on the core appeals: [[Logos]] (logic), [[Pathos]] (emotion), and [[Ethos]] (credibility). Also, document common [[Rhetorical Devices]] (e.g., metaphor, synecdoche, hyperbole).
+[[Rhetorical-Analysis]]: Create notes on the core appeals: [[Logos]] (logic), [[Pathos]] (emotion), and [[Ethos]] (credibility). Also, document common [[Rhetorical Devices]] (e.g., metaphor, synecdoche, hyperbole).
 
 [[Logical Fallacies]]: Create a main note for this, distinguishing between [[Formal Fallacies]] (errors in the argument's structure) and [[Informal-Fallacies]] (errors in the argument's content). You can then create atomic notes for the most common ones ([[Ad Hominem]], [[Straw-Man]], [[False Dichotomy]]).
 

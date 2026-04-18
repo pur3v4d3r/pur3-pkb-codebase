@@ -356,7 +356,7 @@ If you say to me now, *I desire a fig*, I shall answer, *It needs time: wait til
 > **The Shoemaker's Fortune**
 > Epictetus mocks how we value people based on their proximity to power rather than their character.
 
-*“How does the good Felicion? Kindly let me know!”* … Had he not sold him as good-for-nothing? Who had in a trice converted him into a wiseacre? **This is what comes of holding of importance anything but the things that depend on the [[Will]].**
+*“How does the good Felicion? Kindly let me know!”* … Had he not sold him as good-for-nothing? Who had in a trice converted him into a wiseacre? **This is what comes of holding of importance anything but the things that depend on the [[will]].**
 
 ### XLI. The Golden Rule of Slavery
 
@@ -643,13 +643,13 @@ But thou art not Hercules, thou sayest, and canst not deliver others from their 
 
 > [!social-dynamics]
 > **Interest Alignment**
-> The heart of a bad man is faithless… now overpowered by one impression, now by another…. Ask not the usual questions, Were they born of the same parents… but ask this only, **in what they place their real interest—whether in outward things or in the [[Will]].**
+> The heart of a bad man is faithless… now overpowered by one impression, now by another…. Ask not the usual questions, Were they born of the same parents… but ask this only, **in what they place their real interest—whether in outward things or in the [[will]].**
 
 ### LXXXIII. The Sovereign Will
 
 > [!core-principle]
 > **Unassailable Agency**
-> No man can rob us of our [[Will]]—no man can lord it over that!
+> No man can rob us of our [[will]]—no man can lord it over that!
 
 ### LXXXIV. The Ideal Death
 

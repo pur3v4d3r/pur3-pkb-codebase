@@ -421,7 +421,7 @@ extraction_summary:
 - [[Dichotic Listening Task]]
 - [[Dorsal Attention Network]]
 - [[Dual-Process Theories]]
-- [[Dual-Task Interference]]
+- [[Dual-Task-Interference|Dual-Task Interference]]
 - [[Dual-Task Paradigms]]
 - [[Dual-Task Performance]]
 - [[Early-Late Selection Debate]]
@@ -474,7 +474,7 @@ extraction_summary:
 | 18 | [[Dual-Process Theories]] | — | — | The Allocation Policy: The Executive ... | 482 |
 | 19 | [[Arousal]] | — | — | Arousal and the Modulation of Capacity | 486 |
 | 20 | [[Dual-Task Paradigms]] | — | — | Dual-Task Performance and Capacity Sh... | 505 |
-| 21 | [[Dual-Task Interference]] | — | — | Dual-Task Performance and Capacity Sh... | 505 |
+| 21 | [[Dual-Task-Interference|Dual-Task Interference]] | — | — | Dual-Task Performance and Capacity Sh... | 505 |
 | 22 | [[Multiple Resources Theory]] | — | — | Dual-Task Performance and Capacity Sh... | 509 |
 | 23 | [[Motivation]] | — | — | Effort, Demand, and the Evaluation Sy... | 530 |
 | 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Effort, Demand, and the Evaluation Sy... | 530 |
@@ -859,7 +859,7 @@ for (let letter of sortedLetters) {
 - [[Dichotic Listening Task]]
 - [[Dorsal Attention Network]]
 - [[Dual-Process Theories]]
-- [[Dual-Task Interference]]
+- [[Dual-Task-Interference|Dual-Task Interference]]
 - [[Dual-Task Paradigms]]
 - [[Dual-Task Performance]]
 - [[Early-Late Selection Debate]]

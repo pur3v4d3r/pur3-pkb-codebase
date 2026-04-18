@@ -152,7 +152,7 @@ source_synthesis: "[[examined-life-synthesis]]"
 
 - **[[Phronesis]]** — Aristotelian practical wisdom: the trained perceptual-evaluative capacity to discern what situations require and respond appropriately. [Source: R11, ref-aristotle] [Status: Established]
 - **[[Action-Perception Link]]** — The phronimos and Klein's RPD expert are the same kind of knower: both perceive what situations require through trained perception. [Source: R11] [Status: Novel synthesis]
-- **[[Recognition-Primed Decision Making]]** — Klein's NDM model: experts make decisions by pattern-matching to previously experienced situations, not by analyzing options. [Source: R11] [Status: Established]
+- **[[Recognition-Primed-Decision-Making]]** — Klein's NDM model: experts make decisions by pattern-matching to previously experienced situations, not by analyzing options. [Source: R11] [Status: Established]
 - **[[Knowing-How vs Knowing-That]]** — Ryle's distinction between practical competence and propositional knowledge. [Source: ref-ryle, R05, R11] [Status: Established]
 
 ### 8. Narrative Psychology

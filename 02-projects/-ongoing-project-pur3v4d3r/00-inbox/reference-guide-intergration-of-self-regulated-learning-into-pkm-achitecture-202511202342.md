@@ -57,7 +57,7 @@ To design an effective [[Metacognitive Architecture]], one must first understand
       * *PKM Context:* Defining the "Why" before creating a note or starting a project. Setting metadata intent.
 2.  **Performance Phase (Action):**
       * *Processes:* Self-Control (focus strategies) and [[Self-Observation]] (metacognitive monitoring).
-      * *PKM Context:* The act of [[Atomic Note]] creation, linking, and synthesizing.
+      * *PKM Context:* The act of [[Atomic-Note]] creation, linking, and synthesizing.
 3.  **Self-Reflection Phase (Post-Action):**
       * *Processes:* [[Self-Judgment]] (evaluating performance) and Self-Reaction (adaptive modification).
       * *PKM Context:* Reviewing the knowledge graph, spaced repetition, and refining workflows based on friction points.

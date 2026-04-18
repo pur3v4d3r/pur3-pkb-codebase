@@ -130,7 +130,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > **Metacognitive PKM**
-> An approach to knowledge management where the software environment acts as an extension of the user's working memory (following the [[Extended Mind Thesis]]). In this framework, the manipulation of digital objects (notes) represents the manipulation of mental schemas, providing the user with concrete feedback regarding the depth, accuracy, and connectivity of their knowledge base.
+> An approach to knowledge management where the software environment acts as an extension of the user's working memory (following the [[Extended-Mind-Thesis|Extended Mind Thesis]]). In this framework, the manipulation of digital objects (notes) represents the manipulation of mental schemas, providing the user with concrete feedback regarding the depth, accuracy, and connectivity of their knowledge base.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 42)*
 
@@ -171,7 +171,7 @@ extraction_summary:
 
 > [!connections-and-links] Untitled
 > **Network Integration**
-> This methodological analysis connects deeply with the [[zettelkasten method]], which privileges the communication between notes as a driver of insight. It also serves as a practical application of [[Constructivist Epistemology]], validating the idea that knowledge is built, not found. Furthermore, it provides the "How" for the [[Feynman Technique]], offering a digital canvas to simplify and teach concepts to oneself.
+> This methodological analysis connects deeply with the [[Zettelkasten-Method|zettelkasten method]], which privileges the communication between notes as a driver of insight. It also serves as a practical application of [[Constructivist Epistemology]], validating the idea that knowledge is built, not found. Furthermore, it provides the "How" for the [[Feynman Technique]], offering a digital canvas to simplify and teach concepts to oneself.
 
 #### 11. [FURTHER-EXPLORATION] Untitled *(Line 100)*
 
@@ -234,7 +234,7 @@ extraction_summary:
 - [[Concept B]]
 - [[Constructivism]]
 - [[Constructivist Epistemology]]
-- [[Extended Mind Thesis]]
+- [[Extended-Mind-Thesis|Extended Mind Thesis]]
 - [[Externalized Cognition in Note-Taking]]
 - [[Feynman Technique]]
 - [[Graph Theory]]
@@ -245,7 +245,7 @@ extraction_summary:
 - [[Rote-memorization|Rote Memorization]]
 - [[Self-Regulated Learning via PKM]]
 - [[Zeigarnik Effect]]
-- [[zettelkasten method]]
+- [[Zettelkasten-Method|zettelkasten method]]
 
 ### All Occurrences
 
@@ -257,7 +257,7 @@ extraction_summary:
 | 4 | [[Atomic-Notes|Atomic Notes]] | — | — | Phase 1: Overture & Foundation | 33 |
 | 5 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Phase 1: Overture & Foundation | 36 |
 | 6 | [[Metacognition]] | — | — | Phase 1: Overture & Foundation | 36 |
-| 7 | [[Extended Mind Thesis]] | — | — | Phase 1: Overture & Foundation | 40 |
+| 7 | [[Extended-Mind-Thesis|Extended Mind Thesis]] | — | — | Phase 1: Overture & Foundation | 40 |
 | 8 | [[Knowledge-Management|Knowledge Management]] | — | — | The Theoretical Basis: From Storage t... | 50 |
 | 9 | [[Constructivism]] | — | — | The Theoretical Basis: From Storage t... | 50 |
 | 10 | [[Concept A]] | — | — | Note-Linking as Associative Metacogni... | 58 |
@@ -267,7 +267,7 @@ extraction_summary:
 | 14 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | — | — | Structuring as Schema Construction | 69 |
 | 15 | [[Chunking]] | — | — | Structuring as Schema Construction | 75 |
 | 16 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Reviewing and Iterative Refinement | 83 |
-| 17 | [[zettelkasten method]] | — | — | Phase 3: PKB Integration | 98 |
+| 17 | [[Zettelkasten-Method|zettelkasten method]] | — | — | Phase 3: PKB Integration | 98 |
 | 18 | [[Constructivist Epistemology]] | — | — | Phase 3: PKB Integration | 98 |
 | 19 | [[Feynman Technique]] | — | — | Phase 3: PKB Integration | 98 |
 | 20 | [[Algorithmic Serendipity]] | — | — | Phase 3: PKB Integration | 102 |
@@ -318,7 +318,7 @@ $$
 - [[Concept B]]
 - [[Constructivism]]
 - [[Constructivist Epistemology]]
-- [[Extended Mind Thesis]]
+- [[Extended-Mind-Thesis|Extended Mind Thesis]]
 - [[Externalized Cognition in Note-Taking]]
 - [[Feynman Technique]]
 - [[Graph Theory]]
@@ -329,7 +329,7 @@ $$
 - [[Rote-memorization|Rote Memorization]]
 - [[Self-Regulated Learning via PKM]]
 - [[Zeigarnik Effect]]
-- [[zettelkasten method]]
+- [[Zettelkasten-Method|zettelkasten method]]
 
 ---
 

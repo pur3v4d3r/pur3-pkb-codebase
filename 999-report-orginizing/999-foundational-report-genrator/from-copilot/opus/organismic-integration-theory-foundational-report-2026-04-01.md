@@ -195,7 +195,7 @@ A final philosophical commitment embedded in the organismic meta-theory is the c
 
 This phenomenological commitment accounts for the prominent role that specific experiential concepts play in OIT: the felt sense of pressure versus choice, the experience of acting from genuine values versus complying with imposed demands, the feeling of integration as a "wholeness" in which one's motivations cohere with one's identity. Ryan's later philosophical work has made explicit the connection between OIT's phenomenological emphasis and the broader tradition of phenomenological psychology — particularly the work of Husserl and Merleau-Ponty on intentionality and the lived body — but the commitment to phenomenological reality as a central explanatory target is present from OIT's earliest formulations.
 
-The practical implication of this phenomenological emphasis is that OIT's entire apparatus — the continuum, the regulatory styles, the concept of integration — must be validated not only behaviorally but phenomenologically: regulatory styles should be identifiable through self-report instruments that capture the experienced quality of motivation, not merely through behavioral outcomes. This has both enabled and constrained the theory's empirical program: self-report measures like the [[MSLQ]] (Motivated Strategies for Learning Questionnaire) adaptations and the Self-Regulation Questionnaire are necessary for capturing the experiential distinctions OIT theorizes, but they also introduce the methodological limitations inherent in self-report measurement, including [[Fluency-Illusion|fluency biases]], [[social-desirability effects]], and [[Metacognitive-Accuracy|metacognitive accuracy limitations]] in self-assessment.
+The practical implication of this phenomenological emphasis is that OIT's entire apparatus — the continuum, the regulatory styles, the concept of integration — must be validated not only behaviorally but phenomenologically: regulatory styles should be identifiable through self-report instruments that capture the experienced quality of motivation, not merely through behavioral outcomes. This has both enabled and constrained the theory's empirical program: self-report measures like the [[MSLQ]] (Motivated Strategies for Learning Questionnaire) adaptations and the Self-Regulation Questionnaire are necessary for capturing the experiential distinctions OIT theorizes, but they also introduce the methodological limitations inherent in self-report measurement, including [[Fluency-Illusion|fluency biases]], [[social-desirability-effects|social-desirability effects]], and [[Metacognitive-Accuracy|metacognitive accuracy limitations]] in self-assessment.
 
 > [!reflection] Philosophical Tensions
 > 1. Does OIT's organismic meta-theory impose a normative developmental trajectory (toward integration) that reflects Western cultural values of autonomy and individualism rather than universal human nature? How should readers evaluate OIT's universality claims in light of research showing that relatedness-based regulation is sometimes experienced as genuinely autonomous in collectivist cultural contexts?
@@ -775,7 +775,7 @@ The analytical architecture of this report has moved through OIT's theoretical f
 
 > [!further-exploration] Expansion Topics for Continued PKB Development
 >
-> > [!topic-idea] [[Basic-Psychological-Needs-Theory-(BPNT)]]
+> > [!topic-idea] [[Basic-Psychological-Needs-Theory-BPNT|Basic-Psychological-Needs-Theory-(BPNT)]]
 > > *Priority: High* — The SDT mini-theory most closely connected to OIT, specifying autonomy, competence, and relatedness as universal psychological needs whose satisfaction facilitates and whose frustration impedes internalization. Deep engagement with BPNT provides the theoretical infrastructure for OIT's environmental facilitation claims.
 >
 > > [!topic-idea] [[Cognitive-Evaluation-Theory-(CET)]]
@@ -803,7 +803,7 @@ The analytical architecture of this report has moved through OIT's theoretical f
 - [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination-Theory-(SDT)]] — the comprehensive theoretical framework of which OIT is a component
 - [[Humanistic-Psychology]] — the theoretical tradition whose growth orientation and actualizing tendency OIT inherits
 - [[Cognitive-Evaluation-Theory-(CET)]] — the precursor SDT mini-theory focused on intrinsic motivation and reward effects
-- [[Basic-Psychological-Needs-Theory-(BPNT)]] — the SDT mini-theory specifying the universal needs OIT's facilitation conditions serve
+- [[Basic-Psychological-Needs-Theory-BPNT|Basic-Psychological-Needs-Theory-(BPNT)]] — the SDT mini-theory specifying the universal needs OIT's facilitation conditions serve
 - [[Vygotsky]] — developmental theory of internalization as transformation of social into psychological function
 - [[Carl-Rogers-and-Person-Centered-Psychology]] — unconditional positive regard and conditions of worth as direct theoretical antecedents
 - [[Intrinsic-Motivation]] — the motivational psychological tradition within which OIT's endpoint is defined

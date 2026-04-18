@@ -1,0 +1,2019 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:34.494240",
+    "source_file": "pintrichs-srl-focused-analysis-2026-03-22.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-focused-analysis-report-generator-v1.1.0\\extracted\\pintrichs-srl-focused-analysis-2026-03-22.md",
+    "source_file_size_bytes": 91607,
+    "processing_time_seconds": 0.018
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "pintrichs-srl-focused-analysis-v1-0",
+      "doc_type": "focused-analysis-report",
+      "doc_created": "2026-03-22",
+      "doc_modified": "2026-03-22",
+      "author": "claude-sonnet-4-6",
+      "title": "Pintrich's Self-Regulated Learning Framework: The Motivational-Cognition Integration Architecture",
+      "subtitle": "How a 4×4 Matrix Solved the Deepest Problem in Learning Regulation Theory",
+      "primary_domain": "educational-psychology",
+      "secondary_domains": [
+        "motivational-psychology",
+        "metacognition",
+        "cognitive-psychology",
+        "instructional-design"
+      ],
+      "related_concepts": [
+        "[[Pintrich's-Integrative-SRL-Framework]]",
+        "[[Pintrich's-Motivational-Integration]]",
+        "[[Self-Regulated-Learning]]",
+        "[[MSLQ]]",
+        "[[Paul-Pintrich]]",
+        "[[Barry-Zimmerman]]",
+        "[[Zimmerman's-Three-Phase-SRL-Cycle]]",
+        "[[Metacognition-and-Self-Regulated-Learning]]",
+        "[[Goal-Orientation]]",
+        "[[Self-Efficacy]]",
+        "[[Expectancy-Value-Theory]]",
+        "[[Attribution-Theory]]",
+        "[[Forethought-Phase]]",
+        "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "pintrich",
+        "self-regulated-learning",
+        "srl",
+        "motivational-beliefs",
+        "cognitive-strategies",
+        "metacognitive-regulation",
+        "goal-orientation",
+        "self-efficacy",
+        "mslq",
+        "focused-analysis",
+        "pkb-integration"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "reasoning_tier": "Tier 3: Synthesis & Innovation",
+      "reasoning_methods": [
+        "Extended thinking with metacognitive scaffolding",
+        "Progressive depth architecture (4 layers)",
+        "FAR transfer structural encoding",
+        "Motivational-cognition integration analysis"
+      ],
+      "transfer-contributions": {
+        "abstract-principles-extracted": "3",
+        "structural-analogues-identified": "6",
+        "target-domains-bridged": "3"
+      },
+      "transfer-principles": [
+        {
+          "principle": "Motivational-Regulatory Coupling Principle: sustained cognitive engagement requires motivational architecture as a prerequisite, not a parallel track",
+          "originating-finding": "Pintrich's matrix reveals that motivational belief regulation (forethought phase) precedes and gates cognitive strategy activation",
+          "target-domains": [
+            "PKB design",
+            "organizational learning",
+            "clinical behavior change"
+          ]
+        },
+        {
+          "principle": "Multi-Dimensional Phase Architecture: effective self-regulation requires parallel, simultaneous regulation across categorically distinct domains, not sequential regulation of a single domain",
+          "originating-finding": "The 4-area framework shows that contextual, behavioral, motivational, and cognitive regulation happen concurrently and reciprocally",
+          "target-domains": [
+            "project management",
+            "habit architecture design",
+            "therapeutic intervention design"
+          ]
+        },
+        {
+          "principle": "Forethought Primacy: the quality of self-regulation during a performance episode is largely determined by the architecture established before it begins",
+          "originating-finding": "Goal-setting, self-efficacy appraisal, and task value appraisal in the forethought phase predict strategy use during learning more strongly than in-the-moment conditions",
+          "target-domains": [
+            "deliberate practice design",
+            "PKB session planning",
+            "clinical pre-commitment strategies"
+          ]
+        }
+      ],
+      "sections": [
+        "Phase I: Orientation & Analytical Focus",
+        "Phase II: Analytical Framework — The 4×4 Matrix",
+        "Phase III: Critical Examination of Evidence",
+        "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "Phase V: Implications, Applications & Limitations",
+        "Phase VI: Synthesis, Integration & Original Contribution",
+        "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "Phase VIII: PKB Connections & Cross-Report Links",
+        "Phase IX: Appendix"
+      ],
+      "document-features": {
+        "callouts": "28",
+        "wiki-links": "42",
+        "reflective-questions": "21",
+        "cognitive-engagement-elements": "16",
+        "analytical-commentary": "10",
+        "section-end-summaries": "7",
+        "transfer-principles": "3",
+        "structural-analogues": "6"
+      },
+      "source": "claude-sonnet-4-6",
+      "epistemic_status": "well-established",
+      "validation_date": "2026-03-22",
+      "prerequisites": [
+        "[[Self-Regulated-Learning]]",
+        "[[Metacognition]]",
+        "[[Goal-Orientation]]"
+      ],
+      "builds_on": [
+        "[[Pintrich's-Integrative-SRL-Framework]]",
+        "[[MSLQ]]",
+        "[[Self-Regulated-Learning-—-Focused-Analysis]]"
+      ],
+      "link_up": "[[Self-Regulated-Learning]]",
+      "link_down": [
+        "[[Pintrich's-Integrative-SRL-Framework]]",
+        "[[Pintrich's-Motivational-Integration]]",
+        "[[MSLQ]]"
+      ],
+      "link_related": [
+        "[[Zimmerman's-Three-Phase-SRL-Cycle]]",
+        "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]",
+        "[[Metacognition-and-Self-Regulated-Learning]]",
+        "[[Goal-Orientation]]",
+        "[[Self-Efficacy]]",
+        "[[self-regulated-learning-focused-analysis-2026-03-06]]"
+      ],
+      "aliases": [
+        "[[Pintrich SRL Focused Analysis]]",
+        "[[Pintrich 4x4 Matrix Report]]",
+        "[[SRL Motivational Integration Report]]"
+      ],
+      "summary": "A focused analysis of Paul Pintrich's integrative self-regulated learning framework, examining how the 4×4 matrix architecture (4 areas × 4 phases) solved the motivational-cognition integration problem that defined the first generation of SRL models. Argues that Pintrich's most distinctive and underappreciated contribution is the architectural decision to treat motivation not as a background variable but as an active regulatory domain requiring the same phase-structured analysis as cognition. Includes FAR transfer to PKB design, organizational learning, and clinical behavior change."
+    },
+    "word_count": 10786,
+    "character_count": 82104,
+    "line_count": 489,
+    "heading_count": 41
+  },
+  "extraction_summary": {
+    "total_items_extracted": 159,
+    "by_type": {
+      "headings": 41,
+      "callouts": 57,
+      "wiki_links": 50,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 11,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Pintrich's Self-Regulated Learning Framework: The Motivational-Cognition Integration Architecture",
+      "anchor": "pintrichs-self-regulated-learning-framework-the-motivational-cognition-integration-architecture",
+      "line_number": 152,
+      "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Analytical Focus",
+          "anchor": "phase-i-orientation-analytical-focus",
+          "line_number": 158,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Motivational-Cognition Problem",
+              "anchor": "the-motivational-cognition-problem",
+              "line_number": 163,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Question",
+              "anchor": "the-central-question",
+              "line_number": 169,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Scope and Boundaries",
+              "anchor": "scope-and-boundaries",
+              "line_number": 175,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Significance",
+              "anchor": "significance",
+              "line_number": 179,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Roadmap",
+              "anchor": "roadmap",
+              "line_number": 183,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — The 4×4 Matrix",
+          "anchor": "phase-ii-analytical-framework-the-44-matrix",
+          "line_number": 192,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Four Areas",
+              "anchor": "the-four-areas",
+              "line_number": 202,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Four Phases",
+              "anchor": "the-four-phases",
+              "line_number": 218,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "How This Differs from Zimmerman's Model",
+              "anchor": "how-this-differs-from-zimmermans-model",
+              "line_number": 233,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 246,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Evidence Landscape",
+              "anchor": "the-evidence-landscape",
+              "line_number": 251,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Key Findings and Patterns",
+              "anchor": "key-findings-and-patterns",
+              "line_number": 260,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Critical Evaluation",
+              "anchor": "critical-evaluation",
+              "line_number": 271,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+          "line_number": 296,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Self-Efficacy Mechanism: A Cognitive Gating Model",
+              "anchor": "the-self-efficacy-mechanism-a-cognitive-gating-model",
+              "line_number": 301,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Goal Orientation and Processing Depth",
+              "anchor": "goal-orientation-and-processing-depth",
+              "line_number": 312,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Monitoring-Control Coupling",
+              "anchor": "the-monitoring-control-coupling",
+              "line_number": 321,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Forethought Phase as a Regulatory Architecture",
+              "anchor": "the-forethought-phase-as-a-regulatory-architecture",
+              "line_number": 330,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications, Applications & Limitations",
+          "anchor": "phase-v-implications-applications-limitations",
+          "line_number": 348,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Direct Implications",
+              "anchor": "direct-implications",
+              "line_number": 350,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Practical Applications",
+              "anchor": "practical-applications",
+              "line_number": 359,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations and Honest Boundaries",
+              "anchor": "limitations-and-honest-boundaries",
+              "line_number": 368,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "What We Still Don't Know",
+              "anchor": "what-we-still-dont-know",
+              "line_number": 377,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 390,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Framework's Central Achievement",
+              "anchor": "the-frameworks-central-achievement",
+              "line_number": 392,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Question Revisited",
+              "anchor": "the-central-question-revisited",
+              "line_number": 396,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Return and Deepen: Self-Efficacy Revisited",
+              "anchor": "return-and-deepen-self-efficacy-revisited",
+              "line_number": 403,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Unresolved Questions as Invitations",
+              "anchor": "the-unresolved-questions-as-invitations",
+              "line_number": 407,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+          "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+          "line_number": 420,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Abstract Principle 1: The Forethought Pre-Architecture Principle",
+              "anchor": "abstract-principle-1-the-forethought-pre-architecture-principle",
+              "line_number": 425,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Abstract Principle 2: The Motivational-Regulatory Asymmetry Principle",
+              "anchor": "abstract-principle-2-the-motivational-regulatory-asymmetry-principle",
+              "line_number": 445,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Abstract Principle 3: Multi-Dimensional Simultaneity Principle",
+              "anchor": "abstract-principle-3-multi-dimensional-simultaneity-principle",
+              "line_number": 458,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Meta-Transfer Reflection",
+              "anchor": "meta-transfer-reflection",
+              "line_number": 467,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-viii-pkb-connections-cross-report-links",
+          "line_number": 486,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase IX: Appendix",
+          "anchor": "phase-ix-appendix",
+          "line_number": 525,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 527,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 562,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 594,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 599,
+              "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Schema Activation — Before You Begin",
+        "body": "Before reading this analysis, take a moment to articulate your current understanding of self-regulated learning. What do you believe self-regulation in learning primarily involves — is it mainly a cognitive phenomenon (strategy use, monitoring), a motivational one (goal-setting, persistence), a behavioral one (effort management, help-seeking), or something else? Write down your answer and your confidence level. The comparison between your starting position and where you land after this analysis is where the deepest learning lies.",
+        "line_number": 160,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 6995,
+        "char_end": 7597
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Before proceeding: predict what you think the weakest element of Pintrich's framework will turn out to be. Is it most likely to be weak on the empirical side, the theoretical side, or the implementation side? Committing to this prediction now creates a productive frame for evaluating the evidence in Phase III.",
+        "line_number": 187,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 11744,
+        "char_end": 12102
+      },
+      {
+        "type": "definition",
+        "title": "Self-Regulated Learning (Pintrich, 2000)",
+        "body": "An active, constructive process whereby learners set goals for their learning, monitor, regulate, and control their cognition, motivation, and behavior, guided and constrained by their goals and the contextual features of the environment. Critically, the definition treats self-regulation as operative across four distinct domains — not merely the cognitive domain — and treats the *context* itself as an object of regulatory attention.",
+        "line_number": 194,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 12160,
+        "char_end": 12660
+      },
+      {
+        "type": "key-claim",
+        "title": "The Matrix as Theoretical Claim",
+        "body": "The 4×4 structure is not a presentation convenience. It encodes two theoretical commitments: (1) that the regulatory process has genuine temporal structure — that forethought, monitoring, control, and reflection are categorically distinct activities, not merely different intensities of the same activity; and (2) that there are categorically distinct *types* of things to regulate, and that each type requires domain-appropriate analysis. The matrix is the architecture of a theory.",
+        "line_number": 199,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 13189,
+        "char_end": 13726
+      },
+      {
+        "type": "definition",
+        "title": "Goal Orientation (Ames, 1992; Pintrich, 2000)",
+        "body": "A learner's orientation toward the purposes of achievement engagement. In Pintrich's formulation, goal orientations are divided into mastery orientations (pursuing learning, understanding, and development of competence) and performance orientations (demonstrating ability relative to others or avoiding demonstrations of incompetence). The 2×2 model adds approach-avoidance distinctions within each orientation. Goal orientation is a motivational belief that operates in the forethought phase, shaping subsequent strategy selection and persistence.",
+        "line_number": 212,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 15571,
+        "char_end": 16188
+      },
+      {
+        "type": "definition",
+        "title": "Self-Efficacy Belief (Bandura, 1986; Pintrich & De Groot, 1990)",
+        "body": "A learner's judgment about their capability to perform the specific actions required to produce a specific outcome in a particular context. Distinguished from global self-concept, self-efficacy is task-specific, contextually sensitive, and empirically one of the strongest motivational predictors of cognitive strategy use and academic achievement in the SRL literature.",
+        "line_number": 215,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 16189,
+        "char_end": 16646
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Temporal Asymmetry is a Design Choice, Not Merely a Description",
+        "body": "Pintrich's four phases are not simply descriptive — they encode a claim about causal priority. The forethought phase is architecturally upstream from the control phase: you cannot regulate what you are not monitoring, and you cannot monitor with precision unless the forethought phase has activated the relevant dimensions of concern. This means that interventions targeting monitoring or control strategies will have structurally limited effects unless the motivational architecture established in forethought is also functional. This temporal asymmetry is what most cognitive-only SRL frameworks are architecturally unable to represent.",
+        "line_number": 230,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 18169,
+        "char_end": 18906
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Can you explain, without looking back, why treating motivation as a parallel *area* (rather than a sub-component of the forethought phase) changes what the framework can explain and what interventions it can recommend?\n**Application**: Think of a specific learning situation where you experienced strong monitoring of your comprehension but poor monitoring of your motivational state (e.g., drifting into avoidance without noticing it). Where did that failure register in the Pintrich matrix?\n**Extension**: What would a complete Pintrich-style analysis of your current PKB practice look like? What areas receive the most regulatory attention, and which receive the least?",
+        "line_number": 239,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 20270,
+        "char_end": 21014
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before reading this section, record your current assessment: How strong do you believe the empirical evidence for Pintrich's framework is? Rate your confidence (1–10) and note what kind of evidence would most change your view — positive or negative.",
+        "line_number": 248,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 21068,
+        "char_end": 21372
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Before reading the specific findings: predict which motivational belief — self-efficacy, task value, mastery goal orientation, or control beliefs — you expect to show the strongest relationship with deep cognitive strategy use. Commit to your prediction. The answer will test your intuitive model of the motivation-cognition interface.",
+        "line_number": 257,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 22559,
+        "char_end": 22941
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Motivational Belief Hierarchy",
+        "body": "Taken together, the evidence suggests a motivational belief hierarchy in terms of proximity to cognitive regulation: self-efficacy beliefs show the most direct and consistent relationship to strategy deployment, operating through a mechanism that looks like a competence appraisal that gates cognitive investment. Task value beliefs show stronger relationships to behavioral outcomes (persistence, help-seeking) and appear to operate through a different pathway — perhaps a resource allocation decision about whether this particular task warrants sustained cognitive effort. Goal orientations appear to shape the *type* of processing deployed (deep vs. surface) rather than the overall *level* of processing effort. These are not merely quantitatively different predictors — they appear to be qualitatively different mechanisms.",
+        "line_number": 268,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 24762,
+        "char_end": 25663
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Temporal Claims vs. Cross-Sectional Evidence",
+        "body": "Pintrich's framework is fundamentally temporal — it makes claims about regulatory activity *across time* within a learning episode, particularly the asymmetric importance of the forethought phase. Yet the overwhelming majority of MSLQ-based research uses cross-sectional or between-subjects designs that cannot test these temporal claims. The evidence base establishes that motivational beliefs and strategy use are correlated, but it largely cannot establish the direction of causation, the temporal precedence of forethought-phase regulation, or the dynamic monitoring-control cycles the framework describes. Studies using experience sampling or process-tracing methods (think-aloud protocols, log-file analysis) provide more compelling evidence but are far fewer in number. The mismatch between the framework's temporal ambition and its largely non-temporal evidence base is the most significant unresolved tension in the literature.",
+        "line_number": 279,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 26744,
+        "char_end": 27760
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Under-Tested Heart of the Framework",
+        "body": "The most provocative theoretical claim in Pintrich's framework — that the forethought phase sets up the entire regulatory architecture for the learning episode — is the claim with the weakest direct empirical support. The correlational evidence is consistent with it, but it is also consistent with simpler interpretations (e.g., that stable trait-like differences in self-efficacy and goal orientation explain both forethought-phase and in-learning activity). The causal temporal claim requires methods that have been applied only in a small number of studies. This is not a reason to abandon the framework, but it is a reason to hold the temporal architecture as a theoretically motivated working hypothesis rather than an established mechanism.",
+        "line_number": 284,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 28121,
+        "char_end": 28947
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: What is the single most important finding in this evidence base — not the most interesting correlation, but the finding that most changes how you understand the motivation-cognition interface?\n**Application**: Looking at the limitation around temporal claims vs. cross-sectional evidence: how would you design a study to test the forethought-phase primacy claim without a full experimental manipulation?\n**Extension**: The tension between self-report instruments and genuine within-episode regulation is unresolved. How do you think the advent of log-file analysis from digital learning environments might change this evidence base over the next decade?",
+        "line_number": 289,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 29482,
+        "char_end": 30206
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "The analysis ahead builds directly on the 4×4 matrix structure and the evidence patterns from Phase III and moves to a step-up in abstraction: the causal mechanisms through which forethought-phase motivational beliefs shape in-learning cognitive activity. If the matrix structure and evidence patterns feel shaky, a quick return to Phases II and III will pay dividends.",
+        "line_number": 298,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 30263,
+        "char_end": 30676
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Self-Efficacy as a Resource-Allocation Gate, Not a Motivational Booster",
+        "body": "The conventional framing of self-efficacy as \"confidence that boosts performance\" misses the mechanistic precision of what Pintrich's framework implies. Self-efficacy is better understood as a *resource allocation gate* — a forethought-phase computation that determines how much cognitive resources will be committed to the task and which quality of strategy will be deployed. This framing explains the consistent empirical finding that self-efficacy predicts strategy *quality* (deep vs. surface), not merely effort quantity. A learner with low self-efficacy may exert high effort through repeated rehearsal (a lower-cost strategy that requires less sustained engagement), while a learner with high self-efficacy allocates resources to elaborative and organizational strategies that require sustained deep engagement. The gate is not about how hard you try — it is about what you try.",
+        "line_number": 309,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 32374,
+        "char_end": 33362
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Goal Orientation as a Processing Frame, Not a Performance Predictor",
+        "body": "The popular reception of achievement goal theory in education has tended to treat mastery orientations as uniformly superior to performance orientations for academic achievement. The mechanistic analysis makes this too simple. Mastery goal orientation reliably predicts deep processing, but deep processing does not always predict academic achievement, particularly in high-stakes assessment contexts where retrieval of specific information is more important than elaborated understanding. The more accurate mechanistic claim is that goal orientation shapes *what kind of learning* occurs — the cognitive processing mode — and whether that mode produces high achievement depends on the match between the processing mode and the demands of the assessment context. This is a more nuanced prediction than \"mastery goals are better.\"",
+        "line_number": 318,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 34565,
+        "char_end": 35493
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Monitoring Bandwidth Problem",
+        "body": "Pintrich's framework implicitly identifies a monitoring bandwidth problem that has not been sufficiently articulated in the SRL literature. Effective self-regulation requires simultaneous monitoring across four categorically distinct domains. But metacognitive monitoring itself consumes [[Working-Memory|working memory]] resources, and [[Cognitive-Load-Theory-—-Focused-Analysis|cognitive load]] under complex learning tasks is already high. This creates a structural tension: precisely when monitoring is most needed (under high cognitive load, when deep processing is failing), the capacity for expanded monitoring across all four domains is most constrained. The learner who most needs motivational monitoring is often the one least equipped to perform it. This bandwidth problem is a key explanation for why self-regulation interventions often fail to transfer to real learning contexts — the conditions of genuine learning challenge are exactly the conditions under which the multi-domain monitoring the framework requires is most cognitively expensive.",
+        "line_number": 327,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 36653,
+        "char_end": 37776
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Forethought Architecture → Implementation Intentions Research",
+        "body": "The forethought-as-regulatory-architecture insight maps remarkably closely onto Peter Gollwitzer's research on [[Goal-Setting-Theory|implementation intentions]] in social psychology. Gollwitzer found that forming specific if-then plans before performance episodes (\"If I encounter situation X, I will do Y\") dramatically improves goal-attainment even in high-demand, cognitively depleted conditions — precisely because the regulation is effectively pre-loaded into the forethought phase rather than requiring in-the-moment deliberation. The structural parallel is exact: both Pintrich and Gollwitzer are identifying that the quality of the regulatory architecture established before the performance episode determines what is possible during it. The difference is that implementation intentions research operates at the behavioral level, while Pintrich's framework extends the pre-loading logic to the motivational and cognitive domains.",
+        "line_number": 336,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 39115,
+        "char_end": 40150
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Which of the three mechanisms — self-efficacy gating, goal orientation framing, or forethought pre-architecture — most changed your understanding of why motivation matters for cognition? What specifically changed?\n**Application**: Think of a concrete learning task you recently engaged in. Working backward: what regulatory architecture did your forethought phase construct? What goal orientation frame were you implicitly operating from? What self-efficacy appraisal did you form?\n**Extension**: The monitoring bandwidth problem suggests that the learners who most need motivational self-monitoring are those least equipped to perform it. What instructional or environmental scaffolds would address this problem structurally, rather than by demanding more self-monitoring effort from already-loaded learners?",
+        "line_number": 341,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 40731,
+        "char_end": 41613
+      },
+      {
+        "type": "best-practice",
+        "title": "Motivational Climate as an Upstream Intervention",
+        "body": "Classroom and learning environment design that creates mastery-oriented motivational climates — emphasizing improvement, treating errors as learning opportunities, reducing normative comparisons — is not merely a \"nice to have\" for student wellbeing. It is a mechanism that restructures the forethought-phase regulatory architecture that all students assemble before engaging with tasks. Motivational climate design is upstream cognitive strategy instruction.",
+        "line_number": 356,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 43084,
+        "char_end": 43618
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Task Value Is the Most Underutilized Motivational Lever",
+        "body": "In the applied SRL literature, self-efficacy interventions — growth mindset programs, mastery experience engineering, efficacy-affirming feedback — receive the most attention. This is partly justified by the strength of the self-efficacy-to-strategy evidence. But the evidence on task value suggests that it is a distinct pathway with distinct leverage points. Task value shapes choice and persistence more than strategy quality. This means that interventions targeting task value — particularly utility value (making explicit the connections between course content and students' future goals) — may address the help-seeking and persistence failures that self-efficacy interventions cannot reach. Eccles and Wigfield's [[Expectancy-Value-Theory]] is the most developed framework for this lever and deserves more integration with SRL instruction design.",
+        "line_number": 365,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 44609,
+        "char_end": 45548
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Framework's Strongest Claim May Not Be What People Think",
+        "body": "The popular reception of Pintrich's framework emphasizes the motivational-cognition integration. But reviewing the evidence carefully, the framework's empirically strongest claim is actually about the *differentiation* of motivational belief types — specifically, that self-efficacy, task value, and goal orientation are functionally distinct mechanisms with distinct pathways to learning outcomes. Many motivational interventions fail because they treat motivation as a single variable rather than as a differentiated architecture of qualitatively distinct beliefs. Pintrich's evidence base supports the claim that these distinctions are not merely conceptual but mechanistically real. This is the empirical claim that holds up most clearly under scrutiny.",
+        "line_number": 374,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 46602,
+        "char_end": 47459
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Implications",
+        "body": "**Comprehension**: What is the single most important limitation of the Pintrich framework for a practitioner trying to design SRL interventions? How does it affect how you would use the framework in practice?\n**Application**: If you were to design one PKB-practice intervention informed by Pintrich's framework, what motivational belief architecture would you attempt to construct in your own forethought phase before a PKB work session?\n**Extension**: The claim that task value and self-efficacy are functionally distinct motivational pathways implies that optimal SRL instruction addresses both. What would a dual-pathway intervention look like in a specific learning context you know well?",
+        "line_number": 383,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 48584,
+        "char_end": 49332
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Motivational-Regulatory Asymmetry: A Novel Framing",
+        "body": "The evidence, the mechanisms, and the framework structure together support a synthesis that Pintrich states implicitly but never fully articulates: there is a *motivational-regulatory asymmetry* in self-regulated learning. Cognitive regulation requires motivational architecture as a necessary precondition, but not vice versa. A learner can have fully functional motivational self-regulation (adaptive goal orientation, accurate self-efficacy, healthy task value) without deploying sophisticated cognitive strategies — motivation can be well-regulated even when cognitive strategy use is limited. But the converse is not true: cognitive strategy use without functional motivational architecture is systematically fragile. It breaks down under difficulty, disengages under low task value, and collapses when self-efficacy is threatened. The asymmetry is directional and non-trivial. It implies that motivational regulation is the more foundational of the two domains — not because it is more important for learning outcomes (cognitive strategy quality ultimately predicts comprehension more proximally), but because it is a *precondition* for the sustained deployment of cognitive strategies under the real conditions of challenging learning. This is the deepest insight the Pintrich framework yields, and it has direct implications for instructional sequencing: motivational architecture must be established before, not alongside, cognitive strategy instruction.",
+        "line_number": 400,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 51051,
+        "char_end": 52600
+      },
+      {
+        "type": "reflection",
+        "title": "Final Integration",
+        "body": "**Comprehension**: What is the single most consequential insight from this analysis — not the most interesting mechanism, but the insight that most changes how you would approach either your own learning regulation or the design of learning environments?\n**Application**: Translate the Motivational-Regulatory Asymmetry into a single concrete principle for your PKB practice. What is the specific practice implication?\n**Extension**: What is the most important question about self-regulated learning that Pintrich's framework cannot answer — and what kind of theoretical or methodological development would be required to answer it?",
+        "line_number": 413,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 54764,
+        "char_end": 55441
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Transfer Application",
+        "body": "Before reading the structural analogues below: identify one domain in your own work or study — outside of educational learning — where the Motivational-Regulatory Asymmetry might operate. What would \"motivational architecture before cognitive execution\" look like in that domain? Committing to this prediction before reading the analysis sharpens the comparison.",
+        "line_number": 422,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 55513,
+        "char_end": 55926
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Forethought Architecture → PKB Session Architecture",
+        "body": "In [[PKB|personal knowledge base]] practice, the \"forethought phase\" corresponds to the initial framing of a work session. When a PKB practitioner opens a session with a vague goal (\"I'll work on the SRL notes\"), the regulatory architecture that framing creates is analogous to performance-avoidance orientation in academic learning: completion becomes the implicit criterion, deep engagement is structurally unsupported, and failures of comprehension are more likely to produce surface repair (re-reading existing notes) than genuine elaboration. When a practitioner opens with a specific learning goal (\"I will elaborate the connection between Pintrich's self-efficacy mechanism and the monitoring-bandwidth problem, and create a permanent note capturing that synthesis\"), the forethought architecture activates mastery orientation, creates monitoring criteria for genuine understanding, and makes help-seeking (using search, generating questions) structurally appropriate. The Forethought Pre-Architecture Principle implies that PKB session quality is largely determined before any note is opened.",
+        "line_number": 435,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 56833,
+        "char_end": 58021
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Forethought Architecture → Clinical Pre-Commitment Strategies",
+        "body": "In clinical behavior change (addiction treatment, dietary behavior, exercise adherence), implementation intention research (Gollwitzer) and precommitment device research (Schelling) both operate on the same structural principle: if-then planning and precommitment devices function as forethought-phase architecture that pre-loads regulatory responses to anticipated high-risk situations. The mechanism is structurally identical to Pintrich's claim — regulation during the performance episode (resisting a craving, maintaining a dietary decision under social pressure) is easier when the regulatory response has been pre-structured in the forethought phase rather than requiring in-the-moment deliberation under high cognitive and motivational load. The transfer prediction: clinical interventions that build pre-architecture (specific if-then plans, environmental restructuring before the performance context) will outperform interventions that address only the performance-phase behavior.",
+        "line_number": 438,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 58022,
+        "char_end": 59109
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Motivational-Regulatory Asymmetry → Organizational Learning Architecture",
+        "body": "In organizational learning and knowledge management contexts, the equivalent asymmetry appears between *psychological safety* (the motivational/affective condition that enables knowledge sharing and error acknowledgment) and *knowledge management systems* (the cognitive/structural tools for capturing, organizing, and retrieving organizational knowledge). Amy Edmondson's research on psychological safety demonstrates that cognitive tools for knowledge management consistently underperform in teams with low psychological safety, even when the tools are excellent. But teams with high psychological safety can produce significant collective learning with minimal formal knowledge management infrastructure. The asymmetry holds: motivational architecture (psychological safety) is the more foundational domain. The transfer prediction: organizational knowledge management interventions that invest in tool quality without investing in the motivational climate that governs tool use will systematically underperform — precisely the pattern seen in many enterprise knowledge management failures.",
+        "line_number": 451,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 60233,
+        "char_end": 61435
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Multi-Dimensional Simultaneity → Habit Architecture Design",
+        "body": "In personal habit architecture (Fogg's BVM model, Clear's atomic habits framework), successful habit formation requires simultaneous construction in at least three distinct dimensions: motivation (values alignment, identity coherence), cognitive ease (routine clarity, low decision friction), and environmental design (contextual cues and affordances). Single-dimension habit interventions — which address only motivation (\"just want it enough\"), only cognition (\"make a detailed plan\"), or only environment (\"set up your gym clothes\") — show the characteristic failure pattern of the monitoring bandwidth problem: they address one dimension while leaving others unregulated, and those unregulated dimensions become failure points under stress, novelty, or competing demands. The multi-dimensional simultaneity principle predicts that habit architecture designed explicitly across all three dimensions simultaneously will outperform single-dimension approaches on long-term maintenance under variable conditions.",
+        "line_number": 464,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 62503,
+        "char_end": 63610
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Transfer Application",
+        "body": "Choose one of the three principles and identify the domain in your own work where it most directly applies. For that domain: What is the current forethought-phase architecture (or lack of one)? What is the motivational-to-cognitive-regulation relationship? What dimensions of regulation are being monitored simultaneously, and which are systematically neglected? Testing these predictions in your own practice is how transfer becomes genuine capability rather than abstract recognition.",
+        "line_number": 474,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 65263,
+        "char_end": 65800
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Transfer",
+        "body": "**Comprehension**: Which structural analogue surprised you most — where the Pintrich framework's structure appeared in a domain you wouldn't have expected?\n**Application**: Choose the Application Bridge to PKB Design. Write a one-paragraph forethought protocol for your next PKB work session, drawing explicitly on the three principles. The protocol should specify goal, self-efficacy appraisal, value framing, and monitoring criterion.\n**Extension**: The meta-transfer reflection noted that categorical distinctness between regulatory domains is what enables transferability. What does this suggest about the design of any self-regulatory model intended to travel beyond its originating domain?",
+        "line_number": 479,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 66251,
+        "char_end": 66998
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\n- **[[Self-Regulated-Learning]]** — The primary parent node for this analysis. Pintrich's framework is the most comprehensive single-theorist account within the broader SRL domain; this focused analysis drills into the specific architectural features and mechanisms that distinguish it from competing accounts.\n\n- **[[Pintrich's-Integrative-SRL-Framework]]** — The permanent note for the 4×4 matrix architecture itself. This analysis provides the deep mechanistic account that the permanent note should reference; the matrix's 16-cell structure is the organizational backbone of Phases II and IV.\n\n- **[[Pintrich's-Motivational-Integration]]** — The permanent note capturing Pintrich's specific contribution to motivational theory integration within SRL. The Motivational-Regulatory Asymmetry synthesis in Phase VI represents the analytical elaboration of this integration.\n\n- **[[MSLQ]]** — The [[MSLQ|Motivated Strategies for Learning Questionnaire]] is the empirical operationalization of Pintrich's framework. The Phase III critical evaluation of the MSLQ's evidence base provides the nuanced assessment of its strengths (differentiated motivational predictors) and limits (cross-sectional, self-report constraints) that the MSLQ node should incorporate.\n\n- **[[Goal-Orientation]]** — Pintrich's treatment of goal orientation as a forethought-phase motivational belief that shapes cognitive processing mode (mastery → deep processing; performance-avoidance → surface processing) provides the mechanistic account that connects goal orientation theory to cognitive outcomes. See also [[Mastery-Goal-Orientation]] and [[Performance-Goal-Orientation]].\n\n- **[[Self-Efficacy]]** — The self-efficacy-as-cognitive-gating-mechanism insight in Phase IV represents a mechanistic elaboration that goes beyond the standard Bandura account and should feed back into the Self-Efficacy permanent note.\n\n- **[[Metacognition-and-Self-Regulated-Learning]]** — The monitoring-bandwidth problem identified in Phase IV — that effective multi-domain monitoring is most needed and most cognitively expensive precisely when learning is most challenging — is a direct contribution to this connection node.\n\n- **[[Zimmerman's-Three-Phase-SRL-Cycle]]** — The architectural comparison in Phase II is the sharpest statement of what distinguishes Pintrich's framework from Zimmerman's: the treatment of motivation as a parallel area vs. as a sub-component of the forethought phase. These two frameworks are related but non-equivalent, and the distinction has practical consequences for intervention design.\n\n- **[[Forethought-Phase]]** — Phase IV's treatment of the forethought phase as a *pre-architecture* construction — not merely goal-setting but the assembly of the entire regulatory structure for the episode — deepens the standard account of this phase.\n\n- **[[Expectancy-Value-Theory]]** — The Phase V identification of task value as a functionally distinct motivational pathway (predicting persistence and choice more than strategy quality, distinct from self-efficacy) creates a specific connection to Eccles and Wigfield's expectancy-value framework as a complementary theoretical resource.\n\n- **[[Attribution-Theory]]** — The Phase 4 reflection component of Pintrich's cycle — where causal attributions shape the motivational beliefs that will govern the next forethought phase — creates a direct functional link to Weiner's attribution theory as the mechanism account for how Phase 4 reflection feeds back into Phase 1 activation.\n\n- **[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]** — The Winne-Hadwin COPES model offers a complementary account that is more cognitive and more process-tracing in its methodology. The comparison illuminates what Pintrich's motivational integration adds that a purely cognitive processing account cannot capture.\n\n**Cross-Report Links:**\n\n- **[[self-regulated-learning-focused-analysis-2026-03-06]]** — The earlier focused analysis of SRL provides the broader landscape. This Pintrich-focused analysis should be read as a complement that drills into one theorist's contribution in depth rather than surveying the field.\n\n- **[[metacognition-in-learning-focused-analysis-2026-03-20]]** — The metacognition in learning report covers the monitoring and regulation mechanisms that constitute Pintrich's Phase 2 and Phase 3 in depth. The connection is bidirectional: the metacognitive framework needs motivational context (Pintrich), and the SRL framework needs cognitive processing precision (metacognition in learning report).\n\n**Synthetic Observation**: The connections from this analysis reveal a tripartite structure underlying the PKB's SRL-related nodes: (1) the motivational architecture side (goal orientation, self-efficacy, expectancy-value, attribution theory), (2) the cognitive strategy and metacognition side (monitoring, regulation, strategy selection), and (3) the model comparison side (Pintrich, Zimmerman, Winne-Hadwin). Pintrich's integrative framework is the node that most directly bridges all three sides, which explains why it occupies such a structurally central position in the knowledge graph.",
+        "line_number": 488,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 67057,
+        "char_end": 72308
+      },
+      {
+        "type": "definition",
+        "title": "Self-Regulation (Pintrich, 2000)",
+        "body": "The active, constructive process by which learners set goals and monitor, regulate, and control their cognition, motivation, and behavior, guided by goals and environmental features. Encompasses four areas (cognitive, motivational/affective, behavioral, contextual) and four phases (forethought, monitoring, control, reflection).",
+        "line_number": 529,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 72366,
+        "char_end": 72751
+      },
+      {
+        "type": "definition",
+        "title": "Forethought Phase",
+        "body": "The first temporal phase in Pintrich's SRL cycle. Encompasses all regulatory activity prior to task engagement: goal adoption and planning, activation of self-efficacy beliefs, assessment of task value, activation of goal orientations, and appraisal of contextual conditions. Argued in this analysis to constitute the construction of the *regulatory architecture* that governs subsequent monitoring and control.",
+        "line_number": 532,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 72752,
+        "char_end": 73204
+      },
+      {
+        "type": "definition",
+        "title": "Motivational Belief (Pintrich, 2000)",
+        "body": "A learner's judgment, belief, or perception about themselves or the task that energizes and directs goal-directed behavior. Distinguished from cognitive strategies (which are what learners do) and from motivation constructs like drive (which are not domain-specific). Includes self-efficacy, task value, goal orientation, and control beliefs.",
+        "line_number": 535,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 73205,
+        "char_end": 73607
+      },
+      {
+        "type": "definition",
+        "title": "Self-Efficacy for Learning and Performance (Bandura, 1986; Pintrich & De Groot, 1990)",
+        "body": "A learner's judgment about their capability to perform the cognitive and self-regulatory activities required to achieve academic goals in a specific context. Distinguished from global self-concept by its contextual and task-specificity. The strongest and most consistent motivational predictor of cognitive strategy use in the SRL empirical literature.",
+        "line_number": 538,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 73608,
+        "char_end": 74069
+      },
+      {
+        "type": "definition",
+        "title": "MSLQ (Motivated Strategies for Learning Questionnaire) (Pintrich et al., 1991)",
+        "body": "An 81-item self-report questionnaire measuring the motivational orientation and learning strategy use of college students. Organized around Pintrich's SRL framework with two major sections: Motivation (measuring self-efficacy, intrinsic value, task value, control beliefs, test anxiety) and Learning Strategies (measuring cognitive strategies: rehearsal, elaboration, organization, critical thinking; metacognitive self-regulation; and resource management: time/study environment, effort regulation, peer learning, help-seeking).",
+        "line_number": 541,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 74070,
+        "char_end": 74701
+      },
+      {
+        "type": "definition",
+        "title": "Goal Orientation (Ames, 1992; Dweck, 1986; Pintrich, 2000)",
+        "body": "A motivational belief pattern concerning the purpose of achievement engagement. In the 2×2 model: mastery-approach (focus on developing competence), mastery-avoidance (focus on not losing competence), performance-approach (focus on demonstrating superior competence), performance-avoidance (focus on avoiding demonstrations of incompetence). Mastery orientation consistently predicts deeper cognitive processing; performance-avoidance orientation predicts surface processing.",
+        "line_number": 544,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 74702,
+        "char_end": 75259
+      },
+      {
+        "type": "definition",
+        "title": "Task Value (Eccles et al., 1983; Pintrich, 2000)",
+        "body": "A learner's subjective evaluation of a learning task along three dimensions: intrinsic value (inherent enjoyment), utility value (perceived usefulness for future goals), and attainment value (importance for self-concept). Empirically, task value shows stronger relationships to behavioral outcomes (persistence, choice, help-seeking) than to cognitive strategy quality, suggesting it operates through a distinct motivational pathway from self-efficacy.",
+        "line_number": 547,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 75260,
+        "char_end": 75784
+      },
+      {
+        "type": "definition",
+        "title": "Metacognitive Self-Regulation (Flavell, 1979; Pintrich, 2000)",
+        "body": "Within Pintrich's framework, the cognitive-area component that encompasses awareness, knowledge, and regulation of one's cognitive processes: planning (setting goals, activating prior knowledge, selecting strategies), monitoring (comprehension checking, tracking cognitive progress), and regulation (revising strategies, allocating attention). Treated as a sub-domain of the Cognition area in the 4×4 matrix.",
+        "line_number": 550,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 75785,
+        "char_end": 76278
+      },
+      {
+        "type": "definition",
+        "title": "Effort Regulation",
+        "body": "A behavioral-area component in Pintrich's SRL framework referring to learners' ability to manage their effort and attention during learning in the face of distractions, difficult material, or flagging motivation. One of the most practically significant MSLQ subscales because it predicts persistence under adversity more directly than motivational belief subscales.",
+        "line_number": 553,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 76279,
+        "char_end": 76685
+      },
+      {
+        "type": "definition",
+        "title": "Monitoring-Control Coupling",
+        "body": "The functional relationship between metacognitive monitoring (Phase 2) and cognitive/behavioral/motivational control (Phase 3) in Pintrich's framework. Monitoring generates signals about the current regulatory state across all four areas; control responds to those signals with adjustments. The coupling is the feedback mechanism that makes self-regulation adaptive. The monitoring-bandwidth problem identified in this analysis concerns the cognitive cost of maintaining effective coupling across all four regulatory domains simultaneously.",
+        "line_number": 556,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 76686,
+        "char_end": 77277
+      },
+      {
+        "type": "definition",
+        "title": "Motivational-Regulatory Asymmetry",
+        "body": "An original synthesis proposed in this analysis: the claim that cognitive regulation requires functional motivational architecture as a necessary precondition, but not vice versa. Motivational dysregulation cascades into cognitive regulatory failure (fragile strategy use, degraded monitoring quality, maladaptive persistence); cognitive strategy limitation does not equivalently cascade into motivational dysregulation. This asymmetry implies that motivational architecture is the more foundational of the two regulatory domains for sustained deep engagement with challenging learning tasks.",
+        "line_number": 559,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 77278,
+        "char_end": 77927
+      },
+      {
+        "type": "cite",
+        "title": "Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 452–502). Academic Press.",
+        "body": "The mature theoretical statement of Pintrich's integrative framework, presenting the 4×4 matrix in its most developed form. Introduces the four-area, four-phase structure and argues for the treatment of motivation as a parallel regulatory domain. Supports Phases II, IV, and VI of this analysis.",
+        "line_number": 564,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 77947,
+        "char_end": 78455
+      },
+      {
+        "type": "cite",
+        "title": "Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology, 82*(1), 33–40.",
+        "body": "The foundational empirical study demonstrating that self-efficacy is the strongest motivational predictor of cognitive strategy use and academic performance in a sample of seventh-grade students. Established the self-efficacy-to-strategy empirical foundation. Supports Phase III.",
+        "line_number": 567,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 78456,
+        "char_end": 78933
+      },
+      {
+        "type": "cite",
+        "title": "Pintrich, P. R., Smith, D. A. F., Garcia, T., & McKeachie, W. J. (1991). *A manual for the use of the Motivated Strategies for Learning Questionnaire (MSLQ)*. University of Michigan, National Center for Research to Improve Postsecondary Teaching and Learning.",
+        "body": "The technical manual for the MSLQ, documenting its factor structure, reliability, and initial validity evidence. The foundational reference for the instrument as a theory-testing tool. Supports Phase III.",
+        "line_number": 570,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 78934,
+        "char_end": 79415
+      },
+      {
+        "type": "cite",
+        "title": "Pintrich, P. R. (2004). A conceptual framework for assessing motivation and self-regulated learning in college students. *Educational Psychology Review, 16*(4), 385–407.",
+        "body": "A later theoretical synthesis applying the framework specifically to college-level learning contexts. Refines the treatment of motivational beliefs and addresses some of the temporal claims more explicitly than earlier papers. Supports Phases II, IV.",
+        "line_number": 573,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 79416,
+        "char_end": 79853
+      },
+      {
+        "type": "cite",
+        "title": "Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice Hall.",
+        "body": "The foundational theoretical source for [[Albert-Bandura|Bandura's]] self-efficacy construct as used in Pintrich's framework. The social cognitive theory provides the mechanism account for how self-efficacy beliefs are formed, maintained, and revised across the four sources of efficacy information. Supports Phase IV.",
+        "line_number": 576,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 79854,
+        "char_end": 80295
+      },
+      {
+        "type": "cite",
+        "title": "Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.",
+        "body": "Zimmerman's parallel theoretical account in the same handbook volume. Comparison with Pintrich's chapter in the same volume makes the architectural differences maximally visible. Supports Phase II analysis of how Pintrich's framework differs from Zimmerman's.",
+        "line_number": 579,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 80296,
+        "char_end": 80769
+      },
+      {
+        "type": "cite",
+        "title": "Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Erlbaum.",
+        "body": "The COPES model of self-regulated learning as an information processing sequence. Offers a contrasting theoretical perspective that prioritizes cognitive processing precision over motivational integration. Useful as a structural contrast to Pintrich's approach. Supports Phase II structural comparison.",
+        "line_number": 582,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 80770,
+        "char_end": 81294
+      },
+      {
+        "type": "cite",
+        "title": "Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.",
+        "body": "The foundational empirical paper establishing the relationship between classroom goal structures and student goal orientation adoption. Critical support for the contextual area of Pintrich's framework — specifically, the claim that learners' motivational belief architecture is shaped by the motivational climate of the learning environment. Supports Phases II and V.",
+        "line_number": 585,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 81295,
+        "char_end": 81804
+      },
+      {
+        "type": "cite",
+        "title": "Eccles, J. S., Wigfield, A., Harold, R. D., & Blumenfeld, P. (1993). Age and gender differences in children's self- and task perceptions during elementary school. *Child Development, 64*(3), 830–847.",
+        "body": "Empirical support for the differentiation of task value components (intrinsic, utility, attainment) and their distinct predictive patterns for choice versus effort. Supports Phase V's claim that task value and self-efficacy are functionally distinct motivational pathways.",
+        "line_number": 588,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 81805,
+        "char_end": 82294
+      },
+      {
+        "type": "cite",
+        "title": "Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503.",
+        "body": "The foundational implementation intention paper demonstrating that if-then planning in the forethought phase dramatically improves goal attainment under high-demand conditions. Provides empirical support for the cross-domain structural analogue in Phase VII — the parallel between Pintrich's forethought-architecture claim and Gollwitzer's pre-loading logic.",
+        "line_number": 591,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 82295,
+        "char_end": 82796
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on (1) empirically established claims: the self-efficacy-to-strategy prediction relationship, the mastery-orientation-to-deep-processing relationship, the functional differentiation of task value and self-efficacy as distinct motivational pathways, and the factor structure of the MSLQ as established across multiple validation studies; (2) theoretical integrations: the treatment of the forethought phase as a pre-architectural construction, the monitoring-bandwidth problem, and the comparison of Pintrich's and Zimmerman's architectural differences — these are theoretically motivated claims consistent with the evidence but not directly tested by any single study; (3) Claude's original analytical contributions: the Motivational-Regulatory Asymmetry framing in Phase VI, the self-efficacy-as-sensitivity-adjustment account of the monitoring-control coupling in Phase VI, the monitoring-bandwidth problem articulation in Phase IV, and the three FAR Transfer principles with their structural analogues in Phase VII. The attribution claim in (3) is flagged because these syntheses go beyond what any individual source states, though they are grounded in and consistent with the reviewed evidence. The FAR Transfer methodology is grounded in Gentner's structural mapping theory and Barnett & Ceci's (2002) taxonomy of transfer dimensions.",
+        "line_number": 596,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 82834,
+        "char_end": 84262
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Practice",
+        "body": "> [!topic-idea] [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]\n> A focused comparison of the COPES model's information-processing architecture against Pintrich's motivationally-integrated matrix would reveal precisely where pure cognitive process-tracing accounts gain and lose explanatory power relative to motivationally integrated accounts. The comparison would sharpen the claim made in this analysis that the monitoring-bandwidth problem is invisible to purely cognitive SRL models. The COPES model's strength is its process precision; Pintrich's strength is its motivational breadth. A synthesis would be the most complete account either framework alone can provide.\n\n> [!topic-idea] [[A-focused-analysis-of-mastery-vs.-performance-goal-orientations-and-the-2×2-mode]]\n> The 2×2 achievement goal model (mastery-approach, mastery-avoidance, performance-approach, performance-avoidance) has generated a substantial and sometimes contradictory empirical literature. A focused analysis drilling into the evidence for each quadrant — particularly the contested role of performance-approach orientation — would resolve some of the interpretive ambiguities left open in Phase III of this analysis. The performance-approach quadrant's inconsistent empirical pattern is theoretically significant and practically important for assessment design.\n\n> [!topic-idea] [[Metacognition-&-Motivation]]\n> The connection between metacognitive monitoring quality and motivational belief architecture — specifically, the claim in this analysis that low self-efficacy degrades monitoring quality rather than merely reducing strategy activation — deserves a dedicated investigation. This would bridge the metacognition and motivation literatures in a way that neither currently handles well. The investigation would require process-tracing studies (think-aloud protocols, eye-tracking) examining whether self-efficacy manipulations change the quality of monitoring signals, not just the quantity of strategy use.\n\n> [!topic-idea] [[Goal-Setting-Theory]]\n> A transfer-oriented investigation applying Pintrich's forethought-architecture principle to the goal-setting literature: How do Locke and Latham's goal-setting mechanisms interact with the motivational belief architecture of the SRL forethought phase? Specific goal-setting (the SMART criteria) addresses one component of the forethought phase but leaves the self-efficacy, task value, and goal-orientation dimensions unaddressed. A synthesis would produce a richer account of how goal-setting interventions actually work through the SRL mechanism chain.\n\n> [!topic-idea] [[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]\n> This expansion topic exists in the PKB and represents a natural next-level investigation: applying the resource-allocation framing to the Pintrich matrix explicitly. The monitoring-bandwidth problem identified in Phase IV is essentially a resource-allocation problem — cognitive resources are finite, and monitoring across four domains simultaneously is expensive. A full treatment would model the trade-offs and identify the conditions under which selective attention to specific regulatory areas (rather than omnidirectional monitoring) is the rational regulatory strategy.\n\n> [!topic-idea] [[Expectancy-Value-Theory]]\n> The Phase V identification of task value as a functionally distinct motivational pathway from self-efficacy — with different outcome predictions and different intervention leverage points — warrants a dedicated analysis of Eccles and Wigfield's expectancy-value framework as a theoretical complement to Pintrich's account. Specifically, utility value interventions (making explicit the connections between course content and students' future goals) have a strong evidence base for improving persistence and help-seeking that is largely independent of self-efficacy interventions. An integration would produce a more complete motivational intervention toolkit than either framework provides alone.",
+        "line_number": 601,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md",
+        "char_start": 84288,
+        "char_end": 88388
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 165,
+        "section": "The Motivational-Cognition Problem",
+        "context_line": "There is a structural problem at the heart of learning science that most introductions to [[Self-Regulated-Learning]] pass over quietly. The problem is this: we have known for decades that how students *think about* learning — their beliefs about their competence, their goals, their sense of the task's value — powerfully predicts how they actually perform cognitive strategies, how long they persist, and whether they learn at depth or at surface. Yet the dominant early models of self-regulated learning were almost exclusively cognitive. They described monitoring, controlling, and regulating cognitive processes as if motivation were a stable background variable rather than itself an object of active regulation.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Paul-Pintrich",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paul-Pintrich]]",
+        "line_number": 167,
+        "section": "The Motivational-Cognition Problem",
+        "context_line": "This is the problem that [[Paul-Pintrich]] spent his career solving. His solution — the integrative, motivationally-rich framework that reached its mature form in a landmark 2000 paper and was operationalized as the [[MSLQ|Motivated Strategies for Learning Questionnaire]] — does not simply add motivation to a cognitive model. It re-architects the entire framework so that motivation and cognition are treated as parallel regulatory domains, governed by the same temporal logic, subject to the same phase structure, and analyzed with equivalent analytical depth. The result is the most comprehensive single-theorist account of self-regulated learning that educational psychology has produced.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "MSLQ",
+        "heading": null,
+        "display_text": "Motivated Strategies for Learning Questionnaire",
+        "full_match": "[[MSLQ|Motivated Strategies for Learning Questionnaire]]",
+        "line_number": 167,
+        "section": "The Motivational-Cognition Problem",
+        "context_line": "This is the problem that [[Paul-Pintrich]] spent his career solving. His solution — the integrative, motivationally-rich framework that reached its mature form in a landmark 2000 paper and was operationalized as the [[MSLQ|Motivated Strategies for Learning Questionnaire]] — does not simply add motivation to a cognitive model. It re-architects the entire framework so that motivation and cognition are treated as parallel regulatory domains, governed by the same temporal logic, subject to the same phase structure, and analyzed with equivalent analytical depth. The result is the most comprehensive single-theorist account of self-regulated learning that educational psychology has produced.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Zimmerman's-Three-Phase-SRL-Cycle",
+        "heading": null,
+        "display_text": "Zimmerman model",
+        "full_match": "[[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman model]]",
+        "line_number": 177,
+        "section": "Scope and Boundaries",
+        "context_line": "This analysis focuses on the mature Pintrich framework as articulated in the 1999–2004 period, particularly Pintrich (2000) and Pintrich (2004). It does not attempt a comprehensive review of all SRL research or a full comparison across all SRL models. The [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman model]] and [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's COPES model]] are brought in as structural contrasts where they illuminate Pintrich's specific contributions. The [[MSLQ]] is treated as the empirical operationalization of the framework, not as a separate instrument to be reviewed independently. For broader coverage of the SRL landscape, the [[Self-Regulated-Learning-—-Focused-Analysis]] report covers the full terrain.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Winne-&-Hadwin's-Metacognitive-Processing-Model",
+        "heading": null,
+        "display_text": "Winne and Hadwin's COPES model",
+        "full_match": "[[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's COPES model]]",
+        "line_number": 177,
+        "section": "Scope and Boundaries",
+        "context_line": "This analysis focuses on the mature Pintrich framework as articulated in the 1999–2004 period, particularly Pintrich (2000) and Pintrich (2004). It does not attempt a comprehensive review of all SRL research or a full comparison across all SRL models. The [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman model]] and [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's COPES model]] are brought in as structural contrasts where they illuminate Pintrich's specific contributions. The [[MSLQ]] is treated as the empirical operationalization of the framework, not as a separate instrument to be reviewed independently. For broader coverage of the SRL landscape, the [[Self-Regulated-Learning-—-Focused-Analysis]] report covers the full terrain.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "MSLQ",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MSLQ]]",
+        "line_number": 177,
+        "section": "Scope and Boundaries",
+        "context_line": "This analysis focuses on the mature Pintrich framework as articulated in the 1999–2004 period, particularly Pintrich (2000) and Pintrich (2004). It does not attempt a comprehensive review of all SRL research or a full comparison across all SRL models. The [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman model]] and [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's COPES model]] are brought in as structural contrasts where they illuminate Pintrich's specific contributions. The [[MSLQ]] is treated as the empirical operationalization of the framework, not as a separate instrument to be reviewed independently. For broader coverage of the SRL landscape, the [[Self-Regulated-Learning-—-Focused-Analysis]] report covers the full terrain.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Self-Regulated-Learning-—-Focused-Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning-—-Focused-Analysis]]",
+        "line_number": 177,
+        "section": "Scope and Boundaries",
+        "context_line": "This analysis focuses on the mature Pintrich framework as articulated in the 1999–2004 period, particularly Pintrich (2000) and Pintrich (2004). It does not attempt a comprehensive review of all SRL research or a full comparison across all SRL models. The [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman model]] and [[Winne-&-Hadwin's-Metacognitive-Processing-Model|Winne and Hadwin's COPES model]] are brought in as structural contrasts where they illuminate Pintrich's specific contributions. The [[MSLQ]] is treated as the empirical operationalization of the framework, not as a separate instrument to be reviewed independently. For broader coverage of the SRL landscape, the [[Self-Regulated-Learning-—-Focused-Analysis]] report covers the full terrain.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Metacognition-and-Self-Regulated-Learning",
+        "heading": null,
+        "display_text": "Metacognitive self-regulation",
+        "full_match": "[[Metacognition-and-Self-Regulated-Learning|Metacognitive self-regulation]]",
+        "line_number": 204,
+        "section": "The Four Areas",
+        "context_line": "**Cognition** covers what the learner does *mentally* during learning: the strategies deployed to process information, and the metacognitive operations that monitor and control those strategies. [[Metacognition-and-Self-Regulated-Learning|Metacognitive self-regulation]] — planning, monitoring comprehension, regulating cognitive effort in response to difficulty signals — is a sub-component of the cognitive area, not the whole picture.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Goal-Orientation",
+        "heading": null,
+        "display_text": "goal orientations",
+        "full_match": "[[Goal-Orientation|goal orientations]]",
+        "line_number": 206,
+        "section": "The Four Areas",
+        "context_line": "**Motivation/Affect** covers the beliefs, goals, and emotional states that energize and direct cognitive engagement. This includes [[Goal-Orientation|goal orientations]] (the reasons learners pursue learning tasks), [[Self-Efficacy|self-efficacy beliefs]] (judgments about one's capacity to perform), task value beliefs (the perceived importance, interest, and utility of the task), and control beliefs (attributions about the causes of outcomes). This is the area that most distinctively marks Pintrich's framework.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": "self-efficacy beliefs",
+        "full_match": "[[Self-Efficacy|self-efficacy beliefs]]",
+        "line_number": 206,
+        "section": "The Four Areas",
+        "context_line": "**Motivation/Affect** covers the beliefs, goals, and emotional states that energize and direct cognitive engagement. This includes [[Goal-Orientation|goal orientations]] (the reasons learners pursue learning tasks), [[Self-Efficacy|self-efficacy beliefs]] (judgments about one's capacity to perform), task value beliefs (the perceived importance, interest, and utility of the task), and control beliefs (attributions about the causes of outcomes). This is the area that most distinctively marks Pintrich's framework.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Zimmerman's-Three-Phase-SRL-Cycle",
+        "heading": null,
+        "display_text": "Zimmerman's cyclical model",
+        "full_match": "[[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman's cyclical model]]",
+        "line_number": 235,
+        "section": "How This Differs from Zimmerman's Model",
+        "context_line": "[[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman's cyclical model]] also has a forethought-performance-reflection structure, and also includes motivational components (self-efficacy, goal-setting, intrinsic interest). The critical architectural difference is that in Zimmerman's model, these motivational components are *sub-components within the forethought phase*, analyzed as part of a unified phase structure. In Pintrich's model, motivation is a parallel *area* with its own full phase trajectory. Motivation is not just relevant at the start; it is an object of regulation throughout the entire episode — monitored in Phase 2, controlled in Phase 3, reflected upon in Phase 4. This is a fundamental architectural distinction, not a difference in emphasis.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "MSLQ",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MSLQ]]",
+        "line_number": 253,
+        "section": "The Evidence Landscape",
+        "context_line": "The empirical foundation for Pintrich's framework is unusually strong for a comprehensive theoretical model, for a specific reason: Pintrich and his colleagues built the [[MSLQ]] as an instrument precisely designed to test the framework's predictions. The MSLQ is an 81-item self-report questionnaire measuring both motivational beliefs (self-efficacy for learning and performance, intrinsic value, task value, control beliefs, test anxiety) and learning strategies (rehearsal, elaboration, organization, critical thinking, metacognitive self-regulation, time and study environment management, effort regulation, peer learning, help-seeking). This instrument-framework alignment means the empirical literature is genuinely theory-testing rather than just broadly relevant.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": "self-efficacy for learning",
+        "full_match": "[[Self-Efficacy|self-efficacy for learning]]",
+        "line_number": 262,
+        "section": "Key Findings and Patterns",
+        "context_line": "The most consistent empirical finding across the MSLQ validation and predictive validity literature is a strong, replicable relationship between [[Self-Efficacy|self-efficacy for learning]] and cognitive strategy use. Pintrich and De Groot (1990), in one of the foundational studies, found that self-efficacy was the strongest motivational predictor of cognitive strategy use and academic performance in a large sample of seventh-grade students, with effects that held even after controlling for prior achievement. This pattern has been replicated across educational levels and cultural contexts with remarkable consistency.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Goal-Orientation",
+        "heading": null,
+        "display_text": "mastery goal orientation",
+        "full_match": "[[Goal-Orientation|mastery goal orientation]]",
+        "line_number": 264,
+        "section": "Key Findings and Patterns",
+        "context_line": "The relationship between [[Goal-Orientation|mastery goal orientation]] and deep-processing strategies (elaboration, organization, critical thinking) is also well established, though the effect size is consistently smaller than the self-efficacy relationship. Performance goal orientation shows a more complicated pattern: performance-approach orientation shows inconsistent effects across studies (sometimes positive, sometimes null), while performance-avoidance orientation shows a fairly consistent negative relationship with deep processing strategies and a positive relationship with surface strategies like rote rehearsal.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Expectancy-Value-Theory",
+        "heading": null,
+        "display_text": "Task value",
+        "full_match": "[[Expectancy-Value-Theory|Task value]]",
+        "line_number": 266,
+        "section": "Key Findings and Patterns",
+        "context_line": "[[Expectancy-Value-Theory|Task value]] — the perceived importance, utility, and intrinsic interest of the task — shows a distinct pattern from self-efficacy. While self-efficacy predicts strategy use most strongly, task value shows stronger relationships with choice, persistence, and help-seeking behaviors. This divergence is theoretically meaningful: it suggests that the confidence pathway (self-efficacy) and the value pathway (task value) are functionally distinct motivational mechanisms operating through different channels.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": "metacognitive monitoring",
+        "full_match": "[[Metacognitive-Monitoring|metacognitive monitoring]]",
+        "line_number": 275,
+        "section": "Critical Evaluation",
+        "context_line": "First, the instrument is a self-report questionnaire measuring retrospective or trait-like tendencies. Research on [[Metacognitive-Monitoring|metacognitive monitoring]] accuracy consistently shows that learners are poor judges of their own strategy use, particularly in the moment of use. The MSLQ may be measuring stable beliefs about typical behavior rather than dynamic regulatory activity during specific learning episodes. This is a fundamental limitation for a framework whose most interesting claims are about *within-episode* regulation.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": "self-efficacy beliefs",
+        "full_match": "[[Self-Efficacy|self-efficacy beliefs]]",
+        "line_number": 303,
+        "section": "The Self-Efficacy Mechanism: A Cognitive Gating Model",
+        "context_line": "The most important mechanism in Pintrich's framework is the pathway from [[Self-Efficacy|self-efficacy beliefs]] to cognitive strategy use. The pattern in the evidence — that self-efficacy is the strongest motivational predictor of strategy deployment — requires a mechanistic account, and Pintrich draws on [[Albert-Bandura|Bandura's]] social cognitive theory to provide one.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Albert-Bandura",
+        "heading": null,
+        "display_text": "Bandura's",
+        "full_match": "[[Albert-Bandura|Bandura's]]",
+        "line_number": 303,
+        "section": "The Self-Efficacy Mechanism: A Cognitive Gating Model",
+        "context_line": "The most important mechanism in Pintrich's framework is the pathway from [[Self-Efficacy|self-efficacy beliefs]] to cognitive strategy use. The pattern in the evidence — that self-efficacy is the strongest motivational predictor of strategy deployment — requires a mechanistic account, and Pintrich draws on [[Albert-Bandura|Bandura's]] social cognitive theory to provide one.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Goal-Orientation",
+        "heading": null,
+        "display_text": "goal orientation",
+        "full_match": "[[Goal-Orientation|goal orientation]]",
+        "line_number": 314,
+        "section": "Goal Orientation and Processing Depth",
+        "context_line": "The [[Goal-Orientation|goal orientation]] mechanism operates somewhat differently and at a different level of abstraction from self-efficacy. Where self-efficacy gates resource allocation, goal orientation shapes the *type* of processing that is activated.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Metacognitive-Monitoring",
+        "heading": null,
+        "display_text": "Metacognitive monitoring",
+        "full_match": "[[Metacognitive-Monitoring|Metacognitive monitoring]]",
+        "line_number": 323,
+        "section": "The Monitoring-Control Coupling",
+        "context_line": "[[Metacognitive-Monitoring|Metacognitive monitoring]] and control in the Pintrich framework are not two separate processes but a functionally coupled cycle: monitoring generates signals about the current state of learning, and control responds to those signals by adjusting the cognitive, motivational, behavioral, or contextual approach.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Working-Memory",
+        "heading": null,
+        "display_text": "working memory",
+        "full_match": "[[Working-Memory|working memory]]",
+        "line_number": 328,
+        "section": "The Monitoring-Control Coupling",
+        "context_line": "> Pintrich's framework implicitly identifies a monitoring bandwidth problem that has not been sufficiently articulated in the SRL literature. Effective self-regulation requires simultaneous monitoring across four categorically distinct domains. But metacognitive monitoring itself consumes [[Working-Memory|working memory]] resources, and [[Cognitive-Load-Theory-—-Focused-Analysis|cognitive load]] under complex learning tasks is already high. This creates a structural tension: precisely when monitoring is most needed (under high cognitive load, when deep processing is failing), the capacity for expanded monitoring across all four domains is most constrained. The learner who most needs motivational monitoring is often the one least equipped to perform it. This bandwidth problem is a key explanation for why self-regulation interventions often fail to transfer to real learning contexts — the conditions of genuine learning challenge are exactly the conditions under which the multi-domain monitoring the framework requires is most cognitively expensive.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Cognitive-Load-Theory-—-Focused-Analysis",
+        "heading": null,
+        "display_text": "cognitive load",
+        "full_match": "[[Cognitive-Load-Theory-—-Focused-Analysis|cognitive load]]",
+        "line_number": 328,
+        "section": "The Monitoring-Control Coupling",
+        "context_line": "> Pintrich's framework implicitly identifies a monitoring bandwidth problem that has not been sufficiently articulated in the SRL literature. Effective self-regulation requires simultaneous monitoring across four categorically distinct domains. But metacognitive monitoring itself consumes [[Working-Memory|working memory]] resources, and [[Cognitive-Load-Theory-—-Focused-Analysis|cognitive load]] under complex learning tasks is already high. This creates a structural tension: precisely when monitoring is most needed (under high cognitive load, when deep processing is failing), the capacity for expanded monitoring across all four domains is most constrained. The learner who most needs motivational monitoring is often the one least equipped to perform it. This bandwidth problem is a key explanation for why self-regulation interventions often fail to transfer to real learning contexts — the conditions of genuine learning challenge are exactly the conditions under which the multi-domain monitoring the framework requires is most cognitively expensive.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Goal-Setting-Theory",
+        "heading": null,
+        "display_text": "implementation intentions",
+        "full_match": "[[Goal-Setting-Theory|implementation intentions]]",
+        "line_number": 337,
+        "section": "The Forethought Phase as a Regulatory Architecture",
+        "context_line": "> The forethought-as-regulatory-architecture insight maps remarkably closely onto Peter Gollwitzer's research on [[Goal-Setting-Theory|implementation intentions]] in social psychology. Gollwitzer found that forming specific if-then plans before performance episodes (\"If I encounter situation X, I will do Y\") dramatically improves goal-attainment even in high-demand, cognitively depleted conditions — precisely because the regulation is effectively pre-loaded into the forethought phase rather than requiring in-the-moment deliberation. The structural parallel is exact: both Pintrich and Gollwitzer are identifying that the quality of the regulatory architecture established before the performance episode determines what is possible during it. The difference is that implementation intentions research operates at the behavioral level, while Pintrich's framework extends the pre-loading logic to the motivational and cognitive domains.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "MSLQ",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MSLQ]]",
+        "line_number": 361,
+        "section": "Practical Applications",
+        "context_line": "The [[MSLQ]] has genuine diagnostic value as an instrument for identifying motivational belief and strategy profiles — both at the group level (to understand class-wide regulatory patterns) and at the individual level (to identify students whose self-efficacy, goal orientation, or task value architecture is creating systematic regulatory failures).",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Expectancy-Value-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expectancy-Value-Theory]]",
+        "line_number": 366,
+        "section": "Practical Applications",
+        "context_line": "> In the applied SRL literature, self-efficacy interventions — growth mindset programs, mastery experience engineering, efficacy-affirming feedback — receive the most attention. This is partly justified by the strength of the self-efficacy-to-strategy evidence. But the evidence on task value suggests that it is a distinct pathway with distinct leverage points. Task value shapes choice and persistence more than strategy quality. This means that interventions targeting task value — particularly utility value (making explicit the connections between course content and students' future goals) — may address the help-seeking and persistence failures that self-efficacy interventions cannot reach. Eccles and Wigfield's [[Expectancy-Value-Theory]] is the most developed framework for this lever and deserves more integration with SRL instruction design.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "PKB",
+        "heading": null,
+        "display_text": "personal knowledge base",
+        "full_match": "[[PKB|personal knowledge base]]",
+        "line_number": 436,
+        "section": "Abstract Principle 1: The Forethought Pre-Architecture Principle",
+        "context_line": "> In [[PKB|personal knowledge base]] practice, the \"forethought phase\" corresponds to the initial framing of a work session. When a PKB practitioner opens a session with a vague goal (\"I'll work on the SRL notes\"), the regulatory architecture that framing creates is analogous to performance-avoidance orientation in academic learning: completion becomes the implicit criterion, deep engagement is structurally unsupported, and failures of comprehension are more likely to produce surface repair (re-reading existing notes) than genuine elaboration. When a practitioner opens with a specific learning goal (\"I will elaborate the connection between Pintrich's self-efficacy mechanism and the monitoring-bandwidth problem, and create a permanent note capturing that synthesis\"), the forethought architecture activates mastery orientation, creates monitoring criteria for genuine understanding, and makes help-seeking (using search, generating questions) structurally appropriate. The Forethought Pre-Architecture Principle implies that PKB session quality is largely determined before any note is opened.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning]]",
+        "line_number": 491,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Regulated-Learning]]** — The primary parent node for this analysis. Pintrich's framework is the most comprehensive single-theorist account within the broader SRL domain; this focused analysis drills into the specific architectural features and mechanisms that distinguish it from competing accounts.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Pintrich's-Integrative-SRL-Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pintrich's-Integrative-SRL-Framework]]",
+        "line_number": 493,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Pintrich's-Integrative-SRL-Framework]]** — The permanent note for the 4×4 matrix architecture itself. This analysis provides the deep mechanistic account that the permanent note should reference; the matrix's 16-cell structure is the organizational backbone of Phases II and IV.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Pintrich's-Motivational-Integration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pintrich's-Motivational-Integration]]",
+        "line_number": 495,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Pintrich's-Motivational-Integration]]** — The permanent note capturing Pintrich's specific contribution to motivational theory integration within SRL. The Motivational-Regulatory Asymmetry synthesis in Phase VI represents the analytical elaboration of this integration.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "MSLQ",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MSLQ]]",
+        "line_number": 497,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[MSLQ]]** — The [[MSLQ|Motivated Strategies for Learning Questionnaire]] is the empirical operationalization of Pintrich's framework. The Phase III critical evaluation of the MSLQ's evidence base provides the nuanced assessment of its strengths (differentiated motivational predictors) and limits (cross-sectional, self-report constraints) that the MSLQ node should incorporate.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "MSLQ",
+        "heading": null,
+        "display_text": "Motivated Strategies for Learning Questionnaire",
+        "full_match": "[[MSLQ|Motivated Strategies for Learning Questionnaire]]",
+        "line_number": 497,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[MSLQ]]** — The [[MSLQ|Motivated Strategies for Learning Questionnaire]] is the empirical operationalization of Pintrich's framework. The Phase III critical evaluation of the MSLQ's evidence base provides the nuanced assessment of its strengths (differentiated motivational predictors) and limits (cross-sectional, self-report constraints) that the MSLQ node should incorporate.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Goal-Orientation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal-Orientation]]",
+        "line_number": 499,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Goal-Orientation]]** — Pintrich's treatment of goal orientation as a forethought-phase motivational belief that shapes cognitive processing mode (mastery → deep processing; performance-avoidance → surface processing) provides the mechanistic account that connects goal orientation theory to cognitive outcomes. See also [[Mastery-Goal-Orientation]] and [[Performance-Goal-Orientation]].",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Mastery-Goal-Orientation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery-Goal-Orientation]]",
+        "line_number": 499,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Goal-Orientation]]** — Pintrich's treatment of goal orientation as a forethought-phase motivational belief that shapes cognitive processing mode (mastery → deep processing; performance-avoidance → surface processing) provides the mechanistic account that connects goal orientation theory to cognitive outcomes. See also [[Mastery-Goal-Orientation]] and [[Performance-Goal-Orientation]].",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Performance-Goal-Orientation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Performance-Goal-Orientation]]",
+        "line_number": 499,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Goal-Orientation]]** — Pintrich's treatment of goal orientation as a forethought-phase motivational belief that shapes cognitive processing mode (mastery → deep processing; performance-avoidance → surface processing) provides the mechanistic account that connects goal orientation theory to cognitive outcomes. See also [[Mastery-Goal-Orientation]] and [[Performance-Goal-Orientation]].",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 501,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Efficacy]]** — The self-efficacy-as-cognitive-gating-mechanism insight in Phase IV represents a mechanistic elaboration that goes beyond the standard Bandura account and should feed back into the Self-Efficacy permanent note.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Metacognition-and-Self-Regulated-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition-and-Self-Regulated-Learning]]",
+        "line_number": 503,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognition-and-Self-Regulated-Learning]]** — The monitoring-bandwidth problem identified in Phase IV — that effective multi-domain monitoring is most needed and most cognitively expensive precisely when learning is most challenging — is a direct contribution to this connection node.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Zimmerman's-Three-Phase-SRL-Cycle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman's-Three-Phase-SRL-Cycle]]",
+        "line_number": 505,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Zimmerman's-Three-Phase-SRL-Cycle]]** — The architectural comparison in Phase II is the sharpest statement of what distinguishes Pintrich's framework from Zimmerman's: the treatment of motivation as a parallel area vs. as a sub-component of the forethought phase. These two frameworks are related but non-equivalent, and the distinction has practical consequences for intervention design.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Forethought-Phase",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forethought-Phase]]",
+        "line_number": 507,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Forethought-Phase]]** — Phase IV's treatment of the forethought phase as a *pre-architecture* construction — not merely goal-setting but the assembly of the entire regulatory structure for the episode — deepens the standard account of this phase.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Expectancy-Value-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expectancy-Value-Theory]]",
+        "line_number": 509,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Expectancy-Value-Theory]]** — The Phase V identification of task value as a functionally distinct motivational pathway (predicting persistence and choice more than strategy quality, distinct from self-efficacy) creates a specific connection to Eccles and Wigfield's expectancy-value framework as a complementary theoretical resource.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 511,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Attribution-Theory]]** — The Phase 4 reflection component of Pintrich's cycle — where causal attributions shape the motivational beliefs that will govern the next forethought phase — creates a direct functional link to Weiner's attribution theory as the mechanism account for how Phase 4 reflection feeds back into Phase 1 activation.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Winne-&-Hadwin's-Metacognitive-Processing-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]",
+        "line_number": 513,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]** — The Winne-Hadwin COPES model offers a complementary account that is more cognitive and more process-tracing in its methodology. The comparison illuminates what Pintrich's motivational integration adds that a purely cognitive processing account cannot capture.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "self-regulated-learning-focused-analysis-2026-03-06",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[self-regulated-learning-focused-analysis-2026-03-06]]",
+        "line_number": 517,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[self-regulated-learning-focused-analysis-2026-03-06]]** — The earlier focused analysis of SRL provides the broader landscape. This Pintrich-focused analysis should be read as a complement that drills into one theorist's contribution in depth rather than surveying the field.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "metacognition-in-learning-focused-analysis-2026-03-20",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognition-in-learning-focused-analysis-2026-03-20]]",
+        "line_number": 519,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[metacognition-in-learning-focused-analysis-2026-03-20]]** — The metacognition in learning report covers the monitoring and regulation mechanisms that constitute Pintrich's Phase 2 and Phase 3 in depth. The connection is bidirectional: the metacognitive framework needs motivational context (Pintrich), and the SRL framework needs cognitive processing precision (metacognition in learning report).",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Albert-Bandura",
+        "heading": null,
+        "display_text": "Bandura's",
+        "full_match": "[[Albert-Bandura|Bandura's]]",
+        "line_number": 577,
+        "section": "B. References",
+        "context_line": "> The foundational theoretical source for [[Albert-Bandura|Bandura's]] self-efficacy construct as used in Pintrich's framework. The social cognitive theory provides the mechanism account for how self-efficacy beliefs are formed, maintained, and revised across the four sources of efficacy information. Supports Phase IV.",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Winne-&-Hadwin's-Metacognitive-Processing-Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]",
+        "line_number": 603,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "A-focused-analysis-of-mastery-vs.-performance-goal-orientations-and-the-2×2-mode",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[A-focused-analysis-of-mastery-vs.-performance-goal-orientations-and-the-2×2-mode]]",
+        "line_number": 606,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[A-focused-analysis-of-mastery-vs.-performance-goal-orientations-and-the-2×2-mode]]",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Metacognition-&-Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition-&-Motivation]]",
+        "line_number": 609,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Metacognition-&-Motivation]]",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Goal-Setting-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal-Setting-Theory]]",
+        "line_number": 612,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Goal-Setting-Theory]]",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]",
+        "line_number": 615,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty]]",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Expectancy-Value-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expectancy-Value-Theory]]",
+        "line_number": 618,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Expectancy-Value-Theory]]",
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Pintrich's Self-Regulated Learning Framework: The Motivational-Cognition Integration Architecture",
+        "anchor": "pintrichs-self-regulated-learning-framework-the-motivational-cognition-integration-architecture",
+        "line_number": 152,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Analytical Focus",
+        "anchor": "phase-i-orientation-analytical-focus",
+        "line_number": 158,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Motivational-Cognition Problem",
+        "anchor": "the-motivational-cognition-problem",
+        "line_number": 163,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Question",
+        "anchor": "the-central-question",
+        "line_number": 169,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Scope and Boundaries",
+        "anchor": "scope-and-boundaries",
+        "line_number": 175,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Significance",
+        "anchor": "significance",
+        "line_number": 179,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Roadmap",
+        "anchor": "roadmap",
+        "line_number": 183,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — The 4×4 Matrix",
+        "anchor": "phase-ii-analytical-framework-the-44-matrix",
+        "line_number": 192,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Four Areas",
+        "anchor": "the-four-areas",
+        "line_number": 202,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Four Phases",
+        "anchor": "the-four-phases",
+        "line_number": 218,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "How This Differs from Zimmerman's Model",
+        "anchor": "how-this-differs-from-zimmermans-model",
+        "line_number": 233,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 246,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence Landscape",
+        "anchor": "the-evidence-landscape",
+        "line_number": 251,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Findings and Patterns",
+        "anchor": "key-findings-and-patterns",
+        "line_number": 260,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Critical Evaluation",
+        "anchor": "critical-evaluation",
+        "line_number": 271,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+        "line_number": 296,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Self-Efficacy Mechanism: A Cognitive Gating Model",
+        "anchor": "the-self-efficacy-mechanism-a-cognitive-gating-model",
+        "line_number": 301,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Goal Orientation and Processing Depth",
+        "anchor": "goal-orientation-and-processing-depth",
+        "line_number": 312,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Monitoring-Control Coupling",
+        "anchor": "the-monitoring-control-coupling",
+        "line_number": 321,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Forethought Phase as a Regulatory Architecture",
+        "anchor": "the-forethought-phase-as-a-regulatory-architecture",
+        "line_number": 330,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications, Applications & Limitations",
+        "anchor": "phase-v-implications-applications-limitations",
+        "line_number": 348,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Direct Implications",
+        "anchor": "direct-implications",
+        "line_number": 350,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Practical Applications",
+        "anchor": "practical-applications",
+        "line_number": 359,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations and Honest Boundaries",
+        "anchor": "limitations-and-honest-boundaries",
+        "line_number": 368,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "What We Still Don't Know",
+        "anchor": "what-we-still-dont-know",
+        "line_number": 377,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 390,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Framework's Central Achievement",
+        "anchor": "the-frameworks-central-achievement",
+        "line_number": 392,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Question Revisited",
+        "anchor": "the-central-question-revisited",
+        "line_number": 396,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Return and Deepen: Self-Efficacy Revisited",
+        "anchor": "return-and-deepen-self-efficacy-revisited",
+        "line_number": 403,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Unresolved Questions as Invitations",
+        "anchor": "the-unresolved-questions-as-invitations",
+        "line_number": 407,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+        "line_number": 420,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 1: The Forethought Pre-Architecture Principle",
+        "anchor": "abstract-principle-1-the-forethought-pre-architecture-principle",
+        "line_number": 425,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 2: The Motivational-Regulatory Asymmetry Principle",
+        "anchor": "abstract-principle-2-the-motivational-regulatory-asymmetry-principle",
+        "line_number": 445,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle 3: Multi-Dimensional Simultaneity Principle",
+        "anchor": "abstract-principle-3-multi-dimensional-simultaneity-principle",
+        "line_number": 458,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Meta-Transfer Reflection",
+        "anchor": "meta-transfer-reflection",
+        "line_number": 467,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-viii-pkb-connections-cross-report-links",
+        "line_number": 486,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IX: Appendix",
+        "anchor": "phase-ix-appendix",
+        "line_number": 525,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 527,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 562,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 594,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 599,
+        "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "Word count (body): ~8,900 words",
+          "indent_level": 0,
+          "line_number": 627,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Total callouts: 28",
+          "indent_level": 0,
+          "line_number": 628,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Analytical commentary callouts: 10 (5 analytical-insight, 2 what-the-evidence-suggests, 1 tension-identified, 2 cross-domain-connection, 1 original-synthesis)",
+          "indent_level": 0,
+          "line_number": 629,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Cognitive engagement elements: 16",
+          "indent_level": 0,
+          "line_number": 630,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Section-end summaries: 7 (Phases II–VIII)",
+          "indent_level": 0,
+          "line_number": 631,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Unique wiki-links: 42",
+          "indent_level": 0,
+          "line_number": 632,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Transfer principles: 3",
+          "indent_level": 0,
+          "line_number": 633,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Structural analogues: 6",
+          "indent_level": 0,
+          "line_number": 634,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Lexicon entries: 10",
+          "indent_level": 0,
+          "line_number": 635,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "References: 10",
+          "indent_level": 0,
+          "line_number": 636,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "Expansion topics: 6",
+          "indent_level": 0,
+          "line_number": 637,
+          "source": "pintrichs-srl-focused-analysis-2026-03-22.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "A-focused-analysis-of-mastery-vs.-performance-goal-orientations-and-the-2×2-mode",
+      "Albert-Bandura",
+      "Attribution-Theory",
+      "Cognitive-Load-Theory-—-Focused-Analysis",
+      "Expectancy-Value-Theory",
+      "Forethought-Phase",
+      "Goal-Orientation",
+      "Goal-Setting-Theory",
+      "MSLQ",
+      "Mastery-Goal-Orientation",
+      "Metacognition-&-Motivation",
+      "Metacognition-and-Self-Regulated-Learning",
+      "Metacognitive-Monitoring",
+      "PKB",
+      "Paul-Pintrich",
+      "Performance-Goal-Orientation",
+      "Pintrich's-Integrative-SRL-Framework",
+      "Pintrich's-Motivational-Integration",
+      "Self-Efficacy",
+      "Self-Regulated-Learning",
+      "Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty",
+      "Self-Regulated-Learning-—-Focused-Analysis",
+      "Winne-&-Hadwin's-Metacognitive-Processing-Model",
+      "Working-Memory",
+      "Zimmerman's-Three-Phase-SRL-Cycle",
+      "metacognition-in-learning-focused-analysis-2026-03-20",
+      "self-regulated-learning-focused-analysis-2026-03-06"
+    ],
+    "unique_wiki_link_count": 27,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Self-Regulated-Learning]]",
+        "[[Metacognition]]",
+        "[[Goal-Orientation]]"
+      ],
+      "related_concepts": [
+        "[[Pintrich's-Integrative-SRL-Framework]]",
+        "[[Pintrich's-Motivational-Integration]]",
+        "[[Self-Regulated-Learning]]",
+        "[[MSLQ]]",
+        "[[Paul-Pintrich]]",
+        "[[Barry-Zimmerman]]",
+        "[[Zimmerman's-Three-Phase-SRL-Cycle]]",
+        "[[Metacognition-and-Self-Regulated-Learning]]",
+        "[[Goal-Orientation]]",
+        "[[Self-Efficacy]]",
+        "[[Expectancy-Value-Theory]]",
+        "[[Attribution-Theory]]",
+        "[[Forethought-Phase]]",
+        "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
+      ],
+      "link_related": [
+        "[[Zimmerman's-Three-Phase-SRL-Cycle]]",
+        "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]",
+        "[[Metacognition-and-Self-Regulated-Learning]]",
+        "[[Goal-Orientation]]",
+        "[[Self-Efficacy]]",
+        "[[self-regulated-learning-focused-analysis-2026-03-06]]"
+      ],
+      "link_up": [
+        "[[Self-Regulated-Learning]]"
+      ],
+      "link_down": [
+        "[[Pintrich's-Integrative-SRL-Framework]]",
+        "[[Pintrich's-Motivational-Integration]]",
+        "[[MSLQ]]"
+      ]
+    },
+    "backlink_candidates": [
+      "A-focused-analysis-of-mastery-vs.-performance-goal-orientations-and-the-2×2-mode",
+      "Albert-Bandura",
+      "Attribution-Theory",
+      "Cognitive-Load-Theory-—-Focused-Analysis",
+      "Expectancy-Value-Theory",
+      "Forethought-Phase",
+      "Goal-Orientation",
+      "Goal-Setting-Theory",
+      "MSLQ",
+      "Mastery-Goal-Orientation",
+      "Metacognition-&-Motivation",
+      "Metacognition-and-Self-Regulated-Learning",
+      "Metacognitive-Monitoring",
+      "PKB",
+      "Paul-Pintrich",
+      "Performance-Goal-Orientation",
+      "Pintrich's-Integrative-SRL-Framework",
+      "Pintrich's-Motivational-Integration",
+      "Self-Efficacy",
+      "Self-Regulated-Learning",
+      "Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty",
+      "Self-Regulated-Learning-—-Focused-Analysis",
+      "Winne-&-Hadwin's-Metacognitive-Processing-Model",
+      "Working-Memory",
+      "Zimmerman's-Three-Phase-SRL-Cycle",
+      "metacognition-in-learning-focused-analysis-2026-03-20",
+      "self-regulated-learning-focused-analysis-2026-03-06"
+    ]
+  }
+}

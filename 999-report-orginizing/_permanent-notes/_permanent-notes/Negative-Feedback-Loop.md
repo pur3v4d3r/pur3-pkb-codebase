@@ -75,4 +75,4 @@ importance: medium
 - [[The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel]]
 - [[The-Zimmerman-Cycle-as-Normative-Architecture-and-Design-Target]]
 - [[Tight-Loop-Assumption]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

@@ -1003,7 +1003,7 @@ This section provides the complete set of tools for implementing the Forethought
 >
 > **Implication-level:** "Be able to identify [N] non-obvious implications of [claim], at least one of which applies to [specific domain/practice]."
 >
-> **Connection-level:** "Be able to articulate how [concept from this text] relates to [[specific PKB note]], including where they align and where they create tension."
+> **Connection-level:** "Be able to articulate how [concept from this text] relates to [[specific-PKB-note]], including where they align and where they create tension."
 >
 > **Example-generation level:** "Be able to generate [N] original examples of [concept], including at least one from a domain different from the text's primary application."
 

@@ -375,7 +375,7 @@ extraction_summary:
 - [[California Critical Thinking Disposition Inventory]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive Biases and Critical Thinking]]
-- [[Cognitive Development]]
+- [[Cognitive-Development|Cognitive Development]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
@@ -402,14 +402,14 @@ extraction_summary:
 - [[Entwistle]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Evidence-Based Medicine]]
+- [[Evidence-Based-Medicine|Evidence-Based Medicine]]
 - [[Fallibilism]]
 - [[False Dilemma]]
 - [[Foundation for Critical Thinking]]
 - [[Glaser]]
 - [[Goel and Dolan]]
 - [[Halpern Critical Thinking Assessment]]
-- [[Information Literacy]]
+- [[Information-Literacy|Information Literacy]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[John-Flavell|John Flavell]]
@@ -465,7 +465,7 @@ extraction_summary:
 - [[Willingham]]
 - [[Wineburg]]
 - [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 
 ### All Occurrences
 
@@ -539,13 +539,13 @@ extraction_summary:
 | 66 | [[Marton and Säljö]] | — | — | CT's Role in Learning Theory | 829 |
 | 67 | [[Entwistle]] | — | — | CT's Role in Learning Theory | 831 |
 | 68 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Knowledge Construction in Personal Kn... | 835 |
-| 69 | [[Zettelkasten Method]] | — | — | Knowledge Construction in Personal Kn... | 861 |
+| 69 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | Knowledge Construction in Personal Kn... | 861 |
 | 70 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | Epistemic Cognition and Knowledge Qua... | 872 |
 | 71 | [[Kuhn and Weinstock]] | — | — | Epistemic Cognition and Knowledge Qua... | 874 |
 | 72 | [[Kuhn's]] | — | — | Epistemic Cognition and Knowledge Qua... | 898 |
 | 73 | [[Wardle and Derakhshan]] | — | — | CT in the Age of Information Abundance | 904 |
 | 74 | [[Lateral Reading]] | — | — | CT in the Age of Information Abundance | 910 |
-| 75 | [[Information Literacy]] | — | — | CT in the Age of Information Abundance | 912 |
+| 75 | [[Information-Literacy|Information Literacy]] | — | — | CT in the Age of Information Abundance | 912 |
 | 76 | [[CRAAP Test]] | — | — | CT in the Age of Information Abundance | 914 |
 | 77 | [[McPeck]] | — | — | Domain-General vs. Domain-Specific CT | 936 |
 | 78 | [[Ennis]] | — | — | Domain-General vs. Domain-Specific CT | 936 |
@@ -555,13 +555,13 @@ extraction_summary:
 | 82 | [[Willingham]] | — | — | Domain-General vs. Domain-Specific CT | 953 |
 | 83 | [[Wineburg]] | — | — | Historical CT | 989 |
 | 84 | [[Transfer]] | — | — | CT Transfer and Generalization | 1019 |
-| 85 | [[Evidence-Based Medicine]] | — | — | Clinical Reasoning | 1051 |
+| 85 | [[Evidence-Based-Medicine|Evidence-Based Medicine]] | — | — | Clinical Reasoning | 1051 |
 | 86 | [[Critical Thinking Development and Pedagogy]] | — | — | 1. **[[Critical Thinking Development ... | 1090 |
 | 87 | [[Socratic-Method|Socratic Method]] | — | — | 1. **[[Critical Thinking Development ... | 1094 |
 | 88 | [[Problem-Based Learning]] | — | — | 1. **[[Critical Thinking Development ... | 1094 |
 | 89 | [[Argument-Based Inquiry]] | — | — | 1. **[[Critical Thinking Development ... | 1094 |
 | 90 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 1. **[[Critical Thinking Development ... | 1096 |
-| 91 | [[Cognitive Development]] | — | — | 1. **[[Critical Thinking Development ... | 1096 |
+| 91 | [[Cognitive-Development|Cognitive Development]] | — | — | 1. **[[Critical Thinking Development ... | 1096 |
 | 92 | [[Assessment-Design|Assessment Design]] | — | — | 1. **[[Critical Thinking Development ... | 1096 |
 | 93 | [[Cognitive Biases and Critical Thinking]] | — | — | 2. **[[Cognitive Biases and Critical ... | 1102 |
 | 94 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 2. **[[Cognitive Biases and Critical ... | 1106 |
@@ -581,7 +581,7 @@ extraction_summary:
 | 108 | [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1126 |
 | 109 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1130 |
 | 110 | [[Learning Strategies]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1132 |
-| 111 | [[Cognitive Development]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1132 |
+| 111 | [[Cognitive-Development|Cognitive Development]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1132 |
 | 112 | [[Educational-Psychology|Educational Psychology]] | — | — | 4. **[[Metacognition and Self-Regulat... | 1132 |
 | 113 | [[Domain-Specific Critical Thinking in STEM]] | — | — | 5. **[[Domain-Specific Critical Think... | 1138 |
 | 114 | [[Science Education]] | — | — | 5. **[[Domain-Specific Critical Think... | 1144 |
@@ -1216,7 +1216,7 @@ extraction_summary:
 - [[California Critical Thinking Disposition Inventory]]
 - [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
 - [[Cognitive Biases and Critical Thinking]]
-- [[Cognitive Development]]
+- [[Cognitive-Development|Cognitive Development]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
@@ -1243,14 +1243,14 @@ extraction_summary:
 - [[Entwistle]]
 - [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Evidence-Based Medicine]]
+- [[Evidence-Based-Medicine|Evidence-Based Medicine]]
 - [[Fallibilism]]
 - [[False Dilemma]]
 - [[Foundation for Critical Thinking]]
 - [[Glaser]]
 - [[Goel and Dolan]]
 - [[Halpern Critical Thinking Assessment]]
-- [[Information Literacy]]
+- [[Information-Literacy|Information Literacy]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[John-Flavell|John Flavell]]
@@ -1306,7 +1306,7 @@ extraction_summary:
 - [[Willingham]]
 - [[Wineburg]]
 - [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 
 ### Frontmatter Relationships
 
@@ -1325,7 +1325,7 @@ extraction_summary:
 - [[Paul-Elder-Framework|Paul-Elder Framework]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 - [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
-- [[Information Literacy]]
+- [[Information-Literacy|Information Literacy]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Learning Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]

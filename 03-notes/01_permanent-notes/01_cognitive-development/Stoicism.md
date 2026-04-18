@@ -30,7 +30,7 @@ link-up:
   - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-25|Daily-Note]]"
-  - "[[Cognitive Restructuring#---frontmatter---]]"
+  - "[[Cognitive-Restructuring#---frontmatter---]]"
 status: active
 
 

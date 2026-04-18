@@ -502,7 +502,7 @@ The arousal-capacity relationship has profound implications for understanding at
 
 ### Dual-Task Performance and Capacity Sharing
 
-The most powerful empirical test of capacity theory comes from [[Dual-Task Paradigms]], experimental situations where participants must perform two tasks concurrently. According to capacity theory, two tasks can be performed simultaneously without mutual interference <span style='color: #27FF00;'>**if and only if their combined resource demands do not exceed available capacity**</span>. When total demand surpasses supply, performance on one or both tasks must deteriorate—a phenomenon called [[Dual-Task Interference]] or dual-task costs.
+The most powerful empirical test of capacity theory comes from [[Dual-Task Paradigms]], experimental situations where participants must perform two tasks concurrently. According to capacity theory, two tasks can be performed simultaneously without mutual interference <span style='color: #27FF00;'>**if and only if their combined resource demands do not exceed available capacity**</span>. When total demand surpasses supply, performance on one or both tasks must deteriorate—a phenomenon called [[Dual-Task-Interference]] or dual-task costs.
 
 [**Dual-Task-Paradigm**:: An experimental methodology in which participants perform two tasks simultaneously (e.g., tracking a visual target while responding to auditory signals), used to assess whether tasks share common processing resources by measuring performance decrements relative to single-task baseline conditions.]
 

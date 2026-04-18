@@ -427,7 +427,7 @@ extraction_summary:
 > 3. **Remove duplicate tags** (lines 358-360): Delete the second `tags:` block in document body
 > 
 > 4. **Add missed wiki-links**:
->    - `[[Yerkes-Dodson Law]]` at line 488
+>    - `[[Yerkes-Dodson-Law|Yerkes-Dodson Law]]` at line 488
 >    - `[[Anne Treisman]]` at line 421
 >    - `[[Iconic-Memory|Iconic Memory]]` and `[[Echoic-Memory|Echoic Memory]]` at line 396
 >    - `[[Information-Theory|Information Theory]]` at line 372
@@ -556,7 +556,7 @@ extraction_summary:
 - [[Treisman Attenuation Model]]
 - [[Ventral Attention Network]]
 - [[Working-Memory|Working Memory]]
-- [[Yerkes-Dodson Law]]
+- [[Yerkes-Dodson-Law|Yerkes-Dodson Law]]
 - [[allocation-policy]]
 - [[arousal-capacity-relationship]]
 - [[Attention]]
@@ -595,7 +595,7 @@ extraction_summary:
 | 22 | [[cognitive-science-moc]] | — | — | Dimension 4: Format & PKB Compliance ... | 500 |
 | 23 | [[neuroscience-moc]] | — | — | Dimension 4: Format & PKB Compliance ... | 500 |
 | 24 | [[cognitive-science-moc]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 568 |
-| 25 | [[Yerkes-Dodson Law]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 576 |
+| 25 | [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 576 |
 | 26 | [[Anne Treisman]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 577 |
 | 27 | [[Iconic-Memory|Iconic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
 | 28 | [[Echoic-Memory|Echoic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
@@ -614,7 +614,7 @@ extraction_summary:
 | 41 | [[Capacity Model]] | — | — | Mandatory Wiki-Link Targets | 701 |
 | 42 | [[Donald Broadbent]] | — | — | Mandatory Wiki-Link Targets | 702 |
 | 43 | [[Daniel-Kahneman|Daniel Kahneman]] | — | — | Mandatory Wiki-Link Targets | 702 |
-| 44 | [[Yerkes-Dodson Law]] | — | — | Mandatory Wiki-Link Targets | 703 |
+| 44 | [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] | — | — | Mandatory Wiki-Link Targets | 703 |
 | 45 | [[Dichotic Listening Task]] | — | — | Mandatory Wiki-Link Targets | 704 |
 | 46 | [[Iconic-Memory|Iconic Memory]] | — | — | Mandatory Wiki-Link Targets | 705 |
 | 47 | [[Echoic-Memory|Echoic Memory]] | — | — | Mandatory Wiki-Link Targets | 705 |
@@ -818,7 +818,7 @@ Verify:
 For cognitive science content, ALWAYS wiki-link:
 - Named theories (e.g., [[Filter Model]], [[Capacity Model]])
 - Named researchers (e.g., [[Donald Broadbent]], [[Daniel-Kahneman|Daniel Kahneman]])
-- Named laws/principles (e.g., [[Yerkes-Dodson Law]])
+- Named laws/principles (e.g., [[Yerkes-Dodson-Law|Yerkes-Dodson Law]])
 - Named experimental paradigms (e.g., [[Dichotic Listening Task]])
 - Memory systems (e.g., [[Iconic-Memory|Iconic Memory]], [[Echoic-Memory|Echoic Memory]])
 - Related frameworks mentioned in connections section
@@ -1009,7 +1009,7 @@ for (let letter of sortedLetters) {
 - [[Treisman Attenuation Model]]
 - [[Ventral Attention Network]]
 - [[Working-Memory|Working Memory]]
-- [[Yerkes-Dodson Law]]
+- [[Yerkes-Dodson-Law|Yerkes-Dodson Law]]
 - [[allocation-policy]]
 - [[arousal-capacity-relationship]]
 - [[Attention]]

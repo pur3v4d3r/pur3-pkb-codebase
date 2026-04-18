@@ -158,7 +158,7 @@ extraction_summary:
 #### 6. [KEY-CLAIM] The Physiological Basis of Habit *(Line 46)*
 
 > [!key-claim] The Physiological Basis of Habit
-> James asserted that "[Neurological] currents, once in [the brain], must find a way out. In getting out they leave their traces in the paths which they take. The only thing they can do, in short, is to deepen old paths or to make new ones; and the whole plasticity of the brain sums itself up in two words when we call it an organ in which currents pouring in from the sense-organs make with extreme facility paths which do not easily disappear." This claim anticipates contemporary understanding of [[long-term potentiation]], [[synaptic strengthening]], and [[Hebbian learning]] ("neurons that fire together wire together") by more than a century, though obviously lacking the molecular and cellular detail available to modern neuroscience.
+> James asserted that "[Neurological] currents, once in [the brain], must find a way out. In getting out they leave their traces in the paths which they take. The only thing they can do, in short, is to deepen old paths or to make new ones; and the whole plasticity of the brain sums itself up in two words when we call it an organ in which currents pouring in from the sense-organs make with extreme facility paths which do not easily disappear." This claim anticipates contemporary understanding of [[Long-Term-Potentiation|long-term potentiation]], [[synaptic strengthening]], and [[Hebbian learning]] ("neurons that fire together wire together") by more than a century, though obviously lacking the molecular and cellular detail available to modern neuroscience.
 
 #### 7. [EVIDENCE] Empirical Support from Contemporary Sources *(Line 55)*
 
@@ -288,13 +288,13 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Alexander Bain]]
+- [[Alexander-Bain|Alexander Bain]]
 - [[American-pragmatism|American pragmatism]]
 - [[Associationism]]
 - [[B.F. Skinner]]
 - [[Basic Psychology]]
 - [[Behaviorists]]
-- [[British empiricism]]
+- [[British-empiricism|British empiricism]]
 - [[CREB]]
 - [[Carl Lange]]
 - [[Cass Sunstein]]
@@ -316,7 +316,7 @@ extraction_summary:
 - [[Edward-Titchener|Edward Titchener]]
 - [[François-Pierre Maine de Biran]]
 - [[French psychology]]
-- [[German idealism]]
+- [[German-idealism|German idealism]]
 - [[Gestalt]]
 - [[Gestalt psychology]]
 - [[Gifford Lectures]]
@@ -329,7 +329,7 @@ extraction_summary:
 - [[Hermann von Helmholtz]]
 - [[Hippolyte Taine]]
 - [[History of Psychology]]
-- [[James Mill]]
+- [[James-Mill|James Mill]]
 - [[James's Radical Empiricism and Pure Experience]]
 - [[John-Dewey|John Dewey]]
 - [[John Locke]]
@@ -347,7 +347,7 @@ extraction_summary:
 - [[Psychoanalysts]]
 - [[REM sleep]]
 - [[Richard Thaler]]
-- [[Sigmund Freud]]
+- [[Sigmund-Freud|Sigmund Freud]]
 - [[Situated-Learning-Theory|Situated Learning Theory]]
 - [[Sociocultural-Approaches|Sociocultural Approaches]]
 - [[Structuralists]]
@@ -362,13 +362,13 @@ extraction_summary:
 - [[William Benjamin Carpenter]]
 - [[William-James|William James]]
 - [[Wolfgang Köhler]]
-- [[active learning]]
+- [[Active-Learning|active learning]]
 - [[activity-dependent plasticity]]
 - [[adaptation]]
 - [[addiction]]
 - [[animal-training|animal training]]
 - [[anxiety]]
-- [[associationism]]
+- [[Associationism]]
 - [[Attention]]
 - [[attentional ruts]]
 - [[automatic processes]]
@@ -396,7 +396,7 @@ extraction_summary:
 - [[Declarative-Memory|declarative memory]]
 - [[default options]]
 - [[dendritic spine]]
-- [[dopamine]]
+- [[Dopamine]]
 - [[dorsolateral prefrontal cortex]]
 - [[dorsolateral striatum]]
 - [[dorsomedial striatum]]
@@ -429,7 +429,7 @@ extraction_summary:
 - [[Intrinsic-Motivation|intrinsic motivation]]
 - [[lesion studies]]
 - [[limited attentional resources]]
-- [[long-term potentiation]]
+- [[Long-Term-Potentiation|long-term potentiation]]
 - [[Memory-Systems|memory systems]]
 - [[Metacognition]]
 - [[metacognitive-awareness|metacognitive awareness]]
@@ -440,7 +440,7 @@ extraction_summary:
 - [[nervous system]]
 - [[nervous tissue]]
 - [[neural connectivity]]
-- [[neural networks]]
+- [[Neural-Networks|neural networks]]
 - [[neural pathways]]
 - [[Neural-Plasticity|neural plasticity]]
 - [[neural structures]]
@@ -473,7 +473,7 @@ extraction_summary:
 - [[psychology]]
 - [[psychophysics]]
 - [[receptor]]
-- [[reinforcement learning]]
+- [[Reinforcement-Learning|reinforcement learning]]
 - [[repetition]]
 - [[reward learning]]
 - [[selectivity]]
@@ -487,7 +487,7 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]
 - [[Striatum]]
 - [[structuralism]]
-- [[student engagement]]
+- [[Student-Engagement|student engagement]]
 - [[subjective experience]]
 - [[subliminal-perception|subliminal perception]]
 - [[substantia nigra]]
@@ -540,14 +540,14 @@ extraction_summary:
 | 32 | [[Functional-Psychology|functional psychology]] | — | — | 📥 Introduction & Context: The Philoso... | 15 |
 | 33 | [[higher cognitive functions]] | — | — | 📥 Introduction & Context: The Philoso... | 15 |
 | 34 | [[automatic processes]] | — | — | 📥 Introduction & Context: The Philoso... | 15 |
-| 35 | [[British empiricism]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
+| 35 | [[British-empiricism|British empiricism]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
 | 36 | [[John Locke]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
 | 37 | [[David-Hume|David Hume]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
-| 38 | [[German idealism]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
+| 38 | [[German-idealism|German idealism]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
 | 39 | [[Hegel]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
 | 40 | [[Associationism]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
-| 41 | [[Alexander Bain]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
-| 42 | [[James Mill]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
+| 41 | [[Alexander-Bain|Alexander Bain]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
+| 42 | [[James-Mill|James Mill]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
 | 43 | [[Wilhelm Wundt]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
 | 44 | [[experience]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
 | 45 | [[practice]] | — | — | 📥 Introduction & Context: The Philoso... | 17 |
@@ -565,7 +565,7 @@ extraction_summary:
 | 57 | [[French psychology]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
 | 58 | [[Théodule Ribot]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
 | 59 | [[Hippolyte Taine]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
-| 60 | [[associationism]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
+| 60 | [[Associationism]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
 | 61 | [[psychophysics]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
 | 62 | [[neurological]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
 | 63 | [[Hermann von Helmholtz]] | — | — | 📜 Historical Foundations: From Medici... | 26 |
@@ -587,7 +587,7 @@ extraction_summary:
 | 79 | [[physical traces]] | — | — | Layer 1: Foundational Understanding o... | 40 |
 | 80 | [[instincts]] | — | — | Layer 1: Foundational Understanding o... | 42 |
 | 81 | [[Neural-Plasticity|neural plasticity]] | — | — | Layer 1: Foundational Understanding o... | 44 |
-| 82 | [[long-term potentiation]] | — | — | Layer 1: Foundational Understanding o... | 47 |
+| 82 | [[Long-Term-Potentiation|long-term potentiation]] | — | — | Layer 1: Foundational Understanding o... | 47 |
 | 83 | [[synaptic strengthening]] | — | — | Layer 1: Foundational Understanding o... | 47 |
 | 84 | [[Hebbian learning]] | — | — | Layer 1: Foundational Understanding o... | 47 |
 | 85 | [[nervous system]] | — | — | Layer 2: Enrichment and Technical Spe... | 51 |
@@ -612,7 +612,7 @@ extraction_summary:
 | 104 | [[Declarative-Memory|declarative memory]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 105 | [[Procedural-Memory|procedural memory]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 106 | [[patient H.M.]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
-| 107 | [[dopamine]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
+| 107 | [[Dopamine]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 108 | [[reward learning]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 109 | [[prefrontal-cortex|prefrontal cortex]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
 | 110 | [[addiction]] | — | — | Layer 4: Advanced Synthesis and Resea... | 71 |
@@ -631,7 +631,7 @@ extraction_summary:
 | 123 | [[Hegelian idealism]] | — | — | Contemporary Reception and Dissemination | 102 |
 | 124 | [[experience]] | — | — | Contemporary Reception and Dissemination | 102 |
 | 125 | [[adaptation]] | — | — | Contemporary Reception and Dissemination | 102 |
-| 126 | [[active learning]] | — | — | Contemporary Reception and Dissemination | 102 |
+| 126 | [[Active-Learning|active learning]] | — | — | Contemporary Reception and Dissemination | 102 |
 | 127 | [[problem-based]] | — | — | Contemporary Reception and Dissemination | 102 |
 | 128 | [[University of Chicago Laboratory Schools]] | — | — | Contemporary Reception and Dissemination | 102 |
 | 129 | [[Charles-Sanders-Peirce|Charles Sanders Peirce]] | — | — | Contemporary Reception and Dissemination | 104 |
@@ -640,7 +640,7 @@ extraction_summary:
 | 132 | [[Structuralists]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 133 | [[Edward-Titchener|Edward Titchener]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 134 | [[Psychoanalysts]] | — | — | Critical Reception and Alternative Fr... | 108 |
-| 135 | [[Sigmund Freud]] | — | — | Critical Reception and Alternative Fr... | 108 |
+| 135 | [[Sigmund-Freud|Sigmund Freud]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 136 | [[Gestalt]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 137 | [[Cognitive psychologists]] | — | — | Critical Reception and Alternative Fr... | 108 |
 | 138 | [[B.F. Skinner]] | — | — | Critical Reception and Alternative Fr... | 111 |
@@ -648,20 +648,20 @@ extraction_summary:
 | 140 | [[Neural-Plasticity|neural plasticity]] | — | — | Critical Reception and Alternative Fr... | 113 |
 | 141 | [[synaptic mechanisms]] | — | — | Critical Reception and Alternative Fr... | 113 |
 | 142 | [[neurotransmitters]] | — | — | Critical Reception and Alternative Fr... | 113 |
-| 143 | [[neural networks]] | — | — | Critical Reception and Alternative Fr... | 113 |
+| 143 | [[Neural-Networks|neural networks]] | — | — | Critical Reception and Alternative Fr... | 113 |
 | 144 | [[Memory-Systems|memory systems]] | — | — | Critical Reception and Alternative Fr... | 113 |
 | 145 | [[progressive-education|progressive education]] | — | — | Talks to Teachers and Pedagogical Pra... | 119 |
 | 146 | [[voluntary attention]] | — | — | Attention, Interest, and the Classroom | 128 |
 | 147 | [[interest]] | — | — | Attention, Interest, and the Classroom | 128 |
 | 148 | [[external discipline]] | — | — | Attention, Interest, and the Classroom | 128 |
 | 149 | [[intrinsic interest]] | — | — | Attention, Interest, and the Classroom | 128 |
-| 150 | [[student engagement]] | — | — | Attention, Interest, and the Classroom | 128 |
+| 150 | [[Student-Engagement|student engagement]] | — | — | Attention, Interest, and the Classroom | 128 |
 | 151 | [[Intrinsic-Motivation|intrinsic motivation]] | — | — | Attention, Interest, and the Classroom | 128 |
-| 152 | [[active learning]] | — | — | Attention, Interest, and the Classroom | 128 |
+| 152 | [[Active-Learning|active learning]] | — | — | Attention, Interest, and the Classroom | 128 |
 | 153 | [[attentional ruts]] | — | — | Attention, Interest, and the Classroom | 130 |
 | 154 | [[curiosity]] | — | — | Attention, Interest, and the Classroom | 130 |
 | 155 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | Neuroplasticity and Modern Memory Sys... | 139 |
-| 156 | [[long-term potentiation]] | — | — | Neuroplasticity and Modern Memory Sys... | 139 |
+| 156 | [[Long-Term-Potentiation|long-term potentiation]] | — | — | Neuroplasticity and Modern Memory Sys... | 139 |
 | 157 | [[glutamate]] | — | — | Neuroplasticity and Modern Memory Sys... | 139 |
 | 158 | [[NMDA receptors]] | — | — | Neuroplasticity and Modern Memory Sys... | 139 |
 | 159 | [[calcium]] | — | — | Neuroplasticity and Modern Memory Sys... | 139 |
@@ -679,7 +679,7 @@ extraction_summary:
 | 171 | [[Dopamine]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 172 | [[ventral tegmental area]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 173 | [[substantia nigra]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
-| 174 | [[reinforcement learning]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
+| 174 | [[Reinforcement-Learning|reinforcement learning]] | — | — | Neuroplasticity and Modern Memory Sys... | 141 |
 | 175 | [[synaptic efficacy]] | — | — | Neuroplasticity and Modern Memory Sys... | 144 |
 | 176 | [[dendritic spine]] | — | — | Neuroplasticity and Modern Memory Sys... | 144 |
 | 177 | [[myelination]] | — | — | Neuroplasticity and Modern Memory Sys... | 144 |
@@ -781,13 +781,13 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Alexander Bain]]
+- [[Alexander-Bain|Alexander Bain]]
 - [[American-pragmatism|American pragmatism]]
 - [[Associationism]]
 - [[B.F. Skinner]]
 - [[Basic Psychology]]
 - [[Behaviorists]]
-- [[British empiricism]]
+- [[British-empiricism|British empiricism]]
 - [[CREB]]
 - [[Carl Lange]]
 - [[Cass Sunstein]]
@@ -809,7 +809,7 @@ extraction_summary:
 - [[Edward-Titchener|Edward Titchener]]
 - [[François-Pierre Maine de Biran]]
 - [[French psychology]]
-- [[German idealism]]
+- [[German-idealism|German idealism]]
 - [[Gestalt]]
 - [[Gestalt psychology]]
 - [[Gifford Lectures]]
@@ -822,7 +822,7 @@ extraction_summary:
 - [[Hermann von Helmholtz]]
 - [[Hippolyte Taine]]
 - [[History of Psychology]]
-- [[James Mill]]
+- [[James-Mill|James Mill]]
 - [[James's Radical Empiricism and Pure Experience]]
 - [[John-Dewey|John Dewey]]
 - [[John Locke]]
@@ -840,7 +840,7 @@ extraction_summary:
 - [[Psychoanalysts]]
 - [[REM sleep]]
 - [[Richard Thaler]]
-- [[Sigmund Freud]]
+- [[Sigmund-Freud|Sigmund Freud]]
 - [[Situated-Learning-Theory|Situated Learning Theory]]
 - [[Sociocultural-Approaches|Sociocultural Approaches]]
 - [[Structuralists]]
@@ -855,13 +855,13 @@ extraction_summary:
 - [[William Benjamin Carpenter]]
 - [[William-James|William James]]
 - [[Wolfgang Köhler]]
-- [[active learning]]
+- [[Active-Learning|active learning]]
 - [[activity-dependent plasticity]]
 - [[adaptation]]
 - [[addiction]]
 - [[animal-training|animal training]]
 - [[anxiety]]
-- [[associationism]]
+- [[Associationism]]
 - [[Attention]]
 - [[attentional ruts]]
 - [[automatic processes]]
@@ -889,7 +889,7 @@ extraction_summary:
 - [[Declarative-Memory|declarative memory]]
 - [[default options]]
 - [[dendritic spine]]
-- [[dopamine]]
+- [[Dopamine]]
 - [[dorsolateral prefrontal cortex]]
 - [[dorsolateral striatum]]
 - [[dorsomedial striatum]]
@@ -922,7 +922,7 @@ extraction_summary:
 - [[Intrinsic-Motivation|intrinsic motivation]]
 - [[lesion studies]]
 - [[limited attentional resources]]
-- [[long-term potentiation]]
+- [[Long-Term-Potentiation|long-term potentiation]]
 - [[Memory-Systems|memory systems]]
 - [[Metacognition]]
 - [[metacognitive-awareness|metacognitive awareness]]
@@ -933,7 +933,7 @@ extraction_summary:
 - [[nervous system]]
 - [[nervous tissue]]
 - [[neural connectivity]]
-- [[neural networks]]
+- [[Neural-Networks|neural networks]]
 - [[neural pathways]]
 - [[Neural-Plasticity|neural plasticity]]
 - [[neural structures]]
@@ -966,7 +966,7 @@ extraction_summary:
 - [[psychology]]
 - [[psychophysics]]
 - [[receptor]]
-- [[reinforcement learning]]
+- [[Reinforcement-Learning|reinforcement learning]]
 - [[repetition]]
 - [[reward learning]]
 - [[selectivity]]
@@ -980,7 +980,7 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|spaced repetition]]
 - [[Striatum]]
 - [[structuralism]]
-- [[student engagement]]
+- [[Student-Engagement|student engagement]]
 - [[subjective experience]]
 - [[subliminal-perception|subliminal perception]]
 - [[substantia nigra]]

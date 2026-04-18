@@ -53,7 +53,7 @@ review-priority: medium
 # Cognitive Restructuring
 
 > [!definition]
-> - **Key-Term**:[[Cognitive Restructuring]]
+> - **Key-Term**:[[Cognitive-Restructuring]]
 > - [**Definition**:This is a therapeutic process, commonly used in Cognitive Behavioral Therapy (CBT), that helps individuals identify, challenge, and modify their dysfunctional or negative automatic thoughts and core beliefs into more balanced and realistic perspectives.]
 
 ## Foundational Understanding

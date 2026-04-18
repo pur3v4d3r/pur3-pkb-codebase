@@ -165,7 +165,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Overview *(Line 65)*
 
 > [!abstract] Overview
-> This reference note provides comprehensive coverage of modular task decomposition as a systematic methodology for engineering high-fidelity long-form document generation through sequential prompt architectures. The framework synthesizes principles from [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Systems Thinking]], and [[Modular Design]] to create a theoretically grounded and practically implementable approach for managing the inherent complexity of extended LLM-mediated content creation. The methodology addresses the fundamental tension between human cognitive constraints in prompt design and the architectural requirements for producing coherent, comprehensive, multi-thousand-word documents that maintain semantic consistency, structural integrity, and domain-appropriate depth across their entire scope.
+> This reference note provides comprehensive coverage of modular task decomposition as a systematic methodology for engineering high-fidelity long-form document generation through sequential prompt architectures. The framework synthesizes principles from [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Systems-Thinking|Systems Thinking]], and [[Modular Design]] to create a theoretically grounded and practically implementable approach for managing the inherent complexity of extended LLM-mediated content creation. The methodology addresses the fundamental tension between human cognitive constraints in prompt design and the architectural requirements for producing coherent, comprehensive, multi-thousand-word documents that maintain semantic consistency, structural integrity, and domain-appropriate depth across their entire scope.
 
 #### 3. [CORE-PRINCIPLE] The Decomposition Imperative *(Line 70)*
 
@@ -285,7 +285,7 @@ extraction_summary:
 > **Integration with [[Cognitive-Load-Theory|Cognitive Load Theory]]:**
 > The modular decomposition methodology represents a direct application of CLT principles to the challenge of prompt engineering. By partitioning complex tasks to manage [[Working-Memory|Working Memory]] constraints, optimizing [[Intrinsic-Load|Intrinsic Load]] through appropriate complexity calibration, minimizing [[Extraneous-Load|Extraneous Load]] through superior organization, and directing [[Germane-Load|Germane Load]] toward productive schema construction, the framework instantiates load theory at the architectural level.
 > 
-> **Intersection with [[Systems Thinking]]:**
+> **Intersection with [[Systems-Thinking|Systems Thinking]]:**
 > The emphasis on modularity, explicit interfaces, dependency management, and hierarchical organization directly applies systems engineering principles to the domain of prompt architecture. Like [[Modular Architecture]] in software or [[Cellular Manufacturing]] in production systems, modular prompt engineering achieves improved quality through decomposition and standardization while maintaining flexibility through reconfiguration of standard components.
 > 
 > **Dependency on [[Schema-Theory|Schema Theory]]:**
@@ -411,7 +411,7 @@ extraction_summary:
 - [[Software Architecture Patterns for AI Systems]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Systems Architecture]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[wiki-links]]
 - [[Work Breakdown Structure]]
 - [[Worked-Examples|Worked Examples]]
@@ -424,18 +424,18 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Prompt-Engineering|Prompt Engineering]] | — | — | Foundational Understanding | 60 |
 | 2 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Foundational Understanding | 60 |
-| 3 | [[Systems Thinking]] | — | — | Foundational Understanding | 60 |
+| 3 | [[Systems-Thinking|Systems Thinking]] | — | — | Foundational Understanding | 60 |
 | 4 | [[Zettelkasten Methodology]] | — | — | Foundational Understanding | 60 |
 | 5 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 60 |
 | 6 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
-| 7 | [[Systems Thinking]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
+| 7 | [[Systems-Thinking|Systems Thinking]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
 | 8 | [[Modular Design]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
 | 9 | [[Working-Memory|Working Memory]] | — | — | 🎯 Core Definition and Problem Space | 69 |
 | 10 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Architecture and Informatio... | 76 |
 | 11 | [[Information-Processing-Theory|Information Processing Theory]] | — | — | Cognitive Architecture and Informatio... | 76 |
 | 12 | [[Working-Memory|Working Memory]] | — | — | Cognitive Architecture and Informatio... | 76 |
 | 13 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Cognitive Architecture and Informatio... | 76 |
-| 14 | [[Systems Thinking]] | — | — | Systems Thinking and Interface Design | 84 |
+| 14 | [[Systems-Thinking|Systems Thinking]] | — | — | Systems Thinking and Interface Design | 84 |
 | 15 | [[Modular Architecture]] | — | — | Systems Thinking and Interface Design | 84 |
 | 16 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory and Knowledge Architecture | 96 |
 | 17 | [[Cognitive-Load|Cognitive Load]] | — | — | Schema Theory and Knowledge Architecture | 99 |
@@ -455,7 +455,7 @@ extraction_summary:
 | 31 | [[Intrinsic-Load|Intrinsic Load]] | — | — | The Document as Spaced Repetition System | 402 |
 | 32 | [[Extraneous-Load|Extraneous Load]] | — | — | The Document as Spaced Repetition System | 402 |
 | 33 | [[Germane-Load|Germane Load]] | — | — | The Document as Spaced Repetition System | 402 |
-| 34 | [[Systems Thinking]] | — | — | The Document as Spaced Repetition System | 404 |
+| 34 | [[Systems-Thinking|Systems Thinking]] | — | — | The Document as Spaced Repetition System | 404 |
 | 35 | [[Modular Architecture]] | — | — | The Document as Spaced Repetition System | 405 |
 | 36 | [[Cellular Manufacturing]] | — | — | The Document as Spaced Repetition System | 405 |
 | 37 | [[Schema-Theory|Schema Theory]] | — | — | The Document as Spaced Repetition System | 407 |
@@ -944,7 +944,7 @@ description includes Review
 - [[Software Architecture Patterns for AI Systems]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Systems Architecture]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[wiki-links]]
 - [[Work Breakdown Structure]]
 - [[Worked-Examples|Worked Examples]]

@@ -300,7 +300,7 @@ extraction_summary:
 #### 27. [DEFINITION] Untitled *(Line 355)*
 
 > [!definition] Untitled
-> **[[Active Recall]]**: The cognitive practice of attempting to retrieve information from memory without consulting the source material, as opposed to passive re-reading or reviewing. Produces significantly more durable memory consolidation than passive study, due to the reconstructive effortfulness of the retrieval process. The primary mechanism through which spaced repetition and self-testing develop long-term retention.
+> **[[Active-Recall|Active Recall]]**: The cognitive practice of attempting to retrieve information from memory without consulting the source material, as opposed to passive re-reading or reviewing. Produces significantly more durable memory consolidation than passive study, due to the reconstructive effortfulness of the retrieval process. The primary mechanism through which spaced repetition and self-testing develop long-term retention.
 
 #### 28. [DEFINITION] Untitled *(Line 358)*
 
@@ -320,7 +320,7 @@ extraction_summary:
 #### 31. [DEFINITION] Untitled *(Line 367)*
 
 > [!definition] Untitled
-> **[[Elaborative Encoding]]**: A memory strategy in which new information is processed by connecting it to existing knowledge—explaining *why* something is true, generating examples, identifying analogies, and asking how it relates to what one already knows. Produces substantially more durable memory traces than rote repetition, because the elaborative process creates multiple retrieval pathways.
+> **[[Elaborative-Encoding|Elaborative Encoding]]**: A memory strategy in which new information is processed by connecting it to existing knowledge—explaining *why* something is true, generating examples, identifying analogies, and asking how it relates to what one already knows. Produces substantially more durable memory traces than rote repetition, because the elaborative process creates multiple retrieval pathways.
 
 #### 32. [DEFINITION] Untitled *(Line 370)*
 
@@ -717,7 +717,7 @@ extraction_summary:
 > - *What is my* **current, unexamined belief** *about this topic?*
 >     - That a good PKM system is one with a well-designed structure, consistent tagging, bidirectional links, and a disciplined capture habit. That tools like Obsidian represent the state of the art in knowledge management, and that my *thinking* will naturally improve once my *notes* are well organized.
 > - *Why do I believe this? Is it from* **direct evidence** *or from* **analogy** *(i.e., "everyone says so")?*
->     - It is primarily from analogy. The entire PKM ecosystem—Tiago Forte's [[Building a Second Brain]], Niklas Luhmann's [[Zettelkasten]], the thriving communities on Reddit and YouTube—reinforces the idea that external note architecture is the primary driver of intellectual productivity. The evidence that *better notes* directly produce *better thinking* is, upon examination, almost entirely anecdotal.
+>     - It is primarily from analogy. The entire PKM ecosystem—Tiago Forte's [[Building-a-Second-Brain|Building a Second Brain]], Niklas Luhmann's [[Zettelkasten]], the thriving communities on Reddit and YouTube—reinforces the idea that external note architecture is the primary driver of intellectual productivity. The evidence that *better notes* directly produce *better thinking* is, upon examination, almost entirely anecdotal.
 
 #### 84. [ASK-YOURSELF-THIS] Untitled *(Line 785)*
 
@@ -755,7 +755,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 2:** [[The Distinction Between Surface Knowledge and Structural Knowledge]]
->      - [[cognitive-psychology|Cognitive Psychology]] has established a foundational distinction between knowing *that* something is true (surface, declarative knowledge) and understanding *why* and *how* it is true in a way that allows flexible application across contexts (structural, principled knowledge). Research by [[Chi, Feltovich, and Glaser]] (1981) on expert-novice differences demonstrated that novices categorize problems by their surface features while experts categorize them by their deep structural principles. This is an atomic truth: **the brain does not automatically extract structural knowledge from repeated exposure to surface information.** Writing a note that says "the Ebbinghaus Forgetting Curve shows memory decays exponentially" is surface knowledge. Understanding *why* spaced repetition works—because of the neurological mechanisms of [[Synaptic-Consolidation|Synaptic Consolidation]] and [[Long-Term Potentiation]]—is structural knowledge that transfers to every new learning situation you will ever encounter. No filing system, no tagging taxonomy, no bidirectional link can perform the cognitive transformation from surface to structural. Only *active reasoning* can do that.
+>      - [[cognitive-psychology|Cognitive Psychology]] has established a foundational distinction between knowing *that* something is true (surface, declarative knowledge) and understanding *why* and *how* it is true in a way that allows flexible application across contexts (structural, principled knowledge). Research by [[Chi, Feltovich, and Glaser]] (1981) on expert-novice differences demonstrated that novices categorize problems by their surface features while experts categorize them by their deep structural principles. This is an atomic truth: **the brain does not automatically extract structural knowledge from repeated exposure to surface information.** Writing a note that says "the Ebbinghaus Forgetting Curve shows memory decays exponentially" is surface knowledge. Understanding *why* spaced repetition works—because of the neurological mechanisms of [[Synaptic-Consolidation|Synaptic Consolidation]] and [[Long-Term-Potentiation|Long-Term Potentiation]]—is structural knowledge that transfers to every new learning situation you will ever encounter. No filing system, no tagging taxonomy, no bidirectional link can perform the cognitive transformation from surface to structural. Only *active reasoning* can do that.
 
 #### 90. [PRINCIPLE-POINT] Untitled *(Line 821)*
 
@@ -845,14 +845,14 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > - *The critical advantage of this new model is:*
->      - It addresses the *actual bottleneck* in knowledge work. The bottleneck was never storage capacity—it was [[Metacognitive Competence]]: the capacity to accurately assess one's own understanding, to select appropriate cognitive strategies, to monitor comprehension in real time, and to extract transferable structural principles from specific surface encounters. Every dollar invested in improving that competence—through deliberate calibration practice, structured reflection, and principled abstraction discipline—produces compounding cognitive returns that no tool upgrade can replicate. The rebuilt model also produces a **richer and more honest relationship with one's own ignorance**, because calibration practices make it impossible to mistake a folder full of highlights for genuine understanding.
+>      - It addresses the *actual bottleneck* in knowledge work. The bottleneck was never storage capacity—it was [[Metacognitive-Competence|Metacognitive Competence]]: the capacity to accurately assess one's own understanding, to select appropriate cognitive strategies, to monitor comprehension in real time, and to extract transferable structural principles from specific surface encounters. Every dollar invested in improving that competence—through deliberate calibration practice, structured reflection, and principled abstraction discipline—produces compounding cognitive returns that no tool upgrade can replicate. The rebuilt model also produces a **richer and more honest relationship with one's own ignorance**, because calibration practices make it impossible to mistake a folder full of highlights for genuine understanding.
 
 #### 104. [KEY-TAKEAWAY] Key Takeaways *(Line 901)*
 
 > [!key-takeaway] Key Takeaways
 > - The tool-centric PKM model confuses **the medium of knowledge** (notes) with **knowledge itself** (a cognitive state); the MPA correctly targets the cognitive state directly.
 > - The measurable output difference: tool-centric PKM produces **search-engine literacy** (finding what your notes say); MPA produces **transfer literacy** (applying principles across novel domains).
-> - The **real bottleneck** was always [[Metacognitive Competence]], not storage capacity—and this bottleneck is only addressable through deliberate cognitive habit development.
+> - The **real bottleneck** was always [[Metacognitive-Competence|Metacognitive Competence]], not storage capacity—and this bottleneck is only addressable through deliberate cognitive habit development.
 > - Calibration practices produce an honest reckoning with one's own **epistemic boundaries**—a far more valuable asset than a large note vault.
 
 #### 105. [ASK-YOURSELF-THIS] Untitled *(Line 911)*
@@ -908,7 +908,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Active Recall]]
+- [[Active-Recall|Active Recall]]
 - [[Adrian Wells]]
 - [[Alain Hadwin]]
 - [[Alan-Baddeley|Alan Baddeley]]
@@ -920,7 +920,7 @@ extraction_summary:
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bidirectional Linking]]
 - [[Bloom's Taxonomy as a Metacognitive Assessment Tool]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Building a Second Brain — Tiago Forte]]
 - [[Calibration and the Dunning-Kruger Topology of Self-Knowledge]]
 - [[Charles Darwin]]
@@ -949,7 +949,7 @@ extraction_summary:
 - [[Dunning]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Dunning-Kruger Effect and Calibration]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
 - [[Endel-Tulving|Endel Tulving]]
@@ -979,7 +979,7 @@ extraction_summary:
 - [[Knowledge Graph and Networked Thought]]
 - [[Learning-as-Exposure]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Mark Jung-Beeman]]
 - [[Marshall McLuhan]]
 - [[Metacognition]]
@@ -989,13 +989,13 @@ extraction_summary:
 - [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and the Illusion of Knowing]]
-- [[Metacognitive Competence]]
+- [[Metacognitive-Competence|Metacognitive Competence]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Practice Architecture]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
-- [[Metacognitive Therapy]]
+- [[Metacognitive-Therapy|Metacognitive Therapy]]
 - [[Negative Capability]]
 - [[Nelson-Cowan|Nelson Cowan]]
 - [[Niklas Luhmann]]
@@ -1138,7 +1138,7 @@ extraction_summary:
 | 50 | [[Graph View]] | — | — | 🔮 Obsidian as a Metacognitive Environ... | 205 |
 | 51 | [[Zettelkasten]] | — | — | 📝 The Zettelkasten as Metacognitive P... | 212 |
 | 52 | [[Atomic-Notes|Atomic Notes]] | — | — | 📝 The Zettelkasten as Metacognitive P... | 214 |
-| 53 | [[Active Recall]] | — | — | 📝 The Zettelkasten as Metacognitive P... | 216 |
+| 53 | [[Active-Recall|Active Recall]] | — | — | 📝 The Zettelkasten as Metacognitive P... | 216 |
 | 54 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | ⏱️ Spaced Repetition and the Forgetti... | 227 |
 | 55 | [[Forgetting-Curve|Forgetting Curve]] | — | — | ⏱️ Spaced Repetition and the Forgetti... | 227 |
 | 56 | [[Anki]] | — | — | ⏱️ Spaced Repetition and the Forgetti... | 233 |
@@ -1159,14 +1159,14 @@ extraction_summary:
 | 71 | [[John Keats]] | — | — | 🌱 The Creativity Dimension: From Know... | 310 |
 | 72 | [[Negative Capability]] | — | — | 🌱 The Creativity Dimension: From Know... | 310 |
 | 73 | [[Adrian Wells]] | — | — | ♻️ The Wellbeing Dimension: Metacogni... | 314 |
-| 74 | [[Metacognitive Therapy]] | — | — | ♻️ The Wellbeing Dimension: Metacogni... | 314 |
+| 74 | [[Metacognitive-Therapy|Metacognitive Therapy]] | — | — | ♻️ The Wellbeing Dimension: Metacogni... | 314 |
 | 75 | [[Obsidian Copilot]] | — | — | 🚀 The AI Integration Horizon | 325 |
 | 76 | [[NotebookLM]] | — | — | 🚀 The AI Integration Horizon | 325 |
-| 77 | [[Active Recall]] | — | — | 🗝️ Core Lexicon | 356 |
+| 77 | [[Active-Recall|Active Recall]] | — | — | 🗝️ Core Lexicon | 356 |
 | 78 | [[Atomic-Notes|Atomic Notes]] | — | — | 🗝️ Core Lexicon | 359 |
 | 79 | [[Bidirectional Linking]] | — | — | 🗝️ Core Lexicon | 362 |
 | 80 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🗝️ Core Lexicon | 365 |
-| 81 | [[Elaborative Encoding]] | — | — | 🗝️ Core Lexicon | 368 |
+| 81 | [[Elaborative-Encoding|Elaborative Encoding]] | — | — | 🗝️ Core Lexicon | 368 |
 | 82 | [[Fluency-Illusion|Fluency Illusion]] | — | — | 🗝️ Core Lexicon | 371 |
 | 83 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | 🗝️ Core Lexicon | 374 |
 | 84 | [[interleaving]] | — | — | 🗝️ Core Lexicon | 377 |
@@ -1286,7 +1286,7 @@ extraction_summary:
 | 198 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧱 First-Principles-Structural-Scaffol... | 766 |
 | 199 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🧱 First-Principles-Structural-Scaffol... | 768 |
 | 200 | [[Metacognition]] | — | — | 🧱 First-Principles-Structural-Scaffol... | 768 |
-| 201 | [[Building a Second Brain]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 783 |
+| 201 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 783 |
 | 202 | [[Zettelkasten]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 783 |
 | 203 | [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 791 |
 | 204 | [[Metacognitive]] | — | — | 1.0 🧐 THE ARTIFACT: Deconstructing "C... | 799 |
@@ -1296,7 +1296,7 @@ extraction_summary:
 | 208 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 209 | [[Chi, Feltovich, and Glaser]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 210 | [[Synaptic-Consolidation|Synaptic Consolidation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
-| 211 | [[Long-Term Potentiation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
+| 211 | [[Long-Term-Potentiation|Long-Term Potentiation]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 819 |
 | 212 | [[The Metacognitive Architecture: Flavell's Two-Component Model]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 822 |
 | 213 | [[John-Flavell|John Flavell]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 823 |
 | 214 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 2.0 ⚛️ THE ATOMS: Identifying the Fir... | 823 |
@@ -1330,8 +1330,8 @@ extraction_summary:
 | 242 | [[Metacognitive Practice Architecture]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 889 |
 | 243 | [[First-Principle Nodes]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 889 |
 | 244 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 893 |
-| 245 | [[Metacognitive Competence]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 897 |
-| 246 | [[Metacognitive Competence]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 904 |
+| 245 | [[Metacognitive-Competence|Metacognitive Competence]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 897 |
+| 246 | [[Metacognitive-Competence|Metacognitive Competence]] | — | — | 4.0 💡 THE INSIGHT: The Rebuilt Model | 904 |
 | 247 | [[Feynman Technique]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 912 |
 | 248 | [[The Productivity-Output Conflation]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 917 |
 | 249 | [[The Reading-as-Learning Assumption]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 917 |
@@ -1450,7 +1450,7 @@ $$
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Active Recall]]
+- [[Active-Recall|Active Recall]]
 - [[Adrian Wells]]
 - [[Alain Hadwin]]
 - [[Alan-Baddeley|Alan Baddeley]]
@@ -1462,7 +1462,7 @@ $$
 - [[Benjamin-Bloom|Benjamin Bloom]]
 - [[Bidirectional Linking]]
 - [[Bloom's Taxonomy as a Metacognitive Assessment Tool]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Building a Second Brain — Tiago Forte]]
 - [[Calibration and the Dunning-Kruger Topology of Self-Knowledge]]
 - [[Charles Darwin]]
@@ -1491,7 +1491,7 @@ $$
 - [[Dunning]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Dunning-Kruger Effect and Calibration]]
-- [[Elaborative Encoding]]
+- [[Elaborative-Encoding|Elaborative Encoding]]
 - [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
 - [[Endel-Tulving|Endel Tulving]]
@@ -1521,7 +1521,7 @@ $$
 - [[Knowledge Graph and Networked Thought]]
 - [[Learning-as-Exposure]]
 - [[Long-Term-Memory|Long-Term Memory]]
-- [[Long-Term Potentiation]]
+- [[Long-Term-Potentiation|Long-Term Potentiation]]
 - [[Mark Jung-Beeman]]
 - [[Marshall McLuhan]]
 - [[Metacognition]]
@@ -1531,13 +1531,13 @@ $$
 - [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and the Illusion of Knowing]]
-- [[Metacognitive Competence]]
+- [[Metacognitive-Competence|Metacognitive Competence]]
 - [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Practice Architecture]]
 - [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]
-- [[Metacognitive Therapy]]
+- [[Metacognitive-Therapy|Metacognitive Therapy]]
 - [[Negative Capability]]
 - [[Nelson-Cowan|Nelson Cowan]]
 - [[Niklas Luhmann]]

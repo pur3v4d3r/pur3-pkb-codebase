@@ -1,0 +1,2583 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:34.291229",
+    "source_file": "attribution-theory-focused-analysis-2026-03-24.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-focused-analysis-report-generator-v1.1.0\\extracted\\attribution-theory-focused-analysis-2026-03-24.md",
+    "source_file_size_bytes": 107797,
+    "processing_time_seconds": 0.024
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "attribution-theory-focused-analysis-2026-03-24",
+      "doc_type": "focused-analysis-report",
+      "doc_created": "2026-03-24",
+      "doc_modified": "2026-03-24",
+      "author": "claude-sonnet-4-6",
+      "primary_domain": "motivational-psychology",
+      "secondary_domains": [
+        "cognitive-psychology",
+        "educational-psychology",
+        "emotion-science",
+        "instructional-design"
+      ],
+      "related_concepts": [
+        "[[Attribution-Theory]]",
+        "[[Bernard-Weiner]]",
+        "[[Attribution-Style]]",
+        "[[Appraisal-Theory]]",
+        "[[Growth-Mindset-Theory]]",
+        "[[Helpless-Response-Pattern]]",
+        "[[Achievement-Goal-Theory]]",
+        "[[Self-Determination-Theory]]",
+        "[[Perceived-Locus-of-Causality]]",
+        "[[Attribution-Retraining-Interventions]]",
+        "[[Self-Efficacy]]",
+        "[[Causal-Induction]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "attribution-theory",
+        "motivational-psychology",
+        "emotion-mediated-motivation",
+        "causal-cognition",
+        "achievement-motivation",
+        "weiner",
+        "stability-dimension",
+        "controllability",
+        "attribution-retraining",
+        "self-sealing-architecture",
+        "educational-psychology"
+      ],
+      "status": "evergreen",
+      "maturity": "developed",
+      "confidence": "high",
+      "reasoning_tier": "Tier 3: Synthesis & Innovation",
+      "reasoning_methods": [
+        "Extended thinking with metacognitive scaffolding",
+        "Progressive depth elaboration",
+        "FAR transfer structural encoding",
+        "Analytical commentary system"
+      ],
+      "transfer-contributions": {
+        "abstract-principles-extracted": "3",
+        "structural-analogues-identified": "6",
+        "target-domains-bridged": "4"
+      },
+      "transfer-principles": [
+        {
+          "principle": "The Stability-Expectancy Lock: stable attributions for outcomes suppress future effort by collapsing the perceived outcome-effort contingency",
+          "originating-finding": "Weiner's finding that stability, not locus, is the primary determinant of expectancy change",
+          "target-domains": [
+            "clinical-psychology",
+            "organizational-behavior",
+            "AI-alignment"
+          ]
+        },
+        {
+          "principle": "The Controllability-Moral Inference Bridge: perceived controllability of another's negative outcome automatically triggers moral appraisal rather than sympathy",
+          "originating-finding": "Weiner's social attribution research on stigma and helping behavior",
+          "target-domains": [
+            "public-policy",
+            "clinical-practice",
+            "social-cognition"
+          ]
+        },
+        {
+          "principle": "The Emotion-Mediation Cascade: cognitive appraisal generates specific, differentiated emotions that then drive motivation — interventions that bypass emotion and target cognition directly are architecturally incomplete",
+          "originating-finding": "Weiner's mature emotion-attribution model demonstrating that emotion mediates the attribution-behavior link",
+          "target-domains": [
+            "psychotherapy",
+            "instructional-design",
+            "coaching"
+          ]
+        }
+      ],
+      "source": "claude-sonnet-4-6",
+      "based_on": "Focused Analysis Report Generator v1.1.0",
+      "prerequisites": [
+        "[[Attribution-Theory]]",
+        "[[Motivational-Psychology]]",
+        "[[Appraisal-Theory]]"
+      ],
+      "builds_on": [
+        "[[Motivation-Theory-Foundational-Report]]",
+        "[[Bernard-Weiner]]",
+        "[[Achievement-Goal-Theory]]"
+      ],
+      "extends": [
+        "[[Attribution-Theory]]",
+        "[[Attribution-Style]]"
+      ],
+      "link_up": "[[Motivational-Psychology]]",
+      "link_down": [
+        "[[Attribution-Retraining-Interventions]]",
+        "[[Attribution-Retraining]]",
+        "[[Helpless-Response-Pattern]]"
+      ],
+      "link_related": [
+        "[[Growth-Mindset-Theory]]",
+        "[[Self-Determination-Theory]]",
+        "[[Appraisal-Theory]]",
+        "[[Self-Efficacy]]",
+        "[[Belonging-Uncertainty]]"
+      ],
+      "sections": [
+        "Phase I: Orientation & Analytical Focus",
+        "Phase II: Analytical Framework — The Three-Dimensional Architecture",
+        "Phase III: Critical Examination of Evidence",
+        "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "Phase V: Implications, Applications & Limitations",
+        "Phase VI: Synthesis, Integration & Original Contribution",
+        "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "Phase VIII: PKB Connections & Cross-Report Links",
+        "Phase IX: Appendix"
+      ],
+      "document-features": {
+        "callouts": "28",
+        "wiki-links": "38",
+        "reflective-questions": "21",
+        "cognitive-engagement-elements": "16",
+        "analytical-commentary": "11",
+        "section-end-summaries": "6",
+        "transfer-principles": "3"
+      },
+      "summary": "A focused analysis of Attribution Theory that drills below standard three-dimensional summaries to excavate the emotion-mediated causal mechanism at the theory's core. The analysis argues that Attribution Theory is fundamentally a theory of emotion-mediated motivation — not a purely cognitive theory — and that this characterization changes what intervention strategies make sense. Central focus on Weiner's mature model, the self-sealing architecture of stability attributions, the controllability-morality bridge, and the empirical evidence for attribution retraining."
+    },
+    "word_count": 12503,
+    "character_count": 96615,
+    "line_count": 745,
+    "heading_count": 37
+  },
+  "extraction_summary": {
+    "total_items_extracted": 220,
+    "by_type": {
+      "headings": 37,
+      "callouts": 69,
+      "wiki_links": 76,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 28,
+      "code_blocks": 1,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 3,
+      "lists_unordered": 6,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Attribution Theory: The Emotion-Mediated Causal Architecture of Achievement Motivation",
+      "anchor": "attribution-theory-the-emotion-mediated-causal-architecture-of-achievement-motivation",
+      "line_number": 147,
+      "source": "attribution-theory-focused-analysis-2026-03-24.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Analytical Focus",
+          "anchor": "phase-i-orientation-analytical-focus",
+          "line_number": 153,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — The Three-Dimensional Architecture",
+          "anchor": "phase-ii-analytical-framework-the-three-dimensional-architecture",
+          "line_number": 177,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "2.1 The Intellectual Lineage: From Heider to Weiner",
+              "anchor": "21-the-intellectual-lineage-from-heider-to-weiner",
+              "line_number": 179,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.2 The Three Dimensions",
+              "anchor": "22-the-three-dimensions",
+              "line_number": 196,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.3 The Emotion-Mediation Framework",
+              "anchor": "23-the-emotion-mediation-framework",
+              "line_number": 227,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 253,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "3.1 The Emotion-Attribution Correspondence: What the Evidence Shows",
+              "anchor": "31-the-emotion-attribution-correspondence-what-the-evidence-shows",
+              "line_number": 258,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.2 The Anger-Pity Asymmetry in Social Attribution",
+              "anchor": "32-the-anger-pity-asymmetry-in-social-attribution",
+              "line_number": 272,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.3 The Self-Serving Bias and Attribution Style",
+              "anchor": "33-the-self-serving-bias-and-attribution-style",
+              "line_number": 286,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+          "line_number": 307,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "4.1 The Stability-Expectancy Lock: A Self-Sealing Architecture",
+              "anchor": "41-the-stability-expectancy-lock-a-self-sealing-architecture",
+              "line_number": 312,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.2 The Controllability Dimension: Moral Cognition in Motivational Clothing",
+              "anchor": "42-the-controllability-dimension-moral-cognition-in-motivational-clothing",
+              "line_number": 328,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.3 The Appraisal Theory Interface",
+              "anchor": "43-the-appraisal-theory-interface",
+              "line_number": 346,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications, Applications & Limitations",
+          "anchor": "phase-v-implications-applications-limitations",
+          "line_number": 371,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "5.1 Implications for Intervention Design",
+              "anchor": "51-implications-for-intervention-design",
+              "line_number": 376,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.2 Limitations of the Framework",
+              "anchor": "52-limitations-of-the-framework",
+              "line_number": 389,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 413,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "6.1 Pulling the Threads Together",
+              "anchor": "61-pulling-the-threads-together",
+              "line_number": 415,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6.2 An Original Synthesis: The Two-Stage Intervention Architecture",
+              "anchor": "62-an-original-synthesis-the-two-stage-intervention-architecture",
+              "line_number": 421,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6.3 The Central Question Revisited",
+              "anchor": "63-the-central-question-revisited",
+              "line_number": 428,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+          "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+          "line_number": 447,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "7.1 Abstract Principle Extraction",
+              "anchor": "71-abstract-principle-extraction",
+              "line_number": 452,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "7.2 Structural Analogues",
+              "anchor": "72-structural-analogues",
+              "line_number": 466,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "7.3 Transfer Encoding",
+              "anchor": "73-transfer-encoding",
+              "line_number": 477,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-viii-pkb-connections-cross-report-links",
+          "line_number": 507,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase IX: Appendix",
+          "anchor": "phase-ix-appendix",
+          "line_number": 538,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 540,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. Key Figures & Intellectual Lineage",
+              "anchor": "b-key-figures-intellectual-lineage",
+              "line_number": 587,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Conceptual Tensions & Open Questions",
+              "anchor": "c-conceptual-tensions-open-questions",
+              "line_number": 616,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. References",
+              "anchor": "d-references",
+              "line_number": 632,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "E. Methodology & Sources Note",
+              "anchor": "e-methodology-sources-note",
+              "line_number": 661,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "F. Argument Map",
+              "anchor": "f-argument-map",
+              "line_number": 684,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "G. Practical Application Protocol",
+              "anchor": "g-practical-application-protocol",
+              "line_number": 735,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "H. Spaced Repetition Seeds",
+              "anchor": "h-spaced-repetition-seeds",
+              "line_number": 757,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "I. Expansion Topics for the PKB",
+              "anchor": "i-expansion-topics-for-the-pkb",
+              "line_number": 823,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "K. Report Quality Self-Assessment",
+              "anchor": "k-report-quality-self-assessment",
+              "line_number": 859,
+              "source": "attribution-theory-focused-analysis-2026-03-24.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Schema Activation — Before You Begin",
+        "body": "Before reading this analysis, take a moment to articulate your current understanding of how people explain their failures and successes. When a student fails a test, what explanations are available to them? Which explanations lead to persisting and trying harder, and which lead to giving up? What do you believe determines whether an explanation is motivationally adaptive or maladaptive? Write this down — not just in your head, but as an explicit record. The comparison between your starting position and where this analysis takes you is where the deepest learning lies.",
+        "line_number": 155,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 6437,
+        "char_end": 7077
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Before the next section establishes the formal framework, predict: of Weiner's three causal dimensions (locus, stability, controllability), which one do you think most powerfully determines persistence behavior after failure? Which determines the emotional quality of the experience? Commit to your predictions. The analysis will return to them.",
+        "line_number": 170,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 10611,
+        "char_end": 11003
+      },
+      {
+        "type": "definition",
+        "title": "Attribution (Heider, 1958)",
+        "body": "**Definition:** A causal explanation assigned by an observer (or actor) to account for an outcome — specifically, the assignment of that outcome to an internal source (properties of the person) or an external source (properties of the environment or situation). Attributions are not neutral descriptions; they carry implications about the future, about responsibility, and about appropriate responses.\n\n**Report-Specific Significance:** The basic internal/external distinction is the foundation on which Weiner's three-dimensional model builds — but the analysis will show that locus alone is insufficient to explain the motivational consequences observed in achievement contexts.\n\n**Operational Indicators:** A causal statement qualifies as an internal attribution when the speaker locates causation in the self (\"I failed because I'm not good at math\") versus an external attribution when causation is located outside (\"I failed because the test was unfair\").\n\n**Cross-References:** [[Causal-Induction]], [[Perceived-Locus-of-Causality]], [[Actor-Observer-Bias]]",
+        "line_number": 185,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 12662,
+        "char_end": 13785
+      },
+      {
+        "type": "definition",
+        "title": "Locus of Causality (Weiner, 1979)",
+        "body": "**Definition:** The location of a cause as internal to the person (ability, effort, mood, strategy) or external to the person (task difficulty, luck, other people's actions). This dimension is closely related to but distinct from [[Perceived-Locus-of-Causality]] in SDT — the SDT construct refers to whether the *regulation of behavior* feels internally initiated, whereas Weiner's locus refers to the *location of the cause* of an outcome.\n\n**Report-Specific Significance:** Locus primarily determines the emotional valence of self-directed emotions — specifically pride and shame. Internal attributions for success amplify pride; internal attributions for failure amplify shame. External attributions for either outcome attenuate these self-directed affects.\n\n**Operational Indicators:** Ask whether removing the person from the situation would change the probability of the outcome. If yes, the cause is internal; if no, the cause is external.\n\n**Cross-References:** [[Attribution-Theory]], [[Perceived-Locus-of-Causality]], [[Self-Determination-Theory]]",
+        "line_number": 200,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 14313,
+        "char_end": 15436
+      },
+      {
+        "type": "definition",
+        "title": "Stability (Weiner, 1979)",
+        "body": "**Definition:** The temporal persistence of a cause — whether it is relatively fixed (stable: ability, task difficulty) or variable (unstable: effort, luck, temporary mood). Stability is the dimension that Weiner argued most powerfully determines *expectancy change* — the degree to which an outcome changes a person's prediction about future outcomes.\n\n**Report-Specific Significance:** This is the analytically central dimension. Stable attributions create rigid expectancies that are resistant to disconfirmation; unstable attributions leave expectancies open to revision. The self-sealing architecture of maladaptive patterns largely runs through this dimension.\n\n**Operational Indicators:** Ask whether the cause will likely be present in the next similar situation. Ability and task difficulty are prototypically stable; effort expenditure and luck are prototypically unstable.\n\n**Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Incremental-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "line_number": 209,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 15437,
+        "char_end": 16503
+      },
+      {
+        "type": "definition",
+        "title": "Controllability (Weiner, 1979)",
+        "body": "**Definition:** Whether the cause is subject to volitional control by the actor or by others. Effort is the prototypical controllable cause; ability, luck, and task difficulty are paradigmatically uncontrollable. Critically, controllability is orthogonal to locus — an internal cause (ability) may be uncontrollable, while an external cause (another person's behavior toward you) may be controllable by them.\n\n**Report-Specific Significance:** Controllability is the primary driver of guilt (for controllable failures attributed to self) and anger (for controllable failures attributed to others). It also generates interpersonal moral inferences about the appropriateness of help and pity — a mechanism with significant ethical implications.\n\n**Operational Indicators:** Ask whether the actor could have produced a different level of the causal factor through an act of will. If yes, the cause is controllable; if no, it is uncontrollable.\n\n**Cross-References:** [[Autonomous-Motivation]], [[Achievement-Goal-Theory]], [[Appraisal-Theory]]",
+        "line_number": 218,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 16504,
+        "char_end": 17607
+      },
+      {
+        "type": "key-claim",
+        "title": "The Mediational Core",
+        "body": "Weiner's mature model (fully articulated in *An Attributional Theory of Motivation and Emotion*, 1986) holds that cognitive causal attributions generate specific, differentiated emotional responses — not just valenced affect — and that these emotions are the proximate causes of motivational and behavioral consequences. The dimensions function as *emotion generators*: locus generates pride/shame, stability generates hopelessness/hope, and controllability generates guilt/anger/pity. The emotions do the motivational work; the dimensions do the affective work.",
+        "line_number": 233,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 17961,
+        "char_end": 18566
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Conceptual Checkpoint",
+        "body": "The argument from Phase III forward depends on a clear grasp of the dimensional structure. Before continuing: Can you construct the attribution profile for a student who fails a test and thinks \"I failed because I didn't study, and I could have studied if I had chosen to\"? What are the locus, stability, and controllability values? What emotions does Weiner's model predict? If you find yourself reaching for the language above rather than generating the analysis independently, the framework may not yet be fully integrated.",
+        "line_number": 238,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 18876,
+        "char_end": 19454
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Why is the distinction between locus and controllability analytically critical, given that they are often conflated in popular accounts?\n\n**Application**: Think of a recent personal failure. Map it onto Weiner's three dimensions. What emotions does the model predict you would have experienced? How accurate is that prediction?\n\n**Extension**: What does it mean that attributions to low ability are both internal AND uncontrollable? What emotions does this combination generate, and why might that combination be particularly problematic?",
+        "line_number": 243,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 19959,
+        "char_end": 20573
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before engaging with the evidence, record your current position: How confident are you (1-10) that the emotion-mediation claim — that the path from attribution to motivation *runs through* specific discrete emotions — is empirically established rather than theoretically asserted? What would it take to convince you?",
+        "line_number": 255,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 20627,
+        "char_end": 20998
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Stability-Hopelessness Link Is the Strongest",
+        "body": "Across the attribution literature, the stability-expectancy-hopelessness pathway shows the most consistent empirical support. Studies using both experimental manipulations (feedback framed as indicating stable versus unstable ability differences) and correlational designs (measuring [[Attribution-Style]] across individuals) reliably find that stable attributions for negative outcomes predict reduced persistence, lower subsequent effort investment, and affective states consistent with helplessness. The locus and controllability emotion-assignments, while supported, are more susceptible to cultural and individual moderators.",
+        "line_number": 264,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 22057,
+        "char_end": 22775
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Cognitive-Emotion Priority Problem",
+        "body": "A persistent tension in the empirical literature concerns whether the causal attribution genuinely *causes* the emotion (as Weiner's model claims) or whether prior emotional states *determine* the attribution (a mood-congruent attribution account). Studies by Forgas and colleagues using the Affect Infusion Model demonstrate that people in negative moods make more external, unstable attributions for others' behavior — suggesting that emotion influences attribution as much as attribution influences emotion. Weiner's model treats the cognitive appraisal as primary, but the evidence suggests a bidirectional relationship that the standard causal account cannot fully accommodate.",
+        "line_number": 269,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 23501,
+        "char_end": 24253
+      },
+      {
+        "type": "evidence",
+        "title": "The Stigma and Helping Literature",
+        "body": "Graham and colleagues (1992) showed that the controllability-helping pathway holds even for racially stigmatized conditions — specifically, controllability attributions mediated racial disparities in reported helping intentions. Reisenzein (1986) demonstrated the anger-helping link in behavioral (not just self-report) measures. The robustness of this finding across cultures is more variable — individualistic cultures show stronger controllability effects on helping, consistent with a framework that places more moral weight on personal agency.",
+        "line_number": 278,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 25026,
+        "char_end": 25629
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Attribution Theory as Hidden Moral Philosophy",
+        "body": "The controllability dimension's function as a moral trigger reveals something important about the structure of folk moral psychology: the boundary between causal explanation and moral judgment is far more permeable than is usually acknowledged. When a person perceives another's obesity as controllable, they are making a causal judgment AND a moral judgment in a single cognitive act — and Weiner's model suggests these two judgments are structurally fused rather than sequentially related. This has significant implications for debates about responsibility, stigma, and policy — domains that are typically treated as involving distinct cognitive operations.",
+        "line_number": 283,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 26193,
+        "char_end": 26929
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Stability × Globality Interaction Is Clinically Central",
+        "body": "The most powerful predictor of helplessness and depression in the explanatory style literature is not any single dimension but the *stability × globality* interaction: attributing negative events to causes that are both temporally persistent AND cross-situationally general (e.g., \"I'm fundamentally incompetent\") generates the most severe expectancy deficits and the most pervasive motivational paralysis. Locus plays a secondary role — internal stable global attributions are worse than external stable global attributions, but both produce significant helplessness when stability and globality are high.",
+        "line_number": 292,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 28086,
+        "char_end": 28791
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: What is the most important finding from the stigma/helping research, and what does it imply about the relationship between attribution and moral judgment?\n\n**Application**: Consider a colleague who consistently attributes their professional failures to bad luck and their successes to skill. What does Weiner's model predict about their long-term motivational trajectory? Is this pattern adaptive or maladaptive, and in what sense?\n\n**Extension**: Where do you find the evidence most compelling? Where do you find yourself resistant? What assumptions underlie your resistance?",
+        "line_number": 297,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 29396,
+        "char_end": 30047
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "This phase builds directly on the three-dimensional framework from Phase II and the evidence review in Phase III. The mechanism analysis assumes familiarity with the dimensional structure and the emotion-attribution correspondences. The argument here is about causal architecture — how attributional patterns produce self-reinforcing dynamics — and requires sustained attention to multi-step causal chains.",
+        "line_number": 309,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 30104,
+        "char_end": 30554
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Confirmation Architecture of Stability Beliefs",
+        "body": "The self-sealing property of stability attributions is not merely psychological — it has a behavioral feedback structure that makes disconfirmation genuinely difficult. Unlike purely cognitive biases (where the person selectively attends to confirming evidence), stability attributions in achievement contexts generate *actual performance reductions* through their effect on effort investment. This means that even an observer with perfect rationality who tracked the student's performance over time would likely see a pattern consistent with the stable attribution — not because the attribution is correct but because the attribution has made itself correct. This is a motivational analogue of the self-fulfilling prophecy, but with a more precise causal mechanism than Merton's original formulation.",
+        "line_number": 318,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 31678,
+        "char_end": 32561
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "The Stability Lock → Organizational Learned Helplessness",
+        "body": "The stability-expectancy lock operates at the organizational level with striking structural fidelity to the individual level. Organizations that attribute persistent underperformance to stable factors (\"this market is inherently difficult,\" \"our workforce lacks the capability for this transformation\") exhibit the same reduced investment in change-directed effort, the same expectancy deficits, and the same confirmation dynamics that individual-level research documents. The mechanism is domain-independent: stable causal attribution suppresses motivated action, which produces confirming performance, which reinforces the stable attribution. This is not a metaphor — it is the same causal structure operating at a different level of analysis.",
+        "line_number": 325,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 33807,
+        "char_end": 34645
+      },
+      {
+        "type": "definition",
+        "title": "The Guilt-Shame Asymmetry in Motivational Function",
+        "body": "**Definition:** In Weiner's framework, guilt and shame are both negative self-directed emotions but are generated by different attribution profiles and have opposite motivational implications. Guilt — generated by controllable internal causal attributions — is motivationally facilitative because it implies that the cause is changeable. Shame — generated by uncontrollable internal causal attributions — is motivationally paralyzing because it implies that the cause is fixed.\n\n**Report-Specific Significance:** The practical implication is that not all negative self-directed affect is motivationally equivalent. Interventions that reduce guilt without replacing the attributional substrate may inadvertently reduce a motivationally useful signal. The goal of attribution-based interventions is not to eliminate negative affect but to shift the *type* of negative affect toward guilt and away from shame.\n\n**Operational Indicators:** Guilt typically accompanies specific behavioral regret (\"I wish I had studied more\"); shame typically accompanies global self-evaluation (\"I'm just not capable of this\").",
+        "line_number": 334,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 35828,
+        "char_end": 37014
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Descriptive-Normative Tension in Controllability Attributions",
+        "body": "Weiner's model documents that controllability attributions trigger reduced helping and increased anger — but it is not obvious that this is a *rational* or *normatively appropriate* response. The empirical finding that perceived controllability of stigmatized conditions (addiction, obesity, poverty) reduces helping motivation has been used both descriptively (to understand social behavior) and normatively (as an implicit justification for reduced social provision). The theory cannot adjudicate this normative question, but the analytical danger is that its descriptive accuracy is taken to imply normative warrant. The mechanism operates regardless of whether the controllability attribution is accurate — and there is substantial evidence that controllability attributions for complex conditions (addiction, mental illness, structural poverty) systematically overestimate personal control and underestimate systemic factors.",
+        "line_number": 343,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 37320,
+        "char_end": 38347
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Weiner as Applied Appraisal Theory — and What That Reveals",
+        "body": "The structural correspondence between Weiner's attribution dimensions and Lazarus's appraisal dimensions is too precise to be coincidental — they are independently converging on the same underlying cognitive structure. What makes this observation useful is that Lazarus's framework has a more developed account of the *social and relational* dimensions of appraisal (particularly his concept of coping potential and the distinction between problem-focused and emotion-focused coping). Reading Weiner through Lazarus suggests that the stability dimension's motivational consequences may be partly mediated by *coping potential appraisals* — and that interventions targeting coping potential may be as effective as those targeting causal attributions directly. This is an underexplored intervention direction in the attribution retraining literature.",
+        "line_number": 356,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 39302,
+        "char_end": 40240
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: What makes the Stability-Expectancy Lock \"self-sealing,\" and why does this make simple informational interventions insufficient?\n\n**Application**: Think of a domain where you hold a stable attribution about your own limitations. Can you identify evidence in your behavioral history that the stability belief has generated through reduced effort investment?\n\n**Extension**: The appraisal-theory interface suggests that coping potential appraisals may mediate the stability-expectancy link. What intervention would you design to target coping potential specifically, as distinct from causal attribution?",
+        "line_number": 361,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 40954,
+        "char_end": 41632
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — After",
+        "body": "Return to your Knowledge State recording from Phase III. How has your understanding of the emotion-mediation mechanism shifted? Is your confidence in the stability-hopelessness pathway higher, lower, or restructured? Has the mechanism analysis added content (new information) or restructured your framework (reorganized thinking)?",
+        "line_number": 373,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 41692,
+        "char_end": 42076
+      },
+      {
+        "type": "best-practice",
+        "title": "Design Attribution Interventions for Affective Change, Not Just Cognitive Change",
+        "body": "When designing [[Attribution-Retraining-Interventions]], build in explicit mechanisms for affective reorganization, not just cognitive reattribution. This might include: (1) having participants describe emotional responses to new attributional framings (to make the affective component explicit), (2) behavioral experiments that generate success experiences under the new attribution (providing affective confirmation of the new framework), and (3) explicit discussion of the emotion-attribution correspondence so participants understand why the intervention targets emotions as much as beliefs.",
+        "line_number": 382,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 42989,
+        "char_end": 43691
+      },
+      {
+        "type": "warning",
+        "title": "The Measurement Problem",
+        "body": "A persistent limitation of attribution research is the discrepancy between verbal attribution measures (what people say caused their outcomes) and actual causal cognitions (which may be less accessible to introspection and more automatic). Much attribution research relies on self-report scales or open-ended causal statement coding, but there is evidence that attribution-behavior relationships are stronger when attributions are measured closer in time to the outcome and weaker when measured retrospectively — suggesting that post-hoc verbal attributions may partially reconstruct rather than accurately report actual causal cognitions.",
+        "line_number": 391,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 45112,
+        "char_end": 45795
+      },
+      {
+        "type": "warning",
+        "title": "The Cultural Universality Problem",
+        "body": "Cross-cultural research on attributional patterns and their emotional consequences reveals significant variation. In collectivistic cultures, the locus-pride link is attenuated (public success credited to group rather than self), and internal attributions for failure are not always accompanied by reduced self-esteem (in some cultural contexts, self-criticism for controllable failures is normatively encouraged and motivationally facilitative). The stability-expectancy link appears more culturally robust than the locus-emotion correspondences, suggesting that the stability mechanism may be more fundamental to the architecture.",
+        "line_number": 396,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 46435,
+        "char_end": 47121
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Implications",
+        "body": "**Comprehension**: Why is cognitive attribution change necessary but not sufficient for behavioral change in the emotion-mediation model?\n\n**Application**: If you were designing an attribution retraining program for students with established helpless response patterns, what specific components would you include to address the Stability-Expectancy Lock?\n\n**Extension**: What is the most important limitation of Attribution Theory as a framework for intervention, and what would address it?",
+        "line_number": 403,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 48419,
+        "char_end": 48969
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Two-Stage Attribution Intervention Architecture",
+        "body": "The emotion-mediation mechanism, taken seriously as a design constraint, implies that attribution interventions should be structured in two stages rather than the single-stage cognitive reattribution that most programs implement. Stage 1 targets *cognitive attribution accuracy* — specifically, the stability dimension, shifting from stable to unstable causal explanations for failure. This is the standard content of attribution retraining. Stage 2 targets *affective reorganization* — working explicitly with the specific emotions generated by the new attribution profile to ensure that the affective consequence of the cognitive change is (a) experienced and (b) connected to the cognitive reattribution in the learner's model.\n\nThe rationale is architectural: if hopelessness (the affect generated by stable attributions for failure) mediates the stability-persistence relationship, then a cognitive shift from stable to unstable attribution that does not produce a corresponding shift from hopelessness to hope has failed to propagate through the motivational chain. The new attribution generates a new affective prediction (hope rather than hopelessness) but this prediction must be tested through experience and confirmed behaviorally to be consolidated. Stage 2 provides this confirmation through structured success experiences under the new attribution framework, combined with explicit attention to the emotional experience of those successes. This is not a minor modification to existing programs — it requires a fundamentally different intervention structure that treats emotional experience as a necessary variable rather than an expected outcome.",
+        "line_number": 423,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 50264,
+        "char_end": 52010
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Why the Common Account Undersells the Theory",
+        "body": "The common account — \"attributing failure to effort is better than attributing it to ability\" — captures one output of the model but misses its generative mechanism. The reason effort attributions are motivationally superior is not that they are more \"positive\" but that effort is unstable (hence generates hope, not hopelessness) AND controllable (hence generates guilt, not shame) AND internal (hence preserves the self-evaluation that makes future success meaningful). The three-dimensional analysis shows that the motivational superiority of effort attributions is *overdetermined* — it is simultaneously produced by three independent mechanisms. This overdetermination is why effort-attribution interventions are consistently effective: they operate on all three dimensions simultaneously.",
+        "line_number": 432,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 52795,
+        "char_end": 53665
+      },
+      {
+        "type": "reflection",
+        "title": "Final Integration",
+        "body": "**Comprehension**: What is the single most important insight from this analysis? Not the most interesting fact, but the most consequential insight for understanding motivation and designing interventions.\n\n**Application**: If explaining the core of Weiner's emotion-mediation mechanism to a colleague in three sentences, what would you say?\n\n**Extension**: What is the next question you want to pursue? Where does this analysis create the most productive uncertainty?",
+        "line_number": 437,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 54263,
+        "char_end": 54779
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Transfer Application",
+        "body": "The Stability-Expectancy Lock — the mechanism by which stable causal attributions for negative outcomes suppress the motivated action that would otherwise produce disconfirming experience — has now been identified as the architecturally central dynamic in attribution theory. Before reading the transfer analysis: can you independently identify a domain outside psychology where the same structural pattern might operate? What are the relevant analogues for \"attribution,\" \"stability,\" \"expectancy,\" and \"confirming behavior\"? Your ability to generate these independently is the test of whether the mechanism has been genuinely abstracted.",
+        "line_number": 449,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 54851,
+        "char_end": 55541
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Stability Attribution Lock → Organizational Change Failure",
+        "body": "In organizational change management, teams that attribute persistent underperformance to stable factors (\"this culture will never change,\" \"this workforce doesn't have the capability\") exhibit the same self-sealing architecture as individuals with stable ability attributions. The stable organizational attribution generates reduced investment in change-directed effort (low expectancy of success makes effort seem wasteful), which produces performance patterns consistent with the original stable attribution. The analogy holds because both share the relational structure: stable causal attribution → expectancy deficit → reduced action → confirming evidence → attribution reinforcement. The diagnostic question is: is the organization reducing effort investment because of the attribution, or is the attribution tracking genuinely stable facts? The intervention prescription follows directly from the psychological literature — behavioral experiments that test the stability assumption by investing effort strategically in specific bounded change projects.",
+        "line_number": 468,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 57615,
+        "char_end": 58768
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Emotion-Mediation Cascade → Psychotherapy and Cognitive-Behavioral Models",
+        "body": "Cognitive-Behavioral Therapy's assumption that changing cognitive distortions will automatically improve emotional states represents an intervention architecture that the emotion-mediation mechanism directly challenges. CBT targets the cognitive level (catastrophic thinking, negative automatic thoughts) with the expectation that emotional change will follow. But if the relationship between cognition and emotion is bidirectional — as the attribution literature suggests — then purely cognitive interventions may insufficiently address the affective substrate. The structural analogue identifies why CBT works when it does (cognitive change that cascades into affective reorganization) and why it sometimes doesn't (cognitive change that fails to reorganize the affective patterns). The intervention prescription: cognitive reattribution should be paired with behavioral experiments that generate direct affective disconfirmation of the catastrophic prediction — not just cognitive evidence, but visceral affective experience.",
+        "line_number": 471,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 58769,
+        "char_end": 59907
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Self-Sealing Architecture in AI Alignment",
+        "body": "A structurally isomorphic dynamic appears in discussions of AI systems trained on their own outputs: a system that makes predictions about its own performance capabilities, reduces its exploration based on those predictions, and then interprets the reduced output variance as confirmation of its capability ceiling. The structural elements are all present — stable \"attribution\" about capability, reduced motivated exploration, confirming evidence. The transfer is imperfect (AI systems don't have emotions in Weiner's sense), but the *epistemic* structure of the self-sealing attribution — where the causal model insulates itself from disconfirmation by shaping the evidence generation process — is genuinely domain-independent and potentially valuable for understanding training dynamics.",
+        "line_number": 474,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 59908,
+        "char_end": 60775
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Transfer",
+        "body": "**Comprehension**: Which structural analogue surprised you most? What made the connection non-obvious?\n\n**Application**: Choose one application bridge — instructional design or clinical coaching — and sketch a specific implementation for a context you work in. What is the minimum viable version of the intervention?\n\n**Extension**: What does the meta-transfer reflection about mechanistic versus pattern-level understanding imply for how you should structure your own PKB notes? Does this change how you will encode the insights from this analysis?",
+        "line_number": 497,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 63965,
+        "char_end": 64570
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\n- **[[Growth-Mindset-Theory]]** — Dweck's entity/incremental theory distinction is a direct operationalization of Weiner's stability dimension as an individual difference variable. The motivational divergence between entity and incremental theorists (challenge avoidance vs. challenge seeking) follows precisely from the stability-expectancy mechanism analyzed in Phase IV. This analysis provides the mechanistic foundation that Growth Mindset research often asserts but rarely specifies.\n\n- **[[Helpless-Response-Pattern]]** — The helpless response pattern (Dweck & Reppucci, 1973; Seligman, 1975) is the behavioral signature of the Stability-Expectancy Lock operating over time. This report provides the mechanistic account that explains *why* helpless patterns are self-perpetuating and *what* specifically must change in the causal architecture to disrupt them.\n\n- **[[Self-Determination-Theory]]** — SDT's construct of [[Perceived-Locus-of-Causality]] is structurally related to but distinct from Weiner's locus dimension. Where Weiner's locus concerns the location of the *cause of an outcome*, SDT's PLOC concerns the location of the *initiation of behavior* — a complementary rather than overlapping construct. The two theories are better read as addressing different phases of the motivational sequence: Attribution Theory addresses the post-outcome appraisal phase; SDT addresses the pre-action regulatory phase.\n\n- **[[Appraisal-Theory]]** — The analysis identified structural isomorphism between Weiner's attribution dimensions and Lazarus's appraisal dimensions. Both are cognitive emotion theories that claim systematic mappings from cognitive evaluation to discrete emotion. The correspondence illuminates both theories and suggests that the under-explored Lazarus construct of coping potential appraisal may be the mechanism through which stability attributions generate expectancy effects.\n\n- **[[Achievement-Goal-Theory]]** — Attribution Theory is silent on what determines which outcomes are motivationally significant (what counts as success or failure). Achievement Goal Theory provides the necessary supplement: mastery and performance goals determine the valuation function, and Attribution Theory then specifies the emotional and motivational consequences of outcomes within that goal framework. The two theories are architecturally complementary.\n\n- **[[Actor-Observer-Bias]]** — This documented attributional asymmetry (attributing one's own behavior to situational factors, others' behavior to dispositional factors) systematically interacts with Weiner's three dimensions in social achievement contexts and is a necessary consideration for any analysis of how attributional processes function in classroom or interpersonal settings.\n\n- **[[Belonging-Uncertainty]]** — Belonging uncertainty operates partly through attribution: students who are uncertain about their belonging attribute ambiguous interpersonal feedback to stable dispositional factors (they don't like me/think I belong here) rather than to situational factors. This is an application of the stability dimension and the Stability-Expectancy Lock specifically to social rather than achievement attributions.\n\n- **[[Metacognitive-Scaffolding]]** — Attribution interventions are a form of metacognitive scaffolding — they provide learners with an explicit causal model for interpreting their performance that substitutes for or supplements the learner's spontaneous causal cognition. The two-stage intervention architecture proposed in Phase VI is a metacognitive scaffolding design.\n\n**Cross-Report Links:**\n\n- **[[Motivation-Theory-Foundational-Report]]** — This focused analysis extends the foundational treatment of motivational theories by drilling specifically into the emotion-mediation mechanism that the foundational report surveys at the landscape level.\n\n- **[[Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr]]** — The expansion topic identified in the PKB for Attribution Retraining Interventions is the natural successor document to this analysis — applying the theoretical architecture developed here to specific intervention programs and their evidence base.\n\n**Synthetic Observation**: The pattern of connections reveals that Attribution Theory functions as a *post-outcome appraisal engine* that interfaces with multiple other motivational frameworks: it takes goal-relevant outcomes from Achievement Goal Theory as inputs, generates dimensional emotion signals, feeds those signals into the self-regulation cycle, and produces attribution patterns that reinforce or undermine the stable motivational orientations described in SDT. Attribution Theory is not a standalone motivational theory but a specific cognitive-affective mechanism that operates within a broader motivational architecture.",
+        "line_number": 509,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 64629,
+        "char_end": 69560
+      },
+      {
+        "type": "definition",
+        "title": "The Three-Dimensional Causal Taxonomy (Weiner, 1979)",
+        "body": "**Definition:** The classification of achievement causes along three independent dimensions — locus (internal/external), stability (stable/unstable), and controllability (controllable/uncontrollable) — that together determine the emotional and motivational consequences of causal attributions. The taxonomy replaces the simpler internal/external distinction with a structure sufficient to generate distinct predictions about pride, shame, guilt, anger, pity, hope, and hopelessness.\n\n**Report-Specific Significance:** This taxonomy is the generative architecture of the theory — not a descriptive catalogue of cause types but a predictive mechanism for emotion and motivation.\n\n**Operational Indicators:** Classify any stated cause using three binary questions: (1) Is the cause in the person or outside? (2) Will the cause likely persist in future situations? (3) Could the person have controlled the cause through volition?\n\n**Cross-References:** [[Attribution-Theory]], [[Bernard-Weiner]], [[Causal-Induction]]",
+        "line_number": 542,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 69618,
+        "char_end": 70716
+      },
+      {
+        "type": "definition",
+        "title": "Attribution Style / Explanatory Style (Abramson, Seligman & Teasdale, 1978)",
+        "body": "**Definition:** A habitual pattern of causal attribution across situations, characterized by three dimensions: internal/external, stable/unstable, global/specific. Depressive explanatory style (internal, stable, global attributions for negative events) predicts vulnerability to learned helplessness and depression.\n\n**Report-Specific Significance:** Attribution style transforms the situational mechanism described by Weiner into an individual difference variable with developmental history and clinical implications.\n\n**Operational Indicators:** Measured via the Attributional Style Questionnaire (ASQ) or the Children's Attributional Style Questionnaire (CASQ); coding of open-ended causal statements.\n\n**Cross-References:** [[Attribution-Style]], [[Helpless-Response-Pattern]], [[Growth-Mindset]]",
+        "line_number": 551,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 70717,
+        "char_end": 71625
+      },
+      {
+        "type": "definition",
+        "title": "The Stability-Expectancy Mechanism (Weiner, 1985)",
+        "body": "**Definition:** The causal pathway by which stable attributions for outcomes (particularly failures) generate expectancy deficits — reduced estimates of future success — through the logical inference that a cause that was present and stable in the past will be present in the future. Expectancy deficits in turn reduce the perceived instrumentality of effort investment.\n\n**Report-Specific Significance:** This is the analytically central mechanism of the report — the primary driver of the most educationally and clinically significant motivational outcomes.\n\n**Operational Indicators:** Measured via post-outcome expectancy ratings; behavioral observation of persistence after failure; response to challenge conditions.\n\n**Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]], [[Achievement-Goal-Theory]]",
+        "line_number": 560,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 71626,
+        "char_end": 72544
+      },
+      {
+        "type": "definition",
+        "title": "Emotion Mediation in Attribution (Weiner, 1986)",
+        "body": "**Definition:** The structural claim that the causal path from attribution to behavior is not direct but runs through specific discrete emotions generated by dimensional classification. The attribution generates the emotion; the emotion drives the behavior. Interventions that change attributions without producing affective change fail to propagate through to behavior.\n\n**Report-Specific Significance:** This is the most theoretically important and most frequently overlooked feature of Weiner's mature model.\n\n**Operational Indicators:** Demonstrated by showing that controlling for emotion eliminates the attribution-behavior association; and that inducing emotions without attribution change produces behavior changes consistent with the emotion-behavior rather than the attribution-behavior link.\n\n**Cross-References:** [[Appraisal-Theory]], [[Motivational-Psychology]], [[Attribution-Retraining]]",
+        "line_number": 569,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 72545,
+        "char_end": 73528
+      },
+      {
+        "type": "definition",
+        "title": "Controllability-Moral Inference Bridge (Weiner, 1993, 1995)",
+        "body": "**Definition:** The automatic cognitive process by which perceived controllability of another person's negative condition triggers moral evaluation — specifically, reduced sympathy and increased anger — rather than purely descriptive causal cognition. The attribution and the moral judgment are generated in a single cognitive act rather than sequentially.\n\n**Report-Specific Significance:** Reveals that Attribution Theory is simultaneously a descriptive motivational theory and an implicit moral philosophy — and that the normative use of controllability attributions in policy contexts is not automatically warranted by their descriptive accuracy.\n\n**Operational Indicators:** Operationalized via helping intention measures conditioned on controllability manipulations; anger and pity ratings as a function of controllability attributions for stigmatized conditions.\n\n**Cross-References:** [[Actor-Observer-Bias]], [[Belonging-Uncertainty]], [[Attribution-Style]]",
+        "line_number": 578,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 73529,
+        "char_end": 74587
+      },
+      {
+        "type": "person",
+        "title": "Bernard Weiner (b. 1935)",
+        "body": "**Core Contribution:** Developed the three-dimensional attribution model (locus, stability, controllability) and the emotion-mediation framework that constitutes the mature theory. His work transformed attribution theory from a social perception framework (focused on how people explain others' behavior) into an achievement motivation theory (focused on how self-attributions generate emotional and motivational consequences).\n\n**Relationship to Other Figures:** Built directly on Heider's internal/external distinction and Kelley's covariation model; corresponds with Lazarus's independent development of appraisal theory; influenced Abramson, Seligman, and Teasdale's reformulated learned helplessness model; provided the theoretical foundation for Dweck's implicit theory of intelligence research.\n\n**Key Works:** *An Attributional Theory of Achievement Motivation and Emotion* (1985); *An Attributional Theory of Motivation and Emotion* (1986); *Judgments of Responsibility: A Foundation for a Theory of Social Conduct* (1995).\n\n**Relevance to This Analysis:** The emotion-mediation framework developed in his 1986 book is the specific theoretical contribution that this analysis excavates and applies.",
+        "line_number": 589,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 74631,
+        "char_end": 75891
+      },
+      {
+        "type": "person",
+        "title": "Fritz Heider (1896–1988)",
+        "body": "**Core Contribution:** Established the fundamental internal/external causal distinction and the \"naive psychology\" framework — the observation that people spontaneously construct systematic causal explanations for social events. His book *The Psychology of Interpersonal Relations* (1958) initiated the attribution research program.\n\n**Relationship to Other Figures:** Intellectual grandfather of Weiner, Kelley, Jones and Davis. His phenomenological approach to social cognition positioned attribution as a study of common sense reasoning rather than formal logic.\n\n**Key Works:** *The Psychology of Interpersonal Relations* (1958).\n\n**Relevance to This Analysis:** The internal/external distinction that Heider established is the foundation on which Weiner's three-dimensional model builds.",
+        "line_number": 598,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 75892,
+        "char_end": 76737
+      },
+      {
+        "type": "person",
+        "title": "Lyn Abramson, Martin Seligman & John Teasdale (reformulation, 1978)",
+        "body": "**Core Contribution:** Reformulated Seligman's learned helplessness model in attributional terms, introducing the three-dimensional explanatory style construct (internal/external, stable/unstable, global/specific) and demonstrating its relationship to depression vulnerability.\n\n**Relationship to Other Figures:** Applied Weiner's stability dimension to clinical psychology; connected attribution research to Seligman's earlier experimental learned helplessness work with animals; influenced the development of cognitive therapy for depression.\n\n**Key Works:** \"Learned Helplessness in Humans: Critique and Reformulation\" (1978, *Journal of Abnormal Psychology*).\n\n**Relevance to This Analysis:** The reformulated learned helplessness model is the clinical application of the stability-expectancy mechanism and constitutes the strongest evidence for that mechanism's importance.",
+        "line_number": 607,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 76738,
+        "char_end": 77712
+      },
+      {
+        "type": "tension",
+        "title": "Attribution as Cause vs. Attribution as Symptom",
+        "body": "**Position A (Weiner's model):** Causal attributions are the proximate cognitive cause of differential emotional and motivational outcomes. Change the attribution, change the motivation.\n\n**Position B (Mood-congruence view):** Prior emotional states and motivational dispositions are the primary determinants of causal attributions — people in negative affective states make more external, stable attributions; failure-expecting students make stable attributions for failure not because of logical inference but as an expression of a broader negative self-concept.\n\n**Current Evidence State:** Bidirectional. Experimental studies can demonstrate both directions of influence. The most parsimonious account is a reciprocal causal model in which attributions and emotions mutually constitute each other over time — but this account is more complex and less therapeutically tractable than the unidirectional cognitive-primacy model.\n\n**Why This Matters:** If attributions are partly symptoms rather than causes, cognitive attribution retraining may have limited efficacy without addressing the underlying emotional and self-concept substrate. This is consistent with the clinical literature showing that attribution interventions have larger effects in early-stage helplessness than in established depressive episodes.\n\n**This Report's Stance:** The two-stage intervention architecture proposed in Phase VI partially dissolves this tension by treating the attribution-emotion relationship as bidirectional — the intervention targets both the cognitive attribution AND the emotional reorganization simultaneously.",
+        "line_number": 618,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 77758,
+        "char_end": 79447
+      },
+      {
+        "type": "open-question",
+        "title": "The Cross-Cultural Stability of the Emotion-Attribution Correspondences",
+        "body": "The evidence reviewed in this analysis is predominantly from Western, predominantly individualistic cultural contexts. The question of whether the specific emotion-attribution mappings (particularly the locus-pride/shame correspondence) hold cross-culturally remains genuinely open. Some cross-cultural evidence suggests that the stability dimension may be more cross-culturally robust than the locus dimension, but systematic comparative data on the full emotion-mediation chain across cultural contexts is limited. This matters for the generalizability of attribution retraining interventions in non-Western educational contexts.",
+        "line_number": 629,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 79448,
+        "char_end": 80177
+      },
+      {
+        "type": "cite",
+        "title": "Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.",
+        "body": "The seminal theoretical paper that formally articulated the three-dimensional model and the emotion-mediation framework. Phase IV's mechanism analysis draws directly on this formulation. The paper is essential reading for understanding how Weiner integrated motivation and emotion into a single theoretical architecture.",
+        "line_number": 634,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 80197,
+        "char_end": 80656
+      },
+      {
+        "type": "cite",
+        "title": "Weiner, B. (1986). *An attributional theory of motivation and emotion*. Springer.",
+        "body": "The book-length development of the 1985 paper, including the social attribution applications and the controllability-moral inference material analyzed in Phase IV. The most complete statement of Weiner's theoretical framework.",
+        "line_number": 637,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 80657,
+        "char_end": 80982
+      },
+      {
+        "type": "cite",
+        "title": "Abramson, L. Y., Seligman, M. E., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology*, 87(1), 49–74.",
+        "body": "The foundational paper connecting Weiner's stability dimension to clinical depression and learned helplessness. The reformulated learned helplessness model is the primary evidence base for the stability-expectancy mechanism's clinical significance.",
+        "line_number": 640,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 80983,
+        "char_end": 81416
+      },
+      {
+        "type": "cite",
+        "title": "Lazarus, R. S. (1991). *Emotion and adaptation*. Oxford University Press.",
+        "body": "Lazarus's comprehensive statement of appraisal theory. The structural correspondence with Weiner's attribution dimensions, analyzed in Phase IV, is most clearly visible when reading Lazarus alongside Weiner. Critical for the intervention implications explored in Phase V.",
+        "line_number": 643,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 81417,
+        "char_end": 81779
+      },
+      {
+        "type": "cite",
+        "title": "Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review*, 95(2), 256–273.",
+        "body": "The paper that established the entity/incremental implicit theory distinction and connected it to helpless and mastery response patterns. The direct operationalization of Weiner's stability dimension as an individual difference variable.",
+        "line_number": 646,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 81780,
+        "char_end": 82172
+      },
+      {
+        "type": "cite",
+        "title": "Weiner, B. (1995). *Judgments of responsibility: A foundation for a theory of social conduct*. Guilford Press.",
+        "body": "Weiner's application of controllability attribution to social cognition — specifically the controllability-helping-anger analysis reviewed in Phase III. Essential for understanding how Attribution Theory functions as a theory of moral cognition.",
+        "line_number": 649,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 82173,
+        "char_end": 82546
+      },
+      {
+        "type": "cite",
+        "title": "Graham, S., Weiner, B., Giuliano, T., & Williams, E. (1993). An attributional analysis of reactions to Magic Johnson. *Journal of Applied Social Psychology*, 23(12), 996–1010.",
+        "body": "An important applied study demonstrating the controllability-helping pathway in racially charged real-world contexts. Supports the external validity of the laboratory findings reviewed in Phase III.",
+        "line_number": 652,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 82547,
+        "char_end": 82938
+      },
+      {
+        "type": "cite",
+        "title": "Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology*, 43(2), 367–376.",
+        "body": "The foundational attribution retraining study demonstrating that shifting stability attributions for academic difficulty improves subsequent performance. Directly relevant to Phase V's discussion of intervention design.",
+        "line_number": 655,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 82939,
+        "char_end": 83367
+      },
+      {
+        "type": "cite",
+        "title": "Forgas, J. P. (1995). Mood and judgment: The Affect Infusion Model (AIM). *Psychological Bulletin*, 117(1), 39–66.",
+        "body": "The Affect Infusion Model, documenting that mood states systematically influence causal attributions. The primary evidence base for the bidirectionality tension identified in Phase III.",
+        "line_number": 658,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 83368,
+        "char_end": 83685
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "**Traditions Synthesized:** Cognitive-motivational psychology (Weiner's attribution program), cognitive emotion theory (Lazarus's appraisal theory), clinical psychology (reformulated learned helplessness, Abramson et al.), implicit theories research (Dweck), and social cognition (Jones and Nisbett's actor-observer research).\n\n**Claim-Type Taxonomy:**\n\n| Claim Type | Epistemic Status | Basis |\n|-----------|-----------------|-------|\n| Three-dimensional taxonomy | Well-established | Weiner, 1979; extensive replication |\n| Emotion-attribution correspondences | Established, with cultural caveats | Weiner et al., 1978, 1979; Reisenzein, 1986 |\n| Stability-expectancy mechanism | Established | Abramson et al., 1978; Wilson & Linville, 1982; Dweck, 1975 |\n| Bidirectionality of attribution-emotion | Emerging evidence, contested | Forgas, 1995; mood-congruent attribution research |\n| Two-Stage Intervention Architecture | Original contribution — provisional | Derived from emotion-mediation mechanism; limited direct empirical testing |\n| Cross-domain structural analogues | Speculative-to-moderate | Structural argument; limited direct empirical support |\n\n**Established vs. Original:** The three-dimensional taxonomy, emotion-attribution correspondences, and stability-expectancy mechanism are well-established knowledge in motivational psychology. The Two-Stage Intervention Architecture (Phase VI), the framing of Attribution Theory as a moral cognition theory (Phase IV), and the FAR Transfer structural analogues (Phase VII) represent original analytical contributions by this analysis.\n\n**Limitations:** This analysis draws on research primarily conducted in Western, often university-based samples. The cultural generalizability of the emotion-attribution correspondences is a genuine limitation. The analysis does not address the extensive literature on attributional biases in clinical populations (depression, anxiety, externalizing disorders) in the depth those warrant. The intervention evidence reviewed is selective rather than systematic.\n\n**AI Generation Transparency:** This report was generated by Claude (Anthropic) using extended thinking architecture. All claims reflect the evidence base available through training data. Original analytical contributions are clearly marked using the Analytical Commentary System. Human verification is recommended for all empirical claims before citation in academic work.",
+        "line_number": 663,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 83721,
+        "char_end": 86255
+      },
+      {
+        "type": "diagram",
+        "title": "Core Argument Structure: The Emotion-Mediated Attribution Model",
+        "body": "```\n┌─────────────────────────────────────────────────────────┐\n│                     OUTCOME                             │\n│             (Success or Failure)                        │\n└──────────────────────┬──────────────────────────────────┘\n                       │\n                       ▼\n┌─────────────────────────────────────────────────────────┐\n│              CAUSAL ATTRIBUTION                         │\n│     (Ability / Effort / Luck / Task Difficulty)         │\n└──────────────────────┬──────────────────────────────────┘\n                       │\n         ┌─────────────┼─────────────┐\n         ▼             ▼             ▼\n     LOCUS         STABILITY    CONTROLLABILITY\n  (Int/Ext)       (Stbl/Unstbl)  (Ctrl/Unctrl)\n      │               │               │\n      ▼               ▼               ▼\n Pride/Shame   Hope/Hopelessness  Guilt/Anger/Pity\n      │               │               │\n      └───────────────┴───────────────┘\n                       │\n                       ▼\n             ┌─────────────────┐\n             │    EMOTION      │  ← Proximate cause\n             │  (Differentiated│    of motivation\n             │   affect)       │\n             └────────┬────────┘\n                       │\n                       ▼\n             ┌─────────────────┐\n             │   MOTIVATION    │\n             │ (Expectancy &   │\n             │  Instrumentality│\n             │  of effort)     │\n             └────────┬────────┘\n                       │\n                       ▼\n             ┌─────────────────┐\n             │    BEHAVIOR     │\n             │ (Persistence,   │\n             │  Effort, Help   │\n             │  seeking)       │\n             └─────────────────┘\n        ↑ FEEDBACK LOOP (Stability-Expectancy Lock) ↑\n```\n**Reading Guide:** The diagram shows the full causal chain from outcome to behavior, with the three attribution dimensions generating distinct emotions that then mediate the motivation-behavior link. The upward feedback arrow represents the Stability-Expectancy Lock: behavior outcomes feed back to reinforce the original attribution when the attribution is for a stable cause and when expectancy deficits have reduced effort investment.",
+        "line_number": 686,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 86277,
+        "char_end": 88638
+      },
+      {
+        "type": "protocol",
+        "title": "Two-Stage Attribution Retraining Protocol (Derived from Phase VI Synthesis)",
+        "body": "**Context:** Use with individuals or groups showing established helpless response patterns — persistent attributions for failure to stable, uncontrollable causes (low ability, fixed personality traits), with associated expectancy deficits and reduced persistence.\n\n**Stage 1 — Cognitive Reattribution:**\n1. Introduce the stability dimension explicitly — explain the distinction between stable and unstable causes, using examples from the person's own domain\n2. Map the person's current attribution profile onto the dimensional model — make explicit which dimension is problematic\n3. Present alternative unstable attributions for recent failure experiences (insufficient specific strategy, insufficient targeted effort, task unfamiliarity)\n4. Review evidence that supports the unstable interpretation — prior successes in similar tasks, the role of practice and strategy in performance improvement\n\n**Stage 2 — Affective Reorganization:**\n1. Identify the emotional consequence of the current stable attribution (hopelessness, shame, resignation)\n2. Generate a prediction: if the unstable attribution is accurate, what emotion should follow? (Hope, guilt as motivation, interest in strategy)\n3. Design and execute a behavioral experiment — a challenging task with high probability of success under sufficient effort and appropriate strategy\n4. Process the emotional experience during and after the task — explicitly connect the affective experience to the attribution reframe\n5. Repeat with incrementally increasing challenge\n\n**Success Criteria:** The intervention is working when the person (a) spontaneously generates unstable attributions for failures without prompting, (b) reports emotional responses consistent with guilt rather than shame after controllable failures, and (c) shows increased persistence under failure conditions.\n\n**Common Pitfalls:** (1) Stopping at Stage 1 — cognitive change without affective reorganization is insufficient; (2) using success experiences that are too easy and don't require genuine effort (undermines the attribution mechanism by providing unearned disconfirmation); (3) failing to connect the behavioral experiment explicitly to the attribution reframe, so the success experience is emotionally processed as \"I got lucky\" rather than \"I succeeded because of unstable factors I can deploy again.\"",
+        "line_number": 737,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 88678,
+        "char_end": 91144
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 1",
+        "body": "**Q:** In Weiner's three-dimensional model, which dimension is the primary determinant of expectancy change after failure?\n**A:** Stability. Stable attributions for failure (e.g., ability) produce little expectancy change — the person expects future failures because the cause persists. Unstable attributions (e.g., insufficient effort) leave expectancies open to revision.\n**Source:** Phase II, Section 2.2\n**Difficulty:** Basic\n**Type:** Definition\n**Tags:** #attribution-theory #stability #expectancy",
+        "line_number": 759,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 91177,
+        "char_end": 91719
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 2",
+        "body": "**Q:** What is the emotion-mediation claim in Weiner's mature model, and why does it matter for intervention design?\n**A:** The claim is that the path from attribution to behavior runs through specific discrete emotions generated by dimensional classification — not directly from attribution to behavior. It matters because interventions that change cognitive attributions without producing corresponding affective change fail to propagate through to behavioral change.\n**Source:** Phase II, Section 2.3; Phase V, Section 5.1\n**Difficulty:** Intermediate\n**Type:** Process\n**Tags:** #attribution-theory #emotion-mediation #intervention-design",
+        "line_number": 767,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 91720,
+        "char_end": 92401
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 3",
+        "body": "**Q:** Why are effort attributions motivationally superior to ability attributions, in terms of all three dimensions of Weiner's model?\n**A:** Effort is unstable (generates hope, not hopelessness), controllable (generates guilt as motivation, not shame as paralysis), and internal (preserves the self-evaluation that makes future success meaningful). The motivational superiority is overdetermined — operating through three independent mechanisms simultaneously.\n**Source:** Phase VI, Section 6.3\n**Difficulty:** Intermediate\n**Type:** Connection\n**Tags:** #attribution-theory #effort #ability #dimensions",
+        "line_number": 775,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 92402,
+        "char_end": 93046
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 4",
+        "body": "**Q:** What is the Stability-Expectancy Lock, and what makes it \"self-sealing\"?\n**A:** The Stability-Expectancy Lock is the mechanism by which stable attributions for failure generate expectancy deficits, which reduce effort investment, which produces actual performance deficits, which appear to confirm the original stable attribution. It is self-sealing because the attribution generates behavioral evidence that supports itself.\n**Source:** Phase IV, Section 4.1\n**Difficulty:** Advanced\n**Type:** Process\n**Tags:** #attribution-theory #stability #self-fulfilling-prophecy",
+        "line_number": 783,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 93047,
+        "char_end": 93662
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 5",
+        "body": "**Q:** What distinguishes guilt from shame in Weiner's framework, and why does this distinction matter for intervention?\n**A:** Guilt is generated by controllable internal causal attributions (I failed because I didn't try hard enough — I could have). Shame is generated by uncontrollable internal attributions (I failed because I lack the ability — I couldn't have). Guilt is motivationally facilitative because the cause is changeable; shame is paralyzing because the cause is fixed. Effective interventions shift negative affect from shame to guilt.\n**Source:** Phase IV, Section 4.2\n**Difficulty:** Intermediate\n**Type:** Distinction\n**Tags:** #guilt #shame #controllability #attribution-theory",
+        "line_number": 791,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 93663,
+        "char_end": 94400
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 6",
+        "body": "**Q:** How does the controllability dimension function as a moral judgment mechanism in social attribution contexts?\n**A:** Perceived controllability of another person's negative condition automatically triggers moral evaluation — reduced sympathy and increased anger — because it generates a judgment that the person is responsible and therefore less deserving of help. The causal description and the moral judgment are produced in a single cognitive act.\n**Source:** Phase III, Section 3.1; Phase IV, Section 4.2\n**Difficulty:** Advanced\n**Type:** Application\n**Tags:** #controllability #moral-judgment #social-attribution #stigma",
+        "line_number": 799,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 94401,
+        "char_end": 95072
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 7",
+        "body": "**Q:** What is the structural correspondence between Weiner's attribution dimensions and Lazarus's appraisal theory, and what intervention implication does it suggest?\n**A:** Locus maps onto ego-involvement appraisal; stability maps onto coping potential appraisal; controllability maps onto agency appraisal. The correspondence suggests that targeting coping potential appraisals (Lazarus's construct) may be as effective as targeting stability attributions directly — an underexplored intervention direction.\n**Source:** Phase IV, Section 4.3\n**Difficulty:** Advanced\n**Type:** Connection\n**Tags:** #appraisal-theory #attribution-theory #intervention #coping-potential",
+        "line_number": 807,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 95073,
+        "char_end": 95782
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 8",
+        "body": "**Q:** What does the Two-Stage Intervention Architecture propose, and what is the theoretical rationale?\n**A:** Stage 1: cognitive reattribution (shifting stable to unstable causal explanations). Stage 2: affective reorganization (using behavioral experiments to generate visceral confirmation of the new attribution's emotional implications). The rationale: if emotion mediates the attribution-behavior link, cognitive change without affective change fails to propagate through to behavior.\n**Source:** Phase VI, Section 6.2\n**Difficulty:** Advanced\n**Type:** Application\n**Tags:** #attribution-retraining #intervention-design #emotion-mediation",
+        "line_number": 815,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 95783,
+        "char_end": 96468
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Practice",
+        "body": "> [!topic-idea] [[Attribution-Retraining-Interventions]]\n> This expansion applies the theoretical architecture developed in this report to specific empirically-studied attribution retraining programs — Wilson and Linville's academic persistence interventions, Dweck's mindset programs, and clinical applications in depression treatment. The specific question: what components of existing programs address affective reorganization, and which rely solely on cognitive reattribution? This is the natural practitioner follow-up to the theoretical analysis.\n>\n> **Connection to This Report:** Directly applies the Two-Stage Intervention Architecture and the Stability-Expectancy Lock analysis to program evaluation.\n> **Priority:** Critical\n> **Suggested Report Type:** Foundational Report (to survey the landscape) followed by Focused Analysis (on program components)\n> **Prerequisites:** [[Attribution-Theory]], [[Growth-Mindset-Theory]], [[Helpless-Response-Pattern]]\n\n> [!topic-idea] [[Appraisal-Theory]]\n> Lazarus's appraisal theory is the broader theoretical framework within which Weiner's attribution model can be situated. A focused analysis would examine the full appraisal-to-coping sequence (primary appraisal → secondary appraisal → coping) and map it onto the attribution intervention sequence. The specific question: can coping potential appraisals (Lazarus) be targeted independently of causal attributions (Weiner) to produce motivational change?\n>\n> **Connection to This Report:** The structural correspondence identified in Phase IV.3 makes this a high-value expansion for understanding the theoretical architecture.\n> **Priority:** High\n> **Suggested Report Type:** Focused Analysis\n> **Prerequisites:** [[Attribution-Theory]], [[Motivational-Psychology]]\n\n> [!topic-idea] [[Belonging-Uncertainty]]\n> This expansion examines how stability attributions operate in the social domain — specifically, how belonging uncertainty generates stable attributions for ambiguous social feedback that produce the same Stability-Expectancy Lock dynamics in social rather than achievement contexts. The connection to attribution theory is underexplored in the belonging uncertainty literature. *This is the transfer-oriented expansion: applying the Stability-Expectancy Lock mechanism to a new domain (social belonging) to generate novel predictions.*\n>\n> **Connection to This Report:** FAR Transfer Principle 1 — the Stability-Expectancy Lock — applied to social attribution contexts.\n> **Priority:** High\n> **Suggested Report Type:** Focused Analysis\n> **Prerequisites:** [[Attribution-Theory]], [[Belonging-Uncertainty]]\n\n> [!topic-idea] [[Growth-Mindset-Theory]]\n> The Growth Mindset literature is the most extensively studied applied application of attribution stability, but it typically operates without explicit reference to Weiner's emotion-mediation mechanism. A focused analysis would examine what the emotion-mediation framework predicts about mindset intervention mechanisms — specifically, does mindset intervention work by changing cognitive attribution stability, or by changing the emotion generated by stable attributions, or both?\n>\n> **Connection to This Report:** Growth mindset is the operationalization of Weiner's stability dimension as an individual difference; Phase IV provides the mechanistic foundation for evaluating mindset intervention claims.\n> **Priority:** High\n> **Suggested Report Type:** Dialectical Re-Examination\n> **Prerequisites:** [[Attribution-Theory]], [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "line_number": 825,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 96506,
+        "char_end": 100181
+      },
+      {
+        "type": "quality-assessment",
+        "title": "Report Quality Metrics",
+        "body": "| Dimension | Score | Evidence | Notes |\n|-----------|-------|----------|-------|\n| **Depth of Coverage** | 8.5/10 | ~9,200 words; four depth layers on core concepts | The controllability-moral inference mechanism could receive additional empirical depth |\n| **Structural Completeness** | 9/10 | 28 callouts; 38 wiki-links; 9 phases complete | Section-end summaries present for all phases |\n| **Complexity Appropriateness** | 9/10 | Graduate-level vocabulary; assumes motivational psychology familiarity | Appropriate for stated reader model |\n| **Coverage Completeness** | 7.5/10 | Core mechanism thoroughly analyzed; cultural variation section relatively thin | Actor-observer bias and self-serving bias receive less attention than warranted |\n| **Accuracy & Evidence** | 8.5/10 | Key studies cited with appropriate epistemic status labeling | Some citations are from training knowledge rather than real-time verification — human check recommended |\n| **Knowledge Graph Contribution** | 9/10 | 38 wiki-links; substantive PKB connections across 8 nodes | Cross-report links appropriately developed |\n| **Practical Utility** | 8.5/10 | Two-stage protocol, 8 spaced repetition seeds, 4 expansion topics | Protocol could benefit from session-by-session operationalization |\n| **Originality** | 8/10 | Two-Stage Intervention Architecture; moral cognition framing; Attribution-Appraisal correspondence articulation | Original contributions clearly marked |\n|||||\n| **Composite Score** | **8.6/10** | | **PASS** |\n\n**Identified Limitations:**\n- Cross-cultural evidence reviewed selectively; the cultural variability of emotion-attribution correspondences deserves a dedicated section\n- The actor-observer bias and its interaction with the three-dimensional model receives insufficient treatment given its practical importance in classroom and coaching contexts\n- The intervention evidence review is selective rather than systematic; a systematic evidence base would require a dedicated focused analysis on [[Attribution-Retraining-Interventions]]\n\n**Recommendations for Future Revision:**\n- Add a dedicated cultural variability subsection in Phase III with specific cross-cultural studies\n- Expand Phase IV treatment of the actor-observer bias to include its implications for teacher attribution patterns in educational contexts\n- Develop the coping potential appraisal intervention direction with reference to Folkman and Lazarus's coping research",
+        "line_number": 861,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md",
+        "char_start": 100221,
+        "char_end": 102760
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 160,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "This framing, though not wrong, substantially understates what [[Attribution-Theory]] actually claims and what makes it powerful. The standard account leaves out the theory's most important architectural feature: the emotion-mediated causal chain that converts causal cognition into motivational consequence. [[Bernard-Weiner]]'s mature model, developed across three decades from the 1970s through the 1990s, is not simply a theory about what people believe caused their outcomes. It is a theory about how specific causal beliefs generate specific emotional responses, which then — and only then — drive behavior. Remove the emotional mediation layer and the theory's predictive power collapses to the level of common sense. Restore it, and the theory reveals mechanisms invisible to cognitive-only accounts.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Bernard-Weiner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bernard-Weiner]]",
+        "line_number": 160,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "This framing, though not wrong, substantially understates what [[Attribution-Theory]] actually claims and what makes it powerful. The standard account leaves out the theory's most important architectural feature: the emotion-mediated causal chain that converts causal cognition into motivational consequence. [[Bernard-Weiner]]'s mature model, developed across three decades from the 1970s through the 1990s, is not simply a theory about what people believe caused their outcomes. It is a theory about how specific causal beliefs generate specific emotional responses, which then — and only then — drive behavior. Remove the emotional mediation layer and the theory's predictive power collapses to the level of common sense. Restore it, and the theory reveals mechanisms invisible to cognitive-only accounts.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Retraining-Interventions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining-Interventions]]",
+        "line_number": 168,
+        "section": "Phase I: Orientation & Analytical Focus",
+        "context_line": "**Scope and Boundaries**: This analysis focuses on Weiner's achievement-context formulation of attribution theory, with particular attention to the emotion-mediation mechanism and the self-sealing dynamics of the stability dimension. It does not provide a comprehensive survey of all attribution theories (Heider's naive psychology, Kelley's covariation model, Jones and Davis's correspondent inference theory), though it situates Weiner's contribution within that lineage. The treatment of [[Attribution-Retraining-Interventions]] is analytical rather than programmatic — this report is not a practitioner guide to attribution retraining, but an analytical examination of what the theoretical architecture implies about intervention design.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 181,
+        "section": "2.1 The Intellectual Lineage: From Heider to Weiner",
+        "context_line": "[[Attribution-Theory]] as a formal research program begins with Fritz Heider's *The Psychology of Interpersonal Relations* (1958), which introduced the fundamental distinction between internal and external causation — between attributing outcomes to the person versus attributing them to the environment. Heider's contribution was primarily conceptual: the observation that people function as \"naive scientists,\" spontaneously constructing causal explanations for social events, and that these explanations have systematic properties that can be studied.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Causal-Induction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Causal-Induction]]",
+        "line_number": 192,
+        "section": "2.1 The Intellectual Lineage: From Heider to Weiner",
+        "context_line": "> **Cross-References:** [[Causal-Induction]], [[Perceived-Locus-of-Causality]], [[Actor-Observer-Bias]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Perceived-Locus-of-Causality",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Perceived-Locus-of-Causality]]",
+        "line_number": 192,
+        "section": "2.1 The Intellectual Lineage: From Heider to Weiner",
+        "context_line": "> **Cross-References:** [[Causal-Induction]], [[Perceived-Locus-of-Causality]], [[Actor-Observer-Bias]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Actor-Observer-Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Actor-Observer-Bias]]",
+        "line_number": 192,
+        "section": "2.1 The Intellectual Lineage: From Heider to Weiner",
+        "context_line": "> **Cross-References:** [[Causal-Induction]], [[Perceived-Locus-of-Causality]], [[Actor-Observer-Bias]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Bernard-Weiner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bernard-Weiner]]",
+        "line_number": 194,
+        "section": "2.1 The Intellectual Lineage: From Heider to Weiner",
+        "context_line": "[[Bernard-Weiner]]'s distinctive contribution was to move from social perception (how do we explain *others'* behavior?) to achievement motivation (how do our explanations for *our own* outcomes shape our subsequent behavior?), and to argue that the internal/external distinction was insufficient — that two additional dimensions were required to explain the full pattern of motivational consequences.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Perceived-Locus-of-Causality",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Perceived-Locus-of-Causality]]",
+        "line_number": 201,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Definition:** The location of a cause as internal to the person (ability, effort, mood, strategy) or external to the person (task difficulty, luck, other people's actions). This dimension is closely related to but distinct from [[Perceived-Locus-of-Causality]] in SDT — the SDT construct refers to whether the *regulation of behavior* feels internally initiated, whereas Weiner's locus refers to the *location of the cause* of an outcome.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 207,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Attribution-Theory]], [[Perceived-Locus-of-Causality]], [[Self-Determination-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Perceived-Locus-of-Causality",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Perceived-Locus-of-Causality]]",
+        "line_number": 207,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Attribution-Theory]], [[Perceived-Locus-of-Causality]], [[Self-Determination-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 207,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Attribution-Theory]], [[Perceived-Locus-of-Causality]], [[Self-Determination-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Implicit-Theory-of-Intelligence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit-Theory-of-Intelligence]]",
+        "line_number": 216,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Incremental-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Incremental-Theory-of-Intelligence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Incremental-Theory-of-Intelligence]]",
+        "line_number": 216,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Incremental-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 216,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Incremental-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Autonomous-Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomous-Motivation]]",
+        "line_number": 225,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Autonomous-Motivation]], [[Achievement-Goal-Theory]], [[Appraisal-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 225,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Autonomous-Motivation]], [[Achievement-Goal-Theory]], [[Appraisal-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Appraisal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Appraisal-Theory]]",
+        "line_number": 225,
+        "section": "2.2 The Three Dimensions",
+        "context_line": "> **Cross-References:** [[Autonomous-Motivation]], [[Achievement-Goal-Theory]], [[Appraisal-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Appraisal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Appraisal-Theory]]",
+        "line_number": 236,
+        "section": "2.3 The Emotion-Mediation Framework",
+        "context_line": "This emotion-mediation structure is what distinguishes Weiner's mature model from simple belief-behavior theories and puts it in close conversation with [[Appraisal-Theory]] (Lazarus, 1966, 1991), which independently developed the claim that cognitive appraisals generate differentiated emotional responses.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Style",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Style]]",
+        "line_number": 265,
+        "section": "3.1 The Emotion-Attribution Correspondence: What the Evidence Shows",
+        "context_line": "> Across the attribution literature, the stability-expectancy-hopelessness pathway shows the most consistent empirical support. Studies using both experimental manipulations (feedback framed as indicating stable versus unstable ability differences) and correlational designs (measuring [[Attribution-Style]] across individuals) reliably find that stable attributions for negative outcomes predict reduced persistence, lower subsequent effort investment, and affective states consistent with helplessness. The locus and controllability emotion-assignments, while supported, are more susceptible to cultural and individual moderators.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 281,
+        "section": "3.2 The Anger-Pity Asymmetry in Social Attribution",
+        "context_line": "This finding is analytically important because it reveals that [[Attribution-Theory]] is not only a descriptive theory of motivation but also — and this is frequently underappreciated — a theory of *moral cognition*. The controllability dimension functions as a moral judgment mechanism: perceived controllability of another's negative state triggers a judgment that the person is *responsible* and therefore *less deserving* of sympathy or assistance. This is not a peripheral application of the theory; it is central to how attribution shapes social behavior.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Actor-Observer-Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Actor-Observer-Bias]]",
+        "line_number": 288,
+        "section": "3.3 The Self-Serving Bias and Attribution Style",
+        "context_line": "A systematic pattern in the attribution literature complicates the emotion-mediation model: people do not make attributions randomly. The [[Actor-Observer-Bias]] (Jones & Nisbett, 1971) documents the reliable tendency to attribute one's own behavior to situational factors and others' behavior to dispositional factors. The self-serving attributional bias documents the parallel tendency to attribute successes to internal factors (ability, effort) and failures to external factors (bad luck, task difficulty).",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Style",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Style]]",
+        "line_number": 290,
+        "section": "3.3 The Self-Serving Bias and Attribution Style",
+        "context_line": "[[Attribution-Style]] — the habitual pattern of causal attribution across situations — was formalized by Abramson, Seligman, and Teasdale (1978) in the context of depression research. Their \"explanatory style\" construct identified three dimensions — internal/external, stable/unstable, global/specific — and demonstrated that a depressive explanatory style (internal, stable, global attributions for negative events) predicted vulnerability to depression and learned helplessness. This work constitutes perhaps the most clinically significant application of Weiner's dimensional framework.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Helpless-Response-Pattern",
+        "heading": null,
+        "display_text": "helpless response patterns",
+        "full_match": "[[Helpless-Response-Pattern|helpless response patterns]]",
+        "line_number": 321,
+        "section": "4.1 The Stability-Expectancy Lock: A Self-Sealing Architecture",
+        "context_line": "This architecture explains why [[Helpless-Response-Pattern|helpless response patterns]] are so resistant to simple informational correction. Telling a student \"You can improve if you try harder\" challenges the stable attribution, but if the student's reduced effort has already produced a performance record consistent with the ability attribution, the informational intervention must overcome not just the belief but the behavioral evidence that has accumulated in support of it.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 323,
+        "section": "4.1 The Stability-Expectancy Lock: A Self-Sealing Architecture",
+        "context_line": "The connection to [[Growth-Mindset-Theory]] is direct. Dweck's distinction between entity theory (intelligence is fixed) and incremental theory (intelligence is malleable) maps precisely onto the stability dimension of Weiner's model: entity theorists make stable attributions for their intellectual performance, while incremental theorists make unstable attributions. The motivational divergence that Dweck's research documents — entity theorists avoiding challenge, incremental theorists seeking it — follows directly from Weiner's stability-expectancy mechanism. [[Carol-Dweck]]'s contribution was not to identify a new mechanism but to operationalize the stability dimension as an individual difference variable and demonstrate its developmental trajectory.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Carol-Dweck",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Carol-Dweck]]",
+        "line_number": 323,
+        "section": "4.1 The Stability-Expectancy Lock: A Self-Sealing Architecture",
+        "context_line": "The connection to [[Growth-Mindset-Theory]] is direct. Dweck's distinction between entity theory (intelligence is fixed) and incremental theory (intelligence is malleable) maps precisely onto the stability dimension of Weiner's model: entity theorists make stable attributions for their intellectual performance, while incremental theorists make unstable attributions. The motivational divergence that Dweck's research documents — entity theorists avoiding challenge, incremental theorists seeking it — follows directly from Weiner's stability-expectancy mechanism. [[Carol-Dweck]]'s contribution was not to identify a new mechanism but to operationalize the stability dimension as an individual difference variable and demonstrate its developmental trajectory.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Appraisal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Appraisal-Theory]]",
+        "line_number": 348,
+        "section": "4.3 The Appraisal Theory Interface",
+        "context_line": "A genuinely illuminating structural connection exists between Weiner's emotion-attribution architecture and [[Appraisal-Theory]] as developed by [[Richard-Lazarus|Lazarus]] (1966, 1991). Both frameworks claim that:",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Richard-Lazarus",
+        "heading": null,
+        "display_text": "Lazarus",
+        "full_match": "[[Richard-Lazarus|Lazarus]]",
+        "line_number": 348,
+        "section": "4.3 The Appraisal Theory Interface",
+        "context_line": "A genuinely illuminating structural connection exists between Weiner's emotion-attribution architecture and [[Appraisal-Theory]] as developed by [[Richard-Lazarus|Lazarus]] (1966, 1991). Both frameworks claim that:",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Wilson and Linville",
+        "heading": null,
+        "display_text": "Wilson and Linville",
+        "full_match": "[[Wilson and Linville|Wilson and Linville]]",
+        "line_number": 380,
+        "section": "5.1 Implications for Intervention Design",
+        "context_line": "**Implication 1: Cognitive Attribution Change Is Necessary But Not Sufficient**. If the causal chain runs attribution → emotion → motivation → behavior, then successfully shifting the cognitive attribution (e.g., convincing a student that their failure was due to insufficient effort rather than low ability) is necessary but not sufficient for behavioral change. The emotion generated by the new attribution must also shift. Research by [[Wilson and Linville|Wilson and Linville]] (1982, 1985) demonstrated that attributional interventions that produced cognitive change but not affective change showed weak and short-lived behavioral effects. Effective interventions must produce both cognitive and affective reorganization.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Retraining-Interventions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining-Interventions]]",
+        "line_number": 383,
+        "section": "5.1 Implications for Intervention Design",
+        "context_line": "> When designing [[Attribution-Retraining-Interventions]], build in explicit mechanisms for affective reorganization, not just cognitive reattribution. This might include: (1) having participants describe emotional responses to new attributional framings (to make the affective component explicit), (2) behavioral experiments that generate success experiences under the new attribution (providing affective confirmation of the new framework), and (3) explicit discussion of the emotion-attribution correspondence so participants understand why the intervention targets emotions as much as beliefs.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Retraining",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining]]",
+        "line_number": 385,
+        "section": "5.1 Implications for Intervention Design",
+        "context_line": "**Implication 2: The Target Dimension Matters**. Not all attribution changes are equivalent. Shifting attributions from external to internal (locus change) produces pride/shame differentiation but does not address expectancy or persistence. Shifting from stable to unstable (stability change) directly addresses the expectancy deficit and hopelessness that drive reduced persistence — this is the mechanism that [[Attribution-Retraining]] programs most often target, and the evidence supports this targeting. Shifting controllability attributions affects guilt/anger but has more complex effects on persistence, depending on the direction of the shift.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Helpless-Response-Pattern",
+        "heading": null,
+        "display_text": "helpless response patterns",
+        "full_match": "[[Helpless-Response-Pattern|helpless response patterns]]",
+        "line_number": 387,
+        "section": "5.1 Implications for Intervention Design",
+        "context_line": "**Implication 3: The Self-Sealing Architecture Requires Behavioral Disconfirmation**. Because the Stability-Expectancy Lock generates behavioral evidence confirming the stable attribution, purely verbal or cognitive interventions are insufficient. Effective attribution retraining for established [[Helpless-Response-Pattern|helpless response patterns]] must include behavioral components that disrupt the confirmation loop — specifically, experiences of success under conditions of sufficient effort that provide behavioral evidence for the unstable attribution. This is why Dweck's mindset interventions combine cognitive reframing with the provision of challenging tasks that students can succeed at with sufficient effort.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 399,
+        "section": "5.2 Limitations of the Framework",
+        "context_line": "The theory also has limited scope with respect to the goals and values that give outcomes their significance. Attribution Theory assumes that outcomes are relevant to the person — that success and failure matter — without providing a theory of *why* they matter and *which* outcomes are consequential. This is where [[Achievement-Goal-Theory]] provides a necessary supplement: performance goals (mastery and performance-approach/avoidance) determine what counts as success and failure, and thus which events trigger the attribution process at all. Attribution Theory and Achievement Goal Theory are better read as complementary frameworks than as competing alternatives.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 417,
+        "section": "6.1 Pulling the Threads Together",
+        "context_line": "The analysis across four phases converges on a picture of [[Attribution-Theory]] that is significantly more architecturally complex than the standard \"effort attributions good, ability attributions bad\" account. The emotion-mediation mechanism reveals that the three dimensions function as an *affect generation system* that translates causal cognitions into motivationally differentiated emotional states. Of the three dimensions, stability is the most powerful driver of the most significant motivational outcome (persistence after failure), and it operates through a self-sealing behavioral feedback architecture that makes it uniquely resistant to simple informational correction.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 419,
+        "section": "6.1 Pulling the Threads Together",
+        "context_line": "The analysis also reveals that [[Attribution-Theory]] does a great deal of implicit moral work through the controllability dimension — attributional cognitions are not purely descriptive acts but are simultaneously evaluative ones, generating moral appraisals about responsibility and deservingness that organize social behavior. This moral-cognitive fusion is not a peripheral feature but an architectural property of the system.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 512,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Growth-Mindset-Theory]]** — Dweck's entity/incremental theory distinction is a direct operationalization of Weiner's stability dimension as an individual difference variable. The motivational divergence between entity and incremental theorists (challenge avoidance vs. challenge seeking) follows precisely from the stability-expectancy mechanism analyzed in Phase IV. This analysis provides the mechanistic foundation that Growth Mindset research often asserts but rarely specifies.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Helpless-Response-Pattern",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Helpless-Response-Pattern]]",
+        "line_number": 514,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Helpless-Response-Pattern]]** — The helpless response pattern (Dweck & Reppucci, 1973; Seligman, 1975) is the behavioral signature of the Stability-Expectancy Lock operating over time. This report provides the mechanistic account that explains *why* helpless patterns are self-perpetuating and *what* specifically must change in the causal architecture to disrupt them.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Self-Determination-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination-Theory]]",
+        "line_number": 516,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Determination-Theory]]** — SDT's construct of [[Perceived-Locus-of-Causality]] is structurally related to but distinct from Weiner's locus dimension. Where Weiner's locus concerns the location of the *cause of an outcome*, SDT's PLOC concerns the location of the *initiation of behavior* — a complementary rather than overlapping construct. The two theories are better read as addressing different phases of the motivational sequence: Attribution Theory addresses the post-outcome appraisal phase; SDT addresses the pre-action regulatory phase.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Perceived-Locus-of-Causality",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Perceived-Locus-of-Causality]]",
+        "line_number": 516,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Determination-Theory]]** — SDT's construct of [[Perceived-Locus-of-Causality]] is structurally related to but distinct from Weiner's locus dimension. Where Weiner's locus concerns the location of the *cause of an outcome*, SDT's PLOC concerns the location of the *initiation of behavior* — a complementary rather than overlapping construct. The two theories are better read as addressing different phases of the motivational sequence: Attribution Theory addresses the post-outcome appraisal phase; SDT addresses the pre-action regulatory phase.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Appraisal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Appraisal-Theory]]",
+        "line_number": 518,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Appraisal-Theory]]** — The analysis identified structural isomorphism between Weiner's attribution dimensions and Lazarus's appraisal dimensions. Both are cognitive emotion theories that claim systematic mappings from cognitive evaluation to discrete emotion. The correspondence illuminates both theories and suggests that the under-explored Lazarus construct of coping potential appraisal may be the mechanism through which stability attributions generate expectancy effects.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 520,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Achievement-Goal-Theory]]** — Attribution Theory is silent on what determines which outcomes are motivationally significant (what counts as success or failure). Achievement Goal Theory provides the necessary supplement: mastery and performance goals determine the valuation function, and Attribution Theory then specifies the emotional and motivational consequences of outcomes within that goal framework. The two theories are architecturally complementary.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Actor-Observer-Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Actor-Observer-Bias]]",
+        "line_number": 522,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Actor-Observer-Bias]]** — This documented attributional asymmetry (attributing one's own behavior to situational factors, others' behavior to dispositional factors) systematically interacts with Weiner's three dimensions in social achievement contexts and is a necessary consideration for any analysis of how attributional processes function in classroom or interpersonal settings.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Belonging-Uncertainty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Belonging-Uncertainty]]",
+        "line_number": 524,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Belonging-Uncertainty]]** — Belonging uncertainty operates partly through attribution: students who are uncertain about their belonging attribute ambiguous interpersonal feedback to stable dispositional factors (they don't like me/think I belong here) rather than to situational factors. This is an application of the stability dimension and the Stability-Expectancy Lock specifically to social rather than achievement attributions.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Metacognitive-Scaffolding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive-Scaffolding]]",
+        "line_number": 526,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognitive-Scaffolding]]** — Attribution interventions are a form of metacognitive scaffolding — they provide learners with an explicit causal model for interpreting their performance that substitutes for or supplements the learner's spontaneous causal cognition. The two-stage intervention architecture proposed in Phase VI is a metacognitive scaffolding design.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivation-Theory-Foundational-Report",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivation-Theory-Foundational-Report]]",
+        "line_number": 530,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Motivation-Theory-Foundational-Report]]** — This focused analysis extends the foundational treatment of motivational theories by drilling specifically into the emotion-mediation mechanism that the foundational report surveys at the landscape level.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr]]",
+        "line_number": 532,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr]]** — The expansion topic identified in the PKB for Attribution Retraining Interventions is the natural successor document to this analysis — applying the theoretical architecture developed here to specific intervention programs and their evidence base.",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 549,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Attribution-Theory]], [[Bernard-Weiner]], [[Causal-Induction]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Bernard-Weiner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bernard-Weiner]]",
+        "line_number": 549,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Attribution-Theory]], [[Bernard-Weiner]], [[Causal-Induction]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Causal-Induction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Causal-Induction]]",
+        "line_number": 549,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Attribution-Theory]], [[Bernard-Weiner]], [[Causal-Induction]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Style",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Style]]",
+        "line_number": 558,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Attribution-Style]], [[Helpless-Response-Pattern]], [[Growth-Mindset]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Helpless-Response-Pattern",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Helpless-Response-Pattern]]",
+        "line_number": 558,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Attribution-Style]], [[Helpless-Response-Pattern]], [[Growth-Mindset]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset]]",
+        "line_number": 558,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Attribution-Style]], [[Helpless-Response-Pattern]], [[Growth-Mindset]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Implicit-Theory-of-Intelligence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit-Theory-of-Intelligence]]",
+        "line_number": 567,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]], [[Achievement-Goal-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 567,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]], [[Achievement-Goal-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Achievement-Goal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Achievement-Goal-Theory]]",
+        "line_number": 567,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]], [[Achievement-Goal-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Appraisal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Appraisal-Theory]]",
+        "line_number": 576,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Appraisal-Theory]], [[Motivational-Psychology]], [[Attribution-Retraining]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivational-Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivational-Psychology]]",
+        "line_number": 576,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Appraisal-Theory]], [[Motivational-Psychology]], [[Attribution-Retraining]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Retraining",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining]]",
+        "line_number": 576,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Appraisal-Theory]], [[Motivational-Psychology]], [[Attribution-Retraining]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Actor-Observer-Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Actor-Observer-Bias]]",
+        "line_number": 585,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Actor-Observer-Bias]], [[Belonging-Uncertainty]], [[Attribution-Style]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Belonging-Uncertainty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Belonging-Uncertainty]]",
+        "line_number": 585,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Actor-Observer-Bias]], [[Belonging-Uncertainty]], [[Attribution-Style]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Style",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Style]]",
+        "line_number": 585,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Actor-Observer-Bias]], [[Belonging-Uncertainty]], [[Attribution-Style]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Retraining-Interventions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining-Interventions]]",
+        "line_number": 827,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Attribution-Retraining-Interventions]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 833,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Growth-Mindset-Theory]], [[Helpless-Response-Pattern]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 833,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Growth-Mindset-Theory]], [[Helpless-Response-Pattern]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Helpless-Response-Pattern",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Helpless-Response-Pattern]]",
+        "line_number": 833,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Growth-Mindset-Theory]], [[Helpless-Response-Pattern]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Appraisal-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Appraisal-Theory]]",
+        "line_number": 835,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Appraisal-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 841,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Motivational-Psychology]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Motivational-Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivational-Psychology]]",
+        "line_number": 841,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Motivational-Psychology]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Belonging-Uncertainty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Belonging-Uncertainty]]",
+        "line_number": 843,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Belonging-Uncertainty]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 849,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Belonging-Uncertainty]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Belonging-Uncertainty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Belonging-Uncertainty]]",
+        "line_number": 849,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Belonging-Uncertainty]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 851,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Growth-Mindset-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Theory]]",
+        "line_number": 857,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Implicit-Theory-of-Intelligence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit-Theory-of-Intelligence]]",
+        "line_number": 857,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Growth-Mindset-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth-Mindset-Theory]]",
+        "line_number": 857,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Attribution-Theory]], [[Implicit-Theory-of-Intelligence]], [[Growth-Mindset-Theory]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "target": "Attribution-Retraining-Interventions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attribution-Retraining-Interventions]]",
+        "line_number": 879,
+        "section": "K. Report Quality Self-Assessment",
+        "context_line": "> - The intervention evidence review is selective rather than systematic; a systematic evidence base would require a dedicated focused analysis on [[Attribution-Retraining-Interventions]]",
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "attribution-theory",
+        "full_tag": "#attribution-theory",
+        "hierarchy": [
+          "attribution-theory"
+        ],
+        "line_number": 748,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "stability",
+        "full_tag": "#stability",
+        "hierarchy": [
+          "stability"
+        ],
+        "line_number": 748,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "expectancy",
+        "full_tag": "#expectancy",
+        "hierarchy": [
+          "expectancy"
+        ],
+        "line_number": 748,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "attribution-theory",
+        "full_tag": "#attribution-theory",
+        "hierarchy": [
+          "attribution-theory"
+        ],
+        "line_number": 753,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "emotion-mediation",
+        "full_tag": "#emotion-mediation",
+        "hierarchy": [
+          "emotion-mediation"
+        ],
+        "line_number": 753,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "intervention-design",
+        "full_tag": "#intervention-design",
+        "hierarchy": [
+          "intervention-design"
+        ],
+        "line_number": 753,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "attribution-theory",
+        "full_tag": "#attribution-theory",
+        "hierarchy": [
+          "attribution-theory"
+        ],
+        "line_number": 757,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "effort",
+        "full_tag": "#effort",
+        "hierarchy": [
+          "effort"
+        ],
+        "line_number": 759,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "ability",
+        "full_tag": "#ability",
+        "hierarchy": [
+          "ability"
+        ],
+        "line_number": 759,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "dimensions",
+        "full_tag": "#dimensions",
+        "hierarchy": [
+          "dimensions"
+        ],
+        "line_number": 759,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "attribution-theory",
+        "full_tag": "#attribution-theory",
+        "hierarchy": [
+          "attribution-theory"
+        ],
+        "line_number": 768,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "stability",
+        "full_tag": "#stability",
+        "hierarchy": [
+          "stability"
+        ],
+        "line_number": 768,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "self-fulfilling-prophecy",
+        "full_tag": "#self-fulfilling-prophecy",
+        "hierarchy": [
+          "self-fulfilling-prophecy"
+        ],
+        "line_number": 768,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "guilt",
+        "full_tag": "#guilt",
+        "hierarchy": [
+          "guilt"
+        ],
+        "line_number": 776,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "shame",
+        "full_tag": "#shame",
+        "hierarchy": [
+          "shame"
+        ],
+        "line_number": 776,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "controllability",
+        "full_tag": "#controllability",
+        "hierarchy": [
+          "controllability"
+        ],
+        "line_number": 776,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "attribution-theory",
+        "full_tag": "#attribution-theory",
+        "hierarchy": [
+          "attribution-theory"
+        ],
+        "line_number": 776,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "controllability",
+        "full_tag": "#controllability",
+        "hierarchy": [
+          "controllability"
+        ],
+        "line_number": 785,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "moral-judgment",
+        "full_tag": "#moral-judgment",
+        "hierarchy": [
+          "moral-judgment"
+        ],
+        "line_number": 785,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "social-attribution",
+        "full_tag": "#social-attribution",
+        "hierarchy": [
+          "social-attribution"
+        ],
+        "line_number": 785,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "stigma",
+        "full_tag": "#stigma",
+        "hierarchy": [
+          "stigma"
+        ],
+        "line_number": 785,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "appraisal-theory",
+        "full_tag": "#appraisal-theory",
+        "hierarchy": [
+          "appraisal-theory"
+        ],
+        "line_number": 793,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "attribution-theory",
+        "full_tag": "#attribution-theory",
+        "hierarchy": [
+          "attribution-theory"
+        ],
+        "line_number": 793,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "intervention",
+        "full_tag": "#intervention",
+        "hierarchy": [
+          "intervention"
+        ],
+        "line_number": 793,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "coping-potential",
+        "full_tag": "#coping-potential",
+        "hierarchy": [
+          "coping-potential"
+        ],
+        "line_number": 793,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "attribution-retraining",
+        "full_tag": "#attribution-retraining",
+        "hierarchy": [
+          "attribution-retraining"
+        ],
+        "line_number": 801,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "intervention-design",
+        "full_tag": "#intervention-design",
+        "hierarchy": [
+          "intervention-design"
+        ],
+        "line_number": 801,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "tag": "emotion-mediation",
+        "full_tag": "#emotion-mediation",
+        "hierarchy": [
+          "emotion-mediation"
+        ],
+        "line_number": 801,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Attribution Theory: The Emotion-Mediated Causal Architecture of Achievement Motivation",
+        "anchor": "attribution-theory-the-emotion-mediated-causal-architecture-of-achievement-motivation",
+        "line_number": 147,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Analytical Focus",
+        "anchor": "phase-i-orientation-analytical-focus",
+        "line_number": 153,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — The Three-Dimensional Architecture",
+        "anchor": "phase-ii-analytical-framework-the-three-dimensional-architecture",
+        "line_number": 177,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "2.1 The Intellectual Lineage: From Heider to Weiner",
+        "anchor": "21-the-intellectual-lineage-from-heider-to-weiner",
+        "line_number": 179,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "2.2 The Three Dimensions",
+        "anchor": "22-the-three-dimensions",
+        "line_number": 196,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "2.3 The Emotion-Mediation Framework",
+        "anchor": "23-the-emotion-mediation-framework",
+        "line_number": 227,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 253,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "3.1 The Emotion-Attribution Correspondence: What the Evidence Shows",
+        "anchor": "31-the-emotion-attribution-correspondence-what-the-evidence-shows",
+        "line_number": 258,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "3.2 The Anger-Pity Asymmetry in Social Attribution",
+        "anchor": "32-the-anger-pity-asymmetry-in-social-attribution",
+        "line_number": 272,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "3.3 The Self-Serving Bias and Attribution Style",
+        "anchor": "33-the-self-serving-bias-and-attribution-style",
+        "line_number": 286,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+        "line_number": 307,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "4.1 The Stability-Expectancy Lock: A Self-Sealing Architecture",
+        "anchor": "41-the-stability-expectancy-lock-a-self-sealing-architecture",
+        "line_number": 312,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "4.2 The Controllability Dimension: Moral Cognition in Motivational Clothing",
+        "anchor": "42-the-controllability-dimension-moral-cognition-in-motivational-clothing",
+        "line_number": 328,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "4.3 The Appraisal Theory Interface",
+        "anchor": "43-the-appraisal-theory-interface",
+        "line_number": 346,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications, Applications & Limitations",
+        "anchor": "phase-v-implications-applications-limitations",
+        "line_number": 371,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "5.1 Implications for Intervention Design",
+        "anchor": "51-implications-for-intervention-design",
+        "line_number": 376,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "5.2 Limitations of the Framework",
+        "anchor": "52-limitations-of-the-framework",
+        "line_number": 389,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 413,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "6.1 Pulling the Threads Together",
+        "anchor": "61-pulling-the-threads-together",
+        "line_number": 415,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "6.2 An Original Synthesis: The Two-Stage Intervention Architecture",
+        "anchor": "62-an-original-synthesis-the-two-stage-intervention-architecture",
+        "line_number": 421,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "6.3 The Central Question Revisited",
+        "anchor": "63-the-central-question-revisited",
+        "line_number": 428,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+        "line_number": 447,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "7.1 Abstract Principle Extraction",
+        "anchor": "71-abstract-principle-extraction",
+        "line_number": 452,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "7.2 Structural Analogues",
+        "anchor": "72-structural-analogues",
+        "line_number": 466,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "7.3 Transfer Encoding",
+        "anchor": "73-transfer-encoding",
+        "line_number": 477,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-viii-pkb-connections-cross-report-links",
+        "line_number": 507,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IX: Appendix",
+        "anchor": "phase-ix-appendix",
+        "line_number": 538,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 540,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Key Figures & Intellectual Lineage",
+        "anchor": "b-key-figures-intellectual-lineage",
+        "line_number": 587,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Conceptual Tensions & Open Questions",
+        "anchor": "c-conceptual-tensions-open-questions",
+        "line_number": 616,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "D. References",
+        "anchor": "d-references",
+        "line_number": 632,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "E. Methodology & Sources Note",
+        "anchor": "e-methodology-sources-note",
+        "line_number": 661,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "F. Argument Map",
+        "anchor": "f-argument-map",
+        "line_number": 684,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "G. Practical Application Protocol",
+        "anchor": "g-practical-application-protocol",
+        "line_number": 735,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "H. Spaced Repetition Seeds",
+        "anchor": "h-spaced-repetition-seeds",
+        "line_number": 757,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "I. Expansion Topics for the PKB",
+        "anchor": "i-expansion-topics-for-the-pkb",
+        "line_number": 823,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      },
+      {
+        "level": 3,
+        "text": "K. Report Quality Self-Assessment",
+        "anchor": "k-report-quality-self-assessment",
+        "line_number": 859,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "> ┌─────────────────────────────────────────────────────────┐\n> │                     OUTCOME                             │\n> │             (Success or Failure)                        │\n> └──────────────────────┬──────────────────────────────────┘\n>                        │\n>                        ▼\n> ┌─────────────────────────────────────────────────────────┐\n> │              CAUSAL ATTRIBUTION                         │\n> │     (Ability / Effort / Luck / Task Difficulty)         │\n> └──────────────────────┬──────────────────────────────────┘\n>                        │\n>          ┌─────────────┼─────────────┐\n>          ▼             ▼             ▼\n>      LOCUS         STABILITY    CONTROLLABILITY\n>   (Int/Ext)       (Stbl/Unstbl)  (Ctrl/Unctrl)\n>       │               │               │\n>       ▼               ▼               ▼\n>  Pride/Shame   Hope/Hopelessness  Guilt/Anger/Pity\n>       │               │               │\n>       └───────────────┴───────────────┘\n>                        │\n>                        ▼\n>              ┌─────────────────┐\n>              │    EMOTION      │  ← Proximate cause\n>              │  (Differentiated│    of motivation\n>              │   affect)       │\n>              └────────┬────────┘\n>                        │\n>                        ▼\n>              ┌─────────────────┐\n>              │   MOTIVATION    │\n>              │ (Expectancy &   │\n>              │  Instrumentality│\n>              │  of effort)     │\n>              └────────┬────────┘\n>                        │\n>                        ▼\n>              ┌─────────────────┐\n>              │    BEHAVIOR     │\n>              │ (Persistence,   │\n>              │  Effort, Help   │\n>              │  seeking)       │\n>              └─────────────────┘\n>         ↑ FEEDBACK LOOP (Stability-Expectancy Lock) ↑\n>",
+        "line_start": 687,
+        "line_end": 732,
+        "char_count": 1829,
+        "line_count": 45,
+        "source": "attribution-theory-focused-analysis-2026-03-24.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Cognitive appraisals generate differentiated emotional responses",
+          "indent_level": 0,
+          "line_number": 349,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "The appraisal-to-emotion mapping is systematic and predictable",
+          "indent_level": 0,
+          "line_number": 351,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "Emotions function as information and motivational resources, not simply as epiphenomena",
+          "indent_level": 0,
+          "line_number": 352,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "*Trigger pattern*: Observe an entity reducing action in a domain while citing stable causal factors as explanation",
+          "indent_level": 0,
+          "line_number": 480,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "*Diagnostic question*: Is the entity's current low performance a consequence of reduced action (caused by the stable attribution) or evidence of genuinely stable limiting factors independent of action?",
+          "indent_level": 0,
+          "line_number": 481,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "*Transferable prediction*: Behavioral experiments that force action investment — regardless of expectancy — will produce disconfirming evidence if the stability attribution is false, and will not if it is true. This is the intervention and the diagnostic simultaneously.",
+          "indent_level": 0,
+          "line_number": 482,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "*Trigger pattern*: An intervention that successfully changes stated beliefs or cognitive representations without producing corresponding behavioral change",
+          "indent_level": 0,
+          "line_number": 485,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "*Diagnostic question*: Did the cognitive change generate a corresponding change in the affective state that mediates the cognition-behavior link?",
+          "indent_level": 0,
+          "line_number": 486,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        },
+        {
+          "text": "*Transferable prediction*: Adding an affective reorganization component — structured experiences that generate visceral confirmation of the new cognitive framework — will improve behavioral uptake of cognitive interventions",
+          "indent_level": 0,
+          "line_number": 487,
+          "source": "attribution-theory-focused-analysis-2026-03-24.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Achievement-Goal-Theory",
+      "Actor-Observer-Bias",
+      "Appraisal-Theory",
+      "Attribution-Retraining",
+      "Attribution-Retraining-Interventions",
+      "Attribution-Style",
+      "Attribution-Theory",
+      "Autonomous-Motivation",
+      "Belonging-Uncertainty",
+      "Bernard-Weiner",
+      "Carol-Dweck",
+      "Causal-Induction",
+      "Growth-Mindset",
+      "Growth-Mindset-Theory",
+      "Helpless-Response-Pattern",
+      "Implicit-Theory-of-Intelligence",
+      "Incremental-Theory-of-Intelligence",
+      "Metacognitive-Scaffolding",
+      "Motivation-Theory-Foundational-Report",
+      "Motivational-Psychology",
+      "Perceived-Locus-of-Causality",
+      "Richard-Lazarus",
+      "Self-Determination-Theory",
+      "Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr",
+      "Wilson and Linville"
+    ],
+    "unique_wiki_link_count": 25,
+    "unique_tags": [
+      "#ability",
+      "#appraisal-theory",
+      "#attribution-retraining",
+      "#attribution-theory",
+      "#controllability",
+      "#coping-potential",
+      "#dimensions",
+      "#effort",
+      "#emotion-mediation",
+      "#expectancy",
+      "#guilt",
+      "#intervention",
+      "#intervention-design",
+      "#moral-judgment",
+      "#self-fulfilling-prophecy",
+      "#shame",
+      "#social-attribution",
+      "#stability",
+      "#stigma"
+    ],
+    "unique_tag_count": 19,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Attribution-Theory]]",
+        "[[Motivational-Psychology]]",
+        "[[Appraisal-Theory]]"
+      ],
+      "related_concepts": [
+        "[[Attribution-Theory]]",
+        "[[Bernard-Weiner]]",
+        "[[Attribution-Style]]",
+        "[[Appraisal-Theory]]",
+        "[[Growth-Mindset-Theory]]",
+        "[[Helpless-Response-Pattern]]",
+        "[[Achievement-Goal-Theory]]",
+        "[[Self-Determination-Theory]]",
+        "[[Perceived-Locus-of-Causality]]",
+        "[[Attribution-Retraining-Interventions]]",
+        "[[Self-Efficacy]]",
+        "[[Causal-Induction]]"
+      ],
+      "link_related": [
+        "[[Growth-Mindset-Theory]]",
+        "[[Self-Determination-Theory]]",
+        "[[Appraisal-Theory]]",
+        "[[Self-Efficacy]]",
+        "[[Belonging-Uncertainty]]"
+      ],
+      "link_up": [
+        "[[Motivational-Psychology]]"
+      ],
+      "link_down": [
+        "[[Attribution-Retraining-Interventions]]",
+        "[[Attribution-Retraining]]",
+        "[[Helpless-Response-Pattern]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Achievement-Goal-Theory",
+      "Actor-Observer-Bias",
+      "Appraisal-Theory",
+      "Attribution-Retraining",
+      "Attribution-Retraining-Interventions",
+      "Attribution-Style",
+      "Attribution-Theory",
+      "Autonomous-Motivation",
+      "Belonging-Uncertainty",
+      "Bernard-Weiner",
+      "Carol-Dweck",
+      "Causal-Induction",
+      "Growth-Mindset",
+      "Growth-Mindset-Theory",
+      "Helpless-Response-Pattern",
+      "Implicit-Theory-of-Intelligence",
+      "Incremental-Theory-of-Intelligence",
+      "Metacognitive-Scaffolding",
+      "Motivation-Theory-Foundational-Report",
+      "Motivational-Psychology",
+      "Perceived-Locus-of-Causality",
+      "Richard-Lazarus",
+      "Self-Determination-Theory",
+      "Topic-Attribution-Retraining-Interventions-Report-Type-Foundational-Report-Descr",
+      "Wilson and Linville"
+    ]
+  }
+}

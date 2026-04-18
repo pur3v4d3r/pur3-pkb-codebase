@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,17 +78,9 @@ see-also:
   - "[[Competence]]"
   - "[[Relatedness]]"
   - "[[Maarten-Vansteenkiste|Maarten Vansteenkiste]]"
-  - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Autonomy]]"
-  - "[[Competence]]"
-  - "[[Relatedness]]"
-  - "[[Autonomy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -294,6 +286,34 @@ importance: high
 **Related concepts:**
 [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Autonomy]] · [[Competence]] · [[Self-Efficacy]] · [[Relatedness]] · [[Flow-Theory|Flow Theory]] · [[Attachment-Theory|Attachment Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Motivation-Continuum|Motivation Continuum]] · [[Self-Regulated-Learning|Self-Regulated Learning]]
 
+**Related concepts** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Autonomy-Support-in-Education|Autonomy Support in Education]] * [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]] * [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis|Need Frustration and the Dark Side of Motivation — A Focused Analysis]] * [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination|Cultural Universality of Basic Psychological Needs — A Critical Examination]] * [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]] * [[Flow-Theory-and-Competence-Need-—-Structural-Parallels|Flow Theory and Competence Need — Structural Parallels]] * [[BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory-Execution|BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]] * [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] * [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy-Support-—-Mechanisms-and-Measurement]] * [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis|Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis]] * [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination|Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination]] * [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis]] * [[Flow-Theory-and-Competence-Need-—-Structural-Parallels|Flow-Theory-and-Competence-Need-—-Structural-Parallels]] * [[BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory|BPNT-and-Self-Regulated-Learning-—-The-Motivational-Preconditions-for-Regulatory]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Motivation-Continuum|Motivation Continuum]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Attachment-Theory|Attachment-Theory]]
+
+**Cross-report connections** *(from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive-Evaluation-Theory]]
+- [[Organismic-Integration-Theory|Organismic-Integration-Theory]]
+- [[Motivation-Continuum|Motivation-Continuum]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+
+
+
+
+
+
 ## References
 
 - **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
@@ -309,6 +329,72 @@ importance: high
 - **Elliot, A. J. (2006). The hierarchical model of approach-avoidance motivation. *Motivation and Emotion*, 30(2), 111–116.**: Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
 
 *Citations sourced from [[basic-psychological-needs-theory-focused-analysis-2026-03-13]]*
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
+
+- **Sheldon, K. M., & Gunz, A. (2009). Psychological needs as basic motives, not just experiential requirements. *Journal of Personality*, 77(5), 1467–1492.**: Examines the substitution hypothesis — whether satisfaction of one need can compensate for deprivation of another. Provides the most direct empirical test of the compensatory hypothesis and finds evidence for partial (but not full) substitution, complicating the strongest versions of the conjunctive thesis.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133–144.**: Review of SDT and BPNT research with specific application to educational contexts. Synthesizes the research on how teachers can support the three needs in classroom settings, with practical guidance on translating theory into practice.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: Analysis of the structural and psychological factors that lead teachers toward controlling instructional styles and the specific behavioral changes involved in shifting toward autonomy-supportive pedagogy. Addresses the practical challenge that teachers face in applying BPNT while managing classroom pressures.
+
+- **Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin*, 117(3), 497–529.**: Landmark review synthesizing evidence for the universal need to belong — the empirical foundation for BPNT's relatedness need claim. Documents the well-being costs of social exclusion and the facility of relationship formation as evidence for an underlying organismic need.
+
+- **Ryan, R. M., Deci, E. L., Grolnick, W. S., & La Guardia, J. G. (2016). The significance of autonomy and autonomy support in psychological development and psychopathology. In D. Cicchetti (Ed.), *Developmental Psychopathology* (3rd ed., Vol. 1). Wiley.**: Examination of the developmental and clinical consequences of chronic autonomy thwarting across the lifespan. Provides the most thorough treatment of the "dark side" of motivation — the defensive, substitute-satisfaction-seeking patterns produced by need frustration — from within the SDT theoretical framework.
+
+- **Elliot, A. J. (2006). The hierarchical model of approach-avoidance motivation. *Motivation and Emotion*, 30(2), 111–116.**: Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The foundational theoretical statement of BPNT as a distinct mini-theory within SDT. Articulates the three needs with definitional precision, distinguishes the universality claim from cultural relativity, and establishes the theoretical framework for understanding need satisfaction as a psychological nutriment. Essential reading for the conjunctive thesis's theoretical origins.
+
+- **Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. *Journal of Psychotherapy Integration*, 23(3), 263–280.**: The key paper establishing the satisfaction-frustration asymmetry as a theoretical and empirical advance over simple need-satisfaction models. Integrates clinical and educational evidence to argue that need frustration activates qualitatively distinct processes from need absence. Essential for understanding the darker side of BPNT.
+
+- **Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motivation and Emotion*, 39(2), 216–236.**: Validation study for the Basic Psychological Need Satisfaction and Frustration Scale (BPNSFS) across four cultures. Provides the structural equation modeling evidence for the six-factor need model (three satisfaction, three frustration factors) and cross-cultural generalizability of both satisfaction and frustration constructs.
+
+- **Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being. *Journal of Personality and Social Psychology*, 84(1), 97–110.**: The critical cross-cultural autonomy study, examining United States, Russia, Turkey, and South Korea. Establishes the form/function distinction for the autonomy need across collectivist and individualist cultures. Foundational for dismissing the objection that BPNT's autonomy universality claim is culturally parochial.
+
+- **La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000). Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being. *Journal of Personality and Social Psychology*, 79(3), 367–384.**: Demonstrates the relationship-specific nature of need satisfaction and identifies the mechanism by which relatedness satisfaction enables autonomous engagement within specific relational contexts. Key evidence for the interdependence of the three needs rather than their complete independence.
+
+- **Sheldon, K. M., & Gunz, A. (2009). Psychological needs as basic motives, not just experiential requirements. *Journal of Personality*, 77(5), 1467–1492.**: Examines the substitution hypothesis — whether satisfaction of one need can compensate for deprivation of another. Provides the most direct empirical test of the compensatory hypothesis and finds evidence for partial (but not full) substitution, complicating the strongest versions of the conjunctive thesis.
+
+- **Niemiec, C. P., & Ryan, R. M. (2009). Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. *Theory and Research in Education*, 7(2), 133–144.**: Review of SDT and BPNT research with specific application to educational contexts. Synthesizes the research on how teachers can support the three needs in classroom settings, with practical guidance on translating theory into practice.
+
+- **Reeve, J. (2009). Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive. *Educational Psychologist*, 44(3), 159–175.**: Analysis of the structural and psychological factors that lead teachers toward controlling instructional styles and the specific behavioral changes involved in shifting toward autonomy-supportive pedagogy. Addresses the practical challenge that teachers face in applying BPNT while managing classroom pressures.
+
+- **Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin*, 117(3), 497–529.**: Landmark review synthesizing evidence for the universal need to belong — the empirical foundation for BPNT's relatedness need claim. Documents the well-being costs of social exclusion and the facility of relationship formation as evidence for an underlying organismic need.
+
+- **Ryan, R. M., Deci, E. L., Grolnick, W. S., & La Guardia, J. G. (2016). The significance of autonomy and autonomy support in psychological development and psychopathology. In D. Cicchetti (Ed.), *Developmental Psychopathology* (3rd ed., Vol. 1). Wiley.**: Examination of the developmental and clinical consequences of chronic autonomy thwarting across the lifespan. Provides the most thorough treatment of the "dark side" of motivation — the defensive, substitute-satisfaction-seeking patterns produced by need frustration — from within the SDT theoretical framework.
+
+- **Elliot, A. J. (2006). The hierarchical model of approach-avoidance motivation. *Motivation and Emotion*, 30(2), 111–116.**: Foundational paper for the approach-avoidance motivational distinction invoked in this report's mechanism analysis. Provides the theoretical basis for understanding why need frustration activates avoidance-oriented rather than approach-oriented motivational states.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methodology Notes
 

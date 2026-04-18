@@ -773,7 +773,7 @@ extraction_summary:
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[spaced-practice]]
 - [[interleaving]]
-- [[Active Recall]]
+- [[Active-Recall]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Metacognitive-Calibration|Metacognitive Calibration]]

@@ -312,12 +312,12 @@ The parallel mechanisms are striking:
 
 | Stoic Practice | Modern CBT Equivalent | Mechanism |
 |----------------|----------------------|-----------|
-| Separating judgments from events | [[Cognitive Restructuring]] | Identifying [[Automatic Thoughts]] |
+| Separating judgments from events | [[Cognitive-Restructuring]] | Identifying [[Automatic Thoughts]] |
 | Examining [[Assent]] to impressions | [[Cognitive Disputation]] | Challenging [[Cognitive Distortions]] |
 | Evening review | [[Thought Records]] | Documenting triggers and responses |
 | [[Dichotomy-of-Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
-| [[Premeditatio-Malorum]] | [[Exposure Therapy]] | Systematic desensitization |
-| [[Virtue]] cultivation | [[Values Clarification]] | Aligning behavior with principles |
+| [[Premeditatio-Malorum]] | [[Exposure-Therapy]] | Systematic desensitization |
+| [[Virtue]] cultivation | [[Values-Clarification]] | Aligning behavior with principles |
 
 > [!evidence]
 > **Clinical Validation**
@@ -579,7 +579,7 @@ Many practitioners use:
   - Emotional reasoning = Confusing feelings with judgments about reality
 
 **ACT Integration** ([[Acceptance-and-Commitment-Therapy]])
-- Use Stoic framework for [[Values Clarification]]
+- Use Stoic framework for [[Values-Clarification]]
 - Practice [[Cognitive Defusion]] through judgment examination
 - Develop [[Psychological Flexibility]] via dichotomy of control
 - Cultivate [[Committed Action]] aligned with virtues
@@ -2243,7 +2243,7 @@ The practice leverages:
 - [[metacognitive-awareness]] - Thinking about thinking
 - [[Cognitive-Offloading]] - Externalizing working memory burden
 - [[Structured Prompts]] - Guiding effective reflection
-- [[Pattern Recognition]] - Identifying recurring behavioral themes
+- [[Pattern-Recognition]] - Identifying recurring behavioral themes
 - [[Neuroplastic Change]] - Reshaping neural architecture through repetition
 
 Without psychological mechanism, philosophy remains abstract theory. The embodied practice creates actual behavioral and cognitive change.

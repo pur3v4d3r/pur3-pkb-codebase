@@ -610,7 +610,7 @@ extraction_summary:
 
 #### Broader
 
-- [[Philosophy of Education]]
+- [[Philosophy-of-Education|Philosophy of Education]]
 - [[Cognitive-Science|Cognitive Science]]
 - [[Applied Epistemology]]
 

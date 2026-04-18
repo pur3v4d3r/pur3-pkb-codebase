@@ -39,10 +39,10 @@ tags:
 [[Deep-Processing]]
 [[Decision-Theory]]
 [[Argumentation-Theory]]
-[[Information Literacy]]
+[[Information-Literacy]]
 [[Problem-Solving]]
 [[Creative Thinking]]
-[[Cognitive Development]]
+[[Cognitive-Development]]
 
 
 

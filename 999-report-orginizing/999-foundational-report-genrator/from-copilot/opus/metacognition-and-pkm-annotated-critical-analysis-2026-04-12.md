@@ -133,7 +133,7 @@ pipeline_version: "v2.0"
 >
 > **Confidence Scale:**
 > - **5/5:** Established consensus with strong empirical support — [[Metacognitive-Knowledge]] and [[Metacognitive-Regulation]] as distinct components, for example
-> - **4/5:** Well-supported with minor caveats or boundary conditions — the role of [[Self-Explanation]] in metacognitive gain
+> - **4/5:** Well-supported with minor caveats or boundary conditions — the role of [[self-explanation]] in metacognitive gain
 > - **3/5:** Supported but with meaningful counter-evidence or methodological concerns — PKM-specific calibration claims
 > - **2/5:** Plausible interpretation but limited or conflicting evidence — the [[Extended-Mind-Theory]] applied to metacognition
 > - **1/5:** Speculative — original to this report or weakly supported
@@ -191,7 +191,7 @@ pipeline_version: "v2.0"
 ## Section 1: Foundations of Metacognition — What Thinking About Thinking Actually Involves
 
 > [!epistemic-status] **Section Epistemic Status: Established (Confidence 5/5)**
-> This section synthesizes well-established theoretical frameworks from [[Cognitive-Psychology]] and [[Educational-Psychology]]. The two-component model of metacognition (monitoring + regulation) enjoys broad consensus across the field, dating from [[John-Flavell]]'s foundational work in the late 1970s through contemporary applications. The primary claims in this section are descriptive rather than interpretive, and the evidence base is extensive. Readers can treat the content here as established science with high confidence.
+> This section synthesizes well-established theoretical frameworks from [[cognitive-psychology]] and [[Educational-Psychology]]. The two-component model of metacognition (monitoring + regulation) enjoys broad consensus across the field, dating from [[John-Flavell]]'s foundational work in the late 1970s through contemporary applications. The primary claims in this section are descriptive rather than interpretive, and the evidence base is extensive. Readers can treat the content here as established science with high confidence.
 
 The concept of [[Metacognition]] — literally, cognition about cognition — has become one of the most productive constructs in the learning sciences since [[Flavell]] introduced the term in 1976. Yet the concept's very ubiquity has created a paradox: metacognition is invoked so frequently across so many domains that its precise meaning has become blurred. Before we can meaningfully analyse how metacognition relates to [[Personal-Knowledge-Management]], we need to establish exactly what the term encompasses and, equally importantly, what it does not.
 
@@ -301,9 +301,9 @@ The Nelson-Narens framework identifies several specific monitoring phenomena tha
 ## Section 3: PKM as Metacognitive Scaffolding — The Externalisation Thesis
 
 > [!epistemic-status] **Section Epistemic Status: Mixed/Emerging (Confidence 3.5/5)**
-> This section combines well-established cognitive phenomena ([[Self-Explanation]], [[Generation-Effect]]) with an interpretive framework connecting them to PKM practice. The individual phenomena are robustly supported by experimental evidence. The synthesis — that PKM practices achieve their cognitive benefits *because* they engage these specific metacognitive mechanisms — is well-motivated but involves inferential chains not directly tested in PKM-specific research. The strongest claims concern mechanism identification; the weakest concern the claim that PKM *uniquely* affords these benefits compared to other externalization practices.
+> This section combines well-established cognitive phenomena ([[self-explanation]], [[Generation-Effect]]) with an interpretive framework connecting them to PKM practice. The individual phenomena are robustly supported by experimental evidence. The synthesis — that PKM practices achieve their cognitive benefits *because* they engage these specific metacognitive mechanisms — is well-motivated but involves inferential chains not directly tested in PKM-specific research. The strongest claims concern mechanism identification; the weakest concern the claim that PKM *uniquely* affords these benefits compared to other externalization practices.
 
-The argument developed in the previous two sections — that metacognition decomposes into monitoring and regulation, and that the Nelson-Narens framework maps productively onto PKM operations — has been largely structural. It tells us *what* the metacognition-PKM relationship looks like architecturally. It does not yet explain *why* PKM practices produce metacognitive benefits, or *which* specific cognitive mechanisms are responsible. This section addresses that mechanistic question by examining how core PKM operations engage two of the most well-established phenomena in the learning sciences: the [[Self-Explanation]] effect and the [[Generation-Effect]].
+The argument developed in the previous two sections — that metacognition decomposes into monitoring and regulation, and that the Nelson-Narens framework maps productively onto PKM operations — has been largely structural. It tells us *what* the metacognition-PKM relationship looks like architecturally. It does not yet explain *why* PKM practices produce metacognitive benefits, or *which* specific cognitive mechanisms are responsible. This section addresses that mechanistic question by examining how core PKM operations engage two of the most well-established phenomena in the learning sciences: the [[self-explanation]] effect and the [[Generation-Effect]].
 
 > [!key-claim] **Claim 3: PKM as Metacognitive Scaffold**
 > PKM systems function as [[Metacognitive-Scaffolding|metacognitive scaffolds]] that offload monitoring demands from [[Working-Memory]], freeing cognitive resources for deeper processing. The scaffolding is not passive (mere storage) but active: the structural features of PKM systems — note-making templates, wiki-link creation, periodic review prompts — create cognitive forcing functions that trigger metacognitive monitoring and regulation that would not otherwise occur.
@@ -315,10 +315,10 @@ The argument developed in the previous two sections — that metacognition decom
 >
 > **Confidence rationale:** Moderate confidence because the individual components are well-supported but the specific chain of reasoning (PKM → reduced WM load → freed resources → deeper processing → better metacognitive outcomes) has not been tested as an integrated causal model.
 
-The [[Self-Explanation]] effect, first comprehensively documented by Chi and colleagues (Chi, Bassok, Lewis, Reimann, & Glaser, 1989; Chi, de Leeuw, Chiu, & LaVancher, 1994), demonstrates that learners who explain material to themselves during study — articulating why steps follow, identifying relationships between concepts, connecting new information to prior knowledge — show dramatically better comprehension and transfer than learners who simply read the same material. The mechanistic account of self-explanation centres on metacognitive monitoring: the act of attempting to explain forces the learner to assess their current understanding, identify gaps in that understanding, and either repair those gaps or recognise them explicitly. Self-explanation is, in this sense, a metacognitive monitoring procedure disguised as a comprehension strategy.
+The [[self-explanation]] effect, first comprehensively documented by Chi and colleagues (Chi, Bassok, Lewis, Reimann, & Glaser, 1989; Chi, de Leeuw, Chiu, & LaVancher, 1994), demonstrates that learners who explain material to themselves during study — articulating why steps follow, identifying relationships between concepts, connecting new information to prior knowledge — show dramatically better comprehension and transfer than learners who simply read the same material. The mechanistic account of self-explanation centres on metacognitive monitoring: the act of attempting to explain forces the learner to assess their current understanding, identify gaps in that understanding, and either repair those gaps or recognise them explicitly. Self-explanation is, in this sense, a metacognitive monitoring procedure disguised as a comprehension strategy.
 
 > [!key-claim] **Claim 4: Self-Explanation and Generation as Primary Mechanisms**
-> The [[Self-Explanation]] effect and [[Generation-Effect]] — two well-established cognitive phenomena — are the primary mechanisms through which active PKM practices (note-making, wiki-linking, concept mapping) produce metacognitive gains. When a PKM practitioner writes a note in their own words, they are self-explaining. When they create wiki-links between concepts, they are generating relational propositions that reveal (or expose the absence of) understanding.
+> The [[self-explanation]] effect and [[Generation-Effect]] — two well-established cognitive phenomena — are the primary mechanisms through which active PKM practices (note-making, wiki-linking, concept mapping) produce metacognitive gains. When a PKM practitioner writes a note in their own words, they are self-explaining. When they create wiki-links between concepts, they are generating relational propositions that reveal (or expose the absence of) understanding.
 
 > [!annotation] **Annotation: Confidence 4/5**
 > **Source basis:** The self-explanation effect has been replicated extensively across domains (Chi, 2000; Rittle-Johnson, 2006; Wylie & Chi, 2014). The [[Generation-Effect]] (Slamecka & Graf, 1978) is among the most robust findings in memory research. The connection to [[Active-Note-Making]] practices draws on [[Knowledge-Telling-vs.-Knowledge-Transforming]] (Bereiter & Scardamalia, 1987; Galbraith, 1999) and the [[ICAP-Framework]] (Chi & Wylie, 2014), which demonstrates that constructive and interactive learning activities outperform active and passive ones.
@@ -345,7 +345,7 @@ The [[Generation-Effect]] provides the second mechanistic pillar. Slamecka and G
 > **Confidence rationale:** The synthesis is novel and should be treated as a theoretical proposal, not an established finding. The component mechanisms are well-supported (4-5/5 individually), but their integration into a dual-mechanism model is speculative.
 
 > [!section-summary] **Section 3 Summary**
-> This section identified the [[Self-Explanation]] effect and [[Generation-Effect]] as the primary cognitive mechanisms through which active PKM practices produce metacognitive benefits. Note-making in one's own words forces real-time comprehension monitoring (self-explanation), while generated representations improve delayed retrieval monitoring accuracy (generation effect). Wiki-linking was analysed as a metacognitive forcing function that requires relational evaluation. An original dual-mechanism model was proposed at 3/5 confidence, integrating immediate and delayed metacognitive enhancement into a unified framework. Key limitation: the dual-mechanism model is theoretically motivated but empirically untested as an integrated causal claim.
+> This section identified the [[self-explanation]] effect and [[Generation-Effect]] as the primary cognitive mechanisms through which active PKM practices produce metacognitive benefits. Note-making in one's own words forces real-time comprehension monitoring (self-explanation), while generated representations improve delayed retrieval monitoring accuracy (generation effect). Wiki-linking was analysed as a metacognitive forcing function that requires relational evaluation. An original dual-mechanism model was proposed at 3/5 confidence, integrating immediate and delayed metacognitive enhancement into a unified framework. Key limitation: the dual-mechanism model is theoretically motivated but empirically untested as an integrated causal claim.
 
 > [!reflection] **Questions for the Reader**
 > 1. In your own note-making practice, how frequently do you transform information versus transcribe it? What is your actual ratio of knowledge-telling to knowledge-transforming?
@@ -467,7 +467,7 @@ The [[COPES-Model]] (Winne & Hadwin, 1998) adds an important dimension that Zimm
 ## Section 6: The Extended Metacognitive Mind — PKM as Cognitive Partner
 
 > [!epistemic-status] **Section Epistemic Status: Philosophically Motivated, Empirically Preliminary (Confidence 2.5/5)**
-> This section draws on the [[Extended-Mind-Thesis]] and related work in [[Philosophy-of-Mind]] to argue that PKM systems function as genuine extensions of the metacognitive system rather than mere external tools. This is the most philosophically ambitious claim in the report. The extended mind thesis itself is well-articulated but remains controversial in philosophy of cognitive science. Applying it specifically to metacognition — arguing that monitoring and control can be distributed across brain and notebook — is a further interpretive step that is even less established. Reader should treat this section as theoretically stimulating but speculatively positioned.
+> This section draws on the [[Extended-Mind-Thesis]] and related work in [[philosophy-of-mind]] to argue that PKM systems function as genuine extensions of the metacognitive system rather than mere external tools. This is the most philosophically ambitious claim in the report. The extended mind thesis itself is well-articulated but remains controversial in philosophy of cognitive science. Applying it specifically to metacognition — arguing that monitoring and control can be distributed across brain and notebook — is a further interpretive step that is even less established. Reader should treat this section as theoretically stimulating but speculatively positioned.
 
 > [!key-claim] **Claim 8: The Extended Metacognitive Mind**
 > Under the conditions specified by the [[Extended-Mind-Thesis]] (Clark & Chalmers, 1998), a well-maintained PKM system functions not merely as a tool that *supports* metacognition but as a genuine *extension* of the metacognitive system — an external component that performs monitoring and regulation functions that are functionally equivalent to (and integrated with) internal metacognitive processes.
@@ -645,7 +645,7 @@ The absence of any 5/5 claims is deliberate. Even the most well-established clai
 | **[[Monitoring-Regulation-Gap]]** | The phenomenon where accurate metacognitive monitoring does not automatically translate into effective metacognitive regulation — knowing you don't understand does not entail knowing what to do about it. | Section 2 |
 | **[[Fluency-Illusion]]** | The tendency to confuse processing fluency (ease of comprehension) with genuine understanding or retention, producing systematically miscalibrated metacognitive judgments. | Section 4 |
 | **[[Generation-Effect]]** | The robust finding that items produced by the learner are better retained than items merely read, attributed to deeper encoding and enhanced monitoring signals during generation. | Section 3 |
-| **[[Self-Explanation]]** | A learning strategy in which learners explain material to themselves during study, forcing comprehension monitoring and gap identification. Produces dramatic learning gains across domains. | Section 3 |
+| **[[self-explanation]]** | A learning strategy in which learners explain material to themselves during study, forcing comprehension monitoring and gap identification. Produces dramatic learning gains across domains. | Section 3 |
 | **Temporal Recalibration** | The proposed mechanism through which periodic review of past notes allows a more competent present self to evaluate a less competent past self's representations, creating calibration feedback. Original to this report. | Section 4 |
 | **Evolutionary SRL** | The proposed concept that SRL in PKM contexts is not merely cyclical but self-modifying — each cycle's products alter the conditions for subsequent cycles. Original to this report. | Section 5 |
 
@@ -933,13 +933,13 @@ A: The instrumentalist objection: PKM systems are tools, not cognitive extension
 > - *Connection:* Section 4 identified the [[Fluency-Illusion]] as the primary calibration threat in PKM. The antidote — [[Desirable-Difficulties]] (Bjork, 1994) — was mentioned but not developed. A full treatment would analyse how PKM systems can be designed to be *intentionally harder to use* in ways that promote deeper processing.
 > - *Depth Potential:* Extensive experimental literature on desirable difficulties (spacing, interleaving, generation, retrieval practice) could be systematically mapped onto PKM design decisions. This is where this report's lowest-confidence calibration claims (3/5) could be strengthened.
 > - *Knowledge Graph Role:* Central node connecting [[Learning-Sciences]], PKM practice, and [[Instructional-Design]].
-> - *Suggested report type:* [[Comparative Architecture]] — evaluating multiple PKM implementations against desirable difficulty criteria.
+> - *Suggested report type:* [[Comparative-Architecture|Comparative Architecture]] — evaluating multiple PKM implementations against desirable difficulty criteria.
 
 > [!topic-idea] **3. [[Distributed-Cognition]] Beyond the Individual: Social Metacognition in Shared Knowledge Systems**
 > - *Connection:* This report focused exclusively on individual PKM. But many knowledge systems are shared — team wikis, organisational knowledge bases, collaborative research tools. The metacognitive framework extends: shared systems require *social metacognition* — monitoring and regulation of group knowledge state.
 > - *Depth Potential:* Literature on [[Transactive-Memory-Systems]] (Wegner, 1987), collaborative learning, and [[Computer-Supported-Collaborative-Work]] provides a rich theoretical base.
 > - *Knowledge Graph Role:* Extends the individual metacognition-PKM framework to the social and organisational level.
-> - *Suggested report type:* [[Foundational Report]] — comprehensive treatment of social metacognition and shared knowledge management.
+> - *Suggested report type:* [[Foundational-Report|Foundational Report]] — comprehensive treatment of social metacognition and shared knowledge management.
 
 > [!topic-idea] **4. Empirical Testing of the Temporal Recalibration Hypothesis**
 > - *Connection:* The temporal recalibration mechanism (Section 4) was this report's most action-relevant novel proposal, rated at Claude Insight level rather than established finding. An empirical investigation could test whether reviewing dated notes genuinely improves metacognitive calibration.
@@ -960,7 +960,7 @@ A: The instrumentalist objection: PKM systems are tools, not cognitive extension
 - [[Dual-Process-Theory]] — Background for monitoring mechanism analysis
 
 **Category 2: Learning Sciences Connections**
-- [[Self-Explanation]] — Primary mechanism identified in Section 3
+- [[self-explanation]] — Primary mechanism identified in Section 3
 - [[Generation-Effect]] — Second primary mechanism
 - [[Retrieval-Practice]] — Complementary mechanism for calibration
 - [[Desirable-Difficulties]] — Design principle for calibration improvement
@@ -979,7 +979,7 @@ A: The instrumentalist objection: PKM systems are tools, not cognitive extension
 - [[Extended-Mind-Thesis]] — Philosophical foundation for Section 6
 - [[Extended-Metacognition]] — Novel concept developed in analysis
 - [[Distributed-Cognition]] — Related framework for future exploration
-- [[Philosophy-of-Mind]] — Disciplinary home for Section 6's arguments
+- [[philosophy-of-mind]] — Disciplinary home for Section 6's arguments
 - [[Embodied-Cognition]] — Related theoretical tradition
 
 ### 8.11 Navigation and Cross-Reference Index
@@ -990,7 +990,7 @@ A: The instrumentalist objection: PKM systems are tools, not cognitive extension
 |---------|-------|------------|------------|-----------|
 | **1** | Foundations of Metacognition | Claim 1: Monitor + Regulate | 4/5 | [[Metacognition]], [[Knowledge-of-Cognition]], [[Regulation-of-Cognition]] |
 | **2** | Nelson-Narens Architecture | Claim 2: Meta/Object Mapping | 4/5 | [[Nelson-Narens-Framework]], [[Monitoring-Regulation-Gap]] |
-| **3** | Self-Explanation & Generation | Claims 3-4: Scaffolding + Mechanisms | 3-4/5 | [[Self-Explanation]], [[Generation-Effect]], [[Metacognitive-Scaffolding]] |
+| **3** | Self-Explanation & Generation | Claims 3-4: Scaffolding + Mechanisms | 3-4/5 | [[self-explanation]], [[Generation-Effect]], [[Metacognitive-Scaffolding]] |
 | **4** | Calibration & Illusion | Claims 5-6: Calibration + DK Mitigation | 3/5 | [[Metacognitive-Calibration]], [[Fluency-Illusion]], [[Dunning-Kruger-Effect]] |
 | **5** | Self-Regulated Learning | Claim 7: SRL Integration | 4/5 | [[Self-Regulated-Learning]], [[COPES-Model]], [[Zimmerman]] |
 | **6** | Extended Metacognitive Mind | Claim 8: PKM as Extension | 2/5 | [[Extended-Mind-Thesis]], [[Extended-Metacognition]] |

@@ -183,7 +183,7 @@ Having established our axiomatic foundations, we now systematically derive each 
 > 
 > Our approach follows the temporal and causal sequence that actually occurs in nature. We begin with a diffuse hydrogen cloud and ask: given only our six first principles, what *must* happen? First, gravitational attraction causes the cloud to contract (First Principle 1). Second, as it contracts, the virial theorem demands that the core temperature increases (First Principle 5). Third, rising temperature means increasing particle velocities (First Principle 4), eventually reaching energies where quantum tunneling through the Coulomb barrier becomes probable (First Principles 2, 3, 6). Fourth, fusion begins, releasing energy that creates radiation pressure opposing further collapse. Fifth, energy generated in the core must transport outward through the star's envelope. Sixth, energy reaching the surface escapes as electromagnetic radiation with a characteristic spectral distribution. Each stage follows *necessarily* from the previous one—there are no choices, no contingencies, only inevitable consequences of physics.
 
-## 🌌 Stage One: [[Gravitational Collapse]] and the Jeans Criterion
+## 🌌 Stage One: [[Gravitational-Collapse]] and the Jeans Criterion
 
 > [!phase-one]
 > **From Diffuse Cloud to Protostar: Why Collapse Must Occur**
@@ -196,7 +196,7 @@ Having established our axiomatic foundations, we now systematically derive each 
 > 
 > $$\tau_{KH} \sim \frac{GM^2}{RL}$$
 > 
-> where $L$ is the luminosity. For a solar-mass cloud, $\tau_{KH} \sim 10^7$ years—short on astronomical timescales. During this contraction phase, the proto-stellar core steadily increases in temperature and density. When core temperatures reach several thousand Kelvin, molecular hydrogen dissociates into atomic hydrogen, absorbing energy and triggering accelerated collapse. Eventually, the core becomes opaque to its own radiation—photons generated in the interior can no longer freely escape, and radiation pressure begins to build. This marks the transition from optically thin collapse to the formation of a true [[protostar]].
+> where $L$ is the luminosity. For a solar-mass cloud, $\tau_{KH} \sim 10^7$ years—short on astronomical timescales. During this contraction phase, the proto-stellar core steadily increases in temperature and density. When core temperatures reach several thousand Kelvin, molecular hydrogen dissociates into atomic hydrogen, absorbing energy and triggering accelerated collapse. Eventually, the core becomes opaque to its own radiation—photons generated in the interior can no longer freely escape, and radiation pressure begins to build. This marks the transition from optically thin collapse to the formation of a true [[Protostar]].
 
 ## 🔥 Stage Two: From Protostar to Fusion Ignition
 
@@ -211,7 +211,7 @@ Having established our axiomatic foundations, we now systematically derive each 
 > 
 > $$\epsilon \propto \rho^2 T^{\nu}$$
 > 
-> where $\nu \approx 4$ for the [[proton-proton chain]] dominant in solar-mass stars. The strong temperature dependence means that fusion turns on relatively abruptly once the threshold temperature is reached. Initially, the fusion rate is low—energy generation from gravitational contraction still exceeds nuclear energy release. But as contraction continues and temperature rises, nuclear energy production eventually matches and then exceeds the luminosity radiated from the surface. At this point, a crucial transition occurs: the star reaches [[hydrostatic equilibrium]]. The outward pressure gradient (from both thermal pressure and radiation pressure) exactly balances the inward gravitational force:
+> where $\nu \approx 4$ for the [[proton-proton chain]] dominant in solar-mass stars. The strong temperature dependence means that fusion turns on relatively abruptly once the threshold temperature is reached. Initially, the fusion rate is low—energy generation from gravitational contraction still exceeds nuclear energy release. But as contraction continues and temperature rises, nuclear energy production eventually matches and then exceeds the luminosity radiated from the surface. At this point, a crucial transition occurs: the star reaches [[Hydrostatic-Equilibrium]]. The outward pressure gradient (from both thermal pressure and radiation pressure) exactly balances the inward gravitational force:
 > 
 > $$\frac{dP}{dr} = -\frac{GM(r)\rho(r)}{r^2}$$
 > 
@@ -341,7 +341,7 @@ For the Sun, $\lambda_{\text{max}} \approx 500$ nm (green), explaining why sunli
 > 2. [[Quantum Tunneling]]
 >    - *Quantum tunneling bridges the impossible gap between gravitationally-achievable temperatures ($10^7$ K) and classically-required fusion temperatures ($10^{10}$ K). Without it, stars could not exist in their observed forms. Tunneling is what makes stellar fusion slow enough to permit billion-year lifetimes.*
 > 
-> 3. [[Hydrostatic Equilibrium]]
+> 3. [[Hydrostatic-Equilibrium]]
 >    - *Hydrostatic equilibrium is the balance between gravity pulling inward and pressure pushing outward. It's what makes stars stable rather than collapsing instantly or exploding. The remarkable fact is that fusion automatically provides the precise energy generation rate needed to maintain this equilibrium via negative feedback—a "cosmic thermostat."*
 
 > [!thoughts]
@@ -376,7 +376,7 @@ For the Sun, $\lambda_{\text{max}} \approx 500$ nm (green), explaining why sunli
 > **Topics for PKB Expansion:**
 > 
 > - [[Stellar Structure Equations]]
->   - The four differential equations (mass conservation, hydrostatic equilibrium, radiative transport, and energy generation) that completely specify stellar structure form a boundary value problem solvable computationally. Understanding how these equations couple reveals why stars occupy specific regions of the [[Hertzsprung-Russell diagram]] and why stellar evolution follows predictable pathways. This connects stellar physics to numerical methods and provides quantitative predictions testable against observations.
+>   - The four differential equations (mass conservation, hydrostatic equilibrium, radiative transport, and energy generation) that completely specify stellar structure form a boundary value problem solvable computationally. Understanding how these equations couple reveals why stars occupy specific regions of the [[Hertzsprung-Russell-Diagram]] and why stellar evolution follows predictable pathways. This connects stellar physics to numerical methods and provides quantitative predictions testable against observations.
 > 
 > - [[Main Sequence Lifetime]]
 >   - Stars spend ~90% of their lives on the main sequence, with lifetimes spanning from millions (massive stars) to trillions of years (red dwarfs). The precise scaling ($\tau \propto M^{-2.5}$) follows from the mass-luminosity relation combined with available fuel. This topic connects stellar physics to cosmology (why all observed stars are relatively young in low-mass regimes) and astrobiology (which stellar types permit long-lived stable planetary systems).

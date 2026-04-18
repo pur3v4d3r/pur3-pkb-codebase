@@ -3160,7 +3160,7 @@ GTD mastery requires both dimensions:
 1. **[[Natural Planning Model Deep Dive]]**
    - *Connection*: GTD's vertical thinking dimension deserves standalone exploration—the five-phase planning process applies beyond GTD to any project ideation
    - *Depth Potential*: Detailed breakdown of each phase with psychological foundations, comparison to other planning models, and specialized applications for creative vs analytical work
-   - *Knowledge Graph Role*: Bridges GTD methodology with [[Project Management]], [[Creative Process]], and [[Systems Thinking]]
+   - *Knowledge Graph Role*: Bridges GTD methodology with [[Project Management]], [[Creative Process]], and [[Systems-Thinking]]
 
 2. **[[Mind Like Water Philosophy - Eastern Influences on Productivity]]**
    - *Connection*: Allen's "Mind Like Water" concept draws from martial arts and Zen Buddhism—exploring these philosophical roots provides deeper understanding

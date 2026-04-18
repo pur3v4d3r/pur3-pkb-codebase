@@ -5,6 +5,7 @@
 title: "top-down-processing"
 aliases:
   - "top-down-processing"
+  - "Top-Down Processing"
 type: permanent-note
 status: seedling
 confidence: low

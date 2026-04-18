@@ -43,7 +43,7 @@ referenced-by-count: 3
 see-also:
   - "[[What-is-Frontmatter]]"
   - "[[_Master-Definition-Index|_Master-Definition-Index]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -64,4 +64,4 @@ importance: low
 
 - [[What-is-Frontmatter]]
 - [[_Master-Definition-Index|_Master-Definition-Index]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

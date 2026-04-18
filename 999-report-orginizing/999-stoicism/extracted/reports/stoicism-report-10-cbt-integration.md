@@ -122,7 +122,7 @@ related:
   - "[[Rational Emotive Behavior Therapy]]"
   - "[[Acceptance-and-Commitment-Therapy]]"
   - "[[Albert Ellis]]"
-  - "[[Aaron Beck]]"
+  - "[[Aaron-Beck]]"
   - "[[Steven Hayes]]"
   - "[[Donald Robertson]]"
   - "[[Dichotomy-of-Control]]"
@@ -131,11 +131,11 @@ related:
   - "[[Eudaimonia]]"
   - "[[Apatheia]]"
   - "[[Preferred-Indifferents]]"
-  - "[[Cognitive Restructuring]]"
+  - "[[Cognitive-Restructuring]]"
   - "[[Cognitive Distortions]]"
   - "[[Psychological Flexibility]]"
   - "[[Mindfulness]]"
-  - "[[Emotion Regulation]]"
+  - "[[Emotion-Regulation]]"
 
 series-connections:
   previous: "[[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]"
@@ -334,7 +334,7 @@ The first wave of behavior therapy, associated with [[B.F. Skinner]], [[Joseph W
 
 ### Second Wave: The Cognitive Revolution — Beck and Ellis
 
-The cognitive revolution of the late 1950s and 1960s transformed behavioral therapy by reintroducing the internal cognitive life as a legitimate object of therapeutic intervention. The two foundational figures of this revolution were [[Albert Ellis]] and [[Aaron Beck]], and their contributions, while parallel in structure, came from different directions and had distinct emphases that remain practically important.
+The cognitive revolution of the late 1950s and 1960s transformed behavioral therapy by reintroducing the internal cognitive life as a legitimate object of therapeutic intervention. The two foundational figures of this revolution were [[Albert Ellis]] and [[Aaron-Beck]], and their contributions, while parallel in structure, came from different directions and had distinct emphases that remain practically important.
 
 [Albert-Ellis-REBT:: Rational Emotive Behavior Therapy (REBT), developed by Albert Ellis from 1955 onward, was built explicitly on Epictetan foundations. Ellis's ABC model (Activating event → Belief → Consequence) directly translates Epictetus's principle that emotions follow from judgments, not events. REBT focuses specifically on identifying and disputing "irrational beliefs" — particularly what Ellis called "musturbation" (the demand that things must be a certain way), "awfulizing" (catastrophizing), "I-can't-stand-it-itis" (low frustration tolerance), and "global self-rating" (total self-condemnation based on partial failure). These map precisely onto the Stoic pathē and their cognitive grounds.]
 

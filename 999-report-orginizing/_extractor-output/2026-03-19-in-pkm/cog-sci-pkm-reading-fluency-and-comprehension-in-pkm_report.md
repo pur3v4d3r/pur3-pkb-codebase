@@ -299,7 +299,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Annotative Reading Strategies - A Comparative Empirical Review]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory - Sweller]]
 - [[Consolidation]]
@@ -352,7 +352,7 @@ extraction_summary:
 - [[William James - Habit Formation and Attention]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[Zettelkasten Method - Luhmann]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
@@ -373,8 +373,8 @@ extraction_summary:
 | 11 | [[Fluency-Illusion|Fluency Illusion]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 22 |
 | 12 | [[Familiarity Effect]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 22 |
 | 13 | [[Information Overload]] | — | — | 🎼 Phase 1: Overture & Foundation — Th... | 24 |
-| 14 | [[Zettelkasten Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 32 |
-| 15 | [[Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 32 |
+| 14 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 32 |
+| 15 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 32 |
 | 16 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 📜 Phase 2: Historical Foundations — F... | 32 |
 | 17 | [[Forgetting-Curve|Forgetting Curve]] | — | — | 📜 Phase 2: Historical Foundations — F... | 34 |
 | 18 | [[Spacing-Effect|Spacing Effect]] | — | — | 📜 Phase 2: Historical Foundations — F... | 34 |
@@ -384,7 +384,7 @@ extraction_summary:
 | 22 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📜 Phase 2: Historical Foundations — F... | 41 |
 | 23 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 📜 Phase 2: Historical Foundations — F... | 43 |
 | 24 | [[Zettelkasten]] | — | — | 📜 Phase 2: Historical Foundations — F... | 45 |
-| 25 | [[Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
+| 25 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
 | 26 | [[PARA-Method|PARA Method]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
 | 27 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 📜 Phase 2: Historical Foundations — F... | 47 |
 | 28 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 58 |
@@ -487,7 +487,7 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Annotative Reading Strategies - A Comparative Empirical Review]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory - Sweller]]
 - [[Consolidation]]
@@ -540,7 +540,7 @@ $$
 - [[William James - Habit Formation and Attention]]
 - [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[Zettelkasten Method - Luhmann]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 

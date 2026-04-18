@@ -40,7 +40,7 @@ referenced-by-count: 3
 see-also:
   - "[[Chain-of-Thought-Prompting]]"
   - "[[Tree-of-Thoughts-Framework]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -61,4 +61,4 @@ importance: low
 
 - [[Chain-of-Thought-Prompting]]
 - [[Tree-of-Thoughts-Framework]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

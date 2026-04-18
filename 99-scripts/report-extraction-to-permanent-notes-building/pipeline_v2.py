@@ -525,7 +525,7 @@ def stage_build_notes(execute: bool = False, include_original: bool = False) -> 
     print(f"  Notes before: {notes_before}")
     print(f"  Running: pipeline.py {' '.join(args)}")
 
-    result = run_python_script(PIPELINE_DIR / "pipeline.py", args, cwd=VAULT_ROOT, timeout=600)
+    result = run_python_script(PIPELINE_DIR / "pipeline.py", args, cwd=VAULT_ROOT, timeout=3600)
 
     # Print stdout (the pipeline's own detailed output)
     if result.stdout:
@@ -590,7 +590,7 @@ def stage_build_dedicated_notes(execute: bool = False) -> StageResult:
     print(f"  Running: dedicated_notes_builder.py {' '.join(args) or '(dry run)'}")
 
     result = run_python_script(
-        PIPELINE_DIR / "dedicated_notes_builder.py", args, cwd=VAULT_ROOT, timeout=600,
+        PIPELINE_DIR / "dedicated_notes_builder.py", args, cwd=VAULT_ROOT, timeout=3600,
     )
 
     if result.stdout:
@@ -773,7 +773,7 @@ def stage_normalise_links(execute: bool = False) -> StageResult:
 
     print(f"  Running: normalise_wikilinks.py {' '.join(args[:2])}...")
 
-    result = run_python_script(SCRIPTS_DIR / "normalise_wikilinks.py", args, cwd=VAULT_ROOT, timeout=600)
+    result = run_python_script(SCRIPTS_DIR / "normalise_wikilinks.py", args, cwd=VAULT_ROOT, timeout=3600)
 
     if result.stdout:
         lines = result.stdout.strip().split("\n")

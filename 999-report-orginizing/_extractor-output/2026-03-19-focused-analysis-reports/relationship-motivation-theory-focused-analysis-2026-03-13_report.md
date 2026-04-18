@@ -663,7 +663,7 @@ extraction_summary:
 #### See Also
 
 - [[Interdependence Theory — Kelley and Thibaut]]
-- [[Terror Management Theory]]
+- [[Terror-Management-Theory|Terror Management Theory]]
 - [[Positive Psychology — Flourishing Models]]
 
 #### Contrasts With

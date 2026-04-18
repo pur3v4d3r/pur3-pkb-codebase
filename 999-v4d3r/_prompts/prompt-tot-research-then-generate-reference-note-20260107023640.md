@@ -209,7 +209,7 @@ Follow the universal output scaffold below.
 > [!connections-and-links]  
 > **Integration with Cognitive Frameworks**  
 > - [[First Principles]] → enables deconstruction  
-> - [[Systems Thinking]] → maps interdependencies  
+> - [[Systems-Thinking]] → maps interdependencies  
 > - [[Second-Order Effects]] → anticipates ripple effects  
 > - [[Constraint Theory]] → identifies bottlenecks  
 > - [[Mental-Models]] → supports cross-domain transfer  
@@ -260,7 +260,7 @@ Use `%%ATOMIC: slug | type | priority | reason%%` for lower-priority items.
 
 <synthesis_potential_markers>  
 > [!synthesis-opportunity] [Title]  
-> **Source Domain**: [[Primary]] — [[Concept]]  
+> **Source Domain**: [[Primary]] — [[concept]]  
 > **Target Domains**: [[Domain 1]], [[Domain 2]]  
 > **Synthesis Type**: analogical  
 > **Seed Questions**:  
@@ -294,7 +294,7 @@ review-history:
 > **Primary Model Anchors**:  
 >  - [[First Principles]] — [explanation]  
 >  - [[Inversion]] — [explanation]  
->  - [[Systems Thinking]] — [explanation]  
+>  - [[Systems-Thinking]] — [explanation]  
 >   
 > **Inverse Application**:  
 >  - Can be applied to: [[Domain 1]], [[Domain 2]]  

@@ -65,7 +65,7 @@ extraction_summary:
   - ## ⚙️ First Principle 5: [[Virial Theorem]]—Gravitational Collapse Generates Heat
   - ## ⚛️ First Principle 6: [[Quantum Mechanics]]—Wave Nature and Tunneling
 - # 3.0 🏗️ THE RECONSTRUCTION: Building Stellar Luminosity from First Principles
-  - ## 🌌 Stage One: [[Gravitational Collapse]] and the Jeans Criterion
+  - ## 🌌 Stage One: [[Gravitational-Collapse|Gravitational Collapse]] and the Jeans Criterion
   - ## 🔥 Stage Two: From Protostar to Fusion Ignition
   - ## ⚛️ Stage Three: Nuclear Fusion Pathways—Proton-Proton Chain and CNO Cycle
   - ## 🌊 Stage Four: Energy Transport—Radiative Diffusion and Convection
@@ -307,7 +307,7 @@ extraction_summary:
 > 
 > $$\tau_{KH} \sim \frac{GM^2}{RL}$$
 > 
-> where $L$ is the luminosity. For a solar-mass cloud, $\tau_{KH} \sim 10^7$ years—short on astronomical timescales. During this contraction phase, the proto-stellar core steadily increases in temperature and density. When core temperatures reach several thousand Kelvin, molecular hydrogen dissociates into atomic hydrogen, absorbing energy and triggering accelerated collapse. Eventually, the core becomes opaque to its own radiation—photons generated in the interior can no longer freely escape, and radiation pressure begins to build. This marks the transition from optically thin collapse to the formation of a true [[protostar]].
+> where $L$ is the luminosity. For a solar-mass cloud, $\tau_{KH} \sim 10^7$ years—short on astronomical timescales. During this contraction phase, the proto-stellar core steadily increases in temperature and density. When core temperatures reach several thousand Kelvin, molecular hydrogen dissociates into atomic hydrogen, absorbing energy and triggering accelerated collapse. Eventually, the core becomes opaque to its own radiation—photons generated in the interior can no longer freely escape, and radiation pressure begins to build. This marks the transition from optically thin collapse to the formation of a true [[Protostar]].
 
 #### 18. [PHASE-TWO] Untitled *(Line 203)*
 
@@ -322,7 +322,7 @@ extraction_summary:
 > 
 > $$\epsilon \propto \rho^2 T^{\nu}$$
 > 
-> where $\nu \approx 4$ for the [[proton-proton chain]] dominant in solar-mass stars. The strong temperature dependence means that fusion turns on relatively abruptly once the threshold temperature is reached. Initially, the fusion rate is low—energy generation from gravitational contraction still exceeds nuclear energy release. But as contraction continues and temperature rises, nuclear energy production eventually matches and then exceeds the luminosity radiated from the surface. At this point, a crucial transition occurs: the star reaches [[hydrostatic equilibrium]]. The outward pressure gradient (from both thermal pressure and radiation pressure) exactly balances the inward gravitational force:
+> where $\nu \approx 4$ for the [[proton-proton chain]] dominant in solar-mass stars. The strong temperature dependence means that fusion turns on relatively abruptly once the threshold temperature is reached. Initially, the fusion rate is low—energy generation from gravitational contraction still exceeds nuclear energy release. But as contraction continues and temperature rises, nuclear energy production eventually matches and then exceeds the luminosity radiated from the surface. At this point, a crucial transition occurs: the star reaches [[Hydrostatic-Equilibrium|hydrostatic equilibrium]]. The outward pressure gradient (from both thermal pressure and radiation pressure) exactly balances the inward gravitational force:
 > 
 > $$\frac{dP}{dr} = -\frac{GM(r)\rho(r)}{r^2}$$
 > 
@@ -434,7 +434,7 @@ extraction_summary:
 > 2. [[Quantum Tunneling]]
 >    - *Quantum tunneling bridges the impossible gap between gravitationally-achievable temperatures ($10^7$ K) and classically-required fusion temperatures ($10^{10}$ K). Without it, stars could not exist in their observed forms. Tunneling is what makes stellar fusion slow enough to permit billion-year lifetimes.*
 > 
-> 3. [[Hydrostatic Equilibrium]]
+> 3. [[Hydrostatic-Equilibrium|Hydrostatic Equilibrium]]
 >    - *Hydrostatic equilibrium is the balance between gravity pulling inward and pressure pushing outward. It's what makes stars stable rather than collapsing instantly or exploding. The remarkable fact is that fusion automatically provides the precise energy generation rate needed to maintain this equilibrium via negative feedback—a "cosmic thermostat."*
 
 #### 29. [THOUGHTS] Untitled *(Line 347)*
@@ -469,7 +469,7 @@ extraction_summary:
 > **Topics for PKB Expansion:**
 > 
 > - [[Stellar Structure Equations]]
->   - The four differential equations (mass conservation, hydrostatic equilibrium, radiative transport, and energy generation) that completely specify stellar structure form a boundary value problem solvable computationally. Understanding how these equations couple reveals why stars occupy specific regions of the [[Hertzsprung-Russell diagram]] and why stellar evolution follows predictable pathways. This connects stellar physics to numerical methods and provides quantitative predictions testable against observations.
+>   - The four differential equations (mass conservation, hydrostatic equilibrium, radiative transport, and energy generation) that completely specify stellar structure form a boundary value problem solvable computationally. Understanding how these equations couple reveals why stars occupy specific regions of the [[Hertzsprung-Russell-Diagram|Hertzsprung-Russell diagram]] and why stellar evolution follows predictable pathways. This connects stellar physics to numerical methods and provides quantitative predictions testable against observations.
 > 
 > - [[Main Sequence Lifetime]]
 >   - Stars spend ~90% of their lives on the main sequence, with lifetimes spanning from millions (massive stars) to trillions of years (red dwarfs). The precise scaling ($\tau \propto M^{-2.5}$) follows from the mass-luminosity relation combined with available fuel. This topic connects stellar physics to cosmology (why all observed stars are relatively young in low-mass regimes) and astrobiology (which stellar types permit long-lived stable planetary systems).
@@ -504,9 +504,9 @@ extraction_summary:
 - [[Eddington limit]]
 - [[Electromagnetic Force]]
 - [[Gamow factor]]
-- [[Gravitational Collapse]]
-- [[Hertzsprung-Russell diagram]]
-- [[Hydrostatic Equilibrium]]
+- [[Gravitational-Collapse|Gravitational Collapse]]
+- [[Hertzsprung-Russell-Diagram|Hertzsprung-Russell diagram]]
+- [[Hydrostatic-Equilibrium|Hydrostatic Equilibrium]]
 - [[Jeans mass]]
 - [[Kelvin-Helmholtz contraction]]
 - [[Kinetic Theory]]
@@ -534,14 +534,14 @@ extraction_summary:
 - [[convection]]
 - [[effective temperature]]
 - [[First-Principles-What-Is-Knowledge|first principles]]
-- [[hydrostatic equilibrium]]
+- [[Hydrostatic-Equilibrium|hydrostatic equilibrium]]
 - [[mass defect]]
 - [[mean free path]]
 - [[opacity]]
 - [[optical depth]]
 - [[photosphere]]
 - [[proton-proton chain]]
-- [[protostar]]
+- [[Protostar]]
 - [[quantum tunneling]]
 - [[radiative diffusion equation]]
 - [[radiative transport]]
@@ -568,12 +568,12 @@ extraction_summary:
 | 15 | [[Quantum Mechanics]] | — | — | ⚛️ First Principle 6: [[Quantum Mecha... | 155 |
 | 16 | [[quantum tunneling]] | — | — | ⚛️ First Principle 6: [[Quantum Mecha... | 160 |
 | 17 | [[Gamow factor]] | — | — | ⚛️ First Principle 6: [[Quantum Mecha... | 164 |
-| 18 | [[Gravitational Collapse]] | — | — | 🌌 Stage One: [[Gravitational Collapse... | 186 |
+| 18 | [[Gravitational-Collapse|Gravitational Collapse]] | — | — | 🌌 Stage One: [[Gravitational Collapse... | 186 |
 | 19 | [[Jeans mass]] | — | — | 🌌 Stage One: [[Gravitational Collapse... | 191 |
 | 20 | [[Kelvin-Helmholtz contraction]] | — | — | 🌌 Stage One: [[Gravitational Collapse... | 195 |
-| 21 | [[protostar]] | — | — | 🌌 Stage One: [[Gravitational Collapse... | 199 |
+| 21 | [[Protostar]] | — | — | 🌌 Stage One: [[Gravitational Collapse... | 199 |
 | 22 | [[proton-proton chain]] | — | — | 🔥 Stage Two: From Protostar to Fusion... | 214 |
-| 23 | [[hydrostatic equilibrium]] | — | — | 🔥 Stage Two: From Protostar to Fusion... | 214 |
+| 23 | [[Hydrostatic-Equilibrium|hydrostatic equilibrium]] | — | — | 🔥 Stage Two: From Protostar to Fusion... | 214 |
 | 24 | [[proton-proton chain]] | — | — | ⚛️ Stage Three: Nuclear Fusion Pathwa... | 225 |
 | 25 | [[CNO cycle]] | — | — | ⚛️ Stage Three: Nuclear Fusion Pathwa... | 225 |
 | 26 | [[radiative transport]] | — | — | 🌊 Stage Four: Energy Transport—Radiat... | 252 |
@@ -597,9 +597,9 @@ extraction_summary:
 | 44 | [[Why do we age?]] | — | — | 5.0 🧠 Metacognitive Reflections | 333 |
 | 45 | [[Virial Theorem]] | — | — | 5.0 🧠 Metacognitive Reflections | 338 |
 | 46 | [[Quantum Tunneling]] | — | — | 5.0 🧠 Metacognitive Reflections | 341 |
-| 47 | [[Hydrostatic Equilibrium]] | — | — | 5.0 🧠 Metacognitive Reflections | 344 |
+| 47 | [[Hydrostatic-Equilibrium|Hydrostatic Equilibrium]] | — | — | 5.0 🧠 Metacognitive Reflections | 344 |
 | 48 | [[Stellar Structure Equations]] | — | — | 6.0 📚 References & Resources | 378 |
-| 49 | [[Hertzsprung-Russell diagram]] | — | — | 6.0 📚 References & Resources | 379 |
+| 49 | [[Hertzsprung-Russell-Diagram|Hertzsprung-Russell diagram]] | — | — | 6.0 📚 References & Resources | 379 |
 | 50 | [[Main Sequence Lifetime]] | — | — | 6.0 📚 References & Resources | 381 |
 | 51 | [[Brown Dwarfs and the Hydrogen Burning Minimum Mass]] | — | — | 6.0 📚 References & Resources | 384 |
 | 52 | [[Chandrasekhar Limit and White Dwarf Physics]] | — | — | 6.0 📚 References & Resources | 387 |
@@ -984,9 +984,9 @@ $$
 - [[Eddington limit]]
 - [[Electromagnetic Force]]
 - [[Gamow factor]]
-- [[Gravitational Collapse]]
-- [[Hertzsprung-Russell diagram]]
-- [[Hydrostatic Equilibrium]]
+- [[Gravitational-Collapse|Gravitational Collapse]]
+- [[Hertzsprung-Russell-Diagram|Hertzsprung-Russell diagram]]
+- [[Hydrostatic-Equilibrium|Hydrostatic Equilibrium]]
 - [[Jeans mass]]
 - [[Kelvin-Helmholtz contraction]]
 - [[Kinetic Theory]]
@@ -1014,14 +1014,14 @@ $$
 - [[convection]]
 - [[effective temperature]]
 - [[First-Principles-What-Is-Knowledge|first principles]]
-- [[hydrostatic equilibrium]]
+- [[Hydrostatic-Equilibrium|hydrostatic equilibrium]]
 - [[mass defect]]
 - [[mean free path]]
 - [[opacity]]
 - [[optical depth]]
 - [[photosphere]]
 - [[proton-proton chain]]
-- [[protostar]]
+- [[Protostar]]
 - [[quantum tunneling]]
 - [[radiative diffusion equation]]
 - [[radiative transport]]

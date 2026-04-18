@@ -1035,7 +1035,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 > **Connection to this report:** Section 5 (chunking and schemas), Section 7 (schema construction and automation), Section 8 (metacognitive overhead).
 > **Priority:** High
 > **Suggested report type:** Historical-Genealogical Report
-> **Prerequisites:** [[Cognitive-Psychology]], [[Long-Term-Memory]], [[Encoding-Specificity-Principle]]
+> **Prerequisites:** [[cognitive-psychology]], [[Long-Term-Memory]], [[Encoding-Specificity-Principle]]
 
 > [!topic-idea] **[[Attention|Attention: Selective, Divided, and Sustained — Mechanisms and Limits]]**
 > Attention emerges in this report as the core constraint underlying working memory capacity (Cowan, Engle), but the broader science of attention — selective attention, divided attention, sustained attention, attention networks, the relationship between attention and consciousness — requires dedicated treatment. Such a report would illuminate why attentional control is the bottleneck that working memory research identifies.
@@ -1043,7 +1043,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 > **Connection to this report:** Section 4 (attention-based models), Section 5 (capacity as attention), Section 6 (prefrontal-parietal networks).
 > **Priority:** High
 > **Suggested report type:** Foundational Report
-> **Prerequisites:** [[Cognitive-Psychology]], [[consciousness]], [[Information-Processing-Theory]]
+> **Prerequisites:** [[cognitive-psychology]], [[consciousness]], [[Information-Processing-Theory]]
 
 > [!topic-idea] **[[Transfer-of-Learning|Transfer of Learning: Near, Far, and the Conditions that Enable It]]**
 > The Far Transfer section of this report applies working memory principles across domains, but the science of transfer itself — what enables it, what constrains it, why it so often fails — is a fundamental topic in educational and cognitive science that merits its own comprehensive treatment.
@@ -1073,7 +1073,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > - **[[Atkinson-Shiffrin-Multi-Store-Model|Atkinson-Shiffrin Multi-Store Model]]** — The modal model of sensory, short-term, and long-term stores provides the structural predecessor that Baddeley and Hitch sought to replace. Understanding the multi-store model is essential for appreciating why the multicomponent model was necessary and what problems it solved.
 >
-> - **[[Cognitive-Psychology]]** — The broader discipline within which working memory research is situated. The experimental methods, theoretical commitments, and explanatory standards of cognitive psychology shape every aspect of the research reviewed here.
+> - **[[cognitive-psychology]]** — The broader discipline within which working memory research is situated. The experimental methods, theoretical commitments, and explanatory standards of cognitive psychology shape every aspect of the research reviewed here.
 >
 > - **[[Levels-of-Processing-Theory|Levels of Processing]]** — Craik and Lockhart's framework, by challenging the multi-store model's emphasis on structural stores, created the theoretical space in which Baddeley's process-oriented working memory model could flourish.
 >

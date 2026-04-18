@@ -498,7 +498,7 @@ The capstone report synthesizes insights from all seven preceding reports into a
 - [[Dual-Process-Theory]]
 - [[Cognitive-Load-Theory]]
 - [[Argument-Analysis]]
-- [[Decision Making Under Uncertainty]]
+- [[Decision-Making-Under-Uncertainty]]
 - [[Cognitive Biases and Debiasing]]
 - [[Scientific-Reasoning]]
 - [[Transfer-of-Learning]]
@@ -514,7 +514,7 @@ The capstone report synthesizes insights from all seven preceding reports into a
 - [[Unconscious Competence]]
 - [[Conscious Incompetence]]
 - [[Strategic-Planning]]
-- [[Evidence-Based Practice]]
+- [[Evidence-Based-Practice]]
 - [[Cognitive-Development-Theory]]
 - [[Educational Interventions]]
 - [[Personal-Development]]
@@ -996,7 +996,7 @@ related:
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
   - "[[Argument-Analysis]]"
-  - "[[Decision Making Under Uncertainty]]"
+  - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific-Reasoning]]"
   - "[[Transfer-of-Learning]]"
@@ -1042,7 +1042,7 @@ applied-in:
   - "[[Academic Research]]"
   - "[[Strategic-Planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based Practice]]"
+  - "[[Evidence-Based-Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -3514,7 +3514,7 @@ broader:
   - "[[cognitive-psychology]]"
   - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education]]"
 
 see-also:
   - "[[Expertise-Reversal-Effect]]"
@@ -5025,7 +5025,7 @@ expansion-topics:
   - topic: "[[Organismic Integration Theory in Practice]]"
     description: "Practical applications of the OIT internalization continuum — how environmental conditions, mentoring relationships, and deliberate practice foster movement toward integrated regulation"
     priority: high
-  - topic: "[[Personal Knowledge Management Systems]]"
+  - topic: "[[Personal-Knowledge-Management-Systems]]"
     description: "How PKB and Zettelkasten approaches embody constructivist principles and can serve as externalizations of the learner's internal schema architecture"
     priority: medium
   - topic: "[[Transfer of Learning Mechanisms]]"

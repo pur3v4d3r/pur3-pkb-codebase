@@ -223,7 +223,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. How do the three needs interact and support each other?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Autonomy]], [[Competence]], [[Relatedness]], [[Basic-Psychological-Needs]], [[Need-Satisfaction]], [[Need-Thwarting]], [[Need-Frustration]], [[Eudaimonic Well-being]]
+- Core concepts to wiki-link: [[Autonomy]], [[Competence]], [[Relatedness]], [[Basic-Psychological-Needs]], [[Need-Satisfaction]], [[Need-Thwarting]], [[Need-Frustration]], [[Eudaimonic-Well-Being]]
 - Recommended tags: #basic-needs #theoretical-foundations #psychological-nutrients
 - Connection points: Links to [[Well-being]], [[Human Flourishing]], [[Psychological Development]], [[Cross-Cultural-Psychology]]
 
@@ -305,7 +305,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Self-Regulation Questionnaire]], [[Basic Psychological Need Satisfaction Scale]], [[Intrinsic Motivation Inventory]], [[Meta-Analysis]], [[Experimental-Design]], [[Longitudinal Studies]], [[Need Satisfaction Measurement]]
 - Recommended tags: #empirical-evidence #research-methods #measurement #validity
-- Connection points: Links to [[Research Methodology]], [[Psychometrics]], [[Validity]], [[Evidence-Based Practice]]
+- Connection points: Links to [[Research Methodology]], [[Psychometrics]], [[Validity]], [[Evidence-Based-Practice]]
 
 **Prerequisites**: Topics 1-4
 
@@ -330,7 +330,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. How are behavior change technologies being designed using SDT principles, and what challenges arise?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Autonomy-Supportive Teaching]], [[Controlling Teaching Style]], [[Job Characteristics Model]], [[Intrinsic Work Motivation]], [[Health Behavior Change]], [[Behavior Change Technologies]], [[Human-Computer Interaction]], [[Gamification]], [[Persuasive Technology]]
+- Core concepts to wiki-link: [[Autonomy-Supportive-Teaching]], [[Controlling Teaching Style]], [[Job Characteristics Model]], [[Intrinsic Work Motivation]], [[Health Behavior Change]], [[Behavior Change Technologies]], [[Human-Computer-Interaction]], [[Gamification]], [[Persuasive-Technology]]
 - Recommended tags: #applied-sdt #education #organizational-psychology #health-psychology #hci
 - Connection points: Links to [[Educational Design]], [[Leadership]], [[Instructional-Design]], [[Public Health]], [[UX Design]]
 
@@ -356,7 +356,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. What critiques have been leveled against SDT, and how have Deci and Ryan responded?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Goal-Setting-Theory]], [[Achievement-Goal-Theory]], [[Expectancy-Value-Theory]], [[Flow-Theory]], [[Behaviorism]], [[Social Cognitive Theory]], [[Humanistic-Psychology]], [[Maslow's Hierarchy of Needs]], [[Drive Theory]]
+- Core concepts to wiki-link: [[Goal-Setting-Theory]], [[Achievement-Goal-Theory]], [[Expectancy-Value-Theory]], [[Flow-Theory]], [[Behaviorism]], [[Social Cognitive Theory]], [[Humanistic-Psychology]], [[Maslow's-Hierarchy-of-Needs]], [[Drive Theory]]
 - Recommended tags: #theoretical-comparison #dialectical-analysis #motivation-theories
 - Connection points: Links to [[Comparative Psychology]], [[Theoretical Integration]], [[philosophy-of-science]]
 
@@ -507,7 +507,7 @@ Generate a comprehensive academic report on the Three Basic Psychological Needs 
 
 4. **Explores Interactive Effects**: How do the three needs work together? Are they additive or multiplicative? What happens when some needs are satisfied and others thwarted?
 
-5. **Includes PKB Capture Guidance**: Identify concepts for wiki-linking ([[Autonomy]], [[Competence]], [[Relatedness]], [[Eudaimonic Well-being]], [[Need-Satisfaction]], [[Need-Thwarting]], etc.), suggest tags (#basic-needs, #foundational-concepts), and connection points
+5. **Includes PKB Capture Guidance**: Identify concepts for wiki-linking ([[Autonomy]], [[Competence]], [[Relatedness]], [[Eudaimonic-Well-Being]], [[Need-Satisfaction]], [[Need-Thwarting]], etc.), suggest tags (#basic-needs, #foundational-concepts), and connection points
 
 6. **Provides Real-World Examples**: Concrete scenarios showing each need in action across life domains (education, work, relationships, health)
 
@@ -714,7 +714,7 @@ The report should:
 2. **[[Autonomy Support in Educational Design - Practical Applications]]**
    - *Connection*: Translates SDT's autonomy concept into concrete instructional design principles
    - *Depth Potential*: Examining specific teaching practices, classroom structures, and assessment designs that support vs. thwart autonomy
-   - *Knowledge Graph Role*: Connects SDT to [[Instructional-Design]], [[pedagogy]], and [[Educational Technology]] domains
+   - *Knowledge Graph Role*: Connects SDT to [[Instructional-Design]], [[pedagogy]], and [[Educational-Technology]] domains
 
 3. **[[Cultural Variations in Basic Psychological Needs - The Universality Debate]]**
    - *Connection*: Addresses one of the most significant theoretical debates in SDT regarding cross-cultural applicability

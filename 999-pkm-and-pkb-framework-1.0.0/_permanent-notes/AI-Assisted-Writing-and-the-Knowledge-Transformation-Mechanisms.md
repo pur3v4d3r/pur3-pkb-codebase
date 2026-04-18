@@ -82,4 +82,4 @@ importance: medium
 - [[The-Friction-Architecture-of-Learning-Through-Writing]]
 - [[The-Generation-Effect]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

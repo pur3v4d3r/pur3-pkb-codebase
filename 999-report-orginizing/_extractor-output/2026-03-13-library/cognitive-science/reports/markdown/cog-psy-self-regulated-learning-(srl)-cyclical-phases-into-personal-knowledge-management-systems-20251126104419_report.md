@@ -337,7 +337,7 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[Systems Theory]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Transfer Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Winne and Hadwin COPES]]
@@ -369,7 +369,7 @@ extraction_summary:
 | 16 | [[Motivation]] | — | — | Claude Thinking: | 116 |
 | 17 | [[Executive-Function|Executive Function]] | — | — | Claude Thinking: | 116 |
 | 18 | [[Cybernetics]] | — | — | Claude Thinking: | 116 |
-| 19 | [[Systems Thinking]] | — | — | Claude Thinking: | 116 |
+| 19 | [[Systems-Thinking|Systems Thinking]] | — | — | Claude Thinking: | 116 |
 | 20 | [[Zettelkasten]] | — | — | Claude Thinking: | 116 |
 | 21 | [[Obsidian]] | — | — | Claude Thinking: | 116 |
 | 22 | [[Knowledge-Graph|Knowledge Graph]] | — | — | Claude Thinking: | 116 |
@@ -519,7 +519,7 @@ extraction_summary:
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Strategic-Planning|Strategic Planning]]
 - [[Systems Theory]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Transfer Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Winne and Hadwin COPES]]

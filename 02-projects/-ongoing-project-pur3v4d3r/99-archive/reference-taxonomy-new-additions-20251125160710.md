@@ -894,7 +894,7 @@ Wiki-Link Opportunities:
 - [[PARA-Method]]
 - [[GTD]]
 - [[Spaced-Repetition]]
-- [[Active Recall]]
+- [[Active-Recall]]
 - [[Working-Memory]]
 - [[Executive-Function]]
 - [[Cognitive-Load-Theory]]
@@ -949,9 +949,9 @@ Cognitive science is interdisciplinary. To avoid a cluttered graph, we must orga
 These tags categorize notes based on *what function* the brain/mind is performing.
 
   * **`#cog-sci/perception`**: For sensory processing, signal detection theory, and phenomenology.
-      * *Use for:* [[Visual Cortex]], [[Auditory Processing]], [[Proprioception]].
+      * *Use for:* [[Visual Cortex]], [[Auditory-Processing]], [[Proprioception]].
   * **`#cog-sci/memory`**: The storage and retrieval mechanisms.
-      * *Use for:* [[Long-Term Potentiation]], [[Working-Memory]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]].
+      * *Use for:* [[Long-Term-Potentiation]], [[Working-Memory]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]].
   * **`#cog-sci/attention`**: The allocation of cognitive resources.
       * *Use for:* [[Selective-Attention]], [[Flow-State]], [[Attentional Blink]].
   * **`#cog-sci/learning`**: The acquisition of knowledge and skills.
@@ -1134,7 +1134,7 @@ This hierarchy covers the biological "hardware," the psychological "software," a
 
   * **`#cognition`**: General mental action/process.
       * **`#cognition/memory`**: Encoding, storage, retrieval.
-          * *Related*: [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active Recall]].
+          * *Related*: [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active-Recall]].
       * **`#cognition/attention`**: Focus, flow states, distraction.
       * **`#cognition/perception`**: How we interpret sensory data.
       * **`#cognition/metacognition`**: Thinking about thinking (monitoring one's own learning).

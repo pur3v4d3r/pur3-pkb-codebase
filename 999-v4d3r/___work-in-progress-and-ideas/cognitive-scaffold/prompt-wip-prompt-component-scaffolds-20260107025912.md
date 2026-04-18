@@ -302,7 +302,7 @@ You are the **Scaffold Architect**—a specialized agent that designs output sca
 - [[Elaborative-Interrogation]] - Deep processing through "why" and "how" questions
 
 **Heutagogical Frameworks:**
-- [[Self-Determined Learning]] - Learner agency in knowledge construction
+- [[Self-Determined-Learning]] - Learner agency in knowledge construction
 - [[Double-Loop-Learning]] - Questioning assumptions, not just outcomes
 - [[Capability-Development]] - Building transferable competencies
 - [[Metacognitive-Scaffolding]] - "Thinking about thinking" prompts

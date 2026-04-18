@@ -451,7 +451,7 @@ extraction_summary:
 - [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]
 - [[Forward Simulation]]
 - [[Good Judgment Project]]
-- [[Heuristics and Biases]]
+- [[Heuristics-and-Biases|Heuristics and Biases]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Mental-Simulation|Mental Simulation]]
 - [[Metacognition]]
@@ -465,7 +465,7 @@ extraction_summary:
 - [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Organizational Decision Architecture]]
 - [[Outside View]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Planning Fallacy]]
 - [[Post-Mortem Analysis]]
 - [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]
@@ -505,7 +505,7 @@ extraction_summary:
 | 14 | [[Decision Journal]] | decision journaling protocols | — | 1.0 📜 INTRODUCTION | 48 |
 | 15 | [[Algorithmic Reasoning Aid]] | algorithmic reasoning aids | — | 1.0 📜 INTRODUCTION | 48 |
 | 16 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
-| 17 | [[Heuristics and Biases]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
+| 17 | [[Heuristics-and-Biases|Heuristics and Biases]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
 | 18 | [[Metacognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 58 |
 | 19 | [[Bounded-Rationality|Bounded Rationality]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 60 |
 | 20 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 62 |
@@ -516,7 +516,7 @@ extraction_summary:
 | 25 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
 | 26 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 69 |
 | 27 | [[Naturalistic-Decision-Making|Naturalistic Decision Making]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
-| 28 | [[Pattern Recognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
+| 28 | [[Pattern-Recognition|Pattern Recognition]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 29 | [[Mental-Simulation|Mental Simulation]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 30 | [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
 | 31 | [[Soldier Mindset]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
@@ -696,7 +696,7 @@ Let me conduct comprehensive web research first.
 - [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]]
 - [[Forward Simulation]]
 - [[Good Judgment Project]]
-- [[Heuristics and Biases]]
+- [[Heuristics-and-Biases|Heuristics and Biases]]
 - [[Hindsight-Bias|Hindsight Bias]]
 - [[Mental-Simulation|Mental Simulation]]
 - [[Metacognition]]
@@ -710,7 +710,7 @@ Let me conduct comprehensive web research first.
 - [[Naturalistic-Decision-Making|Naturalistic Decision Making]]
 - [[Organizational Decision Architecture]]
 - [[Outside View]]
-- [[Pattern Recognition]]
+- [[Pattern-Recognition|Pattern Recognition]]
 - [[Planning Fallacy]]
 - [[Post-Mortem Analysis]]
 - [[Pre-Mortem-Analysis|Pre-Mortem Analysis]]

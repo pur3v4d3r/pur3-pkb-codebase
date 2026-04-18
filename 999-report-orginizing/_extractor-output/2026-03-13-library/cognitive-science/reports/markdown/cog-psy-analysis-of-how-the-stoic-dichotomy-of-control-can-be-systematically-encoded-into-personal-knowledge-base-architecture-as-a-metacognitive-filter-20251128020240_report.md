@@ -175,7 +175,7 @@ extraction_summary:
 > [!the-philosophy] Untitled
 > **Core Stoic Epistemic Framework**
 > 
-> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron Beck]] founded [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working-Memory|Working Memory]] resources on variables immune to volitional influence.
+> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron-Beck|Aaron Beck]] founded [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working-Memory|Working Memory]] resources on variables immune to volitional influence.
 
 #### 5. [EVIDENCE] Untitled *(Line 249)*
 
@@ -540,7 +540,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Acceptance and Commitment Therapy Integration with PKM]]
 - [[Action Possibilities]]
 - [[Agency]]
@@ -672,7 +672,7 @@ extraction_summary:
 | 52 | [[Emotional-Regulation|Emotional Regulation]] | emotional responses | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 53 | [[Agency]] | psychological agency | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 54 | [[Albert Ellis]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
-| 55 | [[Aaron Beck]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
+| 55 | [[Aaron-Beck|Aaron Beck]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 56 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 57 | [[Working-Memory|Working Memory]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 58 | [[Metacognitive]] | — | — | 📜 Historical Foundations: The Stoic O... | 239 |
@@ -915,7 +915,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Acceptance and Commitment Therapy Integration with PKM]]
 - [[Action Possibilities]]
 - [[Agency]]

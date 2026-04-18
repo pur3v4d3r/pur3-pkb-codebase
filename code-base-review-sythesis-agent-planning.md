@@ -424,7 +424,7 @@ related:
   - "[[Dual-Process-Theory]]"
   - "[[Cognitive-Load-Theory]]"
   - "[[Argument-Analysis]]"
-  - "[[Decision Making Under Uncertainty]]"
+  - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific-Reasoning]]"
   - "[[Transfer-of-Learning]]"
@@ -470,7 +470,7 @@ applied-in:
   - "[[Academic Research]]"
   - "[[Strategic-Planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based Practice]]"
+  - "[[Evidence-Based-Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS

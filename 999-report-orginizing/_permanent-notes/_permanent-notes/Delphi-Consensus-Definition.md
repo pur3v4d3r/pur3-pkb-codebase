@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -187,6 +187,14 @@ importance: medium
 
 **Related concepts:**
 [[Socrates]] · [[Socratic-Method|Socratic Method]] · [[Robert-Ennis|Robert Ennis]] · [[Diane-Halpern|Diane Halpern]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] · [[Kuhn-and-Dean|Kuhn and Dean]] · [[Scientific-Method|Scientific Method]] · [[Argument-Analysis|Argument Analysis]] · [[Paul-and-Elder|Paul and Elder]] · [[John-Flavell|John Flavell]] · [[Dunning-and-Kruger|Dunning and Kruger]] · [[McPeck]] · [[Ennis]] · [[Keith-Stanovich|Keith Stanovich]] · [[Myside-Bias|Myside Bias]] · [[Anchoring-Effects|Anchoring Effects]] · [[Confirmation-Bias|Confirmation Bias]] · [[Glaser]] · [[Newell-and-Simon|Newell and Simon]] · [[Epistemology]] · [[Empiricism]] · [[Rationalism]] · [[Fallibilism]] · [[Susan-Haack|Susan Haack]] · [[Information-Processing-Theory|Information Processing Theory]] · [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] · [[Cowan]] · [[Alan-Baddeley|Alan Baddeley]] · [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Related concepts** *(from [[cog-psy-foundational-critical-thinking]])*:
+[[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Newell-and-Simon|Newell and Simon]] * [[Susan-Haack|Susan Haack]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] * [[Alan-Baddeley|Alan Baddeley]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Modus-Ponens|Modus Ponens]] * [[Miyake-and-Friedman|Miyake and Friedman]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Bat-and-Ball-Problem|Bat-and-Ball Problem]] * [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] * [[Larkin-and-Simon|Larkin and Simon]]
+
+**Related concepts** *(from [[cog-psy-foundational-critical-thinking]])*:
+[[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Newell-and-Simon|Newell and Simon]] * [[Susan-Haack|Susan Haack]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] * [[Alan-Baddeley|Alan Baddeley]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Modus-Ponens|Modus Ponens]] * [[Miyake-and-Friedman|Miyake and Friedman]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Bat-and-Ball-Problem|Bat-and-Ball Problem]] * [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] * [[Larkin-and-Simon|Larkin and Simon]]
+
+
 
 ## Methodology Notes
 

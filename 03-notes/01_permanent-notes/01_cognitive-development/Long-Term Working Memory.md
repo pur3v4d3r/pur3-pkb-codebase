@@ -29,7 +29,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Long-Term Working Memory]]
+> - **Key-Term**:[[Long-Term-Working-Memory]]
 > - [**Definition**:expert performance relies on the construction of specialized [[Retrieval Structures]] in long-term memory that function analogously to working memory.]
 > - [Developed by:[[K. Anders Ericsson]] and [[Walter-Kintsch]]]
 

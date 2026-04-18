@@ -2134,7 +2134,7 @@ def got_with_self_consistency(problem: str, perspectives: List[str],
 
 **GoT applies to domains:**
 
-- **[[Legal Reasoning]]**: Case analysis with precedent integration
+- **[[Legal-Reasoning]]**: Case analysis with precedent integration
   - **Adaptation**: Thoughts = legal arguments; Aggregate = synthesize case law; Refine = address counterarguments
   - **Example**: Analyze statute → Analyze relevant precedents → Compare precedent interpretations → Synthesize legal position
 

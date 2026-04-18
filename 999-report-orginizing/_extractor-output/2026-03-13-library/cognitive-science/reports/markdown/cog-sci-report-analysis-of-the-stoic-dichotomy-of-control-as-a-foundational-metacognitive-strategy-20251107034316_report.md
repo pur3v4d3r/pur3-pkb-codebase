@@ -462,7 +462,7 @@ extraction_summary:
 - [[adaptive coping]]
 - [[attentional control]]
 - [[attentional focus]]
-- [[causal attribution]]
+- [[Causal-Attribution|causal attribution]]
 - [[causal attributions]]
 - [[cognitive appraisal]]
 - [[cognitive distancing technique]]
@@ -513,7 +513,7 @@ extraction_summary:
 | 19 | [[Stoic Dichotomy of Control]] | — | — | 1.0 📜 Introduction | 54 |
 | 20 | [[cognitive reframing]] | — | — | 1.0 📜 Introduction | 54 |
 | 21 | [[attentional control]] | — | — | 1.0 📜 Introduction | 54 |
-| 22 | [[causal attribution]] | — | — | 1.0 📜 Introduction | 54 |
+| 22 | [[Causal-Attribution|causal attribution]] | — | — | 1.0 📜 Introduction | 54 |
 | 23 | [[values-based action]] | — | — | 1.0 📜 Introduction | 54 |
 | 24 | [[stress resistance]] | — | — | 1.0 📜 Introduction | 62 |
 | 25 | [[adaptive coping]] | — | — | 1.0 📜 Introduction | 62 |
@@ -692,7 +692,7 @@ I'll create a comprehensive academic article on the Stoic Dichotomy of Control. 
 - [[adaptive coping]]
 - [[attentional control]]
 - [[attentional focus]]
-- [[causal attribution]]
+- [[Causal-Attribution|causal attribution]]
 - [[causal attributions]]
 - [[cognitive appraisal]]
 - [[cognitive distancing technique]]

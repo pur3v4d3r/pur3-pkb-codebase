@@ -470,7 +470,7 @@ extraction_summary:
 - [[Keith-Holyoak|Keith Holyoak]]
 - [[Keith-Stanovich|Keith Stanovich]]
 - [[Lance-Rips|Lance Rips]]
-- [[Legal reasoning]]
+- [[Legal-Reasoning|Legal reasoning]]
 - [[Luria]]
 - [[Martin-Braine|Martin Braine]]
 - [[Mathematical Proof in Secondary Education]]
@@ -563,7 +563,7 @@ extraction_summary:
 | 53 | [[Modus-Tollens|modus tollens]] | — | — | Deductive Reasoning in Science Education | 451 |
 | 54 | [[Karl-Popper|Karl Popper]] | — | — | Deductive Reasoning in Science Education | 451 |
 | 55 | [[Falsificationism]] | — | — | Deductive Reasoning in Science Education | 451 |
-| 56 | [[Legal reasoning]] | — | — | Deductive Reasoning in Legal and Argu... | 458 |
+| 56 | [[Legal-Reasoning|Legal reasoning]] | — | — | Deductive Reasoning in Legal and Argu... | 458 |
 | 57 | [[Argumentation]] | — | — | Deductive Reasoning in Legal and Argu... | 460 |
 | 58 | [[Luria]] | — | — | Limitations and Boundaries of Current... | 476 |
 | 59 | [[Metacognition]] | — | — | The Deep Pattern: Structure, Content,... | 496 |
@@ -624,7 +624,7 @@ extraction_summary:
 - [[Keith-Holyoak|Keith Holyoak]]
 - [[Keith-Stanovich|Keith Stanovich]]
 - [[Lance-Rips|Lance Rips]]
-- [[Legal reasoning]]
+- [[Legal-Reasoning|Legal reasoning]]
 - [[Luria]]
 - [[Martin-Braine|Martin Braine]]
 - [[Mathematical Proof in Secondary Education]]
@@ -705,7 +705,7 @@ extraction_summary:
 #### Applied In
 
 - [[Mathematics Education]]
-- [[Legal Reasoning]]
+- [[Legal-Reasoning|Legal Reasoning]]
 - [[Scientific-Method|Scientific Method]]
 - [[Formal Argumentation]]
 - [[Computer Science Education]]

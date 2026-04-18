@@ -36,8 +36,8 @@ Beyond visual appeal, a smart note is designed for deep functionality and seamle
     *   `updated`: The date the note was last modified (e.g., `updated: 2025-09-23`).
     *   `status`: (Optional) Indicates the note's current state (e.g., `status: [Draft, Refined, Evergreen]`).
 *   **Contextual Linking:** This is the lifeblood of an interconnected PKM system. Instead of merely dropping a link, integrate it naturally into a sentence that explains *why* the link is relevant. This provides immediate context and guides your future self (or others) on the relationship between ideas.
-    *   **Poor Example:** "Read more about Zettelkasten." [[Zettelkasten Method]]
-    *   **Good Example:** "The concept of the atomic note is a foundational principle of the [[Zettelkasten Method]], emphasizing that each note should contain only one idea."
+    *   **Poor Example:** "Read more about Zettelkasten." [[Zettelkasten-Method]]
+    *   **Good Example:** "The concept of the atomic note is a foundational principle of the [[Zettelkasten-Method]], emphasizing that each note should contain only one idea."
 *   **The "Related Notes" Section:** Typically placed at the bottom of the note, this section serves as a curated discovery tool. It's a manual, intentional list of other notes that are highly relevant, but perhaps not directly linked within the body text. This section helps you proactively build connections and explore adjacent ideas, acting as a personal recommendation engine for your knowledge.
 
 #### 4. The Universal Note Template

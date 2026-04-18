@@ -107,7 +107,7 @@ This multidisciplinary approach represented a departure from the increasing spec
 
 ## The Zettelkasten Tradition and Networked Thinking
 
-Parallel to the development of mental models as a decision-making framework, another tradition was evolving around the question of how to organize and leverage accumulated knowledge: the practice of systematic note-taking and knowledge management. The most sophisticated expression of this tradition is the [[Zettelkasten Method]], developed and refined by German sociologist Niklas Luhmann over the course of his remarkably productive career.
+Parallel to the development of mental models as a decision-making framework, another tradition was evolving around the question of how to organize and leverage accumulated knowledge: the practice of systematic note-taking and knowledge management. The most sophisticated expression of this tradition is the [[Zettelkasten-Method]], developed and refined by German sociologist Niklas Luhmann over the course of his remarkably productive career.
 
 Luhmann's achievement is staggering by any measure: he produced over 70 books and more than 400 scholarly articles, covering topics from social systems theory to law, economics, and media theory.[^7] He attributed much of this productivity to his Zettelkasten—a system of index cards, eventually numbering over 90,000, organized not hierarchically but through a sophisticated system of internal links and references. Each note was atomic (containing a single idea), connected to related notes through explicit links, and indexed for retrieval.
 

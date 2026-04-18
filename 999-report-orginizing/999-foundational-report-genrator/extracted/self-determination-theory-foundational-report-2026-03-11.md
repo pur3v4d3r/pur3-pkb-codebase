@@ -234,7 +234,7 @@ A second crucial tributary is the humanistic psychology of [[Carl-Rogers|Carl Ro
 
 The developmental work of [[Jean-Piaget|Jean Piaget]] contributes a third strand: the concept of [[Assimilation]] and accommodation as inherent tendencies through which organisms actively seek out environmental complexity at the edge of their current competence. Piaget's constructivist epistemology implies an intrinsically motivated learner who finds moderate challenge rewarding in itself — a view entirely compatible with SDT's later theorisation of competence need satisfaction.
 
-Finally, [[Richard deCharms]]' concept of [[Personal Causation]] introduced the distinction between perceiving oneself as the [[Origin]] of one's behaviour (choosing and initiating action) versus as a [[Pawn]] (caused by external forces). This locus of causality distinction became central to SDT's account of why rewards and controls are so often motivationally corrosive.
+Finally, [[Richard deCharms]]' concept of [[Personal-Causation|Personal Causation]] introduced the distinction between perceiving oneself as the [[Origin]] of one's behaviour (choosing and initiating action) versus as a [[Pawn]] (caused by external forces). This locus of causality distinction became central to SDT's account of why rewards and controls are so often motivationally corrosive.
 
 ### Core Definitions
 
@@ -423,7 +423,7 @@ Relatedness thwarting — social exclusion, conditional regard, interpersonal ho
 
 ### SDT in Educational Contexts
 
-The educational application of SDT is the most thoroughly developed of any application domain, with multiple decades of classroom-based research, several large-scale intervention studies, and extensive work on [[Autonomy-Supportive Teaching]] as a trainable instructor competency. The core prediction is that teachers who adopt an autonomy-supportive instructional style — providing meaningful rationale, acknowledging student perspectives, using informational feedback, and minimising controlling language and evaluative pressure — reliably produce superior motivational and learning outcomes compared to teachers who adopt a controlling style.
+The educational application of SDT is the most thoroughly developed of any application domain, with multiple decades of classroom-based research, several large-scale intervention studies, and extensive work on [[Autonomy-Supportive-Teaching|Autonomy-Supportive Teaching]] as a trainable instructor competency. The core prediction is that teachers who adopt an autonomy-supportive instructional style — providing meaningful rationale, acknowledging student perspectives, using informational feedback, and minimising controlling language and evaluative pressure — reliably produce superior motivational and learning outcomes compared to teachers who adopt a controlling style.
 
 [[Johnmarshall Reeve]] and colleagues have conducted perhaps the most systematic programme of research on autonomy-supportive teaching, including intervention studies in which teachers are trained to shift from controlling to autonomy-supportive practices, with resulting improvements in student engagement, intrinsic motivation, and conceptual understanding. The meta-analytic evidence, synthesised by [[Patall et al.]] and others, finds consistent positive effects of perceived autonomy support on academic motivation and engagement, though effect sizes are modest (d ~ 0.3-0.4 in many studies) and vary considerably with context and measurement.
 

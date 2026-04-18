@@ -456,11 +456,11 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Emotion-Concepts|Emotion Concepts]]
 - [[Emotion-Differentiation|Emotion Differentiation]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation|Emotion Regulation]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
 - [[Emotional-Intelligence|Emotional Intelligence]]
-- [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
+- [[Erbas,-Ceulemans,-Lee-Pe,-Koval,-and-Kuppens|Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
 - [[Eupatheia]]
 - [[Galen]]
 - [[Gerald-Clore|Gerald Clore]]
@@ -536,8 +536,8 @@ extraction_summary:
 | 37 | [[Emotional-Granularity|Emotional Granularity]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
 | 38 | [[Emotion-Differentiation|Emotion Differentiation]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
 | 39 | [[O'Toole,-Bovard-Abbo,-and-Weightman|O'Toole, Bovard-Abbo, and Weightman]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
-| 40 | [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
-| 41 | [[Emotion Regulation]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
+| 40 | [[Erbas,-Ceulemans,-Lee-Pe,-Koval,-and-Kuppens|Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
+| 41 | [[Emotion-Regulation|Emotion Regulation]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
 | 42 | [[Affect-as-Information-Theory|Affect-as-Information Theory]] | — | — | 3.1 The Master Tension: Information v... | 370 |
 | 43 | [[Kahneman]] | — | — | 3.1 The Master Tension: Information v... | 370 |
 | 44 | [[Tversky]] | — | — | 3.1 The Master Tension: Information v... | 370 |
@@ -607,11 +607,11 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Emotion-Concepts|Emotion Concepts]]
 - [[Emotion-Differentiation|Emotion Differentiation]]
-- [[Emotion Regulation]]
+- [[Emotion-Regulation|Emotion Regulation]]
 - [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
 - [[Emotional-Intelligence|Emotional Intelligence]]
-- [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
+- [[Erbas,-Ceulemans,-Lee-Pe,-Koval,-and-Kuppens|Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
 - [[Eupatheia]]
 - [[Galen]]
 - [[Gerald-Clore|Gerald Clore]]

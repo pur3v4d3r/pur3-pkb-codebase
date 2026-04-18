@@ -208,7 +208,7 @@ extraction_summary:
 - [[Assimilation]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
-- [[Cognitive Constructivism]]
+- [[Cognitive-Constructivism|Cognitive Constructivism]]
 - [[Cognitive Flexibility]]
 - [[Cognitive Reframing]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
@@ -270,7 +270,7 @@ extraction_summary:
 | 21 | [[Jean-Piaget|Jean Piaget]] | — | — | The Constructivist Revolution: Knowle... | 87 |
 | 22 | [[Lev-Vygotsky|Lev Vygotsky]] | — | — | The Constructivist Revolution: Knowle... | 87 |
 | 23 | [[John-Dewey|John Dewey]] | — | — | The Constructivist Revolution: Knowle... | 87 |
-| 24 | [[Cognitive Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 89 |
+| 24 | [[Cognitive-Constructivism|Cognitive Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 89 |
 | 25 | [[Assimilation]] | — | — | The Constructivist Revolution: Knowle... | 89 |
 | 26 | [[Accommodation]] | — | — | The Constructivist Revolution: Knowle... | 89 |
 | 27 | [[Social-Constructivism|Social Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 91 |
@@ -415,7 +415,7 @@ This will require a sophisticated structure:
 - [[Assimilation]]
 - [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
-- [[Cognitive Constructivism]]
+- [[Cognitive-Constructivism|Cognitive Constructivism]]
 - [[Cognitive Flexibility]]
 - [[Cognitive Reframing]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]

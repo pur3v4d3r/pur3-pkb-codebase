@@ -57,7 +57,7 @@ aliases:
 > "Be able to identify [N] non-obvious implications of [claim], at least one of which applies to [specific domain/practice]."
 
 **Connection-level:**
-> "Be able to articulate how [concept from this text] relates to [[specific PKB note]], including where they align and where they create tension."
+> "Be able to articulate how [concept from this text] relates to [[specific-PKB-note]], including where they align and where they create tension."
 
 **Example-generation level:**
 > "Be able to generate [N] original examples of [concept], including at least one from a domain different from the text's primary application."
@@ -175,7 +175,7 @@ A high-quality adaptive inference is:
 |---|---|
 | "Be more focused" | "Set a 25-minute timer and do a [[self-explanation]] at each section break" |
 | "Read more carefully" | "Use [[Elaborative-Interrogation]] on mechanism sections by asking 'why does this work?'" |
-| "Prepare better" | "Review [[specific PKB note]] before the session to activate relevant schema" |
+| "Prepare better" | "Review [[specific-PKB-note]] before the session to activate relevant schema" |
 | "Take more time" | "Reduce scope to sections 1-3 only, saving sections 4-5 for a separate session" |
 | "Try harder" | "Add process goal: write one connection to existing PKB knowledge per section" |
 

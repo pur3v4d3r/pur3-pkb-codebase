@@ -128,12 +128,12 @@ extraction_summary:
     - ### 🔗 Related Topics for PKB Expansion
       - #### Core Extensions
         - ##### 1. **[[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]**
-        - ##### 2. **[[Templater Plugin Advanced Patterns]]**
+        - ##### 2. **[[Templater-Plugin-Advanced-Patterns|Templater Plugin Advanced Patterns]]**
       - #### Cross-Domain Connections
-        - ##### 3. **[[Cognitive Load Theory and PKB Design]]**
-        - ##### 4. **[[API Cost Optimization Strategies]]**
+        - ##### 3. **[[Cognitive-Load-Theory-and-PKB-Design|Cognitive Load Theory and PKB Design]]**
+        - ##### 4. **[[API-Cost-Optimization-Strategies|API Cost Optimization Strategies]]**
       - #### Advanced Deep Dives
-        - ##### 5. **[[Building Custom AI Agents in Obsidian]]** *[Requires prerequisites]*
+        - ##### 5. **[[Building-Custom-AI-Agents-in-Obsidian|Building Custom AI Agents in Obsidian]]** *[Requires prerequisites]*
         - ##### 6. **[[Semantic Search Architecture for PKB]]** *[Requires prerequisites]*
   - ## 📊 Metadata & Attribution
   - ## 🔄 Version History
@@ -592,11 +592,11 @@ extraction_summary:
 - [[AI-Embeddings|AI Embeddings]]
 - [[API]]
 - [[API Concepts]]
-- [[API Cost Optimization Strategies]]
+- [[API-Cost-Optimization-Strategies|API Cost Optimization Strategies]]
 - [[Anthropic]]
 - [[Anthropic-API|Anthropic API]]
 - [[Anthropic-Claude|Anthropic Claude]]
-- [[Building Custom AI Agents in Obsidian]]
+- [[Building-Custom-AI-Agents-in-Obsidian|Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
 - [[Claude]]
 - [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]]
@@ -605,7 +605,7 @@ extraction_summary:
 - [[Claude.ai]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Load Theory and PKB Design]]
+- [[Cognitive-Load-Theory-and-PKB-Design|Cognitive Load Theory and PKB Design]]
 - [[Dataview]]
 - [[Google]]
 - [[Google-Gemini|Google Gemini]]
@@ -631,7 +631,7 @@ extraction_summary:
 - [[Template-Engineering|Template Engineering]]
 - [[Template-System|Template System]]
 - [[Templater]]
-- [[Templater Plugin Advanced Patterns]]
+- [[Templater-Plugin-Advanced-Patterns|Templater Plugin Advanced Patterns]]
 - [[Text-Generator-Plugin|Text Generator Plugin]]
 - [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]
 - [[Tokens]]
@@ -720,12 +720,12 @@ extraction_summary:
 | 72 | [[<%= note.basename %>]] | — | — | Component 2: Knowledge Base → Smart C... | 1418 |
 | 73 | [[wiki-links]] | — | — | Output Requirements | 1572 |
 | 74 | [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] | — | — | 1. **[[Prompt Engineering Fundamental... | 1838 |
-| 75 | [[Templater Plugin Advanced Patterns]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1845 |
+| 75 | [[Templater-Plugin-Advanced-Patterns|Templater Plugin Advanced Patterns]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1845 |
 | 76 | [[Obsidian-Basics|Obsidian Basics]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1850 |
-| 77 | [[Cognitive Load Theory and PKB Design]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1856 |
+| 77 | [[Cognitive-Load-Theory-and-PKB-Design|Cognitive Load Theory and PKB Design]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1856 |
 | 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1861 |
-| 79 | [[API Cost Optimization Strategies]] | — | — | 4. **[[API Cost Optimization Strategi... | 1863 |
-| 80 | [[Building Custom AI Agents in Obsidian]] | — | — | 5. **[[Building Custom AI Agents in O... | 1874 |
+| 79 | [[API-Cost-Optimization-Strategies|API Cost Optimization Strategies]] | — | — | 4. **[[API Cost Optimization Strategi... | 1863 |
+| 80 | [[Building-Custom-AI-Agents-in-Obsidian|Building Custom AI Agents in Obsidian]] | — | — | 5. **[[Building Custom AI Agents in O... | 1874 |
 | 81 | [[Text-Generator-Plugin|Text Generator Plugin]] | — | — | 5. **[[Building Custom AI Agents in O... | 1879 |
 | 82 | [[Smart-Connections|Smart Connections]] | — | — | 5. **[[Building Custom AI Agents in O... | 1879 |
 | 83 | [[Semantic Search Architecture for PKB]] | — | — | 6. **[[Semantic Search Architecture f... | 1881 |
@@ -2009,11 +2009,11 @@ $$
 - [[AI-Embeddings|AI Embeddings]]
 - [[API]]
 - [[API Concepts]]
-- [[API Cost Optimization Strategies]]
+- [[API-Cost-Optimization-Strategies|API Cost Optimization Strategies]]
 - [[Anthropic]]
 - [[Anthropic-API|Anthropic API]]
 - [[Anthropic-Claude|Anthropic Claude]]
-- [[Building Custom AI Agents in Obsidian]]
+- [[Building-Custom-AI-Agents-in-Obsidian|Building Custom AI Agents in Obsidian]]
 - [[ChatGPT]]
 - [[Claude]]
 - [[Claude-3.5-Sonnet|Claude 3.5 Sonnet]]
@@ -2022,7 +2022,7 @@ $$
 - [[Claude.ai]]
 - [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive Load Theory and PKB Design]]
+- [[Cognitive-Load-Theory-and-PKB-Design|Cognitive Load Theory and PKB Design]]
 - [[Dataview]]
 - [[Google]]
 - [[Google-Gemini|Google Gemini]]
@@ -2048,7 +2048,7 @@ $$
 - [[Template-Engineering|Template Engineering]]
 - [[Template-System|Template System]]
 - [[Templater]]
-- [[Templater Plugin Advanced Patterns]]
+- [[Templater-Plugin-Advanced-Patterns|Templater Plugin Advanced Patterns]]
 - [[Text-Generator-Plugin|Text Generator Plugin]]
 - [[Text-Generator-Plugin-Complete-API-Interface-Reference|Text Generator Plugin: Complete API Interface Reference]]
 - [[Tokens]]

@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,16 +78,11 @@ see-also:
   - "[[Obsidian-Basics|Obsidian Basics]]"
   - "[[Community-Plugins|Community Plugins]]"
   - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
-  - "[[Obsidian]]"
   - "[[Excalidraw]]"
   - "[[MarkMind]]"
-  - "[[Visual-Thinking|Visual Thinking]]"
-  - "[[PKM]]"
-  - "[[Obsidian]]"
   - "[[Zsolt-Viczian|Zsolt Viczian]]"
   - "[[ExcaliBrain]]"
   - "[[Visual-PKM|Visual PKM]]"
-  - "[[Obsidian]]"
   - "[[Markdown]]"
   - "[[LaTeX]]"
 
@@ -186,6 +181,14 @@ importance: medium
 
 **Related concepts:**
 [[Obsidian]] · [[Visual-Thinking|Visual Thinking]] · [[Knowledge-Visualization|Knowledge Visualization]] · [[Mind-Mapping|Mind Mapping]] · [[PKM]] · [[Obsidian-Basics|Obsidian Basics]] · [[Community-Plugins|Community Plugins]] · [[Markdown-Fundamentals|Markdown Fundamentals]] · [[Obsidian]] · [[Excalidraw]] · [[MarkMind]] · [[Visual-Thinking|Visual Thinking]] · [[PKM]] · [[Obsidian]] · [[Zsolt-Viczian|Zsolt Viczian]] · [[ExcaliBrain]] · [[Visual-PKM|Visual PKM]] · [[Obsidian]] · [[Markdown]] · [[LaTeX]] · [[Obsidian]] · [[Visual-PKM|Visual PKM]] · [[Note-Name|Note Name]] · [[Note-Name|Note Name]] · [[wiki-links]] · [[Obsidian]] · [[Templater]] · [[QuickAdd]] · [[JavaScript-Basics|JavaScript Basics]] · [[Related-Note|Related Note]]
+
+**Related concepts** *(from [[reference-comprehensive-excalidraw-and-markmind-2025121812]])*:
+[[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Mind-Mapping|Mind Mapping]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[Visual-PKM|Visual PKM]] * [[Note-Name|Note Name]] * [[JavaScript-Basics|JavaScript Basics]] * [[Related-Note|Related Note]] * [[Domain|Domain]] * [[Subtopic-A|Subtopic A]] * [[Subtopic-B|Subtopic B]] * [[Concept-Name|Concept Name]] * [[Related-Concept|Related Concept]] * [[Task-1|Task 1]] * [[Task-2|Task 2]] * [[Task-3|Task 3]] * [[Tasks|Tasks]] * [[outlining|outlining]] * [[PDF-annotation|PDF annotation]] * [[PDF-Name|PDF Name]] * [[Paper-Title|Paper Title]] * [[Established-Theory|Established Theory]] * [[Project-Name|Project Name]] * [[Design-Specs|Design Specs]] * [[Figma-Files|Figma Files]] * [[Person-A|Person A]] * [[Person-B|Person B]]
+
+**Related concepts** *(from [[reference-comprehensive-excalidraw-and-markmind-2025121812]])*:
+[[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Mind-Mapping|Mind Mapping]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[Visual-PKM|Visual PKM]] * [[Note-Name|Note Name]] * [[JavaScript-Basics|JavaScript Basics]] * [[Related-Note|Related Note]] * [[Subtopic-A|Subtopic A]] * [[Subtopic-B|Subtopic B]] * [[Concept-Name|Concept Name]] * [[Related-Concept|Related Concept]] * [[Task-1|Task 1]] * [[Task-2|Task 2]] * [[Task-3|Task 3]] * [[PDF-annotation|PDF annotation]] * [[PDF-Name|PDF Name]] * [[Paper-Title|Paper Title]] * [[Established-Theory|Established Theory]] * [[Project-Name|Project Name]] * [[Design-Specs|Design Specs]] * [[Figma-Files|Figma Files]] * [[Person-A|Person A]] * [[Person-B|Person B]] * [[Person-C|Person C]] * [[PDF++|PDF++]] * [[System-Architecture-Mindmap|System Architecture Mindmap]]
+
+
 
 ## Methodology Notes
 

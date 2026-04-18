@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -136,6 +136,10 @@ importance: high
 
 **Related concepts** *(from report-07-the-self-directed-learner.md)*:
 [[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]] * [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Metacognition-Awareness-Inventory|Metacognition Awareness Inventory]] * [[Zimmerman|Zimmerman]] * [[Deci-and-Ryan|Deci and Ryan]] * [[Metacognitive-strategies|Metacognitive strategies]] * [[Recursive-Self-Authorship|Recursive Self-Authorship]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]] * [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] * [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]] * [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]]
+
+**Related concepts** *(from [[report-07-the-self-directed-learner]])*:
+[[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]] * [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Metacognition-Awareness-Inventory|Metacognition Awareness Inventory]] * [[Deci-and-Ryan|Deci and Ryan]] * [[Metacognitive-strategies|Metacognitive strategies]] * [[Recursive-Self-Authorship|Recursive Self-Authorship]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]] * [[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]] * [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]] * [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]] * [[Zettelkasten|Zettelkasten]]
+
 
 
 ## Methodology Notes

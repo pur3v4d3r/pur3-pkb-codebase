@@ -261,7 +261,7 @@ This tier addresses the gap between thinking well and living well. Proposed repo
 
 - **Report 10 — The Feeling Reasoner:** Emotions as epistemic signals, emotional granularity, appraisal theory, and the integration of affect into the cognitive architecture. Synthesizes [[Constructed-Emotion-Theory]] (Barrett), [[Appraisal-Theory]], [[Emotional-Granularity]], and the Stoic [[Eupatheia]] distinction.
 
-- **Report 11 — The Practical Reasoner:** Phronesis, naturalistic decision-making, when to stop deliberating and act, moral reasoning. Synthesizes [[Phronesis]], [[Recognition-Primed Decision Making]], [[Naturalistic-Decision-Making]], and Stoic [[Kathekon]].
+- **Report 11 — The Practical Reasoner:** Phronesis, naturalistic decision-making, when to stop deliberating and act, moral reasoning. Synthesizes [[Phronesis]], [[Recognition-Primed-Decision-Making]], [[Naturalistic-Decision-Making]], and Stoic [[Kathekon]].
 
 - **Report 12 — The Social Thinker:** Thinking in community, distributed cognition, epistemic justice, collective reasoning, productive disagreement. Synthesizes [[Social-Epistemology]], [[Distributed-Cognition]], [[Epistemic-Injustice]], and [[Argumentative Theory]].
 
@@ -1640,7 +1640,7 @@ related:
   - "[[Growth-Mindset]]"
 
 broader:
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education]]"
   - "[[Cognitive-Science]]"
   - "[[Applied Epistemology]]"
 
@@ -3119,7 +3119,7 @@ related:
 broader:
   - "[[Educational-Psychology]]"
   - "[[Cognitive-Science]]"
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education]]"
 
 # LEARNING PATHWAYS
 expansion-topics:
@@ -4685,7 +4685,7 @@ related:
 broader:
   - "[[Educational-Psychology]]"
   - "[[Developmental Epistemology]]"
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education]]"
 
 # LEARNING PATHWAYS
 expansion-topics:
@@ -4695,7 +4695,7 @@ expansion-topics:
   - topic: "[[Growth-Mindset-and-Implicit-Theories-of-Intelligence]]"
     description: "Carol Dweck's research on fixed vs. growth mindsets provides the belief architecture that either enables or blocks the fallibilist-constructivist posture essential to self-directed development."
     priority: high
-  - topic: "[[Personal Knowledge Management Systems]]"
+  - topic: "[[Personal-Knowledge-Management-Systems]]"
     description: "The practical infrastructure for implementing a personal learning architecture — methods like Zettelkasten, spaced repetition, and interleaved practice as operationalizations of the SRL framework."
     priority: medium
   - topic: "[[Developmental Trajectories of Expertise]]"
@@ -6298,7 +6298,7 @@ This distinction is philosophically deep in a way that is often missed in popula
 
 [[Emotional-Granularity]] — a concept developed by Barrett and colleagues, originally described in the 2001 paper "Knowing What You're Feeling and Knowing What to Do About It" — refers to the degree of specificity with which individuals distinguish their emotional experiences. People high in emotional granularity (or high in [[Emotion-Differentiation]]) use emotion words and categories precisely and discriminatively; they readily distinguish between anxiety and excitement, between frustration and disappointment, between moral indignation and personal offense. People low in emotional granularity tend to experience emotional states in relatively global, undifferentiated ways — they know they feel bad, or activated, but cannot specify much beyond that.
 
-The empirical significance of emotional granularity has been established across a now-substantial research literature. The 2020 meta-analysis by [[O'Toole,-Bovard-Abbo,-and-Weightman]] synthesizing studies on negative emotion differentiation and mental health found consistent associations between higher granularity and better mental health outcomes, including lower rates of depression, anxiety, and borderline personality disorder. [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]] (2014) demonstrated in experience sampling studies that higher emotional granularity predicted greater well-being and more effective [[Emotion Regulation]] in daily life. The experimental evidence from spider phobia research is particularly striking: participants who practiced fine-grained emotional differentiation ("disgusting, nerve-racking, yet intriguing") reduced their phobic responses more effectively than those using cognitive reappraisal or distraction alone — suggesting that the act of emotionally differentiating is itself regulative, not merely descriptive.
+The empirical significance of emotional granularity has been established across a now-substantial research literature. The 2020 meta-analysis by [[O'Toole,-Bovard-Abbo,-and-Weightman]] synthesizing studies on negative emotion differentiation and mental health found consistent associations between higher granularity and better mental health outcomes, including lower rates of depression, anxiety, and borderline personality disorder. [[Erbas,-Ceulemans,-Lee-Pe,-Koval,-and-Kuppens]] (2014) demonstrated in experience sampling studies that higher emotional granularity predicted greater well-being and more effective [[Emotion-Regulation]] in daily life. The experimental evidence from spider phobia research is particularly striking: participants who practiced fine-grained emotional differentiation ("disgusting, nerve-racking, yet intriguing") reduced their phobic responses more effectively than those using cognitive reappraisal or distraction alone — suggesting that the act of emotionally differentiating is itself regulative, not merely descriptive.
 
 The neuroimaging evidence provides a mechanistic account of why this is so. Higher emotional granularity is associated with reduced activation of the insula and anterior cingulate cortex (ACC) during socially threatening stimuli, and with reduced amygdala activation when participants can label their emotional states precisely. The capacity to specify an emotional state appears to recruit frontal regulatory circuits that modulate subcortical alarm responses — in other words, emotional precision is neurobiologically protective, not merely psychologically useful.
 
@@ -7089,7 +7089,7 @@ Finally, the *emergent insight of the action-perception link* is the report's mo
 > **Description:** How phronesis manifests in professional contexts — the moral perceptions required of physicians deciding when rules of evidence-based medicine should yield to the clinical judgment that "this particular patient is different," teachers navigating the space between curriculum requirements and the needs of individual students, lawyers navigating the space between legal strategy and moral obligation. Draws on [[Pellegrino]] and [[Thomasma]]'s medical ethics, [[Nel-Noddings]]'s ethics of care, and [[Schwartz-&-Sharpe]]'s practical wisdom in professional life.
 
 > [!connection-ideas] 🔗 Expansion Topic 3: Robust Decision Making Under Deep Uncertainty (Priority: High)
-> **Description:** Methodologies for navigating Knightian uncertainty: [[scenario-planning]] (Wack, Schoemaker), [[robust-satisficing]] (Ben-Haim's info-gap decision theory), [[Nassim-Taleb]]'s [[antifragility]] and [[via negativa]] approaches, [[Ralf Stacey]]'s complexity model for organizational decision-making. Provides practical tools for implementing this report's theoretical framework in high-stakes personal and professional decisions.
+> **Description:** Methodologies for navigating Knightian uncertainty: [[scenario-planning]] (Wack, Schoemaker), [[robust-satisficing]] (Ben-Haim's info-gap decision theory), [[Nassim-Taleb]]'s [[antifragility]] and [[via-negativa]] approaches, [[Ralf-Stacey]]'s complexity model for organizational decision-making. Provides practical tools for implementing this report's theoretical framework in high-stakes personal and professional decisions.
 
 > [!connection-ideas] 🔗 Expansion Topic 4: The Deliberation-Action Transition (Priority: Medium)
 > **Description:** The psychological and philosophical analysis of what converts deliberation into action — the role of [[will]], [[intention]], [[commitment]], and the phenomenology of deciding. Draws on [[Bratman]]'s planning theory of intention, [[Velleman]]'s constitutive account of agency, [[Bandura]]'s self-efficacy research, and the phenomenology of action in [[Merleau-Ponty]]. Addresses the gap that analysis paralysis inhabits.
@@ -8286,7 +8286,7 @@ related:
 broader:
   - "[[Philosophy of the Examined Life]]"
   - "[[Existential Psychology]]"
-  - "[[Eudaimonic Well-Being]]"
+  - "[[Eudaimonic-Well-Being]]"
   - "[[The Architecture of the Examined Life]]"
 
 # LEARNING PATHWAYS
@@ -8693,7 +8693,7 @@ Finally, the claim that the examined life is constitutively valuable — that it
 
 > [!connection-ideas]
 > **Expansion Topic 1: [[Terror Management Theory and Meaning]]**
-> Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski's [[Terror Management Theory]] (TMT) proposes that much of human culture, religion, and meaning-making is motivated by the need to manage anxiety about mortality. The examined life's meaning-making practices, viewed through this lens, are simultaneously genuinely valuable (they constitute a meaningful life) and defensively functional (they buffer existential anxiety). Exploring the relationship between narrative identity, terror management, and epistemic motivation would enrich the framework's account of *why* humans are meaning-seeking creatures. **Priority: High.**
+> Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski's [[Terror-Management-Theory]] (TMT) proposes that much of human culture, religion, and meaning-making is motivated by the need to manage anxiety about mortality. The examined life's meaning-making practices, viewed through this lens, are simultaneously genuinely valuable (they constitute a meaningful life) and defensively functional (they buffer existential anxiety). Exploring the relationship between narrative identity, terror management, and epistemic motivation would enrich the framework's account of *why* humans are meaning-seeking creatures. **Priority: High.**
 
 > [!connection-ideas]
 > **Expansion Topic 2: [[Narrative Therapy]]**

@@ -133,7 +133,7 @@ finish-date: <% tp.date.now("YYYY-MM-DD") %>
 [[Levels-of-Processing-Theory]]
 [[Adaptive Memory Theory]]
 [[Identity-Level-Integration]]
-[[Identity Formation]]
+[[Identity-Formation]]
 [[Confirmation-Bias]]
 
 
@@ -201,7 +201,7 @@ actions:
 - [[Cognitive-Science]]
 - [[cognitive-psychology]]
 - [[Cognitive-Architecture]]
-- [[Cognitive Development]]
+- [[Cognitive-Development]]
 
 - [[Attention]]
 - [[Distributed-Cognition]]
@@ -241,7 +241,7 @@ actions:
 - [[Working-Memory]]
 - [[Curve Of Forgetting]]-
 	- [[Long-Term-Memory]]
-		- [[Long-Term Working Memory]]
+		- [[Long-Term-Working-Memory]]
 - [[Retrospective Memory]]
 
 - [[Biologically Primary Knowledge]]
@@ -261,8 +261,8 @@ actions:
 			- [[Metacognitive Bias]]
 			- [[Metacognitive-Experiences]]
 			- [[Metacognitive-Monitoring]]
-			- [[Metacognitive Reflection]]
-			- [[Metacognitive Sensitivity]]
+			- [[Metacognitive-Reflection]]
+			- [[Metacognitive-Sensitivity]]
 - [[Decision Journal]]
 - [[Mindfulness Meditation]]
 - [[Structured Reflection]]
@@ -291,7 +291,7 @@ actions:
 - [[Cognitive-Behavioral-Therapy]]
 	- [[Anxiety disorders]]
 	- [[Major Depressive Disorder]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring]]
 - [[Cognitive-Reappraisal]]
 	- [[Cognitive Flexibility]]
 	- [[Emotional-Regulation]]
@@ -324,7 +324,7 @@ actions:
 - [[Dual-Process-Theory]]
 - [[Executive-Function]]
 - [[Higher-Order Cognition]]
-- [[Neural Networks]]
+- [[Neural-Networks]]
 - [[Neuroplastic]]
 - [[Neuroplasticity]]
 - [[System-1]]

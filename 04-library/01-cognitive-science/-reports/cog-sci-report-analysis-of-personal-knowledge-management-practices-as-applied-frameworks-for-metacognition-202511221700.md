@@ -116,7 +116,7 @@ From the perspective of Information Science, the act of **structuring** notes—
 > [!connection-ideas]
 > **Insights from the Cognitive Psychology-Information Science Link**
 >
->   * **Elaborative Encoding through Taxonomy.** The psychological concept of **[[Elaborative Encoding]]** (connecting new info to existing info) is operationalized through the Information Science practice of tagging and linking. Every tag added is a distinct neural pathway created for future retrieval.
+>   * **Elaborative Encoding through Taxonomy.** The psychological concept of **[[Elaborative-Encoding]]** (connecting new info to existing info) is operationalized through the Information Science practice of tagging and linking. Every tag added is a distinct neural pathway created for future retrieval.
 >   * > [\!key-claim]
 >   * **The "Gardener" Archetype.** The user transitions from an "Architect" (planning structures in advance, which is cognitively taxing) to a "Gardener" (allowing structure to emerge bottom-up). This aligns with **[[Emergent Complexity]]**, where local interactions (linking two notes) lead to global order (a comprehensive theory).
 

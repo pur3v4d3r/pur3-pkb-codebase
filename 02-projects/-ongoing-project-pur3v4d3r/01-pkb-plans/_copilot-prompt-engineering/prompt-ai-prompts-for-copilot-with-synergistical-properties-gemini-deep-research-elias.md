@@ -509,7 +509,7 @@ This prompt is a powerful demonstration of AI-driven automation, translating sem
 
 #### Example Usage
 
-**Input Note Content:** `"## The Zettelkasten Method. The Zettelkasten method is a knowledge management system focused on creating a network of atomic notes. The core principles are atomicity (one idea per note) and dense linking. This facilitates emergent insights by connecting ideas in novel ways. It was popularized by [[Niklas Luhmann]]. See also [[Evergreen Notes]]."`
+**Input Note Content:** `"## The Zettelkasten Method. The Zettelkasten method is a knowledge management system focused on creating a network of atomic notes. The core principles are atomicity (one idea per note) and dense linking. This facilitates emergent insights by connecting ideas in novel ways. It was popularized by [[Niklas Luhmann]]. See also [[Evergreen-Notes]]."`
 
 **AI Output (Abridged JavaScript):**
 

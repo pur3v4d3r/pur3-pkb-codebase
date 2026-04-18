@@ -1131,12 +1131,12 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
    - *Depth Potential*: Template-time vs render-time query execution, macro patterns
    - *Knowledge Graph Role*: Template automation architecture in [[PKB-Architecture]]
 
-3. **[[Meta Bind Reactive Fields]]**
+3. **[[Meta-Bind-Reactive-Fields]]**
    - *Connection*: Interactive metadata manipulation that triggers Dataview updates
    - *Depth Potential*: Button actions, input fields, view fields integrated with inline queries
    - *Knowledge Graph Role*: Interactive dashboard components in [[Obsidian]] automation
 
-4. **[[Knowledge Graph Analytics Formulas]]**
+4. **[[Knowledge-Graph-Analytics-Formulas]]**
    - *Connection*: Advanced metrics for measuring [[Knowledge-Graph]] health and structure
    - *Depth Potential*: PageRank-inspired algorithms, clustering coefficients, betweenness centrality
    - *Knowledge Graph Role*: Quantitative analysis of [[Zettelkasten]] network properties

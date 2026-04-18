@@ -300,7 +300,7 @@ extraction_summary:
 #### 22. [CONNECTION-IDEAS] Untitled *(Line 323)*
 
 > [!connection-ideas] Untitled
-> The principles of the "foundry" are a direct application of [[Systems Thinking]]. The system we've designed is a **cybernetic loop**—a system that uses *feedback* to *steer* itself.
+> The principles of the "foundry" are a direct application of [[Systems-Thinking|Systems Thinking]]. The system we've designed is a **cybernetic loop**—a system that uses *feedback* to *steer* itself.
 > 
 >   - **The System:** Your "Latticework of Mental Models."
 >   - **The Goal:** Make better decisions.
@@ -346,7 +346,7 @@ extraction_summary:
 >   - **What was the most surprising or counter-intuitive concept presented? Why?**
 >       - Your Answer Goes Here: "The most counter-intuitive idea is that *friction* can be a *good* thing (`Counter-Argument` section). The "Decision Journal" adds friction; it makes a decision *slower*. My instinct is to make things fast and easy. But the article argues this 'friction' *is* the thinking. By *forcing* me to slow down and write out the models I'm using, the system is forcing me to be more deliberate. The friction *is* the value."
 >   - **What pre-existing knowledge did this article connect with or challenge for me?**
->       - Your Answer Goes Here: "This article directly connects with my understanding of `[[Systems Thinking]]` and feedback loops (`Connection-Ideas` section). I've always seen my notes as a *static* resource. This re-frames my *entire PKM* as a dynamic system, with inputs (reading), processing (casting notes), outputs (decisions), and a *feedback loop* (retrospectives). It challenged my "filing cabinet" mental model and replaced it with a "cybernetic" one."
+>       - Your Answer Goes Here: "This article directly connects with my understanding of `[[Systems-Thinking|Systems Thinking]]` and feedback loops (`Connection-Ideas` section). I've always seen my notes as a *static* resource. This re-frames my *entire PKM* as a dynamic system, with inputs (reading), processing (casting notes), outputs (decisions), and a *feedback loop* (retrospectives). It challenged my "filing cabinet" mental model and replaced it with a "cybernetic" one."
 
 #### 27. [QUOTE] Untitled *(Line 393)*
 
@@ -418,7 +418,7 @@ extraction_summary:
 - [[Second-Order Thinking]]
 - [[Stoicism]]
 - [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 
 ### All Occurrences
 
@@ -478,14 +478,14 @@ extraction_summary:
 | 52 | [[Homeostasis]] | — | — | 5.0 🔬Observational Evidence and Manif... | 301 |
 | 53 | [[MOC - Decision Making]] | — | — | 5.0 🔬Observational Evidence and Manif... | 307 |
 | 54 | [[MOC - Asymmetry]] | — | — | 5.0 🔬Observational Evidence and Manif... | 313 |
-| 55 | [[Systems Thinking]] | — | — | 6.0 🌍Broader Implications and Signifi... | 325 |
+| 55 | [[Systems-Thinking|Systems Thinking]] | — | — | 6.0 🌍Broader Implications and Signifi... | 325 |
 | 56 | [[Occam's Razor]] | — | — | 7.0 ❔Frontier Research & Unanswered Q... | 355 |
 | 57 | [[Hickam's Dictum]] | — | — | 7.0 ❔Frontier Research & Unanswered Q... | 355 |
 | 58 | [[MOC - Leverage]] | — | — | 7.0 ❔Frontier Research & Unanswered Q... | 356 |
 | 59 | [[Atomic Model Notes]] | — | — | 8.0 🦕Conclusion | 375 |
 | 60 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 8.0 🦕Conclusion | 376 |
 | 61 | [[Decision Journals]] | — | — | 8.0 🦕Conclusion | 377 |
-| 62 | [[Systems Thinking]] | — | — | 9.0🧠Key Questions for Active Reading ... | 391 |
+| 62 | [[Systems-Thinking|Systems Thinking]] | — | — | 9.0🧠Key Questions for Active Reading ... | 391 |
 | 63 | [[PKM Foundry]] | — | — | 9.0🧠Key Questions for Active Reading ... | 401 |
 | 64 | [[Atomic Model Note]] | — | — | 9.0🧠Key Questions for Active Reading ... | 402 |
 | 65 | [[Decision Journal Feedback Loop]] | — | — | 9.0🧠Key Questions for Active Reading ... | 403 |
@@ -601,7 +601,7 @@ aliases: [Alternative name for model]
 - [[Second-Order Thinking]]
 - [[Stoicism]]
 - [[Sunk-cost-fallacy|Sunk Cost Fallacy]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 
 ---
 

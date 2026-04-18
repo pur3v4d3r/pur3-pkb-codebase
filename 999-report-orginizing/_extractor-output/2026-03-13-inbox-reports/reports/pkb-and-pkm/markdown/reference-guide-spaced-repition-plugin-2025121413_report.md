@@ -512,7 +512,7 @@ extraction_summary:
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Spaced Repetition Theory]]
-- [[Study Strategies]]
+- [[Study-Strategies|Study Strategies]]
 - [[SuperMemo]]
 - [[SuperMemo Algorithm (SM-2)]]
 - [[Tasks-Plugin|Tasks Plugin]]
@@ -563,7 +563,7 @@ extraction_summary:
 | 37 | [[Active Recall vs. Passive Review]] | — | — | Related Concepts for PKB Expansion | 1188 |
 | 38 | [[Learning Science]] | — | — | Related Concepts for PKB Expansion | 1191 |
 | 39 | [[Metacognition]] | — | — | Related Concepts for PKB Expansion | 1191 |
-| 40 | [[Study Strategies]] | — | — | Related Concepts for PKB Expansion | 1191 |
+| 40 | [[Study-Strategies|Study Strategies]] | — | — | Related Concepts for PKB Expansion | 1191 |
 
 ---
 
@@ -1191,7 +1191,7 @@ for (let letter of sortedLetters) {
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Spaced Repetition Theory]]
-- [[Study Strategies]]
+- [[Study-Strategies|Study Strategies]]
 - [[SuperMemo]]
 - [[SuperMemo Algorithm (SM-2)]]
 - [[Tasks-Plugin|Tasks Plugin]]

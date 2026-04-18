@@ -77,4 +77,4 @@ importance: medium
 - [[Silent-Reading-Rate]]
 - [[The-Bandwidth-Expansion-vs.-Bandwidth-Compression-Distinction-as-a-Diagnostic-Fr]]
 - [[_Master-Expansion-Topics-Index|_Master-Expansion-Topics-Index]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

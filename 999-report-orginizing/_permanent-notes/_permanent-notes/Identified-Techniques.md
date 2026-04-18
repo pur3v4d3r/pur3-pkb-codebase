@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -158,6 +158,14 @@ importance: medium
 
 **Related concepts** *(from reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md)*:
 [[Output-Analysis:-The-Evolution-of-Capacity-Theories-of-Attention|Output Analysis: The Evolution of Capacity Theories of Attention]] * [[Constitutional-AI|Constitutional AI]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Selective-Attention|Selective Attention]] * [[Allocation-Policy|Allocation Policy]] * [[Dual-Task-Performance|Dual-Task Performance]] * [[Donald-Broadbent|Donald Broadbent]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Working-Memory|Working Memory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Dorsal-Attention-Network|Dorsal Attention Network]] * [[Ventral-Attention-Network|Ventral Attention Network]] * [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] * [[Anne-Treisman|Anne Treisman]] * [[Iconic-Memory|Iconic Memory]] * [[Echoic-Memory|Echoic Memory]] * [[Information-Theory|Information Theory]] * [[filter-model-broadbent|filter-model-broadbent]] * [[capacity-model-kahneman|capacity-model-kahneman]] * [[arousal-capacity-relationship|arousal-capacity-relationship]] * [[cognitive-science-moc|cognitive-science-moc]] * [[learning-theory-moc|learning-theory-moc]] * [[Filter-Model|Filter Model]] * [[Capacity-Model|Capacity Model]] * [[Dichotic-Listening-Task|Dichotic Listening Task]] * [[Attention|attention]] * [[Treisman-Attenuation-Model|Treisman Attenuation Model]] * [[Multiple-Resources-Theory|Multiple Resources Theory]] * [[Load-Theory-of-Attention|Load Theory of Attention]]
+
+**Related concepts** *(from [[reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404]])*:
+[[Output-Analysis:-The-Evolution-of-Capacity-Theories-of-Attention|Output Analysis: The Evolution of Capacity Theories of Attention]] * [[Constitutional-AI|Constitutional AI]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Selective-Attention|Selective Attention]] * [[Allocation-Policy|Allocation Policy]] * [[Dual-Task-Performance|Dual-Task Performance]] * [[Donald-Broadbent|Donald Broadbent]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Working-Memory|Working Memory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Dorsal-Attention-Network|Dorsal Attention Network]] * [[Ventral-Attention-Network|Ventral Attention Network]] * [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] * [[Anne-Treisman|Anne Treisman]] * [[Iconic-Memory|Iconic Memory]] * [[Echoic-Memory|Echoic Memory]] * [[Information-Theory|Information Theory]] * [[Filter-Model|Filter Model]] * [[Capacity-Model|Capacity Model]] * [[Dichotic-Listening-Task|Dichotic Listening Task]] * [[Treisman-Attenuation-Model|Treisman Attenuation Model]] * [[Multiple-Resources-Theory|Multiple Resources Theory]] * [[Load-Theory-of-Attention|Load Theory of Attention]] * [[Pupillometry-as-Cognitive-Measure|Pupillometry as Cognitive Measure]]
+
+**Related concepts** *(from [[reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404]])*:
+[[Output-Analysis:-The-Evolution-of-Capacity-Theories-of-Attention|Output Analysis: The Evolution of Capacity Theories of Attention]] * [[Constitutional-AI|Constitutional AI]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Selective-Attention|Selective Attention]] * [[Allocation-Policy|Allocation Policy]] * [[Dual-Task-Performance|Dual-Task Performance]] * [[Donald-Broadbent|Donald Broadbent]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Working-Memory|Working Memory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Dorsal-Attention-Network|Dorsal Attention Network]] * [[Ventral-Attention-Network|Ventral Attention Network]] * [[Yerkes-Dodson-Law|Yerkes-Dodson Law]] * [[Anne-Treisman|Anne Treisman]] * [[Iconic-Memory|Iconic Memory]] * [[Echoic-Memory|Echoic Memory]] * [[Information-Theory|Information Theory]] * [[Filter-Model|Filter Model]] * [[Capacity-Model|Capacity Model]] * [[Dichotic-Listening-Task|Dichotic Listening Task]] * [[Treisman-Attenuation-Model|Treisman Attenuation Model]] * [[Multiple-Resources-Theory|Multiple Resources Theory]] * [[Load-Theory-of-Attention|Load Theory of Attention]] * [[Pupillometry-as-Cognitive-Measure|Pupillometry as Cognitive Measure]]
+
+
 
 
 ## Methodology Notes

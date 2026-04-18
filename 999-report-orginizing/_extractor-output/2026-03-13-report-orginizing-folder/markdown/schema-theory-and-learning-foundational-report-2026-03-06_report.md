@@ -468,7 +468,7 @@ extraction_summary:
 - [[metacognitive-awareness|metacognitive awareness]]
 - [[naive physics]]
 - [[parallel-distributed-processing|parallel distributed processing]]
-- [[reading comprehension]]
+- [[Reading-Comprehension|reading comprehension]]
 - [[schema-instantiation|schema instantiation]]
 - [[spaced-practice|spaced practice]]
 - [[Spreading-Activation|spreading activation]]
@@ -520,7 +520,7 @@ extraction_summary:
 | 38 | [[William Chase]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 39 | [[Herbert-Simon|Herbert Simon]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 40 | [[Conceptual-Change-Theory|conceptual change theory]] | — | — | Schema Change: From Learning to Conce... | 408 |
-| 41 | [[reading comprehension]] | — | — | Instructional Applications of Schema ... | 431 |
+| 41 | [[Reading-Comprehension|reading comprehension]] | — | — | Instructional Applications of Schema ... | 431 |
 | 42 | [[mathematics education]] | — | — | Instructional Applications of Schema ... | 431 |
 | 43 | [[Worked-Examples|worked examples]] | — | — | Instructional Applications of Schema ... | 431 |
 | 44 | [[naive physics]] | — | — | Instructional Applications of Schema ... | 438 |
@@ -622,7 +622,7 @@ extraction_summary:
 - [[metacognitive-awareness|metacognitive awareness]]
 - [[naive physics]]
 - [[parallel-distributed-processing|parallel distributed processing]]
-- [[reading comprehension]]
+- [[Reading-Comprehension|reading comprehension]]
 - [[schema-instantiation|schema instantiation]]
 - [[spaced-practice|spaced practice]]
 - [[Spreading-Activation|spreading activation]]
@@ -677,7 +677,7 @@ extraction_summary:
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Reading Comprehension Pedagogy]]
 - [[Medical Education and Clinical Reasoning]]
-- [[Expert-Novice Research]]
+- [[Expert-Novice-Research|Expert-Novice Research]]
 - [[Curriculum Sequencing]]
 
 #### Builds On

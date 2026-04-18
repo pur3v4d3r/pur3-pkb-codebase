@@ -1,0 +1,2552 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-04-18T02:41:34.550912",
+    "source_file": "schema-construction-problem-focused-analysis-2026-03-22.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-focused-analysis-report-generator-v1.1.0\\extracted\\schema-construction-problem-focused-analysis-2026-03-22.md",
+    "source_file_size_bytes": 100871,
+    "processing_time_seconds": 0.024
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "schema-construction-problem-focused-analysis-v1-0",
+      "doc_type": "focused-analysis-report",
+      "doc_created": "2026-03-22",
+      "doc_modified": "2026-03-22",
+      "author": "claude-sonnet-4-6",
+      "report_generator": "Focused Analysis Report Generator v1.1",
+      "primary_domain": "cognitive-psychology",
+      "secondary_domains": [
+        "educational-psychology",
+        "instructional-design",
+        "personal-knowledge-management",
+        "expertise-research"
+      ],
+      "related_concepts": [
+        "[[Schema-Theory]]",
+        "[[Schema-Construction]]",
+        "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]",
+        "[[Schema-Accommodation]]",
+        "[[Schema-Automation]]",
+        "[[Schema-Crystallization-Event]]",
+        "[[Schema-Progressive-Architecture]]",
+        "[[Assimilation-and-Accommodation]]",
+        "[[Advance-Organizer]]",
+        "[[Transfer-of-Learning]]",
+        "[[Rumelhart]]",
+        "[[Chunking]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "schema-theory",
+        "schema-construction",
+        "cognitive-architecture",
+        "instructional-design",
+        "expertise",
+        "prior-knowledge",
+        "focused-analysis",
+        "far-transfer",
+        "pkb-integration"
+      ],
+      "status": "evergreen",
+      "maturity": "developed",
+      "confidence": "high",
+      "analytical_focus": "The Schema Construction Problem: Schema Theory provides a compelling account of how existing schemas guide comprehension and learning, but offers a substantially thinner account of how schemas are built from conceptual scratch. This report identifies and analyzes this asymmetry — the construction-activation gap — as the central undertheorized problem in Schema Theory, with direct implications for instructional design, PKB architecture, and expertise development.\n",
+      "central_question": "How do new schemas get built, and why does Schema Theory's account of construction lag so far behind its account of activation?",
+      "reasoning_tier": "Tier 3: Synthesis & Innovation",
+      "reasoning_methods": [
+        "Extended thinking with metacognitive scaffolding",
+        "Chain of density layered elaboration",
+        "FAR transfer structural encoding"
+      ],
+      "transfer-contributions": {
+        "abstract-principles-extracted": "3",
+        "structural-analogues-identified": "5",
+        "target-domains-bridged": "4"
+      },
+      "transfer-principles": [
+        {
+          "principle": "The Bootstrapping Constraint — mature examples of a system type are required before examples of that type can be built",
+          "originating-finding": "Building a schema requires existing schemas to assimilate novel material into",
+          "target-domains": [
+            "Software Architecture",
+            "Scientific Paradigms",
+            "Immune System"
+          ]
+        },
+        {
+          "principle": "The Construction-Activation Asymmetry — the mechanisms that operate a mature system differ categorically from the mechanisms that built it",
+          "originating-finding": "Schema activation (top-down, automatic) differs categorically from schema construction (bottom-up, effortful, analogy-dependent)",
+          "target-domains": [
+            "Skill Acquisition",
+            "Institutional Development",
+            "Language Learning"
+          ]
+        },
+        {
+          "principle": "The Crystallization Threshold — incremental accumulation below threshold leaves structural flexibility; crossing threshold produces irreversible structural commitment",
+          "originating-finding": "Schema crystallization events mark a qualitative shift in knowledge organization",
+          "target-domains": [
+            "Complex Systems",
+            "Conceptual Change",
+            "Community Formation"
+          ]
+        }
+      ],
+      "prerequisites": [
+        "[[Schema-Theory-and-Learning]]",
+        "[[Schema-Theory-Bartlett,-Rumelhart]]",
+        "[[Assimilation-and-Accommodation]]"
+      ],
+      "builds_on": [
+        "[[schema-theory-and-learning-foundational-report-2026-03-06]]",
+        "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]"
+      ],
+      "extends": [
+        "[[Schema-Theory-and-Learning]]",
+        "[[Schema-Progressive-Architecture]]"
+      ],
+      "link_up": "[[Schema-Theory-and-Learning]]",
+      "link_down": [
+        "[[Schema-Crystallization-Event]]",
+        "[[Schema-Automation]]",
+        "[[The-Schema-Progressive-Architecture-for-PKB-Design]]"
+      ],
+      "link_related": [
+        "[[Advance-Organizer]]",
+        "[[Transfer-of-Learning]]",
+        "[[Chunking]]",
+        "[[Analogical-Reasoning]]",
+        "[[Rumelhart]]"
+      ],
+      "document-features": {
+        "callouts": "28",
+        "wiki-links": "38",
+        "reflective-questions": "21",
+        "cognitive-engagement-elements": "16",
+        "analytical-commentary": "11",
+        "section-end-summaries": "6",
+        "transfer-principles": "3"
+      },
+      "sections": [
+        "Phase I: Orientation & Analytical Focus",
+        "Phase II: Analytical Framework",
+        "Phase III: Critical Examination of Evidence",
+        "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "Phase V: Implications, Applications & Limitations",
+        "Phase VI: Synthesis, Integration & Original Contribution",
+        "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "Phase VIII: PKB Connections & Cross-Report Links",
+        "Phase IX: Appendix"
+      ],
+      "summary": "A focused analysis of the Schema Construction Problem — the gap in Schema Theory's account of how schemas are built from conceptual scratch, as distinct from how they guide processing once established. Argues for the Construction-Activation Asymmetry as Schema Theory's central undertheorized problem, analyzes the bootstrapping constraint, crystallization events, and analogy's role in schema genesis, and extracts transferable structural principles for instructional design and PKB architecture."
+    },
+    "word_count": 12135,
+    "character_count": 91582,
+    "line_count": 718,
+    "heading_count": 44
+  },
+  "extraction_summary": {
+    "total_items_extracted": 210,
+    "by_type": {
+      "headings": 44,
+      "callouts": 77,
+      "wiki_links": 85,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 4,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "The Schema Construction Problem: How Schema Theory Explains Comprehension But Struggles to Explain Acquisition",
+      "anchor": "the-schema-construction-problem-how-schema-theory-explains-comprehension-but-struggles-to-explain-acquisition",
+      "line_number": 154,
+      "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Analytical Focus",
+          "anchor": "phase-i-orientation-analytical-focus",
+          "line_number": 162,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Paradox at the Heart of Schema Theory",
+              "anchor": "the-paradox-at-the-heart-of-schema-theory",
+              "line_number": 170,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Question",
+              "anchor": "the-central-question",
+              "line_number": 178,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Scope and Boundaries",
+              "anchor": "scope-and-boundaries",
+              "line_number": 184,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Why This Focus Matters Now",
+              "anchor": "why-this-focus-matters-now",
+              "line_number": 188,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Roadmap",
+              "anchor": "roadmap",
+              "line_number": 192,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework",
+          "anchor": "phase-ii-analytical-framework",
+          "line_number": 198,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Core Definitions",
+              "anchor": "core-definitions",
+              "line_number": 200,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Key Analytical Distinction",
+              "anchor": "the-key-analytical-distinction",
+              "line_number": 241,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 262,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Evidence Landscape",
+              "anchor": "the-evidence-landscape",
+              "line_number": 270,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Developmental Psychology: Piaget's Constructivism",
+              "anchor": "developmental-psychology-piagets-constructivism",
+              "line_number": 274,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Expertise Research: Chase and Simon's Chess Studies",
+              "anchor": "expertise-research-chase-and-simons-chess-studies",
+              "line_number": 284,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Reading Comprehension Research: Bransford and Johnson",
+              "anchor": "reading-comprehension-research-bransford-and-johnson",
+              "line_number": 294,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Bartlett's Original Reconstructive Memory Evidence",
+              "anchor": "bartletts-original-reconstructive-memory-evidence",
+              "line_number": 307,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+          "line_number": 323,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Bootstrapping Problem",
+              "anchor": "the-bootstrapping-problem",
+              "line_number": 328,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Role of Analogy in Schema Construction",
+              "anchor": "the-role-of-analogy-in-schema-construction",
+              "line_number": 340,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Schema Crystallization Event Model",
+              "anchor": "the-schema-crystallization-event-model",
+              "line_number": 352,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Schema Progressive Architecture",
+              "anchor": "the-schema-progressive-architecture",
+              "line_number": 367,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications, Applications & Limitations",
+          "anchor": "phase-v-implications-applications-limitations",
+          "line_number": 393,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Direct Implications for Instructional Design",
+              "anchor": "direct-implications-for-instructional-design",
+              "line_number": 398,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Implications for PKB Architecture",
+              "anchor": "implications-for-pkb-architecture",
+              "line_number": 414,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations and Honest Boundaries",
+              "anchor": "limitations-and-honest-boundaries",
+              "line_number": 422,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 438,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Pulling the Threads Together",
+              "anchor": "pulling-the-threads-together",
+              "line_number": 440,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Question Revisited",
+              "anchor": "the-central-question-revisited",
+              "line_number": 444,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The \"So What?\"",
+              "anchor": "the-so-what",
+              "line_number": 458,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+          "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+          "line_number": 471,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Abstract Principle Extraction",
+              "anchor": "abstract-principle-extraction",
+              "line_number": 473,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Structural Analogues",
+              "anchor": "structural-analogues",
+              "line_number": 495,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Application Bridges",
+              "anchor": "application-bridges",
+              "line_number": 518,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Meta-Transfer Reflection",
+              "anchor": "meta-transfer-reflection",
+              "line_number": 524,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-viii-pkb-connections-cross-report-links",
+          "line_number": 537,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase IX: Appendix",
+          "anchor": "phase-ix-appendix",
+          "line_number": 572,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 574,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. Key Figures & Intellectual Lineage",
+              "anchor": "b-key-figures-intellectual-lineage",
+              "line_number": 617,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Conceptual Tensions & Open Questions",
+              "anchor": "c-conceptual-tensions-open-questions",
+              "line_number": 646,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. References",
+              "anchor": "d-references",
+              "line_number": 662,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "E. Methodology & Sources Note",
+              "anchor": "e-methodology-sources-note",
+              "line_number": 691,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "H. Spaced Repetition Seeds",
+              "anchor": "h-spaced-repetition-seeds",
+              "line_number": 715,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "I. Expansion Topics for the PKB",
+              "anchor": "i-expansion-topics-for-the-pkb",
+              "line_number": 807,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "K. Report Quality Self-Assessment",
+              "anchor": "k-report-quality-self-assessment",
+              "line_number": 843,
+              "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Schema Activation — Before You Begin",
+        "body": "Before reading this analysis, take a moment to articulate your current understanding of how new knowledge structures get built. When you learn something genuinely new — not a variation of something familiar, but a concept that has no close predecessor in your existing understanding — what do you think happens cognitively? What mechanism do you imagine is at work? And here is the harder question: does the framework you have for *using* knowledge structures give you any purchase on the question of *building* them? Write this down before proceeding. The gap between your answer now and after the analysis is where the learning lives.",
+        "line_number": 164,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 7134,
+        "char_end": 7837
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Schema Theory is widely regarded as one of the most successful frameworks in cognitive psychology. Before reading further, predict: where would you expect the theory's main weakness to lie? In its account of how schemas guide memory? How they shape comprehension? Or somewhere else? Commit to your prediction and compare it against the argument this report develops.",
+        "line_number": 167,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 7838,
+        "char_end": 8251
+      },
+      {
+        "type": "definition",
+        "title": "Schema (Rumelhart, 1980)",
+        "body": "**Definition:** A mental data structure representing generic knowledge about a class of objects, events, sequences, or relations — including default values, variables, and subschema relationships. A schema is not a rigid template but an active pattern-completion device: when partially activated by input, it \"fills in\" expected but absent information using defaults.\n\n**Boundary conditions:** A schema is *not* a mental image, a proposition, or a rule. It is a structured packet of relational knowledge that includes both mandatory slots (those always present in instances of the category) and optional slots with default values. Individual memories are not schemas; neither are isolated facts. A schema organizes knowledge at the level of a category or concept type.\n\n**Report-Specific Significance:** The critical question this analysis pursues is how schemas get established in the first place — a question the above definition sidesteps entirely.\n\n**Cross-References:** [[Schema]], [[Schema-Theory-Bartlett,-Rumelhart]], [[Rumelhart]]",
+        "line_number": 202,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 12645,
+        "char_end": 13741
+      },
+      {
+        "type": "definition",
+        "title": "Assimilation (Piaget; adapted by Schema Theorists)",
+        "body": "**Definition:** The cognitive process by which new information is interpreted through and incorporated into an existing schema without changing the schema's structure. Assimilation is schema-guided comprehension: the new instance is recognized as an example of an existing category.\n\n**Boundary conditions:** Assimilation does not change the schema — it confirms it. When assimilation is the dominant process, learning is cumulative (more examples of a known category) but not structurally transformative. The schema that does the assimilating must pre-exist.\n\n**Cross-References:** [[Assimilation-and-Accommodation]], [[Assimilation]]",
+        "line_number": 211,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 13742,
+        "char_end": 14457
+      },
+      {
+        "type": "definition",
+        "title": "Accommodation (Piaget; adapted by Schema Theorists)",
+        "body": "**Definition:** The process by which an existing schema is modified to incorporate information that cannot be successfully assimilated. Accommodation involves structural change to the schema — adding slots, adjusting default values, splitting a schema into subcategories, or merging previously distinct schemas.\n\n**Boundary conditions:** Accommodation presupposes a schema available for modification. Pure accommodation is *revision* of an existing structure. It cannot explain the creation of a schema where none existed before.\n\n**Cross-References:** [[Schema-Accommodation]], [[Assimilation-vs.-Accommodation]]",
+        "line_number": 218,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 14458,
+        "char_end": 15152
+      },
+      {
+        "type": "definition",
+        "title": "Restructuring (Rumelhart & Norman, 1978)",
+        "body": "**Definition:** The process by which entirely new schemas are created, typically through: (a) *patterning* — inducing a new schema from regularities across experience, (b) *schema induction* — creating a new schema by abstracting a pattern from an analogous domain, or (c) *analogy* — building a new schema by structural mapping from an existing schema in a different domain.\n\n**Boundary conditions:** Restructuring is the closest Schema Theory comes to a genuine construction mechanism. It is, however, underspecified in Rumelhart & Norman's original account — the trigger conditions, the time course, and the role of instruction are left largely theoretically underdeveloped.\n\n**Report-Specific Significance:** Restructuring is the primary explanandum of this analysis. The claim is that the theory's account of restructuring is too thin to explain genuine schema construction from scratch.\n\n**Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]]",
+        "line_number": 225,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 15153,
+        "char_end": 16254
+      },
+      {
+        "type": "definition",
+        "title": "Schema Crystallization Event (PKB Conceptual Development)",
+        "body": "**Definition:** A qualitative threshold event in schema construction at which an accumulating set of loosely organized knowledge elements undergoes rapid structural consolidation into a coherent, retrievable schema. Pre-crystallization, knowledge elements are available but not organized into a single retrievable unit; post-crystallization, the schema can be activated as a whole.\n\n**Report-Specific Significance:** The crystallization event model is central to the analysis of Phase IV. It captures something that smooth, incremental accounts of schema formation miss: the discontinuous, threshold-crossing character of genuine schema establishment.\n\n**Cross-References:** [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]]",
+        "line_number": 234,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 16255,
+        "char_end": 17086
+      },
+      {
+        "type": "key-claim",
+        "title": "The Construction-Activation Distinction",
+        "body": "Schema Theory systematically conflates two cognitively distinct processes: *schema activation* (retrieving and applying an existing schema to guide comprehension of new input) and *schema construction* (building a new schema from inputs that cannot be adequately assimilated into existing schemas). These processes differ in their cognitive demands, their time course, their susceptibility to instruction, and their relationship to prior knowledge. The dominant theoretical framework gives a rich account of the former and an impoverished account of the latter.",
+        "line_number": 243,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 17123,
+        "char_end": 17746
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Conceptual Checkpoint",
+        "body": "The argument from here forward depends on the distinction between schema construction and schema accommodation. Can you articulate, in your own words, why modifying an existing schema (accommodation) is categorically different from building a new schema from scratch? If you find yourself reaching for the terms used above rather than producing your own explanation, the distinction may not yet be fully integrated.",
+        "line_number": 250,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 18715,
+        "char_end": 19182
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Why was restructuring selected as the focus of this analysis rather than accommodation or assimilation?\n**Application**: Think of a concept you genuinely struggled to understand — not a difficult example of a familiar type, but a genuinely unfamiliar concept. Which of the three modes (accretion, tuning, restructuring) was primarily at work?\n**Extension**: If accommodation can only modify existing schemas, and restructuring is required to build new ones, what determines whether a learner will encounter an experience as demanding accommodation versus demanding restructuring?",
+        "line_number": 255,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 19585,
+        "char_end": 20236
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before this section, capture your current position: how well-supported do you believe Schema Theory's account of schema construction to be? Rate your confidence that the theory *does* have an adequate account of how new schemas get built (1–10). We'll return to this at the end of Phase V.",
+        "line_number": 264,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 20290,
+        "char_end": 20634
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Developmental psychology, expertise research, and reading comprehension research have all contributed evidence bearing on schema construction. Before reading the summaries below, predict: which research tradition do you expect to offer the most direct evidence? And which do you expect to reveal the most significant gaps in the theory's construction account?",
+        "line_number": 267,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 20635,
+        "char_end": 21041
+      },
+      {
+        "type": "evidence",
+        "title": "Piaget's Stage Transitions",
+        "body": "Piaget's longitudinal observations (1952, 1954, 1971) document that cognitive development involves periodic *discontinuities* — periods of relative stability interrupted by rapid reorganization. The transition from preoperational to concrete operational thought, for example, involves not gradual extension of existing schemas but a fundamental reorganization of how the child represents quantity, number, and class relations. A child who cannot conserve volume does not lack the *information* that volume is conserved; they lack the schema that makes such conservation self-evident.",
+        "line_number": 278,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 22209,
+        "char_end": 22840
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What Piaget's Evidence Suggests About Construction",
+        "body": "Piaget's stage transitions suggest that genuine schema construction is not a smooth, incremental process. It has a discontinuous, threshold-crossing character: extended periods of knowledge accumulation that do not produce structural change, punctuated by rapid reorganization events. This pattern is consistent with the [[Schema-Crystallization-Event]] model — knowledge accumulates below a threshold before crystallizing into a new schema — and is inconsistent with purely incremental accounts of schema formation. However, Piaget's account is largely silent on the *mechanism* of reorganization, treating equilibration as a regulative process without specifying the computational operations involved.",
+        "line_number": 281,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 22841,
+        "char_end": 23634
+      },
+      {
+        "type": "evidence",
+        "title": "The 50,000 Chunks Finding",
+        "body": "Chase and Simon estimated that chess masters have accumulated approximately 50,000 chunk patterns — meaningful configurations of pieces — compared to the few hundred patterns available to novices. These chunks are not memorized propositions; they are perceptual schemas that allow masters to recognize board positions as instances of familiar strategic patterns. Crucially, acquiring these 50,000 chunks requires approximately 10,000 hours of deliberate practice — a finding that Ericsson and colleagues have since confirmed across multiple expert domains.",
+        "line_number": 288,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 24074,
+        "char_end": 24677
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Two-Phase Implication of Expert Chunking",
+        "body": "The chess expertise data implies a two-phase structure in schema construction that Schema Theory has not adequately formalized. In Phase 1 (pre-schema), the learner processes elements individually because no schema is available to organize them into a whole. In Phase 2 (post-schema), the same elements are processed as a single perceptual unit through schema activation. What the data does not reveal — and what Schema Theory does not specify — is the transition mechanism: how does the learner cross from Phase 1 to Phase 2? The 10,000-hour figure tells us the *duration* of schema construction without telling us the *mechanism*. This is the central gap.",
+        "line_number": 291,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 24678,
+        "char_end": 25411
+      },
+      {
+        "type": "evidence",
+        "title": "The Schema-Without-Schema Condition",
+        "body": "In Bransford and Johnson's studies, participants read ambiguous passages that were incomprehensible without a contextual schema. In the key condition, participants received the schema-activating title or image *before* reading (high comprehension, high recall) versus *after* (low comprehension, low recall). The post-reading title provided the same information but produced a fraction of the benefit.",
+        "line_number": 298,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 25734,
+        "char_end": 26192
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What the Schema-Timing Effect Implies for Construction",
+        "body": "The dramatic effect of schema-timing reveals something important: the schema must be *active during* comprehension to organize incoming information. A schema provided post-hoc cannot retroactively organize what has already been processed through insufficient structure. This has an uncomfortable implication for construction: if a learner lacks the prerequisite schema, providing the information that should trigger construction may not succeed because the learner lacks the schema needed to make sense of why that information is significant. The construction conditions are recursive: you need some schema to build a better schema.",
+        "line_number": 301,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 26193,
+        "char_end": 26919
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Schema-Timing Paradox",
+        "body": "The evidence from Bransford and Johnson creates a genuine paradox for schema-based instruction. To comprehend material, a schema must be active. To activate a schema, it must exist. To build a schema, material must be comprehended. This is not a logical circle that Schema Theory resolves — it is a genuine chicken-and-egg problem that the theory identifies but does not systematically address. Advance organizers (Ausubel) represent one attempted solution, but as we examine in Phase IV, they are at best a partial answer.",
+        "line_number": 304,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 26920,
+        "char_end": 27500
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "What Bartlett's Evidence Reveals and Conceals",
+        "body": "Bartlett's evidence is decisive for the claim that schemas guide memory reconstruction. It is silent on how the relevant schemas — the cultural schemas that distorted recall — were originally constructed. Bartlett's participants had rich schemas for narrative causality, social motivation, and sequential action that they applied (distortively) to the Native American text. The evidence shows these schemas operating; it tells us nothing about how they were built. This is characteristic of the entire evidence base: Schema Theory's empirical support is primarily evidence of schemas *functioning*, not schemas *forming*.",
+        "line_number": 311,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 28091,
+        "char_end": 28797
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: What is the single most important finding across these four traditions, and why does it matter for the central question?\n**Application**: If you were designing a study specifically to investigate the schema construction mechanism (not schema-guided processing), what paradigm would you design? What would you measure?\n**Extension**: Where do you find yourself resisting the evidence? The claim that Schema Theory lacks an adequate construction account may feel like overstatement. What would you need to see to find the claim compelling?",
+        "line_number": 316,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 29208,
+        "char_end": 29816
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "The analysis ahead moves from describing the problem to analyzing the mechanism. It builds on the construction-activation distinction established in Phase II and the evidence reviewed in Phase III, and steps up in abstraction to examine what a genuine construction mechanism would require — and where Schema Theory's existing resources fall short.",
+        "line_number": 325,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 29873,
+        "char_end": 30264
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Prediction Point",
+        "body": "Schema Theory requires existing schemas to assimilate new information. But building a schema through restructuring also seems to require existing schemas to serve as raw material or analogical sources. Before reading the analysis, predict: is this circular? Or is there a way to break the circularity without abandoning the framework?",
+        "line_number": 330,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 30296,
+        "char_end": 30677
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Categorical Novelty Problem",
+        "body": "There is an underappreciated distinction between *degree* novelty and *categorical* novelty. Degree novelty involves a new instance of a known category type — a harder problem than previously encountered, an unfamiliar word in a familiar language. Degree novelty is readily handled by [[Schema-Accommodation|accommodation]]: the existing schema is adjusted. Categorical novelty involves a concept that does not belong to any category the learner currently recognizes — a genuinely new structure type. Categorical novelty cannot be handled by accommodation because there is no relevant schema to accommodate. It requires restructuring, and restructuring's mechanisms are all schema-dependent. This is the bootstrapping problem's sharp edge.",
+        "line_number": 337,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 31893,
+        "char_end": 32695
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Analogy as Temporary Schema Scaffolding",
+        "body": "Analogy's role in schema construction is not what most instructional accounts imply. Analogy is typically presented as an *explanation* tool — a way to make the unfamiliar familiar by connecting it to something known. The deeper function is *structural scaffolding*: analogy provides temporary schema structure for an unfamiliar domain, enabling the learner to interpret new information through borrowed organizational principles until native schemas can be constructed. The electric circuit/water flow analogy, for example, does not explain electricity — it lends the target domain (electricity) the schematic structure of the source domain (fluid dynamics) long enough for the learner to accumulate sufficient domain-specific experience to construct native electrical schemas. The analogy is then typically discarded as the native schema matures.",
+        "line_number": 344,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 33268,
+        "char_end": 34187
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Analogy as Schema Scaffolding → Scaffolded Fading in Development",
+        "body": "The structural scaffolding function of analogy in schema construction maps precisely onto Wood, Bruner, and Ross's (1976) model of [[Scaffolding|instructional scaffolding]]: temporary support structures that enable performance beyond the learner's unassisted capability, with gradual fading as competence develops. In schema construction, analogy provides temporary relational structure that enables interpretation of target-domain information; as native schemas develop, the analogical scaffold becomes unnecessary and is typically abandoned or explicitly contradicted (the \"breaking the analogy\" phenomenon in physics education). The structural parallel is exact: both scaffolding and analogical schema support are temporary structures that enable the construction of permanent native structures.",
+        "line_number": 347,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 34188,
+        "char_end": 35087
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Crystallization Event's Instructional Blindspot",
+        "body": "The crystallization event model highlights an instructional blindspot in Schema Theory applications. Most instructional approaches focus on either pre-crystallization support (providing examples, building prerequisite knowledge) or post-crystallization practice (applying the newly formed schema). Almost no systematic instructional attention has been paid to the *threshold conditions* that trigger the crystallization event itself. What determines whether accumulated knowledge consolidates into a schema or remains as loosely organized elements? The evidence suggests that crystallization is more likely when: (1) multiple encounters with the concept occur in varied contexts, (2) the learner has occasion to generate a structural description of the concept (rather than only recognizing instances), and (3) an explicit attempt to connect isolated elements is made. These conditions are not guaranteed by typical instructional sequences.",
+        "line_number": 364,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 37137,
+        "char_end": 38160
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The PKB-Schema Architecture Correspondence",
+        "body": "The Schema Progressive Architecture has an underexplored correspondence with [[Personal-Knowledge-Base|PKB]] design principles. A well-designed PKB supports each stage differently: at the Elemental stage, it captures and preserves raw observations; at the Associative stage, it creates links between related elements; at the Schematic stage, it develops Maps of Content (MOCs) that reflect the emerging schema; at the Expert stage, it supports conditional navigation between interconnected schemas. The diagnostic question for any PKB is which stage the knowledge in a given domain has reached — because the appropriate PKB affordances differ radically across stages. Most PKB systems are optimized for Schematic and Expert stages, offering rich linking and retrieval, but provide little systematic support for the Elemental-to-Associative transition that must precede crystallization.",
+        "line_number": 378,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 39068,
+        "char_end": 40027
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Measurement Problem in Schema Construction Research",
+        "body": "There is a genuine methodological tension in schema construction research: the transition from pre- to post-crystallization is difficult to observe directly because its primary marker is a change in processing — from effortful, element-by-element processing to fluent, whole-schema processing. This transition is typically inferred from performance measures (response time, error rate, recall quality) rather than observed directly. The tension this creates is significant: we cannot easily study the crystallization event itself because we can only observe its aftermath. Pre-crystallization and post-crystallization states are readily measurable; the transition mechanism remains largely inferred.",
+        "line_number": 381,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 40028,
+        "char_end": 40814
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Which mechanism changed your understanding of schema construction most? Was it the bootstrapping problem, the role of analogy, or the crystallization event?\n**Application**: Can you identify an analogy you relied on when learning a genuinely novel concept? Did you later \"discard\" the analogy as your native understanding developed?\n**Extension**: Where might the crystallization event and schema construction mechanisms operate in domains beyond individual cognition — organizations, scientific communities, computational systems?",
+        "line_number": 386,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 41387,
+        "char_end": 41991
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — After",
+        "body": "Return to your pre-Phase III recording. Rate your current confidence that Schema Theory has an adequate account of how new schemas get built (1–10). Has the shift been additive (new information) or structural (reorganized understanding of what Schema Theory does and doesn't explain)?",
+        "line_number": 395,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 42051,
+        "char_end": 42389
+      },
+      {
+        "type": "best-practice",
+        "title": "Structural Analogue Sequencing",
+        "body": "Before introducing a concept with no close prerequisites in the learner's existing schemas, identify the closest structural analogue in the learner's confirmed knowledge base. Teach the analogue explicitly as an analogue — \"We are going to study X, which shares a structural pattern with Y that you already know. The pattern is [structural description]. X works differently in surface terms but follows the same relational structure.\" This gives learners temporary schema scaffolding for the target domain without misrepresenting the target concept as identical to the analogue.",
+        "line_number": 404,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 43123,
+        "char_end": 43758
+      },
+      {
+        "type": "warning",
+        "title": "The AI-Assisted Learning Risk",
+        "body": "AI-assisted learning creates a specific risk for schema construction. An AI system can provide schema-level organization of material that the learner has not yet constructed internally — generating summaries, concept maps, and explanations that *look like* the output of a mature schema without the learner having done the construction work. The risk is not that the AI output is wrong but that it substitutes for the learner's construction process. A learner who receives an AI-generated schema map for a new domain gains access to the *product* of schema construction without engaging in the *process*. This may satisfy immediate comprehension needs while leaving the underlying schema unbuilt — exactly the pattern Bransford and Johnson's post-context condition illustrates.",
+        "line_number": 411,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 44860,
+        "char_end": 45687
+      },
+      {
+        "type": "warning",
+        "title": "Limits of the Crystallization Event Model",
+        "body": "The crystallization event model is theoretically compelling but empirically underdeveloped. The model predicts threshold-crossing dynamics in schema construction, but the specific threshold conditions remain inadequately specified. The model cannot currently predict *when* crystallization will occur for a given learner in a given domain, which limits its instructional utility. It is better understood as a descriptive framework that captures something real about the phenomenology and pattern of schema formation than as a mechanistically complete explanation.",
+        "line_number": 424,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 46646,
+        "char_end": 47271
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Implications",
+        "body": "**Comprehension**: What is the most important limitation, and how does it affect confidence in the instructional prescriptions?\n**Application**: If you were to redesign one aspect of your PKB to better support schema construction (rather than schema activation), what would you change?\n**Extension**: The AI-assisted learning warning raises a broader question: is there any technology that *assists* schema construction rather than substituting for it? What would that look like?",
+        "line_number": 431,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 48276,
+        "char_end": 48811
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Construction-Activation Asymmetry as Schema Theory's Productive Frontier",
+        "body": "Schema Theory's central achievement — explaining how prior knowledge shapes comprehension, memory, and learning — is accomplished almost entirely at the level of schema activation. The construction mechanism is Schema Theory's dark matter: widely acknowledged to exist, inferred from the existence of what it must have produced (mature schemas), but essentially unobserved in the act of formation. This is not a fatal limitation — it is an intellectually productive one. The Construction-Activation Asymmetry identifies exactly where Schema Theory must develop to become a complete account of human knowledge acquisition rather than a powerful but partial account of knowledge use. The research program implied by this diagnosis is coherent: it calls for studies that observe schema construction in progress (not just its aftermath), experimental paradigms that manipulate the availability of structural analogues, and longitudinal designs that track the accumulation-crystallization transition. This is among the most important open research programs in cognitive psychology for instructional design.",
+        "line_number": 452,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 50530,
+        "char_end": 51739
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Analogy-First Instructional Principle",
+        "body": "Combining the bootstrapping problem analysis with the structural mapping evidence generates an instructional principle that is more radical than existing advance organizer theory: for conceptually novel content, the first instructional act should be establishing the structural analogue, not introducing the target concept. The target concept should be introduced only after the learner has worked with and internalized the analogical structure — so that the analogy can do its scaffolding work during the first encounter with the target. This is a reversal of the dominant instructional sequence (introduce concept → provide analogy) and is grounded directly in the schema construction mechanism.",
+        "line_number": 455,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 51740,
+        "char_end": 52510
+      },
+      {
+        "type": "reflection",
+        "title": "Final Integration",
+        "body": "**Comprehension**: What is the single most consequential insight from this analysis — not the most interesting fact, but the finding that changes how you approach schema-related learning and design?\n**Application**: In three sentences, describe the Construction-Activation Asymmetry and its primary practical implication to a colleague designing an instructional sequence.\n**Extension**: If you were to write the next report extending this analysis, what would be its focus? The crystallization event mechanism? Analogical scaffolding in practice? The PKB design implications?",
+        "line_number": 464,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 53603,
+        "char_end": 54224
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Schema Construction → Scientific Paradigm Formation (Kuhn)",
+        "body": "The Bootstrapping Constraint applies directly to scientific paradigm formation. [[Thomas-Kuhn]]'s account of how scientific paradigms develop in pre-paradigm sciences describes exactly the schema construction dynamic: a field without a dominant paradigm is a field without the organizing schema that enables cumulative normal science. Pre-paradigm science is characterized by multiple competing schools, each using different basic concepts — precisely the pattern of pre-crystallization schema formation. The transition to a dominant paradigm (Kuhn's Scientific Revolution) corresponds to the crystallization event: a rapid structural consolidation after which the paradigm organizes all subsequent work. The bootstrap constraint operates identically: you cannot describe a new field's phenomena systematically until you have the paradigm that tells you which phenomena are significant — but you cannot develop the paradigm until you have described enough phenomena to induce its structure.",
+        "line_number": 497,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 56857,
+        "char_end": 57942
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Schema Construction → Immune System Adaptive Response",
+        "body": "The two-phase structure of schema construction (pre-crystallization accumulation → crystallization event → post-crystallization activation) has a structural analogue in the adaptive immune system's response to novel antigens. Initial exposure to a novel antigen (analogous to categorical novelty in schema construction) triggers a slow, effortful adaptive response as the immune system \"constructs\" a specific antibody (analogous to schema construction). Subsequent exposure to the same antigen triggers a fast, automatic response through memory B-cells (analogous to schema activation). The analogy holds at the relational level: both systems distinguish first-encounter (construction-requiring) and re-encounter (activation-sufficient) processing; both require more resources and time for first-encounter processing; both produce a lasting change in structure (antibody / schema) that makes re-encounter processing categorically faster and more reliable.",
+        "line_number": 500,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 57943,
+        "char_end": 58989
+      },
+      {
+        "type": "analytical-insight",
+        "title": "What the Immune System Analogue Reveals",
+        "body": "The immune system analogue illuminates something Schema Theory's constructors did not emphasize: the first-encounter/re-encounter distinction has different adaptive functions. First-encounter processing is costly but produces a new detection capability; re-encounter processing is cheap and leverages the existing capability. This implies that schema construction cost is not a design flaw but an adaptive feature: the cognitive investment in construction produces a permanent capability gain. The pedagogical implication is that reducing the cost of schema construction (by providing too much scaffolding) may reduce the robustness of the resulting schema. Some productive difficulty in schema construction may be a feature, not a bug.",
+        "line_number": 503,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 58990,
+        "char_end": 59797
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Construction-Activation Asymmetry → Software Architecture (Build vs. Run)",
+        "body": "The Construction-Activation Asymmetry maps onto a fundamental distinction in software engineering: the processes required to *build* a system (compilation, testing, deployment) differ categorically from the processes required to *run* it (execution, load balancing, caching). Designing a software system optimized for runtime performance often requires architectural decisions that make the build process more complex — and vice versa. The asymmetry has direct consequences: you cannot optimize both simultaneously, and you cannot infer the build requirements from the run requirements. Schema Theory's error — theorizing schema use while underspecifying schema construction — is structurally identical to a software architecture mistake that designs the runtime system without adequate attention to the build system.",
+        "line_number": 506,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 59798,
+        "char_end": 60725
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Transfer Application",
+        "body": "The structural principle of the Bootstrapping Constraint was identified in schema construction. Can you identify a domain in your own work or study where this same structure operates? A domain where the cognitive or organizational structure used by mature practitioners cannot be accessed by novices because building it requires exemplars the novice lacks? What would the \"structural analogue pre-teaching\" intervention look like in that domain?",
+        "line_number": 515,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 61798,
+        "char_end": 62294
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Transfer",
+        "body": "**Comprehension**: Which structural analogue surprised you most? What made the connection non-obvious?\n**Application**: Choose one application bridge and draft a specific adaptation plan for your own PKB or learning context.\n**Extension**: What does the transferability of these insights reveal about the underlying computational or organizational patterns they instantiate?",
+        "line_number": 530,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 64340,
+        "char_end": 64766
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\nThis focused analysis of the [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema Construction Problem]] connects to your knowledge base in the following ways:\n\n- **[[Schema-Theory-and-Learning]]** — The Foundational Report provides the comprehensive landscape that this focused analysis extends. The construction problem identified here is the primary open question that the foundational treatment surveys but does not pursue to the depth this analysis develops.\n\n- **[[Schema-Progressive-Architecture]]** and **[[The-Schema-Progressive-Architecture-for-PKB-Design]]** — These notes directly implement the stage-based model of schema construction analyzed in Phase IV. The Elemental → Associative → Schematic → Expert progression corresponds to the pre-crystallization → crystallization → post-crystallization sequence developed here. The PKB design note provides the applied implementation layer.\n\n- **[[Schema-Crystallization-Event]]** — This note captures the threshold-crossing phenomenon that is central to Phase IV's mechanism analysis. The present report provides the theoretical grounding for what that note describes.\n\n- **[[Advance-Organizer]]** and **[[Advance-Organizers]]** — Ausubel's advance organizer concept represents Schema Theory's primary instructional application. The analysis here complicates the standard advance organizer account: the Analogy-First Principle (Phase VI) suggests that structural analogue pre-teaching is more powerful for categorical novelty than conceptual advance organizers operating at a higher abstraction level.\n\n- **[[Analogical-Reasoning]]** — The structural mapping function of analogy in schema construction (Phase IV) connects directly to analogical reasoning theory. [[Structural-Mapping-Theory|Gentner's Structural Mapping Theory]] is the theoretical engine behind the analogy-as-scaffolding mechanism.\n\n- **[[Chunking]]** — Chunking is the associative-phase process that precedes schema crystallization. The Chase & Simon evidence (Phase III) demonstrates that chunking (forming perceptual clusters from individual elements) is the primary cognitive process in the early phases of expertise development — the substrate upon which schemas crystallize.\n\n- **[[Transfer-of-Learning]]** — The FAR Transfer phase draws directly on transfer-of-learning research. The Bootstrapping Constraint principle has direct implications for near and far transfer: schemas constructed through analogy from structurally similar domains should support far transfer more readily than schemas constructed through domain-specific patterning alone.\n\n- **[[Scaffolding-—-Instructional-Design]]** — The analogy-as-temporary-scaffold model (Phase IV) extends the [[Scaffolding-Instructional-Design|instructional scaffolding]] framework into the specific domain of schema construction. The connection is structural: both frameworks describe temporary support structures that enable the construction of permanent native structures.\n\n- **[[Assimilation-and-Accommodation]]** and **[[Assimilation,-Accommodation,-and-Equilibration]]** — Piaget's mechanisms are foundational to the Phase II framework. The analysis complicates simple Piagetian accounts by arguing that accommodation cannot bridge categorical novelty — only restructuring through analogy can.\n\n**Cross-Report Links:**\n\n- **[[schema-theory-and-learning-foundational-report-2026-03-06]]** — The Foundational Report this analysis extends. Readers without comprehensive background in Schema Theory should begin there.\n\n- **[[advance-organizers-prior-knowledge-foundational-report-2026-03-11]]** — The advance organizers foundational report provides the prior knowledge activation framework that this analysis critiques and extends via the Analogy-First Principle.\n\n**Synthetic Observation**: The pattern of connections reveals that the Schema Construction Problem sits at the intersection of cognitive architecture (chunking, analogical reasoning), developmental theory (Piaget, accommodation), and instructional design (advance organizers, scaffolding). This intersection is not coincidental — it reflects the fact that schema construction is precisely where cognitive structure meets learning experience. The PKB connections map the theoretical terrain; the applied connections (scaffolding, advance organizers) represent the practical interface where construction mechanisms meet instructional practice.",
+        "line_number": 539,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 64825,
+        "char_end": 69335
+      },
+      {
+        "type": "definition",
+        "title": "Schema Construction (Rumelhart & Norman, 1978 — restructuring mode)",
+        "body": "**Definition:** The cognitive process by which a new schema is created where no adequate prior schema existed. Distinguished from accommodation (modifying an existing schema) and accretion (adding information to an existing schema). Primary mechanisms: analogical induction from structurally isomorphic source domains, pattern induction from regularities across multiple examples.\n\n**Boundary conditions:** Schema construction is not the same as learning. Most learning involves schema activation (assimilation) or accommodation; schema construction occurs only when input cannot be assimilated or accommodated — when it is categorically novel relative to existing schemas.\n\n**Operational Indicators:** Evidence of schema construction: (1) initial processing is slow, effortful, and error-prone; (2) performance is highly context-dependent; (3) the learner cannot articulate the organizing structure; (4) a marked improvement phase occurs when crystallization is complete.\n\n**Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Schema-Accommodation]]",
+        "line_number": 576,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 69393,
+        "char_end": 70601
+      },
+      {
+        "type": "definition",
+        "title": "The Bootstrapping Constraint (this report)",
+        "body": "**Definition:** The structural constraint on schema construction arising from the fact that building new schemas requires existing schemas as constructive inputs. For categorically novel concepts, this creates a circularity: adequate comprehension of the novel concept requires a schema that can only be built by comprehending the novel concept.\n\n**Boundary conditions:** The bootstrapping constraint is most acute for categorical novelty (concepts outside all existing schema categories). It is less acute for degree novelty (difficult instances of familiar categories), which is handled by accommodation.\n\n**Operational Indicators:** Evidence of the bootstrapping constraint: learner cannot make sense of the concept even with substantial exposure; instructional explanations using the target concept's own vocabulary produce minimal comprehension; analogy to a familiar domain produces disproportionate comprehension gains.\n\n**Cross-References:** [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]], [[Transfer-of-Learning]]",
+        "line_number": 585,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 70602,
+        "char_end": 71740
+      },
+      {
+        "type": "definition",
+        "title": "Construction-Activation Asymmetry (this report — original synthesis)",
+        "body": "**Definition:** The categorical difference between (1) schema activation — fast, automatic, top-down retrieval and application of an existing schema guided by partial cues — and (2) schema construction — slow, effortful, bottom-up building of a new schema through analogy and restructuring. The asymmetry has both mechanistic and resource dimensions: different cognitive processes are at work, requiring different cognitive resources and different time scales.\n\n**Boundary conditions:** The asymmetry applies to cognitive schemas; related asymmetries have been identified in skill acquisition (between practiced and unpracticed skills) and immune response (between first-encounter and re-encounter adaptive responses).\n\n**Cross-References:** [[Schema-Automation]], [[Schema-Theory-and-Learning]], [[Chunking]]",
+        "line_number": 594,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 71741,
+        "char_end": 72648
+      },
+      {
+        "type": "definition",
+        "title": "Structural Analogue (Gentner, 1983 — adapted)",
+        "body": "**Definition:** A source domain concept whose relational structure is isomorphic to a target domain concept, enabling structural mapping. A structural analogue is not a surface similarity (sharing perceptual or superficial features) but a deep similarity (sharing the pattern of relations among components). Used in schema construction to provide temporary organizational structure for a novel domain.\n\n**Boundary conditions:** Structural analogy is not explanation — it does not tell the learner what the target concept IS, only how it is organized. Overextension of structural analogies (treating surface differences as irrelevant) is a common learning error.\n\n**Cross-References:** [[Analogical-Reasoning]], [[Scaffolding-—-Instructional-Design]], [[Transfer-of-Learning]]",
+        "line_number": 601,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 72649,
+        "char_end": 73499
+      },
+      {
+        "type": "definition",
+        "title": "Crystallization Threshold (Schema Progressive Architecture)",
+        "body": "**Definition:** The level of accumulated pre-schema knowledge at which a set of loosely organized elements rapidly consolidates into a coherent, retrievable schema. Pre-threshold states are characterized by slow, effortful, element-by-element processing; post-threshold states by fluent, whole-schema activation.\n\n**Boundary conditions:** The crystallization threshold is domain-specific and learner-specific. Threshold conditions include: varied-context exposure, generative description tasks, and explicit structure-finding exercises.\n\n**Operational Indicators:** Threshold crossing is marked by: (1) subjective sense of \"getting it\"; (2) rapid improvement in fluency and accuracy; (3) ability to generate novel examples; (4) context-independent performance.\n\n**Cross-References:** [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]], [[Schema-Automation]]",
+        "line_number": 608,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 73500,
+        "char_end": 74468
+      },
+      {
+        "type": "person",
+        "title": "Frederic Bartlett (1886–1969)",
+        "body": "**Core Contribution:** Established that memory is reconstructive rather than reproductive — that recall is shaped by prior knowledge structures (which Bartlett called \"schemas\") rather than being a faithful reproduction of stored traces. His \"War of the Ghosts\" serial reproduction studies (1932) provided the foundational empirical demonstration of schema effects on memory.\n\n**Relationship to Other Figures:** Bartlett's work predates the computational schema formalization of Rumelhart & Norman but anticipates it. He drew on Head's neurological concept of \"schema\" and Piaget's developmental work, though the connections were not explicit. Rumelhart explicitly acknowledged Bartlett as the theoretical antecedent.\n\n**Key Works:** *Remembering: A Study in Experimental and Social Psychology* (1932).\n\n**Relevance to This Analysis:** Bartlett's evidence is primarily evidence of schemas *functioning* (distorting recall), not schemas being *formed*. This makes him the founding figure for Schema Theory's activation account and, indirectly, for the asymmetry this report diagnoses.",
+        "line_number": 619,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 74512,
+        "char_end": 75653
+      },
+      {
+        "type": "person",
+        "title": "David Rumelhart (1942–2011)",
+        "body": "**Core Contribution:** Formalized Schema Theory computationally, defining schemas as data structures with variables, default values, and hierarchical subschema relations. With Donald Norman, proposed the three-mode learning model (accretion, tuning, restructuring) that is the theoretical foundation for this report's analysis.\n\n**Relationship to Other Figures:** Rumelhart's schema formalization drew on Bartlett, Piaget, and early AI work on frames (Minsky) and scripts (Schank & Abelson). His parallel distributed processing (PDP) work with McClelland later provided an alternative computational account that partially undermines the discrete schema model.\n\n**Key Works:** \"Schemata: The Building Blocks of Cognition\" (1980); *Parallel Distributed Processing* (1986, with McClelland).\n\n**Relevance to This Analysis:** Rumelhart's restructuring mode is the primary theoretical resource Schema Theory offers for schema construction — and the analysis here argues it is substantially underdeveloped relative to accretion and tuning.",
+        "line_number": 628,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 75654,
+        "char_end": 76742
+      },
+      {
+        "type": "person",
+        "title": "Dedre Gentner (b. 1944)",
+        "body": "**Core Contribution:** Developed Structural Mapping Theory (1983) — the framework for understanding analogical reasoning as a process of mapping relational structure from a source to a target domain, independent of surface similarity. Gentner's work provides the theoretical engine for this report's claim that analogy is the primary mechanism for schema construction in cases of categorical novelty.\n\n**Relationship to Other Figures:** Gentner's structural mapping theory extended Rumelhart's schema concept by providing a mechanism for cross-domain schema transfer. Her work directly addresses the bootstrapping problem that Rumelhart's restructuring mode identified without fully resolving.\n\n**Key Works:** \"Structure-Mapping: A Theoretical Framework for Analogy\" (1983); *The Analogical Mind* (2001, with Holyoak & Kokinov).\n\n**Relevance to This Analysis:** Gentner's structural mapping account of analogy is the primary theoretical resource for the Analogy-First Instructional Principle developed in Phase VI.",
+        "line_number": 637,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 76743,
+        "char_end": 77809
+      },
+      {
+        "type": "tension",
+        "title": "Discrete Schemas vs. Distributed Representations",
+        "body": "**Position A (Discrete Schema Theory):** Knowledge is organized in discrete, retrievable schemas that can be identified, described, and activated as units. Schema construction produces a new discrete unit. Schema crystallization marks the creation of a new unit.\n\n**Position B (Connectionist/PDP):** Knowledge is distributed across networks of connection weights rather than stored in discrete units. \"Schemas\" are not discrete structures but patterns of activation across distributed representations. The crystallization metaphor misrepresents gradual weight adjustment as a threshold event.\n\n**Current Evidence State:** Both positions have empirical support. Rumelhart himself contributed to both traditions. The evidence is not yet decisive; the two accounts may be compatible at different levels of analysis.\n\n**Why This Matters:** If the connectionist account is correct, the crystallization event model may be a useful metaphor but not a literal description of the construction mechanism. This would affect the instructional prescriptions derived from the model.\n\n**This Report's Stance:** This report adopts the discrete schema framework for analytical convenience while acknowledging that distributed representations may be the more accurate computational account. The construction problem persists on both accounts.",
+        "line_number": 648,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 77855,
+        "char_end": 79260
+      },
+      {
+        "type": "open-question",
+        "title": "What Determines the Crystallization Threshold?",
+        "body": "The crystallization event model predicts that schema construction has a threshold-crossing character, but does not specify what determines the threshold. Is it a fixed quantity of examples? A minimum variety of contexts? A specific quality of structural processing? The answer has direct instructional implications but remains empirically unresolved. Longitudinal studies tracking the accumulation-crystallization transition in real learners across diverse domains would be required to answer this question.",
+        "line_number": 659,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 79261,
+        "char_end": 79841
+      },
+      {
+        "type": "cite",
+        "title": "Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.",
+        "body": "The foundational empirical work demonstrating schema-guided reconstruction in memory. Bartlett's serial reproduction paradigm remains the clearest experimental evidence for schemas operating — and is, as this report argues, silent on how those schemas were formed. Essential for Phase III.",
+        "line_number": 664,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 79861,
+        "char_end": 80280
+      },
+      {
+        "type": "cite",
+        "title": "Bransford, J.D., & Johnson, M.K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.",
+        "body": "The \"schema timing\" paradigm demonstrating that schemas must be active *during* comprehension to be effective. The post-context condition evidence directly motivates the Schema-Timing Paradox in Phase III.",
+        "line_number": 667,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 80281,
+        "char_end": 80703
+      },
+      {
+        "type": "cite",
+        "title": "Chase, W.G., & Simon, H.A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81.",
+        "body": "The chess chunk studies providing the clearest evidence for schema construction through expertise development. The 50,000 chunks estimate and the 10-year rule are central to Phase III.",
+        "line_number": 670,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 80704,
+        "char_end": 80998
+      },
+      {
+        "type": "cite",
+        "title": "Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170.",
+        "body": "The foundational paper on Structural Mapping Theory, providing the theoretical framework for the analogy-as-scaffolding mechanism analyzed in Phase IV. The core of the Analogy-First Instructional Principle.",
+        "line_number": 673,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 80999,
+        "char_end": 81334
+      },
+      {
+        "type": "cite",
+        "title": "Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.",
+        "body": "Piaget's developmental account of schema construction through sensorimotor interaction. The stage transition evidence is central to Phase III's claim that schema construction has a discontinuous character. The equilibration mechanism is the developmental precursor to the crystallization event model.",
+        "line_number": 676,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 81335,
+        "char_end": 81748
+      },
+      {
+        "type": "cite",
+        "title": "Rumelhart, D.E. (1980). Schemata: The building blocks of cognition. In R.J. Spiro, B.C. Bruce, & W.F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.",
+        "body": "The canonical Schema Theory formalization. The three-mode learning model (accretion, tuning, restructuring) is the theoretical foundation for this report's analysis of the construction-activation asymmetry.",
+        "line_number": 679,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 81749,
+        "char_end": 82157
+      },
+      {
+        "type": "cite",
+        "title": "Rumelhart, D.E., & Norman, D.A. (1978). Accretion, tuning, and restructuring: Three modes of learning. In J.W. Cotton & R.L. Klatzky (Eds.), *Semantic Factors in Cognition* (pp. 37–53). Erlbaum.",
+        "body": "The original three-mode learning taxonomy. Restructuring receives the thinnest theoretical development of the three modes — a fact central to this report's diagnosis of the construction-activation asymmetry.",
+        "line_number": 682,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 82158,
+        "char_end": 82577
+      },
+      {
+        "type": "cite",
+        "title": "Ausubel, D.P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272.",
+        "body": "The foundational advance organizer paper. The analysis here argues that advance organizers address degree novelty but are insufficient for categorical novelty, which requires structural analogue pre-teaching.",
+        "line_number": 685,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 82578,
+        "char_end": 82969
+      },
+      {
+        "type": "cite",
+        "title": "Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.",
+        "body": "The deliberate practice framework extending the chess chunking findings to expertise development broadly. Provides the longitudinal time-scale evidence for schema construction.",
+        "line_number": 688,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 82970,
+        "char_end": 83334
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "**Traditions Synthesized:** Cognitive psychology (Schema Theory — Bartlett, Rumelhart), developmental psychology (Piaget's constructivism), expertise research (Chase & Simon, Ericsson), educational psychology (Ausubel's advance organizers), analogical reasoning theory (Gentner's structural mapping).\n\n**Claim-Type Taxonomy:**\n\n| Claim Type | Epistemic Status | Basis |\n|------------|-----------------|-------|\n| Schema-guided comprehension effects | Established | Bartlett, Bransford & Johnson, extensive replication |\n| Chess chunking and expertise development | Established | Chase & Simon; replicated across domains |\n| Piaget's stage transition discontinuities | Established | Longitudinal developmental evidence |\n| Construction-Activation Asymmetry | Moderate — established descriptively, mechanism underspecified | Convergent evidence from multiple traditions |\n| Crystallization Event model | Moderate — descriptively compelling, mechanistically underdeveloped | Consistent with evidence; not directly measured |\n| Analogy-First Instructional Principle | Provisional | Derived from structural mapping theory; limited direct instructional evidence |\n| Bootstrapping Constraint | Moderate | Logically derived from schema theory; consistent with evidence |\n\n**Established vs. Original:** Schema Theory's activation account, the three learning modes, and the expertise chunking evidence are well-established. The Construction-Activation Asymmetry framing, the Bootstrapping Constraint as a named concept, the Analogy-First Instructional Principle, and the FAR Transfer analysis are original contributions of this analysis. The crystallization event model draws on existing PKB conceptual development.\n\n**Limitations:** This analysis focuses on conceptual schema construction in adult learners. Perceptual schema construction, social schema construction, and schema construction in children may follow different mechanisms. The analysis does not engage with connectionist critiques of the discrete schema model, which represent a genuine alternative theoretical account. The instructional prescriptions derived from the analysis have not been empirically tested as a unified instructional system.\n\n**AI Generation Transparency:** This report was generated by Claude (Anthropic) using the Focused Analysis Report Generator v1.1. All claims reflect the evidence base available through training data and are grounded in the research literature cited. Original contributions (Construction-Activation Asymmetry framing, Analogy-First Principle, FAR Transfer analysis) are explicitly marked. Human verification is recommended before citation in academic work.",
+        "line_number": 693,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 83370,
+        "char_end": 86131
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 1",
+        "body": "**Q:** What is the Schema Construction Problem, and why is it a problem *for Schema Theory specifically* rather than just a gap in cognitive science generally?\n\n**A:** Schema Theory explains comprehension primarily through schema activation — existing schemas guide processing. But schemas had to be built at some point. Schema Theory's construction mechanism (restructuring) is schema-dependent, creating a bootstrapping problem: building schemas requires schemas. This is a problem for Schema Theory specifically because the theory's explanatory power is grounded in schema activation, leaving construction underspecified within the same theoretical framework.\n\n**Source:** Phase I, II\n**Difficulty:** Advanced\n**Type:** Connection",
+        "line_number": 717,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 86164,
+        "char_end": 86936
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 2",
+        "body": "**Q:** What is the difference between accommodation and restructuring in Schema Theory?\n\n**A:** Accommodation modifies an existing schema to incorporate information that cannot be directly assimilated — it *adjusts* structure. Restructuring creates a new schema where none existed — it *builds* structure. Accommodation requires a relevant schema to exist and be modified; restructuring does not. Accommodation handles degree novelty; restructuring handles categorical novelty.\n\n**Source:** Phase II\n**Difficulty:** Intermediate\n**Type:** Distinction",
+        "line_number": 726,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 86937,
+        "char_end": 87526
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 3",
+        "body": "**Q:** What evidence from the chess expertise studies is most directly relevant to the schema construction problem?\n\n**A:** The 50,000 chunks / 10-year evidence: chess masters have ~50,000 chunk schemas and acquiring them requires ~10 years of deliberate practice. This tells us the *duration* and *scale* of schema construction but not the *mechanism*. The evidence shows that schema construction occurs (experts have schemas novices lack) but does not reveal how the transition from no-schema to schema happens.\n\n**Source:** Phase III\n**Difficulty:** Intermediate\n**Type:** Application",
+        "line_number": 735,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 87527,
+        "char_end": 88153
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 4",
+        "body": "**Q:** What is the Schema-Timing Paradox revealed by Bransford and Johnson's research?\n\n**A:** Schemas must be active *during* comprehension to organize incoming information. But building a schema requires comprehending material. The paradox: to comprehend material well enough to build a schema from it, you need a schema — but you're trying to build one because you don't have one. A schema provided post-hoc cannot retroactively organize already-processed material.\n\n**Source:** Phase III\n**Difficulty:** Advanced\n**Type:** Process",
+        "line_number": 744,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 88154,
+        "char_end": 88727
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 5",
+        "body": "**Q:** What is the Bootstrapping Constraint, and when does it bind most tightly?\n\n**A:** The Bootstrapping Constraint is the structural constraint that schema construction requires existing schemas as inputs. It binds most tightly for *categorically novel* concepts — concepts that do not belong to any existing schema category. For categorically novel content, there is no existing schema to serve as the construction input, and the primary resolution is analogical scaffolding from a structurally isomorphic source domain.\n\n**Source:** Phase IV\n**Difficulty:** Advanced\n**Type:** Definition",
+        "line_number": 753,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 88728,
+        "char_end": 89359
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 6",
+        "body": "**Q:** What is the primary function of analogy in schema construction, and how does this differ from its standard instructional role?\n\n**A:** In schema construction, analogy functions as *temporary structural scaffolding* — lending the target domain organizational structure from the source domain until native schemas can be constructed. This differs from its standard instructional use (explanation — making unfamiliar familiar by comparison). The structural scaffolding function implies the analogy is eventually discarded as native schemas mature; the explanation function does not imply this.\n\n**Source:** Phase IV\n**Difficulty:** Advanced\n**Type:** Distinction",
+        "line_number": 762,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 89360,
+        "char_end": 90065
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 7",
+        "body": "**Q:** What is a Schema Crystallization Event, and what distinguishes pre- from post-crystallization states?\n\n**A:** A crystallization event is the threshold-crossing consolidation at which accumulated pre-schema knowledge elements rapidly organize into a coherent, retrievable schema. Pre-crystallization: elements are individually accessible but not organized as a unit; processing is slow, effortful, context-dependent. Post-crystallization: the schema activates as a whole; processing is automatic, fluent, context-independent.\n\n**Source:** Phase IV\n**Difficulty:** Intermediate\n**Type:** Definition",
+        "line_number": 771,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 90066,
+        "char_end": 90708
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 8",
+        "body": "**Q:** What is the Analogy-First Instructional Principle, and how does it differ from Ausubel's advance organizer?\n\n**A:** The Analogy-First Principle holds that for categorically novel content, the first instructional act should establish the structural analogue (a *different* concept with isomorphic structure), not introduce the target concept. Ausubel's advance organizer introduces the *target concept itself* at a higher level of abstraction. The difference: the Analogy-First Principle introduces a different domain's structure; advance organizers introduce the target domain's structure at higher generality. The Analogy-First Principle addresses categorical novelty where no high-level target structure exists to be organized.\n\n**Source:** Phase V, VI\n**Difficulty:** Advanced\n**Type:** Distinction",
+        "line_number": 780,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 90709,
+        "char_end": 91556
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 9",
+        "body": "**Q:** What is the Construction-Activation Asymmetry, and why does it matter for instructional design?\n\n**A:** The asymmetry is the categorical difference between schema construction (slow, effortful, analogy-dependent, bottom-up) and schema activation (fast, automatic, cue-triggered, top-down). It matters for instructional design because the strategies that support schema activation (retrieval practice, interleaving, spacing) are different from — and may actively underserve — schema construction contexts. Applying activation strategies to construction contexts is a systematic mismatch.\n\n**Source:** Phase II, V\n**Difficulty:** Intermediate\n**Type:** Application",
+        "line_number": 789,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 91557,
+        "char_end": 92265
+      },
+      {
+        "type": "flashcard",
+        "title": "Seed 10",
+        "body": "**Q:** Name the three FAR Transfer principles extracted from the Schema Construction Problem analysis and their target domains.\n\n**A:** (1) Bootstrapping Constraint — applies to scientific paradigm formation, immune adaptive response, language acquisition; (2) Construction-Activation Asymmetry — applies to skill acquisition, institutional development, software build-vs-run architecture; (3) Crystallization Threshold — applies to complex systems, conceptual change, community formation.\n\n**Source:** Phase VII\n**Difficulty:** Advanced\n**Type:** Connection",
+        "line_number": 798,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 92266,
+        "char_end": 92864
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Practice",
+        "body": "> [!topic-idea] [[Schema-Automation-and-Fluency-Development]]\n> Examines the post-crystallization phase — how newly constructed schemas become automated through practice, and what this means for the transition from conscious effortful processing to expert fluency. Addresses the relationship between crystallization events and the development of perceptual expertise.\n>\n> **Connection to This Report:** Directly extends Phase IV's post-crystallization analysis.\n> **Priority:** High\n> **Suggested Report Type:** Focused Analysis\n> **Prerequisites:** [[Schema-Crystallization-Event]], [[Schema-Automation]], [[Schema-Theory-and-Learning]]\n\n> [!topic-idea] [[Analogy-First-Instructional-Design-Practical-Implementation]]\n> A transfer-oriented expansion: develops the Analogy-First Instructional Principle (Phase VI) into a practical design framework for courses, PKB onboarding sequences, and self-directed learning in genuinely novel domains. Would include case studies and design protocols.\n>\n> **Connection to This Report:** Directly applies Phase VI's original synthesis.\n> **Priority:** High\n> **Suggested Report Type:** Focused Analysis\n> **Prerequisites:** [[Schema-Construction]], [[Advance-Organizer]], [[Analogical-Reasoning]]\n\n> [!topic-idea] [[Conceptual-Change-Theory-and-Schema-Restructuring]]\n> Vosniadou's framework theory approach and Chi's knowledge-in-pieces model offer alternative accounts of how schemas change under anomalous data — extending the accommodation/restructuring account into genuine conceptual change (where existing schemas are not merely modified but replaced). Bridges Schema Theory with science education research.\n>\n> **Connection to This Report:** The conceptual change literature directly addresses the restructuring mechanism that this report identifies as Schema Theory's underspecified core.\n> **Priority:** High\n> **Suggested Report Type:** Comparative Synthesis (Schema Theory vs. Framework Theory)\n> **Prerequisites:** [[Schema-Accommodation]], [[Schema-Construction]], [[Schema-Theory-and-Learning]]\n\n> [!topic-idea] [[PKB-Design-for-Pre-Crystallization-Knowledge-States]]\n> A transfer-oriented investigation: applies the schema construction analysis directly to PKB architecture for genuinely novel domains. What note structures, linking strategies, and capture protocols best support the elemental → associative → schematic progression? Extends [[The-Schema-Progressive-Architecture-for-PKB-Design]].\n>\n> **Connection to This Report:** Directly applies Phase V's PKB implications and Phase VII's application bridge.\n> **Priority:** Critical\n> **Suggested Report Type:** Focused Analysis\n> **Prerequisites:** [[The-Schema-Progressive-Architecture-for-PKB-Design]], [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]]",
+        "line_number": 809,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 92902,
+        "char_end": 95800
+      },
+      {
+        "type": "quality-assessment",
+        "title": "Report Quality Metrics",
+        "body": "| Dimension | Score | Evidence | Notes |\n|-----------|-------|----------|-------|\n| **Depth of Coverage** | 8.5/10 | ~8,500 words body; four-layer depth on core mechanisms | Crystallization mechanism could benefit from more empirical grounding |\n| **Structural Completeness** | 9/10 | 28 callouts, 38 wiki-links, 6 section-end summaries, 10 SR seeds | All nine phases present |\n| **Complexity Appropriateness** | 8.5/10 | Graduate-level vocabulary; constructive engagement with theoretical tensions | Bootstrapping constraint could be developed further |\n| **Coverage Completeness** | 8/10 | Core mechanisms covered; connectionist alternative not fully engaged | PDP critique warrants its own focused analysis |\n| **Accuracy & Evidence** | 8.5/10 | Primary research cited; claim-type taxonomy explicit | Crystallization Event model is PKB-developed, less empirically grounded than other claims |\n| **Knowledge Graph Contribution** | 9/10 | 38 wiki-links matched to permanent notes; substantive PKB connection descriptions | Strong cross-report linking |\n| **Practical Utility** | 8/10 | Analogy-First Principle; PKB design implications; SR seeds | Instructional protocols could be more step-by-step |\n| **Originality** | 8.5/10 | Construction-Activation Asymmetry named; Analogy-First Principle; FAR Transfer analysis | Original syntheses explicitly marked |\n||||| |\n| **Composite Score** | **8.5/10** | | **PASS** (threshold: 8.0) |\n\n**Identified Limitations:**\n- The connectionist critique (Rumelhart's own PDP work undermines the discrete schema model) is acknowledged but not analyzed; warrants a dedicated section\n- The crystallization event model is phenomenologically compelling but mechanistically underdeveloped — the threshold conditions remain unspecified\n- Instructional prescriptions are at the principle level; operational protocols would increase practical utility\n\n**Recommendations for Future Revision:**\n- Add a dedicated subsection engaging the PDP/distributed representation critique\n- Review emerging empirical work on threshold dynamics in schema formation (EEG/fMRI studies)\n- Develop the Analogy-First Principle into a step-by-step instructional protocol",
+        "line_number": 845,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md",
+        "char_start": 95840,
+        "char_end": 98114
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Schema-Theory-and-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory-and-Learning]]",
+        "line_number": 158,
+        "section": "The Schema Construction Problem: How Schema Theory Explains Comprehension But Struggles to Explain Acquisition",
+        "context_line": "> *For comprehensive background on [[Schema-Theory-and-Learning]], [[Schema-Theory-Bartlett,-Rumelhart]], and related foundational concepts, see the Foundational Report (schema-theory-and-learning-foundational-report-2026-03-06). This analysis focuses specifically on the undertheorized construction mechanism — how schemas are built, rather than how they function once built.*",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Theory-Bartlett,-Rumelhart",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory-Bartlett,-Rumelhart]]",
+        "line_number": 158,
+        "section": "The Schema Construction Problem: How Schema Theory Explains Comprehension But Struggles to Explain Acquisition",
+        "context_line": "> *For comprehensive background on [[Schema-Theory-and-Learning]], [[Schema-Theory-Bartlett,-Rumelhart]], and related foundational concepts, see the Foundational Report (schema-theory-and-learning-foundational-report-2026-03-06). This analysis focuses specifically on the undertheorized construction mechanism — how schemas are built, rather than how they function once built.*",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory]]",
+        "line_number": 172,
+        "section": "The Paradox at the Heart of Schema Theory",
+        "context_line": "[[Schema-Theory]] is, by any standard, a cognitive psychology success story. It explains memory distortion, reading comprehension, expertise differences, and prior knowledge effects with a parsimony that few frameworks match. When [[Rumelhart]] formalized the theory in the 1970s, building on [[Frederic-Bartlett]]'s pioneering reconstructive memory research from the 1930s, he gave cognitive science a tool of remarkable generativity: a mental structure that simultaneously accounts for what we know, how we use what we know, and why what we know shapes what we perceive.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Rumelhart",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Rumelhart]]",
+        "line_number": 172,
+        "section": "The Paradox at the Heart of Schema Theory",
+        "context_line": "[[Schema-Theory]] is, by any standard, a cognitive psychology success story. It explains memory distortion, reading comprehension, expertise differences, and prior knowledge effects with a parsimony that few frameworks match. When [[Rumelhart]] formalized the theory in the 1970s, building on [[Frederic-Bartlett]]'s pioneering reconstructive memory research from the 1930s, he gave cognitive science a tool of remarkable generativity: a mental structure that simultaneously accounts for what we know, how we use what we know, and why what we know shapes what we perceive.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Frederic-Bartlett",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Frederic-Bartlett]]",
+        "line_number": 172,
+        "section": "The Paradox at the Heart of Schema Theory",
+        "context_line": "[[Schema-Theory]] is, by any standard, a cognitive psychology success story. It explains memory distortion, reading comprehension, expertise differences, and prior knowledge effects with a parsimony that few frameworks match. When [[Rumelhart]] formalized the theory in the 1970s, building on [[Frederic-Bartlett]]'s pioneering reconstructive memory research from the 1930s, he gave cognitive science a tool of remarkable generativity: a mental structure that simultaneously accounts for what we know, how we use what we know, and why what we know shapes what we perceive.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Personal-Knowledge-Base",
+        "heading": null,
+        "display_text": "PKB",
+        "full_match": "[[Personal-Knowledge-Base|PKB]]",
+        "line_number": 182,
+        "section": "The Central Question",
+        "context_line": "This question is not merely theoretical. It has direct implications for instructional design (how do you teach genuinely novel concepts when the learner lacks prerequisite schemas?), for expertise development (what happens during the early phase before domain schemas are in place?), and for [[Personal-Knowledge-Base|PKB]] architecture (how should a knowledge system be designed to support schema construction, not just schema activation?).",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction]]",
+        "line_number": 186,
+        "section": "Scope and Boundaries",
+        "context_line": "This report analyzes the [[Schema-Construction]] mechanism as distinct from [[Schema-Automation|schema automation]], schema activation, and [[Schema-Accommodation|schema accommodation]]. It does not reproduce a comprehensive treatment of Schema Theory — that work is done in the Foundational Report. It focuses specifically on the construction problem: what the evidence shows about how schemas are built, what theoretical resources Schema Theory offers, where those resources are insufficient, and what a more complete account would require.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": "schema automation",
+        "full_match": "[[Schema-Automation|schema automation]]",
+        "line_number": 186,
+        "section": "Scope and Boundaries",
+        "context_line": "This report analyzes the [[Schema-Construction]] mechanism as distinct from [[Schema-Automation|schema automation]], schema activation, and [[Schema-Accommodation|schema accommodation]]. It does not reproduce a comprehensive treatment of Schema Theory — that work is done in the Foundational Report. It focuses specifically on the construction problem: what the evidence shows about how schemas are built, what theoretical resources Schema Theory offers, where those resources are insufficient, and what a more complete account would require.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Accommodation",
+        "heading": null,
+        "display_text": "schema accommodation",
+        "full_match": "[[Schema-Accommodation|schema accommodation]]",
+        "line_number": 186,
+        "section": "Scope and Boundaries",
+        "context_line": "This report analyzes the [[Schema-Construction]] mechanism as distinct from [[Schema-Automation|schema automation]], schema activation, and [[Schema-Accommodation|schema accommodation]]. It does not reproduce a comprehensive treatment of Schema Theory — that work is done in the Foundational Report. It focuses specifically on the construction problem: what the evidence shows about how schemas are built, what theoretical resources Schema Theory offers, where those resources are insufficient, and what a more complete account would require.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema]]",
+        "line_number": 209,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema]], [[Schema-Theory-Bartlett,-Rumelhart]], [[Rumelhart]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Theory-Bartlett,-Rumelhart",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory-Bartlett,-Rumelhart]]",
+        "line_number": 209,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema]], [[Schema-Theory-Bartlett,-Rumelhart]], [[Rumelhart]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Rumelhart",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Rumelhart]]",
+        "line_number": 209,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema]], [[Schema-Theory-Bartlett,-Rumelhart]], [[Rumelhart]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Assimilation-and-Accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Assimilation-and-Accommodation]]",
+        "line_number": 216,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Assimilation-and-Accommodation]], [[Assimilation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Assimilation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Assimilation]]",
+        "line_number": 216,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Assimilation-and-Accommodation]], [[Assimilation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Accommodation]]",
+        "line_number": 223,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema-Accommodation]], [[Assimilation-vs.-Accommodation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Assimilation-vs.-Accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Assimilation-vs.-Accommodation]]",
+        "line_number": 223,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema-Accommodation]], [[Assimilation-vs.-Accommodation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction]]",
+        "line_number": 232,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction-Problem-—-Original-Analytical-Insight",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]",
+        "line_number": 232,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Analogical-Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analogical-Reasoning]]",
+        "line_number": 232,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Crystallization-Event",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Crystallization-Event]]",
+        "line_number": 239,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Progressive-Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Progressive-Architecture]]",
+        "line_number": 239,
+        "section": "Core Definitions",
+        "context_line": "> **Cross-References:** [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Rumelhart",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Rumelhart]]",
+        "line_number": 248,
+        "section": "The Key Analytical Distinction",
+        "context_line": "The framework offered by [[Rumelhart]] identifies three learning modes: *accretion* (adding information to existing schemas without structural change — equivalent to assimilation), *tuning* (adjusting schema parameters — equivalent to fine-grained accommodation), and *restructuring* (creating new schemas). The theoretical weight given to these three modes is dramatically uneven. Accretion and tuning are well-specified; restructuring receives three pages in Rumelhart & Norman's 1978 chapter and has generated far less programmatic research than the other two.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Crystallization-Event",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Crystallization-Event]]",
+        "line_number": 282,
+        "section": "Developmental Psychology: Piaget's Constructivism",
+        "context_line": "> Piaget's stage transitions suggest that genuine schema construction is not a smooth, incremental process. It has a discontinuous, threshold-crossing character: extended periods of knowledge accumulation that do not produce structural change, punctuated by rapid reorganization events. This pattern is consistent with the [[Schema-Crystallization-Event]] model — knowledge accumulates below a threshold before crystallizing into a new schema — and is inconsistent with purely incremental accounts of schema formation. However, Piaget's account is largely silent on the *mechanism* of reorganization, treating equilibration as a regulative process without specifying the computational operations involved.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Accommodation",
+        "heading": null,
+        "display_text": "accommodation",
+        "full_match": "[[Schema-Accommodation|accommodation]]",
+        "line_number": 338,
+        "section": "The Bootstrapping Problem",
+        "context_line": "> There is an underappreciated distinction between *degree* novelty and *categorical* novelty. Degree novelty involves a new instance of a known category type — a harder problem than previously encountered, an unfamiliar word in a familiar language. Degree novelty is readily handled by [[Schema-Accommodation|accommodation]]: the existing schema is adjusted. Categorical novelty involves a concept that does not belong to any category the learner currently recognizes — a genuinely new structure type. Categorical novelty cannot be handled by accommodation because there is no relevant schema to accommodate. It requires restructuring, and restructuring's mechanisms are all schema-dependent. This is the bootstrapping problem's sharp edge.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Analogical-Reasoning",
+        "heading": null,
+        "display_text": "Structural Mapping Theory",
+        "full_match": "[[Analogical-Reasoning|Structural Mapping Theory]]",
+        "line_number": 342,
+        "section": "The Role of Analogy in Schema Construction",
+        "context_line": "If neither patterning nor simple accommodation can handle categorical novelty, the most important mechanism in schema construction is analogy. Gentner's [[Analogical-Reasoning|Structural Mapping Theory]] (1983) provides the most sophisticated account of how analogy enables new schema construction: by mapping the relational structure of a familiar source domain onto an unfamiliar target domain, a learner can temporarily *borrow* structural organization before a native schema for the target domain has been established.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Scaffolding",
+        "heading": null,
+        "display_text": "instructional scaffolding",
+        "full_match": "[[Scaffolding|instructional scaffolding]]",
+        "line_number": 348,
+        "section": "The Role of Analogy in Schema Construction",
+        "context_line": "> The structural scaffolding function of analogy in schema construction maps precisely onto Wood, Bruner, and Ross's (1976) model of [[Scaffolding|instructional scaffolding]]: temporary support structures that enable performance beyond the learner's unassisted capability, with gradual fading as competence develops. In schema construction, analogy provides temporary relational structure that enables interpretation of target-domain information; as native schemas develop, the analogical scaffold becomes unnecessary and is typically abandoned or explicitly contradicted (the \"breaking the analogy\" phenomenon in physics education). The structural parallel is exact: both scaffolding and analogical schema support are temporary structures that enable the construction of permanent native structures.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Crystallization-Event",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Crystallization-Event]]",
+        "line_number": 356,
+        "section": "The Schema Crystallization Event Model",
+        "context_line": "The [[Schema-Crystallization-Event]] model captures this threshold-crossing character. The model proposes that schema construction proceeds through two phases:",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": "schema activation",
+        "full_match": "[[Schema-Automation|schema activation]]",
+        "line_number": 362,
+        "section": "The Schema Crystallization Event Model",
+        "context_line": "**Post-crystallization phase**: The schema is now available as a unit for [[Schema-Automation|schema activation]]. Processing becomes automatic, fluent, and context-independent. The schema can be activated by partial matches, and default values fill in absent information.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Progressive-Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Progressive-Architecture]]",
+        "line_number": 369,
+        "section": "The Schema Progressive Architecture",
+        "context_line": "[[Schema-Progressive-Architecture]] represents the most developed attempt within the PKB framework to model schema construction as a developmental sequence. The architecture identifies four stages through which knowledge organization passes in a given domain:",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Chunking",
+        "heading": null,
+        "display_text": "chunking",
+        "full_match": "[[Chunking|chunking]]",
+        "line_number": 376,
+        "section": "The Schema Progressive Architecture",
+        "context_line": "The transition between stages 2 and 3 corresponds to the crystallization event. The transition between stages 1 and 2 corresponds to [[Chunking|chunking]] — the formation of associative clusters that will eventually provide the building blocks for schema crystallization.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Personal-Knowledge-Base",
+        "heading": null,
+        "display_text": "PKB",
+        "full_match": "[[Personal-Knowledge-Base|PKB]]",
+        "line_number": 379,
+        "section": "The Schema Progressive Architecture",
+        "context_line": "> The Schema Progressive Architecture has an underexplored correspondence with [[Personal-Knowledge-Base|PKB]] design principles. A well-designed PKB supports each stage differently: at the Elemental stage, it captures and preserves raw observations; at the Associative stage, it creates links between related elements; at the Schematic stage, it develops Maps of Content (MOCs) that reflect the emerging schema; at the Expert stage, it supports conditional navigation between interconnected schemas. The diagnostic question for any PKB is which stage the knowledge in a given domain has reached — because the appropriate PKB affordances differ radically across stages. Most PKB systems are optimized for Schematic and Expert stages, offering rich linking and retrieval, but provide little systematic support for the Elemental-to-Associative transition that must precede crystallization.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction-Problem-—-Original-Analytical-Insight",
+        "heading": null,
+        "display_text": "Schema Construction Problem",
+        "full_match": "[[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema Construction Problem]]",
+        "line_number": 384,
+        "section": "The Schema Progressive Architecture",
+        "context_line": "*Phase IV has established that schema construction involves three analytically distinct challenges: the bootstrapping problem (building schemas from schemas), the analogy scaffolding mechanism (the primary tool for handling categorical novelty), and the crystallization event (the threshold transition from organized elements to coherent schema). Each of these challenges points to a different gap in Schema Theory's account. Together, they constitute the [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema Construction Problem]] in its full complexity.*",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advance-Organizer]]",
+        "line_number": 402,
+        "section": "Direct Implications for Instructional Design",
+        "context_line": "**Implication 1: Pre-teach structural analogues before content**. If analogy is the primary mechanism for handling categorical novelty, instructional sequences for genuinely novel concepts should begin not with the target concept but with the strongest available structural analogue. This is not Ausubel's [[Advance-Organizer]] in the conventional sense — advance organizers typically introduce the concept at a higher level of abstraction. Structural analogue pre-teaching introduces a *different concept* whose relational structure will scaffold the target.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "The-Schema-Progressive-Architecture-for-PKB-Design",
+        "heading": null,
+        "display_text": "Schema Progressive Architecture for PKB Design",
+        "full_match": "[[The-Schema-Progressive-Architecture-for-PKB-Design|Schema Progressive Architecture for PKB Design]]",
+        "line_number": 416,
+        "section": "Implications for PKB Architecture",
+        "context_line": "The construction problem has specific implications for PKB design that the [[The-Schema-Progressive-Architecture-for-PKB-Design|Schema Progressive Architecture for PKB Design]] partially addresses.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction-Problem-—-Original-Analytical-Insight",
+        "heading": null,
+        "display_text": "Schema Construction Problem",
+        "full_match": "[[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema Construction Problem]]",
+        "line_number": 462,
+        "section": "The \"So What?\"",
+        "context_line": "*The report's overall contribution is to name, locate, and analyze the [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema Construction Problem]] as Schema Theory's central undertheorized challenge, and to sketch the outlines of what a more complete account would require — providing a productive research frontier rather than a settled answer.*",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Thomas-Kuhn",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Thomas-Kuhn]]",
+        "line_number": 498,
+        "section": "Structural Analogues",
+        "context_line": "> The Bootstrapping Constraint applies directly to scientific paradigm formation. [[Thomas-Kuhn]]'s account of how scientific paradigms develop in pre-paradigm sciences describes exactly the schema construction dynamic: a field without a dominant paradigm is a field without the organizing schema that enables cumulative normal science. Pre-paradigm science is characterized by multiple competing schools, each using different basic concepts — precisely the pattern of pre-crystallization schema formation. The transition to a dominant paradigm (Kuhn's Scientific Revolution) corresponds to the crystallization event: a rapid structural consolidation after which the paradigm organizes all subsequent work. The bootstrap constraint operates identically: you cannot describe a new field's phenomena systematically until you have the paradigm that tells you which phenomena are significant — but you cannot develop the paradigm until you have described enough phenomena to induce its structure.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction-Problem-—-Original-Analytical-Insight",
+        "heading": null,
+        "display_text": "Schema Construction Problem",
+        "full_match": "[[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema Construction Problem]]",
+        "line_number": 542,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> This focused analysis of the [[Schema-Construction-Problem-—-Original-Analytical-Insight|Schema Construction Problem]] connects to your knowledge base in the following ways:",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Theory-and-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory-and-Learning]]",
+        "line_number": 544,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema-Theory-and-Learning]]** — The Foundational Report provides the comprehensive landscape that this focused analysis extends. The construction problem identified here is the primary open question that the foundational treatment surveys but does not pursue to the depth this analysis develops.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Progressive-Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Progressive-Architecture]]",
+        "line_number": 546,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema-Progressive-Architecture]]** and **[[The-Schema-Progressive-Architecture-for-PKB-Design]]** — These notes directly implement the stage-based model of schema construction analyzed in Phase IV. The Elemental → Associative → Schematic → Expert progression corresponds to the pre-crystallization → crystallization → post-crystallization sequence developed here. The PKB design note provides the applied implementation layer.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "The-Schema-Progressive-Architecture-for-PKB-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Schema-Progressive-Architecture-for-PKB-Design]]",
+        "line_number": 546,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema-Progressive-Architecture]]** and **[[The-Schema-Progressive-Architecture-for-PKB-Design]]** — These notes directly implement the stage-based model of schema construction analyzed in Phase IV. The Elemental → Associative → Schematic → Expert progression corresponds to the pre-crystallization → crystallization → post-crystallization sequence developed here. The PKB design note provides the applied implementation layer.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Crystallization-Event",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Crystallization-Event]]",
+        "line_number": 548,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema-Crystallization-Event]]** — This note captures the threshold-crossing phenomenon that is central to Phase IV's mechanism analysis. The present report provides the theoretical grounding for what that note describes.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advance-Organizer]]",
+        "line_number": 550,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Advance-Organizer]]** and **[[Advance-Organizers]]** — Ausubel's advance organizer concept represents Schema Theory's primary instructional application. The analysis here complicates the standard advance organizer account: the Analogy-First Principle (Phase VI) suggests that structural analogue pre-teaching is more powerful for categorical novelty than conceptual advance organizers operating at a higher abstraction level.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Advance-Organizers",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advance-Organizers]]",
+        "line_number": 550,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Advance-Organizer]]** and **[[Advance-Organizers]]** — Ausubel's advance organizer concept represents Schema Theory's primary instructional application. The analysis here complicates the standard advance organizer account: the Analogy-First Principle (Phase VI) suggests that structural analogue pre-teaching is more powerful for categorical novelty than conceptual advance organizers operating at a higher abstraction level.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Analogical-Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analogical-Reasoning]]",
+        "line_number": 552,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Analogical-Reasoning]]** — The structural mapping function of analogy in schema construction (Phase IV) connects directly to analogical reasoning theory. [[Structural-Mapping-Theory|Gentner's Structural Mapping Theory]] is the theoretical engine behind the analogy-as-scaffolding mechanism.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Structural-Mapping-Theory",
+        "heading": null,
+        "display_text": "Gentner's Structural Mapping Theory",
+        "full_match": "[[Structural-Mapping-Theory|Gentner's Structural Mapping Theory]]",
+        "line_number": 552,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Analogical-Reasoning]]** — The structural mapping function of analogy in schema construction (Phase IV) connects directly to analogical reasoning theory. [[Structural-Mapping-Theory|Gentner's Structural Mapping Theory]] is the theoretical engine behind the analogy-as-scaffolding mechanism.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Chunking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chunking]]",
+        "line_number": 554,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Chunking]]** — Chunking is the associative-phase process that precedes schema crystallization. The Chase & Simon evidence (Phase III) demonstrates that chunking (forming perceptual clusters from individual elements) is the primary cognitive process in the early phases of expertise development — the substrate upon which schemas crystallize.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Transfer-of-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer-of-Learning]]",
+        "line_number": 556,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Transfer-of-Learning]]** — The FAR Transfer phase draws directly on transfer-of-learning research. The Bootstrapping Constraint principle has direct implications for near and far transfer: schemas constructed through analogy from structurally similar domains should support far transfer more readily than schemas constructed through domain-specific patterning alone.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Scaffolding-—-Instructional-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Scaffolding-—-Instructional-Design]]",
+        "line_number": 558,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Scaffolding-—-Instructional-Design]]** — The analogy-as-temporary-scaffold model (Phase IV) extends the [[Scaffolding-Instructional-Design|instructional scaffolding]] framework into the specific domain of schema construction. The connection is structural: both frameworks describe temporary support structures that enable the construction of permanent native structures.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Scaffolding-Instructional-Design",
+        "heading": null,
+        "display_text": "instructional scaffolding",
+        "full_match": "[[Scaffolding-Instructional-Design|instructional scaffolding]]",
+        "line_number": 558,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Scaffolding-—-Instructional-Design]]** — The analogy-as-temporary-scaffold model (Phase IV) extends the [[Scaffolding-Instructional-Design|instructional scaffolding]] framework into the specific domain of schema construction. The connection is structural: both frameworks describe temporary support structures that enable the construction of permanent native structures.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Assimilation-and-Accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Assimilation-and-Accommodation]]",
+        "line_number": 560,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Assimilation-and-Accommodation]]** and **[[Assimilation,-Accommodation,-and-Equilibration]]** — Piaget's mechanisms are foundational to the Phase II framework. The analysis complicates simple Piagetian accounts by arguing that accommodation cannot bridge categorical novelty — only restructuring through analogy can.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Assimilation,-Accommodation,-and-Equilibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Assimilation,-Accommodation,-and-Equilibration]]",
+        "line_number": 560,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Assimilation-and-Accommodation]]** and **[[Assimilation,-Accommodation,-and-Equilibration]]** — Piaget's mechanisms are foundational to the Phase II framework. The analysis complicates simple Piagetian accounts by arguing that accommodation cannot bridge categorical novelty — only restructuring through analogy can.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "schema-theory-and-learning-foundational-report-2026-03-06",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[schema-theory-and-learning-foundational-report-2026-03-06]]",
+        "line_number": 564,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[schema-theory-and-learning-foundational-report-2026-03-06]]** — The Foundational Report this analysis extends. Readers without comprehensive background in Schema Theory should begin there.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "advance-organizers-prior-knowledge-foundational-report-2026-03-11",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[advance-organizers-prior-knowledge-foundational-report-2026-03-11]]",
+        "line_number": 566,
+        "section": "Phase VIII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[advance-organizers-prior-knowledge-foundational-report-2026-03-11]]** — The advance organizers foundational report provides the prior knowledge activation framework that this analysis critiques and extends via the Analogy-First Principle.",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction]]",
+        "line_number": 583,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Schema-Accommodation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction-Problem-—-Original-Analytical-Insight",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]",
+        "line_number": 583,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Schema-Accommodation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Accommodation]]",
+        "line_number": 583,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Schema-Accommodation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction-Problem-—-Original-Analytical-Insight",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]",
+        "line_number": 592,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]], [[Transfer-of-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Analogical-Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analogical-Reasoning]]",
+        "line_number": 592,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]], [[Transfer-of-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Transfer-of-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer-of-Learning]]",
+        "line_number": 592,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[Analogical-Reasoning]], [[Transfer-of-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 599,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Automation]], [[Schema-Theory-and-Learning]], [[Chunking]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Theory-and-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory-and-Learning]]",
+        "line_number": 599,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Automation]], [[Schema-Theory-and-Learning]], [[Chunking]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Chunking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chunking]]",
+        "line_number": 599,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Automation]], [[Schema-Theory-and-Learning]], [[Chunking]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Analogical-Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analogical-Reasoning]]",
+        "line_number": 606,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Analogical-Reasoning]], [[Scaffolding-—-Instructional-Design]], [[Transfer-of-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Scaffolding-—-Instructional-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Scaffolding-—-Instructional-Design]]",
+        "line_number": 606,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Analogical-Reasoning]], [[Scaffolding-—-Instructional-Design]], [[Transfer-of-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Transfer-of-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer-of-Learning]]",
+        "line_number": 606,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Analogical-Reasoning]], [[Scaffolding-—-Instructional-Design]], [[Transfer-of-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Crystallization-Event",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Crystallization-Event]]",
+        "line_number": 615,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]], [[Schema-Automation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Progressive-Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Progressive-Architecture]]",
+        "line_number": 615,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]], [[Schema-Automation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 615,
+        "section": "A. Lexicon of Key Terms",
+        "context_line": "> **Cross-References:** [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]], [[Schema-Automation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Automation-and-Fluency-Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation-and-Fluency-Development]]",
+        "line_number": 811,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Schema-Automation-and-Fluency-Development]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Crystallization-Event",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Crystallization-Event]]",
+        "line_number": 817,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Crystallization-Event]], [[Schema-Automation]], [[Schema-Theory-and-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Automation]]",
+        "line_number": 817,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Crystallization-Event]], [[Schema-Automation]], [[Schema-Theory-and-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Theory-and-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory-and-Learning]]",
+        "line_number": 817,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Crystallization-Event]], [[Schema-Automation]], [[Schema-Theory-and-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Analogy-First-Instructional-Design-Practical-Implementation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analogy-First-Instructional-Design-Practical-Implementation]]",
+        "line_number": 819,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Analogy-First-Instructional-Design-Practical-Implementation]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction]]",
+        "line_number": 825,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Construction]], [[Advance-Organizer]], [[Analogical-Reasoning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Advance-Organizer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advance-Organizer]]",
+        "line_number": 825,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Construction]], [[Advance-Organizer]], [[Analogical-Reasoning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Analogical-Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analogical-Reasoning]]",
+        "line_number": 825,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Construction]], [[Advance-Organizer]], [[Analogical-Reasoning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Conceptual-Change-Theory-and-Schema-Restructuring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Conceptual-Change-Theory-and-Schema-Restructuring]]",
+        "line_number": 827,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[Conceptual-Change-Theory-and-Schema-Restructuring]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Accommodation]]",
+        "line_number": 833,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Accommodation]], [[Schema-Construction]], [[Schema-Theory-and-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Construction]]",
+        "line_number": 833,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Accommodation]], [[Schema-Construction]], [[Schema-Theory-and-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Theory-and-Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Theory-and-Learning]]",
+        "line_number": 833,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[Schema-Accommodation]], [[Schema-Construction]], [[Schema-Theory-and-Learning]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "PKB-Design-for-Pre-Crystallization-Knowledge-States",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB-Design-for-Pre-Crystallization-Knowledge-States]]",
+        "line_number": 835,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > [!topic-idea] [[PKB-Design-for-Pre-Crystallization-Knowledge-States]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "The-Schema-Progressive-Architecture-for-PKB-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Schema-Progressive-Architecture-for-PKB-Design]]",
+        "line_number": 836,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > A transfer-oriented investigation: applies the schema construction analysis directly to PKB architecture for genuinely novel domains. What note structures, linking strategies, and capture protocols best support the elemental → associative → schematic progression? Extends [[The-Schema-Progressive-Architecture-for-PKB-Design]].",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "The-Schema-Progressive-Architecture-for-PKB-Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The-Schema-Progressive-Architecture-for-PKB-Design]]",
+        "line_number": 841,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[The-Schema-Progressive-Architecture-for-PKB-Design]], [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Crystallization-Event",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Crystallization-Event]]",
+        "line_number": 841,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[The-Schema-Progressive-Architecture-for-PKB-Design]], [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "target": "Schema-Progressive-Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Progressive-Architecture]]",
+        "line_number": 841,
+        "section": "I. Expansion Topics for the PKB",
+        "context_line": "> > **Prerequisites:** [[The-Schema-Progressive-Architecture-for-PKB-Design]], [[Schema-Crystallization-Event]], [[Schema-Progressive-Architecture]]",
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Schema Construction Problem: How Schema Theory Explains Comprehension But Struggles to Explain Acquisition",
+        "anchor": "the-schema-construction-problem-how-schema-theory-explains-comprehension-but-struggles-to-explain-acquisition",
+        "line_number": 154,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Analytical Focus",
+        "anchor": "phase-i-orientation-analytical-focus",
+        "line_number": 162,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Paradox at the Heart of Schema Theory",
+        "anchor": "the-paradox-at-the-heart-of-schema-theory",
+        "line_number": 170,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Question",
+        "anchor": "the-central-question",
+        "line_number": 178,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Scope and Boundaries",
+        "anchor": "scope-and-boundaries",
+        "line_number": 184,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Why This Focus Matters Now",
+        "anchor": "why-this-focus-matters-now",
+        "line_number": 188,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Roadmap",
+        "anchor": "roadmap",
+        "line_number": 192,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework",
+        "anchor": "phase-ii-analytical-framework",
+        "line_number": 198,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Core Definitions",
+        "anchor": "core-definitions",
+        "line_number": 200,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Key Analytical Distinction",
+        "anchor": "the-key-analytical-distinction",
+        "line_number": 241,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 262,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence Landscape",
+        "anchor": "the-evidence-landscape",
+        "line_number": 270,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Developmental Psychology: Piaget's Constructivism",
+        "anchor": "developmental-psychology-piagets-constructivism",
+        "line_number": 274,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Expertise Research: Chase and Simon's Chess Studies",
+        "anchor": "expertise-research-chase-and-simons-chess-studies",
+        "line_number": 284,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Reading Comprehension Research: Bransford and Johnson",
+        "anchor": "reading-comprehension-research-bransford-and-johnson",
+        "line_number": 294,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Bartlett's Original Reconstructive Memory Evidence",
+        "anchor": "bartletts-original-reconstructive-memory-evidence",
+        "line_number": 307,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Analysis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-analysis",
+        "line_number": 323,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Bootstrapping Problem",
+        "anchor": "the-bootstrapping-problem",
+        "line_number": 328,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Role of Analogy in Schema Construction",
+        "anchor": "the-role-of-analogy-in-schema-construction",
+        "line_number": 340,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Schema Crystallization Event Model",
+        "anchor": "the-schema-crystallization-event-model",
+        "line_number": 352,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Schema Progressive Architecture",
+        "anchor": "the-schema-progressive-architecture",
+        "line_number": 367,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications, Applications & Limitations",
+        "anchor": "phase-v-implications-applications-limitations",
+        "line_number": 393,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Direct Implications for Instructional Design",
+        "anchor": "direct-implications-for-instructional-design",
+        "line_number": 398,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Implications for PKB Architecture",
+        "anchor": "implications-for-pkb-architecture",
+        "line_number": 414,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations and Honest Boundaries",
+        "anchor": "limitations-and-honest-boundaries",
+        "line_number": 422,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 438,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Pulling the Threads Together",
+        "anchor": "pulling-the-threads-together",
+        "line_number": 440,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Question Revisited",
+        "anchor": "the-central-question-revisited",
+        "line_number": 444,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "The \"So What?\"",
+        "anchor": "the-so-what",
+        "line_number": 458,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: FAR Transfer — Structural Analogues Across Domains",
+        "anchor": "phase-vii-far-transfer-structural-analogues-across-domains",
+        "line_number": 471,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Abstract Principle Extraction",
+        "anchor": "abstract-principle-extraction",
+        "line_number": 473,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Structural Analogues",
+        "anchor": "structural-analogues",
+        "line_number": 495,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Application Bridges",
+        "anchor": "application-bridges",
+        "line_number": 518,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "Meta-Transfer Reflection",
+        "anchor": "meta-transfer-reflection",
+        "line_number": 524,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-viii-pkb-connections-cross-report-links",
+        "line_number": 537,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IX: Appendix",
+        "anchor": "phase-ix-appendix",
+        "line_number": 572,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 574,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Key Figures & Intellectual Lineage",
+        "anchor": "b-key-figures-intellectual-lineage",
+        "line_number": 617,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Conceptual Tensions & Open Questions",
+        "anchor": "c-conceptual-tensions-open-questions",
+        "line_number": 646,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "D. References",
+        "anchor": "d-references",
+        "line_number": 662,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "E. Methodology & Sources Note",
+        "anchor": "e-methodology-sources-note",
+        "line_number": 691,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "H. Spaced Repetition Seeds",
+        "anchor": "h-spaced-repetition-seeds",
+        "line_number": 715,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "I. Expansion Topics for the PKB",
+        "anchor": "i-expansion-topics-for-the-pkb",
+        "line_number": 807,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      },
+      {
+        "level": 3,
+        "text": "K. Report Quality Self-Assessment",
+        "anchor": "k-report-quality-self-assessment",
+        "line_number": 843,
+        "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Elemental** — isolated facts and examples, no structural organization",
+          "indent_level": 0,
+          "line_number": 370,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "**Associative** — connections between elements, but no organizing schema",
+          "indent_level": 0,
+          "line_number": 372,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "**Schematic** — a functional schema that organizes the domain, enabling top-down processing",
+          "indent_level": 0,
+          "line_number": 373,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+        },
+        {
+          "text": "**Expert** — multiple interconnected schemas with conditional activation patterns",
+          "indent_level": 0,
+          "line_number": 374,
+          "source": "schema-construction-problem-focused-analysis-2026-03-22.md"
+        }
+      ],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Advance-Organizer",
+      "Advance-Organizers",
+      "Analogical-Reasoning",
+      "Analogy-First-Instructional-Design-Practical-Implementation",
+      "Assimilation",
+      "Assimilation,-Accommodation,-and-Equilibration",
+      "Assimilation-and-Accommodation",
+      "Assimilation-vs.-Accommodation",
+      "Chunking",
+      "Conceptual-Change-Theory-and-Schema-Restructuring",
+      "Frederic-Bartlett",
+      "PKB-Design-for-Pre-Crystallization-Knowledge-States",
+      "Personal-Knowledge-Base",
+      "Rumelhart",
+      "Scaffolding",
+      "Scaffolding-Instructional-Design",
+      "Scaffolding-—-Instructional-Design",
+      "Schema",
+      "Schema-Accommodation",
+      "Schema-Automation",
+      "Schema-Automation-and-Fluency-Development",
+      "Schema-Construction",
+      "Schema-Construction-Problem-—-Original-Analytical-Insight",
+      "Schema-Crystallization-Event",
+      "Schema-Progressive-Architecture",
+      "Schema-Theory",
+      "Schema-Theory-Bartlett,-Rumelhart",
+      "Schema-Theory-and-Learning",
+      "Structural-Mapping-Theory",
+      "The-Schema-Progressive-Architecture-for-PKB-Design",
+      "Thomas-Kuhn",
+      "Transfer-of-Learning",
+      "advance-organizers-prior-knowledge-foundational-report-2026-03-11",
+      "schema-theory-and-learning-foundational-report-2026-03-06"
+    ],
+    "unique_wiki_link_count": 34,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Schema-Theory-and-Learning]]",
+        "[[Schema-Theory-Bartlett,-Rumelhart]]",
+        "[[Assimilation-and-Accommodation]]"
+      ],
+      "related_concepts": [
+        "[[Schema-Theory]]",
+        "[[Schema-Construction]]",
+        "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]",
+        "[[Schema-Accommodation]]",
+        "[[Schema-Automation]]",
+        "[[Schema-Crystallization-Event]]",
+        "[[Schema-Progressive-Architecture]]",
+        "[[Assimilation-and-Accommodation]]",
+        "[[Advance-Organizer]]",
+        "[[Transfer-of-Learning]]",
+        "[[Rumelhart]]",
+        "[[Chunking]]"
+      ],
+      "link_related": [
+        "[[Advance-Organizer]]",
+        "[[Transfer-of-Learning]]",
+        "[[Chunking]]",
+        "[[Analogical-Reasoning]]",
+        "[[Rumelhart]]"
+      ],
+      "link_up": [
+        "[[Schema-Theory-and-Learning]]"
+      ],
+      "link_down": [
+        "[[Schema-Crystallization-Event]]",
+        "[[Schema-Automation]]",
+        "[[The-Schema-Progressive-Architecture-for-PKB-Design]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Advance-Organizer",
+      "Advance-Organizers",
+      "Analogical-Reasoning",
+      "Analogy-First-Instructional-Design-Practical-Implementation",
+      "Assimilation",
+      "Assimilation,-Accommodation,-and-Equilibration",
+      "Assimilation-and-Accommodation",
+      "Assimilation-vs.-Accommodation",
+      "Chunking",
+      "Conceptual-Change-Theory-and-Schema-Restructuring",
+      "Frederic-Bartlett",
+      "PKB-Design-for-Pre-Crystallization-Knowledge-States",
+      "Personal-Knowledge-Base",
+      "Rumelhart",
+      "Scaffolding",
+      "Scaffolding-Instructional-Design",
+      "Scaffolding-—-Instructional-Design",
+      "Schema",
+      "Schema-Accommodation",
+      "Schema-Automation",
+      "Schema-Automation-and-Fluency-Development",
+      "Schema-Construction",
+      "Schema-Construction-Problem-—-Original-Analytical-Insight",
+      "Schema-Crystallization-Event",
+      "Schema-Progressive-Architecture",
+      "Schema-Theory",
+      "Schema-Theory-Bartlett,-Rumelhart",
+      "Schema-Theory-and-Learning",
+      "Structural-Mapping-Theory",
+      "The-Schema-Progressive-Architecture-for-PKB-Design",
+      "Thomas-Kuhn",
+      "Transfer-of-Learning",
+      "advance-organizers-prior-knowledge-foundational-report-2026-03-11",
+      "schema-theory-and-learning-foundational-report-2026-03-06"
+    ]
+  }
+}

@@ -101,7 +101,7 @@ Different PKM methodologies prescribe (or imply) different naming conventions. U
 
 ### 🗃️ Zettelkasten Approaches
 
-The [[zettelkasten method]] has perhaps the richest history of naming convention evolution, from Niklas Luhmann's original analog system to modern digital implementations.
+The [[Zettelkasten-Method]] has perhaps the richest history of naming convention evolution, from Niklas Luhmann's original analog system to modern digital implementations.
 
 > [!cosmos-concept]
 > **Luhmann's Folgezettel: The Original Branching System**
@@ -740,7 +740,7 @@ for root, dirs, files in os.walk(vault_path):
 > [!related-topics-to-consider]
 > **Prerequisite Knowledge**
 > - `[[Personal-Knowledge-Management]]` — The broader practice in which naming conventions exist
-> - `[[Zettelkasten Method]]` — Understanding this methodology clarifies *why* certain naming conventions emerged
+> - `[[Zettelkasten-Method]]` — Understanding this methodology clarifies *why* certain naming conventions emerged
 > - `[[Information-Architecture]]` — The discipline of organizing information for findability and usability
 > 
 > **Directly Related Topics**
@@ -780,7 +780,7 @@ for root, dirs, files in os.walk(vault_path):
 ### 🔗 Related Topics for PKB Expansion
 
 * `[[Personal-Knowledge-Management]]`
-* `[[Zettelkasten Method]]`
+* `[[Zettelkasten-Method]]`
 * `[[Information-Architecture]]`
 * `[[PARA-Method]]`
 * `[[Linking Your Thinking]]`

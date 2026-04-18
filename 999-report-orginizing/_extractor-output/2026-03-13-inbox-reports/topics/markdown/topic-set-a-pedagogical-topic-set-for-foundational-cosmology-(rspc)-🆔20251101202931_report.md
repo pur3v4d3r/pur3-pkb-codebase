@@ -162,7 +162,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Big Bang]]
+- [[Big-Bang|Big Bang]]
 - [[Cepheid variables]]
 - [[Cosmic Inflation Theory]]
 - [[Cosmic Microwave Background]]
@@ -186,7 +186,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Cosmic Microwave Background]] | — | — | A Pedagogical Topic Set for Foundatio... | 38 |
-| 2 | [[Big Bang]] | — | — | A Pedagogical Topic Set for Foundatio... | 38 |
+| 2 | [[Big-Bang|Big Bang]] | — | — | A Pedagogical Topic Set for Foundatio... | 38 |
 | 3 | [[cosmic distance ladder]] | — | — | A Pedagogical Topic Set for Foundatio... | 53 |
 | 4 | [[Cepheid variables]] | — | — | A Pedagogical Topic Set for Foundatio... | 53 |
 | 5 | [[Type Ia supernovae]] | — | — | A Pedagogical Topic Set for Foundatio... | 53 |
@@ -318,7 +318,7 @@ Now let me map each scaffold to a perfect topic:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Big Bang]]
+- [[Big-Bang|Big Bang]]
 - [[Cepheid variables]]
 - [[Cosmic Inflation Theory]]
 - [[Cosmic Microwave Background]]

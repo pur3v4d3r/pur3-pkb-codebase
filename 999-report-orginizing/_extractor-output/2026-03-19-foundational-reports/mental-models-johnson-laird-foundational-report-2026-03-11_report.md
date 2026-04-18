@@ -768,7 +768,7 @@ extraction_summary:
 - [[Multimedia-Learning|Multimedia Learning]]
 - [[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]
 - [[Transfer-of-Learning|Transfer of Learning]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 
 ---
 

@@ -486,11 +486,11 @@ The connection between critical thinking and autonomy also explains why authorit
 >
 > **[[Argumentation-Theory]]** - Critical thinking's emphasis on analyzing, evaluating, and constructing arguments connects to formal and informal logic, rhetorical analysis, and the study of fallacies. Understanding argument structure is essential to critical thinking competence.
 >
-> **[[Information Literacy]]** - The processes of identifying information needs, evaluating source credibility, and synthesizing information from multiple sources constitute shared ground between critical thinking and information literacy frameworks.
+> **[[Information-Literacy]]** - The processes of identifying information needs, evaluating source credibility, and synthesizing information from multiple sources constitute shared ground between critical thinking and information literacy frameworks.
 >
 > **[[Problem-Solving]]** and **[[Creative Thinking]]** - While distinct constructs, critical and creative thinking intersect in complex problem-solving requiring both generative thinking (creating alternatives) and evaluative thinking (assessing alternatives).
 >
-> **[[Cognitive Development]]** - The protracted development of executive functions and prefrontal cortex maturation explains critical thinking's gradual emergence, connecting to Piagetian stages of cognitive development and neo-Piagetian information-processing theories.
+> **[[Cognitive-Development]]** - The protracted development of executive functions and prefrontal cortex maturation explains critical thinking's gradual emergence, connecting to Piagetian stages of cognitive development and neo-Piagetian information-processing theories.
 >
 > **[[Individual Differences]]** - Variation in critical thinking ability connects to research on intelligence (especially fluid intelligence and [[Gf]]), personality (particularly openness to experience and need for cognition), and thinking styles.
 >

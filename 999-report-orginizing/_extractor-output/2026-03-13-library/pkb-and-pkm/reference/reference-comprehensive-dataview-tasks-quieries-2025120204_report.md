@@ -920,15 +920,15 @@ extraction_summary:
 - [[DQL]]
 - [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
-- [[Dashboard Design Principles for PKM]]
-- [[Data Visualization]]
+- [[Dashboard-Design-Principles-for-PKM|Dashboard Design Principles for PKM]]
+- [[Data-Visualization|Data Visualization]]
 - [[Dataview-Plugin|Dataview Plugin]]
-- [[Dataview Query Optimization Techniques]]
+- [[Dataview-Query-Optimization-Techniques|Dataview Query Optimization Techniques]]
 - [[Dataview-Task-Query-Reference|Dataview Task Query Reference]]
 - [[DataviewJS]]
-- [[DataviewJS Custom Functions Library]]
+- [[DataviewJS-Custom-Functions-Library|DataviewJS Custom Functions Library]]
 - [[Date-Functions|Date Functions]]
-- [[Functional Programming]]
+- [[Functional-Programming|Functional Programming]]
 - [[GROUP-BY|GROUP BY]]
 - [[GTD-Workflow|GTD Workflow]]
 - [[Information-Architecture|Information Architecture]]
@@ -1019,7 +1019,7 @@ extraction_summary:
 | 59 | [[Project-Name|Project Name]] | — | — | Project Task Board | 1014 |
 | 60 | [[Blocked]] | — | — | Project Task Board | 1015 |
 | 61 | [[Project-Name|Project Name]] | — | — | Project Task Board | 1023 |
-| 62 | [[Dataview Query Optimization Techniques]] | — | — | 🔗 Related Topics for PKB Expansion | 1033 |
+| 62 | [[Dataview-Query-Optimization-Techniques|Dataview Query Optimization Techniques]] | — | — | 🔗 Related Topics for PKB Expansion | 1033 |
 | 63 | [[Query-Performance|Query Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 64 | [[Obsidian Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
 | 65 | [[JavaScript Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 1036 |
@@ -1027,15 +1027,15 @@ extraction_summary:
 | 67 | [[Task-Management|Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 68 | [[GTD-Workflow|GTD Workflow]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
 | 69 | [[Productivity-Systems|Productivity Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
-| 70 | [[DataviewJS Custom Functions Library]] | — | — | 🔗 Related Topics for PKB Expansion | 1043 |
+| 70 | [[DataviewJS-Custom-Functions-Library|DataviewJS Custom Functions Library]] | — | — | 🔗 Related Topics for PKB Expansion | 1043 |
 | 71 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
-| 72 | [[Functional Programming]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
+| 72 | [[Functional-Programming|Functional Programming]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
 | 73 | [[Obsidian API]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
-| 74 | [[Dashboard Design Principles for PKM]] | — | — | 🔗 Related Topics for PKB Expansion | 1048 |
+| 74 | [[Dashboard-Design-Principles-for-PKM|Dashboard Design Principles for PKM]] | — | — | 🔗 Related Topics for PKB Expansion | 1048 |
 | 75 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
 | 76 | [[User Interface Design]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
 | 77 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
-| 78 | [[Data Visualization]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
+| 78 | [[Data-Visualization|Data Visualization]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
 | 79 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1060 |
 | 80 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 1060 |
 
@@ -1876,15 +1876,15 @@ LIMIT <number>
 - [[DQL]]
 - [[Daily-Notes|Daily Notes]]
 - [[Dashboard-Design|Dashboard Design]]
-- [[Dashboard Design Principles for PKM]]
-- [[Data Visualization]]
+- [[Dashboard-Design-Principles-for-PKM|Dashboard Design Principles for PKM]]
+- [[Data-Visualization|Data Visualization]]
 - [[Dataview-Plugin|Dataview Plugin]]
-- [[Dataview Query Optimization Techniques]]
+- [[Dataview-Query-Optimization-Techniques|Dataview Query Optimization Techniques]]
 - [[Dataview-Task-Query-Reference|Dataview Task Query Reference]]
 - [[DataviewJS]]
-- [[DataviewJS Custom Functions Library]]
+- [[DataviewJS-Custom-Functions-Library|DataviewJS Custom Functions Library]]
 - [[Date-Functions|Date Functions]]
-- [[Functional Programming]]
+- [[Functional-Programming|Functional Programming]]
 - [[GROUP-BY|GROUP BY]]
 - [[GTD-Workflow|GTD Workflow]]
 - [[Information-Architecture|Information Architecture]]

@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Neural Networks]]
+> - **Key-Term**:[[Neural-Networks]]
 > - [**Definition**:
 >   1. Computer architecture in which processors are connected in a manner suggestive of connections between neurons; can learn by trial and error.
 >   2. Any network of neurons or nuclei that function together to perform some function in the body.]

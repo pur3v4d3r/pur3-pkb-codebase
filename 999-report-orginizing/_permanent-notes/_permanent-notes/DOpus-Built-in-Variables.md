@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -137,6 +137,14 @@ importance: medium
 
 **Related concepts** *(from directory-opus-button-compendium.md)*:
 [[Directory-Opus|Directory Opus]] * [[file-management|file management]] * [[command-line|command line]] * [[Command-Prompt|Command Prompt]] * [[Windows-Terminal|Windows Terminal]] * [[Visual-Studio-Code|Visual Studio Code]] * [[Beyond-Compare|Beyond Compare]] * [[Recycle-Bin|Recycle Bin]] * [[Directory-Opus-Scripting|Directory Opus Scripting]] * [[Directory-Opus-Button-Basics|Directory Opus Button Basics]] * [[JavaScript-Fundamentals|JavaScript Fundamentals]] * [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]] * [[Regular-Expressions|Regular Expressions]] * [[Metadata-Understanding|Metadata Understanding]] * [[File-Management-Workflow-Design|File Management Workflow Design]] * [[GTD|GTD]] * [[PARA|PARA]] * [[file-taxonomy|file taxonomy]] * [[Personal-Productivity-Systems|Personal Productivity Systems]] * [[Windows-Shell-Integration|Windows Shell Integration]] * [[context-menu|context menu]] * [[registry|registry]] * [[Windows-Command-Line-Basics|Windows Command Line Basics]] * [[Directory-Opus-Evaluator-Functions|Directory Opus Evaluator Functions]] * [[Basic-Programming-Logic|Basic Programming Logic]] * [[Multi-Tool-Automation-Pipelines|Multi-Tool Automation Pipelines]] * [[CLI-Tool-Proficiency|CLI Tool Proficiency]]
+
+**Related concepts** *(from [[directory-opus-button-compendium]])*:
+[[Directory-Opus|Directory Opus]] * [[file-management|file management]] * [[command-line|command line]] * [[Command-Prompt|Command Prompt]] * [[Windows-Terminal|Windows Terminal]] * [[Visual-Studio-Code|Visual Studio Code]] * [[Beyond-Compare|Beyond Compare]] * [[Recycle-Bin|Recycle Bin]] * [[Directory-Opus-Scripting|Directory Opus Scripting]] * [[Directory-Opus-Button-Basics|Directory Opus Button Basics]] * [[JavaScript-Fundamentals|JavaScript Fundamentals]] * [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]] * [[Regular-Expressions|Regular Expressions]] * [[Metadata-Understanding|Metadata Understanding]] * [[File-Management-Workflow-Design|File Management Workflow Design]] * [[file-taxonomy|file taxonomy]] * [[Personal-Productivity-Systems|Personal Productivity Systems]] * [[Windows-Shell-Integration|Windows Shell Integration]] * [[context-menu|context menu]] * [[Windows-Command-Line-Basics|Windows Command Line Basics]] * [[Directory-Opus-Evaluator-Functions|Directory Opus Evaluator Functions]] * [[Basic-Programming-Logic|Basic Programming Logic]] * [[Multi-Tool-Automation-Pipelines|Multi-Tool Automation Pipelines]] * [[CLI-Tool-Proficiency|CLI Tool Proficiency]]
+
+**Related concepts** *(from [[directory-opus-button-compendium]])*:
+[[Directory-Opus|Directory Opus]] * [[file-management|file management]] * [[command-line|command line]] * [[Command-Prompt|Command Prompt]] * [[Windows-Terminal|Windows Terminal]] * [[Visual-Studio-Code|Visual Studio Code]] * [[Beyond-Compare|Beyond Compare]] * [[Recycle-Bin|Recycle Bin]] * [[Directory-Opus-Scripting|Directory Opus Scripting]] * [[Directory-Opus-Button-Basics|Directory Opus Button Basics]] * [[JavaScript-Fundamentals|JavaScript Fundamentals]] * [[Directory-Opus-Rename-Scripts|Directory Opus Rename Scripts]] * [[Regular-Expressions|Regular Expressions]] * [[Metadata-Understanding|Metadata Understanding]] * [[File-Management-Workflow-Design|File Management Workflow Design]] * [[file-taxonomy|file taxonomy]] * [[Personal-Productivity-Systems|Personal Productivity Systems]] * [[Windows-Shell-Integration|Windows Shell Integration]] * [[context-menu|context menu]] * [[Windows-Command-Line-Basics|Windows Command Line Basics]] * [[Directory-Opus-Evaluator-Functions|Directory Opus Evaluator Functions]] * [[Basic-Programming-Logic|Basic Programming Logic]] * [[Multi-Tool-Automation-Pipelines|Multi-Tool Automation Pipelines]] * [[CLI-Tool-Proficiency|CLI Tool Proficiency]]
+
+
 
 
 ## Source Attribution

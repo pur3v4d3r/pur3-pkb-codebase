@@ -184,7 +184,7 @@ extraction_summary:
 #### 10. [METHODOLOGY-AND-SOURCES] Untitled *(Line 212)*
 
 > [!methodology-and-sources] Untitled
-> The [[Zettelkasten method]], developed by sociologist Niklas Luhmann, exemplifies competence-supportive design through its principle of **atomicity**—breaking knowledge into small, manageable units that can be mastered individually before tackling larger conceptual structures. Each atomic note represents a achievable unit of work, providing frequent opportunities for completion and competence experiences. The systematic linking of these atoms into larger conceptual networks then provides more advanced competence experiences as users develop facility with higher-order knowledge organization.
+> The [[Zettelkasten-Method|Zettelkasten method]], developed by sociologist Niklas Luhmann, exemplifies competence-supportive design through its principle of **atomicity**—breaking knowledge into small, manageable units that can be mastered individually before tackling larger conceptual structures. Each atomic note represents a achievable unit of work, providing frequent opportunities for completion and competence experiences. The systematic linking of these atoms into larger conceptual networks then provides more advanced competence experiences as users develop facility with higher-order knowledge organization.
 
 #### 11. [ATTENTION] Untitled *(Line 225)*
 
@@ -253,13 +253,13 @@ extraction_summary:
 - [[Self-Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[The Neuroscience of Memory Consolidation and Spaced Repetition]]
 - [[Zettelkasten]]
-- [[Zettelkasten method]]
-- [[behaviorism]]
+- [[Zettelkasten-Method|Zettelkasten method]]
+- [[Behaviorism]]
 - [[default mode network]]
 - [[digital gardens]]
 - [[Hippocampus]]
 - [[Information-Architecture|information architecture]]
-- [[knowledge work]]
+- [[Knowledge-Work|knowledge work]]
 - [[literature notes]]
 - [[nucleus accumbens]]
 - [[prefrontal-cortex|prefrontal cortex]]
@@ -279,8 +279,8 @@ extraction_summary:
 | 5 | [[Motivational-Psychology|Motivational Psychology]] | — | — | 📈 Review System | 138 |
 | 6 | [[Information-Architecture|information architecture]] | — | — | 📈 Review System | 138 |
 | 7 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Architecture of Self-Determinat... | 143 |
-| 8 | [[behaviorism]] | — | — | 🧠 The Architecture of Self-Determinat... | 145 |
-| 9 | [[knowledge work]] | — | — | 🧠 The Architecture of Self-Determinat... | 147 |
+| 8 | [[Behaviorism]] | — | — | 🧠 The Architecture of Self-Determinat... | 145 |
+| 9 | [[Knowledge-Work|knowledge work]] | — | — | 🧠 The Architecture of Self-Determinat... | 147 |
 | 10 | [[Autonomy]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 158 |
 | 11 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 160 |
 | 12 | [[Competence]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 162 |
@@ -293,7 +293,7 @@ extraction_summary:
 | 19 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📊 Motivation as Spectrum: From Amotiv... | 187 |
 | 20 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🎯 Self-Determination Theory Meets Per... | 191 |
 | 21 | [[Zettelkasten]] | — | — | 🔑 Autonomy Support in System Design | 198 |
-| 22 | [[Zettelkasten method]] | — | — | 📈 Competence Building Through Progres... | 213 |
+| 22 | [[Zettelkasten-Method|Zettelkasten method]] | — | — | 📈 Competence Building Through Progres... | 213 |
 | 23 | [[literature notes]] | — | — | 🤝 Relatedness and the Social Dimensio... | 221 |
 | 24 | [[digital gardens]] | — | — | 🤝 Relatedness and the Social Dimensio... | 223 |
 | 25 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 🎭 The Prefrontal Cortex: Executive Co... | 236 |
@@ -383,13 +383,13 @@ extraction_summary:
 - [[Self-Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[The Neuroscience of Memory Consolidation and Spaced Repetition]]
 - [[Zettelkasten]]
-- [[Zettelkasten method]]
-- [[behaviorism]]
+- [[Zettelkasten-Method|Zettelkasten method]]
+- [[Behaviorism]]
 - [[default mode network]]
 - [[digital gardens]]
 - [[Hippocampus]]
 - [[Information-Architecture|information architecture]]
-- [[knowledge work]]
+- [[Knowledge-Work|knowledge work]]
 - [[literature notes]]
 - [[nucleus accumbens]]
 - [[prefrontal-cortex|prefrontal cortex]]

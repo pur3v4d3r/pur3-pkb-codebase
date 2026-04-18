@@ -868,13 +868,13 @@ aliases:
 
 ```yaml
 broader:
-  - "[[Machine Learning]]"
-  - "[[Artificial Intelligence]]"
+  - "[[Machine-Learning]]"
+  - "[[Artificial-Intelligence]]"
 
 narrower:
   - "[[Supervised Learning]]"
   - "[[Unsupervised Learning]]"
-  - "[[Reinforcement Learning]]"
+  - "[[Reinforcement-Learning]]"
 ```
 
 ### 2. Prerequisite Relationships
@@ -955,7 +955,7 @@ influenced-by:
 ### Pattern 1: Inline Property Links
 
 ```yaml
-parent-topic: "[[Machine Learning]]"
+parent-topic: "[[Machine-Learning]]"
 child-topics:
   - "[[Supervised Learning]]"
   - "[[Unsupervised Learning]]"

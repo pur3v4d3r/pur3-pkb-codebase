@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -88,9 +88,7 @@ see-also:
   - "[[Analytical-Thinking|Analytical Thinking]]"
   - "[[Metacognition]]"
   - "[[Socratic-Questioning|Socratic Questioning]]"
-  - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
-  - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
-  - "[[Critical-Thinking|Critical Thinking]]"
+  - "[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -246,6 +244,30 @@ importance: medium
 
 **Related concepts:**
 [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] · [[Critical-Thinking|Critical Thinking]] · [[Paul-Elder-Framework|Paul-Elder Framework]] · [[Purpose-in-Reasoning|Purpose in Reasoning]] · [[Question-at-Issue|Question at Issue]] · [[Information]] · [[Inference]] · [[Concepts]] · [[Assumptions]] · [[Implications]] · [[Intellectual-Standards|Intellectual Standards]] · [[Reasoning]] · [[Logic]] · [[Argumentation]] · [[Analytical-Thinking|Analytical Thinking]] · [[Metacognition]] · [[Socratic-Questioning|Socratic Questioning]] · [[Paul-Elder-Framework|Paul-Elder Framework]] · [[Paul-Elder-Framework|Paul-Elder Framework]] · [[Critical-Thinking|Critical Thinking]] · [[Intellectual-Standards|Intellectual Standards]] · [[Intellectual-Traits|Intellectual Traits]] · [[Intellectual-Standards|Intellectual Standards]] · [[Intellectual-Traits|Intellectual Traits]] · [[Paul-Elder-Framework|Paul-Elder Framework]] · [[Intellectual-Standards|Intellectual Standards]] · [[Intellectual-Traits|Intellectual Traits]] · [[Argument-Analysis|Argument Analysis]] · [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
+
+**Related concepts** *(from [[cog-psy-fundamental-structures-of-reasoning-202512050320]])*:
+[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Paul-Elder-Framework|Paul-Elder Framework]] * [[Purpose-in-Reasoning|Purpose in Reasoning]] * [[Question-at-Issue|Question at Issue]] * [[Intellectual-Standards|Intellectual Standards]] * [[Analytical-Thinking|Analytical Thinking]] * [[Socratic-Questioning|Socratic Questioning]] * [[Intellectual-Traits|Intellectual Traits]] * [[Argument-Analysis|Argument Analysis]] * [[Premise-Conclusion-Structure|Premise-Conclusion Structure]] * [[Validity-and-Soundness|Validity and Soundness]] * [[Informal-Fallacies|Informal Fallacies]] * [[Justified-True-Belief|Justified True Belief]] * [[Sources-of-Knowledge|Sources of Knowledge]] * [[Skepticism|Skepticism]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Reflective-Practice|Reflective Practice]] * [[Scientific-Method|Scientific Method]] * [[Hypothesis-Testing|Hypothesis Testing]] * [[Experimental-Design|Experimental Design]] * [[Theory-Construction|Theory Construction]] * [[Ethical-Reasoning|Ethical Reasoning]] * [[Moral-Philosophy|Moral Philosophy]] * [[Applied-Ethics|Applied Ethics]] * [[Hermeneutics|Hermeneutics]] * [[Textual-Analysis|Textual Analysis]] * [[Historical-Interpretation|Historical Interpretation]] * [[cognitive-psychology|Cognitive Psychology]]
+
+**Cross-report connections** *(from [[cog-psy-fundamental-structures-of-reasoning-202512050320]])*:
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Intellectual-Standards|Intellectual Standards]]
+- [[Intellectual-Traits|Intellectual Traits]]
+- [[Argument-Analysis|Argument Analysis]]
+- [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
+
+**Related concepts** *(from [[cog-psy-fundamental-structures-of-reasoning-202512050320]])*:
+[[The-Elements-of-Thought:-Fundamental-Structures-of-Reasoning|The Elements of Thought: Fundamental Structures of Reasoning]] * [[Critical-Thinking|Critical Thinking]] * [[Paul-Elder-Framework|Paul-Elder Framework]] * [[Purpose-in-Reasoning|Purpose in Reasoning]] * [[Question-at-Issue|Question at Issue]] * [[Intellectual-Standards|Intellectual Standards]] * [[Analytical-Thinking|Analytical Thinking]] * [[Socratic-Questioning|Socratic Questioning]] * [[Intellectual-Traits|Intellectual Traits]] * [[Argument-Analysis|Argument Analysis]] * [[Premise-Conclusion-Structure|Premise-Conclusion Structure]] * [[Validity-and-Soundness|Validity and Soundness]] * [[Informal-Fallacies|Informal Fallacies]] * [[Justified-True-Belief|Justified True Belief]] * [[Sources-of-Knowledge|Sources of Knowledge]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Reflective-Practice|Reflective Practice]] * [[Scientific-Method|Scientific Method]] * [[Hypothesis-Testing|Hypothesis Testing]] * [[Experimental-Design|Experimental Design]] * [[Theory-Construction|Theory Construction]] * [[Ethical-Reasoning|Ethical Reasoning]] * [[Moral-Philosophy|Moral Philosophy]] * [[Applied-Ethics|Applied Ethics]] * [[Textual-Analysis|Textual Analysis]] * [[Historical-Interpretation|Historical Interpretation]] * [[cognitive-psychology|Cognitive Psychology]] * [[Heuristics-and-Biases|Heuristics and Biases]] * [[Decision-Making|Decision Making]]
+
+**Cross-report connections** *(from [[cog-psy-fundamental-structures-of-reasoning-202512050320]])*:
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Intellectual-Standards|Intellectual Standards]]
+- [[Intellectual-Traits|Intellectual Traits]]
+- [[Argument-Analysis|Argument Analysis]]
+- [[Premise-Conclusion-Structure|Premise-Conclusion Structure]]
+
+
+
+
 
 ## References
 

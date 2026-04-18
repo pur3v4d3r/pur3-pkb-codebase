@@ -229,7 +229,7 @@ extraction_summary:
 #### 20. [INSIGHT] Untitled *(Line 295)*
 
 > [!insight] Untitled
-> The intention-action gap may represent the single greatest threat to effective [[Self-Directed-Learning|Self-Directed Learning]] and [[Knowledge Work]] in modern information environments. Unlike industrial work where environmental structures and social accountability create execution support, knowledge workers operate in environments that systematically undermine the cognitive mechanisms necessary for translating intentions into action. Chronic distraction fragments prospective memory, competing demands create continuous self-regulatory challenges, and isolation eliminates social cueing structures. [[Personal-Knowledge-Base|Personal Knowledge Base]] systems that fail to address these execution realities become abandoned information graveyards—carefully constructed but rarely used, representing failed intentions rather than genuine cognitive prosthetics.
+> The intention-action gap may represent the single greatest threat to effective [[Self-Directed-Learning|Self-Directed Learning]] and [[Knowledge-Work|Knowledge Work]] in modern information environments. Unlike industrial work where environmental structures and social accountability create execution support, knowledge workers operate in environments that systematically undermine the cognitive mechanisms necessary for translating intentions into action. Chronic distraction fragments prospective memory, competing demands create continuous self-regulatory challenges, and isolation eliminates social cueing structures. [[Personal-Knowledge-Base|Personal Knowledge Base]] systems that fail to address these execution realities become abandoned information graveyards—carefully constructed but rarely used, representing failed intentions rather than genuine cognitive prosthetics.
 
 #### 21. [CITE] Untitled *(Line 332)*
 
@@ -280,18 +280,18 @@ extraction_summary:
 - [[Ego Depletion]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Goal-Setting-Theory|Goal Setting Theory]]
-- [[Goal-Directed Behavior]]
+- [[Goal-Directed-Behavior|Goal-Directed Behavior]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]]
 - [[Habit-Loop|Habit Loop]]
 - [[Heutagogy]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Inattentional Blindness]]
-- [[Intention-Action Gap]]
+- [[Intention-Action-Gap|Intention-Action Gap]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Knowledge Work]]
+- [[Knowledge-Work|Knowledge Work]]
 - [[Long-Term-Memory|Long Term Memory]]
 - [[Metacognition]]
 - [[Metacognitive Monitoring Accuracy and Its Role in Self-Regulated Learning]]
@@ -317,9 +317,9 @@ extraction_summary:
 | 5 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Document Start | 33 |
 | 6 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 33 |
 | 7 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | Document Start | 33 |
-| 8 | [[Goal-Directed Behavior]] | — | — | What Is the Intention-Action Gap? | 41 |
+| 8 | [[Goal-Directed-Behavior|Goal-Directed Behavior]] | — | — | What Is the Intention-Action Gap? | 41 |
 | 9 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | What Is the Intention-Action Gap? | 43 |
-| 10 | [[Knowledge Work]] | — | — | What Is the Intention-Action Gap? | 45 |
+| 10 | [[Knowledge-Work|Knowledge Work]] | — | — | What Is the Intention-Action Gap? | 45 |
 | 11 | [[Long-Term-Memory|Long Term Memory]] | Long-Term Memory | — | The Psychological Architecture of the... | 54 |
 | 12 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | The Psychological Architecture of the... | 56 |
 | 13 | [[Working-Memory|working memory]] | — | — | The Psychological Architecture of the... | 56 |
@@ -354,7 +354,7 @@ extraction_summary:
 | 42 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Design Principles Derived from Execut... | 289 |
 | 43 | [[Heutagogy]] | — | — | Design Principles Derived from Execut... | 291 |
 | 44 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | The Knowledge Work Execution Crisis | 296 |
-| 45 | [[Knowledge Work]] | — | — | The Knowledge Work Execution Crisis | 296 |
+| 45 | [[Knowledge-Work|Knowledge Work]] | — | — | The Knowledge Work Execution Crisis | 296 |
 | 46 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Knowledge Work Execution Crisis | 296 |
 | 47 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | The Knowledge Work Execution Crisis | 302 |
 | 48 | [[Working Memory Architecture and Cognitive Load in Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 308 |
@@ -375,7 +375,7 @@ extraction_summary:
 | 63 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | 🔗 Related Topics for PKB Expansion | 325 |
 | 64 | [[Attentional Blink]] | — | — | 🔗 Related Topics for PKB Expansion | 325 |
 | 65 | [[Inattentional Blindness]] | — | — | 🔗 Related Topics for PKB Expansion | 325 |
-| 66 | [[Intention-Action Gap]] | — | — | Structural Planning | 406 |
+| 66 | [[Intention-Action-Gap|Intention-Action Gap]] | — | — | Structural Planning | 406 |
 | 67 | [[Prospective Memory]] | — | — | Structural Planning | 406 |
 | 68 | [[Ego Depletion]] | — | — | Structural Planning | 406 |
 | 69 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Structural Planning | 406 |
@@ -383,10 +383,10 @@ extraction_summary:
 | 71 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | Structural Planning | 406 |
 | 72 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Structural Planning | 406 |
 | 73 | [[Working-Memory|Working Memory]] | — | — | Structural Planning | 406 |
-| 74 | [[Goal-Directed Behavior]] | — | — | Structural Planning | 406 |
+| 74 | [[Goal-Directed-Behavior|Goal-Directed Behavior]] | — | — | Structural Planning | 406 |
 | 75 | [[Automaticity]] | — | — | Structural Planning | 406 |
 | 76 | [[Metacognition]] | — | — | Structural Planning | 406 |
-| 77 | [[Knowledge Work]] | — | — | Structural Planning | 406 |
+| 77 | [[Knowledge-Work|Knowledge Work]] | — | — | Structural Planning | 406 |
 | 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Structural Planning | 406 |
 | 79 | [[Self-Regulation]] | — | — | Structural Planning | 406 |
 | 80 | [[Goal-Setting-Theory|Goal Setting Theory]] | — | — | Structural Planning | 406 |
@@ -502,18 +502,18 @@ Let me start my research phase to gather current information on these topics.
 - [[Ego Depletion]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Goal-Setting-Theory|Goal Setting Theory]]
-- [[Goal-Directed Behavior]]
+- [[Goal-Directed-Behavior|Goal-Directed Behavior]]
 - [[Habit-Formation|Habit Formation]]
 - [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]]
 - [[Habit-Loop|Habit Loop]]
 - [[Heutagogy]]
 - [[Implementation-Intentions|Implementation Intentions]]
 - [[Inattentional Blindness]]
-- [[Intention-Action Gap]]
+- [[Intention-Action-Gap|Intention-Action Gap]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Judgment-of-Learning|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Knowledge Work]]
+- [[Knowledge-Work|Knowledge Work]]
 - [[Long-Term-Memory|Long Term Memory]]
 - [[Metacognition]]
 - [[Metacognitive Monitoring Accuracy and Its Role in Self-Regulated Learning]]

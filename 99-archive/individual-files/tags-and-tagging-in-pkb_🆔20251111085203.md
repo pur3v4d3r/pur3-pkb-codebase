@@ -41,7 +41,7 @@ related:
   - "[[Metadata Management]]"
   - "[[Information-Architecture]]"
   - "[[Obsidian Core Features]]"
-  - "[[Zettelkasten Method]]"
+  - "[[Zettelkasten-Method]]"
   - "[[Knowledge-Graph-Theory]]"
 ---
 
@@ -300,7 +300,7 @@ This creates a functional taxonomy that mirrors the PARA philosophy while mainta
 
 ### Zettelkasten Approach to Keywords
 
-In the traditional **[[Zettelkasten Method]]**, tags (or "keywords") serve a specific purpose: they are *entry points* into the knowledge network, not comprehensive categorization systems. Niklas Luhmann used keywords sparingly—only when he wanted to create a deliberate access point to a cluster of ideas.
+In the traditional **[[Zettelkasten-Method]]**, tags (or "keywords") serve a specific purpose: they are *entry points* into the knowledge network, not comprehensive categorization systems. Niklas Luhmann used keywords sparingly—only when he wanted to create a deliberate access point to a cluster of ideas.
 
 **Zettelkasten Tagging Principles:**
 - **Minimal tagging:** Only tag when creating an intentional entry point
@@ -811,7 +811,7 @@ The key principle: *links carry the semantic load; tags provide access and organ
 > **Broaden Your PKB Understanding:**
 > - `[[Maps of Content (MOCs)]]` — Curated navigation hubs that complement tag-based retrieval
 > - `[[Knowledge-Graph-Theory]]` — Understanding how networks of knowledge form and function
-> - `[[Zettelkasten Method]]` — The foundational note-taking method that informed modern PKM
+> - `[[Zettelkasten-Method]]` — The foundational note-taking method that informed modern PKM
 > - `[[Information-Architecture]]` — Principles of organizing information systems for findability and usability
 > - `[[Metadata Management]]` — Broader strategies for managing metadata beyond tags
 > - `[[Dataview-Plugin]]` — Advanced querying and dynamic views using your tag system
@@ -841,7 +841,7 @@ The key principle: *links carry the semantic load; tags provide access and organ
 ### 🔗 Related Topics for PKB Expansion
 
 * `[[Maps of Content (MOCs)]]`
-* `[[Zettelkasten Method]]`
+* `[[Zettelkasten-Method]]`
 * `[[Dataview Plugin Advanced Queries]]`
 * `[[YAML Frontmatter Best Practices]]`
 * `[[Knowledge Graph Visualization]]`

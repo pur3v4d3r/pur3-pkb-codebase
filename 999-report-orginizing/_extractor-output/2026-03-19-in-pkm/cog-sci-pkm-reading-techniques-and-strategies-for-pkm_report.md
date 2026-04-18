@@ -285,7 +285,7 @@ extraction_summary:
 #### 26. [TOPIC-IDEA] Untitled *(Line 302)*
 
 > [!topic-idea] Untitled
-> **[[The Mnemonic Media Design Space]]** — A design-space analysis of augmented reading environments incorporating retrieval practice, including Matuschak and Nielsen's [[Orbit]] system, AI-augmented reading tools, and the design principles for embedding active processing into digital text. Bridges reading science with PKM tool design and [[Human-Computer Interaction]] research.
+> **[[The Mnemonic Media Design Space]]** — A design-space analysis of augmented reading environments incorporating retrieval practice, including Matuschak and Nielsen's [[Orbit]] system, AI-augmented reading tools, and the design principles for embedding active processing into digital text. Bridges reading science with PKM tool design and [[Human-Computer-Interaction|Human-Computer Interaction]] research.
 
 #### 27. [TOPIC-IDEA] Untitled *(Line 305)*
 
@@ -377,12 +377,12 @@ extraction_summary:
 - [[Anne Mangen]]
 - [[Annotation Epistemology and Knowledge Capture Standards]]
 - [[Assimilation-Theory|Assimilation Theory]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Callender]]
 - [[Carol Donnelly]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]
-- [[Construction-Integration Model]]
+- [[Construction-Integration-Model|Construction-Integration Model]]
 - [[Cornell Note-Taking System]]
 - [[Craik]]
 - [[David-Ausubel|David Ausubel]]
@@ -409,7 +409,7 @@ extraction_summary:
 - [[Graham-Hitch|Graham Hitch]]
 - [[Graph of Thoughts]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
-- [[Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
 - [[Hypothes.is]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Jean-Piaget|Jean Piaget]]
@@ -430,7 +430,7 @@ extraction_summary:
 - [[Linda Baker]]
 - [[Logan Fiorella]]
 - [[Logseq]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Louis Émile Javal]]
 - [[Mark McDaniel]]
 - [[Markman]]
@@ -441,7 +441,7 @@ extraction_summary:
 - [[Metacognitive-Scaffolding|Metacognitive Scaffolding]]
 - [[Michael Nielsen]]
 - [[Michelene Chi]]
-- [[Neuroscience of Learning]]
+- [[Neuroscience-of-Learning|Neuroscience of Learning]]
 - [[Niklas Luhmann]]
 - [[Noam Chomsky]]
 - [[Notion]]
@@ -477,7 +477,7 @@ extraction_summary:
 - [[Teun van Dijk]]
 - [[The Mnemonic Media Design Space]]
 - [[Thillmann]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Tiago Forte]]
 - [[Tulving]]
 - [[Visual Word Form Area]]
@@ -526,7 +526,7 @@ extraction_summary:
 | 12 | [[Notion]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 13 | [[Logseq]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 14 | [[Tiago Forte]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
-| 15 | [[Building a Second Brain]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
+| 15 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 16 | [[Sönke Ahrens]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 17 | [[Zettelkasten]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 18 | [[Richard Saul Wurman]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
@@ -535,7 +535,7 @@ extraction_summary:
 | 21 | [[Robert Lockhart]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 22 | [[cognitive-psychology|Cognitive Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 23 | [[Educational-Psychology|Educational Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
-| 24 | [[Neuroscience of Learning]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
+| 24 | [[Neuroscience-of-Learning|Neuroscience of Learning]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 25 | [[Forgetting-Curve|forgetting curve]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 27 |
 | 26 | [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 27 |
 | 27 | [[Jean-Piaget|Jean Piaget]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 30 |
@@ -555,7 +555,7 @@ extraction_summary:
 | 41 | [[David-Rumelhart|David Rumelhart]] | — | — | The Cognitive Revolution and Reading ... | 55 |
 | 42 | [[Teun van Dijk]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
 | 43 | [[Walter-Kintsch|Walter Kintsch]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
-| 44 | [[Construction-Integration Model]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
+| 44 | [[Construction-Integration-Model|Construction-Integration Model]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
 | 45 | [[Situation-Model|Situation Model]] | — | — | The Text Comprehension Revolution: Ki... | 62 |
 | 46 | [[Working-Memory|working memory]] | — | — | Working Memory as the Comprehension B... | 72 |
 | 47 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Working Memory as the Comprehension B... | 72 |
@@ -575,7 +575,7 @@ extraction_summary:
 | 61 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | Dual Coding Theory and Multimodal Enc... | 96 |
 | 62 | [[Cornell Note-Taking System]] | — | — | Dual Coding Theory and Multimodal Enc... | 98 |
 | 63 | [[sketchnoting]] | — | — | Dual Coding Theory and Multimodal Enc... | 98 |
-| 64 | [[Construction-Integration Model]] | — | — | The Construction-Integration Model in... | 105 |
+| 64 | [[Construction-Integration-Model|Construction-Integration Model]] | — | — | The Construction-Integration Model in... | 105 |
 | 65 | [[Keith Rayner]] | — | — | The Construction-Integration Model in... | 109 |
 | 66 | [[Levels-of-Processing]] | — | — | Encoding: The Gateway to Long-Term Me... | 117 |
 | 67 | [[Craik]] | — | — | Encoding: The Gateway to Long-Term Me... | 122 |
@@ -601,8 +601,8 @@ extraction_summary:
 | 87 | [[Ann-Brown|Ann Brown]] | — | — | Metacognitive Monitoring and Comprehe... | 154 |
 | 88 | [[Markman]] | — | — | Metacognitive Monitoring and Comprehe... | 156 |
 | 89 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
-| 90 | [[Thomas Nelson]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
-| 91 | [[Louis Narens]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
+| 90 | [[Thomas-Nelson|Thomas Nelson]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
+| 91 | [[Louis-Narens|Louis Narens]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 92 | [[Illusion-of-Knowing|illusion of knowing]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 93 | [[Glenberg]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 94 | [[Wilkinson]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
@@ -679,7 +679,7 @@ extraction_summary:
 | 165 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 300 |
 | 166 | [[The Mnemonic Media Design Space]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 303 |
 | 167 | [[Orbit]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 303 |
-| 168 | [[Human-Computer Interaction]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 303 |
+| 168 | [[Human-Computer-Interaction|Human-Computer Interaction]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 303 |
 | 169 | [[Annotation Epistemology and Knowledge Capture Standards]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 306 |
 | 170 | [[Reading Fluency and Its Relationship to Comprehension]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 309 |
 | 171 | [[Simple-View-of-Reading|Simple View of Reading]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 309 |
@@ -751,12 +751,12 @@ $$
 - [[Anne Mangen]]
 - [[Annotation Epistemology and Knowledge Capture Standards]]
 - [[Assimilation-Theory|Assimilation Theory]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Callender]]
 - [[Carol Donnelly]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[cognitive-psychology|Cognitive Psychology]]
-- [[Construction-Integration Model]]
+- [[Construction-Integration-Model|Construction-Integration Model]]
 - [[Cornell Note-Taking System]]
 - [[Craik]]
 - [[David-Ausubel|David Ausubel]]
@@ -783,7 +783,7 @@ $$
 - [[Graham-Hitch|Graham Hitch]]
 - [[Graph of Thoughts]]
 - [[Hermann-Ebbinghaus|Hermann Ebbinghaus]]
-- [[Human-Computer Interaction]]
+- [[Human-Computer-Interaction|Human-Computer Interaction]]
 - [[Hypothes.is]]
 - [[Information-Processing-Theory|Information Processing Theory]]
 - [[Jean-Piaget|Jean Piaget]]
@@ -804,7 +804,7 @@ $$
 - [[Linda Baker]]
 - [[Logan Fiorella]]
 - [[Logseq]]
-- [[Louis Narens]]
+- [[Louis-Narens|Louis Narens]]
 - [[Louis Émile Javal]]
 - [[Mark McDaniel]]
 - [[Markman]]
@@ -815,7 +815,7 @@ $$
 - [[Metacognitive-Scaffolding|Metacognitive Scaffolding]]
 - [[Michael Nielsen]]
 - [[Michelene Chi]]
-- [[Neuroscience of Learning]]
+- [[Neuroscience-of-Learning|Neuroscience of Learning]]
 - [[Niklas Luhmann]]
 - [[Noam Chomsky]]
 - [[Notion]]
@@ -851,7 +851,7 @@ $$
 - [[Teun van Dijk]]
 - [[The Mnemonic Media Design Space]]
 - [[Thillmann]]
-- [[Thomas Nelson]]
+- [[Thomas-Nelson|Thomas Nelson]]
 - [[Tiago Forte]]
 - [[Tulving]]
 - [[Visual Word Form Area]]

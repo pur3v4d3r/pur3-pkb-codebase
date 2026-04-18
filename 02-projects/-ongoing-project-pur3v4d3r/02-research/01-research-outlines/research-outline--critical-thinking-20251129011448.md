@@ -252,7 +252,7 @@ Applying CT skills to research, synthesis, and PKB integration
 8. What is my Point of View, and how might alternative perspectives see this differently?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Elements of Thought]], [[Purpose-in-Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Assumptions]], [[Inferences]], [[Concepts and Theories]], [[Implications]], [[Point-of-View]], [[Perspective-Taking]], [[Reasoning Structure]]
+- Core concepts to wiki-link: [[Elements-of-Thought]], [[Purpose-in-Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Assumptions]], [[Inferences]], [[Concepts and Theories]], [[Implications]], [[Point-of-View]], [[Perspective-Taking]], [[Reasoning Structure]]
 - Recommended tags: #critical-thinking/paul-elder #reasoning-framework #elements-of-thought
 - Connection points: Create [[MOC - Paul-Elder Framework]]; links to [[Argumentation]], [[Logic]], [[Analytical-Thinking]]
 
@@ -310,7 +310,7 @@ Applying CT skills to research, synthesis, and PKB integration
 5. What is the relationship between egocentric/sociocentric thinking and bias?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Cognitive-Bias]], [[Confirmation-Bias]], [[Availability-Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger-Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw-Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[heuristics]], [[Egocentric Thinking]], [[Sociocentric Thinking]]
+- Core concepts to wiki-link: [[Cognitive-Bias]], [[Confirmation-Bias]], [[Availability-Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger-Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw-Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[heuristics]], [[Egocentric-Thinking]], [[Sociocentric-Thinking]]
 - Recommended tags: #cognitive-bias #logical-fallacies #critical-thinking/error-detection
 - Connection points: Create [[MOC - Cognitive Biases]]; links to [[Behavioral Economics]], [[Decision-Making]], [[Epistemology]], [[psychology]]
 
@@ -422,9 +422,9 @@ Applying CT skills to research, synthesis, and PKB integration
 5. How can I use the Paul-Elder Elements to analyze an academic article systematically?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Source Evaluation]], [[Research Methodology]], [[Literature-Review]], [[Academic Synthesis]], [[Peer Review]], [[Research Claims]], [[Evidence Quality]], [[Theoretical Framework]], [[Empirical Research]], [[Scholarly Communication]], [[Research Gaps]]
+- Core concepts to wiki-link: [[Source Evaluation]], [[Research Methodology]], [[Literature-Review]], [[Academic Synthesis]], [[Peer Review]], [[Research Claims]], [[Evidence Quality]], [[Theoretical-Framework]], [[Empirical Research]], [[Scholarly Communication]], [[Research Gaps]]
 - Recommended tags: #academic-skills #research-methods #critical-thinking/application
-- Connection points: Links to [[Research Methodology]], [[Academic Writing]], [[Information Literacy]], [[Scholarship]]; prepares for PKB integration
+- Connection points: Links to [[Research Methodology]], [[Academic Writing]], [[Information-Literacy]], [[Scholarship]]; prepares for PKB integration
 
 **Prerequisites**: Topics 1-7 (need complete CT toolkit to apply to academic contexts)
 
@@ -450,7 +450,7 @@ Applying CT skills to research, synthesis, and PKB integration
 5. How can I use my PKB to detect patterns in my own biased thinking over time?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[PKB Design]], [[Note Templates]], [[Evidence-Based Notes]], [[Critical Note-Taking]], [[Knowledge Synthesis]], [[Thinking Tools]], [[Obsidian Workflows]], [[Metacognitive Reflection]], [[Reasoning Transparency]], [[Knowledge Evaluation]]
+- Core concepts to wiki-link: [[PKB Design]], [[Note Templates]], [[Evidence-Based Notes]], [[Critical Note-Taking]], [[Knowledge Synthesis]], [[Thinking Tools]], [[Obsidian Workflows]], [[Metacognitive-Reflection]], [[Reasoning Transparency]], [[Knowledge Evaluation]]
 - Recommended tags: #pkb-integration #critical-thinking/implementation #knowledge-management
 - Connection points: Integration hub connecting ALL previous CT topics to [[Personal-Knowledge-Management]], [[Zettelkasten]], [[Obsidian]], [[Second Brain]]
 
@@ -1495,7 +1495,7 @@ Generate a comprehensive academic report on Critical Thinking in Academic Knowle
     - Tags: #academic-skills #research-methods #critical-thinking/application
     - Create academic article analysis template
     - Create literature synthesis template
-    - Links to [[Research Methodology]], [[Academic Writing]], [[Epistemology]], [[Information Literacy]]
+    - Links to [[Research Methodology]], [[Academic Writing]], [[Epistemology]], [[Information-Literacy]]
 
 Target Depth: Comprehensive with extensive worked examples
 Expected Length: 5000-6000 words
@@ -1835,7 +1835,7 @@ Generate a comprehensive academic report on Integrating CT into PKB Systems that
 13. **PKB Capture Guidance**:
     - This report IS about PKB, so emphasis on creating actual usable templates
     - All templates should be ready to copy-paste into Obsidian
-    - Atomic notes: [[PKB Design]], [[Note Templates]], [[Evidence-Based Notes]], [[Critical Note-Taking]], [[Knowledge Synthesis]], [[Metacognitive Reflection]]
+    - Atomic notes: [[PKB Design]], [[Note Templates]], [[Evidence-Based Notes]], [[Critical Note-Taking]], [[Knowledge Synthesis]], [[Metacognitive-Reflection]]
     - Tags: #pkb-integration #critical-thinking/implementation #knowledge-management
     - Complete integration of ALL previous CT topics
 
@@ -1914,7 +1914,7 @@ This plan is a **living document**. Adapt based on:
 5. **[[Scientific Reasoning and Research Methods]]**
    - *Connection*: Applies CT specifically to scientific contexts; extends Topic 8's academic focus
    - *Depth Potential*: Philosophy of science, experimental design, statistical reasoning, replication crisis, science communication
-   - *Knowledge Graph Role*: Deepens [[Critical-Thinking]] through [[Scientific-Method]], [[Statistics]], [[Research Design]], [[Evidence-Based Practice]]
+   - *Knowledge Graph Role*: Deepens [[Critical-Thinking]] through [[Scientific-Method]], [[Statistics]], [[Research Design]], [[Evidence-Based-Practice]]
 
 6. **[[Information Literacy and Digital Literacy]]**
    - *Connection*: CT applied to navigating information landscape, especially crucial in digital age

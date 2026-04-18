@@ -105,7 +105,7 @@ builds_on:
 
 - **[[Expert-Knowledge-Organization]]** — Expert knowledge differs from novice knowledge qualitatively, not just quantitatively: hierarchically deeper, more cross-connected, organized around structural principles rather than surface features. [Source: Report 01, 15] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Chunking]] — Experts compress complex patterns into single retrievable units through extensive practice [Report 01]
-  - [[Pattern Recognition]] — Experts perceive domain-relevant patterns invisible to novices [Report 01]
+  - [[Pattern-Recognition]] — Experts perceive domain-relevant patterns invisible to novices [Report 01]
 
 ---
 
@@ -114,7 +114,7 @@ builds_on:
 #### 2.1 Constructivist Foundations
 
 - **[[Constructivism]]** — Knowledge is actively constructed by the learner through interaction with the environment, not passively received or transmitted. [Source: Report 03] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Cognitive Constructivism]] — Individual construction through schema development (Piaget) [Report 03]
+  - [[Cognitive-Constructivism]] — Individual construction through schema development (Piaget) [Report 03]
   - [[Social-Constructivism]] — Knowledge co-constructed through social interaction (Vygotsky) [Report 03]
   - [[Zone-of-Proximal-Development]] — The gap between independent capability and guided capability; learning optimally targets this zone [Vygotsky, Report 10]
 

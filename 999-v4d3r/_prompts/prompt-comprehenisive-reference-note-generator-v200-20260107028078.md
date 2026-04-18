@@ -727,7 +727,7 @@ difficulty: [foundational|intermediate|advanced|expert]
 
 **Inline Syntax**:
 ```markdown
-%%SYNTHESIS: source=[[Concept]] | targets=[[Domain1]],[[Domain2]] | type=[analogical|structural|functional] | status=unexplored%%
+%%SYNTHESIS: source=[[concept]] | targets=[[Domain1]],[[Domain2]] | type=[analogical|structural|functional] | status=unexplored%%
 ```
 
 **Apply When**:

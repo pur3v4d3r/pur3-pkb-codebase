@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,6 +44,7 @@ updated: 2026-04-01
 source-type: report-extraction
 source-reports:
   - "schema-theory-and-learning-foundational-report-2026-03-06"
+  - "schema-theory-foundational-report-2026-03-31.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
@@ -80,7 +81,6 @@ see-also:
   - "[[Rumelhart]]"
   - "[[Schank-and-Abelson|Schank and Abelson]]"
   - "[[Immanuel-Kant|Immanuel Kant]]"
-  - "[[Frederic-Bartlett|Frederic Bartlett]]"
   - "[[Hermann-Ebbinghaus|Hermann Ebbinghaus]]"
   - "[[Jean-Piaget|Jean Piaget]]"
   - "[[constructivist]]"
@@ -160,6 +160,14 @@ importance: high
 > [!analytical-insight] Key Insight *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*
 > Schema activation is not all-or-nothing but graded and probabilistic. Multiple schemas may be partially activated simultaneously, with the most contextually appropriate schema winning the competition for full activation. The classic demonstration by [[Richard-Anderson]] and colleagues (1977) presented participants with an ambiguous paragraph about a house — describable either as a potential purchase (viewed through a homebuyer schema) or as a potential burglary target (viewed through a criminal…
 
+> [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-03-31]])*
+> From the perspective of [[Cognitive-Load-Theory|Cognitive Load Theory]] and instructional science, schemas are the units of [[Long-Term-Memory|long-term memory]] that matter most for learning. They compress complexity into manageable patterns by chunking multiple elements that must be treated as a unit into a single representational structure. What the working memory theorist sees as "a single chunk" is, more precisely, an instantiated schema. This compression is why experts can hold far more domain-relevant information in working memory than novices: their schemas chunk more. Schema acquisition is, in effect, the mechanism by which [[Working-Memory|working memory]] limitations are circumvented in the long run.
+
+> [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-03-31]])*
+> Bartlett's central and most durable claim is that memory is not reproductive but *reconstructive*. When we recall a past experience, a text, or a narrative, we do not replay a stored recording. We reconstruct: we build a plausible account from available schema-consistent fragments, filling gaps with schema-generated defaults, rationalizing anomalies toward schema expectations, and unconsciously editing what was experienced toward a more schema-coherent version. The result is a memory that is often partially correct, systematically distorted toward schema expectations, and experienced by the rememberer as accurate.
+
+
+
 ## Practical Implications
 
 > [!example] **Application** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*
@@ -170,6 +178,14 @@ importance: high
 
 > [!warning] **Key Distinction** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*
 > A common instructional error is to assume that prior knowledge is always facilitative. When learners hold strong, wrong schemas, activating them at the beginning of instruction can *strengthen* the incorrect framework rather than weaken it. Effective instruction in such cases often requires making the incorrect schema explicit, confronting it directly with disconfirming evidence, and providing a better alternative that is simultaneously comprehensible, plausible, and fruitful. This sequence —…
+
+> [!example] **Application** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> The release of working memory through schema automation is not merely convenient — it is the mechanism by which higher-order cognition becomes possible. When basic operations are automated, working memory is available for integration, evaluation, creative adaptation, and metacognitive monitoring. This is why fluency — genuine automaticity at the level of component skills and domain schemas — is a prerequisite for higher-order competence, not a lesser form of it. Instructional programs that move too rapidly to complex, integrative tasks before component schemas have been automated are asking learners to perform higher-order operations without the working memory resources those operations require.
+
+> [!warning] **Key Distinction** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> The reconstructive character of memory has direct implications far beyond the laboratory. Eyewitness testimony in legal contexts is routinely distorted by schema-driven reconstruction — eyewitnesses are not lying when they report schema-consistent details that did not occur; they are accurately reporting their (reconstructed) memory. Medical history-taking is vulnerable to schema-driven distortion on both sides: patients reconstruct their symptom histories in light of available scripts for illness, and clinicians hear symptom reports through the schemas activated by their preliminary diagnostic hypotheses. Expert-level schema theory is not merely an academic concern; it is a framework for understanding systematic error in high-stakes human judgment.
+
+
 
 ## Reflection Prompts
 
@@ -204,6 +220,28 @@ importance: high
 > 2. If you were to explain schema theory to a colleague unfamiliar with cognitive psychology in three sentences, what would you say? Practice formulating it at that level of compression.
 > 3. Schema theory predicts that your prior knowledge of cognition, education, and learning science shaped what you got out of this…
 
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> Before reading further, take a moment to interrogate your own experience of comprehension. Consider the last time you read something genuinely difficult — a dense academic paper, an unfamiliar technical manual, a passage in a language you know imperfectly. What made it hard? Was it the individual words, or was it something more structural — a felt sense of lacking the right *framework* for what you were reading? Conversely, recall a moment when a text seemed to organize itself almost automatically in your mind, when understanding arrived with very little effort. What made the difference? The answer that schema theory proposes is not merely conceptual: it is architectural. Note your intuitions here. They will be productively disturbed.
+
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> 1. Can you identify a domain — professional, academic, or recreational — in which you possess genuinely rich schemas? What does expert comprehension in that domain *feel like* compared to novice comprehension in an unfamiliar domain?
+> 2. Schema theorists claim that even perception is schema-mediated — that we never perceive raw sensory data but always an already-interpreted world. Do you find this claim plausible or counterintuitive? What evidence from your own experience supports or challenges it?
+> 3. Piaget's accommodation requires disequilibrium. Can you think of a learning situation in which you avoided disequilibrium — in which you assimilated new information rather than genuinely revising your understanding? What were the consequences?
+
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> 1. Each of the theoretical strands reviewed here — Bartlett, Piaget, Rumelhart, Ausubel, Schank — emphasizes a different aspect of schemas. Which aspect do you find most theoretically compelling? Which most practically relevant?
+> 2. Rumelhart's computational model treats schemas as data structures with slots and defaults. Does this computational metaphor illuminate or obscure something important about the psychological reality of schemas?
+> 3. The accretion/tuning/restructuring taxonomy suggests that most learning is accretion — shallow, instance-adding — rather than deep restructuring. What implications does this have for how instructional time should be allocated?
+
+> [!reflection] **Reflect** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> 1. The limitations section identifies three major challenges: circularity, cultural specificity, and the formation gap. Which of these do you judge to be most damaging to the theoretical project? Which is most tractable?
+> 2. Given the cultural-specificity problem, what specific adjustments would need to be made to standard schema-theoretic accounts of reading comprehension before they could be applied to instruction in culturally diverse classrooms?
+> 3. Does the PDP challenge to symbolic schema representations constitute a refutation of schema theory, a reduction of it, or merely a re-description at a different level of analysis?
+
+
+
+
+
 ## Concrete Examples
 
 > [!example] **Bransford and Johnson's Context Studies** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*
@@ -220,6 +258,47 @@ importance: high
 **Related concepts:**
 [[Frederic-Bartlett|Frederic Bartlett]] · [[Schema-Theory|Schema theory]] · [[Advance-Organizers|advance organizers]] · [[metacognitive-awareness|metacognitive awareness]] · [[Bartlett]] · [[Piaget]] · [[Rumelhart]] · [[Schank-and-Abelson|Schank and Abelson]] · [[Immanuel-Kant|Immanuel Kant]] · [[Frederic-Bartlett|Frederic Bartlett]] · [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] · [[Jean-Piaget|Jean Piaget]] · [[constructivist]] · [[Declarative-schemas|Declarative schemas]] · [[Procedural-schemas|Procedural schemas]] · [[John-Anderson|John Anderson]] · [[ACT-R-theory|ACT-R theory]] · [[top-down-processing|top-down processing]] · [[bottom-up-processing|bottom-up processing]] · [[David-Rumelhart|David Rumelhart]] · [[information-processing|information processing]] · [[parallel-distributed-processing|parallel distributed processing]] · [[Spreading-Activation|spreading activation]] · [[schema-instantiation|schema instantiation]] · [[David-Ausubel|David Ausubel]] · [[cognitive-structure|cognitive structure]] · [[Advance-Organizer|advance organizer]] · [[Roger-Schank|Roger Schank]] · [[Robert-Abelson|Robert Abelson]] · [[text-structure|text structure]]
 
+**Related concepts** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]], [[schema-theory-foundational-report-2026-03-31]])*:
+[[Frederic-Bartlett|Frederic Bartlett]] * [[Schema-Theory|Schema theory]] * [[Advance-Organizers|advance organizers]] * [[metacognitive-awareness|metacognitive awareness]] * [[Schank-and-Abelson|Schank and Abelson]] * [[Immanuel-Kant|Immanuel Kant]] * [[Hermann-Ebbinghaus|Hermann Ebbinghaus]] * [[Jean-Piaget|Jean Piaget]] * [[Declarative-schemas|Declarative schemas]] * [[Procedural-schemas|Procedural schemas]] * [[John-Anderson|John Anderson]] * [[ACT-R-theory|ACT-R theory]] * [[top-down-processing|top-down processing]] * [[bottom-up-processing|bottom-up processing]] * [[David-Rumelhart|David Rumelhart]] * [[information-processing|information processing]] * [[parallel-distributed-processing|parallel distributed processing]] * [[Spreading-Activation|spreading activation]] * [[schema-instantiation|schema instantiation]] * [[David-Ausubel|David Ausubel]] * [[cognitive-structure|cognitive structure]] * [[Advance-Organizer|advance organizer]] * [[Roger-Schank|Roger Schank]] * [[Robert-Abelson|Robert Abelson]] * [[text-structure|text structure]] * [[Marvin-Minsky|Marvin Minsky]] * [[knowledge-representation|knowledge representation]] * [[Richard-Anderson|Richard Anderson]] * [[John-Bransford|John Bransford]] * [[Marcia-Johnson|Marcia Johnson]]
+
+**Cross-report connections** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*:
+- [[Schema-Theory-and-Learning|Schema-Theory-and-Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition-and-Lifelong-Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition-and-Critical-Thinking]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+
+**Cross-report connections** *(from [[schema-theory-foundational-report-2026-03-31]])*:
+- [[Working-Memory|Working-Memory]]
+- [[Long-Term-Memory|Long-Term-Memory]]
+- [[Prior-Knowledge|Prior-Knowledge]]
+- [[Mental-Model|Mental-Model]]
+- [[Dual-Coding-Theory|Dual-Coding-Theory]]
+
+**Cross-report connections** *(from [[schema-theory-foundational-report-2026-03-31]])*:
+- [[Working-Memory|Working-Memory]]
+- [[Long-Term-Memory|Long-Term-Memory]]
+- [[Prior-Knowledge|Prior-Knowledge]]
+- [[Mental-Model|Mental-Model]]
+- [[Dual-Coding-Theory|Dual-Coding-Theory]]
+
+
+
+
+
+
+
 ## References
 
 - **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
@@ -234,12 +313,97 @@ importance: high
 
 *Citations sourced from [[schema-theory-and-learning-foundational-report-2026-03-06]]*
 
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
+
+- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. (Original work published 1936)**: One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
+
+- **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
+
+- **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
+
+- **Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The landmark "washing clothes" experiment, demonstrating that schema activation is a prerequisite for comprehension. Participants given the topic before reading comprehended and recalled dramatically more than those given it after. One of the most cited and replicated findings in the schema-comprehension literature.
+
+- **Anderson, R. C., Reynolds, R. E., Schallert, D. L., & Goetz, E. T. (1977). Frameworks for comprehending discourse. *American Educational Research Journal, 14*(4), 367–381.**: The classic demonstration that the same ambiguous passage is comprehended differently depending on which schema is activated. Physical education students interpreted one ambiguous passage as about a prison escape; music students interpreted it as about a concert. A clean, highly cited demonstration of top-down schema effects.
+
+- **Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science, 5*(2), 121–152.**: The foundational study of expert-novice differences in knowledge organization. Physics experts categorized problems by deep structural principles (conservation laws); novices categorized by surface features (inclined planes, pulleys). One of the most influential demonstrations that expertise is largely a matter of schema richness and organization.
+
+- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The paper that launched cognitive load theory, proposing that schema acquisition and automation are the primary mechanisms of expertise development and that instructional design should minimize extraneous cognitive load to support schema formation. The most important theoretical descendant of schema theory in instructional science.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
+
+- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. (Original work published 1936)**: One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
+
+- **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
+
+- **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
+
+- **Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The landmark "washing clothes" experiment, demonstrating that schema activation is a prerequisite for comprehension. Participants given the topic before reading comprehended and recalled dramatically more than those given it after. One of the most cited and replicated findings in the schema-comprehension literature.
+
+- **Anderson, R. C., Reynolds, R. E., Schallert, D. L., & Goetz, E. T. (1977). Frameworks for comprehending discourse. *American Educational Research Journal, 14*(4), 367–381.**: The classic demonstration that the same ambiguous passage is comprehended differently depending on which schema is activated. Physical education students interpreted one ambiguous passage as about a prison escape; music students interpreted it as about a concert. A clean, highly cited demonstration of top-down schema effects.
+
+- **Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science, 5*(2), 121–152.**: The foundational study of expert-novice differences in knowledge organization. Physics experts categorized problems by deep structural principles (conservation laws); novices categorized by surface features (inclined planes, pulleys). One of the most influential demonstrations that expertise is largely a matter of schema richness and organization.
+
+- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The paper that launched cognitive load theory, proposing that schema acquisition and automation are the primary mechanisms of expertise development and that instructional design should minimize extraneous cognitive load to support schema formation. The most important theoretical descendant of schema theory in instructional science.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
+
+- **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press. (Original work published 1936)**: One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
+
+- **Rumelhart, D. E. (1980). Schemata: The building blocks of cognition. In R. J. Spiro, B. C. Bruce, & W. F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension* (pp. 33–58). Erlbaum.**: Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive statement of assimilation theory and its instructional implications, including the advance organizer concept. Contains the famous opening claim about prior knowledge as the single most important factor in learning. Foundational for instructional design practitioners.
+
+- **Schank, R. C., & Abelson, R. P. (1977). *Scripts, Plans, Goals, and Understanding: An Inquiry into Human Knowledge Structures*. Erlbaum.**: The foundational text for script theory — schemas for event sequences. Schank and Abelson specify the structure of scripts in detail and demonstrate their role in narrative comprehension and social cognition. Influential in both cognitive psychology and artificial intelligence.
+
+- **Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726.**: The landmark "washing clothes" experiment, demonstrating that schema activation is a prerequisite for comprehension. Participants given the topic before reading comprehended and recalled dramatically more than those given it after. One of the most cited and replicated findings in the schema-comprehension literature.
+
+- **Anderson, R. C., Reynolds, R. E., Schallert, D. L., & Goetz, E. T. (1977). Frameworks for comprehending discourse. *American Educational Research Journal, 14*(4), 367–381.**: The classic demonstration that the same ambiguous passage is comprehended differently depending on which schema is activated. Physical education students interpreted one ambiguous passage as about a prison escape; music students interpreted it as about a concert. A clean, highly cited demonstration of top-down schema effects.
+
+- **Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science, 5*(2), 121–152.**: The foundational study of expert-novice differences in knowledge organization. Physics experts categorized problems by deep structural principles (conservation laws); novices categorized by surface features (inclined planes, pulleys). One of the most influential demonstrations that expertise is largely a matter of schema richness and organization.
+
+- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The paper that launched cognitive load theory, proposing that schema acquisition and automation are the primary mechanisms of expertise development and that instructional design should minimize extraneous cognitive load to support schema formation. The most important theoretical descendant of schema theory in instructional science.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Methodology Notes
 
 > [!methodology-and-sources] **Research Grounding for This Report** *(from [[schema-theory-and-learning-foundational-report-2026-03-06]])*
 > This report synthesizes scholarship from cognitive psychology, developmental psychology, educational psychology, and instructional design spanning roughly 1932 to the present. The empirical claims (e.g., regarding schema effects on comprehension, recall, and inference generation) are grounded in well-replicated experimental research and are among the most robust findings in cognitive psychology. The theoretical integrations (e.g., the relationship between Piaget's constructivism and Rumelhart's computational schema theory) represent standard interpretations in the cognitive science and…
 
 ---
+
+> [!methodology-and-sources] **Method of this Report** *(from [[schema-theory-foundational-report-2026-03-31]])*
+> This report was constructed through integrative theoretical synthesis of the primary and secondary literature on schema theory, drawing on the original formulations of Bartlett (1932), Piaget (1952), Rumelhart (1975, 1980), Ausubel (1963, 1968), Schank and Abelson (1977), and the empirical literature reviewed in Anderson and Pearson (1984), Bower, Black, and Turner (1979), and Bransford and Johnson (1972). The coverage prioritizes conceptual clarity, theoretical precision, and instructional applicability over comprehensive bibliographic survey. Where the report makes synthesizing claims that go beyond direct citation — particularly in the "Schema Formation Gap" and "Schema Automation Bottleneck" formulations — these are flagged as theoretical integrations warranting further scholarly scrutiny. The [[Foundational-Report-Generator-v1.1]] prompt standard and PKB metadata protocols were applied throughout.
+
 
 ## Source Attribution
 

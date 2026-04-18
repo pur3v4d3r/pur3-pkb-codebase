@@ -1072,7 +1072,7 @@ extraction_summary:
 - [[<%= yesterday.format('YYYY-MM-DD') %>]]
 - [[Annual Review]]
 - [[Boat Anchors]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Calendar Plugin]]
 - [[DB Folder]]
 - [[Daily Review]]
@@ -1131,7 +1131,7 @@ extraction_summary:
 | 9 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎯 Foundations: Why Personal Reviews M... | 76 |
 | 10 | [[Metacognitive-Development|Metacognitive Development]] | — | — | 🎯 Foundations: Why Personal Reviews M... | 76 |
 | 11 | [[GTD|GTD (Getting Things Done)]] | — | — | The Purpose of Systematic Reviews | 80 |
-| 12 | [[Building a Second Brain]] | — | — | The Purpose of Systematic Reviews | 80 |
+| 12 | [[Building-a-Second-Brain|Building a Second Brain]] | — | — | The Purpose of Systematic Reviews | 80 |
 | 13 | [[Working-Memory|Working Memory]] | — | — | Review Cadences & Their Purposes | 95 |
 | 14 | [[Executive-Function|Executive Function]] | — | — | Review Cadences & Their Purposes | 96 |
 | 15 | [[Metacognition]] | — | — | Review Cadences & Their Purposes | 97 |
@@ -2268,7 +2268,7 @@ graph TD
 - [[<%= yesterday.format('YYYY-MM-DD') %>]]
 - [[Annual Review]]
 - [[Boat Anchors]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain|Building a Second Brain]]
 - [[Calendar Plugin]]
 - [[DB Folder]]
 - [[Daily Review]]

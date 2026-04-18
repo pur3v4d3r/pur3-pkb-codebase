@@ -45,7 +45,7 @@ see-also:
   - "[[Pragmatic-Reasoning-Schemas]]"
   - "[[Relational-Emergent-Autonomy]]"
   - "[[Standard-Template-Metadata]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -72,4 +72,4 @@ importance: low
 - [[Pragmatic-Reasoning-Schemas]]
 - [[Relational-Emergent-Autonomy]]
 - [[Standard-Template-Metadata]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

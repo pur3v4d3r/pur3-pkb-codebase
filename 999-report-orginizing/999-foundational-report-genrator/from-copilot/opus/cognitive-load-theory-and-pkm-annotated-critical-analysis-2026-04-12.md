@@ -158,7 +158,7 @@ pipeline_compatible: true
 ## Section 1: The Cognitive Architecture Problem — Why PKM Needs CLT
 
 > [!epistemic-status] **Section Epistemic Status: Established Foundation (Confidence 4/5)**
-> This section synthesizes well-established findings from [[Cognitive-Psychology]] regarding [[Working-Memory]] limitations and [[Cognitive-Architecture]]. The core claims about working memory constraints are among the most replicated findings in cognitive science. The novel contribution — framing PKM practitioners as occupying a unique dual-role position — is interpretive and draws on established principles rather than direct empirical evidence from PKM research specifically.
+> This section synthesizes well-established findings from [[cognitive-psychology]] regarding [[Working-Memory]] limitations and [[Cognitive-Architecture]]. The core claims about working memory constraints are among the most replicated findings in cognitive science. The novel contribution — framing PKM practitioners as occupying a unique dual-role position — is interpretive and draws on established principles rather than direct empirical evidence from PKM research specifically.
 
 ### 1.1 The Working Memory Bottleneck
 
@@ -283,7 +283,7 @@ In PKM, germane load corresponds to the effortful cognitive activities that buil
 
 - **[[Active-Note-Making]]**: Reformulating source material in one's own words, which forces the kind of [[Deep-Processing]] that constructs schemas (as opposed to passive [[Note-Making-vs.-Note-Taking|note-taking]], which produces shallow verbatim copies)
 - **[[Elaborative-Interrogation]]**: Asking "why" and "how" questions about the material, generating explanations that connect new information to existing [[Prior-Knowledge]]
-- **[[Self-Explanation]]**: Explaining steps, processes, or concepts to oneself, filling gaps in understanding through generative processing
+- **[[self-explanation]]**: Explaining steps, processes, or concepts to oneself, filling gaps in understanding through generative processing
 - **Conceptual linking**: Deliberately considering how a new concept relates to existing knowledge nodes, which is the cognitive act underlying [[wiki-links|wiki-linking]] when done thoughtfully
 - **[[Retrieval-Practice]]**: Actively reconstructing knowledge from memory rather than re-reading, which strengthens schema accessibility
 
@@ -567,9 +567,9 @@ In the PKM context, SRL manifests as the practitioner's capacity to:
 For PKM, the most relevant desirable difficulties include:
 
 - **[[Retrieval-Practice]]**: testing yourself on previously captured knowledge rather than simply reviewing notes
-- **[[Interleaving]]**: mixing topics during study rather than blocking by subject
+- **[[interleaving]]**: mixing topics during study rather than blocking by subject
 - **[[Elaborative-Interrogation]]**: asking "why?" and "how?" questions about captured knowledge rather than accepting it at face value
-- **[[Self-Explanation]]**: articulating your understanding of new material in your own words, exposing gaps and inconsistencies
+- **[[self-explanation]]**: articulating your understanding of new material in your own words, exposing gaps and inconsistencies
 - **[[Spacing-Effect|Spaced practice]]**: distributing review across time rather than massing it
 
 > [!key-claim] **Claim 6.2: Desirable difficulties in PKM create beneficial germane load that promotes schema construction, but they risk cognitive overload without adequate metacognitive monitoring of total cognitive demand**
@@ -990,13 +990,13 @@ The absence of any 5/5 claims is notable and honest. Even the most established C
 > > - *Connection:* Van Merriënboer's 4C/ID framework was designed for complex learning and directly addresses [[Element-Interactivity]] management — the same problem PKM practitioners face with complex topics.
 > > - *Depth Potential:* Could 4C/ID's components (learning tasks, supportive information, procedural information, part-task practice) map onto PKM components (projects, reference notes, checklists, spaced review)?
 > > - *Knowledge Graph Role:* Would provide a prescriptive design architecture for PKM systems grounded in CLT, complementing this report's analytical framework.
-> > - *Suggested report type:* [[Comparative Architecture|Comparative Architecture]] (evaluate 4C/ID against other design frameworks)
+> > - *Suggested report type:* [[Comparative-Architecture|Comparative Architecture]] (evaluate 4C/ID against other design frameworks)
 >
 > > [!topic-idea] **3. [[Working-Memory-Capacity]] Individual Differences and Personalized PKM**
 > > - *Connection:* This report's claims assume "standard" working memory capacity. Individual differences in WM capacity (which are substantial and stable) would differentially affect optimal PKM design.
 > > - *Depth Potential:* This is the area where this report's confidence was implicitly lowest — all recommendations are for a "typical" practitioner, but significant individual variation exists. Research on WM capacity and learning strategy effectiveness could ground personalized PKM recommendations.
-> > - *Knowledge Graph Role:* Addresses the individual-differences gap in this analysis and connects to [[Cognitive-Psychology|cognitive psychology's]] differential tradition.
-> > - *Suggested report type:* [[Foundational Report|Foundational Report]] (comprehensive coverage of WM individual differences)
+> > - *Knowledge Graph Role:* Addresses the individual-differences gap in this analysis and connects to [[cognitive-psychology|cognitive psychology's]] differential tradition.
+> > - *Suggested report type:* [[Foundational-Report|Foundational Report]] (comprehensive coverage of WM individual differences)
 >
 > > [!topic-idea] **4. AI-Augmented Knowledge Work Through the Lens of [[Cognitive-Load-Theory]]**
 > > - *Connection:* Section 5 and Far Transfer Domain 3 identified AI assistance as a novel cognitive offloading mechanism. The interaction between AI tools and schema construction is the next frontier.
@@ -1019,7 +1019,7 @@ The absence of any 5/5 claims is notable and honest. Even the most established C
 > - [[Self-Regulated-Learning]] — governing framework for CLT-aware PKM (Section 6)
 > - [[Metacognition]] / [[Metacognitive-Monitoring]] / [[Metacognitive-Regulation]] — SRL components
 > - [[Retrieval-Practice]] / [[Spaced-Repetition]] — schema automation mechanisms (Section 3.3)
-> - [[Elaboration]] / [[Elaborative-Interrogation]] / [[Self-Explanation]] — desirable difficulties
+> - [[Elaboration]] / [[Elaborative-Interrogation]] / [[self-explanation]] — desirable difficulties
 > - [[Deep-Processing]] / [[Meaningful-Learning]] — learning quality dimensions
 >
 > **Philosophy of Mind Connections:**

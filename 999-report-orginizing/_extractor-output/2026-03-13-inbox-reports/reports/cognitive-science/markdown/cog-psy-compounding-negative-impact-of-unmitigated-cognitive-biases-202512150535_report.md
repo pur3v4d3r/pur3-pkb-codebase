@@ -342,7 +342,7 @@ extraction_summary:
 #### 13. [KEY-CLAIM] Identity Protection Mechanisms *(Line 547)*
 
 > [!key-claim] Identity Protection Mechanisms
-> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive-dissonance|cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect|disposition effect]] and [[Sunk-cost-fallacy|sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
+> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[Cognitive-Dissonance|cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition-effect|disposition effect]] and [[Sunk-cost-fallacy|sunk cost fallacy]] now operate at the identity level—"I've been this person for 20 years; changing would mean those 20 years were wasted." This creates what economists call "path dependence": early bias acquisition constrains future trajectories by raising switching costs.
 
 #### 14. [ATTENTION] Echo Chamber Dynamics *(Line 560)*
 
@@ -367,7 +367,7 @@ extraction_summary:
 #### 18. [HELPFUL-TIP] Developmental Windows for Bias Mitigation *(Line 637)*
 
 > [!helpful-tip] Developmental Windows for Bias Mitigation
-> The CogBIAS longitudinal research identified adolescence as a **critical window** where negative interpretive biases either crystallize into trait-level characteristics or remain amenable to correction. <span style='color: #27FF00;'>Interventions targeting ages 12-16 can prevent bias generalization from domain-specific (academic, social) to trait-level (self-referential)</span>. Key strategies include: (1) <span style='color: #72FFF1;'>[[cognitive restructuring]]</span> training to challenge automatic negative interpretations, (2) <span style='color: #72FFF1;'>[[metacognitive-awareness|metacognitive awareness]]</span> development to recognize when biases activate, (3) <span style='color: #72FFF1;'>[[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]</span> cultivation to prevent fixed self-concepts that integrate biases, (4) <span style='color: #72FFF1;'>environmental design</span> that reduces bias-confirming feedback.
+> The CogBIAS longitudinal research identified adolescence as a **critical window** where negative interpretive biases either crystallize into trait-level characteristics or remain amenable to correction. <span style='color: #27FF00;'>Interventions targeting ages 12-16 can prevent bias generalization from domain-specific (academic, social) to trait-level (self-referential)</span>. Key strategies include: (1) <span style='color: #72FFF1;'>[[Cognitive-Restructuring|cognitive restructuring]]</span> training to challenge automatic negative interpretations, (2) <span style='color: #72FFF1;'>[[metacognitive-awareness|metacognitive awareness]]</span> development to recognize when biases activate, (3) <span style='color: #72FFF1;'>[[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]</span> cultivation to prevent fixed self-concepts that integrate biases, (4) <span style='color: #72FFF1;'>environmental design</span> that reduces bias-confirming feedback.
 
 #### 19. [COUNTER-ARGUMENT] The Bias Mitigation Paradox *(Line 652)*
 
@@ -388,14 +388,14 @@ extraction_summary:
 > 
 > **Phase 2 - Prioritization:** Identify highest-interest debt—biases causing most damage or constraining most opportunities. Following compound interest logic, address biases with highest reinforcement rates first to slow accumulation.
 > 
-> **Phase 3 - Restructuring:** Systematic belief revision through [[cognitive restructuring]] techniques. This parallels debt consolidation—taking biases operating across multiple domains and examining their shared underlying assumptions, then revising those core assumptions rather than addressing each manifestation individually.
+> **Phase 3 - Restructuring:** Systematic belief revision through [[Cognitive-Restructuring|cognitive restructuring]] techniques. This parallels debt consolidation—taking biases operating across multiple domains and examining their shared underlying assumptions, then revising those core assumptions rather than addressing each manifestation individually.
 > 
 > **Phase 4 - Maintenance:** Implementing monitoring systems and environmental modifications to prevent reaccumulation. Like financial debt counseling includes budgeting systems and spending constraints, cognitive debt repayment requires decision protocols and information diet management.
 
 #### 22. [KEY-CLAIM] Nudges, Decision Architecture, and Bias-Resistant Systems *(Line 699)*
 
 > [!key-claim] Nudges, Decision Architecture, and Bias-Resistant Systems
-> Rather than trying to "debias" human minds, [[nudge theory]] and [[choice-architecture|choice architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[Status-quo-bias|status quo bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[Loss-aversion|loss aversion]] and [[Sunk-cost-fallacy|sunk cost fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[System-2|system 2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[Confirmation-Bias-Myside-Bias|confirmation bias]] through forced consideration of disconfirming evidence.
+> Rather than trying to "debias" human minds, [[Nudge-Theory|nudge theory]] and [[choice-architecture|choice architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[Status-quo-bias|status quo bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[Loss-aversion|loss aversion]] and [[Sunk-cost-fallacy|sunk cost fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[System-2|system 2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[Confirmation-Bias-Myside-Bias|confirmation bias]] through forced consideration of disconfirming evidence.
 
 #### 23. [KEY-CLAIM] Biases as Autonomy Thieves *(Line 728)*
 
@@ -489,7 +489,7 @@ extraction_summary:
 - [[Bayesian-Inference|Bayesian Inference]]
 - [[Bayesian brain]]
 - [[Carol-Dweck|Carol Dweck]]
-- [[Clinical Psychology]]
+- [[Clinical-Psychology|Clinical Psychology]]
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
@@ -502,12 +502,12 @@ extraction_summary:
 - [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
 - [[Dynamical Systems Theory]]
 - [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Fixed-Mindset|Fixed mindset]]
 - [[Game Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth mindset]]
 - [[Heuristics and Biases Research]]
-- [[Identity Formation]]
+- [[Identity-Formation|Identity Formation]]
 - [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]]
 - [[Loss-aversion|Loss aversion]]
 - [[Metacognition]]
@@ -524,7 +524,7 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Status-quo-bias|Status quo bias]]
 - [[Sunk-cost-fallacy|Sunk cost fallacy]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Acceptance-and-Commitment-Therapy|acceptance and commitment therapy]]
 - [[Anchoring-Effects|anchoring effects]]
 - [[anthropology]]
@@ -533,13 +533,13 @@ extraction_summary:
 - [[behavioral economics]]
 - [[belief-schema|belief schema]]
 - [[choice-architecture|choice architecture]]
-- [[clinical psychology]]
+- [[Clinical-Psychology|clinical psychology]]
 - [[Cognitive-Bias|cognitive bias]]
 - [[Cognitive-Biases|cognitive biases]]
 - [[Cognitive-Debt|cognitive debt]]
-- [[cognitive-dissonance|cognitive dissonance]]
+- [[Cognitive-Dissonance|cognitive dissonance]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
-- [[cognitive restructuring]]
+- [[Cognitive-Restructuring|cognitive restructuring]]
 - [[Cognitive-Science|cognitive science]]
 - [[Cognitive-Behavioral-Therapy|cognitive-behavioral therapy]]
 - [[Competence]]
@@ -551,7 +551,7 @@ extraction_summary:
 - [[developmental psychology]]
 - [[disposition-effect|disposition effect]]
 - [[ego-defensive bias]]
-- [[evolutionary psychology]]
+- [[Evolutionary-Psychology|evolutionary psychology]]
 - [[Expertise-Development|expertise development]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[groupthink]]
@@ -560,7 +560,7 @@ extraction_summary:
 - [[heuristics]]
 - [[human-cognition|human cognition]]
 - [[hypothalamic-pituitary-adrenal axis]]
-- [[identity formation]]
+- [[Identity-Formation|identity formation]]
 - [[impostor syndrome]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]]
 - [[Intellectual-Humility|intellectual humility]]
@@ -580,7 +580,7 @@ extraction_summary:
 - [[Narrative-Identity|narrative identity]]
 - [[need for cognitive closure]]
 - [[negative interpretation bias]]
-- [[nudge theory]]
+- [[Nudge-Theory|nudge theory]]
 - [[opportunity costs]]
 - [[optimism bias]]
 - [[overconfidence]]
@@ -649,11 +649,11 @@ extraction_summary:
 | 34 | [[present bias]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
 | 35 | [[Sunk-cost-fallacy|sunk cost fallacy]] | — | — | Health and Well-Being: The Ultimate C... | 513 |
 | 36 | [[belief-schema|belief schema]] | — | — | Self-Reinforcement Through Selective ... | 533 |
-| 37 | [[cognitive-dissonance|cognitive dissonance]] | — | — | Identity Integration: When Biases Bec... | 548 |
+| 37 | [[Cognitive-Dissonance|cognitive dissonance]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 38 | [[self-verification theory]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 39 | [[disposition-effect|disposition effect]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 40 | [[Sunk-cost-fallacy|sunk cost fallacy]] | — | — | Identity Integration: When Biases Bec... | 548 |
-| 41 | [[Identity Formation]] | — | — | Identity Integration: When Biases Bec... | 553 |
+| 41 | [[Identity-Formation|Identity Formation]] | — | — | Identity Integration: When Biases Bec... | 553 |
 | 42 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Environmental Reinforcement: Echo Cha... | 558 |
 | 43 | [[selective exposure]] | — | — | Environmental Reinforcement: Echo Cha... | 561 |
 | 44 | [[Selective exposure]] | — | — | Environmental Reinforcement: Echo Cha... | 568 |
@@ -668,7 +668,7 @@ extraction_summary:
 | 53 | [[System-2|system 2]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
 | 54 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
 | 55 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 624 |
-| 56 | [[cognitive restructuring]] | — | — | Primary Prevention: Early Interventio... | 638 |
+| 56 | [[Cognitive-Restructuring|cognitive restructuring]] | — | — | Primary Prevention: Early Interventio... | 638 |
 | 57 | [[metacognitive-awareness|metacognitive awareness]] | — | — | Primary Prevention: Early Interventio... | 638 |
 | 58 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Primary Prevention: Early Interventio... | 638 |
 | 59 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
@@ -677,11 +677,11 @@ extraction_summary:
 | 62 | [[System-2|system 2]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
 | 63 | [[System-1|system 1]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
 | 64 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 666 |
-| 65 | [[cognitive-dissonance|cognitive dissonance]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
+| 65 | [[Cognitive-Dissonance|cognitive dissonance]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
 | 66 | [[Cognitive-Behavioral-Therapy|cognitive-behavioral therapy]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
-| 67 | [[cognitive restructuring]] | — | — | Tertiary Prevention: Structured Debt ... | 681 |
+| 67 | [[Cognitive-Restructuring|cognitive restructuring]] | — | — | Tertiary Prevention: Structured Debt ... | 681 |
 | 68 | [[Metacognitive-Capacity|Metacognitive Capacity]] | — | — | Tertiary Prevention: Structured Debt ... | 693 |
-| 69 | [[nudge theory]] | — | — | Environmental Engineering: System-Lev... | 700 |
+| 69 | [[Nudge-Theory|nudge theory]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 70 | [[choice-architecture|choice architecture]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 71 | [[Status-quo-bias|status quo bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 72 | [[present bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
@@ -735,7 +735,7 @@ extraction_summary:
 | 120 | [[Cognitive-Bias|cognitive bias]] | — | — | 1. **[[Metacognitive Capacity Develop... | 871 |
 | 121 | [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]] | — | — | 2. **[[Environmental Architecture for... | 873 |
 | 122 | [[choice-architecture|choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 874 |
-| 123 | [[nudge theory]] | — | — | 2. **[[Environmental Architecture for... | 874 |
+| 123 | [[Nudge-Theory|nudge theory]] | — | — | 2. **[[Environmental Architecture for... | 874 |
 | 124 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 2. **[[Environmental Architecture for... | 878 |
 | 125 | [[behavioral economics]] | — | — | 2. **[[Environmental Architecture for... | 878 |
 | 126 | [[choice-architecture|choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 878 |
@@ -749,7 +749,7 @@ extraction_summary:
 | 134 | [[behavioral economics]] | — | — | 3. **[[Compound Interest Dynamics in ... | 885 |
 | 135 | [[developmental psychology]] | — | — | 3. **[[Compound Interest Dynamics in ... | 885 |
 | 136 | [[Compound-Interest|Compound Interest]] | — | — | 3. **[[Compound Interest Dynamics in ... | 887 |
-| 137 | [[Systems Thinking]] | — | — | 3. **[[Compound Interest Dynamics in ... | 887 |
+| 137 | [[Systems-Thinking|Systems Thinking]] | — | — | 3. **[[Compound Interest Dynamics in ... | 887 |
 | 138 | [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]] | — | — | 4. **[[Identity-Level Integration of ... | 889 |
 | 139 | [[self-schema]] | — | — | 4. **[[Identity-Level Integration of ... | 890 |
 | 140 | [[schema therapy]] | — | — | 4. **[[Identity-Level Integration of ... | 891 |
@@ -757,30 +757,30 @@ extraction_summary:
 | 142 | [[Cognitive-Science|cognitive science]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 143 | [[developmental psychology]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 144 | [[social psychology]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
-| 145 | [[clinical psychology]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
+| 145 | [[Clinical-Psychology|clinical psychology]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 146 | [[Narrative-Identity|narrative identity]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 147 | [[Self-Determination-Theory|self-determination theory]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
-| 148 | [[identity formation]] | — | — | 4. **[[Identity-Level Integration of ... | 894 |
+| 148 | [[Identity-Formation|identity formation]] | — | — | 4. **[[Identity-Level Integration of ... | 894 |
 | 149 | [[self-concept]] | — | — | 4. **[[Identity-Level Integration of ... | 894 |
 | 150 | [[Cognitive-Biases|cognitive biases]] | — | — | 4. **[[Identity-Level Integration of ... | 894 |
 | 151 | [[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 898 |
-| 152 | [[evolutionary psychology]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 901 |
+| 152 | [[Evolutionary-Psychology|evolutionary psychology]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 901 |
 | 153 | [[cognitive-neuroscience|cognitive neuroscience]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 901 |
 | 154 | [[behavioral economics]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 901 |
 | 155 | [[anthropology]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 901 |
-| 156 | [[Evolutionary Psychology]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 903 |
+| 156 | [[Evolutionary-Psychology|Evolutionary Psychology]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 903 |
 | 157 | [[cognitive-neuroscience|Cognitive Neuroscience]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 903 |
 | 158 | [[Heuristics and Biases Research]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 903 |
 | 159 | [[Game Theory]] | — | — | 5. **[[Neuroevolutionary Mismatch: Co... | 903 |
 | 160 | [[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]] | — | — | 6. **[[Computational Psychiatry: Form... | 905 |
 | 161 | [[computational psychiatry]] | — | — | 6. **[[Computational Psychiatry: Form... | 907 |
 | 162 | [[Bayesian brain]] | — | — | 6. **[[Computational Psychiatry: Form... | 907 |
-| 163 | [[clinical psychology]] | — | — | 6. **[[Computational Psychiatry: Form... | 908 |
+| 163 | [[Clinical-Psychology|clinical psychology]] | — | — | 6. **[[Computational Psychiatry: Form... | 908 |
 | 164 | [[computational neuroscience]] | — | — | 6. **[[Computational Psychiatry: Form... | 908 |
 | 165 | [[psychiatry]] | — | — | 6. **[[Computational Psychiatry: Form... | 908 |
 | 166 | [[systems theory]] | — | — | 6. **[[Computational Psychiatry: Form... | 908 |
 | 167 | [[Computational Modeling]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
-| 168 | [[Clinical Psychology]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
+| 168 | [[Clinical-Psychology|Clinical Psychology]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
 | 169 | [[Bayesian-Inference|Bayesian Inference]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
 | 170 | [[Psychopathology]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
 | 171 | [[Dynamical Systems Theory]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
@@ -1189,7 +1189,7 @@ for (let letter of sortedLetters) {
 | 60 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | **cognitive offloading** | 614 |
 | 61 | `#72FFF1` | Custom (#72FFF1) | The self-reinforcing process where reliance on ... | 616 |
 | 62 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Interventions targeting ages 12-16 can prevent ... | 638 |
-| 63 | `#72FFF1` | Custom (#72FFF1) | [[cognitive restructuring]] | 638 |
+| 63 | `#72FFF1` | Custom (#72FFF1) | [[Cognitive-Restructuring|cognitive restructuring]] | 638 |
 | 64 | `#72FFF1` | Custom (#72FFF1) | [[metacognitive-awareness|metacognitive awareness]] | 638 |
 | 65 | `#72FFF1` | Custom (#72FFF1) | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | 638 |
 | 66 | `#72FFF1` | Custom (#72FFF1) | environmental design | 638 |
@@ -1304,7 +1304,7 @@ for (let letter of sortedLetters) {
 - `%%mental-model: feedback-loops%%` *(Line 530)*
 - `%%extract-atomic: Identity-Level Bias Integration%%` *(Line 545)*
 - `%%confidence: confident%%` *(Line 552)*
-- `%%prereq-hard: [[Identity Formation]]%%` *(Line 553)*
+- `%%prereq-hard: [[Identity-Formation|Identity Formation]]%%` *(Line 553)*
 - `%%evidence: multiple-studies%%` *(Line 565)*
 - `%%applies-to: social-media%%` *(Line 566)*
 - `%%confidence: probable%%` *(Line 582)*
@@ -1427,7 +1427,7 @@ $$
 - [[Bayesian-Inference|Bayesian Inference]]
 - [[Bayesian brain]]
 - [[Carol-Dweck|Carol Dweck]]
-- [[Clinical Psychology]]
+- [[Clinical-Psychology|Clinical Psychology]]
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]
 - [[cognitive-neuroscience|Cognitive Neuroscience]]
@@ -1440,12 +1440,12 @@ $$
 - [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
 - [[Dynamical Systems Theory]]
 - [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]]
-- [[Evolutionary Psychology]]
+- [[Evolutionary-Psychology|Evolutionary Psychology]]
 - [[Fixed-Mindset|Fixed mindset]]
 - [[Game Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth mindset]]
 - [[Heuristics and Biases Research]]
-- [[Identity Formation]]
+- [[Identity-Formation|Identity Formation]]
 - [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]]
 - [[Loss-aversion|Loss aversion]]
 - [[Metacognition]]
@@ -1462,7 +1462,7 @@ $$
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Status-quo-bias|Status quo bias]]
 - [[Sunk-cost-fallacy|Sunk cost fallacy]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Acceptance-and-Commitment-Therapy|acceptance and commitment therapy]]
 - [[Anchoring-Effects|anchoring effects]]
 - [[anthropology]]
@@ -1471,13 +1471,13 @@ $$
 - [[behavioral economics]]
 - [[belief-schema|belief schema]]
 - [[choice-architecture|choice architecture]]
-- [[clinical psychology]]
+- [[Clinical-Psychology|clinical psychology]]
 - [[Cognitive-Bias|cognitive bias]]
 - [[Cognitive-Biases|cognitive biases]]
 - [[Cognitive-Debt|cognitive debt]]
-- [[cognitive-dissonance|cognitive dissonance]]
+- [[Cognitive-Dissonance|cognitive dissonance]]
 - [[cognitive-neuroscience|cognitive neuroscience]]
-- [[cognitive restructuring]]
+- [[Cognitive-Restructuring|cognitive restructuring]]
 - [[Cognitive-Science|cognitive science]]
 - [[Cognitive-Behavioral-Therapy|cognitive-behavioral therapy]]
 - [[Competence]]
@@ -1489,7 +1489,7 @@ $$
 - [[developmental psychology]]
 - [[disposition-effect|disposition effect]]
 - [[ego-defensive bias]]
-- [[evolutionary psychology]]
+- [[Evolutionary-Psychology|evolutionary psychology]]
 - [[Expertise-Development|expertise development]]
 - [[Fixed-Mindset|fixed mindset]]
 - [[groupthink]]
@@ -1498,7 +1498,7 @@ $$
 - [[heuristics]]
 - [[human-cognition|human cognition]]
 - [[hypothalamic-pituitary-adrenal axis]]
-- [[identity formation]]
+- [[Identity-Formation|identity formation]]
 - [[impostor syndrome]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]]
 - [[Intellectual-Humility|intellectual humility]]
@@ -1518,7 +1518,7 @@ $$
 - [[Narrative-Identity|narrative identity]]
 - [[need for cognitive closure]]
 - [[negative interpretation bias]]
-- [[nudge theory]]
+- [[Nudge-Theory|nudge theory]]
 - [[opportunity costs]]
 - [[optimism bias]]
 - [[overconfidence]]

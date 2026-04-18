@@ -5,6 +5,7 @@
 title: "Metacognitive Capacity"
 aliases:
   - "Metacognitive Capacity"
+  - "metacognitive-capacity"
 type: permanent-note
 status: evergreen
 confidence: medium
@@ -34,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -75,20 +76,18 @@ see-also:
   - "[[Personal-Development|Personal Development]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Metacognition]]"
-  - "[[Cognitive-Biases|cognitive biases]]"
   - "[[Cognitive-Debt|cognitive debt]]"
   - "[[technical-debt|technical debt]]"
   - "[[human-cognition|human cognition]]"
   - "[[heuristics]]"
-  - "[[Cognitive-Biases|cognitive biases]]"
   - "[[system-justification-theory|system-justification theory]]"
   - "[[Confirmation-Bias|confirmation bias]]"
   - "[[Anchoring-Effects|anchoring effects]]"
-  - "[[Confirmation-Bias|confirmation bias]]"
   - "[[debiasing]]"
   - "[[cognitive-neuroscience|cognitive neuroscience]]"
   - "[[Availability-Heuristic|availability heuristic]]"
   - "[[Compound-Interest|compound interest]]"
+  - "[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -113,7 +112,7 @@ importance: medium
 # Metacognitive Capacity
 
 > [!definition] **Metacognitive Capacity** *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*
-> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[Metacognitive-Knowledge]] (understanding of cognitive processes), (2) [[Metacognitive-Monitoring]] (awareness of current cognitive states), and (3) [[metacognitive control]] (ability to regulate cognitive processes based on monitoring)</span>
+> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[Metacognitive-Knowledge]] (understanding of cognitive processes), (2) [[Metacognitive-Monitoring]] (awareness of current cognitive states), and (3) [[Metacognitive-Control]] (ability to regulate cognitive processes based on monitoring)</span>
 
 ## Core Explanation
 
@@ -138,13 +137,13 @@ importance: medium
 > <span style='color: #FFC700;'>**Cognitive biases represent evolutionary adaptations optimized for ancestral environments**</span>, not modern decision contexts. They enabled rapid, energy-efficient decisions under primordial conditions—detecting predators, forming coalitions, securing resources—but these same mechanisms systematically misfire in contemporary settings characterized by abstract information, long time horizons, and complex interdependencies. The [[Availability-Heuristic]] served…
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*
-> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[cognitive dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition effect]] and [[Sunk-cost-fallacy]] now operate at the identity level—"I've been this person for 20 years;…
+> Once biases achieve identity-level integration, they recruit powerful psychological defense mechanisms. Challenging the bias activates [[Cognitive-Dissonance]] and [[self-verification theory]] processes: <span style='background-color: #FF00DC40; color: #FF00DC;'>individuals experience threats to their biased beliefs as threats to self-coherence and authenticity</span>. The [[disposition effect]] and [[Sunk-cost-fallacy]] now operate at the identity level—"I've been this person for 20 years;…
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*
 > [[Loss-aversion]] and [[Status-quo-bias]] create conservative decision-making that rejects calculated risks. An individual foregoes an entrepreneurial opportunity at age 30 due to loss aversion (overweighting potential failure against potential success). That missed opportunity prevents developing entrepreneurial skills, network connections, and risk tolerance that would enable evaluating future opportunities more accurately. By age 40, they've missed 10 years of compounding entrepreneurial…
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*
-> Rather than trying to "debias" human minds, [[nudge theory]] and [[choice-architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[Status-quo-bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[Loss-aversion]] and [[Sunk-cost-fallacy]]…
+> Rather than trying to "debias" human minds, [[Nudge-Theory]] and [[choice-architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[Status-quo-bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[Loss-aversion]] and [[Sunk-cost-fallacy]]…
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*
 > [[Confirmation-Bias]] constrains autonomy by narrowing the perceived option set—individuals only seriously consider choices consistent with existing beliefs, experiencing this constrained search as "preference" rather than recognizing the bias-driven restriction. [[Sunk-cost-fallacy]] forces continuation of past choices due to prior investment rather than current values. [[Status-quo-bias]] defaults to existing arrangements regardless of whether they serve current needs. The accumulation of…
@@ -173,6 +172,14 @@ importance: medium
 
 **Related concepts:**
 [[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[Cognitive-Biases|cognitive biases]] · [[Cognitive-Debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[Cognitive-Biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[Confirmation-Bias|confirmation bias]] · [[Anchoring-Effects|anchoring effects]] · [[Confirmation-Bias|confirmation bias]] · [[debiasing]] · [[cognitive-neuroscience|cognitive neuroscience]] · [[Availability-Heuristic|availability heuristic]] · [[Compound-Interest|compound interest]] · [[Confirmation-Bias|confirmation bias]] · [[Metacognitive-Capacity|metacognitive capacity]] · [[Compound-Interest|Compound Interest]] · [[Neural-Plasticity|Neural Plasticity]] · [[Adolescence]] · [[prefrontal-cortex|prefrontal cortex]] · [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] · [[interpretation-bias|interpretation bias]] · [[memory-bias|memory bias]] · [[negative-interpretation-bias|negative interpretation bias]]
+
+**Related concepts** *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*:
+[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[Confirmation-Bias|confirmation bias]] * [[Anchoring-Effects|anchoring effects]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[Compound-Interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] * [[negative-interpretation-bias|negative interpretation bias]] * [[groupthink|groupthink]] * [[optimism-bias|optimism bias]] * [[Sunk-cost-fallacy|sunk cost fallacy]] * [[belief-schema|belief schema]] * [[Identity-Formation|Identity Formation]] * [[selective-exposure|selective exposure]] * [[metacognitive-awareness|metacognitive awareness]] * [[Overconfidence-Bias|overconfidence bias]] * [[opportunity-costs|opportunity costs]] * [[Loss-aversion|Loss aversion]] * [[Status-quo-bias|status quo bias]] * [[System-2|system 2]] * [[Cognitive-Restructuring|cognitive restructuring]]
+
+**Related concepts** *(from [[cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535]])*:
+[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[Confirmation-Bias|confirmation bias]] * [[Anchoring-Effects|anchoring effects]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[Availability-Heuristic|availability heuristic]] * [[Compound-Interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]] * [[prefrontal-cortex|prefrontal cortex]] * [[hypothalamic-pituitary-adrenal-axis|hypothalamic-pituitary-adrenal axis]] * [[negative-interpretation-bias|negative interpretation bias]] * [[optimism-bias|optimism bias]] * [[Sunk-cost-fallacy|sunk cost fallacy]] * [[belief-schema|belief schema]] * [[Identity-Formation|Identity Formation]] * [[selective-exposure|selective exposure]] * [[metacognitive-awareness|metacognitive awareness]] * [[Overconfidence-Bias|overconfidence bias]] * [[opportunity-costs|opportunity costs]] * [[Loss-aversion|Loss aversion]] * [[Status-quo-bias|status quo bias]] * [[System-2|system 2]] * [[Cognitive-Restructuring|cognitive restructuring]] * [[Growth-Mindset|growth mindset]]
+
+
 
 ## References
 

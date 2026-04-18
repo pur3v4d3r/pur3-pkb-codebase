@@ -518,7 +518,7 @@ extraction_summary:
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]]
 - [[Epitome]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes]]
 - [[Frederic-Bartlett]]
 - [[Generation-Effect|Generation Effect]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
@@ -653,7 +653,7 @@ extraction_summary:
 | 66 | [[Note Title]] | — | — | Design Principles Derived from the Sy... | 280 |
 | 67 | [[Note Title A]] | — | — | Design Principles Derived from the Sy... | 281 |
 | 68 | [[Note Title B]] | — | — | Design Principles Derived from the Sy... | 281 |
-| 69 | [[Evergreen Notes]] | — | — | Design Principles Derived from the Sy... | 288 |
+| 69 | [[Evergreen-Notes]] | — | — | Design Principles Derived from the Sy... | 288 |
 | 70 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Design Principles Derived from the Sy... | 294 |
 | 71 | [[Vygotsky's ZPD]] | — | — | Design Principles Derived from the Sy... | 294 |
 | 72 | [[Report-06]] | — | — | Design Principles Derived from the Sy... | 298 |
@@ -759,7 +759,7 @@ extraction_summary:
 - [[Embodied-Cognition|Embodied Cognition]]
 - [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]]
 - [[Epitome]]
-- [[Evergreen Notes]]
+- [[Evergreen-Notes]]
 - [[Frederic-Bartlett]]
 - [[Generation-Effect|Generation Effect]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]

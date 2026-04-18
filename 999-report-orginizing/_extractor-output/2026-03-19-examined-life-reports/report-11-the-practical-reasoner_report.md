@@ -364,7 +364,7 @@ extraction_summary:
 #### 47. [CONNECTION-IDEAS] 🔗 Expansion Topic 3: Robust Decision Making Under Deep Uncertainty (Priority: High) *(Line 505)*
 
 > [!connection-ideas] 🔗 Expansion Topic 3: Robust Decision Making Under Deep Uncertainty (Priority: High)
-> **Description:** Methodologies for navigating Knightian uncertainty: [[scenario-planning|scenario planning]] (Wack, Schoemaker), [[robust-satisficing|robust satisficing]] (Ben-Haim's info-gap decision theory), [[Nassim-Taleb|Nassim Taleb]]'s [[antifragility]] and [[via negativa]] approaches, [[Ralf Stacey]]'s complexity model for organizational decision-making. Provides practical tools for implementing this report's theoretical framework in high-stakes personal and professional decisions.
+> **Description:** Methodologies for navigating Knightian uncertainty: [[scenario-planning|scenario planning]] (Wack, Schoemaker), [[robust-satisficing|robust satisficing]] (Ben-Haim's info-gap decision theory), [[Nassim-Taleb|Nassim Taleb]]'s [[antifragility]] and [[via-negativa|via negativa]] approaches, [[Ralf-Stacey|Ralf Stacey]]'s complexity model for organizational decision-making. Provides practical tools for implementing this report's theoretical framework in high-stakes personal and professional decisions.
 
 #### 48. [CONNECTION-IDEAS] 🔗 Expansion Topic 4: The Deliberation-Action Transition (Priority: Medium) *(Line 508)*
 
@@ -424,7 +424,7 @@ extraction_summary:
 - [[Nicomachean-Ethics|Nicomachean Ethics]]
 - [[Pellegrino]]
 - [[Phantasia]]
-- [[Ralf Stacey]]
+- [[Ralf-Stacey|Ralf Stacey]]
 - [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]
 - [[Satisficing]]
 - [[Schwartz-&-Sharpe|Schwartz & Sharpe]]
@@ -442,7 +442,7 @@ extraction_summary:
 - [[robust-satisficing|robust satisficing]]
 - [[scenario-planning|scenario planning]]
 - [[theoretical-wisdom|theoretical wisdom]]
-- [[via negativa]]
+- [[via-negativa|via negativa]]
 - [[will]]
 
 ### All Occurrences
@@ -501,8 +501,8 @@ extraction_summary:
 | 50 | [[robust-satisficing|robust satisficing]] | — | — | PKB Expansion Topics | 506 |
 | 51 | [[Nassim-Taleb|Nassim Taleb]] | — | — | PKB Expansion Topics | 506 |
 | 52 | [[antifragility]] | — | — | PKB Expansion Topics | 506 |
-| 53 | [[via negativa]] | — | — | PKB Expansion Topics | 506 |
-| 54 | [[Ralf Stacey]] | — | — | PKB Expansion Topics | 506 |
+| 53 | [[via-negativa|via negativa]] | — | — | PKB Expansion Topics | 506 |
+| 54 | [[Ralf-Stacey|Ralf Stacey]] | — | — | PKB Expansion Topics | 506 |
 | 55 | [[will]] | — | — | PKB Expansion Topics | 509 |
 | 56 | [[intention]] | — | — | PKB Expansion Topics | 509 |
 | 57 | [[commitment]] | — | — | PKB Expansion Topics | 509 |
@@ -563,7 +563,7 @@ extraction_summary:
 - [[Nicomachean-Ethics|Nicomachean Ethics]]
 - [[Pellegrino]]
 - [[Phantasia]]
-- [[Ralf Stacey]]
+- [[Ralf-Stacey|Ralf Stacey]]
 - [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]
 - [[Satisficing]]
 - [[Schwartz-&-Sharpe|Schwartz & Sharpe]]
@@ -581,7 +581,7 @@ extraction_summary:
 - [[robust-satisficing|robust satisficing]]
 - [[scenario-planning|scenario planning]]
 - [[theoretical-wisdom|theoretical wisdom]]
-- [[via negativa]]
+- [[via-negativa|via negativa]]
 - [[will]]
 
 ### Frontmatter Relationships

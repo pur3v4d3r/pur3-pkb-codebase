@@ -337,7 +337,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > *The principles discussed here* **strongly connect to the field of:**
->   - [[Organizational Learning]] and the concept of [[Learning Organizations]] articulated by Peter Senge
+>   - [[Organizational-Learning|Organizational Learning]] and the concept of [[Learning Organizations]] articulated by Peter Senge
 >   - **The reason:**
 >     - Organizations that master continuous learning at the collective level must first support continuous learning at the individual level. The five disciplines Senge describes (personal mastery, mental models, shared vision, team learning, systems thinking) all depend on individuals who engage in reflective practice, construct and revise their mental models, and sustain motivation for growth. Our framework provides the micro-level processes that enable Senge's macro-level organizational transformation.
 
@@ -576,7 +576,7 @@ extraction_summary:
 - [[Chris Argyris]]
 - [[Communities of Practice and Professional Identity Development]]
 - [[Competence]]
-- [[Context-dependent memory]]
+- [[Context-Dependent-Memory|Context-dependent memory]]
 - [[Controlled-Motivation|Controlled motivation]]
 - [[Cultural Differences in Motivation and Learning Styles]]
 - [[David-Kolb|David Kolb]]
@@ -610,9 +610,9 @@ extraction_summary:
 - [[Metacognition]]
 - [[Neuroplasticity]]
 - [[Neuroscience of Mindfulness and Meditation]]
-- [[Organizational Learning]]
+- [[Organizational-Learning|Organizational Learning]]
 - [[Organizational Learning and Knowledge Management Systems]]
-- [[Peter Gollwitzer]]
+- [[Peter-Gollwitzer|Peter Gollwitzer]]
 - [[pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]
@@ -711,7 +711,7 @@ extraction_summary:
 | 45 | [[Relatedness]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 148 |
 | 46 | [[BJ Fogg]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 158 |
 | 47 | [[Behavior Model]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 158 |
-| 48 | [[Peter Gollwitzer]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 172 |
+| 48 | [[Peter-Gollwitzer|Peter Gollwitzer]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 172 |
 | 49 | [[Implementation-Intentions|implementation intentions]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 172 |
 | 50 | [[Vygotsky]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 198 |
 | 51 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 200 |
@@ -730,7 +730,7 @@ extraction_summary:
 | 64 | [[Habit-Loop|habit loop]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
 | 65 | [[Basal-Ganglia|basal ganglia]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
 | 66 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 274 |
-| 67 | [[Context-dependent memory]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 277 |
+| 67 | [[Context-Dependent-Memory|Context-dependent memory]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 277 |
 | 68 | [[Wendy Wood]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 277 |
 | 69 | [[Implementation-Intentions|Implementation intentions]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 288 |
 | 70 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 292 |
@@ -752,7 +752,7 @@ extraction_summary:
 | 86 | [[Problem-Based Learning (PBL) meta-analyses]] | — | — | 5.4 EMPIRICAL SUPPORT FOR CONSTRUCTIV... | 418 |
 | 87 | [[Vygotsky-inspired research on the Zone of Proximal Development]] | — | — | 5.4 EMPIRICAL SUPPORT FOR CONSTRUCTIV... | 421 |
 | 88 | [[Studies of apprenticeship and mentoring relationships]] | — | — | 5.4 EMPIRICAL SUPPORT FOR CONSTRUCTIV... | 424 |
-| 89 | [[Organizational Learning]] | — | — | 6.1 FOR PROFESSIONAL DEVELOPMENT AND ... | 443 |
+| 89 | [[Organizational-Learning|Organizational Learning]] | — | — | 6.1 FOR PROFESSIONAL DEVELOPMENT AND ... | 443 |
 | 90 | [[Learning Organizations]] | — | — | 6.1 FOR PROFESSIONAL DEVELOPMENT AND ... | 443 |
 | 91 | [[Cal Newport]] | — | — | 6.3 FOR PERSONAL LIFE MANAGEMENT | 475 |
 | 92 | [[prefrontal-cortex|prefrontal cortex]] | — | — | 7.1 NEUROSCIENCE OF SELF-DIRECTED CHANGE | 493 |
@@ -925,7 +925,7 @@ graph TD
 - [[Chris Argyris]]
 - [[Communities of Practice and Professional Identity Development]]
 - [[Competence]]
-- [[Context-dependent memory]]
+- [[Context-Dependent-Memory|Context-dependent memory]]
 - [[Controlled-Motivation|Controlled motivation]]
 - [[Cultural Differences in Motivation and Learning Styles]]
 - [[David-Kolb|David Kolb]]
@@ -959,9 +959,9 @@ graph TD
 - [[Metacognition]]
 - [[Neuroplasticity]]
 - [[Neuroscience of Mindfulness and Meditation]]
-- [[Organizational Learning]]
+- [[Organizational-Learning|Organizational Learning]]
 - [[Organizational Learning and Knowledge Management Systems]]
-- [[Peter Gollwitzer]]
+- [[Peter-Gollwitzer|Peter Gollwitzer]]
 - [[pragmatism]]
 - [[Problem-Based Learning (PBL) meta-analyses]]
 - [[Relatedness]]

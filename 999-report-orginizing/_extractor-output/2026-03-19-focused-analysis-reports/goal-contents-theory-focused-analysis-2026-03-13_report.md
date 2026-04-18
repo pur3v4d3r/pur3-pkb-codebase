@@ -695,7 +695,7 @@ extraction_summary:
 
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Rokeach Value Theory]]
-- [[Terror Management Theory]]
+- [[Terror-Management-Theory|Terror Management Theory]]
 - [[Materialism Research]]
 
 #### Contrasts With

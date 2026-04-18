@@ -238,7 +238,7 @@ We cannot store everything. We must choose what is important and worth saving. O
 
   - **Key Biases Include**:
       - **[[Hindsight-Bias]] ("I-knew-it-all-along")**: After an event occurs, we misremember our past predictions and believe the outcome was obvious.
-      - **[[Misinformation Effect]]**: Our memories of an event are altered if we are later exposed to misleading information about it.
+      - **[[Misinformation-Effect]]**: Our memories of an event are altered if we are later exposed to misleading information about it.
       - **[[Peak-End Rule]]**: We judge an entire past experience based on its *peak* (most intense moment) and its *end*, rather than the average of the whole experience.
       - **[[Rosy Retrospection]]**: We remember the past as being better than it actually was.
 

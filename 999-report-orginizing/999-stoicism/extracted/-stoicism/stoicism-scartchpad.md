@@ -376,7 +376,7 @@ Epictetus
 - [[metacognitive-awareness]] -> `Thinking about thinking`
 - [[Cognitive-Offloading]] -> `Externalizing working memory burden`
 - [[Structured Prompts]] -> `Guiding effective reflection`
-- [[Pattern Recognition]] -> `Identifying recurring behavioral themes`
+- [[Pattern-Recognition]] -> `Identifying recurring behavioral themes`
 - [[Neuroplastic Change]] -> `Reshaping neural architecture through repetition`
 [3. Consistent Implementation]
 - **Daily Rhythm** -> `Morning preparation, evening review`

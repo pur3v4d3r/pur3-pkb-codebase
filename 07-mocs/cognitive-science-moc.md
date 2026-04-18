@@ -178,7 +178,7 @@ LIMIT 10
 
 ### Primary Memory Systems
 - [[Working-Memory]] - Active information maintenance
-  - [[Long-Term Working Memory]] - Expertise-driven capacity
+  - [[Long-Term-Working-Memory]] - Expertise-driven capacity
   - [[Cognitive-Load-Theory]] - Capacity limitations and optimization
     - [[Intrinsic-Load]] - Task complexity
     - [[Extraneous-Load]] - Design-imposed burden
@@ -224,13 +224,13 @@ LIMIT 8
 - [[automation]] - Proceduralization of skills
 
 ### Monitoring & Regulation
-- [[Cognitive Restructuring]] - Thought pattern modification
+- [[Cognitive-Restructuring]] - Thought pattern modification
 - [[Cognitive-Reappraisal]] - Emotion regulation via reinterpretation
 - [[Emotional-Regulation]] - Affect management strategies
 
 ### Neural Substrates
 - [[Default Mode Network]] - Task-negative baseline activity
-- [[Neural Networks]] - Interconnected brain systems
+- [[Neural-Networks]] - Interconnected brain systems
 - [[Neuroplasticity]] - Experience-dependent brain change
   - [[Neuroplastic]] - Adaptive reorganization capacity
 
@@ -254,7 +254,7 @@ LIMIT 4
 > [**Cognitive-Development**:: the progressive transformation of mental structures and processes across the lifespan, encompassing perceptual, attentional, memory, reasoning, and problem-solving capabilities—investigated through cross-sectional, longitudinal, and microgenetic research designs.]
 
 ### Developmental Foundations
-- [[Cognitive Development]] - Lifespan cognitive change
+- [[Cognitive-Development]] - Lifespan cognitive change
 - [[Educational-Psychology]] - Learning in formal contexts
 - [[Learning Theory]] - Principles of knowledge acquisition
 
@@ -421,14 +421,14 @@ if (bridges.length > 0) {
 ### Known Integration Points
 
 **Cognitive Science ↔ Philosophy**
-- [[Epistemology]] ↔ [[Cognitive Development]] (developmental epistemology)
-- [[Stoicism]] ↔ [[Cognitive Restructuring]] (ancient CBT parallels)
+- [[Epistemology]] ↔ [[Cognitive-Development]] (developmental epistemology)
+- [[Stoicism]] ↔ [[Cognitive-Restructuring]] (ancient CBT parallels)
 - [[philosophy-of-mind]] ↔ [[Extended Mind]] (consciousness theories)
 
 **Cognitive Science ↔ Neuroscience**
 - [[Working-Memory]] ↔ [[Default Mode Network]] (neural correlates)
 - [[Neuroplasticity]] ↔ [[Habit-Formation]] (synaptic change)
-- [[Executive-Function]] ↔ [[Neural Networks]] (prefrontal systems)
+- [[Executive-Function]] ↔ [[Neural-Networks]] (prefrontal systems)
 
 **Cognitive Science ↔ Education**
 - [[Cognitive-Load-Theory]] ↔ [[Instructional-Design]] (design implications)

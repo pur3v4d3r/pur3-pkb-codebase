@@ -321,7 +321,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Cognitive Debt*, *Bias Accumulation Effects*
 
-**Links to:** [[Adolescence]] · [[Bayesian-Inference]] · [[Bayesian brain]] · [[Carol-Dweck]] · [[Clinical Psychology]] · [[Cognitive-Biases]] · [[Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[cognitive-neuroscience]] · [[Compound-Interest]] · [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]] · [[Computational Modeling]] · [[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]] · [[Confirmation-Bias]] · [[Decision-Making]] · [[Dunning-Kruger-Effect]] · [[Dynamical Systems Theory]] · [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]] · [[Evolutionary Psychology]] · [[Fixed-Mindset]] · [[Game Theory]]
+**Links to:** [[Adolescence]] · [[Bayesian-Inference]] · [[Bayesian brain]] · [[Carol-Dweck]] · [[Clinical-Psychology]] · [[Cognitive-Biases]] · [[Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[cognitive-neuroscience]] · [[Compound-Interest]] · [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]] · [[Computational Modeling]] · [[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]] · [[Confirmation-Bias]] · [[Decision-Making]] · [[Dunning-Kruger-Effect]] · [[Dynamical Systems Theory]] · [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]] · [[Evolutionary-Psychology]] · [[Fixed-Mindset]] · [[Game Theory]]
 *... and 103 more*
 
 **Content Features:** 44 headings · 29 callouts · 4 code blocks (dataviewjs) · 📊 Dataview · 22 inline fields
@@ -405,7 +405,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Selective Attention Models*, *Filter Theory Evolution*
 
-**Links to:** [[ADHD]] · [[Baddeley's-Working-Memory-Model]] · [[Bayesian-Inference]] · [[Cocktail-Party-Effect]] · [[Cognitive-Architecture]] · [[Cognitive-Load-Theory]] · [[Cowan's-Embedded-Processes-Model]] · [[Dichotic Listening Paradigm]] · [[Experimental-Methodology]] · [[Implicit vs. Explicit Memory]] · [[Information-Processing-Theory]] · [[Load Theory]] · [[Markov models]] · [[Neural Mechanisms of Attentional Modulation]] · [[Neuroanatomy]] · [[Perceptual Load Theory]] · [[Perceptual-Psychology]] · [[Predictive Coding and Active Inference Models]] · [[Predictive coding]] · [[Schema-Theory]]
+**Links to:** [[ADHD]] · [[Baddeley's-Working-Memory-Model]] · [[Bayesian-Inference]] · [[Cocktail-Party-Effect]] · [[Cognitive-Architecture]] · [[Cognitive-Load-Theory]] · [[Cowan's-Embedded-Processes-Model]] · [[Dichotic Listening Paradigm]] · [[Experimental-Methodology]] · [[Implicit vs. Explicit Memory]] · [[Information-Processing-Theory]] · [[Load-Theory]] · [[Markov models]] · [[Neural Mechanisms of Attentional Modulation]] · [[Neuroanatomy]] · [[Perceptual Load Theory]] · [[Perceptual-Psychology]] · [[Predictive Coding and Active Inference Models]] · [[Predictive coding]] · [[Schema-Theory]]
 *... and 47 more*
 
 **Content Features:** 41 headings · 18 callouts · 4 code blocks (dataviewjs) · 📊 Dataview · 21 inline fields
@@ -446,7 +446,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Elements of Reasoning*, *Structures of Thought*
 
-**Links to:** [[Academic Writing]] · [[Analytical-Thinking]] · [[Applied-Ethics]] · [[Argument-Analysis]] · [[Argumentation]] · [[Assumptions]] · [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]] · [[cognitive-psychology]] · [[Concepts]] · [[Critical-Thinking]] · [[Decision-Making]] · [[Dialectical Reasoning]] · [[Epistemology]] · [[Ethical-Reasoning]] · [[Evidence-Based Argumentation]] · [[Experimental-Design]] · [[Hermeneutics]] · [[Heuristics and Biases]] · [[Historical-Interpretation]] · [[Hypothesis-Testing]]
+**Links to:** [[Academic Writing]] · [[Analytical-Thinking]] · [[Applied-Ethics]] · [[Argument-Analysis]] · [[Argumentation]] · [[Assumptions]] · [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]] · [[cognitive-psychology]] · [[Concepts]] · [[Critical-Thinking]] · [[Decision-Making]] · [[Dialectical Reasoning]] · [[Epistemology]] · [[Ethical-Reasoning]] · [[Evidence-Based Argumentation]] · [[Experimental-Design]] · [[Hermeneutics]] · [[Heuristics-and-Biases]] · [[Historical-Interpretation]] · [[Hypothesis-Testing]]
 *... and 36 more*
 
 **Content Features:** 54 headings · 36 callouts · 6 code blocks (mermaid, dataviewjs) · 📊 Dataview · ⚙️ Templater · 52 inline fields
@@ -487,7 +487,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Mindfulness Cognitive Training*, *Contemplative Cognitive Enhancement*
 
-**Links to:** [[4E-Cognition]] · [[Amishi Jha]] · [[Anterior Cingulate Cortex]] · [[Attention Networks]] · [[Attention Restoration Theory]] · [[Attention Restoration Theory and Nature-Based Mindfulness]] · [[Attentional Control Theory]] · [[Baddeley]] · [[Biophilia Hypothesis]] · [[Brain Maintenance vs Reserve]] · [[Britta Hölzel]] · [[Capacity-Efficiency Mindfulness Framework]] · [[Center for Healthy Minds]] · [[Central-Executive]] · [[Central Executive Network]] · [[Cognitive Calibration]] · [[Cognitive-Load-Theory]] · [[Cognitive Reserve Theory]] · [[Cognitive Reserve and Contemplative Practice]] · [[Cognitive Training]]
+**Links to:** [[4E-Cognition]] · [[Amishi Jha]] · [[Anterior Cingulate Cortex]] · [[Attention Networks]] · [[Attention-Restoration-Theory]] · [[Attention Restoration Theory and Nature-Based Mindfulness]] · [[Attentional Control Theory]] · [[Baddeley]] · [[Biophilia Hypothesis]] · [[Brain Maintenance vs Reserve]] · [[Britta Hölzel]] · [[Capacity-Efficiency Mindfulness Framework]] · [[Center for Healthy Minds]] · [[Central-Executive]] · [[Central Executive Network]] · [[Cognitive Calibration]] · [[Cognitive-Load-Theory]] · [[Cognitive Reserve Theory]] · [[Cognitive Reserve and Contemplative Practice]] · [[Cognitive Training]]
 *... and 77 more*
 
 **Content Features:** 20 headings · 34 callouts · 4 code blocks (dataviewjs) · 📊 Dataview · 54 inline fields · 15 external links
@@ -610,7 +610,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Socratic Questions*, *Socratic Inquiry*, *Systematic Questioning*, *Paul's Taxonomy of Questions*
 
-**Links to:** [[Andragogy]] · [[Aporia]] · [[Argument-Analysis]] · [[Assumption Analysis]] · [[Automatic Thoughts]] · [[Autonomy]] · [[Banking Model of Education]] · [[Bloom's-Taxonomy]] · [[Clarification Questions]] · [[Cognitive-Apprenticeship]] · [[Cognitive-Biases]] · [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] · [[cognitive-psychology]] · [[Cognitive Restructuring]] · [[Cognitive-Behavioral-Therapy]] · [[Conceptual Confusion]] · [[Confirmation-Bias]] · [[Consequential Thinking]] · [[Constructivist-Learning-Theory]] · [[Critical-Thinking]]
+**Links to:** [[Andragogy]] · [[Aporia]] · [[Argument-Analysis]] · [[Assumption Analysis]] · [[Automatic Thoughts]] · [[Autonomy]] · [[Banking Model of Education]] · [[Bloom's-Taxonomy]] · [[Clarification Questions]] · [[Cognitive-Apprenticeship]] · [[Cognitive-Biases]] · [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] · [[cognitive-psychology]] · [[Cognitive-Restructuring]] · [[Cognitive-Behavioral-Therapy]] · [[Conceptual Confusion]] · [[Confirmation-Bias]] · [[Consequential Thinking]] · [[Constructivist-Learning-Theory]] · [[Critical-Thinking]]
 *... and 71 more*
 
 **Content Features:** 39 headings · 23 callouts · ⚙️ Templater · 10 external links
@@ -651,7 +651,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Capacity Models of Attention*, *Attention Evolution*
 
-**Links to:** [[Adaptive Gain Theory]] · [[Allocation Policy]] · [[Arousal]] · [[Attention Deficit Hyperactivity Disorder]] · [[Attentional Selection]] · [[Automatic and Controlled Processing]] · [[Automaticity]] · [[Bilingualism]] · [[Cognitive-Architecture]] · [[Cognitive-Control]] · [[Cognitive-Load-Theory]] · [[Dichotic Listening Task]] · [[Dorsal Attention Network]] · [[Dual-Process Theories]] · [[Dual-Task Interference]] · [[Dual-Task Paradigms]] · [[Dual-Task Performance]] · [[Early-Late Selection Debate]] · [[Echoic-Memory]] · [[Ego Depletion]]
+**Links to:** [[Adaptive Gain Theory]] · [[Allocation Policy]] · [[Arousal]] · [[Attention Deficit Hyperactivity Disorder]] · [[Attentional Selection]] · [[Automatic and Controlled Processing]] · [[Automaticity]] · [[Bilingualism]] · [[Cognitive-Architecture]] · [[Cognitive-Control]] · [[Cognitive-Load-Theory]] · [[Dichotic Listening Task]] · [[Dorsal Attention Network]] · [[Dual-Process Theories]] · [[Dual-Task-Interference]] · [[Dual-Task Paradigms]] · [[Dual-Task Performance]] · [[Early-Late Selection Debate]] · [[Echoic-Memory]] · [[Ego Depletion]]
 *... and 22 more*
 
 **Content Features:** 24 headings · 17 callouts · 4 code blocks (dataviewjs) · 📊 Dataview · 15 inline fields
@@ -817,7 +817,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Progressive Summarization*, *Incremental Formalization*, *Layer-Based Note Processing*, *Forte Method*
 
-**Links to:** [[Adaptive Memory Theory]] · [[Analysis]] · [[Atomic-Notes]] · [[Attention as Limited Resource]] · [[Automation Strategies]] · [[Bidirectional Linking]] · [[Bloom's-Taxonomy]] · [[Building a Second Brain]] · [[Chunking]] · [[Cognitive-Load-Theory]] · [[Cognitive Load Theory and Instructional Design for PKM Systems]] · [[Cognitive Overload]] · [[Comprehension]] · [[Computer Science]] · [[Dataview]] · [[Deep Processing Techniques]] · [[Depth of Processing Theory]] · [[Elaborative-Interrogation]] · [[Elaborative Interrogation as Progressive Technique]] · [[Evergreen Notes]]
+**Links to:** [[Adaptive Memory Theory]] · [[Analysis]] · [[Atomic-Notes]] · [[Attention as Limited Resource]] · [[Automation Strategies]] · [[Bidirectional Linking]] · [[Bloom's-Taxonomy]] · [[Building-a-Second-Brain]] · [[Chunking]] · [[Cognitive-Load-Theory]] · [[Cognitive Load Theory and Instructional Design for PKM Systems]] · [[Cognitive Overload]] · [[Comprehension]] · [[Computer Science]] · [[Dataview]] · [[Deep Processing Techniques]] · [[Depth of Processing Theory]] · [[Elaborative-Interrogation]] · [[Elaborative Interrogation as Progressive Technique]] · [[Evergreen-Notes]]
 *... and 70 more*
 
 **Content Features:** 48 headings · 19 callouts · 12 code blocks (dataview, javascript, dataviewjs, yaml) · 📊 Dataview · 21 inline fields · 6 external links
@@ -990,7 +990,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Modular Prompt Engineering*, *Task Decomposition Framework*, *A Comprehensive Analysis of Theoretical Frameworks and Practical Methodologies for Modular Task Decomposition in Sequential Prompt Engineering to Facilitate High-Fidelity Long-Form Document Generation*
 
-**Links to:** [[Chain-of-Thought]] · [[Chain of Thought Reasoning]] · [[Cognitive Architecture and Attention Mechanisms in Transformer Models]] · [[Cognitive-Load-Theory]] · [[Compositional Generalization: Bridging Symbolic AI and Neural Approaches]] · [[Compositional Semantics]] · [[Decomposed Prompting]] · [[Decomposition Imperative]] · [[Error Analysis]] · [[Error Propagation and Cascading Failure Modes in Sequential Prompt Systems]] · [[Explainable AI]] · [[Fault Tolerance]] · [[Few-Shot-Learning]] · [[Formal Verification]] · [[Formal Verification and Correctness Guarantees in Modular Prompt Systems]] · [[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]] · [[Human-Computer Interaction]] · [[Instructional-Design]] · [[Lambda Calculus]] · [[Large Language Model]]
+**Links to:** [[Chain-of-Thought]] · [[Chain of Thought Reasoning]] · [[Cognitive Architecture and Attention Mechanisms in Transformer Models]] · [[Cognitive-Load-Theory]] · [[Compositional Generalization: Bridging Symbolic AI and Neural Approaches]] · [[Compositional Semantics]] · [[Decomposed Prompting]] · [[Decomposition Imperative]] · [[Error Analysis]] · [[Error Propagation and Cascading Failure Modes in Sequential Prompt Systems]] · [[Explainable AI]] · [[Fault Tolerance]] · [[Few-Shot-Learning]] · [[Formal Verification]] · [[Formal Verification and Correctness Guarantees in Modular Prompt Systems]] · [[Human-AI Collaborative Workflows: Interface Design for Decomposed Systems]] · [[Human-Computer-Interaction]] · [[Instructional-Design]] · [[Lambda Calculus]] · [[Large Language Model]]
 *... and 21 more*
 
 **Content Features:** 28 headings · 15 callouts · 12 code blocks (dataviewjs) · 📊 Dataview · 15 inline fields · 4 external links
@@ -1034,7 +1034,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Chain Of Thought*, *COT*, *Chanin Of Thought*
 
-**Links to:** [[**Chanin Of Thought**]] · [[AI Alignment]] · [[AI Economics]] · [[AI-Safety]] · [[Activation Analysis]] · [[Activation Patching]] · [[Adversarial Examples]] · [[Adversarial Machine Learning]] · [[Adversarial Robustness of CoT Reasoning]] · [[Attention-Mechanism]] · [[Attention Visualization]] · [[Beam Search]] · [[Bootstrap Aggregating]] · [[Breadth-First Search]] · [[Causal Tracing]] · [[Chain-of-Thought-Prompting]] · [[Chanin-Of-Thought]] · [[Circuit-Complexity-Theory]] · [[Cloud Computing Costs]] · [[Code Generation]]
+**Links to:** [[**Chanin Of Thought**]] · [[AI-Alignment]] · [[AI Economics]] · [[AI-Safety]] · [[Activation Analysis]] · [[Activation Patching]] · [[Adversarial Examples]] · [[Adversarial Machine Learning]] · [[Adversarial Robustness of CoT Reasoning]] · [[Attention-Mechanism]] · [[Attention Visualization]] · [[Beam Search]] · [[Bootstrap-Aggregating]] · [[Breadth-First Search]] · [[Causal Tracing]] · [[Chain-of-Thought-Prompting]] · [[Chanin-Of-Thought]] · [[Circuit-Complexity-Theory]] · [[Cloud Computing Costs]] · [[Code Generation]]
 *... and 79 more*
 
 **Content Features:** 31 headings · 21 callouts · 4 code blocks (dataviewjs, tasks) · 📊 Dataview · 24 inline fields
@@ -1341,7 +1341,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Stoic Psychology Mechanisms*, *Stoic Cognitive Techniques*
 
-**Links to:** [[24-Hour News Cycle]] · [[Aaron Beck]] · [[Abstract Construal]] · [[Abstract Reasoning]] · [[Acceptance]] · [[Acceptance-and-Commitment-Therapy]] · [[Adequate Sleep]] · [[Aerobic Exercise]] · [[Affective Neuroscience]] · [[Affective and Cognitive Neuroscience Lab]] · [[Agency]] · [[Albert Ellis]] · [[Amor-Fati]] · [[Amygdala]] · [[Ancient Philosophy]] · [[Anger]] · [[Antifragility]] · [[Anxiety]] · [[Anxiety Disorders]] · [[Anxiety Spectrum Disorders]]
+**Links to:** [[24-Hour News Cycle]] · [[Aaron-Beck]] · [[Abstract Construal]] · [[Abstract Reasoning]] · [[Acceptance]] · [[Acceptance-and-Commitment-Therapy]] · [[Adequate Sleep]] · [[Aerobic Exercise]] · [[Affective Neuroscience]] · [[Affective and Cognitive Neuroscience Lab]] · [[Agency]] · [[Albert Ellis]] · [[Amor-Fati]] · [[Amygdala]] · [[Ancient Philosophy]] · [[Anger]] · [[antifragility]] · [[Anxiety]] · [[Anxiety Disorders]] · [[Anxiety Spectrum Disorders]]
 *... and 193 more*
 
 **Content Features:** 21 headings · 20 callouts · 1 inline fields · 11 external links
@@ -1382,7 +1382,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Stoic Philosophy*, *Stoic Cognitive Practices*
 
-**Links to:** [[2025-11-25]] · [[2025-12-02]] · [[Aaron Beck]] · [[Academic Skeptics]] · [[Albert Ellis]] · [[Ancient Athens]] · [[Ancient Greek Philosophy]] · [[Antifragility]] · [[Apatheia]] · [[Arrian]] · [[Ataraxia]] · [[Character Development]] · [[Chrysippus of Soli]] · [[Cleanthes of Assos]] · [[Cognitive-Reappraisal]] · [[Cognitive-Science]] · [[Cognitive-Behavioral-Therapy]] · [[Courage]] · [[Crates of Thebes]] · [[Dichotomy-of-Control]]
+**Links to:** [[2025-11-25]] · [[2025-12-02]] · [[Aaron-Beck]] · [[Academic Skeptics]] · [[Albert Ellis]] · [[Ancient Athens]] · [[Ancient Greek Philosophy]] · [[antifragility]] · [[Apatheia]] · [[Arrian]] · [[Ataraxia]] · [[Character Development]] · [[Chrysippus of Soli]] · [[Cleanthes of Assos]] · [[Cognitive-Reappraisal]] · [[Cognitive-Science]] · [[Cognitive-Behavioral-Therapy]] · [[Courage]] · [[Crates of Thebes]] · [[Dichotomy-of-Control]]
 *... and 42 more*
 
 **Content Features:** 32 headings · 18 callouts · ⚙️ Templater · 24 external links
@@ -1508,7 +1508,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *MCP Servers*, *MCP*, *MCP Reference*, *Model Context Protocol*, *AI Tool Protocol*, *Claude MCP*, *MCP Architecture*, *Comprehensive Refernece: MCP Servers*
 
-**Links to:** [[**Comprehensive Refernece: MCP Servers**]] · [[2025-04-05]] · [[AI-Agent-Architecture]] · [[AI Agent Gateway]] · [[AI Agent Orchestration]] · [[AI-Agents]] · [[AI-Augmented Zettelkasten]] · [[AI-PKB-Integration]] · [[API-Design-Patterns]] · [[API-Fundamentals]] · [[Async-Programming]] · [[Claude-Code]] · [[Claude-Code-Workflows]] · [[Claude-Desktop]] · [[Cognitive Engineering Stack]] · [[Cognitive Load Optimization]] · [[Cognitive-Load-Theory]] · [[Comprehensive Refernece: MCP Servers]] · [[Context-Aware Prompting]] · [[Custom-MCP-Server-Development]]
+**Links to:** [[**Comprehensive Refernece: MCP Servers**]] · [[2025-04-05]] · [[AI-Agent-Architecture]] · [[AI Agent Gateway]] · [[AI Agent Orchestration]] · [[AI-Agents]] · [[AI-Augmented-Zettelkasten]] · [[AI-PKB-Integration]] · [[API-Design-Patterns]] · [[API-Fundamentals]] · [[Async-Programming]] · [[Claude-Code]] · [[Claude-Code-Workflows]] · [[Claude-Desktop]] · [[Cognitive Engineering Stack]] · [[Cognitive Load Optimization]] · [[Cognitive-Load-Theory]] · [[Comprehensive Refernece: MCP Servers]] · [[Context-Aware Prompting]] · [[Custom-MCP-Server-Development]]
 *... and 49 more*
 
 **Content Features:** 120 headings · 95 callouts · 40 code blocks (json, mermaid, tasks, toc, bash, yaml, dataviewjs, typescript) · 📊 Dataview · 20 inline fields · 7 external links
@@ -1572,7 +1572,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Paul-Elder Model*, *Elements of Reasoning Framework*
 
-**Links to:** [[Accuracy]] · [[Affirming the consequent]] · [[Argumentation-Theory]] · [[Assumptions]] · [[Bloom's-Taxonomy]] · [[Breadth]] · [[Circular reasoning]] · [[Clarity]] · [[Cognitive-Biases]] · [[Comparative Analysis: Critical Thinking Frameworks]] · [[Concepts]] · [[Confidence in Reason]] · [[Critical-Thinking]] · [[Denying the antecedent]] · [[Depth]] · [[Egocentric and Sociocentric Thinking]] · [[Elements of Thought]] · [[Epistemology]] · [[Equivocation]] · [[Evidence]]
+**Links to:** [[Accuracy]] · [[Affirming the consequent]] · [[Argumentation-Theory]] · [[Assumptions]] · [[Bloom's-Taxonomy]] · [[Breadth]] · [[Circular reasoning]] · [[Clarity]] · [[Cognitive-Biases]] · [[Comparative Analysis: Critical Thinking Frameworks]] · [[Concepts]] · [[Confidence in Reason]] · [[Critical-Thinking]] · [[Denying the antecedent]] · [[Depth]] · [[Egocentric and Sociocentric Thinking]] · [[Elements-of-Thought]] · [[Epistemology]] · [[Equivocation]] · [[Evidence]]
 *... and 67 more*
 
 **Content Features:** 115 headings · 55 callouts · 2 code blocks (mermaid) · 📊 Dataview · 11 inline fields
@@ -1698,7 +1698,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Text Generator Plugin*, *Obsidian AI Assistant*
 
-**Links to:** [[<%= note.basename %>]] · [[<%= note.path %>]] · [[AI-Embeddings]] · [[API]] · [[API Concepts]] · [[API Cost Optimization Strategies]] · [[Anthropic]] · [[Anthropic-API]] · [[Anthropic-Claude]] · [[Building Custom AI Agents in Obsidian]] · [[ChatGPT]] · [[Claude]] · [[Claude-3.5-Sonnet]] · [[Claude-API]] · [[Claude-Projects]] · [[Claude.ai]] · [[Cognitive-Load]] · [[Cognitive-Load-Theory]] · [[Cognitive Load Theory and PKB Design]] · [[Dataview]]
+**Links to:** [[<%= note.basename %>]] · [[<%= note.path %>]] · [[AI-Embeddings]] · [[API]] · [[API Concepts]] · [[API-Cost-Optimization-Strategies]] · [[Anthropic]] · [[Anthropic-API]] · [[Anthropic-Claude]] · [[Building-Custom-AI-Agents-in-Obsidian]] · [[ChatGPT]] · [[Claude]] · [[Claude-3.5-Sonnet]] · [[Claude-API]] · [[Claude-Projects]] · [[Claude.ai]] · [[Cognitive-Load]] · [[Cognitive-Load-Theory]] · [[Cognitive-Load-Theory-and-PKB-Design]] · [[Dataview]]
 *... and 34 more*
 
 **Content Features:** 83 headings · 35 callouts · 82 code blocks (handlebars, javascript, mermaid, markdown, yaml, dataviewjs) · 📊 Dataview · ⚙️ Templater · 6 inline fields · 1 external links
@@ -1739,7 +1739,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Obsidian SR*, *Spaced Repetition Plugin Guide*
 
-**Links to:** [[Active Recall vs. Passive Review]] · [[Anki]] · [[Cloze Deletion]] · [[Cognitive-Load-Theory]] · [[cognitive-psychology]] · [[Dataview]] · [[Desirable-Difficulties]] · [[Dual-Coding-Theory]] · [[Educational Technology]] · [[Effective Flashcard Design]] · [[FSRS Algorithm]] · [[Introduction to Spaced Repetition in Obsidian]] · [[Learning Science]] · [[Linking Your Thinking (LYT)]] · [[Maps of Content (MOCs)]] · [[Markdown]] · [[Metacognition]] · [[Obsidian]] · [[Obsidian Git]] · [[Obsidian Publish]]
+**Links to:** [[Active Recall vs. Passive Review]] · [[Anki]] · [[Cloze Deletion]] · [[Cognitive-Load-Theory]] · [[cognitive-psychology]] · [[Dataview]] · [[Desirable-Difficulties]] · [[Dual-Coding-Theory]] · [[Educational-Technology]] · [[Effective Flashcard Design]] · [[FSRS Algorithm]] · [[Introduction to Spaced Repetition in Obsidian]] · [[Learning Science]] · [[Linking Your Thinking (LYT)]] · [[Maps of Content (MOCs)]] · [[Markdown]] · [[Metacognition]] · [[Obsidian]] · [[Obsidian Git]] · [[Obsidian Publish]]
 *... and 13 more*
 
 **Content Features:** 61 headings · 24 callouts · 64 code blocks (javascript, markdown, dataviewjs, dataview, python) · 📊 Dataview · ⚙️ Templater · 2 external links

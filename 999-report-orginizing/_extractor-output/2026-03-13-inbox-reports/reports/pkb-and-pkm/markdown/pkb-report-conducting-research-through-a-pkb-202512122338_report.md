@@ -460,7 +460,7 @@ extraction_summary:
 - [[meta-level cognition]]
 - [[Metacognition]]
 - [[object-level cognition]]
-- [[permanent notes]]
+- [[Permanent-Notes|permanent notes]]
 - [[reference manager]]
 - [[Testing-Effect|testing effect]]
 - [[weekly review]]
@@ -490,7 +490,7 @@ extraction_summary:
 | 18 | [[wiki-links]] | — | — | The Three-Stage Note Pipeline | 470 |
 | 19 | [[literature notes]] | — | — | Literature Notes: The Scholarly Sourc... | 476 |
 | 20 | [[Atomic-Notes|atomic notes]] | — | — | Literature Notes: The Scholarly Sourc... | 487 |
-| 21 | [[permanent notes]] | — | — | Literature Notes: The Scholarly Sourc... | 487 |
+| 21 | [[Permanent-Notes|permanent notes]] | — | — | Literature Notes: The Scholarly Sourc... | 487 |
 | 22 | [[Atomic-Notes|Atomic notes]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 491 |
 | 23 | [[Niklas Luhmann]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
 | 24 | [[Chunking]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
@@ -751,7 +751,7 @@ for (let letter of sortedLetters) {
 - [[meta-level cognition]]
 - [[Metacognition]]
 - [[object-level cognition]]
-- [[permanent notes]]
+- [[Permanent-Notes|permanent notes]]
 - [[reference manager]]
 - [[Testing-Effect|testing effect]]
 - [[weekly review]]

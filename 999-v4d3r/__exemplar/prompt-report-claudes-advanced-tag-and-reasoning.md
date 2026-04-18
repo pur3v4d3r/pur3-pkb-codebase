@@ -3411,7 +3411,7 @@ Solution: Accept that quality reasoning requires tokens
 - Cost-quality tradeoff analysis methodologies
 - Longitudinal quality tracking systems
 
-**Knowledge Graph Role**: Bridges reasoning techniques with rigorous evaluation science, connecting to [[Machine Learning Evaluation]], [[Natural Language Processing Metrics]], and [[Human-Computer Interaction]].
+**Knowledge Graph Role**: Bridges reasoning techniques with rigorous evaluation science, connecting to [[Machine Learning Evaluation]], [[Natural Language Processing Metrics]], and [[Human-Computer-Interaction]].
 
 **Priority**: **High** - Critical for validating reasoning systems and measuring improvement.
 

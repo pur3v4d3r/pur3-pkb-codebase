@@ -156,7 +156,7 @@ extraction_summary:
 #### 3. [ABSTRACT] 📜 **Overview: Stoicism as a Complete Philosophy of Life *(Line 140)*
 
 > [!abstract] 📜 **Overview: Stoicism as a Complete Philosophy of Life
-> [[Stoicism]] represents far more than an abstract philosophical system—it constitutes a comprehensive cognitive framework and applied methodology for developing psychological resilience, [[Eudaimonia|flourishing]], and rational self-mastery through systematic mental training. Born in [[Ancient Athens|Athens]] around 300 BCE and refined over eight centuries of practice, Stoicism offers a thoroughly integrated approach to understanding reality (**physics**), thinking correctly (**logic**), and living excellently (**ethics**). What distinguishes Stoicism from purely academic philosophy is its fundamentally practical orientation: the Stoics conceived of philosophy not as theoretical speculation but as *askēsis*—disciplined training that transforms one's entire mode of being. This ancient system has demonstrated remarkable endurance, directly inspiring modern [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]], influencing countless historical figures from [[Marcus-Aurelius|Marcus Aurelius]] to [[George Washington]], and experiencing a powerful contemporary revival as practitioners recognize its profound utility for navigating uncertainty, managing emotional turbulence, and cultivating [[Antifragility|antifragile]] character in an increasingly complex world.
+> [[Stoicism]] represents far more than an abstract philosophical system—it constitutes a comprehensive cognitive framework and applied methodology for developing psychological resilience, [[Eudaimonia|flourishing]], and rational self-mastery through systematic mental training. Born in [[Ancient Athens|Athens]] around 300 BCE and refined over eight centuries of practice, Stoicism offers a thoroughly integrated approach to understanding reality (**physics**), thinking correctly (**logic**), and living excellently (**ethics**). What distinguishes Stoicism from purely academic philosophy is its fundamentally practical orientation: the Stoics conceived of philosophy not as theoretical speculation but as *askēsis*—disciplined training that transforms one's entire mode of being. This ancient system has demonstrated remarkable endurance, directly inspiring modern [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]], influencing countless historical figures from [[Marcus-Aurelius|Marcus Aurelius]] to [[George Washington]], and experiencing a powerful contemporary revival as practitioners recognize its profound utility for navigating uncertainty, managing emotional turbulence, and cultivating [[antifragility|antifragile]] character in an increasingly complex world.
 
 #### 4. [KEY-CLAIM] 🎯 **The Tripartite Structure of Stoic Philosophy *(Line 149)*
 
@@ -278,12 +278,12 @@ extraction_summary:
 
 - [[2025-11-25]]
 - [[2025-12-02]]
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Academic Skeptics]]
 - [[Albert Ellis]]
 - [[Ancient Athens]]
 - [[Ancient Greek Philosophy]]
-- [[Antifragility]]
+- [[antifragility]]
 - [[Apatheia]]
 - [[Arrian]]
 - [[Ataraxia]]
@@ -332,7 +332,7 @@ extraction_summary:
 - [[Stilpo]]
 - [[Stoicism]]
 - [[Stoicism as a Complete Philosophy of Life]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Temperance]]
 - [[View from Above]]
 - [[Virtue-Ethics|Virtue Ethics]]
@@ -374,7 +374,7 @@ extraction_summary:
 | 29 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 141 |
 | 30 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | Claude Thinking: | 141 |
 | 31 | [[George Washington]] | — | — | Claude Thinking: | 141 |
-| 32 | [[Antifragility]] | antifragile | — | Claude Thinking: | 141 |
+| 32 | [[antifragility]] | antifragile | — | Claude Thinking: | 141 |
 | 33 | [[Zeno of Citium]] | — | — | 🏛️ Historical Foundations and Intelle... | 145 |
 | 34 | [[Epictetus]] | — | — | 🏛️ Historical Foundations and Intelle... | 145 |
 | 35 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🏛️ Historical Foundations and Intelle... | 145 |
@@ -393,7 +393,7 @@ extraction_summary:
 | 48 | [[Marcus-Aurelius|Marcus Aurelius]] | — | — | 🏛️ Historical Foundations and Intelle... | 156 |
 | 49 | [[Logos]] | — | — | 🌌 Stoic Physics: Understanding Nature... | 165 |
 | 50 | [[2025-11-25]] | — | — | 🌌 Stoic Physics: Understanding Nature... | 168 |
-| 51 | [[Systems Thinking]] | — | — | 🌌 Stoic Physics: Understanding Nature... | 172 |
+| 51 | [[Systems-Thinking|Systems Thinking]] | — | — | 🌌 Stoic Physics: Understanding Nature... | 172 |
 | 52 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 179 |
 | 53 | [[2025-11-25]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 179 |
 | 54 | [[2025-11-25]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 181 |
@@ -413,8 +413,8 @@ extraction_summary:
 | 68 | [[View from Above]] | — | — | The View from Above: Cosmic Perspective | 311 |
 | 69 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🧬 The Connection Between Ancient Stoi... | 333 |
 | 70 | [[Albert Ellis]] | — | — | The Birth of Cognitive Therapy from S... | 337 |
-| 71 | [[Aaron Beck]] | — | — | The Birth of Cognitive Therapy from S... | 347 |
-| 72 | [[Antifragility]] | antifragile | — | 🌱 Implementing Stoicism in Your Life:... | 378 |
+| 71 | [[Aaron-Beck|Aaron Beck]] | — | — | The Birth of Cognitive Therapy from S... | 347 |
+| 72 | [[antifragility]] | antifragile | — | 🌱 Implementing Stoicism in Your Life:... | 378 |
 | 73 | [[Self-Directed-Learning|Self-Directed Learning]] | self-directed learner | — | 🌱 Implementing Stoicism in Your Life:... | 378 |
 | 74 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 75 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Phase 1: Foundational Understanding (... | 386 |
@@ -422,7 +422,7 @@ extraction_summary:
 | 77 | [[Virtue-Ethics|Virtue Ethics]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 78 | [[Eudaimonia]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 79 | [[Locus-of-Control|Locus of Control]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
-| 80 | [[Systems Thinking]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
+| 80 | [[Systems-Thinking|Systems Thinking]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
 | 81 | [[Metacognition]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
 | 82 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | 🔗 Related Topics for PKB Expansion | 439 |
 | 83 | [[Virtue-Ethics|Virtue Ethics]] | — | — | 🔗 Related Topics for PKB Expansion | 444 |
@@ -491,12 +491,12 @@ extraction_summary:
 
 - [[2025-11-25]]
 - [[2025-12-02]]
-- [[Aaron Beck]]
+- [[Aaron-Beck|Aaron Beck]]
 - [[Academic Skeptics]]
 - [[Albert Ellis]]
 - [[Ancient Athens]]
 - [[Ancient Greek Philosophy]]
-- [[Antifragility]]
+- [[antifragility]]
 - [[Apatheia]]
 - [[Arrian]]
 - [[Ataraxia]]
@@ -545,7 +545,7 @@ extraction_summary:
 - [[Stilpo]]
 - [[Stoicism]]
 - [[Stoicism as a Complete Philosophy of Life]]
-- [[Systems Thinking]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Temperance]]
 - [[View from Above]]
 - [[Virtue-Ethics|Virtue Ethics]]

@@ -543,7 +543,7 @@ You transform fuzzy interests ("I want to learn about memory") into precision-en
 5. **Scope the Bridge**: Define topic that illuminates the connection
 
 **Example**:
-- Domains: [[philosophy-of-mind]] and [[Artificial Intelligence]]
+- Domains: [[philosophy-of-mind]] and [[Artificial-Intelligence]]
 - Intersection: Consciousness, intentionality, understanding, computation
 - Bridge Topic Proposed: [[The Chinese Room Argument and Its Implications for AI]]
 </methodology>

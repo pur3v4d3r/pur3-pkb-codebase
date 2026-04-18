@@ -960,7 +960,7 @@ This developmental progression—from technical skill to character virtue—expl
 > 
 > **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual-Analysis]], and [[Historical-Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
 > 
-> **Cognitive Psychology**: The Elements align with findings in [[cognitive-psychology]], [[Heuristics and Biases]], [[Decision-Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
+> **Cognitive Psychology**: The Elements align with findings in [[cognitive-psychology]], [[Heuristics-and-Biases]], [[Decision-Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
 > 
 > **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).
 > 

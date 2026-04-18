@@ -252,7 +252,7 @@ aliases: [Checkbox Types, Task Checkboxes, Alternative Checkboxes, Obsidian Chec
 
 ### The Evolution from Standard Markdown
 
-Standard [[Markdown]] provides only two checkbox states: unchecked (`- [ ]`) and checked (`- [x]`). This binary system, while sufficient for basic task tracking, proves inadequate for sophisticated [[Knowledge Work]] and [[Project Management]] within a [[Personal-Knowledge-Base]]. The [[Obsidian]] community recognized this limitation and developed a de facto standard for alternative checkbox syntax that maintains [[Markdown]] compatibility while enabling rich semantic distinctions.
+Standard [[Markdown]] provides only two checkbox states: unchecked (`- [ ]`) and checked (`- [x]`). This binary system, while sufficient for basic task tracking, proves inadequate for sophisticated [[Knowledge-Work]] and [[Project Management]] within a [[Personal-Knowledge-Base]]. The [[Obsidian]] community recognized this limitation and developed a de facto standard for alternative checkbox syntax that maintains [[Markdown]] compatibility while enabling rich semantic distinctions.
 
 The alternative checkbox system originated from community themes, particularly @kepano's [[Minimal Theme]], and was subsequently adopted by numerous other themes including [[ITS Theme]] by SlRvb, [[Things Theme]], [[Primary Theme]], and others. The implementation relies on [[HTML]] `data-task` attributes that [[Obsidian]] automatically generates when rendering task lists, which can then be targeted with [[CSS]] selectors for custom styling.
 
@@ -1142,7 +1142,7 @@ The [[ITS Theme]]'s extensive checkbox set was specifically designed for fiction
 > **Choose Alternative Checkboxes When:**
 > - Managing complex multi-state workflows
 > - Requiring visual semantic indicators
-> - Building sophisticated [[Knowledge Work]] systems
+> - Building sophisticated [[Knowledge-Work]] systems
 > - Integrating with [[Tasks-Plugin]] or [[Dataview]]
 > - Tracking diverse information types beyond tasks
 

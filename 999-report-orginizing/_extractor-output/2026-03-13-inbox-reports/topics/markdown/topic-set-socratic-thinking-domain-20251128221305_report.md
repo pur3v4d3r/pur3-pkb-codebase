@@ -136,7 +136,7 @@ extraction_summary:
 - [[Case-Based Reasoning]]
 - [[Clarification Questions]]
 - [[Cognitive-Biases|Cognitive Biases]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Conceptual Analysis]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Continental Philosophy]]
@@ -159,17 +159,17 @@ extraction_summary:
 - [[Facilitative Teaching]]
 - [[Family Resemblance]]
 - [[Foundation for Critical Thinking]]
-- [[German Idealism]]
+- [[German-idealism|German Idealism]]
 - [[Gorgias]]
 - [[Implication Analysis]]
 - [[Informal-Fallacies|Informal Fallacies]]
-- [[Informal Logic]]
+- [[Informal-Logic|Informal Logic]]
 - [[Innate Ideas]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Knowledge vs. Opinion]]
 - [[Knowledge vs. True Belief]]
-- [[Legal Reasoning]]
+- [[Legal-Reasoning|Legal Reasoning]]
 - [[Maieutics]]
 - [[Maieutics - The Socratic Method as Intellectual Midwifery]]
 - [[Metacognition]]
@@ -178,7 +178,7 @@ extraction_summary:
 - [[pedagogy]]
 - [[Perspective-Taking]]
 - [[Peter Geach]]
-- [[Philosophy of Education]]
+- [[Philosophy-of-Education|Philosophy of Education]]
 - [[Philosophy of History]]
 - [[Philosophy of Language]]
 - [[Plato's Theory of Forms]]
@@ -229,8 +229,8 @@ extraction_summary:
 | 3 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | Claude Thinking: | 49 |
 | 4 | [[Dialectical Reasoning]] | — | — | Claude Thinking: | 49 |
 | 5 | [[pedagogy]] | — | — | Claude Thinking: | 49 |
-| 6 | [[Philosophy of Education]] | — | — | Claude Thinking: | 49 |
-| 7 | [[Informal Logic]] | — | — | Claude Thinking: | 49 |
+| 6 | [[Philosophy-of-Education|Philosophy of Education]] | — | — | Claude Thinking: | 49 |
+| 7 | [[Informal-Logic|Informal Logic]] | — | — | Claude Thinking: | 49 |
 | 8 | [[Argumentation-Theory|Argumentation Theory]] | — | — | Claude Thinking: | 49 |
 | 9 | [[Cognitive-Biases|Cognitive Biases]] | — | — | Claude Thinking: | 49 |
 | 10 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Claude Thinking: | 49 |
@@ -276,7 +276,7 @@ extraction_summary:
 | 50 | [[The Meno Paradox]] | — | — | Topic 3 | 177 |
 | 51 | [[Innate Ideas]] | — | — | Topic 3 | 178 |
 | 52 | [[Facilitative Teaching]] | — | — | Topic 3 | 179 |
-| 53 | [[cognitive-dissonance|Cognitive Dissonance]] | — | — | Topic 3 | 180 |
+| 53 | [[Cognitive-Dissonance|Cognitive Dissonance]] | — | — | Topic 3 | 180 |
 | 54 | [[Socratic-Ignorance|Socratic Ignorance]] | — | — | Topic 3 | 181 |
 | 55 | [[Student-Centered Learning]] | — | — | Topic 3 | 182 |
 | 56 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Topic 3 | 183 |
@@ -320,11 +320,11 @@ extraction_summary:
 | 94 | [[Critical Thinking as Disciplined Self-Direction - Richard Paul's Intellectual Standards]] | — | — | 🔗 Related Topics for PKB Expansion | 297 |
 | 95 | [[Socratic Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
 | 96 | [[Educational-Psychology|Educational Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
-| 97 | [[Informal Logic]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
+| 97 | [[Informal-Logic|Informal Logic]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
 | 98 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
 | 99 | [[Dialectical Reasoning in Hegel - The Evolution from Socratic to Absolute Dialectic]] | — | — | 🔗 Related Topics for PKB Expansion | 302 |
 | 100 | [[Ancient Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 305 |
-| 101 | [[German Idealism]] | — | — | 🔗 Related Topics for PKB Expansion | 305 |
+| 101 | [[German-idealism|German Idealism]] | — | — | 🔗 Related Topics for PKB Expansion | 305 |
 | 102 | [[Philosophy of History]] | — | — | 🔗 Related Topics for PKB Expansion | 305 |
 | 103 | [[Continental Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 305 |
 | 104 | [[Socratic Ignorance vs. Skepticism - The Epistemology of Knowing What You Don't Know]] | — | — | 🔗 Related Topics for PKB Expansion | 307 |
@@ -335,7 +335,7 @@ extraction_summary:
 | 109 | [[Cognitive-Biases|Cognitive Biases]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
 | 110 | [[The Socratic Method in Legal Education - Langdell's Case Method and Its Critiques]] | — | — | 🔗 Related Topics for PKB Expansion | 312 |
 | 111 | [[Socratic Pedagogy]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
-| 112 | [[Legal Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
+| 112 | [[Legal-Reasoning|Legal Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
 | 113 | [[Professional Education]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
 | 114 | [[Case-Based Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
 | 115 | [[Power Dynamics in Education]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
@@ -379,7 +379,7 @@ extraction_summary:
 - [[Case-Based Reasoning]]
 - [[Clarification Questions]]
 - [[Cognitive-Biases|Cognitive Biases]]
-- [[cognitive-dissonance|Cognitive Dissonance]]
+- [[Cognitive-Dissonance|Cognitive Dissonance]]
 - [[Conceptual Analysis]]
 - [[Constructivist-Learning-Theory|Constructivist Learning Theory]]
 - [[Continental Philosophy]]
@@ -402,17 +402,17 @@ extraction_summary:
 - [[Facilitative Teaching]]
 - [[Family Resemblance]]
 - [[Foundation for Critical Thinking]]
-- [[German Idealism]]
+- [[German-idealism|German Idealism]]
 - [[Gorgias]]
 - [[Implication Analysis]]
 - [[Informal-Fallacies|Informal Fallacies]]
-- [[Informal Logic]]
+- [[Informal-Logic|Informal Logic]]
 - [[Innate Ideas]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Knowledge vs. Opinion]]
 - [[Knowledge vs. True Belief]]
-- [[Legal Reasoning]]
+- [[Legal-Reasoning|Legal Reasoning]]
 - [[Maieutics]]
 - [[Maieutics - The Socratic Method as Intellectual Midwifery]]
 - [[Metacognition]]
@@ -421,7 +421,7 @@ extraction_summary:
 - [[pedagogy]]
 - [[Perspective-Taking]]
 - [[Peter Geach]]
-- [[Philosophy of Education]]
+- [[Philosophy-of-Education|Philosophy of Education]]
 - [[Philosophy of History]]
 - [[Philosophy of Language]]
 - [[Plato's Theory of Forms]]

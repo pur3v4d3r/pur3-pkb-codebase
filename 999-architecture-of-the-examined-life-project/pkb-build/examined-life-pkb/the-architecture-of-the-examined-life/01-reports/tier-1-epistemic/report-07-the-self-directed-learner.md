@@ -93,7 +93,7 @@ related:
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Developmental Epistemology]]"
-  - "[[Philosophy of Education]]"
+  - "[[Philosophy-of-Education|Philosophy of Education]]"
 expansion-topics:
   - topic: "[[Deliberate-Practice-and-Expert-Development|Deliberate Practice and Expert Development]]"
     description: Ericsson's work on the acquisition of expertise connects to SRL through the mechanisms of focused practice, feedback, and progressive challenge — the empirical account of what excellent self-directed learning produces over time.
@@ -101,7 +101,7 @@ expansion-topics:
   - topic: "[[Growth-Mindset-and-Implicit-Theories-of-Intelligence|Growth Mindset and Implicit Theories of Intelligence]]"
     description: Carol Dweck's research on fixed vs. growth mindsets provides the belief architecture that either enables or blocks the fallibilist-constructivist posture essential to self-directed development.
     priority: high
-  - topic: "[[Personal Knowledge Management Systems]]"
+  - topic: "[[Personal-Knowledge-Management-Systems|Personal Knowledge Management Systems]]"
     description: The practical infrastructure for implementing a personal learning architecture — methods like Zettelkasten, spaced repetition, and interleaved practice as operationalizations of the SRL framework.
     priority: medium
   - topic: "[[Developmental Trajectories of Expertise]]"

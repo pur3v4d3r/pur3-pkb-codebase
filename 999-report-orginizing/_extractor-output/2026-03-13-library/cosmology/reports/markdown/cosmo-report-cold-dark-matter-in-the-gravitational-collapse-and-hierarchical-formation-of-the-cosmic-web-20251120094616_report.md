@@ -266,7 +266,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > * *The principles discussed here* **strongly connect to the field of:**
->       * [[Stellar Evolution]]
+>       * [[Stellar-Evolution|Stellar Evolution]]
 >       * **The reason:**
 >           * The "color" of a galaxy ("blue" vs. "red") is a direct proxy for its star-formation history. The environmental mechanisms of the cosmic web (mergers, stripping) are the *direct cause* of [[Star Formation Cessation]] ("quenching"). Therefore, to understand why some galaxies are "dead" and others are "alive," you *must* understand their position in the dark matter-dominated cosmic web.
 
@@ -385,7 +385,7 @@ extraction_summary:
 - [[Newtonian Gravity]]
 - [[Ram-Pressure Stripping]]
 - [[Star Formation Cessation]]
-- [[Stellar Evolution]]
+- [[Stellar-Evolution|Stellar Evolution]]
 - [[Strangulation]]
 - [[Vera Rubin]]
 - [[WIMPs]]
@@ -409,7 +409,7 @@ extraction_summary:
 | 13 | [[Galactic Mergers]] | — | — | 6.2 The Mechanisms of Environmental I... | 270 |
 | 14 | [[Ram-Pressure Stripping]] | — | — | 6.2 The Mechanisms of Environmental I... | 271 |
 | 15 | [[Strangulation]] | — | — | 6.2 The Mechanisms of Environmental I... | 272 |
-| 16 | [[Stellar Evolution]] | — | — | 6.2 The Mechanisms of Environmental I... | 277 |
+| 16 | [[Stellar-Evolution|Stellar Evolution]] | — | — | 6.2 The Mechanisms of Environmental I... | 277 |
 | 17 | [[Star Formation Cessation]] | — | — | 6.2 The Mechanisms of Environmental I... | 279 |
 | 18 | [[WIMPs]] | — | — | 7.1 The Hunt: What *is* Cold Dark Mat... | 305 |
 | 19 | [[Axions]] | — | — | 7.1 The Hunt: What *is* Cold Dark Mat... | 306 |
@@ -488,7 +488,7 @@ graph TD
 - [[Newtonian Gravity]]
 - [[Ram-Pressure Stripping]]
 - [[Star Formation Cessation]]
-- [[Stellar Evolution]]
+- [[Stellar-Evolution|Stellar Evolution]]
 - [[Strangulation]]
 - [[Vera Rubin]]
 - [[WIMPs]]

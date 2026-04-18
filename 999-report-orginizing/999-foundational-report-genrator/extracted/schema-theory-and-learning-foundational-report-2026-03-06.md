@@ -161,7 +161,7 @@ applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Reading Comprehension Pedagogy]]"
   - "[[Medical Education and Clinical Reasoning]]"
-  - "[[Expert-Novice Research]]"
+  - "[[Expert-Novice-Research|Expert-Novice Research]]"
   - "[[Curriculum Sequencing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -428,7 +428,7 @@ Schema theory is one of the most practically generative frameworks in the learni
 > [!best-practice] **Prior Knowledge Activation Strategies**
 > Effective prior knowledge activation goes beyond asking "what do you already know about X?" It creates a specific cognitive readiness for the conceptual structure about to be taught. Strategies include: analogical bridging (connecting new concepts to familiar ones through explicit analogy); concept mapping before instruction (revealing the structural organization of learners' existing knowledge); pre-questions (questions that direct attention to key conceptual distinctions before exposure to content); and anticipation guides (structured predictions that learners make before reading or listening, creating a schema-activating context for incoming information).
 
-**Designing explicit schema instruction.** For novice learners entering a domain, the relevant schemas often do not exist — they must be built, not merely activated. Research in [[reading comprehension]] has shown that explicitly teaching text structure schemas (narrative structure, compare-contrast structure, problem-solution structure) significantly improves comprehension and recall in students who lack these schemas. Similarly, in [[mathematics education]], research on [[Worked-Examples|worked examples]] — studied rather than solved — shows that examples are most effective when they make the problem structure (the underlying schema) explicit, not merely the solution procedure.
+**Designing explicit schema instruction.** For novice learners entering a domain, the relevant schemas often do not exist — they must be built, not merely activated. Research in [[Reading-Comprehension|reading comprehension]] has shown that explicitly teaching text structure schemas (narrative structure, compare-contrast structure, problem-solution structure) significantly improves comprehension and recall in students who lack these schemas. Similarly, in [[mathematics education]], research on [[Worked-Examples|worked examples]] — studied rather than solved — shows that examples are most effective when they make the problem structure (the underlying schema) explicit, not merely the solution procedure.
 
 **Using advance organizers.** Ausubel's advance organizers, when properly designed and implemented, provide a conceptual scaffold that supports the anchoring of new material. The design criteria that research supports are: the organizer should be at a *higher level of abstraction* than the lesson content (not a preview or outline); it should make *explicit connections* between what students already know and the new conceptual domain; and it should introduce the *conceptual organizing framework* before details, not after. Research syntheses (including Mayer's 1979 meta-analysis) find moderate but reliable effects of advance organizers on retention and transfer, with effects strongest when learners have low prior knowledge of the domain.
 

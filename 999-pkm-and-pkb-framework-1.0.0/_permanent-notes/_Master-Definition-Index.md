@@ -2732,7 +2732,7 @@ importance: high
 > *Permanent Note: [[Metacognitive-Calibration|Metacognitive Calibration]]*
 
 > [!definition] **Metacognitive Capacity** **[perm-note]**
-> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[Metacognitive-Knowledge]] (understanding of cognitive processes), (2) [[Metacognitive-Monitoring]] (awareness of current cognitive states), and (3) [[metacognitive control]] (ability to regulate cognitive processes based on monitoring)</span>
+> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[Metacognitive-Knowledge]] (understanding of cognitive processes), (2) [[Metacognitive-Monitoring]] (awareness of current cognitive states), and (3) [[Metacognitive-Control]] (ability to regulate cognitive processes based on monitoring)</span>
 > 
 > *Source: cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Metacognitive-Capacity|Metacognitive Capacity]]*

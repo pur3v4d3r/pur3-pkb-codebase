@@ -303,7 +303,7 @@ Based on the analysis of the `[EXEMPLAR-BASE]` (focused on deep, academic exposi
 
 > [!core-principle]
 > **Guiding Principle/Theory:** 
-> - {{Which theoretical model or core principle from your PKB will be the primary tool for solving this problem? (e.g., [[Systems Thinking]], [[Design-Thinking]], [[First Principles]]).}}
+> - {{Which theoretical model or core principle from your PKB will be the primary tool for solving this problem? (e.g., [[Systems-Thinking]], [[Design-Thinking]], [[First Principles]]).}}
 
 > [!thought-experiment]
 > **The Intervention Hypothesis:** 
@@ -758,7 +758,7 @@ Here are the complete, copy-paste-ready Markdown templates for the models design
 > **Pedagogue's Note:** This scaffold is designed to translate declarative knowledge ("knowing what") into procedural knowledge ("knowing how"). Its purpose is to provide a structured path from a theoretical concept to a tangible, real-world project or implementation. It is ideal for engineers, programmers, entrepreneurs, artists, and anyone whose goal is to *build* something based on their learning.
 
 ---
-# Application Bridge: From {{[[Concept]]}} to {{Project Goal}}
+# Application Bridge: From {{[[concept]]}} to {{Project Goal}}
 
 > [!the-mission]
 > To apply the theoretical principles of {{[[Core Concept]]}} to design, execute, and review a practical project: {{Name of Your Project}}.

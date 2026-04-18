@@ -137,10 +137,10 @@ broader:
   - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
 
 narrower:
-  - "[[Incidental Vocabulary Acquisition]]"
-  - "[[Morphological Awareness]]"
+  - "[[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]]"
+  - "[[Morphological-Awareness|Morphological Awareness]]"
   - "[[Contextual Inference Strategies]]"
-  - "[[Nation's Vocabulary Size Thresholds]]"
+  - "[[Nation's-Vocabulary-Size-Thresholds|Nation's Vocabulary Size Thresholds]]"
 
 see-also:
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
@@ -169,19 +169,19 @@ builds-on:
 enables:
   - "[[Situation-Models-in-Text-Comprehension|Situation Models in Text Comprehension]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
-  - "[[Extensive Reading]]"
+  - "[[Extensive-Reading|Extensive Reading]]"
 
 expansion-topics:
-  - topic: "[[Morphological Awareness]]"
+  - topic: "[[Morphological-Awareness|Morphological Awareness]]"
     description: "The ability to recognize and manipulate word parts (roots, prefixes, suffixes) as a force multiplier for vocabulary acquisition; morphologically rich instruction dramatically extends the reach of explicit word teaching"
     priority: "high"
-  - topic: "[[Extensive Reading]]"
+  - topic: "[[Extensive-Reading|Extensive Reading]]"
     description: "The pedagogical framework for systematic reading volume as the primary vehicle for incidental vocabulary growth; covers selection criteria, reading rate thresholds, and comprehension-vocabulary tradeoffs"
     priority: "high"
-  - topic: "[[Krashen's Input Hypothesis]]"
+  - topic: "[[Krashen's-Input-Hypothesis|Krashen's Input Hypothesis]]"
     description: "The theoretical underpinning of comprehensible input as the mechanism for language and vocabulary acquisition; controversial but foundational for understanding the incidental learning case"
     priority: "medium"
-  - topic: "[[Vocabulary Threshold Hypothesis]]"
+  - topic: "[[Vocabulary-Threshold-Hypothesis|Vocabulary Threshold Hypothesis]]"
     description: "The empirical claim that a minimum vocabulary of approximately 8,000–9,000 word families is required for fluent independent reading; implications for sequencing vocabulary instruction and reading selection"
     priority: "high"
   - topic: "[[Beck's Tier Vocabulary Model]]"
@@ -268,7 +268,7 @@ The scope of this report is deliberately broad but purposeful. It covers the cog
 
 The naive answer — you know a word if you know what it means — collapses immediately under scrutiny. Consider *democracy*. You might be able to define it. But can you use it appropriately across contexts (democratic spirit, democracy of ideas, the procedural democracy of the 1990s)? Can you recognize related forms (*democratize*, *undemocratic*, *democratically*)? Do you know which collocations it resists (*democracy of food* sounds odd; why)? Do you understand the word's full affective and connotative range, which shifts significantly from context to context?
 
-[[Paul Nation]]'s foundational work in applied linguistics resolved this confusion by decomposing word knowledge into multiple independent dimensions. His framework, now standard in vocabulary research, identifies three master categories — form, meaning, and use — each with receptive and productive sub-dimensions.
+[[Paul-Nation|Paul Nation]]'s foundational work in applied linguistics resolved this confusion by decomposing word knowledge into multiple independent dimensions. His framework, now standard in vocabulary research, identifies three master categories — form, meaning, and use — each with receptive and productive sub-dimensions.
 
 > [!definition] **Word Knowledge (Nation's Framework, 2001)**
 > A multi-dimensional construct encompassing at minimum three knowledge types: *form knowledge* (spoken and written forms, morphological derivations), *meaning knowledge* (referential meaning, conceptual range, connotational range, associations), and *use knowledge* (grammatical constraints, collocational patterns, pragmatic restrictions on when and with whom the word is appropriate). Full mastery of a word requires competence across all dimensions; partial knowledge — knowing a word "somewhat" — is the normative condition.
@@ -277,7 +277,7 @@ The naive answer — you know a word if you know what it means — collapses imm
 >
 > **Operational Indicator:** A learner demonstrates strong word knowledge when they can (a) recognize the word in varied forms and contexts, (b) produce a contextually appropriate definition or paraphrase, (c) generate accurate example sentences, and (d) identify collocational partners with reasonable accuracy.
 >
-> **See also:** [[Vocabulary Breadth vs. Depth]], [[Semantic-Memory|Semantic Memory]], [[Schema-Theory|Schema Theory]], [[Incidental Vocabulary Acquisition]]
+> **See also:** [[Vocabulary-Breadth-vs.-Depth|Vocabulary Breadth vs. Depth]], [[Semantic-Memory|Semantic Memory]], [[Schema-Theory|Schema Theory]], [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]]
 
 This distinction between *breadth* (how many words one knows, at least partially) and *depth* (how well one knows those words, across all dimensions) is one of the most theoretically and practically important in the field. Reading builds breadth efficiently — each encounter with a word in a new context extends the word's known range. But depth, particularly productive control and collocational fluency, typically requires far more intentional engagement than passive reading delivers.
 
@@ -286,7 +286,7 @@ This distinction between *breadth* (how many words one knows, at least partially
 >
 > **Boundary:** Breadth counts can be misleading because they do not distinguish between partial and full knowledge. A learner may have "breadth" that is actually a collection of weak partial-knowledge words that cannot be deployed flexibly.
 >
-> **See also:** [[Vocabulary-Comprehension Spiral]], [[Nation's Vocabulary Size Thresholds]], [[Incidental Vocabulary Acquisition]]
+> **See also:** [[Vocabulary-Comprehension-Spiral|Vocabulary-Comprehension Spiral]], [[Nation's-Vocabulary-Size-Thresholds|Nation's Vocabulary Size Thresholds]], [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]]
 
 > [!definition] **Vocabulary Depth (Qian, 2002; Read, 2000)**
 > The richness and precision of knowledge for each word in the lexicon, encompassing definitional accuracy, range of meaning, collocational knowledge, and pragmatic/register constraints. Vocabulary depth is increasingly recognized as the dimension most predictive of reading comprehension among proficient readers who already have adequate breadth.
@@ -297,7 +297,7 @@ This distinction between *breadth* (how many words one knows, at least partially
 
 ### The Zipfian Distribution and the Coverage Problem
 
-One of the most important empirical facts about vocabulary is how words are actually distributed in natural language. Words do not occur with equal frequency. They follow a [[Zipfian Distribution]] — a power law in which a small number of words accounts for a very large proportion of all text, while the vast majority of distinct words occur rarely. The most frequent word in English (roughly *the*) occurs approximately twice as often as the second most frequent (*of*), which occurs twice as often as the third, and so on. The practical implication is decisive.
+One of the most important empirical facts about vocabulary is how words are actually distributed in natural language. Words do not occur with equal frequency. They follow a [[Zipfian-Distribution|Zipfian Distribution]] — a power law in which a small number of words accounts for a very large proportion of all text, while the vast majority of distinct words occur rarely. The most frequent word in English (roughly *the*) occurs approximately twice as often as the second most frequent (*of*), which occurs twice as often as the third, and so on. The practical implication is decisive.
 
 > [!key-claim] **The Zipfian Coverage Threshold (Nation & Waring, 1997)**
 > To comprehend a text without constant dictionary interruption, a reader must know approximately 95–98% of the running words. With 95% coverage, roughly 1 word in 20 is unknown — too many for contextual inference to be reliable. At 98% coverage (1 unknown word in 50), comprehension and incidental acquisition become genuinely possible. Achieving 98% coverage of most general English texts requires knowledge of approximately 8,000–9,000 word families.
@@ -340,7 +340,7 @@ The vocabulary-comprehension relationship is also mediated by [[Schema-Theory|Sc
 
 ### Verbal Efficiency Theory
 
-[[Charles Perfetti]]'s [[Verbal-Efficiency-Theory|Verbal Efficiency Theory]] (1985, 1992) provides the cognitive mechanism that explains *why* vocabulary knowledge matters for comprehension. The central claim is that reading comprehension depends on the availability of cognitive resources for high-level text processing — constructing inferences, integrating information across the text, monitoring comprehension, relating the text to prior knowledge. These processes require working memory capacity.
+[[Charles-Perfetti|Charles Perfetti]]'s [[Verbal-Efficiency-Theory|Verbal Efficiency Theory]] (1985, 1992) provides the cognitive mechanism that explains *why* vocabulary knowledge matters for comprehension. The central claim is that reading comprehension depends on the availability of cognitive resources for high-level text processing — constructing inferences, integrating information across the text, monitoring comprehension, relating the text to prior knowledge. These processes require working memory capacity.
 
 > [!key-claim] **Verbal Efficiency Theory (Perfetti, 1985)**
 > The speed and automaticity of lower-level lexical processes (recognizing a word's form, accessing its phonological representation, retrieving its meaning) determines how much cognitive capacity remains available for higher-level comprehension processes. Slow, effortful word recognition consumes working memory resources that would otherwise be devoted to comprehension. The more efficient lexical access becomes, the more comprehension potential is freed.
@@ -352,7 +352,7 @@ This is where vocabulary knowledge and [[Lexical-Automaticity|Lexical Automatici
 
 ### Incidental Acquisition: The Nation Program
 
-The incidental vocabulary acquisition research program, associated primarily with [[Paul Nation]], [[Michael Nagy]], and colleagues, attempts to quantify how much vocabulary is learned from reading and under what conditions. The most influential estimates — Nagy and Herman's (1987) calculation that children learn approximately 3,000 words per year, primarily through incidental exposure — have been both celebrated and critiqued. What the research robustly establishes is this: reading is the primary vehicle of vocabulary growth for literate adults, the probability of learning a new word from a single encounter is low (estimates range from 5–15%), and the cumulative effect of high reading volume over years is large.
+The incidental vocabulary acquisition research program, associated primarily with [[Paul-Nation|Paul Nation]], [[Michael-Nagy|Michael Nagy]], and colleagues, attempts to quantify how much vocabulary is learned from reading and under what conditions. The most influential estimates — Nagy and Herman's (1987) calculation that children learn approximately 3,000 words per year, primarily through incidental exposure — have been both celebrated and critiqued. What the research robustly establishes is this: reading is the primary vehicle of vocabulary growth for literate adults, the probability of learning a new word from a single encounter is low (estimates range from 5–15%), and the cumulative effect of high reading volume over years is large.
 
 > [!key-claim] **Incidental Acquisition Rate (Nagy & Herman, 1987; Nation, 2001)**
 > A single encounter with an unfamiliar word in context produces learning in approximately 5–15% of cases for native speakers — a figure that increases with context richness, prior partial knowledge of the word, and the reader's general vocabulary level. This seemingly low single-encounter probability, multiplied across the tens of thousands of word encounters that high-volume readers accumulate annually, accounts for most vocabulary growth after the early school years.
@@ -412,7 +412,7 @@ This incremental acquisition model integrates naturally with [[Spaced-Repetition
 
 ### Morphological Awareness as a Force Multiplier
 
-One of the most powerful but underutilized vocabulary acquisition mechanisms is [[Morphological Awareness]] — the ability to recognize and decompose word structure into meaningful units (roots, prefixes, suffixes). English draws heavily on Latin and Greek morphological structures: a reader who knows that *-rupt* means "break" can immediately generate provisional meanings for *rupture*, *disrupt*, *erupt*, *irrupt*, *corrupt*, and *interrupt*, all from a single morpheme.
+One of the most powerful but underutilized vocabulary acquisition mechanisms is [[Morphological-Awareness|Morphological Awareness]] — the ability to recognize and decompose word structure into meaningful units (roots, prefixes, suffixes). English draws heavily on Latin and Greek morphological structures: a reader who knows that *-rupt* means "break" can immediately generate provisional meanings for *rupture*, *disrupt*, *erupt*, *irrupt*, *corrupt*, and *interrupt*, all from a single morpheme.
 
 > [!key-claim] **Morphological Leverage (Anglin, 1993; Bauer & Nation, 1993)**
 > Knowledge of the most common English morphemes — approximately 30 derivational prefixes and suffixes, and the most frequent 2,000 Latin and Greek roots — enables a reader to make educated inferences about the meanings of tens of thousands of derived and compound words. Morphological knowledge functions as a *network multiplier* on vocabulary breadth: each morpheme learned extends the inferential reach of the learner across all words sharing that morpheme, enabling provisional meaning construction from structural analysis rather than contextual inference alone.
@@ -539,14 +539,14 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Operational Indicator:** A practical test: if a reader encounters more than one unfamiliar word per page in a typical-length novel or non-fiction book, they are likely below the productive threshold for that text.
 >
-> **See also:** [[Vocabulary Breadth vs. Depth]], [[Incidental Vocabulary Acquisition]], [[Word Frequency Principles]], [[Nation's Vocabulary Size Thresholds]]
+> **See also:** [[Vocabulary-Breadth-vs.-Depth|Vocabulary Breadth vs. Depth]], [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]], [[Word Frequency Principles]], [[Nation's-Vocabulary-Size-Thresholds|Nation's Vocabulary Size Thresholds]]
 
 > [!definition] **Matthew Effect in Reading (Stanovich, 1986)**
 > The self-amplifying dynamic in reading and vocabulary development by which early advantages produce the conditions for further advantages, while early deficits produce conditions for further deficits. Named after the biblical observation that "to him who has, more will be given." In vocabulary specifically: readers with larger initial vocabularies find reading easier, read more, encounter more words, and build larger vocabularies at greater speed than readers with smaller initial vocabularies, who find reading harder, read less, and fall progressively further behind.
 >
 > **Boundary:** The Matthew Effect does not imply that vocabulary deficits are irreversible; it describes a tendency, not a determinism. Targeted, high-volume reading combined with deliberate vocabulary instruction can disrupt the negative spiral for learners with initial deficits.
 >
-> **See also:** [[Self-Efficacy-Theory|Self-Efficacy Theory]], [[Growth-Mindset|Growth Mindset]], [[Incidental Vocabulary Acquisition]], [[Vocabulary-Comprehension Spiral]]
+> **See also:** [[Self-Efficacy-Theory|Self-Efficacy Theory]], [[Growth-Mindset|Growth Mindset]], [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]], [[Vocabulary-Comprehension-Spiral|Vocabulary-Comprehension Spiral]]
 
 > [!definition] **Verbal Efficiency Theory (Perfetti, 1985, 1992)**
 > A cognitive theory of reading comprehension holding that the efficiency of lower-level lexical processes (word recognition, phonological access, meaning retrieval) determines the availability of cognitive resources for higher-level comprehension processes (inference, integration, monitoring). Readers who achieve fast, automatic lexical access have more working memory resources available for comprehension; readers with slow, effortful word processing experience a cognitive bottleneck that impairs comprehension even when they nominally "know" the words encountered.
@@ -560,21 +560,21 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Boundary:** Morphological inference does not always produce accurate meanings. English morphology is historically layered and sometimes opaque: *butterfly* does not mean a flying piece of butter; *pineapple* does not grow on pines. Morphological analysis is most reliable for latinate and Greek-derived academic vocabulary where morphological transparency is high.
 >
-> **See also:** [[Incidental Vocabulary Acquisition]], [[Contextual Inference Strategies]], [[Nation's Word Knowledge Framework]]
+> **See also:** [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]], [[Contextual Inference Strategies]], [[Nation's Word Knowledge Framework]]
 
 > [!definition] **Zipfian Distribution (Zipf, 1935; applied to vocabulary by Nation, 1990)**
 > A statistical distribution, named after linguist George Kingsley Zipf, in which the frequency of a word in a corpus is approximately inversely proportional to its rank in the frequency ordering: the most frequent word is approximately twice as common as the second most frequent, three times as common as the third, and so on. The Zipfian distribution of vocabulary in natural language has the consequence that a small number of high-frequency words (approximately 2,000–3,000 for English) accounts for the vast majority of running words in most general texts, while the long tail of rare, specialized vocabulary accounts for a large proportion of distinct word types but a small proportion of running text.
 >
 > **Boundary:** The Zipfian distribution describes corpus-level statistical regularities; individual texts may deviate significantly, particularly highly specialized texts (legal documents, medical research articles) where domain-specific vocabulary appears at frequencies far above their corpus-wide norm.
 >
-> **See also:** [[Word Frequency Principles]], [[Coverage Threshold]], [[Nation's Vocabulary Size Thresholds]], [[Extensive Reading]]
+> **See also:** [[Word Frequency Principles]], [[Coverage-Threshold|Coverage Threshold]], [[Nation's-Vocabulary-Size-Thresholds|Nation's Vocabulary Size Thresholds]], [[Extensive-Reading|Extensive Reading]]
 
 > [!definition] **Vocabulary-Comprehension Spiral**
 > The bidirectional, cumulative causal relationship between vocabulary size and reading comprehension: larger vocabulary enables better comprehension of texts, better comprehension of texts generates more incidental vocabulary acquisition, which further increases vocabulary size, which enables still better comprehension. This self-reinforcing dynamic is the primary mechanism through which literate adults build vocabulary over the course of a lifetime.
 >
 > **Boundary:** The spiral is not unconditional — it operates most powerfully above the coverage threshold. Below threshold, the feedback loop is interrupted because texts that exceed vocabulary level impair rather than enhance both comprehension and incidental acquisition.
 >
-> **See also:** [[Matthew-Effect|Matthew Effect]], [[Incidental Vocabulary Acquisition]], [[Schema-Theory|Schema Theory]], [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+> **See also:** [[Matthew-Effect|Matthew Effect]], [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]], [[Schema-Theory|Schema Theory]], [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 
 ---
 
@@ -626,7 +626,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **This Report's Position:** Extensive reading is the primary vehicle; deliberate instruction is the complement, specifically targeting high-value words and the depth dimension of high-frequency words.
 >
-> **See also:** [[Incidental-Learning|Incidental Learning]], [[Extensive Reading]], [[Desirable-Difficulties|Desirable Difficulties]], [[Spaced-Repetition|Spaced Repetition]]
+> **See also:** [[Incidental-Learning|Incidental Learning]], [[Extensive-Reading|Extensive Reading]], [[Desirable-Difficulties|Desirable Difficulties]], [[Spaced-Repetition|Spaced Repetition]]
 
 > [!open-question] **What Is the Optimal Text Difficulty for Vocabulary Learning?**
 >
@@ -836,16 +836,16 @@ The most important unresolved question in this space is the depth-breadth tradeo
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Morphological Awareness]]
+> > [!topic-idea] [[Morphological-Awareness|Morphological Awareness]]
 > > **Description:** A full foundational report on morphological awareness as a vocabulary acquisition mechanism. Would cover the major morphological families of English (Latin derivational morphology, Greek combining forms, Germanic compounding), quantitative estimates of the leverage provided by the most common morphemes, the developmental trajectory of morphological awareness, and evidence on morphological instruction for vocabulary growth. This report identifies morphological awareness as a force multiplier; a dedicated node would provide the systematic treatment needed to actually develop this skill.
 > >
 > > **Connection to This Report:** Phase IV's discussion of morphological awareness as a mechanism; the gap between identifying it as important and providing usable practice content.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[Nation's Word Knowledge Framework]], [[Incidental Vocabulary Acquisition]]
+> > **Prerequisites:** [[Nation's Word Knowledge Framework]], [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]]
 >
-> > [!topic-idea] [[Extensive Reading]]
+> > [!topic-idea] [[Extensive-Reading|Extensive Reading]]
 > > **Description:** The pedagogical framework for systematic high-volume reading as the primary vehicle for incidental vocabulary and general language development. Would cover reading rate thresholds (approximately 150 WPM for learning benefits in L2; similar thresholds in L1), text selection principles, the relationship between reading volume and vocabulary growth trajectory, and practical design of an extensive reading program for adult self-directed learners. Directly actionable extension of this report's practical section.
 > >
 > > **Connection to This Report:** The recommendation to read volume in the Zone of Productive Difficulty points to extensive reading as the practical implementation; the current report lacks detailed guidance on how to design and sustain such a program.
@@ -854,7 +854,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 > > **Suggested Type:** Focused Analysis
 > > **Prerequisites:** [[Vocabulary Building Through Reading]], [[Incidental-Learning|Incidental Learning]]
 >
-> > [!topic-idea] [[Vocabulary Threshold Hypothesis]]
+> > [!topic-idea] [[Vocabulary-Threshold-Hypothesis|Vocabulary Threshold Hypothesis]]
 > > **Description:** A focused analysis of the empirical evidence for vocabulary size thresholds in reading comprehension — the claim that a reader must know approximately 95–98% of text words to sustain adequate comprehension, and that achieving this threshold requires approximately 8,000–9,000 word families for general English. Would examine the evidence base, methodological limitations, cross-linguistic applications, and implications for vocabulary sequencing in instruction and self-directed study.
 > >
 > > **Connection to This Report:** Phase II's coverage threshold discussion provides the conceptual introduction; a dedicated node would provide the critical empirical review needed to calibrate confidence in the estimates.
@@ -870,7 +870,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[Vocabulary Building Through Reading]], [[Incidental Vocabulary Acquisition]]
+> > **Prerequisites:** [[Vocabulary Building Through Reading]], [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]]
 >
 > > [!topic-idea] [[Word Frequency Principles]]
 > > **Description:** A focused analysis of Zipfian and related frequency distributions in natural language and their implications for vocabulary learning efficiency. Would cover the major frequency word lists (BNC/COCA word frequency lists, Academic Word List, General Service List), the coverage implications of different frequency bands, and how to use frequency data to prioritize vocabulary study. Provides the quantitative vocabulary architecture that grounds the strategic recommendations in this report.
@@ -879,9 +879,9 @@ The most important unresolved question in this space is the depth-breadth tradeo
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[Vocabulary Threshold Hypothesis]]
+> > **Prerequisites:** [[Vocabulary-Threshold-Hypothesis|Vocabulary Threshold Hypothesis]]
 >
-> > [!topic-idea] [[Krashen's Input Hypothesis]]
+> > [!topic-idea] [[Krashen's-Input-Hypothesis|Krashen's Input Hypothesis]]
 > > **Description:** A foundational and critical analysis of Stephen Krashen's Input Hypothesis — the claim that language acquisition (including vocabulary) occurs when learners are exposed to "comprehensible input" just beyond their current level (i+1). Krashen's framework is the theoretical parent of the Zone of Productive Difficulty concept; a dedicated node would cover the theory's explanatory scope, the specific controversy around its empirical underdetermination, and how it compares to more recent incidental acquisition research. The tension between Krashen's acquisition-instruction dichotomy and the deliberate vocabulary instruction literature is a live and important one.
 > >
 > > **Connection to This Report:** Phase III's incidental acquisition account implicitly draws on Krashen's framework; the tension between incidental and deliberate instruction identified in Appendix Section 3 maps onto the Krashen controversy.
@@ -913,7 +913,7 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > - **[[Transfer-of-Learning|Transfer of Learning]]** — Vocabulary is one of the clearest instances of transfer: a word learned in one context must transfer to new contexts for it to be productively useful. The depth-breadth distinction and the multiple-varied-encounters principle are directly relevant to understanding why some vocabulary learning transfers readily and other vocabulary remains context-bound.
 >
-> - **[[Extensive Reading]]** — The practical program for implementing this report's recommendations. Extensive reading is the application framework for the Zone of Productive Difficulty and incidental acquisition principles articulated here.
+> - **[[Extensive-Reading|Extensive Reading]]** — The practical program for implementing this report's recommendations. Extensive reading is the application framework for the Zone of Productive Difficulty and incidental acquisition principles articulated here.
 >
 > **Lateral Connections (mutual enrichment):**
 >
@@ -960,8 +960,8 @@ The most important unresolved question in this space is the depth-breadth tradeo
 >
 > **Recommendations for Future Revision:**
 > - Add a section on Schmidt's Noticing Hypothesis and its implications for deliberate attention during reading as a vocabulary acquisition mechanism
-> - Expand the morphological awareness section substantially once the dedicated [[Morphological Awareness]] expansion node is created
-> - After generating [[Krashen's Input Hypothesis]], revisit Phase III's tension section to enrich the incidental vs. deliberate instruction debate
+> - Expand the morphological awareness section substantially once the dedicated [[Morphological-Awareness|Morphological Awareness]] expansion node is created
+> - After generating [[Krashen's-Input-Hypothesis|Krashen's Input Hypothesis]], revisit Phase III's tension section to enrich the incidental vs. deliberate instruction debate
 
 ---
 

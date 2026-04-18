@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -73,16 +73,11 @@ see-also:
   - "[[Concept-1|Concept 1]]"
   - "[[Concept-2|Concept 2]]"
   - "[[Learning-Log|Learning Log]]"
-  - "[[Concept-1|Concept 1]]"
-  - "[[Concept-2|Concept 2]]"
   - "[[Previous-Concept|Previous Concept]]"
   - "[[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]]"
-  - "[[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]"
   - "[[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]]"
   - "[[03-notes01-permanent-notes02-personal-knowledge-basePersonal-Knowledge-Managemen|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]"
   - "[[productivity]]"
-  - "[[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", 1) %>]]"
-  - "[[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]]"
   - "[[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", 1) %>]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -155,6 +150,14 @@ importance: medium
 
 **Related concepts:**
 [[Obsidian]] · [[Day-Planner|Day Planner]] · [[Tasks-Plugin|Tasks Plugin]] · [[Dataview]] · [[Tracker-Plugin|Tracker Plugin]] · [[Goals-MOC|Goals MOC]] · [[Concept-1|Concept 1]] · [[Concept-2|Concept 2]] · [[Learning-Log|Learning Log]] · [[Concept-1|Concept 1]] · [[Concept-2|Concept 2]] · [[Previous-Concept|Previous Concept]] · [[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] · [[%-tp.date.nowYYYY-MM-DD,-1,-tp.file.title,-YYYY-MM-DD-%|<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] · [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]] · [[03-notes01-permanent-notes02-personal-knowledge-basePersonal-Knowledge-Managemen|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] · [[productivity]] · [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", 1) %>]] · [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", -1) %>]] · [[%-tp.date.nowYYYY-MM-DD,-1-%|<% tp.date.now("YYYY-MM-DD", 1) %>]] · [[deep-work|deep work]] · [[Flow-State|Flow State]] · [[03-notes01-permanent-notes01-cognitive-developmentPomodoro-Technique|03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] · [[%-tp.date.nowYYYY-MM-%-Monthly-Review|<% tp.date.now("YYYY-MM") %> Monthly Review]] · [[%-momenttp.date.nowYYYY-MM-DD.startOf'week'.add1,-'day'.formatYYYY-MM-DD-%|<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(1, 'day').format("YYYY-MM-DD") %>]] · [[%-momenttp.date.nowYYYY-MM-DD.startOf'week'.add2,-'days'.formatYYYY-MM-DD-%|<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(2, 'days').format("YYYY-MM-DD") %>]] · [[%-momenttp.date.nowYYYY-MM-DD.startOf'week'.add3,-'days'.formatYYYY-MM-DD-%|<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(3, 'days').format("YYYY-MM-DD") %>]] · [[%-momenttp.date.nowYYYY-MM-DD.startOf'week'.add4,-'days'.formatYYYY-MM-DD-%|<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(4, 'days').format("YYYY-MM-DD") %>]] · [[%-momenttp.date.nowYYYY-MM-DD.startOf'week'.add5,-'days'.formatYYYY-MM-DD-%|<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').add(5, 'days').format("YYYY-MM-DD") %>]] · [[GTD-Weekly-Review|GTD Weekly Review]]
+
+**Related concepts** *(from [[reference-technical-advanced-templater-note-templates-20251118225816]])*:
+[[Day-Planner|Day Planner]] * [[Tasks-Plugin|Tasks Plugin]] * [[Tracker-Plugin|Tracker Plugin]] * [[Goals-MOC|Goals MOC]] * [[Concept-1|Concept 1]] * [[Concept-2|Concept 2]] * [[Learning-Log|Learning Log]] * [[Previous-Concept|Previous Concept]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[deep-work|deep work]] * [[Flow-State|Flow State]] * [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro-Technique|03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] * [[GTD-Weekly-Review|GTD Weekly Review]] * [[Strategic-Planning|Strategic Planning]] * [[Getting-Things-Done|Getting Things Done]] * [[Burnout|Burnout]] * [[work-life-balance|work-life balance]] * [[Time-Blocking-Methodology|Time Blocking Methodology]] * [[Habit-Formation-Science|Habit Formation Science]] * [[Atomic-Habits|Atomic Habits]] * [[The-Power-of-Habit|The Power of Habit]] * [[Tiny-Habits|Tiny Habits]] * [[Daily-Review-Frameworks|Daily Review Frameworks]] * [[Stoic-Evening-Meditation|Stoic Evening Meditation]] * [[AAR-(After-Action-Review)|AAR (After Action Review)]] * [[Dataview-Queries-for-Daily-Notes|Dataview Queries for Daily Notes]] * [[QuickAdd|QuickAdd]] * [[Tasks|Tasks]] * [[Author-Name|Author Name]] * [[Key-Concepts|Key Concepts]]
+
+**Related concepts** *(from [[reference-technical-advanced-templater-note-templates-20251118225816]])*:
+[[Day-Planner|Day Planner]] * [[Tasks-Plugin|Tasks Plugin]] * [[Tracker-Plugin|Tracker Plugin]] * [[Goals-MOC|Goals MOC]] * [[Concept-1|Concept 1]] * [[Concept-2|Concept 2]] * [[Learning-Log|Learning Log]] * [[Previous-Concept|Previous Concept]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[deep-work|deep work]] * [[Flow-State|Flow State]] * [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro-Technique|03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] * [[GTD-Weekly-Review|GTD Weekly Review]] * [[Strategic-Planning|Strategic Planning]] * [[Getting-Things-Done|Getting Things Done]] * [[work-life-balance|work-life balance]] * [[Time-Blocking-Methodology|Time Blocking Methodology]] * [[Habit-Formation-Science|Habit Formation Science]] * [[Atomic-Habits|Atomic Habits]] * [[The-Power-of-Habit|The Power of Habit]] * [[Tiny-Habits|Tiny Habits]] * [[Daily-Review-Frameworks|Daily Review Frameworks]] * [[Stoic-Evening-Meditation|Stoic Evening Meditation]] * [[AAR-(After-Action-Review)|AAR (After Action Review)]] * [[Dataview-Queries-for-Daily-Notes|Dataview Queries for Daily Notes]] * [[Author-Name|Author Name]] * [[Key-Concepts|Key Concepts]] * [[Theoretical-Framework|Theoretical Framework]] * [[Architecture-Patterns|Architecture Patterns]] * [[Technology-Stack|Technology Stack]]
+
+
 
 ## Methodology Notes
 

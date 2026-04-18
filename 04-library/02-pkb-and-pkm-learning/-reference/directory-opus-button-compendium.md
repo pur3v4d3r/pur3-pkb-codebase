@@ -1559,11 +1559,11 @@ type: reference
 * *Depth Potential:** Regular expression renaming, [[EXIF]] date extraction, music tag integration
 * *Knowledge Graph Role:** Specialized renaming reference extending file operation buttons
 * *Priority:** High --- rename operations are daily workflow
-* *Prerequisites:** [[Regular-Expressions]], [[Metadata Understanding]]
+* *Prerequisites:** [[Regular-Expressions]], [[Metadata-Understanding]]
 
 ## Cross-Domain Connections
 
-### 3. **[[File Management Workflow Design]]**
+### 3. **[[File-Management-Workflow-Design]]**
 * *Connection:** Individual buttons should serve cohesive workflow purposes
 * *Depth Potential:** Principles of [[GTD]], [[PARA]], and [[file taxonomy]] applied to button toolbar organization
 * *Knowledge Graph Role:** Bridges productivity methodology to technical implementation
@@ -1579,18 +1579,18 @@ type: reference
 
 ## Advanced Deep Dives
 
-### 5. **[[Directory Opus Evaluator Functions]]** *[Requires prerequisites]*
+### 5. **[[Directory-Opus-Evaluator-Functions]]** *[Requires prerequisites]*
 * *Connection:** Evaluator columns and buttons enable dynamic computed values
 * *Depth Potential:** Custom columns, conditional formatting, dynamic labels
 * *Knowledge Graph Role:** Advanced customization extending basic button functionality
 * *Priority:** Low --- specialized need for power users
-* *Prerequisites:** [[Directory-Opus-Scripting]], [[Basic Programming Logic]]
+* *Prerequisites:** [[Directory-Opus-Scripting]], [[Basic-Programming-Logic]]
 
-### 6. **[[Multi-Tool Automation Pipelines]]** *[Requires prerequisites]*
+### 6. **[[Multi-Tool-Automation-Pipelines]]** *[Requires prerequisites]*
 * *Connection:** Buttons can trigger external tools; pipelines chain multiple tools together
 * *Depth Potential:** ImageMagick integration, FFmpeg processing, PDF manipulation chains
 * *Knowledge Graph Role:** Cross-tool automation building on single-tool buttons
 * *Priority:** Low --- specialized workflows requiring specific tool combinations
-* *Prerequisites:** [[CLI Tool Proficiency]], [[Directory-Opus-Scripting]]
+* *Prerequisites:** [[CLI-Tool-Proficiency]], [[Directory-Opus-Scripting]]
 
 - --

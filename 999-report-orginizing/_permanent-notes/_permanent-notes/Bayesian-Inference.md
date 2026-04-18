@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -74,9 +74,7 @@ see-also:
   - "[[Karl-Popper|Karl Popper]]"
   - "[[Aristotle]]"
   - "[[Francis-Bacon|Francis Bacon]]"
-  - "[[David-Hume|David Hume]]"
   - "[[John-Stuart-Mill|John Stuart Mill]]"
-  - "[[Karl-Popper|Karl Popper]]"
   - "[[Analogical-Reasoning|Analogical reasoning]]"
   - "[[Causal-Induction|Causal induction]]"
   - "[[Alison-Gopnik|Alison Gopnik]]"
@@ -215,6 +213,28 @@ importance: high
 **Related concepts:**
 [[Inductive-Reasoning|Inductive reasoning]] · [[David-Hume|David Hume]] · [[Karl-Popper|Karl Popper]] · [[Aristotle]] · [[Francis-Bacon|Francis Bacon]] · [[David-Hume|David Hume]] · [[John-Stuart-Mill|John Stuart Mill]] · [[Karl-Popper|Karl Popper]] · [[Analogical-Reasoning|Analogical reasoning]] · [[Causal-Induction|Causal induction]] · [[Alison-Gopnik|Alison Gopnik]] · [[Joshua-Tenenbaum|Joshua Tenenbaum]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Amos-Tversky|Amos Tversky]] · [[Constructivism]] · [[Jean-Piaget|Jean Piaget]] · [[Lev-Vygotsky|Lev Vygotsky]] · [[Jerome-Bruner|Jerome Bruner]] · [[Discovery-Learning|Discovery Learning]] · [[Inquiry-Based-Learning|Inquiry-Based Learning]] · [[Inquiry-Based-Learning|Inquiry-Based Learning]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Metacognition]] · [[Statistical-Learning-Theory|Statistical Learning Theory]] · [[Scientific-Method|Scientific Method]] · [[Deanna-Kuhn|Deanna Kuhn]] · [[Dedre-Gentner|Dedre Gentner]] · [[Structure-Mapping-Theory|Structure-Mapping Theory]] · [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]]
 
+**Related concepts** *(from [[inductive-reasoning-foundational-report-2026-03-06]])*:
+[[Inductive-Reasoning|Inductive reasoning]] * [[David-Hume|David Hume]] * [[Karl-Popper|Karl Popper]] * [[Francis-Bacon|Francis Bacon]] * [[John-Stuart-Mill|John Stuart Mill]] * [[Analogical-Reasoning|Analogical reasoning]] * [[Causal-Induction|Causal induction]] * [[Alison-Gopnik|Alison Gopnik]] * [[Joshua-Tenenbaum|Joshua Tenenbaum]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Jerome-Bruner|Jerome Bruner]] * [[Discovery-Learning|Discovery Learning]] * [[Inquiry-Based-Learning|Inquiry-Based Learning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Statistical-Learning-Theory|Statistical Learning Theory]] * [[Scientific-Method|Scientific Method]] * [[Deanna-Kuhn|Deanna Kuhn]] * [[Dedre-Gentner|Dedre Gentner]] * [[Structure-Mapping-Theory|Structure-Mapping Theory]] * [[Sleep-and-Memory-Consolidation|Sleep and Memory Consolidation]] * [[Retrieval-Practice|Retrieval Practice]] * [[Robert-Bjork|Robert Bjork]] * [[Desirable-Difficulties|Desirable Difficulties]] * [[Document-Based-Questioning|Document-Based Questioning]] * [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] * [[Fluency-Illusion|Fluency Illusion]] * [[Richard-Nisbett|Richard Nisbett]]
+
+**Cross-report connections** *(from [[inductive-reasoning-foundational-report-2026-03-06]])*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from [[inductive-reasoning-foundational-report-2026-03-06]])*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from [[inductive-reasoning-foundational-report-2026-03-06]])*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition-and-Lifelong-Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition-and-Critical-Thinking]]
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+
+
+
+
+
 ## References
 
 - **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
@@ -228,6 +248,87 @@ importance: high
 - **Gentner, D., & Holyoak, K.J. (1997). Reasoning and learning by analogy. *American Psychologist*, 52(1), 32–34.**: A concise and highly cited overview of analogical reasoning research. Covers Structure-Mapping Theory, the role of analogy in learning and problem-solving, and instructional implications. Supports Phase IV's treatment of analogical mapping.
 
 *Citations sourced from [[inductive-reasoning-foundational-report-2026-03-06]]*
+
+- **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+- **Mill, J.S. (1843). *A System of Logic, Ratiocinative and Inductive*. Harper & Brothers.**: The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+- **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+- **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
+
+- **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
+
+- **Kuhn, D. (2005). *Education for Thinking*. Harvard University Press.**: A comprehensive account of scientific and inductive reasoning development with direct implications for instruction. Kuhn's theory of theory-evidence coordination, its developmental trajectory, and instructional approaches to support it are all treated with depth. Central to Phase IV and Phase V.
+
+- **Furtak, E.M., Seidel, T., Iverson, H., & Briggs, D.C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching. *Review of Educational Research*, 82(3), 300–329.**: The most comprehensive meta-analysis of IBL research through its publication date. Distinguishes between types of inquiry and finds that teacher-guided inquiry consistently outperforms fully open inquiry and direct instruction alone. Essential empirical grounding for the instructional design discussion in Phase V.
+
+- **Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220.**: The definitive review of confirmation bias research. Synthesizes decades of experimental evidence, distinguishes multiple mechanisms, and discusses educational implications. Essential for the limitations discussion in Phase V and for connecting to critical thinking literature.
+
+- **Gentner, D., & Holyoak, K.J. (1997). Reasoning and learning by analogy. *American Psychologist*, 52(1), 32–34.**: A concise and highly cited overview of analogical reasoning research. Covers Structure-Mapping Theory, the role of analogy in learning and problem-solving, and instructional implications. Supports Phase IV's treatment of analogical mapping.
+
+- **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+- **Mill, J.S. (1843). *A System of Logic, Ratiocinative and Inductive*. Harper & Brothers.**: The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+- **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+- **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
+
+- **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
+
+- **Kuhn, D. (2005). *Education for Thinking*. Harvard University Press.**: A comprehensive account of scientific and inductive reasoning development with direct implications for instruction. Kuhn's theory of theory-evidence coordination, its developmental trajectory, and instructional approaches to support it are all treated with depth. Central to Phase IV and Phase V.
+
+- **Furtak, E.M., Seidel, T., Iverson, H., & Briggs, D.C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching. *Review of Educational Research*, 82(3), 300–329.**: The most comprehensive meta-analysis of IBL research through its publication date. Distinguishes between types of inquiry and finds that teacher-guided inquiry consistently outperforms fully open inquiry and direct instruction alone. Essential empirical grounding for the instructional design discussion in Phase V.
+
+- **Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220.**: The definitive review of confirmation bias research. Synthesizes decades of experimental evidence, distinguishes multiple mechanisms, and discusses educational implications. Essential for the limitations discussion in Phase V and for connecting to critical thinking literature.
+
+- **Gentner, D., & Holyoak, K.J. (1997). Reasoning and learning by analogy. *American Psychologist*, 52(1), 32–34.**: A concise and highly cited overview of analogical reasoning research. Covers Structure-Mapping Theory, the role of analogy in learning and problem-solving, and instructional implications. Supports Phase IV's treatment of analogical mapping.
+
+- **Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Oxford University Press (modern edition).**: The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+- **Mill, J.S. (1843). *A System of Logic, Ratiocinative and Inductive*. Harper & Brothers.**: The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+- **Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.**: Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+- **Tenenbaum, J.B., Kemp, C., Griffiths, T.L., & Goodman, N.D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279–1285.**: A landmark paper synthesizing Bayesian cognitive modeling of human inductive learning across multiple domains. Argues that human induction approximates Bayesian inference operating over structured probabilistic models. Directly supports the Bayesian account in Phase III and the pattern-extraction mechanism in Phase IV.
+
+- **Bruner, J. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21–32.**: Bruner's foundational paper on discovery learning. Argues for the educational value of guided student inquiry and inductive discovery over direct transmission. Seminal influence on inquiry-based learning pedagogy. Supports Phase III (theoretical landscape) and Phase V (instructional design principles).
+
+- **Kuhn, D. (2005). *Education for Thinking*. Harvard University Press.**: A comprehensive account of scientific and inductive reasoning development with direct implications for instruction. Kuhn's theory of theory-evidence coordination, its developmental trajectory, and instructional approaches to support it are all treated with depth. Central to Phase IV and Phase V.
+
+- **Furtak, E.M., Seidel, T., Iverson, H., & Briggs, D.C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching. *Review of Educational Research*, 82(3), 300–329.**: The most comprehensive meta-analysis of IBL research through its publication date. Distinguishes between types of inquiry and finds that teacher-guided inquiry consistently outperforms fully open inquiry and direct instruction alone. Essential empirical grounding for the instructional design discussion in Phase V.
+
+- **Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220.**: The definitive review of confirmation bias research. Synthesizes decades of experimental evidence, distinguishes multiple mechanisms, and discusses educational implications. Essential for the limitations discussion in Phase V and for connecting to critical thinking literature.
+
+- **Gentner, D., & Holyoak, K.J. (1997). Reasoning and learning by analogy. *American Psychologist*, 52(1), 32–34.**: A concise and highly cited overview of analogical reasoning research. Covers Structure-Mapping Theory, the role of analogy in learning and problem-solving, and instructional implications. Supports Phase IV's treatment of analogical mapping.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methodology Notes
 

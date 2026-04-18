@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -87,7 +87,6 @@ see-also:
   - "[[Embodied-Cognition|Embodied Cognition]]"
   - "[[Interoceptive-Inference|Interoceptive Inference]]"
   - "[[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]"
-  - "[[Allostatic-Load|Allostatic Load]]"
   - "[[Propatheiai]]"
   - "[[Francisco-Varela|Francisco Varela]]"
   - "[[Evan-Thompson|Evan Thompson]]"
@@ -141,6 +140,10 @@ importance: high
 
 **Related concepts:**
 [[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Stoic-Prohairesis|Stoic Prohairesis]] · [[Intellectual-Virtue|Intellectual Virtue]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Allostatic-Load|Allostatic Load]] · [[Working-Memory|Working Memory]] · [[Executive-Function|Executive Function]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Belief-Revision|Belief Revision]] · [[Physiological-Metacognition|Physiological Metacognition]] · [[Report-06|Report 06]] · [[Embodied-Cognition|Embodied Cognition]] · [[Interoceptive-Inference|Interoceptive Inference]] · [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] · [[Allostatic-Load|Allostatic Load]] · [[Propatheiai]] · [[Francisco-Varela|Francisco Varela]] · [[Evan-Thompson|Evan Thompson]] · [[Eleanor-Rosch|Eleanor Rosch]] · [[Andy-Clark|Andy Clark]] · [[David-Chalmers|David Chalmers]] · [[Lawrence-Shapiro|Lawrence Shapiro]] · [[Anil-Seth|Anil Seth]] · [[Karl-Friston|Karl Friston]] · [[Free-Energy-Principle|Free Energy Principle]] · [[Anterior-Insular-Cortex|Anterior Insular Cortex]] · [[The-Predictive-Mind|The Predictive Mind]] · [[Antonio-Damasio|Antonio Damasio]]
+
+**Related concepts** *(from [[report-09-the-embodied-thinker]])*:
+[[Aporic-Receptivity|Aporic Receptivity]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Intellectual-Virtue|Intellectual Virtue]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Allostatic-Load|Allostatic Load]] * [[Working-Memory|Working Memory]] * [[Executive-Function|Executive Function]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Belief-Revision|Belief Revision]] * [[Physiological-Metacognition|Physiological Metacognition]] * [[Report-06|Report 06]] * [[Embodied-Cognition|Embodied Cognition]] * [[Interoceptive-Inference|Interoceptive Inference]] * [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] * [[Francisco-Varela|Francisco Varela]] * [[Evan-Thompson|Evan Thompson]] * [[Eleanor-Rosch|Eleanor Rosch]] * [[Andy-Clark|Andy Clark]] * [[David-Chalmers|David Chalmers]] * [[Lawrence-Shapiro|Lawrence Shapiro]] * [[Anil-Seth|Anil Seth]] * [[Karl-Friston|Karl Friston]] * [[Free-Energy-Principle|Free Energy Principle]] * [[Anterior-Insular-Cortex|Anterior Insular Cortex]] * [[The-Predictive-Mind|The Predictive Mind]] * [[Antonio-Damasio|Antonio Damasio]] * [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] * [[Iowa-Gambling-Task|Iowa Gambling Task]] * [[Peter-Sterling|Peter Sterling]]
+
 
 ## Methodology Notes
 

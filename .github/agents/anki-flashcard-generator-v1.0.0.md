@@ -52,7 +52,7 @@ max_tokens: 8000
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
   - "[[Spaced-Repetition]]"
-  - "[[Active Recall]]"
+  - "[[Active-Recall]]"
   - "[[Anki]]"
   - "[[The Testing Effect]]"
   - "[[Knowledge Extraction]]"

@@ -126,7 +126,7 @@ The [**Filter Model**:: Broadbent's 1958 theory…]
 Kahneman introduced the [**Allocation Policy**:: executive control mechanism…]
 %%ATOMIC: allocation-policy | atomic-concept | high%%
 
-This connects to [[Yerkes-Dodson Law]]
+This connects to [[Yerkes-Dodson-Law]]
 %%ATOMIC: yerkes-dodson-law | principle | medium%%
 ```
 
@@ -276,7 +276,7 @@ prerequisites:
 enables:
   - "[[Cognitive-Load-Theory]]"
   - "[[working-memory-model]]"
-  - "[[dual-task-interference]]"
+  - "[[Dual-Task-Interference]]"
 difficulty: intermediate
 estimated-study-time: 45min
 ---

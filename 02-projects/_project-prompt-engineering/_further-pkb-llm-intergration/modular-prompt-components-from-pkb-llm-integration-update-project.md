@@ -1126,7 +1126,7 @@ Encode where/when/how to apply captured knowledge.
 ```markdown
 [**Application-Domain**:: [[Domain]] | trigger:"situation description" | action:"recommended response" | confidence:high]
 
-[**Anti-Pattern**:: [[Concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
+[**Anti-Pattern**:: [[concept]] | context:"where it fails" | reason:"why it doesn't work" | alternative:"what to do instead"]
 ```
 </inline_syntax>
 
@@ -1473,9 +1473,9 @@ Explicitly connect concepts to foundational mental models.
 ### Inline Model Anchors
 
 ```markdown
-[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
 
-[**Model-Application**:: [[Concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
+[**Model-Application**:: [[concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
 </inline_syntax>
 
@@ -1487,7 +1487,7 @@ Explicitly connect concepts to foundational mental models.
 | [[First Principles]] | Decompose to fundamentals | "What are the basic building blocks?" |
 | [[Inversion]] | Solve by negation | "What would make this fail?" |
 | [[Second-Order Effects]] | Consequences of consequences | "And then what?" |
-| [[Systems Thinking]] | Interconnected wholes | "What are the feedback loops?" |
+| [[Systems-Thinking]] | Interconnected wholes | "What are the feedback loops?" |
 | [[Opportunity Cost]] | Value of alternatives foregone | "What am I giving up?" |
 | [[Constraint Theory]] | Bottleneck identification | "What's the limiting factor?" |
 | [[Circle of Competence]] | Know your limits | "Am I qualified to judge this?" |
@@ -1661,7 +1661,7 @@ The model comprises several interacting elements:
 ^source:: [[ref-kahneman-1973]] p.47
 ^evidence-type:: theoretical-claim
 
-[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson Law]] + [[Information-Processing-Theory]]]
+[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson-Law]] + [[Information-Processing-Theory]]]
 
 %%QUERY-ANCHOR: attention:capacity-model-components%%
 
@@ -1679,7 +1679,7 @@ The model comprises several interacting elements:
 > **Principle**: Single undifferentiated resource pool
 > **Counterexample**: Modality-specific interference patterns suggest multiple pools
 > **Boundary Condition**: Model may oversimplify for cross-modal tasks
-> **Alternative**: Consider [[Multiple Resource Theory]] for complex interfaces
+> **Alternative**: Consider [[Multiple-Resource-Theory]] for complex interfaces
 ```
 </integrated_output_example>
 

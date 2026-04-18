@@ -1144,7 +1144,7 @@ This simplified query shows ALL notes with Query meta sections.
 - [[Zettelkasten Methodology]]
 - [[MOC (Maps of Content) Design]]
 - [[Progressive-Summarization]]
-- [[Building a Second Brain]]
+- [[Building-a-Second-Brain]]
 
 ---
 

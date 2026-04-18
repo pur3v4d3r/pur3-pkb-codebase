@@ -201,7 +201,7 @@ I've created a **comprehensive, domain-agnostic self-documenting knowledge archi
 
 ```
 1. You create application note
-2. You link to [[Concept]]
+2. You link to [[concept]]
 3. Self-discovery query finds the link
 4. Concept note automatically updates
 5. Repeat → Knowledge graph builds itself

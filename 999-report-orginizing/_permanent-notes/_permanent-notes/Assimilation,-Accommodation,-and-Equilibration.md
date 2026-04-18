@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -207,6 +207,25 @@ importance: high
 - [[Flow|Flow]]
 - [[Report-03|Report 03]]
 - [[Report-04|Report 04]]
+
+**Related concepts** *(from [[report-04-cognitive-scaffolding]])*:
+[[Lev-Vygotsky|Lev Vygotsky]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[John-Dewey|John Dewey]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Schema-Theory|Schema Theory]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[Jean-Piaget|Jean Piaget]] * [[David-Rumelhart|David Rumelhart]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[John-Sweller|John Sweller]] * [[Fred-Paas|Fred Paas]] * [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Epistemic-Architecture|Epistemic Architecture]] * [[Tier-1|Tier 1]] * [[Report-01|Report 01]] * [[Report-02|Report 02]] * [[Report-03|Report 03]] * [[Jerome-Bruner|Jerome Bruner]] * [[David-Wood|David Wood]] * [[Gail-Ross|Gail Ross]] * [[Discovery-Learning|Discovery Learning]] * [[Direct-Instruction|Direct Instruction]] * [[Report-05|Report 05]] * [[Report-04|Report 04]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Anders-Ericsson|Anders Ericsson]]
+
+**Cross-report connections** *(from [[report-04-cognitive-scaffolding]])*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+**Cross-report connections** *(from [[report-04-cognitive-scaffolding]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Csikszentmihalyi|Csikszentmihalyi]]
+- [[Flow|Flow]]
+- [[Report-03|Report 03]]
+- [[Report-04|Report 04]]
+
+
+
 
 
 

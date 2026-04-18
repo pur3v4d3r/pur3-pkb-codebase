@@ -21,7 +21,7 @@ temperature: 2.725 K
 
 > [!insight]
 > **The Thesis**: 
->       - **"The [[Cosmic Microwave Background]] Radiation constitutes the definitive and incontrovertible proof of the [[Big Bang]] Theory of cosmological origins."**
+>       - **"The [[Cosmic Microwave Background]] Radiation constitutes the definitive and incontrovertible proof of the [[Big-Bang]] Theory of cosmological origins."**
 > 
 > - **The most significant error in the initial thesis was:**
 >      - The conflation of overwhelming empirical support with logical proof. The CMB doesn't "prove" the Big Bang in the way Euclid proves theorems; rather, it transforms cosmology from speculative philosophy into quantitative science, where specific predictions can be tested to extraordinary precision. The real triumph is not proof but the ability to measure the universe's age to within 21 million years, its geometry to a fraction of a percent, and its composition to similar precision.
@@ -182,7 +182,7 @@ Dark Energy: 68.3%
 ## 🔗 Cross-References
 
 **Theory**: [[The Big Bang Theory]], [[Cosmic Inflation]], [[Lambda-CDM Model]]
-**Timeline**: [[Timeline of the Universe]], [[nucleosynthesis]]
+**Timeline**: [[Timeline of the Universe]], [[Nucleosynthesis]]
 **Structure**: [[Galaxy Formation]], [[Dark Matter]], [[Cosmic Web Structure]]
 **Observations**: [[Space-Based Telescopes in Cosmology]], [[Precision Cosmology Era]]
 **Problems**: [[The Horizon Problem]], [[The Flatness Problem]]

@@ -41,7 +41,7 @@ see-also:
   - "[[Identified-Techniques]]"
   - "[[Maturity-Level-Definitions-&-Criteria]]"
   - "[[Standard-Template-Metadata]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -63,4 +63,4 @@ importance: low
 - [[Identified-Techniques]]
 - [[Maturity-Level-Definitions-&-Criteria]]
 - [[Standard-Template-Metadata]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

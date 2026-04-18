@@ -475,7 +475,7 @@ extraction_summary:
 - [[Endel-Tulving|Endel Tulving]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Fergus-I.-M.-Craik|Fergus I. M. Craik]]
-- [[Formative Assessment Design]]
+- [[Formative-Assessment-Design|Formative Assessment Design]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Jean-Piaget's|Jean Piaget's]]
 - [[LOP-Theory|LOP Theory]]
@@ -562,7 +562,7 @@ extraction_summary:
 | 53 | [[The-Generation-Effect|The Generation Effect]] | — | — | Educational Implications: Designing f... | 451 |
 | 54 | [[Self-Reference-Effect|Self-Reference Effect]] | — | — | Educational Implications: Designing f... | 457 |
 | 55 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Applications in Assessment Design | 461 |
-| 56 | [[Formative Assessment Design]] | — | — | Applications in Assessment Design | 463 |
+| 56 | [[Formative-Assessment-Design|Formative Assessment Design]] | — | — | Applications in Assessment Design | 463 |
 | 57 | [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] | — | — | Applications in Assessment Design | 463 |
 | 58 | [[Levels-of-Processing|Levels of Processing]] | — | — | Limitations: The Circularity Problem | 467 |
 | 59 | [[Levels-of-Processing|Levels of Processing]] | — | — | Limitations: The Circularity Problem | 470 |
@@ -620,7 +620,7 @@ extraction_summary:
 - [[Endel-Tulving|Endel Tulving]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Fergus-I.-M.-Craik|Fergus I. M. Craik]]
-- [[Formative Assessment Design]]
+- [[Formative-Assessment-Design|Formative Assessment Design]]
 - [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
 - [[Jean-Piaget's|Jean Piaget's]]
 - [[LOP-Theory|LOP Theory]]
@@ -697,7 +697,7 @@ extraction_summary:
 - [[Study Strategy Design]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Curriculum Development]]
-- [[Formative Assessment Design]]
+- [[Formative-Assessment-Design|Formative Assessment Design]]
 
 #### Builds On
 

@@ -35,7 +35,7 @@ Aliases: [[Expertise-Development]], [[Cognitive Mastery]], [[Advanced Andragogy]
 
   * **[TOPIC]:** A Developmental Examination of Cognitive Skill Acquisition
   * **[DEPTH]:** Encyclopedic Analysis & Synthesis
-  * **[LINKS]:** [[cognitive-psychology]], [[Andragogy]], [[Deliberate-Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical-Thinking]], [[Divergent Thinking]]
+  * **[LINKS]:** [[cognitive-psychology]], [[Andragogy]], [[Deliberate-Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical-Thinking]], [[Divergent-Thinking]]
 
 ### 2\. Phase 1: Overture (The "Why & What")
 
@@ -46,7 +46,7 @@ Aliases: [[Expertise-Development]], [[Cognitive Mastery]], [[Advanced Andragogy]
 > **Cognitive Skill Acquisition** is the progressive modification of cognitive structures and processes, resulting in the ability to perform complex intellectual tasks with increasing speed, accuracy, and reduced cognitive load. It involves the conversion of **declarative knowledge** (knowing *that*) into **procedural knowledge** (knowing *how*), mediated by [[Neuroplasticity]] and governed by executive control systems.
 
 > [!core-principle]
-> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working-Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical-Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.
+> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working-Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical-Thinking]] and the creative flexibility of [[Divergent-Thinking]] without exceeding cognitive capacity limits.
 
 ### 3\. Phase 2: Encyclopedic Exposition (The Deep Dive)
 
@@ -79,7 +79,7 @@ In the domain of [[Critical-Thinking]], deliberate practice entails the rigorous
 > [!evidence]
 > Studies on chess masters and radiologists indicate that the primary differentiator of expertise is the quality of **Mental Representations**. Deliberate practice is essentially the work of building more sophisticated, higher-resolution mental representations that allow the expert to predict outcomes and organize information more effectively than the novice.
 
-For [[Divergent Thinking]], deliberate practice appears paradoxical—how does one practice spontaneity? Yet, it is achieved by imposing constraints. Practicing idea generation under strict time limits, or forcing connections between arbitrarily distant concepts (e.g., "How is a toaster like a government?"), forces the brain to forge new synaptic pathways. The feedback loop here is less about "correctness" and more about "fluency" and "originality," measured against previous performance baselines.
+For [[Divergent-Thinking]], deliberate practice appears paradoxical—how does one practice spontaneity? Yet, it is achieved by imposing constraints. Practicing idea generation under strict time limits, or forcing connections between arbitrarily distant concepts (e.g., "How is a toaster like a government?"), forces the brain to forge new synaptic pathways. The feedback loop here is less about "correctness" and more about "fluency" and "originality," measured against previous performance baselines.
 
 #### Cognitive-Metacognitive Shifts: The Executive Controller
 
@@ -113,7 +113,7 @@ This equation underscores the necessity of the Andragogical approach; without de
 ### 4\. Phase 3: PKB Integration (New Avenues)
 
 > [!connections-and-links]
-> The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.
+> The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary-Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems-Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.
 
 > [!further-exploration]
 >

@@ -1133,7 +1133,7 @@ YAML METADATA BLOCK
 > **Where Position B Decisively Outperforms Position A:** [80-100 words — specific, evidence-grounded]
 
 > [!key-claim]
-> **The Most Defensible Synthesis:** [100-150 words — not "both sides have merit" but a genuine conclusion about what the weight of argument and evidence supports, connecting to [[Synthesis Method]] and [[Epistemic Responsibility]]]
+> **The Most Defensible Synthesis:** [100-150 words — not "both sides have merit" but a genuine conclusion about what the weight of argument and evidence supports, connecting to [[Synthesis Method]] and [[Epistemic-Responsibility]]]
 
 [Synthesis prose: 400-500 words developing the synthesis in full — what does the best available understanding look like given this analysis?]
 

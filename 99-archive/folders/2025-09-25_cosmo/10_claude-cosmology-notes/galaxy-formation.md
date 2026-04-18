@@ -228,7 +228,7 @@ Irregulars:
 
 **Initial Conditions**: [[Cosmic Inflation]], [[Cosmic Microwave Background]]
 **Components**: [[Dark Matter]], [[Lambda-CDM Model]]  
-**Timeline**: [[Timeline of the Universe]], [[nucleosynthesis]]
+**Timeline**: [[Timeline of the Universe]], [[Nucleosynthesis]]
 **Environment**: [[Cosmic Web Structure]], [[Observable vs Actual Universe]]
 **Observations**: [[Space-Based Telescopes in Cosmology]], [[Precision Cosmology Era]]
 **Problems**: [[The Dark Matter Problem]]

@@ -146,7 +146,7 @@ expansion-topics:
   - topic: "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
     description: Deep treatment of how learners monitor, regulate, and direct their own cognitive processes — the developmental endpoint that well-designed feedback is intended to cultivate
     priority: high
-  - topic: "[[Formative Assessment Design]]"
+  - topic: "[[Formative-Assessment-Design|Formative Assessment Design]]"
     description: Operational guide to embedding assessment-for-learning into instructional sequences, including exit tickets, diagnostic questioning, and peer assessment protocols
     priority: high
   - topic: "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
@@ -155,7 +155,7 @@ expansion-topics:
   - topic: "[[Goal Orientation Theory]]"
     description: Achievement goal framework distinguishing mastery, performance-approach, and performance-avoidance orientations; essential for understanding how learners interpret feedback
     priority: high
-  - topic: "[[Autonomy-Supportive Teaching]]"
+  - topic: "[[Autonomy-Supportive-Teaching|Autonomy-Supportive Teaching]]"
     description: Broader instructional framework from which autonomy-supportive feedback emerges, covering choice architecture, explanatory rationale, and minimising external pressure
     priority: medium
   - topic: "[[Attribution Theory in Education]]"
@@ -588,7 +588,7 @@ Important open questions remain. The *optimal trajectory* for moving feedback up
 > > [!topic-idea] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > > The full theoretical and empirical treatment of self-regulated learning — encompassing [[Zimmerman]]'s forethought-performance-reflection cycle, [[Pintrich]]'s motivational-cognitive integration, and the developmental literature on how SRL capacity is acquired. This report has positioned autonomous, self-monitoring learning as the endpoint that autonomy-supportive feedback design is building toward; a full SRL report would map the complete architecture of that endpoint — what it consists of, how it develops, what environmental conditions support its emergence, and how practitioners can assess its development. Priority: High.
 
-> > [!topic-idea] [[Formative Assessment Design]]
+> > [!topic-idea] [[Formative-Assessment-Design|Formative Assessment Design]]
 > > An operational guide to designing formative assessment sequences that generate actionable feedback in real time. Would cover exit ticket design, diagnostic questioning protocols, pre-assessment for schema activation, peer assessment scaffolding, comment-only marking, and the evidence base for each. Extends the Black-Wiliam tradition into the specific design decisions that practitioners face. A natural sequel to this report for anyone whose primary interest is in assessment practice rather than the motivational psychology underlying it. Priority: High.
 
 > > [!topic-idea] [[Cognitive-Load-Theory|Cognitive Load Theory]]

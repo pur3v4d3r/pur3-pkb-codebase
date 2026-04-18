@@ -402,7 +402,7 @@ extraction_summary:
 - [[Experimental-Methodology|Experimental Methodology]]
 - [[Implicit vs. Explicit Memory]]
 - [[Information-Processing-Theory|Information Processing Theory]]
-- [[Load Theory]]
+- [[Load-Theory|Load Theory]]
 - [[Markov models]]
 - [[Neural Mechanisms of Attentional Modulation]]
 - [[Neuroanatomy]]
@@ -420,7 +420,7 @@ extraction_summary:
 - [[Working-Memory|Working memory]]
 - [[anxiety]]
 - [[artificial grammar learning]]
-- [[automatic processing]]
+- [[automatic-processing|automatic processing]]
 - [[biased-competition-models|biased competition models]]
 - [[blindsight]]
 - [[capacity-sharing models]]
@@ -428,7 +428,7 @@ extraction_summary:
 - [[communications-engineering|communications engineering]]
 - [[conscious-awareness|conscious awareness]]
 - [[consciousness theories]]
-- [[controlled processing]]
+- [[Controlled-Processing|controlled processing]]
 - [[depression]]
 - [[dichotic-listening|dichotic listening]]
 - [[dichotic-listening-tasks|dichotic listening tasks]]
@@ -496,9 +496,9 @@ extraction_summary:
 | 31 | [[implicit learning]] | — | — | Implications for Learning and Memory ... | 678 |
 | 32 | [[statistical learning]] | — | — | Implications for Learning and Memory ... | 678 |
 | 33 | [[Procedural-Memory|procedural memory]] | — | — | Implications for Learning and Memory ... | 678 |
-| 34 | [[automatic processing]] | — | — | Influence on Modern Attention Research | 688 |
-| 35 | [[controlled processing]] | — | — | Influence on Modern Attention Research | 688 |
-| 36 | [[Load Theory]] | — | — | Influence on Modern Attention Research | 690 |
+| 34 | [[automatic-processing|automatic processing]] | — | — | Influence on Modern Attention Research | 688 |
+| 35 | [[Controlled-Processing|controlled processing]] | — | — | Influence on Modern Attention Research | 688 |
+| 36 | [[Load-Theory|Load Theory]] | — | — | Influence on Modern Attention Research | 690 |
 | 37 | [[capacity-sharing models]] | — | — | Influence on Modern Attention Research | 690 |
 | 38 | [[subliminal-perception|subliminal perception]] | — | — | Influence on Modern Attention Research | 692 |
 | 39 | [[blindsight]] | — | — | Influence on Modern Attention Research | 692 |
@@ -947,7 +947,7 @@ for (let letter of sortedLetters) {
 - [[Experimental-Methodology|Experimental Methodology]]
 - [[Implicit vs. Explicit Memory]]
 - [[Information-Processing-Theory|Information Processing Theory]]
-- [[Load Theory]]
+- [[Load-Theory|Load Theory]]
 - [[Markov models]]
 - [[Neural Mechanisms of Attentional Modulation]]
 - [[Neuroanatomy]]
@@ -965,7 +965,7 @@ for (let letter of sortedLetters) {
 - [[Working-Memory|Working memory]]
 - [[anxiety]]
 - [[artificial grammar learning]]
-- [[automatic processing]]
+- [[automatic-processing|automatic processing]]
 - [[biased-competition-models|biased competition models]]
 - [[blindsight]]
 - [[capacity-sharing models]]
@@ -973,7 +973,7 @@ for (let letter of sortedLetters) {
 - [[communications-engineering|communications engineering]]
 - [[conscious-awareness|conscious awareness]]
 - [[consciousness theories]]
-- [[controlled processing]]
+- [[Controlled-Processing|controlled processing]]
 - [[depression]]
 - [[dichotic-listening|dichotic listening]]
 - [[dichotic-listening-tasks|dichotic listening tasks]]

@@ -38,7 +38,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -273,6 +273,26 @@ importance: high
 - [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
 - [[Monitoring-Gap|Monitoring-Gap]]
 
+**Related concepts** *(from [[metacognition-in-learning-focused-analysis-2026-03-20]])*:
+[[Personal-Knowledge-Management|Personal Knowledge Management]] * [[Chain-of-Verification|Chain of Verification]]
+
+**Cross-report connections** *(from [[metacognition-in-learning-focused-analysis-2026-03-20]])*:
+- [[Metacognition|Metacognition]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive-Regulation]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Gap|Monitoring-Gap]]
+
+**Cross-report connections** *(from [[metacognition-in-learning-focused-analysis-2026-03-20]])*:
+- [[Metacognition|Metacognition]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive-Regulation]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Gap|Monitoring-Gap]]
+
+
+
+
 
 
 ## References
@@ -315,6 +335,78 @@ importance: high
 - **Hacker, D. J., Dunlosky, J., & Graesser, A. C. (Eds.) (2009). *Handbook of Metacognition in Education*. Routledge.**: Comprehensive synthesis of empirical research on metacognition in educational contexts. The most authoritative reference for the monitoring-regulation relationship and its instructional implications. Supports Phases III and V broadly.
 
 - **Perkins, D., & Salomon, G. (1992). Transfer of learning. *International Encyclopedia of Education*, 2(2), 6452–6457.**: Foundational treatment of near and far transfer, including the conditions under which structural insights from one domain travel to others. The theoretical grounding for the FAR transfer architecture in Phase VII.
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational treatment of desirable difficulties as interventions that improve long-term learning by replacing fluency cues with retrieval cues. Directly supports the cue invalidity mechanism (Phase IV). Foundational for [[Desirable-Difficulties]] node.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The original framework paper introducing the metacognitive knowledge/experience/monitoring architecture. The source of the [[Flavell-Metacognition-Framework]] node. Supports the three-component framework in Phase II.
+
+- **Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. *Journal of Experimental Psychology: General*, 126(4), 349–370.**: Established the cue-utilization framework for metacognitive monitoring, demonstrating that JOLs are based on accessible cues rather than direct introspection. Core empirical support for the cue invalidity mechanism (Phase IV).
+
+- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The foundational Dunning-Kruger paper, documenting expertise-dependent monitoring accuracy. Supports the argument that monitoring accuracy is domain-specific and develops alongside domain knowledge (Phase III).
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125–173.**: The meta-level/object-level model of metacognition. Defines the monitoring/control distinction foundational to the coupling analysis in Phase II. See [[Meta-Level-Object-Level-Model]].
+
+- **Rawson, K. A., & Dunlosky, J. (2002). Are performance predictions for text based on ease of processing? *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 28(1), 69–80.**: Empirical demonstration of the fluency-performance dissociation: disfluency lowers comprehension judgments while improving actual performance. Core evidence for the fluency illusion mechanism (Phase III).
+
+- **Thiede, K. W., Anderson, M. C. M., & Therriault, D. (2003). Accuracy of metacognitive monitoring affects learning of texts. *Journal of Educational Psychology*, 95(1), 66–73.**: Documented the monitoring gap: students who accurately detected poor comprehension nonetheless defaulted to re-reading. The key empirical anchor for coupling failure distinct from monitoring failure (Phase III).
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Erlbaum.**: COPES model of self-regulated learning, identifying the cognitive processing steps between monitoring signals and regulatory action. Direct theoretical support for the threshold mechanism in Phase IV.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: Zimmerman's three-phase SRL model. The analysis in Phase VI maps this model onto the infrastructure framework, deepening its theoretical account. See [[Zimmerman's-Three-Phase-SRL-Cycle]].
+
+- **Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. Weinert & R. Kluwe (Eds.), *Metacognition, motivation, and understanding* (pp. 65–116). Erlbaum.**: Extends Flavell's framework to regulation processes, distinguishing monitoring from control functions. Core theoretical support for the three-component architecture in Phase II.
+
+- **Hacker, D. J., Dunlosky, J., & Graesser, A. C. (Eds.) (2009). *Handbook of Metacognition in Education*. Routledge.**: Comprehensive synthesis of empirical research on metacognition in educational contexts. The most authoritative reference for the monitoring-regulation relationship and its instructional implications. Supports Phases III and V broadly.
+
+- **Perkins, D., & Salomon, G. (1992). Transfer of learning. *International Encyclopedia of Education*, 2(2), 6452–6457.**: Foundational treatment of near and far transfer, including the conditions under which structural insights from one domain travel to others. The theoretical grounding for the FAR transfer architecture in Phase VII.
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational treatment of desirable difficulties as interventions that improve long-term learning by replacing fluency cues with retrieval cues. Directly supports the cue invalidity mechanism (Phase IV). Foundational for [[Desirable-Difficulties]] node.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911.**: The original framework paper introducing the metacognitive knowledge/experience/monitoring architecture. The source of the [[Flavell-Metacognition-Framework]] node. Supports the three-component framework in Phase II.
+
+- **Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. *Journal of Experimental Psychology: General*, 126(4), 349–370.**: Established the cue-utilization framework for metacognitive monitoring, demonstrating that JOLs are based on accessible cues rather than direct introspection. Core empirical support for the cue invalidity mechanism (Phase IV).
+
+- **Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134.**: The foundational Dunning-Kruger paper, documenting expertise-dependent monitoring accuracy. Supports the argument that monitoring accuracy is domain-specific and develops alongside domain knowledge (Phase III).
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125–173.**: The meta-level/object-level model of metacognition. Defines the monitoring/control distinction foundational to the coupling analysis in Phase II. See [[Meta-Level-Object-Level-Model]].
+
+- **Rawson, K. A., & Dunlosky, J. (2002). Are performance predictions for text based on ease of processing? *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 28(1), 69–80.**: Empirical demonstration of the fluency-performance dissociation: disfluency lowers comprehension judgments while improving actual performance. Core evidence for the fluency illusion mechanism (Phase III).
+
+- **Thiede, K. W., Anderson, M. C. M., & Therriault, D. (2003). Accuracy of metacognitive monitoring affects learning of texts. *Journal of Educational Psychology*, 95(1), 66–73.**: Documented the monitoring gap: students who accurately detected poor comprehension nonetheless defaulted to re-reading. The key empirical anchor for coupling failure distinct from monitoring failure (Phase III).
+
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Erlbaum.**: COPES model of self-regulated learning, identifying the cognitive processing steps between monitoring signals and regulatory action. Direct theoretical support for the threshold mechanism in Phase IV.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: Zimmerman's three-phase SRL model. The analysis in Phase VI maps this model onto the infrastructure framework, deepening its theoretical account. See [[Zimmerman's-Three-Phase-SRL-Cycle]].
+
+- **Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. Weinert & R. Kluwe (Eds.), *Metacognition, motivation, and understanding* (pp. 65–116). Erlbaum.**: Extends Flavell's framework to regulation processes, distinguishing monitoring from control functions. Core theoretical support for the three-component architecture in Phase II.
+
+- **Hacker, D. J., Dunlosky, J., & Graesser, A. C. (Eds.) (2009). *Handbook of Metacognition in Education*. Routledge.**: Comprehensive synthesis of empirical research on metacognition in educational contexts. The most authoritative reference for the monitoring-regulation relationship and its instructional implications. Supports Phases III and V broadly.
+
+- **Perkins, D., & Salomon, G. (1992). Transfer of learning. *International Encyclopedia of Education*, 2(2), 6452–6457.**: Foundational treatment of near and far transfer, including the conditions under which structural insights from one domain travel to others. The theoretical grounding for the FAR transfer architecture in Phase VII.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

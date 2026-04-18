@@ -345,13 +345,13 @@ The most common defense of walking while reading — and likely your intuitive d
 ### 4.1 Defining Automaticity: The Classical View and Its Limitations
 
 > [!definition] **Automaticity (Shiffrin & Schneider, 1977; Logan, 1988)**
-> The property of cognitive or motor processes that can be executed with minimal attentional demand, minimal conscious awareness, and minimal interference with concurrent tasks. Classical criteria include: (1) efficiency (low resource demand), (2) lack of intentionality (can be triggered involuntarily), (3) lack of awareness (operates below conscious threshold), and (4) lack of controllability (difficult to suppress once initiated). [[Automatic-Processing|Automatic processes]] are contrasted with [[Controlled-Processing|controlled processes]], which are effortful, serial, intentional, and capacity-limited.
+> The property of cognitive or motor processes that can be executed with minimal attentional demand, minimal conscious awareness, and minimal interference with concurrent tasks. Classical criteria include: (1) efficiency (low resource demand), (2) lack of intentionality (can be triggered involuntarily), (3) lack of awareness (operates below conscious threshold), and (4) lack of controllability (difficult to suppress once initiated). [[automatic-processing|Automatic processes]] are contrasted with [[Controlled-Processing|controlled processes]], which are effortful, serial, intentional, and capacity-limited.
 >
 > **Boundary:** Automaticity is not an all-or-nothing property. Modern views (Moors & De Houwer, 2006) argue that automaticity is better understood as a continuum with multiple partially independent features. A process can be automatic on some criteria (e.g., efficient) but not others (e.g., controllable). This "graduated" view is critical for understanding walking.
 >
 > **Report-Specific Significance:** The degree to which walking is truly automatic — in the full sense required for zero-cost dual-task processing — is the linchpin of whether walking while reading has a meaningful cognitive cost.
 >
-> **See also:** [[Automaticity]], [[Automatic-Processing]], [[Controlled-Processing]], [[Attention]], [[Skill-Acquisition]]
+> **See also:** [[Automaticity]], [[automatic-processing]], [[Controlled-Processing]], [[Attention]], [[Skill-Acquisition]]
 
 ### 4.2 Walking as a Partially Automatic Skill
 
@@ -474,7 +474,7 @@ The neurochemical basis for exercise's cognitive effects involves several intera
 
 **[[Brain-Derived-Neurotrophic-Factor|Brain-derived neurotrophic factor]] (BDNF):** Exercise increases BDNF expression in the hippocampus, supporting [[Neuroplasticity|neuroplasticity]] and [[Memory-Consolidation|memory consolidation]]. However, BDNF effects are primarily post-exercise, not during-exercise, and they support long-term memory formation rather than online working memory processing.
 
-**Catecholamine release:** Walking increases [[Dopamine|dopamine]] and [[Norepinephrine|norepinephrine]] levels, which modulate prefrontal cortex function. At moderate levels, this enhances attention and working memory via the [[Prefrontal-Cortex|prefrontal cortex]]; at excessive levels, it impairs them. Comfortable walking likely produces beneficial catecholamine levels — but superimposing a cognitively demanding task may shift the combined arousal past the optimal point.
+**Catecholamine release:** Walking increases [[Dopamine|dopamine]] and [[Norepinephrine|norepinephrine]] levels, which modulate prefrontal cortex function. At moderate levels, this enhances attention and working memory via the [[prefrontal-cortex|prefrontal cortex]]; at excessive levels, it impairs them. Comfortable walking likely produces beneficial catecholamine levels — but superimposing a cognitively demanding task may shift the combined arousal past the optimal point.
 
 **Cerebral blood flow:** Light exercise increases cerebral blood flow, delivering more oxygen and glucose to neural tissue. This is a straightforward metabolic benefit that supports sustained cognitive effort. It is one of the genuine, unambiguous advantages of walking over sedentary reading.
 
@@ -521,7 +521,7 @@ The educational psychology literature identifies several active reading strategi
 
 **Summarization.** Writing a summary of each section in your own words is one of the highest-value learning strategies (Dunlosky et al., 2013: utility rated "moderate" to "high"). Effective summarization requires identifying the macrostructure of an argument, selecting key propositions, and re-encoding them in novel language — all demanding working memory operations. While walking, you can summarize mentally, but mental summaries lack the precision, permanence, and accountability of written summaries.
 
-**[[Self-Explanation|Self-explanation]].** Chi et al.'s (1989) seminal work demonstrated that students who explain material to themselves during reading — by generating inferences, identifying connections to prior knowledge, and monitoring their own understanding — learn dramatically more than students who do not. Self-explanation is the cognitive equivalent of the [[Feynman-Technique|Feynman Technique]]: if you can explain it, you understand it; if you can't, you've identified a gap. While walking, self-explanation can occur internally, but walking adds monitoring overhead that competes with the executive resources self-explanation demands.
+**[[self-explanation|Self-explanation]].** Chi et al.'s (1989) seminal work demonstrated that students who explain material to themselves during reading — by generating inferences, identifying connections to prior knowledge, and monitoring their own understanding — learn dramatically more than students who do not. Self-explanation is the cognitive equivalent of the [[Feynman-Technique|Feynman Technique]]: if you can explain it, you understand it; if you can't, you've identified a gap. While walking, self-explanation can occur internally, but walking adds monitoring overhead that competes with the executive resources self-explanation demands.
 
 **PKB note-making with wiki-linking.** Your [[Personal-Knowledge-Management|PKM]] practice represents the most powerful form of generation available to you: transforming reading into structured [[Permanent-Notes|permanent notes]] with explicit connections ([[wiki-links]]) to existing knowledge. This is not merely summarization — it is knowledge construction, requiring you to: (1) select the most important concepts, (2) restate them in your own language, (3) identify connections to existing notes, (4) place them within your knowledge graph's structure, and (5) generate flashcard-worthy distillations. Each of these steps invokes the generation effect at a different level. **This is the comparison that makes the walking-reading question practically irrelevant: the marginal cognitive cost of walking matters far less than the *massive cognitive benefit* of active PKB engagement that walking renders impossible.**
 
@@ -580,7 +580,7 @@ Continue your current walking-reading practice, but add a self-monitoring compon
 Divide your reading time: read the most demanding sections (new theoretical frameworks, complex syntheses, argument evaluations) at your desk with active PKB engagement. Read lighter sections (introductions, familiar reviews, contextual material) while walking. This captures the highest-value benefit (generation effect for the hardest material) while maintaining the walking-reading routine for comfortable material.
 
 **Phase 3: Walk-Read-Walk Sandwich (Weeks 4-6)**
-Structure each study session as: (1) 15-20 minute walk for arousal and [[Priming|priming]] — mentally review what you know about the topic, (2) 45-60 minutes of desk-based active reading with PKB, (3) 15-20 minute walk for consolidation — mentally review and creatively connect what you just read. This captures walking's benefits (arousal, incubation, consolidation) while reserving the desk for comprehension.
+Structure each study session as: (1) 15-20 minute walk for arousal and [[priming|priming]] — mentally review what you know about the topic, (2) 45-60 minutes of desk-based active reading with PKB, (3) 15-20 minute walk for consolidation — mentally review and creatively connect what you just read. This captures walking's benefits (arousal, incubation, consolidation) while reserving the desk for comprehension.
 
 **Phase 4: Full Integration (Week 7+)**
 Transition to predominantly desk-based reading with walking used strategically for pre-reading arousal, inter-session consolidation, and creative thinking about connections between topics. Walking time becomes thinking time — used for [[Elaboration|elaboration]], question generation, and planning future reading, not for initial comprehension of new material.
@@ -648,11 +648,11 @@ The principles articulated in this report — [[Dual-Task-Paradigm|dual-task int
 > [!far-transfer] **From Walking-Reading to Workplace Multitasking**
 > **Structural Principle:** The opportunity cost framework — evaluating activities not by their absolute performance but against the best available alternative — applies universally to [[Knowledge-Work|knowledge work]] productivity.
 >
-> **Concrete Application:** Checking email while attending a meeting, drafting a document while monitoring Slack, or reviewing code while participating in a standup — all exhibit the same structure as walking-reading: a primary cognitive task disrupted by a secondary activity whose modest costs are dwarfed by the massive opportunity cost of losing the focused, generative processing that the primary task demands. Cal Newport's [[Deep-Work|deep work]] framework (2016) is essentially an extended application of this report's temporal separation principle: cognitively demanding work must be shielded from competing demands, not interleaved with them.
+> **Concrete Application:** Checking email while attending a meeting, drafting a document while monitoring Slack, or reviewing code while participating in a standup — all exhibit the same structure as walking-reading: a primary cognitive task disrupted by a secondary activity whose modest costs are dwarfed by the massive opportunity cost of losing the focused, generative processing that the primary task demands. Cal Newport's [[deep-work|deep work]] framework (2016) is essentially an extended application of this report's temporal separation principle: cognitively demanding work must be shielded from competing demands, not interleaved with them.
 >
 > **Boundary Condition:** Some workplace tasks genuinely benefit from interleaving — creative brainstorming can benefit from environmental variability, and routine administrative tasks may tolerate concurrent processing. The key discriminator is the intrinsic load and generation requirements of the primary task.
 >
-> **See also:** [[Deep-Work]], [[Task-Switching]], [[Attention-Residue]], [[Knowledge-Work]]
+> **See also:** [[deep-work]], [[Task-Switching]], [[Attention-Residue]], [[Knowledge-Work]]
 
 ### Transfer Domain 3: Physical Training and Skill Acquisition
 
@@ -663,7 +663,7 @@ The principles articulated in this report — [[Dual-Task-Paradigm|dual-task int
 >
 > **Boundary Condition:** Motor skill acquisition has richer proprioceptive and kinesthetic feedback loops than cognitive skill acquisition, which means the [[Embodied-Cognition|embodied cognition]] enhancement applies more directly. Physical practice environments may genuinely need to be multi-sensory in ways that desk-based cognitive processing does not.
 >
-> **See also:** [[Skill-Acquisition]], [[Deliberate-Practice]], [[Motor-Learning]], [[Cognitive-Load-Theory]]
+> **See also:** [[Skill-Acquisition]], [[Deliberate-Practice]], [[motor-learning]], [[Cognitive-Load-Theory]]
 
 ### Metacognitive Prompt
 
@@ -745,7 +745,7 @@ The schema activation question posed at the opening — "How do you currently ba
 >
 > **Report-Specific Significance:** Walking is partially automatic — sufficient for low-cost dual-tasking under low cognitive load, but not sufficient for zero-cost dual-tasking under high cognitive load.
 >
-> **See also:** [[Automaticity]], [[Automatic-Processing]], [[Controlled-Processing]], [[Skill-Acquisition]]
+> **See also:** [[Automaticity]], [[automatic-processing]], [[Controlled-Processing]], [[Skill-Acquisition]]
 
 > [!definition] **Generation Effect (Slamecka & Graf, 1978)**
 > The robust finding that actively generating information (through recall, paraphrasing, elaboration, or transformation) produces better memory than passively receiving the same information. Effect sizes typically range from d = 0.40 to d = 0.87.
@@ -790,7 +790,7 @@ The schema activation question posed at the opening — "How do you currently ba
 >
 > **Report-Specific Significance:** This report's central practical recommendation, synthesizing evidence from six research traditions.
 >
-> **See also:** [[Memory-Consolidation]], [[Generation-Effect]], [[Desirable-Difficulties]], [[Deep-Work]]
+> **See also:** [[Memory-Consolidation]], [[Generation-Effect]], [[Desirable-Difficulties]], [[deep-work]]
 
 ---
 
@@ -1150,7 +1150,7 @@ Varela, Thompson, Rosch (1991: embodied cognition)
 > > **Connection to this report:** The generation effect — the decisive factor in the walking-reading question — is one member of the desirable difficulties family. Understanding the full framework would contextualize the generation effect within a broader theory of optimal learning.
 > > **Priority:** Critical
 > > **Suggested report type:** Foundational Report
-> > **Prerequisites:** [[Generation-Effect]], [[Testing-Effect]], [[Spacing-Effect]], [[Interleaving]]
+> > **Prerequisites:** [[Generation-Effect]], [[Testing-Effect]], [[Spacing-Effect]], [[interleaving]]
 
 > > [!topic-idea] **2. [[Attention-Restoration-Theory|Attention Restoration Theory and Cognitive Fatigue Management]]**
 > > **Description:** Kaplan's (1995) Attention Restoration Theory proposes that natural environments (and certain types of physical activity) restore depleted directed attention. This framework complements the walking-reading analysis by explaining WHY walking feels cognitively refreshing — and when to deploy it strategically for attention recovery between intense desk-based reading sessions.
@@ -1164,14 +1164,14 @@ Varela, Thompson, Rosch (1991: embodied cognition)
 > > **Connection to this report:** Section 7 argues that the decisive advantage of desk-based reading is active processing. This expansion topic would provide the detailed "how-to" for maximizing that advantage across different content types and difficulty levels.
 > > **Priority:** High
 > > **Suggested report type:** Practitioner's Field Guide
-> > **Prerequisites:** [[Generation-Effect]], [[Self-Explanation]], [[Elaborative-Interrogation]], [[Metacognition]]
+> > **Prerequisites:** [[Generation-Effect]], [[self-explanation]], [[Elaborative-Interrogation]], [[Metacognition]]
 
 > > [!topic-idea] **4. [[Dual-Task-Paradigm|The Science of Multitasking: Dual-Task Theory, Task Switching, and Attention Management]]**
 > > **Description:** A comprehensive treatment of dual-task theory, task-switching costs, attention residue, and the cognitive science of multitasking vs. single-tasking. Would encompass Pashler's bottleneck theory, Wickens' MRT, Monsell's task-switching costs, and Newport's deep work framework within a unified analysis.
 > > **Connection to this report:** Sections 3-4 draw on dual-task theory for the specific case of walking-reading. This expansion would generalize those principles to all forms of multitasking in knowledge work, study, and daily life.
 > > **Priority:** High
 > > **Suggested report type:** Comparative Architecture
-> > **Prerequisites:** [[Working-Memory]], [[Attention]], [[Central-Executive]], [[Deep-Work]]
+> > **Prerequisites:** [[Working-Memory]], [[Attention]], [[Central-Executive]], [[deep-work]]
 
 > > [!topic-idea] **5. [[Memory-Consolidation|Memory Consolidation: From Encoding to Permanent Storage]]**
 > > **Description:** How memories transition from fragile working memory representations to durable long-term storage through consolidation processes including synaptic consolidation, systems consolidation, sleep-dependent consolidation, and active consolidation through retrieval practice. This directly supports the walking-for-consolidation phase of the recommended protocol.
@@ -1208,7 +1208,7 @@ Varela, Thompson, Rosch (1991: embodied cognition)
 > #### Lateral Connections (Mutual Enrichment)
 > These are concepts that neither depend on nor follow from this report, but whose understanding is mutually enriched by connection:
 >
-> - **[[Deep-Work]]** — Newport's framework for undistracted cognitive work parallels and extends this report's temporal separation recommendation. Each enriches the other: this report provides the cognitive science foundation for deep work's practical advice.
+> - **[[deep-work]]** — Newport's framework for undistracted cognitive work parallels and extends this report's temporal separation recommendation. Each enriches the other: this report provides the cognitive science foundation for deep work's practical advice.
 > - **[[Flow-State]]** — Csikszentmihalyi's flow requires the challenge-skill balance that dual-tasking disrupts. This report explains WHY walking-reading may prevent flow during reading (divided attention prevents the absorption that flow requires).
 > - **[[Spaced-Repetition]]** — The flashcard seeds in this appendix connect to the spaced repetition system. The report's argument for active processing supports the value of retrieval practice over passive review.
 > - **[[Mind-Wandering]]** — Walking may promote beneficial mind-wandering during consolidation phases, while impairing comprehension through unwanted mind-wandering during reading. This dual relationship enriches both topics.

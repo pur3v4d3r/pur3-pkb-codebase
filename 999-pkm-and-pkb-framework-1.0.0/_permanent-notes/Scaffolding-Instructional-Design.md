@@ -39,7 +39,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -284,6 +284,22 @@ importance: high
 - [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
 - [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
 
+**Cross-report connections** *(from [[metacognitive-scaffolding-focused-analysis-2026-03-20]])*:
+- [[Metacognition|Metacognition]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+
+**Cross-report connections** *(from [[metacognitive-scaffolding-focused-analysis-2026-03-20]])*:
+- [[Metacognition|Metacognition]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+- [[Monitoring-Control-Coupling|Monitoring-Control-Coupling]]
+
+
+
 
 
 ## References
@@ -323,6 +339,72 @@ importance: high
 - **Perkins, D. N., & Salomon, G. (1989). Are cognitive skills context-bound? *Educational Researcher, 18*(1), 16–25.**: Classic treatment of far transfer, arguing that metacognitive and thinking skills are among the most potentially transferable skills but that transfer is not spontaneous — it requires deliberate design conditions ("low road" and "high road" transfer). Relevant to the transfer-dependence failure mode in Phase V and the transfer encoding in Phase VII. Supports Phases V and VII.
 
 - **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: Zimmerman's cyclical model of self-regulated learning provides the developmental endpoint that metacognitive scaffolding aims toward — the forethought, performance, and self-reflection cycle. Connects scaffolding design to the SRL framework throughout the report. Supports Phases II, V, and VI.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing the metacognitive knowledge/metacognitive experience distinction that structures this report's Phase II framework. Establishes the two-component model that subsequent researchers, including Nelson and Narens, extend into process-level accounts. Supports Phases II and IV.
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation, 26*, 125–173.**: Introduces the monitoring-control hierarchical model that is the primary analytical tool of this report. The monitoring-control separation — with its implication that accurate monitoring does not automatically produce appropriate control — is the foundational insight on which this report's analysis of the monitoring-control dissociation in Phase III is built. Supports Phases II, IV, and V.
+
+- **Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100.**: Operational specification of the scaffolding construct with six tutoring functions. Introduces the contingency principle and the six functions of scaffolding that remain foundational to instructional design. Supports Phase II.
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational paper introducing the desirable difficulties framework. The argument that conditions improving long-term retention often slow initial acquisition is central to this report's Phase IV argument that effective metacognitive scaffolding works by making shallow processing harder rather than making learning easier. Supports Phases IV and V.
+
+- **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187–194.**: Documents the fluency illusion and its systematic decoupling of felt understanding from actual learning. Central to this report's Phase IV mechanistic account of why unscaffolded monitoring is unreliable. Supports Phases III and IV.
+
+- **Thiede, K. W., Anderson, M. C. M., & Therriault, D. (2003). Accuracy of metacognitive monitoring affects learning of texts. *Journal of Educational Psychology, 95*(1), 66–73.**: Documents the monitoring-without-control phenomenon: delayed summary generation improved monitoring accuracy for poorly understood texts but did not reliably produce increased restudy of those texts. Central evidence for the monitoring-control dissociation argument in Phase III. Supports Phase III.
+
+- **Azevedo, R., & Cromley, J. G. (2004). Does training on self-regulated learning facilitate students' learning with hypermedia? *Journal of Educational Psychology, 96*(3), 523–535.**: Demonstrates adaptive scaffolding superiority over fixed scaffolding for complex learning tasks. Central evidence for the adaptiveness requirement in Phase III and the expertise reversal implications for Phase V. Supports Phases III and V.
+
+- **Kalyuga, S., Chandler, P., Tuovinen, J., & Sweller, J. (2003). When problem solving is superior to studying worked examples. *Journal of Educational Psychology, 95*(2), 579–588.**: Documents the expertise reversal effect for instructional support. Important boundary condition for metacognitive scaffolding effectiveness — the support that benefits novices can harm experts. Supports Phases III and V.
+
+- **Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299.**: Systematic treatment of productive failure — conditions under which allowing learners to fail before instruction produces better transfer than instruction-first approaches. Directly relevant to the comfort trap in scaffolding design argument in Phase IV. Supports Phase IV.
+
+- **Perkins, D. N., & Salomon, G. (1989). Are cognitive skills context-bound? *Educational Researcher, 18*(1), 16–25.**: Classic treatment of far transfer, arguing that metacognitive and thinking skills are among the most potentially transferable skills but that transfer is not spontaneous — it requires deliberate design conditions ("low road" and "high road" transfer). Relevant to the transfer-dependence failure mode in Phase V and the transfer encoding in Phase VII. Supports Phases V and VII.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: Zimmerman's cyclical model of self-regulated learning provides the developmental endpoint that metacognitive scaffolding aims toward — the forethought, performance, and self-reflection cycle. Connects scaffolding design to the SRL framework throughout the report. Supports Phases II, V, and VI.
+
+- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.**: The foundational paper introducing the metacognitive knowledge/metacognitive experience distinction that structures this report's Phase II framework. Establishes the two-component model that subsequent researchers, including Nelson and Narens, extend into process-level accounts. Supports Phases II and IV.
+
+- **Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation, 26*, 125–173.**: Introduces the monitoring-control hierarchical model that is the primary analytical tool of this report. The monitoring-control separation — with its implication that accurate monitoring does not automatically produce appropriate control — is the foundational insight on which this report's analysis of the monitoring-control dissociation in Phase III is built. Supports Phases II, IV, and V.
+
+- **Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100.**: Operational specification of the scaffolding construct with six tutoring functions. Introduces the contingency principle and the six functions of scaffolding that remain foundational to instructional design. Supports Phase II.
+
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational paper introducing the desirable difficulties framework. The argument that conditions improving long-term retention often slow initial acquisition is central to this report's Phase IV argument that effective metacognitive scaffolding works by making shallow processing harder rather than making learning easier. Supports Phases IV and V.
+
+- **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187–194.**: Documents the fluency illusion and its systematic decoupling of felt understanding from actual learning. Central to this report's Phase IV mechanistic account of why unscaffolded monitoring is unreliable. Supports Phases III and IV.
+
+- **Thiede, K. W., Anderson, M. C. M., & Therriault, D. (2003). Accuracy of metacognitive monitoring affects learning of texts. *Journal of Educational Psychology, 95*(1), 66–73.**: Documents the monitoring-without-control phenomenon: delayed summary generation improved monitoring accuracy for poorly understood texts but did not reliably produce increased restudy of those texts. Central evidence for the monitoring-control dissociation argument in Phase III. Supports Phase III.
+
+- **Azevedo, R., & Cromley, J. G. (2004). Does training on self-regulated learning facilitate students' learning with hypermedia? *Journal of Educational Psychology, 96*(3), 523–535.**: Demonstrates adaptive scaffolding superiority over fixed scaffolding for complex learning tasks. Central evidence for the adaptiveness requirement in Phase III and the expertise reversal implications for Phase V. Supports Phases III and V.
+
+- **Kalyuga, S., Chandler, P., Tuovinen, J., & Sweller, J. (2003). When problem solving is superior to studying worked examples. *Journal of Educational Psychology, 95*(2), 579–588.**: Documents the expertise reversal effect for instructional support. Important boundary condition for metacognitive scaffolding effectiveness — the support that benefits novices can harm experts. Supports Phases III and V.
+
+- **Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299.**: Systematic treatment of productive failure — conditions under which allowing learners to fail before instruction produces better transfer than instruction-first approaches. Directly relevant to the comfort trap in scaffolding design argument in Phase IV. Supports Phase IV.
+
+- **Perkins, D. N., & Salomon, G. (1989). Are cognitive skills context-bound? *Educational Researcher, 18*(1), 16–25.**: Classic treatment of far transfer, arguing that metacognitive and thinking skills are among the most potentially transferable skills but that transfer is not spontaneous — it requires deliberate design conditions ("low road" and "high road" transfer). Relevant to the transfer-dependence failure mode in Phase V and the transfer encoding in Phase VII. Supports Phases V and VII.
+
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: Zimmerman's cyclical model of self-regulated learning provides the developmental endpoint that metacognitive scaffolding aims toward — the forethought, performance, and self-reflection cycle. Connects scaffolding design to the SRL framework throughout the report. Supports Phases II, V, and VI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

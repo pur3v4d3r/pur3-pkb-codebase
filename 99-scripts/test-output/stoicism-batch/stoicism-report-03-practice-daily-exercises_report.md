@@ -203,7 +203,7 @@ extraction_summary:
 #### 11. [CONNECTION-IDEAS] Untitled *(Line 382)*
 
 > [!connection-ideas] Untitled
-> **Stoic Practice and [[Cognitive-Behavioral-Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
+> **Stoic Practice and [[Cognitive-Behavioral-Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron-Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
 
 #### 12. [EXAMPLE] Untitled *(Line 405)*
 
@@ -479,7 +479,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron Beck]]
+- [[Aaron-Beck]]
 - [[Albert Ellis]]
 - [[Cognitive-Behavioral-Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
@@ -543,7 +543,7 @@ extraction_summary:
 | 24 | [[James Gross]] | — | — | The Neuroscience of Cognitive Reappra... | 360 |
 | 25 | [[James Pennebaker]] | — | — | The Cognitive Science of Journaling | 378 |
 | 26 | [[Cognitive-Behavioral-Therapy]] | — | — | The Cognitive Science of Journaling | 383 |
-| 27 | [[Aaron Beck]] | — | — | The Cognitive Science of Journaling | 383 |
+| 27 | [[Aaron-Beck]] | — | — | The Cognitive Science of Journaling | 383 |
 | 28 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 383 |
 | 29 | [[Preferred-Indifferents]] | — | — | The Research on Voluntary Discomfort | 389 |
 | 30 | [[Self-Efficacy]] | — | — | The Research on Voluntary Discomfort | 389 |
@@ -603,7 +603,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron Beck]]
+- [[Aaron-Beck]]
 - [[Albert Ellis]]
 - [[Cognitive-Behavioral-Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]

@@ -152,7 +152,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 36)*
 
 > [!abstract] Untitled
-> This comprehensive exposition examines the [[Big Bang Model]], the prevailing cosmological framework describing the origin and evolution of our universe. We trace the intellectual journey from Edwin Hubble's revolutionary 1929 observations of galactic recession to the serendipitous 1965 discovery of the cosmic microwave background radiation, and through to the stunning 1998 revelation that cosmic expansion is accelerating. The central thesis is that the Big Bang is not merely a speculative hypothesis but rather a robustly tested scientific theory supported by three independent and mutually reinforcing observational pillars: the expansion of space as encoded in [[Hubble's Law]], the thermal relic radiation pervading the cosmos, and the primordial abundance of light elements forged in the first minutes after the Big Bang. We will explore the theoretical underpinnings provided by the [[Friedmann equations]] derived from Einstein's [[general relativity]], examine the physical mechanisms of early-universe [[nucleosynthesis]], and confront the remaining frontier questions—including the mysterious nature of [[Dark Energy]] and the vexing [[cosmological lithium problem]]—that continue to challenge and refine our understanding of cosmic origins.
+> This comprehensive exposition examines the [[Big Bang Model]], the prevailing cosmological framework describing the origin and evolution of our universe. We trace the intellectual journey from Edwin Hubble's revolutionary 1929 observations of galactic recession to the serendipitous 1965 discovery of the cosmic microwave background radiation, and through to the stunning 1998 revelation that cosmic expansion is accelerating. The central thesis is that the Big Bang is not merely a speculative hypothesis but rather a robustly tested scientific theory supported by three independent and mutually reinforcing observational pillars: the expansion of space as encoded in [[Hubble's Law]], the thermal relic radiation pervading the cosmos, and the primordial abundance of light elements forged in the first minutes after the Big Bang. We will explore the theoretical underpinnings provided by the [[Friedmann equations]] derived from Einstein's [[general relativity]], examine the physical mechanisms of early-universe [[Nucleosynthesis]], and confront the remaining frontier questions—including the mysterious nature of [[Dark Energy]] and the vexing [[cosmological lithium problem]]—that continue to challenge and refine our understanding of cosmic origins.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 41)*
 
@@ -250,7 +250,7 @@ extraction_summary:
 > *The* **primary evidence** *supporting cosmic expansion comes from:*
 > - [[Hubble Space Telescope]] observations of [[Cepheid variables]] in distant galaxies, which provide precise distance measurements,[^20][[2025-11-02]]
 >     - **This showed:** By measuring the period-luminosity relationship of Cepheid variable stars, astronomers can determine accurate distances to galaxies out to about 100 million light-years. When these distances are compared with redshift measurements, they confirm the linear Hubble relationship with extraordinary precision. Modern measurements place the Hubble constant at approximately 67-73 km/s/Mpc (with some tension between different measurement methods), corresponding to an age of roughly 13.8 billion years.
-> - Type Ia [[supernova]] observations from the [[Supernova Cosmology Project]] and [[High-Z Supernova Search Team]],[^21][[2025-11-02]]
+> - Type Ia [[Supernova]] observations from the [[Supernova Cosmology Project]] and [[High-Z Supernova Search Team]],[^21][[2025-11-02]]
 >     - **This showed:** Type Ia supernovae serve as "standard candles" because they have remarkably uniform peak luminosities. By 1998, observations of distant Type Ia supernovae revealed something shocking: the universe's expansion is not slowing down as expected but is actually *accelerating*. This discovery earned the 2011 Nobel Prize in Physics and revealed the existence of [[Dark Energy]].
 > - Large-scale [[galaxy surveys]] such as the [[Sloan Digital Sky Survey]], which map the three-dimensional distribution of galaxies across cosmic time,[^22][[2025-11-02]]
 >     - **This showed:** These surveys reveal a spectacular large-scale structure—a cosmic web of galaxies, clusters, filaments, and voids that perfectly matches the predictions of structure formation simulations based on the Big Bang model with dark matter and dark energy.
@@ -282,7 +282,7 @@ extraction_summary:
 > - *The principles discussed here* **strongly connect to the field of:**
 >     - [[Thermodynamics and the Arrow of Time]][[2025-11-02]]
 >     - **The reason:**
->         - The Big Bang framework naturally explains why time has a direction—why eggs break but do not spontaneously reassemble, why we remember the past but not the future. The early universe was in an extraordinarily low-[[entropy]] state (despite being hot), and the increase in entropy as the universe evolves provides the thermodynamic [[arrow of time]]. This connection between cosmology and thermodynamics remains an active area of research, with profound implications for understanding the nature of time itself.[[2025-11-02]]
+>         - The Big Bang framework naturally explains why time has a direction—why eggs break but do not spontaneously reassemble, why we remember the past but not the future. The early universe was in an extraordinarily low-[[Entropy]] state (despite being hot), and the increase in entropy as the universe evolves provides the thermodynamic [[arrow of time]]. This connection between cosmology and thermodynamics remains an active area of research, with profound implications for understanding the nature of time itself.[[2025-11-02]]
 
 #### 21. [COUNTER-ARGUMENT] Untitled *(Line 258)*
 
@@ -450,7 +450,7 @@ extraction_summary:
 - [[cosmological redshift]]
 - [[deuterium]]
 - [[deuterium bottleneck]]
-- [[entropy]]
+- [[Entropy]]
 - [[epoch of reionization]]
 - [[eternal inflation]]
 - [[galaxy surveys]]
@@ -467,7 +467,7 @@ extraction_summary:
 - [[multiverse]]
 - [[neutrino decoupling]]
 - [[neutrinos]]
-- [[nucleosynthesis]]
+- [[Nucleosynthesis]]
 - [[phase transitions]]
 - [[primordial gravitational waves]]
 - [[quantum gravity]]
@@ -480,7 +480,7 @@ extraction_summary:
 - [[scalar field]]
 - [[spacetime]]
 - [[strong nuclear force]]
-- [[supernova]]
+- [[Supernova]]
 
 ### All Occurrences
 
@@ -494,7 +494,7 @@ extraction_summary:
 | 6 | [[Hubble's Law]] | — | — | The Big Bang Model: A Comprehensive E... | 37 |
 | 7 | [[Friedmann equations]] | — | — | The Big Bang Model: A Comprehensive E... | 37 |
 | 8 | [[general relativity]] | — | — | The Big Bang Model: A Comprehensive E... | 37 |
-| 9 | [[nucleosynthesis]] | — | — | The Big Bang Model: A Comprehensive E... | 37 |
+| 9 | [[Nucleosynthesis]] | — | — | The Big Bang Model: A Comprehensive E... | 37 |
 | 10 | [[Dark Energy]] | — | — | The Big Bang Model: A Comprehensive E... | 37 |
 | 11 | [[cosmological lithium problem]] | — | — | The Big Bang Model: A Comprehensive E... | 37 |
 | 12 | [[Big Bang Model]] | — | — | 1.0 📜 Introduction | 42 |
@@ -550,7 +550,7 @@ extraction_summary:
 | 62 | [[Hubble Space Telescope]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 186 |
 | 63 | [[Cepheid variables]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 186 |
 | 64 | [[2025-11-02]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 186 |
-| 65 | [[supernova]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 188 |
+| 65 | [[Supernova]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 188 |
 | 66 | [[Supernova Cosmology Project]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 188 |
 | 67 | [[High-Z Supernova Search Team]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 188 |
 | 68 | [[2025-11-02]] | — | — | 5.1 📏 Hubble's Law and the Expansion ... | 188 |
@@ -570,7 +570,7 @@ extraction_summary:
 | 82 | [[HII regions]] | — | — | 5.3 🔢 Primordial Light Element Abunda... | 223 |
 | 83 | [[Thermodynamics and the Arrow of Time]] | — | — | 6.1 🎯 The Universe Has a Finite Age | 242 |
 | 84 | [[2025-11-02]] | — | — | 6.1 🎯 The Universe Has a Finite Age | 242 |
-| 85 | [[entropy]] | — | — | 6.1 🎯 The Universe Has a Finite Age | 244 |
+| 85 | [[Entropy]] | — | — | 6.1 🎯 The Universe Has a Finite Age | 244 |
 | 86 | [[arrow of time]] | — | — | 6.1 🎯 The Universe Has a Finite Age | 244 |
 | 87 | [[2025-11-02]] | — | — | 6.1 🎯 The Universe Has a Finite Age | 244 |
 | 88 | [[2025-11-02]] | — | — | 6.2 🪐 The Origin of Cosmic Structure | 248 |
@@ -783,7 +783,7 @@ extraction_summary:
 - [[cosmological redshift]]
 - [[deuterium]]
 - [[deuterium bottleneck]]
-- [[entropy]]
+- [[Entropy]]
 - [[epoch of reionization]]
 - [[eternal inflation]]
 - [[galaxy surveys]]
@@ -800,7 +800,7 @@ extraction_summary:
 - [[multiverse]]
 - [[neutrino decoupling]]
 - [[neutrinos]]
-- [[nucleosynthesis]]
+- [[Nucleosynthesis]]
 - [[phase transitions]]
 - [[primordial gravitational waves]]
 - [[quantum gravity]]
@@ -813,7 +813,7 @@ extraction_summary:
 - [[scalar field]]
 - [[spacetime]]
 - [[strong nuclear force]]
-- [[supernova]]
+- [[Supernova]]
 
 ---
 

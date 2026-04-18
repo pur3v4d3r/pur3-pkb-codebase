@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -364,6 +364,104 @@ importance: high
 - [[Formative-Assessment|Formative Assessment]]
 - [[Attribution-Theory|Attribution Theory]]
 
+**Related concepts** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]], [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Avi-Assor|Avi Assor]] * [[Guy-Roth|Guy Roth]] * [[Claudia-Mueller|Claudia Mueller]] * [[Bernard-Weiner|Bernard Weiner]] * [[Assessment-for-Learning|Assessment for Learning]] * [[Feedback-Timing|Feedback Timing]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Critical-Thinking-in-Education|Critical Thinking in Education]] * [[Schema-Theory|Schema Theory]] * [[Pintrich|Pintrich]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Critical-Thinking-in-Education|Critical-Thinking-in-Education]]
+
+**Cross-report connections** *(from [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Attribution-Theory|Attribution-Theory]]
+
+**Related concepts** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]], [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Avi-Assor|Avi Assor]] * [[Guy-Roth|Guy Roth]] * [[Claudia-Mueller|Claudia Mueller]] * [[Bernard-Weiner|Bernard Weiner]] * [[Assessment-for-Learning|Assessment for Learning]] * [[Feedback-Timing|Feedback Timing]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Critical-Thinking-in-Education|Critical Thinking in Education]] * [[Schema-Theory|Schema Theory]] * [[Formative-Assessment-Design|Formative Assessment Design]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Critical-Thinking-in-Education|Critical-Thinking-in-Education]]
+
+**Cross-report connections** *(from [[growth-mindset-learning-foundational-report-2026-03-05]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Attribution-Theory|Attribution-Theory]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -450,6 +548,312 @@ importance: high
 - **Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015). Mind-set interventions are a scalable treatment for academic underachievement. *Psychological Science, 26*(6), 784–793.**: Demonstrates that a brief online mindset intervention can be delivered at scale across diverse high schools and produces significant improvements in GPA for at-risk students. Important bridge between laboratory experiments and scalable educational deployment, and one of the first demonstrations of online mindset intervention effectiveness.
 
 - **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive statement of Self-Determination Theory, providing the theoretical complement to mindset theory in explaining motivated learning. Articulates the three basic psychological needs (autonomy, competence, relatedness) and their role in sustaining intrinsic motivation. Essential context for understanding how mindset beliefs operate within environmental conditions that support or undermine basic needs.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
+
+- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
+
+- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The original theoretical paper articulating the implicit theory → goal orientation → behavioral pattern model that underlies all subsequent mindset research. Presents the theoretical framework with technical precision, distinguishing entity from incremental theories and mapping their implications for motivation and learning. The intellectual foundation of the entire research program.
+
+- **Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015). Mind-set interventions are a scalable treatment for academic underachievement. *Psychological Science, 26*(6), 784–793.**: Demonstrates that a brief online mindset intervention can be delivered at scale across diverse high schools and produces significant improvements in GPA for at-risk students. Important bridge between laboratory experiments and scalable educational deployment, and one of the first demonstrations of online mindset intervention effectiveness.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive statement of Self-Determination Theory, providing the theoretical complement to mindset theory in explaining motivated learning. Articulates the three basic psychological needs (autonomy, competence, relatedness) and their role in sustaining intrinsic motivation. Essential context for understanding how mindset beliefs operate within environmental conditions that support or undermine basic needs.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
+
+- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
+
+- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The original theoretical paper articulating the implicit theory → goal orientation → behavioral pattern model that underlies all subsequent mindset research. Presents the theoretical framework with technical precision, distinguishing entity from incremental theories and mapping their implications for motivation and learning. The intellectual foundation of the entire research program.
+
+- **Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015). Mind-set interventions are a scalable treatment for academic underachievement. *Psychological Science, 26*(6), 784–793.**: Demonstrates that a brief online mindset intervention can be delivered at scale across diverse high schools and produces significant improvements in GPA for at-risk students. Important bridge between laboratory experiments and scalable educational deployment, and one of the first demonstrations of online mindset intervention effectiveness.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive statement of Self-Determination Theory, providing the theoretical complement to mindset theory in explaining motivated learning. Articulates the three basic psychological needs (autonomy, competence, relatedness) and their role in sustaining intrinsic motivation. Essential context for understanding how mindset beliefs operate within environmental conditions that support or undermine basic needs.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
+
+- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
+
+- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The original theoretical paper articulating the implicit theory → goal orientation → behavioral pattern model that underlies all subsequent mindset research. Presents the theoretical framework with technical precision, distinguishing entity from incremental theories and mapping their implications for motivation and learning. The intellectual foundation of the entire research program.
+
+- **Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015). Mind-set interventions are a scalable treatment for academic underachievement. *Psychological Science, 26*(6), 784–793.**: Demonstrates that a brief online mindset intervention can be delivered at scale across diverse high schools and produces significant improvements in GPA for at-risk students. Important bridge between laboratory experiments and scalable educational deployment, and one of the first demonstrations of online mindset intervention effectiveness.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive statement of Self-Determination Theory, providing the theoretical complement to mindset theory in explaining motivated learning. Articulates the three basic psychological needs (autonomy, competence, relatedness) and their role in sustaining intrinsic motivation. Essential context for understanding how mindset beliefs operate within environmental conditions that support or undermine basic needs.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
+
+- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
+
+- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The original theoretical paper articulating the implicit theory → goal orientation → behavioral pattern model that underlies all subsequent mindset research. Presents the theoretical framework with technical precision, distinguishing entity from incremental theories and mapping their implications for motivation and learning. The intellectual foundation of the entire research program.
+
+- **Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015). Mind-set interventions are a scalable treatment for academic underachievement. *Psychological Science, 26*(6), 784–793.**: Demonstrates that a brief online mindset intervention can be delivered at scale across diverse high schools and produces significant improvements in GPA for at-risk students. Important bridge between laboratory experiments and scalable educational deployment, and one of the first demonstrations of online mindset intervention effectiveness.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive statement of Self-Determination Theory, providing the theoretical complement to mindset theory in explaining motivated learning. Articulates the three basic psychological needs (autonomy, competence, relatedness) and their role in sustaining intrinsic motivation. Essential context for understanding how mindset beliefs operate within environmental conditions that support or undermine basic needs.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
+
+- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
+
+- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The original theoretical paper articulating the implicit theory → goal orientation → behavioral pattern model that underlies all subsequent mindset research. Presents the theoretical framework with technical precision, distinguishing entity from incremental theories and mapping their implications for motivation and learning. The intellectual foundation of the entire research program.
+
+- **Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015). Mind-set interventions are a scalable treatment for academic underachievement. *Psychological Science, 26*(6), 784–793.**: Demonstrates that a brief online mindset intervention can be delivered at scale across diverse high schools and produces significant improvements in GPA for at-risk students. Important bridge between laboratory experiments and scalable educational deployment, and one of the first demonstrations of online mindset intervention effectiveness.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive statement of Self-Determination Theory, providing the theoretical complement to mindset theory in explaining motivated learning. Articulates the three basic psychological needs (autonomy, competence, relatedness) and their role in sustaining intrinsic motivation. Essential context for understanding how mindset beliefs operate within environmental conditions that support or undermine basic needs.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
+
+- **Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition. *Child Development, 78*(1), 246–263.**: A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., … & Dweck, C. S. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364–369.**: The landmark national RCT involving over 12,000 ninth-grade students across 65 U.S. high schools. Demonstrates that a brief, scalable online mindset intervention improved academic achievement for students performing below the school average, particularly in schools where teachers held high expectations and norms supported challenge-seeking. The most rigorous large-scale test of mindset intervention to date. Essential reading for understanding both the promise and the context-dependence of mindset effects.
+
+- **Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mindsets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571.**: The most comprehensive meta-analytic synthesis of growth mindset research available at the time of publication, covering 43 intervention studies and the association between mindset and achievement across 273 effect sizes. Finds modest average effects overall, with stronger effects for economically disadvantaged students. Essential for calibrating appropriate confidence in mindset interventions and understanding boundary conditions.
+
+- **Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256–273.**: The original theoretical paper articulating the implicit theory → goal orientation → behavioral pattern model that underlies all subsequent mindset research. Presents the theoretical framework with technical precision, distinguishing entity from incremental theories and mapping their implications for motivation and learning. The intellectual foundation of the entire research program.
+
+- **Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015). Mind-set interventions are a scalable treatment for academic underachievement. *Psychological Science, 26*(6), 784–793.**: Demonstrates that a brief online mindset intervention can be delivered at scale across diverse high schools and produces significant improvements in GPA for at-risk students. Important bridge between laboratory experiments and scalable educational deployment, and one of the first demonstrations of online mindset intervention effectiveness.
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive statement of Self-Determination Theory, providing the theoretical complement to mindset theory in explaining motivated learning. Articulates the three basic psychological needs (autonomy, competence, relatedness) and their role in sustaining intrinsic motivation. Essential context for understanding how mindset beliefs operate within environmental conditions that support or undermine basic needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

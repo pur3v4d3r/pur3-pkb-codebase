@@ -582,7 +582,7 @@ extraction_summary:
 
 - [[Educational-Psychology|Educational Psychology]]
 - [[Developmental Epistemology]]
-- [[Philosophy of Education]]
+- [[Philosophy-of-Education|Philosophy of Education]]
 
 ---
 

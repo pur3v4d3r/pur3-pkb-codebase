@@ -242,7 +242,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **Central Principle**
-> Effective prompt engineering is not about "tricking" the model, but rather about providing optimal conditions for the model to leverage its training through clear communication structures that mirror how [[Neural Networks]] process and retrieve information.
+> Effective prompt engineering is not about "tricking" the model, but rather about providing optimal conditions for the model to leverage its training through clear communication structures that mirror how [[Neural-Networks|Neural Networks]] process and retrieve information.
 
 #### 7. [CORE-PRINCIPLE] Untitled *(Line 101)*
 
@@ -624,7 +624,7 @@ extraction_summary:
 - [[Library Science]]
 - [[Linguistics]]
 - [[Multimodal Prompt Engineering Frameworks]]
-- [[Neural Networks]]
+- [[Neural-Networks|Neural Networks]]
 - [[PE Frameworks]]
 - [[Production-Grade Prompting]]
 - [[Prompt Chaining and Workflow Orchestration]]
@@ -655,7 +655,7 @@ extraction_summary:
 - [[create]]
 - [[human intent]]
 - [[human-AI communication]]
-- [[human-computer interaction]]
+- [[Human-Computer-Interaction|human-computer interaction]]
 - [[language models]]
 - [[machine interpretation]]
 - [[progressive enhancement]]
@@ -694,8 +694,8 @@ extraction_summary:
 | 23 | [[Context Windowing]] | — | — | The Genesis of Structured Prompting | 71 |
 | 24 | [[Instruction Following]] | — | — | The Genesis of Structured Prompting | 71 |
 | 25 | [[user interface design]] | — | — | The Genesis of Structured Prompting | 73 |
-| 26 | [[human-computer interaction]] | — | — | The Genesis of Structured Prompting | 73 |
-| 27 | [[Neural Networks]] | — | — | The Genesis of Structured Prompting | 77 |
+| 26 | [[Human-Computer-Interaction|human-computer interaction]] | — | — | The Genesis of Structured Prompting | 73 |
+| 27 | [[Neural-Networks|Neural Networks]] | — | — | The Genesis of Structured Prompting | 77 |
 | 28 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Theoretical Models of Interaction | 95 |
 | 29 | [[Information-Architecture|Information Architecture]] | — | — | Theoretical Models of Interaction | 97 |
 | 30 | [[Library Science]] | — | — | Theoretical Models of Interaction | 97 |
@@ -1086,7 +1086,7 @@ $$
 - [[Library Science]]
 - [[Linguistics]]
 - [[Multimodal Prompt Engineering Frameworks]]
-- [[Neural Networks]]
+- [[Neural-Networks|Neural Networks]]
 - [[PE Frameworks]]
 - [[Production-Grade Prompting]]
 - [[Prompt Chaining and Workflow Orchestration]]
@@ -1117,7 +1117,7 @@ $$
 - [[create]]
 - [[human intent]]
 - [[human-AI communication]]
-- [[human-computer interaction]]
+- [[Human-Computer-Interaction|human-computer interaction]]
 - [[language models]]
 - [[machine interpretation]]
 - [[progressive enhancement]]

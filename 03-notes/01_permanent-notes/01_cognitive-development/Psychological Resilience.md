@@ -20,7 +20,7 @@ link-related:
   - "[[Epistemic Accountability]]"
   - "[[Metacognitive-Control]]"
   - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive Reflection]]"
+  - "[[Metacognitive-Reflection]]"
   - "[[Metacognitive-Regulation]]"
 maturity: seedling
 confidence: speculative

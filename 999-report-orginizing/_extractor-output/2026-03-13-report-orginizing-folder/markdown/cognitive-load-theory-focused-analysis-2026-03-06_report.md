@@ -349,7 +349,7 @@ extraction_summary:
 > 
 > **Application**: If you were to summarize the practical takeaway from this analysis for a colleague who had heard of CLT but never engaged with it deeply, what three-sentence encapsulation would you offer?
 > 
-> **Extension**: What is the next question this analysis leaves you wanting to pursue? Where does the treatment here open a gap that a follow-on analysis of [[Desirable-Difficulties|Desirable Difficulties]], [[Multimedia Learning Theory]], or [[Adaptive-Instruction|Adaptive Instruction]] might close?
+> **Extension**: What is the next question this analysis leaves you wanting to pursue? Where does the treatment here open a gap that a follow-on analysis of [[Desirable-Difficulties|Desirable Difficulties]], [[Multimedia-Learning-Theory|Multimedia Learning Theory]], or [[Adaptive-Instruction|Adaptive Instruction]] might close?
 
 #### 38. [CONNECTIONS-AND-LINKS] Untitled *(Line 545)*
 
@@ -543,7 +543,7 @@ extraction_summary:
 - [[Instructional-Design-Models-—-Overview|Instructional Design Models — Overview]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Multimedia Learning Theory]]
+- [[Multimedia-Learning-Theory|Multimedia Learning Theory]]
 - [[Multimedia Learning Theory and the Cognitive Theory of Multimedia Learning]]
 - [[Multimedia-Learning-Theory-—-Mayer|Multimedia Learning Theory — Mayer]]
 - [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]
@@ -647,7 +647,7 @@ extraction_summary:
 | 57 | [[Desirable-Difficulties|desirable difficulties]] | — | — | The Three-Load Framework Revisited: W... | 514 |
 | 58 | [[Retrieval-Practice|retrieval practice]] | — | — | The Three-Load Framework Revisited: W... | 514 |
 | 59 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Central Question Revisited | 539 |
-| 60 | [[Multimedia Learning Theory]] | — | — | The Central Question Revisited | 539 |
+| 60 | [[Multimedia-Learning-Theory|Multimedia Learning Theory]] | — | — | The Central Question Revisited | 539 |
 | 61 | [[Adaptive-Instruction|Adaptive Instruction]] | — | — | The Central Question Revisited | 539 |
 | 62 | [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
 | 63 | [[Expertise-Development-and-Deliberate-Practice|Expertise Development and Deliberate Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 550 |
@@ -700,7 +700,7 @@ extraction_summary:
 - [[Instructional-Design-Models-—-Overview|Instructional Design Models — Overview]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional design]]
 - [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
-- [[Multimedia Learning Theory]]
+- [[Multimedia-Learning-Theory|Multimedia Learning Theory]]
 - [[Multimedia Learning Theory and the Cognitive Theory of Multimedia Learning]]
 - [[Multimedia-Learning-Theory-—-Mayer|Multimedia Learning Theory — Mayer]]
 - [[Schema-Theory-and-Knowledge-Organization|Schema Theory and Knowledge Organization]]

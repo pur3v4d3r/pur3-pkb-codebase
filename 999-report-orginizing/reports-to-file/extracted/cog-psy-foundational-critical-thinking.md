@@ -50,7 +50,7 @@ related_concepts:
   - "[[Paul-Elder-Framework|Paul-Elder Framework]]"
   - "[[Bloom's-Taxonomy|Bloom's Taxonomy]]"
   - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
-  - "[[Information Literacy]]"
+  - "[[Information-Literacy|Information Literacy]]"
   - "[[Knowledge-Management|Knowledge Management]]"
   - "[[Learning Theory]]"
   - "[[cognitive-psychology|Cognitive Psychology]]"
@@ -858,7 +858,7 @@ The PKM workflow embodies information-to-knowledge transformation:
 - Understanding embedded in conceptual frameworks
 - Connections enable inference and problem-solving
 
-[**Zettelkasten-CT-Synergy**:: The [[Zettelkasten Method]] exemplifies CT-driven knowledge construction: permanent notes require expressing ideas in own words (interpretation), evaluating claims before internalizing (evaluation), linking to related concepts (analysis of relationships), and developing higher-order notes synthesizing themes (synthesis). Each Zettelkasten operation demands CT, making method simultaneously knowledge management system and CT practice tool.]**
+[**Zettelkasten-CT-Synergy**:: The [[Zettelkasten-Method|Zettelkasten Method]] exemplifies CT-driven knowledge construction: permanent notes require expressing ideas in own words (interpretation), evaluating claims before internalizing (evaluation), linking to related concepts (analysis of relationships), and developing higher-order notes synthesizing themes (synthesis). Each Zettelkasten operation demands CT, making method simultaneously knowledge management system and CT practice tool.]**
 
 The Zettelkasten's three note types embody CT stages:
 1. **Fleeting notes**: Raw information capture (pre-CT)
@@ -909,7 +909,7 @@ The challenge of misinformation, disinformation, and propaganda highlights CT's 
 
 Research on [[Lateral Reading]] demonstrates CT in digital context: expert fact-checkers don't deeply analyze suspicious claims but laterally search for corroborating sources - using CT to decide where to invest analytical effort rather than analyzing everything encountered.
 
-[**CT-Information-Literacy-Integration**:: Critical thinking and [[Information Literacy]] are symbiotic: information literacy provides frameworks for accessing information (knowing where/how to search), while CT provides evaluative frameworks for assessing information (determining what's credible, relevant, valuable). Together they enable effective navigation of information ecosystems.]**
+[**CT-Information-Literacy-Integration**:: Critical thinking and [[Information-Literacy|Information Literacy]] are symbiotic: information literacy provides frameworks for accessing information (knowing where/how to search), while CT provides evaluative frameworks for assessing information (determining what's credible, relevant, valuable). Together they enable effective navigation of information ecosystems.]**
 
 The [[CRAAP Test]] (Currency, Relevance, Authority, Accuracy, Purpose) exemplifies CT-information literacy integration:
 - **Currency**: Evaluating timeliness relative to question at hand
@@ -1048,7 +1048,7 @@ Critical thinking extends beyond academic contexts into professional practice ac
 
 Medical CT includes:
 - **Diagnostic reasoning**: Hypothesis generation from symptoms, probabilistic thinking
-- **Evidence evaluation**: Assessing research quality for treatment decisions ([[Evidence-Based Medicine]])
+- **Evidence evaluation**: Assessing research quality for treatment decisions ([[Evidence-Based-Medicine|Evidence-Based Medicine]])
 - **Clinical judgment**: Integrating research evidence with patient preferences and clinical experience
 - **Uncertainty management**: Recognizing knowledge limits, consulting appropriately
 - **Systems thinking**: Understanding how interventions affect multiple body systems
@@ -1093,7 +1093,7 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Depth Potential**: Would cover developmental progression (childhood through adulthood), instructional models ([[Socratic-Method|Socratic Method]], [[Problem-Based Learning]], [[Argument-Based Inquiry]]), assessment approaches, curriculum design principles, evidence-based teaching strategies, and common pedagogical pitfalls.
 
-**Knowledge Graph Role**: Bridges theoretical foundations (current note) with practical implementation in educational settings - connects to [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Cognitive Development]], [[Assessment-Design|Assessment Design]].
+**Knowledge Graph Role**: Bridges theoretical foundations (current note) with practical implementation in educational settings - connects to [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Cognitive-Development|Cognitive Development]], [[Assessment-Design|Assessment Design]].
 
 **Priority**: **High** - Essential for practitioners implementing CT education; natural extension from theoretical understanding to practical application.
 
@@ -1129,7 +1129,7 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Depth Potential**: Would cover metacognitive monitoring and control, calibration research, metacognitive instruction strategies, [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] models, epistemic cognition development, and assessment of metacognitive skills.
 
-**Knowledge Graph Role**: Extends CT cognitive architecture focus to specialized treatment of metacognition; connects to [[Learning Strategies]], [[Cognitive Development]], [[Educational-Psychology|Educational Psychology]].
+**Knowledge Graph Role**: Extends CT cognitive architecture focus to specialized treatment of metacognition; connects to [[Learning Strategies]], [[Cognitive-Development|Cognitive Development]], [[Educational-Psychology|Educational Psychology]].
 
 **Priority**: **High** - Metacognition central to CT excellence; understanding metacognitive mechanisms crucial for CT development.
 

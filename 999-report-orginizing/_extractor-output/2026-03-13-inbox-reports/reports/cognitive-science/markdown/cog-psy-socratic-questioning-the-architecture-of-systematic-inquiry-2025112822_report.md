@@ -341,7 +341,7 @@ extraction_summary:
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]]
 - [[cognitive-psychology|Cognitive Psychology]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Conceptual Confusion]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
@@ -353,8 +353,8 @@ extraction_summary:
 - [[Dialogic Teaching]]
 - [[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]]
 - [[Discovery-Learning|Discovery Learning]]
-- [[Egocentric Thinking]]
-- [[Elements of Thought]]
+- [[Egocentric-Thinking|Egocentric Thinking]]
+- [[Elements-of-Thought|Elements of Thought]]
 - [[Elements of Thought - The Architecture of Reasoning]]
 - [[Elenchus|Elenchus]]
 - [[Epistemic-Humility|Epistemic Humility]]
@@ -363,7 +363,7 @@ extraction_summary:
 - [[False Dichotomy Thinking]]
 - [[Forward Reasoning]]
 - [[Foundation for Critical Thinking]]
-- [[Heuristics and Biases]]
+- [[Heuristics-and-Biases|Heuristics and Biases]]
 - [[Higher-Order Thinking]]
 - [[Implication Analysis]]
 - [[Inference Quality]]
@@ -383,7 +383,7 @@ extraction_summary:
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Neuroplasticity]]
-- [[Nudge Theory]]
+- [[Nudge-Theory|Nudge Theory]]
 - [[Operational Definition]]
 - [[Paulo Freire]]
 - [[pedagogy]]
@@ -470,7 +470,7 @@ extraction_summary:
 | 44 | [[Critical-Thinking|Critical Thinking]] | — | — | The Socratic Legacy and Its Modern Tr... | 203 |
 | 45 | [[Foundation for Critical Thinking]] | — | — | The Socratic Legacy and Its Modern Tr... | 203 |
 | 46 | [[Linda-Elder|Linda Elder]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
-| 47 | [[Elements of Thought]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
+| 47 | [[Elements-of-Thought|Elements of Thought]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
 | 48 | [[Intellectual-Standards|Intellectual Standards]] | — | — | The Socratic Legacy and Its Modern Tr... | 205 |
 | 49 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Socratic Legacy and Its Modern Tr... | 208 |
 | 50 | [[Conceptual Confusion]] | — | — | 🔍 Type 1: Questions for Clarification | 248 |
@@ -487,8 +487,8 @@ extraction_summary:
 | 61 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 📚 Type 3: Questions that Probe Reason... | 284 |
 | 62 | [[Evidence-Based Reasoning]] | — | — | 📚 Type 3: Questions that Probe Reason... | 284 |
 | 63 | [[Inference Quality]] | — | — | 📚 Type 3: Questions that Probe Reason... | 286 |
-| 64 | [[Cognitive Restructuring]] | — | — | 📚 Type 3: Questions that Probe Reason... | 288 |
-| 65 | [[Egocentric Thinking]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 292 |
+| 64 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | 📚 Type 3: Questions that Probe Reason... | 288 |
+| 65 | [[Egocentric-Thinking|Egocentric Thinking]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 292 |
 | 66 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 303 |
 | 67 | [[False Dichotomy Thinking]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 305 |
 | 68 | [[Bloom's-Taxonomy|Bloom's Taxonomy]] | — | — | 👁️ Type 4: Questions about Viewpoints... | 310 |
@@ -501,7 +501,7 @@ extraction_summary:
 | 75 | [[Questioning Process]] | — | — | 🔄 Type 6: Questions about Questions (... | 336 |
 | 76 | [[metacognitive-awareness|Metacognitive Awareness]] | — | — | 🔄 Type 6: Questions about Questions (... | 347 |
 | 77 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔄 Type 6: Questions about Questions (... | 354 |
-| 78 | [[Elements of Thought]] | — | — | The Structural Logic of Thought | 362 |
+| 78 | [[Elements-of-Thought|Elements of Thought]] | — | — | The Structural Logic of Thought | 362 |
 | 79 | [[cognitive-psychology|Cognitive Psychology]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
 | 80 | [[Type-1-Processing|Type 1 Processing]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
 | 81 | [[Type-2-Processing|Type 2 Processing]] | — | — | The Dual-Process Connection: Type 1 a... | 379 |
@@ -516,7 +516,7 @@ extraction_summary:
 | 90 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Connection to Metacognition and Self-... | 468 |
 | 91 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Connection to Metacognition and Self-... | 468 |
 | 92 | [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]] | — | — | Application in Cognitive Behavioral T... | 472 |
-| 93 | [[Cognitive Restructuring]] | — | — | Application in Cognitive Behavioral T... | 472 |
+| 93 | [[Cognitive-Restructuring|Cognitive Restructuring]] | — | — | Application in Cognitive Behavioral T... | 472 |
 | 94 | [[Automatic Thoughts]] | — | — | Application in Cognitive Behavioral T... | 476 |
 | 95 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Synthesis with Existing Cognitive Fra... | 488 |
 | 96 | [[Autonomy]] | — | — | Synthesis with Existing Cognitive Fra... | 488 |
@@ -538,9 +538,9 @@ extraction_summary:
 | 112 | [[Truth-Seeking]] | — | — | 🔗 Related Topics for PKB Expansion | 558 |
 | 113 | [[Rational Discourse]] | — | — | 🔗 Related Topics for PKB Expansion | 558 |
 | 114 | [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 560 |
-| 115 | [[Nudge Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 563 |
+| 115 | [[Nudge-Theory|Nudge Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 563 |
 | 116 | [[Prospect Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 563 |
-| 117 | [[Heuristics and Biases]] | — | — | 🔗 Related Topics for PKB Expansion | 563 |
+| 117 | [[Heuristics-and-Biases|Heuristics and Biases]] | — | — | 🔗 Related Topics for PKB Expansion | 563 |
 | 118 | [[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]] | — | — | 🔗 Related Topics for PKB Expansion | 565 |
 | 119 | [[pedagogy]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
 | 120 | [[Andragogy]] | — | — | 🔗 Related Topics for PKB Expansion | 568 |
@@ -596,7 +596,7 @@ extraction_summary:
 - [[Cognitive-Biases|Cognitive Biases]]
 - [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]]
 - [[cognitive-psychology|Cognitive Psychology]]
-- [[Cognitive Restructuring]]
+- [[Cognitive-Restructuring|Cognitive Restructuring]]
 - [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
 - [[Conceptual Confusion]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
@@ -608,8 +608,8 @@ extraction_summary:
 - [[Dialogic Teaching]]
 - [[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]]
 - [[Discovery-Learning|Discovery Learning]]
-- [[Egocentric Thinking]]
-- [[Elements of Thought]]
+- [[Egocentric-Thinking|Egocentric Thinking]]
+- [[Elements-of-Thought|Elements of Thought]]
 - [[Elements of Thought - The Architecture of Reasoning]]
 - [[Elenchus|Elenchus]]
 - [[Epistemic-Humility|Epistemic Humility]]
@@ -618,7 +618,7 @@ extraction_summary:
 - [[False Dichotomy Thinking]]
 - [[Forward Reasoning]]
 - [[Foundation for Critical Thinking]]
-- [[Heuristics and Biases]]
+- [[Heuristics-and-Biases|Heuristics and Biases]]
 - [[Higher-Order Thinking]]
 - [[Implication Analysis]]
 - [[Inference Quality]]
@@ -638,7 +638,7 @@ extraction_summary:
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Neuroplasticity]]
-- [[Nudge Theory]]
+- [[Nudge-Theory|Nudge Theory]]
 - [[Operational Definition]]
 - [[Paulo Freire]]
 - [[pedagogy]]

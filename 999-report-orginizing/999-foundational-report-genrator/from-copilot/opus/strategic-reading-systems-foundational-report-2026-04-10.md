@@ -1804,7 +1804,7 @@ The measure of success for this system is not the efficiency of any single readi
 > - [ ] Look-away note-making after each major subsection
 > - [ ] Online comprehension monitoring (flag unclear passages with "?")
 > - [ ] Self-explanation annotations for key claims ("this is true because...")
-> - [ ] Generative connection notes ("this connects to [[related-concept]] because...")
+> - [ ] Generative connection notes ("this connects to [[Related-Concept]] because...")
 >
 > **After Reading (15–20 minutes):**
 > - [ ] Immediate free recall: write everything remembered without looking at notes

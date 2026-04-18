@@ -101,7 +101,7 @@ BPNT is the cornerstone mini-theory of SDT that makes the controversial claim th
 - [[Universal Human Needs]] - philosophical debates
 - [[Need Substitution Hypothesis]] - why needs cannot substitute for each other
 - [[Cross-Cultural Validity of SDT]]
-- [[Eudaimonic Well-Being]] versus [[Hedonic Well-Being]]
+- [[Eudaimonic-Well-Being]] versus [[Hedonic Well-Being]]
 - [[Intrinsic Life Goals]] versus [[Extrinsic Life Goals]]
 **Analogical Potential**:
 The three needs function like essential nutrients for plants—just as plants require nitrogen, phosphorus, and potassium (and one cannot substitute for another), humans require autonomy, competence, and relatedness for psychological flourishing, with deficiency in any creating specific pathologies.

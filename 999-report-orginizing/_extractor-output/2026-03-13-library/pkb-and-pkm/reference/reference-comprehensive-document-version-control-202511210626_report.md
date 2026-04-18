@@ -612,7 +612,7 @@ extraction_summary:
 - [[<%= activeProject %>]]
 - [[API Integration Project]]
 - [[Archive Strategy]]
-- [[Attention Residue]]
+- [[Attention-Residue|Attention Residue]]
 - [[Audit Trail]]
 - [[Building a Second Brain: Implementation Handbook]]
 - [[Change Management]]
@@ -698,7 +698,7 @@ extraction_summary:
 | 9 | [[Educational-Psychology|Educational Psychology]] | — | — | Cognitive Benefits: The Psychology of... | 127 |
 | 10 | [[Progress Principle]] | — | — | Cognitive Benefits: The Psychology of... | 130 |
 | 11 | [[Metacognition]] | — | — | Cognitive Benefits: The Psychology of... | 133 |
-| 12 | [[Attention Residue]] | — | — | Cognitive Benefits: The Psychology of... | 136 |
+| 12 | [[Attention-Residue|Attention Residue]] | — | — | Cognitive Benefits: The Psychology of... | 136 |
 | 13 | [[Planning Fallacy]] | — | — | Cognitive Benefits: The Psychology of... | 139 |
 | 14 | [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] | — | — | 11:30 - Resume: API Integration | 189 |
 | 15 | [[Templater]] | — | — | 11:30 - Resume: API Integration | 205 |
@@ -1866,7 +1866,7 @@ Callout Strategy:
 - [[<%= activeProject %>]]
 - [[API Integration Project]]
 - [[Archive Strategy]]
-- [[Attention Residue]]
+- [[Attention-Residue|Attention Residue]]
 - [[Audit Trail]]
 - [[Building a Second Brain: Implementation Handbook]]
 - [[Change Management]]

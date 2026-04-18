@@ -39,7 +39,7 @@ referenced-by-count: 3
 see-also:
   - "[[Personal-Workflow-Architecture]]"
   - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -60,4 +60,4 @@ importance: low
 
 - [[Personal-Workflow-Architecture]]
 - [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

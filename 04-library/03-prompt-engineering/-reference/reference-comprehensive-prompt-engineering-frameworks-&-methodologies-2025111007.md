@@ -70,11 +70,11 @@ link-related:
 
 The theoretical foundation of prompt engineering rests on several key principles from [[Cognitive-Science]], [[Linguistics]], and [[Information-Theory]]. First, the principle of **[[Semantic Precision]]**: LLMs operate on statistical patterns in language, requiring unambiguous communication to activate the correct probability distributions. Second, the concept of **[[Context Windowing]]**: models maintain working memory that must be efficiently utilized. Third, **[[Instruction Following]]** as an emergent capability that manifests at sufficient scale but requires proper activation through structural cues.
 
-Modern prompt engineering frameworks evolved from the recognition that LLMs benefit from clear roles, constraints, tone specifications, and expected structure, transforming prompting from craft into a structured discipline. This evolution parallels developments in [[user interface design]] and [[human-computer interaction]], where structured approaches replaced intuition-based design.
+Modern prompt engineering frameworks evolved from the recognition that LLMs benefit from clear roles, constraints, tone specifications, and expected structure, transforming prompting from craft into a structured discipline. This evolution parallels developments in [[user interface design]] and [[Human-Computer-Interaction]], where structured approaches replaced intuition-based design.
 
 > [!key-claim]
 > **Central Principle**
-> Effective prompt engineering is not about "tricking" the model, but rather about providing optimal conditions for the model to leverage its training through clear communication structures that mirror how [[Neural Networks]] process and retrieve information.
+> Effective prompt engineering is not about "tricking" the model, but rather about providing optimal conditions for the model to leverage its training through clear communication structures that mirror how [[Neural-Networks]] process and retrieve information.
 
 ### The Role of Frameworks in Systematization
 

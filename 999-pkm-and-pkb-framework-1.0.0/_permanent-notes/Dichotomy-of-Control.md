@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,14 +80,12 @@ see-also:
   - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
   - "[[Growth-Mindset|Growth Mindset]]"
   - "[[Cognitive-Vitality|Cognitive Vitality]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
   - "[[Howard-et-al.|Howard et al.]]"
   - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Wang-et-al.|Wang et al.]]"
-  - "[[Flow-Theory|Flow Theory]]"
   - "[[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]"
   - "[[Norsworthy-et-al.|Norsworthy et al.]]"
   - "[[Challenge-Skill-Balance|Challenge-Skill Balance]]"
@@ -177,6 +175,10 @@ importance: high
 
 **Related concepts:**
 [[System-2-Thinking|System 2 Thinking]] · [[Dual-Process-Theory|Dual Process Theory]] · [[System-2|System 2]] · [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Flow-Theory|Flow Theory]] · [[Stoic-Prohairesis|Stoic Prohairesis]] · [[Growth-Mindset|Growth Mindset]] · [[Cognitive-Vitality|Cognitive Vitality]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Howard-et-al.|Howard et al.]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Wang-et-al.|Wang et al.]] · [[Flow-Theory|Flow Theory]] · [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] · [[Norsworthy-et-al.|Norsworthy et al.]] · [[Challenge-Skill-Balance|Challenge-Skill Balance]] · [[Transient-Hypofrontality|Transient Hypofrontality]] · [[Striatum]] · [[Prohairesis]] · [[Stoic-Askēsis|Stoic Askēsis]] · [[Growth-Mindset|Growth Mindset]] · [[Carol-Dweck|Carol Dweck]] · [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]] · [[Stoic-Prohairesis|Stoic Prohairesis]] · [[SDT's-Autonomy-Need|SDT's Autonomy Need]]
+
+**Related concepts** *(from [[report-03-the-motivated-mind]])*:
+[[System-2-Thinking|System 2 Thinking]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-2|System 2]] * [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Flow-Theory|Flow Theory]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Growth-Mindset|Growth Mindset]] * [[Cognitive-Vitality|Cognitive Vitality]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Howard-et-al.|Howard et al.]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Wang-et-al.|Wang et al.]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] * [[Norsworthy-et-al.|Norsworthy et al.]] * [[Challenge-Skill-Balance|Challenge-Skill Balance]] * [[Transient-Hypofrontality|Transient Hypofrontality]] * [[Stoic-Askēsis|Stoic Askēsis]] * [[Carol-Dweck|Carol Dweck]] * [[Macnamara-&-Burgoyne|Macnamara & Burgoyne]] * [[SDT's-Autonomy-Need|SDT's Autonomy Need]] * [[Competence-Need|Competence Need]] * [[Relatedness|Relatedness]] * [[Aporic-Receptivity|Aporic Receptivity]]
+
 
 ## References
 

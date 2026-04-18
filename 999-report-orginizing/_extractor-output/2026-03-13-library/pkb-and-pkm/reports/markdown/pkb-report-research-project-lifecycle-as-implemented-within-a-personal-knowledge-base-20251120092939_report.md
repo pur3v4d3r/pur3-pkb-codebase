@@ -145,7 +145,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This comprehensive exposition examines the complete research project lifecycle as it manifests within a Personal Knowledge Base (PKB) system, exploring the profound transformation that occurs when academic inquiry shifts from linear document-based workflows to networked, interconnected knowledge architectures. We investigate how the traditional research phases—ideation, literature acquisition, synthesis, analysis, and output generation—are fundamentally reconceptualized within a Personal Knowledge Base environment, where knowledge does not merely accumulate but actively evolves through continuous recombination and emergent connection-making.
 > 
-> The central argument advanced here is that a properly implemented Personal Knowledge Base transcends its role as merely a storage system to become an active cognitive partner in the research process. Through the principles of atomic note-taking, bidirectional linking, and progressive layering of understanding, the Personal Knowledge Base enables what we term "emergent synthesis"—a mode of knowledge creation wherein new insights arise not solely from deliberate analytical effort but from the serendipitous collision of previously captured ideas that the system's architecture brings into unexpected proximity. We will trace the methodological progression from initial research question formulation through literature capture and distillation, examining how the [[Zettelkasten Method]] and related frameworks transform raw information into a living, interconnected web of understanding that continuously generates new research directions and conceptual frameworks. This exploration is grounded in contemporary research on personal knowledge management systems, cognitive science principles of memory and association, and the documented practices of prolific scholars who have leveraged these systems to extraordinary effect.
+> The central argument advanced here is that a properly implemented Personal Knowledge Base transcends its role as merely a storage system to become an active cognitive partner in the research process. Through the principles of atomic note-taking, bidirectional linking, and progressive layering of understanding, the Personal Knowledge Base enables what we term "emergent synthesis"—a mode of knowledge creation wherein new insights arise not solely from deliberate analytical effort but from the serendipitous collision of previously captured ideas that the system's architecture brings into unexpected proximity. We will trace the methodological progression from initial research question formulation through literature capture and distillation, examining how the [[Zettelkasten-Method|Zettelkasten Method]] and related frameworks transform raw information into a living, interconnected web of understanding that continuously generates new research directions and conceptual frameworks. This exploration is grounded in contemporary research on personal knowledge management systems, cognitive science principles of memory and association, and the documented practices of prolific scholars who have leveraged these systems to extraordinary effect.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 44)*
 
@@ -412,7 +412,7 @@ extraction_summary:
 - [[The Extended Mind Thesis and Cognitive Extension]]
 - [[The Psychology of Creative Insight and Serendipity]]
 - [[Working Memory Research]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[atomicity]]
 - [[connectivity]]
 - [[Desirable-Difficulties|desirable difficulties]]
@@ -439,7 +439,7 @@ extraction_summary:
 | 3 | [[PKB]] | — | — | Document Start | 31 |
 | 4 | [[atomicity]] | — | — | Document Start | 32 |
 | 5 | [[connectivity]] | — | — | Document Start | 32 |
-| 6 | [[Zettelkasten Method]] | — | — | Document Start | 40 |
+| 6 | [[Zettelkasten-Method|Zettelkasten Method]] | — | — | Document Start | 40 |
 | 7 | [[Erasmus]] | — | — | 2.0 🧭 Historical Context & Foundation... | 58 |
 | 8 | [[John Locke]] | — | — | 2.0 🧭 Historical Context & Foundation... | 58 |
 | 9 | [[Niklas Luhmann]] | — | — | 2.0 🧭 Historical Context & Foundation... | 62 |
@@ -549,7 +549,7 @@ I'll create a comprehensive academic article on the research project lifecycle w
 - [[The Extended Mind Thesis and Cognitive Extension]]
 - [[The Psychology of Creative Insight and Serendipity]]
 - [[Working Memory Research]]
-- [[Zettelkasten Method]]
+- [[Zettelkasten-Method|Zettelkasten Method]]
 - [[atomicity]]
 - [[connectivity]]
 - [[Desirable-Difficulties|desirable difficulties]]

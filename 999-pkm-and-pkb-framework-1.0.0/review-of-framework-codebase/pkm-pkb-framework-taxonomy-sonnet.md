@@ -25,7 +25,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 - **[[Schema-Theory]]** — Mental framework structuring knowledge; determines encoding and retrieval [Reports 01, 02, 03]
   - [[Schema Assimilation]] — Incorporating new information into existing schema without restructuring
   - [[Schema-Accommodation]] — Restructuring existing schema to incorporate incompatible new information
-  - [[Schema Activation]] — Triggering of relevant schemas during knowledge encoding
+  - [[Schema-Activation]] — Triggering of relevant schemas during knowledge encoding
   - [[Expert Schema Organization]] — Deep structural principle organization vs. novice surface-feature organization [Report 01]
 
 #### 1.2 Memory Systems & Retrieval
@@ -122,7 +122,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 #### 4.2 Note Architecture
 - **[[Three-Tier-Note-Architecture]]** — Atomic Notes, Concept Notes, Maps of Content (MOC) [Report 27, DP1]
-  - [[Atomic Note]] — Single-concept, richly-linked, minimal-scope note
+  - [[Atomic-Note]] — Single-concept, richly-linked, minimal-scope note
   - [[Concept Note]] — Integrative synthesis of multiple atomics within a conceptual cluster
   - [[Map of Content]] (MOC) — Navigational hub for an entire domain or project
 - **[[Linking Philosophy]]** — Links as conceptual claims (relationship encoding), not navigational shortcuts [Report 27, DP2]

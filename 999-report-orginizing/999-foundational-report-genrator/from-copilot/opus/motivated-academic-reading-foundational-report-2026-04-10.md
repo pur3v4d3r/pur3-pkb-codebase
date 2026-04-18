@@ -1279,7 +1279,7 @@ Motivated academic reading is not a static configuration but a developmental tra
 The principles underlying motivated academic reading are not specific to the textual medium or the academic context. The frameworks and mechanisms analyzed in this report have structural parallels across domains that reward sustained, cognitively demanding engagement — domains where [[Transfer-of-Learning]] through structural mapping provides genuine insight.
 
 > [!far-transfer] Transfer Domain 1: Deep Work and Complex Skill Acquisition
-> **Structural principle:** The four-system model (cognitive capacity, strategy, motivation, metacognition) applies to any cognitively demanding skill that requires sustained deliberate practice to develop. [[Deliberate-Practice]] theory (Ericsson) and [[Deep-Work]] (Newport) converge on the same architectural insight: sustained high-quality cognitive work requires threshold cognitive capacity, deliberate strategy, autonomous motivation, and ongoing self-monitoring. The vicious cycle analysis (poor capacity → poor experience → poor motivation → avoidance → continued poor capacity) is domain-general.
+> **Structural principle:** The four-system model (cognitive capacity, strategy, motivation, metacognition) applies to any cognitively demanding skill that requires sustained deliberate practice to develop. [[Deliberate-Practice]] theory (Ericsson) and [[deep-work]] (Newport) converge on the same architectural insight: sustained high-quality cognitive work requires threshold cognitive capacity, deliberate strategy, autonomous motivation, and ongoing self-monitoring. The vicious cycle analysis (poor capacity → poor experience → poor motivation → avoidance → continued poor capacity) is domain-general.
 >
 > **Application:** Any professional developing expertise in a cognitively demanding skill — software engineering, mathematics, philosophical reasoning, clinical diagnosis — faces the same developmental architecture. The five-stage trajectory (Foundation → Strategy Acquisition → Motivational Architecture → Metacognitive Integration → Expert Integration) provides a domain-general framework for expert skill development planning.
 >
@@ -1308,7 +1308,7 @@ The principles underlying motivated academic reading are not specific to the tex
 > [!far-transfer] Transfer Domain 4: PKM Systems and Personal Knowledge Management
 > **Structural principle:** The distinction between surface reading, textbase processing, and situation model construction is directly parallel to the PKM distinction between information collection, concept note elaboration, and genuine personal knowledge synthesis. [[Zettelkasten]], [[Permanent-Notes]], and [[Evergreen-Notes]] methodologies are architecturally equivalent to the Tier 2 strategy of self-explanation combined with retrieval practice: they require reformulation in one's own words, explicit connection to prior knowledge, and iterative retrieval and elaboration over time.
 >
-> **Application:** A learner who reads academic texts without an integrated PKM workflow operates at the textbase level — they may comprehend the text during reading, but without the external knowledge architecture, the situation model decays. PKM practice extends the situation model by externalizing it in a persistent, searchable, and interconnectable structure. The motivation-building strategies for academic reading — interest sequencing, reading identity development, autonomy-supportive practice design — apply equally to PKM practice and other [[Lifelong-Learning]] frameworks.
+> **Application:** A learner who reads academic texts without an integrated PKM workflow operates at the textbase level — they may comprehend the text during reading, but without the external knowledge architecture, the situation model decays. PKM practice extends the situation model by externalizing it in a persistent, searchable, and interconnectable structure. The motivation-building strategies for academic reading — interest sequencing, reading identity development, autonomy-supportive practice design — apply equally to PKM practice and other [[Lifelong-learning]] frameworks.
 >
 > **Boundary condition:** PKM workflows can become a sophisticated form of note-collecting without genuine comprehension if the elaboration requirement is weakened — if notes are summaries or extracts rather than genuine reformulations. The quality criterion for PKM aligned with this report's framework is: would the reader be able to reconstruct the situation model from memory, using the notes as prompts rather than as storage?
 >
@@ -1370,7 +1370,7 @@ Despite these limitations, the integrative framework provides what no single sub
 > [!definition] **Elaborative Interrogation**
 > A [[Desirable-Difficulties|desirable difficulty]] learning strategy involving the reader's generation of explanatory "why" and "how" questions during reading and the active generation of answers, producing elaborated causal understanding that integrates new information with prior knowledge and directly supports situation model construction. Distinguished from rhetorical self-questioning (generating questions without seriously attempting to answer them) and from comprehension monitoring questions (detecting understanding failures without attempting to explain causal mechanisms).
 >
-> **See also:** [[Elaborative-Interrogation]], [[Self-Explanation]], [[Desirable-Difficulties]], [[Prior-Knowledge]]
+> **See also:** [[Elaborative-Interrogation]], [[self-explanation]], [[Desirable-Difficulties]], [[Prior-Knowledge]]
 
 > [!definition] **Individual Interest (Hidi & Renninger)**
 > A relatively stable personal predisposition to re-engage with a particular class of content, objects, or activities, characterized by stored value (the content is found personally significant), stored knowledge (accumulated understanding of the domain), and positive affect (engagement is experienced as intrinsically rewarding). Individual interest is distinguished from situational interest (triggered by environmental features of specific texts or contexts) by its relative context-independence: individual interest in a domain motivates seeking out domain-relevant material even in the absence of environmental prompts or triggers.
@@ -1696,7 +1696,7 @@ Despite these limitations, the integrative framework provides what no single sub
 > - [[Reading-Comprehension]] — The three-level text architecture analysis in this report is a major contribution to whatever this note contains; the report should be explicitly referenced.
 > - [[Metacognitive-Regulation]] — Section 7's monitoring-control framework application directly enriches this note.
 > - [[Self-Determination-Theory]] — Section 4's reading-specific application provides concrete domain instantiation.
-> - [[Lifelong-Learning]] — The motivational architecture analysis provides a concrete framework for what self-sustaining autodidact engagement requires.
+> - [[Lifelong-learning]] — The motivational architecture analysis provides a concrete framework for what self-sustaining autodidact engagement requires.
 
 ---
 

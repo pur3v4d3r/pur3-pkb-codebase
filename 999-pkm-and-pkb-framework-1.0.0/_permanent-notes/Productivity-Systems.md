@@ -41,7 +41,7 @@ see-also:
   - "[[Cognitive-Load]]"
   - "[[Core-DataviewJS-Task-Methods]]"
   - "[[TASK-Query-Type-Fundamentals]]"
-  - "[[_permanent-notes-index|_permanent-notes-index]]"
+  - "[[permanent-notes-index|_permanent-notes-index]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -63,4 +63,4 @@ importance: low
 - [[Cognitive-Load]]
 - [[Core-DataviewJS-Task-Methods]]
 - [[TASK-Query-Type-Fundamentals]]
-- [[_permanent-notes-index|_permanent-notes-index]]
+- [[permanent-notes-index|_permanent-notes-index]]

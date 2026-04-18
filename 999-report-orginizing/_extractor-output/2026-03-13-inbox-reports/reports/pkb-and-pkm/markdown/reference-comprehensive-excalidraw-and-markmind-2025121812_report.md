@@ -841,7 +841,7 @@ extraction_summary:
 > - Draw system architecture diagram
 > - Show data flows, APIs, dependencies
 > - Annotate with technical details
-> - Link to mind map: `[[System Architecture Mindmap]]`
+> - Link to mind map: `[[System-Architecture-Mindmap|System Architecture Mindmap]]`
 > 
 > **Integration Point:**
 > - Create MOC linking both views
@@ -978,7 +978,7 @@ extraction_summary:
 - [[Paper-Title|Paper Title]]
 - [[Person-A|Person A]]
 - [[Person-B|Person B]]
-- [[Person C]]
+- [[Person-C|Person C]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Development]]
 - [[Project-Name|Project Name]]
@@ -994,8 +994,8 @@ extraction_summary:
 - [[Software Engineering]]
 - [[Subtopic-A|Subtopic A]]
 - [[Subtopic-B|Subtopic B]]
-- [[System Architecture Mindmap]]
-- [[Systems Thinking]]
+- [[System-Architecture-Mindmap|System Architecture Mindmap]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Systems Thinking Basics]]
 - [[Task-1|Task 1]]
 - [[Task-2|Task 2]]
@@ -1072,14 +1072,14 @@ extraction_summary:
 | 52 | [[Figma-Files|Figma Files]] | — | — | Pattern 2: Project Planning | 1128 |
 | 53 | [[Person-A|Person A]] | — | — | Pattern 3: Meeting Mind Maps | 1148 |
 | 54 | [[Person-B|Person B]] | — | — | Pattern 3: Meeting Mind Maps | 1149 |
-| 55 | [[Person C]] | — | — | Pattern 3: Meeting Mind Maps | 1150 |
+| 55 | [[Person-C|Person C]] | — | — | Pattern 3: Meeting Mind Maps | 1150 |
 | 56 | [[Task-1|Task 1]] | — | — | Pattern 3: Meeting Mind Maps | 1159 |
 | 57 | [[Person-A|Person A]] | — | — | Pattern 3: Meeting Mind Maps | 1159 |
 | 58 | [[Task-2|Task 2]] | — | — | Pattern 3: Meeting Mind Maps | 1160 |
 | 59 | [[Person-B|Person B]] | — | — | Pattern 3: Meeting Mind Maps | 1160 |
 | 60 | [[PDF++]] | — | — | Known Limitations | 1207 |
 | 61 | [[Paper-Title|Paper Title]] | — | — | Pattern 2: Research Annotation → Visu... | 1271 |
-| 62 | [[System Architecture Mindmap]] | — | — | Pattern 3: System Design Workflow | 1292 |
+| 62 | [[System-Architecture-Mindmap|System Architecture Mindmap]] | — | — | Pattern 3: System Design Workflow | 1292 |
 | 63 | [[wiki-links]] | — | — | Issue 3: Links Not Clickable | 1383 |
 | 64 | [[Visual PKM Philosophy]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1430 |
 | 65 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1431 |
@@ -1119,7 +1119,7 @@ extraction_summary:
 | 99 | [[Excalidraw Advanced Features]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1469 |
 | 100 | [[Templater Basics]] | — | — | 5. **[[ExcalidrawAutomate API Referen... | 1469 |
 | 101 | [[Visual System Modeling & Diagramming]] | — | — | 6. **[[Visual System Modeling & Diagr... | 1472 |
-| 102 | [[Systems Thinking]] | — | — | 6. **[[Visual System Modeling & Diagr... | 1475 |
+| 102 | [[Systems-Thinking|Systems Thinking]] | — | — | 6. **[[Visual System Modeling & Diagr... | 1475 |
 | 103 | [[Software Engineering]] | — | — | 6. **[[Visual System Modeling & Diagr... | 1475 |
 | 104 | [[Architecture Documentation]] | — | — | 6. **[[Visual System Modeling & Diagr... | 1475 |
 | 105 | [[Systems Thinking Basics]] | — | — | 6. **[[Visual System Modeling & Diagr... | 1477 |
@@ -1581,7 +1581,7 @@ Meeting: [Topic] - [Date]
 ├─ Attendees
 │  ├─ [[Person-A|Person A]]
 │  ├─ [[Person-B|Person B]]
-│  └─ [[Person C]]
+│  └─ [[Person-C|Person C]]
 ├─ Agenda Items
 │  ├─ Topic 1
 │  │  └─ [Discussion points as you capture them]
@@ -2119,7 +2119,7 @@ $$
 - [[Paper-Title|Paper Title]]
 - [[Person-A|Person A]]
 - [[Person-B|Person B]]
-- [[Person C]]
+- [[Person-C|Person C]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Development]]
 - [[Project-Name|Project Name]]
@@ -2135,8 +2135,8 @@ $$
 - [[Software Engineering]]
 - [[Subtopic-A|Subtopic A]]
 - [[Subtopic-B|Subtopic B]]
-- [[System Architecture Mindmap]]
-- [[Systems Thinking]]
+- [[System-Architecture-Mindmap|System Architecture Mindmap]]
+- [[Systems-Thinking|Systems Thinking]]
 - [[Systems Thinking Basics]]
 - [[Task-1|Task 1]]
 - [[Task-2|Task 2]]
