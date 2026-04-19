@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -221,6 +221,28 @@ importance: high
 **Related concepts:**
 [[Drew-Westen|Drew Westen]] · [[Political-Reasoning|Political reasoning]] · [[democratic-self-governance|democratic self-governance]] · [[information-cocoons|information cocoons]] · [[political-polarization|political polarization]] · [[political-heuristics|political heuristics]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[System-1|System 1]] · [[System-2|System 2]] · [[Ziva-Kunda|Ziva Kunda]] · [[Motivated-Reasoning|motivated reasoning]] · [[Philip-Converse|Philip Converse]] · [[Dual-Process-Theory|Dual Process Theory]] · [[John-Jost|John Jost]] · [[Christopher-Achen|Christopher Achen]] · [[Larry-Bartels|Larry Bartels]] · [[Philip-Tetlock|Philip Tetlock]] · [[Dan-Kahan|Dan Kahan]] · [[Milton-Lodge|Milton Lodge]] · [[Charles-Taber|Charles Taber]] · [[Hugo-Mercier|Hugo Mercier]] · [[Dan-Sperber|Dan Sperber]] · [[George-Marcus|George Marcus]] · [[Michael-Neuman|Michael Neuman]] · [[John-MacKuen|John MacKuen]] · [[Kahneman-and-Tversky|Kahneman and Tversky]] · [[Availability-Heuristic|availability heuristic]] · [[representativeness-heuristic|representativeness heuristic]] · [[Alexander-Todorov|Alexander Todorov]]
 
+**Related concepts** *(from [[political-reasoning-decision-making-foundational-report-2026-03-06]])*:
+[[Drew-Westen|Drew Westen]] * [[Political-Reasoning|Political reasoning]] * [[democratic-self-governance|democratic self-governance]] * [[information-cocoons|information cocoons]] * [[political-polarization|political polarization]] * [[political-heuristics|political heuristics]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Ziva-Kunda|Ziva Kunda]] * [[Motivated-Reasoning|motivated reasoning]] * [[Philip-Converse|Philip Converse]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Jost|John Jost]] * [[Christopher-Achen|Christopher Achen]] * [[Larry-Bartels|Larry Bartels]] * [[Philip-Tetlock|Philip Tetlock]] * [[Dan-Kahan|Dan Kahan]] * [[Milton-Lodge|Milton Lodge]] * [[Charles-Taber|Charles Taber]] * [[Hugo-Mercier|Hugo Mercier]] * [[Dan-Sperber|Dan Sperber]] * [[George-Marcus|George Marcus]] * [[Michael-Neuman|Michael Neuman]] * [[John-MacKuen|John MacKuen]] * [[Kahneman-and-Tversky|Kahneman and Tversky]] * [[Availability-Heuristic|availability heuristic]] * [[representativeness-heuristic|representativeness heuristic]] * [[Alexander-Todorov|Alexander Todorov]] * [[Confirmation-Bias|Confirmation bias]]
+
+**Cross-report connections** *(from [[political-reasoning-decision-making-foundational-report-2026-03-06]])*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Cross-report connections** *(from [[political-reasoning-decision-making-foundational-report-2026-03-06]])*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Cross-report connections** *(from [[political-reasoning-decision-making-foundational-report-2026-03-06]])*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition-and-Lifelong-Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition-and-Critical-Thinking]]
+- [[Epistemic-Calibration|Epistemic-Calibration]]
+
+
+
+
+
 ## References
 
 - **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus & Giroux.**: The canonical popular-scientific synthesis of dual process theory and the heuristics-and-biases research program. Directly foundational for this report's Phase II conceptual architecture. Chapter 12 ("The Science of Availability") and Chapters 19–20 on framing effects are particularly relevant to political applications. Readers seeking a deeper scholarly treatment should also consult the primary papers with Tversky.
@@ -234,6 +256,87 @@ importance: high
 - **Fishkin, J. S. (2018). *Democracy When the People Are Thinking: Reviving Our Politics Through Public Deliberation*. Oxford University Press.**: The definitive account of Deliberative Polling methodology and its empirical findings. Chapter 5, on what participants learn through deliberation, provides the strongest available evidence that structural conditions can significantly improve the quality of citizen political reasoning.
 
 *Citations sourced from [[political-reasoning-decision-making-foundational-report-2026-03-06]]*
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus & Giroux.**: The canonical popular-scientific synthesis of dual process theory and the heuristics-and-biases research program. Directly foundational for this report's Phase II conceptual architecture. Chapter 12 ("The Science of Availability") and Chapters 19–20 on framing effects are particularly relevant to political applications. Readers seeking a deeper scholarly treatment should also consult the primary papers with Tversky.
+
+- **Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin, 108*(3), 480–498.**: The foundational theoretical paper distinguishing accuracy-motivated from directionally motivated reasoning. Kunda's central argument — that motivation operates by constraining evidential search, not by corrupting logical inference — remains the most precise formulation of the mechanism. Essential reading for anyone working seriously with the motivated reasoning construct.
+
+- **Lodge, M., & Taber, C. S. (2013). *The Rationalizing Voter*. Cambridge University Press.**: The most comprehensive empirical statement of the online-tally model and its implications for democratic theory. Chapters 4–6, reporting the experimental studies on motivated political reasoning, are the empirical core. Lodge and Taber's conclusion — that "the passion to reason is more powerful than the reason to be passionate" — frames the normative stakes of the research with unusual directness.
+
+- **Marcus, G. E., Neuman, W. R., & MacKuen, M. (2000). *Affective Intelligence and Political Judgment*. University of Chicago Press.**: The foundational monograph for affective intelligence theory. The introduction's critique of the "affect as bias" assumption and Chapters 3–4 on the disposition and surveillance systems are essential reading. The empirical chapters on voting behavior provide the best available evidence for the anxiety-deliberation connection.
+
+- **Taber, C. S., & Lodge, M. (2006). Motivated skepticism in the evaluation of political beliefs. *American Journal of Political Science, 50*(3), 755–769.**: The most direct experimental evidence for political motivated reasoning. The study's finding that thinking harder about contested political issues produced more confidence and more bias, not less, is among the most important single empirical results in the political psychology literature.
+
+- **Tetlock, P. E. (2005). *Expert Political Judgment: How Good Is It? How Can We Know?* Princeton University Press.**: A twenty-year study of expert political forecasting that establishes the empirical baseline for political judgment quality and identifies the fox/hedgehog dispositional distinction as predictive of forecasting accuracy. Directly relevant to Section V's discussion of civic education goals and the question of what well-calibrated political judgment looks like.
+
+- **Pennycook, G., & Rand, D. G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. *Cognition, 188*, 39–50.**: An important corrective to purely motivated-reasoning accounts of political misinformation. Pennycook and Rand's finding that susceptibility to politically consistent misinformation is explained better by lack of analytic engagement than by active motivated distortion has significant implications for intervention design.
+
+- **van der Linden, S., Roozenbeek, J., & Compton, J. (2020). Inoculating against fake news about COVID-19. *Frontiers in Psychology, 11*, 566790.**: A representative study from the inoculation theory research program, demonstrating the efficacy of prebunking interventions against specific misinformation techniques. Part of a growing body of evidence supporting pre-emptive over reactive misinformation correction strategies.
+
+- **Fishkin, J. S. (2018). *Democracy When the People Are Thinking: Reviving Our Politics Through Public Deliberation*. Oxford University Press.**: The definitive account of Deliberative Polling methodology and its empirical findings. Chapter 5, on what participants learn through deliberation, provides the strongest available evidence that structural conditions can significantly improve the quality of citizen political reasoning.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus & Giroux.**: The canonical popular-scientific synthesis of dual process theory and the heuristics-and-biases research program. Directly foundational for this report's Phase II conceptual architecture. Chapter 12 ("The Science of Availability") and Chapters 19–20 on framing effects are particularly relevant to political applications. Readers seeking a deeper scholarly treatment should also consult the primary papers with Tversky.
+
+- **Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin, 108*(3), 480–498.**: The foundational theoretical paper distinguishing accuracy-motivated from directionally motivated reasoning. Kunda's central argument — that motivation operates by constraining evidential search, not by corrupting logical inference — remains the most precise formulation of the mechanism. Essential reading for anyone working seriously with the motivated reasoning construct.
+
+- **Lodge, M., & Taber, C. S. (2013). *The Rationalizing Voter*. Cambridge University Press.**: The most comprehensive empirical statement of the online-tally model and its implications for democratic theory. Chapters 4–6, reporting the experimental studies on motivated political reasoning, are the empirical core. Lodge and Taber's conclusion — that "the passion to reason is more powerful than the reason to be passionate" — frames the normative stakes of the research with unusual directness.
+
+- **Marcus, G. E., Neuman, W. R., & MacKuen, M. (2000). *Affective Intelligence and Political Judgment*. University of Chicago Press.**: The foundational monograph for affective intelligence theory. The introduction's critique of the "affect as bias" assumption and Chapters 3–4 on the disposition and surveillance systems are essential reading. The empirical chapters on voting behavior provide the best available evidence for the anxiety-deliberation connection.
+
+- **Taber, C. S., & Lodge, M. (2006). Motivated skepticism in the evaluation of political beliefs. *American Journal of Political Science, 50*(3), 755–769.**: The most direct experimental evidence for political motivated reasoning. The study's finding that thinking harder about contested political issues produced more confidence and more bias, not less, is among the most important single empirical results in the political psychology literature.
+
+- **Tetlock, P. E. (2005). *Expert Political Judgment: How Good Is It? How Can We Know?* Princeton University Press.**: A twenty-year study of expert political forecasting that establishes the empirical baseline for political judgment quality and identifies the fox/hedgehog dispositional distinction as predictive of forecasting accuracy. Directly relevant to Section V's discussion of civic education goals and the question of what well-calibrated political judgment looks like.
+
+- **Pennycook, G., & Rand, D. G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. *Cognition, 188*, 39–50.**: An important corrective to purely motivated-reasoning accounts of political misinformation. Pennycook and Rand's finding that susceptibility to politically consistent misinformation is explained better by lack of analytic engagement than by active motivated distortion has significant implications for intervention design.
+
+- **van der Linden, S., Roozenbeek, J., & Compton, J. (2020). Inoculating against fake news about COVID-19. *Frontiers in Psychology, 11*, 566790.**: A representative study from the inoculation theory research program, demonstrating the efficacy of prebunking interventions against specific misinformation techniques. Part of a growing body of evidence supporting pre-emptive over reactive misinformation correction strategies.
+
+- **Fishkin, J. S. (2018). *Democracy When the People Are Thinking: Reviving Our Politics Through Public Deliberation*. Oxford University Press.**: The definitive account of Deliberative Polling methodology and its empirical findings. Chapter 5, on what participants learn through deliberation, provides the strongest available evidence that structural conditions can significantly improve the quality of citizen political reasoning.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus & Giroux.**: The canonical popular-scientific synthesis of dual process theory and the heuristics-and-biases research program. Directly foundational for this report's Phase II conceptual architecture. Chapter 12 ("The Science of Availability") and Chapters 19–20 on framing effects are particularly relevant to political applications. Readers seeking a deeper scholarly treatment should also consult the primary papers with Tversky.
+
+- **Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin, 108*(3), 480–498.**: The foundational theoretical paper distinguishing accuracy-motivated from directionally motivated reasoning. Kunda's central argument — that motivation operates by constraining evidential search, not by corrupting logical inference — remains the most precise formulation of the mechanism. Essential reading for anyone working seriously with the motivated reasoning construct.
+
+- **Lodge, M., & Taber, C. S. (2013). *The Rationalizing Voter*. Cambridge University Press.**: The most comprehensive empirical statement of the online-tally model and its implications for democratic theory. Chapters 4–6, reporting the experimental studies on motivated political reasoning, are the empirical core. Lodge and Taber's conclusion — that "the passion to reason is more powerful than the reason to be passionate" — frames the normative stakes of the research with unusual directness.
+
+- **Marcus, G. E., Neuman, W. R., & MacKuen, M. (2000). *Affective Intelligence and Political Judgment*. University of Chicago Press.**: The foundational monograph for affective intelligence theory. The introduction's critique of the "affect as bias" assumption and Chapters 3–4 on the disposition and surveillance systems are essential reading. The empirical chapters on voting behavior provide the best available evidence for the anxiety-deliberation connection.
+
+- **Taber, C. S., & Lodge, M. (2006). Motivated skepticism in the evaluation of political beliefs. *American Journal of Political Science, 50*(3), 755–769.**: The most direct experimental evidence for political motivated reasoning. The study's finding that thinking harder about contested political issues produced more confidence and more bias, not less, is among the most important single empirical results in the political psychology literature.
+
+- **Tetlock, P. E. (2005). *Expert Political Judgment: How Good Is It? How Can We Know?* Princeton University Press.**: A twenty-year study of expert political forecasting that establishes the empirical baseline for political judgment quality and identifies the fox/hedgehog dispositional distinction as predictive of forecasting accuracy. Directly relevant to Section V's discussion of civic education goals and the question of what well-calibrated political judgment looks like.
+
+- **Pennycook, G., & Rand, D. G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. *Cognition, 188*, 39–50.**: An important corrective to purely motivated-reasoning accounts of political misinformation. Pennycook and Rand's finding that susceptibility to politically consistent misinformation is explained better by lack of analytic engagement than by active motivated distortion has significant implications for intervention design.
+
+- **van der Linden, S., Roozenbeek, J., & Compton, J. (2020). Inoculating against fake news about COVID-19. *Frontiers in Psychology, 11*, 566790.**: A representative study from the inoculation theory research program, demonstrating the efficacy of prebunking interventions against specific misinformation techniques. Part of a growing body of evidence supporting pre-emptive over reactive misinformation correction strategies.
+
+- **Fishkin, J. S. (2018). *Democracy When the People Are Thinking: Reviving Our Politics Through Public Deliberation*. Oxford University Press.**: The definitive account of Deliberative Polling methodology and its empirical findings. Chapter 5, on what participants learn through deliberation, provides the strongest available evidence that structural conditions can significantly improve the quality of citizen political reasoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methodology Notes
 

@@ -5,6 +5,7 @@
 title: "Status quo bias"
 aliases:
   - "Status quo bias"
+  - "status-quo-bias"
 type: permanent-note
 status: seedling
 confidence: low

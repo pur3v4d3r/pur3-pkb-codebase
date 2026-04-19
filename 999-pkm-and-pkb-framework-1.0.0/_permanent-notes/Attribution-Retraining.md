@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,6 +44,8 @@ source-reports:
   - "feedback-design-autonomy-mastery-foundational-report-2026-03-10"
   - "growth-mindset-first-principles-report-2026-03-11.md"
   - "stoicism-codebase-pack.md"
+  - "attribution-theory-foundational-report-2026-04-03.md"
+  - "goal-setting-and-self-regulated-learning-foundational-report-2026-04-03.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
@@ -414,6 +416,134 @@ importance: high
 > 4. Secure affiliative bonds enable autonomous motivation by reducing defensive regulatory dynamics; they are better understood as preconditions for autonomous motivation than as parallel needs of equivalent status.
 > 5. Motivation quality can be progressively improved through internalisation processes that are facilitated by need-supportive social conditions, and this improvement predicts sustained gains in outcome quality.
 
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Foundational Theory | **Significance:** The origin point of Attribution Theory. Introduced naive psychology, the personal/environmental causality distinction, and the foundational framework for all subsequent attribution research.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Theoretical Development | **Significance:** First formal presentation of the ANOVA covariation model, establishing the consensus/distinctiveness/consistency analysis framework.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Theoretical Synthesis | **Significance:** The definitive statement of Weiner's dimensional model and its application to motivation and emotion. The core reference for educational applications of Attribution Theory.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Foundational Theory | **Significance:** Correspondent inference theory; the formal account of when observers make dispositional attributions.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Applied Theory | **Significance:** Identification and naming of the Fundamental Attribution Error; systematic analysis of dispositional attribution biases.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Clinical Application | **Significance:** The reformulated learned helplessness model introducing attributional style as the mechanism of depressive helplessness. Foundation of cognitive vulnerability-stress models of depression.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Educational Application | **Significance:** Classic experimental demonstration of attribution retraining effects on learned helplessness in children; the foundational study for the mastery/helpless response pattern distinction.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Educational Application | **Significance:** Detailed qualitative and quantitative analysis of cognitive-motivational differences between mastery-oriented and helpless children after failure; documented the attribution-thought-strategy chain.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Intervention Research | **Significance:** Pioneering experimental demonstration of attribution retraining with college freshmen; GPA improvement and reduced dropout through stability reframing.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Cross-Cultural | **Significance:** Landmark developmental-cross-cultural study demonstrating cultural divergence in dispositional vs. situational attribution tendencies across childhood — the foundational evidence that the FAE is culturally modulated.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Intervention Research | **Significance:** High-impact demonstration of attributional belonging intervention effects on GPA and health across three years; particularly large effects for African-American students; widely cited in educational equity literature.
+
+> [!evidence] Supporting Evidence *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Category:** Developmental | **Significance:** Formal developmental account of the differentiation of ability and effort conceptions; the Stage 1-2-3 developmental sequence; the foundation of developmental trajectory work in Attribution Theory.
+
+> [!evidence] Supporting Evidence *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Sheeran's meta-analysis: Intentions explain ~28% of behavioral variance across studies. Orbell & Sheeran (1998) demonstrated that forming a specific implementation intention (if-then format) nearly doubled the completion rate of cervical cancer screening in women who intended to attend. Milne, Orbell, & Sheeran (2002) showed that adding implementation intentions to a standard motivational intervention for exercise produced significantly higher follow-through than motivational intervention alone — demonstrating the independent contribution of planning structure beyond motivational state. These findings are replicated across dozens of domains.
+
+> [!evidence] Supporting Evidence *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Locke, E. A., & Latham, G. P.** (1990). *A theory of goal setting and task performance*. Prentice-Hall.
+> **Locke, E. A., & Latham, G. P.** (2002). Building a practically useful theory of goal setting and task motivation. *American Psychologist, 57*(9), 705–717. https://doi.org/10.1037/0003-066X.57.9.705
+> **Latham, G. P.** (2012). *Work motivation: History, theory, research, and practice* (2nd ed.). Sage.
+
+> [!evidence] Supporting Evidence *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Zimmerman, B. J.** (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.
+> **Zimmerman, B. J., & Martinez-Pons, M.** (1990). Student differences in self-regulated learning. *Journal of Educational Psychology, 82*(1), 51–59.
+> **Zimmerman, B. J., & Bandura, A.** (1994). Impact of self-regulatory influences on writing course attainment. *American Educational Research Journal, 31*(4), 845–862.
+
+> [!evidence] Supporting Evidence *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Pintrich, P. R.** (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 452–502). Academic Press.
+> **Deci, E. L., & Ryan, R. M.** (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum Press.
+> **Ryan, R. M., & Deci, E. L.** (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.
+> **Dweck, C. S.** (1986). Motivational processes affecting learning. *American Psychologist, 41*(10), 1040–1048.
+> **Elliot, A. J., & McGregor, H. A.** (2001). A 2×2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501–519.
+
+> [!evidence] Supporting Evidence *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Gollwitzer, P. M.** (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503. https://doi.org/10.1037/0003-066X.54.7.493
+> **Sheeran, P.** (2002). Intention-behavior relations: A conceptual and empirical review. *European Review of Social Psychology, 12*(1), 1–36.
+> **Milne, S., Orbell, S., & Sheeran, P.** (2002). Combining motivational and volitional interventions to promote exercise participation. *British Journal of Health Psychology, 7*(2), 163–184.
+
+> [!evidence] Supporting Evidence *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Flavell, J. H.** (1979). Metacognition and cognitive monitoring. *American Psychologist, 34*(10), 906–911.
+> **Dunlosky, J., & Metcalfe, J.** (2009). *Metacognition*. Sage.
+> **Hacker, D. J., Dunlosky, J., & Graesser, A. C.** (Eds.). (2009). *Handbook of metacognition in education*. Routledge.
+
+> [!evidence] Supporting Evidence *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Sheldon, K. M., & Elliot, A. J.** (1999). Goal striving, need satisfaction, and longitudinal well-being. *Journal of Personality and Social Psychology, 76*(3), 482–497.
+> **Bandura, A.** (1997). *Self-efficacy: The exercise of control*. Freeman.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Heider established that causal explanation is a structured cognitive activity organized around stable dimensions — particularly the person-environment (internal-external) distinction. He observed that we tend to over-attribute behavior to persons relative to environments, a bias that Harold Kelley and Lee Ross would later characterize as the **Fundamental Attribution Error**. Crucially, Heider grounded Attribution Theory not in laboratory findings but in a philosophical-phenomenological analysis of how people actually make sense of social life, giving the framework immediate ecological validity.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Weiner argued that it is not the *surface content* of an attribution — whether one says "I failed because I lack ability" versus "I failed because the test was hard" — that determines emotional and behavioral consequences, but rather the *dimensional location* of that attribution. Two attributions with completely different surface content can have identical consequences if they share the same dimensional profile. Conversely, two attributions with similar surface content can diverge dramatically if they differ on a critical dimension. This dimensional analysis is what transformed attribution from a descriptive taxonomy into a predictively powerful theoretical architecture.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> The stability dimension is arguably the most motivationally consequential of the three dimensions because it directly regulates the probability estimates that govern persistence decisions. Atkinson's classical expectancy-value model — the precursor to [[Expectancy-Value-Theory]] — already recognized that motivation is a function of both the value of a goal and the expectation of success. Weiner specified *how* those expectancies are updated via the attributional process: stable attributions after failure propagate low expectancy into future encounters; unstable attributions after failure leave expectancy relatively intact or even elevated through compensatory mechanisms.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Weiner's central hypothesis about emotion states that the specific, differentiated emotions that drive achievement behavior — pride, shame, guilt, anger, gratitude, pity — are not generated by outcomes alone but by the *attributional interpretation* of those outcomes. The same failure can generate shame (if attributed internally and to ability), guilt (if attributed internally and to controllable effort), anger (if attributed externally to the unfair behavior of others), or sadness without self-blame (if attributed externally to an uncontrollable situation). This hypothesis has strong empirical support across multiple cultures and achievement domains.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> [[Learned-Helplessness]] — Seligman and Maier's (1967) foundational experimental construct — was initially formulated in purely behavioral terms: animals exposed to uncontrollable aversive events failed to escape when escape became available. The reformulation by Abramson, Seligman, and Teasdale (1978) introduced **attributional style** as the mechanism: whether uncontrollable outcomes produce generalized helplessness depends on how the person attributes the uncontrollability. Internal, Stable, Global attributions — "The cause is in me, it will persist, it affects everything" — produce pervasive helplessness. External, Unstable, Specific attributions limit the generalization of helplessness to the specific situation. Attribution Theory thus provides the cognitive mechanism for Learned Helplessness.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Crocker and Major's research and subsequent studies demonstrated that this attributional ambiguity is not benign uncertainty — it carries substantial psychological costs. When negative feedback cannot be cleanly attributed either to personal performance deficits (which allows targeted improvement) or to external bias (which allows blame-deflection without personal learning), individuals experience heightened uncertainty, rumination, and a failure of the ordinary psychological defenses that both internal attribution (guilt-and-improve) and external attribution (anger-and-attribute-externally) provide. The ambiguity condition is paralyzing in a way that neither unambiguous internal nor unambiguous external attribution is.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> John G. Nicholls' research documented three developmental stages in children's differentiation of effort and ability as causal concepts:
+> **Stage 1 (Ages 4-6):** Children conflate effort and ability. They do not operationally distinguish between "trying hard" and "being good at something" — in their understanding, the child who tries hardest is also the most capable. Performance outcomes are explained primarily through effort reference.
+> **Stage 2 (Ages 7-9, transitional):** Children begin to differentiate effort and ability in specific task contexts, recognizing that some difficulty is unresponsive to effort increases. Ability begins to emerge as a distinct causal concept with a partial "capacity" meaning.
+> **Stage 3 (Ages 10-12+, normative comparison stage):** Children develop a fully differentiated conception of ability as capacity — a relatively fixed property that can be inferred from performance relative to peers even when effort is equivalent. The normative comparison stage enables (and makes cognitively necessary) the full range of attribution-to-ability patterns, including those that generate helpless responses.
+
+> [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Optimal feedback for attribution architecture follows a four-component sequence: (1) **Acknowledge** the outcome (neutral, factual: "Your analysis missed the causal mechanism in Section 3"); (2) **Diagnose** the cause in controllable-unstable terms ("This suggests the reasoning approach wasn't quite connecting your evidence to your claim"); (3) **Prescribe** the corrective action in specific terms ("In your revision, try explicitly stating the causal link between each piece of evidence and your thesis before moving on"); (4) **Express** confidence in improvement ("Students who engage with this revision process consistently strengthen this skill within 2-3 drafts"). This sequence embeds unstable, controllable, internal attribution while providing the specific behavioral prescription that such attribution requires to be motivationally productive.
+
+> [!analytical-insight] Key Insight *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> The intention-action gap is not primarily a motivational deficit. It is an architectural failure: the absence of specific cognitive and volitional structures that convert a general desire to act into a specified, time-bound, cue-responsive behavioral plan. Goals are necessary but not sufficient; what matters is how a goal is formed, how it is represented in memory, how it interacts with competing demands, and whether volitional control mechanisms protect its pursuit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -593,6 +723,26 @@ importance: high
 > 
 > Stoic acceptance of what is outside our control does not extend to passively receiving harm and calling our passivity virtue. The *kathêkon* — the duty of appropriate action — includes the duty to set limits on interactions that systematically harm one's ability to live well. Leaving a harmful relationship, ending a friendship that has become corrupting, establishing clear limits on what one will participate in — these are not failures of Stoic virtue. They may be expressions of it. The relevant question is not "Should I stay?" but "What does wisdom require here?" — and wisdom sometimes requires ending or significantly transforming a relationship.
 
+> [!warning] **Key Distinction** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> A persistent misunderstanding in the Attribution Theory literature — and in popular applications — is the conflation of *internal* attribution with *blame* or *responsibility*. Internal causes are not automatically controllable causes. One can attribute failure internally (to low ability) without that attribution implying responsibility or blame, because ability is typically construed as neither freely chosen nor directly under volitional control. Weiner was meticulous in distinguishing locus from controllability, and the failure to maintain this distinction produces both theoretical and practical errors in attribution-based interventions.
+
+> [!warning] **Key Distinction** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> The self-serving attributional bias presents a fundamental tension for learning environments. Adults who consistently attribute failure to external, uncontrollable causes — "the test was poorly designed," "the instructor was unclear," "the grading was unfair" — protect their self-esteem but systematically deprive themselves of the accurate causal feedback necessary for learning. The self-serving bias functions as a cognitive immune system that prevents self-concept damage but, at excessive levels, produces what Argyris called defensive reasoning — the systematic distortion of causal explanation to prevent self-threatening conclusions. For practitioners designing [[Formative-Assessment]] and feedback environments, the challenge is structuring attributional information in ways that pierce defensive self-serving processing while maintaining sufficient psychological safety to enable learning (see [[Psychological-Safety-in-Learning-Environments]]).
+
+> [!warning] **Key Distinction** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Self-handicapping is significantly more common among students with ability-oriented (as opposed to effort-oriented) achievement attributions. Students who construe success as reflecting fixed ability have the most to lose from unimpeded failure-to-ability attribution, and thus engage most extensively in strategic context-manipulation. This connection between ability attribution patterns and self-handicapping explains why entity theories of intelligence (see [[Implicit-Theory-of-Intelligence]]) are associated with both performance-avoidance goals (see [[Performance-Avoidance-Goal]]) and self-handicapping behavior — all three are downstream expressions of stable, uncontrollable ability attribution.
+
+> [!warning] **Key Distinction** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Goals set beyond the zone of credible attainability — goals so difficult that even maximum effort is perceived as insufficient to achieve them — reverse the positive difficulty-performance relationship. When individuals conclude that a goal is unachievable, commitment collapses, effort decreases, and self-efficacy is damaged. This is a critical design concern in both educational settings and personal goal architecture: challenge must be calibrated to the upper range of the individual's perceived zone of capability, not simply maximized. The construct of [[Productive-Struggle]] captures the pedagogically productive middle range — demanding enough to require effort and strategy, not so demanding as to produce helplessness.
+
+> [!warning] **Key Distinction** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> The Dunning-Kruger phenomenon — the tendency of low-skill individuals to systematically overestimate their competence — is fundamentally a metacognitive calibration failure. Novice learners lack the domain knowledge required to accurately assess the quality of their own knowledge, because assessments of knowledge quality require access to the standards against which knowledge quality should be measured — standards that are themselves part of the domain knowledge the novice has yet to acquire. This creates a vicious cycle: metacognitive accuracy improves with domain expertise, but domain expertise can only be developed through SRL processes that themselves require adequate metacognitive accuracy. The practical implication is that external calibration sources — testing, expert feedback, error-exposure exercises — are critically important during early-stage learning because they compensate for the metacognitive deficit that novice learners predictably exhibit.
+
+
+
+
+
+
 
 
 
@@ -743,6 +893,77 @@ importance: high
 
 > [!reflection] **Reflect** *(from stoicism-codebase-pack.md)*
 > For each axiom, attempt the negation test. Can you imagine a world in which motivation quality does not affect outcomes — where volitional and compelled behaviour produce equivalent results? That seems implausible given the mechanistic reasoning about cognitive engagement, not just the correlational evidence. Can you imagine a world where social context has no effect on motivation quality? That would require human motivation to be entirely internally determined, which contradicts everything known about social cognition. The axioms survive not because they are logically necessary but because they are empirically robust enough to function as foundations.
+
+> [!reflection] **Reflect** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> 1. Weiner's model assigns ability to the Internal × Stable × Uncontrollable cell. But empirical research on deliberate practice suggests ability is substantially more malleable than the naive attribution structure assumes. What would it mean to systematically re-categorize ability as Internal × Unstable × (Partially) Controllable? What emotional and motivational consequences would follow?
+> 2. The controllability dimension is defined phenomenologically — it reflects the agent's perception, not objective fact. Under what conditions might perceived controllability diverge from actual controllability in ways that produce systematically maladaptive attributions?
+> 3. Weiner's model was developed primarily in Western, individualistic educational contexts. Does the social-emotion mapping (effort → admiration vs. natural talent → somewhat less admired) hold in cultures where collective effort, not individual achievement, is the primary evaluative frame?
+
+> [!reflection] **Reflect** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> 1. The shame-guilt distinction suggests that effective feedback should direct failure attributions toward controllable causes. But what are the ethical limits of this? Are there failure scenarios where the most accurate attribution truly is to stable, uncontrollable causes — and what are the costs of falsely attributing failure to controllable causes in such cases?
+> 2. Weiner maps anger onto controllable attributions and pity onto uncontrollable attributions. What happens when the appropriate causal attribution is genuinely ambiguous — as it often is in complex social situations? How do people navigate attributional ambiguity in emotion-regulation contexts?
+> 3. How might the attribution-emotion pipeline interact with emotional regulation strategies? Does the ability to regulate strong emotional responses alter the motivational consequences of attributional patterns, or does it primarily operate downstream of the attribution-emotion link?
+
+> [!reflection] **Reflect** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> 1. The Fundamental Attribution Error appears to be culturally modulated — stronger in individualistic cultures, weaker in collectivistic ones. What does this suggest about the degree to which the basic attribution architecture is hard-wired versus culturally learned? What are the pedagogical implications of this cultural variation?
+> 2. Attributional ambiguity creates a genuine epistemic problem for members of stigmatized groups. What institutional and interpersonal design features could reduce attributional ambiguity without requiring individuals to resolve the attribution unilaterally?
+> 3. Self-handicapping protects self-concept at the cost of actual performance. Are there contexts in which this trade-off is adaptive? What conditions might reduce self-handicapping without threatening the psychological need for competence the behavior is protecting?
+
+> [!reflection] **Reflect** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> 1. If the Fundamental Attribution Error is culturally amplified rather than hard-wired, what does this suggest about educational interventions aimed at reducing it? Should attribution training focus on cognitive correction of a bias or on cultural literacy — helping students understand the cultural parameters that shape their default attribution tendencies?
+> 2. Nicholls' developmental account suggests that the transition to normative ability comparison in Stage 3 is partially inevitable and partially context-dependent. What are the ethical implications of designing educational environments that attempt to slow or prevent Stage 3 normative comparison reasoning? Are there legitimate developmental or social-cognitive reasons for children to develop this reasoning capacity even given its motivational costs?
+
+> [!reflection] **Reflect** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> 1. Attribution retraining interventions have demonstrated effectiveness in controlled research contexts; implementation fidelity in naturalistic classroom settings has been more variable. What organizational and professional development conditions would need to be in place for attribution retraining principles to be reliably implemented at scale?
+> 2. The feedback design principles derived from Attribution Theory (controllable, unstable, internal framing) are sometimes in tension with the principle of honest assessment. How should educators navigate situations where honest feedback genuinely implies stable, difficult-to-change deficits — where the attribution-optimistic framing would be inaccurate?
+> 3. If classroom ecology functions as an attribution environment, should individual attribution interventions be prioritized over structural redesign of assessment and classroom practices? What is the relationship between individual-level attribution change and system-level attribution ecology?
+
+> [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> 1. In your own learning practice, at which point in the Rubicon model do your intentions most frequently break down — deliberation, commitment, action, or evaluation? What structural factors differentiate successful from unsuccessful intention-to-action transitions in your experience?
+> 2. If competing intentions are a primary mechanism of goal failure, what organizational or environmental designs successfully reduce interference between intentions? How does the [[Priority-Management]] literature address this?
+> 3. What is the relationship between [[Self-Efficacy]] as an initiation-threshold regulator and the broader problem of motivation management in complex learning projects?
+
+> [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> 1. Goal difficulty and goal commitment are both necessary for performance optimization — but they can conflict when a challenging goal undermines commitment. What design strategies for self-set goals (goal partitioning, proximal sub-goals, commitment devices) resolve this tension?
+> 2. The feedback-standard comparison loop is structurally identical in goal theory and [[Metacognitive-Regulation]]. What does this structural parallelism imply for the relationship between goal-setting and metacognitive skill development?
+> 3. Locke and Latham's four mechanisms — direction, effort, persistence, strategy — map onto different temporal phases of goal pursuit. Which mechanism is most critical in the early stages of goal pursuit, and how does its relative importance shift across a learning project?
+
+> [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> 1. How does the quality of Self-Reflection phase processing interact with the Forethought phase of the next cycle? What specific Self-Reflection practices produce the highest-fidelity forward transfer to subsequent Forethought?
+> 2. The Performance phase self-observation paradox — that monitoring consumes the resources needed for performance — implies that expert learners develop calibrated rather than maximal self-monitoring. How should a learner who is new to deliberate SRL develop this calibration?
+> 3. Attributional patterns in Self-Reflection are described as learnable and modifiable, yet they also appear to develop into relatively stable traits. What is the relationship between situational attribution retraining and longer-term [[Growth-Mindset]] development?
+
+> [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> 1. Kuhl's action orientation appears to be both a stable individual-difference variable and a situationally trainable state. What interventions most reliably produce lasting improvements in action orientation, and what is the mechanism of change?
+> 2. Implementation intentions reduce volitional demand at initiation by automatizing cue-response links. What evidence exists for whether they also reduce volitional demands during task continuation, or whether their effects are primarily confined to the initiation point?
+> 3. [[Habit-Formation]] and intentional SRL may operate through different psychological systems — the habitual system is context-cued and automatic; the intentional system is goal-directed and effortful. How should a learner deliberately transition a skill from the intentional to the habitual system while ensuring that adaptive monitoring is retained?
+
+> [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> 1. The illusion of knowing corrupts the SRL cycle at the monitoring stage. What classroom or self-study design features most effectively expose and correct this illusion before it propagates into downstream regulatory failures?
+> 2. [[Retrieval-Practice]] functions partly as a metacognitive calibration device. What is its mechanism of calibration improvement, and are there conditions under which retrieval practice could produce overconfidence rather than accurate calibration?
+> 3. Pintrich's four-area regulatory framework — cognition, motivation, behavior, context — implies that learners who regulate only their cognition while ignoring the affective and contextual dimensions will show characteristic failure modes. What do those failure modes look like, and what regulatory strategies address each?
+
+> [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> 1. SDT's basic psychological needs — competence, autonomy, relatedness — have implications for how self-directed learners should design their own learning environments. What structural features of a self-designed learning environment support or undermine each need?
+> 2. The mastery-performance goal distinction produces different adaptive responses to failure. Under what conditions — if any — might a temporary performance-approach orientation be strategically valuable, and what risks must a learner manage when adopting it?
+> 3. Self-efficacy, achievement goal orientation, and autonomous motivation all predict SRL quality and outcomes. Are these three motivational variables causally independent, or does evidence suggest that developing one systematically influences the others? What are the intervention implications?
+
+> [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> 1. The design principles in this section assume a learner with sufficient metacognitive self-knowledge to identify and address their own regulatory weaknesses. What design features support the development of this self-knowledge in learners who do not yet possess it?
+> 2. Institutional learning environments typically prioritize performance-approach and performance-avoidance goal orientations through grade competition and rank-based assessment. How can a learner within such an institutional context deliberately counteract these environmental goal framings to maintain a mastery orientation?
+> 3. The self-referentiality of SRL development means that learning to self-regulate is itself an SRL process. Design a personal development programme for improving one's own SRL capacity using only the principles and concepts developed in this report.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -972,6 +1193,48 @@ importance: high
 > 
 > **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
+> [!example] **Kelley's Covariation in Action** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Suppose a student, Maria, fails an examination. An observer learns that: most other students also failed (high consensus), Maria has failed this exam in prior attempts (high consistency), but Maria does well in other subjects (high distinctiveness). According to Kelley's model, the attribution would favor the *entity* — the examination itself was difficult or poorly designed. If instead only Maria failed (low consensus), she has failed this exam repeatedly (high consistency), and she fails most subjects (low distinctiveness), the attribution would shift to the *person* — Maria's general ability or effort patterns.
+
+> [!example] **Causal Schemata in Teacher Attributions** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Teachers also hold causal schemata that shape their attributions about student performance, and these teacher attributions have direct consequences for instructional behavior. Research by Brophy and Good (1970) and subsequent investigators showed that teachers who attribute learning difficulties to stable, uncontrollable causes (low general ability, disadvantaged home environment) respond differently to those students — providing less challenge, less scaffolded feedback, fewer opportunities for recovery — compared to teachers who attribute the same difficulties to unstable, controllable causes (insufficient prior knowledge, ineffective study strategies, temporary motivational problems). The causal schemata teachers hold about learning poverty are therefore self-fulfilling through the instructional practices they generate.
+
+> [!example] **Persistence in Action: Dweck's Classic Paradigm** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> In Diener and Dweck's (1980) classic study, children were given challenging block-design puzzles. After failures, children who had been pre-classified as mastery-oriented (effort attributors) began solving previously solved problems, trying innovative strategies, and talking themselves through the difficulty: "I should slow down and think about this more carefully." Children classified as helpless (ability attributors) rapidly deteriorated — attempting easier problems, abandoning effort, and making statements revealing a shift in causal explanation: "I never was good at these problems." The identical outcome (failure) produced opposite behavioral trajectories depending entirely on the attributional interpretation.
+
+> [!example] **Attribution Retraining in Practice: Social-Belonging Intervention** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Walton and Cohen's (2011) "social belonging" intervention represents a sophisticated application of attribution retraining principles at scale. First-year college students — particularly students from underrepresented minority backgrounds — received a brief intervention representing Social Attribution Retraining: the message that concerns about belonging in college are common, normal, and temporary (rather than reflecting a permanent mismatch between self and institution). This reframing of belonging concerns from stable-dispositional ("I don't belong here") to unstable-situational ("This is a normal adjustment challenge that most students experience and most students overcome") produced measurable GPA improvements and health benefits over a three-year follow-up — with effect sizes three times larger for African-American students than for European-American students, reflecting the greater attributional vulnerability of students facing both academic and social belonging uncertainty simultaneously.
+
+> [!example] **Specific vs. Vague Goal Contrast** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Compare two learners who both "want to master calculus."
+> **Learner A** (vague): "I'll study calculus whenever I have time until I feel like I understand it."
+> **Learner B** (specific): "I will work through ten integration problems each day from Spivak's *Calculus*, checking each answer, identifying error types, and recording which problem types require more review. I will complete Chapter 5 by Friday."
+> Learner B's goal activates [[Metacognitive-Monitoring]], generates direct feedback, creates an explicit success criterion, and enables adaptive adjustment. Learner A's aspiration, while genuine, lacks the structural properties to support sustained regulatory engagement.
+
+> [!example] **Forethought in Practice** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> A doctoral student preparing for a comprehensive examination engages in Forethought phase activity: listing the core topics that will be examined, breaking the preparation timeline into weekly sub-goals with specific reading lists, selecting study strategies calibrated to the exam format (practice questions, not passive re-reading), establishing criteria for "ready to move on" (accuracy ≥85% on practice questions by domain), and activating [[Self-Efficacy]] beliefs by reviewing past academic successes. Each of these activities is a Forethought process with documented SRL significance.
+
+> [!example] **Goal Orientation in Practice** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Same task, different orientations:**
+> Three learners begin studying advanced statistics.
+> 
+> *Mastery-approach*: "I want to genuinely understand the mathematical foundations of these methods so I can apply them intelligently." → Deep reading, active problem-solving, willing to ask for help when confused, interprets difficulty as a signal that the concept requires more attention.
+> 
+> *Performance-approach*: "I want to get the highest grade in the class." → Focuses on what the exam will test, seeks efficiency over depth, reluctant to reveal confusion, interprets difficulty as a threat to standing.
+> 
+> *Performance-avoidance*: "I just want to avoid looking incompetent in front of the professor." → Minimal engagement, avoids participation, seeks minimum viable performance, disengages when challenge arises.
+> 
+> Over a semester, the mastery orientation produces the deepest, most transferable learning. The performance-approach may produce comparable performance scores on structured assessments while generating less genuine understanding and lower long-term [[Transfer-of-Learning|transfer]].
+
+> [!example] **A Self-Directed Learner's Architecture** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> A learner systematically studying machine learning independently might design the following SRL architecture:
+> - **Monthly goal architecture**: Divide learning path into monthly milestones with specific topic coverage and performance criteria (e.g., "Implement and explain three unsupervised learning algorithms, including error analysis of own implementations, by month-end")
+> - **Weekly implementation intentions**: "If it is Monday, Wednesday, and Friday at 7am, then I will complete a 90-minute focused study session before checking any communication"
+> - **Calibration mechanism**: Weekly self-test via problem sets before re-reading material; log of specific confusion points; fortnightly review of error patterns
+> - **Reflective practice**: Sunday 20-minute review: What did I actually master this week vs. what was it I was only familiar with? What attributions explain performance gaps? What strategic adjustments do I need?
+> - **Motivational architecture**: Explicit values-connection statement: "I am developing ML expertise because I want to make autonomous, genuinely competent decisions in my research domain — this matters to me independently of any external credential or recognition"
+> 
+> This architecture addresses all four systems: procedural goal quality, SRL cycle quality, volitional implementation, and motivational orientation. Each element compensates for a predictable failure mode.
 
 
 
@@ -981,6 +1244,457 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Spaced Repetition Seeds
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Concept: Locus of Causality
+> **A:** **Cue:** What does the "locus of causality" dimension distinguish in Weiner's Attribution Theory?
+> **Answer:** It distinguishes between *internal* causes (within the person: ability, effort, mood, personality) and *external* causes (in the environment: task difficulty, luck, other people). It is the dimension most associated with pride and shame reactions: internal attributions for success → pride; internal attributions for failure → shame or guilt.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Concept: Stability Dimension
+> **A:** **Cue:** Why is the *stability* dimension the most important for predicting future persistence?
+> **Answer:** Because stability determines *expectancy* — the prediction of future outcomes based on past causes. Stable attributions (ability, typical task difficulty) generate the expectation that outcomes will recur the same way; unstable attributions (effort, luck, mood) maintain open expectancy that outcomes can change. High expectancy after failure (via unstable attribution) sustains persistence; low expectancy (via stable attribution) predicts withdrawal.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Distinction: Shame vs. Guilt in Attribution
+> **A:** **Cue:** What attribution profile produces shame versus guilt, and why does this distinction matter educationally?
+> **Answer:** *Shame* = failure attributed to stable, uncontrollable internal factors (ability inadequacy). *Guilt* = failure attributed to controllable internal factors (insufficient effort or poor strategy). The distinction matters because: shame motivates avoidance, hiding, and withdrawal (no corrective action is prescribed); guilt motivates corrective effort (a specific behavioral prescription follows). Feedback that implies ability inadequacy produces shame and undermines future engagement; feedback that implies controllable strategy gaps produces guilt and prompts targeted improvement.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Process: Kelley's Covariation Analysis
+> **A:** **Cue:** What three information sources does Kelley's ANOVA model use to determine attribution?
+> **Answer:** (1) **Consensus** — Do other people behave the same way in this situation? (2) **Distinctiveness** — Does this person behave differently with different entities/tasks? (3) **Consistency** — Does this person behave the same way with this entity across times and occasions? High consensus + high distinctiveness + high consistency → entity/situational attribution. Low consensus + low distinctiveness + high consistency → person/dispositional attribution.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Definition: Fundamental Attribution Error
+> **A:** **Cue:** Define the Fundamental Attribution Error and identify one condition that attenuates it.
+> **Answer:** The FAE is the systematic tendency to over-attribute others' behavior to stable dispositional properties and under-attribute it to situational forces. Example: attributing a student's disengagement to laziness (dispositional) rather than to course design problems (situational). **Condition that attenuates it:** Collectivistic cultural context — East Asian participants demonstrate significantly weaker dispositional attribution tendencies, suggesting the FAE is culturally amplified rather than universally hard-wired.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Application: Attribution Retraining Core Mechanism
+> **A:** **Cue:** What is the core mechanism by which attribution retraining improves academic outcomes?
+> **Answer:** By redirecting *stable* failure attributions ("I failed because I lack ability — a fixed property") to *unstable, controllable* attributions ("I failed because I used an insufficient strategy or insufficient effort — both changeable"). This shift: (1) maintains future success expectancy (unstable cause → outcome can change); (2) generates guilt/corrective motivation rather than shame/withdrawal; (3) prescribes specific behavioral actions (try differently, work more carefully). Best effects when paired with explicit learning strategy instruction so the controllable attribution has a specific behavioral target.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Concept: Attributional Ambiguity
+> **A:** **Cue:** What is attributional ambiguity and why is it particularly costly for members of stigmatized groups?
+> **Answer:** Attributional ambiguity is the genuine epistemic uncertainty members of stigmatized groups face about whether negative feedback/outcomes reflect *personal* factors (performance deficits) or *social* factors (discrimination, bias). The costs: (1) Neither the guilt-and-improve response nor the anger-and-externalize response is available under ambiguity; (2) social pressure often pushes toward internal attribution even when external (discriminatory) attribution would be accurate; (3) prolonged uncertainty is independently demoralizing. Unlike unambiguous internal or external failure attribution, attributional ambiguity leaves no clear behavioral prescription.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Distinction: Entity Theory vs. Incremental Theory
+> **A:** **Cue:** How do Entity Theory and Incremental Theory of Intelligence differ, and how does each shape attributional patterns?
+> **Answer:** **Entity Theory** (Fixed Mindset): intelligence is a fixed, stable property that experiences reveal but cannot change. **Incremental Theory** (Growth Mindset): intelligence is malleable, developable through effort and learning. Attributional consequence: Entity theorists make stable-ability attributions for failure (failure = proven inadequate intelligence) → shame, avoidance, helpless response pattern. Incremental theorists make unstable-effort/strategy attributions for failure (failure = insufficient learning yet) → guilt, persistence, mastery response pattern. Entity/Incremental Theory is the upstream schema; attributional tendency is the downstream expression.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Concept: Self-Handicapping
+> **A:** **Cue:** Define self-handicapping and explain its attributional function.
+> **Answer:** Self-handicapping is the strategic creation of obstacles to one's own performance — deliberately undermining chances of success before a performance attempt. Its attributional function: provides a ready external attribution for potential failure ("I would have done better without the handicap") that protects against the self-threatening attribution to stable ability. Students with ability-oriented achievement frameworks (who fear that failure-to-ability attribution) are most likely to self-handicap. If they succeed despite the handicap, the accomplishment is enhanced; if they fail, the ability attribution is deflected. Cost: actual performance probability is reduced to manage future attribution narratives.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Person: Bernard Weiner — Core Contribution
+> **A:** **Cue:** Summarize Weiner's central theoretical contribution to Attribution Theory in one paragraph.
+> **Answer:** Weiner transformed Attribution Theory from a model of person-perception (Heider, Jones/Davis, Kelley) into a comprehensive motivational theory by mapping the dimensional structure of causal attribution onto emotion and behavior. His tripartite model — Locus (internal/external) × Stability (stable/unstable) × Controllability (controllable/uncontrollable) — specified *which* attribution produces *which* emotion and *which* behavioral consequence. His most important insight was that the causal explanation determines the *quality* of emotional response to outcomes: internal attribution → pride/shame; stable attribution → sustained/depressed expectancy; controllability → guilt-or-shame and prosocial-or-reproach distinction. This made attribution a mechanism for understanding not just how people explain outcomes but how those explanations determine the full trajectory of motivated behavior.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Application: Feedback Design Principles
+> **A:** **Cue:** What four components constitute attribution-optimal feedback design?
+> **Answer:** (1) **Acknowledge** the outcome neutrally; (2) **Diagnose** the cause in controllable-unstable terms (strategy gap, effort insufficiency); (3) **Prescribe** a specific corrective action; (4) **Express confidence** in improvement given the corrective action. This sequence embeds the attribution necessary for motivational recovery (controllable, unstable, internal attribution) while providing the specific behavioral prescription that makes such attribution motivationally productive.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Concept: Nicholls' Developmental Stages
+> **A:** **Cue:** In Nicholls' three-stage developmental account, what cognitive achievement makes students vulnerable to stable ability attribution?
+> **Answer:** The transition to **Stage 3** (ages ~10-12+) — the normative comparison stage — involves the cognitive differentiation of effort and ability as distinct causal concepts, recognizing that ability functions as a capacity that limits the effect of equal effort. In Stage 1-2, children conflate effort and ability (the harder worker is the more capable one). In Stage 3, children can reason: "Even though Student A tried harder than Student B, Student B got a better outcome — therefore Student B has more ability." This reasoning enables stable-ability attributions for failure and activates the full range of performance-avoidance and helpless-response-pattern dynamics. Young children are cognitively protected against this attribution pattern because they lack the Stage 3 conceptual differentiation.
+
+> [!flashcard] **Spaced Repetition** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Q:** Transfer: Attribution Theory in Clinical Psychology
+> **A:** **Cue:** How does Attribution Theory connect to the understanding and treatment of depression?
+> **Answer:** The reformulated learned helplessness model (Abramson, Seligman & Teasdale, 1978) proposed that vulnerability to depression lies in a **depressogenic attributional style**: internal-stable-global attribution for negative events ("It's me, it's fixed, it affects everything") combined with external-unstable-specific attribution for positive events ("That was luck in that one situation"). This attributional style predicts prospective depressive episodes and explains individual differences in recovery. CBT incorporates attributional restructuring as core technique: identifying and challenging internal-stable-global attributions for negative events, increasing specificity, instability, and perceived controllability where accuracy permits this revision.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Definition | Intention-Action Gap
+> **A:** **Front**: What is the "intention-action gap" and what does Sheeran's meta-analysis reveal about the strength of intentions as predictors of behavior?
+> **Back**: The intention-action gap is the systematic failure of sincerely formed intentions to generate corresponding action. Sheeran's meta-analysis found that intentions account for only ~28% of behavioral variance — a modest relationship, with the gap most severe for novel, complex behaviors requiring sustained effort. The gap is primarily architectural (absence of specific volitional structures) rather than motivational.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Distinction | Goal Specificity vs. Goal Commitment
+> **A:** **Front**: Distinguish goal specificity from goal commitment. Which is a necessary condition for the feedback loop, and which is the primary moderator of the difficulty-performance relationship?
+> **Back**: **Goal specificity** is the precision of the performance standard — necessary for the feedback-standard comparison loop that drives regulatory adjustment. **Goal commitment** is the determination to pursue the goal despite obstacles — the primary moderator of the difficulty-performance relationship. Both are required: specificity without commitment produces clear targets without follow-through; commitment to a vague goal cannot close the monitoring loop.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Process | Zimmerman's SRL Phases
+> **A:** **Front**: Describe the three phases of Zimmerman's Cyclical SRL Model and identify the single most consequential process in each phase for long-term learning development.
+> **Back**: (1) **Forethought**: Goal-setting and strategic planning most consequential — determines the quality of goal architecture feeding all downstream monitoring. (2) **Performance**: Self-observation/monitoring most consequential — generates the feedback against which performance can be evaluated. (3) **Self-Reflection**: Causal attribution most consequential — determines whether performance information generates adaptive or maladaptive inferences for the next cycle, making the model genuinely recursive or merely repetitive.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Definition | Implementation Intention
+> **A:** **Front**: What is an implementation intention? What is its mechanism, and what does it accomplish that goal intentions alone cannot?
+> **Back**: An implementation intention is an "if-then" plan: "If [situational cue], then [goal-directed response]." Mechanism: creates a prospective memory link that automatizes cue-initiated behavior, bypassing voluntary recall. What it accomplishes: reduces volitional demand at initiation by converting a deliberate decision into an automatic cue-triggered response. This addresses the prospective memory failure problem — the failure to *remember* to act when the opportunity arises — while leaving goal commitment unchanged.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Application | Action Orientation vs. State Orientation
+> **A:** **Front**: What is Kuhl's distinction between action orientation and state orientation, and what is the regulatory consequence of each under conditions of difficulty and failure?
+> **Back**: **Action orientation**: attention directed toward task-relevant problem-solving strategies; cognitive resources remain goal-directed under difficulty. **State orientation**: attention directed toward internal emotional states (rumination, anxiety); cognitive resources consumed by affective processing rather than problem-solving. Under failure: action-oriented learners process negative affect and return to goal-directed cognition; state-oriented learners remain in affective preoccupation, functionally blocking continued goal-directed behavior.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Distinction | Mastery vs. Performance Goal Orientation (Adaptive Regulation)
+> **A:** **Front**: How do mastery and performance goal orientations produce different regulatory responses to failure, and why?
+> **Back**: **Mastery**: failure interpreted as strategic information — signals which approach is not working, activates strategy search and effort intensification. Failure is informative rather than identity-threatening, so regulatory response is approach rather than avoidance. **Performance**: failure interpreted as evidence of lower ability or standing relative to others — activates defensive processing, self-protective withdrawal, and disengagement. Because performance goals define success comparatively, failure carries identity-threatening content that mastery-framed failure does not.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Definition | Metacognitive Calibration
+> **A:** **Front**: What is metacognitive calibration and why is it important for SRL? What is the core limitation of endogenous calibration in novice learners?
+> **Back**: Metacognitive calibration is the accuracy of the correspondence between self-assessed understanding and actual understanding. Crucial for SRL because inaccurate monitoring generates maladaptive regulatory decisions — specifically, prematurely moving on from inadequately processed material. Core limitation: novices lack the domain standards needed to evaluate their own knowledge quality (Dunning-Kruger), creating systematically overconfident monitoring. Solution: externally-sourced calibration (retrieval practice, error analysis, expert feedback) provides accurate performance signals the endogenous system cannot.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Connection | SDT and Achievement Goal Theory
+> **A:** **Front**: What is the relationship between Self-Determination Theory's autonomous/controlled distinction and Achievement Goal Theory's mastery/performance distinction? Are they independent?
+> **Back**: Partially overlapping but distinguishable. Mastery-approach goals are more likely to be autonomously regulated; performance-avoidance goals more likely controlled. However, the dimensions are not identical: a performance-approach goal can be autonomously adopted (genuinely desiring to achieve high comparative standing) and a mastery goal can be controlled (experiencing mastery pursuit as obligatory). SDT's distinction concerns the *source* of motivation (autonomous vs. controlled); achievement goal theory concerns the *definition of success* (competence development vs. comparative standing). Both independently predict engagement quality and outcomes.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Process | The Self-Concordance Mechanism
+> **A:** **Front**: What is the self-concordance model, what does it predict, and what is the mechanism that explains why self-concordant goals produce better long-term outcomes?
+> **Back**: Self-concordance (Sheldon & Elliot): degree to which pursued goals align with genuine personal values rather than external pressure. Predicts greater sustained effort, better obstacle-weathering, higher attainment probability, and greater wellbeing upon attainment. Mechanism: self-concordant goal pursuit satisfies basic psychological needs (competence, autonomy, relatedness), which sustain intrinsic motivation and continued investment. Non-self-concordant goals, even when attained, fail to generate need satisfaction because the pursuit was not genuinely one's own — producing the "arrival fallacy" of hollow achievement.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Definition | Volitional Control
+> **A:** **Front**: What is volitional control and why does it function as the "neglected middle" of learning psychology?
+> **Back**: Volitional control: the capacity to translate committed intentions into sustained action, protecting goal pursuit against competing motivations, environmental distractions, emotional disturbances, and cognitive temptations. "Neglected middle": it occupies the space between motivation (studied extensively in the predecisional phase) and metacognition (studied during task execution), but the specific mechanisms by which commitment is sustained *across* learning episodes were historically under-theorized. Volition is distinct from motivation (which initiates) and metacognition (which monitors); it is the sustaining capacity that maintains goal-directed behavior when motivation fluctuates.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Application | Building a Goal Architecture
+> **A:** **Front**: List the five components of an effective goal architecture based on the integrated framework in this report.
+> **Back**: 1. **Decomposition**: Long-horizon aspirations broken into specific proximal milestones with clear success criteria; 2. **Challenge calibration**: Goals set at the upper edge of credible attainability (productive struggle range); 3. **Feedback structure**: Explicit mechanisms for generating real-time performance-to-standard comparison data; 4. **Implementation intentions**: "If-then" behavioral plans for each significant learning activity; 5. **Motivational check**: Self-concordance verification — explicit connection to genuine personal values rather than external compliance.
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Connection | Goal-Setting Theory Mechanisms → SRL Phase Mapping
+> **A:** **Front**: Map Locke and Latham's four mediating mechanisms (direction, effort, persistence, strategy activation) onto Zimmerman's three SRL phases.
+> **Back**: **Forethought**: *Direction* (goal specifies which activities warrant attention and effort); *Strategy activation* (specific goal triggers planning of the relevant strategies); *Persistence-scaffolding* (commitment formation crosses the Rubicon, establishing the volitional foundation for sustained effort). **Performance**: *Effort* mobilization (discrepancy-monitoring drives energy expenditure proportional to gap and goal commitment); *Persistence* (action orientation and volitional control mechanisms sustain effort despite difficulty). **Self-Reflection**: *Strategy activation continued* (failure attribution that targets strategy rather than ability triggers adaptive strategy search for the next cycle).
+
+> [!flashcard] **Spaced Repetition** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Q:** Definition | Self-Regulated Learning
+> **A:** **Front**: Define self-regulated learning (SRL) in terms of what it requires across cognitive, volitional, and motivational dimensions.
+> **Back**: **Self-Regulated Learning**: the degree to which learners are metacognitively, motivationally, and behaviorally active participants in their own learning (Zimmerman). **Cognitively**: learners monitor comprehension, plan strategically, and evaluate strategies adaptively. **Volitionally**: learners protect goal pursuit against competing demands, implement intentions systematically, and manage emotional states that would otherwise disrupt engagement. **Motivationally**: learners pursue learning with mastery orientation, autonomous regulation, and high task-specific self-efficacy. SRL is the integrated operation of all three dimensions; impairment in any single dimension degrades the whole system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Key Figures & Intellectual Lineage
+
+> [!person] **Fritz Heider (1896–1988)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Role:** Founder of the Attribution Theory tradition. Austrian-born Gestalt psychologist whose work on interpersonal perception, balance theory, and causal attribution established the foundational framework. **Key Works:** *The Psychology of Interpersonal Relations* (1958). **Core Contribution:** The locus-of-causation distinction (personal/environmental causality); the concept of "naive psychology" as a legitimate object of psychological study; the distinction between behavior caused by personal and impersonal forces.
+
+> [!person] **Harold Kelley (1921–2003)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Role:** Formalized Heider's intuitions into rigorous testable models. American social psychologist; worked with John Thibaut on interdependence theory. **Key Works:** "Attribution Theory in Social Psychology" (1967); "Causal Schemata and the Attribution Process" (1972). **Core Contribution:** The ANOVA covariation model; causal schemata; the discounting and augmentation principles.
+
+> [!person] **Bernard Weiner (born 1935)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Role:** Extended attribution from person-perception to motivational dynamics; the central theorist of educational Attribution Theory. **Key Works:** *Theories of Motivation* (1972); *An Attributional Theory of Motivation and Emotion* (1986); ongoing empirical and theoretical contributions through the 2000s. **Core Contribution:** Tripartite dimensional model (locus, stability, controllability); attribution-emotion-behavior chain; application to achievement settings. See also: [[Bernard-Weiner]].
+
+> [!person] **Carol Dweck (born 1946)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Role:** Extended Weiner's work on motivation into the implicit theory framework; responsible for the most widely disseminated applied applications. **Key Works:** *Self-Theories* (1999); *Mindset: The New Psychology of Success* (2006). **Core Contribution:** Helpless vs. mastery response patterns; entity vs. incremental theories of intelligence; experimental demonstration of mindset interventions. See also: [[Carol-Dweck]].
+
+> [!person] **Lee Ross (1942–2021)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Role:** Identified and named the Fundamental Attribution Error; contributed extensively to social psychology's understanding of dispositional attribution biases. **Key Works:** "The Intuitive Psychologist and His Shortcomings" (1977). **Core Contribution:** Naming and systematizing the FAE; developing the "naive realism" perspective on social perception.
+
+> [!person] **Edwin Locke (b. 1938) & Gary Latham (b. 1944)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Primary Contribution**: Developed and validated [[Goal-Setting-Theory]] across 400+ studies from the late 1960s to present. Established that specific, challenging goals consistently produce higher performance than vague or easy goals, mediated by direction, effort, persistence, and strategy activation.
+> **Key Works**: *A Theory of Goal Setting and Task Performance* (1990); "Building a Practically Useful Theory of Goal Setting and Task Motivation" (2002, *American Psychologist*)
+> **Intellectual Legacy**: Framework is the most replicated finding in industrial-organizational psychology; its integration with SRL research by Zimmerman, Pintrich, and Schunk produced the educational applications central to this report.
+
+> [!person] **Barry Zimmerman (b. 1942)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Primary Contribution**: Developed the [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Cyclical SRL Model]] and its three-phase architecture; conducted foundational research on the development of SRL in educational contexts; extended Bandura's social-cognitive framework into a complete regulatory model.
+> **Key Works**: "Self-Regulated Learning and Academic Achievement" (1990); "A Social Cognitive View of Self-Regulated Academic Learning" (1989); *Becoming a Self-Regulated Learner* (2002)
+> **Relationship to this report**: The structural backbone of Sections 3, 7, and 8.
+
+> [!person] **Paul Pintrich (1953–2003)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Primary Contribution**: Developed [[Pintrich's-Integrative-SRL-Framework|Pintrich's integrated SRL framework]], extending Zimmerman's model to four regulatory areas (cognition, motivation/affect, behavior, context); conducted influential research on achievement goals and SRL in higher education.
+> **Key Works**: "A Conceptual Framework for Assessing Motivation and Self-Regulated Learning in College Students" (2004); *Motivation in Education* (with Schunk); contributed the Motivated Strategies for Learning Questionnaire (MSLQ).
+> **Legacy**: Most widely used SRL research measurement instrument (MSLQ); theoretical framework integrating motivation and metacognition.
+
+> [!person] **Peter Gollwitzer (b. 1950)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Primary Contribution**: Developed the Rubicon Model of action phases and the [[Implementation-Intention]] construct; provided the empirical foundation for volitional control in the intention-action gap literature.
+> **Key Works**: "Implementation Intentions" (1999, *American Psychologist*); *Volition and Personality* (with Heckhausen, 1991).
+> **Intellectual lineage**: Built on Heckhausen's action control research; Gollwitzer's implementation intention framework has generated 200+ empirical studies across health, education, and performance domains.
+
+> [!person] **Albert Bandura (b. 1925)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Primary Contribution**: Developed [[Self-Efficacy-Theory]] and social-cognitive learning theory; provided the motivational foundation that Zimmerman applied to the SRL framework.
+> **Key Works**: *Social Foundations of Thought and Action* (1986); *Self-Efficacy: The Exercise of Control* (1997).
+
+> [!person] **Carol Dweck (b. 1946)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Primary Contribution**: Developed the [[Growth-Mindset|incremental/entity theory of intelligence]] framework; linked implicit theories of intelligence to achievement goal orientations and their regulatory consequences.
+> **Key Works**: *Mindset* (2006); "Motivational Processes Affecting Learning" (1986, *American Psychologist*).
+
+
+
+
+
+
+
+
+
+
+
+
+## Conceptual Tensions
+
+> [!tension] **Veridical vs. Motivated Attribution: When Should We Encourage Optimistic Misattribution?** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> The most fundamental applied tension in Attribution Theory is between the therapeutic and educational value of optimistic attribution retraining and the epistemic obligation to accurate causal assessment. Attribution retraining implicitly assumes that effort-controllable attributions are more accurate than ability attributions — that students have more potential than their stable-ability attributions recognize. In many cases this is plausibly true, particularly for early-career learners whose potential is genuinely unspecified. But in contexts where systemic inequity, inadequate schooling, or genuine resource limitations are real causal contributors to outcomes, effort-optimistic retraining may obscure structural causes behind individual-cognitive explanations. The tension is not merely theoretical: it shapes which interventions are developed, funded, and implemented at scale.
+
+> [!tension] **Attribution Retraining vs. Structural Reform in Educational Equity** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Attribution retraining has demonstrated effectiveness for improving outcomes among students from groups that face systemic disadvantages in educational institutions — with Walton and Cohen's belonging intervention showing particularly large effects among African-American students. But critics have noted a structural risk in attribution retraining: by locating the intervention at the level of individual cognitive change (attributional reframing), such programs may implicitly individualize the causes of inequity — shifting attention from the systemic conditions that make attributional vulnerability more common among marginalized students to individual cognitive correction. The tension is not between attributional and structural approaches being wrong — both are supported — but about the ethical framing of psychological interventions on populations whose difficulties have structural causes.
+
+> [!tension] **Tension 1: Assigned Goals vs. Autonomous Goals** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Goal-Setting Theory was developed primarily in organizational contexts using assigned, externally sourced goals, and demonstrates strong performance effects. Self-Determination Theory predicts that controlled motivation — including motivation from assigned goals — produces inferior engagement quality and long-term maintenance compared to autonomous motivation from self-generated goals. This creates a design tension: procedurally optimal goals (specific, challenging, clearly structured) are more easily assigned externally than self-generated, but assignment increases controlled regulation. Resolution requires internalization processes — helping learners genuinely adopt and identify with goals, not merely comply with them. See: [[Self-Determination-Theory]], [[Goal-Setting-Theory]], [[Organismic-Integration-Theory]]
+
+> [!tension] **Tension 2: Performance Goals and Short-Term Performance** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Achievement goal research shows that mastery-approach orientation produces the best long-term outcomes. However, performance-approach goals show advantages in narrow, well-defined competitive performance contexts (standardized tests, short-term productivity competitions). This creates a practical tension for learners in institutionally performance-oriented environments: adopting the motivationally superior mastery orientation may produce inferior performance on the specific metrics that gatekeeping institutions reward. Navigating this requires distinguishing internal (mastery) and external (performance) goal framing: pursuing mastery orientation internally while meeting performance requirements externally, without allowing external performance demands to colonize the internal learning stance.
+
+
+
+
+
+## Open Questions
+
+> [!open-question] **The Boundary Between Attributional Accuracy and Bias** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Much Attribution Theory research describes *systematic* attributional tendencies — the FAE, the self-serving bias, the actor-observer asymmetry — as *errors* relative to some normative standard of accurate causal reasoning. But what is that standard? Kelley's ANOVA model establishes a normative framework — multiple-cue integration — but real social environments rarely provide clear consensus, distinctiveness, and consistency information simultaneously. Moreover, some "biases" may be adaptive heuristics in ecologically valid contexts: the tendency to attribute behavior to dispositions may be efficient when rapid person-assessment has survival value. The question of when attribution is genuinely biased versus when it is an efficient heuristic appropriate to the available information is not fully resolved.
+
+> [!open-question] **Open Question 1: Metacognitive Calibration Development Mechanisms** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> We know that metacognitive calibration improves with domain expertise, and that external calibration devices (retrieval practice, error analysis) accelerate this development. What we do not fully understand is the specific mechanism by which externally sourced calibration produces endogenous monitoring improvement — does accurate external feedback train the monitoring system to apply similar accuracy criteria to future introspective judgments, or does it simply substitute for impaired introspection without improving it? The answer has direct implications for interventions: are we improving the metacognitive system itself or constructing prostheses for it? See: [[Metacognition]], [[Metacognitive-Monitoring]]
+
+
+
+## Schema Activations
+
+> [!schema-activation] **Activating Prior Knowledge: What You Already Know About Causal Explanation** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Before entering the technical architecture of [[Attribution-Theory]], pause to activate what you already implicitly know. Every time you have succeeded or failed at something — an exam, a presentation, a relationship — you have almost certainly asked *why*. "I failed because the test was unfair." "I succeeded because I worked hard." "She succeeded because she is naturally talented." These spontaneous causal explanations are the raw material of Attribution Theory.
+> 
+> If you have encountered [[Learned-Helplessness]] or [[Growth-Mindset]], you have already touched the applied edges of attributional science. Helplessness emerges when failures are attributed to causes that are internal, stable, and uncontrollable — a structural misfortune of causal cognition. Growth mindset, by contrast, rests on the implicit attribution move of viewing ability as unstable, controllable, and therefore malleable. If you are familiar with [[Locus-of-Control]] — Rotter's dispositional framework distinguishing those who believe outcomes are determined by their own actions versus by external forces — you have encountered the dispositional expression of attributional patterns that the present framework treats situationally and dynamically.
+> 
+> Three permanent notes that form the intellectual neighborhood of this report are: [[Expectancy-Value-Theory]] (which shares with Attribution Theory a focus on the motivation-cognition interface), [[Self-Efficacy]] (which captures a form of prospective causal belief about competence), and [[Achievement-Goal-Theory]] (which traces the downstream motivational structures that attributional patterns feed into). Hold these connections loosely as you read — the integration section will draw them together explicitly.
+> 
+> **Guiding Question:** How do your habitual explanatory styles — the causal stories you tell yourself about outcomes — shape your capacity for resilience, learning, and sustained motivation? And at what points do those explanatory styles become systematically distorted in ways that undermine flourishing?
+
+> [!schema-activation] **Activating Prior Knowledge: What You Already Know** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Before engaging with this report, consider what existing knowledge you bring to the intersection of goals and learning. You have almost certainly studied some version of [[Metacognition]] — the capacity to monitor and regulate your own cognition. You may have encountered [[Self-Efficacy]] through Bandura's social cognitive theory, or explored how [[Growth-Mindset]] shapes responses to challenge. You may have used the [[Zimmerman-SRL-Model]] in educational contexts, or applied [[Goal-Setting-Theory]] in performance management.
+> 
+> The questions this report addresses sit at the intersection of all these ideas: **What is the relationship between setting a goal and doing what the goal requires?** Why does knowing what to do so often fail to produce doing it? How does the quality of a goal — its specificity, origin, motivational orientation — influence whether pursuit is sustained or abandoned?
+> 
+> As you read, treat each section as an interrogation of the gap between knowing and doing. The report's guiding question is this: *What cognitive and motivational architecture must be in place for an intention to reliably become action, and how can that architecture be deliberately constructed?*
+
+
+
+## Far Transfer Applications
+
+> [!far-transfer] **Transfer Domain 1: Clinical Psychology and Therapeutic Practice** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Structural principle:** Attributional style as a diathesis for depressive and anxiety disorders (and as a therapeutic target).
+> 
+> The **reformulated learned helplessness model** of depression (Abramson, Seligman, Teasdale, 1978) proposed that the cognitive vulnerability to depression lies in a characteristic **attributional style** — the tendency to attribute negative life events to Internal, Stable, Global causes ("It's me, it will always be this way, it affects everything") and positive events to External, Unstable, Specific causes ("That was just luck, in that one context"). This attributional style — measured by the Attributional Style Questionnaire — predicts depressive episodes prospectively and accounts for individual differences in recovery trajectories.
+> 
+> **Cognitive Behavioral Therapy** (CBT), while not formally derived from Attribution Theory, incorporates attributional restructuring as a core component: helping clients identify maladaptive causal attributions for negative life events and replace them with more balanced, controllable, and specific attributions is a standard CBT technique. The attribution-depression link explains why both the style predicts disorder and why restructuring the style remedediates it.
+> 
+> **Boundary condition:** Clinical attribution work cannot simply apply educational attribution retraining protocols — the stakes, the co-occurring psychopathology, the deeply entrenched nature of attributional styles in clinical populations, and the therapeutic alliance requirements demand clinical training. However, the structural understanding transfers directly: the therapist learns to listen for stability, globality, and controllability dimensions in client causal narratives, and interventions are designed to increase specificity, instability, and perceived controllability where these can be accurately increased.
+> 
+> *See also:* [[Emotional-Regulation]], [[Self-Determined-Self-Regulation]], [[Cognitive-Behavioral-Therapy-Principles]]
+
+> [!far-transfer] **Transfer Domain 2: Organizational Behavior and Leadership** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Structural principle:** Leader and team attributions for performance outcomes shape organizational learning, accountability, and motivation cycles.
+> 
+> In organizational contexts, **attribution errors in performance management** represent one of the most consequential applied domains of Attribution Theory. Managers exhibit the FAE in performance evaluation — systematically over-attributing poor performance to dispositional properties of employees (laziness, incompetence, bad attitude) and under-attributing it to situational factors (inadequate training, unclear instructions, resource constraints, role ambiguity). This attributional mistake produces misdirected corrective actions: disciplining employees or removing them rather than redesigning systems and support structures.
+> 
+> **Team attribution dynamics** are equally important. Teams that attribute collective failures to unstable, controllable factors — "our coordination process needs refinement," "we underestimated the complexity of the project scope" — develop adaptive learning responses: process debriefs, role clarification, resource requests. Teams that attribute collective failures to stable factors — "we don't have the talent for this kind of work" — develop defensive responses: blame allocation, distancing, effort withdrawal.
+> 
+> **Leadership attribution** is a distinct application: the **Romance of Leadership** (Meindl, 1985) is an organizational version of the FAE, in which organizational outcomes are over-attributed to the qualities of the leader. This attribution pattern explains both the extraordinary credit given to leaders during organizational successes and the intense scapegoating during organizational failures, independently of whether the leader's behavior was actually causally responsible for either.
+> 
+> *See also:* [[Self-Determination-Theory]], [[Psychological-Safety-in-Learning-Environments]]
+
+> [!far-transfer] **Transfer Domain 3: Artificial Intelligence and Human-AI Interaction** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> **Structural principle:** How users attribute AI system errors shapes trust calibration, engagement, and system utilization over time.
+> 
+> Emerging research in human-AI interaction demonstrates that Attribution Theory applies directly to how users respond to AI system failures. When an AI assistant makes an error, users form attributions about the cause — is the error due to a stable limitation of the system (it cannot handle this class of problem), an unstable factor (it was poorly configured or given insufficient context), or a controllable factor (the user's prompt was unclear)? These attributions predict trust recalibration, continued system usage, and help-seeking from the system versus abandonment.
+> 
+> Users who attribute AI failures to stable system limitations disengage and reduce utilization in ways that parallel learned helplessness patterns. Users who attribute failures to unstable, contextually modifiable factors (prompt quality, context provision, task-system fit) maintain engagement and adapt their usage strategies — an AI-domain analog of the mastery-oriented response pattern.
+> 
+> Moreover, the FAE applies to AI outputs: users demonstrating strong dispositional attribution tendencies may over-attribute AI social and emotional outputs to internal AI "states" (treating the system as having genuine beliefs, intentions, and preferences) in ways that produce inappropriate trust and inappropriate relationships with AI systems. Understanding attribution is thus critical to designing AI onboarding, error communication, and transparency features that calibrate rather than distort user causal models of AI systems.
+> 
+> *See also:* [[Dual-Process-Theory]], [[Metacognition]]
+
+> [!far-transfer] **Transfer to Professional Performance** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Structural Principle**: Professional expertise development follows the same four-system architecture as academic SRL — it requires procedurally excellent goal architecture (specific, challenging performance targets), volitional protection (structuring practice environments against competing demands), metacognitive monitoring (accurate self-assessment against expert standards), and mastery motivational orientation (pursuing genuine competence rather than status or credential).
+> 
+> **Application**: [[Deliberate-Practice]] (Ericsson's account) is essentially expert SRL applied to skill acquisition. The key translation is: replace "learning goals" with "specific performance targets just above current capability"; replace "study strategies" with "targeted practice on specific skill weaknesses"; replace "metacognitive monitoring" with "immediate, expert feedback on specific performance dimensions"; and replace "mastery orientation" with "sustained focus on developing genuine capability rather than performing competently for observers."
+> 
+> **Boundary Condition**: Deliberate practice requires access to accurate external calibration (a coach, precise performance metrics, video analysis) because the expert-novice gap makes endogenous monitoring particularly unreliable in early and middle stages of skill development. The [[Metacognition|metacognitive calibration problem]] is, if anything, more severe in professional skill development because the standards are higher and the gap between perceived and actual performance can persist for years without external calibration devices.
+> 
+> → **See also**: [[Deliberate-Practice]], [[Expert-Performance-Acquisition]], [[Feedback-Design]]
+
+> [!far-transfer] **Transfer to Creative and Research Projects** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Structural Principle**: Long-horizon creative and research projects require the same intention architecture as learning tasks, but are distinctively vulnerable to the goal-specification problem: creative goals resist precise specification because the desired output is often not fully knowable in advance. This requires a modified goal architecture that specifies process goals (hours of focused work, pages written, experiments conducted) when outcome goals cannot be specified, combined with mastery-approach motivational framing to sustain engagement through the uncertainty and productive frustration that creative work reliably generates.
+> 
+> **Application**: Implementation intentions reduce the initiation gap that kills creative projects: converting "I will work on the manuscript when I am inspired" to "If it is 7am on a writing day, I will open the manuscript and write for 90 minutes before reading any other text" transforms creative intention from a mood-contingent aspiration to a cue-triggered behavior. The volitional tools developed in Section 4 — action orientation under difficulty, emotion regulation during frustration, habit formation for work initiation — are precisely the tools that enable creative practitioners to maintain output through the motivationally non-linear landscape of complex projects.
+> 
+> **Boundary Condition**: The challenge-calibration principle requires adjustment: in creative and research contexts, the "right" level of challenge cannot be set in advance because the difficulty of the problem is discovered through exploration. What can be calibrated is the expected rate of productive struggle versus breakthrough — setting realistic expectations for the difficulty-enjoyment ratio reduces premature discouragement.
+> 
+> → **See also**: [[Productive-Failure]], [[Intrinsic-Motivation]], [[Productive-Struggle]]
+
+> [!far-transfer] **Transfer to Health and Habit Development** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Structural Principle**: Health behavior intentions face the intention-action gap in an especially severe form because they compete against established, automatized habits with high cue-trigger coupling (e.g., food-seeking behaviors responding to emotional cues), require sustained self-regulation over months or years, and are executed in environments rich with competing behavioral affordances. The goal-setting and volitional control principles of this report directly address each mechanism of this vulnerability.
+> 
+> **Application**: Implementation intentions are among the most effective behavioral interventions known for health behavior change — the empirical effect sizes for implementation intention interventions on physical activity, dietary change, and medical adherence are consistently in the medium-to-large range. The self-concordance principle is especially critical: health behavior change driven by intrinsic, autonomously regulated motivation (genuine care for wellbeing and vitality) shows dramatically higher 12-month maintenance rates than change driven by controlled motivation (doctor's orders, social pressure, appearance concerns), even when initial behavior change is equivalent. Addressing motivational quality from the outset of behavior change interventions — helping individuals connect health goals to genuinely valued outcomes — is a high-leverage design priority.
+> 
+> → **See also**: [[Habit-Formation]], [[Implementation-Intention]], [[Self-Determination-Theory]], [[Intrinsic-Motivation]]
+
+> [!far-transfer] **Transfer to Teams and Organizations** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Structural Principle**: The goal-setting and SRL principles that apply to individual learners can be instantiated at the team and organizational level through analogous structural mechanisms: team-level goal specification (from organizational strategy to specific measurable performance standards), collective metacognitive monitoring (systematic after-action reviews, performance data systems), distributed volitional norms (cultural expectations about follow-through, norm-enforced commitment mechanisms), and collective motivational orientation (organizational culture around mastery vs. performance-avoidance norms in responding to failures).
+> 
+> **Application**: Organizational [[Psychological-Safety]] (Edmondson's research) is, in part, the team-level equivalent of mastery goal orientation: it creates a social context in which errors are interpreted as learning opportunities rather than competence failures, which enables honest metacognitive reporting (individuals surface errors rather than concealing them), adaptive attribution (failures are analyzed for systemic rather than individual causes), and sustained engagement rather than defensive withdrawal. Designing team-level SRL requires that these organizational conditions be deliberately constructed rather than hoped for.
+> 
+> → **See also**: [[Collective-SRL]], [[Team-Learning]], [[Organizational-Learning]]
+
+
+
+
+
+
+
+
+## Debates
+
+> [!debate] **Is the Fundamental Attribution Error a Universal or a Western Cultural Phenomenon?** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Substantial cross-cultural evidence — Miller (1984), Norenzayan and Nisbett (2000), Choi, Nisbett & Norenzayan (1999) — suggests that the FAE is significantly attenuated in East Asian cultural contexts compared to North American ones. This raises the question of whether the FAE is a universal feature of human cognition (a species-level adaptation originating in the evolutionary importance of rapid person-assessment) or a culturally amplified tendency (a bias toward individual-focused causal reasoning that is strengthened in individualistic cultural frameworks and weakened in collectivistic ones). The answer has significant implications for how the bias should be addressed in educational contexts — as a universal cognitive limitation to be compensated for, or as a culturally cultivated tendency that can be modified through cultural learning.
+
+> [!debate] **Debate: Self-Regulation as Capacity vs. Self-Regulation as Process** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> A longstanding theoretical debate in SRL research concerns whether self-regulation should be modeled as a stable individual capacity (with trait-like properties that predict performance across contexts) or as a dynamic, context-sensitive process (where the same individual shows very different regulatory quality depending on task characteristics, motivational context, and prior cycle outcomes). The capacity model fits the self-efficacy, metacognitive knowledge, and dispositional achievement-goal research; the process model fits the cyclical SRL framework, motivational-state-and-context research, and microgenetic studies of regulatory behavior. The resolution — that both stable and dynamic components operate — has been accepted but the relative contributions remain theoretically unsettled.
+
+
+
+## AI Insights
+
+> [!claude-insight] **The Efficiency-Accuracy Trade-off in Attribution** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> One of the most intellectually interesting tensions in attributional cognition is the trade-off between cognitive efficiency and attributional accuracy. Kelley's ANOVA model describes the *accurate* attribution procedure, but it is computationally expensive — requiring the aggregation of information across instances, people, and contexts. Human beings, operating under time pressure and cognitive resource constraints (see [[Cognitive-Load-Theory]]), cannot typically perform this ideal analysis. The causal schemata and heuristics they use instead are adaptive shortcuts: they produce roughly accurate attributions quickly and with minimal cognitive investment. The problem arises when these shortcuts produce *systematically* biased attributions in predictable directions — particularly when the bias patterns have negative motivational or social consequences. The fundamental challenge of attribution retraining (Section 8) is precisely this: it attempts to modify cognitive shortcuts that are partially adaptive and therefore resistant to change.
+
+> [!claude-insight] **The Moral Geometry of Attribution** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> One of the most intellectually striking features of Weiner's emotion-attribution mapping is its implicit moral geometry. The controllability dimension, in other-attribution contexts, serves as an operationalization of moral responsibility: for a behavior to generate anger or blame, it must be perceived as freely chosen; for suffering to generate pity rather than blame, it must be perceived as uncontrollable. What Weiner's framework reveals is that ordinary moral intuitions about responsibility, blame, praise, and pity are structurally organized by the same dimensional logic that governs achievement motivation. The causal attribution system is not merely a motivational tool — it is the cognitive substrate of ordinary moral judgment. Attribution Theory thus represents an empirical bridge between motivational psychology and moral philosophy, a connection that deserves far more systematic development than it has received.
+
+> [!claude-insight] **Dissolution of the Actor-Observer Asymmetry** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> It is worth noting that subsequent meta-analytic reviews (Malle, 2006) found the actor-observer asymmetry to be less robust and generalizable than Jones and Nisbett originally claimed. The asymmetry is most reliable for *negative* behaviors and less reliable for positive or neutral behaviors. Moreover, several studies found that emotional involvement — when actors are highly emotionally engaged with an outcome — reverses the pattern, with actors also proceeding to dispositional self-attribution. These findings do not invalidate the construct but suggest its boundary conditions are more complex than the foundational account implied, and that the actor-observer distinction interacts with valence, involvement, and cultural context in ways that require nuanced treatment in applied settings.
+
+> [!claude-insight] **Beyond Effort-Attribution: The Strategy Attribution Expansion** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> A significant refinement of classical attribution retraining has involved expanding beyond the ability-to-effort redirection toward a more instructionally precise ability-to-strategy redirection. Simply increasing effort attribution — "I failed because I didn't work hard enough" — may motivate more effort without improving outcomes if the strategies being applied more effortfully are ineffective. The more educationally productive attributional frame is strategy-controllable: "I failed because my learning approach was ineffective; a different approach can produce different results." This framing maintains the controllability and instability of the attribution (preserving its motivational benefits) while directing students toward the *quality* of cognitive engagement rather than mere *quantity* of effort. Research by Weinstein and colleagues on Learning-to-Learn interventions and by [[Paul-Pintrich]] and colleagues on self-regulated learning demonstrates that explicit metacognitive strategy instruction amplifies the effectiveness of attributional interventions significantly — strategy knowledge is the enabling condition for strategy attribution to be motivationally productive.
+
+> [!claude-insight] **The Temporal Architecture of Attribution** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> One of the most important but underappreciated dimensions of Attribution Theory is its temporal architecture. Attribution is retrospective — it concerns causes of past outcomes. But its consequences are prospective — it shapes future expectancy, affect, and behavior. This temporal structure means that Attribution Theory is fundamentally a theory of how the past constructs the future: how the causal stories people tell about what happened to them accumulate into motivational histories that either expand or contract the psychological space available for future engagement with challenge. An individual's attributional history — the cumulative pattern of stable-ability versus unstable-effort attributions over years of academic experience — constitutes a kind of motivational sediment that shapes present engagement in ways that are largely invisible to current observers. The student who has learned, over thousands of repeated failure-to-ability attribution cycles, that academic failure confirms a fixed and inadequate intellectual capacity, brings that entire attributional history to each new academic encounter — and may show helpless-response patterns that appear mysterious to observers without access to this history.
+
+> [!claude-insight] **On the Self-Observation Paradox** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> There is an underappreciated tension within the Performance phase that Zimmerman's model does not fully resolve: active self-observation consumes working memory and attention, which are precisely the resources needed for skilled task execution. This creates a monitoring-performance tradeoff that explains a counterintuitive finding — that heavy metacognitive monitoring sometimes disrupts performance on well-practiced, automatized tasks (e.g., the "centipede's dilemma" in motor learning). The resolution is that optimal regulatory monitoring is calibrated to task demands: intensive during initial skill acquisition when errors are frequent and instructive, lighter as competence grows, and intensified again when errors or confusion signal departure from the automatized routine. Developing this monitoring calibration skill — knowing *when* to monitor intensely — is itself a high-level SRL competency that the model points toward but leaves largely undeveloped.
+
+> [!claude-insight] **Why Volition Matters More Than Motivation** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Modern learning and productivity discourse is saturated with motivational language — "find your why," "cultivate passion," "build intrinsic motivation." This emphasis is not wrong, but it creates a systematic gap: motivation determines *whether* a learner pursues a goal, but volition determines *whether they continue* pursuing it when motivation naturally fluctuates, which it always does. A student who is genuinely intrinsically motivated can still fail consistently due to volitional weakness — difficulty initiating study sessions despite strong motivation to complete the degree, succumbing to distractions despite genuine engagement with the material, failing to persist through difficult conceptual problems despite high mastery orientation. The capacity to manage one's own psychological state in service of a distal goal is a distinct skill set from motivation, and it is a trainable one.
+
+> [!claude-insight] **The Regulatory Hierarchy Problem** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Metacognition is typically described as the "regulatory layer above cognition" — it monitors and controls cognitive processing. But this description raises a structural question that neither Flavell's nor Zimmerman's accounts fully address: what governs metacognition? If metacognitive monitoring can be inaccurate (as in the illusion of knowing), that inaccuracy itself is not detectable by the monitoring system that is doing the monitoring. There is a second-order calibration problem: the learner would need to monitor their own monitoring, which either regresses infinitely or bottoms out at some reflexively self-aware executive capacity that is not reducible to a "higher" monitoring level. The practical resolution — testing-based external calibration, deliberate error analysis, spaced self-testing — works precisely because it bypasses the endogenous monitoring system and uses performance outcomes as direct feedback. This is why [[Retrieval-Practice]] and [[Spaced-Repetition]] are so valuable from an SRL perspective: they provide metacognitive calibration that the learner's own introspective monitoring is structurally incapable of providing.
+
+> [!claude-insight] **The Goal Source Paradox** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> There is a productive paradox at the intersection of Goal-Setting Theory and [[Self-Determination-Theory]]: assigned, specific, challenging goals — the procedurally optimal format for performance enhancement per Locke and Latham — are also the format most likely to produce controlled rather than autonomous motivation, because they are externally specified rather than self-generated. Yet goals generated purely through autonomous self-determination may lack the specificity and challenge that procedural goal theory identifies as performance-relevant. The practical resolution is sequential: an internalization process by which the learner takes ownership of assigned or externally-structured goals by connecting them to personal values, identifying their developmental significance, and re-framing them within their own identity narrative. This process — termed "organismic integration" in SDT — converts initially controlled motivation toward increasingly autonomous forms, allowing the motivational benefits of internalization to combine with the procedural benefits of goal specificity. The design implication for educators and self-directed learners: goal externalization (receiving or constructing specific challenging goals through structured frameworks) should always be followed by internalization practice (making the personal values connection explicit).
+
+> [!claude-insight] **The Four-System Integration Architecture** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> What is perhaps most striking about the confluent research on goal-setting and SRL is that each theoretical tradition independently converged on the same diagnostic principle: **the limiting factor in any learning system is the weakest of its regulatory components.** A learner with exceptional metacognitive accuracy but motivationally impoverished goals (purely externally controlled, performance-avoidance oriented) will show systematically defensive rather than exploratory regulation — the monitoring system will accurately detect failures, but the attributional and motivational systems will convert that accurate information into self-protective withdrawal rather than adaptive adjustment. Similarly, a learner with excellent mastery orientation and genuine autonomous motivation who lacks specific goal structures will remain motivationally engaged but operationally disorganized — high willingness to act on insufficient specification of how to act. The design challenge is not to optimize any single component but to ensure adequate functioning across all four simultaneously.
+
+
+
+
+
+
+
+
+
+
+
+## Section Summaries
+
+> [!section-summary] **Section 2 Core Takeaways** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Weiner's tripartite dimensional model — locus, stability, controllability — provides the structural grammar of causal explanation. Where a cause lands within this three-dimensional space determines its emotional and motivational consequences with considerable predictive precision. The stability dimension primarily governs expectancy updates; the locus dimension primarily governs self-esteem-relevant emotions; the controllability dimension primarily governs social-moral emotions and responsibility attributions. These are not independent channels — they interact to produce the complex emotional profiles that shape achievement behavior, and the same surface cause can shift dramatically in its consequences when its dimensional profile is altered through attribution retraining.
+
+> [!section-summary] **Section 4 Core Takeaways** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Weiner's attribution-emotion model demonstrates that specific emotional experiences — pride, shame, guilt, anger, pity, gratitude — are generated by specific attributional profiles, not by outcomes alone. Shame and guilt are particularly consequential: shame arises from stable, uncontrollable failure attributions and produces withdrawal; guilt arises from controllable failure attributions and produces corrective action. Social emotions (anger, pity) follow parallel attribution logic in other-directed attribution contexts. The [[Control-Value-Theory]] extension integrates attributional control appraisals with value judgments to explain the full range of [[Academic-Emotions]]. These emotional mechanisms are the proximal drivers of the behavioral consequences examined in Section 5.
+
+> [!section-summary] **Section 6 Core Takeaways** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Attributional processes in social contexts involve systematic biases — the Fundamental Attribution Error, actor-observer asymmetry — that reflect the architecture of human person-perception and attentional deployment rather than random noise. Attributional ambiguity in stigmatized identities reveals that the clarity of attributional diagnosis is itself a privilege; many people face genuine epistemic uncertainty about whether negative outcomes reflect personal or systemic causes, with distinct psychological consequences. Self-handicapping demonstrates that attribution management is not merely retrospective but prospective — people strategically structure causal environments to protect preferred self-attributions. Each of these phenomena has direct implications for instructional design, feedback architecture, and institutional climate.
+
+> [!section-summary] **Section 7 Core Takeaways** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Cultural context modulates the fundamental bias architecture of Attribution Theory: the FAE is amplified in individualistic cultures and attenuated in collectivistic cultures; success attributions are more self-serving in individualistic contexts and more self-effacing in collectivistic ones. Attribution retraining programs require cultural adaptation before cross-cultural application. Developmentally, the capacity for stable ability attribution — the most psychologically costly attribution pattern — is a cognitive achievement that emerges in middle childhood through Nicholls' stages; this developmental trajectory positions the educational environment as a critical factor in shaping whether Stage 3 reasoning produces fixed-ability or incremental-ability frameworks.
+
+> [!section-summary] **Section 8 Core Takeaways** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> Attribution retraining has a rich empirical base across decades of educational research, with evidence for effectiveness from early childhood through university contexts. The most sophisticated current interventions target implicit theories of intelligence rather than specific failure attributions directly, recognizing that attributional tendencies are downstream expressions of deeper epistemic frameworks. Feedback design is attribution architecture — every feedback communication embeds attributional messages that shape students' causal frameworks; optimal feedback is controllable, unstable, internal, and prescriptive. Classroom ecology — assessment design, error norms, goal structure — constitutes a collective attribution environment that either protects or undermines individual students' capacity to maintain motivationally productive attributional frameworks.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> The intention-action gap is a real, empirically documented, and architecturally explicable phenomenon. It arises from failures at multiple points: the predecisional failure to cross the Rubicon into commitment; the absence of implementation plans that bind intentions to specific cues; competition from other intentions that crowd out effortful goal pursuit; motivational decay between intention formation and action opportunity; and insufficient [[Self-Efficacy]] to overcome initiation thresholds. Understanding this gap is the prerequisite for understanding why specific features of how goals are set and structured matter enormously.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Goal-Setting Theory establishes that goal *properties* — not simply the existence of goals — determine whether goals improve performance. Specifically, challenging and specific goals, when pursued with high commitment, produce higher performance than vague or easy goals, mediated by directing attention, mobilizing effort, sustaining persistence, and activating strategy. Feedback is a necessary co-condition, functioning through a discrepancy-monitoring loop that drives regulatory adjustment. These mechanisms map directly onto the cognitive architecture of [[Self-Regulated-Learning]]: to understand how goals function within SRL, we need to trace how these mechanisms operate across Zimmerman's three regulatory phases.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Zimmerman's Cyclical SRL Model provides the structural framework within which Goal-Setting Theory mechanisms operate. In the Forethought phase, goal-setting and strategic planning establish the directional, effort-mobilizing, persistence-sustaining intent. In the Performance phase, self-control and self-observation operationalize those intents through real-time regulation. In the Self-Reflection phase, evaluation and attribution determine whether the cycle generates adaptive growth or maladaptive entrenchment. The recursive nature of the model explains why early SRL investments pay compound returns: each high-quality cycle builds the self-knowledge, strategic repertoire, and motivational beliefs that improve subsequent cycles.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Volitional control occupies the critical space between goal formation and goal attainment, protecting goal pursuit against the psychological forces — competing motivations, affective interference, decision fatigue, environmental distraction — that convert sincere intentions into failed follow-throughs. The key mechanisms are: Kuhl's action-vs-state orientation (managing attentional focus under difficulty), [[Implementation-Intention|implementation intentions]] (pre-specifying situational triggers to automatize goal-directed behavior), emotion regulation strategies (reappraisal to maintain access to goal-directed cognition under stress), and progressive habit formation (transferring volitional demands to automatized cue-response structures). These mechanisms are not alternatives; they function as complementary layers of a volitional architecture.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Metacognition constitutes the epistemic infrastructure of SRL: without accurate monitoring of one's own cognitive processes, the feedback loops that drive regulatory adaptation cannot close. The critical variable is not metacognitive sophistication in the abstract but monitoring *accuracy* — calibration between self-assessment and actual performance. The Dunning-Kruger problem reveals that novice learners face a metacognitive deficit that makes externally-sourced calibration (testing, expert feedback) a necessary complement to endogenous self-monitoring. Above monitoring, metacognitive regulation — planning, monitoring, evaluation — orchestrates the SRL cycle; in Pintrich's extended framework, this regulation extends beyond cognition to motivation, behavior, and context. Metacognitive capacity is trainable, and its development represents one of the highest-leverage investments in long-term learning.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Goal quality — the motivational architecture of what is being pursued and why — fundamentally moderates the effectiveness of goal-setting procedures. Achievement goal orientation (mastery vs. performance vs. avoidance) determines the quality of regulatory engagement with task demands and responses to difficulty. [[Self-Determination-Theory]] identifies autonomous vs. controlled regulation as an independent moderator of engagement quality and wellbeing. Self-efficacy determines approach vs. avoidance behavior at the point of challenge. Optimal SRL requires goals that are simultaneously well-structured procedurally (specific, challenging, committed, with feedback) and well-constructed motivationally (mastery-oriented, autonomously regulated, efficacy-supportive). The absence of motivational quality degrades SRL outcomes even when procedural quality is high.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> The integrated model of goal-setting and SRL identifies four interacting systems — goal architecture, SRL cycle quality, volitional protection, and motivational orientation — each necessary and none sufficient alone. Goal properties operate directly within each SRL phase: specificity determines monitoring precision in the Performance phase, challenge calibration drives the effort mechanism, and commitment determines Rubicon crossing in Forethought. Self-concordance addresses the long-horizon motivational problem: goals that are genuinely aligned with values sustain the motivational investment that procedural excellence alone cannot guarantee. The recursive self-referentiality of SRL development means that the process of learning to self-regulate is itself the best context for developing self-regulatory skill.
+
+> [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> The translation of integrated SRL theory into practice requires five interacting design principles: goal architecture that is specifically structured, challenge-calibrated, and self-concordant; systematic implementation intentions that convert intentions to cue-triggered behaviors; externally sourced calibration that bypasses endogenous monitoring illusions; structured self-reflection practice with attributionally accurate prompts; and explicit motivational architecture that supports mastery orientation, autonomous regulation, and basic psychological need satisfaction. These principles function as a complete system: selective adoption without addressing the weakest component of the system will produce partial, unstable improvements rather than the compounding competence development that the full four-system architecture enables.
 
 
 
@@ -1113,6 +1827,776 @@ importance: high
 - [[Humanistic-Psychology|Humanistic Psychology]]
 - [[Growth-Mindset|Growth Mindset]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Related concepts** *(from [[attribution-theory-foundational-report-2026-04-03]], [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]], [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]], [[growth-mindset-first-principles-report-2026-03-11]], [[stoicism-codebase-pack]])*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Avi-Assor|Avi Assor]] * [[Guy-Roth|Guy Roth]] * [[Claudia-Mueller|Claudia Mueller]] * [[Bernard-Weiner|Bernard Weiner]] * [[Assessment-for-Learning|Assessment for Learning]] * [[Feedback-Timing|Feedback Timing]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Critical-Thinking-in-Education|Critical Thinking in Education]] * [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Cognitive-Biases|Cognitive Biases]]
+- [[Political-Philosophy|Political Philosophy]]
+- [[Virtue-Ethics|Virtue Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Cognitive-Psychology-Foundations|Cognitive-Psychology-Foundations]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Social-Cognitive-Theory-—-Bandura|Social-Cognitive-Theory-—-Bandura]]
+- [[Information-Processing-Theory|Information-Processing-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Attribution-Retraining|Attribution-Retraining]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Growth-Mindset-Theory|Growth-Mindset-Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Control-Value-Theory|Control-Value-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Learned-Helplessness|Learned-Helplessness]]
+- [[Locus-of-Control|Locus-of-Control]]
+- [[Academic-Emotions|Academic-Emotions]]
+- [[Implicit-Theory-of-Intelligence|Implicit-Theory-of-Intelligence]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Critical-Thinking-in-Education|Critical-Thinking-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Goal-Setting-Theory|Goal-Setting-Theory]]
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Metacognition|Metacognition]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Learning-System-Design|Learning-System-Design]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Feedback-Design|Feedback-Design]]
+- [[Metacognitive-Strategies-in-Education|Metacognitive-Strategies-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Executive-Function|Executive-Function]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Implementation-Intention|Implementation-Intention]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[pintrichs-framework-srl-focused-analysis-2026-03-23|pintrichs-framework-srl-focused-analysis-2026-03-23]]
+- [[zimmerman-cyclical-srl-focused-analysis-2026-03-23|zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
+- [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive-Science]]
+- [[Cognitive-Biases|Cognitive-Biases]]
+- [[Political-Philosophy|Political-Philosophy]]
+- [[Virtue-Ethics|Virtue-Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory-Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual-Process-Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford-&-Chater-Probabilistic-Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Cognitive-Psychology-Foundations|Cognitive-Psychology-Foundations]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Social-Cognitive-Theory-—-Bandura|Social-Cognitive-Theory-—-Bandura]]
+- [[Information-Processing-Theory|Information-Processing-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Attribution-Retraining|Attribution-Retraining]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Growth-Mindset-Theory|Growth-Mindset-Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Control-Value-Theory|Control-Value-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Learned-Helplessness|Learned-Helplessness]]
+- [[Locus-of-Control|Locus-of-Control]]
+- [[Academic-Emotions|Academic-Emotions]]
+- [[Implicit-Theory-of-Intelligence|Implicit-Theory-of-Intelligence]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Goal-Setting-Theory|Goal-Setting-Theory]]
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Metacognition|Metacognition]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Learning-System-Design|Learning-System-Design]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Feedback-Design|Feedback-Design]]
+- [[Metacognitive-Strategies-in-Education|Metacognitive-Strategies-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Executive-Function|Executive-Function]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Implementation-Intention|Implementation-Intention]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[pintrichs-framework-srl-focused-analysis-2026-03-23|pintrichs-framework-srl-focused-analysis-2026-03-23]]
+- [[zimmerman-cyclical-srl-focused-analysis-2026-03-23|zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
+- [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Cognitive-Psychology-Foundations|Cognitive-Psychology-Foundations]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Social-Cognitive-Theory-—-Bandura|Social-Cognitive-Theory-—-Bandura]]
+- [[Information-Processing-Theory|Information-Processing-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Attribution-Retraining|Attribution-Retraining]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Growth-Mindset-Theory|Growth-Mindset-Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Control-Value-Theory|Control-Value-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Learned-Helplessness|Learned-Helplessness]]
+- [[Locus-of-Control|Locus-of-Control]]
+- [[Academic-Emotions|Academic-Emotions]]
+- [[Implicit-Theory-of-Intelligence|Implicit-Theory-of-Intelligence]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Goal-Setting-Theory|Goal-Setting-Theory]]
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Metacognition|Metacognition]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Learning-System-Design|Learning-System-Design]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Feedback-Design|Feedback-Design]]
+- [[Metacognitive-Strategies-in-Education|Metacognitive-Strategies-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Executive-Function|Executive-Function]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Implementation-Intention|Implementation-Intention]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[pintrichs-framework-srl-focused-analysis-2026-03-23|pintrichs-framework-srl-focused-analysis-2026-03-23]]
+- [[zimmerman-cyclical-srl-focused-analysis-2026-03-23|zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
+- [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Related concepts** *(from [[attribution-theory-foundational-report-2026-04-03]], [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]], [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]], [[growth-mindset-first-principles-report-2026-03-11]], [[stoicism-codebase-pack]])*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Avi-Assor|Avi Assor]] * [[Guy-Roth|Guy Roth]] * [[Claudia-Mueller|Claudia Mueller]] * [[Bernard-Weiner|Bernard Weiner]] * [[Assessment-for-Learning|Assessment for Learning]] * [[Feedback-Timing|Feedback Timing]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Critical-Thinking-in-Education|Critical Thinking in Education]] * [[Schema-Theory|Schema Theory]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Cognitive-Biases|Cognitive Biases]]
+- [[Political-Philosophy|Political Philosophy]]
+- [[Virtue-Ethics|Virtue Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford & Chater Probabilistic Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Cognitive-Psychology-Foundations|Cognitive-Psychology-Foundations]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Social-Cognitive-Theory-—-Bandura|Social-Cognitive-Theory-—-Bandura]]
+- [[Information-Processing-Theory|Information-Processing-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Attribution-Retraining|Attribution-Retraining]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Growth-Mindset-Theory|Growth-Mindset-Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Control-Value-Theory|Control-Value-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Learned-Helplessness|Learned-Helplessness]]
+- [[Locus-of-Control|Locus-of-Control]]
+- [[Academic-Emotions|Academic-Emotions]]
+- [[Implicit-Theory-of-Intelligence|Implicit-Theory-of-Intelligence]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]])*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
+- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+- [[Critical-Thinking-in-Education|Critical-Thinking-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Goal-Setting-Theory|Goal-Setting-Theory]]
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Metacognition|Metacognition]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Learning-System-Design|Learning-System-Design]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Feedback-Design|Feedback-Design]]
+- [[Metacognitive-Strategies-in-Education|Metacognitive-Strategies-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Executive-Function|Executive-Function]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Implementation-Intention|Implementation-Intention]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[pintrichs-framework-srl-focused-analysis-2026-03-23|pintrichs-framework-srl-focused-analysis-2026-03-23]]
+- [[zimmerman-cyclical-srl-focused-analysis-2026-03-23|zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
+- [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[growth-mindset-first-principles-report-2026-03-11]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive-Science]]
+- [[Cognitive-Biases|Cognitive-Biases]]
+- [[Political-Philosophy|Political-Philosophy]]
+- [[Virtue-Ethics|Virtue-Ethics]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Memory-Consolidation|Memory-Consolidation]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Attribution-Theory|Attribution-Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy-Theory]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Stereotype-Threat|Stereotype-Threat]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Dual-Process-Theory|Dual-Process-Theory]]
+- [[Schema-Theory-(Bartlett,-Rumelhart)|Schema Theory (Bartlett, Rumelhart)]]
+- [[Situation-Models-(van-Dijk-&-Kintsch)|Situation Models (van Dijk & Kintsch)]]
+- [[Oaksford-&-Chater-Probabilistic-Approach|Oaksford-&-Chater-Probabilistic-Approach]]
+
+**Cross-report connections** *(from [[stoicism-codebase-pack]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic-vs-Extrinsic-Motivation]]
+- [[Humanistic-Psychology|Humanistic-Psychology]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Philosophy-of-Agency|Philosophy-of-Agency]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Cognitive-Psychology-Foundations|Cognitive-Psychology-Foundations]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Social-Cognitive-Theory-—-Bandura|Social-Cognitive-Theory-—-Bandura]]
+- [[Information-Processing-Theory|Information-Processing-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Attribution-Retraining|Attribution-Retraining]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Growth-Mindset-Theory|Growth-Mindset-Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Control-Value-Theory|Control-Value-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Learned-Helplessness|Learned-Helplessness]]
+- [[Locus-of-Control|Locus-of-Control]]
+- [[Academic-Emotions|Academic-Emotions]]
+- [[Implicit-Theory-of-Intelligence|Implicit-Theory-of-Intelligence]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Goal-Setting-Theory|Goal-Setting-Theory]]
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Metacognition|Metacognition]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Learning-System-Design|Learning-System-Design]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Feedback-Design|Feedback-Design]]
+- [[Metacognitive-Strategies-in-Education|Metacognitive-Strategies-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Executive-Function|Executive-Function]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Implementation-Intention|Implementation-Intention]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[pintrichs-framework-srl-focused-analysis-2026-03-23|pintrichs-framework-srl-focused-analysis-2026-03-23]]
+- [[zimmerman-cyclical-srl-focused-analysis-2026-03-23|zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
+- [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Cognitive-Psychology-Foundations|Cognitive-Psychology-Foundations]]
+- [[Motivational-Psychology|Motivational-Psychology]]
+- [[Social-Cognitive-Theory-—-Bandura|Social-Cognitive-Theory-—-Bandura]]
+- [[Information-Processing-Theory|Information-Processing-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Attribution-Retraining|Attribution-Retraining]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[Formative-Assessment|Formative-Assessment]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological-Safety-in-Learning-Environments]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Growth-Mindset-Theory|Growth-Mindset-Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+- [[Control-Value-Theory|Control-Value-Theory]]
+
+**Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
+- [[Learned-Helplessness|Learned-Helplessness]]
+- [[Locus-of-Control|Locus-of-Control]]
+- [[Academic-Emotions|Academic-Emotions]]
+- [[Implicit-Theory-of-Intelligence|Implicit-Theory-of-Intelligence]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Goal-Setting-Theory|Goal-Setting-Theory]]
+- [[Self-Regulated-Learning|Self-Regulated-Learning]]
+- [[Metacognition|Metacognition]]
+- [[Self-Determination-Theory|Self-Determination-Theory]]
+- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Learning-System-Design|Learning-System-Design]]
+- [[Deliberate-Practice|Deliberate-Practice]]
+- [[Habit-Formation|Habit-Formation]]
+- [[Feedback-Design|Feedback-Design]]
+- [[Metacognitive-Strategies-in-Education|Metacognitive-Strategies-in-Education]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[Executive-Function|Executive-Function]]
+- [[Growth-Mindset|Growth-Mindset]]
+- [[Implementation-Intention|Implementation-Intention]]
+- [[Intrinsic-Motivation|Intrinsic-Motivation]]
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+
+**Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
+- [[pintrichs-framework-srl-focused-analysis-2026-03-23|pintrichs-framework-srl-focused-analysis-2026-03-23]]
+- [[zimmerman-cyclical-srl-focused-analysis-2026-03-23|zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
+- [[sdt-srl-comparative-synthesis-2026-03-19|sdt-srl-comparative-synthesis-2026-03-19]]
+- [[Self-Efficacy|Self-Efficacy]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1835,6 +3319,1207 @@ For further study, the surviving texts themselves remain essential: Epictetus's 
 
 - **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
 
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.**: **Category:** Foundational Theory | **Significance:** The origin point of Attribution Theory. Introduced naive psychology, the personal/environmental causality distinction, and the foundational framework for all subsequent attribution research.
+
+- **Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), *Nebraska Symposium on Motivation* (Vol. 15, pp. 192-238). University of Nebraska Press.**: **Category:** Theoretical Development | **Significance:** First formal presentation of the ANOVA covariation model, establishing the consensus/distinctiveness/consistency analysis framework.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: **Category:** Theoretical Synthesis | **Significance:** The definitive statement of Weiner's dimensional model and its application to motivation and emotion. The core reference for educational applications of Attribution Theory.
+
+- **Jones, E. E., & Davis, K. E. (1965). From acts to dispositions: The attribution process in person perception. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 2, pp. 219-266). Academic Press.**: **Category:** Foundational Theory | **Significance:** Correspondent inference theory; the formal account of when observers make dispositional attributions.
+
+- **Ross, L. (1977). The intuitive psychologist and his shortcomings. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 10, pp. 173-220). Academic Press.**: **Category:** Applied Theory | **Significance:** Identification and naming of the Fundamental Attribution Error; systematic analysis of dispositional attribution biases.
+
+- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology, 87*(1), 49-74.**: **Category:** Clinical Application | **Significance:** The reformulated learned helplessness model introducing attributional style as the mechanism of depressive helplessness. Foundation of cognitive vulnerability-stress models of depression.
+
+- **Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674-685.**: **Category:** Educational Application | **Significance:** Classic experimental demonstration of attribution retraining effects on learned helplessness in children; the foundational study for the mastery/helpless response pattern distinction.
+
+- **Diener, C. I., & Dweck, C. S. (1978). An analysis of learned helplessness. *Journal of Personality and Social Psychology, 36*(5), 451-462.**: **Category:** Educational Application | **Significance:** Detailed qualitative and quantitative analysis of cognitive-motivational differences between mastery-oriented and helpless children after failure; documented the attribution-thought-strategy chain.
+
+- **Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology, 42*(2), 367-376.**: **Category:** Intervention Research | **Significance:** Pioneering experimental demonstration of attribution retraining with college freshmen; GPA improvement and reduced dropout through stability reframing.
+
+- **Miller, J. G. (1984). Culture and the development of everyday social explanation. *Journal of Personality and Social Psychology, 46*(5), 961-978.**: **Category:** Cross-Cultural | **Significance:** Landmark developmental-cross-cultural study demonstrating cultural divergence in dispositional vs. situational attribution tendencies across childhood — the foundational evidence that the FAE is culturally modulated.
+
+- **Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447-1451.**: **Category:** Intervention Research | **Significance:** High-impact demonstration of attributional belonging intervention effects on GPA and health across three years; particularly large effects for African-American students; widely cited in educational equity literature.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328-346.**: **Category:** Developmental | **Significance:** Formal developmental account of the differentiation of ability and effort conceptions; the Stage 1-2-3 developmental sequence; the foundation of developmental trajectory work in Attribution Theory.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Foundational: Goal-Setting Theory**: **Locke, E. A., & Latham, G. P.** (1990). *A theory of goal setting and task performance*. Prentice-Hall.
+**Locke, E. A., & Latham, G. P.** (2002). Building a practically useful theory of goal setting and task motivation. *American Psychologist, 57*(9), 705–717. https://doi.org/10.1037/0003-066X.57.9.705
+**Latham, G. P.** (2012). *Work motivation: History, theory, research, and practice* (2nd ed.). Sage.
+
+- **Foundational: Cyclical SRL Model and Development**: **Zimmerman, B. J.** (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.
+**Zimmerman, B. J., & Martinez-Pons, M.** (1990). Student differences in self-regulated learning. *Journal of Educational Psychology, 82*(1), 51–59.
+**Zimmerman, B. J., & Bandura, A.** (1994). Impact of self-regulatory influences on writing course attainment. *American Educational Research Journal, 31*(4), 845–862.
+
+- **Foundational: Motivational Frameworks**: **Pintrich, P. R.** (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 452–502). Academic Press.
+**Deci, E. L., & Ryan, R. M.** (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum Press.
+**Ryan, R. M., & Deci, E. L.** (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.
+**Dweck, C. S.** (1986). Motivational processes affecting learning. *American Psychologist, 41*(10), 1040–1048.
+**Elliot, A. J., & McGregor, H. A.** (2001). A 2×2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501–519.
+
+- **Foundational: Implementation Intentions and Volition**: **Gollwitzer, P. M.** (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503. https://doi.org/10.1037/0003-066X.54.7.493
+**Sheeran, P.** (2002). Intention-behavior relations: A conceptual and empirical review. *European Review of Social Psychology, 12*(1), 1–36.
+**Milne, S., Orbell, S., & Sheeran, P.** (2002). Combining motivational and volitional interventions to promote exercise participation. *British Journal of Health Psychology, 7*(2), 163–184.
+
+- **Metacognition and Calibration**: **Flavell, J. H.** (1979). Metacognition and cognitive monitoring. *American Psychologist, 34*(10), 906–911.
+**Dunlosky, J., & Metcalfe, J.** (2009). *Metacognition*. Sage.
+**Hacker, D. J., Dunlosky, J., & Graesser, A. C.** (Eds.). (2009). *Handbook of metacognition in education*. Routledge.
+
+- **Self-Concordance and Long-Horizon Motivation**: **Sheldon, K. M., & Elliot, A. J.** (1999). Goal striving, need satisfaction, and longitudinal well-being. *Journal of Personality and Social Psychology, 76*(3), 482–497.
+**Bandura, A.** (1997). *Self-efficacy: The exercise of control*. Freeman.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.**: **Category:** Foundational Theory | **Significance:** The origin point of Attribution Theory. Introduced naive psychology, the personal/environmental causality distinction, and the foundational framework for all subsequent attribution research.
+
+- **Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), *Nebraska Symposium on Motivation* (Vol. 15, pp. 192-238). University of Nebraska Press.**: **Category:** Theoretical Development | **Significance:** First formal presentation of the ANOVA covariation model, establishing the consensus/distinctiveness/consistency analysis framework.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: **Category:** Theoretical Synthesis | **Significance:** The definitive statement of Weiner's dimensional model and its application to motivation and emotion. The core reference for educational applications of Attribution Theory.
+
+- **Jones, E. E., & Davis, K. E. (1965). From acts to dispositions: The attribution process in person perception. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 2, pp. 219-266). Academic Press.**: **Category:** Foundational Theory | **Significance:** Correspondent inference theory; the formal account of when observers make dispositional attributions.
+
+- **Ross, L. (1977). The intuitive psychologist and his shortcomings. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 10, pp. 173-220). Academic Press.**: **Category:** Applied Theory | **Significance:** Identification and naming of the Fundamental Attribution Error; systematic analysis of dispositional attribution biases.
+
+- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology, 87*(1), 49-74.**: **Category:** Clinical Application | **Significance:** The reformulated learned helplessness model introducing attributional style as the mechanism of depressive helplessness. Foundation of cognitive vulnerability-stress models of depression.
+
+- **Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674-685.**: **Category:** Educational Application | **Significance:** Classic experimental demonstration of attribution retraining effects on learned helplessness in children; the foundational study for the mastery/helpless response pattern distinction.
+
+- **Diener, C. I., & Dweck, C. S. (1978). An analysis of learned helplessness. *Journal of Personality and Social Psychology, 36*(5), 451-462.**: **Category:** Educational Application | **Significance:** Detailed qualitative and quantitative analysis of cognitive-motivational differences between mastery-oriented and helpless children after failure; documented the attribution-thought-strategy chain.
+
+- **Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology, 42*(2), 367-376.**: **Category:** Intervention Research | **Significance:** Pioneering experimental demonstration of attribution retraining with college freshmen; GPA improvement and reduced dropout through stability reframing.
+
+- **Miller, J. G. (1984). Culture and the development of everyday social explanation. *Journal of Personality and Social Psychology, 46*(5), 961-978.**: **Category:** Cross-Cultural | **Significance:** Landmark developmental-cross-cultural study demonstrating cultural divergence in dispositional vs. situational attribution tendencies across childhood — the foundational evidence that the FAE is culturally modulated.
+
+- **Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447-1451.**: **Category:** Intervention Research | **Significance:** High-impact demonstration of attributional belonging intervention effects on GPA and health across three years; particularly large effects for African-American students; widely cited in educational equity literature.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328-346.**: **Category:** Developmental | **Significance:** Formal developmental account of the differentiation of ability and effort conceptions; the Stage 1-2-3 developmental sequence; the foundation of developmental trajectory work in Attribution Theory.
+
+- **Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.**: **Category:** Foundational Theory | **Significance:** The origin point of Attribution Theory. Introduced naive psychology, the personal/environmental causality distinction, and the foundational framework for all subsequent attribution research.
+
+- **Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), *Nebraska Symposium on Motivation* (Vol. 15, pp. 192-238). University of Nebraska Press.**: **Category:** Theoretical Development | **Significance:** First formal presentation of the ANOVA covariation model, establishing the consensus/distinctiveness/consistency analysis framework.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: **Category:** Theoretical Synthesis | **Significance:** The definitive statement of Weiner's dimensional model and its application to motivation and emotion. The core reference for educational applications of Attribution Theory.
+
+- **Jones, E. E., & Davis, K. E. (1965). From acts to dispositions: The attribution process in person perception. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 2, pp. 219-266). Academic Press.**: **Category:** Foundational Theory | **Significance:** Correspondent inference theory; the formal account of when observers make dispositional attributions.
+
+- **Ross, L. (1977). The intuitive psychologist and his shortcomings. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 10, pp. 173-220). Academic Press.**: **Category:** Applied Theory | **Significance:** Identification and naming of the Fundamental Attribution Error; systematic analysis of dispositional attribution biases.
+
+- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology, 87*(1), 49-74.**: **Category:** Clinical Application | **Significance:** The reformulated learned helplessness model introducing attributional style as the mechanism of depressive helplessness. Foundation of cognitive vulnerability-stress models of depression.
+
+- **Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674-685.**: **Category:** Educational Application | **Significance:** Classic experimental demonstration of attribution retraining effects on learned helplessness in children; the foundational study for the mastery/helpless response pattern distinction.
+
+- **Diener, C. I., & Dweck, C. S. (1978). An analysis of learned helplessness. *Journal of Personality and Social Psychology, 36*(5), 451-462.**: **Category:** Educational Application | **Significance:** Detailed qualitative and quantitative analysis of cognitive-motivational differences between mastery-oriented and helpless children after failure; documented the attribution-thought-strategy chain.
+
+- **Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology, 42*(2), 367-376.**: **Category:** Intervention Research | **Significance:** Pioneering experimental demonstration of attribution retraining with college freshmen; GPA improvement and reduced dropout through stability reframing.
+
+- **Miller, J. G. (1984). Culture and the development of everyday social explanation. *Journal of Personality and Social Psychology, 46*(5), 961-978.**: **Category:** Cross-Cultural | **Significance:** Landmark developmental-cross-cultural study demonstrating cultural divergence in dispositional vs. situational attribution tendencies across childhood — the foundational evidence that the FAE is culturally modulated.
+
+- **Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447-1451.**: **Category:** Intervention Research | **Significance:** High-impact demonstration of attributional belonging intervention effects on GPA and health across three years; particularly large effects for African-American students; widely cited in educational equity literature.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328-346.**: **Category:** Developmental | **Significance:** Formal developmental account of the differentiation of ability and effort conceptions; the Stage 1-2-3 developmental sequence; the foundation of developmental trajectory work in Attribution Theory.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.**: **Category:** Foundational Theory | **Significance:** The origin point of Attribution Theory. Introduced naive psychology, the personal/environmental causality distinction, and the foundational framework for all subsequent attribution research.
+
+- **Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), *Nebraska Symposium on Motivation* (Vol. 15, pp. 192-238). University of Nebraska Press.**: **Category:** Theoretical Development | **Significance:** First formal presentation of the ANOVA covariation model, establishing the consensus/distinctiveness/consistency analysis framework.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: **Category:** Theoretical Synthesis | **Significance:** The definitive statement of Weiner's dimensional model and its application to motivation and emotion. The core reference for educational applications of Attribution Theory.
+
+- **Jones, E. E., & Davis, K. E. (1965). From acts to dispositions: The attribution process in person perception. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 2, pp. 219-266). Academic Press.**: **Category:** Foundational Theory | **Significance:** Correspondent inference theory; the formal account of when observers make dispositional attributions.
+
+- **Ross, L. (1977). The intuitive psychologist and his shortcomings. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 10, pp. 173-220). Academic Press.**: **Category:** Applied Theory | **Significance:** Identification and naming of the Fundamental Attribution Error; systematic analysis of dispositional attribution biases.
+
+- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology, 87*(1), 49-74.**: **Category:** Clinical Application | **Significance:** The reformulated learned helplessness model introducing attributional style as the mechanism of depressive helplessness. Foundation of cognitive vulnerability-stress models of depression.
+
+- **Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674-685.**: **Category:** Educational Application | **Significance:** Classic experimental demonstration of attribution retraining effects on learned helplessness in children; the foundational study for the mastery/helpless response pattern distinction.
+
+- **Diener, C. I., & Dweck, C. S. (1978). An analysis of learned helplessness. *Journal of Personality and Social Psychology, 36*(5), 451-462.**: **Category:** Educational Application | **Significance:** Detailed qualitative and quantitative analysis of cognitive-motivational differences between mastery-oriented and helpless children after failure; documented the attribution-thought-strategy chain.
+
+- **Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology, 42*(2), 367-376.**: **Category:** Intervention Research | **Significance:** Pioneering experimental demonstration of attribution retraining with college freshmen; GPA improvement and reduced dropout through stability reframing.
+
+- **Miller, J. G. (1984). Culture and the development of everyday social explanation. *Journal of Personality and Social Psychology, 46*(5), 961-978.**: **Category:** Cross-Cultural | **Significance:** Landmark developmental-cross-cultural study demonstrating cultural divergence in dispositional vs. situational attribution tendencies across childhood — the foundational evidence that the FAE is culturally modulated.
+
+- **Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447-1451.**: **Category:** Intervention Research | **Significance:** High-impact demonstration of attributional belonging intervention effects on GPA and health across three years; particularly large effects for African-American students; widely cited in educational equity literature.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328-346.**: **Category:** Developmental | **Significance:** Formal developmental account of the differentiation of ability and effort conceptions; the Stage 1-2-3 developmental sequence; the foundation of developmental trajectory work in Attribution Theory.
+
+- **Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. https://doi.org/10.3102/003465430298487**: The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+- **Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74.**: The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+- **Mueller, C. M., & Dweck, C. S. (1998). Praise for Intelligence Can Undermine Children's Motivation and Performance. *Journal of Personality and Social Psychology, 75*(1), 33–52.**: The defining experimental demonstration of person vs. process praise effects, across six studies with fifth-grade participants. Documents that person praise produces entity-theory orientation, decreased task persistence, and lowered intrinsic motivation following initial success. Methodologically clean and widely cited. Directly supports the praise architecture treatment in Phase IV.
+
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation. *Psychological Bulletin, 125*(6), 627–668.**: Meta-analysis of 128 experimental studies examining how external rewards, including verbal feedback, affect intrinsic motivation. Distinguishes between informational and controlling functional significance of feedback events. Foundational support for the SDT mechanism of autonomy-undermining through controlling feedback. Directly supports Phase III SDT treatment.
+
+- **Assor, A., Kaplan, H., & Roth, G. (2002). Choice Is Good, But Relevance Is Excellent: Autonomy-Enhancing and Suppressing Teacher Behaviours Predicting Students' Engagement in Schoolwork. *British Journal of Educational Psychology, 72*(2), 261–278.**: Distinguishes autonomy-enhancing from autonomy-suppressing teaching behaviours through student report. Identifies specific behaviours — explaining rationale, acknowledging feelings, allowing self-paced work — that predict engagement. Provides empirical specificity to the SDT autonomy support construct. Directly supports Phase V design principles.
+
+- **Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of the entity/incremental theory research programme for a general audience, including extensive treatment of feedback implications. While a popular rather than strictly academic text, it provides the most accessible integration of the growth mindset constructs and their implications for praise and evaluation. Directly supports Phase III growth mindset treatment.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: The canonical theoretical statement of Weiner's attribution theory, elaborating the locus, stability, controllability dimensions and their motivational and emotional consequences. Provides the theoretical foundation for understanding why process vs. person praise operates as it does. Directly supports the attribution mechanism treatment in Phase IV.
+
+- **Ames, C. (1992). Classrooms: Goals, Structures, and Student Motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: Introduced the mastery/performance goal distinction and the concept of "TARGET" structures (Task, Authority, Recognition, Grouping, Evaluation, Time) for classroom environments. Provides the achievement goal framework that grounds the "mastery orientation" construct used throughout this report. Directly supports Phase II definitional work.
+
+- **Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ... & Dweck, C. S. (2019). A National Experiment Reveals Where a Growth Mindset Improves Achievement. *Nature, 573*(7774), 364–369.**: The most methodologically rigorous large-scale test of growth mindset intervention, finding small but positive effects for lower-achieving students under specific contextual conditions. Provides the nuanced evidence base for the limitations treatment in Phase V, and illustrates why the theory-to-intervention pipeline for growth mindset is more complex than early enthusiasm suggested.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+- **Dweck, C.S. (1999). *Self-Theories: Their Role in Motivation, Personality, and Development*. Psychology Press.**: The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+- **Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92(4), 548–573.**: The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+- **Sisk, V.F., et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science*, 29(4), 549–571.**: Large-scale meta-analysis finding that the relationship between mindset and academic achievement is very small (r ≈ .10), and that mindset interventions produce near-zero effects in general populations with potentially meaningful effects only in at-risk populations. Critical evidence against Assumption 6.
+
+- **Yeager, D.S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573, 364–369.**: The largest preregistered mindset intervention study to date, reporting small but significant effects on challenge-seeking and GPA for lower-achieving students at under-resourced schools. Most favorable recent evidence for targeted mindset effects; used to establish the scope condition for intervention efficacy.
+
+- **Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review*, 84(2), 191–215.**: Foundational paper establishing self-efficacy theory and the primacy of mastery experiences as the source of efficacy beliefs. The empirical and theoretical foundation for Axiom 2 of this report.
+
+- **Elliot, A.J., & Dweck, C.S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology*, 54(1), 5–12.**: The paper establishing the learning/performance goal distinction and demonstrating that goal orientation mediates the relationship between ability beliefs and behavioral responses to failure. Critical foundation for Axiom 3.
+
+- **Burgoyne, A.P., et al. (2020). How firm are the foundations of mind-set theory? The claims appear stronger than the evidence. *Psychological Science*, 31(3), 258–267.**: A systematic methodological critique finding that the evidence base for mindset theory's core causal claims is significantly weaker than typically presented, identifying issues with operationalization, causal inference, and publication bias. Essential methodological context for the assumption audit.
+
+- **Johnson-Laird, P.N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press.**: The foundational monograph. Establishes the theoretical framework, the contrast with rule-based theories, the empirical program, and the connection to model-theoretic semantics. Essential reading — but note that subsequent work has substantially revised the theory.
+
+- **Johnson-Laird, P.N. & Byrne, R.M.J. (1991). *Deduction*. Erlbaum.**: The major empirical program. Systematic investigation of syllogistic, propositional, and relational reasoning from the mental models perspective. Contains the most complete presentation of the model-number predictions.
+
+- **Rips, L.J. (1994). *The Psychology of Proof: Deductive Reasoning in Human Thinking*. MIT Press.**: The primary theoretical alternative. Develops the mental logic account (PSYCOP) in detail. Essential for understanding what mental models theory is *contrasted against*; also contains important methodological critiques.
+
+- **Evans, J.St.B.T., Newstead, S.E., & Byrne, R.M.J. (1993). *Human Reasoning: The Psychology of Deduction*. Erlbaum.**: Comprehensive review of the empirical literature. Remains a standard reference for the difficulty effects, belief-bias findings, and comparative performance of models and rules.
+
+- **Cheng, P.W. & Holyoak, K.J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology, 17*, 391–416.**: Introduces pragmatic reasoning schemas — the main alternative that accommodates content effects within a rule-based framework. Directly challenges the interpretation of facilitation effects as evidence for mental models.
+
+- **Oaksford, M. & Chater, N. (1994). A rational analysis of the selection task as optimal data selection. *Psychological Review, 101*, 608–631.**: Establishes the probabilistic rational analysis framework for the Wason selection task. Argues that human performance is near-optimal under realistic probabilistic assumptions — the most important challenge to both mental models and mental logic accounts.
+
+- **Pylyshyn, Z.W. (1981). The imagery debate: Analogue media versus tacit knowledge. *Psychological Review, 88*, 16–45.**: The canonical argument that apparent analog properties of mental imagery could be artifacts of tacit knowledge rather than evidence of a genuinely analog representational format. Applies directly to the analogical status of mental models.
+
+- **Van Dijk, T.A. & Kintsch, W. (1983). *Strategies of Discourse Comprehension*. Academic Press.**: Develops the situation model framework in discourse comprehension — the closest empirical tradition to mental models theory with stronger methodological development and broader empirical coverage.
+
+- **Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.**: The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+- **Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.**: The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+- **Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.**: **Category:** Foundational Theory | **Significance:** The origin point of Attribution Theory. Introduced naive psychology, the personal/environmental causality distinction, and the foundational framework for all subsequent attribution research.
+
+- **Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), *Nebraska Symposium on Motivation* (Vol. 15, pp. 192-238). University of Nebraska Press.**: **Category:** Theoretical Development | **Significance:** First formal presentation of the ANOVA covariation model, establishing the consensus/distinctiveness/consistency analysis framework.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: **Category:** Theoretical Synthesis | **Significance:** The definitive statement of Weiner's dimensional model and its application to motivation and emotion. The core reference for educational applications of Attribution Theory.
+
+- **Jones, E. E., & Davis, K. E. (1965). From acts to dispositions: The attribution process in person perception. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 2, pp. 219-266). Academic Press.**: **Category:** Foundational Theory | **Significance:** Correspondent inference theory; the formal account of when observers make dispositional attributions.
+
+- **Ross, L. (1977). The intuitive psychologist and his shortcomings. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 10, pp. 173-220). Academic Press.**: **Category:** Applied Theory | **Significance:** Identification and naming of the Fundamental Attribution Error; systematic analysis of dispositional attribution biases.
+
+- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology, 87*(1), 49-74.**: **Category:** Clinical Application | **Significance:** The reformulated learned helplessness model introducing attributional style as the mechanism of depressive helplessness. Foundation of cognitive vulnerability-stress models of depression.
+
+- **Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674-685.**: **Category:** Educational Application | **Significance:** Classic experimental demonstration of attribution retraining effects on learned helplessness in children; the foundational study for the mastery/helpless response pattern distinction.
+
+- **Diener, C. I., & Dweck, C. S. (1978). An analysis of learned helplessness. *Journal of Personality and Social Psychology, 36*(5), 451-462.**: **Category:** Educational Application | **Significance:** Detailed qualitative and quantitative analysis of cognitive-motivational differences between mastery-oriented and helpless children after failure; documented the attribution-thought-strategy chain.
+
+- **Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology, 42*(2), 367-376.**: **Category:** Intervention Research | **Significance:** Pioneering experimental demonstration of attribution retraining with college freshmen; GPA improvement and reduced dropout through stability reframing.
+
+- **Miller, J. G. (1984). Culture and the development of everyday social explanation. *Journal of Personality and Social Psychology, 46*(5), 961-978.**: **Category:** Cross-Cultural | **Significance:** Landmark developmental-cross-cultural study demonstrating cultural divergence in dispositional vs. situational attribution tendencies across childhood — the foundational evidence that the FAE is culturally modulated.
+
+- **Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447-1451.**: **Category:** Intervention Research | **Significance:** High-impact demonstration of attributional belonging intervention effects on GPA and health across three years; particularly large effects for African-American students; widely cited in educational equity literature.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328-346.**: **Category:** Developmental | **Significance:** Formal developmental account of the differentiation of ability and effort conceptions; the Stage 1-2-3 developmental sequence; the foundation of developmental trajectory work in Attribution Theory.
+
+- **Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.**: **Category:** Foundational Theory | **Significance:** The origin point of Attribution Theory. Introduced naive psychology, the personal/environmental causality distinction, and the foundational framework for all subsequent attribution research.
+
+- **Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), *Nebraska Symposium on Motivation* (Vol. 15, pp. 192-238). University of Nebraska Press.**: **Category:** Theoretical Development | **Significance:** First formal presentation of the ANOVA covariation model, establishing the consensus/distinctiveness/consistency analysis framework.
+
+- **Weiner, B. (1986). *An Attributional Theory of Motivation and Emotion*. Springer-Verlag.**: **Category:** Theoretical Synthesis | **Significance:** The definitive statement of Weiner's dimensional model and its application to motivation and emotion. The core reference for educational applications of Attribution Theory.
+
+- **Jones, E. E., & Davis, K. E. (1965). From acts to dispositions: The attribution process in person perception. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 2, pp. 219-266). Academic Press.**: **Category:** Foundational Theory | **Significance:** Correspondent inference theory; the formal account of when observers make dispositional attributions.
+
+- **Ross, L. (1977). The intuitive psychologist and his shortcomings. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 10, pp. 173-220). Academic Press.**: **Category:** Applied Theory | **Significance:** Identification and naming of the Fundamental Attribution Error; systematic analysis of dispositional attribution biases.
+
+- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology, 87*(1), 49-74.**: **Category:** Clinical Application | **Significance:** The reformulated learned helplessness model introducing attributional style as the mechanism of depressive helplessness. Foundation of cognitive vulnerability-stress models of depression.
+
+- **Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674-685.**: **Category:** Educational Application | **Significance:** Classic experimental demonstration of attribution retraining effects on learned helplessness in children; the foundational study for the mastery/helpless response pattern distinction.
+
+- **Diener, C. I., & Dweck, C. S. (1978). An analysis of learned helplessness. *Journal of Personality and Social Psychology, 36*(5), 451-462.**: **Category:** Educational Application | **Significance:** Detailed qualitative and quantitative analysis of cognitive-motivational differences between mastery-oriented and helpless children after failure; documented the attribution-thought-strategy chain.
+
+- **Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology, 42*(2), 367-376.**: **Category:** Intervention Research | **Significance:** Pioneering experimental demonstration of attribution retraining with college freshmen; GPA improvement and reduced dropout through stability reframing.
+
+- **Miller, J. G. (1984). Culture and the development of everyday social explanation. *Journal of Personality and Social Psychology, 46*(5), 961-978.**: **Category:** Cross-Cultural | **Significance:** Landmark developmental-cross-cultural study demonstrating cultural divergence in dispositional vs. situational attribution tendencies across childhood — the foundational evidence that the FAE is culturally modulated.
+
+- **Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447-1451.**: **Category:** Intervention Research | **Significance:** High-impact demonstration of attributional belonging intervention effects on GPA and health across three years; particularly large effects for African-American students; widely cited in educational equity literature.
+
+- **Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328-346.**: **Category:** Developmental | **Significance:** Formal developmental account of the differentiation of ability and effort conceptions; the Stage 1-2-3 developmental sequence; the foundation of developmental trajectory work in Attribution Theory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2142,6 +4827,55 @@ For further study, the surviving texts themselves remain essential: Epictetus's 
 > 3. **Response Rehearsal**: Mentally practice your virtuous response to each scenario
 > 4. **Acceptance**: Cultivate the attitude "if this happens, I will handle it with wisdom and courage"
 > 5. **Gratitude**: Recognize that these challenges have not yet occurred, fostering appreciation for the present
+
+> [!methodology-and-sources] **Methodological Note on the Foundational Period** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> The foundational work of Heider, Jones and Davis, and Kelley was primarily theoretical and philosophical rather than experimental. Kelley's covariation model, while elegant and formally coherent, was generated largely by rational analysis rather than extensive empirical testing. Subsequent experimental work confirmed many predictions but also revealed systematic departures — people do not function as ideal covariation analysts, particularly under time pressure, emotional arousal, or motivational involvement. These departures became the subject of the attributional biases literature examined in Section 6.
+
+> [!methodology-and-sources] **Evidence Quality on Persistence and Help-Seeking** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> The attributional research on persistence and effort is among the most extensively replicated in educational psychology, particularly the Dweck-tradition work on mastery versus helpless response patterns. The help-seeking literature is somewhat more methodologically contested — field studies show less clean attribution-help-seeking relationships than laboratory paradigms, likely because real classroom contexts involve more complex social dynamics (teacher attributions, peer environments, cultural scripts about help-seeking competence) that moderate the basic attribution-behavior link.
+
+> [!methodology-and-sources] **Research Foundation and Epistemological Transparency** *(from [[attribution-theory-foundational-report-2026-04-03]])*
+> This report synthesizes the core theoretical and empirical literature in Attribution Theory from its foundations (Heider, 1958) through the applied intervention literature (Wilson & Linville, 1982; Walton & Cohen, 2011) and cross-cultural extensions (Miller, 1984). The claim taxonomy is as follows:
+> 
+> | Claim Type | Examples | Confidence |
+> |-----------|----------|------------|
+> | **Established theoretical framework** | Weiner's dimensional model, ANOVA covariation model | High — consensus across decades of published attribution research |
+> | **Empirically replicated findings** | Attribution-persistence relationship, FAE, cultural modulation of dispositional bias | High — multiple independent replications; meta-analytic support |
+> | **Intervention effectiveness** | Attribution retraining effects on GPA; mindset intervention effects | Moderate-High — replicated main effects; heterogeneous implementation contexts |
+> | **Developmental trajectory** | Nicholls' three-stage ability-effort differentiation | Moderate — strong in original studies; less extensively replicated cross-culturally |
+> | **Clinical application** | Attribution style as depression diathesis | High — prospective studies, clinical trial support for CBT attributional components |
+> | **Emerging/Applied extensions** | AI Human-Computer Interaction applications | Speculative — early-stage research applying established principles to novel domain |
+> 
+> **Important limitations:** (1) Much foundational Attribution Theory research used Western, educated, university-student samples; cultural generalizability should be evaluated case by case. (2) The meta-analytic picture on actor-observer asymmetry is more qualified than the foundational accounts suggested — this report flags this complexity but cannot fully adjudicate the contested literature. (3) Attribution retraining intervention effects, while real, show heterogeneous implementation fidelity in naturalistic educational contexts; effect sizes in field studies are typically smaller than laboratory demonstrations.
+> 
+> **AI Transparency:** This report was generated by Claude (Anthropic). All citations represent references that existed as real published works. No citations were fabricated. Classification of studies by category and confidence level is the AI author's interpretive judgment and should be verified against the primary literature before high-stakes use.
+
+> [!methodology-and-sources] **Research Methodology Note** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> Locke and Latham's core findings derive primarily from laboratory studies with assigned goals and performance on specific tasks (e.g., logging industry productivity, clerical work). The theory's generalization to self-set goals, complex learning tasks, and longer time horizons involves genuine extrapolation. Research by Zimmerman, Pintrich, and colleagues on SRL broadly supports the generalization but identifies important complications: the motivational implications of goal origin (autonomous vs. controlled) significantly moderate outcomes in educational contexts in ways the original industrial-organizational framework did not fully anticipate.
+
+> [!methodology-and-sources] **Transfer Research Grounding** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> The far transfer analysis draws on established frameworks from the [[Transfer-of-Learning]] literature (Halpern & Hakel, 2003; Barnett & Ceci, 2002; Perkins & Salomon, 1992) and extends the regulatory principles of this report into adjacent performance domains. The structural principle for each domain is identified: the abstract feature that the domain shares with the SRL system, which enables the goal-setting and SRL concepts to be applied despite surface dissimilarities. Boundary conditions are specified to prevent inappropriate over-extension.
+
+> [!methodology-and-sources] **Research Methodology and Epistemic Transparency** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
+> **Claim Taxonomy:**
+> | Claim Type | Examples in Report | Confidence |
+> |-----------|-------------------|------------|
+> | Well-established empirical | Specificity-performance relationship; implementation intention effect sizes; self-efficacy-achievement correlation | High — extensively replicated |
+> | Moderate evidence | Motivational orientation interactions; metacognitive calibration mechanisms | Medium — consistent pattern, mechanistic details debated |
+> | Theoretical interpretation | Four-system integration architecture; self-referential SRL development | Theoretical — supported by component literature, not directly tested as an integrated system |
+> | Extrapolation | Far transfer domains; organizational SRL | Plausible structural analogy — boundary conditions apply |
+> 
+> **Source Characteristics**: Primarily empirical and theoretical literature from educational psychology (Zimmerman, Pintrich, Dweck), organizational psychology (Locke, Latham), motivation science (Deci, Ryan, Elliot), and cognitive science (Flavell, metacognition literature). All named researchers are real; all cited works are actual publications. No fabricated sources.
+> 
+> **Limitations**: The integration model proposed in Section 7 represents a theoretical synthesis that, while grounded in each component literature, has not been tested as a complete four-system framework. Individual moderating relationships may show different relative weights across learning domains, developmental stages, and cultural contexts. The report treats the North American/Western European research base as primary; cross-cultural generalization requires caution.
+> 
+> **AI Transparency**: This report was generated by Claude (Anthropic) as a synthesis of the educational psychology, motivation science, and cognitive regulation literature. It reflects the structure of the evidence as represented in those literatures but should be read as a scholarly synthesis rather than as original empirical research.
+
+
+
+
+
+
 
 
 

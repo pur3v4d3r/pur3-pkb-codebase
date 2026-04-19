@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -72,8 +72,6 @@ see-also:
   - "[[Robert-Ennis|Robert Ennis]]"
   - "[[Critical-Thinking|critical thinking]]"
   - "[[misinformation]]"
-  - "[[Critical-Thinking|Critical thinking]]"
-  - "[[Critical-Thinking|critical thinking]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Benjamin-Bloom|Benjamin Bloom]]"
@@ -223,6 +221,56 @@ importance: high
 **Related concepts:**
 [[Robert-Ennis|Robert Ennis]] · [[Critical-Thinking|critical thinking]] · [[misinformation]] · [[Critical-Thinking|Critical thinking]] · [[Critical-Thinking|critical thinking]] · [[Socratic-Method|Socratic Method]] · [[John-Dewey|John Dewey]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Working-Memory|Working memory]] · [[John-Sweller|John Sweller]] · [[Cognitive-Load-Theory|cognitive load theory]] · [[Daniel-Willingham|Daniel Willingham]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Metacognition]] · [[Ann-Brown|Ann Brown]] · [[John-Flavell|John Flavell]] · [[Tim-van-Gelder|Tim van Gelder]] · [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] · [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] · [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]] · [[Metacognition-in-Learning|Metacognition in Learning]] · [[Bloom's-Taxonomy|Bloom's Taxonomy]] · [[Inquiry-Based-Learning|Inquiry-Based Learning]] · [[Socratic-Method|Socratic Method]] · [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]] · [[Assessment-of-Critical-Thinking-—-Tools-and-Methods|Assessment of Critical Thinking — Tools and Methods]] · [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] · [[Argument-Mapping-—-Theory-and-Practice|Argument Mapping — Theory and Practice]] · [[Critical-Thinking-Across-the-Curriculum-—-Subject-Specific-Integration|Critical Thinking Across the Curriculum — Subject-Specific Integration]] · [[Philosophy-for-Children-P4C-—-Lipman's-Programme|Philosophy for Children (P4C) — Lipman's Programme]]
 
+**Related concepts** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Cognitive-Load-Theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] * [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]] * [[Metacognition-in-Learning|Metacognition in Learning]] * [[Bloom's-Taxonomy|Bloom's Taxonomy]] * [[Inquiry-Based-Learning|Inquiry-Based Learning]] * [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]] * [[Assessment-of-Critical-Thinking-—-Tools-and-Methods|Assessment of Critical Thinking — Tools and Methods]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Argument-Mapping-—-Theory-and-Practice|Argument Mapping — Theory and Practice]] * [[Critical-Thinking-Across-the-Curriculum-—-Subject-Specific-Integration|Critical Thinking Across the Curriculum — Subject-Specific Integration]] * [[Philosophy-for-Children-(P4C)-—-Lipman's-Programme|Philosophy for Children (P4C) — Lipman's Programme]] * [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] * [[Foundational-Report-Generator-v1.0|Foundational-Report-Generator-v1.0]]
+
+**Cross-report connections** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+- [[Metacognition-in-Learning|Metacognition-in-Learning]]
+- [[Bloom's-Taxonomy|Bloom's-Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based-Learning]]
+- [[Socratic-Method|Socratic-Method]]
+
+**Related concepts** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+[[Robert-Ennis|Robert Ennis]] * [[Critical-Thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-Memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Cognitive-Load-Theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] * [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]] * [[Metacognition-in-Learning|Metacognition in Learning]] * [[Bloom's-Taxonomy|Bloom's Taxonomy]] * [[Inquiry-Based-Learning|Inquiry-Based Learning]] * [[Socratic-Seminars-—-Design-and-Facilitation|Socratic Seminars — Design and Facilitation]] * [[Assessment-of-Critical-Thinking-—-Tools-and-Methods|Assessment of Critical Thinking — Tools and Methods]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Argument-Mapping-—-Theory-and-Practice|Argument Mapping — Theory and Practice]] * [[Critical-Thinking-Across-the-Curriculum-—-Subject-Specific-Integration|Critical Thinking Across the Curriculum — Subject-Specific Integration]] * [[Philosophy-for-Children-(P4C)-—-Lipman's-Programme|Philosophy for Children (P4C) — Lipman's Programme]] * [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]]
+
+**Cross-report connections** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from [[critical-thinking-educational-settings-foundational-report-2026-03-05]])*:
+- [[Metacognition-in-Learning|Metacognition-in-Learning]]
+- [[Bloom's-Taxonomy|Bloom's-Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based-Learning]]
+- [[Socratic-Method|Socratic-Method]]
+
+
+
+
+
+
+
+
+
 ## References
 
 - **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
@@ -236,6 +284,168 @@ importance: high
 - **McPeck, J. E. (1981). *Critical Thinking and Education*. St. Martin's Press.**: The most influential articulation of the domain-specificity argument, challenging the assumption that CT is a transferable, general skill and arguing instead that critical thinking is always thinking critically *about* something, requiring substantial domain knowledge. Essential for understanding the theoretical debate that shaped subsequent CT scholarship.
 
 *Citations sourced from [[critical-thinking-educational-settings-foundational-report-2026-03-05]]*
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
+
+- **Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research*, 85(2), 275–314.**: The most comprehensive quantitative synthesis of research on CT instruction effectiveness, covering 341 studies. Finds positive overall effects (d = 0.30), with stronger effects for explicit CT instruction embedded in content than for stand-alone CT courses or implicit approaches. Essential empirical grounding for any evidence-based CT pedagogy.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The widely accessible synthesis of dual process theory and behavioural economics research, establishing System 1 and System 2 as popular explanatory frameworks for cognitive biases and the challenges of deliberative reasoning. Provides the cognitive science foundation for understanding why CT is difficult and why default human reasoning is prone to predictable errors.
+
+- **Willingham, D. T. (2007). Critical thinking: Why is it so hard to teach? *American Educator*, 31(2), 8–19.**: A concise, accessible, and empirically grounded treatment of the knowledge-dependence of CT and the transfer problem. Essential reading for educators who believe CT can be taught effectively without rich content knowledge. Argues persuasively that the two are inseparable.
+
+- **McPeck, J. E. (1981). *Critical Thinking and Education*. St. Martin's Press.**: The most influential articulation of the domain-specificity argument, challenging the assumption that CT is a transferable, general skill and arguing instead that critical thinking is always thinking critically *about* something, requiring substantial domain knowledge. Essential for understanding the theoretical debate that shaped subsequent CT scholarship.
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
+
+- **Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research*, 85(2), 275–314.**: The most comprehensive quantitative synthesis of research on CT instruction effectiveness, covering 341 studies. Finds positive overall effects (d = 0.30), with stronger effects for explicit CT instruction embedded in content than for stand-alone CT courses or implicit approaches. Essential empirical grounding for any evidence-based CT pedagogy.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The widely accessible synthesis of dual process theory and behavioural economics research, establishing System 1 and System 2 as popular explanatory frameworks for cognitive biases and the challenges of deliberative reasoning. Provides the cognitive science foundation for understanding why CT is difficult and why default human reasoning is prone to predictable errors.
+
+- **Willingham, D. T. (2007). Critical thinking: Why is it so hard to teach? *American Educator*, 31(2), 8–19.**: A concise, accessible, and empirically grounded treatment of the knowledge-dependence of CT and the transfer problem. Essential reading for educators who believe CT can be taught effectively without rich content knowledge. Argues persuasively that the two are inseparable.
+
+- **McPeck, J. E. (1981). *Critical Thinking and Education*. St. Martin's Press.**: The most influential articulation of the domain-specificity argument, challenging the assumption that CT is a transferable, general skill and arguing instead that critical thinking is always thinking critically *about* something, requiring substantial domain knowledge. Essential for understanding the theoretical debate that shaped subsequent CT scholarship.
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
+
+- **Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research*, 85(2), 275–314.**: The most comprehensive quantitative synthesis of research on CT instruction effectiveness, covering 341 studies. Finds positive overall effects (d = 0.30), with stronger effects for explicit CT instruction embedded in content than for stand-alone CT courses or implicit approaches. Essential empirical grounding for any evidence-based CT pedagogy.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The widely accessible synthesis of dual process theory and behavioural economics research, establishing System 1 and System 2 as popular explanatory frameworks for cognitive biases and the challenges of deliberative reasoning. Provides the cognitive science foundation for understanding why CT is difficult and why default human reasoning is prone to predictable errors.
+
+- **Willingham, D. T. (2007). Critical thinking: Why is it so hard to teach? *American Educator*, 31(2), 8–19.**: A concise, accessible, and empirically grounded treatment of the knowledge-dependence of CT and the transfer problem. Essential reading for educators who believe CT can be taught effectively without rich content knowledge. Argues persuasively that the two are inseparable.
+
+- **McPeck, J. E. (1981). *Critical Thinking and Education*. St. Martin's Press.**: The most influential articulation of the domain-specificity argument, challenging the assumption that CT is a transferable, general skill and arguing instead that critical thinking is always thinking critically *about* something, requiring substantial domain knowledge. Essential for understanding the theoretical debate that shaped subsequent CT scholarship.
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
+
+- **Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research*, 85(2), 275–314.**: The most comprehensive quantitative synthesis of research on CT instruction effectiveness, covering 341 studies. Finds positive overall effects (d = 0.30), with stronger effects for explicit CT instruction embedded in content than for stand-alone CT courses or implicit approaches. Essential empirical grounding for any evidence-based CT pedagogy.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The widely accessible synthesis of dual process theory and behavioural economics research, establishing System 1 and System 2 as popular explanatory frameworks for cognitive biases and the challenges of deliberative reasoning. Provides the cognitive science foundation for understanding why CT is difficult and why default human reasoning is prone to predictable errors.
+
+- **Willingham, D. T. (2007). Critical thinking: Why is it so hard to teach? *American Educator*, 31(2), 8–19.**: A concise, accessible, and empirically grounded treatment of the knowledge-dependence of CT and the transfer problem. Essential reading for educators who believe CT can be taught effectively without rich content knowledge. Argues persuasively that the two are inseparable.
+
+- **McPeck, J. E. (1981). *Critical Thinking and Education*. St. Martin's Press.**: The most influential articulation of the domain-specificity argument, challenging the assumption that CT is a transferable, general skill and arguing instead that critical thinking is always thinking critically *about* something, requiring substantial domain knowledge. Essential for understanding the theoretical debate that shaped subsequent CT scholarship.
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
+
+- **Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research*, 85(2), 275–314.**: The most comprehensive quantitative synthesis of research on CT instruction effectiveness, covering 341 studies. Finds positive overall effects (d = 0.30), with stronger effects for explicit CT instruction embedded in content than for stand-alone CT courses or implicit approaches. Essential empirical grounding for any evidence-based CT pedagogy.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The widely accessible synthesis of dual process theory and behavioural economics research, establishing System 1 and System 2 as popular explanatory frameworks for cognitive biases and the challenges of deliberative reasoning. Provides the cognitive science foundation for understanding why CT is difficult and why default human reasoning is prone to predictable errors.
+
+- **Willingham, D. T. (2007). Critical thinking: Why is it so hard to teach? *American Educator*, 31(2), 8–19.**: A concise, accessible, and empirically grounded treatment of the knowledge-dependence of CT and the transfer problem. Essential reading for educators who believe CT can be taught effectively without rich content knowledge. Argues persuasively that the two are inseparable.
+
+- **McPeck, J. E. (1981). *Critical Thinking and Education*. St. Martin's Press.**: The most influential articulation of the domain-specificity argument, challenging the assumption that CT is a transferable, general skill and arguing instead that critical thinking is always thinking critically *about* something, requiring substantial domain knowledge. Essential for understanding the theoretical debate that shaped subsequent CT scholarship.
+
+- **Bloom, B. S., et al. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain*. David McKay Company.**: The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+- **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.**: The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+- **Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction* (The Delphi Report). California Academic Press.**: The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+- **Paul, R., & Elder, L. (2006). *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (2nd ed.). Pearson Education.**: The most accessible book-length treatment of the Paul-Elder framework, presenting the Elements of Thought and Intellectual Standards in a format suitable for both instructors and students. Provides practical tools for classroom implementation.
+
+- **Ennis, R. H. (1989). Critical thinking and subject specificity: Clarification and needed research. *Educational Researcher*, 18(3), 4–10.**: The key article articulating the moderate position on the domain-generality debate — arguing that some CT components are general while others require domain-specific knowledge. Essential for anyone designing CT instruction across disciplinary contexts.
+
+- **Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research*, 85(2), 275–314.**: The most comprehensive quantitative synthesis of research on CT instruction effectiveness, covering 341 studies. Finds positive overall effects (d = 0.30), with stronger effects for explicit CT instruction embedded in content than for stand-alone CT courses or implicit approaches. Essential empirical grounding for any evidence-based CT pedagogy.
+
+- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: The widely accessible synthesis of dual process theory and behavioural economics research, establishing System 1 and System 2 as popular explanatory frameworks for cognitive biases and the challenges of deliberative reasoning. Provides the cognitive science foundation for understanding why CT is difficult and why default human reasoning is prone to predictable errors.
+
+- **Willingham, D. T. (2007). Critical thinking: Why is it so hard to teach? *American Educator*, 31(2), 8–19.**: A concise, accessible, and empirically grounded treatment of the knowledge-dependence of CT and the transfer problem. Essential reading for educators who believe CT can be taught effectively without rich content knowledge. Argues persuasively that the two are inseparable.
+
+- **McPeck, J. E. (1981). *Critical Thinking and Education*. St. Martin's Press.**: The most influential articulation of the domain-specificity argument, challenging the assumption that CT is a transferable, general skill and arguing instead that critical thinking is always thinking critically *about* something, requiring substantial domain knowledge. Essential for understanding the theoretical debate that shaped subsequent CT scholarship.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methodology Notes
 

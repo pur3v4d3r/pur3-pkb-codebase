@@ -27,7 +27,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -127,6 +127,14 @@ importance: medium
 
 **Related concepts** *(from reference-guide-yaml-frontmatter-20251122124616.md)*:
 [[YAML-Frontmatter|YAML Frontmatter]] * [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] * [[ISO-8601|ISO 8601]] * [[Project-Management|Project Management]] * [[Task-Management|Task Management]] * [[Knowledge-Graph|Knowledge Graph]] * [[Source-Note|Source Note]] * [[Obsidian-Plugins|Obsidian Plugins]] * [[Obsidian-Publish|Obsidian Publish]] * [[Prompt-Engineering|Prompt Engineering]]
+
+**Related concepts** *(from [[reference-guide-yaml-frontmatter-20251122124616]])*:
+[[YAML-Frontmatter|YAML Frontmatter]] * [[ISO-8601|ISO 8601]] * [[Project-Management|Project Management]] * [[Task-Management|Task Management]] * [[Knowledge-Graph|Knowledge Graph]] * [[Source-Note|Source Note]] * [[Obsidian-Plugins|Obsidian Plugins]] * [[Obsidian-Publish|Obsidian Publish]] * [[Prompt-Engineering|Prompt Engineering]]
+
+**Related concepts** *(from [[reference-guide-yaml-frontmatter-20251122124616]])*:
+[[YAML-Frontmatter|YAML Frontmatter]] * [[ISO-8601|ISO 8601]] * [[Project-Management|Project Management]] * [[Task-Management|Task Management]] * [[Knowledge-Graph|Knowledge Graph]] * [[Source-Note|Source Note]] * [[Obsidian-Plugins|Obsidian Plugins]] * [[Obsidian-Publish|Obsidian Publish]] * [[Prompt-Engineering|Prompt Engineering]]
+
+
 
 
 ## Source Attribution

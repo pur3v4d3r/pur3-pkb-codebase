@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -74,7 +74,6 @@ see-also:
   - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
   - "[[David-Ausubel|David Ausubel]]"
   - "[[Schema]]"
-  - "[[Advance-Organizers|Advance Organizers]]"
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
   - "[[KWL-Strategy|KWL Strategy]]"
   - "[[Bridging-Analogies|Bridging Analogies]]"
@@ -82,8 +81,6 @@ see-also:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
-  - "[[Schema-Theory|Schema Theory]]"
-  - "[[Schema]]"
   - "[[Procedural-Knowledge|Procedural Knowledge]]"
   - "[[Episodic-Memory|Episodic Memory]]"
   - "[[Mental-Model|Mental Model]]"
@@ -251,6 +248,62 @@ importance: high
 **Related concepts:**
 [[Advance-Organizers|Advance Organizers]] · [[Prior-Knowledge-Activation|Prior Knowledge Activation]] · [[David-Ausubel|David Ausubel]] · [[Schema]] · [[Advance-Organizers|Advance Organizers]] · [[Elaborative-Interrogation|Elaborative Interrogation]] · [[KWL-Strategy|KWL Strategy]] · [[Bridging-Analogies|Bridging Analogies]] · [[Pre-questioning]] · [[Schema-Theory|Schema Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Transfer-of-Learning|Transfer of Learning]] · [[Schema-Theory|Schema Theory]] · [[Schema]] · [[Procedural-Knowledge|Procedural Knowledge]] · [[Episodic-Memory|Episodic Memory]] · [[Mental-Model|Mental Model]] · [[Long-Term-Memory|Long-Term Memory]] · [[Dochy,-Segers-&-Buehl-1999|Dochy, Segers & Buehl (1999)]] · [[Patricia-Alexander|Patricia Alexander]] · [[Ausubel]] · [[David-Ausubel|David Ausubel]] · [[Assimilation-Theory|Assimilation Theory]] · [[Schema-Theory|Schema Theory]] · [[Frederic-Bartlett|Frederic Bartlett]] · [[Jean-Piaget|Jean Piaget]] · [[Richard-Anderson|Richard Anderson]] · [[Schema-Theory|Schema Theory]] · [[Prior-Knowledge|Prior Knowledge]] · [[John-Bransford|John Bransford]]
 
+**Related concepts** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Procedural-Knowledge|Procedural Knowledge]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Patricia-Alexander|Patricia Alexander]] * [[Assimilation-Theory|Assimilation Theory]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[Jean-Piaget|Jean Piaget]] * [[Richard-Anderson|Richard Anderson]] * [[Prior-Knowledge|Prior Knowledge]] * [[John-Bransford|John Bransford]] * [[Ann-Brown|Ann Brown]] * [[Luiten,-Ames-&-Ackerson-(1980)|Luiten, Ames & Ackerson (1980)]] * [[Stone-(1983)|Stone (1983)]] * [[Mayer-(1979)|Mayer (1979)]] * [[Richard-Mayer|Richard Mayer]] * [[Frances-Lawton|Frances Lawton]] * [[Alexander,-Kulikowich-&-Schulze-(1994)|Alexander, Kulikowich & Schulze (1994)]] * [[Conceptual-Change-Theory|Conceptual Change Theory]] * [[Working-Memory|Working Memory]]
+
+**Cross-report connections** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+- [[Advance-Organizers|Advance-Organizers]]
+- [[Prior-Knowledge-Activation|Prior-Knowledge-Activation]]
+- [[Schema-Theory|Schema-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+
+**Related concepts** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Procedural-Knowledge|Procedural Knowledge]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Patricia-Alexander|Patricia Alexander]] * [[Assimilation-Theory|Assimilation Theory]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[Jean-Piaget|Jean Piaget]] * [[Richard-Anderson|Richard Anderson]] * [[Prior-Knowledge|Prior Knowledge]] * [[John-Bransford|John Bransford]] * [[Ann-Brown|Ann Brown]] * [[Luiten,-Ames-&-Ackerson-(1980)|Luiten, Ames & Ackerson (1980)]] * [[Stone-(1983)|Stone (1983)]] * [[Mayer-(1979)|Mayer (1979)]] * [[Richard-Mayer|Richard Mayer]] * [[Frances-Lawton|Frances Lawton]] * [[Alexander,-Kulikowich-&-Schulze-(1994)|Alexander, Kulikowich & Schulze (1994)]] * [[Conceptual-Change-Theory|Conceptual Change Theory]] * [[Working-Memory|Working Memory]]
+
+**Cross-report connections** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]])*:
+- [[Advance-Organizers|Advance-Organizers]]
+- [[Prior-Knowledge-Activation|Prior-Knowledge-Activation]]
+- [[Schema-Theory|Schema-Theory]]
+- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
+
+
+
+
+
+
+
+
+
 ## References
 
 - **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
@@ -264,6 +317,168 @@ importance: high
 - **Ogle, D. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher*, 39(6), 564–570.**: The original presentation of the KWL (Know, Want to Know, Learned) strategy, which remains one of the most widely used classroom prior knowledge activation protocols. Direct application of advance organizer principles in a highly practical format. Relevant to Phase V's practitioner framework.
 
 *Citations sourced from [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]]*
+
+- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
+
+- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
+
+- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
+
+- **Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research*, 69(2), 145–186.**: A comprehensive review establishing that prior knowledge explains 30–60% of variance in post-instruction performance across 183 studies — the most compelling empirical demonstration of prior knowledge's primacy. Supports Phase II's core claim about prior knowledge as the dominant learning variable. More recent than the advance organizer meta-analyses and broader in scope.
+
+- **Alexander, P. A., Kulikowich, J. M., & Schulze, S. K. (1994). How subject-matter knowledge affects recall and interest. *American Educational Research Journal*, 31(2), 313–337.**: Demonstrates the interaction between prior domain knowledge, situational interest, and learning from text, establishing that the benefits of knowledge-based processing are maximized when interest is also present. Relevant to the motivation-cognition integration theme across multiple PKB nodes.
+
+- **Woloshyn, V. E., Pressley, M., & Schneider, W. (1992). Elaborative-interrogation and prior-knowledge effects on learning of facts. *Journal of Educational Psychology*, 84(1), 115–124.**: Key comparative study establishing that elaborative interrogation (Why is this true?) produces more robust learning benefits than advance organizers, particularly for learners with relevant prior knowledge. Motivates the argument in Phase V that ongoing activation during instruction may be more powerful than front-loaded activation.
+
+- **Ogle, D. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher*, 39(6), 564–570.**: The original presentation of the KWL (Know, Want to Know, Learned) strategy, which remains one of the most widely used classroom prior knowledge activation protocols. Direct application of advance organizer principles in a highly practical format. Relevant to Phase V's practitioner framework.
+
+- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
+
+- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
+
+- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
+
+- **Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research*, 69(2), 145–186.**: A comprehensive review establishing that prior knowledge explains 30–60% of variance in post-instruction performance across 183 studies — the most compelling empirical demonstration of prior knowledge's primacy. Supports Phase II's core claim about prior knowledge as the dominant learning variable. More recent than the advance organizer meta-analyses and broader in scope.
+
+- **Alexander, P. A., Kulikowich, J. M., & Schulze, S. K. (1994). How subject-matter knowledge affects recall and interest. *American Educational Research Journal*, 31(2), 313–337.**: Demonstrates the interaction between prior domain knowledge, situational interest, and learning from text, establishing that the benefits of knowledge-based processing are maximized when interest is also present. Relevant to the motivation-cognition integration theme across multiple PKB nodes.
+
+- **Woloshyn, V. E., Pressley, M., & Schneider, W. (1992). Elaborative-interrogation and prior-knowledge effects on learning of facts. *Journal of Educational Psychology*, 84(1), 115–124.**: Key comparative study establishing that elaborative interrogation (Why is this true?) produces more robust learning benefits than advance organizers, particularly for learners with relevant prior knowledge. Motivates the argument in Phase V that ongoing activation during instruction may be more powerful than front-loaded activation.
+
+- **Ogle, D. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher*, 39(6), 564–570.**: The original presentation of the KWL (Know, Want to Know, Learned) strategy, which remains one of the most widely used classroom prior knowledge activation protocols. Direct application of advance organizer principles in a highly practical format. Relevant to Phase V's practitioner framework.
+
+- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
+
+- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
+
+- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
+
+- **Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research*, 69(2), 145–186.**: A comprehensive review establishing that prior knowledge explains 30–60% of variance in post-instruction performance across 183 studies — the most compelling empirical demonstration of prior knowledge's primacy. Supports Phase II's core claim about prior knowledge as the dominant learning variable. More recent than the advance organizer meta-analyses and broader in scope.
+
+- **Alexander, P. A., Kulikowich, J. M., & Schulze, S. K. (1994). How subject-matter knowledge affects recall and interest. *American Educational Research Journal*, 31(2), 313–337.**: Demonstrates the interaction between prior domain knowledge, situational interest, and learning from text, establishing that the benefits of knowledge-based processing are maximized when interest is also present. Relevant to the motivation-cognition integration theme across multiple PKB nodes.
+
+- **Woloshyn, V. E., Pressley, M., & Schneider, W. (1992). Elaborative-interrogation and prior-knowledge effects on learning of facts. *Journal of Educational Psychology*, 84(1), 115–124.**: Key comparative study establishing that elaborative interrogation (Why is this true?) produces more robust learning benefits than advance organizers, particularly for learners with relevant prior knowledge. Motivates the argument in Phase V that ongoing activation during instruction may be more powerful than front-loaded activation.
+
+- **Ogle, D. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher*, 39(6), 564–570.**: The original presentation of the KWL (Know, Want to Know, Learned) strategy, which remains one of the most widely used classroom prior knowledge activation protocols. Direct application of advance organizer principles in a highly practical format. Relevant to Phase V's practitioner framework.
+
+- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
+
+- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
+
+- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
+
+- **Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research*, 69(2), 145–186.**: A comprehensive review establishing that prior knowledge explains 30–60% of variance in post-instruction performance across 183 studies — the most compelling empirical demonstration of prior knowledge's primacy. Supports Phase II's core claim about prior knowledge as the dominant learning variable. More recent than the advance organizer meta-analyses and broader in scope.
+
+- **Alexander, P. A., Kulikowich, J. M., & Schulze, S. K. (1994). How subject-matter knowledge affects recall and interest. *American Educational Research Journal*, 31(2), 313–337.**: Demonstrates the interaction between prior domain knowledge, situational interest, and learning from text, establishing that the benefits of knowledge-based processing are maximized when interest is also present. Relevant to the motivation-cognition integration theme across multiple PKB nodes.
+
+- **Woloshyn, V. E., Pressley, M., & Schneider, W. (1992). Elaborative-interrogation and prior-knowledge effects on learning of facts. *Journal of Educational Psychology*, 84(1), 115–124.**: Key comparative study establishing that elaborative interrogation (Why is this true?) produces more robust learning benefits than advance organizers, particularly for learners with relevant prior knowledge. Motivates the argument in Phase V that ongoing activation during instruction may be more powerful than front-loaded activation.
+
+- **Ogle, D. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher*, 39(6), 564–570.**: The original presentation of the KWL (Know, Want to Know, Learned) strategy, which remains one of the most widely used classroom prior knowledge activation protocols. Direct application of advance organizer principles in a highly practical format. Relevant to Phase V's practitioner framework.
+
+- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
+
+- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
+
+- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
+
+- **Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research*, 69(2), 145–186.**: A comprehensive review establishing that prior knowledge explains 30–60% of variance in post-instruction performance across 183 studies — the most compelling empirical demonstration of prior knowledge's primacy. Supports Phase II's core claim about prior knowledge as the dominant learning variable. More recent than the advance organizer meta-analyses and broader in scope.
+
+- **Alexander, P. A., Kulikowich, J. M., & Schulze, S. K. (1994). How subject-matter knowledge affects recall and interest. *American Educational Research Journal*, 31(2), 313–337.**: Demonstrates the interaction between prior domain knowledge, situational interest, and learning from text, establishing that the benefits of knowledge-based processing are maximized when interest is also present. Relevant to the motivation-cognition integration theme across multiple PKB nodes.
+
+- **Woloshyn, V. E., Pressley, M., & Schneider, W. (1992). Elaborative-interrogation and prior-knowledge effects on learning of facts. *Journal of Educational Psychology*, 84(1), 115–124.**: Key comparative study establishing that elaborative interrogation (Why is this true?) produces more robust learning benefits than advance organizers, particularly for learners with relevant prior knowledge. Motivates the argument in Phase V that ongoing activation during instruction may be more powerful than front-loaded activation.
+
+- **Ogle, D. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher*, 39(6), 564–570.**: The original presentation of the KWL (Know, Want to Know, Learned) strategy, which remains one of the most widely used classroom prior knowledge activation protocols. Direct application of advance organizer principles in a highly practical format. Relevant to Phase V's practitioner framework.
+
+- **Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51(5), 267–272.**: The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+- **Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart & Winston.**: Ausubel's comprehensive theoretical treatment of assimilation theory, meaningful learning, and advance organizers. The source of the famous opening sentence about prior knowledge. Phase III of this report draws heavily on this work. Dense but foundational for anyone wanting the full theoretical apparatus.
+
+- **Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**: The foundational text of schema theory, establishing through recall experiments that memory is reconstructive rather than reproductive — shaped by existing schemas, cultural expectations, and inferential processes. The War of the Ghosts study is the most cited demonstration. Directly supports the schema theory account developed in Phase III.
+
+- **Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research*, 49(2), 371–383.**: The most important early meta-analytic review, establishing the key finding that advance organizers benefit transfer (productive learning) more than verbatim retention (reproductive learning). Introduces the definitional critique that many "organizer" studies do not use genuinely Ausubelian materials. Essential for calibrating claims about what organizers actually produce.
+
+- **Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal*, 17(2), 211–218.**: The largest early meta-analysis, synthesizing 135 studies and reporting a mean effect size of d ≈ 0.44. Often cited as the definitive demonstration of organizer effectiveness, but the definitional heterogeneity problem applies — many included studies used materials that do not meet Ausubel's criteria. Should be read alongside Stone (1983) and Mayer (1979) for a calibrated picture.
+
+- **Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research*, 69(2), 145–186.**: A comprehensive review establishing that prior knowledge explains 30–60% of variance in post-instruction performance across 183 studies — the most compelling empirical demonstration of prior knowledge's primacy. Supports Phase II's core claim about prior knowledge as the dominant learning variable. More recent than the advance organizer meta-analyses and broader in scope.
+
+- **Alexander, P. A., Kulikowich, J. M., & Schulze, S. K. (1994). How subject-matter knowledge affects recall and interest. *American Educational Research Journal*, 31(2), 313–337.**: Demonstrates the interaction between prior domain knowledge, situational interest, and learning from text, establishing that the benefits of knowledge-based processing are maximized when interest is also present. Relevant to the motivation-cognition integration theme across multiple PKB nodes.
+
+- **Woloshyn, V. E., Pressley, M., & Schneider, W. (1992). Elaborative-interrogation and prior-knowledge effects on learning of facts. *Journal of Educational Psychology*, 84(1), 115–124.**: Key comparative study establishing that elaborative interrogation (Why is this true?) produces more robust learning benefits than advance organizers, particularly for learners with relevant prior knowledge. Motivates the argument in Phase V that ongoing activation during instruction may be more powerful than front-loaded activation.
+
+- **Ogle, D. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher*, 39(6), 564–570.**: The original presentation of the KWL (Know, Want to Know, Learned) strategy, which remains one of the most widely used classroom prior knowledge activation protocols. Direct application of advance organizer principles in a highly practical format. Relevant to Phase V's practitioner framework.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Methodology Notes
 

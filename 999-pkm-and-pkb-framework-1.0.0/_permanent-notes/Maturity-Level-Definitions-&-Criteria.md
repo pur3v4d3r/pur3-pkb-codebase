@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -181,6 +181,14 @@ importance: medium
 
 **Related concepts** *(from reference-instructional-pkb-review-system-2025120322.md)*:
 [[PKB-Review-System:-Complete-Implementation-Package|PKB Review System: Complete Implementation Package]] * [[Stoic-Philosophy|Stoic Philosophy]] * [[Cognitive-Science|Cognitive Science]] * [[External-Cognition|External Cognition]] * [[Epistemic-Beliefs|Epistemic Beliefs]] * [[Extended-Cognition|Extended Cognition]] * [[Illusion-of-Competence|Illusion of Competence]] * [[Retrieval-Pathways|Retrieval Pathways]] * [[Testing-Effect|Testing Effect]] * [[Spacing-Effect|Spacing Effect]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Dichotomy-of-Control|Dichotomy of Control]] * [[Premeditatio-Malorum|Premeditatio Malorum]] * [[View-from-Above|View from Above]] * [[Memento-Mori|Memento Mori]] * [[Amor-Fati|Amor Fati]] * [[Epistemic-Certainty|Epistemic Certainty]] * [[ReAct-Framework|ReAct Framework]] * [[Context-Switching|Context Switching]] * [[review-system-implementation-guide|review-system-implementation-guide]] * [[Templater|Templater]] * [[REACT-Protocol|REACT Protocol]] * [[prompt-engineering-moc|prompt-engineering-moc]] * [[learning-theory-moc|learning-theory-moc]] * [[artificial-intelligence-moc|artificial-intelligence-moc]] * [[cosmology-moc|cosmology-moc]] * [[neuroscience-moc|neuroscience-moc]] * [[wiki-links|wiki-links]] * [[Templater-User-Scripts|Templater User Scripts]] * [[Obsidian/Advanced|Obsidian/Advanced]]
+
+**Related concepts** *(from [[reference-instructional-pkb-review-system-2025120322]])*:
+[[PKB-Review-System:-Complete-Implementation-Package|PKB Review System: Complete Implementation Package]] * [[Stoic-Philosophy|Stoic Philosophy]] * [[Cognitive-Science|Cognitive Science]] * [[External-Cognition|External Cognition]] * [[Epistemic-Beliefs|Epistemic Beliefs]] * [[Extended-Cognition|Extended Cognition]] * [[Illusion-of-Competence|Illusion of Competence]] * [[Retrieval-Pathways|Retrieval Pathways]] * [[Testing-Effect|Testing Effect]] * [[Spacing-Effect|Spacing Effect]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Dichotomy-of-Control|Dichotomy of Control]] * [[Premeditatio-Malorum|Premeditatio Malorum]] * [[View-from-Above|View from Above]] * [[Memento-Mori|Memento Mori]] * [[Amor-Fati|Amor Fati]] * [[Epistemic-Certainty|Epistemic Certainty]] * [[ReAct-Framework|ReAct Framework]] * [[Context-Switching|Context Switching]] * [[REACT-Protocol|REACT Protocol]] * [[Templater-User-Scripts|Templater User Scripts]] * [[Template-Automation|Template-Automation]] * [[Spaced-Repetition-Algorithms|Spaced Repetition Algorithms]] * [[Review-Friction-Reduction|Review Friction Reduction]] * [[PKM/Workflow|PKM/Workflow]] * [[productivity|Productivity]] * [[Template-Versioning-Strategies|Template Versioning Strategies]] * [[PKB/Maintenance|PKB/Maintenance]] * [[Version-Control|Version-Control]] * [[Dataview|Dataview]]
+
+**Related concepts** *(from [[reference-instructional-pkb-review-system-2025120322]])*:
+[[PKB-Review-System:-Complete-Implementation-Package|PKB Review System: Complete Implementation Package]] * [[Stoic-Philosophy|Stoic Philosophy]] * [[Cognitive-Science|Cognitive Science]] * [[External-Cognition|External Cognition]] * [[Epistemic-Beliefs|Epistemic Beliefs]] * [[Extended-Cognition|Extended Cognition]] * [[Illusion-of-Competence|Illusion of Competence]] * [[Retrieval-Pathways|Retrieval Pathways]] * [[Testing-Effect|Testing Effect]] * [[Spacing-Effect|Spacing Effect]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Dichotomy-of-Control|Dichotomy of Control]] * [[Premeditatio-Malorum|Premeditatio Malorum]] * [[View-from-Above|View from Above]] * [[Memento-Mori|Memento Mori]] * [[Amor-Fati|Amor Fati]] * [[Epistemic-Certainty|Epistemic Certainty]] * [[ReAct-Framework|ReAct Framework]] * [[Context-Switching|Context Switching]] * [[REACT-Protocol|REACT Protocol]] * [[Templater-User-Scripts|Templater User Scripts]] * [[Spaced-Repetition-Algorithms|Spaced Repetition Algorithms]] * [[Review-Friction-Reduction|Review Friction Reduction]] * [[Template-Versioning-Strategies|Template Versioning Strategies]] * [[Meta-Bind|Meta Bind]] * [[Meta-Bind-Advanced-Patterns|Meta Bind Advanced Patterns]] * [[Obsidian/Plugins|Obsidian/Plugins]] * [[Meta-Bind|Meta-Bind]] * [[Frontmatter-Schema-Design|Frontmatter Schema Design]] * [[PKB/Metadata|PKB/Metadata]]
+
+
 
 
 ## Methodology Notes

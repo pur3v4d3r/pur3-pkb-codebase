@@ -37,7 +37,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -179,6 +179,34 @@ importance: high
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
 - [[fluency-effects|fluency effects]]
 - [[Metacognition|Metacognition]]
+
+**Related concepts** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
+[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]] * [[fluency-effects|fluency effects]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[philosophy-of-mind|philosophy of mind]] * [[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]] * [[Epistemology-MOC|Epistemology MOC]] * [[Foundational-Report:-Philosophy-of-Mind|Foundational Report: Philosophy of Mind]] * [[First-Principles:-What-Is-Knowledge?|First Principles: What Is Knowledge?]] * [[Knowing-That-Knowing-How|Knowing-That-Knowing-How]] * [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended-Mind-Theory-—-Philosophy-of-Mind]] * [[Foundational-Report-Philosophy-of-Mind|Foundational-Report-Philosophy-of-Mind]] * [[First-Principles-What-Is-Knowledge|First-Principles-What-Is-Knowledge]]
+
+**Cross-report connections** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+**Cross-report connections** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+**Cross-report connections** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
+- [[Transfer-of-Learning|Transfer-of-Learning]]
+- [[Tacit-Knowledge|Tacit-Knowledge]]
+- [[Illusion-of-Explanatory-Depth|Illusion-of-Explanatory-Depth]]
+- [[fluency-effects|fluency-effects]]
+- [[Metacognition|Metacognition]]
+
+
+
+
 
 
 

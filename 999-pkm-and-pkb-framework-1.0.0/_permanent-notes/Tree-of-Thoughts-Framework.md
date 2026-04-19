@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -194,6 +194,30 @@ importance: medium
 - [[Circuit-Complexity-Theory|Circuit Complexity Theory]]
 - [[Mechanistic-Interpretability|Mechanistic Interpretability]]
 - [[Prompt-Engineering|Prompt Engineering]]
+
+**Related concepts** *(from [[prompt-report-chain-of-thought-logic-2025122305]])*:
+[[Transformer-Architecture|Transformer Architecture]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Emergent-Abilities|Emergent Abilities]] * [[Tree-of-Thoughts|Tree of Thoughts]] * [[Logical-Reasoning|Logical Reasoning]] * [[Working-Memory|Working Memory]] * [[Jason-Wei|Jason Wei]] * [[Google-Research|Google Research]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Explicit-Reasoning-Protocols|Explicit Reasoning Protocols]] * [[Large-Language-Models|Large Language Models]] * [[Symbolic-Logic|Symbolic Logic]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Wei-et-al.-(2022)|Wei et al. (2022)]] * [[Few-Shot-Prompting|Few-Shot Prompting]] * [[Protocol-Analysis|Protocol Analysis]] * [[Think-Aloud-Protocols|Think-Aloud Protocols]] * [[Human-Reasoning|Human Reasoning]] * [[Circuit-Complexity-Theory|Circuit Complexity Theory]] * [[Feng-et-al.-(2024)|Feng et al. (2024)]] * [[Attention-Mechanism|Attention Mechanism]] * [[Phase-Transitions-in-Neural-Networks|Phase Transitions in Neural Networks]] * [[Mechanistic-Interpretability|Mechanistic Interpretability]] * [[Meincke-et-al.-(2025)|Meincke et al. (2025)]] * [[Wang-et-al.-(2022)|Wang et al. (2022)]] * [[Ensemble-Learning|Ensemble Learning]] * [[Bootstrap-Aggregating|Bootstrap Aggregating]] * [[Yao-et-al.-(2023)|Yao et al. (2023)]] * [[Breadth-First-Search|Breadth-First Search]] * [[Depth-First-Search|Depth-First Search]]
+
+**Cross-report connections** *(from [[prompt-report-chain-of-thought-logic-2025122305]])*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attention-Mechanism|Attention Mechanism]]
+- [[Circuit-Complexity-Theory|Circuit Complexity Theory]]
+- [[Mechanistic-Interpretability|Mechanistic Interpretability]]
+- [[Prompt-Engineering|Prompt Engineering]]
+
+**Related concepts** *(from [[prompt-report-chain-of-thought-logic-2025122305]])*:
+[[Transformer-Architecture|Transformer Architecture]] * [[Few-Shot-Learning|Few-Shot Learning]] * [[Emergent-Abilities|Emergent Abilities]] * [[Tree-of-Thoughts|Tree of Thoughts]] * [[Logical-Reasoning|Logical Reasoning]] * [[Working-Memory|Working Memory]] * [[Jason-Wei|Jason Wei]] * [[Google-Research|Google Research]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Explicit-Reasoning-Protocols|Explicit Reasoning Protocols]] * [[Large-Language-Models|Large Language Models]] * [[Symbolic-Logic|Symbolic Logic]] * [[Commonsense-Reasoning|Commonsense Reasoning]] * [[Wei-et-al.-(2022)|Wei et al. (2022)]] * [[Few-Shot-Prompting|Few-Shot Prompting]] * [[Protocol-Analysis|Protocol Analysis]] * [[Think-Aloud-Protocols|Think-Aloud Protocols]] * [[Human-Reasoning|Human Reasoning]] * [[Circuit-Complexity-Theory|Circuit Complexity Theory]] * [[Feng-et-al.-(2024)|Feng et al. (2024)]] * [[Attention-Mechanism|Attention Mechanism]] * [[Phase-Transitions-in-Neural-Networks|Phase Transitions in Neural Networks]] * [[Mechanistic-Interpretability|Mechanistic Interpretability]] * [[Meincke-et-al.-(2025)|Meincke et al. (2025)]] * [[Wang-et-al.-(2022)|Wang et al. (2022)]] * [[Ensemble-Learning|Ensemble Learning]] * [[Bootstrap-Aggregating|Bootstrap Aggregating]] * [[Yao-et-al.-(2023)|Yao et al. (2023)]] * [[Breadth-First-Search|Breadth-First Search]] * [[Depth-First-Search|Depth-First Search]]
+
+**Cross-report connections** *(from [[prompt-report-chain-of-thought-logic-2025122305]])*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attention-Mechanism|Attention Mechanism]]
+- [[Circuit-Complexity-Theory|Circuit Complexity Theory]]
+- [[Mechanistic-Interpretability|Mechanistic Interpretability]]
+- [[Prompt-Engineering|Prompt Engineering]]
+
+
+
+
 
 
 

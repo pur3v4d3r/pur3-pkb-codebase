@@ -5,6 +5,7 @@
 title: "Sunk cost fallacy"
 aliases:
   - "Sunk cost fallacy"
+  - "sunk-cost-fallacy"
 type: permanent-note
 status: seedling
 confidence: low

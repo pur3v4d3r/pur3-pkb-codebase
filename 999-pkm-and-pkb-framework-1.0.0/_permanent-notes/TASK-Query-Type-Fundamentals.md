@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-01
-updated: 2026-04-01
+updated: 2026-04-18
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -88,8 +88,6 @@ see-also:
   - "[[GTD-Workflow|GTD Workflow]]"
   - "[[Dashboard-Design|Dashboard Design]]"
   - "[[Query-Performance|Query Performance]]"
-  - "[[Dataview-Plugin|Dataview Plugin]]"
-  - "[[Task-Management|Task Management]]"
   - "[[Obsidian]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -659,6 +657,24 @@ importance: medium
 
 **Related concepts:**
 [[Dataview-Task-Query-Reference|Dataview Task Query Reference]] · [[Dataview-Plugin|Dataview Plugin]] · [[Task-Management|Task Management]] · [[DQL]] · [[DataviewJS]] · [[Tasks-Plugin|Tasks Plugin]] · [[YAML-Frontmatter|YAML Frontmatter]] · [[Inline-Fields|Inline Fields]] · [[Daily-Notes|Daily Notes]] · [[WHERE-Clause|WHERE Clause]] · [[GROUP-BY|GROUP BY]] · [[Date-Functions|Date Functions]] · [[Priority-Management|Priority Management]] · [[03-notes01-permanent-notes02-personal-knowledge-baseTime-Blocking|03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] · [[GTD-Workflow|GTD Workflow]] · [[Dashboard-Design|Dashboard Design]] · [[Query-Performance|Query Performance]] · [[Dataview-Plugin|Dataview Plugin]] · [[Task-Management|Task Management]] · [[Obsidian]] · [[DQL]] · [[DataviewJS]] · [[Tasks-Plugin|Tasks Plugin]] · [[Inline-Fields|Inline Fields]] · [[03-notes01-permanent-notes02-personal-knowledge-baseTime-Blocking|03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] · [[Dataview-Plugin|Dataview Plugin]] · [[Dataview-Plugin|Dataview Plugin]] · [[Note]] · [[Note]] · [[Inline-Fields|Inline Fields]]
+
+**Related concepts** *(from [[reference-comprehensive-dataview-tasks-quieries-2025120204]])*:
+[[Dataview-Task-Query-Reference|Dataview Task Query Reference]] * [[Dataview-Plugin|Dataview Plugin]] * [[Task-Management|Task Management]] * [[Tasks-Plugin|Tasks Plugin]] * [[YAML-Frontmatter|YAML Frontmatter]] * [[Inline-Fields|Inline Fields]] * [[Daily-Notes|Daily Notes]] * [[WHERE-Clause|WHERE Clause]] * [[GROUP-BY|GROUP BY]] * [[Date-Functions|Date Functions]] * [[Priority-Management|Priority Management]] * [[GTD-Workflow|GTD Workflow]] * [[Dashboard-Design|Dashboard Design]] * [[Query-Performance|Query Performance]] * [[Project-Alpha|Project Alpha]] * [[Q4-Planning|Q4 Planning]] * [[Project-Name|Project Name]] * [[Dataview-Query-Optimization-Techniques|Dataview Query Optimization Techniques]] * [[Obsidian-Architecture|Obsidian Architecture]] * [[JavaScript-Performance|JavaScript Performance]] * [[Tasks-Plugin-Advanced-Workflows|Tasks Plugin Advanced Workflows]] * [[Productivity-Systems|Productivity Systems]] * [[DataviewJS-Custom-Functions-Library|DataviewJS Custom Functions Library]] * [[JavaScript|JavaScript]] * [[Functional-Programming|Functional Programming]] * [[Obsidian-API|Obsidian API]] * [[Dashboard-Design-Principles-for-PKM|Dashboard Design Principles for PKM]] * [[Information-Architecture|Information Architecture]] * [[User-Interface-Design|User Interface Design]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+
+**Cross-report connections** *(from [[reference-comprehensive-dataview-tasks-quieries-2025120204]])*:
+- [[Tasks-Plugin|Tasks Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
+
+**Related concepts** *(from [[reference-comprehensive-dataview-tasks-quieries-2025120204]])*:
+[[Dataview-Task-Query-Reference|Dataview Task Query Reference]] * [[Dataview-Plugin|Dataview Plugin]] * [[Task-Management|Task Management]] * [[Tasks-Plugin|Tasks Plugin]] * [[YAML-Frontmatter|YAML Frontmatter]] * [[Inline-Fields|Inline Fields]] * [[Daily-Notes|Daily Notes]] * [[WHERE-Clause|WHERE Clause]] * [[GROUP-BY|GROUP BY]] * [[Date-Functions|Date Functions]] * [[Priority-Management|Priority Management]] * [[GTD-Workflow|GTD Workflow]] * [[Dashboard-Design|Dashboard Design]] * [[Query-Performance|Query Performance]] * [[Project-Alpha|Project Alpha]] * [[Q4-Planning|Q4 Planning]] * [[Project-Name|Project Name]] * [[Dataview-Query-Optimization-Techniques|Dataview Query Optimization Techniques]] * [[Obsidian-Architecture|Obsidian Architecture]] * [[JavaScript-Performance|JavaScript Performance]] * [[Tasks-Plugin-Advanced-Workflows|Tasks Plugin Advanced Workflows]] * [[Productivity-Systems|Productivity Systems]] * [[DataviewJS-Custom-Functions-Library|DataviewJS Custom Functions Library]] * [[Functional-Programming|Functional Programming]] * [[Obsidian-API|Obsidian API]] * [[Dashboard-Design-Principles-for-PKM|Dashboard Design Principles for PKM]] * [[Information-Architecture|Information Architecture]] * [[User-Interface-Design|User Interface Design]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[Data-Visualization|Data Visualization]]
+
+**Cross-report connections** *(from [[reference-comprehensive-dataview-tasks-quieries-2025120204]])*:
+- [[Tasks-Plugin|Tasks Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
+
+
+
+
 
 ## Methodology Notes
 
