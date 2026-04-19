@@ -1,73 +1,110 @@
 ---
 # DOCUMENT IDENTIFICATION
 
-doc_id: {{Unique identifier for the document, e.g., "cognitive-science-overview"}}
-doc_type: {{Type of document, e.g., "Report", "Article", "Summary", "Analysis"}}
-doc_created: {{Creation date, e.g., "2024-06-01"}}
-doc_modified: {{Last modified date, e.g., "2024-06-01"}}
-author: {{Author's name, e.g., "ChatGPT"}}
+doc_id: topics-prompt-topic-inventory
+doc_type: Topic Inventory
+doc_created: 2026-04-19
+doc_modified: 2026-04-19
+author: GitHub Copilot
 
 # CLASSIFICATION & DISCOVERY
-primary_domain: {{Primary domain of knowledge, e.g., "Cognitive Science"}}
-secondary_domains: {{List of secondary domains, e.g., ["Philosophy", "Neuroscience"]}}
-related_concepts: {{List of related concepts, e.g., ["[[Concept A]]", "[[Theory B]]"]}}
-knowledge_level: {{Level of depth, e.g., "Encyclopedic overview", "In-depth technical analysis", "Historical context"}}
-tags: {{List of relevant tags, e.g., ["#cognition", "#philosophy", "#neuroscience"]}}
+primary_domain: Learning Sciences
+secondary_domains:
+  - Cognitive Science
+  - Educational Psychology
+  - Philosophy of Education
+  - Personal Knowledge Management
+classification_related_concepts:
+  - "[[Learning Theory]]"
+  - "[[Metacognition]]"
+  - "[[Personal Knowledge Management]]"
+  - "[[Instructional Design]]"
+knowledge_level: Encyclopedic overview
+tags:
+  - "#learning-sciences"
+  - "#topic-inventory"
+  - "#report-generation"
+  - "#pkm"
+  - "#curriculum-design"
 
 # QUALITY & STATUS
-status: {{Current status of the document, e.g., "evergreen", "draft", "needs review"}}
-maturity: {{Maturity level, e.g., "highly developed", "in progress", "conceptual"}}
-confidence: {{Confidence level in the content, e.g., "high", "medium", "low"}}
+status: evergreen
+maturity: highly developed
+confidence: medium-high
 
 # REASONING ARCHITECTURE
-reasoning_tier: {{Tier of reasoning, e.g., "Tier 1: Foundational Understanding", "Tier 2: Analytical Depth", "Tier 3: Synthesis & Innovation"}}
-reasoning_methods: {{List of reasoning methods used, e.g., ["Deductive reasoning", "Inductive reasoning", "Analogical reasoning"]}}
-reasoning_technique: {{Specific techniques employed, e.g., "Socratic questioning", "Thought experiments", "Comparative analysis"}}
+reasoning_tier: Tier 2: Analytical Depth
+reasoning_methods:
+  - Taxonomic categorization
+  - Comparative analysis
+  - Hierarchical decomposition
+  - Synthesis
+reasoning_technique: Domain-based clustering with foundational-to-applied sequencing
 
 # EPISTEMIC & VALIDATION
-epistemic_status: {{Epistemic status, e.g., "well-established", "emerging theory", "speculative"}}
-validation_methods: {{Methods used for validation, e.g., "Peer review", "Empirical evidence", "Logical consistency"}}
-test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretical"}}
-validation_results: {{Summary of validation results, e.g., "Consistent with existing literature", "Requires further empirical testing", "Contradicted by recent studies"}}
-validation_date: {{Date of last validation, e.g., "2024-06-01"}}
-factual_verification: {{Status of factual verification, e.g., "Verified", "Partially verified", "Not verified"}}
-hallucination_check: {{Status of hallucination check, e.g., "True", "False"}}
+epistemic_status: mixed-established
+validation_methods:
+  - Internal consistency review
+  - Concept taxonomy normalization
+  - Cross-domain coverage check
+test_coverage: Comprehensive structural coverage
+validation_results: Broad topic coverage achieved with coherent hierarchy; some entries may require source-level verification before publication use.
+validation_date: 2026-04-19
+factual_verification: Partially verified
+hallucination_check: Manual review required
 
 # SOURCE & ATTRIBUTION
-source: {{Primary source of information, e.g., "Academic journals", "Books", "Expert interviews", "claude-sonnet-4.5"}}
-based_on_prompts: {{List of prompts used to generate the content, e.g., ["Prompt 1: Define the core principles of cognitive science", "Prompt 2: Explain the historical development of cognitive science"]}}
+source:
+  - Curated topic synthesis
+  - Existing PKB report-generation prompts
+  - LLM-assisted structuring
+based_on_prompts:
+  - "Generate a comprehensive topic inventory for report generators across cognition, learning, motivation, PKM, and philosophy."
+  - "Organize topics hierarchically from foundational to applied and include standalone report-ready entries."
 
 # KNOWLEDGE GRAPH INTEGRATION
 related_concepts:
-  - "[[Concept A]]"
-  - "[[Theory B]]"
+  - "[[Cognitive Science]]"
+  - "[[Learning Theories]]"
+  - "[[Metacognition]]"
+  - "[[Instructional Design]]"
+  - "[[Personal Knowledge Management]]"
 
 prerequisites:
-  - "[[Prerequisite Concept 1]]"
-  - "[[Prerequisite Concept 2]]"
+  - "[[Foundational Learning Theories]]"
+  - "[[Core Cognitive Psychology Concepts]]"
 
 builds_on:
-  - "[[Theory X]]"
-  - "[[Concept Y]]"
+  - "[[Report Generator Framework]]"
+  - "[[House Style for Reports]]"
 
 extends:
-  - "[[Concept Z]]"
-  - "[[Theory W]]"
+  - "[[Topic Sequencing for Learning Paths]]"
+  - "[[Domain Coverage Mapping]]"
 
 # ALIASES & LINKING
 aliases:
-  - "[[Alias 1]]"
-  - "[[Alias 2]]"
+  - "[[Topic Prompt Inventory]]"
+  - "[[Report Topics Master List]]"
+  - "[[Learning and PKM Topic Map]]"
 
-link_up: "[[Higher-Level Concept]]"
-link_down: "[[Lower-Level Concept]]"
+link_up: "[[Report Organizing]]"
+link_down: "[[Topic Exemplar]]"
 link_related:
-  - "[[Related Concept 1]]"
-  - "[[Related Concept 2]]"
+  - "[[Foundational Report Generator]]"
+  - "[[Comparative Synthesis Report Generator]]"
+  - "[[Socratic Dialogue Report Generator]]"
 
 # ADDITIONAL METADATA
-summary: {{A brief summary of the document, e.g., "This report provides an in-depth analysis of the core principles of cognitive science, exploring its historical development, key theories, and implications for understanding human cognition."}}
-keywords: {{List of keywords, e.g., ["cognition", "neuroscience", "philosophy", "cognitive science"]}}
+summary: Comprehensive cross-domain topic inventory for report generation, organized into hierarchical domains and subdomains to support sequenced learning and structured output planning.
+keywords:
+  - cognitive science
+  - learning theories
+  - metacognition
+  - instructional design
+  - personal knowledge management
+  - philosophy
+  - report generation
 
 ---
 
@@ -75,7 +112,6 @@ keywords: {{List of keywords, e.g., ["cognition", "neuroscience", "philosophy", 
 
 
 
----
 
 
 # Topic Exemplar
@@ -105,70 +141,12 @@ keywords: {{List of keywords, e.g., ["cognition", "neuroscience", "philosophy", 
 > Comprehensive topic inventory for report generators. Organized by domain with hierarchical subtopics. Each item is a standalone topic suitable for report generation. Subtopics can be generated as child reports or folded into the parent. Use the hierarchy to build report sequences that scaffold understanding from foundational → applied.
 > 
 
----
 
-## Table of Contents
 
-- [Topic Exemplar](#topic-exemplar)
-  - [Table of Contents](#table-of-contents)
-  - [1. Cognitive Science \& Cognitive Psychology](#1-cognitive-science--cognitive-psychology)
-    - [1.1 Memory \& Information Processing](#11-memory--information-processing)
-    - [1.2 Attention, Perception \& Executive Function](#12-attention-perception--executive-function)
-    - [1.3 Thinking \& Reasoning](#13-thinking--reasoning)
-    - [1.4 Embodied, Extended \& Distributed Cognition](#14-embodied-extended--distributed-cognition)
-  - [2. Learning Theories \& Frameworks](#2-learning-theories--frameworks)
-    - [2.1 Foundational Learning Theories](#21-foundational-learning-theories)
-    - [2.2 Sociocultural \& Social Learning](#22-sociocultural--social-learning)
-    - [2.3 Experiential \& Transformative Learning](#23-experiential--transformative-learning)
-    - [2.4 Contemporary \& Digital-Age Theories](#24-contemporary--digital-age-theories)
-  - [2. Learning Theories \& Frameworks](#2-learning-theories--frameworks-1)
-  - [3. Motivation, Affect \& Self-Regulation](#3-motivation-affect--self-regulation)
-    - [3.1 Core Motivation Theories](#31-core-motivation-theories)
-    - [3.2 Self-Determination Theory \& Subtheories](#32-self-determination-theory--subtheories)
-    - [3.3 Mindset, Grit \& Volition](#33-mindset-grit--volition)
-    - [3.4 Self-Regulation \& Self-Direction](#34-self-regulation--self-direction)
-    - [3.5 Emotion \& Affect in Learning](#35-emotion--affect-in-learning)
-  - [4. Metacognition \& Higher-Order Thinking](#4-metacognition--higher-order-thinking)
-    - [4.1 Metacognition in Learning](#41-metacognition-in-learning)
-    - [4.2 Critical Thinking \& Frameworks](#42-critical-thinking--frameworks)
-    - [4.3 Scientific Reasoning \& Inquiry](#43-scientific-reasoning--inquiry)
-    - [4.4 Systems Thinking \& Complex Reasoning](#44-systems-thinking--complex-reasoning)
-  - [5. Learning Strategies \& Study Science](#5-learning-strategies--study-science)
-    - [5.1 Evidence-Based Study Techniques](#51-evidence-based-study-techniques)
-    - [5.2 Note-Taking \& Knowledge Capture](#52-note-taking--knowledge-capture)
-    - [5.3 Reading \& Comprehension](#53-reading--comprehension)
-    - [5.4 Problem-Solving Strategies](#54-problem-solving-strategies)
-  - [6. Instructional Design \& Educational Practice](#6-instructional-design--educational-practice)
-    - [6.1 Instructional Design Models \& Frameworks](#61-instructional-design-models--frameworks)
-    - [6.2 Teaching Approaches \& Pedagogies](#62-teaching-approaches--pedagogies)
-    - [6.3 Assessment \& Feedback](#63-assessment--feedback)
-    - [6.4 Curriculum \& Learning Design](#64-curriculum--learning-design)
-  - [7. Personal Knowledge Management](#7-personal-knowledge-management)
-    - [7.1 PKM Foundations \& Strategy](#71-pkm-foundations--strategy)
-    - [7.2 Methods \& Systems](#72-methods--systems)
-    - [7.3 Tools \& Implementation](#73-tools--implementation)
-    - [7.4 Information Curation \& Sense-Making](#74-information-curation--sense-making)
-  - [8. Philosophy](#8-philosophy)
-    - [8.1 Epistemology](#81-epistemology)
-    - [8.2 Philosophy of Education](#82-philosophy-of-education)
-    - [8.3 Philosophy of Mind](#83-philosophy-of-mind)
-    - [8.4 Philosophy of Science](#84-philosophy-of-science)
-    - [8.5 Pragmatism \& the Philosophy of Inquiry](#85-pragmatism--the-philosophy-of-inquiry)
-    - [8.6 Ethics, Virtue \& the Examined Life](#86-ethics-virtue--the-examined-life)
-    - [8.7 Philosophy of Technology \& Information](#87-philosophy-of-technology--information)
-  - [9. Psychology Foundations](#9-psychology-foundations)
-    - [9.1 Core Branches](#91-core-branches)
-    - [9.2 Neuroscience of Learning](#92-neuroscience-of-learning)
-    - [9.3 Positive Psychology \& Well-Being](#93-positive-psychology--well-being)
-  - [10. Applied \& Interdisciplinary Topics](#10-applied--interdisciplinary-topics)
-    - [10.1 Decision-Making \& Judgment](#101-decision-making--judgment)
-    - [10.2 Habits, Behavior Change \& Expertise](#102-habits-behavior-change--expertise)
-    - [10.3 Literacy, Media \& Information Skills](#103-literacy-media--information-skills)
-    - [10.4 Social-Emotional \& Interpersonal](#104-social-emotional--interpersonal)
-    - [10.5 Creativity \& Divergent Thinking](#105-creativity--divergent-thinking)
-  - [Coverage Summary](#coverage-summary)
 
----
+
+
+
 
 ## 1. Cognitive Science & Cognitive Psychology
 
