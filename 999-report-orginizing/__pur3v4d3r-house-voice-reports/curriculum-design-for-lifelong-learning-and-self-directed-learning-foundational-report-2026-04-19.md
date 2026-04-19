@@ -84,7 +84,7 @@ key-researchers: ["Malcolm Knowles", "John Dewey", "Allen Tough", "Philip Candy"
 # ═══════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
 # ═══════════════════════════════════════════════════════════════
-word-count: "[to be updated]"
+word-count: "~23,769"
 complexity-level: advanced-practitioner
 target-audience: "Intermediate to advanced learners; educators; curriculum designers; lifelong autodidacts"
 depth-level: comprehensive
@@ -119,12 +119,12 @@ appendix_sections_included:
   - pkb_connections
   - quality_self_assessment
 
-lexicon_term_count: "[to be updated]"
-reference_count: "[to be updated]"
-flashcard_seed_count: "[to be updated]"
-expansion_topic_count: "[to be updated]"
-wiki_link_count: "[to be updated]"
-callout_count: "[to be updated]"
+lexicon_term_count: "10"
+reference_count: "10"
+flashcard_seed_count: "10"
+expansion_topic_count: "5"
+wiki_link_count: "288"
+callout_count: "110"
 
 # ═══════════════════════════════════════════════════════════════
 # ORIGINAL CONTRIBUTIONS (Pipeline-Compatible)
