@@ -176,10 +176,14 @@ Emoji for Completion: ✅
 - PKB Architecture and the Schema Theory of Learning
 - Expertise Development and PKB Architecture
 
-- Self Determination Theory
+- Self Determination Theory✅
 
 - PKB Architecture and the Self Determination Theory of Motivation
-- Nelson & Narens' Metacognitive Control Framework
+- Nelson & Narens' Metacognitive Control Framework✅
+- Self Regulated Learning
+- PKB Architecture andSelf Regulated Learning
+- Metacognition and Self Regulated Learning
+
 
 
 
