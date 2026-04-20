@@ -234,14 +234,10 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --purple-shadow: rgb(103, 98, 95);
+  --purple-shadow: rgb(255, 162, 0);
   --bracket-shadow: 0 0 3px var(--purple-shadow), 0 0 5px var(--purple-shadow);
 }
 
-.theme-light {
-  --purple-shadow: rgba(103, 98, 95, 0.55);
-  --bracket-shadow: 0 0 2px var(--purple-shadow), 0 0 4px var(--purple-shadow);
-}
 
 /* ═══ NUCLEAR OPTION - CATCH-ALL ═══ */
 /* This targets any text content that contains [ or ] characters */
@@ -295,12 +291,6 @@ pre[class*="language-"] .token.bracket,
 :root {
   --bracket-shadow: 0 0 3px var(--purple-shadow), 0 0 6px var(--purple-shadow), 0 0 12px var(--purple-shadow) , 0 0 18px var(--purple-shadow) !important;
 }
-/* PULSE EFFECT - Uncomment this section for animated pulsing */
-
-@keyframes bracket-pulse {
-  0%, 100% { text-shadow: 0 0 3px var(--purple-shadow); }
-  50% { text-shadow: 0 0 5px var(--purple-shadow), 0 0 8px var(--purple-shadow)! important; }
-}
 
 /* Apply pulse to ALL bracket formatting - NOT to link text */
 .cm-formatting-link,
@@ -341,17 +331,6 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 
 
 
-/* ═══ REMOVE GLOW FROM LINK TEXT ═══ */
-/* Keep link text normal - no glow */
-.is-live-preview .cm-underline,
-.is-live-preview .cm-link .cm-underline,
-.is-live-preview .cm-link,
-.is-live-preview .cm-hmd-internal-link,
-.markdown-source-view.is-live-preview .cm-underline {
-  text-shadow: none !important;
-  animation: none !important;
-  filter: none !important;
-}
 
 
 

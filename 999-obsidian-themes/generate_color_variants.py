@@ -26,7 +26,7 @@ USAGE:
 REQUIREMENTS: Python 3.10+ (no external dependencies)
 
 @author   PKB Scripting Architect
-@version  1.0.0
+@version  1.1.0
 """
 
 import colorsys
@@ -177,6 +177,222 @@ COLOR_SCHEMES: list[ColorScheme] = [
         slug="rose",
         target_hue=345.0,
         description="Dark theme with vibrant Rose, Black, and Grey palette",
+    ),
+
+    # ── RED FAMILY SHADES ─────────────────────────────────────────────────
+    ColorScheme(
+        name="Scarlet",
+        slug="scarlet",
+        target_hue=4.0,
+        description="Dark theme with vivid Scarlet, Black, and Grey palette",
+        saturation_mult=1.08,
+    ),
+    ColorScheme(
+        name="Rust",
+        slug="rust",
+        target_hue=8.0,
+        description="Dark theme with earthy Rust Red, Black, and Grey palette",
+        saturation_mult=0.85,
+        lightness_offset=-0.04,
+    ),
+    ColorScheme(
+        name="Coral",
+        slug="coral",
+        target_hue=12.0,
+        description="Dark theme with warm Coral, Black, and Grey palette",
+        saturation_mult=1.05,
+    ),
+    ColorScheme(
+        name="Peach",
+        slug="peach",
+        target_hue=18.0,
+        description="Dark theme with soft Peach, Black, and Grey palette",
+        saturation_mult=0.85,
+        lightness_offset=0.03,
+    ),
+    ColorScheme(
+        name="Copper",
+        slug="copper",
+        target_hue=22.0,
+        description="Dark theme with warm Copper, Black, and Grey palette",
+        saturation_mult=0.88,
+    ),
+    ColorScheme(
+        name="Burgundy",
+        slug="burgundy",
+        target_hue=338.0,
+        description="Dark theme with deep Burgundy Wine, Black, and Grey palette",
+        saturation_mult=0.78,
+        lightness_offset=-0.05,
+    ),
+    ColorScheme(
+        name="Maroon",
+        slug="maroon",
+        target_hue=352.0,
+        description="Dark theme with deep Maroon, Black, and Grey palette",
+        saturation_mult=1.1,
+        lightness_offset=-0.03,
+    ),
+
+    # ── YELLOW-GREEN SHADES ───────────────────────────────────────────────
+    ColorScheme(
+        name="Chartreuse",
+        slug="chartreuse",
+        target_hue=88.0,
+        description="Dark theme with electric Chartreuse, Black, and Grey palette",
+        saturation_mult=1.12,
+    ),
+    ColorScheme(
+        name="Sage",
+        slug="sage",
+        target_hue=105.0,
+        description="Dark theme with muted Sage Green, Black, and Grey palette",
+        saturation_mult=0.68,
+    ),
+    ColorScheme(
+        name="Neon Green",
+        slug="neon-green",
+        target_hue=112.0,
+        description="Dark theme with electric Neon Green, Black, and Grey palette",
+        saturation_mult=1.2,
+    ),
+    ColorScheme(
+        name="Forest",
+        slug="forest",
+        target_hue=128.0,
+        description="Dark theme with deep Forest Green, Black, and Grey palette",
+        saturation_mult=0.82,
+        lightness_offset=-0.04,
+    ),
+    ColorScheme(
+        name="Mint",
+        slug="mint",
+        target_hue=148.0,
+        description="Dark theme with fresh Mint Green, Black, and Grey palette",
+        saturation_mult=0.9,
+        lightness_offset=0.03,
+    ),
+
+    # ── BLUE-GREEN SHADES ─────────────────────────────────────────────────
+    ColorScheme(
+        name="Turquoise",
+        slug="turquoise",
+        target_hue=172.0,
+        description="Dark theme with vivid Turquoise, Black, and Grey palette",
+    ),
+
+    # ── BLUE SHADES ───────────────────────────────────────────────────────
+    ColorScheme(
+        name="Sky",
+        slug="sky",
+        target_hue=200.0,
+        description="Dark theme with bright Sky Blue, Black, and Grey palette",
+        saturation_mult=0.88,
+        lightness_offset=0.04,
+    ),
+    ColorScheme(
+        name="Azure",
+        slug="azure",
+        target_hue=206.0,
+        description="Dark theme with vibrant Azure Blue, Black, and Grey palette",
+    ),
+    ColorScheme(
+        name="Steel",
+        slug="steel",
+        target_hue=210.0,
+        description="Dark theme with cool Steel Blue, Black, and Grey palette",
+        saturation_mult=0.65,
+    ),
+    ColorScheme(
+        name="Navy",
+        slug="navy",
+        target_hue=222.0,
+        description="Dark theme with deep Navy Blue, Black, and Grey palette",
+        saturation_mult=0.82,
+        lightness_offset=-0.05,
+    ),
+    ColorScheme(
+        name="Cobalt",
+        slug="cobalt",
+        target_hue=229.0,
+        description="Dark theme with deep Cobalt Blue, Black, and Grey palette",
+        saturation_mult=1.05,
+    ),
+
+    # ── PURPLE SHADES ─────────────────────────────────────────────────────
+    ColorScheme(
+        name="Periwinkle",
+        slug="periwinkle",
+        target_hue=237.0,
+        description="Dark theme with soft Periwinkle Blue-Violet, Black, and Grey palette",
+        saturation_mult=0.85,
+    ),
+    ColorScheme(
+        name="Lavender",
+        slug="lavender",
+        target_hue=250.0,
+        description="Dark theme with soft Lavender, Black, and Grey palette",
+        saturation_mult=0.75,
+    ),
+    ColorScheme(
+        name="Deep Purple",
+        slug="deep-purple",
+        target_hue=262.0,
+        description="Dark theme with deep Royal Purple, Black, and Grey palette",
+        saturation_mult=1.08,
+    ),
+    ColorScheme(
+        name="Lilac",
+        slug="lilac",
+        target_hue=283.0,
+        description="Dark theme with soft Lilac, Black, and Grey palette",
+        saturation_mult=0.78,
+    ),
+    ColorScheme(
+        name="Orchid",
+        slug="orchid",
+        target_hue=292.0,
+        description="Dark theme with vibrant Orchid, Black, and Grey palette",
+        saturation_mult=1.02,
+    ),
+
+    # ── PINK-PURPLE SHADES ────────────────────────────────────────────────
+    ColorScheme(
+        name="Fuchsia",
+        slug="fuchsia",
+        target_hue=312.0,
+        description="Dark theme with electric Fuchsia, Black, and Grey palette",
+        saturation_mult=1.08,
+    ),
+    ColorScheme(
+        name="Hot Pink",
+        slug="hot-pink",
+        target_hue=322.0,
+        description="Dark theme with vivid Hot Pink, Black, and Grey palette",
+        saturation_mult=1.05,
+    ),
+
+    # ── DUAL-TONE VARIANTS ────────────────────────────────────────────────
+    ColorScheme(
+        name="Ocean",
+        slug="ocean",
+        target_hue=195.0,
+        secondary_hue=215.0,
+        description="Dark theme with Ocean Blue dual-tone, Black, and Grey palette",
+    ),
+    ColorScheme(
+        name="Aurora",
+        slug="aurora",
+        target_hue=160.0,
+        secondary_hue=270.0,
+        description="Dark theme with Aurora dual-tone (Teal-Violet), Black, and Grey palette",
+    ),
+    ColorScheme(
+        name="Sunset",
+        slug="sunset",
+        target_hue=30.0,
+        secondary_hue=340.0,
+        description="Dark theme with Sunset dual-tone (Orange-Rose), Black, and Grey palette",
     ),
 ]
 

@@ -24,9 +24,32 @@ aliases:
 ---
 
 
-
-
 # Report Generation House Voice Style Guide
+
+
+<!-- TOC START -->
+
+## Table of Contents
+
+- [Report Generation House Voice Style Guide](#report-generation-house-voice-style-guide)
+  - [Table of Contents](#table-of-contents)
+- [Topic Ideas](#topic-ideas)
+- [Pur3v4d3r's House Style Report Generation Starter Prompt for Copilot V2.0.0](#pur3v4d3rs-house-style-report-generation-starter-prompt-for-copilot-v200)
+  - [WRITING STYLE: CONTEMPLATIVE MECHANISM v1.0.0](#writing-style-contemplative-mechanism-v100)
+    - [Voice \& Register](#voice--register)
+    - [Sentence Architecture](#sentence-architecture)
+    - [Primary Explanatory Engine: Mechanism-Tracing](#primary-explanatory-engine-mechanism-tracing)
+    - [Secondary Tool: Contrastive Clarification](#secondary-tool-contrastive-clarification)
+    - [Metaphor Policy](#metaphor-policy)
+    - [Anti-Patterns (NEVER DO THESE)](#anti-patterns-never-do-these)
+    - [Depth Enforcement](#depth-enforcement)
+    - [Exemplar 1: Schema Theory (Cognitive Psychology)](#exemplar-1-schema-theory-cognitive-psychology)
+    - [Exemplar 2: Working Memory (Cognitive Architecture)](#exemplar-2-working-memory-cognitive-architecture)
+    - [Exemplar 3: Dual Process Theory (Reasoning \& Decision-Making)](#exemplar-3-dual-process-theory-reasoning--decision-making)
+    - [Exemplar 4: Metacognition (Self-Regulated Learning)](#exemplar-4-metacognition-self-regulated-learning)
+  - [Diagnostic Checklist](#diagnostic-checklist)
+
+<!-- TOC END -->
 
 `````markdown
 Generate a report on: [Topic-Goes-Here]

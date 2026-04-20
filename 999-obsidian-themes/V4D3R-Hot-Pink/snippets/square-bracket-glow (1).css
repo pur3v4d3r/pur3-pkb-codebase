@@ -1,0 +1,387 @@
+/* ══════════════════════════════════════════════════════════════════════════════════
+   SQUARE BRACKET RED GLOW SYSTEM - FOCUSED VERSION
+   Ultra-targeted approach to make ALL square brackets glow red
+   ══════════════════════════════════════════════════════════════════════════════════ */
+
+/* ═══ CORE VARIABLES ═══ */
+:root {
+  --hot-pink-glow: #67625fff;
+  --hot-pink-glow-bright: #7c7673;
+  --hot-pink-shadow: rgba(103, 98, 95, 0.7);
+  --bracket-shadow: 0 0 3px var(--hot-pink-shadow), 0 0 5px var(--hot-pink-shadow);
+}
+
+/* ═══ OBSIDIAN INTERNAL LINKS - Most Common Use Case ═══ */
+/* EDITOR MODE - All wiki link brackets */
+
+/* CM6 (Modern Obsidian) - Maximum specificity */
+body .markdown-source-view.mod-cm6 .cm-line .cm-formatting.cm-formatting-link,
+body .markdown-source-view.mod-cm6 .cm-formatting-link,
+body .cm-editor .cm-line .cm-formatting.cm-formatting-link,
+body .cm-content .cm-formatting.cm-formatting-link,
+body .cm-content .cm-line .cm-formatting-link,
+.workspace-leaf-content .cm-formatting.cm-formatting-link,
+div.cm-editor .cm-formatting-link {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  filter: brightness(1.2) drop-shadow(0 0 3px var(--hot-pink-shadow)) !important;
+  opacity: 1 !important;
+  display: inline !important;
+  visibility: visible !important;
+}
+
+/* Live Preview - color native brackets on all lines */
+body .markdown-source-view.mod-cm6.is-live-preview .cm-formatting-link {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  opacity: 1 !important;
+  display: inline !important;
+}
+
+/* Keep native brackets visible on inactive live-preview lines */
+body .markdown-source-view.mod-cm6.is-live-preview .cm-line:not(.cm-active) .cm-formatting-link {
+  display: inline !important;
+  opacity: 1 !important;
+}
+
+/* Source Mode - Force visibility */
+body .markdown-source-view:not(.is-live-preview) .cm-formatting-link,
+.markdown-source-view.mod-cm6 .cm-content .cm-formatting-link {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  opacity: 1 !important;
+  display: inline !important;
+}
+
+/* Legacy CM5 support */
+.cm-s-obsidian .cm-formatting.cm-formatting-link {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+}
+
+/* ═══ ALL BRACKET-LIKE PUNCTUATION ═══ */
+/* Universal bracket targeting with maximum specificity */
+body .cm-s-obsidian .cm-bracket,
+body .cm-editor .cm-bracket,
+body .cm-editor .cm-line .cm-bracket,
+body .cm-content .cm-bracket,
+body .cm-punctuation,
+.token.punctuation.bracket,
+span.cm-bracket {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Ensure wiki link brackets specifically are captured - ALL contexts */
+body .cm-hmd-internal-link .cm-formatting,
+body .cm-link .cm-formatting,
+body .markdown-source-view .cm-hmd-internal-link .cm-formatting,
+body .cm-line .cm-hmd-internal-link,
+.HyperMD-internal-link .cm-formatting {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* ═══ TAG FORMATTING BRACKETS ═══ */
+.cm-formatting.cm-formatting-hashtag,
+.cm-hashtag .cm-formatting {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--hot-pink-glow-bright) !important;
+}
+
+/* ═══ READING MODE - ADD VISUAL BRACKETS ═══ */
+/* Add red glowing brackets around internal links in reading mode ONLY */
+/* NOTE: .markdown-rendered is intentionally scoped under .markdown-reading-view
+   to prevent double brackets in Live Preview embedded notes */
+.markdown-preview-view .internal-link::before,
+.markdown-reading-view .internal-link::before,
+.markdown-reading-view .markdown-rendered .internal-link::before {
+  content: '[[' !important;
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  margin-right: 0px;
+  filter: drop-shadow(0 0 3px var(--hot-pink-shadow)) !important;
+}
+
+.markdown-preview-view .internal-link::after,
+.markdown-reading-view .internal-link::after,
+.markdown-reading-view .markdown-rendered .internal-link::after {
+  content: ']]' !important;
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  margin-left: 0px;
+  filter: drop-shadow(0 0 3px var(--hot-pink-shadow)) !important;
+}
+
+/* ═══ DATAVIEW INLINE FIELDS - READING MODE BRACKETS ═══ */
+/* Dataview strips [ ] from inline fields when rendering in reading mode.
+   Re-inject them as glowing pseudo-elements.
+   
+   APPROACH: Unscoped global rule first (catches any container variant),
+   then scoped reading-mode rules for higher specificity.
+   The 'animation' and 'filter' props are intentionally omitted here —
+   they can silently invalidate the declaration block in some Electron builds
+   if the keyframe isn't parsed yet. Glow comes from text-shadow alone. */
+
+/* GLOBAL FALLBACK — matches reading mode, live-preview widget, and any other context */
+.dataview.inline-field::before {
+  content: '[' !important;
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--hot-pink-glow) !important;
+}
+
+.dataview.inline-field::after {
+  content: ']' !important;
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--hot-pink-glow) !important;
+}
+
+/* SCOPED — reading-mode container selectors for extra specificity */
+.markdown-preview-view .dataview.inline-field::before,
+.markdown-rendered .dataview.inline-field::before,
+.markdown-reading-view .dataview.inline-field::before,
+.markdown-preview-section .dataview.inline-field::before,
+.view-content .dataview.inline-field::before {
+  content: '[' !important;
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--hot-pink-glow) !important;
+}
+
+.markdown-preview-view .dataview.inline-field::after,
+.markdown-rendered .dataview.inline-field::after,
+.markdown-reading-view .dataview.inline-field::after,
+.markdown-preview-section .dataview.inline-field::after,
+.view-content .dataview.inline-field::after {
+  content: ']' !important;
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--hot-pink-glow) !important;
+}
+
+
+
+/* ═══ CODE CONTEXTS ═══ */
+/* Syntax highlighting in code blocks */
+.HyperMD-codeblock .cm-bracket,
+.cm-s-obsidian.cm-s-obsidian .cm-bracket,
+pre[class*="language-"] .token.bracket,
+.hljs-selector-attr {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ SPECIFIC LANGUAGE CONTEXTS ═══ */
+/* JavaScript array/object brackets */
+.language-javascript .token.bracket,
+.language-js .token.bracket,
+.language-typescript .token.bracket,
+.language-ts .token.bracket {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* Python list/dict brackets */
+.language-python .token.bracket,
+.language-py .token.bracket {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* CSS attribute selectors */
+.language-css .token.selector,
+.language-scss .token.selector {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ DATAVIEW PLUGIN SUPPORT ═══ */
+.block-language-dataview .cm-bracket,
+.block-language-dataviewjs .cm-bracket {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+}
+
+
+/* ═══ TEMPLATER PLUGIN SUPPORT ═══ */
+.templater-command,
+.tp-command {
+  color: var(--hot-pink-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
+.theme-dark {
+  --hot-pink-shadow: rgba(103, 98, 95, 0.7);
+  --bracket-shadow: 0 0 3px var(--hot-pink-shadow), 0 0 5px var(--hot-pink-shadow);
+}
+
+.theme-light {
+  --hot-pink-shadow: rgba(103, 98, 95, 0.55);
+  --bracket-shadow: 0 0 2px var(--hot-pink-shadow), 0 0 4px var(--hot-pink-shadow);
+}
+
+/* ═══ NUCLEAR OPTION - CATCH-ALL ═══ */
+/* This targets any text content that contains [ or ] characters */
+/* Use with caution as it may affect performance */
+
+/*
+.workspace-leaf-content * {
+  filter: contrast(1.1);
+}
+
+.workspace-leaf-content *:has-text('['),
+.workspace-leaf-content *:has-text(']') {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+*/
+
+/* ═══ TESTING CLASS ═══ */
+/* Add class="test-brackets" to any element to test the effect */
+/*.test-brackets,
+.test-brackets * {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  background: rgba(103, 98, 95, 1) !important;
+}
+/* ══════════════════════════════════════════════════════════════════════════════════
+   BRACKET GLOW INTENSITY CONTROL
+   Quick toggles for different glow intensities
+   ══════════════════════════════════════════════════════════════════════════════════ */
+
+/* ═══ INTENSITY LEVELS ═══ */
+/* Comment/uncomment these sections to change intensity */
+
+/* SUBTLE GLOW - Uncomment this section for minimal effect */
+/*
+:root {
+  --bracket-shadow: 0 0 1px var(--hot-pink-shadow);
+}
+*/
+
+/* MEDIUM GLOW - Uncomment this section for balanced effect */
+/*:root {
+  --bracket-shadow: 0 0 3px var(--hot-pink-shadow), 0 0 6px var(--hot-pink-shadow);
+}
+
+/* INTENSE GLOW - Uncomment this section for maximum effect */
+
+:root {
+  --bracket-shadow: 0 0 4px var(--hot-pink-shadow), 0 0 6px var(--hot-pink-shadow), 0 0 12px var(--hot-pink-shadow)! important;
+}
+:root {
+  --bracket-shadow: 0 0 3px var(--hot-pink-shadow), 0 0 6px var(--hot-pink-shadow), 0 0 12px var(--hot-pink-shadow) , 0 0 18px var(--hot-pink-shadow) !important;
+}
+/* PULSE EFFECT - Uncomment this section for animated pulsing */
+
+@keyframes bracket-pulse {
+  0%, 100% { text-shadow: 0 0 3px var(--hot-pink-shadow); }
+  50% { text-shadow: 0 0 5px var(--hot-pink-shadow), 0 0 8px var(--hot-pink-shadow)! important; }
+}
+
+/* Apply pulse to ALL bracket formatting - NOT to link text */
+.cm-formatting-link,
+.cm-formatting.cm-formatting-link,
+body .cm-formatting.cm-formatting-link,
+body .markdown-source-view .cm-formatting-link,
+.cm-bracket,
+.markdown-preview-view .internal-link::before,
+.markdown-preview-view .internal-link::after,
+.markdown-reading-view .internal-link::before,
+.markdown-reading-view .internal-link::after {
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+}
+
+/* ═══ NUCLEAR EDITOR OVERRIDE - Use if nothing else works ═══ */
+/* Force ALL formatting marks to be visible and red */
+body .workspace-leaf-content[data-type="markdown"] .cm-formatting-link,
+body .view-content .cm-formatting.cm-formatting-link,
+body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
+  color: var(--hot-pink-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  opacity: 1 !important;
+  display: inline !important;
+  visibility: visible !important;
+  -webkit-text-fill-color: var(--hot-pink-glow) !important;
+}
+
+/* ═══ LIVE PREVIEW MODE - native bracket rendering only ═══ */
+/* Disable pseudo bracket injection to prevent duplicate bracket fragments. */
+.is-live-preview .cm-line:not(.cm-active) .cm-underline::before,
+.is-live-preview .cm-line:not(.cm-active) .cm-link .cm-underline::before,
+.is-live-preview .cm-line:not(.cm-active) .cm-underline::after,
+.is-live-preview .cm-line:not(.cm-active) .cm-link .cm-underline::after {
+  content: none !important;
+  animation: none !important;
+}
+
+
+
+/* ═══ REMOVE GLOW FROM LINK TEXT ═══ */
+/* Keep link text normal - no glow */
+.is-live-preview .cm-underline,
+.is-live-preview .cm-link .cm-underline,
+.is-live-preview .cm-link,
+.is-live-preview .cm-hmd-internal-link,
+.markdown-source-view.is-live-preview .cm-underline {
+  text-shadow: none !important;
+  animation: none !important;
+  filter: none !important;
+}
+
+
+
+/* ══════════════════════════════════════════════════════════════════════════════════
+  COLOR VARIANTS
+  Quick swaps to change glow color
+*/
+
+/* COLOR VARIANTS - Replace red with other colors */
+/* BLUE VARIANT */
+/*
+:root {
+  --hot-pink-glow: #67625f;
+  --hot-pink-shadow: rgba(103, 98, 95, 0.9);
+}
+*/
+
+/* GREEN VARIANT */
+/*
+:root {
+  --hot-pink-glow: #67625f;
+  --hot-pink-shadow: rgba(103, 98, 95, 0.9);
+}
+*/
+
+/* PURPLE VARIANT */
+/*
+:root {
+  --hot-pink-glow: #67625f;
+  --hot-pink-shadow: rgba(103, 98, 95, 0.9);
+}
+*/
+/* ══════════════════════════════════════════════════════════════════════════════════ */

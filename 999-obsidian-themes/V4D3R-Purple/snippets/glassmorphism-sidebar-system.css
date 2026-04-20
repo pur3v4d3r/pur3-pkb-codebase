@@ -28,36 +28,6 @@ body {
     border-right: 1px solid var(--glass-border-color) !important;
 }
 
-/* 2. FORCE Sidebar Backgrounds (Left & Right Panels) */
-/* We target the split container to catch the background */
-.workspace-split.mod-left-split,
-.workspace-split.mod-right-split {
-    background-color: transparent !important;
-}
-
-/* We target the tabs container to apply the glass/color */
-.workspace-split.mod-left-split .workspace-tabs,
-.workspace-split.mod-right-split .workspace-tabs {
-    background-color: color-mix(in srgb, var(--bg2) var(--glass-opacity), transparent) !important;
-    backdrop-filter: blur(var(--glass-blur-radius)) !important;
-    -webkit-backdrop-filter: blur(var(--glass-blur-radius)) !important;
-    border: none !important;
-}
-
-/* 3. FORCE Sidebar Borders */
-.workspace-split.mod-left-split {
-    border-right: 1px solid var(--glass-border-color) !important;
-}
-
-.workspace-split.mod-right-split {
-    border-left: 1px solid var(--glass-border-color) !important;
-}
-
-/* 4. FORCE Tab Header Transparency */
-/* This ensures the tabs at the top of the sidebar blend in rather than having a solid block */
-.workspace-tab-header-container {
-    background-color: transparent !important;
-}
 
 /* 5. FORCE View Header (Breadcrumbs bar) Glass */
 .view-header {

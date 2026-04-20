@@ -647,18 +647,6 @@
    Numeric property styling
    ═══════════════════════════════════════════════════════════════════════════ */
 
-/* ─── Number Input Field ─── */
-.metadata-property-value input[type="number"] {
-  font-size: var(--metadata-font-size) !important;
-  font-variant-numeric: tabular-nums !important;
-  color: var(--metadata-text-primary) !important;
-  background: var(--metadata-bg-primary) !important;
-  border: 1px solid var(--metadata-border-subtle) !important;
-  border-radius: var(--metadata-radius-md) !important;
-  padding: var(--metadata-spacing-sm) var(--metadata-spacing-md) !important;
-  transition: border-color var(--metadata-transition-fast) !important,
-              box-shadow var(--metadata-transition-fast) !important;
-}
 
 .metadata-property-value input[type="number"]:focus {
   border-color: var(--metadata-accent) !important;
@@ -1346,7 +1334,7 @@ body.metadata-dividers .metadata-property {
 .metadata-property-value input[type="text"],
 .metadata-property-value textarea {
   font-size: var(--metadata-font-size) !important;
-  color: var(--metadata-text-primary) !important;
+  color: RED !important;
   background: var(--metadata-bg-primary) !important;
   border: 1px solid var(--metadata-border-subtle) !important;
   border-radius: var(--metadata-radius-md) !important;
@@ -1470,7 +1458,7 @@ body.metadata-dividers .metadata-property {
   color: var(--metadata-accent-hover) !important;
 }
 /* TOGGLE: Uncomment for solid tags */
-/*
+
 .multi-select-pill,
 .metadata-property-value .tag {
   background: var(--metadata-accent);
@@ -1480,9 +1468,9 @@ body.metadata-dividers .metadata-property {
 .metadata-property-value .tag:hover {
   background: var(--metadata-accent-hover);
 }
-*/
+
 /* TOGGLE: Uncomment for outlined tags */
-/*
+
 .multi-select-pill,
 .metadata-property-value .tag {
   background: transparent;
@@ -1494,7 +1482,7 @@ body.metadata-dividers .metadata-property {
   background: var(--metadata-accent);
   color: var(--metadata-bg-primary);
 }
-*/
+
 /* ─── Pill Remove Button ─── */
 .multi-select-pill-remove-button {
   display: flex !important;
@@ -1580,18 +1568,7 @@ body.metadata-dividers .metadata-property {
    SECTION 10: DATE INPUT
    Date and datetime property styling
    ═══════════════════════════════════════════════════════════════════════════ */
-/* ─── Date Input Field ─── */
-.metadata-property-value input[type="date"],
-.metadata-property-value input[type="datetime-local"] {
-  font-size: var(--metadata-font-size) !important;
-  color: var(--metadata-text-primary) !important;
-  background: var(--metadata-bg-primary) !important;
-  border: 1px solid var(--metadata-border-subtle) !important;
-  border-radius: var(--metadata-radius-md) !important;
-  padding: var(--metadata-spacing-sm) var(--metadata-spacing-md) !important;
-  transition: border-color var(--metadata-transition-fast) !important,
-              box-shadow var(--metadata-transition-fast) !important;
-}
+
 .metadata-property-value input[type="date"]:hover,
 .metadata-property-value input[type="datetime-local"]:hover {
   border-color: var(--metadata-border) !important;
@@ -1616,17 +1593,8 @@ body.metadata-dividers .metadata-property {
    SECTION 11: NUMBER INPUT
    Number property styling
    ═══════════════════════════════════════════════════════════════════════════ */
-/* ─── Number Input Field ─── */
-.metadata-property-value input[type="number"] {
-  font-size: var(--metadata-font-size) !important;
-  color: var(--metadata-text-primary) !important;
-  background: var(--metadata-bg-primary) !important;
-  border: 1px solid var(--metadata-border-subtle) !important;
-  border-radius: var(--metadata-radius-md) !important;
-  padding: var(--metadata-spacing-sm) var(--metadata-spacing-md) !important;
-  transition: border-color var(--metadata-transition-fast) !important,
-              box-shadow var(--metadata-transition-fast) !important;
-}
+
+.metadata-property-value input[type="number"]:hover,
 .metadata-property-value input[type="number"]:hover {
   border-color: var(--metadata-border) !important;
 }
@@ -1856,45 +1824,3 @@ body.metadata-dividers .metadata-property {
   color: var(--metadata-accent);
   font-weight: var(--metadata-font-weight-medium);
 }
-/* ═══════════════════════════════════════════════════════════════════════════
-   SECTION 18: ANIMATIONS & MICRO-INTERACTIONS
-   Optional animations for enhanced UX
-   ═══════════════════════════════════════════════════════════════════════════ */
-/* ─── Fade-In Animation ─── */
-/*
-@keyframes metadata-fade-in {
-  from {
-    opacity: 0;
-    transform: translateY(4px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-/* ─── Pulse Animation ─── */
-/*
-@keyframes metadata-pulse {
-  0% {
-    box-shadow: 0 0 0 0 var(--metadata-accent-muted);
-  }
-  100% {
-    box-shadow: 0 0 0 8px rgba(0, 0, 0, 0);
-  }
-}
-*/
-/* ─── Applying Animations ─── */
-
-.metadata-container {
-  animation: metadata-fade-in 0.3s ease;
-}
-.metadata-property {
-  abbrupt: metadata-fade-in 0.3s ease;
-}
-.metadata-property-value input:focus,
-.metadata-property-value textarea:focus {
-  animation: metadata-pulse 1s ease;
-}
-*/
-
-

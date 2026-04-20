@@ -137,25 +137,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-═══════════════════════════════════════════════════════════════════════════
-   SECTION 2: BASE STYLES (ALWAYS ACTIVE)
-   ───────────────────────────────────────────────────────────────────────────
-   Core inline code styling that applies regardless of which style variant
-   is active. This ensures consistent typography and basic appearance.
-   ═══════════════════════════════════════════════════════════════════════════ */
-
 /* ─── Editor View (Source/Live Preview) ─── */
 /*.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
 .cm-s-obsidian span.cm-inline-code {
@@ -455,7 +436,7 @@ table code:not(pre code) {
 */
 
 /* ─── Code Inside Links ─── */
-.markdown-rendered a code:not(pre code),
+
 .markdown-preview-view a code:not(pre code) {
   color: inherit;
   text-decoration: underline;
