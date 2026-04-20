@@ -96,7 +96,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Operational Indicator:** Recognized by the subjective sense of "something is wrong here" or "I don't know how to proceed" — a pre-reflective awareness that current understanding is inadequate.
 >
-> **See also:** [[Aporia]], [[Conflict-Monitoring]], [[Metacognitive-Monitoring]]
+> **See also:** [[aporia]], [[Conflict-Monitoring]], [[metacognitive-monitoring]]
 
 > [!definition] **Reflective Thinking (Dewey)**
 > "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends" (*How We Think*, 1910). Distinguished from asocial or "idle" speculation by its orientation toward the resolution of genuine problems in lived experience.
@@ -105,7 +105,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Historical Note:** Dewey's 1910 formulation emphasized the logical structure; the 1933 revision placed greater emphasis on the emotional and volitional dimensions. Contemporary scholarship typically draws on the revised account.
 >
-> **See also:** [[Inquiry (Dewey)]], [[Dual-Process-Theory]], [[Scientific-Reasoning]]
+> **See also:** [[Inquiry (Dewey)]], [[dual-process-theory]], [[scientific-reasoning]]
 
 > [!definition] **Elenchus (Socratic Method)**
 > The dialectical procedure of cross-examination by which Socrates exposes the internal inconsistency of interlocutors' confident beliefs. Consists in eliciting a thesis, securing agreement to additional premises, and demonstrating that the premises contradict the thesis.
@@ -114,7 +114,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Boundary:** The elenchus is a *specific* argumentative procedure, not a synonym for "asking questions" or "Socratic method" broadly. Vlastos (1983) distinguishes the "standard elenchus" (refutation of thesis via agreed premises) from looser forms of Socratic questioning. Scott (2002) argues Socrates' methods are more diverse than Vlastos allows.
 >
-> **See also:** [[Aporia]], [[Socratic-Questioning]], [[Argument-Analysis]]
+> **See also:** [[aporia]], [[socratic-questioning]], [[argument-analysis]]
 
 > [!definition] **Aporia**
 > The state of intellectual impasse produced by the elenchus — literally "without a path" (Greek *ἀπορία*, from *a-* "without" + *poros* "path, passage"). A condition of genuine not-knowing that is simultaneously a form of epistemic achievement (the honest recognition of one's ignorance) and an activator of further inquiry.
@@ -123,16 +123,16 @@ Each definition SHOULD include (when relevant):
 >
 > **Report-Specific Significance:** In this report, aporia functions as the conceptual bridge between ancient philosophy and contemporary cognitive science — the structural analog of what De Neys calls "conflict detection" and what Dewey calls "felt difficulty."
 >
-> **See also:** [[Felt Difficulty (Dewey)]], [[Conflict-Monitoring]], [[Intellectual-Humility]]
+> **See also:** [[Felt Difficulty (Dewey)]], [[Conflict-Monitoring]], [[intellectual-humility]]
 
 > [!definition] **System 1 and System 2 (Kahneman)**
-> The two processing systems of [[Dual-Process-Theory]]. System 1 is fast, automatic, pattern-based, and effortless — the default cognitive mode. System 2 is slow, deliberate, effortful, and logical — activated by specific triggers against the default.
+> The two processing systems of [[dual-process-theory]]. System 1 is fast, automatic, pattern-based, and effortless — the default cognitive mode. System 2 is slow, deliberate, effortful, and logical — activated by specific triggers against the default.
 >
 > **Boundary:** System 1 and System 2 are *theoretical constructs*, not neuroanatomical locations. Kahneman himself has emphasized that these are useful fictions for organizing research findings, not claims about distinct brain systems. Stanovich (2011) refines the architecture into a tripartite model (autonomous, algorithmic, reflective) that better captures individual differences.
 >
 > **Common Misconception:** System 2 is not "better" than System 1. System 1 handles the vast majority of cognition efficiently and accurately. The problem is not that System 1 exists, but that it is sometimes deployed in contexts where it produces systematic errors — and that System 2 activation is not automatic in those contexts.
 >
-> **See also:** [[Dual-Process-Thinking-Model]], [[Cognitive-Miserliness]], [[Actively-Open-Minded-Thinking]]
+> **See also:** [[Dual-Process-Thinking-Model]], [[Cognitive-Miserliness]], [[actively-open-minded-thinking]]
 
 > [!definition] **Conflict Monitoring (De Neys)**
 > The cognitive mechanism by which inconsistencies between System 1 outputs and more deliberate reasoning are detected, generating a signal that can (but does not always) activate System 2 correction. The neural substrate of what Dewey called felt difficulty and what Socrates produced through elenchus.
@@ -141,16 +141,16 @@ Each definition SHOULD include (when relevant):
 >
 > **Research Status:** Supported by converging evidence from response time studies, confidence ratings, and neuroimaging (anterior cingulate cortex activation). The monitoring mechanism appears robust across cultures and task types, though the strength of the signal varies with cognitive load and individual differences.
 >
-> **See also:** [[Metacognitive-Monitoring]], [[Dual-Process-Theory]], [[Cognitive-Load-Theory]]
+> **See also:** [[metacognitive-monitoring]], [[dual-process-theory]], [[cognitive-load-theory]]
 
 > [!definition] **Metacognitive Monitoring (Flavell)**
 > The ongoing, local evaluation of one's own cognitive processing — the tracking of comprehension, memory retrieval reliability, and reasoning quality as it unfolds. The metacognitive signal most directly relevant to inquiry activation is the "feeling of not knowing" — the sense that current understanding is inadequate to the situation.
 >
-> **Boundary:** Metacognitive monitoring is distinct from metacognitive *knowledge* (what you know about cognition generally) and metacognitive *regulation* (the control strategies you deploy in response to monitoring signals). Monitoring is the real-time feedback signal; regulation is the action taken in response. See the [[Nelson-Narens-Model]] for the formal distinction.
+> **Boundary:** Metacognitive monitoring is distinct from metacognitive *knowledge* (what you know about cognition generally) and metacognitive *regulation* (the control strategies you deploy in response to monitoring signals). Monitoring is the real-time feedback signal; regulation is the action taken in response. See the [[nelson-narens-model]] for the formal distinction.
 >
 > **Operational Indicator:** Manifests as feelings of knowing (FOK), judgments of learning (JOL), tip-of-the-tongue states, and the subjective sense of comprehension or confusion during reading or reasoning.
 >
-> **See also:** [[Metacognition]], [[Metacognitive-Regulation]], [[Nelson-Narens-Model]], [[Comprehension-Monitoring]]
+> **See also:** [[metacognition]], [[metacognitive-regulation]], [[nelson-narens-model]], [[comprehension-monitoring]]
 
 > [!definition] **Actively Open-Minded Thinking (Stanovich)**
 > A thinking disposition characterized by willingness to consider alternative views, sensitivity to evidence contrary to current beliefs, practice of postponing closure, and epistemic self-regulation. Predicts the reliable deployment of System 2 thinking independently of raw cognitive capacity.
@@ -159,16 +159,16 @@ Each definition SHOULD include (when relevant):
 >
 > **Assessment:** Measured by the AOT scale (Stanovich & West, 1997), which assesses willingness to consider evidence, flexibility of belief revision, and tolerance of ambiguity. Psychometrically validated across multiple populations.
 >
-> **See also:** [[Intellectual-Humility]], [[Myside-Bias]], [[Confirmation-Bias]], [[Open-Mindedness]]
+> **See also:** [[intellectual-humility]], [[myside-bias]], [[confirmation-bias]], [[Open-Mindedness]]
 
 > [!definition] **Region of Proximal Learning (Metcalfe)**
-> The motivationally optimal zone of moderate epistemic uncertainty — close enough to understanding that curiosity is activated, far enough from certainty that inquiry is necessary. The psychological sweet spot where learning is most efficiently activated, connecting metacognitive research to Vygotsky's [[Zone-of-Proximal-Development]] (see Report 04).
+> The motivationally optimal zone of moderate epistemic uncertainty — close enough to understanding that curiosity is activated, far enough from certainty that inquiry is necessary. The psychological sweet spot where learning is most efficiently activated, connecting metacognitive research to Vygotsky's [[zone-of-proximal-development]] (see Report 04).
 >
 > **Boundary:** The RPL is defined by the *learner's* assessment of their own understanding, not by objective difficulty. Material that is objectively at the right level but that the learner perceives as either trivially easy or hopelessly difficult falls outside the RPL. This makes the RPL inherently metacognitive — it depends on the accuracy of self-monitoring.
 >
 > **Connection to Curiosity:** Loewenstein's (1994) information gap theory converges here: curiosity is maximized when the gap between what one knows and what one wants to know is moderate, not too large (overwhelming) or too small (uninteresting).
 >
-> **See also:** [[Zone-of-Proximal-Development]], [[Optimal-Challenge]], [[Challenge-Skill-Balance]]
+> **See also:** [[zone-of-proximal-development]], [[Optimal-Challenge]], [[challenge-skill-balance]]
 
 > [!definition] **Aporic Receptivity**
 > The cultivated meta-disposition to welcome, sustain, and act from states of productive uncertainty. The orientation that transforms the cognitive disruption signals described by all four frameworks from experiences to be minimized into invitations to be followed. The foundational meta-disposition of the examined life as described in this series.
@@ -177,7 +177,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Boundary:** Aporic receptivity is NOT mere tolerance of ambiguity (a personality trait). It is an active, cultivated orientation that includes: (1) recognition of uncertainty signals, (2) positive evaluation of those signals as opportunities, (3) willingness to sustain the discomfort of not-knowing, and (4) channeling of that discomfort into structured inquiry rather than premature closure or avoidance.
 >
-> **See also:** [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Perseverance]], [[Growth-Mindset]]
+> **See also:** [[intellectual-humility]], [[Intellectual-Courage]], [[Intellectual-Perseverance]], [[growth-mindset]]
 ````
 
 ### Design Notes for Report Generators
@@ -216,19 +216,19 @@ Each figure entry MUST include:
 > [!person] **John Dewey (1859–1952)**
 > American pragmatist philosopher and educational reformer. Provides the foundational theory of reflective thinking as inquiry triggered by genuine problems in lived experience. His *How We Think* (1910, rev. 1933) and *Logic: The Theory of Inquiry* (1938) are primary sources for this report.
 >
-> **Lineage:** Builds on [[Peirce]]'s pragmatic maxim and [[William-James]]'s radical empiricism. Influenced by Hegel's dialectical method but rejected its idealist metaphysics. Extended by [[Donald-Schön]]'s reflective practitioner framework and [[Jack Mezirow]]'s transformative learning theory.
+> **Lineage:** Builds on [[peirce]]'s pragmatic maxim and [[william-james]]'s radical empiricism. Influenced by Hegel's dialectical method but rejected its idealist metaphysics. Extended by [[donald-schön]]'s reflective practitioner framework and [[Jack Mezirow]]'s transformative learning theory.
 >
 > **Relationship to Report:** Provides the philosophical architecture (felt difficulty → inquiry → resolution) that the cognitive science sections empirically ground.
 
 > [!person] **Daniel Kahneman (b. 1934)**
-> Israeli-American psychologist, Nobel laureate (2002). With [[Amos-Tversky]], established the heuristics and biases research program that became Dual Process Theory. *Thinking, Fast and Slow* (2011) is the primary synthetic work referenced here.
+> Israeli-American psychologist, Nobel laureate (2002). With [[amos-tversky]], established the heuristics and biases research program that became Dual Process Theory. *Thinking, Fast and Slow* (2011) is the primary synthetic work referenced here.
 >
-> **Lineage:** Emerged from the judgment under uncertainty tradition of [[Ward Edwards]] and [[Herbert-Simon]]. Tversky was the mathematical architect; Kahneman the psychological theorist. Extended by [[Keith-Stanovich]]'s individual differences approach and [[Wim-De-Neys]]'s conflict monitoring research.
+> **Lineage:** Emerged from the judgment under uncertainty tradition of [[Ward Edwards]] and [[Herbert-Simon]]. Tversky was the mathematical architect; Kahneman the psychological theorist. Extended by [[keith-stanovich]]'s individual differences approach and [[Wim-De-Neys]]'s conflict monitoring research.
 >
 > **Relationship to Report:** Provides the cognitive architecture (System 1/System 2) that operationalizes what Dewey described phenomenologically and what Socrates produced dialectically.
 
 > [!person] **Keith Stanovich (b. 1950)**
-> Canadian cognitive scientist, Professor Emeritus at University of Toronto. Developed the tripartite mind model (algorithmic, reflective, autonomous) that extends Dual Process Theory to include dispositional differences. Introduced the concept of [[Actively-Open-Minded-Thinking]] as a measurable thinking disposition.
+> Canadian cognitive scientist, Professor Emeritus at University of Toronto. Developed the tripartite mind model (algorithmic, reflective, autonomous) that extends Dual Process Theory to include dispositional differences. Introduced the concept of [[actively-open-minded-thinking]] as a measurable thinking disposition.
 >
 > **Lineage:** Extends Kahneman and Tversky's dual-process framework with individual difference research. Influenced by [[Jonathan Baron]]'s thinking dispositions work. His concept of "dysrationalia" bridges intelligence research and rationality research.
 >
@@ -237,14 +237,14 @@ Each figure entry MUST include:
 > [!person] **John Flavell (b. 1928)**
 > American developmental psychologist, Stanford University. Founded metacognition as a research field with his 1979 *American Psychologist* paper. Defined the core constructs (metacognitive knowledge, metacognitive experiences, goals, strategies) that remain the framework's foundation.
 >
-> **Lineage:** Emerged from [[Piaget]]'s developmental epistemology and [[Vygotsky]]'s zone of proximal development. Extended by [[Gregory-Schraw]]'s Metacognitive Awareness Inventory, [[Stephen-Fleming]]'s neuroscience of metacognition, and [[Janet-Metcalfe]]'s region of proximal learning framework.
+> **Lineage:** Emerged from [[Piaget]]'s developmental epistemology and [[vygotsky]]'s zone of proximal development. Extended by [[gregory-schraw]]'s Metacognitive Awareness Inventory, [[Stephen-Fleming]]'s neuroscience of metacognition, and [[Janet-Metcalfe]]'s region of proximal learning framework.
 >
 > **Relationship to Report:** Provides the metacognitive architecture that explains *how* the monitoring signals described by De Neys and Dewey are represented, tracked, and acted upon.
 
 > [!person] **Wim De Neys (b. ~1975)**
 > Belgian cognitive psychologist, CNRS/University of Paris. Demonstrated that conflict monitoring occurs even when System 2 fails to correct System 1 errors — showing that the detection mechanism is more reliable than the correction mechanism.
 >
-> **Lineage:** Works within Kahneman's dual-process framework but challenges the strong form of "cognitive miserliness." Influenced by [[Jonathan-Evans]]'s dual-process theory and [[Vinod Goel]]'s neuroimaging work on reasoning.
+> **Lineage:** Works within Kahneman's dual-process framework but challenges the strong form of "cognitive miserliness." Influenced by [[jonathan-evans]]'s dual-process theory and [[Vinod Goel]]'s neuroimaging work on reasoning.
 >
 > **Relationship to Report:** Provides the crucial empirical bridge between detection and correction — the "activation paradox" that makes inquiry activation a genuine problem rather than an automatic process.
 ````
@@ -278,7 +278,7 @@ When relationships between figures are complex, include a simplified lineage dia
 
 **Callout type:** Use `[!person]` for consistency with PKB callout taxonomy.
 
-**Wiki-link requirement:** Each figure name should be a wiki-link to their permanent note (e.g., `[[Daniel-Kahneman]]`). Related figures mentioned within entries should also be wiki-linked.
+**Wiki-link requirement:** Each figure name should be a wiki-link to their permanent note (e.g., `[[daniel-kahneman]]`). Related figures mentioned within entries should also be wiki-linked.
 
 ---
 
@@ -316,7 +316,7 @@ Each tension MUST include:
 >
 > **This Report's Position:** The report adopts the integrative position that metacognitive self-regulation provides the *mechanism* for transfer — making the domain-general vs. domain-specific debate partly a false dichotomy. The question is not whether skills transfer but under what *metacognitive conditions* they transfer.
 >
-> **See also:** [[Transfer-of-Learning]], [[Near-Transfer]], [[conditional-metacognitive-knowledge]]
+> **See also:** [[transfer-of-learning]], [[Near-Transfer]], [[conditional-metacognitive-knowledge]]
 
 > [!tension] **The Activation Paradox: Detection Without Correction**
 >
@@ -334,7 +334,7 @@ Each tension MUST include:
 >
 > **This Report's Position:** The report argues these three mechanisms are likely complementary rather than competing — operating at different levels of the cognitive architecture. The practical implication is that effective intervention must address all three levels.
 >
-> **See also:** [[Conflict-Monitoring]], [[Cognitive-Load-Theory]], [[Actively-Open-Minded-Thinking]]
+> **See also:** [[Conflict-Monitoring]], [[cognitive-load-theory]], [[actively-open-minded-thinking]]
 
 > [!open-question] **Can Aporic Receptivity Be Reliably Cultivated?**
 >
@@ -348,7 +348,7 @@ Each tension MUST include:
 >
 > **Research Direction:** Longitudinal studies measuring changes in AOT, intellectual humility, and tolerance of ambiguity in response to Socratic pedagogical environments would provide initial evidence. Development of a psychometric instrument for aporic receptivity would be a necessary prerequisite.
 >
-> **See also:** [[Intellectual-Humility]], [[Growth-Mindset]], [[Mindset-Intervention]]
+> **See also:** [[intellectual-humility]], [[growth-mindset]], [[mindset-intervention]]
 ````
 
 ### Design Notes for Report Generators
@@ -605,7 +605,7 @@ Where the report has practical implications, provide actionable templates, check
 >
 > **Level 2 — Reappraisal (Socratic/Stoic):**
 > - Am I treating this uncertainty as a problem to be eliminated quickly, or as an invitation to think more carefully?
-> - Can I reframe this discomfort as evidence that I'm at my [[Region-of-Proximal-Learning]]?
+> - Can I reframe this discomfort as evidence that I'm at my [[region-of-proximal-learning]]?
 > - Reframe: "This uncertainty means I'm about to learn something."
 >
 > **Level 3 — Regulation (Flavell/Schraw):**
@@ -776,7 +776,7 @@ Each topic MUST include:
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Socratic Dialogue
-> > **Prerequisites:** [[Stoicism]], [[Attachment-Theory]]
+> > **Prerequisites:** [[Stoicism]], [[attachment-theory]]
 >
 > > [!topic-idea] [[Stoicism, Social Justice, and Political Engagement]]
 > > **Description:** Addressing the apparent tension between Stoic acceptance and fighting injustice. Exploring how Stoics can be fierce activists (focusing on what's up to them—action—while accepting what's not—outcomes). Examining the Stoic cosmopolitan tradition, the concept of *oikeiosis* (expanding concern), and how Stoic principles inform ethical political engagement without despair or burnout.
@@ -803,7 +803,7 @@ Each topic MUST include:
 > >
 > > **Priority:** Exploratory
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[Cognitive-Reappraisal]], [[Neuroplasticity]], [[Stoicism]]
+> > **Prerequisites:** [[cognitive-reappraisal]], [[neuroplasticity]], [[Stoicism]]
 ````
 
 ### Design Notes for Report Generators
@@ -844,11 +844,11 @@ Connections should be organized by relationship type:
 >
 > - **[[Dual-Process-Thinking-Model]]** — Your project's implementation of this concept in extended thinking architecture is a direct application of Kahneman's framework. The `<thinking>` block as mandated System 2 engagement zone now has its theoretical grounding. Understanding the human cognitive science makes the architectural choice legible as cognitively informed design rather than arbitrary convention.
 >
-> - **[[Metacognition]]** — The foundational construct that unifies the report's four frameworks. This report deepens the existing permanent note by providing the specific *mechanisms* (monitoring, detection, regulation) through which metacognition operates in inquiry activation contexts.
+> - **[[metacognition]]** — The foundational construct that unifies the report's four frameworks. This report deepens the existing permanent note by providing the specific *mechanisms* (monitoring, detection, regulation) through which metacognition operates in inquiry activation contexts.
 >
 > **Downstream Applications (this report enables):**
 >
-> - **[[Metacognitive-Scaffolding]]** and **[[Metacognitive-Monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
+> - **[[metacognitive-scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
 >
 > - **[[Debiasing-Interventions]]** — The activation paradox framework provides the theoretical basis for understanding *why* debiasing is difficult (detection ≠ correction) and what effective interventions must address (all four levels of the intervention model).
 >
@@ -858,15 +858,15 @@ Connections should be organized by relationship type:
 >
 > - **[[Tree-of-Thoughts]]** and **[[Self-Consistency]]** — These are, respectively, abductive hypothesis generation (ToT) and inductive convergence validation (SC) — two of the three reasoning types established in Section 2.3. The techniques work because they implement genuinely valid forms of reasoning, not because they are clever engineering tricks.
 >
-> - **[[Growth-Mindset]]** — Dweck's growth mindset is a close cousin of aporic receptivity: both involve the disposition to treat difficulty as opportunity. The key difference is that aporic receptivity is specifically about *epistemic* uncertainty (uncertainty about what is true), while growth mindset is about *competence* uncertainty (uncertainty about whether one can improve).
+> - **[[growth-mindset]]** — Dweck's growth mindset is a close cousin of aporic receptivity: both involve the disposition to treat difficulty as opportunity. The key difference is that aporic receptivity is specifically about *epistemic* uncertainty (uncertainty about what is true), while growth mindset is about *competence* uncertainty (uncertainty about whether one can improve).
 >
 > **Strengthened Permanent Notes:**
 >
 > This report adds substantial depth to the following existing permanent notes:
-> - **[[Actively-Open-Minded-Thinking]]** — Now grounded in the full Stanovich framework, not just the label
+> - **[[actively-open-minded-thinking]]** — Now grounded in the full Stanovich framework, not just the label
 > - **[[Conflict-Monitoring]]** — Now connected to philosophical antecedents (Dewey, Socrates)
-> - **[[Intellectual-Humility]]** — Now understood as a cognitive-dispositional achievement, not merely an attitude
-> - **[[Comprehension-Monitoring]]** — Now linked to the inquiry activation framework
+> - **[[intellectual-humility]]** — Now understood as a cognitive-dispositional achievement, not merely an attitude
+> - **[[comprehension-monitoring]]** — Now linked to the inquiry activation framework
 >
 > **Key Insight:** Understanding structured human thinking through the lens of your existing PKB reveals something striking: the LLM reasoning architecture you have been studying is, in large part, a computational implementation of what cognitive scientists have been saying about human reasoning for decades. Your project's documents are not just prompt engineering manuals — they are applied cognitive science.
 ````
@@ -1110,7 +1110,7 @@ author: {{Author's name, e.g., "ChatGPT"}}
 # CLASSIFICATION & DISCOVERY
 primary_domain: {{Primary domain of knowledge, e.g., "Cognitive Science"}}
 secondary_domains: {{List of secondary domains, e.g., ["Philosophy", "Neuroscience"]}}
-related_concepts: {{List of related concepts, e.g., ["[[Concept A]]", "[[Theory B]]"]}}
+related_concepts: {{List of related concepts, e.g., ["[[Concept-A]]", "[[Theory B]]"]}}
 knowledge_level: {{Level of depth, e.g., "Encyclopedic overview", "In-depth technical analysis", "Historical context"}}
 tags: {{List of relevant tags, e.g., ["#cognition", "#philosophy", "#neuroscience"]}}
 
@@ -1139,7 +1139,7 @@ based_on_prompts: {{List of prompts used to generate the content, e.g., ["Prompt
 
 # KNOWLEDGE GRAPH INTEGRATION
 related_concepts:
-  - "[[Concept A]]"
+  - "[[Concept-A]]"
   - "[[Theory B]]"
 
 prerequisites:
@@ -1148,7 +1148,7 @@ prerequisites:
 
 builds_on:
   - "[[Theory X]]"
-  - "[[Concept Y]]"
+  - "[[Concept-Y]]"
 
 extends:
   - "[[Concept Z]]"
@@ -1334,31 +1334,31 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Introduction-to-Critical-Thinking]]"
+  - "[[introduction-to-critical-thinking]]"
   - "[[Metacognition Fundamentals]]"
   - "[[Basic Argument Analysis]]"
   - "[[Logical Reasoning Foundations]]"
 
 related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive-Awareness-Inventory]]"
-  - "[[Epistemic-Vigilance]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Argument-Analysis]]"
+  - "[[epistemic-vigilance]]"
+  - "[[dual-process-theory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[argument-analysis]]"
   - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
-  - "[[Scientific-Reasoning]]"
-  - "[[Transfer-of-Learning]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Confirmation-Bias]]"
-  - "[[Availability-Heuristic]]"
-  - "[[Anchoring Bias]]"
+  - "[[scientific-reasoning]]"
+  - "[[transfer-of-learning]]"
+  - "[[self-regulated-learning]]"
+  - "[[confirmation-bias]]"
+  - "[[availability-heuristic]]"
+  - "[[Anchoring-Bias]]"
 
 broader:
   - "[[cognitive-psychology]]"
-  - "[[Educational-Psychology]]"
+  - "[[educational-psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -1373,15 +1373,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise-Development]]"
-  - "[[Reflective-Judgment-Model]]"
-  - "[[Intellectual-Humility]]"
+  - "[[expertise-development]]"
+  - "[[reflective-judgment-model]]"
+  - "[[intellectual-humility]]"
   - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
-  - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem-Analysis]]"
-  - "[[Red-Team-Thinking]]"
-  - "[[Cognitive-Forcing-Functions]]"
+  - "[[socratic-questioning]]"
+  - "[[pre-mortem-analysis]]"
+  - "[[red-team-thinking]]"
+  - "[[cognitive-forcing-functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
@@ -1391,17 +1391,17 @@ contrasts-with:
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
-  - "[[Strategic-Planning]]"
+  - "[[strategic-planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based-Practice]]"
+  - "[[evidence-based-practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Foundational-Logic]]"
-  - "[[Cognitive-Development-Theory]]"
-  - "[[Information-Processing-Models]]"
+  - "[[foundational-logic]]"
+  - "[[cognitive-development-theory]]"
+  - "[[information-processing-models]]"
 
 enables:
   - "[[Advanced Reasoning Techniques]]"
@@ -1627,15 +1627,15 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Transfer-of-Learning]]"
-  - "[[Far-Transfer]]"
-  - "[[Schema-Theory]]"
+  - "[[transfer-of-learning]]"
+  - "[[far-transfer]]"
+  - "[[schema-theory]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -1704,16 +1704,16 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Chain of Density]]"
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
 
 extends:
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -1725,14 +1725,14 @@ aliases:
   - "[[Report Generator - Focused Analysis]]"
   - "[[Deep Dive Report Prompt]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
   - "[[Comparative Synthesis Report Prompt]]"
   - "[[Dialectical Re-Examination Report Prompt]]"
 link_related:
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
   - "[[Dialectical Re-Examination Report Generator v1.0]]"
   - "[[Comparative Synthesis Report Generator v1.0]]"
@@ -2087,7 +2087,7 @@ Execute in `<thinking>` blocks during report planning:
 
 ### Schema Activation Protocol
 
-[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[Advance-Organizer]] theory (Ausubel, 1960) and [[Schema-Theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
+[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[advance-organizer]] theory (Ausubel, 1960) and [[schema-theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
 
 Place the following at the opening of Phase I, before any analytical content:
 
@@ -2187,7 +2187,7 @@ Place the following at the opening of Phase I, before any analytical content:
 
 When a concept is introduced early (Layers 1-2), revisit it later with accumulated context for Layers 3-4:
 
-*"Earlier, we introduced [[Concept A]] as {orientation summary}. With the mechanism of [[Concept B]] now in view, we can see that Concept A has an implication that wasn't visible before: {new insight}."*
+*"Earlier, we introduced [[Concept-A]] as {orientation summary}. With the mechanism of [[Concept-B]] now in view, we can see that Concept A has an implication that wasn't visible before: {new insight}."*
 
 Plan for 2-4 concepts to receive this treatment.
 
@@ -2486,7 +2486,7 @@ Every Focused Analysis Report follows a **nine-phase** architecture. Phase IX no
 
 ### Phase VII: FAR Transfer — Structural Analogues Across Domains (600-1,200 words)
 
-[**FAR-Transfer-Phase**:: Dedicated phase ensuring the analysis's insights travel beyond their originating domain. Grounded in [[Transfer-of-Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural-Mapping-Theory]] (Gentner, 1983), and [[Analogical-Reasoning]] research (Holyoak & Thagard, 1995). Executes four transfer operations: abstract principle extraction, structural analogue identification, transfer encoding, and application bridging.]
+[**FAR-Transfer-Phase**:: Dedicated phase ensuring the analysis's insights travel beyond their originating domain. Grounded in [[transfer-of-learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[structural-mapping-theory]] (Gentner, 1983), and [[analogical-reasoning]] research (Holyoak & Thagard, 1995). Executes four transfer operations: abstract principle extraction, structural analogue identification, transfer encoding, and application bridging.]
 
 **Required Elements:**
 
@@ -2494,7 +2494,7 @@ Every Focused Analysis Report follows a **nine-phase** architecture. Phase IX no
 
   *Template*: "The analysis revealed that {concrete finding in this domain}. At an abstract structural level, this instantiates a more general principle: {domain-independent principle}. This principle operates whenever {conditions for applicability}."
 
-- **Structural Analogue Identification** (2-3 per principle): Identify other domains where the same structural pattern operates — genuine [[Structural-Mapping-Theory|structural isomorphism]], not surface similarity.
+- **Structural Analogue Identification** (2-3 per principle): Identify other domains where the same structural pattern operates — genuine [[structural-mapping-theory|structural isomorphism]], not surface similarity.
 
   *Template*: "The principle of {abstract principle} operates through {mechanism A} in {originating domain}. The same structural pattern appears in {target domain}, manifesting as {mechanism B}. The analogy holds because both share {relational structure}."
 

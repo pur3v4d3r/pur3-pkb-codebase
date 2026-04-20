@@ -5,6 +5,7 @@
 title: "Goal Structure"
 aliases:
   - "Goal Structure"
+  - "Goal-Structure"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,34 +70,34 @@ narrower:
   []
 
 see-also:
-  - "[[Achievement-Goal-Theory]]"
-  - "[[John-G.-Nicholls]]"
-  - "[[Carol-S.-Dweck]]"
-  - "[[Carole-Ames]]"
-  - "[[Achievement-Goal]]"
-  - "[[Goal-Orientation]]"
-  - "[[Mastery-Goal]]"
-  - "[[Performance-Goal]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Differentiated-Conception-of-Ability]]"
-  - "[[Ego-Involvement]]"
-  - "[[Entity-Theory-of-Intelligence]]"
-  - "[[Performance-Goal-Orientation]]"
-  - "[[Fixed-Mindset]]"
-  - "[[Incremental-Theory-of-Intelligence]]"
-  - "[[Growth-Mindset]]"
-  - "[[Mastery-Goal-Orientation]]"
-  - "[[Task-Involvement]]"
-  - "[[Helpless-Response-Pattern]]"
-  - "[[Mastery-Goal-Orientation]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[john-g.-nicholls|John-G.-Nicholls]]"
+  - "[[carol-s.-dweck|Carol-S.-Dweck]]"
+  - "[[carole-ames|Carole-Ames]]"
+  - "[[achievement-goal|Achievement-Goal]]"
+  - "[[goal-orientation|Goal-Orientation]]"
+  - "[[mastery-goal|Mastery-Goal]]"
+  - "[[performance-goal|Performance-Goal]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[differentiated-conception-of-ability|Differentiated-Conception-of-Ability]]"
+  - "[[ego-involvement|Ego-Involvement]]"
+  - "[[entity-theory-of-intelligence|Entity-Theory-of-Intelligence]]"
+  - "[[performance-goal-orientation|Performance-Goal-Orientation]]"
+  - "[[fixed-mindset|Fixed-Mindset]]"
+  - "[[incremental-theory-of-intelligence|Incremental-Theory-of-Intelligence]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[mastery-goal-orientation|Mastery-Goal-Orientation]]"
+  - "[[task-involvement|Task-Involvement]]"
+  - "[[helpless-response-pattern|Helpless-Response-Pattern]]"
+  - "[[mastery-goal-orientation|Mastery-Goal-Orientation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Attribution-Theory]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Learned-Helplessness]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[learned-helplessness|Learned-Helplessness]]"
 
 enables:
   []
@@ -117,7 +118,7 @@ importance: high
 > [!definition] **Goal Structure** *(from [[achievement-goal-theory-foundational-report-2026-03-31]])*
 > The achievement goal framework embedded in a learning or organizational environment — the pattern of practices, evaluation criteria, recognition systems, and competitive norms that collectively define what "success" means within that environment and thereby shape which goals participants adopt.
 > 
-> **See also:** [[Mastery-Goal-Orientation]], [[Performance-Goal-Orientation]], [[Autonomy-Supportive-Environment]], [[Instructional-Design]]
+> **See also:** [[mastery-goal-orientation]], [[performance-goal-orientation]], [[autonomy-supportive-environment]], [[instructional-design]]
 
 ## Core Explanation
 
@@ -224,7 +225,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Achievement-Goal-Theory]] · [[John-G.-Nicholls]] · [[Carol-S.-Dweck]] · [[Carole-Ames]] · [[Achievement-Goal]] · [[Goal-Orientation]] · [[Mastery-Goal]] · [[Performance-Goal]] · [[Intrinsic-Motivation]] · [[Differentiated-Conception-of-Ability]] · [[Ego-Involvement]] · [[Entity-Theory-of-Intelligence]] · [[Performance-Goal-Orientation]] · [[Fixed-Mindset]] · [[Incremental-Theory-of-Intelligence]] · [[Growth-Mindset]] · [[Mastery-Goal-Orientation]] · [[Task-Involvement]] · [[Helpless-Response-Pattern]] · [[Mastery-Goal-Orientation]] · [[Intrinsic-Motivation]] · [[Flow]] · [[Autonomous-Motivation]] · [[Ego-Involvement]] · [[Performance-Goal-Orientation]] · [[Entity-Theory-of-Intelligence]] · [[Contingent-Self-Worth]] · [[Mastery-Goal-Orientation]] · [[Performance-Goal-Orientation]] · [[Carol-S.-Dweck]]
+[[achievement-goal-theory|Achievement-Goal-Theory]] · [[john-g.-nicholls|John-G.-Nicholls]] · [[carol-s.-dweck|Carol-S.-Dweck]] · [[carole-ames|Carole-Ames]] · [[achievement-goal|Achievement-Goal]] · [[goal-orientation|Goal-Orientation]] · [[mastery-goal|Mastery-Goal]] · [[performance-goal|Performance-Goal]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[differentiated-conception-of-ability|Differentiated-Conception-of-Ability]] · [[ego-involvement|Ego-Involvement]] · [[entity-theory-of-intelligence|Entity-Theory-of-Intelligence]] · [[performance-goal-orientation|Performance-Goal-Orientation]] · [[fixed-mindset|Fixed-Mindset]] · [[incremental-theory-of-intelligence|Incremental-Theory-of-Intelligence]] · [[growth-mindset|Growth-Mindset]] · [[mastery-goal-orientation|Mastery-Goal-Orientation]] · [[task-involvement|Task-Involvement]] · [[helpless-response-pattern|Helpless-Response-Pattern]] · [[mastery-goal-orientation|Mastery-Goal-Orientation]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[flow|Flow]] · [[autonomous-motivation|Autonomous-Motivation]] · [[ego-involvement|Ego-Involvement]] · [[performance-goal-orientation|Performance-Goal-Orientation]] · [[entity-theory-of-intelligence|Entity-Theory-of-Intelligence]] · [[contingent-self-worth|Contingent-Self-Worth]] · [[mastery-goal-orientation|Mastery-Goal-Orientation]] · [[performance-goal-orientation|Performance-Goal-Orientation]] · [[carol-s.-dweck|Carol-S.-Dweck]]
 
 ## References
 

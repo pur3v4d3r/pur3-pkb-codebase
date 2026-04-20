@@ -192,7 +192,7 @@ aliases: [Slip Box, Note-Taking System, Luhmann Method]
 ```
 
 **Benefits:**
-- `[[PKM]]` and `[[Personal-Knowledge-Management]]` both resolve to same note
+- `[[PKM]]` and `[[personal-knowledge-management]]` both resolve to same note
 - Search finds note via any alias
 - Graph view shows connections via all alias variations
 
@@ -400,7 +400,7 @@ Notes without links are isolated islands. Connected notes form a navigable knowl
 
 **Philosophy:**
 - **Never under-link** — err on side of more links
-- **Link concepts, not adjectives** — `[[Cognitive-Load]]` not `[[High]]`
+- **Link concepts, not adjectives** — `[[cognitive-load]]` not `[[High]]`
 - **First mention priority** — link first occurrence of concept
 - **Context over precision** — better to have 25 links with some "wrong" than 8 "perfect" links
 
@@ -410,11 +410,11 @@ Format as `[[wiki-link]]` if term meets **ANY** of these criteria:
 
 | Criterion | Description | Example |
 |-----------|-------------|---------|
-| **Core Concept** | Central to response content | `[[Cognitive-Load-Theory]]` |
-| **Technical Term** | Requires definition or explanation | `[[Working-Memory]]`, `[[Gradient Descent]]` |
-| **Linkable Topic** | Has potential for separate note | `[[Spaced-Repetition]]` |
+| **Core Concept** | Central to response content | `[[cognitive-load-theory]]` |
+| **Technical Term** | Requires definition or explanation | `[[working-memory]]`, `[[Gradient Descent]]` |
+| **Linkable Topic** | Has potential for separate note | `[[spaced-repetition]]` |
 | **Cross-Reference** | Connects to existing knowledge | `[[Zettelkasten-Method]]` |
-| **Exploratory Depth** | Subject area with theoretical foundation | `[[Instructional-Design]]` |
+| **Exploratory Depth** | Subject area with theoretical foundation | `[[instructional-design]]` |
 | **Framework/Methodology** | Named approach or system | `[[Agile Development]]` |
 
 **Mental Model:** If you would explain this term to someone unfamiliar with it, or if it could warrant its own note, link it.
@@ -442,7 +442,7 @@ Format as `[[wiki-link]]` if term meets **ANY** of these criteria:
 #### Pattern 1: Concept Introduction
 
 ```markdown
-[[Cognitive-Load-Theory]] explains how [[Working-Memory]] limitations affect learning. The theory identifies three types of load: [[Intrinsic-Load]], [[Extraneous-Load]], and [[Germane-Load]].
+[[cognitive-load-theory]] explains how [[working-memory]] limitations affect learning. The theory identifies three types of load: [[Intrinsic-Load]], [[extraneous-load]], and [[germane-load]].
 ```
 
 **Analysis:** 5 links in 2 sentences—appropriate for reference note introduction.
@@ -458,7 +458,7 @@ In [[Machine-Learning]], [[Neural-Networks]] use [[Backpropagation]] to update [
 #### Pattern 3: Contextual Linking
 
 ```markdown
-The [[Feynman Technique]] involves explaining concepts in simple terms, identifying knowledge gaps, and iterating until understanding is complete. This approach aligns with principles from [[Active-Learning]] and [[Metacognition]].
+The [[Feynman Technique]] involves explaining concepts in simple terms, identifying knowledge gaps, and iterating until understanding is complete. This approach aligns with principles from [[Active-Learning]] and [[metacognition]].
 ```
 
 **Analysis:** 3 links in 2 sentences—moderate density for methodological content.
@@ -490,7 +490,7 @@ The [[Feynman Technique]] involves explaining concepts in simple terms, identify
 When display text should differ from target note:
 
 ```markdown
-[[Cognitive-Load-Theory|CLT]] is a framework...
+[[cognitive-load-theory|CLT]] is a framework...
 [[Zettelkasten-Method|slip-box system]]...
 [[Neural-Networks|deep learning models]]...
 ```
@@ -500,7 +500,7 @@ When display text should differ from target note:
 Link to specific section or block:
 
 ```markdown
-See [[Cognitive-Load-Theory#Intrinsic Load]]
+See [[cognitive-load-theory#Intrinsic Load]]
 Reference [[React Hooks#useState]]
 ```
 
@@ -517,7 +517,7 @@ Embed entire note:
 Placeholder for future notes:
 
 ```markdown
-This concept relates to [[Self-Regulated-Learning]] (note to be created).
+This concept relates to [[self-regulated-learning]] (note to be created).
 ```
 
 ### Linking Decision Tree
@@ -559,7 +559,7 @@ Encounter term while writing
 First occurrence of concept should be linked. Subsequent mentions: link if >500 words apart.
 
 **2. Link Concepts, Not Modifiers**
-- ✅ `[[Cognitive-Load]] is high when...`
+- ✅ `[[cognitive-load]] is high when...`
 - ❌ `Cognitive load is [[high]] when...`
 
 **3. Bidirectional Thinking**
@@ -585,7 +585,7 @@ Create MOCs when you have 10+ notes on a topic. MOC becomes navigation hub with 
 
 **3. Broken Link Syntax**
 ❌ `[Cognitive Load](cognitive-load.md)` (markdown link)
-✅ `[[Cognitive-Load]]` (wiki-link)
+✅ `[[cognitive-load]]` (wiki-link)
 
 **4. No Backlink Strategy**
 Creating links from Note A → Note B but Note B never links back creates one-way graph.
@@ -1361,7 +1361,7 @@ status: evergreen
 
 # Cognitive Load Theory
 
-[[Working-Memory]] limitations create [[Cognitive-Load]]...
+[[working-memory]] limitations create [[cognitive-load]]...
 
 # Dataview Query:
 LIST

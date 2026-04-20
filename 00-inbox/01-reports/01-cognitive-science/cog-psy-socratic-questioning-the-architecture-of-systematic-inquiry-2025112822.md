@@ -125,38 +125,38 @@ This will be a comprehensive reference note with the following architecture:
 9. Synthesis & Reflection
 
 **WIKI-LINK OPPORTUNITIES (targeting 20-35 for reference note):**
-- [[Socratic-Method]]
-- [[Elenchus]]
+- [[socratic-method]]
+- [[elenchus]]
 - [[Richard-Paul]]
 - [[Linda-Elder]]
-- [[Foundation for Critical Thinking]]
-- [[Critical-Thinking]]
-- [[Metacognition]]
+- [[Foundation-for-Critical-Thinking]]
+- [[critical-thinking]]
+- [[metacognition]]
 - [[Clarification Questions]]
 - [[Assumption Analysis]]
 - [[Evidence-Based Reasoning]]
 - [[Perspective-Taking]]
 - [[Implication Analysis]]
 - [[Consequential Thinking]]
-- [[Intellectual-Humility]]
+- [[intellectual-humility]]
 - [[Intellectual-Courage]]
 - [[Bloom's-Taxonomy]]
 - [[Higher-Order Thinking]]
 - [[Socratic Circles]]
 - [[Socratic Seminar]]
 - [[Dialectical Reasoning]]
-- [[Cognitive-Biases]]
-- [[Confirmation-Bias]]
+- [[cognitive-biases]]
+- [[confirmation-bias]]
 - [[Self-Deception]]
-- [[Andragogy]]
+- [[andragogy]]
 - [[pedagogy]]
 - [[Dialogic Teaching]]
 - [[Questioning Strategies]]
 - [[Power Dynamics]]
-- [[Epistemic-Humility]]
-- [[Deep-Processing]]
+- [[epistemic-humility]]
+- [[deep-processing]]
 - [[Surface Learning]]
-- [[Transfer-of-Learning]]
+- [[transfer-of-learning]]
 
 **CALLOUT STRATEGY:**
 - [!abstract] for opening summary
@@ -187,7 +187,7 @@ aliases: [Socratic Questions, Socratic Inquiry, Systematic Questioning, Paul's T
 ## 🎓 Abstract: The Architecture of Systematic Inquiry
 
 > [!abstract]
-> **Socratic Questioning** represents the systematization of an ancient philosophical method into a modern pedagogical and analytical framework. Developed primarily by [[Richard-Paul]] and [[Linda-Elder]] through the [[Foundation for Critical Thinking]], this taxonomy transforms the classical [[Elenchus]] into a structured cognitive tool with six discrete question types, each targeting specific layers of thinking. Unlike casual inquiry, Socratic questioning operates as **disciplined, systematic, and deep interrogation** that probes foundational concepts, uncovers hidden assumptions, evaluates evidence quality, explores alternative perspectives, traces logical implications, and examines the questioning process itself. The framework functions simultaneously as an andragogical method for cultivating [[Critical-Thinking]], a metacognitive scaffold for [[Self-Regulated-Learning]], and a therapeutic technique in [[Cognitive-Behavioral-Therapy]]. This reference note provides an encyclopedic examination of the structural components, cognitive mechanisms, pedagogical applications, and ethical considerations of Socratic questioning as both art and science.
+> **Socratic Questioning** represents the systematization of an ancient philosophical method into a modern pedagogical and analytical framework. Developed primarily by [[Richard-Paul]] and [[Linda-Elder]] through the [[Foundation-for-Critical-Thinking]], this taxonomy transforms the classical [[elenchus]] into a structured cognitive tool with six discrete question types, each targeting specific layers of thinking. Unlike casual inquiry, Socratic questioning operates as **disciplined, systematic, and deep interrogation** that probes foundational concepts, uncovers hidden assumptions, evaluates evidence quality, explores alternative perspectives, traces logical implications, and examines the questioning process itself. The framework functions simultaneously as an andragogical method for cultivating [[critical-thinking]], a metacognitive scaffold for [[self-regulated-learning]], and a therapeutic technique in [[cognitive-behavioral-therapy]]. This reference note provides an encyclopedic examination of the structural components, cognitive mechanisms, pedagogical applications, and ethical considerations of Socratic questioning as both art and science.
 
 ---
 
@@ -195,17 +195,17 @@ aliases: [Socratic Questions, Socratic Inquiry, Systematic Questioning, Paul's T
 
 ### The Socratic Legacy and Its Modern Transformation
 
-The intellectual lineage of Socratic questioning traces back to the Athenian philosopher Socrates (circa 470-399 BCE), whose dialectical method—the **elenchus**—involved systematic cross-examination designed to expose contradictions in interlocutors' beliefs and stimulate genuine philosophical inquiry. As documented in [[Plato]]'s dialogues, Socrates employed relentless questioning not to humiliate but to cultivate [[Intellectual-Humility]]—the recognition that claimed knowledge often rests on unexamined assumptions. His famous declaration of ignorance ("I know that I know nothing") established a philosophical posture that prioritizes **inquiry over assertion**, a stance fundamentally opposed to dogmatic teaching.
+The intellectual lineage of Socratic questioning traces back to the Athenian philosopher Socrates (circa 470-399 BCE), whose dialectical method—the **elenchus**—involved systematic cross-examination designed to expose contradictions in interlocutors' beliefs and stimulate genuine philosophical inquiry. As documented in [[Plato]]'s dialogues, Socrates employed relentless questioning not to humiliate but to cultivate [[intellectual-humility]]—the recognition that claimed knowledge often rests on unexamined assumptions. His famous declaration of ignorance ("I know that I know nothing") established a philosophical posture that prioritizes **inquiry over assertion**, a stance fundamentally opposed to dogmatic teaching.
 
 > [!the-philosophy]
 > Socrates believed that **questioning was the only defensible form of teaching**. Knowledge could not be transmitted like cargo from teacher to student; rather, it had to be *birthed* through the labor of disciplined inquiry—a process he compared to midwifery ([[Maieutics]]). The teacher's role was not to fill empty vessels but to assist in the delivery of understanding already gestating within the learner's mind.
 
-However, the Socratic method as practiced in ancient Athens remained largely **unsystematized**—a philosophical art dependent on Socrates' genius for improvisation rather than a replicable pedagogical framework. The transformation from philosophical practice to educational methodology required the conceptual scaffolding provided by modern [[Critical-Thinking]] theory. This synthesis occurred primarily through the work of **Richard Paul** (1937-2015), a philosopher and educational theorist who founded the Center for Critical Thinking at Sonoma State University in 1980 and subsequently established the [[Foundation for Critical Thinking]].
+However, the Socratic method as practiced in ancient Athens remained largely **unsystematized**—a philosophical art dependent on Socrates' genius for improvisation rather than a replicable pedagogical framework. The transformation from philosophical practice to educational methodology required the conceptual scaffolding provided by modern [[critical-thinking]] theory. This synthesis occurred primarily through the work of **Richard Paul** (1937-2015), a philosopher and educational theorist who founded the Center for Critical Thinking at Sonoma State University in 1980 and subsequently established the [[Foundation-for-Critical-Thinking]].
 
-Paul's revolutionary contribution was recognizing that effective Socratic questioning required **explicit understanding of thinking's architecture**. Working with colleague [[Linda-Elder]], Paul developed a comprehensive taxonomy grounded in critical thinking concepts, particularly the **[[Elements-of-Thought]]** (purpose, question, information, inferences, concepts, assumptions, implications, point of view) and **[[Intellectual-Standards]]** (clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness). This theoretical foundation allowed Paul and Elder to systematize questioning strategies, making the Socratic method teachable, learnable, and applicable across disciplines.
+Paul's revolutionary contribution was recognizing that effective Socratic questioning required **explicit understanding of thinking's architecture**. Working with colleague [[Linda-Elder]], Paul developed a comprehensive taxonomy grounded in critical thinking concepts, particularly the **[[elements-of-thought]]** (purpose, question, information, inferences, concepts, assumptions, implications, point of view) and **[[intellectual-standards]]** (clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness). This theoretical foundation allowed Paul and Elder to systematize questioning strategies, making the Socratic method teachable, learnable, and applicable across disciplines.
 
 > [!key-claim]
-> The goal of critical thinking is to establish an additional level of thinking to our thinking, a powerful inner voice of reason, that monitors, assesses, and reconstitutes—in a more rational direction—our thinking, feeling, and action. Socratic questioning serves as the primary technique for developing this "inner voice" through external modeling that eventually becomes internalized as [[Metacognitive-Monitoring]].
+> The goal of critical thinking is to establish an additional level of thinking to our thinking, a powerful inner voice of reason, that monitors, assesses, and reconstitutes—in a more rational direction—our thinking, feeling, and action. Socratic questioning serves as the primary technique for developing this "inner voice" through external modeling that eventually becomes internalized as [[metacognitive-monitoring]].
 
 ---
 
@@ -247,7 +247,7 @@ Paul and Elder's most influential contribution to the systematization of Socrati
 
 **Cognitive Function**: Clarification questions combat the pervasive problem of [[Conceptual Confusion]]—the phenomenon where people use words without clear definitions, leading to pseudo-disagreements that evaporate once terms are properly defined. By demanding explicit articulation, these questions expose vagueness, ambiguity, and imprecision that would otherwise remain hidden beneath the surface of discourse.
 
-In educational contexts, clarification questions help students develop the crucial skill of **[[Operational Definition]]**—the ability to translate abstract concepts into concrete, observable specifications. In therapeutic settings, particularly within [[Cognitive-Behavioral-Therapy]], clarification questions help clients precisely identify the content of [[Automatic Thoughts]] that previously existed as vague feelings of distress without clear propositional content.
+In educational contexts, clarification questions help students develop the crucial skill of **[[Operational Definition]]**—the ability to translate abstract concepts into concrete, observable specifications. In therapeutic settings, particularly within [[cognitive-behavioral-therapy]], clarification questions help clients precisely identify the content of [[Automatic Thoughts]] that previously existed as vague feelings of distress without clear propositional content.
 
 ### 🧩 Type 2: Questions that Probe Assumptions
 
@@ -261,16 +261,16 @@ In educational contexts, clarification questions help students develop the cruci
 > - "Is that assumption always valid, or only under certain conditions?"
 > - "What would happen if that assumption turned out to be false?"
 
-**Cognitive Function**: These questions target [[Presuppositions]]—the background framework of beliefs that must be true for a claim to make sense. By surfacing assumptions, Socratic questioning enables their examination through the light of evidence and logic. This process is particularly powerful for combating [[Cognitive-Biases]], especially [[Confirmation-Bias]]—the tendency to search for, interpret, and recall information that confirms pre-existing beliefs while ignoring contradictory evidence.
+**Cognitive Function**: These questions target [[Presuppositions]]—the background framework of beliefs that must be true for a claim to make sense. By surfacing assumptions, Socratic questioning enables their examination through the light of evidence and logic. This process is particularly powerful for combating [[cognitive-biases]], especially [[confirmation-bias]]—the tendency to search for, interpret, and recall information that confirms pre-existing beliefs while ignoring contradictory evidence.
 
 > [!analogy]
 > Think of assumptions as the **underground foundation of a building**. The visible structure (conclusions and arguments) rests entirely upon this hidden base. Assumption-probing questions function like an archaeological excavation, revealing the foundation so its structural integrity can be assessed. A magnificent building erected on unstable ground will inevitably collapse—just as brilliant reasoning founded on false premises will necessarily lead to error.
 
-In educational contexts, assumption-probing cultivates [[Epistemic-Humility]]—awareness that what we "know" often rests on unexamined foundations. Research on the [[Socratic-Method]] demonstrates that the elenchus produces resistance to belief bias and logical inconsistency by highlighting differences between initial responses (attributable to Type 1 heuristic processing) and responses given after detailed questioning.
+In educational contexts, assumption-probing cultivates [[epistemic-humility]]—awareness that what we "know" often rests on unexamined foundations. Research on the [[socratic-method]] demonstrates that the elenchus produces resistance to belief bias and logical inconsistency by highlighting differences between initial responses (attributable to Type 1 heuristic processing) and responses given after detailed questioning.
 
 ### 📚 Type 3: Questions that Probe Reasons and Evidence
 
-**Evidence-probing questions** examine the **empirical and logical support** for knowledge claims. These questions enforce the fundamental principle that beliefs should be proportioned to evidence—a cornerstone of both [[Scientific-Reasoning]] and [[Rational Epistemology]].
+**Evidence-probing questions** examine the **empirical and logical support** for knowledge claims. These questions enforce the fundamental principle that beliefs should be proportioned to evidence—a cornerstone of both [[scientific-reasoning]] and [[Rational Epistemology]].
 
 > [!example]
 > Representative evidence-probing questions include:
@@ -281,15 +281,15 @@ In educational contexts, assumption-probing cultivates [[Epistemic-Humility]]—
 > - "What would count as evidence *against* your position?"
 > - "Are there alternative explanations for this evidence?"
 
-**Cognitive Function**: Evidence-probing questions target the inferential link between *data* and *conclusions*. They combat the natural human tendency toward [[Motivated-Reasoning]]—drawing conclusions first based on emotional preferences, then selectively gathering evidence to support pre-determined beliefs. By demanding that claims be grounded in verifiable evidence, these questions cultivate the disposition of [[Evidence-Based Reasoning]].
+**Cognitive Function**: Evidence-probing questions target the inferential link between *data* and *conclusions*. They combat the natural human tendency toward [[motivated-reasoning]]—drawing conclusions first based on emotional preferences, then selectively gathering evidence to support pre-determined beliefs. By demanding that claims be grounded in verifiable evidence, these questions cultivate the disposition of [[Evidence-Based Reasoning]].
 
 These questions also promote understanding of **[[Inference Quality]]**—recognizing that the strength of a conclusion depends not merely on having *some* evidence but on having evidence of sufficient quality, quantity, and relevance. A single anecdote, for instance, provides weaker support than systematic data from multiple sources. Socratic questioning makes these distinctions explicit.
 
-In therapeutic applications, evidence-probing questions are central to [[Cognitive-Restructuring]]. Research demonstrates that Socratic questioning achieves symptom reduction by promoting cognitive change, with this relationship being stronger for clients who started treatment with lower CBT skills. By systematically examining the evidence for distorted beliefs (e.g., "I'm a complete failure"), clients discover that these beliefs rest on selective attention to negative information rather than balanced evaluation of total evidence.
+In therapeutic applications, evidence-probing questions are central to [[cognitive-restructuring]]. Research demonstrates that Socratic questioning achieves symptom reduction by promoting cognitive change, with this relationship being stronger for clients who started treatment with lower CBT skills. By systematically examining the evidence for distorted beliefs (e.g., "I'm a complete failure"), clients discover that these beliefs rest on selective attention to negative information rather than balanced evaluation of total evidence.
 
 ### 👁️ Type 4: Questions about Viewpoints and Perspectives
 
-**Perspective-taking questions** deliberately **decentre cognition** by forcing consideration of alternative frameworks, competing interpretations, and opposing viewpoints. These questions combat [[Egocentric-Thinking]]—the natural tendency to view situations exclusively from one's own perspective while remaining oblivious to legitimate alternative interpretations.
+**Perspective-taking questions** deliberately **decentre cognition** by forcing consideration of alternative frameworks, competing interpretations, and opposing viewpoints. These questions combat [[egocentric-thinking]]—the natural tendency to view situations exclusively from one's own perspective while remaining oblivious to legitimate alternative interpretations.
 
 > [!example]
 > Representative perspective-taking questions include:
@@ -351,7 +351,7 @@ In ethical reasoning, implication-probing enforces the principle of **[[Universa
 
 These questions prevent inquiry from becoming **mechanistic**—mindlessly following questioning protocols without understanding their purpose. Meta-questions ensure that questioning remains a thoughtful, strategic activity rather than a rote procedure.
 
-In educational contexts, meta-questioning helps students develop [[Self-Regulated-Learning]] capacities, particularly the **planning** and **evaluation** phases. Students learn to ask "What kind of question would help me understand this better?" before diving into content, and "Did my questioning strategy yield useful insight?" after completing inquiry.
+In educational contexts, meta-questioning helps students develop [[self-regulated-learning]] capacities, particularly the **planning** and **evaluation** phases. Students learn to ask "What kind of question would help me understand this better?" before diving into content, and "Did my questioning strategy yield useful insight?" after completing inquiry.
 
 ---
 
@@ -359,7 +359,7 @@ In educational contexts, meta-questioning helps students develop [[Self-Regulate
 
 ### The Structural Logic of Thought
 
-Socratic questioning's power derives from its alignment with **how thinking actually works**. Paul and Elder's framework rests on a foundational claim: thinking has **structured logic** that can be analyzed into component parts. Their model identifies eight [[Elements-of-Thought]], each representing a distinct aspect present in all reasoning:
+Socratic questioning's power derives from its alignment with **how thinking actually works**. Paul and Elder's framework rests on a foundational claim: thinking has **structured logic** that can be analyzed into component parts. Their model identifies eight [[elements-of-thought]], each representing a distinct aspect present in all reasoning:
 
 **Purpose** (goal, objective) | **Question** (problem, issue) | **Information** (data, facts, observations) | **Inferences** (conclusions, solutions) | **Concepts** (theories, definitions, principles) | **Assumptions** (presuppositions, axioms) | **Implications** (consequences) | **Point of View** (perspective, orientation)
 
@@ -376,7 +376,7 @@ This systematic coverage prevents the common failure mode of questioning that re
 
 ### The Dual-Process Connection: Type 1 and Type 2 Thinking
 
-Contemporary [[cognitive-psychology]] distinguishes between two modes of cognitive processing: **[[Type-1-Processing]]** (fast, automatic, heuristic-based, intuitive) and **[[Type-2-Processing]]** (slow, deliberate, rule-based, analytical). Type 1 processing enables rapid responses but is vulnerable to systematic errors; Type 2 processing provides accuracy but requires cognitive effort.
+Contemporary [[cognitive-psychology]] distinguishes between two modes of cognitive processing: **[[type-1-processing]]** (fast, automatic, heuristic-based, intuitive) and **[[type-2-processing]]** (slow, deliberate, rule-based, analytical). Type 1 processing enables rapid responses but is vulnerable to systematic errors; Type 2 processing provides accuracy but requires cognitive effort.
 
 Socratic questioning functions as a **Type 2 activation mechanism**. The systematic, probing nature of Socratic questions disrupts automatic responding and forces engagement of deliberate, analytical reasoning. Research indicates that the Socratic method produces resistance to belief bias and logical inconsistency by highlighting inconsistencies between initial responses (attributable to Type 1's reliance on heuristics) and responses given later to detailed questions.
 
@@ -431,7 +431,7 @@ These power differentials create risks that pure theory often ignores. When the 
 **The "Gotcha" Trap**: Socratic questioning can degenerate into a game where the questioner knows the "right answer" and manipulates questions to expose the respondent's error. This violates the spirit of genuine inquiry, which approaches questions as opportunities for mutual discovery rather than occasions for demonstrating superiority.
 
 > [!key-claim]
-> Ethical Socratic questioning requires **[[Intellectual-Humility]]** on the questioner's part—genuine openness to discovering that one's own position requires revision based on insights that emerge through dialogue. Without this reciprocity, Socratic questioning becomes a one-way extraction rather than collaborative construction of knowledge.
+> Ethical Socratic questioning requires **[[intellectual-humility]]** on the questioner's part—genuine openness to discovering that one's own position requires revision based on insights that emerge through dialogue. Without this reciprocity, Socratic questioning becomes a one-way extraction rather than collaborative construction of knowledge.
 
 ### Safeguards and Best Practices
 
@@ -457,7 +457,7 @@ Research on student cognitive development through Socratic questioning demonstra
 
 ### Connection to Metacognition and Self-Regulated Learning
 
-**[[Metacognition]]**—thinking about thinking—represents a core outcome of sustained Socratic questioning. The method cultivates several metacognitive capacities:
+**[[metacognition]]**—thinking about thinking—represents a core outcome of sustained Socratic questioning. The method cultivates several metacognitive capacities:
 
 **Metacognitive Knowledge**: Understanding the nature of cognitive tasks, personal cognitive strengths and limitations, and strategies for effective thinking. Socratic questioning builds this knowledge by making thinking processes explicit.
 
@@ -465,11 +465,11 @@ Research on student cognitive development through Socratic questioning demonstra
 
 **Metacognitive Control**: Adjusting cognitive strategies based on monitoring. When Socratic questioning reveals gaps in understanding, learners can shift strategies—seeking additional information, revising assumptions, or considering alternative perspectives.
 
-The integration of Socratic questioning with [[Self-Regulated-Learning]] creates a powerful feedback loop. [[Self-Regulated-Learning]] involves cyclical phases of **forethought** (planning and goal-setting), **performance** (strategy execution and monitoring), and **self-reflection** (evaluation and adjustment). Socratic meta-questions support each phase: "What am I trying to accomplish?" (forethought), "Is my current approach working?" (monitoring), "What did I learn from this attempt?" (reflection).
+The integration of Socratic questioning with [[self-regulated-learning]] creates a powerful feedback loop. [[self-regulated-learning]] involves cyclical phases of **forethought** (planning and goal-setting), **performance** (strategy execution and monitoring), and **self-reflection** (evaluation and adjustment). Socratic meta-questions support each phase: "What am I trying to accomplish?" (forethought), "Is my current approach working?" (monitoring), "What did I learn from this attempt?" (reflection).
 
 ### Application in Cognitive Behavioral Therapy
 
-Perhaps nowhere is the cognitive impact of Socratic questioning more rigorously documented than in [[Cognitive-Behavioral-Therapy]] research. CBT uses Socratic questioning as its primary technique for **[[Cognitive-Restructuring]]**—identifying and modifying distorted thought patterns that perpetuate psychological disorders.
+Perhaps nowhere is the cognitive impact of Socratic questioning more rigorously documented than in [[cognitive-behavioral-therapy]] research. CBT uses Socratic questioning as its primary technique for **[[cognitive-restructuring]]**—identifying and modifying distorted thought patterns that perpetuate psychological disorders.
 
 Empirical studies demonstrate measurable effects. Research shows that cognitive change mediated the relation between Socratic questioning and within-person depressive symptoms, with this relationship being stronger for clients who started treatment with lower CBT skills. This provides direct evidence that Socratic questioning produces its therapeutic effects through the theorized mechanism—changing how people think rather than merely changing what they think about.
 
@@ -485,21 +485,21 @@ Through this systematic process, clients often discover that beliefs that *feel*
 
 ### Synthesis with Existing Cognitive Frameworks
 
-**Socratic Questioning** represents a nexus point where multiple intellectual traditions converge. Its relationship to **[[Self-Determination-Theory]]** emerges through its support for **[[Autonomy]]**—the psychological need to experience volition and self-direction. Unlike authoritarian pedagogy that imposes conclusions, Socratic questioning positions learners as active agents in knowledge construction, satisfying autonomy needs that fuel **[[Intrinsic-Motivation]]**.
+**Socratic Questioning** represents a nexus point where multiple intellectual traditions converge. Its relationship to **[[self-determination-theory]]** emerges through its support for **[[autonomy]]**—the psychological need to experience volition and self-direction. Unlike authoritarian pedagogy that imposes conclusions, Socratic questioning positions learners as active agents in knowledge construction, satisfying autonomy needs that fuel **[[intrinsic-motivation]]**.
 
 The method's connection to **[[Stoicism]]** appears in its emphasis on examining beliefs before accepting them—a practice central to [[Stoic Epistemology]]. The Stoic sage practices **[[Prosoche]]** (attention/vigilance), maintaining metacognitive awareness of impressions and subjecting them to rational scrutiny before granting assent. Socratic questioning provides a structured protocol for this scrutiny, particularly through assumption-probing and evidence-evaluation.
 
-Alignment with **[[Neuroplasticity]]** research suggests that sustained Socratic practice may produce structural brain changes. Cognitive interventions that engage deliberate, effortful processing—precisely what Socratic questioning demands—have been shown to strengthen neural pathways associated with executive function, working memory, and cognitive control. While direct neuroimaging studies of Socratic questioning per se are lacking, the broader pattern suggests that regular engagement transforms not just what we think but *how* our brains are organized for thinking.
+Alignment with **[[neuroplasticity]]** research suggests that sustained Socratic practice may produce structural brain changes. Cognitive interventions that engage deliberate, effortful processing—precisely what Socratic questioning demands—have been shown to strengthen neural pathways associated with executive function, working memory, and cognitive control. While direct neuroimaging studies of Socratic questioning per se are lacking, the broader pattern suggests that regular engagement transforms not just what we think but *how* our brains are organized for thinking.
 
-The framework's integration with **[[Self-Regulated-Learning]]** creates bidirectional enhancement. Socratic questioning teaches the metacognitive strategies essential for self-regulation, while self-regulated learning provides the motivational and volitional structures that sustain engagement with cognitively demanding questioning. Students who internalize Socratic questioning essentially develop an "inner questioner" that monitors and regulates thinking without external prompting.
+The framework's integration with **[[self-regulated-learning]]** creates bidirectional enhancement. Socratic questioning teaches the metacognitive strategies essential for self-regulation, while self-regulated learning provides the motivational and volitional structures that sustain engagement with cognitively demanding questioning. Students who internalize Socratic questioning essentially develop an "inner questioner" that monitors and regulates thinking without external prompting.
 
 ### Distinctions from Related Practices
 
 While Socratic questioning shares family resemblance with various questioning methods, critical distinctions matter:
 
-**Socratic Questioning vs. [[Dialectical Reasoning]]**: Dialectic in the Hegelian sense involves thesis-antithesis-synthesis progression, whereas Socratic questioning need not result in synthesis—it may conclude with recognition of ignorance ([[Aporia]]) rather than resolution.
+**Socratic Questioning vs. [[Dialectical Reasoning]]**: Dialectic in the Hegelian sense involves thesis-antithesis-synthesis progression, whereas Socratic questioning need not result in synthesis—it may conclude with recognition of ignorance ([[aporia]]) rather than resolution.
 
-**Socratic Questioning vs. [[Discovery-Learning]]**: Pure discovery learning involves minimal guidance, expecting students to independently construct knowledge. Socratic questioning provides more structure, with the questioner guiding inquiry through strategic question selection.
+**Socratic Questioning vs. [[discovery-learning]]**: Pure discovery learning involves minimal guidance, expecting students to independently construct knowledge. Socratic questioning provides more structure, with the questioner guiding inquiry through strategic question selection.
 
 **Socratic Questioning vs. Mere Clarification**: While clarification questions form one category, comprehensive Socratic questioning systematically covers all six types rather than remaining at the level of semantic precision.
 
@@ -550,7 +550,7 @@ The framework's power lies in its dual character as both **art and science**. Th
 1. **[[Elements of Thought - The Architecture of Reasoning]]**
    - *Connection*: Paul and Elder's taxonomy of Socratic questions maps directly onto the Elements of Thought (purpose, question, information, inferences, concepts, assumptions, implications, point of view). Understanding this cognitive architecture is foundational to deploying Socratic questions strategically.
    - *Depth Potential*: This topic merits separate exploration because it provides the theoretical foundation for *why* the six question types target different cognitive layers. Each element represents a distinct component present in all reasoning, and mastering their identification enables more sophisticated analysis.
-   - *Knowledge Graph Role*: This would serve as a foundational node in the critical thinking cluster, connecting to topics like [[Logical Fallacies]], [[Argument-Analysis]], and [[Intellectual-Standards]].
+   - *Knowledge Graph Role*: This would serve as a foundational node in the critical thinking cluster, connecting to topics like [[Logical-Fallacies]], [[argument-analysis]], and [[intellectual-standards]].
 
 2. **[[Intellectual Standards in Critical Thinking - The Quality Criteria for Thought]]**
    - *Connection*: While question types determine *what* aspect of thinking to probe, intellectual standards (clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness) determine *how well* thinking meets quality criteria. Together they provide comprehensive assessment tools.
@@ -565,4 +565,4 @@ The framework's power lies in its dual character as both **art and science**. Th
 4. **[[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]]**
    - *Connection*: Socratic questioning represents one approach to structuring educational dialogue, but it exists within a broader landscape of discourse strategies (IRE patterns, accountable talk, exploratory talk, etc.). Understanding this context clarifies when Socratic methods are optimal versus when alternatives are more appropriate.
    - *Depth Potential*: The research on classroom discourse patterns reveals that not all dialogue is equally educative. Some patterns reinforce passive compliance while others cultivate genuine thinking. Distinguishing productive from unproductive discourse requires detailed analysis.
-   - *Knowledge Graph Role*: This connects Socratic questioning to broader [[pedagogy]], [[Andragogy]], and [[Constructivist-Learning-Theory]], creating links to [[Zone-of-Proximal-Development]], [[Scaffolding]], and [[Cognitive-Apprenticeship]].
+   - *Knowledge Graph Role*: This connects Socratic questioning to broader [[pedagogy]], [[andragogy]], and [[constructivist-learning-theory]], creating links to [[zone-of-proximal-development]], [[scaffolding]], and [[Cognitive-Apprenticeship]].

@@ -45,9 +45,9 @@ knowledge_level: "advanced"
 # KNOWLEDGE GRAPH
 # ═══════════════════════════════════════════════════════════════════════════
 related_concepts:
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Lifelong-learning]]"
+  - "[[personal-knowledge-management]]"
+  - "[[personal-knowledge-base]]"
+  - "[[lifelong-learning]]"
   - "[[Integrated-Learning-System-Model]]"
   - "[[Twelve-Master-Principles]]"
   - "[[Cognitive Partnership Model]]"
@@ -62,7 +62,7 @@ children:
 # PKM/PKB Lifelong Learning Framework — Master Map of Content
 
 > [!abstract] What This Framework Is
-> A **30-report, ~280,000-word cross-domain synthesis** grounding [[Personal-Knowledge-Management]] in rigorous scientific evidence drawn from [[Cognitive-Science]], [[Educational-Psychology]], [[Educational-Philosophy]], [[Knowledge-Management]], [[Instructional-Design]], [[Learning-Experience-Design]], [[Metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic-Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
+> A **30-report, ~280,000-word cross-domain synthesis** grounding [[personal-knowledge-management]] in rigorous scientific evidence drawn from [[cognitive-science]], [[educational-psychology]], [[Educational-Philosophy]], [[Knowledge-Management]], [[instructional-design]], [[Learning-Experience-Design]], [[metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic-Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
 
 ---
 
@@ -173,7 +173,7 @@ Every discipline in the series independently converges on three structural patte
 
 **Pattern 2: Feedback Loops** — Every effective learning process contains an evaluate-and-adjust cycle. Five instances share the same structure: act → sense → compare → adjust → act.
 
-**Pattern 3: Progressive Autonomy** — The developmental trajectory maps from scaffolded dependence to self-determined autonomy: [[ZPD]] → [[Scaffolding and Fading]] → [[Andragogy]] → [[Heutagogy]].
+**Pattern 3: Progressive Autonomy** — The developmental trajectory maps from scaffolded dependence to self-determined autonomy: [[ZPD]] → [[Scaffolding and Fading]] → [[andragogy]] → [[heutagogy]].
 
 ### The Central Tension
 
@@ -187,17 +187,17 @@ Every discipline in the series independently converges on three structural patte
 ### Established with High Confidence (meta-analytic or multi-tradition convergence)
 
 - Knowledge is relational, not propositional — PKBs should be semantic networks, not filing systems (Reports 01, 09, 15)
-- [[Testing-Effect]] (d = 0.50) and [[Spacing-Effect]] are the two highest-utility learning strategies; PKB review must be retrieval-based, not re-reading-based (Reports 06, 16, 20)
-- The [[Fluency-Illusion]] is the universal PKM failure mode — ease of processing ≠ understanding (Reports 18, 30)
-- [[Cognitive-Load-Theory]]'s working memory limits (~4 chunks) constrain note design (Report 02)
-- [[Self-Regulated-Learning]] requires embedded structural support, not willpower (Reports 04, 12, 26)
+- [[Testing-Effect]] (d = 0.50) and [[spacing-effect]] are the two highest-utility learning strategies; PKB review must be retrieval-based, not re-reading-based (Reports 06, 16, 20)
+- The [[fluency-illusion]] is the universal PKM failure mode — ease of processing ≠ understanding (Reports 18, 30)
+- [[cognitive-load-theory]]'s working memory limits (~4 chunks) constrain note design (Report 02)
+- [[self-regulated-learning]] requires embedded structural support, not willpower (Reports 04, 12, 26)
 - [[Faceted-Classification]] outperforms single hierarchies for knowledge organization (Reports 01, 15)
 
 ### Established with Moderate Confidence (theoretical synthesis with convergent support)
 
 - The [[Cognitive-Architecture-Isomorphism-Principle]] — PKB structure should mirror five properties of long-term memory (Report 09)
-- The [[Schema-Progressive-Architecture]] — notes organized in Epitome/Elaboration/Accommodation layers (Report 03)
-- The [[Fourfold-Motivational-Architecture]] — SDT + AGT + Stoic + LXD integration (Report 05)
+- The [[schema-progressive-architecture]] — notes organized in Epitome/Elaboration/Accommodation layers (Report 03)
+- The [[fourfold-motivational-architecture]] — SDT + AGT + Stoic + LXD integration (Report 05)
 - The [[Twelve-Master-Principles]] hierarchy (Report 27)
 
 ### Emerging (original synthesis requiring validation)
@@ -290,13 +290,13 @@ See [[00-PKM-PKB-Framework-Series-MOC]] for the complete annotated registry.
 | Discipline | Primary Contributions | Key Researchers |
 |-----------|----------------------|-----------------|
 | [[cognitive-psychology]] | Schema Theory, CLT, Memory Systems | Bartlett, Sweller, Baddeley |
-| [[Educational-Psychology]] | SRL, Transfer, Motivation | Zimmerman, Deci & Ryan, Dweck |
+| [[educational-psychology]] | SRL, Transfer, Motivation | Zimmerman, Deci & Ryan, Dweck |
 | [[Educational-Philosophy]] | Constructivism, Pragmatism, Inquiry | Piaget, Dewey, Vygotsky |
 | [[Memory Science]] | Testing Effect, Spacing, Desirable Difficulties | Bjork, Roediger, Dunlosky |
 | [[Knowledge-Management]] | SECI Model, KOS, Tacit Knowledge | Nonaka, Polanyi, Ranganathan |
-| [[Instructional-Design]] | Elaboration Theory, Scaffolding | Reigeluth, Merrill |
-| [[Metacognition]] | Monitoring, Calibration, SRL | Flavell, Nelson & Narens |
-| [[Critical-Thinking]] | Reasoning, Epistemic Vigilance | Halpern, Paul & Elder |
+| [[instructional-design]] | Elaboration Theory, Scaffolding | Reigeluth, Merrill |
+| [[metacognition]] | Monitoring, Calibration, SRL | Flavell, Nelson & Narens |
+| [[critical-thinking]] | Reasoning, Epistemic Vigilance | Halpern, Paul & Elder |
 | [[Stoic-Philosophy]] | Resilience, Emotional Regulation | Marcus Aurelius, Epictetus |
 | [[Socratic Philosophy]] | Inquiry, Elenchus, Aporia | Plato's Dialogues |
 | [[Systems Theory]] | Feedback Loops, Emergence | Meadows, Senge |

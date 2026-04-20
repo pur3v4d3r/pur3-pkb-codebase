@@ -45,8 +45,8 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *What clicked for you? What was the "aha!" moment?*
 
 **Connection to Prior Knowledge:**
-- How does this relate to [[Concept X]] that you already understand?
-- How does this contrast with [[Concept Y]]?
+- How does this relate to [[Concept-X]] that you already understand?
+- How does this contrast with [[Concept-Y]]?
 
 ## 🎯 Practical Applications
 

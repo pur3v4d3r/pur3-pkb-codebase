@@ -5,6 +5,7 @@
 title: "Handoff Mechanism"
 aliases:
   - "Handoff Mechanism"
+  - "Handoff-Mechanism"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -38,8 +39,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -50,7 +51,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -74,26 +75,26 @@ narrower:
   []
 
 see-also:
-  - "[[Zimmerman's-Cyclical-SRL-Model]]"
-  - "[[PKB]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Self-Determination-Theory]]"
+  - "[[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]]"
+  - "[[pkb|PKB]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
   - "[[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]"
-  - "[[Zimmerman's-Cyclical-SRL-Model]]"
-  - "[[Zimmerman's-Cyclical-SRL-Model]]"
-  - "[[Forethought-Phase]]"
-  - "[[Barry-Zimmerman]]"
-  - "[[Self-Efficacy]]"
-  - "[[Self-Reflection-Phase]]"
-  - "[[Bernard-Weiner]]"
-  - "[[Mastery-Goal-Orientation]]"
-  - "[[Goal-Setting-Theory]]"
-  - "[[Patricia-Alexander]]"
-  - "[[Albert-Bandura]]"
-  - "[[Self-Efficacy]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Self-Reflection-Phase]]"
+  - "[[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]]"
+  - "[[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]]"
+  - "[[forethought-phase|Forethought-Phase]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[self-reflection-phase|Self-Reflection-Phase]]"
+  - "[[bernard-weiner|Bernard-Weiner]]"
+  - "[[mastery-goal-orientation|Mastery-Goal-Orientation]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[patricia-alexander|Patricia-Alexander]]"
+  - "[[albert-bandura|Albert-Bandura]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[self-reflection-phase|Self-Reflection-Phase]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +106,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Implementation-IntentionImplementation-Intentions-and-SRL-Practice-G|> [!topic-idea] [[Implementation-Intention|Implementation Intentions and SRL Practice]]
+  - topic: "[[> [!topic-idea] [[implementation-intention|Implementation Intentions and SRL Practice]]
 > Gollwitzer]]"
     description: ""
     priority: medium
@@ -121,7 +122,7 @@ importance: high
 # Handoff Mechanism
 
 > [!definition] **Handoff Mechanism** *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
-> **Definition:** A structural feature of the SRL cycle document architecture that physically connects the adaptive inference output of a Self-Reflection session to the Forethought template of the next session, preventing inference evaporation. **Report-Specific Significance:** The most common failure point in SRL cycle implementation is the gap between generating an adaptive inference and actually applying it in the next Forethought Phase. The handoff mechanism closes this gap by requiring explicit capture and forward transfer. **Cross-References:** [[Self-Regulated-Learning]], [[Implementation-Intention]], [[Metacognitive-Regulation]]
+> **Definition:** A structural feature of the SRL cycle document architecture that physically connects the adaptive inference output of a Self-Reflection session to the Forethought template of the next session, preventing inference evaporation. **Report-Specific Significance:** The most common failure point in SRL cycle implementation is the gap between generating an adaptive inference and actually applying it in the next Forethought Phase. The handoff mechanism closes this gap by requiring explicit capture and forward transfer. **Cross-References:** [[self-regulated-learning]], [[implementation-intention]], [[metacognitive-regulation]]
 
 ## Core Explanation
 
@@ -186,7 +187,7 @@ importance: high
 > A genuine intellectual tension in the strategic planning literature is the following: the strategies most beneficial for deep comprehension (elaborative interrogation, self-explanation, connecting to prior schema) require significant prior knowledge to execute. A reader with weak background knowledge in a domain cannot generate effective self-explanations because they lack the conceptual structure to detect what is missing or surprising. This means the effectiveness of Forethought-Phase…
 
 > [!analytical-insight] Key Insight *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
-> The popular self-help literature on growth mindset often misreads the self-efficacy research as prescribing *high confidence* as the target. The actual research identifies *calibrated confidence* as the functional variable. A PKB learner who regularly overestimates their comprehension of reports — the [[Fluency-Illusion|fluency illusion]] is the dominant mechanism here — will fail to engage in the effortful post-reading Self-Reflection activities that actually consolidate learning. Accurate…
+> The popular self-help literature on growth mindset often misreads the self-efficacy research as prescribing *high confidence* as the target. The actual research identifies *calibrated confidence* as the functional variable. A PKB learner who regularly overestimates their comprehension of reports — the [[fluency-illusion|fluency illusion]] is the dominant mechanism here — will fail to engage in the effortful post-reading Self-Reflection activities that actually consolidate learning. Accurate…
 
 > [!analytical-insight] Key Insight *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
 > When learners set goals for reading, they almost universally omit the comprehension criterion — the specification of *what level of understanding* they are targeting. "Understand section 3" is not a comprehension criterion; it is a content anchor without a standard. "Be able to explain the three-tier monitoring architecture, including why it is organized hierarchically rather than in parallel, without looking at the text" is a comprehension criterion. The omission of this element means that…
@@ -212,20 +213,20 @@ importance: high
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Barry Zimmerman (1942–2020)** *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
-> **Core Contribution:** Developer of the cyclical model of self-regulated learning (1989–2002), grounding SRL in [[Albert-Bandura|Bandura's]] social cognitive theory and providing the most operationally precise account of the three-phase cycle. Zimmerman distinguished the Forethought, Performance, and Self-Reflection Phases with sufficient specificity to generate both empirical research programs and practical interventions.
+> **Core Contribution:** Developer of the cyclical model of self-regulated learning (1989–2002), grounding SRL in [[albert-bandura|Bandura's]] social cognitive theory and providing the most operationally precise account of the three-phase cycle. Zimmerman distinguished the Forethought, Performance, and Self-Reflection Phases with sufficient specificity to generate both empirical research programs and practical interventions.
 > **Relationship to Other Figures:** Built on Bandura's self-efficacy theory; worked alongside Pintrich in the development of the SRL field; influenced the development of…
 
 > [!person] **Albert Bandura (1925–2021)** *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
-> **Core Contribution:** Developed Social Cognitive Theory and [[Self-Efficacy|self-efficacy theory]] (1986, 1997), providing the motivational framework within which Zimmerman's SRL model operates. Bandura's four-source model of self-efficacy (mastery experiences, vicarious learning, verbal persuasion, physiological state) is the mechanism through which the Forethought Phase's Motivational Beliefs sub-process operates.
+> **Core Contribution:** Developed Social Cognitive Theory and [[self-efficacy|self-efficacy theory]] (1986, 1997), providing the motivational framework within which Zimmerman's SRL model operates. Bandura's four-source model of self-efficacy (mastery experiences, vicarious learning, verbal persuasion, physiological state) is the mechanism through which the Forethought Phase's Motivational Beliefs sub-process operates.
 > **Relationship to Other Figures:** The intellectual grandfather of Zimmerman's SRL model; his social cognitive framework is the theoretical home from which Zimmerman built the…
 
 > [!person] **Bernard Weiner (1935–present)** *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
-> **Core Contribution:** Developed [[Attribution-Theory|attribution theory]] in achievement contexts (1985, 2010), providing the three-dimensional framework (locus, stability, controllability) for understanding how causal explanations for performance outcomes determine motivational consequences.
+> **Core Contribution:** Developed [[attribution-theory|attribution theory]] in achievement contexts (1985, 2010), providing the three-dimensional framework (locus, stability, controllability) for understanding how causal explanations for performance outcomes determine motivational consequences.
 > **Relationship to Other Figures:** Extended Heider's general attribution theory to achievement motivation; influenced Dweck's early helpless-mastery response pattern research; integrated by Zimmerman into the Self-Reflection Phase architecture.
 > **Key Works:** *An Attributional Theory of Achievement…
 
 > [!person] **Carol Dweck (1946–present)** *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
-> **Core Contribution:** Developed the [[Growth-Mindset|implicit theories of intelligence]] framework (1986, 1999) and the mastery/helpless response pattern research, providing the psychological substrate for understanding why goal orientation in the Forethought Phase determines the type of inference generated in Self-Reflection.
+> **Core Contribution:** Developed the [[growth-mindset|implicit theories of intelligence]] framework (1986, 1999) and the mastery/helpless response pattern research, providing the psychological substrate for understanding why goal orientation in the Forethought Phase determines the type of inference generated in Self-Reflection.
 > **Relationship to Other Figures:** Research program overlaps with and complements Nicholls' achievement goal theory; extends Weiner's attribution research by identifying the incremental/entity theory of intelligence as the upstream variable that predicts attribution…
 
 ## Conceptual Tensions
@@ -297,7 +298,7 @@ importance: high
 ## Concrete Examples
 
 > [!example] **Strategic Planning for Two Report Types** *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*
-> *Report Type A (Schema-Rich):* You are reading a focused analysis of Organismic Integration Theory, having already extensively studied [[Self-Determination-Theory]] foundational reports.
+> *Report Type A (Schema-Rich):* You are reading a focused analysis of Organismic Integration Theory, having already extensively studied [[self-determination-theory]] foundational reports.
 > - **Pre-reading:** Brief recall of SDT sub-theories, formulate 2-3 questions OIT specifically addresses.
 > - **During-reading:** Focus elaborative interrogation on how OIT extends rather than duplicates SDT. Self-explain transitions in argument. Connect new mechanisms to existing schema nodes.
 > - **Note-making:** Expand existing SDT schema node, add OIT-specific mechanisms, identify tensions with prior…
@@ -525,19 +526,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24 (1)]])*:
-- [[Zimmerman's-Cyclical-SRL-Model]]
+- [[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]]
 - [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
-- [[Self-Efficacy]]
-- [[Self-Efficacy-Theory]]
-- [[Achievement-Goal-Theory]]
-- [[Metacognitive-Calibration]]
-- [[Metacognitive-Monitoring]]
-- [[Self-Determination-Theory]]
-- [[Autonomy-Support]]
-- [[Formative-Assessment]]
+- [[self-efficacy|Self-Efficacy]]
+- [[self-efficacy-theory|Self-Efficacy-Theory]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[metacognitive-calibration|Metacognitive-Calibration]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[autonomy-support|Autonomy-Support]]
+- [[formative-assessment|Formative-Assessment]]
 
 **Related concepts:**
-[[Zimmerman's-Cyclical-SRL-Model]] · [[PKB]] · [[Self-Regulated-Learning]] · [[Achievement-Goal-Theory]] · [[Self-Determination-Theory]] · [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]] · [[Zimmerman's-Cyclical-SRL-Model]] · [[Zimmerman's-Cyclical-SRL-Model]] · [[Forethought-Phase]] · [[Barry-Zimmerman]] · [[Self-Efficacy]] · [[Self-Reflection-Phase]] · [[Bernard-Weiner]] · [[Mastery-Goal-Orientation]] · [[Goal-Setting-Theory]] · [[Patricia-Alexander]] · [[Albert-Bandura]] · [[Self-Efficacy]] · [[Fluency-Illusion]] · [[Self-Reflection-Phase]] · [[Achievement-Goal-Theory]] · [[Intrinsic-Motivation]] · [[Bernard-Weiner]] · [[Mastery-Oriented-Response-Pattern]] · [[Growth-Mindset]] · [[Forethought-Phase]] · [[Self-Determination-Theory]] · [[Fluency-Illusion]] · [[Advance-Organizer]] · [[Prior-Knowledge]]
+[[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]] · [[pkb|PKB]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]] · [[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]] · [[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]] · [[forethought-phase|Forethought-Phase]] · [[barry-zimmerman|Barry-Zimmerman]] · [[self-efficacy|Self-Efficacy]] · [[self-reflection-phase|Self-Reflection-Phase]] · [[bernard-weiner|Bernard-Weiner]] · [[mastery-goal-orientation|Mastery-Goal-Orientation]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[patricia-alexander|Patricia-Alexander]] · [[albert-bandura|Albert-Bandura]] · [[self-efficacy|Self-Efficacy]] · [[fluency-illusion|Fluency-Illusion]] · [[self-reflection-phase|Self-Reflection-Phase]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[bernard-weiner|Bernard-Weiner]] · [[mastery-oriented-response-pattern|Mastery-Oriented-Response-Pattern]] · [[growth-mindset|Growth-Mindset]] · [[forethought-phase|Forethought-Phase]] · [[self-determination-theory|Self-Determination-Theory]] · [[fluency-illusion|Fluency-Illusion]] · [[advance-organizer|Advance-Organizer]] · [[prior-knowledge|Prior-Knowledge]]
 
 ## References
 

@@ -30,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,7 +42,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -66,25 +66,25 @@ narrower:
   []
 
 see-also:
-  - "[[Working-Memory]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Cognitive-Science]]"
-  - "[[Embodied-Cognition]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Embodied-Cognition]]"
-  - "[[4E-Cognition]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Habit-Formation]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Attention]]"
-  - "[[Working-Memory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Working-Memory-Capacity]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[cognitive-science|Cognitive-Science]]"
+  - "[[embodied-cognition|Embodied-Cognition]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[embodied-cognition|Embodied-Cognition]]"
+  - "[[4e-cognition|4E-Cognition]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[habit-formation|Habit-Formation]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[attention|Attention]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory-capacity|Working-Memory-Capacity]]"
   - "[[cognitive-psychology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -97,16 +97,16 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-This-inquiry-assumed-that-walking-provides-a-genuine-arousal-benefit|**Description:** This inquiry assumed that walking provides a genuine arousal benefit that partially]]"
+  - topic: "[[**Description:** This inquiry assumed that walking provides a genuine arousal benefit that partially]]"
     description: ""
     priority: medium
-  - topic: "[[Description-The-inquiry-noted-that-individual-differences-are-large-but-did-not|**Description:** The inquiry noted that individual differences are large but did not examine experti]]"
+  - topic: "[[**Description:** The inquiry noted that individual differences are large but did not examine experti]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Cycle-5-proposed-that-PKB-based-Active-Note-Making-could-serve-the-s|**Description:** Cycle 5 proposed that PKB-based [[Active-Note-Making]] could serve the same engagem]]"
+  - topic: "[[**Description:** Cycle 5 proposed that PKB-based [[Active-Note-Making]] could serve the same engagem]]"
     description: ""
     priority: medium
-  - topic: "[[Description-This-report-focused-on-reading,-but-the-movement-cognition-question|**Description:** This report focused on reading, but the movement-cognition question extends to writ]]"
+  - topic: "[[**Description:** This report focused on reading, but the movement-cognition question extends to writ]]"
     description: ""
     priority: medium
 
@@ -136,7 +136,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[walking-and-academic-reading-socratic-exploration-2026-04-13]])*
-> Between Stage 1 and Stage 3, there will be a period where desk-based reading feels less engaging than walking-reading. This is expected. The [[Desirable-Difficulties]] literature predicts that effective learning strategies feel harder and less pleasant than ineffective ones. The reader should expect this, name it ("this is the desirable difficulty valley"), and persist through it — but ONLY if desk-based processing produces measurably better comprehension and retention. The subjective feeling…
+> Between Stage 1 and Stage 3, there will be a period where desk-based reading feels less engaging than walking-reading. This is expected. The [[desirable-difficulties]] literature predicts that effective learning strategies feel harder and less pleasant than ineffective ones. The reader should expect this, name it ("this is the desirable difficulty valley"), and persist through it — but ONLY if desk-based processing produces measurably better comprehension and retention. The subjective feeling…
 
 ## Reflection Prompts
 
@@ -177,7 +177,7 @@ importance: high
 > **Structural principle:** The difficulty-crossover hypothesis — that a secondary activity helps LOW-demand primary tasks but hurts HIGH-demand primary tasks — applies far beyond walking and reading. Listening to music while coding, having background conversations while driving, multitasking during meetings — all follow the same pattern. The arousal regulation benefit dominates when the primary task is underloading; the dual-task cost dominates when the primary task is saturating. **Ask not "does X help?" but "at what difficulty does X cross from helpful to harmful?"**
 
 > [!far-transfer] **From Fluency Illusion to Any Self-Assessment Context** *(from [[walking-and-academic-reading-socratic-exploration-2026-04-13]])*
-> **Structural principle:** Any context where a person judges their own performance without external feedback is vulnerable to [[Fluency-Illusion|fluency illusions]]. The walking-reading insight — that the feeling of productive engagement is directionally useful but quantitatively unreliable — transfers to studying, creative work, therapy, skill acquisition, and decision-making. **The feeling that you're doing well is a weak signal. Seek external validation through generation, testing, or third-party assessment.**
+> **Structural principle:** Any context where a person judges their own performance without external feedback is vulnerable to [[fluency-illusion|fluency illusions]]. The walking-reading insight — that the feeling of productive engagement is directionally useful but quantitatively unreliable — transfers to studying, creative work, therapy, skill acquisition, and decision-making. **The feeling that you're doing well is a weak signal. Seek external validation through generation, testing, or third-party assessment.**
 
 > [!far-transfer] **From Engagement Systems to Any Habit-Strategy Transition** *(from [[walking-and-academic-reading-socratic-exploration-2026-04-13]])*
 > **Structural principle:** The engagement system reframing — asking what FUNCTION a habit serves rather than debating the habit itself — applies to any situation where someone wants to change an established behavior. Procrastination, comfort eating, excessive social media use — all serve functions (arousal regulation, emotional management, boredom relief). The effective approach is not to eliminate the behavior but to identify its function and develop a more adaptive way to serve that function. **Don't fight the habit. Replace the function.**
@@ -194,9 +194,9 @@ importance: high
 > [!example] **The Difficulty Crossover in Practice** *(from [[walking-and-academic-reading-socratic-exploration-2026-04-13]])*
 > Consider two reading scenarios for the same walk-reader:
 > 
-> **Scenario A:** Reading a well-written overview of a familiar topic — say, a summary of [[Cognitive-Load-Theory]] that the reader has already studied. The material confirms and extends known concepts. The central executive operates well below capacity. Walking's arousal benefit reduces mind-wandering, and the small dual-task cost is invisible against the large surplus of executive capacity. **Net effect: walking helps.**
+> **Scenario A:** Reading a well-written overview of a familiar topic — say, a summary of [[cognitive-load-theory]] that the reader has already studied. The material confirms and extends known concepts. The central executive operates well below capacity. Walking's arousal benefit reduces mind-wandering, and the small dual-task cost is invisible against the large surplus of executive capacity. **Net effect: walking helps.**
 > 
-> **Scenario B:** Reading a dense passage where [[Germane-Cognitive-Load]] is high — integrating a novel theoretical…
+> **Scenario B:** Reading a dense passage where [[germane-cognitive-load]] is high — integrating a novel theoretical…
 
 ## AI Insights
 
@@ -204,7 +204,7 @@ importance: high
 > There is a revealing asymmetry in how this dual-task cost works in practice. The central executive manages both tasks, but it does not split its attention evenly. In the walking-while-reading scenario, reading is the *primary* task (the one the person cares about), and walking is the *secondary* task (the one that's automated enough to run mostly on its own). This priority structure means that when executive resources are needed for a difficult reading passage, walking becomes even MORE automated — people slow down, take shorter steps, or pause without noticing. The walking adjusts to reading…
 
 > [!claude-insight] **Claude's Analytical Observation** *(from [[walking-and-academic-reading-socratic-exploration-2026-04-13]])*
-> The reader's situation has a structural parallel to a common phenomenon in [[Metacognitive-Regulation]]: using a **performance crutch** that works in the short term but prevents the development of a more powerful strategy. Consider the analogy of a student who highlights text extensively. Highlighting feels productive (it creates a visible record of engagement), maintains attention (the motor act of highlighting keeps the student active), but a robust body of evidence shows it produces shallow encoding. The student is better than a completely passive reader — but worse than a student using…
+> The reader's situation has a structural parallel to a common phenomenon in [[metacognitive-regulation]]: using a **performance crutch** that works in the short term but prevents the development of a more powerful strategy. Consider the analogy of a student who highlights text extensively. Highlighting feels productive (it creates a visible record of engagement), maintains attention (the motor act of highlighting keeps the student active), but a robust body of evidence shows it produces shallow encoding. The student is better than a completely passive reader — but worse than a student using…
 
 > [!claude-insight] **Reflections on the Inquiry Process** *(from [[walking-and-academic-reading-socratic-exploration-2026-04-13]])*
 > Three things surprised me during this exploration:
@@ -338,7 +338,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Working-Memory]] · [[Metacognitive-Monitoring]] · [[Fluency-Illusion]] · [[Cognitive-Science]] · [[Embodied-Cognition]] · [[Self-Regulated-Learning]] · [[Cognitive-Load-Theory]] · [[Baddeley's-Working-Memory-Model]] · [[Embodied-Cognition]] · [[4E-Cognition]] · [[Metacognitive-Monitoring]] · [[Habit-Formation]] · [[Self-Regulated-Learning]] · [[Metacognitive-Monitoring]] · [[Cognitive-Architecture]] · [[Attention]] · [[Working-Memory]] · [[Cognitive-Load-Theory]] · [[Working-Memory-Capacity]] · [[cognitive-psychology]] · [[Central-Executive]] · [[Embodied-Cognition]] · [[4E-Cognition]] · [[Fluency-Illusion]] · [[Metacognitive-Calibration]] · [[Working-Memory]] · [[Working-Memory]] · [[Phonological-Loop]] · [[Visuospatial-Sketchpad]] · [[Episodic-Buffer]]
+[[working-memory|Working-Memory]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[fluency-illusion|Fluency-Illusion]] · [[cognitive-science|Cognitive-Science]] · [[embodied-cognition|Embodied-Cognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[embodied-cognition|Embodied-Cognition]] · [[4e-cognition|4E-Cognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[habit-formation|Habit-Formation]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[cognitive-architecture|Cognitive-Architecture]] · [[attention|Attention]] · [[working-memory|Working-Memory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[cognitive-psychology]] · [[central-executive|Central-Executive]] · [[embodied-cognition|Embodied-Cognition]] · [[4e-cognition|4E-Cognition]] · [[fluency-illusion|Fluency-Illusion]] · [[metacognitive-calibration|Metacognitive-Calibration]] · [[working-memory|Working-Memory]] · [[working-memory|Working-Memory]] · [[phonological-loop|Phonological-Loop]] · [[visuospatial-sketchpad|Visuospatial-Sketchpad]] · [[episodic-buffer|Episodic-Buffer]]
 
 ## Methodology Notes
 
@@ -366,7 +366,7 @@ importance: high
 > - **Genuine uncertainties declared:** 3
 > - **Open frontiers identified:** 2
 > - **Wiki-link source:** Author's Obsidian PKB permanent notes index
-> - **Theoretical basis:** Primarily [[Cognitive-Load-Theory]], [[Baddeley's-Working-Memory-Model]], metacognition research, [[Self-Regulated-Learning]] theory, and exercise-cognition…
+> - **Theoretical basis:** Primarily [[cognitive-load-theory]], [[Baddeley's-Working-Memory-Model]], metacognition research, [[self-regulated-learning]] theory, and exercise-cognition…
 
 ---
 

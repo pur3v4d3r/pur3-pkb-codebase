@@ -5,6 +5,7 @@
 title: "Regulatory Quality in Reading"
 aliases:
   - "Regulatory Quality in Reading"
+  - "Regulatory-Quality-in-Reading"
   - "RQIR"
 type: permanent-note
 status: evergreen
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,49 +70,49 @@ narrower:
   []
 
 see-also:
-  - "[[Self-Determination-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Autonomy-Support]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Metacognitive-Self-Regulation]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Metacognition]]"
-  - "[[Growth-Mindset]]"
-  - "[[Self-Efficacy]]"
-  - "[[Flow-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition-and-Motivation]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Autonomous-Motivation]]"
-  - "[[Deep-Processing]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[autonomy-support|Autonomy-Support]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[metacognitive-self-regulation|Metacognitive-Self-Regulation]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[flow-theory|Flow-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition-and-motivation|Metacognition-and-Motivation]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[autonomous-motivation|Autonomous-Motivation]]"
+  - "[[deep-processing|Deep-Processing]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Intrinsic-Motivation]]"
-  - "[[Schema-Theory]]"
-  - "[[Working-Memory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[working-memory|Working-Memory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-This-report-treats-reading-fluency-as-a-prerequisite-condition-but-d|**Description:** This report treats reading fluency as a prerequisite condition but does not deeply ]]"
+  - topic: "[[**Description:** This report treats reading fluency as a prerequisite condition but does not deeply ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-systematic-analysis-of-how-academic-assessment-structures-grades,|**Description:** A systematic analysis of how academic assessment structures (grades, evaluation, co]]"
+  - topic: "[[**Description:** A systematic analysis of how academic assessment structures (grades, evaluation, co]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-dedicated-report-on-metacognitive-calibration-research-—-the-study|**Description:** A dedicated report on metacognitive calibration research — the study of corresponde]]"
+  - topic: "[[**Description:** A dedicated report on metacognitive calibration research — the study of corresponde]]"
     description: ""
     priority: medium
-  - topic: "[[Description-An-empirical-and-theoretical-examination-of-how-digital-reading-cont|**Description:** An empirical and theoretical examination of how digital reading contexts affect com]]"
+  - topic: "[[**Description:** An empirical and theoretical examination of how digital reading contexts affect com]]"
     description: ""
     priority: medium
 
@@ -126,13 +127,13 @@ importance: high
 # Regulatory Quality in Reading
 
 > [!definition] **Regulatory Quality in Reading** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> Regulatory quality refers to the degree to which a reader's engagement with a text is governed by autonomous reasons (finding the text genuinely interesting, valuing the knowledge for personal growth, experiencing deep immersion) versus controlled reasons (reading to avoid negative consequences, to demonstrate compliance, or to satisfy external pressure). Autonomous regulation and controlled regulation exist on a continuum in SDT's [[Organismic-Integration-Theory]], ranging from external regulation through introjection, identification, and integration toward intrinsic motivation.
+> Regulatory quality refers to the degree to which a reader's engagement with a text is governed by autonomous reasons (finding the text genuinely interesting, valuing the knowledge for personal growth, experiencing deep immersion) versus controlled reasons (reading to avoid negative consequences, to demonstrate compliance, or to satisfy external pressure). Autonomous regulation and controlled regulation exist on a continuum in SDT's [[organismic-integration-theory]], ranging from external regulation through introjection, identification, and integration toward intrinsic motivation.
 > 
 > **Boundary:** High regulatory quality does not imply effortless reading; challenging reading of personally meaningful texts is prototypically autonomous-regulatory even when demanding. The quality dimension concerns the *source* of motivation, not its magnitude.
 > 
 > **Report-Specific Significance:** Regulatory quality predicts reading strategy use, comprehension depth, and reading persistence under difficulty independent of ability level — which makes it a crucial intervention target beyond the competence dimension.
 > 
-> **See also:** [[Autonomous-Motivation]], [[Controlled-Motivation]], [[Intrinsic-Motivation]], [[Identified-Regulation]], [[Integrated-Regulation]]
+> **See also:** [[autonomous-motivation]], [[controlled-motivation]], [[intrinsic-motivation]], [[identified-regulation]], [[integrated-regulation]]
 
 ## Core Explanation
 
@@ -184,15 +185,15 @@ importance: high
 > A common failure mode in academic reading development is waiting for motivation before reading — treating motivation as a prerequisite rather than a *product* of reading engagement. Research on emotion regulation and behavioral activation consistently shows that action precedes motivational relief more reliably than motivation precedes action. The learner who waits to feel motivated before opening a challenging text is structurally misconfigured: the cognitive and hedonic rewards of reading…
 
 > [!warning] **Key Distinction** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> Academic reading is persistently threatened by what might be called the extrinsic goal framing trap: the institutional and social ecology of academic settings continuously primes extrinsic goal content (grades, credentials, performance demonstrations), and learners spontaneously adopt these frames even for content they would otherwise find intrinsically interesting. The corrosive effect is not merely motivational but cognitive: [[Cognitive-Evaluation-Theory]] predicts that extrinsic goal…
+> Academic reading is persistently threatened by what might be called the extrinsic goal framing trap: the institutional and social ecology of academic settings continuously primes extrinsic goal content (grades, credentials, performance demonstrations), and learners spontaneously adopt these frames even for content they would otherwise find intrinsically interesting. The corrosive effect is not merely motivational but cognitive: [[cognitive-evaluation-theory]] predicts that extrinsic goal…
 
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Mihaly Csikszentmihalyi (1934–2021)** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> Hungarian-American psychologist; Primary contributor: [[Flow-Theory|Flow theory]] as applied to optimal experience in cognitively demanding activities. Flow's relevance to motivated academic reading: the flow channel (difficulty-to-skill ratio) provides the theoretical basis for text difficulty calibration as a motivational strategy. Key connection to this report: the optimal reading challenge zone specification derives directly from flow theory's challenge-skill balance principle.
+> Hungarian-American psychologist; Primary contributor: [[flow-theory|Flow theory]] as applied to optimal experience in cognitively demanding activities. Flow's relevance to motivated academic reading: the flow channel (difficulty-to-skill ratio) provides the theoretical basis for text difficulty calibration as a motivational strategy. Key connection to this report: the optimal reading challenge zone specification derives directly from flow theory's challenge-skill balance principle.
 
 > [!person] **Edward Deci and Richard Ryan** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> Developers of [[Self-Determination-Theory]] (SDT); primary contribution: the distinction between autonomous and controlled motivation, the three basic psychological needs framework (autonomy, competence, relatedness), and the internalization continuum. Central to this report's Section 4, Tier 3 strategies, and the SDT-applied framework for reading environment design.
+> Developers of [[self-determination-theory]] (SDT); primary contribution: the distinction between autonomous and controlled motivation, the three basic psychological needs framework (autonomy, competence, relatedness), and the internalization continuum. Central to this report's Section 4, Tier 3 strategies, and the SDT-applied framework for reading environment design.
 
 > [!person] **Sanna Hidi and K. Ann Renninger** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
 > Developers of the four-phase [[Interest-Theory]] model; primary contribution: the developmental taxonomy of situational and individual interest and the mechanisms through which interest transitions across phases. Central to this report's Section 3 and the interest-building reading program strategy.
@@ -201,7 +202,7 @@ importance: high
 > Developers of the monitoring-control metacognitive framework; primary contribution: the distinction between meta-level monitoring and object-level control as the foundational architecture of metacognitive self-regulation. Central to this report's Section 7 and the comprehension monitoring analysis.
 
 > [!person] **Barry Zimmerman (1942–2017)** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> Developer of the cyclical [[Self-Regulated-Learning]] model; primary contribution: the forethought-performance-self-reflection cycle as the structural template for self-regulated academic performance. Central to this report's Section 7 and the reading self-regulation architecture.
+> Developer of the cyclical [[self-regulated-learning]] model; primary contribution: the forethought-performance-self-reflection cycle as the structural template for self-regulated academic performance. Central to this report's Section 7 and the reading self-regulation architecture.
 
 > [!person] **Walter Kintsch** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
 > Cognitive psychologist; primary contributor with Teun van Dijk: the construction-integration model of reading comprehension and the three-level text representation framework (surface code → textbase → situation model). Foundational to this report's Section 2 and the entire cognitive architecture analysis.
@@ -266,12 +267,12 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge: What You Already Know About Reading and Motivation** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> Before entering this report, consider what you already know that bears directly on motivated academic reading. You have direct experience with [[Intrinsic-Motivation]] and with its collapse under pressure or threat — recall a book you read voraciously versus a textbook you avoided. You likely know something about [[Metacognition]] — the experience of realizing mid-paragraph that you have been "reading" without comprehending. You have encountered the concepts of [[Growth-Mindset]] and [[Self-Efficacy]], which bear directly on how readers interpret difficulty. You may know Csikszentmihalyi's…
+> Before entering this report, consider what you already know that bears directly on motivated academic reading. You have direct experience with [[intrinsic-motivation]] and with its collapse under pressure or threat — recall a book you read voraciously versus a textbook you avoided. You likely know something about [[metacognition]] — the experience of realizing mid-paragraph that you have been "reading" without comprehending. You have encountered the concepts of [[growth-mindset]] and [[self-efficacy]], which bear directly on how readers interpret difficulty. You may know Csikszentmihalyi's…
 
 ## Far Transfer Applications
 
 > [!far-transfer] **Transfer Domain 1: Deep Work and Complex Skill Acquisition** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> **Structural principle:** The four-system model (cognitive capacity, strategy, motivation, metacognition) applies to any cognitively demanding skill that requires sustained deliberate practice to develop. [[Deliberate-Practice]] theory (Ericsson) and [[deep-work]] (Newport) converge on the same architectural insight: sustained high-quality cognitive work requires threshold cognitive capacity, deliberate strategy, autonomous motivation, and ongoing self-monitoring. The vicious cycle analysis (poor capacity → poor experience → poor motivation → avoidance → continued poor capacity) is…
+> **Structural principle:** The four-system model (cognitive capacity, strategy, motivation, metacognition) applies to any cognitively demanding skill that requires sustained deliberate practice to develop. [[deliberate-practice]] theory (Ericsson) and [[deep-work]] (Newport) converge on the same architectural insight: sustained high-quality cognitive work requires threshold cognitive capacity, deliberate strategy, autonomous motivation, and ongoing self-monitoring. The vicious cycle analysis (poor capacity → poor experience → poor motivation → avoidance → continued poor capacity) is…
 
 > [!far-transfer] **Transfer Domain 2: Digital Information Navigation and Research Literacy** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
 > **Structural principle:** The comprehension monitoring and situation model construction analysis applies directly to the challenges of navigating complex digital information environments. Online research, source evaluation, and synthesis of multiple texts on a topic all require the same metacognitive monitoring skills as academic reading, but with the additional complexity of source evaluation and information integration across multiple texts.
@@ -284,12 +285,12 @@ importance: high
 > **Application:** Learners who struggle with lecture comprehension despite attending…
 
 > [!far-transfer] **Transfer Domain 4: PKM Systems and Personal Knowledge Management** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> **Structural principle:** The distinction between surface reading, textbase processing, and situation model construction is directly parallel to the PKM distinction between information collection, concept note elaboration, and genuine personal knowledge synthesis. [[Zettelkasten]], [[Permanent-Notes]], and [[Evergreen-Notes]] methodologies are architecturally equivalent to the Tier 2 strategy of self-explanation combined with retrieval practice: they require reformulation in one's own words, explicit connection to prior knowledge, and iterative retrieval and elaboration over…
+> **Structural principle:** The distinction between surface reading, textbase processing, and situation model construction is directly parallel to the PKM distinction between information collection, concept note elaboration, and genuine personal knowledge synthesis. [[zettelkasten]], [[Permanent-Notes]], and [[Evergreen-Notes]] methodologies are architecturally equivalent to the Tier 2 strategy of self-explanation combined with retrieval practice: they require reformulation in one's own words, explicit connection to prior knowledge, and iterative retrieval and elaboration over…
 
 ## AI Insights
 
 > [!claude-insight] **The Prior Knowledge Bootstrapping Problem** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
-> There is a bootstrapping problem at the heart of motivated academic reading development that most intervention approaches fail to acknowledge explicitly. Domain knowledge facilitates motivated reading, and motivated reading builds domain knowledge — but how does one enter the virtuous cycle when starting from low prior knowledge? The answer, supported by research on [[Advance-Organizers]] and [[Conceptual-Change-Theory]], is that the entry point requires deliberate structural scaffolding: pre-reading activities that build surface-level familiarity with key concepts (not deep understanding —…
+> There is a bootstrapping problem at the heart of motivated academic reading development that most intervention approaches fail to acknowledge explicitly. Domain knowledge facilitates motivated reading, and motivated reading builds domain knowledge — but how does one enter the virtuous cycle when starting from low prior knowledge? The answer, supported by research on [[advance-organizers]] and [[Conceptual-Change-Theory]], is that the entry point requires deliberate structural scaffolding: pre-reading activities that build surface-level familiarity with key concepts (not deep understanding —…
 
 > [!claude-insight] **Interest as a Reading Strategy, Not Just a State** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*
 > Most treatments of interest in reading present it as a background variable — some readers are more interested in a topic than others, and this affects engagement. A more generative framing positions interest *generation* as an active reading strategy: skilled readers deliberately cultivate curiosity about a topic before and during reading by generating questions, connecting content to personal stakes, and treating confusions as intriguing puzzles rather than failure signals. This reframes situational interest not as a gift some texts grant but as an epistemic stance the reader actively…
@@ -455,19 +456,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[motivated-academic-reading-foundational-report-2026-04-10]])*:
-- [[Intrinsic-Motivation]]
-- [[Self-Determination-Theory]]
-- [[Metacognition]]
-- [[Working-Memory]]
-- [[Cognitive-Load-Theory]]
-- [[Achievement-Goal-Theory]]
-- [[Spaced-Repetition]]
-- [[Retrieval-Practice]]
-- [[Zettelkasten]]
-- [[Deliberate-Practice]]
+- [[intrinsic-motivation|Intrinsic-Motivation]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[metacognition|Metacognition]]
+- [[working-memory|Working-Memory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[spaced-repetition|Spaced-Repetition]]
+- [[retrieval-practice|Retrieval-Practice]]
+- [[zettelkasten|Zettelkasten]]
+- [[deliberate-practice|Deliberate-Practice]]
 
 **Related concepts:**
-[[Self-Determination-Theory]] · [[Achievement-Goal-Theory]] · [[Levels-of-Processing-Theory]] · [[Cognitive-Load-Theory]] · [[Autonomy-Support]] · [[Basic-Psychological-Needs-Theory]] · [[Achievement-Goal-Theory]] · [[Metacognitive-Self-Regulation]] · [[Intrinsic-Motivation]] · [[Metacognition]] · [[Growth-Mindset]] · [[Self-Efficacy]] · [[Flow-Theory]] · [[Self-Regulated-Learning]] · [[Metacognition-and-Motivation]] · [[Intrinsic-Motivation]] · [[Autonomous-Motivation]] · [[Deep-Processing]] · [[Self-Regulated-Learning]] · [[Cognitive-Load-Theory]] · [[Intrinsic-Cognitive-Load]] · [[Basic-Psychological-Needs-Theory]] · [[Fixed-Mindset]] · [[Self-Efficacy]] · [[Cognitive-Evaluation-Theory]] · [[Relatedness-Need]] · [[Lifelong-learning]] · [[Matthew-Effect]] · [[Personal-Knowledge-Management]] · [[Walter-Kintsch]]
+[[self-determination-theory|Self-Determination-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[autonomy-support|Autonomy-Support]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[metacognitive-self-regulation|Metacognitive-Self-Regulation]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[metacognition|Metacognition]] · [[growth-mindset|Growth-Mindset]] · [[self-efficacy|Self-Efficacy]] · [[flow-theory|Flow-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition-and-motivation|Metacognition-and-Motivation]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[autonomous-motivation|Autonomous-Motivation]] · [[deep-processing|Deep-Processing]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[fixed-mindset|Fixed-Mindset]] · [[self-efficacy|Self-Efficacy]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[relatedness-need|Relatedness-Need]] · [[lifelong-learning|Lifelong-learning]] · [[matthew-effect|Matthew-Effect]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[walter-kintsch|Walter-Kintsch]]
 
 ## References
 

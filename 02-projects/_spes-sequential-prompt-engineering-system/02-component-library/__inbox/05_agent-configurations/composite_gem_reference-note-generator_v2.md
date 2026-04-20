@@ -483,9 +483,9 @@ aliases: [Synthesis Title, Connection Concept]
 ---
 ## The Intersection
 [Opening that establishes why these concepts connect]
-## [[Concept A]] Perspective
+## [[Concept-A]] Perspective
 [Analysis from first domain]
-## [[Concept B]] Perspective
+## [[Concept-B]] Perspective
 [Analysis from second domain]
 ## Emergent Insights
 > [!key-claim]
@@ -606,7 +606,7 @@ aliases: [Spaced Practice, Distributed Practice, SR]
 > [!definition]
 > **Spaced Repetition**: [[Learning]] technique that…
 ## The Science Behind It
-[Explanation with links to [[Forgetting-Curve]], [[Memory-Consolidation]]]
+[Explanation with links to [[Forgetting-Curve]], [[memory-consolidation]]]
 ## Implementation
 > [!methodology-and-sources]
 > [Practical framework]
@@ -628,7 +628,7 @@ aliases: [Dataview Plugin, DQL, Dataview Query Language]
 ---
 > [!abstract]
 > **Executive Overview**
-> Dataview is a powerful [[Obsidian]] plugin that…
+> Dataview is a powerful [[obsidian]] plugin that…
 ## Table of Contents
 [Generated sections]
 ## Introduction to Dataview

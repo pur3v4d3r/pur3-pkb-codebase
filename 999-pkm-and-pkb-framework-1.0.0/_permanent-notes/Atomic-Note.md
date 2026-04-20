@@ -5,6 +5,7 @@
 title: "Atomic Note"
 aliases:
   - "Atomic Note"
+  - "Atomic-Note"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -32,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,48 +69,48 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[John-Sweller]]"
-  - "[[Fred-Paas]]"
-  - "[[Jeroen-van-Merriënboer]]"
-  - "[[Alan-Baddeley]]"
-  - "[[Working-Memory]]"
-  - "[[PKM]]"
-  - "[[Miller's-Magical-Number-Seven]]"
-  - "[[Zettelkasten]]"
-  - "[[Obsidian]]"
-  - "[[Anki]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Intrinsic-Cognitive-Load]]"
-  - "[[Extraneous-Cognitive-Load]]"
-  - "[[Germane-Cognitive-Load]]"
-  - "[[Cognitive-Offloading]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[john-sweller|John-Sweller]]"
+  - "[[fred-paas|Fred-Paas]]"
+  - "[[jeroen-van-merriënboer|Jeroen-van-Merriënboer]]"
+  - "[[alan-baddeley|Alan-Baddeley]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[pkm|PKM]]"
+  - "[[millers-magical-number-seven|Miller's-Magical-Number-Seven]]"
+  - "[[zettelkasten|Zettelkasten]]"
+  - "[[obsidian|Obsidian]]"
+  - "[[anki|Anki]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]]"
+  - "[[extraneous-cognitive-load|Extraneous-Cognitive-Load]]"
+  - "[[germane-cognitive-load|Germane-Cognitive-Load]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
   - "[[cog-sci-report-metacognition-as-central-integrating-mechanism-for-pkm-2025111306]]"
   - "[[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Information-Processing-Theory]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[information-processing-theory|Information-Processing-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-CLT's-standard-treatment-presents-load-as-a-property-of-static-instr|**Description:** CLT's standard treatment presents load as a property of static instructional design]]"
+  - topic: "[[**Description:** CLT's standard treatment presents load as a property of static instructional design]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Retrieval-practice-is-this-report's-primary-recommendation-for-the-P|**Description:** Retrieval practice is this report's primary recommendation for the PKM retrieval ph]]"
+  - topic: "[[**Description:** Retrieval practice is this report's primary recommendation for the PKM retrieval ph]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Section-7-identified-the-metacognitive-complexity-of-PKM-systems-as|**Description:** Section 7 identified the metacognitive complexity of PKM systems as a genuine unres]]"
+  - topic: "[[**Description:** Section 7 identified the metacognitive complexity of PKM systems as a genuine unres]]"
     description: ""
     priority: medium
-  - topic: "[[Description-CLT-focuses-on-the-individual-learner's-cognitive-architecture.-But|**Description:** CLT focuses on the individual learner's cognitive architecture. But most real-world]]"
+  - topic: "[[**Description:** CLT focuses on the individual learner's cognitive architecture. But most real-world]]"
     description: ""
     priority: medium
 
@@ -130,7 +131,7 @@ importance: high
 > 
 > **Report-Specific Significance:** Atomic note design is a direct application of the split-attention and element-interactivity principles from CLT. It is the most immediate practical recommendation this report derives from CLT for PKM design.
 > 
-> **See also:** [[Zettelkasten]], [[Active-Note-Making]], [[Element-Interactivity]], [[Split-Attention-Effect]], [[Self-Explanation-in-PKB-Practice]]
+> **See also:** [[zettelkasten]], [[active-note-making]], [[element-interactivity]], [[split-attention-effect]], [[Self-Explanation-in-PKB-Practice]]
 
 *Source: 1976; popularized by Ahrens, 2017*
 
@@ -170,7 +171,7 @@ importance: high
 > CLT's central claim can be stated clearly: learning requires working memory resources; working memory is severely limited; therefore, the design of any learning environment — including a PKM system — must be evaluated by how efficiently it allocates those resources. Intrinsic load is a function of material complexity and learner expertise, and can be managed but not eliminated without distorting learning. Extraneous load is a function of design choices and can and should be minimized, as it is…
 
 > [!analytical-insight] Key Insight *(from [[cognitive-load-theory-and-pkm-foundational-report-2026-04-12]])*
-> The most powerful theoretical framing for PKM through a CLT lens is that well-designed PKM systems function as externalized cognitive architecture — they extend and supplement the brain's own memory and processing structures. In Andy Clark and David Chalmers' [[Extended-Mind-Theory]] terms, a PKM system can be a genuine part of the cognitive system, not merely an external tool. From a CLT perspective, this externalization reduces extraneous and intrinsic cognitive load during complex reasoning…
+> The most powerful theoretical framing for PKM through a CLT lens is that well-designed PKM systems function as externalized cognitive architecture — they extend and supplement the brain's own memory and processing structures. In Andy Clark and David Chalmers' [[extended-mind-theory]] terms, a PKM system can be a genuine part of the cognitive system, not merely an external tool. From a CLT perspective, this externalization reduces extraneous and intrinsic cognitive load during complex reasoning…
 
 > [!analytical-insight] Key Insight *(from [[cognitive-load-theory-and-pkm-foundational-report-2026-04-12]])*
 > The six principles collectively define a CLT-informed PKM design standard: minimize capture complexity; enforce atomic element interactivity; use worked-example traces in notes; exploit dual-channel representation; implement structured retrieval; and adapt scaffolding to expertise. A PKM system that satisfies all six principles is, by CLT's analysis, as cognitively efficient as current learning science supports. A PKM system that violates these principles has identifiable cognitive costs;…
@@ -181,7 +182,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[cognitive-load-theory-and-pkm-foundational-report-2026-04-12]])*
-> For PKM practitioners applying CLT recommendations, the measurement gap creates a non-trivial practical problem: how do you know whether a PKM redesign actually reduces extraneous load or whether it merely feels simpler because it is more familiar? The [[Fluency-Illusion|fluency illusion]] — the tendency to misinterpret processing ease as comprehension depth — is a known bias in self-monitoring. A PKM system that feels effortless may be cognitively disengaging rather than cognitively optimal.…
+> For PKM practitioners applying CLT recommendations, the measurement gap creates a non-trivial practical problem: how do you know whether a PKM redesign actually reduces extraneous load or whether it merely feels simpler because it is more familiar? The [[fluency-illusion|fluency illusion]] — the tendency to misinterpret processing ease as comprehension depth — is a known bias in self-monitoring. A PKM system that feels effortless may be cognitively disengaging rather than cognitively optimal.…
 
 ## Key Figures & Intellectual Lineage
 
@@ -222,7 +223,7 @@ importance: high
 > No randomized controlled study has measured the learning outcomes (retention, transfer, schema formation) of CLT-informed PKM design compared to CLT-naïve PKM design while holding content and time constant. The entire applied edifice of CLT + PKM rests on inferential extension of laboratory findings to naturalistic long-term knowledge management. This is a significant gap.
 
 > [!open-question] **The Metacognitive Prerequisites for Effective CLT-Informed PKM** *(from [[cognitive-load-theory-and-pkm-foundational-report-2026-04-12]])*
-> What level of metacognitive development is required before a CLT-informed PKM system produces net cognitive benefits? The system's efficiency gains may be outweighed by its maintenance demands for practitioners without well-developed [[Metacognition|metacognitive monitoring skills]]. The learning curve for CLT-informed PKM is empirically unknown.
+> What level of metacognitive development is required before a CLT-informed PKM system produces net cognitive benefits? The system's efficiency gains may be outweighed by its maintenance demands for practitioners without well-developed [[metacognition|metacognitive monitoring skills]]. The learning curve for CLT-informed PKM is empirically unknown.
 
 ## Reflection Prompts
 
@@ -467,19 +468,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[cognitive-load-theory-and-pkm-foundational-report-2026-04-12]])*:
-- [[Cognitive-Load-Theory]]
-- [[Working-Memory]]
-- [[Schema-Theory]]
-- [[Long-Term-Memory]]
-- [[Personal-Knowledge-Management-Systems]]
-- [[Element-Interactivity]]
-- [[Extended-Mind-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[working-memory|Working-Memory]]
+- [[schema-theory|Schema-Theory]]
+- [[long-term-memory|Long-Term-Memory]]
+- [[personal-knowledge-management-systems|Personal-Knowledge-Management-Systems]]
+- [[element-interactivity|Element-Interactivity]]
+- [[extended-mind-theory|Extended-Mind-Theory]]
 - [[memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11]]
-- [[CLT-as-a-Dynamic-Load-Optimization-Problem]]
+- [[clt-as-a-dynamic-load-optimization-problem|CLT-as-a-Dynamic-Load-Optimization-Problem]]
 - [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]
 
 **Related concepts:**
-[[Cognitive-Load-Theory]] · [[Personal-Knowledge-Management]] · [[John-Sweller]] · [[Fred-Paas]] · [[Jeroen-van-Merriënboer]] · [[Alan-Baddeley]] · [[Working-Memory]] · [[PKM]] · [[Miller's-Magical-Number-Seven]] · [[Zettelkasten]] · [[Obsidian]] · [[Anki]] · [[Baddeley's-Working-Memory-Model]] · [[Intrinsic-Cognitive-Load]] · [[Extraneous-Cognitive-Load]] · [[Germane-Cognitive-Load]] · [[Cognitive-Offloading]] · [[cog-sci-report-metacognition-as-central-integrating-mechanism-for-pkm-2025111306]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[George-Miller]] · [[Cowan]] · [[Miller's-Magical-Number-Seven]] · [[Baddeley's-Working-Memory-Model]] · [[Alan-Baddeley]] · [[Phonological-Loop]] · [[Episodic-Buffer]] · [[Central-Executive]] · [[Baddeley's-Working-Memory-Model]]
+[[cognitive-load-theory|Cognitive-Load-Theory]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[john-sweller|John-Sweller]] · [[fred-paas|Fred-Paas]] · [[jeroen-van-merriënboer|Jeroen-van-Merriënboer]] · [[alan-baddeley|Alan-Baddeley]] · [[working-memory|Working-Memory]] · [[pkm|PKM]] · [[millers-magical-number-seven|Miller's-Magical-Number-Seven]] · [[zettelkasten|Zettelkasten]] · [[obsidian|Obsidian]] · [[anki|Anki]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]] · [[extraneous-cognitive-load|Extraneous-Cognitive-Load]] · [[germane-cognitive-load|Germane-Cognitive-Load]] · [[cognitive-offloading|Cognitive-Offloading]] · [[cog-sci-report-metacognition-as-central-integrating-mechanism-for-pkm-2025111306]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[george-miller|George-Miller]] · [[cowan|Cowan]] · [[millers-magical-number-seven|Miller's-Magical-Number-Seven]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[alan-baddeley|Alan-Baddeley]] · [[phonological-loop|Phonological-Loop]] · [[episodic-buffer|Episodic-Buffer]] · [[central-executive|Central-Executive]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]
 
 ## References
 

@@ -29,7 +29,7 @@ aliases: [Planning in PKB, Knowledge Work Planning, Self-Education Planning, PKB
 
 > [!abstract]
 > **Executive Overview**
-> Planning in the context of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Self-Directed-Learning|Self-Directed Learning]] is the metacognitive process of systematically organizing cognitive resources, time allocation, and learning objectives to maximize knowledge acquisition and application within a [[PKB]] environment. This reference note synthesizes cognitive science research, planning methodologies, and Obsidian-specific implementation strategies to provide a comprehensive framework for planning knowledge work and self-education activities.
+> Planning in the context of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[self-directed-learning|Self-Directed Learning]] is the metacognitive process of systematically organizing cognitive resources, time allocation, and learning objectives to maximize knowledge acquisition and application within a [[PKB]] environment. This reference note synthesizes cognitive science research, planning methodologies, and Obsidian-specific implementation strategies to provide a comprehensive framework for planning knowledge work and self-education activities.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -72,7 +72,7 @@ Zimmerman's model breaks self-regulated learning into three cyclical phases:
 1. **Forethought Phase** (Planning Domain)
    - [[Goal Setting]]: Establishing specific, measurable learning objectives
    - [[Task Analysis]]: Breaking complex learning into component elements  
-   - [[Strategic-Planning]]: Selecting appropriate methods and tools
+   - [[strategic-planning]]: Selecting appropriate methods and tools
    - [[Motivational Beliefs]]: Activating self-efficacy and outcome expectations
 
 2. **Performance Phase** (Execution Domain)
@@ -93,7 +93,7 @@ Zimmerman's model breaks self-regulated learning into three cyclical phases:
 
 > [!connection-ideas]
 > **The Cognitive Load Relationship**
-> Planning reduces [[Working-Memory]] burden by creating external cognitive scaffolds. David Allen's [[GTD]] methodology explicitly addresses this: "There is an inverse relationship between things on your mind and those things getting done." When planning systems externalize commitments, they free working memory for higher-order cognitive tasks rather than mere recall.
+> Planning reduces [[working-memory]] burden by creating external cognitive scaffolds. David Allen's [[GTD]] methodology explicitly addresses this: "There is an inverse relationship between things on your mind and those things getting done." When planning systems externalize commitments, they free working memory for higher-order cognitive tasks rather than mere recall.
 
 Metacognition at early ages directly predicts later academic performance, suggesting that planning capabilities compound over time. The act of planning itself strengthens metacognitive abilities, creating a positive feedback loop where better planning leads to better learning outcomes, which reinforces planning behaviors.
 
@@ -103,8 +103,8 @@ Planning operates on two complementary levels:
 
 | Planning Level | Function | Example in PKB Context |
 |----------------|----------|------------------------|
-| **Strategic (Macro)** | Long-term goal architecture, system design | Designing a [[Zettelkasten]] structure for comprehensive topic coverage over years |
-| **Tactical (Micro)** | Daily task selection, session organization | Planning today's [[Deliberate-Practice]] session on a specific concept |
+| **Strategic (Macro)** | Long-term goal architecture, system design | Designing a [[zettelkasten]] structure for comprehensive topic coverage over years |
+| **Tactical (Micro)** | Daily task selection, session organization | Planning today's [[deliberate-practice]] session on a specific concept |
 | **Operational** | Real-time resource allocation | Deciding to switch from reading to note-making based on cognitive fatigue |
 
 > [!methodology-and-sources]
@@ -159,7 +159,7 @@ Select next action based on four criteria:
 
 > [!key-claim]
 > **GTD's Cognitive Liberation**
-> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed-Cognition]] or [[Extended Mind]] theory.
+> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[distributed-cognition]] or [[Extended Mind]] theory.
 
 ### GTD for Knowledge Work: Adaptations
 
@@ -169,7 +169,7 @@ Select next action based on four criteria:
 > **Traditional GTD**: "Write quarterly report" → "Draft outline for Q3 metrics" (@computer, 30min)
 > 
 > **Knowledge Work GTD**: "Master retrieval practice techniques" → 
-> - Project: [[Retrieval-Practice]] mastery
+> - Project: [[retrieval-practice]] mastery
 > - Next Actions: 
 >   - "Read Chapter 3 of 'Make It Stick'" (@reading-chair, 45min, med-energy)
 >   - "Create 10 flashcards on spacing effects" (@computer, 20min, low-energy)
@@ -257,7 +257,7 @@ Effective time blocking follows this systematic approach:
 > **Time Block Categories for Knowledge Work**
 > 
 > **Deep Work Blocks** (90-120 minutes)
-> - [[Deliberate-Practice]] on challenging concepts
+> - [[deliberate-practice]] on challenging concepts
 > - [[Creative Synthesis]] writing  
 > - Complex problem-solving
 > - Original research and analysis
@@ -308,7 +308,7 @@ Effective time blocking follows this systematic approach:
 
 > [!key-claim]
 > **The Quadrant II Revolution**
-> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate-Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic-Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
+> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[deliberate-practice]], [[System Building]], [[Relationship Cultivation]], and [[strategic-planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
 
 ### Eisenhower Matrix in PKB Planning
 
@@ -1661,7 +1661,7 @@ Match task types to energy levels:
 
 | Energy Level | Optimal Tasks | Time Blocking |
 |--------------|---------------|---------------|
-| **Peak (⚡⚡⚡)** | [[Deliberate-Practice]], creative synthesis, complex problem-solving | 9:00-11:00 AM, 4:00-6:00 PM |
+| **Peak (⚡⚡⚡)** | [[deliberate-practice]], creative synthesis, complex problem-solving | 9:00-11:00 AM, 4:00-6:00 PM |
 | **Moderate (⚡⚡)** | Learning, reading, note-making, routine practice | 2:00-4:00 PM |
 | **Low (⚡)** | Admin, email, organization, review, shallow work | 12:00-2:00 PM |
 
@@ -1993,23 +1993,23 @@ This structure flows from abstract understanding → concrete methodology → sp
 - Level 3 Headers (###): Implementation details and examples
 
 **Wiki-Link Opportunities Identified**:
-- [[Self-Regulated-Learning]]
-- [[Metacognition]]
-- [[Working-Memory]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[working-memory]]
 - [[Goal Setting]]
-- [[Zettelkasten]]
+- [[zettelkasten]]
 - [[Daily-Notes]]
 - [[Weekly Reviews]]
 - [[Project Management]]
 - [[Task-Management]]
-- [[Cognitive-Load]]
-- [[Deliberate-Practice]]
+- [[cognitive-load]]
+- [[deliberate-practice]]
 - [[Time Blocking]]
 - [[GTD]] (Getting Things Done)
-- [[PARA-Method]]
+- [[para-method]]
 - [[Progressive-Summarization]]
-- [[Spaced-Repetition]]
-- [[Retrieval-Practice]]
+- [[spaced-repetition]]
+- [[retrieval-practice]]
 - [[Obsidian Templates]]
 - [[Dataview-Plugin]]
 - [[Tasks-Plugin]]

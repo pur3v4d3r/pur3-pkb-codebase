@@ -100,7 +100,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Slow, deliberate, periodic. **Sentence-length profile:** Long-uniform (35–60 words mean). **Register:** Formal-academic, technically dense. **Voice:** Third-person impersonal. **Devices:** Periodic sentence structure, parenthetical qualification, hypotactic subordination, hedged precision. **Affect:** Neutral, scholarly. **Default move:** Definition-first with conditioning clauses.
 
-**Best paired with:** [[Foundational-Report]], [[Annotated Critical Analysis]], [[First Principles Analysis]] — generators where epistemic precision matters more than accessibility.
+**Best paired with:** [[foundational-report]], [[Annotated-Critical-Analysis]], [[First Principles Analysis]] — generators where epistemic precision matters more than accessibility.
 
 > A schema, in its strictest cognitive-psychological formulation, denotes an organized representational structure that encodes regularities abstracted from prior experience and that subsequently constrains the encoding, retrieval, and inferential elaboration of incoming information. Bartlett's (1932) seminal demonstration — that English participants progressively distorted the Native American folktale "The War of the Ghosts" toward culturally familiar narrative conventions across successive recall trials — established empirically what subsequent neuroimaging and computational modeling would only later formalize: that memory is not a passive trace of perceptual input but a reconstructive process scaffolded by pre-existing knowledge architectures whose influence is, in the typical case, neither effortful nor available to introspective report. The theoretical commitments entailed by this view, though they remain contested at the margins, have proven sufficiently generative to organize five subsequent decades of empirical work.
 
@@ -111,7 +111,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Steady, conversational. **Sentence-length profile:** Medium-uniform (12–22 words). **Register:** Lucid-popular, technical when needed but never showy. **Voice:** Third-person with occasional second-person. **Devices:** Concrete examples woven inline, deliberate pivots, the occasional one-sentence punctuation paragraph. **Affect:** Warm, confident. **Default move:** Plain definition followed by a concrete instance.
 
-**Best paired with:** [[Practitioner's Field Guide]], [[Foundational-Report]] when written for a non-specialist audience. The voice associated with Steven Pinker, Daniel Kahneman in trade-book mode, or *The New Yorker* science writing.
+**Best paired with:** [[Practitioner's-Field-Guide]], [[foundational-report]] when written for a non-specialist audience. The voice associated with Steven Pinker, Daniel Kahneman in trade-book mode, or *The New Yorker* science writing.
 
 > A schema is a mental shortcut. More precisely, it's a packet of organized knowledge that your mind has assembled from past experience and now uses to make sense of new situations. When you walk into a restaurant, you don't have to figure out what to do — your restaurant schema tells you to wait for a host, expect a menu, order, eat, pay. The remarkable thing isn't that we have schemas. It's that they operate so silently. They shape what we notice, what we remember, and what we infer, all before conscious thought has a chance to weigh in. This silence is what makes schemas powerful, and it's also what makes them dangerous. The mind that quietly fills in the missing pieces of a story is the same mind that quietly fills in the missing pieces of a face it thinks it has seen before.
 
@@ -144,7 +144,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Rolling, accumulative, suspending closure. **Sentence-length profile:** Long-periodic (50–100+ words, with multiple subordinate clauses). **Register:** Formal-academic, with philosophical undertones. **Voice:** Third-person impersonal. **Devices:** Heavy hypotaxis, em-dash interruption, parallel triplet structures, deferred main verb. **Affect:** Patient, exhaustive. **Default move:** Frame the qualification before the claim.
 
-**Best paired with:** [[First Principles Analysis]], [[Annotated Critical Analysis]] — generators that thrive on careful conditioning of every claim. Use sparingly elsewhere; reader endurance is finite.
+**Best paired with:** [[First Principles Analysis]], [[Annotated-Critical-Analysis]] — generators that thrive on careful conditioning of every claim. Use sparingly elsewhere; reader endurance is finite.
 
 > To say that a schema organizes cognition is to say something both more modest and more radical than it might at first appear: more modest, because schemas are not little homunculi that decide what we will think but rather statistical regularities extracted from experience and stored in distributed representational form; more radical, because the very perception that we take to be direct apprehension of the world is, on the schematic view, already a construction shaped at every level — from the categorical boundaries we impose on continuous sensory input, to the inferential gap-filling that lets us understand a sentence whose every implication has not been explicitly stated, to the reconstructive elaboration that occurs whenever we attempt to recall an event whose original encoding has long since faded into trace. The schema, in this expanded sense, is not a thing the mind possesses but a manner in which the mind operates.
 
@@ -166,7 +166,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Direct, brisk, slightly imperative. **Sentence-length profile:** Short-to-medium (8–18 words), with occasional longer clarifying sentences. **Register:** Operational, plain. **Voice:** Second-person ("you," "treat," "use"). **Devices:** Imperative mood, conditional structures ("if X, then Y"), explicit contrast pairs, action-orientation. **Affect:** Pragmatic, no-nonsense, slightly mentor-like. **Default move:** Claim → instruction → reasoning behind the instruction.
 
-**Best paired with:** [[Practitioner's Field Guide]] above all. Also excellent for the *application* sections of any generator.
+**Best paired with:** [[Practitioner's-Field-Guide]] above all. Also excellent for the *application* sections of any generator.
 
 > Treat schemas as the invisible architecture of your students' learning. When a learner encounters new material, they don't process it neutrally — they fit it into structures they already have. Use this. Activate the relevant schema before introducing new content: ask what they already know, draw the analogy explicitly, surface the prior framework. If no schema exists, build one before piling content on top. If the wrong schema is active, surface it and contrast it with the correct one. The schema is doing the work whether you acknowledge it or not. Better to direct the work than fight it. The cost of ignoring schemas is not that learning slows — it's that learning becomes invisible to you, and so does its failure.
 
@@ -177,7 +177,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Even, paced, citation-punctuated. **Sentence-length profile:** Medium-uniform (15–25 words). **Register:** Empirical-scholarly, with embedded citations. **Voice:** Third-person impersonal, frequent passive constructions. **Devices:** Hedged claims ("consistent with," "suggests," "has been associated with"), parenthetical citations, qualified attribution. **Affect:** Sober, measured. **Default move:** Empirical claim → citation → qualification.
 
-**Best paired with:** Empirical sections of [[Foundational-Report]] and [[Annotated Critical Analysis]]. The voice of journal review articles.
+**Best paired with:** Empirical sections of [[foundational-report]] and [[Annotated-Critical-Analysis]]. The voice of journal review articles.
 
 > Schemas have been operationalized in the cognitive literature as organized knowledge structures that influence encoding and retrieval (Bartlett, 1932; Alba & Hasher, 1983). Consistent with this characterization, schema-congruent information is reliably recalled more accurately than schema-incongruent information under most conditions (Brewer & Treyens, 1981), though schema-incongruent items show enhanced recall when sufficient processing resources are available — an effect commonly attributed to elaborative encoding. The neural correlates of schema effects have been increasingly localized to medial prefrontal regions (van Kesteren et al., 2012), with several lines of evidence suggesting a consolidation-related interaction with the hippocampus. Methodological heterogeneity across studies, however, complicates direct comparison and warrants caution in generalizing effect sizes.
 
@@ -210,7 +210,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Move and counter-move, with synthetic resolution. **Sentence-length profile:** Medium with rhythmic variation around pivots. **Register:** Argumentative-philosophical. **Voice:** Third-person, often staging positions. **Devices:** "On the X view… yet…", antithesis, reframing of the question itself, deliberate refusal of false binaries. **Affect:** Disciplined, fair-minded, slightly tense. **Default move:** Position → counter-position → reframe.
 
-**Best paired with:** [[Dialectical Report]] above all. Also useful for the contested-claims sections of [[Annotated Critical Analysis]].
+**Best paired with:** [[Dialectical Report]] above all. Also useful for the contested-claims sections of [[Annotated-Critical-Analysis]].
 
 > On the standard view, schemas help us. They allow rapid categorization, efficient comprehension, and inferential elaboration that compensates for incomplete information. Without them, every situation would be novel and cognitively expensive — perhaps impossibly so. Yet the same mechanism is the source of systematic distortion: stereotypes are schemas, eyewitness misidentifications are schema-driven, and the comforting coherence of our memories is largely a fiction the schema has provided. Are schemas, then, friend or foe? The question itself misframes the matter. Schemas are not optional features of cognition that could be evaluated for their utility or discarded. They are the form cognition takes. The choice is not whether to use them but which ones to cultivate, when to interrogate them, and how to design environments — educational, legal, perceptual — that attend to their failure modes rather than pretend they could be eliminated.
 
@@ -251,7 +251,7 @@ Each exemplar block contains:
 > [!style-card]
 > **Cadence:** Slow, observational, introspective. **Sentence-length profile:** Medium-to-long, contemplative. **Register:** First-person reflective, lightly literary. **Voice:** First-person singular ("I notice…", "I cannot…"). **Devices:** Present-tense observation, careful self-witnessing, the move from inner experience to theoretical claim, deliberate epistemic humility. **Affect:** Contemplative, attentive. **Default move:** Notice → describe → theorize from the description.
 
-**Best paired with:** [[Socratic Exploration]] in introspective registers, the experiential sections of [[Practitioner's Field Guide]] when teaching mindful self-observation, and certain personal-essay-style framings.
+**Best paired with:** [[Socratic Exploration]] in introspective registers, the experiential sections of [[Practitioner's-Field-Guide]] when teaching mindful self-observation, and certain personal-essay-style framings.
 
 > I notice that I have already finished this sentence in my mind before I have finished reading it. The next word, when I encounter it, will either confirm what I expected or surprise me — and the surprise, when it comes, will feel like friction, a small resistance in the otherwise frictionless act of comprehension. This is the texture of a schema operating. I cannot see the schema directly. What I can see is its absence: those moments when expectation breaks, when the familiar shape fails to fit, and the underlying machinery of meaning-making becomes briefly visible to itself. Cognitive psychology gave this phenomenon a name. The naming did not exhaust it. What remains is the strange fact that most of what I take to be perception is closer to remembering, and most of what I take to be remembering is closer to building.
 
@@ -283,7 +283,7 @@ Each exemplar block contains:
 |-------------|------------|--------------|
 | **Accessible Empiricism** | Style 2 + Style 8 | Lucid voice with citation discipline — ideal for sections that need both clarity and rigor |
 | **Narrative Scholarship** | Style 10 + Style 1 | Story-driven openings followed by formal analytical density |
-| **Practical Theorist** | Style 7 + Style 9 | Direct instructional voice with synthesizing frame — strong for [[Practitioner's Field Guide]] |
+| **Practical Theorist** | Style 7 + Style 9 | Direct instructional voice with synthesizing frame — strong for [[Practitioner's-Field-Guide]] |
 | **Contested Inquiry** | Style 11 + Style 6 | Dialectical movement framed as Socratic question-chains |
 | **Lyrical Rigor** | Style 3 + Style 5 | Literary texture with periodic-scholar density — high reader satisfaction, slow to compose |
 

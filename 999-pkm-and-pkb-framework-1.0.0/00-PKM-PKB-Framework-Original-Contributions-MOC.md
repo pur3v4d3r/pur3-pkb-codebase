@@ -55,7 +55,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R03: [[Schema-Progressive-Architecture]]
+### R03: [[schema-progressive-architecture]]
 
 **Three-layer note organization model:** (1) *Epitome Notes* — schema seeds providing simple, coherent orienting overviews; (2) *Elaboration Notes* — schema extensions adding progressive complexity with explicit elaboration relationship metadata; (3) *Accommodation Notes* — records of schema restructuring events with before/after structure.
 
@@ -73,7 +73,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R05: [[Fourfold-Motivational-Architecture]]
+### R05: [[fourfold-motivational-architecture]]
 
 **Integrated motivation framework** addressing PKB engagement simultaneously at four levels: (1) Basic psychological needs via SDT (autonomy, competence, relatedness); (2) Goal orientation via AGT (mastery over performance); (3) Resilience under adversity via Stoic praxis; (4) Optimal engagement calibration via Flow/LXD.
 
@@ -159,7 +159,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R17: [[Articulatory-Construction-Principle]] + [[Cognitive-Event-Model]]
+### R17: [[articulatory-construction-principle]] + [[Cognitive-Event-Model]]
 
 **Notes as records of cognitive construction events** — each note documents a thinking event (what the writer understood, struggled with, connected, resolved) rather than an information summary.
 
@@ -209,7 +209,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R25: [[Integration-Paradox]] + [[Small-World-PKB-Principle]]
+### R25: [[integration-paradox]] + [[Small-World-PKB-Principle]]
 
 **Optimal PKB topology mirrors expert semantic networks** — high local clustering (dense connections within knowledge domains) with short global path lengths (bridge connections between domains). The paradox: integration effort feels unproductive in the short term but is the primary determinant of long-term PKB value.
 

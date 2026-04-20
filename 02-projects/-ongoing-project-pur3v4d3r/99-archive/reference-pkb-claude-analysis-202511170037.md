@@ -122,7 +122,7 @@ D:\10_pur3v4d3r's-vault/
 **Key Observations**:
 - Heavy focus on **Obsidian plugin mastery** (Templater, Dataview, Day Planner, QuickAdd)
 - Active engagement with [[Getting-Things-Done]] and [[Task-Management]] frameworks
-- Recent emphasis on [[Metacognition]] and [[Self-Directed-Learning]]
+- Recent emphasis on [[metacognition]] and [[self-directed-learning]]
 - Systematic documentation of custom callout systems
 
 ---
@@ -161,7 +161,7 @@ D:\10_pur3v4d3r's-vault/
 ---
 
 ### **03_notes** 📝
-**Purpose**: [[Zettelkasten]] permanent notes and derived materials
+**Purpose**: [[zettelkasten]] permanent notes and derived materials
 **Contents**:
 ```
 03_notes/
@@ -319,7 +319,7 @@ D:\10_pur3v4d3r's-vault/
 | Document | Purpose |
 |----------|---------|
 | `managing-my-cognitive-load.md` | Strategic overview of cognitive management approach |
-| `my-goals.md` | Master goals document; likely integrated with [[Goal Setting]] and [[Self-Determination-Theory]] |
+| `my-goals.md` | Master goals document; likely integrated with [[Goal Setting]] and [[self-determination-theory]] |
 
 ---
 
@@ -459,7 +459,7 @@ Two parallel tracks visible in your structure:
 
 **🎉 Vault Architecture Analysis Complete!**
 
-Your vault represents a **professionally-architected Personal Knowledge Management system** that thoughtfully balances sophisticated organization with practical usability. The structure clearly reflects your [[Prompt-Engineering]] expertise, [[Humanistic Learning Theory]] engagement, and commitment to [[Lifelong-learning]].
+Your vault represents a **professionally-architected Personal Knowledge Management system** that thoughtfully balances sophisticated organization with practical usability. The structure clearly reflects your [[Prompt-Engineering]] expertise, [[Humanistic Learning Theory]] engagement, and commitment to [[lifelong-learning]].
 
 ```
 <thinking>

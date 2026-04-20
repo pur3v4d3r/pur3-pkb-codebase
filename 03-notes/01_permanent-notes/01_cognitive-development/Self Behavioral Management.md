@@ -19,17 +19,17 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[Cognitive Load Management]]"
   - "[[Constructivist Epistemology]]"
   - "[[Constructivist Learning]]"
-  - "[[Critical-Thinking]]"
+  - "[[critical-thinking]]"
   - "[[Stoic Dichotomy Of Control]]"
   - "[[Epistemic Accountability]]"
-  - "[[Metacognitive-Experiences]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Self-Determination-Theory]]"
+  - "[[metacognitive-experiences]]"
+  - "[[metacognitive-knowledge]]"
+  - "[[metacognitive-regulation]]"
+  - "[[self-determination-theory]]"
   - "[[Self-Regulation-Theory]]"
 maturity: seedling
 confidence: speculative

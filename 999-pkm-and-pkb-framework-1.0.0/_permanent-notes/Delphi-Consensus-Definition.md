@@ -5,6 +5,7 @@
 title: "Delphi Consensus Definition"
 aliases:
   - "Delphi Consensus Definition"
+  - "Delphi-Consensus-Definition"
   - "DCD"
 type: permanent-note
 status: evergreen
@@ -35,8 +36,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,7 +48,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -71,26 +72,26 @@ narrower:
   []
 
 see-also:
-  - "[[Socrates]]"
-  - "[[Socratic-Method|Socratic Method]]"
-  - "[[Robert-Ennis|Robert Ennis]]"
-  - "[[Diane-Halpern|Diane Halpern]]"
-  - "[[Benjamin-Bloom|Benjamin Bloom]]"
-  - "[[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]"
-  - "[[Kuhn-and-Dean|Kuhn and Dean]]"
-  - "[[Scientific-Method|Scientific Method]]"
-  - "[[Argument-Analysis|Argument Analysis]]"
-  - "[[Paul-and-Elder|Paul and Elder]]"
-  - "[[John-Flavell|John Flavell]]"
-  - "[[Dunning-and-Kruger|Dunning and Kruger]]"
-  - "[[McPeck]]"
-  - "[[Ennis]]"
-  - "[[Keith-Stanovich|Keith Stanovich]]"
-  - "[[Myside-Bias|Myside Bias]]"
-  - "[[Anchoring-Effects|Anchoring Effects]]"
-  - "[[Confirmation-Bias|Confirmation Bias]]"
-  - "[[Glaser]]"
-  - "[[Newell-and-Simon|Newell and Simon]]"
+  - "[[socrates|Socrates]]"
+  - "[[socratic-method|Socratic-Method]]"
+  - "[[robert-ennis|Robert-Ennis]]"
+  - "[[diane-halpern|Diane-Halpern]]"
+  - "[[benjamin-bloom|Benjamin-Bloom]]"
+  - "[[webbs-depth-of-knowledge|Webb's-Depth-of-Knowledge]]"
+  - "[[kuhn-and-dean|Kuhn-and-Dean]]"
+  - "[[scientific-method|Scientific-Method]]"
+  - "[[argument-analysis|Argument-Analysis]]"
+  - "[[paul-and-elder|Paul-and-Elder]]"
+  - "[[john-flavell|John-Flavell]]"
+  - "[[dunning-and-kruger|Dunning-and-Kruger]]"
+  - "[[mcpeck|McPeck]]"
+  - "[[ennis|Ennis]]"
+  - "[[keith-stanovich|Keith-Stanovich]]"
+  - "[[myside-bias|Myside-Bias]]"
+  - "[[anchoring-effects|Anchoring-Effects]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation-Bias-Myside-Bias]]"
+  - "[[glaser|Glaser]]"
+  - "[[newell-and-simon|Newell-and-Simon]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -120,13 +121,13 @@ importance: medium
 ## Core Explanation
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-foundational-critical-thinking]])*
-> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[Benjamin-Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's-Depth-of-Knowledge]] recognize CT as transcending content mastery - requiring transfer of cognitive…
+> The educational conceptualization treats critical thinking as **teachable-learnable competency** achieved through deliberate instruction, scaffolded practice, and gradual internalization of expert thinking patterns. [[benjamin-bloom|Benjamin Bloom]]'s taxonomy positioned critical thinking at the apex of cognitive objectives (analysis, synthesis, evaluation), while contemporary frameworks like [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] recognize CT as transcending content mastery -…
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-foundational-critical-thinking]])*
 > **[CT-Epistemological-Grounding**:: Critical thinking translates abstract epistemological questions into concrete cognitive practices: "What can I know?" becomes "What evidence supports this claim?"; "How can I justify beliefs?" becomes "What reasoning validates this conclusion?"; "What distinguishes knowledge from opinion?" becomes "What standards separate justified from unjustified assertions?"]**
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-foundational-critical-thinking]])*
-> The defining characteristic separating expert from novice critical thinkers is **metacognitive sophistication** rather than raw analytical power. [[Larkin-and-Simon]]'s studies of expert problem solvers revealed experts spend proportionally more time planning approach and monitoring progress, while novices immediately apply formulas without strategic oversight.
+> The defining characteristic separating expert from novice critical thinkers is **metacognitive sophistication** rather than raw analytical power. [[Larkin-and-Simon|Larkin and Simon]]'s studies of expert problem solvers revealed experts spend proportionally more time planning approach and monitoring progress, while novices immediately apply formulas without strategic oversight.
 
 > [!analytical-insight] Key Insight *(from [[cog-psy-foundational-critical-thinking]])*
 > The convergence across independently developed frameworks provides strong evidence for construct validity of critical thinking - distinct research traditions converge on similar components, suggesting they're identifying genuine cognitive and dispositional structures rather than arbitrary categorizations. This convergent validity strengthens confidence that CT represents coherent, identifiable phenomenon amenable to systematic study and development.
@@ -148,7 +149,7 @@ importance: medium
 > - **Breadth**: Individual variation, genetic factors,…
 
 > [!example] **Inhibition in CT** *(from [[cog-psy-foundational-critical-thinking]])*
-> The classic [[Bat-and-Ball-Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
+> The classic [[Bat-and-Ball-Problem|Bat-and-Ball Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
 > 
 > System 1 immediately suggests $0.10 (intuitive but wrong). Critical thinking requires inhibiting this prepotent response and engaging algebraic reasoning:
 > - Let ball = x
@@ -186,15 +187,7 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[Socrates]] · [[Socratic-Method|Socratic Method]] · [[Robert-Ennis|Robert Ennis]] · [[Diane-Halpern|Diane Halpern]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] · [[Kuhn-and-Dean|Kuhn and Dean]] · [[Scientific-Method|Scientific Method]] · [[Argument-Analysis|Argument Analysis]] · [[Paul-and-Elder|Paul and Elder]] · [[John-Flavell|John Flavell]] · [[Dunning-and-Kruger|Dunning and Kruger]] · [[McPeck]] · [[Ennis]] · [[Keith-Stanovich|Keith Stanovich]] · [[Myside-Bias|Myside Bias]] · [[Anchoring-Effects|Anchoring Effects]] · [[Confirmation-Bias|Confirmation Bias]] · [[Glaser]] · [[Newell-and-Simon|Newell and Simon]] · [[Epistemology]] · [[Empiricism]] · [[Rationalism]] · [[Fallibilism]] · [[Susan-Haack|Susan Haack]] · [[Information-Processing-Theory|Information Processing Theory]] · [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] · [[Cowan]] · [[Alan-Baddeley|Alan Baddeley]] · [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Related concepts** *(from [[cog-psy-foundational-critical-thinking]])*:
-[[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Newell-and-Simon|Newell and Simon]] * [[Susan-Haack|Susan Haack]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] * [[Alan-Baddeley|Alan Baddeley]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Modus-Ponens|Modus Ponens]] * [[Miyake-and-Friedman|Miyake and Friedman]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Bat-and-Ball-Problem|Bat-and-Ball Problem]] * [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] * [[Larkin-and-Simon|Larkin and Simon]]
-
-**Related concepts** *(from [[cog-psy-foundational-critical-thinking]])*:
-[[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Newell-and-Simon|Newell and Simon]] * [[Susan-Haack|Susan Haack]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Atkinson-and-Shiffrin|Atkinson and Shiffrin]] * [[Alan-Baddeley|Alan Baddeley]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Modus-Ponens|Modus Ponens]] * [[Miyake-and-Friedman|Miyake and Friedman]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Bat-and-Ball-Problem|Bat-and-Ball Problem]] * [[Wisconsin-Card-Sorting-Task|Wisconsin Card Sorting Task]] * [[Larkin-and-Simon|Larkin and Simon]]
-
-
+[[socrates|Socrates]] · [[socratic-method|Socratic-Method]] · [[robert-ennis|Robert-Ennis]] · [[diane-halpern|Diane-Halpern]] · [[benjamin-bloom|Benjamin-Bloom]] · [[webbs-depth-of-knowledge|Webb's-Depth-of-Knowledge]] · [[kuhn-and-dean|Kuhn-and-Dean]] · [[scientific-method|Scientific-Method]] · [[argument-analysis|Argument-Analysis]] · [[paul-and-elder|Paul-and-Elder]] · [[john-flavell|John-Flavell]] · [[dunning-and-kruger|Dunning-and-Kruger]] · [[mcpeck|McPeck]] · [[ennis|Ennis]] · [[keith-stanovich|Keith-Stanovich]] · [[myside-bias|Myside-Bias]] · [[anchoring-effects|Anchoring-Effects]] · [[Confirmation-Bias-Myside-Bias|Confirmation-Bias-Myside-Bias]] · [[glaser|Glaser]] · [[newell-and-simon|Newell-and-Simon]] · [[epistemic-autonomy-epistemology|Epistemic-Autonomy-—-Epistemology]] · [[empiricism|Empiricism]] · [[rationalism|Rationalism]] · [[fallibilism|Fallibilism]] · [[susan-haack|Susan-Haack]] · [[information-processing-theory|Information-Processing-Theory]] · [[atkinson-and-shiffrin|Atkinson-and-Shiffrin]] · [[cowan|Cowan]] · [[alan-baddeley|Alan-Baddeley]] · [[cognitive-load-theory|Cognitive-Load-Theory]]
 
 ## Methodology Notes
 

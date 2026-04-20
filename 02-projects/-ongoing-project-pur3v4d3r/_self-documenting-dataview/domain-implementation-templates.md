@@ -6,7 +6,7 @@ aliases: [Domain Templates Library, Ready-to-Use Domain Configurations, Domain I
 ---
 
 > [!abstract] Document Purpose
-> This document provides **production-ready templates** for instantiating the self-documenting knowledge framework across different domains. Each template includes complete configuration, customized note templates, and example implementations. These are **copy-paste-customize** resources designed for immediate deployment in your [[Obsidian]] vault.
+> This document provides **production-ready templates** for instantiating the self-documenting knowledge framework across different domains. Each template includes complete configuration, customized note templates, and example implementations. These are **copy-paste-customize** resources designed for immediate deployment in your [[obsidian]] vault.
 
 ---
 
@@ -81,7 +81,7 @@ Application notes (research papers, study analyses, experimental designs) should
 2. **Theories**::`[[Theory 1]], [[Theory 2]]`
    - **Purpose**: Which theoretical frameworks the research engages with
    - **Format**: Array of wiki-links to theory concept notes
-   - **Example**: `Theories:: [[Working-Memory]], [[Cognitive-Load-Theory]]`
+   - **Example**: `Theories:: [[working-memory]], [[cognitive-load-theory]]`
 
 3. **Paradigm**::`<value>`
    - **Purpose**: Broader research paradigm or school of thought
@@ -448,7 +448,7 @@ SORT StudyType ASC
 
 ### Common Applications
 
-- **[[Cognitive-Load-Theory]]** directly builds on WM capacity limitations
+- **[[cognitive-load-theory]]** directly builds on WM capacity limitations
 - Educational interventions designed to reduce WM load
 - Clinical assessments of cognitive impairment
 - Human-computer interaction research
@@ -456,12 +456,12 @@ SORT StudyType ASC
 ## 🔗 Related Concepts
 
 ### Theoretical Connections
-- [[Cognitive-Load-Theory]] - Explains learning difficulty based on WM limits
-- [[Attention]] - Central executive function overlaps with attentional control
-- [[Long-Term-Memory]] - Information transfer mechanisms
+- [[cognitive-load-theory]] - Explains learning difficulty based on WM limits
+- [[attention]] - Central executive function overlaps with attentional control
+- [[long-term-memory]] - Information transfer mechanisms
 
 ### Related Phenomena
-- [[Chunking]] - Strategy to overcome capacity limits
+- [[chunking]] - Strategy to overcome capacity limits
 - [[Cognitive Interference]] - Disruption of WM processing
 
 ### Methodological Links
@@ -536,7 +536,7 @@ MOC: "[[Cognitive Science Overview MOC]]"
 ## 📊 Research Metadata
 
 StudyType:: Meta-Analysis
-Theories:: [[Working-Memory]], [[Fluid Intelligence]], [[Transfer of Training]]
+Theories:: [[working-memory]], [[fluid-intelligence]], [[Transfer of Training]]
 Paradigm:: Cognitivist
 Population:: Meta-analysis of 87 studies, total N=4,536
 KeyFindings:: Small near-transfer effects (d=0.24), negligible far-transfer to fluid intelligence (d=0.09)
@@ -549,8 +549,8 @@ Does cognitive training targeting working memory capacity produce transfer effec
 
 This meta-analysis tests predictions from:
 
-- **[[Working-Memory]]** - If WM is a domain-general capacity, training should show broad transfer
-- **[[Fluid Intelligence]]** - Hypothesized relationship with WM capacity (individual differences research)
+- **[[working-memory]]** - If WM is a domain-general capacity, training should show broad transfer
+- **[[fluid-intelligence]]** - Hypothesized relationship with WM capacity (individual differences research)
 - **[[Transfer of Training]]** - Conditions under which learning transfers to new domains
 
 The theoretical motivation stems from correlational research showing WM capacity predicts fluid intelligence (r≈.50), leading to hypothesis that improving WM should improve gF.
@@ -599,7 +599,7 @@ Results challenge the theoretical assumption that WM training can enhance domain
 ### Connections to Other Work
 
 - **[[Cognitive Training Debate]]** - Adds to skeptical literature on "brain training" efficacy
-- **[[Dual-Process-Theory]]** - Suggests System 2 processing limitations may not be malleable through training
+- **[[dual-process-theory]]** - Suggests System 2 processing limitations may not be malleable through training
 - **[[Learning Transfer]]** - Consistent with specificity of learning principle
 
 ### Questions Raised
@@ -616,12 +616,12 @@ Results challenge the theoretical assumption that WM training can enhance domain
 
 ### Application to My Work
 
-This has major implications for my [[Learning-System-Design]] notes:
+This has major implications for my [[learning-system-design]] notes:
 - Don't rely on domain-general "capacity building" approaches
 - Focus on domain-specific practice with meaningful contexts
 - Consider if PKB development itself is a form of "cognitive training" - does it transfer?
 
-Relevant to [[Cognitive-Load-Theory]] application in my vault design:
+Relevant to [[cognitive-load-theory]] application in my vault design:
 - If WM capacity is relatively fixed, offloading to external systems (PKB) becomes even more critical
 - This justifies investment in automation and smart note-taking systems
 

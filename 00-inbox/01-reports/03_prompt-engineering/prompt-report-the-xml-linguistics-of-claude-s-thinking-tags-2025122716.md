@@ -149,7 +149,7 @@ This comprehensive reference explores six interconnected dimensions:
 
 [**Cognitive-Delimiter**:: A structural element in a prompt that creates explicit boundaries between reasoning contexts, enabling the model to maintain distinct semantic scopes and prevent cross-contamination of instructions, context, and output specifications.] ^established
 
-The core insight from [[Distributed-Cognition]] theory: ^established cognition extends beyond the boundaries of individual minds to include external artifacts, tools, and representations. When we structure prompts with XML tags, we create **external cognitive scaffolding** that fundamentally reshapes the cognitive system.
+The core insight from [[distributed-cognition]] theory: ^established cognition extends beyond the boundaries of individual minds to include external artifacts, tools, and representations. When we structure prompts with XML tags, we create **external cognitive scaffolding** that fundamentally reshapes the cognitive system.
 
 Consider this progression:
 
@@ -189,7 +189,7 @@ This mirrors how human cognitive systems decompose complex problems: we establis
 > 
 > Structured prompts using descriptive XML tags can increase LLM accuracy, reduce ambiguity, and improve reasoning by providing clear semantic context. Research documents improvements of up to 40% in response quality when switching from unstructured to well-designed XML prompts.
 > 
-> The mechanism: Tags reduce the [[Working-Memory]] burden on the model's attention mechanism by creating explicit boundaries. Rather than inferring where instructions end and examples begin, the model receives structural cues that clarify scope.
+> The mechanism: Tags reduce the [[working-memory]] burden on the model's attention mechanism by creating explicit boundaries. Rather than inferring where instructions end and examples begin, the model receives structural cues that clarify scope.
 
 ### 1.2 Attention Mechanism Modulation
 
@@ -226,7 +226,7 @@ XML tags likely exhibit high token salience because:
 
 ### 1.3 Distributed Cognition: Offloading to Structure
 
-Distributed cognition theory posits that cognitive processes extend across internal mental representations and external artifacts, with [[Cognitive-Offloading]] occurring when we use external structures to reduce internal processing demands. ^verified
+Distributed cognition theory posits that cognitive processes extend across internal mental representations and external artifacts, with [[cognitive-offloading]] occurring when we use external structures to reduce internal processing demands. ^verified
 
 **The Classical Example from HCI**: ^established In airline cockpits, pilots use "speed bugs"—physical markers on speed indicators—as external memory aids. Rather than remembering target speeds internally, they offload this memory to the physical environment, freeing working memory for other tasks.
 
@@ -294,7 +294,7 @@ Research in cognitive science demonstrates that external representations are not
 > [!key-claim]
 > **Integration with Cognitive Load Theory**
 > 
-> [[Cognitive-Load-Theory]] distinguishes three load types: ^verified
+> [[cognitive-load-theory]] distinguishes three load types: ^verified
 > - **Intrinsic Load**: Complexity inherent to the task
 > - **Extraneous Load**: Imposed by poor presentation
 > - **Germane Load**: Productive effort toward learning/problem-solving

@@ -34,7 +34,7 @@ The Big Bang Theory describes the universe as having expanded from an initial st
 - Nearly perfect blackbody spectrum at 2.725 K
 - Tiny fluctuations reveal early structure formation seeds
 
-### 3. Primordial Nucleosynthesis ([[Nucleosynthesis]])
+### 3. Primordial Nucleosynthesis ([[nucleosynthesis]])
 - Predicted abundances of light elements (H, He, Li)
 - Matches observed ratios in oldest stars
 - Requires specific conditions only present in early universe

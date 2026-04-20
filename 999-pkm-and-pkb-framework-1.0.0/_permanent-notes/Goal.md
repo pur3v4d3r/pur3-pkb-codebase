@@ -35,8 +35,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,7 +47,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -71,49 +71,49 @@ narrower:
   []
 
 see-also:
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Obsidian]]"
-  - "[[Goal-Setting-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Autonomous-Motivation]]"
-  - "[[Controlled-Motivation]]"
-  - "[[Metacognition]]"
-  - "[[Lifelong-learning]]"
-  - "[[Expertise-Development]]"
-  - "[[Self-Regulation]]"
-  - "[[Intrinsic-Motivation]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[obsidian|Obsidian]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[autonomous-motivation|Autonomous-Motivation]]"
+  - "[[controlled-motivation|Controlled-Motivation]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[lifelong-learning|Lifelong-learning]]"
+  - "[[expertise-development|Expertise-Development]]"
+  - "[[self-regulation|Self-Regulation]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
   - "[[metacognitive-awareness]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
-  - "[[Mastery-Goal-Orientation]]"
-  - "[[Performance-Goal-Orientation]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Goal-Setting-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[mastery-goal-orientation|Mastery-Goal-Orientation]]"
+  - "[[performance-goal-orientation|Performance-Goal-Orientation]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-emerged-from-this-report's-analysis-as-warranting-dedicated|The following topics emerged from this report's analysis as warranting dedicated treatment. Each rep]]"
+  - topic: "[[The following topics emerged from this report's analysis as warranting dedicated treatment. Each rep]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-focused-investigation-of-Gollwitzer's-1999-implementation-intentio|**Description:** A focused investigation of Gollwitzer's (1999) implementation intentions model — th]]"
+  - topic: "[[**Description:** A focused investigation of Gollwitzer's (1999) implementation intentions model — th]]"
     description: ""
     priority: medium
-  - topic: "[[Description-An-examination-of-the-social,-community,-and-collaborative-dimension|**Description:** An examination of the social, community, and collaborative dimensions of goal-setti]]"
+  - topic: "[[**Description:** An examination of the social, community, and collaborative dimensions of goal-setti]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-detailed-examination-of-methods-for-improving-metacognitive-calibr|**Description:** A detailed examination of methods for improving metacognitive calibration — the acc]]"
+  - topic: "[[**Description:** A detailed examination of methods for improving metacognitive calibration — the acc]]"
     description: ""
     priority: medium
 
@@ -128,13 +128,13 @@ importance: high
 # Goal
 
 > [!definition] **Goal** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> A goal, in the context of [[Personal-Knowledge-Management|personal knowledge management]], denotes an internally represented desired state toward which cognitive and behavioural activity is directed, encompassing not merely the specification of a target outcome but the establishment of evaluative criteria, temporal parameters, and regulatory mechanisms through which progress is monitored and behaviour is adjusted. Unlike the commonsense notion of a goal as a simple wish or intention, the construct as it operates in the motivation sciences carries with it an entire architecture of self-regulation — a point whose implications for PKM system design have been insufficiently recognised.
+> A goal, in the context of [[personal-knowledge-management|personal knowledge management]], denotes an internally represented desired state toward which cognitive and behavioural activity is directed, encompassing not merely the specification of a target outcome but the establishment of evaluative criteria, temporal parameters, and regulatory mechanisms through which progress is monitored and behaviour is adjusted. Unlike the commonsense notion of a goal as a simple wish or intention, the construct as it operates in the motivation sciences carries with it an entire architecture of self-regulation — a point whose implications for PKM system design have been insufficiently recognised.
 > 
 > **Boundary:** This definition excludes purely externally imposed targets (e.g., institutional deadlines) unless the individual has internalised them, and it excludes vague aspirations that lack evaluative referents.
 > 
-> **Report-Specific Significance:** The precision with which goals are conceptualised determines the quality of the [[Self-Regulated-Learning|self-regulatory]] infrastructure a PKM system can provide.
+> **Report-Specific Significance:** The precision with which goals are conceptualised determines the quality of the [[self-regulated-learning|self-regulatory]] infrastructure a PKM system can provide.
 > 
-> **See also:** [[Goal-Setting-Theory]], [[Self-Regulation]], [[Achievement-Goal-Theory]], [[Implementation-Intention]]
+> **See also:** [[goal-setting-theory]], [[self-regulation]], [[achievement-goal-theory]], [[implementation-intention]]
 
 ## Core Explanation
 
@@ -175,10 +175,10 @@ importance: high
 > Accessible overview of Zimmerman's cyclical SRL model and its educational implications — the primary source for the SRL architecture in Section 3.
 
 > [!analytical-insight] Key Insight *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> The central empirical finding of [[Basic-Psychological-Needs-Theory|BPNT]] for PKM design is that environments which support the satisfaction of autonomy, competence, and relatedness foster the internalisation of extrinsic motivation (making externally originated goals feel personally meaningful) and sustain [[Intrinsic-Motivation|intrinsic motivation]] (the inherent enjoyment of the activity itself), whereas environments that thwart these needs produce amotivation, controlled motivation, or…
+> The central empirical finding of [[basic-psychological-needs-theory|BPNT]] for PKM design is that environments which support the satisfaction of autonomy, competence, and relatedness foster the internalisation of extrinsic motivation (making externally originated goals feel personally meaningful) and sustain [[intrinsic-motivation|intrinsic motivation]] (the inherent enjoyment of the activity itself), whereas environments that thwart these needs produce amotivation, controlled motivation, or…
 
 > [!analytical-insight] Key Insight *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> The phases and sub-processes of SRL theory map with striking structural correspondence onto the functional components of a well-designed PKB. Forethought maps onto goal-setting templates, project planning notes, and [[Learning-Contracts|learning contracts]]. Performance maps onto note-creation workflows, active reading protocols, and knowledge processing templates. Self-reflection maps onto periodic review dashboards, progress journals, and self-assessment rubrics. This isomorphism is not…
+> The phases and sub-processes of SRL theory map with striking structural correspondence onto the functional components of a well-designed PKB. Forethought maps onto goal-setting templates, project planning notes, and [[learning-contracts|learning contracts]]. Performance maps onto note-creation workflows, active reading protocols, and knowledge processing templates. Self-reflection maps onto periodic review dashboards, progress journals, and self-assessment rubrics. This isomorphism is not…
 
 > [!analytical-insight] Key Insight *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
 > The most productive forms of self-assessment in PKM operate at the process and self-regulation levels — evaluating *how* one approached a learning task and *how well one monitored and regulated that approach* — rather than at the task level (did I create the note?) or the self level (am I a good knowledge worker?). A well-designed PKB review protocol should systematically direct the user's attention to process and self-regulation questions: "What reading strategy did I use for this material,…
@@ -189,13 +189,13 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> The popular SMART framework (Specific, Measurable, Achievable, Relevant, Time-bound) is often recommended uncritically for PKM goal-setting. While SMART goals have utility for well-defined tasks, their unreflective application to knowledge work can inadvertently privilege [[Performance-Goal-Orientation|performance-oriented]], outcome-focused goals over the mastery-oriented, process-focused goals that the evidence suggests are more conducive to deep learning. A more nuanced approach draws on…
+> The popular SMART framework (Specific, Measurable, Achievable, Relevant, Time-bound) is often recommended uncritically for PKM goal-setting. While SMART goals have utility for well-defined tasks, their unreflective application to knowledge work can inadvertently privilege [[performance-goal-orientation|performance-oriented]], outcome-focused goals over the mastery-oriented, process-focused goals that the evidence suggests are more conducive to deep learning. A more nuanced approach draws on…
 
 > [!warning] **Key Distinction** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> The growing trend toward gamification of PKM tools — streaks, points, badges, leaderboards — is in direct tension with SDT's predictions. While such features can temporarily increase engagement through [[Controlled-Motivation|controlled motivation]] (specifically external and introjected regulation), the evidence consistently indicates that they tend to undermine [[Intrinsic-Motivation|intrinsic motivation]] for the underlying activity, a phenomenon known as the…
+> The growing trend toward gamification of PKM tools — streaks, points, badges, leaderboards — is in direct tension with SDT's predictions. While such features can temporarily increase engagement through [[controlled-motivation|controlled motivation]] (specifically external and introjected regulation), the evidence consistently indicates that they tend to undermine [[intrinsic-motivation|intrinsic motivation]] for the underlying activity, a phenomenon known as the…
 
 > [!warning] **Key Distinction** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> A persistent challenge in metacognitive development is that the learners who most need improved calibration — those with the least domain knowledge — are precisely those least able to accurately monitor their understanding. This is not merely the [[Dunning-Kruger-Effect|Dunning-Kruger effect]] restated; it is a structural feature of metacognitive monitoring, which depends on the availability of domain-relevant cues. The implication for PKB design is that scaffolding must be most robust for…
+> A persistent challenge in metacognitive development is that the learners who most need improved calibration — those with the least domain knowledge — are precisely those least able to accurately monitor their understanding. This is not merely the [[dunning-kruger-effect|Dunning-Kruger effect]] restated; it is a structural feature of metacognitive monitoring, which depends on the availability of domain-relevant cues. The implication for PKB design is that scaffolding must be most robust for…
 
 ## Key Figures & Intellectual Lineage
 
@@ -289,7 +289,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Connecting to Your Existing Knowledge** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> If you have engaged with the literature on [[Self-Determination-Theory]] — particularly the distinction between autonomous and controlled forms of motivation — or if you have encountered [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]] with its forethought-performance-reflection architecture, you already possess the conceptual foundation upon which this report builds. Consider what you know about the difference between a [[Mastery-Goal-Orientation|mastery goal orientation]], in which the learner pursues understanding for its own…
+> If you have engaged with the literature on [[self-determination-theory]] — particularly the distinction between autonomous and controlled forms of motivation — or if you have encountered [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model of self-regulated learning]] with its forethought-performance-reflection architecture, you already possess the conceptual foundation upon which this report builds. Consider what you know about the difference between a [[mastery-goal-orientation|mastery goal orientation]], in which the learner pursues understanding for its own…
 
 ## Far Transfer Applications
 
@@ -306,12 +306,12 @@ importance: high
 > [!far-transfer] **Transfer Domain 3: Creative Practice and Artistic Development** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
 > **Structural Principle:** Autonomy-motivation alignment as the engine of sustained creative growth.
 > 
-> The creative practitioner — the painter, novelist, composer, or designer — faces a developmental challenge structurally identical to the knowledge worker's: how to maintain long-term creative development through self-directed practice without the external scaffolding of a formal educational institution. SDT's empirical finding that [[Autonomous-Motivation|autonomous motivation]] supports creativity while controlling motivation undermines it (Amabile, 1996) translates directly: the creative…
+> The creative practitioner — the painter, novelist, composer, or designer — faces a developmental challenge structurally identical to the knowledge worker's: how to maintain long-term creative development through self-directed practice without the external scaffolding of a formal educational institution. SDT's empirical finding that [[autonomous-motivation|autonomous motivation]] supports creativity while controlling motivation undermines it (Amabile, 1996) translates directly: the creative…
 
 ## Concrete Examples
 
 > [!example] **Goal Orientations in PKM Practice** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> Consider a knowledge worker building an Obsidian PKB on cognitive science. Under a mastery-approach orientation, the goal might be: "Deepen my understanding of the relationship between [[Working-Memory|working memory]] and [[Metacognitive-Monitoring|metacognitive monitoring]] by synthesising the relevant literatures into a coherent framework." Under a performance-approach orientation, the equivalent activity might be framed as: "Produce enough published notes to demonstrate expertise in cognitive science to my professional network." The two goals might generate superficially similar behaviour…
+> Consider a knowledge worker building an Obsidian PKB on cognitive science. Under a mastery-approach orientation, the goal might be: "Deepen my understanding of the relationship between [[working-memory|working memory]] and [[metacognitive-monitoring|metacognitive monitoring]] by synthesising the relevant literatures into a coherent framework." Under a performance-approach orientation, the equivalent activity might be framed as: "Produce enough published notes to demonstrate expertise in cognitive science to my professional network." The two goals might generate superficially similar behaviour…
 
 > [!example] **Multi-Scale Assessment in Obsidian** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
 > Consider an Obsidian-based PKB structured with three assessment layers. **Micro-scale:** Each permanent note includes a "confidence" metadata field and a self-test question at the bottom; periodic review surfaces notes where confidence exceeds a threshold and challenges the user to answer the self-test from memory before re-reading. **Meso-scale:** A weekly review template asks: "What domain received the most attention this week? Was that proportional to its importance? What surprised me? Where did I encounter difficulty, and what does that difficulty indicate about my approach?"…
@@ -319,7 +319,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **The Specificity Paradox in Knowledge Work** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> There exists a genuine dilemma in applying [[Goal-Setting-Theory]] to PKM: the more specific and measurable a knowledge management goal becomes (e.g., "create 5 permanent notes per week"), the more it risks optimising for quantity at the expense of the qualitative dimensions — depth of understanding, originality of synthesis, richness of interconnection — that constitute the actual purpose of the PKB. This is not merely a practical inconvenience but a theoretically predicted consequence of goal-specificity in complex, heuristic tasks, as Ordóñez et al. (2009) have argued. The challenge for…
+> There exists a genuine dilemma in applying [[goal-setting-theory]] to PKM: the more specific and measurable a knowledge management goal becomes (e.g., "create 5 permanent notes per week"), the more it risks optimising for quantity at the expense of the qualitative dimensions — depth of understanding, originality of synthesis, richness of interconnection — that constitute the actual purpose of the PKB. This is not merely a practical inconvenience but a theoretically predicted consequence of goal-specificity in complex, heuristic tasks, as Ordóñez et al. (2009) have argued. The challenge for…
 
 > [!claude-insight] **The Internalisation Architecture of PKB Design** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
 > A PKB's design can systematically facilitate or impede the internalisation of knowledge management goals. Design features that support **autonomy** — customisable workflows, flexible templates, user-defined review schedules, the absence of external leaderboards or social comparison metrics — facilitate movement along the internalisation continuum toward identified and integrated regulation. Features that support **competence** — progressive complexity in templates, visible growth metrics focused on depth rather than quantity, difficulty-calibrated review prompts — prevent the competence…
@@ -328,7 +328,7 @@ importance: high
 > There is a theoretical proposition implicit in much PKM discourse that has not been sufficiently articulated: the personal knowledge base, when properly designed and consistently used, functions as an *externalised self-regulatory system* — a material infrastructure that offloads, scaffolds, and amplifies the cognitive processes that SRL theory describes as occurring "in the head." Goal-setting templates externalise forethought. Daily review protocols externalise self-observation. Periodic reviews with rubrics externalise self-reflection. The knowledge graph's link structure externalises the…
 
 > [!claude-insight] **The PKB as Calibration Instrument** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> The personal knowledge base offers a unique — and largely untapped — resource for improving metacognitive calibration. When a learner creates a permanent note, they produce an *externalised representation of their understanding* that can subsequently be compared against authoritative sources, tested through retrieval practice, and evaluated for accuracy, completeness, and coherence. The [[Zettelkasten]] principle of writing in one's own words (rather than copying) forces the kind of generative processing that both improves learning and exposes comprehension gaps — making implicit…
+> The personal knowledge base offers a unique — and largely untapped — resource for improving metacognitive calibration. When a learner creates a permanent note, they produce an *externalised representation of their understanding* that can subsequently be compared against authoritative sources, tested through retrieval practice, and evaluated for accuracy, completeness, and coherence. The [[zettelkasten]] principle of writing in one's own words (rather than copying) forces the kind of generative processing that both improves learning and exposes comprehension gaps — making implicit…
 
 > [!claude-insight] **The Assessment-Autonomy Integration** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
 > This SDT-informed distinction between informational and controlling assessment yields a concrete design principle for PKB review protocols: **assessment structures should be designed by the user, for the user, and modifiable by the user.** A review template that the knowledge worker has created (or customised) to reflect their own learning priorities, that generates information rather than judgements, and that can be adapted as priorities evolve is an assessment instrument that supports autonomy. A rigidly imposed review template with fixed scoring criteria designed by someone else and…
@@ -339,16 +339,16 @@ importance: high
 ## Section Summaries
 
 > [!section-summary] **Section 1 Summary** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> Three complementary frameworks structure the analysis of goals in PKM: [[Goal-Setting-Theory]] addresses goal content (specificity, difficulty, mechanisms); [[Achievement-Goal-Theory]] addresses goal orientation (mastery vs. performance, approach vs. avoidance); and the proximal-distal distinction addresses goal temporality and hierarchical organisation. For PKM system design, the critical insight is that the quantitative specificity emphasised by goal-setting theory must be tempered by attention to goal orientation, since the evaluative structures embedded in PKB architecture can…
+> Three complementary frameworks structure the analysis of goals in PKM: [[goal-setting-theory]] addresses goal content (specificity, difficulty, mechanisms); [[achievement-goal-theory]] addresses goal orientation (mastery vs. performance, approach vs. avoidance); and the proximal-distal distinction addresses goal temporality and hierarchical organisation. For PKM system design, the critical insight is that the quantitative specificity emphasised by goal-setting theory must be tempered by attention to goal orientation, since the evaluative structures embedded in PKB architecture can…
 
 > [!section-summary] **Section 2 Summary** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> [[Self-Determination-Theory]] contributes three essential insights to PKM goal-setting: (1) the quality of motivation — autonomous vs. controlled — matters more than its quantity for predicting long-term engagement, deep learning, and well-being; (2) autonomous motivation depends on the satisfaction of basic psychological needs for autonomy, competence, and relatedness, which can be systematically supported or frustrated by PKB design choices; and (3) the internalisation continuum explains how externally originated knowledge management goals can become personally meaningful and…
+> [[self-determination-theory]] contributes three essential insights to PKM goal-setting: (1) the quality of motivation — autonomous vs. controlled — matters more than its quantity for predicting long-term engagement, deep learning, and well-being; (2) autonomous motivation depends on the satisfaction of basic psychological needs for autonomy, competence, and relatedness, which can be systematically supported or frustrated by PKB design choices; and (3) the internalisation continuum explains how externally originated knowledge management goals can become personally meaningful and…
 
 > [!section-summary] **Section 3 Summary** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> [[Self-Regulated-Learning]] theory, particularly [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model]] and [[Pintrich's-Integrative-SRL-Framework|Pintrich's 4×4 framework]], provides the dynamic architecture through which goals regulate cognition and behaviour. The three-phase cycle (forethought → performance → self-reflection) maps with structural precision onto the functional components of a well-designed PKB: goal-setting templates scaffold forethought, note-creation workflows scaffold performance, and review protocols scaffold self-reflection. The quality of…
+> [[self-regulated-learning]] theory, particularly [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's cyclical model]] and [[Pintrich's-Integrative-SRL-Framework|Pintrich's 4×4 framework]], provides the dynamic architecture through which goals regulate cognition and behaviour. The three-phase cycle (forethought → performance → self-reflection) maps with structural precision onto the functional components of a well-designed PKB: goal-setting templates scaffold forethought, note-creation workflows scaffold performance, and review protocols scaffold self-reflection. The quality of…
 
 > [!section-summary] **Section 4 Summary** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> [[Metacognition]] provides the monitoring and calibration infrastructure that enables the self-regulatory cycle to operate effectively. The [[Nelson-Narens-Model|Nelson-Narens framework]] of object-level / meta-level interaction, with its specific monitoring judgements (EOLs, JOLs, FOKs, RCJs), reveals that effective goal pursuit depends on the *accuracy* of self-assessment, not merely its presence. For PKM, the PKB can function as a metacognitive calibration instrument — externalising understanding, enabling comparison against standards, and supporting retrieval-based self-testing. The…
+> [[metacognition]] provides the monitoring and calibration infrastructure that enables the self-regulatory cycle to operate effectively. The [[nelson-narens-model|Nelson-Narens framework]] of object-level / meta-level interaction, with its specific monitoring judgements (EOLs, JOLs, FOKs, RCJs), reveals that effective goal pursuit depends on the *accuracy* of self-assessment, not merely its presence. For PKM, the PKB can function as a metacognitive calibration instrument — externalising understanding, enabling comparison against standards, and supporting retrieval-based self-testing. The…
 
 > [!section-summary] **Section 5 Summary** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
 > Assessment in PKM is not a summative judgement but a continuous formative process integral to the SRL cycle. The [[Hattie-&-Timperley-Feedback-Model|Hattie-Timperley feedback model]] demonstrates that process-level and self-regulation-level feedback are most productive for learning, while self-level and task-level feedback are least effective. SDT adds that assessment must be informational rather than controlling to sustain autonomous motivation. Practically, PKB assessment architecture should operate across three temporal scales — micro (comprehension monitoring), meso (strategic review),…
@@ -357,7 +357,7 @@ importance: high
 > The translation of theoretical principles into PKB design yields four interconnected design principles: (1) hierarchical goal scaffolding through linked note layers; (2) mastery orientation by design through process-focused metrics and the absence of normative comparison; (3) metacognitive scaffolding that fades through graduated template complexity; and (4) autonomy-preserving structure through informational framing and user governance. Together, these principles instantiate the five-layer PKB Goal Scaffolding Architecture — a design approach grounded in the GRM Triad and SDT that…
 
 > [!section-summary] **Section 7 Summary** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*
-> The developmental trajectory from novice to expert goal-setter proceeds through three stages — other-regulated, co-regulated, and self-regulated — each characterised by distinctive patterns of goal formulation, motivational quality, and metacognitive calibration. PKB design must be stage-differentiated: heavily scaffolded for novices, progressively opened for developing practitioners, and maximally flexible for experts. The concept of [[Lifelong-learning|lifelong learning]], informed by [[Andragogy|andragogical]] and [[Heutagogy|heutagogical]] principles, frames the PKB not as a static tool…
+> The developmental trajectory from novice to expert goal-setter proceeds through three stages — other-regulated, co-regulated, and self-regulated — each characterised by distinctive patterns of goal formulation, motivational quality, and metacognitive calibration. PKB design must be stage-differentiated: heavily scaffolded for novices, progressively opened for developing practitioners, and maximally flexible for experts. The concept of [[lifelong-learning|lifelong learning]], informed by [[andragogy|andragogical]] and [[heutagogy|heutagogical]] principles, frames the PKB not as a static tool…
 
 ## Spaced Repetition Seeds
 
@@ -506,19 +506,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[goal-setting-and-assessment-in-pkm-foundational-report-2026-04-15]])*:
-- [[Goal-Setting-Theory]]
-- [[Self-Determination-Theory]]
-- [[Self-Regulated-Learning]]
-- [[Metacognition]]
-- [[Formative-Assessment]]
-- [[Transfer-of-Learning]]
-- [[PKB-Architecture]]
-- [[Daily-Review-Frameworks]]
-- [[Learning-Contracts]]
-- [[Deliberate-Practice]]
+- [[goal-setting-theory|Goal-Setting-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[metacognition|Metacognition]]
+- [[formative-assessment|Formative-Assessment]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[pkb-architecture|PKB-Architecture]]
+- [[daily-review-frameworks|Daily-Review-Frameworks]]
+- [[learning-contracts|Learning-Contracts]]
+- [[deliberate-practice|Deliberate-Practice]]
 
 **Related concepts:**
-[[Personal-Knowledge-Management]] · [[Obsidian]] · [[Goal-Setting-Theory]] · [[Achievement-Goal-Theory]] · [[Self-Determination-Theory]] · [[Self-Regulated-Learning]] · [[Autonomous-Motivation]] · [[Controlled-Motivation]] · [[Metacognition]] · [[Lifelong-learning]] · [[Expertise-Development]] · [[Self-Regulation]] · [[Intrinsic-Motivation]] · [[metacognitive-awareness]] · [[Self-Determination-Theory]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Mastery-Goal-Orientation]] · [[Performance-Goal-Orientation]] · [[Personal-Knowledge-Management]] · [[Goal-Setting-Theory]] · [[Achievement-Goal-Theory]] · [[Self-Determination-Theory]] · [[Metacognition]] · [[Self-Directed-Learning]] · [[Personal-Knowledge-Management]] · [[Self-Regulated-Learning]] · [[Goal-Setting-Theory]] · [[Self-Regulation]] · [[Achievement-Goal-Theory]] · [[Implementation-Intention]]
+[[personal-knowledge-management|Personal-Knowledge-Management]] · [[obsidian|Obsidian]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[autonomous-motivation|Autonomous-Motivation]] · [[controlled-motivation|Controlled-Motivation]] · [[metacognition|Metacognition]] · [[lifelong-learning|Lifelong-learning]] · [[expertise-development|Expertise-Development]] · [[self-regulation|Self-Regulation]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[metacognitive-awareness]] · [[self-determination-theory|Self-Determination-Theory]] · [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[mastery-goal-orientation|Mastery-Goal-Orientation]] · [[performance-goal-orientation|Performance-Goal-Orientation]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[metacognition|Metacognition]] · [[self-directed-learning|Self-Directed-Learning]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[self-regulation|Self-Regulation]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[implementation-intention|Implementation-Intention]]
 
 ## References
 

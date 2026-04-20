@@ -143,7 +143,7 @@ extraction_summary:
 #### 4. [INSIGHT] Analytical Interlude: Two Commitments Now in View *(Line 175)*
 
 > [!insight] Analytical Interlude: Two Commitments Now in View
-> The Respondent has made the thesis bidirectional — not merely "understanding entails the ability to explain" but the stronger "explanation entails understanding." This is the thesis in its most testable form, and it is exactly this stronger version that will be examined. The Questioner has two lines of attack: cases where explanation is present but understanding seems absent (the *parrot problem*), and cases where understanding seems present but explanation is absent (the [[Tacit-Knowledge]] problem associated with [[Michael-Polanyi]]). The Respondent's confidence at this stage is appropriate — the thesis is genuinely plausible and widely held. What follows is not a demolition but a refinement through pressure.
+> The Respondent has made the thesis bidirectional — not merely "understanding entails the ability to explain" but the stronger "explanation entails understanding." This is the thesis in its most testable form, and it is exactly this stronger version that will be examined. The Questioner has two lines of attack: cases where explanation is present but understanding seems absent (the *parrot problem*), and cases where understanding seems present but explanation is absent (the [[tacit-knowledge]] problem associated with [[michael-polanyi]]). The Respondent's confidence at this stage is appropriate — the thesis is genuinely plausible and widely held. What follows is not a demolition but a refinement through pressure.
 
 #### 5. [ASK-YOURSELF-THIS] The Thesis Before Examination *(Line 182)*
 
@@ -195,7 +195,7 @@ extraction_summary:
 #### 14. [KEY-INSIGHT] Aporia III: The Unreliable Phenomenology *(Line 299)*
 
 > [!key-insight] Aporia III: The Unreliable Phenomenology
-> The felt sense of understanding — the inner experience of "getting it" — is neither necessary nor sufficient for understanding's presence. The [[Illusion-of-Explanatory-Depth]] demonstrates that the phenomenology of understanding can be produced by familiarity, pattern-matching, and confident coherence even in the absence of genuine structural grasp. And deep expertise often produces understanding without any accompanying sense of illumination, because the knowledge is fully automated. The phenomenology tracks something real but is far too unreliable to serve as a criterion.
+> The felt sense of understanding — the inner experience of "getting it" — is neither necessary nor sufficient for understanding's presence. The [[illusion-of-explanatory-depth]] demonstrates that the phenomenology of understanding can be produced by familiarity, pattern-matching, and confident coherence even in the absence of genuine structural grasp. And deep expertise often produces understanding without any accompanying sense of illumination, because the knowledge is fully automated. The phenomenology tracks something real but is far too unreliable to serve as a criterion.
 
 #### 15. [ASK-YOURSELF-THIS] Sitting with Aporia *(Line 314)*
 
@@ -214,13 +214,13 @@ extraction_summary:
 > 
 > This Socratic examination of understanding connects to several important nodes in the knowledge graph:
 > 
-> - **[[Transfer-of-Learning]]** — The functional integration account places transfer at the heart of understanding. Research on transfer (Bransford, Brown, and Cocking; Perkins and Salomon) suggests that genuine understanding is precisely what enables "far transfer" — the application of knowledge to structurally distant cases. Near-transfer (applying knowledge to problems very similar to training cases) can occur without deep understanding; far transfer is the mark of structural grasp. The aporias uncovered in this dialogue illuminate *why* transfer is so difficult to teach: we are not teaching a state but cultivating a capacity, and that cultivation requires engagement with the domain's structure in a way that rote instruction cannot produce.
+> - **[[transfer-of-learning]]** — The functional integration account places transfer at the heart of understanding. Research on transfer (Bransford, Brown, and Cocking; Perkins and Salomon) suggests that genuine understanding is precisely what enables "far transfer" — the application of knowledge to structurally distant cases. Near-transfer (applying knowledge to problems very similar to training cases) can occur without deep understanding; far transfer is the mark of structural grasp. The aporias uncovered in this dialogue illuminate *why* transfer is so difficult to teach: we are not teaching a state but cultivating a capacity, and that cultivation requires engagement with the domain's structure in a way that rote instruction cannot produce.
 > 
 > - **[[Tacit Knowledge (Polanyi)]]** — Polanyi's "we know more than we can tell" is not a footnote to the theory of understanding — it is a central constraint on any adequate account. The reconstruction offered here accommodates tacit knowledge by making explanation a *symptom* of understanding in some domains rather than its criterion in all domains. The glassblower's understanding is functional and integrated; it simply operates at a level that outstrips verbal articulation. This connection points toward the larger question of whether tacit and explicit knowledge are on a continuum or represent genuinely different epistemic categories.
 > 
-> - **[[Illusion-of-Explanatory-Depth]]** — The Rozenblit and Keil finding does more than show that people overestimate their understanding. It reveals that the *feeling* of coherence — the sense that something makes sense, that one could explain it if pressed — is generated by exposure and familiarity, not by genuine structural grasp. This connects to research on [[fluency-effects]] in learning: information that is easy to process feels more familiar and thus more understood, leading to systematic miscalibration. Understanding education through this lens suggests that difficulty, productive failure, and desirable difficulties may be features rather than bugs of genuine learning.
+> - **[[illusion-of-explanatory-depth]]** — The Rozenblit and Keil finding does more than show that people overestimate their understanding. It reveals that the *feeling* of coherence — the sense that something makes sense, that one could explain it if pressed — is generated by exposure and familiarity, not by genuine structural grasp. This connects to research on [[fluency-effects]] in learning: information that is easy to process feels more familiar and thus more understood, leading to systematic miscalibration. Understanding education through this lens suggests that difficulty, productive failure, and desirable difficulties may be features rather than bugs of genuine learning.
 > 
-> - **[[Metacognition]]** — The role of metacognitive calibration in the reconstructed account of understanding connects this dialogue to a substantial body of research (Flavell, Kruger and Dunning, Bjork) on the relationship between knowing and knowing what you know. The [[Dunning-Kruger-Effect]] can be partly reframed through the lens of this dialogue: it is not simply that incompetent people overestimate their ability — it is that they lack the internal structure that would allow them to detect their own errors, which is precisely what the functional integration account identifies as the mark of genuine understanding.
+> - **[[metacognition]]** — The role of metacognitive calibration in the reconstructed account of understanding connects this dialogue to a substantial body of research (Flavell, Kruger and Dunning, Bjork) on the relationship between knowing and knowing what you know. The [[dunning-kruger-effect]] can be partly reframed through the lens of this dialogue: it is not simply that incompetent people overestimate their ability — it is that they lack the internal structure that would allow them to detect their own errors, which is precisely what the functional integration account identifies as the mark of genuine understanding.
 
 #### 18. [KEY-INSIGHT] What Emerged from the Dialectical Process *(Line 361)*
 
@@ -360,35 +360,35 @@ extraction_summary:
 ### Unique Targets
 
 - [[Aha!-moment]]
-- [[Dunning-Kruger-Effect]]
+- [[dunning-kruger-effect]]
 - [[Epistemology-MOC]]
 - [[First Principles: What Is Knowledge?]]
 - [[Foundational Report: Philosophy of Mind]]
-- [[Frank-Keil]]
-- [[Gilbert-Ryle]]
-- [[Illusion-of-Explanatory-Depth]]
-- [[Leonid-Rozenblit]]
-- [[Metacognition]]
-- [[Michael-Polanyi]]
-- [[Polanyian-Tacit-Knowing]]
-- [[Richard-Feynman]]
-- [[Rote-memorization]]
-- [[Socratic-Dialogue-Report-Generator-v1.0]]
+- [[frank-keil]]
+- [[gilbert-ryle]]
+- [[illusion-of-explanatory-depth]]
+- [[leonid-rozenblit]]
+- [[metacognition]]
+- [[michael-polanyi]]
+- [[polanyian-tacit-knowing]]
+- [[richard-feynman]]
+- [[rote-memorization]]
+- [[socratic-dialogue-report-generator-v1.0]]
 - [[Tacit Knowledge (Polanyi)]]
-- [[Transfer-of-Learning]]
+- [[transfer-of-learning]]
 - [[classical-mechanics]]
 - [[cognitive-psychology]]
 - [[electromagnetism]]
 - [[fluency-effects]]
-- [[Illusion-of-Explanatory-Depth]]
+- [[illusion-of-explanatory-depth]]
 - [[knowing-how]]
 - [[knowing-that]]
-- [[Metacognition]]
-- [[Metacognitive-Calibration]]
+- [[metacognition]]
+- [[metacognitive-calibration]]
 - [[pedagogy]]
 - [[philosophy-of-mind]]
 - [[sense-of-coherence]]
-- [[Tacit-Knowledge]]
+- [[tacit-knowledge]]
 - [[understanding]]
 
 ### All Occurrences
@@ -396,35 +396,35 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[understanding]] | — | — | Movement I: The Opening — Establishin... | 135 |
-| 2 | [[Richard-Feynman]] | — | — | Movement I: The Opening — Establishin... | 141 |
+| 2 | [[richard-feynman]] | — | — | Movement I: The Opening — Establishin... | 141 |
 | 3 | [[pedagogy]] | — | — | Movement I: The Opening — Establishin... | 148 |
-| 4 | [[Rote-memorization]] | — | — | Movement II: The Confident Position —... | 169 |
+| 4 | [[rote-memorization]] | — | — | Movement II: The Confident Position —... | 169 |
 | 5 | [[classical-mechanics]] | — | — | Movement II: The Confident Position —... | 169 |
-| 6 | [[Tacit-Knowledge]] | — | — | Movement II: The Confident Position —... | 176 |
-| 7 | [[Michael-Polanyi]] | — | — | Movement II: The Confident Position —... | 176 |
-| 8 | [[Tacit-Knowledge]] | — | — | Movement III: The Examination — Elenc... | 212 |
-| 9 | [[Polanyian-Tacit-Knowing]] | — | — | Movement III: The Examination — Elenc... | 212 |
-| 10 | [[Gilbert-Ryle]] | Rylean knowing | — | Movement III: The Examination — Elenc... | 225 |
+| 6 | [[tacit-knowledge]] | — | — | Movement II: The Confident Position —... | 176 |
+| 7 | [[michael-polanyi]] | — | — | Movement II: The Confident Position —... | 176 |
+| 8 | [[tacit-knowledge]] | — | — | Movement III: The Examination — Elenc... | 212 |
+| 9 | [[polanyian-tacit-knowing]] | — | — | Movement III: The Examination — Elenc... | 212 |
+| 10 | [[gilbert-ryle]] | Rylean knowing | — | Movement III: The Examination — Elenc... | 225 |
 | 11 | [[knowing-how]] | — | — | Movement III: The Examination — Elenc... | 225 |
 | 12 | [[knowing-that]] | — | — | Movement III: The Examination — Elenc... | 225 |
 | 13 | [[electromagnetism]] | — | — | Movement III: The Examination — Elenc... | 227 |
 | 14 | [[cognitive-psychology]] | — | — | Movement III: The Examination — Elenc... | 229 |
-| 15 | [[Illusion-of-Explanatory-Depth]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
-| 16 | [[Leonid-Rozenblit]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
-| 17 | [[Frank-Keil]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
+| 15 | [[illusion-of-explanatory-depth]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
+| 16 | [[leonid-rozenblit]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
+| 17 | [[frank-keil]] | — | — | Movement IV: The Deepening — Toward A... | 244 |
 | 18 | [[Aha!-moment]] | — | — | Movement IV: The Deepening — Toward A... | 281 |
 | 19 | [[sense-of-coherence]] | — | — | Movement IV: The Deepening — Toward A... | 281 |
-| 20 | [[Illusion-of-Explanatory-Depth]] | — | — | Movement V: The Turning — Aporia and ... | 300 |
-| 21 | [[Metacognition]] | — | — | Movement VI: The Reconstruction — Dia... | 336 |
-| 22 | [[Metacognitive-Calibration]] | — | — | Movement VI: The Reconstruction — Dia... | 338 |
-| 23 | [[Transfer-of-Learning]] | — | — | Movement VI: The Reconstruction — Dia... | 345 |
+| 20 | [[illusion-of-explanatory-depth]] | — | — | Movement V: The Turning — Aporia and ... | 300 |
+| 21 | [[metacognition]] | — | — | Movement VI: The Reconstruction — Dia... | 336 |
+| 22 | [[metacognitive-calibration]] | — | — | Movement VI: The Reconstruction — Dia... | 338 |
+| 23 | [[transfer-of-learning]] | — | — | Movement VI: The Reconstruction — Dia... | 345 |
 | 24 | [[Tacit Knowledge (Polanyi)]] | — | — | Movement VI: The Reconstruction — Dia... | 347 |
-| 25 | [[Illusion-of-Explanatory-Depth]] | — | — | Movement VI: The Reconstruction — Dia... | 349 |
+| 25 | [[illusion-of-explanatory-depth]] | — | — | Movement VI: The Reconstruction — Dia... | 349 |
 | 26 | [[fluency-effects]] | — | — | Movement VI: The Reconstruction — Dia... | 349 |
-| 27 | [[Metacognition]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
-| 28 | [[Dunning-Kruger-Effect]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
+| 27 | [[metacognition]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
+| 28 | [[dunning-kruger-effect]] | — | — | Movement VI: The Reconstruction — Dia... | 351 |
 | 29 | [[philosophy-of-mind]] | — | — | Movement VII: The Closing — What We'v... | 390 |
-| 30 | [[Socratic-Dialogue-Report-Generator-v1.0]] | — | — | D. Expansion Topics | 483 |
+| 30 | [[socratic-dialogue-report-generator-v1.0]] | — | — | D. Expansion Topics | 483 |
 | 31 | [[Epistemology-MOC]] | — | — | D. Expansion Topics | 483 |
 | 32 | [[Foundational Report: Philosophy of Mind]] | — | — | D. Expansion Topics | 483 |
 | 33 | [[First Principles: What Is Knowledge?]] | — | — | D. Expansion Topics | 483 |
@@ -439,65 +439,65 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Aha!-moment]]
-- [[Dunning-Kruger-Effect]]
+- [[dunning-kruger-effect]]
 - [[Epistemology-MOC]]
 - [[First Principles: What Is Knowledge?]]
 - [[Foundational Report: Philosophy of Mind]]
-- [[Frank-Keil]]
-- [[Gilbert-Ryle]]
-- [[Illusion-of-Explanatory-Depth]]
-- [[Leonid-Rozenblit]]
-- [[Metacognition]]
-- [[Michael-Polanyi]]
-- [[Polanyian-Tacit-Knowing]]
-- [[Richard-Feynman]]
-- [[Rote-memorization]]
-- [[Socratic-Dialogue-Report-Generator-v1.0]]
+- [[frank-keil]]
+- [[gilbert-ryle]]
+- [[illusion-of-explanatory-depth]]
+- [[leonid-rozenblit]]
+- [[metacognition]]
+- [[michael-polanyi]]
+- [[polanyian-tacit-knowing]]
+- [[richard-feynman]]
+- [[rote-memorization]]
+- [[socratic-dialogue-report-generator-v1.0]]
 - [[Tacit Knowledge (Polanyi)]]
-- [[Transfer-of-Learning]]
+- [[transfer-of-learning]]
 - [[classical-mechanics]]
 - [[cognitive-psychology]]
 - [[electromagnetism]]
 - [[fluency-effects]]
-- [[Illusion-of-Explanatory-Depth]]
+- [[illusion-of-explanatory-depth]]
 - [[knowing-how]]
 - [[knowing-that]]
-- [[Metacognition]]
-- [[Metacognitive-Calibration]]
+- [[metacognition]]
+- [[metacognitive-calibration]]
 - [[pedagogy]]
 - [[philosophy-of-mind]]
 - [[sense-of-coherence]]
-- [[Tacit-Knowledge]]
+- [[tacit-knowledge]]
 - [[understanding]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Epistemology]]
-- [[Philosophy-of-Education]]
-- [[Cognitive-Science]]
+- [[epistemology]]
+- [[philosophy-of-education]]
+- [[cognitive-science]]
 
 #### Related Concepts
 
-- [[Epistemology]]
-- [[Propositional Knowledge]]
-- [[Procedural-Knowledge]]
-- [[Tacit-Knowledge]]
-- [[Illusion-of-Explanatory-Depth]]
+- [[epistemology]]
+- [[Propositional-Knowledge]]
+- [[procedural-knowledge]]
+- [[tacit-knowledge]]
+- [[illusion-of-explanatory-depth]]
 - [[Feynman Technique]]
-- [[Transfer-of-Learning]]
-- [[Metacognition]]
+- [[transfer-of-learning]]
+- [[metacognition]]
 - [[Coherentism]]
-- [[Dual-Process-Theory]]
-- [[Socratic-Method]]
-- [[Aporia]]
+- [[dual-process-theory]]
+- [[socratic-method]]
+- [[aporia]]
 
 #### Link Related
 
 - [[Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth]]
-- [[Transfer-of-Learning]]
+- [[illusion-of-explanatory-depth]]
+- [[transfer-of-learning]]
 - [[Feynman Technique]]
 - [[Knowledge vs Understanding]]
 

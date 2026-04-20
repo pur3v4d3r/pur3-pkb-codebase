@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,26 +73,26 @@ narrower:
   []
 
 see-also:
-  - "[[Achievement-Goal-Theory]]"
-  - "[[John-G.-Nicholls]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[John-G.-Nicholls]]"
-  - "[[Attribution-Theory]]"
-  - "[[John-Elliot]]"
-  - "[[Retrieval-Practice]]"
-  - "[[Carol-Dweck]]"
-  - "[[Higgins]]"
-  - "[[Learned-Helplessness]]"
-  - "[[Motivational-Climate]]"
-  - "[[Formative-Assessment]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Paul-Pintrich]]"
-  - "[[Psychological-Safety]]"
-  - "[[Growth-Mindset-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Paul-Pintrich]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Competence-Need]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[john-g.-nicholls|John-G.-Nicholls]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[john-g.-nicholls|John-G.-Nicholls]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[john-elliot|John-Elliot]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
+  - "[[carol-dweck|Carol-Dweck]]"
+  - "[[higgins|Higgins]]"
+  - "[[learned-helplessness|Learned-Helplessness]]"
+  - "[[motivational-climate|Motivational-Climate]]"
+  - "[[formative-assessment|Formative-Assessment]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[paul-pintrich|Paul-Pintrich]]"
+  - "[[psychological-safety|Psychological-Safety]]"
+  - "[[growth-mindset-theory|Growth-Mindset-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[paul-pintrich|Paul-Pintrich]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[competence-need|Competence-Need]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +104,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-t|> [!topic-idea] [[A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure|M]]"
+  - topic: "[[> [!topic-idea] [[A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure|M]]"
     description: ""
     priority: medium
 
@@ -124,7 +124,7 @@ importance: high
 ## Core Explanation
 
 > [!evidence] Supporting Evidence *(from [[achievement-goal-theory-focused-analysis-2026-03-24]])*
-> The most robust finding for MAP goals is not their relationship to academic performance — which is positive but smaller than expected — but their relationship to deep processing strategies, curiosity, and elaborative encoding. Learners with strong MAP orientations are more likely to ask "why" questions, seek connections between concepts, engage in [[Retrieval-Practice]], and allocate effort to understanding rather than surface reproduction. This has led researchers to describe MAP goals as…
+> The most robust finding for MAP goals is not their relationship to academic performance — which is positive but smaller than expected — but their relationship to deep processing strategies, curiosity, and elaborative encoding. Learners with strong MAP orientations are more likely to ask "why" questions, seek connections between concepts, engage in [[retrieval-practice]], and allocate effort to understanding rather than surface reproduction. This has led researchers to describe MAP goals as…
 
 > [!evidence] Supporting Evidence *(from [[achievement-goal-theory-focused-analysis-2026-03-24]])*
 > What the evidence suggests, taken as a whole, is that PAV goals constitute a *threat-regulatory mode* that systematically hijacks cognitive resources away from learning and toward self-protective monitoring. This is not merely a correlation — the mechanisms are well-documented. Learners in PAV states show increased self-referential processing (monitoring whether they appear incompetent to others), reduced working memory capacity for task-relevant processing, heightened physiological arousal,…
@@ -195,7 +195,7 @@ importance: high
 > The practical implication of motivational climate research is not simply "praise effort rather than ability" — though that is supported. It is that the *structural features* of evaluation systems, not just their interpersonal texture, determine goal adoption. Public ranking (even friendly leaderboards), grade normalization, and comparative feedback language (you scored in the top 20%) activate performance goal orientations. Mastery-structured alternatives include: criterion-referenced grading…
 
 > [!example] **Application** *(from [[achievement-goal-theory-focused-analysis-2026-03-24]])*
-> High-stakes, single-shot, comparative assessments maximally activate PAP and PAV goal orientations — precisely the combination most likely to produce PAV-like processing strategies for lower-confidence learners and goal conversion risk for higher-confidence ones. Low-stakes, iterative, criterion-referenced assessments with granular feedback on specific skills activate MAP orientations. The practical implication for [[Formative-Assessment]] design: frequent low-stakes assessments with…
+> High-stakes, single-shot, comparative assessments maximally activate PAP and PAV goal orientations — precisely the combination most likely to produce PAV-like processing strategies for lower-confidence learners and goal conversion risk for higher-confidence ones. Low-stakes, iterative, criterion-referenced assessments with granular feedback on specific skills activate MAP orientations. The practical implication for [[formative-assessment]] design: frequent low-stakes assessments with…
 
 > [!example] **Application** *(from [[achievement-goal-theory-focused-analysis-2026-03-24]])*
 > In organizational feedback systems — performance reviews, 360-degree assessments, developmental feedback programmes — the approach-avoidance asymmetry predicts that feedback systems structured around avoiding failure (don't miss targets, don't fall below benchmark) will activate PAV-like regulatory dynamics in recipients, suppressing genuine learning from feedback and increasing defensive processing. Adaptive alternatives: structure feedback explicitly around learning and growth targets…
@@ -402,25 +402,25 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[achievement-goal-theory-focused-analysis-2026-03-24]])*:
-- [[Higgins]]
+- [[higgins|Higgins]]
 
 **Cross-report connections** *(from [[achievement-goal-theory-focused-analysis-2026-03-24]])*:
-- [[Psychological-Safety]]
+- [[psychological-safety|Psychological-Safety]]
 
 **Cross-report connections** *(from [[achievement-goal-theory-focused-analysis-2026-03-24]])*:
-- [[Growth-Mindset-Theory]]
-- [[Self-Regulated-Learning]]
-- [[Paul-Pintrich]]
-- [[Basic-Psychological-Needs-Theory]]
-- [[Competence-Need]]
-- [[Motivational-Climate-Design]]
-- [[Attribution-Theory]]
-- [[Bernard-Weiner]]
-- [[Learned-Helplessness]]
-- [[Feedback-Design]]
+- [[growth-mindset-theory|Growth-Mindset-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[paul-pintrich|Paul-Pintrich]]
+- [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]
+- [[competence-need|Competence-Need]]
+- [[motivational-climate-design|Motivational-Climate-Design]]
+- [[attribution-theory|Attribution-Theory]]
+- [[bernard-weiner|Bernard-Weiner]]
+- [[learned-helplessness|Learned-Helplessness]]
+- [[feedback-design|Feedback-Design]]
 
 **Related concepts:**
-[[Achievement-Goal-Theory]] · [[John-G.-Nicholls]] · [[Achievement-Goal-Theory]] · [[John-G.-Nicholls]] · [[Attribution-Theory]] · [[John-Elliot]] · [[Retrieval-Practice]] · [[Carol-Dweck]] · [[Higgins]] · [[Learned-Helplessness]] · [[Motivational-Climate]] · [[Formative-Assessment]] · [[Self-Regulated-Learning]] · [[Paul-Pintrich]] · [[Psychological-Safety]] · [[Growth-Mindset-Theory]] · [[Self-Regulated-Learning]] · [[Paul-Pintrich]] · [[Basic-Psychological-Needs-Theory]] · [[Competence-Need]] · [[Motivational-Climate-Design]] · [[Attribution-Theory]] · [[Bernard-Weiner]] · [[Learned-Helplessness]] · [[Feedback-Design]] · [[Flow-Theory]] · [[Flow]] · [[Motivation-Theory-Foundational-Report]] · [[basic-psychological-needs-theory-focused-analysis-2026-03-13]] · [[metacognitive-scaffolding-focused-analysis-2026-03-20]]
+[[achievement-goal-theory|Achievement-Goal-Theory]] · [[john-g.-nicholls|John-G.-Nicholls]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[john-g.-nicholls|John-G.-Nicholls]] · [[attribution-theory|Attribution-Theory]] · [[john-elliot|John-Elliot]] · [[retrieval-practice|Retrieval-Practice]] · [[carol-dweck|Carol-Dweck]] · [[higgins|Higgins]] · [[learned-helplessness|Learned-Helplessness]] · [[motivational-climate|Motivational-Climate]] · [[formative-assessment|Formative-Assessment]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[paul-pintrich|Paul-Pintrich]] · [[psychological-safety|Psychological-Safety]] · [[growth-mindset-theory|Growth-Mindset-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[paul-pintrich|Paul-Pintrich]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[competence-need|Competence-Need]] · [[motivational-climate-design|Motivational-Climate-Design]] · [[attribution-theory|Attribution-Theory]] · [[bernard-weiner|Bernard-Weiner]] · [[learned-helplessness|Learned-Helplessness]] · [[feedback-design|Feedback-Design]] · [[flow-theory|Flow-Theory]] · [[flow|Flow]] · [[motivation-theory-foundational-report|Motivation-Theory-Foundational-Report]] · [[basic-psychological-needs-theory-focused-analysis-2026-03-13]] · [[metacognitive-scaffolding-focused-analysis-2026-03-20]]
 
 ## References
 

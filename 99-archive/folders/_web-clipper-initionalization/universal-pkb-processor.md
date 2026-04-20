@@ -279,11 +279,11 @@ tags:
 
 [**Spacing-Effect**:: The phenomenon where information is better retained when study sessions are spaced out rather than massed together.]
 
-The article explores how [[Spaced-Repetition]] builds on [[Ebbinghaus]]'s original [[Forgetting-Curve]] research...
+The article explores how [[spaced-repetition]] builds on [[Ebbinghaus]]'s original [[Forgetting-Curve]] research...
 
 ## Practical Applications
 
-1. **Using [[Anki]]**: [Details with wiki-links]
+1. **Using [[anki]]**: [Details with wiki-links]
 
 ## 🔗 Related Topics for PKB Expansion
 

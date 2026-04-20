@@ -155,12 +155,12 @@ extraction_summary:
 #### 2. [DEFINITION] Elenchus (Socratic Philosophy, Plato/Socrates) *(Line 162)*
 
 > [!definition] Elenchus (Socratic Philosophy, Plato/Socrates)
-> The Socratic [[Socratic-Method-Elenchus|Elenchus]] (from the Greek *elenchein*, to test or refute) is the formal structure of Socratic questioning: the interlocutor asserts a belief; Socrates elicits the implications of that belief through systematic questioning; the implications are shown to contradict either the original belief, other beliefs the interlocutor holds, or established facts; the interlocutor is thereby reduced to [[Aporia]]. Boundary conditions: the elenchus is not merely rhetorical refutation — it aims at the interlocutor's genuine beliefs, not just their stated positions, and its purpose is epistemic rather than competitive.
+> The Socratic [[Socratic-Method-Elenchus|Elenchus]] (from the Greek *elenchein*, to test or refute) is the formal structure of Socratic questioning: the interlocutor asserts a belief; Socrates elicits the implications of that belief through systematic questioning; the implications are shown to contradict either the original belief, other beliefs the interlocutor holds, or established facts; the interlocutor is thereby reduced to [[aporia]]. Boundary conditions: the elenchus is not merely rhetorical refutation — it aims at the interlocutor's genuine beliefs, not just their stated positions, and its purpose is epistemic rather than competitive.
 
 #### 3. [DEFINITION] Aporia (Socratic Philosophy, Plato/Socrates) *(Line 165)*
 
 > [!definition] Aporia (Socratic Philosophy, Plato/Socrates)
-> [[Aporia]] (Greek: *a-poros*, without passage; impasse) is the state of productive intellectual confusion that results from the elenchus — the recognition that a belief one held with confidence is, upon examination, inconsistent, underdetermined, or false. In Socratic philosophy, aporia is not the *failure* of inquiry but its necessary beginning: a thinker who has not experienced aporia about a question has not yet begun to think about it seriously. Boundary conditions: aporia is productive only when the inquirer remains engaged rather than retreating into defensiveness or skepticism.
+> [[aporia]] (Greek: *a-poros*, without passage; impasse) is the state of productive intellectual confusion that results from the elenchus — the recognition that a belief one held with confidence is, upon examination, inconsistent, underdetermined, or false. In Socratic philosophy, aporia is not the *failure* of inquiry but its necessary beginning: a thinker who has not experienced aporia about a question has not yet begun to think about it seriously. Boundary conditions: aporia is productive only when the inquirer remains engaged rather than retreating into defensiveness or skepticism.
 
 #### 4. [CROSS-DOMAIN-CONNECTION] Socratic Aporia ≅ Piagetian Disequilibrium: The Same Phenomenon Described Twice *(Line 172)*
 
@@ -286,7 +286,7 @@ extraction_summary:
 #### 25. [ANALYTICAL-INSIGHT] The Return-and-Deepen Pattern: Examining Phase II Concepts with New Depth *(Line 323)*
 
 > [!analytical-insight] The Return-and-Deepen Pattern: Examining Phase II Concepts with New Depth
-> In Phase II, we introduced the concept of [[Aporia]] as productive intellectual crisis — the Socratic recognition that a belief held with confidence is, upon examination, inconsistent or underdetermined. With the Chinn & Brewer model, the cognitive conflict research, and the DNT architecture now in view, a deeper implication becomes visible: the reason Socratic aporia is productive is precisely that it triggers something like the DNT process — the discrediting of the thesis (via the elenchus) creates the epistemic pressure that motivates the search for synthesis. The Socratic dialogue is, in effect, a guided DNT process conducted between two people. The PKB adapts this for solitary practice: the user plays both the role of Socrates (generating the antithesis, steel-manning the counter-position) and the role of the interlocutor (experiencing the aporia and doing the work of synthesis). The DNT architecture is, in this sense, a formalization of internalized Socratic dialogue — the practice of being one's own most rigorous intellectual interlocutor.
+> In Phase II, we introduced the concept of [[aporia]] as productive intellectual crisis — the Socratic recognition that a belief held with confidence is, upon examination, inconsistent or underdetermined. With the Chinn & Brewer model, the cognitive conflict research, and the DNT architecture now in view, a deeper implication becomes visible: the reason Socratic aporia is productive is precisely that it triggers something like the DNT process — the discrediting of the thesis (via the elenchus) creates the epistemic pressure that motivates the search for synthesis. The Socratic dialogue is, in effect, a guided DNT process conducted between two people. The PKB adapts this for solitary practice: the user plays both the role of Socrates (generating the antithesis, steel-manning the counter-position) and the role of the interlocutor (experiencing the aporia and doing the work of synthesis). The DNT architecture is, in this sense, a formalization of internalized Socratic dialogue — the practice of being one's own most rigorous intellectual interlocutor.
 
 #### 26. [TENSION-IDENTIFIED] The Depth vs. Coverage Trade-off in Dialectical PKB Practice *(Line 335)*
 
@@ -332,17 +332,17 @@ extraction_summary:
 > [!connections-and-links] PKB Connections for Report 21: Dialectical Knowledge Building
 > **Internal PKB Connections:**
 > 
-> - **[[Schema-Theory|Schema Theory]]** — The DNT architecture is, at its deepest level, a formalized mechanism for schema reorganization. Every dialectical encounter that produces genuine synthesis is a case of accommodation — the creation of a more adequate schema from the wreckage of an inadequate one. Understanding schema theory's account of how schemas develop, combine, and reorganize (Report 01) is prerequisite to understanding why the DNT architecture works cognitively.
+> - **[[schema-theory|Schema Theory]]** — The DNT architecture is, at its deepest level, a formalized mechanism for schema reorganization. Every dialectical encounter that produces genuine synthesis is a case of accommodation — the creation of a more adequate schema from the wreckage of an inadequate one. Understanding schema theory's account of how schemas develop, combine, and reorganize (Report 01) is prerequisite to understanding why the DNT architecture works cognitively.
 > 
-> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The dialectical practice requires significant working memory investment: holding the thesis, the antithesis, and the emerging synthesis simultaneously while tracking their logical relationships. CLT's research on working memory constraints (Report 02) implies that the synthesis stage is where cognitive load peaks and where external scaffolding (the explicit note structure) is most valuable — the DNT architecture is, among other things, a cognitive load management strategy for complex belief revision work.
+> - **[[cognitive-load-theory|Cognitive Load Theory]]** — The dialectical practice requires significant working memory investment: holding the thesis, the antithesis, and the emerging synthesis simultaneously while tracking their logical relationships. CLT's research on working memory constraints (Report 02) implies that the synthesis stage is where cognitive load peaks and where external scaffolding (the explicit note structure) is most valuable — the DNT architecture is, among other things, a cognitive load management strategy for complex belief revision work.
 > 
-> - **[[Desirable-Difficulties|Desirable Difficulties]]** — The DNT's antithesis stage is a deliberately designed desirable difficulty. The steel-manned counter-argument creates exactly the kind of productive cognitive challenge that Report 16's analysis of desirable difficulties identifies as a driver of deeper encoding and more durable retention. The mechanism is the same: effort is required for resolution, and that effort drives deeper processing.
+> - **[[desirable-difficulties|Desirable Difficulties]]** — The DNT's antithesis stage is a deliberately designed desirable difficulty. The steel-manned counter-argument creates exactly the kind of productive cognitive challenge that Report 16's analysis of desirable difficulties identifies as a driver of deeper encoding and more durable retention. The mechanism is the same: effort is required for resolution, and that effort drives deeper processing.
 > 
 > - **[[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]]** — Report 18's architecture for tracking epistemic confidence is the natural companion to the DNT's dialectical confidence tracking (Principle 6). Together they constitute a complete system: the calibration protocols of Report 18 identify *where* confidence is miscalibrated; the DNT architecture provides the mechanism for *doing something about it* — using miscalibration as a trigger for dialectical examination.
 > 
 > - **[[Inquiry-Based Knowledge Building]]** — Report 14's inquiry-first architecture and the DNT architecture are complementary systems in the PKB. Inquiry generates thesis notes through question-driven investigation; the DNT subjects those thesis notes to dialectical examination; the synthesis notes generate new inquiry questions. The two systems, integrated, create a self-reinforcing knowledge-building cycle that is more powerful than either alone.
 > 
-> - **[[Transfer-of-Learning|Transfer of Learning]]** — Report 11's analysis of the transfer problem is illuminated by the dialectical framework: knowledge that has survived dialectical examination has more clearly articulated boundary conditions, warrants, and scope limits — all of which are precisely the features that facilitate transfer (knowing *when* and *where* to apply a principle requires knowing where it doesn't apply, which dialectical practice explicitly surfaces).
+> - **[[transfer-of-learning|Transfer of Learning]]** — Report 11's analysis of the transfer problem is illuminated by the dialectical framework: knowledge that has survived dialectical examination has more clearly articulated boundary conditions, warrants, and scope limits — all of which are precisely the features that facilitate transfer (knowing *when* and *where* to apply a principle requires knowing where it doesn't apply, which dialectical practice explicitly surfaces).
 > 
 > - **[[Confirmation-Bias-Myside-Bias|Myside Bias]]** — The research on myside bias reviewed in Report 07 provides the strongest empirical argument for why dialectical PKB practice cannot be left to motivation and intention alone. The DNT architecture is, in part, a structural response to the motivational pressures that make myside bias the default: by making the rebuttal field required and the antithesis note structurally mandatory for high-stakes claims, it reduces the degree to which bias-avoidance requires ongoing willpower.
 > 
@@ -372,7 +372,7 @@ extraction_summary:
 #### 37. [DEFINITION] Equilibration (Educational Psychology, Jean Piaget) *(Line 481)*
 
 > [!definition] Equilibration (Educational Psychology, Jean Piaget)
-> [[Equilibration]] is Piaget's account of how cognitive development proceeds through a dynamic balance-seeking between existing schemas and new experience. When new experience can be assimilated into existing schemas without distortion, equilibrium is maintained. When new experience creates disequilibrium (conflict with existing schemas), the cognitive system is motivated toward a new, more adequate equilibrium through accommodation — schema reorganization. Equilibration is not a static balance but a constantly advancing asymptotic process: each new equilibrium is more adequate than the last, because it integrates more of reality without distortion.
+> [[equilibration]] is Piaget's account of how cognitive development proceeds through a dynamic balance-seeking between existing schemas and new experience. When new experience can be assimilated into existing schemas without distortion, equilibrium is maintained. When new experience creates disequilibrium (conflict with existing schemas), the cognitive system is motivated toward a new, more adequate equilibrium through accommodation — schema reorganization. Equilibration is not a static balance but a constantly advancing asymptotic process: each new equilibrium is more adequate than the last, because it integrates more of reality without distortion.
 
 #### 38. [DEFINITION] Belief Revision (Cognitive Psychology / Philosophy, P. Gärdenfors, G. Harman) *(Line 484)*
 
@@ -397,7 +397,7 @@ extraction_summary:
 #### 42. [DEFINITION] Productive Failure (Educational Psychology, Manu Kapur) *(Line 496)*
 
 > [!definition] Productive Failure (Educational Psychology, Manu Kapur)
-> [[Productive-Failure|Productive Failure]] is Kapur's finding that students who are asked to generate solutions to novel problems *before* receiving instruction on the relevant methods outperform (on transfer and deep understanding) students who receive instruction first. The mechanism is analogous to cognitive conflict: pre-instruction problem-solving generates cognitive structures (even incorrect ones) that create the necessary schema disequilibrium to make subsequent instruction genuinely transformative rather than merely additive. In dialectical PKB practice, the construction of the thesis note before the antithesis note serves a similar function: it commits the cognitive system to a position that can then be genuinely challenged.
+> [[productive-failure|Productive Failure]] is Kapur's finding that students who are asked to generate solutions to novel problems *before* receiving instruction on the relevant methods outperform (on transfer and deep understanding) students who receive instruction first. The mechanism is analogous to cognitive conflict: pre-instruction problem-solving generates cognitive structures (even incorrect ones) that create the necessary schema disequilibrium to make subsequent instruction genuinely transformative rather than merely additive. In dialectical PKB practice, the construction of the thesis note before the antithesis note serves a similar function: it commits the cognitive system to a position that can then be genuinely challenged.
 
 #### 43. [DEFINITION] Pragma-Dialectics (Argumentation Theory, Frans van Eemeren & Rob Grootendorst) *(Line 499)*
 
@@ -518,8 +518,8 @@ extraction_summary:
 - [[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]
 - [[Anomalous-Data|Anomalous Data]]
 - [[Antithesis]]
-- [[Aporia]]
-- [[Argumentation-Theory|Argumentation Theory]]
+- [[aporia]]
+- [[argumentation-theory|Argumentation Theory]]
 - [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]
 - [[Aufhebung]]
 - [[Aufhebung-in-PKB]]
@@ -528,28 +528,28 @@ extraction_summary:
 - [[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]]
 - [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]
 - [[Critical Thinking as PKM Practice]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dialectic]]
 - [[Dialectical Note Triad]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
 - [[Dialectical-Thinking-as-Cognitive-Development-Basseches,-Labouvie-Vief,-and-the|Dialectical Thinking as Cognitive Development: Basseches, Labouvie-Vief, and the PKB as Development Environment]]
 - [[Socratic-Method-Elenchus|Elenchus]]
-- [[Equilibration]]
+- [[equilibration]]
 - [[Hegelian-Dialectic|Hegelian Dialectic]]
 - [[Inquiry-Based Knowledge Building]]
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
 - [[Piagetian Disequilibrium]]
 - [[Pragma-Dialectics]]
-- [[Productive-Failure|Productive Failure]]
+- [[productive-failure|Productive Failure]]
 - [[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]]
 - [[Report 25: The Integration Problem]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Socio-Cognitive-Conflict|Socio-Cognitive Conflict]]
 - [[Socratic-Dialectic|Socratic Dialectic]]
 - [[Steel-Manning]]
@@ -564,17 +564,17 @@ extraction_summary:
 - [[Topic — Thesis]]
 - [[Toulmin-Model|Toulmin Model]]
 - [[Toulmin-Warrant|Toulmin Warrant]]
-- [[Transfer-of-Learning|Transfer of Learning]]
+- [[transfer-of-learning|Transfer of Learning]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Socratic-Dialectic|Socratic Dialectic]] | — | — | The Synthesis Focus | 144 |
-| 2 | [[Argumentation-Theory|Argumentation Theory]] | — | — | The Synthesis Focus | 144 |
+| 2 | [[argumentation-theory|Argumentation Theory]] | — | — | The Synthesis Focus | 144 |
 | 3 | [[Thesis-Antithesis-Synthesis]] | — | — | The Synthesis Focus | 144 |
 | 4 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | The Synthesis Focus | 144 |
-| 5 | [[Aporia]] | — | — | The Synthesis Focus | 146 |
+| 5 | [[aporia]] | — | — | The Synthesis Focus | 146 |
 | 6 | [[Aufhebung]] | — | — | The Synthesis Focus | 146 |
 | 7 | [[Toulmin-Model|Toulmin Model]] | Toulmin's framework | — | The Synthesis Focus | 146 |
 | 8 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | The Synthesis Focus | 146 |
@@ -583,8 +583,8 @@ extraction_summary:
 | 11 | [[The Integration Problem]] | — | — | Scope and Position in Series | 150 |
 | 12 | [[The Philosophy of Personal Knowledge]] | — | — | Scope and Position in Series | 150 |
 | 13 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | The Socratic Heritage: Aporia as Epis... | 163 |
-| 14 | [[Aporia]] | — | — | The Socratic Heritage: Aporia as Epis... | 163 |
-| 15 | [[Aporia]] | — | — | The Socratic Heritage: Aporia as Epis... | 166 |
+| 14 | [[aporia]] | — | — | The Socratic Heritage: Aporia as Epis... | 163 |
+| 15 | [[aporia]] | — | — | The Socratic Heritage: Aporia as Epis... | 166 |
 | 16 | [[Hegelian-Dialectic|Hegelian Dialectic]] | — | — | Hegelian Dialectic: Structure of Inte... | 181 |
 | 17 | [[Thesis]] | — | — | Hegelian Dialectic: Structure of Inte... | 181 |
 | 18 | [[Antithesis]] | negation of that position | — | Hegelian Dialectic: Structure of Inte... | 181 |
@@ -608,30 +608,30 @@ extraction_summary:
 | 36 | [[Anomalous-Data|Anomalous Data]] | anomalous data | — | The Dialectical Note Triad Architecture | 305 |
 | 37 | [[Aufhebung-in-PKB]] | Aufhebung | — | The Dialectical Note Triad Architecture | 307 |
 | 38 | [[Belief-Revision|Belief Revision]] | — | — | Dynamic Interactions: The Dialectical... | 321 |
-| 39 | [[Aporia]] | — | — | Dynamic Interactions: The Dialectical... | 325 |
+| 39 | [[aporia]] | — | — | Dynamic Interactions: The Dialectical... | 325 |
 | 40 | [[Dialectical Note Triad]] | — | — | Design Principles Derived from the Cr... | 364 |
 | 41 | [[Topic — Thesis]] | — | — | Practical Implementation in Obsidian | 388 |
 | 42 | [[Topic — Antithesis]] | — | — | Practical Implementation in Obsidian | 388 |
 | 43 | [[Topic — Thesis]] | — | — | Practical Implementation in Obsidian | 388 |
 | 44 | [[Topic — Antithesis]] | — | — | Practical Implementation in Obsidian | 388 |
-| 45 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
-| 46 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
-| 47 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
+| 45 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
+| 46 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
+| 47 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
 | 48 | [[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 450 |
 | 49 | [[Inquiry-Based Knowledge Building]] | — | — | Phase VII: PKB Connections & Cross-Re... | 452 |
-| 50 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 454 |
+| 50 | [[transfer-of-learning|Transfer of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 454 |
 | 51 | [[Confirmation-Bias-Myside-Bias|Myside Bias]] | — | — | Phase VII: PKB Connections & Cross-Re... | 456 |
 | 52 | [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 460 |
 | 53 | [[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 462 |
 | 54 | [[Dialectic]] | — | — | A. Lexicon of Key Terms | 473 |
 | 55 | [[Steel-Manning]] | — | — | A. Lexicon of Key Terms | 476 |
 | 56 | [[Toulmin-Warrant|Toulmin Warrant]] | warrant | — | A. Lexicon of Key Terms | 479 |
-| 57 | [[Equilibration]] | — | — | A. Lexicon of Key Terms | 482 |
+| 57 | [[equilibration]] | — | — | A. Lexicon of Key Terms | 482 |
 | 58 | [[Belief-Revision|Belief Revision]] | — | — | A. Lexicon of Key Terms | 485 |
 | 59 | [[Socio-Cognitive-Conflict|Socio-Cognitive Conflict]] | — | — | A. Lexicon of Key Terms | 488 |
 | 60 | [[Anomalous-Data|Anomalous Data]] | — | — | A. Lexicon of Key Terms | 491 |
 | 61 | [[Dialectical-Thinking|Dialectical Thinking]] | — | — | A. Lexicon of Key Terms | 494 |
-| 62 | [[Productive-Failure|Productive Failure]] | — | — | A. Lexicon of Key Terms | 497 |
+| 62 | [[productive-failure|Productive Failure]] | — | — | A. Lexicon of Key Terms | 497 |
 | 63 | [[Pragma-Dialectics]] | — | — | A. Lexicon of Key Terms | 500 |
 | 64 | [[Aufhebung-in-PKB]] | — | — | A. Lexicon of Key Terms | 503 |
 | 65 | [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] | — | — | D. Expansion Topics | 551 |
@@ -656,8 +656,8 @@ extraction_summary:
 - [[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]
 - [[Anomalous-Data|Anomalous Data]]
 - [[Antithesis]]
-- [[Aporia]]
-- [[Argumentation-Theory|Argumentation Theory]]
+- [[aporia]]
+- [[argumentation-theory|Argumentation Theory]]
 - [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]
 - [[Aufhebung]]
 - [[Aufhebung-in-PKB]]
@@ -666,28 +666,28 @@ extraction_summary:
 - [[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]]
 - [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]
 - [[Critical Thinking as PKM Practice]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dialectic]]
 - [[Dialectical Note Triad]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
 - [[Dialectical-Thinking-as-Cognitive-Development-Basseches,-Labouvie-Vief,-and-the|Dialectical Thinking as Cognitive Development: Basseches, Labouvie-Vief, and the PKB as Development Environment]]
 - [[Socratic-Method-Elenchus|Elenchus]]
-- [[Equilibration]]
+- [[equilibration]]
 - [[Hegelian-Dialectic|Hegelian Dialectic]]
 - [[Inquiry-Based Knowledge Building]]
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
 - [[Piagetian Disequilibrium]]
 - [[Pragma-Dialectics]]
-- [[Productive-Failure|Productive Failure]]
+- [[productive-failure|Productive Failure]]
 - [[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]]
 - [[Report 25: The Integration Problem]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Socio-Cognitive-Conflict|Socio-Cognitive Conflict]]
 - [[Socratic-Dialectic|Socratic Dialectic]]
 - [[Steel-Manning]]
@@ -702,7 +702,7 @@ extraction_summary:
 - [[Topic — Thesis]]
 - [[Toulmin-Model|Toulmin Model]]
 - [[Toulmin-Warrant|Toulmin Warrant]]
-- [[Transfer-of-Learning|Transfer of Learning]]
+- [[transfer-of-learning|Transfer of Learning]]
 
 ### Frontmatter Relationships
 

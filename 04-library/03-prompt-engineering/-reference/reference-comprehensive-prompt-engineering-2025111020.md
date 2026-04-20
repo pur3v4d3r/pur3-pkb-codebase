@@ -26,7 +26,7 @@ Aliases: [[PE]], [[LLM Prompting]], [[AI Communication]], [[Prompt Design]], [[P
 
 > [!abstract]
 > **Executive Overview**
-> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[Personal-Knowledge-Base]] (PKB) systems like [[Obsidian]].
+> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[personal-knowledge-base]] (PKB) systems like [[obsidian]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -341,7 +341,7 @@ Design considerations for multi-step workflows include: **Error propagation**: H
 ## 5️⃣ 📚 PKB Integration & Knowledge Management
 
 > [!definition]
-> - **Key-Term**:: [[Personal-Knowledge-Base]] (PKB)
+> - **Key-Term**:: [[personal-knowledge-base]] (PKB)
 > - **Definition**:: A personalized system that captures, stores, and organizes data systematically according to individual needs, goals, and interests, designed as a personal assistant that keeps track of relevant data and knows exactly where each bit of information is stored.
 
 ### Prompt Engineering for Knowledge Work
@@ -354,9 +354,9 @@ The key insight is that prompts can leverage PKB structure and metadata to gener
 
 ### Prompting Strategies for Obsidian
 
-[[Obsidian]] represents one of the most powerful and flexible PKB platforms, with its markdown-based, locally-stored, heavily interconnected note architecture. Obsidian emphasizes creating a network of interconnected notes that foster a web of knowledge that can be easily navigated and expanded, transforming notes into a dynamic and evolving knowledge graph. Several prompting strategies prove particularly effective within Obsidian environments:
+[[obsidian]] represents one of the most powerful and flexible PKB platforms, with its markdown-based, locally-stored, heavily interconnected note architecture. Obsidian emphasizes creating a network of interconnected notes that foster a web of knowledge that can be easily navigated and expanded, transforming notes into a dynamic and evolving knowledge graph. Several prompting strategies prove particularly effective within Obsidian environments:
 
-**Context-Aware Note Generation**: When creating new notes via LLM prompting, include context about: (1) existing related notes in your vault, (2) your vault's organizational structure and conventions, (3) your preferred note-taking methodology ([[Zettelkasten]], [[PARA]], [[LYT]], etc.), (4) metadata schemas you use. This contextual information helps LLMs generate notes that integrate seamlessly into existing knowledge structures rather than standing alone as isolated fragments.
+**Context-Aware Note Generation**: When creating new notes via LLM prompting, include context about: (1) existing related notes in your vault, (2) your vault's organizational structure and conventions, (3) your preferred note-taking methodology ([[zettelkasten]], [[PARA]], [[LYT]], etc.), (4) metadata schemas you use. This contextual information helps LLMs generate notes that integrate seamlessly into existing knowledge structures rather than standing alone as isolated fragments.
 
 **Link Suggestion & Knowledge Graph Enhancement**: Prompt LLMs to suggest [[wiki-links]] between notes based on content analysis. Provide the content of a note plus descriptions of other notes in your vault, then ask the model to identify meaningful connections. This semi-automated link suggestion helps build richer knowledge graphs by surfacing non-obvious connections that you might miss manually.
 

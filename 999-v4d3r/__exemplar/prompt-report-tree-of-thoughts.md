@@ -38,12 +38,12 @@ related_concepts:
   - "[[Monte Carlo Tree Search]]"
   - "[[Counterfactual-Reasoning]]"
   - "[[Prospective Memory]]"
-  - "[[Working-Memory]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Search Algorithms]]"
 prerequisites:
   - "[[Chain of Thought Reasoning]]"
-  - "[[Prompt-Engineering-Fundamentals]]"
+  - "[[prompt-engineering-fundamentals]]"
   - "[[LLM Architecture Basics]]"
 builds_on:
   - "[[Reasoning Architectures Theory]]"
@@ -74,7 +74,7 @@ The innovation emerged from research by [[Yao et al. (2023)]] at Princeton and G
 >
 > This paradigm shift enables LLMs to exhibit **deliberate problem-solving** characteristics: lookahead, strategic exploration, course correction, and systematic evaluation of alternatives - capabilities absent from reactive, single-path reasoning approaches.
 
-The framework finds its theoretical foundation in [[Cognitive-Science]], specifically research on **counterfactual reasoning** and **prospective memory** - the human capacity to simulate future states ("If I take this action, what outcomes result?") and maintain multiple possibilities in [[Working-Memory]] for comparison. Where humans naturally engage in this deliberate thought process for complex problems, standard LLM architectures lack explicit support for multi-hypothesis reasoning. ToT provides this missing capability through architectural design.
+The framework finds its theoretical foundation in [[cognitive-science]], specifically research on **counterfactual reasoning** and **prospective memory** - the human capacity to simulate future states ("If I take this action, what outcomes result?") and maintain multiple possibilities in [[working-memory]] for comparison. Where humans naturally engage in this deliberate thought process for complex problems, standard LLM architectures lack explicit support for multi-hypothesis reasoning. ToT provides this missing capability through architectural design.
 
 <!-- ═══════════════════════════════════════════════════════════════════
      SECTION 1: THEORETICAL FOUNDATIONS
@@ -88,16 +88,16 @@ The framework finds its theoretical foundation in [[Cognitive-Science]], specifi
 
 [**Counterfactual-Reasoning**:: The cognitive capacity to simulate alternative realities or outcomes that differ from actual events - enabling humans to evaluate hypothetical scenarios ("What would have happened if...?"), learn from mistakes through mental replay of alternatives, and plan future actions by simulating their consequences before execution.]**
 
-Human cognition fundamentally depends on the ability to mentally simulate states we haven't experienced. When facing a complex problem, we don't merely react to the present state; we project forward, imagining consequences of different actions, comparing hypothetical outcomes, and selecting paths based on these simulations. Research by [[Kahneman-and-Tversky]] demonstrated that counterfactual thinking plays a central role in decision-making, learning, and regret - we improve performance not just through actual experience but through mental exploration of alternatives we *could have* taken.
+Human cognition fundamentally depends on the ability to mentally simulate states we haven't experienced. When facing a complex problem, we don't merely react to the present state; we project forward, imagining consequences of different actions, comparing hypothetical outcomes, and selecting paths based on these simulations. Research by [[kahneman-and-tversky]] demonstrated that counterfactual thinking plays a central role in decision-making, learning, and regret - we improve performance not just through actual experience but through mental exploration of alternatives we *could have* taken.
 
 This capacity manifests in everyday problem-solving: a chess player considers multiple candidate moves and their likely consequences before selecting one; a writer drafts multiple opening paragraphs mentally before committing words to paper; an engineer evaluates several design approaches through thought experiments before detailed implementation. The common pattern: **generate alternatives → simulate outcomes → evaluate relative promise → select based on evaluation**.
 
 Tree of Thoughts operationalizes this cognitive process for LLMs. Where standard prompting generates a single reasoning path reactively (each token following from previous tokens without lookahead), ToT explicitly generates multiple candidate next steps (alternative "thoughts"), evaluates each candidate's promise toward the goal through a separate evaluation process, and continues exploration along the most promising paths. This mirrors human deliberate thought more faithfully than reactive generation.
 
 > [!evidence] Empirical Support for Deliberate Thought Processes
-> **[Dual-Process-Theory-Connection**:: Research by [[Daniel-Kahneman]] (Thinking, Fast and Slow) distinguishes System 1 (fast, automatic, reactive) from System 2 (slow, deliberate, controlled) cognition. Standard LLM generation resembles System 1 - fast token prediction without explicit planning. ToT implements System 2 characteristics: deliberate exploration, explicit evaluation, strategic planning.]**
+> **[Dual-Process-Theory-Connection**:: Research by [[daniel-kahneman]] (Thinking, Fast and Slow) distinguishes System 1 (fast, automatic, reactive) from System 2 (slow, deliberate, controlled) cognition. Standard LLM generation resembles System 1 - fast token prediction without explicit planning. ToT implements System 2 characteristics: deliberate exploration, explicit evaluation, strategic planning.]**
 >
-> Neuroimaging studies by [[Buckner and Carroll (2007)]] demonstrate that prospective planning and mental simulation activate the brain's [[Default Mode Network]], particularly the medial prefrontal cortex and posterior cingulate cortex - regions supporting scenario construction and outcome evaluation. ToT's architecture parallels this neural separation: thought generation (scenario construction) and thought evaluation (outcome assessment) as distinct processes.
+> Neuroimaging studies by [[Buckner and Carroll (2007)]] demonstrate that prospective planning and mental simulation activate the brain's [[Default-Mode-Network]], particularly the medial prefrontal cortex and posterior cingulate cortex - regions supporting scenario construction and outcome evaluation. ToT's architecture parallels this neural separation: thought generation (scenario construction) and thought evaluation (outcome assessment) as distinct processes.
 
 The theoretical grounding extends to research on **problem space search** in cognitive science. [[Newell and Simon's Problem Space Theory]] posits that problem-solving involves searching through a space of possible states, guided by operators (actions transforming states) and evaluation functions (assessing proximity to goals). Effective problem-solving requires:
 
@@ -1755,7 +1755,7 @@ def tot_self_consistency_hybrid(problem, k_candidates=3, sc_samples=5):
 
 **Depth Potential**: Deep 3000-4000 word treatment covering: (1) Classic cognitive architectures (SOAR, ACT-R, Sigma), (2) Working memory models and capacity constraints, (3) Problem space theory, (4) Goal hierarchies and subgoaling, (5) Chunking and schema formation, (6) Mapping ToT components to cognitive functions, (7) Implications for AGI design, (8) Cognitive limitations still unaddressed by current LLM architectures.
 
-**Knowledge Graph Role**: Provides theoretical cognitive science foundation for ToT, connecting to [[Cognitive-Science]], [[Working-Memory]], [[Problem Solving]], [[Schema-Theory]], [[Dual-Process-Theory]], and [[Human-AI Cognition Alignment]].
+**Knowledge Graph Role**: Provides theoretical cognitive science foundation for ToT, connecting to [[cognitive-science]], [[working-memory]], [[Problem-Solving]], [[schema-theory]], [[dual-process-theory]], and [[Human-AI Cognition Alignment]].
 
 **Priority**: **Medium** - Valuable theoretical grounding but less immediately practical than implementation-focused topics. Important for researchers seeking deeper understanding of *why* ToT works.
 
@@ -1779,7 +1779,7 @@ def tot_self_consistency_hybrid(problem, k_candidates=3, sc_samples=5):
 
 **Depth Potential**: Deep 2500-3000 word exploration including: (1) Prompt engineering for evaluation, (2) Classification vs. scoring approaches, (3) Multi-criteria evaluation (feasibility, goal distance, constraint satisfaction), (4) Training learned evaluators, (5) Calibration and confidence estimation, (6) Evaluation caching strategies, (7) Domain-specific evaluation patterns (puzzles, code, creative), (8) Evaluation failure modes and mitigations, (9) Benchmarking evaluator quality.
 
-**Knowledge Graph Role**: Focuses on ToT's most critical component, connecting to [[Prompt-Engineering]], [[Heuristic Functions]], [[Neural Architecture Search]], [[Calibration]], [[Quality Assessment]], and [[Domain-Specific Optimization]].
+**Knowledge Graph Role**: Focuses on ToT's most critical component, connecting to [[Prompt-Engineering]], [[Heuristic Functions]], [[Neural Architecture Search]], [[calibration]], [[Quality Assessment]], and [[Domain-Specific Optimization]].
 
 **Priority**: **High** - Evaluator design is ToT's bottleneck and least understood component. Comprehensive treatment would significantly improve practical ToT implementations.
 

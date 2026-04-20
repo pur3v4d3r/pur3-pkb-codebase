@@ -41,7 +41,7 @@ aliases: [Meta Bind Plugin, Input Fields Plugin, Dynamic Forms in Obsidian, Inte
 # 📝 Meta Bind Plugin — Interactive Metadata Management for Obsidian
 
 > [!the-purpose]
-> **Meta Bind transforms your static [[Obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML-Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard-Design]], [[Task-Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base]].
+> **Meta Bind transforms your static [[obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[yaml-frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard-Design]], [[Task-Management]], [[habit tracking]], and [[Project Management]] workflows within your [[personal-knowledge-base]].
 
 ---
 
@@ -50,13 +50,13 @@ aliases: [Meta Bind Plugin, Input Fields Plugin, Dynamic Forms in Obsidian, Inte
 > [!core-principle]
 > **The Meta Bind Philosophy: "Edit Metadata from Anywhere"**
 > 
-> Traditional [[Obsidian]] workflows require you to edit frontmatter properties at the top of notes or through the properties panel. Meta Bind breaks this limitation by allowing you to create interactive input fields anywhere within your note body that remain synchronized with frontmatter properties in real-time. This enables you to build custom interfaces, interactive dashboards, and dynamic forms that feel more like applications than static documents.
+> Traditional [[obsidian]] workflows require you to edit frontmatter properties at the top of notes or through the properties panel. Meta Bind breaks this limitation by allowing you to create interactive input fields anywhere within your note body that remain synchronized with frontmatter properties in real-time. This enables you to build custom interfaces, interactive dashboards, and dynamic forms that feel more like applications than static documents.
 
 Meta Bind is fundamentally about making your notes interactive—it enables you to create input fields for editing metadata, view fields for displaying metadata, and buttons for triggering actions, all bound to frontmatter properties that stay synchronized. The plugin operates on a **reactive programming model** where changes propagate instantly across all bound elements, creating a seamless user experience similar to modern web applications.
 
 ### Why This Matters for PKM
 
-In a sophisticated [[Personal-Knowledge-Base]], metadata isn't just descriptive—it's functional. You use it to:
+In a sophisticated [[personal-knowledge-base]], metadata isn't just descriptive—it's functional. You use it to:
 - Track project status, completion percentages, and priorities
 - Manage reading lists, research progress, and review schedules
 - Build interconnected dashboards using [[Dataview]] queries
@@ -333,7 +333,7 @@ action-items: []
 ## 🔌 Plugin Integration Ecosystem
 
 > [!connection-ideas]
-> **Meta Bind's true power emerges through integrations** with other [[Obsidian]] plugins, creating compound workflows that leverage each tool's strengths.
+> **Meta Bind's true power emerges through integrations** with other [[obsidian]] plugins, creating compound workflows that leverage each tool's strengths.
 
 ### Integration with Dataview
 
@@ -738,7 +738,7 @@ Outline:
 9. Expansion topics (related plugins, advanced automation, etc.)
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[YAML-Frontmatter]], [[Dataview]], [[Templater]], [[Tasks-Plugin]], [[QuickAdd]], [[Metadata]], [[PKM Automation]], [[Dynamic Content]], [[Input Fields]], [[View Fields]], [[Button Actions]], [[Dashboard-Design]], [[Project Management]], [[Habit Tracking]], [[Progressive-Summarization]], [[MOC]], [[Template-System]], [[Reactive Programming]], [[Data Binding]]
+[[obsidian]], [[yaml-frontmatter]], [[Dataview]], [[Templater]], [[Tasks-Plugin]], [[QuickAdd]], [[Metadata]], [[PKM Automation]], [[Dynamic Content]], [[Input Fields]], [[View Fields]], [[Button Actions]], [[Dashboard-Design]], [[Project Management]], [[Habit Tracking]], [[Progressive-Summarization]], [[MOC]], [[Template-System]], [[Reactive Programming]], [[Data Binding]]
 
 **CALLOUT STRATEGY:**
 - [!definition] for core concepts

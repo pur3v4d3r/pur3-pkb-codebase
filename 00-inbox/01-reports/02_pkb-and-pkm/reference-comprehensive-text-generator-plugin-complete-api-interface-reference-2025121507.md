@@ -354,7 +354,7 @@ platform: "Obsidian 1.4.0+"
 %%QA:obsidian:text-generator-mastery%%
 
 > [!abstract] Executive Summary
-> **Text Generator Plugin** transforms [[Obsidian]] into a fully-featured [[API]] user interface for [[Large-Language-Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template-Engineering]], [[Smart-Connections]] integration, and replicating [[Claude-Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
+> **Text Generator Plugin** transforms [[obsidian]] into a fully-featured [[API]] user interface for [[Large-Language-Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template-Engineering]], [[Smart-Connections]] integration, and replicating [[Claude-Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
 
 > [!how-to-use-this] Navigation Guide
 > This reference note is organized into 11 major sections covering all aspects of Text Generator Plugin mastery. Use the table of contents below for quick navigation. Sections progress from foundational concepts through advanced techniques, with extensive code examples and real-world workflows throughout.
@@ -382,9 +382,9 @@ platform: "Obsidian 1.4.0+"
 ### What is Text Generator Plugin?
 
 > [!definition] Text Generator Plugin
-> [**Text-Generator-Plugin**:: An open-source [[Obsidian]] community plugin that provides a native interface to [[Large-Language-Models]] (LLMs) including [[OpenAI]], [[Anthropic-Claude]], [[Google-Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template-System|template system]].]
+> [**Text-Generator-Plugin**:: An open-source [[obsidian]] community plugin that provides a native interface to [[Large-Language-Models]] (LLMs) including [[OpenAI]], [[Anthropic-Claude]], [[Google-Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template-System|template system]].]
 
-Text Generator Plugin (TGP) represents a paradigm shift in how knowledge workers interact with AI. Rather than context-switching between your [[PKB]] and external AI interfaces like [[ChatGPT]] or [[Claude.ai]], TGP brings the AI directly into your workspace. This architectural decision has profound implications for [[Cognitive-Load]] management—you never lose context, your prompts can reference your existing notes, and outputs flow directly into your knowledge system.
+Text Generator Plugin (TGP) represents a paradigm shift in how knowledge workers interact with AI. Rather than context-switching between your [[PKB]] and external AI interfaces like [[ChatGPT]] or [[Claude.ai]], TGP brings the AI directly into your workspace. This architectural decision has profound implications for [[cognitive-load]] management—you never lose context, your prompts can reference your existing notes, and outputs flow directly into your knowledge system.
 
 ### Why Use Text Generator as Your Primary API Interface?
 
@@ -527,7 +527,7 @@ TGP supports multiple [[LLM]] providers through a unified interface:
 
 ### Template File Specifications
 
-Templates in TGP are [[Markdown]] files with special [[YAML-Frontmatter]] that defines generation behavior:
+Templates in TGP are [[Markdown]] files with special [[yaml-frontmatter]] that defines generation behavior:
 
 ```yaml
 ---
@@ -795,7 +795,7 @@ promptTemplate: |
   What questions remain unanswered?
   
   ## Connections
-  What does this connect to in [[Personal-Knowledge-Management]]?
+  What does this connect to in [[personal-knowledge-management]]?
   
   Format your response using the headers above.
 model: claude-3-5-sonnet-20241022
@@ -810,7 +810,7 @@ system: |
 ```
 
 > [!example] Atomic Note Generator Template
-> **What This Does:** Creates [[Zettelkasten]]-style atomic notes from concepts
+> **What This Does:** Creates [[zettelkasten]]-style atomic notes from concepts
 > 
 > **When To Use:** Building knowledge graph nodes from ideas
 
@@ -1122,7 +1122,7 @@ promptTemplate: |
 ### Understanding Smart Connections
 
 > [!definition] Smart Connections
-> [**Smart-Connections**:: An [[Obsidian]] plugin that provides local-first [[Semantic-Search]] using [[AI-Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
+> [**Smart-Connections**:: An [[obsidian]] plugin that provides local-first [[Semantic-Search]] using [[AI-Embeddings]]. It enables finding conceptually related notes even when they don't share explicit links or keywords. The plugin runs entirely on-device after initial embedding, requiring no API calls for search functionality.]
 
 Smart Connections transforms your vault into a semantically queryable knowledge base. When combined with TGP, you gain the ability to:
 
@@ -1835,7 +1835,7 @@ output: cursor          # cursor, replace, new-note
 
 #### Core Extensions
 
-##### 1. **[[Prompt-Engineering-Fundamentals]]**
+##### 1. **[[prompt-engineering-fundamentals]]**
 **Connection:** The foundation for creating effective TGP templates—understanding how to craft prompts that consistently produce desired outputs
 **Depth Potential:** Covers chain-of-thought prompting, few-shot learning, prompt chaining, and advanced techniques that directly enhance template effectiveness
 **Knowledge Graph Role:** Prerequisite concept for all AI-assisted PKB workflows
@@ -1858,7 +1858,7 @@ output: cursor          # cursor, replace, new-note
 **Depth Potential:** Applies cognitive science to PKB architecture, explaining why vault-centric AI reduces extraneous load
 **Knowledge Graph Role:** Theoretical bridge between cognitive science and PKM practice
 **Priority:** Medium - Deepens understanding of design decisions
-**Prerequisites:** [[Cognitive-Load-Theory]] basics
+**Prerequisites:** [[cognitive-load-theory]] basics
 
 ##### 4. **[[API-Cost-Optimization-Strategies]]**
 **Connection:** Direct relevance to managing TGP usage costs effectively through model selection, prompt engineering, and caching strategies

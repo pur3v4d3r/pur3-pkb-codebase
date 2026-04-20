@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +44,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,39 +68,39 @@ narrower:
   []
 
 see-also:
-  - "[[Nelson-Narens-Model]]"
-  - "[[Metacognition]]"
-  - "[[Meta-Level-Object-Level-Model]]"
-  - "[[Meta-Level-Object-Level-Model]]"
-  - "[[Flavell's-Metacognitive-Model]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Calibration]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Predictive-Processing]]"
-  - "[[Metacognition]]"
-  - "[[Flavell-Metacognition-Framework]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Experience]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
-  - "[[Pintrich's-Integrative-SRL-Framework]]"
-  - "[[Metacognition]]"
-  - "[[Meta-Level-Object-Level-Model]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Regulation]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[Meta-Level-Object-Level-Model|Meta-Level-Object-Level-Model]]"
+  - "[[Meta-Level-Object-Level-Model|Meta-Level-Object-Level-Model]]"
+  - "[[flavells-metacognitive-model|Flavell's-Metacognitive-Model]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[metacognitive-calibration|Metacognitive-Calibration]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[predictive-processing|Predictive-Processing]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[flavell-metacognition-framework|Flavell-Metacognition-Framework]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[metacognitive-experience|Metacognitive-Experience]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[pintrichs-integrative-srl-framework|Pintrich's-Integrative-SRL-Framework]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[Meta-Level-Object-Level-Model|Meta-Level-Object-Level-Model]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Flavell's-Metacognitive-Model]]"
-  - "[[Information-Processing-Theory]]"
+  - "[[flavells-metacognitive-model|Flavell's-Metacognitive-Model]]"
+  - "[[information-processing-theory|Information-Processing-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Metacognitive-FeelingsMetacognitive-Feelings-and-the-Affective-Dimen|> [!topic-idea] **[[Metacognitive-Feelings|Metacognitive Feelings and the Affective Dimension of Mon]]"
+  - topic: "[[> [!topic-idea] **[[metacognitive-feelings|Metacognitive Feelings and the Affective Dimension of Mon]]"
     description: ""
     priority: medium
 
@@ -115,7 +115,7 @@ importance: high
 # The CalibrationRegulation Coupling Thesis as Original Contribution
 
 > [!definition] **The CalibrationRegulation Coupling Thesis as Original Contribution** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
-> The claim that calibration and resolution map differentially onto threshold and allocation control decisions, respectively, is proposed here as a novel theoretical integration of the Nelson–Narrens monitoring taxonomy and the [[Self-Regulated-Learning|self-regulated learning]] control literature. This synthesis is well-motivated by the existing empirical evidence (calibration affects stopping rules; resolution affects item selection) but has not been explicitly formulated as a coupling principle. If validated, it would have direct implications for the design of metacognitive training interventions, suggesting that different types of monitoring training are needed for different types of control problems.
+> The claim that calibration and resolution map differentially onto threshold and allocation control decisions, respectively, is proposed here as a novel theoretical integration of the Nelson–Narrens monitoring taxonomy and the [[self-regulated-learning|self-regulated learning]] control literature. This synthesis is well-motivated by the existing empirical evidence (calibration affects stopping rules; resolution affects item selection) but has not been explicitly formulated as a coupling principle. If validated, it would have direct implications for the design of metacognitive training interventions, suggesting that different types of monitoring training are needed for different types of control problems.
 
 ## Core Explanation
 
@@ -159,7 +159,7 @@ importance: high
 > [[Janet-Metcalfe|Metcalfe's]] region of proximal learning hypothesis proposes that learners optimally allocate study time not to the most difficult items (which would waste effort on material that may be resistant to learning) nor to the easiest items (which would waste effort on material already known), but to items in the intermediate zone — items that are learnable with reasonable effort. This hypothesis refines the Nelson–Narrens control framework by showing that effective control requires…
 
 > [!analytical-insight] Key Insight *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
-> Dunlosky and Nelson (1992) proposed the **monitoring dual memories** (MDM) hypothesis to explain the delayed JOL effect. According to this hypothesis, the accuracy of metacognitive monitoring depends on the extent to which the monitoring process samples from the same memory system that will be tapped at test. Immediate JOLs sample primarily from [[Working-Memory|short-term memory]], which is rich with recently activated information but non-diagnostic of long-term retention. Delayed JOLs sample…
+> Dunlosky and Nelson (1992) proposed the **monitoring dual memories** (MDM) hypothesis to explain the delayed JOL effect. According to this hypothesis, the accuracy of metacognitive monitoring depends on the extent to which the monitoring process samples from the same memory system that will be tapped at test. Immediate JOLs sample primarily from [[working-memory|short-term memory]], which is rich with recently activated information but non-diagnostic of long-term retention. Delayed JOLs sample…
 
 > [!analytical-insight] Key Insight *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > Across the major SRL frameworks — Zimmerman's cyclical model, Pintrich's integrative framework, [[Philip-Winne|Winne and Hadwin's]] COPES model — the monitoring–control architecture of Nelson and Narrens functions as the cognitive core. Each SRL framework adds layers of motivational, affective, and contextual complexity that the Nelson–Narrens model does not address, but none of them challenges its fundamental claim about the informational structure of cognitive self-regulation. The…
@@ -192,7 +192,7 @@ importance: high
 > Mathematical psychologist and Nelson's primary theoretical collaborator. Narrens brought formal, axiomatic precision to the meta-level/object-level framework, transforming it from a descriptive heuristic into a testable architectural claim. His influence is most evident in the specification of monitoring and control as informational relations with definable properties.
 
 > [!person] **John H. Flavell (1928–present)** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
-> [[John-Flavell|Flavell]] introduced the concept of metacognition in the 1970s, distinguishing metacognitive knowledge from metacognitive experience and establishing metacognition as a distinct object of psychological inquiry. His taxonomy provided the conceptual vocabulary that Nelson and Narrens formalised. Key work: Flavell (1979). Relationship to Nelson–Narrens: intellectual precursor; provided the content categories that the monitoring–control architecture operationalised.
+> [[john-flavell|Flavell]] introduced the concept of metacognition in the 1970s, distinguishing metacognitive knowledge from metacognitive experience and establishing metacognition as a distinct object of psychological inquiry. His taxonomy provided the conceptual vocabulary that Nelson and Narrens formalised. Key work: Flavell (1979). Relationship to Nelson–Narrens: intellectual precursor; provided the content categories that the monitoring–control architecture operationalised.
 
 > [!person] **Asher Koriat** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > Israeli cognitive psychologist who developed the cue utilisation approach to metacognitive monitoring. Koriat's framework — distinguishing intrinsic, extrinsic, and mnemonic cues — provides the mechanistic complement to the Nelson–Narrens architecture, explaining *how* the monitoring channel operates at the process level. Key works: Koriat (1997, 2007). Relationship to Nelson–Narrens: extended the monitoring channel with process-level detail.
@@ -228,7 +228,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > 1. To what extent does the information-processing heritage of the Nelson–Narrens model constrain what it can explain about metacognition in emotionally charged learning situations, such as high-stakes examinations or identity-relevant performance domains?
-> 2. How does the cybernetic feedback loop model of metacognitive control compare with the more elaborated cyclical models of [[Self-Regulated-Learning|self-regulated learning]] proposed by [[Barry-Zimmerman|Zimmerman]] and…
+> 2. How does the cybernetic feedback loop model of metacognitive control compare with the more elaborated cyclical models of [[self-regulated-learning|self-regulated learning]] proposed by [[barry-zimmerman|Zimmerman]] and…
 
 > [!reflection] **Reflect** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > 1. If monitoring is always cue-mediated and never direct, what implications does this have for the design of learning environments — specifically, for the kinds of feedback that should be provided to learners to improve the diagnostic validity of their monitoring cues?
@@ -236,7 +236,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > 1. Under what conditions might accurate monitoring actually *impair* control — for instance, by inducing anxiety or learned helplessness when the meta-level correctly identifies a large gap between current knowledge and the desired standard?
-> 2. How does the region of proximal learning hypothesis relate to [[Vygotsky's|Vygotsky's]] concept of the [[Zone-of-Proximal-Development|zone of proximal development]]? Are the structural parallels coincidental, or do they point to a deeper principle of…
+> 2. How does the region of proximal learning hypothesis relate to [[Vygotsky's|Vygotsky's]] concept of the [[zone-of-proximal-development|zone of proximal development]]? Are the structural parallels coincidental, or do they point to a deeper principle of…
 
 > [!reflection] **Reflect** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > 1. How does the cue ecology of each metacognitive judgment type relate to the types of learning activities that might improve monitoring accuracy — for instance, would retrieval practice preferentially improve the accuracy of delayed JOLs relative to immediate JOLs, and if so, why?
@@ -258,7 +258,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge: Connecting to What You Already Know** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
-> If you have encountered the idea that effective learners are those who "think about their own thinking," you have already brushed against the phenomenon that the Nelson–Narrens model seeks to formalise. Consider what you already understand about [[Metacognition|metacognition]] from [[Flavell-Metacognition-Framework|Flavell's]] early framework — the distinction between [[Metacognitive-Knowledge|metacognitive knowledge]] and [[Metacognitive-Experience|metacognitive experience]], and the intuition that knowing *about* one's cognition is somehow different from knowing *through* it. Consider, too,…
+> If you have encountered the idea that effective learners are those who "think about their own thinking," you have already brushed against the phenomenon that the Nelson–Narrens model seeks to formalise. Consider what you already understand about [[metacognition|metacognition]] from [[flavell-metacognition-framework|Flavell's]] early framework — the distinction between [[metacognitive-knowledge|metacognitive knowledge]] and [[metacognitive-experience|metacognitive experience]], and the intuition that knowing *about* one's cognition is somehow different from knowing *through* it. Consider, too,…
 
 ## Active Reading Prompts
 
@@ -288,7 +288,7 @@ importance: high
 ## Concrete Examples
 
 > [!example] **The Delayed JOL Effect as Evidence for Cue-Mediated Monitoring** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
-> One of the most robust findings in the metacognition literature is the **delayed JOL effect**, first demonstrated by Nelson and Dunlosky (1991). When learners make [[Judgment-of-Learning|judgments of learning]] immediately after studying paired associates, their predictions of future recall are only moderately accurate (gamma correlations of approximately .30–.40). But when the same judgments are delayed — made after a short interval rather than immediately after study — accuracy improves dramatically (gamma correlations of .80–.90). The explanation, within the Nelson–Narrens framework, is…
+> One of the most robust findings in the metacognition literature is the **delayed JOL effect**, first demonstrated by Nelson and Dunlosky (1991). When learners make [[judgment-of-learning|judgments of learning]] immediately after studying paired associates, their predictions of future recall are only moderately accurate (gamma correlations of approximately .30–.40). But when the same judgments are delayed — made after a short interval rather than immediately after study — accuracy improves dramatically (gamma correlations of .80–.90). The explanation, within the Nelson–Narrens framework, is…
 
 > [!example] **Monitoring–Control Coupling in Academic Self-Regulation** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > Consider two students studying for an examination. Student A accurately identifies which topics she has mastered and which she has not (good monitoring), and she allocates her remaining study time to the weaker topics (effective control). Her monitoring and control are tightly coupled, and her performance on the examination reflects the benefits of this coupling. Student B also identifies the weaker topics accurately (good monitoring), but she continues to review the topics she already knows, perhaps because reviewing familiar material feels more rewarding or because she does not have a clear…
@@ -299,7 +299,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **The Model-Theoretic Commitment and Its Epistemological Implications** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
-> There is an underappreciated parallel between the Nelson–Narrens architecture and debates in [[Epistemology|epistemology]] about the nature of self-knowledge. The model's insistence that the meta-level contains a *model* of the object-level, rather than enjoying direct access to it, mirrors the externalist critique of Cartesian self-transparency — the view, associated with thinkers from [[Descartes|Descartes]] to contemporary introspectionists, that one's mental states are luminous to oneself. Nelson and Narrens do not frame their work in epistemological terms, but the structural implication…
+> There is an underappreciated parallel between the Nelson–Narrens architecture and debates in [[epistemology|epistemology]] about the nature of self-knowledge. The model's insistence that the meta-level contains a *model* of the object-level, rather than enjoying direct access to it, mirrors the externalist critique of Cartesian self-transparency — the view, associated with thinkers from [[descartes|Descartes]] to contemporary introspectionists, that one's mental states are luminous to oneself. Nelson and Narrens do not frame their work in epistemological terms, but the structural implication…
 
 > [!claude-insight] **Narrens's Formalising Contribution: More Than Metaphor** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
 > The significance of Narrens's mathematical and formal orientation is often underestimated in discussions of the model. Without it, the meta-level/object-level distinction might have remained a useful heuristic — a way of *talking about* metacognition — rather than a testable architectural claim. By treating the monitoring and control channels as informational relations with specifiable properties (e.g., the property that monitoring information is always cue-mediated, never direct), the Nelson–Narrens model became falsifiable in a way that earlier metacognitive frameworks were not. This is why…
@@ -314,7 +314,7 @@ importance: high
 > There is a productive tension between the Nelson–Narrens model and the SRL frameworks that have adopted it. The Nelson–Narrens model achieves precision at the cost of scope: it specifies the informational architecture of cognitive monitoring and control with unusual clarity, but it deliberately excludes motivational, affective, and contextual dimensions. The SRL frameworks achieve scope at the cost of precision: they encompass the full range of self-regulatory processes but often treat monitoring and control as black boxes, invoking them without specifying their internal mechanisms. The ideal…
 
 > [!claude-insight] **From Metacognition to Meta-Computation** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*
-> The Nelson–Narrens architecture finds a striking parallel in contemporary [[Predictive-Processing|predictive processing]] and active inference frameworks, which propose that the brain is fundamentally a hierarchical predictive system in which higher levels model the activity of lower levels and issue predictions that constrain lower-level processing. The meta-level/object-level distinction maps naturally onto the hierarchical structure of predictive processing: the meta-level's monitoring of the object-level is analogous to the higher level's comparison of predicted and observed states, and…
+> The Nelson–Narrens architecture finds a striking parallel in contemporary [[predictive-processing|predictive processing]] and active inference frameworks, which propose that the brain is fundamentally a hierarchical predictive system in which higher levels model the activity of lower levels and issue predictions that constrain lower-level processing. The meta-level/object-level distinction maps naturally onto the hierarchical structure of predictive processing: the meta-level's monitoring of the object-level is analogous to the higher level's comparison of predicted and observed states, and…
 
 ## Section Summaries
 
@@ -428,7 +428,7 @@ importance: high
 > 4. Base your JOL on the success or difficulty of the retrieval attempt, not on how familiar the material feels.
 > 5. Allocate additional study time to items judged as poorly learned.
 > 
-> **Rationale:** Delayed JOLs shift the cue basis from short-term memory fluency (unreliable) to long-term memory retrieval success (highly diagnostic). This exploits the [[Judgment-of-Learning|delayed JOL effect]] demonstrated by Nelson and Dunlosky (1991).
+> **Rationale:** Delayed JOLs shift the cue basis from short-term memory fluency (unreliable) to long-term memory retrieval success (highly diagnostic). This exploits the [[judgment-of-learning|delayed JOL effect]] demonstrated by Nelson and Dunlosky (1991).
 > 
 > **Warning:** Avoid making…
 
@@ -498,19 +498,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[nelson-narrens-metacognitive-model-foundational-report-2026-04-16]])*:
-- [[Metacognition]]
-- [[Cybernetics]]
-- [[Information-Processing-Theory]]
+- [[metacognition|Metacognition]]
+- [[cybernetics|Cybernetics]]
+- [[information-processing-theory|Information-Processing-Theory]]
 - [[cognitive-psychology]]
-- [[Dual-Process-Theory]]
-- [[Executive-Function]]
-- [[Self-Regulated-Learning]]
-- [[Metacognitive-Strategy]]
-- [[Desirable-Difficulties]]
-- [[Metacognitive-Calibration-Training]]
+- [[dual-process-theory|Dual-Process-Theory]]
+- [[executive-function|Executive-Function]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[metacognitive-strategy|Metacognitive-Strategy]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[metacognitive-calibration-training|Metacognitive-Calibration-Training]]
 
 **Related concepts:**
-[[Nelson-Narens-Model]] · [[Metacognition]] · [[Meta-Level-Object-Level-Model]] · [[Meta-Level-Object-Level-Model]] · [[Flavell's-Metacognitive-Model]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Calibration]] · [[Self-Regulated-Learning]] · [[Predictive-Processing]] · [[Metacognition]] · [[Flavell-Metacognition-Framework]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Experience]] · [[Self-Regulated-Learning]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Metacognition]] · [[Meta-Level-Object-Level-Model]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]] · [[The-Nelson-Narens-Monitoring-Control-Model]] · [[John-Flavell]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Experience]] · [[Information-Processing-Theory]] · [[Judgment-of-Learning]] · [[Feeling-of-Knowing]] · [[Epistemology]] · [[Descartes]] · [[Felt-Difficulty]]
+[[nelson-narens-model|Nelson-Narens-Model]] · [[metacognition|Metacognition]] · [[Meta-Level-Object-Level-Model|Meta-Level-Object-Level-Model]] · [[Meta-Level-Object-Level-Model|Meta-Level-Object-Level-Model]] · [[flavells-metacognitive-model|Flavell's-Metacognitive-Model]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-calibration|Metacognitive-Calibration]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[predictive-processing|Predictive-Processing]] · [[metacognition|Metacognition]] · [[flavell-metacognition-framework|Flavell-Metacognition-Framework]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-experience|Metacognitive-Experience]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[pintrichs-integrative-srl-framework|Pintrich's-Integrative-SRL-Framework]] · [[metacognition|Metacognition]] · [[Meta-Level-Object-Level-Model|Meta-Level-Object-Level-Model]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[the-nelson-narens-monitoring-control-model|The-Nelson-Narens-Monitoring-Control-Model]] · [[john-flavell|John-Flavell]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-experience|Metacognitive-Experience]] · [[information-processing-theory|Information-Processing-Theory]] · [[judgment-of-learning|Judgment-of-Learning]] · [[feeling-of-knowing|Feeling-of-Knowing]] · [[epistemology|Epistemology]] · [[descartes|Descartes]] · [[felt-difficulty|Felt-Difficulty]]
 
 ## References
 

@@ -58,7 +58,7 @@ related_concepts:
   - "[[Python Scripting]]"
   - "[[JSON Output]]"
   - "[[Dataview Compatibility]]"
-  - "[[YAML-Frontmatter]]"
+  - "[[yaml-frontmatter]]"
   - "[[Extraction Pipeline]]"
   - "[[wiki-links]]"
   - "[[Callout Extraction]]"

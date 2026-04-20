@@ -446,7 +446,7 @@ value: "'active'"
 Add to **3-5 existing notes** in your vault:
 
 ```yaml
-concepts: [[Personal-Knowledge-Management]]
+concepts: [[personal-knowledge-management]]
 ```
 
 ### Phase 4: Verify System (1 minute)
@@ -468,13 +468,13 @@ concepts: [[Personal-Knowledge-Management]]
 ### For 02-projects:
 ```yaml
 concepts: [[Project Management]], [[Agile Methodology]]
-tools: [[Obsidian]], [[Dataview]]
+tools: [[obsidian]], [[Dataview]]
 status: active
 ```
 
 ### For 04-literature-notes:
 ```yaml
-concepts: [[Cognitive-Load-Theory]], [[Spaced-Repetition]]
+concepts: [[cognitive-load-theory]], [[spaced-repetition]]
 field: cognitive-science
 source: [[Book Title]]
 ```
@@ -486,7 +486,7 @@ concepts: [[Today's Learning Focus]]
 
 ### For 02-pkb-and-pkm-learning:
 ```yaml
-concepts: [[Zettelkasten]], [[Evergreen-Notes]]
+concepts: [[zettelkasten]], [[Evergreen-Notes]]
 methodology: [[Progressive-Summarization]]
 ```
 
@@ -607,18 +607,18 @@ Dataview is picky about link formats. Try **both** of these formats:
 
 **Format A (with brackets):**
 ```yaml
-concepts: ["[[Personal-Knowledge-Management]]"]
+concepts: ["[[personal-knowledge-management]]"]
 ```
 
 **Format B (without quotes):**
 ```yaml
-concepts: [[Personal-Knowledge-Management]]
+concepts: [[personal-knowledge-management]]
 ```
 
 **Format C (as array):**
 ```yaml
 concepts:
-  - "[[Personal-Knowledge-Management]]"
+  - "[[personal-knowledge-management]]"
 ```
 
 ---
@@ -641,7 +641,7 @@ status: active
 ```dataview
 TABLE file.folder as "Location", status as "Status"
 WHERE concepts
-WHERE contains(concepts, [[Personal-Knowledge-Management]])
+WHERE contains(concepts, [[personal-knowledge-management]])
 SORT file.mtime DESC
 LIMIT 50
 ```
@@ -653,7 +653,7 @@ LIMIT 50
 ---
 tags: #project
 status: active
-concepts: [[Personal-Knowledge-Management]]
+concepts: [[personal-knowledge-management]]
 ---
 
 # My Project Note
@@ -871,7 +871,7 @@ dv.table(["Project", "Priority"],
 title: My Note
 tags: [project, active]
 status: in-progress
-concepts: [[PKM]], [[Zettelkasten]]
+concepts: [[PKM]], [[zettelkasten]]
 created: 2025-12-12
 priority: high
 ---
@@ -958,12 +958,12 @@ concept-type: methodology
 **In Note B (The Referencing Note):**
 ```yaml
 ---
-concepts: [[Personal-Knowledge-Management]]
+concepts: [[personal-knowledge-management]]
 ---
 ```
 
 **What Happens:**
-1. Dataview indexes Note B and sees `concepts: [[Personal-Knowledge-Management]]`
+1. Dataview indexes Note B and sees `concepts: [[personal-knowledge-management]]`
 2. Query in Note A searches for: `WHERE concepts AND contains(concepts, this.file.link)`
 3. Translation: "Find all notes that have a `concepts` field AND that field contains a link to THIS note"
 4. Note B appears in Note A's query results
@@ -1015,12 +1015,12 @@ notes.filter(note => note.concepts !== undefined)
 
 - **`contains(field, value)`** = Dataview function checking if value exists in field
 - **`concepts`** = The field to search in
-- **`this.file.link`** = Special variable = the current note's link (e.g., `[[Personal-Knowledge-Management]]`)
+- **`this.file.link`** = Special variable = the current note's link (e.g., `[[personal-knowledge-management]]`)
 
 **Think of it as:**
 ```javascript
 notes.filter(note => 
-  note.concepts.includes("[[Personal-Knowledge-Management]]")
+  note.concepts.includes("[[personal-knowledge-management]]")
 )
 ```
 
@@ -1055,18 +1055,18 @@ Query: `contains(concepts, [[PKM]])` → ✅ TRUE
 
 #### Case 2: Array of Links
 ```yaml
-concepts: [[[PKM]], [[Zettelkasten]], [[Note-taking]]]
+concepts: [[[PKM]], [[zettelkasten]], [[Note-taking]]]
 ```
 Query: `contains(concepts, [[PKM]])` → ✅ TRUE
-Query: `contains(concepts, [[Zettelkasten]])` → ✅ TRUE
+Query: `contains(concepts, [[zettelkasten]])` → ✅ TRUE
 Query: `contains(concepts, [[Writing]])` → ❌ FALSE
 
 #### Case 3: Inline Field (List Item)
 ```markdown
 concepts:: [[PKM]]
-concepts:: [[Zettelkasten]]
+concepts:: [[zettelkasten]]
 ```
-Dataview sees this as: `concepts = [[[PKM]], [[Zettelkasten]]]`
+Dataview sees this as: `concepts = [[[PKM]], [[zettelkasten]]]`
 Query: `contains(concepts, [[PKM]])` → ✅ TRUE
 
 ---
@@ -1145,7 +1145,7 @@ dv.table(
 
 When you write:
 ```markdown
-I'm learning [[Personal-Knowledge-Management]] today.
+I'm learning [[personal-knowledge-management]] today.
 ```
 
 **What happens:**
@@ -1164,7 +1164,7 @@ I'm learning [[Personal-Knowledge-Management]] today.
 
 When you write:
 ```yaml
-concepts: [[Personal-Knowledge-Management]]
+concepts: [[personal-knowledge-management]]
 ```
 
 **What happens:**
@@ -1195,17 +1195,17 @@ concepts: [[Personal-Knowledge-Management]]
 
 **Best Practice: Use BOTH**
 ```yaml
-concepts: [[PKM]], [[Zettelkasten]]
-tools: [[Obsidian]], [[Dataview]]
+concepts: [[PKM]], [[zettelkasten]]
+tools: [[obsidian]], [[Dataview]]
 ```
 
 ```markdown
 # My Project
 
-Using [[PKM]] principles and [[Zettelkasten]] method,
-I'm building this in [[Obsidian]] with [[Dataview]] queries.
+Using [[PKM]] principles and [[zettelkasten]] method,
+I'm building this in [[obsidian]] with [[Dataview]] queries.
 
-The core insight about [[Spaced-Repetition]] is…
+The core insight about [[spaced-repetition]] is…
 ```
 
 - YAML = formal relationships
@@ -1446,8 +1446,8 @@ aliases: [PKM, Personal KM]
 **Application Notes:**
 ```yaml
 ---
-concepts: [[PKM]], [[Zettelkasten]]
-tools: [[Obsidian]]
+concepts: [[PKM]], [[zettelkasten]]
+tools: [[obsidian]]
 status: active
 ---
 ```
@@ -1473,8 +1473,8 @@ Dataview continuously scans vault and builds:
   
   "My Project.md": {
     file: { /* … */ },
-    concepts: [[[PKM]], [[Zettelkasten]]],
-    tools: [[[Obsidian]]],
+    concepts: [[[PKM]], [[zettelkasten]]],
+    tools: [[[obsidian]]],
     status: "active"
   }
 }
@@ -1487,7 +1487,7 @@ When you open "Personal Knowledge Management.md":
 1. Query executes: `WHERE concepts AND contains(concepts, this.file.link)`
 2. Dataview searches index for notes where:
    - `concepts` field exists
-   - `concepts` field contains `[[Personal-Knowledge-Management]]`
+   - `concepts` field contains `[[personal-knowledge-management]]`
 3. Returns matches: `["My Project.md", …]`
 4. Renders table in note
 
@@ -1567,7 +1567,7 @@ SORT file.mtime DESC
 ```yaml
 ---
 framework: [[Agile]], [[Kanban]]
-tools: [[Jira]], [[Obsidian]]
+tools: [[Jira]], [[obsidian]]
 team-size: 5
 sprint: 3
 status: active
@@ -1618,7 +1618,7 @@ collaborators: [[Person-A]], [[Person-B]]
 mentors: [[Advisor Name]]
 
 # Tool Relationships
-built-with: [[Obsidian]], [[Python]]
+built-with: [[obsidian]], [[Python]]
 relies-on: [[External API]]
 
 # Temporal Relationships
@@ -1679,7 +1679,7 @@ WHERE p["concept type"] = "methodology"  ⚠️ Awkward
 TABLE concepts, tools, status
 WHERE 
   concepts AND contains(concepts, [[PKM]]) AND
-  tools AND contains(tools, [[Obsidian]])
+  tools AND contains(tools, [[obsidian]])
 SORT file.mtime DESC
 ```
 

@@ -5,6 +5,7 @@
 title: "Schema as Variable-Slot Data Structure"
 aliases:
   - "Schema as Variable-Slot Data Structure"
+  - "Schema-as-Variable-Slot-Data-Structure"
   - "SAVDS"
 type: permanent-note
 status: evergreen
@@ -34,8 +35,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -46,7 +47,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -70,51 +71,51 @@ narrower:
   []
 
 see-also:
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Advance-Organizers]]"
-  - "[[Expert-Novice-Research]]"
-  - "[[Frederic-Bartlett]]"
-  - "[[Jean-Piaget]]"
-  - "[[David-Rumelhart]]"
-  - "[[David-Ausubel]]"
-  - "[[Roger-Schank]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Conceptual-Change-Theory]]"
-  - "[[Immanuel-Kant]]"
-  - "[[Frederic-Bartlett]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Working-Memory]]"
-  - "[[Jean-Piaget]]"
-  - "[[Constructivism]]"
-  - "[[Frederic-Bartlett]]"
-  - "[[restaurant-schema|restaurant schema]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[advance-organizers|Advance-Organizers]]"
+  - "[[expert-novice-research|Expert-Novice-Research]]"
+  - "[[frederic-bartlett|Frederic-Bartlett]]"
+  - "[[jean-piaget|Jean-Piaget]]"
+  - "[[David-Rumelhart|David-Rumelhart]]"
+  - "[[david-ausubel|David-Ausubel]]"
+  - "[[roger-schank|Roger-Schank]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[Conceptual-Change-Theory|Conceptual-Change-Theory]]"
+  - "[[immanuel-kant|Immanuel-Kant]]"
+  - "[[frederic-bartlett|Frederic-Bartlett]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[jean-piaget|Jean-Piaget]]"
+  - "[[constructivism|Constructivism]]"
+  - "[[frederic-bartlett|Frederic-Bartlett]]"
+  - "[[restaurant-schema]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Gestalt-Psychology-and-Perception]]"
-  - "[[Piaget-Developmental-Stages]]"
-  - "[[Bartlett-Reconstructive-Memory-Experiments]]"
+  - "[[gestalt-psychology-and-perception|Gestalt-Psychology-and-Perception]]"
+  - "[[piaget-developmental-stages|Piaget-Developmental-Stages]]"
+  - "[[bartlett-reconstructive-memory-experiments|Bartlett-Reconstructive-Memory-Experiments]]"
   - "[[information-processing-model]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Q-What-is-a-schema,-and-what-are-the-two-structural-components-of-Rumelhart's-co|Q: What is a schema, and what are the two structural components of Rumelhart's computational formula]]"
+  - topic: "[[Q: What is a schema, and what are the two structural components of Rumelhart's computational formula]]"
     description: ""
     priority: medium
-  - topic: "[[Q-How-does-Piaget-distinguish-assimilation-from-accommodation-A-Assimilation-inc|Q: How does Piaget distinguish assimilation from accommodation?
+  - topic: "[[Q: How does Piaget distinguish assimilation from accommodation?
 A: Assimilation incorporates new inf]]"
     description: ""
     priority: medium
-  - topic: "[[Q-What-does-it-mean-to-say-that-memory-is-'reconstructive'-in-Bartlett's-sense,|Q: What does it mean to say that memory is 'reconstructive' in Bartlett's sense, and what empirical ]]"
+  - topic: "[[Q: What does it mean to say that memory is 'reconstructive' in Bartlett's sense, and what empirical ]]"
     description: ""
     priority: medium
-  - topic: "[[Q-How-does-an-advance-organizer-differ-from-a-preview-or-outline-of-lesson-conte|Q: How does an advance organizer differ from a preview or outline of lesson content?
+  - topic: "[[Q: How does an advance organizer differ from a preview or outline of lesson content?
 A: A preview op]]"
     description: ""
     priority: medium
@@ -135,7 +136,7 @@ importance: high
 ## Core Explanation
 
 > [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-03-31]])*
-> From the perspective of [[Cognitive-Load-Theory|Cognitive Load Theory]] and instructional science, schemas are the units of [[Long-Term-Memory|long-term memory]] that matter most for learning. They compress complexity into manageable patterns by chunking multiple elements that must be treated as a unit into a single representational structure. What the working memory theorist sees as "a single chunk" is, more precisely, an instantiated schema. This compression is why experts can hold far more…
+> From the perspective of [[cognitive-load-theory|Cognitive Load Theory]] and instructional science, schemas are the units of [[long-term-memory|long-term memory]] that matter most for learning. They compress complexity into manageable patterns by chunking multiple elements that must be treated as a unit into a single representational structure. What the working memory theorist sees as "a single chunk" is, more precisely, an instantiated schema. This compression is why experts can hold far more…
 
 > [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-03-31]])*
 > Bartlett's central and most durable claim is that memory is not reproductive but *reconstructive*. When we recall a past experience, a text, or a narrative, we do not replay a stored recording. We reconstruct: we build a plausible account from available schema-consistent fragments, filling gaps with schema-generated defaults, rationalizing anomalies toward schema expectations, and unconsciously editing what was experienced toward a more schema-coherent version. The result is a memory that is…
@@ -170,19 +171,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[schema-theory-foundational-report-2026-03-31]])*:
-- [[Working-Memory]]
-- [[Long-Term-Memory]]
-- [[Prior-Knowledge]]
-- [[Mental-Model]]
-- [[Dual-Coding-Theory]]
-- [[Spreading-Activation]]
-- [[Cognitive-Load-Theory]]
-- [[Advance-Organizers]]
-- [[Conceptual-Change-Theory]]
-- [[Expertise-Development]]
+- [[working-memory|Working-Memory]]
+- [[long-term-memory|Long-Term-Memory]]
+- [[prior-knowledge|Prior-Knowledge]]
+- [[mental-model|Mental-Model]]
+- [[dual-coding-theory|Dual-Coding-Theory]]
+- [[spreading-activation|Spreading-Activation]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[advance-organizers|Advance-Organizers]]
+- [[Conceptual-Change-Theory|Conceptual-Change-Theory]]
+- [[expertise-development|Expertise-Development]]
 
 **Related concepts:**
-[[Schema-Theory]] · [[Cognitive-Load-Theory]] · [[Advance-Organizers]] · [[Expert-Novice-Research]] · [[Frederic-Bartlett]] · [[Jean-Piaget]] · [[David-Rumelhart]] · [[David-Ausubel]] · [[Roger-Schank]] · [[Cognitive-Load-Theory]] · [[Conceptual-Change-Theory]] · [[Immanuel-Kant]] · [[Frederic-Bartlett]] · [[Cognitive-Load-Theory]] · [[Long-Term-Memory]] · [[Working-Memory]] · [[Jean-Piaget]] · [[Constructivism]] · [[Frederic-Bartlett]] · [[restaurant-schema|restaurant schema]] · [[Declarative-schemas]] · [[Procedural-schemas]] · [[John-Anderson]] · [[ACT-R-theory]] · [[top-down-processing]] · [[bottom-up-processing]] · [[Frederic-Bartlett]] · [[Hermann-Ebbinghaus]] · [[Richard-Anderson]] · [[David-Rumelhart]]
+[[schema-theory|Schema-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[advance-organizers|Advance-Organizers]] · [[expert-novice-research|Expert-Novice-Research]] · [[frederic-bartlett|Frederic-Bartlett]] · [[jean-piaget|Jean-Piaget]] · [[David-Rumelhart|David-Rumelhart]] · [[david-ausubel|David-Ausubel]] · [[roger-schank|Roger-Schank]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[Conceptual-Change-Theory|Conceptual-Change-Theory]] · [[immanuel-kant|Immanuel-Kant]] · [[frederic-bartlett|Frederic-Bartlett]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[long-term-memory|Long-Term-Memory]] · [[working-memory|Working-Memory]] · [[jean-piaget|Jean-Piaget]] · [[constructivism|Constructivism]] · [[frederic-bartlett|Frederic-Bartlett]] · [[restaurant-schema]] · [[declarative-schemas|Declarative-schemas]] · [[procedural-schemas|Procedural-schemas]] · [[john-anderson|John-Anderson]] · [[act-r-theory|ACT-R-theory]] · [[top-down-processing]] · [[bottom-up-processing]] · [[frederic-bartlett|Frederic-Bartlett]] · [[hermann-ebbinghaus|Hermann-Ebbinghaus]] · [[richard-anderson|Richard-Anderson]] · [[David-Rumelhart|David-Rumelhart]]
 
 ## Methodology Notes
 

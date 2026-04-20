@@ -21,23 +21,23 @@ link-up:
 link-related:
   - "[[2025-11-15|Daily-Note]]"
   - "[[permeant-note_moc]]"
-  - "[[Metacognition]]"
-  - "[[Andragogy]]"
-  - "[[Constructivism]]"
+  - "[[metacognition]]"
+  - "[[andragogy]]"
+  - "[[constructivism]]"
   - "[[Constructivist Learning]]"
-  - "[[Critical-Thinking]]"
-  - "[[Educational-Psychology]]"
+  - "[[critical-thinking]]"
+  - "[[educational-psychology]]"
   - "[[Information-Theory]]"
-  - "[[Instructional-Design]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
+  - "[[instructional-design]]"
+  - "[[metacognitive-knowledge]]"
+  - "[[metacognitive-regulation]]"
   - "[[schemas]]"
   - "[[Self Behavioral Management]]"
-  - "[[Self-Directed-Learning]]"
-  - "[[Self-Regulated-Learning]]"
+  - "[[self-directed-learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Self-Regulation-Theory]]"
   - "[[System Building]]"
-  - "[[Zone-of-Proximal-Development]]"
+  - "[[zone-of-proximal-development]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -53,7 +53,7 @@ review-priority: medium
 # Scaffolding
 
 > [!definition]
-> - **Key-Term**:[[Scaffolding]]
+> - **Key-Term**:[[scaffolding]]
 > - [**Definition**:Temporary, adjustable support enabling learners to accomplish tasks beyond their independent capability.]
 
 > [!evidence]

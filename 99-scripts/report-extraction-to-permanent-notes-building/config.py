@@ -29,12 +29,12 @@ SCRIPTS_DIR = VAULT_ROOT / "99-scripts" / "report-extraction-to-permanent-notes-
 
 # Where existing permanent notes live (the notes we want to UPDATE)
 PERMANENT_NOTES_DIR = (
-    VAULT_ROOT / "999-report-orginizing"
+    VAULT_ROOT / "999-report-organizing"
     / "_permanent-notes" / "_permanent-notes"
 )
 
 # Extraction batch directories — each contains *_extracted.json files
-EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-orginizing" / "_extractor-output"
+EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-organizing" / "_extractor-output"
 
 # Auto-discover all extraction batch directories (no more manual list)
 # Add directory names here to exclude specific batches from processing.
@@ -47,7 +47,7 @@ EXTRACTION_BATCHES = sorted(
 
 # Original 30-report batch (already processed by v1 pipeline)
 ORIGINAL_JSON_DIR = (
-    VAULT_ROOT / "999-report-orginizing"
+    VAULT_ROOT / "999-report-organizing"
     / "_pkm-and-pkb-framework-1.0.0" / "extraction-material" / "json"
 )
 
@@ -58,8 +58,14 @@ PIPELINE_OUTPUT_DIR = SCRIPTS_DIR / "_pipeline-output"
 # MATCHING SETTINGS
 # ══════════════════════════════════════════════════════════════════════════════
 
-FUZZY_MATCH_THRESHOLD = 0.85  # SequenceMatcher ratio threshold for fuzzy match
-MAX_FUZZY_CANDIDATES = 5      # How many fuzzy suggestions to show in reports
+# Raised from 0.85 → 0.92 (2026-04-20) — the lower threshold was admitting
+# near-duplicates as new notes (e.g. "Aaron-Beck" vs "Aaron-Becks",
+# "Achievement-Goal-Theory" vs "Achievement-Goal-Framework"). Anything
+# between FUZZY_REVIEW_THRESHOLD and FUZZY_MATCH_THRESHOLD lands in a
+# human-review queue rather than auto-creating a duplicate.
+FUZZY_MATCH_THRESHOLD = 0.92   # Auto-match threshold
+FUZZY_REVIEW_THRESHOLD = 0.78  # Below this = treat as new; between = review queue
+MAX_FUZZY_CANDIDATES = 5       # How many fuzzy suggestions to show in reports
 
 # ══════════════════════════════════════════════════════════════════════════════
 # CALLOUT TYPES THAT GENERATE PERMANENT NOTES

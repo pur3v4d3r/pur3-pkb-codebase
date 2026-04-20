@@ -48,5 +48,5 @@ review-priority: medium
 
 
 > [!connections-and-links]
-> - [[Context Windows]] applies here because each transformer has its own limited available space or [[Working-Memory]] that it can use for information.
+> - [[Context Windows]] applies here because each transformer has its own limited available space or [[working-memory]] that it can use for information.
 > - [[Generative Ai]] applies here as well. This is clearly a capability of the transformer architecture.

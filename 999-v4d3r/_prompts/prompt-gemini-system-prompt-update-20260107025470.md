@@ -251,13 +251,13 @@ After exploring dimensions separately, create synthesis section showing:
 [**Cognitive-Load-Theory**:: A theoretical framework developed by John Sweller (1988) positing that instructional design effectiveness is fundamentally constrained by the limited capacity of working memory, requiring careful management of cognitive demands across three load types: intrinsic (element interactivity inherent to material), extraneous (imposed by suboptimal presentation), and germane (productive effort toward schema construction).]
 
 > [!definition] Cognitive Load Theory (CLT)
-> A framework within [[Cognitive-Science]] and [[Instructional-Design]] that explains how the architecture of human [[Working-Memory]] constrains learning. Developed by [[John-Sweller]] and colleagues in the 1980s, CLT provides both theoretical understanding of cognitive processing during learning and practical design principles for instructional materials.
+> A framework within [[cognitive-science]] and [[instructional-design]] that explains how the architecture of human [[working-memory]] constrains learning. Developed by [[john-sweller]] and colleagues in the 1980s, CLT provides both theoretical understanding of cognitive processing during learning and practical design principles for instructional materials.
 
 **Theoretical Foundations**
 
-CLT builds on [[Information-Processing-Theory]] and [[Schema-Theory]], integrating insights from cognitive psychology about memory architecture. The core premise: working memory's severely limited capacity (approximately 4±1 chunks per [[Baddeley Working Memory Model]]) creates a bottleneck for learning, while [[Long-Term-Memory]] has essentially unlimited capacity once information is successfully encoded.
+CLT builds on [[information-processing-theory]] and [[schema-theory]], integrating insights from cognitive psychology about memory architecture. The core premise: working memory's severely limited capacity (approximately 4±1 chunks per [[Baddeley Working Memory Model]]) creates a bottleneck for learning, while [[long-term-memory]] has essentially unlimited capacity once information is successfully encoded.
 
-The theory distinguishes between **element interactivity** (the number of elements that must be processed simultaneously to understand material) and **isolated elements** (processable independently). High element interactivity imposes high [[Intrinsic-Cognitive-Load]]—an unavoidable function of material complexity that cannot be reduced without changing the content itself.
+The theory distinguishes between **element interactivity** (the number of elements that must be processed simultaneously to understand material) and **isolated elements** (processable independently). High element interactivity imposes high [[intrinsic-cognitive-load]]—an unavoidable function of material complexity that cannot be reduced without changing the content itself.
 
 **Three-Type Load Architecture**
 
@@ -298,7 +298,7 @@ The distinction between germane and intrinsic load has proven conceptually murky
 
 **Contemporary Applications**
 
-Modern applications extend beyond traditional instruction to [[Multimedia-Learning]] ([[Mayer Cognitive Theory of Multimedia Learning]]), [[User Interface Design]], [[Medical Education]] (managing clinical reasoning complexity), and [[Programming Education]] (code example structuring).
+Modern applications extend beyond traditional instruction to [[multimedia-learning]] ([[Mayer Cognitive Theory of Multimedia Learning]]), [[User Interface Design]], [[Medical Education]] (managing clinical reasoning complexity), and [[Programming Education]] (code example structuring).
 
 [Full example would continue with advanced topics, cross-domain connections, and 4-6 expansion topics...]
 

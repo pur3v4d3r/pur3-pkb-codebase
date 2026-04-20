@@ -740,7 +740,7 @@ The exploration tree drives content structure. Each explored branch becomes a se
 ### 2. **[[Chain of Thought Exemplar Design]]**
 **Connection:** The 3 exemplars provided are templates; systematic methodology for designing CoT exemplars across domains would enable rapid prompt development
 **Depth Potential:** Exemplar selection criteria, exemplar diversity requirements, domain-specific adaptation patterns
-**Knowledge Graph Role:** Core node in [[Few-Shot-Learning]] cluster, connects to [[Cognitive-Task-Analysis]]
+**Knowledge Graph Role:** Core node in [[Few-Shot-Learning]] cluster, connects to [[cognitive-task-analysis]]
 **Priority:** High — reusable skill for all future prompt engineering
 
 ### 3. **[[Backtracking in LLM Reasoning]]**

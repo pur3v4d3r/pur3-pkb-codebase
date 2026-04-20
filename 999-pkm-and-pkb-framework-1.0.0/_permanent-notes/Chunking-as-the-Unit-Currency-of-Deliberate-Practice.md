@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +44,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,49 +68,49 @@ narrower:
   []
 
 see-also:
-  - "[[Chunking]]"
-  - "[[Working-Memory]]"
-  - "[[Expertise]]"
-  - "[[Schema]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Schema-Automation]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Miller's-Magical-Number-Seven]]"
-  - "[[Schema-Theory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Instructional-Design]]"
-  - "[[Working-Memory]]"
-  - "[[Chunking]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Working-Memory]]"
-  - "[[Short-Term-Memory]]"
-  - "[[Working-Memory-Capacity]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
+  - "[[chunking|Chunking]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[expertise|Expertise]]"
+  - "[[schema|Schema]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[schema-automation|Schema-Automation]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[millers-magical-number-seven|Miller's-Magical-Number-Seven]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[instructional-design|Instructional-Design]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[chunking|Chunking]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[short-term-memory|Short-Term-Memory]]"
+  - "[[working-memory-capacity|Working-Memory-Capacity]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Working-Memory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Schema-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[schema-theory|Schema-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-represent-productive-directions-for-deepening-and-extending|The following topics represent productive directions for deepening and extending the knowledge struc]]"
+  - topic: "[[The following topics represent productive directions for deepening and extending the knowledge struc]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Ericsson-and-Kintsch-1995-proposed-that-experts-develop-domain-speci|**Description:** Ericsson and Kintsch (1995) proposed that experts develop domain-specific retrieval]]"
+  - topic: "[[**Description:** Ericsson and Kintsch (1995) proposed that experts develop domain-specific retrieval]]"
     description: ""
     priority: medium
-  - topic: "[[Description-The-computational-modelling-tradition,-from-Simon-and-Feigenbaum's-E|**Description:** The computational modelling tradition, from Simon and Feigenbaum's EPAM (Elementary]]"
+  - topic: "[[**Description:** The computational modelling tradition, from Simon and Feigenbaum's EPAM (Elementary]]"
     description: ""
     priority: medium
-  - topic: "[[Description-While-this-report-has-focused-on-the-cognitive-dimension-of-chunking|**Description:** While this report has focused on the cognitive dimension of chunking, expert perfor]]"
+  - topic: "[[**Description:** While this report has focused on the cognitive dimension of chunking, expert perfor]]"
     description: ""
     priority: medium
 
@@ -165,10 +165,10 @@ importance: high
 > Working memory limitation is not a defect in the cognitive system but a structural feature that shapes the entire trajectory of learning and expertise development. It is the condition that makes chunking necessary, and chunking is the mechanism through which the mind transforms raw experience into organized, retrievable, and deployable knowledge.
 
 > [!analytical-insight] Key Insight *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> [[Expertise-Development|Expertise development]] is fundamentally a reorganization of knowledge rather than an accumulation of it. The expert does not simply know more facts than the novice; the expert's knowledge is organized differently — structured around deep principles and functional relationships rather than surface features and temporal associations. This organizational difference is the direct product of chunk formation and hierarchical integration over extended periods of practice.
+> [[expertise-development|Expertise development]] is fundamentally a reorganization of knowledge rather than an accumulation of it. The expert does not simply know more facts than the novice; the expert's knowledge is organized differently — structured around deep principles and functional relationships rather than surface features and temporal associations. This organizational difference is the direct product of chunk formation and hierarchical integration over extended periods of practice.
 
 > [!analytical-insight] Key Insight *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> The automation of schemas through practice creates a self-reinforcing cycle of expertise development. As schemas become automated, the working memory resources they previously consumed are freed for processing new information, forming new chunks, and constructing higher-order schemas. This [[Cognitive-Bandwidth-Liberation|cognitive bandwidth liberation]] is the engine of expertise: each increment of automation opens capacity for the next increment of learning, producing the accelerating returns…
+> The automation of schemas through practice creates a self-reinforcing cycle of expertise development. As schemas become automated, the working memory resources they previously consumed are freed for processing new information, forming new chunks, and constructing higher-order schemas. This [[cognitive-bandwidth-liberation|cognitive bandwidth liberation]] is the engine of expertise: each increment of automation opens capacity for the next increment of learning, producing the accelerating returns…
 
 > [!analytical-insight] Key Insight *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
 > Expert intuition, far from being a mystical or irrational faculty, is the subjective experience of automated chunk retrieval. When an expert "just knows" that a situation is dangerous, or that a particular course of action is appropriate, what is occurring at the cognitive level is the rapid, automatic activation of a stored chunk that matches the current configuration of cues. The expert's inability to fully articulate the basis of this judgment reflects not the absence of reasons but their…
@@ -179,7 +179,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> A common source of confusion in the literature arises from the tendency to use "chunk" and "schema" interchangeably. While both are organized knowledge structures, they operate at different levels of abstraction and serve different cognitive functions. [[Schema-Theory|Schema theory]], as developed by [[Frederic-Bartlett|Bartlett]], [[David-Rumelhart|Rumelhart]], and others in the tradition of [[cognitive-psychology|cognitive psychology]], concerns the broad organizational frameworks through…
+> A common source of confusion in the literature arises from the tendency to use "chunk" and "schema" interchangeably. While both are organized knowledge structures, they operate at different levels of abstraction and serve different cognitive functions. [[schema-theory|Schema theory]], as developed by [[frederic-bartlett|Bartlett]], [[David-Rumelhart|Rumelhart]], and others in the tradition of [[cognitive-psychology|cognitive psychology]], concerns the broad organizational frameworks through…
 
 > [!warning] **Key Distinction** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
 > The recognition that expert intuition arises from automated chunk retrieval carries a cautionary implication. The same mechanism that produces accurate intuitive judgments in familiar, well-structured situations can produce systematic errors in situations that superficially resemble familiar types but differ in consequential ways. Expert intuition is pattern matching, and pattern matching is only as good as the library of patterns from which it draws. [[Dual-Process-Theory|Dual-process…
@@ -207,12 +207,12 @@ importance: high
 > **Relationships:** Built on Simon's chunk-based account of expertise; debated…
 
 > [!person] **John Sweller (1946–)** — University of New South Wales** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> Developed [[Cognitive-Load-Theory|cognitive load theory]], the most influential framework for translating the cognitive science of chunking and schema development into instructional design principles. Sweller's work on intrinsic, extraneous, and germane cognitive load provided the theoretical architecture for understanding how instruction should be calibrated to the learner's developing expertise.
+> Developed [[cognitive-load-theory|cognitive load theory]], the most influential framework for translating the cognitive science of chunking and schema development into instructional design principles. Sweller's work on intrinsic, extraneous, and germane cognitive load provided the theoretical architecture for understanding how instruction should be calibrated to the learner's developing expertise.
 > **Key works referenced:** Sweller (1988); Sweller, Ayres, & Kalyuga (2011).
 > **Relationships:** Drew directly on Miller's capacity limits and Simon's chunking work; influenced van Merriënboer,…
 
 > [!person] **Alan D. Baddeley (1934–)** — University of York** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> Developed the multicomponent model of [[Working-Memory|working memory]] (with Graham Hitch), which replaced the unitary short-term store of the Atkinson-Shiffrin model with a complex system comprising a central executive, phonological loop, visuospatial sketchpad, and episodic buffer. Baddeley's model provided the architectural framework within which chunking operates and helped clarify the distinction between passive storage and active manipulation.
+> Developed the multicomponent model of [[working-memory|working memory]] (with Graham Hitch), which replaced the unitary short-term store of the Atkinson-Shiffrin model with a complex system comprising a central executive, phonological loop, visuospatial sketchpad, and episodic buffer. Baddeley's model provided the architectural framework within which chunking operates and helped clarify the distinction between passive storage and active manipulation.
 > **Key works referenced:** Baddeley & Hitch (1974); Baddeley (2000).
 > **Relationships:** Refined the working memory architecture within which…
 
@@ -243,7 +243,7 @@ importance: high
 > [!tension] **Domain-Specificity vs. General Transfer** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
 > **The tension:** Can expertise-related skills transfer across domains, or is expert knowledge fundamentally domain-specific?
 > 
-> **Position A (Strong domain-specificity):** Expert chunks are encoded in domain-specific formats and activate only in response to domain-specific cues. The evidence for [[Far-Transfer|far transfer]] is weak, and claims about general "expert thinking skills" are not supported.
+> **Position A (Strong domain-specificity):** Expert chunks are encoded in domain-specific formats and activate only in response to domain-specific cues. The evidence for [[far-transfer|far transfer]] is weak, and claims about general "expert thinking skills" are not supported.
 > 
 > **Position B (Moderate transfer):** While chunk content is domain-specific, certain metacognitive skills — monitoring, strategy selection, self-regulation — may transfer. The capacity for…
 
@@ -289,7 +289,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge: From Memory Limitations to Expertise** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> The argument developed in this report connects several concepts that may already occupy distinct positions in the reader's knowledge network. If one has encountered [[Miller's-Magical-Number-Seven|Miller's magical number seven]] and the idea that working memory holds roughly four to seven items at a time, the question naturally arises: how do experts — chess grandmasters, experienced physicians, fluent readers — appear to process vastly more information than this limit should permit? If one has studied [[Schema-Theory|schema theory]] and understands that knowledge in…
+> The argument developed in this report connects several concepts that may already occupy distinct positions in the reader's knowledge network. If one has encountered [[Miller's-Magical-Number-Seven|Miller's magical number seven]] and the idea that working memory holds roughly four to seven items at a time, the question naturally arises: how do experts — chess grandmasters, experienced physicians, fluent readers — appear to process vastly more information than this limit should permit? If one has studied [[schema-theory|schema theory]] and understands that knowledge in…
 
 ## Active Reading Prompts
 
@@ -314,7 +314,7 @@ importance: high
 > The development of reading fluency is, at the cognitive level, a process of chunk formation and automation. The beginning reader must decode individual letters, then blend them into phonemes, then assemble phonemes into words — a process that consumes working memory so thoroughly that little capacity remains for comprehension. The fluent reader has automated this entire chain: whole words are recognized as single chunks, common phrases are processed as units, and well-known syntactic patterns are parsed automatically, freeing working memory for the higher-order task of constructing meaning.…
 
 > [!far-transfer] **Organizational Knowledge Management: Institutional Expertise and PKB Design** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> The principles of chunking and expertise development apply not only to individual cognition but also to the design of knowledge management systems — including the [[Personal-Knowledge-Management|personal knowledge base]] (PKB) in which this report is housed. A well-designed knowledge base mirrors the architecture of expert cognition: individual notes function as chunks (discrete, meaningful units of information), wiki-links function as the associative connections between chunks, hierarchical organization (folders, maps of content) mirrors the hierarchical nesting of chunks into schemas, and…
+> The principles of chunking and expertise development apply not only to individual cognition but also to the design of knowledge management systems — including the [[personal-knowledge-management|personal knowledge base]] (PKB) in which this report is housed. A well-designed knowledge base mirrors the architecture of expert cognition: individual notes function as chunks (discrete, meaningful units of information), wiki-links function as the associative connections between chunks, hierarchical organization (folders, maps of content) mirrors the hierarchical nesting of chunks into schemas, and…
 
 ## Concrete Examples
 
@@ -325,7 +325,7 @@ importance: high
 > The developmental trajectory of chunk formation is particularly visible in medical imaging. A first-year radiology resident examining a chest X-ray must attend serially to each anatomical structure — the heart silhouette, the mediastinum, the lung fields, the bones — comparing each against remembered norms. The process is slow, demanding, and error-prone. An experienced radiologist, examining the same film, perceives the abnormality almost instantly — often within a second of viewing — because decades of experience have built chunks that encode normal and abnormal patterns as immediately…
 
 > [!example] **The Worked Example Effect and Its Reversal** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> The interaction between schema automation and cognitive load is demonstrated dramatically by the [[Worked-Example-Effect|worked example effect]] and the [[Expertise-Reversal-Effect|expertise reversal effect]]. For novice learners, studying [[Worked-Examples|worked examples]] — solutions with each step shown explicitly — is more effective than solving equivalent problems independently, because worked examples reduce extraneous load and allow working memory resources to be devoted to schema construction. But as learners develop expertise and automate the relevant schemas, worked examples become…
+> The interaction between schema automation and cognitive load is demonstrated dramatically by the [[worked-example-effect|worked example effect]] and the [[expertise-reversal-effect|expertise reversal effect]]. For novice learners, studying [[Worked-Examples|worked examples]] — solutions with each step shown explicitly — is more effective than solving equivalent problems independently, because worked examples reduce extraneous load and allow working memory resources to be devoted to schema construction. But as learners develop expertise and automate the relevant schemas, worked examples become…
 
 > [!example] **The Fading Worked Example Protocol** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
 > The tension between the worked example effect and the expertise reversal effect has been resolved through the technique of [[faded-worked-example|faded worked examples]], in which the completeness of the worked example is progressively reduced as the learner's expertise develops. Initial examples are fully worked, with every step shown. Subsequent examples omit one or two steps, requiring the learner to generate them. Later examples omit most steps, and eventually the learner transitions to unguided problem solving. This fading protocol tracks the learner's developing schema library: as…
@@ -353,7 +353,7 @@ importance: high
 
 > [!section-summary] **Section Summary** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
 > - Chunks are structured representational units bound by meaningful relations, not mere groupings; they possess internal coherence, hierarchical organization, and associative richness.
-> - Template theory refined early chunk models by introducing variable slots, bridging chunking with [[Schema-Theory|schema theory]] and accounting for expert flexibility in novel situations.
+> - Template theory refined early chunk models by introducing variable slots, bridging chunking with [[schema-theory|schema theory]] and accounting for expert flexibility in novel situations.
 > - Chunks nest hierarchically, and the depth of this nesting — not merely the number of chunks — distinguishes experts from novices.
 
 > [!section-summary] **Section Summary** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
@@ -363,8 +363,8 @@ importance: high
 
 > [!section-summary] **Section Summary** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
 > - Schemas are higher-order organizational frameworks constructed from individual chunks; they go beyond pattern recognition to provide interpretive and decision-making structures for entire categories of situations.
-> - [[Schema-Automation|Schema automation]] frees working memory resources, creating a self-reinforcing cycle in which each increment of automation opens cognitive space for further learning.
-> - [[Cognitive-Load-Theory|Cognitive load theory]] provides the instructional framework: effective teaching manages intrinsic load, minimizes extraneous load, and maximizes germane load in ways…
+> - [[schema-automation|Schema automation]] frees working memory resources, creating a self-reinforcing cycle in which each increment of automation opens cognitive space for further learning.
+> - [[cognitive-load-theory|Cognitive load theory]] provides the instructional framework: effective teaching manages intrinsic load, minimizes extraneous load, and maximizes germane load in ways…
 
 > [!section-summary] **Section Summary** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
 > - Expert pattern recognition, as described by the [[Recognition-Primed-Decision-Model|RPD model]], depends on the automatic activation of richly annotated chunks that encode situations, expectations, goals, and appropriate responses as integrated packages.
@@ -372,13 +372,13 @@ importance: high
 > - The accuracy of expert intuition is bounded by the representativeness of the chunk library, creating vulnerabilities when novel situations superficially…
 
 > [!section-summary] **Section Summary** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> - [[Deliberate-Practice|Deliberate practice]] is the developmental mechanism through which high-quality chunks are constructed; it is distinguished from routine experience by its targeted goals, focused effort, informative feedback, and operation at the boundary of current ability.
+> - [[deliberate-practice|Deliberate practice]] is the developmental mechanism through which high-quality chunks are constructed; it is distinguished from routine experience by its targeted goals, focused effort, informative feedback, and operation at the boundary of current ability.
 > - Chunking can be understood as the unit currency of deliberate practice — each cycle producing new chunks, enriched existing chunks, or hierarchically integrated chunk structures.
 > - Mental representations (internalized standards of excellence) serve as the schemas against which performance is evaluated, and…
 
 > [!section-summary] **Section Summary** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
-> - [[Cognitive-Load-Theory|Cognitive load theory]] translates chunking and schema theory into actionable instructional design principles, centered on managing the demands placed on working memory during learning.
-> - The [[Worked-Example-Effect|worked example effect]] and [[Expertise-Reversal-Effect|expertise reversal effect]] demonstrate that optimal instruction must be continuously calibrated to the learner's developing expertise — what helps novices can hinder experts.
+> - [[cognitive-load-theory|Cognitive load theory]] translates chunking and schema theory into actionable instructional design principles, centered on managing the demands placed on working memory during learning.
+> - The [[worked-example-effect|worked example effect]] and [[expertise-reversal-effect|expertise reversal effect]] demonstrate that optimal instruction must be continuously calibrated to the learner's developing expertise — what helps novices can hinder experts.
 > - The [[Four-Component-Instructional-Design|4C/ID model]] provides a comprehensive framework that manages the full…
 
 > [!section-summary] **Section Summary** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*
@@ -550,19 +550,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[chunking-and-expertise-development-foundational-report-2026-04-15]])*:
-- [[Working-Memory]]
-- [[Cognitive-Architecture]]
-- [[Information-Processing-Theory]]
-- [[Schema-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Memory-Systems]]
-- [[Instructional-Design]]
-- [[Deliberate-Practice-and-Expert-Development]]
-- [[Metacognition]]
-- [[Transfer-of-Learning]]
+- [[working-memory|Working-Memory]]
+- [[cognitive-architecture|Cognitive-Architecture]]
+- [[information-processing-theory|Information-Processing-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[memory-systems|Memory-Systems]]
+- [[instructional-design|Instructional-Design]]
+- [[deliberate-practice-and-expert-development|Deliberate-Practice-and-Expert-Development]]
+- [[metacognition|Metacognition]]
+- [[transfer-of-learning|Transfer-of-Learning]]
 
 **Related concepts:**
-[[Chunking]] · [[Working-Memory]] · [[Expertise]] · [[Schema]] · [[Long-Term-Memory]] · [[Deliberate-Practice]] · [[Schema-Automation]] · [[Cognitive-Load-Theory]] · [[Miller's-Magical-Number-Seven]] · [[Schema-Theory]] · [[Long-Term-Memory]] · [[Cognitive-Load-Theory]] · [[Instructional-Design]] · [[Working-Memory]] · [[Chunking]] · [[Long-Term-Memory]] · [[Working-Memory]] · [[Short-Term-Memory]] · [[Working-Memory-Capacity]] · [[Baddeley's-Working-Memory-Model]] · [[Cognitive-Architecture]] · [[Nelson-Cowan]] · [[George-Miller]] · [[Nelson-Cowan]] · [[Working-Memory-Capacity]] · [[Alan-Baddeley]] · [[Central-Executive]] · [[Phonological-Loop]] · [[Visuospatial-Sketchpad]] · [[Episodic-Buffer]]
+[[chunking|Chunking]] · [[working-memory|Working-Memory]] · [[expertise|Expertise]] · [[schema|Schema]] · [[long-term-memory|Long-Term-Memory]] · [[deliberate-practice|Deliberate-Practice]] · [[schema-automation|Schema-Automation]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[millers-magical-number-seven|Miller's-Magical-Number-Seven]] · [[schema-theory|Schema-Theory]] · [[long-term-memory|Long-Term-Memory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[instructional-design|Instructional-Design]] · [[working-memory|Working-Memory]] · [[chunking|Chunking]] · [[long-term-memory|Long-Term-Memory]] · [[working-memory|Working-Memory]] · [[short-term-memory|Short-Term-Memory]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[cognitive-architecture|Cognitive-Architecture]] · [[Nelson-Cowan|Nelson-Cowan]] · [[george-miller|George-Miller]] · [[Nelson-Cowan|Nelson-Cowan]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[alan-baddeley|Alan-Baddeley]] · [[central-executive|Central-Executive]] · [[phonological-loop|Phonological-Loop]] · [[visuospatial-sketchpad|Visuospatial-Sketchpad]] · [[episodic-buffer|Episodic-Buffer]]
 
 ## References
 

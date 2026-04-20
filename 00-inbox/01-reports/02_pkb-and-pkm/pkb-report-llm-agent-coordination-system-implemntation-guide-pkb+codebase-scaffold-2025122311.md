@@ -111,7 +111,7 @@ modified: 2025-12-23
 status: evergreen
 certainty: confident
 type: reference
-related: [[Sequential Prompt Engineering System]], [[Claude-Code]], [[Obsidian-PKB-Architecture]], [[Agent-Coordination-Patterns]]
+related: [[Sequential Prompt Engineering System]], [[Claude-Code]], [[obsidian-pkb-architecture]], [[Agent-Coordination-Patterns]]
 ---
 
 # 🤖 AI Agent Coordination System: Implementation Guide
@@ -1305,7 +1305,7 @@ Agent uses knowledge graph + semantic similarity
 **Depth Potential:** Maps working memory constraints to system architecture decisions  
 **Knowledge Graph Role:** Semantic bridge between learning science and AI UX design  
 **Priority:** Medium - Theoretical foundation for system  
-**Prerequisites:** [[Cognitive-Load-Theory]], understanding of agent workflows
+**Prerequisites:** [[cognitive-load-theory]], understanding of agent workflows
 
 ### 4. **[[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems]]**
 **Connection:** How multiple agents collaboratively building a knowledge graph affects graph structure  

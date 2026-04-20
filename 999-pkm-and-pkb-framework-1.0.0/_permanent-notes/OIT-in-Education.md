@@ -5,6 +5,7 @@
 title: "OIT in Education"
 aliases:
   - "OIT in Education"
+  - "OIT-in-Education"
   - "OIE"
 type: permanent-note
 status: evergreen
@@ -30,8 +31,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,7 +43,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -66,41 +67,41 @@ narrower:
   []
 
 see-also:
-  - "[[Organismic-Integration-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Metacognition]]"
-  - "[[Attachment-Theory]]"
-  - "[[Edward-Deci]]"
-  - "[[Richard-Ryan]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Internalization-Continuum]]"
-  - "[[Extrinsic-Motivation]]"
-  - "[[Autonomy-Support]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition-and-Motivation]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[attachment-theory|Attachment-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[internalization-continuum|Internalization-Continuum]]"
+  - "[[extrinsic-motivation|Extrinsic-Motivation]]"
+  - "[[autonomy-support|Autonomy-Support]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition-and-motivation|Metacognition-and-Motivation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Intrinsic-Motivation]]"
-  - "[[Humanistic-Psychology]]"
-  - "[[Basic-Psychological-Needs]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[humanistic-psychology|Humanistic-Psychology]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Basic-Psychological-Needs-Theory-BPNT-Priority-High-—-The-SDT-mini-t|> [!topic-idea] [[Basic-Psychological-Needs-Theory-(BPNT)]]
-> *Priority: High* — The SDT mini-theory]]"
+  - topic: "[[> [!topic-idea] [[Basic-Psychological-Needs-Theory-BPNT|Basic-Psychological-Needs-Theory-(BPNT)]]
+> ]]"
     description: ""
     priority: medium
 
@@ -115,7 +116,7 @@ importance: high
 # OIT in Education
 
 > [!definition] **OIT in Education** *(from [[organismic-integration-theory-foundational-report-2026-04-01]])*
-> [[Educational-Psychology]] applications of OIT examine how instructional design, teacher-student relationships, assessment practices, and school structures either facilitate or obstruct the internalization of academic values — the process by which students come to genuinely value learning rather than merely complying with its institutional demands.
+> [[educational-psychology]] applications of OIT examine how instructional design, teacher-student relationships, assessment practices, and school structures either facilitate or obstruct the internalization of academic values — the process by which students come to genuinely value learning rather than merely complying with its institutional demands.
 
 ## Core Explanation
 
@@ -163,7 +164,7 @@ importance: high
 > OIT's internalization framework has proven equally powerful in health behavior contexts, where the challenge of sustaining engagement with health-protective behaviors that are not intrinsically enjoyable maps precisely onto its explanatory terrain. The quality of motivation for health behaviors — whether externally pressured or autonomously valued — predicts outcomes that go far beyond short-term compliance to include durable habit formation, psychological well-being, and quality of life.
 
 > [!analytical-insight] Key Insight *(from [[organismic-integration-theory-foundational-report-2026-04-01]])*
-> Internalization as OIT conceptualizes it contains a structural tension: the process of integrating external values requires precisely the autonomous self-structure that internalization is supposed to produce — what can tentatively be called the [[Integration-Paradox]]. This is not merely an empirical challenge but a philosophical one that touches on fundamental questions about the conditions for genuine agency and the relationship between developmental history and current motivational…
+> Internalization as OIT conceptualizes it contains a structural tension: the process of integrating external values requires precisely the autonomous self-structure that internalization is supposed to produce — what can tentatively be called the [[integration-paradox]]. This is not merely an empirical challenge but a philosophical one that touches on fundamental questions about the conditions for genuine agency and the relationship between developmental history and current motivational…
 
 ## Practical Implications
 
@@ -222,7 +223,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge — Connecting to Your Existing Understanding** *(from [[organismic-integration-theory-foundational-report-2026-04-01]])*
-> Before entering OIT's specific theoretical terrain, it is worth activating the conceptual frameworks you likely bring to this material. If you have engaged with [[Self-Determination-Theory]] as a whole, you already have a foundational scaffold: you know that SDT is a macrotheory of motivation concerned with the conditions under which persons develop and function optimally, built around the claim that [[Basic-Psychological-Needs]] — autonomy, competence, and relatedness — are essential psychological nutrients. OIT operates as the mini-theory within SDT that explains what happens motivationally…
+> Before entering OIT's specific theoretical terrain, it is worth activating the conceptual frameworks you likely bring to this material. If you have engaged with [[self-determination-theory]] as a whole, you already have a foundational scaffold: you know that SDT is a macrotheory of motivation concerned with the conditions under which persons develop and function optimally, built around the claim that [[basic-psychological-needs]] — autonomy, competence, and relatedness — are essential psychological nutrients. OIT operates as the mini-theory within SDT that explains what happens motivationally…
 
 ## Concrete Examples
 
@@ -340,7 +341,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Organismic-Integration-Theory]] · [[Self-Determination-Theory]] · [[Basic-Psychological-Needs]] · [[Self-Regulated-Learning]] · [[Achievement-Goal-Theory]] · [[Metacognition]] · [[Attachment-Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[Self-Determination-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Intrinsic-Motivation]] · [[Internalization-Continuum]] · [[Extrinsic-Motivation]] · [[Autonomy-Support]] · [[Self-Determination-Theory]] · [[Basic-Psychological-Needs]] · [[Cognitive-Evaluation-Theory]] · [[Self-Regulated-Learning]] · [[Metacognition-and-Motivation]] · [[Growth-Mindset]] · [[Achievement-Goal-Theory]] · [[Organismic-Integration-Theory]] · [[Self-Determination-Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[Intrinsic-Motivation]] · [[Undermining-Effect]] · [[Overjustification-Effect]] · [[Cognitive-Evaluation-Theory]]
+[[organismic-integration-theory|Organismic-Integration-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[metacognition|Metacognition]] · [[attachment-theory|Attachment-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[self-determination-theory|Self-Determination-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[internalization-continuum|Internalization-Continuum]] · [[extrinsic-motivation|Extrinsic-Motivation]] · [[autonomy-support|Autonomy-Support]] · [[self-determination-theory|Self-Determination-Theory]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition-and-motivation|Metacognition-and-Motivation]] · [[growth-mindset|Growth-Mindset]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[undermining-effect|Undermining-Effect]] · [[overjustification-effect|Overjustification-Effect]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]
 
 ## References
 
@@ -376,7 +377,7 @@ importance: high
 > OIT's empirical base draws from multiple methodological traditions. The earliest and most foundational studies used behavioral measures in laboratory settings — time-on-task in free choice periods, response to performance-contingent versus task-contingent rewards. Later research deployed questionnaire measures of regulatory style, particularly the Academic Motivation Scale and the Self-Regulation Questionnaire developed by Ryan, Connell, and colleagues. Structural equation modeling studies tested the hypothesized causal pathways from environmental conditions through need satisfaction to…
 
 > [!methodology-and-sources] **Rationale for Far Transfer** *(from [[organismic-integration-theory-foundational-report-2026-04-01]])*
-> [[Transfer-of-Learning]] research distinguishes near transfer (applying skills within the same domain) from far transfer (structural principles applied to superficially different domains). Far transfer is cognitively demanding and educationally valuable — OIT's structural insights about the conditions for genuine versus pressured motivation illuminate phenomena in domains where the SDT literature has not explicitly ventured.
+> [[transfer-of-learning]] research distinguishes near transfer (applying skills within the same domain) from far transfer (structural principles applied to superficially different domains). Far transfer is cognitively demanding and educationally valuable — OIT's structural insights about the conditions for genuine versus pressured motivation illuminate phenomena in domains where the SDT literature has not explicitly ventured.
 
 ---
 

@@ -252,13 +252,13 @@ Each category should have:
 
 **WIKI-LINK OPPORTUNITIES:**
 - [[Dataview-Plugin]]
-- [[Obsidian]]
+- [[obsidian]]
 - [[Inline-Queries]]
 - [[Dataview Expressions]]
 - [[Metadata]]
 - [[Frontmatter]]
-- [[Zettelkasten]]
-- [[Personal-Knowledge-Base]]
+- [[zettelkasten]]
+- [[personal-knowledge-base]]
 - [[Templater Plugin]]
 - [[File-Properties]]
 - [[wiki-links]]
@@ -294,7 +294,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 
 > [!abstract]
 > **Executive Overview**
-> This note is an exhaustive taxonomy of [[Dataview-Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.
+> This note is an exhaustive taxonomy of [[Dataview-Plugin]] inline query patterns for [[obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -343,7 +343,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ```
 
 > [!example]
-> **Use Case**: [[Zettelkasten]] note gardening. The staleness indicator automatically classifies notes as "Fresh" (edited within 30 days), "Cold" (30-180 days), or "Cobwebs" (180+ days), enabling systematic review workflows.
+> **Use Case**: [[zettelkasten]] note gardening. The staleness indicator automatically classifies notes as "Fresh" (edited within 30 days), "Cold" (30-180 days), or "Cobwebs" (180+ days), enabling systematic review workflows.
 
 ### ⏳ Deadline & Time-Until Calculations
 
@@ -492,7 +492,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ```
 
 > [!helpful-tip]
-> The random outlink pattern creates serendipitous navigation paths—useful for [[Zettelkasten]] exploration and breaking filter bubbles in your knowledge graph.
+> The random outlink pattern creates serendipitous navigation paths—useful for [[zettelkasten]] exploration and breaking filter bubbles in your knowledge graph.
 
 ### 🌉 Cross-Reference Counting
 
@@ -517,7 +517,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ```
 
 > [!what-this-does]
-> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML-Frontmatter]] or [[Inline-Fields]]. Essential for template validation and metadata quality control.
+> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[yaml-frontmatter]] or [[Inline-Fields]]. Essential for template validation and metadata quality control.
 
 ### 🎚️ Multi-Level Conditionals
 
@@ -717,7 +717,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ```
 
 > [!what-this-does]
-> Syntax: `[[Note-Name]].field-name`. Works with both [[YAML-Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
+> Syntax: `[[Note-Name]].field-name`. Works with both [[yaml-frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
 
 ### 🔗 Multi-Note Data Aggregation
 
@@ -952,7 +952,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 > [!the-philosophy]
 > **The Philosophy of Inline Queries**
 > 
-> Inline queries transform your [[Personal-Knowledge-Base]] from a static archive into a living, reactive system. They embody the principle of "**write once, compute infinitely**"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed-Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.
+> Inline queries transform your [[personal-knowledge-base]] from a static archive into a living, reactive system. They embody the principle of "**write once, compute infinitely**"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[distributed-cognition]] architecture where your notes actively support knowledge work rather than passively storing it.
 
 ### 🧠 Cognitive Models
 
@@ -992,7 +992,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ### 🛠️ Common Patterns & Anti-Patterns
 
 **✅ DO:**
-- Cache complex queries in [[YAML-Frontmatter]] for reuse
+- Cache complex queries in [[yaml-frontmatter]] for reuse
 - Use inline queries for dynamic calculations, not static data
 - Combine with [[MOC]] patterns for vault-wide dashboards
 - Test queries in single notes before template-izing
@@ -1047,7 +1047,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 
 4. **[[Metadata Schema Design for PKBs]]**
    - *Connection*: Effective queries require well-designed metadata fields and naming conventions
-   - *Depth Potential*: [[YAML-Frontmatter]] standards, [[Inline-Fields]] best practices, field naming taxonomies
+   - *Depth Potential*: [[yaml-frontmatter]] standards, [[Inline-Fields]] best practices, field naming taxonomies
    - *Knowledge Graph Role*: Data architecture prerequisite for query effectiveness
 
 ---

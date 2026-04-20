@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,40 +69,40 @@ narrower:
   []
 
 see-also:
-  - "[[Working-Memory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Hermann-Ebbinghaus]]"
-  - "[[William-James]]"
-  - "[[Atkinson-Shiffrin-Multi-Store-Model]]"
-  - "[[Alan-Baddeley]]"
-  - "[[Graham-Hitch]]"
-  - "[[Endel-Tulving]]"
-  - "[[Hippocampus]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Encoding-Specificity-Principle]]"
-  - "[[Memory-Consolidation]]"
-  - "[[Spaced-Repetition]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Working-Memory]]"
-  - "[[Episodic-Memory]]"
-  - "[[Semantic-Memory]]"
-  - "[[Reconstructive-Memory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[hermann-ebbinghaus|Hermann-Ebbinghaus]]"
+  - "[[william-james|William-James]]"
+  - "[[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]]"
+  - "[[alan-baddeley|Alan-Baddeley]]"
+  - "[[graham-hitch|Graham-Hitch]]"
+  - "[[endel-tulving|Endel-Tulving]]"
+  - "[[hippocampus|Hippocampus]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[encoding-specificity-principle|Encoding-Specificity-Principle]]"
+  - "[[memory-consolidation|Memory-Consolidation]]"
+  - "[[spaced-repetition|Spaced-Repetition]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[episodic-memory|Episodic-Memory]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[reconstructive-memory|Reconstructive-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Information-Processing-Theory]]"
-  - "[[Atkinson-Shiffrin-Multi-Store-Model]]"
-  - "[[Dual-Coding-Theory]]"
+  - "[[information-processing-theory|Information-Processing-Theory]]"
+  - "[[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]]"
+  - "[[dual-coding-theory|Dual-Coding-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Metacognition-and-Memory-Monitoring-Description-The-processes-by-whi|> [!topic-idea] **[[Metacognition-and-Memory-Monitoring]]**
+  - topic: "[[> [!topic-idea] **[[Metacognition-and-Memory-Monitoring]]**
 > *Description:* The processes by which ]]"
     description: ""
     priority: medium
@@ -164,7 +164,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*
-> The claim that working memory holds 7 (or 4) items is frequently misapplied in instructional design and communication practice. The critical concept is the *chunk*, not the item. A single "item" for a domain expert is an entire complex configuration; a single item for a novice may be just one feature. This means that designing for "7 items" or "4 items" without accounting for the learner's prior knowledge and [[Chunking]] ability is meaningless — and may lead to either overwhelming novices…
+> The claim that working memory holds 7 (or 4) items is frequently misapplied in instructional design and communication practice. The critical concept is the *chunk*, not the item. A single "item" for a domain expert is an entire complex configuration; a single item for a novice may be just one feature. This means that designing for "7 items" or "4 items" without accounting for the learner's prior knowledge and [[chunking]] ability is meaningless — and may lead to either overwhelming novices…
 
 > [!warning] **Key Distinction** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*
 > One of the most robust and dangerous findings in the memory literature is that confidence in a memory correlation is near zero with accuracy. People who vividly and confidently "remember" events that demonstrably did not happen are not lying — they are experiencing genuine phenomenological recollection. This dissociation emerges clearly in the DRM paradigm (confident false recognition), in eyewitness testimony (confident misidentification produces wrongful convictions), and in recovered memory…
@@ -172,13 +172,13 @@ importance: high
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Hermann Ebbinghaus (1850-1909)** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*
-> German experimental psychologist who pioneered the quantitative study of memory. His self-experimental work (*Über das Gedächtnis*, 1885) established the forgetting curve, the spacing effect, and the method of savings in relearning. Ebbinghaus introduced the concept of the *nonsense syllable* as a controlled learning unit and invented the practice of learning-to-criterion paradigms. His empirical empiricism preceded the cognitive revolution by 70 years but established the quantitative, experimental character of memory research. Related figures: [[William-James]] (contemporary theorist),…
+> German experimental psychologist who pioneered the quantitative study of memory. His self-experimental work (*Über das Gedächtnis*, 1885) established the forgetting curve, the spacing effect, and the method of savings in relearning. Ebbinghaus introduced the concept of the *nonsense syllable* as a controlled learning unit and invented the practice of learning-to-criterion paradigms. His empirical empiricism preceded the cognitive revolution by 70 years but established the quantitative, experimental character of memory research. Related figures: [[william-james]] (contemporary theorist),…
 
 > [!person] **Frederic Bartlett (1886-1969)** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*
-> British psychologist whose *Remembering* (1932) demonstrated the constructive, schema-guided nature of memory through serial reproduction experiments. Bartlett challenged Ebbinghaus's decontextualized, atomistic approach and proposed that memory serves adaptive social and cognitive functions, not mere storage. His work was largely ignored for four decades, then recovered and became foundational to cognitive psychology in the schema-theoretic tradition. Related figures: [[Endel-Tulving]], [[Elizabeth-Loftus]].
+> British psychologist whose *Remembering* (1932) demonstrated the constructive, schema-guided nature of memory through serial reproduction experiments. Bartlett challenged Ebbinghaus's decontextualized, atomistic approach and proposed that memory serves adaptive social and cognitive functions, not mere storage. His work was largely ignored for four decades, then recovered and became foundational to cognitive psychology in the schema-theoretic tradition. Related figures: [[endel-tulving]], [[Elizabeth-Loftus]].
 
 > [!person] **Alan Baddeley (1934–)** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*
-> British cognitive psychologist who, with Graham Hitch, proposed the multicomponent working memory model (1974) that replaced the Atkinson-Shiffrin short-term memory store. Baddeley's subsequent four decades of work elaborated each component of the model, added the episodic buffer (2000), and integrated the model with neuropsychological evidence. His contributions defined the research program of working memory for five decades. Related figure: [[Graham-Hitch]], [[Nelson-Cowan]] (alternative models).
+> British cognitive psychologist who, with Graham Hitch, proposed the multicomponent working memory model (1974) that replaced the Atkinson-Shiffrin short-term memory store. Baddeley's subsequent four decades of work elaborated each component of the model, added the episodic buffer (2000), and integrated the model with neuropsychological evidence. His contributions defined the research program of working memory for five decades. Related figure: [[graham-hitch]], [[Nelson-Cowan]] (alternative models).
 
 > [!person] **Endel Tulving (1927–)** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*
 > Estonian-Canadian cognitive psychologist at the University of Toronto who proposed the episodic-semantic memory distinction (1972), developed the encoding specificity principle with Donald Thomson (1973), introduced the concept of autonoetic consciousness as the phenomenological mark of episodic memory, and conducted foundational work on the neuroscience of episodic memory. Tulving's theoretical innovations — establishing the multiple memory systems framework for declarative memory — are arguably the most influential contributions to LTM theory in the twentieth century. Related figures:…
@@ -411,7 +411,7 @@ importance: high
 > [!flashcard] **Card 8** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*
 > **Q:** Untitled
 > **A:** **Q:** What is the "expertise reversal effect" in Cognitive Load Theory, and what does it imply about instructional design?
-**A:** The expertise reversal effect (Sweller): instructional techniques effective for novices become redundant or even detrimental for experts. Specifically, the worked example effect — novices learn better from worked examples than from unguided problem-solving — reverses for experts, who are better served by problem-solving that extends their schemas. The implication: instructional design must be adaptive to learner expertise level; a single fixed instructional format will be suboptimal for at least one expertise level. Novices need scaffolded examples to reduce [[Element-Interactivity|element interactivity]]; experts need problems to challenge their existing schemas.
+**A:** The expertise reversal effect (Sweller): instructional techniques effective for novices become redundant or even detrimental for experts. Specifically, the worked example effect — novices learn better from worked examples than from unguided problem-solving — reverses for experts, who are better served by problem-solving that extends their schemas. The implication: instructional design must be adaptive to learner expertise level; a single fixed instructional format will be suboptimal for at least one expertise level. Novices need scaffolded examples to reduce [[element-interactivity|element interactivity]]; experts need problems to challenge their existing schemas.
 **Source:** Section 8
 **Difficulty:** Advanced
 **Tags:** cognitive-load-theory, expertise-reversal, worked-examples, instructional-design
@@ -501,19 +501,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[memory-systems-working-memory-and-long-term-memory-foundational-report-2026-04-07]])*:
-- [[Cognitive-Load-Theory]]
-- [[Self-Regulated-Learning]]
-- [[Information-Processing-Theory]]
-- [[Attention]]
-- [[Spaced-Repetition]]
-- [[Obsidian-Zettelkasten]]
-- [[Deliberate-Practice]]
-- [[Instructional-Design]]
-- [[Neural-Plasticity]]
-- [[Neuroplasticity]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[information-processing-theory|Information-Processing-Theory]]
+- [[attention|Attention]]
+- [[spaced-repetition|Spaced-Repetition]]
+- [[obsidian-zettelkasten|Obsidian-Zettelkasten]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[instructional-design|Instructional-Design]]
+- [[neural-plasticity|Neural-Plasticity]]
+- [[neuroplasticity|Neuroplasticity]]
 
 **Related concepts:**
-[[Working-Memory]] · [[Long-Term-Memory]] · [[Hermann-Ebbinghaus]] · [[William-James]] · [[Atkinson-Shiffrin-Multi-Store-Model]] · [[Alan-Baddeley]] · [[Graham-Hitch]] · [[Endel-Tulving]] · [[Hippocampus]] · [[Levels-of-Processing-Theory]] · [[Encoding-Specificity-Principle]] · [[Memory-Consolidation]] · [[Spaced-Repetition]] · [[Cognitive-Load-Theory]] · [[Personal-Knowledge-Base]] · [[Self-Regulated-Learning]] · [[Working-Memory]] · [[Episodic-Memory]] · [[Semantic-Memory]] · [[Reconstructive-Memory]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Spaced-Repetition]] · [[Endel-Tulving]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[Declarative-Memory]] · [[Episodic-Memory]] · [[Semantic-Memory]] · [[Procedural-Memory]]
+[[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[hermann-ebbinghaus|Hermann-Ebbinghaus]] · [[william-james|William-James]] · [[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]] · [[alan-baddeley|Alan-Baddeley]] · [[graham-hitch|Graham-Hitch]] · [[endel-tulving|Endel-Tulving]] · [[hippocampus|Hippocampus]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[encoding-specificity-principle|Encoding-Specificity-Principle]] · [[memory-consolidation|Memory-Consolidation]] · [[spaced-repetition|Spaced-Repetition]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[working-memory|Working-Memory]] · [[episodic-memory|Episodic-Memory]] · [[semantic-memory|Semantic-Memory]] · [[reconstructive-memory|Reconstructive-Memory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[schema-theory|Schema-Theory]] · [[spaced-repetition|Spaced-Repetition]] · [[endel-tulving|Endel-Tulving]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[declarative-memory|Declarative-Memory]] · [[episodic-memory|Episodic-Memory]] · [[semantic-memory|Semantic-Memory]] · [[procedural-memory|Procedural-Memory]]
 
 ## References
 

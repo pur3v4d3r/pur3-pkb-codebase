@@ -41,7 +41,7 @@ Use this to create other scaffolds, such as "Structural Scaffold: Analytical Rep
  **1. Define Core Parameters:**
     * **[TOPIC]:** {{Specify the central topic, concept, or question}}
     * **[DEPTH_LEVEL]:** {{e.g., "Encyclopedic overview," "In-depth technical analysis," "Historical context"}}
-    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept A]]`, `[[Theory B]]`}}
+    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept-A]]`, `[[Theory B]]`}}
 
  **2. Phase 1: Overture & Foundation (The "Why & What")**
     * **Abstract:** Start with a `> [!abstract]` callout. Provide a high-level, 1-2 paragraph summary of the entire topic.
@@ -66,7 +66,7 @@ Use this to create other scaffolds, such as "Structural Scaffold: Analytical Rep
     * **Goal:** This phase fulfills the "discovery" and "connection" requirements.
     * **Internal Connections:**
       * `> [!connections-and-links]`
-      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept A]]` and `[[Theory B]]`."
+      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept-A]]` and `[[Theory B]]`."
     * **External Exploration:**
       * `> [!further-exploration]`
       * `> Generate a list of 3-5 *new* topics, concepts, or questions that emerged from this report. These are "new avenues" for me to explore.`
@@ -106,7 +106,7 @@ author: {{Author's name, e.g., "ChatGPT"}}
 # CLASSIFICATION & DISCOVERY
 primary_domain: {{Primary domain of knowledge, e.g., "Cognitive Science"}}
 secondary_domains: {{List of secondary domains, e.g., ["Philosophy", "Neuroscience"]}}
-related_concepts: {{List of related concepts, e.g., ["[[Concept A]]", "[[Theory B]]"]}}
+related_concepts: {{List of related concepts, e.g., ["[[Concept-A]]", "[[Theory B]]"]}}
 knowledge_level: {{Level of depth, e.g., "Encyclopedic overview", "In-depth technical analysis", "Historical context"}}
 tags: {{List of relevant tags, e.g., ["#cognition", "#philosophy", "#neuroscience"]}}
 
@@ -135,7 +135,7 @@ based_on_prompts: {{List of prompts used to generate the content, e.g., ["Prompt
 
 # KNOWLEDGE GRAPH INTEGRATION
 related_concepts:
-  - "[[Concept A]]"
+  - "[[Concept-A]]"
   - "[[Theory B]]"
 
 prerequisites:
@@ -144,7 +144,7 @@ prerequisites:
 
 builds_on:
   - "[[Theory X]]"
-  - "[[Concept Y]]"
+  - "[[Concept-Y]]"
 
 extends:
   - "[[Concept Z]]"
@@ -330,31 +330,31 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Introduction-to-Critical-Thinking]]"
+  - "[[introduction-to-critical-thinking]]"
   - "[[Metacognition Fundamentals]]"
   - "[[Basic Argument Analysis]]"
   - "[[Logical Reasoning Foundations]]"
 
 related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive-Awareness-Inventory]]"
-  - "[[Epistemic-Vigilance]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Argument-Analysis]]"
+  - "[[epistemic-vigilance]]"
+  - "[[dual-process-theory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[argument-analysis]]"
   - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
-  - "[[Scientific-Reasoning]]"
-  - "[[Transfer-of-Learning]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Confirmation-Bias]]"
-  - "[[Availability-Heuristic]]"
-  - "[[Anchoring Bias]]"
+  - "[[scientific-reasoning]]"
+  - "[[transfer-of-learning]]"
+  - "[[self-regulated-learning]]"
+  - "[[confirmation-bias]]"
+  - "[[availability-heuristic]]"
+  - "[[Anchoring-Bias]]"
 
 broader:
   - "[[cognitive-psychology]]"
-  - "[[Educational-Psychology]]"
+  - "[[educational-psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -369,15 +369,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise-Development]]"
-  - "[[Reflective-Judgment-Model]]"
-  - "[[Intellectual-Humility]]"
+  - "[[expertise-development]]"
+  - "[[reflective-judgment-model]]"
+  - "[[intellectual-humility]]"
   - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
-  - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem-Analysis]]"
-  - "[[Red-Team-Thinking]]"
-  - "[[Cognitive-Forcing-Functions]]"
+  - "[[socratic-questioning]]"
+  - "[[pre-mortem-analysis]]"
+  - "[[red-team-thinking]]"
+  - "[[cognitive-forcing-functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
@@ -387,17 +387,17 @@ contrasts-with:
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
-  - "[[Strategic-Planning]]"
+  - "[[strategic-planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based-Practice]]"
+  - "[[evidence-based-practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Foundational-Logic]]"
-  - "[[Cognitive-Development-Theory]]"
-  - "[[Information-Processing-Models]]"
+  - "[[foundational-logic]]"
+  - "[[cognitive-development-theory]]"
+  - "[[information-processing-models]]"
 
 enables:
   - "[[Advanced Reasoning Techniques]]"

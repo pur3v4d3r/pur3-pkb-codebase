@@ -64,8 +64,8 @@ title: "<% await tp.system.prompt("Title for YAML:") %>"
 *What clicked for you? What was the "aha!" moment?*
 
 **Connection to Prior Knowledge:**
-- How does this relate to [[Concept X]] that you already understand?
-- How does this contrast with [[Concept Y]]?
+- How does this relate to [[Concept-X]] that you already understand?
+- How does this contrast with [[Concept-Y]]?
 
 ### Practical Applications for <% tp.frontmatter.key-term %>
 

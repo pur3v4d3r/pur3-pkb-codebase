@@ -161,7 +161,7 @@ I want to develop a prompt that can have an agent  [orclaude-project] perform a 
 >
 > - **[[Dual-Process-Thinking-Model]]** — Your project's implementation of this concept in extended thinking architecture is a direct application of Kahneman's framework. The `<thinking>` block as mandated System 2 engagement zone now has its theoretical grounding. Understanding the human cognitive science makes the architectural choice legible as cognitively informed design rather than arbitrary convention.
 >
-> - **[[Metacognitive-Scaffolding]]** and **[[Metacognitive-Monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
+> - **[[metacognitive-scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
 >
 > - **[[ReAct-Framework]]** — The Research → Think → Act → Observe cycle is structurally isomorphic to Dewey's five phases of reflective thinking. ReAct is, in effect, Deweyan reflective inquiry encoded as an agentic architecture. This connection illuminates why ReAct works: it enforces the same cycle that cognitive science identifies as the structure of genuine inquiry.
 >
@@ -192,7 +192,7 @@ author: {{Author's name, e.g., "ChatGPT"}}
 # CLASSIFICATION & DISCOVERY
 primary_domain: {{Primary domain of knowledge, e.g., "Cognitive Science"}}
 secondary_domains: {{List of secondary domains, e.g., ["Philosophy", "Neuroscience"]}}
-related_concepts: {{List of related concepts, e.g., ["[[Concept A]]", "[[Theory B]]"]}}
+related_concepts: {{List of related concepts, e.g., ["[[Concept-A]]", "[[Theory B]]"]}}
 knowledge_level: {{Level of depth, e.g., "Encyclopedic overview", "In-depth technical analysis", "Historical context"}}
 tags: {{List of relevant tags, e.g., ["#cognition", "#philosophy", "#neuroscience"]}}
 
@@ -221,7 +221,7 @@ based_on_prompts: {{List of prompts used to generate the content, e.g., ["Prompt
 
 # KNOWLEDGE GRAPH INTEGRATION
 related_concepts:
-  - "[[Concept A]]"
+  - "[[Concept-A]]"
   - "[[Theory B]]"
 
 prerequisites:
@@ -230,7 +230,7 @@ prerequisites:
 
 builds_on:
   - "[[Theory X]]"
-  - "[[Concept Y]]"
+  - "[[Concept-Y]]"
 
 extends:
   - "[[Concept Z]]"
@@ -411,31 +411,31 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Introduction-to-Critical-Thinking]]"
+  - "[[introduction-to-critical-thinking]]"
   - "[[Metacognition Fundamentals]]"
   - "[[Basic Argument Analysis]]"
   - "[[Logical Reasoning Foundations]]"
 
 related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive-Awareness-Inventory]]"
-  - "[[Epistemic-Vigilance]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Argument-Analysis]]"
+  - "[[epistemic-vigilance]]"
+  - "[[dual-process-theory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[argument-analysis]]"
   - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
-  - "[[Scientific-Reasoning]]"
-  - "[[Transfer-of-Learning]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Confirmation-Bias]]"
-  - "[[Availability-Heuristic]]"
-  - "[[Anchoring Bias]]"
+  - "[[scientific-reasoning]]"
+  - "[[transfer-of-learning]]"
+  - "[[self-regulated-learning]]"
+  - "[[confirmation-bias]]"
+  - "[[availability-heuristic]]"
+  - "[[Anchoring-Bias]]"
 
 broader:
   - "[[cognitive-psychology]]"
-  - "[[Educational-Psychology]]"
+  - "[[educational-psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -450,15 +450,15 @@ narrower:
 
 see-also:
   - "[[Working Memory and Executive Function]]"
-  - "[[Expertise-Development]]"
-  - "[[Reflective-Judgment-Model]]"
-  - "[[Intellectual-Humility]]"
+  - "[[expertise-development]]"
+  - "[[reflective-judgment-model]]"
+  - "[[intellectual-humility]]"
   - "[[Bayesian-Reasoning]]"
   - "[[Argument-Mapping]]"
-  - "[[Socratic-Questioning]]"
-  - "[[Pre-Mortem-Analysis]]"
-  - "[[Red-Team-Thinking]]"
-  - "[[Cognitive-Forcing-Functions]]"
+  - "[[socratic-questioning]]"
+  - "[[pre-mortem-analysis]]"
+  - "[[red-team-thinking]]"
+  - "[[cognitive-forcing-functions]]"
 
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
@@ -468,17 +468,17 @@ contrasts-with:
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
-  - "[[Strategic-Planning]]"
+  - "[[strategic-planning]]"
   - "[[Problem Solving in Complex Domains]]"
-  - "[[Evidence-Based-Practice]]"
+  - "[[evidence-based-practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Foundational-Logic]]"
-  - "[[Cognitive-Development-Theory]]"
-  - "[[Information-Processing-Models]]"
+  - "[[foundational-logic]]"
+  - "[[cognitive-development-theory]]"
+  - "[[information-processing-models]]"
 
 enables:
   - "[[Advanced Reasoning Techniques]]"

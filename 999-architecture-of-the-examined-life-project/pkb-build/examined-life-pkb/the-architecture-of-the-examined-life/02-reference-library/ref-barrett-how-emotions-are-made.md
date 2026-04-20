@@ -62,7 +62,7 @@ Against this view, Barrett argues that **emotions are constructed by the brain i
 
 2. **[[Conceptualization]]**: The brain applies learned **[[Emotion-Concepts]]** to categorize this core affect into specific emotional experiences. Someone with rich emotion concepts can construct fine-grained emotional experiences (schadenfreude, moral indignation, wistful nostalgia); someone with coarse concepts experiences only broad affective states (good/bad, agitated/calm).
 
-**The epistemic significance**: Emotions are not raw biological impulses that overwhelm reason but *constructed evaluations* that carry cognitive content. The quality of your emotional experience depends on the precision of your emotion concepts — which means **[[Emotional-Granularity]]** (the ability to make fine-grained emotional distinctions) is a trainable skill with direct practical consequences.
+**The epistemic significance**: Emotions are not raw biological impulses that overwhelm reason but *constructed evaluations* that carry cognitive content. The quality of your emotional experience depends on the precision of your emotion concepts — which means **[[emotional-granularity]]** (the ability to make fine-grained emotional distinctions) is a trainable skill with direct practical consequences.
 
 Barrett's framework introduces **[[Affective-Realism]]** — the experimentally-demonstrated phenomenon that emotional states don't just color interpretation but *shape perception itself*. A person in a state of fear literally perceives threat-relevant features more readily; someone experiencing anger perceives hostile intent in ambiguous facial expressions. Emotions constitute part of the perceptual process, not a post-perceptual bias to be corrected.
 
@@ -72,7 +72,7 @@ Barrett's framework introduces **[[Affective-Realism]]** — the experimentally-
 
 ### Report 09 — The Embodied Reasoner
 
-Barrett's **Theory of Constructed Emotion** provides the neuroscientific foundation for understanding emotions as embodied cognition. Her account of [[Core-Affect]] as interoceptive prediction connects directly to [[Anil-Seth]]'s interoceptive inference framework — both are applying [[Predictive-Processing]] to the body's internal signals. This establishes that emotional and physiological dimensions of cognition are not separate systems but different levels of description of the same predictive process.
+Barrett's **Theory of Constructed Emotion** provides the neuroscientific foundation for understanding emotions as embodied cognition. Her account of [[Core-Affect]] as interoceptive prediction connects directly to [[Anil-Seth]]'s interoceptive inference framework — both are applying [[predictive-processing]] to the body's internal signals. This establishes that emotional and physiological dimensions of cognition are not separate systems but different levels of description of the same predictive process.
 
 The synthesis move: Barrett's interoceptive predictions are the mechanistic basis for [[Damasio]]'s [[Somatic-Markers]] (from [[ref-damasio-descartes-error|*Descartes' Error*]]). Damasio documented *that* bodily signals guide decision-making; Barrett explains *how* through predictive construction.
 
@@ -83,19 +83,19 @@ The synthesis move: Barrett's interoceptive predictions are the mechanistic basi
 2. Obstacles to govern (Report 06)
 3. **Epistemic signals carrying genuine information** (Report 10's contribution)
 
-Barrett's TCE establishes that emotions are *constructed evaluations* carrying specific information about how situations relate to goals and values. The report synthesizes TCE with [[Appraisal-Theory]] (Lazarus, Scherer) and the Stoic [[Pathē]]/[[Eupatheia]] distinction to argue that emotional wisdom is not suppression but **calibration** — developing emotional granularity and appraisal accuracy so emotional signals become more informative.
+Barrett's TCE establishes that emotions are *constructed evaluations* carrying specific information about how situations relate to goals and values. The report synthesizes TCE with [[appraisal-theory]] (Lazarus, Scherer) and the Stoic [[Pathē]]/[[Eupatheia]] distinction to argue that emotional wisdom is not suppression but **calibration** — developing emotional granularity and appraisal accuracy so emotional signals become more informative.
 
 **The structural homology synthesis**: Barrett's distinction between raw core affect (pre-emotional interoceptive flux) and constructed emotion (conceptualized affect) maps precisely onto the Stoic distinction between [[Propatheiai]] (first movements, involuntary affective reactions) and [[Pathē]] (passions, involving cognitive assent to evaluative judgments). Both frameworks describe emotions as acts of cognitive interpretation, not mere biological reactions.
 
-**[[Emotional-Granularity]]** becomes the central practical recommendation: people with high emotional granularity make finer distinctions (anxiety vs. excitement, frustration vs. disappointment, moral indignation vs. personal offense), which enables more precise affective responses and better emotional regulation outcomes.
+**[[emotional-granularity]]** becomes the central practical recommendation: people with high emotional granularity make finer distinctions (anxiety vs. excitement, frustration vs. disappointment, moral indignation vs. personal offense), which enables more precise affective responses and better emotional regulation outcomes.
 
 **[[Affective-Realism]]** introduces a critical complication: miscalibrated emotions don't just distort judgment *about* what you perceive — they distort *what you literally perceive*. The examined life must include practices for managing these perceptual distortions, not just reasoning well about emotions.
 
 ### Report 13 — The Predictive Mind (Mechanistic Integration)
 
-Report 13 integrates Barrett's predictive account of emotion construction into [[Andy-Clark]]'s broader [[Predictive-Processing]] framework (from [[ref-clark-surfing-uncertainty|*Surfing Uncertainty*]]). Barrett has already applied predictive processing to emotion; Report 13 extends this to show that TCE is not an isolated theory but an instance of the brain's general prediction-error-minimization architecture.
+Report 13 integrates Barrett's predictive account of emotion construction into [[andy-clark]]'s broader [[predictive-processing]] framework (from [[ref-clark-surfing-uncertainty|*Surfing Uncertainty*]]). Barrett has already applied predictive processing to emotion; Report 13 extends this to show that TCE is not an isolated theory but an instance of the brain's general prediction-error-minimization architecture.
 
-The synthesis: [[Kahneman]]'s [[System-1]] and [[System-2]] (from [[ref-kahneman-thinking-fast-and-slow|*Thinking, Fast and Slow*]]) are reconceptualized as cached predictions (System 1) vs. prediction-error-driven updating (System 2). Barrett's constructed emotions are System 1's cached affective predictions — rapid, automatic categorizations of interoceptive data. When these predictions fail (you feel fear but nothing dangerous appears), System 2 engages to revise the model.
+The synthesis: [[Kahneman]]'s [[system-1]] and [[system-2]] (from [[ref-kahneman-thinking-fast-and-slow|*Thinking, Fast and Slow*]]) are reconceptualized as cached predictions (System 1) vs. prediction-error-driven updating (System 2). Barrett's constructed emotions are System 1's cached affective predictions — rapid, automatic categorizations of interoceptive data. When these predictions fail (you feel fear but nothing dangerous appears), System 2 engages to revise the model.
 
 The mechanistic unification shows that inquiry activation, embodied cognition, emotional calibration, and deliberate reasoning are all aspects of the same prediction-error-minimization process operating at different timescales and hierarchical levels.
 
@@ -109,7 +109,7 @@ All of these concepts are developed in detail in the [[glossary]]:
 - **[[Emotion-Concepts]]**: Learned categories applied to core affect to construct specific emotional experiences; richness of concepts determines granularity of emotional experience
 - **[[Theory-of-Constructed-Emotion]]** (TCE): Barrett's framework that emotions are constructed instances built from interoceptive predictions and learned concepts, not universal innate responses
 - **[[Affective-Realism]]**: The phenomenon that emotional states shape perception itself, not just post-perceptual interpretation; demonstrated through altered perceptual decision parameters
-- **[[Emotional-Granularity]]** / [[Emotion-Differentiation]]: The degree of specificity with which individuals distinguish emotional experiences; predicts better emotion regulation and decision-making
+- **[[emotional-granularity]]** / [[Emotion-Differentiation]]: The degree of specificity with which individuals distinguish emotional experiences; predicts better emotion regulation and decision-making
 - **[[Interoceptive Prediction]]**: The brain's continuous predictive modeling of the body's internal state, which constitutes the bodily dimension of emotional experience
 - **[[Classical-View-of-Emotion]]**: The rejected framework that each emotion has dedicated neural circuitry and universal expression — Barrett argues for population thinking and degeneracy instead
 - **[[Population Thinking]]**: Barrett's application of evolutionary biology's concept to emotion — no single canonical instance of "anger" or "fear," but variable populations of instances sharing family resemblance
@@ -162,4 +162,4 @@ Barrett, Lisa Feldman. (2017). *How Emotions Are Made: The Secret Life of the Br
   - [[report-09-the-embodied-reasoner|Report 09 — The Embodied Reasoner]] (interoceptive prediction foundation)
   - [[report-10-the-feeling-reasoner|Report 10 — The Feeling Reasoner]] (central framework role)
   - [[report-13-the-predictive-mind|Report 13 — The Predictive Mind]] (mechanistic integration)
-- **Key Glossary Terms**: [[Core-Affect]], [[Theory-of-Constructed-Emotion]], [[Affective-Realism]], [[Emotional-Granularity]], [[Emotion-Concepts]]
+- **Key Glossary Terms**: [[Core-Affect]], [[Theory-of-Constructed-Emotion]], [[Affective-Realism]], [[emotional-granularity]], [[Emotion-Concepts]]

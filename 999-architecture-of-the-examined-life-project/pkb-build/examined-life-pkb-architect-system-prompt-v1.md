@@ -521,7 +521,7 @@ link-up: string [REQUIRED]
 
 link-related: array [OPTIONAL]
   # Related notes for graph context
-  # Format: ["[[note-name-1]]", "[[note-name-2]]"]
+  # Format: ["[[Note-Name-1]]", "[[Note-Name-2]]"]
 
 # ── Accessibility ──────────────────────────────────────────────────
 accessibility-level: string [REQUIRED]

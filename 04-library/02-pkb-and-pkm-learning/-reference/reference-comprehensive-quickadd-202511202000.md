@@ -41,7 +41,7 @@ aliases: [QuickAdd Plugin, QA Automation, Obsidian QuickAdd, Rapid Capture Syste
 
 > [!abstract]
 > **Executive Overview**
-> QuickAdd is a powerful automation plugin for [[Obsidian]] that transforms note creation, task capture, and knowledge management workflows through macros, templates, and intelligent choice menus. It serves as the connective tissue between rapid thought capture and structured knowledge organization, enabling friction-free information processing in your [[Personal-Knowledge-Base]].
+> QuickAdd is a powerful automation plugin for [[obsidian]] that transforms note creation, task capture, and knowledge management workflows through macros, templates, and intelligent choice menus. It serves as the connective tissue between rapid thought capture and structured knowledge organization, enabling friction-free information processing in your [[personal-knowledge-base]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -63,7 +63,7 @@ aliases: [QuickAdd Plugin, QA Automation, Obsidian QuickAdd, Rapid Capture Syste
 ## 🎯 Core Concepts & Architecture
 
 > [!definition]
-> - **QuickAdd**:: A meta-automation plugin for [[Obsidian]] that enables rapid note creation, content capture, and workflow execution through a unified command palette interface
+> - **QuickAdd**:: A meta-automation plugin for [[obsidian]] that enables rapid note creation, content capture, and workflow execution through a unified command palette interface
 > - **Macro**:: A sequence of automated actions (create note, insert template, run scripts) triggered by a single command
 > - **Choice**:: A decision point in the QuickAdd menu that branches to different actions based on user selection
 
@@ -115,7 +115,7 @@ QuickAdd organizes all functionality into four fundamental choice types, each se
 > **Template choices** insert pre-written content (with optional variable substitution) into the current note or a new file. They're the simplest QuickAdd action type.
 
 **Core Capabilities:**
-- Insert Markdown templates with [[YAML-Frontmatter]]
+- Insert Markdown templates with [[yaml-frontmatter]]
 - Support variable replacement via `{{value:variable_name}}`
 - Can create new files or append to existing ones
 - Integration with [[Templater]] for advanced dynamic content
@@ -308,7 +308,7 @@ module.exports = async (params) => {
 
 ## 🔧 Five Production-Ready Macro Examples
 
-These macros represent real-world, battle-tested automation patterns designed for a comprehensive [[Personal-Knowledge-Base]]. Each follows the architectural principles from your PKB roadmap.
+These macros represent real-world, battle-tested automation patterns designed for a comprehensive [[personal-knowledge-base]]. Each follows the architectural principles from your PKB roadmap.
 
 ### Macro 1: 📥 Rapid Thought Capture to Inbox
 
@@ -1645,7 +1645,7 @@ Structural Planning:
   * Choice system
   * Advanced patterns and integration
   * Troubleshooting
-- Wiki-Link Opportunities: [[Obsidian]], [[Templater]], [[Dataview]], [[Personal-Knowledge-Management]], [[Zettelkasten]], [[automation]], [[Metadata]], [[YAML-Frontmatter]], [[JavaScript]], [[Markdown]], etc.
+- Wiki-Link Opportunities: [[obsidian]], [[Templater]], [[Dataview]], [[personal-knowledge-management]], [[zettelkasten]], [[automation]], [[Metadata]], [[yaml-frontmatter]], [[JavaScript]], [[Markdown]], etc.
 - Callout Strategy:
   * [!definition] for core concepts
   * [!methodology-and-sources] for macro implementation

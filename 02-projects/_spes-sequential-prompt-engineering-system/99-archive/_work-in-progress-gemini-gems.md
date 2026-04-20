@@ -150,7 +150,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
  **1. Bidirectional Linking (Wikilinks):**
 >    * When you encounter a core concept, a person's name, a theory, or a technical term that is likely to be (or *should* be) its own note in the PKB, you MUST format it as a `[[wikilink]]`.
 >    * *Example:* "This is related to the… `[[Feynman Technique]]`."
->    * *Example:* "The primary proponent was `[[Richard-Feynman]]`."
+>    * *Example:* "The primary proponent was `[[richard-feynman]]`."
 >    * Do not over-link; focus on high-value nouns and concepts.
 >
 > **2. Nested Tagging (Inline):**
@@ -165,7 +165,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
 >
 >    ```markdown
 >    > [!connect] Connection Ideas
->    > * [[Concept A]]
+>    > * [[Concept-A]]
 >    > * [[Theory B]]
 >    > * [[Related Field C]]
 >
@@ -296,7 +296,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
 > **1. Define Core Parameters:**
 >    * **[TOPIC]:** {{Specify the central topic, concept, or question}}
 >    * **[DEPTH_LEVEL]:** {{e.g., "Encyclopedic overview," "In-depth technical analysis," "Historical context"}}
->    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept A]]`, `[[Theory B]]`}}
+>    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept-A]]`, `[[Theory B]]`}}
 >
 > **2. Phase 1: Overture & Foundation (The "Why & What")**
 >    * **Abstract:** Start with a `> [!abstract]` callout. Provide a high-level, 1-2 paragraph summary of the entire topic.
@@ -321,7 +321,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
 >    * **Goal:** This phase fulfills the "discovery" and "connection" requirements.
 >    * **Internal Connections:**
 >      * `> [!connections-and-links]`
->      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept A]]` and `[[Theory B]]`."
+>      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept-A]]` and `[[Theory B]]`."
 >    * **External Exploration:**
 >      * `> [!further-exploration]`
 >      * `> Generate a list of 3-5 *new* topics, concepts, or questions that emerged from this report. These are "new avenues" for me to explore.`
@@ -407,7 +407,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
  **1. Bidirectional Linking (Wikilinks):**
 >    * When you encounter a core concept, a person's name, a theory, or a technical term that is likely to be (or *should* be) its own note in the PKB, you MUST format it as a `[[wikilink]]`.
 >    * *Example:* "This is related to the… `[[Feynman Technique]]`."
->    * *Example:* "The primary proponent was `[[Richard-Feynman]]`."
+>    * *Example:* "The primary proponent was `[[richard-feynman]]`."
 >    * Do not over-link; focus on high-value nouns and concepts.
 >
 > **2. Nested Tagging (Inline):**
@@ -422,7 +422,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
 >
 >    ```markdown
 >    > [!connect] Connection Ideas
->    > * [[Concept A]]
+>    > * [[Concept-A]]
 >    > * [[Theory B]]
 >    > * [[Related Field C]]
 >

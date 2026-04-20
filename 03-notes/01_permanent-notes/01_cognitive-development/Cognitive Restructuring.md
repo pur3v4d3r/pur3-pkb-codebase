@@ -25,18 +25,18 @@ link-related:
   - "[[2025-11-22|Daily-Note]]"
   - "[[Cognitive Processes]]"
   - "[[cognitive-psychology]]"
-  - "[[Cognitive-Science]]"
+  - "[[cognitive-science]]"
   - "[[Cognitive Theory]]"
-  - "[[Epistemic-Cognition]]"
+  - "[[epistemic-cognition]]"
   - "[[Extended Mind]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Metacognition]]"
-  - "[[Neuroplasticity]]"
+  - "[[long-term-memory]]"
+  - "[[metacognition]]"
+  - "[[neuroplasticity]]"
   - "[[schemas]]"
-  - "[[Self-Directed-Learning]]"
+  - "[[self-directed-learning]]"
   - "[[Self-Regulation-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Socratic-Method]]"
+  - "[[self-determination-theory]]"
+  - "[[socratic-method]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -53,7 +53,7 @@ review-priority: medium
 # Cognitive Restructuring
 
 > [!definition]
-> - **Key-Term**:[[Cognitive-Restructuring]]
+> - **Key-Term**:[[cognitive-restructuring]]
 > - [**Definition**:This is a therapeutic process, commonly used in Cognitive Behavioral Therapy (CBT), that helps individuals identify, challenge, and modify their dysfunctional or negative automatic thoughts and core beliefs into more balanced and realistic perspectives.]
 
 ## Foundational Understanding

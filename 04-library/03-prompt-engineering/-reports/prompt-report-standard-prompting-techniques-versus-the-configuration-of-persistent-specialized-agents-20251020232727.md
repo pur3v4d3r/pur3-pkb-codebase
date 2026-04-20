@@ -394,7 +394,7 @@ This technological shift is not merely an incremental upgrade. It represents a p
 
 > [!connection-ideas]
 >
-> The principles discussed here strongly connect to the field of [[Personal Knowledge Management (PKM)]] and the [[Zettelkasten]] method.
+> The principles discussed here strongly connect to the field of [[Personal Knowledge Management (PKM)]] and the [[zettelkasten]] method.
 >
 > - A standard chat is like a fleeting conversation. You might learn something, but the insight is lost unless you manually write it down.
 > 

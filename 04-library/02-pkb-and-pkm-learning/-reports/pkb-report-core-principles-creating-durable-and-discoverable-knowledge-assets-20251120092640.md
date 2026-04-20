@@ -167,8 +167,8 @@ Adopting this triad is not just about better note-taking. It is an act of applie
 
 > [!connection-ideas]
 > Sketch a mind-map linking the "Content-Context-Metadata" triad to these concepts:
-> - `[[Zettelkasten]]`
-> - `[[Cognitive-Load-Theory]]`
+> - `[[zettelkasten]]`
+> - `[[cognitive-load-theory]]`
 > - `[[Information-Architecture]]`
 > - `[[Library Science]]`
 

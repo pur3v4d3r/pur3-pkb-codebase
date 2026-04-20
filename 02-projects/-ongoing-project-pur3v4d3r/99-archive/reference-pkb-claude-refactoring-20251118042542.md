@@ -31,9 +31,9 @@ aliases: [PKB Refactoring Dashboard, Naming Convention Update Center, Tag Migrat
 # 🏗️ PKB Refactoring Dashboard: Naming & Tag Migration Center
 
 > [!the-purpose]
-> **Mission**: This dashboard serves as your command center for systematically updating your [[Personal-Knowledge-Base]] [[Naming Conventions]] and [[Tag Taxonomy]] while managing [[Cognitive-Load-Theory|cognitive load]] and maintaining [[Working-Memory]] efficiency throughout the refactoring process.
+> **Mission**: This dashboard serves as your command center for systematically updating your [[personal-knowledge-base]] [[Naming Conventions]] and [[Tag Taxonomy]] while managing [[cognitive-load-theory|cognitive load]] and maintaining [[working-memory]] efficiency throughout the refactoring process.
 > 
-> **Why This Matters**: Refactoring a PKB's foundational structure is cognitively demanding work that requires sustained [[Decision-Making]], pattern recognition, and quality assurance. This dashboard externalizes that cognitive burden into a structured workflow that prevents [[Decision-Fatigue]] and ensures consistency.
+> **Why This Matters**: Refactoring a PKB's foundational structure is cognitively demanding work that requires sustained [[decision-making]], pattern recognition, and quality assurance. This dashboard externalizes that cognitive burden into a structured workflow that prevents [[Decision-Fatigue]] and ensures consistency.
 
 ---
 
@@ -107,7 +107,7 @@ SORT file.name ASC
 > - What naming patterns currently exist?
 > - Which tags are overloaded or underutilized?
 > - Where do [[Folder Structure]] and tags conflict?
-> - What [[Obsidian]] plugins depend on current structure?
+> - What [[obsidian]] plugins depend on current structure?
 > - Which notes are hardest to find or navigate to?
 
 ---
@@ -360,7 +360,7 @@ SORT file.name ASC
 > 
 > ### Problem: Broken Wiki-Links After Rename
 > **Symptom**: [[Old Note Name]] links don't resolve
-> **Solution**: Use [[Obsidian]]'s "Update internal links" option when renaming, or use [[aliases]] to maintain old names temporarily
+> **Solution**: Use [[obsidian]]'s "Update internal links" option when renaming, or use [[aliases]] to maintain old names temporarily
 > 
 > ### Problem: Tag Explosion (Too Many Tags)
 > **Symptom**: Tags become noise rather than signal
@@ -539,9 +539,9 @@ LIMIT 20
 > [!connections-and-links]
 > **Related PKB Resources**
 > 
-> - [[Personal-Knowledge-Base]] - Core PKB philosophy and architecture
-> - [[Zettelkasten]] - Note-taking methodology informing structure
-> - [[Obsidian]] - Platform-specific features and capabilities
+> - [[personal-knowledge-base]] - Core PKB philosophy and architecture
+> - [[zettelkasten]] - Note-taking methodology informing structure
+> - [[obsidian]] - Platform-specific features and capabilities
 > - [[Naming Conventions]] - Detailed specification document
 > - [[Tag Taxonomy]] - Comprehensive tag hierarchy reference
 > - [[Metadata Architecture]] - Field definitions and usage guide
@@ -551,9 +551,9 @@ LIMIT 20
 > - [[MOC]] - Map of Content creation and management
 > 
 > **Workflow Support Notes**:
-> - [[Cognitive-Load-Theory]] - Understanding mental bandwidth
+> - [[cognitive-load-theory]] - Understanding mental bandwidth
 > - [[Decision-Fatigue]] - Managing choice exhaustion
-> - [[Working-Memory]] - Optimizing cognitive capacity
+> - [[working-memory]] - Optimizing cognitive capacity
 > - [[Batch Processing]] - Efficient task grouping strategies
 > - [[Refactoring]] - Software engineering principles applied to knowledge work
 
@@ -646,7 +646,7 @@ I'll create a comprehensive reference note with:
 - Examples and templates
 
 **Wiki-links to identify:**
-[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Obsidian]], [[Zettelkasten]], [[PARA-Method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[YAML-Frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[Cognitive-Load]], [[Mental-Models]], [[MOC]], [[Atomic-Notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building-a-Second-Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
+[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[obsidian]], [[zettelkasten]], [[para-method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[yaml-frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[cognitive-load]], [[mental-models]], [[MOC]], [[Atomic-Notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building-a-Second-Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
 
 **Callouts to use (selecting 10-15 from the pool):**
 - [!definition] - for key terms
@@ -733,7 +733,7 @@ Hierarchies are inherently "top-down," designed for centralized control, while n
 > 
 > 7. **Build Evolution Protocols** — Establish processes for adding new tags, merging redundant tags, and refactoring as your knowledge evolves.
 
-In [[Obsidian]], tags can be nested using the forward slash (`/`), creating parent-child relationships where both the parent and child tags are automatically applied. For example, `#cognitive-abilities/metacognition/self-monitoring` applies three tags: `#cognitive-abilities`, `#cognitive-abilities/metacognition`, and the full path.
+In [[obsidian]], tags can be nested using the forward slash (`/`), creating parent-child relationships where both the parent and child tags are automatically applied. For example, `#cognitive-abilities/metacognition/self-monitoring` applies three tags: `#cognitive-abilities`, `#cognitive-abilities/metacognition`, and the full path.
 
 > [!warning]
 > ### The Tag Proliferation Problem
@@ -806,7 +806,7 @@ Personal tag vocabularies can be highly specific to your field or profession, cr
 > [!use-cases-and-examples]
 > **Note Type Taxonomy** — Identifies the structural and functional nature of the note:
 > 
-> - `#type/atomic` — Single-concept [[Atomic-Notes]] following [[Zettelkasten]] principles
+> - `#type/atomic` — Single-concept [[Atomic-Notes]] following [[zettelkasten]] principles
 > - `#type/reference` — Comprehensive resource notes with exhaustive coverage
 > - `#type/literature` — Notes from external sources (books, papers, articles)
 > - `#type/synthesis` — Integration notes connecting multiple concepts
@@ -866,9 +866,9 @@ Personal tag vocabularies can be highly specific to your field or profession, cr
 ## ⚙️ Obsidian-Specific Implementation
 
 > [!helpful-tip]
-> ### Note-Level vs. Inline Tags in [[Obsidian]]
+> ### Note-Level vs. Inline Tags in [[obsidian]]
 > 
-> There are two ways to apply tags in Obsidian: note-level tags in the [[YAML-Frontmatter]] properties section, and inline tags appearing anywhere in the note body.
+> There are two ways to apply tags in Obsidian: note-level tags in the [[yaml-frontmatter]] properties section, and inline tags appearing anywhere in the note body.
 > 
 > **Best Practice:** Use note-level tags for classification (domain, type, status, source) and inline tags for content-specific markers that apply only to particular sections.
 
@@ -885,7 +885,7 @@ aliases: [Metacognitive Awareness, Thinking About Thinking]
 ---
 ```
 
-### Tag Naming Conventions for [[Obsidian]]
+### Tag Naming Conventions for [[obsidian]]
 
 > [!constraints-and-pitfalls]
 > **Obsidian Tag Syntax Rules:**
@@ -1078,7 +1078,7 @@ This note is simultaneously:
 > [!the-philosophy]
 > Hybrid taxonomy provides both structured browsing for exploratory users and precision filtering for goal-oriented searches through hierarchical structure for main navigation, faceted filtering for advanced search, and intelligent tagging to bridge formal categories and natural language.
 
-**Implementation in [[Obsidian]]:**
+**Implementation in [[obsidian]]:**
 
 - **Folders** — Represent major projects or temporal organization (PARA method, journals)
 - **Tags** — Provide content-based, cross-cutting classification
@@ -1100,7 +1100,7 @@ This note is simultaneously:
 ### Search Operators with Tags
 
 > [!helpful-tip]
-> **Advanced [[Obsidian]] Search Patterns:**
+> **Advanced [[obsidian]] Search Patterns:**
 > 
 > ```
 > tag:#cognitive-abilities/metacognition -tag:#status/archived
@@ -1187,7 +1187,7 @@ Controlled Taxonomy ←→ Organic Folksonomy
 
 1. **[[Metadata Standards for PKM]]**
    - *Connection*: Metadata extends beyond tags to include dates, authors, sources, relationships, and custom properties that enhance note classification and retrieval
-   - *Depth Potential*: Comprehensive metadata schemas, [[YAML-Frontmatter]] templating, [[Dataview]] property queries, and integration with external citation management systems merit dedicated exploration
+   - *Depth Potential*: Comprehensive metadata schemas, [[yaml-frontmatter]] templating, [[Dataview]] property queries, and integration with external citation management systems merit dedicated exploration
    - *Knowledge Graph Role*: Understanding metadata architecture connects tag taxonomy to broader information architecture concerns, linking to [[Information Retrieval]], [[Semantic Web]], and [[Linked Data]] concepts
 
 2. **[[Faceted Classification Systems]]**

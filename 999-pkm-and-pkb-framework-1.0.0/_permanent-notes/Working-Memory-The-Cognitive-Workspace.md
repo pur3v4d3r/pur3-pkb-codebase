@@ -31,8 +31,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,7 +43,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -67,40 +67,40 @@ narrower:
   []
 
 see-also:
-  - "[[Phonological-Loop]]"
-  - "[[Central-Executive]]"
-  - "[[Episodic-Buffer]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Multimedia-Learning]]"
-  - "[[Phonological-Loop]]"
-  - "[[Central-Executive]]"
-  - "[[Episodic-Buffer]]"
-  - "[[Information-Processing-Theory]]"
-  - "[[Multi-Store-Model]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Memory-Systems]]"
-  - "[[Multi-Store-Model]]"
-  - "[[Alan-Baddeley]]"
-  - "[[Graham-Hitch]]"
+  - "[[phonological-loop|Phonological-Loop]]"
+  - "[[central-executive|Central-Executive]]"
+  - "[[episodic-buffer|Episodic-Buffer]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[multimedia-learning|Multimedia-Learning]]"
+  - "[[phonological-loop|Phonological-Loop]]"
+  - "[[central-executive|Central-Executive]]"
+  - "[[episodic-buffer|Episodic-Buffer]]"
+  - "[[information-processing-theory|Information-Processing-Theory]]"
+  - "[[multi-store-model|Multi-Store-Model]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[memory-systems|Memory-Systems]]"
+  - "[[multi-store-model|Multi-Store-Model]]"
+  - "[[alan-baddeley|Alan-Baddeley]]"
+  - "[[graham-hitch|Graham-Hitch]]"
   - "[[cognitive-psychology]]"
-  - "[[Richard-Atkinson]]"
-  - "[[Richard-Shiffrin]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Long-Term-Memory]]"
+  - "[[richard-atkinson|Richard-Atkinson]]"
+  - "[[richard-shiffrin|Richard-Shiffrin]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Multi-Store-Model]]"
-  - "[[Short-Term-Memory]]"
-  - "[[Selective-Attention]]"
+  - "[[multi-store-model|Multi-Store-Model]]"
+  - "[[short-term-memory|Short-Term-Memory]]"
+  - "[[selective-attention|Selective-Attention]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Cognitive-Load-Theory-—-Deep-Dive-Connection-CLT-is-directly-derived|> [!topic-idea] Cognitive Load Theory — Deep Dive
+  - topic: "[[> [!topic-idea] Cognitive Load Theory — Deep Dive
 > **Connection**: CLT is directly derived from the]]"
     description: ""
     priority: medium
@@ -116,7 +116,7 @@ importance: high
 # Working Memory  The Cognitive Workspace
 
 > [!definition] **Working Memory  The Cognitive Workspace** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> **Working memory** refers to the temporary storage and active manipulation of information necessary for complex cognitive tasks such as reasoning, comprehension, learning, and action. Unlike passive short-term memory stores in older models, working memory is fundamentally active: it is a workspace where information is not merely held but operated upon, transformed, combined with information from long-term memory, and used to guide ongoing cognition. [[Alan-Baddeley]] and [[Graham-Hitch]] proposed in 1974 that this workspace is not a unitary buffer but a multicomponent system with distinct subsystems serving different functional roles.
+> **Working memory** refers to the temporary storage and active manipulation of information necessary for complex cognitive tasks such as reasoning, comprehension, learning, and action. Unlike passive short-term memory stores in older models, working memory is fundamentally active: it is a workspace where information is not merely held but operated upon, transformed, combined with information from long-term memory, and used to guide ongoing cognition. [[alan-baddeley]] and [[graham-hitch]] proposed in 1974 that this workspace is not a unitary buffer but a multicomponent system with distinct subsystems serving different functional roles.
 
 ## Core Explanation
 
@@ -136,7 +136,7 @@ importance: high
 > **Miyake, A., Friedman, N. P., Emerson, M. J., Witzki, A. H., Howerter, A., & Wager, T. D. (2000).** The unity and diversity of executive functions and their contributions to complex "frontal lobe" tasks: A latent variable analysis. *Cognitive Psychology, 41*, 49–100. — The landmark latent variable study that fractionated executive functions into shifting, updating, and inhibition, providing a principled decomposition of Baddeley's central executive.
 
 > [!evidence] Supporting Evidence *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> **Sweller, J. (1988).** Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*, 257–285. — The founding paper of [[Cognitive-Load-Theory]], explicitly drawing on Baddeley's working memory architecture to explain why problem-solving is often an inefficient instructional method compared to worked examples.
+> **Sweller, J. (1988).** Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*, 257–285. — The founding paper of [[cognitive-load-theory]], explicitly drawing on Baddeley's working memory architecture to explain why problem-solving is often an inefficient instructional method compared to worked examples.
 
 > [!evidence] Supporting Evidence *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
 > **Mayer, R. E. (2009).** *Multimedia learning* (2nd ed.). Cambridge University Press. — The comprehensive statement of the Cognitive Theory of Multimedia Learning with its twelve design principles, evidence base, moderating variables, and connections to Baddeley's working memory architecture.
@@ -160,7 +160,7 @@ importance: high
 > **Engle, R. W., Tuholski, S. W., Laughlin, J. E., & Conway, A. R. A. (1999).** Working memory, short-term memory, and general fluid intelligence: A latent-variable approach. *Journal of Experimental Psychology: General, 128*(3), 309–331. — The latent variable study demonstrating that complex span (working memory capacity) and simple span are separable constructs, and that working memory capacity uniquely predicts fluid intelligence beyond short-term memory.
 
 > [!analytical-insight] Key Insight *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> The neuropsychological case of patient KF, reported by Shallice and Warrington, demonstrated that individuals with severely impaired short-term memory capacity could still consolidate new information into [[Long-Term-Memory]]. This was logically incompatible with the [[Multi-Store-Model]]'s claim that the short-term store served as a mandatory bottleneck through which all information had to pass before long-term encoding. The working memory model arose, in part, to resolve this theoretical…
+> The neuropsychological case of patient KF, reported by Shallice and Warrington, demonstrated that individuals with severely impaired short-term memory capacity could still consolidate new information into [[long-term-memory]]. This was logically incompatible with the [[multi-store-model]]'s claim that the short-term store served as a mandatory bottleneck through which all information had to pass before long-term encoding. The working memory model arose, in part, to resolve this theoretical…
 
 > [!analytical-insight] Key Insight *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
 > One of the most important theoretical contributions of the central executive is its role in explaining individual differences in working memory capacity. Research by Engle, Kane, and colleagues proposed that working memory capacity differences should be understood primarily as differences in **controlled attention** — the ability to maintain goal-relevant information in an active, accessible state in the face of interference and distraction — rather than as differences in the passive storage…
@@ -188,10 +188,10 @@ importance: high
 > **Nelson Cowan** developed the embedded-processes model of working memory as the primary theoretical alternative to Baddeley's multicomponent framework. His 2001 capacity estimate of ~4 chunks in the focus of attention has become a widely cited marker of working memory's fundamental limit. His work on the development of working memory in childhood (alongside colleagues including Candice Morey and Christopher Jarrold) has been particularly influential on developmental cognitive psychology.
 
 > [!person] **John Sweller** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> **John Sweller** developed [[Cognitive-Load-Theory]] explicitly from Baddeley's working memory architecture, first articulating the theory in his 1988 paper on cognitive load during problem-solving. His programme of research identified the split-attention effect, the worked-example effect, the modality effect, and many other instructional phenomena predicted by CLT, and his collaborations with Fred Paas, Paul Chandler, and others produced the extensive meta-analytic evidence base that CLT now rests on.
+> **John Sweller** developed [[cognitive-load-theory]] explicitly from Baddeley's working memory architecture, first articulating the theory in his 1988 paper on cognitive load during problem-solving. His programme of research identified the split-attention effect, the worked-example effect, the modality effect, and many other instructional phenomena predicted by CLT, and his collaborations with Fred Paas, Paul Chandler, and others produced the extensive meta-analytic evidence base that CLT now rests on.
 
 > [!person] **Richard Mayer (1947– )** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> **Richard Mayer** developed the [[Cognitive-Theory-of-Multimedia-Learning]] in parallel with CLT, drawing on Baddeley's dual-channel architecture to produce twelve multimedia design principles supported by a large body of controlled experimental evidence. His textbook *Multimedia Learning* (2001; 2nd ed. 2009) is one of the most widely used educational psychology references internationally. His research on the modality effect, coherence principle, and segmenting principle has directly informed e-learning design worldwide.
+> **Richard Mayer** developed the [[cognitive-theory-of-multimedia-learning]] in parallel with CLT, drawing on Baddeley's dual-channel architecture to produce twelve multimedia design principles supported by a large body of controlled experimental evidence. His textbook *Multimedia Learning* (2001; 2nd ed. 2009) is one of the most widely used educational psychology references internationally. His research on the modality effect, coherence principle, and segmenting principle has directly informed e-learning design worldwide.
 
 ## Conceptual Tensions
 
@@ -254,7 +254,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: What You Already Know About Working Memory** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> Before you encounter Baddeley's formal model, you already possess rich intuitive knowledge about the cognitive phenomena it describes. When you pause mid-sentence while reading to hold a sentence's beginning in mind long enough to integrate it with the end, you are using your [[Phonological-Loop]]. When you mentally rotate a floor plan to figure out where furniture will fit, you are using your visuospatial sketchpad. When you simultaneously follow a conversation while monitoring background noise for your name — shunting attention between competing streams — you are deploying your…
+> Before you encounter Baddeley's formal model, you already possess rich intuitive knowledge about the cognitive phenomena it describes. When you pause mid-sentence while reading to hold a sentence's beginning in mind long enough to integrate it with the end, you are using your [[phonological-loop]]. When you mentally rotate a floor plan to figure out where furniture will fit, you are using your visuospatial sketchpad. When you simultaneously follow a conversation while monitoring background noise for your name — shunting attention between competing streams — you are deploying your…
 
 ## Far Transfer Applications
 
@@ -269,7 +269,7 @@ importance: high
 ## Concrete Examples
 
 > [!example] **The Working Memory in Arithmetic** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> Consider mental arithmetic: 37 × 8. To solve this, you must hold "37" and "8" in mind simultaneously, retrieve multiplication facts from [[Long-Term-Memory]], compute 30 × 8 = 240 while holding this partial result, then compute 7 × 8 = 56 while retaining 240, then add 240 + 56 = 296 while holding both results. This task demands not just passive storage but active coordination between temporary storage buffers and an attentional-executive controller that sequences operations, retrieves long-term knowledge, and integrates partial results. A single unitary buffer cannot explain the distinct…
+> Consider mental arithmetic: 37 × 8. To solve this, you must hold "37" and "8" in mind simultaneously, retrieve multiplication facts from [[long-term-memory]], compute 30 × 8 = 240 while holding this partial result, then compute 7 × 8 = 56 while retaining 240, then add 240 + 56 = 296 while holding both results. This task demands not just passive storage but active coordination between temporary storage buffers and an attentional-executive controller that sequences operations, retrieves long-term knowledge, and integrates partial results. A single unitary buffer cannot explain the distinct…
 
 > [!example] **Phonological Loop in Language Learning** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
 > The phonological loop's role in foreign language acquisition illustrates its developmental importance. When learning a new word in a second language, the learner must temporarily hold the phonological form of the new word in the phonological store long enough to establish a stable long-term phonological representation. Research by Papagno, Valentine, and Baddeley demonstrated that patients with articulatory suppression showed dramatically impaired foreign vocabulary learning but relatively normal first-language associative learning. Children with good phonological working memory show superior…
@@ -292,7 +292,7 @@ importance: high
 > One of the most intellectually compelling aspects of the visuospatial sketchpad is the way it raises deep questions about the relationship between perception and cognition. When you mentally rotate an object, do you recruit the same neural machinery as when you actually perceive that object rotating? Neuroimaging evidence strongly suggests you do — mental imagery activates much of the same visual cortex as perceptual experience. This finding, pioneered by Stephen Kosslyn and Roger Shepard, blurs the boundary between memory and perception, suggesting that visual working memory is not a…
 
 > [!claude-insight] **The Central Executive as Cognitive Identity** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
-> The central executive is, in a provocative but defensible sense, the seat of cognitive agency. The phonological loop and visuospatial sketchpad are specialized resources that operate largely automatically once activated; but the central executive is where voluntary cognitive control happens. When a skilled learner decides to stop reading passively and instead generate questions about the material — deliberately engaging [[Metacognitive-Regulation]] — that decision instantiates executive control over cognitive processing. When a deliberate practitioner of [[Deliberate-Practice]] forces their…
+> The central executive is, in a provocative but defensible sense, the seat of cognitive agency. The phonological loop and visuospatial sketchpad are specialized resources that operate largely automatically once activated; but the central executive is where voluntary cognitive control happens. When a skilled learner decides to stop reading passively and instead generate questions about the material — deliberately engaging [[metacognitive-regulation]] — that decision instantiates executive control over cognitive processing. When a deliberate practitioner of [[deliberate-practice]] forces their…
 
 > [!claude-insight] **The Episodic Buffer and Learning-Centered Assessment** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*
 > The episodic buffer's role in integrating information from multiple sources has profound implications for how we should design learning experiences and assess understanding. A learner who cannot construct an integrated episodic representation of the material they are studying — who can recite isolated facts but cannot bind them into a coherent situational understanding — has not engaged the episodic buffer appropriately. This suggests that effective learning assessment should probe for integrative understanding rather than isolated recall: can the learner describe a scenario that combines…
@@ -397,38 +397,38 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*:
-- [[Cognitive-Psychology-Core-Concepts]]
-- [[Information-Processing-Theory]]
-- [[Multi-Store-Model]]
-- [[Short-Term-Memory]]
-- [[Selective-Attention]]
-- [[Cognitive-Architecture]]
-- [[Miller's-Magical-Number-Seven]]
+- [[cognitive-psychology-core-concepts|Cognitive-Psychology-Core-Concepts]]
+- [[information-processing-theory|Information-Processing-Theory]]
+- [[multi-store-model|Multi-Store-Model]]
+- [[short-term-memory|Short-Term-Memory]]
+- [[selective-attention|Selective-Attention]]
+- [[cognitive-architecture|Cognitive-Architecture]]
+- [[millers-magical-number-seven|Miller's-Magical-Number-Seven]]
 
 **Cross-report connections** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*:
-- [[Cognitive-Load-Theory]]
-- [[Cognitive-Theory-of-Multimedia-Learning]]
-- [[Metacognition]]
-- [[Self-Regulated-Learning]]
-- [[Deliberate-Practice]]
-- [[Schema-Theory]]
-- [[Instructional-Design]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]]
+- [[metacognition|Metacognition]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[schema-theory|Schema-Theory]]
+- [[instructional-design|Instructional-Design]]
 
 **Cross-report connections** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*:
-- [[Dual-Coding-Theory]]
-- [[Levels-of-Processing-Theory]]
-- [[Cowan's-Embedded-Processes-Model]]
-- [[Executive-Function]]
-- [[Long-Term-Memory]]
+- [[dual-coding-theory|Dual-Coding-Theory]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[cowans-embedded-processes-model|Cowan's-Embedded-Processes-Model]]
+- [[executive-function|Executive-Function]]
+- [[long-term-memory|Long-Term-Memory]]
 
 **Cross-report connections** *(from [[baddeley-model-of-working-memory-foundational-report-2026-04-03]])*:
-- [[Metacognitive-Self-Regulation]]
-- [[Spaced-Repetition]]
-- [[Chunking]]
-- [[Transfer-of-Learning]]
+- [[metacognitive-self-regulation|Metacognitive-Self-Regulation]]
+- [[spaced-repetition|Spaced-Repetition]]
+- [[chunking|Chunking]]
+- [[transfer-of-learning|Transfer-of-Learning]]
 
 **Related concepts:**
-[[Phonological-Loop]] · [[Central-Executive]] · [[Episodic-Buffer]] · [[Cognitive-Load-Theory]] · [[Multimedia-Learning]] · [[Phonological-Loop]] · [[Central-Executive]] · [[Episodic-Buffer]] · [[Information-Processing-Theory]] · [[Multi-Store-Model]] · [[Cognitive-Architecture]] · [[Memory-Systems]] · [[Multi-Store-Model]] · [[Alan-Baddeley]] · [[Graham-Hitch]] · [[cognitive-psychology]] · [[Richard-Atkinson]] · [[Richard-Shiffrin]] · [[Long-Term-Memory]] · [[Long-Term-Memory]] · [[Multi-Store-Model]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Long-Term-Memory]] · [[cognitive-psychology]] · [[George-Miller]] · [[Multi-Store-Model]] · [[Long-Term-Memory]] · [[Allan-Baddeley]] · [[Graham-Hitch]]
+[[phonological-loop|Phonological-Loop]] · [[central-executive|Central-Executive]] · [[episodic-buffer|Episodic-Buffer]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[multimedia-learning|Multimedia-Learning]] · [[phonological-loop|Phonological-Loop]] · [[central-executive|Central-Executive]] · [[episodic-buffer|Episodic-Buffer]] · [[information-processing-theory|Information-Processing-Theory]] · [[multi-store-model|Multi-Store-Model]] · [[cognitive-architecture|Cognitive-Architecture]] · [[memory-systems|Memory-Systems]] · [[multi-store-model|Multi-Store-Model]] · [[alan-baddeley|Alan-Baddeley]] · [[graham-hitch|Graham-Hitch]] · [[cognitive-psychology]] · [[richard-atkinson|Richard-Atkinson]] · [[richard-shiffrin|Richard-Shiffrin]] · [[long-term-memory|Long-Term-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[multi-store-model|Multi-Store-Model]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition|Metacognition]] · [[long-term-memory|Long-Term-Memory]] · [[cognitive-psychology]] · [[george-miller|George-Miller]] · [[multi-store-model|Multi-Store-Model]] · [[long-term-memory|Long-Term-Memory]] · [[allan-baddeley|Allan-Baddeley]] · [[graham-hitch|Graham-Hitch]]
 
 ## References
 
@@ -437,7 +437,7 @@ importance: high
 - **Baddeley, A. D. (2012)**: **Baddeley, A. D. (2012).** Working memory: Theories, models, and controversies. *Annual Review of Psychology, 63*, 1–29. — Baddeley's comprehensive review of the model's development, empirical status, and major theoretical controversies, including the competing models of Cowan and Ericsson; considered the definitive statement of the mature version of the theory.
 - **Cowan, N. (2001)**: **Cowan, N. (2001).** The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. — The primary statement of Cowan's embedded-processes model and his ~4-chunk capacity estimate for the focus of attention, challenging important assumptions of the Baddeley-Hitch model.
 - **Miyake, A., et al. (2000)**: **Miyake, A., Friedman, N. P., Emerson, M. J., Witzki, A. H., Howerter, A., & Wager, T. D. (2000).** The unity and diversity of executive functions and their contributions to complex "frontal lobe" tasks: A latent variable analysis. *Cognitive Psychology, 41*, 49–100. — The landmark latent variable study that fractionated executive functions into shifting, updating, and inhibition, providing a principled decomposition of Baddeley's central executive.
-- **Sweller, J. (1988)**: **Sweller, J. (1988).** Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*, 257–285. — The founding paper of [[Cognitive-Load-Theory]], explicitly drawing on Baddeley's working memory architecture to explain why problem-solving is often an inefficient instructional method compared to worked examples.
+- **Sweller, J. (1988)**: **Sweller, J. (1988).** Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*, 257–285. — The founding paper of [[cognitive-load-theory]], explicitly drawing on Baddeley's working memory architecture to explain why problem-solving is often an inefficient instructional method compared to worked examples.
 - **Mayer, R. E. (2009)**: **Mayer, R. E. (2009).** *Multimedia learning* (2nd ed.). Cambridge University Press. — The comprehensive statement of the Cognitive Theory of Multimedia Learning with its twelve design principles, evidence base, moderating variables, and connections to Baddeley's working memory architecture.
 - **Daneman, M., & Carpenter, P. A. (1980)**: **Daneman, M., & Carpenter, P. A. (1980).** Individual differences in working memory and reading. *Journal of Verbal Learning and Verbal Behavior, 19*, 450–466. — The introduction of the Reading Span task and the first demonstration of the strong predictive relationship between working memory capacity and reading comprehension, launching the individual differences research programme.
 - **Gathercole, S. E., & Alloway, T. P. (2008)**: **Gathercole, S. E., & Alloway, T. P. (2008).** *Working memory and learning: A practical guide for teachers*. SAGE. — Applied translation of working memory research for educational practitioners, covering working memory assessment, implications for children with learning difficulties, and classroom strategies for working memory support.

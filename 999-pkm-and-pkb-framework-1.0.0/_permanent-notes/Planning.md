@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,41 +69,41 @@ narrower:
   []
 
 see-also:
-  - "[[Metacognitive-Regulation]]"
-  - "[[Metacognition]]"
-  - "[[Ann-Brown]]"
-  - "[[Gregory-Schraw]]"
-  - "[[Regulation-of-Cognition]]"
-  - "[[Knowledge-of-Cognition]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Illusion-of-Knowing]]"
-  - "[[Dunning-Kruger-Effect]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Gregory-Schraw]]"
-  - "[[Metacognition]]"
-  - "[[Knowledge-of-Cognition]]"
-  - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Strategy]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Regulation-of-Cognition]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Self-Regulation]]"
-  - "[[Monitoring-Regulation-Coupling]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[ann-brown|Ann-Brown]]"
+  - "[[gregory-schraw|Gregory-Schraw]]"
+  - "[[regulation-of-cognition|Regulation-of-Cognition]]"
+  - "[[knowledge-of-cognition|Knowledge-of-Cognition]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[illusion-of-knowing|Illusion-of-Knowing]]"
+  - "[[dunning-kruger-effect|Dunning-Kruger-Effect]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[gregory-schraw|Gregory-Schraw]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[knowledge-of-cognition|Knowledge-of-Cognition]]"
+  - "[[declarative-procedural-and-conditional-metacognitive-knowledge|Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
+  - "[[metacognitive-strategy|Metacognitive-Strategy]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[regulation-of-cognition|Regulation-of-Cognition]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[metacognitive-self-regulation|Metacognitive-Self-Regulation]]"
+  - "[[monitoring-regulation-coupling|Monitoring-Regulation-Coupling]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Metacognition]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Working-Memory]]"
-  - "[[Cognitive-Control]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[Cognitive-Control|Cognitive-Control]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Metacognitive-AccuracyMetacognitive-Accuracy-Description-A-dedicated|> [!topic-idea] [[Metacognitive-Accuracy|Metacognitive Accuracy]]
+  - topic: "[[> [!topic-idea] [[metacognitive-accuracy|Metacognitive Accuracy]]
 > **Description:** A dedicated fou]]"
     description: ""
     priority: medium
@@ -119,13 +119,13 @@ importance: high
 # Planning
 
 > [!definition] **Planning** *(from [[metacognitive-regulation-foundational-report-2026-03-31]])*
-> Planning is the prospective regulatory activity that occurs before task engagement and involves goal-setting, strategy selection, resource allocation, and activation of relevant prior knowledge. Effective metacognitive planning requires accurate task assessment (what does this task demand?), accurate personal assessment (what are my relevant strengths and limitations?), and adequate strategy knowledge (what approaches are likely to be effective?). Planning is the regulatory component most directly dependent on [[Metacognitive-Knowledge|Metacognitive Knowledge]], since strategy selection without a knowledge base of available strategies is impossible.
+> Planning is the prospective regulatory activity that occurs before task engagement and involves goal-setting, strategy selection, resource allocation, and activation of relevant prior knowledge. Effective metacognitive planning requires accurate task assessment (what does this task demand?), accurate personal assessment (what are my relevant strengths and limitations?), and adequate strategy knowledge (what approaches are likely to be effective?). Planning is the regulatory component most directly dependent on [[metacognitive-knowledge|Metacognitive Knowledge]], since strategy selection without a knowledge base of available strategies is impossible.
 > 
 > **Boundary:** Metacognitive planning, in the technical sense, is distinct from domain-level planning (planning a solution path in mathematics, for instance). Metacognitive planning operates one level above: it is planning about how to approach the cognitive work, not planning within the cognitive work itself.
 > 
 > **Operational Indicator:** Metacognitive planning manifests behaviorally in activities such as pre-reading structure surveys, goal articulation before studying, time allocation across study sessions, and deliberate selection of a comprehension strategy before engaging a difficult text.
 > 
-> **See also:** [[Self-Regulated-Learning|Self-Regulated Learning]], [[Forethought-Phase|Forethought Phase]], [[Metacognitive-Strategy|Metacognitive Strategy]], [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+> **See also:** [[self-regulated-learning|Self-Regulated Learning]], [[forethought-phase|Forethought Phase]], [[metacognitive-strategy|Metacognitive Strategy]], [[prior-knowledge-activation|Prior Knowledge Activation]]
 
 ## Core Explanation
 
@@ -207,7 +207,7 @@ importance: high
 > Planning is the regulatory component most amenable to instruction precisely because it is the most knowledge-dependent. Interventions that expand a learner's strategic repertoire and explicitly train task-type analysis produce reliable improvements in planning quality and, through planning quality, downstream improvements in monitoring and control.
 
 > [!analytical-insight] Key Insight *(from [[metacognitive-regulation-foundational-report-2026-03-31]])*
-> A learner who monitors accurately but maintains too high a control threshold will fail to respond to genuine comprehension failures — she will detect the problem but not act on it. This is a failure of **[[Monitoring-Control-Coupling|Monitoring-Control Coupling]]**: accurate monitoring is present, but the monitoring signal is not transduced into regulatory response with sufficient sensitivity. The **[[Monitoring-Regulation-Decoupling|Monitoring-Regulation Decoupling]]** literature documents…
+> A learner who monitors accurately but maintains too high a control threshold will fail to respond to genuine comprehension failures — she will detect the problem but not act on it. This is a failure of **[[monitoring-control-coupling|Monitoring-Control Coupling]]**: accurate monitoring is present, but the monitoring signal is not transduced into regulatory response with sufficient sensitivity. The **[[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]]** literature documents…
 
 ## Practical Implications
 
@@ -501,31 +501,31 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[metacognitive-regulation-foundational-report-2026-03-31]])*:
-- [[Metacognition]]
-- [[Working-Memory]]
-- [[Cognitive-Load-Theory]]
-- [[Schema-Theory]]
-- [[Metacognition-&-Lifelong-Learning]]
-- [[Metacognition-&-Critical-Thinking]]
-- [[Metacognition-&-Motivation]]
-- [[Self-Directed-Learning]]
-- [[Elaborative-Interrogation]]
-- [[Situation-Models-in-Text-Comprehension]]
+- [[metacognition|Metacognition]]
+- [[working-memory|Working-Memory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[metacognition-lifelong-learning|Metacognition-&-Lifelong-Learning]]
+- [[metacognition-critical-thinking|Metacognition-&-Critical-Thinking]]
+- [[metacognition-motivation|Metacognition-&-Motivation]]
+- [[self-directed-learning|Self-Directed-Learning]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
 
 **Cross-report connections** *(from [[metacognitive-regulation-foundational-report-2026-03-31]])*:
-- [[Metacognition]]
-- [[Working-Memory]]
-- [[Cognitive-Load-Theory]]
-- [[Schema-Theory]]
-- [[Self-Efficacy]]
-- [[Self-Directed-Learning]]
-- [[Metacognition-&-Lifelong-Learning]]
-- [[Metacognition-&-Critical-Thinking]]
-- [[Elaborative-Interrogation]]
-- [[Habit-Formation]]
+- [[metacognition|Metacognition]]
+- [[working-memory|Working-Memory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[self-efficacy|Self-Efficacy]]
+- [[self-directed-learning|Self-Directed-Learning]]
+- [[metacognition-lifelong-learning|Metacognition-&-Lifelong-Learning]]
+- [[metacognition-critical-thinking|Metacognition-&-Critical-Thinking]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[habit-formation|Habit-Formation]]
 
 **Related concepts:**
-[[Metacognitive-Regulation]] · [[Metacognition]] · [[Ann-Brown]] · [[Gregory-Schraw]] · [[Regulation-of-Cognition]] · [[Knowledge-of-Cognition]] · [[Fluency-Illusion]] · [[Illusion-of-Knowing]] · [[Dunning-Kruger-Effect]] · [[Long-Term-Memory]] · [[Gregory-Schraw]] · [[Metacognition]] · [[Knowledge-of-Cognition]] · [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]] · [[Metacognitive-Strategy]] · [[Self-Regulated-Learning]] · [[Regulation-of-Cognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Self-Regulation]] · [[Monitoring-Regulation-Coupling]] · [[Self-Regulated-Learning]] · [[Nelson-Narens-Model]] · [[Gregory-Schraw]] · [[Metacognitive-Knowledge]] · [[Self-Regulated-Learning]] · [[Forethought-Phase]] · [[Metacognitive-Strategy]] · [[Prior-Knowledge-Activation]] · [[Metacognitive-Monitoring]] · [[Comprehension-Monitoring]]
+[[metacognitive-regulation|Metacognitive-Regulation]] · [[metacognition|Metacognition]] · [[ann-brown|Ann-Brown]] · [[gregory-schraw|Gregory-Schraw]] · [[regulation-of-cognition|Regulation-of-Cognition]] · [[knowledge-of-cognition|Knowledge-of-Cognition]] · [[fluency-illusion|Fluency-Illusion]] · [[illusion-of-knowing|Illusion-of-Knowing]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[long-term-memory|Long-Term-Memory]] · [[gregory-schraw|Gregory-Schraw]] · [[metacognition|Metacognition]] · [[knowledge-of-cognition|Knowledge-of-Cognition]] · [[declarative-procedural-and-conditional-metacognitive-knowledge|Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]] · [[metacognitive-strategy|Metacognitive-Strategy]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[regulation-of-cognition|Regulation-of-Cognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-self-regulation|Metacognitive-Self-Regulation]] · [[monitoring-regulation-coupling|Monitoring-Regulation-Coupling]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[gregory-schraw|Gregory-Schraw]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[forethought-phase|Forethought-Phase]] · [[metacognitive-strategy|Metacognitive-Strategy]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[comprehension-monitoring|Comprehension-Monitoring]]
 
 ## References
 

@@ -5,6 +5,7 @@
 title: "Interacting Elements"
 aliases:
   - "Interacting Elements"
+  - "Interacting-Elements"
 type: permanent-note
 status: evergreen
 confidence: medium
@@ -29,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +42,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,26 +66,26 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Intrinsic-Cognitive-Load]]"
-  - "[[Extraneous-Cognitive-Load]]"
-  - "[[Germane-Cognitive-Load]]"
-  - "[[Instructional-Design]]"
-  - "[[Element-Interactivity]]"
-  - "[[Expertise-Reversal-Effect]]"
-  - "[[Split-Attention-Effect]]"
-  - "[[Worked-Example-Effect]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]]"
+  - "[[extraneous-cognitive-load|Extraneous-Cognitive-Load]]"
+  - "[[germane-cognitive-load|Germane-Cognitive-Load]]"
+  - "[[instructional-design|Instructional-Design]]"
+  - "[[element-interactivity|Element-Interactivity]]"
+  - "[[expertise-reversal-effect|Expertise-Reversal-Effect]]"
+  - "[[split-attention-effect|Split-Attention-Effect]]"
+  - "[[worked-example-effect|Worked-Example-Effect]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
   - "[[cognitive-load-theory-foundational-report-2026-03-11]]"
-  - "[[Cognitive-Theory-of-Multimedia-Learning]]"
-  - "[[Four-Component-Instructional-Design-4CID]]"
-  - "[[Working-Memory]]"
-  - "[[Long-Term-Memory]]"
+  - "[[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]]"
+  - "[[four-component-instructional-design-4cid|Four-Component-Instructional-Design-4CID]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
   - "[[cognitive-load-theory-foundational-report-2026-03-11]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Long-Term-Memory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -166,7 +167,7 @@ importance: medium
 > - What would change about your understanding of CLT if the three load types turned out to be…
 
 > [!reflection] **Reflect** *(from [[cognitive-load-theory-deep-dive-2026-04-12]])*
-> - Now that you see element interactivity as the generative mechanism, can you derive the [[Split-Attention-Effect]] from the mechanism without looking it up?
+> - Now that you see element interactivity as the generative mechanism, can you derive the [[split-attention-effect]] from the mechanism without looking it up?
 > - If element interactivity is expertise-dependent, what happens to the concept of "intrinsic load" as a fixed property of learning materials?
 > - The schema-interactivity feedback loop suggests learning is a progressive compression process. What would prevent this loop from running indefinitely?
 
@@ -196,7 +197,7 @@ importance: medium
 ## Far Transfer Applications
 
 > [!far-transfer] **Far Transfer: Element Interactivity in User Interface Design** *(from [[cognitive-load-theory-deep-dive-2026-04-12]])*
-> **Source insight:** Element interactivity predicts learning failure when the number of simultaneously interacting elements exceeds [[Working-Memory-Capacity|working memory capacity]]. Instructional design manages this through sequencing, scaffolding, and format optimization.
+> **Source insight:** Element interactivity predicts learning failure when the number of simultaneously interacting elements exceeds [[working-memory-capacity|working memory capacity]]. Instructional design manages this through sequencing, scaffolding, and format optimization.
 > 
 > **Adjacent application:** User interface design faces an isomorphic problem. Complex interfaces require users to process multiple interacting interface elements simultaneously (menus, status indicators, input fields, contextual options). When the interactivity between these elements exceeds the user's schema development…
 
@@ -232,7 +233,7 @@ importance: medium
 > 2. Worked examples *borrow and reorganize* — they present the expert's solution schema directly, allowing the learner to process the solution steps and their relationships without the…
 
 > [!example] **Derivation Example: The Redundancy Effect as Inverse Split-Attention** *(from [[cognitive-load-theory-deep-dive-2026-04-12]])*
-> The [[Redundancy-Effect]] is often presented as a separate principle, but element interactivity analysis reveals it as the *mirror image* of the split-attention effect, governed by the same dynamic:
+> The [[redundancy-effect]] is often presented as a separate principle, but element interactivity analysis reveals it as the *mirror image* of the split-attention effect, governed by the same dynamic:
 > 
 > **When two sources are mutually referential (high cross-source interactivity):** They MUST be integrated → split-attention effect applies → physically integrate them.
 > 
@@ -260,7 +261,7 @@ importance: medium
 > The **effective element interactivity** for a learner with schema set *S* would be computed by…
 
 > [!claude-insight] **Claude's Specialist Insight: The Free Energy Minimization Connection** *(from [[cognitive-load-theory-deep-dive-2026-04-12]])*
-> If we take the speculative predictive processing reframing seriously, then [[Schema-Construction]] is a form of *free energy minimization* — the brain reduces its surprise (free energy) by developing internal models (schemas) that predict the structure of the environment. Element interactivity quantifies the *residual free energy* — the surprise that persists after current schemas have generated their predictions. Learning is the reduction of this residual through model updating.
+> If we take the speculative predictive processing reframing seriously, then [[schema-construction]] is a form of *free energy minimization* — the brain reduces its surprise (free energy) by developing internal models (schemas) that predict the structure of the environment. Element interactivity quantifies the *residual free energy* — the surprise that persists after current schemas have generated their predictions. Learning is the reduction of this residual through model updating.
 > 
 > This would embed CLT in a much broader theoretical framework — one that spans perception, action, learning, and…
 
@@ -440,12 +441,12 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[Cognitive-Load-Theory]] · [[Intrinsic-Cognitive-Load]] · [[Extraneous-Cognitive-Load]] · [[Germane-Cognitive-Load]] · [[Instructional-Design]] · [[Element-Interactivity]] · [[Expertise-Reversal-Effect]] · [[Split-Attention-Effect]] · [[Worked-Example-Effect]] · [[Cognitive-Architecture]] · [[Cognitive-Load-Theory]] · [[cognitive-load-theory-foundational-report-2026-03-11]] · [[Cognitive-Theory-of-Multimedia-Learning]] · [[Four-Component-Instructional-Design-4CID]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[cognitive-load-theory-foundational-report-2026-03-11]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[Schema-Automation]] · [[Schema]] · [[Intrinsic-Cognitive-Load]] · [[Extraneous-Cognitive-Load]] · [[Germane-Cognitive-Load]] · [[Worked-Example-Effect]] · [[Split-Attention-Effect]] · [[Redundancy-Effect]] · [[Modality-Effect]] · [[Expertise-Reversal-Effect]]
+[[cognitive-load-theory|Cognitive-Load-Theory]] · [[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]] · [[extraneous-cognitive-load|Extraneous-Cognitive-Load]] · [[germane-cognitive-load|Germane-Cognitive-Load]] · [[instructional-design|Instructional-Design]] · [[element-interactivity|Element-Interactivity]] · [[expertise-reversal-effect|Expertise-Reversal-Effect]] · [[split-attention-effect|Split-Attention-Effect]] · [[worked-example-effect|Worked-Example-Effect]] · [[cognitive-architecture|Cognitive-Architecture]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[cognitive-load-theory-foundational-report-2026-03-11]] · [[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]] · [[four-component-instructional-design-4cid|Four-Component-Instructional-Design-4CID]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[cognitive-load-theory-foundational-report-2026-03-11]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[schema-automation|Schema-Automation]] · [[schema|Schema]] · [[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]] · [[extraneous-cognitive-load|Extraneous-Cognitive-Load]] · [[germane-cognitive-load|Germane-Cognitive-Load]] · [[worked-example-effect|Worked-Example-Effect]] · [[split-attention-effect|Split-Attention-Effect]] · [[redundancy-effect|Redundancy-Effect]] · [[modality-effect|Modality-Effect]] · [[expertise-reversal-effect|Expertise-Reversal-Effect]]
 
 ## Methodology Notes
 
 > [!methodology-and-sources] **Scope Statement** *(from [[cognitive-load-theory-deep-dive-2026-04-12]])*
-> **This report's focus:** Element interactivity as the unifying mechanism underlying all of [[Cognitive-Load-Theory]]'s predictions, effects, and design principles — its definition, measurement, theoretical role, boundary conditions, and frontier debates.
+> **This report's focus:** Element interactivity as the unifying mechanism underlying all of [[cognitive-load-theory]]'s predictions, effects, and design principles — its definition, measurement, theoretical role, boundary conditions, and frontier debates.
 > 
 > **Drawn from broader topic:** Cognitive Load Theory (the full field encompassing dozens of instructional effects, three load types, evolutionary foundations, and 40+ years of research)
 > 

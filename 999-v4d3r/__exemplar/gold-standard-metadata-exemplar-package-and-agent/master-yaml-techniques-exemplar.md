@@ -1192,7 +1192,7 @@ prompting_techniques:
           - "[[Chain-of-Thought-Prompting]]"
           - "[[Self-Consistency]]"
           - "[[Monte Carlo Tree Search]]"
-          - "[[Deliberate-Practice]]"
+          - "[[deliberate-practice]]"
       
       # ─────────────────────────────────────────────────────────────────────────
       # SELF-CONSISTENCY
@@ -1769,7 +1769,7 @@ prompting_techniques:
         related_concepts:
           - "[[Agentic Systems]]"
           - "[[Tool Use]]"
-          - "[[Planning]]"
+          - "[[planning]]"
       
       # ─────────────────────────────────────────────────────────────────────────
       # REFLEXION

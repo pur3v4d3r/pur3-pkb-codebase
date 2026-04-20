@@ -481,32 +481,32 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Autonomy]]
+- [[achievement-goal-theory|Achievement Goal Theory]]
+- [[autonomy]]
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
-- [[Competence]]
+- [[competence]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
-- [[Constructivism]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[constructivism]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Dunning-Kruger]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Educational-Psychology|Educational Psychology]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[educational-psychology|Educational Psychology]]
+- [[elaborative-interrogation|Elaborative Interrogation]]
 - [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Faceted-Classification|Faceted Classification]]
 - [[Feedback Systems]]
 - [[Five-Convergence-Zones|Five Convergence Zones]]
-- [[Formative-Feedback]]
-- [[Habit-Formation|Habit Formation]]
+- [[formative-feedback]]
+- [[habit-formation|Habit Formation]]
 - [[Heutagogical-Self-Design|Heutagogical Self-Design]]
-- [[Heutagogy]]
-- [[Illusion-of-Knowing|Illusion of Knowing]]
+- [[heutagogy]]
+- [[illusion-of-knowing|Illusion of Knowing]]
 - [[Information Foraging Theory]]
 - [[Information-Science|Information Science]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
@@ -514,7 +514,7 @@ extraction_summary:
 - [[Integration Problem]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest Taxonomy]]
-- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[intrinsic-motivation|Intrinsic Motivation]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
@@ -522,14 +522,14 @@ extraction_summary:
 - [[Learning-Metabolism|Learning Metabolism]]
 - [[Link Annotation]]
 - [[Measuring PKM Effectiveness — Empirical Methods for Evaluating Your Own System]]
-- [[Metacognition]]
+- [[metacognition]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Network Science]]
 - [[Nonaka's SECI Model]]
-- [[Obsidian]]
+- [[obsidian]]
 - [[PKB Archaeology — Designing for Long-Term Vault Succession]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
-- [[Relatedness]]
+- [[relatedness]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
@@ -540,28 +540,28 @@ extraction_summary:
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
-- [[Retrieval-Practice|Retrieval Practice]]
+- [[retrieval-practice|Retrieval Practice]]
 - [[SECI-Model|SECI Model]]
-- [[Schema-Theory|Schema Theory]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[schema-theory|Schema Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[self-explanation]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic-Questioning]]
-- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
-- [[Spreading-Activation|Spreading Activation]]
+- [[socratic-questioning]]
+- [[spaced-repetition-spacing-effect|Spacing Effect]]
+- [[spreading-activation|Spreading Activation]]
 - [[Stoic]]
 - [[Stoic Discipline and Virtue]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Reflective Practice]]
 - [[Systems Theory]]
-- [[Tacit-Knowledge|Tacit Knowledge]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[tacit-knowledge|Tacit Knowledge]]
+- [[testing-effect-retrieval-practice-effect|Testing Effect]]
 - [[The Embodied PKM Practitioner — What Text-Based Notes Miss]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Working-Memory|Working Memory]]
+- [[transfer-of-learning|Transfer of Learning]]
+- [[working-memory|Working Memory]]
 - [[Zimmerman's Self-Regulated Learning]]
 
 ### All Occurrences
@@ -569,88 +569,88 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Moment of Integration | 134 |
-| 2 | [[Schema-Theory|Schema Theory]] | — | — | The Moment of Integration | 134 |
-| 3 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Moment of Integration | 134 |
-| 4 | [[Working-Memory|Working Memory]] | — | — | The Moment of Integration | 134 |
+| 2 | [[schema-theory|Schema Theory]] | — | — | The Moment of Integration | 134 |
+| 3 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Moment of Integration | 134 |
+| 4 | [[working-memory|Working Memory]] | — | — | The Moment of Integration | 134 |
 | 5 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Moment of Integration | 134 |
-| 6 | [[Metacognition]] | — | — | The Moment of Integration | 134 |
-| 7 | [[Constructivism]] | — | — | The Moment of Integration | 134 |
+| 6 | [[metacognition]] | — | — | The Moment of Integration | 134 |
+| 7 | [[constructivism]] | — | — | The Moment of Integration | 134 |
 | 8 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | The Moment of Integration | 134 |
-| 9 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Moment of Integration | 134 |
-| 10 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | The Moment of Integration | 134 |
-| 11 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Moment of Integration | 134 |
-| 12 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Moment of Integration | 134 |
+| 9 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Moment of Integration | 134 |
+| 10 | [[intrinsic-motivation|Intrinsic Motivation]] | — | — | The Moment of Integration | 134 |
+| 11 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Moment of Integration | 134 |
+| 12 | [[retrieval-practice|Retrieval Practice]] | — | — | The Moment of Integration | 134 |
 | 13 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Moment of Integration | 134 |
-| 14 | [[Socratic-Questioning]] | — | — | The Moment of Integration | 134 |
+| 14 | [[socratic-questioning]] | — | — | The Moment of Integration | 134 |
 | 15 | [[Knowledge-Management|Knowledge Management]] | — | — | The Moment of Integration | 134 |
 | 16 | [[Information-Science|Information Science]] | — | — | The Moment of Integration | 134 |
 | 17 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | The Moment of Integration | 134 |
 | 18 | [[Learning-Experience-Design|Learning Experience Design]] | — | — | The Moment of Integration | 134 |
-| 19 | [[Heutagogy]] | — | — | The Moment of Integration | 134 |
-| 20 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | The Moment of Integration | 134 |
+| 19 | [[heutagogy]] | — | — | The Moment of Integration | 134 |
+| 20 | [[tacit-knowledge|Tacit Knowledge]] | — | — | The Moment of Integration | 134 |
 | 21 | [[Network Science]] | — | — | The Moment of Integration | 134 |
 | 22 | [[Feedback Systems]] | — | — | The Moment of Integration | 134 |
-| 23 | [[Obsidian]] | — | — | Scope and What This Report Is Not | 148 |
+| 23 | [[obsidian]] | — | — | Scope and What This Report Is Not | 148 |
 | 24 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Cross-Domain Preview | 152 |
-| 25 | [[Educational-Psychology|Educational Psychology]] | — | — | Cross-Domain Preview | 152 |
+| 25 | [[educational-psychology|Educational Psychology]] | — | — | Cross-Domain Preview | 152 |
 | 26 | [[Knowledge-Management|Knowledge Management]] | — | — | Cross-Domain Preview | 152 |
 | 27 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Cross-Domain Preview | 152 |
 | 28 | [[Systems Theory]] | — | — | Cross-Domain Preview | 152 |
-| 29 | [[Schema-Theory|Schema Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 30 | [[Spreading-Activation|Spreading Activation]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 31 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 29 | [[schema-theory|Schema Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 30 | [[spreading-activation|Spreading Activation]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 31 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 32 | [[Expert-Knowledge-Organization|Expert Knowledge Organization]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 33 | [[Information Foraging Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 34 | [[SECI-Model|SECI Model]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 35 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Convergence Zone 1: The Organizationa... | 199 |
-| 36 | [[Constructivism]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 37 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 38 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 36 | [[constructivism]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 37 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 38 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 39 | [[self-explanation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 40 | [[Socratic-Method-Elenchus|Socratic Method]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 41 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 42 | [[Zimmerman's Self-Regulated Learning]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 43 | [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 44 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
-| 45 | [[Formative-Feedback]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
+| 45 | [[formative-feedback]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 46 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 47 | [[Stoic Reflective Practice]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 48 | [[Systems Theory]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
-| 49 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 50 | [[Autonomy]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 51 | [[Competence]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 52 | [[Relatedness]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 53 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 49 | [[self-determination-theory|Self-Determination Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 50 | [[autonomy]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 51 | [[competence]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 52 | [[relatedness]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 53 | [[achievement-goal-theory|Achievement Goal Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
 | 54 | [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
 | 55 | [[Stoic Discipline and Virtue]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 56 | [[Habit-Formation|Habit Formation]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 56 | [[habit-formation|Habit Formation]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
 | 57 | [[Knowledge-Integration|Knowledge Integration]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 58 | [[Network Science]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 59 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 60 | [[Nonaka's SECI Model]] | — | — | Convergence Zone 5: The Integration I... | 237 |
-| 61 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Convergence Zone 5: The Integration I... | 237 |
+| 61 | [[transfer-of-learning|Transfer of Learning]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 62 | [[Feedback Systems]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 63 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
 | 64 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
-| 65 | [[Constructivism]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 66 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 67 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 65 | [[constructivism]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 66 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 67 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 68 | [[self-explanation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 69 | [[Socratic-Questioning]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 69 | [[socratic-questioning]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 70 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Foundational Principle 3: Regulatory ... | 286 |
-| 71 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Foundational Principle 4: Motivationa... | 294 |
-| 72 | [[Heutagogy]] | — | — | Foundational Principle 4: Motivationa... | 296 |
-| 73 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
-| 74 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
+| 71 | [[self-determination-theory|Self-Determination Theory]] | — | — | Foundational Principle 4: Motivationa... | 294 |
+| 72 | [[heutagogy]] | — | — | Foundational Principle 4: Motivationa... | 296 |
+| 73 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
+| 74 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
 | 75 | [[Dunning-Kruger]] | — | — | Derived Principle 5: Calibration Syst... | 330 |
 | 76 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Refinement Principle 1: Evolutionary ... | 338 |
-| 77 | [[Socratic-Questioning]] | — | — | Refinement Principle 2: Dialectical D... | 342 |
+| 77 | [[socratic-questioning]] | — | — | Refinement Principle 2: Dialectical D... | 342 |
 | 78 | [[Socratic Elenchus]] | — | — | Refinement Principle 2: Dialectical D... | 344 |
 | 79 | [[Integration Problem]] | — | — | Refinement Principle 3: Integration M... | 350 |
-| 80 | [[Obsidian]] | — | — | The Complete PKM/PKB Design Specifica... | 370 |
+| 80 | [[obsidian]] | — | — | The Complete PKM/PKB Design Specifica... | 370 |
 | 81 | [[Faceted-Classification|Faceted Classification]] | — | — | The Complete PKM/PKB Design Specifica... | 380 |
 | 82 | [[Link Annotation]] | — | — | The Complete PKM/PKB Design Specifica... | 382 |
-| 83 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | The Complete PKM/PKB Design Specifica... | 398 |
+| 83 | [[illusion-of-knowing|Illusion of Knowing]] | — | — | The Complete PKM/PKB Design Specifica... | 398 |
 | 84 | [[Interest Taxonomy]] | — | — | The Complete PKM/PKB Design Specifica... | 404 |
 | 85 | [[Heutagogical-Self-Design|Heutagogical Self-Design]] | — | — | The Complete PKM/PKB Design Specifica... | 406 |
 | 86 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | The Central Question Revisited | 459 |
@@ -812,32 +812,32 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Autonomy]]
+- [[achievement-goal-theory|Achievement Goal Theory]]
+- [[autonomy]]
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
-- [[Competence]]
+- [[competence]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
-- [[Constructivism]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[constructivism]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Dunning-Kruger]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Educational-Psychology|Educational Psychology]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[educational-psychology|Educational Psychology]]
+- [[elaborative-interrogation|Elaborative Interrogation]]
 - [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Faceted-Classification|Faceted Classification]]
 - [[Feedback Systems]]
 - [[Five-Convergence-Zones|Five Convergence Zones]]
-- [[Formative-Feedback]]
-- [[Habit-Formation|Habit Formation]]
+- [[formative-feedback]]
+- [[habit-formation|Habit Formation]]
 - [[Heutagogical-Self-Design|Heutagogical Self-Design]]
-- [[Heutagogy]]
-- [[Illusion-of-Knowing|Illusion of Knowing]]
+- [[heutagogy]]
+- [[illusion-of-knowing|Illusion of Knowing]]
 - [[Information Foraging Theory]]
 - [[Information-Science|Information Science]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
@@ -845,7 +845,7 @@ extraction_summary:
 - [[Integration Problem]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest Taxonomy]]
-- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[intrinsic-motivation|Intrinsic Motivation]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
@@ -853,14 +853,14 @@ extraction_summary:
 - [[Learning-Metabolism|Learning Metabolism]]
 - [[Link Annotation]]
 - [[Measuring PKM Effectiveness — Empirical Methods for Evaluating Your Own System]]
-- [[Metacognition]]
+- [[metacognition]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Network Science]]
 - [[Nonaka's SECI Model]]
-- [[Obsidian]]
+- [[obsidian]]
 - [[PKB Archaeology — Designing for Long-Term Vault Succession]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
-- [[Relatedness]]
+- [[relatedness]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
@@ -871,28 +871,28 @@ extraction_summary:
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
-- [[Retrieval-Practice|Retrieval Practice]]
+- [[retrieval-practice|Retrieval Practice]]
 - [[SECI-Model|SECI Model]]
-- [[Schema-Theory|Schema Theory]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[schema-theory|Schema Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[self-explanation]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic-Questioning]]
-- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
-- [[Spreading-Activation|Spreading Activation]]
+- [[socratic-questioning]]
+- [[spaced-repetition-spacing-effect|Spacing Effect]]
+- [[spreading-activation|Spreading Activation]]
 - [[Stoic]]
 - [[Stoic Discipline and Virtue]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Reflective Practice]]
 - [[Systems Theory]]
-- [[Tacit-Knowledge|Tacit Knowledge]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[tacit-knowledge|Tacit Knowledge]]
+- [[testing-effect-retrieval-practice-effect|Testing Effect]]
 - [[The Embodied PKM Practitioner — What Text-Based Notes Miss]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Working-Memory|Working Memory]]
+- [[transfer-of-learning|Transfer of Learning]]
+- [[working-memory|Working Memory]]
 - [[Zimmerman's Self-Regulated Learning]]
 
 ### Frontmatter Relationships

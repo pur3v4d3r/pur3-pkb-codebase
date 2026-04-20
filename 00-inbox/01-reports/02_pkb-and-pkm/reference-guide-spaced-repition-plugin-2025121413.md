@@ -385,9 +385,9 @@ aliases: [Obsidian SR, SR Plugin, Spaced Repetition Plugin Guide, Flashcard Revi
 
 ## 📖 Introduction to Spaced Repetition in Obsidian
 
-[<span style='color: #FFC700;'>**Spaced Repetition**</span>:: a learning technique that schedules review of information at progressively increasing intervals to combat the forgetting curve and optimize long-term retention.] The [[Obsidian]] Spaced Repetition plugin (commonly abbreviated as <span style='color: #72FFF1;'>SR Plugin</span>) brings this scientifically-validated learning methodology directly into your [[Personal-Knowledge-Base]], allowing you to transform passive notes into active learning materials without leaving your vault.
+[<span style='color: #FFC700;'>**Spaced Repetition**</span>:: a learning technique that schedules review of information at progressively increasing intervals to combat the forgetting curve and optimize long-term retention.] The [[obsidian]] Spaced Repetition plugin (commonly abbreviated as <span style='color: #72FFF1;'>SR Plugin</span>) brings this scientifically-validated learning methodology directly into your [[personal-knowledge-base]], allowing you to transform passive notes into active learning materials without leaving your vault.
 
-Developed by <span style='color: #FF5700;'>Stephen Mwangi (st3v3nmw)</span>, the plugin supports **both flashcard-based review and whole-note review**, enabling flexible learning workflows that integrate seamlessly with your existing [[Zettelkasten]] or [[PARA-Method]] organizational systems.
+Developed by <span style='color: #FF5700;'>Stephen Mwangi (st3v3nmw)</span>, the plugin supports **both flashcard-based review and whole-note review**, enabling flexible learning workflows that integrate seamlessly with your existing [[zettelkasten]] or [[para-method]] organizational systems.
 
 > [!core-principle]
 > The SR Plugin operates on a fundamental principle: [<span style='color: #27FF00;'>**Learning is strengthened through active retrieval**</span>:: the act of recalling information from memory creates stronger neural pathways than passive re-reading], and [<span style='color: #27FF00;'>**optimal spacing defeats the forgetting curve**</span>:: reviewing material just before you're likely to forget it maximizes retention while minimizing total review time].
@@ -410,7 +410,7 @@ The plugin provides:
 
 ### Standard Installation
 
-The SR Plugin is available through [[Obsidian]]'s Community Plugins marketplace:
+The SR Plugin is available through [[obsidian]]'s Community Plugins marketplace:
 
 1. Open **Settings** → **Community plugins** → **Browse**
 2. Search for <span style='color: #72FFF1;'>"Spaced Repetition"</span>
@@ -667,7 +667,7 @@ Molecular formula of water::H₂O
 ```
 
 > [!helpful-tip]
-> Use [[YAML-Frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.
+> Use [[yaml-frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.
 
 ### Folder-Based Decks (Alternative Method)
 
@@ -964,7 +964,7 @@ Since scheduling data lives in your notes:
 
 ### Migrating from Anki
 
-If transitioning from [[Anki]]:
+If transitioning from [[anki]]:
 1. Export Anki decks as markdown
 2. Reformat cards using SR Plugin syntax
 3. Manually set initial intervals using `<!--SR:!due-date,interval,ease-->`
@@ -1118,14 +1118,14 @@ The first president was ==George Washington==.
 
 ### PKM System Integration
 
-The SR Plugin complements various [[Personal-Knowledge-Management]] methodologies:
+The SR Plugin complements various [[personal-knowledge-management]] methodologies:
 
-**With [[Zettelkasten]]:**
+**With [[zettelkasten]]:**
 - Create atomic notes with embedded flashcards
 - Use `#flashcards` tags to mark evergreen notes for review
 - Leverage backlink-based ease adjustment (OSR's PageRank feature)
 
-**With [[PARA-Method]]:**
+**With [[para-method]]:**
 - Store flashcards in relevant PARA categories:
   - **Projects**: Active learning materials
   - **Areas**: Ongoing knowledge domains (#flashcards/areas/finance)
@@ -1161,7 +1161,7 @@ tags: [#flashcards/<% tp.file.folder() %>]
 **[[Tasks-Plugin]]:**
 Track "Create flashcards for X" tasks:
 ```markdown
-- [ ] Convert [[Cognitive-Load-Theory]] notes to flashcards #task/learning
+- [ ] Convert [[cognitive-load-theory]] notes to flashcards #task/learning
 ```
 
 ---
@@ -1183,12 +1183,12 @@ Track "Create flashcards for X" tasks:
 3. **[[Effective Flashcard Design]]**
    - *Connection*: Principles for creating high-quality flashcards that maximize retention
    - *Depth Potential*: Atomic card principle, context preservation, mnemonic techniques, multi-modal learning
-   - *Knowledge Graph Role*: Practical application of [[Cognitive-Load-Theory]], [[Dual-Coding-Theory]], and [[Desirable-Difficulties]]
+   - *Knowledge Graph Role*: Practical application of [[cognitive-load-theory]], [[dual-coding-theory]], and [[desirable-difficulties]]
 
 4. **[[Active Recall vs. Passive Review]]**
    - *Connection*: The cognitive mechanism that makes spaced repetition effective
    - *Depth Potential*: Testing effect, retrieval practice, production effect, generation effect
-   - *Knowledge Graph Role*: Foundational concept in [[Learning Science]], connecting to [[Metacognition]] and [[Study-Strategies]]
+   - *Knowledge Graph Role*: Foundational concept in [[Learning-Science]], connecting to [[metacognition]] and [[study-strategies]]
 
 ---
 

@@ -41,7 +41,7 @@ aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 
 > [!abstract]
 > **Executive Overview**
-> [[Templater]] is the most powerful community plugin for [[Obsidian]], enabling dynamic template creation through a custom [[Templating Language]], [[JavaScript]] execution, and [[System Command]] integration. This plugin transforms static [[Markdown]] files into intelligent, context-aware document generators that can manipulate [[Frontmatter]], create files programmatically, interact with the [[Obsidian API]], and automate complex [[workflow]] patterns within your [[Personal-Knowledge-Base]].
+> [[Templater]] is the most powerful community plugin for [[obsidian]], enabling dynamic template creation through a custom [[Templating Language]], [[JavaScript]] execution, and [[System Command]] integration. This plugin transforms static [[Markdown]] files into intelligent, context-aware document generators that can manipulate [[Frontmatter]], create files programmatically, interact with the [[Obsidian API]], and automate complex [[workflow]] patterns within your [[personal-knowledge-base]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -66,7 +66,7 @@ aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 
 ### What is Templater?
 
-[[Templater]] is a community plugin for [[Obsidian]] that extends the native [[templates]] functionality by introducing a powerful [[Templating Engine]] based on a custom implementation called [[rusty_engine]]. Unlike Obsidian's core templates plugin (which simply inserts static text), Templater provides dynamic content generation through:
+[[Templater]] is a community plugin for [[obsidian]] that extends the native [[templates]] functionality by introducing a powerful [[Templating Engine]] based on a custom implementation called [[rusty_engine]]. Unlike Obsidian's core templates plugin (which simply inserts static text), Templater provides dynamic content generation through:
 
 - **Variable Interpolation**: Insert computed values based on file metadata, dates, or custom logic
 - **JavaScript Execution**: Run arbitrary [[JavaScript]] code within templates
@@ -2797,7 +2797,7 @@ Aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 - Obsidian core concepts: [[Frontmatter]], [[Templates]], [[Folders]], [[Daily-Notes]], [[Metadata]]
 - Related plugins: [[Dataview]], [[QuickAdd]], [[Custom JS]], [[Natural Language Dates]]
 - Programming concepts: [[JavaScript]], [[Regular-Expressions]], [[Async/Await]], [[Promises]], [[Date Objects]]
-- PKM concepts: [[Zettelkasten]], [[MOC]], [[Atomic-Notes]], [[Template Systems]], [[Automation Workflows]]
+- PKM concepts: [[zettelkasten]], [[MOC]], [[Atomic-Notes]], [[Template Systems]], [[Automation Workflows]]
 - File system concepts: [[File Paths]], [[Working Directory]], [[Relative Paths]], [[Absolute Paths]]
 
 Now I'll execute the web searches to gather comprehensive, accurate information.

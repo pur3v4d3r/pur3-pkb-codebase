@@ -54,7 +54,7 @@ aliases:
 related_to:
   - "[[VADER Academic Report Generator]]"
   - "[[Obsidian Vault System]]"
-  - "[[Personal-Knowledge-Base]]"
+  - "[[personal-knowledge-base]]"
   - "[[YAML Metadata Framework]]"
   - "[[Semantic Tagging System]]"
 
@@ -383,7 +383,7 @@ domain:
 related:
   - "[[Chain of Thought Reasoning]]"
   - "[[Tree-of-Thoughts]]"
-  - "[[Metacognitive-Monitoring]]"
+  - "[[metacognitive-monitoring]]"
   - "[[Prompt Engineering Frameworks]]"
 ```
 
@@ -965,8 +965,8 @@ child-topics:
 
 ```yaml
 related:
-  - "[[Concept A]]"
-  - "[[Concept B]]"
+  - "[[Concept-A]]"
+  - "[[Concept-B]]"
   - "[[Concept C]]"
 ```
 
@@ -1157,8 +1157,8 @@ tags: [note, draft, personal]
 **For longer arrays, use multi-line:**
 ```yaml
 related:
-  - "[[Concept A]]"
-  - "[[Concept B]]"
+  - "[[Concept-A]]"
+  - "[[Concept-B]]"
   - "[[Concept C]]"
   - "[[Concept D]]"
 ```

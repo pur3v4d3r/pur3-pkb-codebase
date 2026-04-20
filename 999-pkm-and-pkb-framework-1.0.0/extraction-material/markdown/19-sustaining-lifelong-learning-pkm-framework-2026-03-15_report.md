@@ -506,7 +506,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Emerging-Individual-Interest|Emerging Individual Interest]]
-- [[Habit-Formation|Habit Formation]]
+- [[habit-formation|Habit Formation]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory: Full Literature Review]]
 - [[Maintained-Situational-Interest|Maintained Situational Interest]]
@@ -526,7 +526,7 @@ extraction_summary:
 - [[Report 24: Self-Determined Learning and the PKB]]
 - [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[Stoic Journaling as PKM Practice: A Design and Practice Guide]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[The Longitudinal PKB: Research Design for Personal Study]]
@@ -537,9 +537,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Synthesis Question | 158 |
+| 1 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Synthesis Question | 158 |
 | 2 | [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]] | — | — | The Synthesis Question | 158 |
-| 3 | [[Habit-Formation|Habit Formation]] | — | — | The Synthesis Question | 158 |
+| 3 | [[habit-formation|Habit Formation]] | — | — | The Synthesis Question | 158 |
 | 4 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Synthesis Question | 158 |
 | 5 | [[Report 05: Motivation Architecture]] | — | — | The Synthesis Question | 160 |
 | 6 | [[Report-05]] | — | — | The Synthesis Question | 162 |
@@ -580,7 +580,7 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Emerging-Individual-Interest|Emerging Individual Interest]]
-- [[Habit-Formation|Habit Formation]]
+- [[habit-formation|Habit Formation]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory: Full Literature Review]]
 - [[Maintained-Situational-Interest|Maintained Situational Interest]]
@@ -600,7 +600,7 @@ extraction_summary:
 - [[Report 24: Self-Determined Learning and the PKB]]
 - [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[Stoic Journaling as PKM Practice: A Design and Practice Guide]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[The Longitudinal PKB: Research Design for Personal Study]]

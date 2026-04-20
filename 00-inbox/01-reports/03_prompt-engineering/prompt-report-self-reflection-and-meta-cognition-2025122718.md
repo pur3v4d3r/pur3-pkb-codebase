@@ -174,7 +174,7 @@ word_count_target: 6000+
 
 ### 1.1 Cognitive Science Origins
 
-[**Metacognition**:: The capacity to think about one's own thinking processes, encompassing self-awareness of cognitive states, monitoring of ongoing reasoning, and deliberate regulation of mental strategies to optimize task performance.] The term emerged from developmental psychology research by [[John-Flavell]] in the 1970s, who distinguished between **metacognitive knowledge** (understanding one's own cognitive processes) and **metacognitive regulation** (actively controlling those processes).
+[**Metacognition**:: The capacity to think about one's own thinking processes, encompassing self-awareness of cognitive states, monitoring of ongoing reasoning, and deliberate regulation of mental strategies to optimize task performance.] The term emerged from developmental psychology research by [[john-flavell]] in the 1970s, who distinguished between **metacognitive knowledge** (understanding one's own cognitive processes) and **metacognitive regulation** (actively controlling those processes).
 
 The theoretical framework divides metacognition into three interrelated components that map directly onto agent architecture design:
 

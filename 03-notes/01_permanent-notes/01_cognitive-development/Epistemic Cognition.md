@@ -29,7 +29,7 @@ review-priority: medium
 # Epistemic Cognition
 
 > [!definition]
-> - **Key-Term**:[[Epistemic-Cognition]]
+> - **Key-Term**:[[epistemic-cognition]]
 > - [**Definition**:This term refers to the study of how individuals come to know, including their understanding of the limits, certainty, and sources of knowledge.]
 
 > [!evidence]

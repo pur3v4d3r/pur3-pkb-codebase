@@ -84,7 +84,7 @@ id: prompt-block-🆔20251106010525
 {{Provide a rigorous definition and explanation of Concept A in isolation, before any comparison. (600 words)}}
 
 > [!definition]
-> **[[Concept A]]:**
+> **[[Concept-A]]:**
 > - {{Precise, comprehensive definition}}
 > - **Etymology/Origin:** {{If relevant, word origin or conceptual genesis}}
 
@@ -133,7 +133,7 @@ id: prompt-block-🆔20251106010525
 {{Provide rigorous definition and explanation of Concept B in isolation. (600 words)}}
 
 > [!definition]
-> **[[Concept B]]:**
+> **[[Concept-B]]:**
 > - {{Precise, comprehensive definition}}
 > - **Etymology/Origin:** {{If relevant}}
 
@@ -233,7 +233,7 @@ id: prompt-block-🆔20251106010525
 > [!analysis-logical]
 > **Comparison Across Key Dimensions:**
 
-| Dimension | [[Concept A]] | [[Concept B]] | [[Concept C]] |
+| Dimension | [[Concept-A]] | [[Concept-B]] | [[Concept C]] |
 |-----------|---------------|---------------|---------------|
 | **Scope** | {{Breadth/depth of A}} | {{Breadth/depth of B}} | {{Breadth/depth of C}} |
 | **Temporal Scale** | {{Time scale for A}} | {{Time scale for B}} | {{Time scale for C}} |
@@ -303,23 +303,23 @@ id: prompt-block-🆔20251106010525
 > **Decision Tree for Concept Selection:**
 > 
 > 1. **First Question:** {{Diagnostic question}}
->    - **If yes:** Consider [[Concept A]] or [[Concept B]]
+>    - **If yes:** Consider [[Concept-A]] or [[Concept-B]]
 >    - **If no:** Consider [[Concept C]]
 > 
 > 2. **Second Question:** {{Refining question}}
->    - **If yes:** [[Concept A]] is most appropriate
->    - **If no:** [[Concept B]] is most appropriate
+>    - **If yes:** [[Concept-A]] is most appropriate
+>    - **If no:** [[Concept-B]] is most appropriate
 > 
 > 3. **Validation:** {{How to verify you've chosen correctly}}
 
 > [!use-cases-and-examples]
 > **When to Choose Each Concept:**
-> - **Use [[Concept A]] when:**
+> - **Use [[Concept-A]] when:**
 >   - {{Condition 1}}
 >   - {{Condition 2}}
 >   - **Example:** {{Scenario where A is optimal}}
 > 
-> - **Use [[Concept B]] when:**
+> - **Use [[Concept-B]] when:**
 >   - {{Condition 1}}
 >   - {{Condition 2}}
 >   - **Example:** {{Scenario where B is optimal}}
@@ -357,13 +357,13 @@ id: prompt-block-🆔20251106010525
 > - {{Describe a specific, concrete phenomenon or problem}}
 
 > [!analysis-cognitive]
-> **Analysis Through [[Concept A]]:**
+> **Analysis Through [[Concept-A]]:**
 > - {{How Concept A frames and explains this case}}
 > - **Insights gained:** {{What we understand}}
 > - **Limitations:** {{What this lens misses}}
 
 > [!analysis-contextual]
-> **Analysis Through [[Concept B]]:**
+> **Analysis Through [[Concept-B]]:**
 > - {{How Concept B frames and explains this case}}
 > - **Insights gained:** {{What we understand}}
 > - **Limitations:** {{What this lens misses}}
@@ -443,7 +443,7 @@ id: prompt-block-🆔20251106010525
 
 > [!tasks]
 > **PKB Integration Tasks:**
-> - [ ] Create/update notes for [[Concept A]], [[Concept B]], [[Concept C]]
+> - [ ] Create/update notes for [[Concept-A]], [[Concept-B]], [[Concept C]]
 > - [ ] Add comparison table to each concept note linking to this analysis
 > - [ ] Identify 3 other concept clusters that need similar comparative treatment
 > - [ ] Review existing notes for conceptual conflation and clarify
@@ -454,8 +454,8 @@ id: prompt-block-🆔20251106010525
 
 > [!cite]
 > **Foundational Sources:**
-> - **On [[Concept A]]:** {{Key references}}
-> - **On [[Concept B]]:** {{Key references}}
+> - **On [[Concept-A]]:** {{Key references}}
+> - **On [[Concept-B]]:** {{Key references}}
 > - **On [[Concept C]]:** {{Key references}}
 > - **Comparative Works:** {{Sources that explicitly compare these concepts}}
 

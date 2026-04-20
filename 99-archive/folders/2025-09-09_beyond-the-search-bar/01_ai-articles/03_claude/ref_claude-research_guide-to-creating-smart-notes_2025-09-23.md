@@ -102,7 +102,7 @@ summary: "{{one-sentence-summary}}"
 - {{Personal observations or experiences}}
 
 ---
-**Related Notes**: [[Concept A]] | [[Concept B]] | [[Concept C]]  
+**Related Notes**: [[Concept-A]] | [[Concept-B]] | [[Concept C]]  
 **Project Context**: [[Project-Name]]  
 **Review Status**: Next review {{date}}
 ```

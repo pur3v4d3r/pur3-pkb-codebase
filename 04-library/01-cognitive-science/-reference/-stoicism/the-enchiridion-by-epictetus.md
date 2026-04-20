@@ -26,7 +26,7 @@ tags:
   - cognitive-science/reframing
   - source-material
 author: [[{{Author_Name}}]]
-related: [[Concept_A]], [[Concept_B]]
+related: [[Concept-A]], [[Concept-B]]
 ### [2. FORMATTING RULES]
 - **Headers:** Convert simple numbers (I, II, III) into descriptive headers (e.g., `### I. The Discipline of Assent`).
 - **Bold (`**text**`):** Use STRICTLY for the "Punchline," the core axiom, or the imperative command within a paragraph. Do not over-bold.

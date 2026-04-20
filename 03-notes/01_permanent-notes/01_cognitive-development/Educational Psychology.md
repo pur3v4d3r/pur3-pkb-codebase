@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Educational-Psychology]]
+> - **Key-Term**:[[educational-psychology]]
 > - [**Definition**:]
 
 

@@ -5,6 +5,7 @@
 title: "The Three-Dimensional Causal Taxonomy"
 aliases:
   - "The Three-Dimensional Causal Taxonomy"
+  - "The-Three-Dimensional-Causal-Taxonomy"
   - "TTCT"
 type: permanent-note
 status: evergreen
@@ -38,8 +39,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -50,7 +51,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -74,26 +75,26 @@ narrower:
   []
 
 see-also:
-  - "[[Attribution-Theory]]"
-  - "[[Bernard-Weiner]]"
-  - "[[Attribution-Retraining-Interventions]]"
-  - "[[Attribution-Theory]]"
-  - "[[Causal-Induction]]"
-  - "[[Perceived-Locus-of-Causality]]"
-  - "[[Actor-Observer-Bias]]"
-  - "[[Bernard-Weiner]]"
-  - "[[Perceived-Locus-of-Causality]]"
-  - "[[Attribution-Theory]]"
-  - "[[Perceived-Locus-of-Causality]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Implicit-Theory-of-Intelligence]]"
-  - "[[Incremental-Theory-of-Intelligence]]"
-  - "[[Growth-Mindset-Theory]]"
-  - "[[Autonomous-Motivation]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Appraisal-Theory]]"
-  - "[[Appraisal-Theory]]"
-  - "[[Attribution-Style]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[bernard-weiner|Bernard-Weiner]]"
+  - "[[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[causal-induction|Causal-Induction]]"
+  - "[[perceived-locus-of-causality|Perceived-Locus-of-Causality]]"
+  - "[[Actor-Observer-Bias|Actor-Observer-Bias]]"
+  - "[[bernard-weiner|Bernard-Weiner]]"
+  - "[[perceived-locus-of-causality|Perceived-Locus-of-Causality]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[perceived-locus-of-causality|Perceived-Locus-of-Causality]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[implicit-theory-of-intelligence|Implicit-Theory-of-Intelligence]]"
+  - "[[incremental-theory-of-intelligence|Incremental-Theory-of-Intelligence]]"
+  - "[[growth-mindset-theory|Growth-Mindset-Theory]]"
+  - "[[autonomous-motivation|Autonomous-Motivation]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[appraisal-theory|Appraisal-Theory]]"
+  - "[[appraisal-theory|Appraisal-Theory]]"
+  - "[[attribution-style|Attribution-Style]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +106,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Attribution-Retraining-Interventions-This-expansion-applies-the-theo|> [!topic-idea] [[Attribution-Retraining-Interventions]]
+  - topic: "[[> [!topic-idea] [[Attribution-Retraining-Interventions]]
 > This expansion applies the theoretical ar]]"
     description: ""
     priority: medium
@@ -127,12 +128,12 @@ importance: high
 > 
 > **Operational Indicators:** Classify any stated cause using three binary questions: (1) Is the cause in the person or outside? (2) Will the cause likely persist in future situations? (3) Could the person have controlled the cause through volition?
 > 
-> **Cross-References:** [[Attribution-Theory]], [[Bernard-Weiner]], [[Causal-Induction]]
+> **Cross-References:** [[attribution-theory]], [[bernard-weiner]], [[causal-induction]]
 
 ## Core Explanation
 
 > [!evidence] Supporting Evidence *(from [[attribution-theory-focused-analysis-2026-03-24]])*
-> Across the attribution literature, the stability-expectancy-hopelessness pathway shows the most consistent empirical support. Studies using both experimental manipulations (feedback framed as indicating stable versus unstable ability differences) and correlational designs (measuring [[Attribution-Style]] across individuals) reliably find that stable attributions for negative outcomes predict reduced persistence, lower subsequent effort investment, and affective states consistent with…
+> Across the attribution literature, the stability-expectancy-hopelessness pathway shows the most consistent empirical support. Studies using both experimental manipulations (feedback framed as indicating stable versus unstable ability differences) and correlational designs (measuring [[attribution-style]] across individuals) reliably find that stable attributions for negative outcomes predict reduced persistence, lower subsequent effort investment, and affective states consistent with…
 
 > [!evidence] Supporting Evidence *(from [[attribution-theory-focused-analysis-2026-03-24]])*
 > Graham and colleagues (1992) showed that the controllability-helping pathway holds even for racially stigmatized conditions — specifically, controllability attributions mediated racial disparities in reported helping intentions. Reisenzein (1986) demonstrated the anger-helping link in behavioral (not just self-report) measures. The robustness of this finding across cultures is more variable — individualistic cultures show stronger controllability effects on helping, consistent with a framework…
@@ -444,19 +445,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[attribution-theory-focused-analysis-2026-03-24]])*:
-- [[Growth-Mindset-Theory]]
-- [[Helpless-Response-Pattern]]
-- [[Self-Determination-Theory]]
-- [[Perceived-Locus-of-Causality]]
-- [[Appraisal-Theory]]
-- [[Achievement-Goal-Theory]]
-- [[Actor-Observer-Bias]]
-- [[Belonging-Uncertainty]]
-- [[Metacognitive-Scaffolding]]
-- [[Motivation-Theory-Foundational-Report]]
+- [[growth-mindset-theory|Growth-Mindset-Theory]]
+- [[helpless-response-pattern|Helpless-Response-Pattern]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[perceived-locus-of-causality|Perceived-Locus-of-Causality]]
+- [[appraisal-theory|Appraisal-Theory]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[Actor-Observer-Bias|Actor-Observer-Bias]]
+- [[belonging-uncertainty|Belonging-Uncertainty]]
+- [[metacognitive-scaffolding|Metacognitive-Scaffolding]]
+- [[motivation-theory-foundational-report|Motivation-Theory-Foundational-Report]]
 
 **Related concepts:**
-[[Attribution-Theory]] · [[Bernard-Weiner]] · [[Attribution-Retraining-Interventions]] · [[Attribution-Theory]] · [[Causal-Induction]] · [[Perceived-Locus-of-Causality]] · [[Actor-Observer-Bias]] · [[Bernard-Weiner]] · [[Perceived-Locus-of-Causality]] · [[Attribution-Theory]] · [[Perceived-Locus-of-Causality]] · [[Self-Determination-Theory]] · [[Implicit-Theory-of-Intelligence]] · [[Incremental-Theory-of-Intelligence]] · [[Growth-Mindset-Theory]] · [[Autonomous-Motivation]] · [[Achievement-Goal-Theory]] · [[Appraisal-Theory]] · [[Appraisal-Theory]] · [[Attribution-Style]] · [[Attribution-Theory]] · [[Actor-Observer-Bias]] · [[Attribution-Style]] · [[Helpless-Response-Pattern]] · [[Growth-Mindset-Theory]] · [[Carol-Dweck]] · [[Appraisal-Theory]] · [[Richard-Lazarus]] · [[Wilson-and-Linville|Wilson and Linville]] · [[Attribution-Retraining-Interventions]]
+[[attribution-theory|Attribution-Theory]] · [[bernard-weiner|Bernard-Weiner]] · [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]] · [[attribution-theory|Attribution-Theory]] · [[causal-induction|Causal-Induction]] · [[perceived-locus-of-causality|Perceived-Locus-of-Causality]] · [[Actor-Observer-Bias|Actor-Observer-Bias]] · [[bernard-weiner|Bernard-Weiner]] · [[perceived-locus-of-causality|Perceived-Locus-of-Causality]] · [[attribution-theory|Attribution-Theory]] · [[perceived-locus-of-causality|Perceived-Locus-of-Causality]] · [[self-determination-theory|Self-Determination-Theory]] · [[implicit-theory-of-intelligence|Implicit-Theory-of-Intelligence]] · [[incremental-theory-of-intelligence|Incremental-Theory-of-Intelligence]] · [[growth-mindset-theory|Growth-Mindset-Theory]] · [[autonomous-motivation|Autonomous-Motivation]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[appraisal-theory|Appraisal-Theory]] · [[appraisal-theory|Appraisal-Theory]] · [[attribution-style|Attribution-Style]] · [[attribution-theory|Attribution-Theory]] · [[Actor-Observer-Bias|Actor-Observer-Bias]] · [[attribution-style|Attribution-Style]] · [[helpless-response-pattern|Helpless-Response-Pattern]] · [[growth-mindset-theory|Growth-Mindset-Theory]] · [[carol-dweck|Carol-Dweck]] · [[appraisal-theory|Appraisal-Theory]] · [[richard-lazarus|Richard-Lazarus]] · [[wilson-and-linville|Wilson-and-Linville]] · [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]]
 
 ## References
 

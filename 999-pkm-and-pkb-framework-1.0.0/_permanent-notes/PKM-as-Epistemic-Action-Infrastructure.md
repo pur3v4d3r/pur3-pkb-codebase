@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,40 +69,40 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Offloading]]"
-  - "[[George-Miller]]"
-  - "[[Alan-Baddeley]]"
-  - "[[Nelson-Cowan]]"
-  - "[[Cognitive-Offloading]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Metacognition]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[George-Miller]]"
-  - "[[Short-Term-Memory]]"
-  - "[[Alan-Baddeley]]"
-  - "[[Graham-Hitch]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
+  - "[[george-miller|George-Miller]]"
+  - "[[alan-baddeley|Alan-Baddeley]]"
+  - "[[Nelson-Cowan|Nelson-Cowan]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[george-miller|George-Miller]]"
+  - "[[short-term-memory|Short-Term-Memory]]"
+  - "[[alan-baddeley|Alan-Baddeley]]"
+  - "[[graham-hitch|Graham-Hitch]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Extended-Mind-Theory]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Spaced-Repetition-Systems-—-Deep-Implementation-Architecture-Descrip|> [!topic-idea] **[[Spaced-Repetition-Systems]]** — Deep Implementation Architecture
+  - topic: "[[> [!topic-idea] **[[spaced-repetition-systems]]** — Deep Implementation Architecture
 > **Description]]"
     description: ""
     priority: medium
@@ -156,13 +156,13 @@ importance: high
 > *Annotation:* Overview of desirable difficulties — conditions that slow initial learning but improve long-term retention and transfer (spacing, testing, interleaving, generation). Directly supports both the Generative Investment Principle and the Scaffold-Dependence Risk discussion. The generation effect, spacing effect, and testing effect are all relevant to PKM review design.
 
 > [!evidence] Supporting Evidence *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> *Annotation:* Proposed "long-term working memory" — the use of long-term memory retrieval structures to extend effective working memory capacity in skilled practitioners. Provides theoretical infrastructure for understanding how expert PKM practitioners may develop rapidly accessible knowledge structures that effectively reduce working memory overhead through [[Long-Term-Memory]] reorganisation.
+> *Annotation:* Proposed "long-term working memory" — the use of long-term memory retrieval structures to extend effective working memory capacity in skilled practitioners. Provides theoretical infrastructure for understanding how expert PKM practitioners may develop rapidly accessible knowledge structures that effectively reduce working memory overhead through [[long-term-memory]] reorganisation.
 
 > [!analytical-insight] Key Insight *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> Despite popular belief, raw working memory capacity — measured as the number of items to which focused attention can be simultaneously allocated — does not substantially increase with training in adults. What does improve is: (1) the sophistication of [[Chunking]] strategies that compress multiple items into single held representations, (2) the richness of [[Long-Term-Memory]] associates that can support working memory operations through spreading activation, and (3) expertise-based pattern…
+> Despite popular belief, raw working memory capacity — measured as the number of items to which focused attention can be simultaneously allocated — does not substantially increase with training in adults. What does improve is: (1) the sophistication of [[chunking]] strategies that compress multiple items into single held representations, (2) the richness of [[long-term-memory]] associates that can support working memory operations through spreading activation, and (3) expertise-based pattern…
 
 > [!analytical-insight] Key Insight *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> Expertise research (Ericsson, Chase, Simon) consistently demonstrates that the primary cognitive advantage experts have over novices is not superior working memory capacity but richer, larger, and more accessible chunks in [[Long-Term-Memory]]. These chunks are formed through thousands of hours of [[Deliberate-Practice]] in a domain. PKM, understood through this lens, is a practice environment: the process of making notes, drawing connections, building concept maps, and revisiting prior…
+> Expertise research (Ericsson, Chase, Simon) consistently demonstrates that the primary cognitive advantage experts have over novices is not superior working memory capacity but richer, larger, and more accessible chunks in [[long-term-memory]]. These chunks are formed through thousands of hours of [[deliberate-practice]] in a domain. PKM, understood through this lens, is a practice environment: the process of making notes, drawing connections, building concept maps, and revisiting prior…
 
 ## Practical Implications
 
@@ -170,7 +170,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> Research on [[Cognitive-Offloading]] consistently shows a substitution effect: when practitioners can offload to an external system, they systematically reduce their internal processing of the same material. This creates a paradox for PKM design. Offloading extraneous load (irrelevant formatting decisions, rote organisational tasks, verbatim transcription) is unambiguously beneficial. But offloading intrinsically complex material — the processing that generates understanding and drives…
+> Research on [[cognitive-offloading]] consistently shows a substitution effect: when practitioners can offload to an external system, they systematically reduce their internal processing of the same material. This creates a paradox for PKM design. Offloading extraneous load (irrelevant formatting decisions, rote organisational tasks, verbatim transcription) is unambiguously beneficial. But offloading intrinsically complex material — the processing that generates understanding and drives…
 
 > [!warning] **Key Distinction** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > There is genuine empirical evidence that consistent reliance on external cognitive scaffolds can suppress the internal processing that would otherwise consolidate those capacities. For PKM practitioners, the most significant risk is not dependence on any specific tool but dependence on having any tool available at all — the erosion of the capacity for sustained internal reasoning without external support. The counter-strategy is intentional scaffold withdrawal: regular practice of working from…
@@ -242,7 +242,7 @@ importance: high
 > [!reflection] **Reflect** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > 1. In your PKM workflow, do you maintain a distinct separation between capture, processing, and integration stages? If not, what is the consequence of conflating any of these stages in your experience?
 > 2. The integration step has been identified as the bottleneck. What specific features of your current workflow make integration easy or hard to prioritise?
-> 3. If you use [[Spaced-Repetition]] in your PKM, what types of knowledge are you encoding for spaced review? If you do not use it, what is…
+> 3. If you use [[spaced-repetition]] in your PKM, what types of knowledge are you encoding for spaced review? If you do not use it, what is…
 
 > [!reflection] **Reflect** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > 1. Can you identify specific moments when your PKM has clearly been running in replacement mode rather than augmentation mode? What were the downstream epistemic consequences?
@@ -255,8 +255,8 @@ importance: high
 > Before reading, consider what you already understand about these connected areas in your PKB:
 > 
 > **Existing conceptual anchors this report builds upon:**
-> - **[[Cognitive-Load-Theory]]**: Sweller's framework distinguishing intrinsic, extraneous, and germane load. This report reframes the entire domain of PKM as a systematic extraneous-load reduction strategy.
-> - **[[Extended-Mind-Theory]]**: Clark and Chalmers' argument that cognition can extend beyond the skin/skull boundary when external resources satisfy certain functional criteria. This report applies that framework specifically to PKB…
+> - **[[cognitive-load-theory]]**: Sweller's framework distinguishing intrinsic, extraneous, and germane load. This report reframes the entire domain of PKM as a systematic extraneous-load reduction strategy.
+> - **[[extended-mind-theory]]**: Clark and Chalmers' argument that cognition can extend beyond the skin/skull boundary when external resources satisfy certain functional criteria. This report applies that framework specifically to PKB…
 
 ## Far Transfer Applications
 
@@ -264,7 +264,7 @@ importance: high
 > The same principles that govern individual PKM effectiveness — the Extraneous-First principle, the Trust Condition quality standard, the Retrieval-as-Computation principle — apply to organisational knowledge systems (wikis, knowledge bases, documentation systems). Organisations consistently create knowledge archives that fail the Trust Condition: documentation is outdated, inconsistently formatted, impossible to navigate without tribal knowledge about where things are hidden. The boundary conditions identified in Section 7 also apply: some tacit knowledge that lives in experienced…
 
 > [!far-transfer] **Application Domain 2: Educational Instructional Design** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> [[Cognitive-Load-Theory]] was developed specifically in the context of instructional design, and many of the PKM design principles represent applications of CLT back to self-directed adult learning. But the broader cognitive offloading framework offers additional insights for instructional designers: worked examples reduce extraneous load and free resources for germane processing; scaffolded environments that make knowledge structures externally visible (concept maps, annotated examples, expert demonstrations) reduce the working memory demands of initial learning by providing external…
+> [[cognitive-load-theory]] was developed specifically in the context of instructional design, and many of the PKM design principles represent applications of CLT back to self-directed adult learning. But the broader cognitive offloading framework offers additional insights for instructional designers: worked examples reduce extraneous load and free resources for germane processing; scaffolded environments that make knowledge structures externally visible (concept maps, annotated examples, expert demonstrations) reduce the working memory demands of initial learning by providing external…
 
 > [!far-transfer] **Application Domain 3: Software and Interface Design** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > The cognitive offloading framework provides a principled vocabulary for interface design evaluation: does this interface feature reduce extraneous load or add it? Does it support germane processing of domain-relevant information? Does it enable epistemic actions that would be impossible without the interface? Human-computer interaction research has independently converged on many of the same principles under different terminologies (affordances, mental models, flow, cognitive walkthrough evaluation) — the offloading framework provides the underlying cognitive science that unifies these design…
@@ -282,10 +282,10 @@ importance: high
 > Most PKM implementations function primarily as perceptual offloading systems — they store information that would otherwise need to be retained in working memory or long-term memory. This is valuable, but it leaves the most powerful form of offloading untapped. A PKM system that functions as a *cognitive prosthetic* — one that performs operations, not just stores data — is one designed to offload the computational work of maintaining relationships, tracking implications, surfacing connections, and representing epistemic states. The difference between a flat note archive and a richly linked…
 
 > [!claude-insight] **Why AI-Assisted Capture Requires Extra Care** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> The extended mind framework identifies a crucial risk in AI-assisted PKM workflows that is invisible if one thinks about PKM purely as information management. When AI tools generate notes, summaries, or connections automatically, the practitioner receives externally produced content that may not reflect their own processed understanding. This content can populate the PKB without the practitioner having performed the generative processing that (a) builds [[Long-Term-Memory]] consolidation and (b) satisfies the prior-endorsement coupling condition. The result is a PKB that looks rich and…
+> The extended mind framework identifies a crucial risk in AI-assisted PKM workflows that is invisible if one thinks about PKM purely as information management. When AI tools generate notes, summaries, or connections automatically, the practitioner receives externally produced content that may not reflect their own processed understanding. This content can populate the PKB without the practitioner having performed the generative processing that (a) builds [[long-term-memory]] consolidation and (b) satisfies the prior-endorsement coupling condition. The result is a PKB that looks rich and…
 
 > [!claude-insight] **The Temporal Logic of Cognitive Investment** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> A crucial and often neglected insight from the cognitive economy model is its temporal structure. The upfront cognitive cost of making high-quality, well-linked, generatively processed notes is substantially higher than the cost of rapid capture or verbatim transcription. But this cost is an investment: the richer encoding drives deeper [[Long-Term-Memory]] consolidation (via the [[Levels-of-Processing-Theory|levels of processing]] framework), produces a more semantically accessible external representation, and builds the schemas that reduce future processing costs. The practitioner who…
+> A crucial and often neglected insight from the cognitive economy model is its temporal structure. The upfront cognitive cost of making high-quality, well-linked, generatively processed notes is substantially higher than the cost of rapid capture or verbatim transcription. But this cost is an investment: the richer encoding drives deeper [[long-term-memory]] consolidation (via the [[levels-of-processing-theory|levels of processing]] framework), produces a more semantically accessible external representation, and builds the schemas that reduce future processing costs. The practitioner who…
 
 > [!claude-insight] **The Integration Step Is the Bottleneck** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > Among the three stages of the Capture → Process → Integrate pipeline, integration is consistently the most neglected. This neglect is understandable: capture is urgent and feels productive, processing is tractable and has an obvious end state (a finished permanent note), but integration requires navigating the existing structure of the knowledge base — a cognitively demanding task that grows more demanding as the base grows larger. Yet integration is where the cognitive leverage of a PKB is created: an unintegrated note is an island, contributing nothing to the epistemic action…
@@ -293,22 +293,22 @@ importance: high
 ## Section Summaries
 
 > [!section-summary] **Section 1 Summary** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> Working memory is a multicomponent system with approximately three to five item capacity in the focus of attention, subject to rapid temporal decay, and not substantially improvable in capacity through training. [[John-Sweller]]'s [[Cognitive-Load-Theory]] distinguishes three types of cognitive load, with extraneous load as the primary target for PKM intervention. The severity of these constraints in real-world intellectual work — where multiple competing demands simultaneously compete for the same limited [[Central-Executive]] resources — is the foundational empirical justification for…
+> Working memory is a multicomponent system with approximately three to five item capacity in the focus of attention, subject to rapid temporal decay, and not substantially improvable in capacity through training. [[john-sweller]]'s [[cognitive-load-theory]] distinguishes three types of cognitive load, with extraneous load as the primary target for PKM intervention. The severity of these constraints in real-world intellectual work — where multiple competing demands simultaneously compete for the same limited [[central-executive]] resources — is the foundational empirical justification for…
 
 > [!section-summary] **Section 2 Summary** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> [[Cognitive-Offloading]] is the deliberate use of environmental action to reduce the information-processing demands on the cognitive system, operating across motor, perceptual, and computational levels. The ease-of-offload literature confirms that offloading behaviour is natural and automatic. However, the substitution effect — whereby offloading reduces internal processing — means that blanket offloading creates the risk of archiving without understanding. The design challenge for [[Personal-Knowledge-Management]] is to offload extraneous cognitive demands while preserving and even…
+> [[cognitive-offloading]] is the deliberate use of environmental action to reduce the information-processing demands on the cognitive system, operating across motor, perceptual, and computational levels. The ease-of-offload literature confirms that offloading behaviour is natural and automatic. However, the substitution effect — whereby offloading reduces internal processing — means that blanket offloading creates the risk of archiving without understanding. The design challenge for [[personal-knowledge-management]] is to offload extraneous cognitive demands while preserving and even…
 
 > [!section-summary] **Section 3 Summary** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> [[Extended-Mind-Theory]] provides the philosophical framework for understanding a well-designed [[Personal-Knowledge-Base]] as genuine cognitive extension, not mere storage assistance. The Parity Principle establishes that external resources count as cognitive when they perform the same function as internal cognitive processes. The coupling conditions — reliable accessibility, trusted outputs, prior endorsement through deliberate action — translate directly into PKB design requirements. The concept of [[Epistemic-Actions]] reframes note-making as active cognitive labour that builds external…
+> [[extended-mind-theory]] provides the philosophical framework for understanding a well-designed [[personal-knowledge-base]] as genuine cognitive extension, not mere storage assistance. The Parity Principle establishes that external resources count as cognitive when they perform the same function as internal cognitive processes. The coupling conditions — reliable accessibility, trusted outputs, prior endorsement through deliberate action — translate directly into PKB design requirements. The concept of [[epistemic-actions]] reframes note-making as active cognitive labour that builds external…
 
 > [!section-summary] **Section 4 Summary** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> [[Schema-Theory-and-Learning|Schema theory]] and [[Chunking]] describe the internal mechanisms that complement external cognitive offloading. Expert performance advantages derive primarily from richer long-term memory chunks, not larger working memory. This creates a dual function for PKM: it simultaneously offloads current working memory demands and, when designed to encourage generative processing, scaffolds the formation of internal schemas that reduce future demands. The Cognitive Economy Model frames PKM design as a resource allocation strategy across time — investing upfront cognitive…
+> [[schema-theory-and-learning|Schema theory]] and [[chunking]] describe the internal mechanisms that complement external cognitive offloading. Expert performance advantages derive primarily from richer long-term memory chunks, not larger working memory. This creates a dual function for PKM: it simultaneously offloads current working memory demands and, when designed to encourage generative processing, scaffolds the formation of internal schemas that reduce future demands. The Cognitive Economy Model frames PKM design as a resource allocation strategy across time — investing upfront cognitive…
 
 > [!section-summary] **Section 5 Summary** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > Seven design principles for offloading-optimised PKM emerge from the theoretical analysis: (1) Extraneous-First — eliminate non-epistemic cognitive load; (2) Zero-Friction Capture — never let friction defeat the ease-of-offload tendency; (3) Trust Condition as Quality Standard — notes must be trustworthy enough to function as extended cognition; (4) Semantic Density — encode relationships, not just information; (5) Retrieval-as-Computation — design retrieval to do cognitive work; (6) Offloading Fidelity — represent actual cognitive states with accuracy; (7) Generative Investment — ensure…
 
 > [!section-summary] **Section 6 Summary** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
-> Offloading-optimised PKM is implemented through a three-stage Capture → Process → Integrate pipeline, where each stage is governed by specific principles. Integration — the most cognitively demanding and most neglected stage — is where relational structure is built and the PKB transitions from archive to epistemic action infrastructure. [[Spaced-Repetition]] offloads metacognitive review scheduling while exploiting the [[Spacing-Effect]]. Linked [[Knowledge-Graph]] architectures distribute relational computation across the practitioner-PKB system in ways that flat archives cannot.
+> Offloading-optimised PKM is implemented through a three-stage Capture → Process → Integrate pipeline, where each stage is governed by specific principles. Integration — the most cognitively demanding and most neglected stage — is where relational structure is built and the PKB transitions from archive to epistemic action infrastructure. [[spaced-repetition]] offloads metacognitive review scheduling while exploiting the [[spacing-effect]]. Linked [[Knowledge-Graph]] architectures distribute relational computation across the practitioner-PKB system in ways that flat archives cannot.
 
 > [!section-summary] **Section 7 Summary** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > Three categories of challenge qualify the cognitive offloading model: (1) Scaffold-dependence risk — consistent offloading may erode internal capacities through disuse, requiring deliberate scaffold withdrawal practices to maintain baseline capabilities; (2) Replacement vs. augmentation — the same PKB features can be used in ways that replace cognitive effort (harmful to long-term development) or augment it (beneficial); (3) Boundary conditions — deep reading comprehension, creative incubation, and tacit/embodied knowledge acquisition are domains where internal processing is irreplaceable and…
@@ -350,7 +350,7 @@ importance: high
 > [!flashcard] **Card 5** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > **Q:** Untitled
 > **A:** **Question:** Explain the Substitution Trap in PKM contexts.
-**Answer:** The Substitution Trap occurs when cognitive offloading replaces (rather than supplements) the internal processing that contributes to [[Long-Term-Memory]] consolidation. Capturing an idea into a PKB inbox without generative reformulation offloads working memory but bypasses schema formation — the information is relocated without being learned. Result: growing archive → reduced learning → PKB never becomes a genuine extended cognitive resource.
+**Answer:** The Substitution Trap occurs when cognitive offloading replaces (rather than supplements) the internal processing that contributes to [[long-term-memory]] consolidation. Capturing an idea into a PKB inbox without generative reformulation offloads working memory but bypasses schema formation — the information is relocated without being learned. Result: growing archive → reduced learning → PKB never becomes a genuine extended cognitive resource.
 **Difficulty:** Advanced
 **Tags:** substitution-trap, cognitive-offloading, generative-processing
 **Source:** Section 2 — Substitution Trap
@@ -389,7 +389,7 @@ importance: high
 
 > [!flashcard] **Card 10** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*
 > **Q:** Untitled
-> **A:** **Question:** Name and briefly explain three [[Desirable-Difficulties]] from the learning science literature and explain why each matters for PKM review design.
+> **A:** **Question:** Name and briefly explain three [[desirable-difficulties]] from the learning science literature and explain why each matters for PKM review design.
 **Answer:** (1) Spacing Effect — distributed practice is more effective than massed practice for long-term retention → PKM review should be spaced, not reviewed all at once; (2) Testing Effect — retrieval practice (actively recalling) is more effective than re-reading → PKM review should require active recall, not passive re-reading of notes; (3) Generation Effect — self-generated material is better consolidated than passively received material → PKM note-making should involve reformulation in own words, not verbatim capture.
 **Difficulty:** Advanced
 **Tags:** desirable-difficulties, spaced-repetition, generative-processing, PKM-review
@@ -451,19 +451,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]])*:
-- [[Cognitive-Load-Theory]]
-- [[Working-Memory]]
-- [[Extended-Mind-Thesis]]
-- [[Schema-Theory]]
-- [[Spaced-Repetition]]
-- [[Distributed-Cognition]]
-- [[Personal-Knowledge-Management]]
-- [[Knowledge-Graph]]
-- [[Active-Note-Making]]
-- [[Obsidian-PKB-Architecture]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[working-memory|Working-Memory]]
+- [[extended-mind-thesis|Extended-Mind-Thesis]]
+- [[schema-theory|Schema-Theory]]
+- [[spaced-repetition|Spaced-Repetition]]
+- [[distributed-cognition|Distributed-Cognition]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[Knowledge-Graph|Knowledge-Graph]]
+- [[active-note-making|Active-Note-Making]]
+- [[obsidian-pkb-architecture|Obsidian-PKB-Architecture]]
 
 **Related concepts:**
-[[Cognitive-Offloading]] · [[George-Miller]] · [[Alan-Baddeley]] · [[Nelson-Cowan]] · [[Cognitive-Offloading]] · [[Extended-Mind-Theory]] · [[Personal-Knowledge-Base]] · [[Cognitive-Load-Theory]] · [[Personal-Knowledge-Management]] · [[Cognitive-Load-Theory]] · [[Extended-Mind-Theory]] · [[Metacognition]] · [[Long-Term-Memory]] · [[Personal-Knowledge-Management]] · [[Personal-Knowledge-Management]] · [[George-Miller]] · [[Short-Term-Memory]] · [[Alan-Baddeley]] · [[Graham-Hitch]] · [[Baddeley's-Working-Memory-Model]] · [[Central-Executive]] · [[Phonological-Loop]] · [[Episodic-Buffer]] · [[Long-Term-Memory]] · [[Cognitive-Offloading]] · [[Nelson-Cowan]] · [[Long-Term-Memory]] · [[Chunking]] · [[Short-Term-Memory]] · [[Personal-Knowledge-Management]]
+[[cognitive-offloading|Cognitive-Offloading]] · [[george-miller|George-Miller]] · [[alan-baddeley|Alan-Baddeley]] · [[Nelson-Cowan|Nelson-Cowan]] · [[cognitive-offloading|Cognitive-Offloading]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[metacognition|Metacognition]] · [[long-term-memory|Long-Term-Memory]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[george-miller|George-Miller]] · [[short-term-memory|Short-Term-Memory]] · [[alan-baddeley|Alan-Baddeley]] · [[graham-hitch|Graham-Hitch]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[central-executive|Central-Executive]] · [[phonological-loop|Phonological-Loop]] · [[episodic-buffer|Episodic-Buffer]] · [[long-term-memory|Long-Term-Memory]] · [[cognitive-offloading|Cognitive-Offloading]] · [[Nelson-Cowan|Nelson-Cowan]] · [[long-term-memory|Long-Term-Memory]] · [[chunking|Chunking]] · [[short-term-memory|Short-Term-Memory]] · [[personal-knowledge-management|Personal-Knowledge-Management]]
 
 ## References
 
@@ -478,7 +478,7 @@ importance: high
 - **Paas, F., Renkl, A., & Sweller, J. (2003).** Cognitive load theory and instructional design: Recent developments. *Educational Psychologist, 38*(1), 1–4.**: *Annotation:* Overview of developments in Cognitive Load Theory, including the interaction between load types and learner expertise (expertise reversal effect). Relevant to the boundary conditions discussion: what counts as extraneous load depends on the practitioner's expertise level, not only on the instructional design.
 - **Mueller, P. A., & Oppenheimer, D. M. (2014).** The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168.**: *Annotation:* Reported superior conceptual test performance from handwritten versus laptop notes, arguing that typing enables verbatim transcription that bypasses reformulation. Directly relevant to the Generative Investment Principle and the Conceptual Tensions section on note-taking medium. Should be read alongside Morehead et al. (2019) for replication context.
 - **Bjork, R. A., & Bjork, E. L. (2011).** Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World* (pp. 56–64). Worth Publishers.**: *Annotation:* Overview of desirable difficulties — conditions that slow initial learning but improve long-term retention and transfer (spacing, testing, interleaving, generation). Directly supports both the Generative Investment Principle and the Scaffold-Dependence Risk discussion. The generation effect, spacing effect, and testing effect are all relevant to PKM review design.
-- **Ericsson, K. A., & Kintsch, W. (1995).** Long-term working memory. *Psychological Review, 102*(2), 211–245.**: *Annotation:* Proposed "long-term working memory" — the use of long-term memory retrieval structures to extend effective working memory capacity in skilled practitioners. Provides theoretical infrastructure for understanding how expert PKM practitioners may develop rapidly accessible knowledge structures that effectively reduce working memory overhead through [[Long-Term-Memory]] reorganisation.
+- **Ericsson, K. A., & Kintsch, W. (1995).** Long-term working memory. *Psychological Review, 102*(2), 211–245.**: *Annotation:* Proposed "long-term working memory" — the use of long-term memory retrieval structures to extend effective working memory capacity in skilled practitioners. Provides theoretical infrastructure for understanding how expert PKM practitioners may develop rapidly accessible knowledge structures that effectively reduce working memory overhead through [[long-term-memory]] reorganisation.
 
 *Citations sourced from [[pkm-working-memory-cognitive-offloading-foundational-report-2026-04-05]]*
 

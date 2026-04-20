@@ -51,7 +51,7 @@ link-related:
 
 > [!abstract]
 > **Executive Overview**
-> This reference document defines a comprehensive system for leveraging [[Claude|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[Obsidian]] [[Personal-Knowledge-Base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
+> This reference document defines a comprehensive system for leveraging [[Claude|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[obsidian]] [[personal-knowledge-base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -75,7 +75,7 @@ link-related:
 
 > [!definition]
 > - **Key-Term**: [[Prompt Component Librarian]]
-> - **Definition**: A systematic role where an AI assistant (specifically [[Claude]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal-Knowledge-Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
+> - **Definition**: A systematic role where an AI assistant (specifically [[Claude]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[personal-knowledge-base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
 
 ### The Evolution from Ad-Hoc Prompting to Component-Based Systems
 
@@ -83,7 +83,7 @@ The traditional approach to [[Prompt-Engineering]] treats each interaction as an
 
 Component-based prompt engineering represents a paradigm shift toward treating prompts as reusable knowledge artifacts. Just as software engineers build applications from tested, modular components rather than writing monolithic code, prompt engineers can construct sophisticated AI interactions by composing well-defined, version-controlled prompt modules. Each component encapsulates a specific prompting pattern, technique, or instruction set that has proven effective. These components become permanent fixtures in your [[Knowledge-Graph]], accumulating value through refinement, documentation, and cross-referencing.
 
-The [[Personal-Knowledge-Base]] provides the ideal substrate for this transformation. Your [[Obsidian vault]] already serves as a second brain for capturing insights, building connections, and developing expertise. By extending this system to encompass prompt components, you create a living library where each prompt module participates in the same [[Zettelkasten]] principles that govern your other notes: atomicity (each component has one clear purpose), connectivity (components link to related concepts and other components), and permanence (components improve over time rather than being discarded).
+The [[personal-knowledge-base]] provides the ideal substrate for this transformation. Your [[Obsidian vault]] already serves as a second brain for capturing insights, building connections, and developing expertise. By extending this system to encompass prompt components, you create a living library where each prompt module participates in the same [[zettelkasten]] principles that govern your other notes: atomicity (each component has one clear purpose), connectivity (components link to related concepts and other components), and permanence (components improve over time rather than being discarded).
 
 > [!key-claim]
 > **Central Principle**
@@ -235,7 +235,7 @@ Compositions (in `Compositions/`) represent complete, tested combinations of com
 
 ### Metadata Schema for Components
 
-Each component file should implement a consistent [[YAML-Frontmatter]] metadata schema. Comprehensive metadata transforms components from isolated files into nodes in a queryable knowledge graph. The metadata enables [[Dataview]] queries, supports [[Templater]] automation, facilitates version tracking, and provides Claude with structured information for component selection.
+Each component file should implement a consistent [[yaml-frontmatter]] metadata schema. Comprehensive metadata transforms components from isolated files into nodes in a queryable knowledge graph. The metadata enables [[Dataview]] queries, supports [[Templater]] automation, facilitates version tracking, and provides Claude with structured information for component selection.
 
 A robust metadata schema includes these fields:
 
@@ -600,7 +600,7 @@ An alternative workflow uses [[Templater]] and [[component-exemplar-quickadd-plu
 
 For frequently-used combinations, create saved compositions that become one-click prompt starters. A "Standard Technical Documentation" composition might be a single file that includes all necessary components already assembled and ready for deployment. When you need technical documentation, you simply reference this composition rather than assembling from atomics every time.
 
-Integration also means connecting your component library to your broader [[Personal-Knowledge-Base]]. Components should link to domain notes (a [[Data-Visualization]] component links to your [[Data Visualization MOC]]), components should reference example outputs (showing what they produce), and components should participate in your [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] system if you use one (for components you're trying to internalize).
+Integration also means connecting your component library to your broader [[personal-knowledge-base]]. Components should link to domain notes (a [[Data-Visualization]] component links to your [[Data Visualization MOC]]), components should reference example outputs (showing what they produce), and components should participate in your [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] system if you use one (for components you're trying to internalize).
 
 > [!tip]
 > **Friction Reduction Strategy**
@@ -808,7 +808,7 @@ Claude can maintain much of the original structure while adapting specific eleme
 
 ### Cross-Library Integration & Knowledge Graph Enhancement
 
-Your prompt component library doesn't exist in isolation—it's part of your larger [[Personal-Knowledge-Base]]. Advanced usage integrates components deeply into your knowledge graph, creating bidirectional relationships that enhance both the components and your broader knowledge system.
+Your prompt component library doesn't exist in isolation—it's part of your larger [[personal-knowledge-base]]. Advanced usage integrates components deeply into your knowledge graph, creating bidirectional relationships that enhance both the components and your broader knowledge system.
 
 **Concept Linking** embeds [[wiki-links]] within component content that point to relevant concept notes in your PKB. A [[Machine-Learning]] technique component might link to your [[Machine Learning MOC]], your notes on [[Supervised Learning]], [[Overfitting]], and [[Model Evaluation]]. These links serve multiple purposes: they provide context for understanding the component (someone unfamiliar with machine learning can follow links to learn), they surface the component when you're working on related concepts (your ML notes show backlinks to ML-related prompt components), and they integrate components into your broader learning and reference system.
 

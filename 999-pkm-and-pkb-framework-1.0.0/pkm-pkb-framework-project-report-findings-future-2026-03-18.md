@@ -64,11 +64,11 @@ related_concepts:
   - "[[Five-Convergence-Zones]]"
   - "[[Cognitive Architecture Isomorphism]]"
   - "[[Convenience-Learning Tension]]"
-  - "[[Fluency-Illusion]]"
+  - "[[fluency-illusion]]"
   - "[[Cognitive Partnership Model]]"
   - "[[Epistemic Counterfeiting]]"
   - "[[Offloading Quality Distinction]]"
-  - "[[Desirable-Difficulties]]"
+  - "[[desirable-difficulties]]"
   - "[[Testing-Effect]]"
   - "[[Active-Construction-Imperative]]"
 builds_on:
@@ -91,7 +91,7 @@ companion_report: "[[pkm-pkb-framework-project-report-architecture-methodology-2
 
 The framework's capstone deliverable, developed in Report 27 ([[27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15|The Complete PKM/PKB Design Framework]]), is the [[Integrated-Learning-System-Model]] (ILSM). This model asserts that a PKB at full function is not merely a storage system with organizational features — it is a system with three synergistic properties that together constitute a distributed cognitive architecture:
 
-**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[Schema-Theory]], [[Semantic-Networks]], [[Cognitive-Load-Theory]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]].
+**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[schema-theory]], [[Semantic-Networks]], [[cognitive-load-theory]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]].
 
 **Property 2 — Constructive Processing Engine.** The PKB's workflows and interaction patterns demand active cognitive construction during every encounter — not passive retrieval. Notes are designed as retrieval training instruments, review sessions require generation before re-exposure, and organizational structures create productive difficulty through cross-domain juxtaposition and elaborative interrogation.
 
@@ -145,13 +145,13 @@ The framework proposes the [[Offloading Quality Distinction]] as the primary heu
 
 ### 1.5 The Cognitive Partnership Model
 
-Report 30's original contribution — the [[Cognitive Partnership Model]] — addresses the AI integration question by proposing that AI in PKM should function not as oracle (providing answers), not as scribe (reducing effort), but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. This model is grounded in the framework's own [[Desirable-Difficulties]] evidence base: if productive difficulty is the mechanism of learning, then AI's value in a learning-oriented PKB lies not in removing difficulty but in calibrating it.
+Report 30's original contribution — the [[Cognitive Partnership Model]] — addresses the AI integration question by proposing that AI in PKM should function not as oracle (providing answers), not as scribe (reducing effort), but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. This model is grounded in the framework's own [[desirable-difficulties]] evidence base: if productive difficulty is the mechanism of learning, then AI's value in a learning-oriented PKB lies not in removing difficulty but in calibrating it.
 
 ### 1.6 The Three-Concept Diagnostic Chain
 
 The synthesis identifies what it terms the single most important diagnostic for AI-integrated PKM design:
 
-**[[Fluency-Illusion]]** (mechanism) → **[[Dunning-Kruger-Effect]]** (systemic consequence) → **[[Epistemic Counterfeiting]]** (AI amplification)
+**[[fluency-illusion]]** (mechanism) → **[[dunning-kruger-effect]]** (systemic consequence) → **[[Epistemic Counterfeiting]]** (AI amplification)
 
 Each concept builds on the previous. The Fluency Illusion causes individuals to mistake ease of processing for depth of understanding. The Dunning-Kruger Effect means those most susceptible to this illusion are least able to detect it. Epistemic Counterfeiting — the production of the appearance of knowledge without substance — is what occurs when AI's fluent output triggers the Fluency Illusion at scale. Together, they describe a compounding failure mode that threatens the epistemic autonomy the framework is designed to develop.
 
@@ -187,7 +187,7 @@ The identification of the [[Convenience-Learning Tension]] is perhaps the framew
 
 **Limitation 3 — The Thoroughness-Sustainability Tension.** The framework's own Active Construction Imperative (FP2) demands effortful processing for every note interaction. The motivational sustainability requirements demand that PKM practice be maintainable over decades. These imperatives compete for the same resource: the practitioner's cognitive energy. The framework offers no "minimum viable practice" specification — no guidance on how to implement the Twelve Master Principles at a level comprehensive enough to be effective but lightweight enough to be sustainable. The synthesis document correctly identifies this as the framework's most significant unresolved tension.
 
-**Limitation 4 — Solo Practice Scope.** The framework addresses only individual PKM practice. [[Collaborative Knowledge Building]], shared PKBs, team knowledge graphs, and social SECI processes are absent. Report 27 explicitly acknowledges this limitation, and [[Self-Determination-Theory]]'s identification of relatedness as a basic psychological need suggests that the framework's motivational architecture is incomplete without a social dimension.
+**Limitation 4 — Solo Practice Scope.** The framework addresses only individual PKM practice. [[Collaborative Knowledge Building]], shared PKBs, team knowledge graphs, and social SECI processes are absent. Report 27 explicitly acknowledges this limitation, and [[self-determination-theory]]'s identification of relatedness as a basic psychological need suggests that the framework's motivational architecture is incomplete without a social dimension.
 
 **Limitation 5 — Metadata Confidence Overstatement.** All 30 reports carry `confidence: high` in their YAML frontmatter, but reports operating in different epistemic territories warrant different confidence levels. Reports grounded in meta-analytic evidence (06, 16, 20) operate at genuinely higher epistemic confidence than reports addressing philosophical questions (28) or emerging AI territory (30, with `epistemic_status: emerging synthesis`). This uniform confidence rating constitutes the calibration failure the framework warns against — an irony the working notes (Pass 4: Critical Analysis) explicitly document.
 
@@ -201,7 +201,7 @@ The identification of the [[Convenience-Learning Tension]] is perhaps the framew
 
 **Finding 2 — The Severity of the AI Threat.** Report 30's analysis of AI integration risks was more severe than the project's initial framing suggested. The three-concept diagnostic chain (Fluency Illusion → Dunning-Kruger → Epistemic Counterfeiting) identifies a compounding failure mode that does not merely reduce learning effectiveness but actively undermines the epistemic autonomy the framework is designed to develop. The finding that "AI's most convenient features directly conflict with desirable difficulties research on deep learning" emerged as the framework's most urgent practical warning.
 
-**Finding 3 — The Universality of the Fluency Illusion.** Across the series, the [[Fluency-Illusion]] emerged as the single most referenced failure mode — appearing not just in the metacognition and calibration reports where it was expected, but recurring in discussions of note-making (Report 17), retrieval practice (Report 20), dialectical knowledge building (Report 21), and AI integration (Report 30). Its identification as the "universal PKM failure mode" was an emergent finding of the synthesis process, not a pre-planned conclusion.
+**Finding 3 — The Universality of the Fluency Illusion.** Across the series, the [[fluency-illusion]] emerged as the single most referenced failure mode — appearing not just in the metacognition and calibration reports where it was expected, but recurring in discussions of note-making (Report 17), retrieval practice (Report 20), dialectical knowledge building (Report 21), and AI integration (Report 30). Its identification as the "universal PKM failure mode" was an emergent finding of the synthesis process, not a pre-planned conclusion.
 
 ---
 
@@ -300,28 +300,28 @@ The most appropriate way to engage with this framework is the way the framework 
 ## 6. References
 
 > [!cite] **Anderson, J.R. (1977). Memory for information about individuals. *Memory & Cognition*, 5(4), 430–442.**
-> Key researcher in [[Schema-Theory]] development. Foundation for principle-organized knowledge organization.
+> Key researcher in [[schema-theory]] development. Foundation for principle-organized knowledge organization.
 
 > [!cite] **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**
-> Foundation of [[Schema-Theory]]. Knowledge is reconstructive, not reproductive.
+> Foundation of [[schema-theory]]. Knowledge is reconstructive, not reproductive.
 
 > [!cite] **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*. MIT Press.**
-> Coined [[Desirable-Difficulties]]. Central evidence base for FP2 (Active Construction Imperative).
+> Coined [[desirable-difficulties]]. Central evidence base for FP2 (Active Construction Imperative).
 
 > [!cite] **Chi, M.T.H., Feltovich, P.J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5(2), 121–152.**
 > Foundation for expert vs. novice knowledge organization. Supports principle-based PKB organization (DP1).
 
 > [!cite] **Clark, A. & Chalmers, D.J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**
-> [[Extended-Mind-Theory]]. Theoretical grounding for PKB as cognitive extension.
+> [[extended-mind-theory]]. Theoretical grounding for PKB as cognitive extension.
 
 > [!cite] **Collins, A.M. & Loftus, E.F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407–428.**
-> [[Semantic-Networks]] and [[Spreading-Activation]]. Architectural analog for wiki-link PKB structures.
+> [[Semantic-Networks]] and [[spreading-activation]]. Architectural analog for wiki-link PKB structures.
 
 > [!cite] **Cowan, N. (2001). The magical number 4 in short-term memory. *Behavioral and Brain Sciences*, 24(1), 87–114.**
 > Working memory capacity revised to ~4 chunks. Key constraint for note design.
 
 > [!cite] **Deci, E.L. & Ryan, R.M. (2000). The "what" and "why" of goal pursuits. *Psychological Inquiry*, 11(4), 227–268.**
-> [[Self-Determination-Theory]]. Autonomy, competence, relatedness as motivational foundations.
+> [[self-determination-theory]]. Autonomy, competence, relatedness as motivational foundations.
 
 > [!cite] **Dewey, J. (1933). *How We Think*. D.C. Heath.**
 > Reflective inquiry and pragmatist learning theory. Foundation of experience processing architecture.
@@ -333,7 +333,7 @@ The most appropriate way to engage with this framework is the way the framework 
 > Comprehensive review. Practice testing and distributed practice rated "high utility."
 
 > [!cite] **Flavell, J.H. (1979). Metacognition and cognitive monitoring. *American Psychologist*, 34(10), 906–911.**
-> [[Metacognition]] taxonomy. Foundation of regulatory embedding principle.
+> [[metacognition]] taxonomy. Foundation of regulatory embedding principle.
 
 > [!cite] **Furnas, G.W., Landauer, T.K., Gomez, L.M., & Dumais, S.T. (1987). The vocabulary problem in human-system communication. *Communications of the ACM*, 30(11), 964–971.**
 > [[Vocabulary-Mismatch-Problem]]. <20% naming agreement. Foundation for faceted classification need.
@@ -348,10 +348,10 @@ The most appropriate way to engage with this framework is the way the framework 
 > [[SECI-Model]]. Knowledge creation cycle adapted for personal knowledge management.
 
 > [!cite] **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.**
-> [[Constructivism]]. Assimilation and accommodation as knowledge construction mechanisms.
+> [[constructivism]]. Assimilation and accommodation as knowledge construction mechanisms.
 
 > [!cite] **Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.**
-> [[Tacit-Knowledge]]. Foundation for understanding PKB capture limits.
+> [[tacit-knowledge]]. Foundation for understanding PKB capture limits.
 
 > [!cite] **Reigeluth, C.M. (1999). *Instructional-Design Theories and Models: Volume II*. Lawrence Erlbaum.**
 > [[Elaboration-Theory]]. Sequencing architecture adapted for PKB note organization.
@@ -366,13 +366,13 @@ The most appropriate way to engage with this framework is the way the framework 
 > Schema Theory development. Knowledge as organized mental structures.
 
 > [!cite] **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.**
-> [[Cognitive-Load-Theory]]. Intrinsic, extraneous, and germane load distinction.
+> [[cognitive-load-theory]]. Intrinsic, extraneous, and germane load distinction.
 
 > [!cite] **Vygotsky, L.S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.**
-> [[Zone-of-Proximal-Development]]. Social constructivism.
+> [[zone-of-proximal-development]]. Social constructivism.
 
 > [!cite] **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64–70.**
-> [[Self-Regulated-Learning]] cycle. Foundation of FP3 (Regulatory Embedding).
+> [[self-regulated-learning]] cycle. Foundation of FP3 (Regulatory Embedding).
 
 ---
 

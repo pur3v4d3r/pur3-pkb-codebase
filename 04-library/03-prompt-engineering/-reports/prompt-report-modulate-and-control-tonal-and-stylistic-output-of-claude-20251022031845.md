@@ -337,7 +337,7 @@ Mastering the tonal modulation of Claude is not just an academic exercise or a p
 >
 > The principles discussed here strongly connect to the field of [[Human-Computer Interaction (HCI)]]. We are in the process of moving from *explicit* interfaces (buttons, menus) to *linguistic* interfaces. Learning to "prompt" effectively is analogous to learning a new programming language—a language for communicating *intent* to a non-human intelligence.
 >
-> This also connects deeply to [[Cognitive-Science]] and [[pedagogy]]. A student can use these techniques to transform Claude into an infinite variety of educational tools:
+> This also connects deeply to [[cognitive-science]] and [[pedagogy]]. A student can use these techniques to transform Claude into an infinite variety of educational tools:
 >
 >   - `You are a Socratic tutor. Do not give me the answer. Instead, ask me leading questions to help me discover the answer myself.` (Analytical)
 >   - `You are a storytelling partner. We will write a story together. I will write one paragraph, and you will write the next.` (Creative)

@@ -126,11 +126,11 @@ python vault_indexer.py --input "./03-notes" --output "./07-mocs/notes-index.md"
 python vault_indexer.py --input "./04-library" --name "library-catalog" --output "./07-mocs/notes-index.md"
 ```
 ```
-python vault_indexer.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\report-series" --name "pkb/pkm-framework-reports" --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\extraction-material\pkb-pkm-framework-reports.md"
+python vault_indexer.py --input "D:\10_pur3v4d3r's-vault\999-report-organizing\_pkm-and-pkb-framework-1.0.0\report-series" --name "pkb/pkm-framework-reports" --output "D:\10_pur3v4d3r's-vault\999-report-organizing\_pkm-and-pkb-framework-1.0.0\extraction-material\pkb-pkm-framework-reports.md"
 ```
 
 ```
-python vault_indexer.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\report-series" --name "pkb/pkm-framework-reports" --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\extraction-material\pkb-pkm-framework-reports.md"
+python vault_indexer.py --input "D:\10_pur3v4d3r's-vault\999-report-organizing\_pkm-and-pkb-framework-1.0.0\report-series" --name "pkb/pkm-framework-reports" --output "D:\10_pur3v4d3r's-vault\999-report-organizing\_pkm-and-pkb-framework-1.0.0\extraction-material\pkb-pkm-framework-reports.md"
 ```
 
 
@@ -239,7 +239,7 @@ tags:
 | **Status** | `evergreen` |
 
 **Tags:** `#philosophy` `#epistemology` `#reference-note`
-**Links to:** [[Knowledge]] · [[Justified-True-Belief]] · [[Empiricism]]
+**Links to:** [[Knowledge]] · [[justified-true-belief]] · [[empiricism]]
 **Content Features:** 12 headings · 8 callouts · 2 code blocks (dataviewjs)
 ```
 

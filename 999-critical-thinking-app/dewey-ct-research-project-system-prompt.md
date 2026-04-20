@@ -47,8 +47,8 @@ pipeline_sequence: 1
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
   - "[[How-We-Think-Dewey]]"
-  - "[[Blooms-Taxonomy]]"
-  - "[[Paul-Elder-Framework]]"
+  - "[[blooms-taxonomy]]"
+  - "[[paul-elder-framework]]"
   - "[[Toulmin-Argument-Model]]"
   - "[[Critical-Thinking-App]]"
 ```

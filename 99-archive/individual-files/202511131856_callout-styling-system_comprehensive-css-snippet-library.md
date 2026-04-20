@@ -28,7 +28,7 @@ aliases: [Callout CSS Library, Obsidian Snippet System, PKB Visual Customization
 # 🎨 Obsidian Callout Styling System: Comprehensive CSS Snippet Library
 
 > [!abstract] **System Overview**
-> A modular, production-ready [[CSS Architecture]] system for customizing [[Obsidian]] callout appearance. This library provides **12 distinct visual treatments** built from **20+ CSS modifier combinations**, all optimized for the specified [[Color Theory|color palette]] and [[Performance Optimization|performance]].
+> A modular, production-ready [[CSS Architecture]] system for customizing [[obsidian]] callout appearance. This library provides **12 distinct visual treatments** built from **20+ CSS modifier combinations**, all optimized for the specified [[Color Theory|color palette]] and [[Performance Optimization|performance]].
 
 ---
 

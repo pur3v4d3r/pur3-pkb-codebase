@@ -163,7 +163,7 @@ extraction_summary:
 > → Next: *Series Complete*
 > 
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control]], [[Prohairesis]], [[Preferred-Indifferents]], [[Virtue-Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control]], [[Prohairesis]], [[Preferred-Indifferents]], [[virtue-ethics]], [[eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 #### 3. [CONNECTION-IDEAS] Untitled *(Line 282)*
 
@@ -456,7 +456,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[Albert Ellis]]
 - [[B.F. Skinner]]
 - [[Cognitive Defusion]]
@@ -467,7 +467,7 @@ extraction_summary:
 - [[Donald Robertson and Stoic CBT — A Clinical Synthesis]]
 - [[Epictetan Impression Theory — Phantasia, Synkatathesis, and Prohairesis]]
 - [[Epictetus]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Joseph Wolpe]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
@@ -480,7 +480,7 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 - [[The Stoic Philosopher as Physician of the Soul — Seneca's Therapeutic Letters]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 
 ### All Occurrences
 
@@ -491,20 +491,20 @@ extraction_summary:
 | 3 | [[Dichotomy-of-Control]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 4 | [[Prohairesis]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 5 | [[Preferred-Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
-| 6 | [[Virtue-Ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
-| 7 | [[Eudaimonia]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
+| 6 | [[virtue-ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
+| 7 | [[eudaimonia]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 8 | [[Albert Ellis]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
 | 9 | [[Epictetus]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
 | 10 | [[B.F. Skinner]] | — | — | First Wave: Behavioral Therapy | 333 |
 | 11 | [[Joseph Wolpe]] | — | — | First Wave: Behavioral Therapy | 333 |
 | 12 | [[Albert Ellis]] | — | — | Second Wave: The Cognitive Revolution... | 337 |
-| 13 | [[Aaron-Beck]] | — | — | Second Wave: The Cognitive Revolution... | 337 |
+| 13 | [[aaron-beck]] | — | — | Second Wave: The Cognitive Revolution... | 337 |
 | 14 | [[Cognitive Distortions]] | — | — | Second Wave: The Cognitive Revolution... | 348 |
 | 15 | [[Steven Hayes]] | — | — | Third Wave: Acceptance and Commitment... | 355 |
 | 16 | [[Cognitive Defusion]] | — | — | Third Wave: Acceptance and Commitment... | 359 |
 | 17 | [[Marcus-Aurelius]] | — | — | Third Wave: Acceptance and Commitment... | 359 |
 | 18 | [[Marcus-Aurelius]] | — | — | Convergence 2: The Identification and... | 386 |
-| 19 | [[Eudaimonia]] | — | — | Convergence 5: Values Orientation in ... | 403 |
+| 19 | [[eudaimonia]] | — | — | Convergence 5: Values Orientation in ... | 403 |
 | 20 | [[Logos]] | — | — | Divergence 2: Cosmology — The Stoic L... | 429 |
 | 21 | [[Marcus-Aurelius]] | — | — | Level 2: The Teleological Complement ... | 486 |
 | 22 | [[Dichotomy-of-Control]] | — | — | Level 3: The Cosmological Dimension —... | 499 |
@@ -558,7 +558,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[Albert Ellis]]
 - [[B.F. Skinner]]
 - [[Cognitive Defusion]]
@@ -569,7 +569,7 @@ extraction_summary:
 - [[Donald Robertson and Stoic CBT — A Clinical Synthesis]]
 - [[Epictetan Impression Theory — Phantasia, Synkatathesis, and Prohairesis]]
 - [[Epictetus]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Joseph Wolpe]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
@@ -582,7 +582,7 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 - [[The Stoic Philosopher as Physician of the Soul — Seneca's Therapeutic Letters]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 
 ### Frontmatter Relationships
 
@@ -601,20 +601,20 @@ extraction_summary:
 - [[Epictetus]]
 - [[Seneca]]
 - [[Chrysippus]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[Steven Hayes]]
 - [[Donald Robertson]]
 - [[Dichotomy-of-Control]]
 - [[Prohairesis]]
-- [[Virtue-Ethics]]
-- [[Eudaimonia]]
+- [[virtue-ethics]]
+- [[eudaimonia]]
 - [[Apatheia]]
 - [[Preferred-Indifferents]]
-- [[Cognitive-Restructuring]]
+- [[cognitive-restructuring]]
 - [[Cognitive Distortions]]
 - [[Psychological Flexibility]]
 - [[Mindfulness]]
@@ -624,7 +624,7 @@ extraction_summary:
 
 - [[Philosophy MOC]]
 - [[Psychology MOC]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[History of Psychotherapy]]
 - [[Contemplative Practice]]
 
@@ -641,7 +641,7 @@ extraction_summary:
 
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Dialectical Behavior Therapy]]
-- [[Positive Psychology]]
+- [[Positive-Psychology]]
 - [[Neuroplasticity and Deliberate Practice]]
 - [[Pierre Hadot Philosophy as a Way of Life]]
 

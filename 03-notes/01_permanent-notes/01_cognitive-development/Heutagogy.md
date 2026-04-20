@@ -36,7 +36,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Heutagogy]]
+> - **Key-Term**:[[heutagogy]]
 > - [**Definition**:Extends beyond andragogy by emphasizing learner self-determination in setting learning objectives, selecting learning methods, and determining assessment criteria. This most autonomous position on the continuum prepares learners for the uncertainty and rapid change characteristic of contemporary professional environments.]
 
 

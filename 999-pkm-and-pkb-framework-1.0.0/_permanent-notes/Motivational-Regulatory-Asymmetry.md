@@ -5,6 +5,7 @@
 title: "Motivational-Regulatory Asymmetry"
 aliases:
   - "Motivational-Regulatory Asymmetry"
+  - "Motivational-Regulatory-Asymmetry"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -37,8 +38,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +50,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,26 +74,26 @@ narrower:
   []
 
 see-also:
-  - "[[Self-Regulated-Learning]]"
-  - "[[Paul-Pintrich]]"
-  - "[[MSLQ]]"
-  - "[[Zimmerman's-Three-Phase-SRL-Cycle]]"
-  - "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
-  - "[[MSLQ]]"
-  - "[[Self-Regulated-Learning-—-Focused-Analysis]]"
-  - "[[Metacognition-and-Self-Regulated-Learning]]"
-  - "[[Goal-Orientation]]"
-  - "[[Self-Efficacy]]"
-  - "[[Zimmerman's-Three-Phase-SRL-Cycle]]"
-  - "[[MSLQ]]"
-  - "[[Self-Efficacy]]"
-  - "[[Goal-Orientation]]"
-  - "[[Expectancy-Value-Theory]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Self-Efficacy]]"
-  - "[[Albert-Bandura]]"
-  - "[[Goal-Orientation]]"
-  - "[[Metacognitive-Monitoring]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[paul-pintrich|Paul-Pintrich]]"
+  - "[[mslq|MSLQ]]"
+  - "[[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]]"
+  - "[[winne-hadwins-metacognitive-processing-model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
+  - "[[mslq|MSLQ]]"
+  - "[[self-regulated-learning-focused-analysis|Self-Regulated-Learning-—-Focused-Analysis]]"
+  - "[[metacognition-and-self-regulated-learning|Metacognition-and-Self-Regulated-Learning]]"
+  - "[[goal-orientation|Goal-Orientation]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]]"
+  - "[[mslq|MSLQ]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[goal-orientation|Goal-Orientation]]"
+  - "[[expectancy-value-theory|Expectancy-Value-Theory]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[albert-bandura|Albert-Bandura]]"
+  - "[[goal-orientation|Goal-Orientation]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +105,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Winne-&-Hadwin's-Metacognitive-Processing-Model-A-focused-comparison|> [!topic-idea] [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]
+  - topic: "[[> [!topic-idea] [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]
 > A focused comparison of the CO]]"
     description: ""
     priority: medium
@@ -146,7 +147,7 @@ importance: high
 > A later theoretical synthesis applying the framework specifically to college-level learning contexts. Refines the treatment of motivational beliefs and addresses some of the temporal claims more explicitly than earlier papers. Supports Phases II, IV.
 
 > [!evidence] Supporting Evidence *(from [[pintrichs-srl-focused-analysis-2026-03-22]])*
-> The foundational theoretical source for [[Albert-Bandura|Bandura's]] self-efficacy construct as used in Pintrich's framework. The social cognitive theory provides the mechanism account for how self-efficacy beliefs are formed, maintained, and revised across the four sources of efficacy information. Supports Phase IV.
+> The foundational theoretical source for [[albert-bandura|Bandura's]] self-efficacy construct as used in Pintrich's framework. The social cognitive theory provides the mechanism account for how self-efficacy beliefs are formed, maintained, and revised across the four sources of efficacy information. Supports Phase IV.
 
 > [!evidence] Supporting Evidence *(from [[pintrichs-srl-focused-analysis-2026-03-22]])*
 > Zimmerman's parallel theoretical account in the same handbook volume. Comparison with Pintrich's chapter in the same volume makes the architectural differences maximally visible. Supports Phase II analysis of how Pintrich's framework differs from Zimmerman's.
@@ -179,7 +180,7 @@ importance: high
 > The popular reception of achievement goal theory in education has tended to treat mastery orientations as uniformly superior to performance orientations for academic achievement. The mechanistic analysis makes this too simple. Mastery goal orientation reliably predicts deep processing, but deep processing does not always predict academic achievement, particularly in high-stakes assessment contexts where retrieval of specific information is more important than elaborated understanding. The more…
 
 > [!analytical-insight] Key Insight *(from [[pintrichs-srl-focused-analysis-2026-03-22]])*
-> Pintrich's framework implicitly identifies a monitoring bandwidth problem that has not been sufficiently articulated in the SRL literature. Effective self-regulation requires simultaneous monitoring across four categorically distinct domains. But metacognitive monitoring itself consumes [[Working-Memory|working memory]] resources, and [[Cognitive-Load-Theory-—-Focused-Analysis|cognitive load]] under complex learning tasks is already high. This creates a structural tension: precisely when…
+> Pintrich's framework implicitly identifies a monitoring bandwidth problem that has not been sufficiently articulated in the SRL literature. Effective self-regulation requires simultaneous monitoring across four categorically distinct domains. But metacognitive monitoring itself consumes [[working-memory|working memory]] resources, and [[Cognitive-Load-Theory-—-Focused-Analysis|cognitive load]] under complex learning tasks is already high. This creates a structural tension: precisely when…
 
 > [!analytical-insight] Key Insight *(from [[pintrichs-srl-focused-analysis-2026-03-22]])*
 > In the applied SRL literature, self-efficacy interventions — growth mindset programs, mastery experience engineering, efficacy-affirming feedback — receive the most attention. This is partly justified by the strength of the self-efficacy-to-strategy evidence. But the evidence on task value suggests that it is a distinct pathway with distinct leverage points. Task value shapes choice and persistence more than strategy quality. This means that interventions targeting task value — particularly…
@@ -245,25 +246,25 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[pintrichs-srl-focused-analysis-2026-03-22]])*:
-- [[Goal-Setting-Theory]]
+- [[goal-setting-theory|Goal-Setting-Theory]]
 
 **Cross-report connections** *(from [[pintrichs-srl-focused-analysis-2026-03-22]])*:
-- [[PKB]]
+- [[pkb|PKB]]
 
 **Cross-report connections** *(from [[pintrichs-srl-focused-analysis-2026-03-22]])*:
-- [[Self-Regulated-Learning]]
-- [[Pintrich's-Integrative-SRL-Framework]]
-- [[Pintrich's-Motivational-Integration]]
-- [[MSLQ]]
-- [[MSLQ]]
-- [[Goal-Orientation]]
-- [[Mastery-Goal-Orientation]]
-- [[Performance-Goal-Orientation]]
-- [[Self-Efficacy]]
-- [[Metacognition-and-Self-Regulated-Learning]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[pintrichs-integrative-srl-framework|Pintrich's-Integrative-SRL-Framework]]
+- [[pintrichs-motivational-integration|Pintrich's-Motivational-Integration]]
+- [[mslq|MSLQ]]
+- [[mslq|MSLQ]]
+- [[goal-orientation|Goal-Orientation]]
+- [[mastery-goal-orientation|Mastery-Goal-Orientation]]
+- [[performance-goal-orientation|Performance-Goal-Orientation]]
+- [[self-efficacy|Self-Efficacy]]
+- [[metacognition-and-self-regulated-learning|Metacognition-and-Self-Regulated-Learning]]
 
 **Related concepts:**
-[[Self-Regulated-Learning]] · [[Paul-Pintrich]] · [[MSLQ]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[MSLQ]] · [[Self-Regulated-Learning-—-Focused-Analysis]] · [[Metacognition-and-Self-Regulated-Learning]] · [[Goal-Orientation]] · [[Self-Efficacy]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[MSLQ]] · [[Self-Efficacy]] · [[Goal-Orientation]] · [[Expectancy-Value-Theory]] · [[Metacognitive-Monitoring]] · [[Self-Efficacy]] · [[Albert-Bandura]] · [[Goal-Orientation]] · [[Metacognitive-Monitoring]] · [[Working-Memory]] · [[Cognitive-Load-Theory-—-Focused-Analysis]] · [[Goal-Setting-Theory]] · [[MSLQ]] · [[Expectancy-Value-Theory]] · [[PKB]] · [[Self-Regulated-Learning]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Pintrich's-Motivational-Integration]] · [[MSLQ]]
+[[self-regulated-learning|Self-Regulated-Learning]] · [[paul-pintrich|Paul-Pintrich]] · [[mslq|MSLQ]] · [[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]] · [[winne-hadwins-metacognitive-processing-model|Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[mslq|MSLQ]] · [[self-regulated-learning-focused-analysis|Self-Regulated-Learning-—-Focused-Analysis]] · [[metacognition-and-self-regulated-learning|Metacognition-and-Self-Regulated-Learning]] · [[goal-orientation|Goal-Orientation]] · [[self-efficacy|Self-Efficacy]] · [[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]] · [[mslq|MSLQ]] · [[self-efficacy|Self-Efficacy]] · [[goal-orientation|Goal-Orientation]] · [[expectancy-value-theory|Expectancy-Value-Theory]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[self-efficacy|Self-Efficacy]] · [[albert-bandura|Albert-Bandura]] · [[goal-orientation|Goal-Orientation]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[working-memory|Working-Memory]] · [[cognitive-load-theory-focused-analysis|Cognitive-Load-Theory-—-Focused-Analysis]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[mslq|MSLQ]] · [[expectancy-value-theory|Expectancy-Value-Theory]] · [[pkb|PKB]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[pintrichs-integrative-srl-framework|Pintrich's-Integrative-SRL-Framework]] · [[pintrichs-motivational-integration|Pintrich's-Motivational-Integration]] · [[mslq|MSLQ]]
 
 ## References
 
@@ -271,7 +272,7 @@ importance: high
 - **Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic performance. *Journal of Educational Psychology, 82*(1), 33–40.**: The foundational empirical study demonstrating that self-efficacy is the strongest motivational predictor of cognitive strategy use and academic performance in a sample of seventh-grade students. Established the self-efficacy-to-strategy empirical foundation. Supports Phase III.
 - **Pintrich, P. R., Smith, D. A. F., Garcia, T., & McKeachie, W. J. (1991). *A manual for the use of the Motivated Strategies for Learning Questionnaire (MSLQ)*. University of Michigan, National Center for Research to Improve Postsecondary Teaching and Learning.**: The technical manual for the MSLQ, documenting its factor structure, reliability, and initial validity evidence. The foundational reference for the instrument as a theory-testing tool. Supports Phase III.
 - **Pintrich, P. R. (2004). A conceptual framework for assessing motivation and self-regulated learning in college students. *Educational Psychology Review, 16*(4), 385–407.**: A later theoretical synthesis applying the framework specifically to college-level learning contexts. Refines the treatment of motivational beliefs and addresses some of the temporal claims more explicitly than earlier papers. Supports Phases II, IV.
-- **Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice Hall.**: The foundational theoretical source for [[Albert-Bandura|Bandura's]] self-efficacy construct as used in Pintrich's framework. The social cognitive theory provides the mechanism account for how self-efficacy beliefs are formed, maintained, and revised across the four sources of efficacy information. Supports Phase IV.
+- **Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice Hall.**: The foundational theoretical source for [[albert-bandura|Bandura's]] self-efficacy construct as used in Pintrich's framework. The social cognitive theory provides the mechanism account for how self-efficacy beliefs are formed, maintained, and revised across the four sources of efficacy information. Supports Phase IV.
 - **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: Zimmerman's parallel theoretical account in the same handbook volume. Comparison with Pintrich's chapter in the same volume makes the architectural differences maximally visible. Supports Phase II analysis of how Pintrich's framework differs from Zimmerman's.
 - **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Erlbaum.**: The COPES model of self-regulated learning as an information processing sequence. Offers a contrasting theoretical perspective that prioritizes cognitive processing precision over motivational integration. Useful as a structural contrast to Pintrich's approach. Supports Phase II structural comparison.
 - **Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261–271.**: The foundational empirical paper establishing the relationship between classroom goal structures and student goal orientation adoption. Critical support for the contextual area of Pintrich's framework — specifically, the claim that learners' motivational belief architecture is shaped by the motivational climate of the learning environment. Supports Phases II and V.

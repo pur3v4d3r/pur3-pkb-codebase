@@ -57,14 +57,14 @@ SDT is one of the most researched motivational theories. There are:
 
 **STEP 4: PKB Integration Potential**
 SDT topics would generate extensive wiki-links:
-- [[Intrinsic-Motivation]], [[Extrinsic-Motivation]]
-- [[Autonomy]], [[Competence]], [[Relatedness]]
-- [[Internalization]], [[Integration]]
-- [[Controlled-Motivation]], [[Autonomous-Motivation]]
-- [[Amotivation]], [[Flow-State]]
+- [[intrinsic-motivation]], [[extrinsic-motivation]]
+- [[autonomy]], [[competence]], [[relatedness]]
+- [[internalization]], [[integration]]
+- [[controlled-motivation]], [[autonomous-motivation]]
+- [[amotivation]], [[Flow-State]]
 - [[Goal Theory]], [[Achievement Motivation]]
-- [[Self-Efficacy]], [[Locus-of-Control]]
-- [[Organismic-Integration]], [[Regulatory Styles]]
+- [[self-efficacy]], [[locus-of-control]]
+- [[organismic-integration]], [[Regulatory Styles]]
 
 Each topic connects to psychology, education, organizational behavior, sports psychology, clinical psychology, etc.
 
@@ -92,11 +92,11 @@ Used -> [[2025-12-02]]
 **Why This Topic is Foundationally Rich**:
 BPNT is the cornerstone mini-theory of SDT that makes the controversial claim that certain psychological needs are *universal* and *innate* rather than learned or culturally constructed. This challenges social constructivist perspectives and requires deep exploration of the empirical evidence, cross-cultural validation studies, philosophical foundations in organismic-dialectical meta-theory, and the distinction between needs versus wants or values. The theory's claim to universality has generated substantial scholarly debate and extensive empirical testing across cultures.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Autonomy]] - psychological freedom and volition
-- [[Competence]] - effectance and mastery
-- [[Relatedness]] - connection and belongingness
+- [[autonomy]] - psychological freedom and volition
+- [[competence]] - effectance and mastery
+- [[relatedness]] - connection and belongingness
 - [[Organismic-Dialectical Meta-Theory]] - philosophical foundation
-- [[Need-Satisfaction]] versus [[Need-Frustration]]
+- [[need-satisfaction]] versus [[need-frustration]]
 - [[Psychological Thriving]] versus [[Psychological Languishing]]
 - [[Universal Human Needs]] - philosophical debates
 - [[Need Substitution Hypothesis]] - why needs cannot substitute for each other
@@ -107,9 +107,9 @@ BPNT is the cornerstone mini-theory of SDT that makes the controversial claim th
 The three needs function like essential nutrients for plants—just as plants require nitrogen, phosphorus, and potassium (and one cannot substitute for another), humans require autonomy, competence, and relatedness for psychological flourishing, with deficiency in any creating specific pathologies.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[Intrinsic-Motivation]] versus [[Extrinsic-Motivation]]
-- [[Humanistic-Psychology]] - theoretical lineage
-- [[Positive Psychology]] movement
+- [[intrinsic-motivation]] versus [[extrinsic-motivation]]
+- [[humanistic-psychology]] - theoretical lineage
+- [[Positive-Psychology]] movement
 **Research Starting Points**:
 - Ryan & Deci (2017) "Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness"
 - Search: "basic psychological needs cross-cultural validation"
@@ -128,11 +128,11 @@ The three needs function like essential nutrients for plants—just as plants re
 **Why This Topic is Foundationally Rich**:
 CET, developed in the 1970s-80s, was the first mini-theory within SDT and generated one of psychology's most controversial findings: that tangible rewards can *undermine* intrinsic motivation (the "hidden costs of reward"). This challenged behaviorist orthodoxy and sparked decades of debate. The theory introduces sophisticated concepts about the *functional significance* of events (informational versus controlling versus amotivating), autonomy-supportive versus controlling social contexts, and the conditions under which external regulation helps versus harms motivation. It connects to neuroscience (dopaminergic systems), organizational management practices, parenting and teaching strategies, and game design.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Intrinsic-Motivation]] - the phenomenon CET explains
-- [[Overjustification-Effect]] - reward undermining intrinsic motivation
+- [[intrinsic-motivation]] - the phenomenon CET explains
+- [[overjustification-effect]] - reward undermining intrinsic motivation
 - [[Functional Significance of Events]] - informational vs controlling
-- [[Autonomy-Support]] versus [[Controlling Context]]
-- [[Perceived-Locus-of-Causality]] (PLOC)
+- [[autonomy-support]] versus [[Controlling Context]]
+- [[perceived-locus-of-causality]] (PLOC)
 - [[Competence Feedback]] - informational aspect
 - [[Tangible Rewards]] versus [[Verbal Rewards]]
 - [[Performance-Contingent Rewards]] versus [[Task-Contingent Rewards]]
@@ -143,7 +143,7 @@ CET, developed in the 1970s-80s, was the first mini-theory within SDT and genera
 **Analogical Potential**:
 External motivators function like training wheels on a bicycle—while they might provide initial support, if poorly designed they prevent the development of intrinsic balance and coordination, creating dependency rather than autonomous capability.
 **Prerequisite Knowledge**:
-- [[Intrinsic-Motivation]] conceptual understanding
+- [[intrinsic-motivation]] conceptual understanding
 - [[Reinforcement Theory]] - behaviorist perspective to contrast
 - [[Self-Perception Theory]] - Bem's alternative explanation
 **Research Starting Points**:
@@ -164,16 +164,16 @@ External motivators function like training wheels on a bicycle—while they migh
 **Why This Topic is Foundationally Rich**:
 OIT is perhaps SDT's most sophisticated mini-theory, proposing a *continuum* of self-determination rather than a simple intrinsic/extrinsic dichotomy. It introduces the crucial concept that extrinsic motivation comes in qualitatively different forms based on degree of internalization—from external regulation (pure compliance) through introjected regulation (ego-involvement, guilt, pride), identified regulation (conscious valuing), integrated regulation (full assimilation to self), and finally intrinsic regulation. This framework has revolutionized understanding of motivation in domains where intrinsic motivation is rare (e.g., medical treatment adherence, tax compliance, environmental behavior). The theory also explains *amotivation* as lack of intentionality and introduces the concept of *controlled* versus *autonomous motivation* as the key functional distinction.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Internalization]] - taking in external values
-- [[Integration]] - full assimilation to self
-- [[External-Regulation]] - pure compliance
-- [[Introjected-Regulation]] - ego-involvement and contingent self-worth
-- [[Identified-Regulation]] - conscious valuing
-- [[Integrated-Regulation]] - coherent self-organization
-- [[Autonomous-Motivation]] - the functional category
-- [[Controlled-Motivation]] - the contrasting category
-- [[Amotivation]] - lack of intentionality
-- [[Self-Concordance]] - alignment with core values
+- [[internalization]] - taking in external values
+- [[integration]] - full assimilation to self
+- [[external-regulation]] - pure compliance
+- [[introjected-regulation]] - ego-involvement and contingent self-worth
+- [[identified-regulation]] - conscious valuing
+- [[integrated-regulation]] - coherent self-organization
+- [[autonomous-motivation]] - the functional category
+- [[controlled-motivation]] - the contrasting category
+- [[amotivation]] - lack of intentionality
+- [[self-concordance]] - alignment with core values
 - [[Autonomy Supportive Parenting/Teaching]]
 - [[Internalization Process]] - mechanisms
 - [[Regulatory Styles]] measurement
@@ -182,8 +182,8 @@ OIT is perhaps SDT's most sophisticated mini-theory, proposing a *continuum* of 
 Internalization resembles digestion—external "food" (values, regulations) can be swallowed whole (introjection), partially broken down (identification), or fully metabolized and integrated into the organism's structure (integration), with health depending on the thoroughness of the process.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[Intrinsic-Motivation]] versus [[Extrinsic-Motivation]]
-- [[Autonomy]] as psychological need
+- [[intrinsic-motivation]] versus [[extrinsic-motivation]]
+- [[autonomy]] as psychological need
 - [[Self-Concordance Theory]]
 **Research Starting Points**:
 - Ryan & Deci (2000) "Self-Determination Theory and the facilitation of intrinsic motivation, social development, and well-being"
@@ -204,12 +204,12 @@ Internalization resembles digestion—external "food" (values, regulations) can 
 **Why This Topic is Foundationally Rich**:
 COT shifts from situational determinants of motivation to *trait-like* individual differences, proposing that people develop relatively stable orientations toward self-determination based on developmental history and socialization. The three orientations (autonomy, controlled, impersonal) are not mutually exclusive types but independent dimensions that coexist in varying degrees. This mini-theory connects SDT to personality psychology and explains why the same environmental conditions affect people differently. It introduces the General Causality Orientations Scale (GCOS) and explains how people with strong controlled orientations interpret autonomy-supportive contexts as permissive, while those with impersonal orientations may not perceive competence-affirming feedback as meaningful.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Autonomy-Orientation]] - interpreting contexts informationally
+- [[autonomy-orientation]] - interpreting contexts informationally
 - [[Controlled Orientation]] - orienting toward controls and directives
-- [[Impersonal-Orientation]] - learned helplessness tendency
-- [[General-Causality-Orientations-Scale]] (GCOS)
+- [[impersonal-orientation]] - learned helplessness tendency
+- [[general-causality-orientations-scale]] (GCOS)
 - [[Person-Environment Fit]] in motivation
-- [[Locus-of-Control]] - related construct
+- [[locus-of-control]] - related construct
 - [[Self-System Processes]]
 - [[Regulatory Focus Theory]] - related framework
 - [[Defensive Self-Esteem]] - controlled orientation outcome
@@ -219,7 +219,7 @@ COT shifts from situational determinants of motivation to *trait-like* individua
 Causality orientations function like perceptual filters or lenses—two people viewing the same situation see different "motivational affordances" based on whether their lens is tuned to autonomy-supporting information, controlling pressures, or helplessness-inducing obstacles.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[Autonomy-Support]] versus [[Controlling Context]]
+- [[autonomy-support]] versus [[Controlling Context]]
 - [[Trait Theory]] in personality psychology
 - [[Person-Situation Interaction]]
 **Research Starting Points**:
@@ -240,14 +240,14 @@ Causality orientations function like perceptual filters or lenses—two people v
 **Why This Topic is Foundationally Rich**:
 This is arguably the most practically consequential concept in SDT, as it identifies the *mechanisms* through which social contexts affect motivation. Autonomy support involves taking the other's perspective, providing choice and rationale, acknowledging feelings, minimizing pressure and control, and supporting initiative—while controlling contexts use external contingencies, deadlines, surveillance, evaluation pressure, and imposed goals. The distinction is subtle and counterintuitive (autonomy support is NOT permissiveness), making it a rich area for exploration. Extensive research shows autonomy-supportive parenting, teaching, managing, and healthcare provision predict engagement, performance, persistence, creativity, psychological adjustment, and physical health. The concept also connects to cultural questions about whether autonomy support is Western-centric or universal.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Autonomy-Support]] - definitional features
+- [[autonomy-support]] - definitional features
 - [[Controlling Context]] - pressure and coercion
 - [[Perspective-Taking]] in autonomy support
 - [[Rationale Provision]] - explaining why
 - [[Choice and Voice]] - meaningful options
 - [[Acknowledgment of Feelings]] and perspective
 - [[Non-Controlling Competence Feedback]]
-- [[Conditional-Regard]] - controlling parenting
+- [[conditional-regard]] - controlling parenting
 - [[Autonomy Support Training]] interventions
 - [[Teacher Autonomy Support]] in education
 - [[Managerial Autonomy Support]] in organizations
@@ -259,9 +259,9 @@ This is arguably the most practically consequential concept in SDT, as it identi
 Autonomy-supportive contexts function like good coaching in sports—the coach provides structure, feedback, and guidance while respecting the athlete's perspective and initiative, fostering internal motivation, whereas controlling coaching treats athletes as instruments to be manipulated, creating compliance but undermining passion.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[Autonomy]] as psychological need
-- [[Intrinsic-Motivation]] and [[Autonomous-Motivation]]
-- [[Organismic-Integration-Theory]]
+- [[autonomy]] as psychological need
+- [[intrinsic-motivation]] and [[autonomous-motivation]]
+- [[organismic-integration-theory]]
 **Research Starting Points**:
 - Reeve (2009) "Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive"
 - Joussemet, Landry & Koestner (2008) "A self-determination theory perspective on parenting"
@@ -282,14 +282,14 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 2. **[[Relationship Motivation Theory (RMT) in Self-Determination Theory]]**
    - *Connection*: RMT applies SDT specifically to close relationships, examining how autonomy support from partners, mutuality versus control in relationships, and relationship need satisfaction affect relationship quality, sexuality, intimacy, and individual well-being.
    - *Depth Potential*: Rich application domain connecting attachment theory, relationship science, sexuality research, and interdependence theory through SDT lens; addresses seeming paradox of autonomy within connection.
-   - *Knowledge Graph Role*: Links motivational psychology to relationship science, attachment research, and interpersonal neurobiology while addressing the [[Relatedness]] need specifically.
+   - *Knowledge Graph Role*: Links motivational psychology to relationship science, attachment research, and interpersonal neurobiology while addressing the [[relatedness]] need specifically.
 
 3. **[[Self-Concordance Theory and Goal Striving]]**
    - *Connection*: Developed by Sheldon and Elliot from SDT principles, this theory focuses on *why* people pursue their personal goals (autonomous vs. controlled reasons), predicting that self-concordant goal pursuit leads to greater effort, attainment, and well-being.
    - *Depth Potential*: Longitudinal research designs, mediation analyses, integration with goal-setting theory, and practical applications in coaching and therapeutic contexts.
-   - *Knowledge Graph Role*: Bridges SDT's [[Organismic-Integration-Theory]] with goal theory, self-regulation research, and [[Personal Strivings]] literature.
+   - *Knowledge Graph Role*: Bridges SDT's [[organismic-integration-theory]] with goal theory, self-regulation research, and [[Personal Strivings]] literature.
 
 4. **[[Need Thwarting versus Need Frustration in SDT]]**
    - *Connection*: Beyond mere lack of need satisfaction, SDT distinguishes active *frustration* (blocked needs) from *thwarting* (actively undermined needs through hostile, rejecting, controlling contexts), with the latter predicting dark outcomes like aggression, psychopathology, and ill-being.
    - *Depth Potential*: Emerging research area with implications for understanding psychopathology, defensive processes, compensatory behaviors, dark personality traits, and "dark side" of motivation.
-   - *Knowledge Graph Role*: Connects SDT to clinical psychology, psychopathology, [[Defensive Processes]], [[Contingent-Self-Worth]], and [[Ego-Involvement]] while completing the positive-to-negative continuum of need experiences.
+   - *Knowledge Graph Role*: Connects SDT to clinical psychology, psychopathology, [[Defensive Processes]], [[contingent-self-worth]], and [[ego-involvement]] while completing the positive-to-negative continuum of need experiences.

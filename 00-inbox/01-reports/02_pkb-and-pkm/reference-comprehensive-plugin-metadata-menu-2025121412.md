@@ -380,7 +380,7 @@ try {
 >     └── Internal link opportunities: 
 >         - [[Dataview]], [[YAML]], [[Obsidian Properties]]
 >         - [[Templater]], [[QuickAdd]] (for workflow integration)
->         - [[Personal-Knowledge-Management]], [[Zettelkasten]]
+>         - [[personal-knowledge-management]], [[zettelkasten]]
 >         - [[Inline-Fields]], [[Metadata Schema]]
 > Now I'll execute the research phase.
 > Now I have sufficient research to create a comprehensive reference note. Let me proceed with the response following the structure outlined in the thinking phase.
@@ -397,7 +397,7 @@ aliases: [Metadata Menu Plugin, MM Plugin, Obsidian Metadata Manager, FileClass 
 
 > [!abstract]
 > **Executive Overview**
-> <span style='color: #FFC700;'>**Metadata Menu**</span> is a powerful [[Obsidian]] [[Community Plugin]] designed for <span style='color: #27FF00;'>data quality enthusiasts who need systematic, typed metadata management across their vault</span>. Unlike Obsidian's native [[Properties]] system, Metadata Menu provides comprehensive field typing, validation, autocompletion, contextual editing via multiple access points, and seamless integration with [[Dataview]] for creating editable database-style tables. The plugin bridges the gap between flexible inline [[Dataview Syntax|field notation]] (`field:: value`) and structured [[YAML-Frontmatter]] properties, enabling users to transform their [[Personal-Knowledge-Base|PKB]] into a <span style='background-color: #72FFF140; color: #72FFF1;'>queryable, maintainable database with enforced data schemas</span>.
+> <span style='color: #FFC700;'>**Metadata Menu**</span> is a powerful [[obsidian]] [[Community Plugin]] designed for <span style='color: #27FF00;'>data quality enthusiasts who need systematic, typed metadata management across their vault</span>. Unlike Obsidian's native [[Properties]] system, Metadata Menu provides comprehensive field typing, validation, autocompletion, contextual editing via multiple access points, and seamless integration with [[Dataview]] for creating editable database-style tables. The plugin bridges the gap between flexible inline [[Dataview Syntax|field notation]] (`field:: value`) and structured [[yaml-frontmatter]] properties, enabling users to transform their [[personal-knowledge-base|PKB]] into a <span style='background-color: #72FFF140; color: #72FFF1;'>queryable, maintainable database with enforced data schemas</span>.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -426,7 +426,7 @@ aliases: [Metadata Menu Plugin, MM Plugin, Obsidian Metadata Manager, FileClass 
 
 ### Foundational Understanding
 
-<span style='color: #FFC700;'>**Metadata Menu**</span> operates on the principle that [[Personal-Knowledge-Management]] systems benefit from <span style='color: #27FF00;'>structured, validated metadata rather than freeform text fields</span>. The plugin recognizes that while [[Obsidian]] allows arbitrary [[YAML]] properties and [[Dataview]] enables `field:: value` notation anywhere in notes, neither system enforces types, validates input, or provides sophisticated editing interfaces.
+<span style='color: #FFC700;'>**Metadata Menu**</span> operates on the principle that [[personal-knowledge-management]] systems benefit from <span style='color: #27FF00;'>structured, validated metadata rather than freeform text fields</span>. The plugin recognizes that while [[obsidian]] allows arbitrary [[YAML]] properties and [[Dataview]] enables `field:: value` notation anywhere in notes, neither system enforces types, validates input, or provides sophisticated editing interfaces.
 
 [**Core-Philosophy**:: Metadata Menu treats your vault as a distributed database where each note is a record, fields are columns with schemas, and fileClasses are table definitions—enabling database-style operations while preserving Markdown flexibility.]
 
@@ -1876,7 +1876,7 @@ Cycle Values: [new, learning, young, mature, mastered]
 3. If linked to `review-stage` Cycle field, that advances too
 4. Interval increases (next shift will be +2 weeks)
 
-<span style='color: #27FF00;'>✓ Use Case:</span> [[Spaced-Repetition]] for [[Zettelkasten]] notes, vocabulary learning, concept reviews.
+<span style='color: #27FF00;'>✓ Use Case:</span> [[spaced-repetition]] for [[zettelkasten]] notes, vocabulary learning, concept reviews.
 
 ---
 

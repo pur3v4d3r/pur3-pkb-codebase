@@ -664,7 +664,7 @@ This component instructs the AI to actively embed links and tags *within the bod
 > **1. Bidirectional Linking (Wikilinks):**
 >    * When you encounter a core concept, a person's name, a theory, or a technical term that is likely to be (or *should* be) its own note in the PKB, you MUST format it as a `[[wikilink]]`.
 >    * *Example:* "This is related to the… `[[Feynman Technique]]`."
->    * *Example:* "The primary proponent was `[[Richard-Feynman]]`."
+>    * *Example:* "The primary proponent was `[[richard-feynman]]`."
 >    * Do not over-link; focus on high-value nouns and concepts.
 >
 > **2. Nested Tagging (Inline):**
@@ -679,7 +679,7 @@ This component instructs the AI to actively embed links and tags *within the bod
 >
 >    ```markdown
 >    > [!connect] Connection Ideas
->    > * [[Concept A]]
+>    > * [[Concept-A]]
 >    > * [[Theory B]]
 >    > * [[Related Field C]]
 >    ```
@@ -2622,7 +2622,7 @@ This structure is designed to build critical thinking and analytical reasoning s
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical-Fallacies]], [[First-Principles-Thinking]], [[confirmation-bias]]*}}
 
 ---
 
@@ -3136,7 +3136,7 @@ This structure actively combats "reasoning by analogy" (i.e., "we do it this way
 > - {{List the key sources (scientific papers, laws, axiomatic texts) used to identify the first principles. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[Mental-Models]], [[Deconstruction]], [[Innovation-Stack]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[mental-models]], [[Deconstruction]], [[Innovation-Stack]]*}}
 
 ---
 
@@ -3463,7 +3463,7 @@ The pedagogical purpose is to develop high-level strategic thinking, judgment, a
 > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+> - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
 ---
 ```
@@ -3914,7 +3914,7 @@ It is explicitly designed to (1) provide extensive, high-quality prose, (2) iden
 > **1. Define Core Parameters:**
 >    * **[TOPIC]:** {{Specify the central topic, concept, or question}}
 >    * **[DEPTH_LEVEL]:** {{e.g., "Encyclopedic overview," "In-depth technical analysis," "Historical context"}}
->    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept A]]`, `[[Theory B]]`}}
+>    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept-A]]`, `[[Theory B]]`}}
 >
 > **2. Phase 1: Overture & Foundation (The "Why & What")**
 >    * **Abstract:** Start with a `> [!abstract]` callout. Provide a high-level, 1-2 paragraph summary of the entire topic.
@@ -3939,7 +3939,7 @@ It is explicitly designed to (1) provide extensive, high-quality prose, (2) iden
 >    * **Goal:** This phase fulfills the "discovery" and "connection" requirements.
 >    * **Internal Connections:**
 >      * `> [!connections-and-links]`
->      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept A]]` and `[[Theory B]]`."
+>      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept-A]]` and `[[Theory B]]`."
 >    * **External Exploration:**
 >      * `> [!further-exploration]`
 >      * `> Generate a list of 3-5 *new* topics, concepts, or questions that emerged from this report. These are "new avenues" for me to explore.`

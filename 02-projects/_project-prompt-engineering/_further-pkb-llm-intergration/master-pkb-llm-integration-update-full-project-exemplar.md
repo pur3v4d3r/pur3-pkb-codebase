@@ -67,15 +67,15 @@ The five-tier system (`verified`, `established`, `provisional`, `speculative`, `
 > [!principle-point] Core Innovation
 > [**Semantic-Link-Typing**:: encoding the *nature* of conceptual relationships rather than merely their *existence*, transforming wiki-links from navigational shortcuts into knowledge graph edges with queryable properties.]
 
-Your relationship vocabulary is excellent. I'd expand it with additional relationship types critical for [[Cognitive-Science]] and [[Learning Theory]] domains:
+Your relationship vocabulary is excellent. I'd expand it with additional relationship types critical for [[cognitive-science]] and [[Learning Theory]] domains:
 
 **Extended Relationship Vocabulary:**
 
 | Type               | Symbol               | Use Case                | Example                                                      |
 | ------------------ | -------------------- | ----------------------- | ------------------------------------------------------------ |
 | `extends`          | →(extends)→          | Theoretical elaboration | [[CLT]] →(extends)→ [[information-processing]]               |
-| `operationalizes`  | →(operationalizes)→  | Abstract → measurable   | [[Intrinsic-Load]] →(operationalizes)→ [[Element-Interactivity]] |
-| `analogous-to`     | →(analogous-to)→     | Cross-domain parallel   | [[Working-Memory]] →(analogous-to)→ [[RAM]]                  |
+| `operationalizes`  | →(operationalizes)→  | Abstract → measurable   | [[Intrinsic-Load]] →(operationalizes)→ [[element-interactivity]] |
+| `analogous-to`     | →(analogous-to)→     | Cross-domain parallel   | [[working-memory]] →(analogous-to)→ [[RAM]]                  |
 | `precondition-for` | →(precondition-for)→ | Logical dependency      | [[Schema Acquisition]] →(precondition-for)→ [[automation]]   |
 | `falsifies`        | →(falsifies)→        | Empirical refutation    | [[Late Selection Evidence]] →(falsifies)→ [[Early Selection Theory]] |
 | `synthesizes`      | →(synthesizes)→      | Integration of multiple | [[Load-Theory]] →(synthesizes)→ [[CLT]] + [[Perceptual Load]] |
@@ -99,7 +99,7 @@ Your `%%ATOMIC%%` syntax is clean. I'd enhance the metadata captured:
 > **Estimated Length**: 400-600 words
 > **Key Relationships**: 
 >   - →(superseded-by)→ [[Attenuation Model]]
->   - →(builds-on)→ [[Information-Processing-Theory]]
+>   - →(builds-on)→ [[information-processing-theory]]
 >   - →(tested-via)→ [[Dichotic Listening Paradigm]]
 > **Source Coverage**: Needs primary source review
 > **Extraction Trigger**: Referenced 3+ times in current vault
@@ -166,7 +166,7 @@ cognitive-load:
 ```markdown
 > [!application-context] Cognitive Load Theory
 > **Domains**: 
->   - [[Instructional-Design]] — curriculum sequencing
+>   - [[instructional-design]] — curriculum sequencing
 >   - [[UX Design]] — interface complexity management
 >   - [[Prompt-Engineering]] — chunk complexity calibration
 > **Trigger Conditions**:
@@ -180,7 +180,7 @@ cognitive-load:
 [**Application-Domain**:: [[Prompt-Engineering]] | trigger:"complex instructions failing" | action:"decompose into sequential steps"]
 ```
 
-**PKB Value**: Query "what knowledge applies to X situation"; build domain-specific toolkits; reduce [[Inert-Knowledge]] problem.
+**PKB Value**: Query "what knowledge applies to X situation"; build domain-specific toolkits; reduce [[inert-knowledge]] problem.
 
 ---
 
@@ -188,7 +188,7 @@ cognitive-load:
 
 <span style='color: #FFC700;'>**Problem**</span>: "Research shows…" conflates single underpowered study with robust meta-analysis.
 
-<span style='color: #27FF00;'>**Solution**</span>: Hierarchical evidence typing following [[Evidence-Based-Practice]] standards.
+<span style='color: #27FF00;'>**Solution**</span>: Hierarchical evidence typing following [[evidence-based-practice]] standards.
 
 ```markdown
 <!-- Evidence hierarchy markers -->
@@ -265,7 +265,7 @@ freshness:
 
 ```markdown
 > [!mental-model-anchor] 
-> **Concept**: [[Cognitive-Load-Theory]]
+> **Concept**: [[cognitive-load-theory]]
 > **Anchors To**:
 >   - [[Systems-Thinking]] — feedback loops between load types
 >   - [[Constraint Theory]] — bottleneck identification
@@ -273,7 +273,7 @@ freshness:
 >   - [[Inversion]] — what would INCREASE load? (avoid that)
 > **Integration Notes**: CLT is fundamentally a constraint/bottleneck model applied to cognition
 
-[**Model-Anchor**:: [[Cognitive-Load-Theory]] ←anchors-to→ [[Constraint Theory]] | insight:"learning bottlenecks = cognitive constraints"]
+[**Model-Anchor**:: [[cognitive-load-theory]] ←anchors-to→ [[Constraint Theory]] | insight:"learning bottlenecks = cognitive constraints"]
 ```
 
 **PKB Value**: Rapid sense-making through framework activation; transferable reasoning patterns; metacognitive scaffolding.
@@ -473,7 +473,7 @@ When establishing connections between concepts, encode the semantic relationship
 **Narrative Integration:**
 
 ```markdown
-[[Cognitive-Load-Theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[Information-Processing-Theory]].
+[[cognitive-load-theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[information-processing-theory]].
 ```
 
 **Complex Multi-Relation:**
@@ -485,7 +485,7 @@ When establishing connections between concepts, encode the semantic relationship
 **With Annotations:**
 
 ```markdown
-[**Relationship**:: [[CLT]] →(applied-in)→ [[Instructional-Design]] | annotation:"primary application domain since 1980s"]
+[**Relationship**:: [[CLT]] →(applied-in)→ [[instructional-design]] | annotation:"primary application domain since 1980s"]
 ```
 
 </syntax_specification>
@@ -984,7 +984,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 ```markdown
 > [!prerequisite] Required Background
 > **Hard Prerequisites** (must understand first):
-> - [[Information-Processing-Theory]] — foundational framework
+> - [[information-processing-theory]] — foundational framework
 > - [[Working Memory Basics]] — capacity constraints
 > 
 > **Soft Prerequisites** (helpful context):
@@ -993,12 +993,12 @@ optimal-sequence-position: [early | middle | late | capstone]
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[Cognitive-Load-Theory]] — primary extension
+> - [[cognitive-load-theory]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise-Development]] — schema automation
-> - [[Multimedia-Learning]] — CLT application
+> - [[expertise-development]] — schema automation
+> - [[multimedia-learning]] — CLT application
 ```
 
 </callout_format>
@@ -1065,7 +1065,7 @@ SORT file.name ASC
 ```dataview
 TABLE enables.direct as "Unlocks"
 FROM "permanent-notes"
-WHERE contains(prerequisites.hard, "[[Working-Memory]]")
+WHERE contains(prerequisites.hard, "[[working-memory]]")
 ```
 
 </query_compatibility>
@@ -1903,7 +1903,7 @@ Explicitly connect concepts to foundational mental models.
 ### Inline Model Anchors
 
 ```markdown
-[**Model-Anchor**:: [[concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[concept]] ←anchors-to→ [[mental-model]] | insight:"what the connection reveals"]
 
 [**Model-Application**:: [[concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
@@ -1933,11 +1933,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[Cognitive-Load-Theory]]?"
+"How does [[First Principles Thinking]] illuminate [[cognitive-load-theory]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[Cognitive-Load-Theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[cognitive-load-theory]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 
@@ -2085,7 +2085,7 @@ cognitive-load:
   intrinsic: high
   element-interactivity: 7
 prerequisites:
-  hard: ["[[Information-Processing-Theory]]", "[[arousal-theory]]"]
+  hard: ["[[information-processing-theory]]", "[[arousal-theory]]"]
 freshness:
   domain-volatility: stable
   last-verified: 2025-05
@@ -2105,13 +2105,13 @@ The model comprises several interacting elements:
 ^source:: [[ref-kahneman-1973]] p.47
 ^evidence-type:: theoretical-claim
 
-[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson-Law]] + [[Information-Processing-Theory]]]
+[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[yerkes-dodson-law]] + [[information-processing-theory]]]
 
 %%QUERY-ANCHOR: attention:capacity-model-components%%
 
 > [!application-context] Capacity Model Application
 > **Domains**: 
->   - [[Instructional-Design]] — predict when learners will be overwhelmed
+>   - [[instructional-design]] — predict when learners will be overwhelmed
 >   - [[UX Design]] — interface complexity management
 > **Trigger Conditions**:
 >   - "Learner performance degrades under stress" → check arousal level
@@ -2123,7 +2123,7 @@ The model comprises several interacting elements:
 > **Principle**: Single undifferentiated resource pool
 > **Counterexample**: Modality-specific interference patterns suggest multiple pools
 > **Boundary Condition**: Model may oversimplify for cross-modal tasks
-> **Alternative**: Consider [[Multiple-Resource-Theory]] for complex interfaces
+> **Alternative**: Consider [[multiple-resource-theory]] for complex interfaces
 ```
 
 </integrated_output_example>
@@ -5036,28 +5036,28 @@ Identify and link any term that meets these criteria:
 - Term requires specific definition to understand fully
 - Concept has domain-specific meaning different from common usage
 - Idea represents a discrete, learnable unit of knowledge
-- Examples: [[Cognitive-Load]], [[Zettelkasten]], [[Emergent Behavior]]
+- Examples: [[cognitive-load]], [[zettelkasten]], [[Emergent Behavior]]
 
 ✓ **Theoretical Framework**
 
 - Named model, theory, or systematic approach
 - Attributed to specific researcher/thinker
 - Has literature/research supporting it
-- Examples: [[Dual-Coding-Theory]], [[PARA-Method]], [[Bloom's-Taxonomy]]
+- Examples: [[dual-coding-theory]], [[para-method]], [[Bloom's-Taxonomy]]
 
 ✓ **Methodological Process**
 
 - Step-by-step procedure or technique
 - Replicable workflow or system
 - Has specific implementation requirements
-- Examples: [[Progressive-Summarization]], [[Spaced-Repetition]], [[Elaborative-Interrogation]]
+- Examples: [[Progressive-Summarization]], [[spaced-repetition]], [[elaborative-interrogation]]
 
 **CATEGORY 2: Technical & Tool-Specific Terms**
 
 ✓ **Software/Tool Names**
 
 - Obsidian plugins: [[Dataview]], [[Templater]], [[QuickAdd]]
-- Software applications: [[Obsidian]], [[Notion]], [[Roam Research]]
+- Software applications: [[obsidian]], [[Notion]], [[Roam Research]]
 - Programming languages: [[Python]], [[JavaScript]], [[CSS]]
 - Frameworks/libraries: [[ReAct]], [[Vue]], [[FastMCP]]
 
@@ -5072,13 +5072,13 @@ Identify and link any term that meets these criteria:
 
 ✓ **Academic Fields**
 
-- Broad domains: [[Cognitive-Science]], [[neuroscience]], [[Instructional-Design]]
-- Subdisciplines: [[Educational-Psychology]], [[Human-Computer-Interaction]]
-- Research areas: [[Learning-Analytics]], [[Metacognition]]
+- Broad domains: [[cognitive-science]], [[neuroscience]], [[instructional-design]]
+- Subdisciplines: [[educational-psychology]], [[Human-Computer-Interaction]]
+- Research areas: [[Learning-Analytics]], [[metacognition]]
 
 ✓ **Specialized Subfields**
 
-- [[Andragogy]], [[Heutagogy]], [[Constructivism]]
+- [[andragogy]], [[heutagogy]], [[constructivism]]
 - [[Information-Architecture]], [[Knowledge Engineering]]
 - [[Prompt-Engineering]], [[Constitutional-AI]]
 
@@ -5086,14 +5086,14 @@ Identify and link any term that meets these criteria:
 
 ✓ **Related Notes That Should Exist**
 
-- Complementary concepts: [[Intrinsic-Load]] ↔ [[Extraneous-Load]]
-- Hierarchical relationships: [[Cognitive-Load-Theory]] → [[Working-Memory]]
+- Complementary concepts: [[Intrinsic-Load]] ↔ [[extraneous-load]]
+- Hierarchical relationships: [[cognitive-load-theory]] → [[working-memory]]
 - Sequential processes: [[Capture]] → [[Organize]] → [[Distill]] → [[Express]]
 
 ✓ **Contrast/Comparison Terms**
 
-- Binary oppositions: [[Intrinsic-Motivation]] vs [[Extrinsic-Motivation]]
-- Spectrum positions: [[Behaviorism]] ← → [[Constructivism]] ← → [[Connectivism]]
+- Binary oppositions: [[intrinsic-motivation]] vs [[extrinsic-motivation]]
+- Spectrum positions: [[Behaviorism]] ← → [[constructivism]] ← → [[Connectivism]]
 - Alternative approaches: [[top-down-processing]] vs [[bottom-up-processing]]
 
 **CATEGORY 5: Named Entities & Attributed Concepts**
@@ -5103,7 +5103,7 @@ Identify and link any term that meets these criteria:
 - [[Niklas Luhmann]] (Zettelkasten creator)
 - [[Andy Matuschak]] (Evergreen notes)
 - [[Tiago Forte]] (PARA, Progressive Summarization)
-- [[John-Sweller]] (Cognitive Load Theory)
+- [[john-sweller]] (Cognitive Load Theory)
 
 ✓ **Named Methods & Systems**
 
@@ -5177,7 +5177,7 @@ Use when: The note title is the exact term you want displayed
 
 Use when: 
 
-- Grammatical integration: "theories of [[Cognitive-Load-Theory|cognitive load]]"
+- Grammatical integration: "theories of [[cognitive-load-theory|cognitive load]]"
 - Shortened reference: "the [[Zettelkasten-Method|method]]"
 - Alternative phrasing: "[[Progressive-Summarization|layer-based distillation]]"
 
@@ -5253,18 +5253,18 @@ Mention this in the "Related Topics" section when appropriate.
 
 **EXAMPLE BI-DIRECTIONAL PATTERN:**
 
-In a note about [[Cognitive-Load-Theory]]:
+In a note about [[cognitive-load-theory]]:
 
 ```markdown
 Forward links:
-- [[Working-Memory]]
-- [[Schema-Theory]]
-- [[Instructional-Design]]
+- [[working-memory]]
+- [[schema-theory]]
+- [[instructional-design]]
 
 Potential backlinks (notes that should link here):
 - [[Learning Theory Overview]]
-- [[Educational-Psychology]]
-- [[Multimedia-Learning]]
+- [[educational-psychology]]
+- [[multimedia-learning]]
 ```
 
 This bi-directional awareness creates a more robust knowledge graph.
@@ -5274,15 +5274,15 @@ This bi-directional awareness creates a more robust knowledge graph.
 ❌ **Over-Linking Every Occurrence:**
 
 ```markdown
-[[Cognitive-Load]] theory explains how [[Cognitive-Load]] affects learning. 
-When [[Cognitive-Load]] is too high, [[Cognitive-Load]] overwhelms [[Working-Memory]].
+[[cognitive-load]] theory explains how [[cognitive-load]] affects learning. 
+When [[cognitive-load]] is too high, [[cognitive-load]] overwhelms [[working-memory]].
 ```
 
 ✅ **Correct Approach:**
 
 ```markdown
-[[Cognitive-Load-Theory]] explains how cognitive load affects learning. 
-When load exceeds capacity, it overwhelms [[Working-Memory]].
+[[cognitive-load-theory]] explains how cognitive load affects learning. 
+When load exceeds capacity, it overwhelms [[working-memory]].
 ```
 
 ❌ **Linking Non-Specific Generic Terms:**
@@ -5307,7 +5307,7 @@ I like to use [[blue]] [[pens]] when [[writing]] [[notes]].
 ✅ **Correct Approach:**
 
 ```markdown
-I prefer [[Cornell Notes]] when capturing lectures in [[Obsidian]].
+I prefer [[Cornell Notes]] when capturing lectures in [[obsidian]].
 ```
 
 </wiki_link_protocols>
@@ -7281,13 +7281,13 @@ Include when:
 
 ## 🎯 Core Extensions
 
-1. **[[Intrinsic-Cognitive-Load]]**
-   - **Connection**: One of three components of [[Cognitive-Load-Theory]] introduced in this note, representing inherent material complexity
+1. **[[intrinsic-cognitive-load]]**
+   - **Connection**: One of three components of [[cognitive-load-theory]] introduced in this note, representing inherent material complexity
    - **Depth Potential**: Understanding element interactivity and expertise reversal effect requires dedicated treatment; central to instructional design optimization
    - **Knowledge Graph Role**: Hub concept connecting learning theory, instructional design, and skill acquisition domains
    - **Priority**: **High** - Essential for applying cognitive load principles to practical instructional scenarios
 
-2. **[[Worked-Example-Effect]]**
+2. **[[worked-example-effect]]**
    - **Connection**: Direct application of cognitive load reduction through minimizing extraneous load during skill acquisition phase
    - **Depth Potential**: Extensive research on optimal fading strategies, expertise reversal considerations, and domain-specific implementations
    - **Knowledge Graph Role**: Bridge between cognitive load theory and practical instructional techniques
@@ -7301,7 +7301,7 @@ Include when:
    - **Knowledge Graph Role**: Bridge node connecting cognitive science, instructional design, and user experience design domains
    - **Priority**: **Medium** - Valuable for practitioners working across digital learning and product design
 
-4. **[[Dual-Coding-Theory]]**
+4. **[[dual-coding-theory]]**
    - **Connection**: Complementary framework explaining how verbal and visual processing interact, offering alternative perspective on optimizing learning materials
    - **Depth Potential**: Paivio's framework provides distinct but compatible lens; integration with CLT reveals synergistic design strategies
    - **Knowledge Graph Role**: Parallel theoretical framework enabling triangulation and richer understanding of multimedia learning
@@ -7309,17 +7309,17 @@ Include when:
 
 ## 🔬 Advanced Deep Dives
 
-5. **[[Expertise-Reversal-Effect]]**
+5. **[[expertise-reversal-effect]]**
    - **Connection**: Advanced phenomenon where instructional techniques effective for novices become detrimental for experts as expertise grows
    - **Depth Potential**: Requires understanding CLT, schema theory, and automation; critical for adaptive instruction and personalized learning systems
    - **Knowledge Graph Role**: Specialized node integrating CLT with developmental progression and adaptive systems
-   - **Prerequisites**: Solid understanding of [[Schema-Theory]], [[Intrinsic Load vs Extraneous Load]], and [[Worked-Example-Effect]]
+   - **Prerequisites**: Solid understanding of [[schema-theory]], [[Intrinsic Load vs Extraneous Load]], and [[worked-example-effect]]
    - **Priority**: **Medium** - Essential for advanced instructional design but requires foundational knowledge first
 
 ## 📚 Foundational Prerequisites
 
-- **[[Working-Memory]]** - CLT fundamentally depends on understanding working memory's limited capacity and how it processes information
-- **[[Schema-Theory]]** - Germane load's role in schema construction makes schema theory prerequisite for full CLT comprehension
+- **[[working-memory]]** - CLT fundamentally depends on understanding working memory's limited capacity and how it processes information
+- **[[schema-theory]]** - Germane load's role in schema construction makes schema theory prerequisite for full CLT comprehension
 - **[[Bloom's-Taxonomy]]** - Understanding cognitive complexity levels provides context for why intrinsic load varies across learning objectives
 
 ## 🛠️ Practical Applications

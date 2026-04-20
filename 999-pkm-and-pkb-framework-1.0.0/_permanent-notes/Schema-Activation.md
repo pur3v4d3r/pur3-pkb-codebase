@@ -5,6 +5,7 @@
 title: "Schema Activation"
 aliases:
   - "Schema Activation"
+  - "Schema-Activation"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -30,8 +31,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,7 +43,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -66,39 +67,39 @@ narrower:
   []
 
 see-also:
-  - "[[Schema-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
   - "[[cognitive-psychology]]"
-  - "[[Educational-Psychology]]"
+  - "[[educational-psychology|Educational-Psychology]]"
   - "[[learning-theory-moc]]"
   - "[[schemas]]"
-  - "[[Frederic-Bartlett]]"
-  - "[[Jean-Piaget]]"
-  - "[[David-Rumelhart]]"
-  - "[[Richard-Anderson]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Prior-Knowledge-Activation]]"
-  - "[[Instructional-Design]]"
-  - "[[Predictive-Processing]]"
-  - "[[Constructivism]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Intrinsic-Cognitive-Load]]"
-  - "[[Jean-Piaget]]"
-  - "[[Assimilation-and-Accommodation]]"
-  - "[[Prior-Knowledge]]"
-  - "[[Schema-Theory-and-Learning]]"
+  - "[[frederic-bartlett|Frederic-Bartlett]]"
+  - "[[jean-piaget|Jean-Piaget]]"
+  - "[[David-Rumelhart|David-Rumelhart]]"
+  - "[[richard-anderson|Richard-Anderson]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[prior-knowledge-activation|Prior-Knowledge-Activation]]"
+  - "[[instructional-design|Instructional-Design]]"
+  - "[[predictive-processing|Predictive-Processing]]"
+  - "[[constructivism|Constructivism]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]]"
+  - "[[jean-piaget|Jean-Piaget]]"
+  - "[[assimilation-and-accommodation|Assimilation-and-Accommodation]]"
+  - "[[prior-knowledge|Prior-Knowledge]]"
+  - "[[schema-theory-and-learning|Schema-Theory-and-Learning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Assimilation-Theory]]"
-  - "[[Bartlett's-reconstructive-memory-theory]]"
+  - "[[assimilation-theory|Assimilation-Theory]]"
+  - "[[bartletts-reconstructive-memory-theory|Bartlett's-reconstructive-memory-theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Conceptual-Change-Theory-—-Schema-Restructuring-in-Education-Connect|> [!topic-idea] [[Conceptual-Change-Theory]] — Schema Restructuring in Education
+  - topic: "[[> [!topic-idea] [[Conceptual-Change-Theory]] — Schema Restructuring in Education
 > *Connection:* Con]]"
     description: ""
     priority: medium
@@ -114,7 +115,7 @@ importance: high
 # Schema Activation
 
 > [!definition] **Schema Activation** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> The process by which a particular schema is retrieved from long-term memory and made available in working memory for deployment in ongoing comprehension or performance. Activation is triggered by cues in the environment, spreading through associative networks, raising activation levels of related schemas, with the schema best matching available cues reaching control threshold. See also: [[Spreading-Activation]], [[Schema-Progressive-Architecture]].
+> The process by which a particular schema is retrieved from long-term memory and made available in working memory for deployment in ongoing comprehension or performance. Activation is triggered by cues in the environment, spreading through associative networks, raising activation levels of related schemas, with the schema best matching available cues reaching control threshold. See also: [[spreading-activation]], [[schema-progressive-architecture]].
 
 ## Core Explanation
 
@@ -170,7 +171,7 @@ importance: high
 > Human episodic and semantic memory is a schema-guided inferential process, not a recorded playback. What is stored in long-term memory is not a complete record of the experience but a *partial trace* of schema-activated elements, plus the schemas themselves. At retrieval, the partial trace is used as a scaffold to reconstruct the full memory by reinstating the schema that was active at encoding and using it to fill in the gaps — using default values, contextual plausibility, and narrative…
 
 > [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-04-03]])*
-> Schema Theory and [[Cognitive-Load-Theory]] converge on a crucial insight: background knowledge (i.e., well-established schemas) effectively expands functional working memory capacity. Because schema-familiar information is processed as a single chunk rather than multiple separate elements, expert learners can simultaneously hold more information in working memory than novices — not because their working memory is biologically larger but because their schemas allow efficient chunking. This…
+> Schema Theory and [[cognitive-load-theory]] converge on a crucial insight: background knowledge (i.e., well-established schemas) effectively expands functional working memory capacity. Because schema-familiar information is processed as a single chunk rather than multiple separate elements, expert learners can simultaneously hold more information in working memory than novices — not because their working memory is biologically larger but because their schemas allow efficient chunking. This…
 
 > [!analytical-insight] Key Insight *(from [[schema-theory-foundational-report-2026-04-03]])*
 > Worked examples are effective for novice learners because they provide explicit, organized representations of the schema being taught — the solution's structural logic can be studied and used as the foundation for schema construction. Self-directed problem-solving, for novices who lack relevant schemas, cannot build schemas because schemas are the prerequisite for recognizing the structure in a problem. This is a direct implication of the interplay between Schema Theory and…
@@ -189,19 +190,19 @@ importance: high
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Frederic Charles Bartlett (1886–1969)** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> British experimental psychologist who provided the founding empirical demonstration of schema-mediated memory in his landmark 1932 work *Remembering*. His "War of the Ghosts" experiments revealed systematic schema-assimilation distortions in memory for culturally unfamiliar material. Bartlett coined "effort after meaning" and "schema" (in the functional cognitive sense). His framework anticipated by decades the constructivist theories that would dominate cognitive psychology from the 1970s onward. See also: [[Bartlett]], [[Frederic-Bartlett]].
+> British experimental psychologist who provided the founding empirical demonstration of schema-mediated memory in his landmark 1932 work *Remembering*. His "War of the Ghosts" experiments revealed systematic schema-assimilation distortions in memory for culturally unfamiliar material. Bartlett coined "effort after meaning" and "schema" (in the functional cognitive sense). His framework anticipated by decades the constructivist theories that would dominate cognitive psychology from the 1970s onward. See also: [[bartlett]], [[frederic-bartlett]].
 
 > [!person] **Jean Piaget (1896–1980)** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> Swiss developmental psychologist whose structural-developmental theory provided the foundational account of schemas in developmental psychology. Piaget's concepts of *assimilation* (incorporating new experience into existing schemas), *accommodation* (modifying schemas to fit new experience), and *equilibration* (the self-regulatory process driving developmental change) map directly onto the accretion-restructuring distinction in cognitive schema theory. See also: [[Jean-Piaget]], [[Piaget]], [[Assimilation]], [[Accommodation]].
+> Swiss developmental psychologist whose structural-developmental theory provided the foundational account of schemas in developmental psychology. Piaget's concepts of *assimilation* (incorporating new experience into existing schemas), *accommodation* (modifying schemas to fit new experience), and *equilibration* (the self-regulatory process driving developmental change) map directly onto the accretion-restructuring distinction in cognitive schema theory. See also: [[jean-piaget]], [[Piaget]], [[assimilation]], [[accommodation]].
 
 > [!person] **David Rumelhart (1942–2011)** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> American cognitive psychologist at UC San Diego who provided the first formal, computationally explicit account of schemas in cognitive science (1975, 1980). Rumelhart formalized the slot-default architecture, the goodness-of-fit account of schema activation, and the interactive activation model of processing. With Donald Norman, he developed the accretion-tuning-restructuring account of schema modification. Later contributed to the PDP/connectionist revolution, creating a productive tension with his own earlier symbolic schema theory. See also: [[David-Rumelhart]], [[Rumelhart]].
+> American cognitive psychologist at UC San Diego who provided the first formal, computationally explicit account of schemas in cognitive science (1975, 1980). Rumelhart formalized the slot-default architecture, the goodness-of-fit account of schema activation, and the interactive activation model of processing. With Donald Norman, he developed the accretion-tuning-restructuring account of schema modification. Later contributed to the PDP/connectionist revolution, creating a productive tension with his own earlier symbolic schema theory. See also: [[David-Rumelhart]], [[rumelhart]].
 
 > [!person] **Richard C. Anderson (b. 1934)** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> American educational psychologist at the University of Illinois who, more than any other researcher, established the empirical program of schema-theoretic research in reading comprehension and educational contexts. His studies on how readers' background knowledge and cultural schemas shape text comprehension provided the empirical foundation for schema theory's educational applications. His work with colleagues at the Center for the Study of Reading (1976–1990s) generated hundreds of studies directly addressing schema effects on learning. See also: [[Richard-Anderson]].
+> American educational psychologist at the University of Illinois who, more than any other researcher, established the empirical program of schema-theoretic research in reading comprehension and educational contexts. His studies on how readers' background knowledge and cultural schemas shape text comprehension provided the empirical foundation for schema theory's educational applications. His work with colleagues at the Center for the Study of Reading (1976–1990s) generated hundreds of studies directly addressing schema effects on learning. See also: [[richard-anderson]].
 
 > [!person] **Roger Schank (b. 1946) and Robert Abelson (1928–2005)** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> American AI researcher (Schank) and cognitive psychologist (Abelson) who together developed the *script* concept — a temporally ordered schema for routine, stereotyped event sequences (restaurant script, doctor visit script, etc.). Their 1977 work *Scripts, Plans, Goals and Understanding* was enormously influential in both AI natural language processing and cognitive psychology, providing the most detailed formal treatment of procedural/event schemas. See also: [[Schank-and-Abelson]], [[Roger-Schank]].
+> American AI researcher (Schank) and cognitive psychologist (Abelson) who together developed the *script* concept — a temporally ordered schema for routine, stereotyped event sequences (restaurant script, doctor visit script, etc.). Their 1977 work *Scripts, Plans, Goals and Understanding* was enormously influential in both AI natural language processing and cognitive psychology, providing the most detailed formal treatment of procedural/event schemas. See also: [[schank-and-abelson]], [[roger-schank]].
 
 ## Conceptual Tensions
 
@@ -264,7 +265,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge: What You Already Know About Schemas** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> Before proceeding, consider what you already bring to this topic. If you have studied [[Cognitive-Load-Theory]], you will find that schemas are precisely what CLT aims to build — automated knowledge structures that reduce [[Intrinsic-Cognitive-Load]]. If you have encountered [[Jean-Piaget|Piaget's]] [[Assimilation-and-Accommodation]], you have already met schemas in developmental form. If you have read about [[Prior-Knowledge]] effects in learning research (the classic finding that reading comprehension depends heavily on background knowledge), you have observed schema effects in…
+> Before proceeding, consider what you already bring to this topic. If you have studied [[cognitive-load-theory]], you will find that schemas are precisely what CLT aims to build — automated knowledge structures that reduce [[intrinsic-cognitive-load]]. If you have encountered [[jean-piaget|Piaget's]] [[assimilation-and-accommodation]], you have already met schemas in developmental form. If you have read about [[prior-knowledge]] effects in learning research (the classic finding that reading comprehension depends heavily on background knowledge), you have observed schema effects in…
 
 ## Far Transfer Applications
 
@@ -280,7 +281,7 @@ importance: high
 ## Debates
 
 > [!debate] **Schema Specificity vs. Generality** *(from [[schema-theory-foundational-report-2026-04-03]])*
-> How abstract should schemas be? The specificity-generality tension runs through schema theory: schemas that are highly specific predict accurately for narrow instances but do not generalize; schemas that are highly general generalize broadly but provide insufficient constraint to make any specific prediction. The question of how people acquire appropriately general schemas (abstract enough to apply to novel instances but specific enough to generate real predictions) from specific experience remains a central theoretical puzzle — relevant to debates about [[Transfer-of-Learning]], [[Generalization]], and the design of training conditions for transfer.
+> How abstract should schemas be? The specificity-generality tension runs through schema theory: schemas that are highly specific predict accurately for narrow instances but do not generalize; schemas that are highly general generalize broadly but provide insufficient constraint to make any specific prediction. The question of how people acquire appropriately general schemas (abstract enough to apply to novel instances but specific enough to generate real predictions) from specific experience remains a central theoretical puzzle — relevant to debates about [[transfer-of-learning]], [[Generalization]], and the design of training conditions for transfer.
 
 ## Concrete Examples
 
@@ -412,19 +413,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[schema-theory-foundational-report-2026-04-03]])*:
-- [[Prior-Knowledge]]
-- [[Jean-Piaget]]
-- [[Piaget]]
-- [[Frederic-Bartlett]]
-- [[Bartlett]]
-- [[Constructivism]]
-- [[Long-Term-Memory]]
-- [[Cognitive-Load-Theory]]
-- [[Conceptual-Change-Theory]]
-- [[Advance-Organizers]]
+- [[prior-knowledge|Prior-Knowledge]]
+- [[jean-piaget|Jean-Piaget]]
+- [[Piaget|Piaget]]
+- [[frederic-bartlett|Frederic-Bartlett]]
+- [[bartlett|Bartlett]]
+- [[constructivism|Constructivism]]
+- [[long-term-memory|Long-Term-Memory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[Conceptual-Change-Theory|Conceptual-Change-Theory]]
+- [[advance-organizers|Advance-Organizers]]
 
 **Related concepts:**
-[[Schema-Theory]] · [[cognitive-psychology]] · [[Educational-Psychology]] · [[learning-theory-moc]] · [[schemas]] · [[Frederic-Bartlett]] · [[Jean-Piaget]] · [[David-Rumelhart]] · [[Richard-Anderson]] · [[Cognitive-Load-Theory]] · [[Prior-Knowledge-Activation]] · [[Instructional-Design]] · [[Predictive-Processing]] · [[Constructivism]] · [[Cognitive-Load-Theory]] · [[Intrinsic-Cognitive-Load]] · [[Jean-Piaget]] · [[Assimilation-and-Accommodation]] · [[Prior-Knowledge]] · [[Schema-Theory-and-Learning]] · [[Constructivist-Learning-Theory]] · [[Information-Processing-Theory]] · [[Mental-Models]] · [[Prior-Knowledge]] · [[Expertise-Development]] · [[Reconstructive-Memory]] · [[Transfer-of-Learning]] · [[Bartlett]] · [[Dual-Coding-Theory]] · [[knowledge-schemas]]
+[[schema-theory|Schema-Theory]] · [[cognitive-psychology]] · [[educational-psychology|Educational-Psychology]] · [[learning-theory-moc]] · [[schemas]] · [[frederic-bartlett|Frederic-Bartlett]] · [[jean-piaget|Jean-Piaget]] · [[David-Rumelhart|David-Rumelhart]] · [[richard-anderson|Richard-Anderson]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[instructional-design|Instructional-Design]] · [[predictive-processing|Predictive-Processing]] · [[constructivism|Constructivism]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]] · [[jean-piaget|Jean-Piaget]] · [[assimilation-and-accommodation|Assimilation-and-Accommodation]] · [[prior-knowledge|Prior-Knowledge]] · [[schema-theory-and-learning|Schema-Theory-and-Learning]] · [[constructivist-learning-theory|Constructivist-Learning-Theory]] · [[information-processing-theory|Information-Processing-Theory]] · [[mental-models|Mental-Models]] · [[prior-knowledge|Prior-Knowledge]] · [[expertise-development|Expertise-Development]] · [[reconstructive-memory|Reconstructive-Memory]] · [[transfer-of-learning|Transfer-of-Learning]] · [[bartlett|Bartlett]] · [[dual-coding-theory|Dual-Coding-Theory]] · [[knowledge-schemas]]
 
 ## References
 

@@ -5,6 +5,7 @@
 title: "Routing Decision Factors"
 aliases:
   - "Routing Decision Factors"
+  - "Routing-Decision-Factors"
   - "RDF"
 type: permanent-note
 status: evergreen
@@ -32,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +45,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,26 +69,26 @@ narrower:
   []
 
 see-also:
-  - "[[Claude-Opus-4|Claude Opus 4]]"
-  - "[[Claude-Sonnet-4|Claude Sonnet 4]]"
-  - "[[Skills]]"
-  - "[[Microservices-Architecture|Microservices Architecture]]"
-  - "[[Bounded-Contexts|Bounded Contexts]]"
-  - "[[Message-Queues|Message Queues]]"
-  - "[[MapReduce]]"
-  - "[[Event-Driven-Architecture|Event-Driven Architecture]]"
-  - "[[Circuit-Breaker-Pattern|Circuit Breaker Pattern]]"
-  - "[[Conway's-Law|Conway's Law]]"
-  - "[[Agile-Standups|Agile Standups]]"
-  - "[[Principle-of-Least-Privilege|Principle of Least Privilege]]"
-  - "[[Cognitive-Load|Cognitive Load]]"
-  - "[[Expertise-Theory|Expertise Theory]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Claude-Code-Basics|Claude Code Basics]]"
-  - "[[CLAUDE.md-Files|CLAUDE.md Files]]"
-  - "[[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]"
-  - "[[YAML-Syntax|YAML Syntax]]"
-  - "[[MCP-Servers|MCP Servers]]"
+  - "[[claude-opus-4|Claude-Opus-4]]"
+  - "[[claude-sonnet-4|Claude-Sonnet-4]]"
+  - "[[skills|Skills]]"
+  - "[[microservices-architecture|Microservices-Architecture]]"
+  - "[[bounded-contexts|Bounded-Contexts]]"
+  - "[[message-queues|Message-Queues]]"
+  - "[[mapreduce|MapReduce]]"
+  - "[[event-driven-architecture|Event-Driven-Architecture]]"
+  - "[[circuit-breaker-pattern|Circuit-Breaker-Pattern]]"
+  - "[[conways-law|Conway's-Law]]"
+  - "[[agile-standups|Agile-Standups]]"
+  - "[[principle-of-least-privilege|Principle-of-Least-Privilege]]"
+  - "[[cognitive-load|Cognitive-Load]]"
+  - "[[expertise-theory|Expertise-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[claude-code-basics|Claude-Code-Basics]]"
+  - "[[claude.md-files|CLAUDE.md-Files]]"
+  - "[[prompt-engineering-fundamentals|Prompt-Engineering-Fundamentals]]"
+  - "[[yaml-syntax|YAML-Syntax]]"
+  - "[[mcp-servers|MCP-Servers]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -941,59 +942,19 @@ importance: medium
 ## Connections & Context
 
 **Cross-report connections** *(from [[multi-agent-systems-with-claude-code]])*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-- [[Custom-Commands|Custom Commands]]
-- [[Skills-System|Skills System]]
-- [[Output-Styles|Output Styles]]
-- [[Hooks-System|Hooks System]]
-- [[Agent-File-Format-Specification|Agent File Format Specification]]
+- [[claude-code-basics|Claude-Code-Basics]]
+- [[claude.md-files|CLAUDE.md-Files]]
+- [[prompt-engineering-fundamentals|Prompt-Engineering-Fundamentals]]
+- [[yaml-syntax|YAML-Syntax]]
+- [[mcp-servers|MCP-Servers]]
+- [[custom-commands|Custom-Commands]]
+- [[skills-system|Skills-System]]
+- [[output-styles|Output-Styles]]
+- [[hooks-system|Hooks-System]]
+- [[agent-file-format-specification|Agent-File-Format-Specification]]
 
 **Related concepts:**
-[[Claude-Opus-4|Claude Opus 4]] · [[Claude-Sonnet-4|Claude Sonnet 4]] · [[Skills]] · [[Microservices-Architecture|Microservices Architecture]] · [[Bounded-Contexts|Bounded Contexts]] · [[Message-Queues|Message Queues]] · [[MapReduce]] · [[Event-Driven-Architecture|Event-Driven Architecture]] · [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] · [[Conway's-Law|Conway's Law]] · [[Agile-Standups|Agile Standups]] · [[Principle-of-Least-Privilege|Principle of Least Privilege]] · [[Cognitive-Load|Cognitive Load]] · [[Expertise-Theory|Expertise Theory]] · [[Working-Memory|Working Memory]] · [[Claude-Code-Basics|Claude Code Basics]] · [[CLAUDE.md-Files|CLAUDE.md Files]] · [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] · [[YAML-Syntax|YAML Syntax]] · [[MCP-Servers|MCP Servers]] · [[Custom-Commands|Custom Commands]] · [[Skills-System|Skills System]] · [[Output-Styles|Output Styles]] · [[Hooks-System|Hooks System]] · [[Agent-File-Format-Specification|Agent File Format Specification]] · [[Coordination-Pattern-Library|Coordination Pattern Library]] · [[Tool-Permission-Grammar|Tool Permission Grammar]] · [[State-Management-Protocols|State Management Protocols]] · [[Agent-Prompt-Engineering|Agent Prompt Engineering]] · [[Microservices-Architecture|Microservices Architecture]]
-
-**Related concepts** *(from multi-agent-systems-with-claude-code.md)*:
-[[Claude-Opus-4|Claude Opus 4]] * [[Claude-Sonnet-4|Claude Sonnet 4]] * [[Microservices-Architecture|Microservices Architecture]] * [[Bounded-Contexts|Bounded Contexts]] * [[Message-Queues|Message Queues]] * [[Event-Driven-Architecture|Event-Driven Architecture]] * [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] * [[Conway's-Law|Conway's Law]] * [[Agile-Standups|Agile Standups]] * [[Principle-of-Least-Privilege|Principle of Least Privilege]] * [[Cognitive-Load|Cognitive Load]] * [[Expertise-Theory|Expertise Theory]] * [[Working-Memory|Working Memory]] * [[Claude-Code-Basics|Claude Code Basics]] * [[CLAUDE.md-Files|CLAUDE.md Files]] * [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] * [[YAML-Syntax|YAML Syntax]] * [[MCP-Servers|MCP Servers]] * [[Custom-Commands|Custom Commands]] * [[Skills-System|Skills System]] * [[Output-Styles|Output Styles]] * [[Hooks-System|Hooks System]] * [[Agent-File-Format-Specification|Agent File Format Specification]] * [[Coordination-Pattern-Library|Coordination Pattern Library]] * [[Tool-Permission-Grammar|Tool Permission Grammar]] * [[State-Management-Protocols|State Management Protocols]] * [[Agent-Prompt-Engineering|Agent Prompt Engineering]] * [[Distributed-Systems-Design|Distributed Systems Design]] * [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]] * [[Software-Engineering-Workflows|Software Engineering Workflows]]
-
-**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-
-**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-
-**Related concepts** *(from [[multi-agent-systems-with-claude-code]])*:
-[[Claude-Opus-4|Claude Opus 4]] * [[Claude-Sonnet-4|Claude Sonnet 4]] * [[Microservices-Architecture|Microservices Architecture]] * [[Bounded-Contexts|Bounded Contexts]] * [[Message-Queues|Message Queues]] * [[Event-Driven-Architecture|Event-Driven Architecture]] * [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] * [[Conway's-Law|Conway's Law]] * [[Agile-Standups|Agile Standups]] * [[Principle-of-Least-Privilege|Principle of Least Privilege]] * [[Cognitive-Load|Cognitive Load]] * [[Expertise-Theory|Expertise Theory]] * [[Working-Memory|Working Memory]] * [[Claude-Code-Basics|Claude Code Basics]] * [[CLAUDE.md-Files|CLAUDE.md Files]] * [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]] * [[YAML-Syntax|YAML Syntax]] * [[MCP-Servers|MCP Servers]] * [[Custom-Commands|Custom Commands]] * [[Skills-System|Skills System]] * [[Output-Styles|Output Styles]] * [[Hooks-System|Hooks System]] * [[Agent-File-Format-Specification|Agent File Format Specification]] * [[Coordination-Pattern-Library|Coordination Pattern Library]] * [[Tool-Permission-Grammar|Tool Permission Grammar]] * [[State-Management-Protocols|State Management Protocols]] * [[Agent-Prompt-Engineering|Agent Prompt Engineering]] * [[Distributed-Systems-Design|Distributed Systems Design]] * [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]] * [[Software-Engineering-Workflows|Software Engineering Workflows]]
-
-**Cross-report connections** *(from [[multi-agent-systems-with-claude-code]])*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-
-**Cross-report connections** *(from [[multi-agent-systems-with-claude-code]])*:
-- [[Claude-Code-Basics|Claude Code Basics]]
-- [[CLAUDE.md-Files|CLAUDE.md Files]]
-- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
-- [[YAML-Syntax|YAML Syntax]]
-- [[MCP-Servers|MCP Servers]]
-
-
-
-
-
-
+[[claude-opus-4|Claude-Opus-4]] · [[claude-sonnet-4|Claude-Sonnet-4]] · [[skills|Skills]] · [[microservices-architecture|Microservices-Architecture]] · [[bounded-contexts|Bounded-Contexts]] · [[message-queues|Message-Queues]] · [[mapreduce|MapReduce]] · [[event-driven-architecture|Event-Driven-Architecture]] · [[circuit-breaker-pattern|Circuit-Breaker-Pattern]] · [[conways-law|Conway's-Law]] · [[agile-standups|Agile-Standups]] · [[principle-of-least-privilege|Principle-of-Least-Privilege]] · [[cognitive-load|Cognitive-Load]] · [[expertise-theory|Expertise-Theory]] · [[working-memory|Working-Memory]] · [[claude-code-basics|Claude-Code-Basics]] · [[claude.md-files|CLAUDE.md-Files]] · [[prompt-engineering-fundamentals|Prompt-Engineering-Fundamentals]] · [[yaml-syntax|YAML-Syntax]] · [[mcp-servers|MCP-Servers]] · [[custom-commands|Custom-Commands]] · [[skills-system|Skills-System]] · [[output-styles|Output-Styles]] · [[hooks-system|Hooks-System]] · [[agent-file-format-specification|Agent-File-Format-Specification]] · [[coordination-pattern-library|Coordination-Pattern-Library]] · [[tool-permission-grammar|Tool-Permission-Grammar]] · [[state-management-protocols|State-Management-Protocols]] · [[agent-prompt-engineering|Agent-Prompt-Engineering]] · [[microservices-architecture|Microservices-Architecture]]
 
 ## Methodology Notes
 

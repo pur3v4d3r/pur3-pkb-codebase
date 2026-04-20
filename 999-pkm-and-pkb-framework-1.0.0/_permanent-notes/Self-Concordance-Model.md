@@ -5,6 +5,7 @@
 title: "Self-Concordance Model"
 aliases:
   - "Self-Concordance Model"
+  - "Self-Concordance-Model"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,44 +70,49 @@ narrower:
   []
 
 see-also:
-  - "[[Goal-Contents-Theory|Goal Contents Theory]]"
-  - "[[Tim-Kasser|Tim Kasser]]"
-  - "[[Richard-Ryan|Richard Ryan]]"
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic-Psychological-Needs|basic psychological needs]]"
-  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
-  - "[[Autonomy]]"
-  - "[[Competence]]"
-  - "[[Relatedness]]"
-  - "[[Aspiration-Index|Aspiration Index]]"
-  - "[[psychological-well-being|psychological well-being]]"
+  - "[[goal-contents-theory|Goal-Contents-Theory]]"
+  - "[[tim-kasser|Tim-Kasser]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[autonomy|Autonomy]]"
+  - "[[competence|Competence]]"
+  - "[[relatedness|Relatedness]]"
+  - "[[aspiration-index|Aspiration-Index]]"
+  - "[[aspiration-index|Aspiration-Index]]"
+  - "[[psychological-well-being]]"
   - "[[ill-being]]"
   - "[[self-actualization]]"
-  - "[[Maarten-Vansteenkiste|Maarten Vansteenkiste]]"
-  - "[[Edward-Deci|Edward Deci]]"
+  - "[[maarten-vansteenkiste|Maarten-Vansteenkiste]]"
+  - "[[edward-deci|Edward-Deci]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
-  - "[[Organismic-Valuing-Process|Organismic Valuing Process]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[organismic-valuing-process|Organismic-Valuing-Process]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Vansteenkiste's-experimental-findings-have-direct-and-underexplored-applications|Vansteenkiste's experimental findings have direct and underexplored applications in instructional de]]"
+  - topic: "[[Vansteenkiste's experimental findings have direct and underexplored applications in instructional de]]"
     description: ""
     priority: medium
-  - topic: "[[Eccles-and-Wigfield's-expectancy-value-framework-provides-a-complementary-motiva|Eccles and Wigfield's expectancy-value framework provides a complementary motivational analysis that]]"
+  - topic: "[[Eccles and Wigfield's expectancy-value framework provides a complementary motivational analysis that]]"
     description: ""
     priority: medium
-  - topic: "[[Kasser's-broader-research-program-on-materialistic-values-extends-GCT-into-socio|Kasser's broader research program on materialistic values extends GCT into sociocultural analysis, e]]"
+  - topic: "[[Kasser's broader research program on materialistic values extends GCT into sociocultural analysis, e]]"
     description: ""
     priority: medium
-  - topic: "[[The-attainment-paradox-in-GCT-and-the-hedonic-adaptation-phenomenon-in-positive|The attainment paradox in GCT and the hedonic adaptation phenomenon in positive psychology converge ]]"
+  - topic: "[[The attainment paradox in GCT and the hedonic adaptation phenomenon in positive psychology converge ]]"
     description: ""
     priority: medium
 
@@ -278,45 +284,17 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[goal-contents-theory-focused-analysis-2026-03-13]])*:
-- [[Hedonic-Adaptation|hedonic adaptation]]
+- [[hedonic-adaptation|Hedonic-Adaptation]]
 
 **Cross-report connections** *(from [[goal-contents-theory-focused-analysis-2026-03-13]])*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-- [[Growth-Mindset|Growth Mindset]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[expectancy-value-theory|Expectancy-Value-Theory]]
+- [[growth-mindset-implicit-theories-of-intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
 
 **Related concepts:**
-[[Goal-Contents-Theory|Goal Contents Theory]] · [[Tim-Kasser|Tim Kasser]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]] · [[Aspiration-Index|Aspiration Index]] · [[Aspiration-Index|Aspiration Index]] · [[psychological-well-being|psychological well-being]] · [[ill-being]] · [[self-actualization]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Edward-Deci|Edward Deci]] · [[Contingent-Self-Worth|Contingent self-worth]] · [[Kennon-Sheldon|Kennon Sheldon]] · [[Hedonic-Adaptation|hedonic adaptation]] · [[Motivational-Interviewing|Motivational Interviewing]] · [[Goal-Setting-Theory|Goal Setting Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-
-**Related concepts** *(from [[goal-contents-theory-focused-analysis-2026-03-13]])*:
-[[Goal-Contents-Theory|Goal Contents Theory]] * [[Tim-Kasser|Tim Kasser]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Basic-Psychological-Needs|basic psychological needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Aspiration-Index|Aspiration Index]] * [[psychological-well-being|psychological well-being]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Edward-Deci|Edward Deci]] * [[Contingent-Self-Worth|Contingent self-worth]] * [[Kennon-Sheldon|Kennon Sheldon]] * [[Self-Concordance-Model|Self-Concordance Model]] * [[Hedonic-Adaptation|hedonic adaptation]] * [[Motivational-Interviewing|Motivational Interviewing]] * [[Goal-Setting-Theory|Goal Setting Theory]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Intrinsic-Goal-Framing-in-Instructional-Design-—-A-Practical-Guide|Intrinsic Goal Framing in Instructional Design — A Practical Guide]] * [[Expectancy-Value-Theory-—-Focused-Analysis|Expectancy-Value Theory — Focused Analysis]] * [[Materialism,-Consumer-Culture,-and-Psychological-Well-Being|Materialism, Consumer Culture, and Psychological Well-Being]] * [[Hedonic-Adaptation-and-the-Attainment-Paradox-—-Cross-Theory-Analysis|Hedonic Adaptation and the Attainment Paradox — Cross-Theory Analysis]] * [[Causality-Orientations-Theory-—-SDT-Sub-Theory-Analysis|Causality Orientations Theory — SDT Sub-Theory Analysis]] * [[Psychological-Safety-and-Basic-Needs-Environments-in-Educational-Settings|Psychological Safety and Basic Needs Environments in Educational Settings]] * [[Self-Concordance-Model|Self-Concordance-Model]] * [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] * [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]] * [[Intrinsic-Goal-Framing-in-Instructional-Design-—-A-Practical-Guide|Intrinsic-Goal-Framing-in-Instructional-Design-—-A-Practical-Guide]]
-
-**Cross-report connections** *(from [[goal-contents-theory-focused-analysis-2026-03-13]])*:
-- [[Hedonic-Adaptation|hedonic adaptation]]
-
-**Cross-report connections** *(from [[goal-contents-theory-focused-analysis-2026-03-13]])*:
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
-- [[Growth-Mindset|Growth Mindset]]
-
-**Cross-report connections** *(from [[goal-contents-theory-focused-analysis-2026-03-13]])*:
-- [[Hedonic-Adaptation|Hedonic-Adaptation]]
-
-**Cross-report connections** *(from [[goal-contents-theory-focused-analysis-2026-03-13]])*:
-- [[Self-Determination-Theory|Self-Determination-Theory]]
-- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
-- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
-- [[Expectancy-Value-Theory|Expectancy-Value-Theory]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
-
-
-
-
-
+[[goal-contents-theory|Goal-Contents-Theory]] · [[tim-kasser|Tim-Kasser]] · [[richard-ryan|Richard-Ryan]] · [[self-determination-theory|Self-Determination-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[autonomy|Autonomy]] · [[competence|Competence]] · [[relatedness|Relatedness]] · [[aspiration-index|Aspiration-Index]] · [[aspiration-index|Aspiration-Index]] · [[psychological-well-being]] · [[ill-being]] · [[self-actualization]] · [[maarten-vansteenkiste|Maarten-Vansteenkiste]] · [[edward-deci|Edward-Deci]] · [[contingent-self-worth|Contingent-Self-Worth]] · [[kennon-sheldon|Kennon-Sheldon]] · [[self-concordance-model|Self-Concordance-Model]] · [[hedonic-adaptation|Hedonic-Adaptation]] · [[motivational-interviewing|Motivational-Interviewing]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[expectancy-value-theory|Expectancy-Value-Theory]]
 
 ## References
 
@@ -333,72 +311,6 @@ importance: high
 - **Crocker, J., & Wolfe, C.T. (2001). Contingencies of self-worth. *Psychological Review, 108*(3), 593–623.**: While not a GCT paper, Crocker and Wolfe's theoretical and empirical treatment of contingent self-worth provides the most rigorous account of one of GCT's central mechanisms. Documents how basing self-esteem on domain-specific achievement outcomes produces the anxiety, fragility, and chronic evaluation orientation that GCT associates with extrinsic goal pursuit.
 
 *Citations sourced from [[goal-contents-theory-focused-analysis-2026-03-13]]*
-
-- **Kasser, T., & Ryan, R.M. (1993). A dark side of the American dream: Correlates of financial success as a central life aspiration. *Journal of Personality and Social Psychology, 65*(2), 410–422.**: The founding empirical study establishing the association between financial aspiration centrality and reduced well-being outcomes (lower vitality, self-actualization, and higher anxiety/depression) in young adult samples. Controls for parental SES provide early evidence that the effects are not simply poverty effects. Essential reading for understanding the original theoretical motivation for GCT.
-
-- **Kasser, T., & Ryan, R.M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin, 22*(3), 280–287.**: The paper that introduced the formal distinction between intrinsic and extrinsic goal *domains* and developed the Aspiration Index as a measurement instrument. Extends the 1993 findings by comparing correlates of financial aspiration to correlates of intrinsic aspiration domains, establishing the full GCT taxonomy. Foundational methodological reference.
-
-- **Niemiec, C.P., Ryan, R.M., & Deci, E.L. (2009). The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life. *Journal of Research in Personality, 43*(3), 291–306.**: The critical longitudinal study tracking post-college students' goal attainment and well-being. Provides the most direct evidence for the attainment paradox: intrinsic goal attainment → well-being gains; extrinsic goal attainment → no well-being gains or ill-being increases. Essential for evaluating GCT's claims about the differential psychological "payoff" of goal achievement.
-
-- **Grouzet, F.M.E., et al. (2005). The structure of goal contents across 15 cultures. *Journal of Personality and Social Psychology, 89*(5), 800–816.**: Large-scale cross-cultural validation study using multidimensional scaling to examine the structure of aspirations in 15 nations spanning developed and developing contexts, collectivistic and individualistic cultures. Finds both the intrinsic-extrinsic distinction and a second physical safety vs. self-transcendence dimension. Essential for evaluating cultural boundary conditions of GCT.
-
-- **Vansteenkiste, M., Simons, J., Lens, W., Sheldon, K.M., & Deci, E.L. (2004). Motivating learning, performance, and persistence: The synergistic role of intrinsic goals and autonomy-support. *Journal of Personality and Social Psychology, 87*(2), 246–260.**: Controlled experimental study demonstrating that framing identical learning content in intrinsic (personal growth) versus extrinsic (financial gain) goal terms causally affects learning depth and intrinsic motivation. Critical for GCT's application in educational contexts and for establishing causal claims through experimental manipulation of goal framing.
-
-- **Vansteenkiste, M., Matos, L., Lens, W., & Soenens, B. (2007). Understanding the impact of intrinsic versus extrinsic goal framing on exercise performance: The conflicting role of task and ego involvement. *Psychology of Sport and Exercise, 8*(5), 771–794.**: Extends the framing effects from academic learning to the physical performance domain, establishing the cross-domain generality of goal framing effects. Particularly important for understanding how goal content interacts with ego involvement under evaluative conditions.
-
-- **Kasser, T. (2002). *The High Price of Materialism*. MIT Press.**: Kasser's book-length treatment of the GCT framework accessible to a broader audience, synthesizing research on materialistic values and their psychological costs. Contains the most complete account of the compensatory hypothesis and its developmental antecedents, including the role of controlling and cold parenting in predicting extrinsic goal emphasis. Provides important context for understanding the social ecology of goal content development.
-
-- **Sheldon, K.M., & Kasser, T. (1998). Pursuing personal goals: Skills enable progress, but not all progress is beneficial. *Personality and Social Psychology Bulletin, 24*(12), 1319–1331.**: Key paper integrating the Self-Concordance Model with GCT, demonstrating that goal content and goal self-concordance are related but distinct predictors of well-being. Establishes that the content-process distinction is not merely theoretical but has independent empirical signatures.
-
-- **Deci, E.L., & Ryan, R.M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Major theoretical paper distinguishing the "what" (goal content, addressed by GCT) from the "why" (motivational regulation, addressed by OIT) of goal pursuits. Essential for understanding how GCT fits within the broader SDT framework and why the content-motivation distinction matters for both theory and practice.
-
-- **Kasser, T., Rosenblum, K.L., Sameroff, A.J., Deci, E.L., Niemiec, C.P., Ryan, R.M., … & Hawks, S. (2014). Changes in materialism, changes in psychological well-being: Evidence from three longitudinal studies and an intervention experiment. *Motivation and Emotion, 38*(1), 1–22.**: Multi-study paper providing the most direct longitudinal and experimental evidence linking changes in materialistic values (a proxy for extrinsic goal emphasis) to changes in well-being. The intervention experiment is particularly important for establishing bidirectional causal relationships between goal content and well-being, supporting both the direct effects model and elements of the compensatory hypothesis.
-
-- **Crocker, J., & Wolfe, C.T. (2001). Contingencies of self-worth. *Psychological Review, 108*(3), 593–623.**: While not a GCT paper, Crocker and Wolfe's theoretical and empirical treatment of contingent self-worth provides the most rigorous account of one of GCT's central mechanisms. Documents how basing self-esteem on domain-specific achievement outcomes produces the anxiety, fragility, and chronic evaluation orientation that GCT associates with extrinsic goal pursuit.
-
-- **Kasser, T., & Ryan, R.M. (1993). A dark side of the American dream: Correlates of financial success as a central life aspiration. *Journal of Personality and Social Psychology, 65*(2), 410–422.**: The founding empirical study establishing the association between financial aspiration centrality and reduced well-being outcomes (lower vitality, self-actualization, and higher anxiety/depression) in young adult samples. Controls for parental SES provide early evidence that the effects are not simply poverty effects. Essential reading for understanding the original theoretical motivation for GCT.
-
-- **Kasser, T., & Ryan, R.M. (1996). Further examining the American dream: Differential correlates of intrinsic and extrinsic goals. *Personality and Social Psychology Bulletin, 22*(3), 280–287.**: The paper that introduced the formal distinction between intrinsic and extrinsic goal *domains* and developed the Aspiration Index as a measurement instrument. Extends the 1993 findings by comparing correlates of financial aspiration to correlates of intrinsic aspiration domains, establishing the full GCT taxonomy. Foundational methodological reference.
-
-- **Niemiec, C.P., Ryan, R.M., & Deci, E.L. (2009). The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life. *Journal of Research in Personality, 43*(3), 291–306.**: The critical longitudinal study tracking post-college students' goal attainment and well-being. Provides the most direct evidence for the attainment paradox: intrinsic goal attainment → well-being gains; extrinsic goal attainment → no well-being gains or ill-being increases. Essential for evaluating GCT's claims about the differential psychological "payoff" of goal achievement.
-
-- **Grouzet, F.M.E., et al. (2005). The structure of goal contents across 15 cultures. *Journal of Personality and Social Psychology, 89*(5), 800–816.**: Large-scale cross-cultural validation study using multidimensional scaling to examine the structure of aspirations in 15 nations spanning developed and developing contexts, collectivistic and individualistic cultures. Finds both the intrinsic-extrinsic distinction and a second physical safety vs. self-transcendence dimension. Essential for evaluating cultural boundary conditions of GCT.
-
-- **Vansteenkiste, M., Simons, J., Lens, W., Sheldon, K.M., & Deci, E.L. (2004). Motivating learning, performance, and persistence: The synergistic role of intrinsic goals and autonomy-support. *Journal of Personality and Social Psychology, 87*(2), 246–260.**: Controlled experimental study demonstrating that framing identical learning content in intrinsic (personal growth) versus extrinsic (financial gain) goal terms causally affects learning depth and intrinsic motivation. Critical for GCT's application in educational contexts and for establishing causal claims through experimental manipulation of goal framing.
-
-- **Vansteenkiste, M., Matos, L., Lens, W., & Soenens, B. (2007). Understanding the impact of intrinsic versus extrinsic goal framing on exercise performance: The conflicting role of task and ego involvement. *Psychology of Sport and Exercise, 8*(5), 771–794.**: Extends the framing effects from academic learning to the physical performance domain, establishing the cross-domain generality of goal framing effects. Particularly important for understanding how goal content interacts with ego involvement under evaluative conditions.
-
-- **Kasser, T. (2002). *The High Price of Materialism*. MIT Press.**: Kasser's book-length treatment of the GCT framework accessible to a broader audience, synthesizing research on materialistic values and their psychological costs. Contains the most complete account of the compensatory hypothesis and its developmental antecedents, including the role of controlling and cold parenting in predicting extrinsic goal emphasis. Provides important context for understanding the social ecology of goal content development.
-
-- **Sheldon, K.M., & Kasser, T. (1998). Pursuing personal goals: Skills enable progress, but not all progress is beneficial. *Personality and Social Psychology Bulletin, 24*(12), 1319–1331.**: Key paper integrating the Self-Concordance Model with GCT, demonstrating that goal content and goal self-concordance are related but distinct predictors of well-being. Establishes that the content-process distinction is not merely theoretical but has independent empirical signatures.
-
-- **Deci, E.L., & Ryan, R.M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Major theoretical paper distinguishing the "what" (goal content, addressed by GCT) from the "why" (motivational regulation, addressed by OIT) of goal pursuits. Essential for understanding how GCT fits within the broader SDT framework and why the content-motivation distinction matters for both theory and practice.
-
-- **Kasser, T., Rosenblum, K.L., Sameroff, A.J., Deci, E.L., Niemiec, C.P., Ryan, R.M., … & Hawks, S. (2014). Changes in materialism, changes in psychological well-being: Evidence from three longitudinal studies and an intervention experiment. *Motivation and Emotion, 38*(1), 1–22.**: Multi-study paper providing the most direct longitudinal and experimental evidence linking changes in materialistic values (a proxy for extrinsic goal emphasis) to changes in well-being. The intervention experiment is particularly important for establishing bidirectional causal relationships between goal content and well-being, supporting both the direct effects model and elements of the compensatory hypothesis.
-
-- **Crocker, J., & Wolfe, C.T. (2001). Contingencies of self-worth. *Psychological Review, 108*(3), 593–623.**: While not a GCT paper, Crocker and Wolfe's theoretical and empirical treatment of contingent self-worth provides the most rigorous account of one of GCT's central mechanisms. Documents how basing self-esteem on domain-specific achievement outcomes produces the anxiety, fragility, and chronic evaluation orientation that GCT associates with extrinsic goal pursuit.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

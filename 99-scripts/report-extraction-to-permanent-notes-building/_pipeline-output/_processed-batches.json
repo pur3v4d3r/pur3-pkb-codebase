@@ -2,12 +2,15 @@
   "processed_dirs": [
     "999-first-principles-reports",
     "999-focused-analysis-report-generator",
-    "999-foundational-report-genrator",
+    "999-foundational-report-generator",
     "from-copilot",
     "opus",
     "999-socratic-reports",
     "999-comparative-synthesis-report-generator",
     "999-dialectical-re-examination-report-generator",
+    "in-pkm",
+    "llm-and-prompt-engineering",
+    "reports-to-file",
     "999-stoicism",
     "999-focused-analysis-report-generator-v1.1.0",
     "999-generative-learning",
@@ -17,84 +20,105 @@
     {
       "dir_name": "999-first-principles-reports",
       "batch_name": "999-first-principles-reports",
-      "processed_at": "2026-04-18T02:40:36.515648",
+      "processed_at": "2026-04-20T15:41:36.419841",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "999-focused-analysis-report-generator",
       "batch_name": "999-focused-analysis-report-generator",
-      "processed_at": "2026-04-18T02:40:36.779727",
+      "processed_at": "2026-04-20T15:41:36.677745",
       "note_count": 0,
       "status": "complete"
     },
     {
-      "dir_name": "999-foundational-report-genrator",
-      "batch_name": "999-foundational-report-genrator",
-      "processed_at": "2026-04-18T02:40:41.288858",
+      "dir_name": "999-foundational-report-generator",
+      "batch_name": "999-foundational-report-generator",
+      "processed_at": "2026-04-20T15:41:41.161620",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "from-copilot",
       "batch_name": "from-copilot",
-      "processed_at": "2026-04-18T02:40:44.829249",
+      "processed_at": "2026-04-20T15:41:44.673078",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "opus",
       "batch_name": "opus",
-      "processed_at": "2026-04-18T02:40:48.067519",
+      "processed_at": "2026-04-20T15:41:47.911494",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "999-socratic-reports",
       "batch_name": "999-socratic-reports",
-      "processed_at": "2026-04-18T02:40:48.202513",
+      "processed_at": "2026-04-20T15:41:48.042115",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "999-comparative-synthesis-report-generator",
       "batch_name": "999-comparative-synthesis-report-generator",
-      "processed_at": "2026-04-18T02:40:48.297913",
+      "processed_at": "2026-04-20T15:41:48.138198",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "999-dialectical-re-examination-report-generator",
       "batch_name": "999-dialectical-re-examination-report-generator",
-      "processed_at": "2026-04-18T02:40:48.708729",
+      "processed_at": "2026-04-20T15:41:48.548248",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "in-pkm",
+      "batch_name": "in-pkm",
+      "processed_at": "2026-04-20T15:41:49.049706",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "llm-and-prompt-engineering",
+      "batch_name": "llm-and-prompt-engineering",
+      "processed_at": "2026-04-20T15:41:49.257383",
+      "note_count": 0,
+      "status": "complete"
+    },
+    {
+      "dir_name": "reports-to-file",
+      "batch_name": "reports-to-file",
+      "processed_at": "2026-04-20T15:41:49.602315",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "999-stoicism",
       "batch_name": "999-stoicism",
-      "processed_at": "2026-04-18T02:41:34.175872",
+      "processed_at": "2026-04-20T15:42:34.880098",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "999-focused-analysis-report-generator-v1.1.0",
       "batch_name": "999-focused-analysis-report-generator-v1.1.0",
-      "processed_at": "2026-04-18T02:41:34.922374",
+      "processed_at": "2026-04-20T15:42:35.607989",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "999-generative-learning",
       "batch_name": "999-generative-learning",
-      "processed_at": "2026-04-18T02:41:35.041475",
+      "processed_at": "2026-04-20T15:42:35.719674",
       "note_count": 0,
       "status": "complete"
     },
     {
       "dir_name": "srl-practice",
       "batch_name": "srl-practice",
-      "processed_at": "2026-04-18T02:41:35.153309",
+      "processed_at": "2026-04-20T15:42:35.824634",
       "note_count": 0,
       "status": "complete"
     }

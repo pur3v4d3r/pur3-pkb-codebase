@@ -2070,7 +2070,7 @@ The **predictable parsing pattern** of Convention A enables superior automation.
 
 ### WHEN CONVENTION B WOULD BE BETTER
 
-Convention B excels in **knowledge capture** scenarios where temporal context matters—research notes, meeting records, daily observations. The [[Zettelkasten]] heritage of timestamp-based naming creates a temporal knowledge stream that's valuable for tracking intellectual development.
+Convention B excels in **knowledge capture** scenarios where temporal context matters—research notes, meeting records, daily observations. The [[zettelkasten]] heritage of timestamp-based naming creates a temporal knowledge stream that's valuable for tracking intellectual development.
 
 However, prompt components are **tools, not thoughts**. They're functional artifacts that need to be discovered by capability, not creation time. The temporal dimension is less relevant than the functional dimension.
 
@@ -2281,7 +2281,7 @@ deprecated_by: [[newer-version-id]]
 > **Author**:: [[_dashboard-design-moc]]
 > **Status**:: 🌱seedling | 🌿growing | 🌳mature | 🍂deprecated
 > **Complexity**:: ⚪Basic | 🔵Intermediate | 🟣Advanced | ⚫Expert
-> **Domain**:: [[technical]] [[writing]] [[Analysis]]
+> **Domain**:: [[technical]] [[writing]] [[analysis]]
 > **Testing Coverage**:: ████████░░ 80%
 
 ## 📋 COMPONENT OVERVIEW

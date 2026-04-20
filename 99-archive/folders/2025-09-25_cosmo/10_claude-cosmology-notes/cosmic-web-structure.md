@@ -258,7 +258,7 @@ Key Results:
 **Observations**: [[Observable vs Actual Universe]], [[Space-Based Telescopes in Cosmology]]
 **Theory**: [[Lambda-CDM Model]], [[Timeline of the Universe]]
 **Evidence**: [[Cosmic Microwave Background]], [[Precision Cosmology Era]]
-**Components**: [[Dark Energy]], [[Nucleosynthesis]]
+**Components**: [[Dark Energy]], [[nucleosynthesis]]
 
 ## 💡 Key Insights
 

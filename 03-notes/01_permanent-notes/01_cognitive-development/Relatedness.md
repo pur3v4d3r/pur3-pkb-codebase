@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Relatedness]]
+> - **Key-Term**:[[relatedness]]
 > - [**Definition**:Addresses the human need to feel connected to others, to experience oneself as part of a larger community and to have one's existence matter to significant others.]
 
 

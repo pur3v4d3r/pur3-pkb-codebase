@@ -192,7 +192,7 @@ link-related:
 > ├─ Agent architectures for research workflows
 > └─ Local LLM integration (Ollama)
 > **WIKI-LINK OPPORTUNITIES IDENTIFIED:**
-> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic-API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Self-Consistency]], [[Constitutional-AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search]], [[Knowledge Graphs]], [[Obsidian-Dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
+> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic-API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Self-Consistency]], [[Constitutional-AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search]], [[Knowledge Graphs]], [[obsidian-dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
 > **CALLOUT STRATEGY:**
 > - [!abstract] - Executive overview
 > - [!important] - Cost considerations and breaking points
@@ -615,7 +615,7 @@ For your RTX 4090 + i9-14000K system running Windows:
    ```
 
 4. **Development Environments**
-   - **[[VS-Code]]**: Primary IDE recommendation
+   - **[[vs-code]]**: Primary IDE recommendation
      - Extensions: Python, Pylance, Jupyter, GitLens
      - Settings: `"python.defaultInterpreterPath": "./venv/Scripts/python.exe"`
    - **[[Jupyter Lab]]**: Interactive experimentation
@@ -650,7 +650,7 @@ messages = [
     },
     {
         "role": "assistant",
-        "content": "I'll create a detailed reference note covering [[Spaced-Repetition]] algorithms..."
+        "content": "I'll create a detailed reference note covering [[spaced-repetition]] algorithms..."
     },
     {
         "role": "user",
@@ -1187,7 +1187,7 @@ You combine the precision of an academic researcher with the clarity of a master
 - Create discoverable knowledge graphs
 
 ### Reasoning Framework
-Apply the [[Paul-Elder-Critical-Thinking-Framework]]:
+Apply the [[paul-elder-critical-thinking-framework]]:
 - Purpose: What is the note's function?
 - Questions: What key questions does it address?
 - Information: What evidence supports claims?
@@ -1231,7 +1231,7 @@ FEW_SHOT_EXAMPLES = [
 
 ## Foundational Concepts
 
-The [[Feynman Technique]] emerged from physicist [[Richard-Feynman]]'s approach to mastering complex subjects through teaching. The method exploits the [[Generation-Effect]]—the finding that actively producing information strengthens memory more than passive review...
+The [[Feynman Technique]] emerged from physicist [[richard-feynman]]'s approach to mastering complex subjects through teaching. The method exploits the [[generation-effect]]—the finding that actively producing information strengthens memory more than passive review...
 
 [Full exemplar note continues with proper structure, wiki-links, callouts, depth]"""
     }
@@ -1321,7 +1321,7 @@ OBSIDIAN_FORMAT_INSTRUCTIONS = """
 Format output for Obsidian markdown:
 
 ### Wiki-Links
-- Concept references: [[Spaced-Repetition]]
+- Concept references: [[spaced-repetition]]
 - Section links: [[Note Title#Section]]
 - Alias syntax: [[Actual Title|Display Text]]
 

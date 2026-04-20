@@ -106,7 +106,7 @@ Aliases: Generate useful reliable aliases for this report.
  **1. Define Core Parameters:**
     * **[TOPIC]:** {{Specify the central topic, concept, or question}}
     * **[DEPTH_LEVEL]:** {{e.g., "Encyclopedic overview," "In-depth technical analysis," "Historical context"}}
-    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept A]]`, `[[Theory B]]`}}
+    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept-A]]`, `[[Theory B]]`}}
 
  **2. Phase 1: Overture & Foundation (The "Why & What")**
     * **Abstract:** Start with a `> [!abstract]` callout. Provide a high-level, 1-2 paragraph summary of the entire topic.
@@ -131,7 +131,7 @@ Aliases: Generate useful reliable aliases for this report.
     * **Goal:** This phase fulfills the "discovery" and "connection" requirements.
     * **Internal Connections:**
       * `> [!connections-and-links]`
-      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept A]]` and `[[Theory B]]`."
+      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept-A]]` and `[[Theory B]]`."
     * **External Exploration:**
       * `> [!further-exploration]`
       * `> Generate a list of 3-5 *new* topics, concepts, or questions that emerged from this report. These are "new avenues" for me to explore.`

@@ -5,6 +5,7 @@
 title: "PKB Schema-Fidelity"
 aliases:
   - "PKB Schema-Fidelity"
+  - "PKB-Schema-Fidelity"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -34,8 +35,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -46,7 +47,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -70,49 +71,49 @@ narrower:
   []
 
 see-also:
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Schema-Theory]]"
-  - "[[PKB-Architecture]]"
-  - "[[Cognitive-Offloading]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Working-Memory]]"
-  - "[[Schema-Theory]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Zettelkasten]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Schema-Theory]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Schema-Theory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Personal-Knowledge-Management]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[pkb-architecture|PKB-Architecture]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[zettelkasten|Zettelkasten]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Schema-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Cognitive-Offloading]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-Design-longitudinal-studies-measuring-internal-schema-development-in|**Description:** Design longitudinal studies measuring internal schema development in PKB practition]]"
+  - topic: "[[**Description:** Design longitudinal studies measuring internal schema development in PKB practition]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-systematic-review-of-the-experimental-literature-on-note-taking,-n|**Description:** A systematic review of the experimental literature on note-taking, note retrieval, ]]"
+  - topic: "[[**Description:** A systematic review of the experimental literature on note-taking, note retrieval, ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Different-knowledge-domains-organize-schemas-differently-—-mathemati|**Description:** Different knowledge domains organize schemas differently — mathematical schemas are]]"
+  - topic: "[[**Description:** Different knowledge domains organize schemas differently — mathematical schemas are]]"
     description: ""
     priority: medium
-  - topic: "[[Description-When-multiple-practitioners-share-a-PKB-or-build-linked-knowledge-sy|**Description:** When multiple practitioners share a PKB or build linked knowledge systems, schema e]]"
+  - topic: "[[**Description:** When multiple practitioners share a PKB or build linked knowledge systems, schema e]]"
     description: ""
     priority: medium
 
@@ -127,13 +128,13 @@ importance: high
 # PKB Schema-Fidelity
 
 > [!definition] **PKB Schema-Fidelity** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> PKB Schema-Fidelity refers to the degree to which a Personal Knowledge Base's organizational structure mirrors the relational, hierarchical, and associative properties of [[Schema-Theory|schematic]] long-term memory. A high-fidelity PKB contains richly typed, conceptually meaningful links between atomic notes; hierarchical schema nodes (MOCs, index notes, framework notes) that constrain the interpretation of connected detail notes; and an associative network structure that supports spreading activation analogues (following links surfaces related concepts automatically, not just categorically related concepts). A low-fidelity PKB is organized primarily through flat categorization, tagging, and search.
+> PKB Schema-Fidelity refers to the degree to which a Personal Knowledge Base's organizational structure mirrors the relational, hierarchical, and associative properties of [[schema-theory|schematic]] long-term memory. A high-fidelity PKB contains richly typed, conceptually meaningful links between atomic notes; hierarchical schema nodes (MOCs, index notes, framework notes) that constrain the interpretation of connected detail notes; and an associative network structure that supports spreading activation analogues (following links surfaces related concepts automatically, not just categorically related concepts). A low-fidelity PKB is organized primarily through flat categorization, tagging, and search.
 > 
 > **Boundary:** Schema-fidelity is a spectrum, not a binary. Most practical PKBs occupy an intermediate position. The concept is offered as a design target and evaluation criterion, not as an achieved state.
 > 
 > **Report-Specific Significance:** Schema-fidelity is the central design criterion the schema externalization thesis implies. It provides a more principled basis for PKB design decisions than aesthetic preferences or workflow habits.
 > 
-> **See also:** [[PKB-Architecture]], [[Obsidian-PKB-Architecture]], [[Knowledge-Graph]], [[The-Schema-Progressive-Architecture-for-PKB-Design]]
+> **See also:** [[pkb-architecture]], [[obsidian-pkb-architecture]], [[Knowledge-Graph]], [[the-schema-progressive-architecture-for-pkb-design]]
 
 ## Core Explanation
 
@@ -168,13 +169,13 @@ importance: high
 > The foundational self-explanation effect paper. Demonstrates that students who generate explanations for solution steps during studying learn significantly more than those who do not. The self-explanation effect is the primary mechanistic evidence for the outside-in direction of the Bidirectional Enrichment Hypothesis.
 
 > [!analytical-insight] Key Insight *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> A PKB that is designed according to schema-theoretic principles — that externalizes not just content but the relational and organizational structure of [[Long-Term-Memory]] — provides qualitatively different cognitive support than a PKB designed as a searchable information repository. The former participates in thinking by partially instantiating the activational architecture of schematic memory; the latter serves as a lookup table. This report argues the design difference is knowable, the…
+> A PKB that is designed according to schema-theoretic principles — that externalizes not just content but the relational and organizational structure of [[long-term-memory]] — provides qualitatively different cognitive support than a PKB designed as a searchable information repository. The former participates in thinking by partially instantiating the activational architecture of schematic memory; the latter serves as a lookup table. This report argues the design difference is knowable, the…
 
 > [!analytical-insight] Key Insight *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > Because schemas actively organize perception, interpretation, encoding, and retrieval, the design of an externalized schema system has consequences that reach beyond the external system itself. A well-designed PKB does not merely reflect the user's current schemas; it creates opportunities for schema revision by juxtaposing concepts in ways that expose inconsistency, challenging the user to accommodate rather than merely assimilate. This is the mechanism behind one of the most powerful claims…
 
 > [!analytical-insight] Key Insight *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> [[Cognitive-Offloading]] addresses the symptom: working memory runs out of space. Schema externalization addresses the underlying structure: the organizational patterns that determine how efficiently [[Working-Memory]] space is used. A PKB that only offloads leaves the bottleneck in place — it merely keeps some information out of the bottleneck until it's needed. A PKB that externalizes schemas can, over time, reduce the bottleneck by supporting the development of richer internal schemas…
+> [[cognitive-offloading]] addresses the symptom: working memory runs out of space. Schema externalization addresses the underlying structure: the organizational patterns that determine how efficiently [[working-memory]] space is used. A PKB that only offloads leaves the bottleneck in place — it merely keeps some information out of the bottleneck until it's needed. A PKB that externalizes schemas can, over time, reduce the bottleneck by supporting the development of richer internal schemas…
 
 > [!analytical-insight] Key Insight *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > When a PKB practitioner writes an atomic note and links it to existing notes with semantically typed links, they are engaging in a schema construction act: they are making explicit the conceptual organization that would otherwise exist only implicitly in their internal understanding. The act of externalization is simultaneously the act of schematic clarification — "I cannot link this concept if I do not know how it relates" — and the evidence for schematic organization is written into the PKB…
@@ -195,7 +196,7 @@ importance: high
 > [!person] **Frederic Bartlett (1886–1969)** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > British psychologist; pioneer of schema theory and the constructive nature of memory. His 1932 "Remembering" demonstrated through the "War of the Ghosts" experiments that memory is reconstructive, not reproductive, and that schemas derived from cultural and experiential background systematically shape recall. Key work: *Remembering* (1932). Relationship to other figures: preceded Piaget's formal schema theory timeline; Rumelhart and later computational researchers formalized and extended Bartlett's insight.
 > 
-> **See also:** [[Frederic-Bartlett]], [[Schema-Theory]],…
+> **See also:** [[frederic-bartlett]], [[schema-theory]],…
 
 > [!person] **David Rumelhart (1942–2011)** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > American cognitive psychologist and AI researcher; provided the first rigorous computational specification of schemas. His connectionist work and schema theory contributions (1975–1984) formalized schemas as data structures with slots, defaults, and constraints. Co-developed the "interactive activation model" of reading and worked on parallel distributed processing. Key works: "Notes on a Schema for Stories" (1975), "Schemata: The Building Blocks of Cognition" (1980). Relationship: formalized Bartlett's insight; influenced Cognitive Load Theory researchers.
@@ -205,17 +206,17 @@ importance: high
 > [!person] **Andy Clark (1957–)** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > British philosopher of mind; primary architect of the extended mind thesis and the cognitive niche concept. His work traces the boundary extension of the mind through interactions with tools, language, and environment. Key works: "The Extended Mind" (with David Chalmers, 1998), *Being There* (1997), *Supersizing the Mind* (2008), *The Experience Machine* (2023). Relationship to Chalmers: joint architect of the Parity Principle; their paper sparked decades of philosophy of mind debate.
 > 
-> **See also:** [[Andy-Clark]], [[Extended-Mind-Theory]], [[Parity-Principle]], [[4E-Cognition]]
+> **See also:** [[andy-clark]], [[extended-mind-theory]], [[parity-principle]], [[4e-cognition]]
 
 > [!person] **John Sweller (1940–)** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > Australian educational psychologist; founder of Cognitive Load Theory (CLT). His work on problem solving and learning established the foundational account of how working memory constraints govern learning through schema construction. Key works: "Cognitive Load During Problem Solving" (1988), *Cognitive Load Theory* (2011, with Kalyuga & others). Relationship to Baddeley: CLT applies Baddeley's working memory architecture to instructional design questions; relationship to Rumelhart: applies schema theory to learning theory.
 > 
-> **See also:** [[Cognitive-Load-Theory]], [[Working-Memory]],…
+> **See also:** [[cognitive-load-theory]], [[working-memory]],…
 
 > [!person] **Alan Baddeley (1934–)** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > British cognitive psychologist; architect of the working memory model (with Graham Hitch, 1974). Replaced the unitary short-term memory concept with a multicomponent working memory system. Key additions: the episodic buffer (2000). Key works: *Working Memory* (1986), *Your Memory: A User's Guide* (1982), "The Concept of Working Memory" (Baddeley & Hitch, 1974). Relationship to Miller: extended and refined Miller's capacity framework; relationship to Sweller: provided the architectural basis for CLT.
 > 
-> **See also:** [[Alan-Baddeley]], [[Baddeley's-Working-Memory-Model]],…
+> **See also:** [[alan-baddeley]], [[Baddeley's-Working-Memory-Model]],…
 
 ## Conceptual Tensions
 
@@ -227,7 +228,7 @@ importance: high
 > **Position B (Coupling):** Tight coupling does not constitute…
 
 > [!tension] **Tension 2: Productive Difficulty vs. Efficient Access** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> **The Tension:** [[Desirable-Difficulties]] research recommends introducing retrieval effort to strengthen schemas and support long-term learning. Practical productivity needs demand efficient, frictionless access to information when engaged in knowledge work. These goals pull in opposite directions.
+> **The Tension:** [[desirable-difficulties]] research recommends introducing retrieval effort to strengthen schemas and support long-term learning. Practical productivity needs demand efficient, frictionless access to information when engaged in knowledge work. These goals pull in opposite directions.
 > 
 > **Position A (Difficulty):** Frictionless access undermines the schema-strengthening benefits of effortful retrieval. PKBs optimized for instant access are cognitive offloading tools, not schema externalization tools.
 > 
@@ -241,7 +242,7 @@ importance: high
 ## Reflection Prompts
 
 > [!reflection] **Reflect** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> 1. Think of a domain you know well. Can you describe the felt sense of its schematic organization — the clusters, hierarchies, and well-worn associative pathways? What does that feel like in [[Working-Memory]] compared to a domain where your schemas are thin?
+> 1. Think of a domain you know well. Can you describe the felt sense of its schematic organization — the clusters, hierarchies, and well-worn associative pathways? What does that feel like in [[working-memory]] compared to a domain where your schemas are thin?
 > 2. Where in your own recent learning have you experienced genuine accommodation (a schema changed) rather than mere assimilation (existing schemas absorbed new information without revision)?
 > 3. What would it mean to redesign your PKB to…
 
@@ -262,7 +263,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > 1. Identify a moment in your PKM practice when building a link forced you to revise something you thought you understood. Was this accommodation? What did the internal schema revision feel like — and did it leave a trace in your PKB?
-> 2. Which of the three enrichment conditions (reflective engagement, accommodation pressure, [[Desirable-Difficulties|spaced revisitation]]) is most consistently absent from your current PKB practice? What structural or behavioral change would most efficiently…
+> 2. Which of the three enrichment conditions (reflective engagement, accommodation pressure, [[desirable-difficulties|spaced revisitation]]) is most consistently absent from your current PKB practice? What structural or behavioral change would most efficiently…
 
 > [!reflection] **Reflect** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > 1. Apply the Transfer test to your most important current domain: could you explain your key frameworks clearly and apply them to a genuinely novel problem without consulting your PKB? What does the gap between felt knowledge (fluency) and demonstrated knowledge (transfer performance) reveal?
@@ -273,7 +274,7 @@ importance: high
 > [!schema-activation] **Prior Knowledge Bridge** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > Before proceeding, locate the cognitive territory you already occupy on this topic.
 > 
-> You likely already know that memory is not a filing cabinet — that remembering is reconstructive, not reproductive, and that what we retrieve is shaped by what we expect and already know. You may have encountered [[Schema-Theory]] through Piaget's assimilation/accommodation framework, or through the classic Bartlett experiment in which English undergraduates distorted an Indigenous folk tale when recalling it days later. You may know that [[Personal-Knowledge-Management]] systems like [[Zettelkasten]] and…
+> You likely already know that memory is not a filing cabinet — that remembering is reconstructive, not reproductive, and that what we retrieve is shaped by what we expect and already know. You may have encountered [[schema-theory]] through Piaget's assimilation/accommodation framework, or through the classic Bartlett experiment in which English undergraduates distorted an Indigenous folk tale when recalling it days later. You may know that [[personal-knowledge-management]] systems like [[zettelkasten]] and…
 
 ## Far Transfer Applications
 
@@ -308,7 +309,7 @@ importance: high
 > Most PKB discourse focuses implicitly on semantic memory — the storage and linking of conceptual knowledge — and ignores both episodic and procedural dimensions. This is a significant limitation. Effective intellectual work draws on all three components: we need semantic schemas for domain knowledge, episodic schemas to situate our learning in time (what I read, when, in what context, and why it surprised me), and procedural schemas for the operational skills that allow us to work efficiently with knowledge. A PKB that externalizes only semantic schemas is externalizing only a fraction of the…
 
 > [!claude-insight] **The Retrieval-Access Tradeoff in PKB Design** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> The tension between retrieval difficulty (good for schema strengthening) and information accessibility (good for efficient knowledge work) is not resolvable by a single design choice. I would argue that the resolution lives in *context differentiation*: the PKB should be designed to make some information maximally easy to access (reference material needed frictionlessly, like function signatures or factual look-ups) while deliberately introducing productive difficulty into conceptual knowledge retrieval. This could be implemented through [[Spaced-Repetition]] review systems embedded in the…
+> The tension between retrieval difficulty (good for schema strengthening) and information accessibility (good for efficient knowledge work) is not resolvable by a single design choice. I would argue that the resolution lives in *context differentiation*: the PKB should be designed to make some information maximally easy to access (reference material needed frictionlessly, like function signatures or factual look-ups) while deliberately introducing productive difficulty into conceptual knowledge retrieval. This could be implemented through [[spaced-repetition]] review systems embedded in the…
 
 > [!claude-insight] **The PKB as Schema Development Environment** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > The expertise reversal finding has a direct and underappreciated implication for PKB design across the learning trajectory. A PKB designed to minimize cognitive load — maximally easy navigation, instant findability, frictionless access — is optimized for the *already-expert* practitioner who relies on rich internal schemas and needs the PKB primarily for reference. A PKB designed to support schema construction — one that structures information to expose conceptual relationships, forces explicit link-making, and creates productive difficulty in retrieval — is optimized for the developing…
@@ -326,21 +327,21 @@ importance: high
 
 > [!section-summary] **Section 2 Key Takeaways** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > 1. **Schemas are processing engines, not storage containers.** They actively organize perception, encoding, and retrieval through hierarchical embedding, associative connectivity, chunking, and automaticity — each an organizational property, not a storage property.
-> 2. **Memory reconstruction is schema-driven.** [[Frederic-Bartlett|Bartlett's]] original experiments and decades of subsequent research establish that retrieval reconstructs the past through the lens of present schemas. The PKB must support not just storage but the schematic organization that governs reconstruction.
+> 2. **Memory reconstruction is schema-driven.** [[frederic-bartlett|Bartlett's]] original experiments and decades of subsequent research establish that retrieval reconstructs the past through the lens of present schemas. The PKB must support not just storage but the schematic organization that governs reconstruction.
 > 3. **Schema…
 
 > [!section-summary] **Section 3 Key Takeaways** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > 1. **Schema-driven processing is predictive and top-down.** We do not process familiar material element by element; activated schemas generate expectations and constrain interpretation, making expert processing dramatically more efficient than novice processing.
-> 2. **Retrieval is cue-sensitive and context-dependent.** [[Encoding-Specificity-Principle|Encoding specificity]] means the schematic context at encoding constrains how information can be retrieved. A PKB with rich associative link structures functions as a cue-dense retrieval environment that mirrors encoding context.
+> 2. **Retrieval is cue-sensitive and context-dependent.** [[encoding-specificity-principle|Encoding specificity]] means the schematic context at encoding constrains how information can be retrieved. A PKB with rich associative link structures functions as a cue-dense retrieval environment that mirrors encoding context.
 > 3. **Retrieval…
 
 > [!section-summary] **Section 4 Key Takeaways** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> 1. **[[Working-Memory]] is a limited processing system (~4 active chunks) that schemas expand through compression.** The effective working memory capacity for any domain depends on the richness of available schemas — schemas allow more information to be handled in fewer chunks.
-> 2. **[[Cognitive-Load-Theory]] reveals that learning is schema construction under capacity constraints.** A PKB that reduces extraneous cognitive load enables more resources for schema-constructive processing — but only if the user is actually engaged in schema construction, not just retrieval.
+> 1. **[[working-memory]] is a limited processing system (~4 active chunks) that schemas expand through compression.** The effective working memory capacity for any domain depends on the richness of available schemas — schemas allow more information to be handled in fewer chunks.
+> 2. **[[cognitive-load-theory]] reveals that learning is schema construction under capacity constraints.** A PKB that reduces extraneous cognitive load enables more resources for schema-constructive processing — but only if the user is actually engaged in schema construction, not just retrieval.
 > 3. **Optimal PKB design…
 
 > [!section-summary] **Section 5 Key Takeaways** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> 1. **The [[Parity-Principle]] licenses treating external knowledge systems as cognitive process components** when they function equivalently to internal cognitive processes — a functional classification, not a metaphysical claim about where the mind ends.
+> 1. **The [[parity-principle]] licenses treating external knowledge systems as cognitive process components** when they function equivalently to internal cognitive processes — a functional classification, not a metaphysical claim about where the mind ends.
 > 2. **The cognitive niche concept reframes the PKB from tool to habitat.** A tool is optimized for its function; a niche is optimized for its inhabitant. This shifts the design question from "how do I build a better knowledge retrieval system?" to "what kind of thinker am I trying to become, and what external environment would cultivate…
 
 > [!section-summary] **Section 7 Key Takeaways** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
@@ -348,7 +349,7 @@ importance: high
 > 2. **Three conditions are required for the enrichment cycle to operate:** reflective engagement (articulating conceptual relationships, not just capturing),…
 
 > [!section-summary] **Section 8 Key Takeaways** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> 1. **Three primary risks attend schema externalization practice:** the [[Fluency-Illusion]] (external clarity mistaken for internal understanding), the substitution trap (external structure replacing rather than extending internal schemas), and the structural accuracy problem (encoding biases in external structure reinforced through use).
+> 1. **Three primary risks attend schema externalization practice:** the [[fluency-illusion]] (external clarity mistaken for internal understanding), the substitution trap (external structure replacing rather than extending internal schemas), and the structural accuracy problem (encoding biases in external structure reinforced through use).
 > 2. **Three structural limits bound the analogy:** PKB "activation" requires deliberate navigation (not automatic); external encoding is not continuous (requires explicit updating); and integration depth is shallower (propositional structure without sensory,…
 
 ## Spaced Repetition Seeds
@@ -462,7 +463,7 @@ importance: high
 > 
 > **Steps:**
 > 1. Identify any note with ≥3 bare wiki-links (links that are just `[[concept]]` without relationship specification).
-> 2. For each bare link, add a brief explanatory clause: e.g., `[[Schema-Theory|schemas]], which explain how prior knowledge structures organize encoding`.
+> 2. For each bare link, add a brief explanatory clause: e.g., `[[schema-theory|schemas]], which explain how prior knowledge structures organize encoding`.
 > 3. When creating new notes, adopt the discipline of never adding a bare link — always specify the relationship in context.
 > 4. For the PKB as a whole, consider implementing typed link conventions (e.g., "because," "enables," "requires," "contrasts-with") as syntactic sugar for relationship specification.
 > 
@@ -531,19 +532,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*:
-- [[Schema-Theory]]
-- [[Long-Term-Memory]]
-- [[Working-Memory]]
-- [[Cognitive-Load-Theory]]
-- [[Extended-Mind-Theory]]
-- [[The-Schema-Progressive-Architecture-for-PKB-Design]]
-- [[PKB-Architecture]]
-- [[Obsidian-PKB-Architecture]]
-- [[Expertise-Development]]
-- [[Deliberate-Practice]]
+- [[schema-theory|Schema-Theory]]
+- [[long-term-memory|Long-Term-Memory]]
+- [[working-memory|Working-Memory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[extended-mind-theory|Extended-Mind-Theory]]
+- [[the-schema-progressive-architecture-for-pkb-design|The-Schema-Progressive-Architecture-for-PKB-Design]]
+- [[pkb-architecture|PKB-Architecture]]
+- [[obsidian-pkb-architecture|Obsidian-PKB-Architecture]]
+- [[expertise-development|Expertise-Development]]
+- [[deliberate-practice|Deliberate-Practice]]
 
 **Related concepts:**
-[[Personal-Knowledge-Base]] · [[Long-Term-Memory]] · [[Schema-Theory]] · [[PKB-Architecture]] · [[Cognitive-Offloading]] · [[Extended-Mind-Theory]] · [[Long-Term-Memory]] · [[Working-Memory]] · [[Schema-Theory]] · [[Personal-Knowledge-Management]] · [[Zettelkasten]] · [[Personal-Knowledge-Base]] · [[Cognitive-Architecture]] · [[Schema-Theory]] · [[Extended-Mind-Theory]] · [[Cognitive-Architecture]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Long-Term-Memory]] · [[Personal-Knowledge-Management]] · [[Personal-Knowledge-Base]] · [[Cognitive-Offloading]] · [[Schema-Theory]] · [[Cognitive-Offloading]] · [[Extended-Mind-Theory]] · [[Parity-Principle]] · [[Cognitive-Architecture]] · [[Cognitive-Offloading]] · [[Working-Memory]] · [[Distributed-Cognition]]
+[[personal-knowledge-base|Personal-Knowledge-Base]] · [[long-term-memory|Long-Term-Memory]] · [[schema-theory|Schema-Theory]] · [[pkb-architecture|PKB-Architecture]] · [[cognitive-offloading|Cognitive-Offloading]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[long-term-memory|Long-Term-Memory]] · [[working-memory|Working-Memory]] · [[schema-theory|Schema-Theory]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[zettelkasten|Zettelkasten]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[cognitive-architecture|Cognitive-Architecture]] · [[schema-theory|Schema-Theory]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[cognitive-architecture|Cognitive-Architecture]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[schema-theory|Schema-Theory]] · [[long-term-memory|Long-Term-Memory]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[cognitive-offloading|Cognitive-Offloading]] · [[schema-theory|Schema-Theory]] · [[cognitive-offloading|Cognitive-Offloading]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[parity-principle|Parity-Principle]] · [[cognitive-architecture|Cognitive-Architecture]] · [[cognitive-offloading|Cognitive-Offloading]] · [[working-memory|Working-Memory]] · [[distributed-cognition|Distributed-Cognition]]
 
 ## References
 
@@ -563,7 +564,7 @@ importance: high
 ## Methodology Notes
 
 > [!methodology-and-sources] **Transfer Framing** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
-> This section applies the principles of [[Transfer-of-Learning]] research to move the schema externalization thesis beyond its home domain of personal knowledge management. Specifically, it explores whether the structural principles identifed in this report — schema-fidelity, bidirectional enrichment, the distinction between offloading and externalization — exhibit sufficient generality to illuminate design and practice questions in domains with meaningfully different surface features. This exercise is itself an application of [[Analogical-Reasoning]]: we are looking for structural…
+> This section applies the principles of [[transfer-of-learning]] research to move the schema externalization thesis beyond its home domain of personal knowledge management. Specifically, it explores whether the structural principles identifed in this report — schema-fidelity, bidirectional enrichment, the distinction between offloading and externalization — exhibit sufficient generality to illuminate design and practice questions in domains with meaningfully different surface features. This exercise is itself an application of [[analogical-reasoning]]: we are looking for structural…
 
 > [!methodology-and-sources] **How This Report Was Produced and What Epistemic Standards Apply** *(from [[schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05]])*
 > **Synthesis Method:** This report draws on five intellectual traditions: (1) cognitive psychology and memory research (schema theory, working memory, CLT); (2) philosophy of mind and cognitive science (extended mind thesis, 4E cognition); (3) educational psychology (desirable difficulties, self-explanation, retrieval practice, spaced repetition); (4) knowledge management and PKM practice (Obsidian ecosystem, Zettelkasten, PARA, progressive summarization); (5) expertise research (deliberate practice, chunking in expert performance). The synthesis is integrative rather than additive — the goal…

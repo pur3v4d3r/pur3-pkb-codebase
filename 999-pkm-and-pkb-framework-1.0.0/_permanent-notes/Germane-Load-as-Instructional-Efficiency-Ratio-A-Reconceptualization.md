@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,25 +73,25 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[John-Sweller]]"
-  - "[[Jeroen-van-Merriënboer]]"
-  - "[[Fred-Paas]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[John-Sweller]]"
-  - "[[Jeroen-van-Merriënboer]]"
-  - "[[Fred-Paas]]"
-  - "[[George-Miller]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Guidance-Fading-Principle]]"
-  - "[[Worked-Example-Effect]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Metacognition]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Transfer-of-Learning]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[john-sweller|John-Sweller]]"
+  - "[[jeroen-van-merriënboer|Jeroen-van-Merriënboer]]"
+  - "[[fred-paas|Fred-Paas]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[john-sweller|John-Sweller]]"
+  - "[[jeroen-van-merriënboer|Jeroen-van-Merriënboer]]"
+  - "[[fred-paas|Fred-Paas]]"
+  - "[[george-miller|George-Miller]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[guidance-fading-principle|Guidance-Fading-Principle]]"
+  - "[[worked-example-effect|Worked-Example-Effect]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[transfer-of-learning|Transfer-of-Learning]]"
   - "[[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -104,7 +104,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Expertise-Reversal-Effect-and-Adaptive-InstructionExpertise-Reversal|> [!topic-idea] [[Expertise-Reversal-Effect-and-Adaptive-Instruction|Expertise Reversal Effect — A F]]"
+  - topic: "[[> [!topic-idea] [[Expertise-Reversal-Effect-and-Adaptive-Instruction|Expertise Reversal Effect — A F]]"
     description: ""
     priority: medium
 
@@ -187,7 +187,7 @@ importance: high
 > The germane load concept smuggles in a moderator that the three-component model never explicitly acknowledges: *expertise level*. Whether a given level of engagement with element interactions is "germane" (productive) or merely exhausting depends entirely on whether the learner's existing schemas can partially support the element interactivity — providing enough cognitive scaffolding that schema formation is possible, rather than overwhelming the system. This expertise-sensitivity means that…
 
 > [!analytical-insight] Key Insight *(from [[cognitive-load-theory-focused-analysis-2026-03-22]])*
-> CLT predicts learning outcomes from load conditions without modeling the learner's metacognitive engagement with those conditions. But research on [[Metacognitive-Monitoring|metacognitive monitoring]] shows that learners under high cognitive load are specifically impaired in their ability to monitor their own comprehension — they cannot accurately assess whether their element interactivity engagement is producing schemas. This creates a structural tension: the conditions that most require…
+> CLT predicts learning outcomes from load conditions without modeling the learner's metacognitive engagement with those conditions. But research on [[metacognitive-monitoring|metacognitive monitoring]] shows that learners under high cognitive load are specifically impaired in their ability to monitor their own comprehension — they cannot accurately assess whether their element interactivity engagement is producing schemas. This creates a structural tension: the conditions that most require…
 
 ## Practical Implications
 
@@ -209,7 +209,7 @@ importance: high
 > To measure germane load, researchers need an indicator of schema-building activity that is independent of learning outcomes. Every proposed indicator — higher effort with better performance, enhanced electroencephalographic theta activity, increased pupil dilation in transfer tasks — either collapses back into a performance measure or measures total mental effort without distinguishing germane from intrinsic contributions. The result is that "germane load explains the variability effect" is logically equivalent to "schema-building explains schema-building," unless a mechanistically…
 
 > [!tension] **The CLT-Metacognition Interface — An Unresolved Structural Gap** *(from [[cognitive-load-theory-focused-analysis-2026-03-22]])*
-> CLT predicts learning outcomes from load conditions without modeling the learner's metacognitive engagement with those conditions. But research on [[Metacognitive-Monitoring|metacognitive monitoring]] shows that learners under high cognitive load are specifically impaired in their ability to monitor their own comprehension — they cannot accurately assess whether their element interactivity engagement is producing schemas. This creates a structural tension: the conditions that most require accurate metacognitive monitoring (high intrinsic load, marginal working memory capacity) are precisely…
+> CLT predicts learning outcomes from load conditions without modeling the learner's metacognitive engagement with those conditions. But research on [[metacognitive-monitoring|metacognitive monitoring]] shows that learners under high cognitive load are specifically impaired in their ability to monitor their own comprehension — they cannot accurately assess whether their element interactivity engagement is producing schemas. This creates a structural tension: the conditions that most require accurate metacognitive monitoring (high intrinsic load, marginal working memory capacity) are precisely…
 
 ## Reflection Prompts
 
@@ -263,22 +263,22 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[cognitive-load-theory-focused-analysis-2026-03-22]])*:
-- [[Guidance-Fading-Principle]]
+- [[guidance-fading-principle|Guidance-Fading-Principle]]
 
 **Cross-report connections** *(from [[cognitive-load-theory-focused-analysis-2026-03-22]])*:
-- [[Working-Memory-and-Long-Term-Memory-in-CLT]]
-- [[Germane-Cognitive-Load]]
-- [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
-- [[Metacognitive-Monitoring]]
+- [[working-memory-and-long-term-memory-in-clt|Working-Memory-and-Long-Term-Memory-in-CLT]]
+- [[germane-cognitive-load|Germane-Cognitive-Load]]
+- [[intrinsic-extraneous-and-germane-cognitive-load|Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
 - [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]
 - [[The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function]]
-- [[Transfer-of-Learning]]
-- [[Worked-Example-Effect]]
-- [[Guidance-Fading-Principle]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[worked-example-effect|Worked-Example-Effect]]
+- [[guidance-fading-principle|Guidance-Fading-Principle]]
 - [[cognitive-load-theory-foundational-report-2026-03-11]]
 
 **Related concepts:**
-[[Cognitive-Load-Theory]] · [[Working-Memory]] · [[John-Sweller]] · [[Jeroen-van-Merriënboer]] · [[Fred-Paas]] · [[Cognitive-Load-Theory]] · [[John-Sweller]] · [[Jeroen-van-Merriënboer]] · [[Fred-Paas]] · [[George-Miller]] · [[Cognitive-Architecture]] · [[Guidance-Fading-Principle]] · [[Worked-Example-Effect]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[Metacognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Monitoring]] · [[Transfer-of-Learning]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function]] · [[Guidance-Fading-Principle]] · [[Intrinsic-Motivation]] · [[Working-Memory-and-Long-Term-Memory-in-CLT]] · [[Germane-Cognitive-Load]] · [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]] · [[Metacognitive-Monitoring]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function]] · [[Transfer-of-Learning]]
+[[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[john-sweller|John-Sweller]] · [[jeroen-van-merriënboer|Jeroen-van-Merriënboer]] · [[fred-paas|Fred-Paas]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[john-sweller|John-Sweller]] · [[jeroen-van-merriënboer|Jeroen-van-Merriënboer]] · [[fred-paas|Fred-Paas]] · [[george-miller|George-Miller]] · [[cognitive-architecture|Cognitive-Architecture]] · [[guidance-fading-principle|Guidance-Fading-Principle]] · [[worked-example-effect|Worked-Example-Effect]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[metacognition|Metacognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[transfer-of-learning|Transfer-of-Learning]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function]] · [[guidance-fading-principle|Guidance-Fading-Principle]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[working-memory-and-long-term-memory-in-clt|Working-Memory-and-Long-Term-Memory-in-CLT]] · [[germane-cognitive-load|Germane-Cognitive-Load]] · [[intrinsic-extraneous-and-germane-cognitive-load|Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function]] · [[transfer-of-learning|Transfer-of-Learning]]
 
 ## References
 

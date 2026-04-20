@@ -1194,7 +1194,7 @@ dv.table(["Validation Status", "Count"],
 ## 📚 Learning Paths
 
 ### Beginner Path
-1. [[Prompt-Engineering-Fundamentals]]
+1. [[prompt-engineering-fundamentals]]
 2. [[Basic Prompt Anatomy]]
 3. [[Zero-Shot vs Few-Shot]]
 4. [[Simple Persona Patterns]]
@@ -1665,7 +1665,7 @@ technique   template    experiment     literature
 
 ### Upstream (Foundation)
 - [[Master Tag Taxonomy]]
-- [[PKB-Architecture]]
+- [[pkb-architecture]]
 - [[Cognitive Abilities MOC]] — Understanding how prompting relates to cognition
 
 ### Parallel Domains

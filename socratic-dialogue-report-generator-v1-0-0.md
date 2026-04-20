@@ -18,16 +18,16 @@ secondary_domains:
   - dialectical-inquiry
   - pedagogical-design
 related_concepts:
-  - "[[Socratic-Method]]"
-  - "[[Elenchus]]"
-  - "[[Aporia]]"
+  - "[[socratic-method]]"
+  - "[[elenchus]]"
+  - "[[aporia]]"
   - "[[Dialectical Reasoning]]"
   - "[[Maieutic Method]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
-  - "[[Dual-Process-Theory]]"
+  - "[[dual-process-theory]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -92,12 +92,12 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Socratic-Method]]"
-  - "[[Elenchus]]"
+  - "[[socratic-method]]"
+  - "[[elenchus]]"
 
 builds_on:
-  - "[[Foundational-Report-Generator-v1.0]]"
-  - "[[First-Principles-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
+  - "[[first-principles-report-generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 extends:
@@ -107,15 +107,15 @@ extends:
 # ALIASES & LINKING
 # ═══════════════════════════════════════════════════════════════════════════
 aliases:
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
   - "[[SDRP v1.0]]"
   - "[[Report Generator - Socratic Dialogue]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down: []
 link_related:
-  - "[[Foundational-Report-Generator-v1.0]]"
-  - "[[First-Principles-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
+  - "[[first-principles-report-generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -273,7 +273,7 @@ The depth-first principles from the Foundational and First Principles reports ap
 
 ## Section 2: Metadata Generation Protocol
 
-Every Socratic Dialogue Report MUST begin with a complete YAML frontmatter block. The template follows the same structure as the [[Foundational-Report-Generator-v1.0]], Section 2, with the following modifications:
+Every Socratic Dialogue Report MUST begin with a complete YAML frontmatter block. The template follows the same structure as the [[foundational-report-generator-v1.0]], Section 2, with the following modifications:
 
 ### Modified Metadata Fields
 
@@ -323,10 +323,10 @@ document-features:
   reflective-questions: "{count, minimum 10}"
 
 # Source & Generation:
-generation-prompt: "[[Socratic-Dialogue-Report-Generator-v1.0]]"
+generation-prompt: "[[socratic-dialogue-report-generator-v1.0]]"
 ```
 
-All other metadata fields follow the [[Foundational-Report-Generator-v1.0]], Section 2 template. Generate the full YAML block with all fields populated.
+All other metadata fields follow the [[foundational-report-generator-v1.0]], Section 2 template. Generate the full YAML block with all fields populated.
 
 ---
 
@@ -608,7 +608,7 @@ not certainty, but a question worth spending a life on.
 
 ### Appendix: Lexicon, References, and Expansion Topics
 
-The appendix follows the same structure as the [[Foundational-Report-Generator-v1.0]], Phase VII, and [[First-Principles-Report-Generator-v1.0]], Phase VII, with the following additions:
+The appendix follows the same structure as the [[foundational-report-generator-v1.0]], Phase VII, and [[first-principles-report-generator-v1.0]], Phase VII, with the following additions:
 
 #### A. Lexicon
 
@@ -699,7 +699,7 @@ The Respondent IS:
 
 ### All Standards from the Foundational Report Apply
 
-The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, and progressive structure requirements from [[Foundational-Report-Generator-v1.0]], Section 4 apply in full, adapted for dialogue format.
+The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, and progressive structure requirements from [[foundational-report-generator-v1.0]], Section 4 apply in full, adapted for dialogue format.
 
 ### Dialogue-Specific Standards
 
@@ -744,7 +744,7 @@ These are uniquely powerful in dialogue format because the reader can be invited
 
 ### All Protocols from the Foundational Report Apply
 
-The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational-Report-Generator-v1.0]], Section 5 apply.
+The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[foundational-report-generator-v1.0]], Section 5 apply.
 
 ### Dialogue-Specific Integration
 

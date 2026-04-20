@@ -161,7 +161,7 @@ extraction_summary:
 #### 2. [DEFINITION] Socratic Method (Educational Philosophy / Plato, ~380 BCE) *(Line 143)*
 
 > [!definition] Socratic Method (Educational Philosophy / Plato, ~380 BCE)
-> The Socratic Method is a form of structured philosophical dialogue in which one party — originally Socrates — draws out the implicit beliefs and assumptions of an interlocutor through systematic questioning, then tests those beliefs through logical examination. The method has two distinguishable components: the [[Socratic-Method-Elenchus|Elenchus]] (cross-examination that reveals logical contradictions in stated beliefs) and the [[Maieutic Method]] (the "midwife" function of helping interlocutors give birth to understanding already latent within them). The method is not adversarial in its goals; its purpose is to produce [[Aporia]] — a state of productive perplexity — as the epistemically honest recognition that one does not know what one thought one knew, which is the necessary precondition for genuine inquiry to begin.
+> The Socratic Method is a form of structured philosophical dialogue in which one party — originally Socrates — draws out the implicit beliefs and assumptions of an interlocutor through systematic questioning, then tests those beliefs through logical examination. The method has two distinguishable components: the [[Socratic-Method-Elenchus|Elenchus]] (cross-examination that reveals logical contradictions in stated beliefs) and the [[Maieutic Method]] (the "midwife" function of helping interlocutors give birth to understanding already latent within them). The method is not adversarial in its goals; its purpose is to produce [[aporia]] — a state of productive perplexity — as the epistemically honest recognition that one does not know what one thought one knew, which is the necessary precondition for genuine inquiry to begin.
 
 #### 3. [DEFINITION] Elenchus (Educational Philosophy / Socratic Tradition) *(Line 148)*
 
@@ -171,12 +171,12 @@ extraction_summary:
 #### 4. [DEFINITION] Aporia (Educational Philosophy / Socratic Tradition) *(Line 151)*
 
 > [!definition] Aporia (Educational Philosophy / Socratic Tradition)
-> Aporia (Greek: ἀπορία, without passage or resource) names the state of productive intellectual perplexity induced by successful elenchus. The interlocutor who has undergone elenchus finds themselves in a condition of genuine uncertainty — unable to maintain their original confident belief but also not yet in possession of a better-grounded alternative. Far from being a failure state to be avoided, aporia is, in the Socratic framework, the most educationally productive state possible. It marks the transition from pseudo-knowledge (confident opinion without justification) to genuine inquiry (recognition of what one does not know, motivating the search for what one does not yet know). [[Aporia]] is, in this sense, epistemic clarity about one's actual situation.
+> Aporia (Greek: ἀπορία, without passage or resource) names the state of productive intellectual perplexity induced by successful elenchus. The interlocutor who has undergone elenchus finds themselves in a condition of genuine uncertainty — unable to maintain their original confident belief but also not yet in possession of a better-grounded alternative. Far from being a failure state to be avoided, aporia is, in the Socratic framework, the most educationally productive state possible. It marks the transition from pseudo-knowledge (confident opinion without justification) to genuine inquiry (recognition of what one does not know, motivating the search for what one does not yet know). [[aporia]] is, in this sense, epistemic clarity about one's actual situation.
 
 #### 5. [CROSS-DOMAIN-CONNECTION] Aporia and Piaget's Disequilibrium: Two Traditions, One Mechanism *(Line 154)*
 
 > [!cross-domain-connection] Aporia and Piaget's Disequilibrium: Two Traditions, One Mechanism
-> The Socratic concept of aporia (educational philosophy, ~380 BCE) and Piaget's concept of [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] (developmental psychology, 1950s-1970s) are separated by twenty-four centuries and operate within entirely different theoretical vocabularies. Yet they describe, with striking structural precision, the same cognitive event: the encounter with information or argument that cannot be assimilated into existing cognitive structures without those structures reorganizing. Piaget's disequilibrium is the impetus for accommodation — the revision of existing schemas to incorporate incompatible information. Socratic aporia is the recognition that existing beliefs cannot be maintained under logical pressure — the impetus for genuine inquiry. Both traditions agree that this moment of productive discomfort, far from being avoided, is the engine of cognitive development. Both further agree that systems which smooth over this discomfort — by providing answers before questions are genuinely felt — undermine the very process they intend to facilitate. This convergence from ancient philosophy and modern developmental psychology triangulates a principle with significant implications for PKB design: the system should not always resolve its own tensions. Sometimes productive aporia is the point.
+> The Socratic concept of aporia (educational philosophy, ~380 BCE) and Piaget's concept of [[cognitive-disequilibrium|Cognitive Disequilibrium]] (developmental psychology, 1950s-1970s) are separated by twenty-four centuries and operate within entirely different theoretical vocabularies. Yet they describe, with striking structural precision, the same cognitive event: the encounter with information or argument that cannot be assimilated into existing cognitive structures without those structures reorganizing. Piaget's disequilibrium is the impetus for accommodation — the revision of existing schemas to incorporate incompatible information. Socratic aporia is the recognition that existing beliefs cannot be maintained under logical pressure — the impetus for genuine inquiry. Both traditions agree that this moment of productive discomfort, far from being avoided, is the engine of cognitive development. Both further agree that systems which smooth over this discomfort — by providing answers before questions are genuinely felt — undermine the very process they intend to facilitate. This convergence from ancient philosophy and modern developmental psychology triangulates a principle with significant implications for PKB design: the system should not always resolve its own tensions. Sometimes productive aporia is the point.
 
 #### 6. [DEFINITION] Dewey Inquiry Model (Educational Philosophy / Pragmatist Epistemology, Dewey 1910/1933) *(Line 159)*
 
@@ -201,17 +201,17 @@ extraction_summary:
 #### 10. [CROSS-DOMAIN-CONNECTION] Socratic Elenchus and Elaborative Interrogation: Ancient Practice, Modern Mechanism *(Line 173)*
 
 > [!cross-domain-connection] Socratic Elenchus and Elaborative Interrogation: Ancient Practice, Modern Mechanism
-> The Socratic elenchus (educational philosophy) and [[Elaborative-Interrogation|Elaborative Interrogation]] (cognitive psychology) are separated not only by centuries but by radically different intellectual frameworks and methodologies. Yet they converge, with remarkable precision, on the same cognitive prescription: the learner should be required to justify, explain, and elaborate their beliefs, rather than simply receiving or restating information. Elenchus forces explicit justification of held beliefs, revealing logical gaps and under-examined assumptions. Elaborative interrogation forces explanation of received information, requiring the learner to connect it to existing knowledge structures. In both cases, the generative cognitive work — the effortful attempt to produce justifications and explanations — is the mechanism of learning, not a mere adjunct to it. For PKB design, this convergence from ancient philosophy and modern experimental psychology significantly increases confidence in the prescription: notes should require the note-maker to explain, not merely to record. The "why?" is not a stylistic addition to a note; it is, mechanistically, where the learning happens.
+> The Socratic elenchus (educational philosophy) and [[elaborative-interrogation|Elaborative Interrogation]] (cognitive psychology) are separated not only by centuries but by radically different intellectual frameworks and methodologies. Yet they converge, with remarkable precision, on the same cognitive prescription: the learner should be required to justify, explain, and elaborate their beliefs, rather than simply receiving or restating information. Elenchus forces explicit justification of held beliefs, revealing logical gaps and under-examined assumptions. Elaborative interrogation forces explanation of received information, requiring the learner to connect it to existing knowledge structures. In both cases, the generative cognitive work — the effortful attempt to produce justifications and explanations — is the mechanism of learning, not a mere adjunct to it. For PKB design, this convergence from ancient philosophy and modern experimental psychology significantly increases confidence in the prescription: notes should require the note-maker to explain, not merely to record. The "why?" is not a stylistic addition to a note; it is, mechanistically, where the learning happens.
 
 #### 11. [DEFINITION] Generative Learning (Cognitive Psychology / Educational Psychology, Wittrock 1990) *(Line 178)*
 
 > [!definition] Generative Learning (Cognitive Psychology / Educational Psychology, Wittrock 1990)
-> Merlin Wittrock's model of [[Generative-Learning|Generative Learning]] proposes that learning is not a passive reception of information but an active process of generating relationships between new information and prior knowledge and experience. Understanding — as opposed to mere retention — occurs when the learner generates the organizational and integrative structures themselves, rather than receiving them pre-built. The implications are significant: a learning activity in which the learner generates the connections, summaries, examples, and explanations is not merely more effortful than passive reception; it is categorically different in kind. Generative activities produce understanding; passive reception produces familiarity without comprehension.
+> Merlin Wittrock's model of [[generative-learning|Generative Learning]] proposes that learning is not a passive reception of information but an active process of generating relationships between new information and prior knowledge and experience. Understanding — as opposed to mere retention — occurs when the learner generates the organizational and integrative structures themselves, rather than receiving them pre-built. The implications are significant: a learning activity in which the learner generates the connections, summaries, examples, and explanations is not merely more effortful than passive reception; it is categorically different in kind. Generative activities produce understanding; passive reception produces familiarity without comprehension.
 
 #### 12. [DEFINITION] Self-Explanation Effect (Cognitive Psychology, Chi et al. 1994) *(Line 181)*
 
 > [!definition] Self-Explanation Effect (Cognitive Psychology, Chi et al. 1994)
-> The [[Self-Explanation-Effect|Self-Explanation Effect]], documented by Michelene Chi and colleagues through studies of students learning from worked examples, describes the consistent finding that students who spontaneously explain to themselves — "why does this step make sense?", "what principle does this follow?" — achieve substantially deeper understanding than students who process the same material without self-explanation. Crucially, the effect is driven not by the content of the self-explanations but by the process: the attempt to explain forces the identification of gaps in understanding, which drives further processing to fill those gaps. Self-explanation is, in effect, a self-administered [[Socratic-Method-Elenchus|Elenchus]]: the learner discovers, through the attempt to explain, what they do not actually understand — an experience functionally identical to Socratic aporia.
+> The [[self-explanation-effect|Self-Explanation Effect]], documented by Michelene Chi and colleagues through studies of students learning from worked examples, describes the consistent finding that students who spontaneously explain to themselves — "why does this step make sense?", "what principle does this follow?" — achieve substantially deeper understanding than students who process the same material without self-explanation. Crucially, the effect is driven not by the content of the self-explanations but by the process: the attempt to explain forces the identification of gaps in understanding, which drives further processing to fill those gaps. Self-explanation is, in effect, a self-administered [[Socratic-Method-Elenchus|Elenchus]]: the learner discovers, through the attempt to explain, what they do not actually understand — an experience functionally identical to Socratic aporia.
 
 #### 13. [KEY-CLAIM] The Generative Principle: Understanding Is Produced, Not Received *(Line 184)*
 
@@ -485,11 +485,11 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]** — The critical thinking report established [[Socratic-Method-Elenchus|Elenchus]], [[Aporia]], and the [[Socratic-Method-Elenchus|Socratic Method]] as tools for evaluating knowledge stored in a PKB. This report extends that foundation by showing how those tools should be embedded not just in review workflows but in the initial architecture of note creation. Where Report 07 asks "how do we evaluate what we have stored?", this report asks "how do we build the system so that genuine inquiry, rather than passive storage, is the primary activity?" The two reports together constitute a complete epistemic architecture: inquiry-based creation (Report 14) plus critical evaluation of what is created (Report 07).
+> - **[[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]** — The critical thinking report established [[Socratic-Method-Elenchus|Elenchus]], [[aporia]], and the [[Socratic-Method-Elenchus|Socratic Method]] as tools for evaluating knowledge stored in a PKB. This report extends that foundation by showing how those tools should be embedded not just in review workflows but in the initial architecture of note creation. Where Report 07 asks "how do we evaluate what we have stored?", this report asks "how do we build the system so that genuine inquiry, rather than passive storage, is the primary activity?" The two reports together constitute a complete epistemic architecture: inquiry-based creation (Report 14) plus critical evaluation of what is created (Report 07).
 > 
-> - **[[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]** — Report 08 established [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]], [[Felt-Difficulty|Felt Difficulty]], and [[Pragmatist-Epistemology|Pragmatist Epistemology]] as foundations for processing experiential knowledge. This report extends those concepts in a different direction: from experience-to-knowledge conversion (Report 08's focus) to inquiry-as-knowledge-construction (this report's focus). Felt difficulty initiated by experience (Report 08) and felt difficulty initiated by encountering a challenging idea (Report 14) trigger the same five-phase inquiry cycle — the mechanism is shared even as the triggering context differs.
+> - **[[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]** — Report 08 established [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]], [[felt-difficulty|Felt Difficulty]], and [[Pragmatist-Epistemology|Pragmatist Epistemology]] as foundations for processing experiential knowledge. This report extends those concepts in a different direction: from experience-to-knowledge conversion (Report 08's focus) to inquiry-as-knowledge-construction (this report's focus). Felt difficulty initiated by experience (Report 08) and felt difficulty initiated by encountering a challenging idea (Report 14) trigger the same five-phase inquiry cycle — the mechanism is shared even as the triggering context differs.
 > 
-> - **[[03-constructing-understanding-pkm-framework-2026-03-13]]** — Report 03 established [[Constructivism]], [[Elaboration-Theory|Elaboration Theory]], and the principle that knowledge builds on knowledge through active construction. The inquiry-first approach developed here is the PKB workflow operationalization of those principles. Elaboration Theory (Reigeluth) prescribes elaborative sequences; the Inquiry Trail architecture implements elaborative sequences in PKB practice.
+> - **[[03-constructing-understanding-pkm-framework-2026-03-13]]** — Report 03 established [[constructivism]], [[Elaboration-Theory|Elaboration Theory]], and the principle that knowledge builds on knowledge through active construction. The inquiry-first approach developed here is the PKB workflow operationalization of those principles. Elaboration Theory (Reigeluth) prescribes elaborative sequences; the Inquiry Trail architecture implements elaborative sequences in PKB practice.
 > 
 > - **[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]** — The [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] cycle (Zimmerman) and the Deweyan inquiry cycle are structurally isomorphic, as identified in Phase IV's cross-domain connection. The Inquiry Node template operationalizes both cycles simultaneously: it structures inquiry (Dewey) and embeds metacognitive monitoring and revision tracking (Zimmerman). The inquiry dashboard extends this by providing system-level metacognitive oversight.
 > 
@@ -657,35 +657,35 @@ extraction_summary:
 - [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]
 - [[10-scaffolding-and-fading-pkm-framework-2026-03-14]]
 - [[11-transfer-problem-pkm-framework-2026-03-14]]
-- [[Aporia]]
+- [[aporia]]
 - [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]
 - [[Child-Inquiry-Node]]
-- [[Cognitive-Disequilibrium|Cognitive Disequilibrium]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-disequilibrium|Cognitive Disequilibrium]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Competing-View-Note]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
-- [[Critical-Thinking|Critical Thinking]]
+- [[critical-thinking|Critical Thinking]]
 - [[Curiosity-Driven Knowledge Graph]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dewey-Inquiry-Model|Dewey Inquiry Model]]
 - [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
 - [[Dewey's Inquiry Model]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
 - [[Doxa]]
-- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[dual-process-theory|Dual-Process Theory]]
 - [[Earlier-Position-Note]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[elaborative-interrogation|Elaborative Interrogation]]
 - [[Socratic-Method-Elenchus|Elenchus]]
 - [[Episteme]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[epistemic-vigilance|Epistemic Vigilance]]
 - [[Epistemology of Questions: What Makes a Good Inquiry Question]]
 - [[Evidence-Note]]
-- [[Felt-Difficulty|Felt Difficulty]]
-- [[Generative-Learning|Generative Learning]]
+- [[felt-difficulty|Felt Difficulty]]
+- [[generative-learning|Generative Learning]]
 - [[Inquiry-Node|Inquiry Node]]
 - [[Inquiry Trails]]
 - [[Inquiry-Based Learning and Transfer: Closing the Loop with Report 11]]
@@ -701,7 +701,7 @@ extraction_summary:
 - [[PBL]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Prior-Understanding-Note]]
-- [[Productive-Failure|Productive Failure]]
+- [[productive-failure|Productive Failure]]
 - [[Productive Failure and PKB Revision Practices]]
 - [[Report 02 — The Architecture of Learning]]
 - [[Report 04 — Metacognitive Self-Regulation]]
@@ -715,10 +715,10 @@ extraction_summary:
 - [[Report 18 — Calibration and Epistemic Humility]]
 - [[Report 21 — Dialectical Knowledge Building]]
 - [[Report 21 — Dialectical Knowledge Building: Synthesis Through Productive Disagreement]]
-- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[self-explanation-effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic-Questioning]]
+- [[socratic-questioning]]
 - [[Socratic Seminar Adaptation for Solo PKM Practice]]
 - [[Socratic Seminars]]
 - [[Steel-Manning]]
@@ -733,58 +733,58 @@ extraction_summary:
 | 2 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | The Library and the Intellect | 116 |
 | 3 | [[Dewey-Inquiry-Model|Dewey Inquiry Model]] | — | — | The Library and the Intellect | 116 |
 | 4 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Library and the Intellect | 116 |
-| 5 | [[Socratic-Questioning]] | — | — | The Synthesis Question | 123 |
+| 5 | [[socratic-questioning]] | — | — | The Synthesis Question | 123 |
 | 6 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | The Synthesis Question | 123 |
 | 7 | [[Dewey's Inquiry Model]] | — | — | The Synthesis Question | 123 |
-| 8 | [[Felt-Difficulty|Felt Difficulty]] | — | — | The Synthesis Question | 123 |
+| 8 | [[felt-difficulty|Felt Difficulty]] | — | — | The Synthesis Question | 123 |
 | 9 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Synthesis Question | 123 |
-| 10 | [[Generative-Learning|Generative Learning]] | — | — | The Synthesis Question | 123 |
-| 11 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | The Synthesis Question | 123 |
+| 10 | [[generative-learning|Generative Learning]] | — | — | The Synthesis Question | 123 |
+| 11 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | The Synthesis Question | 123 |
 | 12 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 129 |
-| 13 | [[Constructivism]] | — | — | Disciplinary Contributions and Their ... | 129 |
-| 14 | [[Critical-Thinking|Critical Thinking]] | — | — | Disciplinary Contributions and Their ... | 129 |
+| 13 | [[constructivism]] | — | — | Disciplinary Contributions and Their ... | 129 |
+| 14 | [[critical-thinking|Critical Thinking]] | — | — | Disciplinary Contributions and Their ... | 129 |
 | 15 | [[Report 07 — Critical Thinking as PKM Practice]] | — | — | Disciplinary Contributions and Their ... | 129 |
-| 16 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | Disciplinary Contributions and Their ... | 129 |
-| 17 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Disciplinary Contributions and Their ... | 129 |
+| 16 | [[epistemic-vigilance|Epistemic Vigilance]] | — | — | Disciplinary Contributions and Their ... | 129 |
+| 17 | [[dual-process-theory|Dual-Process Theory]] | — | — | Disciplinary Contributions and Their ... | 129 |
 | 18 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Disciplinary Contributions and Their ... | 129 |
-| 19 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | Disciplinary Contributions and Their ... | 129 |
+| 19 | [[self-explanation-effect|Self-Explanation Effect]] | — | — | Disciplinary Contributions and Their ... | 129 |
 | 20 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | The Socratic Method as a Cognitive Te... | 144 |
 | 21 | [[Maieutic Method]] | — | — | The Socratic Method as a Cognitive Te... | 144 |
-| 22 | [[Aporia]] | — | — | The Socratic Method as a Cognitive Te... | 144 |
+| 22 | [[aporia]] | — | — | The Socratic Method as a Cognitive Te... | 144 |
 | 23 | [[Doxa]] | — | — | The Socratic Method as a Cognitive Te... | 146 |
 | 24 | [[Episteme]] | — | — | The Socratic Method as a Cognitive Te... | 146 |
-| 25 | [[Aporia]] | — | — | The Socratic Method as a Cognitive Te... | 152 |
-| 26 | [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] | — | — | The Socratic Method as a Cognitive Te... | 155 |
+| 25 | [[aporia]] | — | — | The Socratic Method as a Cognitive Te... | 152 |
+| 26 | [[cognitive-disequilibrium|Cognitive Disequilibrium]] | — | — | The Socratic Method as a Cognitive Te... | 155 |
 | 27 | [[Report 08 — Reflective Practice and Experiential Learning]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
-| 28 | [[Felt-Difficulty|Felt Difficulty]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
-| 29 | [[Felt-Difficulty|Felt Difficulty]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
+| 28 | [[felt-difficulty|Felt Difficulty]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
+| 29 | [[felt-difficulty|Felt Difficulty]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
 | 30 | [[warranted-assertibility|Warranted Assertibility]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 165 |
 | 31 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 168 |
-| 32 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 174 |
-| 33 | [[Generative-Learning|Generative Learning]] | — | — | Generative Learning and the Self-Expl... | 179 |
-| 34 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | Generative Learning and the Self-Expl... | 182 |
+| 32 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 174 |
+| 33 | [[generative-learning|Generative Learning]] | — | — | Generative Learning and the Self-Expl... | 179 |
+| 34 | [[self-explanation-effect|Self-Explanation Effect]] | — | — | Generative Learning and the Self-Expl... | 182 |
 | 35 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | Generative Learning and the Self-Expl... | 182 |
 | 36 | [[warranted-assertibility|Warranted Assertibility]] | — | — | Generative Learning and the Self-Expl... | 189 |
-| 37 | [[Productive-Failure|Productive Failure]] | — | — | The Evidence Landscape | 204 |
-| 38 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 204 |
-| 39 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | The Elaborative Interrogation Evidenc... | 212 |
+| 37 | [[productive-failure|Productive Failure]] | — | — | The Evidence Landscape | 204 |
+| 38 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 204 |
+| 39 | [[self-explanation-effect|Self-Explanation Effect]] | — | — | The Elaborative Interrogation Evidenc... | 212 |
 | 40 | [[PBL]] | — | — | The Problem-Based Learning and Inquir... | 219 |
-| 41 | [[Productive-Failure|Productive Failure]] | — | — | The Productive Failure Research | 225 |
-| 42 | [[Aporia]] | — | — | The Productive Failure Research | 225 |
-| 43 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Productive Tension: Inquiry-Based... | 232 |
+| 41 | [[productive-failure|Productive Failure]] | — | — | The Productive Failure Research | 225 |
+| 42 | [[aporia]] | — | — | The Productive Failure Research | 225 |
+| 43 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Productive Tension: Inquiry-Based... | 232 |
 | 44 | [[Report 02 — The Architecture of Learning]] | — | — | The Productive Tension: Inquiry-Based... | 232 |
 | 45 | [[Report 10 — Scaffolding and Fading]] | — | — | The Productive Tension: Inquiry-Based... | 235 |
 | 46 | [[Socratic Seminars]] | — | — | The Social Dimension: Inquiry as Dial... | 241 |
 | 47 | [[Steel-Manning]] | — | — | The Social Dimension: Inquiry as Dial... | 243 |
 | 48 | [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] | — | — | The Aporia-to-Schema Pipeline | 262 |
-| 49 | [[Felt-Difficulty|Felt Difficulty]] | — | — | The Aporia-to-Schema Pipeline | 266 |
-| 50 | [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] | — | — | The Aporia-to-Schema Pipeline | 266 |
+| 49 | [[felt-difficulty|Felt Difficulty]] | — | — | The Aporia-to-Schema Pipeline | 266 |
+| 50 | [[cognitive-disequilibrium|Cognitive Disequilibrium]] | — | — | The Aporia-to-Schema Pipeline | 266 |
 | 51 | [[warranted-assertibility|Warranted Assertibility]] | — | — | The Aporia-to-Schema Pipeline | 270 |
 | 52 | [[Dialectical-Thinking|Dialectical Thinking]] | — | — | The Dialectical Dynamics of Inquiry-B... | 279 |
 | 53 | [[Curiosity-Driven Knowledge Graph]] | — | — | The Curiosity-Driven Knowledge Graph | 286 |
 | 54 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Curiosity-Driven Knowledge Graph | 291 |
 | 55 | [[Report 04 — Metacognitive Self-Regulation]] | — | — | The Curiosity-Driven Knowledge Graph | 291 |
-| 56 | [[Aporia]] | — | — | The Return-and-Deepen: Aporia Revisit... | 295 |
+| 56 | [[aporia]] | — | — | The Return-and-Deepen: Aporia Revisit... | 295 |
 | 57 | [[Inquiry-Node|Inquiry Node]] | — | — | The Inquiry Node: Redesigning the Bas... | 319 |
 | 58 | [[Inquiry Trails]] | — | — | Inquiry Trails: Linking Nodes Into Le... | 369 |
 | 59 | [[Node-01-Opening-Question]] | — | — | Inquiry Trails: Linking Nodes Into Le... | 385 |
@@ -803,14 +803,14 @@ extraction_summary:
 | 72 | [[Report 05 — Motivation Architecture]] | — | — | Unresolved Questions | 533 |
 | 73 | [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
 | 74 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
-| 75 | [[Aporia]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
+| 75 | [[aporia]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
 | 76 | [[Socratic-Method-Elenchus|Socratic Method]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
 | 77 | [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
 | 78 | [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
-| 79 | [[Felt-Difficulty|Felt Difficulty]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
+| 79 | [[felt-difficulty|Felt Difficulty]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
 | 80 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
 | 81 | [[03-constructing-understanding-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 546 |
-| 82 | [[Constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 546 |
+| 82 | [[constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 546 |
 | 83 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 546 |
 | 84 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
 | 85 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
@@ -973,35 +973,35 @@ extraction_summary:
 - [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]
 - [[10-scaffolding-and-fading-pkm-framework-2026-03-14]]
 - [[11-transfer-problem-pkm-framework-2026-03-14]]
-- [[Aporia]]
+- [[aporia]]
 - [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]
 - [[Child-Inquiry-Node]]
-- [[Cognitive-Disequilibrium|Cognitive Disequilibrium]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-disequilibrium|Cognitive Disequilibrium]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Competing-View-Note]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
-- [[Critical-Thinking|Critical Thinking]]
+- [[critical-thinking|Critical Thinking]]
 - [[Curiosity-Driven Knowledge Graph]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dewey-Inquiry-Model|Dewey Inquiry Model]]
 - [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
 - [[Dewey's Inquiry Model]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
 - [[Doxa]]
-- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[dual-process-theory|Dual-Process Theory]]
 - [[Earlier-Position-Note]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[elaborative-interrogation|Elaborative Interrogation]]
 - [[Socratic-Method-Elenchus|Elenchus]]
 - [[Episteme]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[epistemic-vigilance|Epistemic Vigilance]]
 - [[Epistemology of Questions: What Makes a Good Inquiry Question]]
 - [[Evidence-Note]]
-- [[Felt-Difficulty|Felt Difficulty]]
-- [[Generative-Learning|Generative Learning]]
+- [[felt-difficulty|Felt Difficulty]]
+- [[generative-learning|Generative Learning]]
 - [[Inquiry-Node|Inquiry Node]]
 - [[Inquiry Trails]]
 - [[Inquiry-Based Learning and Transfer: Closing the Loop with Report 11]]
@@ -1017,7 +1017,7 @@ extraction_summary:
 - [[PBL]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Prior-Understanding-Note]]
-- [[Productive-Failure|Productive Failure]]
+- [[productive-failure|Productive Failure]]
 - [[Productive Failure and PKB Revision Practices]]
 - [[Report 02 — The Architecture of Learning]]
 - [[Report 04 — Metacognitive Self-Regulation]]
@@ -1031,10 +1031,10 @@ extraction_summary:
 - [[Report 18 — Calibration and Epistemic Humility]]
 - [[Report 21 — Dialectical Knowledge Building]]
 - [[Report 21 — Dialectical Knowledge Building: Synthesis Through Productive Disagreement]]
-- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[self-explanation-effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic-Questioning]]
+- [[socratic-questioning]]
 - [[Socratic Seminar Adaptation for Solo PKM Practice]]
 - [[Socratic Seminars]]
 - [[Steel-Manning]]
@@ -1055,31 +1055,31 @@ extraction_summary:
 
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic-Method-Elenchus|Elenchus]]
-- [[Aporia]]
+- [[aporia]]
 - [[Dewey-Inquiry-Model|Dewey Inquiry Model]]
-- [[Felt-Difficulty|Felt Difficulty]]
+- [[felt-difficulty|Felt Difficulty]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
 - [[Problem-Based Learning]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Generative-Learning|Generative Learning]]
+- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[generative-learning|Generative Learning]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
 - [[Question-Based Note Architecture]]
 - [[Inquiry-Trail|Inquiry Trail]]
 - [[Dialectical Linking]]
 - [[Assumption Surfacing]]
-- [[Intellectual-Humility|Intellectual Humility]]
+- [[intellectual-humility|Intellectual Humility]]
 - [[warranted-assertibility|Warranted Assertibility]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
-- [[Inquiry-Based-Learning]]
-- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[inquiry-based-learning]]
+- [[self-explanation-effect|Self-Explanation Effect]]
 - [[Maieutic Method]]
 - [[Inquiry-Node|Inquiry Node]]
-- [[Productive-Failure|Productive Failure]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Generative-Processing]]
+- [[productive-failure|Productive Failure]]
+- [[desirable-difficulties|Desirable Difficulties]]
+- [[generative-processing]]
 - [[epistemic-curiosity]]
 - [[Schema Disequilibrium]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[PKM Workflow Design]]
 - [[Inquiry-First PKB Architecture]]
 - [[Dialectical Knowledge Graph]]

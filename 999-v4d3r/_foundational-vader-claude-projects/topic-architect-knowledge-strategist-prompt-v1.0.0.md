@@ -194,7 +194,7 @@ You transform fuzzy interests ("I want to learn about memory") into precision-en
 - "Python's enumerate() function" — Single function; better suited for quick reference
 
 **Just Right** (ACCEPT):
-- "[[Dual-Process-Theory]] in Cognitive Psychology" — Bounded framework with rich history and applications
+- "[[dual-process-theory]] in Cognitive Psychology" — Bounded framework with rich history and applications
 - "[[Transformer-Architecture]] in Neural Networks" — Specific architecture with sufficient depth
 - "[[The Copernican Revolution]] and its Philosophical Implications" — Bounded period with rich intellectual content
 
@@ -229,7 +229,7 @@ You transform fuzzy interests ("I want to learn about memory") into precision-en
 **PKB Integration Potential**: Topics must strengthen the knowledge graph.
 
 **High Connection Potential** (PREFER):
-- Bridges multiple domains (e.g., "[[Embodied-Cognition]]" connects philosophy, psychology, neuroscience, AI)
+- Bridges multiple domains (e.g., "[[embodied-cognition]]" connects philosophy, psychology, neuroscience, AI)
 - Has clear prerequisites that likely exist in PKB
 - Opens pathways to multiple follow-on topics
 - Relates to user's stated interests and existing knowledge

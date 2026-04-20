@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,26 +73,26 @@ narrower:
   []
 
 see-also:
-  - "[[Zimmerman-SRL-Model]]"
-  - "[[Barry-Zimmerman]]"
-  - "[[Zimmerman's-Three-Phase-SRL-Cycle]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
-  - "[[Self-Efficacy]]"
-  - "[[Social-Cognitive-Theory-—-Bandura]]"
-  - "[[Attribution-Theory]]"
-  - "[[Mastery-Goal-Orientation]]"
-  - "[[Mastery-Orientation-vs.-Helpless-Orientation]]"
-  - "[[Zimmerman's-Cyclical-SRL-Model]]"
-  - "[[Growth-Mindset]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Control-Value-Theory]]"
-  - "[[Single-Loop-Learning-vs.-Double-Loop-Learning]]"
+  - "[[zimmerman-srl-model|Zimmerman-SRL-Model]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[winne-hadwins-metacognitive-processing-model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[social-cognitive-theory-bandura|Social-Cognitive-Theory-—-Bandura]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[mastery-goal-orientation|Mastery-Goal-Orientation]]"
+  - "[[mastery-orientation-vs.-helpless-orientation|Mastery-Orientation-vs.-Helpless-Orientation]]"
+  - "[[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[Control-Value-Theory|Control-Value-Theory]]"
+  - "[[single-loop-learning-vs.-double-loop-learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]"
   - "[[metacognition-in-learning-focused-analysis-2026-03-20]]"
   - "[[self-determination-theory-focused-analysis-2026-03-19]]"
   - "[[sdt-srl-comparative-synthesis-2026-03-19]]"
-  - "[[Growth-Mindset]]"
+  - "[[growth-mindset|Growth-Mindset]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +104,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Attribution-Retraining-—-Interventions-in-Educational-Practice-Attri|> [!topic-idea] [[Attribution-Retraining]] — Interventions in Educational Practice
+  - topic: "[[> [!topic-idea] [[attribution-retraining]] — Interventions in Educational Practice
 > Attribution ret]]"
     description: ""
     priority: medium
@@ -253,22 +253,22 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*:
-- [[Single-Loop-Learning-vs.-Double-Loop-Learning]]
+- [[single-loop-learning-vs.-double-loop-learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]
 
 **Cross-report connections** *(from [[zimmerman-srl-focused-analysis-2026-03-22]])*:
 - [[metacognition-in-learning-focused-analysis-2026-03-20]]
 - [[self-determination-theory-focused-analysis-2026-03-19]]
 - [[sdt-srl-comparative-synthesis-2026-03-19]]
-- [[Growth-Mindset]]
-- [[Attribution-Theory]]
-- [[Metacognition-and-Self-Regulated-Learning]]
-- [[Deliberate-Practice]]
-- [[Feedback-Design-for-Autonomy-and-Mastery]]
+- [[growth-mindset|Growth-Mindset]]
+- [[attribution-theory|Attribution-Theory]]
+- [[metacognition-and-self-regulated-learning|Metacognition-and-Self-Regulated-Learning]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]]
 - [[self-regulated-learning-focused-analysis-2026-03-06]]
 - [[metacognitive-scaffolding-focused-analysis-2026-03-20]]
 
 **Related concepts:**
-[[Zimmerman-SRL-Model]] · [[Barry-Zimmerman]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[Personal-Knowledge-Base]] · [[Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[Self-Efficacy]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Attribution-Theory]] · [[Mastery-Goal-Orientation]] · [[Mastery-Orientation-vs.-Helpless-Orientation]] · [[Zimmerman's-Cyclical-SRL-Model]] · [[Growth-Mindset]] · [[Metacognitive-Monitoring]] · [[Personal-Knowledge-Base]] · [[Control-Value-Theory]] · [[Single-Loop-Learning-vs.-Double-Loop-Learning]] · [[metacognition-in-learning-focused-analysis-2026-03-20]] · [[self-determination-theory-focused-analysis-2026-03-19]] · [[sdt-srl-comparative-synthesis-2026-03-19]] · [[Growth-Mindset]] · [[Attribution-Theory]] · [[Metacognition-and-Self-Regulated-Learning]] · [[Deliberate-Practice]] · [[Feedback-Design-for-Autonomy-and-Mastery]] · [[self-regulated-learning-focused-analysis-2026-03-06]] · [[metacognitive-scaffolding-focused-analysis-2026-03-20]] · [[Attribution-Retraining]] · [[Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[Mastery-Orientation-vs.-Helpless-Orientation]] · [[Single-Loop-Learning-vs.-Double-Loop-Learning]]
+[[zimmerman-srl-model|Zimmerman-SRL-Model]] · [[barry-zimmerman|Barry-Zimmerman]] · [[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[winne-hadwins-metacognitive-processing-model|Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[self-efficacy|Self-Efficacy]] · [[social-cognitive-theory-bandura|Social-Cognitive-Theory-—-Bandura]] · [[attribution-theory|Attribution-Theory]] · [[mastery-goal-orientation|Mastery-Goal-Orientation]] · [[mastery-orientation-vs.-helpless-orientation|Mastery-Orientation-vs.-Helpless-Orientation]] · [[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]] · [[growth-mindset|Growth-Mindset]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[Control-Value-Theory|Control-Value-Theory]] · [[single-loop-learning-vs.-double-loop-learning|Single-Loop-Learning-vs.-Double-Loop-Learning]] · [[metacognition-in-learning-focused-analysis-2026-03-20]] · [[self-determination-theory-focused-analysis-2026-03-19]] · [[sdt-srl-comparative-synthesis-2026-03-19]] · [[growth-mindset|Growth-Mindset]] · [[attribution-theory|Attribution-Theory]] · [[metacognition-and-self-regulated-learning|Metacognition-and-Self-Regulated-Learning]] · [[deliberate-practice|Deliberate-Practice]] · [[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]] · [[self-regulated-learning-focused-analysis-2026-03-06]] · [[metacognitive-scaffolding-focused-analysis-2026-03-20]] · [[attribution-retraining|Attribution-Retraining]] · [[winne-hadwins-metacognitive-processing-model|Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[mastery-orientation-vs.-helpless-orientation|Mastery-Orientation-vs.-Helpless-Orientation]] · [[single-loop-learning-vs.-double-loop-learning|Single-Loop-Learning-vs.-Double-Loop-Learning]]
 
 ## References
 

@@ -35,11 +35,11 @@ aliases: [GTD System, Getting Things Done, David Allen Method, GTD Methodology, 
 > - **Generated**:: 2025-11-14
 > - **Version**:: 1.0
 > - **Type**:: Reference Documentation
-> - **Author**:: David Allen (Methodology), Adapted for [[Obsidian]] [[PKB]] Implementation
+> - **Author**:: David Allen (Methodology), Adapted for [[obsidian]] [[PKB]] Implementation
 
 > [!abstract]
 > **Executive Overview**
-> Getting Things Done is a personal productivity methodology developed by David Allen that transforms overwhelming task loads into stress-free productivity by capturing all commitments in a trusted external system and breaking them into clear, actionable steps. The system operates on the principle that "there is an inverse relationship between things on your mind and those things getting done," enabling practitioners to achieve what Allen calls "[[Mind Like Water]]"—a state of relaxed focus where you respond appropriately to inputs without mental clutter. This reference note provides exhaustive coverage of [[GTD]] principles, implementation strategies, and specialized guidance for deploying the system within an [[Obsidian]]-based [[Personal-Knowledge-Base]].
+> Getting Things Done is a personal productivity methodology developed by David Allen that transforms overwhelming task loads into stress-free productivity by capturing all commitments in a trusted external system and breaking them into clear, actionable steps. The system operates on the principle that "there is an inverse relationship between things on your mind and those things getting done," enabling practitioners to achieve what Allen calls "[[Mind Like Water]]"—a state of relaxed focus where you respond appropriately to inputs without mental clutter. This reference note provides exhaustive coverage of [[GTD]] principles, implementation strategies, and specialized guidance for deploying the system within an [[obsidian]]-based [[personal-knowledge-base]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -75,11 +75,11 @@ The GTD methodology emerged from David Allen's recognition that the human brain 
 
 The methodology addresses what Allen identifies as the fundamental productivity challenge of the information age: the overwhelming volume of inputs arriving through multiple channels—emails, texts, messages, articles, verbal requests, personal commitments, and professional obligations—each demanding attention and action decisions.
 
-Allen's core claim is that stress can be reduced and productivity increased by putting reminders about everything you're not working on into a trusted system external to your mind, allowing you to work on the task at hand without distraction from "incompletes." This externaliz ation creates what [[cognitive-psychology]] terms "[[Cognitive-Offloading]]"—the strategic use of external tools to reduce the computational demands on [[Working-Memory]].
+Allen's core claim is that stress can be reduced and productivity increased by putting reminders about everything you're not working on into a trusted system external to your mind, allowing you to work on the task at hand without distraction from "incompletes." This externaliz ation creates what [[cognitive-psychology]] terms "[[cognitive-offloading]]"—the strategic use of external tools to reduce the computational demands on [[working-memory]].
 
 The GTD framework distinguishes itself from traditional [[time management]] approaches through several key innovations:
 
-**System Over Tools**: GTD doesn't require specific tools, apps, or products—Allen doesn't even advocate for digital over analog systems. The methodology is tool-agnostic, prioritizing systematic behavior over technological solutions. This flexibility allows practitioners to implement GTD in virtually any environment, from paper notebooks to sophisticated digital platforms like [[Obsidian]].
+**System Over Tools**: GTD doesn't require specific tools, apps, or products—Allen doesn't even advocate for digital over analog systems. The methodology is tool-agnostic, prioritizing systematic behavior over technological solutions. This flexibility allows practitioners to implement GTD in virtually any environment, from paper notebooks to sophisticated digital platforms like [[obsidian]].
 
 **Bottom-Up Approach**: Unlike top-down planning methodologies that begin with grand vision and cascade downward, GTD works in reverse—establishing control over day-to-day inputs first, then progressively building toward higher-level planning. Allen argues that individuals struggle to focus on big-picture goals when they cannot sufficiently control daily tasks they frequently face.
 
@@ -102,7 +102,7 @@ Achieving [[Mind Like Water]] requires:
 3. **Regular Review**: Systematic engagement with the external system to maintain trust
 4. **Appropriate Response**: Action selection based on context, time, energy, and priority
 
-This state enables what [[Flow-Theory]] describes as optimal experience—engagement with tasks without the friction of competing mental demands or the anxiety of potentially forgotten commitments.
+This state enables what [[flow-theory]] describes as optimal experience—engagement with tasks without the friction of competing mental demands or the anxiety of potentially forgotten commitments.
 
 ### Natural Planning Model
 
@@ -431,7 +431,7 @@ Non-actionable information supporting current or future work:
 - Contact information databases
 - Ideas and inspirations
 
-**Obsidian Integration**: Reference materials integrate seamlessly with [[PKB]] structure through [[Zettelkasten]] principles, creating bidirectional links between GTD action items and knowledge notes.
+**Obsidian Integration**: Reference materials integrate seamlessly with [[PKB]] structure through [[zettelkasten]] principles, creating bidirectional links between GTD action items and knowledge notes.
 
 ### Tickler System (43 Folders)
 
@@ -978,7 +978,7 @@ This meta-work maintains system integrity and prevents the degradation that occu
 
 > [!what-this-does]
 > **Obsidian as GTD Platform**
-> [[Obsidian]]'s plain-text [[Markdown]] foundation, robust plugin ecosystem, and bidirectional linking capabilities make it exceptionally suited for GTD implementation, particularly when integrated with broader [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] workflows.
+> [[obsidian]]'s plain-text [[Markdown]] foundation, robust plugin ecosystem, and bidirectional linking capabilities make it exceptionally suited for GTD implementation, particularly when integrated with broader [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] workflows.
 
 ### Core Folder Structure
 
@@ -1912,7 +1912,7 @@ This concept informs:
 - [ ] Research Stoic journaling methods @computer
 
 ## Connections
-↔ [[Cognitive-Behavioral-Therapy]] - similar dichotomy of control
+↔ [[cognitive-behavioral-therapy]] - similar dichotomy of control
 ↔ [[Acceptance-and-Commitment-Therapy]] - acceptance of uncontrollables
 ↔ [[Locus of Control Psychology]] - internal vs external orientation
 ```
@@ -2079,7 +2079,7 @@ SORT file.ctime DESC
 
 ### Planning Systems
 - [[Horizons of Focus Framework]]
-- [[PARA-Method]]
+- [[para-method]]
 - [[12 Week Year Methodology]]
 
 ## Atomic Concepts
@@ -3175,7 +3175,7 @@ GTD mastery requires both dimensions:
 4. **[[Weekly Review as Meta-Skill - Applications Beyond GTD]]**
    - *Connection*: The weekly review ritual represents broader principle of systematic reflection and recalibration applicable to any pursuit
    - *Depth Potential*: Review across domains (relationships, health, learning, business), review psychology research, designing domain-specific review protocols, cultural practices of reflection
-   - *Knowledge Graph Role*: Links [[productivity]], [[Metacognition]], [[Habit-Formation]], [[Self-Regulated-Learning]], [[Reflective-Practice]]
+   - *Knowledge Graph Role*: Links [[productivity]], [[metacognition]], [[habit-formation]], [[self-regulated-learning]], [[reflective-practice]]
 
 ```
 <thinking>
@@ -3201,8 +3201,8 @@ Information Architecture:
 └── Advanced Applications
 
 Wiki-Link Opportunities:
-- [[Personal-Knowledge-Management]]
-- [[Obsidian]]
+- [[personal-knowledge-management]]
+- [[obsidian]]
 - [[Workflow Design]]
 - [[Task-Management]]
 - [[Reference System]]

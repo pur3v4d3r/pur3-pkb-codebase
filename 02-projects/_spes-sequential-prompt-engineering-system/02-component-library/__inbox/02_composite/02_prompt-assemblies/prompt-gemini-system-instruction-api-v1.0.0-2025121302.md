@@ -6,7 +6,7 @@ version: "1.0.0"
 rating: "0.0"
 source: "claude-opus-4.1"
 title: "System Prompt Architecture: Gemini 2.5 Pro PKB Specialist Configuration"
-description: "This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal-Knowledge-Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional-AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture."
+description: "This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[personal-knowledge-management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional-AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture."
 key-takeaway: "REACT Framework, and other useful techniques have been applied."
 last-used: "[[2025-12-13]]"
 tags:
@@ -145,7 +145,7 @@ aliases: [Gemini PKB System Prompt, Gemini 2.5 Obsidian Configuration, Cross-Mod
 # System Prompt Architecture: Gemini 2.5 Pro PKB Specialist Configuration
 
 > [!abstract] Executive Summary
-> This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal-Knowledge-Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional-AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture.
+> This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[personal-knowledge-management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional-AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot-Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture.
 
 ---
 
@@ -532,12 +532,12 @@ aliases:
 # Cognitive Load Theory
 
 > [!definition] Core Definition
-> [**Cognitive-Load-Theory**:: a framework developed by [[John-Sweller]] asserting that [[Working-Memory]] has strict capacity limitations, and that learning is optimized when instructional design manages total cognitive demands to prevent overload while maximizing productive mental effort.]
+> [**Cognitive-Load-Theory**:: a framework developed by [[john-sweller]] asserting that [[working-memory]] has strict capacity limitations, and that learning is optimized when instructional design manages total cognitive demands to prevent overload while maximizing productive mental effort.]
 
-[[Cognitive-Load-Theory]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[Working-Memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
+[[cognitive-load-theory]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[working-memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
 
 > [!principle-point] The Central Proposition
-> Learning occurs when information successfully transfers from working memory to [[Long-Term-Memory]] through the construction of [[schemas]]—organized knowledge structures that can later be retrieved as single units, effectively bypassing working memory limitations.
+> Learning occurs when information successfully transfers from working memory to [[long-term-memory]] through the construction of [[schemas]]—organized knowledge structures that can later be retrieved as single units, effectively bypassing working memory limitations.
 
 ## The Tripartite Load Model
 
@@ -557,10 +557,10 @@ CLT distinguishes three types of cognitive load that compete for limited working
 > [!methodology-and-sources] Design Strategies Derived from CLT
 > Several evidence-based techniques emerge from CLT principles:
 > 
-> - **[[Worked-Example-Effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
-> - **[[Split-Attention-Effect]]**: Integrate related information sources physically rather than requiring mental integration
-> - **[[Redundancy-Effect]]**: Eliminate duplicate information streams (e.g., identical text and narration)
-> - **[[Expertise-Reversal-Effect]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
+> - **[[worked-example-effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
+> - **[[split-attention-effect]]**: Integrate related information sources physically rather than requiring mental integration
+> - **[[redundancy-effect]]**: Eliminate duplicate information streams (e.g., identical text and narration)
+> - **[[expertise-reversal-effect]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
 
 > [!warning] Common Misconception
 > [**CLT-Misconception**:: Cognitive Load Theory does NOT advocate for making learning "easy"—it advocates for directing cognitive effort toward productive schema construction rather than wasting it on poorly designed instruction.]
@@ -574,17 +574,17 @@ CLT distinguishes three types of cognitive load that compete for limited working
    - *Depth Potential*: Baddeley's model, Cowan's embedded processes, capacity debates
    - *Knowledge Graph Role*: Foundational cognitive architecture node linking to all learning theories
 
-2. **[[Schema-Theory]]**
+2. **[[schema-theory]]**
    - *Connection*: Schemas are the mechanism through which CLT explains learning and expertise
    - *Depth Potential*: Schema acquisition, automation, and their role in expert performance
    - *Knowledge Graph Role*: Bridge between cognitive psychology and instructional design
 
-3. **[[Expertise-Reversal-Effect]]**
+3. **[[expertise-reversal-effect]]**
    - *Connection*: Critical CLT finding that optimal instruction varies by learner expertise
    - *Depth Potential*: Adaptive instruction design, learner assessment integration
    - *Knowledge Graph Role*: Key node for personalized learning system design
 
-4. **[[Element-Interactivity]]**
+4. **[[element-interactivity]]**
    - *Connection*: The construct that determines intrinsic cognitive load
    - *Depth Potential*: Measurement approaches, sequencing implications, complexity analysis
    - *Knowledge Graph Role*: Technical concept linking CLT to curriculum design decisions
@@ -866,12 +866,12 @@ aliases:
 # Cognitive Load Theory
 
 > [!definition] Core Definition
-> [**Cognitive-Load-Theory**:: a framework developed by [[John-Sweller]] asserting that [[Working-Memory]] has strict capacity limitations, and that learning is optimized when instructional design manages total cognitive demands to prevent overload while maximizing productive mental effort.]
+> [**Cognitive-Load-Theory**:: a framework developed by [[john-sweller]] asserting that [[working-memory]] has strict capacity limitations, and that learning is optimized when instructional design manages total cognitive demands to prevent overload while maximizing productive mental effort.]
 
-[[Cognitive-Load-Theory]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[Working-Memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
+[[cognitive-load-theory]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[working-memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
 
 > [!principle-point] The Central Proposition
-> Learning occurs when information successfully transfers from working memory to [[Long-Term-Memory]] through the construction of [[schemas]]—organized knowledge structures that can later be retrieved as single units, effectively bypassing working memory limitations.
+> Learning occurs when information successfully transfers from working memory to [[long-term-memory]] through the construction of [[schemas]]—organized knowledge structures that can later be retrieved as single units, effectively bypassing working memory limitations.
 
 ## The Tripartite Load Model
 
@@ -891,10 +891,10 @@ CLT distinguishes three types of cognitive load that compete for limited working
 > [!methodology-and-sources] Design Strategies Derived from CLT
 > Several evidence-based techniques emerge from CLT principles:
 > 
-> - **[[Worked-Example-Effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
-> - **[[Split-Attention-Effect]]**: Integrate related information sources physically rather than requiring mental integration
-> - **[[Redundancy-Effect]]**: Eliminate duplicate information streams (e.g., identical text and narration)
-> - **[[Expertise-Reversal-Effect]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
+> - **[[worked-example-effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
+> - **[[split-attention-effect]]**: Integrate related information sources physically rather than requiring mental integration
+> - **[[redundancy-effect]]**: Eliminate duplicate information streams (e.g., identical text and narration)
+> - **[[expertise-reversal-effect]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
 
 > [!warning] Common Misconception
 > [**CLT-Misconception**:: Cognitive Load Theory does NOT advocate for making learning "easy"—it advocates for directing cognitive effort toward productive schema construction rather than wasting it on poorly designed instruction.]
@@ -908,17 +908,17 @@ CLT distinguishes three types of cognitive load that compete for limited working
    - *Depth Potential*: Baddeley's model, Cowan's embedded processes, capacity debates
    - *Knowledge Graph Role*: Foundational cognitive architecture node linking to all learning theories
 
-2. **[[Schema-Theory]]**
+2. **[[schema-theory]]**
    - *Connection*: Schemas are the mechanism through which CLT explains learning and expertise
    - *Depth Potential*: Schema acquisition, automation, and their role in expert performance
    - *Knowledge Graph Role*: Bridge between cognitive psychology and instructional design
 
-3. **[[Expertise-Reversal-Effect]]**
+3. **[[expertise-reversal-effect]]**
    - *Connection*: Critical CLT finding that optimal instruction varies by learner expertise
    - *Depth Potential*: Adaptive instruction design, learner assessment integration
    - *Knowledge Graph Role*: Key node for personalized learning system design
 
-4. **[[Element-Interactivity]]**
+4. **[[element-interactivity]]**
    - *Connection*: The construct that determines intrinsic cognitive load
    - *Depth Potential*: Measurement approaches, sequencing implications, complexity analysis
    - *Knowledge Graph Role*: Technical concept linking CLT to curriculum design decisions

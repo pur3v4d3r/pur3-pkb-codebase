@@ -98,11 +98,11 @@ date modified: 2025-11-05T18:17:21
 
 > [!further-exploration]
 > Recommended continued study:
-> - [[Dual-Process-Theory]] (System 1 vs System 2 thinking) and its implications for when biases are most likely to operate undetected
+> - [[dual-process-theory]] (System 1 vs System 2 thinking) and its implications for when biases are most likely to operate undetected
 > - [[Epistemic Learned Helplessness]] and how exposure to sophisticated but flawed reasoning can damage metacognitive confidence
-> - [[Motivated-Reasoning]] and [[Identity-Protective Cognition]] as special cases where biases serve psychological functions that make them particularly resistant to correction
+> - [[motivated-reasoning]] and [[Identity-Protective Cognition]] as special cases where biases serve psychological functions that make them particularly resistant to correction
 > - [[Bayesian Updating]] and probabilistic thinking frameworks as formal alternatives to bias-prone intuitive reasoning
-> - [[Cognitive-Load-Theory]] and how working memory limitations create windows of vulnerability for biases and fallacies
+> - [[cognitive-load-theory]] and how working memory limitations create windows of vulnerability for biases and fallacies
 > - [[Adversarial Collaboration]] methodologies from scientific practice as models for personal bias-checking systems
 > - [[Prediction Markets]] and [[Forecasting Tournaments]] as empirical training grounds for calibration improvement.
 

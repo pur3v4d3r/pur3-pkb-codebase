@@ -5,6 +5,7 @@
 title: "Autonomy-Supportive Climate"
 aliases:
   - "Autonomy-Supportive Climate"
+  - "Autonomy-Supportive-Climate"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,54 +70,54 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Edward-Deci]]"
-  - "[[Richard-Ryan]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Perceived-Locus-of-Causality]]"
-  - "[[Organismic-Integration-Theory]]"
-  - "[[Causality-Orientations-Theory]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Edward-Deci]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Extrinsic-Motivation]]"
-  - "[[Autonomous-Motivation]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Free-Choice-Behaviour]]"
-  - "[[Overjustification-Effect]]"
-  - "[[Perceived-Locus-of-Causality]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[perceived-locus-of-causality|Perceived-Locus-of-Causality]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[causality-orientations-theory|Causality-Orientations-Theory]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[extrinsic-motivation|Extrinsic-Motivation]]"
+  - "[[autonomous-motivation|Autonomous-Motivation]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[free-choice-behaviour|Free-Choice-Behaviour]]"
+  - "[[overjustification-effect|Overjustification-Effect]]"
+  - "[[perceived-locus-of-causality|Perceived-Locus-of-Causality]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination-Theory]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Attribution-Theory]]"
-  - "[[Autonomy-Need]]"
-  - "[[Competence-Need]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[autonomy-need|Autonomy-Need]]"
+  - "[[competence-need|Competence-Need]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Organismic-Integration-Theory-—-Internalization-of-Extrinsic-Motivation-Descript|**[[Organismic-Integration-Theory]] — Internalization of Extrinsic Motivation**
+  - topic: "[[**[[Organismic-Integration-Theory]] — Internalization of Extrinsic Motivation**
 - *Description*: The]]"
     description: ""
     priority: medium
-  - topic: "[[Autonomy-Support-—-Implementing-Autonomy-Supportive-Environments-Description-A-f|**[[Autonomy-Support]] — Implementing Autonomy-Supportive Environments**
+  - topic: "[[**[[autonomy-support]] — Implementing Autonomy-Supportive Environments**
 - *Description*: A focused ]]"
     description: ""
     priority: medium
-  - topic: "[[Reward-Contingency-Types-—-A-Comprehensive-Analysis-Description-A-dedicated-trea|**[[Reward-Contingency-Types]] — A Comprehensive Analysis**
+  - topic: "[[**[[Reward-Contingency-Types]] — A Comprehensive Analysis**
 - *Description*: A dedicated treatment o]]"
     description: ""
     priority: medium
-  - topic: "[[Causality-Orientations-Theory-—-Individual-Differences-in-Functional-Significanc|**[[Causality-Orientations-Theory]] — Individual Differences in Functional Significance Interpretati]]"
+  - topic: "[[**[[Causality-Orientations-Theory]] — Individual Differences in Functional Significance Interpretati]]"
     description: ""
     priority: medium
 
@@ -135,7 +136,7 @@ importance: high
 > 
 > **Boundary:** Autonomy-supportive does not mean permissive or unstructured. High expectations, explicit standards, and performance feedback are all compatible with an autonomy-supportive interpersonal style when they are delivered with acknowledgment and rationale. The binary of "autonomy-supportive vs. controlling" applies to the relational style, not to the presence or absence of structure.
 > 
-> **See also:** [[Autonomy-Support]], [[Autonomy-Supportive-Teaching-and-Learning-Environments]], [[Autonomy-Supportive-Environment]], [[Controlling-Environment]]
+> **See also:** [[autonomy-support]], [[autonomy-supportive-teaching-and-learning-environments]], [[autonomy-supportive-environment]], [[controlling-environment]]
 
 ## Core Explanation
 
@@ -223,7 +224,7 @@ importance: high
 > **Relationship to Report:** Co-architect of the CET framework; responsible for…
 
 > [!person] **Mark Lepper (1944–)** *(from [[cognitive-evaluation-theory-foundational-report-2026-03-31]])*
-> Professor of Psychology at Stanford University. Conducted the landmark "Good Player" certificate study with David Greene and Richard Nisbett (1973), coining the [[Overjustification-Effect]] and establishing the attribution-theoretic interpretation of reward undermining effects. Continued work on intrinsic motivation in educational contexts, including research on intelligent tutoring systems and motivationally adaptive instruction.
+> Professor of Psychology at Stanford University. Conducted the landmark "Good Player" certificate study with David Greene and Richard Nisbett (1973), coining the [[overjustification-effect]] and establishing the attribution-theoretic interpretation of reward undermining effects. Continued work on intrinsic motivation in educational contexts, including research on intelligent tutoring systems and motivationally adaptive instruction.
 > 
 > **Lineage:** Influenced by Kelley's attribution theory and Brehm's reactance theory. Worked alongside Nisbett, whose social psychological framework provided the…
 
@@ -428,19 +429,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[cognitive-evaluation-theory-foundational-report-2026-03-31]])*:
-- [[Self-Determination-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
 - [[self-determination-theory-foundational-report-2026-03-11]]
-- [[Intrinsic-Motivation]]
-- [[Extrinsic-Motivation]]
-- [[Basic-Psychological-Needs-Theory]]
-- [[Attribution-Theory]]
-- [[Autonomy-Supportive-Teaching-and-Learning-Environments]]
-- [[Feedback-Design-for-Autonomy-and-Mastery]]
-- [[Organismic-Integration-Theory]]
-- [[Self-Regulated-Learning]]
+- [[intrinsic-motivation|Intrinsic-Motivation]]
+- [[extrinsic-motivation|Extrinsic-Motivation]]
+- [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]
+- [[attribution-theory|Attribution-Theory]]
+- [[autonomy-supportive-teaching-and-learning-environments|Autonomy-Supportive-Teaching-and-Learning-Environments]]
+- [[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[organismic-integration-theory|Organismic-Integration-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
 
 **Related concepts:**
-[[Cognitive-Evaluation-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Self-Determination-Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[Intrinsic-Motivation]] · [[Perceived-Locus-of-Causality]] · [[Organismic-Integration-Theory]] · [[Causality-Orientations-Theory]] · [[Basic-Psychological-Needs-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Edward-Deci]] · [[Intrinsic-Motivation]] · [[Extrinsic-Motivation]] · [[Autonomous-Motivation]] · [[Self-Determination-Theory]] · [[Intrinsic-Motivation]] · [[Free-Choice-Behaviour]] · [[Overjustification-Effect]] · [[Perceived-Locus-of-Causality]] · [[Locus-of-Control]] · [[Autonomy-Need]] · [[Autonomous-Motivation]] · [[Controlled-Motivation]] · [[Intrinsic-Motivation]] · [[External-Regulation]] · [[Competence-Need]] · [[Basic-Psychological-Needs-Theory]] · [[Self-Efficacy]] · [[Competence-Need]]
+[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[perceived-locus-of-causality|Perceived-Locus-of-Causality]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[causality-orientations-theory|Causality-Orientations-Theory]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[edward-deci|Edward-Deci]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[extrinsic-motivation|Extrinsic-Motivation]] · [[autonomous-motivation|Autonomous-Motivation]] · [[self-determination-theory|Self-Determination-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[free-choice-behaviour|Free-Choice-Behaviour]] · [[overjustification-effect|Overjustification-Effect]] · [[perceived-locus-of-causality|Perceived-Locus-of-Causality]] · [[locus-of-control|Locus-of-Control]] · [[autonomy-need|Autonomy-Need]] · [[autonomous-motivation|Autonomous-Motivation]] · [[controlled-motivation|Controlled-Motivation]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[external-regulation|External-Regulation]] · [[competence-need|Competence-Need]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[self-efficacy|Self-Efficacy]] · [[competence-need|Competence-Need]]
 
 ## References
 

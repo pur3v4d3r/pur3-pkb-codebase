@@ -70,13 +70,13 @@ builds_on:
 
 #### 1.1 Knowledge Representation
 
-- **[[Schema-Theory]]** — Knowledge is organized in structured mental templates (schemas) that filter, organize, and reconstruct incoming information. Schemas are hierarchically nested, contextually activated, and resistant to disconfirming evidence. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Assimilation]] — Integrating new information into existing schemas without structural change [Report 03]
-  - [[Accommodation]] — Restructuring existing schemas to incorporate fundamentally new information [Report 03]
-  - [[Conceptual-Change]] — Deep restructuring of domain-level schemas, requiring sustained cognitive conflict [Report 03]
+- **[[schema-theory]]** — Knowledge is organized in structured mental templates (schemas) that filter, organize, and reconstruct incoming information. Schemas are hierarchically nested, contextually activated, and resistant to disconfirming evidence. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[assimilation]] — Integrating new information into existing schemas without structural change [Report 03]
+  - [[accommodation]] — Restructuring existing schemas to incorporate fundamentally new information [Report 03]
+  - [[conceptual-change]] — Deep restructuring of domain-level schemas, requiring sustained cognitive conflict [Report 03]
 
-- **[[Semantic-Networks]]** — Knowledge representation as interconnected nodes (concepts) and labeled edges (relationships). [[Spreading-Activation]] propagates access from activated nodes along associative connections. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Spreading-Activation]] — Mechanism by which activating one concept makes associated concepts more accessible [Collins & Loftus 1975]
+- **[[Semantic-Networks]]** — Knowledge representation as interconnected nodes (concepts) and labeled edges (relationships). [[spreading-activation]] propagates access from activated nodes along associative connections. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[spreading-activation]] — Mechanism by which activating one concept makes associated concepts more accessible [Collins & Loftus 1975]
   - [[ACT-R]] — Anderson's production-system architecture implementing spreading activation in a computational cognitive model [Report 01]
 
 - **[[Prototype-Theory]]** — Categories are organized around "best examples" (prototypes) with graded membership, not classical necessary-and-sufficient conditions. [Source: Report 15, Rosch 1975] [Status: <span style='color: #27FF00;'>Established</span>]
@@ -84,27 +84,27 @@ builds_on:
 
 #### 1.2 Memory Systems
 
-- **[[Cognitive-Load-Theory]]** — Working memory is limited (~4 chunks); instructional design must manage intrinsic load (inherent complexity), minimize extraneous load (poor design), and optimize germane load (schema construction effort). [Source: Report 02, Sweller 1988] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[cognitive-load-theory]]** — Working memory is limited (~4 chunks); instructional design must manage intrinsic load (inherent complexity), minimize extraneous load (poor design), and optimize germane load (schema construction effort). [Source: Report 02, Sweller 1988] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Intrinsic-Load]] — Cognitive demand inherent in the material's element interactivity [Report 02]
-  - [[Extraneous-Load]] — Cognitive demand caused by poor design, not content complexity [Report 02]
-  - [[Germane-Load]] — Cognitive resources devoted to schema construction and automation [Report 02]
+  - [[extraneous-load]] — Cognitive demand caused by poor design, not content complexity [Report 02]
+  - [[germane-load]] — Cognitive resources devoted to schema construction and automation [Report 02]
 
 - **[[Testing-Effect]]** — Retrieving information from memory strengthens that memory more than restudying the same information. Meta-analytic effect size d = 0.50 (Rowland 2014). [Source: Report 06, 20] [Status: <span style='color: #27FF00;'>Established</span>]
 
-- **[[Spacing-Effect]]** — Distributing practice over time produces substantially better retention than massing practice. Rated "high utility" alongside practice testing (Dunlosky et al. 2013). [Source: Report 06, 16] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[spacing-effect]]** — Distributing practice over time produces substantially better retention than massing practice. Rated "high utility" alongside practice testing (Dunlosky et al. 2013). [Source: Report 06, 16] [Status: <span style='color: #27FF00;'>Established</span>]
 
-- **[[Desirable-Difficulties]]** — Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: testing, spacing, interleaving, generation. [Source: Report 16, Bjork 1994] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Generation-Effect]] — Self-generating information produces stronger memory traces than reading [Report 16, 17]
+- **[[desirable-difficulties]]** — Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: testing, spacing, interleaving, generation. [Source: Report 16, Bjork 1994] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[generation-effect]] — Self-generating information produces stronger memory traces than reading [Report 16, 17]
   - [[interleaving]] — Alternating between problem types during practice enhances discriminative contrast and transfer [Report 16]
-  - [[Retrieval-Practice]] — Systematic practice of pulling information from memory rather than re-exposing to it [Report 20]
+  - [[retrieval-practice]] — Systematic practice of pulling information from memory rather than re-exposing to it [Report 20]
 
-- **[[Fluency-Illusion]]** — Metacognitive error where ease of processing is mistaken for genuine understanding. Universal PKM failure mode amplified by AI-generated content. [Source: Report 18, 30] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[fluency-illusion]]** — Metacognitive error where ease of processing is mistaken for genuine understanding. Universal PKM failure mode amplified by AI-generated content. [Source: Report 18, 30] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Epistemic Counterfeiting]] — AI-generated text triggers fluency illusion in both creator and reader, producing the appearance of knowledge without substance [Report 30] [Status: <span style='color: #FFC700;'>Emerging synthesis</span>]
 
 #### 1.3 Expert Knowledge Organization
 
 - **[[Expert-Knowledge-Organization]]** — Expert knowledge differs from novice knowledge qualitatively, not just quantitatively: hierarchically deeper, more cross-connected, organized around structural principles rather than surface features. [Source: Report 01, 15] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Chunking]] — Experts compress complex patterns into single retrievable units through extensive practice [Report 01]
+  - [[chunking]] — Experts compress complex patterns into single retrievable units through extensive practice [Report 01]
   - [[Pattern-Recognition]] — Experts perceive domain-relevant patterns invisible to novices [Report 01]
 
 ---
@@ -113,33 +113,33 @@ builds_on:
 
 #### 2.1 Constructivist Foundations
 
-- **[[Constructivism]]** — Knowledge is actively constructed by the learner through interaction with the environment, not passively received or transmitted. [Source: Report 03] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Cognitive-Constructivism]] — Individual construction through schema development (Piaget) [Report 03]
-  - [[Social-Constructivism]] — Knowledge co-constructed through social interaction (Vygotsky) [Report 03]
-  - [[Zone-of-Proximal-Development]] — The gap between independent capability and guided capability; learning optimally targets this zone [Vygotsky, Report 10]
+- **[[constructivism]]** — Knowledge is actively constructed by the learner through interaction with the environment, not passively received or transmitted. [Source: Report 03] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[cognitive-constructivism]] — Individual construction through schema development (Piaget) [Report 03]
+  - [[social-constructivism]] — Knowledge co-constructed through social interaction (Vygotsky) [Report 03]
+  - [[zone-of-proximal-development]] — The gap between independent capability and guided capability; learning optimally targets this zone [Vygotsky, Report 10]
 
 - **[[Scaffolding and Fading]]** — Providing structured support that is systematically withdrawn as competence develops. [Source: Report 10] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Expertise-Reversal-Effect]] — Instructional support beneficial for novices becomes counterproductive for experts [Report 10]
+  - [[expertise-reversal-effect]] — Instructional support beneficial for novices becomes counterproductive for experts [Report 10]
 
 #### 2.2 Self-Regulation & Metacognition
 
-- **[[Self-Regulated-Learning]]** — Three-phase cyclical process: forethought → performance → self-reflection, operating across cognitive, metacognitive, motivational, and behavioral dimensions. [Source: Report 04, Zimmerman 2002] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Metacognitive-Monitoring]] — Ongoing assessment of one's own comprehension, learning progress, and cognitive processes [Report 12]
-  - [[Calibration]] — Alignment between confidence in one's knowledge and actual knowledge accuracy [Report 18]
-  - [[Dunning-Kruger-Effect]] — Systematic miscalibration where low competence produces overconfidence and high competence produces underconfidence [Report 18]
+- **[[self-regulated-learning]]** — Three-phase cyclical process: forethought → performance → self-reflection, operating across cognitive, metacognitive, motivational, and behavioral dimensions. [Source: Report 04, Zimmerman 2002] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[metacognitive-monitoring]] — Ongoing assessment of one's own comprehension, learning progress, and cognitive processes [Report 12]
+  - [[calibration]] — Alignment between confidence in one's knowledge and actual knowledge accuracy [Report 18]
+  - [[dunning-kruger-effect]] — Systematic miscalibration where low competence produces overconfidence and high competence produces underconfidence [Report 18]
 
-- **[[Reflective-Practice]]** — Deliberate examination of experience to extract learning and guide future action. [Source: Report 08, 12]
+- **[[reflective-practice]]** — Deliberate examination of experience to extract learning and guide future action. [Source: Report 08, 12]
   - [[Dewey's-Reflective-Inquiry]] — Problem-initiated, systematic investigation moving from felt difficulty through hypothesis to tested conclusion [Report 08]
   - [[Kolb's Learning Cycle]] — Concrete Experience → Reflective Observation → Abstract Conceptualization → Active Experimentation [Report 08]
 
 #### 2.3 Motivation & Self-Determination
 
-- **[[Self-Determination-Theory]]** — Intrinsic motivation requires satisfaction of three basic psychological needs: autonomy, competence, and relatedness. [Source: Report 05, Deci & Ryan] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Autonomy]] — Need for volitional control over one's actions and choices [Report 05, 24]
-  - [[Competence]] — Need for efficacy and mastery [Report 05]
-  - [[Relatedness]] — Need for social connection and belonging [Report 05]
+- **[[self-determination-theory]]** — Intrinsic motivation requires satisfaction of three basic psychological needs: autonomy, competence, and relatedness. [Source: Report 05, Deci & Ryan] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[autonomy]] — Need for volitional control over one's actions and choices [Report 05, 24]
+  - [[competence]] — Need for efficacy and mastery [Report 05]
+  - [[relatedness]] — Need for social connection and belonging [Report 05]
 
-- **[[Heutagogy]]** — Self-determined learning where the learner controls not just pace and sequence but also curriculum and methodology. The highest point on the [[Pedagogy-Andragogy-Heutagogy Continuum]]. [Source: Report 24, Hase & Kenyon] [Status: <span style='color: #FFC700;'>Emerging</span>]
+- **[[heutagogy]]** — Self-determined learning where the learner controls not just pace and sequence but also curriculum and methodology. The highest point on the [[Pedagogy-Andragogy-Heutagogy Continuum]]. [Source: Report 24, Hase & Kenyon] [Status: <span style='color: #FFC700;'>Emerging</span>]
 
 - **[[Interest-Development-Theory]]** — Interest progresses through four phases: triggered situational → maintained situational → emerging individual → well-developed individual. [Source: Report 19] [Status: <span style='color: #27FF00;'>Established</span>]
 
@@ -158,7 +158,7 @@ builds_on:
 #### 3.2 Knowledge Creation & Conversion
 
 - **[[SECI-Model]]** — Four modes of knowledge conversion: Socialization (tacit→tacit), Externalization (tacit→explicit), Combination (explicit→explicit), Internalization (explicit→tacit). [Source: Report 22, Nonaka & Takeuchi 1995] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Tacit-Knowledge]] — Knowledge that cannot be fully articulated — "we know more than we can tell" (Polanyi) [Report 22]
+  - [[tacit-knowledge]] — Knowledge that cannot be fully articulated — "we know more than we can tell" (Polanyi) [Report 22]
   - [[Explicit-Knowledge]] — Knowledge that can be codified, stored, and transferred through language and symbols [Report 22]
 
 #### 3.3 Network Topology & Integration
@@ -216,15 +216,15 @@ builds_on:
 
 #### 5.1 Epistemology
 
-- **[[Extended-Mind-Theory]]** — Cognitive processes extend beyond the brain when external structures (like a PKB) meet coupling conditions: reliability, accessibility, automatic endorsement, prior endorsement. [Source: Report 28, Clark & Chalmers 1998] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
+- **[[extended-mind-theory]]** — Cognitive processes extend beyond the brain when external structures (like a PKB) meet coupling conditions: reliability, accessibility, automatic endorsement, prior endorsement. [Source: Report 28, Clark & Chalmers 1998] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
-- **[[Virtue-Epistemology]]** — Knowledge production as exercise of intellectual virtues: curiosity, humility, thoroughness, fairness, courage. [Source: Report 28, 29] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
+- **[[virtue-epistemology]]** — Knowledge production as exercise of intellectual virtues: curiosity, humility, thoroughness, fairness, courage. [Source: Report 28, 29] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
-- **[[Epistemic-Humility]]** — Calibrated awareness of the limits and reliability of one's knowledge. Operationalized through [[DP5: Calibration Systems]]. [Source: Report 18, 28] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[epistemic-humility]]** — Calibrated awareness of the limits and reliability of one's knowledge. Operationalized through [[DP5: Calibration Systems]]. [Source: Report 18, 28] [Status: <span style='color: #27FF00;'>Established</span>]
 
 #### 5.2 Educational Philosophy
 
-- **[[Socratic-Method]]** — Knowledge emerges through structured questioning that surfaces contradictions and builds understanding through dialogue. [[Aporia]] (productive confusion) precedes insight. [Source: Report 14, 21] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[socratic-method]]** — Knowledge emerges through structured questioning that surfaces contradictions and builds understanding through dialogue. [[aporia]] (productive confusion) precedes insight. [Source: Report 14, 21] [Status: <span style='color: #27FF00;'>Established</span>]
 
 - **[[Pragmatist-Epistemology]]** — Knowledge is warranted assertion tested through consequences in practice, not correspondence to abstract truth. [Source: Report 28, Dewey/James/Peirce] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
@@ -236,36 +236,36 @@ builds_on:
 
 | Concept A | Relationship | Concept B | Strength | Source |
 |-----------|-------------|-----------|----------|--------|
-| [[Schema-Theory]] | *provides architecture for* | [[Cognitive Architecture Isomorphism]] | Strong | R01→R09 |
-| [[Desirable-Difficulties]] | *provides mechanism for* | [[Active-Construction-Imperative]] | Strong | R16→R27 |
-| [[Self-Regulated-Learning]] | *operationalized as* | [[Regulatory Embedding]] | Strong | R04→R27 |
-| [[Testing-Effect]] | *implements* | [[Retrieval-Practice]] | Strong | R06→R20 |
-| [[Fluency-Illusion]] | *amplified by* | [[Epistemic Counterfeiting]] | Strong | R18→R30 |
-| [[Fluency-Illusion]] | *countered by* | [[Calibration]] | Strong | R18 |
+| [[schema-theory]] | *provides architecture for* | [[Cognitive Architecture Isomorphism]] | Strong | R01→R09 |
+| [[desirable-difficulties]] | *provides mechanism for* | [[Active-Construction-Imperative]] | Strong | R16→R27 |
+| [[self-regulated-learning]] | *operationalized as* | [[Regulatory Embedding]] | Strong | R04→R27 |
+| [[Testing-Effect]] | *implements* | [[retrieval-practice]] | Strong | R06→R20 |
+| [[fluency-illusion]] | *amplified by* | [[Epistemic Counterfeiting]] | Strong | R18→R30 |
+| [[fluency-illusion]] | *countered by* | [[calibration]] | Strong | R18 |
 | [[Small-World-Networks]] | *diagnoses* | [[Accumulation Problem]] | Strong | R25 |
 | [[Faceted-Classification]] | *converges with* | [[Basic-Level-Categories]] | Moderate | R15 |
-| [[Heutagogy]] | *extends* | [[Self-Determination-Theory]] | Moderate | R24→R05 |
+| [[heutagogy]] | *extends* | [[self-determination-theory]] | Moderate | R24→R05 |
 | [[Scaffolding and Fading]] | *resolves* | Structure vs. Autonomy Tension | Moderate | R10 |
 | [[Cognitive Partnership Model]] | *operationalizes* | [[Offloading Quality Distinction]] | Moderate | R30 |
 | [[SECI-Model]] | *maps onto* | Capture-Process-Integrate pipeline | Moderate | R22→R09 |
-| [[Constructivism]] | *requires* | [[Desirable-Difficulties]] | Moderate | R03→R16 |
+| [[constructivism]] | *requires* | [[desirable-difficulties]] | Moderate | R03→R16 |
 | [[Kolb's Learning Cycle]] | *parallels* | [[Zimmerman's SRL Cycle]] | Moderate | R08, R04 |
-| [[Integration-Metabolism]] | *addresses* | [[Accumulation Problem]] | Strong | R27→R25 |
-| [[Spreading-Activation]] | *maps to* | Wiki-link navigation patterns | Strong | R01→R09 |
-| [[Stoic Discipline]] | *supports persistence through* | [[Desirable-Difficulties]] | Suggestive | R13→R16 |
-| [[Extended-Mind-Theory]] | *grounds* | PKB as cognitive extension | Moderate | R28 |
+| [[integration-metabolism]] | *addresses* | [[Accumulation Problem]] | Strong | R27→R25 |
+| [[spreading-activation]] | *maps to* | Wiki-link navigation patterns | Strong | R01→R09 |
+| [[Stoic Discipline]] | *supports persistence through* | [[desirable-difficulties]] | Suggestive | R13→R16 |
+| [[extended-mind-theory]] | *grounds* | PKB as cognitive extension | Moderate | R28 |
 | [[Interest-Development-Theory]] | *resolves* | Motivational sustainability | Moderate | R19 |
-| [[Expertise-Reversal-Effect]] | *motivates* | [[RP1: Evolutionary Architecture]] | Strong | R10→R27 |
+| [[expertise-reversal-effect]] | *motivates* | [[RP1: Evolutionary Architecture]] | Strong | R10→R27 |
 
 ---
 
 ## Hub Concepts (Most Connected — ≥5 connections)
 
-1. **[[Desirable-Difficulties]]** — Connects to: Testing Effect, Spacing Effect, Generation Effect, Interleaving, Fluency Illusion, Active Construction, Constructivism, Cognitive Partnership Model, Stoic Discipline, Note-Making
-2. **[[Fluency-Illusion]]** — Connects to: Calibration, Dunning-Kruger, Epistemic Counterfeiting, Desirable Difficulties, Metacognitive Monitoring, Retrieval Practice, AI Integration
-3. **[[Self-Regulated-Learning]]** — Connects to: Metacognitive Monitoring, Calibration, Regulatory Embedding, Feedback Loops, Reflective Practice, Zimmerman's SRL Cycle
+1. **[[desirable-difficulties]]** — Connects to: Testing Effect, Spacing Effect, Generation Effect, Interleaving, Fluency Illusion, Active Construction, Constructivism, Cognitive Partnership Model, Stoic Discipline, Note-Making
+2. **[[fluency-illusion]]** — Connects to: Calibration, Dunning-Kruger, Epistemic Counterfeiting, Desirable Difficulties, Metacognitive Monitoring, Retrieval Practice, AI Integration
+3. **[[self-regulated-learning]]** — Connects to: Metacognitive Monitoring, Calibration, Regulatory Embedding, Feedback Loops, Reflective Practice, Zimmerman's SRL Cycle
 4. **[[Cognitive Architecture Isomorphism]]** — Connects to: Schema Theory, Semantic Networks, CLT, Expert Knowledge Organization, Information Foraging, SECI Model, Note Architecture, Linking Philosophy
-5. **[[Constructivism]]** — Connects to: Accommodation, Conceptual Change, ZPD, Active Construction, Desirable Difficulties, Note-Making, Elaborative Interrogation
+5. **[[constructivism]]** — Connects to: Accommodation, Conceptual Change, ZPD, Active Construction, Desirable Difficulties, Note-Making, Elaborative Interrogation
 6. **[[Integrated-Learning-System-Model]]** — Connects to: All Five Convergence Zones, all Twelve Master Principles, Isomorphic External Memory, Constructive Processing Engine, Self-Regulating Adaptive System
 
 ## Bridge Concepts (Cross-Domain Connectors)
@@ -273,7 +273,7 @@ builds_on:
 1. **[[Cognitive Partnership Model]]** — Bridges: AI/Technology ↔ Learning Science ↔ Socratic Philosophy
 2. **[[SECI-Model]]** — Bridges: Knowledge Management ↔ Cognitive Science ↔ PKB Design
 3. **[[Stoic Discipline]]** — Bridges: Philosophy ↔ Emotional Regulation ↔ Learning Resilience
-4. **[[Extended-Mind-Theory]]** — Bridges: Philosophy of Mind ↔ PKB Design ↔ AI Integration
+4. **[[extended-mind-theory]]** — Bridges: Philosophy of Mind ↔ PKB Design ↔ AI Integration
 5. **[[Basic-Level-Categories]]** — Bridges: Cognitive Psychology (Rosch) ↔ Library Science (Ranganathan)
 
 ## Orphan Concepts (Weakly Connected — Needs Integration)
@@ -281,7 +281,7 @@ builds_on:
 1. **[[Dialectics]]** (Report 21) — Rich philosophical tradition but weakly connected to practical PKB design
 2. **[[Ethical PKM]]** (Report 29) — Important but architecturally disconnected from the Twelve Master Principles
 3. **[[Learning Environments Design]]** (Report 23) — Overlaps substantially with Reports 09 and 10 without clear differentiated contribution
-4. **[[Relatedness]]** (SDT need) — Acknowledged but systematically unaddressed due to solo-practice focus
+4. **[[relatedness]]** (SDT need) — Acknowledged but systematically unaddressed due to solo-practice focus
 
 ---
 

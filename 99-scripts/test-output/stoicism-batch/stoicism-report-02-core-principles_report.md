@@ -368,10 +368,10 @@ extraction_summary:
 ### Unique Targets
 
 - [[Chrysippus]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
 - [[Plato]]
@@ -384,7 +384,7 @@ extraction_summary:
 - [[Report 05 — Stoicism in Leadership and Decision-Making]]
 - [[Report 10 — Stoicism and CBT]]
 - [[Seneca]]
-- [[Socrates]]
+- [[socrates]]
 - [[Stoicism]]
 - [[Stoicism Series Overview]]
 - [[The Stoic Sage — Ideal and Reality]]
@@ -405,10 +405,10 @@ extraction_summary:
 | 7 | [[Report 01 — Introduction to Stoicism: Origins and Key Figures]] | — | — | Core Principles: Virtue, Wisdom, and ... | 227 |
 | 8 | [[Report 03 — Stoicism in Practice: Daily Exercises and Mindset Shifts]] | — | — | Core Principles: Virtue, Wisdom, and ... | 228 |
 | 9 | [[Report 01 — Introduction to Stoicism: Origins and Key Figures]] | — | — | Core Principles: Virtue, Wisdom, and ... | 231 |
-| 10 | [[Eudaimonia]] | — | — | Part 1: The Question That Stoicism An... | 239 |
+| 10 | [[eudaimonia]] | — | — | Part 1: The Question That Stoicism An... | 239 |
 | 11 | [[Zeno of Citium]] | — | — | Part 1: The Question That Stoicism An... | 241 |
 | 12 | [[Chrysippus]] | — | — | Part 1: The Question That Stoicism An... | 241 |
-| 13 | [[Socrates]] | — | — | Virtue as a Technical Concept | 265 |
+| 13 | [[socrates]] | — | — | Virtue as a Technical Concept | 265 |
 | 14 | [[Plato]] | — | — | Virtue as a Technical Concept | 265 |
 | 15 | [[Logos]] | — | — | 2. Justice (Dikaiosyne) | 315 |
 | 16 | [[Logos]] | — | — | 2. Justice (Dikaiosyne) | 317 |
@@ -419,7 +419,7 @@ extraction_summary:
 | 21 | [[Epictetus]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
 | 22 | [[Prohairesis]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
 | 23 | [[Dichotomy-of-Control]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
-| 24 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 7: Stoicism and the Science of M... | 459 |
+| 24 | [[cognitive-behavioral-therapy]] | — | — | Part 7: Stoicism and the Science of M... | 459 |
 | 25 | [[Marcus-Aurelius]] | — | — | Case 1: Marcus Aurelius and the Unity... | 467 |
 | 26 | [[Epictetus]] | — | — | Case 2: Epictetus and the Radical Fre... | 480 |
 | 27 | [[Report 01 — Introduction to Stoicism: Origins and Key Figures]] | — | — | Part 9: Integration — How This Report... | 500 |
@@ -473,10 +473,10 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Chrysippus]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
 - [[Plato]]
@@ -489,7 +489,7 @@ extraction_summary:
 - [[Report 05 — Stoicism in Leadership and Decision-Making]]
 - [[Report 10 — Stoicism and CBT]]
 - [[Seneca]]
-- [[Socrates]]
+- [[socrates]]
 - [[Stoicism]]
 - [[Stoicism Series Overview]]
 - [[The Stoic Sage — Ideal and Reality]]
@@ -512,9 +512,9 @@ extraction_summary:
 - [[Seneca]]
 - [[Chrysippus]]
 - [[Zeno of Citium]]
-- [[Virtue-Ethics]]
-- [[Aristotle]]
-- [[Eudaimonia]]
+- [[virtue-ethics]]
+- [[aristotle]]
+- [[eudaimonia]]
 - [[Dichotomy-of-Control]]
 - [[Prohairesis]]
 - [[Logos]]
@@ -522,7 +522,7 @@ extraction_summary:
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Ancient Philosophy]]
 - [[Moral Psychology]]
 
@@ -538,9 +538,9 @@ extraction_summary:
 #### See Also
 
 - [[Aristotelian Virtue Ethics]]
-- [[Cognitive-Behavioral-Therapy]]
-- [[Self-Determination-Theory]]
-- [[Positive Psychology]]
+- [[cognitive-behavioral-therapy]]
+- [[self-determination-theory]]
+- [[Positive-Psychology]]
 - [[Mindfulness]]
 
 ---

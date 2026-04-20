@@ -36,9 +36,9 @@ For the examined life, Epictetus provides the most practical ancient framework: 
 
 ### In Report 02: The Fallible Knower
 
-[[report-02-the-fallible-knower|Report 02]] uses Epictetus's teaching on the **dichotomy of control** to explain how [[Fallibilism]] (accepting that all beliefs are potentially mistaken) becomes psychologically sustainable. If you falsely believe your self-worth depends on being right (something partly outside your control), then admitting error becomes threatening. But if you follow Epictetus and invest only in responding well to evidence (fully in your control), fallibilism becomes liberating.
+[[report-02-the-fallible-knower|Report 02]] uses Epictetus's teaching on the **dichotomy of control** to explain how [[fallibilism]] (accepting that all beliefs are potentially mistaken) becomes psychologically sustainable. If you falsely believe your self-worth depends on being right (something partly outside your control), then admitting error becomes threatening. But if you follow Epictetus and invest only in responding well to evidence (fully in your control), fallibilism becomes liberating.
 
-The report synthesizes Epictetus's prosoche with [[Constructivism]]—both require continuous self-monitoring, but Epictetus adds the discipline of *catching yourself* when you make judgments about things outside your control.
+The report synthesizes Epictetus's prosoche with [[constructivism]]—both require continuous self-monitoring, but Epictetus adds the discipline of *catching yourself* when you make judgments about things outside your control.
 
 **Key concept from R02:** Prosoche enables sustainable fallibilism by training you to notice when ego-defense is interfering with truth-seeking and redirect to what's controllable (your epistemic virtue).
 
@@ -47,7 +47,7 @@ The report synthesizes Epictetus's prosoche with [[Constructivism]]—both requi
 [[report-05-the-virtuous-reasoner|Report 05]] makes Epictetus central to understanding how intellectual virtues become stable traits rather than occasional acts. Epictetus's method is **systematic attention training**: repeatedly catching automatic reactions and redirecting them until virtue becomes habitual.
 
 The report shows how each intellectual virtue can be framed as a Stoic discipline:
-- [[Intellectual-Humility]] = catching overconfidence, redirecting to acknowledgment of fallibility
+- [[intellectual-humility]] = catching overconfidence, redirecting to acknowledgment of fallibility
 - [[Open-Mindedness]] = catching dismissiveness, redirecting to genuine consideration
 - [[Intellectual-Courage]] = catching conformity pressure, redirecting to independent judgment
 

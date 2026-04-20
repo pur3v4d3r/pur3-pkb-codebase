@@ -91,14 +91,14 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 # ═══════════════════════════════════════════════════════════════════════════
 
 > [!important] Complete this entire section BEFORE you begin reading.
-> Time investment: 5–10 minutes. This is not optional overhead — it is the structural mechanism that makes the reading session productive. See [[Zimmerman's-Cyclical-SRL-Model]] and [[Forethought-Phase]].
+> Time investment: 5–10 minutes. This is not optional overhead — it is the structural mechanism that makes the reading session productive. See [[Zimmerman's-Cyclical-SRL-Model]] and [[forethought-phase]].
 
 ---
 
 ## 🔍 Zone 1: Prior Knowledge Activation
 
 > [!tip] Purpose
-> Activate relevant [[Prior-Knowledge-Activation|prior knowledge]] and existing schema before encountering new material. This reduces [[Cognitive-Load-Theory|cognitive load]] and creates explicit baselines for later calibration. See [[Advance-Organizers]].
+> Activate relevant [[prior-knowledge-activation|prior knowledge]] and existing schema before encountering new material. This reduces [[cognitive-load-theory|cognitive load]] and creates explicit baselines for later calibration. See [[advance-organizers]].
 
 **Related concepts already in my PKB:**
 - [[]] — 
@@ -122,7 +122,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 📋 Zone 2: Task Characterization
 
 > [!tip] Purpose
-> Accurately assess what this reading task demands so that goal-setting and strategy selection are appropriately calibrated. See [[Strategic-Planning]].
+> Accurately assess what this reading task demands so that goal-setting and strategy selection are appropriately calibrated. See [[strategic-planning]].
 
 | Dimension | Assessment |
 |-----------|-----------|
@@ -136,7 +136,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 🎯 Zone 3: Goal Setting — Three-Part Structure
 
 > [!tip] Purpose
-> Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[Intrinsic-Motivation]]. See [[Achievement-Goal-Theory]] and [[Goal-Setting-Theory]].
+> Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[intrinsic-motivation]]. See [[achievement-goal-theory]] and [[goal-setting-theory]].
 
 ### Learning Outcome Goal *(mastery-framed, specific, proximal)*
 
@@ -153,7 +153,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 
 ### Process Goals *(behavioral, under my direct control)*
 
-> [!warning] Process goals are what you actually DO, not what you hope to understand. They should be specific enough that you can definitively say Yes or No to whether you executed them. See [[Deliberate-Practice]].
+> [!warning] Process goals are what you actually DO, not what you hope to understand. They should be specific enough that you can definitively say Yes or No to whether you executed them. See [[deliberate-practice]].
 
 - [ ] **PG1:** I will pause at each section break and write a one-sentence summary
 - [ ] **PG2:** I will flag any passage where I experience genuine confusion (not explain it away)
@@ -169,7 +169,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 💪 Zone 4: Self-Efficacy Calibration
 
 > [!tip] Purpose
-> Generate an *accurately calibrated* confidence estimate — not high confidence, but honest confidence. The target is [[Metacognitive-Calibration|calibration]], not elevation. See [[Self-Efficacy]] and [[The-Fluency-Illusion]].
+> Generate an *accurately calibrated* confidence estimate — not high confidence, but honest confidence. The target is [[metacognitive-calibration|calibration]], not elevation. See [[self-efficacy]] and [[the-fluency-illusion]].
 
 **My confidence that I can meet the comprehension criterion (1–10):** ___
 
@@ -179,17 +179,17 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 **Calibration check:** *What would need to be true for me to achieve this criterion? Does my confidence rating reflect the actual task demands?*
 > 
 
-**If confidence is below 5:** Consider whether the comprehension criterion needs adjustment, or whether a preliminary schema-building activity is needed first. *(This is not failure — it is accurate [[Metacognitive-Monitoring|metacognitive monitoring]].)*
+**If confidence is below 5:** Consider whether the comprehension criterion needs adjustment, or whether a preliminary schema-building activity is needed first. *(This is not failure — it is accurate [[metacognitive-monitoring|metacognitive monitoring]].)*
 
 **Recent mastery experience I can recall that is relevant:**
-> *(A time I successfully understood material of similar complexity — this is the [[Self-Efficacy|mastery experience]] source of self-efficacy.)*
+> *(A time I successfully understood material of similar complexity — this is the [[self-efficacy|mastery experience]] source of self-efficacy.)*
 
 ---
 
 ## ✨ Zone 5: Motivational Priming
 
 > [!tip] Purpose
-> Activate [[Self-Determination-Theory|autonomous motivation]] by connecting to genuine interest and [[Autonomy-Support|autonomy-supportive]] framing. See [[Intrinsic-Motivation]].
+> Activate [[self-determination-theory|autonomous motivation]] by connecting to genuine interest and [[autonomy-support|autonomy-supportive]] framing. See [[intrinsic-motivation]].
 
 **What specifically interests me about this topic?**
 > *(Not "I should know this" — that's controlling language. What genuinely draws me to this?)*
@@ -213,7 +213,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 # ═══════════════════════════════════════════════════════════════════════════
 
 > [!important] Complete within 30 minutes of finishing the reading session.
-> Time investment: 10–15 minutes. This is the generative engine of the SRL cycle — where [[Adaptive-Inference|adaptive inferences]] are produced that improve the next session. See [[Self-Reflection-Phase]].
+> Time investment: 10–15 minutes. This is the generative engine of the SRL cycle — where [[adaptive-inference|adaptive inferences]] are produced that improve the next session. See [[self-reflection-phase]].
 
 **Reading duration:** ___ minutes
 **Time completed:** <% tp.date.now("HH:mm") %>
@@ -223,7 +223,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*
 
 > [!warning] Do NOT consult any notes or the text for this zone.
-> Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[The-Fluency-Illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[Retrieval-Practice]] and [[Testing-Effect-Retrieval-Practice-Effect]].
+> Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[the-fluency-illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[retrieval-practice]] and [[testing-effect-retrieval-practice-effect]].
 
 **Core claim of this text (in my own words):**
 > 
@@ -277,7 +277,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## ✅ Zone 2: Process Goal Audit
 
 > [!tip] Purpose
-> Evaluate each process goal against behavioral evidence, not impressions. This is [[Formative-Assessment|formative self-assessment]] — descriptive, not evaluative. See [[Self-Evaluation]].
+> Evaluate each process goal against behavioral evidence, not impressions. This is [[formative-assessment|formative self-assessment]] — descriptive, not evaluative. See [[self-evaluation]].
 
 | Process Goal | Executed? | Evidence | Quality (1–5) |
 |---|---|---|---|
@@ -294,7 +294,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 🔬 Zone 3: Causal Attribution Analysis
 
 > [!warning] CRITICAL ZONE — This is the hinge on which the entire cycle turns.
-> The attribution you generate here determines whether the next session improves or stagnates. See [[Attribution-Theory]], [[Bernard-Weiner]], and [[Attribution-Retraining]].
+> The attribution you generate here determines whether the next session improves or stagnates. See [[attribution-theory]], [[bernard-weiner]], and [[attribution-retraining]].
 
 > [!important] Before generating ANY global conclusion about your ability or the text's difficulty, complete the strategy-level search below.
 
@@ -316,7 +316,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 |----------|-----|---------|
 | Did I have sufficient prior schema? | | |
 | Was my goal specific enough? | | |
-| Did I use [[Elaborative-Interrogation|elaborative interrogation]]? | | |
+| Did I use [[elaborative-interrogation|elaborative interrogation]]? | | |
 | Did I self-explain at section boundaries? | | |
 | Was my comprehension criterion calibrated to my actual level? | | |
 | Was my attention available for the cognitive demands? | | |
@@ -326,14 +326,14 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 > "The strategy I used was ___. It was insufficient because ___. A better approach for next time would be ___."
 
 > [!danger] Attribution Safety Check
-> If your natural attribution is "this material is too difficult for me" or "I'm not good at this type of content" — these are global, stable, internal attributions. Before accepting them, you MUST list at least two specific strategy-level explanations you could test in the next session. See [[Mastery-Oriented-Response-Pattern]] and [[Growth-Mindset]].
+> If your natural attribution is "this material is too difficult for me" or "I'm not good at this type of content" — these are global, stable, internal attributions. Before accepting them, you MUST list at least two specific strategy-level explanations you could test in the next session. See [[mastery-oriented-response-pattern]] and [[growth-mindset]].
 
 ---
 
 ## ⚡ Zone 4: Self-Reaction — Adaptive Inference Generation
 
 > [!tip] Purpose
-> Generate specific, actionable strategy adjustments that feed directly into the next Forethought Phase. This is where the cycle closes. See [[Adaptive-Inference]] and [[Defensive-Inference]].
+> Generate specific, actionable strategy adjustments that feed directly into the next Forethought Phase. This is where the cycle closes. See [[adaptive-inference]] and [[defensive-inference]].
 
 ### Affect Acknowledgment
 **My honest emotional reaction to this session's outcomes:**
@@ -357,7 +357,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 > 
 
 ### Defensive Inference Check
-> Did I generate any of these? If so, flag for [[Attribution-Retraining]].
+> Did I generate any of these? If so, flag for [[attribution-retraining]].
 - [ ] "I should just read easier material"
 - [ ] "Maybe this topic isn't for me"
 - [ ] "I'll try harder next time" (without strategy specificity)
@@ -402,7 +402,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 
 ## 💬 Mastery Reflection *(Close the emotional loop)*
 
-> [!quote] Use mastery grammar to close productively. See [[Achievement-Goal-Theory]].
+> [!quote] Use mastery grammar to close productively. See [[achievement-goal-theory]].
 
 **What do I understand better now than I did at the start of this session?**
 > 

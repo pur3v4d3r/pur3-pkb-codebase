@@ -15,7 +15,7 @@ USAGE:
   python scripts/fix_broken_pipes.py --execute    # Apply changes
 
 Run from project root:
-  D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0
+  D:\10_pur3v4d3r's-vault\999-report-organizing\_pkm-and-pkb-framework-1.0.0
 """
 
 import sys

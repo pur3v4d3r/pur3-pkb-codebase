@@ -124,9 +124,9 @@ prerequisites:
   hard: []
   soft: [[API-Fundamentals]], [[JSON-RPC]], [[AI-Agent-Architecture]]
 enables:
-  direct: [[Custom-MCP-Server-Development]], [[AI-PKB-Integration]], [[Prompt-Library-Management]]
+  direct: [[Custom-MCP-Server-Development]], [[ai-pkb-integration]], [[Prompt-Library-Management]]
   related: [[Claude-Code-Workflows]], [[Gemini-Code-Assist]], [[Obsidian-Automation]]
-related: [[Claude-Code]], [[Gemini-Code-Assist]], [[Obsidian]], [[Prompt-Engineering]], [[AI-Agents]]
+related: [[Claude-Code]], [[Gemini-Code-Assist]], [[obsidian]], [[Prompt-Engineering]], [[AI-Agents]]
 ---
 ```
 
@@ -528,7 +528,7 @@ Edit `~/.gemini/settings.json`:
 
 ### Obsidian MCP Server Implementations
 
-Several MCP servers exist for [[Obsidian]] vault integration:
+Several MCP servers exist for [[obsidian]] vault integration:
 
 > [!example] cyanheads/obsidian-mcp-server
 > **Capabilities:**
@@ -974,7 +974,7 @@ await server.connect(transport);
 > - **[[Unix-Philosophy]]**: Small, composable tools that do one thing well—MCP servers embody this principle
 > - **[[API-Design-Patterns]]**: REST informed HTTP APIs; LSP informed IDE integrations; MCP informs AI integrations
 > - **[[Knowledge-Graph-Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
-> - **[[Cognitive-Load-Theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
+> - **[[cognitive-load-theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
 
 > [!application-context]
 > **When to Use MCP**
@@ -1000,7 +1000,7 @@ await server.connect(transport);
 > 
 > This reference connects to:
 > - [[Claude-Code]] — Primary MCP client for development workflows
-> - [[Obsidian]] — PKB platform with MCP server support
+> - [[obsidian]] — PKB platform with MCP server support
 > - [[Prompt-Engineering]] — Library management via MCP
 > - [[AI-Agent-Architecture]] — MCP as agent-tool interface
 > - [[JSON-RPC]] — Underlying protocol specification
@@ -1019,10 +1019,10 @@ await server.connect(transport);
 > [!synthesis-opportunities]
 > **Cross-Domain Bridges**
 > 
-> - **MCP × [[Zettelkasten]]**: AI-assisted atomic note creation and linking
-> - **MCP × [[Spaced-Repetition]]**: Automated review scheduling through PKB queries
-> - **MCP × [[PARA-Method]]**: AI-driven project/area classification
-> - **MCP × [[Cognitive-Load-Theory]]**: Reducing integration overhead preserves cognitive resources
+> - **MCP × [[zettelkasten]]**: AI-assisted atomic note creation and linking
+> - **MCP × [[spaced-repetition]]**: Automated review scheduling through PKB queries
+> - **MCP × [[para-method]]**: AI-driven project/area classification
+> - **MCP × [[cognitive-load-theory]]**: Reducing integration overhead preserves cognitive resources
 
 ---
 
@@ -1082,14 +1082,14 @@ await server.connect(transport);
 #### 3. **[[AI-Augmented-Zettelkasten]]**
 **Connection:** Synthesis of traditional Zettelkasten methodology with MCP-enabled AI capabilities
 **Depth Potential:** Automated linking, semantic note clustering, AI-assisted atomic note extraction
-**Knowledge Graph Role:** Bridge between [[Zettelkasten]] methodology and [[AI-Agent-Architecture]]
+**Knowledge Graph Role:** Bridge between [[zettelkasten]] methodology and [[AI-Agent-Architecture]]
 **Priority:** Medium — Novel synthesis enabling next-generation PKB workflows
-**Prerequisites:** [[Zettelkasten Methodology]], [[MCP-Servers]]
+**Prerequisites:** [[Zettelkasten Methodology]], [[mcp-servers]]
 
 #### 4. **[[Prompt Engineering Version Control]]**
 **Connection:** Git-based prompt management patterns leveraging MCP prompt servers
 **Depth Potential:** Branching strategies, A/B testing workflows, deployment pipelines, rollback procedures
-**Knowledge Graph Role:** Bridge between [[Prompt-Engineering]] and [[DevOps Practices]]
+**Knowledge Graph Role:** Bridge between [[Prompt-Engineering]] and [[DevOps-Practices]]
 **Priority:** Medium — Professional prompt library management
 **Prerequisites:** [[Git Fundamentals]], [[Prompt Engineering Basics]]
 
@@ -1405,8 +1405,8 @@ freshness:
   domain-volatility: moderate
   last-verified: 2025-04-05
 prerequisites:
-  hard: [[VS-Code]], [[Node.js]], [[Personal-Knowledge-Base]], [[Prompt-Engineering]]
-  soft: [[LSP]], [[JSON-RPC]], [[Cognitive-Load-Theory]]
+  hard: [[vs-code]], [[Node.js]], [[personal-knowledge-base]], [[Prompt-Engineering]]
+  soft: [[LSP]], [[JSON-RPC]], [[cognitive-load-theory]]
 enables:
   direct: [[AI Agent Orchestration]], [[Context-Aware Prompting]], [[Cognitive Engineering Stack]]
   related: [[Second Brain]], [[Human-AI Collaboration]], [[Obsidian-Automation]]
@@ -1714,10 +1714,10 @@ Map MCP resources to cognitive principles:
 ## 🔗 PKB Integration
 
 > [!connections-and-links]
-> - [[Personal-Knowledge-Base]] – Source of `pkb://` resources
+> - [[personal-knowledge-base]] – Source of `pkb://` resources
 > - [[Prompt-Engineering]] – Domain for `prompt://` resources
-> - [[Cognitive-Load-Theory]] – Framework for optimizing context delivery
-> - [[VS-Code]] – Primary client environment
+> - [[cognitive-load-theory]] – Framework for optimizing context delivery
+> - [[vs-code]] – Primary client environment
 > - [[Claude-Code]] – Target reasoning engine
 > - [[Gemini-Code-Assist]] – Target reasoning engine
 
@@ -1728,8 +1728,8 @@ Map MCP resources to cognitive principles:
 > - [[Cognitive Engineering Stack]] – Document full architecture
 
 > [!synthesis-opportunities]
-> - Connect MCP to [[Zettelkasten]] principles via backlink-aware resources
-> - Integrate with [[Spaced-Repetition]] by logging AI-reviewed concepts
+> - Connect MCP to [[zettelkasten]] principles via backlink-aware resources
+> - Integrate with [[spaced-repetition]] by logging AI-reviewed concepts
 > - Bridge to [[Local LLMs]] for offline cognitive processing
 
 ---

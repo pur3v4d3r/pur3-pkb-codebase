@@ -80,27 +80,27 @@ VAULT_ROOT = Path(r"D:\10_pur3v4d3r's-vault")
 SCRIPTS_DIR = VAULT_ROOT / "99-scripts"
 PIPELINE_DIR = SCRIPTS_DIR / "report-extraction-to-permanent-notes-building"
 PERMANENT_NOTES_DIR = (
-    VAULT_ROOT / "999-report-orginizing" / "_permanent-notes" / "_permanent-notes"
+    VAULT_ROOT / "999-report-organizing" / "_permanent-notes" / "_permanent-notes"
 )
-EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-orginizing" / "_extractor-output"
+EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-organizing" / "_extractor-output"
 
 # Report folders where wiki-links need resolution
 REPORT_FOLDERS = [
-    VAULT_ROOT / "999-report-orginizing" / "999-first-principles-reports",
-    VAULT_ROOT / "999-report-orginizing" / "999-focused-analysis-report-generator",
-    VAULT_ROOT / "999-report-orginizing" / "999-foundational-report-genrator",
-    VAULT_ROOT / "999-report-orginizing" / "999-foundational-report-genrator" / "from-copilot",
-    VAULT_ROOT / "999-report-orginizing" / "999-foundational-report-genrator" / "from-copilot" / "opus",
-    VAULT_ROOT / "999-report-orginizing" / "999-socratic-reports",
-    VAULT_ROOT / "999-report-orginizing" / "999-comparative-synthesis-report-generator",
-    VAULT_ROOT / "999-report-orginizing" / "999-dialectical-re-examination-report-generator",
-    VAULT_ROOT / "999-report-orginizing" / "in-pkm",
-    VAULT_ROOT / "999-report-orginizing" / "llm-and-prompt-engineering",
-    VAULT_ROOT / "999-report-orginizing" / "reports-to-file",
-    VAULT_ROOT / "999-report-orginizing" / "999-stoicism",
-    VAULT_ROOT / "999-report-orginizing" / "999-focused-analysis-report-generator-v1.1.0",
-    VAULT_ROOT / "999-report-orginizing" / "999-generative-learning",
-    VAULT_ROOT / "999-report-orginizing" / "srl-practice",
+    VAULT_ROOT / "999-report-organizing" / "999-first-principles-reports",
+    VAULT_ROOT / "999-report-organizing" / "999-focused-analysis-report-generator",
+    VAULT_ROOT / "999-report-organizing" / "999-foundational-report-generator",
+    VAULT_ROOT / "999-report-organizing" / "999-foundational-report-generator" / "from-copilot",
+    VAULT_ROOT / "999-report-organizing" / "999-foundational-report-generator" / "from-copilot" / "opus",
+    VAULT_ROOT / "999-report-organizing" / "999-socratic-reports",
+    VAULT_ROOT / "999-report-organizing" / "999-comparative-synthesis-report-generator",
+    VAULT_ROOT / "999-report-organizing" / "999-dialectical-re-examination-report-generator",
+    VAULT_ROOT / "999-report-organizing" / "in-pkm",
+    VAULT_ROOT / "999-report-organizing" / "llm-and-prompt-engineering",
+    VAULT_ROOT / "999-report-organizing" / "reports-to-file",
+    VAULT_ROOT / "999-report-organizing" / "999-stoicism",
+    VAULT_ROOT / "999-report-organizing" / "999-focused-analysis-report-generator-v1.1.0",
+    VAULT_ROOT / "999-report-organizing" / "999-generative-learning",
+    VAULT_ROOT / "999-report-organizing" / "srl-practice",
 ]
 
 # Processed-batches tracker file for diff-aware runs
@@ -765,7 +765,7 @@ def stage_normalise_links(execute: bool = False) -> StageResult:
 
     args = [
         f"--vault={VAULT_ROOT}",
-        f"--perm-dir=999-report-orginizing/_permanent-notes/_permanent-notes",
+        f"--perm-dir=999-report-organizing/_permanent-notes/_permanent-notes",
         "--add-aliases",
     ]
     if execute:
@@ -1085,8 +1085,8 @@ def stage_commit(report: PipelineReport, execute: bool = False) -> StageResult:
     try:
         # Stage all changes in relevant directories
         stage_paths = [
-            "999-report-orginizing/_permanent-notes/",
-            "999-report-orginizing/_extractor-output/",
+            "999-report-organizing/_permanent-notes/",
+            "999-report-organizing/_extractor-output/",
             "99-scripts/report-extraction-to-permanent-notes-building/_pipeline-output/",
         ]
         # Also stage modified report folders

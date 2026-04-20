@@ -49,23 +49,23 @@ VAULT_ROOT = Path(r"D:\10_pur3v4d3r's-vault")
 
 # Where the authoritative permanent notes live (used to build the resolution index)
 PERMANENT_NOTES_DIR = (
-    VAULT_ROOT / "999-report-orginizing"
+    VAULT_ROOT / "999-report-organizing"
     / "_permanent-notes" / "_permanent-notes"
 )
 
 # Report folders to scan (recursive .md search in each)
 REPORT_FOLDERS = [
-    VAULT_ROOT / "999-report-orginizing" / "999-first-principles-reports",
-    VAULT_ROOT / "999-report-orginizing" / "999-focused-analysis-report-generator",
-    VAULT_ROOT / "999-report-orginizing" / "999-foundational-report-genrator",
-    VAULT_ROOT / "999-report-orginizing" / "999-socratic-reports",
-    VAULT_ROOT / "999-report-orginizing" / "in-pkm",
-    VAULT_ROOT / "999-report-orginizing" / "llm-and-prompt-engineering",
-    VAULT_ROOT / "999-report-orginizing" / "reports-to-file",
+    VAULT_ROOT / "999-report-organizing" / "999-first-principles-reports",
+    VAULT_ROOT / "999-report-organizing" / "999-focused-analysis-report-generator",
+    VAULT_ROOT / "999-report-organizing" / "999-foundational-report-generator",
+    VAULT_ROOT / "999-report-organizing" / "999-socratic-reports",
+    VAULT_ROOT / "999-report-organizing" / "in-pkm",
+    VAULT_ROOT / "999-report-organizing" / "llm-and-prompt-engineering",
+    VAULT_ROOT / "999-report-organizing" / "reports-to-file",
     VAULT_ROOT / "999-architecture-of-the-examined-life-project"
     / "pkb-build" / "examined-life-pkb"
     / "the-architecture-of-the-examined-life" / "01-reports",
-    VAULT_ROOT / "999-report-orginizing" / "_extractor-output",
+    VAULT_ROOT / "999-report-organizing" / "_extractor-output",
 ]
 
 # Wiki-link regex: captures [[...]] contents

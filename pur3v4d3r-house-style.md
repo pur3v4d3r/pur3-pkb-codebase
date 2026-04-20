@@ -189,7 +189,7 @@ CRITICAL CONSTRAINTS:
 > [!key-claim] Failure Mode 3 — Hedging Creep
 > **What it looks like:** Every claim accumulates softeners. "It may be the case that," "one might argue," "in a certain sense" appear in every sentence. The prose becomes flabby; confidence dissolves.
 >
-> **When it happens:** When the model defaults to academic-conservative mode. This is a particular hazard for the [[Annotated Critical Analysis]] generator, whose epistemic confidence machinery can interact poorly with the style directive.
+> **When it happens:** When the model defaults to academic-conservative mode. This is a particular hazard for the [[Annotated-Critical-Analysis]] generator, whose epistemic confidence machinery can interact poorly with the style directive.
 
 > [!key-claim] Failure Mode 4 — Personality Intrusion
 > **What it looks like:** "I" or "we" appears unexpectedly. The impersonal voice breaks. Even one occurrence undermines the rest of the report's authority.
@@ -209,7 +209,7 @@ CRITICAL CONSTRAINTS:
 > [!key-claim] Failure Mode 7 — Cross-Paragraph Arc Loss
 > **What it looks like:** Paragraphs become independent units. Each presents a topic and resolves it within itself. The cross-paragraph integration that defines the Patient Synthesizer disappears.
 >
-> **When it happens:** Particularly in long generators with explicit section structure (like [[Foundational-Report]]). The model treats each section as a self-contained essay rather than as part of a continuous arc.
+> **When it happens:** Particularly in long generators with explicit section structure (like [[foundational-report]]). The model treats each section as a self-contained essay rather than as part of a continuous arc.
 
 > [!key-claim] Failure Mode 8 — Long-Sentence Cap Drift
 > **What it looks like:** Every sentence becomes long. The breathing — the short release sentences that make the long ones tolerable — disappears. The prose becomes airless.
@@ -294,9 +294,9 @@ Different sections have different decay profiles. Adjust accordingly:
 >
 > **Top counter-measures:** Mid-generation re-anchor at 5,000 words. Figure budget per section. Random-sample validation in Phase 9.
 >
-> **Best generators:** [[Foundational-Report]], [[Annotated Critical Analysis]], [[Dialectical Report]], [[Comparative-Architecture]], [[Historical-Genealogical]], [[First Principles Analysis]], [[Deep Dive Report]].
+> **Best generators:** [[foundational-report]], [[Annotated-Critical-Analysis]], [[Dialectical Report]], [[Comparative-Architecture]], [[Historical-Genealogical]], [[First Principles Analysis]], [[Deep Dive Report]].
 >
-> **Less suitable for:** [[Practitioner's Field Guide]] (too direct/operational), [[Socratic Exploration]] (too dialogic) — use library variants for these.
+> **Less suitable for:** [[Practitioner's-Field-Guide]] (too direct/operational), [[Socratic Exploration]] (too dialogic) — use library variants for these.
 
 ---
 

@@ -22,26 +22,26 @@ tags:
 
 ### Permanent-Notes To-Create/Created
 
-[[Motivational-Psychology]]
-[[Self-Determination-Theory]]
+[[motivational-psychology]]
+[[self-determination-theory]]
 
-[[Autonomy]]
-[[Competence]]
-[[Relatedness]]
+[[autonomy]]
+[[competence]]
+[[relatedness]]
 
 [[Human Development Theory]]
-[[Basic-Psychological-Needs-Theory]]
-[[Cognitive-Evaluation-Theory]]
-[[Organismic-Integration-Theory]]
+[[basic-psychological-needs-theory]]
+[[cognitive-evaluation-theory]]
+[[organismic-integration-theory]]
 
 
-[[Intrinsic-Motivation]]
-[[Extrinsic-Motivation]]
+[[intrinsic-motivation]]
+[[extrinsic-motivation]]
 [[Organismic Theory]]
-[[Introjected-Regulation]]
+[[introjected-regulation]]
 
-[[Undermining-Effect]]
-[[Introjection]]
+[[undermining-effect]]
+[[introjection]]
 
 [[Behaviorism]]
 [[Cognitive Revolution]]

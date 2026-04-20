@@ -26,7 +26,7 @@ aliases: [Obsidian CSS Snippets, CSS Customization Reference, Snippet Library Gu
 
 > [!abstract]
 > **Executive Overview**
-> [[CSS Snippets]] are custom [[Cascading Style Sheets]] files that enable granular control over [[Obsidian]]'s user interface appearance without creating full [[themes]]. This reference documents the complete ecosystem of CSS snippet development, from fundamental architecture through advanced implementation patterns, providing authoritative guidance for customizing every aspect of a [[Personal-Knowledge-Base]] within the Obsidian environment.
+> [[CSS Snippets]] are custom [[Cascading Style Sheets]] files that enable granular control over [[obsidian]]'s user interface appearance without creating full [[themes]]. This reference documents the complete ecosystem of CSS snippet development, from fundamental architecture through advanced implementation patterns, providing authoritative guidance for customizing every aspect of a [[personal-knowledge-base]] within the Obsidian environment.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -50,12 +50,12 @@ aliases: [Obsidian CSS Snippets, CSS Customization Reference, Snippet Library Gu
 ## ⚙️ 01 Foundational Architecture
 
 > [!definition]
-> - **CSS Snippet**:: A modular [[Cascading Style Sheets]] file stored in the `.obsidian/snippets` directory that overrides or extends [[Obsidian]]'s default styling without replacing the entire [[Theme]].
+> - **CSS Snippet**:: A modular [[Cascading Style Sheets]] file stored in the `.obsidian/snippets` directory that overrides or extends [[obsidian]]'s default styling without replacing the entire [[Theme]].
 > - **Definition**:: CSS snippets provide granular control over specific UI elements, allowing users to customize appearance while maintaining theme compatibility and enabling rapid iteration through hot-reloading.
 
 ### The Obsidian CSS Ecosystem
 
-[[Obsidian]] implements a hierarchical styling system where [[CSS Variables]] define foundational design tokens, [[themes]] apply comprehensive visual identities, and [[CSS Snippets]] enable targeted customizations. This architecture leverages [[Electron]]'s [[Chromium]] rendering engine, giving users access to modern [[CSS]] capabilities including [[Flexbox]], [[CSS Grid]], and pseudo-selectors like `:has()`.
+[[obsidian]] implements a hierarchical styling system where [[CSS Variables]] define foundational design tokens, [[themes]] apply comprehensive visual identities, and [[CSS Snippets]] enable targeted customizations. This architecture leverages [[Electron]]'s [[Chromium]] rendering engine, giving users access to modern [[CSS]] capabilities including [[Flexbox]], [[CSS Grid]], and pseudo-selectors like `:has()`.
 
 The styling hierarchy follows this precedence order:
 
@@ -72,7 +72,7 @@ Because Obsidian runs on [[Electron.js]], users can treat it as a web browser wi
 
 ### Snippet Loading Mechanism
 
-[[Obsidian]] automatically detects changes to CSS snippet files and applies them when saved, eliminating the need for application restarts. Snippets load alphabetically by filename, which enables control over application order through numerical prefixes:
+[[obsidian]] automatically detects changes to CSS snippet files and applies them when saved, eliminating the need for application restarts. Snippets load alphabetically by filename, which enables control over application order through numerical prefixes:
 
 ```css
 /* 01-variables.css - Loads first, defines custom properties */
@@ -2275,7 +2275,7 @@ Obsidian recommends validating CSS files to ensure correctness, as invalid CSS w
 
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 - Browser DevTools (shows CSS errors in console)
-- [[VS-Code]] with CSS linting extensions
+- [[vs-code]] with CSS linting extensions
 
 **Common Validation Errors:**
 

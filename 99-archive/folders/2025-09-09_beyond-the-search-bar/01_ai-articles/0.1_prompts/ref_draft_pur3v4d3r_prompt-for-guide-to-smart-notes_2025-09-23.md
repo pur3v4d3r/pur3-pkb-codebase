@@ -254,7 +254,7 @@ This is the heart of the Zettelkasten philosophy. You are not a librarian catalo
 **1. The Processing Pipeline**
 
 1.  **Fleeting Notes (in PDF):** You've already captured these while reading. They are temporary reminders.
-2.  **Literature Notes (in Obsidian):** After reading, go to the `[[Source Note]]` for that article in Obsidian. In the "Literature Notes" section, summarize the author's key arguments, evidence, and conclusions *in your own words*. This is critical. Do not copy-paste. Rephrasing forces you to understand the material. You can refer back to your highlights and fleeting notes in the PDF as you do this.
+2.  **Literature Notes (in Obsidian):** After reading, go to the `[[source-note]]` for that article in Obsidian. In the "Literature Notes" section, summarize the author's key arguments, evidence, and conclusions *in your own words*. This is critical. Do not copy-paste. Rephrasing forces you to understand the material. You can refer back to your highlights and fleeting notes in the PDF as you do this.
 3.  **Concept Notes (in Obsidian):** This is the final, most important step. As you write your Literature Notes, you will identify core ideas, arguments, or pieces of evidence that deserve to stand on their own. For each of these, create a new, separate note in your `10_Notes` folder. This is a **Concept Note**.
 
 **2. Writing Concept Notes**
@@ -263,7 +263,7 @@ This is the art of making your knowledge permanent and useful.
 
 *   **Atomicity:** Each Concept Note should be about a *single idea*. Title the note clearly and concisely (e.g., `[[The role of coffeehouses in public discourse]]` not `[[Notes on Smith's book]]`).
 *   **Write in Your Own Words:** Explain the concept as if you were teaching it to someone else. This act of synthesis is what moves information from the page into your brain.
-*   **Cite Your Source:** At the bottom of the Concept Note, link back to the `[[Source Note]]` where the idea came from (e.g., `Source: [[Smith 2021 - The Social Life of Information]]`). This maintains the scholarly chain of evidence.
+*   **Cite Your Source:** At the bottom of the Concept Note, link back to the `[[source-note]]` where the idea came from (e.g., `Source: [[Smith 2021 - The Social Life of Information]]`). This maintains the scholarly chain of evidence.
 
 **3. Linking as You Write**
 
@@ -412,8 +412,8 @@ tags: moc
 ## Foundational Concepts
 *Links to the core, introductory ideas that are essential for understanding this topic.*
 
-- [[Concept A]]
-- [[Concept B]]
+- [[Concept-A]]
+- [[Concept-B]]
 
 ## Key Debates & Questions
 *Organize notes around central arguments or open questions in the field.*

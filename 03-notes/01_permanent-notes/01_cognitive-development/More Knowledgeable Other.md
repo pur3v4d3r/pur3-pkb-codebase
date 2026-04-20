@@ -16,8 +16,8 @@ link-up:
 link-related:
   - "[[Scaffolding-(Constructivist-Learning)]]"
   - "[[Constructivist Learning]]"
-  - "[[Zone-of-Proximal-Development]]"
-  - "[[Metacognition]]"
+  - "[[zone-of-proximal-development]]"
+  - "[[metacognition]]"
 date created: 2025-11-04T20:52:43
 date modified: 2025-11-05T21:48:00
 maturity: seedling

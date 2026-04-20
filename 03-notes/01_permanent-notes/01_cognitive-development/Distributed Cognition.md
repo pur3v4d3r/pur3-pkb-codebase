@@ -29,7 +29,7 @@ review-priority: medium
 # Distributed Cognition
 
 > [!definition]
-> - **Key-Term**:[[Distributed-Cognition]]
+> - **Key-Term**:[[distributed-cognition]]
 > - [**Definition**:A theoretical framework in cognitive science that extends the boundaries of cognition beyond the individual mind to encompass interactions with tools, the environment, and other people, viewing cognitive processes as distributed across these elements.]
 
 > [!evidence]

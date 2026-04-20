@@ -42,7 +42,7 @@ review-priority: medium
 # Emotional Regulation
 
 > [!definition]
-> - **Key-Term**:[[Emotional-Regulation]]
+> - **Key-Term**:[[emotional-regulation]]
 > - **Definition**:
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

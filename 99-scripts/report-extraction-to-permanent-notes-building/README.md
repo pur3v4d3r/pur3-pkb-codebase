@@ -69,7 +69,7 @@ _pkm-and-pkb-framework-1.0.0/
 All commands are run from the project root:
 
 ```bash
-cd 999-report-orginizing/_pkm-and-pkb-framework-1.0.0
+cd 999-report-organizing/_pkm-and-pkb-framework-1.0.0
 ```
 
 ### 1. Generate Permanent Notes

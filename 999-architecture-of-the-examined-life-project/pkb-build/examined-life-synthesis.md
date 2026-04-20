@@ -118,18 +118,18 @@ related_concepts:
   - "[[Precision-Flexibility]]"
   - "[[Narrative Metacognition]]"
   - "[[Bias-Virtue Correspondence]]"
-  - "[[Emotional-Granularity]]"
-  - "[[Predictive-Processing]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[emotional-granularity]]"
+  - "[[predictive-processing]]"
+  - "[[self-determination-theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Stoic-Philosophy]]"
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[Epistemic-Virtue]]"
   - "[[Phronesis]]"
-  - "[[Self-Regulated-Learning]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Epistemology]]"
-  - "[[Cognitive-Science]]"
+  - "[[epistemology]]"
+  - "[[cognitive-science]]"
   - "[[philosophy-of-mind]]"
 builds_on:
   - "[[examined-life-pkb-planning]]"
@@ -160,9 +160,9 @@ expansion-topics:
 # The Architecture of the Examined Life: Comprehensive Review & Synthesis
 
 > [!abstract] Executive Summary
-> This document presents the results of a six-pass analytical review of the **Architecture of the Examined Life** PKB — a 41-file, ~24,400-line [[Obsidian]] knowledge base containing a 15-report academic synthesis series on [[Epistemic-Cognition]], [[practical wisdom]], and [[meaning-making]]. The series draws on [[Cognitive-Science]], [[Stoic-Philosophy]], [[Educational-Psychology]], [[emotion science]], [[Predictive-Processing]], and [[narrative psychology]] to construct a comprehensive framework for intellectual self-cultivation.
+> This document presents the results of a six-pass analytical review of the **Architecture of the Examined Life** PKB — a 41-file, ~24,400-line [[obsidian]] knowledge base containing a 15-report academic synthesis series on [[epistemic-cognition]], [[practical wisdom]], and [[meaning-making]]. The series draws on [[cognitive-science]], [[Stoic-Philosophy]], [[educational-psychology]], [[emotion science]], [[predictive-processing]], and [[narrative psychology]] to construct a comprehensive framework for intellectual self-cultivation.
 >
-> **Key findings:** (1) The 15 reports are exceptional quality (9.4/10) — intellectually ambitious, rigorously structured, and genuinely accessible. (2) The PKB is ~30% built against its 75-110 note targets. (3) Critical structural issues require remediation: 8 reference notes contain systemic broken [[wiki-links]], 4 expansion topics lack [[YAML-Frontmatter]] and violate accessibility standards, the `04-connections/` directory is entirely empty, and the glossary is only ~30% populated. (4) The series' most original intellectual contribution — systematic structural homology mapping between ancient philosophy and modern [[Cognitive-Science]] — is the PKB's most valuable asset and should drive connection note generation.
+> **Key findings:** (1) The 15 reports are exceptional quality (9.4/10) — intellectually ambitious, rigorously structured, and genuinely accessible. (2) The PKB is ~30% built against its 75-110 note targets. (3) Critical structural issues require remediation: 8 reference notes contain systemic broken [[wiki-links]], 4 expansion topics lack [[yaml-frontmatter]] and violate accessibility standards, the `04-connections/` directory is entirely empty, and the glossary is only ~30% populated. (4) The series' most original intellectual contribution — systematic structural homology mapping between ancient philosophy and modern [[cognitive-science]] — is the PKB's most valuable asset and should drive connection note generation.
 >
 > **Recommended immediate priorities:** Fix broken reference note links, generate connection notes, add YAML to expansion topics, complete the glossary.
 
@@ -302,23 +302,23 @@ graph LR
 
 The epistemic foundation tier establishes eight interconnected dimensions of the examined life:
 
-**R01 ([[report-01-the-inquiry-engine|The Inquiry Engine]])** — Grounds the entire framework in [[Socratic-Method]] and [[Constructivism]]. The emergent insight, <span style='color: #FFC700;'>**Aporic Receptivity**</span>, names the cultivated willingness to dwell productively in confusion rather than rushing to premature closure. This concept anchors all subsequent development — without the ability to tolerate not-knowing, no further epistemic growth is possible.
+**R01 ([[report-01-the-inquiry-engine|The Inquiry Engine]])** — Grounds the entire framework in [[socratic-method]] and [[constructivism]]. The emergent insight, <span style='color: #FFC700;'>**Aporic Receptivity**</span>, names the cultivated willingness to dwell productively in confusion rather than rushing to premature closure. This concept anchors all subsequent development — without the ability to tolerate not-knowing, no further epistemic growth is possible.
 
 [**Aporic-Receptivity**:: The cultivated willingness to dwell productively in confusion — remaining genuinely open to the disruption that occurs when existing schemas cannot accommodate new evidence — rather than rushing to premature closure. Distinguished from mere tolerance of uncertainty (passive) and deliberate seeking of disconfirming evidence (active).]
 
-**R02 ([[report-02-the-fallible-knower|The Fallible Knower]])** — Establishes [[Fallibilism]] as the epistemological stance underlying the examined life. Connects [[Popper]] to [[Epistemic-Humility]]. The insight that a fallibilist posture IS [[metacognitive]] self-regulation (not just a philosophical position) bridges theoretical epistemology and cognitive science.
+**R02 ([[report-02-the-fallible-knower|The Fallible Knower]])** — Establishes [[fallibilism]] as the epistemological stance underlying the examined life. Connects [[Popper]] to [[epistemic-humility]]. The insight that a fallibilist posture IS [[metacognitive]] self-regulation (not just a philosophical position) bridges theoretical epistemology and cognitive science.
 
-**R03 ([[report-03-the-motivated-mind|The Motivated Mind]])** — Addresses the motivational problem: why pursue truth when comfortable ignorance is easier? Synthesizes [[Self-Determination-Theory]] with [[Stoic-Philosophy]], discovering that <span style='color: #FFC700;'>Prohairesis ≈ SDT Autonomy</span> — the Stoic concept of moral purpose structurally parallels the modern autonomy construct. The emergent insight of **Cognitive Vitality** names the self-sustaining motivational state that fuels continued epistemic engagement.
+**R03 ([[report-03-the-motivated-mind|The Motivated Mind]])** — Addresses the motivational problem: why pursue truth when comfortable ignorance is easier? Synthesizes [[self-determination-theory]] with [[Stoic-Philosophy]], discovering that <span style='color: #FFC700;'>Prohairesis ≈ SDT Autonomy</span> — the Stoic concept of moral purpose structurally parallels the modern autonomy construct. The emergent insight of **Cognitive Vitality** names the self-sustaining motivational state that fuels continued epistemic engagement.
 
-**R04 ([[report-04-cognitive-scaffolding|Cognitive Scaffolding]])** — Synthesizes [[Cognitive-Load-Theory]] and [[Vygotsky|Vygotskian]] [[Zone-of-Proximal-Development]]. Discovers the **Constructive Attentiveness** concept and a ZPD-Dewey homology showing that [[Constructivism]] and CLT describe the same learning process from complementary angles.
+**R04 ([[report-04-cognitive-scaffolding|Cognitive Scaffolding]])** — Synthesizes [[cognitive-load-theory]] and [[vygotsky|Vygotskian]] [[zone-of-proximal-development]]. Discovers the **Constructive Attentiveness** concept and a ZPD-Dewey homology showing that [[constructivism]] and CLT describe the same learning process from complementary angles.
 
-**R05 ([[report-05-the-virtuous-reasoner|The Virtuous Reasoner]])** — The series' most elegant synthesis: five [[Intellectual-Virtues]] mapped systematically onto five categories of [[Cognitive-Bias]]. The <span style='color: #FFC700;'>**Bias-Virtue Correspondence**</span> makes ancient virtue epistemology operationally specific. Also introduces [[Prosoche]] (Stoic attention) as a master practice.
+**R05 ([[report-05-the-virtuous-reasoner|The Virtuous Reasoner]])** — The series' most elegant synthesis: five [[intellectual-virtues]] mapped systematically onto five categories of [[cognitive-bias]]. The <span style='color: #FFC700;'>**Bias-Virtue Correspondence**</span> makes ancient virtue epistemology operationally specific. Also introduces [[Prosoche]] (Stoic attention) as a master practice.
 
 [**Bias-Virtue-Correspondence**:: Systematic mapping of five intellectual virtues onto five cognitive bias categories: Intellectual Humility ↔ Overconfidence; Open-mindedness ↔ Confirmation Bias; Intellectual Courage ↔ Conformity Bias; Intellectual Thoroughness ↔ Availability/Anchoring; Intellectual Patience ↔ Premature Closure.]
 
-**R06 ([[report-06-taming-system-1|Taming System 1]])** — Deep engagement with [[Kahneman]] and [[Stanovich]]. The **Governed Attentional Gap** names the space between automatic processing and deliberate reflection. The key homology: <span style='color: #9E6CD3;'>Prosoche ≡ Metacognitive Monitoring</span> — arguing functional identity between the ancient Stoic practice and the modern cognitive construct.
+**R06 ([[report-06-taming-system-1|Taming System 1]])** — Deep engagement with [[Kahneman]] and [[stanovich]]. The **Governed Attentional Gap** names the space between automatic processing and deliberate reflection. The key homology: <span style='color: #9E6CD3;'>Prosoche ≡ Metacognitive Monitoring</span> — arguing functional identity between the ancient Stoic practice and the modern cognitive construct.
 
-**R07 ([[report-07-the-self-directed-learner|The Self-Directed Learner]])** — [[Self-Regulated-Learning]] ([[Zimmerman]]) synthesized with SDT [[Internalization]] continuum. The emergent insight, **Recursive Self-Authorship**, names the capacity to design and manage one's own epistemic development.
+**R07 ([[report-07-the-self-directed-learner|The Self-Directed Learner]])** — [[self-regulated-learning]] ([[Zimmerman]]) synthesized with SDT [[internalization]] continuum. The emergent insight, **Recursive Self-Authorship**, names the capacity to design and manage one's own epistemic development.
 
 **R08 ([[report-08-the-examined-life-in-practice|The Examined Life in Practice]])** — The Tier 1 capstone. <span style='color: #FFC700;'>**Epistemic Character as Concurrent Expression**</span>: the seven Tier 1 components don't add up sequentially — they operate as a unified mode of being. Deeply informed by [[Hadot|Hadot's]] concept of philosophical life as practice, not just theory.
 
@@ -332,22 +332,22 @@ Tier 2 extends the epistemic framework into domains that pure cognition cannot r
 
 **R10 ([[report-10-the-feeling-reasoner|The Feeling Reasoner]])** — Synthesizes [[Barrett|Barrett's]] [[Theory-of-Constructed-Emotion]] with the Stoic [[Pathē]]/[[Eupatheia]] distinction. The emergent insight, <span style='color: #FFC700;'>**Emotional Granularity as Epistemic Precision**</span>, reframes emotion differentiation as a form of knowledge-making: the more precisely you can distinguish your emotional states, the more epistemic information they carry.
 
-**R11 ([[report-11-the-practical-reasoner|The Practical Reasoner]])** — Brings [[Aristotle|Aristotelian]] [[Phronesis]] (practical wisdom) into dialogue with [[Klein|Klein's]] Recognition-Primed Decision model from [[Naturalistic-Decision-Making]]. The **Action-Perception Link** names the insight that the [[phronimos]] and the RPD expert are the same kind of knower — both perceive what situations require through trained perceptual-evaluative capacities.
+**R11 ([[report-11-the-practical-reasoner|The Practical Reasoner]])** — Brings [[aristotle|Aristotelian]] [[Phronesis]] (practical wisdom) into dialogue with [[Klein|Klein's]] Recognition-Primed Decision model from [[Naturalistic-Decision-Making]]. The **Action-Perception Link** names the insight that the [[phronimos]] and the RPD expert are the same kind of knower — both perceive what situations require through trained perceptual-evaluative capacities.
 
 **R12 ([[report-12-the-social-thinker|The Social Thinker]])** — Addresses the social dimension through [[Epistemic-Injustice]] ([[Fricker]]), [[argumentative theory]] ([[Mercier & Sperber]]), and the novel concept of **Social Epistemic Virtue** — three community-level virtues that extend individual intellectual virtue into communal practices. The Socratic Dialectic ↔ Argumentative Theory homology suggests that Socratic questioning performs the same function that evolutionary argumentation theory posits: testing beliefs through adversarial collaboration.
 
 ### 2.3 Domain: Integrative Architecture (Tier 3 — Reports 13-15)
 
 > [!key-claim] The Integrative Tier's Central Claim
-> The examined life is not a collection of cognitive skills but a unified mode of being. [[Predictive-Processing]] provides the computational mechanism, [[Narrative-Identity]] provides the meaning frame, and [[Integrated-Cognitive-Personhood]] names the philosophical conclusion.
+> The examined life is not a collection of cognitive skills but a unified mode of being. [[predictive-processing]] provides the computational mechanism, [[Narrative-Identity]] provides the meaning frame, and [[Integrated-Cognitive-Personhood]] names the philosophical conclusion.
 
-**R13 ([[report-13-the-predictive-mind|The Predictive Mind]])** — The series' most intellectually ambitious move. Claims [[Predictive-Processing]] ([[Clark]], [[Friston]]) provides THE computational mechanism underlying the entire examined life framework. <span style='color: #9E6CD3;'>**Precision Flexibility**</span> — the dynamic adjustment of how much weight to give prior beliefs versus incoming evidence — IS the mechanism of [[Intellectual-Humility]], [[Aporic-Receptivity]], [[metacognitive]] monitoring, and every other component. Every prior report can be reframed as a precision-weighting operation.
+**R13 ([[report-13-the-predictive-mind|The Predictive Mind]])** — The series' most intellectually ambitious move. Claims [[predictive-processing]] ([[Clark]], [[Friston]]) provides THE computational mechanism underlying the entire examined life framework. <span style='color: #9E6CD3;'>**Precision Flexibility**</span> — the dynamic adjustment of how much weight to give prior beliefs versus incoming evidence — IS the mechanism of [[intellectual-humility]], [[Aporic-Receptivity]], [[metacognitive]] monitoring, and every other component. Every prior report can be reframed as a precision-weighting operation.
 
 [**Precision-Flexibility**:: The capacity to dynamically adjust the weighting given to prior beliefs versus incoming evidence — the computational mechanism (within predictive processing) underlying the examined life's practices of intellectual humility, metacognitive monitoring, and aporic receptivity.]
 
 **R14 ([[report-14-the-meaningful-life|The Meaningful Life]])** — Engages [[McAdams|McAdams']] [[Narrative-Identity]] research and positions the life story as "the highest-level generative model" in PP terms. **Narrative Metacognition** — the recursive capacity to examine your own life story — is identified as the highest-order [[metacognitive]] practice. Where all prior reports examine specific cognitive capacities, R14 examines the story that gives those capacities personal meaning.
 
-**R15 ([[report-15-the-examined-life-revisited|The Examined Life Revisited]])** — The series capstone. Integrates all 15 dimensions into the concept of <span style='color: #FFC700;'>**Integrated Cognitive Personhood**</span>: the examined life does not add cognitive capabilities to a pre-existing person but constitutes personhood in its fullest expression. Presents the [[5-Stage Developmental Model]] (adapted from [[Dreyfus-Skill-Acquisition-Model|Dreyfus]] and SDT internalization), two extended worked examples demonstrating the full framework in action, and honest acknowledgment of four limitations: integrated-framework evidence gap, resource intensity problem, cultural universalism assumption, and measurement problem.
+**R15 ([[report-15-the-examined-life-revisited|The Examined Life Revisited]])** — The series capstone. Integrates all 15 dimensions into the concept of <span style='color: #FFC700;'>**Integrated Cognitive Personhood**</span>: the examined life does not add cognitive capabilities to a pre-existing person but constitutes personhood in its fullest expression. Presents the [[5-Stage Developmental Model]] (adapted from [[dreyfus-skill-acquisition-model|Dreyfus]] and SDT internalization), two extended worked examples demonstrating the full framework in action, and honest acknowledgment of four limitations: integrated-framework evidence gap, resource intensity problem, cultural universalism assumption, and measurement problem.
 
 [**Integrated-Cognitive-Personhood**:: The capstone claim that the examined life — when all 15 dimensions operate concurrently and fluidly — constitutes not a person who thinks well but a mode of being constitutive of personhood in its fullest sense. Extends Aristotelian eudaimonia and Stoic prokoptōn. Stronger than instrumental or even constitutive-of-good-life claims.]
 
@@ -355,28 +355,28 @@ Tier 2 extends the epistemic framework into domains that pure cognition cannot r
 
 [[Stoic-Philosophy]] functions as the primary ancient interlocutor throughout the series, appearing not as background decoration but as a co-equal intellectual tradition:
 
-- **[[Prosoche]]** (attentive awareness) ≡ [[Metacognitive-Monitoring]] (R06)
-- **[[Prohairesis]]** (moral purpose/faculty of choice) ≈ SDT [[Autonomy]] (R03)
+- **[[Prosoche]]** (attentive awareness) ≡ [[metacognitive-monitoring]] (R06)
+- **[[Prohairesis]]** (moral purpose/faculty of choice) ≈ SDT [[autonomy]] (R03)
 - **[[Propatheiai]]** (involuntary pre-emotional responses) ↔ [[LeDoux|LeDoux's]] subcortical "low road" (expansion topic)
 - **[[Pathē]]/[[Eupatheia]]** (passions/good-feelings) ↔ [[Barrett|Barrett's]] [[Theory-of-Constructed-Emotion|TCE]] categories (R10)
 - **[[Synkatathesis]]** (assent to impressions) ↔ [[Precision-Weighting]] in PP (R13)
-- **[[Askesis]]** (spiritual exercises) ↔ modern [[Deliberate-Practice]] (R08, via [[Hadot]])
+- **[[Askesis]]** (spiritual exercises) ↔ modern [[deliberate-practice]] (R08, via [[Hadot]])
 - **[[Prokoptōn]]** (the one making progress) ↔ the [[5-Stage Developmental Model]] (R15)
 
 The expansion topic on [[stoic-propatheiai-and-emotional-responses|Stoic Propatheiai]] provides the most comprehensive treatment: the full cognitive-affective sequence from [[Phantasia]] → synkatathesis → [[hormē]] → [[pathos]], the Gellius storm-at-sea passage as key source text, the Posidonius controversy (challenging emotion monism), and modern resonances through [[LeDoux]], [[Damasio]], [[CBT]], and [[Nussbaum]].
 
 ### 2.5 Domain: Predictive Processing (Unifying Framework)
 
-[[Predictive-Processing]] serves as the series' computational substrate — the mechanism that explains HOW the examined life's components work at the neural level:
+[[predictive-processing]] serves as the series' computational substrate — the mechanism that explains HOW the examined life's components work at the neural level:
 
 | Component | PP Reframing |
 |-----------|-------------|
 | [[Aporic-Receptivity]] | Increasing precision on prediction errors; reducing precision on confident priors |
-| [[Fallibilism]] | Maintaining appropriate uncertainty in generative models |
-| [[Metacognitive-Monitoring]] | Monitoring model confidence and prediction error magnitude |
+| [[fallibilism]] | Maintaining appropriate uncertainty in generative models |
+| [[metacognitive-monitoring]] | Monitoring model confidence and prediction error magnitude |
 | [[Physiological-Metacognition]] | [[Interoceptive predictive processing]] (Seth) — bodily predictions as metacognitive data |
-| [[Emotional-Granularity]] | Higher-dimensional categorization of affective prediction errors |
-| [[Intellectual-Virtue]] | Trained precision-weighting dispositions |
+| [[emotional-granularity]] | Higher-dimensional categorization of affective prediction errors |
+| [[intellectual-virtue]] | Trained precision-weighting dispositions |
 | [[Narrative-Identity]] | The highest-level generative model organizing all experience |
 
 ---
@@ -439,11 +439,11 @@ The series builds cumulatively through **retroactive enrichment** — each tier 
 
 | Tier 1 Component | Tier 2 Extension | How Extended |
 |-----------------|-----------------|--------------|
-| [[Metacognitive-Monitoring]] (R06) | [[Physiological-Metacognition]] (R09) | Adds somatic channel to cognitive monitoring |
-| [[Fallibilism]] (R02) | [[Emotional-Granularity]] (R10) | Emotions carry epistemic information about belief quality |
-| [[Intellectual-Virtue]] (R05) | [[Social epistemic virtue]] (R12) | Extends individual virtues to communal practices |
-| [[Self-Directed-Learning]] (R07) | [[Phronesis|Practical wisdom]] (R11) | Self-direction must include situational perception |
-| [[Constructivism]] (R01, R04) | [[Predictive-Processing]] (R13) | PP provides computational mechanism for constructivist learning |
+| [[metacognitive-monitoring]] (R06) | [[Physiological-Metacognition]] (R09) | Adds somatic channel to cognitive monitoring |
+| [[fallibilism]] (R02) | [[emotional-granularity]] (R10) | Emotions carry epistemic information about belief quality |
+| [[intellectual-virtue]] (R05) | [[Social epistemic virtue]] (R12) | Extends individual virtues to communal practices |
+| [[self-directed-learning]] (R07) | [[Phronesis|Practical wisdom]] (R11) | Self-direction must include situational perception |
+| [[constructivism]] (R01, R04) | [[predictive-processing]] (R13) | PP provides computational mechanism for constructivist learning |
 | All Tier 1 + 2 | [[Narrative-Identity]] (R14) | All components need a meaning-making frame to be sustainable |
 
 ### 3.3 Emergent Themes
@@ -452,10 +452,10 @@ The series builds cumulatively through **retroactive enrichment** — each tier 
 > The series demonstrates that ancient philosophical practices (particularly Stoic exercises) are not merely historically interesting but functionally identical to evidence-based modern cognitive-behavioral interventions. The systematic mapping across 15 reports reveals this as a foundational methodological commitment, not an occasional analogy.
 
 > [!principle-point] Theme 2: Metacognition as the Master Practice
-> Across all tiers, [[Metacognition]] is the recurring thread: cognitive metacognition (R01, R06), physiological metacognition (R09), emotional metacognition (R10), social metacognition (R12), narrative metacognition (R14). The examined life, at every level, is metacognition applied to progressively wider domains.
+> Across all tiers, [[metacognition]] is the recurring thread: cognitive metacognition (R01, R06), physiological metacognition (R09), emotional metacognition (R10), social metacognition (R12), narrative metacognition (R14). The examined life, at every level, is metacognition applied to progressively wider domains.
 
 > [!principle-point] Theme 3: The Developmental Paradox
-> The framework requires the very capacities it aims to develop. You need [[metacognitive-awareness]] to begin developing metacognitive awareness; you need [[Emotional-Granularity]] to recognize you lack it. This circularity isn't a flaw — it's acknowledged as fundamental: "you must apply the framework to your own failures of the framework" (R15, Stage 3).
+> The framework requires the very capacities it aims to develop. You need [[metacognitive-awareness]] to begin developing metacognitive awareness; you need [[emotional-granularity]] to recognize you lack it. This circularity isn't a flaw — it's acknowledged as fundamental: "you must apply the framework to your own failures of the framework" (R15, Stage 3).
 
 ### 3.4 Tensions & Open Questions
 
@@ -528,17 +528,17 @@ Additionally, the "Role in Series" body text sections in all 8 notes describe co
 
 These concepts appear across the most reports and supporting documents, acting as connective hubs in the knowledge graph:
 
-1. **[[Metacognition]]** — appears in every report (15/15), 3 expansion topics, 5 reference notes
+1. **[[metacognition]]** — appears in every report (15/15), 3 expansion topics, 5 reference notes
 2. **[[Stoic-Philosophy]]** — appears in 12/15 reports, 2 expansion topics, 3 reference notes
-3. **[[Predictive-Processing]]** — appears in 5/15 reports but provides the unifying mechanism for all
-4. **[[Self-Determination-Theory]]** — appears in 6/15 reports, foundational for motivation and development
+3. **[[predictive-processing]]** — appears in 5/15 reports but provides the unifying mechanism for all
+4. **[[self-determination-theory]]** — appears in 6/15 reports, foundational for motivation and development
 5. **[[Phronesis]]** — appears in 8/15 reports, foundational for practical dimension
 
 ### 5.3 Bridge Concepts (Cross-Domain Connectors)
 
 - **[[Physiological-Metacognition]]** — bridges embodied cognition ↔ metacognitive theory
 - **[[Precision-Flexibility]]** — bridges predictive processing ↔ every other component
-- **[[Emotional-Granularity]]** — bridges emotion science ↔ epistemology
+- **[[emotional-granularity]]** — bridges emotion science ↔ epistemology
 - **[[Propatheiai]]** — bridges Stoic philosophy ↔ affective neuroscience
 - **[[Narrative Metacognition]]** — bridges narrative psychology ↔ metacognition
 
@@ -551,13 +551,13 @@ These concepts appear across the most reports and supporting documents, acting a
 
 ### Stage 1: Foundation — Understanding the Framework
 - **Read:** [[report-01-the-inquiry-engine|R01]], [[report-02-the-fallible-knower|R02]]
-- **Focus:** [[Aporic-Receptivity]], [[Fallibilism]], [[Socratic-Method]]
+- **Focus:** [[Aporic-Receptivity]], [[fallibilism]], [[socratic-method]]
 - **Supporting:** [[ref-dewey-how-we-think]], [[ref-kahneman-thinking-fast-and-slow]]
 - **Outcome:** Understanding that confusion is productive and all knowledge is provisional
 
 ### Stage 2: Core Epistemic Architecture
 - **Read:** [[report-03-the-motivated-mind|R03]] → [[report-04-cognitive-scaffolding|R04]] → [[report-05-the-virtuous-reasoner|R05]] → [[report-06-taming-system-1|R06]] → [[report-07-the-self-directed-learner|R07]]
-- **Focus:** [[Self-Determination-Theory|SDT]], [[Cognitive-Load-Theory|CLT]], [[Intellectual-Virtues]], [[debiasing]], [[Self-Regulated-Learning|SRL]]
+- **Focus:** [[self-determination-theory|SDT]], [[cognitive-load-theory|CLT]], [[intellectual-virtues]], [[debiasing]], [[self-regulated-learning|SRL]]
 - **Supporting:** [[ref-deci-ryan-self-determination-theory]], [[ref-vygotsky-mind-in-society]], [[ref-epictetus-discourses]]
 - **Outcome:** Operational understanding of how to cultivate good thinking habits
 
@@ -569,7 +569,7 @@ These concepts appear across the most reports and supporting documents, acting a
 
 ### Stage 4: Embodied & Emotional Extension
 - **Read:** [[report-09-the-embodied-thinker|R09]] → [[report-10-the-feeling-reasoner|R10]]
-- **Focus:** [[Physiological-Metacognition]], [[Emotional-Granularity]] as epistemic precision
+- **Focus:** [[Physiological-Metacognition]], [[emotional-granularity]] as epistemic precision
 - **Supporting:** [[ref-damasio-descartes-error]], [[ref-barrett-how-emotions-are-made]]
 - **Outcome:** Body and emotion are epistemic resources, not obstacles to clear thinking
 

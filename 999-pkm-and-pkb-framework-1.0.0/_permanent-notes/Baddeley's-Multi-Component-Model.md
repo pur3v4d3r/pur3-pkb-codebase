@@ -25,8 +25,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -84,7 +84,7 @@ importance: medium
 # Baddeley's Multi-Component Model
 
 > [!definition] **Baddeley's Multi-Component Model**
-> [**Baddeley-Multi-Component-WM**:: A model of working memory comprising four subsystems: the **[[Central-Executive]]** (attentional control, task coordination, resource allocation), the **[[Phonological-Loop]]** (verbal-acoustic rehearsal and temporary storage of speech-based information), the **[[Visuospatial-Sketchpad]]** (spatial and visual representation), and the **[[Episodic-Buffer]]** (multi-modal integration, binding information across subsystems and with long-term memory). First proposed by Baddeley & Hitch (1974), revised by Baddeley (2000) to include the episodic buffer.]
+> [**Baddeley-Multi-Component-WM**:: A model of working memory comprising four subsystems: the **[[central-executive]]** (attentional control, task coordination, resource allocation), the **[[phonological-loop]]** (verbal-acoustic rehearsal and temporary storage of speech-based information), the **[[visuospatial-sketchpad]]** (spatial and visual representation), and the **[[episodic-buffer]]** (multi-modal integration, binding information across subsystems and with long-term memory). First proposed by Baddeley & Hitch (1974), revised by Baddeley (2000) to include the episodic buffer.]
 
 ## Core Explanation
 
@@ -97,4 +97,4 @@ importance: medium
 
 ## Connections & Context
 
-**Related concepts:** [[4E-Cognition]] · [[ADHD]] · [[Active-Note-Making]] · [[Arousal]] · [[Attention]] · [[Attentional-Resources]] · [[Automaticity]] · [[Baddeley's-Working-Memory-Model]] · [[Central-Executive]] · [[Cerebellum]] · [[Christopher-Wickens]] · [[Cognition]] · [[Cognitive-Aging]] · [[Cognitive-Control]] · [[Cognitive-Load]]
+**Related concepts:** [[4e-cognition]] · [[ADHD]] · [[active-note-making]] · [[Arousal]] · [[attention]] · [[attentional-resources]] · [[automaticity]] · [[Baddeley's-Working-Memory-Model]] · [[central-executive]] · [[Cerebellum]] · [[Christopher-Wickens]] · [[cognition]] · [[Cognitive-Aging]] · [[Cognitive-Control]] · [[cognitive-load]]

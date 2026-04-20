@@ -36,8 +36,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -48,7 +48,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -72,49 +72,49 @@ narrower:
   []
 
 see-also:
-  - "[[Goal-Setting-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Autonomous-Motivation]]"
-  - "[[Mastery-Goal]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Self-Directed-Learning]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Autonomy-Need]]"
-  - "[[Competence-Need]]"
-  - "[[Relatedness-Need]]"
-  - "[[Goal-Setting-Theory]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Calibration]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[autonomous-motivation|Autonomous-Motivation]]"
+  - "[[mastery-goal|Mastery-Goal]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[self-directed-learning|Self-Directed-Learning]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[autonomy-need|Autonomy-Need]]"
+  - "[[competence-need|Competence-Need]]"
+  - "[[relatedness-need|Relatedness-Need]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[calibration|Calibration]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-emerged-from-this-report-as-warranting-separate,-sustained|The following topics emerged from this report as warranting separate, sustained investigation. Each ]]"
+  - topic: "[[The following topics emerged from this report as warranting separate, sustained investigation. Each ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Gollwitzer's-implementation-intentions-theory-—-the-practice-of-pre|**Description:** Gollwitzer's implementation intentions theory — the practice of pre-committing to s]]"
+  - topic: "[[**Description:** Gollwitzer's implementation intentions theory — the practice of pre-committing to s]]"
     description: ""
     priority: medium
-  - topic: "[[Description-This-report-treats-motivation-primarily-through-the-cognitive-struct|**Description:** This report treats motivation primarily through the cognitive-structural lens of SD]]"
+  - topic: "[[**Description:** This report treats motivation primarily through the cognitive-structural lens of SD]]"
     description: ""
     priority: medium
-  - topic: "[[Description-This-report-identifies-formative-assessment-as-the-appropriate-parad|**Description:** This report identifies formative assessment as the appropriate paradigm for PKM eva]]"
+  - topic: "[[**Description:** This report identifies formative assessment as the appropriate paradigm for PKM eva]]"
     description: ""
     priority: medium
 
@@ -170,7 +170,7 @@ importance: high
 > The paper that named metacognition as a field and proposed the person-task-strategy taxonomy of metacognitive knowledge. Foundational vocabulary for all subsequent metacognitive research.
 
 > [!analytical-insight] Key Insight *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> The performance benefits of goal difficulty documented in [[Goal-Setting-Theory|goal-setting theory]] depend not merely on the difficulty level itself but on the individual's *regulatory response* to difficulty. In PKM contexts, where the purpose is learning rather than production, the critical variable is whether a difficult goal triggers strategic adaptation (associated with [[Mastery-Goal|mastery orientation]]) or defensive withdrawal (associated with [[Performance-Goal|performance…
+> The performance benefits of goal difficulty documented in [[goal-setting-theory|goal-setting theory]] depend not merely on the difficulty level itself but on the individual's *regulatory response* to difficulty. In PKM contexts, where the purpose is learning rather than production, the critical variable is whether a difficult goal triggers strategic adaptation (associated with [[mastery-goal|mastery orientation]]) or defensive withdrawal (associated with [[Performance-Goal|performance…
 
 > [!analytical-insight] Key Insight *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
 > In PKM practice, self-regulated learning is not merely a theoretical framework to be *studied* but an operational system to be *enacted*. Every meaningful learning session within a vault involves — whether the practitioner recognises it or not — a forethought phase (setting the session's purpose), a performance phase (engaging with sources, constructing notes, building connections), and a self-reflection phase (evaluating what was accomplished and what remains). The quality of each phase…
@@ -198,31 +198,31 @@ importance: high
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Edwin Locke (b. 1938) & Gary Latham (b. 1945)** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Founders of [[Goal-Setting-Theory|goal-setting theory]]. Their 35-year programmatic research collaboration, spanning over 1,000 studies, established that specific, difficult goals enhance performance through direction, effort, persistence, and strategy-development mechanisms. Key works: *A Theory of Goal Setting and Task Performance* (1990), "Building a Practically Useful Theory of Goal Setting and Task Motivation" (2002). Relationship to other figures: their work provides the specificity-and-difficulty mechanism that SDT qualifies with motivational quality.
+> Founders of [[goal-setting-theory|goal-setting theory]]. Their 35-year programmatic research collaboration, spanning over 1,000 studies, established that specific, difficult goals enhance performance through direction, effort, persistence, and strategy-development mechanisms. Key works: *A Theory of Goal Setting and Task Performance* (1990), "Building a Practically Useful Theory of Goal Setting and Task Motivation" (2002). Relationship to other figures: their work provides the specificity-and-difficulty mechanism that SDT qualifies with motivational quality.
 
 > [!person] **Edward Deci (1942–2022) & Richard Ryan (b. 1953)** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Co-founders of [[Self-Determination-Theory]]. Developed the taxonomy of motivational regulation (intrinsic, identified, introjected, external), the basic psychological needs framework ([[Autonomy-Need|autonomy]], [[Competence-Need|competence]], [[Relatedness-Need|relatedness]]), and six mini-theories including cognitive evaluation theory, organismic integration theory, and goal contents theory. Key works: *Intrinsic Motivation and Self-Determination in Human Behavior* (1985), *Self-Determination and Intrinsic Motivation in Human Behavior* (2000). Relationship: their autonomy framework…
+> Co-founders of [[self-determination-theory]]. Developed the taxonomy of motivational regulation (intrinsic, identified, introjected, external), the basic psychological needs framework ([[autonomy-need|autonomy]], [[competence-need|competence]], [[relatedness-need|relatedness]]), and six mini-theories including cognitive evaluation theory, organismic integration theory, and goal contents theory. Key works: *Intrinsic Motivation and Self-Determination in Human Behavior* (1985), *Self-Determination and Intrinsic Motivation in Human Behavior* (2000). Relationship: their autonomy framework…
 
 > [!person] **Carol Dweck (b. 1946)** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Developer of implicit theories of intelligence and the [[Growth-Mindset|growth/fixed mindset]] framework. Her research demonstrated that children's *theories* of intelligence — incremental vs. entity — determine their goal orientations, persistence patterns, and responses to failure. Key works: *Self-Theories* (1999), *Mindset* (2006). Relationship: her work on learning goals vs. performance goals was seminal for [[Achievement-Goal-Theory]] and was extended by Elliot's 2×2 framework.
+> Developer of implicit theories of intelligence and the [[growth-mindset|growth/fixed mindset]] framework. Her research demonstrated that children's *theories* of intelligence — incremental vs. entity — determine their goal orientations, persistence patterns, and responses to failure. Key works: *Self-Theories* (1999), *Mindset* (2006). Relationship: her work on learning goals vs. performance goals was seminal for [[achievement-goal-theory]] and was extended by Elliot's 2×2 framework.
 
 > [!person] **Andrew Elliot (b. 1962)** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
 > Architect of the 2×2 achievement goal framework crossing mastery/performance with approach/avoidance. This taxonomic refinement resolved inconsistencies in earlier achievement goal research and revealed that performance-approach goals can sometimes enhance achievement (though not deep learning). Key work: "A 2 × 2 Achievement Goal Framework" (2001, with McGregor). Relationship: extended Dweck and Ames's binary into a four-cell model with greater predictive precision.
 
 > [!person] **Barry Zimmerman (1942–2020)** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Developer of the tripartite [[Zimmerman-SRL-Model|SRL model]] (forethought → performance → self-reflection) and leading theorist of self-regulation as a learnable skill. His work demonstrated that expert self-regulators differ from novices not in cognitive ability but in the quality of their regulatory processes. Key works: "Self-Regulated Learning and Academic Achievement" (1990, 2000). Relationship: his SRL cycle provides the process architecture within which Locke-Latham's goal mechanisms and Deci-Ryan's motivational dynamics operate.
+> Developer of the tripartite [[zimmerman-srl-model|SRL model]] (forethought → performance → self-reflection) and leading theorist of self-regulation as a learnable skill. His work demonstrated that expert self-regulators differ from novices not in cognitive ability but in the quality of their regulatory processes. Key works: "Self-Regulated Learning and Academic Achievement" (1990, 2000). Relationship: his SRL cycle provides the process architecture within which Locke-Latham's goal mechanisms and Deci-Ryan's motivational dynamics operate.
 
 > [!person] **Paul Pintrich (1953–2003)** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
 > Developer of the 4×4 SRL framework crossing phases (forethought, monitoring, control, reflection) with areas (cognition, motivation, behaviour, context). His insight that self-regulation encompasses motivational and contextual regulation — not just cognitive and behavioural — expanded the design space for learning-support systems. Key works: "The Role of Goal Orientation in Self-Regulated Learning" (2000). Relationship: extended Zimmerman's model with the motivational regulation dimension critical for PKM.
 
 > [!person] **John Flavell (b. 1928)** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Pioneer of [[Metacognition|metacognition]], coining the term and proposing the tripartite model of metacognitive knowledge (person, task, strategy). His framework provides the vocabulary for understanding what learners know about their own cognitive processes and how that knowledge guides self-regulation. Key work: "Metacognition and Cognitive Monitoring" (1979). Relationship: his taxonomy of metacognitive knowledge complements Nelson & Narens's process model of monitoring and control.
+> Pioneer of [[metacognition|metacognition]], coining the term and proposing the tripartite model of metacognitive knowledge (person, task, strategy). His framework provides the vocabulary for understanding what learners know about their own cognitive processes and how that knowledge guides self-regulation. Key work: "Metacognition and Cognitive Monitoring" (1979). Relationship: his taxonomy of metacognitive knowledge complements Nelson & Narens's process model of monitoring and control.
 
 > [!person] **Thomas Nelson (1943–2005) & Louis Narens** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Developers of the [[Nelson-Narens-Model|monitoring-control framework]] of metacognition, distinguishing meta-level from object-level with information flowing in two directions: monitoring (object → meta) and control (meta → object). This model provides the computational architecture for understanding how learners generate and use self-assessment data. Key work: "Metamemory: A Theoretical Framework and New Findings" (1990). Relationship: their framework is the mechanistic complement to Flavell's taxonomic approach.
+> Developers of the [[nelson-narens-model|monitoring-control framework]] of metacognition, distinguishing meta-level from object-level with information flowing in two directions: monitoring (object → meta) and control (meta → object). This model provides the computational architecture for understanding how learners generate and use self-assessment data. Key work: "Metamemory: A Theoretical Framework and New Findings" (1990). Relationship: their framework is the mechanistic complement to Flavell's taxonomic approach.
 
 > [!person] **Paul Black & Dylan Wiliam** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Architects of the [[Formative-Assessment|formative assessment]] research programme demonstrating that assessment-for-learning — assessment designed to inform ongoing instruction and learning rather than certify attainment — produces substantial learning gains. Key work: "Inside the Black Box" (1998), "Developing the Theory of Formative Assessment" (2009). Relationship: their formative assessment principles translate directly into the monitoring and reflective-assessment layers of PKM design.
+> Architects of the [[formative-assessment|formative assessment]] research programme demonstrating that assessment-for-learning — assessment designed to inform ongoing instruction and learning rather than certify attainment — produces substantial learning gains. Key work: "Inside the Black Box" (1998), "Developing the Theory of Formative Assessment" (2009). Relationship: their formative assessment principles translate directly into the monitoring and reflective-assessment layers of PKM design.
 
 ## Conceptual Tensions
 
@@ -240,7 +240,7 @@ importance: high
 > [!tension] **Scaffolding vs. Dependency in PKM Templates** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
 > **Position A:** Structured templates scaffold developing self-regulatory skills by externalising the forethought, monitoring, and reflection processes that novice learners cannot yet manage internally.
 > **Position B:** Over-reliance on templates can substitute for genuine metacognitive development — the learner fills in fields without engaging the underlying cognitive processes the fields were meant to activate.
-> **Current evidence:** The [[Scaffolding|scaffolding]] literature supports gradual fading — providing structure initially and reducing it as competence develops. Empirical evidence on…
+> **Current evidence:** The [[scaffolding|scaffolding]] literature supports gradual fading — providing structure initially and reducing it as competence develops. Empirical evidence on…
 
 ## Open Questions
 
@@ -292,15 +292,15 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge — Connecting What You Already Know** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> If you have engaged with reports on [[Self-Determination-Theory]], [[Self-Regulated-Learning]], or [[Metacognition]] in this knowledge base, you already possess the theoretical infrastructure necessary to follow this analysis. You know that [[Intrinsic-Motivation|intrinsic motivation]] arises when the basic psychological needs for [[Autonomy-Need|autonomy]], [[Competence-Need|competence]], and [[Relatedness-Need|relatedness]] are satisfied. You know that self-regulated learners cycle through phases of forethought, performance, and self-reflection. You know that metacognitive monitoring…
+> If you have engaged with reports on [[self-determination-theory]], [[self-regulated-learning]], or [[metacognition]] in this knowledge base, you already possess the theoretical infrastructure necessary to follow this analysis. You know that [[intrinsic-motivation|intrinsic motivation]] arises when the basic psychological needs for [[autonomy-need|autonomy]], [[competence-need|competence]], and [[relatedness-need|relatedness]] are satisfied. You know that self-regulated learners cycle through phases of forethought, performance, and self-reflection. You know that metacognitive monitoring…
 
 ## Active Reading Prompts
 
 > [!active-reading] **Pause and Map** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> Before proceeding, take a moment to construct a mental model of the relationship between [[Goal-Setting-Theory|goal-setting theory]]'s specificity mechanism and [[Self-Determination-Theory]]'s autonomy requirement. The remainder of this report will build on the premise that these two frameworks are in productive tension — each illuminating a real feature of goal-directed learning that the other tends to neglect. The task is not to choose between them but to design systems that honour both simultaneously.
+> Before proceeding, take a moment to construct a mental model of the relationship between [[goal-setting-theory|goal-setting theory]]'s specificity mechanism and [[self-determination-theory]]'s autonomy requirement. The remainder of this report will build on the premise that these two frameworks are in productive tension — each illuminating a real feature of goal-directed learning that the other tends to neglect. The task is not to choose between them but to design systems that honour both simultaneously.
 
 > [!active-reading] **Integration Point — Four Frameworks Converging** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> You now have four theoretical lenses operating simultaneously: [[Goal-Setting-Theory|goal-setting theory]] (specificity + difficulty → mechanisms of direction, effort, persistence, strategy), [[Self-Determination-Theory]] (autonomy + competence + relatedness → motivational quality), [[Achievement-Goal-Theory]] (mastery vs. performance orientation → definition of success), and [[Self-Regulated-Learning]] (forethought → performance → reflection → forethought). Sections 5 and 6 will add the metacognitive dimension and then turn to the specific problem of *language* — how the words in which goals…
+> You now have four theoretical lenses operating simultaneously: [[goal-setting-theory|goal-setting theory]] (specificity + difficulty → mechanisms of direction, effort, persistence, strategy), [[self-determination-theory]] (autonomy + competence + relatedness → motivational quality), [[achievement-goal-theory]] (mastery vs. performance orientation → definition of success), and [[self-regulated-learning]] (forethought → performance → reflection → forethought). Sections 5 and 6 will add the metacognitive dimension and then turn to the specific problem of *language* — how the words in which goals…
 
 > [!active-reading] **Synthesis Checkpoint** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
 > The four integrative principles above — goals as cognitive-motivational instruments, language as the primary lever, assessment as constitutive of learning, and the specificity-autonomy dialectic as productive design space — constitute this report's primary theoretical contribution. Before proceeding to the far-transfer applications, consider how these principles relate to your own PKM practice: which principle is most immediately actionable? Which challenges your current assumptions most directly?
@@ -326,14 +326,14 @@ importance: high
 > 
 > **Goal A (High specificity, low autonomy):** "Read Chapter 4 of Schraw & Moshman (1995), create exactly three permanent notes using the atomic note template, and link each to the Metacognition MOC by Wednesday."
 > 
-> **Goal B (Motivational grammar applied):** "Develop an understanding of [[Metacognitive-Knowledge|metacognitive knowledge]] subtypes sufficient to distinguish them in my own learning practice, drawing on sources I select, and documented in my vault in whatever form best captures my understanding, by the end of next week."
+> **Goal B (Motivational grammar applied):** "Develop an understanding of [[metacognitive-knowledge|metacognitive knowledge]] subtypes sufficient to distinguish them in my own learning practice, drawing on sources I select, and documented in my vault in whatever form best captures my understanding, by the end of next week."
 > 
 > Goal A…
 
 > [!example] **Pintrich's Four-Area Regulation in PKM Practice** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
 > Consider a learner working through a complex research topic in their vault:
 > 
-> - **Cognitive regulation:** "I've identified that my understanding of [[Metacognitive-Regulation|metacognitive regulation]] strategies breaks down when I try to distinguish control processes from monitoring processes. I need to find a source that treats them as a system rather than a list."
+> - **Cognitive regulation:** "I've identified that my understanding of [[metacognitive-regulation|metacognitive regulation]] strategies breaks down when I try to distinguish control processes from monitoring processes. I need to find a source that treats them as a system rather than a list."
 > - **Motivational regulation:** "I notice my engagement dropping when the material becomes highly technical. Rather than pushing through, I'll switch to a more accessible source and return to the technical material when my interest…
 
 > [!example] **A Linguistic Analysis of PKM Goals** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
@@ -349,7 +349,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **Goals as Epistemic Instruments** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
-> There is an underappreciated sense in which the act of setting a learning goal is itself an epistemological event. To formulate a specific goal about a knowledge domain — "analyse the relationship between [[Autonomous-Motivation|autonomous motivation]] and [[Metacognitive-Regulation|metacognitive regulation]] in PKM practice" — requires a preliminary mapping of the domain's conceptual structure. You cannot specify what you want to learn without first representing, however roughly, the landscape of what you do not yet know. In this sense, goal-setting in PKM functions as a *metacognitive act*:…
+> There is an underappreciated sense in which the act of setting a learning goal is itself an epistemological event. To formulate a specific goal about a knowledge domain — "analyse the relationship between [[autonomous-motivation|autonomous motivation]] and [[metacognitive-regulation|metacognitive regulation]] in PKM practice" — requires a preliminary mapping of the domain's conceptual structure. You cannot specify what you want to learn without first representing, however roughly, the landscape of what you do not yet know. In this sense, goal-setting in PKM functions as a *metacognitive act*:…
 
 > [!claude-insight] **The Motivational Grammar Framework** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*
 > The specificity-autonomy dialectic suggests that effective PKM goals require what might be called a *motivational grammar* — a structured syntax for goal formulation that satisfies the specificity requirements of goal-setting theory while embedding the autonomy markers that SDT identifies as essential for high-quality motivation. Such a grammar would include: (a) *content specificity* — clear identification of the knowledge domain and the depth of understanding sought; (b) *process autonomy* — explicit preservation of the learner's choice about methods, sequence, and sources; (c) *criterion…
@@ -611,19 +611,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[goal-setting-and-assessment-language-in-pkm-foundational-report-2026-04-15]])*:
-- [[Goal-Setting-Theory]]
-- [[Self-Determination-Theory]]
-- [[Self-Regulated-Learning]]
-- [[Metacognition]]
-- [[Achievement-Goal-Theory]]
-- [[Formative-Assessment]]
-- [[Personal-Knowledge-Management]]
-- [[Obsidian-Templater]]
-- [[Obsidian-Dataview]]
-- [[Learning-Strategy-Selection]]
+- [[goal-setting-theory|Goal-Setting-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[metacognition|Metacognition]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[formative-assessment|Formative-Assessment]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[obsidian-templater|Obsidian-Templater]]
+- [[obsidian-dataview|Obsidian-Dataview]]
+- [[learning-strategy-selection|Learning-Strategy-Selection]]
 
 **Related concepts:**
-[[Goal-Setting-Theory]] · [[Achievement-Goal-Theory]] · [[Self-Determination-Theory]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Personal-Knowledge-Management]] · [[Autonomous-Motivation]] · [[Mastery-Goal]] · [[Metacognitive-Monitoring]] · [[Self-Directed-Learning]] · [[Self-Determination-Theory]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Intrinsic-Motivation]] · [[Autonomy-Need]] · [[Competence-Need]] · [[Relatedness-Need]] · [[Goal-Setting-Theory]] · [[Metacognitive-Monitoring]] · [[Calibration]] · [[Goal-Setting-Theory]] · [[Self-Determination-Theory]] · [[Goal-Setting-Theory]] · [[Metacognitive-Monitoring]] · [[Nelson-Narens-Model]] · [[Deliberate-Practice]] · [[Desirable-Difficulties]] · [[Goal-Setting-Theory]] · [[Mastery-Goal]] · [[Performance-Goal]]
+[[goal-setting-theory|Goal-Setting-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition|Metacognition]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[autonomous-motivation|Autonomous-Motivation]] · [[mastery-goal|Mastery-Goal]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[self-directed-learning|Self-Directed-Learning]] · [[self-determination-theory|Self-Determination-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition|Metacognition]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[autonomy-need|Autonomy-Need]] · [[competence-need|Competence-Need]] · [[relatedness-need|Relatedness-Need]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[calibration|Calibration]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[deliberate-practice|Deliberate-Practice]] · [[desirable-difficulties|Desirable-Difficulties]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[mastery-goal|Mastery-Goal]] · [[performance-goal|Performance-Goal]]
 
 ## References
 

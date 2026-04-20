@@ -270,13 +270,13 @@ extraction_summary:
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred-Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[virtue-ethics]], and the distinction between [[Preferred-Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 #### 18. [KEY-TAKEAWAY] Untitled *(Line 494)*
 
 > [!key-takeaway] Untitled
-> The most important thing to understand about Stoicism is not any particular doctrine but its fundamental wager: that genuine happiness — [[Eudaimonia]], human flourishing — is available to any rational being, regardless of external circumstances, because it depends entirely on something that is always within our reach: the quality of our own judgments, choices, and responses. Everything the Stoic tradition built — its logic, its physics, its ethics, its practices — is in service of making this wager livable.
+> The most important thing to understand about Stoicism is not any particular doctrine but its fundamental wager: that genuine happiness — [[eudaimonia]], human flourishing — is available to any rational being, regardless of external circumstances, because it depends entirely on something that is always within our reach: the quality of our own judgments, choices, and responses. Everything the Stoic tradition built — its logic, its physics, its ethics, its practices — is in service of making this wager livable.
 
 #### 19. [REFLECTION] Untitled *(Line 497)*
 
@@ -361,25 +361,25 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
-- [[Aristotle]]
+- [[aristotle]]
 - [[Chrysippus]]
 - [[Chrysippus — Systematic Stoic Doctrine]]
 - [[Cicero]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Cynicism]]
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Epicureanism]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[James Stockdale and Stoicism Under Fire]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
 - [[Musonius Rufus — Roman Stoic Teacher]]
-- [[Pierre-Hadot]]
+- [[pierre-hadot]]
 - [[Plato]]
 - [[Platonism]]
 - [[Plutarch]]
@@ -388,7 +388,7 @@ extraction_summary:
 - [[Prohairesis]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Seneca]]
-- [[Socrates]]
+- [[socrates]]
 - [[Stoa Poikile]]
 - [[Stobaeus]]
 - [[Stoic Cosmopolitanism — The Universal Community of Reason]]
@@ -399,7 +399,7 @@ extraction_summary:
 - [[The Stoa Poikile — Philosophy in the Agora]]
 - [[Thomas Aquinas]]
 - [[Virtue]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Zeno of Citium]]
 - [[Zeus]]
 - [[fate]]
@@ -413,10 +413,10 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism Series Overview]] | — | — | Introduction to Stoicism: Origins and... | 237 |
 | 2 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Introduction to Stoicism: Origins and... | 240 |
-| 3 | [[Socrates]] | — | — | Athens, 300 BCE: A City of Competing ... | 251 |
+| 3 | [[socrates]] | — | — | Athens, 300 BCE: A City of Competing ... | 251 |
 | 4 | [[Plato]] | — | — | Athens, 300 BCE: A City of Competing ... | 251 |
 | 5 | [[Platonism]] | Academy | — | Athens, 300 BCE: A City of Competing ... | 251 |
-| 6 | [[Aristotle]] | — | — | Athens, 300 BCE: A City of Competing ... | 251 |
+| 6 | [[aristotle]] | — | — | Athens, 300 BCE: A City of Competing ... | 251 |
 | 7 | [[Zeno of Citium]] | — | — | Athens, 300 BCE: A City of Competing ... | 255 |
 | 8 | [[Stoa Poikile]] | — | — | Zeno of Citium and the Stoa Poikile | 273 |
 | 9 | [[Chrysippus]] | — | — | The Three Phases of Stoic History | 281 |
@@ -437,11 +437,11 @@ extraction_summary:
 | 24 | [[Cicero]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
 | 25 | [[Plutarch]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
 | 26 | [[Stobaeus]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
-| 27 | [[Aaron-Beck]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
+| 27 | [[aaron-beck]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
 | 28 | [[Albert Ellis]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
-| 29 | [[Cognitive-Behavioral-Therapy]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
-| 30 | [[Pierre-Hadot]] | — | — | Part 4: The Stoic Toolkit — Practical... | 417 |
-| 31 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
+| 29 | [[cognitive-behavioral-therapy]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
+| 30 | [[pierre-hadot]] | — | — | Part 4: The Stoic Toolkit — Practical... | 417 |
+| 31 | [[cognitive-behavioral-therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
 | 32 | [[Acceptance-and-Commitment-Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
 | 33 | [[Rational Emotive Behavior Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
 | 34 | [[Albert Ellis]] | — | — | Part 5: Stoicism and the Science of M... | 458 |
@@ -451,10 +451,10 @@ extraction_summary:
 | 38 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 6: Integration — How This Connec... | 475 |
 | 39 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 6: Integration — How This Connec... | 476 |
 | 40 | [[Dichotomy-of-Control]] | — | — | Part 6: Integration — How This Connec... | 477 |
-| 41 | [[Virtue-Ethics]] | — | — | Part 6: Integration — How This Connec... | 477 |
+| 41 | [[virtue-ethics]] | — | — | Part 6: Integration — How This Connec... | 477 |
 | 42 | [[Preferred-Indifferents]] | — | — | Part 6: Integration — How This Connec... | 477 |
 | 43 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 6: Integration — How This Connec... | 478 |
-| 44 | [[Eudaimonia]] | — | — | Conclusion: The Living Practice | 495 |
+| 44 | [[eudaimonia]] | — | — | Conclusion: The Living Practice | 495 |
 | 45 | [[Musonius Rufus — Roman Stoic Teacher]] | — | — | Expansion Topics for PKB | 558 |
 | 46 | [[Chrysippus — Systematic Stoic Doctrine]] | — | — | Expansion Topics for PKB | 560 |
 | 47 | [[Stoic Cosmopolitanism — The Universal Community of Reason]] | — | — | Expansion Topics for PKB | 562 |
@@ -500,25 +500,25 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
-- [[Aristotle]]
+- [[aristotle]]
 - [[Chrysippus]]
 - [[Chrysippus — Systematic Stoic Doctrine]]
 - [[Cicero]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Cynicism]]
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Epicureanism]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[James Stockdale and Stoicism Under Fire]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
 - [[Musonius Rufus — Roman Stoic Teacher]]
-- [[Pierre-Hadot]]
+- [[pierre-hadot]]
 - [[Plato]]
 - [[Platonism]]
 - [[Plutarch]]
@@ -527,7 +527,7 @@ extraction_summary:
 - [[Prohairesis]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Seneca]]
-- [[Socrates]]
+- [[socrates]]
 - [[Stoa Poikile]]
 - [[Stobaeus]]
 - [[Stoic Cosmopolitanism — The Universal Community of Reason]]
@@ -538,7 +538,7 @@ extraction_summary:
 - [[The Stoa Poikile — Philosophy in the Agora]]
 - [[Thomas Aquinas]]
 - [[Virtue]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Zeno of Citium]]
 - [[Zeus]]
 - [[fate]]
@@ -564,12 +564,12 @@ extraction_summary:
 - [[Ancient Greek Philosophy]]
 - [[Hellenistic Philosophy]]
 - [[Cynicism]]
-- [[Socrates]]
+- [[socrates]]
 
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Ancient Philosophy]]
 - [[Hellenistic-period]]
 
@@ -587,7 +587,7 @@ extraction_summary:
 - [[Cynicism]]
 - [[Platonism]]
 - [[Peripatetics]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Mindfulness]]
 
 ---

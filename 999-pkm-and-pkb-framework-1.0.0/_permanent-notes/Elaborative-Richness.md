@@ -5,6 +5,7 @@
 title: "Elaborative Richness"
 aliases:
   - "Elaborative Richness"
+  - "Elaborative-Richness"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,41 +70,41 @@ narrower:
   []
 
 see-also:
-  - "[[Elaborative-Interrogation]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Elaborative-Interrogation]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Generative-Learning-Theory]]"
-  - "[[Schema-Theory-and-Learning]]"
-  - "[[Prior-Knowledge]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Generation-Effect]]"
-  - "[[Generative-Learning-Theory]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Prior-Knowledge-Activation]]"
-  - "[[The-Generation-Effect]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Calibration]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Retrieval-Practice]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[generative-learning-theory|Generative-Learning-Theory]]"
+  - "[[schema-theory-and-learning|Schema-Theory-and-Learning]]"
+  - "[[prior-knowledge|Prior-Knowledge]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[generation-effect|Generation-Effect]]"
+  - "[[generative-learning-theory|Generative-Learning-Theory]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[prior-knowledge-activation|Prior-Knowledge-Activation]]"
+  - "[[the-generation-effect|The-Generation-Effect]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[calibration|Calibration]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Schema-Theory-and-Learning]]"
-  - "[[Generation-Effect]]"
-  - "[[Prior-Knowledge-Activation]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[schema-theory-and-learning|Schema-Theory-and-Learning]]"
+  - "[[generation-effect|Generation-Effect]]"
+  - "[[prior-knowledge-activation|Prior-Knowledge-Activation]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Self-Explanation-Effect-Description-The-self-explanation-literature|> [!topic-idea] [[Self-Explanation-Effect]]
+  - topic: "[[> [!topic-idea] [[self-explanation-effect]]
 > **Description:** The self-explanation literature (Chi ]]"
     description: ""
     priority: medium
@@ -125,7 +126,7 @@ importance: high
 > 
 > **Research Status:** Theoretically well-motivated but operationally underspecified; the distinction between "rich" and "sparse" elaborations is typically assessed post-hoc by coders rather than prospectively by learners. Developing reliable prospective richness assessment tools is an open problem in the EI literature.
 > 
-> **See also:** [[Levels-of-Processing-Theory]], [[Processing-Depth]], [[Meaningful-Learning-Theory]], [[Generative-Learning-Theory]], [[Schema-Theory]]
+> **See also:** [[levels-of-processing-theory]], [[processing-depth]], [[meaningful-learning-theory]], [[generative-learning-theory]], [[schema-theory]]
 
 ## Core Explanation
 
@@ -222,7 +223,7 @@ importance: high
 > [!person] **Fergus Craik (Contemporary)** *(from [[elaborative-interrogation-foundational-report-2026-03-30]])*
 > Emeritus Professor at the Rotman Research Institute, Toronto; co-author with Robert Lockhart of the 1972 levels-of-processing paper that established the theoretical framework within which EI is most naturally understood. Craik's subsequent work on elaboration within processing depth directly informs the distinction between sparse and rich elaborations that is central to this report's mechanism analysis.
 > 
-> **Lineage:** Trained in the Bartlettian cognitive tradition; influenced by William James's account of attention and memory. [[Fergus-I.-M.-Craik|Fergus I. M. Craik]] represents the bridge…
+> **Lineage:** Trained in the Bartlettian cognitive tradition; influenced by William James's account of attention and memory. [[fergus-i.-m.-craik|Fergus I. M. Craik]] represents the bridge…
 
 > [!person] **Merlin Wittrock (1931–2007)** *(from [[elaborative-interrogation-foundational-report-2026-03-30]])*
 > Professor at UCLA; originator of generative learning theory (1974, 1990). Wittrock's work established that learning is fundamentally a constructive process and that instructional interventions should maximise active knowledge construction rather than passive reception. His generative model anticipates EI's design and provides the broader theoretical home in which EI's specific mechanism is situated.
@@ -427,41 +428,39 @@ importance: high
 > - What is the central claim in the source that you want to encode? State it in one sentence.
 > 
 > **Step 2 — Generate the Node-Integration Question:**
-> - "Why would this be true, given what I already know about [[related-PKB-node-1]] and [[related-PKB-node-2]]?"
+> - "Why would this be true, given what I already know about [[related-PKB-node-1|related PKB node 1]] and [[related-PKB-node-2|related PKB node 2]]?"
 > 
 > **Step 3 — Generate the Integration Answer:**
-> - Write 3–8 sentences explaining how the novel proposition relates to the existing PKB nodes referenced. This becomes the *primary content of the note*, not the original proposition.
-> 
-> **Step…
+> - Write 3–8 sentences explaining how the novel proposition relates to the existing PKB nodes referenced. This becomes the *primary content of the note*,…
 
 ## Connections & Context
 
 **Cross-report connections** *(from [[elaborative-interrogation-foundational-report-2026-03-30]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Schema-Theory-and-Learning]]
-- [[Generation-Effect]]
-- [[Prior-Knowledge-Activation]]
-- [[Situation-Models-in-Text-Comprehension]]
-- [[Metacognitive-Knowledge]]
-- [[Transfer-of-Learning]]
-- [[Self-Explanation-Effect]]
-- [[Writing-to-Learn]]
-- [[Retrieval-Practice]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[schema-theory-and-learning|Schema-Theory-and-Learning]]
+- [[generation-effect|Generation-Effect]]
+- [[prior-knowledge-activation|Prior-Knowledge-Activation]]
+- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
+- [[metacognitive-knowledge|Metacognitive-Knowledge]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[self-explanation-effect|Self-Explanation-Effect]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[retrieval-practice|Retrieval-Practice]]
 
 **Cross-report connections** *(from [[elaborative-interrogation-foundational-report-2026-03-30]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Schema-Theory-and-Learning]]
-- [[Generation-Effect]]
-- [[Generative-Learning-Theory]]
-- [[Metacognitive-Knowledge]]
-- [[Situation-Models-in-Text-Comprehension]]
-- [[Self-Regulated-Learning]]
-- [[Writing-to-Learn]]
-- [[Retrieval-Practice]]
-- [[Habit-Formation]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[schema-theory-and-learning|Schema-Theory-and-Learning]]
+- [[generation-effect|Generation-Effect]]
+- [[generative-learning-theory|Generative-Learning-Theory]]
+- [[metacognitive-knowledge|Metacognitive-Knowledge]]
+- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[retrieval-practice|Retrieval-Practice]]
+- [[habit-formation|Habit-Formation]]
 
 **Related concepts:**
-[[Elaborative-Interrogation]] · [[Personal-Knowledge-Base]] · [[Fluency-Illusion]] · [[Elaborative-Interrogation]] · [[Levels-of-Processing-Theory]] · [[Generative-Learning-Theory]] · [[Schema-Theory-and-Learning]] · [[Prior-Knowledge]] · [[Self-Explanation-Effect]] · [[Self-Explanation-Effect]] · [[Generation-Effect]] · [[Generative-Learning-Theory]] · [[Levels-of-Processing-Theory]] · [[Self-Explanation-Effect]] · [[Prior-Knowledge-Activation]] · [[The-Generation-Effect]] · [[Metacognitive-Knowledge]] · [[Calibration]] · [[Self-Explanation-Effect]] · [[Retrieval-Practice]] · [[Self-Explanation-Effect]] · [[KWL-Strategy]] · [[Writing-to-Learn]] · [[ICAP-Framework]] · [[Levels-of-Processing-Theory]] · [[Fergus-I.-M.-Craik]] · [[Maintenance-Rehearsal]] · [[Shallow-Processing]] · [[Shallow-Processing]] · [[Fluency-Illusion]]
+[[elaborative-interrogation|Elaborative-Interrogation]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[fluency-illusion|Fluency-Illusion]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[generative-learning-theory|Generative-Learning-Theory]] · [[schema-theory-and-learning|Schema-Theory-and-Learning]] · [[prior-knowledge|Prior-Knowledge]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[generation-effect|Generation-Effect]] · [[generative-learning-theory|Generative-Learning-Theory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[the-generation-effect|The-Generation-Effect]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[calibration|Calibration]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[retrieval-practice|Retrieval-Practice]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[kwl-strategy|KWL-Strategy]] · [[writing-to-learn|Writing-to-Learn]] · [[icap-framework|ICAP-Framework]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[fergus-i.-m.-craik|Fergus-I.-M.-Craik]] · [[maintenance-rehearsal|Maintenance-Rehearsal]] · [[shallow-processing|Shallow-Processing]] · [[shallow-processing|Shallow-Processing]] · [[fluency-illusion|Fluency-Illusion]]
 
 ## References
 

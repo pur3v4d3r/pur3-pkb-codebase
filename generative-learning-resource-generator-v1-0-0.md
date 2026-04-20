@@ -80,24 +80,24 @@ pipeline_sequence: 0
 
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
-  - "[[Generative-Learning-Theory]]"
-  - "[[Generation-Effect]]"
+  - "[[generative-learning-theory]]"
+  - "[[generation-effect]]"
   - "[[Feynman Technique]]"
-  - "[[Elaborative-Interrogation]]"
+  - "[[elaborative-interrogation]]"
   - "[[self-explanation]]"
-  - "[[Retrieval-Practice]]"
+  - "[[retrieval-practice]]"
   - "[[Testing-Effect]]"
-  - "[[Dual-Coding-Theory]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Socratic-Questioning]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Spacing-Effect]]"
+  - "[[dual-coding-theory]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[socratic-questioning]]"
+  - "[[desirable-difficulties]]"
+  - "[[spacing-effect]]"
   - "[[interleaving]]"
-  - "[[Elaborative-Rehearsal]]"
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Zone-of-Proximal-Development]]"
-  - "[[Transfer-of-Learning]]"
+  - "[[elaborative-rehearsal]]"
+  - "[[schema-theory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[zone-of-proximal-development]]"
+  - "[[transfer-of-learning]]"
 
 # GOVERNANCE & VERSIONING
 stability: "stable"
@@ -287,7 +287,7 @@ This layer provides:
 > the topic deeply just from reading this demonstration.]
 ```
 
-The collapsed state is critical — the learner should FIRST attempt the technique themselves, THEN expand the callout to compare their attempt against the expert demonstration. This sequencing is what produces the [[Generation-Effect]].
+The collapsed state is critical — the learner should FIRST attempt the technique themselves, THEN expand the callout to compare their attempt against the expert demonstration. This sequencing is what produces the [[generation-effect]].
 
 ---
 
@@ -309,7 +309,7 @@ technique:
   name: "Pre-Testing & Prediction"
   id: "PRE-TEST"
   scientific_basis: "Richland et al. (2009); Kornell et al. (2009) — attempting to answer before learning primes retrieval pathways and creates 'search sets' in memory that enhance subsequent encoding"
-  wiki_links: ["[[Testing-Effect]]", "[[Retrieval-Practice]]", "[[Desirable-Difficulties]]", "[[Generation-Effect]]"]
+  wiki_links: ["[[Testing-Effect]]", "[[retrieval-practice]]", "[[desirable-difficulties]]", "[[generation-effect]]"]
   position_in_sequence: 1 (always first)
   scaffolding_type: "questions_before_learning"
   demonstration_length: "300-400 words"
@@ -321,7 +321,7 @@ technique:
 ## 🔮 Section 1: Pre-Testing & Prediction
 
 > [!info] **What This Technique Is & Why It Works**
-> Before you learn anything new about [TOPIC], you'll first write down what you *think* you already know — and make predictions about what you'll discover. Research by Richland et al. (2009) demonstrates that attempting to answer questions *before* learning the answers — even when you get them wrong — significantly enhances how well you encode and retain the correct information later. This is the [[Generation-Effect]] at work: your brain creates "search sets" and prediction errors that prime deeper processing when the real information arrives.
+> Before you learn anything new about [TOPIC], you'll first write down what you *think* you already know — and make predictions about what you'll discover. Research by Richland et al. (2009) demonstrates that attempting to answer questions *before* learning the answers — even when you get them wrong — significantly enhances how well you encode and retain the correct information later. This is the [[generation-effect]] at work: your brain creates "search sets" and prediction errors that prime deeper processing when the real information arrives.
 >
 > **How to engage:** Answer each question below honestly, based on your current understanding. Don't look anything up. Wrong answers are *more* valuable than skipping the question — the prediction error they create is exactly what makes subsequent learning stick.
 
@@ -375,7 +375,7 @@ technique:
   name: "Generation Effect"
   id: "GEN-EFFECT"
   scientific_basis: "Slamecka & Graf (1978); deWinstanley & Bjork (2004) — self-generated information is encoded more deeply than passively received information due to enhanced elaborative processing"
-  wiki_links: ["[[Generation-Effect]]", "[[The-Generation-Effect]]", "[[Generative-Learning]]", "[[Elaborative-Rehearsal]]"]
+  wiki_links: ["[[generation-effect]]", "[[the-generation-effect]]", "[[generative-learning]]", "[[elaborative-rehearsal]]"]
   position_in_sequence: 2
   scaffolding_type: "generate_then_compare"
   demonstration_length: "400-600 words"
@@ -389,7 +389,7 @@ technique:
   name: "Feynman Technique"
   id: "FEYNMAN"
   scientific_basis: "Based on Richard Feynman's learning method; supported by research on self-explanation effect (Chi et al., 1989) and generation effect — teaching forces identification of knowledge gaps"
-  wiki_links: ["[[Richard-Feynman]]", "[[self-explanation]]", "[[Elaboration]]", "[[Generative-Learning-Theory]]"]
+  wiki_links: ["[[richard-feynman]]", "[[self-explanation]]", "[[elaboration]]", "[[generative-learning-theory]]"]
   position_in_sequence: 3
   scaffolding_type: "explain_to_novice"
   demonstration_length: "500-700 words"
@@ -403,7 +403,7 @@ technique:
   name: "Elaborative Interrogation"
   id: "ELAB-INTERROG"
   scientific_basis: "Pressley et al. (1987); Dunlosky et al. (2013) high-utility strategy — generating explanations for why facts are true enhances learning by promoting integration with prior knowledge"
-  wiki_links: ["[[Elaborative-Interrogation]]", "[[Elaboration]]", "[[Elaborative-Rehearsal]]", "[[Schema-Theory]]"]
+  wiki_links: ["[[elaborative-interrogation]]", "[[elaboration]]", "[[elaborative-rehearsal]]", "[[schema-theory]]"]
   position_in_sequence: 4
   scaffolding_type: "why_how_questions"
   demonstration_length: "400-500 words"
@@ -417,7 +417,7 @@ technique:
   name: "Self-Explanation"
   id: "SELF-EXPLAIN"
   scientific_basis: "Chi et al. (1989, 1994) — students who explain material to themselves learn more deeply; the process reveals gaps, promotes inference generation, and builds coherent mental models"
-  wiki_links: ["[[self-explanation]]", "[[Generative-Processing]]", "[[Metacognitive-Monitoring]]", "[[Mental-Models]]"]
+  wiki_links: ["[[self-explanation]]", "[[generative-processing]]", "[[metacognitive-monitoring]]", "[[mental-models]]"]
   position_in_sequence: 5
   scaffolding_type: "explain_reasoning_steps"
   demonstration_length: "400-500 words"
@@ -431,7 +431,7 @@ technique:
   name: "Concept Mapping & Knowledge Organization"
   id: "CONCEPT-MAP"
   scientific_basis: "Novak & Cañas (2008); Nesbit & Adesope (2006) meta-analysis showing concept maps enhance learning by making structural relationships explicit"
-  wiki_links: ["[[Concept-Map]]", "[[Schema-Theory]]", "[[Generative-Learning-Theory]]", "[[Knowledge-Organization]]"]
+  wiki_links: ["[[Concept-Map]]", "[[schema-theory]]", "[[generative-learning-theory]]", "[[Knowledge-Organization]]"]
   position_in_sequence: 6
   scaffolding_type: "relationship_mapping"
   demonstration_length: "400-500 words"
@@ -445,7 +445,7 @@ technique:
   name: "Analogical Reasoning & Transfer"
   id: "ANALOGY"
   scientific_basis: "Gentner (1983) Structure-Mapping Theory; Holyoak & Thagard (1989) — analogies promote deep structural understanding by mapping relational patterns from known to unknown domains"
-  wiki_links: ["[[Structure-Mapping-Theory]]", "[[Transfer-of-Learning]]", "[[Analogical-Reasoning]]", "[[Near-Transfer]]"]
+  wiki_links: ["[[structure-mapping-theory]]", "[[transfer-of-learning]]", "[[analogical-reasoning]]", "[[Near-Transfer]]"]
   position_in_sequence: 7
   scaffolding_type: "analogy_construction"
   demonstration_length: "400-500 words"
@@ -459,7 +459,7 @@ technique:
   name: "Socratic Self-Questioning"
   id: "SOCRATIC"
   scientific_basis: "King (1994); Rosenshine et al. (1996) — self-generated questions enhance comprehension monitoring and promote deeper processing than passive review"
-  wiki_links: ["[[Socratic-Questioning]]", "[[Socratic-Method]]", "[[Metacognitive-Monitoring]]", "[[Comprehension-Monitoring]]"]
+  wiki_links: ["[[socratic-questioning]]", "[[socratic-method]]", "[[metacognitive-monitoring]]", "[[comprehension-monitoring]]"]
   position_in_sequence: 8
   scaffolding_type: "question_generation"
   demonstration_length: "400-500 words"
@@ -473,7 +473,7 @@ technique:
   name: "Dual Coding"
   id: "DUAL-CODE"
   scientific_basis: "Paivio (1986) Dual Coding Theory; Mayer (2009) — information encoded in both verbal and visual formats creates redundant retrieval pathways"
-  wiki_links: ["[[Dual-Coding-Theory]]", "[[Richard-Mayer]]", "[[Generative-Learning-Theory]]", "[[Schema-Theory]]"]
+  wiki_links: ["[[dual-coding-theory]]", "[[Richard-Mayer]]", "[[generative-learning-theory]]", "[[schema-theory]]"]
   position_in_sequence: 9
   scaffolding_type: "visual_representation"
   demonstration_length: "300-400 words + diagram description"
@@ -487,7 +487,7 @@ technique:
   name: "Concrete Examples Generation"
   id: "CONCRETE-EX"
   scientific_basis: "Rawson & Dunlosky (2016); the concreteness effect — abstract concepts anchored in specific, vivid examples are more memorable and transferable"
-  wiki_links: ["[[Elaboration]]", "[[Schema-Theory]]", "[[Transfer-of-Learning]]", "[[Encoding-Specificity]]"]
+  wiki_links: ["[[elaboration]]", "[[schema-theory]]", "[[transfer-of-learning]]", "[[encoding-specificity]]"]
   position_in_sequence: 10
   scaffolding_type: "example_generation"
   demonstration_length: "400-500 words"
@@ -501,7 +501,7 @@ technique:
   name: "Retrieval Practice"
   id: "RETRIEVAL"
   scientific_basis: "Roediger & Karpicke (2006); Dunlosky et al. (2013) highest-utility strategy — actively retrieving information from memory strengthens memory traces more than restudying"
-  wiki_links: ["[[Retrieval-Practice]]", "[[Testing-Effect]]", "[[Desirable-Difficulties]]", "[[Spaced-Repetition]]"]
+  wiki_links: ["[[retrieval-practice]]", "[[Testing-Effect]]", "[[desirable-difficulties]]", "[[spaced-repetition]]"]
   position_in_sequence: 11
   scaffolding_type: "recall_without_notes"
   demonstration_length: "400-500 words"
@@ -515,7 +515,7 @@ technique:
   name: "Interleaved Practice"
   id: "INTERLEAVE"
   scientific_basis: "Rohrer & Taylor (2007); Kornell & Bjork (2008) — mixing different problem types or topics during practice enhances discrimination learning and transfer"
-  wiki_links: ["[[interleaving]]", "[[Desirable-Difficulties]]", "[[Transfer-of-Learning]]", "[[Discrimination-Learning]]"]
+  wiki_links: ["[[interleaving]]", "[[desirable-difficulties]]", "[[transfer-of-learning]]", "[[Discrimination-Learning]]"]
   position_in_sequence: 12
   scaffolding_type: "mixed_application"
   demonstration_length: "300-400 words"
@@ -529,7 +529,7 @@ technique:
   name: "Metacognitive Reflection & Calibration"
   id: "META-REFLECT"
   scientific_basis: "Flavell (1979); Schraw & Dennison (1994) MAI — monitoring comprehension and calibrating confidence against actual understanding is essential for self-regulated learning"
-  wiki_links: ["[[Metacognitive-Monitoring]]", "[[Metacognition]]", "[[Self-Regulated-Learning]]", "[[Comprehension-Monitoring]]"]
+  wiki_links: ["[[metacognitive-monitoring]]", "[[metacognition]]", "[[self-regulated-learning]]", "[[comprehension-monitoring]]"]
   position_in_sequence: 13 (always late in sequence)
   scaffolding_type: "learning_audit"
   demonstration_length: "300-400 words"
@@ -543,7 +543,7 @@ technique:
   name: "Connection Weaving & Knowledge Integration"
   id: "CONNECT"
   scientific_basis: "Chi & Wylie (2014) ICAP framework — interactive and constructive learning produces deeper understanding than active or passive; creating connections between concepts is a constructive activity"
-  wiki_links: ["[[Knowledge-Organization]]", "[[Schema-Theory]]", "[[Transfer-of-Learning]]", "[[Elaboration]]"]
+  wiki_links: ["[[Knowledge-Organization]]", "[[schema-theory]]", "[[transfer-of-learning]]", "[[elaboration]]"]
   position_in_sequence: 14
   scaffolding_type: "cross_reference_creation"
   demonstration_length: "300-400 words"
@@ -557,7 +557,7 @@ technique:
   name: "Spaced Repetition Seed Generation"
   id: "SR-SEEDS"
   scientific_basis: "Ebbinghaus (1885); Cepeda et al. (2006) — distributed practice across time produces more durable learning than massed practice"
-  wiki_links: ["[[Spaced-Repetition]]", "[[Spacing-Effect]]", "[[Testing-Effect]]", "[[Retrieval-Practice]]"]
+  wiki_links: ["[[spaced-repetition]]", "[[spacing-effect]]", "[[Testing-Effect]]", "[[retrieval-practice]]"]
   position_in_sequence: 15 (always last)
   scaffolding_type: "flashcard_creation"
   demonstration_length: "N/A — use flashcard callout format"
@@ -1114,10 +1114,10 @@ narrower:
   - "[[Specific-Subtopic-2]]"
 
 see-also:
-  - "[[Generative-Learning-Theory]]"
-  - "[[Generation-Effect]]"
-  - "[[Retrieval-Practice]]"
-  - "[[Metacognition]]"
+  - "[[generative-learning-theory]]"
+  - "[[generation-effect]]"
+  - "[[retrieval-practice]]"
+  - "[[metacognition]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS

@@ -27,27 +27,105 @@ from report_parser import NoteCandidate
 # FILENAME GENERATION
 # ══════════════════════════════════════════════════════════════════════════════
 
+# Reject report-document filenames from becoming permanent notes.
+# Source reports (foundational, focused-analysis, dialectical, etc.) are
+# *literature*, not concepts; they belong in literature notes, not the
+# permanent notes folder.
+_REPORT_FILENAME_PATTERN = re.compile(
+    r'-(foundational-report|focused-analysis|dialectical(-re-examination)?|socratic(-dialogue)?'
+    r'|comparative(-synthesis)?|first-principles|generative-learning|pkb-focused-analysis)'
+    r'-\d{4}-\d{2}-\d{2}',
+    re.IGNORECASE,
+)
+
+# Maximum hyphen-separated tokens permitted in a concept filename.
+# Anything longer is almost certainly a sentence/paragraph misread as a concept.
+_MAX_CONCEPT_TOKENS = 8
+
+# Minimum reasonable filename length (filters out garbage like "+-l-+").
+_MIN_FILENAME_LENGTH = 3
+
+
+class InvalidConceptNameError(ValueError):
+    """Raised when a concept name cannot be turned into a valid permanent-note filename."""
+
+
 def sanitize_filename(name: str) -> str:
     """
-    Convert a concept name to a safe, Obsidian-compatible filename.
+    Convert a concept name to a safe, lowercase, kebab-case filename.
 
     Rules:
-      - Remove filesystem-unsafe characters
-      - Replace spaces with hyphens
-      - Collapse multiple hyphens
-      - Truncate to MAX_FILENAME_LENGTH
+      - Strip parenthetical disambiguators authors put in titles
+      - Normalise common unicode (×, em-dashes, smart quotes)
+      - Remove filesystem-unsafe + Obsidian-problematic characters
+      - Lowercase everything (cross-OS case-sensitivity safety)
+      - Collapse whitespace/underscores → single hyphen
+      - Reject names that are obviously not concepts (too short, all-symbol,
+        sentence-shaped, or matching a report-document pattern)
     """
-    safe = re.sub(r'[<>:"/\\|?*\[\]()]', '', name)
+    # Strip parenthetical content — usually citations/disambiguators
+    cleaned = re.sub(r'\([^)]*\)', '', name)
+
+    # Normalise unicode that breaks links / display.
+    # Use explicit \u escapes to avoid editor-side glyph collisions.
+    replacements = {
+        '\u00d7': 'x',    # × multiplication sign
+        '\u00f7': 'div',  # ÷ division sign
+        '\u2014': '-',    # — em dash
+        '\u2013': '-',    # – en dash
+        '\u2212': '-',    # − minus sign
+        '\u2018': '',     # ' left single quote
+        '\u2019': '',     # ' right single quote / apostrophe
+        '\u201c': '',     # " left double quote
+        '\u201d': '',     # " right double quote
+        '\u201a': '',     # ‚ single low-9 quote
+        '\u201e': '',     # „ double low-9 quote
+        '\u2026': '',     # … ellipsis
+        '\u00a0': ' ',    # non-breaking space → regular space
+    }
+    for src, dst in replacements.items():
+        cleaned = cleaned.replace(src, dst)
+
+    # Strip filesystem-unsafe + Obsidian-problematic chars
+    safe = re.sub(r'[<>:"/\\|?*\[\]()`,;&\'!@#$%^{}+]', '', cleaned)
+    # Whitespace / underscore → hyphen
     safe = re.sub(r'[\s_]+', '-', safe)
+    # Collapse runs of hyphens
     safe = re.sub(r'-{2,}', '-', safe)
-    safe = safe.strip('-')
+    safe = safe.strip('-').lower()
+
+    # ── Validation: reject pathological names ────────────────────────────
+    if len(safe) < _MIN_FILENAME_LENGTH:
+        raise InvalidConceptNameError(
+            f"Concept name too short after sanitisation: {name!r} → {safe!r}"
+        )
+    if not re.search(r'[a-z]', safe):
+        raise InvalidConceptNameError(
+            f"Concept name contains no alphabetic characters: {name!r} → {safe!r}"
+        )
+    if len(safe.split('-')) > _MAX_CONCEPT_TOKENS:
+        raise InvalidConceptNameError(
+            f"Concept name too long ({len(safe.split('-'))} tokens, max {_MAX_CONCEPT_TOKENS}): "
+            f"{name!r} — looks like a sentence, not a concept"
+        )
+    if _REPORT_FILENAME_PATTERN.search(safe):
+        raise InvalidConceptNameError(
+            f"Refusing to create permanent note from report-document filename: {safe!r}. "
+            f"Source reports belong in literature notes, not permanent notes."
+        )
+
     if len(safe) > MAX_FILENAME_LENGTH:
         safe = safe[:MAX_FILENAME_LENGTH].rstrip('-')
     return safe
 
 
 def get_output_filename(candidate: NoteCandidate) -> str:
-    """Generate the output filename for a permanent note."""
+    """Generate the output filename for a permanent note.
+
+    Raises:
+        InvalidConceptNameError: if the candidate's concept name is invalid
+            (too short, sentence-shaped, or matches a report filename).
+    """
     clean = _clean_concept_name(candidate.concept_name)
     safe_name = sanitize_filename(clean)
     return f'{safe_name}.md'
@@ -57,9 +135,16 @@ def _pipe_link(display_name: str) -> str:
     """Build pipe-syntax wiki-link: [[Filename-Stem|Display Name]].
 
     If the display name already matches the filename stem (single words),
-    returns a plain link without the pipe.
+    returns a plain link without the pipe. Falls back to a plain link if
+    the display name cannot be sanitised into a valid filename stem.
     """
-    stem = sanitize_filename(display_name)
+    try:
+        stem = sanitize_filename(display_name)
+    except InvalidConceptNameError:
+        # Display name isn't a valid concept (e.g. a citation, sentence,
+        # or symbol-only string). Fall back to a plain wiki-link with the
+        # raw display name; the link-resolver pass can handle / flag it.
+        return f'[[{display_name}]]'
     if stem == display_name:
         return f'[[{display_name}]]'
     return f'[[{stem}|{display_name}]]'

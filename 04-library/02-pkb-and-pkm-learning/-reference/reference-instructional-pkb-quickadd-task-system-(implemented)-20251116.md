@@ -74,7 +74,7 @@ aliases: [Task Capture System, QuickAdd Task Format, Obsidian Task Integration, 
 
 ## Executive Summary
 
-This system redesigns task capture for [[Obsidian]] [[Daily-Notes]] to maximize interoperability across **Tasks plugin**, **Dataview**, **Day Planner**, and **QuickAdd**. The unified format supports both time-blocked and non-time-blocked tasks while maintaining queryability, minimizing user friction (2 prompts maximum), and preserving log integrity. Core philosophy: **metadata fields must serve multiple plugins synergistically without breaking existing workflows**.
+This system redesigns task capture for [[obsidian]] [[Daily-Notes]] to maximize interoperability across **Tasks plugin**, **Dataview**, **Day Planner**, and **QuickAdd**. The unified format supports both time-blocked and non-time-blocked tasks while maintaining queryability, minimizing user friction (2 prompts maximum), and preserving log integrity. Core philosophy: **metadata fields must serve multiple plugins synergistically without breaking existing workflows**.
 
 **Key Improvements:**
 - Unified metadata schema queryable by all four plugins
@@ -965,7 +965,7 @@ dv.taskList(unscheduled.limit(5), false);
 1. **[[GTD Workflow in Obsidian]]**
    - *Connection*: Task capture is the first step of Getting Things Done methodology
    - *Depth Potential*: Complete GTD implementation using Obsidian's graph structure, including Inbox, Next Actions, Projects, and Review processes
-   - *Knowledge Graph Role*: Links task management to broader productivity philosophy, connects to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Cognitive-Offloading]]
+   - *Knowledge Graph Role*: Links task management to broader productivity philosophy, connects to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[cognitive-offloading]]
 
 2. **[[QuickAdd Macro Development]]**
    - *Connection*: Macros can enhance task capture with intelligent defaults and context-aware prompts

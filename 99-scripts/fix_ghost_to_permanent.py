@@ -37,7 +37,7 @@ console = Console()
 # ── CONFIGURATION ─────────────────────────────────────────────────────────
 VAULT_PATH       = Path(r"D:/10_pur3v4d3r's-vault")
 BROKEN_LINKS     = VAULT_PATH / "broken links output.md"
-PERMANENT_DIR    = VAULT_PATH / "999-report-orginizing" / "_permanent-notes" / "_permanent-notes"
+PERMANENT_DIR    = VAULT_PATH / "999-report-organizing" / "_permanent-notes" / "_permanent-notes"
 
 # Folders to never scan when rewriting links in source files
 IGNORE_DIRS = {

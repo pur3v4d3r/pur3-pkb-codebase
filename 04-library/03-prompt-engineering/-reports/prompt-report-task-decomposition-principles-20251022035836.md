@@ -362,7 +362,7 @@ Mastering this methodology does more than just get you better-written articles. 
 
 > [!connection-ideas]
 >
-> The principles discussed here strongly connect to the field of **[[Personal-Knowledge-Management]] (PKM)** and systems like [[Zettelkasten]].
+> The principles discussed here strongly connect to the field of **[[personal-knowledge-management]] (PKM)** and systems like [[zettelkasten]].
 >
 >   - A common failure in PKM is creating "blob" notes—large, undifferentiated walls of text on a topic.
 >   - A "Zettelkasten" note, by contrast, is "atomic"—it's about *one idea, one concept.*

@@ -534,7 +534,7 @@ D:\10_pur3v4d3r's-vault/
 > Planning ability is the single most important meta-skill for a self-directed learner. Every complex goal you achieve in the future depends on this capability.
 
 **Why This Matters**:
-- You identified "difficulty thinking actively" and "concentrating"—these are symptoms of [[Executive-Function]] strain
+- You identified "difficulty thinking actively" and "concentrating"—these are symptoms of [[executive-function]] strain
 - Better planning reduces decision fatigue (fewer in-the-moment choices)
 - Develops systematic approach transferable to all future goals
 

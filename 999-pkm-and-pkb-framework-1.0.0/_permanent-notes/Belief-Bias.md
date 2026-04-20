@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,39 +69,41 @@ narrower:
   []
 
 see-also:
-  - "[[Deductive-Reasoning|deductive reasoning]]"
-  - "[[Gottlob-Frege|Gottlob Frege]]"
-  - "[[Peter-Wason|Peter Wason]]"
-  - "[[Inductive-Reasoning|inductive reasoning]]"
-  - "[[Abductive-Reasoning|abductive reasoning]]"
-  - "[[Aristotle]]"
-  - "[[Dual-Process-Theory|Dual-Process Theory]]"
-  - "[[Mental-Models-Theory|Mental Models Theory]]"
-  - "[[Working-Memory|working memory]]"
-  - "[[Belief-Bias|belief bias]]"
-  - "[[Categorical-Syllogism|categorical syllogism]]"
-  - "[[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]]"
-  - "[[George-Boole|George Boole]]"
-  - "[[Augustus-de-Morgan|Augustus de Morgan]]"
-  - "[[predicate-calculus|predicate calculus]]"
-  - "[[Bertrand-Russell|Bertrand Russell]]"
-  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[deductive-reasoning|Deductive-Reasoning]]"
+  - "[[gottlob-frege|Gottlob-Frege]]"
+  - "[[peter-wason|Peter-Wason]]"
+  - "[[inductive-reasoning|Inductive-Reasoning]]"
+  - "[[abductive-reasoning|Abductive-Reasoning]]"
+  - "[[aristotle|Aristotle]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[mental-models-theory|Mental-Models-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[belief-bias|Belief-Bias]]"
+  - "[[aristotle|Aristotle]]"
+  - "[[categorical-syllogism|Categorical-Syllogism]]"
+  - "[[aristotle|Aristotle]]"
+  - "[[gottfried-wilhelm-leibniz|Gottfried-Wilhelm-Leibniz]]"
+  - "[[george-boole|George-Boole]]"
+  - "[[augustus-de-morgan|Augustus-de-Morgan]]"
+  - "[[gottlob-frege|Gottlob-Frege]]"
+  - "[[predicate-calculus]]"
+  - "[[bertrand-russell|Bertrand-Russell]]"
+  - "[[alfred-north-whitehead|Alfred-North-Whitehead]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Inductive-Reasoning|Inductive Reasoning]]"
-  - "[[Abductive-Reasoning|Abductive Reasoning]]"
-  - "[[Schema-Theory|Schema Theory]]"
-  - "[[Critical-Thinking-in-Education|Critical Thinking in Education]]"
+  - "[[inductive-reasoning|Inductive-Reasoning]]"
+  - "[[abductive-reasoning|Abductive-Reasoning]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[critical-thinking-in-education|Critical-Thinking-in-Education]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Transfer-of-Learning-and-Deductive-Skill-Whether-deductive-training|> [!topic-idea] [[Transfer-of-Learning-and-Deductive-Skill]]
-> Whether deductive training in mathema]]"
+  - topic: "[[> [!topic-idea] [[Transfer-of-Learning-and-Deductive-Skill|Transfer of Learning and Deductive Skill]]]"
     description: ""
     priority: medium
 
@@ -207,72 +209,16 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
-- [[Fallibilism]]
+- [[deductive-reasoning|Deductive-Reasoning]]
+- [[inductive-reasoning|Inductive-Reasoning]]
+- [[abductive-reasoning|Abductive-Reasoning]]
+- [[metacognition-critical-thinking|Metacognition-&-Critical-Thinking]]
+- [[schema-theory|Schema-Theory]]
+- [[critical-thinking-in-education|Critical-Thinking-in-Education]]
+- [[fallibilism|Fallibilism]]
 
 **Related concepts:**
-[[Deductive-Reasoning|deductive reasoning]] · [[Gottlob-Frege|Gottlob Frege]] · [[Peter-Wason|Peter Wason]] · [[Inductive-Reasoning|inductive reasoning]] · [[Abductive-Reasoning|abductive reasoning]] · [[Aristotle]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Working-Memory|working memory]] · [[Belief-Bias|belief bias]] · [[Aristotle]] · [[Categorical-Syllogism|categorical syllogism]] · [[Aristotle]] · [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] · [[George-Boole|George Boole]] · [[Augustus-de-Morgan|Augustus de Morgan]] · [[Gottlob-Frege|Gottlob Frege]] · [[predicate-calculus|predicate calculus]] · [[Bertrand-Russell|Bertrand Russell]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Cognitive-Science|cognitive science]] · [[Peter-Wason|Peter Wason]] · [[Wason-Selection-Task|Wason Selection Task]] · [[Peter-Wason|Peter Wason]] · [[Philip-Johnson-Laird|Philip Johnson-Laird]] · [[Mental-Models-Theory|Mental Models Theory]] · [[Ruth-Byrne|Ruth Byrne]] · [[Wason-Selection-Task|Wason Selection Task]] · [[Long-Term-Memory|long-term memory]] · [[Working-Memory|working memory]]
-
-**Related concepts** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]] * [[Cognitive-Science|cognitive science]] * [[Wason-Selection-Task|Wason Selection Task]] * [[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Ruth-Byrne|Ruth Byrne]] * [[Long-Term-Memory|long-term memory]] * [[Formal-Rule-Theory|Formal Rule Theory]] * [[Lance-Rips|Lance Rips]] * [[Martin-Braine|Martin Braine]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Patricia-Cheng|Patricia Cheng]] * [[Keith-Holyoak|Keith Holyoak]] * [[prefrontal-cortex|prefrontal cortex]] * [[Cognitive-Load|cognitive load]]
-
-**Cross-report connections** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-- [[Deductive-Reasoning|Deductive-Reasoning]]
-- [[Inductive-Reasoning|Inductive-Reasoning]]
-- [[Abductive-Reasoning|Abductive-Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition-&-Critical-Thinking]]
-- [[Schema-Theory|Schema-Theory]]
-
-**Related concepts** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-[[Deductive-Reasoning|deductive reasoning]] * [[Gottlob-Frege|Gottlob Frege]] * [[Peter-Wason|Peter Wason]] * [[Inductive-Reasoning|inductive reasoning]] * [[Abductive-Reasoning|abductive reasoning]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Mental-Models-Theory|Mental Models Theory]] * [[Working-Memory|working memory]] * [[Categorical-Syllogism|categorical syllogism]] * [[Gottfried-Wilhelm-Leibniz|Gottfried Wilhelm Leibniz]] * [[George-Boole|George Boole]] * [[Augustus-de-Morgan|Augustus de Morgan]] * [[predicate-calculus|predicate calculus]] * [[Bertrand-Russell|Bertrand Russell]] * [[Alfred-North-Whitehead|Alfred North Whitehead]] * [[Cognitive-Science|cognitive science]] * [[Wason-Selection-Task|Wason Selection Task]] * [[Philip-Johnson-Laird|Philip Johnson-Laird]] * [[Ruth-Byrne|Ruth Byrne]] * [[Long-Term-Memory|long-term memory]] * [[Formal-Rule-Theory|Formal Rule Theory]] * [[Lance-Rips|Lance Rips]] * [[Martin-Braine|Martin Braine]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Patricia-Cheng|Patricia Cheng]] * [[Keith-Holyoak|Keith Holyoak]] * [[prefrontal-cortex|prefrontal cortex]] * [[Cognitive-Load|cognitive load]]
-
-**Cross-report connections** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-- [[Deductive-Reasoning|Deductive Reasoning]]
-- [[Inductive-Reasoning|Inductive Reasoning]]
-- [[Abductive-Reasoning|Abductive Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]
-- [[Schema-Theory|Schema Theory]]
-
-**Cross-report connections** *(from [[deductive-reasoning-learning-foundational-report-2026-03-10]])*:
-- [[Deductive-Reasoning|Deductive-Reasoning]]
-- [[Inductive-Reasoning|Inductive-Reasoning]]
-- [[Abductive-Reasoning|Abductive-Reasoning]]
-- [[Metacognition-&-Critical-Thinking|Metacognition-&-Critical-Thinking]]
-- [[Schema-Theory|Schema-Theory]]
-
-
-
-
-
-
-
-
+[[deductive-reasoning|Deductive-Reasoning]] · [[gottlob-frege|Gottlob-Frege]] · [[peter-wason|Peter-Wason]] · [[inductive-reasoning|Inductive-Reasoning]] · [[abductive-reasoning|Abductive-Reasoning]] · [[aristotle|Aristotle]] · [[dual-process-theory|Dual-Process-Theory]] · [[mental-models-theory|Mental-Models-Theory]] · [[working-memory|Working-Memory]] · [[belief-bias|Belief-Bias]] · [[aristotle|Aristotle]] · [[categorical-syllogism|Categorical-Syllogism]] · [[aristotle|Aristotle]] · [[gottfried-wilhelm-leibniz|Gottfried-Wilhelm-Leibniz]] · [[george-boole|George-Boole]] · [[augustus-de-morgan|Augustus-de-Morgan]] · [[gottlob-frege|Gottlob-Frege]] · [[predicate-calculus]] · [[bertrand-russell|Bertrand-Russell]] · [[alfred-north-whitehead|Alfred-North-Whitehead]] · [[cognitive-science|Cognitive-Science]] · [[peter-wason|Peter-Wason]] · [[wason-selection-task|Wason-Selection-Task]] · [[peter-wason|Peter-Wason]] · [[philip-johnson-laird|Philip-Johnson-Laird]] · [[mental-models-theory|Mental-Models-Theory]] · [[ruth-byrne|Ruth-Byrne]] · [[wason-selection-task|Wason-Selection-Task]] · [[long-term-memory|Long-Term-Memory]] · [[working-memory|Working-Memory]]
 
 ## References
 
@@ -286,150 +232,6 @@ importance: high
 - **Harel, G., & Sowder, L. (1998). Students' proof schemes: Results from exploratory studies. In A. H. Schoenfeld, J. Kaput, & E. Dubinsky (Eds.), *Research in collegiate mathematics education III* (pp. 234–283). American Mathematical Society.**: The foundational study of proof comprehension and production in undergraduate mathematics, introducing the "proof scheme" framework for classifying the forms of justification students consider convincing. Documents the progression from empirical/inductive proof schemes to transformational/deductive proof schemes, with direct implications for sequencing proof instruction and diagnosing student misconceptions.
 
 *Citations sourced from [[deductive-reasoning-learning-foundational-report-2026-03-10]]*
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of dual-process theory for a general intellectual audience, drawing on decades of collaborative research with Amos Tversky and others. While not exclusively focused on deductive reasoning, the book provides the most accessible and comprehensive account of System 1 / System 2 dynamics, including their manifestation in logical reasoning tasks. Essential background for educators seeking to understand why explicit instruction in logic does not automatically translate into improved everyday reasoning.
-
-- **Stanovich, K. E. (1999). *Who Is Rational? Studies of Individual Differences in Reasoning*. Lawrence Erlbaum Associates.**: The most systematic empirical treatment of individual differences in deductive and probabilistic reasoning performance, introducing the concept of actively open-minded thinking and documenting the correlates of System 2 engagement. Stanovich argues that rationality has both algorithmic (cognitive capacity) and reflective (dispositional) components, with significant implications for what deductive education should target.
-
-- **Harel, G., & Sowder, L. (1998). Students' proof schemes: Results from exploratory studies. In A. H. Schoenfeld, J. Kaput, & E. Dubinsky (Eds.), *Research in collegiate mathematics education III* (pp. 234–283). American Mathematical Society.**: The foundational study of proof comprehension and production in undergraduate mathematics, introducing the "proof scheme" framework for classifying the forms of justification students consider convincing. Documents the progression from empirical/inductive proof schemes to transformational/deductive proof schemes, with direct implications for sequencing proof instruction and diagnosing student misconceptions.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of dual-process theory for a general intellectual audience, drawing on decades of collaborative research with Amos Tversky and others. While not exclusively focused on deductive reasoning, the book provides the most accessible and comprehensive account of System 1 / System 2 dynamics, including their manifestation in logical reasoning tasks. Essential background for educators seeking to understand why explicit instruction in logic does not automatically translate into improved everyday reasoning.
-
-- **Stanovich, K. E. (1999). *Who Is Rational? Studies of Individual Differences in Reasoning*. Lawrence Erlbaum Associates.**: The most systematic empirical treatment of individual differences in deductive and probabilistic reasoning performance, introducing the concept of actively open-minded thinking and documenting the correlates of System 2 engagement. Stanovich argues that rationality has both algorithmic (cognitive capacity) and reflective (dispositional) components, with significant implications for what deductive education should target.
-
-- **Harel, G., & Sowder, L. (1998). Students' proof schemes: Results from exploratory studies. In A. H. Schoenfeld, J. Kaput, & E. Dubinsky (Eds.), *Research in collegiate mathematics education III* (pp. 234–283). American Mathematical Society.**: The foundational study of proof comprehension and production in undergraduate mathematics, introducing the "proof scheme" framework for classifying the forms of justification students consider convincing. Documents the progression from empirical/inductive proof schemes to transformational/deductive proof schemes, with direct implications for sequencing proof instruction and diagnosing student misconceptions.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of dual-process theory for a general intellectual audience, drawing on decades of collaborative research with Amos Tversky and others. While not exclusively focused on deductive reasoning, the book provides the most accessible and comprehensive account of System 1 / System 2 dynamics, including their manifestation in logical reasoning tasks. Essential background for educators seeking to understand why explicit instruction in logic does not automatically translate into improved everyday reasoning.
-
-- **Stanovich, K. E. (1999). *Who Is Rational? Studies of Individual Differences in Reasoning*. Lawrence Erlbaum Associates.**: The most systematic empirical treatment of individual differences in deductive and probabilistic reasoning performance, introducing the concept of actively open-minded thinking and documenting the correlates of System 2 engagement. Stanovich argues that rationality has both algorithmic (cognitive capacity) and reflective (dispositional) components, with significant implications for what deductive education should target.
-
-- **Harel, G., & Sowder, L. (1998). Students' proof schemes: Results from exploratory studies. In A. H. Schoenfeld, J. Kaput, & E. Dubinsky (Eds.), *Research in collegiate mathematics education III* (pp. 234–283). American Mathematical Society.**: The foundational study of proof comprehension and production in undergraduate mathematics, introducing the "proof scheme" framework for classifying the forms of justification students consider convincing. Documents the progression from empirical/inductive proof schemes to transformational/deductive proof schemes, with direct implications for sequencing proof instruction and diagnosing student misconceptions.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of dual-process theory for a general intellectual audience, drawing on decades of collaborative research with Amos Tversky and others. While not exclusively focused on deductive reasoning, the book provides the most accessible and comprehensive account of System 1 / System 2 dynamics, including their manifestation in logical reasoning tasks. Essential background for educators seeking to understand why explicit instruction in logic does not automatically translate into improved everyday reasoning.
-
-- **Stanovich, K. E. (1999). *Who Is Rational? Studies of Individual Differences in Reasoning*. Lawrence Erlbaum Associates.**: The most systematic empirical treatment of individual differences in deductive and probabilistic reasoning performance, introducing the concept of actively open-minded thinking and documenting the correlates of System 2 engagement. Stanovich argues that rationality has both algorithmic (cognitive capacity) and reflective (dispositional) components, with significant implications for what deductive education should target.
-
-- **Harel, G., & Sowder, L. (1998). Students' proof schemes: Results from exploratory studies. In A. H. Schoenfeld, J. Kaput, & E. Dubinsky (Eds.), *Research in collegiate mathematics education III* (pp. 234–283). American Mathematical Society.**: The foundational study of proof comprehension and production in undergraduate mathematics, introducing the "proof scheme" framework for classifying the forms of justification students consider convincing. Documents the progression from empirical/inductive proof schemes to transformational/deductive proof schemes, with direct implications for sequencing proof instruction and diagnosing student misconceptions.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of dual-process theory for a general intellectual audience, drawing on decades of collaborative research with Amos Tversky and others. While not exclusively focused on deductive reasoning, the book provides the most accessible and comprehensive account of System 1 / System 2 dynamics, including their manifestation in logical reasoning tasks. Essential background for educators seeking to understand why explicit instruction in logic does not automatically translate into improved everyday reasoning.
-
-- **Stanovich, K. E. (1999). *Who Is Rational? Studies of Individual Differences in Reasoning*. Lawrence Erlbaum Associates.**: The most systematic empirical treatment of individual differences in deductive and probabilistic reasoning performance, introducing the concept of actively open-minded thinking and documenting the correlates of System 2 engagement. Stanovich argues that rationality has both algorithmic (cognitive capacity) and reflective (dispositional) components, with significant implications for what deductive education should target.
-
-- **Harel, G., & Sowder, L. (1998). Students' proof schemes: Results from exploratory studies. In A. H. Schoenfeld, J. Kaput, & E. Dubinsky (Eds.), *Research in collegiate mathematics education III* (pp. 234–283). American Mathematical Society.**: The foundational study of proof comprehension and production in undergraduate mathematics, introducing the "proof scheme" framework for classifying the forms of justification students consider convincing. Documents the progression from empirical/inductive proof schemes to transformational/deductive proof schemes, with direct implications for sequencing proof instruction and diagnosing student misconceptions.
-
-- **Johnson-Laird, P. N. (1983). *Mental Models: Towards a Cognitive Science of Language, Inference and Consciousness*. Cambridge University Press.**: The foundational statement of Mental Models Theory, presenting Johnson-Laird's argument that human reasoning operates through the construction of semantic models rather than syntactic rule application. The theoretical framework introduced here has driven several decades of productive empirical research and remains the dominant account of syllogistic reasoning. Essential for any reader seeking to understand why difficulty in deductive tasks correlates with model plurality.
-
-- **Johnson-Laird, P. N., & Byrne, R. M. J. (1991). *Deduction*. Lawrence Erlbaum Associates.**: The comprehensive empirical elaboration of Mental Models Theory, extending the account to conditional reasoning, relational reasoning, and spatial reasoning. Provides systematic evidence for the model-count difficulty prediction and introduces the concept of "fleshing out" models from implicit to explicit representations. The standard reference for the theory's empirical foundations.
-
-- **Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. *Memory & Cognition*, 11(3), 295–306.**: The study that definitively established belief bias as a systematic phenomenon in deductive reasoning, using a 2 × 2 design crossing logical validity and conclusion believability. The interaction pattern — validity effects moderated by believability — has defined a research agenda for over four decades and is the canonical demonstration that deductive judgment is not purely formal.
-
-- **Wason, P. C. (1966). Reasoning. In B. M. Foss (Ed.), *New Horizons in Psychology*. Penguin.**: The original presentation of the Wason Selection Task, the single most studied paradigm in the psychology of reasoning. Documents the dramatic failure of abstract conditional reasoning in university-educated participants and establishes the foundational puzzle — why does logical competence fail so dramatically on a superficially simple task? — that has organised the field ever since.
-
-- **Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. *Cognitive Psychology*, 17(4), 391–416.**: Introduces the pragmatic reasoning schema account, demonstrating that permission-framed versions of the Wason task elicit near-perfect performance and arguing that the effect is mediated by content-specific rule clusters rather than formal logical training. The foundational study for schema-based accounts of deductive facilitation and a key resource for educators interested in using familiar social structures as scaffolding for abstract reasoning.
-
-- **Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.**: Kahneman's synthesis of dual-process theory for a general intellectual audience, drawing on decades of collaborative research with Amos Tversky and others. While not exclusively focused on deductive reasoning, the book provides the most accessible and comprehensive account of System 1 / System 2 dynamics, including their manifestation in logical reasoning tasks. Essential background for educators seeking to understand why explicit instruction in logic does not automatically translate into improved everyday reasoning.
-
-- **Stanovich, K. E. (1999). *Who Is Rational? Studies of Individual Differences in Reasoning*. Lawrence Erlbaum Associates.**: The most systematic empirical treatment of individual differences in deductive and probabilistic reasoning performance, introducing the concept of actively open-minded thinking and documenting the correlates of System 2 engagement. Stanovich argues that rationality has both algorithmic (cognitive capacity) and reflective (dispositional) components, with significant implications for what deductive education should target.
-
-- **Harel, G., & Sowder, L. (1998). Students' proof schemes: Results from exploratory studies. In A. H. Schoenfeld, J. Kaput, & E. Dubinsky (Eds.), *Research in collegiate mathematics education III* (pp. 234–283). American Mathematical Society.**: The foundational study of proof comprehension and production in undergraduate mathematics, introducing the "proof scheme" framework for classifying the forms of justification students consider convincing. Documents the progression from empirical/inductive proof schemes to transformational/deductive proof schemes, with direct implications for sequencing proof instruction and diagnosing student misconceptions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

@@ -35,23 +35,23 @@ aliases:
 
 ## Introduction
 
-[[John-Dewey]]'s *How We Think* (1910, revised 1933) is one of the foundational texts
+[[john-dewey]]'s *How We Think* (1910, revised 1933) is one of the foundational texts
 of [[pragmatism]] and [[Educational-Philosophy]]. Written for teachers and educated
 general readers, it addresses a deceptively simple question: what does it mean to think
 *well*? Dewey's answer unfolds across nineteen chapters organized in three parts —
 diagnosing the problem of training thought, analyzing the logical structure of
-[[Reflective-Thinking]], and prescribing the conditions under which schools can genuinely
+[[reflective-thinking]], and prescribing the conditions under which schools can genuinely
 cultivate the thinking mind.
 
-The book's central thesis is that **[[Reflective-Thinking]]** — the disciplined suspension of
+The book's central thesis is that **[[reflective-thinking]]** — the disciplined suspension of
 judgment while evidence is gathered and tested — is not a natural default but a cultivated
-habit. It emerges from genuine [[Doubt]], proceeds through successive [[Inference]] and
+habit. It emerges from genuine [[Doubt]], proceeds through successive [[inference]] and
 [[Hypothesis|hypothesis-testing]], and culminates in warranted belief. This is not
 passive reception but active **[[Inquiry]]**: a transaction between a person and a
 problematic situation.
 
-Dewey's work anticipates [[Metacognition]], [[Problem-Solving|problem-based learning]],
-and modern [[Critical-Thinking]] frameworks by nearly a century. Reading it today, one
+Dewey's work anticipates [[metacognition]], [[Problem-Solving|problem-based learning]],
+and modern [[critical-thinking]] frameworks by nearly a century. Reading it today, one
 finds both a precise philosophical anatomy of thought and a practical manual for
 anyone who teaches, learns, or manages knowledge.
 
@@ -102,12 +102,12 @@ anyone who teaches, learns, or manages knowledge.
 
 No one can tell another person in any definite way how he should think, any more than how he ought to breathe or to have his blood circulate. But the various ways in which men do think can be told and can be described in their general features. Some of these ways are better than others; the reasons why they are better can be set forth. 
 
-The person who understands what the better ways of thinking are and why they are better can, if he will, change his own personal ways until they become more effective; until, that is to say, they do better the work that thinking can do and that other mental operations cannot do so well. The better way of thinking that is to be considered in this book is called [[Reflective-Thinking]]: **the kind of thinking that consists in 
+The person who understands what the better ways of thinking are and why they are better can, if he will, change his own personal ways until they become more effective; until, that is to say, they do better the work that thinking can do and that other mental operations cannot do so well. The better way of thinking that is to be considered in this book is called [[reflective-thinking]]: **the kind of thinking that consists in 
 turning a subject over in the mind and giving it serious and consecutive consideration.**
 
 Before we take up this main theme, we shall, however, first take note briefly of some other mental processes to which the name thought is sometimes given.
 
-## The ‘[[Stream-of-Consciousness|Stream of Consciousness]]’ 
+## The ‘[[stream-of-consciousness|Stream of Consciousness]]’ 
 
 All the time we are awake and sometimes when we are asleep, something is, as we say, going through our heads. 
 When we are asleep we call that kind of sequence ‘ dreaming.’ We also have daydreams, reveries, castles built in the air, and mental streams that are even more idle and chaotic. To this uncontrolled coursing of ideas through our heads the name of ‘ thinking’ is sometimes given. It is automatic and unregulated.
@@ -136,7 +136,7 @@ on a continuous thread, and thus lie between kaleidoscopic flights of fancy and 
 
 ## Reflective Thinking Aims at a Conclusion 
 
-In contrast, [[Reflective-Thinking]] has a purpose beyond the entertainment afforded by the train of agreeable mental inventions and pictures. The train must lead somewhere; it must tend to a conclusion that can be substantiated outside the course of the images. A story of a giant may satisfy merely because of the story itself; a reflective conclusion that a giant lived at a certain date and place on the earth would have to have some justification outside of the chain of ideas in order to be a valid or sound conclusion. This contrasting element is probably best conveyed in the ordinary saying: 
+In contrast, [[reflective-thinking]] has a purpose beyond the entertainment afforded by the train of agreeable mental inventions and pictures. The train must lead somewhere; it must tend to a conclusion that can be substantiated outside the course of the images. A story of a giant may satisfy merely because of the story itself; a reflective conclusion that a giant lived at a certain date and place on the earth would have to have some justification outside of the chain of ideas in order to be a valid or sound conclusion. This contrasting element is probably best conveyed in the ordinary saying: 
 
 > “ Think it out.” 
 
@@ -157,10 +157,10 @@ of accident as far as the person who entertains them is concerned.
 
 ## Reflective Thinking Impels to **Inquiry** 
 
-Thus we are brought again, by way of contrast, to the particular kind of thinking that we are to study in this volume, [[Reflective-Thinking]]. Thought, in the two first senses mentioned, may be harmful to the mind because it distracts attention from the real world, and because it may be a waste of time. On the other hand, if indulged in judiciously these thoughts may afford genuine enjoyment and also be a source of needed recreation. But in either case they can make no claim to truth; they cannot hold themselves up as something that the mind should accept, assert, and be willing to act upon. They may involve a kind of emotional commitment, but not intellectual and practical commitment. [[Beliefs]], on the other hand, do involve precisely this commitment and consequently sooner or later they demand our investigation to find out upon what grounds they rest. To think of a cloud as a whale or a camel — in the sense of to ‘fancy ’— does not commit one to the conclusion that the person having the idea would ride the camel or extract oil from the whale. But when Columbus‘ thought’ the world was round, in the sense of ‘ believed it to be so,’ he and his followers were thereby committed to a series of other beliefs and actions: to beliefs about routes to India, about what would happen if ships traveled far westward on the Atlantic, etc., precisely as thinking that the world was flat had committed those who held it to belief in the impossibility of cireumnavigation, and in the limitation of the earth to regions in the small civilized part of it Europeans were already acquainted 
+Thus we are brought again, by way of contrast, to the particular kind of thinking that we are to study in this volume, [[reflective-thinking]]. Thought, in the two first senses mentioned, may be harmful to the mind because it distracts attention from the real world, and because it may be a waste of time. On the other hand, if indulged in judiciously these thoughts may afford genuine enjoyment and also be a source of needed recreation. But in either case they can make no claim to truth; they cannot hold themselves up as something that the mind should accept, assert, and be willing to act upon. They may involve a kind of emotional commitment, but not intellectual and practical commitment. [[Beliefs]], on the other hand, do involve precisely this commitment and consequently sooner or later they demand our investigation to find out upon what grounds they rest. To think of a cloud as a whale or a camel — in the sense of to ‘fancy ’— does not commit one to the conclusion that the person having the idea would ride the camel or extract oil from the whale. But when Columbus‘ thought’ the world was round, in the sense of ‘ believed it to be so,’ he and his followers were thereby committed to a series of other beliefs and actions: to beliefs about routes to India, about what would happen if ships traveled far westward on the Atlantic, etc., precisely as thinking that the world was flat had committed those who held it to belief in the impossibility of cireumnavigation, and in the limitation of the earth to regions in the small civilized part of it Europeans were already acquainted 
 with, ete. 
 
-The earlier thought, belief in the flatness of the earth, had some foundation in evidence; it rested upon what men could see easily within the limits of their vision. But this evidence was not further looked into; it was not checked by considering other evidence; there was no search for new evidence. Ultimately the belief rested on laziness, inertia, custom, absence of courage and energy in investigation. The later belief rests upon careful and extensive study, upon purposeful widening of the area of observation, upon **[[Reasoning]]** out the conclusions of alternative conceptions to see what would follow in case one or the other were adopted for belief. As distinct from the first kind of thinking there was an orderly chain of ideas; as distinct from the second, there was a controlling purpose and end; as distinct from the third, there: was personal examination, scrutiny, inquiry. 
+The earlier thought, belief in the flatness of the earth, had some foundation in evidence; it rested upon what men could see easily within the limits of their vision. But this evidence was not further looked into; it was not checked by considering other evidence; there was no search for new evidence. Ultimately the belief rested on laziness, inertia, custom, absence of courage and energy in investigation. The later belief rests upon careful and extensive study, upon purposeful widening of the area of observation, upon **[[reasoning]]** out the conclusions of alternative conceptions to see what would follow in case one or the other were adopted for belief. As distinct from the first kind of thinking there was an orderly chain of ideas; as distinct from the second, there was a controlling purpose and end; as distinct from the third, there: was personal examination, scrutiny, inquiry. 
 
 Because Columbus did not accept unhesitatingly the current traditional theory, because he doubted and inquired, he arrived at his thought. Skeptical of what, from long **[[habit]]**, seemed most certain, and credulous of what seemed impossible, he went on thinking until he could produce evidence for both his confidence and his disbelief. Even if his conclusion had finally turned out wrong, it would have been a different sort of belief from those it antagonized, because it was reached by a different method. 
 
@@ -273,7 +273,7 @@ Dewey opens by surveying four senses in which 'thinking' is commonly used — th
 >
 > **💡 Analyst's Insight:** This example crystallizes Dewey's theory of inference: the difference between mere association and genuine thinking lies in whether an objective connection — a causal or structural link in reality — underwrites the move from evidence to conclusion. The same logical point is now central to Bayesian epistemology and to evidence-based medicine's hierarchy of evidence types.
 
-> [!info] Concept — [[Reflective-Thinking]]
+> [!info] Concept — [[reflective-thinking]]
 > **Definition:** A disciplined mental process in which a sequence of ideas is held together not by free association but by logical entailment, each step growing out of the last and the whole directed toward resolving a specific perplexity through evidence.
 >
 > **Why It Matters:** By distinguishing reflective thinking from daydreaming, storytelling, and passive belief, Dewey gives educators a precise target: they are not cultivating thought in general but this specific disposition to suspend judgment and pursue evidence. The distinction also explains why rote drill and passive reception of facts do not develop thinking — they bypass the initiating condition of genuine perplexity.
@@ -333,8 +333,8 @@ Dewey opens by surveying four senses in which 'thinking' is commonly used — th
 
 ### 🧠 Core Concepts Introduced
 
-- **[[Reflective-Thinking]]**: A sequential, evidence-directed mental process initiated by genuine perplexity, in which each idea logically entails the next and the whole aims at a conclusion that can be justified by external grounds.
-- **[[Stream-of-Consciousness]]**: The automatic, unregulated flow of mental images, memories, and associations that occupies waking and sleeping life but lacks logical direction or evidential grounding.
+- **[[reflective-thinking]]**: A sequential, evidence-directed mental process initiated by genuine perplexity, in which each idea logically entails the next and the whole aims at a conclusion that can be justified by external grounds.
+- **[[stream-of-consciousness]]**: The automatic, unregulated flow of mental images, memories, and associations that occupies waking and sleeping life but lacks logical direction or evidential grounding.
 - **[[Signification]]**: The objective relationship between an observed fact and an unobserved conclusion, where the observed fact functions as genuine evidence because a real causal or structural connection links it to what is inferred.
 - **[[Perplexity]]**: A state of felt confusion or doubt arising when habitual activity is interrupted by an unexpected situation — the necessary and sufficient initiating condition for reflective thought.
 - **[[Belief]]**: A mental commitment to a proposition that demands justification and carries practical consequences, in contrast to idle fancy, and which can be either passively inherited or actively arrived at through inquiry.
@@ -408,7 +408,7 @@ While the power of thought, then, frees us from servile subjection to instinct, 
 
 ## Physical and Social Sanctions of Correct Thinking 
 
-Up to a certain point, the necessities of life enforce a fundamental and persistent **discipline** of thought for which the most cunningly devised artifices would be ineffective substitutes. The burnt child dreads the fire; a painful consequence emphasizes the need of correct [[Inference|inference]] much more than would learned discourses on the properties of heat. Social conditions also put a premium on correct inference in matters where action based on valid thought is socially important. These sanctions of proper thinking may affect life itself, or at least a life reasonably free from perpetual discomfort. The signs of enemies, of shelter, of food, of the main social conditions, have to be correctly apprehended.
+Up to a certain point, the necessities of life enforce a fundamental and persistent **discipline** of thought for which the most cunningly devised artifices would be ineffective substitutes. The burnt child dreads the fire; a painful consequence emphasizes the need of correct [[inference|inference]] much more than would learned discourses on the properties of heat. Social conditions also put a premium on correct inference in matters where action based on valid thought is socially important. These sanctions of proper thinking may affect life itself, or at least a life reasonably free from perpetual discomfort. The signs of enemies, of shelter, of food, of the main social conditions, have to be correctly apprehended.
 
 But this disciplinary training, efficacious as it is within certain limits, does not carry us far. **Logical** attainment in one direction is no bar to extravagant conclusions in another. A savage who is expert in judging the movements and location of the animals that he hunts will accept and gravely narrate the most preposterous yarns concerning the origin of their habits and peculiarities of structure. When there is no direct appreciable reaction of the inference upon the security and prosperity of life, there are no natural 
 checks to the acceptance of wrong beliefs. Conclusions may be accepted merely because the suggestions are vivid and interesting, while a large accumulation of dependable **data** may fail to suggest a proper conclusion because of opposition from existing customs. Then there is a ‘ primitive cre-dulity,’ a natural tendency to believe anything that is suggested unless there is overpowering evidence to the contrary. It sometimes seems, upon surveying the history ofthought, that men exhausted pretty much all wrong forms of **belief** before they hit upon the right conceptions. The history of scientific beliefs also shows that when a wrong theory once gets general acceptance, men will expend ingenuity of thought in buttressing it with additional errorsrather than surrender it and start in a new direction: witness for example the elaborate pains taken to preserve the Ptolemaic theory of the solar system. Even to-day correct beliefs about the constitution of nature are held by the great multitude merely because they are current and popular rather than because the multitude understands the reasons upon which they rest. 
@@ -617,7 +617,7 @@ Every living creature, while it is awake, is in constant interaction with its su
 > *Our bodies feel, where’er they be,* 
 > *Against or with our will.* 
 
-All our sense and motor organs are, when we are awake, acting and being acted upon by something in the environment. With adults many of these contacts have been made; grown-ups permit themselves to become stale; they fall into ruts of experience and are contented with what happens in these ruts. To children the whole world is new; there is something thrilling to the healthy being in every new contact and it is eagerly sought for, not merely passively awaited and endured. There is no single faculty called ‘curiosity ’; every normal organ of sense and of motor activity is on the qui vive. It wants a chance to be active, and it needs some object in order to act. The sum total of these outgoing tendencies constitutes curiosity. It is the basic factor in enlargement of experience and therefore a prime ingredient in the germs that are to be developed into[[Reflective-Thinking|reflective thinking]]. 
+All our sense and motor organs are, when we are awake, acting and being acted upon by something in the environment. With adults many of these contacts have been made; grown-ups permit themselves to become stale; they fall into ruts of experience and are contented with what happens in these ruts. To children the whole world is new; there is something thrilling to the healthy being in every new contact and it is eagerly sought for, not merely passively awaited and endured. There is no single faculty called ‘curiosity ’; every normal organ of sense and of motor activity is on the qui vive. It wants a chance to be active, and it needs some object in order to act. The sum total of these outgoing tendencies constitutes curiosity. It is the basic factor in enlargement of experience and therefore a prime ingredient in the germs that are to be developed into[[reflective-thinking|reflective thinking]]. 
 
 ## Three Stages, or Levels, of Curiosity 
 
@@ -1037,7 +1037,7 @@ of development; (b) that have the most ulterior promise as
 preparation for the social responsibilities of adult life; and 
 (c) that, at the same time, have the maximum of influence 
 in forming habits of acute observation and of consecutive 
-[[Inference|inference]]. As curiosity is related to the acquisition of material of thought, as suggestion is related to flexibility and
+[[inference|inference]]. As curiosity is related to the acquisition of material of thought, as suggestion is related to flexibility and
 force of thought, so the ordering of activities, not themselves 
 primarily intellectual, is related to the forming of intellectual powers of consecutiveness.
 
@@ -1494,7 +1494,7 @@ student alike tend to set up a chasm between logical thought,
 as something abstract and remote, and the specific and concrete demands of everyday events. The abstract tends to
 become so aloof, so far away from application, as to be cut 
 loose from practical and moral bearing. The gullibility of 
-specialized scholars when out of their own lines, their extravagant habits of [[Inference|inference]] and speech, their ineptness in
+specialized scholars when out of their own lines, their extravagant habits of [[inference|inference]] and speech, their ineptness in
 reaching conclusions in practical matters, their egotistical 
 engrossment in their own subjects, are extreme examples 
 of the bad effects of severing studies completely from their 
@@ -2083,7 +2083,7 @@ its own form, and so on. The logical person inspects to make
 sure of his **data**. Finally, the thoughtful person ‘ puts two 
 and two together.’ He reckons, calculates, casts up an account. The word ‘ reason’ is connected etymologically with
 the word ‘ratio.’ The underlying idea here is exactness of 
-relationship. All [[Reflective-Thinking|reflective thinking]] is a process of detecting 
+relationship. All [[reflective-thinking|reflective thinking]] is a process of detecting 
 relations; the terms just used indicate that good thinking is 
 not contented with finding ‘ any old kind’ of relation but 
 searches until a relation is found that is as accurately defined as conditions permit.
@@ -2481,7 +2481,7 @@ Childhood
 
 A method that emphasizes the psychological and natural, yet fails to see what an important part of natural
 tendencies is constituted at every period of growth by 
-curiosity, [[Inference|inference]], and the desire to test, cannot secure a 
+curiosity, [[inference|inference]], and the desire to test, cannot secure a 
 natural development. In natural growth each successive 
 stage of activity prepares unconsciously, but thoroughly, 
 the conditions for the manifestation of the next stage — as 
@@ -2668,7 +2668,7 @@ Chapter Five draws a fundamental contrast between formal logic as an abstract, t
 
 
 We have in previous chapters given an outline account of 
-the nature of [[Reflective-Thinking|reflective thinking]]. We have stated some reasons why it is necessary to use educational means to secure
+the nature of [[reflective-thinking|reflective thinking]]. We have stated some reasons why it is necessary to use educational means to secure
 its development and have considered the intrinsic resources, 
 the difficulties, and ulterior purpose of its educational training — the formation of disciplined **logical** ability to think.
 We come now to some descriptions of simple genuine cases 
@@ -2784,7 +2784,7 @@ to make sure of entrapping cold air in them. Some I take
 out, holding them mouth downward in order to prevent 
 cold air from entering. Bubbles appear on the outside of 
 every one of the former and on none of the latter. I 
-must be right in my [[Inference|inference]]. Air from the outside must 
+must be right in my [[inference|inference]]. Air from the outside must 
 have been expanded by the heat of the tumbler, which 
 explains the appearance of the bubbles on the outside. 
 
@@ -3114,7 +3114,7 @@ Drawing on real student examples arranged from rudimentary to complex, Dewey dem
 
 ### 🧠 Core Concepts Introduced
 
-- **[[Inference]]**: The cognitive operation by which a thinker moves from facts that are present and established — through an associatively aroused suggestion — to a conclusion about something absent or unknown, necessarily involving a gap and therefore risk.
+- **[[inference]]**: The cognitive operation by which a thinker moves from facts that are present and established — through an associatively aroused suggestion — to a conclusion about something absent or unknown, necessarily involving a gap and therefore risk.
 - **[[Testing (Proof)]]**: The active process of subjecting an inference to evaluative strain, either by checking its internal coherence with known facts in thought or by acting on it and observing whether anticipated consequences materialize.
 - **[[Experienced Situation]]**: The directly undergone, felt context of activity — something done, suffered, or enjoyed — from which genuine inquiry arises and to which successful reflection returns a clearer, more ordered state.
 - **[[Settled Situation]]**: The transformed state of experience that marks the successful conclusion of reflective thinking: a condition of clarity, coherence, and resolved difficulty.
@@ -3209,7 +3209,7 @@ to spring up. These become clews to further investigation of
 
 
 conditions. The results of this survey test and correct the 
-proposed [[Inference|inference]] or suggest a new one. This continuous 
+proposed [[inference|inference]] or suggest a new one. This continuous 
 interaction of the facts disclosed by observation and of the 
 suggested proposals of solution and the suggested methods 
 of dealing with conditions goes on till some suggested solution meets all the conditions of the case and does not run
@@ -3464,7 +3464,7 @@ found; and he looks particularly to see if just these conditions are present. Th
 are brought under control; the sense of the problem becomes more adequate and refined and the suggestion ceases
 
 
-ANALYSIS OF [[Reflective-Thinking|REFLECTIVE THINKING]] 1} 
+ANALYSIS OF [[reflective-thinking|REFLECTIVE THINKING]] 1} 
 
 
 to be a mere possibility, becoming a tested and, if possible, 
@@ -4182,7 +4182,7 @@ before the process, is found in that overconscious formulation of methods of pro
 struction. The method that is employed in discovery, in 
 reflective **inquiry**, cannot possibly be identified with the 
 method that emerges after the discovery is made.® In the 
-genuine operation of [[Inference|inference]], the mind is in the attitude 
+genuine operation of [[inference|inference]], the mind is in the attitude 
 of search, of hunting, of projection, of trying this and that; 
 when the conclusion is reached, the search is at an end. The 
 Greeks used to discuss: “ How is learning (or inquiry) 
@@ -4460,7 +4460,7 @@ idea is like a word in the sentence. That ideas are necessary
 
 
 
-constituents of [[Inference|inference]], we have already seen. Positive 
+constituents of [[inference|inference]], we have already seen. Positive 
 inference can be deferred and kept in process of development and test only while a meaning is not asserted and be-
 lieved in. Moreover, ideas are indispensable to inference because they direct observations and regulate the collection and
 inspection of **data**. Without a guiding idea, facts would be 
@@ -5801,7 +5801,7 @@ previously observed.
 The discussion in which we are now engaging accordingly 
 has two sides. One side concerns method as it operates in 
 gathering and **testing** the **data** that form the **evidence** upon 
-which an [[Inference|inference]] must rest to be properly supported — 
+which an [[inference|inference]] must rest to be properly supported — 
 method of control of [[Observation|observation]] and memory, which supply 
 the facts upon which inference proceeds. The other side 
 
@@ -5908,7 +5908,7 @@ adequate evidence of the visit of a burglar; if the conditions
 were very unusual, there would be nothing but to continue. 
 thinking of further possibilities and looking for further facts 
 as data by which to test them. The instance is taken from 
-ordinary life. [[Scientific-Method|Scientific method]] represents the same sort of 
+ordinary life. [[scientific-method|Scientific method]] represents the same sort of 
 thing carried on with greater elaborateness, by means especially of instruments and apparatus devised for the purpose
 and of mathematical calculations. 
 
@@ -6439,7 +6439,7 @@ color when we use the concept of rates of vibration. We can
 then relate color phenomena to other events apparently of a 
 active phenomena, sound, electro-magnetism, etc. Through 
 the use of the concepts of quantity we can ignore the differences of quality which mark off things from one another
-and hence arrest [[Inference|inference]]. Consequently we can go from one 
+and hence arrest [[inference|inference]]. Consequently we can go from one 
 fact to another to an almost indefinite extent if we treat 
 them all as exhibiting measured differences of quantity. 
 
@@ -6691,7 +6691,7 @@ every complete act of reflective inquiry makes provision for
 experimentation — for testing suggested and accepted principles by employing them for the active construction of new
 cases, in which new qualities emerge. Only slowly do our 
 schools accommodate themselves to the general advance of 
-[[Scientific-Method|scientific method]]. From the scientific side, it is demonstrated 
+[[scientific-method|scientific method]]. From the scientific side, it is demonstrated 
 that effective and integral thinking is possible only where 
 the experimental method in some form is used. Some recognition of this principle is evinced in higher institutions of
 learning, colleges, and high schools. But in elementary education, it is still assumed, for the most part, that the pupil’s
@@ -6835,7 +6835,7 @@ Chapter Twelve complements the preceding treatment of evidential control by addr
 
 
 Many of our ordinary inferences, in fact all of them that 
-have not been regulated by [[Scientific-Method|scientific method]], are **empirical** 
+have not been regulated by [[scientific-method|scientific method]], are **empirical** 
 in character; that is to say, they are in effect habits of expectation based upon some regular conjunction or coinci-
 dence in the **experience** of the past. Whenever two things are 
 associated together, like, say, thunder and lightning, there 
@@ -6940,7 +6940,7 @@ expectations.
 Confronting the Novel. Second, even the most reliable 
 beliefs of this type fail when they confront the novel. Since 
 they rest upon past uniformities, they are useless when further experience departs in any considerable measure from
-ancient incident and wonted precedent. Empirical [[Inference|inference]] 
+ancient incident and wonted precedent. Empirical [[inference|inference]] 
 follows the grooves and ruts that custom wears and has no 
 track to follow when the groove disappears. So important is 
 this aspect of the matter that Clifford found the difference 
@@ -8003,7 +8003,7 @@ could possibly be educative. So understood, the maxim encourages mechanical rout
 end of the educational scale —the lower —and academic 
 and unapplied learning at the upper end. 
 
-Actually, all dealing with things, even the child’s, is immersed in [[Inference|inference]]; things are clothed with the suggestions
+Actually, all dealing with things, even the child’s, is immersed in [[inference|inference]]; things are clothed with the suggestions
 they arouse. They are significant as challenges to interpretation or as evidences to substantiate a **belief**. Nothing
 could be more unnatural than instruction in things without 
 thought, in sense-perceptions without judgments connected 
@@ -8585,7 +8585,7 @@ every living thing for the privilege of living.
 c. The Word as a Vehicle. When a meaning is detached 
 and fixed by a sign, it is possible to use that meaning in a 
 new context and situation. This transfer and reapplication 
-is the key to all [[Judgment|judgment]] and [[Inference|inference]]. It would little 
+is the key to all [[Judgment|judgment]] and [[inference|inference]]. It would little 
 profit a man to recognize that a given particular cloud was 
 the premonitor of a given particular rainstorm if his recognition ended there, for he would then have to learn over and
 over again, since the next cloud and the next rain are different events. No cumulative growth of intelligence would oc-
@@ -10564,7 +10564,7 @@ and turning back in scrutiny, should alternate. Unconscious-
 ness gives spontaneity and freshness; consciousness, command and control.
 
 
-An Illustration from Control of [[Reflective-Thinking|Reflective Thinking]] 
+An Illustration from Control of [[reflective-thinking|Reflective Thinking]] 
 
 
 The point may be illustrated by the analysis in this volume of the phases of reflective activity. Some readers may

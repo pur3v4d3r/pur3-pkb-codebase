@@ -32,10 +32,10 @@ link-count: 0
 backlink-count: 0
 link-up:
   - "[[cognitive-science-moc]]"
-  - "[[Andragogy]]"
-  - "[[Constructivism]]"
-  - "[[Educational-Psychology]]"
-  - "[[Heutagogy]]"
+  - "[[andragogy]]"
+  - "[[constructivism]]"
+  - "[[educational-psychology]]"
+  - "[[heutagogy]]"
 link-related:
   - "[[2025-11-28|Daily-Note]]"
 status: active
@@ -94,8 +94,8 @@ LIMIT 10
 
 ### Direct Connections
 - [[Biologically Secondary Knowledge]]
-- [[Andragogy]]
-- [[Heutagogy]]
+- [[andragogy]]
+- [[heutagogy]]
 
 ## Practical Applications
 

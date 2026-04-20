@@ -77,23 +77,23 @@ analytical-contributions:
   total-analytical-commentary: 16
 
 related-concepts:
-  - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
-  - "[[Internalization-Continuum|Internalization Continuum]]"
-  - "[[Need-Satisfaction-vs.-Need-Frustration|Need Satisfaction vs. Need Frustration]]"
+  - "[[self-determination-theory|Self-Determination Theory]]"
+  - "[[basic-psychological-needs|Basic Psychological Needs]]"
+  - "[[internalization-continuum|Internalization Continuum]]"
+  - "[[need-satisfaction-vs.-need-frustration|Need Satisfaction vs. Need Frustration]]"
   - "[[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]"
   - "[[Four-Phase-Interest-Model|Four-Phase Interest Model]]"
   - "[[Situational-Interest|Situational Interest]]"
-  - "[[Individual-Interest|Individual Interest]]"
+  - "[[individual-interest|Individual Interest]]"
   - "[[Triggered-Situational-Interest|Triggered Situational Interest]]"
   - "[[Maintained-Situational-Interest|Maintained Situational Interest]]"
   - "[[Emerging-Individual-Interest|Emerging Individual Interest]]"
   - "[[Well-Developed Individual Interest]]"
-  - "[[Habit-Formation|Habit Formation]]"
-  - "[[Identity-Based-Habits|Identity-Based Habits]]"
+  - "[[habit-formation|Habit Formation]]"
+  - "[[identity-based-habits|Identity-Based Habits]]"
   - "[[Habit-Loop|Habit Loop]]"
   - "[[Cue-Routine-Reward]]"
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
   - "[[Behavioral-Inscription|Behavioral Inscription]]"
   - "[[Fogg-Behavior-Model|Fogg Behavior Model]]"
   - "[[Tiny-Habits]]"
@@ -104,15 +104,15 @@ related-concepts:
   - "[[Memento Mori]]"
   - "[[View from Above]]"
   - "[[Stoic Daily Practice]]"
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
   - "[[Capability-Development|Capability Development]]"
-  - "[[Double-Loop-Learning|Double-Loop Learning]]"
-  - "[[Self-Efficacy]]"
-  - "[[Flow-Theory]]"
+  - "[[double-loop-learning|Double-Loop Learning]]"
+  - "[[self-efficacy]]"
+  - "[[flow-theory]]"
   - "[[Motivational-Compounding|Motivational Compounding]]"
   - "[[PKM Motivational Architecture]]"
   - "[[Lifelong Learning Identity]]"
-  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
+  - "[[personal-knowledge-base|Personal Knowledge Base]]"
   - "[[PKM Design Principles]]"
 
 summary: >
@@ -160,7 +160,7 @@ The answer is not willpower. Research across psychology, behavioral science, and
 
 ### The Synthesis Question
 
-This report addresses a question that sits at the intersection of four disciplinary traditions that rarely speak to each other on this particular problem: *How do [[Self-Determination-Theory|Self-Determination Theory]]'s account of long-term motivation maintenance, [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]'s model of how interests deepen over time, [[Habit-Formation|Habit Formation]] research's understanding of behavioral automaticity, and [[Stoic-Philosophy|Stoic Philosophy]]'s practices for sustained discipline and equanimity combine to explain what makes a PKB practice self-sustaining — and what does this synthesis reveal about the structural features a PKB must embed to compound motivational capital rather than deplete it?*
+This report addresses a question that sits at the intersection of four disciplinary traditions that rarely speak to each other on this particular problem: *How do [[self-determination-theory|Self-Determination Theory]]'s account of long-term motivation maintenance, [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]'s model of how interests deepen over time, [[habit-formation|Habit Formation]] research's understanding of behavioral automaticity, and [[Stoic-Philosophy|Stoic Philosophy]]'s practices for sustained discipline and equanimity combine to explain what makes a PKB practice self-sustaining — and what does this synthesis reveal about the structural features a PKB must embed to compound motivational capital rather than deplete it?*
 
 **What This Report Covers**: The motivational dynamics of long-term PKB maintenance, with specific attention to interest development, habit architecture, Stoic discipline practices, and identity consolidation. It addresses years-scale sustainability rather than the weeks-scale motivation problem covered in [[05-motivation-architecture-pkm-framework-2026-03-13]].
 

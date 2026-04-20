@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,39 +69,39 @@ narrower:
   []
 
 see-also:
-  - "[[Self-Regulated-Learning]]"
-  - "[[Critical-Thinking]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Growth-Mindset]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Fluency-Illusion|fluency illusion]]"
-  - "[[Dunning-Kruger-Effect]]"
-  - "[[Metacognitive-Accuracy]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Flavell's-Metacognitive-Framework]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]"
-  - "[[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[critical-thinking|Critical-Thinking]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[dunning-kruger-effect|Dunning-Kruger-Effect]]"
+  - "[[metacognitive-accuracy|Metacognitive-Accuracy]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[flavells-metacognitive-framework|Flavell's-Metacognitive-Framework]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[critical-thinking-as-metacognitively-regulated-reasoning|Critical-Thinking-as-Metacognitively-Regulated-Reasoning]]"
+  - "[[declarative-procedural-and-conditional-metacognitive-knowledge|Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]]"
   - "[[declarative-metacognitive-knowledge]]"
   - "[[conditional-metacognitive-knowledge]]"
-  - "[[Metacognitive-Experience]]"
-  - "[[Albert-Bandura]]"
-  - "[[Metacognitive-Monitoring]]"
+  - "[[metacognitive-experience|Metacognitive-Experience]]"
+  - "[[albert-bandura|Albert-Bandura]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]]"
-  - "[[Prior-Knowledge]]"
+  - "[[cognitive-architecture-working-memory-long-term-memory|Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]]"
+  - "[[prior-knowledge|Prior-Knowledge]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Metacognitive-Calibration-Training-ProtocolsMetacognitive-Calibratio|> [!topic-idea] **[[Metacognitive-Calibration-Training-Protocols|Metacognitive Calibration Training:]]"
+  - topic: "[[topic-idea-metacognitive-calibration-training-protocolsmetacognitive-calibration|> [!topic-idea] **[[Metacognitive-Calibration-Training-Protocols|Metacognitive Calibration Training:]]"
     description: ""
     priority: medium
 
@@ -514,19 +514,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[metacognitive-skills-foundational-report-2026-04-09]])*:
-- [[Self-Regulated-Learning]]
-- [[Cognitive-Load-Theory]]
-- [[Critical-Thinking]]
-- [[Growth-Mindset]]
-- [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]]
-- [[Deliberate-Practice]]
-- [[Comprehension-Monitoring-Training-Protocols]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[critical-thinking|Critical-Thinking]]
+- [[growth-mindset|Growth-Mindset]]
+- [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal-Knowledge-Management-Systems-and-Spaced-Repetition]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[Comprehension-Monitoring-Training-Protocols|Comprehension-Monitoring-Training-Protocols]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector]]
-- [[Dunning-Kruger-Effect]]
-- [[Desirable-Difficulties-—-Bjork]]
+- [[dunning-kruger-effect|Dunning-Kruger-Effect]]
+- [[desirable-difficulties-bjork|Desirable-Difficulties-—-Bjork]]
 
 **Related concepts:**
-[[Self-Regulated-Learning]] · [[Critical-Thinking]] · [[Deliberate-Practice]] · [[Growth-Mindset]] · [[Cognitive-Load-Theory]] · [[Fluency-Illusion|fluency illusion]] · [[Dunning-Kruger-Effect]] · [[Metacognitive-Accuracy]] · [[Deliberate-Practice]] · [[Flavell's-Metacognitive-Framework]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[Metacognitive-Monitoring]] · [[Critical-Thinking-as-Metacognitively-Regulated-Reasoning]] · [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]] · [[declarative-metacognitive-knowledge]] · [[conditional-metacognitive-knowledge]] · [[Metacognitive-Experience]] · [[Albert-Bandura]] · [[Metacognitive-Monitoring]] · [[Metacognition-—-Foundational-Concepts]] · [[Metacognitive-Regulation]] · [[Cognitive-Control]] · [[Fluency-Illusion|fluency illusion]] · [[Metacognitive-Calibration]] · [[Metacognitive-Calibration-Training]] · [[declarative-metacognitive-knowledge]] · [[Metacognitive-Knowledge]] · [[Metacognitive-strategies]] · [[conditional-metacognitive-knowledge]]
+[[self-regulated-learning|Self-Regulated-Learning]] · [[critical-thinking|Critical-Thinking]] · [[deliberate-practice|Deliberate-Practice]] · [[growth-mindset|Growth-Mindset]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[fluency-illusion|Fluency-Illusion]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[metacognitive-accuracy|Metacognitive-Accuracy]] · [[deliberate-practice|Deliberate-Practice]] · [[flavells-metacognitive-framework|Flavell's-Metacognitive-Framework]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[critical-thinking-as-metacognitively-regulated-reasoning|Critical-Thinking-as-Metacognitively-Regulated-Reasoning]] · [[declarative-procedural-and-conditional-metacognitive-knowledge|Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]] · [[declarative-metacognitive-knowledge]] · [[conditional-metacognitive-knowledge]] · [[metacognitive-experience|Metacognitive-Experience]] · [[albert-bandura|Albert-Bandura]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognition-foundational-concepts|Metacognition-—-Foundational-Concepts]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[Cognitive-Control|Cognitive-Control]] · [[fluency-illusion|Fluency-Illusion]] · [[metacognitive-calibration|Metacognitive-Calibration]] · [[metacognitive-calibration-training|Metacognitive-Calibration-Training]] · [[declarative-metacognitive-knowledge]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-strategies|Metacognitive-strategies]] · [[conditional-metacognitive-knowledge]]
 
 ## References
 

@@ -58,7 +58,7 @@ modified: 2025-12-18
 status: evergreen
 certainty: confident
 type: reference
-related: [[Obsidian]], [[Visual-Thinking]], [[Knowledge-Visualization]], [[Mind-Mapping]], [[PKM]]
+related: [[obsidian]], [[Visual-Thinking]], [[Knowledge-Visualization]], [[Mind-Mapping]], [[PKM]]
 freshness:
   domain-volatility: moderate
   last-verified: 2025-12-18
@@ -75,7 +75,7 @@ estimated-study-time: 120min
 ---
 # 🎨 Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian
 > [!abstract] Executive Overview
-> This comprehensive reference covers two powerful [[Obsidian]] plugins that transform how you work with visual information: **[[Excalidraw]]** (sketching, diagramming, and visual note-taking) and **[[MarkMind]]** (mind mapping, outlining, and PDF annotation). Both plugins enable [[Visual-Thinking]] workflows that complement text-based note-taking, creating a complete visual [[PKM]] system within Obsidian.
+> This comprehensive reference covers two powerful [[obsidian]] plugins that transform how you work with visual information: **[[Excalidraw]]** (sketching, diagramming, and visual note-taking) and **[[MarkMind]]** (mind mapping, outlining, and PDF annotation). Both plugins enable [[Visual-Thinking]] workflows that complement text-based note-taking, creating a complete visual [[PKM]] system within Obsidian.
 %%cognitive-load: high | element-interactivity: 7 | time: 120min | passes: 2%%
 %%applies-to: visual-note-taking | pkm-workflow | knowledge-visualization%%
 
@@ -107,11 +107,11 @@ estimated-study-time: 120min
 # Part I: Excalidraw Plugin
 ## 🎯 Overview & Philosophy
 > [!definition] Excalidraw
-> [**Excalidraw**:: A powerful yet intuitive sketching tool seamlessly integrated into [[Obsidian]], enabling creation of hand-drawn style diagrams, sketches, UI wireframes, concept maps, and visual annotations directly within your vault.]^established-stable
+> [**Excalidraw**:: A powerful yet intuitive sketching tool seamlessly integrated into [[obsidian]], enabling creation of hand-drawn style diagrams, sketches, UI wireframes, concept maps, and visual annotations directly within your vault.]^established-stable
 [**Creator**:: [[Zsolt-Viczian]], who also developed [[ExcaliBrain]] and authored "Sketch Your Mind"]^verified
 [**Core Philosophy**:: Visual thinking as a complementary modality to text-based note-taking, enabling [[Visual-PKM]] (Personal Knowledge Management) through integrated sketching and linking capabilities.]^established-consensus
 ### What Makes Excalidraw Unique
-<span style='color: #FFC700;'>**Integration Depth**</span>: Unlike standalone drawing tools, Excalidraw embeds completely within [[Obsidian]], allowing:
+<span style='color: #FFC700;'>**Integration Depth**</span>: Unlike standalone drawing tools, Excalidraw embeds completely within [[obsidian]], allowing:
 - <span style='color: #27FF00;'>**Bi-directional linking**</span> between drawings and notes
 - <span style='color: #27FF00;'>**Block references**</span> to transclude specific parts of drawings
 - <span style='color: #27FF00;'>**Markdown embedding**</span> within drawings themselves
@@ -212,7 +212,7 @@ estimated-study-time: 120min
 ---
 ### Linking & Embedding System
 > [!key-claim] Integration as Core Feature
-> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[Obsidian]]'s linking and embedding system—enabling true [[Visual-PKM]] rather than isolated sketches.]^verified-stable
+> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[obsidian]]'s linking and embedding system—enabling true [[Visual-PKM]] rather than isolated sketches.]^verified-stable
 #### Six Strategies for Linking Visual Thoughts
 <span style='color: #FFC700;'>**Strategy 1: Wiki-Link References**</span>
 ```markdown
@@ -314,7 +314,7 @@ Access via: Library Panel → "Browse libraries" → Search and install.
 ---
 ### ExcalidrawAutomate: Scripting Engine
 > [!definition] ExcalidrawAutomate
-> [**ExcalidrawAutomate**:: A powerful scripting API that enables programmatic drawing creation, manipulation, and automation using JavaScript within [[Obsidian]]—transforming Excalidraw from manual tool to programmable system.]^established-stable
+> [**ExcalidrawAutomate**:: A powerful scripting API that enables programmatic drawing creation, manipulation, and automation using JavaScript within [[obsidian]]—transforming Excalidraw from manual tool to programmable system.]^established-stable
 #### What You Can Automate
 <span style='color: #FFC700;'>**Simple Macros**</span> (Script Engine):
 - Add box around selected text
@@ -388,7 +388,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 - Example: "My friend likes the color red" NOT "Every shade of red and feelings"
 **Step 5: Make It Reusable**
 - Link sketches to notes: `[[Related-Note]]`
-- Embed context: `![[Source Note]]`
+- Embed context: `![[source-note]]`
 - Create frame-based sections for transclusion
 - Build up personal visual library over time
 > [!helpful-tip] Overcoming "I'm Not Visual" Resistance
@@ -685,7 +685,7 @@ Use Templater scripts to:
 # Part II: MarkMind Plugin
 ## 🧠 Overview & Capabilities
 > [!definition] MarkMind
-> [**MarkMind**:: A comprehensive [[Mind-Mapping]], [[outlining]], and [[PDF-annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
+> [**MarkMind**:: A comprehensive [[Mind-Mapping]], [[outlining]], and [[PDF-annotation]] plugin for [[obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
 [**Creator**:: MarkMind Team (MarkMindCkm on GitHub)]^verified
 [**Core Functionality**:: Three integrated modes—Mind Map creation, Outline structuring, and PDF annotation—all working with markdown-native files stored in your vault.]^established
 ### What MarkMind Provides
@@ -1428,8 +1428,8 @@ Meeting: [Topic] - [Date]
 # 🔗 Related Topics for PKB Expansion
 ## Core Extensions
 ### 1. **[[Visual PKM Philosophy]]**
-**Connection:** Both Excalidraw and MarkMind exemplify visual thinking approaches to [[Personal-Knowledge-Management]]—this topic explores the theoretical foundations and cognitive science behind why visual tools enhance learning, memory, and synthesis.
-**Depth Potential:** Deep dive into [[Dual-Coding-Theory]], [[Visual-Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[Cognitive-Load]] and support [[Working-Memory]].
+**Connection:** Both Excalidraw and MarkMind exemplify visual thinking approaches to [[personal-knowledge-management]]—this topic explores the theoretical foundations and cognitive science behind why visual tools enhance learning, memory, and synthesis.
+**Depth Potential:** Deep dive into [[dual-coding-theory]], [[Visual-Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[cognitive-load]] and support [[working-memory]].
 **Knowledge Graph Role:** Foundational theory node connecting to all visual tools (Canvas, Excalidraw, MarkMind, Graph View). Provides "why" behind the "how" of visual PKM.
 **Priority:** High—understanding theory improves tool selection and application.
 **Prerequisites:** [[Cognitive Science Basics]], [[Learning Theory Fundamentals]]

@@ -5,6 +5,7 @@
 title: "Generative Calibration Test"
 aliases:
   - "Generative Calibration Test"
+  - "Generative-Calibration-Test"
   - "GCT"
 type: permanent-note
 status: evergreen
@@ -34,8 +35,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -46,7 +47,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -70,26 +71,26 @@ narrower:
   []
 
 see-also:
-  - "[[Barry-Zimmerman]]"
-  - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
-  - "[[AI-PKB-Integration]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[ai-pkb-integration|AI-PKB-Integration]]"
   - "[[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]"
-  - "[[Obsidian]]"
-  - "[[VS-Code]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Self-Efficacy]]"
-  - "[[Metacognition]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Attribution-Theory]]"
-  - "[[Obsidian]]"
-  - "[[YAML-Frontmatter]]"
+  - "[[obsidian|Obsidian]]"
+  - "[[vs-code|VS-Code]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[obsidian|Obsidian]]"
+  - "[[yaml-frontmatter|YAML-Frontmatter]]"
   - "[[The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel]]"
-  - "[[Zimmerman's-Three-Phase-SRL-Cycle]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Mastery-Goal-Orientation]]"
-  - "[[Deliberate-Practice]]"
-  - "[[The-SRL-Cycle-as-a-Calibration-Engine]]"
+  - "[[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[mastery-goal-orientation|Mastery-Goal-Orientation]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[the-srl-cycle-as-a-calibration-engine|The-SRL-Cycle-as-a-Calibration-Engine]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -97,9 +98,9 @@ see-also:
 builds-on:
   - "[[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]"
   - "[[achievement-goal-theory-foundational-report-2026-03-10]]"
-  - "[[Metacognition]]"
-  - "[[Self-Efficacy]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
 
 enables:
   []
@@ -122,7 +123,7 @@ importance: high
 > 
 > **Boundary:** Generative tests are not the same as comprehension questions that can be answered by recognition or recall. A test that asks "what were the three components of the Forethought Phase?" can be passed by a learner who has not genuinely processed the mechanisms — they need only recognise the correct answer when they see it. A generative test requires production of something not given.
 > 
-> **See also:** [[The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading]], [[The-Four-Question-Generativity-Diagnostic]], [[Writing-to-Learn]], [[Testing-Effect-Retrieval-Practice-Effect]]
+> **See also:** [[The-Generative-Cognition-Architecture-A-Framework-Beyond-Silent-Reading]], [[the-four-question-generativity-diagnostic]], [[writing-to-learn]], [[testing-effect-retrieval-practice-effect]]
 
 ## Core Explanation
 
@@ -184,7 +185,7 @@ importance: high
 > The SRL cycle produces improvement only when three conditions are simultaneously met: (1) Forethought goals are specific and process-oriented enough to be genuinely evaluable; (2) Self-Evaluation honestly compares performance against those goals rather than against vague impressions; (3) Causal Attribution accurately identifies controllable, strategy-level causes of both success and failure. When any of these conditions fails, the cycle becomes…
 
 > [!analytical-insight] Key Insight *(from [[srl-forethought-selfreflection-pkb-report-2026-03-24]])*
-> The [[The-Four-Question-Generativity-Diagnostic|generativity diagnostic]] principle: genuine comprehension is demonstrated by the capacity to *produce* beyond what was given. A monitoring check that asks "did I understand this section?" can be passed through fluency. A monitoring check that asks "can I generate one novel example of this mechanism operating in a domain the text did not discuss?" cannot be passed through fluency. The latter is a genuine comprehension test.
+> The [[the-four-question-generativity-diagnostic|generativity diagnostic]] principle: genuine comprehension is demonstrated by the capacity to *produce* beyond what was given. A monitoring check that asks "did I understand this section?" can be passed through fluency. A monitoring check that asks "can I generate one novel example of this mechanism operating in a domain the text did not discuss?" cannot be passed through fluency. The latter is a genuine comprehension test.
 > 
 > **See also:**…
 
@@ -209,7 +210,7 @@ importance: high
 > [!person] **Barry Zimmerman (1942–2020)** *(from [[srl-forethought-selfreflection-pkb-report-2026-03-24]])*
 > American educational psychologist at City University of New York and Harvard. Developer of the cyclical model of self-regulated learning, the most influential operationalisation of SRL in educational psychology. His research program moved SRL from abstract theoretical concept to measurable, trainable competency. Key works: *Developing Self-Fulfilling Cycles of Academic Regulation* (1999), *Becoming a Self-Regulated Learner* (2002), and his collaborative studies with Kitsantas on goal-setting and self-reflection.
 > 
-> **Lineage:** Zimmerman built on [[Albert-Bandura|Bandura's]] social cognitive…
+> **Lineage:** Zimmerman built on [[albert-bandura|Bandura's]] social cognitive…
 
 > [!person] **Albert Bandura (1925–2021)** *(from [[srl-forethought-selfreflection-pkb-report-2026-03-24]])*
 > Canadian-American psychologist at Stanford University. Developer of social cognitive theory and the construct of self-efficacy — the most extensively researched motivational construct in educational psychology. Key works: *Social Foundations of Thought and Action* (1986), *Self-Efficacy: The Exercise of Control* (1997).
@@ -415,31 +416,31 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[srl-forethought-selfreflection-pkb-report-2026-03-24]])*:
-- [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
-- [[Achievement-Goal-Theory]]
-- [[Self-Efficacy]]
-- [[Metacognition]]
-- [[Deliberate-Practice]]
-- [[Transfer-of-Learning]]
-- [[Attribution-Retraining-Interventions]]
-- [[Writing-to-Learn]]
-- [[Advance-Organizers]]
-- [[The-Fluency-Illusion]]
+- [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[self-efficacy|Self-Efficacy]]
+- [[metacognition|Metacognition]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[advance-organizers|Advance-Organizers]]
+- [[the-fluency-illusion|The-Fluency-Illusion]]
 
 **Cross-report connections** *(from [[srl-forethought-selfreflection-pkb-report-2026-03-24]])*:
 - [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
 - [[achievement-goal-theory-foundational-report-2026-03-10]]
-- [[Metacognition]]
-- [[Self-Efficacy]]
-- [[Deliberate-Practice]]
-- [[Transfer-of-Learning]]
-- [[Self-Directed-Learning]]
-- [[Writing-to-Learn]]
-- [[Advance-Organizers]]
-- [[The-Fluency-Illusion]]
+- [[metacognition|Metacognition]]
+- [[self-efficacy|Self-Efficacy]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[self-directed-learning|Self-Directed-Learning]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[advance-organizers|Advance-Organizers]]
+- [[the-fluency-illusion|The-Fluency-Illusion]]
 
 **Related concepts:**
-[[Barry-Zimmerman]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[AI-PKB-Integration]] · [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]] · [[Obsidian]] · [[VS-Code]] · [[Achievement-Goal-Theory]] · [[Self-Efficacy]] · [[Metacognition]] · [[Self-Determination-Theory]] · [[Attribution-Theory]] · [[Obsidian]] · [[YAML-Frontmatter]] · [[The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[Achievement-Goal-Theory]] · [[Deliberate-Practice]] · [[Mastery-Goal-Orientation]] · [[Deliberate-Practice]] · [[The-SRL-Cycle-as-a-Calibration-Engine]] · [[Barry-Zimmerman]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[Winne-and-Hadwin]] · [[Advance-Organizers]] · [[Schema-Theory]] · [[Self-Efficacy]] · [[Albert-Bandura]]
+[[barry-zimmerman|Barry-Zimmerman]] · [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[ai-pkb-integration|AI-PKB-Integration]] · [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]] · [[obsidian|Obsidian]] · [[vs-code|VS-Code]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[self-efficacy|Self-Efficacy]] · [[metacognition|Metacognition]] · [[self-determination-theory|Self-Determination-Theory]] · [[attribution-theory|Attribution-Theory]] · [[obsidian|Obsidian]] · [[yaml-frontmatter|YAML-Frontmatter]] · [[The-Monitoring-Accuracy-Problem-as-the-Cycle's-Achilles-Heel]] · [[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[deliberate-practice|Deliberate-Practice]] · [[mastery-goal-orientation|Mastery-Goal-Orientation]] · [[deliberate-practice|Deliberate-Practice]] · [[the-srl-cycle-as-a-calibration-engine|The-SRL-Cycle-as-a-Calibration-Engine]] · [[barry-zimmerman|Barry-Zimmerman]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[schema-theory|Schema-Theory]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[winne-and-hadwin|Winne-and-Hadwin]] · [[advance-organizers|Advance-Organizers]] · [[schema-theory|Schema-Theory]] · [[self-efficacy|Self-Efficacy]] · [[albert-bandura|Albert-Bandura]]
 
 ## References
 

@@ -85,7 +85,7 @@ Recent neuroscience research demonstrates that older adults can learn new skills
 
 > [!core-principle]
 > **The Principle of Use-Dependent Plasticity**
-> The brain's structure literally reflects your behavior patterns. Whatever you practice—whether productive or counterproductive—becomes neurologically reinforced. This is why [[Deliberate-Practice]] and intentional habit formation are foundational to self-improvement.
+> The brain's structure literally reflects your behavior patterns. Whatever you practice—whether productive or counterproductive—becomes neurologically reinforced. This is why [[deliberate-practice]] and intentional habit formation are foundational to self-improvement.
 
 Optimal learning requires environmental conditions that promote neuroplasticity and neurogenesis: adequate sleep, proper nutrition, regular exercise, and moderate (not extreme) stress levels. These aren't optional lifestyle choices but fundamental requirements for cognitive optimization.
 
@@ -97,14 +97,14 @@ Optimal learning requires environmental conditions that promote neuroplasticity 
 
 Moderate stress activates the sympathetic nervous system, releasing cortisol and norepinephrine that enhance attention, focus, and memory consolidation. However, chronic or extreme stress damages the hippocampus (memory center) and impairs prefrontal cortex function (executive control).
 
-**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing-Effect]], [[interleaving]], and [[Spacing-Effect]]—all of which introduce manageable stress that enhances learning.
+**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing-Effect]], [[interleaving]], and [[spacing-effect]]—all of which introduce manageable stress that enhances learning.
 
 ## 1.2 Working Memory and Cognitive Load
 
 ### Working Memory Architecture
 
 > [!definition]
-> - **[[Working-Memory]]**:: The limited-capacity system for temporarily holding and manipulating information during cognitive tasks
+> - **[[working-memory]]**:: The limited-capacity system for temporarily holding and manipulating information during cognitive tasks
 > - **Capacity Limits**:: Typically 4±1 "chunks" of information can be actively maintained simultaneously
 > - **Duration**:: Information fades from working memory within 10-20 seconds without rehearsal
 
@@ -113,20 +113,20 @@ Working memory serves as your cognitive workspace—the mental "scratch pad" whe
 **Components of Working Memory** (Baddeley's Model):
 - **Phonological Loop**: Processes verbal and auditory information (inner speech)
 - **Visuospatial Sketchpad**: Handles visual and spatial information (mental imagery)
-- **Episodic Buffer**: Integrates information from different modalities with [[Long-Term-Memory]]
+- **Episodic Buffer**: Integrates information from different modalities with [[long-term-memory]]
 - **Central Executive**: Directs attention and coordinates the other components
 
 The relationship with [[Long-Term-Working-Memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to chunk information efficiently, effectively expanding working memory capacity within their domain of expertise.
 
 ### Cognitive Load Theory
 
-[[Cognitive-Load-Theory]] explains how the limited capacity of working memory affects learning efficiency. Understanding the three types of cognitive load enables you to optimize learning conditions:
+[[cognitive-load-theory]] explains how the limited capacity of working memory affects learning efficiency. Understanding the three types of cognitive load enables you to optimize learning conditions:
 
 | Load Type               | Definition                                       | Strategy                                                                 |
 | ----------------------- | ------------------------------------------------ | ------------------------------------------------------------------------ |
 | **[[Intrinsic-Load]]**  | Inherent difficulty of the material              | Cannot be reduced; requires building prerequisite knowledge              |
-| **[[Extraneous-Load]]** | Load imposed by poor instructional design        | Minimize through clear presentation, eliminating distractions            |
-| **[[Germane-Load]]**    | Productive effort devoted to schema construction | Maximize through deliberate practice, elaboration, and connection-making |
+| **[[extraneous-load]]** | Load imposed by poor instructional design        | Minimize through clear presentation, eliminating distractions            |
+| **[[germane-load]]**    | Productive effort devoted to schema construction | Maximize through deliberate practice, elaboration, and connection-making |
 
 > [!methodology-and-sources]
 > **Managing Cognitive Load**
@@ -154,9 +154,9 @@ Executive functions comprise three core capacities: inhibitory control (resistin
 - Resisting distractions and automatic responses
 - Maintaining focus on relevant information
 - Suppressing irrelevant thoughts or impulses
-- *Application*: Essential for sustained attention during [[Deliberate-Practice]] and resisting the temptation of [[Illusions Of Comprehension]]
+- *Application*: Essential for sustained attention during [[deliberate-practice]] and resisting the temptation of [[Illusions Of Comprehension]]
 
-2. [[Working-Memory]] (Executive Aspect)
+2. [[working-memory]] (Executive Aspect)
 - Updating mental representations as new information arrives
 - Manipulating information held in consciousness
 - Integrating multiple streams of information
@@ -180,8 +180,8 @@ Executive functions are not merely relevant for academic success—they predict 
 
 > [!methodology-and-sources]
 > **Evidence-Based Executive Function Training**
-> 1. **[[Deliberate-Practice]]**: Focused, challenging practice with immediate feedback strengthens all three EF components
-> 2. **[[Metacognitive-Reflection]]**: Regular self-monitoring and strategy adjustment trains executive control
+> 1. **[[deliberate-practice]]**: Focused, challenging practice with immediate feedback strengthens all three EF components
+> 2. **[[metacognitive-reflection]]**: Regular self-monitoring and strategy adjustment trains executive control
 > 3. **Physical Exercise**: Aerobic activity enhances prefrontal cortex function and executive capacity
 > 4. **Mindfulness Meditation**: Strengthens attentional control and cognitive flexibility
 > 5. **Challenging Cognitive Tasks**: Novel, complex activities (learning instruments, languages, programming) build executive reserves
@@ -200,8 +200,8 @@ Executive functions are not merely relevant for academic success—they predict 
 
 > [!definition]
 > - **Sensory Memory**:: Ultra-brief (milliseconds) storage of sensory input; most information never reaches conscious awareness
-> - **Short-Term/[[Working-Memory]]**:: Limited-capacity conscious processing (seconds to minutes)
-> - **[[Long-Term-Memory]]**:: Potentially unlimited storage of consolidated information (hours to lifetime)
+> - **Short-Term/[[working-memory]]**:: Limited-capacity conscious processing (seconds to minutes)
+> - **[[long-term-memory]]**:: Potentially unlimited storage of consolidated information (hours to lifetime)
 
 The flow of information through these systems determines what gets learned and what gets forgotten. Understanding this progression allows you to design interventions at each stage:
 
@@ -243,8 +243,8 @@ The [[Curve Of Forgetting]] demonstrates that without reinforcement, newly learn
 
 **Implications for Learning Design**:
 1. **Accept Initial Forgetting**: It's normal and unavoidable
-2. **Schedule Strategic Review**: Use [[Spacing-Effect]] principles to reinforce at optimal intervals
-3. **Embrace [[Retrieval-Practice]]**: Testing yourself isn't assessment—it's the learning mechanism itself
+2. **Schedule Strategic Review**: Use [[spacing-effect]] principles to reinforce at optimal intervals
+3. **Embrace [[retrieval-practice]]**: Testing yourself isn't assessment—it's the learning mechanism itself
 4. **Vary Contexts**: Each retrieval from a different context/state strengthens and flexibilizes the memory trace
 
 ### Interference and Consolidation
@@ -254,7 +254,7 @@ Two primary mechanisms cause forgetting beyond simple decay:
 > [!definition]
 > - **Proactive Interference**:: Old learning interferes with new learning (prior knowledge creates confusion)
 > - **Retroactive Interference**:: New learning interferes with recalling old learning
-> - **[[Memory-Consolidation]]**:: The process of stabilizing memory traces, particularly during sleep
+> - **[[memory-consolidation]]**:: The process of stabilizing memory traces, particularly during sleep
 
 Sleep is not merely rest but an active period of memory consolidation where the brain replays learning experiences, strengthens neural connections, and integrates new information with existing knowledge structures. All-night cramming sessions sacrifice the very mechanism that would make the learning stick.
 
@@ -267,14 +267,14 @@ Sleep is not merely rest but an active period of memory consolidation where the 
 
 ## 2.3 Evidence-Based Learning Techniques
 
-Based on [[Cognitive-Science]] and empirical learning research, certain techniques consistently demonstrate superior learning outcomes compared to common but ineffective practices.
+Based on [[cognitive-science]] and empirical learning research, certain techniques consistently demonstrate superior learning outcomes compared to common but ineffective practices.
 
 ### High-Utility Techniques (Strongly Recommended)
 
-**1. [[Retrieval-Practice]] (Testing Effect)**
+**1. [[retrieval-practice]] (Testing Effect)**
 
 > [!definition]
-> **[[Retrieval-Practice]]**:: Actively recalling information from memory without looking at materials; the single most powerful learning technique across domains
+> **[[retrieval-practice]]**:: Actively recalling information from memory without looking at materials; the single most powerful learning technique across domains
 
 The [[Retrieval Practice Loop]] in your PKB system represents a reinforcing feedback loop where testing yourself strengthens memory, which improves future retrieval, creating a positive spiral of learning consolidation.
 
@@ -295,10 +295,10 @@ The [[Retrieval Practice Loop]] in your PKB system represents a reinforcing feed
 > **Common Mistake: Recognition vs. Recall**
 > Reading notes and feeling familiar with material creates an [[Illusions Of Comprehension|illusion of knowing]]. True learning requires effortful recall without cues—which feels harder but produces dramatically better retention.
 
-**2. [[Spacing-Effect]] (Distributed Practice)**
+**2. [[spacing-effect]] (Distributed Practice)**
 
 > [!definition]
-> **[[Spacing-Effect]]**:: Learning is more effective when study sessions are distributed over time rather than massed into single sessions
+> **[[spacing-effect]]**:: Learning is more effective when study sessions are distributed over time rather than massed into single sessions
 
 The spacing effect is one of the most robust findings in learning science, yet students consistently favor massed practice (cramming) despite its inferiority.
 
@@ -329,10 +329,10 @@ Research shows that interleaving various problems and topics substantially impro
 - Combine review of old material with learning new material
 - Practice applying concepts to varied contexts
 
-**4. [[Elaborative-Interrogation]] and [[self-explanation]]**
+**4. [[elaborative-interrogation]] and [[self-explanation]]**
 
 > [!definition]
-> - **[[Elaborative-Interrogation]]**:: Generating explanations for why stated facts are true ("Why would this be the case?")
+> - **[[elaborative-interrogation]]**:: Generating explanations for why stated facts are true ("Why would this be the case?")
 > - **[[self-explanation]]**:: Explaining to yourself how new information relates to what you already know
 
 These techniques force deep, generative processing that creates rich, interconnected knowledge structures rather than isolated facts.
@@ -346,12 +346,12 @@ This connects directly to your [[Constructivist Epistemology]] understanding—k
 - "Can I think of an example?"
 - "What principle underlies this?"
 
-**5. [[Chunking]]**
+**5. [[chunking]]**
 
 > [!definition]
-> **[[Chunking]]**:: Organizing individual pieces of information into meaningful groups or patterns
+> **[[chunking]]**:: Organizing individual pieces of information into meaningful groups or patterns
 
-[[Chunking]] addresses [[Working-Memory]]'s limited capacity by packaging information into larger, meaningful units. Experts in any domain are distinguished by sophisticated chunking schemes that allow them to process complex information efficiently.
+[[chunking]] addresses [[working-memory]]'s limited capacity by packaging information into larger, meaningful units. Experts in any domain are distinguished by sophisticated chunking schemes that allow them to process complex information efficiently.
 
 **Chunking Development**:
 1. **Recognition**: Identify repeating patterns in domain
@@ -402,9 +402,9 @@ Multisensory instruction engages multiple brain regions simultaneously, creating
 
 > [!core-principle]
 > **The Paradox of Difficulty**
-> Learning strategies that feel easier during practice often produce weaker long-term retention, while strategies that feel harder during practice produce superior learning outcomes. This is the principle of [[Desirable-Difficulties]].
+> Learning strategies that feel easier during practice often produce weaker long-term retention, while strategies that feel harder during practice produce superior learning outcomes. This is the principle of [[desirable-difficulties]].
 
-This principle is central to [[Cognitive-Load-Theory]]—germane load (productive cognitive effort) should be maximized while extraneous load (wasted effort) is minimized.
+This principle is central to [[cognitive-load-theory]]—germane load (productive cognitive effort) should be maximized while extraneous load (wasted effort) is minimized.
 
 **Examples of Desirable Difficulties**:
 1. **Retrieval Practice** (vs. rereading): Effortful recall strengthens memory more than passive review
@@ -432,10 +432,10 @@ This principle is central to [[Cognitive-Load-Theory]]—germane load (productiv
 ### Defining Metacognition
 
 > [!definition]
-> - **[[Metacognition]]**:: Higher-order thinking that involves active control over cognitive processes engaged in learning
+> - **[[metacognition]]**:: Higher-order thinking that involves active control over cognitive processes engaged in learning
 > - **Two Components**: 
->   - **[[Metacognitive-Knowledge]]**: Understanding of how human cognition works generally and your own cognitive processes specifically
->   - **[[Metacognitive-Regulation]]**: The active monitoring and control of cognitive processes during learning
+>   - **[[metacognitive-knowledge]]**: Understanding of how human cognition works generally and your own cognitive processes specifically
+>   - **[[metacognitive-regulation]]**: The active monitoring and control of cognitive processes during learning
 
 Metacognition comprises both the ability to be aware of one's cognitive processes (metacognitive knowledge) and to regulate them (metacognitive control). Following Nelson and Narens' framework, metacognitive knowledge represents information flow from the object level (actual cognitive processes) to the meta-level (awareness), while metacognitive control represents flow from meta-level to object level (regulation of those processes).
 
@@ -455,7 +455,7 @@ While educational and neuroscience approaches to metacognition have developed la
 
 ## 3.2 Metacognitive Knowledge
 
-[[Metacognitive-Knowledge]] encompasses three domains: person knowledge, task knowledge, and strategy knowledge.
+[[metacognitive-knowledge]] encompasses three domains: person knowledge, task knowledge, and strategy knowledge.
 
 ### Person Knowledge (Knowing Yourself as Learner)
 
@@ -472,11 +472,11 @@ Understanding your own cognitive characteristics, strengths, limitations, and pr
 > **Self-Knowledge in Action**
 > - *Recognizing* you retain verbal information better than visual → *Adapting* by creating written summaries of diagrams
 > - *Noticing* focus deteriorates after 45 minutes → *Implementing* Pomodoro technique with breaks
-> - *Understanding* you have strong [[Working-Memory]] → *Leveraging* this for complex problem-solving vs. simple memorization
+> - *Understanding* you have strong [[working-memory]] → *Leveraging* this for complex problem-solving vs. simple memorization
 
 > [!warning]
 > **The Dunning-Kruger Effect**
-> The [[Dunning-Kruger-Effect]] describes how incompetence in a domain impairs metacognitive ability—novices cannot accurately assess their own skill level because assessment requires the very expertise they lack. This creates dangerous overconfidence in early learning stages.
+> The [[dunning-kruger-effect]] describes how incompetence in a domain impairs metacognitive ability—novices cannot accurately assess their own skill level because assessment requires the very expertise they lack. This creates dangerous overconfidence in early learning stages.
 
 **Mitigating Strategy**: Seek external feedback, use objective performance metrics, and adopt humble curiosity about what you don't know you don't know.
 
@@ -511,13 +511,13 @@ Understanding cognitive strategies, their appropriate application contexts, and 
 | Strategy | When to Use | When NOT to Use | Why It Works |
 |----------|-------------|-----------------|--------------|
 | **Retrieval Practice** | After initial exposure; periodically for review | Before initial understanding; for pure recognition tasks | Strengthens memory traces through effortful recall |
-| **[[Elaborative-Interrogation]]** | For conceptual material requiring deep understanding | For arbitrary facts, procedural skills | Builds connections to existing knowledge |
+| **[[elaborative-interrogation]]** | For conceptual material requiring deep understanding | For arbitrary facts, procedural skills | Builds connections to existing knowledge |
 | **[[interleaving]]** | When discriminating between problem types matters | Early skill acquisition (block first, then interleave) | Develops flexible, transferable knowledge |
-| **[[Chunking]]** | When working memory is overwhelmed; in domains with patterns | For truly random information with no structure | Reduces cognitive load by grouping information |
+| **[[chunking]]** | When working memory is overwhelmed; in domains with patterns | For truly random information with no structure | Reduces cognitive load by grouping information |
 
 ## 3.3 Metacognitive Regulation
 
-[[Metacognitive-Regulation]] involves three cyclical phases: [[Metacognitive Planning]], monitoring/control, and [[Metacognitive-Reflection]].
+[[metacognitive-regulation]] involves three cyclical phases: [[Metacognitive Planning]], monitoring/control, and [[metacognitive-reflection]].
 
 ### Planning Phase
 
@@ -527,7 +527,7 @@ Understanding cognitive strategies, their appropriate application contexts, and 
 Students with high metacognitive knowledge and regulation initiate self-regulated learning processes earlier, primarily employing strategic task-specific approaches rather than relying solely on time management.
 
 **Pre-Learning Questions**:
-- What do I already know about this topic? ([[Prior-Knowledge]] activation)
+- What do I already know about this topic? ([[prior-knowledge]] activation)
 - What specifically do I need to learn? (goal clarification)
 - How difficult will this be for me? (task assessment)
 - What strategies should I use? (strategy selection)
@@ -546,8 +546,8 @@ Students with high metacognitive knowledge and regulation initiate self-regulate
 ### Monitoring and Control Phase
 
 > [!definition]
-> - **[[Metacognitive-Control]]**:: Online monitoring of comprehension and strategy effectiveness during learning, with adaptive adjustments
-> - **[[Metacognitive-Calibration]]**:: Accuracy of self-assessments compared to actual performance
+> - **[[metacognitive-control]]**:: Online monitoring of comprehension and strategy effectiveness during learning, with adaptive adjustments
+> - **[[metacognitive-calibration]]**:: Accuracy of self-assessments compared to actual performance
 
 Metacognition involves cognitive self-awareness and self-regulation of cognitive processes, serving as a key predictor of successful learning and academic achievement.
 
@@ -572,7 +572,7 @@ Metacognition involves cognitive self-awareness and self-regulation of cognitive
 ### Reflection Phase
 
 > [!definition]
-> **[[Metacognitive-Reflection]]**:: Post-learning evaluation of outcomes, strategy effectiveness, and lessons for future learning
+> **[[metacognitive-reflection]]**:: Post-learning evaluation of outcomes, strategy effectiveness, and lessons for future learning
 
 [[Structured Reflection]] using frameworks like [[Reflective-Observation]] transforms experience into learning by making tacit lessons explicit.
 
@@ -598,9 +598,9 @@ This reflection protocol feeds into [[The Insight Compounding Loop]] in your PKB
 ## 3.4 Self-Regulated Learning (SRL)
 
 > [!definition]
-> **[[Self-Regulated-Learning]]**:: The process whereby learners activate and sustain cognitions, behaviors, and affects that are systematically oriented toward attainment of learning goals
+> **[[self-regulated-learning]]**:: The process whereby learners activate and sustain cognitions, behaviors, and affects that are systematically oriented toward attainment of learning goals
 
-Self-regulated learning exhibits interdependence—metacognitive processes, motivation, and strategic behavior interact dynamically throughout learning episodes. Your understanding of [[Self-Regulation-Theory]], [[Self-Determination-Theory]], and [[Self-Behavioral Management]] all contribute to this framework.
+Self-regulated learning exhibits interdependence—metacognitive processes, motivation, and strategic behavior interact dynamically throughout learning episodes. Your understanding of [[Self-Regulation-Theory]], [[self-determination-theory]], and [[Self-Behavioral Management]] all contribute to this framework.
 
 ### Zimmerman's Cyclical Model of SRL
 
@@ -612,7 +612,7 @@ SRL is not a linear process but a cyclical one with three phases:
 
 **2. Performance Phase**
 - **Self-Control**: Attention focusing, self-instruction, imagery, task strategies
-- **Self-Observation**: [[Metacognitive-Control|Metacognitive monitoring]], self-recording
+- **Self-Observation**: [[metacognitive-control|Metacognitive monitoring]], self-recording
 
 **3. Self-Reflection Phase**
 - **Self-Judgment**: Self-evaluation, causal attribution
@@ -628,8 +628,8 @@ Recent research shows that explicit metacognitive support significantly enhances
 
 Your PKB notes reveal sophisticated understanding of related constructs:
 
-- **[[Self-Determination-Theory]]**: Provides motivational foundation (autonomy, competence, relatedness)
-- **[[Locus-of-Control]]** & [[Agency-(Stoicism)]]: Distinguish between controllable (effort, strategies) and uncontrollable (innate ability, task difficulty) factors
+- **[[self-determination-theory]]**: Provides motivational foundation (autonomy, competence, relatedness)
+- **[[locus-of-control]]** & [[Agency-(Stoicism)]]: Distinguish between controllable (effort, strategies) and uncontrollable (innate ability, task difficulty) factors
 - **[[Dichotomy-of-Control]]**: Apply Stoic principles—focus on what you can control (study methods, reflection practice) not outcomes
 - **[[Psychological Resilience]]**: Develop antifragility through controlled challenges and learning from setbacks
 
@@ -648,7 +648,7 @@ Your PKB notes reveal sophisticated understanding of related constructs:
 > 5. **Gradual Release**: Slowly remove scaffolds as processes become automatic
 > 6. **Seek Feedback**: Discuss your learning processes with [[More-Knowledgeable-Other|more knowledgeable others]]
 
-Research on children's metacognitive development shows that teacher/mentor support is essential, especially in early stages. Scaffolding from more experienced others enables learners to operate within their [[Zone-of-Proximal-Development]] until they can self-regulate independently.
+Research on children's metacognitive development shows that teacher/mentor support is essential, especially in early stages. Scaffolding from more experienced others enables learners to operate within their [[zone-of-proximal-development]] until they can self-regulate independently.
 
 ---
 
@@ -999,18 +999,18 @@ Your permanent notes are evergreen notes—atomic, interconnected, continually r
 > [!definition]
 > **Expertise**:: Domain-specific superior performance that is consistent, reproducible, and measurably better than that of novices or competent practitioners
 
-Expertise is not merely accumulated experience (time in domain) but rather the result of specific, focused practice aimed at improving performance. This is the central insight of [[Deliberate-Practice]] theory.
+Expertise is not merely accumulated experience (time in domain) but rather the result of specific, focused practice aimed at improving performance. This is the central insight of [[deliberate-practice]] theory.
 
 ### Deliberate Practice Framework
 
 K. Anders Ericsson's Deliberate Practice Framework proposes that expert performance results from extended engagement in practice activities specifically designed to improve performance, rather than from innate talent. However, the framework has been refined through decades of research and debate.
 
-**Core Characteristics of [[Deliberate-Practice]]**:
+**Core Characteristics of [[deliberate-practice]]**:
 
 1. **Well-Defined Goals**: Specific performance targets, not vague improvement desires
 2. **Full Concentration**: Sustained, focused attention on practice activities
 3. **Immediate Feedback**: Knowledge of results allowing real-time adjustment
-4. **Difficulty Calibration**: Tasks slightly beyond current ability (within [[Zone-of-Proximal-Development]])
+4. **Difficulty Calibration**: Tasks slightly beyond current ability (within [[zone-of-proximal-development]])
 5. **Repetition with Refinement**: Not mindless repetition but iterative improvement
 6. **Mental Representations**: Building increasingly sophisticated [[schemas|schemas]] of domain structure
 
@@ -1037,11 +1037,11 @@ Research on expertise reveals consistent patterns distinguishing experts from no
 
 | Dimension | Novices | Experts |
 |-----------|---------|---------|
-| **Knowledge Structure** | Isolated facts, surface features | Rich [[Schema|schemas]], deep principles |
+| **Knowledge Structure** | Isolated facts, surface features | Rich [[schema|schemas]], deep principles |
 | **Problem Representation** | Concrete, formula-focused | Abstract, conceptual patterns |
 | **Pattern Recognition** | Limited, effortful | Rapid, intuitive |
-| **[[Working-Memory]]** | Standard capacity (4±1 chunks) | Extended capacity through [[Long-Term-Working-Memory|domain-specific schemas]] |
-| **Metacognitive Accuracy** | Poor calibration, overconfidence early ([[Dunning-Kruger-Effect]]) | Well-calibrated, accurate self-assessment |
+| **[[working-memory]]** | Standard capacity (4±1 chunks) | Extended capacity through [[Long-Term-Working-Memory|domain-specific schemas]] |
+| **Metacognitive Accuracy** | Poor calibration, overconfidence early ([[dunning-kruger-effect]]) | Well-calibrated, accurate self-assessment |
 | **Strategy Use** | Limited repertoire, inflexible | Extensive, adaptively deployed |
 | **Error Detection** | External feedback required | Self-monitoring, early error detection |
 
@@ -1134,12 +1134,12 @@ Research shows that interleaving various problems and topics, rather than blocki
 **Six Teaching Methods**:
 1. **Modeling**: Expert demonstrates while articulating reasoning
 2. **Coaching**: Provide hints and feedback during learner practice
-3. **[[Scaffolding]]**: Temporary support gradually removed
+3. **[[scaffolding]]**: Temporary support gradually removed
 4. **Articulation**: Learner verbalizes thinking process
 5. **Reflection**: Compare learner and expert performances
 6. **Exploration**: Encourage independent problem posing and solving
 
-This connects to [[More-Knowledgeable-Other]] and [[Zone-of-Proximal-Development]]—learning optimally occurs with expert guidance within reach but beyond independent capability.
+This connects to [[More-Knowledgeable-Other]] and [[zone-of-proximal-development]]—learning optimally occurs with expert guidance within reach but beyond independent capability.
 
 ## 5.3 Interdisciplinary Synthesis
 
@@ -1166,13 +1166,13 @@ PKM promotes creativity and innovation by synthesizing diverse sources of inform
 > - **Horizontal Bar**: Broad familiarity across many domains
 
 **Cultivation Strategy**:
-1. **Depth First**: Develop genuine expertise in primary domain (years of [[Deliberate-Practice]])
+1. **Depth First**: Develop genuine expertise in primary domain (years of [[deliberate-practice]])
 2. **Strategic Breadth**: Acquire working knowledge in adjacent or complementary fields
 3. **Connection-Making**: Actively seek analogies and transfer opportunities
 4. **Cross-Pollination**: Apply methods from one domain to problems in another
 5. **Collaborative Learning**: Engage with experts from other fields
 
-Your PKB system, with extensive cross-referencing between [[cognitive-psychology]], [[Instructional-Design]], [[Stoic-Philosophy]], and [[Knowledge-Management]], exemplifies this interdisciplinary approach.
+Your PKB system, with extensive cross-referencing between [[cognitive-psychology]], [[instructional-design]], [[Stoic-Philosophy]], and [[Knowledge-Management]], exemplifies this interdisciplinary approach.
 
 ### Synthesis Techniques
 
@@ -1202,7 +1202,7 @@ Your PKB system, with extensive cross-referencing between [[cognitive-psychology
 > - **Cognitive Psychology → Education**: Learning science principles applied to instructional design
 > - **Economics → Psychology**: Behavioral economics applying psychological insights to economic decision-making
 > - **Computer Science → Biology**: Algorithms inspired by natural selection, neural networks from brain architecture
-> - **Stoic Philosophy → Modern Psychology**: [[Cognitive-Behavioral-Therapy]] incorporates Stoic principles of cognitive reframing
+> - **Stoic Philosophy → Modern Psychology**: [[cognitive-behavioral-therapy]] incorporates Stoic principles of cognitive reframing
 
 ---
 
@@ -1214,12 +1214,12 @@ Your PKB system, with extensive cross-referencing between [[cognitive-psychology
 
 ## 6.1 Motivation and Self-Determination
 
-Your understanding of [[Self-Determination-Theory]] provides a robust motivational framework with three fundamental psychological needs.
+Your understanding of [[self-determination-theory]] provides a robust motivational framework with three fundamental psychological needs.
 
 ### Self-Determination Theory (SDT)
 
 > [!definition]
-> **[[Self-Determination-Theory]]**:: A macro-theory of human motivation distinguishing autonomous (self-directed) from controlled (externally regulated) motivation, and identifying three basic psychological needs
+> **[[self-determination-theory]]**:: A macro-theory of human motivation distinguishing autonomous (self-directed) from controlled (externally regulated) motivation, and identifying three basic psychological needs
 
 **The Three Psychological Needs**:
 
@@ -1342,7 +1342,7 @@ PKM tools enable individuals to collaborate effectively with others by facilitat
 3. **Motivation**: Social comparison and vicarious success inspire effort
 4. **Feedback**: Others identify blind spots and misconceptions
 5. **Resource Sharing**: Distributed knowledge exceeds individual capacity
-6. **Belonging**: Fulfills [[Relatedness]] need from [[Self-Determination-Theory]]
+6. **Belonging**: Fulfills [[relatedness]] need from [[self-determination-theory]]
 
 ### Modes of Social Learning
 
@@ -1359,7 +1359,7 @@ PKM tools enable individuals to collaborate effectively with others by facilitat
 - Focus on mutual growth
 
 **3. Mentorship Relationships**
-- [[More-Knowledgeable-Other]] provides guidance, feedback, and [[Scaffolding]]
+- [[More-Knowledgeable-Other]] provides guidance, feedback, and [[scaffolding]]
 - Accelerates learning through expert modeling
 - Provides emotional support and confidence
 - Can be formal (assigned) or informal (sought)
@@ -1498,7 +1498,7 @@ This subtle shift from behavior goals to identity makes actions self-reinforcing
 - **Synthesis capacity**: Connecting knowledge across domains
 - **Sustained motivation**: Intrinsic drive for continuous growth
 
-Your work across [[Metacognition]], [[Self-Regulated-Learning]], [[Knowledge-Management]], [[Heutagogy]], and related domains represents exactly this meta-skill development.
+Your work across [[metacognition]], [[self-regulated-learning]], [[Knowledge-Management]], [[heutagogy]], and related domains represents exactly this meta-skill development.
 
 ### The Compounding Returns of Learning
 
@@ -1620,7 +1620,7 @@ This master reference has woven together:
    - *Knowledge Graph Role*: Bridges learning science and practical implementation tools
 
 2. **[[Cognitive Biases in Learning and Knowledge Work]]**
-   - *Connection*: Extends understanding of how [[Cognitive-Biases]] specifically impact learning effectiveness, metacognitive accuracy, and knowledge management decisions
+   - *Connection*: Extends understanding of how [[cognitive-biases]] specifically impact learning effectiveness, metacognitive accuracy, and knowledge management decisions
    - *Depth Potential*: Catalog of biases relevant to learners, debiasing strategies, relationship to [[Illusions Of Comprehension]]
    - *Knowledge Graph Role*: Connects cognitive psychology to practical learning strategy and metacognitive development
 
@@ -1708,23 +1708,23 @@ From user's existing notes (will extensively cross-reference):
 - All PKM infrastructure notes
 
 Additional concepts to introduce as wiki-links:
-- [[Deliberate-Practice]]
+- [[deliberate-practice]]
 - [[interleaving]]
-- [[Spacing-Effect]]
-- [[Desirable-Difficulties]]
-- [[Transfer-of-Learning]]
+- [[spacing-effect]]
+- [[desirable-difficulties]]
+- [[transfer-of-learning]]
 - [[Expert-Novice Differences]]
 - [[Cognitive-Apprenticeship]]
-- [[Mental-Models]]
+- [[mental-models]]
 - [[Progressive-Summarization]]
 - [[Evergreen-Notes]]
 - [[Atomic-Notes]]
 - [[Concept Mapping]]
-- [[Elaborative-Interrogation]]
+- [[elaborative-interrogation]]
 - [[self-explanation]]
 - [[Feynman Technique]]
 - [[Cognitive Flexibility]]
-- [[Epistemic-Cognition]]
+- [[epistemic-cognition]]
 
 ## METADATA PLANNING
 

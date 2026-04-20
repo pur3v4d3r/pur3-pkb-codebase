@@ -296,52 +296,52 @@ SORT file.ctime DESC
 > [!topic-idea]
 > - **Topic or Idea**:: [[Self-Regulation Theory]]
 > - **Key Figure(s)**:: *Roy Baumeister*, *Albert Bandura*
-> - **Description**:: A broad framework explaining how individuals monitor, control, and direct their own thoughts, feelings, and behaviors to achieve goals. It often involves a "strength" or resource model, suggesting that self-control is a limited resource that can be depleted (a concept known as **ego depletion**). [[Albert-Bandura]]'s work, in particular, emphasizes the role of **self-efficacy** (belief in one's capabilities) in this process.
+> - **Description**:: A broad framework explaining how individuals monitor, control, and direct their own thoughts, feelings, and behaviors to achieve goals. It often involves a "strength" or resource model, suggesting that self-control is a limited resource that can be depleted (a concept known as **ego depletion**). [[albert-bandura]]'s work, in particular, emphasizes the role of **self-efficacy** (belief in one's capabilities) in this process.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Cognitive-Load-Theory]]
+> - **Topic or Idea**:: [[cognitive-load-theory]]
 > - **Key Figure(s)**:: *John Sweller*
-> - **Description**:: An instructional theory postulating that all learning tasks impose a "load" on the brain's limited [[Working-Memory]]. Effective learning must manage three types of load: **intrinsic** (the inherent difficulty), **extraneous** (the way information is presented), and **germane** (the work of integrating information into schemas). The goal is to minimize extraneous load to free up cognitive resources for germane load.
+> - **Description**:: An instructional theory postulating that all learning tasks impose a "load" on the brain's limited [[working-memory]]. Effective learning must manage three types of load: **intrinsic** (the inherent difficulty), **extraneous** (the way information is presented), and **germane** (the work of integrating information into schemas). The goal is to minimize extraneous load to free up cognitive resources for germane load.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Self-Determination-Theory]]
+> - **Topic or Idea**:: [[self-determination-theory]]
 > - **Key Figure(s)**:: *Edward L. Deci*, *Richard M. Ryan*
-> - **Description**:: A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[Intrinsic-Motivation]].
+> - **Description**:: A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[intrinsic-motivation]].
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Working-Memory]]
+> - **Topic or Idea**:: [[working-memory]]
 > - **Key Figure(s)**:: *Alan Baddeley*, *Graham Hitch*
-> - **Description**:: A cognitive system with limited capacity responsible for temporarily *holding* and *manipulating* information for complex tasks like reasoning, comprehension, and learning. It is distinct from passive short-term memory and includes components like the **phonological loop** (verbal) and **visuospatial sketchpad** (visual), managed by a **central executive**. Understanding its limits is fundamental to [[Cognitive-Load-Theory]].
+> - **Description**:: A cognitive system with limited capacity responsible for temporarily *holding* and *manipulating* information for complex tasks like reasoning, comprehension, and learning. It is distinct from passive short-term memory and includes components like the **phonological loop** (verbal) and **visuospatial sketchpad** (visual), managed by a **central executive**. Understanding its limits is fundamental to [[cognitive-load-theory]].
 
 ## 🧠 Critical Thinking & Reasoning
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Critical-Thinking]]
+> - **Topic or Idea**:: [[critical-thinking]]
 > - **Key Figure(s)**:: *John Dewey*, *Robert Ennis*
 > - **Description**:: The intellectually disciplined process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and/all evaluating information gathered from observation, experience, or reflection. It is a mode of thinking in which the thinker improves the quality of their thought by imposing **intellectual standards** upon it. This involves moving beyond surface-level acceptance to question assumptions and **evaluate arguments**.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Socrates]]
+> - **Topic or Idea**:: [[socrates]]
 > - **Key Figure(s)**:: *Plato* (whose dialogues are the primary source)
-> - **Description**:: A classical Greek philosopher credited as a founder of Western philosophy and the first moral philosopher. He is renowned for the **Socratic method** of inquiry (or *elenchus*), a form of argumentative dialogue based on asking and answering questions to stimulate [[Critical-Thinking]] and draw out underlying *presuppositions*.
+> - **Description**:: A classical Greek philosopher credited as a founder of Western philosophy and the first moral philosopher. He is renowned for the **Socratic method** of inquiry (or *elenchus*), a form of argumentative dialogue based on asking and answering questions to stimulate [[critical-thinking]] and draw out underlying *presuppositions*.
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Socratic Thinking]]
 > - **Key Figure(s)**:: *Socrates* (originator), *Richard Paul* (modern proponent)
-> - **Description**:: This refers to the application of the [[Socratic-Method]] as a disciplined mode of thought. It is a form of inquiry that systematically reveals **gaps in understanding** or *aporia* (puzzlement) by continuously probing the logic and assumptions of a belief. It is the foundation of [[Critical-Thinking]], used to separate what one truly knows from what one merely *thinks* they know.
+> - **Description**:: This refers to the application of the [[socratic-method]] as a disciplined mode of thought. It is a form of inquiry that systematically reveals **gaps in understanding** or *aporia* (puzzlement) by continuously probing the logic and assumptions of a belief. It is the foundation of [[critical-thinking]], used to separate what one truly knows from what one merely *thinks* they know.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Epistemic-Cognition]]
+> - **Topic or Idea**:: [[epistemic-cognition]]
 > - **Key Figure(s)**:: *William G. Perry Jr.*, *Deanna Kuhn*
 > - **Description**:: This refers to "thinking about knowing" itself, specifically an individual's beliefs about the *nature* of knowledge and the *process* of knowing. It involves how individuals understand certainty, authority, and justification (e.g., moving from a dualistic "right/wrong" view to a more "relativistic" or "evaluative" one). This meta-level cognition governs how individuals **justify their beliefs** and **evaluate knowledge claims**.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Logical Fallacies]]
+> - **Topic or Idea**:: [[Logical-Fallacies]]
 > - **Key Figure(s)**:: *Aristotle* (first to systematize them)
 > - **Description**:: Errors in the *structure* of reasoning that undermine the logical validity of an argument, making it unsound. Examples include **ad hominem** (attacking the person), **straw man** (misrepresenting the argument), and **false dilemma** (presenting only two choices). Identifying fallacies is a core component of analyzing [[Argument Quality (Evaluation)]].
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Cognitive-Biases]]
+> - **Topic or Idea**:: [[cognitive-biases]]
 > - **Key Figure(s)**:: *Daniel Kahneman*, *Amos Tversky*
 > - **Description**:: Systematic, subconscious patterns of deviation from rationality in judgment, often arising from mental shortcuts (**heuristics**) used to process information quickly. Unlike logical fallacies (flaws in argument structure), biases are flaws in the *process* of thinking itself, such as **confirmation bias** (favoring information that confirms one's beliefs) or the **availability heuristic** (overestimating the importance of easily recalled information).
 
@@ -353,34 +353,34 @@ SORT file.ctime DESC
 ## ⚙️ Learning Strategies & Metacognition
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Metacognition]]
+> - **Topic or Idea**:: [[metacognition]]
 > - **Key Figure(s)**:: *John H. Flavell*
-> - **Description**:: Often defined as "thinking about one's own thinking," this is a higher-order process that involves awareness and control of one's thought processes. It has two main components: **metacognitive knowledge** (what one knows about their own cognition) and **metacognitive regulation** (how one manages their learning, such as planning, monitoring, and evaluating). It is the parent concept for [[Self-Regulated-Learning]] and [[self-explanation]].
+> - **Description**:: Often defined as "thinking about one's own thinking," this is a higher-order process that involves awareness and control of one's thought processes. It has two main components: **metacognitive knowledge** (what one knows about their own cognition) and **metacognitive regulation** (how one manages their learning, such as planning, monitoring, and evaluating). It is the parent concept for [[self-regulated-learning]] and [[self-explanation]].
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Metacognitive Planning]]
 > - **Key Figure(s)**:: *Barry Zimmerman*, *John H. Flavell*
-> - **Description**:: This is the **forethought phase** of [[Metacognition]], occurring *before* a task begins. It involves setting specific learning goals, activating relevant prior knowledge, analyzing the task's demands, and selecting the appropriate [[Cognitive Strategies]] and [[Metacognitive-strategies]] for the job. This is the "game plan" stage of [[Self-Regulated-Learning]].
+> - **Description**:: This is the **forethought phase** of [[metacognition]], occurring *before* a task begins. It involves setting specific learning goals, activating relevant prior knowledge, analyzing the task's demands, and selecting the appropriate [[Cognitive Strategies]] and [[metacognitive-strategies]] for the job. This is the "game plan" stage of [[self-regulated-learning]].
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Metacognitive-Monitoring]]
+> - **Topic or Idea**:: [[metacognitive-monitoring]]
 > - **Key Figure(s)**:: *John Dunlosky*, *Janet Metcalfe*
 > - **Description**:: I am adding this topic as it is the critical link between planning and reflection. This is the *in-the-moment* awareness and tracking of one's own learning and comprehension *during* a task. It involves processes like "judgments of learning" (JOLs)—assessing how well you know something—which allows you to make real-time adjustments, such as re-reading a confusing paragraph or switching strategies.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Metacognitive-Reflection]]
+> - **Topic or Idea**:: [[metacognitive-reflection]]
 > - **Key Figure(s)**:: *Barry Zimmerman*, *Donald Schön*
-> - **Description**:: This is the **self-reflection phase** that occurs *after* a learning attempt, forming the crucial feedback loop in [[Self-Regulated-Learning]]. It involves **self-evaluation** (judging one's performance against the goal) and **self-reaction** (attributing outcomes to specific causes, like effort or strategy choice). This reflection is what informs and improves future [[Metacognitive Planning]].
+> - **Description**:: This is the **self-reflection phase** that occurs *after* a learning attempt, forming the crucial feedback loop in [[self-regulated-learning]]. It involves **self-evaluation** (judging one's performance against the goal) and **self-reaction** (attributing outcomes to specific causes, like effort or strategy choice). This reflection is what informs and improves future [[Metacognitive Planning]].
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Metacognitive-strategies]]
+> - **Topic or Idea**:: [[metacognitive-strategies]]
 > - **Key Figure(s)**:: *John H. Flavell*, *Michael Pressley*
 > - **Description**:: These are the specific, goal-directed procedures used to *regulate* cognition, as distinct from [[Cognitive Strategies]] which are used to *perform* the task. Metacognitive strategies include the active processes of **planning** (e.g., "What's my goal here?"), **monitoring** (e.g., "Am I understanding this?"), and **evaluating** (e.g., "How well did that strategy work?").
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Self-Regulated Learning (SRL)]]
 > - **Key Figure(s)**:: *Barry Zimmerman*, *Paul Pintrich*
-> - **Description**:: A cyclical, proactive process where learners set their own learning goals, select and deploy strategies, and then monitor and reflect on their progress. This framework integrates [[Metacognition]] and [[Self-Regulation Theory]] directly into the academic context. It involves three key phases: **forethought** (planning/goal setting), **performance** (monitoring/strategy use), and **self-reflection** (evaluating/adapting).
+> - **Description**:: A cyclical, proactive process where learners set their own learning goals, select and deploy strategies, and then monitor and reflect on their progress. This framework integrates [[metacognition]] and [[Self-Regulation Theory]] directly into the academic context. It involves three key phases: **forethought** (planning/goal setting), **performance** (monitoring/strategy use), and **self-reflection** (evaluating/adapting).
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Verbal Self-Instruction]]
@@ -395,7 +395,7 @@ SORT file.ctime DESC
 > [!topic-idea]
 > - **Topic or Idea**:: [[Cognitive Strategies]]
 > - **Key Figure(s)**:: *Michael Pressley*
-> - **Description**:: Specific mental procedures or "tools" that learners intentionally use to improve their learning, memory, and problem-solving. These go beyond rote memorization and include techniques like **summarization**, **imagery**, **question generation**, and **concept mapping**. They are the "how-to" of [[Metacognition]], representing the *actions* one takes based on self-monitoring.
+> - **Description**:: Specific mental procedures or "tools" that learners intentionally use to improve their learning, memory, and problem-solving. These go beyond rote memorization and include techniques like **summarization**, **imagery**, **question generation**, and **concept mapping**. They are the "how-to" of [[metacognition]], representing the *actions* one takes based on self-monitoring.
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Mnemonic Devices]]
@@ -417,7 +417,7 @@ SORT file.ctime DESC
 > - **Description**:: The process by which individuals influence *which* emotions they have, *when* they have them, and *how* they experience and express these emotions. Gross's **process model** outlines key strategies like **situation selection**, **cognitive change** (reappraisal), and **response modulation** (suppression). It is a crucial, specific domain of [[Self-Regulation Theory]].
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Goal-Setting-Theory]]
+> - **Topic or Idea**:: [[goal-setting-theory]]
 > - **Key Figure(s)**:: *Edwin Locke*, *Gary Latham*
 > - **Description**:: A theory of motivation proposing that specific, challenging goals lead to higher performance than vague or easy goals. The theory states that goals affect performance by **directing attention**, **mobilizing effort**, **increasing persistence**, and **motivating strategy development**. **Feedback** on progress is a critical moderator of this relationship.
 
@@ -437,9 +437,9 @@ SORT file.ctime DESC
 > - **Description**:: The process of planning and exercising conscious control over the time spent on specific activities to increase effectiveness, efficiency, or [[productivity]]. Effective time management often involves **prioritization** (e.g., the **Eisenhower Matrix** of urgent/important), **scheduling**, and **protecting focused time**. It is fundamentally a practice of managing one's *self* and *choices*.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[Intrinsic-Motivation]]
+> - **Topic or Idea**:: [[intrinsic-motivation]]
 > - **Key Figure(s)**:: *Edward L. Deci*, *Harry Harlow* (early experiments)
-> - **Description**:: The drive to engage in an activity for its own inherent satisfaction, pleasure, and challenge, rather than for a separable external reward. It is the core desired outcome in [[Self-Determination-Theory]], which contrasts it with **extrinsic motivation** (behavior driven by rewards or punishments). Fostering intrinsic motivation is key to long-term persistence.
+> - **Description**:: The drive to engage in an activity for its own inherent satisfaction, pleasure, and challenge, rather than for a separable external reward. It is the core desired outcome in [[self-determination-theory]], which contrasts it with **extrinsic motivation** (behavior driven by rewards or punishments). Fostering intrinsic motivation is key to long-term persistence.
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Cognitive Style]]
@@ -454,7 +454,7 @@ SORT file.ctime DESC
 > [!topic-idea]
 > - **Topic or Idea**:: [[Linear vs. Networked Thinking]]
 > - **Key Figure(s)**:: *Tim Berners-Lee* (WWW), *Deleuze & Guattari* (Rhizome)
-> - **Description**:: A distinction in how thoughts are structured. **Linear thinking** (or *sequential*) follows a step-by-step, logical progression, common in traditional essays. **Networked thinking** (or *rhizomatic*) emphasizes non-linear connections, associations, and emergent patterns, which is the foundational concept behind [[Personal-Knowledge-Base]] tools like Obsidian.
+> - **Description**:: A distinction in how thoughts are structured. **Linear thinking** (or *sequential*) follows a step-by-step, logical progression, common in traditional essays. **Networked thinking** (or *rhizomatic*) emphasizes non-linear connections, associations, and emergent patterns, which is the foundational concept behind [[personal-knowledge-base]] tools like Obsidian.
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Local vs. Global Processing]]
@@ -506,7 +506,7 @@ SORT file.ctime DESC
 
 # 📚 Pedagogical Scaffold Mapping for Self-Development Topics
 
-This document maps 19 advanced self-development topics to the **optimal pedagogical scaffold** for their analysis. This mapping serves as an **[[Action Plan]]** for generating high-quality, structured [[Atomic-Notes]] and [[Pillar Notes]] within your [[Personal Knowledge Base (PKB)]], ensuring maximum [[Cognitive-Load]] efficiency and depth of mastery.
+This document maps 19 advanced self-development topics to the **optimal pedagogical scaffold** for their analysis. This mapping serves as an **[[Action Plan]]** for generating high-quality, structured [[Atomic-Notes]] and [[Pillar Notes]] within your [[Personal Knowledge Base (PKB)]], ensuring maximum [[cognitive-load]] efficiency and depth of mastery.
 
 > [!tip] Scaffold-Driven Note Creation
 > Each scaffold dictates the **structure and flow** of the final note. By selecting the optimal scaffold, you ensure the note's content is organized to achieve the specific learning outcome (e.g., critical judgment, systemic understanding, foundational knowledge).
@@ -520,7 +520,7 @@ The following table presents the optimal pairings, justifying the choice based o
 | **Experiential Learning** | A Strategic Examination of How David Kolb's Experiential Learning Cycle Can Be Operationalized… | **7. 🕸️ Systems Thinking** | Kolb’s Cycle is an inter-dependent, dynamic loop of **feedback and relationships** (Experience $\rightarrow$ Reflection $\rightarrow$ Conceptualization $\rightarrow$ Experimentation). Requires a holistic view of the system's function. |
 | **PKM Architecture** | A Comparative Analysis of Subject-Based vs. Problem-Centered Architectures… | **5. 🌗 Comparative Analysis** | The topic is explicitly structured as an analysis of **two competing paradigms**. The core goal is to examine **differences and similarities** to aid decision-making. |
 | **PKB Psychology** | A Psychological Analysis of How Personal Knowledge Base Design… Can Leverage the Intrinsic Motivators of Adult Learners… | **1. 🏛️ Knowledge-Driven Exposition** | Requires building a **comprehensive, foundational theory** connecting psychological principles (e.g., Self-Determination Theory) to PKB design. A Pillar Note structure is ideal. |
-| **Skill Acquisition** | A Developmental Examination of Cognitive Skill Acquisition… Transition from Novice Application to Expert-Level Mastery… | **1. 🏛️ Knowledge-Driven Exposition** | This is a developmental process requiring an **encyclopedic overview** of models (Dreyfus, Fitts and Posner) and [[Deliberate-Practice]] principles. |
+| **Skill Acquisition** | A Developmental Examination of Cognitive Skill Acquisition… Transition from Novice Application to Expert-Level Mastery… | **1. 🏛️ Knowledge-Driven Exposition** | This is a developmental process requiring an **encyclopedic overview** of models (Dreyfus, Fitts and Posner) and [[deliberate-practice]] principles. |
 | **Cognitive Scaffolding** | An Analysis of Personal Knowledge Base (PKB) Systems as Cognitive Scaffolding, Investigating the Methodologies… | **7. 🕸️ Systems Thinking** | PKB design is a **complex system** where digital components (notes, links, queries) interact to produce the **emergent behavior** of enhanced thinking. |
 | **Andragogy & Cognition** | A Comprehensive Inquiry into the Symbiotic Relationship Between Andragogical Principles and the Cultivation of Higher-Order Cognitive Skills… | **🗺️ Interdisciplinary Synthesis** | Requires **synthesizing** two distinct fields: [[Adult Learning Theory (Andragogy)]] and [[Higher-Order Cognitive Skills (HOCS)]], to find emergent connections. |
 | **Critical Thinking Barriers** | An Investigation into the Cognitive Biases, Logical Fallacies, and Psychological Barriers that Impede Effective Critical… | **3. ⚖️ Socratic Inquiry** | The best way to mitigate biases is to **critically challenge** them. The dialogue-based model forces the deconstruction of *your own* assumptions. |

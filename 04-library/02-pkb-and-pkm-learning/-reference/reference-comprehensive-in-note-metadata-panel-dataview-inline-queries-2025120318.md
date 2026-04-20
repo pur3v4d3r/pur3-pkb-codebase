@@ -173,7 +173,7 @@ I need to explore Dataview's inline query capabilities systematically across mul
 - Expansion section linking to advanced topics
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Dataview]], [[Inline-Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge-Graph]], [[Link-Analysis]], [[Temporal-Queries]], [[Aggregation-Functions]], [[Conditional-Logic]], [[String-Manipulation]], [[File-Properties]], [[Dashboard-Design]], [[PKB-Architecture]]
+[[Dataview]], [[Inline-Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[obsidian]], [[Knowledge-Graph]], [[Link-Analysis]], [[Temporal-Queries]], [[Aggregation-Functions]], [[Conditional-Logic]], [[String-Manipulation]], [[File-Properties]], [[Dashboard-Design]], [[pkb-architecture]]
 
 
 ---
@@ -184,7 +184,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 # 📊 Dataview Inline Queries: Complete Reference Compendium
 
 > [!abstract] Overview
-> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard-Design]] and [[PKB-Architecture]] implementations.
+> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard-Design]] and [[pkb-architecture]] implementations.
 
 > [!important] Inline Query Fundamentals
 > **Syntax Structure:** `` `= <expression>` ``
@@ -202,7 +202,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 ### A. Basic File Metadata Access
 
 > [!definition] File Metadata Queries
-> These queries access implicit properties automatically maintained by [[Obsidian]] for every file.
+> These queries access implicit properties automatically maintained by [[obsidian]] for every file.
 
 #### 1. **File Identification**
 
@@ -242,7 +242,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 ### B. Link & Relationship Analysis
 
 > [!key-claim] Network Metrics
-> Link analysis queries are fundamental to [[Knowledge-Graph]] health monitoring and [[Zettelkasten]] maintenance.
+> Link analysis queries are fundamental to [[Knowledge-Graph]] health monitoring and [[zettelkasten]] maintenance.
 
 #### 4. **Link Counts**
 
@@ -660,7 +660,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 **Metadata Completeness**: `= round((length(keys(this)) / 15) * 100, 1)`% (assuming 15 expected fields)
 ```
 
-**Use Case:** Quality assessment, [[Zettelkasten]] health, maintenance prioritization
+**Use Case:** Quality assessment, [[zettelkasten]] health, maintenance prioritization
 
 #### 35. **Activity Metrics**
 
@@ -885,7 +885,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 ### A. Research & Academic Tracking
 
 > [!key-claim] Research Workflows
-> Inline queries support sophisticated academic and research tracking systems within [[PKB-Architecture]].
+> Inline queries support sophisticated academic and research tracking systems within [[pkb-architecture]].
 
 #### 51. **Citation & Reference Tracking**
 
@@ -972,7 +972,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 ### A. Learning Path Tracking
 
 > [!example] Educational Applications
-> [[Andragogy]] principles applied through inline query tracking systems.
+> [[andragogy]] principles applied through inline query tracking systems.
 
 #### 57. **Study Progress**
 
@@ -1072,7 +1072,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 ### A. Serendipity & Discovery
 
 > [!example] Serendipitous Navigation
-> Create random connection opportunities to facilitate [[Zettelkasten]] exploration.
+> Create random connection opportunities to facilitate [[zettelkasten]] exploration.
 
 #### 63. **Random Discovery Prompts**
 
@@ -1129,17 +1129,17 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 2. **[[Templater Integration with Dataview]]**
    - *Connection*: Combining [[Templater]] dynamic content generation with Dataview queries
    - *Depth Potential*: Template-time vs render-time query execution, macro patterns
-   - *Knowledge Graph Role*: Template automation architecture in [[PKB-Architecture]]
+   - *Knowledge Graph Role*: Template automation architecture in [[pkb-architecture]]
 
 3. **[[Meta-Bind-Reactive-Fields]]**
    - *Connection*: Interactive metadata manipulation that triggers Dataview updates
    - *Depth Potential*: Button actions, input fields, view fields integrated with inline queries
-   - *Knowledge Graph Role*: Interactive dashboard components in [[Obsidian]] automation
+   - *Knowledge Graph Role*: Interactive dashboard components in [[obsidian]] automation
 
 4. **[[Knowledge-Graph-Analytics-Formulas]]**
    - *Connection*: Advanced metrics for measuring [[Knowledge-Graph]] health and structure
    - *Depth Potential*: PageRank-inspired algorithms, clustering coefficients, betweenness centrality
-   - *Knowledge Graph Role*: Quantitative analysis of [[Zettelkasten]] network properties
+   - *Knowledge Graph Role*: Quantitative analysis of [[zettelkasten]] network properties
 
 ---
 

@@ -285,7 +285,7 @@ LIMIT 15
 
 # 🔬 PKB Review System: Complete Implementation Package
 
-I've analyzed your templates thoroughly—your tag taxonomy, maturity/confidence scales, and metadata architecture are well-designed. Below I'm delivering **five complete, production-ready notes** that form an integrated review system grounded in [[Stoic-Philosophy]] and [[Cognitive-Science]] protocols.
+I've analyzed your templates thoroughly—your tag taxonomy, maturity/confidence scales, and metadata architecture are well-designed. Below I'm delivering **five complete, production-ready notes** that form an integrated review system grounded in [[Stoic-Philosophy]] and [[cognitive-science]] protocols.
 
 ### Notes Contained in this Reference
 
@@ -351,7 +351,7 @@ link-related:
 
 ### 1.1 The Metacognitive Scaffold Concept
 
-Your PKB serves as an [[Extended Cognition]] system—an external structure that augments your biological memory and reasoning capabilities. However, external storage without retrieval practice creates the [[Illusion of Competence]]: you *feel* knowledgeable because information exists somewhere, but your actual ability to apply that knowledge atrophies.
+Your PKB serves as an [[Extended-Cognition]] system—an external structure that augments your biological memory and reasoning capabilities. However, external storage without retrieval practice creates the [[Illusion of Competence]]: you *feel* knowledgeable because information exists somewhere, but your actual ability to apply that knowledge atrophies.
 
 > [!principle-point] The Review Imperative
 > **Knowledge unused degrades. Knowledge reviewed compounds.**
@@ -361,8 +361,8 @@ Your PKB serves as an [[Extended Cognition]] system—an external structure that
 The system operates on three cognitive science foundations:
 
 1. **[[Testing-Effect]]**: Actively retrieving information strengthens memory more than passive re-reading
-2. **[[Spacing-Effect]]**: Distributed practice over time produces superior long-term retention
-3. **[[Metacognitive-Monitoring]]**: Explicitly judging your own comprehension calibrates learning
+2. **[[spacing-effect]]**: Distributed practice over time produces superior long-term retention
+3. **[[metacognitive-monitoring]]**: Explicitly judging your own comprehension calibrates learning
 
 ### 1.2 Stoic Integration Framework
 
@@ -650,7 +650,7 @@ Information → Knowledge → Understanding → Wisdom
 
 ### 7.2 The Examined Knowledge Life
 
-[[Socrates]] declared the unexamined life not worth living. This system extends that principle: **unexamined knowledge is not worth storing**.
+[[socrates]] declared the unexamined life not worth living. This system extends that principle: **unexamined knowledge is not worth storing**.
 
 Every note in your PKB should eventually answer:
 - Why does this matter?
@@ -701,7 +701,7 @@ link-related:
 # Templater Templates Library: PKB Review System
 
 > [!abstract] Template Collection Overview
-> This library contains five production-ready [[Templater]] templates for the PKB Review System. Each template is designed to scaffold [[Metacognitive-Monitoring]], enforce [[REACT Protocol]] discipline, and integrate with your existing metadata architecture.
+> This library contains five production-ready [[Templater]] templates for the PKB Review System. Each template is designed to scaffold [[metacognitive-monitoring]], enforce [[REACT Protocol]] discipline, and integrate with your existing metadata architecture.
 >
 > **Installation**: Copy each template to your `/Templates/Review/` folder.
 

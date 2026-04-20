@@ -35,7 +35,7 @@ tags:
 >
 > 🏛️*Knowledge-Driven Learning*: The Cosmic Microwave Background Radiation
 
-> **Scope & Angle:** This expository topic provides a comprehensive overview of the [[Cosmic Microwave Background]] (CMB)—the thermal echo of the [[Big-Bang]]—from its theoretical prediction to its accidental discovery to its modern role as the most important observational pillar of cosmology. The report should establish what the CMB is (the oldest light in the universe), explain its physical origin (photon decoupling 380,000 years after the Big Bang), detail its discovery by Penzias and Wilson, and explore what its temperature fluctuations reveal about the early universe's structure, composition, and geometry. This is a top-down, encyclopedic treatment that builds a complete mental model of this fundamental cosmic phenomenon.
+> **Scope & Angle:** This expository topic provides a comprehensive overview of the [[Cosmic Microwave Background]] (CMB)—the thermal echo of the [[big-bang]]—from its theoretical prediction to its accidental discovery to its modern role as the most important observational pillar of cosmology. The report should establish what the CMB is (the oldest light in the universe), explain its physical origin (photon decoupling 380,000 years after the Big Bang), detail its discovery by Penzias and Wilson, and explore what its temperature fluctuations reveal about the early universe's structure, composition, and geometry. This is a top-down, encyclopedic treatment that builds a complete mental model of this fundamental cosmic phenomenon.
 
 **Engineered Input for Gem**:
 

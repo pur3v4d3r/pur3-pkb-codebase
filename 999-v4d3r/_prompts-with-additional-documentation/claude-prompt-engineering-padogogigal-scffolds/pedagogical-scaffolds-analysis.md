@@ -498,7 +498,7 @@ Rate 1-10 for each dimension:
 **Depth Potential:** [Why advanced treatment needed]  
 **Knowledge Graph Role:** [Specialized node positioning]  
 **Priority:** [Medium/Low typically] - [Rationale]  
-**Prerequisites:** **REQUIRED:** [[Concept X]], [[Concept Y]], [Current Note]
+**Prerequisites:** **REQUIRED:** [[Concept-X]], [[Concept-Y]], [Current Note]
 
 ### 6. **[[Advanced Topic 2]]** *[Requires prerequisites]*
 **Connection:** [Extension beyond basic coverage]  

@@ -17,8 +17,8 @@ You are a **PKB Pipeline Execution Agent** — an automated assistant that runs 
 Vault Root:       D:\10_pur3v4d3r's-vault
 Scripts Dir:      D:\10_pur3v4d3r's-vault\99-scripts
 Pipeline Dir:     D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building
-Permanent Notes:  D:\10_pur3v4d3r's-vault\999-report-orginizing\_permanent-notes\_permanent-notes
-Extractor Output: D:\10_pur3v4d3r's-vault\999-report-orginizing\_extractor-output
+Permanent Notes:  D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_permanent-notes
+Extractor Output: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output
 Python:           .venv (activate with: source ".venv/Scripts/activate")
 ```
 
@@ -144,7 +144,7 @@ If the pipeline was run without `--auto-commit`:
 
 ```bash
 cd "D:/10_pur3v4d3r's-vault"
-git add "999-report-orginizing/_permanent-notes/" "999-report-orginizing/_extractor-output/" "99-scripts/report-extraction-to-permanent-notes-building/_pipeline-output/"
+git add "999-report-organizing/_permanent-notes/" "999-report-organizing/_extractor-output/" "99-scripts/report-extraction-to-permanent-notes-building/_pipeline-output/"
 git commit -m "PKB Pipeline: <summary of changes>"
 ```
 

@@ -156,7 +156,7 @@ extraction_summary:
 #### 3. [DEFINITION] Cognitive Architecture (Cognitive Psychology — Anderson, 1983; Sweller, 1988) *(Line 144)*
 
 > [!definition] Cognitive Architecture (Cognitive Psychology — Anderson, 1983; Sweller, 1988)
-> The computational organization of the human mind — the structural arrangement of memory systems, processing mechanisms, and representational formats that determine what information is stored, how it is organized, how it is retrieved, and how new information is integrated with existing knowledge. Cognitive architecture includes [[Long-Term-Memory|Long-Term Memory]] (with its vast, associatively organized store of schemas and facts), [[Working-Memory|Working Memory]] (with its strictly limited capacity for active processing), and the processes — encoding, consolidation, retrieval, integration — that move information between them. For PKB design, cognitive architecture defines the constraints and affordances that any external knowledge system must accommodate.
+> The computational organization of the human mind — the structural arrangement of memory systems, processing mechanisms, and representational formats that determine what information is stored, how it is organized, how it is retrieved, and how new information is integrated with existing knowledge. Cognitive architecture includes [[long-term-memory|Long-Term Memory]] (with its vast, associatively organized store of schemas and facts), [[working-memory|Working Memory]] (with its strictly limited capacity for active processing), and the processes — encoding, consolidation, retrieval, integration — that move information between them. For PKB design, cognitive architecture defines the constraints and affordances that any external knowledge system must accommodate.
 
 #### 4. [DEFINITION] Schema (Cognitive Psychology — Bartlett, 1932; Rumelhart, 1975) *(Line 147)*
 
@@ -281,7 +281,7 @@ extraction_summary:
 #### 25. [ANALYTICAL-INSIGHT] Structural Position Is a Form of Semantic Tagging *(Line 271)*
 
 > [!analytical-insight] Structural Position Is a Form of Semantic Tagging
-> The schema-structure coupling mechanism reveals something underappreciated in PKM discourse: the *location* of a note in a PKB's network of links and maps — which MOCs it appears in, which notes link to it, which notes it links to — constitutes a form of semantic information about that note that is not contained in the note itself. A note about [[Encoding-Specificity|Encoding Specificity]] that appears in a MOC about "memory retrieval principles" carries different structural semantics than the same note appearing in a MOC about "PKB review design" — and these different structural positions will cue its retrieval in different contexts. Managing structural position is therefore a form of knowledge organization that operates in addition to, and partly independently of, the note's content. This has a practical implication: when a note is relevant to multiple domains, placing it in multiple MOCs (not just one) is not redundancy — it is contextual enrichment that increases the probability of retrieval from any of those domains.
+> The schema-structure coupling mechanism reveals something underappreciated in PKM discourse: the *location* of a note in a PKB's network of links and maps — which MOCs it appears in, which notes link to it, which notes it links to — constitutes a form of semantic information about that note that is not contained in the note itself. A note about [[encoding-specificity|Encoding Specificity]] that appears in a MOC about "memory retrieval principles" carries different structural semantics than the same note appearing in a MOC about "PKB review design" — and these different structural positions will cue its retrieval in different contexts. Managing structural position is therefore a form of knowledge organization that operates in addition to, and partly independently of, the note's content. This has a practical implication: when a note is relevant to multiple domains, placing it in multiple MOCs (not just one) is not redundancy — it is contextual enrichment that increases the probability of retrieval from any of those domains.
 
 #### 26. [CROSS-DOMAIN-CONNECTION] Cognitive Load, Information Foraging, and the Economics of Navigation *(Line 282)*
 
@@ -373,9 +373,9 @@ extraction_summary:
 > 
 > - **[[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]** — The tension identified in this report between imposed structure (folder hierarchies) and emergent structure (link-based organization) is the central problematic of Report 15. Report 09 establishes design principles for the early-to-mid PKB; Report 15 addresses what happens when those principles encounter the organizational challenges of a mature PKB with thousands of notes and many interconnected domains.
 > 
-> - **[[Schema-Theory|Schema Theory]]** — The foundational concept from cognitive psychology that undergirds the entire structural framework of this report. The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] is, at its core, a prescription to design PKB structure to mirror the properties of schemas: hierarchical, associative, contextually embedded, and developmentally sensitive.
+> - **[[schema-theory|Schema Theory]]** — The foundational concept from cognitive psychology that undergirds the entire structural framework of this report. The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] is, at its core, a prescription to design PKB structure to mirror the properties of schemas: hierarchical, associative, contextually embedded, and developmentally sensitive.
 > 
-> - **[[Zettelkasten]]** — The historical PKM methodology developed by Niklas Luhmann that implements a version of the three-tier structure argued for here. The Zettelkasten's atomic note principle, numbering system for navigational organization, and cross-referencing system anticipate — without the theoretical framework — many of the conclusions of this report's cross-domain analysis.
+> - **[[zettelkasten]]** — The historical PKM methodology developed by Niklas Luhmann that implements a version of the three-tier structure argued for here. The Zettelkasten's atomic note principle, numbering system for navigational organization, and cross-referencing system anticipate — without the theoretical framework — many of the conclusions of this report's cross-domain analysis.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -547,17 +547,17 @@ extraction_summary:
 
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Encoding-Specificity|Encoding Specificity]]
+- [[encoding-specificity|Encoding Specificity]]
 - [[Faceted-Classification|Faceted Classification]]
 - [[Graph-Theory-and-Knowledge-Network-Design-—-When-Structure-Becomes-Topology|Graph Theory and Knowledge Network Design — When Structure Becomes Topology]]
 - [[Information-Science|Information Science]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Long-Term-Memory|Long-Term Memory]]
-- [[Memory-Systems|Memory Systems]]
+- [[long-term-memory|Long-Term Memory]]
+- [[memory-systems|Memory Systems]]
 - [[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]
 - [[Nonaka-&-Takeuchi's-SECI-model|Nonaka & Takeuchi's SECI model]]
 - [[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]
@@ -575,14 +575,14 @@ extraction_summary:
 - [[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]
 - [[Report 17: Note-Making as Knowledge Construction]]
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
-- [[Retrieval-Practice|Retrieval Practice]]
-- [[Schema-Theory|Schema Theory]]
+- [[retrieval-practice|Retrieval Practice]]
+- [[schema-theory|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Spreading-Activation|Spreading Activation]]
+- [[spreading-activation|Spreading Activation]]
 - [[The Four-Zone Architecture in Practice — Implementation Guide for Obsidian]]
 - [[The-Zettelkasten-as-Cognitive-Architecture-Implementation|The Zettelkasten as Cognitive Architecture Implementation]]
-- [[Working-Memory|Working Memory]]
-- [[Zettelkasten]]
+- [[working-memory|Working Memory]]
+- [[zettelkasten]]
 
 ### All Occurrences
 
@@ -592,17 +592,17 @@ extraction_summary:
 | 2 | [[Information-Science|Information Science]] | — | — | Phase I: Orientation & Synthesis Focus | 108 |
 | 3 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | Phase I: Orientation & Synthesis Focus | 108 |
 | 4 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase I: Orientation & Synthesis Focus | 108 |
-| 5 | [[Memory-Systems|Memory Systems]] | — | — | Phase I: Orientation & Synthesis Focus | 108 |
+| 5 | [[memory-systems|Memory Systems]] | — | — | Phase I: Orientation & Synthesis Focus | 108 |
 | 6 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
-| 7 | [[Schema-Theory|Schema Theory]] | schemas | — | Phase I: Orientation & Synthesis Focus | 110 |
+| 7 | [[schema-theory|Schema Theory]] | schemas | — | Phase I: Orientation & Synthesis Focus | 110 |
 | 8 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
 | 9 | [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
-| 10 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
+| 10 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
 | 11 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
 | 12 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | SRL cycle | — | Phase I: Orientation & Synthesis Focus | 110 |
 | 13 | [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
-| 14 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
-| 15 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
+| 14 | [[encoding-specificity|Encoding Specificity]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
+| 15 | [[retrieval-practice|Retrieval Practice]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
 | 16 | [[Report 17: Note-Making as Knowledge Construction]] | — | — | Scope and Cross-Domain Preview | 120 |
 | 17 | [[Report 12: The Reflective PKB]] | — | — | Scope and Cross-Domain Preview | 120 |
 | 18 | [[Report 15: Knowledge Organization at Scale]] | — | — | Scope and Cross-Domain Preview | 120 |
@@ -612,18 +612,18 @@ extraction_summary:
 | 22 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Scope and Cross-Domain Preview | 127 |
 | 23 | [[Knowledge-Management|Knowledge Management]] | — | — | Scope and Cross-Domain Preview | 128 |
 | 24 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Scope and Cross-Domain Preview | 130 |
-| 25 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Phase II: Analytical Framework — Cros... | 145 |
-| 26 | [[Working-Memory|Working Memory]] | — | — | Phase II: Analytical Framework — Cros... | 145 |
-| 27 | [[Schema-Theory|Schema Theory]] | — | — | Initial Synthesis Connections | 167 |
+| 25 | [[long-term-memory|Long-Term Memory]] | — | — | Phase II: Analytical Framework — Cros... | 145 |
+| 26 | [[working-memory|Working Memory]] | — | — | Phase II: Analytical Framework — Cros... | 145 |
+| 27 | [[schema-theory|Schema Theory]] | — | — | Initial Synthesis Connections | 167 |
 | 28 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Initial Synthesis Connections | 167 |
 | 29 | [[Faceted-Classification|Faceted Classification]] | — | — | Initial Synthesis Connections | 172 |
-| 30 | [[Spreading-Activation|Spreading Activation]] | — | — | Initial Synthesis Connections | 172 |
-| 31 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Expert-Novice Evidence: What Good... | 204 |
-| 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Working Memory Evidence: Navigati... | 211 |
-| 33 | [[Working-Memory|Working Memory]] | — | — | The Working Memory Evidence: Navigati... | 211 |
+| 30 | [[spreading-activation|Spreading Activation]] | — | — | Initial Synthesis Connections | 172 |
+| 31 | [[encoding-specificity|Encoding Specificity]] | — | — | The Expert-Novice Evidence: What Good... | 204 |
+| 32 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Working Memory Evidence: Navigati... | 211 |
+| 33 | [[working-memory|Working Memory]] | — | — | The Working Memory Evidence: Navigati... | 211 |
 | 34 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Self-Regulated Learning Evidence:... | 228 |
 | 35 | [[Report-01]] | — | — | Mechanism 1: The Schema-Structure Cou... | 265 |
-| 36 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Mechanism 1: The Schema-Structure Cou... | 272 |
+| 36 | [[encoding-specificity|Encoding Specificity]] | — | — | Mechanism 1: The Schema-Structure Cou... | 272 |
 | 37 | [[Report-02]] | — | — | Mechanism 2: The Three-Layer Cognitiv... | 276 |
 | 38 | [[Report-04]] | — | — | Mechanism 3: The SRL-Structure Feedba... | 292 |
 | 39 | [[Nonaka-&-Takeuchi's-SECI-model|Nonaka & Takeuchi's SECI model]] | — | — | Mechanism 4: The SECI Structural Requ... | 303 |
@@ -636,9 +636,9 @@ extraction_summary:
 | 46 | [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 441 |
 | 47 | [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]] | — | — | Phase VII: PKB Connections & Cross-Re... | 443 |
 | 48 | [[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]] | — | — | Phase VII: PKB Connections & Cross-Re... | 445 |
-| 49 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 447 |
+| 49 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 447 |
 | 50 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 447 |
-| 51 | [[Zettelkasten]] | — | — | Phase VII: PKB Connections & Cross-Re... | 449 |
+| 51 | [[zettelkasten]] | — | — | Phase VII: PKB Connections & Cross-Re... | 449 |
 | 52 | [[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 453 |
 | 53 | [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]] | — | — | Phase VII: PKB Connections & Cross-Re... | 455 |
 | 54 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 457 |
@@ -665,17 +665,17 @@ extraction_summary:
 
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Encoding-Specificity|Encoding Specificity]]
+- [[encoding-specificity|Encoding Specificity]]
 - [[Faceted-Classification|Faceted Classification]]
 - [[Graph-Theory-and-Knowledge-Network-Design-—-When-Structure-Becomes-Topology|Graph Theory and Knowledge Network Design — When Structure Becomes Topology]]
 - [[Information-Science|Information Science]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Long-Term-Memory|Long-Term Memory]]
-- [[Memory-Systems|Memory Systems]]
+- [[long-term-memory|Long-Term Memory]]
+- [[memory-systems|Memory Systems]]
 - [[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]
 - [[Nonaka-&-Takeuchi's-SECI-model|Nonaka & Takeuchi's SECI model]]
 - [[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]
@@ -693,14 +693,14 @@ extraction_summary:
 - [[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]
 - [[Report 17: Note-Making as Knowledge Construction]]
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
-- [[Retrieval-Practice|Retrieval Practice]]
-- [[Schema-Theory|Schema Theory]]
+- [[retrieval-practice|Retrieval Practice]]
+- [[schema-theory|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Spreading-Activation|Spreading Activation]]
+- [[spreading-activation|Spreading Activation]]
 - [[The Four-Zone Architecture in Practice — Implementation Guide for Obsidian]]
 - [[The-Zettelkasten-as-Cognitive-Architecture-Implementation|The Zettelkasten as Cognitive Architecture Implementation]]
-- [[Working-Memory|Working Memory]]
-- [[Zettelkasten]]
+- [[working-memory|Working Memory]]
+- [[zettelkasten]]
 
 ### Frontmatter Relationships
 

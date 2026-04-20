@@ -833,8 +833,8 @@ related_concepts:
   - "[[Self-Consistency]]"
   - "[[Chain-of-Verification]]"
   - "[[Reflexion]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Research-Methodology]]"
 
 # GOVERNANCE & VERSIONING
@@ -1514,8 +1514,8 @@ or
 ### Knowledge Graph Positioning
 
 **Parent Concepts** (broader):
-- [[Concept A]] - [relationship]
-- [[Concept B]] - [relationship]
+- [[Concept-A]] - [relationship]
+- [[Concept-B]] - [relationship]
 
 **Sibling Concepts** (parallel):
 - [[Concept C]] - [relationship]

@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +41,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,25 +65,25 @@ narrower:
   []
 
 see-also:
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Calibration]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Metacognition]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[Dunning-Kruger-Effect]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[calibration|Calibration]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[dunning-kruger-effect|Dunning-Kruger-Effect]]"
   - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]]"
-  - "[[Metacognition]]"
-  - "[[Cognitive-Psychology-Foundations]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognitive-Monitoring-Accuracy-and-Calibration]]"
-  - "[[Metacognition]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[Judgment-of-Learning]]"
-  - "[[Feeling-of-Knowing]]"
-  - "[[Dunning-Kruger-Effect]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive-Monitoring-Accuracy-and-Calibration]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[judgment-of-learning|Judgment-of-Learning]]"
+  - "[[feeling-of-knowing|Feeling-of-Knowing]]"
+  - "[[dunning-kruger-effect|Dunning-Kruger-Effect]]"
   - "[[prefrontal-cortex]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -140,8 +140,8 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > - Now that you can see the two dimensions of monitoring accuracy (calibration vs. resolution), which dimension do you think is more relevant to your own learning practices?
-> - Can you recall a specific instance where your [[Metacognitive-Monitoring|metacognitive monitoring]] failed you — where you were confident about material that you subsequently couldn't retrieve? What was the experience like phenomenologically?
-> - If monitoring accuracy is indeed the bottleneck in [[Self-Regulated-Learning]],…
+> - Can you recall a specific instance where your [[metacognitive-monitoring|metacognitive monitoring]] failed you — where you were confident about material that you subsequently couldn't retrieve? What was the experience like phenomenologically?
+> - If monitoring accuracy is indeed the bottleneck in [[self-regulated-learning]],…
 
 > [!reflection] **Reflect** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > - Now that you understand monitoring as heuristic inference rather than direct access, how does this change your interpretation of your own "I know this" feelings?
@@ -166,7 +166,7 @@ importance: high
 > [!reflection] **Reflect** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > - The SDT and Bayesian frameworks suggest different intervention strategies (signal enhancement vs. likelihood learning). For your learning domain, which approach seems more actionable?
 > - The neural evidence suggests monitoring accuracy has a structural brain basis. Does this constrain or expand the range of interventions you would consider?
-> - The externalization-internalization debate parallels broader debates about scaffolding and [[Self-Regulated-Learning]]. Where do you fall on this debate?
+> - The externalization-internalization debate parallels broader debates about scaffolding and [[self-regulated-learning]]. Where do you fall on this debate?
 
 > [!reflection] **Reflect** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > - If algorithmic monitoring becomes widely available, what happens to the incentive to develop internal monitoring accuracy? Is there a digital analogue of the "GPS problem"?
@@ -177,7 +177,7 @@ importance: high
 
 > [!far-transfer] **Far Transfer: Calibration Principles Applied to Epistemic Practices** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > **Source insight:** Monitoring accuracy depends on cue validity, and the most common cues (fluency, familiarity) are the least valid predictors of actual knowledge.
-> **Target domain:** [[Epistemic-Calibration|Epistemic calibration]] in expert judgment and decision-making.
+> **Target domain:** [[epistemic-calibration|Epistemic calibration]] in expert judgment and decision-making.
 > 
 > The cue-validity hierarchy from Level 3 transfers directly to the study of expert overconfidence in professional judgment (medical diagnosis, financial forecasting, legal assessment). In each domain, experts form confidence based on proximate cues — pattern familiarity, fluency of generating an explanation — that may…
 
@@ -212,7 +212,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **Claude's Perspective: Monitoring Accuracy as the Bottleneck** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
-> What strikes me about the monitoring accuracy literature, viewed from a systems perspective, is that it represents the single tightest bottleneck in the [[Self-Regulated-Learning]] architecture. You can have perfect strategy knowledge, ideal motivation, abundant time, and a well-designed learning environment — and if your monitoring signal is systematically distorted, all of that infrastructure operates on corrupted data. It's analogous to a thermostat with a broken thermometer: the heating and cooling systems may work perfectly, but they're responding to a temperature reading that doesn't…
+> What strikes me about the monitoring accuracy literature, viewed from a systems perspective, is that it represents the single tightest bottleneck in the [[self-regulated-learning]] architecture. You can have perfect strategy knowledge, ideal motivation, abundant time, and a well-designed learning environment — and if your monitoring signal is systematically distorted, all of that infrastructure operates on corrupted data. It's analogous to a thermostat with a broken thermometer: the heating and cooling systems may work perfectly, but they're responding to a temperature reading that doesn't…
 
 > [!claude-insight] **Claude's Perspective: The Cue Reliability Hierarchy** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > Synthesizing across the individual cues, a clear reliability hierarchy emerges:
@@ -240,7 +240,7 @@ importance: high
 > [!claude-insight] **Claude's Perspective: The Population-Level Implications** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > A broader speculative arc connects monitoring accuracy to population-level outcomes.
 > 
-> Consider: if monitoring accuracy is the bottleneck of [[Self-Regulated-Learning]], and self-regulated learning is the mechanism through which individuals acquire competence across domains, then **monitoring accuracy is, at one remove, a determinant of population-level human capital.** Populations with better-calibrated learners would, other things equal, develop expertise more efficiently, waste fewer cognitive resources on already-known material, and identify knowledge gaps faster.
+> Consider: if monitoring accuracy is the bottleneck of [[self-regulated-learning]], and self-regulated learning is the mechanism through which individuals acquire competence across domains, then **monitoring accuracy is, at one remove, a determinant of population-level human capital.** Populations with better-calibrated learners would, other things equal, develop expertise more efficiently, waste fewer cognitive resources on already-known material, and identify knowledge gaps faster.
 > 
 > This is speculative at…
 
@@ -253,10 +253,10 @@ importance: high
 ## Section Summaries
 
 > [!section-summary] **Level 1 Summary** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
-> At the surface level, metacognitive monitoring accuracy presents as the empirically measurable gap between what people think they know and what they actually know. This gap is systematic (overconfidence of 10-20%), asymmetric (larger at high confidence), and consequential (it directly degrades [[Self-Regulated-Learning]] by corrupting the information on which regulatory decisions are based). The gap has two orthogonal dimensions — absolute calibration and relative resolution — which have different causes, consequences, and remedies. Resolution (the ability to discriminate known from unknown)…
+> At the surface level, metacognitive monitoring accuracy presents as the empirically measurable gap between what people think they know and what they actually know. This gap is systematic (overconfidence of 10-20%), asymmetric (larger at high confidence), and consequential (it directly degrades [[self-regulated-learning]] by corrupting the information on which regulatory decisions are based). The gap has two orthogonal dimensions — absolute calibration and relative resolution — which have different causes, consequences, and remedies. Resolution (the ability to discriminate known from unknown)…
 
 > [!section-summary] **Level 2 Summary** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
-> At surface level, monitoring accuracy appeared as a confidence-performance gap. At the MECHANISM level, we now see that this gap arises because monitoring is not direct access to memory contents but **heuristic inference from proxy cues**. The [[Nelson-Narens-Model|Nelson-Narens architecture]] establishes the two-level structure (meta-level monitoring object-level processing), and the cue-utilization framework (Koriat, 1997) explains how the monitoring signal is generated from intrinsic, extrinsic, and mnemonic cues. The cues carry genuine information (explaining moderate resolution) but are…
+> At surface level, monitoring accuracy appeared as a confidence-performance gap. At the MECHANISM level, we now see that this gap arises because monitoring is not direct access to memory contents but **heuristic inference from proxy cues**. The [[nelson-narens-model|Nelson-Narens architecture]] establishes the two-level structure (meta-level monitoring object-level processing), and the cue-utilization framework (Koriat, 1997) explains how the monitoring signal is generated from intrinsic, extrinsic, and mnemonic cues. The cues carry genuine information (explaining moderate resolution) but are…
 
 > [!section-summary] **Level 3 Summary** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > At mechanism level, we saw that monitoring uses proxy cues. At the SUBSTRUCTURE level, we've now examined the individual cues and their reliability profiles: processing fluency (dominant but multi-sourced and variable in validity), familiarity (valid for recognition, misleading for recall), accessibility (high validity via partial retrieval), and extrinsic cues (time, repetitions, effort — generally low validity). The cues combine through salience-driven weighting rather than formal computation. The critical finding is that the monitoring system's accuracy is determined largely by which cues…
@@ -265,7 +265,7 @@ importance: high
 > At substructure level, we catalogued the individual cues. At the DYNAMICS level, we've traced how monitoring accuracy propagates through the control loop. The discrepancy reduction model and the region of proximal learning model specify how monitoring outputs drive study-time allocation. Calibration errors affect the total amount of study; resolution errors affect its distribution. The feedback dynamics are critically important: self-correcting loops (with outcome feedback) attenuate errors over time, while self-amplifying loops (without feedback) trap learners in persistent overconfidence.…
 
 > [!section-summary] **Level 5 Summary** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
-> At dynamics level, we traced how monitoring accuracy propagates through control. At the EDGE CASES level, we've examined seven systematic failure modes: the illusion of knowing (silent comprehension monitoring failure), the [[Dunning-Kruger-Effect]] (meta-ignorance), the delayed JOL anomaly (retrieval as monitoring bootstrapping), domain transfer limitations, emotional contamination, expert calibration reversals, and the hypercorrection effect (monitoring errors as learning resources). Collectively, these edge cases reveal that monitoring accuracy is radically context-dependent — an emergent…
+> At dynamics level, we traced how monitoring accuracy propagates through control. At the EDGE CASES level, we've examined seven systematic failure modes: the illusion of knowing (silent comprehension monitoring failure), the [[dunning-kruger-effect]] (meta-ignorance), the delayed JOL anomaly (retrieval as monitoring bootstrapping), domain transfer limitations, emotional contamination, expert calibration reversals, and the hypercorrection effect (monitoring errors as learning resources). Collectively, these edge cases reveal that monitoring accuracy is radically context-dependent — an emergent…
 
 > [!section-summary] **Level 6 Summary** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > At the edge cases level, we identified systematic monitoring failures. At the FRONTIER level, we have surveyed three active research programs: **computational modeling** (SDT, Bayesian, and trace-based approaches competing to formalize monitoring), **neural substrates** (anterior PFC as monitoring hub, individual differences in gray matter volume correlating with monitoring sensitivity), and **technology-mediated calibration** (confidence-weighted assessment, externalized monitoring, calibration feedback systems). We also examined individual difference variables (WMC, cognitive reflection,…
@@ -408,14 +408,14 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Metacognitive-Monitoring]] · [[Calibration]] · [[Self-Regulated-Learning]] · [[Metacognitive-Regulation]] · [[Metacognition]] · [[Nelson-Narens-Model]] · [[Dunning-Kruger-Effect]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]] · [[Metacognition]] · [[Cognitive-Psychology-Foundations]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[Self-Regulated-Learning]] · [[Metacognitive-Monitoring-Accuracy-and-Calibration]] · [[Metacognition]] · [[Nelson-Narens-Model]] · [[Judgment-of-Learning]] · [[Feeling-of-Knowing]] · [[Dunning-Kruger-Effect]] · [[prefrontal-cortex]] · [[Metacognition-Foundational-Report]] · [[Metacognitive-Knowledge]] · [[declarative-metacognitive-knowledge]] · [[procedural-metacognitive-knowledge]] · [[conditional-metacognitive-knowledge]] · [[Metacognitive-Regulation]] · [[metacognition-in-learning-focused-analysis-2026-03-20]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Working-Memory-Capacity]]
+[[metacognitive-monitoring|Metacognitive-Monitoring]] · [[calibration|Calibration]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[metacognition|Metacognition]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]] · [[metacognition|Metacognition]] · [[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive-Monitoring-Accuracy-and-Calibration]] · [[metacognition|Metacognition]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[judgment-of-learning|Judgment-of-Learning]] · [[feeling-of-knowing|Feeling-of-Knowing]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[prefrontal-cortex]] · [[metacognition-foundational-report|Metacognition-Foundational-Report]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[declarative-metacognitive-knowledge]] · [[procedural-metacognitive-knowledge]] · [[conditional-metacognitive-knowledge]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[metacognition-in-learning-focused-analysis-2026-03-20]] · [[metacognition|Metacognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[working-memory-capacity|Working-Memory-Capacity]]
 
 ## Methodology Notes
 
 > [!methodology-and-sources] **Scope Statement** *(from [[metacognitive-monitoring-accuracy-calibration-deep-dive-2026-04-12]])*
 > **This report's focus:** [[Metacognitive-Monitoring-Accuracy-and-Calibration|Metacognitive monitoring accuracy and calibration]] — the specific question of how well people judge their own cognitive states and what determines the fidelity of those judgments.
 > 
-> **Drawn from broader topic:** [[Metacognition]] — the full field of "thinking about thinking," which encompasses knowledge, monitoring, and regulation components.
+> **Drawn from broader topic:** [[metacognition]] — the full field of "thinking about thinking," which encompasses knowledge, monitoring, and regulation components.
 > 
 > **What this report covers:**
 > - The cue-utilization framework for how monitoring signals are generated

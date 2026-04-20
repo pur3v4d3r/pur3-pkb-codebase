@@ -24,7 +24,7 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Cognitive-Biases]]"
+  - "[[cognitive-biases]]"
 date created: 2025-11-05T20:26:44
 date modified: 2025-11-05T21:48:00
 maturity: seedling
@@ -189,7 +189,7 @@ league." (The players may not have good chemistry.) |
 
 # 5. 🔬 ADVANCED CONSIDERATIONS
 
-## DISTINCTION FROM [[Cognitive-Biases]]
+## DISTINCTION FROM [[cognitive-biases]]
 
 This is a critical, high-level distinction that is often confused.
 
@@ -222,7 +222,7 @@ The structure of modern digital communication platforms can amplify certain fall
 
 # 6. 📜 HISTORICAL CONTEXT: ARISTOTLE'S 13 FALLACIES
 
-The systematic study of fallacies began with [[Aristotle]] in his work *De Sophisticis Elenchis* (*Sophistical Refutations*). He identified 13 fallacies that "sophists" (paid teachers of rhetoric) used to win arguments regardless of the truth.
+The systematic study of fallacies began with [[aristotle]] in his work *De Sophisticis Elenchis* (*Sophistical Refutations*). He identified 13 fallacies that "sophists" (paid teachers of rhetoric) used to win arguments regardless of the truth.
 
 His classification was the standard for over two millennia and serves as the foundation for the modern taxonomy.
 
@@ -260,7 +260,7 @@ His classification was the standard for over two millennia and serves as the fou
 
 > [!the-philosophy]
 > **Underlying Philosophy**
-> The study of fallacies is not merely a tool for "winning" debates or pointing out others' flaws. It is a foundational practice of **intellectual self-defense**. Its ultimate purpose is to cultivate [[Critical-Thinking]] by forcing us to examine the *quality* of our reasoning, not just the *content* of our beliefs. Mastering fallacies is the first step toward building arguments that are not just persuasive, but also valid and sound—arguments that are tethered to [[truth]].
+> The study of fallacies is not merely a tool for "winning" debates or pointing out others' flaws. It is a foundational practice of **intellectual self-defense**. Its ultimate purpose is to cultivate [[critical-thinking]] by forcing us to examine the *quality* of our reasoning, not just the *content* of our beliefs. Mastering fallacies is the first step toward building arguments that are not just persuasive, but also valid and sound—arguments that are tethered to [[truth]].
 
 ## COGNITIVE MODELS
 
@@ -315,11 +315,11 @@ His classification was the standard for over two millennia and serves as the fou
 
 ## 🔗 RELATED TOPICS FOR PKB EXPANSION
 
-  - [[Cognitive-Biases]]
-  - [[Critical-Thinking]]
+  - [[cognitive-biases]]
+  - [[critical-thinking]]
   - [[Rhetorical Devices]]
-  - [[Socratic-Method]]
-  - [[Argumentation-Theory]]
+  - [[socratic-method]]
+  - [[argumentation-theory]]
   - [[Logic (Formal & Informal)]]
   - [[The Fallacy Fallacy]]
   - [[Sophistry]]
@@ -677,8 +677,8 @@ These fallacies arise from the use of a word, phrase, or sentence structure that
 > [!hub-moc]
 > **Connection to Broader Knowledge**
 >
->   - **Parent Topic**: [[Logic]], [[Rhetoric]], [[Critical-Thinking]]
->   - **Sibling Topics**: [[as]], [[Argumentation-Theory]], [[Persuasion]]
+>   - **Parent Topic**: [[Logic]], [[Rhetoric]], [[critical-thinking]]
+>   - **Sibling Topics**: [[as]], [[argumentation-theory]], [[Persuasion]]
 >   - **Child Topics**: [[Ad Hominem]], [[Straw-Man]], [[False Dilemma]] (and all other specific fallacies)
 
 -----
@@ -691,7 +691,7 @@ These fallacies arise from the use of a word, phrase, or sentence structure that
 
 ## 4.1 THE LINK TO COGNITIVE BIASES
 
-It is critical to distinguish between [[Logical Fallacies]] and [[as]].
+It is critical to distinguish between [[Logical-Fallacies]] and [[as]].
 
   - A **[[as]]** is a systematic error in *thinking*. It's a mental shortcut (heuristic) that our brains use, which often leads to poor judgment. Biases are internal and often unconscious.
   - A **[[Logical Fallacy]]** is a systematic error in *argumentation*. It's a flaw in the *expression* of an argument, used to persuade others (or oneself).
@@ -705,9 +705,9 @@ Cognitive biases are often the *psychological cause* of logical fallacies.
 
 | Cognitive Bias (Thinking Error) | Can Lead To... | Logical Fallacy (Argument Error) |
 | :--- | :--- | :--- |
-| **[[Confirmation-Bias]]** (Tendency to favor info that confirms existing beliefs) | ... | **[[Hasty Generalization]]** (Cherry-picking data) or **[[Straw-Man]]** (Ignoring an opponent's real argument) |
+| **[[confirmation-bias]]** (Tendency to favor info that confirms existing beliefs) | ... | **[[Hasty Generalization]]** (Cherry-picking data) or **[[Straw-Man]]** (Ignoring an opponent's real argument) |
 | **[[Sunk-cost-fallacy]]** (Can't abandon a project due to past investment) | ... | **[[Appeal to Emotion]]** (Justifying a bad decision by lamenting the "waste" rather than using logic) |
-| **[[Availability-Heuristic]]** (Overestimating the importance of recent/vivid examples) | ... | **[[Hasty Generalization]]** (Basing a broad conclusion on a few memorable, but unrepresentative, examples) |
+| **[[availability-heuristic]]** (Overestimating the importance of recent/vivid examples) | ... | **[[Hasty Generalization]]** (Basing a broad conclusion on a few memorable, but unrepresentative, examples) |
 | **[[Groupthink]]** (Desire for harmony leads to irrational consensus) | ... | **[[Bandwagon Fallacy]]** (Assuming the group's consensus must be correct) |
 
 ## 4.2 PRACTICAL FALLACY DETECTION
@@ -756,7 +756,7 @@ Cognitive biases are often the *psychological cause* of logical fallacies.
 
   - [[as]]
   - [[A Guide to Argumentation]]
-  - [[Socratic-Method]]
+  - [[socratic-method]]
   - [[Rhetorical Devices]]
   - [[Common Misconceptions about Logic]]
   - [[The Scientific Method]]
@@ -828,7 +828,7 @@ Cognitive biases are often the *psychological cause* of logical fallacies.
 └── **Cross-referencing Strategy**
 └── **Internal link opportunities:**
 \* Each fallacy in the Table of Contents will link to its definition.
-\* [[Cognitive-Bias]] will be a major link from the Synthesis section.
+\* [[cognitive-bias]] will be a major link from the Synthesis section.
 \* Within fallacy definitions, I will link to related fallacies. For example, [[Straw-Man]] is related to [[Red Herring]] (both are fallacies of relevance/distraction). [[Post Hoc Ergo Propter Hoc]] will be linked as a specific *type* of [[False Cause]]. [[Begging the Question]] will be linked to [[Circular Reasoning]].
 
 -----

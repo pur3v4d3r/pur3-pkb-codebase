@@ -35,7 +35,7 @@ review-priority: medium
 > - **Key-Term**:: [[The Context Window As Working Memory]]
 > - [**Definition**:: Think of the context window as analogous to human working memory—limited in capacity, with earlier information becoming less influential as new information enters.]
 
- > Just as humans manage [[Working-Memory]] by taking notes and organizing information hierarchically, effective prompts manage [[Context Windows]] through:
+ > Just as humans manage [[working-memory]] by taking notes and organizing information hierarchically, effective prompts manage [[Context Windows]] through:
  > 1. **Strategic information compression**
  > 2. **Relevance filtering**
  > 3. **Structural organization**

@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,19 +73,26 @@ narrower:
   []
 
 see-also:
-  - "[[Working-Memory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Schema-Theory]]"
-  - "[[Chunking]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Situation-Model]]"
-  - "[[Fluency]]"
-  - "[[Phonological-Loop]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Prior-Knowledge-Activation]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Schema]]"
-  - "[[Fluency-Illusion]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[chunking|Chunking]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[fluency|Fluency]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[phonological-loop|Phonological-Loop]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[prior-knowledge-activation|Prior-Knowledge-Activation]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[prior-knowledge-activation|Prior-Knowledge-Activation]]"
+  - "[[schema|Schema]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[phonological-loop|Phonological-Loop]]"
+  - "[[chunking|Chunking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -97,16 +104,16 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[A-dedicated-investigation-of-the-most-efficient-protocols-for-building-vocabular|A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — ]]"
+  - topic: "[[A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — ]]"
     description: ""
     priority: medium
-  - topic: "[[The-Metacognitive-Monitoring-analysis-in-this-report-identifies-comprehension-mo|The [[Metacognitive-Monitoring]] analysis in this report identifies comprehension monitoring as both]]"
+  - topic: "[[The [[Metacognitive-Monitoring]] analysis in this report identifies comprehension monitoring as both]]"
     description: ""
     priority: medium
-  - topic: "[[This-expansion-topic-follows-the-far-transfer-direction-applies-the-Bottleneck-L|This expansion topic follows the far-transfer direction: applies the Bottleneck Liberation principle]]"
+  - topic: "[[This expansion topic follows the far-transfer direction: applies the Bottleneck Liberation principle]]"
     description: ""
     priority: medium
-  - topic: "[[The-Situation-Modelsituation-model-is-the-gold-standard-for-reading-comprehensio|The [[Situation-Model|situation model]] is the gold standard for reading comprehension, but it has u]]"
+  - topic: "[[The [[Situation-Model|situation model]] is the gold standard for reading comprehension, but it has u]]"
     description: ""
     priority: medium
 
@@ -159,7 +166,7 @@ importance: high
 > Theoretical account of how experts use long-term memory structures to extend effective working memory capacity in their domain. Provides the mechanistic bridge between domain expertise and the reading speed advantage — supports the schema-as-inference-engine analysis in Phase IV.
 
 > [!evidence] Supporting Evidence *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*
-> Foundational for the [[Fluency-Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
+> Foundational for the [[fluency-illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
 
 > [!evidence] Supporting Evidence *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*
 > Comprehensive framework for the types of inferences generated during reading and their resource demands. Provides the inferential bridging analysis underpinning Bottleneck 3 in Phase II, and grounds the prior knowledge pre-activation argument of Phase V.
@@ -191,7 +198,7 @@ importance: high
 > These strategies are not independent — they must be sequenced correctly. Attempting to increase pace before building vocabulary automaticity will produce the characteristic speed-without-comprehension failure. The productive sequence is: (1) vocabulary automaticity first, (2) domain knowledge depth, (3) pacing increase with monitoring, (4) phrase-level chunking practice. Reversing or skipping stages in this sequence is the primary cause of speed-reading training failure.
 
 > [!warning] **Key Distinction** *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*
-> The most practically dangerous outcome of naïve speed-reading training is the [[Fluency-Illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more…
+> The most practically dangerous outcome of naïve speed-reading training is the [[fluency-illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more…
 
 ## Conceptual Tensions
 
@@ -251,62 +258,22 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*:
-- [[Schema-Automation]]
+- [[schema-automation|Schema-Automation]]
 
 **Cross-report connections** *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*:
-- [[Working-Memory]]
-- [[Cognitive-Load-Theory]]
-- [[Germane-Cognitive-Load]]
-- [[Schema]]
-- [[Schema-Automation]]
-- [[Chunking]]
-- [[Cognitive-Chunking]]
-- [[Metacognitive-Monitoring]]
-- [[Fluency-Illusion]]
-- [[Fluency-Illusion]]
+- [[working-memory|Working-Memory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[germane-cognitive-load|Germane-Cognitive-Load]]
+- [[schema|Schema]]
+- [[schema-automation|Schema-Automation]]
+- [[chunking|Chunking]]
+- [[cognitive-chunking|Cognitive-Chunking]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[fluency-illusion|Fluency-Illusion]]
+- [[fluency-illusion|Fluency-Illusion]]
 
 **Related concepts:**
-[[Working-Memory]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Chunking]] · [[Dual-Process-Theory]] · [[Situation-Model]] · [[Fluency]] · [[Working-Memory]] · [[Working-Memory]] · [[Phonological-Loop]] · [[Baddeley's-Working-Memory-Model]] · [[Situation-Model]] · [[Prior-Knowledge-Activation]] · [[Metacognitive-Monitoring]] · [[Prior-Knowledge-Activation]] · [[Schema]] · [[Fluency-Illusion]] · [[Working-Memory]] · [[Phonological-Loop]] · [[Chunking]] · [[Cognitive-Chunking]] · [[Situation-Model]] · [[Metacognitive-Monitoring]] · [[Working-Memory]] · [[Schema-Automation]] · [[Spaced-Repetition-Systems]] · [[Schema]] · [[Advance-Organizer]] · [[Fluency-Illusion]] · [[Working-Memory]]
-
-**Related concepts** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
-[[Levels-of-Processing|Levels-of-Processing]] * [[Deep-Processing|Deep-Processing]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Far-Transfer|Far-Transfer]] * [[Vocabulary-Acquisition-for-Reading-Automaticity|Vocabulary-Acquisition-for-Reading-Automaticity]] * [[Elaborative-Rehearsal|Elaborative-Rehearsal]] * [[Comprehension-Monitoring-Training-Protocols|Comprehension-Monitoring-Training-Protocols]] * [[Metacognitive-Regulation|Metacognitive-Regulation]] * [[Self-Regulated-Learning|Self-Regulated-Learning]] * [[Formative-Assessment|Formative-Assessment]] * [[Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation|Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation]] * [[The-Situation-Model-in-Knowledge-Management|The-Situation-Model-in-Knowledge-Management]] * [[AI-Assisted-Reading-Comprehension-Risks-and-Safeguards|AI-Assisted-Reading-Comprehension-Risks-and-Safeguards]]
-
-**Cross-report connections** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
-- [[Schema-Automation|Schema-Automation]]
-
-**Cross-report connections** *(from silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21.md)*:
-- [[Working-Memory|Working-Memory]]
-- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
-- [[Germane-Cognitive-Load|Germane-Cognitive-Load]]
-- [[Schema|Schema]]
-- [[Schema-Automation|Schema-Automation]]
-
-**Cross-report connections** *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*:
-- [[Schema-Automation|Schema-Automation]]
-
-**Cross-report connections** *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*:
-- [[Working-Memory|Working-Memory]]
-- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
-- [[Germane-Cognitive-Load|Germane-Cognitive-Load]]
-- [[Schema|Schema]]
-- [[Schema-Automation|Schema-Automation]]
-
-**Cross-report connections** *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*:
-- [[Schema-Automation|Schema-Automation]]
-
-**Cross-report connections** *(from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]])*:
-- [[Working-Memory|Working-Memory]]
-- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
-- [[Germane-Cognitive-Load|Germane-Cognitive-Load]]
-- [[Schema|Schema]]
-- [[Schema-Automation|Schema-Automation]]
-
-
-
-
-
-
-
+[[working-memory|Working-Memory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[schema-theory|Schema-Theory]] · [[chunking|Chunking]] · [[dual-process-theory|Dual-Process-Theory]] · [[situation-model|Situation-Model]] · [[fluency|Fluency]] · [[working-memory|Working-Memory]] · [[working-memory|Working-Memory]] · [[phonological-loop|Phonological-Loop]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[situation-model|Situation-Model]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[schema|Schema]] · [[fluency-illusion|Fluency-Illusion]] · [[working-memory|Working-Memory]] · [[phonological-loop|Phonological-Loop]] · [[chunking|Chunking]] · [[cognitive-chunking|Cognitive-Chunking]] · [[situation-model|Situation-Model]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[working-memory|Working-Memory]] · [[schema-automation|Schema-Automation]] · [[spaced-repetition-systems|Spaced-Repetition-Systems]] · [[schema|Schema]] · [[advance-organizer|Advance-Organizer]] · [[fluency-illusion|Fluency-Illusion]] · [[working-memory|Working-Memory]]
 
 ## References
 
@@ -318,100 +285,10 @@ importance: high
 - **Baddeley, A. D. (2000). The Episodic Buffer: A New Component of Working Memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Updated working memory model including the episodic buffer, directly relevant to the situation model construction bottleneck. Provides theoretical grounding for Phase IV's treatment of working memory integration demands during reading.
 - **Ausubel, D. P. (1960). The Use of Advance Organizers in the Learning and Retention of Meaningful Verbal Material. *Journal of Educational Psychology, 51*(5), 267–272.**: Original advance organizer study, providing empirical grounding for the prior knowledge pre-activation strategy in Phase V. Demonstrably improves both comprehension and retention through schema pre-activation.
 - **Ericsson, K. A., & Kintsch, W. (1995). Long-Term Working Memory. *Psychological Review, 102*(2), 211–245.**: Theoretical account of how experts use long-term memory structures to extend effective working memory capacity in their domain. Provides the mechanistic bridge between domain expertise and the reading speed advantage — supports the schema-as-inference-engine analysis in Phase IV.
-- **Bjork, R. A., & Bjork, E. L. (2011). Making Things Hard on Yourself, but in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth Publishers.**: Foundational for the [[Fluency-Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
+- **Bjork, R. A., & Bjork, E. L. (2011). Making Things Hard on Yourself, but in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth Publishers.**: Foundational for the [[fluency-illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
 - **Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. *Psychological Review, 101*(3), 371–395.**: Comprehensive framework for the types of inferences generated during reading and their resource demands. Provides the inferential bridging analysis underpinning Bottleneck 3 in Phase II, and grounds the prior knowledge pre-activation argument of Phase V.
 
 *Citations sourced from [[silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21]]*
-
-- **Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.**: The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.
-
-- **Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.**: Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.
-
-- **Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.**: Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.
-
-- **Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.**: Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of "rauding" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.
-
-- **Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.**: The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.
-
-- **Baddeley, A. D. (2000). The Episodic Buffer: A New Component of Working Memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Updated working memory model including the episodic buffer, directly relevant to the situation model construction bottleneck. Provides theoretical grounding for Phase IV's treatment of working memory integration demands during reading.
-
-- **Ausubel, D. P. (1960). The Use of Advance Organizers in the Learning and Retention of Meaningful Verbal Material. *Journal of Educational Psychology, 51*(5), 267–272.**: Original advance organizer study, providing empirical grounding for the prior knowledge pre-activation strategy in Phase V. Demonstrably improves both comprehension and retention through schema pre-activation.
-
-- **Ericsson, K. A., & Kintsch, W. (1995). Long-Term Working Memory. *Psychological Review, 102*(2), 211–245.**: Theoretical account of how experts use long-term memory structures to extend effective working memory capacity in their domain. Provides the mechanistic bridge between domain expertise and the reading speed advantage — supports the schema-as-inference-engine analysis in Phase IV.
-
-- **Bjork, R. A., & Bjork, E. L. (2011). Making Things Hard on Yourself, but in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth Publishers.**: Foundational for the [[Fluency-Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
-
-- **Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. *Psychological Review, 101*(3), 371–395.**: Comprehensive framework for the types of inferences generated during reading and their resource demands. Provides the inferential bridging analysis underpinning Bottleneck 3 in Phase II, and grounds the prior knowledge pre-activation argument of Phase V.
-
-- **Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.**: The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.
-
-- **Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.**: Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.
-
-- **Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.**: Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.
-
-- **Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.**: Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of "rauding" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.
-
-- **Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.**: The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.
-
-- **Baddeley, A. D. (2000). The Episodic Buffer: A New Component of Working Memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Updated working memory model including the episodic buffer, directly relevant to the situation model construction bottleneck. Provides theoretical grounding for Phase IV's treatment of working memory integration demands during reading.
-
-- **Ausubel, D. P. (1960). The Use of Advance Organizers in the Learning and Retention of Meaningful Verbal Material. *Journal of Educational Psychology, 51*(5), 267–272.**: Original advance organizer study, providing empirical grounding for the prior knowledge pre-activation strategy in Phase V. Demonstrably improves both comprehension and retention through schema pre-activation.
-
-- **Ericsson, K. A., & Kintsch, W. (1995). Long-Term Working Memory. *Psychological Review, 102*(2), 211–245.**: Theoretical account of how experts use long-term memory structures to extend effective working memory capacity in their domain. Provides the mechanistic bridge between domain expertise and the reading speed advantage — supports the schema-as-inference-engine analysis in Phase IV.
-
-- **Bjork, R. A., & Bjork, E. L. (2011). Making Things Hard on Yourself, but in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth Publishers.**: Foundational for the [[Fluency-Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
-
-- **Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. *Psychological Review, 101*(3), 371–395.**: Comprehensive framework for the types of inferences generated during reading and their resource demands. Provides the inferential bridging analysis underpinning Bottleneck 3 in Phase II, and grounds the prior knowledge pre-activation argument of Phase V.
-
-- **Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? *Psychological Science in the Public Interest, 17*(1), 4–34.**: The most comprehensive scientific review of speed-reading claims against the eye movement evidence base. Systematically examines RSVP, peripheral vision claims, and sub-vocalization suppression. Supports Phases II and III. Essential reading for anyone evaluating commercial speed-reading products.
-
-- **Perfetti, C. A. (2007). Reading Ability: Lexical Quality to Comprehension. *Scientific Studies of Reading, 11*(4), 357–383.**: Presents the Lexical Quality Hypothesis — the theoretical foundation for the vocabulary automaticity argument in Phase IV. Argues that the quality of lexical representations (their precision, completeness, and consolidation) is the primary determinant of reading ability differences. Strongly supports the highest-leverage intervention recommendation.
-
-- **Kintsch, W., & van Dijk, T. A. (1978). Toward a Model of Text Comprehension and Production. *Psychological Review, 85*(5), 363–394.**: Original articulation of the distinction between propositional text base and situation model, foundational for Phase II's definition of comprehension. Provides the theoretical grounding for why surface-level reading metrics are insufficient as comprehension standards.
-
-- **Carver, R. P. (1990). *Reading Rate: A Review of Research and Theory*. Academic Press.**: Comprehensive review of reading rate research establishing the empirical base rate of skilled adult reading speed. Introduces the concept of "rauding" (efficient reading at the optimal rate for comprehension), providing the theoretical foundation for the comprehension-indexed speed metric. Supports Phase III.
-
-- **Rayner, K. (1998). Eye Movements in Reading and Information Processing: 20 Years of Research. *Psychological Bulletin, 124*(3), 372–422.**: The definitive summary of two decades of eye movement research in reading, establishing the perceptual span constraint and fixation duration norms. Foundational for Phase III's evidence review on the mechanics of skilled reading.
-
-- **Baddeley, A. D. (2000). The Episodic Buffer: A New Component of Working Memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: Updated working memory model including the episodic buffer, directly relevant to the situation model construction bottleneck. Provides theoretical grounding for Phase IV's treatment of working memory integration demands during reading.
-
-- **Ausubel, D. P. (1960). The Use of Advance Organizers in the Learning and Retention of Meaningful Verbal Material. *Journal of Educational Psychology, 51*(5), 267–272.**: Original advance organizer study, providing empirical grounding for the prior knowledge pre-activation strategy in Phase V. Demonstrably improves both comprehension and retention through schema pre-activation.
-
-- **Ericsson, K. A., & Kintsch, W. (1995). Long-Term Working Memory. *Psychological Review, 102*(2), 211–245.**: Theoretical account of how experts use long-term memory structures to extend effective working memory capacity in their domain. Provides the mechanistic bridge between domain expertise and the reading speed advantage — supports the schema-as-inference-engine analysis in Phase IV.
-
-- **Bjork, R. A., & Bjork, E. L. (2011). Making Things Hard on Yourself, but in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth Publishers.**: Foundational for the [[Fluency-Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
-
-- **Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. *Psychological Review, 101*(3), 371–395.**: Comprehensive framework for the types of inferences generated during reading and their resource demands. Provides the inferential bridging analysis underpinning Bottleneck 3 in Phase II, and grounds the prior knowledge pre-activation argument of Phase V.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

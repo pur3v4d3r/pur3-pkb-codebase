@@ -112,16 +112,16 @@ series-connections:
 
 prerequisites:
   - "[[Phronesis]]"
-  - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
-  - "[[Embodied-Cognition|Embodied Cognition]]"
+  - "[[dual-process-theory|Dual Process Theory]]"
+  - "[[metacognitive-monitoring|Metacognitive Monitoring]]"
+  - "[[embodied-cognition|Embodied Cognition]]"
   - "[[Affective Appraisal Theory]]"
 related:
-  - "[[Virtue-Epistemology|Virtue Epistemology]]"
-  - "[[Decision-Theory|Decision Theory]]"
+  - "[[virtue-epistemology|Virtue Epistemology]]"
+  - "[[decision-theory|Decision Theory]]"
   - "[[Moral Psychology]]"
   - "[[Expertise Research]]"
-  - "[[Bounded-Rationality|Bounded Rationality]]"
+  - "[[bounded-rationality|Bounded Rationality]]"
 broader:
   - "[[Philosophy of Action]]"
   - "[[Practical Philosophy]]"
@@ -190,7 +190,7 @@ This conclusion would be wrong, and the wrongness matters profoundly for anyone 
 > [!principle-point] 🎯 The Report's Central Claim
 > Practical wisdom (*phronesis*) is not theoretical wisdom applied to practical situations. It is an irreducible cognitive capacity with its own logic, its own developmental trajectory, and its own vulnerabilities — a capacity constituted by calibrated perceptual sensitivity to action-relevant features of situations. To act well in the full sense that the examined life requires, one must develop not only the capacity to think excellently but the capacity to *see* what each concrete situation demands, to *feel* the weight of competing considerations, and to *move* toward appropriate action with the courage that genuine uncertainty requires.
 
-This report synthesizes five major intellectual traditions to make this case. [[Aristotle]]'s account of phronesis provides the philosophical foundation, identifying practical wisdom as irreducible and irreplaceable. [[Gary-Klein|Gary Klein]]'s [[Naturalistic-Decision-Making|naturalistic decision making]] (NDM) and [[Recognition-Primed-Decision-RPD-Model|Recognition-Primed Decision (RPD) Model]] provide the cognitive science of how expert practical judgment actually operates in the real world. Gigerenzer's [[Ecological-Rationality|ecological rationality]] and [[Fast-and-Frugal-Heuristics|fast-and-frugal heuristics]] explain *why* expert practical judgment often outperforms exhaustive deliberation. The Stoic theory of action — the sequence from *phantasia* (impression) through *synkatathesis* (assent) to *hormê* (impulse) and finally to *kathêkon* (appropriate action) — provides a philosophical framework for understanding the structure of every practical decision. And [[Frank-Knight|Frank Knight's]] account of *[[Knightian-Uncertainty|radical uncertainty]]*, extended by [[John-Kay|John Kay]] and [[Mervyn-King|Mervyn King]], explains why practical wisdom cannot be reduced to an algorithm: because many of the most important decisions in a human life involve not *risk* (known probabilities) but *genuine uncertainty* (unknown state spaces), where no amount of additional analysis can recover the certainty that algorithmic decision-making requires.
+This report synthesizes five major intellectual traditions to make this case. [[aristotle]]'s account of phronesis provides the philosophical foundation, identifying practical wisdom as irreducible and irreplaceable. [[Gary-Klein|Gary Klein]]'s [[Naturalistic-Decision-Making|naturalistic decision making]] (NDM) and [[Recognition-Primed-Decision-RPD-Model|Recognition-Primed Decision (RPD) Model]] provide the cognitive science of how expert practical judgment actually operates in the real world. Gigerenzer's [[Ecological-Rationality|ecological rationality]] and [[Fast-and-Frugal-Heuristics|fast-and-frugal heuristics]] explain *why* expert practical judgment often outperforms exhaustive deliberation. The Stoic theory of action — the sequence from *phantasia* (impression) through *synkatathesis* (assent) to *hormê* (impulse) and finally to *kathêkon* (appropriate action) — provides a philosophical framework for understanding the structure of every practical decision. And [[Frank-Knight|Frank Knight's]] account of *[[Knightian-Uncertainty|radical uncertainty]]*, extended by [[John-Kay|John Kay]] and [[Mervyn-King|Mervyn King]], explains why practical wisdom cannot be reduced to an algorithm: because many of the most important decisions in a human life involve not *risk* (known probabilities) but *genuine uncertainty* (unknown state spaces), where no amount of additional analysis can recover the certainty that algorithmic decision-making requires.
 
 The synthesis these traditions enable is not merely additive. It generates a picture of practical intelligence that is, in important respects, irreducible to — and indeed incommensurable with — the epistemic architecture of Tier 1. Understanding why this is so, and how practical wisdom relates to and completes the examined life framework, is the work of this report.
 
@@ -206,7 +206,7 @@ The synthesis these traditions enable is not merely additive. It generates a pic
 
 ### The Aristotelian Foundation: Phronesis as Irreducible Intelligence
 
-[[Aristotle]]'s treatment of practical wisdom in the *[[Nicomachean-Ethics|Nicomachean Ethics]]* — particularly Books VI and X — represents the most sustained philosophical analysis of practical intelligence in the Western tradition, and its penetrating distinctions remain essential. Aristotle began from an observation that seems simple but is philosophically explosive: not all knowledge is theoretical. There is a form of excellence, *sophia* (*[[theoretical-wisdom|theoretical wisdom]]*), that consists in grasping eternal truths through demonstration and contemplation. But there is a wholly different form of excellence, *phronesis* (*practical wisdom*), that consists in knowing *what to do* in particular, concrete, mutable circumstances. These are not the same, cannot be reduced to each other, and require fundamentally different cognitive operations.
+[[aristotle]]'s treatment of practical wisdom in the *[[Nicomachean-Ethics|Nicomachean Ethics]]* — particularly Books VI and X — represents the most sustained philosophical analysis of practical intelligence in the Western tradition, and its penetrating distinctions remain essential. Aristotle began from an observation that seems simple but is philosophically explosive: not all knowledge is theoretical. There is a form of excellence, *sophia* (*[[theoretical-wisdom|theoretical wisdom]]*), that consists in grasping eternal truths through demonstration and contemplation. But there is a wholly different form of excellence, *phronesis* (*practical wisdom*), that consists in knowing *what to do* in particular, concrete, mutable circumstances. These are not the same, cannot be reduced to each other, and require fundamentally different cognitive operations.
 
 > [!definition] 📖 Phronesis
 > *Phronesis* (φρόνησις): Aristotle's term for practical wisdom — the capacity to deliberate well about what promotes human flourishing (*eudaimonia*) in particular circumstances, to perceive the morally and practically salient features of concrete situations, and to act appropriately on that perception. Distinguished from *sophia* (theoretical wisdom about eternal truths) and from *deinotes* (mere cleverness, the technical capacity to achieve goals regardless of their worth). Phronesis integrates cognitive, emotional, and perceptual dimensions into a unified practical capacity that cannot be reduced to any single component.
@@ -302,7 +302,7 @@ The examined life, properly understood, does not recommend continuous slow delib
 
 ### The Second Tension: Fallibilism and the Necessity of Acting Anyway
 
-[[Fallibilism]] — the conviction that one's beliefs are always provisional, always subject to revision in the light of new evidence — is one of the Tier 1 framework's most important and most consistently emphasized epistemological commitments. Report 02 establishes it as a structural feature of the examined knower. Reports 05 and 06 develop the intellectual virtues and metacognitive governance that sustain it. The fallibilist never confuses their current best belief with the final truth, never mistakes high confidence for certainty, never forgets that they might be wrong.
+[[fallibilism]] — the conviction that one's beliefs are always provisional, always subject to revision in the light of new evidence — is one of the Tier 1 framework's most important and most consistently emphasized epistemological commitments. Report 02 establishes it as a structural feature of the examined knower. Reports 05 and 06 develop the intellectual virtues and metacognitive governance that sustain it. The fallibilist never confuses their current best belief with the final truth, never mistakes high confidence for certainty, never forgets that they might be wrong.
 
 But here is the tension: the examined life does not permit the practical luxury of withholding action until certainty is achieved, because certainty is never achieved. The person who waits for certainty before acting has adopted an implicit rule — "I will act only when I am certain" — that guarantees paralysis, because the condition it requires is never met. [[Analysis-Paralysis|Analysis paralysis]] — the state in which excessive deliberation prevents action — is not an exotic psychological pathology but a predictable failure mode for anyone who takes the epistemological lessons of Tier 1 too literally in the practical domain.
 
@@ -497,7 +497,7 @@ Finally, the *emergent insight of the action-perception link* is the report's mo
 ### PKB Expansion Topics
 
 > [!connection-ideas] 🔗 Expansion Topic 1: Expertise and Tacit Knowledge (Priority: High)
-> **Description:** Deep exploration of how practical wisdom is encoded in tacit, hard-to-articulate knowledge structures — extending [[Michael-Polanyi|Michael Polanyi]]'s "we know more than we can tell" to professional and practical domains. Addresses the acquisition, representation, and limits of tacit knowledge, including [[Harry-Collins|Harry Collins]]'s taxonomy of expertise and [[Dreyfus]]'s skill acquisition model. Connects directly to the RPD model's account of pattern-library development and to the series' developmental staging model.
+> **Description:** Deep exploration of how practical wisdom is encoded in tacit, hard-to-articulate knowledge structures — extending [[michael-polanyi|Michael Polanyi]]'s "we know more than we can tell" to professional and practical domains. Addresses the acquisition, representation, and limits of tacit knowledge, including [[Harry-Collins|Harry Collins]]'s taxonomy of expertise and [[Dreyfus]]'s skill acquisition model. Connects directly to the RPD model's account of pattern-library development and to the series' developmental staging model.
 
 > [!connection-ideas] 🔗 Expansion Topic 2: Moral Perception in Professional Ethics (Priority: High)
 > **Description:** How phronesis manifests in professional contexts — the moral perceptions required of physicians deciding when rules of evidence-based medicine should yield to the clinical judgment that "this particular patient is different," teachers navigating the space between curriculum requirements and the needs of individual students, lawyers navigating the space between legal strategy and moral obligation. Draws on [[Pellegrino]] and [[Thomasma]]'s medical ethics, [[Nel-Noddings|Nel Noddings]]'s ethics of care, and [[Schwartz-&-Sharpe|Schwartz & Sharpe]]'s practical wisdom in professional life.

@@ -33201,7 +33201,7 @@ The content is organized as follows:
 1185:           - "[[Chain-of-Thought-Prompting]]"
 1186:           - "[[Self-Consistency]]"
 1187:           - "[[Monte Carlo Tree Search]]"
-1188:           - "[[Deliberate-Practice]]"
+1188:           - "[[deliberate-practice]]"
 1189:       
 1190:       # ─────────────────────────────────────────────────────────────────────────
 1191:       # SELF-CONSISTENCY
@@ -33778,7 +33778,7 @@ The content is organized as follows:
 1762:         related_concepts:
 1763:           - "[[Agentic Systems]]"
 1764:           - "[[Tool Use]]"
-1765:           - "[[Planning]]"
+1765:           - "[[planning]]"
 1766:       
 1767:       # ─────────────────────────────────────────────────────────────────────────
 1768:       # REFLEXION

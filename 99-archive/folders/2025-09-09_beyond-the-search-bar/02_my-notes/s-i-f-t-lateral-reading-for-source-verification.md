@@ -10,7 +10,7 @@ summary: The SIFT method is a practical framework developed by Mike Caulfield to
 ---
 ## 🔗 Connections
 - [[SIFT Method]]
-- [[Mike Caulfield]]
+- [[Mike-Caulfield]]
 - [[Lateral Reading]]
 - [[Information Evaluation]]
 - [[Source Reputation]]

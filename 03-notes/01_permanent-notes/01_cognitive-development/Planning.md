@@ -23,10 +23,10 @@ link-related:
   - "[[2025-11-14|Daily-Note]]"
   - "[[permeant-note_moc]]"
   - "[[Goal Setting]]"
-  - "[[Strategic-Planning]]"
+  - "[[strategic-planning]]"
   - "[[Motivational Beliefs]]"
-  - "[[Planning]]"
-  - "[[Working-Memory]]"
+  - "[[planning]]"
+  - "[[working-memory]]"
   - "[[Getting Things Done (GTD)]]"
   - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]"
   - "[[Progressive-Summarization]]"
@@ -47,7 +47,7 @@ review-priority: medium
 # Planning
 
 > [!definition]
-> - **Key-Term**:[[Planning]]
+> - **Key-Term**:[[planning]]
 > - [**Definition**:]
 
 > [!evidence]

@@ -34,7 +34,7 @@ aliases: [Commander Plugin, Obsidian Commander, UI Customization Tool, Command I
 # ⚙️ Commander Plugin for Obsidian
 
 > [!abstract]
-> **Commander** is a powerful [[Obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.
+> **Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.
 
 ---
 
@@ -59,7 +59,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 ## 🗺️ Interface Elements & Use Cases
 
 > [!core-principle]
-> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal-Knowledge-Base]]. Strategic command placement reduces [[Context-Switching]] overhead, minimizes [[Cognitive-Load]], and creates spatial memory anchors for frequently-used workflows.
+> Each UI element serves distinct cognitive and ergonomic purposes within a [[personal-knowledge-base]]. Strategic command placement reduces [[Context-Switching]] overhead, minimizes [[cognitive-load]], and creates spatial memory anchors for frequently-used workflows.
 
 ### 1️⃣ Left Ribbon (Primary Navigation Hub)
 
@@ -151,7 +151,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 >   - `Export to PDF`
 >   - `Copy Obsidian URL`
 >   - `Publish to Web` (if using Obsidian Publish)
-> - **[[Zettelkasten]] Workflows**:
+> - **[[zettelkasten]] Workflows**:
 >   - `Create Linked Note from Selection`
 >   - `Insert Backlink Reference`
 >   - `Generate Note Summary` (if using AI plugins)
@@ -163,7 +163,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 > [!insight]
 > Page Header commands create a "note editing studio" that follows you from document to document, reducing the need to open [[Command Palette]] for routine operations.
 
-**Configuration Strategy**: Tailor to your note-taking methodology—[[Zettelkasten]] practitioners prioritize linking commands, while long-form writers emphasize formatting and export tools.
+**Configuration Strategy**: Tailor to your note-taking methodology—[[zettelkasten]] practitioners prioritize linking commands, while long-form writers emphasize formatting and export tools.
 
 ---
 
@@ -299,7 +299,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 > 1. ⚡ `Create Atomic Note` (Templater macro)
 > 2. 🔗 `Link Current Note to…` (Quick Switcher variant)
 > 3. 🌐 `Open Local Graph`
-> 4. 📇 `Open [[Zettelkasten]] Index`
+> 4. 📇 `Open [[zettelkasten]] Index`
 > 5. 🔍 `Search by Tag Structure`
 > 
 > **Page Header Commands:**
@@ -430,7 +430,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 > **File Menu** (rare use): 6-8 batch operations  
 > **Right Ribbon** (analysis mode only): Specialized visualization tools
 
-This creates a natural [[Cognitive-Load]] management system where common operations are spatially accessible, while advanced features remain discoverable without cluttering the interface.
+This creates a natural [[cognitive-load]] management system where common operations are spatially accessible, while advanced features remain discoverable without cluttering the interface.
 
 ---
 
@@ -473,7 +473,7 @@ This creates a natural [[Cognitive-Load]] management system where common operati
 ## 🔧 Installation & Configuration Workflow
 
 > [!how-to-use-this]
-> Follow this step-by-step process to implement Commander in your [[Personal-Knowledge-Base]].
+> Follow this step-by-step process to implement Commander in your [[personal-knowledge-base]].
 
 ### Step 1: Install Commander
 
@@ -643,7 +643,7 @@ This pattern transforms Commander from a command *organizer* into a workflow *or
 1. **[[Command Palette Optimization]]**
    - *Connection*: Commander reduces reliance on Command Palette but doesn't replace it—learn when each tool excels
    - *Depth Potential*: Explore command frequency analysis and hotkey assignment strategies
-   - *Knowledge Graph Role*: Bridges UI customization with [[Workflow Optimization]] and [[Cognitive-Load]] management
+   - *Knowledge Graph Role*: Bridges UI customization with [[Workflow Optimization]] and [[cognitive-load]] management
 
 2. **[[Workspace Architecture in Obsidian]]**
    - *Connection*: Workspaces and Commander create synergistic context-switching systems
@@ -696,7 +696,7 @@ Information Architecture:
 8. Further Exploration
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily-Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal-Knowledge-Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context-Switching]]
+[[obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily-Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[zettelkasten]], [[MOC]], [[personal-knowledge-management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context-Switching]]
 
 **CALLOUT STRATEGY:**
 - [!definition] for plugin overview

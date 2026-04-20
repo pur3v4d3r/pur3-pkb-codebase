@@ -211,10 +211,10 @@ LIMIT 15
 > **Wiki-Link Opportunities:**
 > - [[Tasks-Plugin]]
 > - [[Dataview-Plugin]]
-> - [[Obsidian]]
+> - [[obsidian]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 > - [[Task-Management]]
-> - [[YAML-Frontmatter]]
+> - [[yaml-frontmatter]]
 > - [[Metadata-Driven Workflows]]
 > - [[Query Languages]]
 > - [[Templater Plugin]]
@@ -250,7 +250,7 @@ aliases: [Task Tracking with Dataview, Tasks + Dataview Guide, Task Query Refere
 # 📋 Tracking Tasks with Tasks Plugin and Dataview
 
 > [!the-purpose]
-> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks-Plugin]] and [[Dataview-Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task-Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
+> **This comprehensive reference note explains how to track, query, and manage tasks in [[obsidian]] using both the [[Tasks-Plugin]] and [[Dataview-Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task-Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
 
 ---
 
@@ -1014,7 +1014,7 @@ This creates a visual calendar view where dots represent tasks due on specific d
 ### 4. **[[Metadata-Driven Workflows in PKM]]**
    - *Connection*: Broader architectural patterns for using metadata (YAML frontmatter, inline fields) to create reactive, queryable knowledge systems
    - *Depth Potential*: Extends beyond task management to holistic vault design using metadata as infrastructure
-   - *Knowledge Graph Role*: Foundational architectural principle for advanced [[Obsidian]] usage
+   - *Knowledge Graph Role*: Foundational architectural principle for advanced [[obsidian]] usage
 
 ---
 

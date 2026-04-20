@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,48 +69,48 @@ narrower:
   []
 
 see-also:
-  - "[[Encoding-Specificity-Principle]]"
-  - "[[Endel-Tulving]]"
-  - "[[Donald-Thomson]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Retrieval-Practice]]"
-  - "[[Spaced-Repetition]]"
-  - "[[Schema-Theory]]"
-  - "[[Prior-Knowledge-Activation]]"
-  - "[[Encoding-Specificity]]"
-  - "[[Endel-Tulving]]"
-  - "[[Donald-Thomson]]"
-  - "[[Memory-Systems]]"
-  - "[[Retrieval-Practice]]"
-  - "[[Episodic-Memory]]"
-  - "[[Transfer-Appropriate-Processing]]"
-  - "[[Episodic-Memory]]"
-  - "[[Semantic-Memory]]"
-  - "[[Semantic-Memory]]"
-  - "[[Declarative-Memory]]"
-  - "[[Long-Term-Memory]]"
+  - "[[encoding-specificity-principle|Encoding-Specificity-Principle]]"
+  - "[[endel-tulving|Endel-Tulving]]"
+  - "[[donald-thomson|Donald-Thomson]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
+  - "[[spaced-repetition|Spaced-Repetition]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[prior-knowledge-activation|Prior-Knowledge-Activation]]"
+  - "[[encoding-specificity|Encoding-Specificity]]"
+  - "[[endel-tulving|Endel-Tulving]]"
+  - "[[donald-thomson|Donald-Thomson]]"
+  - "[[memory-systems|Memory-Systems]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
+  - "[[episodic-memory|Episodic-Memory]]"
+  - "[[transfer-appropriate-processing|Transfer-Appropriate-Processing]]"
+  - "[[episodic-memory|Episodic-Memory]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[declarative-memory|Declarative-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Memory-Systems]]"
-  - "[[Episodic-Memory]]"
+  - "[[memory-systems|Memory-Systems]]"
+  - "[[episodic-memory|Episodic-Memory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-A-foundational-report-devoted-to-Transfer-Appropriate-Processing-fra|**Description:** A foundational report devoted to Transfer-Appropriate Processing framework (Morris,]]"
+  - topic: "[[**Description:** A foundational report devoted to Transfer-Appropriate Processing framework (Morris,]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-foundational-report-on-the-neuroscience-of-the-hippocampus-as-a-pa|**Description:** A foundational report on the neuroscience of the hippocampus as a pattern completio]]"
+  - topic: "[[**Description:** A foundational report on the neuroscience of the hippocampus as a pattern completio]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-practitioner's-field-guide-to-the-desirable-difficulties-research|**Description:** A practitioner's field guide to the desirable difficulties research program — cover]]"
+  - topic: "[[**Description:** A practitioner's field guide to the desirable difficulties research program — cover]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-historical-genealogical-report-tracing-the-development-of-construc|**Description:** A historical-genealogical report tracing the development of constructivist accounts]]"
+  - topic: "[[**Description:** A historical-genealogical report tracing the development of constructivist accounts]]"
     description: ""
     priority: medium
 
@@ -129,7 +129,7 @@ importance: high
 > 
 > **Boundary:** "Engram" in casual usage sometimes conflates trace content with trace strength. The ESP's account treats the engram as a multi-attribute structure, not simply a strength value.
 > 
-> **See also:** [[Memory-Consolidation]], [[Hippocampus]], [[Encoding-Specificity-Principle]]
+> **See also:** [[memory-consolidation]], [[hippocampus]], [[encoding-specificity-principle]]
 
 ## Core Explanation
 
@@ -270,12 +270,12 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Bridging to What You Already Know** *(from [[encoding-specificity-principle-tulving-foundational-report-2026-04-07]])*
-> Before reading, consider what you already know about memory and retrieval. Most people have had the experience of failing to recall a person's name when unexpectedly running into them on the street, only for the name to come rushing back hours later in the original context where the person was known. Or you may have experienced studying in a quiet library and then struggling to recall material during a noisy exam. These experiences have a common structure: the retrieval context does not match the encoding context. If you have encountered [[Levels-of-Processing-Theory]],…
+> Before reading, consider what you already know about memory and retrieval. Most people have had the experience of failing to recall a person's name when unexpectedly running into them on the street, only for the name to come rushing back hours later in the original context where the person was known. Or you may have experienced studying in a quiet library and then struggling to recall material during a noisy exam. These experiences have a common structure: the retrieval context does not match the encoding context. If you have encountered [[levels-of-processing-theory]],…
 
 ## Far Transfer Applications
 
 > [!far-transfer] **Learning Theory into Knowledge System Design** *(from [[encoding-specificity-principle-tulving-foundational-report-2026-04-07]])*
-> The LOP-ESP integration has direct implications for the design of [[Personal-Knowledge-Base]] systems. A PKB designed on LOP principles alone would prioritize elaborately linked notes — rich connections, detailed notes, cross-references. This is important. But the ESP adds a design constraint that pure link-richness misses: the access paths to encoded knowledge must match the contexts in which that knowledge will be needed. A note encoded as a response to a theoretical question will be most accessible via theoretical questioning at retrieval; a note encoded as a tool for a practical problem…
+> The LOP-ESP integration has direct implications for the design of [[personal-knowledge-base]] systems. A PKB designed on LOP principles alone would prioritize elaborately linked notes — rich connections, detailed notes, cross-references. This is important. But the ESP adds a design constraint that pure link-richness misses: the access paths to encoded knowledge must match the contexts in which that knowledge will be needed. A note encoded as a response to a theoretical question will be most accessible via theoretical questioning at retrieval; a note encoded as a tool for a practical problem…
 
 > [!far-transfer] **Cross-Domain Application: Organizational Memory and Knowledge Systems** *(from [[encoding-specificity-principle-tulving-foundational-report-2026-04-07]])*
 > The ESP can be applied beyond individual cognition to *organizational* memory systems — the way institutions encode, store, and retrieve collective knowledge. An organization that encodes its practices only in formal documentation may find them inaccessible when a problem arises in an informal operational context, because the retrieval context (hurried, practical, resource-constrained) does not match the encoding context (careful, reflective, documentation-oriented). Organizational knowledge systems that align documentation formats with operational retrieval contexts — brief, cue-oriented…
@@ -398,7 +398,7 @@ importance: high
 > **Q:** Connection — ESP and Desirable Difficulties
 > **A:** **Q:** How does the ESP explain why spacing (distributed practice) typically improves long-term retention?
 **A:** Under the ESP framework, spacing may improve retention by encoding the target material across multiple temporal and contextual states. Retrieval after forgetting exposes the learner to a retrieval challenge; successful retrieval in that state adds the "retrieval-at-varied-temporal-context" as an encoded attribute. The distributed trace is therefore richer in contextual variation, making it accessible from a wider range of future retrieval contexts than a massed trace that was only ever encoded in one contextual state.
-**Source:** Sections 6, 8.4; [[Spaced-Repetition]], [[Robert-Bjork]]
+**Source:** Sections 6, 8.4; [[spaced-repetition]], [[Robert-Bjork]]
 **Difficulty:** Advanced
 **Tags:** #esp #spaced-repetition #desirable-difficulties #encoding
 
@@ -474,19 +474,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[encoding-specificity-principle-tulving-foundational-report-2026-04-07]])*:
-- [[Episodic-Memory]]
-- [[Memory-Systems]]
-- [[Long-Term-Memory]]
-- [[Levels-of-Processing-Theory]]
-- [[Schema-Theory]]
-- [[Retrieval-Practice]]
-- [[Spaced-Repetition]]
-- [[Spaced-Repetition-Systems]]
-- [[Desirable-Difficulties]]
-- [[Personal-Knowledge-Base]]
+- [[episodic-memory|Episodic-Memory]]
+- [[memory-systems|Memory-Systems]]
+- [[long-term-memory|Long-Term-Memory]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[retrieval-practice|Retrieval-Practice]]
+- [[spaced-repetition|Spaced-Repetition]]
+- [[spaced-repetition-systems|Spaced-Repetition-Systems]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[personal-knowledge-base|Personal-Knowledge-Base]]
 
 **Related concepts:**
-[[Encoding-Specificity-Principle]] · [[Endel-Tulving]] · [[Donald-Thomson]] · [[Levels-of-Processing-Theory]] · [[Retrieval-Practice]] · [[Spaced-Repetition]] · [[Schema-Theory]] · [[Prior-Knowledge-Activation]] · [[Encoding-Specificity]] · [[Endel-Tulving]] · [[Donald-Thomson]] · [[Memory-Systems]] · [[Retrieval-Practice]] · [[Episodic-Memory]] · [[Transfer-Appropriate-Processing]] · [[Episodic-Memory]] · [[Semantic-Memory]] · [[Semantic-Memory]] · [[Declarative-Memory]] · [[Long-Term-Memory]] · [[Memory-Systems]] · [[Working-Memory]] · [[Hippocampus]] · [[Schema-Theory]] · [[Hippocampus]] · [[Endel-Tulving]] · [[Episodic-Memory]] · [[Encoding-Specificity-Principle]] · [[Reconstructive-Memory]] · [[Reconstructive-Memory]]
+[[encoding-specificity-principle|Encoding-Specificity-Principle]] · [[endel-tulving|Endel-Tulving]] · [[donald-thomson|Donald-Thomson]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[retrieval-practice|Retrieval-Practice]] · [[spaced-repetition|Spaced-Repetition]] · [[schema-theory|Schema-Theory]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[encoding-specificity|Encoding-Specificity]] · [[endel-tulving|Endel-Tulving]] · [[donald-thomson|Donald-Thomson]] · [[memory-systems|Memory-Systems]] · [[retrieval-practice|Retrieval-Practice]] · [[episodic-memory|Episodic-Memory]] · [[transfer-appropriate-processing|Transfer-Appropriate-Processing]] · [[episodic-memory|Episodic-Memory]] · [[semantic-memory|Semantic-Memory]] · [[semantic-memory|Semantic-Memory]] · [[declarative-memory|Declarative-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[memory-systems|Memory-Systems]] · [[working-memory|Working-Memory]] · [[hippocampus|Hippocampus]] · [[schema-theory|Schema-Theory]] · [[hippocampus|Hippocampus]] · [[endel-tulving|Endel-Tulving]] · [[episodic-memory|Episodic-Memory]] · [[encoding-specificity-principle|Encoding-Specificity-Principle]] · [[reconstructive-memory|Reconstructive-Memory]] · [[reconstructive-memory|Reconstructive-Memory]]
 
 ## References
 

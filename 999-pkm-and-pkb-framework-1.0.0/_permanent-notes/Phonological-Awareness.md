@@ -5,6 +5,7 @@
 title: "Phonological Awareness"
 aliases:
   - "Phonological Awareness"
+  - "Phonological-Awareness"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,49 +70,49 @@ narrower:
   []
 
 see-also:
-  - "[[Schema-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Metacognition]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Working-Memory-in-Reading]]"
-  - "[[Schema-Theory-and-Learning]]"
-  - "[[Metacognition]]"
-  - "[[Situation-Model]]"
-  - "[[Textbase]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
+  - "[[schema-theory-and-learning|Schema-Theory-and-Learning]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[textbase|Textbase]]"
   - "[[language-comprehension]]"
-  - "[[Simple-View-of-Reading]]"
-  - "[[Walter-Kintsch]]"
-  - "[[Walter-Kintsch]]"
-  - "[[Situation-Models-in-Text-Comprehension]]"
-  - "[[Rolf-Zwaan]]"
-  - "[[Simple-View-of-Reading]]"
-  - "[[Simple-View-of-Reading]]"
-  - "[[Patricia-Alexander]]"
+  - "[[simple-view-of-reading|Simple-View-of-Reading]]"
+  - "[[walter-kintsch|Walter-Kintsch]]"
+  - "[[walter-kintsch|Walter-Kintsch]]"
+  - "[[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]"
+  - "[[rolf-zwaan|Rolf-Zwaan]]"
+  - "[[simple-view-of-reading|Simple-View-of-Reading]]"
+  - "[[simple-view-of-reading|Simple-View-of-Reading]]"
+  - "[[patricia-alexander|Patricia-Alexander]]"
   - "[[text-structure]]"
-  - "[[Daniel-Willingham]]"
+  - "[[daniel-willingham|Daniel-Willingham]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Schema-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-Disciplinary-literacy-research-investigates-how-reading-practices,-i|**Description:** Disciplinary literacy research investigates how reading practices, inference types,]]"
+  - topic: "[[**Description:** Disciplinary literacy research investigates how reading practices, inference types,]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Academic-reading-comprehension-in-a-second-language-introduces-addit|**Description:** Academic reading comprehension in a second language introduces additional layers of]]"
+  - topic: "[[**Description:** Academic reading comprehension in a second language introduces additional layers of]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-focused-critical-analysis-of-the-reciprocal-teaching-research-lite|**Description:** A focused critical analysis of the reciprocal teaching research literature — includ]]"
+  - topic: "[[**Description:** A focused critical analysis of the reciprocal teaching research literature — includ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Longitudinal-studies-tracking-vocabulary-development-and-reading-com|**Description:** Longitudinal studies tracking vocabulary development and reading comprehension from]]"
+  - topic: "[[**Description:** Longitudinal studies tracking vocabulary development and reading comprehension from]]"
     description: ""
     priority: medium
 
@@ -130,9 +131,9 @@ importance: high
 > 
 > **Boundary:** Phonological awareness is NOT the same as phonics (letter-sound correspondence instruction) or phonemic awareness (the most fine-grained subset, awareness of individual phonemes). It is an umbrella category.
 > 
-> **Report-Specific Significance:** Phonological awareness is the developmental precursor to accurate [[Decoding]], which is the precursor to fluency, which liberates [[Working-Memory-in-Reading|working memory capacity]] for comprehension. The entire upper-level comprehension architecture rests on this foundation.
+> **Report-Specific Significance:** Phonological awareness is the developmental precursor to accurate [[decoding]], which is the precursor to fluency, which liberates [[working-memory-in-reading|working memory capacity]] for comprehension. The entire upper-level comprehension architecture rests on this foundation.
 > 
-> **See also:** [[Decoding]], [[Reading-Fluency]], [[Phonological-Loop]], [[Fluency.md]]
+> **See also:** [[decoding]], [[reading-fluency]], [[phonological-loop]], [[fluency.md]]
 
 ## Core Explanation
 
@@ -179,7 +180,7 @@ importance: high
 > [!analytical-insight] Key Insight *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
 > Gough and Tunmer (1986) proposed that reading comprehension (RC) = Decoding (D) × Language Comprehension (LC). This multiplicative model captures the intuition that both components are necessary: if either approaches zero, overall comprehension collapses. The model has strong empirical support for explaining reading across early developmental stages.
 > 
-> However, applied to academic text comprehension, the [[Simple-View-of-Reading]] requires substantial elaboration. "Language comprehension" in…
+> However, applied to academic text comprehension, the [[simple-view-of-reading]] requires substantial elaboration. "Language comprehension" in…
 
 > [!analytical-insight] Key Insight *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
 > The standard mechanism for vocabulary acquisition in everyday contexts is *incidental* acquisition through reading and conversation: words are learned implicitly through repeated contextually-supported encounters. Research by Nagy and his colleagues demonstrates that incidental acquisition from reading requires approximately 10–15 encounters with a word before it reaches the depth of knowledge required for reliable comprehension support.
@@ -198,7 +199,7 @@ importance: high
 > The evidence consistently shows that isolated skills instruction (vocabulary alone, metacognition alone, text structure alone) produces narrow, non-transferring gains. Integrated instruction — teaching multiple comprehension components explicitly within authentic disciplinary content, with metacognitive scaffolding — produces robust, transferrable comprehension gains. The theoretical rationale aligns with the CI model: real comprehension requires simultaneous operation of vocabulary, prior…
 
 > [!analytical-insight] Key Insight *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
-> [[Intrinsic-Motivation|Intrinsic reading motivation]] — choosing to read, finding value in reading, experiencing reading as pleasurable — predicts reading volume, and reading volume predicts comprehension development independently of cognitive reading skill. Academic reading motivation is domain-specific and is developed through success experiences with increasingly challenging texts, through the sense that reading leads to personally meaningful knowledge, and through social reading…
+> [[intrinsic-motivation|Intrinsic reading motivation]] — choosing to read, finding value in reading, experiencing reading as pleasurable — predicts reading volume, and reading volume predicts comprehension development independently of cognitive reading skill. Academic reading motivation is domain-specific and is developed through success experiences with increasingly challenging texts, through the sense that reading leads to personally meaningful knowledge, and through social reading…
 
 ## Practical Implications
 
@@ -206,7 +207,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
-> The [[Matthew-Effect-in-Reading]] (Stanovich, 1986) captures one of the most consequential dynamics in reading development. Named after the biblical observation that "the rich get richer," the Matthew Effect in reading describes the cumulative process by which strong early readers read more, thereby expanding vocabulary and world knowledge, thereby comprehending better, thereby reading more — while weak early readers avoid reading, thereby failing to expand vocabulary and knowledge, thereby…
+> The [[matthew-effect-in-reading]] (Stanovich, 1986) captures one of the most consequential dynamics in reading development. Named after the biblical observation that "the rich get richer," the Matthew Effect in reading describes the cumulative process by which strong early readers read more, thereby expanding vocabulary and world knowledge, thereby comprehending better, thereby reading more — while weak early readers avoid reading, thereby failing to expand vocabulary and knowledge, thereby…
 
 > [!warning] **Key Distinction** *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
 > [[Conceptual-Change-Theory]] research by Vosniadou, Chi, and others demonstrates that readers with strongly entrenched but incorrect prior knowledge often *assimilate* correct new information into their incorrect schemas rather than *accommodating* their schemas to fit the new information. The result is predictable: the reader thinks they have understood the academic text, but their "understanding" is a distorted version that preserves their misconceptions. They have constructed a plausible…
@@ -226,7 +227,7 @@ importance: high
 > **Intellectual relationship:** Built on van Dijk's discourse…
 
 > [!person] **Ann Brown (1943–1999)** — UC Berkeley** *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
-> **Core contribution:** Applied metacognition theory to reading comprehension, developing both the theoretical framework for comprehension monitoring and the empirical methodology for studying it. Co-developed Reciprocal Teaching (with [[Reciprocal-Teaching|Annemarie Palincsar]]) — the most extensively validated reading comprehension intervention in educational research.
+> **Core contribution:** Applied metacognition theory to reading comprehension, developing both the theoretical framework for comprehension monitoring and the empirical methodology for studying it. Co-developed Reciprocal Teaching (with [[reciprocal-teaching|Annemarie Palincsar]]) — the most extensively validated reading comprehension intervention in educational research.
 > 
 > **Key works:** Brown (1978) *Knowing when, where, and how to remember: A problem of metacognition*; Palincsar & Brown (1984) *Reciprocal teaching of comprehension-fostering and comprehension-monitoring…
 
@@ -300,7 +301,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge: What You Already Know About Reading** *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
-> If you have engaged with any of the foundational reports in this knowledge base — particularly those on [[Schema-Theory]], [[Working-Memory]], [[Metacognition]], and [[Cognitive-Load-Theory]] — you are already equipped with the conceptual scaffolding this report builds upon. Reading comprehension is not a single skill; it is the top-level integrated product of a multi-layer cognitive architecture. Every theory you have previously encountered — from Baddeley's [[Working-Memory-in-Reading|working memory model]] to Rumelhart's [[Schema-Theory-and-Learning|schema theory]] to Flavell's…
+> If you have engaged with any of the foundational reports in this knowledge base — particularly those on [[schema-theory]], [[working-memory]], [[metacognition]], and [[cognitive-load-theory]] — you are already equipped with the conceptual scaffolding this report builds upon. Reading comprehension is not a single skill; it is the top-level integrated product of a multi-layer cognitive architecture. Every theory you have previously encountered — from Baddeley's [[working-memory-in-reading|working memory model]] to Rumelhart's [[schema-theory-and-learning|schema theory]] to Flavell's…
 
 ## Far Transfer Applications
 
@@ -334,7 +335,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **The Academic Text Comprehension Problem as a Knowledge Problem in Disguise** *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
-> What presents itself as a "reading skill" problem in academic contexts is primarily a *knowledge* problem. [[Daniel-Willingham]]'s influential analysis in *Why Don't Students Like School?* makes this point forcefully: reading comprehension is largely domain-knowledge dependent. A physicist who reads slowly will comprehend a physics journal article far better than a speed-reading champion with no physics background. This insight has a direct instructional implication that much reading instruction ignores: teaching generic comprehension strategies to students who lack domain knowledge is…
+> What presents itself as a "reading skill" problem in academic contexts is primarily a *knowledge* problem. [[daniel-willingham]]'s influential analysis in *Why Don't Students Like School?* makes this point forcefully: reading comprehension is largely domain-knowledge dependent. A physicist who reads slowly will comprehend a physics journal article far better than a speed-reading champion with no physics background. This insight has a direct instructional implication that much reading instruction ignores: teaching generic comprehension strategies to students who lack domain knowledge is…
 
 > [!claude-insight] **Why Academic Vocabulary Cannot Be Taught in Isolation** *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
 > There is a seductive efficiency in vocabulary instruction as a standalone activity — memorising word lists, flashcard drilling, definitions practice. The research reveals this approach as fundamentally inadequate for academic reading purposes. Vocabulary depth — the rich, flexible, generative word knowledge that supports comprehension — is not acquired from definitions but from *encounters within meaningful contexts*. Words that appear in academic texts carry disciplinary meaning that cannot be captured by dictionary definitions. The phrase "the mechanism underlying this effect" carries…
@@ -350,7 +351,7 @@ importance: high
 > [!claude-insight] **The Cumulative Advantage Problem in Academic Reading Instruction** *(from [[developing-reading-comprehension-academic-texts-foundational-report-2026-04-08]])*
 > There is a deep tension in academic reading instruction between short-term comprehension support and long-term development. Short-term supports — glossaries, text scaffolding, pre-reading discussions, accessible paraphrases — improve immediate comprehension for developing readers. But they may also reduce the *comprehension effort* that drives vocabulary acquisition, inference generation skill, and schema development. 
 > 
-> The most effective long-term academic reading development requires what Bjork (1994) calls [[Desirable-Difficulties]]: productive difficulty that requires learners to actively…
+> The most effective long-term academic reading development requires what Bjork (1994) calls [[desirable-difficulties]]: productive difficulty that requires learners to actively…
 
 ## Section Summaries
 
@@ -582,7 +583,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Schema-Theory]] · [[Working-Memory]] · [[Metacognition]] · [[Cognitive-Load-Theory]] · [[Working-Memory-in-Reading]] · [[Schema-Theory-and-Learning]] · [[Metacognition]] · [[Situation-Model]] · [[Textbase]] · [[language-comprehension]] · [[Simple-View-of-Reading]] · [[Walter-Kintsch]] · [[Walter-Kintsch]] · [[Situation-Models-in-Text-Comprehension]] · [[Rolf-Zwaan]] · [[Simple-View-of-Reading]] · [[Simple-View-of-Reading]] · [[Patricia-Alexander]] · [[text-structure]] · [[Daniel-Willingham]] · [[Phonological-Awareness-and-Fluency-Development]] · [[Decoding]] · [[Working-Memory-in-Reading]] · [[Decoding]] · [[Reading-Fluency]] · [[Phonological-Loop]] · [[Fluency.md]] · [[Decoding]] · [[Working-Memory-in-Reading]] · [[Working-Memory-Capacity]]
+[[schema-theory|Schema-Theory]] · [[working-memory|Working-Memory]] · [[metacognition|Metacognition]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[schema-theory-and-learning|Schema-Theory-and-Learning]] · [[metacognition|Metacognition]] · [[situation-model|Situation-Model]] · [[textbase|Textbase]] · [[language-comprehension]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[walter-kintsch|Walter-Kintsch]] · [[walter-kintsch|Walter-Kintsch]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]] · [[rolf-zwaan|Rolf-Zwaan]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[patricia-alexander|Patricia-Alexander]] · [[text-structure]] · [[daniel-willingham|Daniel-Willingham]] · [[Phonological-Awareness-and-Fluency-Development|Phonological-Awareness-and-Fluency-Development]] · [[decoding|Decoding]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[decoding|Decoding]] · [[reading-fluency|Reading-Fluency]] · [[phonological-loop|Phonological-Loop]] · [[fluency.md|Fluency.md]] · [[decoding|Decoding]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[working-memory-capacity|Working-Memory-Capacity]]
 
 ## References
 

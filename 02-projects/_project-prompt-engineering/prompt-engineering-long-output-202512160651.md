@@ -61,7 +61,7 @@ tags:
 > > Prompt: *"Reference the content of Section 1 above. Now, draft Section 2: [Topic Name]. Ensure logical flow from Section 1, but treat this as a standalone deep dive."*
 > >
 > > **Step 4: The Final Assembly**
-> > (performed by the user in [[Obsidian]]): Stitch the distinct outputs into one master note.
+> > (performed by the user in [[obsidian]]): Stitch the distinct outputs into one master note.
 
 >[!nexus] **Chain-of-Verification (CoVe)**
 > 

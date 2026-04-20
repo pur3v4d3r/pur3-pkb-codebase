@@ -26,7 +26,7 @@ tags:
 # 🧬 Framework Activation: <% frameworkName %>
 
 > [!abstract] Purpose
-> This is a specialized [[Forethought-Phase]] template for the most cognitively demanding reading task: encountering a **new theoretical framework**. New frameworks require the most deliberate preparation because they introduce new conceptual vocabulary, new structural relationships, and potentially new ways of organizing existing knowledge. See [[Prior-Knowledge-Activation]], [[Advance-Organizers]], and [[Schema-Accommodation]].
+> This is a specialized [[forethought-phase]] template for the most cognitively demanding reading task: encountering a **new theoretical framework**. New frameworks require the most deliberate preparation because they introduce new conceptual vocabulary, new structural relationships, and potentially new ways of organizing existing knowledge. See [[prior-knowledge-activation]], [[advance-organizers]], and [[schema-accommodation]].
 
 **Source text:** <% sourceText %>
 **Date:** <% sessionDate %>
@@ -35,7 +35,7 @@ tags:
 
 ## Step 1: Analogical Scaffolding
 
-> [!tip] Connect the unknown to the known. See [[Analogical-Reasoning]] and [[Structure-Mapping-Theory]].
+> [!tip] Connect the unknown to the known. See [[analogical-reasoning]] and [[structure-mapping-theory]].
 
 **What existing framework in my PKB is most structurally similar to this one?**
 > [[]]
@@ -53,7 +53,7 @@ tags:
 
 ## Step 2: Theoretical Lineage Search
 
-> [!tip] Situate the framework in intellectual history. See [[Philosophical-Lineage]].
+> [!tip] Situate the framework in intellectual history. See [[philosophical-lineage]].
 
 **Is this framework's intellectual lineage already in my PKB?**
 > Check: [[]] [[]] [[]]
@@ -80,7 +80,7 @@ tags:
 
 ## Step 4: Application Priming
 
-> [!tip] Connect to genuine intellectual need. This activates [[Intrinsic-Motivation]] through [[Self-Determination-Theory|autonomy]] and [[Relatedness]].
+> [!tip] Connect to genuine intellectual need. This activates [[intrinsic-motivation]] through [[self-determination-theory|autonomy]] and [[relatedness]].
 
 **What problem in my existing PKB or understanding might this framework help address?**
 > 
@@ -92,7 +92,7 @@ tags:
 
 ## Step 5: Vocabulary Pre-Load
 
-> [!tip] Reduce [[Cognitive-Load-Theory|cognitive load]] during reading by pre-activating technical terms. See [[Lexical-Automaticity]].
+> [!tip] Reduce [[cognitive-load-theory|cognitive load]] during reading by pre-activating technical terms. See [[lexical-automaticity]].
 
 **Technical terms likely to appear that I should review:**
 
@@ -152,8 +152,8 @@ tags:
 ---
 
 > [!connections-and-links]
-> - [[Advance-Organizers]] — This template IS an advance organizer for framework learning
-> - [[Prior-Knowledge-Activation]] — Steps 1-2 systematically activate prior knowledge
-> - [[Analogical-Reasoning]] — Step 1 uses structural analogy for schema activation
-> - [[Schema-Accommodation]] — New frameworks require accommodation, not just assimilation
-> - [[Cognitive-Load-Theory]] — Vocabulary pre-load reduces extraneous load during reading
+> - [[advance-organizers]] — This template IS an advance organizer for framework learning
+> - [[prior-knowledge-activation]] — Steps 1-2 systematically activate prior knowledge
+> - [[analogical-reasoning]] — Step 1 uses structural analogy for schema activation
+> - [[schema-accommodation]] — New frameworks require accommodation, not just assimilation
+> - [[cognitive-load-theory]] — Vocabulary pre-load reduces extraneous load during reading

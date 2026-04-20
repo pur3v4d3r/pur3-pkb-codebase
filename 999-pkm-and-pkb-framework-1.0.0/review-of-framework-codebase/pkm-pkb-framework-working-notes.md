@@ -248,7 +248,7 @@ The `builds-on` / `feeds-into` YAML fields create an explicit DAG. Key structura
 
 **Wiki-link conventions:**
 - Very high density — estimated 500+ unique wiki-link targets across series
-- Both concept links (`[[Schema-Theory]]`) and report links (`[[Report 01: Foundations...]]`)
+- Both concept links (`[[schema-theory]]`) and report links (`[[Report 01: Foundations...]]`)
 - Some internal file-path links (`[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]`)
 - Inconsistent targeting: some use full file names, some use display titles
 

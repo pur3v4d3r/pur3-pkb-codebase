@@ -176,7 +176,7 @@ extraction_summary:
 #### 6. [KEY-INSIGHT] Untitled *(Line 361)*
 
 > [!key-insight] Untitled
-> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[Richard-Lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
+> **Convergence Point 1 — The Cognitive Theory of Emotion**: Both Stoicism and cognitive psychology agree that emotional disturbance is caused not by events themselves but by our *judgments, beliefs, and appraisals* about events. Epictetus's formulation — "men are disturbed not by things but by opinions about things" — is structurally identical to the core premise of CBT, REBT, and the cognitive appraisal theory of emotion developed empirically by [[richard-lazarus]] and later refined by [[James Gross]]. In both traditions, this insight is not merely descriptive (emotions arise from appraisals) but prescriptive (changing appraisals changes emotions, and this is the primary method of psychological improvement). The difference in centuries of origin is stunning; the convergence in conclusion is almost exact.
 
 #### 7. [KEY-INSIGHT] Untitled *(Line 370)*
 
@@ -366,12 +366,12 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
 - [[Albert Ellis and the Stoic Heritage of REBT]]
 - [[Chrysippus]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Dichotomy-of-Control]]
 - [[Donald Robertson and Stoic CBT]]
 - [[Epictetus]]
@@ -381,7 +381,7 @@ extraction_summary:
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Dichotomy of Control]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Richard-Lazarus]]
+- [[richard-lazarus]]
 - [[Steven Hayes]]
 - [[Stoic Emotional Theory - Pathē and Eupatheia]]
 - [[Stoicism Series Overview]]
@@ -397,17 +397,17 @@ extraction_summary:
 | 2 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 264 |
 | 3 | [[Stoicism in Leadership and Decision-Making]] | — | — | Stoicism and Modern Psychology: Paral... | 265 |
 | 4 | [[Epictetus]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
-| 5 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
+| 5 | [[cognitive-behavioral-therapy]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
 | 6 | [[Prohairesis]] | — | — | The Stoic Account of Impressions and ... | 296 |
 | 7 | [[Chrysippus]] | — | — | The Stoic Theory of Cognitive Distortion | 319 |
-| 8 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
+| 8 | [[cognitive-behavioral-therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
 | 9 | [[Rational Emotive Behavior Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
 | 10 | [[Acceptance-and-Commitment-Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
-| 11 | [[Aaron-Beck]] | — | — | Cognitive Behavioral Therapy and REBT | 333 |
+| 11 | [[aaron-beck]] | — | — | Cognitive Behavioral Therapy and REBT | 333 |
 | 12 | [[Albert Ellis]] | — | — | Cognitive Behavioral Therapy and REBT | 337 |
 | 13 | [[Steven Hayes]] | — | — | Cognitive Behavioral Therapy and REBT | 345 |
 | 14 | [[Martin Seligman]] | — | — | Cognitive Behavioral Therapy and REBT | 349 |
-| 15 | [[Richard-Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
+| 15 | [[richard-lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
 | 16 | [[James Gross]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
 | 17 | [[Dichotomy-of-Control]] | — | — | Convergence 3: The Locus of Control a... | 382 |
 | 18 | [[Thomas Aquinas]] | — | — | Part 7: Historical Connections — The ... | 488 |
@@ -447,12 +447,12 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
 - [[Albert Ellis and the Stoic Heritage of REBT]]
 - [[Chrysippus]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Dichotomy-of-Control]]
 - [[Donald Robertson and Stoic CBT]]
 - [[Epictetus]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[Prohairesis]]
 - [[Psychological Flexibility and the Dichotomy of Control]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Richard-Lazarus]]
+- [[richard-lazarus]]
 - [[Steven Hayes]]
 - [[Stoic Emotional Theory - Pathē and Eupatheia]]
 - [[Stoicism Series Overview]]
@@ -485,26 +485,26 @@ extraction_summary:
 - [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Acceptance-and-Commitment-Therapy]]
-- [[Positive Psychology]]
+- [[Positive-Psychology]]
 - [[Mindfulness]]
 - [[Emotion-Regulation]]
 - [[Dichotomy-of-Control]]
 - [[Prohairesis]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Albert Ellis]]
-- [[Aaron-Beck]]
+- [[aaron-beck]]
 - [[James Gross]]
 - [[Martin Seligman]]
-- [[Cognitive-Reappraisal]]
+- [[cognitive-reappraisal]]
 
 #### Broader
 
 - [[Philosophy MOC]]
 - [[Psychology MOC]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[History of Psychology]]
 
 #### Narrower
@@ -517,9 +517,9 @@ extraction_summary:
 
 #### See Also
 
-- [[Socrates]]
+- [[socrates]]
 - [[Plato]]
-- [[Aristotle]]
+- [[aristotle]]
 - [[Cynicism]]
 - [[Epicureanism]]
 - [[Buddhist Psychology]]

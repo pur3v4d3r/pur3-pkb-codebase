@@ -20,8 +20,8 @@ secondary_domains:
 related_concepts:
   - "[[Foundational Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -89,7 +89,7 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Chain of Density]]"
 
 extends:
@@ -103,10 +103,10 @@ aliases:
   - "[[FRP v1.1]]"
   - "[[Report Generator - Foundational]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
 link_related:
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
@@ -1146,7 +1146,7 @@ Callouts serve three functions: highlighting key content, providing insider pers
 - First mention of a concept: `[[Full Concept Name]]`
 - Subsequent mentions: Can use `[[Full Concept Name|abbreviated form]]` if the full name is cumbersome
 - Researchers: `[[Researcher Name]]` on first mention of their contribution
-- Theories/Frameworks: `[[Framework Name]]` whenever referenced
+- Theories/Frameworks: `[[Framework-Name]]` whenever referenced
 - **Verification**: When the project knowledge contains a list of permanent note names, all wiki-links MUST be checked against that list before finalizing the report. Unverified links should be flagged with a `⚠` marker in the Quality Self-Assessment.
 
 ### Reflective Questions
@@ -1170,7 +1170,7 @@ Place 1-2 `> [!ask-yourself-this]` callouts at strategic points within phases (n
 The report must build upon itself. Each phase should:
 - Reference concepts from prior phases
 - Show how new material extends, complicates, or enriches earlier understanding
-- Use callbacks: "As established in Phase II..." or "Recall that [[Concept X]] operates through..."
+- Use callbacks: "As established in Phase II..." or "Recall that [[Concept-X]] operates through..."
 
 ### Response Scaling by Query Type
 

@@ -48,7 +48,7 @@ review-priority: medium
 # Argumentation Theory
 
 > [!definition]
-> - **Key-Term**: [[Argumentation-Theory]]
+> - **Key-Term**: [[argumentation-theory]]
 > - [**Definition**: ]
 > - **Status**: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 

@@ -128,7 +128,7 @@ link-related:
 ### Integration with Modern Psychological Frameworks
 **CBT Integration**
 - Use Stoic evening review as [[Thought Record]]
-- Apply [[Socratic-Questioning]] to examine judgments
+- Apply [[socratic-questioning]] to examine judgments
 - Identify [[Cognitive Distortions]] through Stoic lens:
   - Catastrophizing = Failing to apply dichotomy of control
   - Should statements = Demanding universe conform to preferences
@@ -997,15 +997,15 @@ You are the **[[Daily Note Integration System Architect]]** - a specialized mult
 **🏛️ Stoic Philosophy Expertise**
 - Deep understanding of [[Stoicism]], [[Premeditatio-Malorum]], [[Dichotomy-of-Control]]
 - Expert in translating Stoic practices into systematic knowledge work routines
-- Skilled at designing reflective practices that build [[Epistemic-Virtue]] and [[Metacognitive-Regulation]]
+- Skilled at designing reflective practices that build [[Epistemic-Virtue]] and [[metacognitive-regulation]]
 **⚙️ Obsidian Technical Mastery**
 - Advanced proficiency in [[Dataview]], [[DataviewJS]], [[Templater]], [[Meta Bind]], [[QuickAdd]]
 - Expert in [[Plugin Synergy]] discovery and orchestration
-- Deep knowledge of [[Obsidian Metadata Architecture]] and [[YAML-Frontmatter]] design patterns
+- Deep knowledge of [[Obsidian Metadata Architecture]] and [[yaml-frontmatter]] design patterns
 **🧠 Cognitive Science Application**
-- Specialist in [[Andragogy]], [[Spaced-Repetition]], [[Deliberate-Practice]] frameworks
+- Specialist in [[andragogy]], [[spaced-repetition]], [[deliberate-practice]] frameworks
 - Expert in designing systems that scaffold [[Epistemic Accountability]]
-- Skilled at creating interfaces that reduce [[Cognitive-Load]] while maximizing learning
+- Skilled at creating interfaces that reduce [[cognitive-load]] while maximizing learning
 **🏗️ Systems Architecture**
 - Master of [[Modular Design Patterns]], [[Component Reusability]], [[Progressive Enhancement]]
 - Expert in [[Knowledge-Graph]] topology and [[Bidirectional Linking]] strategies

@@ -99,7 +99,7 @@ The [[Self-Regulation Theory]] is based on…
 > Your `[{id}]` placeholder doesn't specify format. Are you using:
 > - Timestamp IDs? (e.g., `🆔20251117142300`)
 > - Sequential numbers? (e.g., `001`, `002`)
-> - [[Zettelkasten]]-style IDs? (e.g., `1a2b3c`)
+> - [[zettelkasten]]-style IDs? (e.g., `1a2b3c`)
 > - UUIDs? (e.g., `a3f2c8d9`)
 > 
 > Each has tradeoffs. Your preference in other notes for timestamp IDs is robust, but specify this in your convention documentation.
@@ -158,7 +158,7 @@ The [[Self-Regulation Theory]] is based on…
 > [permanent]-[{semantic-title}]-[{id}].md
 > ```
 > 
-> Or use the [[Zettelkasten]] approach where IDs *are* the primary identifier:
+> Or use the [[zettelkasten]] approach where IDs *are* the primary identifier:
 > ```
 > 202511171430 Decision Making.md
 > ```
@@ -459,11 +459,11 @@ Your system combines:
 2. **[[Progressive-Summarization]]** (Tiago Forte's method) - Layering new understanding onto existing notes
 3. **[[Incremental Note Development]]** - Building knowledge gradually through repeated encounters
 4. **[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] for concepts** - Returning to notes during different study contexts reinforces learning
-5. **[[Zone-of-Proximal-Development]]** tracking - Your varying note maturity levels map your actual learning journey
+5. **[[zone-of-proximal-development]]** tracking - Your varying note maturity levels map your actual learning journey
 
 > [!example] **Why This Works Cognitively**
 > 
-> Traditional [[Zettelkasten]] atomic notes are frozen at creation time. Your approach mirrors how human understanding actually develops: **non-linearly, through repeated exposure, with progressive integration**.
+> Traditional [[zettelkasten]] atomic notes are frozen at creation time. Your approach mirrors how human understanding actually develops: **non-linearly, through repeated exposure, with progressive integration**.
 > 
 > When you encounter [[Self-Regulation Theory]] while studying motivation, then again while studying metacognition, then again while studying habit formation, you're building a **multi-dimensional conceptual understanding** rather than three separate atomic notes that might never connect.
 > 
@@ -927,7 +927,7 @@ Your system is working because it **externalizes your cognitive process**. The v
 
 1. **[[Obsidian File Organization Strategies]]**
    - *Connection*: Direct application of naming conventions within broader organizational philosophy
-   - *Depth Potential*: Explore folder structures, tag taxonomies, and [[PARA-Method]] vs. [[Zettelkasten]] approaches
+   - *Depth Potential*: Explore folder structures, tag taxonomies, and [[para-method]] vs. [[zettelkasten]] approaches
    - *Knowledge Graph Role*: Central hub connecting naming, tagging, and retrieval systems
 
 2. **[[Dataview Query Patterns for File Classification]]**

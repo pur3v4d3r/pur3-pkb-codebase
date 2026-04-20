@@ -5,6 +5,7 @@
 title: "Local Coherence"
 aliases:
   - "Local Coherence"
+  - "Local-Coherence"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,35 +70,35 @@ narrower:
   []
 
 see-also:
-  - "[[Situation-Models-van-Dijk-&-Kintsch]]"
-  - "[[Textbase]]"
-  - "[[Situation-Model]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Textbase]]"
-  - "[[Situation-Model]]"
-  - "[[Working-Memory-in-Reading]]"
-  - "[[Schema-Theory]]"
-  - "[[Advance-Organizers]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Situation-Models-van-Dijk-&-Kintsch]]"
-  - "[[Textbase]]"
-  - "[[Propositional-Representation]]"
-  - "[[Working-Memory]]"
-  - "[[Reading-Fluency]]"
-  - "[[Propositional-Representation]]"
-  - "[[Situation-Model]]"
-  - "[[Chunking]]"
-  - "[[Working-Memory-in-Reading]]"
+  - "[[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]]"
+  - "[[textbase|Textbase]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[textbase|Textbase]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[advance-organizers|Advance-Organizers]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]]"
+  - "[[textbase|Textbase]]"
+  - "[[propositional-representation|Propositional-Representation]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[reading-fluency|Reading-Fluency]]"
+  - "[[propositional-representation|Propositional-Representation]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[chunking|Chunking]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Working-Memory]]"
-  - "[[Schema-Theory]]"
-  - "[[Mental-Models-Theory]]"
-  - "[[Advance-Organizers]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[mental-models-theory|Mental-Models-Theory]]"
+  - "[[advance-organizers|Advance-Organizers]]"
 
 enables:
   []
@@ -120,7 +121,7 @@ importance: high
 > 
 > **Boundary:** Local coherence is necessary but not sufficient for situation model construction. A text can be locally coherent — each sentence following naturally from the last — while being globally incoherent, conveying no comprehensible overall situation.
 > 
-> **See also:** [[Textbase]], [[Situation-Model]]
+> **See also:** [[textbase]], [[situation-model]]
 
 ## Core Explanation
 
@@ -272,7 +273,7 @@ importance: high
 > 
 > **Position A — Fixed:** The WMC literature has historically treated reading span as stable. Low-WMC readers are structurally disadvantaged.
 > 
-> **Position B — Functionally Expandable:** Cognitive load theory's schema automation account and [[Verbal-Efficiency-Theory|Verbal Efficiency Theory]] suggest that increasing fluency and domain knowledge expands working memory *available* for…
+> **Position B — Functionally Expandable:** Cognitive load theory's schema automation account and [[verbal-efficiency-theory|Verbal Efficiency Theory]] suggest that increasing fluency and domain knowledge expands working memory *available* for…
 
 ## Open Questions
 
@@ -376,17 +377,17 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[situation-models-text-comprehension-foundational-report-2026-03-29]])*:
-- [[Schema-Theory]]
-- [[Mental-Models-Theory]]
-- [[Working-Memory-in-Reading]]
-- [[Working-Memory-—-Baddeley-Model]]
-- [[Advance-Organizers]]
-- [[Self-Explanation-Effect]]
-- [[Metacognitive-Monitoring]]
-- [[Levels-of-Processing-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[mental-models-theory|Mental-Models-Theory]]
+- [[working-memory-in-reading|Working-Memory-in-Reading]]
+- [[working-memory-baddeley-model|Working-Memory-—-Baddeley-Model]]
+- [[advance-organizers|Advance-Organizers]]
+- [[self-explanation-effect|Self-Explanation-Effect]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
 
 **Related concepts:**
-[[Situation-Models-van-Dijk-&-Kintsch]] · [[Textbase]] · [[Situation-Model]] · [[Self-Regulated-Learning]] · [[Textbase]] · [[Situation-Model]] · [[Working-Memory-in-Reading]] · [[Schema-Theory]] · [[Advance-Organizers]] · [[Self-Explanation-Effect]] · [[Self-Regulated-Learning]] · [[Situation-Models-van-Dijk-&-Kintsch]] · [[Textbase]] · [[Propositional-Representation]] · [[Working-Memory]] · [[Reading-Fluency]] · [[Propositional-Representation]] · [[Situation-Model]] · [[Chunking]] · [[Working-Memory-in-Reading]] · [[Situation-Models-van-Dijk-&-Kintsch]] · [[Mental-Models]] · [[Textbase]] · [[Mental-Models]] · [[Mental-Simulation]] · [[Schema-Theory]] · [[Working-Memory-in-Reading]] · [[Situation-Models-van-Dijk-&-Kintsch]] · [[Situation-Model]] · [[Situation-Models-van-Dijk-&-Kintsch]]
+[[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]] · [[textbase|Textbase]] · [[situation-model|Situation-Model]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[textbase|Textbase]] · [[situation-model|Situation-Model]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[schema-theory|Schema-Theory]] · [[advance-organizers|Advance-Organizers]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]] · [[textbase|Textbase]] · [[propositional-representation|Propositional-Representation]] · [[working-memory|Working-Memory]] · [[reading-fluency|Reading-Fluency]] · [[propositional-representation|Propositional-Representation]] · [[situation-model|Situation-Model]] · [[chunking|Chunking]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]] · [[mental-models|Mental-Models]] · [[textbase|Textbase]] · [[mental-models|Mental-Models]] · [[mental-simulation|Mental-Simulation]] · [[schema-theory|Schema-Theory]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]] · [[situation-model|Situation-Model]] · [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]]
 
 ## References
 

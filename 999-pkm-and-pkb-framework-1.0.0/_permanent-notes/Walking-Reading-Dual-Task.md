@@ -5,6 +5,7 @@
 title: "Walking-Reading Dual Task"
 aliases:
   - "Walking-Reading Dual Task"
+  - "Walking-Reading-Dual-Task"
   - "WDT"
 type: permanent-note
 status: evergreen
@@ -30,8 +31,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -42,7 +43,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -66,26 +67,26 @@ narrower:
   []
 
 see-also:
-  - "[[Working-Memory]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Embodied-Cognition]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Transient-Hypofrontality]]"
-  - "[[Working-Memory-Capacity]]"
-  - "[[Executive-Function]]"
-  - "[[Active-Note-Making]]"
-  - "[[Working-Memory]]"
-  - "[[Automaticity]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Central-Executive]]"
-  - "[[Automaticity]]"
-  - "[[Cognitive-Control]]"
-  - "[[Attention]]"
-  - "[[Transient-Hypofrontality]]"
-  - "[[Working-Memory-Capacity]]"
-  - "[[Active-Note-Making]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[embodied-cognition|Embodied-Cognition]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[transient-hypofrontality|Transient-Hypofrontality]]"
+  - "[[working-memory-capacity|Working-Memory-Capacity]]"
+  - "[[executive-function|Executive-Function]]"
+  - "[[active-note-making|Active-Note-Making]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[central-executive|Central-Executive]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[Cognitive-Control|Cognitive-Control]]"
+  - "[[attention|Attention]]"
+  - "[[transient-hypofrontality|Transient-Hypofrontality]]"
+  - "[[working-memory-capacity|Working-Memory-Capacity]]"
+  - "[[active-note-making|Active-Note-Making]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -115,10 +116,10 @@ importance: medium
 ## Core Explanation
 
 > [!analytical-insight] Key Insight *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
-> When two tasks require [[Central-Executive]] resources from [[Working-Memory]], performing them simultaneously produces **interference** — measurable decrements in one or both tasks. This is the canonical finding from [[Dual-Task-Paradigm]] research: dual-task costs are real and robust.
+> When two tasks require [[central-executive]] resources from [[working-memory]], performing them simultaneously produces **interference** — measurable decrements in one or both tasks. This is the canonical finding from [[Dual-Task-Paradigm]] research: dual-task costs are real and robust.
 
 > [!analytical-insight] Key Insight *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
-> Indoor habituated walking and academic reading load **different primary subsystems** of working memory. Reading is [[Phonological-Loop]]- and [[Central-Executive]]-heavy; walking is motor-system-heavy with minimal WM subsystem demands. The structural overlap exists almost exclusively at the [[Central-Executive]] level — and for habituated walking, the executive demand is low.
+> Indoor habituated walking and academic reading load **different primary subsystems** of working memory. Reading is [[phonological-loop]]- and [[central-executive]]-heavy; walking is motor-system-heavy with minimal WM subsystem demands. The structural overlap exists almost exclusively at the [[central-executive]] level — and for habituated walking, the executive demand is low.
 > 
 > **Therefore:** The dual-task cost of walking-while-reading should be **small but non-zero**, concentrated in…
 
@@ -128,8 +129,8 @@ importance: medium
 > [!analytical-insight] Key Insight *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
 > The net effect of walking on reading comprehension is determined by the **balance between two opposing forces:**
 > 
-> 1. **The dual-task cost** (negative) — the small [[Central-Executive]] resource competition from maintaining the walking task, as analyzed in Levels 2-3.
-> 2. **The arousal benefit** (positive) — the improvement in [[Cognitive-Control]], [[Attention|attentional]] vigilance, and prefrontal activation that accompanies the shift from sub-optimal (resting/seated) arousal to optimal…
+> 1. **The dual-task cost** (negative) — the small [[central-executive]] resource competition from maintaining the walking task, as analyzed in Levels 2-3.
+> 2. **The arousal benefit** (positive) — the improvement in [[Cognitive-Control]], [[attention|attentional]] vigilance, and prefrontal activation that accompanies the shift from sub-optimal (resting/seated) arousal to optimal…
 
 ## Practical Implications
 
@@ -186,7 +187,7 @@ importance: medium
 > [!far-transfer] **Transfer 1: Dual-Task Cost Assessment for Any Knowledge Worker Physical Habit** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
 > The analytical framework developed in this Deep Dive — resource overlap analysis, automaticity gradient, arousal curve interaction, metacognitive blind spot detection — transfers directly to any physical activity performed concurrently with cognitive work:
 > 
-> - **Listening to podcasts while running:** Similar resource overlap analysis. Running is more [[Central-Executive]]-demanding than indoor walking (terrain, balance, navigation), so the CE cost is higher. Auditory material loads the [[Phonological-Loop]] heavily. The dual-task cost will be larger than walking-reading. The hybrid protocol…
+> - **Listening to podcasts while running:** Similar resource overlap analysis. Running is more [[central-executive]]-demanding than indoor walking (terrain, balance, navigation), so the CE cost is higher. Auditory material loads the [[phonological-loop]] heavily. The dual-task cost will be larger than walking-reading. The hybrid protocol…
 
 > [!far-transfer] **Transfer 2: The Priming-Processing Two-Phase Reframe Applies Beyond Reading** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
 > The deepest structural insight — that walking-reading is best understood as a *priming phase* in a two-phase workflow — generalizes to many creative and analytical knowledge work patterns:
@@ -248,7 +249,7 @@ importance: medium
 > [!claude-insight] **Claude's Specialist Recommendations** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
 > For the serious investigator continuing in this area, the following directions are most productive:
 > 
-> 1. **Self-experimentation with comprehension measurement.** The walking reader should conduct their own N=1 trial: read comparable materials while walking and while sitting (using the hybrid protocol), then test comprehension through [[Retrieval-Practice]] (free recall or note-making quality assessment). This directly measures what the research literature has not measured for this specific use case.
+> 1. **Self-experimentation with comprehension measurement.** The walking reader should conduct their own N=1 trial: read comparable materials while walking and while sitting (using the hybrid protocol), then test comprehension through [[retrieval-practice]] (free recall or note-making quality assessment). This directly measures what the research literature has not measured for this specific use case.
 > 
 > 2. **Metacognitive calibration.** Before each reading session, predict comprehension; after,…
 
@@ -258,19 +259,19 @@ importance: medium
 > At surface level, walking-while-reading appears to be a multitasking problem — two tasks competing for the same cognitive resources. The folk experience suggests walking helps, while the standard dual-task prediction says it should hurt. The paradox between these two perspectives is real and cannot be resolved without examining the specific architecture of working memory resource allocation. The next level will zoom into that architecture.
 
 > [!section-summary] **Level 2 Summary** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
-> At surface level, walking-while-reading appeared to be a generic multitasking problem. At mechanism level, we now see something more specific: it is a dual-task pair with **unusually low structural resource overlap** (different WM subsystems, different resource dimensions), whose residual interference is concentrated in **[[Central-Executive]] concurrence costs** that are **modulated by the automaticity of the walking component.** The mechanism-level prediction is: dual-task cost is small, non-zero, concentrated at high-CE-demand reading moments, and decreasing with walking-route habituation.…
+> At surface level, walking-while-reading appeared to be a generic multitasking problem. At mechanism level, we now see something more specific: it is a dual-task pair with **unusually low structural resource overlap** (different WM subsystems, different resource dimensions), whose residual interference is concentrated in **[[central-executive]] concurrence costs** that are **modulated by the automaticity of the walking component.** The mechanism-level prediction is: dual-task cost is small, non-zero, concentrated at high-CE-demand reading moments, and decreasing with walking-route habituation.…
 
 > [!section-summary] **Level 3 Summary** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
 > At mechanism level, we identified the Central Executive as the site of resource competition. At substructure level, we now see the precise neural implementation: the competition is specifically at the **dorsolateral prefrontal cortex** level, with all other neural systems architecturally distinct. Locomotion's cortical engagement is minimal for habituated walking (primarily subcortical Level 1-3 control), but can spike at **turning points, terrain changes, and moments of high reading difficulty** (prioritization stopping). The phonological loop and visuospatial sketchpad are loaded by…
 
 > [!section-summary] **Level 4 Summary** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
-> At mechanism level, walking appeared to impose a small CE cost. At dynamics level, we now see this is only half the story. Walking simultaneously **modulates the arousal environment** in which reading occurs, through the catecholamine inverted-U, in a way that is beneficial at light intensities and potentially harmful at high intensities. [[Transient-Hypofrontality]] is not a concern at walking intensities. The net effect depends on the **interaction between task difficulty and exercise intensity**: net positive for moderate-difficulty material at light walking intensity, net negative for…
+> At mechanism level, walking appeared to impose a small CE cost. At dynamics level, we now see this is only half the story. Walking simultaneously **modulates the arousal environment** in which reading occurs, through the catecholamine inverted-U, in a way that is beneficial at light intensities and potentially harmful at high intensities. [[transient-hypofrontality]] is not a concern at walking intensities. The net effect depends on the **interaction between task difficulty and exercise intensity**: net positive for moderate-difficulty material at light walking intensity, net negative for…
 
 > [!section-summary] **Level 5 Summary** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
 > At dynamics level, the general model produced clean predictions about arousal benefits and task-difficulty moderation. At edge case level, five boundary conditions emerge that qualify or complicate those predictions: (1) WMC variation creates asymmetric sensitivity to dual-task costs; (2) restlessness means sitting ISN'T the free baseline — it has its own costs; (3) ADHD-spectrum profiles amplify the arousal benefit to the point where walking may be quasi-medicinal; (4) the metacognitive blind spot means walking readers may not notice when comprehension has silently failed; (5)…
 
 > [!section-summary] **Level 6 Summary** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
-> At edge case level, we identified specific boundary conditions. At frontier level, we see the **current limits of knowledge**: (1) the precise dose-response function for acute light exercise and executive function is still being mapped; (2) whether [[Embodied-Cognition]] contributes a mechanistically distinct facilitation effect is theoretically possible but empirically unresolved for academic reading; (3) movement-integrated learning paradigms are in their infancy; and (4) the specific ecological conditions of the walking reader have essentially no direct empirical study. The frontier…
+> At edge case level, we identified specific boundary conditions. At frontier level, we see the **current limits of knowledge**: (1) the precise dose-response function for acute light exercise and executive function is still being mapped; (2) whether [[embodied-cognition]] contributes a mechanistically distinct facilitation effect is theoretically possible but empirically unresolved for academic reading; (3) movement-integrated learning paradigms are in their infancy; and (4) the specific ecological conditions of the walking reader have essentially no direct empirical study. The frontier…
 
 > [!section-summary] **Level 7 Summary** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
 > At frontier level, we identified the limits of current knowledge. At speculation level, we synthesize across all levels to produce actionable protocols: the hybrid walk-sit cycle, a phased transition plan, a real-time decision framework, and a case analysis of the walking reader's specific situation. The deepest insight is the reframing: walking-while-reading is best understood not as a behavior to evaluate but as a **priming phase in a two-phase cognitive workflow** that includes both walking-for-exposure and sitting-for-processing. The speculative protocols are untested extrapolations from…
@@ -446,18 +447,18 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[Working-Memory]] · [[Dual-Process-Theory]] · [[Cognitive-Load-Theory]] · [[Embodied-Cognition]] · [[Baddeley's-Working-Memory-Model]] · [[Transient-Hypofrontality]] · [[Working-Memory-Capacity]] · [[Executive-Function]] · [[Active-Note-Making]] · [[Working-Memory]] · [[Automaticity]] · [[Baddeley's-Working-Memory-Model]] · [[Central-Executive]] · [[Automaticity]] · [[Cognitive-Control]] · [[Attention]] · [[Transient-Hypofrontality]] · [[Working-Memory-Capacity]] · [[Active-Note-Making]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[Self-Regulated-Learning]] · [[Intrinsic-Cognitive-Load]] · [[Extraneous-Cognitive-Load]] · [[Germane-Cognitive-Load]] · [[Automaticity]] · [[Physical-Activity]] · [[Cognition]] · [[cognitive-psychology]] · [[Parallel-Processing]]
+[[working-memory|Working-Memory]] · [[dual-process-theory|Dual-Process-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[embodied-cognition|Embodied-Cognition]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[transient-hypofrontality|Transient-Hypofrontality]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[executive-function|Executive-Function]] · [[active-note-making|Active-Note-Making]] · [[working-memory|Working-Memory]] · [[automaticity|Automaticity]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[central-executive|Central-Executive]] · [[automaticity|Automaticity]] · [[Cognitive-Control|Cognitive-Control]] · [[attention|Attention]] · [[transient-hypofrontality|Transient-Hypofrontality]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[active-note-making|Active-Note-Making]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]] · [[extraneous-cognitive-load|Extraneous-Cognitive-Load]] · [[germane-cognitive-load|Germane-Cognitive-Load]] · [[automaticity|Automaticity]] · [[physical-activity|Physical-Activity]] · [[cognition|Cognition]] · [[cognitive-psychology]] · [[parallel-processing|Parallel-Processing]]
 
 ## Methodology Notes
 
 > [!methodology-and-sources] **Scope Statement** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*
-> **This report's focus:** Real-time [[Working-Memory]] resource competition between self-paced indoor locomotion and academic text comprehension, including arousal modulation, [[Automaticity]] gradients, and optimization strategies.
+> **This report's focus:** Real-time [[working-memory]] resource competition between self-paced indoor locomotion and academic text comprehension, including arousal modulation, [[automaticity]] gradients, and optimization strategies.
 > 
 > **Drawn from broader topic:** Walking and Academic Reading — Balancing Physical Activity with Cognitive Load for Optimal Learning.
 > 
 > **What this report covers:**
 > - The dual-task architecture of walking-while-reading through [[Baddeley's-Working-Memory-Model]]
-> - [[Central-Executive]] resource sharing between locomotion control and reading comprehension
+> - [[central-executive]] resource sharing between locomotion control and reading comprehension
 > - The role of…
 
 > [!methodology-and-sources] **Methodology: Progressive Magnification Applied to a Personal Cognitive Practice** *(from [[walking-academic-reading-working-memory-deep-dive-2026-04-13]])*

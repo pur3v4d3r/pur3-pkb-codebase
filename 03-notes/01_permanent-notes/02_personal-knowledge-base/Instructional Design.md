@@ -15,9 +15,9 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Generative Ai]]"
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
   - "[[Constructivist Learning]]"
-  - "[[Educational-Psychology]]"
+  - "[[educational-psychology]]"
   - "[[Knowledge-Management]]"
   - "[[Library Science]]"
   - "[[pedagogy]]"
@@ -34,7 +34,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Instructional-Design]]
+> - **Key-Term**:: [[instructional-design]]
 > - [**Definition**:: Instructional design is the systematic process of designing, developing, and delivering learning experiences and materials to ensure the acquisition of knowledge and skills.]
 
 

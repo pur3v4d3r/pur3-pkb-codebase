@@ -5,6 +5,7 @@
 title: "Accretion Disk"
 aliases:
   - "Accretion Disk"
+  - "Accretion-Disk"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -32,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,26 +69,26 @@ narrower:
   []
 
 see-also:
-  - "[[Nuclear-Fusion]]"
-  - "[[Stellar-Formation]]"
-  - "[[Gravitational-Collapse]]"
-  - "[[Protostar]]"
-  - "[[Main-Sequence-Star]]"
-  - "[[Molecular-Cloud]]"
+  - "[[nuclear-fusion|Nuclear-Fusion]]"
+  - "[[stellar-formation|Stellar-Formation]]"
+  - "[[gravitational-collapse|Gravitational-Collapse]]"
+  - "[[protostar|Protostar]]"
+  - "[[main-sequence-star|Main-Sequence-Star]]"
+  - "[[molecular-cloud|Molecular-Cloud]]"
   - "[[classical-mechanics]]"
   - "[[philosophy-of-science]]"
-  - "[[Scientific-Method]]"
-  - "[[Spectroscopy]]"
-  - "[[Inductive-Reasoning]]"
-  - "[[Interstellar-Medium]]"
-  - "[[Molecular-Cloud]]"
-  - "[[Nebula]]"
+  - "[[scientific-method|Scientific-Method]]"
+  - "[[spectroscopy|Spectroscopy]]"
+  - "[[inductive-reasoning|Inductive-Reasoning]]"
+  - "[[interstellar-medium|Interstellar-Medium]]"
+  - "[[molecular-cloud|Molecular-Cloud]]"
+  - "[[nebula|Nebula]]"
   - "[[cosmology-moc]]"
-  - "[[Electromagnetic-Spectrum]]"
-  - "[[Big-Bang]]"
-  - "[[Nucleosynthesis]]"
+  - "[[electromagnetic-spectrum|Electromagnetic-Spectrum]]"
+  - "[[big-bang|Big-Bang]]"
+  - "[[nucleosynthesis|Nucleosynthesis]]"
   - "[[cosmology-moc]]"
-  - "[[Molecular-Cloud]]"
+  - "[[molecular-cloud|Molecular-Cloud]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -100,16 +101,16 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-represent-natural-extensions-of-this-report's-content-—-are|The following topics represent natural extensions of this report's content — areas where deeper inve]]"
+  - topic: "[[The following topics represent natural extensions of this report's content — areas where deeper inve]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-comprehensive-treatment-of-the-post-main-sequence-evolution-of-sta|**Description:** A comprehensive treatment of the post-main-sequence evolution of stars, covering hy]]"
+  - topic: "[[**Description:** A comprehensive treatment of the post-main-sequence evolution of stars, covering hy]]"
     description: ""
     priority: medium
-  - topic: "[[Description-The-formation-of-planets-within-the-protostellar-accretion-disks-des|**Description:** The formation of planets within the protostellar accretion disks described in this ]]"
+  - topic: "[[**Description:** The formation of planets within the protostellar accretion disks described in this ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-cross-domain-investigation-of-self-organisation-—-the-spontaneous|**Description:** A cross-domain investigation of self-organisation — the spontaneous emergence of or]]"
+  - topic: "[[**Description:** A cross-domain investigation of self-organisation — the spontaneous emergence of or]]"
     description: ""
     priority: medium
 
@@ -130,7 +131,7 @@ importance: high
 > 
 > **Report-Specific Significance:** The accretion disk resolves the angular momentum problem and connects star formation to planet formation.
 > 
-> **See also:** [[Accretion-Disk]], [[Protostar]], [[Exoplanet]], [[Angular-Momentum]]
+> **See also:** [[accretion-disk]], [[protostar]], [[exoplanet]], [[Angular-Momentum]]
 
 ## Core Explanation
 
@@ -267,7 +268,7 @@ importance: high
 > 3. The protostellar classification scheme (Class 0–III) is based on observational diagnostics…
 
 > [!reflection] **Reflect** *(from [[how-stars-are-created-in-the-universe-foundational-report-2026-04-17]])*
-> 1. The thermonuclear thermostat on the main sequence is a self-regulating feedback loop. How does this compare to other self-regulating systems you have encountered — biological homeostasis, economic equilibria, or [[Self-Regulated-Learning|self-regulated learning]]?
+> 1. The thermonuclear thermostat on the main sequence is a self-regulating feedback loop. How does this compare to other self-regulating systems you have encountered — biological homeostasis, economic equilibria, or [[self-regulated-learning|self-regulated learning]]?
 > 2. The threshold cascade model proposes that star formation involves multiple energy-regime transitions. Does this framework help clarify the distinction between necessary and sufficient conditions for stellar birth?
 > 3. Brown…
 
@@ -549,18 +550,18 @@ importance: high
 
 **Cross-report connections** *(from [[how-stars-are-created-in-the-universe-foundational-report-2026-04-17]])*:
 - [[classical-mechanics]]
-- [[Empiricism]]
-- [[Scientific-Method]]
-- [[Hypothetico-Deductive-Method]]
-- [[Analogical-Reasoning]]
-- [[Transfer-of-Learning]]
-- [[Mental-Models]]
-- [[Stellar-Evolution]]
+- [[empiricism|Empiricism]]
+- [[scientific-method|Scientific-Method]]
+- [[hypothetico-deductive-method|Hypothetico-Deductive-Method]]
+- [[analogical-reasoning|Analogical-Reasoning]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[mental-models|Mental-Models]]
+- [[stellar-evolution|Stellar-Evolution]]
 - [[cosmology-moc]]
-- [[Exoplanet]]
+- [[exoplanet|Exoplanet]]
 
 **Related concepts:**
-[[Nuclear-Fusion]] · [[Stellar-Formation]] · [[Gravitational-Collapse]] · [[Protostar]] · [[Main-Sequence-Star]] · [[Molecular-Cloud]] · [[classical-mechanics]] · [[philosophy-of-science]] · [[Scientific-Method]] · [[Spectroscopy]] · [[Inductive-Reasoning]] · [[Interstellar-Medium]] · [[Molecular-Cloud]] · [[Nebula]] · [[cosmology-moc]] · [[Electromagnetic-Spectrum]] · [[Big-Bang]] · [[Nucleosynthesis]] · [[cosmology-moc]] · [[Molecular-Cloud]] · [[Galactic-Evolution]] · [[Molecular-Cloud]] · [[Interstellar-Medium]] · [[Gravitational-Collapse]] · [[Jeans-Instability]] · [[Nebula]] · [[Magnetic-Pressure]] · [[Initial-Mass-Function]] · [[Brown-Dwarf]] · [[Supernova]]
+[[nuclear-fusion|Nuclear-Fusion]] · [[stellar-formation|Stellar-Formation]] · [[gravitational-collapse|Gravitational-Collapse]] · [[protostar|Protostar]] · [[main-sequence-star|Main-Sequence-Star]] · [[molecular-cloud|Molecular-Cloud]] · [[classical-mechanics]] · [[philosophy-of-science]] · [[scientific-method|Scientific-Method]] · [[spectroscopy|Spectroscopy]] · [[inductive-reasoning|Inductive-Reasoning]] · [[interstellar-medium|Interstellar-Medium]] · [[molecular-cloud|Molecular-Cloud]] · [[nebula|Nebula]] · [[cosmology-moc]] · [[electromagnetic-spectrum|Electromagnetic-Spectrum]] · [[big-bang|Big-Bang]] · [[nucleosynthesis|Nucleosynthesis]] · [[cosmology-moc]] · [[molecular-cloud|Molecular-Cloud]] · [[galactic-evolution|Galactic-Evolution]] · [[molecular-cloud|Molecular-Cloud]] · [[interstellar-medium|Interstellar-Medium]] · [[gravitational-collapse|Gravitational-Collapse]] · [[jeans-instability|Jeans-Instability]] · [[nebula|Nebula]] · [[magnetic-pressure|Magnetic-Pressure]] · [[initial-mass-function|Initial-Mass-Function]] · [[brown-dwarf|Brown-Dwarf]] · [[supernova|Supernova]]
 
 ## References
 

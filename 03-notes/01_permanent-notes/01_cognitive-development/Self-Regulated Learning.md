@@ -49,7 +49,7 @@ review-priority: medium
 # Self-Regulated Learning
 
 > [!definition]
-> - **Key-Term**:[[Self-Regulated-Learning]]
+> - **Key-Term**:[[self-regulated-learning]]
 > - [**Definition**:Self-regulated learning (SRL) is an active, constructive process whereby learners set goals for their learning and then attempt to monitor, regulate, and control their cognition, motivation, and behavior, guided by their goals and the contextual features of the environment. Essentially, it's about taking charge of one's own learning process.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -209,13 +209,13 @@ Source: `= this.source`
 
 ---
 > [!definition]
-> - **Key-Term**:[[Self-Regulated-Learning]]
+> - **Key-Term**:[[self-regulated-learning]]
 > - **Definition**::
 
 > [!topic-idea]
 > - **Topic or Idea**:[[Self-Regulated Learning (SRL)]]
 > - **Key Figure(s)**:*Barry Zimmerman*, *Paul Pintrich*
-> - **Description**:A cyclical, proactive process where learners set their own learning goals, select and deploy strategies, and then monitor and reflect on their progress. This framework integrates [[Metacognition]] and [[Self-Regulation Theory]] directly into the academic context. It involves three key phases: **forethought** (planning/goal setting), **performance** (monitoring/strategy use), and **self-reflection** (evaluating/adapting).
+> - **Description**:A cyclical, proactive process where learners set their own learning goals, select and deploy strategies, and then monitor and reflect on their progress. This framework integrates [[metacognition]] and [[Self-Regulation Theory]] directly into the academic context. It involves three key phases: **forethought** (planning/goal setting), **performance** (monitoring/strategy use), and **self-reflection** (evaluating/adapting).
 
 > [!connections-and-links]
 > - [[atomic-notes_moc]]: This is a link to the *Main Hub* for all **Atomic Notes**, from there you will find sections of each of the various *Subjects* I have been **working on**.

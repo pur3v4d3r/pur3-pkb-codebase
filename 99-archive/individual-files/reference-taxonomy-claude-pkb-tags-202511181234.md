@@ -954,7 +954,7 @@ aliases:
 - [[Linking in Zettelkasten]]
 
 ### Other Methodologies
-- [[PARA-Method]]
+- [[para-method]]
 - [[Building-a-Second-Brain]]
 - [[Linking Your Thinking (LYT)]]
 - [[Evergreen Notes Method]]

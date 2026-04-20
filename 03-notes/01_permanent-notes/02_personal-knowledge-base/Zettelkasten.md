@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Zettelkasten]]
+> - **Key-Term**:: [[zettelkasten]]
 > - **Definition**::
 
 

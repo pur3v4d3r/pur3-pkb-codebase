@@ -29,7 +29,7 @@ review-priority: medium
 # Assimilation
 
 > [!definition]
-> - **Key-Term**: [[Assimilation]]
+> - **Key-Term**: [[assimilation]]
 > - **Definition**: 
 
 > [!evidence]

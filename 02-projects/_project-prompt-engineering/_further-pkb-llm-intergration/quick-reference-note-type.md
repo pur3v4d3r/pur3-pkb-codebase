@@ -193,10 +193,10 @@ type: synthesis
 
 ## Component Concepts
 
-### [[Concept A]]
+### [[Concept-A]]
 [Brief summary]
 
-### [[Concept B]]
+### [[Concept-B]]
 [Brief summary]
 
 ## Integration Analysis

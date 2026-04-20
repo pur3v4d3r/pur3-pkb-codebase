@@ -20,8 +20,8 @@ secondary_domains:
 related_concepts:
   - "[[Foundational Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -88,7 +88,7 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Chain of Density]]"
 
 extends:
@@ -102,10 +102,10 @@ aliases:
   - "[[FRP v1.0]]"
   - "[[Report Generator - Foundational]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
 link_related:
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
@@ -414,7 +414,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-opus-4.6
-generation-prompt: "[[Foundational-Report-Generator-v1.0]]"
+generation-prompt: "[[foundational-report-generator-v1.0]]"
 generation-date: "{YYYY-MM-DD}"
 ---
 ```
@@ -1162,7 +1162,7 @@ Callouts serve three functions: highlighting key content, providing insider pers
 - First mention of a concept: `[[Full Concept Name]]`
 - Subsequent mentions: Can use `[[Full Concept Name|abbreviated form]]` if the full name is cumbersome
 - Researchers: `[[Researcher Name]]` on first mention of their contribution
-- Theories/Frameworks: `[[Framework Name]]` whenever referenced
+- Theories/Frameworks: `[[Framework-Name]]` whenever referenced
 
 ### Reflective Questions
 
@@ -1185,7 +1185,7 @@ Place 1-2 `> [!ask-yourself-this]` callouts at strategic points within phases (n
 The report must build upon itself. Each phase should:
 - Reference concepts from prior phases
 - Show how new material extends, complicates, or enriches earlier understanding
-- Use callbacks: "As we established in Phase II..." or "Recall that [[Concept X]] operates through..."
+- Use callbacks: "As we established in Phase II..." or "Recall that [[Concept-X]] operates through..."
 
 ---
 

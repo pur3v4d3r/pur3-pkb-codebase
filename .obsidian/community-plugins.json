@@ -2,5 +2,14 @@
   "obsidian-git",
   "smart-environment",
   "smart-chat",
-  "mysnippets-plugin"
+  "mysnippets-plugin",
+  "calendar",
+  "cmdr",
+  "dataview",
+  "homepage",
+  "periodic-notes",
+  "quickadd",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-text-format"
 ]

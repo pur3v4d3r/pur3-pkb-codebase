@@ -728,7 +728,7 @@ For inline edits (adding wiki-links, transition sentences), use individual `repl
 
 **Generate:** `## Far Transfer: Applying These Insights Beyond [Domain]`
 
-1. **Transfer research grounding** (300-400 words) — Reference [[Transfer-of-Learning]], near/far transfer. Cite Halpern, Perkins, Salomon, Barnett & Ceci.
+1. **Transfer research grounding** (300-400 words) — Reference [[transfer-of-learning]], near/far transfer. Cite Halpern, Perkins, Salomon, Barnett & Ceci.
 
 2. **3-4 transfer domains** with `[!far-transfer]` callouts — structural principle, concrete application, boundary condition, see-also wiki-links.
 

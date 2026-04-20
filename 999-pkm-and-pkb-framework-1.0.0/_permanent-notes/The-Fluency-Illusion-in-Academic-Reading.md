@@ -5,6 +5,7 @@
 title: "The Fluency Illusion in Academic Reading"
 aliases:
   - "The Fluency Illusion in Academic Reading"
+  - "The-Fluency-Illusion-in-Academic-Reading"
   - "TFIIAR"
 type: permanent-note
 status: evergreen
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,49 +70,49 @@ narrower:
   []
 
 see-also:
-  - "[[Fluency-Illusion]]"
-  - "[[Schema-Theory]]"
-  - "[[Metacognition]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[metacognition|Metacognition]]"
   - "[[metacognition-in-learning-focused-analysis-2026-03-20]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Simple-View-of-Reading]]"
-  - "[[Textbase]]"
-  - "[[Situation-Model]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[simple-view-of-reading|Simple-View-of-Reading]]"
+  - "[[textbase|Textbase]]"
+  - "[[situation-model|Situation-Model]]"
   - "[[language-comprehension]]"
-  - "[[Mental-Models]]"
-  - "[[Walter-Kintsch]]"
-  - "[[Textbase]]"
-  - "[[Situation-Models-in-Text-Comprehension]]"
-  - "[[Situation-Models-van-Dijk-&-Kintsch]]"
-  - "[[Inferential-Bridging]]"
-  - "[[Elaborative-Inference]]"
-  - "[[Simple-View-of-Reading]]"
-  - "[[Working-Memory]]"
-  - "[[Working-Memory-in-Reading]]"
+  - "[[mental-models|Mental-Models]]"
+  - "[[walter-kintsch|Walter-Kintsch]]"
+  - "[[textbase|Textbase]]"
+  - "[[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]"
+  - "[[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]]"
+  - "[[inferential-bridging|Inferential-Bridging]]"
+  - "[[elaborative-inference|Elaborative-Inference]]"
+  - "[[simple-view-of-reading|Simple-View-of-Reading]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Mental-Models]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[mental-models|Mental-Models]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-A-comprehensive-critical-review-of-the-40+-studies-on-Reciprocal-Tea|*Description:* A comprehensive critical review of the 40+ studies on Reciprocal Teaching, examining ]]"
+  - topic: "[[*Description:* A comprehensive critical review of the 40+ studies on Reciprocal Teaching, examining ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-systematic-examination-of-empirically-tested-interventions-for-imp|*Description:* A systematic examination of empirically tested interventions for improving metacognit]]"
+  - topic: "[[*Description:* A systematic examination of empirically tested interventions for improving metacognit]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-comparative-analysis-of-reading-competency-development-across-acad|*Description:* A comparative analysis of reading competency development across academic disciplines ]]"
+  - topic: "[[*Description:* A comparative analysis of reading competency development across academic disciplines ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-comprehensive-examination-of-vocabulary-acquisition-strategies-for|*Description:* A comprehensive examination of vocabulary acquisition strategies for academic reading]]"
+  - topic: "[[*Description:* A comprehensive examination of vocabulary acquisition strategies for academic reading]]"
     description: ""
     priority: medium
 
@@ -126,11 +127,11 @@ importance: high
 # The Fluency Illusion in Academic Reading
 
 > [!definition] **The Fluency Illusion in Academic Reading** *(from [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]])*
-> The [[Fluency-Illusion|Fluency Illusion]] is the systematic tendency to overestimate comprehension of text that has been repeatedly processed, because the *ease of processing* (fluency) is misinterpreted as evidence of *depth of understanding* (comprehension). Familiar text feels more comprehensible even when conceptual understanding has not improved — because perceptual fluency (faster word recognition, smoother syntactic parsing) is a salient, cognitively available cue that is consciously experienced, while comprehension depth (situation model quality) is not directly introspectable. The Fluency Illusion is a primary driver of the passive re-reading trap: re-reading increases fluency, increasing the felt sense of understanding, increasing false metacognitive confidence. Academic readers who have read foundational domain texts multiple times are particularly vulnerable to Fluency Illusion: the texts feel deeply comprehended, but retrieval testing often reveals surprisingly shallow conceptual understanding beneath the fluency surface.
+> The [[fluency-illusion|Fluency Illusion]] is the systematic tendency to overestimate comprehension of text that has been repeatedly processed, because the *ease of processing* (fluency) is misinterpreted as evidence of *depth of understanding* (comprehension). Familiar text feels more comprehensible even when conceptual understanding has not improved — because perceptual fluency (faster word recognition, smoother syntactic parsing) is a salient, cognitively available cue that is consciously experienced, while comprehension depth (situation model quality) is not directly introspectable. The Fluency Illusion is a primary driver of the passive re-reading trap: re-reading increases fluency, increasing the felt sense of understanding, increasing false metacognitive confidence. Academic readers who have read foundational domain texts multiple times are particularly vulnerable to Fluency Illusion: the texts feel deeply comprehended, but retrieval testing often reveals surprisingly shallow conceptual understanding beneath the fluency surface.
 > 
 > **Boundary:** The Fluency Illusion does not mean fluency is deceitful — processing fluency is a real cognitive advantage. But it is not a reliable proxy for situation model depth, and metacognitive calibration requires distinguishing the two.
 > 
-> **See also:** [[Fluency-Illusion]], [[Comprehension-Monitoring]], [[Metacognitive-Accuracy]], [[Retrieval-Practice]]
+> **See also:** [[fluency-illusion]], [[comprehension-monitoring]], [[metacognitive-accuracy]], [[retrieval-practice]]
 
 ## Core Explanation
 
@@ -179,7 +180,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]])*
-> The cognitive architecture of reading creates a specific vulnerability known as the [[Fluency-Illusion|Fluency Illusion]] — the subjective experience of comprehension that can accompany smooth reading even when genuine understanding is absent. Because fluent readers process words automatically, the absence of decoding effort generates a metacognitive signal that can be misread as comprehension rather than merely as decoding success. Academic readers are particularly susceptible to this illusion…
+> The cognitive architecture of reading creates a specific vulnerability known as the [[fluency-illusion|Fluency Illusion]] — the subjective experience of comprehension that can accompany smooth reading even when genuine understanding is absent. Because fluent readers process words automatically, the absence of decoding effort generates a metacognitive signal that can be misread as comprehension rather than merely as decoding success. Academic readers are particularly susceptible to this illusion…
 
 > [!warning] **Key Distinction** *(from [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]])*
 > Re-reading is the most common self-regulatory response to detected comprehension difficulty — and among the least effective for improving comprehension and memory. Research by Dunlosky et al. (2013) in their landmark review of learning strategies rated re-reading as having "low utility" despite being overwhelmingly popular among students. The mechanism of re-reading's ineffectiveness is illuminating: it primarily improves fluency — making the text feel more familiar — without substantially…
@@ -266,7 +267,7 @@ importance: high
 > [!schema-activation] **Prior Knowledge Bridge: What You Already Know About Reading** *(from [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]])*
 > Before entering this report's detailed terrain, pause to activate what you already know. You have been a reader for most of your life, and you likely carry strong intuitions about the following:
 > 
-> - **When you "get it" and when you don't.** You know the feeling of processing text fluently without constructing genuine understanding — the illusion that [[Fluency-Illusion|familiarity masquerades as comprehension]]. You may have experienced this in dense academic passages where eye movement continues while comprehension fails silently.
+> - **When you "get it" and when you don't.** You know the feeling of processing text fluently without constructing genuine understanding — the illusion that [[fluency-illusion|familiarity masquerades as comprehension]]. You may have experienced this in dense academic passages where eye movement continues while comprehension fails silently.
 > 
 > - **The role of background knowledge.** You likely notice…
 
@@ -278,7 +279,7 @@ importance: high
 > **Concrete…
 
 > [!far-transfer] **Transfer Domain 2: Multimedia and Digital Learning Environments** *(from [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]])*
-> **Structural principle:** The comprehension demands analyzed in this report — working memory load, schema activation, inference generation, metacognitive monitoring — are not specific to printed academic text but arise in any complex representational medium. The [[Dual-Coding-Theory|dual coding framework]] and cognitive load theory apply directly to video lectures, educational podcasts, interactive simulations, and digital reading environments. Poor schema activation before a lecture produces the same comprehension degradation as poor schema activation before a text. Metacognitive inaccuracy…
+> **Structural principle:** The comprehension demands analyzed in this report — working memory load, schema activation, inference generation, metacognitive monitoring — are not specific to printed academic text but arise in any complex representational medium. The [[dual-coding-theory|dual coding framework]] and cognitive load theory apply directly to video lectures, educational podcasts, interactive simulations, and digital reading environments. Poor schema activation before a lecture produces the same comprehension degradation as poor schema activation before a text. Metacognitive inaccuracy…
 
 > [!far-transfer] **Transfer Domain 3: Interpersonal Comprehension and Argumentation** *(from [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]])*
 > **Structural principle:** The metacognitive monitoring developed for academic text reading — sensitivity to propositional inconsistency, situational implausibility, and argumentative gaps — transfers to comprehension of spoken argumentation in professional, civic, and interpersonal contexts. A reader who has developed robust comprehension monitoring for academic arguments develops, in the same process, a more refined capacity for evaluating logical validity, evidentiary support, and argumentative coherence in any complex discourse.
@@ -444,7 +445,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Fluency-Illusion]] · [[Schema-Theory]] · [[Metacognition]] · [[metacognition-in-learning-focused-analysis-2026-03-20]] · [[Self-Regulated-Learning]] · [[Cognitive-Load-Theory]] · [[Simple-View-of-Reading]] · [[Textbase]] · [[Situation-Model]] · [[language-comprehension]] · [[Mental-Models]] · [[Walter-Kintsch]] · [[Textbase]] · [[Situation-Models-in-Text-Comprehension]] · [[Situation-Models-van-Dijk-&-Kintsch]] · [[Inferential-Bridging]] · [[Elaborative-Inference]] · [[Simple-View-of-Reading]] · [[Working-Memory]] · [[Working-Memory-in-Reading]] · [[Cognitive-Load-Theory]] · [[Long-Term-Memory]] · [[Schema-Theory]] · [[Automaticity]] · [[Working-Memory]] · [[Phonological-Loop]] · [[Episodic-Buffer]] · [[Central-Executive]] · [[Working-Memory-Capacity]] · [[Cognitive-Load-Theory]]
+[[fluency-illusion|Fluency-Illusion]] · [[schema-theory|Schema-Theory]] · [[metacognition|Metacognition]] · [[metacognition-in-learning-focused-analysis-2026-03-20]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[textbase|Textbase]] · [[situation-model|Situation-Model]] · [[language-comprehension]] · [[mental-models|Mental-Models]] · [[walter-kintsch|Walter-Kintsch]] · [[textbase|Textbase]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]] · [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]] · [[inferential-bridging|Inferential-Bridging]] · [[elaborative-inference|Elaborative-Inference]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[working-memory|Working-Memory]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[long-term-memory|Long-Term-Memory]] · [[schema-theory|Schema-Theory]] · [[automaticity|Automaticity]] · [[working-memory|Working-Memory]] · [[phonological-loop|Phonological-Loop]] · [[episodic-buffer|Episodic-Buffer]] · [[central-executive|Central-Executive]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[cognitive-load-theory|Cognitive-Load-Theory]]
 
 ## References
 

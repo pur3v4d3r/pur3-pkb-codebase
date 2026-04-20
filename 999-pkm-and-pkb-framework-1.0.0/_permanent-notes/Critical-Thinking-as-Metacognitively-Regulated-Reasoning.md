@@ -5,6 +5,7 @@
 title: "Critical Thinking as Metacognitively-Regulated Reasoning"
 aliases:
   - "Critical Thinking as Metacognitively-Regulated Reasoning"
+  - "Critical-Thinking-as-Metacognitively-Regulated-Reasoning"
   - "CTAMR"
 type: permanent-note
 status: evergreen
@@ -34,8 +35,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -46,7 +47,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -70,41 +71,43 @@ narrower:
   []
 
 see-also:
-  - "[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]]"
-  - "[[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]]"
-  - "[[Dual-Process-Theory|Dual Process Theory]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Argumentation-Theory|Argumentation Theory]]"
-  - "[[Decision-Theory|Decision Theory]]"
-  - "[[Scientific-Method|Scientific Method]]"
-  - "[[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]]"
-  - "[[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]]"
-  - "[[Introduction-to-Metacognition|Introduction to Metacognition]]"
-  - "[[Metacognition]]"
-  - "[[Epistemic-Vigilance|Epistemic Vigilance]]"
-  - "[[Decision-Making|Decision Making]]"
-  - "[[Cognitive-Biases|Cognitive Biases]]"
-  - "[[Scientific-Reasoning|Scientific Reasoning]]"
-  - "[[Argument-Analysis|Argument Analysis]]"
-  - "[[Socratic-Questioning-Methodology|Socratic Questioning Methodology]]"
-  - "[[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]]"
+  - "[[critical-thinking-skills-and-metacognitive-self-regulation|Critical-Thinking-Skills-and-Metacognitive-Self-Regulation]]"
+  - "[[critical-thinking-skills-and-metacognitive-self-regulation|Critical-Thinking-Skills-and-Metacognitive-Self-Regulation]]"
+  - "[[cognitive-biases-and-debiasing-strategies|Cognitive-Biases-and-Debiasing-Strategies]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[argumentation-theory|Argumentation-Theory]]"
+  - "[[decision-theory|Decision-Theory]]"
+  - "[[scientific-method|Scientific-Method]]"
+  - "[[introduction-to-critical-thinking|Introduction-to-Critical-Thinking]]"
+  - "[[argument-analysis-fundamentals|Argument-Analysis-Fundamentals]]"
+  - "[[introduction-to-metacognition|Introduction-to-Metacognition]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[epistemic-vigilance|Epistemic-Vigilance]]"
+  - "[[decision-making|Decision-Making]]"
+  - "[[cognitive-biases|Cognitive-Biases]]"
+  - "[[scientific-reasoning|Scientific-Reasoning]]"
+  - "[[argument-analysis|Argument-Analysis]]"
+  - "[[socratic-questioning-methodology|Socratic-Questioning-Methodology]]"
+  - "[[intellectual-humility-and-epistemic-virtue|Intellectual-Humility-and-Epistemic-Virtue]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Foundational-Logic|Foundational Logic]]"
-  - "[[Cognitive-Development-Theory|Cognitive Development Theory]]"
-  - "[[Information-Processing-Models|Information Processing Models]]"
+  - "[[foundational-logic|Foundational-Logic]]"
+  - "[[cognitive-development-theory|Cognitive-Development-Theory]]"
+  - "[[information-processing-models|Information-Processing-Models]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik|**[[Computational Modeling of Metacognitive Control]]** uses cognitive architectures like ACT-R to s]]"
+  - topic: "[[**[[Computational Modeling of Metacognitive Control]]** uses cognitive architectures like ACT-R to s]]"
     description: ""
     priority: medium
-  - topic: "[[This-treatment-generates-several-high-value-expansion-opportunities-1.-!topic-id|This treatment generates several high-value expansion opportunities:
+  - topic: "[[This treatment generates several high-value expansion opportunities:
 
 1. > [!topic-idea] **[[Domain]]"
     description: ""
@@ -121,7 +124,7 @@ importance: high
 # Critical Thinking as Metacognitively-Regulated Reasoning
 
 > [!definition] **Critical Thinking as Metacognitively-Regulated Reasoning** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*
-> **[[Critical-Thinking]]** is defined operationally as the deliberate application of reasoning skills and strategies that increase the probability of reaching sound conclusions through purposeful, reflective judgment, mediated by metacognitive monitoring and control processes that regulate strategy selection, execution monitoring, and error correction. This definition emphasizes that critical thinking is fundamentally a *metacognitive process* rather than simply a collection of reasoning techniques, distinguishing skilled critical thinkers not by their possession of reasoning tools but by their ability to deploy them appropriately based on task characteristics and contextual demands.
+> **[[critical-thinking|Critical Thinking]]** is defined operationally as the deliberate application of reasoning skills and strategies that increase the probability of reaching sound conclusions through purposeful, reflective judgment, mediated by metacognitive monitoring and control processes that regulate strategy selection, execution monitoring, and error correction. This definition emphasizes that critical thinking is fundamentally a *metacognitive process* rather than simply a collection of reasoning techniques, distinguishing skilled critical thinkers not by their possession of reasoning tools but by their ability to deploy them appropriately based on task characteristics and contextual demands.
 
 ## Core Explanation
 
@@ -175,7 +178,7 @@ importance: high
 > Consider a professional evaluating competing job offers—a naturally occurring critical thinking task. **Planning** begins by establishing evaluation criteria (compensation, growth opportunities, work-life balance, cultural fit, location) and determining information gathering strategies (researching companies, networking with current employees, analyzing benefits packages). **Information management** structures the incoming data through comparison matrices that prevent working memory overload and enable systematic analysis across criteria. **Monitoring** tracks emerging preferences against…
 
 > [!example] **Calibration Exercise: Argument Analysis** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*
-> A learner evaluates a persuasive political argument, identifying its premises, assessing evidence quality, detecting potential logical fallacies, and determining overall argument strength. Using the critical thinking rubric, they rate their analysis as "strong" based on confidence that they correctly identified all major premises and accurately assessed supporting evidence. Expert evaluation rates the analysis as "acceptable," noting that while premise identification was thorough, the learner failed to detect a significant [[Straw-Man]] fallacy where the argument misrepresented opposing…
+> A learner evaluates a persuasive political argument, identifying its premises, assessing evidence quality, detecting potential logical fallacies, and determining overall argument strength. Using the critical thinking rubric, they rate their analysis as "strong" based on confidence that they correctly identified all major premises and accurately assessed supporting evidence. Expert evaluation rates the analysis as "acceptable," noting that while premise identification was thorough, the learner failed to detect a significant [[Straw-Man|Straw Man]] fallacy where the argument misrepresented…
 
 > [!example] **Recognition Pattern: The Medical Headline** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*
 > You encounter: "New Study Shows Coffee Reduces Cancer Risk by 40%"
@@ -234,140 +237,36 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]]
-- [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]]
-- [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]]
+- [[metacognition|Metacognition]]
+- [[dual-process-theory|Dual-Process-Theory]]
+- [[epistemic-vigilance|Epistemic-Vigilance]]
+- [[decision-making|Decision-Making]]
+- [[cognitive-biases|Cognitive-Biases]]
+- [[scientific-reasoning|Scientific-Reasoning]]
+- [[argument-analysis|Argument-Analysis]]
+- [[socratic-questioning-methodology|Socratic-Questioning-Methodology]]
+- [[intellectual-humility-and-epistemic-virtue|Intellectual-Humility-and-Epistemic-Virtue]]
+- [[bayesian-reasoning-and-probabilistic-thinking|Bayesian-Reasoning-and-Probabilistic-Thinking]]
 
 **Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[argument-analysis|Argument-Analysis]]
+- [[decision-making|Decision-Making]]
+- [[scientific-reasoning|Scientific-Reasoning]]
+- [[dual-process-theory|Dual-Process-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
 
 **Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[metacognition|Metacognition]]
+- [[dual-process-theory|Dual-Process-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[argument-analysis|Argument-Analysis]]
+- [[decision-making|Decision-Making]]
+- [[cognitive-biases|Cognitive-Biases]]
+- [[scientific-reasoning|Scientific-Reasoning]]
+- [[epistemic-vigilance|Epistemic-Vigilance]]
 
 **Related concepts:**
-[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] · [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] · [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Argumentation-Theory|Argumentation Theory]] · [[Decision-Theory|Decision Theory]] · [[Scientific-Method|Scientific Method]] · [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] · [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] · [[Introduction-to-Metacognition|Introduction to Metacognition]] · [[Metacognition]] · [[Dual-Process-Theory|Dual Process Theory]] · [[Epistemic-Vigilance|Epistemic Vigilance]] · [[Decision-Making|Decision Making]] · [[Cognitive-Biases|Cognitive Biases]] · [[Scientific-Reasoning|Scientific Reasoning]] · [[Argument-Analysis|Argument Analysis]] · [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]] · [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]] · [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]] · [[Argument-Mapping-and-Visualization|Argument Mapping and Visualization]] · [[Cognitive-Forcing-Functions|Cognitive Forcing Functions]] · [[Epistemic-Peer-Disagreement|Epistemic Peer Disagreement]] · [[Reflective-Equilibrium|Reflective Equilibrium]] · [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] · [[Red-Team-Thinking|Red Team Thinking]] · [[Cognitive-Task-Analysis|Cognitive Task Analysis]] · [[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] · [[Metacognition]]
-
-**Related concepts** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] * [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Argumentation-Theory|Argumentation Theory]] * [[Decision-Theory|Decision Theory]] * [[Scientific-Method|Scientific Method]] * [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] * [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] * [[Introduction-to-Metacognition|Introduction to Metacognition]] * [[Epistemic-Vigilance|Epistemic Vigilance]] * [[Decision-Making|Decision Making]] * [[Cognitive-Biases|Cognitive Biases]] * [[Scientific-Reasoning|Scientific Reasoning]] * [[Argument-Analysis|Argument Analysis]] * [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]] * [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]] * [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]] * [[Argument-Mapping-and-Visualization|Argument Mapping and Visualization]] * [[Cognitive-Forcing-Functions|Cognitive Forcing Functions]] * [[Epistemic-Peer-Disagreement|Epistemic Peer Disagreement]] * [[Reflective-Equilibrium|Reflective Equilibrium]] * [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] * [[Red-Team-Thinking|Red Team Thinking]] * [[Cognitive-Task-Analysis|Cognitive Task Analysis]] * [[Critical-Thinking-Skills|Critical Thinking Skills]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[PENCRISAL|PENCRISAL]] * [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] * [[Critical-Thinking|Critical Thinking]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-
-**Related concepts** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-[[Critical-Thinking-Skills-and-Metacognitive-Self-Regulation|Critical Thinking Skills and Metacognitive Self-Regulation]] * [[Cognitive-Biases-and-Debiasing-Strategies|Cognitive Biases and Debiasing Strategies]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Argumentation-Theory|Argumentation Theory]] * [[Decision-Theory|Decision Theory]] * [[Scientific-Method|Scientific Method]] * [[Introduction-to-Critical-Thinking|Introduction to Critical Thinking]] * [[Argument-Analysis-Fundamentals|Argument Analysis Fundamentals]] * [[Introduction-to-Metacognition|Introduction to Metacognition]] * [[Epistemic-Vigilance|Epistemic Vigilance]] * [[Decision-Making|Decision Making]] * [[Cognitive-Biases|Cognitive Biases]] * [[Scientific-Reasoning|Scientific Reasoning]] * [[Argument-Analysis|Argument Analysis]] * [[Socratic-Questioning-Methodology|Socratic Questioning Methodology]] * [[Intellectual-Humility-and-Epistemic-Virtue|Intellectual Humility and Epistemic Virtue]] * [[Bayesian-Reasoning-and-Probabilistic-Thinking|Bayesian Reasoning and Probabilistic Thinking]] * [[Argument-Mapping-and-Visualization|Argument Mapping and Visualization]] * [[Cognitive-Forcing-Functions|Cognitive Forcing Functions]] * [[Epistemic-Peer-Disagreement|Epistemic Peer Disagreement]] * [[Reflective-Equilibrium|Reflective Equilibrium]] * [[Pre-Mortem-Analysis|Pre-Mortem Analysis]] * [[Red-Team-Thinking|Red Team Thinking]] * [[Cognitive-Task-Analysis|Cognitive Task Analysis]] * [[Critical-Thinking-Skills|Critical Thinking Skills]] * [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] * [[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]] * [[Critical-Thinking|Critical Thinking]] * [[Diane-Halpern|Diane Halpern]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Epistemic-Vigilance|Epistemic Vigilance]]
-- [[Decision-Making|Decision Making]]
-- [[Cognitive-Biases|Cognitive Biases]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-- [[Scientific-Reasoning|Scientific Reasoning]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-
-**Cross-report connections** *(from [[cog-psy-critical-thinking-metacognitive-regulation]])*:
-- [[Metacognition|Metacognition]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Argument-Analysis|Argument Analysis]]
-- [[Decision-Making|Decision Making]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[critical-thinking-skills-and-metacognitive-self-regulation|Critical-Thinking-Skills-and-Metacognitive-Self-Regulation]] · [[critical-thinking-skills-and-metacognitive-self-regulation|Critical-Thinking-Skills-and-Metacognitive-Self-Regulation]] · [[cognitive-biases-and-debiasing-strategies|Cognitive-Biases-and-Debiasing-Strategies]] · [[dual-process-theory|Dual-Process-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[argumentation-theory|Argumentation-Theory]] · [[decision-theory|Decision-Theory]] · [[scientific-method|Scientific-Method]] · [[introduction-to-critical-thinking|Introduction-to-Critical-Thinking]] · [[argument-analysis-fundamentals|Argument-Analysis-Fundamentals]] · [[introduction-to-metacognition|Introduction-to-Metacognition]] · [[metacognition|Metacognition]] · [[dual-process-theory|Dual-Process-Theory]] · [[epistemic-vigilance|Epistemic-Vigilance]] · [[decision-making|Decision-Making]] · [[cognitive-biases|Cognitive-Biases]] · [[scientific-reasoning|Scientific-Reasoning]] · [[argument-analysis|Argument-Analysis]] · [[socratic-questioning-methodology|Socratic-Questioning-Methodology]] · [[intellectual-humility-and-epistemic-virtue|Intellectual-Humility-and-Epistemic-Virtue]] · [[bayesian-reasoning-and-probabilistic-thinking|Bayesian-Reasoning-and-Probabilistic-Thinking]] · [[argument-mapping-and-visualization|Argument-Mapping-and-Visualization]] · [[cognitive-forcing-functions|Cognitive-Forcing-Functions]] · [[epistemic-peer-disagreement|Epistemic-Peer-Disagreement]] · [[reflective-equilibrium|Reflective-Equilibrium]] · [[pre-mortem-analysis|Pre-Mortem-Analysis]] · [[red-team-thinking|Red-Team-Thinking]] · [[cognitive-task-analysis|Cognitive-Task-Analysis]] · [[critical-thinking-skills-and-metacognitive-self-regulation|Critical-Thinking-Skills-and-Metacognitive-Self-Regulation]] · [[metacognition|Metacognition]]
 
 ## References
 

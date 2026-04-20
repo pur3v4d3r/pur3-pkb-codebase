@@ -68,7 +68,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows]]
 
-**Synthesis Focus:** How do [[Schema-Theory]], [[Knowledge-Organization-Systems]], and [[Constructivism]] converge to inform the structural design of a PKB?
+**Synthesis Focus:** How do [[schema-theory]], [[Knowledge-Organization-Systems]], and [[constructivism]] converge to inform the structural design of a PKB?
 **Disciplines:** Cognitive Psychology, Knowledge Management, Constructivism, Information Science
 **Original Contribution:** **[[Cognitive-Alignment-Principle]]** — Three-dimensional PKB design framework (relational alignment, depth alignment, construction alignment)
 **Feeds Into:** Reports 02, 03, 06, 09, 15
@@ -78,7 +78,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[02-architecture-of-learning-pkm-framework-2026-03-13|Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 
-**Synthesis Focus:** How do [[Cognitive-Load-Theory]], [[Working-Memory]] constraints, and [[Instructional-Design]] principles determine what makes a PKB note learnable vs. overwhelming?
+**Synthesis Focus:** How do [[cognitive-load-theory]], [[working-memory]] constraints, and [[instructional-design]] principles determine what makes a PKB note learnable vs. overwhelming?
 **Disciplines:** Cognitive Psychology (CLT), Instructional Design, Learning Experience Design
 **Original Contribution:** **[[Load Profile Framework]]** — Four-dimensional note classification (intrinsic load, extraneous load, germane load, note function)
 **Builds On:** Report 01 | **Feeds Into:** Reports 04, 07, 10, 16
@@ -87,16 +87,16 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[03-constructing-understanding-pkm-framework-2026-03-13|Report 03: Constructing Understanding — How Knowledge Builds on Knowledge]]
 
-**Synthesis Focus:** How do [[Constructivism]], [[Elaboration-Theory]], and [[Schema-Theory]] explain knowledge construction, and what does this mean for note linking and layering?
+**Synthesis Focus:** How do [[constructivism]], [[Elaboration-Theory]], and [[schema-theory]] explain knowledge construction, and what does this mean for note linking and layering?
 **Disciplines:** Educational Philosophy, Cognitive Psychology, Instructional Design
-**Original Contribution:** **[[Schema-Progressive-Architecture]]** — Three-layer note organization (Epitome Notes, Elaboration Notes, Accommodation Notes)
+**Original Contribution:** **[[schema-progressive-architecture]]** — Three-layer note organization (Epitome Notes, Elaboration Notes, Accommodation Notes)
 **Builds On:** Reports 01, 02 | **Feeds Into:** Reports 05, 08, 11, 17
 
 ---
 
 ### [[04-metacognitive-self-regulation-pkm-framework-2026-03-13|Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 
-**Synthesis Focus:** How do [[Metacognition]], [[Self-Regulated-Learning]], and [[Reflective-Thinking]] combine to form the cognitive control system that makes PKM effective?
+**Synthesis Focus:** How do [[metacognition]], [[self-regulated-learning]], and [[reflective-thinking]] combine to form the cognitive control system that makes PKM effective?
 **Disciplines:** Cognitive Psychology, Educational Psychology, Educational Philosophy, Instructional Design
 **Original Contribution:** **[[Metacognitive PKB]]** — PKB as external metacognitive scaffold, not passive storage
 **Builds On:** Reports 01, 02 | **Feeds Into:** Reports 06, 09, 12, 18
@@ -105,16 +105,16 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[05-motivation-architecture-pkm-framework-2026-03-13|Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
 
-**Synthesis Focus:** How do [[Self-Determination-Theory]], [[Achievement-Goal-Theory]], and [[Mindset Theory]] explain sustained PKB engagement?
+**Synthesis Focus:** How do [[self-determination-theory]], [[achievement-goal-theory]], and [[Mindset Theory]] explain sustained PKB engagement?
 **Disciplines:** Educational Psychology, Psychology of Learning, Stoic Philosophy, Learning Experience Design
-**Original Contribution:** **[[Fourfold-Motivational-Architecture]]** — SDT + AGT + Stoic philosophy + LXD integration for PKB motivation design
+**Original Contribution:** **[[fourfold-motivational-architecture]]** — SDT + AGT + Stoic philosophy + LXD integration for PKB motivation design
 **Builds On:** Reports 03, 04 | **Feeds Into:** Reports 08, 10, 13, 19
 
 ---
 
 ### [[06-science-of-remembering-pkm-framework-2026-03-13|Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 
-**Synthesis Focus:** How do [[Spacing-Effect]], [[Testing-Effect]], [[interleaving]], and [[Desirable-Difficulties]] combine to inform PKB review systems?
+**Synthesis Focus:** How do [[spacing-effect]], [[Testing-Effect]], [[interleaving]], and [[desirable-difficulties]] combine to inform PKB review systems?
 **Disciplines:** Cognitive Psychology, Psychology of Learning, Educational Psychology, Knowledge Management
 **Original Contribution:** **[[Retrieval-Oriented Note Architecture (RONA)]]** — Notes designed as retrieval training instruments from creation
 **Builds On:** Reports 01, 02, 04 | **Feeds Into:** Reports 09, 12, 16, 20
@@ -123,7 +123,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14|Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]
 
-**Synthesis Focus:** How do [[Critical-Thinking]] frameworks, [[Socratic-Questioning]], and [[Epistemic-Vigilance]] inform how PKB users evaluate and refine stored knowledge?
+**Synthesis Focus:** How do [[critical-thinking]] frameworks, [[socratic-questioning]], and [[epistemic-vigilance]] inform how PKB users evaluate and refine stored knowledge?
 **Disciplines:** Cognitive Psychology, Educational Philosophy, Critical Thinking, Metacognition
 **Original Contribution:** **[[External Epistemic Vigilance System (EEVS)]]** — Four-mechanism PKB architecture compensating for biological epistemic limitations
 **Builds On:** Reports 03, 04 | **Feeds Into:** Reports 11, 14, 18, 21
@@ -199,7 +199,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[17-note-making-knowledge-construction-pkm-framework-2026-03-14|Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 
-**Original Contribution:** **[[Articulatory-Construction-Principle]] + [[Cognitive-Event-Model]]** — Notes as records of cognitive construction events, not information containers
+**Original Contribution:** **[[articulatory-construction-principle]] + [[Cognitive-Event-Model]]** — Notes as records of cognitive construction events, not information containers
 **Builds On:** Reports 03, 11 | **Feeds Into:** Reports 21, 27
 
 ---
@@ -251,7 +251,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[25-integration-problem-pkm-framework-2026-03-15|Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 
-**Original Contribution:** **[[Integration-Paradox]] + [[Small-World-PKB-Principle]]** — Optimal PKB topology mirrors expert semantic networks
+**Original Contribution:** **[[integration-paradox]] + [[Small-World-PKB-Principle]]** — Optimal PKB topology mirrors expert semantic networks
 
 ---
 

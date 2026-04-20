@@ -274,7 +274,7 @@ Executing searches now...
 - Connection opportunities: [Strong link candidates]
 
 ### Thought 1: Integration Planning
-The PKB already contains knowledge of [[Concept A]] and [[Theory B]].
+The PKB already contains knowledge of [[Concept-A]] and [[Theory B]].
 This report should:
 - BUILD ON: [existing foundations]
 - EXTEND: [new territory beyond current PKB]
@@ -900,7 +900,7 @@ Where does first-principles understanding change how we should think about [TOPI
 
 ### The Question Beneath the Question
 
-[Prose: 300-400 words. Before answering "What is [TOPIC]?", ask: what question is [TOPIC] actually an answer to? What problem does it address? What would be missing from the world if it did not exist? This section destabilizes comfortable familiarity with the topic — the reader should feel that they are being invited to see something familiar with fresh eyes, connected to [[Philosophical Method]] and [[Epistemic-Humility]].]
+[Prose: 300-400 words. Before answering "What is [TOPIC]?", ask: what question is [TOPIC] actually an answer to? What problem does it address? What would be missing from the world if it did not exist? This section destabilizes comfortable familiarity with the topic — the reader should feel that they are being invited to see something familiar with fresh eyes, connected to [[Philosophical Method]] and [[epistemic-humility]].]
 
 > [!the-philosophy]
 > **The Fundamental Problem [TOPIC] Addresses:** [State the deepest problem — 80-100 words. Not the surface-level use case, but the irreducible gap in understanding or capability that [[TOPIC]] exists to fill.]
@@ -1133,7 +1133,7 @@ YAML METADATA BLOCK
 > **Where Position B Decisively Outperforms Position A:** [80-100 words — specific, evidence-grounded]
 
 > [!key-claim]
-> **The Most Defensible Synthesis:** [100-150 words — not "both sides have merit" but a genuine conclusion about what the weight of argument and evidence supports, connecting to [[Synthesis Method]] and [[Epistemic-Responsibility]]]
+> **The Most Defensible Synthesis:** [100-150 words — not "both sides have merit" but a genuine conclusion about what the weight of argument and evidence supports, connecting to [[Synthesis Method]] and [[epistemic-responsibility]]]
 
 [Synthesis prose: 400-500 words developing the synthesis in full — what does the best available understanding look like given this analysis?]
 
@@ -1215,7 +1215,7 @@ YAML METADATA BLOCK
 > **Opening Question:**
 > [A deceptively simple question about [TOPIC] that, when pursued, reveals unexpected complexity — 40-60 words. This should be something the reader thinks they can answer in one sentence, but cannot.]
 
-[Prose: 200-300 words pursuing the opening question — showing why the obvious answer is insufficient, what complications arise, what the question really requires us to examine. Connect to [[Socratic-Method]] and [[Epistemic-Humility]].]
+[Prose: 200-300 words pursuing the opening question — showing why the obvious answer is insufficient, what complications arise, what the question really requires us to examine. Connect to [[socratic-method]] and [[epistemic-humility]].]
 
 > [!atomic-concept]
 > **What the Opening Question Reveals:** [80-100 words synthesizing what the initial inquiry has surfaced — the naivety of the initial comfortable answer and the direction genuine inquiry must take]
@@ -1365,8 +1365,8 @@ SYNTHETIC CALLOUTS:
 
 ### Rules for Wikilinks
 
-1. **Concepts** — Always link concepts when first introduced: `[[Reflective-Thinking]]`
-2. **Thinkers** — Link on first mention: `[[John-Dewey]]`
+1. **Concepts** — Always link concepts when first introduced: `[[reflective-thinking]]`
+2. **Thinkers** — Link on first mention: `[[john-dewey]]`
 3. **Frameworks** — Link frameworks and theories: `[[Pragmatist Philosophy]]`
 4. **New nodes** — Format new PKB candidates as `[[New Concept Name]]` — the link need not exist yet
 5. **Natural placement** — Links appear within prose where the concept is referenced, never as a list at section end
@@ -1613,7 +1613,7 @@ DECISION:
 ```
 GENERATE REPORT: [TOPIC]
 SCAFFOLD: [foundational | first-principles | analytical | socratic | auto]
-EXISTING CONCEPTS: [[Concept A]], [[Theory B]] (optional)
+EXISTING CONCEPTS: [[Concept-A]], [[Theory B]] (optional)
 DEPTH: [standard | deep | maximum] (default: maximum)
 ```
 

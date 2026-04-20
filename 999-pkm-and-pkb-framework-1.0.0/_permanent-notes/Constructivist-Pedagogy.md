@@ -5,6 +5,7 @@
 title: "Constructivist Pedagogy"
 aliases:
   - "Constructivist Pedagogy"
+  - "Constructivist-Pedagogy"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -31,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,7 +44,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -67,51 +68,51 @@ narrower:
   []
 
 see-also:
-  - "[[Constructivist-Learning-Theory]]"
-  - "[[Educational-Psychology]]"
-  - "[[Cognitive-Psychology-Foundations]]"
-  - "[[Jean-Piaget]]"
-  - "[[Lev-Vygotsky]]"
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition]]"
-  - "[[Schema-Theory]]"
+  - "[[constructivist-learning-theory|Constructivist-Learning-Theory]]"
+  - "[[educational-psychology|Educational-Psychology]]"
+  - "[[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]]"
+  - "[[jean-piaget|Jean-Piaget]]"
+  - "[[lev-vygotsky|Lev-Vygotsky]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[schema-theory|Schema-Theory]]"
   - "[[schemas]]"
-  - "[[Metacognition]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Schema-Theory]]"
-  - "[[Metacognition]]"
-  - "[[Situated-Learning-Theory]]"
-  - "[[Inquiry-Based-Learning]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Constructivism]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[situated-learning-theory|Situated-Learning-Theory]]"
+  - "[[inquiry-based-learning|Inquiry-Based-Learning]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[constructivism|Constructivism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive-Psychology-Foundations]]"
-  - "[[Genetic-Epistemology]]"
+  - "[[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]]"
+  - "[[genetic-epistemology|Genetic-Epistemology]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-1.-Embodied-Cognition-and-Constructivism-Connection-Constructivism's|> [!topic-idea] 1. [[Embodied-Cognition]] and Constructivism
+  - topic: "[[> [!topic-idea] 1. [[embodied-cognition]] and Constructivism
 > - *Connection:* Constructivism's clai]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-2.-Self-Regulated-Learning-as-Applied-Constructivism-Connection-Self|> [!topic-idea] 2. [[Self-Regulated-Learning]] as Applied Constructivism
+  - topic: "[[> [!topic-idea] 2. [[self-regulated-learning]] as Applied Constructivism
 > - *Connection:* Self-regu]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-3.-Conceptual-Change-Theory-in-Depth-Connection-Conceptual-change-is|> [!topic-idea] 3. [[Conceptual-Change-Theory]] in Depth
+  - topic: "[[> [!topic-idea] 3. [[Conceptual-Change-Theory]] in Depth
 > - *Connection:* Conceptual change is the ]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-4.-Cognitive-Load-Theory-as-Constructivist-Mechanistic-Underpinning|> [!topic-idea] 4. [[Cognitive-Load-Theory]] as Constructivist Mechanistic Underpinning
+  - topic: "[[> [!topic-idea] 4. [[cognitive-load-theory]] as Constructivist Mechanistic Underpinning
 > - *Connect]]"
     description: ""
     priority: medium
@@ -201,7 +202,7 @@ importance: high
 > **Position:** American cognitive psychologist; Harvard, New York University; key figure in cognitive revolution and constructivist education
 > **Core contribution:** Spiral curriculum; discovery learning; enactive-iconic-symbolic representation modes; narrative as a mode of thought; cultural psychology.
 > **Key works:** *The Process of Education* (1960); *Toward a Theory of Instruction* (1966); *Actual Minds, Possible Worlds* (1986); *The Culture of Education* (1996)
-> *See also:* [[Jerome-Bruner]], [[Discovery-Learning]], [[Generative-Learning-Theory]]
+> *See also:* [[jerome-bruner]], [[discovery-learning]], [[generative-learning-theory]]
 
 > [!person] **Ernst von Glasersfeld (1917–2010)** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
 > **Position:** Austrian-American cyberneticist and epistemologist; primary theorist of radical constructivism
@@ -261,7 +262,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: What You Already Know About Construction** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
-> Before reading, consider what you likely already know. You have almost certainly encountered the idea that "learning by doing" is more effective than passive listening — this intuition has constructivist roots. If you have studied [[Schema-Theory]], you know that new information gets processed through the lens of existing knowledge structures ([[schemas]]) — that prior knowledge actively shapes what we learn and remember. If you've engaged with [[Metacognition]], you know that learners who monitor their understanding, detect gaps, and adjust their strategies learn more deeply than those who…
+> Before reading, consider what you likely already know. You have almost certainly encountered the idea that "learning by doing" is more effective than passive listening — this intuition has constructivist roots. If you have studied [[schema-theory]], you know that new information gets processed through the lens of existing knowledge structures ([[schemas]]) — that prior knowledge actively shapes what we learn and remember. If you've engaged with [[metacognition]], you know that learners who monitor their understanding, detect gaps, and adjust their strategies learn more deeply than those who…
 
 ## Far Transfer Applications
 
@@ -278,7 +279,7 @@ importance: high
 > [!far-transfer] **Constructivism and Organizational Learning** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
 > **Structural principle transferred:** Organizations, like individual minds, construct knowledge through active experience and social negotiation rather than receiving it through information transmission. The knowledge most crucial for organizational performance — practical know-how, contextual judgment, coordination routines — is tacit, schema-embedded, and generated through situated practice in communities of organizational activity.
 > 
-> **Application:** Wenger's [[Communities-of-Practice|communities of practice]] framework applies Vygotskian and situated learning insights directly to…
+> **Application:** Wenger's [[communities-of-practice|communities of practice]] framework applies Vygotskian and situated learning insights directly to…
 
 > [!far-transfer] **Constructivism and Therapeutic Change** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
 > **Structural principle transferred:** Psychological distress often reflects the construction of meaning frameworks (schemas, narratives, attachment models) that are adaptive in their original construction context but become rigid and dysregulated in changed circumstances. Therapeutic change involves not the passive reception of corrective information but the active reconstruction of meaning frameworks through new experience, relational scaffolding, and cognitive elaboration.
@@ -392,34 +393,34 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*:
-- [[Cognitive-Psychology-Foundations]]
-- [[Educational-Psychology]]
-- [[Epistemology-and-Philosophy-of-Science]]
+- [[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]]
+- [[educational-psychology|Educational-Psychology]]
+- [[epistemology-and-philosophy-of-science|Epistemology-and-Philosophy-of-Science]]
 - [[pragmatism]]
-- [[Empiricism]]
+- [[empiricism|Empiricism]]
 
 **Cross-report connections** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*:
-- [[Self-Regulated-Learning]]
-- [[Instructional-Design]]
-- [[Formative-Assessment]]
-- [[Inquiry-Based-Learning]]
-- [[Personal-Knowledge-Management]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[instructional-design|Instructional-Design]]
+- [[formative-assessment|Formative-Assessment]]
+- [[inquiry-based-learning|Inquiry-Based-Learning]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
 
 **Cross-report connections** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*:
-- [[Cognitive-Load-Theory]]
-- [[Metacognition]]
-- [[Schema-Theory]]
-- [[Meaningful-Learning-Theory]]
-- [[Situated-Learning-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[metacognition|Metacognition]]
+- [[schema-theory|Schema-Theory]]
+- [[meaningful-learning-theory|Meaningful-Learning-Theory]]
+- [[situated-learning-theory|Situated-Learning-Theory]]
 
 **Cross-report connections** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*:
-- [[Personal-Knowledge-Base]]
-- [[Communities-of-Practice]]
-- [[Deliberate-Practice]]
-- [[Note-Making-vs-Note-Taking]]
+- [[personal-knowledge-base|Personal-Knowledge-Base]]
+- [[communities-of-practice|Communities-of-Practice]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[note-making-vs-note-taking|Note-Making-vs-Note-Taking]]
 
 **Related concepts:**
-[[Constructivist-Learning-Theory]] · [[Educational-Psychology]] · [[Cognitive-Psychology-Foundations]] · [[Jean-Piaget]] · [[Lev-Vygotsky]] · [[Schema-Theory]] · [[Cognitive-Load-Theory]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Schema-Theory]] · [[schemas]] · [[Metacognition]] · [[Cognitive-Load-Theory]] · [[Self-Regulated-Learning]] · [[Schema-Theory]] · [[Metacognition]] · [[Situated-Learning-Theory]] · [[Inquiry-Based-Learning]] · [[Cognitive-Load-Theory]] · [[Constructivism]] · [[Empiricism]] · [[John-Dewey]] · [[pragmatism]] · [[Dewey's-Reflective-Thinking]] · [[David-Ausubel]] · [[Meaningful-Learning-Theory]] · [[radical-constructivism]] · [[Jean-Piaget]] · [[Assimilation-and-Accommodation]] · [[Equilibration]]
+[[constructivist-learning-theory|Constructivist-Learning-Theory]] · [[educational-psychology|Educational-Psychology]] · [[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]] · [[jean-piaget|Jean-Piaget]] · [[lev-vygotsky|Lev-Vygotsky]] · [[schema-theory|Schema-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition|Metacognition]] · [[schema-theory|Schema-Theory]] · [[schemas]] · [[metacognition|Metacognition]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[schema-theory|Schema-Theory]] · [[metacognition|Metacognition]] · [[situated-learning-theory|Situated-Learning-Theory]] · [[inquiry-based-learning|Inquiry-Based-Learning]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[constructivism|Constructivism]] · [[empiricism|Empiricism]] · [[john-dewey|John-Dewey]] · [[pragmatism]] · [[deweys-reflective-thinking|Dewey's-Reflective-Thinking]] · [[david-ausubel|David-Ausubel]] · [[meaningful-learning-theory|Meaningful-Learning-Theory]] · [[radical-constructivism]] · [[jean-piaget|Jean-Piaget]] · [[assimilation-and-accommodation|Assimilation-and-Accommodation]] · [[equilibration|Equilibration]]
 
 ## References
 
@@ -441,13 +442,13 @@ importance: high
 ## Methodology Notes
 
 > [!methodology-and-sources] **Epistemological Clarification** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
-> The epistemological debates within constructivism have direct educational consequences. A radical constructivist will argue that the teacher cannot "tell" the learner what is true — only present an environment that makes certain conceptual constructions more viable than others. A social constructivist will argue that the teacher's role is to provide expert guidance within the [[Zone-of-Proximal-Development|zone of proximal development]]. A situated constructivist will argue that authentic community participation is the only genuine learning context. These are not merely philosophical…
+> The epistemological debates within constructivism have direct educational consequences. A radical constructivist will argue that the teacher cannot "tell" the learner what is true — only present an environment that makes certain conceptual constructions more viable than others. A social constructivist will argue that the teacher's role is to provide expert guidance within the [[zone-of-proximal-development|zone of proximal development]]. A situated constructivist will argue that authentic community participation is the only genuine learning context. These are not merely philosophical…
 
 > [!methodology-and-sources] **Evidence Base for Constructivist Pedagogy** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
 > The empirical literature on constructivist pedagogy is extensive but methodologically heterogeneous. Strong meta-analytic support exists for: retrieval practice and spacing (Roediger, Karpicke — testing effect); worked-example fading and problem-solving practice in novice versus expert learners (Kalyuga — expertise reversal effect); formative assessment and feedback (Hattie and Timperley 2007 meta-analysis; Black and Wiliam 1998); and collaborative learning with structured interdependence (Johnson and Johnson meta-analyses). More contested is the evidence for pure discovery learning and…
 
 > [!methodology-and-sources] **Transfer Research Grounding** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
-> The application of domain-specific insights to new contexts depends on what learning researchers call [[Transfer-of-Learning|transfer of learning]] — the extent to which knowledge and skills acquired in one context are deployed in another. *Near transfer* involves applying learned material to highly similar situations; *far transfer* involves applying abstract principles and structural patterns to superficially dissimilar domains. The constructivist principle that understanding requires active construction of meaning — not passive reception — is structural at a deep level and should transfer…
+> The application of domain-specific insights to new contexts depends on what learning researchers call [[transfer-of-learning|transfer of learning]] — the extent to which knowledge and skills acquired in one context are deployed in another. *Near transfer* involves applying learned material to highly similar situations; *far transfer* involves applying abstract principles and structural patterns to superficially dissimilar domains. The constructivist principle that understanding requires active construction of meaning — not passive reception — is structural at a deep level and should transfer…
 
 > [!methodology-and-sources] **Research Methodology and Epistemic Transparency** *(from [[constructivist-learning-theory-foundational-report-2026-04-03]])*
 > **Generation method:** This report was produced through multi-pass analytical synthesis drawing on established literature in educational psychology, cognitive science, and the philosophy of education. The architecture was selected through a self-consistency process evaluating three structural alternatives; sections were developed through Chain of Density layering (Foundation → Enrichment → Integration → Advanced Synthesis).

@@ -35,14 +35,14 @@ tags:
 
 [[philosophy-of-mind]]
 [[Reflective Consciousness]]
-[[Schema-Theory]]
-[[Deep-Processing]]
-[[Decision-Theory]]
-[[Argumentation-Theory]]
-[[Information-Literacy]]
+[[schema-theory]]
+[[deep-processing]]
+[[decision-theory]]
+[[argumentation-theory]]
+[[information-literacy]]
 [[Problem-Solving]]
 [[Creative Thinking]]
-[[Cognitive-Development]]
+[[cognitive-development]]
 
 
 

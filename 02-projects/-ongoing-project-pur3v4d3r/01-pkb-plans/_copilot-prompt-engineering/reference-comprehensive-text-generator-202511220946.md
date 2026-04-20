@@ -273,7 +273,7 @@ Recent plugin versions support Gemini integration with model retrieval:
 
 ## ✍️ Prompt Engineering Within Text Generator
 
-Text Generator implements a sophisticated [[Template-System]] using [[YAML-Frontmatter]] to define reusable prompts. This enables component-based [[Prompt-Engineering]] directly within your vault.
+Text Generator implements a sophisticated [[Template-System]] using [[yaml-frontmatter]] to define reusable prompts. This enables component-based [[Prompt-Engineering]] directly within your vault.
 
 ### Template Architecture
 
@@ -377,7 +377,7 @@ This template generates concise summaries of selected text.
 > Unlike general-purpose LLM prompting, Text Generator operates within your vault's semantic context. Effective prompts leverage this:
 > 
 > **1. Reference Your Ontology**: Include vault-specific terminology  
-> *Example*: "Using concepts from my [[Zettelkasten]], connect this idea to..."
+> *Example*: "Using concepts from my [[zettelkasten]], connect this idea to..."
 > 
 > **2. Maintain Linking Conventions**: Instruct model to use wiki-links  
 > *Example*: "Format related concepts as [[wiki-links]] following my naming convention"
@@ -389,7 +389,7 @@ This template generates concise summaries of selected text.
 > *Example*: "Structure using my standard sections: Definition, Examples, Applications, Related"
 > 
 > **5. Leverage Existing Context**: Reference other notes  
-> *Example*: "Expand on this concept, assuming reader has read [[Self-Regulated-Learning]]"
+> *Example*: "Expand on this concept, assuming reader has read [[self-regulated-learning]]"
 
 ### Template Organization Strategy
 
@@ -1749,7 +1749,7 @@ Structural Planning:
   6. Troubleshooting and optimization
   
 - Wiki-Link Opportunities:
-  [[Obsidian]], [[Local LLM]], [[Prompt-Engineering]], [[API Integration]], [[Templater]], [[Dataview]], [[LM Studio]], [[Ollama]], [[Context-Window]], [[Temperature]], [[Token]], [[Markdown]], [[YAML-Frontmatter]], [[Zettelkasten]], [[PKB]]
+  [[obsidian]], [[Local LLM]], [[Prompt-Engineering]], [[API Integration]], [[Templater]], [[Dataview]], [[LM Studio]], [[Ollama]], [[Context-Window]], [[Temperature]], [[Token]], [[Markdown]], [[yaml-frontmatter]], [[zettelkasten]], [[PKB]]
 
 - Callout Strategy:
   - [!definition] for core concepts

@@ -5,6 +5,7 @@
 title: "Origin-Pawn Concept"
 aliases:
   - "Origin-Pawn Concept"
+  - "Origin-Pawn-Concept"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -28,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -40,7 +41,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -64,39 +65,39 @@ narrower:
   []
 
 see-also:
-  - "[[Motivational-Psychology]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Overjustification-Effect]]"
-  - "[[Feedback-Design-for-Autonomy-and-Mastery]]"
-  - "[[Edward-Deci]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Locus-of-Control]]"
-  - "[[Perceived-Competence]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Autonomy-Support]]"
-  - "[[Perceived-Locus-of-Causality]]"
-  - "[[Free-Choice-Behaviour]]"
-  - "[[Ego-Involvement]]"
-  - "[[Learned-Helplessness]]"
-  - "[[Competence-Need]]"
-  - "[[Motivational-Climate]]"
-  - "[[Autonomy-Support]]"
+  - "[[motivational-psychology|Motivational-Psychology]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[overjustification-effect|Overjustification-Effect]]"
+  - "[[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[locus-of-control|Locus-of-Control]]"
+  - "[[perceived-competence|Perceived-Competence]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[autonomy-support|Autonomy-Support]]"
+  - "[[perceived-locus-of-causality|Perceived-Locus-of-Causality]]"
+  - "[[free-choice-behaviour|Free-Choice-Behaviour]]"
+  - "[[ego-involvement|Ego-Involvement]]"
+  - "[[learned-helplessness|Learned-Helplessness]]"
+  - "[[competence-need|Competence-Need]]"
+  - "[[motivational-climate|Motivational-Climate]]"
+  - "[[autonomy-support|Autonomy-Support]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Intrinsic-Motivation]]"
-  - "[[Self-Determination-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Organismic-Integration-Theory-—-The-Internalization-Continuum-CET-ad|> [!topic-idea] [[Organismic-Integration-Theory]] — The Internalization Continuum
+  - topic: "[[> [!topic-idea] [[organismic-integration-theory]] — The Internalization Continuum
 > CET addresses on]]"
     description: ""
     priority: medium
@@ -113,12 +114,12 @@ importance: high
 
 > [!definition] **Origin-Pawn Concept** *(from [[cognitive-evaluation-theory-foundational-report-2026-04-01]])*
 > [**Origin-Pawn-Definition**:: Richard deCharms's (1968) metaphor for the experiential quality of personal causation. An "origin" experiences themselves as the initiator and source of their actions; a "pawn" experiences themselves as moved, directed, and controlled by external forces. CET's Perceived Locus of Causality construct is a direct formalization of deCharms's phenomenological distinction. The origin-pawn dimension captures the qualitative difference between autonomous and controlled motivation that is central to all of SDT.]
-> *See also: [[Perceived-Locus-of-Causality]], [[Autonomy]], [[Self-Determination-Theory]]*
+> *See also: [[perceived-locus-of-causality]], [[autonomy]], [[self-determination-theory]]*
 
 ## Core Explanation
 
 > [!evidence] Supporting Evidence *(from [[cognitive-evaluation-theory-foundational-report-2026-04-01]])*
-> [**Cross-Cultural-CET-Evidence**:: Multiple cross-cultural studies (Chirkov et al., 2003; Vansteenkiste et al., 2012) support the universality of the basic CET autonomy-intrinsic motivation relationship, while finding that the behavioral configurations through which autonomy support is expressed vary across cultures. This pattern is consistent with [[Basic-Psychological-Needs-Theory]]'s claim that autonomy is a universal psychological need, while allowing that its expression and satisfaction…
+> [**Cross-Cultural-CET-Evidence**:: Multiple cross-cultural studies (Chirkov et al., 2003; Vansteenkiste et al., 2012) support the universality of the basic CET autonomy-intrinsic motivation relationship, while finding that the behavioral configurations through which autonomy support is expressed vary across cultures. This pattern is consistent with [[basic-psychological-needs-theory]]'s claim that autonomy is a universal psychological need, while allowing that its expression and satisfaction…
 
 > [!evidence] Supporting Evidence *(from [[cognitive-evaluation-theory-foundational-report-2026-04-01]])*
 > - Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology*, 18(1), 105-115.
@@ -237,7 +238,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: What You Already Know That Connects Here** *(from [[cognitive-evaluation-theory-foundational-report-2026-04-01]])*
-> Before engaging with the technical architecture of CET, consider what you already know that intersects with this theory. If you have studied [[Self-Determination-Theory]], you know that human beings possess three fundamental psychological needs: autonomy (the need to experience one's actions as self-initiated), competence (the need to feel effective), and relatedness (the need for meaningful connection). CET is the minitheory within SDT that addresses how the *environment* — particularly reward structures, feedback systems, evaluative practices, and interpersonal styles — interacts with these…
+> Before engaging with the technical architecture of CET, consider what you already know that intersects with this theory. If you have studied [[self-determination-theory]], you know that human beings possess three fundamental psychological needs: autonomy (the need to experience one's actions as self-initiated), competence (the need to feel effective), and relatedness (the need for meaningful connection). CET is the minitheory within SDT that addresses how the *environment* — particularly reward structures, feedback systems, evaluative practices, and interpersonal styles — interacts with these…
 
 ## Far Transfer Applications
 
@@ -374,19 +375,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[cognitive-evaluation-theory-foundational-report-2026-04-01]])*:
-- [[Self-Determination-Theory]]
-- [[Effectance-Motivation]]
-- [[Intrinsic-Motivation]]
-- [[Autonomy]]
-- [[Attribution-Theory]]
-- [[Cognitive-Dissonance]]
-- [[Organismic-Integration-Theory]]
-- [[Basic-Psychological-Needs-Theory]]
-- [[Autonomy-Support]]
-- [[Autonomy-Supportive-Teaching-and-Learning-Environments]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[effectance-motivation|Effectance-Motivation]]
+- [[intrinsic-motivation|Intrinsic-Motivation]]
+- [[autonomy|Autonomy]]
+- [[attribution-theory|Attribution-Theory]]
+- [[cognitive-dissonance|Cognitive-Dissonance]]
+- [[organismic-integration-theory|Organismic-Integration-Theory]]
+- [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]
+- [[autonomy-support|Autonomy-Support]]
+- [[autonomy-supportive-teaching-and-learning-environments|Autonomy-Supportive-Teaching-and-Learning-Environments]]
 
 **Related concepts:**
-[[Motivational-Psychology]] · [[Self-Determination-Theory]] · [[Intrinsic-Motivation]] · [[Basic-Psychological-Needs-Theory]] · [[Self-Determination-Theory]] · [[Overjustification-Effect]] · [[Feedback-Design-for-Autonomy-and-Mastery]] · [[Edward-Deci]] · [[Intrinsic-Motivation]] · [[Locus-of-Control]] · [[Perceived-Competence]] · [[Intrinsic-Motivation]] · [[Autonomy-Support]] · [[Perceived-Locus-of-Causality]] · [[Free-Choice-Behaviour]] · [[Ego-Involvement]] · [[Learned-Helplessness]] · [[Competence-Need]] · [[Motivational-Climate]] · [[Autonomy-Support]] · [[Engagement-Contingent-Reward]] · [[Informational-Feedback]] · [[Overjustification-Effect]] · [[Instructional-Design]] · [[Formative-Assessment]] · [[Autonomy-Support]] · [[Intrinsic-Motivation]] · [[Cross-Cultural-Psychology]] · [[Basic-Psychological-Needs-Theory]] · [[Self-Determination-Theory]]
+[[motivational-psychology|Motivational-Psychology]] · [[self-determination-theory|Self-Determination-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[overjustification-effect|Overjustification-Effect]] · [[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]] · [[edward-deci|Edward-Deci]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[locus-of-control|Locus-of-Control]] · [[perceived-competence|Perceived-Competence]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[autonomy-support|Autonomy-Support]] · [[perceived-locus-of-causality|Perceived-Locus-of-Causality]] · [[free-choice-behaviour|Free-Choice-Behaviour]] · [[ego-involvement|Ego-Involvement]] · [[learned-helplessness|Learned-Helplessness]] · [[competence-need|Competence-Need]] · [[motivational-climate|Motivational-Climate]] · [[autonomy-support|Autonomy-Support]] · [[engagement-contingent-reward|Engagement-Contingent-Reward]] · [[informational-feedback|Informational-Feedback]] · [[overjustification-effect|Overjustification-Effect]] · [[instructional-design|Instructional-Design]] · [[formative-assessment|Formative-Assessment]] · [[autonomy-support|Autonomy-Support]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[cross-cultural-psychology|Cross-Cultural-Psychology]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[self-determination-theory|Self-Determination-Theory]]
 
 ## References
 

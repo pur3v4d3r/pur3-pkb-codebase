@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,47 +69,49 @@ narrower:
   []
 
 see-also:
-  - "[[Fallibilism]]"
-  - "[[Epistemology]]"
-  - "[[philosophy-of-science|philosophy of science]]"
-  - "[[Critical-Thinking|critical thinking]]"
+  - "[[fallibilism|Fallibilism]]"
+  - "[[epistemic-autonomy-epistemology|Epistemic-Autonomy-—-Epistemology]]"
+  - "[[philosophy-of-science]]"
+  - "[[critical-thinking|Critical-Thinking]]"
   - "[[pedagogy]]"
-  - "[[Descartes]]"
+  - "[[descartes|Descartes]]"
   - "[[scepticism]]"
-  - "[[epistemic-relativism|epistemic relativism]]"
-  - "[[Epistemic-Humility|Epistemic humility]]"
-  - "[[cognitive-psychology|cognitive psychology]]"
-  - "[[Socrates]]"
-  - "[[Socratic-Method|Socratic method]]"
-  - "[[Pyrrhonian-sceptics|Pyrrhonian sceptics]]"
-  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
+  - "[[scepticism]]"
+  - "[[epistemic-relativism]]"
+  - "[[epistemic-humility|Epistemic-Humility]]"
+  - "[[cognitive-psychology]]"
+  - "[[socrates|Socrates]]"
+  - "[[socratic-method|Socratic-Method]]"
+  - "[[pyrrhonian-sceptics|Pyrrhonian-sceptics]]"
+  - "[[charles-sanders-peirce|Charles-Sanders-Peirce]]"
   - "[[pragmatism]]"
-  - "[[Karl-Popper|Karl Popper]]"
-  - "[[Falsificationism]]"
-  - "[[W.V.O.-Quine|W.V.O. Quine]]"
+  - "[[karl-popper|Karl-Popper]]"
+  - "[[falsificationism|Falsificationism]]"
+  - "[[w.v.o.-quine|W.V.O.-Quine]]"
+  - "[[charles-sanders-peirce|Charles-Sanders-Peirce]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Justified-True-Belief|Justified True Belief]]"
-  - "[[The-Gettier-Problem|The Gettier Problem]]"
-  - "[[Descartes-—-Meditations|Descartes — Meditations]]"
+  - "[[justified-true-belief|Justified-True-Belief]]"
+  - "[[the-gettier-problem|The-Gettier-Problem]]"
+  - "[[descartes-meditations|Descartes-—-Meditations]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[This-expansion-would-provide-a-rigorous-treatment-of-calibration-—-the-alignment|This expansion would provide a rigorous treatment of calibration — the alignment between confidence ]]"
+  - topic: "[[This expansion would provide a rigorous treatment of calibration — the alignment between confidence ]]"
     description: ""
     priority: medium
-  - topic: "[[A-dedicated-report-on-Popper's-philosophy-of-science,-covering-the-demarcation-p|A dedicated report on Popper's philosophy of science, covering the demarcation problem, the logic of]]"
+  - topic: "[[A dedicated report on Popper's philosophy of science, covering the demarcation problem, the logic of]]"
     description: ""
     priority: medium
-  - topic: "[[Extends-the-virtue-epistemological-dimension-of-the-current-report-into-a-full-t|Extends the virtue-epistemological dimension of the current report into a full treatment of the inte]]"
+  - topic: "[[Extends the virtue-epistemological dimension of the current report into a full treatment of the inte]]"
     description: ""
     priority: medium
-  - topic: "[[Examines-how-fallibilism-scales-to-communities-and-institutions.-Key-topics-woul|Examines how fallibilism scales to communities and institutions. Key topics would include: the epist]]"
+  - topic: "[[Examines how fallibilism scales to communities and institutions. Key topics would include: the epist]]"
     description: ""
     priority: medium
 
@@ -124,7 +126,7 @@ importance: high
 # Epistemic Humility
 
 > [!definition] **Epistemic Humility** *(from [[fallibilism-foundational-report-2026-03-06]])*
-> The intellectual virtue of recognising the limits of one's knowledge, the possibility of one's errors, and the genuine epistemic standing of others who disagree. [[Epistemic-Humility]] is the dispositional correlate of the theoretical claim of fallibilism: if our beliefs could be wrong, then intellectual integrity demands that we hold them with a degree of tentativeness proportioned to our evidence, remain open to correction, and acknowledge what we do not know. Epistemic humility is not the same as intellectual timidity or the performance of uncertainty for social purposes — it is a cognitive and motivational orientation grounded in an accurate appraisal of one's epistemic situation.
+> The intellectual virtue of recognising the limits of one's knowledge, the possibility of one's errors, and the genuine epistemic standing of others who disagree. [[epistemic-humility|Epistemic humility]] is the dispositional correlate of the theoretical claim of fallibilism: if our beliefs could be wrong, then intellectual integrity demands that we hold them with a degree of tentativeness proportioned to our evidence, remain open to correction, and acknowledge what we do not know. Epistemic humility is not the same as intellectual timidity or the performance of uncertainty for social purposes — it is a cognitive and motivational orientation grounded in an accurate appraisal of one's epistemic situation.
 
 ## Core Explanation
 
@@ -204,77 +206,21 @@ importance: high
 ## Concrete Examples
 
 > [!example] **Self-Correction in Practice: The Case of H. pylori** *(from [[fallibilism-foundational-report-2026-03-06]])*
-> For most of the twentieth century, the medical consensus held that stomach ulcers were caused by stress and excess acid. The gastric environment was considered too acidic to support bacterial life. In 1982, Australian physicians [[Barry-Marshall]] and [[Robin-Warren]] observed that most ulcer patients were infected with a spiral bacterium, *Helicobacter pylori*. Their claim was dismissed and their submitted papers rejected. Marshall famously drank a culture of H. pylori, developing gastritis, then treated himself with antibiotics. Over the following decade, increasingly rigorous evidence…
+> For most of the twentieth century, the medical consensus held that stomach ulcers were caused by stress and excess acid. The gastric environment was considered too acidic to support bacterial life. In 1982, Australian physicians [[Barry-Marshall|Barry Marshall]] and [[Robin-Warren|Robin Warren]] observed that most ulcer patients were infected with a spiral bacterium, *Helicobacter pylori*. Their claim was dismissed and their submitted papers rejected. Marshall famously drank a culture of H. pylori, developing gastritis, then treated himself with antibiotics. Over the following decade,…
 
 ## Connections & Context
 
 **Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-- [[Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-- [[Epistemic-Calibration|Epistemic Calibration]]
-- [[Bayesian-Epistemology|Bayesian Epistemology]]
+- [[fallibilism|Fallibilism]]
+- [[metacognition-and-lifelong-learning|Metacognition-and-Lifelong-Learning]]
+- [[metacognition-and-critical-thinking|Metacognition-and-Critical-Thinking]]
+- [[paul-elder-framework|Paul-Elder-Framework]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[epistemic-calibration|Epistemic-Calibration]]
+- [[bayesian-epistemology|Bayesian-Epistemology]]
 
 **Related concepts:**
-[[Fallibilism]] · [[Epistemology]] · [[philosophy-of-science|philosophy of science]] · [[Critical-Thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-Humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-Method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[pragmatism]] · [[Karl-Popper|Karl Popper]] · [[Falsificationism]] · [[W.V.O.-Quine|W.V.O. Quine]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Karl-Popper|Karl Popper]] · [[demarcation-problem|demarcation problem]] · [[Duhem-Quine-thesis|Duhem-Quine thesis]] · [[Thomas-Kuhn|Thomas Kuhn]] · [[W.V.O.-Quine|W.V.O. Quine]] · [[Epistemic-Holism|epistemic holism]] · [[epistemic-contextualism|epistemic contextualism]] · [[Stewart-Cohen|Stewart Cohen]] · [[David-Lewis|David Lewis]] · [[Virtue-Epistemology|Virtue epistemology]]
-
-**Related concepts** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]] * [[epistemic-contextualism|epistemic contextualism]] * [[Stewart-Cohen|Stewart Cohen]] * [[David-Lewis|David Lewis]] * [[Virtue-Epistemology|Virtue epistemology]] * [[Ernest-Sosa|Ernest Sosa]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[epistemic-justification|epistemic justification]] * [[defeater|defeater]] * [[Barry-Marshall|Barry Marshall]] * [[Robin-Warren|Robin Warren]] * [[Confirmation-Bias|confirmation bias]] * [[adversarial-epistemology|adversarial epistemology]] * [[Nicholas-Rescher|Nicholas Rescher]] * [[intellectual-openness|intellectual openness]] * [[Carol-Dweck|Carol Dweck]] * [[Growth-Mindset|growth mindset]] * [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-
-**Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-**Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-**Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition-and-Lifelong-Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition-and-Critical-Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder-Framework]]
-- [[Deliberate-Practice|Deliberate-Practice]]
-
-**Related concepts** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-[[philosophy-of-science|philosophy of science]] * [[Critical-Thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-Method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[Epistemic-Holism|epistemic holism]] * [[epistemic-contextualism|epistemic contextualism]] * [[Stewart-Cohen|Stewart Cohen]] * [[David-Lewis|David Lewis]] * [[Virtue-Epistemology|Virtue epistemology]] * [[Ernest-Sosa|Ernest Sosa]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[epistemic-justification|epistemic justification]] * [[Barry-Marshall|Barry Marshall]] * [[Robin-Warren|Robin Warren]] * [[Confirmation-Bias|confirmation bias]] * [[adversarial-epistemology|adversarial epistemology]] * [[Nicholas-Rescher|Nicholas Rescher]] * [[intellectual-openness|intellectual openness]] * [[Carol-Dweck|Carol Dweck]] * [[Growth-Mindset|growth mindset]] * [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]] * [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-
-**Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-**Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder Framework]]
-- [[Deliberate-Practice|Deliberate Practice]]
-
-**Cross-report connections** *(from [[fallibilism-foundational-report-2026-03-06]])*:
-- [[Fallibilism|Fallibilism]]
-- [[Metacognition-and-Lifelong-Learning|Metacognition-and-Lifelong-Learning]]
-- [[Metacognition-and-Critical-Thinking|Metacognition-and-Critical-Thinking]]
-- [[Paul-Elder-Framework|Paul-Elder-Framework]]
-- [[Deliberate-Practice|Deliberate-Practice]]
-
-
-
-
-
-
-
-
+[[fallibilism|Fallibilism]] · [[epistemic-autonomy-epistemology|Epistemic-Autonomy-—-Epistemology]] · [[philosophy-of-science]] · [[critical-thinking|Critical-Thinking]] · [[pedagogy]] · [[descartes|Descartes]] · [[scepticism]] · [[scepticism]] · [[epistemic-relativism]] · [[epistemic-humility|Epistemic-Humility]] · [[cognitive-psychology]] · [[socrates|Socrates]] · [[socratic-method|Socratic-Method]] · [[pyrrhonian-sceptics|Pyrrhonian-sceptics]] · [[charles-sanders-peirce|Charles-Sanders-Peirce]] · [[pragmatism]] · [[karl-popper|Karl-Popper]] · [[falsificationism|Falsificationism]] · [[w.v.o.-quine|W.V.O.-Quine]] · [[charles-sanders-peirce|Charles-Sanders-Peirce]] · [[karl-popper|Karl-Popper]] · [[demarcation-problem]] · [[duhem-quine-thesis|Duhem-Quine-thesis]] · [[thomas-kuhn|Thomas-Kuhn]] · [[w.v.o.-quine|W.V.O.-Quine]] · [[epistemic-holism|Epistemic-Holism]] · [[epistemic-contextualism]] · [[stewart-cohen|Stewart-Cohen]] · [[david-lewis|David-Lewis]] · [[virtue-epistemology|Virtue-Epistemology]]
 
 ## References
 
@@ -288,150 +234,6 @@ importance: high
 - **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
 
 *Citations sourced from [[fallibilism-foundational-report-2026-03-06]]*
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
-
-- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
-
-- **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
-
-- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
-
-- **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
-
-- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
-
-- **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
-
-- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
-
-- **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
-
-- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
-
-- **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
-
-- **Peirce, C.S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*, 12, 286–302.**: The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
-
-- **Popper, K.R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Original German: *Logik der Forschung*, 1934.)**: Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
-
-- **Quine, W.V.O. (1951). "Two Dogmas of Empiricism." *Philosophical Review*, 60(1), 20–43.**: The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
-
-- **Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.**: Dewey's systematic account of inquiry as a process of resolving "problematic situations" through the formation and testing of hypotheses. Develops the pragmatist-fallibilist tradition alongside and in dialogue with Peirce. Supports Phase IV's account of inquiry as self-correction and Phase V's applications to education.
-
-- **Rescher, N. (1978). *Peirce's Philosophy of Science*. University of Notre Dame Press.**: A rigorous reconstruction and defence of Peirce's philosophy of inquiry, including the self-correction thesis and the concept of progressive approximation. Supports Phase IV's account of epistemic iteration.
-
-- **Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.**: The most comprehensive development of virtue epistemology with explicit attention to intellectual virtues. Central to Phase III's virtue epistemology section and Phase V's applications to education. A demanding but rewarding text for readers seeking deeper engagement with the dispositional dimension of fallibilism.
-
-- **Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. Random House.**: Dweck's synthesis of her decades of research on fixed versus growth mindset, presenting the psychological evidence that treating intelligence and ability as malleable rather than fixed produces better learning outcomes. The empirical grounding for Phase V's applications to education, connecting the philosophical thesis of fallibilism to educational psychology research.
-
-- **Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.**: Fricker's account of "testimonial injustice" (systematic discounting of testimony from marginalised speakers) and "hermeneutical injustice" (structural gaps in interpretive resources). Not primarily about fallibilism but provides a crucial critical complement: fallibilism must grapple with the social structures that determine whose errors are taken seriously and whose corrections are heard. Supports the expansion topic on epistemic injustice and structural fallibilism.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

@@ -369,7 +369,7 @@ This structure is designed to build critical thinking and analytical reasoning s
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical-Fallacies]], [[First-Principles-Thinking]], [[confirmation-bias]]*}}
 
 ---
 
@@ -883,7 +883,7 @@ This structure actively combats "reasoning by analogy" (i.e., "we do it this way
 > - {{List the key sources (scientific papers, laws, axiomatic texts) used to identify the first principles. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[Mental-Models]], [[Deconstruction]], [[Innovation-Stack]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[mental-models]], [[Deconstruction]], [[Innovation-Stack]]*}}
 
 ---
 
@@ -1210,7 +1210,7 @@ The pedagogical purpose is to develop high-level strategic thinking, judgment, a
 > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+> - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
 ---
 ```

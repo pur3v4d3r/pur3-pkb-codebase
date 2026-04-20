@@ -84,7 +84,7 @@ status: comprehensive
 
 ---
 
-### ⚛️ **Big Bang Nucleosynthesis** ([[Nucleosynthesis]]) (10 seconds to 20 minutes)
+### ⚛️ **Big Bang Nucleosynthesis** ([[nucleosynthesis]]) (10 seconds to 20 minutes)
 - **Temperature**: 10⁸ to 10⁹ K (cool enough for nuclei!)
 - **Key Process**: Protons and neutrons fuse into light elements
 - **Products**: 
@@ -205,7 +205,7 @@ status: comprehensive
 
 ## 🔗 Cross-References
 
-**Early Universe**: [[The Big Bang Theory]], [[Cosmic Inflation]], [[Nucleosynthesis]]
+**Early Universe**: [[The Big Bang Theory]], [[Cosmic Inflation]], [[nucleosynthesis]]
 **Structure**: [[Galaxy Formation]], [[Cosmic Web Structure]], [[Dark Matter]]
 **Observations**: [[Cosmic Microwave Background]], [[Space-Based Telescopes in Cosmology]]
 **Future**: [[Dark Energy]], [[Observable vs Actual Universe]]

@@ -31,7 +31,7 @@ tags:
 
 ### Exemplar 1: Schema Theory (Cognitive Psychology)
 
-**Topic area:** [[Schema]] · [[Cognitive Bias]] · [[Perception]]
+**Topic area:** [[schema]] · [[cognitive-bias]] · [[Perception]]
 **Demonstrates:** Full integration of all three layers — contemplative voice, mechanism-tracing, and contrastive clarification
 
 ```markdown
@@ -72,7 +72,7 @@ such updating possible.
 
 ### Exemplar 2: Working Memory (Cognitive Architecture)
 
-**Topic area:** [[Working Memory]] · [[Cognitive Load]] · [[Attention]]
+**Topic area:** [[working-memory]] · [[cognitive-load]] · [[attention]]
 **Demonstrates:** Mechanism-tracing as primary engine with compressed burst; no contrastive move (reserved for elsewhere)
 
 ```markdown
@@ -110,7 +110,7 @@ human performance depends on holding multiple elements in mind simultaneously.
 
 ### Exemplar 3: Dual Process Theory (Reasoning & Decision-Making)
 
-**Topic area:** [[Dual Process Theory]] · [[System 1]] · [[System 2]] · [[Heuristics]]
+**Topic area:** [[dual-process-theory]] · [[system-1]] · [[system-2]] · [[Heuristics]]
 **Demonstrates:** Contrastive clarification as the paragraph's central move; mechanism-tracing in supporting role
 
 ```markdown
@@ -147,7 +147,7 @@ first and felt most natural.
 
 ### Exemplar 4: Metacognition (Self-Regulated Learning)
 
-**Topic area:** [[Metacognition]] · [[Self-Regulated Learning]] · [[Monitoring]] · [[Epistemic Feelings]]
+**Topic area:** [[metacognition]] · [[self-regulated-learning]] · [[Monitoring]] · [[Epistemic Feelings]]
 **Demonstrates:** Contemplative voice at maximum warmth; mechanism-tracing following the full monitoring-control loop
 
 ```markdown
@@ -277,7 +277,7 @@ Wiki-links/Permanent Notes List Location: D:/10_pur3v4d3r's-vault/00_index/perma
 > **Upstream:** [[contemplative-mechanism-style-directive]] · [[pur3v4d3r-house-style]]
 > **Downstream:** All nine report generators — this exemplar is consumed at invocation time
 > **Lateral:** [[SUITE-DEPLOYMENT-GUIDE]] · [[house-style-variations-library]]
-> **Strengthened:** [[Schema]] · [[Working Memory]] · [[Dual Process Theory]] · [[Metacognition]]
+> **Strengthened:** [[schema]] · [[working-memory]] · [[dual-process-theory]] · [[metacognition]]
 
 > [!further-exploration]
 > > [!topic-idea]

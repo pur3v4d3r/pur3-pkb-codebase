@@ -32,13 +32,13 @@ The script handles all four of your report types (Foundational, Focused Analysis
 # No extra packages required — uses only the Python standard library
 
 # Process a single report:
-python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\999-foundational-report-genrator\metacognition-and-critical-thinking-foundational-report-2026-03-05.md"
+python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-organizing\999-foundational-report-generator\metacognition-and-critical-thinking-foundational-report-2026-03-05.md"
 
 # Process an entire folder of reports:
-python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\999-foundational-report-genrator" --output "D:\10_pur3v4d3r's-vault\00-inbox\01-reports"
+python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-organizing\999-foundational-report-generator" --output "D:\10_pur3v4d3r's-vault\00-inbox\01-reports"
 
 # Process multiple folders recursively:
-python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing" --recursive --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_extractor-output"
+python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-organizing" --recursive --output "D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output"
 
 # Get help:
 python pkb_extractor.py --help
@@ -69,7 +69,7 @@ For each Markdown file processed, the script creates two files in your output fo
 |---|-------------|-------------|---------|
 | 1 | **YAML Frontmatter** | All metadata fields from the `---` block at the top of the file | `title`, `tags`, `domain`, `key-frameworks` |
 | 2 | **Callouts** | All `> [!TYPE]` blocks — definitions, insights, warnings, etc. | `> [!definition] Metacognition` |
-| 3 | **Wiki-Links** | All `[[Target]]`, `[[Target\|Display]]`, `[[Target#Section]]` references | `[[Cognitive-Load-Theory]]` |
+| 3 | **Wiki-Links** | All `[[Target]]`, `[[Target\|Display]]`, `[[Target#Section]]` references | `[[cognitive-load-theory]]` |
 | 4 | **Inline Fields** | Dataview `[**Name**:: Value]` and `Name:: Value` fields | `[**Self-Regulation**:: The ability to...]` |
 | 5 | **Definitions** | Bold-formatted inline definitions specifically | `[**Metacognition**:: Thinking about thinking]` |
 | 6 | **Tags** | All `#tag` references including hierarchical `#parent/child` | `#cognitive-psychology/metacognition` |

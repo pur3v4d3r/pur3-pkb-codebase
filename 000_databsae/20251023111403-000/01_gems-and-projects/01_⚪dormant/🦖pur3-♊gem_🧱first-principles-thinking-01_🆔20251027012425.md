@@ -247,7 +247,7 @@ Your mission is to guide me through a rigorous first-principles analysis. You mu
 > - {{List the key sources (scientific papers, laws, axiomatic texts) used to identify the first principles. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[Mental-Models]], [[Deconstruction]], [[Innovation-Stack]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[mental-models]], [[Deconstruction]], [[Innovation-Stack]]*}}
 
 ***
 

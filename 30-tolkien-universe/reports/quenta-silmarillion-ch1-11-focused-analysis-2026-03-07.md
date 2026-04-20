@@ -425,7 +425,7 @@ The First Age has begun.
 
 ### Fëanor as Aristotelian Tragic Hero
 
-[[Aristotle]]'s definition of tragedy, in the *Poetics*, centers on the concept of *hamartia* — often translated as "fatal flaw" but more precisely understood as "error" or "misjudgment." The tragic hero is not a bad person brought down by justice, but a *good* person brought down by a specific error in judgment that flows from their particular nature. The fall must arise from within, from something that is inseparable from the hero's excellence.
+[[aristotle]]'s definition of tragedy, in the *Poetics*, centers on the concept of *hamartia* — often translated as "fatal flaw" but more precisely understood as "error" or "misjudgment." The tragic hero is not a bad person brought down by justice, but a *good* person brought down by a specific error in judgment that flows from their particular nature. The fall must arise from within, from something that is inseparable from the hero's excellence.
 
 [[Fëanor]] fits this model with extraordinary precision — almost as if Tolkien had Aristotle in mind, which is not impossible given his classical education. Fëanor's specific *hamartia* is what might be called the possessiveness of the creator: the inability to distinguish between the work and the self, between love of the created thing and love of one's own creative power. Fëanor loves the [[Silmarils]] not merely as beautiful objects but as expressions of his own creative capacity — they are, in a real sense, *himself* externalized. The thought of their loss is therefore the thought of his own diminishment.
 

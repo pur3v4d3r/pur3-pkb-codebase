@@ -359,7 +359,7 @@ LIMIT 15
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical-Fallacies]], [[First-Principles-Thinking]], [[confirmation-bias]]*}}
 
 ---
 ```
@@ -683,7 +683,7 @@ Please let me know your thoughts on this "Problem-Based" scaffolding. When you a
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical-Fallacies]], [[First-Principles-Thinking]], [[confirmation-bias]]*}}
 
 ---
 
@@ -1187,7 +1187,7 @@ Please let me know your thoughts on this "Problem-Based" scaffolding. When you a
 > - {{List the key sources (scientific papers, laws, axiomatic texts) used to identify the first principles. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[Mental-Models]], [[Deconstruction]], [[Innovation-Stack]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[mental-models]], [[Deconstruction]], [[Innovation-Stack]]*}}
 
 ---
 
@@ -1508,7 +1508,7 @@ Please let me know your thoughts on this "Problem-Based" scaffolding. When you a
 > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+> - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
 ---
 ```

@@ -282,7 +282,7 @@ LIMIT 20
 
 >[! ] ## 🔗Link Analysis & Graph Intelligence
 > > [!methodology-and-sources] #### What these Queires Do
-> > These queries analyze the [[Knowledge-Graph]] structure within a folder: identifying hubs, orphans, bridges, and link density patterns. Critical for maintaining a well-connected [[Personal-Knowledge-Base]].
+> > These queries analyze the [[Knowledge-Graph]] structure within a folder: identifying hubs, orphans, bridges, and link density patterns. Critical for maintaining a well-connected [[personal-knowledge-base]].
 
 > [! ] ### Orphan Note Detection**
 > **What This Does:**

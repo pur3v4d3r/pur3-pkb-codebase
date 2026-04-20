@@ -11,7 +11,7 @@ summary: This note provides a glossary of common logical fallacies, defining eac
 ---
 
 ## 🔗 Connections
-- [[Critical-Thinking]]
+- [[critical-thinking]]
 - [[Ad Hominem]]
 - [[Straw-Man]]
 - [[Slippery Slope]]

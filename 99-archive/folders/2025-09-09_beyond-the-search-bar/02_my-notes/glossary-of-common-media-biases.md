@@ -14,8 +14,8 @@ summary: This note provides a glossary of various forms of bias commonly found i
 ## 🔗 Connections
 - [[Media Bias]]
 - [[Journalism Ethics]]
-- [[Critical-Thinking]]
-- [[Confirmation-Bias]]
+- [[critical-thinking]]
+- [[confirmation-bias]]
 - [[Gatekeeping]]
 # Glossary of Common Media Biases
 

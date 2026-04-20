@@ -803,8 +803,8 @@ This follows your existing project structure pattern (see `02-projects/`).
 **Link Integration Plan:**
 
 For `cognitive-load-types.md` (currently 1 in, 0 out):
-- Add outgoing links to: [[Working-Memory]], [[Instructional-Design]], [[learning-theory]]
-- Create incoming links from: [[cognitive-science-moc]], [[Educational-Psychology]]
+- Add outgoing links to: [[working-memory]], [[instructional-design]], [[learning-theory]]
+- Create incoming links from: [[cognitive-science-moc]], [[educational-psychology]]
 - This will bring it to 4 connections (meets 2+ in/out threshold)
 ```
 
@@ -884,7 +884,7 @@ Found 23 notes tagged #prompt-engineering:
 - Valid links: 2,674 (94%)
 - Broken links: 173 (6%)
   - Most common: Links to unwritten "ghost notes"
-  - Top missing: [[Self-Regulated-Learning]] (referenced 12 times)
+  - Top missing: [[self-regulated-learning]] (referenced 12 times)
 
 **Metadata Compliance:** 78% (Fair)
 - Complete YAML: 267 notes (78%)
@@ -892,7 +892,7 @@ Found 23 notes tagged #prompt-engineering:
 - Malformed YAML: 13 notes (4%)
 
 **Priority Actions:**
-1. Create [[self-regulated-learning.md]] (high-impact ghost note)
+1. Create [[Self-Regulated-Learning.md]] (high-impact ghost note)
 2. Add metadata to 62 uncompleted notes (use metaudit for list)
 3. Review 44 orphan notes for integration or archival
 

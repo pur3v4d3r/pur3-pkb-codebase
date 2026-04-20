@@ -188,7 +188,7 @@ LIMIT 15
 > 8. Synthesis (best practices, mental models)
 > Wiki-Link Opportunities:
 > - [[Markdown]]
-> - [[Obsidian]]
+> - [[obsidian]]
 > - [[Task-Management]]
 > - [[GTD (Getting Things Done)]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
@@ -226,7 +226,7 @@ aliases: [Checkbox Types, Task Checkboxes, Alternative Checkboxes, Obsidian Chec
 
 > [!abstract]
 > **Executive Overview**
-> Alternative checkboxes in [[Obsidian]] extend standard [[Markdown]] task functionality beyond the basic unchecked `- [ ]` and checked `- [x]` states, allowing users to represent diverse task statuses through custom character syntax within brackets. This comprehensive reference documents all community-recognized checkbox variants, their rendering behaviors, implementation methods via [[CSS Snippets]] and [[Obsidian Plugins]], and practical applications within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] workflows.
+> Alternative checkboxes in [[obsidian]] extend standard [[Markdown]] task functionality beyond the basic unchecked `- [ ]` and checked `- [x]` states, allowing users to represent diverse task statuses through custom character syntax within brackets. This comprehensive reference documents all community-recognized checkbox variants, their rendering behaviors, implementation methods via [[CSS Snippets]] and [[Obsidian Plugins]], and practical applications within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] workflows.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -248,13 +248,13 @@ aliases: [Checkbox Types, Task Checkboxes, Alternative Checkboxes, Obsidian Chec
 
 > [!definition]
 > - **Key-Term**:: [[Alternative Checkboxes]]
-> - **Definition**:: Extended task list syntax in [[Obsidian]] that uses different characters between brackets (e.g., `[/]`, `[?]`, `[-]`) to represent task states beyond binary completion, rendered with custom icons and styling through [[CSS]] or [[Obsidian Themes]].
+> - **Definition**:: Extended task list syntax in [[obsidian]] that uses different characters between brackets (e.g., `[/]`, `[?]`, `[-]`) to represent task states beyond binary completion, rendered with custom icons and styling through [[CSS]] or [[Obsidian Themes]].
 
 ### The Evolution from Standard Markdown
 
-Standard [[Markdown]] provides only two checkbox states: unchecked (`- [ ]`) and checked (`- [x]`). This binary system, while sufficient for basic task tracking, proves inadequate for sophisticated [[Knowledge-Work]] and [[Project Management]] within a [[Personal-Knowledge-Base]]. The [[Obsidian]] community recognized this limitation and developed a de facto standard for alternative checkbox syntax that maintains [[Markdown]] compatibility while enabling rich semantic distinctions.
+Standard [[Markdown]] provides only two checkbox states: unchecked (`- [ ]`) and checked (`- [x]`). This binary system, while sufficient for basic task tracking, proves inadequate for sophisticated [[Knowledge-Work]] and [[Project Management]] within a [[personal-knowledge-base]]. The [[obsidian]] community recognized this limitation and developed a de facto standard for alternative checkbox syntax that maintains [[Markdown]] compatibility while enabling rich semantic distinctions.
 
-The alternative checkbox system originated from community themes, particularly @kepano's [[Minimal Theme]], and was subsequently adopted by numerous other themes including [[ITS Theme]] by SlRvb, [[Things Theme]], [[Primary Theme]], and others. The implementation relies on [[HTML]] `data-task` attributes that [[Obsidian]] automatically generates when rendering task lists, which can then be targeted with [[CSS]] selectors for custom styling.
+The alternative checkbox system originated from community themes, particularly @kepano's [[Minimal Theme]], and was subsequently adopted by numerous other themes including [[ITS Theme]] by SlRvb, [[Things Theme]], [[Primary Theme]], and others. The implementation relies on [[HTML]] `data-task` attributes that [[obsidian]] automatically generates when rendering task lists, which can then be targeted with [[CSS]] selectors for custom styling.
 
 The fundamental mechanism works as follows: when you write `- [x]` in your note, Obsidian generates HTML like `<li data-task="x">`, and when you write `- [?]` it generates `<li data-task="?">`. Theme developers and CSS snippet creators can then write styles targeting these specific `data-task` values to display custom icons, colors, and text decorations.
 
@@ -270,13 +270,13 @@ The alternative checkbox system comprises three interdependent components:
 
 **2. Rendering Layer** - The visual representation displayed in [[Reading View]] and [[Live Preview]] mode. This typically involves [[SVG]] icons, custom colors, and optional text decorations (strikethrough, opacity changes). The rendering is controlled entirely through [[CSS]], making it theme-dependent and highly customizable.
 
-**3. Semantic Layer** - The conceptual meaning assigned to each checkbox type (e.g., `[/]` = "in progress", `[-]` = "cancelled"). While community conventions have emerged, these meanings are not enforced by [[Obsidian]] itself—they are social contracts within the user community that ensure consistent interpretation across vaults and documentation.
+**3. Semantic Layer** - The conceptual meaning assigned to each checkbox type (e.g., `[/]` = "in progress", `[-]` = "cancelled"). While community conventions have emerged, these meanings are not enforced by [[obsidian]] itself—they are social contracts within the user community that ensure consistent interpretation across vaults and documentation.
 
 ### Integration with Obsidian's Task Architecture
 
-Alternative checkboxes integrate seamlessly with [[Obsidian]]'s native task management features and extend functionality when combined with plugins like [[Tasks-Plugin]], [[Dataview]], and [[Kanban Plugin]]. The [[Tasks-Plugin]] in particular has evolved to recognize and support custom statuses, allowing for sophisticated filtering, sorting, and querying based on checkbox types.
+Alternative checkboxes integrate seamlessly with [[obsidian]]'s native task management features and extend functionality when combined with plugins like [[Tasks-Plugin]], [[Dataview]], and [[Kanban Plugin]]. The [[Tasks-Plugin]] in particular has evolved to recognize and support custom statuses, allowing for sophisticated filtering, sorting, and querying based on checkbox types.
 
-When you toggle a checkbox by clicking it in [[Reading View]] or using the keyboard shortcut in [[Edit Mode]], [[Obsidian]] cycles through defined states. By default, the [[Tasks-Plugin]] provides three states: unchecked (`[ ]`), in progress (`[/]`), and completed (`[x]`). However, users can configure custom status cycles and import predefined status collections from popular themes.
+When you toggle a checkbox by clicking it in [[Reading View]] or using the keyboard shortcut in [[Edit Mode]], [[obsidian]] cycles through defined states. By default, the [[Tasks-Plugin]] provides three states: unchecked (`[ ]`), in progress (`[/]`), and completed (`[x]`). However, users can configure custom status cycles and import predefined status collections from popular themes.
 
 > [!warning]
 > **Critical Constraints**
@@ -288,7 +288,7 @@ When you toggle a checkbox by clicking it in [[Reading View]] or using the keybo
 
 ### Standard Obsidian Checkboxes
 
-These are natively supported by [[Obsidian]] without any themes or plugins:
+These are natively supported by [[obsidian]] without any themes or plugins:
 
 | Syntax | Status | Description | Visual Behavior |
 |--------|--------|-------------|-----------------|
@@ -435,7 +435,7 @@ Additional theme-specific checkboxes found in various implementations:
 
 ### Minimal Theme
 
-The [[Minimal Theme]] by @kepano pioneered alternative checkbox support in [[Obsidian]] and established the baseline standard that most other themes follow.
+The [[Minimal Theme]] by @kepano pioneered alternative checkbox support in [[obsidian]] and established the baseline standard that most other themes follow.
 
 > [!methodology-and-sources]
 > **Minimal Checkbox Philosophy**
@@ -509,7 +509,7 @@ The [[ITS Theme]] documentation notes that checkboxes can be customized via [[St
 
 ### Things Theme
 
-The [[Things Theme]] by @colineckert brings design aesthetics inspired by the popular [[Things 3]] task manager to [[Obsidian]], with checkbox styling that mirrors macOS native appearance.
+The [[Things Theme]] by @colineckert brings design aesthetics inspired by the popular [[Things 3]] task manager to [[obsidian]], with checkbox styling that mirrors macOS native appearance.
 
 **Distinctive Features:**
 - Native macOS design language (rounded corners, soft shadows)
@@ -544,7 +544,7 @@ The [[Primary Theme]] follows the community standard established by [[Minimal Th
 
 ### Tasks Plugin
 
-The [[Tasks-Plugin]] is the most sophisticated task management solution for [[Obsidian]], providing advanced querying, filtering, recurring tasks, and full custom status support.
+The [[Tasks-Plugin]] is the most sophisticated task management solution for [[obsidian]], providing advanced querying, filtering, recurring tasks, and full custom status support.
 
 > [!definition]
 > - **Key-Term**:: [[Custom Statuses]]
@@ -596,7 +596,7 @@ done before 2024-12-01
 
 > [!helpful-tip]
 > **Workflow Optimization**
-> Replace [[Obsidian]]'s default "Toggle checkbox status" hotkey with [[Tasks-Plugin]]'s "Tasks: Toggle Done" command for status-aware cycling that respects your custom status definitions.
+> Replace [[obsidian]]'s default "Toggle checkbox status" hotkey with [[Tasks-Plugin]]'s "Tasks: Toggle Done" command for status-aware cycling that respects your custom status definitions.
 
 ### Dataview Integration
 
@@ -669,7 +669,7 @@ The [[Completed Tasks Plugin]] automatically moves checked checkboxes to the bot
 
 > [!definition]
 > - **Key-Term**:: [[data-task Attribute]]
-> - **Definition**:: An [[HTML]] attribute automatically generated by [[Obsidian]] when rendering task list items, containing the character from between the brackets, which serves as the [[CSS]] selector target for alternative checkbox styling.
+> - **Definition**:: An [[HTML]] attribute automatically generated by [[obsidian]] when rendering task list items, containing the character from between the brackets, which serves as the [[CSS]] selector target for alternative checkbox styling.
 
 **Rendering Pipeline:**
 
@@ -730,7 +730,7 @@ A complete checkbox style implementation includes checkbox appearance, icon, tex
 
 ### CSS Variables for Theming
 
-[[Obsidian]] provides built-in [[CSS Variables]] for checkbox customization accessible through the official developer documentation.
+[[obsidian]] provides built-in [[CSS Variables]] for checkbox customization accessible through the official developer documentation.
 
 **Standard Obsidian Checkbox Variables:**
 
@@ -783,7 +783,7 @@ Alternative checkbox icons are typically implemented using [[SVG]] data URIs wit
 
 ### Text Decoration Control
 
-Managing strikethrough behavior for different checkbox types requires careful selector specificity to override default [[Obsidian]] styling.
+Managing strikethrough behavior for different checkbox types requires careful selector specificity to override default [[obsidian]] styling.
 
 **Removing Strikethrough:**
 
@@ -881,7 +881,7 @@ A production-ready [[CSS Snippet]] for alternative checkboxes should work in bot
 1. Navigate to **Settings → Appearance → CSS Snippets**
 2. Click the folder icon to open snippets directory (`.obsidian/snippets/`)
 3. Place your `.css` file in this directory
-4. Return to [[Obsidian]] and click the refresh icon
+4. Return to [[obsidian]] and click the refresh icon
 5. Toggle the snippet on
 
 > [!helpful-tip]
@@ -1256,7 +1256,7 @@ This layering ensures portability (syntactic) while enabling rich functionality 
 
 > [!key-claim]
 > **Principle 2: Visual Consistency**
-> Maintain consistent color semantics (e.g., red=important, blue=in-progress, gray=cancelled) across your entire [[PKB]]. This builds [[Procedural-Memory]] and reduces cognitive processing time.
+> Maintain consistent color semantics (e.g., red=important, blue=in-progress, gray=cancelled) across your entire [[PKB]]. This builds [[procedural-memory]] and reduces cognitive processing time.
 
 > [!key-claim]
 > **Principle 3: Workflow Alignment**

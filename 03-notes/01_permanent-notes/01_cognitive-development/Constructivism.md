@@ -29,7 +29,7 @@ review-priority: medium
 # Constructivism
 
 > [!definition]
-> - **Key-Term**:[[Constructivism]]
+> - **Key-Term**:[[constructivism]]
 > - [**Definition**:]
 
 > [!evidence]

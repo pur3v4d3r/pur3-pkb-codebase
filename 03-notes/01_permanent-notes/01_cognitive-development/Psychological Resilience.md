@@ -14,14 +14,14 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Metacognition]]"
-  - "[[Critical-Thinking]]"
+  - "[[metacognition]]"
+  - "[[critical-thinking]]"
   - "[[Stoic Dichotomy Of Control]]"
   - "[[Epistemic Accountability]]"
-  - "[[Metacognitive-Control]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Reflection]]"
-  - "[[Metacognitive-Regulation]]"
+  - "[[metacognitive-control]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[metacognitive-reflection]]"
+  - "[[metacognitive-regulation]]"
 maturity: seedling
 confidence: speculative
 

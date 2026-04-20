@@ -36,8 +36,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -48,7 +48,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -72,40 +72,40 @@ narrower:
   []
 
 see-also:
-  - "[[Working-Memory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Embodied-Cognition]]"
-  - "[[Working-Memory-Capacity]]"
-  - "[[Attention]]"
-  - "[[Executive-Function]]"
-  - "[[Intrinsic-Cognitive-Load]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Generation-Effect]]"
-  - "[[Retrieval-Practice]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Working-Memory]]"
-  - "[[Alan-Baddeley]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[embodied-cognition|Embodied-Cognition]]"
+  - "[[working-memory-capacity|Working-Memory-Capacity]]"
+  - "[[attention|Attention]]"
+  - "[[executive-function|Executive-Function]]"
+  - "[[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[generation-effect|Generation-Effect]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[alan-baddeley|Alan-Baddeley]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Dual-Process-Theory]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-emerge-from-this-report-as-high-priority-candidates-for-ind|The following topics emerge from this report as high-priority candidates for independent exploration]]"
+  - topic: "[[The following topics emerge from this report as high-priority candidates for independent exploration]]"
     description: ""
     priority: medium
 
@@ -178,7 +178,7 @@ importance: high
 > [!analytical-insight] Key Insight *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > Based on the convergent evidence from dual-task interference, automaticity limits, exercise-cognition timing asymmetry, the generation effect, and opportunity cost analysis, the optimal strategy is to **temporally separate walking and reading** while allocating each activity to the role it plays best:
 > 
-> - **Walking** → physical health, chronic cognitive benefits, creative incubation, [[Memory-Consolidation|consolidation]], arousal regulation
+> - **Walking** → physical health, chronic cognitive benefits, creative incubation, [[memory-consolidation|consolidation]], arousal regulation
 > - **Desk-based reading with PKB** → comprehension,…
 
 ## Practical Implications
@@ -190,7 +190,7 @@ importance: high
 > The danger is not that walking always impairs comprehension — it is that it impairs comprehension selectively at the moments when comprehension matters most: during the passages where novel concepts are introduced, where complex arguments are synthesized, and where cross-domain connections are drawn. These are precisely the passages where working memory is most fully loaded and most vulnerable to any marginal additional demand.
 
 > [!warning] **Key Distinction** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> [[Fluency-Illusion|Fluency illusions]] — the subjective sense that you understand material better than you actually do — are especially dangerous in dual-task contexts. When you walk and read, the smooth flow of walking may create a feeling of easy, fluent processing that makes the reading feel productive. But feeling that you understand is not the same as understanding. Without the active testing that comes from [[Active-Recall|active recall]], [[Elaboration|elaboration]], or note-making, you…
+> [[fluency-illusion|Fluency illusions]] — the subjective sense that you understand material better than you actually do — are especially dangerous in dual-task contexts. When you walk and read, the smooth flow of walking may create a feeling of easy, fluent processing that makes the reading feel productive. But feeling that you understand is not the same as understanding. Without the active testing that comes from [[Active-Recall|active recall]], [[elaboration|elaboration]], or note-making, you…
 
 > [!warning] **Key Distinction** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > Oppezzo and Schwartz's results apply specifically to **[[Divergent-Thinking|divergent thinking]]** — the generation of novel ideas and creative associations. They did NOT find benefits for **[[Convergent-Thinking|convergent thinking]]** — the focused, analytical, single-correct-answer reasoning that characterizes reading comprehension of structured academic arguments. In fact, walking slightly *impaired* convergent thinking in their study. Reading an academic report is overwhelmingly a…
@@ -205,13 +205,13 @@ importance: high
 
 > [!person] **John Sweller (1946–)** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > *University of New South Wales, Australia*
-> Creator of [[Cognitive-Load-Theory]] (1988), the framework that explains why any secondary task can degrade learning from complex material by consuming finite working memory resources.
+> Creator of [[cognitive-load-theory]] (1988), the framework that explains why any secondary task can degrade learning from complex material by consuming finite working memory resources.
 > **Key work cited:** Sweller, J. (2011). *Cognitive Load Theory*. Springer.
 > **Relationship to others:** Built directly on Baddeley's WM model and Miller's capacity limits; extended by Paas, van Merriënboer, and Kalyuga.
 
 > [!person] **Christopher Wickens (1938–2020)** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > *University of Illinois at Urbana-Champaign*
-> Developer of [[Multiple-Resource-Theory]] (1984, 2002), which predicts that walking and reading show moderate interference because they overlap primarily on central executive demands while using largely distinct perceptual, coding, and response resources.
+> Developer of [[multiple-resource-theory]] (1984, 2002), which predicts that walking and reading show moderate interference because they overlap primarily on central executive demands while using largely distinct perceptual, coding, and response resources.
 > **Key work cited:** Wickens, C.D. (2008). *Multiple resources and mental workload.* Human Factors, 50(3), 449-455.
 > **Relationship to others:** Complemented and challenged Pashler's single-bottleneck theory; influenced applied human factors research.
 
@@ -223,13 +223,13 @@ importance: high
 
 > [!person] **Norman J. Slamecka (1930–2003)** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > *University of Toronto*
-> Discoverer of the [[Generation-Effect|generation effect]] (1978), the finding that established active generation as superior to passive reception for memory — the decisive principle in this report's practical recommendations.
+> Discoverer of the [[generation-effect|generation effect]] (1978), the finding that established active generation as superior to passive reception for memory — the decisive principle in this report's practical recommendations.
 > **Key work cited:** Slamecka, N.J., & Graf, P. (1978). *The generation effect: Delineation of a phenomenon.* Journal of Experimental Psychology: Human Learning and Memory, 4(6), 592-604.
 > **Relationship to others:** Influenced Bjork's desirable difficulties framework; extended by Bertsch et al. (2007).
 
 > [!person] **Robert A. Bjork** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > *University of California, Los Angeles*
-> Developer of the [[Desirable-Difficulties|desirable difficulties]] framework (1994), which provides the broader theoretical context for the generation effect and explains why effortful learning strategies — despite feeling harder — produce superior long-term retention.
+> Developer of the [[desirable-difficulties|desirable difficulties]] framework (1994), which provides the broader theoretical context for the generation effect and explains why effortful learning strategies — despite feeling harder — produce superior long-term retention.
 > **Key work cited:** Bjork, R.A. (1994). *Memory and metamemory considerations in the training of human beings.* In J. Metcalfe & A. Shimamura (Eds.), Metacognition. MIT Press.
 > **Relationship to others:** Extended Slamecka's generation effect; influenced educational reform toward…
 
@@ -248,7 +248,7 @@ importance: high
 ## Open Questions
 
 > [!open-question] **Individual Differences in Dual-Task Tolerance** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> How much do individual differences in [[Working-Memory-Capacity|working memory capacity]], [[Executive-Function|executive function]], and physical fitness modulate the dual-task cost of walking while reading? High-WMC individuals may have sufficient "executive slack" to absorb walking's costs with minimal comprehension impact. The literature suggests this is possible but has not been directly…
+> How much do individual differences in [[working-memory-capacity|working memory capacity]], [[executive-function|executive function]], and physical fitness modulate the dual-task cost of walking while reading? High-WMC individuals may have sufficient "executive slack" to absorb walking's costs with minimal comprehension impact. The literature suggests this is possible but has not been directly…
 
 ## Reflection Prompts
 
@@ -289,12 +289,12 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Bridging to What You Already Know** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> You have already encountered the core mechanisms at work in this question through your reading of reports on [[Cognitive-Load-Theory]], [[Working-Memory]], [[Self-Regulated-Learning]], and [[Metacognition]]. The [[Baddeley's-Working-Memory-Model|Baddeley model]] established that working memory has multiple components with limited capacity. [[Cognitive-Load-Theory]] demonstrated that instructional design must manage three types of load. And your understanding of [[Desirable-Difficulties]] tells you that effortful processing — not comfort — drives durable learning. The question this report…
+> You have already encountered the core mechanisms at work in this question through your reading of reports on [[cognitive-load-theory]], [[working-memory]], [[self-regulated-learning]], and [[metacognition]]. The [[Baddeley's-Working-Memory-Model|Baddeley model]] established that working memory has multiple components with limited capacity. [[cognitive-load-theory]] demonstrated that instructional design must manage three types of load. And your understanding of [[desirable-difficulties]] tells you that effortful processing — not comfort — drives durable learning. The question this report…
 
 ## Far Transfer Applications
 
 > [!far-transfer] **From Walking-Reading to Commute-Listening** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> **Structural Principle:** The efficiency of concurrent auditory learning during routine motor activity depends on the same variables identified in this report — [[Automaticity|automaticity]] of the motor task, [[Intrinsic-Cognitive-Load|intrinsic load]] of the content, and availability of generative processing.
+> **Structural Principle:** The efficiency of concurrent auditory learning during routine motor activity depends on the same variables identified in this report — [[automaticity|automaticity]] of the motor task, [[intrinsic-cognitive-load|intrinsic load]] of the content, and availability of generative processing.
 > 
 > **Concrete Application:** Listening to a dense educational podcast while driving in heavy traffic imposes the same dual-task structure as walking while reading: a motor-spatial task (driving) competes with a cognitive-verbal task (comprehending). The automaticity of driving varies…
 
@@ -304,7 +304,7 @@ importance: high
 > **Concrete Application:** Checking email while attending a meeting, drafting a document while monitoring Slack, or reviewing code while participating in a standup — all exhibit the same structure as walking-reading: a primary cognitive task disrupted by a secondary activity whose modest costs are dwarfed by the massive opportunity cost of losing the focused,…
 
 > [!far-transfer] **From Cognitive Dual-Tasking to Motor Skill Learning** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> **Structural Principle:** The [[Automaticity|automaticity]] continuum and its implications for dual-task compatibility apply to motor [[Skill-Acquisition|skill acquisition]] just as they do to cognitive tasks. Novel motor skills consume central executive resources; highly practiced skills do not.
+> **Structural Principle:** The [[automaticity|automaticity]] continuum and its implications for dual-task compatibility apply to motor [[Skill-Acquisition|skill acquisition]] just as they do to cognitive tasks. Novel motor skills consume central executive resources; highly practiced skills do not.
 > 
 > **Concrete Application:** A novice rock climber cannot simultaneously plan their route and execute precise hand placements — the motor and planning tasks both require controlled [[Controlled-Processing|processing]]. An expert climber can plan several moves ahead while executing the current sequence…
 
@@ -322,13 +322,13 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **Claude's Analytical Perspective: The Cognitive Load Profile of These Reports** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> Having generated these reports, I can provide a uniquely informed analysis of their cognitive load profile. The foundational reports I produce are deliberately designed to be high in [[Element-Interactivity|element interactivity]] — they contain nested theoretical frameworks, multi-step arguments, cross-domain connections, and technical vocabulary that requires simultaneous processing. A single paragraph may require you to hold active: a definition, its qualifying conditions, its relationship to a broader theory, and its implications for practice. This is intrinsic load by design — the…
+> Having generated these reports, I can provide a uniquely informed analysis of their cognitive load profile. The foundational reports I produce are deliberately designed to be high in [[element-interactivity|element interactivity]] — they contain nested theoretical frameworks, multi-step arguments, cross-domain connections, and technical vocabulary that requires simultaneous processing. A single paragraph may require you to hold active: a definition, its qualifying conditions, its relationship to a broader theory, and its implications for practice. This is intrinsic load by design — the…
 
 > [!claude-insight] **Claude's Insight: The Asymmetry of Dual-Task Costs** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > There is an important asymmetry in the dual-task literature that directly applies to your situation. When people walk and think simultaneously, they tend to prioritize one task over the other — and the prioritization is not random. Young adults in laboratory settings typically adopt a **"posture-second" strategy**, prioritizing the cognitive task and allowing gait to degrade. This means you may be maintaining reading comprehension at the cost of degraded walking quality. However — and this is the critical point — the prioritization is imperfect and costly. The effort of managing the task…
 
 > [!claude-insight] **Claude's Insight: The Automaticity Paradox in Your Situation** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> Here is a paradox that illuminates the limits of the "walking is automatic" argument. You are an expert walker — walking is about as automatized as a motor skill can be. But you are NOT reading expert-level material in a domain where you have expert-level schemas. These reports cover topics you are actively learning — by definition, the material generates high [[Intrinsic-Cognitive-Load|intrinsic load]] precisely because your schemas are still developing. So you have an asymmetry: a highly automatic motor task paired with a highly non-automatic cognitive task. The motor task is cheap — but it…
+> Here is a paradox that illuminates the limits of the "walking is automatic" argument. You are an expert walker — walking is about as automatized as a motor skill can be. But you are NOT reading expert-level material in a domain where you have expert-level schemas. These reports cover topics you are actively learning — by definition, the material generates high [[intrinsic-cognitive-load|intrinsic load]] precisely because your schemas are still developing. So you have an asymmetry: a highly automatic motor task paired with a highly non-automatic cognitive task. The motor task is cheap — but it…
 
 > [!claude-insight] **Claude's Insight: Embodied Cognition's Selective Relevance** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
 > The embodied cognition literature is frequently invoked in popular discussions of walking and thinking, but its relevance to *reading comprehension* specifically is far weaker than is commonly assumed. The strongest embodied effects involve creative ideation, emotional processing, spatial reasoning, and motor planning — not the sustained analytical comprehension of verbal arguments. For your situation, embodied cognition offers a minor potential benefit (arousal, spatial metaphor facilitation) that is almost certainly outweighed by the dual-task costs documented in the previous sections. The…
@@ -337,7 +337,7 @@ importance: high
 > Walking approximately 40 miles per week is substantial — roughly 5.7 miles per day, or about 100–120 minutes of walking daily. This level of physical activity is well above the threshold for chronic exercise benefits: improved baseline executive function, enhanced hippocampal volume, elevated resting BDNF, and better stress regulation. These chronic benefits persist whether or not you walk while reading. In other words, you do not need to walk *while* reading to get walking's cognitive benefits — you can separate the activities and still reap the neurobiological rewards. The question becomes:…
 
 > [!claude-insight] **Claude's Insight: Walking's Irreplaceable Contributions** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*
-> The recommendation to separate walking from reading should NOT be interpreted as a recommendation to walk less. Walking contributes at least five things that desk-based reading cannot: (1) chronic cardiovascular and neurobiological benefits (BDNF, cerebral blood flow, stress regulation), (2) creative incubation through diffuse attention states, (3) [[Memory-Consolidation|memory consolidation]] through embodied replay, (4) psychological restoration and [[Attention-Restoration-Theory|attention restoration]] (Kaplan, 1995) — the mental refresh that combat [[Decision-Fatigue|decision fatigue]]…
+> The recommendation to separate walking from reading should NOT be interpreted as a recommendation to walk less. Walking contributes at least five things that desk-based reading cannot: (1) chronic cardiovascular and neurobiological benefits (BDNF, cerebral blood flow, stress regulation), (2) creative incubation through diffuse attention states, (3) [[memory-consolidation|memory consolidation]] through embodied replay, (4) psychological restoration and [[Attention-Restoration-Theory|attention restoration]] (Kaplan, 1995) — the mental refresh that combat [[Decision-Fatigue|decision fatigue]]…
 
 ## Section Summaries
 
@@ -567,19 +567,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[walking-and-academic-reading-foundational-report-2026-04-13]])*:
-- [[Working-Memory]]
-- [[Cognitive-Load-Theory]]
-- [[Attention]]
-- [[Long-Term-Memory]]
-- [[Schema-Theory]]
-- [[Metacognition]]
-- [[Personal-Knowledge-Management]]
-- [[Self-Regulated-Learning]]
-- [[Study-Strategies]]
-- [[Exercise-and-Brain-Health]]
+- [[working-memory|Working-Memory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[attention|Attention]]
+- [[long-term-memory|Long-Term-Memory]]
+- [[schema-theory|Schema-Theory]]
+- [[metacognition|Metacognition]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[study-strategies|Study-Strategies]]
+- [[exercise-and-brain-health|Exercise-and-Brain-Health]]
 
 **Related concepts:**
-[[Working-Memory]] · [[Cognitive-Load-Theory]] · [[Embodied-Cognition]] · [[Working-Memory-Capacity]] · [[Attention]] · [[Executive-Function]] · [[Intrinsic-Cognitive-Load]] · [[Personal-Knowledge-Base]] · [[Generation-Effect]] · [[Retrieval-Practice]] · [[Self-Explanation-Effect]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Baddeley's-Working-Memory-Model]] · [[Cognitive-Load-Theory]] · [[Desirable-Difficulties]] · [[Working-Memory]] · [[Alan-Baddeley]] · [[Graham-Hitch]] · [[Baddeley's-Working-Memory-Model]] · [[Phonological-Loop]] · [[Visuospatial-Sketchpad]] · [[Episodic-Buffer]] · [[Central-Executive]] · [[Long-Term-Memory]] · [[Working-Memory-Capacity]] · [[Central-Executive]] · [[Phonological-Loop]]
+[[working-memory|Working-Memory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[embodied-cognition|Embodied-Cognition]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[attention|Attention]] · [[executive-function|Executive-Function]] · [[intrinsic-cognitive-load|Intrinsic-Cognitive-Load]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[generation-effect|Generation-Effect]] · [[retrieval-practice|Retrieval-Practice]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition|Metacognition]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[desirable-difficulties|Desirable-Difficulties]] · [[working-memory|Working-Memory]] · [[alan-baddeley|Alan-Baddeley]] · [[graham-hitch|Graham-Hitch]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[phonological-loop|Phonological-Loop]] · [[visuospatial-sketchpad|Visuospatial-Sketchpad]] · [[episodic-buffer|Episodic-Buffer]] · [[central-executive|Central-Executive]] · [[long-term-memory|Long-Term-Memory]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[central-executive|Central-Executive]] · [[phonological-loop|Phonological-Loop]]
 
 ## References
 

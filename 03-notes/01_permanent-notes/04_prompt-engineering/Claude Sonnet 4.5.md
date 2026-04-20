@@ -10,7 +10,7 @@ aliases:
 link-up:
   - "[[permeant-note_moc]]"
 link-related:
-  - "[[Claude-Opus-4]]"
+  - "[[claude-opus-4]]"
   - "[[Claude Project]]"
   - "[[03-notes/01_permanent-notes/04_prompt-engineering/Claude]]"
   - "[[Anthropic]]"
@@ -41,7 +41,7 @@ review-priority: medium
 
 > [!evidence]
 > **This model excels at**:
-> 1. Complex [[Reasoning]] tasks.
+> 1. Complex [[reasoning]] tasks.
 > 2. Extended [[Context Windows|context]] management.
 > 3. Sophisticated [[Instruction Following]].
 > 

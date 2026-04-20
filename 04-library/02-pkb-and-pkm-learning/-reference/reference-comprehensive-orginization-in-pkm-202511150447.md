@@ -28,7 +28,7 @@ aliases: [PKB Organization, Knowledge Base Structure, Information Organization, 
 
 > [!abstract]
 > **Executive Overview**
-> Organization within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents the systematic structuring of information to optimize retrieval, facilitate connections, and support knowledge work. This reference note explores the theoretical foundations, practical frameworks, and implementation strategies for organizing personal knowledge bases, with particular emphasis on [[Obsidian]] and evidence-based cognitive principles.
+> Organization within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents the systematic structuring of information to optimize retrieval, facilitate connections, and support knowledge work. This reference note explores the theoretical foundations, practical frameworks, and implementation strategies for organizing personal knowledge bases, with particular emphasis on [[obsidian]] and evidence-based cognitive principles.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -121,7 +121,7 @@ The relationship between external organizational structures (folders, tags, link
 
 Working memory only stores between five and nine items of information, with seven items being the average, and lasts only between 15 and 30 seconds without rehearsal. This severe limitation has profound implications for PKM organization. External organizational structures function as cognitive scaffolding that offloads the burden of maintaining complex relationships and hierarchies from working memory to the environment.
 
-The principle of [[Chunking]]—grouping pieces of information together to facilitate retention—operates at both cognitive and organizational levels. Instead of recalling each piece individually, individuals recall the entire group and then can retrieve each item from that group more easily. In PKM terms, folders, MOCs (Maps of Content), and tag hierarchies serve as chunks that reduce the cognitive load of navigating large information spaces.
+The principle of [[chunking]]—grouping pieces of information together to facilitate retention—operates at both cognitive and organizational levels. Instead of recalling each piece individually, individuals recall the entire group and then can retrieve each item from that group more easily. In PKM terms, folders, MOCs (Maps of Content), and tag hierarchies serve as chunks that reduce the cognitive load of navigating large information spaces.
 
 **Organizational Strategies for Reducing Cognitive Load**:
 
@@ -160,8 +160,8 @@ The concept of **retrieval cues** is central to organizational design. Every org
 ## 3. 🎯 Organizational Frameworks & Methodologies
 
 > [!definition]
-> - **[[PARA-Method]]**: A universal framework organizing information into Projects, Areas, Resources, and Archives based on actionability
-> - **[[Zettelkasten]]**: A note-taking methodology emphasizing atomic notes, organic linking, and emergent structure
+> - **[[para-method]]**: A universal framework organizing information into Projects, Areas, Resources, and Archives based on actionability
+> - **[[zettelkasten]]**: A note-taking methodology emphasizing atomic notes, organic linking, and emergent structure
 > - **[[Johnny Decimal]]**: A numerical organizational system providing unambiguous locations for information
 
 ### The PARA Method: Action-Oriented Organization

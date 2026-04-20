@@ -234,7 +234,7 @@ The alternative architecture is the **networked** or **graph-based** model. This
   - **Why it Succeeds:**
     1. **It's a "Write-First" System:** The friction to create is zero. You write the note (`📄 The Physics of Free Will`). You don't need to categorize it. You simply *connect* it to `[[Free Will]]` and `[[Quantum Mechanics]]`.
     1. **It's Polygamous:** The note doesn't "live" anywhere. It exists as a node. It can be linked to *one* other note or *one thousand*. It can appear in `[[Physics MOC]]`, `[[Philosophy MOC]]`, and `[[Book Project Ideas]]` simultaneously, without duplication.
-    1. **It Reveals Connections:** This is its superpower. By its very design, it *exposes* interstitial insights. The "graph view" is a literal map of your constructivist schema. You can *see* that `[[Cognitive-Bias]]` and `[[Marketing]]` are heavily linked, an insight you may never have had otherwise.
+    1. **It Reveals Connections:** This is its superpower. By its very design, it *exposes* interstitial insights. The "graph view" is a literal map of your constructivist schema. You can *see* that `[[cognitive-bias]]` and `[[Marketing]]` are heavily linked, an insight you may never have had otherwise.
     1. **It's Fluid:** The system *rewards* accommodation. When your understanding changes, you don't "move" anything. You just *add new links* or *write a new note* that links the two old, conflicting ideas. The structure is *emergent*—it grows and adapts *with* you. This is the ultimate tool for a self-directed learner.
 
 > [!analogy]
@@ -256,7 +256,7 @@ This is the core principle of the Zettelkasten. An **atomic note** is a single n
 
 If atomic notes are the "bricks," **Maps of Content (MOCs)** are the "blueprints." A MOC is simply a note *about* other notes. It is an index, a summary, a synthesis.
 
-  - **Why it works (Andragogy):** It is the *epitome* of problem-centered learning. You have a problem, "I need to understand my team's communication issues." You create a new note, `[[Team Comms MOC]]`. You then *gather* (by linking) all your atomic notes: `[[Psychological-Safety]]`, `[[Vygotsky's ZPD]]`, `[[Management Theory]]`, `[[My notes from 1-on-1 with Bob]]`.
+  - **Why it works (Andragogy):** It is the *epitome* of problem-centered learning. You have a problem, "I need to understand my team's communication issues." You create a new note, `[[Team Comms MOC]]`. You then *gather* (by linking) all your atomic notes: `[[psychological-safety]]`, `[[Vygotsky's ZPD]]`, `[[Management Theory]]`, `[[My notes from 1-on-1 with Bob]]`.
   - **Why it works (Constructivism):** The MOC *is* the act of synthesis. It *is* Vygotsky's ZPD in action. The MOC is the "More Knowledgeable Other" (which you, yourself, are building) that guides your learning. You are actively *constructing* a new, higher-level schema from your existing, lower-level atomic notes. This is the "Aha\!" moment, codified.
 
 -----

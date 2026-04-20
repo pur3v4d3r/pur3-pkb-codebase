@@ -11,7 +11,7 @@ status: active
 # Project Brief: Personal Knowledge Base & Multi-LLM Collaboration Vault
 
 > [!abstract] Strategic Context
-> This vault serves as a Personal Knowledge Base (PKB) optimized for multi-LLM collaboration, combining human knowledge management with AI agent memory persistence. The vault integrates [[Obsidian]], [[Claude-Code]], [[Gemini-Code-Assist]], and semantic retrieval systems to create a living, queryable knowledge graph.
+> This vault serves as a Personal Knowledge Base (PKB) optimized for multi-LLM collaboration, combining human knowledge management with AI agent memory persistence. The vault integrates [[obsidian]], [[Claude-Code]], [[Gemini-Code-Assist]], and semantic retrieval systems to create a living, queryable knowledge graph.
 
 ## Context
 
@@ -62,7 +62,7 @@ Agent memory persistence enables agents to recover project context after session
 ### In Scope
 
 **Knowledge Management**:
-- PKB architecture using [[Zettelkasten]]-inspired principles
+- PKB architecture using [[zettelkasten]]-inspired principles
 - [[MOC|Maps of Content]] for domain navigation
 - Atomic notes with high [[wiki-link]] density
 - [[Dataview]], [[Templater]], and [[QuickAdd]] automation

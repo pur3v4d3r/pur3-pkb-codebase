@@ -205,7 +205,7 @@ extraction_summary:
 #### 11. [DEFINITION] Socratic Ignorance (Plato's Apology — "I know that I know nothing") *(Line 215)*
 
 > [!definition] Socratic Ignorance (Plato's Apology — "I know that I know nothing")
-> The Socratic meta-cognitive stance of recognizing one's own ignorance as a positive epistemic achievement. The famous claim in the Apology — that Socrates is wiser than others because, while neither knows anything fine and good, others think they know when they do not, while Socrates neither knows nor thinks he knows — is not a counsel of despair but a methodological principle. The recognition of one's ignorance is the necessary condition for genuine inquiry. This maps directly onto the cognitive science of [[Metacognitive-Calibration|Metacognitive Calibration]]: research by David Dunning, Justin Kruger, and others shows that the ability to recognize what one does not know is among the most cognitively sophisticated epistemic achievements, and that incompetence specifically impairs the ability to recognize incompetence.
+> The Socratic meta-cognitive stance of recognizing one's own ignorance as a positive epistemic achievement. The famous claim in the Apology — that Socrates is wiser than others because, while neither knows anything fine and good, others think they know when they do not, while Socrates neither knows nor thinks he knows — is not a counsel of despair but a methodological principle. The recognition of one's ignorance is the necessary condition for genuine inquiry. This maps directly onto the cognitive science of [[metacognitive-calibration|Metacognitive Calibration]]: research by David Dunning, Justin Kruger, and others shows that the ability to recognize what one does not know is among the most cognitively sophisticated epistemic achievements, and that incompetence specifically impairs the ability to recognize incompetence.
 
 #### 12. [CROSS-DOMAIN-CONNECTION] Socratic Ignorance and Dunning-Kruger: Two Disciplines, One Structure *(Line 218)*
 
@@ -583,28 +583,28 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Accommodation]]
-- [[American-pragmatism|American Pragmatism]]
-- [[Aporia]]
-- [[Assimilation]]
+- [[accommodation]]
+- [[american-pragmatism|American Pragmatism]]
+- [[aporia]]
+- [[assimilation]]
 - [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]
 - [[Classical-Epistemology|Classical Epistemology]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Science|Cognitive Science]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[cognitive-science|Cognitive Science]]
 - [[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Enactivism]]
+- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[enactivism]]
 - [[Epistemic-State|Epistemic State]]
 - [[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]
 - [[Familiarity]]
 - [[Gettier Cases]]
 - [[Ignorance-Map|Ignorance Map]]
-- [[Illusion-of-Knowing|Illusion of Knowing]]
-- [[Justified-True-Belief|Justified True Belief]]
+- [[illusion-of-knowing|Illusion of Knowing]]
+- [[justified-true-belief|Justified True Belief]]
 - [[Kataleptic-Impression|Kataleptic Impression]]
-- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[metacognitive-calibration|Metacognitive Calibration]]
 - [[Open-Questions-Registry|Open Questions Registry]]
 - [[Philosophy-of-Science-and-PKM-—-Scientific-Method-as-Epistemic-Model|Philosophy of Science and PKM — Scientific Method as Epistemic Model]]
 - [[Pragmatist Philosophy]]
@@ -622,56 +622,56 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Socratic Epistemics]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Stoic Epistemology]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[testing-effect-retrieval-practice-effect|Testing Effect]]
 - [[The-Epistemology-of-Memory-—-When-Does-Memory-Constitute-Knowledge|The Epistemology of Memory — When Does Memory Constitute Knowledge?]]
 - [[The Ethics of Belief — W.K. Clifford and Epistemic Obligation]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Virtue-Epistemology|Virtue Epistemology]]
+- [[transfer-of-learning|Transfer of Learning]]
+- [[virtue-epistemology|Virtue Epistemology]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
+| 1 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
 | 2 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Question Hiding at the Center of PKM | 135 |
-| 3 | [[Schema-Theory|Schema Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
-| 4 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | The Question Hiding at the Center of PKM | 140 |
+| 3 | [[schema-theory|Schema Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
+| 4 | [[illusion-of-knowing|Illusion of Knowing]] | — | — | The Question Hiding at the Center of PKM | 140 |
 | 5 | [[Classical-Epistemology|Classical Epistemology]] | — | — | Scope and Cross-Domain Architecture | 147 |
 | 6 | [[Pragmatist Philosophy]] | — | — | Scope and Cross-Domain Architecture | 147 |
-| 7 | [[Constructivism]] | — | — | Scope and Cross-Domain Architecture | 147 |
+| 7 | [[constructivism]] | — | — | Scope and Cross-Domain Architecture | 147 |
 | 8 | [[Stoic Epistemology]] | — | — | Scope and Cross-Domain Architecture | 147 |
 | 9 | [[Socratic Epistemics]] | — | — | Scope and Cross-Domain Architecture | 147 |
-| 10 | [[Cognitive-Science|Cognitive Science]] | — | — | Scope and Cross-Domain Architecture | 147 |
-| 11 | [[Justified-True-Belief|Justified True Belief]] | — | — | The Classical Inheritance: Justified ... | 159 |
+| 10 | [[cognitive-science|Cognitive Science]] | — | — | Scope and Cross-Domain Architecture | 147 |
+| 11 | [[justified-true-belief|Justified True Belief]] | — | — | The Classical Inheritance: Justified ... | 159 |
 | 12 | [[Gettier Cases]] | — | — | The Classical Inheritance: Justified ... | 166 |
 | 13 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | The Classical Inheritance: Justified ... | 169 |
 | 14 | [[Report 18: Calibration and Epistemic Humility]] | — | — | The Classical Inheritance: Justified ... | 169 |
-| 15 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | The Classical Inheritance: Justified ... | 171 |
-| 16 | [[American-pragmatism|American Pragmatism]] | pragmatist | — | The Pragmatist Transformation: Truth ... | 180 |
-| 17 | [[Constructivism]] | — | — | Constructivism: Knowledge as Built, N... | 192 |
-| 18 | [[Assimilation]] | — | — | Constructivism: Knowledge as Built, N... | 197 |
-| 19 | [[Accommodation]] | — | — | Constructivism: Knowledge as Built, N... | 197 |
+| 15 | [[virtue-epistemology|Virtue Epistemology]] | — | — | The Classical Inheritance: Justified ... | 171 |
+| 16 | [[american-pragmatism|American Pragmatism]] | pragmatist | — | The Pragmatist Transformation: Truth ... | 180 |
+| 17 | [[constructivism]] | — | — | Constructivism: Knowledge as Built, N... | 192 |
+| 18 | [[assimilation]] | — | — | Constructivism: Knowledge as Built, N... | 197 |
+| 19 | [[accommodation]] | — | — | Constructivism: Knowledge as Built, N... | 197 |
 | 20 | [[Stoic-Philosophy|Stoic Philosophy]] | Stoics | — | Stoic Epistemology: Virtue, Certainty... | 201 |
 | 21 | [[Kataleptic-Impression|Kataleptic Impression]] | — | — | Stoic Epistemology: Virtue, Certainty... | 201 |
 | 22 | [[Dichotomy-of-Control|Dichotomy of Control]] | distinguishing what is up to us from what is not | — | Stoic Epistemology: Virtue, Certainty... | 206 |
 | 23 | [[Socratic-Method-Elenchus|Socratic Method]] | — | — | Socratic Epistemics: The Wisdom of No... | 210 |
-| 24 | [[Aporia]] | — | — | Socratic Epistemics: The Wisdom of No... | 210 |
-| 25 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Socratic Epistemics: The Wisdom of No... | 216 |
+| 24 | [[aporia]] | — | — | Socratic Epistemics: The Wisdom of No... | 210 |
+| 25 | [[metacognitive-calibration|Metacognitive Calibration]] | — | — | Socratic Epistemics: The Wisdom of No... | 216 |
 | 26 | [[Familiarity]] | — | — | The Cognitive Science of Knowing vs. ... | 238 |
 | 27 | [[Recollection]] | — | — | The Cognitive Science of Knowing vs. ... | 238 |
-| 28 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Cognitive Science of Knowing vs. ... | 248 |
+| 28 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | The Cognitive Science of Knowing vs. ... | 248 |
 | 29 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Calibration Research: The Self-Assess... | 252 |
-| 30 | [[Schema-Theory|Schema Theory]] | — | — | The Constructivist Evidence Base: Sch... | 259 |
-| 31 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | The Constructivist Evidence Base: Sch... | 261 |
-| 32 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | What Pragmatist Evidence Looks Like | 270 |
+| 30 | [[schema-theory|Schema Theory]] | — | — | The Constructivist Evidence Base: Sch... | 259 |
+| 31 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | The Constructivist Evidence Base: Sch... | 261 |
+| 32 | [[transfer-of-learning|Transfer of Learning]] | — | — | What Pragmatist Evidence Looks Like | 270 |
 | 33 | [[Report 11: The Transfer Problem]] | — | — | What Pragmatist Evidence Looks Like | 270 |
-| 34 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | The PKB Paradox: Why Storage Feels Li... | 315 |
-| 35 | [[Enactivism]] | — | — | Enactive Knowledge and the PKB | 324 |
+| 34 | [[illusion-of-knowing|Illusion of Knowing]] | — | — | The PKB Paradox: Why Storage Feels Li... | 315 |
+| 35 | [[enactivism]] | — | — | Enactive Knowledge and the PKB | 324 |
 | 36 | [[Report 14: Inquiry-Based Knowledge Building]] | — | — | Return-and-Deepen: The Five Framework... | 359 |
 | 37 | [[Epistemic-State|Epistemic State]] | — | — | Design Principle 1: The Epistemic Sta... | 375 |
 | 38 | [[Ignorance-Map|Ignorance Map]] | — | — | Design Principle 2: Aporia-Generating... | 397 |
@@ -713,28 +713,28 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Accommodation]]
-- [[American-pragmatism|American Pragmatism]]
-- [[Aporia]]
-- [[Assimilation]]
+- [[accommodation]]
+- [[american-pragmatism|American Pragmatism]]
+- [[aporia]]
+- [[assimilation]]
 - [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]
 - [[Classical-Epistemology|Classical Epistemology]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Science|Cognitive Science]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[cognitive-science|Cognitive Science]]
 - [[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Enactivism]]
+- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[enactivism]]
 - [[Epistemic-State|Epistemic State]]
 - [[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]
 - [[Familiarity]]
 - [[Gettier Cases]]
 - [[Ignorance-Map|Ignorance Map]]
-- [[Illusion-of-Knowing|Illusion of Knowing]]
-- [[Justified-True-Belief|Justified True Belief]]
+- [[illusion-of-knowing|Illusion of Knowing]]
+- [[justified-true-belief|Justified True Belief]]
 - [[Kataleptic-Impression|Kataleptic Impression]]
-- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[metacognitive-calibration|Metacognitive Calibration]]
 - [[Open-Questions-Registry|Open Questions Registry]]
 - [[Philosophy-of-Science-and-PKM-—-Scientific-Method-as-Epistemic-Model|Philosophy of Science and PKM — Scientific Method as Epistemic Model]]
 - [[Pragmatist Philosophy]]
@@ -752,16 +752,16 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Socratic Epistemics]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Stoic Epistemology]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[testing-effect-retrieval-practice-effect|Testing Effect]]
 - [[The-Epistemology-of-Memory-—-When-Does-Memory-Constitute-Knowledge|The Epistemology of Memory — When Does Memory Constitute Knowledge?]]
 - [[The Ethics of Belief — W.K. Clifford and Epistemic Obligation]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Virtue-Epistemology|Virtue Epistemology]]
+- [[transfer-of-learning|Transfer of Learning]]
+- [[virtue-epistemology|Virtue Epistemology]]
 
 ### Frontmatter Relationships
 

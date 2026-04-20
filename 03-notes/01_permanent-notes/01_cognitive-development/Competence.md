@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Competence]]
+> - **Key-Term**:[[competence]]
 > - [**Definition**:Concerns the fundamental human need to feel effective in one's interactions with the environment, to experience mastery and growth in pursuing meaningful challenges.]
 
 

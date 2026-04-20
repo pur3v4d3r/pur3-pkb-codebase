@@ -334,15 +334,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Schema-Theory|Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like "I know this" is sometimes "I have a schema that pattern-matches this" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.
+> - **[[schema-theory|Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like "I know this" is sometimes "I have a schema that pattern-matches this" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.
 > 
-> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.
+> - **[[cognitive-load-theory|Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.
 > 
-> - **[[Schema-Progressive-Architecture|Schema-Progressive Architecture]]** — Report 03's Schema-Progressive Architecture (Layer 4: Frontier sections, forward-facing links to unknowns) is now revealed as a metacognitive scaffolding device: Frontier sections embed delayed self-monitoring into the note structure, and forward-facing links create the "felt difficulty" cues that activate genuine inquiry. The SPA is architecturally consistent with, and substantially reinforced by, the metacognitive framework developed here.
+> - **[[schema-progressive-architecture|Schema-Progressive Architecture]]** — Report 03's Schema-Progressive Architecture (Layer 4: Frontier sections, forward-facing links to unknowns) is now revealed as a metacognitive scaffolding device: Frontier sections embed delayed self-monitoring into the note structure, and forward-facing links create the "felt difficulty" cues that activate genuine inquiry. The SPA is architecturally consistent with, and substantially reinforced by, the metacognitive framework developed here.
 > 
-> - **[[Self-Determination-Theory|Self-Determination Theory]]** — The motivational dimension of SRL (covered in [[Report 05: Motivation Architecture]]) intersects directly with metacognitive practice: autonomy support, competence need satisfaction, and mastery orientation all affect whether learners engage in honest self-assessment or defensive avoidance. The Metacognitive PKB framework requires motivational analysis to become fully operational.
+> - **[[self-determination-theory|Self-Determination Theory]]** — The motivational dimension of SRL (covered in [[Report 05: Motivation Architecture]]) intersects directly with metacognitive practice: autonomy support, competence need satisfaction, and mastery orientation all affect whether learners engage in honest self-assessment or defensive avoidance. The Metacognitive PKB framework requires motivational analysis to become fully operational.
 > 
-> - **[[Spaced-Repetition-Spacing-Effect|Spacing Effect]]** and **[[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]** — Report 06 (The Science of Remembering) will examine the mnemonic evidence base for review design. That evidence is directly continuous with this report's calibration analysis: spaced repetition works partly *because* it forces retrieval attempts that generate accurate monitoring signals, not merely because of temporal distribution. The connection is mechanistic, not merely topical.
+> - **[[spaced-repetition-spacing-effect|Spacing Effect]]** and **[[testing-effect-retrieval-practice-effect|Testing Effect]]** — Report 06 (The Science of Remembering) will examine the mnemonic evidence base for review design. That evidence is directly continuous with this report's calibration analysis: spaced repetition works partly *because* it forces retrieval attempts that generate accurate monitoring signals, not merely because of temporal distribution. The connection is mechanistic, not merely topical.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -530,25 +530,25 @@ extraction_summary:
 ### Unique Targets
 
 - [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Flavell]]
+- [[flavell]]
 - [[Forgetting-Curve|Forgetting Curve]]
-- [[Illusion-of-Knowing|Illusion of Knowing]]
+- [[illusion-of-knowing|Illusion of Knowing]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Learning-Journal|Learning Journal]]
-- [[Metacognition]]
+- [[metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[pragmatism]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
-- [[Reflective-Practice|Reflective Practice]]
+- [[reflective-practice|Reflective Practice]]
 - [[Reflective-Practitioner|Reflective Practitioner]]
 - [[Report-02]]
 - [[Report 03: Constructing Understanding]]
@@ -561,29 +561,29 @@ extraction_summary:
 - [[Report 16]]
 - [[Report 18: Calibration and Epistemic Humility]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[schema-theory|Schema Theory]]
+- [[schema-progressive-architecture|Schema-Progressive Architecture]]
+- [[self-determination-theory|Self-Determination Theory]]
+- [[self-explanation-effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[spaced-repetition-spacing-effect|Spacing Effect]]
+- [[testing-effect-retrieval-practice-effect|Testing Effect]]
 - [[The Stoic Philosophical Tradition and Metacognitive Practice]]
-- [[Working-Memory|Working Memory]]
+- [[working-memory|Working Memory]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Difference That Makes the Difference | 93 |
-| 2 | [[Metacognition]] | — | — | The Difference That Makes the Difference | 95 |
-| 3 | [[Metacognition]] | — | — | The Synthesis Question | 102 |
+| 1 | [[personal-knowledge-base|Personal Knowledge Base]] | — | — | The Difference That Makes the Difference | 93 |
+| 2 | [[metacognition]] | — | — | The Difference That Makes the Difference | 95 |
+| 3 | [[metacognition]] | — | — | The Synthesis Question | 102 |
 | 4 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Synthesis Question | 102 |
 | 5 | [[Reflective-Inquiry|Reflective Inquiry]] | — | — | The Synthesis Question | 102 |
-| 6 | [[Reflective-Practice|Reflective Practice]] | — | — | The Synthesis Question | 102 |
+| 6 | [[reflective-practice|Reflective Practice]] | — | — | The Synthesis Question | 102 |
 | 7 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Disciplinary Contributions and Their ... | 108 |
-| 8 | [[Flavell]] | — | — | Disciplinary Contributions and Their ... | 108 |
-| 9 | [[Educational-Psychology|Educational Psychology]] | — | — | Disciplinary Contributions and Their ... | 108 |
+| 8 | [[flavell]] | — | — | Disciplinary Contributions and Their ... | 108 |
+| 9 | [[educational-psychology|Educational Psychology]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 10 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 11 | [[pragmatism]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 12 | [[Reflective-Inquiry|Reflective Inquiry]] | — | — | Disciplinary Contributions and Their ... | 108 |
@@ -591,29 +591,29 @@ extraction_summary:
 | 14 | [[Reflective-Practitioner|Reflective Practitioner]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 15 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | What Metacognition Actually Is | 132 |
 | 16 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | What Metacognition Actually Is | 132 |
-| 17 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | Key Findings and Their Implications | 187 |
-| 18 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | Key Findings and Their Implications | 204 |
+| 17 | [[illusion-of-knowing|Illusion of Knowing]] | — | — | Key Findings and Their Implications | 187 |
+| 18 | [[self-explanation-effect|Self-Explanation Effect]] | — | — | Key Findings and Their Implications | 204 |
 | 19 | [[Report 03: Constructing Understanding]] | — | — | Key Findings and Their Implications | 206 |
 | 20 | [[Ease-of-Learning-—-EOL|Ease of Learning]] | — | — | The Monitoring-Control Loop in Detail | 248 |
 | 21 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | The Monitoring-Control Loop in Detail | 250 |
 | 22 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | The Monitoring-Control Loop in Detail | 252 |
-| 23 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Where the Mechanisms Fail — And Why T... | 284 |
+| 23 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Where the Mechanisms Fail — And Why T... | 284 |
 | 24 | [[Report 16]] | — | — | Where the Mechanisms Fail — And Why T... | 284 |
 | 25 | [[Forgetting-Curve|Forgetting Curve]] | — | — | Where the Mechanisms Fail — And Why T... | 288 |
-| 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Where the Mechanisms Fail — And Why T... | 295 |
+| 26 | [[self-determination-theory|Self-Determination Theory]] | — | — | Where the Mechanisms Fail — And Why T... | 295 |
 | 27 | [[Report 03: Constructing Understanding]] | — | — | Return and Deepen: Metacognition and ... | 302 |
-| 28 | [[Schema-Progressive-Architecture|Schema-Progressive Architecture]] | — | — | Return and Deepen: Metacognition and ... | 302 |
-| 29 | [[Working-Memory|Working Memory]] | — | — | The Externalization Principle | 313 |
+| 28 | [[schema-progressive-architecture|Schema-Progressive Architecture]] | — | — | Return and Deepen: Metacognition and ... | 302 |
+| 29 | [[working-memory|Working Memory]] | — | — | The Externalization Principle | 313 |
 | 30 | [[Report-02]] | — | — | The Externalization Principle | 313 |
 | 31 | [[Learning-Journal|Learning Journal]] | — | — | The Externalization Principle | 316 |
 | 32 | [[Report 10: Scaffolding and Fading]] | — | — | Unresolved Questions | 447 |
-| 33 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 456 |
-| 34 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 458 |
-| 35 | [[Schema-Progressive-Architecture|Schema-Progressive Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 460 |
-| 36 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 462 |
+| 33 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 456 |
+| 34 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 458 |
+| 35 | [[schema-progressive-architecture|Schema-Progressive Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 460 |
+| 36 | [[self-determination-theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 462 |
 | 37 | [[Report 05: Motivation Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 462 |
-| 38 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 464 |
-| 39 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 464 |
+| 38 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 464 |
+| 39 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 464 |
 | 40 | [[Report 06: The Science of Remembering]] | — | — | Phase VII: PKB Connections & Cross-Re... | 468 |
 | 41 | [[Report 12: The Reflective PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 470 |
 | 42 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 472 |
@@ -678,25 +678,25 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Flavell]]
+- [[flavell]]
 - [[Forgetting-Curve|Forgetting Curve]]
-- [[Illusion-of-Knowing|Illusion of Knowing]]
+- [[illusion-of-knowing|Illusion of Knowing]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
 - [[Learning-Journal|Learning Journal]]
-- [[Metacognition]]
+- [[metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[pragmatism]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
-- [[Reflective-Practice|Reflective Practice]]
+- [[reflective-practice|Reflective Practice]]
 - [[Reflective-Practitioner|Reflective Practitioner]]
 - [[Report-02]]
 - [[Report 03: Constructing Understanding]]
@@ -709,15 +709,15 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 - [[Report 16]]
 - [[Report 18: Calibration and Epistemic Humility]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[schema-theory|Schema Theory]]
+- [[schema-progressive-architecture|Schema-Progressive Architecture]]
+- [[self-determination-theory|Self-Determination Theory]]
+- [[self-explanation-effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[spaced-repetition-spacing-effect|Spacing Effect]]
+- [[testing-effect-retrieval-practice-effect|Testing Effect]]
 - [[The Stoic Philosophical Tradition and Metacognitive Practice]]
-- [[Working-Memory|Working Memory]]
+- [[working-memory|Working Memory]]
 
 ### Frontmatter Relationships
 
@@ -729,28 +729,28 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 
 #### Related Concepts
 
-- [[Metacognition]]
+- [[metacognition]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
-- [[Metacognitive-Control|Metacognitive Control]]
-- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
-- [[Calibration]]
+- [[metacognitive-control|Metacognitive Control]]
+- [[metacognitive-knowledge|Metacognitive Knowledge]]
+- [[calibration]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
-- [[Zimmerman-SRL-Model|Zimmerman SRL Model]]
-- [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]
-- [[Nelson-Narens-Model|Nelson Narens Model]]
-- [[Self-Efficacy]]
-- [[Reflective-Practice|Reflective Practice]]
-- [[Deliberate-Practice]]
+- [[zimmerman-srl-model|Zimmerman SRL Model]]
+- [[flavell-metacognition-framework|Flavell Metacognition Framework]]
+- [[nelson-narens-model|Nelson Narens Model]]
+- [[self-efficacy]]
+- [[reflective-practice|Reflective Practice]]
+- [[deliberate-practice]]
 - [[Learning-Journal|Learning Journal]]
-- [[Metacognitive-Scaffolding]]
-- [[Illusion-of-Knowing|Illusion of Knowing]]
-- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[metacognitive-scaffolding]]
+- [[illusion-of-knowing|Illusion of Knowing]]
+- [[self-explanation-effect|Self-Explanation Effect]]
 - [[Stoic Journaling]]
 - [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[PKM Review Protocols]]
 - [[Metacognitive PKB]]
 

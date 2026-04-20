@@ -5,6 +5,7 @@
 title: "Cortico-Striatal Learning Loops"
 aliases:
   - "Cortico-Striatal Learning Loops"
+  - "Cortico-Striatal-Learning-Loops"
   - "CLL"
 type: permanent-note
 status: evergreen
@@ -25,8 +26,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,7 +38,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -61,26 +62,26 @@ narrower:
   []
 
 see-also:
-  - "[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]]"
-  - "[[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]]"
-  - "[[Attention]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Skill-Acquisition|Skill Acquisition]]"
-  - "[[Expertise]]"
-  - "[[Cognitive-Control|Cognitive Control]]"
-  - "[[Procedural-Memory|Procedural Memory]]"
-  - "[[Instance-Theory|Instance Theory]]"
-  - "[[Power-Law-of-Practice|Power Law of Practice]]"
-  - "[[Dual-Process-Theory|Dual-Process Theory]]"
-  - "[[Neural-Plasticity|Neural Plasticity]]"
-  - "[[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]]"
-  - "[[Information-Processing-Theory|Information Processing Theory]]"
-  - "[[Memory-Systems|Memory Systems]]"
-  - "[[Attention-Theory|Attention Theory]]"
-  - "[[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]]"
-  - "[[Logan-Instance-Theory|Logan Instance Theory]]"
-  - "[[Anderson-ACT-R-Framework|Anderson ACT-R Framework]]"
-  - "[[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]]"
+  - "[[vader-academic-report-generator-v4.0|VADER-Academic-Report-Generator-v4.0]]"
+  - "[[comprehensive-academic-reference-workflow|Comprehensive-Academic-Reference-Workflow]]"
+  - "[[attention|Attention]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[Skill-Acquisition|Skill-Acquisition]]"
+  - "[[expertise|Expertise]]"
+  - "[[Cognitive-Control|Cognitive-Control]]"
+  - "[[procedural-memory|Procedural-Memory]]"
+  - "[[instance-theory|Instance-Theory]]"
+  - "[[power-law-of-practice|Power-Law-of-Practice]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[neural-plasticity|Neural-Plasticity]]"
+  - "[[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]]"
+  - "[[information-processing-theory|Information-Processing-Theory]]"
+  - "[[memory-systems|Memory-Systems]]"
+  - "[[attention-theory|Attention-Theory]]"
+  - "[[shiffrin-and-schneider-two-process-theory|Shiffrin-and-Schneider-Two-Process-Theory]]"
+  - "[[logan-instance-theory|Logan-Instance-Theory]]"
+  - "[[anderson-act-r-framework|Anderson-ACT-R-Framework]]"
+  - "[[cognitive-control-mechanisms|Cognitive-Control-Mechanisms]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -194,19 +195,7 @@ importance: medium
 ## Connections & Context
 
 **Related concepts:**
-[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] · [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] · [[Attention]] · [[Working-Memory|Working Memory]] · [[Skill-Acquisition|Skill Acquisition]] · [[Expertise]] · [[Cognitive-Control|Cognitive Control]] · [[Procedural-Memory|Procedural Memory]] · [[Instance-Theory|Instance Theory]] · [[Power-Law-of-Practice|Power Law of Practice]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Neural-Plasticity|Neural Plasticity]] · [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] · [[Information-Processing-Theory|Information Processing Theory]] · [[Memory-Systems|Memory Systems]] · [[Attention-Theory|Attention Theory]] · [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]] · [[Logan-Instance-Theory|Logan Instance Theory]] · [[Anderson-ACT-R-Framework|Anderson ACT-R Framework]] · [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]] · [[Learning-and-Memory|Learning and Memory]] · [[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]] · [[Cognitive-Psychology-MOC|Cognitive Psychology MOC]] · [[Deliberate-Practice|Deliberate Practice]] · [[Expertise-Development|Expertise Development]] · [[Attentional-Resources|Attentional Resources]] · [[Neural-Efficiency|Neural Efficiency]] · [[cognitive-psychology|cognitive psychology]] · [[motor-skill-learning|motor skill learning]] · [[language-comprehension|language comprehension]]
-
-**Related concepts** *(from cog-psy-attentional-efficiency-and-skill-aquisition.md)*:
-[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]] * [[Logan-Instance-Theory|Logan Instance Theory]] * [[Anderson-ACT-R-Framework|Anderson ACT-R Framework]] * [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]] * [[Learning-and-Memory|Learning and Memory]] * [[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]] * [[Cognitive-Psychology-MOC|Cognitive Psychology MOC]] * [[Deliberate-Practice|Deliberate Practice]] * [[Expertise-Development|Expertise Development]] * [[Attentional-Resources|Attentional Resources]] * [[Neural-Efficiency|Neural Efficiency]] * [[cognitive-psychology|cognitive psychology]] * [[motor-skill-learning|motor skill learning]] * [[language-comprehension|language comprehension]] * [[expert-performance|expert performance]] * [[memory-representation|memory representation]]
-
-**Related concepts** *(from [[cog-psy-attentional-efficiency-and-skill-aquisition]])*:
-[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]] * [[Logan-Instance-Theory|Logan Instance Theory]] * [[Anderson-ACT-R-Framework|Anderson ACT-R Framework]] * [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]] * [[Learning-and-Memory|Learning and Memory]] * [[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]] * [[Cognitive-Psychology-MOC|Cognitive Psychology MOC]] * [[Deliberate-Practice|Deliberate Practice]] * [[Expertise-Development|Expertise Development]] * [[Attentional-Resources|Attentional Resources]] * [[Neural-Efficiency|Neural Efficiency]] * [[cognitive-psychology|cognitive psychology]] * [[motor-skill-learning|motor skill learning]] * [[language-comprehension|language comprehension]] * [[expert-performance|expert performance]] * [[memory-representation|memory representation]]
-
-**Related concepts** *(from [[cog-psy-attentional-efficiency-and-skill-aquisition]])*:
-[[VADER-Academic-Report-Generator-v4.0|VADER Academic Report Generator v4.0]] * [[Comprehensive-Academic-Reference-Workflow|Comprehensive Academic Reference Workflow]] * [[Working-Memory|Working Memory]] * [[Skill-Acquisition|Skill Acquisition]] * [[Cognitive-Control|Cognitive Control]] * [[Procedural-Memory|Procedural Memory]] * [[Instance-Theory|Instance Theory]] * [[Power-Law-of-Practice|Power Law of Practice]] * [[Dual-Process-Theory|Dual-Process Theory]] * [[Neural-Plasticity|Neural Plasticity]] * [[Cognitive-Psychology-Foundations|Cognitive Psychology Foundations]] * [[Information-Processing-Theory|Information Processing Theory]] * [[Memory-Systems|Memory Systems]] * [[Attention-Theory|Attention Theory]] * [[Shiffrin-and-Schneider-Two-Process-Theory|Shiffrin and Schneider Two-Process Theory]] * [[Logan-Instance-Theory|Logan Instance Theory]] * [[Anderson-ACT-R-Framework|Anderson ACT-R Framework]] * [[Cognitive-Control-Mechanisms|Cognitive Control Mechanisms]] * [[Learning-and-Memory|Learning and Memory]] * [[Cognitive-Psychology-Core-Concepts|Cognitive Psychology Core Concepts]] * [[Cognitive-Psychology-MOC|Cognitive Psychology MOC]] * [[Deliberate-Practice|Deliberate Practice]] * [[Expertise-Development|Expertise Development]] * [[Attentional-Resources|Attentional Resources]] * [[Neural-Efficiency|Neural Efficiency]] * [[cognitive-psychology|cognitive psychology]] * [[motor-skill-learning|motor skill learning]] * [[language-comprehension|language comprehension]] * [[expert-performance|expert performance]] * [[memory-representation|memory representation]]
-
-
-
+[[vader-academic-report-generator-v4.0|VADER-Academic-Report-Generator-v4.0]] · [[comprehensive-academic-reference-workflow|Comprehensive-Academic-Reference-Workflow]] · [[attention|Attention]] · [[working-memory|Working-Memory]] · [[Skill-Acquisition|Skill-Acquisition]] · [[expertise|Expertise]] · [[Cognitive-Control|Cognitive-Control]] · [[procedural-memory|Procedural-Memory]] · [[instance-theory|Instance-Theory]] · [[power-law-of-practice|Power-Law-of-Practice]] · [[dual-process-theory|Dual-Process-Theory]] · [[neural-plasticity|Neural-Plasticity]] · [[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]] · [[information-processing-theory|Information-Processing-Theory]] · [[memory-systems|Memory-Systems]] · [[attention-theory|Attention-Theory]] · [[shiffrin-and-schneider-two-process-theory|Shiffrin-and-Schneider-Two-Process-Theory]] · [[logan-instance-theory|Logan-Instance-Theory]] · [[anderson-act-r-framework|Anderson-ACT-R-Framework]] · [[cognitive-control-mechanisms|Cognitive-Control-Mechanisms]] · [[learning-and-memory|Learning-and-Memory]] · [[cognitive-psychology-core-concepts|Cognitive-Psychology-Core-Concepts]] · [[cognitive-psychology-moc|Cognitive-Psychology-MOC]] · [[deliberate-practice|Deliberate-Practice]] · [[expertise-development|Expertise-Development]] · [[attentional-resources|Attentional-Resources]] · [[neural-efficiency|Neural-Efficiency]] · [[cognitive-psychology]] · [[motor-skill-learning]] · [[language-comprehension]]
 
 ## Methodology Notes
 

@@ -5,6 +5,7 @@
 title: "Elaborative Encoding"
 aliases:
   - "Elaborative Encoding"
+  - "Elaborative-Encoding"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -32,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,39 +69,39 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Cognitive-Load]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Expertise-Reversal-Effect]]"
-  - "[[Zettelkasten]]"
-  - "[[PARA-Method]]"
-  - "[[Cognitive-Load]]"
-  - "[[Working-Memory]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Metacognition]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Schema-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Zettelkasten]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[John-Sweller]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[cognitive-load|Cognitive-Load]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[expertise-reversal-effect|Expertise-Reversal-Effect]]"
+  - "[[zettelkasten|Zettelkasten]]"
+  - "[[para-method|PARA-Method]]"
+  - "[[cognitive-load|Cognitive-Load]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[zettelkasten|Zettelkasten]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[john-sweller|John-Sweller]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Schema-Theory-and-Learning]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[schema-theory-and-learning|Schema-Theory-and-Learning]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice-Descr|> [!topic-idea] **[[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]**
+  - topic: "[[> [!topic-idea] **[[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]**
 > **Descripti]]"
     description: ""
     priority: medium
@@ -122,7 +123,7 @@ importance: high
 > 
 > **Report-Specific Significance:** PKM workflows that support elaborative encoding — requiring connection generation, reformulation, and question-raising at the point of capture — produce better schema formation outcomes than workflows optimised for smooth, high-volume information storage.
 > 
-> **See also:** [[Desirable-Difficulties]], [[Deep-Processing]], [[Note-Making-vs.-Note-Taking]], [[Levels-of-Processing-Theory]], [[Self-Regulated-Learning]]
+> **See also:** [[desirable-difficulties]], [[deep-processing]], [[note-making-vs.-note-taking]], [[levels-of-processing-theory]], [[self-regulated-learning]]
 
 ## Core Explanation
 
@@ -218,7 +219,7 @@ importance: high
 > **Position A (Sweller 1998):** Three qualitatively distinct load types, each with separable mechanisms and…
 
 > [!tension] **Cognitive Offloading as Cognitive Extension vs. Cognitive Replacement** *(from [[pkm-and-cognitive-load-foundational-report-2026-04-05]])*
-> **The Tension:** Does a well-designed external PKM system genuinely extend the practitioner's cognitive capacity (the [[Extended-Mind-Theory]] thesis: Clark & Chalmers, 1998), or does it replace internal memory in ways that degrade internal schema development?
+> **The Tension:** Does a well-designed external PKM system genuinely extend the practitioner's cognitive capacity (the [[extended-mind-theory]] thesis: Clark & Chalmers, 1998), or does it replace internal memory in ways that degrade internal schema development?
 > 
 > **Position A (Extended Mind):** If an external system meets conditions of accessibility, reliability, and endorsement, it functions as genuine cognitive extension — the practitioner's effective cognitive capacity includes the external system's contents.
 > 
@@ -284,9 +285,9 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Activation: What You Already Know** *(from [[pkm-and-cognitive-load-foundational-report-2026-04-05]])*
-> Think about the most demanding cognitive moments in your PKM practice. The inbox that grew faster than you could process it. The taxonomy restructuring decision that paralyzed you for a week. The synthesis note you've been "about to write" for months. The moment you opened your knowledge base looking for something specific and navigated the UI for ten minutes without finding it. If any of these resonate, you have already experienced extraneous [[Cognitive-Load]] generated by your own system.
+> Think about the most demanding cognitive moments in your PKM practice. The inbox that grew faster than you could process it. The taxonomy restructuring decision that paralyzed you for a week. The synthesis note you've been "about to write" for months. The moment you opened your knowledge base looking for something specific and navigated the UI for ten minutes without finding it. If any of these resonate, you have already experienced extraneous [[cognitive-load]] generated by your own system.
 > 
-> This report assumes familiarity with [[Working-Memory]] as a limited-capacity processing resource…
+> This report assumes familiarity with [[working-memory]] as a limited-capacity processing resource…
 
 ## Active Reading Prompts
 
@@ -344,8 +345,8 @@ importance: high
 > - The conditions for genuine cognitive extension — reliable accessibility, automatic endorsement, system trust — are frequently violated by overcomplex PKM architectures.
 
 > [!section-summary] **Section 2 Summary** *(from [[pkm-and-cognitive-load-foundational-report-2026-04-05]])*
-> - CLT emerged from educational psychology's study of instructional presentations, grounded in the architecture of [[Working-Memory]] as described by Baddeley's multi-component model.
-> - The theory's core claims: working memory is severely limited; [[Long-Term-Memory]] contains schemas that enable expert performance; learning is schema construction; any cognitive demand that doesn't serve schema construction is waste.
+> - CLT emerged from educational psychology's study of instructional presentations, grounded in the architecture of [[working-memory]] as described by Baddeley's multi-component model.
+> - The theory's core claims: working memory is severely limited; [[long-term-memory]] contains schemas that enable expert performance; learning is schema construction; any cognitive demand that doesn't serve schema construction is waste.
 > - The application to PKM is a direct extension: PKM systems mediate between working memory and long-term memory, and their design either supports or undermines this interface.
 > -…
 
@@ -355,7 +356,7 @@ importance: high
 > - **Germane load** (or germane processing) is productive cognitive effort directed at schema…
 
 > [!section-summary] **Section 4 Summary** *(from [[pkm-and-cognitive-load-foundational-report-2026-04-05]])*
-> - [[Working-Memory]]'s multi-component architecture has specific implications for PKM: the Central Executive manages concurrent tasks; the phonological loop handles verbal loading; the episodic buffer is the target synthesis space.
+> - [[working-memory]]'s multi-component architecture has specific implications for PKM: the Central Executive manages concurrent tasks; the phonological loop handles verbal loading; the episodic buffer is the target synthesis space.
 > - The Working Memory–Long-Term Memory interface is the cognitive substrate that PKM systems mediate: good PKM mirrors schema structure and supports both encoding and retrieval.
 > - Cognitive offloading is beneficial only when accessing cost < internal reconstruction cost — a condition frequently failed by poorly designed knowledge systems.
 > - The goal is not maximum…
@@ -523,7 +524,7 @@ importance: high
 > 
 > **Connection sentence template:** "[Note A] relates to [Note B] because [specific insight about their relationship], which implies [practical or theoretical consequence for understanding either concept]."
 > 
-> **Example:** "[[Expertise-Reversal-Effect]] relates to [[Desirable-Difficulties]] because both concern conditions under which instructional supports that reduce apparent difficulty degrade rather than enhance learning — which implies that optimal PKM…
+> **Example:** "[[expertise-reversal-effect]] relates to [[desirable-difficulties]] because both concern conditions under which instructional supports that reduce apparent difficulty degrade rather than enhance learning — which implies that optimal PKM…
 
 ## Visual Representations
 
@@ -601,19 +602,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[pkm-and-cognitive-load-foundational-report-2026-04-05]])*:
-- [[Cognitive-Load-Theory]]
-- [[Working-Memory]]
-- [[Schema-Theory]]
-- [[Desirable-Difficulties]]
-- [[Extended-Mind-Theory]]
-- [[CLT-as-a-Dynamic-Load-Optimization-Problem]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[working-memory|Working-Memory]]
+- [[schema-theory|Schema-Theory]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[extended-mind-theory|Extended-Mind-Theory]]
+- [[clt-as-a-dynamic-load-optimization-problem|CLT-as-a-Dynamic-Load-Optimization-Problem]]
 - [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]
-- [[Note-Making-vs.-Note-Taking]]
-- [[Expertise-Reversal-Effect]]
-- [[Self-Regulated-Learning]]
+- [[note-making-vs.-note-taking|Note-Making-vs.-Note-Taking]]
+- [[expertise-reversal-effect|Expertise-Reversal-Effect]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
 
 **Related concepts:**
-[[Cognitive-Load-Theory]] · [[Personal-Knowledge-Management]] · [[Cognitive-Load]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[Baddeley's-Working-Memory-Model]] · [[Expertise-Reversal-Effect]] · [[Zettelkasten]] · [[PARA-Method]] · [[Cognitive-Load]] · [[Working-Memory]] · [[Baddeley's-Working-Memory-Model]] · [[Metacognition]] · [[Cognitive-Architecture]] · [[Schema-Theory]] · [[Self-Regulated-Learning]] · [[Extended-Mind-Theory]] · [[Zettelkasten]] · [[Cognitive-Load-Theory]] · [[John-Sweller]] · [[Working-Memory]] · [[George-Miller]] · [[Cowan]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Cognitive-Offloading]] · [[Extended-Mind-Theory]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[Alan-Baddeley]]
+[[cognitive-load-theory|Cognitive-Load-Theory]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[cognitive-load|Cognitive-Load]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[expertise-reversal-effect|Expertise-Reversal-Effect]] · [[zettelkasten|Zettelkasten]] · [[para-method|PARA-Method]] · [[cognitive-load|Cognitive-Load]] · [[working-memory|Working-Memory]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[metacognition|Metacognition]] · [[cognitive-architecture|Cognitive-Architecture]] · [[schema-theory|Schema-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[zettelkasten|Zettelkasten]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[john-sweller|John-Sweller]] · [[working-memory|Working-Memory]] · [[george-miller|George-Miller]] · [[cowan|Cowan]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[schema-theory|Schema-Theory]] · [[cognitive-offloading|Cognitive-Offloading]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[alan-baddeley|Alan-Baddeley]]
 
 ## References
 

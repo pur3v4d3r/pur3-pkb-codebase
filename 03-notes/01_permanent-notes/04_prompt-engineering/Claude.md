@@ -17,7 +17,7 @@ link-up:
 link-related:
   - "[[Gemini]]"
   - "[[Claude Sonnet 4.5]]"
-  - "[[Claude-Opus-4]]"
+  - "[[claude-opus-4]]"
   - "[[Claude Project]]"
   - "[[Anthropic]]"
   - "[[Transformer-Architecture]]"

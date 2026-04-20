@@ -33,7 +33,7 @@ link-up:
   - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-29|Daily-Note]]"
-  - "[[Critical-Thinking]]"
+  - "[[critical-thinking]]"
 status: active
 
 
@@ -48,7 +48,7 @@ review-priority: medium
 # Executive Function
 
 > [!definition]
-> - **Key-Term**:[[Executive-Function]]
+> - **Key-Term**:[[executive-function]]
 > - **Definition**:
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

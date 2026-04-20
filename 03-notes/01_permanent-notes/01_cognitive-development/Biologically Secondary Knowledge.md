@@ -95,8 +95,8 @@ LIMIT 10
 
 ### Direct Connections
 - [[Biologically Primary Knowledge]]
-- [[Andragogy]]
-- [[Heutagogy]]
+- [[andragogy]]
+- [[heutagogy]]
 
 ## Practical Applications
 

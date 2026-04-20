@@ -254,7 +254,7 @@ This is a specific form of *Problem-Based Learning* used heavily in business, la
 > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+> - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
 ***
 
@@ -467,7 +467,7 @@ This is a specific form of *Problem-Based Learning* used heavily in business, la
 > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+> - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
 ***
 
@@ -686,7 +686,7 @@ This is a specific form of *Problem-Based Learning* used heavily in business, la
 > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+> - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
 ***
 </output_structure>
@@ -897,7 +897,7 @@ Assistant: > [!the-purpose]
     > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
     > [!related-topics-to-consider]
-    > - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+    > - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
     ***
 </output_structure>

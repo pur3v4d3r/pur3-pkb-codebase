@@ -112,13 +112,13 @@ Generate a test report to confirm both sections appear with appropriate depth an
 > [!connections-and-links]
 > **Integration with Existing Cognitive Frameworks**
 >
-> This concept of [[Working Memory Constraints]] directly extends understanding of [[Cognitive-Load-Theory]], 
+> This concept of [[Working Memory Constraints]] directly extends understanding of [[cognitive-load-theory]], 
 > revealing the mechanistic reason why extraneous load impairs learning—when working memory slots are consumed 
 > by irrelevant processing, insufficient capacity remains for schema construction. This relationship suggests 
-> that [[Germane-Load]] isn't merely "good" cognitive load but specifically the allocation of working memory 
+> that [[germane-load]] isn't merely "good" cognitive load but specifically the allocation of working memory 
 > resources to schema-building processes.
 >
-> The connection to [[Chunking]] becomes particularly illuminating—chunking functions as a working memory 
+> The connection to [[chunking]] becomes particularly illuminating—chunking functions as a working memory 
 > expansion technique by compressing multiple elements into single retrievable units. This explains why 
 > expertise involves not just knowledge quantity but knowledge organization: experts have chunked domain 
 > information into efficient structures that respect working memory limits.
@@ -139,7 +139,7 @@ Generate a test report to confirm both sections appear with appropriate depth an
 > operations (first capture, then process, finally synthesize) respect working memory constraints while 
 > improving learning depth?
 >
-> *Second Reflection:* Consider the relationship between working memory limits and your [[Zettelkasten]] 
+> *Second Reflection:* Consider the relationship between working memory limits and your [[zettelkasten]] 
 > practice. When creating atomic notes, are you genuinely constraining each note to a single concept 
 > *because* this aligns with working memory capacity during future retrieval and recombination? Or have 
 > you allowed notes to bloat into multi-concept structures that will overwhelm working memory when you 
@@ -152,7 +152,7 @@ Generate a test report to confirm both sections appear with appropriate depth an
 
 ### ❌ Bad: Superficial Connections
 ```markdown
-> This connects to [[Self-Determination-Theory]].
+> This connects to [[self-determination-theory]].
 > It also relates to [[Motivation]].
 > See also [[Learning]].
 ```
@@ -176,7 +176,7 @@ Each reflection question should be 3-5 sentences contextualizing a specific meta
 
 ### For Atomic Notes (Simplified Version)
 ```markdown
-**Connections:** [[Concept A]] - [1 sentence]. [[Concept B]] - [1 sentence]. [[Concept C]] - [1 sentence].
+**Connections:** [[Concept-A]] - [1 sentence]. [[Concept-B]] - [1 sentence]. [[Concept C]] - [1 sentence].
 
 **Key Question:** [Single provocative question, 2-3 sentences]
 ```

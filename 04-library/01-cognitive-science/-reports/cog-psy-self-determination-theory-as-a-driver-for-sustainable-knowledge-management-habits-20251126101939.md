@@ -82,7 +82,7 @@ Source: `= this.source`
 ---
 
 > [!summary] Abstract
-> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic-Integration-Theory]], [[Cognitive-Evaluation-Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
+> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[organismic-integration-theory]], [[cognitive-evaluation-theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
 
 ## Phase 1: Overture
 
@@ -97,7 +97,7 @@ The Self-Determination Theory (SDT) offers a biological, rather than industrial,
 
 Consider the analogy of **The Metabolic Ecosystem**. An industrial factory (the traditional view of productivity) requires external fuel to run; when the fuel stops, the machinery halts. A metabolic ecosystem, however, is autopoietic—it generates its own energy through its processes. A forest does not need to be forced to grow; it grows because the conditions (sun, soil, rain) support its intrinsic nature.
 
-In the context of [[Personal-Knowledge-Management]], SDT argues that if we design our systems to satisfy our basic psychological needs, the motivation to learn becomes regenerative. We move from **Controlled Motivation** (acting out of pressure, guilt, or "shoulds") to **Autonomous Motivation** (acting out of interest and volition). This shift is the single most critical factor in whether a knowledge management practice survives the initial burst of enthusiasm to become a lifelong habit.
+In the context of [[personal-knowledge-management]], SDT argues that if we design our systems to satisfy our basic psychological needs, the motivation to learn becomes regenerative. We move from **Controlled Motivation** (acting out of pressure, guilt, or "shoulds") to **Autonomous Motivation** (acting out of interest and volition). This shift is the single most critical factor in whether a knowledge management practice survives the initial burst of enthusiasm to become a lifelong habit.
 
 ---
 
@@ -128,7 +128,7 @@ True autonomy in a knowledge system is supported by what Nassim Taleb calls the 
 
 #### 2. Competence: The Architecture of Mastery
 
-Competence is not merely the possession of skill; it is the felt sense of effectiveness in interacting with one's environment. It is the deep psychological need to seek out optimal challenges and master them. In [[Flow-Theory]], famously articulated by **Mihaly Csikszentmihalyi**, this is represented as the channel where skill level matches challenge level.
+Competence is not merely the possession of skill; it is the felt sense of effectiveness in interacting with one's environment. It is the deep psychological need to seek out optimal challenges and master them. In [[flow-theory]], famously articulated by **Mihaly Csikszentmihalyi**, this is represented as the channel where skill level matches challenge level.
 
 > [!concept] The Flow Channel Equation
 > We can conceptualize the zone of optimal competence as:
@@ -178,9 +178,9 @@ Therefore, we must rigorously eliminate "Controlling" UI elements from our perso
 ## Phase 3: Connective Tissue
 
 > [!connections] Internal Network
-> * [[Cognitive-Load-Theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
+> * [[cognitive-load-theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
 > * [[Luhmann’s Zettelkasten]]: The practical application of SDT. Autonomy (no topic silos), Competence (writing as understanding), Relatedness (communication partner).
-> * [[Metacognition]]: The awareness of one's own learning process is essential for *Integrated Regulation*. We must be aware of *why* we are noting to align it with the self.
+> * [[metacognition]]: The awareness of one's own learning process is essential for *Integrated Regulation*. We must be aware of *why* we are noting to align it with the self.
 > * [[Zeigarnik Effect]]: Open loops create tension. Autonomy allows us to close loops that don't matter and focus on those that drive curiosity.
 
 > [!question] Research Avenues

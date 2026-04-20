@@ -26,12 +26,12 @@ aliases: [Open Items Audit, PKB Task Prioritization, Knowledge Work Roadmap]
 ---
 
 > [!the-purpose]
-> I've notice (through [[Metacognition]]) that I seem to be having some difficulty in A) concentrating/Focusing, and B) Having a difficult time thinking actively. My hypothesis is this: I believe that this has something to do with [[Cognitive-Load-Theory]] So this is the Plan I'm stopping everything and reducing the cognitive load by first planning out a strategy for fixing the many projects that open at the moment and cause this cognitive burden that I'm experiencing.
+> I've notice (through [[metacognition]]) that I seem to be having some difficulty in A) concentrating/Focusing, and B) Having a difficult time thinking actively. My hypothesis is this: I believe that this has something to do with [[cognitive-load-theory]] So this is the Plan I'm stopping everything and reducing the cognitive load by first planning out a strategy for fixing the many projects that open at the moment and cause this cognitive burden that I'm experiencing.
 
 # Plan
 
 > [!the-mission]
-> **I need to reduce my** [[Cognitive-Load]].
+> **I need to reduce my** [[cognitive-load]].
 
 > [!todo]
 >
@@ -130,7 +130,7 @@ aliases: [Open Items Audit, PKB Task Prioritization, Knowledge Work Roadmap]
 ## 📊 Category 1: PKB Infrastructure (Foundation)
 
 > [!insight]
-> **Why This Matters First**: A chaotic PKB creates constant [[Cognitive-Load]], draining mental resources from actual learning. Every hour spent organizing your system saves dozens of hours in future friction. This is **highest ROI work** for a knowledge worker.
+> **Why This Matters First**: A chaotic PKB creates constant [[cognitive-load]], draining mental resources from actual learning. Every hour spent organizing your system saves dozens of hours in future friction. This is **highest ROI work** for a knowledge worker.
 
 ### 🔴 Critical Priority
 
@@ -277,7 +277,7 @@ Important for efficiency, but system functions without them:
 
 > [!example]
 > **Good MOC Candidates from Your List**:
-> - [[Cognitive-Psychology-MOC]] (likely have many notes)
+> - [[cognitive-psychology-moc]] (likely have many notes)
 > - [[prompt-engineering-moc]] (active area)
 > - [[PKB Automation MOC]] (consolidates technical knowledge)
 
@@ -299,7 +299,7 @@ Important for efficiency, but system functions without them:
 - Affects every other item on this list
 
 > [!key-claim]
-> **Central Thesis**: The ability to plan and execute is not innate—it's a trainable skill combining [[Goal Decomposition]], [[Metacognitive-Monitoring]], and [[Self-Regulation Strategies]].
+> **Central Thesis**: The ability to plan and execute is not innate—it's a trainable skill combining [[Goal Decomposition]], [[metacognitive-monitoring]], and [[Self-Regulation Strategies]].
 
 **Actionable Framework**:
 
@@ -338,10 +338,10 @@ Important for efficiency, but system functions without them:
 - Informs how you design your own learning systems
 
 **Suggested Focus Areas**:
-1. [[Cognitive-Load-Theory]] (directly applicable to PKB design)
+1. [[cognitive-load-theory]] (directly applicable to PKB design)
 2. [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active-Recall]] (learning efficiency)
-3. [[Metacognitive-Regulation]] (learning to learn)
-4. [[Transfer-of-Learning]] (applying knowledge across domains)
+3. [[metacognitive-regulation]] (learning to learn)
+4. [[transfer-of-learning]] (applying knowledge across domains)
 
 > [!connection-ideas]
 > Create atomic notes for each major concept. Link to practical applications in your PKB workflows. This is perfect candidate for [[Zettelkasten-Method]]—theoretical notes linked to practical implementation notes.
@@ -352,7 +352,7 @@ Important for efficiency, but system functions without them:
 **Priority**: 🟡 **HIGH** | **Impact**: Mental performance & resilience | **Estimated Time**: 15-30 min/day
 
 **Why High**:
-- [[Cognitive-Behavioral-Therapy]] techniques improve meta-awareness
+- [[cognitive-behavioral-therapy]] techniques improve meta-awareness
 - Working memory and attention are trainable
 - Direct impact on knowledge work effectiveness
 
@@ -898,7 +898,7 @@ This note needs to cover:
    - Self-check activation triggers
 
 **Wiki-Link Opportunities:**
-- [[Personal-Knowledge-Management]]
+- [[personal-knowledge-management]]
 - [[Zettelkasten Methodology]]
 - [[Obsidian Ecosystem]]
 - [[Metadata Conventions]]
@@ -909,10 +909,10 @@ This note needs to cover:
 - [[Chain-of-Thought-Prompting]]
 - [[ReAct Framework]]
 - [[Context Window Management]]
-- [[Self-Regulated-Learning]]
-- [[Andragogy]]
-- [[Heutagogy]]
-- [[Cognitive-Load-Theory]]
+- [[self-regulated-learning]]
+- [[andragogy]]
+- [[heutagogy]]
+- [[cognitive-load-theory]]
 - [[Information-Architecture]]
 - [[Prompt-Engineering]]
 - [[LLM Collaboration Patterns]]
@@ -945,7 +945,7 @@ aliases: [Claude-User Partnership Guide, PKB Collaboration Protocol, AI-Assisted
 > [!the-purpose]
 > **Optimizing the Claude-User-PKB Triad**
 > 
-> This reference note establishes a comprehensive framework for maximizing the effectiveness of our collaborative partnership in building and maintaining your [[Personal-Knowledge-Base]]. It documents what contextual information enables me to generate outputs perfectly aligned with your PKB architecture, what I need to know about your existing systems to avoid friction, and how you can optimize your requests to receive the highest-quality, most immediately useful responses.
+> This reference note establishes a comprehensive framework for maximizing the effectiveness of our collaborative partnership in building and maintaining your [[personal-knowledge-base]]. It documents what contextual information enables me to generate outputs perfectly aligned with your PKB architecture, what I need to know about your existing systems to avoid friction, and how you can optimize your requests to receive the highest-quality, most immediately useful responses.
 >
 > This is a *living protocol* - as our collaboration evolves and your PKB grows, this framework should be updated to reflect new patterns, preferences, and optimizations we discover together.
 
@@ -1033,7 +1033,7 @@ To generate outputs that integrate seamlessly into your PKB, I require specific 
 
 2. **Folder Purpose Definitions**: Brief description of each major folder's role
    - What types of notes belong where?
-   - Do you follow [[PARA-Method]], [[Johnny Decimal System]], or a custom taxonomy?
+   - Do you follow [[para-method]], [[Johnny Decimal System]], or a custom taxonomy?
    - How do you distinguish between "Areas" and "Projects"?
    - Archive criteria (when does content move to archives?)
 
@@ -1235,7 +1235,7 @@ Based on the context you provide, here's how I can enhance the quality and fit o
 > **Building on Your Existing Knowledge Graph**
 > 
 > If you share snapshots of your existing notes, I can:
-> - **Link to existing notes**: "This connects to your note [[Metacognitive-Monitoring]]"
+> - **Link to existing notes**: "This connects to your note [[metacognitive-monitoring]]"
 > - **Avoid duplicate note creation**: Recognize when a concept already exists in your vault
 > - **Suggest bidirectional linking**: Identify where existing notes should link back to new content
 > - **Fill graph gaps**: Identify missing bridge concepts between existing notes
@@ -1293,7 +1293,7 @@ This protocol treats note generation as a collaborative drafting process rather 
 > **Try:** "Create a reference note on self-regulated learning. This will be a core note in my `/Reference/Learning-Theory/` folder. I want:
 > - Depth: Expert-level, 2500-3000 words
 > - Focus: Balance theory (Zimmerman's model, Pintrich's framework) with practical metacognitive strategies
-> - Connect to: My existing notes on [[Metacognition]], [[Goal-Setting-Theory]], [[Cognitive Load Management]]
+> - Connect to: My existing notes on [[metacognition]], [[goal-setting-theory]], [[Cognitive Load Management]]
 > - Callouts: Heavy use of [!principle-point], [!methodology-and-sources], [!example]
 > - Special requirements: Include a comparison table of major SRL models, a Mermaid diagram of the SRL cycle
 > - Tags should follow my convention: `#learning-theory #self-regulation #metacognition #reference-note`"
@@ -1626,7 +1626,7 @@ Within 2-3 weeks of active collaboration, we should have established conventions
 4. **[[Meta-Cognitive Monitoring for Knowledge Management]]**
    - *Connection*: Applying metacognitive strategies to PKB development and maintenance
    - *Depth Potential*: Examines self-assessment of knowledge organization, comprehension monitoring while note-taking, and strategic regulation of learning through PKB usage
-   - *Knowledge Graph Role*: Links [[Metacognition]] domain to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] practices, creating cross-domain synthesis opportunities
+   - *Knowledge Graph Role*: Links [[metacognition]] domain to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] practices, creating cross-domain synthesis opportunities
 
 
 # 🔗 Related Topics for PKB Expansion

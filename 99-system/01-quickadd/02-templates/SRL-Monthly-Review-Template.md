@@ -26,7 +26,7 @@ aliases:
 # 📊 SRL Monthly Practice Review — <% reviewMonth %>
 
 > [!abstract] Purpose
-> This review examines patterns across the month's reading sessions to assess long-term [[Metacognitive-Calibration|metacognitive calibration]] development, [[Attribution-Theory|attribution pattern]] health, strategy effectiveness, and overall SRL growth. This is the meta-level awareness that [[Barry-Zimmerman|Zimmerman]] calls "self-regulatory self-efficacy" — confidence in your ability to regulate your own learning. See [[Metacognitive-Regulation]] and [[Deliberate-Practice]].
+> This review examines patterns across the month's reading sessions to assess long-term [[metacognitive-calibration|metacognitive calibration]] development, [[attribution-theory|attribution pattern]] health, strategy effectiveness, and overall SRL growth. This is the meta-level awareness that [[barry-zimmerman|Zimmerman]] calls "self-regulatory self-efficacy" — confidence in your ability to regulate your own learning. See [[metacognitive-regulation]] and [[deliberate-practice]].
 
 ---
 
@@ -114,7 +114,7 @@ if (sessions.length === 0) {
 ## 🔬 Attribution Pattern Review
 
 > [!important] This is the most critical section of the monthly review.
-> Attribution patterns are the primary diagnostic for SRL cycle health. See [[Attribution-Theory]] and [[Attribution-Retraining]].
+> Attribution patterns are the primary diagnostic for SRL cycle health. See [[attribution-theory]] and [[attribution-retraining]].
 
 **Most common attribution for comprehension difficulties this month:**
 > 
@@ -166,7 +166,7 @@ if (sessions.length === 0) {
 ## 🧭 Calibration Assessment
 
 > [!tip] This is the Calibration Engine's output check.
-> See [[Metacognitive-Calibration]] and [[SRL-Calibration-Log]].
+> See [[metacognitive-calibration]] and [[SRL-Calibration-Log]].
 
 **Distance between pre-session predictions and actual outcomes has been:**
 `INPUT[inlineSelect(option(Decreasing — calibration improving), option(Stable), option(Increasing — calibration degrading)):calibration-trend]`
@@ -174,9 +174,9 @@ if (sessions.length === 0) {
 **The most common direction of miscalibration:**
 `INPUT[inlineSelect(option(Overconfident — fluency illusion), option(Underconfident — anxiety-driven), option(Well-calibrated)):miscalibration-direction]`
 
-**If overconfident:** Review [[The-Fluency-Illusion]] and consider adding more demanding generativity tests to Cold Reconstruction.
+**If overconfident:** Review [[the-fluency-illusion]] and consider adding more demanding generativity tests to Cold Reconstruction.
 
-**If underconfident:** Review [[Self-Efficacy]] sources and ensure mastery experiences are being recognized in Self-Reaction zones.
+**If underconfident:** Review [[self-efficacy]] sources and ensure mastery experiences are being recognized in Self-Reaction zones.
 
 ---
 
@@ -191,7 +191,7 @@ if (sessions.length === 0) {
 > 
 
 **Mastery experience from this month I can draw on:**
-> *(Name a specific session where you achieved genuine comprehension — this is the raw material of [[Self-Efficacy|self-efficacy]].)*
+> *(Name a specific session where you achieved genuine comprehension — this is the raw material of [[self-efficacy|self-efficacy]].)*
 
 ---
 
@@ -217,7 +217,7 @@ if (sessions.length === 0) {
 
 ## 💬 Meta-Reflection *(Mastery Grammar)*
 
-> [!quote] Close with [[Achievement-Goal-Theory|mastery-framed]] reflection. See [[Mastery-Goal-Orientation]].
+> [!quote] Close with [[achievement-goal-theory|mastery-framed]] reflection. See [[mastery-goal-orientation]].
 
 **What has my SRL practice taught me about how I learn?**
 > 
@@ -236,15 +236,15 @@ if (sessions.length === 0) {
 - [ ] Review [[SRL-Calibration-Log]] for trend confirmation
 - [ ] Implement strategy changes identified above
 - [ ] Schedule next monthly review: ___
-- [ ] Consider scaffold fading: any zones that can be simplified? See [[Scaffolded-Fading]]
+- [ ] Consider scaffold fading: any zones that can be simplified? See [[scaffolded-fading]]
 
 ---
 
 > [!connections-and-links]
 > **PKB Connections:**
 > - [[Zimmerman's-Cyclical-SRL-Model]] — This review evaluates the cycle's long-term health
-> - [[Metacognitive-Calibration]] — Calibration trend is the primary developmental indicator
-> - [[Deliberate-Practice]] — The monthly review IS the deliberate practice feedback mechanism
-> - [[Self-Efficacy]] — Self-efficacy trajectory reveals motivational system health
-> - [[Attribution-Theory]] — Attribution pattern review is the most critical diagnostic
-> - [[Scaffolded-Fading]] — Monthly review is where scaffold reduction decisions are made
+> - [[metacognitive-calibration]] — Calibration trend is the primary developmental indicator
+> - [[deliberate-practice]] — The monthly review IS the deliberate practice feedback mechanism
+> - [[self-efficacy]] — Self-efficacy trajectory reveals motivational system health
+> - [[attribution-theory]] — Attribution pattern review is the most critical diagnostic
+> - [[scaffolded-fading]] — Monthly review is where scaffold reduction decisions are made

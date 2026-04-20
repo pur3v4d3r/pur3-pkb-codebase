@@ -17148,7 +17148,7 @@ id: prompt-block-🆔20251025231026
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical-Fallacies]], [[First-Principles-Thinking]], [[confirmation-bias]]*}}
 
 ---
 
@@ -18143,7 +18143,7 @@ id: prompt-block-🆔20251025230620
 > - {{List the key sources (scientific papers, laws, axiomatic texts) used to identify the first principles. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[Mental-Models]], [[Deconstruction]], [[Innovation-Stack]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Reasoning-by-Analogy]], [[mental-models]], [[Deconstruction]], [[Innovation-Stack]]*}}
 
 ---
 
@@ -18921,7 +18921,7 @@ key_takeaway: ⁉️
 - What could be tested, challenged, or expanded?  
 
 ## References
-- [[Source Note]] or citation details
+- [[source-note]] or citation details
 
 
 
@@ -20444,9 +20444,9 @@ But *first* I need to do a *few things*:
 
 [[Rhetorical-Analysis]]: Create notes on the core appeals: [[Logos]] (logic), [[Pathos]] (emotion), and [[Ethos]] (credibility). Also, document common [[Rhetorical Devices]] (e.g., metaphor, synecdoche, hyperbole).
 
-[[Logical Fallacies]]: Create a main note for this, distinguishing between [[Formal Fallacies]] (errors in the argument's structure) and [[Informal-Fallacies]] (errors in the argument's content). You can then create atomic notes for the most common ones ([[Ad Hominem]], [[Straw-Man]], [[False Dichotomy]]).
+[[Logical-Fallacies]]: Create a main note for this, distinguishing between [[Formal Fallacies]] (errors in the argument's structure) and [[Informal-Fallacies]] (errors in the argument's content). You can then create atomic notes for the most common ones ([[Ad Hominem]], [[Straw-Man]], [[False Dichotomy]]).
 
-[[Cognitive-Biases]]: This is a vast field. Start with the ones most relevant to reading, such as [[Confirmation-Bias]] (favoring info that confirms existing beliefs) and the [[Availability-Heuristic]] (overestimating the importance of easily recalled info).
+[[cognitive-biases]]: This is a vast field. Start with the ones most relevant to reading, such as [[confirmation-bias]] (favoring info that confirms existing beliefs) and the [[availability-heuristic]] (overestimating the importance of easily recalled info).
 
 [[Hermeneutics]]: This is the formal philosophical study of interpretation. A note on this topic would be the high-level "parent" to this entire quote-analysis workflow.
 

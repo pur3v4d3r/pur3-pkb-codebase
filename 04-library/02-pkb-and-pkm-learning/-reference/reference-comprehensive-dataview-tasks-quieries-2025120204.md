@@ -187,7 +187,7 @@ Aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 - [[DQL]] (Dataview Query Language)
 - [[DataviewJS]]
 - [[Tasks-Plugin]]
-- [[YAML-Frontmatter]]
+- [[yaml-frontmatter]]
 - [[Inline-Fields]]
 - [[Daily-Notes]]
 - [[WHERE-Clause]]
@@ -221,7 +221,7 @@ aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 ---
 
 > [!abstract] Executive Overview
-> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin]] queries for [[Task-Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin]], [[Inline-Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
+> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin]] queries for [[Task-Management]] in [[obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin]], [[Inline-Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
 
 ---
 
@@ -1057,5 +1057,5 @@ dv.taskList(tasks);
 **Testing Status**: All queries tested with Dataview 0.5.x syntax  
 **Maintenance**: Update when Dataview plugin introduces breaking changes
 
-This reference provides production-ready task query patterns ready for immediate deployment in your [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] system. All queries follow [[Obsidian]] best practices and are optimized for performance in vaults of varying sizes. 🚀
+This reference provides production-ready task query patterns ready for immediate deployment in your [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] system. All queries follow [[obsidian]] best practices and are optimized for performance in vaults of varying sizes. 🚀
 

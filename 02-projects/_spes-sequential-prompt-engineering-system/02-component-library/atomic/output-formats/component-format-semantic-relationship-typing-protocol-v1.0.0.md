@@ -84,13 +84,13 @@ When establishing connections between concepts, encode the semantic relationship
 `[**Relationship-Type**:: [[Source]] →(relation)→ [[Target]]]`
 
 **Narrative Integration:**
-`[[Cognitive-Load-Theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[Information-Processing-Theory]].`
+`[[cognitive-load-theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[information-processing-theory]].`
 
 **Complex Multi-Relation:**
 `[**Theoretical-Lineage**:: [[Filter Model]] →(superseded-by)→ [[Attenuation Model]] →(integrated-into)→ [[Capacity Model]]]`
 
 **With Annotations:**
-`[**Relationship**:: [[CLT]] →(applied-in)→ [[Instructional-Design]] | annotation:"primary application domain since 1980s"]`
+`[**Relationship**:: [[CLT]] →(applied-in)→ [[instructional-design]] | annotation:"primary application domain since 1980s"]`
 </syntax_specification>
 
 <generation_heuristics>

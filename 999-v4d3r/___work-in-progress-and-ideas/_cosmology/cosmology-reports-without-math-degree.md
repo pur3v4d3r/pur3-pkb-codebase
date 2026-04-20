@@ -626,7 +626,7 @@ Proposed resolutions include:
 **Prerequisites for Full Understanding**:
 - **[[Special Relativity]]**: Understanding of spacetime, light cones, invariant interval essential before curvature
 - **[[General Relativity]]**: Black holes are solutions to Einstein's field equations—requires understanding curved spacetime
-- **[[Gravitational-Collapse]]**: Stellar evolution and supernovae provide pathways to black hole formation
+- **[[gravitational-collapse]]**: Stellar evolution and supernovae provide pathways to black hole formation
 - **[[Quantum Mechanics]]**: Black hole thermodynamics and information paradox require quantum concepts
 
 **Connections to Related Frameworks**:

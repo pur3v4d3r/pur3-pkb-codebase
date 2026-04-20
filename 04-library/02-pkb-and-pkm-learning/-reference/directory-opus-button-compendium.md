@@ -1017,7 +1017,7 @@ type: reference
 ### Go to Obsidian Vault
 
 > [!what-this-does] Function
-> Quick navigation to [[Obsidian]] vault location. **Customize the path** to your vault.
+> Quick navigation to [[obsidian]] vault location. **Customize the path** to your vault.
 
 ```xml
 <?xml version="1.0"?>

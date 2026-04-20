@@ -2206,7 +2206,7 @@ Would you like me to create the complete Set 14, or generate additional multi-co
 3. **[[Visual Semantic Mapping in PKB]]**
    - *Connection*: Color categorization (Purple/Gold/Teal) creates cognitive shortcuts for information type recognition
    - *Depth Potential*: Explore [[Color Psychology in Knowledge Work]], [[Visual Information Architecture]], [[Cognitive Load Management]]
-   - *Knowledge Graph Role*: Intersection of [[Information Design]] and [[Learning Science]]
+   - *Knowledge Graph Role*: Intersection of [[Information Design]] and [[Learning-Science]]
 
 4. **[[CSS Performance Optimization for Large Vaults]]**
    - *Connection*: Style choice impacts rendering performance in documents with 50+ callouts

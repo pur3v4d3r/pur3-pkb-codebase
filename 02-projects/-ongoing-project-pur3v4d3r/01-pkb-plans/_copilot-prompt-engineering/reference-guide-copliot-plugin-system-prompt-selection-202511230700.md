@@ -477,7 +477,7 @@ SYSTEM "You are the Vault Architect…"
 
 #### 3\. How to Use This Agent
 
-  * **To Search:** "Agent, what do I have in my vault regarding [[Zettelkasten]]?"
+  * **To Search:** "Agent, what do I have in my vault regarding [[zettelkasten]]?"
   * **To Create:** "Create a new Atomic Note for 'Retrieval Augmented Generation' following the strict formatting."
   * **To Refine:** "Look at the current note. What [[wiki-links]] am I missing?"
 

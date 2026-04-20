@@ -786,4 +786,4 @@ for (let note of overdueNotes) {
 4. **[[Atomic Note Refactoring Patterns]]**
    - *Connection*: Regular reviews identify oversized notes requiring decomposition into atomic units
    - *Depth Potential*: Systematic approaches to splitting complex notes while preserving relationships and context
-   - *Knowledge Graph Role*: Quality maintenance process ensuring [[Zettelkasten]] principles at scale
+   - *Knowledge Graph Role*: Quality maintenance process ensuring [[zettelkasten]] principles at scale

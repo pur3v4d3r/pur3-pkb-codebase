@@ -5,6 +5,7 @@
 title: "Productive Friction"
 aliases:
   - "Productive Friction"
+  - "Productive-Friction"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -37,8 +38,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +50,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,18 +74,26 @@ narrower:
   []
 
 see-also:
-  - "[[Writing-to-Learn]]"
-  - "[[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]]"
-  - "[[Testing-Effect-Retrieval-Practice-Effect]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Generative-Learning-Theory]]"
-  - "[[Generation-Effect]]"
-  - "[[Elaborative-Interrogation]]"
-  - "[[Working-Memory]]"
-  - "[[Fluency-Illusion]]"
-  - "[[The-Articulatory-Construction-Principle]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Cognitive-Disequilibrium]]"
+  - "[[writing-to-learn|Writing-to-Learn]]"
+  - "[[report-generation-prompt-suite|Report-Generation-Prompt-Suite]]"
+  - "[[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[generative-learning-theory|Generative-Learning-Theory]]"
+  - "[[writing-to-learn|Writing-to-Learn]]"
+  - "[[writing-to-learn|Writing-to-Learn]]"
+  - "[[writing-to-learn|Writing-to-Learn]]"
+  - "[[generative-learning-theory|Generative-Learning-Theory]]"
+  - "[[generation-effect|Generation-Effect]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[the-articulatory-construction-principle|The-Articulatory-Construction-Principle]]"
+  - "[[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[cognitive-disequilibrium|Cognitive-Disequilibrium]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -96,7 +105,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Self-Explanation-in-PKB-Practice-Chi's-self-explanation-research-is|> [!topic-idea] [[Self-Explanation-in-PKB-Practice]]
+  - topic: "[[> [!topic-idea] [[Self-Explanation-in-PKB-Practice]]
 > Chi's self-explanation research is among the ]]"
     description: ""
     priority: medium
@@ -120,13 +129,13 @@ importance: high
 > In perhaps the most carefully designed writing-to-learn studies, students who were prompted to self-explain as they studied a physics text — essentially writing explanatory prose connecting each new statement to prior knowledge and identifying gaps — learned dramatically more than students who re-read the same material. Crucially, the high-learning students generated more inferences and more connections to prior knowledge. They were, in Bereiter-Scardamalia terms, knowledge transforming rather…
 
 > [!evidence] Supporting Evidence *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
-> Studies directly comparing writing from memory (closing the source, writing everything recalled) against note-taking while reading consistently find the retrieval-writing condition produces superior long-term retention. This is a [[Testing-Effect-Retrieval-Practice-Effect|testing effect]] operating through writing: the act of writing from memory forces retrieval, which strengthens memory traces in ways that writing *while consulting* a source cannot. The writing is harder, more uncertain, more…
+> Studies directly comparing writing from memory (closing the source, writing everything recalled) against note-taking while reading consistently find the retrieval-writing condition produces superior long-term retention. This is a [[testing-effect-retrieval-practice-effect|testing effect]] operating through writing: the act of writing from memory forces retrieval, which strengthens memory traces in ways that writing *while consulting* a source cannot. The writing is harder, more uncertain, more…
 
 > [!evidence] Supporting Evidence *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
 > The meta-analysis by Kobayashi (2006) and the synthesis by Dunlosky et al. (2013) both identify *summarisation* — the default writing-to-learn strategy in most educational contexts — as having "low utility" compared to its intuitive plausibility and widespread use. Students who summarise material score no better on subsequent tests than students who simply re-read it, despite reporting higher confidence and investing substantially more time. The writing activity produces output that *feels*…
 
 > [!evidence] Supporting Evidence *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
-> The [[Fluency-Illusion]] research (Koriat & Bjork, 2005) suggests that the subjective experience of learning is driven more by processing fluency than by actual encoding strength. Students who summarize material experience high fluency — the prose flows, the ideas feel familiar — and infer strong learning. Students who write from memory experience disfluency — the recall is effortful, incomplete, uncertain — and infer weak learning. This creates a systematic bias toward ineffective writing…
+> The [[fluency-illusion]] research (Koriat & Bjork, 2005) suggests that the subjective experience of learning is driven more by processing fluency than by actual encoding strength. Students who summarize material experience high fluency — the prose flows, the ideas feel familiar — and infer strong learning. Students who write from memory experience disfluency — the recall is effortful, incomplete, uncertain — and infer weak learning. This creates a systematic bias toward ineffective writing…
 
 > [!evidence] Supporting Evidence *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
 > The foundational text introducing the knowledge-telling/knowledge-transforming distinction. Essential reading for understanding the architectural difference between reproductive and constructive writing processes. Directly supports the Phase II framework and the Phase VI synthesis.
@@ -156,16 +165,16 @@ importance: high
 > The original generation effect study. Demonstrates that material generated by the learner is better remembered than material read. Core empirical support for Phase II.
 
 > [!evidence] Supporting Evidence *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
-> The foundational paper on epistemic actions — actions performed to change cognitive state rather than advance a task. Writing functions as an epistemic action when it reveals knowledge gaps; this conceptualisation grounds the Phase VIII connection to [[Epistemic-Actions]].
+> The foundational paper on epistemic actions — actions performed to change cognitive state rather than advance a task. Writing functions as an epistemic action when it reveals knowledge gaps; this conceptualisation grounds the Phase VIII connection to [[epistemic-actions]].
 
 > [!analytical-insight] Key Insight *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
-> There is a genuine intellectual tension between two bodies of evidence: (1) the research on [[Desirable-Difficulties]] (Bjork, 1994) showing that conditions that make learning *feel* harder produce superior long-term retention; and (2) the research on cognitive load (Sweller, 1988) showing that excessive task difficulty undermines learning by overloading [[Working-Memory]]. Writing tasks fall on both sides of this tension: writing from memory is a desirable difficulty that produces superior…
+> There is a genuine intellectual tension between two bodies of evidence: (1) the research on [[desirable-difficulties]] (Bjork, 1994) showing that conditions that make learning *feel* harder produce superior long-term retention; and (2) the research on cognitive load (Sweller, 1988) showing that excessive task difficulty undermines learning by overloading [[working-memory]]. Writing tasks fall on both sides of this tension: writing from memory is a desirable difficulty that produces superior…
 
 > [!analytical-insight] Key Insight *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
 > Writing is not merely a tool for expressing understanding; it is a *diagnostic instrument* for testing whether understanding exists. The phenomenological experience of "knowing what I mean but not being able to say it" is not an articulation problem — it is evidence of a knowledge gap that private cognition can conceal but writing cannot. This means that *failed* writing — writing in which the prose stops, becomes circular, or reveals internal contradictions — is often more epistemically…
 
 > [!analytical-insight] Key Insight *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
-> There is a deep irony in note-taking while reading: the very availability of the source — which makes the writing task easier and produces more accurate notes — is precisely what makes it less effective as a learning activity. Source availability allows the learner to use the text as a working memory extension, reducing [[Cognitive-Load-Theory|cognitive load]] in ways that prevent the generative processing that produces durable encoding. The student who takes perfect, comprehensive notes while…
+> There is a deep irony in note-taking while reading: the very availability of the source — which makes the writing task easier and produces more accurate notes — is precisely what makes it less effective as a learning activity. Source availability allows the learner to use the text as a working memory extension, reducing [[cognitive-load-theory|cognitive load]] in ways that prevent the generative processing that produces durable encoding. The student who takes perfect, comprehensive notes while…
 
 > [!analytical-insight] Key Insight *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
 > The phenomenon that explaining a concept to a novice produces deeper understanding in the explainer (the "protégé effect," or more colloquially, the "Feynman technique") is not merely motivational. It is mechanistic: the naive audience *cannot* be credited with assumptions the writer has not earned. Every implicit inference must be made explicit. Every technical term must be grounded. Every logical gap must be bridged. Writing for an expert — including writing for one's future self, who already…
@@ -185,12 +194,12 @@ importance: high
 > Before opening source material to write a new note, spend 5-10 minutes writing from memory everything you currently understand about the topic. Only then consult sources — using the retrieval-writing as a calibration baseline. This protocol activates all four mechanisms: retrieval (encoding effect), articulation (knowledge gap detection), and disequilibrium (the gap between what you believed and what the source reveals). The source consultation becomes genuinely generative because it has a…
 
 > [!warning] **Key Distinction** *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
-> A well-maintained [[Spaced-Repetition-Systems|spaced repetition system]] using notes as review material faces the fluency trap: if the notes were written through knowledge-telling, reviewing them re-activates the same surface fluency that created the knowledge-telling notes. The review feels productive because the content is familiar. But familiarity is not the same as retrievability. The solution is to ensure that SRS cards are *generative* — they ask the learner to produce, explain, or apply,…
+> A well-maintained [[spaced-repetition-systems|spaced repetition system]] using notes as review material faces the fluency trap: if the notes were written through knowledge-telling, reviewing them re-activates the same surface fluency that created the knowledge-telling notes. The review feels productive because the content is familiar. But familiarity is not the same as retrievability. The solution is to ensure that SRS cards are *generative* — they ask the learner to produce, explain, or apply,…
 
 ## Conceptual Tensions
 
 > [!tension] **The Effort-Learning Dissociation** *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
-> There is a genuine intellectual tension between two bodies of evidence: (1) the research on [[Desirable-Difficulties]] (Bjork, 1994) showing that conditions that make learning *feel* harder produce superior long-term retention; and (2) the research on cognitive load (Sweller, 1988) showing that excessive task difficulty undermines learning by overloading [[Working-Memory]]. Writing tasks fall on both sides of this tension: writing from memory is a desirable difficulty that produces superior learning; writing while consulting a source creates conditions that may *reduce* the desirable…
+> There is a genuine intellectual tension between two bodies of evidence: (1) the research on [[desirable-difficulties]] (Bjork, 1994) showing that conditions that make learning *feel* harder produce superior long-term retention; and (2) the research on cognitive load (Sweller, 1988) showing that excessive task difficulty undermines learning by overloading [[working-memory]]. Writing tasks fall on both sides of this tension: writing from memory is a desirable difficulty that produces superior learning; writing while consulting a source creates conditions that may *reduce* the desirable…
 
 > [!tension] **The Productive Struggle Boundary** *(from [[writing-to-learn-focused-analysis-2026-03-21]])*
 > The evidence suggests that cognitive disequilibrium produces learning — but only within a range. Disequilibrium that is too mild (slight confusion, easily resolved) produces accommodation that is too shallow. Disequilibrium that is too severe (complete inability to connect new information to existing schemas) produces cognitive overload rather than generative processing. Writing tasks that are optimally calibrated to the learner's current knowledge level should produce *sustained* productive struggle — the kind of disequilibrium that feels like hard thinking, not the kind that produces…
@@ -263,51 +272,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[writing-to-learn-focused-analysis-2026-03-21]])*:
-- [[Writing-to-Learn]]
-- [[Generative-Learning-Theory]]
-- [[Generation-Effect]]
-- [[Fluency-Illusion]]
-- [[Testing-Effect-Retrieval-Practice-Effect]]
-- [[Desirable-Difficulties]]
-- [[Elaborative-Interrogation]]
-- [[Active-Note-Making]]
-- [[Note-Making-vs.-Note-Taking]]
-- [[Epistemic-Actions]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[generative-learning-theory|Generative-Learning-Theory]]
+- [[generation-effect|Generation-Effect]]
+- [[fluency-illusion|Fluency-Illusion]]
+- [[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[active-note-making|Active-Note-Making]]
+- [[note-making-vs.-note-taking|Note-Making-vs.-Note-Taking]]
+- [[epistemic-actions|Epistemic-Actions]]
 
 **Related concepts:**
-[[Writing-to-Learn]] · [[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]] · [[Testing-Effect-Retrieval-Practice-Effect]] · [[Desirable-Difficulties]] · [[Generative-Learning-Theory]] · [[Writing-to-Learn]] · [[Writing-to-Learn]] · [[Writing-to-Learn]] · [[Generative-Learning-Theory]] · [[Generation-Effect]] · [[Elaborative-Interrogation]] · [[Testing-Effect-Retrieval-Practice-Effect]] · [[Desirable-Difficulties]] · [[Working-Memory]] · [[Fluency-Illusion]] · [[The-Articulatory-Construction-Principle]] · [[Testing-Effect-Retrieval-Practice-Effect]] · [[Cognitive-Load-Theory]] · [[Elaborative-Interrogation]] · [[Cognitive-Disequilibrium]] · [[Spaced-Repetition-Systems]] · [[Worked-Example-Effect]] · [[Fluency-Illusion]] · [[Writing-to-Learn]] · [[Generative-Learning-Theory]] · [[Generation-Effect]] · [[Fluency-Illusion]] · [[Testing-Effect-Retrieval-Practice-Effect]] · [[Desirable-Difficulties]] · [[Elaborative-Interrogation]]
-
-**Related concepts** *(from writing-to-learn-focused-analysis-2026-03-21.md)*:
-[[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]] * [[Self-Explanation-in-PKB-Practice|Self-Explanation-in-PKB-Practice]] * [[AI-Assisted-Writing-and-the-Knowledge-Transformation-Mechanisms|AI-Assisted-Writing-and-the-Knowledge-Transformation-Mechanisms]] * [[The-Fluency-Illusion-in-Knowledge-Management|The-Fluency-Illusion-in-Knowledge-Management]] * [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible]] * [[The-Encoding-Specificity-Principle-and-PKB-Retrieval-Design|The-Encoding-Specificity-Principle-and-PKB-Retrieval-Design]] * [[Encoding-Specificity-Principle|Encoding-Specificity-Principle]]
-
-**Cross-report connections** *(from writing-to-learn-focused-analysis-2026-03-21.md)*:
-- [[Writing-to-Learn|Writing-to-Learn]]
-- [[Generative-Learning-Theory|Generative-Learning-Theory]]
-- [[Generation-Effect|Generation-Effect]]
-- [[Fluency-Illusion|Fluency-Illusion]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]]
-
-**Related concepts** *(from [[writing-to-learn-focused-analysis-2026-03-21]])*:
-[[Report-Generation-Prompt-Suite|Report Generation Prompt Suite]]
-
-**Cross-report connections** *(from [[writing-to-learn-focused-analysis-2026-03-21]])*:
-- [[Writing-to-Learn|Writing-to-Learn]]
-- [[Generative-Learning-Theory|Generative-Learning-Theory]]
-- [[Generation-Effect|Generation-Effect]]
-- [[Fluency-Illusion|Fluency-Illusion]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]]
-
-**Cross-report connections** *(from [[writing-to-learn-focused-analysis-2026-03-21]])*:
-- [[Writing-to-Learn|Writing-to-Learn]]
-- [[Generative-Learning-Theory|Generative-Learning-Theory]]
-- [[Generation-Effect|Generation-Effect]]
-- [[Fluency-Illusion|Fluency-Illusion]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]]
-
-
-
-
-
+[[writing-to-learn|Writing-to-Learn]] · [[report-generation-prompt-suite|Report-Generation-Prompt-Suite]] · [[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]] · [[desirable-difficulties|Desirable-Difficulties]] · [[generative-learning-theory|Generative-Learning-Theory]] · [[writing-to-learn|Writing-to-Learn]] · [[writing-to-learn|Writing-to-Learn]] · [[writing-to-learn|Writing-to-Learn]] · [[generative-learning-theory|Generative-Learning-Theory]] · [[generation-effect|Generation-Effect]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]] · [[desirable-difficulties|Desirable-Difficulties]] · [[working-memory|Working-Memory]] · [[fluency-illusion|Fluency-Illusion]] · [[the-articulatory-construction-principle|The-Articulatory-Construction-Principle]] · [[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[cognitive-disequilibrium|Cognitive-Disequilibrium]] · [[spaced-repetition-systems|Spaced-Repetition-Systems]] · [[worked-example-effect|Worked-Example-Effect]] · [[fluency-illusion|Fluency-Illusion]] · [[writing-to-learn|Writing-to-Learn]] · [[generative-learning-theory|Generative-Learning-Theory]] · [[generation-effect|Generation-Effect]] · [[fluency-illusion|Fluency-Illusion]] · [[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]] · [[desirable-difficulties|Desirable-Difficulties]] · [[elaborative-interrogation|Elaborative-Interrogation]]
 
 ## References
 
@@ -320,99 +297,9 @@ importance: high
 - **Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966-968.**: Demonstrates that retrieval practice dramatically outperforms elaborate re-study. Writing from memory is a form of retrieval practice. Supports the testing effect mechanism in Phase IV.
 - **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285.**: The foundational CLT paper. Essential for understanding the expertise interaction limitation in Phase V — generative writing tasks can overload novice working memory, undermining learning.
 - **Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592-604.**: The original generation effect study. Demonstrates that material generated by the learner is better remembered than material read. Core empirical support for Phase II.
-- **Kirsh, D., & Maglio, P. (1994). On distinguishing epistemic from pragmatic action. *Cognitive Science, 18*(4), 513-549.**: The foundational paper on epistemic actions — actions performed to change cognitive state rather than advance a task. Writing functions as an epistemic action when it reveals knowledge gaps; this conceptualisation grounds the Phase VIII connection to [[Epistemic-Actions]].
+- **Kirsh, D., & Maglio, P. (1994). On distinguishing epistemic from pragmatic action. *Cognitive Science, 18*(4), 513-549.**: The foundational paper on epistemic actions — actions performed to change cognitive state rather than advance a task. Writing functions as an epistemic action when it reveals knowledge gaps; this conceptualisation grounds the Phase VIII connection to [[epistemic-actions]].
 
 *Citations sourced from [[writing-to-learn-focused-analysis-2026-03-21]]*
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Erlbaum.**: The foundational text introducing the knowledge-telling/knowledge-transforming distinction. Essential reading for understanding the architectural difference between reproductive and constructive writing processes. Directly supports the Phase II framework and the Phase VI synthesis.
-
-- **Wittrock, M. C. (1990). Generative processes of comprehension. *Educational Psychologist, 24*(4), 345-376.**: The definitive theoretical statement of generative learning theory. Argues that learning is a function of the generative relationships produced between new and existing knowledge. Supports the theoretical architecture in Phase II and the mechanism analysis in Phase IV.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145-182.**: The foundational self-explanation study showing that students who generate explanations during study dramatically outperform those who do not. Core empirical support for Mechanism 3 in Phase IV.
-
-- **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4-58.**: The comprehensive synthesis rating summarisation as "low utility" and elaborative interrogation as "moderate utility." Essential evidence for the Phase III argument that common writing strategies underperform their apparent effort.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing About Knowing*. MIT Press.**: The original theoretical statement of the desirable difficulties framework. Writing from memory and retrieval-writing are specific applications of the broader principle that conditions making encoding harder often make retention better. Supports the mechanism analysis in Phase IV.
-
-- **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187-194.**: Foundational research on the fluency illusion in study monitoring. Directly supports the Phase III argument that learners systematically miscalibrate their learning because they use processing fluency as a proxy for encoding strength.
-
-- **Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966-968.**: Demonstrates that retrieval practice dramatically outperforms elaborate re-study. Writing from memory is a form of retrieval practice. Supports the testing effect mechanism in Phase IV.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285.**: The foundational CLT paper. Essential for understanding the expertise interaction limitation in Phase V — generative writing tasks can overload novice working memory, undermining learning.
-
-- **Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592-604.**: The original generation effect study. Demonstrates that material generated by the learner is better remembered than material read. Core empirical support for Phase II.
-
-- **Kirsh, D., & Maglio, P. (1994). On distinguishing epistemic from pragmatic action. *Cognitive Science, 18*(4), 513-549.**: The foundational paper on epistemic actions — actions performed to change cognitive state rather than advance a task. Writing functions as an epistemic action when it reveals knowledge gaps; this conceptualisation grounds the Phase VIII connection to [[Epistemic-Actions]].
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Erlbaum.**: The foundational text introducing the knowledge-telling/knowledge-transforming distinction. Essential reading for understanding the architectural difference between reproductive and constructive writing processes. Directly supports the Phase II framework and the Phase VI synthesis.
-
-- **Wittrock, M. C. (1990). Generative processes of comprehension. *Educational Psychologist, 24*(4), 345-376.**: The definitive theoretical statement of generative learning theory. Argues that learning is a function of the generative relationships produced between new and existing knowledge. Supports the theoretical architecture in Phase II and the mechanism analysis in Phase IV.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145-182.**: The foundational self-explanation study showing that students who generate explanations during study dramatically outperform those who do not. Core empirical support for Mechanism 3 in Phase IV.
-
-- **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4-58.**: The comprehensive synthesis rating summarisation as "low utility" and elaborative interrogation as "moderate utility." Essential evidence for the Phase III argument that common writing strategies underperform their apparent effort.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing About Knowing*. MIT Press.**: The original theoretical statement of the desirable difficulties framework. Writing from memory and retrieval-writing are specific applications of the broader principle that conditions making encoding harder often make retention better. Supports the mechanism analysis in Phase IV.
-
-- **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187-194.**: Foundational research on the fluency illusion in study monitoring. Directly supports the Phase III argument that learners systematically miscalibrate their learning because they use processing fluency as a proxy for encoding strength.
-
-- **Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966-968.**: Demonstrates that retrieval practice dramatically outperforms elaborate re-study. Writing from memory is a form of retrieval practice. Supports the testing effect mechanism in Phase IV.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285.**: The foundational CLT paper. Essential for understanding the expertise interaction limitation in Phase V — generative writing tasks can overload novice working memory, undermining learning.
-
-- **Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592-604.**: The original generation effect study. Demonstrates that material generated by the learner is better remembered than material read. Core empirical support for Phase II.
-
-- **Kirsh, D., & Maglio, P. (1994). On distinguishing epistemic from pragmatic action. *Cognitive Science, 18*(4), 513-549.**: The foundational paper on epistemic actions — actions performed to change cognitive state rather than advance a task. Writing functions as an epistemic action when it reveals knowledge gaps; this conceptualisation grounds the Phase VIII connection to [[Epistemic-Actions]].
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Erlbaum.**: The foundational text introducing the knowledge-telling/knowledge-transforming distinction. Essential reading for understanding the architectural difference between reproductive and constructive writing processes. Directly supports the Phase II framework and the Phase VI synthesis.
-
-- **Wittrock, M. C. (1990). Generative processes of comprehension. *Educational Psychologist, 24*(4), 345-376.**: The definitive theoretical statement of generative learning theory. Argues that learning is a function of the generative relationships produced between new and existing knowledge. Supports the theoretical architecture in Phase II and the mechanism analysis in Phase IV.
-
-- **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145-182.**: The foundational self-explanation study showing that students who generate explanations during study dramatically outperform those who do not. Core empirical support for Mechanism 3 in Phase IV.
-
-- **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4-58.**: The comprehensive synthesis rating summarisation as "low utility" and elaborative interrogation as "moderate utility." Essential evidence for the Phase III argument that common writing strategies underperform their apparent effort.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing About Knowing*. MIT Press.**: The original theoretical statement of the desirable difficulties framework. Writing from memory and retrieval-writing are specific applications of the broader principle that conditions making encoding harder often make retention better. Supports the mechanism analysis in Phase IV.
-
-- **Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187-194.**: Foundational research on the fluency illusion in study monitoring. Directly supports the Phase III argument that learners systematically miscalibrate their learning because they use processing fluency as a proxy for encoding strength.
-
-- **Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966-968.**: Demonstrates that retrieval practice dramatically outperforms elaborate re-study. Writing from memory is a form of retrieval practice. Supports the testing effect mechanism in Phase IV.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285.**: The foundational CLT paper. Essential for understanding the expertise interaction limitation in Phase V — generative writing tasks can overload novice working memory, undermining learning.
-
-- **Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592-604.**: The original generation effect study. Demonstrates that material generated by the learner is better remembered than material read. Core empirical support for Phase II.
-
-- **Kirsh, D., & Maglio, P. (1994). On distinguishing epistemic from pragmatic action. *Cognitive Science, 18*(4), 513-549.**: The foundational paper on epistemic actions — actions performed to change cognitive state rather than advance a task. Writing functions as an epistemic action when it reveals knowledge gaps; this conceptualisation grounds the Phase VIII connection to [[Epistemic-Actions]].
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

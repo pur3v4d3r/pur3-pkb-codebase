@@ -6286,7 +6286,7 @@ Aliases: Generate useful reliable aliases for this report.
  **1. Define Core Parameters:**
     * **[TOPIC]:** {{Specify the central topic, concept, or question}}
     * **[DEPTH_LEVEL]:** {{e.g., "Encyclopedic overview," "In-depth technical analysis," "Historical context"}}
-    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept A]]`, `[[Theory B]]`}}
+    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept-A]]`, `[[Theory B]]`}}
 
  **2. Phase 1: Overture & Foundation (The "Why & What")**
     * **Abstract:** Start with a `> [!abstract]` callout. Provide a high-level, 1-2 paragraph summary of the entire topic.
@@ -6311,7 +6311,7 @@ Aliases: Generate useful reliable aliases for this report.
     * **Goal:** This phase fulfills the "discovery" and "connection" requirements.
     * **Internal Connections:**
       * `> [!connections-and-links]`
-      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept A]]` and `[[Theory B]]`."
+      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept-A]]` and `[[Theory B]]`."
     * **External Exploration:**
       * `> [!further-exploration]`
       * `> Generate a list of 3-5 *new* topics, concepts, or questions that emerged from this report. These are "new avenues" for me to explore.`
@@ -6917,7 +6917,7 @@ Explicitly connect concepts to foundational mental models.
 ### Inline Model Anchors
 
 ```markdown
-[**Model-Anchor**:: [[concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[concept]] ←anchors-to→ [[mental-model]] | insight:"what the connection reveals"]
 
 [**Model-Application**:: [[concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
@@ -6944,11 +6944,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[Cognitive-Load-Theory]]?"
+"How does [[First Principles Thinking]] illuminate [[cognitive-load-theory]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[Cognitive-Load-Theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[cognitive-load-theory]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 
@@ -7081,7 +7081,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 ```markdown
 > [!prerequisite] Required Background
 > **Hard Prerequisites** (must understand first):
-> - [[Information-Processing-Theory]] — foundational framework
+> - [[information-processing-theory]] — foundational framework
 > - [[Working Memory Basics]] — capacity constraints
 > 
 > **Soft Prerequisites** (helpful context):
@@ -7090,12 +7090,12 @@ optimal-sequence-position: [early | middle | late | capstone]
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[Cognitive-Load-Theory]] — primary extension
+> - [[cognitive-load-theory]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise-Development]] — schema automation
-> - [[Multimedia-Learning]] — CLT application
+> - [[expertise-development]] — schema automation
+> - [[multimedia-learning]] — CLT application
 ```
 </callout_format>
 
@@ -7155,7 +7155,7 @@ SORT file.name ASC
 ```dataview
 TABLE enables.direct as "Unlocks"
 FROM "permanent-notes"
-WHERE contains(prerequisites.hard, "[[Working-Memory]]")
+WHERE contains(prerequisites.hard, "[[working-memory]]")
 ```
 </query_compatibility>
 </prerequisite_dependency_mapping>

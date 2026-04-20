@@ -247,9 +247,9 @@ The first, and most significant, implication is the **shift from "AI user" to "A
 
 > [!connection-ideas]
 > The principles discussed here strongly connect to several other fields:
-> - **[[Instructional-Design]]**: In education, this field is about designing effective learning experiences. Meta-prompting is, in essence, instructional design *for an artificial mind*.
+> - **[[instructional-design]]**: In education, this field is about designing effective learning experiences. Meta-prompting is, in essence, instructional design *for an artificial mind*.
 > - **[[Software Engineering]]**: The use of modularity, orchestration, and structured templates (like YAML or JSON) directly mirrors modern software design patterns. We are, in effect, "programming" with natural language.
-> - **[[Cognitive-Science]]**: Advanced prompting techniques like Chain-of-Thought and Tree-of-Thoughts are "cognitively inspired," explicitly attempting to mimic human problem-decomposition and reasoning strategies.
+> - **[[cognitive-science]]**: Advanced prompting techniques like Chain-of-Thought and Tree-of-Thoughts are "cognitively inspired," explicitly attempting to mimic human problem-decomposition and reasoning strategies.
 
 A second implication is the **democratization of specialized expertise**. By crafting a powerful meta-prompt, a single expert can "bottle" their diagnostic process, their research methodology, or their design framework. They can then *share* this prompt, allowing non-experts to leverage that expert-level *process* with an LLM. A senior legal partner could design a "Gem" for contract analysis; a senior scientist, one for literature review. This creates a new class of "Personalized Savants"—agents tailored and optimized for highly specific, domain-critical tasks.
 

@@ -85,9 +85,9 @@ Based on your focus on developing systematic critical thinking methodology and t
 Epistemic vigilance represents the cognitive machinery that evolved to help humans navigate testimony and information in social environments, while epistemic humility addresses the philosophical and practical challenge of knowing what we don't know. This topic bridges evolutionary psychology (Sperber & Mercier's work), virtue epistemology, and practical critical thinking methodology. It connects directly to your Stoicism practice (especially Socratic "I know that I know nothing"), the Paul-Elder intellectual standards (intellectual humility), and provides metacognitive frameworks for self-questioning. The tension between healthy skepticism and productive trust creates rich analytical territory.
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[Epistemic Virtue Theory]]
-- [[Dunning-Kruger-Effect]]
-- [[Metacognitive-Calibration]]
-- [[Intellectual-Humility]]
+- [[dunning-kruger-effect]]
+- [[metacognitive-calibration]]
+- [[intellectual-humility]]
 - [[Testimonial Knowledge]]
 - [[Cognitive Immunology Hypothesis]]
 - [[Belief Revision Mechanisms]]
@@ -125,16 +125,16 @@ This is perhaps the most influential framework in modern cognitive science for u
 - [[Heuristics-and-Biases-Program]]
 - [[Cognitive Ease]]
 - [[Cognitive Reflection]]
-- [[Working-Memory-Capacity]]
+- [[working-memory-capacity]]
 - [[Cognitive-Miserliness]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Attribute Substitution]]
-- [[Mental-Effort]]
+- [[mental-effort]]
 - [[Default Interventionist Model]]
 - [[Parallel Competitive Model]]
 - [[Cognitive-Decoupling]]
 - [[Rationality Debate]]
-- [[Bounded-Rationality]]
+- [[bounded-rationality]]
 - [[Cognitive Closure]]
 - [[Reflective Mind]]
 - [[Algorithmic Mind]]
@@ -166,7 +166,7 @@ Argument mapping represents the intersection of formal logic, cognitive science 
 - [[Premise-Conclusion Relationships]]
 - [[Hidden Assumptions]]
 - [[Argument Diagramming Software]]
-- [[Logical Fallacies]]
+- [[Logical-Fallacies]]
 - [[Defeasible Reasoning]]
 - [[Burden-of-Proof]]
 - [[Argumentation Schemes]]
@@ -191,7 +191,7 @@ Argument mapping as "X-ray vision for reasoning"—just as medical imaging revea
 ---
 
 ```
-**Topic**: [[Metacognition-and-Self-Regulated-Learning]]
+**Topic**: [[metacognition-and-self-regulated-learning]]
 **Domain**: Educational Psychology, Cognitive Science, Developmental Psychology, Learning Sciences
 **Complexity Level**: ⭐⭐⭐⭐⭐
 **Depth Potential**: 3500-5000 words
@@ -199,32 +199,32 @@ Argument mapping as "X-ray vision for reasoning"—just as medical imaging revea
 **Why This Topic is Foundationally Rich**:
 Metacognition—"thinking about thinking"—represents the highest-order cognitive skill and is the foundation for all critical thinking frameworks you're studying. Flavell's pioneering work in the 1970s, Schraw & Moshman's taxonomy, Zimmerman's self-regulated learning models, and Dunlosky's research on effective learning strategies create a rich scholarly ecosystem. This topic is the *meta-framework* underlying Paul-Elder (monitoring one's use of elements/standards), Bloom's highest levels (evaluate, create), and Facione's self-regulation dimension. It directly addresses your goal of "systematically questioning yourself" by providing cognitive and metacognitive monitoring strategies. The empirical research spans decades with clear practical applications.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Metacognitive-Knowledge]]
-- [[Metacognitive-Regulation]]
-- [[Metacognitive-Monitoring]]
-- [[Metacognitive-Control]]
+- [[metacognitive-knowledge]]
+- [[metacognitive-regulation]]
+- [[metacognitive-monitoring]]
+- [[metacognitive-control]]
 - [[Self-Regulated Learning Cycle]]
 - [[Metamemory]]
 - [[Metacomprehension]]
 - [[Calibration of Confidence]]
-- [[Feeling-of-Knowing]]
-- [[Judgment-of-Learning]]
-- [[Comprehension-Monitoring]]
+- [[feeling-of-knowing]]
+- [[judgment-of-learning]]
+- [[comprehension-monitoring]]
 - [[Strategic Learning]]
-- [[Reflective-Practice]]
+- [[reflective-practice]]
 - [[Cognitive Strategy Instruction]]
-- [[Zone-of-Proximal-Development]]
-- [[Desirable-Difficulties]]
-- [[Retrieval-Practice]]
+- [[zone-of-proximal-development]]
+- [[desirable-difficulties]]
+- [[retrieval-practice]]
 - [[Interleaved Practice]]
-- [[Elaborative-Interrogation]]
-- [[Self-Explanation-Effect]]
-- [[Dunning-Kruger-Effect]] (metacognitive failure)
+- [[elaborative-interrogation]]
+- [[self-explanation-effect]]
+- [[dunning-kruger-effect]] (metacognitive failure)
 - [[Expert-Novice Differences]]
 **Analogical Potential**:
 Metacognition as a "mental control tower"—air traffic controllers don't fly planes, but they monitor all flights, detect problems, coordinate resources, and make strategic decisions about traffic flow; similarly, metacognition doesn't perform cognitive tasks but monitors and regulates all thinking processes.
 **Prerequisite Knowledge**:
-[[Working Memory Model]], [[Schema-Theory]], [[Information-Processing-Theory]]
+[[Working Memory Model]], [[schema-theory]], [[information-processing-theory]]
 **Research Starting Points**:
 - Key texts: Flavell "Metacognition and Cognitive Monitoring" (1979), Dunlosky & Metcalfe "Metacognition" (2009)
 - Search: "metacognitive strategies effectiveness" + "self-regulated learning interventions"
@@ -242,9 +242,9 @@ Metacognition as a "mental control tower"—air traffic controllers don't fly pl
 **Why This Topic is Foundationally Rich**:
 While cognitive biases are widely discussed, the *science of debiasing* represents a sophisticated research program addressing whether and how biases can be corrected. This topic encompasses the "bias bias" (Gigerenzer's criticism that not all heuristics are errors), the debate over whether biases are "bugs or features" (ecological rationality perspective), individual-level interventions (consider-the-opposite, taking outside view), and institutional design (nudges, choice architecture). It connects to all your frameworks: Paul-Elder emphasizes intellectual traits that counter bias, ACER evaluates argument quality against bias, Facione includes disposition toward truth-seeking, and Stoicism cultivates emotional regulation that reduces affective bias. The scholarly controversy is robust and ongoing.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Confirmation-Bias]]
-- [[Anchoring Bias]]
-- [[Availability-Heuristic]]
+- [[confirmation-bias]]
+- [[Anchoring-Bias]]
+- [[availability-heuristic]]
 - [[representativeness-heuristic]]
 - [[Hindsight-Bias]]
 - [[Consider-the-Opposite Strategy]]
@@ -255,7 +255,7 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 - [[Ecological-Rationality]]
 - [[Fast-and-Frugal-Heuristics]]
 - [[Bias Blind Spot]]
-- [[Motivated-Reasoning]]
+- [[motivated-reasoning]]
 - [[Affective Forecasting]]
 - [[Cognitive Reflection Test]]
 - [[Statistical Training Effects]]
@@ -266,7 +266,7 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 **Analogical Potential**:
 Debiasing as "cognitive error correction software"—just as autocorrect identifies and fixes typing mistakes (though imperfectly), debiasing strategies identify systematic thinking errors and provide corrective procedures.
 **Prerequisite Knowledge**:
-[[Dual-Process-Theory]], [[Rationality Concepts]], [[Statistical Thinking Basics]]
+[[dual-process-theory]], [[Rationality Concepts]], [[Statistical Thinking Basics]]
 **Research Starting Points**:
 - Key papers: Fischhoff "Debiasing" (1982), Lilienfeld et al. "Giving Debiasing Away" (2009), Morewedge et al. "Debiasing Decisions" (2015)
 - Search: "cognitive bias mitigation interventions" + "debiasing effectiveness meta-analysis"
@@ -284,14 +284,14 @@ Debiasing as "cognitive error correction software"—just as autocorrect identif
 **Why This Topic is Foundationally Rich**:
 King & Kitchener's Reflective Judgment Model (RJM) represents one of the most empirically validated developmental frameworks for understanding how adults reason about complex, uncertain problems. It traces a seven-stage progression from pre-reflective (knowledge is certain and obtained directly) through quasi-reflective (knowledge is uncertain but this causes epistemic paralysis) to reflective thinking (knowledge is constructed through evidence and argument evaluation). This directly addresses your systematic self-questioning goal by providing a developmental roadmap. It connects to Perry's scheme, Kuhn's argumentative reasoning work, Baxter Magolda's epistemological reflection model, and integrates with your interest in Stoic epistemic practices (Epictetus on distinguishing what's "up to us" vs. externals mirrors epistemic judgment). The longitudinal research spans decades with clear implications for critical thinking pedagogy.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Reflective-Judgment-Model]]
+- [[reflective-judgment-model]]
 - [[Ill-Structured-Problems]]
 - [[Epistemic Assumptions]]
 - [[Pre-Reflective Thinking]]
 - [[Quasi-Reflective Thinking]]
-- [[Reflective-Thinking]]
+- [[reflective-thinking]]
 - [[Perry's Scheme of Intellectual Development]]
-- [[Epistemic-Cognition]]
+- [[epistemic-cognition]]
 - [[Epistemological Sophistication]]
 - [[Belief Justification]]
 - [[Evidentiary Reasoning]]
@@ -1118,7 +1118,7 @@ Here is the research strategy and topic curation for **Critical Thinking**, desi
 
 Title: The Architecture of Reason: Strategic Inquiry into Critical Thinking
 Tags: \#critical-thinking \#epistemology \#cognitive-science \#pedagogy \#decision-theory
-Aliases: [[Applied Logic]], [[Cognitive-Restructuring]], [[Rational Inquiry]]
+Aliases: [[Applied Logic]], [[cognitive-restructuring]], [[Rational Inquiry]]
 
 > [!the-purpose]
 > This topic set deconstructs Critical Thinking from a vague buzzword into a rigorous set of cognitive processes, historical lineages, and practical applications. The topics below are designed to explore the subject not just as a "soft skill," but as a fundamental mechanism for error correction in human cognition, a defense against misinformation in the digital age, and a disciplined framework for analyzing complex systems. Each topic is engineered to sustain a deep, five-part structural analysis ranging from historical philosophy to modern neuroscientific evidence.

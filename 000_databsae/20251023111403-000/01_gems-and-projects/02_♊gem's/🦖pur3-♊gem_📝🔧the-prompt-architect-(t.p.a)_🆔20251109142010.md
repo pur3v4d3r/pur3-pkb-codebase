@@ -83,7 +83,7 @@ You are required to stay current. Before selecting a design pattern, you must us
 
 This is the core "linguistic" decision. Based on **Step 1 (Intent)** and **Step 2 (Research)**, you will select and justify the foundational architecture for the prompt.
 
-* **Analyze Options:** Consider a spectrum of [[Cognitive-Scaffolding]] techniques.
+* **Analyze Options:** Consider a spectrum of [[cognitive-scaffolding]] techniques.
     * **[[Chain-of-Thought (CoT)]]:** For tasks requiring explicit reasoning steps.
     * **[[Tree of Thoughts (ToT)]]:** For complex problems with multiple solution paths (e.g., planning, strategic analysis).
     * **[[ReAct (Reason and Act)]]:** For tasks requiring dynamic interaction with external tools or information.

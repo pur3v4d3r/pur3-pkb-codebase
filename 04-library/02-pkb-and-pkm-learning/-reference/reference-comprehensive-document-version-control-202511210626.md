@@ -81,11 +81,11 @@ A comprehensive work log captures five dimensions of intellectual labor:
 4. **Progress Dimension** - Advancement toward goals, blockers encountered, momentum indicators
 5. **Cognitive Dimension** - Insights discovered, learning moments, metacognitive observations
 
-This multi-dimensional capture transforms work logs from simple time tracking into **knowledge archaeology sites**—places where future-you can excavate the reasoning that led to past decisions. In [[Zettelkasten]] methodology, work logs function as the temporal index to your permanent notes, answering "When did I develop this concept?" rather than just "What do I know about this concept?"
+This multi-dimensional capture transforms work logs from simple time tracking into **knowledge archaeology sites**—places where future-you can excavate the reasoning that led to past decisions. In [[zettelkasten]] methodology, work logs function as the temporal index to your permanent notes, answering "When did I develop this concept?" rather than just "What do I know about this concept?"
 
 > [!key-claim]
 > **Central Principle: Logs as Cognitive Offloading**
-> Work logs reduce [[Cognitive-Load]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
+> Work logs reduce [[cognitive-load]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
 
 ### Why Work Logs Matter for Knowledge Workers
 
@@ -124,13 +124,13 @@ Most sophisticated knowledge workers maintain **multiple log types simultaneousl
 
 ### Cognitive Benefits: The Psychology of Logging
 
-Work logging yields measurable cognitive benefits grounded in [[Educational-Psychology]] research:
+Work logging yields measurable cognitive benefits grounded in [[educational-psychology]] research:
 
 **1. Progress Perception Enhancement**
 The [[Progress Principle]] (Teresa Amabile) demonstrates that perceived progress is the strongest predictor of motivation and productivity. Work logs make progress *visible* even when outputs are intangible. Writing "Today: resolved 12 edge cases" creates concrete evidence of forward movement in software development where the final product looks identical whether 12 or 0 edge cases were addressed.
 
 **2. Metacognitive Regulation Improvement**
-[[Metacognition]]—thinking about thinking—is enhanced through reflective documentation. When you log not just *what* you did but *why* and *how*, you activate metacognitive monitoring. Over time, this develops pattern recognition: "I notice I'm stuck because I'm solving the wrong problem" becomes recognizable faster because you've documented similar situations previously.
+[[metacognition]]—thinking about thinking—is enhanced through reflective documentation. When you log not just *what* you did but *why* and *how*, you activate metacognitive monitoring. Over time, this develops pattern recognition: "I notice I'm stuck because I'm solving the wrong problem" becomes recognizable faster because you've documented similar situations previously.
 
 **3. Context Restoration Efficiency**
 [[Attention-Residue]] research (Sophie Leroy) shows that task switching leaves cognitive residue from the previous task, reducing performance on the new task. Work logs accelerate context restoration by providing explicit cues: "I was debugging the OAuth flow, specifically the token refresh mechanism, and suspected a race condition." This specificity minimizes the cognitive cost of resuming interrupted work.
@@ -241,7 +241,7 @@ Most knowledge workers suffer from the [[Planning Fallacy]]—systematic underes
 - Outcome-oriented (emphasizes value created, not time spent)
 - Easier to query by topic (tasks are naturally semantic)
 - Lower capture burden (document after completion)
-- Aligns with [[Getting-Things-Done]] and [[PARA-Method]] approaches
+- Aligns with [[Getting-Things-Done]] and [[para-method]] approaches
 - Creates natural progress visibility
 
 **Disadvantages**:
@@ -312,7 +312,7 @@ Most knowledge workers suffer from the [[Planning Fallacy]]—systematic underes
 - Natural for reflective practitioners
 - Lower daily burden (weekly summary rather than hourly log)
 - Excellent for knowledge recovery months/years later
-- Supports [[Reflective-Practice]] and learning
+- Supports [[reflective-practice]] and learning
 
 **Disadvantages**:
 - Requires narrative synthesis skill (not everyone thinks in stories)
@@ -431,7 +431,7 @@ Token refresh needs mutex—concurrent requests were causing race condition
 ## ⚙️ III. Practical Implementation Systems
 
 > [!key-claim]
-> **Methodology means nothing without sustainable execution.** This section translates theoretical logging approaches into concrete, maintainable systems within [[Obsidian]] and other [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] platforms.
+> **Methodology means nothing without sustainable execution.** This section translates theoretical logging approaches into concrete, maintainable systems within [[obsidian]] and other [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] platforms.
 
 ### Implementation Pattern 1: Obsidian Daily Notes System
 
@@ -748,7 +748,7 @@ This creates dual temporal and project-based indexing.
 
 ### Tool Ecosystem: Beyond Obsidian
 
-While this guide emphasizes [[Obsidian]] (given the PKB context), work logging principles apply across platforms:
+While this guide emphasizes [[obsidian]] (given the PKB context), work logging principles apply across platforms:
 
 | Tool | Strengths | Work Log Application |
 |------|-----------|----------------------|
@@ -1901,14 +1901,14 @@ Work Logging & Version Management Reference
 ```
 
 Wiki-Link Opportunities Identified:
-- [[Personal-Knowledge-Management]]
+- [[personal-knowledge-management]]
 - [[Time Management]]
 - [[Project Management]]
 - [[Git]]
 - [[Semantic Versioning]]
 - [[Obsidian Daily Notes]]
-- [[Zettelkasten]]
-- [[PARA-Method]]
+- [[zettelkasten]]
+- [[para-method]]
 - [[Getting-Things-Done]]
 - [[Version Control]]
 - [[Change Management]]

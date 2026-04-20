@@ -23,18 +23,18 @@ related_concepts:
   - "[[Comparative Analysis]]"
   - "[[Theoretical Integration]]"
   - "[[Chain of Density]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Transfer-of-Learning]]"
-  - "[[Critical-Thinking]]"
+  - "[[transfer-of-learning]]"
+  - "[[critical-thinking]]"
   - "[[Framework Comparison]]"
   - "[[Convergence Mapping]]"
   - "[[Complementarity Analysis]]"
-  - "[[Far-Transfer]]"
+  - "[[far-transfer]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -113,14 +113,14 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Chain of Density]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
-  - "[[Focused-Analysis-Report-Generator-v1.0]]"
+  - "[[focused-analysis-report-generator-v1.0]]"
 
 extends:
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
-  - "[[Focused-Analysis-Report-Generator-v1.0]]"
+  - "[[focused-analysis-report-generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -131,13 +131,13 @@ aliases:
   - "[[CSRG v1.0]]"
   - "[[Report Generator - Comparative Synthesis]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
 link_related:
-  - "[[Foundational-Report-Generator-v1.0]]"
-  - "[[Focused-Analysis-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
+  - "[[focused-analysis-report-generator-v1.0]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
   - "[[Dialectical Re-Examination Report Generator v1.0]]"
   - "[[Academic Report Generator]]"
@@ -324,7 +324,7 @@ The PKB Synthesis Report Generator and this Comparative Synthesis Report Generat
 | **Synthesis type** | Disciplinary intersection | Framework integration |
 | **Distinctive engine** | Cross-Domain Synthesis Engine (5 operations) | Comparative Analysis Engine (5 different operations) |
 
-A PKB Synthesis report on [[Transfer-of-Learning]] would integrate cognitive science, educational psychology, and philosophy of education into unified PKB design guidance. A Comparative Synthesis report on [[Transfer-of-Learning]] would compare the theories *within* that literature — Thorndike's identical elements theory, Perkins & Salomon's high-road/low-road model, Halpern's four-component model, Barnett & Ceci's taxonomy — mapping how these frameworks relate to each other, where each is most useful, and what integrative understanding emerges.
+A PKB Synthesis report on [[transfer-of-learning]] would integrate cognitive science, educational psychology, and philosophy of education into unified PKB design guidance. A Comparative Synthesis report on [[transfer-of-learning]] would compare the theories *within* that literature — Thorndike's identical elements theory, Perkins & Salomon's high-road/low-road model, Halpern's four-component model, Barnett & Ceci's taxonomy — mapping how these frameworks relate to each other, where each is most useful, and what integrative understanding emerges.
 
 ### What Makes This Different from Every Other Generator
 
@@ -369,7 +369,7 @@ A PKB Synthesis report on [[Transfer-of-Learning]] would integrate cognitive sci
 
 **Template**: *"All {n} frameworks address the question of {shared dimension}, though they approach it differently. Framework A emphasizes {aspect}, Framework B prioritizes {aspect}, and Framework C reconceptualizes the question as {reframing}. Comparison along this dimension reveals {comparative insight}."*
 
-**Example**: If comparing theories of [[Transfer-of-Learning]], shared dimensions might include: what transfers (content vs. structure vs. disposition), conditions for transfer (similarity vs. abstraction vs. motivation), mechanism of transfer (identical elements vs. analogical mapping vs. metacognitive bridging), and role of instruction (explicit vs. emergent vs. practice-based). Not all theories address all dimensions — and noting which dimensions a theory ignores is as informative as noting how it addresses them.
+**Example**: If comparing theories of [[transfer-of-learning]], shared dimensions might include: what transfers (content vs. structure vs. disposition), conditions for transfer (similarity vs. abstraction vs. motivation), mechanism of transfer (identical elements vs. analogical mapping vs. metacognitive bridging), and role of instruction (explicit vs. emergent vs. practice-based). Not all theories address all dimensions — and noting which dimensions a theory ignores is as informative as noting how it addresses them.
 
 #### Operation 2: Complementarity Detection
 

@@ -39,7 +39,7 @@ aliases: [Thinking About Thinking, Metacognitive Awareness, Self-Reflection, Cog
 
 > [!abstract]
 > **Executive Overview**
-> Metacognition—literally "thinking about thinking"—represents the apex of human cognitive capability: the ability to monitor, control, and optimize one's own mental processes. This comprehensive reference encompasses theoretical foundations from [[Flavell]]'s seminal 1979 model through contemporary [[Self-Regulated-Learning]] frameworks, detailed taxonomies of metacognitive knowledge and regulation, practical techniques for knowledge workers and lifelong learners, and empirical research on metacognitive judgment accuracy. Essential for anyone engaged in systematic [[Cognitive-Development]], this resource provides both theoretical depth and actionable strategies for becoming an expert self-directed learner.
+> Metacognition—literally "thinking about thinking"—represents the apex of human cognitive capability: the ability to monitor, control, and optimize one's own mental processes. This comprehensive reference encompasses theoretical foundations from [[flavell]]'s seminal 1979 model through contemporary [[self-regulated-learning]] frameworks, detailed taxonomies of metacognitive knowledge and regulation, practical techniques for knowledge workers and lifelong learners, and empirical research on metacognitive judgment accuracy. Essential for anyone engaged in systematic [[cognitive-development]], this resource provides both theoretical depth and actionable strategies for becoming an expert self-directed learner.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -67,7 +67,7 @@ aliases: [Thinking About Thinking, Metacognitive Awareness, Self-Reflection, Cog
 
 ### The Genesis of Metacognition
 
-Metacognition was formally introduced as a theoretical construct by American developmental psychologist [[John-H.-Flavell]] in 1976, though philosophical roots trace back to Plato's writings on "cognizing about cognition" and Aristotle's works *On the Soul* and *Parva Naturalia*. Flavell's seminal 1979 paper defined metacognition as "knowledge and cognition about cognitive phenomena", establishing it as a distinct area of cognitive psychology research.
+Metacognition was formally introduced as a theoretical construct by American developmental psychologist [[john-h.-flavell]] in 1976, though philosophical roots trace back to Plato's writings on "cognizing about cognition" and Aristotle's works *On the Soul* and *Parva Naturalia*. Flavell's seminal 1979 paper defined metacognition as "knowledge and cognition about cognitive phenomena", establishing it as a distinct area of cognitive psychology research.
 
 In his 1976 work, Flavell recognized metacognition consisted of both monitoring and regulation aspects, defining it as "the active monitoring and consequent regulation and orchestration of cognitive processes in relation to the cognitive objects or data on which they bear, usually in service of some concrete goal or objective". This dual-process conceptualization—awareness *and* control—remains foundational to contemporary understanding.
 
@@ -129,12 +129,12 @@ Metacognitive actions or strategies are the regulatory moves made to achieve met
 
 ### The Two-Component Framework (Knowledge + Regulation)
 
-A simplified and widely-adopted framework divides metacognition into two primary components: **metacognitive knowledge** and **metacognitive regulation**. This model, refined by researchers like [[Gregory-Schraw]] and [[David Moshman]], provides a more tractable structure for both research and practical application.
+A simplified and widely-adopted framework divides metacognition into two primary components: **metacognitive knowledge** and **metacognitive regulation**. This model, refined by researchers like [[gregory-schraw]] and [[David Moshman]], provides a more tractable structure for both research and practical application.
 
 | Component | Description | Subcategories |
 |-----------|-------------|---------------|
-| **[[Metacognitive-Knowledge]]** | Awareness of your own thinking and approaches for learning | [[Declarative Knowledge]], [[Procedural-Knowledge]], [[Conditional Knowledge]] |
-| **[[Metacognitive-Regulation]]** | How you control your thinking for learning | [[Planning]], [[Monitoring]], [[Evaluation]], [[Control/Debugging]] |
+| **[[metacognitive-knowledge]]** | Awareness of your own thinking and approaches for learning | [[Declarative-Knowledge]], [[procedural-knowledge]], [[Conditional-Knowledge]] |
+| **[[metacognitive-regulation]]** | How you control your thinking for learning | [[planning]], [[Monitoring]], [[evaluation]], [[Control/Debugging]] |
 
 > [!core-principle]
 > **The Knowledge-Regulation Dialectic**
@@ -209,11 +209,11 @@ Declarative knowledge involves knowing about yourself as a learner, including aw
 
 #### The Role of Self-Efficacy
 
-Person variables intimately connect with [[Self-Efficacy]]—beliefs about one's capacity to succeed. Self-efficacy beliefs can affect performance phase processes directly, including choice of activities, effort expenditure, and persistence. Accurate person knowledge paired with high self-efficacy creates a powerful combination for self-directed learning.
+Person variables intimately connect with [[self-efficacy]]—beliefs about one's capacity to succeed. Self-efficacy beliefs can affect performance phase processes directly, including choice of activities, effort expenditure, and persistence. Accurate person knowledge paired with high self-efficacy creates a powerful combination for self-directed learning.
 
 > [!warning]
 > **The Dunning-Kruger Trap**
-> Inaccurate person variables can be devastating. Those with limited competence may overestimate their abilities (the [[Dunning-Kruger-Effect]]), while highly skilled individuals may underestimate themselves (impostor syndrome). Developing accurate self-knowledge requires systematic [[Self-Assessment]] and external feedback calibration.
+> Inaccurate person variables can be devastating. Those with limited competence may overestimate their abilities (the [[dunning-kruger-effect]]), while highly skilled individuals may underestimate themselves (impostor syndrome). Developing accurate self-knowledge requires systematic [[Self-Assessment]] and external feedback calibration.
 
 ### Task Variables: Understanding Demands & Complexity
 
@@ -284,7 +284,7 @@ Strategy variables represent the learner's cognitive toolkit—the collection of
 - Grasping the cognitive principles underlying strategy effectiveness
 
 > [!example]
-> **Strategy Knowledge in Action: [[Elaborative-Interrogation]]**
+> **Strategy Knowledge in Action: [[elaborative-interrogation]]**
 > - **Declarative**: "Elaborative interrogation means asking yourself 'why' questions about facts"
 > - **Procedural**: "Generate specific 'why' questions for each key concept, then answer them using prior knowledge and logical inference"
 > - **Conditional**: "Use this when learning conceptual material with causal relationships; less effective for arbitrary associations or rote memorization"
@@ -295,9 +295,9 @@ Effective self-directed learners cultivate broad strategy repertoires across mul
 
 **Cognitive Strategies** (operate on content):
 - [[Rehearsal]] (repetition, copying)
-- [[Elaboration]] (connecting to prior knowledge)
-- [[Organization]] (chunking, hierarchies, schemas)
-- [[Critical-Thinking]] (analysis, evaluation, synthesis)
+- [[elaboration]] (connecting to prior knowledge)
+- [[organization]] (chunking, hierarchies, schemas)
+- [[critical-thinking]] (analysis, evaluation, synthesis)
 
 **Metacognitive Strategies** (operate on learning process):
 - [[Self-Questioning]] (monitoring comprehension)
@@ -309,7 +309,7 @@ Effective self-directed learners cultivate broad strategy repertoires across mul
 - [[time management]] (scheduling, prioritization)
 - [[Environment Control]] (minimizing distractions)
 - [[Help-Seeking]] (knowing when/how to request assistance)
-- [[Effort-Regulation]] (maintaining motivation and persistence)
+- [[effort-regulation]] (maintaining motivation and persistence)
 
 #### Strategy Interactions and Combinations
 
@@ -334,9 +334,9 @@ Educational researchers additionally categorize metacognitive knowledge into **d
 
 | Knowledge Type | Definition | Example Application |
 |----------------|------------|---------------------|
-| **[[Declarative Knowledge]]** | Knowing *about* yourself as a learner, task demands, and what strategies exist | "I know that [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] involves 25-minute work intervals" |
-| **[[Procedural-Knowledge]]** | Knowing *how* to use learning strategies | "I can effectively implement spaced repetition using flashcard software" |
-| **[[Conditional Knowledge]]** | Knowing *when* and *why* to use particular strategies | "I use concept mapping for complex relationships but simple lists for linear sequences" |
+| **[[Declarative-Knowledge]]** | Knowing *about* yourself as a learner, task demands, and what strategies exist | "I know that [[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]] involves 25-minute work intervals" |
+| **[[procedural-knowledge]]** | Knowing *how* to use learning strategies | "I can effectively implement spaced repetition using flashcard software" |
+| **[[Conditional-Knowledge]]** | Knowing *when* and *why* to use particular strategies | "I use concept mapping for complex relationships but simple lists for linear sequences" |
 
 > [!analogy]
 > **The Craftsman's Knowledge**
@@ -498,7 +498,7 @@ While monitoring progress, learners can ask: 'How am I doing?', 'What should I d
 
 **3. Calibration & Judgment Accuracy**
 
-Effective monitoring requires accurate [[Metacognitive-Calibration]]—the ability to judge one's own performance realistically. Metacognitive calibration is the capacity to accurately self-assess performance, forming the basis for error detection and self-monitoring.
+Effective monitoring requires accurate [[metacognitive-calibration]]—the ability to judge one's own performance realistically. Metacognitive calibration is the capacity to accurately self-assess performance, forming the basis for error detection and self-monitoring.
 
 **Calibration Improvement Strategies:**
 - Immediate feedback on practice attempts
@@ -723,7 +723,7 @@ Metacognitive calibration is the capacity to accurately self-assess one's perfor
 **Calibration Biases:**
 - **Overconfidence**: Judgments exceed actual performance (common in novices)
 - **Underconfidence**: Judgments below actual performance (can occur in experts)
-- Unskilled individuals often exhibit inflated self-assessments due to inability to recognize their own incompetence ([[Dunning-Kruger-Effect]])
+- Unskilled individuals often exhibit inflated self-assessments due to inability to recognize their own incompetence ([[dunning-kruger-effect]])
 
 **Calibration Curve Example:**
 
@@ -1190,7 +1190,7 @@ Each phase operates across four areas: cognition, motivation/affect, behavior, a
 
 Efklides' Metacognition and Affect model of SRL (MASRL) explores how emotion and motivation interact with metacognition, distinguishing between two levels: the Person level (macro) and the Task level (micro).
 
-The Person level represents generalized SRL functioning, including cognition, motivation, self-concept, affect, volition, metacognitive knowledge, and metacognitive skills. The Task level involves moment-to-moment processing during specific task engagement, heavily influenced by [[Metacognitive-Experiences]].
+The Person level represents generalized SRL functioning, including cognition, motivation, self-concept, affect, volition, metacognitive knowledge, and metacognitive skills. The Task level involves moment-to-moment processing during specific task engagement, heavily influenced by [[metacognitive-experiences]].
 
 > [!principle-point]
 > **Efklides' Contribution**
@@ -1257,7 +1257,7 @@ Students who use a wide variety of metacognitive skills do better on exams and c
 | **Planning** | Reactive, surface-level | Proactive, strategic |
 | **Attribution** | External (luck, difficulty) | Internal but malleable (effort, strategy) |
 | **Goals** | Performance-focused | Learning/mastery-focused |
-| **Self-Efficacy** | Fixed mindset | [[Growth-Mindset]] |
+| **Self-Efficacy** | Fixed mindset | [[growth-mindset]] |
 
 When experts were compared to non-experts and novices, they reported greatest use of metacognitive processes and most positive motivational beliefs.
 

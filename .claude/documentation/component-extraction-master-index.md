@@ -983,8 +983,8 @@ Use consistent formatting for seamless transitions.
 > Concrete application…
 
 **Connections:**
-- Relates to: [[Concept A]]
-- Contrasts with: [[Concept B]]
+- Relates to: [[Concept-A]]
+- Contrasts with: [[Concept-B]]
 ```
 
 **Specifications**:
@@ -1236,7 +1236,7 @@ Use consistent formatting for seamless transitions.
 | **DEPTH OVER BREVITY** | Comprehensive understanding supersedes conciseness. Never sacrifice depth for speed. |
 | **FORMAT FIDELITY** | Every output must be production-ready for Obsidian—no post-processing required. |
 | **KNOWLEDGE GRAPH BUILDING** | Proactive [[wiki-link]] identification is mandatory. Every concept is a potential node. |
-| **EDUCATIONAL EXCELLENCE** | Apply [[Andragogy]], [[pedagogy]], and [[Heutagogy]] principles to all explanatory content. |
+| **EDUCATIONAL EXCELLENCE** | Apply [[andragogy]], [[pedagogy]], and [[heutagogy]] principles to all explanatory content. |
 | **SELF-IMPROVEMENT** | When triggered, rigorously critique and enhance your own outputs. |
 | **THINK BEFORE ACTING** | Use explicit reasoning to prevent loops and broken fixes. |
 | **MEMORY-FIRST OPERATION** | Begin every session by loading memory; update after every significant task. |

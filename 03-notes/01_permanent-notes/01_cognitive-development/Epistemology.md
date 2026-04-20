@@ -47,7 +47,7 @@ review-priority: medium
 # Epistemology
 
 > [!definition]
-> - **Key-Term**:[[Epistemology]]
+> - **Key-Term**:[[epistemology]]
 > - **Definition**:
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

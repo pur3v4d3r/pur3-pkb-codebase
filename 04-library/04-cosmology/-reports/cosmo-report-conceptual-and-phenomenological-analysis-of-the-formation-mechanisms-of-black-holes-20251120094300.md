@@ -147,9 +147,9 @@ However, neutron degeneracy also has limits. The precise maximum mass of a neutr
 > [!principle-point]
 > **Core Principle 3: The Eddington Limit and Accretion Physics**
 >
-> For black holes that grow through [[Accretion]]—capturing gas and dust from their surroundings—a fundamental limit governs their growth rate. The [[Eddington limit]] represents the maximum luminosity an accreting object can sustain before radiation pressure from emitted photons exceeds gravitational attraction, halting further accretion.
+> For black holes that grow through [[accretion]]—capturing gas and dust from their surroundings—a fundamental limit governs their growth rate. The [[Eddington limit]] represents the maximum luminosity an accreting object can sustain before radiation pressure from emitted photons exceeds gravitational attraction, halting further accretion.
 
-As matter spirals toward a black hole through an [[Accretion-Disk]], gravitational potential energy converts to kinetic energy and then to heat through friction and viscosity. This tremendous heating makes the inner disk glow intensely, particularly in X-ray wavelengths. The radiation exerts outward pressure on infalling matter through [[radiation pressure]]—photons transferring momentum to electrons in the gas, which then drag along ions through electromagnetic coupling.
+As matter spirals toward a black hole through an [[accretion-disk]], gravitational potential energy converts to kinetic energy and then to heat through friction and viscosity. This tremendous heating makes the inner disk glow intensely, particularly in X-ray wavelengths. The radiation exerts outward pressure on infalling matter through [[radiation pressure]]—photons transferring momentum to electrons in the gas, which then drag along ions through electromagnetic coupling.
 
 The Eddington limit occurs when this outward radiation pressure exactly balances inward gravitational attraction:
 
@@ -268,7 +268,7 @@ Unlike stellar collapse—a local, well-defined process—supermassive black hol
 
 **Pathway 1: Light Seed Model with Successive Mergers and Super-Eddington Accretion**
 
-The most conservative approach assumes supermassive black holes grow from stellar-mass "seeds"—the black holes left behind by [[Population III stars]] (the universe's first generation of metal-free, extremely massive stars). These first stars, forming in primordial dark matter halos at redshifts z~20-30 (corresponding to 100-200 million years post-Big Bang), potentially reached masses of 100-1000 M☉ before collapsing directly to black holes.[^28]
+The most conservative approach assumes supermassive black holes grow from stellar-mass "seeds"—the black holes left behind by [[Population-III-Stars]] (the universe's first generation of metal-free, extremely massive stars). These first stars, forming in primordial dark matter halos at redshifts z~20-30 (corresponding to 100-200 million years post-Big Bang), potentially reached masses of 100-1000 M☉ before collapsing directly to black holes.[^28]
 
 From these ~100 M☉ seeds, growth to supermassive scales requires two processes operating in tandem:
 

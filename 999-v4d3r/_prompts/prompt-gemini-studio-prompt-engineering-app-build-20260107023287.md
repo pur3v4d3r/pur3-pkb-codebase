@@ -533,7 +533,7 @@ The current prompt demonstrates several competent prompt engineering decisions a
 #### Critical Weaknesses Requiring Remediation
 
 > [!warning] **Weakness 1: Persona-Task Interference**
-> The Darth Vader persona creates fundamental tensions with rigorous academic analysis. Phrases like "insignificant details" encourage dismissive treatment of methodology nuances. The "Dark Side vs Order" binary framing oversimplifies multi-dimensional research problems. Academic paper analysis requires [[Epistemic-Humility]]—acknowledging uncertainty, limitations, and alternative interpretations—which conflicts with an "authoritative, commanding" voice that "does not tolerate ambiguity."
+> The Darth Vader persona creates fundamental tensions with rigorous academic analysis. Phrases like "insignificant details" encourage dismissive treatment of methodology nuances. The "Dark Side vs Order" binary framing oversimplifies multi-dimensional research problems. Academic paper analysis requires [[epistemic-humility]]—acknowledging uncertainty, limitations, and alternative interpretations—which conflicts with an "authoritative, commanding" voice that "does not tolerate ambiguity."
 
 > [!warning] **Weakness 2: Shallow Output Specification**
 > The five output sections lack depth enforcement mechanisms:

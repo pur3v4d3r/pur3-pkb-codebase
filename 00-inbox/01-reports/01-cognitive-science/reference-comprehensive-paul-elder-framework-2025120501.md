@@ -192,18 +192,18 @@ link-related:
 >     ├── Complementary frameworks
 >     └── Advanced mastery pathways
 > Wiki-Link Opportunities (anticipated):
-> - [[Critical-Thinking]]
-> - [[Metacognition]]
-> - [[Cognitive-Biases]]
-> - [[Socratic-Questioning]]
-> - [[Intellectual-Humility]]
+> - [[critical-thinking]]
+> - [[metacognition]]
+> - [[cognitive-biases]]
+> - [[socratic-questioning]]
+> - [[intellectual-humility]]
 > - [[Bloom's-Taxonomy]]
-> - [[Argumentation-Theory]]
+> - [[argumentation-theory]]
 > - [[Logic]]
-> - [[Epistemology]]
-> - [[Self-Regulated-Learning]]
-> - [[Reasoning]]
-> - [[Inference]]
+> - [[epistemology]]
+> - [[self-regulated-learning]]
+> - [[reasoning]]
+> - [[inference]]
 > - [[Assumptions]]
 > - [[Implications]]
 > - [[Evidence]]
@@ -326,18 +326,18 @@ The Foundation for Critical Thinking offers formal certification programs, estab
 
 ### Philosophical Underpinnings
 
-The framework rests on several foundational premises about [[human-cognition]] and [[Reasoning]]:
+The framework rests on several foundational premises about [[human-cognition]] and [[reasoning]]:
 
 **Universal Structure of Thought**: All reasoning, regardless of domain or context, contains identifiable structural elements. There are essential dimensions of thinking that humans need to master to learn how to deconstruct and upgrade their thinking, requiring the ability to identify the "parts" of thinking and assess their use. This universality enables cross-domain transfer of critical thinking skills.
 
 **Improvability Through Standards**: Good critical thinking requires having a command of intellectual standards, with the ultimate goal being for standards of reasoning to become infused in all thinking to guide better and better reasoning. The framework rejects the notion that thinking quality is fixed or intuitive, instead positioning it as developable through deliberate practice.
 
-**Integration of Cognition and Affect**: Elder's work has focused primarily on barriers to critical thinking development, particularly egocentric and sociocentric thought, with special interest in the relation of thought and emotion and the cognitive and affective dimensions. The framework recognizes that [[emotions]], [[Cognitive-Biases]], and social pressures profoundly influence reasoning quality.
+**Integration of Cognition and Affect**: Elder's work has focused primarily on barriers to critical thinking development, particularly egocentric and sociocentric thought, with special interest in the relation of thought and emotion and the cognitive and affective dimensions. The framework recognizes that [[emotions]], [[cognitive-biases]], and social pressures profoundly influence reasoning quality.
 
 > [!principle-point]
 > **Central Principle: Fair-Minded Critical Thinking**
 > 
-> The framework distinguishes between "weak-sense" critical thinking (using skills to advance one's own agenda regardless of truth) and "strong-sense" or "fair-minded" critical thinking, which is predisposed toward [[Intellectual-Empathy]], [[Intellectual-Humility]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]], and [[intellectual responsibility]]. This ethical dimension elevates critical thinking beyond mere technique to a virtue-based cognitive practice.
+> The framework distinguishes between "weak-sense" critical thinking (using skills to advance one's own agenda regardless of truth) and "strong-sense" or "fair-minded" critical thinking, which is predisposed toward [[Intellectual-Empathy]], [[intellectual-humility]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]], and [[intellectual responsibility]]. This ethical dimension elevates critical thinking beyond mere technique to a virtue-based cognitive practice.
 
 ### Discipline-Neutral Architecture
 
@@ -608,7 +608,7 @@ The elements do not function in isolation or strict sequence. Rather, they form 
 - Assumptions underlie our inferences
 - Implications feed back to refine purpose
 
-Skilled critical thinking requires holding all elements in awareness simultaneously while examining any specific element—a challenging feat of [[Distributed-Cognition]] and [[Working-Memory]] management.
+Skilled critical thinking requires holding all elements in awareness simultaneously while examining any specific element—a challenging feat of [[distributed-cognition]] and [[working-memory]] management.
 
 ---
 
@@ -740,7 +740,7 @@ Depth makes the argument thorough, forcing exploration of complexities, with an 
 > - **Core Question**: Do we need to look at this from another perspective? Do we need to consider another point of view? Is there another way to look at this question?
 > - **Definition**: The reasoning considers multiple perspectives, alternative frameworks, and diverse viewpoints.
 
-Breadth demands that additional viewpoints are taken into account, asking if all perspectives are considered, finding Breadth when all sides of an argument are discussed. Breadth combats narrow-mindedness and [[Confirmation-Bias]], requiring genuine consideration of alternative frameworks.
+Breadth demands that additional viewpoints are taken into account, asking if all perspectives are considered, finding Breadth when all sides of an argument are discussed. Breadth combats narrow-mindedness and [[confirmation-bias]], requiring genuine consideration of alternative frameworks.
 
 **Breadth Requirements:**
 - Consider perspectives from different stakeholders
@@ -803,7 +803,7 @@ Significance compels us to include the most important ideas, ensuring we don't l
 > - **Core Question**: Am I considering the viewpoints of others seriously, or am I just protecting my own interests? Am I being biased in my reasoning? Am I giving equal weight to evidence that contradicts my preferred conclusion?
 > - **Definition**: The reasoning is balanced, unbiased, impartial, and genuinely considers alternative perspectives without distortion.
 
-Fairness means the argument is balanced and free from bias, pushing us to be impartial and evenhanded toward other positions, being objective. Fairness represents the ethical dimension of intellectual standards, requiring [[Intellectual-Integrity]] and resistance to [[Egocentric-Thinking]].
+Fairness means the argument is balanced and free from bias, pushing us to be impartial and evenhanded toward other positions, being objective. Fairness represents the ethical dimension of intellectual standards, requiring [[Intellectual-Integrity]] and resistance to [[egocentric-thinking]].
 
 **Fairness Requirements:**
 - Accurately represent opposing views (not straw-man versions)
@@ -1142,7 +1142,7 @@ graph TD
 ### How the Components Interact
 
 #### Phase 1: Analysis (Elements)
-The critical thinker begins by deconstructing reasoning into its fundamental components using the [[Elements-of-Thought]]. This analytical phase involves:
+The critical thinker begins by deconstructing reasoning into its fundamental components using the [[elements-of-thought]]. This analytical phase involves:
 - Identifying the [[purpose]] and [[Question-at-Issue]]
 - Surfacing [[Assumptions]] and [[Point-of-View]]
 - Examining [[Information]] and [[Concepts]]
@@ -1200,7 +1200,7 @@ For any reasoning task, the triadic model suggests this systematic approach:
 
 ### The Question-Based Analysis Method
 
-The Framework provides systematic question templates for analyzing any piece of reasoning. By combining [[Elements-of-Thought]] with [[Intellectual-Standards]], we generate diagnostic questions:
+The Framework provides systematic question templates for analyzing any piece of reasoning. By combining [[elements-of-thought]] with [[intellectual-standards]], we generate diagnostic questions:
 
 #### Template for Comprehensive Analysis
 
@@ -1343,7 +1343,7 @@ The framework provides a systematic template for analyzing existing arguments, t
 
 ### Self-Directed Learning Protocol
 
-The framework provides a structured approach to [[Self-Regulated-Learning]]:
+The framework provides a structured approach to [[self-regulated-learning]]:
 
 #### Before Learning
 1. **Purpose**: Why am I learning this? What am I trying to accomplish?
@@ -1409,7 +1409,7 @@ For complex problems, apply the elements systematically:
 
 ### Daily Intellectual Routine
 
-For developing [[Intellectual-Traits]] through consistent practice:
+For developing [[intellectual-traits]] through consistent practice:
 
 > [!helpful-tip]
 > **Daily Critical Thinking Practice**
@@ -1564,7 +1564,7 @@ The framework's discipline-neutral nature enables integration across fields:
 ### Strengths of the Framework
 
 #### Comprehensive Coverage
-The framework addresses cognitive (elements, standards) and affective (traits) dimensions, combining [[Epistemology]], [[Logic]], and [[Virtue-Ethics]] into an integrated system. Its discipline-neutral terminology makes it applicable across all subjects, professions, and domains of life, allowing for shared understanding and discussion of critical thinking skills.
+The framework addresses cognitive (elements, standards) and affective (traits) dimensions, combining [[epistemology]], [[Logic]], and [[virtue-ethics]] into an integrated system. Its discipline-neutral terminology makes it applicable across all subjects, professions, and domains of life, allowing for shared understanding and discussion of critical thinking skills.
 
 #### Systematic Structure
 The framework provides clear operational definitions and explicit criteria, moving critical thinking from vague aspiration to assessable skill set. It offers a common vocabulary for discussing, evaluating, and teaching critical thinking.
@@ -1797,7 +1797,7 @@ Critical thinking is not a destination but a lifelong practice. Even master thin
 - Build communities of practice that value rigorous thinking
 - Create systems and routines that support critical thinking habits
 - Regularly engage with challenging material outside comfort zones
-- Maintain [[Intellectual-Humility]] about the ongoing nature of development
+- Maintain [[intellectual-humility]] about the ongoing nature of development
 - Celebrate progress while recognizing the journey continues
 
 ### The Transformative Potential

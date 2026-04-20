@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,26 +73,26 @@ narrower:
   []
 
 see-also:
-  - "[[Black-&-Wiliam]]"
-  - "[[John-Hattie]]"
-  - "[[Formative-Assessment]]"
-  - "[[Metacognitive-Calibration]]"
+  - "[[black-wiliam|Black-&-Wiliam]]"
+  - "[[john-hattie|John-Hattie]]"
+  - "[[formative-assessment|Formative-Assessment]]"
+  - "[[metacognitive-calibration|Metacognitive-Calibration]]"
   - "[[feedback-design-autonomy-mastery-foundational-report-2026-03-10]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Formative-Assessment]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[Metacognitive-Calibration]]"
-  - "[[Metacognitive-Accuracy]]"
-  - "[[Feeling-of-Knowing]]"
-  - "[[Monitoring-Gap]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[The-Nelson-Narens-Monitoring-Control-Model]]"
-  - "[[Monitoring-Gap]]"
-  - "[[The-SRL-Cycle-as-a-Calibration-Engine]]"
-  - "[[Zimmerman's-Three-Phase-SRL-Cycle]]"
-  - "[[Forethought-Phase]]"
-  - "[[Self-Reflection-Phase]]"
-  - "[[Fluency-Illusion]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[formative-assessment|Formative-Assessment]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[metacognitive-calibration|Metacognitive-Calibration]]"
+  - "[[metacognitive-accuracy|Metacognitive-Accuracy]]"
+  - "[[feeling-of-knowing|Feeling-of-Knowing]]"
+  - "[[monitoring-gap|Monitoring-Gap]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[the-nelson-narens-monitoring-control-model|The-Nelson-Narens-Monitoring-Control-Model]]"
+  - "[[monitoring-gap|Monitoring-Gap]]"
+  - "[[the-srl-cycle-as-a-calibration-engine|The-SRL-Cycle-as-a-Calibration-Engine]]"
+  - "[[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]]"
+  - "[[forethought-phase|Forethought-Phase]]"
+  - "[[self-reflection-phase|Self-Reflection-Phase]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +104,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Metacognitive-Accuracy-—-Calibration-Training-Protocols-A-focused-an|> [!topic-idea] [[Metacognitive-Accuracy]] — Calibration Training Protocols
+  - topic: "[[> [!topic-idea] [[metacognitive-accuracy]] — Calibration Training Protocols
 > A focused analysis of ]]"
     description: ""
     priority: medium
@@ -133,7 +133,7 @@ importance: high
 > Feedback directed at the self-regulation level — specifically, feedback that increases a student's capacity for self-monitoring and self-direction — produces substantially larger and more durable gains than feedback at the task level alone, even controlling for information quantity and specificity. This is a direct prediction of the MCM: the gains come not from information per se but from building monitoring infrastructure. Hattie and Timperley's data show that process-level feedback…
 
 > [!evidence] Supporting Evidence *(from [[formative-assessment-focused-analysis-2026-03-24]])*
-> The [[Testing-Effect]] literature is standardly interpreted as evidence that retrieval practice produces better long-term retention than re-study. This is correct. But the MCM predicts an additional mechanism: [[Retrieval-Practice]] produces calibration events. When a student attempts to retrieve information and encounters retrieval failure — the uncomfortable experience of reaching for something that is not there — this failure is a direct recalibration of monitoring accuracy. The fluency…
+> The [[Testing-Effect]] literature is standardly interpreted as evidence that retrieval practice produces better long-term retention than re-study. This is correct. But the MCM predicts an additional mechanism: [[retrieval-practice]] produces calibration events. When a student attempts to retrieve information and encounters retrieval failure — the uncomfortable experience of reaching for something that is not there — this failure is a direct recalibration of monitoring accuracy. The fluency…
 
 > [!evidence] Supporting Evidence *(from [[formative-assessment-focused-analysis-2026-03-24]])*
 > The foundational synthesis establishing the empirical case for formative assessment's large effect sizes. Phases II and III rely on this work for evidence about variance across studies and the premium of active-engagement practices. Essential starting point for any serious study of formative assessment.
@@ -160,7 +160,7 @@ importance: high
 > Foundational study on comprehension monitoring training, demonstrating that monitoring accuracy can be trained and that trained monitoring produces learning gains. Phase III draws on this work as evidence that metacognitive calibration is a trainable component.
 
 > [!analytical-insight] Key Insight *(from [[formative-assessment-focused-analysis-2026-03-24]])*
-> Control is only as good as monitoring allows. If monitoring is inaccurate — if the meta level is receiving systematically distorted signals about the object level's state — control will be miscalibrated even if the learner is genuinely motivated and the feedback is technically accurate. The [[Monitoring-Gap]] (the discrepancy between metacognitive signals and actual performance) is not a peripheral problem; it is the central bottleneck in self-regulated learning.
+> Control is only as good as monitoring allows. If monitoring is inaccurate — if the meta level is receiving systematically distorted signals about the object level's state — control will be miscalibrated even if the learner is genuinely motivated and the feedback is technically accurate. The [[monitoring-gap]] (the discrepancy between metacognitive signals and actual performance) is not a peripheral problem; it is the central bottleneck in self-regulated learning.
 
 > [!analytical-insight] Key Insight *(from [[formative-assessment-focused-analysis-2026-03-24]])*
 > Some of the most thorough studies of formative assessment implementation find that classrooms with technically excellent assessment systems — frequent formative quizzes, detailed rubrics, specific written feedback — sometimes produce weaker gains than classrooms with simpler but more *calibration-active* practices. Thompson and William (2007) studied classrooms with high-quality written feedback and found that students routinely read the feedback but did not incorporate it — not because they…
@@ -182,7 +182,7 @@ importance: high
 > **Intermediate:** Self-assessment against rubrics with anchored exemplars → Targeted questioning requiring every student to produce a…
 
 > [!analytical-insight] Key Insight *(from [[formative-assessment-focused-analysis-2026-03-24]])*
-> There is a structural tension in the MCM's implications. On one hand, external formative assessment functions as calibration scaffolding — it provides accurate external signals that compensate for students' inaccurate internal monitoring. On the other hand, if external calibration is always available, students may never develop the internal monitoring infrastructure that formative assessment is supposedly building. The [[Scaffolded-Fading]] principle from instructional design directly applies…
+> There is a structural tension in the MCM's implications. On one hand, external formative assessment functions as calibration scaffolding — it provides accurate external signals that compensate for students' inaccurate internal monitoring. On the other hand, if external calibration is always available, students may never develop the internal monitoring infrastructure that formative assessment is supposedly building. The [[scaffolded-fading]] principle from instructional design directly applies…
 
 > [!analytical-insight] Key Insight *(from [[formative-assessment-focused-analysis-2026-03-24]])*
 > The Calibration-Integrated Model implies a design direction that is uncomfortable from an ITM perspective: reducing the information density of formative feedback in order to increase the calibration-event density may, in many implementation contexts, produce better outcomes. A formative quiz that requires retrieval and then shows only a score (without detailed feedback) may produce more durable learning than a quiz followed by detailed written feedback — not because detailed feedback is bad,…
@@ -196,7 +196,7 @@ importance: high
 > High-performance coaching in sport provides a domain where this gradient is observable and consequential. Early in skill development, external feedback (coach correction, video review, biometric monitoring) is the primary calibration source because the athlete's intrinsic monitoring system has not yet developed the sensitivity to detect the fine-grained errors that limit performance. As competence develops, progressive withdrawal of external feedback — combined with deliberate cultivation of…
 
 > [!warning] **Key Distinction** *(from [[formative-assessment-focused-analysis-2026-03-24]])*
-> The MCM focuses on the cognitive architecture of calibration but cannot fully account for the motivational dimension. [[Black-&-Wiliam]]'s synthesis consistently found that formative assessment's effects are moderated by motivational climate: assessment environments that signal performance goals ([[Performance-Goal-Orientation]]) tend to produce defensive responses to calibration events, where students attribute the gap to test unfairness rather than genuine knowledge gaps. Environments that…
+> The MCM focuses on the cognitive architecture of calibration but cannot fully account for the motivational dimension. [[Black-&-Wiliam]]'s synthesis consistently found that formative assessment's effects are moderated by motivational climate: assessment environments that signal performance goals ([[performance-goal-orientation]]) tend to produce defensive responses to calibration events, where students attribute the gap to test unfairness rather than genuine knowledge gaps. Environments that…
 
 ## Key Figures & Intellectual Lineage
 
@@ -438,22 +438,22 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[formative-assessment-focused-analysis-2026-03-24]])*:
-- [[Active-Inference]]
+- [[active-inference|Active-Inference]]
 
 **Cross-report connections** *(from [[formative-assessment-focused-analysis-2026-03-24]])*:
-- [[Nelson-Narens-Model]]
-- [[The-SRL-Cycle-as-a-Calibration-Engine]]
-- [[Zimmerman's-Three-Phase-SRL-Cycle]]
-- [[Fluency-Illusion]]
-- [[The-Fluency-Trap]]
-- [[Testing-Effect]]
-- [[Retrieval-Practice]]
-- [[Feedback-Design]]
-- [[Hattie-&-Timperley-Feedback-Model]]
-- [[Monitoring-Gap]]
+- [[nelson-narens-model|Nelson-Narens-Model]]
+- [[the-srl-cycle-as-a-calibration-engine|The-SRL-Cycle-as-a-Calibration-Engine]]
+- [[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]]
+- [[fluency-illusion|Fluency-Illusion]]
+- [[the-fluency-trap|The-Fluency-Trap]]
+- [[Testing-Effect|Testing-Effect]]
+- [[retrieval-practice|Retrieval-Practice]]
+- [[feedback-design|Feedback-Design]]
+- [[hattie-timperley-feedback-model|Hattie-&-Timperley-Feedback-Model]]
+- [[monitoring-gap|Monitoring-Gap]]
 
 **Related concepts:**
-[[Black-&-Wiliam]] · [[John-Hattie]] · [[Formative-Assessment]] · [[Metacognitive-Calibration]] · [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]] · [[Fluency-Illusion]] · [[Formative-Assessment]] · [[Nelson-Narens-Model]] · [[Metacognitive-Calibration]] · [[Metacognitive-Accuracy]] · [[Feeling-of-Knowing]] · [[Monitoring-Gap]] · [[Nelson-Narens-Model]] · [[The-Nelson-Narens-Monitoring-Control-Model]] · [[Monitoring-Gap]] · [[The-SRL-Cycle-as-a-Calibration-Engine]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[Forethought-Phase]] · [[Self-Reflection-Phase]] · [[Fluency-Illusion]] · [[Fluency-Illusion]] · [[Feeling-of-Knowing]] · [[Fluency-Illusion]] · [[The-Fluency-Illusion]] · [[Fluency-Trap]] · [[Illusion-of-Knowing]] · [[Comprehension-Monitoring]] · [[Black-&-Wiliam]] · [[Black-&-Wiliam]] · [[Hattie-&-Timperley-Feedback-Model]]
+[[black-wiliam|Black-&-Wiliam]] · [[john-hattie|John-Hattie]] · [[formative-assessment|Formative-Assessment]] · [[metacognitive-calibration|Metacognitive-Calibration]] · [[feedback-design-autonomy-mastery-foundational-report-2026-03-10]] · [[fluency-illusion|Fluency-Illusion]] · [[formative-assessment|Formative-Assessment]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[metacognitive-calibration|Metacognitive-Calibration]] · [[metacognitive-accuracy|Metacognitive-Accuracy]] · [[feeling-of-knowing|Feeling-of-Knowing]] · [[monitoring-gap|Monitoring-Gap]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[the-nelson-narens-monitoring-control-model|The-Nelson-Narens-Monitoring-Control-Model]] · [[monitoring-gap|Monitoring-Gap]] · [[the-srl-cycle-as-a-calibration-engine|The-SRL-Cycle-as-a-Calibration-Engine]] · [[zimmermans-three-phase-srl-cycle|Zimmerman's-Three-Phase-SRL-Cycle]] · [[forethought-phase|Forethought-Phase]] · [[self-reflection-phase|Self-Reflection-Phase]] · [[fluency-illusion|Fluency-Illusion]] · [[fluency-illusion|Fluency-Illusion]] · [[feeling-of-knowing|Feeling-of-Knowing]] · [[fluency-illusion|Fluency-Illusion]] · [[the-fluency-illusion|The-Fluency-Illusion]] · [[fluency-trap|Fluency-Trap]] · [[illusion-of-knowing|Illusion-of-Knowing]] · [[comprehension-monitoring|Comprehension-Monitoring]] · [[black-wiliam|Black-&-Wiliam]] · [[black-wiliam|Black-&-Wiliam]] · [[hattie-timperley-feedback-model|Hattie-&-Timperley-Feedback-Model]]
 
 ## References
 

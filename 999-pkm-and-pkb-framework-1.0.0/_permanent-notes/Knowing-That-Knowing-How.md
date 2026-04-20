@@ -38,8 +38,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -50,7 +50,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -75,23 +75,25 @@ narrower:
 
 see-also:
   - "[[understanding]]"
-  - "[[Richard-Feynman|Richard Feynman]]"
+  - "[[richard-feynman|Richard-Feynman]]"
   - "[[pedagogy]]"
-  - "[[Rote-memorization|Rote memorization]]"
-  - "[[classical-mechanics|classical mechanics]]"
-  - "[[Tacit-Knowledge|tacit knowledge]]"
-  - "[[Michael-Polanyi|Michael Polanyi]]"
-  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
-  - "[[Gilbert-Ryle|Gilbert Ryle]]"
-  - "[[knowing-how]]"
-  - "[[knowing-that]]"
+  - "[[rote-memorization|Rote-memorization]]"
+  - "[[classical-mechanics]]"
+  - "[[tacit-knowledge|Tacit-Knowledge]]"
+  - "[[michael-polanyi|Michael-Polanyi]]"
+  - "[[tacit-knowledge|Tacit-Knowledge]]"
+  - "[[polanyian-tacit-knowing|Polanyian-Tacit-Knowing]]"
+  - "[[gilbert-ryle|Gilbert-Ryle]]"
+  - "[[knowing-that-knowing-how|Knowing-That-Knowing-How]]"
+  - "[[knowing-that-knowing-how|Knowing-That-Knowing-How]]"
   - "[[electromagnetism]]"
-  - "[[cognitive-psychology|cognitive psychology]]"
-  - "[[Illusion-of-Explanatory-Depth|illusion of explanatory depth]]"
-  - "[[Leonid-Rozenblit|Leonid Rozenblit]]"
-  - "[[Frank-Keil|Frank Keil]]"
-  - "[[Aha!-moment|Aha! moment]]"
-  - "[[sense-of-coherence|sense of coherence]]"
+  - "[[cognitive-psychology]]"
+  - "[[illusion-of-explanatory-depth|Illusion-of-Explanatory-Depth]]"
+  - "[[leonid-rozenblit|Leonid-Rozenblit]]"
+  - "[[frank-keil|Frank-Keil]]"
+  - "[[aha-moment|Aha!-moment]]"
+  - "[[sense-of-coherence]]"
+  - "[[illusion-of-explanatory-depth|Illusion-of-Explanatory-Depth]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -103,7 +105,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-The-Teaching-Problem-Can-Understanding-Be-Transmitted-If-understandi|> [!topic-idea] **The Teaching Problem: Can Understanding Be Transmitted?**
+  - topic: "[[> [!topic-idea] **The Teaching Problem: Can Understanding Be Transmitted?**
 > If understanding is fu]]"
     description: ""
     priority: medium
@@ -155,43 +157,15 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-Polanyi|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition]]
-- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[tacit-knowledge|Tacit-Knowledge]]
+- [[illusion-of-explanatory-depth|Illusion-of-Explanatory-Depth]]
+- [[fluency-effects]]
+- [[metacognition|Metacognition]]
+- [[dunning-kruger-effect|Dunning-Kruger-Effect]]
 
 **Related concepts:**
-[[understanding]] · [[Richard-Feynman|Richard Feynman]] · [[pedagogy]] · [[Rote-memorization|Rote memorization]] · [[classical-mechanics|classical mechanics]] · [[Tacit-Knowledge|tacit knowledge]] · [[Michael-Polanyi|Michael Polanyi]] · [[Tacit-Knowledge|tacit knowledge]] · [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] · [[Gilbert-Ryle|Gilbert Ryle]] · [[knowing-how]] · [[knowing-that]] · [[electromagnetism]] · [[cognitive-psychology|cognitive psychology]] · [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] · [[Leonid-Rozenblit|Leonid Rozenblit]] · [[Frank-Keil|Frank Keil]] · [[Aha!-moment|Aha! moment]] · [[sense-of-coherence|sense of coherence]] · [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] · [[Metacognition]] · [[Metacognitive-Calibration|metacognitive calibration]] · [[Transfer-of-Learning|Transfer of Learning]] · [[Tacit-Knowledge-Polanyi|Tacit Knowledge (Polanyi)]] · [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] · [[fluency-effects|fluency effects]] · [[Metacognition]] · [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] · [[philosophy-of-mind|philosophy of mind]] · [[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]]
-
-**Related concepts** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
-[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Tacit-Knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[Illusion-of-Explanatory-Depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[Metacognitive-Calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]] * [[fluency-effects|fluency effects]] * [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] * [[philosophy-of-mind|philosophy of mind]] * [[Socratic-Dialogue-Report-Generator-v1.0|Socratic Dialogue Report Generator v1.0]] * [[Epistemology-MOC|Epistemology MOC]] * [[Foundational-Report:-Philosophy-of-Mind|Foundational Report: Philosophy of Mind]] * [[First-Principles:-What-Is-Knowledge?|First Principles: What Is Knowledge?]] * [[Knowing-That-Knowing-How|Knowing-That-Knowing-How]] * [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended-Mind-Theory-—-Philosophy-of-Mind]] * [[Epistemology-MOC|Epistemology-MOC]] * [[Foundational-Report-Philosophy-of-Mind|Foundational-Report-Philosophy-of-Mind]] * [[First-Principles-What-Is-Knowledge|First-Principles-What-Is-Knowledge]]
-
-**Cross-report connections** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Cross-report connections** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
-- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
-- [[fluency-effects|fluency effects]]
-- [[Metacognition|Metacognition]]
-
-**Cross-report connections** *(from [[what-does-it-mean-to-truley-understand-something-2026-03-10]])*:
-- [[Transfer-of-Learning|Transfer-of-Learning]]
-- [[Tacit-Knowledge|Tacit-Knowledge]]
-- [[Illusion-of-Explanatory-Depth|Illusion-of-Explanatory-Depth]]
-- [[fluency-effects|fluency-effects]]
-- [[Metacognition|Metacognition]]
-
-
-
-
+[[understanding]] · [[richard-feynman|Richard-Feynman]] · [[pedagogy]] · [[rote-memorization|Rote-memorization]] · [[classical-mechanics]] · [[tacit-knowledge|Tacit-Knowledge]] · [[michael-polanyi|Michael-Polanyi]] · [[tacit-knowledge|Tacit-Knowledge]] · [[polanyian-tacit-knowing|Polanyian-Tacit-Knowing]] · [[gilbert-ryle|Gilbert-Ryle]] · [[knowing-that-knowing-how|Knowing-That-Knowing-How]] · [[knowing-that-knowing-how|Knowing-That-Knowing-How]] · [[electromagnetism]] · [[cognitive-psychology]] · [[illusion-of-explanatory-depth|Illusion-of-Explanatory-Depth]] · [[leonid-rozenblit|Leonid-Rozenblit]] · [[frank-keil|Frank-Keil]] · [[aha-moment|Aha!-moment]] · [[sense-of-coherence]] · [[illusion-of-explanatory-depth|Illusion-of-Explanatory-Depth]] · [[metacognition|Metacognition]] · [[metacognitive-calibration|Metacognitive-Calibration]] · [[transfer-of-learning|Transfer-of-Learning]] · [[tacit-knowledge|Tacit-Knowledge]] · [[illusion-of-explanatory-depth|Illusion-of-Explanatory-Depth]] · [[fluency-effects]] · [[metacognition|Metacognition]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[extended-mind-theory-philosophy-of-mind|Extended-Mind-Theory-—-Philosophy-of-Mind]] · [[socratic-dialogue-report-generator-v1.0|Socratic-Dialogue-Report-Generator-v1.0]]
 
 ## Methodology Notes
 

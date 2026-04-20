@@ -152,7 +152,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Executive Overview *(Line 127)*
 
 > [!abstract] Executive Overview
-> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason-Wei]] and colleagues at [[Google-Research]] in 2022, fundamentally altered understanding of [[Transformer-Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[Working-Memory]] theory and [[Cognitive-Load-Theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
+> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason-Wei]] and colleagues at [[Google-Research]] in 2022, fundamentally altered understanding of [[Transformer-Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[working-memory]] theory and [[cognitive-load-theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
 
 #### 4. [DEFINITION] Chain-of-Thought Prompting *(Line 133)*
 
@@ -167,7 +167,7 @@ extraction_summary:
 #### 6. [ANALOGY] Working Memory Externalization *(Line 146)*
 
 > [!analogy] Working Memory Externalization
-> Consider how humans solve complex arithmetic mentally versus on paper. Mental arithmetic requires holding all intermediate values in limited [[Working-Memory]], causing frequent errors and capacity constraints. Writing steps externally offloads these memory demands to physical substrate, dramatically improving accuracy. <span style='color: #27FF00;'>CoT prompting performs analogous externalization</span>: intermediate tokens function as <span style='color: #FFC700;'>external memory</span> where partial computations persist across the reasoning chain, accessible via attention mechanisms. The model's "working memory" (fixed-size hidden states) no longer must simultaneously hold all intermediate values—instead, they're serialized across the token sequence.
+> Consider how humans solve complex arithmetic mentally versus on paper. Mental arithmetic requires holding all intermediate values in limited [[working-memory]], causing frequent errors and capacity constraints. Writing steps externally offloads these memory demands to physical substrate, dramatically improving accuracy. <span style='color: #27FF00;'>CoT prompting performs analogous externalization</span>: intermediate tokens function as <span style='color: #FFC700;'>external memory</span> where partial computations persist across the reasoning chain, accessible via attention mechanisms. The model's "working memory" (fixed-size hidden states) no longer must simultaneously hold all intermediate values—instead, they're serialized across the token sequence.
 
 #### 7. [EVIDENCE] Scale-Dependent Emergence *(Line 156)*
 
@@ -237,7 +237,7 @@ extraction_summary:
 > ## 🔗 Integration with Existing Knowledge
 > 
 > **Theoretical Frameworks:**  
-> [[Cognitive-Load-Theory]] — CoT externalization parallels working memory offloading in human cognition  
+> [[cognitive-load-theory]] — CoT externalization parallels working memory offloading in human cognition  
 > [[Attention-Mechanism]] — Self-attention over reasoning chains implements message-passing computation  
 > [[Circuit-Complexity-Theory]] — Formalizes how token generation converts depth-limited parallel processing into serial computation  
 > [[Mechanistic-Interpretability]] — Provides tools for analyzing what neural circuits activate during reasoning steps
@@ -251,11 +251,11 @@ extraction_summary:
 > **Foundational Prerequisites:**  
 > [[Transformer-Architecture]] — Understanding self-attention and autoregressive generation essential for CoT mechanism  
 > [[Emergent-Abilities-in-LLMs]] — Scale-dependent CoT emergence exemplifies broader emergence phenomena  
-> [[Working-Memory]] — Human cognitive architecture provides analogy for understanding CoT benefits
+> [[working-memory]] — Human cognitive architecture provides analogy for understanding CoT benefits
 > 
 > **Practical Applications:**  
 > [[Mathematical Problem Solving]] — Primary application domain showing 40-60% accuracy gains  
-> [[Scientific-Reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
+> [[scientific-reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
 > [[Code Generation]] — Programming tasks benefit from step-by-step algorithmic decomposition  
 > [[Educational-Technology]] — CoT enables tutoring systems that demonstrate solution processes
 
@@ -357,7 +357,7 @@ extraction_summary:
 - [[Circuit-Complexity-Theory]]
 - [[Cloud Computing Costs]]
 - [[Code Generation]]
-- [[Cognitive-Load-Theory]]
+- [[cognitive-load-theory]]
 - [[Commonsense-Reasoning]]
 - [[Cost-Accuracy Pareto Frontiers]]
 - [[Creative Problem Solving]]
@@ -390,7 +390,7 @@ extraction_summary:
 - [[Knowledge Distillation]]
 - [[LaMDA]]
 - [[Large-Language-Models]]
-- [[Logical Fallacies]]
+- [[Logical-Fallacies]]
 - [[Logical-Reasoning]]
 - [[Mathematical Problem Solving]]
 - [[Mechanistic-Interpretability]]
@@ -413,11 +413,11 @@ extraction_summary:
 - [[Protocol Analysis]]
 - [[Reinforcement-Learning]]
 - [[Resource Optimization]]
-- [[Scientific-Reasoning]]
+- [[scientific-reasoning]]
 - [[Self-Attention]]
 - [[Self-Consistency]]
 - [[Sparse Autoencoders]]
-- [[Strategic-Planning]]
+- [[strategic-planning]]
 - [[StrategyQA]]
 - [[Symbolic-Logic]]
 - [[System Design]]
@@ -434,7 +434,7 @@ extraction_summary:
 - [[Wang et al. (2022)]]
 - [[Wang et al. (2023)]]
 - [[Wei et al. (2022)]]
-- [[Working-Memory]]
+- [[working-memory]]
 - [[Yao et al. (2023)]]
 
 ### All Occurrences
@@ -448,12 +448,12 @@ extraction_summary:
 | 5 | [[Self-Consistency]] | — | — | Foundational Understanding | 120 |
 | 6 | [[Tree-of-Thoughts]] | — | — | Foundational Understanding | 120 |
 | 7 | [[Logical-Reasoning]] | — | — | Foundational Understanding | 120 |
-| 8 | [[Working-Memory]] | — | — | Foundational Understanding | 120 |
+| 8 | [[working-memory]] | — | — | Foundational Understanding | 120 |
 | 9 | [[Jason-Wei]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 10 | [[Google-Research]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 11 | [[Transformer-Architecture]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
-| 12 | [[Working-Memory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
-| 13 | [[Cognitive-Load-Theory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
+| 12 | [[working-memory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
+| 13 | [[cognitive-load-theory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 14 | [[Few-Shot-Learning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 15 | [[GPT-3]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 16 | [[Explicit-Reasoning-Protocols]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
@@ -469,7 +469,7 @@ extraction_summary:
 | 26 | [[Circuit-Complexity-Theory]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 139 |
 | 27 | [[Feng et al. (2024)]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 142 |
 | 28 | [[Attention-Mechanism]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 144 |
-| 29 | [[Working-Memory]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 147 |
+| 29 | [[working-memory]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 147 |
 | 30 | [[Self-Attention]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 148 |
 | 31 | [[LaMDA]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 158 |
 | 32 | [[PaLM]] | — | — | 📈 The Scale-Emergent Phenomenon: Reas... | 158 |
@@ -483,7 +483,7 @@ extraction_summary:
 | 40 | [[Breadth-First Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
 | 41 | [[Depth-First Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
 | 42 | [[Beam Search]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 193 |
-| 43 | [[Strategic-Planning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
+| 43 | [[strategic-planning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 44 | [[Creative Problem Solving]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 45 | [[Optimization Problems]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 208 |
 | 46 | [[Reinforcement-Learning]] | — | — | <span style='color: #9E6CD3;'>Tree of... | 209 |
@@ -497,7 +497,7 @@ extraction_summary:
 | 54 | [[Commonsense-Reasoning]] | — | — | <span style='color: #9E6CD3;'>Commons... | 242 |
 | 55 | [[StrategyQA]] | — | — | <span style='color: #9E6CD3;'>Commons... | 242 |
 | 56 | [[Knowledge Distillation]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 267 |
-| 57 | [[Cognitive-Load-Theory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 274 |
+| 57 | [[cognitive-load-theory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 274 |
 | 58 | [[Attention-Mechanism]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 275 |
 | 59 | [[Circuit-Complexity-Theory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 276 |
 | 60 | [[Mechanistic-Interpretability]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 277 |
@@ -507,9 +507,9 @@ extraction_summary:
 | 64 | [[AI-Safety]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 283 |
 | 65 | [[Transformer-Architecture]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 286 |
 | 66 | [[Emergent-Abilities-in-LLMs]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 287 |
-| 67 | [[Working-Memory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 288 |
+| 67 | [[working-memory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 288 |
 | 68 | [[Mathematical Problem Solving]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 291 |
-| 69 | [[Scientific-Reasoning]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 292 |
+| 69 | [[scientific-reasoning]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 292 |
 | 70 | [[Code Generation]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 293 |
 | 71 | [[Educational-Technology]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 294 |
 | 72 | [[Mechanistic Interpretability of Reasoning Circuits]] | — | — | 1. **[[Mechanistic Interpretability o... | 317 |
@@ -526,7 +526,7 @@ extraction_summary:
 | 83 | [[Chain-of-Thought-Prompting]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
 | 84 | [[Adversarial Examples]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
 | 85 | [[AI-Safety]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
-| 86 | [[Logical Fallacies]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
+| 86 | [[Logical-Fallacies]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
 | 87 | [[Logical-Reasoning]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 330 |
 | 88 | [[Adversarial Machine Learning]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 330 |
 | 89 | [[Prompt Injection]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 330 |
@@ -1132,7 +1132,7 @@ $$
 - [[Circuit-Complexity-Theory]]
 - [[Cloud Computing Costs]]
 - [[Code Generation]]
-- [[Cognitive-Load-Theory]]
+- [[cognitive-load-theory]]
 - [[Commonsense-Reasoning]]
 - [[Cost-Accuracy Pareto Frontiers]]
 - [[Creative Problem Solving]]
@@ -1165,7 +1165,7 @@ $$
 - [[Knowledge Distillation]]
 - [[LaMDA]]
 - [[Large-Language-Models]]
-- [[Logical Fallacies]]
+- [[Logical-Fallacies]]
 - [[Logical-Reasoning]]
 - [[Mathematical Problem Solving]]
 - [[Mechanistic-Interpretability]]
@@ -1188,11 +1188,11 @@ $$
 - [[Protocol Analysis]]
 - [[Reinforcement-Learning]]
 - [[Resource Optimization]]
-- [[Scientific-Reasoning]]
+- [[scientific-reasoning]]
 - [[Self-Attention]]
 - [[Self-Consistency]]
 - [[Sparse Autoencoders]]
-- [[Strategic-Planning]]
+- [[strategic-planning]]
 - [[StrategyQA]]
 - [[Symbolic-Logic]]
 - [[System Design]]
@@ -1209,7 +1209,7 @@ $$
 - [[Wang et al. (2022)]]
 - [[Wang et al. (2023)]]
 - [[Wei et al. (2022)]]
-- [[Working-Memory]]
+- [[working-memory]]
 - [[Yao et al. (2023)]]
 
 ---

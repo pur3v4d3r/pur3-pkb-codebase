@@ -5,6 +5,7 @@
 title: "Dual Register Diagnostic"
 aliases:
   - "Dual Register Diagnostic"
+  - "Dual-Register-Diagnostic"
   - "DRD"
 type: permanent-note
 status: evergreen
@@ -37,8 +38,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +50,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,26 +74,26 @@ narrower:
   []
 
 see-also:
-  - "[[Elaborative-Interrogation]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Situation-Model]]"
-  - "[[Situation-Models-in-Text-Comprehension]]"
-  - "[[Prior-Knowledge]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Situation-Model]]"
-  - "[[Schema-Theory]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Situation-Models-van-Dijk-&-Kintsch]]"
-  - "[[Shallow-Processing]]"
-  - "[[Working-Memory-in-Reading]]"
-  - "[[Textbase]]"
-  - "[[Textbase]]"
-  - "[[Propositional-Representation]]"
-  - "[[Shallow-Processing]]"
-  - "[[Situation-Model]]"
-  - "[[Situation-Models-in-Text-Comprehension]]"
-  - "[[Mental-Models]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]"
+  - "[[prior-knowledge|Prior-Knowledge]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]]"
+  - "[[shallow-processing|Shallow-Processing]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
+  - "[[textbase|Textbase]]"
+  - "[[textbase|Textbase]]"
+  - "[[propositional-representation|Propositional-Representation]]"
+  - "[[shallow-processing|Shallow-Processing]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]"
+  - "[[mental-models|Mental-Models]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +105,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Self-Explanation-in-PKB-Practice-This-existing-PKB-note-covers-self|> [!topic-idea] [[Self-Explanation-in-PKB-Practice]]
+  - topic: "[[> [!topic-idea] [[Self-Explanation-in-PKB-Practice]]
 > This existing PKB note covers self-explanatio]]"
     description: ""
     priority: medium
@@ -126,7 +127,7 @@ importance: high
 > 
 > **Operational Indicator:** Apply the test: "Could a reader with only this text, and no other knowledge, answer this question?" If yes: Register 1. If no: Register 2.
 > 
-> **See also:** [[Elaborative-Interrogation]], [[Prior-Knowledge]], [[Situation-Model]]
+> **See also:** [[elaborative-interrogation]], [[prior-knowledge]], [[situation-model]]
 
 *Source: this report*
 
@@ -188,7 +189,7 @@ importance: high
 > The received account of EI as "deep processing" is true but architecturally underspecified. The more precise claim is that EI questions, when properly constructed, impose an answer demand that exceeds the textbase's capacity to satisfy. The reader literally cannot answer the "why" question by retrieving a propositional chain from the text alone — the causal, mechanistic, or functional explanation the question demands requires integration with prior knowledge and world-model structures. This…
 
 > [!analytical-insight] Key Insight *(from [[elaborative-interrogation-reading-focused-analysis-2026-03-30]])*
-> The generation advantage in EI likely has two distinct components that are typically conflated in the literature. The first is the generic [[The-Generation-Effect|Generation Effect]] — self-produced content is encoded more distinctively and persistently than passively received content. The second, and more theoretically important, is what might be called the *construction premium*: the act of building the causal connection from scratch, rather than receiving it pre-built, requires the learner…
+> The generation advantage in EI likely has two distinct components that are typically conflated in the literature. The first is the generic [[the-generation-effect|Generation Effect]] — self-produced content is encoded more distinctively and persistently than passively received content. The second, and more theoretically important, is what might be called the *construction premium*: the act of building the causal connection from scratch, rather than receiving it pre-built, requires the learner…
 
 > [!analytical-insight] Key Insight *(from [[elaborative-interrogation-reading-focused-analysis-2026-03-30]])*
 > A well-formed elaborative interrogation question functions as a *comprehension gateway* — a cognitive threshold operator that makes textbase-level retrieval an insufficient response. The reader who answers the question by locating a sentence is not answering the question; they are answering a different, simpler question. The actual question can only be answered by constructing a causal or functional account that integrates text propositions with prior knowledge — that is, by building a…
@@ -197,7 +198,7 @@ importance: high
 > There are two ways elaborative interrogation can fail, and they are mechanistically distinct. The first is the Dual Register failure — the question is in Register 1 and textbase retrieval suffices; deep processing never occurs. The second is the anchor absence failure — the question is genuine Register 2 but the learner lacks the prior knowledge structures to serve as integration anchors; the question invokes a process the learner cannot execute. The first failure mode produces near-zero EI…
 
 > [!analytical-insight] Key Insight *(from [[elaborative-interrogation-reading-focused-analysis-2026-03-30]])*
-> Most accounts of EI as a desirable difficulty (following Bjork's framework) treat the difficulty as generically productive. The more precise claim is that EI's difficulty is specifically targeted at the [[Schema-Construction]] process. The cognitive load it imposes is not distributed across reading in general — it is concentrated at the point of causal integration, where new propositional content must be connected to existing schemas. This targeted load produces targeted benefits: specifically,…
+> Most accounts of EI as a desirable difficulty (following Bjork's framework) treat the difficulty as generically productive. The more precise claim is that EI's difficulty is specifically targeted at the [[schema-construction]] process. The cognitive load it imposes is not distributed across reading in general — it is concentrated at the point of causal integration, where new propositional content must be connected to existing schemas. This targeted load produces targeted benefits: specifically,…
 
 ## Practical Implications
 
@@ -546,35 +547,35 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[elaborative-interrogation-reading-focused-analysis-2026-03-30]])*:
-- [[Self-Regulated-Learning-SRL]]
-- [[Winne-&-Hadwin's-Metacognitive-Processing-Model]]
+- [[self-regulated-learning-srl|Self-Regulated-Learning-SRL]]
+- [[winne-hadwins-metacognitive-processing-model|Winne-&-Hadwin's-Metacognitive-Processing-Model]]
 
 **Cross-report connections** *(from [[elaborative-interrogation-reading-focused-analysis-2026-03-30]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Situation-Model]]
-- [[Situation-Models-van-Dijk-&-Kintsch]]
-- [[Schema-Theory]]
-- [[Prior-Knowledge-Activation]]
-- [[Desirable-Difficulties]]
-- [[Self-Explanation-in-PKB-Practice]]
-- [[Advance-Organizer]]
-- [[The-Generativity-Diagnostic]]
-- [[The-Fluency-Illusion]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[situation-model|Situation-Model]]
+- [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]]
+- [[schema-theory|Schema-Theory]]
+- [[prior-knowledge-activation|Prior-Knowledge-Activation]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[Self-Explanation-in-PKB-Practice|Self-Explanation-in-PKB-Practice]]
+- [[advance-organizer|Advance-Organizer]]
+- [[the-generativity-diagnostic|The-Generativity-Diagnostic]]
+- [[the-fluency-illusion|The-Fluency-Illusion]]
 
 **Cross-report connections** *(from [[elaborative-interrogation-reading-focused-analysis-2026-03-30]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Situation-Model]]
-- [[Situation-Models-van-Dijk-&-Kintsch]]
-- [[Schema-Theory]]
-- [[Prior-Knowledge-Activation]]
-- [[Desirable-Difficulties]]
-- [[The-Generation-Effect]]
-- [[Self-Explanation-in-PKB-Practice]]
-- [[Advance-Organizer]]
-- [[The-Generativity-Diagnostic]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[situation-model|Situation-Model]]
+- [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]]
+- [[schema-theory|Schema-Theory]]
+- [[prior-knowledge-activation|Prior-Knowledge-Activation]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[the-generation-effect|The-Generation-Effect]]
+- [[Self-Explanation-in-PKB-Practice|Self-Explanation-in-PKB-Practice]]
+- [[advance-organizer|Advance-Organizer]]
+- [[the-generativity-diagnostic|The-Generativity-Diagnostic]]
 
 **Related concepts:**
-[[Elaborative-Interrogation]] · [[Levels-of-Processing-Theory]] · [[Situation-Model]] · [[Situation-Models-in-Text-Comprehension]] · [[Prior-Knowledge]] · [[Desirable-Difficulties]] · [[Levels-of-Processing-Theory]] · [[Situation-Model]] · [[Schema-Theory]] · [[Desirable-Difficulties]] · [[Situation-Models-van-Dijk-&-Kintsch]] · [[Shallow-Processing]] · [[Working-Memory-in-Reading]] · [[Textbase]] · [[Textbase]] · [[Propositional-Representation]] · [[Shallow-Processing]] · [[Situation-Model]] · [[Situation-Models-in-Text-Comprehension]] · [[Mental-Models]] · [[Schema-Theory]] · [[Simple-View-of-Reading]] · [[Verbal-Efficiency-Theory]] · [[Schema-Theory]] · [[Prior-Knowledge-Activation]] · [[Elaborative-Interrogation]] · [[Woloshyn,-Pressley-&-Schneider-1992]] · [[The-Generation-Effect]] · [[The-Generation-Effect]] · [[Levels-of-Processing-Theory]]
+[[elaborative-interrogation|Elaborative-Interrogation]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[situation-model|Situation-Model]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]] · [[prior-knowledge|Prior-Knowledge]] · [[desirable-difficulties|Desirable-Difficulties]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[situation-model|Situation-Model]] · [[schema-theory|Schema-Theory]] · [[desirable-difficulties|Desirable-Difficulties]] · [[situation-models-van-dijk-kintsch|Situation-Models-van-Dijk-&-Kintsch]] · [[shallow-processing|Shallow-Processing]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[textbase|Textbase]] · [[textbase|Textbase]] · [[propositional-representation|Propositional-Representation]] · [[shallow-processing|Shallow-Processing]] · [[situation-model|Situation-Model]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]] · [[mental-models|Mental-Models]] · [[schema-theory|Schema-Theory]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[verbal-efficiency-theory|Verbal-Efficiency-Theory]] · [[schema-theory|Schema-Theory]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[woloshyn-pressley-schneider-1992|Woloshyn,-Pressley-&-Schneider-1992]] · [[the-generation-effect|The-Generation-Effect]] · [[the-generation-effect|The-Generation-Effect]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]]
 
 ## References
 

@@ -32,7 +32,7 @@ This matters because most education focuses on building algorithmic power (the a
 
 ### In Report 01: The Inquiry Engine
 
-Report 01 uses Stanovich's distinction between the **algorithmic mind** (System 2's computational capacity) and the **reflective mind** (metacognitive oversight) to explain why raw intelligence doesn't guarantee good inquiry. [[report-01-the-inquiry-engine|R01]] emphasizes that [[Aporia]]—the felt difficulty that triggers inquiry—requires the reflective mind's ability to *notice* when automatic routines produce unsatisfying results.
+Report 01 uses Stanovich's distinction between the **algorithmic mind** (System 2's computational capacity) and the **reflective mind** (metacognitive oversight) to explain why raw intelligence doesn't guarantee good inquiry. [[report-01-the-inquiry-engine|R01]] emphasizes that [[aporia]]—the felt difficulty that triggers inquiry—requires the reflective mind's ability to *notice* when automatic routines produce unsatisfying results.
 
 Stanovich's framework helps explain why some highly intelligent people remain stuck in unproductive thinking patterns: they have powerful algorithmic minds but underdeveloped reflective oversight. The reflective mind is what initiates the inquiry process by recognizing that current beliefs may be inadequate.
 
@@ -40,7 +40,7 @@ Stanovich's framework helps explain why some highly intelligent people remain st
 
 ### In Report 05: The Virtuous Reasoner
 
-[[report-05-the-virtuous-reasoner|Report 05]] integrates Stanovich's work with [[Virtue-Epistemology]], showing that intellectual virtues are essentially trained patterns in the reflective mind. Virtues like [[Intellectual-Humility]], [[Open-Mindedness]], and [[Intellectual-Courage]] represent stable dispositions of the reflective mind to override biased System 1 responses.
+[[report-05-the-virtuous-reasoner|Report 05]] integrates Stanovich's work with [[virtue-epistemology]], showing that intellectual virtues are essentially trained patterns in the reflective mind. Virtues like [[intellectual-humility]], [[Open-Mindedness]], and [[Intellectual-Courage]] represent stable dispositions of the reflective mind to override biased System 1 responses.
 
 Stanovich's research on dysrationalia (the inability to think rationally despite high IQ) demonstrates why virtue cultivation matters: you can be cognitively capable yet fail to deploy that capacity because your reflective mind hasn't developed the habitual override patterns that constitute intellectual virtue.
 
@@ -61,9 +61,9 @@ Stanovich's distinction between System 1 (autonomous mind), System 2 algorithmic
 - **[[dysrationalia]]**: The inability to think and behave rationally despite adequate intelligence; occurs when reflective mind is underdeveloped
 - **[[Cognitive Reflection]]**: The disposition and ability to resist reporting the first response that comes to mind; measurable via cognitive reflection tests
 - **[[Mindware]]**: The rules, knowledge structures, and strategies that the reflective mind can deploy to override problematic default responses
-- **[[Myside-Bias]]**: The tendency to evaluate information in ways that favor your existing beliefs, even when trying to be objective
+- **[[myside-bias]]**: The tendency to evaluate information in ways that favor your existing beliefs, even when trying to be objective
 - **[[Contaminated Mindware]]**: Beliefs and thinking patterns that actively impede rational thinking (conspiracy theories, pseudoscience, etc.)
-- **[[Reflective-Equilibrium]]**: The process of balancing intuitive judgments against considered principles through reflective oversight
+- **[[reflective-equilibrium]]**: The process of balancing intuitive judgments against considered principles through reflective oversight
 
 ## 🎓 Accessibility Rating: 3/5 (Moderate)
 

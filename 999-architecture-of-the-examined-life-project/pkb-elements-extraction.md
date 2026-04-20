@@ -2587,7 +2587,7 @@ sections:
    alternative views, sensitivity to evidence contrary to current beliefs, practice of postponing closure, and epistemic self-regulation.
 
 30. **Phase I: The Premise — The Problem of the Knowing Subject 🔑**
-   ation, or will it trigger the well-documented cognitive defenses — [[Confirmation-Bias]], motivated reasoning, [[belief-perseverance]] — that protect the existing belief structure?
+   ation, or will it trigger the well-documented cognitive defenses — [[confirmation-bias]], motivated reasoning, [[belief-perseverance]] — that protect the existing belief structure?
 
 **Total Examples**: 98
 
@@ -2645,7 +2645,7 @@ sections:
 
 | **Cognitive Bias Category** | **Structural Failure** | **Intellectual Virtue** | **Training Practice** |
 |---|---|---|---|
-| Overconfidence, Dunning-Kruger, Illusion of Explanatory Depth | Inaccurate self-assessment of epistemic limitations | [[Intellectual-Humility]] | Calibration feedback-seeking; accurate self-assessment practice |
+| Overconfidence, Dunning-Kruger, Illusion of Explanatory Depth | Inaccurate self-assessment of epistemic limitations | [[intellectual-humility]] | Calibration feedback-seeking; accurate self-assessment practice |
 | Confirmation Bias, Disconfirmation Bias, Backfire Effect | Avoidance of disconfirming evidence | [[Intellectual-Courage]] | Steel-manning opposing views; deliberate exposure to disconfirmation |
 | Naive Realism, Fundamental Attribution Error, In-group Epistemic Favoritism | Failure to engage genuinely with other perspectives | [[Intellectual-Empathy]] | Perspective-taking with genuine curiosity; charitable reconstruction |
 *[...more rows]*

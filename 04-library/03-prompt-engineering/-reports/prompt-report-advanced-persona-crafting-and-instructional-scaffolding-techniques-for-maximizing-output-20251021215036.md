@@ -297,7 +297,7 @@ The mastery of these techniques is not just a "power-user" skill. It represents 
 
 > [!connection-ideas]
 >
-> The principles discussed here strongly connect to the field of **[[Cognitive-Science]]** and **[[Educational Theory]]**.
+> The principles discussed here strongly connect to the field of **[[cognitive-science]]** and **[[Educational Theory]]**.
 >
 >   - Vygotsky's "Scaffolding" is the most direct link. We are, quite literally, acting as the "More Knowledgeable Other" for the AI, providing the external support it needs to perform a task in its "Zone of Proximal Development."
 >   - This also relates to the concept of **"cognitive offloading."** Just as we use a calculator to offload arithmetic, we are using the scaffold to *offload the executive function* of the writing process. The prompt *is* the "To-Do list" and "outline" that a human writer would normally have to create and hold in their working memory. This frees the user to focus on the *higher-level goals* (the topic, the desired outcome) while the AI, guided by the scaffold, manages the *process*.

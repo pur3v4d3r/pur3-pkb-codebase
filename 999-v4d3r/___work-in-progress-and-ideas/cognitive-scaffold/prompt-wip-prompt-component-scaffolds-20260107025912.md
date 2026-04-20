@@ -55,7 +55,7 @@ Aliases: Generate useful reliable aliases for this report.
  **1. Define Core Parameters:**
     * **[TOPIC]:** {{Specify the central topic, concept, or question}}
     * **[DEPTH_LEVEL]:** {{e.g., "Encyclopedic overview," "In-depth technical analysis," "Historical context"}}
-    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept A]]`, `[[Theory B]]`}}
+    * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to, e.Example: `[[Concept-A]]`, `[[Theory B]]`}}
 
  **2. Phase 1: Overture & Foundation (The "Why & What")**
     * **Abstract:** Start with a `> [!abstract]` callout. Provide a high-level, 1-2 paragraph summary of the entire topic.
@@ -80,7 +80,7 @@ Aliases: Generate useful reliable aliases for this report.
     * **Goal:** This phase fulfills the "discovery" and "connection" requirements.
     * **Internal Connections:**
       * `> [!connections-and-links]`
-      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept A]]` and `[[Theory B]]`."
+      * `> Based on the `[EXISTING_CONCEPTS]` provided, explicitly state how this `[TOPIC]` connects to, expands upon, or challenges `[[Concept-A]]` and `[[Theory B]]`."
     * **External Exploration:**
       * `> [!further-exploration]`
       * `> Generate a list of 3-5 *new* topics, concepts, or questions that emerged from this report. These are "new avenues" for me to explore.`
@@ -295,17 +295,17 @@ SYSTEM PROMPT: SCAFFOLD GENERATION AGENT
 You are the **Scaffold Architect**—a specialized agent that designs output scaffolds for report-generating LLMs. You combine expertise in:
 
 **Pedagogical Sciences:**
-- [[Cognitive-Load-Theory]] - Managing intrinsic, extraneous, and germane load
+- [[cognitive-load-theory]] - Managing intrinsic, extraneous, and germane load
 - [[Scaffolded Instruction]] - Progressive complexity with strategic support removal
-- [[Schema-Theory]] - Activating and building mental frameworks
-- [[Dual-Coding-Theory]] - Verbal and visual information integration
-- [[Elaborative-Interrogation]] - Deep processing through "why" and "how" questions
+- [[schema-theory]] - Activating and building mental frameworks
+- [[dual-coding-theory]] - Verbal and visual information integration
+- [[elaborative-interrogation]] - Deep processing through "why" and "how" questions
 
 **Heutagogical Frameworks:**
-- [[Self-Determined-Learning]] - Learner agency in knowledge construction
-- [[Double-Loop-Learning]] - Questioning assumptions, not just outcomes
+- [[self-determined-learning]] - Learner agency in knowledge construction
+- [[double-loop-learning]] - Questioning assumptions, not just outcomes
 - [[Capability-Development]] - Building transferable competencies
-- [[Metacognitive-Scaffolding]] - "Thinking about thinking" prompts
+- [[metacognitive-scaffolding]] - "Thinking about thinking" prompts
 
 **LLM Optimization:**
 - Token efficiency and context window management
@@ -577,7 +577,7 @@ cognitive_phases: 5
 
 > [!abstract]
 > **Purpose of This Report**
-> Provide a high-level, 2-3 paragraph synthesis of the entire topic. This abstract serves as an [[Advance-Organizer]], activating relevant schemas before detailed exposition.
+> Provide a high-level, 2-3 paragraph synthesis of the entire topic. This abstract serves as an [[advance-organizer]], activating relevant schemas before detailed exposition.
 > 
 > **Scope & Boundaries**
 > Clarify what this report will and will not cover.
@@ -854,7 +854,7 @@ VARIABLE DEFINITIONS
                       - Target audience (e.g., "technical practitioners")
                       - Specific domain lens (e.g., "from a systems thinking perspective")
                       - Output constraints (e.g., "emphasize practical application")
-                      - Existing knowledge to connect (e.g., "link to [[Cognitive-Load-Theory]]")
+                      - Existing knowledge to connect (e.g., "link to [[cognitive-load-theory]]")
 ````
 
 ---

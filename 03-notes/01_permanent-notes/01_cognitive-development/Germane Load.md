@@ -16,9 +16,9 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Extraneous-Load]]"
+  - "[[extraneous-load]]"
   - "[[Intrinsic-Load]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[cognitive-load-theory]]"
 maturity: seedling
 confidence: speculative
 
@@ -32,8 +32,8 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Germane-Load]]
-> - [**Definition**:Productive effort devoted to [[schemas]] construction, Maximize through [[Deliberate-Practice]], elaboration, and connection-making.]
+> - **Key-Term**:[[germane-load]]
+> - [**Definition**:Productive effort devoted to [[schemas]] construction, Maximize through [[deliberate-practice]], elaboration, and connection-making.]
 
 
 

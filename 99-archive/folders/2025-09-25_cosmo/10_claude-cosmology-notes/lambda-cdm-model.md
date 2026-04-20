@@ -53,7 +53,7 @@ The entire observable universe can be described by just **6 fundamental numbers*
 ### 1. **Ωbh²** - Baryon Density
 - **Value**: 0.02237 ± 0.00015
 - **Meaning**: Density of ordinary matter (protons, neutrons)
-- **Observable**: Affects [[Nucleosynthesis]] and [[Cosmic Microwave Background|CMB]] peaks
+- **Observable**: Affects [[nucleosynthesis]] and [[Cosmic Microwave Background|CMB]] peaks
 
 ### 2. **Ωch²** - Dark Matter Density  
 - **Value**: 0.1200 ± 0.0012
@@ -84,7 +84,7 @@ The entire observable universe can be described by just **6 fundamental numbers*
 
 ### Observational Predictions
 ✅ **CMB Temperature**: 2.725 K (predicted before measurement)  
-✅ **Light Element Abundances**: H, He, Li ratios from [[Nucleosynthesis]]  
+✅ **Light Element Abundances**: H, He, Li ratios from [[nucleosynthesis]]  
 ✅ **Large-Scale Structure**: Galaxy distribution and clustering  
 ✅ **Supernovae**: Distance-redshift relation ([[Discovery of Cosmic Acceleration]])  
 ✅ **Age of Universe**: 13.797 ± 0.023 billion years  
@@ -137,7 +137,7 @@ Dark Energy: ρΛ = constant (doesn't dilute)
 
 #### Radiation Era (10⁻³² s to 50,000 years)
 - **Dominance**: Photons and neutrinos control expansion
-- **Events**: [[Nucleosynthesis]], [[Cosmic Microwave Background|recombination]]
+- **Events**: [[nucleosynthesis]], [[Cosmic Microwave Background|recombination]]
 - **Structure**: [[Dark Matter]] begins clustering
 
 #### Matter Era (50,000 years to 5 billion years)
@@ -168,7 +168,7 @@ Dark Energy: ρΛ = constant (doesn't dilute)
 - **[[Cosmic Distance Ladder]]**: Multiple methods agree
 
 ### Element Abundances
-- **Big Bang [[Nucleosynthesis]]**: Light element ratios match perfectly
+- **Big Bang [[nucleosynthesis]]**: Light element ratios match perfectly
 - **Stellar Archaeology**: Oldest stars confirm primordial abundances
 - **Deuterium**: Most sensitive probe of baryon density
 
@@ -206,7 +206,7 @@ Dark Energy: ρΛ = constant (doesn't dilute)
 ## 🔗 Cross-References
 
 **Components**: [[Dark Matter]], [[Dark Energy]], [[Ordinary Matter]]
-**Evidence**: [[Cosmic Microwave Background]], [[Nucleosynthesis]], [[Galaxy Formation]]
+**Evidence**: [[Cosmic Microwave Background]], [[nucleosynthesis]], [[Galaxy Formation]]
 **History**: [[The Big Bang Theory]], [[Precision Cosmology Era]]
 **Challenges**: [[The Dark Energy Mystery]], [[The Dark Matter Problem]]
 **Future**: [[Space-Based Telescopes in Cosmology]], [[Observable vs Actual Universe]]

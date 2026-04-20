@@ -2404,7 +2404,7 @@ class ThinkingQualityAssessor:
 
 **Depth Potential**: Would include cognitive science foundations, metacognition in humans vs. AI, architectural patterns for self-monitoring, comparative analysis of metacognitive systems across different LLMs, and research directions in AI metacognition.
 
-**Knowledge Graph Role**: Provides theoretical grounding and broader context for extended thinking, connecting to [[Cognitive-Science]], [[Self-Aware Systems]], [[AI Consciousness]], and [[Reasoning Architectures]].
+**Knowledge Graph Role**: Provides theoretical grounding and broader context for extended thinking, connecting to [[cognitive-science]], [[Self-Aware Systems]], [[AI Consciousness]], and [[Reasoning Architectures]].
 
 **Priority**: **Medium** - Valuable theoretical depth but less immediately actionable than production guidance.
 

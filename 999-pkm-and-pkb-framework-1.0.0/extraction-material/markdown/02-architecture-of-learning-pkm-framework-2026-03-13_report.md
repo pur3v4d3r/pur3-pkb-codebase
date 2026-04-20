@@ -183,7 +183,7 @@ extraction_summary:
 #### 7. [DEFINITION] Mayer's Cognitive Theory of Multimedia Learning (Mayer, 2001, 2009) *(Line 151)*
 
 > [!definition] Mayer's Cognitive Theory of Multimedia Learning (Mayer, 2001, 2009)
-> A theory of how people learn from words and pictures — or more broadly, from multimodal information — grounded in three assumptions: (1) the dual-channel assumption (humans have separate channels for processing visual/pictorial and auditory/verbal information), (2) the limited-capacity assumption (each channel has limited processing capacity, corresponding to working memory), and (3) the active-processing assumption (meaningful learning occurs when learners engage in appropriate cognitive processing — selecting relevant material, organizing it into coherent mental representations, and integrating it with prior knowledge). From these assumptions, Mayer derives a set of evidence-based design principles — including the [[Coherence-Principle|Coherence Principle]], [[Signaling-Principle|Signaling Principle]], [[Segmenting Principle]], [[Modality Principle]], and [[Redundancy-Effect]] — each of which reduces extraneous load or enhances germane load. *Disciplinary home: Educational Psychology / Instructional Design.*
+> A theory of how people learn from words and pictures — or more broadly, from multimodal information — grounded in three assumptions: (1) the dual-channel assumption (humans have separate channels for processing visual/pictorial and auditory/verbal information), (2) the limited-capacity assumption (each channel has limited processing capacity, corresponding to working memory), and (3) the active-processing assumption (meaningful learning occurs when learners engage in appropriate cognitive processing — selecting relevant material, organizing it into coherent mental representations, and integrating it with prior knowledge). From these assumptions, Mayer derives a set of evidence-based design principles — including the [[Coherence-Principle|Coherence Principle]], [[Signaling-Principle|Signaling Principle]], [[Segmenting Principle]], [[Modality Principle]], and [[redundancy-effect]] — each of which reduces extraneous load or enhances germane load. *Disciplinary home: Educational Psychology / Instructional Design.*
 
 #### 8. [DEFINITION] Information Architecture (Rosenfeld, Morville & Arango, 2015) *(Line 156)*
 
@@ -251,7 +251,7 @@ extraction_summary:
 #### 19. [CROSS-DOMAIN-CONNECTION] Germane Load and Constructivism Converge on Productive Difficulty *(Line 255)*
 
 > [!cross-domain-connection] Germane Load and Constructivism Converge on Productive Difficulty
-> [[Constructivism]] — the educational philosophy associated with Piaget, Vygotsky, and Dewey — holds that genuine learning requires the learner to actively construct meaning through engagement with challenging material. Constructivists argue that learning environments should preserve productive difficulty — the cognitive challenge that drives meaning-making. CLT's concept of germane load is, viewed from the cognitive psychology side, a mechanistic account of what productive difficulty accomplishes: it is the cognitive work of schema construction. The convergence between these traditions is striking and has a direct implication for PKB design: designing notes to be cognitively effortless (minimizing all load) is not the goal. The goal is directing the cognitive effort the note requires toward schema construction — and this requires preserving the intrinsic complexity of challenging material while eliminating the extraneous complexity imposed by poor design.
+> [[constructivism]] — the educational philosophy associated with Piaget, Vygotsky, and Dewey — holds that genuine learning requires the learner to actively construct meaning through engagement with challenging material. Constructivists argue that learning environments should preserve productive difficulty — the cognitive challenge that drives meaning-making. CLT's concept of germane load is, viewed from the cognitive psychology side, a mechanistic account of what productive difficulty accomplishes: it is the cognitive work of schema construction. The convergence between these traditions is striking and has a direct implication for PKB design: designing notes to be cognitively effortless (minimizing all load) is not the goal. The goal is directing the cognitive effort the note requires toward schema construction — and this requires preserving the intrinsic complexity of challenging material while eliminating the extraneous complexity imposed by poor design.
 
 #### 20. [ANALYTICAL-INSIGHT] The PKB Has a Temporal Dimension That Note Design Usually Ignores *(Line 264)*
 
@@ -317,17 +317,17 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The theoretical core of this report. Your CLT notes should now connect to the PKB design implications developed here: the Load Profile framework, the four-point rule, and the expertise reversal design tension.
+> - **[[cognitive-load-theory|Cognitive Load Theory]]** — The theoretical core of this report. Your CLT notes should now connect to the PKB design implications developed here: the Load Profile framework, the four-point rule, and the expertise reversal design tension.
 > 
-> - **[[Schema-Theory|Schema Theory]]** — Report 01 introduced schemas as the organizational unit of long-term memory. This report shows how schema development is specifically the target of germane load — the goal is not just to store schemas but to construct them through well-designed cognitive engagement. Each report enriches the other.
+> - **[[schema-theory|Schema Theory]]** — Report 01 introduced schemas as the organizational unit of long-term memory. This report shows how schema development is specifically the target of germane load — the goal is not just to store schemas but to construct them through well-designed cognitive engagement. Each report enriches the other.
 > 
-> - **[[Working-Memory|Working Memory]]** — The architectural constraint that gives CLT its explanatory power. This connection is bidirectional: understanding working memory deepens CLT, and CLT gives working memory practical design implications.
+> - **[[working-memory|Working Memory]]** — The architectural constraint that gives CLT its explanatory power. This connection is bidirectional: understanding working memory deepens CLT, and CLT gives working memory practical design implications.
 > 
 > - **[[Information-Architecture|Information Architecture]]** — The IA discipline provides the design vocabulary for operationalizing CLT principles in a PKB: chunking, progressive disclosure, signaling, and physical integration of related elements.
 > 
 > - **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]** — A critical nuance that complicates simple note simplification advice. This node should connect forward to Report 10 (*Scaffolding and Fading*), which addresses the full scaffolding-fading curve.
 > 
-> - **[[Progressive-Disclosure|Progressive Disclosure]]** — Both a PKB design pattern and an expression of schema-aligned information architecture. Connects to the broader LXD tradition and to Reigeluth's Elaboration Theory.
+> - **[[progressive-disclosure|Progressive Disclosure]]** — Both a PKB design pattern and an expression of schema-aligned information architecture. Connects to the broader LXD tradition and to Reigeluth's Elaboration Theory.
 > 
 > - **[[Obsidian PKB Design]]** — The implementation context for all principles in this report. This connection grounds abstract cognitive principles in concrete vault design decisions.
 > 
@@ -511,15 +511,15 @@ extraction_summary:
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]]
 - [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Coherence-Principle|Coherence Principle]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
-- [[Germane-Load|Germane Load]]
+- [[germane-load|Germane Load]]
 - [[Hub-Notes|Hub Notes]]
 - [[Information-Architecture|Information Architecture]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
@@ -533,40 +533,40 @@ extraction_summary:
 - [[Nelson-Cowan]]
 - [[Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB|Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]
 - [[Obsidian PKB Design]]
-- [[Progressive-Disclosure|Progressive Disclosure]]
-- [[Redundancy-Effect]]
+- [[progressive-disclosure|Progressive Disclosure]]
+- [[redundancy-effect]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 10: Scaffolding and Fading]]
 - [[Report 16: Desirable Difficulties by Design]]
-- [[Retrieval-Practice|Retrieval Practice]]
-- [[Schema-Theory|Schema Theory]]
+- [[retrieval-practice|Retrieval Practice]]
+- [[schema-theory|Schema Theory]]
 - [[Segmenting Principle]]
 - [[Signaling-Principle|Signaling Principle]]
-- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
-- [[Split-Attention-Effect|Split-Attention Effect]]
+- [[spaced-repetition-spacing-effect|Spacing Effect]]
+- [[split-attention-effect|Split-Attention Effect]]
 - [[The-Expertise-Reversal-Effect-Across-PKB-Knowledge-Domains|The Expertise Reversal Effect Across PKB Knowledge Domains]]
 - [[The Spatial Cognition of Obsidian: Graph View, Linking, and Visuospatial Working Memory]]
-- [[Working-Memory|Working Memory]]
+- [[working-memory|Working Memory]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Working-Memory|Working Memory]] | — | — | Phase I: Orientation & Synthesis Focus | 107 |
-| 2 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
+| 1 | [[working-memory|Working Memory]] | — | — | Phase I: Orientation & Synthesis Focus | 107 |
+| 2 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
 | 3 | [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
 | 4 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
 | 5 | [[Mayer's Multimedia Learning Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
 | 6 | [[Information-Architecture|Information Architecture]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
 | 7 | [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] | — | — | Phase I: Orientation & Synthesis Focus | 114 |
-| 8 | [[Schema-Theory|Schema Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 116 |
+| 8 | [[schema-theory|Schema Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 116 |
 | 9 | [[Knowledge-Organization-Systems|Knowledge Organization Systems]] | — | — | Phase I: Orientation & Synthesis Focus | 116 |
 | 10 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 118 |
 | 11 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | Phase I: Orientation & Synthesis Focus | 118 |
 | 12 | [[Learning-Experience-Design|Learning Experience Design]] | — | — | Phase I: Orientation & Synthesis Focus | 118 |
-| 13 | [[Educational-Psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 118 |
+| 13 | [[educational-psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 118 |
 | 14 | [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] | — | — | Phase I: Orientation & Synthesis Focus | 120 |
 | 15 | [[Miller's Law]] | — | — | Working Memory: The Bottleneck of Lea... | 131 |
 | 16 | [[Nelson-Cowan]] | — | — | Working Memory: The Bottleneck of Lea... | 131 |
@@ -575,34 +575,34 @@ extraction_summary:
 | 19 | [[Signaling-Principle|Signaling Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
 | 20 | [[Segmenting Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
 | 21 | [[Modality Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
-| 22 | [[Redundancy-Effect]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
+| 22 | [[redundancy-effect]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
 | 23 | [[Signaling-Principle|Signaling Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 154 |
 | 24 | [[Segmenting Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 154 |
-| 25 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The CLT Evidence Base | 181 |
+| 25 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The CLT Evidence Base | 181 |
 | 26 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | The CLT Evidence Base | 187 |
 | 27 | [[Nelson-Cowan]] | — | — | Working Memory Research: Capacity and... | 194 |
 | 28 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Working Memory Research: Capacity and... | 194 |
 | 29 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Working Memory Research: Capacity and... | 196 |
 | 30 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | The Expertise Reversal Effect | 216 |
 | 31 | [[Signaling-Principle|Signaling Principle]] | — | — | How Working Memory Actually Operates ... | 244 |
-| 32 | [[Germane-Load|Germane Load]] | — | — | Schema Construction as the Goal of Ge... | 251 |
-| 33 | [[Constructivism]] | — | — | Schema Construction as the Goal of Ge... | 256 |
-| 34 | [[Progressive-Disclosure|Progressive Disclosure]] | — | — | Progressive Disclosure as Schema-Alig... | 269 |
+| 32 | [[germane-load|Germane Load]] | — | — | Schema Construction as the Goal of Ge... | 251 |
+| 33 | [[constructivism]] | — | — | Schema Construction as the Goal of Ge... | 256 |
+| 34 | [[progressive-disclosure|Progressive Disclosure]] | — | — | Progressive Disclosure as Schema-Alig... | 269 |
 | 35 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Progressive Disclosure as Schema-Alig... | 274 |
-| 36 | [[Schema-Theory|Schema Theory]] | — | — | Return and Deepen: Working Memory and... | 278 |
-| 37 | [[Progressive-Disclosure|Progressive Disclosure]] | — | — | Design Principle 3: Use Progressive D... | 319 |
+| 36 | [[schema-theory|Schema Theory]] | — | — | Return and Deepen: Working Memory and... | 278 |
+| 37 | [[progressive-disclosure|Progressive Disclosure]] | — | — | Design Principle 3: Use Progressive D... | 319 |
 | 38 | [[Hub-Notes|Hub Notes]] | — | — | Design Principle 3: Use Progressive D... | 325 |
-| 39 | [[Split-Attention-Effect|Split-Attention Effect]] | — | — | Design Principle 4: Manage the Split-... | 331 |
+| 39 | [[split-attention-effect|Split-Attention Effect]] | — | — | Design Principle 4: Manage the Split-... | 331 |
 | 40 | [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] | — | — | The Cognitive Architecture-Aligned PKB | 360 |
-| 41 | [[Working-Memory|Working Memory]] | — | — | Return and Deepen: The Temporal PKB | 384 |
-| 42 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Unresolved Questions | 392 |
-| 43 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Unresolved Questions | 392 |
-| 44 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 401 |
-| 45 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 403 |
-| 46 | [[Working-Memory|Working Memory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 405 |
+| 41 | [[working-memory|Working Memory]] | — | — | Return and Deepen: The Temporal PKB | 384 |
+| 42 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | Unresolved Questions | 392 |
+| 43 | [[retrieval-practice|Retrieval Practice]] | — | — | Unresolved Questions | 392 |
+| 44 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 401 |
+| 45 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 403 |
+| 46 | [[working-memory|Working Memory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 405 |
 | 47 | [[Information-Architecture|Information Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 407 |
 | 48 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 409 |
-| 49 | [[Progressive-Disclosure|Progressive Disclosure]] | — | — | Phase VII: PKB Connections & Cross-Re... | 411 |
+| 49 | [[progressive-disclosure|Progressive Disclosure]] | — | — | Phase VII: PKB Connections & Cross-Re... | 411 |
 | 50 | [[Obsidian PKB Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 413 |
 | 51 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 417 |
 | 52 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 419 |
@@ -631,15 +631,15 @@ extraction_summary:
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]]
 - [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Coherence-Principle|Coherence Principle]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
-- [[Germane-Load|Germane Load]]
+- [[germane-load|Germane Load]]
 - [[Hub-Notes|Hub Notes]]
 - [[Information-Architecture|Information Architecture]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
@@ -653,47 +653,47 @@ extraction_summary:
 - [[Nelson-Cowan]]
 - [[Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB|Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]
 - [[Obsidian PKB Design]]
-- [[Progressive-Disclosure|Progressive Disclosure]]
-- [[Redundancy-Effect]]
+- [[progressive-disclosure|Progressive Disclosure]]
+- [[redundancy-effect]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 10: Scaffolding and Fading]]
 - [[Report 16: Desirable Difficulties by Design]]
-- [[Retrieval-Practice|Retrieval Practice]]
-- [[Schema-Theory|Schema Theory]]
+- [[retrieval-practice|Retrieval Practice]]
+- [[schema-theory|Schema Theory]]
 - [[Segmenting Principle]]
 - [[Signaling-Principle|Signaling Principle]]
-- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
-- [[Split-Attention-Effect|Split-Attention Effect]]
+- [[spaced-repetition-spacing-effect|Spacing Effect]]
+- [[split-attention-effect|Split-Attention Effect]]
 - [[The-Expertise-Reversal-Effect-Across-PKB-Knowledge-Domains|The Expertise Reversal Effect Across PKB Knowledge Domains]]
 - [[The Spatial Cognition of Obsidian: Graph View, Linking, and Visuospatial Working Memory]]
-- [[Working-Memory|Working Memory]]
+- [[working-memory|Working Memory]]
 
 ### Frontmatter Relationships
 
 #### Related Concepts
 
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Working-Memory|Working Memory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[working-memory|Working Memory]]
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 - [[Mayer's Multimedia Learning Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Information-Architecture|Information Architecture]]
-- [[Progressive-Disclosure|Progressive Disclosure]]
-- [[Chunking]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Obsidian]]
+- [[progressive-disclosure|Progressive Disclosure]]
+- [[chunking]]
+- [[desirable-difficulties|Desirable Difficulties]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
+- [[obsidian]]
 - [[Note Architecture]]
 - [[Intrinsic-Load|Intrinsic Load]]
-- [[Extraneous-Load|Extraneous Load]]
-- [[Germane-Load|Germane Load]]
-- [[Split-Attention-Effect|Split-Attention Effect]]
-- [[Modality-Effect]]
-- [[Redundancy-Effect]]
+- [[extraneous-load|Extraneous Load]]
+- [[germane-load|Germane Load]]
+- [[split-attention-effect|Split-Attention Effect]]
+- [[modality-effect]]
+- [[redundancy-effect]]
 - [[Miller's Law]]
 - [[Cowan's Capacity Estimate]]
 

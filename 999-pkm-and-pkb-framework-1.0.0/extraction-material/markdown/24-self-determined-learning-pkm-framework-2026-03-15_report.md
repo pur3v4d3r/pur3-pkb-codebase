@@ -155,7 +155,7 @@ extraction_summary:
 #### 2. [DEFINITION] Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory) *(Line 184)*
 
 > [!definition] Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory)
-> Literally "leading the child" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External-Regulation|External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence-Theory|Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.
+> Literally "leading the child" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[external-regulation|External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence-Theory|Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.
 
 #### 3. [DEFINITION] Andragogy (Educational Science/Adult Education — Malcolm Knowles, 1968, 1980) *(Line 187)*
 
@@ -563,32 +563,32 @@ extraction_summary:
 ### Unique Targets
 
 - [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]
-- [[Andragogy]]
-- [[Autonomy-Need|Autonomy Need]]
+- [[andragogy]]
+- [[autonomy-need|Autonomy Need]]
 - [[Canvas]]
 - [[Capability]]
 - [[Capability-Development|Capability Development]]
 - [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]
-- [[Competence-Need|Competence Need]]
+- [[competence-need|Competence Need]]
 - [[Competency]]
 - [[Competency-Development|Competency Development]]
 - [[Constructivist-Emergentist]]
 - [[Correspondence-Theory|Correspondence Theory]]
 - [[Dataview]]
-- [[Double-Loop-Learning|Double-Loop Learning]]
-- [[External-Regulation|External Regulation]]
-- [[Heutagogy]]
-- [[Internalization-Continuum|Internalization Continuum]]
+- [[double-loop-learning|Double-Loop Learning]]
+- [[external-regulation|External Regulation]]
+- [[heutagogy]]
+- [[internalization-continuum|Internalization Continuum]]
 - [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]
 - [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
 - [[Maps-of-Content-—-MOCs|MOC]]
-- [[Malcolm-Knowles]]
+- [[malcolm-knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
-- [[Organismic-Integration-Theory]]
+- [[organismic-integration-theory]]
 - [[pedagogy]]
 - [[Pragmatist]]
-- [[Relatedness-Need]]
+- [[relatedness-need]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report-05]]
@@ -601,8 +601,8 @@ extraction_summary:
 - [[Report 19: Sustaining Lifelong Learning]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
-- [[Schema-Theory|Schema Theory]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[schema-theory|Schema Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[Socratic Self-Examination]]
 - [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
 - [[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]]
@@ -613,53 +613,53 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Heutagogy]] | — | — | Phase I: Orientation & Synthesis Focus | 149 |
+| 1 | [[heutagogy]] | — | — | Phase I: Orientation & Synthesis Focus | 149 |
 | 2 | [[pedagogy]] | — | — | The Synthesis Question | 158 |
-| 3 | [[Andragogy]] | — | — | The Synthesis Question | 158 |
-| 4 | [[Heutagogy]] | — | — | The Synthesis Question | 158 |
+| 3 | [[andragogy]] | — | — | The Synthesis Question | 158 |
+| 4 | [[heutagogy]] | — | — | The Synthesis Question | 158 |
 | 5 | [[Report 10: Scaffolding and Fading]] | — | — | The Synthesis Question | 162 |
-| 6 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 166 |
+| 6 | [[double-loop-learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 166 |
 | 7 | [[Knowledge Ecology Model]] | — | — | Scope and Cross-Domain Preview | 166 |
 | 8 | [[Report 10]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 9 | [[Report-05]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 10 | [[Report 19]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 11 | [[Report 28: The Philosophy of Personal Knowledge]] | — | — | Scope and Cross-Domain Preview | 168 |
-| 12 | [[Heutagogy]] | — | — | Scope and Cross-Domain Preview | 170 |
-| 13 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 170 |
-| 14 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 170 |
+| 12 | [[heutagogy]] | — | — | Scope and Cross-Domain Preview | 170 |
+| 13 | [[self-determination-theory|Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 170 |
+| 14 | [[double-loop-learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 15 | [[Transformative Learning Theory]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 16 | [[Socratic Self-Examination]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 17 | [[pedagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
-| 18 | [[Andragogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
-| 19 | [[Heutagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
-| 20 | [[External-Regulation|External Regulation]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
+| 18 | [[andragogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
+| 19 | [[heutagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
+| 20 | [[external-regulation|External Regulation]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
 | 21 | [[Correspondence-Theory|Correspondence Theory]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
 | 22 | [[Pragmatist]] | — | — | The PAH Continuum: Beyond the Common ... | 188 |
 | 23 | [[Capability]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
 | 24 | [[Competency]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
 | 25 | [[Constructivist-Emergentist]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
-| 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
-| 27 | [[Organismic-Integration-Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
+| 26 | [[self-determination-theory|Self-Determination Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
+| 27 | [[organismic-integration-theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
 | 28 | [[Capability-Development|Capability Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
 | 29 | [[Competency-Development|Competency Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
-| 30 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Double-Loop Learning: The Mechanism o... | 218 |
-| 31 | [[Malcolm-Knowles]] | — | — | The Heutagogy Research Base | 255 |
+| 30 | [[double-loop-learning|Double-Loop Learning]] | — | — | Double-Loop Learning: The Mechanism o... | 218 |
+| 31 | [[malcolm-knowles]] | — | — | The Heutagogy Research Base | 255 |
 | 32 | [[Report 10]] | — | — | The Heutagogy Research Base | 255 |
 | 33 | [[Transformative Learning Theory]] | — | — | The Heutagogy Research Base | 271 |
-| 34 | [[Internalization-Continuum|Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 35 | [[Organismic-Integration-Theory]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 36 | [[Autonomy-Need|Autonomy Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 37 | [[Competence-Need|Competence Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 38 | [[Relatedness-Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 39 | [[Schema-Theory|Schema Theory]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
+| 34 | [[internalization-continuum|Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 35 | [[organismic-integration-theory]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 36 | [[autonomy-need|Autonomy Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 37 | [[competence-need|Competence Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 38 | [[relatedness-need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 39 | [[schema-theory|Schema Theory]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 40 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 41 | [[Socratic Self-Examination]] | — | — | Mechanism 4: The Socratic Prerequisite | 324 |
 | 42 | [[Knowledge-Ecology|Knowledge Ecology]] | — | — | Mechanism 5: The Knowledge Ecology Em... | 331 |
 | 43 | [[Canvas]] | — | — | Mechanism 5: The Knowledge Ecology Em... | 339 |
 | 44 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Three PKB Design Stages | 369 |
 | 45 | [[Dataview]] | — | — | Three PKB Design Stages | 369 |
-| 46 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Return and Deepen: Two Concepts Revis... | 416 |
-| 47 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Return and Deepen: Two Concepts Revis... | 418 |
+| 46 | [[self-determination-theory|Self-Determination Theory]] | — | — | Return and Deepen: Two Concepts Revis... | 416 |
+| 47 | [[double-loop-learning|Double-Loop Learning]] | — | — | Return and Deepen: Two Concepts Revis... | 418 |
 | 48 | [[Report 27: The Complete PKM/PKB Design Framework]] | — | — | Unresolved Questions | 432 |
 | 49 | [[Report 04: Metacognitive Self-Regulation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 441 |
 | 50 | [[Report 05: Motivation Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 443 |
@@ -688,32 +688,32 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]
-- [[Andragogy]]
-- [[Autonomy-Need|Autonomy Need]]
+- [[andragogy]]
+- [[autonomy-need|Autonomy Need]]
 - [[Canvas]]
 - [[Capability]]
 - [[Capability-Development|Capability Development]]
 - [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]
-- [[Competence-Need|Competence Need]]
+- [[competence-need|Competence Need]]
 - [[Competency]]
 - [[Competency-Development|Competency Development]]
 - [[Constructivist-Emergentist]]
 - [[Correspondence-Theory|Correspondence Theory]]
 - [[Dataview]]
-- [[Double-Loop-Learning|Double-Loop Learning]]
-- [[External-Regulation|External Regulation]]
-- [[Heutagogy]]
-- [[Internalization-Continuum|Internalization Continuum]]
+- [[double-loop-learning|Double-Loop Learning]]
+- [[external-regulation|External Regulation]]
+- [[heutagogy]]
+- [[internalization-continuum|Internalization Continuum]]
 - [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]
 - [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
 - [[Maps-of-Content-—-MOCs|MOC]]
-- [[Malcolm-Knowles]]
+- [[malcolm-knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
-- [[Organismic-Integration-Theory]]
+- [[organismic-integration-theory]]
 - [[pedagogy]]
 - [[Pragmatist]]
-- [[Relatedness-Need]]
+- [[relatedness-need]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report-05]]
@@ -726,8 +726,8 @@ extraction_summary:
 - [[Report 19: Sustaining Lifelong Learning]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
-- [[Schema-Theory|Schema Theory]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[schema-theory|Schema Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[Socratic Self-Examination]]
 - [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
 - [[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]]

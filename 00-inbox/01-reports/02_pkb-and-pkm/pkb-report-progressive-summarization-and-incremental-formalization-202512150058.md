@@ -407,7 +407,7 @@ modified: 2025-12-14
 status: evergreen
 certainty: confident
 type: reference
-related: [[Cognitive-Load-Theory]], [[Depth of Processing Theory]], [[Working-Memory]], [[Zettelkasten]], [[Atomic-Notes]], [[Knowledge Graph Architecture]]
+related: [[cognitive-load-theory]], [[Depth of Processing Theory]], [[working-memory]], [[zettelkasten]], [[Atomic-Notes]], [[Knowledge Graph Architecture]]
 
 ---
 
@@ -420,7 +420,7 @@ related: [[Cognitive-Load-Theory]], [[Depth of Processing Theory]], [[Working-Me
 
 ### Depth of Processing Theory (Craik & Lockhart, 1972)
 
-Progressive summarization finds its deepest theoretical roots in <span style='color: #FF5700;'>**Fergus Craik and Robert Lockhart's**</span> seminal 1972 framework, which revolutionized memory research by proposing that <span style='color: #27FF00;'>memory retention is determined not by rehearsal duration but by the depth of mental processing applied to incoming information</span>. Their [[Levels-of-Processing-Theory]] distinguished three processing depths, each producing markedly different memory traces.
+Progressive summarization finds its deepest theoretical roots in <span style='color: #FF5700;'>**Fergus Craik and Robert Lockhart's**</span> seminal 1972 framework, which revolutionized memory research by proposing that <span style='color: #27FF00;'>memory retention is determined not by rehearsal duration but by the depth of mental processing applied to incoming information</span>. Their [[levels-of-processing-theory]] distinguished three processing depths, each producing markedly different memory traces.
 
 [**Structural Processing**:: The shallowest level—encoding only physical or surface features of information (e.g., "Is this word in italics?" or "What font is this?"). Processing at this level creates fragile memory traces that decay rapidly because the encoding lacks semantic richness.]
 
@@ -439,7 +439,7 @@ The progressive summarization method operationalizes this theoretical insight by
 
 ### Working Memory Constraints and External Cognition
 
-The necessity for progressive rather than immediate comprehensive processing stems directly from [[Cognitive-Load-Theory]] and [[Working-Memory]] architecture. <span style='color: #FF5700;'>George Miller's (1956)</span> classic finding that working memory capacity hovers around 7±2 chunks, later refined by <span style='color: #FF5700;'>Cowan (2001)</span> to approximately 4 chunks, establishes fundamental limits on simultaneous information processing. Attempting to fully process, connect, and formalize knowledge at the moment of capture overwhelms working memory, leading to [[Cognitive Overload]] and shallow encoding despite substantial effort.
+The necessity for progressive rather than immediate comprehensive processing stems directly from [[cognitive-load-theory]] and [[working-memory]] architecture. <span style='color: #FF5700;'>George Miller's (1956)</span> classic finding that working memory capacity hovers around 7±2 chunks, later refined by <span style='color: #FF5700;'>Cowan (2001)</span> to approximately 4 chunks, establishes fundamental limits on simultaneous information processing. Attempting to fully process, connect, and formalize knowledge at the moment of capture overwhelms working memory, leading to [[Cognitive Overload]] and shallow encoding despite substantial effort.
 
 > [!analogy] Mining for Gold: The Progressive Refinement Metaphor
 > Progressive summarization mirrors mineral extraction processes. <span style='color: #9E6CD3;'>The first pass removes obvious debris (dirt)</span>—capturing raw material without judgment. <span style='color: #FFC700;'>The second pass identifies ore-bearing rock (highlighting)</span>—distinguishing potentially valuable content from pure filler. <span style='color: #27FF00;'>The third pass extracts precious metal (bolding key insights)</span>—isolating the highest-concentration deposits. <span style='color: #FF00DC;'>The final pass refines into pure gold (atomic notes)</span>—transforming raw ore into finished product. Each iteration increases density while reducing volume, and <span style='color: #72FFF1;'>critically, no single step attempts to accomplish the entire transformation</span>.
@@ -464,12 +464,12 @@ This aligns with [[Adaptive Memory Theory]], which suggests human memory evolved
 
 %%QA:pkm:capture-strategies%%
 
-Before summarization begins, information must enter the system. Forte emphasizes <span style='color: #FF00DC;'>**capture velocity over capture perfection**</span>—the goal is frictionless externalization that preserves raw material for future processing. This aligns with [[GTD Methodology|Getting Things Done's]] "mind like water" principle and [[Zettelkasten]]'s fleeting notes concept.
+Before summarization begins, information must enter the system. Forte emphasizes <span style='color: #FF00DC;'>**capture velocity over capture perfection**</span>—the goal is frictionless externalization that preserves raw material for future processing. This aligns with [[GTD Methodology|Getting Things Done's]] "mind like water" principle and [[zettelkasten]]'s fleeting notes concept.
 
 [**Capture-Tools-Ecosystem**:: Modern PKM practitioners use diverse capture mechanisms: browser highlighters (Hypothesis, Matter), read-later services (Pocket, Instapaper), Kindle highlights, voice memos, quick-capture apps (Drafts, Fleeting Notes), and web clippers (Evernote, Notion, Obsidian Web Clipper). The key criterion is minimal friction between thought and externalization.]
 
 > [!helpful-tip] Reducing Capture Friction
-> <span style='color: #72FFF1;'>Configure capture tools to require zero formatting decisions during intake</span>. Template structures, automatic tagging, and default destinations eliminate [[Extraneous-Cognitive-Load]] that would otherwise slow capture velocity. Every formatting choice during capture is cognitive effort diverted from understanding.
+> <span style='color: #72FFF1;'>Configure capture tools to require zero formatting decisions during intake</span>. Template structures, automatic tagging, and default destinations eliminate [[extraneous-cognitive-load]] that would otherwise slow capture velocity. Every formatting choice during capture is cognitive effort diverted from understanding.
 
 ### Layer 1: Initial Notes (Raw Capture)
 
@@ -494,7 +494,7 @@ When you return to a note for actual use (not during capture), the second layer 
 
 [**Resonance-Based-Selection**:: Forte's principle for deciding what to highlight: "Use resonance as your criteria" (Forte, 2017). Rather than attempting to identify objectively important content, progressive summarization relies on visceral cognitive/emotional responses during reading as signals of personal relevance and integration potential.]^established-stable
 
-The cognitive mechanism at work here is <span style='color: #27FF00;'>**attention amplification through selective focus**</span>. By forcing discrimination between passages, you engage in comparative evaluation—a form of [[Elaborative-Interrogation]] where you implicitly ask "Why is this passage more important than that one?" This comparative processing creates richer encoding than passive reading.
+The cognitive mechanism at work here is <span style='color: #27FF00;'>**attention amplification through selective focus**</span>. By forcing discrimination between passages, you engage in comparative evaluation—a form of [[elaborative-interrogation]] where you implicitly ask "Why is this passage more important than that one?" This comparative processing creates richer encoding than passive reading.
 
 %%counterexample: highlighting-always-better%%
 Research on highlighting effectiveness reveals crucial nuances. <span style='color: #FF5700;'>Ponce, López, and Mayer's (2022)</span> meta-analysis of 85 studies found that learner-generated highlighting improved <span style='color: #27FF00;'>memory retention (d=0.36)</span> but not comprehension (d=0.20). <span style='color: #FF00DC;'>**Critical caveat:**</span> Highlighting without subsequent review provides minimal benefit. <span style='color: #FF5700;'>Dunlosky et al. (2013)</span> rated highlighting as "low utility" precisely because students often highlight without returning to process those highlights further—violating the progressive principle.
@@ -517,9 +517,9 @@ The third layer applies <span style='color: #FFC700;'>**sentence-level highlight
 > 
 > <span style='color: #72FFF1;'>**Result:**</span> Scanning time reduced from 2 minutes (full read) to 10-20 seconds (highlight scan), while preserving semantic core and enabling context recovery by "dropping down" layers if needed.
 
-The abstraction occurring at Layer 3 engages <span style='color: #27FF00;'>**principle extraction**</span>—you're no longer selecting interesting passages but identifying the underlying claims, mechanisms, or frameworks those passages exemplify. This moves processing from [[Comprehension]] toward [[Analysis]] on [[Bloom's-Taxonomy]], requiring integration across sentences and inference about implicit structure.
+The abstraction occurring at Layer 3 engages <span style='color: #27FF00;'>**principle extraction**</span>—you're no longer selecting interesting passages but identifying the underlying claims, mechanisms, or frameworks those passages exemplify. This moves processing from [[comprehension]] toward [[analysis]] on [[Bloom's-Taxonomy]], requiring integration across sentences and inference about implicit structure.
 
-%%mental-model: CLT%% Layer 3 reduces [[Extraneous-Cognitive-Load]] during future retrieval by pre-filtering noise, while maintaining [[Germane-Cognitive-Load|germane load]] through the availability of contextual layers when deeper understanding is required.
+%%mental-model: CLT%% Layer 3 reduces [[extraneous-cognitive-load]] during future retrieval by pre-filtering noise, while maintaining [[germane-cognitive-load|germane load]] through the availability of contextual layers when deeper understanding is required.
 
 ### Layer 4: Executive Summary (Synthesis Layer)
 
@@ -539,13 +539,13 @@ The fourth and most demanding layer creates <span style='color: #FFC700;'>**a 3-
 
 This layer represents the transition from <span style='color: #9E6CD3;'>**information compression**</span> to <span style='color: #FFC700;'>**knowledge synthesis**</span>. You're no longer working with the author's language but translating concepts into your own semantic framework, connecting the material to your existing knowledge structures, and making explicit the relevance that motivated capture in the first place.
 
-%%applies-to: knowledge-retention%% The act of summary generation is itself a powerful learning mechanism. <span style='color: #FF5700;'>Roediger and Karpicke's (2006)</span> [[Testing-Effect]] research demonstrates that <span style='color: #27FF00;'>attempting to retrieve and reconstruct information from memory produces superior long-term retention compared to repeated study</span>. Writing an executive summary without looking at highlights is essentially a [[Retrieval-Practice|retrieval practice]] event that strengthens memory consolidation.
+%%applies-to: knowledge-retention%% The act of summary generation is itself a powerful learning mechanism. <span style='color: #FF5700;'>Roediger and Karpicke's (2006)</span> [[Testing-Effect]] research demonstrates that <span style='color: #27FF00;'>attempting to retrieve and reconstruct information from memory produces superior long-term retention compared to repeated study</span>. Writing an executive summary without looking at highlights is essentially a [[retrieval-practice|retrieval practice]] event that strengthens memory consolidation.
 
 ### Layer 5 (Implicit): Atomic Note Distillation
 
 %%extract-atomic: Progressive Summarization Layer 5%%
 
-While Forte's original framework describes four layers, <span style='color: #72FFF1;'>**a fifth implicit layer emerges when progressive summarization integrates with [[Zettelkasten]] methodology**</span>: the transformation of executive summaries into standalone [[Atomic-Notes]] that enter the permanent knowledge graph. This final step represents full [[Incremental Formalization]]—rough highlights crystallize into precise, interconnected knowledge atoms with explicit relationships, prerequisite structures, and integration into broader conceptual frameworks.
+While Forte's original framework describes four layers, <span style='color: #72FFF1;'>**a fifth implicit layer emerges when progressive summarization integrates with [[zettelkasten]] methodology**</span>: the transformation of executive summaries into standalone [[Atomic-Notes]] that enter the permanent knowledge graph. This final step represents full [[Incremental Formalization]]—rough highlights crystallize into precise, interconnected knowledge atoms with explicit relationships, prerequisite structures, and integration into broader conceptual frameworks.
 
 [**Atomic-Note-Distillation**:: The process of extracting core concepts from progressively summarized notes into standalone notes that: (a) focus on a single idea, (b) are written in your own words, (c) are highly linked to related concepts, and (d) are tagged/metadata-enriched for discoverability. This represents the endpoint of incremental formalization where informal captures become formalized knowledge structures.]
 
@@ -571,9 +571,9 @@ While Forte's original framework describes four layers, <span style='color: #72F
 
 ### Cognitive Mechanisms of Formalization
 
-%%prereq-hard: [[Working-Memory]]%% %%prereq-soft: [[Schema-Theory]]%%
+%%prereq-hard: [[working-memory]]%% %%prereq-soft: [[schema-theory]]%%
 
-Incremental formalization succeeds because it <span style='color: #27FF00;'>distributes the cognitive load of knowledge transformation across multiple encounters</span>, each building on the work of previous layers. This respects fundamental constraints documented in [[Cognitive-Load-Theory]]:
+Incremental formalization succeeds because it <span style='color: #27FF00;'>distributes the cognitive load of knowledge transformation across multiple encounters</span>, each building on the work of previous layers. This respects fundamental constraints documented in [[cognitive-load-theory]]:
 
 **Layer 1 (Capture)** = <span style='color: #72FFF1;'>Minimal intrinsic load</span> (copy-paste or highlight), near-zero extraneous load (no formatting), no germane load (no synthesis)
 
@@ -585,7 +585,7 @@ Incremental formalization succeeds because it <span style='color: #27FF00;'>dist
 
 **Layer 5 (Atomic Notes)** = <span style='color: #72FFF1;'>Very high intrinsic load</span> (precise articulation), minimal extraneous load, <span style='color: #FFC700;'>maximum germane load</span> (explicit relationship mapping and knowledge graph integration)
 
-[**Distributed-Formalization**:: The principle that complex cognitive transformations (like formalizing knowledge) should be decomposed into smaller sub-processes distributed across time, each operating within working memory capacity constraints. This mirrors [[Chunking]] strategies in skill acquisition and [[Scaffolding]] techniques in instructional design.]^confident
+[**Distributed-Formalization**:: The principle that complex cognitive transformations (like formalizing knowledge) should be decomposed into smaller sub-processes distributed across time, each operating within working memory capacity constraints. This mirrors [[chunking]] strategies in skill acquisition and [[scaffolding]] techniques in instructional design.]^confident
 
 By the time you reach Layer 4-5, the heavy lifting of <span style='color: #27FF00;'>**understanding**</span> (Layers 1-2) and <span style='color: #FFC700;'>**analysis**</span> (Layer 3) has already occurred, leaving cognitive resources available for <span style='color: #27FF00;'>**synthesis**</span> and <span style='color: #72FFF1;'>**integration**</span>—the highest-order cognitive operations on [[Bloom's-Taxonomy]].
 
@@ -593,7 +593,7 @@ By the time you reach Layer 4-5, the heavy lifting of <span style='color: #27FF0
 
 %%synthesis-potential: linguistics×pkm%%
 
-The progression through layers represents <span style='color: #FFC700;'>**semantic translation**</span>: converting the author's language and conceptual framework into your own. <span style='color: #FF5700;'>Vygotsky (1978)</span> described this as [[Zone-of-Proximal-Development|appropriation]]—the process by which external cultural tools (like language and concepts) become internalized as psychological tools.
+The progression through layers represents <span style='color: #FFC700;'>**semantic translation**</span>: converting the author's language and conceptual framework into your own. <span style='color: #FF5700;'>Vygotsky (1978)</span> described this as [[zone-of-proximal-development|appropriation]]—the process by which external cultural tools (like language and concepts) become internalized as psychological tools.
 
 At Layer 1, you're working entirely in the author's linguistic space. By Layer 4, you're articulating ideas in your own words, connected to your own projects, within your own semantic network. This translation is not merely cosmetic—it represents <span style='color: #27FF00;'>**deep encoding through elaborative rehearsal**</span>, where information is understood in relation to what you already know rather than memorized as isolated propositions.
 
@@ -611,14 +611,14 @@ At Layer 1, you're working entirely in the author's linguistic space. By Layer 4
 
 The ultimate formalization step—creating [[Atomic-Notes]] within a [[Knowledge-Graph]]—depends critically on <span style='color: #72FFF1;'>**explicit relationship encoding through bidirectional links**</span>. Progressive summarization identifies what to formalize; <span style='color: #FFC700;'>**bidirectional linking specifies how formalized concepts interconnect**</span>.
 
-[**Bidirectional-Linking**:: The practice of creating explicit, navigable connections between notes such that links are visible and traversable in both directions (A→B and B→A). In tools like [[Obsidian]], [[Roam Research]], and [[Logseq]], bidirectional links automatically create backlinks, enabling discovery of relationships from either node. This contrasts with traditional hierarchical organization where relationships are implicit in folder structure.]
+[**Bidirectional-Linking**:: The practice of creating explicit, navigable connections between notes such that links are visible and traversable in both directions (A→B and B→A). In tools like [[obsidian]], [[Roam Research]], and [[Logseq]], bidirectional links automatically create backlinks, enabling discovery of relationships from either node. This contrasts with traditional hierarchical organization where relationships are implicit in folder structure.]
 
 When you extract an atomic note on <span style='color: #72FFF1;'>"Germane Cognitive Load,"</span> progressive summarization has already identified the concept's importance. Incremental formalization then requires articulating:
 
-- <span style='color: #FFC700;'>**Prerequisite relationships:**</span> `[[Germane-Cognitive-Load]]^prerequisite: [[Working-Memory]]`
-- <span style='color: #27FF00;'>**Complementary relationships:**</span> `[[Germane-Cognitive-Load]]^complements: [[Schema-Theory]]`
-- <span style='color: #FF00DC;'>**Contradictory relationships:**</span> `[[Germane-Cognitive-Load]]^contradicts: [[Extraneous-Cognitive-Load]]` (competing for same capacity)
-- <span style='color: #9E6CD3;'>**Extension relationships:**</span> `[[Germane-Cognitive-Load]]^extends: [[Sweller Instructional Design Principles]]`
+- <span style='color: #FFC700;'>**Prerequisite relationships:**</span> `[[germane-cognitive-load]]^prerequisite: [[working-memory]]`
+- <span style='color: #27FF00;'>**Complementary relationships:**</span> `[[germane-cognitive-load]]^complements: [[schema-theory]]`
+- <span style='color: #FF00DC;'>**Contradictory relationships:**</span> `[[germane-cognitive-load]]^contradicts: [[extraneous-cognitive-load]]` (competing for same capacity)
+- <span style='color: #9E6CD3;'>**Extension relationships:**</span> `[[germane-cognitive-load]]^extends: [[Sweller Instructional Design Principles]]`
 
 %%QA:knowledge-graph:relationship-typing%%
 
@@ -632,7 +632,7 @@ This explicit relationship mapping transforms isolated notes into a [[Semantic-N
 
 %%applies-to: obsidian-workflow%%
 
-Implementing progressive summarization in [[Obsidian]] leverages markdown's flexibility while adding semantic structure through plugins and formatting conventions.
+Implementing progressive summarization in [[obsidian]] leverages markdown's flexibility while adding semantic structure through plugins and formatting conventions.
 
 > [!methodology-and-sources] Obsidian-Optimized Layer Implementation
 > **Layer 1 (Capture):** Use [[Obsidian Web Clipper]], [[Readwise]] sync, or [[QuickAdd]] macros for frictionless capture directly into vault
@@ -672,14 +672,14 @@ This metadata enables [[Dataview]] queries that surface:
 
 %%mental-model: Zettelkasten%%
 
-Progressive summarization and [[Zettelkasten]] are complementary but distinct methodologies. <span style='color: #FF5700;'>Luhmann's original Zettelkasten</span> emphasizes <span style='color: #FFC700;'>immediate atomization</span>—creating permanent notes (Zettel) at the moment of reading. Progressive summarization defers atomization, accepting that <span style='color: #9E6CD3;'>most material will never reach the permanent collection</span>.
+Progressive summarization and [[zettelkasten]] are complementary but distinct methodologies. <span style='color: #FF5700;'>Luhmann's original Zettelkasten</span> emphasizes <span style='color: #FFC700;'>immediate atomization</span>—creating permanent notes (Zettel) at the moment of reading. Progressive summarization defers atomization, accepting that <span style='color: #9E6CD3;'>most material will never reach the permanent collection</span>.
 
 [**Hybrid-Workflow-Pattern**:: Integration strategy combining progressive summarization for source processing with Zettelkasten for permanent note architecture: (1) Capture sources into "Literature Notes" area, (2) Apply progressive summarization layers opportunistically, (3) Extract atomic notes only from Layer 3-4 material, (4) Connect atomic notes following Zettelkasten linking principles. This prevents premature atomization while maintaining permanent note quality.]
 
 > [!example] Hybrid Workflow in Practice
 > 1. <span style='color: #9E6CD3;'>**Capture Phase:**</span> Read article on attention mechanisms, use web clipper to capture full text into `02-Literature/` folder (Layer 1)
 > 
-> 2. <span style='color: #FFC700;'>**Project Trigger:**</span> Three weeks later, working on [[Instructional-Design]] project, search vault for "attention," find article
+> 2. <span style='color: #FFC700;'>**Project Trigger:**</span> Three weeks later, working on [[instructional-design]] project, search vault for "attention," find article
 > 
 > 3. <span style='color: #27FF00;'>**Layer 2 Processing:**</span> Read article while bolding most relevant passages for current project (opportunistic compression)
 > 
@@ -979,11 +979,11 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Depth Potential:** Elaborative interrogation has its own rich research base (Pressley et al., 1987; Dunlosky et al., 2013) showing that self-explaining improves comprehension and retention. A dedicated note would explore how to systematically apply "why?" questions during Layer 3-4 processing, transform summaries into understanding, and leverage elaboration without overwhelming cognitive load.
 
-**Knowledge Graph Role:** Bridges [[Progressive-Summarization]] to [[Deep Processing Techniques]], connects to [[Self-Explanation-Effect]], and integrates with [[Metacognitive-strategies]]. Would serve as a methodological extension showing how to make progressive summarization even more effective through strategic question-asking.
+**Knowledge Graph Role:** Bridges [[Progressive-Summarization]] to [[Deep Processing Techniques]], connects to [[self-explanation-effect]], and integrates with [[metacognitive-strategies]]. Would serve as a methodological extension showing how to make progressive summarization even more effective through strategic question-asking.
 
 **Priority:** High — This represents the natural next step in optimizing progressive summarization for learning (not just discoverability), and has strong empirical support making it immediately actionable.
 
-**Prerequisites:** [[Progressive-Summarization]] (this note), [[Working-Memory]], [[Depth of Processing Theory]]
+**Prerequisites:** [[Progressive-Summarization]] (this note), [[working-memory]], [[Depth of Processing Theory]]
 
 ---
 
@@ -1005,11 +1005,11 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Depth Potential:** Would synthesize research on optimal spacing intervals (expanding intervals vs. uniform distribution), individual differences in optimal spacing, domain-specific spacing effects, and practical implementations (SM-2 algorithm, Leitner system). Could explore hybrid approaches: progressive summarization for discoverability + spaced repetition for deliberate retention of key concepts.
 
-**Knowledge Graph Role:** Connects [[Progressive-Summarization]] to [[Spaced-Repetition-Systems]], [[Memory-Consolidation]], [[Forgetting Curves]], and [[Learning Science Applications]]. Bridges note-taking methodology with active learning techniques.
+**Knowledge Graph Role:** Connects [[Progressive-Summarization]] to [[spaced-repetition-systems]], [[memory-consolidation]], [[Forgetting Curves]], and [[Learning Science Applications]]. Bridges note-taking methodology with active learning techniques.
 
 **Priority:** High — Highly practical, addresses common user question ("should I review notes, or just let progressive summarization happen organically?"), and has robust evidence base. Immediately implementable through scheduling plugins.
 
-**Prerequisites:** [[Progressive-Summarization]], [[Forgetting-Curve]], [[Spacing-Effect]], basic familiarity with [[Spaced-Repetition-Systems]]
+**Prerequisites:** [[Progressive-Summarization]], [[Forgetting-Curve]], [[spacing-effect]], basic familiarity with [[spaced-repetition-systems]]
 
 ---
 
@@ -1022,7 +1022,7 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Priority:** Medium-High — Critical for anyone who's successfully built atomic note collection and now faces organization challenges. Represents the natural maturation point of a PKB system from individual notes to interconnected network.
 
-**Prerequisites:** [[Progressive-Summarization]], [[Atomic-Notes]], [[Zettelkasten]], [[Bidirectional Linking]], basic [[Graph Theory Concepts]]
+**Prerequisites:** [[Progressive-Summarization]], [[Atomic-Notes]], [[zettelkasten]], [[Bidirectional Linking]], basic [[Graph Theory Concepts]]
 
 ---
 
@@ -1031,11 +1031,11 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Depth Potential:** Would synthesize CLT's extensive research base (intrinsic, extraneous, germane load; worked examples; element interactivity; expertise reversal effect) with PKM system design. Cover template design that reduces decision load, automation that eliminates repetitive cognitive tasks, progressive complexity revelation in note hierarchies, and self-assessment of cognitive capacity before planning work sessions.
 
-**Knowledge Graph Role:** Positions [[Cognitive-Load-Theory]] as foundational framework for [[PKM System Design]], connecting to [[Working-Memory]], [[Instructional-Design]], [[Automation Strategies]], [[Template-Engineering]], and [[Workflow Optimization]]. Represents the cognitive science foundation for why many PKM practices work (or fail).
+**Knowledge Graph Role:** Positions [[cognitive-load-theory]] as foundational framework for [[PKM System Design]], connecting to [[working-memory]], [[instructional-design]], [[Automation Strategies]], [[Template-Engineering]], and [[Workflow Optimization]]. Represents the cognitive science foundation for why many PKM practices work (or fail).
 
 **Priority:** Medium — Foundational and widely applicable, but requires substantial CLT background to implement well. Best pursued after experiencing cognitive load issues in practice, which makes the theory immediately relevant and actionable.
 
-**Prerequisites:** [[Cognitive-Load-Theory]] (comprehensive), [[Progressive-Summarization]], [[Working-Memory]], [[Obsidian]] or equivalent tool ecosystem
+**Prerequisites:** [[cognitive-load-theory]] (comprehensive), [[Progressive-Summarization]], [[working-memory]], [[obsidian]] or equivalent tool ecosystem
 
 ---
 

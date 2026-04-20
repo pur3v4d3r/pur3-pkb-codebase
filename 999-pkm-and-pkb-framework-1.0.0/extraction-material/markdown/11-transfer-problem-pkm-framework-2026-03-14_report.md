@@ -494,32 +494,32 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Alan-Baddeley|Alan Baddeley]]
-- [[Alfred-North-Whitehead|Alfred North Whitehead]]
+- [[alan-baddeley|Alan Baddeley]]
+- [[alfred-north-whitehead|Alfred North Whitehead]]
 - [[Allan-Collins|Allan Collins]]
 - [[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]]
 - [[Analogical-Transfer|Analogical Transfer]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]]
 - [[Daniel-Schwartz|Daniel Schwartz]]
-- [[Dedre-Gentner|Dedre Gentner]]
+- [[dedre-gentner|Dedre Gentner]]
 - [[Dewey]]
 - [[Duncan-Godden|Duncan Godden]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Encoding-Specificity|Encoding Specificity]]
+- [[encoding-specificity|Encoding Specificity]]
 - [[Encoding-Variability|Encoding Variability]]
-- [[Endel-Tulving]]
+- [[endel-tulving]]
 - [[Etienne Wenger]]
 - [[Expected Value Theory]]
 - [[Exploitative versus Exploratory Strategies]]
 - [[Far Transfer in Expert Knowledge Domains — When Deep Expertise Helps and Hinders Cross-Domain Application]]
 - [[Gentner]]
-- [[Inert-Knowledge|Inert Knowledge]]
+- [[inert-knowledge|Inert Knowledge]]
 - [[Jean Lave]]
-- [[John-Bransford]]
+- [[john-bransford]]
 - [[John Seely Brown]]
 - [[Kapur]]
 - [[Keith-Holyoak]]
@@ -528,10 +528,10 @@ extraction_summary:
 - [[Mimetic Desire]]
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
-- [[Productive-Failure|Productive Failure]]
+- [[productive-failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]
 - [[Reigeluth]]
 - [[Report-03]]
@@ -553,14 +553,14 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Richard Gick]]
 - [[Robert-Bjork]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Sequestered Problem Solving]]
-- [[Situated-Cognition|Situated Cognition]]
+- [[situated-cognition|Situated Cognition]]
 - [[Social Proof]]
-- [[Structure-Mapping-Theory|Structure-Mapping Theory]]
+- [[structure-mapping-theory|Structure-Mapping Theory]]
 - [[The Encoding Variability Calendar — Spacing Multi-Context Encoding Across Time]]
 - [[The Problem Registry — Designing a Problem-Indexed PKB Layer]]
-- [[Transfer-of-Learning|Transfer of Learning]]
+- [[transfer-of-learning|Transfer of Learning]]
 - [[Transfer-Appropriate Processing in Note Writing — How to Write Notes That Match How You Will Use Them]]
 - [[Tulving]]
 
@@ -568,14 +568,14 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Inert-Knowledge|Inert Knowledge]] | — | — | The Most Expensive Failure in Persona... | 122 |
-| 2 | [[Alfred-North-Whitehead|Alfred North Whitehead]] | — | — | The Most Expensive Failure in Persona... | 122 |
-| 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Most Expensive Failure in Persona... | 122 |
-| 4 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | The Most Expensive Failure in Persona... | 124 |
-| 5 | [[Educational-Psychology|Educational Psychology]] | — | — | The Most Expensive Failure in Persona... | 124 |
-| 6 | [[Situated-Cognition|Situated Cognition]] | — | — | The Most Expensive Failure in Persona... | 124 |
+| 1 | [[inert-knowledge|Inert Knowledge]] | — | — | The Most Expensive Failure in Persona... | 122 |
+| 2 | [[alfred-north-whitehead|Alfred North Whitehead]] | — | — | The Most Expensive Failure in Persona... | 122 |
+| 3 | [[personal-knowledge-base|Personal Knowledge Base]] | — | — | The Most Expensive Failure in Persona... | 122 |
+| 4 | [[transfer-of-learning|Transfer of Learning]] | — | — | The Most Expensive Failure in Persona... | 124 |
+| 5 | [[educational-psychology|Educational Psychology]] | — | — | The Most Expensive Failure in Persona... | 124 |
+| 6 | [[situated-cognition|Situated Cognition]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 7 | [[Encoding-Variability|Encoding Variability]] | — | — | The Most Expensive Failure in Persona... | 124 |
-| 8 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Most Expensive Failure in Persona... | 124 |
+| 8 | [[encoding-specificity|Encoding Specificity]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 9 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 10 | [[Dewey]] | — | — | The Most Expensive Failure in Persona... | 124 |
 | 11 | [[pragmatism]] | — | — | The Most Expensive Failure in Persona... | 124 |
@@ -588,35 +588,35 @@ extraction_summary:
 | 18 | [[Report 16]] | — | — | The Most Expensive Failure in Persona... | 130 |
 | 19 | [[Report 18]] | — | — | The Most Expensive Failure in Persona... | 130 |
 | 20 | [[Report 25]] | — | — | The Most Expensive Failure in Persona... | 130 |
-| 21 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Transfer of Learning: The Core Taxonomy | 141 |
+| 21 | [[transfer-of-learning|Transfer of Learning]] | — | — | Transfer of Learning: The Core Taxonomy | 141 |
 | 22 | [[Edward-Thorndike|Edward Thorndike]] | — | — | Transfer of Learning: The Core Taxonomy | 146 |
-| 23 | [[John-Bransford]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
+| 23 | [[john-bransford]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
 | 24 | [[Sequestered Problem Solving]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
 | 25 | [[Preparation-for-Future-Learning|Preparation for Future Learning]] | — | — | Transfer of Learning: The Core Taxonomy | 148 |
-| 26 | [[Situated-Cognition|Situated Cognition]] | — | — | Situated Cognition: Knowledge Is Neve... | 155 |
+| 26 | [[situated-cognition|Situated Cognition]] | — | — | Situated Cognition: Knowledge Is Neve... | 155 |
 | 27 | [[Jean Lave]] | — | — | Situated Cognition: Knowledge Is Neve... | 155 |
 | 28 | [[Etienne Wenger]] | — | — | Situated Cognition: Knowledge Is Neve... | 155 |
 | 29 | [[John Seely Brown]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
 | 30 | [[Allan-Collins|Allan Collins]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
 | 31 | [[Paul Duguid]] | — | — | Situated Cognition: Knowledge Is Neve... | 160 |
 | 32 | [[pragmatism]] | — | — | Situated Cognition: Knowledge Is Neve... | 163 |
-| 33 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Encoding Specificity and Encoding Var... | 167 |
+| 33 | [[encoding-specificity|Encoding Specificity]] | — | — | Encoding Specificity and Encoding Var... | 167 |
 | 34 | [[Encoding-Variability|Encoding Variability]] | — | — | Encoding Specificity and Encoding Var... | 167 |
-| 35 | [[Endel-Tulving]] | — | — | Encoding Specificity and Encoding Var... | 172 |
+| 35 | [[endel-tulving]] | — | — | Encoding Specificity and Encoding Var... | 172 |
 | 36 | [[Duncan-Godden|Duncan Godden]] | — | — | Encoding Specificity and Encoding Var... | 172 |
-| 37 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Encoding Specificity and Encoding Var... | 172 |
+| 37 | [[alan-baddeley|Alan Baddeley]] | — | — | Encoding Specificity and Encoding Var... | 172 |
 | 38 | [[Richard Gick]] | — | — | The Evidence for Transfer Failure | 196 |
 | 39 | [[Keith-Holyoak]] | — | — | The Evidence for Transfer Failure | 196 |
-| 40 | [[Dedre-Gentner|Dedre Gentner]] | — | — | The Evidence for Transfer Failure | 198 |
-| 41 | [[Structure-Mapping-Theory|Structure-Mapping Theory]] | — | — | The Evidence for Transfer Failure | 198 |
-| 42 | [[Situated-Cognition|Situated Cognition]] | — | — | The Evidence for Transfer Failure | 203 |
-| 43 | [[John-Bransford]] | — | — | What Facilitates Transfer: The Positi... | 212 |
+| 40 | [[dedre-gentner|Dedre Gentner]] | — | — | The Evidence for Transfer Failure | 198 |
+| 41 | [[structure-mapping-theory|Structure-Mapping Theory]] | — | — | The Evidence for Transfer Failure | 198 |
+| 42 | [[situated-cognition|Situated Cognition]] | — | — | The Evidence for Transfer Failure | 203 |
+| 43 | [[john-bransford]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 44 | [[Daniel-Schwartz|Daniel Schwartz]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 45 | [[Preparation-for-Future-Learning|Preparation for Future Learning]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 46 | [[Manu-Kapur]] | — | — | What Facilitates Transfer: The Positi... | 214 |
-| 47 | [[Productive-Failure|Productive Failure]] | — | — | What Facilitates Transfer: The Positi... | 214 |
+| 47 | [[productive-failure|Productive Failure]] | — | — | What Facilitates Transfer: The Positi... | 214 |
 | 48 | [[Analogical-Transfer|Analogical Transfer]] | — | — | Analogical Transfer: The Gateway to F... | 224 |
-| 49 | [[Structure-Mapping-Theory|Structure-Mapping Theory]] | — | — | Analogical Transfer: The Gateway to F... | 224 |
+| 49 | [[structure-mapping-theory|Structure-Mapping Theory]] | — | — | Analogical Transfer: The Gateway to F... | 224 |
 | 50 | [[Exploitative versus Exploratory Strategies]] | — | — | The Three-Layer Context Problem | 245 |
 | 51 | [[Report 07]] | — | — | The Three-Layer Context Problem | 247 |
 | 52 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]] | — | — | The Three-Layer Context Problem | 247 |
@@ -625,7 +625,7 @@ extraction_summary:
 | 55 | [[Reigeluth]] | — | — | The Return of Elaboration Theory | 254 |
 | 56 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Return of Elaboration Theory | 254 |
 | 57 | [[Kapur]] | — | — | The Productive Failure Mechanism | 263 |
-| 58 | [[Productive-Failure|Productive Failure]] | — | — | The Productive Failure Mechanism | 263 |
+| 58 | [[productive-failure|Productive Failure]] | — | — | The Productive Failure Mechanism | 263 |
 | 59 | [[Expected Value Theory]] | — | — | The Productive Failure Mechanism | 266 |
 | 60 | [[Mimetic Desire]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
 | 61 | [[Social Proof]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
@@ -640,7 +640,7 @@ extraction_summary:
 | 70 | [[Gentner]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 71 | [[Dewey]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 72 | [[Report-03]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
-| 73 | [[Schema-Theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
+| 73 | [[schema-theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
 | 74 | [[Report 03: Constructing Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
 | 75 | [[Report 06: The Science of Remembering]] | — | — | Phase VII: PKB Connections & Cross-Re... | 393 |
 | 76 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
@@ -694,32 +694,32 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Alan-Baddeley|Alan Baddeley]]
-- [[Alfred-North-Whitehead|Alfred North Whitehead]]
+- [[alan-baddeley|Alan Baddeley]]
+- [[alfred-north-whitehead|Alfred North Whitehead]]
 - [[Allan-Collins|Allan Collins]]
 - [[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]]
 - [[Analogical-Transfer|Analogical Transfer]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]]
 - [[Daniel-Schwartz|Daniel Schwartz]]
-- [[Dedre-Gentner|Dedre Gentner]]
+- [[dedre-gentner|Dedre Gentner]]
 - [[Dewey]]
 - [[Duncan-Godden|Duncan Godden]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Edward-Thorndike|Edward Thorndike]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Encoding-Specificity|Encoding Specificity]]
+- [[encoding-specificity|Encoding Specificity]]
 - [[Encoding-Variability|Encoding Variability]]
-- [[Endel-Tulving]]
+- [[endel-tulving]]
 - [[Etienne Wenger]]
 - [[Expected Value Theory]]
 - [[Exploitative versus Exploratory Strategies]]
 - [[Far Transfer in Expert Knowledge Domains — When Deep Expertise Helps and Hinders Cross-Domain Application]]
 - [[Gentner]]
-- [[Inert-Knowledge|Inert Knowledge]]
+- [[inert-knowledge|Inert Knowledge]]
 - [[Jean Lave]]
-- [[John-Bransford]]
+- [[john-bransford]]
 - [[John Seely Brown]]
 - [[Kapur]]
 - [[Keith-Holyoak]]
@@ -728,10 +728,10 @@ extraction_summary:
 - [[Mimetic Desire]]
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
-- [[Productive-Failure|Productive Failure]]
+- [[productive-failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]
 - [[Reigeluth]]
 - [[Report-03]]
@@ -753,14 +753,14 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Richard Gick]]
 - [[Robert-Bjork]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Sequestered Problem Solving]]
-- [[Situated-Cognition|Situated Cognition]]
+- [[situated-cognition|Situated Cognition]]
 - [[Social Proof]]
-- [[Structure-Mapping-Theory|Structure-Mapping Theory]]
+- [[structure-mapping-theory|Structure-Mapping Theory]]
 - [[The Encoding Variability Calendar — Spacing Multi-Context Encoding Across Time]]
 - [[The Problem Registry — Designing a Problem-Indexed PKB Layer]]
-- [[Transfer-of-Learning|Transfer of Learning]]
+- [[transfer-of-learning|Transfer of Learning]]
 - [[Transfer-Appropriate Processing in Note Writing — How to Write Notes That Match How You Will Use Them]]
 - [[Tulving]]
 

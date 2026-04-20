@@ -155,7 +155,7 @@ extraction_summary:
 #### 4. [DEFINITION] Untitled *(Line 287)*
 
 > [!definition] Untitled
-> **[[Preferred-Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[Eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
+> **[[Preferred-Indifferents]] (Greek: *proēgmena adiaphora*)**: The Stoic philosophical category for things that have genuine relative value — they are reasonable to prefer over their absence, and rational to pursue — but which are not constitutive of flourishing (*[[eudaimonia]]*) and whose loss should not disturb the equanimity of a person of good character. Health, wealth, comfort, reputation, and long life are all preferred indifferents. Their opposites — illness, poverty, discomfort, obscurity, early death — are dispreferred indifferents. Neither category contains genuine goods; genuine goods consist solely of virtue and its expressions.
 
 #### 5. [QUOTE] Untitled *(Line 294)*
 
@@ -203,7 +203,7 @@ extraction_summary:
 #### 12. [CONNECTION-IDEAS] Untitled *(Line 377)*
 
 > [!connection-ideas] Untitled
-> **Stoicism and [[Self-Determination-Theory]]**
+> **Stoicism and [[self-determination-theory]]**
 > 
 > The deepest bridge between Stoic philosophy and contemporary motivational psychology is the shared claim that genuine wellbeing flows from the quality of one's engagement with chosen activity — what the Stoics called living according to virtue and reason, and what SDT researchers call autonomous intrinsic motivation — rather than from the accumulation of external goods. Both frameworks predict that a person whose motivational architecture is oriented primarily around extrinsic goods (wealth, status, approval) will be chronically less satisfied than their circumstances seem to warrant, because they are on the hedonic treadmill; while a person whose motivational architecture is oriented around intrinsic goods (meaningful activity, competence development, authentic relationships) will be chronically more satisfied than their circumstances seem to warrant, because intrinsic motivations are not subject to the same adaptation dynamics.
 
@@ -245,7 +245,7 @@ extraction_summary:
 > 
 > **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline-of-Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 > 
-> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
+> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[virtue-ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
 #### 17. [PRACTICE] Untitled *(Line 440)*
 
@@ -429,21 +429,21 @@ extraction_summary:
 ### Unique Targets
 
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Crates of Thebes]]
+- [[Crates-of-Thebes]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
 - [[Dichotomy-of-Control]]
 - [[Diogenes of Sinope]]
 - [[Discipline-of-Desire]]
 - [[Epictetus]]
-- [[Eudaimonia]]
-- [[Hedonic-Adaptation]]
+- [[eudaimonia]]
+- [[hedonic-adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
 - [[Marcus-Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
 - [[Preferred-Indifferents]]
 - [[Prohairesis]]
-- [[Self-Determination-Theory]]
+- [[self-determination-theory]]
 - [[Self-Determination Theory and Intrinsic Motivation]]
 - [[Seneca]]
 - [[Stoicism]]
@@ -454,7 +454,7 @@ extraction_summary:
 - [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Zeno of Citium]]
 
 ### All Occurrences
@@ -472,27 +472,27 @@ extraction_summary:
 | 9 | [[Preferred-Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 10 | [[Prohairesis]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 11 | [[Discipline-of-Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
-| 12 | [[Hedonic-Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 270 |
+| 12 | [[hedonic-adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 270 |
 | 13 | [[Preferred-Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
-| 14 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
+| 14 | [[eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 15 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
 | 16 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
 | 17 | [[Diogenes of Sinope]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
-| 18 | [[Crates of Thebes]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
+| 18 | [[Crates-of-Thebes]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 19 | [[Zeno of Citium]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 20 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
 | 21 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
 | 22 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 310 |
 | 23 | [[Preferred-Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 330 |
 | 24 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 336 |
-| 25 | [[Hedonic-Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 366 |
-| 26 | [[Self-Determination-Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 375 |
-| 27 | [[Self-Determination-Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 378 |
+| 25 | [[hedonic-adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 366 |
+| 26 | [[self-determination-theory]] | — | — | Part 4: The Psychology Behind the Phi... | 375 |
+| 27 | [[self-determination-theory]] | — | — | Part 4: The Psychology Behind the Phi... | 378 |
 | 28 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 397 |
 | 29 | [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 404 |
 | 30 | [[Marcus-Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 410 |
 | 31 | [[Discipline-of-Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 430 |
-| 32 | [[Virtue-Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 432 |
+| 32 | [[virtue-ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 432 |
 | 33 | [[Preferred-Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 449 |
 | 34 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 462 |
 | 35 | [[Dichotomy-of-Control]] | — | — | Part 6: The Practice Architecture — A... | 475 |
@@ -539,21 +539,21 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Crates of Thebes]]
+- [[Crates-of-Thebes]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
 - [[Dichotomy-of-Control]]
 - [[Diogenes of Sinope]]
 - [[Discipline-of-Desire]]
 - [[Epictetus]]
-- [[Eudaimonia]]
-- [[Hedonic-Adaptation]]
+- [[eudaimonia]]
+- [[hedonic-adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
 - [[Marcus-Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
 - [[Preferred-Indifferents]]
 - [[Prohairesis]]
-- [[Self-Determination-Theory]]
+- [[self-determination-theory]]
 - [[Self-Determination Theory and Intrinsic Motivation]]
 - [[Seneca]]
 - [[Stoicism]]
@@ -564,7 +564,7 @@ extraction_summary:
 - [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Zeno of Citium]]
 
 ### Frontmatter Relationships
@@ -585,23 +585,23 @@ extraction_summary:
 - [[Chrysippus]]
 - [[Dichotomy-of-Control]]
 - [[Prohairesis]]
-- [[Virtue-Ethics]]
-- [[Eudaimonia]]
+- [[virtue-ethics]]
+- [[eudaimonia]]
 - [[Apatheia]]
 - [[Preferred-Indifferents]]
 - [[Meditatio Paupertatis]]
-- [[Hedonic-Adaptation]]
+- [[hedonic-adaptation]]
 - [[Voluntary Simplicity]]
 - [[Cynicism (Philosophy)]]
 - [[Epicureanism]]
 - [[Minimalism]]
-- [[Positive Psychology]]
-- [[Self-Determination-Theory]]
+- [[Positive-Psychology]]
+- [[self-determination-theory]]
 
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Ethics of Consumption]]
 - [[Ancient Philosophy]]
 

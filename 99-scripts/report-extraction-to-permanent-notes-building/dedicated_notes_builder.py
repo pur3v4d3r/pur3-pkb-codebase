@@ -55,9 +55,9 @@ if sys.stderr.encoding and sys.stderr.encoding.lower() != "utf-8":
 # ══════════════════════════════════════════════════════════════════════════════
 
 VAULT_ROOT = Path(r"D:\10_pur3v4d3r's-vault")
-EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-orginizing" / "_extractor-output"
+EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-organizing" / "_extractor-output"
 PERMANENT_NOTES_DIR = (
-    VAULT_ROOT / "999-report-orginizing"
+    VAULT_ROOT / "999-report-organizing"
     / "_permanent-notes" / "_permanent-notes"
 )
 PIPELINE_DIR = (

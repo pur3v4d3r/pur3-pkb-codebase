@@ -42,7 +42,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**: [[Andragogy]]
+> - **Key-Term**: [[andragogy]]
 > - **Definition**: Coined by Malcolm Knowles, describes methods of teaching adults who learn best through involvement and relevance to their existing roles and responsibilities. Adult learners bring extensive life experience to educational contexts, prefer self-directed learning opportunities, and are motivated by material's immediate applicability to real-world challenges they face.
 
 

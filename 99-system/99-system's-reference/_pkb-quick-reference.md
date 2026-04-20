@@ -427,7 +427,7 @@ Strikethrough-Orange
 `= this.due-date`
 ```
 > [!what-this-does]
-> Accesses [[YAML-Frontmatter]] or [[Inline-Fields]] from the **current page**. The `this` keyword references the active note's metadata.
+> Accesses [[yaml-frontmatter]] or [[Inline-Fields]] from the **current page**. The `this` keyword references the active note's metadata.
 ##### 2️⃣ **Link Field Access** (Other Pages)
 ```markdown
 `= [[Note-Name]].field-name`

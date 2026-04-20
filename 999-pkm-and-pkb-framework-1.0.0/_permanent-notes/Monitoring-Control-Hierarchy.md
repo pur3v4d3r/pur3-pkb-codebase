@@ -5,6 +5,7 @@
 title: "Monitoring-Control Hierarchy"
 aliases:
   - "Monitoring-Control Hierarchy"
+  - "Monitoring-Control-Hierarchy"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,24 +70,24 @@ narrower:
   []
 
 see-also:
-  - "[[John-H.-Flavell]]"
-  - "[[Ann-L.-Brown]]"
-  - "[[Gregory-Schraw]]"
-  - "[[Thomas-O.-Nelson|Thomas O. Nelson]]"
-  - "[[Efklides]]"
-  - "[[Metacognition]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[John-H.-Flavell]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Metacognition]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Knowledge-of-Cognition]]"
-  - "[[Regulation-of-Cognition]]"
-  - "[[Dunning-Kruger-Effect]]"
-  - "[[Working-Memory]]"
-  - "[[Gregory-Schraw]]"
+  - "[[john-h.-flavell|John-H.-Flavell]]"
+  - "[[ann-l.-brown|Ann-L.-Brown]]"
+  - "[[gregory-schraw|Gregory-Schraw]]"
+  - "[[thomas-o.-nelson|Thomas-O.-Nelson]]"
+  - "[[efklides|Efklides]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[john-h.-flavell|John-H.-Flavell]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[knowledge-of-cognition|Knowledge-of-Cognition]]"
+  - "[[regulation-of-cognition|Regulation-of-Cognition]]"
+  - "[[dunning-kruger-effect|Dunning-Kruger-Effect]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[gregory-schraw|Gregory-Schraw]]"
   - "[[declarative-metacognitive-knowledge]]"
   - "[[procedural-metacognitive-knowledge]]"
 
@@ -94,17 +95,17 @@ see-also:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Metacognition]]"
-  - "[[Memory-Systems]]"
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Levels-of-Processing-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[memory-systems|Memory-Systems]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Metacognitive-Calibration-Description-A-dedicated-foundational-repor|> [!topic-idea] [[Metacognitive-Calibration]]
+  - topic: "[[> [!topic-idea] [[metacognitive-calibration]]
 > **Description:** A dedicated foundational report on ]]"
     description: ""
     priority: medium
@@ -124,7 +125,7 @@ importance: high
 > 
 > **Boundary:** The Nelson-Narens model is a normative architecture — it specifies how the metacognitive system *could* operate optimally. It does not claim that actual metacognitive processing always achieves this architecture; indeed, the model has been productive precisely because it specifies failure modes: monitoring can be inaccurate, control can be miscalibrated, and the coupling between monitoring signals and control responses can be weak or absent.
 > 
-> **See also:** [[Metacognitive-Monitoring]], [[Metacognitive-Regulation]], [[Monitoring-Regulation-Coupling]], [[Monitoring-Control-Coupling]], [[The-Nelson-Narens-Monitoring-Control-Model]], [[Judgment-of-Learning]], [[Feeling-of-Knowing]]
+> **See also:** [[metacognitive-monitoring]], [[metacognitive-regulation]], [[monitoring-regulation-coupling]], [[monitoring-control-coupling]], [[the-nelson-narens-monitoring-control-model]], [[judgment-of-learning]], [[feeling-of-knowing]]
 
 ## Core Explanation
 
@@ -201,7 +202,7 @@ importance: high
 > 4.…
 
 > [!warning] **Key Distinction** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*
-> The Knowledge-Activation Gap implies that interventions targeting metacognitive knowledge exclusively — without simultaneously strengthening the coupling between monitoring signals and knowledge activation — will produce improvements in explicit strategy knowledge that do not transfer to spontaneous regulatory improvement. This has direct implications for the design of [[Metacognitive-Scaffolding]] and for the evaluation of metacognitive instruction programs: gains in explicit knowledge…
+> The Knowledge-Activation Gap implies that interventions targeting metacognitive knowledge exclusively — without simultaneously strengthening the coupling between monitoring signals and knowledge activation — will produce improvements in explicit strategy knowledge that do not transfer to spontaneous regulatory improvement. This has direct implications for the design of [[metacognitive-scaffolding]] and for the evaluation of metacognitive instruction programs: gains in explicit knowledge…
 
 > [!warning] **Key Distinction** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*
 > Practitioners implementing metacognitive knowledge interventions should be appropriately skeptical of linear translations from research to practice. The research base, while robust in its broad conclusions (metacognitive knowledge matters; it can be developed through instruction; explicit, embedded, conditional instruction is more effective than declarative-only transmission), is thinner at the level of specific implementation decisions. The gap between general principles and specific…
@@ -217,7 +218,7 @@ importance: high
 > [!person] **Gregory Schraw (1960s–)** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*
 > Schraw's contributions to metacognitive knowledge research have been primarily synthesizing and operationalizing. His 1994 Metacognitive Awareness Inventory (with Dennison) is the most widely used self-report measure of metacognitive knowledge in educational research. His 1995 theoretical synthesis with Moshman organized the field's conceptual frameworks, and his empirical work demonstrated that metacognitive knowledge predicts academic outcomes across domains after controlling for prior achievement.
 > 
-> **Lineage:** Builds on [[John-H.-Flavell|Flavell]] and [[Ann-L.-Brown|Brown]]; influenced by…
+> **Lineage:** Builds on [[john-h.-flavell|Flavell]] and [[ann-l.-brown|Brown]]; influenced by…
 
 > [!person] **Thomas O. Nelson & Louis Narens (1940s–/1940s–)** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*
 > Nelson and Narens's monitoring-control model (1990, 1994) constitutes the most precise computational-level account of how metacognitive processes interact with object-level cognition. Nelson's experimental program — developing the methodology for studying judgments of learning, feeling of knowing, and metacognitive control — provided the empirical foundation for the theoretical architecture that he and Narens formalized together.
@@ -229,7 +230,7 @@ importance: high
 > [!person] **Anastasia Efklides (1948–)** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*
 > Greek cognitive-educational psychologist whose Metacognitive and Affective Model of Self-Regulated Learning (MASRL) and systematic analysis of metacognitive feelings constitute the primary theoretical account of the phenomenological dimension of metacognitive processing. Efklides's contribution is the specification of metacognitive feelings as a distinct construct — online, affective, situationally generated — that bridges stored metacognitive knowledge and regulatory action.
 > 
-> **Lineage:** Builds on [[John-H.-Flavell|Flavell]]'s original inclusion of metacognitive experiences as a fourth…
+> **Lineage:** Builds on [[john-h.-flavell|Flavell]]'s original inclusion of metacognitive experiences as a fourth…
 
 > [!person] **Scott Paris, Marjorie Lipson & Karen Wixson (1980s)** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*
 > The Paris, Lipson, and Wixson (1983) paper is the primary source of the declarative-procedural-conditional knowledge taxonomy as applied to metacognitive knowledge and reading strategy instruction. Their work, grounded in the reading comprehension literature, extended the philosophical knowing-that/knowing-how distinction into the domain of metacognitive knowledge and introduced the conditional dimension as a theoretically and practically distinct type.
@@ -494,31 +495,31 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*:
-- [[Metacognition]]
-- [[Self-Regulated-Learning]]
-- [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
-- [[Metacognitive-Monitoring]]
-- [[Metacognitive-Calibration]]
-- [[Calibration]]
-- [[Fluency-Illusion]]
-- [[Elaborative-Interrogation]]
-- [[Schema-Theory]]
-- [[Cognitive-Load-Theory]]
+- [[metacognition|Metacognition]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[metacognitive-calibration|Metacognitive-Calibration]]
+- [[calibration|Calibration]]
+- [[fluency-illusion|Fluency-Illusion]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[schema-theory|Schema-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
 
 **Cross-report connections** *(from [[metacognitive-knowledge-foundational-report-2026-03-31]])*:
-- [[Metacognition]]
-- [[Schema-Theory]]
-- [[Levels-of-Processing-Theory]]
-- [[Memory-Systems]]
-- [[Cognitive-Load-Theory]]
-- [[Self-Regulated-Learning]]
-- [[Metacognitive-Regulation]]
-- [[Elaborative-Interrogation]]
-- [[Comprehension-Monitoring]]
-- [[Growth-Mindset]]
+- [[metacognition|Metacognition]]
+- [[schema-theory|Schema-Theory]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[memory-systems|Memory-Systems]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[metacognitive-regulation|Metacognitive-Regulation]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[comprehension-monitoring|Comprehension-Monitoring]]
+- [[growth-mindset|Growth-Mindset]]
 
 **Related concepts:**
-[[John-H.-Flavell]] · [[Ann-L.-Brown]] · [[Gregory-Schraw]] · [[Thomas-O.-Nelson|Thomas O. Nelson]] · [[Efklides]] · [[Metacognition]] · [[Long-Term-Memory]] · [[Metacognitive-Regulation]] · [[John-H.-Flavell]] · [[Long-Term-Memory]] · [[Metacognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]] · [[Knowledge-of-Cognition]] · [[Regulation-of-Cognition]] · [[Dunning-Kruger-Effect]] · [[Working-Memory]] · [[Gregory-Schraw]] · [[declarative-metacognitive-knowledge]] · [[procedural-metacognitive-knowledge]] · [[conditional-metacognitive-knowledge]] · [[Long-Term-Memory]] · [[Declarative-Memory]] · [[Procedural-Knowledge]] · [[conditional-metacognitive-knowledge]] · [[Elaborative-Interrogation]] · [[Metacognitive-Strategy]] · [[Procedural-Knowledge]] · [[Comprehension-Monitoring]] · [[Metacognitive-Strategy]]
+[[john-h.-flavell|John-H.-Flavell]] · [[ann-l.-brown|Ann-L.-Brown]] · [[gregory-schraw|Gregory-Schraw]] · [[thomas-o.-nelson|Thomas-O.-Nelson]] · [[efklides|Efklides]] · [[metacognition|Metacognition]] · [[long-term-memory|Long-Term-Memory]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[john-h.-flavell|John-H.-Flavell]] · [[long-term-memory|Long-Term-Memory]] · [[metacognition|Metacognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[knowledge-of-cognition|Knowledge-of-Cognition]] · [[regulation-of-cognition|Regulation-of-Cognition]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[working-memory|Working-Memory]] · [[gregory-schraw|Gregory-Schraw]] · [[declarative-metacognitive-knowledge]] · [[procedural-metacognitive-knowledge]] · [[conditional-metacognitive-knowledge]] · [[long-term-memory|Long-Term-Memory]] · [[declarative-memory|Declarative-Memory]] · [[procedural-knowledge|Procedural-Knowledge]] · [[conditional-metacognitive-knowledge]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[metacognitive-strategy|Metacognitive-Strategy]] · [[procedural-knowledge|Procedural-Knowledge]] · [[comprehension-monitoring|Comprehension-Monitoring]] · [[metacognitive-strategy|Metacognitive-Strategy]]
 
 ## References
 

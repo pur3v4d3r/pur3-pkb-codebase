@@ -39,7 +39,7 @@ These insights matter because they show that an examined life isn't about achiev
 
 ### In Report 01: The Inquiry Engine
 
-[[report-01-the-inquiry-engine|Report 01]] uses James's concept of **selective attention** to explain how inquiry begins: you must first *notice* what puzzles you before investigation can start. James's observation that "only a small part of our experience comes to us through our senses; the greater part is supplied from our own heads" explains why [[Aporia]] (felt difficulty) requires active mental engagement, not passive reception.
+[[report-01-the-inquiry-engine|Report 01]] uses James's concept of **selective attention** to explain how inquiry begins: you must first *notice* what puzzles you before investigation can start. James's observation that "only a small part of our experience comes to us through our senses; the greater part is supplied from our own heads" explains why [[aporia]] (felt difficulty) requires active mental engagement, not passive reception.
 
 The report also draws on James's famous definition: **"The art of being wise is the art of knowing what to overlook."** This frames inquiry not as absorbing everything, but as *selective attention* to what disrupts current understanding.
 
@@ -47,7 +47,7 @@ The report also draws on James's famous definition: **"The art of being wise is 
 
 ### In Report 03: The Motivated Mind
 
-[[report-03-the-motivated-mind|Report 03]] extensively uses James's chapter on habit to explain how [[Intrinsic-Motivation]] becomes sustainable through habit formation. James's insight that **"habit is the enormous flywheel of society"** shows why motivation systems work: initial effortful practice gradually becomes automatic enjoyment.
+[[report-03-the-motivated-mind|Report 03]] extensively uses James's chapter on habit to explain how [[intrinsic-motivation]] becomes sustainable through habit formation. James's insight that **"habit is the enormous flywheel of society"** shows why motivation systems work: initial effortful practice gradually becomes automatic enjoyment.
 
 The report integrates James's observation that habits operate below conscious awareness once established, explaining how skilled activities can become intrinsically rewarding—the effortfulness disappears and only the positive experience remains.
 
@@ -63,8 +63,8 @@ This reframes self-directed learning: it's not about heroic self-discipline but 
 
 ## 🎯 Key Concepts
 
-- **[[Stream-of-Consciousness]]**: James's metaphor for experience as continuous flow rather than discrete thoughts; consciousness is like a stream that flows without breaks
-- **[[Selective-Attention]]**: "My experience is what I agree to attend to"—we actively construct experience by choosing attentional focus
+- **[[stream-of-consciousness]]**: James's metaphor for experience as continuous flow rather than discrete thoughts; consciousness is like a stream that flows without breaks
+- **[[selective-attention]]**: "My experience is what I agree to attend to"—we actively construct experience by choosing attentional focus
 - **[[habit]]**: Automated action patterns that free consciousness for novel challenges; "habit is the enormous flywheel of society"
 - **[[Voluntary Attention]]**: The ability to sustain attention on chosen objects even when they're not intrinsically interesting; the foundation of will
 - **[[plasticity]]**: The brain's capacity for permanent modification through experience; neurological basis for habit formation

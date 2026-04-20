@@ -30,7 +30,7 @@ link-up:
   - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-25|Daily-Note]]"
-  - "[[Cognitive-Restructuring#---frontmatter---]]"
+  - "[[cognitive-restructuring#---frontmatter---]]"
 status: active
 
 
@@ -145,7 +145,7 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Metacognition]]
+- [[metacognition]]
 - [[pragmatism]]
 - [[Dichotomy-of-Control]]
 

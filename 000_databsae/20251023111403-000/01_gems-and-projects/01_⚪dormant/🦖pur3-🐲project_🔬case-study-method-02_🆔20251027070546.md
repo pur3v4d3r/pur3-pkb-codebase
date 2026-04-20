@@ -230,7 +230,7 @@ id: prompt-block-🆔20251027070546
     > - {{List the key sources (investigative reports, books, articles, documentaries) used to build the case file. Provide formatted links where possible.}}
 
     > [!related-topics-to-consider]
-    > - {{Insert links to other notes or topics. *Example: [[Decision-Making]], [[Cognitive-Biases]], [[Risk-Management]], [[Ethics]]*}}
+    > - {{Insert links to other notes or topics. *Example: [[decision-making]], [[cognitive-biases]], [[Risk-Management]], [[Ethics]]*}}
 
     ***
 </output_structure>

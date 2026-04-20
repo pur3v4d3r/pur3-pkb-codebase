@@ -21,7 +21,7 @@ link-up:
 link-related:
   - "[[2025-11-21|Daily-Note]]"
   - "[[Automatic Thoughts]]"
-  - "[[Default Mode Network]]"
+  - "[[Default-Mode-Network]]"
   - "[[Cognitive Processes]]"
   - "[[cognitive-psychology]]"
 maturity: seedling

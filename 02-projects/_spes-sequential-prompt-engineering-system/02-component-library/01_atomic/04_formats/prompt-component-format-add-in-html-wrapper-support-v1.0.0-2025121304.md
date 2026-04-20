@@ -6,7 +6,7 @@ version: "1.0.0"
 rating: "0.0"
 source: "claude-opus-4.1"
 title: "Modular Prompt Component: Semantic HTML Color Coding System"
-description: "This is a **plug-and-play prompt module** designed for integration into existing [[LLM]] prompt architectures. When activated, it instructs the model to apply semantic color coding using inline HTML `<span>` wrappers, creating visual hierarchy and categorical encoding that persists in [[Obsidian]]'s Reading Mode and exports."
+description: "This is a **plug-and-play prompt module** designed for integration into existing [[LLM]] prompt architectures. When activated, it instructs the model to apply semantic color coding using inline HTML `<span>` wrappers, creating visual hierarchy and categorical encoding that persists in [[obsidian]]'s Reading Mode and exports."
 key-takeaway: "Custimization Options"
 last-used: "[[2025-12-13]]"
 tags:
@@ -101,7 +101,7 @@ link-related:
 
 ---
 > [!abstract] Module Purpose
-> This is a **plug-and-play prompt module** designed for integration into existing [[LLM]] prompt architectures. When activated, it instructs the model to apply semantic color coding using inline HTML `<span>` wrappers, creating visual hierarchy and categorical encoding that persists in [[Obsidian]]'s Reading Mode and exports.
+> This is a **plug-and-play prompt module** designed for integration into existing [[LLM]] prompt architectures. When activated, it instructs the model to apply semantic color coding using inline HTML `<span>` wrappers, creating visual hierarchy and categorical encoding that persists in [[obsidian]]'s Reading Mode and exports.
 
 ---
 
@@ -231,7 +231,7 @@ Prompt-Component-Version: 1.0.0
 <semantic_color_system>
 ## 🎨 Semantic HTML Color Coding Protocol
 
-When generating content for [[Obsidian]] notes, Claude applies semantic color coding using inline HTML `<span>` elements to create visual hierarchy, categorical encoding, and information prioritization. This system transforms flat text into a **visually scannable knowledge artifact**.
+When generating content for [[obsidian]] notes, Claude applies semantic color coding using inline HTML `<span>` elements to create visual hierarchy, categorical encoding, and information prioritization. This system transforms flat text into a **visually scannable knowledge artifact**.
 
 <color_palette>
 ### Color Palette Specification
@@ -447,7 +447,7 @@ Color coding can be combined with `[**KEY**:: VALUE]` inline fields:
 **WITH WIKI-LINKS:**
 Apply color to the display text of wiki-links where appropriate:
 ```markdown
-See [[Cognitive-Load-Theory|<span style='color: #72FFF1;'>Cognitive Load Theory</span>]] for technical details.
+See [[cognitive-load-theory|<span style='color: #72FFF1;'>Cognitive Load Theory</span>]] for technical details.
 ```
 *Note: Some Obsidian versions may not render this correctly—test in your vault.*
 

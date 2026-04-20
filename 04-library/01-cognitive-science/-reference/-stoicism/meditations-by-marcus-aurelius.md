@@ -265,7 +265,7 @@ The hanging down of grapes—the brow of a lion, the froth of a foaming wild boa
 > **Historical Precedent**
 > Greatness does not exempt one from the physical laws of dissolution.
 
-[[Hippocrates]] having cured many sicknesses, fell sick himself and died. The Chaldeans and Astrologians having foretold the deaths of divers, were afterwards themselves surprised by the fates. [[Alexander]], and Pompeius, and Caius Cæsar… yet they themselves at last were fain to part with their own lives. [[Heraclitus]]… died afterwards all filled with water within, and all bedaubed with dirt and dung without. Lice killed [[Democritus]]; and [[Socrates]], another sort of vermin (*wicked ungodly men*).
+[[Hippocrates]] having cured many sicknesses, fell sick himself and died. The Chaldeans and Astrologians having foretold the deaths of divers, were afterwards themselves surprised by the fates. [[Alexander]], and Pompeius, and Caius Cæsar… yet they themselves at last were fain to part with their own lives. [[Heraclitus]]… died afterwards all filled with water within, and all bedaubed with dirt and dung without. Lice killed [[Democritus]]; and [[socrates]], another sort of vermin (*wicked ungodly men*).
 
 > [!reframing]
 > **The Outcome**
@@ -906,7 +906,7 @@ tags:
   - cognitive-science/reframing
   - source-material
 author: [[Marcus-Aurelius]]
-related: [[Fronto]], [[Socrates]], [[Stoic-Ethics]], [[Pancratium]]
+related: [[Fronto]], [[socrates]], [[Stoic-Ethics]], [[Pancratium]]
 ---
 
 > [!the-purpose]
@@ -1204,7 +1204,7 @@ tags:
   - cognitive-science/reframing
   - source-material
 author: [[{{Author_Name}}]]
-related: [[Concept_A]], [[Concept_B]]
+related: [[Concept-A]], [[Concept-B]]
 ### [2. FORMATTING RULES]
 - **Headers:** Convert simple numbers (I, II, III) into descriptive headers (e.g., `### I. The Discipline of Assent`).
 - **Bold (`**text**`):** Use STRICTLY for the "Punchline," the core axiom, or the imperative command within a paragraph. Do not over-bold.

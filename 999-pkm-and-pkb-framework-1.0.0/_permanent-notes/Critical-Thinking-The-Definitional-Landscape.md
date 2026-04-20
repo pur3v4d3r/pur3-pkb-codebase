@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,40 +69,40 @@ narrower:
   []
 
 see-also:
-  - "[[Paul-Elder-Framework]]"
-  - "[[Critical-Thinking]]"
-  - "[[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]]"
-  - "[[Intellectual-Standards]]"
-  - "[[Intellectual-Traits]]"
-  - "[[Bloom's-Taxonomy]]"
-  - "[[Delphi-Report]]"
-  - "[[Socratic-Method]]"
-  - "[[Dewey's-Reflective-Thinking]]"
-  - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Virtue-Epistemology]]"
-  - "[[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Intellectual-Standards]]"
-  - "[[Epistemic-Vigilance]]"
-  - "[[Epistemic-Cognition]]"
-  - "[[Intellectual-Traits]]"
-  - "[[Virtue-Epistemology]]"
-  - "[[Actively-Open-Minded-Thinking]]"
+  - "[[paul-elder-framework|Paul-Elder-Framework]]"
+  - "[[critical-thinking|Critical-Thinking]]"
+  - "[[the-elements-of-thought-fundamental-structures-of-reasoning|The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]]"
+  - "[[intellectual-standards|Intellectual-Standards]]"
+  - "[[intellectual-traits|Intellectual-Traits]]"
+  - "[[blooms-taxonomy|Bloom's-Taxonomy]]"
+  - "[[delphi-report|Delphi-Report]]"
+  - "[[socratic-method|Socratic-Method]]"
+  - "[[deweys-reflective-thinking|Dewey's-Reflective-Thinking]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[virtue-epistemology|Virtue-Epistemology]]"
+  - "[[the-elements-of-thought-fundamental-structures-of-reasoning|The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[intellectual-standards|Intellectual-Standards]]"
+  - "[[epistemic-vigilance|Epistemic-Vigilance]]"
+  - "[[epistemic-cognition|Epistemic-Cognition]]"
+  - "[[intellectual-traits|Intellectual-Traits]]"
+  - "[[virtue-epistemology|Virtue-Epistemology]]"
+  - "[[actively-open-minded-thinking|Actively-Open-Minded-Thinking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Dewey's-Reflective-Thinking]]"
-  - "[[Socratic-Method]]"
-  - "[[Delphi-Report]]"
+  - "[[deweys-reflective-thinking|Dewey's-Reflective-Thinking]]"
+  - "[[socratic-method|Socratic-Method]]"
+  - "[[delphi-report|Delphi-Report]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Weak-Sense-vs.-Strong-Sense-Critical-Thinking-Connection-Core-concep|> [!topic-idea] [[Weak-Sense-vs.-Strong-Sense-Critical-Thinking]]
+  - topic: "[[> [!topic-idea] [[weak-sense-vs.-strong-sense-critical-thinking]]
 > *Connection*: Core conceptual en]]"
     description: ""
     priority: medium
@@ -118,7 +118,7 @@ importance: high
 # Critical Thinking  The Definitional Landscape
 
 > [!definition] **Critical Thinking  The Definitional Landscape** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> [[Critical-Thinking]] has been defined in numerous ways across the philosophical, psychological, and educational literatures. [[John-Dewey]] (1910) defined [[Reflective-Thinking|reflective thought]] as "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends." [[Robert-Ennis]] (1987) offered the influential definition: "reasonable reflective thinking focused on deciding what to believe or do." The [[Delphi-Report|APA Delphi consensus]] ([[Peter-Facione]], 1990) characterized critical thinking as "purposeful, self-regulatory judgment which results in interpretation, analysis, evaluation, and inference, as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based." [[Paul-and-Elder]] (2001) defined critical thinking as "the art of analyzing and evaluating thinking with a view to improving it." Each definition emphasizes different dimensions — Dewey foregrounds the dispositional habit, Ennis the decisional function, Facione the self-regulatory judgment, and Paul-Elder the improvement orientation — yet all converge on the idea that thinking about thinking is the central mechanism.
+> [[critical-thinking]] has been defined in numerous ways across the philosophical, psychological, and educational literatures. [[john-dewey]] (1910) defined [[reflective-thinking|reflective thought]] as "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends." [[robert-ennis]] (1987) offered the influential definition: "reasonable reflective thinking focused on deciding what to believe or do." The [[delphi-report|APA Delphi consensus]] ([[Peter-Facione]], 1990) characterized critical thinking as "purposeful, self-regulatory judgment which results in interpretation, analysis, evaluation, and inference, as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based." [[paul-and-elder]] (2001) defined critical thinking as "the art of analyzing and evaluating thinking with a view to improving it." Each definition emphasizes different dimensions — Dewey foregrounds the dispositional habit, Ennis the decisional function, Facione the self-regulatory judgment, and Paul-Elder the improvement orientation — yet all converge on the idea that thinking about thinking is the central mechanism.
 
 ## Core Explanation
 
@@ -165,13 +165,13 @@ importance: high
 > Empirical grounding for distinctions between intelligence, reflective disposition, and rational thought quality.
 
 > [!analytical-insight] Key Insight *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> Paul's foundational claim is that critical thinking instruction that focuses exclusively on skills — identifying fallacies, evaluating argument structure, assessing evidence — without addressing the thinker's intellectual character and willingness to apply those skills to their own reasoning, produces not genuine critical thinkers but sophisticated sophists. Authentic critical thinking is inseparable from intellectual virtues: it requires [[Intellectual-Humility|intellectual humility]],…
+> Paul's foundational claim is that critical thinking instruction that focuses exclusively on skills — identifying fallacies, evaluating argument structure, assessing evidence — without addressing the thinker's intellectual character and willingness to apply those skills to their own reasoning, produces not genuine critical thinkers but sophisticated sophists. Authentic critical thinking is inseparable from intellectual virtues: it requires [[intellectual-humility|intellectual humility]],…
 
 > [!analytical-insight] Key Insight *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> Effective Paul-Elder implementation follows an **infusion model**: explicit critical thinking instruction embedded in regular disciplinary learning. Standalone critical thinking courses can build vocabulary and habits, but long-term development depends on sustained, distributed practice across contexts where learners repeatedly apply [[Intellectual-Standards]] to the [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|Elements of Thought]] within authentic domain reasoning.
+> Effective Paul-Elder implementation follows an **infusion model**: explicit critical thinking instruction embedded in regular disciplinary learning. Standalone critical thinking courses can build vocabulary and habits, but long-term development depends on sustained, distributed practice across contexts where learners repeatedly apply [[intellectual-standards]] to the [[the-elements-of-thought-fundamental-structures-of-reasoning|Elements of Thought]] within authentic domain reasoning.
 
 > [!analytical-insight] Key Insight *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> In mature Paul-Elder practice, thinkers continuously move through a recursive cycle: analyze reasoning structures (Elements), evaluate quality (Standards), detect dispositional distortion (Traits), revise reasoning, and re-evaluate. This recursive loop parallels self-regulatory cycles in [[Self-Regulated-Learning]] and metacognitive control in [[Metacognition]].
+> In mature Paul-Elder practice, thinkers continuously move through a recursive cycle: analyze reasoning structures (Elements), evaluate quality (Standards), detect dispositional distortion (Traits), revise reasoning, and re-evaluate. This recursive loop parallels self-regulatory cycles in [[self-regulated-learning]] and metacognitive control in [[metacognition]].
 
 ## Practical Implications
 
@@ -195,16 +195,16 @@ importance: high
 > [!person] **[[Linda-Elder]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
 > Co-developer and systematizer of the framework's pedagogical architecture. Contribution: translational clarity, instructor materials, and global dissemination.
 
-> [!person] **[[John-Dewey]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
+> [!person] **[[john-dewey]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
 > Precursor through [[Dewey's-Reflective-Thinking]] and pragmatist inquiry. Contribution: active, persistent, and careful consideration as habit of mind.
 
-> [!person] **[[Socrates]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> Foundational source through the [[Socratic-Method]] and [[Elenchus]]. Contribution: disciplined questioning and intellectual accountability.
+> [!person] **[[socrates]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
+> Foundational source through the [[socratic-method]] and [[elenchus]]. Contribution: disciplined questioning and intellectual accountability.
 
 > [!person] **[[Peter-Facione]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> Lead author of the [[Delphi-Report]], providing influential consensus definitions and skills/dispositions mapping in critical thinking assessment.
+> Lead author of the [[delphi-report]], providing influential consensus definitions and skills/dispositions mapping in critical thinking assessment.
 
-> [!person] **[[Robert-Ennis]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
+> [!person] **[[robert-ennis]]** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
 > Major definitional contributor emphasizing "reasonable reflective thinking focused on deciding what to believe or do."
 
 ## Conceptual Tensions
@@ -266,7 +266,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Connecting to Your Existing Knowledge** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> If you have engaged with foundational concepts in [[Metacognition|metacognition]], [[Self-Regulated-Learning|self-regulated learning]], or [[Virtue-Epistemology|virtue epistemology]], the Paul-Elder Framework will resonate as a practical instantiation of several principles you already understand. The framework's [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning|Elements of Thought]] function as a metacognitive map of reasoning — a systematic way to externalize and examine the structures that [[Metacognitive-Monitoring|metacognitive monitoring]] typically operates upon implicitly.…
+> If you have engaged with foundational concepts in [[metacognition|metacognition]], [[self-regulated-learning|self-regulated learning]], or [[virtue-epistemology|virtue epistemology]], the Paul-Elder Framework will resonate as a practical instantiation of several principles you already understand. The framework's [[the-elements-of-thought-fundamental-structures-of-reasoning|Elements of Thought]] function as a metacognitive map of reasoning — a systematic way to externalize and examine the structures that [[metacognitive-monitoring|metacognitive monitoring]] typically operates upon implicitly.…
 
 ## Active Reading Prompts
 
@@ -317,7 +317,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **The Elements as a Cognitive Debiasing Architecture** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> From a [[Cognitive-Bias|cognitive science perspective]], the Elements of Thought function as a systematic [[Debiasing-Interventions|debiasing architecture]] — though Paul and Elder did not frame them in these terms. Each element corresponds to a known failure mode in human reasoning. The explicit examination of *purpose* counters [[Motivated-Reasoning|motivated reasoning]] by forcing the thinker to articulate what they are actually trying to achieve. Scrutinizing *assumptions* directly addresses the [[Confirmation-Bias|confirmation bias]] by surfacing the unstated premises that bias typically…
+> From a [[cognitive-bias|cognitive science perspective]], the Elements of Thought function as a systematic [[Debiasing-Interventions|debiasing architecture]] — though Paul and Elder did not frame them in these terms. Each element corresponds to a known failure mode in human reasoning. The explicit examination of *purpose* counters [[motivated-reasoning|motivated reasoning]] by forcing the thinker to articulate what they are actually trying to achieve. Scrutinizing *assumptions* directly addresses the [[confirmation-bias|confirmation bias]] by surfacing the unstated premises that bias typically…
 
 > [!claude-insight] **The Gateway Standard Problem** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
 > Paul and Elder's identification of **clarity** as the "gateway standard" — the standard that must be satisfied before any other standard can be meaningfully applied — reveals an important epistemic principle that has parallels in analytic philosophy and cognitive science. You cannot evaluate the accuracy of a claim you do not understand. You cannot assess the relevance of information whose meaning is opaque. This hierarchical relationship among standards means that the most fundamental failure in reasoning is often not logical error or factual inaccuracy but communicative failure — the…
@@ -453,39 +453,39 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*:
-- [[Socratic-Method]]
-- [[Dewey's-Reflective-Thinking]]
-- [[Critical-Thinking]]
-- [[Argumentation-Theory]]
-- [[Metacognition]]
-- [[Virtue-Epistemology]]
+- [[socratic-method|Socratic-Method]]
+- [[deweys-reflective-thinking|Dewey's-Reflective-Thinking]]
+- [[critical-thinking|Critical-Thinking]]
+- [[argumentation-theory|Argumentation-Theory]]
+- [[metacognition|Metacognition]]
+- [[virtue-epistemology|Virtue-Epistemology]]
 
 **Cross-report connections** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*:
-- [[Critical-Thinking-in-Education]]
-- [[Critical-Thinking-in-Decision-Making]]
-- [[Critical-Thinking-in-Problem-Solving]]
-- [[Critical-Thinking-in-Communication]]
-- [[Assessment-Design]]
-- [[Self-Regulated-Learning]]
+- [[critical-thinking-in-education|Critical-Thinking-in-Education]]
+- [[critical-thinking-in-decision-making|Critical-Thinking-in-Decision-Making]]
+- [[critical-thinking-in-problem-solving|Critical-Thinking-in-Problem-Solving]]
+- [[critical-thinking-in-communication|Critical-Thinking-in-Communication]]
+- [[assessment-design|Assessment-Design]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
 
 **Cross-report connections** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*:
-- [[Bloom's-Taxonomy]]
-- [[Revised-Bloom's-Taxonomy-Anderson-&-Krathwohl]]
-- [[Webb's-Depth-of-Knowledge]]
-- [[Delphi-Report]]
-- [[Informal-Logic-and-Logical-Fallacies]]
-- [[Argument-Analysis]]
+- [[blooms-taxonomy|Bloom's-Taxonomy]]
+- [[revised-blooms-taxonomy-anderson-krathwohl|Revised-Bloom's-Taxonomy-Anderson-&-Krathwohl]]
+- [[webbs-depth-of-knowledge|Webb's-Depth-of-Knowledge]]
+- [[delphi-report|Delphi-Report]]
+- [[informal-logic-and-logical-fallacies|Informal-Logic-and-Logical-Fallacies]]
+- [[argument-analysis|Argument-Analysis]]
 
 **Cross-report connections** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*:
-- [[Actively-Open-Minded-Thinking]]
-- [[Epistemic-Vigilance]]
-- [[Cognitive-Biases-and-Debiasing-Strategies]]
-- [[Epistemic-Cognition]]
-- [[Far-Transfer]]
-- [[Critical-Thinking-Pedagogy]]
+- [[actively-open-minded-thinking|Actively-Open-Minded-Thinking]]
+- [[epistemic-vigilance|Epistemic-Vigilance]]
+- [[cognitive-biases-and-debiasing-strategies|Cognitive-Biases-and-Debiasing-Strategies]]
+- [[epistemic-cognition|Epistemic-Cognition]]
+- [[far-transfer|Far-Transfer]]
+- [[critical-thinking-pedagogy|Critical-Thinking-Pedagogy]]
 
 **Related concepts:**
-[[Paul-Elder-Framework]] · [[Critical-Thinking]] · [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]] · [[Intellectual-Standards]] · [[Intellectual-Traits]] · [[Bloom's-Taxonomy]] · [[Delphi-Report]] · [[Socratic-Method]] · [[Dewey's-Reflective-Thinking]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Virtue-Epistemology]] · [[The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]] · [[Metacognitive-Monitoring]] · [[Intellectual-Standards]] · [[Epistemic-Vigilance]] · [[Epistemic-Cognition]] · [[Intellectual-Traits]] · [[Virtue-Epistemology]] · [[Actively-Open-Minded-Thinking]] · [[Paul-Elder-Framework]] · [[Socrates]] · [[Elenchus]] · [[Critical-Thinking]] · [[Reasoning]] · [[Critical-Thinking]] · [[John-Dewey]] · [[Reflective-Thinking]] · [[Robert-Ennis]] · [[Delphi-Report]]
+[[paul-elder-framework|Paul-Elder-Framework]] · [[critical-thinking|Critical-Thinking]] · [[the-elements-of-thought-fundamental-structures-of-reasoning|The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]] · [[intellectual-standards|Intellectual-Standards]] · [[intellectual-traits|Intellectual-Traits]] · [[blooms-taxonomy|Bloom's-Taxonomy]] · [[delphi-report|Delphi-Report]] · [[socratic-method|Socratic-Method]] · [[deweys-reflective-thinking|Dewey's-Reflective-Thinking]] · [[metacognition|Metacognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[virtue-epistemology|Virtue-Epistemology]] · [[the-elements-of-thought-fundamental-structures-of-reasoning|The-Elements-of-Thought-Fundamental-Structures-of-Reasoning]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[intellectual-standards|Intellectual-Standards]] · [[epistemic-vigilance|Epistemic-Vigilance]] · [[epistemic-cognition|Epistemic-Cognition]] · [[intellectual-traits|Intellectual-Traits]] · [[virtue-epistemology|Virtue-Epistemology]] · [[actively-open-minded-thinking|Actively-Open-Minded-Thinking]] · [[paul-elder-framework|Paul-Elder-Framework]] · [[socrates|Socrates]] · [[elenchus|Elenchus]] · [[critical-thinking|Critical-Thinking]] · [[reasoning|Reasoning]] · [[critical-thinking|Critical-Thinking]] · [[john-dewey|John-Dewey]] · [[reflective-thinking|Reflective-Thinking]] · [[robert-ennis|Robert-Ennis]] · [[delphi-report|Delphi-Report]]
 
 ## References
 
@@ -509,7 +509,7 @@ importance: high
 ## Methodology Notes
 
 > [!methodology-and-sources] **Intellectual Lineage and Theoretical Positioning** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
-> The Paul-Elder Framework draws from multiple intellectual traditions: the [[Socratic-Method|Socratic tradition]] of elenctic inquiry and intellectual virtue; [[John-Dewey|Dewey's]] pragmatist emphasis on [[Reflective-Thinking|reflective thinking]] as a learnable habit; the informal logic movement's focus on natural-language argumentation; and, implicitly, the Aristotelian tradition of [[Phronesis|phronesis]] (practical wisdom) as a cultivable excellence. Paul explicitly positioned his framework against what he saw as the reductionism of purely psychological approaches to critical thinking —…
+> The Paul-Elder Framework draws from multiple intellectual traditions: the [[socratic-method|Socratic tradition]] of elenctic inquiry and intellectual virtue; [[john-dewey|Dewey's]] pragmatist emphasis on [[reflective-thinking|reflective thinking]] as a learnable habit; the informal logic movement's focus on natural-language argumentation; and, implicitly, the Aristotelian tradition of [[Phronesis|phronesis]] (practical wisdom) as a cultivable excellence. Paul explicitly positioned his framework against what he saw as the reductionism of purely psychological approaches to critical thinking —…
 
 > [!methodology-and-sources] **Evidence Typology for Paul-Elder Claims** *(from [[paul-elder-critical-thinking-framework-foundational-report-2026-04-01]])*
 > Claims about the framework typically draw from four evidence classes:

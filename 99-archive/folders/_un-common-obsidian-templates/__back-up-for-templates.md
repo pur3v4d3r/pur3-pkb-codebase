@@ -67,8 +67,8 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *What clicked for you? What was the "aha!" moment?*
 
 **Connection to Prior Knowledge:**
-- How does this relate to [[Concept X]] that you already understand?
-- How does this contrast with [[Concept Y]]?
+- How does this relate to [[Concept-X]] that you already understand?
+- How does this contrast with [[Concept-Y]]?
 
 ## 🎯 Practical Applications
 
@@ -115,7 +115,7 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *Last Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Structured learning documentation following [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Elaborative-Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
+**Template Purpose:** Structured learning documentation following [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[elaborative-interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
 
 **Key Features:** 
 - Confidence tracking for metacognitive awareness
@@ -128,7 +128,7 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 - Adjust review intervals based on your retention patterns
 - Modify confidence_level scale to match your assessment preferences
 - Add domain-specific sections (e.g., "Mathematical Formulation" for STEM topics)
-- Integrate with [[Anki]] export workflows for flashcard generation
+- Integrate with [[anki]] export workflows for flashcard generation
 
 ---
 
@@ -484,7 +484,7 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 *Review Completed: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Comprehensive weekly reflection combining [[GTD (Getting Things Done)]] principles, [[bullet journaling]] techniques, and [[Positive Psychology]] practices. Designed for holistic life review covering professional productivity, personal growth, and well-being.
+**Template Purpose:** Comprehensive weekly reflection combining [[GTD (Getting Things Done)]] principles, [[bullet journaling]] techniques, and [[Positive-Psychology]] practices. Designed for holistic life review covering professional productivity, personal growth, and well-being.
 
 **Key Features:**
 - Automatic week number calculation and date range generation
@@ -1269,7 +1269,7 @@ tags: [atomic, cosmology]
 - What could be tested, challenged, or expanded?  
 
 ## References
-- [[Source Note]] or citation details
+- [[source-note]] or citation details
 ```
 
 ### Scratchpad_Note_Pur3v4d3r
@@ -1725,7 +1725,7 @@ summary: "{{one-sentence-summary}}"
 - {{Personal observations or experiences}}
 
 ---
-**Related Notes**: [[Concept A]] | [[Concept B]] | [[Concept C]]  
+**Related Notes**: [[Concept-A]] | [[Concept-B]] | [[Concept C]]  
 **Project Context**: [[Project-Name]]  
 **Review Status**: Next review {{date}}
 ```

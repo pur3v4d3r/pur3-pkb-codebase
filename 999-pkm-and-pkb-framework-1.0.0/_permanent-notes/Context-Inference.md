@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,26 +73,26 @@ narrower:
   []
 
 see-also:
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Incidental-Learning]]"
-  - "[[Working-Memory]]"
-  - "[[Metacognition-in-Learning]]"
-  - "[[Semantic-Memory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Lexical-Automaticity]]"
-  - "[[Shallow-Processing]]"
-  - "[[Incidental-Learning]]"
-  - "[[Shallow-Processing]]"
-  - "[[Metacognition-in-Learning]]"
-  - "[[Situation-Models-in-Text-Comprehension]]"
-  - "[[Simple-View-of-Reading]]"
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Schema-Theory]]"
-  - "[[Situation-Models-in-Text-Comprehension]]"
-  - "[[Elaborative-Inference]]"
-  - "[[Advance-Organizers]]"
-  - "[[Schema-Theory]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[incidental-learning|Incidental-Learning]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[metacognition-in-learning|Metacognition-in-Learning]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[lexical-automaticity|Lexical-Automaticity]]"
+  - "[[shallow-processing|Shallow-Processing]]"
+  - "[[incidental-learning|Incidental-Learning]]"
+  - "[[shallow-processing|Shallow-Processing]]"
+  - "[[metacognition-in-learning|Metacognition-in-Learning]]"
+  - "[[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]"
+  - "[[simple-view-of-reading|Simple-View-of-Reading]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]"
+  - "[[elaborative-inference|Elaborative-Inference]]"
+  - "[[advance-organizers|Advance-Organizers]]"
+  - "[[schema-theory|Schema-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +104,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-A-dedicated-investigation-of-the-most-efficient-protocols-for-buildi|> [!topic-idea] [[A-dedicated-investigation-of-the-most-efficient-protocols-for-building-vocabular]]]]"
+  - topic: "[[> [!topic-idea] [[A-dedicated-investigation-of-the-most-efficient-protocols-for-building-vocabular]]]]"
     description: ""
     priority: medium
 
@@ -123,7 +123,7 @@ importance: high
 > 
 > **Boundary:** Context inference is probabilistic and error-prone. Studies consistently show that readers construct incorrect or overly vague inferences at high rates, particularly when the word's meaning is abstract, culturally specific, or when surrounding context is limited. A "helpful" context is one that narrows the semantic space sufficiently to produce a correct inference, not merely any context that surrounds the word.
 > 
-> **See also:** [[Schema-Theory]], [[Situation-Models-in-Text-Comprehension]], [[Elaborative-Inference]], [[Advance-Organizers]]
+> **See also:** [[schema-theory]], [[situation-models-in-text-comprehension]], [[elaborative-inference]], [[advance-organizers]]
 
 ## Core Explanation
 
@@ -174,7 +174,7 @@ importance: high
 > The comprehensive statement of the comprehensible input hypothesis — that acquisition is automatic given input at the right difficulty level (+i). This report's mechanistic account challenges Krashen's automaticity assumption while accepting the difficulty-band insight.
 
 > [!evidence] Supporting Evidence *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*
-> Foundational text for [[Dual-Coding-Theory]]. The prediction that words encoded with both verbal and imagistic representations will be more robustly acquired grounds the practical recommendation for elaborative inference during reading.
+> Foundational text for [[dual-coding-theory]]. The prediction that words encoded with both verbal and imagistic representations will be more robustly acquired grounds the practical recommendation for elaborative inference during reading.
 
 > [!analytical-insight] Key Insight *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*
 > Robust vocabulary acquisition from reading requires adequate quantity, depth, AND integration. The received wisdom focuses almost entirely on quantity (read more, encounter words more often). The evidence suggests that depth and integration are the rate-limiting factors — and that naturalistic reading conditions systematically suppress both.
@@ -192,7 +192,7 @@ importance: high
 > Here lies a genuine paradox that I do not believe has been named with sufficient precision in the acquisition literature. The ideal inferential context for vocabulary acquisition — a rich, semantically redundant text that provides multiple, converging cues to a word's meaning — is also a context in which the word can be processed very shallowly and still support adequate comprehension. Conversely, a sparse, ambiguous context that provides minimal cues to a word's meaning — which should force…
 
 > [!analytical-insight] Key Insight *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*
-> This analysis connects two previously described phenomena in a precise mechanistic chain. The Matthew Effect's context-quality asymmetry (Phase III) is mediated by cognitive load dynamics: strong readers, whose decoding and basic comprehension processes are highly automatised (see [[Lexical-Automaticity]]), carry lower intrinsic load per text unit and thus have more working memory capacity available for elaborative word processing. Weak readers, whose decoding is less automatised, face higher…
+> This analysis connects two previously described phenomena in a precise mechanistic chain. The Matthew Effect's context-quality asymmetry (Phase III) is mediated by cognitive load dynamics: strong readers, whose decoding and basic comprehension processes are highly automatised (see [[lexical-automaticity]]), carry lower intrinsic load per text unit and thus have more working memory capacity available for elaborative word processing. Weak readers, whose decoding is less automatised, face higher…
 
 > [!analytical-insight] Key Insight *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*
 > The same mechanism that makes fluent reading feel effortless — the rapid, automatic recognition of familiar word forms — creates systematic false positives in vocabulary self-assessment. A reader who has encountered "laconic" five times without attending to its meaning has a strong orthographic recognition trace but a minimal semantic representation. When this reader encounters "laconic" again, the fast, fluent recognition of the form generates a confidence signal that feels indistinguishable…
@@ -217,14 +217,14 @@ importance: high
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Fergus Craik (b. 1935) & Robert Lockhart (b. 1939)** *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*
-> Cognitive psychologists at the University of Toronto. Originators of [[Levels-of-Processing-Theory]] (1972), the most influential framework for understanding why some learning episodes produce durable memory and others do not.
+> Cognitive psychologists at the University of Toronto. Originators of [[levels-of-processing-theory]] (1972), the most influential framework for understanding why some learning episodes produce durable memory and others do not.
 > 
 > **Key Works:** Craik, F.I.M. & Lockhart, R.S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior*, 11, 671–684.
 > 
 > **Lineage:** Built on Atkinson-Shiffrin multi-store model but challenged its structural, capacity-based framework in favour of a process-based account. Influenced Craik's later work on…
 
 > [!person] **Keith Stanovich (b. 1950)** *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*
-> Cognitive psychologist and reading researcher at the University of Toronto. Originator of the Matthew Effect in reading (1986) and a major contributor to the empirical science of individual differences in reading development. Also known for his work on [[Dual-Process-Theory]] as applied to human rationality.
+> Cognitive psychologist and reading researcher at the University of Toronto. Originator of the Matthew Effect in reading (1986) and a major contributor to the empirical science of individual differences in reading development. Also known for his work on [[dual-process-theory]] as applied to human rationality.
 > 
 > **Key Works:** Stanovich, K.E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly*, 21, 360–407.
 > 
@@ -245,7 +245,7 @@ importance: high
 > **Relationship to Report:** The vocabulary threshold evidence in Phase III draws directly on Laufer's coverage ratio research.
 
 > [!person] **Charles Perfetti (b. 1942)** *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*
-> Cognitive psychologist at the University of Pittsburgh. Originator of [[Verbal-Efficiency-Theory]] (1985) and a major contributor to the cognitive science of reading comprehension. His work directly links the quality of lexical representations in memory to reading comprehension skill.
+> Cognitive psychologist at the University of Pittsburgh. Originator of [[verbal-efficiency-theory]] (1985) and a major contributor to the cognitive science of reading comprehension. His work directly links the quality of lexical representations in memory to reading comprehension skill.
 > 
 > **Key Works:** Perfetti, C.A. (1985). *Reading Ability*. Oxford University Press.
 > 
@@ -535,35 +535,35 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*:
-- [[Transfer-Appropriate-Processing]]
-- [[Situated-Learning]]
+- [[transfer-appropriate-processing|Transfer-Appropriate-Processing]]
+- [[situated-learning|Situated-Learning]]
 
 **Cross-report connections** *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Schema-Theory]]
-- [[Matthew-Effect-in-Reading]]
-- [[Dual-Coding-Theory]]
-- [[Situation-Models-in-Text-Comprehension]]
-- [[Self-Regulated-Learning]]
-- [[Spaced-Repetition-Systems]]
-- [[Desirable-Difficulties]]
-- [[Encoding-Specificity-Principle]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[matthew-effect-in-reading|Matthew-Effect-in-Reading]]
+- [[dual-coding-theory|Dual-Coding-Theory]]
+- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[spaced-repetition-systems|Spaced-Repetition-Systems]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[encoding-specificity-principle|Encoding-Specificity-Principle]]
 
 **Cross-report connections** *(from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Schema-Theory]]
-- [[Situation-Models-in-Text-Comprehension]]
-- [[Self-Regulated-Learning]]
-- [[Spaced-Repetition-Systems]]
-- [[Desirable-Difficulties]]
-- [[Incidental-Learning]]
-- [[Transfer-Appropriate-Processing]]
-- [[Matthew-Effect-in-Reading]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[spaced-repetition-systems|Spaced-Repetition-Systems]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[incidental-learning|Incidental-Learning]]
+- [[transfer-appropriate-processing|Transfer-Appropriate-Processing]]
+- [[matthew-effect-in-reading|Matthew-Effect-in-Reading]]
 
 **Related concepts:**
-[[Levels-of-Processing-Theory]] · [[Incidental-Learning]] · [[Working-Memory]] · [[Metacognition-in-Learning]] · [[Semantic-Memory]] · [[Long-Term-Memory]] · [[Lexical-Automaticity]] · [[Shallow-Processing]] · [[Incidental-Learning]] · [[Shallow-Processing]] · [[Metacognition-in-Learning]] · [[Situation-Models-in-Text-Comprehension]] · [[Simple-View-of-Reading]] · [[Schema-Theory]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Situation-Models-in-Text-Comprehension]] · [[Elaborative-Inference]] · [[Advance-Organizers]] · [[Schema-Theory]] · [[Levels-of-Processing-Theory]] · [[Dual-Coding-Theory]] · [[Matthew-Effect-in-Reading]] · [[Keith-Stanovich]] · [[Simple-View-of-Reading]] · [[Cognitive-Load-Theory]] · [[Working-Memory]] · [[Levels-of-Processing-Theory]] · [[Levels-of-Processing-Theory]] · [[Cognitive-Load-Theory]]
+[[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[incidental-learning|Incidental-Learning]] · [[working-memory|Working-Memory]] · [[metacognition-in-learning|Metacognition-in-Learning]] · [[semantic-memory|Semantic-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[lexical-automaticity|Lexical-Automaticity]] · [[shallow-processing|Shallow-Processing]] · [[incidental-learning|Incidental-Learning]] · [[shallow-processing|Shallow-Processing]] · [[metacognition-in-learning|Metacognition-in-Learning]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[schema-theory|Schema-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[schema-theory|Schema-Theory]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]] · [[elaborative-inference|Elaborative-Inference]] · [[advance-organizers|Advance-Organizers]] · [[schema-theory|Schema-Theory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[dual-coding-theory|Dual-Coding-Theory]] · [[matthew-effect-in-reading|Matthew-Effect-in-Reading]] · [[keith-stanovich|Keith-Stanovich]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]]
 
 ## References
 
@@ -588,7 +588,7 @@ importance: high
 **Recommended Sections:** The tiered vocabulary framework; the "robust instruction" principles; the evidence for depth-of-processing effects in direct instruction.
 - **Hulstijn, J.H. & Laufer, B. (2001). Some empirical evidence for the involvement load hypothesis in vocabulary acquisition. *Language Learning*, 51(3), 539–558.**: Empirical test of the involvement load hypothesis, which extends the levels-of-processing account to specify which vocabulary tasks produce the deepest encoding. Supports the depth-primary view of acquisition with direct experimental evidence.
 - **Krashen, S.D. (1982). *Principles and Practice in Second Language Acquisition*. Pergamon Press.**: The comprehensive statement of the comprehensible input hypothesis — that acquisition is automatic given input at the right difficulty level (+i). This report's mechanistic account challenges Krashen's automaticity assumption while accepting the difficulty-band insight.
-- **Paivio, A. (1971). *Imagery and Verbal Processes*. Holt, Rinehart & Winston.**: Foundational text for [[Dual-Coding-Theory]]. The prediction that words encoded with both verbal and imagistic representations will be more robustly acquired grounds the practical recommendation for elaborative inference during reading.
+- **Paivio, A. (1971). *Imagery and Verbal Processes*. Holt, Rinehart & Winston.**: Foundational text for [[dual-coding-theory]]. The prediction that words encoded with both verbal and imagistic representations will be more robustly acquired grounds the practical recommendation for elaborative inference during reading.
 
 *Citations sourced from [[vocabulary-acquisition-reading-focused-analysis-2026-03-28]]*
 

@@ -5,6 +5,7 @@
 title: "Earned Security"
 aliases:
   - "Earned Security"
+  - "Earned-Security"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -29,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +42,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,51 +66,51 @@ narrower:
   []
 
 see-also:
-  - "[[Self-Determination-Theory]]"
-  - "[[Edward-Deci]]"
-  - "[[Richard-Ryan]]"
-  - "[[Relatedness-Need]]"
-  - "[[Autonomy-Relatedness-Integration]]"
-  - "[[Attachment-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Organismic-Integration-Theory]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Internalization-Continuum]]"
-  - "[[Abraham-Maslow]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Basic-Psychological-Needs]]"
-  - "[[Organismic-Integration-Theory]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Attachment-Theory]]"
-  - "[[Self-Determination-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[relatedness-need|Relatedness-Need]]"
+  - "[[autonomy-relatedness-integration|Autonomy-Relatedness-Integration]]"
+  - "[[attachment-theory|Attachment-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[internalization-continuum|Internalization-Continuum]]"
+  - "[[abraham-maslow|Abraham-Maslow]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[attachment-theory|Attachment-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Organismic-Integration-Theory]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Interdependence-Theory-and-Motivational-Quality-Connection-Interdepe|> [!topic-idea] **[[Interdependence-Theory]] and Motivational Quality**
+  - topic: "[[> [!topic-idea] **[[Interdependence-Theory]] and Motivational Quality**
 > *Connection*: Interdepende]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-Implicit-Relationship-Motivation-Measures-Connection-The-absence-of|> [!topic-idea] **Implicit Relationship Motivation Measures**
+  - topic: "[[> [!topic-idea] **Implicit Relationship Motivation Measures**
 > *Connection*: The absence of validat]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-Terror-Management-Theory-and-Relationship-Motivation-Connection-Terr|> [!topic-idea] **[[Terror-Management-Theory]] and Relationship Motivation**
+  - topic: "[[> [!topic-idea] **[[Terror-Management-Theory]] and Relationship Motivation**
 > *Connection*: Terror ]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-Compassionate-vs-Self-Image-Goals-in-Relational-Motivation-Connectio|> [!topic-idea] **[[Compassionate-vs-Self-Image-Goals]] in Relational Motivation**
+  - topic: "[[> [!topic-idea] **[[Compassionate-vs-Self-Image-Goals]] in Relational Motivation**
 > *Connection*: C]]"
     description: ""
     priority: medium
@@ -125,7 +126,7 @@ importance: high
 # Earned Security
 
 > [!definition] **Earned Security** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
-> [[Adult-Attachment-Theory]] concept designating a pattern of secure adult attachment functioning achieved through reflective processing of insecure attachment history rather than through experiencing secure attachment from birth. Earned security is theoretically relevant for RMT because it suggests that internalization — the transformation from controlled to autonomous relational motivation — is possible at any developmental stage, not only in childhood. Therapeutic, romantic, and deep friendship relationships characterized by genuine autonomy-supportive responsiveness can provide the corrective relational experience enabling earned security development. *See also*: [[Secure-Attachment]], [[Internal-Working-Models]]
+> [[adult-attachment-theory]] concept designating a pattern of secure adult attachment functioning achieved through reflective processing of insecure attachment history rather than through experiencing secure attachment from birth. Earned security is theoretically relevant for RMT because it suggests that internalization — the transformation from controlled to autonomous relational motivation — is possible at any developmental stage, not only in childhood. Therapeutic, romantic, and deep friendship relationships characterized by genuine autonomy-supportive responsiveness can provide the corrective relational experience enabling earned security development. *See also*: [[secure-attachment]], [[internal-working-models]]
 
 ## Core Explanation
 
@@ -186,7 +187,7 @@ importance: high
 > A common misconception in reading RMT is to assume that autonomous relationship motivation requires conscious deliberation — that the person must actively think "I freely choose this relationship." In SDT's framework, autonomous motivation refers to the *functional* quality of the regulation, not its phenomenological explicitness. A person who is deeply autonomously motivated in their most important friendships is unlikely to consciously reflect on this constantly; the motivation is experienced…
 
 > [!warning] **Key Distinction** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
-> Research on [[Contingent-Self-Esteem]] across multiple domains (academic achievement, physical appearance, social acceptance) consistently demonstrates that basing one's self-worth on specific outcomes produces motivational volatility, heightened anxiety, and paradoxically poorer performance under pressure. Applied to relationships through RMT, self-worth contingent relationship motivation creates a relational trap: the person needs the relationship most urgently precisely when it is most…
+> Research on [[contingent-self-esteem]] across multiple domains (academic achievement, physical appearance, social acceptance) consistently demonstrates that basing one's self-worth on specific outcomes produces motivational volatility, heightened anxiety, and paradoxically poorer performance under pressure. Applied to relationships through RMT, self-worth contingent relationship motivation creates a relational trap: the person needs the relationship most urgently precisely when it is most…
 
 > [!warning] **Key Distinction** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
 > RMT's reliance on self-report motivational measures is a genuine methodological limitation. SDT's implicit motivation research tradition (McClelland, Koestner, & Weinberger, 1989) has demonstrated substantial dissociations between explicit and implicit motivational measures, with implicit measures often showing stronger and more behaviorally valid predictive relationships. The field of RMT research would benefit substantially from implicit association procedure adaptations applied to relational…
@@ -211,7 +212,7 @@ importance: high
 > RMT proposes that basic psychological needs are universal — they apply across cultures, relationship types, and developmental stages. Yet the specific behaviors constituting autonomy-supportive relational practice, the degree of disclosed inner life culturally sanctioned in close relationships, and the normative relationship interdependence structures vary substantially across cultures. This creates a tension: if the need for autonomy is universal but the behavioral expression of autonomy-supportive practice is culturally specific, then cross-cultural replication of RMT's behavioral…
 
 > [!tension] **Tension 2: How Much Autonomy Within Genuine Love?** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
-> RMT argues that genuine love involves supporting the partner's autonomy — including their independent relationships, activities, and self-expression even when these compete for time and energy with the couple relationship. But many cultural and philosophical traditions of love emphasize fusion, mutual dependency, and the partial dissolution of individual identity within the we. Is the [[Autonomy-Support]] imperative within close relationships genuinely universal, or does it reflect a particular (individualistic, WEIRD) cultural model of healthy relational functioning? Collectivist relational…
+> RMT argues that genuine love involves supporting the partner's autonomy — including their independent relationships, activities, and self-expression even when these compete for time and energy with the couple relationship. But many cultural and philosophical traditions of love emphasize fusion, mutual dependency, and the partial dissolution of individual identity within the we. Is the [[autonomy-support]] imperative within close relationships genuinely universal, or does it reflect a particular (individualistic, WEIRD) cultural model of healthy relational functioning? Collectivist relational…
 
 ## Open Questions
 
@@ -252,7 +253,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: What You Already Know** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
-> Before entering the technical domain of Relationship Motivation Theory, consider what you have likely already encountered in your knowledge base. If you have studied [[Self-Determination-Theory]] and its earlier mini-theories — particularly [[Basic-Psychological-Needs-Theory]], [[Cognitive-Evaluation-Theory]], and [[Organismic-Integration-Theory]] — you already possess the conceptual scaffolding that makes RMT interpretable. You know that SDT posits three universal [[Basic-Psychological-Needs]]: autonomy (the need to experience one's actions as self-endorsed), competence (the need for…
+> Before entering the technical domain of Relationship Motivation Theory, consider what you have likely already encountered in your knowledge base. If you have studied [[self-determination-theory]] and its earlier mini-theories — particularly [[basic-psychological-needs-theory]], [[cognitive-evaluation-theory]], and [[organismic-integration-theory]] — you already possess the conceptual scaffolding that makes RMT interpretable. You know that SDT posits three universal [[basic-psychological-needs]]: autonomy (the need to experience one's actions as self-endorsed), competence (the need for…
 
 ## Far Transfer Applications
 
@@ -299,7 +300,7 @@ importance: high
 > There is a cognitively seductive conflation of perceived partner responsiveness with perceived partner approval — and RMT's theoretical distinctness depends on resisting this conflation. Approval is inherently evaluative and conditional: it responds to performances, achievements, or managed presentations of self. A person whose partner responds primarily with approval (enthusiastic when the person succeeds, disappointed when they don't; pleased with certain behaviors, visibly withdrawn in response to others) has not experienced responsiveness in RMT's sense. Responsiveness in the deeper sense…
 
 > [!claude-insight] **The Asymmetry of Need Satisfaction and Frustration** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
-> One of the most theoretically important distinctions in BPNT that has direct relevance for RMT is the [[Satisfaction-Frustration-Asymmetry]]: need satisfaction and need frustration are not simply opposite ends of a single dimension but appear to operate through at least partially distinct psychological mechanisms. Need satisfaction contributes to active well-being — the experience of flourishing, vitality, and positive affect. Need frustration contributes to active ill-being — anxiety, depression, behavioral disengagement, and in chronic cases, pathological functioning. Relationships can…
+> One of the most theoretically important distinctions in BPNT that has direct relevance for RMT is the [[satisfaction-frustration-asymmetry]]: need satisfaction and need frustration are not simply opposite ends of a single dimension but appear to operate through at least partially distinct psychological mechanisms. Need satisfaction contributes to active well-being — the experience of flourishing, vitality, and positive affect. Need frustration contributes to active ill-being — anxiety, depression, behavioral disengagement, and in chronic cases, pathological functioning. Relationships can…
 
 > [!claude-insight] **The Paradox of Control in Close Relationships** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
 > The thread that runs most deeply through RMT's theoretical architecture — and that I find most illuminating for understanding relationship failure modes — is the [[Control-Paradox]] in close relationships. Control is often deployed in the service of maintaining the relationship: the partner who behaves in controlling ways toward their partner typically does so because they fear losing the relationship if they do not. The controlling behavior is, paradoxically, motivated by the desire to maintain connection. Yet RMT's analysis shows that this very controlling behavior — because it frustrates…
@@ -403,36 +404,36 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*:
-- [[Self-Determination-Theory]]
-- [[Basic-Psychological-Needs-Theory]]
-- [[Organismic-Integration-Theory]]
-- [[Causality-Orientations-Theory]]
-- [[Adult-Attachment-Theory]]
-- [[Internal-Working-Models]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]
+- [[organismic-integration-theory|Organismic-Integration-Theory]]
+- [[causality-orientations-theory|Causality-Orientations-Theory]]
+- [[adult-attachment-theory|Adult-Attachment-Theory]]
+- [[internal-working-models|Internal-Working-Models]]
 
 **Cross-report connections** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*:
-- [[Autonomy-Supportive-Therapy]]
-- [[Autonomy-Supportive-Teaching]]
-- [[Conditional-Regard]]
-- [[Perceived-Partner-Responsiveness]]
-- [[Need-Frustration]]
+- [[autonomy-supportive-therapy|Autonomy-Supportive-Therapy]]
+- [[autonomy-supportive-teaching|Autonomy-Supportive-Teaching]]
+- [[conditional-regard|Conditional-Regard]]
+- [[perceived-partner-responsiveness|Perceived-Partner-Responsiveness]]
+- [[need-frustration|Need-Frustration]]
 
 **Cross-report connections** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*:
-- [[Secure-Attachment]]
-- [[Interdependence-Theory]]
-- [[Positive-Regard]]
-- [[Ego-Involvement]]
-- [[Intrinsic-Motivation]]
-- [[Transfer-of-Learning]]
+- [[secure-attachment|Secure-Attachment]]
+- [[Interdependence-Theory|Interdependence-Theory]]
+- [[positive-regard|Positive-Regard]]
+- [[ego-involvement|Ego-Involvement]]
+- [[intrinsic-motivation|Intrinsic-Motivation]]
+- [[transfer-of-learning|Transfer-of-Learning]]
 
 **Cross-report connections** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*:
-- [[Cognitive-Evaluation-Theory]]
-- [[Self-Concordance]]
-- [[Contingent-Self-Esteem]]
-- [[Psychological-Safety]]
+- [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]
+- [[self-concordance|Self-Concordance]]
+- [[contingent-self-esteem|Contingent-Self-Esteem]]
+- [[psychological-safety|Psychological-Safety]]
 
 **Related concepts:**
-[[Self-Determination-Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[Relatedness-Need]] · [[Autonomy-Relatedness-Integration]] · [[Attachment-Theory]] · [[Self-Determination-Theory]] · [[Basic-Psychological-Needs-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Organismic-Integration-Theory]] · [[Basic-Psychological-Needs]] · [[Internalization-Continuum]] · [[Abraham-Maslow]] · [[Self-Determination-Theory]] · [[Self-Determination-Theory]] · [[Basic-Psychological-Needs]] · [[Organismic-Integration-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Attachment-Theory]] · [[Self-Determination-Theory]] · [[Self-Determination-Theory]] · [[Organismic-Meta-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Organismic-Integration-Theory]] · [[Causality-Orientations-Theory]] · [[Basic-Psychological-Needs-Theory]] · [[Relatedness-Need]] · [[Goal-Contents-Theory]] · [[Relationship-Motivation-Theory.md]] · [[Deci-and-Ryan]]
+[[self-determination-theory|Self-Determination-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[relatedness-need|Relatedness-Need]] · [[autonomy-relatedness-integration|Autonomy-Relatedness-Integration]] · [[attachment-theory|Attachment-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[internalization-continuum|Internalization-Continuum]] · [[abraham-maslow|Abraham-Maslow]] · [[self-determination-theory|Self-Determination-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[attachment-theory|Attachment-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[organismic-meta-theory|Organismic-Meta-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[causality-orientations-theory|Causality-Orientations-Theory]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[relatedness-need|Relatedness-Need]] · [[goal-contents-theory|Goal-Contents-Theory]] · [[relationship-motivation-theory.md|Relationship-Motivation-Theory.md]] · [[deci-and-ryan|Deci-and-Ryan]]
 
 ## References
 
@@ -467,7 +468,7 @@ importance: high
 ## Methodology Notes
 
 > [!methodology-and-sources] **RMT's Empirical Grounding** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
-> The empirical foundation for RMT draws on several streams of research. Studies by Deci and Ryan (2014) and subsequent collaborators including [[Maarten-Vansteenkiste]] and [[Bart-Soenens]] have examined motivational quality in close relationships using survey methods, experience sampling, and longitudinal designs. The perceived partner responsiveness construct draws heavily on Reis and colleagues' responsiveness research program, including the foundational work by Reis, Clark, and Holmes (2004). Cross-cultural evidence for RMT's core propositions has been examined in European, North American,…
+> The empirical foundation for RMT draws on several streams of research. Studies by Deci and Ryan (2014) and subsequent collaborators including [[maarten-vansteenkiste]] and [[bart-soenens]] have examined motivational quality in close relationships using survey methods, experience sampling, and longitudinal designs. The perceived partner responsiveness construct draws heavily on Reis and colleagues' responsiveness research program, including the foundational work by Reis, Clark, and Holmes (2004). Cross-cultural evidence for RMT's core propositions has been examined in European, North American,…
 
 > [!methodology-and-sources] **Research Methodology and Epistemic Transparency** *(from [[relationship-motivation-theory-foundational-report-2026-04-01]])*
 > **Generation Method**: This report was generated through Claude (Anthropic), using a multi-pass Chain of Density protocol for body section generation, Self-Consistency architecture selection (three candidate architectures evaluated before selection), and a planned Far Transfer extension. The content draws on trained knowledge of the Self-Determination Theory research literature through early 2025.

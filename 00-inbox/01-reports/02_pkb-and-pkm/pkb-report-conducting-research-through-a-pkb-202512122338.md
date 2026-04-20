@@ -374,7 +374,7 @@ aliases: [Research in PKB, PKB Research Workflow, Conducting Research in Obsidia
 # 🔬 The Architecture of Research: Conducting Systematic Inquiry Within Personal Knowledge Base
 
 > [!abstract]
-> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive-Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.
+> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[cognitive-science]] principles, and practical [[obsidian]] implementation strategies into an actionable research architecture.
 
 ---
 
@@ -384,7 +384,7 @@ aliases: [Research in PKB, PKB Research Workflow, Conducting Research in Obsidia
 
 Before diving into methodology, we must understand *why* a Personal Knowledge Base fundamentally transforms the research enterprise. Traditional research workflows treat information as something to be gathered, stored, and eventually deployed in a final product. This model—what we might call the **extraction paradigm**—positions the researcher as a miner excavating discrete nuggets of knowledge from sources, stockpiling them until enough material exists to construct an artifact like a paper, report, or thesis.
 
-The PKB paradigm inverts this relationship entirely. Rather than extracting information *from* sources *into* a product, the PKB researcher engages in what cognitive scientists call [[Distributed-Cognition]], where the boundaries between internal mental processes and external representational systems become productively blurred. Your PKB functions as an [[extended mind]]—a phrase coined by philosophers Andy Clark and David Chalmers to describe how external tools become genuine components of cognitive processing when properly integrated into thought workflows.
+The PKB paradigm inverts this relationship entirely. Rather than extracting information *from* sources *into* a product, the PKB researcher engages in what cognitive scientists call [[distributed-cognition]], where the boundaries between internal mental processes and external representational systems become productively blurred. Your PKB functions as an [[extended mind]]—a phrase coined by philosophers Andy Clark and David Chalmers to describe how external tools become genuine components of cognitive processing when properly integrated into thought workflows.
 
 > [!core-principle]
 > **The Fundamental Shift**
@@ -393,7 +393,7 @@ The PKB paradigm inverts this relationship entirely. Rather than extracting info
 
 This insight carries profound implications for how we design research workflows. If the PKB *is* understanding made visible, then every choice about note structure, linking strategy, and organizational architecture directly shapes the quality of your comprehension. A poorly designed research workflow doesn't merely slow you down—it actively constrains the depth and richness of insight you can achieve.
 
-The [[Metacognition]] literature strongly supports this view. Research by Thomas Nelson and Louis Narens established the foundational distinction between [[object-level cognition]] (thinking about a subject) and [[meta-level cognition]] (thinking about your thinking about a subject). Effective learning requires continuous oscillation between these levels—you must simultaneously engage with content while monitoring your comprehension, identifying gaps, and adjusting strategies accordingly.
+The [[metacognition]] literature strongly supports this view. Research by Thomas Nelson and Louis Narens established the foundational distinction between [[object-level cognition]] (thinking about a subject) and [[meta-level cognition]] (thinking about your thinking about a subject). Effective learning requires continuous oscillation between these levels—you must simultaneously engage with content while monitoring your comprehension, identifying gaps, and adjusting strategies accordingly.
 
 Here is where the PKB truly shines. When your knowledge exists as an explicit, navigable graph rather than implicit memory traces, metacognitive monitoring becomes dramatically more tractable. You can literally *see* what you know and don't know. Gaps appear as missing connections. Weak understanding manifests as thin, poorly-linked notes. The PKB transforms metacognition from introspective guesswork into observable system behavior.
 
@@ -490,7 +490,7 @@ The relationship between literature notes and [[Atomic-Notes]] (or [[Permanent-N
 
 [[Atomic-Notes]] represent the fundamental building blocks of PKB architecture. Each atomic note captures a single concept, claim, or insight in your own words, densely linked to related concepts. The term "atomic" emphasizes indivisibility—each note contains one and only one idea, expressed completely enough to stand alone.
 
-The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[Chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[George-Miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.
+The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[george-miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.
 
 Atomic notes serve as cognitive chunks. By packaging an idea into a self-contained note with a descriptive title, you create a manipulable unit that can be thought about as a single thing despite internal complexity. A web of atomic notes becomes a web of chunks, enabling cognition at scales impossible with unstructured information.
 
@@ -656,11 +656,11 @@ Research projects eventually conclude, but their value should persist. Good PKB 
 > [!connections-and-links]
 > **Integration with Existing Cognitive Frameworks**
 > 
-> **[[Self-Determination-Theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.
+> **[[self-determination-theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.
 > 
-> **[[Metacognition]]**: The externalized knowledge graph transforms metacognitive monitoring from introspection to observation—you can literally see your understanding structures and assess their quality.
+> **[[metacognition]]**: The externalized knowledge graph transforms metacognitive monitoring from introspection to observation—you can literally see your understanding structures and assess their quality.
 > 
-> **[[Cognitive-Load-Theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.
+> **[[cognitive-load-theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.
 > 
 > **[[Zettelkasten methodology]]**: This framework extends classical Zettelkasten principles with explicit project management structures and Obsidian-specific implementation strategies.
 > 
@@ -670,7 +670,7 @@ Research projects eventually conclude, but their value should persist. Good PKB 
 > 
 > **[[Knowledge-Graph-Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
 > 
-> **[[Distributed-Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
+> **[[distributed-cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
 
 ---
 

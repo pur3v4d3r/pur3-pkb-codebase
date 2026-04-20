@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,39 +73,49 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[John-Sweller|John Sweller]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Long-Term-Memory|Long-Term Memory]]"
-  - "[[Schema-Theory|Schema Theory]]"
-  - "[[Multimedia-Learning|Multimedia Learning]]"
-  - "[[Four-Component-Instructional-Design|Four-Component Instructional Design]]"
-  - "[[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]]"
-  - "[[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]"
-  - "[[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[john-sweller|John-Sweller]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[multimedia-learning|Multimedia-Learning]]"
+  - "[[four-component-instructional-design-4cid|Four-Component-Instructional-Design-4CID]]"
+  - "[[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[millers-magical-number-seven|Miller's-Magical-Number-Seven]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[schema|Schema]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Schema-Theory|Schema Theory]]"
-  - "[[Working-Memory|Working Memory]]"
-  - "[[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[millers-magical-number-seven|Miller's-Magical-Number-Seven]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[A-dedicated-Foundational-Report-on-transfer-would-be-one-of-the-highest-value-ad|A dedicated Foundational Report on transfer would be one of the highest-value additions to this PKB ]]"
+  - topic: "[[A dedicated Foundational Report on transfer would be one of the highest-value additions to this PKB ]]"
     description: ""
     priority: medium
-  - topic: "[[Mayer's-CTML-program-deserves-its-own-node-as-a-CLT-extension-focused-specifical|Mayer's CTML program deserves its own node as a CLT extension focused specifically on multimedia. A ]]"
+  - topic: "[[Mayer's CTML program deserves its own node as a CLT extension focused specifically on multimedia. A ]]"
     description: ""
     priority: medium
-  - topic: "[[The-expertise-reversal-effect-demands-adaptive-instruction,-but-how-to-build-sys|The expertise reversal effect demands adaptive instruction, but how to build systems that genuinely ]]"
+  - topic: "[[The expertise reversal effect demands adaptive instruction, but how to build systems that genuinely ]]"
     description: ""
     priority: medium
-  - topic: "[[Flagged-as-high-priority-from-the-Feedback-Design-report-and-of-direct-relevance|Flagged as high-priority from the Feedback Design report and of direct relevance to CLT: if managing]]"
+  - topic: "[[Flagged as high-priority from the Feedback Design report and of direct relevance to CLT: if managing]]"
     description: ""
     priority: medium
 
@@ -155,13 +165,13 @@ importance: high
 > An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
 
 > [!analytical-insight] Key Insight *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*
-> Effective instruction is instruction that manages the demands placed on [[Working-Memory]] such that cognitive resources are available for the processes that lead to [[Schema-Theory|schema]] formation and automation in [[Long-Term-Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
+> Effective instruction is instruction that manages the demands placed on [[working-memory|Working Memory]] such that cognitive resources are available for the processes that lead to [[schema|schema]] formation and automation in [[long-term-memory|Long-Term Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
 
 > [!analytical-insight] Key Insight *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*
-> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both…
+> The [[modality-effect|Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad.…
 
 > [!analytical-insight] Key Insight *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*
-> [[Worked-Examples]] reduce extraneous load by eliminating the goal-directed search process (means-ends analysis) that conventional problem solving imposes. When students solve problems by means-ends analysis — identify the goal, find the difference between current and goal state, apply operators to reduce that difference — they must hold the current state, the goal state, and potential operators simultaneously in working memory. This overhead consumes resources that could be devoted to noticing…
+> [[Worked-Examples|Worked Examples]] reduce extraneous load by eliminating the goal-directed search process (means-ends analysis) that conventional problem solving imposes. When students solve problems by means-ends analysis — identify the goal, find the difference between current and goal state, apply operators to reduce that difference — they must hold the current state, the goal state, and potential operators simultaneously in working memory. This overhead consumes resources that could be…
 
 ## Practical Implications
 
@@ -172,7 +182,7 @@ importance: high
 > (1) **Worked examples first**: For novices, begin with fully worked examples before introducing problem-solving practice. Use self-explanation prompts (ask learners to explain why each step was taken) to enhance schema formation from examples. (2) **Eliminate split attention**: Integrate mutually referring information sources; never require learners to search across separated sources. (3) **Avoid redundancy**: When information can be understood from one source, do not add a second that merely…
 
 > [!warning] **Key Distinction** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*
-> [[Cognitive-Load-Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation…
+> [[cognitive-load-theory|Cognitive Load Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a…
 
 ## Reflection Prompts
 
@@ -216,71 +226,15 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Growth-Mindset|Growth Mindset]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[metacognition-motivation|Metacognition-&-Motivation]]
+- [[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[growth-mindset-implicit-theories-of-intelligence|Growth-Mindset-Implicit-Theories-of-Intelligence]]
 
 **Related concepts:**
-[[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[John-Sweller|John Sweller]] · [[Working-Memory|Working Memory]] · [[Working-Memory|Working Memory]] · [[Long-Term-Memory|Long-Term Memory]] · [[Schema-Theory|Schema Theory]] · [[Schema-Theory|Schema Theory]] · [[Multimedia-Learning|Multimedia Learning]] · [[Four-Component-Instructional-Design|Four-Component Instructional Design]] · [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] · [[Schema-Theory|Schema Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Working-Memory|Working Memory]] · [[Long-Term-Memory|Long-Term Memory]] · [[Schema-Theory|Schema Theory]] · [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] · [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]] · [[Working-Memory|Working Memory]] · [[Schema-Theory|Schema Theory]] · [[Long-Term-Memory|Long-Term Memory]] · [[John-Sweller|John Sweller]] · [[Fred-Paas|Fred Paas]] · [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] · [[Element-Interactivity|Element Interactivity]] · [[Element-Interactivity|Element Interactivity]] · [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] · [[Schema-Theory|Schema Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[John-Sweller|John Sweller]]
-
-**Related concepts** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-[[Cognitive-Load-Theory|Cognitive Load Theory]] * [[John-Sweller|John Sweller]] * [[Working-Memory|Working Memory]] * [[Long-Term-Memory|Long-Term Memory]] * [[Schema-Theory|Schema Theory]] * [[Multimedia-Learning|Multimedia Learning]] * [[Four-Component-Instructional-Design|Four-Component Instructional Design]] * [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] * [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] * [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]] * [[Fred-Paas|Fred Paas]] * [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] * [[Element-Interactivity|Element Interactivity]] * [[Worked-Examples|Worked Examples]] * [[Worked-Example-Effect|Worked Example Effect]] * [[Split-Attention-Effect|Split-Attention Effect]] * [[Redundancy-Effect|Redundancy Effect]] * [[Modality-Effect|Modality Effect]] * [[Alan-Paivio|Alan Paivio]] * [[Dual-Coding-Theory|Dual Coding Theory]] * [[Expertise-Reversal-Effect|Expertise Reversal Effect]] * [[Sergei-Kalyuga|Sergei Kalyuga]] * [[Richard-Mayer|Richard Mayer]] * [[Automaticity|Automaticity]] * [[Completion-Problem-Effect|Completion Problem Effect]] * [[Adaptive-Instruction|Adaptive Instruction]] * [[e-Learning-Design|e-Learning Design]] * [[Daniel-Schwartz|Daniel Schwartz]] * [[Metacognition|Metacognition]] * [[Self-Regulated-Learning|Self-Regulated Learning]]
-
-**Cross-report connections** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
-- [[Schema-Theory|Schema-Theory]]
-- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
-- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
-
-**Related concepts** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-[[Cognitive-Load-Theory|Cognitive Load Theory]] * [[John-Sweller|John Sweller]] * [[Working-Memory|Working Memory]] * [[Long-Term-Memory|Long-Term Memory]] * [[Schema-Theory|Schema Theory]] * [[Multimedia-Learning|Multimedia Learning]] * [[Four-Component-Instructional-Design|Four-Component Instructional Design]] * [[Cognitive-Theory-of-Multimedia-Learning|Cognitive Theory of Multimedia Learning]] * [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] * [[Miller's-Magical-Number-Seven|Miller's Magical Number Seven]] * [[Fred-Paas|Fred Paas]] * [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] * [[Element-Interactivity|Element Interactivity]] * [[Worked-Examples|Worked Examples]] * [[Worked-Example-Effect|Worked Example Effect]] * [[Split-Attention-Effect|Split-Attention Effect]] * [[Redundancy-Effect|Redundancy Effect]] * [[Modality-Effect|Modality Effect]] * [[Alan-Paivio|Alan Paivio]] * [[Dual-Coding-Theory|Dual Coding Theory]] * [[Expertise-Reversal-Effect|Expertise Reversal Effect]] * [[Sergei-Kalyuga|Sergei Kalyuga]] * [[Richard-Mayer|Richard Mayer]] * [[Completion-Problem-Effect|Completion Problem Effect]] * [[Adaptive-Instruction|Adaptive Instruction]] * [[e-Learning-Design|e-Learning Design]] * [[Daniel-Schwartz|Daniel Schwartz]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognition-&-Motivation|Metacognition & Motivation]] * [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-
-**Cross-report connections** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Schema-Theory|Schema Theory]]
-- [[Metacognition-&-Motivation|Metacognition & Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
-- [[Achievement-Goal-Theory|Achievement Goal Theory]]
-
-**Cross-report connections** *(from [[cognitive-load-theory-foundational-report-2026-03-11]])*:
-- [[Cognitive-Load-Theory|Cognitive-Load-Theory]]
-- [[Schema-Theory|Schema-Theory]]
-- [[Metacognition-&-Motivation|Metacognition-&-Motivation]]
-- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback-Design-for-Autonomy-and-Mastery]]
-- [[Achievement-Goal-Theory|Achievement-Goal-Theory]]
-
-
-
-
-
-
-
-
+[[cognitive-load-theory|Cognitive-Load-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[john-sweller|John-Sweller]] · [[working-memory|Working-Memory]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[schema-theory|Schema-Theory]] · [[schema-theory|Schema-Theory]] · [[multimedia-learning|Multimedia-Learning]] · [[four-component-instructional-design-4cid|Four-Component-Instructional-Design-4CID]] · [[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]] · [[schema-theory|Schema-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[schema-theory|Schema-Theory]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[millers-magical-number-seven|Miller's-Magical-Number-Seven]] · [[working-memory|Working-Memory]] · [[schema|Schema]] · [[long-term-memory|Long-Term-Memory]] · [[john-sweller|John-Sweller]] · [[fred-paas|Fred-Paas]] · [[jeroen-van-merriënboer|Jeroen-van-Merriënboer]] · [[element-interactivity|Element-Interactivity]] · [[element-interactivity|Element-Interactivity]] · [[jeroen-van-merriënboer|Jeroen-van-Merriënboer]] · [[schema-theory|Schema-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[john-sweller|John-Sweller]]
 
 ## References
 
@@ -295,168 +249,6 @@ importance: high
 - **Schnotz, W., & Kürschner, C. (2007). A reconsideration of cognitive load theory. *Educational Psychology Review, 19*(4), 469–508.**: An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
 
 *Citations sourced from [[cognitive-load-theory-foundational-report-2026-03-11]]*
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
-
-- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
-
-- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
-
-- **Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.**: The comprehensive theoretical monograph providing the most up-to-date and complete statement of CLT, including the evolutionary perspective on biologically primary and secondary knowledge, the reconceptualization of germane load, and integration with contemporary cognitive science. The primary reference for the current form of the theory.
-
-- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The definitive statement of Mayer's Cognitive Theory of Multimedia Learning, derived from CLT principles and extending them specifically to the design of multimedia educational materials. Presents 12 evidence-based principles with experimental support. Essential companion to CLT for any work in digital or multimedia instructional design.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: The paper extending Baddeley's working memory model to include the episodic buffer — a component that integrates information across the phonological loop, visuospatial sketchpad, and long-term memory. This extension strengthens the theoretical basis for CLT's account of schema formation and multimedia processing.
-
-- **Schnotz, W., & Kürschner, C. (2007). A reconsideration of cognitive load theory. *Educational Psychology Review, 19*(4), 469–508.**: An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
-
-- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
-
-- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
-
-- **Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.**: The comprehensive theoretical monograph providing the most up-to-date and complete statement of CLT, including the evolutionary perspective on biologically primary and secondary knowledge, the reconceptualization of germane load, and integration with contemporary cognitive science. The primary reference for the current form of the theory.
-
-- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The definitive statement of Mayer's Cognitive Theory of Multimedia Learning, derived from CLT principles and extending them specifically to the design of multimedia educational materials. Presents 12 evidence-based principles with experimental support. Essential companion to CLT for any work in digital or multimedia instructional design.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: The paper extending Baddeley's working memory model to include the episodic buffer — a component that integrates information across the phonological loop, visuospatial sketchpad, and long-term memory. This extension strengthens the theoretical basis for CLT's account of schema formation and multimedia processing.
-
-- **Schnotz, W., & Kürschner, C. (2007). A reconsideration of cognitive load theory. *Educational Psychology Review, 19*(4), 469–508.**: An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
-
-- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
-
-- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
-
-- **Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.**: The comprehensive theoretical monograph providing the most up-to-date and complete statement of CLT, including the evolutionary perspective on biologically primary and secondary knowledge, the reconceptualization of germane load, and integration with contemporary cognitive science. The primary reference for the current form of the theory.
-
-- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The definitive statement of Mayer's Cognitive Theory of Multimedia Learning, derived from CLT principles and extending them specifically to the design of multimedia educational materials. Presents 12 evidence-based principles with experimental support. Essential companion to CLT for any work in digital or multimedia instructional design.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: The paper extending Baddeley's working memory model to include the episodic buffer — a component that integrates information across the phonological loop, visuospatial sketchpad, and long-term memory. This extension strengthens the theoretical basis for CLT's account of schema formation and multimedia processing.
-
-- **Schnotz, W., & Kürschner, C. (2007). A reconsideration of cognitive load theory. *Educational Psychology Review, 19*(4), 469–508.**: An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
-
-- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
-
-- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
-
-- **Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.**: The comprehensive theoretical monograph providing the most up-to-date and complete statement of CLT, including the evolutionary perspective on biologically primary and secondary knowledge, the reconceptualization of germane load, and integration with contemporary cognitive science. The primary reference for the current form of the theory.
-
-- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The definitive statement of Mayer's Cognitive Theory of Multimedia Learning, derived from CLT principles and extending them specifically to the design of multimedia educational materials. Presents 12 evidence-based principles with experimental support. Essential companion to CLT for any work in digital or multimedia instructional design.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: The paper extending Baddeley's working memory model to include the episodic buffer — a component that integrates information across the phonological loop, visuospatial sketchpad, and long-term memory. This extension strengthens the theoretical basis for CLT's account of schema formation and multimedia processing.
-
-- **Schnotz, W., & Kürschner, C. (2007). A reconsideration of cognitive load theory. *Educational Psychology Review, 19*(4), 469–508.**: An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
-
-- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
-
-- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
-
-- **Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.**: The comprehensive theoretical monograph providing the most up-to-date and complete statement of CLT, including the evolutionary perspective on biologically primary and secondary knowledge, the reconceptualization of germane load, and integration with contemporary cognitive science. The primary reference for the current form of the theory.
-
-- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The definitive statement of Mayer's Cognitive Theory of Multimedia Learning, derived from CLT principles and extending them specifically to the design of multimedia educational materials. Presents 12 evidence-based principles with experimental support. Essential companion to CLT for any work in digital or multimedia instructional design.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: The paper extending Baddeley's working memory model to include the episodic buffer — a component that integrates information across the phonological loop, visuospatial sketchpad, and long-term memory. This extension strengthens the theoretical basis for CLT's account of schema formation and multimedia processing.
-
-- **Schnotz, W., & Kürschner, C. (2007). A reconsideration of cognitive load theory. *Educational Psychology Review, 19*(4), 469–508.**: An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
-
-- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296.**: The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
-
-- **Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. *British Journal of Educational Psychology, 62*(2), 233–246.**: Key paper establishing the split-attention effect and its design implications. Demonstrates across multiple technical domains that physically integrating mutually referring sources improves learning relative to separated formats. Foundational for applying CLT to diagram and documentation design.
-
-- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31.**: The definitive review paper on the expertise reversal effect, synthesizing evidence across multiple experimental domains and elaborating the theoretical account in terms of schema development and the redundancy of guidance for expert learners. Introduces the adaptive instruction implication that is now central to CLT applications.
-
-- **Paas, F., & van Merriënboer, J. J. G. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. *Journal of Educational Psychology, 86*(1), 122–133.**: Establishes the variability effect — the finding that practice with varied worked examples produces better transfer than practice with similar examples — and introduces the instructional efficiency measure (combining performance and mental effort). Highly influential for both CLT theory and measurement methodology.
-
-- **Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.**: The comprehensive theoretical monograph providing the most up-to-date and complete statement of CLT, including the evolutionary perspective on biologically primary and secondary knowledge, the reconceptualization of germane load, and integration with contemporary cognitive science. The primary reference for the current form of the theory.
-
-- **Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.**: The definitive statement of Mayer's Cognitive Theory of Multimedia Learning, derived from CLT principles and extending them specifically to the design of multimedia educational materials. Presents 12 evidence-based principles with experimental support. Essential companion to CLT for any work in digital or multimedia instructional design.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417–423.**: The paper extending Baddeley's working memory model to include the episodic buffer — a component that integrates information across the phonological loop, visuospatial sketchpad, and long-term memory. This extension strengthens the theoretical basis for CLT's account of schema formation and multimedia processing.
-
-- **Schnotz, W., & Kürschner, C. (2007). A reconsideration of cognitive load theory. *Educational Psychology Review, 19*(4), 469–508.**: An important critical perspective on CLT, raising the germane load falsifiability problem and questioning whether the three-component taxonomy provides genuine theoretical advance over a simpler two-component model. Reading this critique alongside the primary CLT literature develops appropriate epistemic calibration about the theory's current status.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

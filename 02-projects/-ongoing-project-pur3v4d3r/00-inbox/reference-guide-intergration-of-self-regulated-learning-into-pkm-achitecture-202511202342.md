@@ -44,7 +44,7 @@ status: #stable
 # 🔄 Integration of Self-Regulated Learning (SRL) into PKM Architecture
 
 > [!abstract] Executive Summary
-> This note explores the architectural integration of **Self-Regulated Learning (SRL)** principles—specifically **Zimmerman’s Cyclical Phases**—into [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] systems. By embedding metacognitive feedback loops directly into the structure of tools like [[Obsidian]], a static repository is transformed into a dynamic, adaptive learning environment. This shift moves the user from passive information collection to active, goal-directed knowledge construction.
+> This note explores the architectural integration of **Self-Regulated Learning (SRL)** principles—specifically **Zimmerman’s Cyclical Phases**—into [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] systems. By embedding metacognitive feedback loops directly into the structure of tools like [[obsidian]], a static repository is transformed into a dynamic, adaptive learning environment. This shift moves the user from passive information collection to active, goal-directed knowledge construction.
 
 ## 1\. Theoretical Foundation: The Cyclical Nature of SRL
 
@@ -57,7 +57,7 @@ To design an effective [[Metacognitive Architecture]], one must first understand
       * *PKM Context:* Defining the "Why" before creating a note or starting a project. Setting metadata intent.
 2.  **Performance Phase (Action):**
       * *Processes:* Self-Control (focus strategies) and [[Self-Observation]] (metacognitive monitoring).
-      * *PKM Context:* The act of [[Atomic-Note]] creation, linking, and synthesizing.
+      * *PKM Context:* The act of [[atomic-note]] creation, linking, and synthesizing.
 3.  **Self-Reflection Phase (Post-Action):**
       * *Processes:* [[Self-Judgment]] (evaluating performance) and Self-Reaction (adaptive modification).
       * *PKM Context:* Reviewing the knowledge graph, spaced repetition, and refining workflows based on friction points.
@@ -81,7 +81,7 @@ We implement this in Obsidian through **Templates**, **Queries**, and **Rituals*
 
 ### Phase I: Architecting Forethought (The Setup)
 
-The goal here is to reduce [[Cognitive-Load]] during work by pre-loading intent.
+The goal here is to reduce [[cognitive-load]] during work by pre-loading intent.
 
 **Mechanism:** *The Daily Note Prelude & Project Templates*
 
@@ -104,7 +104,7 @@ A "Study Session" template that triggers Forethought:
 
 ### Phase II: Architecting Performance (Volitional Control)
 
-During the work, the system should minimize distraction and facilitate [[Metacognitive-Monitoring]] (tracking "Am I understanding this?").
+During the work, the system should minimize distraction and facilitate [[metacognitive-monitoring]] (tracking "Am I understanding this?").
 
 **Mechanism:** *Status Tags & Scaffolding*
 
@@ -207,7 +207,7 @@ To implement SRL in your Obsidian vault immediately:
 
 ## 🔗 Related Topics for PKB Expansion
 
-1.  **[[Metacognitive-Scaffolding]]**
+1.  **[[metacognitive-scaffolding]]**
 
       * *Connection:* How specific templates can act as "training wheels" for higher-order thinking.
       * *Depth Potential:* Explore how to fade scaffolds over time as skills improve.

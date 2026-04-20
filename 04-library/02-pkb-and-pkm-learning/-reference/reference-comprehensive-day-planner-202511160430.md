@@ -32,7 +32,7 @@ aliases: [Day Planner Plugin, Obsidian Timeboxing, Day Planner Guide, Time Block
 
 ## 📘 What is Day Planner?
 
-**Day Planner** is a [[Community Plugin]] for [[Obsidian]] that transforms your vault into a sophisticated time-management system through **timeboxing**—the practice of assigning specific time blocks to tasks rather than maintaining open-ended to-do lists. The plugin integrates editable calendar views, timeline visualizations, and basic time-tracking capabilities directly into your notes.
+**Day Planner** is a [[Community Plugin]] for [[obsidian]] that transforms your vault into a sophisticated time-management system through **timeboxing**—the practice of assigning specific time blocks to tasks rather than maintaining open-ended to-do lists. The plugin integrates editable calendar views, timeline visualizations, and basic time-tracking capabilities directly into your notes.
 
 > [!core-principle]
 > **The Philosophy of Timeboxing**

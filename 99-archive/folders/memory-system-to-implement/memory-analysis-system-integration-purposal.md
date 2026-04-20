@@ -30,7 +30,7 @@ link-up:
 link-related:
   - "[[2025-12-24|Daily-Note]]"
   - "[[context-window-management]]"
-  - "[[extended-cognition]]"
+  - "[[Extended-Cognition]]"
   - "[[external-memory-systems]]"
 status:
 ---
@@ -158,7 +158,7 @@ The system creates a <span style='color: #9E6CD3;'>**document-based knowledge st
 ### Improvement Opportunity
 
 > [!helpful-tip] Knowledge Graph Enhancement
-> Implementing [[Obsidian]]-style wiki-links within memory files would:
+> Implementing [[obsidian]]-style wiki-links within memory files would:
 > - Enable automatic relationship discovery
 > - Support semantic clustering of related decisions
 > - Create navigable knowledge graphs from accumulated context

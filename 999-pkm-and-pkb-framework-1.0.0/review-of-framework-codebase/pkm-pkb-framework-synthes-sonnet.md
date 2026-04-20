@@ -103,21 +103,21 @@ insights_generated: 8
 related_concepts:
   - "[[Cognitive-Alignment-Principle]]"
   - "[[Testing-Effect]]"
-  - "[[Desirable-Difficulties]]"
+  - "[[desirable-difficulties]]"
   - "[[Integration Problem]]"
   - "[[Tacit-Knowledge-Observatory]]"
   - "[[Epistemic Counterfeiting]]"
   - "[[Structural-Metacognition-Principle]]"
-  - "[[Integration-Metabolism]]"
+  - "[[integration-metabolism]]"
   - "[[Small-World-Networks]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Spaced-Repetition]]"
-  - "[[Virtue-Epistemology]]"
+  - "[[personal-knowledge-management]]"
+  - "[[personal-knowledge-base]]"
+  - "[[self-regulated-learning]]"
+  - "[[schema-theory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[desirable-difficulties]]"
+  - "[[spaced-repetition]]"
+  - "[[virtue-epistemology]]"
 
 expansion-topics:
   - topic: "[[PKM Implementation Guide for Obsidian]]"
@@ -237,15 +237,15 @@ graph TD
 
 **Key concepts and definitions:**
 
-[[Schema-Theory]] (Bartlett, Rumelhart) establishes that memory is not a recording but an interpretive construction: incoming information is assimilated into pre-existing cognitive frameworks (schemas), which determine both what is encoded and what is retrieved. The PKB implication: note architecture should support schema development by organizing around conceptual principles, not surface categories.
+[[schema-theory]] (Bartlett, Rumelhart) establishes that memory is not a recording but an interpretive construction: incoming information is assimilated into pre-existing cognitive frameworks (schemas), which determine both what is encoded and what is retrieved. The PKB implication: note architecture should support schema development by organizing around conceptual principles, not surface categories.
 
-[[Spreading-Activation]] (Collins & Loftus, 1975) establishes that semantic memory retrieval operates by activating a node and spreading activation to connected nodes in proportion to link strength. The PKB implication: link density between related notes has genuine cognitive significance — it mirrors and reinforces the activation pathways in semantic memory.
+[[spreading-activation]] (Collins & Loftus, 1975) establishes that semantic memory retrieval operates by activating a node and spreading activation to connected nodes in proportion to link strength. The PKB implication: link density between related notes has genuine cognitive significance — it mirrors and reinforces the activation pathways in semantic memory.
 
-[[Cognitive-Load-Theory]] (Sweller) establishes that working memory has limited capacity (~4 elements of novel information) and that schema-mediated processing bypasses this bottleneck. The PKB implication: notes that are too dense, too poorly organized, or too context-poor overload working memory; a PKB that manages cognitive load enables genuine engagement.
+[[cognitive-load-theory]] (Sweller) establishes that working memory has limited capacity (~4 elements of novel information) and that schema-mediated processing bypasses this bottleneck. The PKB implication: notes that are too dense, too poorly organized, or too context-poor overload working memory; a PKB that manages cognitive load enables genuine engagement.
 
 [[Expertise Research]] (Chi, Chase & Simon) establishes that expert knowledge organization is categorically different from novice organization: experts categorize by deep structural principles while novices categorize by surface features. The PKB implication: organizing by surface topic (the default) is novice organization; organizing by conceptual principle is expert organization. The [[Cognitive-Alignment-Principle]] follows directly.
 
-[[Testing-Effect]] / [[Retrieval-Practice-Effect]] (Roediger & Karpicke) is the most practically significant finding in the series. Active retrieval produces dramatically better long-term retention than passive re-reading — consistently, robustly, across materials and populations. Dunlosky et al. (2013) rated distributed practice and retrieval practice as the only two techniques with "high utility" out of ten reviewed. The PKB implication: every "review" session designed around re-reading notes rather than active recall is misaligned with the best available science.
+[[Testing-Effect]] / [[retrieval-practice-effect]] (Roediger & Karpicke) is the most practically significant finding in the series. Active retrieval produces dramatically better long-term retention than passive re-reading — consistently, robustly, across materials and populations. Dunlosky et al. (2013) rated distributed practice and retrieval practice as the only two techniques with "high utility" out of ten reviewed. The PKB implication: every "review" session designed around re-reading notes rather than active recall is misaligned with the best available science.
 
 > [!analytical-insight] **The Three-Traditions Convergence**
 > Report 06 makes a powerful evidentiary argument: cognitive psychology (Forgetting Curve, Encoding Specificity), learning science (Spacing Effect, Testing Effect, Interleaving), and educational psychology (Judgment of Learning, Fluency Illusion) all converge independently on the same structural diagnosis — that human learners are systematically biased toward study behaviors that *feel* productive (massed, passive, fluent) while being systematically less effective than behaviors that feel uncomfortable. This convergence from three independent research traditions with different methods, populations, and research questions dramatically strengthens confidence in the diagnosis. It is not one laboratory's finding — it is a structural feature of human cognition.
@@ -256,13 +256,13 @@ graph TD
 
 Reports 03, 08, 10, 11, 16, 17 address the mechanisms and conditions of effective learning. The central synthesis: **learning is not information reception but active construction**, and the construction process must be designed into PKM workflows.
 
-[[Constructivism]] (Piaget, Vygotsky) establishes that learners construct understanding rather than receive it — assimilating new information into existing schemas (smooth but shallow) or accommodating by restructuring existing schemas (effortful but deep). The PKB implication: note creation should default to active construction (generating, elaborating, explaining) rather than passive capture.
+[[constructivism]] (Piaget, Vygotsky) establishes that learners construct understanding rather than receive it — assimilating new information into existing schemas (smooth but shallow) or accommodating by restructuring existing schemas (effortful but deep). The PKB implication: note creation should default to active construction (generating, elaborating, explaining) rather than passive capture.
 
-[[Desirable-Difficulties]] (Bjork & Bjork) establishes that conditions making learning harder in the short term — spacing, testing, interleaving, generation — produce superior long-term outcomes. Crucially, learners consistently *undervalue* desirable difficulties because they impair current performance while improving future performance. The PKB implication: a PKM system designed for user comfort is systematically misaligned with learning science.
+[[desirable-difficulties]] (Bjork & Bjork) establishes that conditions making learning harder in the short term — spacing, testing, interleaving, generation — produce superior long-term outcomes. Crucially, learners consistently *undervalue* desirable difficulties because they impair current performance while improving future performance. The PKB implication: a PKM system designed for user comfort is systematically misaligned with learning science.
 
-[[Transfer-of-Learning]] (multiple traditions) establishes that knowledge often fails to transfer from where it's learned to where it's needed — the "inert knowledge" problem. Transfer is facilitated by multiple encoding contexts (Encoding Variability), high similarity between learning and application contexts (Encoding Specificity), and abstract principle-level organization (far transfer). The PKB implication: notes encoded in only one context, with only surface-feature links, produce inert knowledge.
+[[transfer-of-learning]] (multiple traditions) establishes that knowledge often fails to transfer from where it's learned to where it's needed — the "inert knowledge" problem. Transfer is facilitated by multiple encoding contexts (Encoding Variability), high similarity between learning and application contexts (Encoding Specificity), and abstract principle-level organization (far transfer). The PKB implication: notes encoded in only one context, with only surface-feature links, produce inert knowledge.
 
-[[Scaffolding and Fading]] (Vygotsky's ZPD, Wood et al.) establishes that learning support should be calibrated to the learner's current competence — providing structure for novices and fading it as expertise develops. The [[Expertise-Reversal-Effect]] (CLT) sharpens this: scaffolding that helps novices can actively impede experts by adding redundant cognitive load. The PKB implication: a PKB should evolve structurally with the practitioner's expertise, not remain permanently fixed.
+[[Scaffolding and Fading]] (Vygotsky's ZPD, Wood et al.) establishes that learning support should be calibrated to the learner's current competence — providing structure for novices and fading it as expertise develops. The [[expertise-reversal-effect]] (CLT) sharpens this: scaffolding that helps novices can actively impede experts by adding redundant cognitive load. The PKB implication: a PKB should evolve structurally with the practitioner's expertise, not remain permanently fixed.
 
 > [!tension-identified] **The Desirable Difficulty Paradox in Practice**
 > The series' most fundamental practical tension: desirable difficulties are exactly the features that make learning effective and exactly the features that users avoid when given a choice. Spaced practice is better than massed practice; users prefer massed practice. Active recall is better than re-reading; users prefer re-reading. Interleaving is better than blocking; users prefer blocking. The implication is that a PKM system designed around user preference is almost perfectly anti-correlated with learning effectiveness — and that designing good PKM requires overriding user preferences structurally.
@@ -273,11 +273,11 @@ Reports 03, 08, 10, 11, 16, 17 address the mechanisms and conditions of effectiv
 
 Reports 04, 12, 18, 26 address the meta-level of PKM: how practitioners monitor, evaluate, and regulate their own learning processes. This is the domain where most PKM failures originate.
 
-[[Metacognition]] (Flavell) distinguishes between metacognitive knowledge (knowing what, when, and why about cognitive strategies), metacognitive monitoring (ongoing assessment of one's cognitive state), and metacognitive control (adjusting strategies in response to monitoring). All three must be active for effective self-regulated learning.
+[[metacognition]] (Flavell) distinguishes between metacognitive knowledge (knowing what, when, and why about cognitive strategies), metacognitive monitoring (ongoing assessment of one's cognitive state), and metacognitive control (adjusting strategies in response to monitoring). All three must be active for effective self-regulated learning.
 
-[[Zimmerman-SRL-Model]] establishes that effective self-regulation operates in a three-phase cycle: Forethought (goal setting, strategy selection), Performance (strategy implementation, self-monitoring), and Self-Reflection (self-evaluation, adjustment). This cycle must be embedded in PKB structure to operate reliably.
+[[zimmerman-srl-model]] establishes that effective self-regulation operates in a three-phase cycle: Forethought (goal setting, strategy selection), Performance (strategy implementation, self-monitoring), and Self-Reflection (self-evaluation, adjustment). This cycle must be embedded in PKB structure to operate reliably.
 
-[[Fluency-Illusion]] (Bjork, Koriat) establishes that re-reading familiar material produces a feeling of comprehension and learning competence that is largely illusory — uncorrelated with actual retention or understanding. This metacognitive error drives the most common failure mode in PKB review: the practitioner confuses familiarity with knowledge.
+[[fluency-illusion]] (Bjork, Koriat) establishes that re-reading familiar material produces a feeling of comprehension and learning competence that is largely illusory — uncorrelated with actual retention or understanding. This metacognitive error drives the most common failure mode in PKB review: the practitioner confuses familiarity with knowledge.
 
 > [!analytical-insight] **The Structural Metacognition Principle (Report 12's Central Contribution)**
 > Report 12 identifies the most important design principle for the metacognitive domain: metacognitive monitoring fails in PKBs not from insufficient metacognitive knowledge but from insufficient structural support. Most PKB practitioners know that active recall is better than re-reading, that confidence ratings matter, that reflection prompts serve real learning functions. They simply don't do these things consistently because their PKB makes them effortful while making passive re-reading easy. The prescription: embed monitoring behaviors as structural defaults — make honest self-assessment the path of least resistance, not the path requiring extra discipline.
@@ -303,9 +303,9 @@ Reports 01, 09, 15, 25 address the structural architecture of the knowledge base
 
 Report 22 is the series' most intellectually honest contribution and may be its most philosophically important.
 
-[[Tacit-Knowledge]] (Polanyi) establishes that human knowledge has a constitutively non-articulable dimension — "we know more than we can tell." This is not merely knowledge not yet written down; it is knowledge whose very function depends on remaining pre-reflective. Expert performance depends primarily on this tacit dimension.
+[[tacit-knowledge]] (Polanyi) establishes that human knowledge has a constitutively non-articulable dimension — "we know more than we can tell." This is not merely knowledge not yet written down; it is knowledge whose very function depends on remaining pre-reflective. Expert performance depends primarily on this tacit dimension.
 
-[[Dreyfus-Skill-Acquisition-Model]] maps the trajectory from novice (rule-following, explicit, capturable) through expert (intuitive, embodied, tacit) — revealing that the more expert a practitioner becomes, the less their performance is governed by the kind of explicit knowledge a PKB can store.
+[[dreyfus-skill-acquisition-model]] maps the trajectory from novice (rule-following, explicit, capturable) through expert (intuitive, embodied, tacit) — revealing that the more expert a practitioner becomes, the less their performance is governed by the kind of explicit knowledge a PKB can store.
 
 [[SECI-Model]] (Nonaka & Takeuchi) describes knowledge conversion between tacit and explicit forms: Socialization (tacit→tacit via shared experience), Externalization (tacit→explicit via articulation), Combination (explicit→explicit via synthesis), Internalization (explicit→tacit via practice). The most a PKB can do is support Externalization — capturing the borderline between tacit and explicit — while acknowledging that Socialization and Internalization occur outside the PKB.
 
@@ -318,11 +318,11 @@ Report 22 is the series' most intellectually honest contribution and may be its 
 
 Reports 05, 13, 19, 24 address the motivational infrastructure of long-term PKM practice. A framework that is cognitively excellent but motivationally inert will be abandoned.
 
-[[Self-Determination-Theory]] (Deci & Ryan) establishes three basic psychological needs whose satisfaction is necessary for autonomous, intrinsically motivated behavior: Autonomy (self-determined engagement), Competence (experiencing growth and mastery), and Relatedness (connection to values and purposes). PKB design must satisfy all three.
+[[self-determination-theory]] (Deci & Ryan) establishes three basic psychological needs whose satisfaction is necessary for autonomous, intrinsically motivated behavior: Autonomy (self-determined engagement), Competence (experiencing growth and mastery), and Relatedness (connection to values and purposes). PKB design must satisfy all three.
 
 [[Stoic-Philosophy]] (Epictetus, Marcus Aurelius) contributes the [[Dichotomy-of-Control]] — focusing cognitive and emotional energy only on what is genuinely up to oneself — as a framework for resilient engagement with the inevitable frustrations of lifelong learning. The Stoic account of [[Prosoche]] (disciplined attention to one's cognitive life) provides the character foundation for the serious PKM practitioner.
 
-[[Heutagogy]] (Hase & Kenyon) describes the most advanced stage of self-directed learning: not merely self-directed (choosing what to study within given structures) but self-determined (designing the learning process itself). This is the endpoint the series envisions for the mature PKM practitioner.
+[[heutagogy]] (Hase & Kenyon) describes the most advanced stage of self-directed learning: not merely self-directed (choosing what to study within given structures) but self-determined (designing the learning process itself). This is the endpoint the series envisions for the mature PKM practitioner.
 
 ---
 
@@ -330,7 +330,7 @@ Reports 05, 13, 19, 24 address the motivational infrastructure of long-term PKM 
 
 Report 29 introduces the most philosophically distinctive domain in the series.
 
-[[Virtue-Epistemology]] (Zagzebski, Sosa, Greco) reframes epistemic excellence from rule-compliance to character development: intellectual virtues (intellectual humility, open-mindedness, epistemic conscientiousness, thoroughness) are cultivated through repeated practice and shape the knower's fundamental orientation toward truth.
+[[virtue-epistemology]] (Zagzebski, Sosa, Greco) reframes epistemic excellence from rule-compliance to character development: intellectual virtues (intellectual humility, open-mindedness, epistemic conscientiousness, thoroughness) are cultivated through repeated practice and shape the knower's fundamental orientation toward truth.
 
 > [!key-claim] **PKB Design as Character Architecture (Report 29's Central Contribution)**
 > Every recurring pattern of behavior in a PKB — how one evaluates sources, records uncertainty, handles conflicting information, revises past notes — is simultaneously a cognitive practice and a character practice. Over years, these patterns either strengthen or weaken the intellectual virtues that make one a good knower. PKB design is, therefore, partly virtue cultivation design. This is not a philosophical nicety — it means that the structural features of a PKB have moral weight, shaping the kind of thinker the practitioner is becoming.
@@ -343,12 +343,12 @@ Report 29 introduces the most philosophically distinctive domain in the series.
 
 Report 30 is the most forward-looking and the most anxious — a careful examination of how emerging AI technologies interact with the learning science established in the preceding 29 reports.
 
-[[Extended-Mind-Theory]] (Clark & Chalmers) argues that cognitive tools can become genuine components of a distributed cognitive system — not merely tools for thought but part of the thinking apparatus itself. If this is true for a well-integrated PKB, the implications for AI integration are significant.
+[[extended-mind-theory]] (Clark & Chalmers) argues that cognitive tools can become genuine components of a distributed cognitive system — not merely tools for thought but part of the thinking apparatus itself. If this is true for a well-integrated PKB, the implications for AI integration are significant.
 
-[[Cognitive-Offloading]] (Risko & Gilbert) distinguishes between offloading storage (beneficial — frees cognitive resources for deeper processing) and offloading synthesis/reasoning (harmful — eliminates the very cognitive work through which understanding is built). This distinction is the key to evaluating AI integrations.
+[[cognitive-offloading]] (Risko & Gilbert) distinguishes between offloading storage (beneficial — frees cognitive resources for deeper processing) and offloading synthesis/reasoning (harmful — eliminates the very cognitive work through which understanding is built). This distinction is the key to evaluating AI integrations.
 
 > [!tension-identified] **The Convenience-Learning Tension (Report 30's Central Unresolved Problem)**
-> AI that is maximally convenient for information retrieval is minimally beneficial for deep learning. The features that make AI-integrated PKBs most attractive (instant retrieval, automatic connection-finding, smooth synthesis) are precisely what [[Desirable-Difficulties]] research identifies as cognitively harmful. This tension cannot be eliminated by clever design — it must be managed through explicit values-based decisions about what a PKB is fundamentally *for*. Report 30's "Epistemic Counterfeiting" concept names the failure mode: AI-generated synthesis produces the phenomenology of understanding without the cognitive substrate of genuine construction.
+> AI that is maximally convenient for information retrieval is minimally beneficial for deep learning. The features that make AI-integrated PKBs most attractive (instant retrieval, automatic connection-finding, smooth synthesis) are precisely what [[desirable-difficulties]] research identifies as cognitively harmful. This tension cannot be eliminated by clever design — it must be managed through explicit values-based decisions about what a PKB is fundamentally *for*. Report 30's "Epistemic Counterfeiting" concept names the failure mode: AI-generated synthesis produces the phenomenology of understanding without the cognitive substrate of genuine construction.
 
 ---
 
@@ -364,11 +364,11 @@ Report 30 is the most forward-looking and the most anxious — a careful examina
 
 ### Bridging Concepts (Cross-Domain Connectors)
 
-[[Schema-Theory]] bridges cognitive psychology (memory architecture), educational philosophy (constructivism), knowledge organization (hierarchical vs. relational structure), and instructional design (prior knowledge activation). It is the load-bearing concept for the [[Cognitive-Alignment-Principle]].
+[[schema-theory]] bridges cognitive psychology (memory architecture), educational philosophy (constructivism), knowledge organization (hierarchical vs. relational structure), and instructional design (prior knowledge activation). It is the load-bearing concept for the [[Cognitive-Alignment-Principle]].
 
-[[Metacognitive-Monitoring]] bridges cognitive psychology (Flavell), educational psychology (Zimmerman SRL), learning science (calibration, Fluency Illusion), and behavioral science (implementation intentions, habit formation). It is the mechanism that converts the entire series' recommendations from knowing to doing.
+[[metacognitive-monitoring]] bridges cognitive psychology (Flavell), educational psychology (Zimmerman SRL), learning science (calibration, Fluency Illusion), and behavioral science (implementation intentions, habit formation). It is the mechanism that converts the entire series' recommendations from knowing to doing.
 
-[[Spreading-Activation]] bridges cognitive science (Collins & Loftus's semantic memory model), network science (graph propagation), and PKB design (link density has cognitive significance). It provides the neurological rationale for wiki-link-dense note architecture.
+[[spreading-activation]] bridges cognitive science (Collins & Loftus's semantic memory model), network science (graph propagation), and PKB design (link density has cognitive significance). It provides the neurological rationale for wiki-link-dense note architecture.
 
 ### Emergent Themes
 
@@ -432,7 +432,7 @@ Report 30 is the most forward-looking and the most anxious — a careful examina
 > [!definition] **[[Tacit-Knowledge-Observatory]] (Report 22 — Knowledge Management)**
 > The PKB's proper relationship to tacit knowledge: not a repository that stores what cannot be stored, but an observatory that documents, maps, and tracks the development of knowledge that resists full articulation. An observatory does not contain what it studies — it illuminates its contours and trajectory. Reframes the PKB as a tool for epistemic self-awareness rather than a comprehensive knowledge archive.
 
-> [!definition] **[[Integration-Metabolism]] (Report 27 — PKB Maintenance)**
+> [!definition] **[[integration-metabolism]] (Report 27 — PKB Maintenance)**
 > The recognition that knowledge integration — the transformation of accumulated, disconnected notes into genuinely connected understanding — requires active, scheduled, metabolic maintenance. Not a one-time architectural decision but an ongoing practice: weekly synthesis reviews, monthly conceptual bridge audits, annual framework reassessments. Named "metabolism" to signal that integration is a biological-analogue process requiring continuous energy input, not a state that persists once achieved.
 
 > [!definition] **[[Epistemic Counterfeiting]] (Report 30 — AI-Enhanced PKM)**
@@ -539,28 +539,28 @@ SORT topic.priority ASC
 
 ## Lexicon of Key Terms
 
-> [!definition] **[[Assimilation]] (Piaget — Cognitive Development)**
-> Incorporating new information into existing schemas without restructuring those schemas. Cognitively efficient; risks shallow processing. Distinguished from [[Accommodation]] (restructuring schemas to incorporate information that doesn't fit existing frameworks).
+> [!definition] **[[assimilation]] (Piaget — Cognitive Development)**
+> Incorporating new information into existing schemas without restructuring those schemas. Cognitively efficient; risks shallow processing. Distinguished from [[accommodation]] (restructuring schemas to incorporate information that doesn't fit existing frameworks).
 
 > [!definition] **[[Betweenness-Centrality]] (Freeman — Network Science)**
 > A measure of a node's structural importance defined as the proportion of shortest paths between all other node pairs that pass through that node. High-betweenness notes are bridges; their removal would dramatically fragment the network. More important than high-degree (hub) notes for knowledge integration.
 
-> [!definition] **[[Desirable-Difficulties]] (Bjork & Bjork — Psychology of Learning)**
+> [!definition] **[[desirable-difficulties]] (Bjork & Bjork — Psychology of Learning)**
 > Learning conditions that impair short-term performance while enhancing long-term retention and transfer. Spacing, testing, interleaving, and generation are established desirable difficulties. Distinguished from undesirable difficulties by the criterion: does this difficulty engage processes that improve durability and transferability?
 
-> [!definition] **[[Encoding-Specificity]] (Tulving & Thomson — Cognitive Psychology)**
+> [!definition] **[[encoding-specificity]] (Tulving & Thomson — Cognitive Psychology)**
 > The principle that retrieval is most successful when retrieval cues match encoding cues. Decontextualized notes lose the contextual hooks that connect stored representations to real-world retrieval situations. Notes should preserve the problem context, questions, and conceptual frames that were present at encoding.
 
-> [!definition] **[[Fluency-Illusion]] (Bjork — Metacognition)**
+> [!definition] **[[fluency-illusion]] (Bjork — Metacognition)**
 > The systematic overestimation of learning produced by re-reading familiar material. Fluent processing feels like comprehension; familiarity feels like knowledge. The Fluency Illusion is the primary mechanism driving passive re-reading as the default "review" mode despite its demonstrated ineffectiveness.
 
-> [!definition] **[[Inert-Knowledge]] (Whitehead — Educational Philosophy)**
+> [!definition] **[[inert-knowledge]] (Whitehead — Educational Philosophy)**
 > Knowledge that can be reproduced accurately in test conditions but cannot be applied, transferred, or productively used in novel contexts. The characteristic failure product of PKBs that accumulate notes without integrating them into functional networks.
 
 > [!definition] **[[Threshold-Concepts]] (Meyer & Land — Educational Research)**
 > Concepts that function as portals to disciplinary understanding — transformative, integrative, bounded, troublesome, and often irreversible. In a PKB, threshold concepts function as high-betweenness-centrality integration nodes whose full comprehension produces cascading reorganization of surrounding conceptual territory.
 
-> [!definition] **[[Zone-of-Proximal-Development]] (Vygotsky — Educational Psychology)**
+> [!definition] **[[zone-of-proximal-development]] (Vygotsky — Educational Psychology)**
 > The distance between what a learner can accomplish independently and what they can accomplish with appropriate support. The most productive learning occurs within the ZPD — challenging enough to require growth, supported enough to be achievable. PKB design and AI integration should target the ZPD rather than eliminating challenge (too easy) or overwhelming the learner (too hard).
 
 ---
@@ -569,11 +569,11 @@ SORT topic.priority ASC
 >
 > This synthesis document connects to the following broader PKB knowledge clusters:
 >
-> **Cognitive Science Hub:** [[Schema-Theory]] · [[Cognitive-Load-Theory]] · [[Spreading-Activation]] · [[Working-Memory]] · [[Automaticity]]
-> **Learning Science Hub:** [[Testing-Effect]] · [[Spacing-Effect]] · [[Desirable-Difficulties]] · [[Transfer-of-Learning]] · [[Constructivism]]
+> **Cognitive Science Hub:** [[schema-theory]] · [[cognitive-load-theory]] · [[spreading-activation]] · [[working-memory]] · [[automaticity]]
+> **Learning Science Hub:** [[Testing-Effect]] · [[spacing-effect]] · [[desirable-difficulties]] · [[transfer-of-learning]] · [[constructivism]]
 > **Design Hub:** [[Information-Architecture]] · [[Faceted-Classification]] · [[Small-World-Networks]] · [[Knowledge-Organization-Systems]]
-> **Meta-Practice Hub:** [[Self-Regulated-Learning]] · [[Metacognitive-Monitoring]] · [[Calibration]] · [[Epistemic-Humility]]
-> **Philosophy Hub:** [[Virtue-Epistemology]] · [[Tacit-Knowledge]] · [[pragmatism]] · [[Stoic-Philosophy]]
+> **Meta-Practice Hub:** [[self-regulated-learning]] · [[metacognitive-monitoring]] · [[calibration]] · [[epistemic-humility]]
+> **Philosophy Hub:** [[virtue-epistemology]] · [[tacit-knowledge]] · [[pragmatism]] · [[Stoic-Philosophy]]
 
 ---
 

@@ -34,14 +34,14 @@ related_concepts:
   - "[[Prescience-and-Free-Will]]"
   - "[[Focused Analysis Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Transfer-of-Learning]]"
-  - "[[Far-Transfer]]"
+  - "[[transfer-of-learning]]"
+  - "[[far-transfer]]"
 knowledge_level: advanced
 tags:
   # Content Type
@@ -135,12 +135,12 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Chain of Density]]"
   - "[[Focused-Analysis-Report-Generator-v1.2]]"
 
 extends:
-  - "[[Report-Generation-Prompt-Suite]]"
+  - "[[report-generation-prompt-suite]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # ALIASES & LINKING
@@ -151,11 +151,11 @@ aliases:
   - "[[Dune Report Generator]]"
   - "[[Herbert Universe Analyst]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down: []
 link_related:
   - "[[Focused-Analysis-Report-Generator-v1.2]]"
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
   - "[[Arda-Loremaster]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 

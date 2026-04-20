@@ -303,7 +303,7 @@ Based on the analysis of the `[EXEMPLAR-BASE]` (focused on deep, academic exposi
 
 > [!core-principle]
 > **Guiding Principle/Theory:** 
-> - {{Which theoretical model or core principle from your PKB will be the primary tool for solving this problem? (e.g., [[Systems-Thinking]], [[Design-Thinking]], [[First Principles]]).}}
+> - {{Which theoretical model or core principle from your PKB will be the primary tool for solving this problem? (e.g., [[Systems-Thinking]], [[design-thinking]], [[First Principles]]).}}
 
 > [!thought-experiment]
 > **The Intervention Hypothesis:** 
@@ -1017,7 +1017,7 @@ id: prompt-block-🆔{{timestamp}}
 ## 2.1 ➕ This Reinforces…
 
 > [!connection-ideas]
-> - *This concept* **strongly reinforces** *the idea in [[Existing Note 1]] that…*
+> - *This concept* **strongly reinforces** *the idea in [[Existing-Note-1]] that…*
 >   - {{Explain the connection. How does this new information confirm or strengthen an existing belief?}}
 
 > [!example]
@@ -1067,7 +1067,7 @@ id: prompt-block-🆔{{timestamp}}
 ## 5.0 ✅ Integration Complete
 
 > [!tasks]
-> - [ ] Review and update [[Existing Note 1]] with new insights.
+> - [ ] Review and update [[Existing-Note-1]] with new insights.
 > - [ ] Create a new MOC (Map of Content) for {{Topic}} if one doesn't exist.
 > - [ ] Link this note to the MOC: [[{{Topic}} MOC]].
 

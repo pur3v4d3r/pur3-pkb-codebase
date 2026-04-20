@@ -463,7 +463,7 @@ importance: "{critical | high | medium | low}"
 
 ### Metadata Generation Rules
 
-1. **Title**: Must exactly match the intended wiki-link text. If the report uses `[[Cognitive-Load-Theory]]`, the title is `"Cognitive Load Theory"`.
+1. **Title**: Must exactly match the intended wiki-link text. If the report uses `[[cognitive-load-theory]]`, the title is `"Cognitive Load Theory"`.
 
 2. **Aliases**: Include abbreviations (CLT), alternative phrasings (Cognitive Overload Theory), full formal names, and any other text that someone might use to search for or link to this concept. Minimum 2 aliases, aim for 4-6.
 
@@ -483,7 +483,7 @@ importance: "{critical | high | medium | low}"
 
 Every wiki-link in a permanent note represents a promise: "This concept exists (or will exist) as its own node in the knowledge graph." When generating permanent notes:
 
-1. **Populate Report Links First**: If the source report contains `[[Metacognition]]` as a wiki-link, and we are generating a permanent note for Metacognition, the file MUST be named `Metacognition.md` (or `Metacognition` without extension, as Obsidian resolves it). This is the highest priority naming rule.
+1. **Populate Report Links First**: If the source report contains `[[metacognition]]` as a wiki-link, and we are generating a permanent note for Metacognition, the file MUST be named `Metacognition.md` (or `Metacognition` without extension, as Obsidian resolves it). This is the highest priority naming rule.
 
 2. **Create Forward Links**: Include wiki-links to concepts that don't have permanent notes yet. These create "ghost links" in Obsidian that signal future note opportunities. This is intentional and valuable.
 
@@ -515,10 +515,10 @@ Every wiki-link in a permanent note represents a promise: "This concept exists (
 ```
 
 **Naming Examples:**
-- `[[Cognitive-Load-Theory]]` → File: `Cognitive Load Theory.md`
-- `[[Metacognition]]` → File: `Metacognition.md`
-- `[[Dual-Process-Theory]]` → File: `Dual Process Theory.md`
-- `[[Transfer-of-Learning]]` → File: `Transfer of Learning.md`
+- `[[cognitive-load-theory]]` → File: `Cognitive Load Theory.md`
+- `[[metacognition]]` → File: `Metacognition.md`
+- `[[dual-process-theory]]` → File: `Dual Process Theory.md`
+- `[[transfer-of-learning]]` → File: `Transfer of Learning.md`
 - `[[PENCRISAL Assessment Framework]]` → File: `PENCRISAL Assessment Framework.md`
 
 **Naming Anti-Patterns (NEVER do these):**
@@ -559,8 +559,8 @@ Maintain an internal registry of all reports processed in the current session. A
 - Concept B (from Report 1) ↔ Concept Y (from Report 3): [Nature of connection]
 
 ### Wiki-Link Population Status:
-- [[Concept A]]: POPULATED (generated in Report 1 processing)
-- [[Concept B]]: POPULATED (generated in Report 2 processing)
+- [[Concept-A]]: POPULATED (generated in Report 1 processing)
+- [[Concept-B]]: POPULATED (generated in Report 2 processing)
 - [[Concept C]]: UNPOPULATED (referenced but not yet generated)
 - [[Concept D]]: UNPOPULATED (referenced but not yet generated)
 </thinking>
@@ -847,37 +847,37 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Working-Memory]]"
-  - "[[Information-Processing-Models]]"
+  - "[[working-memory]]"
+  - "[[information-processing-models]]"
 
 related:
-  - "[[Metacognition]]"
-  - "[[Schema-Theory]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Expertise-Development]]"
-  - "[[Self-Regulated-Learning]]"
+  - "[[metacognition]]"
+  - "[[schema-theory]]"
+  - "[[dual-process-theory]]"
+  - "[[expertise-development]]"
+  - "[[self-regulated-learning]]"
 
 broader:
   - "[[cognitive-psychology]]"
-  - "[[Educational-Psychology]]"
+  - "[[educational-psychology]]"
 
 narrower:
-  - "[[Intrinsic-Cognitive-Load]]"
-  - "[[Extraneous-Cognitive-Load]]"
-  - "[[Germane-Cognitive-Load]]"
-  - "[[Split-Attention-Effect]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[extraneous-cognitive-load]]"
+  - "[[germane-cognitive-load]]"
+  - "[[split-attention-effect]]"
 
 see-also:
   - "[[Multimedia-Learning-Theory]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Zone-of-Proximal-Development]]"
+  - "[[deliberate-practice]]"
+  - "[[zone-of-proximal-development]]"
 
 contrasts-with:
   - "[[Information Overload]]"
   - "[[Flow-State]]"
 
 applied-in:
-  - "[[Instructional-Design]]"
+  - "[[instructional-design]]"
   - "[[User Interface Design]]"
   - "[[Professional Training]]"
 
@@ -885,8 +885,8 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Working-Memory]]"
-  - "[[Long-Term-Memory]]"
+  - "[[working-memory]]"
+  - "[[long-term-memory]]"
 
 enables:
   - "[[Evidence-Based Instructional Design]]"
@@ -897,7 +897,7 @@ expansion-topics:
   - topic: "[[Cognitive Load Measurement Methods]]"
     description: "Techniques for measuring cognitive load in real-time (dual-task, subjective scales, physiological)"
     priority: medium
-  - topic: "[[Expertise-Reversal-Effect]]"
+  - topic: "[[expertise-reversal-effect]]"
     description: "How optimal instructional strategies reverse as learners gain expertise"
     priority: high
 
@@ -913,7 +913,7 @@ importance: high
 
 [Foundational-Claim:: Working memory has a strictly limited capacity for processing novel information, and learning fails when this capacity is exceeded]
 
-Cognitive Load Theory (CLT) is a framework within [[cognitive-psychology]] and [[Educational-Psychology]] that explains how the architecture of human [[Working-Memory]] constrains learning and performance. Developed by John Sweller in the late 1980s, CLT posits that instructional effectiveness depends fundamentally on designing information presentation to respect working memory's finite processing capacity. The theory has become one of the most empirically validated frameworks in [[Instructional-Design]], with direct implications for how knowledge is structured, sequenced, and delivered.
+Cognitive Load Theory (CLT) is a framework within [[cognitive-psychology]] and [[educational-psychology]] that explains how the architecture of human [[working-memory]] constrains learning and performance. Developed by John Sweller in the late 1980s, CLT posits that instructional effectiveness depends fundamentally on designing information presentation to respect working memory's finite processing capacity. The theory has become one of the most empirically validated frameworks in [[instructional-design]], with direct implications for how knowledge is structured, sequenced, and delivered.
 
 [Key-Researcher:: John Sweller]
 [First-Described:: 1988]
@@ -922,13 +922,13 @@ Cognitive Load Theory (CLT) is a framework within [[cognitive-psychology]] and [
 ## The Three Load Types
 
 > [!definition] **Intrinsic Cognitive Load**
-> The inherent difficulty of the material itself, determined by the number of interacting elements that must be processed simultaneously. Intrinsic load cannot be altered by instructional design — it is a property of the content relative to the learner's existing [[Schema-Theory|schema]] development.
+> The inherent difficulty of the material itself, determined by the number of interacting elements that must be processed simultaneously. Intrinsic load cannot be altered by instructional design — it is a property of the content relative to the learner's existing [[schema-theory|schema]] development.
 
 > [!definition] **Extraneous Cognitive Load**
 > The unnecessary cognitive burden imposed by poor instructional design. This includes split attention effects (where learners must mentally integrate spatially or temporally separated information), redundancy effects, and other design failures that consume working memory without contributing to learning.
 
 > [!definition] **Germane Cognitive Load**
-> The cognitive effort dedicated to constructing and automating schemas in [[Long-Term-Memory]]. This is the "productive" load — the mental work that actually causes learning. Effective instruction maximizes germane load by freeing capacity from extraneous sources.
+> The cognitive effort dedicated to constructing and automating schemas in [[long-term-memory]]. This is the "productive" load — the mental work that actually causes learning. Effective instruction maximizes germane load by freeing capacity from extraneous sources.
 
 [Practical-Impact:: high — directly informs instructional design, UI design, and communication strategy]
 
@@ -939,16 +939,16 @@ The central insight is that these three load types are additive and compete for 
 CLT has generated numerous empirically validated instructional design principles. The worked-example effect demonstrates that novices learn more effectively from studying solved examples than from solving equivalent problems, because worked examples reduce extraneous load. The split-attention effect shows that physically integrating related information sources (rather than presenting them separately) reduces the cognitive cost of mental integration. The redundancy effect reveals that presenting the same information in multiple formats simultaneously can actually harm learning by creating unnecessary processing demands.
 
 > [!key-claim] **The Expertise Reversal Effect**
-> Instructional techniques that benefit novices can harm experts, and vice versa. As learners develop schemas through [[Deliberate-Practice]], techniques that were once helpful (like worked examples) become redundant and impose extraneous load. This reveals that optimal instruction must adapt to the learner's current schema development.
+> Instructional techniques that benefit novices can harm experts, and vice versa. As learners develop schemas through [[deliberate-practice]], techniques that were once helpful (like worked examples) become redundant and impose extraneous load. This reveals that optimal instruction must adapt to the learner's current schema development.
 
 ## Connections to Metacognition and Self-Regulation
 
-CLT intersects powerfully with [[Metacognition]] and [[Self-Regulated-Learning]]. Metacognitive monitoring consumes cognitive resources, creating a paradox: the act of monitoring one's own learning imposes additional load on the very system it seeks to optimize. This tension explains why [[Metacognitive Monitoring Protocols]] must be carefully scaffolded for novices — adding monitoring demands to an already overloaded working memory produces worse outcomes than no monitoring at all.
+CLT intersects powerfully with [[metacognition]] and [[self-regulated-learning]]. Metacognitive monitoring consumes cognitive resources, creating a paradox: the act of monitoring one's own learning imposes additional load on the very system it seeks to optimize. This tension explains why [[Metacognitive Monitoring Protocols]] must be carefully scaffolded for novices — adding monitoring demands to an already overloaded working memory produces worse outcomes than no monitoring at all.
 
 > [!connection] **Cross-Domain Application**
 > CLT principles apply well beyond education. [[User Interface Design]] leverages cognitive load concepts to minimize extraneous processing in software interfaces. [[Professional Training]] programs use load management to sequence complex skill acquisition. Even [[Decision-Making-Under-Uncertainty]] benefits from understanding how information presentation affects the quality of reasoning under cognitive constraint.
 
-The theory also illuminates why [[Transfer-of-Learning]] is so difficult: transfer requires processing novel problems through partially automated schemas, which imposes significant intrinsic load. Learners whose working memory is already taxed by extraneous factors have insufficient capacity for the deep structural encoding that [[Transfer-of-Learning|transfer]] demands.
+The theory also illuminates why [[transfer-of-learning]] is so difficult: transfer requires processing novel problems through partially automated schemas, which imposes significant intrinsic load. Learners whose working memory is already taxed by extraneous factors have insufficient capacity for the deep structural encoding that [[transfer-of-learning|transfer]] demands.
 
 ## Limitations and Ongoing Debates
 

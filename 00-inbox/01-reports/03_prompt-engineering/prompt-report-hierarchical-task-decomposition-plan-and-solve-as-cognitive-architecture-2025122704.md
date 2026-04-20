@@ -112,7 +112,7 @@ status: evergreen
 certainty: verified
 type: reference
 related_frameworks: [[ReAct]], [[Tree-of-Thoughts]], [[Chain-of-Thought]], [[Agentic Reasoning]]
-cognitive_foundations: [[General Problem Solver]], [[Means-Ends Analysis]], [[Cognitive-Load-Theory]]
+cognitive_foundations: [[General Problem Solver]], [[Means-Ends Analysis]], [[cognitive-load-theory]]
 planning_formalisms: [[STRIPS]], [[HTN]], [[Classical Planning]]
 ---
 
@@ -150,7 +150,7 @@ GPS revealed several critical insights about decomposition that remain relevant 
 
 **1. Working Memory Bottleneck Creates Decomposition Necessity**
 
-Human [[Working-Memory]] can maintain approximately 4±1 information chunks simultaneously ([[Cowan's Capacity Limit]], refined from [[Miller's 7±2]]).^cowan-2001 Complex problems involving 20+ interdependent elements exceed this capacity, making decomposition not just helpful but cognitively mandatory. When a problem requires tracking more elements than working memory can hold, humans automatically chunk related elements into higher-level units, process those units, then expand them only when needed for execution.
+Human [[working-memory]] can maintain approximately 4±1 information chunks simultaneously ([[Cowan's Capacity Limit]], refined from [[Miller's 7±2]]).^cowan-2001 Complex problems involving 20+ interdependent elements exceed this capacity, making decomposition not just helpful but cognitively mandatory. When a problem requires tracking more elements than working memory can hold, humans automatically chunk related elements into higher-level units, process those units, then expand them only when needed for execution.
 
 This capacity constraint drives the fundamental **architectural requirement** for hierarchical decomposition: ^capacity-constraint
 
@@ -186,7 +186,7 @@ This three-tier structure (minimum; can extend to 5+ levels for very complex dom
 
 ### Cognitive Load Theory and Decomposition Efficiency
 
-[[John-Sweller]]'s **Cognitive Load Theory** (CLT, 1988) provides crucial explanatory power for *why* hierarchical decomposition improves problem-solving performance beyond working memory capacity alone.^sweller-1988
+[[john-sweller]]'s **Cognitive Load Theory** (CLT, 1988) provides crucial explanatory power for *why* hierarchical decomposition improves problem-solving performance beyond working memory capacity alone.^sweller-1988
 
 [**Intrinsic-Cognitive-Load**:: Inherent complexity of material determined by element interactivity—how many pieces of information must be processed simultaneously to understand the concept. Decomposition reduces element interactivity by isolating subproblems.]
 

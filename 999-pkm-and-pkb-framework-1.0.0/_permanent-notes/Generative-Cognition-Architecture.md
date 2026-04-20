@@ -5,6 +5,7 @@
 title: "Generative Cognition Architecture"
 aliases:
   - "Generative Cognition Architecture"
+  - "Generative-Cognition-Architecture"
   - "GCA"
 type: permanent-note
 status: evergreen
@@ -39,8 +40,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -51,7 +52,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -75,19 +76,26 @@ narrower:
   []
 
 see-also:
-  - "[[Dual-Process-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Generative-Learning-Theory]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Situation-Model]]"
-  - "[[Metacognition]]"
-  - "[[Schema-Theory]]"
-  - "[[Illusion-of-Knowing]]"
-  - "[[ICAP-Framework]]"
-  - "[[Levels-of-Processing]]"
-  - "[[Semantic-Memory]]"
-  - "[[Spreading-Activation]]"
-  - "[[Shallow-Processing]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[generative-learning-theory|Generative-Learning-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[illusion-of-knowing|Illusion-of-Knowing]]"
+  - "[[icap-framework|ICAP-Framework]]"
+  - "[[levels-of-processing|Levels-of-Processing]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[spreading-activation|Spreading-Activation]]"
+  - "[[levels-of-processing|Levels-of-Processing]]"
+  - "[[shallow-processing|Shallow-Processing]]"
+  - "[[icap-framework|ICAP-Framework]]"
+  - "[[working-memory|Working-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -99,7 +107,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Digital-Reading-and-the-GCA-Digital-reading-environments-—-e-books,|> [!topic-idea] [[Digital-Reading-and-the-GCA]]
+  - topic: "[[> [!topic-idea] [[Digital-Reading-and-the-GCA]]
 > Digital reading environments — e-books, web pages,]]"
     description: ""
     priority: medium
@@ -126,7 +134,7 @@ importance: high
 > The evidence from the Matthew Effect literature suggests that there is a threshold effect in reading and critical analysis: below a certain vocabulary fluency level, silent reading cannot produce critical engagement regardless of the reader's intention, because all available working memory is consumed by decoding. This is not a deficit of motivation or strategy but a cognitive resource constraint. Pedagogically, this implies that developing critical readers requires sufficient vocabulary…
 
 > [!evidence] Supporting Evidence *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*
-> The evidence from comprehension monitoring research suggests that the [[Fluency-Illusion]] is not merely a nuisance — it is the primary mechanism by which silent reading fails to develop critical analysis even in experienced readers. When reading feels effortless, readers interpret the feeling of processing ease as evidence of understanding, and [[Metacognitive-Monitoring]] is suppressed. This creates a perverse dynamic: the better a reader's decoding skills, the more vulnerable they may be to…
+> The evidence from comprehension monitoring research suggests that the [[fluency-illusion]] is not merely a nuisance — it is the primary mechanism by which silent reading fails to develop critical analysis even in experienced readers. When reading feels effortless, readers interpret the feeling of processing ease as evidence of understanding, and [[metacognitive-monitoring]] is suppressed. This creates a perverse dynamic: the better a reader's decoding skills, the more vulnerable they may be to…
 
 > [!evidence] Supporting Evidence *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*
 > The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
@@ -182,7 +190,7 @@ importance: high
 > Note-making in a PKB context is most analytically productive when it is explicitly not performative. Notes written for a future audience — for publication, for sharing, for social display — tend to activate the same defensive, impression-managing processing that social observation produces during reading. Notes written for oneself, in private, with no expectation of external evaluation, instantiate the liberation condition. This predicts that the analytical quality of PKB notes will be higher…
 
 > [!warning] **Key Distinction** *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*
-> The evidence suggests that silent reading, even when optimally engaged (all four mechanisms active), has a ceiling on the critical analysis it produces when practiced in isolation from social discourse. The reason is structural: private hypothesis generation creates evaluative inferences, but private evaluation cannot easily detect [[Confirmation-Bias-Myside-Bias]] operating within the reader's own reasoning. A reader who already holds a [[Motivated-Reasoning|motivated view]] about a topic may…
+> The evidence suggests that silent reading, even when optimally engaged (all four mechanisms active), has a ceiling on the critical analysis it produces when practiced in isolation from social discourse. The reason is structural: private hypothesis generation creates evaluative inferences, but private evaluation cannot easily detect [[Confirmation-Bias-Myside-Bias]] operating within the reader's own reasoning. A reader who already holds a [[motivated-reasoning|motivated view]] about a topic may…
 
 ## Conceptual Tensions
 
@@ -213,7 +221,7 @@ importance: high
 > 
 > **Application**: If you were designing a study to determine whether silent reading specifically — rather than any form of reading — develops critical analysis, what would your experimental design look like? What comparison condition would you need?
 > 
-> **Extension**: Where do you find yourself resisting the evidence? The [[Illusion-of-Knowing]]…
+> **Extension**: Where do you find yourself resisting the evidence? The [[illusion-of-knowing]]…
 
 > [!reflection] **Reflect** *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*
 > **Comprehension**: Among the four mechanisms, which one changed your understanding of silent reading most significantly? Why was that mechanism the most revealing for you?
@@ -249,47 +257,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*:
-- [[Melete]]
-- [[Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation]]
-- [[ICAP-Framework]]
-- [[Illusion-of-Knowing]]
-- [[Fluency-Illusion]]
-- [[Self-Explanation-Effect]]
-- [[Elaborative-Interrogation]]
-- [[Writing-to-Learn]]
-- [[Writing-to-Learn]]
+- [[melete|Melete]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[metacognitive-regulation|Metacognitive-Regulation]]
+- [[icap-framework|ICAP-Framework]]
+- [[illusion-of-knowing|Illusion-of-Knowing]]
+- [[fluency-illusion|Fluency-Illusion]]
+- [[self-explanation-effect|Self-Explanation-Effect]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[writing-to-learn|Writing-to-Learn]]
 
 **Related concepts:**
-[[Dual-Process-Theory]] · [[Working-Memory]] · [[Generative-Learning-Theory]] · [[Working-Memory]] · [[Metacognitive-Monitoring]] · [[Situation-Model]] · [[Metacognition]] · [[Schema-Theory]] · [[Illusion-of-Knowing]] · [[ICAP-Framework]] · [[Levels-of-Processing]] · [[Working-Memory]] · [[Situation-Model]] · [[Situation-Model]] · [[Semantic-Memory]] · [[Spreading-Activation]] · [[Levels-of-Processing]] · [[Shallow-Processing]] · [[ICAP-Framework]] · [[Working-Memory]] · [[Alan-Baddeley]] · [[Working-Memory-Capacity]] · [[Working-Memory]] · [[Inference]] · [[Metacognitive-Monitoring]] · [[Comprehension-Monitoring]] · [[ICAP-Framework]] · [[ICAP-Framework]] · [[Levels-of-Processing]] · [[Situation-Model]]
-
-**Related concepts** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*:
-[[Matthew-Effect|Matthew-Effect]] * [[Monitoring-Gap|Monitoring-Gap]] * [[Meaningful-Learning|Meaningful-Learning]] * [[Actively-Open-Minded-Thinking|Actively-Open-Minded-Thinking]] * [[Inert-Knowledge|Inert-Knowledge]] * [[Socio-Cognitive-Conflict|Socio-Cognitive-Conflict]] * [[Self-Determination-Theory|Self-Determination-Theory]] * [[Socratic-Method|Socratic-Method]] * [[Aporia|Aporia]] * [[Desirable-Difficulties|Desirable-Difficulties]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[Transfer-Appropriate-Processing|Transfer-Appropriate-Processing]] * [[Far-Transfer|Far-Transfer]] * [[Dialectical-Thinking|Dialectical-Thinking]] * [[Dialectical-Knowledge-Building|Dialectical-Knowledge-Building]] * [[Digital-Reading-and-the-GCA|Digital-Reading-and-the-GCA]] * [[The-GCA-in-Non-Reading-Domains-A-Transfer-Investigation|The-GCA-in-Non-Reading-Domains-A-Transfer-Investigation]]
-
-**Cross-report connections** *(from silent-reading-critical-analysis-focused-analysis-2026-03-21.md)*:
-- [[Melete|Melete]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation|Metacognitive-Regulation]]
-- [[ICAP-Framework|ICAP-Framework]]
-- [[Illusion-of-Knowing|Illusion-of-Knowing]]
-
-**Cross-report connections** *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*:
-- [[Melete|Melete]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation|Metacognitive-Regulation]]
-- [[ICAP-Framework|ICAP-Framework]]
-- [[Illusion-of-Knowing|Illusion-of-Knowing]]
-
-**Cross-report connections** *(from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]])*:
-- [[Melete|Melete]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation|Metacognitive-Regulation]]
-- [[ICAP-Framework|ICAP-Framework]]
-- [[Illusion-of-Knowing|Illusion-of-Knowing]]
-
-
-
-
+[[dual-process-theory|Dual-Process-Theory]] · [[working-memory|Working-Memory]] · [[generative-learning-theory|Generative-Learning-Theory]] · [[working-memory|Working-Memory]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[situation-model|Situation-Model]] · [[metacognition|Metacognition]] · [[schema-theory|Schema-Theory]] · [[illusion-of-knowing|Illusion-of-Knowing]] · [[icap-framework|ICAP-Framework]] · [[levels-of-processing|Levels-of-Processing]] · [[working-memory|Working-Memory]] · [[situation-model|Situation-Model]] · [[situation-model|Situation-Model]] · [[semantic-memory|Semantic-Memory]] · [[spreading-activation|Spreading-Activation]] · [[levels-of-processing|Levels-of-Processing]] · [[shallow-processing|Shallow-Processing]] · [[icap-framework|ICAP-Framework]] · [[working-memory|Working-Memory]] · [[alan-baddeley|Alan-Baddeley]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[working-memory|Working-Memory]] · [[inference|Inference]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[comprehension-monitoring|Comprehension-Monitoring]] · [[icap-framework|ICAP-Framework]] · [[icap-framework|ICAP-Framework]] · [[levels-of-processing|Levels-of-Processing]] · [[situation-model|Situation-Model]]
 
 ## References
 
@@ -306,105 +286,6 @@ importance: high
 - **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation, Vol. 8* (pp. 47–89). Academic Press.**: The foundational working memory model paper, establishing the distinction between the phonological loop, visuospatial sketchpad, and central executive. The phonological loop mechanism central to this analysis is rooted in this framework.
 
 *Citations sourced from [[silent-reading-critical-analysis-focused-analysis-2026-03-21]]*
-
-- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
-
-- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
-
-- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
-
-- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
-
-- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
-
-- **Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684.**: The original levels-of-processing paper. Establishes that depth of semantic processing — not repetition or effort per se — determines retention and comprehension quality. Foundational to Phase II's framework and the distinction between elaborative and evaluative processing.
-
-- **Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: The paper establishing the ICAP Framework used as a central analytical tool in Phase II. Demonstrates that Constructive and Interactive engagement modes produce significantly better learning outcomes than Active and Passive modes, and that the mode of engagement is not determined by the activity but by the cognitive operations the learner performs.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about Knowing* (pp. 185–205). MIT Press.**: The foundational treatment of Desirable Difficulties. Establishes that processing conditions that feel more effortful produce better retention and transfer, and that fluency is a misleading guide to learning depth. Connected to the Fluency Illusion argument in Phase III.
-
-- **Rayner, K. (1998). Eye movements in reading and information processing: 20 years of research. *Psychological Bulletin, 124*(3), 372–422.**: The most comprehensive review of eye-tracking data on reading behavior, documenting regression patterns and their relationship to inference generation and complex text processing. Provides empirical grounding for the self-pacing mechanism in Phase III.
-
-- **Baron, J. (1995). Myside bias in thinking about abortion. *Thinking and Reasoning, 1*(3), 221–235.**: An important empirical paper on actively open-minded thinking and myside bias. Documents the tendency for motivated reasoning to filter evidence in self-serving ways, directly relevant to Phase V's argument about the confirmation bias ceiling of solo silent reading and the necessity of social discourse.
-
-- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation, Vol. 8* (pp. 47–89). Academic Press.**: The foundational working memory model paper, establishing the distinction between the phonological loop, visuospatial sketchpad, and central executive. The phonological loop mechanism central to this analysis is rooted in this framework.
-
-- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
-
-- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
-
-- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
-
-- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
-
-- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
-
-- **Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684.**: The original levels-of-processing paper. Establishes that depth of semantic processing — not repetition or effort per se — determines retention and comprehension quality. Foundational to Phase II's framework and the distinction between elaborative and evaluative processing.
-
-- **Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: The paper establishing the ICAP Framework used as a central analytical tool in Phase II. Demonstrates that Constructive and Interactive engagement modes produce significantly better learning outcomes than Active and Passive modes, and that the mode of engagement is not determined by the activity but by the cognitive operations the learner performs.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about Knowing* (pp. 185–205). MIT Press.**: The foundational treatment of Desirable Difficulties. Establishes that processing conditions that feel more effortful produce better retention and transfer, and that fluency is a misleading guide to learning depth. Connected to the Fluency Illusion argument in Phase III.
-
-- **Rayner, K. (1998). Eye movements in reading and information processing: 20 years of research. *Psychological Bulletin, 124*(3), 372–422.**: The most comprehensive review of eye-tracking data on reading behavior, documenting regression patterns and their relationship to inference generation and complex text processing. Provides empirical grounding for the self-pacing mechanism in Phase III.
-
-- **Baron, J. (1995). Myside bias in thinking about abortion. *Thinking and Reasoning, 1*(3), 221–235.**: An important empirical paper on actively open-minded thinking and myside bias. Documents the tendency for motivated reasoning to filter evidence in self-serving ways, directly relevant to Phase V's argument about the confirmation bias ceiling of solo silent reading and the necessity of social discourse.
-
-- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation, Vol. 8* (pp. 47–89). Academic Press.**: The foundational working memory model paper, establishing the distinction between the phonological loop, visuospatial sketchpad, and central executive. The phonological loop mechanism central to this analysis is rooted in this framework.
-
-- **Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. *Psychological Review, 95*(2), 163–182.**: The foundational paper establishing the Construction-Integration model of reading. Demonstrates that reading involves two phases — construction (activating a broad associative network) and integration (constraining to coherent representations) — and that the depth of Situation Model construction determines the quality of comprehension. Central to Phases II and IV.
-
-- **Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: The seminal demonstration of the Self-Explanation Effect. Shows that readers who explain texts to themselves during reading produce dramatically better comprehension and transfer than readers who read without self-explanation. The mechanism — forcing Constructive mode engagement — is central to this analysis's Phase III and IV arguments.
-
-- **Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 21*(4), 360–407.**: The foundational paper establishing the Matthew Effect in reading. Documents the compounding mechanism by which early reading advantages accumulate and proposes the vocabulary-working memory link central to this analysis's account of why critical analysis development is uneven across readers.
-
-- **Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longman.**: The foundational treatment of comprehension monitoring in reading. Establishes that many readers fail to detect text inconsistencies and that comprehension monitoring can be taught. Directly supports this analysis's fourth mechanism and the Illusion of Knowing argument.
-
-- **Pressley, M., & Afflerbach, P. (1995). *Verbal Protocols of Reading: The Nature of Constructively Responsive Reading.* Lawrence Erlbaum.**: A comprehensive treatment of think-aloud protocols during reading, demonstrating the constructive and evaluative operations that skilled readers perform during silent reading. Provides empirical grounding for the inference hierarchy proposed in Phase IV.
-
-- **Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684.**: The original levels-of-processing paper. Establishes that depth of semantic processing — not repetition or effort per se — determines retention and comprehension quality. Foundational to Phase II's framework and the distinction between elaborative and evaluative processing.
-
-- **Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: The paper establishing the ICAP Framework used as a central analytical tool in Phase II. Demonstrates that Constructive and Interactive engagement modes produce significantly better learning outcomes than Active and Passive modes, and that the mode of engagement is not determined by the activity but by the cognitive operations the learner performs.
-
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about Knowing* (pp. 185–205). MIT Press.**: The foundational treatment of Desirable Difficulties. Establishes that processing conditions that feel more effortful produce better retention and transfer, and that fluency is a misleading guide to learning depth. Connected to the Fluency Illusion argument in Phase III.
-
-- **Rayner, K. (1998). Eye movements in reading and information processing: 20 years of research. *Psychological Bulletin, 124*(3), 372–422.**: The most comprehensive review of eye-tracking data on reading behavior, documenting regression patterns and their relationship to inference generation and complex text processing. Provides empirical grounding for the self-pacing mechanism in Phase III.
-
-- **Baron, J. (1995). Myside bias in thinking about abortion. *Thinking and Reasoning, 1*(3), 221–235.**: An important empirical paper on actively open-minded thinking and myside bias. Documents the tendency for motivated reasoning to filter evidence in self-serving ways, directly relevant to Phase V's argument about the confirmation bias ceiling of solo silent reading and the necessity of social discourse.
-
-- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation, Vol. 8* (pp. 47–89). Academic Press.**: The foundational working memory model paper, establishing the distinction between the phonological loop, visuospatial sketchpad, and central executive. The phonological loop mechanism central to this analysis is rooted in this framework.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

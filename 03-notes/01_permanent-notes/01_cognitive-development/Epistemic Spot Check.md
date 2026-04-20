@@ -19,12 +19,12 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Decision Journal]]"
-  - "[[Pre-Mortem-Analysis]]"
-  - "[[Cognitive-Biases]]"
+  - "[[pre-mortem-analysis]]"
+  - "[[cognitive-biases]]"
   - "[[Calibration Theory]]"
-  - "[[Confirmation-Bias]]"
-  - "[[Metacognitive-Calibration]]"
-  - "[[Metacognitive-Knowledge]]"
+  - "[[confirmation-bias]]"
+  - "[[metacognitive-calibration]]"
+  - "[[metacognitive-knowledge]]"
 maturity: seedling
 confidence: speculative
 

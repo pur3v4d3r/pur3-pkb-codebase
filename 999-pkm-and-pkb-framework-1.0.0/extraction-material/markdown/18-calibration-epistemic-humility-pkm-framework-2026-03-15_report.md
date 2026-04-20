@@ -285,7 +285,7 @@ extraction_summary:
 #### 27. [CROSS-DOMAIN-CONNECTION] Epistemic Humility as the Motivational Architecture for Calibration Practices *(Line 289)*
 
 > [!cross-domain-connection] Epistemic Humility as the Motivational Architecture for Calibration Practices
-> There is a puzzle about calibration improvement practices: even when users know about them — even when they understand prediction-verification, active recall, and counterfactual questioning intellectually — they frequently do not engage in them consistently. The reason is motivational: these practices are deliberately uncomfortable. They require risking exposure of one's ignorance to oneself. Without a dispositional orientation that values the exposure of ignorance as information rather than experiencing it as threat, users will systematically avoid the calibrating experiences that would improve their monitoring accuracy. This is where virtue epistemology's account of [[Epistemic-Humility|epistemic humility]] connects to the cognitive psychology of calibration at a functional level. Epistemic humility is not merely a philosophical nicety; it is the motivational architecture that makes a person willing to engage in calibrating practices consistently enough to build the skill. The dispositional and the cognitive levels are not separable: calibration as skill requires epistemic humility as disposition for sustained cultivation.
+> There is a puzzle about calibration improvement practices: even when users know about them — even when they understand prediction-verification, active recall, and counterfactual questioning intellectually — they frequently do not engage in them consistently. The reason is motivational: these practices are deliberately uncomfortable. They require risking exposure of one's ignorance to oneself. Without a dispositional orientation that values the exposure of ignorance as information rather than experiencing it as threat, users will systematically avoid the calibrating experiences that would improve their monitoring accuracy. This is where virtue epistemology's account of [[epistemic-humility|epistemic humility]] connects to the cognitive psychology of calibration at a functional level. Epistemic humility is not merely a philosophical nicety; it is the motivational architecture that makes a person willing to engage in calibrating practices consistently enough to build the skill. The dispositional and the cognitive levels are not separable: calibration as skill requires epistemic humility as disposition for sustained cultivation.
 
 #### 28. [TENSION-IDENTIFIED] Humility vs. Calibration: The Confidence Paradox *(Line 292)*
 
@@ -532,7 +532,7 @@ extraction_summary:
 > > Extends the Phase IV analysis of calibration across the expertise trajectory with a deeper examination of the expert-novice differences literature. Key questions: What specific practices produce the calibration improvements seen in domain experts? Is the improvement continuous or does it follow a characteristic curve with plateaus and regressions? What distinguishes domains where expertise produces excellent calibration (weather forecasting) from domains where experts remain systematically miscalibrated despite extensive experience (clinical psychology, finance)? Implications for designing PKB environments that replicate the calibration-improving features of the best expert domains.
 > 
 > > [!topic-idea] [[Socratic Dialogue with Self: Implementing Dialectical Self-Examination in PKB Review]]
-> > Develops the [[Elenchus|elenchus]] as a PKB practice — structured self-dialogue protocols in which the user alternately plays the role of a Socratic examiner and the role of the belief-holder, exposing internal contradictions in their stored understanding. Examines the psychological conditions under which productive self-elenchus is possible, the design of templates that scaffold this practice in Obsidian, and the relationship between self-directed Socratic questioning and the intellectual humility disposition that makes it tolerable.
+> > Develops the [[elenchus|elenchus]] as a PKB practice — structured self-dialogue protocols in which the user alternately plays the role of a Socratic examiner and the role of the belief-holder, exposing internal contradictions in their stored understanding. Examines the psychological conditions under which productive self-elenchus is possible, the design of templates that scaffold this practice in Obsidian, and the relationship between self-directed Socratic questioning and the intellectual humility disposition that makes it tolerable.
 > 
 > > [!topic-idea] [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
 > > As AI tools become more integrated into PKB workflows — summarizing sources, generating connections, answering questions about stored content — new calibration risks emerge. If an AI tool provides confident answers about one's own PKB content, the user may outsource the monitoring function entirely, never developing calibration accuracy at all. This topic examines the specific calibration risks of AI-assisted PKM, design principles for AI tool integration that preserve rather than undermine the user's calibration development, and how AI tools might be designed to generate rather than eliminate productive prediction-performance gaps.
@@ -548,17 +548,17 @@ extraction_summary:
 ### Unique Targets
 
 - [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
-- [[Calibration]]
+- [[calibration]]
 - [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
 - [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
-- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[dunning-kruger-effect|Dunning-Kruger Effect]]
 - [[Socratic-Method-Elenchus|Elenchus]]
-- [[Epistemic-Humility|Epistemic Humility]]
+- [[epistemic-humility|Epistemic Humility]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
-- [[Metacognitive-Calibration|Metacognitive Calibration]]
-- [[Obsidian]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[metacognitive-calibration|Metacognitive Calibration]]
+- [[obsidian]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 07: Critical Thinking as PKM Practice]]
@@ -581,22 +581,22 @@ extraction_summary:
 - [[Structural-Metacognition-Principle|Structural Metacognition Principle]]
 - [[The Expert Calibration Trajectory: How Self-Assessment Accuracy Develops with Domain Mastery]]
 - [[The Feynman Technique as a Calibration Protocol]]
-- [[Virtue-Epistemology|Virtue Epistemology]]
+- [[virtue-epistemology|Virtue Epistemology]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Problem That Hides Behind Every O... | 135 |
-| 2 | [[Calibration]] | calibration | — | The Problem That Hides Behind Every O... | 137 |
+| 1 | [[personal-knowledge-base|Personal Knowledge Base]] | — | — | The Problem That Hides Behind Every O... | 135 |
+| 2 | [[calibration]] | calibration | — | The Problem That Hides Behind Every O... | 137 |
 | 3 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | Report 04 | — | The Problem That Hides Behind Every O... | 137 |
 | 4 | [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]] | Report 12 | — | The Problem That Hides Behind Every O... | 137 |
 | 5 | [[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]] | Report 16 | — | The Problem That Hides Behind Every O... | 137 |
 | 6 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | Cognitive psychology | — | The Problem That Hides Behind Every O... | 139 |
-| 7 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | Dunning-Kruger research | — | The Problem That Hides Behind Every O... | 139 |
+| 7 | [[dunning-kruger-effect|Dunning-Kruger Effect]] | Dunning-Kruger research | — | The Problem That Hides Behind Every O... | 139 |
 | 8 | [[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]] | Socratic philosophy | — | The Problem That Hides Behind Every O... | 139 |
-| 9 | [[Virtue-Epistemology|Virtue Epistemology]] | virtue epistemology | — | The Problem That Hides Behind Every O... | 139 |
-| 10 | [[Epistemic-Humility|Epistemic Humility]] | epistemic humility | — | The Problem That Hides Behind Every O... | 139 |
+| 9 | [[virtue-epistemology|Virtue Epistemology]] | virtue epistemology | — | The Problem That Hides Behind Every O... | 139 |
+| 10 | [[epistemic-humility|Epistemic Humility]] | epistemic humility | — | The Problem That Hides Behind Every O... | 139 |
 | 11 | [[Report-04]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 12 | [[Report 07: Critical Thinking as PKM Practice]] | Report 07 | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 13 | [[Report 12]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
@@ -606,9 +606,9 @@ extraction_summary:
 | 17 | [[Report 29: Ethical PKM]] | Report 29 | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 18 | [[Report 12]] | — | — | Why Calibration Fails in PKBs: Three ... | 266 |
 | 19 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Why Calibration Fails in PKBs: Three ... | 266 |
-| 20 | [[Epistemic-Humility|Epistemic Humility]] | epistemic humility | — | Why Calibration Fails in PKBs: Three ... | 290 |
-| 21 | [[Obsidian]] | — | — | Design Principle 1: Replace Confidenc... | 323 |
-| 22 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | The Return-and-Deepen Moment | 397 |
+| 20 | [[epistemic-humility|Epistemic Humility]] | epistemic humility | — | Why Calibration Fails in PKBs: Three ... | 290 |
+| 21 | [[obsidian]] | — | — | Design Principle 1: Replace Confidenc... | 323 |
+| 22 | [[metacognitive-calibration|Metacognitive Calibration]] | — | — | The Return-and-Deepen Moment | 397 |
 | 23 | [[Structural-Metacognition-Principle|Structural Metacognition Principle]] | — | — | The Return-and-Deepen Moment | 399 |
 | 24 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 412 |
 | 25 | [[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]] | — | — | Phase VII: PKB Connections & Cross-Re... | 414 |
@@ -638,17 +638,17 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
-- [[Calibration]]
+- [[calibration]]
 - [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
 - [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
-- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[dunning-kruger-effect|Dunning-Kruger Effect]]
 - [[Socratic-Method-Elenchus|Elenchus]]
-- [[Epistemic-Humility|Epistemic Humility]]
+- [[epistemic-humility|Epistemic Humility]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
-- [[Metacognitive-Calibration|Metacognitive Calibration]]
-- [[Obsidian]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[metacognitive-calibration|Metacognitive Calibration]]
+- [[obsidian]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 07: Critical Thinking as PKM Practice]]
@@ -671,7 +671,7 @@ extraction_summary:
 - [[Structural-Metacognition-Principle|Structural Metacognition Principle]]
 - [[The Expert Calibration Trajectory: How Self-Assessment Accuracy Develops with Domain Mastery]]
 - [[The Feynman Technique as a Calibration Protocol]]
-- [[Virtue-Epistemology|Virtue Epistemology]]
+- [[virtue-epistemology|Virtue Epistemology]]
 
 ### Frontmatter Relationships
 

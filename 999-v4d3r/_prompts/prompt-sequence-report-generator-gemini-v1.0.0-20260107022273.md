@@ -1465,7 +1465,7 @@ exceeds_minimum_by: 128
 - Domain-specific calibration challenges
 - Calibration-aware decision thresholds
 
-**Knowledge Graph Role**: Bridges MP to [[Uncertainty Quantification]], [[Ensemble-Methods]], and [[Decision-Theory]]. Creates pathway from prompt engineering to ML evaluation metrics.
+**Knowledge Graph Role**: Bridges MP to [[Uncertainty Quantification]], [[Ensemble-Methods]], and [[decision-theory]]. Creates pathway from prompt engineering to ML evaluation metrics.
 
 **Priority**: **HIGH** - Calibration is the difference between useful and misleading confidence scores. Critical for production MP deployment.
 
@@ -1516,7 +1516,7 @@ exceeds_minimum_by: 128
 - Load management strategies for complex multi-step MP
 - Balancing MP benefits vs computational costs
 
-**Knowledge Graph Role**: Links MP to [[Cognitive-Load-Theory]], [[Attention Mechanisms]], [[Context Window Management]], and [[Prompt Optimization]]. Provides cognitive science lens on MP efficiency.
+**Knowledge Graph Role**: Links MP to [[cognitive-load-theory]], [[Attention Mechanisms]], [[Context Window Management]], and [[Prompt Optimization]]. Provides cognitive science lens on MP efficiency.
 
 **Priority**: **MEDIUM** - More theoretical than immediately practical, but valuable for principled MP design.
 
@@ -1550,7 +1550,7 @@ exceeds_minimum_by: 128
 - Grounding uncertainty in VQA tasks
 - Hallucination detection in image captioning
 
-**Knowledge Graph Role**: Links MP to [[Vision-Language Models]], [[Multimodal Learning]], [[Visual Question Answering]], [[Image Captioning]], and [[Grounding]]. Opens multimodal prompt engineering frontier.
+**Knowledge Graph Role**: Links MP to [[Vision-Language Models]], [[Multimodal Learning]], [[Visual Question Answering]], [[Image Captioning]], and [[grounding]]. Opens multimodal prompt engineering frontier.
 
 **Priority**: **MEDIUM** - Growing importance with GPT-4V, Gemini Vision, etc., but text-based MP foundation is prerequisite.
 

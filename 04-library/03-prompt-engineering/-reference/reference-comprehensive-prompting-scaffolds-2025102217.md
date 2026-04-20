@@ -19,7 +19,7 @@ created: 2025-10-22T17:12:24
 
 > [!the-purpose] 
 > **What this note is**
-> A PKB-ready, living catalogue of the most useful **prompting / context-engineering scaffolds**. It blends peer-reviewed methods with widely-adopted practitioner frameworks, each given a compact “technique card,” persona and task frames you can paste into `[[Obsidian]]`, and links to source literature for verification and deeper study.
+> A PKB-ready, living catalogue of the most useful **prompting / context-engineering scaffolds**. It blends peer-reviewed methods with widely-adopted practitioner frameworks, each given a compact “technique card,” persona and task frames you can paste into `[[obsidian]]`, and links to source literature for verification and deeper study.
 
 ---
 
@@ -85,7 +85,7 @@ mindmap
       Checklists/Rubrics
 ```
 
-> [!note] *Asterisks mark areas with multiple competing variants or active research lines; your `[[Obsidian]]` notes can branch these further.*
+> [!note] *Asterisks mark areas with multiple competing variants or active research lines; your `[[obsidian]]` notes can branch these further.*
 
 ---
 
@@ -207,7 +207,7 @@ mindmap
 ```
 **Technique:** `[[PAL (Program-Aided LMs) / PoT]]`
 **Description:** Offload arithmetic/logic to a **Python interpreter** (or other runtime). The model writes small, executable programs as the reasoning substrate, then reports results. This reduces logical slips versus free-text CoT. ([arXiv][6])
-**Best Practices:** Enforce **pure functions** with clear IO; run then **explain**; store code + output snippets in `[[Obsidian]]` for reproducibility.
+**Best Practices:** Enforce **pure functions** with clear IO; run then **explain**; store code + output snippets in `[[obsidian]]` for reproducibility.
 ```
 
 ---

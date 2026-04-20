@@ -49,7 +49,7 @@ review-priority: medium
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Cognitive-Development]]
+> - **Title**: [[cognitive-development]]
 > - **MOC**: `=this.link-up`
 
 ```dataviewjs

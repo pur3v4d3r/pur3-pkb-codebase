@@ -51,7 +51,7 @@ This Standard Operating Procedure is designed to ensure the AI's output is not m
 | Step | Action | **The WHY (Rationale/Philosophical Grounding)** |
 | :--- | :--- | :--- |
 | **7. Manual Verbal Synthesis & Structural Review** | Move the AI-generated text into Obsidian. **Do not just copy/paste.** First, verbally summarize the key points to yourself *before* reading the text. Then, immediately apply your custom front matter and begin the structural edit, focusing on **Flow, Logic,** and **Clarity**. | The **Verbal Synthesis** step ensures you have immediately engaged the material *before* editing, solidifying the initial understanding. The manual structural review is the **human-in-the-loop validation**—it ensures the content reflects *your* voice and logical structure, not just the AI's pattern-matching. |
-| **8. The Atomic Note Deconstruction** | Identify concepts, definitions, and analogies within the generated text that should exist as separate, linked notes (e.g., **[[Concept X]]**, **[[Definition of Y]]**). Create these links and new notes as stubs. | This is the process of **Epistemic Atomization**. Knowledge is most useful when it's modular, linkable, and context-independent. Creating **atomic notes** ensures the new knowledge immediately contributes to the **network effect** of your Personal Knowledge Base, increasing its total value exponentially. |
+| **8. The Atomic Note Deconstruction** | Identify concepts, definitions, and analogies within the generated text that should exist as separate, linked notes (e.g., **[[Concept-X]]**, **[[Definition of Y]]**). Create these links and new notes as stubs. | This is the process of **Epistemic Atomization**. Knowledge is most useful when it's modular, linkable, and context-independent. Creating **atomic notes** ensures the new knowledge immediately contributes to the **network effect** of your Personal Knowledge Base, increasing its total value exponentially. |
 | **9. Verification & Source Triage** | Cross-reference all key claims (especially those with proxy citations from Step 4) with reliable external sources (books, academic papers). Update the **Source** field in the front matter and explicitly mark any sections that still require verification with a `[[?]]` or **`#NeedsVerification`** tag. | This is the non-negotiable step of **Intellectual Responsibility**. True knowledge curation is not just collection, but **validation**. Triage ensures that the AI's content is treated as an *informed starting point*, not an infallible truth. |
 
 -----
@@ -112,7 +112,7 @@ status: Review
 created: 2025-10-09
 updated: 2025-10-09
 source: [Gemini-Advanced, Smith-AI-Book]
-related: [[Knowledge Atomization]], [[Socratic-Method]]
+related: [[Knowledge Atomization]], [[socratic-method]]
 
 prompt_id: [[P-20251009-001]]
 llm_model: Gemini-Advanced

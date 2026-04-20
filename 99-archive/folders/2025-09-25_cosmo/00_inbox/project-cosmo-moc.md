@@ -63,7 +63,7 @@ date modified: Saturday, September 27th 2025, 2:22:23 am
 - [[Lambda-CDM Model]]
 - [[Matter-Antimatter Asymmetry]]
 - [[Modified Gravity Theories]]
-- [[Nucleosynthesis]]
+- [[nucleosynthesis]]
 - [[Observable vs Actual Universe]]
 - [[The Big Bang Theory]]
 - [[The Dark Energy Mystery]]

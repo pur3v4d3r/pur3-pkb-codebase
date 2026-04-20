@@ -236,7 +236,7 @@ extraction_summary:
 > [!key-insight] Untitled
 > **The Self-Determination Theory Connection**
 > 
-> [[Self-Determination-Theory]] (Deci & Ryan) identifies three fundamental psychological needs — autonomy, competence, and relatedness — whose satisfaction predicts wellbeing across cultures. The Stoic relational framework is, in effect, a systematic way of satisfying all three: autonomy is preserved by locating responsibility in one's own character rather than in others' behavior; competence is exercised through the challenging practice of virtue under relational pressure; and relatedness — the experience of genuine connection with others — is cultivated precisely when we engage with others through the lens of justice, oikeiosis, and the recognition of our shared rational nature rather than through the lens of what they can provide for us.
+> [[self-determination-theory]] (Deci & Ryan) identifies three fundamental psychological needs — autonomy, competence, and relatedness — whose satisfaction predicts wellbeing across cultures. The Stoic relational framework is, in effect, a systematic way of satisfying all three: autonomy is preserved by locating responsibility in one's own character rather than in others' behavior; competence is exercised through the challenging practice of virtue under relational pressure; and relatedness — the experience of genuine connection with others — is cultivated precisely when we engage with others through the lens of justice, oikeiosis, and the recognition of our shared rational nature rather than through the lens of what they can provide for us.
 
 #### 16. [EXAMPLE] Untitled *(Line 447)*
 
@@ -471,10 +471,10 @@ extraction_summary:
 - [[Oikeiosis]]
 - [[Oikeiosis — Natural Affiliation and the Expansion of Care]]
 - [[Prohairesis]]
-- [[Self-Determination-Theory]]
+- [[self-determination-theory]]
 - [[Seneca]]
 - [[Seneca on Friendship — De Amicitia and the Letters]]
-- [[Socrates]]
+- [[socrates]]
 - [[Stoic View of Anger — De Ira and Modern Applications]]
 - [[Stoicism]]
 - [[Stoicism Series Overview]]
@@ -514,7 +514,7 @@ extraction_summary:
 | 26 | [[Epictetus]] | — | — | Epictetus and the Limits of Relationa... | 336 |
 | 27 | [[Dichotomy-of-Control]] | — | — | Epictetus and the Limits of Relationa... | 336 |
 | 28 | [[Prohairesis]] | — | — | Epictetus and the Limits of Relationa... | 344 |
-| 29 | [[Socrates]] | — | — | Principle 2: Understand Others Throug... | 367 |
+| 29 | [[socrates]] | — | — | Principle 2: Understand Others Throug... | 367 |
 | 30 | [[Kathêkon]] | — | — | Principle 3: Distinguish Roles and Ob... | 381 |
 | 31 | [[Hierocles]] | — | — | Principle 3: Distinguish Roles and Ob... | 381 |
 | 32 | [[John Bowlby]] | — | — | Part 4: The Psychology Behind the Phi... | 418 |
@@ -522,7 +522,7 @@ extraction_summary:
 | 34 | [[Nonviolent Communication]] | — | — | Part 4: The Psychology Behind the Phi... | 428 |
 | 35 | [[Interpersonal Neurobiology]] | — | — | Part 4: The Psychology Behind the Phi... | 430 |
 | 36 | [[View from Above]] | — | — | Part 4: The Psychology Behind the Phi... | 430 |
-| 37 | [[Self-Determination-Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 435 |
+| 37 | [[self-determination-theory]] | — | — | Part 4: The Psychology Behind the Phi... | 435 |
 | 38 | [[Marcus-Aurelius]] | — | — | Conclusion: Relationships Reframed | 631 |
 | 39 | [[Seneca on Friendship — De Amicitia and the Letters]] | — | — | Expansion Topics for PKB | 697 |
 | 40 | [[Stoic View of Anger — De Ira and Modern Applications]] | — | — | Expansion Topics for PKB | 699 |
@@ -577,10 +577,10 @@ extraction_summary:
 - [[Oikeiosis]]
 - [[Oikeiosis — Natural Affiliation and the Expansion of Care]]
 - [[Prohairesis]]
-- [[Self-Determination-Theory]]
+- [[self-determination-theory]]
 - [[Seneca]]
 - [[Seneca on Friendship — De Amicitia and the Letters]]
-- [[Socrates]]
+- [[socrates]]
 - [[Stoic View of Anger — De Ira and Modern Applications]]
 - [[Stoicism]]
 - [[Stoicism Series Overview]]
@@ -608,14 +608,14 @@ extraction_summary:
 - [[Hierocles]]
 - [[Dichotomy-of-Control]]
 - [[Prohairesis]]
-- [[Virtue-Ethics]]
-- [[Eudaimonia]]
+- [[virtue-ethics]]
+- [[eudaimonia]]
 - [[Oikeiosis]]
 - [[Dikaiosyne]]
 - [[Cosmopolitanism]]
 - [[Kathêkon]]
 - [[Apatheia]]
-- [[Attachment-Theory]]
+- [[attachment-theory]]
 - [[Nonviolent Communication]]
 - [[Interpersonal Neurobiology]]
 - [[Gottman Method]]
@@ -623,7 +623,7 @@ extraction_summary:
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Ancient Philosophy]]
 - [[Psychology of Relationships]]
 
@@ -640,7 +640,7 @@ extraction_summary:
 - [[Attachment Theory (Bowlby)]]
 - [[Nonviolent Communication (Rosenberg)]]
 - [[Gottman Four Horsemen]]
-- [[Self-Determination-Theory]]
+- [[self-determination-theory]]
 - [[Interpersonal Acceptance and Commitment Therapy]]
 - [[Buddhist Metta (Lovingkindness)]]
 

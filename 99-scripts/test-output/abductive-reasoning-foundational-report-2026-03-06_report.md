@@ -149,7 +149,7 @@ extraction_summary:
 #### 2. [DEFINITION] Abductive Reasoning (Peirce, 1903) *(Line 289)*
 
 > [!definition] Abductive Reasoning (Peirce, 1903)
-> The logical form of inference that moves from a surprising or anomalous observation to the hypothesis that would, if true, render that observation intelligible or expected. Abduction does NOT establish that the hypothesis is true — only that it is worth investigating. It is the logic of hypothesis *generation*, not hypothesis *confirmation*. It is sometimes called *retroduction* in Peirce's earlier writings, and its more recent analytic reconstruction is known as [[Inference-to-the-Best-Explanation]].
+> The logical form of inference that moves from a surprising or anomalous observation to the hypothesis that would, if true, render that observation intelligible or expected. Abduction does NOT establish that the hypothesis is true — only that it is worth investigating. It is the logic of hypothesis *generation*, not hypothesis *confirmation*. It is sometimes called *retroduction* in Peirce's earlier writings, and its more recent analytic reconstruction is known as [[inference-to-the-best-explanation]].
 
 #### 3. [DEFINITION] The Abductive Syllogism *(Line 292)*
 
@@ -163,12 +163,12 @@ extraction_summary:
 #### 4. [KEY-CLAIM] The Generative Asymmetry of Abduction *(Line 309)*
 
 > [!key-claim] The Generative Asymmetry of Abduction
-> Among the three forms of inference, only abduction generates genuinely *new* content — hypotheses that were not already present in the premises. Deduction is truth-preserving but non-ampliative (it cannot tell you more than the premises already contain). Induction is ampliative but not creative (it generalizes from what has already been observed). Abduction is both ampliative and creative: it projects an explanatory structure that was not directly observed and was not logically necessitated. This is precisely why [[Peirce]] insisted that "all the ideas of science come to it by the way of Abduction" (CP 5.145).
+> Among the three forms of inference, only abduction generates genuinely *new* content — hypotheses that were not already present in the premises. Deduction is truth-preserving but non-ampliative (it cannot tell you more than the premises already contain). Induction is ampliative but not creative (it generalizes from what has already been observed). Abduction is both ampliative and creative: it projects an explanatory structure that was not directly observed and was not logically necessitated. This is precisely why [[peirce]] insisted that "all the ideas of science come to it by the way of Abduction" (CP 5.145).
 
 #### 5. [DEFINITION] Context of Discovery vs. Context of Justification *(Line 322)*
 
 > [!definition] Context of Discovery vs. Context of Justification
-> A foundational distinction in [[philosophy-of-science|philosophy of science]], associated with [[Hans-Reichenbach]] (1938), between the *context of discovery* (the psychological and heuristic process by which hypotheses are generated) and the *context of justification* (the logical process by which hypotheses are tested and confirmed or disconfirmed). Peirce's abduction belongs primarily to the context of discovery, though [[Inference-to-the-Best-Explanation]] attempts to give it a role in the context of justification as well. The distinction matters pedagogically: abductive reasoning instruction concerns different cognitive skills than hypothesis-testing instruction, and conflating the two leads to curricular design errors.
+> A foundational distinction in [[philosophy-of-science|philosophy of science]], associated with [[hans-reichenbach]] (1938), between the *context of discovery* (the psychological and heuristic process by which hypotheses are generated) and the *context of justification* (the logical process by which hypotheses are tested and confirmed or disconfirmed). Peirce's abduction belongs primarily to the context of discovery, though [[inference-to-the-best-explanation]] attempts to give it a role in the context of justification as well. The distinction matters pedagogically: abductive reasoning instruction concerns different cognitive skills than hypothesis-testing instruction, and conflating the two leads to curricular design errors.
 
 #### 6. [DEFINITION] Abductive Competence *(Line 325)*
 
@@ -190,7 +190,7 @@ extraction_summary:
 #### 9. [COUNTER-ARGUMENT] Van Fraassen's Objection: The Bad Lot Problem *(Line 348)*
 
 > [!counter-argument] Van Fraassen's Objection: The Bad Lot Problem
-> The philosopher [[Bas-van-Fraassen]] mounted the most incisive challenge to IBE: the *bad lot problem*. Even if one hypothesis explains the data better than all the alternatives considered, it does not follow that the hypothesis is probably true — we might simply be choosing the best of a bad lot, with the true explanation never having entered our consideration. IBE cannot guarantee that the best available explanation is good in any absolute sense. This objection does not refute IBE — inference under uncertainty always faces such limitations — but it underscores that abductive conclusions are genuinely provisional and that the quality of the *pool* of candidate hypotheses matters as much as the selection criteria.
+> The philosopher [[bas-van-fraassen]] mounted the most incisive challenge to IBE: the *bad lot problem*. Even if one hypothesis explains the data better than all the alternatives considered, it does not follow that the hypothesis is probably true — we might simply be choosing the best of a bad lot, with the true explanation never having entered our consideration. IBE cannot guarantee that the best available explanation is good in any absolute sense. This objection does not refute IBE — inference under uncertainty always faces such limitations — but it underscores that abductive conclusions are genuinely provisional and that the quality of the *pool* of candidate hypotheses matters as much as the selection criteria.
 
 #### 10. [INSIGHT] Why Manipulative Abduction Matters for Learning Design *(Line 359)*
 
@@ -200,7 +200,7 @@ extraction_summary:
 #### 11. [KEY-CLAIM] Theory-Ladenness and Abductive Sensitivity *(Line 368)*
 
 > [!key-claim] Theory-Ladenness and Abductive Sensitivity
-> Hanson's argument that observation is theory-laden means that developing abductive competence is inseparable from developing richer domain knowledge. A novice who lacks the conceptual framework to *recognize* an anomaly cannot initiate an abductive inference. A physicist trained in classical mechanics will not find quantum superposition initially surprising in the way a physicist fluent in classical mechanics will — because the surprise depends on knowing what the rule predicts and recognizing that the observed result deviates from it. This is one of the underappreciated reasons why [[Domain-Knowledge]] acquisition and reasoning skill development are complementary rather than competing educational goals.
+> Hanson's argument that observation is theory-laden means that developing abductive competence is inseparable from developing richer domain knowledge. A novice who lacks the conceptual framework to *recognize* an anomaly cannot initiate an abductive inference. A physicist trained in classical mechanics will not find quantum superposition initially surprising in the way a physicist fluent in classical mechanics will — because the surprise depends on knowing what the rule predicts and recognizing that the observed result deviates from it. This is one of the underappreciated reasons why [[domain-knowledge]] acquisition and reasoning skill development are complementary rather than competing educational goals.
 
 #### 12. [REFLECTION] Engaging the Landscape *(Line 377)*
 
@@ -227,7 +227,7 @@ extraction_summary:
 #### 16. [KEY-INSIGHT] The Confirmation Bias Problem in Abduction *(Line 421)*
 
 > [!key-insight] The Confirmation Bias Problem in Abduction
-> One of the most consistent findings in reasoning research is [[Confirmation-Bias|confirmation bias]] — the tendency to seek, interpret, and remember information that confirms an existing hypothesis. In the context of abduction, this means that once a plausible hypothesis is generated, the natural cognitive tendency is to pursue confirming evidence rather than disconfirming evidence. Sophisticated abductive reasoning requires actively counteracting this tendency — pursuing what Popper called "severe tests" that could falsify the hypothesis. The metacognitive skill of recognizing when you are doing this, and correcting for it, is a core component of what distinguishes expert from novice abductive reasoning.
+> One of the most consistent findings in reasoning research is [[confirmation-bias|confirmation bias]] — the tendency to seek, interpret, and remember information that confirms an existing hypothesis. In the context of abduction, this means that once a plausible hypothesis is generated, the natural cognitive tendency is to pursue confirming evidence rather than disconfirming evidence. Sophisticated abductive reasoning requires actively counteracting this tendency — pursuing what Popper called "severe tests" that could falsify the hypothesis. The metacognitive skill of recognizing when you are doing this, and correcting for it, is a core component of what distinguishes expert from novice abductive reasoning.
 
 #### 17. [REFLECTION] Understanding the Machinery *(Line 424)*
 
@@ -285,11 +285,11 @@ extraction_summary:
 > 
 > This report on abductive reasoning connects to existing knowledge base nodes in the following substantive ways:
 > 
-> - **[[Metacognition-and-Lifelong-Learning]]** — Abductive competence is a specific instantiation of metacognitive self-regulation applied to the inference process. The Flavellian tripartite model (metacognitive knowledge, experiences, strategies) maps directly onto the abductive process: knowledge of one's own hypothesis generation tendencies (metacognitive knowledge of person), monitoring the abductive process as it unfolds (metacognitive experiences), and deploying strategies like contrastive questioning and active disconfirmation (metacognitive strategies). The connection is bidirectional: metacognition develops abductive competence; developing abductive competence in domain-specific contexts develops general metacognitive sensitivity.
+> - **[[metacognition-and-lifelong-learning]]** — Abductive competence is a specific instantiation of metacognitive self-regulation applied to the inference process. The Flavellian tripartite model (metacognitive knowledge, experiences, strategies) maps directly onto the abductive process: knowledge of one's own hypothesis generation tendencies (metacognitive knowledge of person), monitoring the abductive process as it unfolds (metacognitive experiences), and deploying strategies like contrastive questioning and active disconfirmation (metacognitive strategies). The connection is bidirectional: metacognition develops abductive competence; developing abductive competence in domain-specific contexts develops general metacognitive sensitivity.
 > 
-> - **[[Metacognition-and-Critical-Thinking]]** — The Paul-Elder framework's elements of thought — purpose, question, information, inference, concepts, assumptions, implications, point of view — are all implicated in the abductive process. "Inference" in that framework corresponds most directly to abduction; "assumptions" correspond to the background knowledge that shapes hypothesis generation; "implications and consequences" correspond to the predictions that would follow from an adopted hypothesis, enabling deductive testing. The reflective judgment model's movement toward quasi-reflective and reflective knowing is partly a movement toward mastery of provisional, evidence-sensitive abductive commitment.
+> - **[[metacognition-and-critical-thinking]]** — The Paul-Elder framework's elements of thought — purpose, question, information, inference, concepts, assumptions, implications, point of view — are all implicated in the abductive process. "Inference" in that framework corresponds most directly to abduction; "assumptions" correspond to the background knowledge that shapes hypothesis generation; "implications and consequences" correspond to the predictions that would follow from an adopted hypothesis, enabling deductive testing. The reflective judgment model's movement toward quasi-reflective and reflective knowing is partly a movement toward mastery of provisional, evidence-sensitive abductive commitment.
 > 
-> - **[[Transfer-of-Learning]]** — Transfer requires abduction: the learner must recognize the new situation as similar to prior situations (an analogical-abductive inference), generate the hypothesis that the prior knowledge is applicable, and test that hypothesis. Abduction is thus not merely one topic within transfer theory but a cognitive mechanism partially constitutive of transfer itself.
+> - **[[transfer-of-learning]]** — Transfer requires abduction: the learner must recognize the new situation as similar to prior situations (an analogical-abductive inference), generate the hypothesis that the prior knowledge is applicable, and test that hypothesis. Abduction is thus not merely one topic within transfer theory but a cognitive mechanism partially constitutive of transfer itself.
 > 
 > - **[[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles]]** (future node) — This report provides the theoretical foundation for understanding *why* IBL works when it works and *when* it is likely to fail. The abductive theory grounds the IBL design principles in a coherent cognitive and epistemological account.
 > 
@@ -411,110 +411,110 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Abductive-Reasoning]]
-- [[Abductive Reasoning in Medical Education — Clinical Reasoning and Diagnosis]]
-- [[Analogical-Reasoning]]
-- [[Analogical Reasoning and Abduction — Cognitive Intersections]]
-- [[Bas-van-Fraassen]]
-- [[Charles-Sanders-Peirce]]
-- [[Confirmation-Bias]]
-- [[Creative-Cognition]]
-- [[Critical-Thinking]]
-- [[David-Klahr]]
-- [[Deductive-Reasoning]]
-- [[Design-Thinking]]
+- [[abductive-reasoning]]
+- [[Abductive-Reasoning-in-Medical-Education-—-Clinical-Reasoning-and-Diagnosis]]
+- [[analogical-reasoning]]
+- [[Analogical-Reasoning-and-Abduction-—-Cognitive-Intersections]]
+- [[bas-van-fraassen]]
+- [[charles-sanders-peirce]]
+- [[confirmation-bias]]
+- [[creative-cognition]]
+- [[critical-thinking]]
+- [[david-klahr]]
+- [[deductive-reasoning]]
+- [[design-thinking]]
 - [[Design-Thinking-Pedagogy]]
-- [[Design Thinking as Abductive Pedagogy — Theory and Practice]]
-- [[Domain-Knowledge]]
-- [[Donald-Schön]]
-- [[Embodied-Cognition]]
-- [[Epistemic Calibration and Uncertainty Tolerance in Learners]]
-- [[Gilbert-Harman]]
-- [[Hans-Reichenbach]]
-- [[Inductive-Reasoning]]
-- [[Inference-to-the-Best-Explanation]]
-- [[Inference to the Best Explanation — Philosophical Foundations]]
-- [[Inquiry-Based-Learning]]
+- [[Design-Thinking-as-Abductive-Pedagogy-—-Theory-and-Practice]]
+- [[domain-knowledge]]
+- [[donald-schön]]
+- [[embodied-cognition]]
+- [[Epistemic-Calibration-and-Uncertainty-Tolerance-in-Learners]]
+- [[gilbert-harman]]
+- [[hans-reichenbach]]
+- [[inductive-reasoning]]
+- [[inference-to-the-best-explanation]]
+- [[Inference-to-the-Best-Explanation-—-Philosophical-Foundations]]
+- [[inquiry-based-learning]]
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles]]
-- [[Jaakko-Hintikka]]
-- [[Lorenzo-Magnani]]
+- [[jaakko-hintikka]]
+- [[lorenzo-magnani]]
 - [[Manu-Kapur]]
-- [[Metacognition]]
-- [[Metacognition-and-Critical-Thinking]]
-- [[Metacognition-and-Lifelong-Learning]]
+- [[metacognition]]
+- [[metacognition-and-critical-thinking]]
+- [[metacognition-and-lifelong-learning]]
 - [[Next-Generation-Science-Standards]]
-- [[Norwood-Russell-Hanson]]
-- [[Paul-Elder-Critical-Thinking-Framework]]
-- [[Peirce]]
-- [[Peter-Lipton]]
+- [[norwood-russell-hanson]]
+- [[paul-elder-critical-thinking-framework]]
+- [[peirce]]
+- [[peter-lipton]]
 - [[philosophy-of-science]]
-- [[Roger-Martin]]
-- [[Scientific Discovery — Cognitive Models and Historical Case Studies]]
-- [[Scientific-Reasoning]]
-- [[Scientific-Reasoning-in-Education]]
-- [[Self-Regulated-Learning]]
-- [[Transfer-of-Learning]]
-- [[Umberto-Eco]]
+- [[roger-martin]]
+- [[Scientific-Discovery-—-Cognitive-Models-and-Historical-Case-Studies]]
+- [[scientific-reasoning]]
+- [[scientific-reasoning-in-education]]
+- [[self-regulated-learning]]
+- [[transfer-of-learning]]
+- [[umberto-eco]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Deductive-Reasoning]] | Deduction | — | Phase I: Orientation & Context Setting | 264 |
-| 2 | [[Inductive-Reasoning]] | Induction | — | Phase I: Orientation & Context Setting | 264 |
-| 3 | [[Abductive-Reasoning]] | abduction | — | Phase I: Orientation & Context Setting | 264 |
-| 4 | [[Scientific-Reasoning-in-Education]] | scientific reasoning | — | Phase I: Orientation & Context Setting | 268 |
+| 1 | [[deductive-reasoning]] | Deduction | — | Phase I: Orientation & Context Setting | 264 |
+| 2 | [[inductive-reasoning]] | Induction | — | Phase I: Orientation & Context Setting | 264 |
+| 3 | [[abductive-reasoning]] | abduction | — | Phase I: Orientation & Context Setting | 264 |
+| 4 | [[scientific-reasoning-in-education]] | scientific reasoning | — | Phase I: Orientation & Context Setting | 268 |
 | 5 | [[Design-Thinking-Pedagogy]] | design thinking | — | Phase I: Orientation & Context Setting | 268 |
-| 6 | [[Charles-Sanders-Peirce]] | Peirce | — | Phase I: Orientation & Context Setting | 270 |
-| 7 | [[Inference-to-the-Best-Explanation]] | IBE | — | Phase I: Orientation & Context Setting | 272 |
-| 8 | [[Charles-Sanders-Peirce]] | — | — | The Intellectual Genealogy: From Aris... | 285 |
-| 9 | [[Inference-to-the-Best-Explanation]] | — | — | The Intellectual Genealogy: From Aris... | 290 |
-| 10 | [[Peirce]] | — | — | The Triadic Structure: Deduction, Ind... | 310 |
-| 11 | [[Analogical-Reasoning]] | Analogical inference | — | Foundational Distinctions: What Abduc... | 320 |
+| 6 | [[charles-sanders-peirce]] | Peirce | — | Phase I: Orientation & Context Setting | 270 |
+| 7 | [[inference-to-the-best-explanation]] | IBE | — | Phase I: Orientation & Context Setting | 272 |
+| 8 | [[charles-sanders-peirce]] | — | — | The Intellectual Genealogy: From Aris... | 285 |
+| 9 | [[inference-to-the-best-explanation]] | — | — | The Intellectual Genealogy: From Aris... | 290 |
+| 10 | [[peirce]] | — | — | The Triadic Structure: Deduction, Ind... | 310 |
+| 11 | [[analogical-reasoning]] | Analogical inference | — | Foundational Distinctions: What Abduc... | 320 |
 | 12 | [[philosophy-of-science]] | philosophy of science | — | Foundational Distinctions: What Abduc... | 323 |
-| 13 | [[Hans-Reichenbach]] | — | — | Foundational Distinctions: What Abduc... | 323 |
-| 14 | [[Inference-to-the-Best-Explanation]] | — | — | Foundational Distinctions: What Abduc... | 323 |
-| 15 | [[Gilbert-Harman]] | — | — | The Analytic Reconstruction: Inferenc... | 341 |
-| 16 | [[Peter-Lipton]] | — | — | The Analytic Reconstruction: Inferenc... | 343 |
-| 17 | [[Bas-van-Fraassen]] | — | — | The Analytic Reconstruction: Inferenc... | 349 |
-| 18 | [[Umberto-Eco]] | — | — | Eco-Cognitive and Model-Based Abduction | 353 |
-| 19 | [[Lorenzo-Magnani]] | Lorenzo Magnani's | — | Eco-Cognitive and Model-Based Abduction | 357 |
-| 20 | [[Embodied-Cognition]] | embodied and situated cognition | — | Eco-Cognitive and Model-Based Abduction | 357 |
-| 21 | [[Norwood-Russell-Hanson]] | — | — | Naturalized Accounts: Abduction in Co... | 364 |
-| 22 | [[Jaakko-Hintikka]] | — | — | Naturalized Accounts: Abduction in Co... | 366 |
-| 23 | [[Domain-Knowledge]] | — | — | Naturalized Accounts: Abduction in Co... | 369 |
-| 24 | [[Roger-Martin]] | — | — | The Design Thinking Connection | 373 |
-| 25 | [[Deductive-Reasoning]] | deductive | — | The Design Thinking Connection | 373 |
-| 26 | [[Inductive-Reasoning]] | inductive | — | The Design Thinking Connection | 373 |
-| 27 | [[Design-Thinking]] | design thinking | — | The Design Thinking Connection | 375 |
-| 28 | [[Creative-Cognition]] | Creative cognition | — | The Cognitive Anatomy of Abductive In... | 397 |
-| 29 | [[Scientific-Reasoning]] | scientific reasoning | — | The Cognitive Anatomy of Abductive In... | 406 |
-| 30 | [[David-Klahr]] | David Klahr | — | The Cognitive Anatomy of Abductive In... | 406 |
-| 31 | [[Metacognition]] | metacognitive | — | Metacognitive Dimensions of Abductive... | 417 |
-| 32 | [[Metacognition-and-Critical-Thinking]] | critical thinking research | — | Metacognitive Dimensions of Abductive... | 419 |
-| 33 | [[Donald-Schön]] | Schön's | — | Metacognitive Dimensions of Abductive... | 419 |
-| 34 | [[Confirmation-Bias]] | confirmation bias | — | Metacognitive Dimensions of Abductive... | 422 |
-| 35 | [[Inquiry-Based-Learning]] | inquiry-based learning | — | Abductive Reasoning in Educational Pr... | 435 |
+| 13 | [[hans-reichenbach]] | — | — | Foundational Distinctions: What Abduc... | 323 |
+| 14 | [[inference-to-the-best-explanation]] | — | — | Foundational Distinctions: What Abduc... | 323 |
+| 15 | [[gilbert-harman]] | — | — | The Analytic Reconstruction: Inferenc... | 341 |
+| 16 | [[peter-lipton]] | — | — | The Analytic Reconstruction: Inferenc... | 343 |
+| 17 | [[bas-van-fraassen]] | — | — | The Analytic Reconstruction: Inferenc... | 349 |
+| 18 | [[umberto-eco]] | — | — | Eco-Cognitive and Model-Based Abduction | 353 |
+| 19 | [[lorenzo-magnani]] | Lorenzo Magnani's | — | Eco-Cognitive and Model-Based Abduction | 357 |
+| 20 | [[embodied-cognition]] | embodied and situated cognition | — | Eco-Cognitive and Model-Based Abduction | 357 |
+| 21 | [[norwood-russell-hanson]] | — | — | Naturalized Accounts: Abduction in Co... | 364 |
+| 22 | [[jaakko-hintikka]] | — | — | Naturalized Accounts: Abduction in Co... | 366 |
+| 23 | [[domain-knowledge]] | — | — | Naturalized Accounts: Abduction in Co... | 369 |
+| 24 | [[roger-martin]] | — | — | The Design Thinking Connection | 373 |
+| 25 | [[deductive-reasoning]] | deductive | — | The Design Thinking Connection | 373 |
+| 26 | [[inductive-reasoning]] | inductive | — | The Design Thinking Connection | 373 |
+| 27 | [[design-thinking]] | design thinking | — | The Design Thinking Connection | 375 |
+| 28 | [[creative-cognition]] | Creative cognition | — | The Cognitive Anatomy of Abductive In... | 397 |
+| 29 | [[scientific-reasoning]] | scientific reasoning | — | The Cognitive Anatomy of Abductive In... | 406 |
+| 30 | [[david-klahr]] | David Klahr | — | The Cognitive Anatomy of Abductive In... | 406 |
+| 31 | [[metacognition]] | metacognitive | — | Metacognitive Dimensions of Abductive... | 417 |
+| 32 | [[metacognition-and-critical-thinking]] | critical thinking research | — | Metacognitive Dimensions of Abductive... | 419 |
+| 33 | [[donald-schön]] | Schön's | — | Metacognitive Dimensions of Abductive... | 419 |
+| 34 | [[confirmation-bias]] | confirmation bias | — | Metacognitive Dimensions of Abductive... | 422 |
+| 35 | [[inquiry-based-learning]] | inquiry-based learning | — | Abductive Reasoning in Educational Pr... | 435 |
 | 36 | [[Manu-Kapur]] | — | — | Abductive Reasoning in Educational Pr... | 438 |
-| 37 | [[Scientific-Reasoning-in-Education]] | Science education | — | Abductive Reasoning and Scientific In... | 447 |
+| 37 | [[scientific-reasoning-in-education]] | Science education | — | Abductive Reasoning and Scientific In... | 447 |
 | 38 | [[Next-Generation-Science-Standards]] | NGSS | — | Abductive Reasoning and Scientific In... | 447 |
 | 39 | [[Design-Thinking-Pedagogy]] | design thinking | — | Domain-Specific Applications: Medicin... | 460 |
-| 40 | [[Metacognition-and-Lifelong-Learning]] | metacognition | — | Drawing the Threads Together | 491 |
-| 41 | [[Self-Regulated-Learning]] | self-regulated learner | — | Drawing the Threads Together | 491 |
-| 42 | [[Critical-Thinking]] | critical thinking | — | Drawing the Threads Together | 493 |
-| 43 | [[Paul-Elder-Critical-Thinking-Framework]] | Paul and Elder's | — | Drawing the Threads Together | 493 |
-| 44 | [[Transfer-of-Learning]] | transfer of learning | — | Drawing the Threads Together | 495 |
-| 45 | [[Metacognition-and-Lifelong-Learning]] | — | — | The "So What?" | 512 |
-| 46 | [[Metacognition-and-Critical-Thinking]] | — | — | The "So What?" | 514 |
-| 47 | [[Transfer-of-Learning]] | — | — | The "So What?" | 516 |
+| 40 | [[metacognition-and-lifelong-learning]] | metacognition | — | Drawing the Threads Together | 491 |
+| 41 | [[self-regulated-learning]] | self-regulated learner | — | Drawing the Threads Together | 491 |
+| 42 | [[critical-thinking]] | critical thinking | — | Drawing the Threads Together | 493 |
+| 43 | [[paul-elder-critical-thinking-framework]] | Paul and Elder's | — | Drawing the Threads Together | 493 |
+| 44 | [[transfer-of-learning]] | transfer of learning | — | Drawing the Threads Together | 495 |
+| 45 | [[metacognition-and-lifelong-learning]] | — | — | The "So What?" | 512 |
+| 46 | [[metacognition-and-critical-thinking]] | — | — | The "So What?" | 514 |
+| 47 | [[transfer-of-learning]] | — | — | The "So What?" | 516 |
 | 48 | [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles]] | — | — | The "So What?" | 518 |
-| 49 | [[Inference to the Best Explanation — Philosophical Foundations]] | — | — | D. Expansion Topics | 608 |
+| 49 | [[Inference-to-the-Best-Explanation-—-Philosophical-Foundations]] | — | — | D. Expansion Topics | 608 |
 | 50 | [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles]] | — | — | D. Expansion Topics | 611 |
-| 51 | [[Abductive Reasoning in Medical Education — Clinical Reasoning and Diagnosis]] | — | — | D. Expansion Topics | 614 |
-| 52 | [[Design Thinking as Abductive Pedagogy — Theory and Practice]] | — | — | D. Expansion Topics | 617 |
-| 53 | [[Epistemic Calibration and Uncertainty Tolerance in Learners]] | — | — | D. Expansion Topics | 620 |
-| 54 | [[Scientific Discovery — Cognitive Models and Historical Case Studies]] | — | — | D. Expansion Topics | 623 |
-| 55 | [[Analogical Reasoning and Abduction — Cognitive Intersections]] | — | — | D. Expansion Topics | 626 |
+| 51 | [[Abductive-Reasoning-in-Medical-Education-—-Clinical-Reasoning-and-Diagnosis]] | — | — | D. Expansion Topics | 614 |
+| 52 | [[Design-Thinking-as-Abductive-Pedagogy-—-Theory-and-Practice]] | — | — | D. Expansion Topics | 617 |
+| 53 | [[Epistemic-Calibration-and-Uncertainty-Tolerance-in-Learners]] | — | — | D. Expansion Topics | 620 |
+| 54 | [[Scientific-Discovery-—-Cognitive-Models-and-Historical-Case-Studies]] | — | — | D. Expansion Topics | 623 |
+| 55 | [[Analogical-Reasoning-and-Abduction-—-Cognitive-Intersections]] | — | — | D. Expansion Topics | 626 |
 
 ---
 
@@ -525,50 +525,50 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Abductive-Reasoning]]
-- [[Abductive Reasoning in Medical Education — Clinical Reasoning and Diagnosis]]
-- [[Analogical-Reasoning]]
-- [[Analogical Reasoning and Abduction — Cognitive Intersections]]
-- [[Bas-van-Fraassen]]
-- [[Charles-Sanders-Peirce]]
-- [[Confirmation-Bias]]
-- [[Creative-Cognition]]
-- [[Critical-Thinking]]
-- [[David-Klahr]]
-- [[Deductive-Reasoning]]
-- [[Design-Thinking]]
+- [[abductive-reasoning]]
+- [[Abductive-Reasoning-in-Medical-Education-—-Clinical-Reasoning-and-Diagnosis]]
+- [[analogical-reasoning]]
+- [[Analogical-Reasoning-and-Abduction-—-Cognitive-Intersections]]
+- [[bas-van-fraassen]]
+- [[charles-sanders-peirce]]
+- [[confirmation-bias]]
+- [[creative-cognition]]
+- [[critical-thinking]]
+- [[david-klahr]]
+- [[deductive-reasoning]]
+- [[design-thinking]]
 - [[Design-Thinking-Pedagogy]]
-- [[Design Thinking as Abductive Pedagogy — Theory and Practice]]
-- [[Domain-Knowledge]]
-- [[Donald-Schön]]
-- [[Embodied-Cognition]]
-- [[Epistemic Calibration and Uncertainty Tolerance in Learners]]
-- [[Gilbert-Harman]]
-- [[Hans-Reichenbach]]
-- [[Inductive-Reasoning]]
-- [[Inference-to-the-Best-Explanation]]
-- [[Inference to the Best Explanation — Philosophical Foundations]]
-- [[Inquiry-Based-Learning]]
+- [[Design-Thinking-as-Abductive-Pedagogy-—-Theory-and-Practice]]
+- [[domain-knowledge]]
+- [[donald-schön]]
+- [[embodied-cognition]]
+- [[Epistemic-Calibration-and-Uncertainty-Tolerance-in-Learners]]
+- [[gilbert-harman]]
+- [[hans-reichenbach]]
+- [[inductive-reasoning]]
+- [[inference-to-the-best-explanation]]
+- [[Inference-to-the-Best-Explanation-—-Philosophical-Foundations]]
+- [[inquiry-based-learning]]
 - [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles]]
-- [[Jaakko-Hintikka]]
-- [[Lorenzo-Magnani]]
+- [[jaakko-hintikka]]
+- [[lorenzo-magnani]]
 - [[Manu-Kapur]]
-- [[Metacognition]]
-- [[Metacognition-and-Critical-Thinking]]
-- [[Metacognition-and-Lifelong-Learning]]
+- [[metacognition]]
+- [[metacognition-and-critical-thinking]]
+- [[metacognition-and-lifelong-learning]]
 - [[Next-Generation-Science-Standards]]
-- [[Norwood-Russell-Hanson]]
-- [[Paul-Elder-Critical-Thinking-Framework]]
-- [[Peirce]]
-- [[Peter-Lipton]]
+- [[norwood-russell-hanson]]
+- [[paul-elder-critical-thinking-framework]]
+- [[peirce]]
+- [[peter-lipton]]
 - [[philosophy-of-science]]
-- [[Roger-Martin]]
-- [[Scientific Discovery — Cognitive Models and Historical Case Studies]]
-- [[Scientific-Reasoning]]
-- [[Scientific-Reasoning-in-Education]]
-- [[Self-Regulated-Learning]]
-- [[Transfer-of-Learning]]
-- [[Umberto-Eco]]
+- [[roger-martin]]
+- [[Scientific-Discovery-—-Cognitive-Models-and-Historical-Case-Studies]]
+- [[scientific-reasoning]]
+- [[scientific-reasoning-in-education]]
+- [[self-regulated-learning]]
+- [[transfer-of-learning]]
+- [[umberto-eco]]
 
 ### Frontmatter Relationships
 
@@ -576,13 +576,13 @@ extraction_summary:
 
 - [[Propositional Logic]]
 - [[Philosophy of Science — Basic Concepts]]
-- [[Metacognition-and-Lifelong-Learning]]
+- [[metacognition-and-lifelong-learning]]
 
 #### Related
 
-- [[Metacognition-and-Critical-Thinking]]
-- [[Scientific-Reasoning-in-Education]]
-- [[Transfer-of-Learning]]
+- [[metacognition-and-critical-thinking]]
+- [[scientific-reasoning-in-education]]
+- [[transfer-of-learning]]
 - [[Problem-Based Learning]]
 - [[Epistemic Calibration and Uncertainty]]
 - [[Design-Thinking-Pedagogy]]
@@ -590,7 +590,7 @@ extraction_summary:
 #### Broader
 
 - [[Epistemology and the Logic of Inquiry]]
-- [[Educational-Psychology]]
+- [[educational-psychology]]
 - [[philosophy-of-science]]
 
 #### Narrower
@@ -601,10 +601,10 @@ extraction_summary:
 
 #### See Also
 
-- [[Socratic-Questioning]]
-- [[Analogical-Reasoning]]
-- [[Creative-Cognition]]
-- [[Reflective-Judgment-Model]]
+- [[socratic-questioning]]
+- [[analogical-reasoning]]
+- [[creative-cognition]]
+- [[reflective-judgment-model]]
 
 #### Contrasts With
 
@@ -621,9 +621,9 @@ extraction_summary:
 
 #### Builds On
 
-- [[Metacognition-and-Lifelong-Learning]]
-- [[Metacognition-and-Critical-Thinking]]
-- [[Constructivist-Learning-Theory]]
+- [[metacognition-and-lifelong-learning]]
+- [[metacognition-and-critical-thinking]]
+- [[constructivist-learning-theory]]
 
 #### Enables
 

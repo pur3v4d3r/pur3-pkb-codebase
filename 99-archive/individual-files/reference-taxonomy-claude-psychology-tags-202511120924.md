@@ -608,21 +608,21 @@ aliases:
 ## 📚 Core Theoretical Frameworks
 
 ### Self-Regulation & Motivation
-- [[Self-Determination-Theory]]
+- [[self-determination-theory]]
 - [[Social Cognitive Theory]]
 - [[Control Theory of Self-Regulation]]
-- [[Intrinsic-vs-Extrinsic-Motivation]]
+- [[intrinsic-vs-extrinsic-motivation]]
 
 ### Metacognition
 - [[metacognitive-awareness]]
-- [[Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation]]
+- [[metacognitive-monitoring]]
+- [[metacognitive-regulation]]
 - [[Flavell's Model of Metacognition]]
 
 ### Cognitive Load Theory
 - [[Cognitive Load Theory Fundamentals]]
 - [[Types of Cognitive Load]]
-- [[Cognitive Load Management Strategies]]
+- [[Cognitive-Load-Management-Strategies]]
 
 ### Learning Theories
 - [[Andragogy - Adult Learning Theory]]
@@ -957,8 +957,8 @@ tags:
   - self-regulation/theory/self-determination
   
 Related theories:
-- [[Cognitive-Load-Theory]]
-- [[Growth-Mindset]]
+- [[cognitive-load-theory]]
+- [[growth-mindset]]
 ```
 
 **Why:** Specific theories should be separate notes with links, not tags. Tags describe categories, links describe relationships.

@@ -2110,7 +2110,7 @@ def got_with_self_consistency(problem: str, perspectives: List[str],
   - **Why needed**: GoT extends ToT's architecture; understanding ToT's BFS/DFS search, state evaluation, and backtracking is essential
   - **What to learn**: Tree structure operations, thought scoring, search algorithms for reasoning spaces
 
-- **[[Prompt-Engineering-Fundamentals]]**: Core prompting techniques
+- **[[prompt-engineering-fundamentals]]**: Core prompting techniques
   - **Why needed**: GoT requires sophisticated prompt design for each of four operations (Generate, Aggregate, Refine, Validate)
   - **What to learn**: Instruction clarity, few-shot examples, output formatting, error handling in prompts
 
@@ -2124,7 +2124,7 @@ def got_with_self_consistency(problem: str, perspectives: List[str],
 - **[[Research Synthesis]]**: Literature review and meta-analysis
   - **How GoT applies**: Analyze each paper independently → Compare papers pairwise → Refine paper summaries based on comparisons → Synthesize into comprehensive review
 
-- **[[Strategic-Planning]]**: Corporate or project strategy development
+- **[[strategic-planning]]**: Corporate or project strategy development
   - **How GoT applies**: Generate strategic options → Analyze each option from multiple angles → Cross-validate analyses → Synthesize into coherent strategy
 
 - **[[Creative Writing]]**: Complex narrative development

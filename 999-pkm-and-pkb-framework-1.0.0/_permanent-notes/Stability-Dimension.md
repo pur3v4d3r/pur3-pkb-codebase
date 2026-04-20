@@ -5,6 +5,7 @@
 title: "Stability Dimension"
 aliases:
   - "Stability Dimension"
+  - "Stability-Dimension"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -33,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,42 +70,42 @@ narrower:
   []
 
 see-also:
-  - "[[Lev-Vygotsky]]"
-  - "[[Inner-Speech|inner speech]]"
-  - "[[Bernard-Weiner]]"
-  - "[[Attribution-Theory]]"
-  - "[[Albert-Bandura]]"
-  - "[[Self-Efficacy]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Edward-Deci]]"
-  - "[[Richard-Ryan]]"
-  - "[[Inner-Speech|inner speech]]"
-  - "[[Attribution-Theory]]"
-  - "[[Self-Efficacy]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Vygotsky]]"
-  - "[[Metacognition]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Self-Regulation]]"
-  - "[[Private-Speech]]"
-  - "[[Charles-Fernyhough|Charles Fernyhough]]"
+  - "[[lev-vygotsky|Lev-Vygotsky]]"
+  - "[[inner-speech|Inner-Speech]]"
+  - "[[bernard-weiner|Bernard-Weiner]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[albert-bandura|Albert-Bandura]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[inner-speech|Inner-Speech]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[vygotsky|Vygotsky]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[self-regulation|Self-Regulation]]"
+  - "[[private-speech|Private-Speech]]"
+  - "[[charles-fernyhough|Charles Fernyhough]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Attribution-Theory]]"
-  - "[[Self-Efficacy]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Attribution-Retraining-Interventions-Description-Structured-interven|> [!topic-idea] [[Attribution-Retraining-Interventions]]
+  - topic: "[[topic-idea-attribution-retraining-interventions-description-structured-intervent|> [!topic-idea] [[Attribution-Retraining-Interventions]]
 > **Description:** Structured intervention ]]"
     description: ""
     priority: medium
@@ -124,7 +125,7 @@ importance: high
 > 
 > **Boundary:** Stability is the *most consequential* dimension for expectancy effects, and thus for persistent motivation. The fixed/growth mindset distinction maps most directly onto this dimension: growth mindset reframes ability as unstable (developable), while fixed mindset treats it as stable.
 > 
-> **See also:** [[Growth-Mindset]], [[Learned-Helplessness]], [[Implicit-Theory-of-Intelligence]], [[Attribution-Style]]
+> **See also:** [[growth-mindset]], [[learned-helplessness]], [[implicit-theory-of-intelligence]], [[attribution-style]]
 
 ## Core Explanation
 
@@ -248,7 +249,7 @@ importance: high
 > 2. The two-channel account (attentional competition + effort allocation) of how inner speech affects working memory suggests two different intervention strategies. What would each intervention look like in…
 
 > [!reflection] **Reflect** *(from [[attribution-self-efficacy-inner-speech-vocabulary-foundational-report-2026-03-25]])*
-> 1. The four-domain vocabulary architecture requires consistent practice to become habitual. Given what you know about habit formation and [[Automaticity]], what conditions would need to be in place for vocabulary reframing to become a natural part of your reading practice rather than an effortful deliberate intervention?
+> 1. The four-domain vocabulary architecture requires consistent practice to become habitual. Given what you know about habit formation and [[automaticity]], what conditions would need to be in place for vocabulary reframing to become a natural part of your reading practice rather than an effortful deliberate intervention?
 > 2. The limitation regarding vocabulary as symptom vs. driver is epistemically important. Does it change how you would use the practical protocols in this report? Should it?
 > 3.…
 
@@ -420,31 +421,31 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[attribution-self-efficacy-inner-speech-vocabulary-foundational-report-2026-03-25]])*:
-- [[Attribution-Theory]]
-- [[Self-Determination-Theory]]
-- [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
-- [[Self-Efficacy]]
-- [[Attribution-Retraining-Interventions]]
-- [[Metacognitive-Scaffolding-Design-Patterns]]
-- [[Motivational-Regulation-Strategies]]
-- [[Growth-Mindset]]
-- [[Metacognition-and-Motivation]]
-- [[Silent-Reading-Fluency]]
+- [[attribution-theory|Attribution-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
+- [[self-efficacy|Self-Efficacy]]
+- [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]]
+- [[metacognitive-scaffolding-design-patterns|Metacognitive-Scaffolding-Design-Patterns]]
+- [[motivational-regulation-strategies|Motivational-Regulation-Strategies]]
+- [[growth-mindset|Growth-Mindset]]
+- [[metacognition-and-motivation|Metacognition-and-Motivation]]
+- [[silent-reading-fluency|Silent-Reading-Fluency]]
 
 **Cross-report connections** *(from [[attribution-self-efficacy-inner-speech-vocabulary-foundational-report-2026-03-25]])*:
-- [[Attribution-Theory]]
-- [[Self-Determination-Theory]]
-- [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
-- [[Achievement-Goal-Theory]]
-- [[Attribution-Retraining-Interventions]]
-- [[Metacognitive-Scaffolding-Design-Patterns]]
-- [[Growth-Mindset]]
-- [[Metacognition-and-Motivation]]
-- [[Self-Efficacy]]
-- [[Silent-Reading-Fluency]]
+- [[attribution-theory|Attribution-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]]
+- [[metacognitive-scaffolding-design-patterns|Metacognitive-Scaffolding-Design-Patterns]]
+- [[growth-mindset|Growth-Mindset]]
+- [[metacognition-and-motivation|Metacognition-and-Motivation]]
+- [[self-efficacy|Self-Efficacy]]
+- [[silent-reading-fluency|Silent-Reading-Fluency]]
 
 **Related concepts:**
-[[Lev-Vygotsky]] · [[Inner-Speech|inner speech]] · [[Bernard-Weiner]] · [[Attribution-Theory]] · [[Albert-Bandura]] · [[Self-Efficacy]] · [[Self-Determination-Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[Inner-Speech|inner speech]] · [[Attribution-Theory]] · [[Self-Efficacy]] · [[Self-Determination-Theory]] · [[Achievement-Goal-Theory]] · [[Vygotsky]] · [[Metacognition]] · [[Metacognitive-Monitoring]] · [[Self-Regulation]] · [[Private-Speech]] · [[Charles-Fernyhough|Charles Fernyhough]] · [[Attribution-Style]] · [[Attribution-Retraining]] · [[Bernard-Weiner]] · [[Locus-of-Control]] · [[Self-Efficacy]] · [[Helpless-Response-Pattern]] · [[Attribution-Retraining-Interventions]] · [[Locus-of-Control]] · [[Learned-Helplessness]] · [[Attribution-Retraining]]
+[[lev-vygotsky|Lev-Vygotsky]] · [[inner-speech|Inner-Speech]] · [[bernard-weiner|Bernard-Weiner]] · [[attribution-theory|Attribution-Theory]] · [[albert-bandura|Albert-Bandura]] · [[self-efficacy|Self-Efficacy]] · [[self-determination-theory|Self-Determination-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[inner-speech|Inner-Speech]] · [[attribution-theory|Attribution-Theory]] · [[self-efficacy|Self-Efficacy]] · [[self-determination-theory|Self-Determination-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[vygotsky|Vygotsky]] · [[metacognition|Metacognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[self-regulation|Self-Regulation]] · [[private-speech|Private-Speech]] · [[charles-fernyhough|Charles Fernyhough]] · [[attribution-style|Attribution-Style]] · [[attribution-retraining|Attribution-Retraining]] · [[bernard-weiner|Bernard-Weiner]] · [[locus-of-control|Locus-of-Control]] · [[self-efficacy|Self-Efficacy]] · [[helpless-response-pattern|Helpless-Response-Pattern]] · [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]] · [[locus-of-control|Locus-of-Control]] · [[learned-helplessness|Learned-Helplessness]] · [[attribution-retraining|Attribution-Retraining]]
 
 ## References
 

@@ -23,10 +23,10 @@ link-related:
   - "[[2025-11-14|Daily-Note]]"
   - "[[permeant-note_moc]]"
   - "[[Goal Setting]]"
-  - "[[Strategic-Planning]]"
+  - "[[strategic-planning]]"
   - "[[Motivational Beliefs]]"
-  - "[[Planning]]"
-  - "[[Working-Memory]]"
+  - "[[planning]]"
+  - "[[working-memory]]"
   - "[[Getting Things Done (GTD)]]"
 maturity: seedling
 confidence: speculative
@@ -84,7 +84,7 @@ review-priority: medium
 > **Time Block Categories for Knowledge Work**
 > 
 > **Deep Work Blocks** (90-120 minutes)
-> - [[Deliberate-Practice]] on challenging concepts
+> - [[deliberate-practice]] on challenging concepts
 > - [[Creative Synthesis]] writing  
 > - Complex problem-solving
 > - Original research and analysis

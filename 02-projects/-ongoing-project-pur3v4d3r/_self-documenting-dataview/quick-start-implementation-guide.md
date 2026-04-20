@@ -518,7 +518,7 @@ Now you'll create a note that USES the concept, which will automatically appear 
 ## 📊 Research Metadata
 
 StudyType:: Experimental
-Theories:: [[Working-Memory]], [[Cognitive-Load-Theory]]
+Theories:: [[working-memory]], [[cognitive-load-theory]]
 Paradigm:: Cognitivist
 Population:: University students, N=85
 KeyFindings:: WM training showed no far transfer to fluid intelligence
@@ -858,11 +858,11 @@ If this shows files, but main query doesn't, problem is in WHERE clause.
 ```markdown
 ❌ Wrong:
 studytype:: Experimental
-Theories:: [[Working-Memory]]
+Theories:: [[working-memory]]
 
 ✅ Correct (for Cognitive Science):
 StudyType:: Experimental
-Theories:: [[Working-Memory]]
+Theories:: [[working-memory]]
 ```
 
 ---

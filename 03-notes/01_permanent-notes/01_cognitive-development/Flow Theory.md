@@ -16,10 +16,10 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Self-Determination-Theory]]"
-  - "[[Autonomy]]"
-  - "[[Competence]]"
-  - "[[Relatedness]]"
+  - "[[self-determination-theory]]"
+  - "[[autonomy]]"
+  - "[[competence]]"
+  - "[[relatedness]]"
 maturity: seedling
 confidence: speculative
 
@@ -33,7 +33,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Flow-Theory]]
+> - **Key-Term**:[[flow-theory]]
 > - [**Definition**:Describes a distinctive state of consciousness in which individuals experience complete absorption in an activity, characterized by intense focus, loss of self-consciousness, distorted time perception, and the merging of action and awareness.]
 > - [Developed by:[[Mihaly-Csikszentmihalyi]] late 1960's]
 

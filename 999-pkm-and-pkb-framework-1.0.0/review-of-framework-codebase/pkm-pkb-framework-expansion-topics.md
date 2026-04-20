@@ -71,7 +71,7 @@ builds_on:
 >
 > > [!topic-idea] [[PKM Implementation Companion — Twelve Master Principles]]
 > > **Gap Identified:** The framework provides exceptional theoretical design principles (the [[Twelve-Master-Principles]]) but zero implementation artifacts. No [[Templater]] templates, no [[Dataview]] queries, no [[QuickAdd]] macros, no [[Meta Bind]] configurations. This is the single largest gap in the entire series.
-> > **Where It Would Connect:** [[Report 27 — The Complete PKM/PKB Design Framework]], [[Obsidian-PKB-Architecture]], [[pkm-pkb-framework-synthesis]]
+> > **Where It Would Connect:** [[Report 27 — The Complete PKM/PKB Design Framework]], [[obsidian-pkb-architecture]], [[pkm-pkb-framework-synthesis]]
 > > **Estimated Effort:** <span style='color: #E50000;'>Substantial</span> — Each of the 12 principles requires specific tooling
 > > **Value Proposition:** Transforms the framework from theoretical resource to operational blueprint
 > > **Suggested Approach:**
@@ -106,7 +106,7 @@ builds_on:
 > [!further-exploration] High-Impact Extensions — Significantly Enhance Framework Value
 >
 > > [!topic-idea] [[Review Architecture Implementation — DP3 Operationalization]]
-> > **Gap Identified:** [[DP3: Review Architecture]] prescribes spaced, retrieval-based review but the series provides no concrete implementation for Obsidian. The [[Testing-Effect]] (d = 0.50) and [[Spacing-Effect]] are among the most robust findings in the series — they deserve the best tooling.
+> > **Gap Identified:** [[DP3: Review Architecture]] prescribes spaced, retrieval-based review but the series provides no concrete implementation for Obsidian. The [[Testing-Effect]] (d = 0.50) and [[spacing-effect]] are among the most robust findings in the series — they deserve the best tooling.
 > > **Where It Would Connect:** [[Report 06 — The Science of Remembering]], [[Report 16 — Desirable Difficulties by Design]], [[Report 20 — Retrieval-Enhanced Knowledge Networks]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Implements the single highest-evidence learning technique in the entire framework
@@ -127,8 +127,8 @@ builds_on:
 > > - Annual architecture review checklist
 >
 > > [!topic-idea] [[Calibration Tracker — DP5 Operationalization]]
-> > **Gap Identified:** [[DP5: Calibration Systems]] demands embedded confidence tracking and accuracy comparison. Without tooling, practitioners have no operational way to combat the [[Fluency-Illusion]] — the framework's identified universal failure mode.
-> > **Where It Would Connect:** [[Report 18 — Calibration & Epistemic Humility]], [[Report 30 — Future of PKM / AI-Enhanced Knowledge Building]], [[Fluency-Illusion]], [[Dunning-Kruger-Effect]]
+> > **Gap Identified:** [[DP5: Calibration Systems]] demands embedded confidence tracking and accuracy comparison. Without tooling, practitioners have no operational way to combat the [[fluency-illusion]] — the framework's identified universal failure mode.
+> > **Where It Would Connect:** [[Report 18 — Calibration & Epistemic Humility]], [[Report 30 — Future of PKM / AI-Enhanced Knowledge Building]], [[fluency-illusion]], [[dunning-kruger-effect]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Operationalizes the anti-fluency-illusion mechanism that the framework identifies as most critical
 > > **Suggested Approach:**
@@ -138,7 +138,7 @@ builds_on:
 >
 > > [!topic-idea] [[Active Processing Workflow Templates — DP4 Operationalization]]
 > > **Gap Identified:** [[DP4: Active Processing Workflows]] requires that note creation include elaboration, generation, and synthesis prompts. Currently theoretical.
-> > **Where It Would Connect:** [[Report 17 — Note-Making as Knowledge Construction]], [[Report 03 — Constructing Understanding]], [[Desirable-Difficulties]]
+> > **Where It Would Connect:** [[Report 17 — Note-Making as Knowledge Construction]], [[Report 03 — Constructing Understanding]], [[desirable-difficulties]]
 > > **Estimated Effort:** <span style='color: #27FF00;'>Brief</span>
 > > **Value Proposition:** Low-effort, high-impact — modifying Templater templates is quick and immediately impacts every new note created
 > > **Suggested Approach:**
@@ -155,7 +155,7 @@ builds_on:
 > [!further-exploration] Framework Extensions — Broaden Coverage and Depth
 >
 > > [!topic-idea] [[Collaborative PKM Framework — Report 31]]
-> > **Gap Identified:** Report 27 explicitly acknowledges that the current model addresses only solo practice. [[Collaborative Knowledge Building]], shared [[Zettelkasten]], team knowledge graphs, and social [[SECI-Model]] processes are absent.
+> > **Gap Identified:** Report 27 explicitly acknowledges that the current model addresses only solo practice. [[Collaborative Knowledge Building]], shared [[zettelkasten]], team knowledge graphs, and social [[SECI-Model]] processes are absent.
 > > **Where It Would Connect:** [[Report 05 — Motivation Architecture]] (relatedness need), [[Report 22 — Tacit Knowledge & Limits of Capture]] (SECI socialization), [[Report 27 — The Complete PKM/PKB Design Framework]]
 > > **Estimated Effort:** <span style='color: #E50000;'>Substantial</span> — New research synthesis required
 > > **Value Proposition:** Extends framework to the social dimension, which SDT identifies as a basic psychological need
@@ -186,7 +186,7 @@ builds_on:
 > > - Optionally integrate with Obsidian Graph View CSS for visual differentiation
 >
 > > [!topic-idea] [[YAML Confidence Calibration Audit]]
-> > **Gap Identified:** All 30 reports carry `confidence: high` in their YAML frontmatter, but Reports 28-30 (philosophical, ethical, AI-speculative) operate at genuinely lower epistemic confidence than Reports 06, 16, 20 (meta-analytic evidence base). This constitutes the very [[Calibration]] failure the series warns against.
+> > **Gap Identified:** All 30 reports carry `confidence: high` in their YAML frontmatter, but Reports 28-30 (philosophical, ethical, AI-speculative) operate at genuinely lower epistemic confidence than Reports 06, 16, 20 (meta-analytic evidence base). This constitutes the very [[calibration]] failure the series warns against.
 > > **Where It Would Connect:** [[Report 18 — Calibration & Epistemic Humility]], [[pkm-pkb-framework-working-notes]] (Pass 4: Critical Analysis)
 > > **Estimated Effort:** <span style='color: #27FF00;'>Brief</span>
 > > **Value Proposition:** Practices what the framework preaches — honest epistemic calibration of the framework itself
@@ -230,7 +230,7 @@ builds_on:
 > > - Implement as Dataview dashboard with health indicators
 >
 > > [!topic-idea] [[Dialectical Knowledge Building Patterns for Obsidian]]
-> > **Gap Identified:** Report 21's [[Dialectics]] (thesis-antithesis-synthesis) and Report 14's [[Socratic-Method]] are rich theoretical traditions but lack concrete Obsidian implementation patterns.
+> > **Gap Identified:** Report 21's [[Dialectics]] (thesis-antithesis-synthesis) and Report 14's [[socratic-method]] are rich theoretical traditions but lack concrete Obsidian implementation patterns.
 > > **Where It Would Connect:** [[Report 14 — Inquiry-Based Knowledge Building]], [[Report 21 — Dialectical Knowledge Building]], [[RP2: Dialectical Deepening]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Operationalizes critical thinking within the PKB workflow

@@ -25,8 +25,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -97,4 +97,4 @@ importance: medium
 
 ## Connections & Context
 
-**Related concepts:** [[ACT-R-theory]] · [[Accommodation]] · [[Accretion,-Tuning,-Restructuring]] · [[Advance-Organizers]] · [[Assimilation]] · [[Cognitive-Load-Theory]] · [[Conceptual-Change-Theory]] · [[Constructivism]] · [[David-Ausubel]] · [[David-Rumelhart]] · [[Declarative-schemas]] · [[Donald-Norman]] · [[Dual-Coding-Theory]] · [[Equilibration]] · [[Expert-Novice-Research]]
+**Related concepts:** [[act-r-theory]] · [[accommodation]] · [[Accretion,-Tuning,-Restructuring]] · [[advance-organizers]] · [[assimilation]] · [[cognitive-load-theory]] · [[Conceptual-Change-Theory]] · [[constructivism]] · [[david-ausubel]] · [[David-Rumelhart]] · [[declarative-schemas]] · [[Donald-Norman]] · [[dual-coding-theory]] · [[equilibration]] · [[expert-novice-research]]

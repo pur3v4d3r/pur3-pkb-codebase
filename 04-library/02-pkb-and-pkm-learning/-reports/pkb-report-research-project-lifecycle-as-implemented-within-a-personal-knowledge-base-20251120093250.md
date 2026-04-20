@@ -268,7 +268,7 @@ The "so what" of this model extends far beyond academic productivity. It has pro
 
 > [!connection-ideas]
 >
-> The principles discussed here strongly connect to the field of [[Cognitive-Science]]. Specifically, the idea of a Personal Knowledge Base as an "exobrain" is a practical application of **[[Extended Cognition (EC)]]**. The EC thesis, championed by philosophers Andy Clark and David Chalmers, argues that the "mind" is not "brain-bound." [^5] Our cognitive tools—a notepad, a calculator, or a Personal Knowledge Base—are not just *aids* to thought; they are *literal parts* of our cognitive process. When you "follow a trail" of links in your Obsidian vault, your *mind* is "thinking" using a loop that runs from your biological brain, through your fingers on the keyboard, onto the screen (the externalized "memory" and "processor"), and back through your eyes to your brain. This methodology is, in essence, a "how-to" guide for *building* a more powerful, extended mind.
+> The principles discussed here strongly connect to the field of [[cognitive-science]]. Specifically, the idea of a Personal Knowledge Base as an "exobrain" is a practical application of **[[Extended Cognition (EC)]]**. The EC thesis, championed by philosophers Andy Clark and David Chalmers, argues that the "mind" is not "brain-bound." [^5] Our cognitive tools—a notepad, a calculator, or a Personal Knowledge Base—are not just *aids* to thought; they are *literal parts* of our cognitive process. When you "follow a trail" of links in your Obsidian vault, your *mind* is "thinking" using a loop that runs from your biological brain, through your fingers on the keyboard, onto the screen (the externalized "memory" and "processor"), and back through your eyes to your brain. This methodology is, in essence, a "how-to" guide for *building* a more powerful, extended mind.
 
 This reframes the entire purpose of "note-taking." You are not "taking notes" to *remember* something. You are taking notes to *offload* the *remembering* to a trusted external system, freeing your biological brain to do what it does best: *think, connect, and create*.
 
@@ -340,7 +340,7 @@ This question is the new frontier, and it presents a profound paradox.
 >
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 >
-> 1.  `[[Zettelkasten]]`
+> 1.  `[[zettelkasten]]`
 > 1.  `[[Emergent Synthesis]]`
 > 1.  `[[Atomic Note (Evergreen Note)]]`
 

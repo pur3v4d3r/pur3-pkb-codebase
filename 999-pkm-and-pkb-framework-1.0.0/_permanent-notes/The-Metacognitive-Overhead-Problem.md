@@ -34,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -46,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -70,48 +70,48 @@ narrower:
   []
 
 see-also:
-  - "[[Short-Term-Memory]]"
-  - "[[Atkinson-Shiffrin-Multi-Store-Model]]"
-  - "[[Baddeley's-Working-Memory-Model]]"
-  - "[[Cowan's-Embedded-Processes-Model]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Attention]]"
-  - "[[Cognitive-Load]]"
-  - "[[Chunking]]"
-  - "[[Schema-Construction]]"
-  - "[[Executive-Function]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Schema-Theory]]"
-  - "[[Attention-and-Cognitive-Control]]"
-  - "[[Levels-of-Processing]]"
-  - "[[Working-Memory]]"
-  - "[[Short-Term-Memory]]"
-  - "[[Cognitive-Architecture]]"
+  - "[[short-term-memory|Short-Term-Memory]]"
+  - "[[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]]"
+  - "[[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]"
+  - "[[cowans-embedded-processes-model|Cowan's-Embedded-Processes-Model]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[attention|Attention]]"
+  - "[[cognitive-load|Cognitive-Load]]"
+  - "[[chunking|Chunking]]"
+  - "[[schema-construction|Schema-Construction]]"
+  - "[[executive-function|Executive-Function]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[attention-and-cognitive-control|Attention-and-Cognitive-Control]]"
+  - "[[levels-of-processing|Levels-of-Processing]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[short-term-memory|Short-Term-Memory]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Atkinson-Shiffrin-Multi-Store-Model]]"
-  - "[[Short-Term-Memory]]"
+  - "[[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]]"
+  - "[[short-term-memory|Short-Term-Memory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-emerge-from-this-report-as-warranting-dedicated-treatment-i|The following topics emerge from this report as warranting dedicated treatment in the PKB. Each repr]]"
+  - topic: "[[The following topics emerge from this report as warranting dedicated treatment in the PKB. Each repr]]"
     description: ""
     priority: medium
-  - topic: "[[The-fractionation-of-executive-function-into-updating,-shifting,-and-inhibition|The fractionation of executive function into updating, shifting, and inhibition (Miyake & Friedman) ]]"
+  - topic: "[[The fractionation of executive function into updating, shifting, and inhibition (Miyake & Friedman) ]]"
     description: ""
     priority: medium
-  - topic: "[[This-report-treats-CLT-as-an-application-of-working-memory-theory,-but-CLT-has-d|This report treats CLT as an application of working memory theory, but CLT has developed into a subs]]"
+  - topic: "[[This report treats CLT as an application of working memory theory, but CLT has developed into a subs]]"
     description: ""
     priority: medium
-  - topic: "[[The-concept-of-the-schema-is-invoked-throughout-this-report-as-the-mechanism-by|The concept of the schema is invoked throughout this report as the mechanism by which expertise augm]]"
+  - topic: "[[The concept of the schema is invoked throughout this report as the mechanism by which expertise augm]]"
     description: ""
     priority: medium
 
@@ -126,7 +126,7 @@ importance: high
 # The Metacognitive Overhead Problem
 
 > [!definition] **The Metacognitive Overhead Problem** *(from [[working-memory-foundational-report-2026-04-16]])*
-> There is a tension inherent in the relationship between working memory and metacognition that has not been sufficiently foregrounded in the literature. Metacognitive monitoring — assessing whether one understands, identifying what one does not know, evaluating the quality of one's reasoning — requires working memory resources. But working memory is the very resource that is often most constrained during demanding cognitive tasks. The result is a catch-22: the situations in which metacognitive monitoring is most needed (high-load, complex tasks) are precisely the situations in which working memory is least available to support it. This suggests that effective metacognitive functioning depends not only on metacognitive knowledge and skills but on the degree to which primary task processing has been automated through [[Schema-Automation|schema automation]], thereby freeing working memory resources for the overlay of self-monitoring. The development of metacognitive competence may therefore be inseparable from the development of domain expertise — not because expertise teaches metacognition directly, but because expertise frees the working memory resources that metacognition requires.
+> There is a tension inherent in the relationship between working memory and metacognition that has not been sufficiently foregrounded in the literature. Metacognitive monitoring — assessing whether one understands, identifying what one does not know, evaluating the quality of one's reasoning — requires working memory resources. But working memory is the very resource that is often most constrained during demanding cognitive tasks. The result is a catch-22: the situations in which metacognitive monitoring is most needed (high-load, complex tasks) are precisely the situations in which working memory is least available to support it. This suggests that effective metacognitive functioning depends not only on metacognitive knowledge and skills but on the degree to which primary task processing has been automated through [[schema-automation|schema automation]], thereby freeing working memory resources for the overlay of self-monitoring. The development of metacognitive competence may therefore be inseparable from the development of domain expertise — not because expertise teaches metacognition directly, but because expertise frees the working memory resources that metacognition requires.
 
 ## Core Explanation
 
@@ -164,7 +164,7 @@ importance: high
 > The transition from short-term memory to working memory as a theoretical construct reflects a paradigm-level shift in cognitive psychology: from modelling the mind as a sequence of passive stores to modelling it as a system of active processes that maintain, manipulate, and coordinate information under attentional control.
 
 > [!analytical-insight] Key Insight *(from [[working-memory-foundational-report-2026-04-16]])*
-> The central executive is not a memory store in any conventional sense. It does not maintain representations; rather, it controls the deployment of attention and coordinates the operations of the storage subsystems. Its functions — selective attention, task switching, inhibition, and long-term memory retrieval — correspond closely to the construct of [[Executive-Function]] as it has been elaborated in the neuropsychological literature.
+> The central executive is not a memory store in any conventional sense. It does not maintain representations; rather, it controls the deployment of attention and coordinates the operations of the storage subsystems. Its functions — selective attention, task switching, inhibition, and long-term memory retrieval — correspond closely to the construct of [[executive-function]] as it has been elaborated in the neuropsychological literature.
 
 > [!analytical-insight] Key Insight *(from [[working-memory-foundational-report-2026-04-16]])*
 > Engle's framework redefines working memory capacity as the ability to maintain information in an active, retrievable state through controlled attention, particularly under conditions of interference or distraction. This redefinition shifts the explanatory locus from storage architecture to attentional processes and predicts that individual differences in WMC should correlate with performance on any task that requires controlled attention, not only memory tasks.
@@ -173,7 +173,7 @@ importance: high
 > Contemporary evidence supports a core working memory capacity of approximately 3–4 items when chunking and rehearsal are controlled. Miller's classical estimate of 7±2 reflects the augmented effective capacity achieved through strategic grouping and subvocal rehearsal, not the raw capacity of the attentional workspace.
 
 > [!analytical-insight] Key Insight *(from [[working-memory-foundational-report-2026-04-16]])*
-> [[Working-Memory-in-Reading|Working memory in reading]] functions as the processing space in which textual input, prior knowledge, and inferential processes converge. Readers with higher working memory capacity consistently outperform their lower-capacity counterparts on comprehension tasks, particularly those involving the resolution of ambiguity, the integration of distant propositions, and the generation of elaborative inferences.
+> [[working-memory-in-reading|Working memory in reading]] functions as the processing space in which textual input, prior knowledge, and inferential processes converge. Readers with higher working memory capacity consistently outperform their lower-capacity counterparts on comprehension tasks, particularly those involving the resolution of ambiguity, the integration of distant propositions, and the generation of elaborative inferences.
 
 ## Practical Implications
 
@@ -181,7 +181,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[working-memory-foundational-report-2026-04-16]])*
-> The Atkinson-Shiffrin model's emphasis on maintenance rehearsal as the primary mechanism for long-term encoding proved to be one of its most significant empirical vulnerabilities. Subsequent research, particularly the work of [[Fergus-I.-M.-Craik|Craik]] and Lockhart on [[Levels-of-Processing]], demonstrated that the depth of processing — not the duration of rehearsal — is the critical determinant of memory encoding. Information that is processed semantically, in terms of meaning and…
+> The Atkinson-Shiffrin model's emphasis on maintenance rehearsal as the primary mechanism for long-term encoding proved to be one of its most significant empirical vulnerabilities. Subsequent research, particularly the work of [[fergus-i.-m.-craik|Craik]] and Lockhart on [[levels-of-processing]], demonstrated that the depth of processing — not the duration of rehearsal — is the critical determinant of memory encoding. Information that is processed semantically, in terms of meaning and…
 
 > [!warning] **Key Distinction** *(from [[working-memory-foundational-report-2026-04-16]])*
 > The strong correlation between working memory capacity and fluid intelligence has prompted interest in whether WMC can be trained — and, if so, whether such training transfers to improved reasoning and academic performance. The evidence on this question is mixed and often discouraging. While participants can improve their performance on trained tasks (e.g., n-back), the transfer of these gains to untrained tasks and to fluid intelligence has proven inconsistent and, when observed, often small…
@@ -247,7 +247,7 @@ importance: high
 > [!reflection] **Reflect** *(from [[working-memory-foundational-report-2026-04-16]])*
 > 1. Why was the shift from "short-term memory" to "working memory" more than a change in terminology? What theoretical commitments does the newer term encode?
 > 2. How did the dual-task paradigm provide evidence against the unitary-buffer model, and what architectural conclusions does selective interference support?
-> 3. What role did the [[Levels-of-Processing|levels-of-processing]] framework play in creating the theoretical space for the working memory concept?
+> 3. What role did the [[levels-of-processing|levels-of-processing]] framework play in creating the theoretical space for the working memory concept?
 
 > [!reflection] **Reflect** *(from [[working-memory-foundational-report-2026-04-16]])*
 > 1. How does the phonological similarity effect provide evidence specifically for a sound-based storage code, and what would have to be true of the storage code for this effect to disappear?
@@ -282,7 +282,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Bridging to Prior Knowledge** *(from [[working-memory-foundational-report-2026-04-16]])*
-> If you have encountered the idea that human thought operates under severe resource constraints — that [[Attention]] is finite, that [[Cognitive-Load|cognitive load]] can overwhelm the learner, that [[Chunking]] is a strategy for circumventing capacity limits — then you have already engaged with the downstream consequences of working memory's architecture. This report traces those consequences back to their structural source. Working memory is the system that makes [[Schema-Construction|schema construction]] possible yet simultaneously constrains it, that enables [[Executive-Function|executive…
+> If you have encountered the idea that human thought operates under severe resource constraints — that [[attention]] is finite, that [[cognitive-load|cognitive load]] can overwhelm the learner, that [[chunking]] is a strategy for circumventing capacity limits — then you have already engaged with the downstream consequences of working memory's architecture. This report traces those consequences back to their structural source. Working memory is the system that makes [[schema-construction|schema construction]] possible yet simultaneously constrains it, that enables [[Executive-Function|executive…
 
 ## Active Reading Prompts
 
@@ -298,10 +298,10 @@ importance: high
 ## Far Transfer Applications
 
 > [!far-transfer] **Artificial Intelligence: Context Windows as Working Memory Analogues** *(from [[working-memory-foundational-report-2026-04-16]])*
-> Large language models (LLMs) operate with a fixed context window — a limited-capacity processing space that determines how much text the model can attend to when generating a response. This context window is a striking structural analogue of working memory: it is severely limited relative to the model's total "knowledge" (stored in its parameters, analogous to [[Long-Term-Memory]]), it constrains the complexity of reasoning that the model can perform in a single pass, and its effective capacity can be extended through chunking-like strategies (such as summarisation and structured prompting).…
+> Large language models (LLMs) operate with a fixed context window — a limited-capacity processing space that determines how much text the model can attend to when generating a response. This context window is a striking structural analogue of working memory: it is severely limited relative to the model's total "knowledge" (stored in its parameters, analogous to [[long-term-memory]]), it constrains the complexity of reasoning that the model can perform in a single pass, and its effective capacity can be extended through chunking-like strategies (such as summarisation and structured prompting).…
 
 > [!far-transfer] **Human-Computer Interaction: Interface Design and Cognitive Bandwidth** *(from [[working-memory-foundational-report-2026-04-16]])*
-> The design of user interfaces is, at its core, a problem of managing the user's cognitive load — and therefore a problem of working memory management. Interfaces that present too many options, require the user to maintain too many intermediate states, or demand the mental integration of spatially separated information sources create precisely the conditions that overwhelm working memory. The [[Split-Attention-Effect]] translates directly into interface design: labels should be physically integrated with the elements they describe, related controls should be grouped together, and the number of…
+> The design of user interfaces is, at its core, a problem of managing the user's cognitive load — and therefore a problem of working memory management. Interfaces that present too many options, require the user to maintain too many intermediate states, or demand the mental integration of spatially separated information sources create precisely the conditions that overwhelm working memory. The [[split-attention-effect]] translates directly into interface design: labels should be physically integrated with the elements they describe, related controls should be grouped together, and the number of…
 
 > [!far-transfer] **Clinical Assessment: Working Memory Deficits and Neurodevelopmental Conditions** *(from [[working-memory-foundational-report-2026-04-16]])*
 > Working memory deficits are a transdiagnostic feature of numerous neurodevelopmental and neuropsychiatric conditions, including attention-deficit/hyperactivity disorder (ADHD), specific learning disabilities, autism spectrum conditions, and schizophrenia. In each case, the deficit manifests not merely as reduced storage capacity but as impaired [[Executive-Control|executive control]] — difficulty suppressing irrelevant information, switching between task demands, or updating representations in light of new input. Recognising working memory as the common substrate of these diverse conditions…
@@ -320,7 +320,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **Working Memory as Epistemic Bottleneck** *(from [[working-memory-foundational-report-2026-04-16]])*
-> There is a deep irony in working memory's architectural position: the system that makes complex thought possible is also the system that most severely constrains it. Every act of reasoning, comprehension, or problem-solving must pass through a workspace that can hold only a handful of elements at once. This is not a design flaw; it is a structural feature that shapes the very character of human cognition. The strategies that humans have developed to cope with this constraint — [[Chunking]], [[Schema-Automation|schema automation]], [[Cognitive-Offloading|cognitive offloading]], and the use of…
+> There is a deep irony in working memory's architectural position: the system that makes complex thought possible is also the system that most severely constrains it. Every act of reasoning, comprehension, or problem-solving must pass through a workspace that can hold only a handful of elements at once. This is not a design flaw; it is a structural feature that shapes the very character of human cognition. The strategies that humans have developed to cope with this constraint — [[chunking]], [[schema-automation|schema automation]], [[cognitive-offloading|cognitive offloading]], and the use of…
 
 > [!claude-insight] **The Homunculus Problem and Its Resolution** *(from [[working-memory-foundational-report-2026-04-16]])*
 > The history of the central executive illustrates a recurring pattern in cognitive science: a construct is introduced at a high level of abstraction to explain a broad range of phenomena, is then criticised for its explanatory opacity, and is subsequently decomposed into more specific and empirically tractable subprocesses. The homunculus charge — the complaint that the central executive merely names the problem rather than explaining it — was methodologically productive precisely because it forced researchers to fractionate executive control into components that could be independently…
@@ -471,12 +471,12 @@ importance: high
 
 > [!protocol] **Protocol: Dual-Channel Presentation Design** *(from [[working-memory-foundational-report-2026-04-16]])*
 > 1. Identify visual and verbal information components in the learning material.
-> 2. Present visual information (diagrams, animations) through the visual channel → [[Visuospatial-Sketchpad]].
-> 3. Present verbal explanation through the auditory channel (narration) → [[Phonological-Loop]].
+> 2. Present visual information (diagrams, animations) through the visual channel → [[visuospatial-sketchpad]].
+> 3. Present verbal explanation through the auditory channel (narration) → [[phonological-loop]].
 > 4. **Avoid** presenting the same information through both channels simultaneously (redundancy effect).
 > 5. **Ensure** verbal and visual information are complementary, not redundant.
 > 6. **Synchronise** timing so that verbal and visual information refer to the same concept simultaneously.
-> 7. Validate against the [[Modality-Effect]], [[Split-Attention-Effect]], and [[Redundancy-Effect]].
+> 7. Validate against the [[modality-effect]], [[split-attention-effect]], and [[redundancy-effect]].
 
 ## Visual Representations
 
@@ -558,19 +558,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[working-memory-foundational-report-2026-04-16]])*:
-- [[Information-Processing-Theory]]
-- [[Atkinson-Shiffrin-Multi-Store-Model]]
+- [[information-processing-theory|Information-Processing-Theory]]
+- [[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]]
 - [[cognitive-psychology]]
-- [[Levels-of-Processing-Theory]]
-- [[Dual-Coding-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Instructional-Design]]
-- [[Cognitive-Theory-of-Multimedia-Learning]]
-- [[Metacognitive-Monitoring]]
-- [[Four-Component-Instructional-Design]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[dual-coding-theory|Dual-Coding-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[instructional-design|Instructional-Design]]
+- [[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[Four-Component-Instructional-Design|Four-Component-Instructional-Design]]
 
 **Related concepts:**
-[[Short-Term-Memory]] · [[Atkinson-Shiffrin-Multi-Store-Model]] · [[Baddeley's-Working-Memory-Model]] · [[Cowan's-Embedded-Processes-Model]] · [[Cognitive-Load-Theory]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Cognitive-Architecture]] · [[Attention]] · [[Cognitive-Load]] · [[Chunking]] · [[Schema-Construction]] · [[Executive-Function]] · [[Cognitive-Load-Theory]] · [[Schema-Theory]] · [[Attention-and-Cognitive-Control]] · [[Levels-of-Processing]] · [[Working-Memory]] · [[Short-Term-Memory]] · [[Cognitive-Architecture]] · [[Attention]] · [[Executive-Function]] · [[Cognitive-Load]] · [[Working-Memory-Capacity]] · [[Cognitive-Load-Theory]] · [[Short-Term-Memory]] · [[Atkinson-Shiffrin-Multi-Store-Model]] · [[Long-Term-Memory]] · [[George-Miller]] · [[Alan-Baddeley]]
+[[short-term-memory|Short-Term-Memory]] · [[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]] · [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]] · [[cowans-embedded-processes-model|Cowan's-Embedded-Processes-Model]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[metacognition|Metacognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[cognitive-architecture|Cognitive-Architecture]] · [[attention|Attention]] · [[cognitive-load|Cognitive-Load]] · [[chunking|Chunking]] · [[schema-construction|Schema-Construction]] · [[executive-function|Executive-Function]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[schema-theory|Schema-Theory]] · [[attention-and-cognitive-control|Attention-and-Cognitive-Control]] · [[levels-of-processing|Levels-of-Processing]] · [[working-memory|Working-Memory]] · [[short-term-memory|Short-Term-Memory]] · [[cognitive-architecture|Cognitive-Architecture]] · [[attention|Attention]] · [[executive-function|Executive-Function]] · [[cognitive-load|Cognitive-Load]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[short-term-memory|Short-Term-Memory]] · [[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]] · [[long-term-memory|Long-Term-Memory]] · [[george-miller|George-Miller]] · [[alan-baddeley|Alan-Baddeley]]
 
 ## References
 

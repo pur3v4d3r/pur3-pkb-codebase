@@ -2085,16 +2085,16 @@ subtask_execution:
 **Depth Potential:** Full framework for agent value alignment, harm prevention, and self-governance  
 **Knowledge Graph Role:** Foundation for all safe agent systems  
 **Priority:** High — Critical for production deployment  
-**Prerequisites:** [[Prompt-Engineering-Fundamentals]]
+**Prerequisites:** [[prompt-engineering-fundamentals]]
 
 ## Cross-Domain Connections
 
 ### 3. **[[Cognitive Load Theory for Prompt Design]]**
 **Connection:** Task decomposition strategies directly implement CLT principles—reducing extraneous load through chunking  
 **Depth Potential:** Synthesize CLT research with prompt engineering for optimized agent cognition  
-**Knowledge Graph Role:** Semantic bridge between [[Cognitive-Science]] and [[Prompt-Engineering]]  
+**Knowledge Graph Role:** Semantic bridge between [[cognitive-science]] and [[Prompt-Engineering]]  
 **Priority:** Medium — Enhances prompt quality understanding  
-**Prerequisites:** [[Cognitive-Load-Theory]], [[Chain-of-Thought]]
+**Prerequisites:** [[cognitive-load-theory]], [[Chain-of-Thought]]
 
 ### 4. **[[Automated Testing for LLM Outputs]]**
 **Connection:** Roadmap verification steps require automated validation—testing frameworks enable this  

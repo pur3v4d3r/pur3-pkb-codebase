@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,43 +69,43 @@ narrower:
   []
 
 see-also:
-  - "[[Paul-Nation|Paul Nation]]"
-  - "[[Vocabulary-Breadth-vs.-Depth|Vocabulary Breadth vs. Depth]]"
-  - "[[Semantic-Memory]]"
-  - "[[Schema-Theory]]"
-  - "[[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]]"
-  - "[[Vocabulary-Comprehension-Spiral|Vocabulary-Comprehension Spiral]]"
-  - "[[Nation's-Vocabulary-Size-Thresholds|Nation's Vocabulary Size Thresholds]]"
-  - "[[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Dual-Coding-Theory]]"
-  - "[[Semantic-Memory]]"
-  - "[[Zipfian-Distribution|Zipfian Distribution]]"
-  - "[[Reading-Fluency]]"
-  - "[[Lexical-Automaticity]]"
-  - "[[Verbal-Efficiency-Theory]]"
-  - "[[Keith-Stanovich]]"
-  - "[[Matthew-Effect]]"
-  - "[[Schema-Theory]]"
-  - "[[Charles-Perfetti|Charles Perfetti]]"
-  - "[[Verbal-Efficiency-Theory]]"
+  - "[[paul-nation|Paul-Nation]]"
+  - "[[vocabulary-breadth-vs.-depth|Vocabulary-Breadth-vs.-Depth]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]]"
+  - "[[vocabulary-comprehension-spiral|Vocabulary-Comprehension-Spiral]]"
+  - "[[nations-vocabulary-size-thresholds|Nation's-Vocabulary-Size-Thresholds]]"
+  - "[[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[dual-coding-theory|Dual-Coding-Theory]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[zipfian-distribution|Zipfian-Distribution]]"
+  - "[[reading-fluency|Reading-Fluency]]"
+  - "[[lexical-automaticity|Lexical-Automaticity]]"
+  - "[[verbal-efficiency-theory|Verbal-Efficiency-Theory]]"
+  - "[[keith-stanovich|Keith-Stanovich]]"
+  - "[[matthew-effect|Matthew-Effect]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[charles-perfetti|Charles-Perfetti]]"
+  - "[[verbal-efficiency-theory|Verbal-Efficiency-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Memory-Systems]]"
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Reading-Fluency]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[memory-systems|Memory-Systems]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[reading-fluency|Reading-Fluency]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Morphological-Awareness-Description-A-full-foundational-report-on-mo|> [!topic-idea] [[Morphological-Awareness]]
-> **Description:** A full foundational report on morphol]]"
+  - topic: "[[> [!topic-idea] [[morphological-awareness|Morphological Awareness]]
+> **Description:** A full founda]]"
     description: ""
     priority: medium
 
@@ -124,7 +124,7 @@ importance: high
 > 
 > **Boundary:** Breadth counts can be misleading because they do not distinguish between partial and full knowledge. A learner may have "breadth" that is actually a collection of weak partial-knowledge words that cannot be deployed flexibly.
 > 
-> **See also:** [[Vocabulary-Comprehension-Spiral]], [[Nation's-Vocabulary-Size-Thresholds]], [[Incidental-Vocabulary-Acquisition]]
+> **See also:** [[vocabulary-comprehension-spiral|Vocabulary-Comprehension Spiral]], [[Nation's-Vocabulary-Size-Thresholds|Nation's Vocabulary Size Thresholds]], [[incidental-vocabulary-acquisition|Incidental Vocabulary Acquisition]]
 
 ## Core Explanation
 
@@ -196,7 +196,7 @@ importance: high
 > For a reader below the coverage threshold, the highest-leverage investment is breadth expansion — encountering and partially acquiring the high-frequency vocabulary that covers most general texts. Nation's Vocabulary Levels Test provides a diagnostic that identifies which frequency bands are and are not under control. For most adult readers in their target language, the first 3,000 word families cover approximately 90% of text, and the next 6,000 cover an additional 7–8%. Systematic attention…
 
 > [!example] **Application** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*
-> Incidental acquisition is efficient for frequent, context-rich words but unreliable for rare words that appear infrequently in natural reading. Deliberate vocabulary learning systems — particularly those based on [[Spaced-Repetition|Spaced Repetition]] — can productively complement reading by targeting vocabulary that natural exposure is unlikely to repeat at the right intervals. The design of effective vocabulary cards should avoid bare definition pairs (word → meaning) in favor of…
+> Incidental acquisition is efficient for frequent, context-rich words but unreliable for rare words that appear infrequently in natural reading. Deliberate vocabulary learning systems — particularly those based on [[spaced-repetition|Spaced Repetition]] — can productively complement reading by targeting vocabulary that natural exposure is unlikely to repeat at the right intervals. The design of effective vocabulary cards should avoid bare definition pairs (word → meaning) in favor of…
 
 > [!warning] **Key Distinction** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*
 > Traditional vocabulary study — memorizing word lists, completing fill-in-the-blank exercises — produces weak, shallow word knowledge that does not transfer reliably to reading comprehension or authentic production. This is because list-based study typically engages only shallow definitional processing, produces bare form-meaning pairs without collocational or contextual anchoring, and creates few of the elaborative associations that make words retrievable across varied contexts. List study has…
@@ -391,30 +391,30 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Schema-Theory]]
-- [[Reading-Fluency]]
-- [[Lexical-Automaticity]]
-- [[Matthew-Effect]]
-- [[Spaced-Repetition]]
-- [[Retrieval-Practice]]
-- [[Self-Regulated-Learning]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[reading-fluency|Reading-Fluency]]
+- [[lexical-automaticity|Lexical-Automaticity]]
+- [[matthew-effect|Matthew-Effect]]
+- [[spaced-repetition|Spaced-Repetition]]
+- [[retrieval-practice|Retrieval-Practice]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
 
 **Cross-report connections** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*:
-- [[Levels-of-Processing-Theory]]
-- [[Schema-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Memory-Systems]]
-- [[Situation-Models-in-Text-Comprehension]]
-- [[Transfer-of-Learning]]
-- [[Extensive-Reading|Extensive Reading]]
-- [[Self-Regulated-Learning]]
-- [[Desirable-Difficulties]]
-- [[Metacognition-&-Lifelong-Learning]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[memory-systems|Memory-Systems]]
+- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[extensive-reading|Extensive-Reading]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[metacognition-lifelong-learning|Metacognition-&-Lifelong-Learning]]
 
 **Related concepts:**
-[[Paul-Nation|Paul Nation]] · [[Vocabulary-Breadth-vs.-Depth|Vocabulary Breadth vs. Depth]] · [[Semantic-Memory]] · [[Schema-Theory]] · [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]] · [[Vocabulary-Comprehension-Spiral|Vocabulary-Comprehension Spiral]] · [[Nation's-Vocabulary-Size-Thresholds|Nation's Vocabulary Size Thresholds]] · [[Incidental-Vocabulary-Acquisition|Incidental Vocabulary Acquisition]] · [[Levels-of-Processing-Theory]] · [[Dual-Coding-Theory]] · [[Semantic-Memory]] · [[Zipfian-Distribution|Zipfian Distribution]] · [[Reading-Fluency]] · [[Lexical-Automaticity]] · [[Verbal-Efficiency-Theory]] · [[Keith-Stanovich]] · [[Matthew-Effect]] · [[Schema-Theory]] · [[Charles-Perfetti|Charles Perfetti]] · [[Verbal-Efficiency-Theory]] · [[Lexical-Automaticity]] · [[Cognitive-Load-Theory]] · [[Levels-of-Processing-Theory]] · [[Paul-Nation|Paul Nation]] · [[Michael-Nagy|Michael Nagy]] · [[Levels-of-Processing-Theory]] · [[Incidental-Learning]] · [[Schema-Theory]] · [[Elaborative-Inference]] · [[Situation-Models-in-Text-Comprehension]]
+[[paul-nation|Paul-Nation]] · [[vocabulary-breadth-vs.-depth|Vocabulary-Breadth-vs.-Depth]] · [[semantic-memory|Semantic-Memory]] · [[schema-theory|Schema-Theory]] · [[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]] · [[vocabulary-comprehension-spiral|Vocabulary-Comprehension-Spiral]] · [[nations-vocabulary-size-thresholds|Nation's-Vocabulary-Size-Thresholds]] · [[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[dual-coding-theory|Dual-Coding-Theory]] · [[semantic-memory|Semantic-Memory]] · [[zipfian-distribution|Zipfian-Distribution]] · [[reading-fluency|Reading-Fluency]] · [[lexical-automaticity|Lexical-Automaticity]] · [[verbal-efficiency-theory|Verbal-Efficiency-Theory]] · [[keith-stanovich|Keith-Stanovich]] · [[matthew-effect|Matthew-Effect]] · [[schema-theory|Schema-Theory]] · [[charles-perfetti|Charles-Perfetti]] · [[verbal-efficiency-theory|Verbal-Efficiency-Theory]] · [[lexical-automaticity|Lexical-Automaticity]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[paul-nation|Paul-Nation]] · [[michael-nagy|Michael-Nagy]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[incidental-learning|Incidental-Learning]] · [[schema-theory|Schema-Theory]] · [[elaborative-inference|Elaborative-Inference]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
 
 ## References
 

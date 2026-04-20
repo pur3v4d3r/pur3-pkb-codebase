@@ -57,18 +57,18 @@ WHERE contains(file.content, "^speculative")
 
 ```markdown
 <!-- Current -->
-[[Cognitive-Load-Theory]] is related to [[Working-Memory]].
+[[cognitive-load-theory]] is related to [[working-memory]].
 
 <!-- Enhanced -->
-[[Cognitive-Load-Theory]] ←builds-on→ [[Working-Memory]]
+[[cognitive-load-theory]] ←builds-on→ [[working-memory]]
 [[Filter Model]] ←superseded-by→ [[Capacity Model]]
 [[Kahneman]] ←developed→ [[Allocation Policy]]
 [[Arousal]] ←modulates→ [[Available Capacity]]
 
 <!-- Machine-readable syntax -->
-[[Cognitive-Load-Theory|builds-on::Working Memory]]
+[[cognitive-load-theory|builds-on::Working Memory]]
 <!-- Or using HTML data attributes -->
-<span data-link="Cognitive Load Theory" data-relation="builds-on" data-target="Working Memory">[[Cognitive-Load-Theory]]</span>
+<span data-link="Cognitive Load Theory" data-relation="builds-on" data-target="Working Memory">[[cognitive-load-theory]]</span>
 ```
 
 **Simpler Implementation** (Obsidian-compatible):
@@ -79,7 +79,7 @@ WHERE contains(file.content, "^speculative")
 <!-- Examples -->
 [**Theoretical-Succession**:: [[Filter Model]] →(superseded-by)→ [[Capacity Model]]]
 [**Causal-Mechanism**:: [[Arousal]] →(modulates)→ [[Available Capacity]]]
-[**Developed-By**:: [[Allocation Policy]] →(created-by)→ [[Daniel-Kahneman]]]
+[**Developed-By**:: [[Allocation Policy]] →(created-by)→ [[daniel-kahneman]]]
 ```
 
 **Prompt Component Addition**:
@@ -126,7 +126,7 @@ The [**Filter Model**:: Broadbent's 1958 theory…]
 Kahneman introduced the [**Allocation Policy**:: executive control mechanism…]
 %%ATOMIC: allocation-policy | atomic-concept | high%%
 
-This connects to [[Yerkes-Dodson-Law]]
+This connects to [[yerkes-dodson-law]]
 %%ATOMIC: yerkes-dodson-law | principle | medium%%
 ```
 
@@ -136,7 +136,7 @@ This connects to [[Yerkes-Dodson-Law]]
 > **Proposed Note Type**: atomic-concept
 > **Priority**: high
 > **Key Content**: Early selection theory positing structural bottleneck…
-> **Connections**: [[dichotic-listening]], [[Early-Selection]], [[Attention]]
+> **Connections**: [[dichotic-listening]], [[Early-Selection]], [[attention]]
 ```
 
 **Prompt Component Addition**:
@@ -270,13 +270,13 @@ According to Kahneman (1973), arousal modulates capacity.
 <!-- Frontmatter addition -->
 ---
 prerequisites:
-  - "[[Information-Processing-Theory]]"
-  - "[[Sensory-Memory]]"
+  - "[[information-processing-theory]]"
+  - "[[sensory-memory]]"
   - "[[selective-attention-basics]]"
 enables:
-  - "[[Cognitive-Load-Theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[working-memory-model]]"
-  - "[[Dual-Task-Interference]]"
+  - "[[dual-task-interference]]"
 difficulty: intermediate
 estimated-study-time: 45min
 ---
@@ -284,13 +284,13 @@ estimated-study-time: 45min
 <!-- Or inline markers -->
 > [!prerequisite]
 > Before this note, understand:
-> - [[Information-Processing-Theory]] — foundational framework
-> - [[Sensory-Memory]] — input stage understanding
-> - [[Selective-Attention]] — basic concept
+> - [[information-processing-theory]] — foundational framework
+> - [[sensory-memory]] — input stage understanding
+> - [[selective-attention]] — basic concept
 
 > [!enables]
 > This note unlocks:
-> - [[Cognitive-Load-Theory]] — direct application
+> - [[cognitive-load-theory]] — direct application
 > - [[Working Memory Model]] — theoretical extension
 ```
 

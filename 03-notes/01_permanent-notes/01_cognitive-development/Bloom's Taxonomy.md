@@ -35,10 +35,10 @@ link-up:
 link-related:
   - "[[2025-11-29|Daily-Note]]"
   - "[[ACER Framework]]"
-  - "[[Paul-Elder-Framework]]"
+  - "[[paul-elder-framework]]"
   - "[[Critical-Thinking-Frameworks]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Critical-Thinking]]"
+  - "[[cognitive-architecture]]"
+  - "[[critical-thinking]]"
 status: active
 
 

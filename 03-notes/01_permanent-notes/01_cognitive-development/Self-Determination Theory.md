@@ -31,11 +31,11 @@ link-up:
   - "[[educational-psychology-moc]]"
 link-related:
   - "[[2025-12-13|Daily-Note]]"
-  - "[[Autonomy]]"
-  - "[[Competence]]"
-  - "[[Relatedness]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Extrinsic-Motivation]]"
+  - "[[autonomy]]"
+  - "[[competence]]"
+  - "[[relatedness]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 status: active
 
 
@@ -49,7 +49,7 @@ review-priority: medium
 
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Self-Determination-Theory]]
+> - **Title**: [[self-determination-theory]]
 > - **MOC**: `=this.link-up`
 
 ```dataviewjs

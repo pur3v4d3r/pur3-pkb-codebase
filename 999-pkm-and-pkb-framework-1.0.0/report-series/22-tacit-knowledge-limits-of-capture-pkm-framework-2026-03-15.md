@@ -77,7 +77,7 @@ analytical-contributions:
   total-analytical-commentary: 17
 
 related-concepts:
-  - "[[Tacit-Knowledge|Tacit Knowledge]]"
+  - "[[tacit-knowledge|Tacit Knowledge]]"
   - "[[Explicit-Knowledge|Explicit Knowledge]]"
   - "[[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]]"
   - "[[Focal-Attention|Focal Attention]]"
@@ -88,26 +88,26 @@ related-concepts:
   - "[[Socialization]]"
   - "[[Externalization]]"
   - "[[Combination]]"
-  - "[[Internalization]]"
-  - "[[Dreyfus-Skill-Acquisition-Model|Dreyfus Skill Acquisition Model]]"
+  - "[[internalization]]"
+  - "[[dreyfus-skill-acquisition-model|Dreyfus Skill Acquisition Model]]"
   - "[[Novice-to-Expert Continuum]]"
-  - "[[Embodied-Cognition|Embodied Cognition]]"
+  - "[[embodied-cognition|Embodied Cognition]]"
   - "[[Sensorimotor Contingencies]]"
   - "[[Merleau-Ponty]]"
-  - "[[Situated-Cognition|Situated Cognition]]"
-  - "[[Procedural-Memory|Procedural Memory]]"
-  - "[[Declarative-Memory]]"
-  - "[[Automaticity]]"
+  - "[[situated-cognition|Situated Cognition]]"
+  - "[[procedural-memory|Procedural Memory]]"
+  - "[[declarative-memory]]"
+  - "[[automaticity]]"
   - "[[Reflection-in-action]]"
   - "[[Reflection-on-Action]]"
   - "[[Schön Reflective Practitioner]]"
   - "[[Expert Intuition]]"
   - "[[Tacit-Knowledge-Observatory|Tacit Knowledge Observatory]]"
   - "[[Tacit-Explicit Interface]]"
-  - "[[Deliberate-Practice]]"
+  - "[[deliberate-practice]]"
   - "[[Portfolio-of-Evidence|Portfolio of Evidence]]"
   - "[[Apprenticeship Model]]"
-  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
+  - "[[personal-knowledge-base|Personal Knowledge Base]]"
   - "[[PKB Complementary Practices]]"
 aliases:
   - Report 22
@@ -133,7 +133,7 @@ This report confronts a question that sits at the foundation of the entire PKM/P
 
 The synthesis question this report addresses is: *How do Michael Polanyi's philosophy of tacit knowledge, Hubert Dreyfus's phenomenological account of skill acquisition, Ikujiro Nonaka's SECI model of organizational knowledge creation, and the cognitive science of embodied and situated cognition combine to reveal what a text-based PKB cannot store — and to suggest what complementary practices should accompany it?*
 
-This is not a comforting question for PKB enthusiasts. The answer involves acknowledging real, irreducible limits. But the answer also generates a more sophisticated and ultimately more powerful conception of what a PKB is *for* — one that positions the PKB not as a replacement for tacit knowing but as a carefully designed complement to it. The disciplines converging on this question are [[Knowledge-Management|Knowledge Management]] (Nonaka, Polanyi), [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] and [[phenomenology]] (Merleau-Ponty, Dreyfus), [[Cognitive-Science|Cognitive Science]] (procedural memory, embodied and situated cognition), and [[Educational-Philosophy|Educational Philosophy]] (craft learning, apprenticeship). Their intersection yields something that no single discipline articulates: a theory of the PKB as a **Tacit Knowledge Observatory** rather than a tacit knowledge repository.
+This is not a comforting question for PKB enthusiasts. The answer involves acknowledging real, irreducible limits. But the answer also generates a more sophisticated and ultimately more powerful conception of what a PKB is *for* — one that positions the PKB not as a replacement for tacit knowing but as a carefully designed complement to it. The disciplines converging on this question are [[Knowledge-Management|Knowledge Management]] (Nonaka, Polanyi), [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] and [[phenomenology]] (Merleau-Ponty, Dreyfus), [[cognitive-science|Cognitive Science]] (procedural memory, embodied and situated cognition), and [[Educational-Philosophy|Educational Philosophy]] (craft learning, apprenticeship). Their intersection yields something that no single discipline articulates: a theory of the PKB as a **Tacit Knowledge Observatory** rather than a tacit knowledge repository.
 
 Each phase builds on the last. Phase II establishes the key frameworks. Phase III examines the evidence for tacit knowledge's resistance to capture — and for what partial capture is possible. Phase IV analyzes the mechanisms that make tacit knowledge tacit, which is where the deepest synthesis occurs. Phase V translates these findings into PKB design. Phase VI produces the report's original synthesis contribution.
 
@@ -194,7 +194,7 @@ Ikujiro Nonaka and Hirotaka Takeuchi, in their landmark 1995 work *The Knowledge
 
 ### Embodied and Situated Cognition
 
-The fourth disciplinary contribution comes from cognitive science's [[Embodied-Cognition|Embodied Cognition]] tradition, associated primarily with Maurice Merleau-Ponty's phenomenology and its contemporary cognitive science developments.
+The fourth disciplinary contribution comes from cognitive science's [[embodied-cognition|Embodied Cognition]] tradition, associated primarily with Maurice Merleau-Ponty's phenomenology and its contemporary cognitive science developments.
 
 > [!definition] **Embodied Cognition (Merleau-Ponty, 1945; Varela, Thompson & Rosch, 1991 — Cognitive Science / Philosophy of Mind)**
 > The thesis that cognition is not merely *about* the body but *constituted by* the body and its sensorimotor engagement with the environment. Knowledge is not stored in a disembodied symbol system and applied through the body; it is enacted through patterns of bodily engagement that cannot be fully abstracted from those engagements. Expert knowledge in physical domains (crafts, sports, surgery, music) is particularly embodied — it consists substantially in refined sensorimotor contingencies that are inaccessible to propositional capture. Boundary condition: not all cognition is equally embodied; abstract reasoning may be more separable from specific bodily instantiation.
@@ -245,7 +245,7 @@ The crucial qualification from Nonaka's own account is that externalization alwa
 
 ### The Embodied Evidence
 
-Cognitive science's [[Procedural-Memory|Procedural Memory]] research provides a neurological angle on tacit knowledge. Procedural memory — the memory system responsible for skills and habits — operates through different neural architecture than declarative (explicitly accessible) memory. Long-term potentiation in motor and perceptual cortices underlies skilled performance; hippocampal encoding underlies propositional knowledge. The two systems interact but are genuinely dissociable: amnesic patients who cannot form new declarative memories can still acquire procedural skills. Conversely, explicit verbal instruction does not directly drive procedural learning — the body must practice (Willingham, 1998; Squire & Zola, 1996).
+Cognitive science's [[procedural-memory|Procedural Memory]] research provides a neurological angle on tacit knowledge. Procedural memory — the memory system responsible for skills and habits — operates through different neural architecture than declarative (explicitly accessible) memory. Long-term potentiation in motor and perceptual cortices underlies skilled performance; hippocampal encoding underlies propositional knowledge. The two systems interact but are genuinely dissociable: amnesic patients who cannot form new declarative memories can still acquire procedural skills. Conversely, explicit verbal instruction does not directly drive procedural learning — the body must practice (Willingham, 1998; Squire & Zola, 1996).
 
 > [!tension-identified] **The Verbalization Paradox in Skill Instruction**
 > A productive tension runs through the evidence on tacit knowledge and instruction. On one hand, research on deliberate practice (Ericsson et al., 1993) emphasizes the importance of immediate, specific feedback — which requires some explicit articulation of what went wrong and why. On the other hand, Dreyfus and the embodied cognition tradition emphasize that overloading learners with explicit rule-following degrades performance and slows the transition to intuitive expertise. Both are well-supported. The tension resolves conditionally: explicit instruction is most valuable at the novice and advanced beginner stages, where schemas are being formed and rules provide scaffolding. As competence develops into proficiency and expertise, explicit instruction should *fade* (as Report 10 established), and embodied practice should dominate. PKBs that continue to emphasize rule-collection and explicit frameworks past the competent stage may actively impede the development of expert intuition.

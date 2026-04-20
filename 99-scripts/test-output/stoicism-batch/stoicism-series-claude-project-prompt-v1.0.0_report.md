@@ -466,7 +466,7 @@ extraction_summary:
 #### 40. [CONNECTION-IDEAS] Untitled *(Line 813)*
 
 > [!connection-ideas] Untitled
-> **Stoicism and [[Cognitive-Behavioral-Therapy]]**: [The specific bridge]
+> **Stoicism and [[cognitive-behavioral-therapy]]**: [The specific bridge]
 
 #### 41. [EXAMPLE] Untitled *(Line 822)*
 
@@ -608,31 +608,31 @@ extraction_summary:
 
 - [[Ancient Philosophy]]
 - [[Apatheia]]
-- [[Aristotle]]
+- [[aristotle]]
 - [[Ataraxia]]
 - [[Bridging concept]]
 - [[Chrysippus]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Complementary or contrasting topic]]
 - [[Concept-Name]]
 - [[Cynicism]]
 - [[Dichotomy-of-Control]]
-- [[Emotional-Regulation]]
+- [[emotional-regulation]]
 - [[Emotional Resilience]]
 - [[Epictetus]]
 - [[Epicureanism]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Expansion Topic 1]]
 - [[Expansion Topic 2]]
 - [[Expansion Topic 3]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
-- [[Metacognition]]
+- [[metacognition]]
 - [[Mindfulness]]
 - [[Next Report Title]]
 - [[Next relevant report]]
 - [[PKB Architect]]
-- [[PKB-Architecture]]
+- [[pkb-architecture]]
 - [[Philosophy MOC]]
 - [[Plato]]
 - [[Preferred-Indifferents]]
@@ -648,7 +648,7 @@ extraction_summary:
 - [[Report N-1 Title]]
 - [[Resilience]]
 - [[Seneca]]
-- [[Socrates]]
+- [[socrates]]
 - [[Sophrosyne]]
 - [[Specific sub-topic 1]]
 - [[Specific sub-topic 2]]
@@ -656,7 +656,7 @@ extraction_summary:
 - [[Stoicism MOC]]
 - [[Stoicism Series Overview]]
 - [[Virtue]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 
 ### All Occurrences
 
@@ -667,12 +667,12 @@ extraction_summary:
 | 3 | [[Marcus-Aurelius]] | — | — | KNOWLEDGE GRAPH POSITIONING | 63 |
 | 4 | [[Epictetus]] | — | — | KNOWLEDGE GRAPH POSITIONING | 64 |
 | 5 | [[Seneca]] | — | — | KNOWLEDGE GRAPH POSITIONING | 65 |
-| 6 | [[Cognitive-Behavioral-Therapy]] | — | — | KNOWLEDGE GRAPH POSITIONING | 66 |
+| 6 | [[cognitive-behavioral-therapy]] | — | — | KNOWLEDGE GRAPH POSITIONING | 66 |
 | 7 | [[Mindfulness]] | — | — | KNOWLEDGE GRAPH POSITIONING | 67 |
 | 8 | [[Emotional Resilience]] | — | — | KNOWLEDGE GRAPH POSITIONING | 68 |
-| 9 | [[Virtue-Ethics]] | — | — | KNOWLEDGE GRAPH POSITIONING | 69 |
-| 10 | [[Metacognition]] | — | — | KNOWLEDGE GRAPH POSITIONING | 70 |
-| 11 | [[PKB-Architecture]] | — | — | KNOWLEDGE GRAPH POSITIONING | 71 |
+| 9 | [[virtue-ethics]] | — | — | KNOWLEDGE GRAPH POSITIONING | 69 |
+| 10 | [[metacognition]] | — | — | KNOWLEDGE GRAPH POSITIONING | 70 |
+| 11 | [[pkb-architecture]] | — | — | KNOWLEDGE GRAPH POSITIONING | 71 |
 | 12 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 228 |
 | 13 | [[Stoicism]] | — | — | ═════════════════════════════════════... | 232 |
 | 14 | [[Marcus-Aurelius]] | — | — | ═════════════════════════════════════... | 233 |
@@ -683,7 +683,7 @@ extraction_summary:
 | 19 | [[Related Report 1]] | — | — | ═════════════════════════════════════... | 242 |
 | 20 | [[Related Report 2]] | — | — | ═════════════════════════════════════... | 243 |
 | 21 | [[Philosophy MOC]] | — | — | ═════════════════════════════════════... | 246 |
-| 22 | [[Virtue-Ethics]] | — | — | ═════════════════════════════════════... | 247 |
+| 22 | [[virtue-ethics]] | — | — | ═════════════════════════════════════... | 247 |
 | 23 | [[Ancient Philosophy]] | — | — | ═════════════════════════════════════... | 248 |
 | 24 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 281 |
 | 25 | [[Specific sub-topic 1]] | — | — | ═════════════════════════════════════... | 283 |
@@ -697,22 +697,22 @@ extraction_summary:
 | 33 | [[Seneca]] | — | — | Wiki-Linking Protocol | 330 |
 | 34 | [[Chrysippus]] | — | — | Wiki-Linking Protocol | 330 |
 | 35 | [[Dichotomy-of-Control]] | — | — | Wiki-Linking Protocol | 331 |
-| 36 | [[Virtue-Ethics]] | — | — | Wiki-Linking Protocol | 331 |
+| 36 | [[virtue-ethics]] | — | — | Wiki-Linking Protocol | 331 |
 | 37 | [[Logos]] | — | — | Wiki-Linking Protocol | 331 |
 | 38 | [[Prohairesis]] | — | — | Wiki-Linking Protocol | 331 |
-| 39 | [[Eudaimonia]] | — | — | Wiki-Linking Protocol | 331 |
+| 39 | [[eudaimonia]] | — | — | Wiki-Linking Protocol | 331 |
 | 40 | [[Apatheia]] | — | — | Wiki-Linking Protocol | 331 |
 | 41 | [[Ataraxia]] | — | — | Wiki-Linking Protocol | 331 |
 | 42 | [[Sophrosyne]] | — | — | Wiki-Linking Protocol | 331 |
-| 43 | [[Cognitive-Behavioral-Therapy]] | — | — | Wiki-Linking Protocol | 332 |
+| 43 | [[cognitive-behavioral-therapy]] | — | — | Wiki-Linking Protocol | 332 |
 | 44 | [[Mindfulness]] | — | — | Wiki-Linking Protocol | 332 |
-| 45 | [[Emotional-Regulation]] | — | — | Wiki-Linking Protocol | 332 |
+| 45 | [[emotional-regulation]] | — | — | Wiki-Linking Protocol | 332 |
 | 46 | [[Resilience]] | — | — | Wiki-Linking Protocol | 332 |
 | 47 | [[Stoicism MOC]] | — | — | Wiki-Linking Protocol | 333 |
 | 48 | [[Stoicism Series Overview]] | — | — | Wiki-Linking Protocol | 333 |
-| 49 | [[Socrates]] | — | — | Wiki-Linking Protocol | 334 |
+| 49 | [[socrates]] | — | — | Wiki-Linking Protocol | 334 |
 | 50 | [[Plato]] | — | — | Wiki-Linking Protocol | 334 |
-| 51 | [[Aristotle]] | — | — | Wiki-Linking Protocol | 334 |
+| 51 | [[aristotle]] | — | — | Wiki-Linking Protocol | 334 |
 | 52 | [[Cynicism]] | — | — | Wiki-Linking Protocol | 334 |
 | 53 | [[Epicureanism]] | — | — | Wiki-Linking Protocol | 334 |
 | 54 | [[Previous relevant report]] | — | — | Part 6: Integration — How This Connec... | 469 |
@@ -723,18 +723,18 @@ extraction_summary:
 | 59 | [[Expansion Topic 3]] | — | — | Expansion Topics for PKB | 507 |
 | 60 | [[Related Case or Figure 1]] | — | — | Related Cases for Comparison | 737 |
 | 61 | [[Related Case or Figure 2]] | — | — | Related Cases for Comparison | 738 |
-| 62 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 4: The Psychology Behind the Phi... | 814 |
+| 62 | [[cognitive-behavioral-therapy]] | — | — | Part 4: The Psychology Behind the Phi... | 814 |
 | 63 | [[Dichotomy-of-Control]] | — | — | Cross-Report Consistency Requirements | 1064 |
 | 64 | [[Logos]] | — | — | Cross-Report Consistency Requirements | 1065 |
 | 65 | [[Prohairesis]] | — | — | Cross-Report Consistency Requirements | 1066 |
 | 66 | [[Virtue]] | — | — | Cross-Report Consistency Requirements | 1067 |
 | 67 | [[Preferred-Indifferents]] | — | — | Cross-Report Consistency Requirements | 1068 |
-| 68 | [[Eudaimonia]] | — | — | Cross-Report Consistency Requirements | 1069 |
+| 68 | [[eudaimonia]] | — | — | Cross-Report Consistency Requirements | 1069 |
 | 69 | [[Stoicism Series Overview]] | — | — | Cross-Report Consistency Requirements | 1079 |
 | 70 | [[Report N-1 Title]] | — | — | Cross-Report Consistency Requirements | 1081 |
 | 71 | [[Report N+1 Title]] | — | — | Cross-Report Consistency Requirements | 1082 |
 | 72 | [[Dichotomy-of-Control]] | — | — | Cross-Report Consistency Requirements | 1089 |
-| 73 | [[Eudaimonia]] | — | — | Cross-Report Consistency Requirements | 1091 |
+| 73 | [[eudaimonia]] | — | — | Cross-Report Consistency Requirements | 1091 |
 
 ---
 
@@ -1110,31 +1110,31 @@ subdomains:
 
 - [[Ancient Philosophy]]
 - [[Apatheia]]
-- [[Aristotle]]
+- [[aristotle]]
 - [[Ataraxia]]
 - [[Bridging concept]]
 - [[Chrysippus]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Complementary or contrasting topic]]
 - [[Concept-Name]]
 - [[Cynicism]]
 - [[Dichotomy-of-Control]]
-- [[Emotional-Regulation]]
+- [[emotional-regulation]]
 - [[Emotional Resilience]]
 - [[Epictetus]]
 - [[Epicureanism]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Expansion Topic 1]]
 - [[Expansion Topic 2]]
 - [[Expansion Topic 3]]
 - [[Logos]]
 - [[Marcus-Aurelius]]
-- [[Metacognition]]
+- [[metacognition]]
 - [[Mindfulness]]
 - [[Next Report Title]]
 - [[Next relevant report]]
 - [[PKB Architect]]
-- [[PKB-Architecture]]
+- [[pkb-architecture]]
 - [[Philosophy MOC]]
 - [[Plato]]
 - [[Preferred-Indifferents]]
@@ -1150,7 +1150,7 @@ subdomains:
 - [[Report N-1 Title]]
 - [[Resilience]]
 - [[Seneca]]
-- [[Socrates]]
+- [[socrates]]
 - [[Sophrosyne]]
 - [[Specific sub-topic 1]]
 - [[Specific sub-topic 2]]
@@ -1158,7 +1158,7 @@ subdomains:
 - [[Stoicism MOC]]
 - [[Stoicism Series Overview]]
 - [[Virtue]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 
 ---
 

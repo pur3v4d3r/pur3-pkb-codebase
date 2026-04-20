@@ -353,9 +353,9 @@ graph TB
 
 > [!definition]
 > **Emergent Concepts:**
-> - **[[Concept A]]:** {{Define this concept *in terms of* what we've already derived}}
+> - **[[Concept-A]]:** {{Define this concept *in terms of* what we've already derived}}
 >   - *This is not a primitive term but a shorthand for:* {{Precise definition using previous theorems}}
-> - **[[Concept B]]:** {{Define in terms of derivations}}
+> - **[[Concept-B]]:** {{Define in terms of derivations}}
 
 > [!analogy]
 > **The Reconstruction Process:**

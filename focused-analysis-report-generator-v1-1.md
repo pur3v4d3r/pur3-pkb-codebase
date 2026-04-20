@@ -20,15 +20,15 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Transfer-of-Learning]]"
-  - "[[Far-Transfer]]"
-  - "[[Schema-Theory]]"
+  - "[[transfer-of-learning]]"
+  - "[[far-transfer]]"
+  - "[[schema-theory]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -95,16 +95,16 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Chain of Density]]"
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
 
 extends:
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -116,14 +116,14 @@ aliases:
   - "[[Report Generator - Focused Analysis]]"
   - "[[Deep Dive Report Prompt]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
   - "[[Comparative Synthesis Report Prompt]]"
   - "[[Dialectical Re-Examination Report Prompt]]"
 link_related:
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
   - "[[Dialectical Re-Examination Report Generator v1.0]]"
   - "[[Comparative Synthesis Report Generator v1.0]]"
@@ -291,7 +291,7 @@ Think of the difference this way: a Foundational Report is a satellite image sho
 
 6. **Build Progressive Understanding**: Through the **Progressive Depth Architecture** (Section 4), each major concept is introduced at an orientation level, then deepened through mechanism, implication, and frontier layers — creating a reading experience where understanding accumulates and compounds.
 
-7. **Ensure Insights Travel (NEW in v1.1)**: Through the dedicated **FAR Transfer Phase** (Phase VII), the report explicitly extracts transferable principles, identifies structural analogues across domains, and provides application bridges — grounded in research on [[Transfer-of-Learning]] — so that the analysis's value extends beyond its originating topic.
+7. **Ensure Insights Travel (NEW in v1.1)**: Through the dedicated **FAR Transfer Phase** (Phase VII), the report explicitly extracts transferable principles, identifies structural analogues across domains, and provides application bridges — grounded in research on [[transfer-of-learning]] — so that the analysis's value extends beyond its originating topic.
 
 ### Reader Model
 
@@ -430,7 +430,7 @@ Execute in `<thinking>` blocks during report planning:
 
 ### Schema Activation Protocol (NEW in v1.1)
 
-[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[Advance-Organizer]] theory (Ausubel, 1960) and [[Schema-Theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
+[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[advance-organizer]] theory (Ausubel, 1960) and [[schema-theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
 
 Place the following at the opening of Phase I, before any analytical content:
 
@@ -468,7 +468,7 @@ Place the following at the opening of Phase I, before any analytical content:
 
 **Purpose**: Test the reader's understanding of a critical concept BEFORE the report builds on it.
 
-**Cognitive Science Basis**: [[Elaborative-Interrogation]].
+**Cognitive Science Basis**: [[elaborative-interrogation]].
 
 **Placement**: After introducing a critical concept that subsequent sections depend on.
 
@@ -507,7 +507,7 @@ Place the following at the opening of Phase I, before any analytical content:
 
 ### Modality 6: Transfer-Application Prompts (NEW in v1.1)
 
-[**Transfer-Application-Prompt**:: Cognitive engagement modality that bridges the analysis's insights to other domains. Grounded in [[Transfer-of-Learning]] research showing that transfer is cognitively expensive, rarely spontaneous, and requires explicit prompting. These prompts invite the reader to actively identify domains where the analysis's structural insights might apply.]
+[**Transfer-Application-Prompt**:: Cognitive engagement modality that bridges the analysis's insights to other domains. Grounded in [[transfer-of-learning]] research showing that transfer is cognitively expensive, rarely spontaneous, and requires explicit prompting. These prompts invite the reader to actively identify domains where the analysis's structural insights might apply.]
 
 **Placement**: During Phase VII (FAR Transfer) and in reflective questions throughout.
 
@@ -563,7 +563,7 @@ Place the following at the opening of Phase I, before any analytical content:
 
 When a concept is introduced early (Layers 1-2), revisit it later with accumulated context for Layers 3-4:
 
-*"Earlier, we introduced [[Concept A]] as {orientation summary}. With the mechanism of [[Concept B]] now in view, we can see that Concept A has an implication that wasn't visible before: {new insight}."*
+*"Earlier, we introduced [[Concept-A]] as {orientation summary}. With the mechanism of [[Concept-B]] now in view, we can see that Concept A has an implication that wasn't visible before: {new insight}."*
 
 Plan for 2-4 concepts to receive this treatment.
 
@@ -818,9 +818,9 @@ Every Focused Analysis Report follows a **nine-phase** architecture (expanded fr
 
 ### Phase VII: FAR Transfer — Structural Analogues Across Domains (NEW in v1.1) (600-1,200 words)
 
-[**FAR-Transfer-Phase**:: Dedicated phase ensuring the analysis's insights travel beyond their originating domain. Grounded in [[Transfer-of-Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural-Mapping-Theory]] (Gentner, 1983), and [[Analogical-Reasoning]] research (Holyoak & Thagard, 1995). Executes four transfer operations: abstract principle extraction, structural analogue identification, transfer encoding, and application bridging.]
+[**FAR-Transfer-Phase**:: Dedicated phase ensuring the analysis's insights travel beyond their originating domain. Grounded in [[transfer-of-learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[structural-mapping-theory]] (Gentner, 1983), and [[analogical-reasoning]] research (Holyoak & Thagard, 1995). Executes four transfer operations: abstract principle extraction, structural analogue identification, transfer encoding, and application bridging.]
 
-**Purpose**: Move the analysis's most important insights from domain-specific findings to transferable understanding. Research on [[Transfer-of-Learning]] demonstrates that transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding to succeed.
+**Purpose**: Move the analysis's most important insights from domain-specific findings to transferable understanding. Research on [[transfer-of-learning]] demonstrates that transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding to succeed.
 
 **Required Elements:**
 
@@ -828,7 +828,7 @@ Every Focused Analysis Report follows a **nine-phase** architecture (expanded fr
 
   *Template*: "The analysis revealed that {concrete finding in this domain}. At an abstract structural level, this instantiates a more general principle: {domain-independent principle}. This principle operates whenever {conditions for applicability}."
 
-- **Structural Analogue Identification** (2-3 per principle): Identify other domains where the same structural pattern operates — genuine [[Structural-Mapping-Theory|structural isomorphism]], not surface similarity.
+- **Structural Analogue Identification** (2-3 per principle): Identify other domains where the same structural pattern operates — genuine [[structural-mapping-theory|structural isomorphism]], not surface similarity.
 
   *Template*: "The principle of {abstract principle} operates through {mechanism A} in {originating domain}. The same structural pattern appears in {target domain}, manifesting as {mechanism B}. The analogy holds because both share {relational structure}."
 

@@ -212,7 +212,7 @@ Follow the universal output scaffold below.
 > - [[Systems-Thinking]] → maps interdependencies  
 > - [[Second-Order Effects]] → anticipates ripple effects  
 > - [[Constraint Theory]] → identifies bottlenecks  
-> - [[Mental-Models]] → supports cross-domain transfer  
+> - [[mental-models]] → supports cross-domain transfer  
 
 ### Section 2: Synthesis & Reflection  
 > [!summary]  

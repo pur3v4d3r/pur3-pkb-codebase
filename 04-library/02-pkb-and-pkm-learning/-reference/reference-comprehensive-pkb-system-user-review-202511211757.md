@@ -43,7 +43,7 @@ aliases: [Personal Review System, PKB Review Framework, Periodic Review Methodol
 
 > [!abstract]
 > **Executive Overview**
-> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[Obsidian]], integrating [[Periodic Notes]], [[Templater]], [[Dataview]], and [[Calendar Plugin]] to create automated, sustainable [[Reflective-Practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
+> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[obsidian]], integrating [[Periodic Notes]], [[Templater]], [[Dataview]], and [[Calendar Plugin]] to create automated, sustainable [[reflective-practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -73,7 +73,7 @@ aliases: [Personal Review System, PKB Review Framework, Periodic Review Methodol
 > [!the-philosophy]
 > **The Examined Life Principle**
 > 
-> Personal reviews transform scattered experiences into systematic learning. Without [[Reflective-Practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[Self-Regulated-Learning]] and [[Metacognitive-Development]].
+> Personal reviews transform scattered experiences into systematic learning. Without [[reflective-practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[self-regulated-learning]] and [[Metacognitive-Development]].
 
 ### The Purpose of Systematic Reviews
 
@@ -92,9 +92,9 @@ Different review frequencies serve distinct cognitive and practical purposes:
 
 | Review Type | Primary Function | Cognitive Focus | Time Investment |
 |-------------|------------------|-----------------|-----------------|
-| **Daily** | Capture & immediate reflection | [[Working-Memory]] management | 5-15 minutes |
-| **Weekly** | Processing & planning | [[Executive-Function]] optimization | 30-90 minutes |
-| **Monthly** | Pattern analysis & goal alignment | [[Metacognition]] & strategic thinking | 45-120 minutes |
+| **Daily** | Capture & immediate reflection | [[working-memory]] management | 5-15 minutes |
+| **Weekly** | Processing & planning | [[executive-function]] optimization | 30-90 minutes |
+| **Monthly** | Pattern analysis & goal alignment | [[metacognition]] & strategic thinking | 45-120 minutes |
 | **Quarterly** | Direction assessment | Strategic evaluation & pivoting | 2-4 hours |
 | **Annual** | Identity & values alignment | Life trajectory & meaning-making | 4-8 hours |
 
@@ -118,8 +118,8 @@ Research on reflective practice shows that consistent self-reflection correlates
 ## 🧠 Review Psychology & Cognitive Science
 
 > [!definition]
-> - **Reflective Practice**:: [[Reflective-Practice]]
-> - **Definition**:: The systematic examination of one's experiences, decisions, and outcomes to extract learning and improve future performance. Rooted in [[Metacognition]]—thinking about thinking.
+> - **Reflective Practice**:: [[reflective-practice]]
+> - **Definition**:: The systematic examination of one's experiences, decisions, and outcomes to extract learning and improve future performance. Rooted in [[metacognition]]—thinking about thinking.
 
 ### Cognitive Mechanisms Behind Effective Reviews
 
@@ -182,7 +182,7 @@ Understanding why review systems break down is as important as understanding why
 ## 🏗️ Plugin Ecosystem Overview
 
 > [!what-this-does]
-> This section maps the complete plugin architecture required for a comprehensive review system in [[Obsidian]]. Each plugin serves specific functions that, when integrated, create a seamless review workflow.
+> This section maps the complete plugin architecture required for a comprehensive review system in [[obsidian]]. Each plugin serves specific functions that, when integrated, create a seamless review workflow.
 
 ### Core Plugin Stack (Essential)
 
@@ -759,7 +759,7 @@ Templates should reveal complexity gradually:
 
 > [!definition]
 > - **Daily Review**:: [[Daily Review]]
-> - **Definition**:: Brief end-of-day reflection (5-15 minutes) focused on capturing the day's events, processing immediate insights, and preparing for the next day. Primary function is [[Working-Memory]] management and maintaining [[Open Loop]] hygiene.
+> - **Definition**:: Brief end-of-day reflection (5-15 minutes) focused on capturing the day's events, processing immediate insights, and preparing for the next day. Primary function is [[working-memory]] management and maintaining [[Open Loop]] hygiene.
 
 ### Purpose & Cognitive Function
 
@@ -2757,14 +2757,14 @@ Structural Planning:
 - Wiki-Link Opportunities:
   * [[Periodic Notes]]
   * [[Templater]]
-  * [[Personal-Knowledge-Management]]
-  * [[Reflective-Practice]]
+  * [[personal-knowledge-management]]
+  * [[reflective-practice]]
   * [[GTD (Getting Things Done)]]
-  * [[Spaced-Repetition]]
-  * [[Zettelkasten]]
+  * [[spaced-repetition]]
+  * [[zettelkasten]]
   * [[Progressive-Summarization]]
-  * [[Metacognition]]
-  * [[Self-Regulated-Learning]]
+  * [[metacognition]]
+  * [[self-regulated-learning]]
   * [[Calendar Plugin]]
   * [[Dataview]]
   * [[QuickAdd]]

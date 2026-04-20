@@ -45,7 +45,7 @@ review-priority: medium
 # Motivational Psychology
 
 > [!definition]
-> - **Key-Term**:[[Motivational-Psychology]]
+> - **Key-Term**:[[motivational-psychology]]
 > - **Definition**:<% tp.file.cursor(1) %>
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

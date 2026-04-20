@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +41,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,51 +65,51 @@ narrower:
   []
 
 see-also:
-  - "[[Constructivism]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Elaborative-Interrogation]]"
-  - "[[Generative-Learning]]"
-  - "[[Generative-Processing]]"
-  - "[[Cognitive-Theory-of-Multimedia-Learning]]"
-  - "[[ICAP-Framework]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Behaviorist-vs.-Cognitive-Theories-of-Learning]]"
-  - "[[Atkinson-and-Shiffrin]]"
-  - "[[Short-Term-Memory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Generative-Learning-Theory]]"
-  - "[[Jean-Piaget]]"
-  - "[[Assimilation-and-Accommodation]]"
-  - "[[Constructivism]]"
-  - "[[David-Ausubel]]"
-  - "[[Meaningful-Learning-Theory]]"
-  - "[[Assimilation-Theory]]"
-  - "[[Cognitive-Architecture]]"
+  - "[[constructivism|Constructivism]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[generative-learning|Generative-Learning]]"
+  - "[[generative-processing|Generative-Processing]]"
+  - "[[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]]"
+  - "[[icap-framework|ICAP-Framework]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[behaviorist-vs.-cognitive-theories-of-learning|Behaviorist-vs.-Cognitive-Theories-of-Learning]]"
+  - "[[atkinson-and-shiffrin|Atkinson-and-Shiffrin]]"
+  - "[[short-term-memory|Short-Term-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[generative-learning-theory|Generative-Learning-Theory]]"
+  - "[[jean-piaget|Jean-Piaget]]"
+  - "[[assimilation-and-accommodation|Assimilation-and-Accommodation]]"
+  - "[[constructivism|Constructivism]]"
+  - "[[david-ausubel|David-Ausubel]]"
+  - "[[meaningful-learning-theory|Meaningful-Learning-Theory]]"
+  - "[[assimilation-theory|Assimilation-Theory]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Meaningful-Learning-Theory]]"
-  - "[[Levels-of-Processing-Theory]]"
+  - "[[meaningful-learning-theory|Meaningful-Learning-Theory]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Spacing-Effect-—-Spaced-Practice-and-Generative-Learning-Connection|> [!topic-idea] **[[Spacing-Effect]]** — Spaced Practice and Generative Learning
+  - topic: "[[> [!topic-idea] **[[spacing-effect]]** — Spaced Practice and Generative Learning
 > *Connection*: Dis]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-Interleaving-—-Interleaved-Practice-as-Generative-Discrimination-Con|> [!topic-idea] **[[interleaving]]** — Interleaved Practice as Generative Discrimination
+  - topic: "[[> [!topic-idea] **[[interleaving]]** — Interleaved Practice as Generative Discrimination
 > *Connecti]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-Transfer-of-Learning-—-Far-Transfer-and-the-Limits-of-Generative-Lea|> [!topic-idea] **[[Transfer-of-Learning]]** — Far Transfer and the Limits of Generative Learning
+  - topic: "[[> [!topic-idea] **[[transfer-of-learning]]** — Far Transfer and the Limits of Generative Learning
 > ]]"
     description: ""
     priority: medium
-  - topic: "[[!topic-idea-Worked-Examples-—-the-Expertise-Reversal-in-Instructional-Sequencing|> [!topic-idea] **[[Worked-Examples]]** — the Expertise Reversal in Instructional Sequencing
+  - topic: "[[> [!topic-idea] **[[Worked-Examples]]** — the Expertise Reversal in Instructional Sequencing
 > *Conn]]"
     description: ""
     priority: medium
@@ -174,7 +174,7 @@ importance: high
 > Learning is a process of active meaning construction in which the learner generates relationships between new information and existing knowledge, experience, and mental representations. Comprehension is not received but built. Understanding is not transmitted but constructed. This principle distinguishes generative learning from all passive models of knowledge acquisition.
 
 > [!analytical-insight] Key Insight *(from [[generative-learning-theory-foundational-report-2026-04-03]])*
-> One of the most important empirical demonstrations of the interaction between generative learning and prior knowledge is the [[Expertise-Reversal-Effect|expertise reversal effect]], identified by Kalyuga, Ayres, Chandler, and Sweller (2003). This effect describes how instructional methods that benefit novice learners may actually *impair* learning in more advanced learners, and vice versa. Detailed instructional guidance, worked examples, and scaffolded prompts help novices because they reduce…
+> One of the most important empirical demonstrations of the interaction between generative learning and prior knowledge is the [[expertise-reversal-effect|expertise reversal effect]], identified by Kalyuga, Ayres, Chandler, and Sweller (2003). This effect describes how instructional methods that benefit novice learners may actually *impair* learning in more advanced learners, and vice versa. Detailed instructional guidance, worked examples, and scaffolded prompts help novices because they reduce…
 
 ## Practical Implications
 
@@ -248,7 +248,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: What Do You Already Know About Active Learning?** *(from [[generative-learning-theory-foundational-report-2026-04-03]])*
-> Before engaging with Generative Learning Theory, consider what prior knowledge you already hold that this framework will connect to and extend. If you are familiar with [[Constructivism]], you already understand the basic premise that learners construct knowledge rather than receive it. If you have encountered [[Levels-of-Processing-Theory]] by Craik and Lockhart, you know that deeper cognitive processing at encoding yields more durable memory traces. If you have practiced [[Elaborative-Interrogation]] — asking yourself "why" and "how" questions while studying — you have already engaged in…
+> Before engaging with Generative Learning Theory, consider what prior knowledge you already hold that this framework will connect to and extend. If you are familiar with [[constructivism]], you already understand the basic premise that learners construct knowledge rather than receive it. If you have encountered [[levels-of-processing-theory]] by Craik and Lockhart, you know that deeper cognitive processing at encoding yields more durable memory traces. If you have practiced [[elaborative-interrogation]] — asking yourself "why" and "how" questions while studying — you have already engaged in…
 
 ## Debates
 
@@ -365,38 +365,38 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[generative-learning-theory-foundational-report-2026-04-03]])*:
-- [[Constructivism]]
-- [[Information-Processing-Theory]]
-- [[Schema-Theory]]
-- [[Levels-of-Processing-Theory]]
-- [[Meaningful-Learning-Theory]]
-- [[Baddeley's-Working-Memory-Model]]
+- [[constructivism|Constructivism]]
+- [[information-processing-theory|Information-Processing-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[meaningful-learning-theory|Meaningful-Learning-Theory]]
+- [[baddeleys-working-memory-model|Baddeley's-Working-Memory-Model]]
 
 **Cross-report connections** *(from [[generative-learning-theory-foundational-report-2026-04-03]])*:
-- [[Cognitive-Theory-of-Multimedia-Learning]]
-- [[ICAP-Framework]]
-- [[Self-Regulated-Learning]]
-- [[Productive-Failure]]
-- [[Desirable-Difficulties]]
+- [[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]]
+- [[icap-framework|ICAP-Framework]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[productive-failure|Productive-Failure]]
+- [[desirable-difficulties|Desirable-Difficulties]]
 
 **Cross-report connections** *(from [[generative-learning-theory-foundational-report-2026-04-03]])*:
-- [[Testing-Effect]]
-- [[Self-Explanation-Effect]]
-- [[Retrieval-Practice]]
-- [[Elaborative-Interrogation]]
-- [[Spacing-Effect]]
-- [[Dual-Coding-Theory]]
+- [[Testing-Effect|Testing-Effect]]
+- [[self-explanation-effect|Self-Explanation-Effect]]
+- [[retrieval-practice|Retrieval-Practice]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[spacing-effect|Spacing-Effect]]
+- [[dual-coding-theory|Dual-Coding-Theory]]
 
 **Cross-report connections** *(from [[generative-learning-theory-foundational-report-2026-04-03]])*:
-- [[Note-Making-vs.-Note-Taking]]
-- [[Active-Note-Making]]
-- [[Personal-Knowledge-Management]]
-- [[Zettelkasten]]
-- [[Metacognition]]
-- [[Transfer-of-Learning]]
+- [[note-making-vs.-note-taking|Note-Making-vs.-Note-Taking]]
+- [[active-note-making|Active-Note-Making]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[zettelkasten|Zettelkasten]]
+- [[metacognition|Metacognition]]
+- [[transfer-of-learning|Transfer-of-Learning]]
 
 **Related concepts:**
-[[Constructivism]] · [[Levels-of-Processing-Theory]] · [[Elaborative-Interrogation]] · [[Generative-Learning]] · [[Generative-Processing]] · [[Cognitive-Theory-of-Multimedia-Learning]] · [[ICAP-Framework]] · [[Self-Regulated-Learning]] · [[Behaviorist-vs.-Cognitive-Theories-of-Learning]] · [[Atkinson-and-Shiffrin]] · [[Short-Term-Memory]] · [[Long-Term-Memory]] · [[Generative-Learning-Theory]] · [[Jean-Piaget]] · [[Assimilation-and-Accommodation]] · [[Constructivism]] · [[David-Ausubel]] · [[Meaningful-Learning-Theory]] · [[Assimilation-Theory]] · [[Cognitive-Architecture]] · [[Advance-Organizer]] · [[Levels-of-Processing-Theory]] · [[Deep-Processing]] · [[Information-Processing-Theory]] · [[George-Miller]] · [[Cognitive-Theory-of-Multimedia-Learning]] · [[Attention]] · [[Schema-Theory]] · [[Prior-Knowledge-Activation]] · [[Mental-Models]]
+[[constructivism|Constructivism]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[generative-learning|Generative-Learning]] · [[generative-processing|Generative-Processing]] · [[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]] · [[icap-framework|ICAP-Framework]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[behaviorist-vs.-cognitive-theories-of-learning|Behaviorist-vs.-Cognitive-Theories-of-Learning]] · [[atkinson-and-shiffrin|Atkinson-and-Shiffrin]] · [[short-term-memory|Short-Term-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[generative-learning-theory|Generative-Learning-Theory]] · [[jean-piaget|Jean-Piaget]] · [[assimilation-and-accommodation|Assimilation-and-Accommodation]] · [[constructivism|Constructivism]] · [[david-ausubel|David-Ausubel]] · [[meaningful-learning-theory|Meaningful-Learning-Theory]] · [[assimilation-theory|Assimilation-Theory]] · [[cognitive-architecture|Cognitive-Architecture]] · [[advance-organizer|Advance-Organizer]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[deep-processing|Deep-Processing]] · [[information-processing-theory|Information-Processing-Theory]] · [[george-miller|George-Miller]] · [[cognitive-theory-of-multimedia-learning|Cognitive-Theory-of-Multimedia-Learning]] · [[attention|Attention]] · [[schema-theory|Schema-Theory]] · [[prior-knowledge-activation|Prior-Knowledge-Activation]] · [[mental-models|Mental-Models]]
 
 ## References
 

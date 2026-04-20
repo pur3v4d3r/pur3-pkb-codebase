@@ -274,7 +274,7 @@ The *location* on the web dictates the *processes* a galaxy will experience:
 > [!connection-ideas]
 >
 >   * *The principles discussed here* **strongly connect to the field of:**
->       * [[Stellar-Evolution]]
+>       * [[stellar-evolution]]
 >       * **The reason:**
 >           * The "color" of a galaxy ("blue" vs. "red") is a direct proxy for its star-formation history. The environmental mechanisms of the cosmic web (mergers, stripping) are the *direct cause* of [[Star Formation Cessation]] ("quenching"). Therefore, to understand why some galaxies are "dead" and others are "alive," you *must* understand their position in the dark matter-dominated cosmic web.
 

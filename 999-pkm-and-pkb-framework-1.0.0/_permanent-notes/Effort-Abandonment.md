@@ -5,6 +5,7 @@
 title: "Effort Abandonment"
 aliases:
   - "Effort Abandonment"
+  - "Effort-Abandonment"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -37,8 +38,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +50,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,18 +74,26 @@ narrower:
   []
 
 see-also:
-  - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Flavell-Metacognition-Framework]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Metacognitive-Experience]]"
-  - "[[Monitoring-Control-Coupling]]"
-  - "[[Monitoring-Gap]]"
-  - "[[Situation-Model]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Working-Memory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[flavell-metacognition-framework|Flavell-Metacognition-Framework]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[metacognitive-experience|Metacognitive-Experience]]"
+  - "[[monitoring-control-coupling|Monitoring-Control-Coupling]]"
+  - "[[monitoring-gap|Monitoring-Gap]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[situation-model|Situation-Model]]"
+  - "[[monitoring-gap|Monitoring-Gap]]"
+  - "[[working-memory|Working-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -96,7 +105,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Metacognitive-Calibration-in-Reading-Assessment-The-analysis-identif|> [!topic-idea] [[Metacognitive-Calibration]] in Reading Assessment
+  - topic: "[[> [!topic-idea] [[metacognitive-calibration]] in Reading Assessment
 > The analysis identifies miscal]]"
     description: ""
     priority: medium
@@ -120,10 +129,10 @@ importance: high
 > The error detection paradigm is often interpreted as demonstrating that readers have poor monitoring skills — that they lack the ability to detect comprehension failures. A more precise reading of the evidence suggests something subtler: readers have the *capacity* for monitoring but deploy it selectively and inconsistently. The critical variable is not capacity but the conditions under which monitoring is spontaneously activated. This reframing has direct implications for intervention: if the…
 
 > [!evidence] Supporting Evidence *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*
-> Garner's comprehensive review of metacognitive failures in reading identified a pattern she called "compile to understand" — the tendency of many readers to treat successful word-by-word processing as equivalent to successful comprehension. Readers who "compile" in this sense feel that they have understood a text if they have read all the words without stumbling, regardless of whether those words have been integrated into a coherent [[Situation-Model]]. This illusion — a specific variant of the…
+> Garner's comprehensive review of metacognitive failures in reading identified a pattern she called "compile to understand" — the tendency of many readers to treat successful word-by-word processing as equivalent to successful comprehension. Readers who "compile" in this sense feel that they have understood a text if they have read all the words without stumbling, regardless of whether those words have been integrated into a coherent [[situation-model]]. This illusion — a specific variant of the…
 
 > [!evidence] Supporting Evidence *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*
-> A striking pattern emerges when the most effective reading interventions are examined structurally: they all *externalize* the monitoring process. Think-aloud protocols, self-explanation, reciprocal teaching, annotation — each works in part by moving metacognitive monitoring from an internal, invisible, easily-suppressed process to an external, visible, socially-consequential one. This is not incidental to their effectiveness: it is the mechanism. The implication is that the [[Monitoring-Gap]]…
+> A striking pattern emerges when the most effective reading interventions are examined structurally: they all *externalize* the monitoring process. Think-aloud protocols, self-explanation, reciprocal teaching, annotation — each works in part by moving metacognitive monitoring from an internal, invisible, easily-suppressed process to an external, visible, socially-consequential one. This is not incidental to their effectiveness: it is the mechanism. The implication is that the [[monitoring-gap]]…
 
 > [!evidence] Supporting Evidence *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*
 > Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
@@ -168,7 +177,7 @@ importance: high
 > Readers can monitor at multiple levels of text representation. Monitoring for *surface coherence* (do the words parse?) operates at a lower level of processing than monitoring for *situational coherence* (does this event make sense in the world the text has constructed?). Most comprehension failures that matter — failures of inference, failures of integration, failures of causal understanding — occur at the situational level. But the monitoring signals that are easiest to generate operate at…
 
 > [!analytical-insight] Key Insight *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*
-> Fluency in word recognition and decoding is a demonstrably necessary condition for skilled reading comprehension — readers who must allocate working memory to word decoding have fewer cognitive resources for comprehension monitoring (LaBerge & Samuels, 1974; Perfetti, 1985). This is the "simple view of reading" logic: decode fluently, and cognitive resources are freed for comprehension. Yet the evidence on the [[Fluency-Illusion]] — reviewed in Phase IV — demonstrates that *too much* fluency…
+> Fluency in word recognition and decoding is a demonstrably necessary condition for skilled reading comprehension — readers who must allocate working memory to word decoding have fewer cognitive resources for comprehension monitoring (LaBerge & Samuels, 1974; Perfetti, 1985). This is the "simple view of reading" logic: decode fluently, and cognitive resources are freed for comprehension. Yet the evidence on the [[fluency-illusion]] — reviewed in Phase IV — demonstrates that *too much* fluency…
 
 > [!analytical-insight] Key Insight *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*
 > Here is the mechanism in precise form: the monitoring system receives two types of signals from reading — fluency signals (how smoothly the reading is proceeding at the processing level) and coherence signals (how well the content being processed integrates with the existing situation model). In skilled readers, fluency signals are strong, continuous, and salient. Coherence signals are weaker, intermittent, and easily masked. Because the metacognitive system is sensitive to processing fluency —…
@@ -202,7 +211,7 @@ importance: high
 ## Conceptual Tensions
 
 > [!tension] **Fluency as Both Resource and Liability** *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*
-> Fluency in word recognition and decoding is a demonstrably necessary condition for skilled reading comprehension — readers who must allocate working memory to word decoding have fewer cognitive resources for comprehension monitoring (LaBerge & Samuels, 1974; Perfetti, 1985). This is the "simple view of reading" logic: decode fluently, and cognitive resources are freed for comprehension. Yet the evidence on the [[Fluency-Illusion]] — reviewed in Phase IV — demonstrates that *too much* fluency paradoxically suppresses the monitoring signals that comprehension requires. The reader who decodes…
+> Fluency in word recognition and decoding is a demonstrably necessary condition for skilled reading comprehension — readers who must allocate working memory to word decoding have fewer cognitive resources for comprehension monitoring (LaBerge & Samuels, 1974; Perfetti, 1985). This is the "simple view of reading" logic: decode fluently, and cognitive resources are freed for comprehension. Yet the evidence on the [[fluency-illusion]] — reviewed in Phase IV — demonstrates that *too much* fluency paradoxically suppresses the monitoring signals that comprehension requires. The reader who decodes…
 
 > [!tension] **The Instructional Attribution Problem** *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*
 > Comprehension monitoring interventions typically target one of these three mechanisms. But researchers and practitioners frequently attribute comprehension monitoring failures to the wrong mechanism — for instance, attributing effort abandonment to strategy ignorance and responding with more strategy instruction that doesn't change the effort-cost calculus. Or attributing signal threshold failure to strategy activation failure and responding with explicit strategy selection guides that don't address the signal's weakness in the first place. The field's inconsistent results may partly reflect…
@@ -257,47 +266,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*:
-- [[Metacognition]]
-- [[Metacognition]]
-- [[Metacognitive-Monitoring]]
-- [[Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation]]
-- [[Metacognitive-Regulation]]
-- [[Monitoring-Control-Coupling]]
-- [[Monitoring-Control-Coupling]]
-- [[Monitoring-Gap]]
-- [[Monitoring-Gap]]
+- [[metacognition|Metacognition]]
+- [[metacognition|Metacognition]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[metacognitive-regulation|Metacognitive-Regulation]]
+- [[metacognitive-regulation|Metacognitive-Regulation]]
+- [[monitoring-control-coupling|Monitoring-Control-Coupling]]
+- [[monitoring-control-coupling|Monitoring-Control-Coupling]]
+- [[monitoring-gap|Monitoring-Gap]]
+- [[monitoring-gap|Monitoring-Gap]]
 
 **Related concepts:**
-[[Metacognition]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Flavell-Metacognition-Framework]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[Metacognitive-Experience]] · [[Monitoring-Control-Coupling]] · [[Monitoring-Gap]] · [[Situation-Model]] · [[Situation-Model]] · [[Situation-Model]] · [[Fluency-Illusion]] · [[Fluency-Illusion]] · [[Self-Explanation-Effect]] · [[Situation-Model]] · [[Monitoring-Gap]] · [[Working-Memory]] · [[Working-Memory-Capacity]] · [[Monitoring-Control-Coupling]] · [[Transfer-of-Learning]] · [[Situation-Model]] · [[Situation-Model]] · [[Metacognition]] · [[Metacognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]]
-
-**Related concepts** *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*:
-[[Far-Transfer|Far-Transfer]] * [[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman's-Three-Phase-SRL-Cycle]] * [[Metacognitive-Calibration|Metacognitive-Calibration]] * [[Pseudometacognition|Pseudometacognition]]
-
-**Cross-report connections** *(from metacognition-silent-reading-focused-analysis-2026-03-21.md)*:
-- [[Metacognition|Metacognition]]
-- [[Metacognition|Metacognition]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation|Metacognitive-Regulation]]
-
-**Cross-report connections** *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*:
-- [[Metacognition|Metacognition]]
-- [[Metacognition|Metacognition]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation|Metacognitive-Regulation]]
-
-**Cross-report connections** *(from [[metacognition-silent-reading-focused-analysis-2026-03-21]])*:
-- [[Metacognition|Metacognition]]
-- [[Metacognition|Metacognition]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Monitoring|Metacognitive-Monitoring]]
-- [[Metacognitive-Regulation|Metacognitive-Regulation]]
-
-
-
-
+[[metacognition|Metacognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition|Metacognition]] · [[flavell-metacognition-framework|Flavell-Metacognition-Framework]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[metacognitive-experience|Metacognitive-Experience]] · [[monitoring-control-coupling|Monitoring-Control-Coupling]] · [[monitoring-gap|Monitoring-Gap]] · [[situation-model|Situation-Model]] · [[situation-model|Situation-Model]] · [[situation-model|Situation-Model]] · [[fluency-illusion|Fluency-Illusion]] · [[fluency-illusion|Fluency-Illusion]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[situation-model|Situation-Model]] · [[monitoring-gap|Monitoring-Gap]] · [[working-memory|Working-Memory]] · [[working-memory-capacity|Working-Memory-Capacity]] · [[monitoring-control-coupling|Monitoring-Control-Coupling]] · [[transfer-of-learning|Transfer-of-Learning]] · [[situation-model|Situation-Model]] · [[situation-model|Situation-Model]] · [[metacognition|Metacognition]] · [[metacognition|Metacognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-regulation|Metacognitive-Regulation]]
 
 ## References
 
@@ -315,114 +296,6 @@ importance: high
 - **Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. *Psychological Bulletin*, 123, 162–185.**: Comprehensive review of the situation model literature, establishing the five dimensions of situational coherence monitoring (temporal, causal, spatial, protagonist, intentional). Supports the three-tier monitoring model's Tier 3 specification.
 
 *Citations sourced from [[metacognition-silent-reading-focused-analysis-2026-03-21]]*
-
-- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
-
-- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
-
-- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
-
-- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
-
-- **Garner, R. (1987). *Metacognition and Reading Comprehension*. Ablex.**: The most comprehensive treatment of metacognitive failures in reading. Identified the "compile to understand" illusion, documented the evidence on adult readers' poor monitoring, and provided the fix-up strategy taxonomy used in Phase IV. Core reference for the fluency trap mechanism.
-
-- **Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press.**: The authoritative account of the construction-integration model of text comprehension, including the textbase/situation model distinction used throughout this analysis. Provides the cognitive architecture within which comprehension monitoring must be understood.
-
-- **LaBerge, D. & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology*, 6, 293–323.**: Established the automaticity account of skilled reading — the theoretical foundation for the fluency trap mechanism. The argument that decoding automatization frees resources for comprehension is here complicated by the insight that those resources are not automatically redirected to monitoring.
-
-- **Nelson, T. O. & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 26, pp. 125–173). Academic Press.**: The monitoring-control model of metacognition used as the primary theoretical framework in Phase II and IV. The distinction between monitoring (upward) and control (downward) information flow provided the precise architecture for the decoupling analysis.
-
-- **Palincsar, A. S. & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction*, 1, 117–175.**: The foundational reciprocal teaching study. Produced some of the largest effect sizes in comprehension instruction research. Analyzed here as evidence for the externalization principle: the social externalization of monitoring was the key architectural change.
-
-- **Renkl, A. (2002). Worked-out examples: Instructional explanations support learning by self-explanations. *Learning and Instruction*, 12, 529–556.**: Strong evidence for the self-explanation effect in instructional contexts, extending the Chi et al. findings. Supports the externalization principle and the claim that it is the monitoring-externalization component of self-explanation (not elaboration per se) that drives comprehension gains.
-
-- **Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. *Psychological Bulletin*, 123, 162–185.**: Comprehensive review of the situation model literature, establishing the five dimensions of situational coherence monitoring (temporal, causal, spatial, protagonist, intentional). Supports the three-tier monitoring model's Tier 3 specification.
-
-- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
-
-- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
-
-- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
-
-- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
-
-- **Garner, R. (1987). *Metacognition and Reading Comprehension*. Ablex.**: The most comprehensive treatment of metacognitive failures in reading. Identified the "compile to understand" illusion, documented the evidence on adult readers' poor monitoring, and provided the fix-up strategy taxonomy used in Phase IV. Core reference for the fluency trap mechanism.
-
-- **Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press.**: The authoritative account of the construction-integration model of text comprehension, including the textbase/situation model distinction used throughout this analysis. Provides the cognitive architecture within which comprehension monitoring must be understood.
-
-- **LaBerge, D. & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology*, 6, 293–323.**: Established the automaticity account of skilled reading — the theoretical foundation for the fluency trap mechanism. The argument that decoding automatization frees resources for comprehension is here complicated by the insight that those resources are not automatically redirected to monitoring.
-
-- **Nelson, T. O. & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 26, pp. 125–173). Academic Press.**: The monitoring-control model of metacognition used as the primary theoretical framework in Phase II and IV. The distinction between monitoring (upward) and control (downward) information flow provided the precise architecture for the decoupling analysis.
-
-- **Palincsar, A. S. & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction*, 1, 117–175.**: The foundational reciprocal teaching study. Produced some of the largest effect sizes in comprehension instruction research. Analyzed here as evidence for the externalization principle: the social externalization of monitoring was the key architectural change.
-
-- **Renkl, A. (2002). Worked-out examples: Instructional explanations support learning by self-explanations. *Learning and Instruction*, 12, 529–556.**: Strong evidence for the self-explanation effect in instructional contexts, extending the Chi et al. findings. Supports the externalization principle and the claim that it is the monitoring-externalization component of self-explanation (not elaboration per se) that drives comprehension gains.
-
-- **Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. *Psychological Bulletin*, 123, 162–185.**: Comprehensive review of the situation model literature, establishing the five dimensions of situational coherence monitoring (temporal, causal, spatial, protagonist, intentional). Supports the three-tier monitoring model's Tier 3 specification.
-
-- **Baker, L. (1984). Spontaneous versus instructed use of multiple standards for evaluating comprehension: Effects of age, reading proficiency, and type of standard. *Journal of Experimental Child Psychology*, 38, 289–311.**: Foundational study establishing that readers can apply comprehension standards when explicitly instructed but rarely apply them spontaneously. Key evidence for the monitoring-regulation decoupling problem. Supports Phase III and the central analytical reframe.
-
-- **Baker, L. & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 353–394). Longmans.**: The seminal review establishing comprehension monitoring as a core metacognitive skill in reading. Distinguished monitoring from other reading skills and provided the framework that subsequent decades of research built on. Cited in Phase III and throughout.
-
-- **Bransford, J. D. & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior*, 11, 717–726.**: Classic study demonstrating schema-dependent comprehension — participants who read the "washing clothes" passage without a title showed severely impaired comprehension and recall. Used in Phase III to establish that comprehension failures are often invisible to the reader.
-
-- **Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18, 439–477.**: Established the self-explanation effect: readers who generate self-explanations during reading show dramatically superior comprehension and transfer compared to passive readers. Key evidence for the externalization principle in Phase III.
-
-- **Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34, 906–911.**: The foundational paper establishing the metacognitive knowledge/regulation/experience trichotomy used throughout this analysis. Particularly important for the concept of metacognitive experience as the trigger layer for regulation.
-
-- **Garner, R. (1987). *Metacognition and Reading Comprehension*. Ablex.**: The most comprehensive treatment of metacognitive failures in reading. Identified the "compile to understand" illusion, documented the evidence on adult readers' poor monitoring, and provided the fix-up strategy taxonomy used in Phase IV. Core reference for the fluency trap mechanism.
-
-- **Kintsch, W. (1998). *Comprehension: A Paradigm for Cognition*. Cambridge University Press.**: The authoritative account of the construction-integration model of text comprehension, including the textbase/situation model distinction used throughout this analysis. Provides the cognitive architecture within which comprehension monitoring must be understood.
-
-- **LaBerge, D. & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology*, 6, 293–323.**: Established the automaticity account of skilled reading — the theoretical foundation for the fluency trap mechanism. The argument that decoding automatization frees resources for comprehension is here complicated by the insight that those resources are not automatically redirected to monitoring.
-
-- **Nelson, T. O. & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 26, pp. 125–173). Academic Press.**: The monitoring-control model of metacognition used as the primary theoretical framework in Phase II and IV. The distinction between monitoring (upward) and control (downward) information flow provided the precise architecture for the decoupling analysis.
-
-- **Palincsar, A. S. & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction*, 1, 117–175.**: The foundational reciprocal teaching study. Produced some of the largest effect sizes in comprehension instruction research. Analyzed here as evidence for the externalization principle: the social externalization of monitoring was the key architectural change.
-
-- **Renkl, A. (2002). Worked-out examples: Instructional explanations support learning by self-explanations. *Learning and Instruction*, 12, 529–556.**: Strong evidence for the self-explanation effect in instructional contexts, extending the Chi et al. findings. Supports the externalization principle and the claim that it is the monitoring-externalization component of self-explanation (not elaboration per se) that drives comprehension gains.
-
-- **Zwaan, R. A. & Radvansky, G. A. (1998). Situation models in language comprehension and memory. *Psychological Bulletin*, 123, 162–185.**: Comprehensive review of the situation model literature, establishing the five dimensions of situational coherence monitoring (temporal, causal, spatial, protagonist, intentional). Supports the three-tier monitoring model's Tier 3 specification.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

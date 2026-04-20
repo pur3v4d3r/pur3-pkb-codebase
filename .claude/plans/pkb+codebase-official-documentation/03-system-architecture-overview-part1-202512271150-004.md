@@ -2041,16 +2041,16 @@ reviewed_date: YYYY-MM-DD
 ```markdown
 # Working Memory
 
-Working memory is [[Cognitive-Load-Theory|CLT]]^foundation-for-this
+Working memory is [[cognitive-load-theory|CLT]]^foundation-for-this
 - Foundation relationship: CLT builds upon working memory research
 
-Related to [[Schema-Theory]]^complements
+Related to [[schema-theory]]^complements
 - Complementary relationship: Both explain knowledge organization
 
-See also [[Long-Term-Memory]]^contrasts
+See also [[long-term-memory]]^contrasts
 - Contrast relationship: Different storage systems
 
-Component: [[Phonological-Loop]]^part-of
+Component: [[phonological-loop]]^part-of
 - Compositional relationship: Phonological loop is part of working memory
 
 Example: [[Remembering Phone Numbers]]^example-of

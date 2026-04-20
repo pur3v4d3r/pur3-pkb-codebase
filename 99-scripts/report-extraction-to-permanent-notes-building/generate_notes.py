@@ -36,7 +36,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from config import JSON_DIR, OUTPUT_DIR
 from report_parser import load_json, extract_note_candidates, NoteCandidate
-from note_builder import build_permanent_note, get_output_filename
+from note_builder import build_permanent_note, get_output_filename, InvalidConceptNameError
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -171,7 +171,10 @@ def cmd_preview(json_dir: Path, report_num: str) -> None:
             print(f"         Evidence:    {len(c.evidence)} items")
             print(f"         Insights:    {len(c.insights)} items")
             print(f"         Practices:   {len(c.practices)} items")
-            print(f"         Filename:    {get_output_filename(c)}")
+            try:
+                print(f"         Filename:    {get_output_filename(c)}")
+            except InvalidConceptNameError as exc:
+                print(f"         Filename:    [REJECTED] {exc}")
 
         print(f"\n    Total candidates: {len(candidates)}")
 
@@ -245,7 +248,12 @@ def cmd_process(json_dir: Path, output_dir: Path,
     errors = 0
 
     for candidate in sorted(deduped, key=lambda c: c.concept_name.lower()):
-        filename = get_output_filename(candidate)
+        try:
+            filename = get_output_filename(candidate)
+        except InvalidConceptNameError as exc:
+            print(f"    [REJECT] {candidate.concept_name!r}: {exc}")
+            errors += 1
+            continue
         output_path = output_dir / filename
 
         # Skip existing files

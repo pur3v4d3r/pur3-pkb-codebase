@@ -36,8 +36,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -48,7 +48,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -72,49 +72,49 @@ narrower:
   []
 
 see-also:
-  - "[[Metacognition]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Writing-to-Learn]]"
-  - "[[Cognitive-Offloading]]"
-  - "[[4E-Cognition]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Reflective-Practice]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Zettelkasten]]"
-  - "[[Obsidian-PKB-Architecture]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognition]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Cognitive-Offloading]]"
-  - "[[Cognitive-Transparency-Assumption]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Illusion-of-Knowing]]"
-  - "[[Dunning-Kruger-Effect]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[writing-to-learn|Writing-to-Learn]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
+  - "[[4e-cognition|4E-Cognition]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[reflective-practice|Reflective-Practice]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[zettelkasten|Zettelkasten]]"
+  - "[[obsidian-pkb-architecture|Obsidian-PKB-Architecture]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
+  - "[[cognitive-transparency-assumption|Cognitive-Transparency-Assumption]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[illusion-of-knowing|Illusion-of-Knowing]]"
+  - "[[dunning-kruger-effect|Dunning-Kruger-Effect]]"
   - "[[conscious-awareness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Metacognition]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Nelson-Narens-Model]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-emerge-from-the-analysis-in-this-report-as-high-value-candi|The following topics emerge from the analysis in this report as high-value candidates for further ex]]"
+  - topic: "[[The following topics emerge from the analysis in this report as high-value candidates for further ex]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Investigation-of-whether-metacognitive-skills-developed-through-PKB|**Description:** Investigation of whether metacognitive skills developed through PKB practice (artic]]"
+  - topic: "[[**Description:** Investigation of whether metacognitive skills developed through PKB practice (artic]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Analysis-of-what-happens-to-the-six-mechanisms-of-metacognitive-exte|**Description:** Analysis of what happens to the six mechanisms of metacognitive externalization whe]]"
+  - topic: "[[**Description:** Analysis of what happens to the six mechanisms of metacognitive externalization whe]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Extension-of-the-externalized-metacognition-framework-to-collaborati|**Description:** Extension of the externalized metacognition framework to collaborative contexts — s]]"
+  - topic: "[[**Description:** Extension of the externalized metacognition framework to collaborative contexts — s]]"
     description: ""
     priority: medium
 
@@ -187,10 +187,10 @@ importance: high
 > The central claim of the writing-to-learn tradition is that the act of writing is not a transparent conduit through which pre-formed thoughts are transmitted to paper, but a *generative cognitive process* that transforms the writer's understanding in the act of expression. Writing does not record thinking; writing *is* thinking — a particular kind of thinking that involves articulation, organization, evaluation, and revision in ways that purely internal cognition does not.
 
 > [!analytical-insight] Key Insight *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> A Personal Knowledge Base, when designed and used according to specific principles, functions not merely as an external memory store but as an *externalized metacognitive architecture* — a system that makes the user's thinking processes inspectable, evaluable, and regulable in ways that purely internal metacognition cannot achieve. The PKB constitutes an extension of the meta-level (in the [[Nelson-Narens-Model|Nelson-Narens]] sense), creating a persistent, visible, and revisable representation…
+> A Personal Knowledge Base, when designed and used according to specific principles, functions not merely as an external memory store but as an *externalized metacognitive architecture* — a system that makes the user's thinking processes inspectable, evaluable, and regulable in ways that purely internal metacognition cannot achieve. The PKB constitutes an extension of the meta-level (in the [[nelson-narens-model|Nelson-Narens]] sense), creating a persistent, visible, and revisable representation…
 
 > [!analytical-insight] Key Insight *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> A PKB designed without attention to metacognitive externalization may still function as an external memory store, but it will systematically underperform its potential as a metacognitive architecture. Deliberate design — informed by the mechanisms identified in this report — transforms the PKB from an information repository into a [[Metacognitive-Scaffolding|metacognitive scaffold]] that actively supports self-regulated learning, calibration, and intellectual growth. The difference between a…
+> A PKB designed without attention to metacognitive externalization may still function as an external memory store, but it will systematically underperform its potential as a metacognitive architecture. Deliberate design — informed by the mechanisms identified in this report — transforms the PKB from an information repository into a [[metacognitive-scaffolding|metacognitive scaffold]] that actively supports self-regulated learning, calibration, and intellectual growth. The difference between a…
 
 > [!analytical-insight] Key Insight *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
 > The PKB's external artifacts — notes, links, structures — are *indicators* of metacognitive processes, not *identical* with them. The writing of a note is metacognitively valuable because it triggers monitoring; but a note written mechanically, without genuine effort to articulate understanding, does not trigger monitoring even though it produces the same external artifact. Similarly, a link created between two concepts is metacognitively valuable because it represents a recognized connection;…
@@ -204,13 +204,13 @@ importance: high
 > Understanding metacognition conceptually does not guarantee metacognitive skill in practice. The literature consistently shows that metacognitive knowledge (declarative understanding of effective strategies) is necessary but insufficient for metacognitive competence (procedural deployment of those strategies during actual learning). This gap is one of the strongest arguments for externalization: a well-designed PKB can embed regulatory prompts into its structure, partially compensating for…
 
 > [!warning] **Key Distinction** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> Critics of extended mind theory — notably Robert Rupert and Frederick Adams — have warned against the [[Coupling-Constitution-Fallacy|Coupling-Constitution Fallacy]]: the mistake of confusing *causal coupling* (the tool influences cognition) with *constitution* (the tool is part of cognition). A calculator causally influences your mathematical reasoning without being part of your mathematical cognition. The distinction matters because constitution implies a much stronger claim — that the…
+> Critics of extended mind theory — notably Robert Rupert and Frederick Adams — have warned against the [[coupling-constitution-fallacy|Coupling-Constitution Fallacy]]: the mistake of confusing *causal coupling* (the tool influences cognition) with *constitution* (the tool is part of cognition). A calculator causally influences your mathematical reasoning without being part of your mathematical cognition. The distinction matters because constitution implies a much stronger claim — that the…
 
 > [!warning] **Key Distinction** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
 > There is a tension inherent in PKB design between efficiency and metacognitive engagement. Automated features — auto-tagging, AI-generated summaries, automatic linking — remove friction but may simultaneously remove the metacognitive monitoring that the friction produces. If the purpose of your PKB is information retrieval, automation is unambiguously good. If the purpose includes metacognitive externalization, then each automation decision should be evaluated against the question: *Does this…
 
 > [!warning] **Key Distinction** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> Every cognitive extension creates a corresponding cognitive vulnerability. If a PKB constitutes part of your metacognitive architecture — if it genuinely extends your capacity for self-monitoring, calibration, and regulation — then damage to, loss of, or separation from the PKB represents not merely a loss of information but a *reduction in metacognitive capacity*. This is the dark side of the [[Extended-Mind-Theory|extended mind thesis]]: the more deeply coupled your cognition is to an…
+> Every cognitive extension creates a corresponding cognitive vulnerability. If a PKB constitutes part of your metacognitive architecture — if it genuinely extends your capacity for self-monitoring, calibration, and regulation — then damage to, loss of, or separation from the PKB represents not merely a loss of information but a *reduction in metacognitive capacity*. This is the dark side of the [[extended-mind-theory|extended mind thesis]]: the more deeply coupled your cognition is to an…
 
 ## Key Figures & Intellectual Lineage
 
@@ -243,7 +243,7 @@ importance: high
 > 
 > **Key works referenced:** "Self-Writing" (1983); *The Hermeneutics of the Subject* (2001).
 > 
-> **See also:** [[Hypomnemata]], [[Reflective-Practice]]
+> **See also:** [[hypomnemata]], [[reflective-practice]]
 
 ## Conceptual Tensions
 
@@ -283,7 +283,7 @@ importance: high
 > 3. If your PKB were suddenly inaccessible, what metacognitive capacities would you lose? Does this thought experiment reveal ways in which your PKB has become constitutive of…
 
 > [!reflection] **Reflect** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> 1. How much of your PKB practice involves genuine [[Knowledge-Transforming|knowledge transforming]] versus [[Knowledge-Telling|knowledge telling]]? What structural features of your system encourage or discourage transformation?
+> 1. How much of your PKB practice involves genuine [[knowledge-transforming|knowledge transforming]] versus [[knowledge-telling|knowledge telling]]? What structural features of your system encourage or discourage transformation?
 > 2. The ancient hypomnemata were used for *ethical* self-examination. Could your PKB serve a similar function — not just monitoring *what you know* but monitoring *how you think and why*?
 > 3. If the Articulation-as-Monitoring Principle is correct, what does this imply…
 
@@ -309,7 +309,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Connecting to What You Already Know** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> If you have worked with a [[Personal-Knowledge-Base|personal knowledge base]] — whether a [[Zettelkasten|Zettelkasten]], an [[Obsidian-PKB-Architecture|Obsidian vault]], or any system of interconnected notes — you have likely experienced a peculiar phenomenon: the act of writing a note sometimes reveals that you did not understand the concept as well as you believed. Your [[Metacognitive-Monitoring|metacognitive monitoring]] told you "I understand this," but the demand to articulate the idea in writing exposed gaps, ambiguities, and contradictions invisible to introspection alone. This…
+> If you have worked with a [[personal-knowledge-base|personal knowledge base]] — whether a [[zettelkasten|Zettelkasten]], an [[obsidian-pkb-architecture|Obsidian vault]], or any system of interconnected notes — you have likely experienced a peculiar phenomenon: the act of writing a note sometimes reveals that you did not understand the concept as well as you believed. Your [[metacognitive-monitoring|metacognitive monitoring]] told you "I understand this," but the demand to articulate the idea in writing exposed gaps, ambiguities, and contradictions invisible to introspection alone. This…
 
 ## Active Reading Prompts
 
@@ -317,7 +317,7 @@ importance: high
 > Before continuing, take a moment to consider how the Nelson-Narens monitoring-control model maps onto your own PKB practice. When you write a note, you are engaging in object-level cognition. When you re-read that note and evaluate whether it captures your understanding, you are engaging in meta-level monitoring. When you revise the note based on that evaluation, you are executing a meta-level control signal. This loop — write, read, evaluate, revise — is the externalized monitoring-control cycle in action. Hold this mapping in mind as we move to the theoretical framework that justifies…
 
 > [!active-reading] **Pause and Reflect: Your Own Writing Practice** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> Consider the last note you created in your PKB. Did the act of writing it change your understanding of the topic, or did it merely record understanding you already possessed? If it changed your understanding — if writing forced you to confront ambiguities, fill gaps, or restructure your thinking — then you experienced [[Knowledge-Transforming|knowledge transforming]] firsthand. If it did not, consider whether the note was produced through [[Knowledge-Telling|knowledge telling]] — a transcription process that bypasses the metacognitive benefits of genuine articulation.
+> Consider the last note you created in your PKB. Did the act of writing it change your understanding of the topic, or did it merely record understanding you already possessed? If it changed your understanding — if writing forced you to confront ambiguities, fill gaps, or restructure your thinking — then you experienced [[knowledge-transforming|knowledge transforming]] firsthand. If it did not, consider whether the note was produced through [[knowledge-telling|knowledge telling]] — a transcription process that bypasses the metacognitive benefits of genuine articulation.
 
 > [!active-reading] **Design Audit: Your PKB's Metacognitive Architecture** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
 > Pause and evaluate your PKB against the five design principles:
@@ -352,13 +352,13 @@ importance: high
 ## Concrete Examples
 
 > [!example] **Knowledge Transforming in PKB Practice** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> Consider a PKB practitioner writing a note on [[Schema-Theory|schema theory]]. A knowledge-telling approach would produce a summary of schema theory's main claims, drawn from memory or sources. A knowledge-transforming approach occurs when the writer, in attempting to articulate how schemas guide comprehension, realizes they cannot clearly explain the difference between [[Schema-Automation|schema automation]] and [[Schema-Construction|schema construction]] — a distinction they *thought* they understood. The demand for written articulation forces a return to sources, a more careful analysis,…
+> Consider a PKB practitioner writing a note on [[schema-theory|schema theory]]. A knowledge-telling approach would produce a summary of schema theory's main claims, drawn from memory or sources. A knowledge-transforming approach occurs when the writer, in attempting to articulate how schemas guide comprehension, realizes they cannot clearly explain the difference between [[schema-automation|schema automation]] and [[schema-construction|schema construction]] — a distinction they *thought* they understood. The demand for written articulation forces a return to sources, a more careful analysis,…
 
 > [!example] **Linking as Schema Diagnosis** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> A PKB user studying both [[Cognitive-Load-Theory|cognitive load theory]] and [[Self-Regulated-Learning|self-regulated learning]] maintains separate notes on each topic with numerous internal links. But examining the graph view, they notice the two clusters are barely connected — only one or two links cross the boundary. This visual pattern reveals an important metacognitive fact: the user *understands each domain* but has not *integrated them*. The absence of cross-domain links is a diagnostic signal that the user's schemas for these two closely related areas are functioning as separate silos…
+> A PKB user studying both [[cognitive-load-theory|cognitive load theory]] and [[self-regulated-learning|self-regulated learning]] maintains separate notes on each topic with numerous internal links. But examining the graph view, they notice the two clusters are barely connected — only one or two links cross the boundary. This visual pattern reveals an important metacognitive fact: the user *understands each domain* but has not *integrated them*. The absence of cross-domain links is a diagnostic signal that the user's schemas for these two closely related areas are functioning as separate silos…
 
 > [!example] **Externalized JOLs in Practice** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> A PKB practitioner studying [[Bayesian-Reasoning|Bayesian reasoning]] creates a note with a frontmatter field: `confidence: provisional`. After working through several problems and revising the note, they update it to `confidence: moderate`. Six months later, reviewing the note, they realize their explanation of prior probabilities is incomplete and downgrade to `confidence: low` — triggering another round of study. Each confidence update is an externalized [[Judgment-of-Learning|judgment of learning]] — a metacognitive assessment made visible, persistent, and revisable. Over time, the…
+> A PKB practitioner studying [[Bayesian-Reasoning|Bayesian reasoning]] creates a note with a frontmatter field: `confidence: provisional`. After working through several problems and revising the note, they update it to `confidence: moderate`. Six months later, reviewing the note, they realize their explanation of prior probabilities is incomplete and downgrade to `confidence: low` — triggering another round of study. Each confidence update is an externalized [[judgment-of-learning|judgment of learning]] — a metacognitive assessment made visible, persistent, and revisable. Over time, the…
 
 ## AI Insights
 
@@ -366,7 +366,7 @@ importance: high
 > The case for externalized metacognition is not merely practical ("it helps to write things down"). It is *architectural*: internal metacognition has structural limitations that cannot be overcome by internal means alone. The meta level's reliance on indirect cues creates an information bottleneck that external representation can break open. Writing converts opaque cognitive processes into inspectable artifacts — transforming metacognition from an inferential activity (estimating what you know) into a perceptual one (seeing what you have written). This shift from inference to inspection is the…
 
 > [!claude-insight] **The Resource Competition Insight** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
-> Internal metacognition suffers from a fundamental resource competition: the cognitive resources required for *doing* the thinking and the resources required for *monitoring* the thinking draw from the same limited [[Working-Memory-Capacity|working memory capacity]]. This creates a structural paradox — the harder the thinking, the worse the monitoring — that external representations can resolve. A written note does not consume working memory to maintain its existence; it persists independently of the writer's cognitive state, freeing metacognitive resources to focus on evaluation rather than…
+> Internal metacognition suffers from a fundamental resource competition: the cognitive resources required for *doing* the thinking and the resources required for *monitoring* the thinking draw from the same limited [[working-memory-capacity|working memory capacity]]. This creates a structural paradox — the harder the thinking, the worse the monitoring — that external representations can resolve. A written note does not consume working memory to maintain its existence; it persists independently of the writer's cognitive state, freeing metacognitive resources to focus on evaluation rather than…
 
 > [!claude-insight] **PKBs as Metacognitive Niche Construction** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*
 > The concept of cognitive niche construction provides a more dynamic account of PKB practice than the static coupling conditions suggest. A PKB is not a fixed tool that either is or is not "part of the mind"; it is an evolving cognitive environment that the user continuously constructs and that, in turn, continuously shapes the user's thinking. Every note written restructures the niche; every link created opens new pathways for thought; every review session recalibrates the thinker's relationship to their own knowledge. The PKB and the thinker co-evolve — a process that the static language of…
@@ -550,19 +550,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[pkb-as-externalized-metacognition-foundational-report-2026-04-12]])*:
-- [[Metacognition]]
-- [[Extended-Mind-Theory]]
-- [[Writing-to-Learn]]
-- [[Self-Regulated-Learning]]
-- [[Zimmerman-SRL-Model]]
-- [[Cognitive-Load-Theory]]
-- [[Metacognitive-Scaffolding-Design-Patterns]]
-- [[PKB-Design-for-Pre-Crystallization-Knowledge-States]]
+- [[metacognition|Metacognition]]
+- [[extended-mind-theory|Extended-Mind-Theory]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[zimmerman-srl-model|Zimmerman-SRL-Model]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[metacognitive-scaffolding-design-patterns|Metacognitive-Scaffolding-Design-Patterns]]
+- [[pkb-design-for-pre-crystallization-knowledge-states|PKB-Design-for-Pre-Crystallization-Knowledge-States]]
 - [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains]]
 - [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]]
 
 **Related concepts:**
-[[Metacognition]] · [[Extended-Mind-Theory]] · [[Writing-to-Learn]] · [[Cognitive-Offloading]] · [[4E-Cognition]] · [[Self-Regulated-Learning]] · [[Reflective-Practice]] · [[Personal-Knowledge-Base]] · [[Zettelkasten]] · [[Obsidian-PKB-Architecture]] · [[Metacognitive-Monitoring]] · [[Metacognition]] · [[Extended-Mind-Theory]] · [[Cognitive-Offloading]] · [[Cognitive-Transparency-Assumption]] · [[Metacognitive-Monitoring]] · [[Fluency-Illusion]] · [[Illusion-of-Knowing]] · [[Dunning-Kruger-Effect]] · [[conscious-awareness]] · [[Metacognitive-Monitoring]] · [[Dunning-Kruger-Effect]] · [[Fluency-Illusion]] · [[Nelson-Narens-Model]] · [[fluency-effects]] · [[Feeling-of-Knowing]] · [[Dual-Process-Theory]] · [[System-1]] · [[metacognitive-judgments]] · [[System-2]]
+[[metacognition|Metacognition]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[writing-to-learn|Writing-to-Learn]] · [[cognitive-offloading|Cognitive-Offloading]] · [[4e-cognition|4E-Cognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[reflective-practice|Reflective-Practice]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[zettelkasten|Zettelkasten]] · [[obsidian-pkb-architecture|Obsidian-PKB-Architecture]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognition|Metacognition]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[cognitive-offloading|Cognitive-Offloading]] · [[cognitive-transparency-assumption|Cognitive-Transparency-Assumption]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[fluency-illusion|Fluency-Illusion]] · [[illusion-of-knowing|Illusion-of-Knowing]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[conscious-awareness]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[fluency-illusion|Fluency-Illusion]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[fluency-effects]] · [[feeling-of-knowing|Feeling-of-Knowing]] · [[dual-process-theory|Dual-Process-Theory]] · [[system-1|System-1]] · [[metacognitive-judgments]] · [[system-2|System-2]]
 
 ## References
 

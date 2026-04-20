@@ -5,6 +5,7 @@
 title: "Lexical Quality"
 aliases:
   - "Lexical Quality"
+  - "Lexical-Quality"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -38,8 +39,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -50,7 +51,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -74,26 +75,26 @@ narrower:
   []
 
 see-also:
-  - "[[Semantic-Memory]]"
-  - "[[Elaborative-Rehearsal]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Incidental-Learning]]"
-  - "[[Elaborative-Interrogation]]"
-  - "[[Spaced-Repetition]]"
-  - "[[Simple-View-of-Reading]]"
-  - "[[Working-Memory-in-Reading]]"
-  - "[[Reading-Fluency]]"
-  - "[[Semantic-Memory]]"
-  - "[[Elaborative-Rehearsal]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Zone-of-Proximal-Development]]"
-  - "[[Working-Memory-in-Reading]]"
-  - "[[Cognitive-Architecture]]"
-  - "[[Semantic-Memory]]"
-  - "[[Working-Memory-in-Reading]]"
-  - "[[Verbal-Efficiency-Theory]]"
-  - "[[Spaced-Repetition]]"
-  - "[[Deliberate-Practice]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[elaborative-rehearsal|Elaborative-Rehearsal]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[incidental-learning|Incidental-Learning]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[spaced-repetition|Spaced-Repetition]]"
+  - "[[simple-view-of-reading|Simple-View-of-Reading]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
+  - "[[reading-fluency|Reading-Fluency]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[elaborative-rehearsal|Elaborative-Rehearsal]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[zone-of-proximal-development|Zone-of-Proximal-Development]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
+  - "[[verbal-efficiency-theory|Verbal-Efficiency-Theory]]"
+  - "[[spaced-repetition|Spaced-Repetition]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +106,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Morphological-Knowledge-and-Vocabulary-Acquisition-A-focused-analysi|> [!topic-idea] [[Morphological-Knowledge-and-Vocabulary-Acquisition]]
+  - topic: "[[> [!topic-idea] [[Morphological-Knowledge-and-Vocabulary-Acquisition]]
 > A focused analysis of morph]]"
     description: ""
     priority: medium
@@ -129,7 +130,7 @@ importance: high
 > 
 > **Report-Specific Significance:** Lexical quality explains why the same vocabulary size produces different reading efficiency across readers — and why building high-quality representations (not just more words) is a distinct goal from building vocabulary breadth.
 > 
-> **See also:** [[Verbal-Efficiency-Theory]], [[Semantic-Memory]], [[Working-Memory-in-Reading]], [[Automaticity]]
+> **See also:** [[verbal-efficiency-theory]], [[semantic-memory]], [[working-memory-in-reading]], [[automaticity]]
 
 ## Core Explanation
 
@@ -149,7 +150,7 @@ importance: high
 > Taken together, the evidence from rate studies, context quality research, and exposure-learning functions suggests that the acquisition rate for incidental vocabulary learning is not a fixed property of reading — it is a conditionally dependent variable that fluctuates dramatically based on text difficulty (coverage level), context quality, prior morphological knowledge, reading engagement, and depth of processing at each encounter. Readers and educators who treat incidental acquisition as a…
 
 > [!evidence] Supporting Evidence *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*
-> The evidence as a whole suggests that reading and intentional vocabulary study are not alternatives between which a learner must choose — they are complements that serve different functions in the vocabulary acquisition ecosystem. Reading provides high-volume, contextualized exposure that deepens and enriches lexical knowledge of words one has already begun to learn. Intentional study (direct word study, morphological analysis, [[Spaced-Repetition]] systems) provides precise initial encoding…
+> The evidence as a whole suggests that reading and intentional vocabulary study are not alternatives between which a learner must choose — they are complements that serve different functions in the vocabulary acquisition ecosystem. Reading provides high-volume, contextualized exposure that deepens and enriches lexical knowledge of words one has already begun to learn. Intentional study (direct word study, morphological analysis, [[spaced-repetition]] systems) provides precise initial encoding…
 
 > [!evidence] Supporting Evidence *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*
 > The foundational empirical study establishing the 5–15% incidental acquisition rate from natural reading. This study's methodology — having students read naturalistic passages and testing acquisition of words appearing in those passages — defined the paradigm for two decades of subsequent research. Its finding that directive context quality mediates acquisition rates is this report's primary evidential foundation.
@@ -205,10 +206,10 @@ importance: high
 > These three modes are in tension because time and attention are finite. Pure incidental acquisition is most compatible with fluent, pleasurable reading but is the least reliable route to vocabulary growth. Intentional acquisition is the most reliable but the most disruptive to comprehension flow. Enhanced incidental acquisition attempts a compromise but introduces a cognitive cost — stopping to process a word thoroughly competes with text comprehension, particularly when unknown words occur at…
 
 > [!analytical-insight] Key Insight *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*
-> The research literature on vocabulary learning reveals a fundamental trade-off: shallow exposures require many more repetitions to produce retention than deep exposures. A word encountered and deeply processed once (with morphological analysis, contextual inference, and meaning elaboration) will be retained more reliably than a word shallowly encountered ten times. This trade-off is not unique to vocabulary — it reflects the general principle of [[Elaborative-Rehearsal]] and…
+> The research literature on vocabulary learning reveals a fundamental trade-off: shallow exposures require many more repetitions to produce retention than deep exposures. A word encountered and deeply processed once (with morphological analysis, contextual inference, and meaning elaboration) will be retained more reliably than a word shallowly encountered ten times. This trade-off is not unique to vocabulary — it reflects the general principle of [[elaborative-rehearsal]] and…
 
 > [!analytical-insight] Key Insight *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*
-> There is a striking parallel between vocabulary acquisition through reading and Vygotsky's [[Zone-of-Proximal-Development]] — but the zone for vocabulary is much narrower than is often appreciated. Text that is comfortably within a reader's competence (high word coverage) provides almost no vocabulary growth. Text far outside the reader's competence (low coverage) overwhelms the inferential mechanism and also produces little growth. The productive zone — roughly 98–99% coverage — is a…
+> There is a striking parallel between vocabulary acquisition through reading and Vygotsky's [[zone-of-proximal-development]] — but the zone for vocabulary is much narrower than is often appreciated. Text that is comfortably within a reader's competence (high word coverage) provides almost no vocabulary growth. Text far outside the reader's competence (low coverage) overwhelms the inferential mechanism and also produces little growth. The productive zone — roughly 98–99% coverage — is a…
 
 > [!analytical-insight] Key Insight *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*
 > A genuine tension runs through the vocabulary acquisition literature: the words that appear most frequently in natural text (and thus provide the most exposure opportunities) are generally the most contextually predictable — their meanings are usually already known or can be inferred from highly familiar contexts. The words that most need to be learned (low-frequency, domain-specific, nuanced) are precisely the ones that tend to appear in sparse, unfamiliar, or technically specialized contexts…
@@ -284,7 +285,7 @@ importance: high
 ## Open Questions
 
 > [!open-question] **What Is the Role of Affect and Engagement in Incidental Vocabulary Acquisition?** *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*
-> The Cognitive Slack Model focuses on working-memory-level mechanisms, but the research literature on [[Intrinsic-Motivation]] and reading suggests that affective engagement during reading has independent effects on retention beyond what working memory models predict. Specifically: do readers who are deeply absorbed in a narrative text acquire vocabulary more efficiently than readers processing…
+> The Cognitive Slack Model focuses on working-memory-level mechanisms, but the research literature on [[intrinsic-motivation]] and reading suggests that affective engagement during reading has independent effects on retention beyond what working memory models predict. Specifically: do readers who are deeply absorbed in a narrative text acquire vocabulary more efficiently than readers processing…
 
 ## Reflection Prompts
 
@@ -549,22 +550,22 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*:
-- [[Deliberate-Practice]]
+- [[deliberate-practice|Deliberate-Practice]]
 
 **Cross-report connections** *(from [[reading-vocabulary-focused-analysis-2026-03-28]])*:
-- [[Verbal-Efficiency-Theory]]
-- [[Incidental-Learning]]
-- [[Working-Memory-in-Reading]]
-- [[Desirable-Difficulties]]
-- [[Schema-Theory]]
-- [[Spaced-Repetition-Systems]]
-- [[Reading-Fluency]]
-- [[Silent-Reading-Fluency]]
-- [[Situation-Models-in-Text-Comprehension]]
-- [[Dual-Coding-Theory]]
+- [[verbal-efficiency-theory|Verbal-Efficiency-Theory]]
+- [[incidental-learning|Incidental-Learning]]
+- [[working-memory-in-reading|Working-Memory-in-Reading]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[schema-theory|Schema-Theory]]
+- [[spaced-repetition-systems|Spaced-Repetition-Systems]]
+- [[reading-fluency|Reading-Fluency]]
+- [[silent-reading-fluency|Silent-Reading-Fluency]]
+- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
+- [[dual-coding-theory|Dual-Coding-Theory]]
 
 **Related concepts:**
-[[Semantic-Memory]] · [[Elaborative-Rehearsal]] · [[Long-Term-Memory]] · [[Incidental-Learning]] · [[Elaborative-Interrogation]] · [[Spaced-Repetition]] · [[Simple-View-of-Reading]] · [[Working-Memory-in-Reading]] · [[Reading-Fluency]] · [[Semantic-Memory]] · [[Elaborative-Rehearsal]] · [[Desirable-Difficulties]] · [[Zone-of-Proximal-Development]] · [[Working-Memory-in-Reading]] · [[Cognitive-Architecture]] · [[Semantic-Memory]] · [[Working-Memory-in-Reading]] · [[Verbal-Efficiency-Theory]] · [[Spaced-Repetition]] · [[Deliberate-Practice]] · [[Verbal-Efficiency-Theory]] · [[Working-Memory-in-Reading]] · [[Incidental-Learning]] · [[Schema-Theory]] · [[Simple-View-of-Reading]] · [[Reading-Fluency]] · [[Silent-Reading-Fluency]] · [[Oral-Reading-Fluency]] · [[Spaced-Repetition]] · [[Desirable-Difficulties]]
+[[semantic-memory|Semantic-Memory]] · [[elaborative-rehearsal|Elaborative-Rehearsal]] · [[long-term-memory|Long-Term-Memory]] · [[incidental-learning|Incidental-Learning]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[spaced-repetition|Spaced-Repetition]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[reading-fluency|Reading-Fluency]] · [[semantic-memory|Semantic-Memory]] · [[elaborative-rehearsal|Elaborative-Rehearsal]] · [[desirable-difficulties|Desirable-Difficulties]] · [[zone-of-proximal-development|Zone-of-Proximal-Development]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[cognitive-architecture|Cognitive-Architecture]] · [[semantic-memory|Semantic-Memory]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[verbal-efficiency-theory|Verbal-Efficiency-Theory]] · [[spaced-repetition|Spaced-Repetition]] · [[deliberate-practice|Deliberate-Practice]] · [[verbal-efficiency-theory|Verbal-Efficiency-Theory]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[incidental-learning|Incidental-Learning]] · [[schema-theory|Schema-Theory]] · [[simple-view-of-reading|Simple-View-of-Reading]] · [[reading-fluency|Reading-Fluency]] · [[silent-reading-fluency|Silent-Reading-Fluency]] · [[oral-reading-fluency|Oral-Reading-Fluency]] · [[spaced-repetition|Spaced-Repetition]] · [[desirable-difficulties|Desirable-Difficulties]]
 
 ## References
 

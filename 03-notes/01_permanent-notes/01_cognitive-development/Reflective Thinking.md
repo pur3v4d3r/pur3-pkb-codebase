@@ -48,7 +48,7 @@ review-priority: medium
 # Reflective Thinking
 
 > [!definition]
-> - **Key-Term**:[[Reflective-Thinking]]
+> - **Key-Term**:[[reflective-thinking]]
 > - [**Definition**:Reflective thinking is a conscious and deliberate process of stepping back from an experience, event, or idea to critically analyze it, learn from it, and inform future actions. It's more than just thinking; it's a structured approach to self-assessment and continuous improvement.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

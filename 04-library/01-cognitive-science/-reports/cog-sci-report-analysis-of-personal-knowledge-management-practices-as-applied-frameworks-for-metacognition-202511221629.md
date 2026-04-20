@@ -33,11 +33,11 @@ Aliases: [[Metacognitive PKM Frameworks]], [[Externalized Cognition in Note-Taki
 > Personal Knowledge Management (PKM) is frequently mischaracterized as a mere productivity practice or digital filing system. In a rigorous academic context, however, PKM functions as an externalized architecture for **Metacognition**—the ability to monitor, assess, and regulate one's own cognitive processes. This analysis argues that the specific mechanics of modern PKM (linking, structuring, and reviewing) serve as applied scaffolding for **Self-Regulated Learning (SRL)**. By externalizing the relationships between [[Atomic-Notes]], the learner is forced to engage in high-order evaluation of their own understanding, transforming the vault from a storage repository into a dynamic feedback loop of epistemic growth.
 
 > [!the-purpose]
-> To deconstruct the mechanical operations of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]—specifically linking, structuring, and reviewing—and validate them as essential cognitive instruments for achieving [[Metacognition]] and deep understanding.
+> To deconstruct the mechanical operations of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]—specifically linking, structuring, and reviewing—and validate them as essential cognitive instruments for achieving [[metacognition]] and deep understanding.
 
 > [!definition]
 > **Metacognitive PKM**
-> An approach to knowledge management where the software environment acts as an extension of the user's working memory (following the [[Extended-Mind-Thesis]]). In this framework, the manipulation of digital objects (notes) represents the manipulation of mental schemas, providing the user with concrete feedback regarding the depth, accuracy, and connectivity of their knowledge base.
+> An approach to knowledge management where the software environment acts as an extension of the user's working memory (following the [[extended-mind-thesis]]). In this framework, the manipulation of digital objects (notes) represents the manipulation of mental schemas, providing the user with concrete feedback regarding the depth, accuracy, and connectivity of their knowledge base.
 
 > [!the-philosophy]
 > **The Externalization of the Internal Dialogue**
@@ -47,7 +47,7 @@ Aliases: [[Metacognitive PKM Frameworks]], [[Externalized Cognition in Note-Taki
 
 ### The Theoretical Basis: From Storage to Synthesis
 
-The evolution of [[Knowledge-Management]] has shifted from a focus on retrieval efficiency to a focus on generative synthesis. Historically, the "filing cabinet" model treated information as static artifacts to be preserved. However, modern cognitive science suggests that deep learning requires the active reconstruction of knowledge, a concept rooted in [[Constructivism]]. When a learner engages with a PKM system, they are not merely transcribing information; they are translating external stimuli into internal mental models. This translation process relies heavily on **Self-Regulated Learning (SRL)**, a cyclical process where the learner plans, monitors, and evaluates their learning strategies.
+The evolution of [[Knowledge-Management]] has shifted from a focus on retrieval efficiency to a focus on generative synthesis. Historically, the "filing cabinet" model treated information as static artifacts to be preserved. However, modern cognitive science suggests that deep learning requires the active reconstruction of knowledge, a concept rooted in [[constructivism]]. When a learner engages with a PKM system, they are not merely transcribing information; they are translating external stimuli into internal mental models. This translation process relies heavily on **Self-Regulated Learning (SRL)**, a cyclical process where the learner plans, monitors, and evaluates their learning strategies.
 
 > [!core-principle]
 > **The Mirror Principle of PKM**
@@ -55,11 +55,11 @@ The evolution of [[Knowledge-Management]] has shifted from a focus on retrieval 
 
 ### Note-Linking as Associative Metacognition
 
-The act of creating a bi-directional link (e.g., `[[Concept A]]` <-> `[[Concept B]]`) is the fundamental atomic unit of metacognitive effort within a PKM system. This action requires the learner to pause and evaluate the semantic relationship between two distinct information nodes. This pause is a metacognitive event. It forces the learner to ask *why* these two ideas connect. Is the relationship causal? Is it hierarchical? Is it oppositional?
+The act of creating a bi-directional link (e.g., `[[Concept-A]]` <-> `[[Concept-B]]`) is the fundamental atomic unit of metacognitive effort within a PKM system. This action requires the learner to pause and evaluate the semantic relationship between two distinct information nodes. This pause is a metacognitive event. It forces the learner to ask *why* these two ideas connect. Is the relationship causal? Is it hierarchical? Is it oppositional?
 
 > [!analysis-cognitive]
 > **The Decision Cost of Linking**
-> When a student utilizes [[Rote-memorization]], facts are stored in isolation. In contrast, [[Associative Learning]] through linking imposes a "desirable difficulty"—a term coined by Robert Bjork—that strengthens retention. The cognitive load required to determine *where* a note belongs and *what* it connects to effectively encodes the information into long-term memory.
+> When a student utilizes [[rote-memorization]], facts are stored in isolation. In contrast, [[Associative Learning]] through linking imposes a "desirable difficulty"—a term coined by Robert Bjork—that strengthens retention. The cognitive load required to determine *where* a note belongs and *what* it connects to effectively encodes the information into long-term memory.
 
 Furthermore, the topology of a knowledge graph provides immediate visual feedback on the learner's intellectual blind spots. An "Orphan Note" (a note with no links) signals a piece of information that has not yet been integrated into the learner's wider web of belief. The visual isolation of the note triggers a regulatory response: the learner must either find a connection or discard the information as irrelevant. This process formalizes the **Elaboration Strategy**, a learning tactic where students expand on new information by connecting it to prior knowledge.
 
@@ -72,7 +72,7 @@ While linking represents the micro-level connections of thought, structuring—t
 > **Structure is an Emergent Property of Understanding**
 > Rigid, top-down hierarchies (folders) often stifle metacognition because they force information into pre-conceived categories. Conversely, bottom-up structuring (emergent ontologies) requires the learner to periodically survey their atomic notes and synthesize them into higher-order clusters. This synthesis is the highest form of Bloom's Taxonomy: **Creation**.
 
-The creation of structure also aids in [[Chunking]], the process by which individual pieces of information are bound together into a meaningful whole. By grouping related atomic notes under a single "Structure Note," the learner frees up working memory capacity. This allows them to manipulate complex arguments without being overwhelmed by the granular details of every sub-component. We can express the efficiency of this chunking via the reduction of cognitive load $L$, where the complexity of the graph $G$ is managed by high-level nodes $N$:
+The creation of structure also aids in [[chunking]], the process by which individual pieces of information are bound together into a meaningful whole. By grouping related atomic notes under a single "Structure Note," the learner frees up working memory capacity. This allows them to manipulate complex arguments without being overwhelmed by the granular details of every sub-component. We can express the efficiency of this chunking via the reduction of cognitive load $L$, where the complexity of the graph $G$ is managed by high-level nodes $N$:
 
 $$L \propto \frac{1}{\text{connectivity}(N)}$$
 
@@ -106,7 +106,7 @@ The review process also serves as a diagnostic tool. If a note from the past is 
 ## Phase 4: Synthesis
 
 > [!summary]
-> Personal Knowledge Management, when executed with methodological rigor, transcends simple organization. It is a mirror for the mind. The mechanical actions of linking notes compel the user to judge relationships; the act of structuring forces the definition of hierarchies; and the habit of reviewing facilitates the continuous refinement of mental models. These tools transform the abstract, invisible processes of [[Metacognition]] into concrete, manipulable digital objects, thereby allowing the learner to regulate their own intellectual development with unprecedented precision.
+> Personal Knowledge Management, when executed with methodological rigor, transcends simple organization. It is a mirror for the mind. The mechanical actions of linking notes compel the user to judge relationships; the act of structuring forces the definition of hierarchies; and the habit of reviewing facilitates the continuous refinement of mental models. These tools transform the abstract, invisible processes of [[metacognition]] into concrete, manipulable digital objects, thereby allowing the learner to regulate their own intellectual development with unprecedented precision.
 
 > [!ask-yourself-this]
 > **Reflective Inquiry**

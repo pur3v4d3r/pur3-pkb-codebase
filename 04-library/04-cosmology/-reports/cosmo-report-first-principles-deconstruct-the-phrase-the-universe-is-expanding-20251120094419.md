@@ -33,7 +33,7 @@ link-related:
 # 🧱 First-Principles Structural Scaffolding: Deconstructing "The Universe Is Expanding"
 
 > [!the-philosophy]
-> "The universe is expanding" is commonly understood as galaxies flying apart through empty space from some central explosion point—like shrapnel from a cosmic bomb. This interpretation envisions the [[Big-Bang]] as an event that occurred *at* a specific location, hurling matter outward into a pre-existing void.
+> "The universe is expanding" is commonly understood as galaxies flying apart through empty space from some central explosion point—like shrapnel from a cosmic bomb. This interpretation envisions the [[big-bang]] as an event that occurred *at* a specific location, hurling matter outward into a pre-existing void.
 
 ---
 
@@ -202,7 +202,7 @@ Now that we have our four fundamental observables—our "atoms"—we can use the
 
 > [!outcome]
 > **The Rebuilt Solution:**
-> "The universe is expanding" **actually means:** The metric of spacetime—the mathematical structure that defines distances between points—is evolving such that proper distances between gravitationally unbound objects (like galaxy clusters) increase systematically with time. This expansion has occurred throughout the observable universe for approximately 13.8 billion years, with the expansion rate characterized by the [[Hubble parameter]] $H(t) = \dot{a}/a$, where $a(t)$ is the cosmic [[scale factor]]. The expansion has no center and no edge; it is homogeneous and isotropic on scales above ~300 megaparsecs. As a consequence of this expansion, light traveling through space has its wavelength stretched by precisely the factor by which space has expanded during the photon's journey: $\lambda_{\text{obs}}/\lambda_{\text{em}} = a(t_{\text{obs}})/a(t_{\text{em}})$. Extrapolating backward, this expansion history implies the universe was once in an extremely hot, dense state—the [[Big-Bang]]—though this state was not a singularity at a point in space, but rather a condition that filled *all* of space simultaneously.
+> "The universe is expanding" **actually means:** The metric of spacetime—the mathematical structure that defines distances between points—is evolving such that proper distances between gravitationally unbound objects (like galaxy clusters) increase systematically with time. This expansion has occurred throughout the observable universe for approximately 13.8 billion years, with the expansion rate characterized by the [[Hubble parameter]] $H(t) = \dot{a}/a$, where $a(t)$ is the cosmic [[scale factor]]. The expansion has no center and no edge; it is homogeneous and isotropic on scales above ~300 megaparsecs. As a consequence of this expansion, light traveling through space has its wavelength stretched by precisely the factor by which space has expanded during the photon's journey: $\lambda_{\text{obs}}/\lambda_{\text{em}} = a(t_{\text{obs}})/a(t_{\text{em}})$. Extrapolating backward, this expansion history implies the universe was once in an extremely hot, dense state—the [[big-bang]]—though this state was not a singularity at a point in space, but rather a condition that filled *all* of space simultaneously.
 
 > [!insight]
 > - **Why This Model is Fundamentally Different:**

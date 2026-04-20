@@ -160,7 +160,7 @@ Research by [[Wang et al. (2022)]] demonstrated that reasoning path diversity in
 >
 > These gains prove particularly significant for problems requiring multi-step inference where single reasoning chains frequently make arithmetic errors, logical slips, or conceptual misunderstandings. The ensemble aggregation filters these individual failures, surfacing the correct reasoning path that recurs across multiple independent samples.
 
-The cognitive parallel to [[Metacognition|metacognitive verification]] deserves emphasis. When humans solve complex problems, effective reasoners often employ multiple solution strategies as a reliability check—solving a math problem algebraically then verifying geometrically, or approaching a logical puzzle from different conceptual angles. [[Self-Consistency]] mechanizes this metacognitive practice, implementing systematic multi-strategy verification without requiring explicit metacognitive capabilities in the base model.
+The cognitive parallel to [[metacognition|metacognitive verification]] deserves emphasis. When humans solve complex problems, effective reasoners often employ multiple solution strategies as a reliability check—solving a math problem algebraically then verifying geometrically, or approaching a logical puzzle from different conceptual angles. [[Self-Consistency]] mechanizes this metacognitive practice, implementing systematic multi-strategy verification without requiring explicit metacognitive capabilities in the base model.
 
 ## 🔧 Algorithmic Architecture: The Mechanics of Ensemble Reasoning
 

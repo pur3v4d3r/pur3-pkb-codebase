@@ -5,6 +5,7 @@
 title: "Aspirational Ecology"
 aliases:
   - "Aspirational Ecology"
+  - "Aspirational-Ecology"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -31,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,7 +44,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -67,39 +68,39 @@ narrower:
   []
 
 see-also:
-  - "[[Self-Determination-Theory]]"
-  - "[[Tim-Kasser]]"
-  - "[[Richard-Ryan]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Eudaimonia]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Goal-Contents-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Organismic-Integration-Theory]]"
-  - "[[Causality-Orientations-Theory]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Goal-Contents-Theory]]"
-  - "[[Relationship-Motivation-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[tim-kasser|Tim-Kasser]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[eudaimonia|Eudaimonia]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[goal-contents-theory|Goal-Contents-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[causality-orientations-theory|Causality-Orientations-Theory]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[goal-contents-theory|Goal-Contents-Theory]]"
+  - "[[relationship-motivation-theory|Relationship-Motivation-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Basic-Psychological-Needs-Theory]]"
-  - "[[Intrinsic-Motivation]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-1.-MaterialismMaterialistic-Values-and-Consumer-Culture-GCT's-findin|> [!topic-idea] 1. [[Materialism|Materialistic Values and Consumer Culture]]
+  - topic: "[[> [!topic-idea] 1. [[Materialism|Materialistic Values and Consumer Culture]]
 > GCT's findings on ext]]"
     description: ""
     priority: medium
@@ -116,7 +117,7 @@ importance: high
 
 > [!definition] **Aspirational Ecology** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
 > **Aspirational Ecology** — A concept emerging from GCT research referring to the aggregate aspirational messages promoted by an environment (family, school, workplace, culture, digital platform). GCT research demonstrates that the aspirational ecology of an environment shapes the aspiration profiles of individuals within it, and therefore serves as a contextual determinant of well-being at the population level. See Sections 6, 8, Synthesis.
-> **See also:** [[Social-Media-and-Well-being]], [[Autonomy-Support]]
+> **See also:** [[Social-Media-and-Well-being]], [[autonomy-support]]
 
 ## Core Explanation
 
@@ -152,7 +153,7 @@ importance: high
 > GCT does not predict that any presence of extrinsic goals is harmful. Rather, it predicts that the **relative centrality** of extrinsic over intrinsic goals in a person's aspirational life is negatively associated with well-being outcomes including subjective well-being, vitality, self-actualization, and positive affect, and positively associated with ill-being indicators including anxiety, depression, and physical symptomatology. This relative framing distinguishes GCT from naive…
 
 > [!analytical-insight] Key Insight *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> Extrinsic goal prioritization is not merely "less effective" at producing well-being than intrinsic goal prioritization; it is hypothesized to be **structurally antagonistic** to well-being because the activities, relationships, and self-regulatory patterns organized around extrinsic goals tend to *displace* or *undermine* need-satisfying activities. The person who organizes their life around financial accumulation may sacrifice relationship time (undermining [[Relatedness]]), accept…
+> Extrinsic goal prioritization is not merely "less effective" at producing well-being than intrinsic goal prioritization; it is hypothesized to be **structurally antagonistic** to well-being because the activities, relationships, and self-regulatory patterns organized around extrinsic goals tend to *displace* or *undermine* need-satisfying activities. The person who organizes their life around financial accumulation may sacrifice relationship time (undermining [[relatedness]]), accept…
 
 ## Practical Implications
 
@@ -160,24 +161,24 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> A persistent methodological challenge in GCT research is cleanly distinguishing goal *content* from goal *framing*. The same underlying aspiration can be expressed in multiple ways: "I want to be financially secure so I can pursue what matters" reflects a different framing than "I want to be wealthy and successful." The [[Aspiration-Index]] — Kasser and Ryan's primary measurement instrument — attempts to control for this by asking respondents to rate the *importance* of specified goal content…
+> A persistent methodological challenge in GCT research is cleanly distinguishing goal *content* from goal *framing*. The same underlying aspiration can be expressed in multiple ways: "I want to be financially secure so I can pursue what matters" reflects a different framing than "I want to be wealthy and successful." The [[aspiration-index]] — Kasser and Ryan's primary measurement instrument — attempts to control for this by asking respondents to rate the *importance* of specified goal content…
 
 > [!warning] **Key Distinction** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> The [[Aspiration-Index]], GCT's primary measurement instrument, assesses the importance of goal domains relative to each other. While this ipsative measurement strategy captures what the theory emphasizes (relative centrality, not absolute levels), it introduces interpretive challenges. A person who rates all aspirations as very important but rates intrinsic aspirations slightly higher would receive a high intrinsic relative centrality score, but their actual motivational life might differ…
+> The [[aspiration-index]], GCT's primary measurement instrument, assesses the importance of goal domains relative to each other. While this ipsative measurement strategy captures what the theory emphasizes (relative centrality, not absolute levels), it introduces interpretive challenges. A person who rates all aspirations as very important but rates intrinsic aspirations slightly higher would receive a high intrinsic relative centrality score, but their actual motivational life might differ…
 
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Tim Kasser (1966–)** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> **[[Tim-Kasser]]** — American psychologist at Knox College whose doctoral work with [[Richard-Ryan]] at the University of Rochester produced the foundational GCT publications (1993, 1996). Kasser developed the [[Aspiration-Index]], conducted the seminal studies linking materialistic value orientation to diminished well-being, and extended GCT into ecological behavior, advertising effects, and socioeconomic influences on aspiration formation. His book *The High Price of Materialism* (2002) translated GCT findings for popular audiences.
+> **[[tim-kasser]]** — American psychologist at Knox College whose doctoral work with [[richard-ryan]] at the University of Rochester produced the foundational GCT publications (1993, 1996). Kasser developed the [[aspiration-index]], conducted the seminal studies linking materialistic value orientation to diminished well-being, and extended GCT into ecological behavior, advertising effects, and socioeconomic influences on aspiration formation. His book *The High Price of Materialism* (2002) translated GCT findings for popular audiences.
 
 > [!person] **Richard M. Ryan (1953–)** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> **[[Richard-Ryan]]** — Co-founder (with [[Edward-Deci]]) of [[Self-Determination-Theory]] at the University of Rochester, later at Australian Catholic University. Ryan provided the metatheoretical framework within which GCT's goal content distinction became intelligible — the organismic-dialectical perspective that treats humans as growth-oriented organisms whose flourishing depends on basic need satisfaction. Ryan co-authored the foundational GCT papers with Kasser and, with Deci, integrated GCT into the broader SDT architecture as its fifth mini-theory.
+> **[[richard-ryan]]** — Co-founder (with [[edward-deci]]) of [[self-determination-theory]] at the University of Rochester, later at Australian Catholic University. Ryan provided the metatheoretical framework within which GCT's goal content distinction became intelligible — the organismic-dialectical perspective that treats humans as growth-oriented organisms whose flourishing depends on basic need satisfaction. Ryan co-authored the foundational GCT papers with Kasser and, with Deci, integrated GCT into the broader SDT architecture as its fifth mini-theory.
 
 > [!person] **Edward L. Deci (1942–2017)** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> **[[Edward-Deci]]** — Co-founder of [[Self-Determination-Theory]] with [[Richard-Ryan]]. Deci's early work on [[Intrinsic-Motivation]] and the undermining effect of external rewards established the theoretical foundation from which GCT later emerged. His research demonstrating that tangible rewards can undermine intrinsic motivation (the "overjustification effect") anticipated GCT's insight that extrinsic contingencies organize motivation in ways that are qualitatively different from — and often antagonistic to — intrinsic motivation.
+> **[[edward-deci]]** — Co-founder of [[self-determination-theory]] with [[richard-ryan]]. Deci's early work on [[intrinsic-motivation]] and the undermining effect of external rewards established the theoretical foundation from which GCT later emerged. His research demonstrating that tangible rewards can undermine intrinsic motivation (the "overjustification effect") anticipated GCT's insight that extrinsic contingencies organize motivation in ways that are qualitatively different from — and often antagonistic to — intrinsic motivation.
 
 > [!person] **Maarten Vansteenkiste (1978–)** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> **[[Maarten-Vansteenkiste]]** — Belgian psychologist at Ghent University whose experimental goal framing research program provided the causal evidence for GCT's claims. Vansteenkiste's studies demonstrated that manipulating goal content framing while holding information constant produces significant differences in learning quality, persistence, and autonomous motivation. He also contributed theoretical refinements including the content-by-motive interaction and cross-cultural extensions.
+> **[[maarten-vansteenkiste]]** — Belgian psychologist at Ghent University whose experimental goal framing research program provided the causal evidence for GCT's claims. Vansteenkiste's studies demonstrated that manipulating goal content framing while holding information constant produces significant differences in learning quality, persistence, and autonomous motivation. He also contributed theoretical refinements including the content-by-motive interaction and cross-cultural extensions.
 
 > [!person] **Christopher P. Niemiec** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
 > **Christopher P. Niemiec** — Collaborator with Ryan and Deci at the University of Rochester who conducted the critical longitudinal attainment paradox study (Niemiec, Ryan, & Deci, 2009) providing direct evidence that achieving extrinsic goals does not produce well-being gains commensurate with effort.
@@ -185,7 +186,7 @@ importance: high
 ## Conceptual Tensions
 
 > [!tension] **Tension 1: Universalism vs. Cultural Meaning-Dependence** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> GCT, following SDT, claims universal applicability of the intrinsic-extrinsic distinction and its well-being consequences. Yet the cultural contingency critique (Section 7) argues that the meaning of specific goal contents varies across cultural contexts, and goals classified as "extrinsic" may serve intrinsic functions in collectivist cultures. **Status:** Partially addressed through content-by-motive interaction refinement; full resolution requires culturally validated measurement instruments and emic goal content taxonomies. **See:** [[Self-Determination-Theory]], Section 7.
+> GCT, following SDT, claims universal applicability of the intrinsic-extrinsic distinction and its well-being consequences. Yet the cultural contingency critique (Section 7) argues that the meaning of specific goal contents varies across cultural contexts, and goals classified as "extrinsic" may serve intrinsic functions in collectivist cultures. **Status:** Partially addressed through content-by-motive interaction refinement; full resolution requires culturally validated measurement instruments and emic goal content taxonomies. **See:** [[self-determination-theory]], Section 7.
 
 > [!tension] **Tension 2: Binary Taxonomy vs. Goal Content Complexity** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
 > The intrinsic-extrinsic binary is parsimonious but may not capture the full range of human aspirational life. Spirituality, safety, political engagement, and aesthetic experience resist clean classification. **Status:** The Grouzet et al. (2005) circumplex model acknowledges domains outside the binary but has not been fully integrated into GCT's core theoretical machinery. **See:** Section 7.
@@ -229,7 +230,7 @@ importance: high
 > 2. The finding that individual differences in aspiration orientation moderate the framing effect suggests that goal content framing is not a…
 
 > [!reflection] **Reflect** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> 1. How does the cultural contingency critique interact with [[Self-Determination-Theory|SDT's]] broader universalist claims about basic psychological needs? Is it possible for needs to be universal while their goal-content pathways are culturally variable?
+> 1. How does the cultural contingency critique interact with [[self-determination-theory|SDT's]] broader universalist claims about basic psychological needs? Is it possible for needs to be universal while their goal-content pathways are culturally variable?
 > 2. If developmental maturation typically involves a shift from extrinsic to intrinsic aspiration priority, what does this imply about cultural systems (advertising, social media, competitive education) that may arrest or reverse this…
 
 > [!reflection] **Reflect** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
@@ -239,17 +240,17 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> Before engaging with Goal Contents Theory at depth, it is worth anchoring this material in conceptual structures you likely already carry. If you have worked with [[Self-Determination-Theory]] as a whole, GCT will feel immediately familiar — it is the SDT mini-theory most directly concerned with the *objects* of human desire rather than the *process* of motivation regulation. If you have engaged with [[Intrinsic-Motivation]] research, you will recognize here an extension of that work: GCT moves beyond asking "Was this activity self-determined?" to asking "Does the thing I am ultimately…
+> Before engaging with Goal Contents Theory at depth, it is worth anchoring this material in conceptual structures you likely already carry. If you have worked with [[self-determination-theory]] as a whole, GCT will feel immediately familiar — it is the SDT mini-theory most directly concerned with the *objects* of human desire rather than the *process* of motivation regulation. If you have engaged with [[intrinsic-motivation]] research, you will recognize here an extension of that work: GCT moves beyond asking "Was this activity self-determined?" to asking "Does the thing I am ultimately…
 
 ## Active Reading Prompts
 
 > [!active-reading] **Pause and Reflect: Connecting Theory to Personal Experience** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> Before continuing to the final sections, take a moment to consider your own aspirational life. If you were to complete [[Tim-Kasser|Kasser]] and [[Richard-Ryan|Ryan's]] [[Aspiration-Index]], where would your aspirations cluster? Are the goals you invest most energy in oriented toward personal growth, meaningful relationships, and community — or toward financial success, social recognition, and physical appearance? Notice that this is not a question about what you "should" value but a descriptive question about what actually organizes your motivational energy. GCT predicts that the answer to…
+> Before continuing to the final sections, take a moment to consider your own aspirational life. If you were to complete [[tim-kasser|Kasser]] and [[richard-ryan|Ryan's]] [[aspiration-index]], where would your aspirations cluster? Are the goals you invest most energy in oriented toward personal growth, meaningful relationships, and community — or toward financial success, social recognition, and physical appearance? Notice that this is not a question about what you "should" value but a descriptive question about what actually organizes your motivational energy. GCT predicts that the answer to…
 
 ## Far Transfer Applications
 
 > [!far-transfer] **Transfer Domain 1: Personal Knowledge Management and Lifelong Learning** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> **Structural Principle:** Just as GCT distinguishes between intrinsic goals (directly need-satisfying) and extrinsic goals (dependent on external contingencies), [[Personal-Knowledge-Management|PKM]] systems can distinguish between *intrinsic knowledge goals* (understanding for its own sake, conceptual mastery, personal intellectual development) and *extrinsic knowledge goals* (credentialing, citation metrics, information hoarding for status signaling). A PKB organized around intrinsic knowledge goals prioritizes deep conceptual integration, [[Elaboration|elaborative processing]], and…
+> **Structural Principle:** Just as GCT distinguishes between intrinsic goals (directly need-satisfying) and extrinsic goals (dependent on external contingencies), [[personal-knowledge-management|PKM]] systems can distinguish between *intrinsic knowledge goals* (understanding for its own sake, conceptual mastery, personal intellectual development) and *extrinsic knowledge goals* (credentialing, citation metrics, information hoarding for status signaling). A PKB organized around intrinsic knowledge goals prioritizes deep conceptual integration, [[elaboration|elaborative processing]], and…
 
 > [!far-transfer] **Transfer Domain 2: Organizational Design and Incentive Architecture** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
 > **Structural Principle:** GCT's finding that extrinsic goal framing produces compliance without deep engagement maps directly onto organizational behavior. Incentive systems built entirely around extrinsic contingencies (bonuses, rankings, performance-based pay) may generate quantitative output without qualitative engagement — the organizational equivalent of rote learning without conceptual understanding. GCT logic suggests that organizational cultures that frame work in terms of contribution, mastery, and meaningful impact (intrinsic work goal content) will produce more creative, more…
@@ -258,7 +259,7 @@ importance: high
 > **Structural Principle:** Digital platforms design aspirational ecologies through their [[Attention-Economy|attention architectures]], recommendation algorithms, and engagement metrics. GCT provides a framework for evaluating whether a platform's design promotes intrinsic or extrinsic aspirational orientations among its users. Platforms optimized for engagement metrics (likes, shares, follower counts, view counts) create extrinsic aspiration environments — users are implicitly taught that social validation, popularity, and image management are the goals that matter. GCT predicts that chronic…
 
 > [!far-transfer] **Transfer Domain 4: Parenting and Aspirational Socialization** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> **Structural Principle:** GCT research on the origins of aspiration orientations identifies [[Conditional-Regard|conditional parental regard]] as a key predictor of extrinsic aspiration development. Parents who communicate love and acceptance contingent on achievement, appearance, or social success inadvertently promote extrinsic aspiration formation in their children. The transfer principle for parenting: the aspiration ecology of the family environment shapes the motivational orientations that children carry into adulthood. Parents who model and communicate intrinsic values — curiosity,…
+> **Structural Principle:** GCT research on the origins of aspiration orientations identifies [[conditional-regard|conditional parental regard]] as a key predictor of extrinsic aspiration development. Parents who communicate love and acceptance contingent on achievement, appearance, or social success inadvertently promote extrinsic aspiration formation in their children. The transfer principle for parenting: the aspiration ecology of the family environment shapes the motivational orientations that children carry into adulthood. Parents who model and communicate intrinsic values — curiosity,…
 
 ## Debates
 
@@ -397,19 +398,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*:
-- [[Self-Determination-Theory]]
-- [[Basic-Psychological-Needs-Theory]]
-- [[Organismic-Integration-Theory]]
-- [[Cognitive-Evaluation-Theory]]
-- [[Causality-Orientations-Theory]]
-- [[Eudaimonia]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]
+- [[organismic-integration-theory|Organismic-Integration-Theory]]
+- [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]
+- [[causality-orientations-theory|Causality-Orientations-Theory]]
+- [[eudaimonia|Eudaimonia]]
 - [[goal-contents-theory-focused-analysis-2026-03-13]]
-- [[Attainment-Paradox]]
-- [[Intrinsic-Goal-Content]]
-- [[Extrinsic-Goal-Content]]
+- [[attainment-paradox|Attainment-Paradox]]
+- [[intrinsic-goal-content|Intrinsic-Goal-Content]]
+- [[extrinsic-goal-content|Extrinsic-Goal-Content]]
 
 **Related concepts:**
-[[Self-Determination-Theory]] · [[Tim-Kasser]] · [[Richard-Ryan]] · [[Basic-Psychological-Needs-Theory]] · [[Self-Determination-Theory]] · [[Intrinsic-Motivation]] · [[Intrinsic-Motivation]] · [[Basic-Psychological-Needs-Theory]] · [[Eudaimonia]] · [[Achievement-Goal-Theory]] · [[Goal-Contents-Theory]] · [[Self-Determination-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Organismic-Integration-Theory]] · [[Causality-Orientations-Theory]] · [[Basic-Psychological-Needs-Theory]] · [[Goal-Contents-Theory]] · [[Relationship-Motivation-Theory]] · [[Self-Determination-Theory]] · [[Basic-Psychological-Needs-Theory]] · [[Basic-Psychological-Needs-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Organismic-Integration-Theory]] · [[Richard-Ryan]] · [[Tim-Kasser]] · [[Competence-Need]] · [[Autonomy-Need]] · [[Relatedness-Need]] · [[Maarten-Vansteenkiste]] · [[Contingent-Self-Worth]]
+[[self-determination-theory|Self-Determination-Theory]] · [[tim-kasser|Tim-Kasser]] · [[richard-ryan|Richard-Ryan]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[eudaimonia|Eudaimonia]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[goal-contents-theory|Goal-Contents-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[causality-orientations-theory|Causality-Orientations-Theory]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[goal-contents-theory|Goal-Contents-Theory]] · [[relationship-motivation-theory|Relationship-Motivation-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[richard-ryan|Richard-Ryan]] · [[tim-kasser|Tim-Kasser]] · [[competence-need|Competence-Need]] · [[autonomy-need|Autonomy-Need]] · [[relatedness-need|Relatedness-Need]] · [[maarten-vansteenkiste|Maarten-Vansteenkiste]] · [[contingent-self-worth|Contingent-Self-Worth]]
 
 ## References
 
@@ -436,7 +437,7 @@ importance: high
 ## Methodology Notes
 
 > [!methodology-and-sources] **The Aspiration Index — GCT's Primary Measurement Instrument** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
-> The **[[Aspiration-Index]]**, developed by [[Tim-Kasser|Kasser]] and [[Richard-Ryan|Ryan]], operationalizes GCT's core constructs for empirical research. The instrument asks respondents to rate the importance and likelihood of attainment of stated aspirations across the seven goal content domains (four intrinsic, three extrinsic). Analyses typically compute a relative aspiration index — the ratio of intrinsic to extrinsic aspiration centrality — which serves as the primary predictor variable in most GCT research. The instrument has been adapted for specific populations (adolescents, elderly)…
+> The **[[aspiration-index]]**, developed by [[tim-kasser|Kasser]] and [[richard-ryan|Ryan]], operationalizes GCT's core constructs for empirical research. The instrument asks respondents to rate the importance and likelihood of attainment of stated aspirations across the seven goal content domains (four intrinsic, three extrinsic). Analyses typically compute a relative aspiration index — the ratio of intrinsic to extrinsic aspiration centrality — which serves as the primary predictor variable in most GCT research. The instrument has been adapted for specific populations (adolescents, elderly)…
 
 > [!methodology-and-sources] **The Goal Framing Experimental Protocol** *(from [[goal-contents-theory-foundational-report-2026-04-01]])*
 > Vansteenkiste et al.'s experimental design is methodologically significant because it holds the *information content* constant while varying only the *goal frame* — the aspirational context in which the learning is situated. This isolates the effect of goal content from the effect of information quality, instructional method, or individual differences. The paradigm has been deployed across educational, health behavior, exercise, and environmental behavior contexts, with remarkably consistent results across domains.

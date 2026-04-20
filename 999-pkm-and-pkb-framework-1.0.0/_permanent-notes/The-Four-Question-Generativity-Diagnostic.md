@@ -5,6 +5,7 @@
 title: "The Four-Question Generativity Diagnostic"
 aliases:
   - "The Four-Question Generativity Diagnostic"
+  - "The-Four-Question-Generativity-Diagnostic"
   - "TFGD"
 type: permanent-note
 status: evergreen
@@ -38,8 +39,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -50,7 +51,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -74,17 +75,26 @@ narrower:
   []
 
 see-also:
-  - "[[Testing-Effect]]"
-  - "[[Elaborative-Interrogation]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Writing-to-Learn]]"
-  - "[[Working-Memory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Schema]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Germane-Cognitive-Load]]"
-  - "[[Encoding-Specificity]]"
+  - "[[Testing-Effect|Testing-Effect]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[writing-to-learn|Writing-to-Learn]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[schema|Schema]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[germane-cognitive-load|Germane-Cognitive-Load]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[Testing-Effect|Testing-Effect]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[writing-to-learn|Writing-to-Learn]]"
+  - "[[Testing-Effect|Testing-Effect]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[encoding-specificity|Encoding-Specificity]]"
+  - "[[working-memory|Working-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -96,7 +106,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Spacing-Effect-and-Its-Interaction-with-Writing-Techniques-Spaced-re|> [!topic-idea] [[Spacing-Effect]] and Its Interaction with Writing Techniques
+  - topic: "[[> [!topic-idea] [[spacing-effect]] and Its Interaction with Writing Techniques
 > Spaced repetition a]]"
     description: ""
     priority: medium
@@ -264,47 +274,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[writing-techniques-effective-learning-focused-analysis-2026-03-21]])*:
-- [[Desirable-Difficulties]]
-- [[Fluency-Illusion]]
-- [[Testing-Effect]]
-- [[Testing-Effect-Retrieval-Practice-Effect]]
-- [[Elaborative-Interrogation]]
-- [[Self-Explanation-Effect]]
-- [[Writing-to-Learn]]
-- [[ICAP-Framework]]
-- [[Metacognitive-Monitoring]]
-- [[Active-Note-Making]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[fluency-illusion|Fluency-Illusion]]
+- [[Testing-Effect|Testing-Effect]]
+- [[testing-effect-retrieval-practice-effect|Testing-Effect-Retrieval-Practice-Effect]]
+- [[elaborative-interrogation|Elaborative-Interrogation]]
+- [[self-explanation-effect|Self-Explanation-Effect]]
+- [[writing-to-learn|Writing-to-Learn]]
+- [[icap-framework|ICAP-Framework]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[active-note-making|Active-Note-Making]]
 
 **Related concepts:**
-[[Testing-Effect]] · [[Elaborative-Interrogation]] · [[Self-Explanation-Effect]] · [[Fluency-Illusion]] · [[Writing-to-Learn]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[Schema]] · [[Cognitive-Load-Theory]] · [[Germane-Cognitive-Load]] · [[Elaborative-Interrogation]] · [[Testing-Effect]] · [[Self-Explanation-Effect]] · [[Writing-to-Learn]] · [[Testing-Effect]] · [[Elaborative-Interrogation]] · [[Self-Explanation-Effect]] · [[Fluency-Illusion]] · [[Encoding-Specificity]] · [[Working-Memory]] · [[Schema]] · [[Elaborative-Interrogation]] · [[Spreading-Activation]] · [[Elaboration]] · [[Self-Explanation-Effect]] · [[Worked-Example-Effect]] · [[Advance-Organizer]] · [[Cognitive-Load-Theory]] · [[Element-Interactivity]] · [[Fluency-Illusion]]
-
-**Related concepts** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*:
-[[Working-Memory-Capacity|Working-Memory-Capacity]] * [[Transfer-Appropriate-Processing|Transfer-Appropriate-Processing]] * [[Self-Regulated-Learning|Self-Regulated-Learning]] * [[Metacognition|Metacognition]] * [[Calibration|Calibration]] * [[Spacing-Effect|Spacing-Effect]] * [[Metacognitive-Regulation|Metacognitive-Regulation]] * [[Transfer-of-Learning|Transfer-of-Learning]] * [[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction]] * [[Dual-Coding-Theory|Dual-Coding-Theory]] * [[Generative-Learning|Generative-Learning]]
-
-**Cross-report connections** *(from writing-techniques-effective-learning-focused-analysis-2026-03-21.md)*:
-- [[Desirable-Difficulties|Desirable-Difficulties]]
-- [[Fluency-Illusion|Fluency-Illusion]]
-- [[Testing-Effect|Testing-Effect]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]]
-- [[Elaborative-Interrogation|Elaborative-Interrogation]]
-
-**Cross-report connections** *(from [[writing-techniques-effective-learning-focused-analysis-2026-03-21]])*:
-- [[Desirable-Difficulties|Desirable-Difficulties]]
-- [[Fluency-Illusion|Fluency-Illusion]]
-- [[Testing-Effect|Testing-Effect]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]]
-- [[Elaborative-Interrogation|Elaborative-Interrogation]]
-
-**Cross-report connections** *(from [[writing-techniques-effective-learning-focused-analysis-2026-03-21]])*:
-- [[Desirable-Difficulties|Desirable-Difficulties]]
-- [[Fluency-Illusion|Fluency-Illusion]]
-- [[Testing-Effect|Testing-Effect]]
-- [[Testing-Effect-Retrieval-Practice-Effect|Testing-Effect-Retrieval-Practice-Effect]]
-- [[Elaborative-Interrogation|Elaborative-Interrogation]]
-
-
-
-
+[[Testing-Effect|Testing-Effect]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[fluency-illusion|Fluency-Illusion]] · [[writing-to-learn|Writing-to-Learn]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[schema|Schema]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[germane-cognitive-load|Germane-Cognitive-Load]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[Testing-Effect|Testing-Effect]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[writing-to-learn|Writing-to-Learn]] · [[Testing-Effect|Testing-Effect]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[fluency-illusion|Fluency-Illusion]] · [[encoding-specificity|Encoding-Specificity]] · [[working-memory|Working-Memory]] · [[schema|Schema]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[spreading-activation|Spreading-Activation]] · [[elaboration|Elaboration]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[worked-example-effect|Worked-Example-Effect]] · [[advance-organizer|Advance-Organizer]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[element-interactivity|Element-Interactivity]] · [[fluency-illusion|Fluency-Illusion]]
 
 ## References
 
@@ -322,114 +304,6 @@ importance: high
 - **Weinstein, Y., Madan, C.R., & Sumeracki, M.A. (2018). Teaching the science of learning. *Cognitive Research: Principles and Implications, 3*(1), 2.**: Accessible review integrating retrieval practice, spaced practice, interleaving, and elaboration for instructional applications. Grounds Phase V practical recommendations.
 
 *Citations sourced from [[writing-techniques-effective-learning-focused-analysis-2026-03-21]]*
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
-
-- **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition*. MIT Press.**: Seminal articulation of desirable difficulties concept and the relationship between fluency and learning. Grounds Phase IV and V.
-
-- **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
-
-- **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
-
-- **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
-
-- **Graham, S., Kiuhara, S.A., & MacKay, M. (2020). The effects of writing on learning in science, social studies, and mathematics. *Review of Educational Research, 90*(2), 179–226.**: Contemporary meta-analysis of writing-to-learn research across disciplines. Grounds Phase III.
-
-- **Morris, C.D., Bransford, J.D., & Franks, J.J. (1977). Levels of processing versus transfer appropriate processing. *Journal of Verbal Learning and Verbal Behavior, 16*(5), 519–533.**: Original transfer-appropriate processing research showing encoding-retrieval match governs accessibility. Grounds Phase V.
-
-- **Mueller, P.A., & Oppenheimer, D.M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168.**: The laptop vs. longhand note-taking study that is the analytical entry point for this report. Grounds Phase I.
-
-- **Roediger, H.L., & Butler, A.C. (2011). The critical role of retrieval practice in long-term retention. *Trends in Cognitive Sciences, 15*(1), 20–26.**: Comprehensive review of retrieval practice / testing effect literature. Primary source for Phase III testing effect claims.
-
-- **Roediger, H.L., & Karpicke, J.D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255.**: Original retrieval practice study showing 50% retention advantage over re-reading. Grounds Phase III quantitative claims.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: Foundational cognitive load theory paper. Grounds Phase II framework and Phase IV conditional analysis.
-
-- **Weinstein, Y., Madan, C.R., & Sumeracki, M.A. (2018). Teaching the science of learning. *Cognitive Research: Principles and Implications, 3*(1), 2.**: Accessible review integrating retrieval practice, spaced practice, interleaving, and elaboration for instructional applications. Grounds Phase V practical recommendations.
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
-
-- **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition*. MIT Press.**: Seminal articulation of desirable difficulties concept and the relationship between fluency and learning. Grounds Phase IV and V.
-
-- **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
-
-- **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
-
-- **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
-
-- **Graham, S., Kiuhara, S.A., & MacKay, M. (2020). The effects of writing on learning in science, social studies, and mathematics. *Review of Educational Research, 90*(2), 179–226.**: Contemporary meta-analysis of writing-to-learn research across disciplines. Grounds Phase III.
-
-- **Morris, C.D., Bransford, J.D., & Franks, J.J. (1977). Levels of processing versus transfer appropriate processing. *Journal of Verbal Learning and Verbal Behavior, 16*(5), 519–533.**: Original transfer-appropriate processing research showing encoding-retrieval match governs accessibility. Grounds Phase V.
-
-- **Mueller, P.A., & Oppenheimer, D.M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168.**: The laptop vs. longhand note-taking study that is the analytical entry point for this report. Grounds Phase I.
-
-- **Roediger, H.L., & Butler, A.C. (2011). The critical role of retrieval practice in long-term retention. *Trends in Cognitive Sciences, 15*(1), 20–26.**: Comprehensive review of retrieval practice / testing effect literature. Primary source for Phase III testing effect claims.
-
-- **Roediger, H.L., & Karpicke, J.D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255.**: Original retrieval practice study showing 50% retention advantage over re-reading. Grounds Phase III quantitative claims.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: Foundational cognitive load theory paper. Grounds Phase II framework and Phase IV conditional analysis.
-
-- **Weinstein, Y., Madan, C.R., & Sumeracki, M.A. (2018). Teaching the science of learning. *Cognitive Research: Principles and Implications, 3*(1), 2.**: Accessible review integrating retrieval practice, spaced practice, interleaving, and elaboration for instructional applications. Grounds Phase V practical recommendations.
-
-- **Bereiter, C., & Scardamalia, M. (1987). *The Psychology of Written Composition*. Lawrence Erlbaum Associates.**: Foundational theoretical work distinguishing knowledge-telling and knowledge-transforming modes of writing. The central theoretical distinction of this analysis. Grounds Phases II and VI.
-
-- **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition*. MIT Press.**: Seminal articulation of desirable difficulties concept and the relationship between fluency and learning. Grounds Phase IV and V.
-
-- **Chi, M.T.H., de Leeuw, N., Chiu, M.H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.**: Original self-explanation research demonstrating mechanism and effect size. Grounds Phase III and IV.
-
-- **Chi, M.T.H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.**: Framework for ordering learning activities by productive engagement level. Grounds Phase V.
-
-- **Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58.**: Comprehensive meta-analytic review of learning technique efficacy. Primary evidentiary foundation for Phase III.
-
-- **Graham, S., Kiuhara, S.A., & MacKay, M. (2020). The effects of writing on learning in science, social studies, and mathematics. *Review of Educational Research, 90*(2), 179–226.**: Contemporary meta-analysis of writing-to-learn research across disciplines. Grounds Phase III.
-
-- **Morris, C.D., Bransford, J.D., & Franks, J.J. (1977). Levels of processing versus transfer appropriate processing. *Journal of Verbal Learning and Verbal Behavior, 16*(5), 519–533.**: Original transfer-appropriate processing research showing encoding-retrieval match governs accessibility. Grounds Phase V.
-
-- **Mueller, P.A., & Oppenheimer, D.M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168.**: The laptop vs. longhand note-taking study that is the analytical entry point for this report. Grounds Phase I.
-
-- **Roediger, H.L., & Butler, A.C. (2011). The critical role of retrieval practice in long-term retention. *Trends in Cognitive Sciences, 15*(1), 20–26.**: Comprehensive review of retrieval practice / testing effect literature. Primary source for Phase III testing effect claims.
-
-- **Roediger, H.L., & Karpicke, J.D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255.**: Original retrieval practice study showing 50% retention advantage over re-reading. Grounds Phase III quantitative claims.
-
-- **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285.**: Foundational cognitive load theory paper. Grounds Phase II framework and Phase IV conditional analysis.
-
-- **Weinstein, Y., Madan, C.R., & Sumeracki, M.A. (2018). Teaching the science of learning. *Cognitive Research: Principles and Implications, 3*(1), 2.**: Accessible review integrating retrieval practice, spaced practice, interleaving, and elaboration for instructional applications. Grounds Phase V practical recommendations.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

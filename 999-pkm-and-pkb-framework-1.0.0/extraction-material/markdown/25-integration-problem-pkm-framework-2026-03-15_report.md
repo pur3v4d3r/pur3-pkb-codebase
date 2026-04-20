@@ -160,7 +160,7 @@ extraction_summary:
 #### 3. [DEFINITION] Conceptual Change (Educational Psychology, Vosniadou, Chi, Posner) *(Line 160)*
 
 > [!definition] Conceptual Change (Educational Psychology, Vosniadou, Chi, Posner)
-> The cognitive process by which learners' fundamental categories, frameworks, and ontological commitments are restructured — rather than merely extended — in response to new information. [[Conceptual-Change|Conceptual Change]] theory distinguishes between two fundamentally different kinds of learning: *enrichment* (adding new information to existing conceptual structures without altering those structures) and *revision* (reorganizing the conceptual structure itself). [[Stella-Vosniadou]]'s [[Framework Theory]] identifies a third, most radical kind: *framework theory change*, in which the fundamental presuppositions that organize an entire domain of knowledge are restructured. This is what happens when a learner stops thinking of heat as a substance and begins thinking of it as a process, or stops thinking of knowledge as a collection of facts and begins thinking of it as a network of relationships. Most PKB practice produces enrichment; integration often requires revision or framework theory change.
+> The cognitive process by which learners' fundamental categories, frameworks, and ontological commitments are restructured — rather than merely extended — in response to new information. [[conceptual-change|Conceptual Change]] theory distinguishes between two fundamentally different kinds of learning: *enrichment* (adding new information to existing conceptual structures without altering those structures) and *revision* (reorganizing the conceptual structure itself). [[Stella-Vosniadou]]'s [[Framework Theory]] identifies a third, most radical kind: *framework theory change*, in which the fundamental presuppositions that organize an entire domain of knowledge are restructured. This is what happens when a learner stops thinking of heat as a substance and begins thinking of it as a process, or stops thinking of knowledge as a collection of facts and begins thinking of it as a network of relationships. Most PKB practice produces enrichment; integration often requires revision or framework theory change.
 
 #### 4. [DEFINITION] Small-World Networks (Network Science, Watts & Strogatz) *(Line 163)*
 
@@ -185,7 +185,7 @@ extraction_summary:
 #### 8. [DEFINITION] Inert Knowledge (Philosophy and Educational Science, Whitehead) *(Line 175)*
 
 > [!definition] Inert Knowledge (Philosophy and Educational Science, Whitehead)
-> [[Alfred-North-Whitehead|Alfred North Whitehead]]'s 1929 concept of knowledge that learners possess in the sense that they can reproduce it accurately in test conditions, but cannot apply, transfer, or productively use in novel contexts. [[Inert-Knowledge|Inert Knowledge]] is correctly stored but incorrectly integrated — it exists as an isolated proposition rather than as a node in a functional network of related ideas. Whitehead diagnosed inert knowledge as the characteristic failure mode of formal education that presents "knowledge in disconnected fragments." A PKB full of accurately captured but insufficiently connected notes is, at scale, a systematic producer of inert knowledge.
+> [[alfred-north-whitehead|Alfred North Whitehead]]'s 1929 concept of knowledge that learners possess in the sense that they can reproduce it accurately in test conditions, but cannot apply, transfer, or productively use in novel contexts. [[inert-knowledge|Inert Knowledge]] is correctly stored but incorrectly integrated — it exists as an isolated proposition rather than as a node in a functional network of related ideas. Whitehead diagnosed inert knowledge as the characteristic failure mode of formal education that presents "knowledge in disconnected fragments." A PKB full of accurately captured but insufficiently connected notes is, at scale, a systematic producer of inert knowledge.
 
 #### 9. [CROSS-DOMAIN-CONNECTION] Knowledge Integration × Small-World Networks: The Process-Structure Isomorphism *(Line 182)*
 
@@ -239,7 +239,7 @@ extraction_summary:
 #### 18. [WHAT-THE-EVIDENCE-SUGGESTS] What the Evidence Suggests About PKB Capture *(Line 234)*
 
 > [!what-the-evidence-suggests] What the Evidence Suggests About PKB Capture
-> The conceptual change literature, taken as a whole, suggests that the moment a learner captures a note that contains information incompatible with their existing understanding, the note is not simply stored. It is interpreted — and interpretation always involves the existing schema. If the existing schema is robust, the new information is likely assimilated into it, with details that don't fit quietly dropped or reinterpreted. The note, faithfully transcribed, may still represent the learner's synthetic model rather than the original concept. This means that [[Active-Note-Making|Active Note-Making]] (as developed in [[Report 17]]) — where learners elaborate, question, and connect rather than merely transcribe — is not just a learning enhancement; it is a diagnostic tool that surfaces synthetic models before they become invisible and permanent.
+> The conceptual change literature, taken as a whole, suggests that the moment a learner captures a note that contains information incompatible with their existing understanding, the note is not simply stored. It is interpreted — and interpretation always involves the existing schema. If the existing schema is robust, the new information is likely assimilated into it, with details that don't fit quietly dropped or reinterpreted. The note, faithfully transcribed, may still represent the learner's synthetic model rather than the original concept. This means that [[active-note-making|Active Note-Making]] (as developed in [[Report 17]]) — where learners elaborate, question, and connect rather than merely transcribe — is not just a learning enhancement; it is a diagnostic tool that surfaces synthetic models before they become invisible and permanent.
 
 #### 19. [EVIDENCE] Meyer & Land (2003, 2006) — Threshold Concepts and Liminal States *(Line 239)*
 
@@ -308,7 +308,7 @@ extraction_summary:
 #### 31. [CROSS-DOMAIN-CONNECTION] Progressive Differentiation × Small-World Topology: Ausubel and Network Science Converge *(Line 332)*
 
 > [!cross-domain-connection] Progressive Differentiation × Small-World Topology: Ausubel and Network Science Converge
-> [[David-Ausubel|David Ausubel]]'s [[Elaboration-Theory|Elaboration Theory]] of meaningful learning (1963) proposed that knowledge should be organized according to two principles: *progressive differentiation* (general, inclusive concepts should be introduced before specific, subordinate ones) and *integrative reconciliation* (explicit attention should be paid to similarities and differences between related concepts, resolving apparent contradictions). In network science terms, progressive differentiation corresponds to building hub nodes before adding leaf nodes — general concepts with high degree centrality anchoring the network before specific instances are added. Integrative reconciliation corresponds to adding bridge notes that reduce path length between clusters that previously appeared incompatible. Ausubel's 1963 instructional design framework describes, in qualitative terms, precisely the operations that produce small-world network topology. The two traditions converge on the same design logic — from entirely independent disciplinary starting points.
+> [[david-ausubel|David Ausubel]]'s [[Elaboration-Theory|Elaboration Theory]] of meaningful learning (1963) proposed that knowledge should be organized according to two principles: *progressive differentiation* (general, inclusive concepts should be introduced before specific, subordinate ones) and *integrative reconciliation* (explicit attention should be paid to similarities and differences between related concepts, resolving apparent contradictions). In network science terms, progressive differentiation corresponds to building hub nodes before adding leaf nodes — general concepts with high degree centrality anchoring the network before specific instances are added. Integrative reconciliation corresponds to adding bridge notes that reduce path length between clusters that previously appeared incompatible. Ausubel's 1963 instructional design framework describes, in qualitative terms, precisely the operations that produce small-world network topology. The two traditions converge on the same design logic — from entirely independent disciplinary starting points.
 
 #### 32. [ANALYTICAL-INSIGHT] The Dwell Time Problem: Why Quick Capture Resists Integration *(Line 341)*
 
@@ -398,13 +398,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Schema-Theory|Schema Theory]] and [[Assimilation-and-Accommodation|Assimilation and Accommodation]]** — The integration mechanisms in this report — particularly the distinction between enrichment, revision, and framework theory change — are the full elaboration of the assimilation/accommodation distinction introduced in [[Report-01]]. This report reveals that accommodation is a spectrum, not a binary, and that most PKB practice produces only weak accommodation. The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] from Report 01 now has a topological specification: a PKB cognitively aligned with the mind's semantic architecture is one with small-world topology.
+> - **[[schema-theory|Schema Theory]] and [[assimilation-and-accommodation|Assimilation and Accommodation]]** — The integration mechanisms in this report — particularly the distinction between enrichment, revision, and framework theory change — are the full elaboration of the assimilation/accommodation distinction introduced in [[Report-01]]. This report reveals that accommodation is a spectrum, not a binary, and that most PKB practice produces only weak accommodation. The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] from Report 01 now has a topological specification: a PKB cognitively aligned with the mind's semantic architecture is one with small-world topology.
 > 
-> - **[[Inert-Knowledge|Inert Knowledge]] and [[Transfer-of-Learning|Transfer of Learning]]** — [[Report 11]] established that transfer failure is the characteristic problem of knowledge learned in isolation from application contexts. This report reveals the deeper mechanism: inert knowledge is a topological failure — a node with correct content but incorrect conceptual edges. Transfer requires traversal of the network from learning context to application context; if the path doesn't exist (no bridge notes connecting them), transfer fails. The bridge-note creation practice developed here is, at a deeper level, a transfer-engineering practice.
+> - **[[inert-knowledge|Inert Knowledge]] and [[transfer-of-learning|Transfer of Learning]]** — [[Report 11]] established that transfer failure is the characteristic problem of knowledge learned in isolation from application contexts. This report reveals the deeper mechanism: inert knowledge is a topological failure — a node with correct content but incorrect conceptual edges. Transfer requires traversal of the network from learning context to application context; if the path doesn't exist (no bridge notes connecting them), transfer fails. The bridge-note creation practice developed here is, at a deeper level, a transfer-engineering practice.
 > 
-> - **[[Threshold-Concepts|Threshold Concepts]] and [[Critical-Thinking|Critical Thinking]]** — [[Report 07]] established that critical thinking requires the willingness to revise beliefs in response to evidence. This report reveals why that revision is structurally difficult: threshold concepts require framework theory change, which is cognitively more demanding than belief revision about specific claims. The PKB practices that facilitate conceptual change — productive incompatibility encounters, dwell time, synthetic model diagnosis — are the structural prerequisites for the deep critical thinking that Report 07 describes.
+> - **[[Threshold-Concepts|Threshold Concepts]] and [[critical-thinking|Critical Thinking]]** — [[Report 07]] established that critical thinking requires the willingness to revise beliefs in response to evidence. This report reveals why that revision is structurally difficult: threshold concepts require framework theory change, which is cognitively more demanding than belief revision about specific claims. The PKB practices that facilitate conceptual change — productive incompatibility encounters, dwell time, synthetic model diagnosis — are the structural prerequisites for the deep critical thinking that Report 07 describes.
 > 
-> - **[[Network Models of Memory]] and [[Spreading-Activation|Spreading Activation]]** — [[Report 20]] established the retrieval architecture of a well-designed PKB, focusing on the testing effect and spaced repetition. This report reveals the *structural* precondition for retrieval-enhanced learning: if the network has long path lengths between related concepts, retrieval of one concept will not reliably activate its conceptually relevant neighbors. Small-world topology is the structural prerequisite for the retrieval benefits that Report 20 describes.
+> - **[[Network Models of Memory]] and [[spreading-activation|Spreading Activation]]** — [[Report 20]] established the retrieval architecture of a well-designed PKB, focusing on the testing effect and spaced repetition. This report reveals the *structural* precondition for retrieval-enhanced learning: if the network has long path lengths between related concepts, retrieval of one concept will not reliably activate its conceptually relevant neighbors. Small-world topology is the structural prerequisite for the retrieval benefits that Report 20 describes.
 > 
 > - **[[Note-Making as Knowledge Construction]]** — [[Report 17]] established that elaborative note-making — writing to learn, self-explanation, elaborative interrogation — produces richer encoding than passive transcription. This report reveals why: elaborative note-making is the cognitive operation that most reliably surfaces incompatibilities (because elaboration forces engagement with the concept's relationship to existing knowledge), creating the conditions for schema restructuring rather than synthetic model formation.
 > 
@@ -578,29 +578,29 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Active-Note-Making|Active Note-Making]]
-- [[Alfred-North-Whitehead|Alfred North Whitehead]]
+- [[active-note-making|Active Note-Making]]
+- [[alfred-north-whitehead|Alfred North Whitehead]]
 - [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]
-- [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
+- [[assimilation-and-accommodation|Assimilation and Accommodation]]
 - [[Betweenness-Centrality|Betweenness Centrality]]
 - [[Boundary-Objects|Boundary Objects]]
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collins-and-Loftus|Collins and Loftus]]
-- [[Conceptual-Change|Conceptual Change]]
-- [[Critical-Thinking|Critical Thinking]]
-- [[David-Ausubel|David Ausubel]]
+- [[conceptual-change|Conceptual Change]]
+- [[critical-thinking|Critical Thinking]]
+- [[david-ausubel|David Ausubel]]
 - [[Duncan-Watts|Duncan Watts]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Emergence and Self-Organization in Knowledge Networks: Complexity Science Perspectives]]
 - [[Expert-Novice Comparisons]]
 - [[Framework Theory]]
-- [[Inert-Knowledge|Inert Knowledge]]
+- [[inert-knowledge|Inert Knowledge]]
 - [[Information-Science|Information Science]]
 - [[Integration Architecture]]
-- [[Integration-Paradox|Integration Paradox]]
+- [[integration-paradox|Integration Paradox]]
 - [[Jan Meyer]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[Knowledge Integration Framework]]
@@ -629,16 +629,16 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[SECI-Model|SECI Model]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Science and Technology Studies]]
 - [[Small-World-Networks|Small-World Networks]]
 - [[Small-World-PKB-Principle|Small-World PKB Principle]]
-- [[Spreading-Activation|Spreading Activation]]
+- [[spreading-activation|Spreading Activation]]
 - [[Stella-Vosniadou]]
 - [[Steven Strogatz]]
 - [[The Sociology of Personal Knowledge: How Social Networks Produce Integration]]
 - [[Threshold-Concepts|Threshold Concepts]]
-- [[Transfer-of-Learning|Transfer of Learning]]
+- [[transfer-of-learning|Transfer of Learning]]
 - [[Weak Ties]]
 
 ### All Occurrences
@@ -646,11 +646,11 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
-| 2 | [[Educational-Psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
+| 2 | [[educational-psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
 | 3 | [[Network Science]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
 | 4 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
 | 5 | [[Knowledge-Integration|Knowledge Integration]] | — | — | The Synthesis Question | 132 |
-| 6 | [[Conceptual-Change|Conceptual Change]] | — | — | The Synthesis Question | 132 |
+| 6 | [[conceptual-change|Conceptual Change]] | — | — | The Synthesis Question | 132 |
 | 7 | [[Network Science]] | — | — | The Synthesis Question | 132 |
 | 8 | [[Knowledge-Management|Knowledge Management]] | — | — | The Synthesis Question | 132 |
 | 9 | [[Marcia Linn]] | — | — | The Synthesis Question | 134 |
@@ -669,22 +669,22 @@ extraction_summary:
 | 22 | [[SECI-Model|SECI Model]] | — | — | The Synthesis Question | 134 |
 | 23 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 24 | [[Report-01]] | — | — | Scope, Dependencies, and Roadmap | 140 |
-| 25 | [[Schema-Theory|Schema Theory]] | — | — | Scope, Dependencies, and Roadmap | 140 |
+| 25 | [[schema-theory|Schema Theory]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 26 | [[Report-03]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 27 | [[Report 11]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 28 | [[Report 20]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 29 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Scope, Dependencies, and Roadmap | 142 |
-| 30 | [[Educational-Psychology|Educational Psychology]] | — | — | Scope, Dependencies, and Roadmap | 142 |
+| 30 | [[educational-psychology|Educational Psychology]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 31 | [[Information-Science|Information Science]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 32 | [[Network Science]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 33 | [[Knowledge-Management|Knowledge Management]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 34 | [[Integration Architecture]] | — | — | Scope, Dependencies, and Roadmap | 142 |
-| 35 | [[Integration-Paradox|Integration Paradox]] | — | — | Scope, Dependencies, and Roadmap | 142 |
-| 36 | [[Integration-Paradox|Integration Paradox]] | — | — | Scope, Dependencies, and Roadmap | 144 |
+| 35 | [[integration-paradox|Integration Paradox]] | — | — | Scope, Dependencies, and Roadmap | 142 |
+| 36 | [[integration-paradox|Integration Paradox]] | — | — | Scope, Dependencies, and Roadmap | 144 |
 | 37 | [[Small-World-PKB-Principle|Small-World PKB Principle]] | — | — | Scope, Dependencies, and Roadmap | 144 |
 | 38 | [[Knowledge-Integration|Knowledge Integration]] | — | — | The Four Concepts at the Center of In... | 158 |
 | 39 | [[Knowledge Integration Framework]] | — | — | The Four Concepts at the Center of In... | 158 |
-| 40 | [[Conceptual-Change|Conceptual Change]] | — | — | The Four Concepts at the Center of In... | 161 |
+| 40 | [[conceptual-change|Conceptual Change]] | — | — | The Four Concepts at the Center of In... | 161 |
 | 41 | [[Stella-Vosniadou]] | — | — | The Four Concepts at the Center of In... | 161 |
 | 42 | [[Framework Theory]] | — | — | The Four Concepts at the Center of In... | 161 |
 | 43 | [[Duncan-Watts|Duncan Watts]] | — | — | The Four Concepts at the Center of In... | 164 |
@@ -696,45 +696,45 @@ extraction_summary:
 | 49 | [[Jan Meyer]] | — | — | The Four Concepts at the Center of In... | 173 |
 | 50 | [[Ray Land]] | — | — | The Four Concepts at the Center of In... | 173 |
 | 51 | [[Threshold-Concepts|Threshold Concepts]] | — | — | The Four Concepts at the Center of In... | 173 |
-| 52 | [[Alfred-North-Whitehead|Alfred North Whitehead]] | — | — | The Four Concepts at the Center of In... | 176 |
-| 53 | [[Inert-Knowledge|Inert Knowledge]] | — | — | The Four Concepts at the Center of In... | 176 |
+| 52 | [[alfred-north-whitehead|Alfred North Whitehead]] | — | — | The Four Concepts at the Center of In... | 176 |
+| 53 | [[inert-knowledge|Inert Knowledge]] | — | — | The Four Concepts at the Center of In... | 176 |
 | 54 | [[Expert-Novice Comparisons]] | — | — | The Expert–Novice Knowledge Organizat... | 211 |
 | 55 | [[Michelene Chi]] | — | — | The Expert–Novice Knowledge Organizat... | 211 |
 | 56 | [[Stella-Vosniadou]] | — | — | The Conceptual Change Evidence Base | 227 |
-| 57 | [[Active-Note-Making|Active Note-Making]] | — | — | The Conceptual Change Evidence Base | 235 |
+| 57 | [[active-note-making|Active Note-Making]] | — | — | The Conceptual Change Evidence Base | 235 |
 | 58 | [[Report 17]] | — | — | The Conceptual Change Evidence Base | 235 |
 | 59 | [[Jan Meyer]] | — | — | The Conceptual Change Evidence Base | 237 |
 | 60 | [[Ray Land]] | — | — | The Conceptual Change Evidence Base | 237 |
 | 61 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Network Science Evidence for Small-Wo... | 249 |
 | 62 | [[Report-01]] | — | — | Network Science Evidence for Small-Wo... | 249 |
 | 63 | [[Collins-and-Loftus|Collins and Loftus]] | — | — | The Three Integration Mechanisms | 281 |
-| 64 | [[Spreading-Activation|Spreading Activation]] | — | — | The Three Integration Mechanisms | 281 |
+| 64 | [[spreading-activation|Spreading Activation]] | — | — | The Three Integration Mechanisms | 281 |
 | 65 | [[Report 20]] | — | — | The Three Integration Mechanisms | 281 |
-| 66 | [[Schema-Theory|Schema Theory]] | — | — | The Three Integration Mechanisms | 290 |
+| 66 | [[schema-theory|Schema Theory]] | — | — | The Three Integration Mechanisms | 290 |
 | 67 | [[Report-01]] | — | — | The Three Integration Mechanisms | 290 |
 | 68 | [[Knowledge-Management|Knowledge Management]] | — | — | The Three Integration Mechanisms | 303 |
 | 69 | [[Science and Technology Studies]] | — | — | The Three Integration Mechanisms | 303 |
 | 70 | [[Boundary-Objects|Boundary Objects]] | — | — | The Three Integration Mechanisms | 303 |
 | 71 | [[Boundary-Objects|Boundary Objects]] | — | — | The Three Integration Mechanisms | 306 |
-| 72 | [[David-Ausubel|David Ausubel]] | — | — | The Integration Failure Cascade | 333 |
+| 72 | [[david-ausubel|David Ausubel]] | — | — | The Integration Failure Cascade | 333 |
 | 73 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Integration Failure Cascade | 333 |
 | 74 | [[Report-01]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
-| 75 | [[Schema-Theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
-| 76 | [[Assimilation-and-Accommodation|Assimilation and Accommodation]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
+| 75 | [[schema-theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
+| 76 | [[assimilation-and-accommodation|Assimilation and Accommodation]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
 | 77 | [[Report 17]] | — | — | Design Principle 5: Use Note-Making a... | 392 |
-| 78 | [[Inert-Knowledge|Inert Knowledge]] | — | — | Return-and-Deepen: Inert Knowledge, T... | 456 |
-| 79 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
-| 80 | [[Assimilation-and-Accommodation|Assimilation and Accommodation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
+| 78 | [[inert-knowledge|Inert Knowledge]] | — | — | Return-and-Deepen: Inert Knowledge, T... | 456 |
+| 79 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
+| 80 | [[assimilation-and-accommodation|Assimilation and Accommodation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 81 | [[Report-01]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 82 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
-| 83 | [[Inert-Knowledge|Inert Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
-| 84 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
+| 83 | [[inert-knowledge|Inert Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
+| 84 | [[transfer-of-learning|Transfer of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
 | 85 | [[Report 11]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
 | 86 | [[Threshold-Concepts|Threshold Concepts]] | — | — | Phase VII: PKB Connections & Cross-Re... | 471 |
-| 87 | [[Critical-Thinking|Critical Thinking]] | — | — | Phase VII: PKB Connections & Cross-Re... | 471 |
+| 87 | [[critical-thinking|Critical Thinking]] | — | — | Phase VII: PKB Connections & Cross-Re... | 471 |
 | 88 | [[Report 07]] | — | — | Phase VII: PKB Connections & Cross-Re... | 471 |
 | 89 | [[Network Models of Memory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 473 |
-| 90 | [[Spreading-Activation|Spreading Activation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 473 |
+| 90 | [[spreading-activation|Spreading Activation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 473 |
 | 91 | [[Report 20]] | — | — | Phase VII: PKB Connections & Cross-Re... | 473 |
 | 92 | [[Note-Making as Knowledge Construction]] | — | — | Phase VII: PKB Connections & Cross-Re... | 475 |
 | 93 | [[Report 17]] | — | — | Phase VII: PKB Connections & Cross-Re... | 475 |
@@ -768,29 +768,29 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Active-Note-Making|Active Note-Making]]
-- [[Alfred-North-Whitehead|Alfred North Whitehead]]
+- [[active-note-making|Active Note-Making]]
+- [[alfred-north-whitehead|Alfred North Whitehead]]
 - [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]
-- [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
+- [[assimilation-and-accommodation|Assimilation and Accommodation]]
 - [[Betweenness-Centrality|Betweenness Centrality]]
 - [[Boundary-Objects|Boundary Objects]]
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collins-and-Loftus|Collins and Loftus]]
-- [[Conceptual-Change|Conceptual Change]]
-- [[Critical-Thinking|Critical Thinking]]
-- [[David-Ausubel|David Ausubel]]
+- [[conceptual-change|Conceptual Change]]
+- [[critical-thinking|Critical Thinking]]
+- [[david-ausubel|David Ausubel]]
 - [[Duncan-Watts|Duncan Watts]]
-- [[Educational-Psychology|Educational Psychology]]
+- [[educational-psychology|Educational Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Emergence and Self-Organization in Knowledge Networks: Complexity Science Perspectives]]
 - [[Expert-Novice Comparisons]]
 - [[Framework Theory]]
-- [[Inert-Knowledge|Inert Knowledge]]
+- [[inert-knowledge|Inert Knowledge]]
 - [[Information-Science|Information Science]]
 - [[Integration Architecture]]
-- [[Integration-Paradox|Integration Paradox]]
+- [[integration-paradox|Integration Paradox]]
 - [[Jan Meyer]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[Knowledge Integration Framework]]
@@ -819,16 +819,16 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[SECI-Model|SECI Model]]
-- [[Schema-Theory|Schema Theory]]
+- [[schema-theory|Schema Theory]]
 - [[Science and Technology Studies]]
 - [[Small-World-Networks|Small-World Networks]]
 - [[Small-World-PKB-Principle|Small-World PKB Principle]]
-- [[Spreading-Activation|Spreading Activation]]
+- [[spreading-activation|Spreading Activation]]
 - [[Stella-Vosniadou]]
 - [[Steven Strogatz]]
 - [[The Sociology of Personal Knowledge: How Social Networks Produce Integration]]
 - [[Threshold-Concepts|Threshold Concepts]]
-- [[Transfer-of-Learning|Transfer of Learning]]
+- [[transfer-of-learning|Transfer of Learning]]
 - [[Weak Ties]]
 
 ### Frontmatter Relationships

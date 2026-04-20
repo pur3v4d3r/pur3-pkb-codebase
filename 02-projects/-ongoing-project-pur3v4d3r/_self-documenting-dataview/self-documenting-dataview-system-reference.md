@@ -651,7 +651,7 @@ FLATTEN file.lists as L
 
 ### Integration Pattern 1: Zettelkasten Compatibility
 
-Adapt the system for [[Zettelkasten]] atomic notes:
+Adapt the system for [[zettelkasten]] atomic notes:
 
 **Modified Template for Atomic Concepts:**
 
@@ -661,7 +661,7 @@ aliases:
 Type: concept
 zettel-type: permanent
 MOC: "[[Knowledge MOC]]"
-related-concepts:: [[Concept A]], [[Concept B]]
+related-concepts:: [[Concept-A]], [[Concept-B]]
 ---
 ```
 
@@ -674,7 +674,7 @@ WHERE contains(related-concepts, this.file.link)
 
 ### Integration Pattern 2: PARA Method
 
-For [[PARA-Method]] organization:
+For [[para-method]] organization:
 
 ```yaml
 ---

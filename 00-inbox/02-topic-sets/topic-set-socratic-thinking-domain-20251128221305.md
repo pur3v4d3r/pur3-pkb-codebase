@@ -46,7 +46,7 @@ The user is requesting topic generation within the domain of **Socratic Thinking
    - Cognitive science research on questioning techniques
 
 4. **PKB Integration Potential**: ✅ EXCEPTIONAL
-   - Will connect to: [[Critical-Thinking]], [[Epistemology]], [[Dialectical Reasoning]], [[pedagogy]], [[Philosophy-of-Education]], [[Informal-Logic]], [[Argumentation-Theory]], [[Cognitive-Biases]], [[Intellectual-Humility]], [[Elenchus]], [[Maieutics]], [[Aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation for Critical Thinking]]
+   - Will connect to: [[critical-thinking]], [[epistemology]], [[Dialectical Reasoning]], [[pedagogy]], [[philosophy-of-education]], [[Informal-Logic]], [[argumentation-theory]], [[cognitive-biases]], [[intellectual-humility]], [[elenchus]], [[Maieutics]], [[aporia]], [[Platonic Dialogues]], [[Richard-Paul]], [[Foundation-for-Critical-Thinking]]
    - Multiple cross-domain connections: philosophy, education, psychology, law, leadership
 
 5. **Conceptual Complexity**: ✅ HIGH
@@ -85,7 +85,7 @@ I've identified **5 foundational topics** within the Socratic Thinking domain, e
 The **elenchus** (ἔλεγχος) represents Socrates' signature dialectical weapon—a systematic cross-examination technique designed not merely to win arguments but to expose the internal contradictions within an interlocutor's belief system. This topic traces the method's structure through Plato's early dialogues (particularly *Euthyphro*, *Laches*, *Charmides*), explores the controversial "Socratic Problem" (did the historical Socrates actually practice philosophy this way?), and examines how elenctic reasoning differs fundamentally from eristic debate. The concept of **aporia** (ἀπορία)—that state of productive puzzlement where one realizes "I thought I knew, but I do not"—serves as the psychological and epistemological climax of the method, making this a cornerstone topic for understanding Socratic epistemology.
 
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Aporia]] - The state of productive confusion that reveals ignorance
+- [[aporia]] - The state of productive confusion that reveals ignorance
 - [[Dialectical Reasoning]] - Logical progression through question-and-answer
 - [[Socratic Irony]] - Feigned ignorance as pedagogical strategy
 - [[Eristic vs. Dialectic]] - Competitive vs. cooperative argumentation
@@ -94,7 +94,7 @@ The **elenchus** (ἔλεγχος) represents Socrates' signature dialectical we
 - [[Socratic Intellectualism]] - The belief that knowledge leads to virtue
 - [[Maieutics]] - The "midwifery" metaphor for birthing ideas
 - [[Knowledge vs. True Belief]] - Epistemological distinctions in Plato
-- [[Virtue-Ethics]] - The ethical framework motivating Socratic inquiry
+- [[virtue-ethics]] - The ethical framework motivating Socratic inquiry
 
 **Analogical Potential**:
 The elenchus functions like **intellectual debugging**—systematically testing each "line of code" (belief) in a person's mental program until the runtime error (contradiction) is identified, forcing a recompilation of the entire worldview.
@@ -129,14 +129,14 @@ While the ancient elenchus provides historical foundation, **Socratic Questionin
 
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[Richard-Paul]] - Modern architect of critical thinking pedagogy
-- [[Foundation for Critical Thinking]] - Organization systematizing Socratic methods
-- [[Metacognition]] - Thinking about one's own thinking processes
+- [[Foundation-for-Critical-Thinking]] - Organization systematizing Socratic methods
+- [[metacognition]] - Thinking about one's own thinking processes
 - [[Clarification Questions]] - First-order inquiry into meaning
 - [[Assumption Probing]] - Uncovering hidden premises
 - [[Evidence Evaluation]] - Questioning the grounds for belief
 - [[Perspective-Taking]] - Examining alternative viewpoints
 - [[Implication Analysis]] - Exploring logical consequences
-- [[Intellectual-Humility]] - Recognizing limits of one's knowledge
+- [[intellectual-humility]] - Recognizing limits of one's knowledge
 - [[Bloom's-Taxonomy]] - Cognitive hierarchy that Socratic questions traverse
 - [[Socratic Circles]] - Structured classroom dialogue format
 - [[Power Dynamics in Dialogue]] - Ethical considerations in questioning
@@ -146,7 +146,7 @@ Socratic questioning works like a **multi-tool knife** for the mind—each quest
 
 **Prerequisite Knowledge**:
 - [[Basic Argumentation Structure]] - Understanding claims, premises, conclusions
-- [[Cognitive-Biases]] - Helpful for understanding why questioning is necessary
+- [[cognitive-biases]] - Helpful for understanding why questioning is necessary
 
 **Research Starting Points**:
 - Search: "Richard Paul Socratic questioning taxonomy"
@@ -173,17 +173,17 @@ Socratic questioning works like a **multi-tool knife** for the mind—each quest
 
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[Anamnesis]] - Platonic theory of recollection/remembering innate knowledge
-- [[Constructivist-Learning-Theory]] - Students construct knowledge actively
+- [[constructivist-learning-theory]] - Students construct knowledge actively
 - [[The Meno Paradox]] - How can we seek what we don't know?
 - [[Innate Ideas]] - Rationalist vs. empiricist debates about knowledge origin
 - [[Facilitative Teaching]] - Teacher as guide vs. transmitter
-- [[Cognitive-Dissonance]] - Psychological tension that drives learning
+- [[cognitive-dissonance]] - Psychological tension that drives learning
 - [[Socratic-Ignorance]] - "I know that I know nothing"
 - [[Student-Centered Learning]] - Modern pedagogical descendant
-- [[Zone-of-Proximal-Development]] - Vygotsky's related concept
+- [[zone-of-proximal-development]] - Vygotsky's related concept
 - [[Socratic Questioning in CBT]] - Therapeutic application
 - [[The Slave Boy Demonstration]] - Geometric proof in *Meno*
-- [[Discovery-Learning]] - Bruner's related pedagogical theory
+- [[discovery-learning]] - Bruner's related pedagogical theory
 
 **Analogical Potential**:
 Maieutics is like a **sculptor revealing the form within marble**—the teacher doesn't add material (information) but chips away the excess (confusion, false beliefs) to reveal the form (understanding) that was always potentially there.
@@ -297,7 +297,7 @@ The Socratic Fallacy debate is like arguing whether you need to **read the sourc
 1. **[[Critical Thinking as Disciplined Self-Direction - Richard Paul's Intellectual Standards]]**
    - *Connection*: Richard Paul systematized Socratic questioning into a comprehensive critical thinking framework, establishing intellectual standards (clarity, accuracy, precision, relevance, depth, breadth, logic, fairness) that operationalize Socratic inquiry for modern education.
    - *Depth Potential*: Merits 2000+ word exploration of each intellectual standard, their interrelationships, and practical application across disciplines (science, law, business, personal decision-making).
-   - *Knowledge Graph Role*: Central hub connecting [[Socratic Thinking]], [[Educational-Psychology]], [[Informal-Logic]], and [[Metacognition]]; serves as bridge between ancient philosophy and contemporary pedagogy.
+   - *Knowledge Graph Role*: Central hub connecting [[Socratic Thinking]], [[educational-psychology]], [[Informal-Logic]], and [[metacognition]]; serves as bridge between ancient philosophy and contemporary pedagogy.
 
 2. **[[Dialectical Reasoning in Hegel - The Evolution from Socratic to Absolute Dialectic]]**
    - *Connection*: Hegel transformed Socratic dialectic (thesis challenged by antithesis) into a grand metaphysical system where contradictions drive historical and conceptual development toward synthesis—a radical reinterpretation of Socratic aporia.
@@ -307,7 +307,7 @@ The Socratic Fallacy debate is like arguing whether you need to **read the sourc
 3. **[[Socratic Ignorance vs. Skepticism - The Epistemology of Knowing What You Don't Know]]**
    - *Connection*: Socrates' famous claim "I know that I know nothing" appears to endorse skepticism, but actually establishes a sophisticated epistemological position distinct from ancient Skeptics (Pyrrho, Sextus Empiricus) who suspended judgment entirely.
    - *Depth Potential*: 1800-3000 words analyzing the difference between Socratic awareness of ignorance (which motivates inquiry) vs. Academic/Pyrrhonian skepticism (which may paralyze inquiry), including modern implications for intellectual humility and Dunning-Kruger effect.
-   - *Knowledge Graph Role*: Connects [[Socratic Philosophy]], [[Ancient Skepticism]], [[Epistemology]], [[Intellectual-Virtues]], and [[Cognitive-Biases]]; essential for understanding limits and possibilities of human knowledge.
+   - *Knowledge Graph Role*: Connects [[Socratic Philosophy]], [[Ancient Skepticism]], [[epistemology]], [[intellectual-virtues]], and [[cognitive-biases]]; essential for understanding limits and possibilities of human knowledge.
 
 4. **[[The Socratic Method in Legal Education - Langdell's Case Method and Its Critiques]]**
    - *Connection*: Christopher Columbus Langdell adapted Socratic questioning for Harvard Law School in the 1870s, creating the "case method" where professors interrogate students about legal principles through hypothetical scenarios—a technique both celebrated and criticized for its intellectual rigor and psychological pressure.

@@ -5,6 +5,7 @@
 title: "Stream of Consciousness"
 aliases:
   - "Stream of Consciousness"
+  - "Stream-of-Consciousness"
   - "SOC"
 type: permanent-note
 status: evergreen
@@ -25,8 +26,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-01
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,7 +38,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-01"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -61,26 +62,26 @@ narrower:
   []
 
 see-also:
-  - "[[William-James|William James]]"
+  - "[[william-james|William-James]]"
   - "[[psychology]]"
   - "[[philosophy]]"
-  - "[[Habit-Formation|habit formation]]"
+  - "[[habit-formation|Habit-Formation]]"
   - "[[consciousness]]"
-  - "[[Harvard-University|Harvard University]]"
-  - "[[American-pragmatism|American pragmatism]]"
-  - "[[evolutionary-theory|evolutionary theory]]"
+  - "[[harvard-university|Harvard-University]]"
+  - "[[american-pragmatism|American-pragmatism]]"
+  - "[[evolutionary-theory]]"
   - "[[neurology]]"
   - "[[phenomenology]]"
   - "[[plasticity]]"
   - "[[adaptation]]"
   - "[[neuroscience]]"
-  - "[[John-Dewey|John Dewey]]"
-  - "[[progressive-education|progressive education]]"
-  - "[[Skill-Acquisition|skill acquisition]]"
-  - "[[Automaticity]]"
-  - "[[conscious-attention|conscious attention]]"
-  - "[[Procedural-Memory|procedural memory]]"
-  - "[[Working-Memory|working memory]]"
+  - "[[john-dewey|John-Dewey]]"
+  - "[[progressive-education]]"
+  - "[[Skill-Acquisition|Skill-Acquisition]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[conscious-attention]]"
+  - "[[procedural-memory|Procedural-Memory]]"
+  - "[[working-memory|Working-Memory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -92,16 +93,16 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[This-treatment-of-William-James's-psychology-of-habit-suggests-numerous-directio|This treatment of William James's psychology of habit suggests numerous directions for deeper explor]]"
+  - topic: "[[This treatment of William James's psychology of habit suggests numerous directions for deeper explor]]"
     description: ""
     priority: medium
-  - topic: "[[James's-controversial-theory-that-emotions-arise-from-bodily-responses-rather-th|James's controversial theory that emotions arise from bodily responses rather than causing them—'we ]]"
+  - topic: "[[James's controversial theory that emotions arise from bodily responses rather than causing them—'we ]]"
     description: ""
     priority: medium
-  - topic: "[[James's-Gifford-Lectures-1901-1902-applying-pragmatic-method-to-religious-experi|James's [[Gifford Lectures]] (1901-1902) applying pragmatic method to religious experience, treating]]"
+  - topic: "[[James's [[Gifford Lectures]] (1901-1902) applying pragmatic method to religious experience, treating]]"
     description: ""
     priority: medium
-  - topic: "[[The-informal-discussion-group-meeting-in-Cambridge,-Massachusetts-in-early-1870s|The informal discussion group meeting in Cambridge, Massachusetts in early 1870s, including [[Charle]]"
+  - topic: "[[The informal discussion group meeting in Cambridge, Massachusetts in early 1870s, including [[Charle]]"
     description: ""
     priority: medium
 
@@ -121,7 +122,7 @@ importance: medium
 ## Core Explanation
 
 > [!evidence] Supporting Evidence *(from [[cog-psy-william-james]])*
-> James marshaled evidence from diverse sources supporting his plasticity hypothesis, including comparative anatomy demonstrating [[nervous system]] complexity correlates with behavioral flexibility across species, clinical neurology revealing how [[brain lesions]] selectively impair specific habits while preserving others, [[animal training]] studies showing experience-dependent behavioral modification, and everyday observations of [[Skill-Acquisition]] requiring initial conscious effort that…
+> James marshaled evidence from diverse sources supporting his plasticity hypothesis, including comparative anatomy demonstrating [[nervous system]] complexity correlates with behavioral flexibility across species, clinical neurology revealing how [[brain-lesions]] selectively impair specific habits while preserving others, [[animal-training|animal training]] studies showing experience-dependent behavioral modification, and everyday observations of [[Skill-Acquisition|skill acquisition]]…
 
 > [!evidence] Supporting Evidence *(from [[cog-psy-william-james]])*
 > By 1900, *Principles* and the *Briefer Course* had achieved canonical status in American higher education, assigned in introductory psychology courses at most major universities and frequently cited in educational psychology texts, teacher training programs, and pedagogical discussions. James's concepts entered common intellectual vocabulary, with terms like "stream of consciousness," "habit formation," and "plasticity" becoming standard references across disciplines. This widespread adoption…
@@ -156,73 +157,17 @@ importance: medium
 - [[pragmatic-philosophy|pragmatic philosophy]]
 
 **Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-- [[Situated-Learning-Theory|Situated Learning Theory]]
-- [[Communities-of-Practice|Communities of Practice]]
-- [[Sociocultural-Approaches|Sociocultural Approaches]]
+- [[deweys-reflective-thinking|Dewey's-Reflective-Thinking]]
+- [[metacognitive-awareness]]
+- [[dual-process-theory|Dual-Process-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[situated-learning-theory|Situated-Learning-Theory]]
+- [[communities-of-practice|Communities-of-Practice]]
+- [[Sociocultural-Approaches|Sociocultural-Approaches]]
 
 **Related concepts:**
-[[William-James|William James]] · [[psychology]] · [[philosophy]] · [[Habit-Formation|habit formation]] · [[consciousness]] · [[Harvard-University|Harvard University]] · [[American-pragmatism|American pragmatism]] · [[evolutionary-theory|evolutionary theory]] · [[neurology]] · [[phenomenology]] · [[plasticity]] · [[adaptation]] · [[neuroscience]] · [[John-Dewey|John Dewey]] · [[progressive-education|progressive education]] · [[Skill-Acquisition|skill acquisition]] · [[Automaticity]] · [[conscious-attention|conscious attention]] · [[Procedural-Memory|procedural memory]] · [[Working-Memory|working memory]] · [[Attention]] · [[Cognitive-Control|cognitive control]] · [[synaptic-plasticity|synaptic plasticity]] · [[neurogenesis]] · [[experience-dependent-brain-development|experience-dependent brain development]] · [[Metacognition]] · [[Critical-Thinking|critical thinking]] · [[Attention]] · [[natural-science|natural science]] · [[biological]]
-
-**Related concepts** *(from [[cog-psy-william-james]])*:
-[[William-James|William James]] * [[Habit-Formation|habit formation]] * [[Harvard-University|Harvard University]] * [[American-pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]] * [[Skill-Acquisition|skill acquisition]] * [[conscious-attention|conscious attention]] * [[Procedural-Memory|procedural memory]] * [[Working-Memory|working memory]] * [[Cognitive-Control|cognitive control]] * [[synaptic-plasticity|synaptic plasticity]] * [[experience-dependent-brain-development|experience-dependent brain development]] * [[Critical-Thinking|critical thinking]] * [[natural-science|natural science]] * [[subjective-experience|subjective experience]] * [[Functional-Psychology|functional psychology]] * [[higher-cognitive-functions|higher cognitive functions]] * [[automatic-processes|automatic processes]] * [[British-empiricism|British empiricism]] * [[John-Locke|John Locke]] * [[David-Hume|David Hume]] * [[German-idealism|German idealism]] * [[Hegel|Hegel]] * [[Associationism|Associationism]] * [[Alexander-Bain|Alexander Bain]] * [[James-Mill|James Mill]] * [[Wilhelm-Wundt|Wilhelm Wundt]] * [[experience|experience]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[pragmatic-philosophy|pragmatic philosophy]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[pragmatic-philosophy|pragmatic philosophy]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-**Related concepts** *(from [[cog-psy-william-james]])*:
-[[William-James|William James]] * [[Habit-Formation|habit formation]] * [[Harvard-University|Harvard University]] * [[American-pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]] * [[Skill-Acquisition|skill acquisition]] * [[conscious-attention|conscious attention]] * [[Procedural-Memory|procedural memory]] * [[Working-Memory|working memory]] * [[Cognitive-Control|cognitive control]] * [[synaptic-plasticity|synaptic plasticity]] * [[experience-dependent-brain-development|experience-dependent brain development]] * [[Critical-Thinking|critical thinking]] * [[natural-science|natural science]] * [[subjective-experience|subjective experience]] * [[Functional-Psychology|functional psychology]] * [[higher-cognitive-functions|higher cognitive functions]] * [[automatic-processes|automatic processes]] * [[British-empiricism|British empiricism]] * [[John-Locke|John Locke]] * [[David-Hume|David Hume]] * [[German-idealism|German idealism]] * [[Alexander-Bain|Alexander Bain]] * [[James-Mill|James Mill]] * [[Wilhelm-Wundt|Wilhelm Wundt]] * [[practice|practice]] * [[Henry-James|Henry James]] * [[physiological-psychology|physiological psychology]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[pragmatic-philosophy|pragmatic philosophy]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[pragmatic-philosophy|pragmatic philosophy]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
-- [[metacognitive-awareness|Metacognitive Awareness]]
-- [[Dual-Process-Theory|Dual Process Theory]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Transfer-of-Learning|Transfer of Learning]]
-
-
-
-
-
-
-
-
-
-
+[[william-james|William-James]] · [[psychology]] · [[philosophy]] · [[habit-formation|Habit-Formation]] · [[consciousness]] · [[harvard-university|Harvard-University]] · [[american-pragmatism|American-pragmatism]] · [[evolutionary-theory]] · [[neurology]] · [[phenomenology]] · [[plasticity]] · [[adaptation]] · [[neuroscience]] · [[john-dewey|John-Dewey]] · [[progressive-education]] · [[Skill-Acquisition|Skill-Acquisition]] · [[automaticity|Automaticity]] · [[conscious-attention]] · [[procedural-memory|Procedural-Memory]] · [[working-memory|Working-Memory]] · [[attention|Attention]] · [[Cognitive-Control|Cognitive-Control]] · [[synaptic-plasticity|synaptic plasticity]] · [[neurogenesis]] · [[experience-dependent-brain-development|experience-dependent brain development]] · [[metacognition|Metacognition]] · [[critical-thinking|Critical-Thinking]] · [[attention|Attention]] · [[natural-science|natural science]] · [[biological]]
 
 ## References
 

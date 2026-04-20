@@ -5,6 +5,7 @@
 title: "Regulatory Self-Talk"
 aliases:
   - "Regulatory Self-Talk"
+  - "Regulatory-Self-Talk"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -38,8 +39,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -50,7 +51,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -74,26 +75,26 @@ narrower:
   []
 
 see-also:
-  - "[[Attribution-Theory]]"
-  - "[[Bernard-Weiner]]"
-  - "[[Self-Efficacy-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Lev-Vygotsky]]"
-  - "[[Working-Memory-in-Reading]]"
-  - "[[Self-Explanation-Effect]]"
-  - "[[Bernard-Weiner]]"
-  - "[[Attribution-Theory]]"
-  - "[[Albert-Bandura]]"
-  - "[[Self-Efficacy-Theory]]"
-  - "[[Self-Efficacy]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Internalization-Continuum]]"
-  - "[[Introjected-Regulation]]"
-  - "[[Identified-Regulation]]"
-  - "[[Integrated-Regulation]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Forethought-Phase]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[bernard-weiner|Bernard-Weiner]]"
+  - "[[self-efficacy-theory|Self-Efficacy-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[lev-vygotsky|Lev-Vygotsky]]"
+  - "[[working-memory-in-reading|Working-Memory-in-Reading]]"
+  - "[[self-explanation-effect|Self-Explanation-Effect]]"
+  - "[[bernard-weiner|Bernard-Weiner]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[albert-bandura|Albert-Bandura]]"
+  - "[[self-efficacy-theory|Self-Efficacy-Theory]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[internalization-continuum|Internalization-Continuum]]"
+  - "[[introjected-regulation|Introjected-Regulation]]"
+  - "[[identified-regulation|Identified-Regulation]]"
+  - "[[integrated-regulation|Integrated-Regulation]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[forethought-phase|Forethought-Phase]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -105,7 +106,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Explanatory-Style-Seligman's-construct-of-Explanatory-Style-—-the-in|> [!topic-idea] [[Explanatory-Style]]
+  - topic: "[[> [!topic-idea] [[Explanatory-Style]]
 > Seligman's construct of Explanatory Style — the individual's]]"
     description: ""
     priority: medium
@@ -135,7 +136,7 @@ importance: high
 > Research on source credibility in persuasion establishes that perceived expertise and objectivity are the primary determinants of persuasive impact. Inner speech carries a credibility premium in the domain of self-assessment because we experience it as unmediated access to our own cognitive state, not as an attempt to influence us. This means that negative inner speech — "I'm struggling because I'm not intelligent enough for this material" — may have *higher* persuasive impact on self-efficacy…
 
 > [!evidence] Supporting Evidence *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
-> The evidence from AGT research, taken together with the metacognitive monitoring literature, suggests a specific mechanism: mastery-oriented goal vocabulary in the [[Forethought-Phase]] sensitizes the monitoring system to *understanding cues* (noticing when you do not understand something, noticing when an inference does not follow), while performance-oriented goal vocabulary sensitizes the monitoring system to *completion cues* (noticing when you have finished the page, noticed that it took a…
+> The evidence from AGT research, taken together with the metacognitive monitoring literature, suggests a specific mechanism: mastery-oriented goal vocabulary in the [[forethought-phase]] sensitizes the monitoring system to *understanding cues* (noticing when you do not understand something, noticing when an inference does not follow), while performance-oriented goal vocabulary sensitizes the monitoring system to *completion cues* (noticing when you have finished the page, noticed that it took a…
 
 > [!evidence] Supporting Evidence *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
 > The cross-phase cascade analysis suggests that the self-reflection phase — where attributional vocabulary determines the causal explanation that seeds the next forethought cycle — is the highest-leverage point for vocabulary intervention. This is because reflection vocabulary affects both the retrospective interpretation (efficacy updating for the current session) and the prospective seed (goal vocabulary available for the next session). An intervention targeting reflection-phase attributional…
@@ -168,7 +169,7 @@ importance: high
 > The comprehensive review of goal-setting theory, including the specificity and challenge principles that underlie the Goal Construction Vocabulary Template (Tool 4). The review of 35 years of goal-setting research is the empirical foundation for goal vocabulary recommendations.
 
 > [!evidence] Supporting Evidence *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
-> The reformulated learned helplessness model that maps Weiner's attribution dimensions onto the helplessness-resilience continuum. Provides the empirical evidence that stable-internal-uncontrollable attributional vocabulary produces [[Learned-Helplessness]] outcomes — the most destructive end-state of the Attributional Vocabulary Loop.
+> The reformulated learned helplessness model that maps Weiner's attribution dimensions onto the helplessness-resilience continuum. Provides the empirical evidence that stable-internal-uncontrollable attributional vocabulary produces [[learned-helplessness]] outcomes — the most destructive end-state of the Attributional Vocabulary Loop.
 
 > [!evidence] Supporting Evidence *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
 > The foundational paper on implementation intentions (if-then planning). The evidence that specific regulatory language ("When I am in X, I will do Y") dramatically outperforms vague motivational language ("I will try") provides the FAR Transfer evidence for the application bridge to habit formation.
@@ -180,7 +181,7 @@ importance: high
 > The specific lexical choices within motivational inner speech — not just the general emotional valence — are functionally significant. "I can't do this" and "I don't have the right strategy yet" may produce similar surface affect but generate categorically different attributional inferences, self-efficacy predictions, and goal constructions. Vocabulary is not packaging for pre-formed meaning; it is partially constitutive of the motivational state itself.
 
 > [!analytical-insight] Key Insight *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
-> A genuine tension exists in the SDT evidence base here. SDT's internalization research suggests that the movement from controlled to autonomous regulation cannot be faked — it requires actual value alignment, not vocabulary substitution. Yet the regulatory language intervention research suggests that vocabulary shifts precede and partly cause the underlying motivational state change. The resolution may lie in [[Internalization]] theory itself: the mechanism of internalization involves initially…
+> A genuine tension exists in the SDT evidence base here. SDT's internalization research suggests that the movement from controlled to autonomous regulation cannot be faked — it requires actual value alignment, not vocabulary substitution. Yet the regulatory language intervention research suggests that vocabulary shifts precede and partly cause the underlying motivational state change. The resolution may lie in [[internalization]] theory itself: the mechanism of internalization involves initially…
 
 > [!analytical-insight] Key Insight *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
 > The most consequential property of the Attributional Vocabulary Loop is not that it produces bad outcomes in a single cycle — it is that it becomes increasingly self-sealing over repeated cycles. Each turn of the loop narrows the vocabulary available to the reader by providing "evidence" for the attributed cause: the reader who uses ability vocabulary and subsequently reads less effectively experiences this as confirmation that they indeed lack ability. Over time, the vocabulary repertoire for…
@@ -192,7 +193,7 @@ importance: high
 > Vocabulary deficits at the superordinate level of goal construction cascade downward through the hierarchy. A reader who can only articulate superordinate goals in controlled regulatory vocabulary ("I should understand this") lacks the motivational architecture to construct specific and challenging intermediate goals, because the energy driving goal construction is controlled rather than autonomous. Autonomous regulatory vocabulary at the superordinate level — "I'm genuinely trying to…
 
 > [!analytical-insight] Key Insight *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
-> There is a specific and underappreciated way that the reports in this knowledge base function as Motivational Lexicon development tools. When you read a report on [[Attribution-Theory]] that gives you precise vocabulary for the three dimensions — locus, stability, controllability — and the vocabulary to distinguish "effort" attributions from "strategy" attributions from "ability" attributions, you are not only acquiring declarative knowledge of attribution theory. You are acquiring new…
+> There is a specific and underappreciated way that the reports in this knowledge base function as Motivational Lexicon development tools. When you read a report on [[attribution-theory]] that gives you precise vocabulary for the three dimensions — locus, stability, controllability — and the vocabulary to distinguish "effort" attributions from "strategy" attributions from "ability" attributions, you are not only acquiring declarative knowledge of attribution theory. You are acquiring new…
 
 ## Practical Implications
 
@@ -252,7 +253,7 @@ importance: high
 ## Conceptual Tensions
 
 > [!tension] **The Authenticity Problem in Regulatory Vocabulary** *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
-> A genuine tension exists in the SDT evidence base here. SDT's internalization research suggests that the movement from controlled to autonomous regulation cannot be faked — it requires actual value alignment, not vocabulary substitution. Yet the regulatory language intervention research suggests that vocabulary shifts precede and partly cause the underlying motivational state change. The resolution may lie in [[Internalization]] theory itself: the mechanism of internalization involves initially adopting the language of a regulatory style before that style becomes genuinely one's own — exactly…
+> A genuine tension exists in the SDT evidence base here. SDT's internalization research suggests that the movement from controlled to autonomous regulation cannot be faked — it requires actual value alignment, not vocabulary substitution. Yet the regulatory language intervention research suggests that vocabulary shifts precede and partly cause the underlying motivational state change. The resolution may lie in [[internalization]] theory itself: the mechanism of internalization involves initially adopting the language of a regulatory style before that style becomes genuinely one's own — exactly…
 
 > [!tension] **Vocabulary Authenticity vs. Vocabulary Practice: Can You Bootstrap Autonomous Motivation?** *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*
 > **Position A (SDT orthodoxy):** Authentic autonomous motivation cannot be manufactured through vocabulary substitution. The move from introjected to identified regulation requires genuine value alignment — not performative language change. Changing vocabulary without changing underlying values produces self-deception, not internalization.
@@ -461,29 +462,29 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*:
-- [[Attribution-Retraining-Interventions]]
+- [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]]
 
 **Cross-report connections** *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*:
-- [[Implementation-Intention]]
-- [[Habit-Formation]]
+- [[implementation-intention|Implementation-Intention]]
+- [[habit-formation|Habit-Formation]]
 
 **Cross-report connections** *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*:
-- [[Emotional-Intelligence]]
+- [[emotional-intelligence|Emotional-Intelligence]]
 
 **Cross-report connections** *(from [[inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25]])*:
-- [[Attribution-Theory]]
-- [[Self-Efficacy]]
-- [[Self-Efficacy-Theory]]
-- [[Zimmerman's-Cyclical-SRL-Model]]
-- [[Forethought-Phase]]
-- [[Self-Reflection-Phase]]
-- [[Self-Determination-Theory]]
-- [[Internalization-Continuum]]
-- [[Achievement-Goal-Theory]]
-- [[Goal-Orientation]]
+- [[attribution-theory|Attribution-Theory]]
+- [[self-efficacy|Self-Efficacy]]
+- [[self-efficacy-theory|Self-Efficacy-Theory]]
+- [[zimmermans-cyclical-srl-model|Zimmerman's-Cyclical-SRL-Model]]
+- [[forethought-phase|Forethought-Phase]]
+- [[self-reflection-phase|Self-Reflection-Phase]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[internalization-continuum|Internalization-Continuum]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[goal-orientation|Goal-Orientation]]
 
 **Related concepts:**
-[[Attribution-Theory]] · [[Bernard-Weiner]] · [[Self-Efficacy-Theory]] · [[Self-Determination-Theory]] · [[Achievement-Goal-Theory]] · [[Lev-Vygotsky]] · [[Working-Memory-in-Reading]] · [[Self-Explanation-Effect]] · [[Bernard-Weiner]] · [[Attribution-Theory]] · [[Albert-Bandura]] · [[Self-Efficacy-Theory]] · [[Self-Efficacy]] · [[Self-Determination-Theory]] · [[Internalization-Continuum]] · [[Introjected-Regulation]] · [[Identified-Regulation]] · [[Integrated-Regulation]] · [[Achievement-Goal-Theory]] · [[Forethought-Phase]] · [[Self-Reflection-Phase]] · [[Attribution-Retraining]] · [[Attribution-Retraining-Interventions]] · [[Attribution-Retraining]] · [[Self-Efficacy]] · [[Internalization]] · [[Achievement-Goal-Theory]] · [[Forethought-Phase]] · [[Metacognitive-Monitoring]] · [[Attribution-Theory]]
+[[attribution-theory|Attribution-Theory]] · [[bernard-weiner|Bernard-Weiner]] · [[self-efficacy-theory|Self-Efficacy-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[lev-vygotsky|Lev-Vygotsky]] · [[working-memory-in-reading|Working-Memory-in-Reading]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[bernard-weiner|Bernard-Weiner]] · [[attribution-theory|Attribution-Theory]] · [[albert-bandura|Albert-Bandura]] · [[self-efficacy-theory|Self-Efficacy-Theory]] · [[self-efficacy|Self-Efficacy]] · [[self-determination-theory|Self-Determination-Theory]] · [[internalization-continuum|Internalization-Continuum]] · [[introjected-regulation|Introjected-Regulation]] · [[identified-regulation|Identified-Regulation]] · [[integrated-regulation|Integrated-Regulation]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[forethought-phase|Forethought-Phase]] · [[self-reflection-phase|Self-Reflection-Phase]] · [[attribution-retraining|Attribution-Retraining]] · [[Attribution-Retraining-Interventions|Attribution-Retraining-Interventions]] · [[attribution-retraining|Attribution-Retraining]] · [[self-efficacy|Self-Efficacy]] · [[internalization|Internalization]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[forethought-phase|Forethought-Phase]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[attribution-theory|Attribution-Theory]]
 
 ## References
 
@@ -496,7 +497,7 @@ importance: high
 - **Vansteenkiste, M., Simons, J., Lens, W., Soenens, B., & Matos, L. (2005). Examining the Motivational Impact of Intrinsic Versus Extrinsic Goal Framing and Autonomy-Supportive Versus Internally Controlling Communication Style on Early Adolescents' Academic Achievement. *Child Development*, 76(2), 483–501.**: The key study establishing that regulatory language framing (autonomous vs. controlled) of identical tasks produces different engagement depth and transfer quality. The extension to inner speech regulatory vocabulary in this report builds on this evidence.
 - **Vygotsky, L. S. (1986). *Thought and Language* (A. Kozulin, Trans.). MIT Press. (Original work published 1934)**: The foundational theoretical account of inner speech as internalized social speech. Provides the developmental and functional framework for understanding why inner speech vocabulary carries motivational force — the vocabulary was originally social before becoming private.
 - **Locke, E. A., & Latham, G. P. (2002). Building a Practically Useful Theory of Goal Setting and Task Motivation. *American Psychologist*, 57(9), 705–717.**: The comprehensive review of goal-setting theory, including the specificity and challenge principles that underlie the Goal Construction Vocabulary Template (Tool 4). The review of 35 years of goal-setting research is the empirical foundation for goal vocabulary recommendations.
-- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned Helplessness in Humans: Critique and Reformulation. *Journal of Abnormal Psychology*, 87(1), 49–74.**: The reformulated learned helplessness model that maps Weiner's attribution dimensions onto the helplessness-resilience continuum. Provides the empirical evidence that stable-internal-uncontrollable attributional vocabulary produces [[Learned-Helplessness]] outcomes — the most destructive end-state of the Attributional Vocabulary Loop.
+- **Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned Helplessness in Humans: Critique and Reformulation. *Journal of Abnormal Psychology*, 87(1), 49–74.**: The reformulated learned helplessness model that maps Weiner's attribution dimensions onto the helplessness-resilience continuum. Provides the empirical evidence that stable-internal-uncontrollable attributional vocabulary produces [[learned-helplessness]] outcomes — the most destructive end-state of the Attributional Vocabulary Loop.
 - **Gollwitzer, P. M. (1999). Implementation Intentions: Strong Effects of Simple Plans. *American Psychologist*, 54(7), 493–503.**: The foundational paper on implementation intentions (if-then planning). The evidence that specific regulatory language ("When I am in X, I will do Y") dramatically outperforms vague motivational language ("I will try") provides the FAR Transfer evidence for the application bridge to habit formation.
 - **Mayer, J. D., & Salovey, P. (1997). What is Emotional Intelligence? In P. Salovey & D. Sluyter (Eds.), *Emotional Development and Emotional Intelligence*. Basic Books.**: The foundational emotional intelligence framework. The connection between emotional vocabulary richness and emotion regulation precision provides the structural analogue for the Motivational Lexicon's claim that vocabulary is a regulatory resource.
 

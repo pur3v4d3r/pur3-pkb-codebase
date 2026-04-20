@@ -38,4 +38,4 @@ link-related:
 - What could be tested, challenged, or expanded?  
 
 ## References
-- [[Source Note]] or citation details
+- [[source-note]] or citation details

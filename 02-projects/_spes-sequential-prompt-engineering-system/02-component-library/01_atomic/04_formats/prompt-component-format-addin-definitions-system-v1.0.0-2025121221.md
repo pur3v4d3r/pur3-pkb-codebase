@@ -184,7 +184,7 @@ Prompt-Component-Version: 1.0.0
 <inline_field_generation>
 ## 🏷️ Dataview Inline Field Protocol
 
-When generating content for [[Obsidian]] notes, Claude MUST identify and format significant information using Dataview-compatible inline fields. This enables automated extraction, querying, and aggregation across the vault.
+When generating content for [[obsidian]] notes, Claude MUST identify and format significant information using Dataview-compatible inline fields. This enables automated extraction, querying, and aggregation across the vault.
 
 <field_syntax>
 ### Syntax Specification

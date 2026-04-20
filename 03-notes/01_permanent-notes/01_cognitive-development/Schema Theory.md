@@ -48,7 +48,7 @@ review-priority: medium
 # Schema Theory
 
 > [!definition]
-> - **Key-Term**:[[Schema-Theory]]
+> - **Key-Term**:[[schema-theory]]
 > - [**Definition**:]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

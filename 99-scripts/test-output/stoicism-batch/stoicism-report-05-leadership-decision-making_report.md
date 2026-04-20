@@ -428,7 +428,7 @@ extraction_summary:
 - [[Authentic Leadership]]
 - [[Cognitive Bias and the Discipline of Assent]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Daniel-Kahneman]]
+- [[daniel-kahneman]]
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Four-Cardinal-Virtues]]
@@ -476,7 +476,7 @@ extraction_summary:
 | 20 | [[Seneca]] | — | — | Principle 3: The Reserve Clause — Act... | 330 |
 | 21 | [[Kathêkon]] | — | — | Principle 4: Role Ethics and the Obli... | 336 |
 | 22 | [[Epictetus]] | — | — | Principle 5: Emotional Governance as ... | 349 |
-| 23 | [[Daniel-Kahneman]] | — | — | Part 4: The Psychology Behind the Phi... | 361 |
+| 23 | [[daniel-kahneman]] | — | — | Part 4: The Psychology Behind the Phi... | 361 |
 | 24 | [[Dichotomy-of-Control]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
 | 25 | [[Reserve-Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
 | 26 | [[Authentic Leadership]] | — | — | Part 4: The Psychology Behind the Phi... | 372 |
@@ -542,7 +542,7 @@ extraction_summary:
 - [[Authentic Leadership]]
 - [[Cognitive Bias and the Discipline of Assent]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Daniel-Kahneman]]
+- [[daniel-kahneman]]
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Four-Cardinal-Virtues]]
@@ -581,21 +581,21 @@ extraction_summary:
 - [[Epictetus]]
 - [[Seneca]]
 - [[Dichotomy-of-Control]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Prohairesis]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Kathêkon]]
 - [[Reserve-Clause]]
 - [[Logos]]
 - [[James Stockdale]]
-- [[Emotional-Regulation]]
-- [[Cognitive-Reappraisal]]
-- [[Decision-Theory]]
+- [[emotional-regulation]]
+- [[cognitive-reappraisal]]
+- [[decision-theory]]
 
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 - [[Ancient Philosophy]]
 - [[Leadership Philosophy]]
 

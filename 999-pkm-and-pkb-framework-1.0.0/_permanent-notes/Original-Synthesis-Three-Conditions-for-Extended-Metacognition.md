@@ -29,8 +29,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +41,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,26 +65,26 @@ narrower:
   []
 
 see-also:
-  - "[[Metacognition]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Flavell's-Metacognitive-Framework]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Active-Note-Making]]"
-  - "[[Retrieval-Practice]]"
-  - "[[Dunning-Kruger-Effect]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[flavells-metacognitive-framework|Flavell's-Metacognitive-Framework]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[active-note-making|Active-Note-Making]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
+  - "[[dunning-kruger-effect|Dunning-Kruger-Effect]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
   - "[[self-explanation]]"
-  - "[[Extended-Mind-Theory]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
   - "[[cognitive-psychology]]"
-  - "[[Educational-Psychology]]"
-  - "[[John-Flavell]]"
-  - "[[Metacognition]]"
-  - "[[Flavell]]"
-  - "[[Personal-Knowledge-Management]]"
+  - "[[educational-psychology|Educational-Psychology]]"
+  - "[[john-flavell|John-Flavell]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[flavell|Flavell]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -96,16 +96,16 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[Connection-Section-6's-far-transfer-to-clinical-metacognition-suggests-that-PKM|- *Connection:* Section 6's far transfer to clinical metacognition suggests that PKM design principl]]"
+  - topic: "[[- *Connection:* Section 6's far transfer to clinical metacognition suggests that PKM design principl]]"
     description: ""
     priority: medium
-  - topic: "[[Connection-Section-4-identified-the-Fluency-Illusion-as-the-primary-calibration|- *Connection:* Section 4 identified the [[Fluency-Illusion]] as the primary calibration threat in P]]"
+  - topic: "[[- *Connection:* Section 4 identified the [[fluency-illusion]] as the primary calibration threat in P]]"
     description: ""
     priority: medium
-  - topic: "[[Connection-This-report-focused-exclusively-on-individual-PKM.-But-many-knowledge|- *Connection:* This report focused exclusively on individual PKM. But many knowledge systems are sh]]"
+  - topic: "[[- *Connection:* This report focused exclusively on individual PKM. But many knowledge systems are sh]]"
     description: ""
     priority: medium
-  - topic: "[[Connection-The-temporal-recalibration-mechanism-Section-4-was-this-report's-most|- *Connection:* The temporal recalibration mechanism (Section 4) was this report's most action-relev]]"
+  - topic: "[[- *Connection:* The temporal recalibration mechanism (Section 4) was this report's most action-relev]]"
     description: ""
     priority: medium
 
@@ -137,22 +137,22 @@ importance: high
 > The Nelson-Narens monitoring-control model provides the most productive theoretical framework for understanding how PKM practices externalise metacognitive processes. The meta-level's internal model of the object-level is functionally analogous to a PKM system's representation of the user's knowledge state, and the monitoring-control information flow maps directly onto PKM operations of review (monitoring) and reorganisation (control).
 
 > [!analytical-insight] Key Insight *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> PKM systems function as [[Metacognitive-Scaffolding|metacognitive scaffolds]] that offload monitoring demands from [[Working-Memory]], freeing cognitive resources for deeper processing. The scaffolding is not passive (mere storage) but active: the structural features of PKM systems — note-making templates, wiki-link creation, periodic review prompts — create cognitive forcing functions that trigger metacognitive monitoring and regulation that would not otherwise occur.
+> PKM systems function as [[metacognitive-scaffolding|metacognitive scaffolds]] that offload monitoring demands from [[working-memory]], freeing cognitive resources for deeper processing. The scaffolding is not passive (mere storage) but active: the structural features of PKM systems — note-making templates, wiki-link creation, periodic review prompts — create cognitive forcing functions that trigger metacognitive monitoring and regulation that would not otherwise occur.
 
 > [!analytical-insight] Key Insight *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> The [[self-explanation]] effect and [[Generation-Effect]] — two well-established cognitive phenomena — are the primary mechanisms through which active PKM practices (note-making, wiki-linking, concept mapping) produce metacognitive gains. When a PKM practitioner writes a note in their own words, they are self-explaining. When they create wiki-links between concepts, they are generating relational propositions that reveal (or expose the absence of) understanding.
+> The [[self-explanation]] effect and [[generation-effect]] — two well-established cognitive phenomena — are the primary mechanisms through which active PKM practices (note-making, wiki-linking, concept mapping) produce metacognitive gains. When a PKM practitioner writes a note in their own words, they are self-explaining. When they create wiki-links between concepts, they are generating relational propositions that reveal (or expose the absence of) understanding.
 
 > [!analytical-insight] Key Insight *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> [[Metacognitive-Calibration]] — the accuracy of one's self-assessment — is systematically improved by PKM practices that force externalisation and retrieval. Specifically, note-making that requires articulation (exposing comprehension gaps), wiki-linking that requires relational judgement (exposing integration gaps), and spaced retrieval review (exposing retention gaps) collectively address the three primary dimensions of miscalibration.
+> [[metacognitive-calibration]] — the accuracy of one's self-assessment — is systematically improved by PKM practices that force externalisation and retrieval. Specifically, note-making that requires articulation (exposing comprehension gaps), wiki-linking that requires relational judgement (exposing integration gaps), and spaced retrieval review (exposing retention gaps) collectively address the three primary dimensions of miscalibration.
 
 > [!analytical-insight] Key Insight *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> The [[Dunning-Kruger-Effect]] and [[Fluency-Illusion]] represent metacognitive monitoring failures that well-designed PKM systems are structurally positioned to mitigate — not through willpower or awareness alone, but through architectural features that force calibration-promoting activities.
+> The [[dunning-kruger-effect]] and [[fluency-illusion]] represent metacognitive monitoring failures that well-designed PKM systems are structurally positioned to mitigate — not through willpower or awareness alone, but through architectural features that force calibration-promoting activities.
 
 > [!analytical-insight] Key Insight *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> [[Self-Regulated-Learning]] provides the integrative framework that connects metacognitive monitoring, metacognitive regulation, and PKM practice into a coherent system. SRL is not merely a related construct — it is the *process* through which metacognitive capacities are deployed in real knowledge work. A PKM system that does not support SRL cycles (planning → monitoring → evaluation → adjustment) is metacognitively inert regardless of its structural features.
+> [[self-regulated-learning]] provides the integrative framework that connects metacognitive monitoring, metacognitive regulation, and PKM practice into a coherent system. SRL is not merely a related construct — it is the *process* through which metacognitive capacities are deployed in real knowledge work. A PKM system that does not support SRL cycles (planning → monitoring → evaluation → adjustment) is metacognitively inert regardless of its structural features.
 
 > [!analytical-insight] Key Insight *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> Under the conditions specified by the [[Extended-Mind-Thesis]] (Clark & Chalmers, 1998), a well-maintained PKM system functions not merely as a tool that *supports* metacognition but as a genuine *extension* of the metacognitive system — an external component that performs monitoring and regulation functions that are functionally equivalent to (and integrated with) internal metacognitive processes.
+> Under the conditions specified by the [[extended-mind-thesis]] (Clark & Chalmers, 1998), a well-maintained PKM system functions not merely as a tool that *supports* metacognition but as a genuine *extension* of the metacognitive system — an external component that performs monitoring and regulation functions that are functionally equivalent to (and integrated with) internal metacognitive processes.
 
 ## Practical Implications
 
@@ -200,7 +200,7 @@ importance: high
 > **Structural principle:** The Nelson-Narens meta-level/object-level architecture maps onto organisational knowledge management with striking precision. An organisation's monitoring operations (audits, retrospectives, performance reviews) correspond to metacognitive monitoring; its control operations (policy changes, resource reallocation, strategic pivots) correspond to metacognitive regulation. The [[Monitoring-Regulation-Gap]] identified in this report has an organisational analogue: companies often monitor performance effectively but struggle to translate insights into regulatory action —…
 
 > [!far-transfer] **Far Transfer 2: AI System Design and Metacognitive Architecture** *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> **Structural principle:** Large language models and AI systems face metacognitive challenges structurally analogous to those analysed in this report. [[Calibration]] is a recognised problem in ML: model confidence scores often fail to correspond to prediction accuracy. The Dunning-Kruger analogue — systems that are most wrong when most confident — is a known failure mode.
+> **Structural principle:** Large language models and AI systems face metacognitive challenges structurally analogous to those analysed in this report. [[calibration]] is a recognised problem in ML: model confidence scores often fail to correspond to prediction accuracy. The Dunning-Kruger analogue — systems that are most wrong when most confident — is a known failure mode.
 > 
 > **Specific application:** The monitoring-regulation architecture suggests that AI systems would benefit from explicit metacognitive layers: modules whose function is not to generate outputs but to assess the reliability of…
 
@@ -216,7 +216,7 @@ importance: high
 ## Concrete Examples
 
 > [!example] **Example: Wiki-Linking as Forced Relational Metacognition** *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> Consider the apparently simple PKM operation of creating a wiki-link between two concepts — say, linking [[Metacognitive-Monitoring]] to [[Comprehension-Monitoring]] in a note about metacognition. This operation requires at minimum: (1) recognising that a relationship exists between the two concepts, (2) assessing the nature of that relationship (is comprehension monitoring a *type of* metacognitive monitoring, a *component of* it, or an *application of* it?), and (3) deciding that the relationship is significant enough to warrant structural encoding. Each of these sub-operations is a…
+> Consider the apparently simple PKM operation of creating a wiki-link between two concepts — say, linking [[metacognitive-monitoring]] to [[comprehension-monitoring]] in a note about metacognition. This operation requires at minimum: (1) recognising that a relationship exists between the two concepts, (2) assessing the nature of that relationship (is comprehension monitoring a *type of* metacognitive monitoring, a *component of* it, or an *application of* it?), and (3) deciding that the relationship is significant enough to warrant structural encoding. Each of these sub-operations is a…
 
 ## AI Insights
 
@@ -243,10 +243,10 @@ importance: high
 > The Nelson-Narens monitoring-control architecture maps onto PKM operations with genuine structural precision: PKM review = monitoring, PKM reorganisation = control, PKM note system = externalised meta-level model. This mapping is assessed at 3/5 confidence because while the structural parallels are genuine, the claim that Nelson-Narens is the *most productive* framework is evaluative. A key boundary condition was identified: unlike internal meta-level models, PKM representations can become outdated, requiring active maintenance cycles. The monitoring-control coupling principle implies that…
 
 > [!section-summary] **Section 3 Summary** *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> This section identified the [[self-explanation]] effect and [[Generation-Effect]] as the primary cognitive mechanisms through which active PKM practices produce metacognitive benefits. Note-making in one's own words forces real-time comprehension monitoring (self-explanation), while generated representations improve delayed retrieval monitoring accuracy (generation effect). Wiki-linking was analysed as a metacognitive forcing function that requires relational evaluation. An original dual-mechanism model was proposed at 3/5 confidence, integrating immediate and delayed metacognitive…
+> This section identified the [[self-explanation]] effect and [[generation-effect]] as the primary cognitive mechanisms through which active PKM practices produce metacognitive benefits. Note-making in one's own words forces real-time comprehension monitoring (self-explanation), while generated representations improve delayed retrieval monitoring accuracy (generation effect). Wiki-linking was analysed as a metacognitive forcing function that requires relational evaluation. An original dual-mechanism model was proposed at 3/5 confidence, integrating immediate and delayed metacognitive…
 
 > [!section-summary] **Section 4 Summary** *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
-> Metacognitive calibration — the accuracy of self-assessment — is the most practically important metacognitive skill for PKM. The [[Fluency-Illusion]] and [[Dunning-Kruger-Effect]] represent systematic monitoring failures that produce inflated confidence in understanding. PKM practices that force externalisation, require articulation, and structure retrieval-based review are argued to structurally mitigate these failures (3/5 confidence). A novel *temporal recalibration* mechanism was proposed: the gap between note creation and note review allows a more competent future self to calibrate…
+> Metacognitive calibration — the accuracy of self-assessment — is the most practically important metacognitive skill for PKM. The [[fluency-illusion]] and [[dunning-kruger-effect]] represent systematic monitoring failures that produce inflated confidence in understanding. PKM practices that force externalisation, require articulation, and structure retrieval-based review are argued to structurally mitigate these failures (3/5 confidence). A novel *temporal recalibration* mechanism was proposed: the gap between note creation and note review allows a more competent future self to calibrate…
 
 > [!section-summary] **Section 5 Summary** *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*
 > Self-regulated learning provides the integrative framework connecting metacognitive monitoring, control, and PKM operations (4/5 confidence). Zimmerman's three-phase model maps onto PKM operations: forethought → performance → self-reflection corresponds to planning → note-making → review. Incomplete SRL cycles — particularly missing self-reflection — may explain common PKM failure modes. The COPES model reveals that PKM creates a recursive, self-modifying regulatory environment where products of one cycle become conditions for the next (2/5 confidence — speculative). This "evolutionary SRL"…
@@ -303,7 +303,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Metacognition]] · [[Personal-Knowledge-Management]] · [[Flavell's-Metacognitive-Framework]] · [[Nelson-Narens-Model]] · [[Self-Regulated-Learning]] · [[Extended-Mind-Theory]] · [[Active-Note-Making]] · [[Retrieval-Practice]] · [[Dunning-Kruger-Effect]] · [[Fluency-Illusion]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[self-explanation]] · [[Extended-Mind-Theory]] · [[cognitive-psychology]] · [[Educational-Psychology]] · [[John-Flavell]] · [[Metacognition]] · [[Flavell]] · [[Personal-Knowledge-Management]] · [[John-H.-Flavell]] · [[Flavell's-Metacognitive-Framework]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Experience]] · [[Feeling-of-Knowing]] · [[Flavell]] · [[Ann-L.-Brown]] · [[Gregory-Schraw]] · [[Efklides]] · [[John-Borkowski]]
+[[metacognition|Metacognition]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[flavells-metacognitive-framework|Flavell's-Metacognitive-Framework]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[active-note-making|Active-Note-Making]] · [[retrieval-practice|Retrieval-Practice]] · [[dunning-kruger-effect|Dunning-Kruger-Effect]] · [[fluency-illusion|Fluency-Illusion]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[self-explanation]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[cognitive-psychology]] · [[educational-psychology|Educational-Psychology]] · [[john-flavell|John-Flavell]] · [[metacognition|Metacognition]] · [[flavell|Flavell]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[john-h.-flavell|John-H.-Flavell]] · [[flavells-metacognitive-framework|Flavell's-Metacognitive-Framework]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-experience|Metacognitive-Experience]] · [[feeling-of-knowing|Feeling-of-Knowing]] · [[flavell|Flavell]] · [[ann-l.-brown|Ann-L.-Brown]] · [[gregory-schraw|Gregory-Schraw]] · [[efklides|Efklides]] · [[john-borkowski|John-Borkowski]]
 
 ## Methodology Notes
 
@@ -311,7 +311,7 @@ importance: high
 > This report annotates its own reasoning. After significant claims, you will find `[!annotation]` callouts explaining the epistemic basis, confidence level, and alternative interpretations considered. Each section opens with an `[!epistemic-status]` marker providing an overall assessment of that section's evidential standing.
 > 
 > **Confidence Scale:**
-> - **5/5:** Established consensus with strong empirical support — [[Metacognitive-Knowledge]] and [[Metacognitive-Regulation]] as distinct components, for example
+> - **5/5:** Established consensus with strong empirical support — [[metacognitive-knowledge]] and [[metacognitive-regulation]] as distinct components, for example
 > - **4/5:** Well-supported with minor caveats or boundary conditions — the role of…
 
 > [!methodology-and-sources] **Research Methodology** *(from [[metacognition-and-pkm-annotated-critical-analysis-2026-04-12]])*

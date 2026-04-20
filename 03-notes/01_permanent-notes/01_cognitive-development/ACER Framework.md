@@ -35,9 +35,9 @@ link-up:
 link-related:
   - "[[2025-11-29|Daily-Note]]"
   - "[[Bloom's-Taxonomy]]"
-  - "[[Cognitive-Architecture]]"
+  - "[[cognitive-architecture]]"
   - "[[Critical-Thinking-Frameworks]]"
-  - "[[Paul-Elder-Framework]]"
+  - "[[paul-elder-framework]]"
 status: active
 
 

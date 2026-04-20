@@ -323,7 +323,7 @@ TOTAL TIME: 3 minutes
 > [!definition] Cognitive Load Theory
 > **Cognitive Load Theory** (CLT) is a [[cognitive-psychology]] framework
 > positing that instructional design effectiveness is fundamentally
-> constrained by [[Working-Memory]] capacity limitations.
+> constrained by [[working-memory]] capacity limitations.
 >
 > [**Core-Principle**:: Instruction should manage intrinsic, extraneous,
 > and germane cognitive load to optimize learning.]
@@ -940,11 +940,11 @@ body.callout-variant-terminal .callout::before {
 # 📝 Research Note Structure
 
 > [!overview] Document Overview
-> This note analyzes [[Cognitive-Load-Theory]] applications in
-> [[Personal-Knowledge-Management]] systems.
+> This note analyzes [[cognitive-load-theory]] applications in
+> [[personal-knowledge-management]] systems.
 
 > [!key-claim] Primary Argument
-> Effective PKM design requires deliberate [[Cognitive-Load]] management
+> Effective PKM design requires deliberate [[cognitive-load]] management
 > across three dimensions: intrinsic, extraneous, and germane.
 >
 > [**Supporting-Evidence**:: Sweller et al. (2011) meta-analysis of
@@ -972,7 +972,7 @@ body.callout-variant-terminal .callout::before {
 > in expert performance.
 
 > [!insight] Novel Connection
-> PKM systems could leverage [[Spaced-Repetition]] algorithms to
+> PKM systems could leverage [[spaced-repetition]] algorithms to
 > optimize germane load distribution across review sessions, aligning
 > with CLT's theoretical framework.
 
@@ -983,8 +983,8 @@ body.callout-variant-terminal .callout::before {
 
 > [!connections-and-links] Related Topics
 > - [[Working-Memory-Architecture]]
-> - [[Schema-Theory]]
-> - [[Expertise-Reversal-Effect]]
+> - [[schema-theory]]
+> - [[expertise-reversal-effect]]
 > - [[Multimedia-Learning-Principles]]
 ```
 

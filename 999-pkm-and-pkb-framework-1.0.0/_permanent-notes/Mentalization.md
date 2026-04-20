@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,41 +69,41 @@ narrower:
   []
 
 see-also:
-  - "[[Psychopathology]]"
-  - "[[Psychotherapy]]"
+  - "[[psychopathology|Psychopathology]]"
+  - "[[psychotherapy|Psychotherapy]]"
   - "[[cognitive-psychology]]"
-  - "[[Educational-Psychology]]"
-  - "[[Metacognition]]"
-  - "[[Self-Determined-Learning|Self-Determined Learning]]"
-  - "[[Conceptual-Change-Theory]]"
-  - "[[Common-Factors-Theory|Common Factors Theory]]"
-  - "[[Sigmund-Freud|Sigmund Freud]]"
-  - "[[Behavioral-Science]]"
-  - "[[Evidence-Based-Practice-in-Psychology|Evidence-Based Practice in Psychology]]"
-  - "[[Aaron-Beck|Aaron Beck]]"
-  - "[[Cognitive-Behavioral-Therapy]]"
-  - "[[Therapeutic-Alliance|Therapeutic Alliance]]"
-  - "[[Cognitive-Behavioral-Therapy]]"
-  - "[[Schema-Theory]]"
-  - "[[Schema-Theory]]"
-  - "[[Cognitive-Reappraisal]]"
-  - "[[Appraisal-Theory]]"
-  - "[[Learned-Helplessness]]"
+  - "[[educational-psychology|Educational-Psychology]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-determined-learning|Self-Determined-Learning]]"
+  - "[[Conceptual-Change-Theory|Conceptual-Change-Theory]]"
+  - "[[common-factors-theory|Common-Factors-Theory]]"
+  - "[[sigmund-freud|Sigmund-Freud]]"
+  - "[[behavioral-science|Behavioral-Science]]"
+  - "[[evidence-based-practice-in-psychology|Evidence-Based-Practice-in-Psychology]]"
+  - "[[aaron-beck|Aaron-Beck]]"
+  - "[[cognitive-behavioral-therapy|Cognitive-Behavioral-Therapy]]"
+  - "[[therapeutic-alliance|Therapeutic-Alliance]]"
+  - "[[cognitive-behavioral-therapy|Cognitive-Behavioral-Therapy]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[cognitive-reappraisal|Cognitive-Reappraisal]]"
+  - "[[appraisal-theory|Appraisal-Theory]]"
+  - "[[learned-helplessness|Learned-Helplessness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[cognitive-psychology]]"
-  - "[[Behavioral-Science]]"
-  - "[[Attribution-Theory]]"
-  - "[[Schema-Theory]]"
+  - "[[behavioral-science|Behavioral-Science]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Cognitive-Behavioral-TherapyCognitive-Behavioral-Therapy-A-dedicated|> [!topic-idea] [[Cognitive-Behavioral-Therapy|Cognitive-Behavioral Therapy]]
+  - topic: "[[> [!topic-idea] [[cognitive-behavioral-therapy|Cognitive-Behavioral Therapy]]
 > A dedicated Foundati]]"
     description: ""
     priority: medium
@@ -205,17 +205,17 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[clinical-psychology-foundational-report-2026-03-19]])*:
-- [[Schema-Theory]]
-- [[Conceptual-Change-Theory]]
-- [[Self-Determination-Theory]]
-- [[Appraisal-Theory]]
-- [[Metacognition]]
-- [[Learned-Helplessness]]
-- [[Attribution-Style]]
-- [[Transfer-of-Learning]]
+- [[schema-theory|Schema-Theory]]
+- [[Conceptual-Change-Theory|Conceptual-Change-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[appraisal-theory|Appraisal-Theory]]
+- [[metacognition|Metacognition]]
+- [[learned-helplessness|Learned-Helplessness]]
+- [[attribution-style|Attribution-Style]]
+- [[transfer-of-learning|Transfer-of-Learning]]
 
 **Related concepts:**
-[[Psychopathology]] · [[Psychotherapy]] · [[cognitive-psychology]] · [[Educational-Psychology]] · [[Metacognition]] · [[Self-Determined-Learning|Self-Determined Learning]] · [[Conceptual-Change-Theory]] · [[Common-Factors-Theory|Common Factors Theory]] · [[Sigmund-Freud|Sigmund Freud]] · [[Behavioral-Science]] · [[Evidence-Based-Practice-in-Psychology|Evidence-Based Practice in Psychology]] · [[Aaron-Beck|Aaron Beck]] · [[Cognitive-Behavioral-Therapy]] · [[Therapeutic-Alliance|Therapeutic Alliance]] · [[Cognitive-Behavioral-Therapy]] · [[Schema-Theory]] · [[Schema-Theory]] · [[Cognitive-Reappraisal]] · [[Appraisal-Theory]] · [[Learned-Helplessness]] · [[Attribution-Style]] · [[Self-Determination-Theory]] · [[Autonomy-Support]] · [[Introjected-Regulation]] · [[Organismic-Integration-Theory]] · [[Self-Determination-Theory]] · [[Metacognition]] · [[Self-Determination-Theory]] · [[Therapeutic-Alliance|Therapeutic Alliance]] · [[Schema-Theory]]
+[[psychopathology|Psychopathology]] · [[psychotherapy|Psychotherapy]] · [[cognitive-psychology]] · [[educational-psychology|Educational-Psychology]] · [[metacognition|Metacognition]] · [[self-determined-learning|Self-Determined-Learning]] · [[Conceptual-Change-Theory|Conceptual-Change-Theory]] · [[common-factors-theory|Common-Factors-Theory]] · [[sigmund-freud|Sigmund-Freud]] · [[behavioral-science|Behavioral-Science]] · [[evidence-based-practice-in-psychology|Evidence-Based-Practice-in-Psychology]] · [[aaron-beck|Aaron-Beck]] · [[cognitive-behavioral-therapy|Cognitive-Behavioral-Therapy]] · [[therapeutic-alliance|Therapeutic-Alliance]] · [[cognitive-behavioral-therapy|Cognitive-Behavioral-Therapy]] · [[schema-theory|Schema-Theory]] · [[schema-theory|Schema-Theory]] · [[cognitive-reappraisal|Cognitive-Reappraisal]] · [[appraisal-theory|Appraisal-Theory]] · [[learned-helplessness|Learned-Helplessness]] · [[attribution-style|Attribution-Style]] · [[self-determination-theory|Self-Determination-Theory]] · [[autonomy-support|Autonomy-Support]] · [[introjected-regulation|Introjected-Regulation]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[metacognition|Metacognition]] · [[self-determination-theory|Self-Determination-Theory]] · [[therapeutic-alliance|Therapeutic-Alliance]] · [[schema-theory|Schema-Theory]]
 
 ## References
 

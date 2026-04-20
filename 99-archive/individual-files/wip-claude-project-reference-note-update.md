@@ -769,7 +769,7 @@ Explicitly connect concepts to foundational mental models.
 <inline_syntax>
 ### Inline Model Anchors
 ```markdown
-[**Model-Anchor**:: [[concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[concept]] ←anchors-to→ [[mental-model]] | insight:"what the connection reveals"]
 [**Model-Application**:: [[concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
 </inline_syntax>
@@ -792,10 +792,10 @@ Explicitly connect concepts to foundational mental models.
 <bidirectional_application>
 ### Two-Way Model Use
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[Cognitive-Load-Theory]]?"
+"How does [[First Principles Thinking]] illuminate [[cognitive-load-theory]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 **Concept → Lens** (Projection):
-"How can [[Cognitive-Load-Theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[cognitive-load-theory]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 <generation_guidelines>
@@ -909,7 +909,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 ```markdown
 > [!prerequisite] Required Background
 > **Hard Prerequisites** (must understand first):
-> - [[Information-Processing-Theory]] — foundational framework
+> - [[information-processing-theory]] — foundational framework
 > - [[Working Memory Basics]] — capacity constraints
 > 
 > **Soft Prerequisites** (helpful context):
@@ -917,12 +917,12 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Research Methods in Cogsci]] — study interpretation
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[Cognitive-Load-Theory]] — primary extension
+> - [[cognitive-load-theory]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
-> - [[Expertise-Development]] — schema automation
-> - [[Multimedia-Learning]] — CLT application
+> - [[expertise-development]] — schema automation
+> - [[multimedia-learning]] — CLT application
 ```
 </callout_format>
 <dependency_types>
@@ -974,7 +974,7 @@ SORT file.name ASC
 ```dataview
 TABLE enables.direct as "Unlocks"
 FROM "permanent-notes"
-WHERE contains(prerequisites.hard, "[[Working-Memory]]")
+WHERE contains(prerequisites.hard, "[[working-memory]]")
 ```
 </query_compatibility>
 </prerequisite_dependency_mapping>
@@ -1419,7 +1419,7 @@ Remember: This is a REFERENCE NOTE, not a guide or article. Exhaustiveness and o
 
 1. **Topic Focus**: What specific topic would you like to generate a reference note on? (This will allow me to simulate or refine the Tree-of-Thoughts search branches.)
 
-2. **PKB Context**: Do you have an existing knowledge base structure or set of core concepts (e.g., [[Second-Order Thinking]], [[Cognitive-Load-Theory]]) that this should integrate with?
+2. **PKB Context**: Do you have an existing knowledge base structure or set of core concepts (e.g., [[Second-Order Thinking]], [[cognitive-load-theory]]) that this should integrate with?
 
 3. **Depth vs. Breadth Priority**: Should the Tree-of-Thoughts prioritize *depth* (deep dives into sub-branches) or *breadth* (wide coverage with lighter treatment)?
 
@@ -1693,11 +1693,11 @@ Follow the full output scaffold below.
 >  
 > Explicitly analyze how this topic connects to broader PKM and cognitive science concepts:  
 > - [[Second-Order Thinking]] → enhances prompt design by anticipating model behavior  
-> - [[Cognitive-Load-Theory]] → informs clarity and structure of prompts  
+> - [[cognitive-load-theory]] → informs clarity and structure of prompts  
 > - [[Systems-Thinking]] → models LLMs as components in knowledge workflows  
 > - [[First Principles]] → enables deconstruction of prompt failures  
 > - [[spaced-practice]] → suggests iterative refinement cycles  
-> - [[Mental-Models]] → frames prompting as model-based reasoning  
+> - [[mental-models]] → frames prompting as model-based reasoning  
 >  
 > Format: **[[Concept-Name]]** followed by explanation of the relationship.  
 
@@ -1825,7 +1825,7 @@ review-history:
 >  - Inversion reveals hidden assumptions in role definitions  
 >   
 > **Inverse Application**:  
->  - Can be applied to: [[Instructional-Design]], [[Conversation Design]], [[API Design]]  
+>  - Can be applied to: [[instructional-design]], [[Conversation Design]], [[API Design]]  
 </mental_model_anchors>  
 
 <counterexample_collection>  
@@ -1852,7 +1852,7 @@ prerequisites:
     - "[[Language Models Overview]]"
     - "[[Basic Prompting Patterns]]"
   soft:
-    - "[[Cognitive-Load-Theory]]"
+    - "[[cognitive-load-theory]]"
     - "[[Information-Architecture]]"
 enables:
   direct:
@@ -2134,7 +2134,7 @@ Follow the universal output scaffold below.
 > - [[Systems-Thinking]] → maps interdependencies  
 > - [[Second-Order Effects]] → anticipates downstream impacts  
 > - [[Constraint Theory]] → identifies bottlenecks  
-> - [[Mental-Models]] → enables cross-domain transfer  
+> - [[mental-models]] → enables cross-domain transfer  
 
 ### Section 2: Synthesis & Reflection  
 > [!summary]  

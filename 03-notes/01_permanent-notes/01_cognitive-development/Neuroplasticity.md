@@ -41,7 +41,7 @@ review-priority: medium
 # Neuroplasticity
 
 > [!definition]
-> - **Key-Term**:[[Neuroplasticity]]
+> - **Key-Term**:[[neuroplasticity]]
 > - [**Definition**:The ability of neural networks in the brain to change through growth and reorganization, developing different or new functions]
 
 ## Foundational Understanding

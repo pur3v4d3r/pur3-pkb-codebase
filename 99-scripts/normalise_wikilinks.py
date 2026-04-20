@@ -36,7 +36,7 @@ USAGE:
   python normalise_wikilinks.py --scan "00-inbox/01-reports" --add-aliases --execute
 
   # Use multiple permanent note folders
-  python normalise_wikilinks.py --perm-dir "03-notes/01_permanent-notes" --perm-dir "999-report-orginizing/_permanent-notes/_permanent-notes"
+  python normalise_wikilinks.py --perm-dir "03-notes/01_permanent-notes" --perm-dir "999-report-organizing/_permanent-notes/_permanent-notes"
 
 SAFETY:
   - Dry-run by default.  Pass --execute to write changes.
@@ -70,7 +70,7 @@ console = Console()
 DEFAULT_VAULT = Path(r"D:/10_pur3v4d3r's-vault")
 
 DEFAULT_PERM_DIRS = [
-    "999-report-orginizing/_permanent-notes/_permanent-notes",
+    "999-report-organizing/_permanent-notes/_permanent-notes",
 ]
 
 IGNORE_DIRS = {

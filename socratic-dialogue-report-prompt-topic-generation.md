@@ -40,17 +40,17 @@ Appendix as specified.
 ---
 
 - **Topic**: Do we actually learn from experience, or do we mostly confirm what we already believed?
-  - **Description**: The intuitive view holds that experience is the great teacher — that living through events, making mistakes, and receiving feedback shapes genuine knowledge and wisdom. But this rests on assumptions that buckle under examination. Experience only teaches if it is correctly interpreted, and interpretation is filtered through prior belief structures. Most errors in [[Decision-Making]] produce confabulated lessons rather than accurate causal models. The Socratic examination can probe whether "learning from experience" is often better described as "having beliefs survive experience unchanged" — raising profound questions about what conditions actually make experience educationally potent, and whether most people's self-reported "life lessons" are epistemically reliable.
+  - **Description**: The intuitive view holds that experience is the great teacher — that living through events, making mistakes, and receiving feedback shapes genuine knowledge and wisdom. But this rests on assumptions that buckle under examination. Experience only teaches if it is correctly interpreted, and interpretation is filtered through prior belief structures. Most errors in [[decision-making]] produce confabulated lessons rather than accurate causal models. The Socratic examination can probe whether "learning from experience" is often better described as "having beliefs survive experience unchanged" — raising profound questions about what conditions actually make experience educationally potent, and whether most people's self-reported "life lessons" are epistemically reliable.
 
 ---
 
 - **Topic**: What is the relationship between knowing something and believing it — and can you know what you do not believe?
-  - **Description**: The conventional fusion of knowledge and belief — justified true belief — seems stable until the dialogue examines cases where people hold incompatible beliefs simultaneously (compartmentalization), where they can reproduce knowledge on demand but act in ways inconsistent with it (the knowing-doing gap), or where they are genuinely uncertain whether they believe something. [[Dual-Process-Theory]] complicates things further: System 1 may "believe" something that System 2 explicitly rejects. The Socratic examination can induce aporia around whether belief is even a natural kind, and what it means for a person (as opposed to a subsystem) to know something.
+  - **Description**: The conventional fusion of knowledge and belief — justified true belief — seems stable until the dialogue examines cases where people hold incompatible beliefs simultaneously (compartmentalization), where they can reproduce knowledge on demand but act in ways inconsistent with it (the knowing-doing gap), or where they are genuinely uncertain whether they believe something. [[dual-process-theory]] complicates things further: System 1 may "believe" something that System 2 explicitly rejects. The Socratic examination can induce aporia around whether belief is even a natural kind, and what it means for a person (as opposed to a subsystem) to know something.
 
 ---
 
 - **Topic**: Is intrinsic motivation fundamentally different from extrinsic motivation, or are they points on a continuum we have drawn arbitrary lines across?
-  - **Description**: [[Self-Determination-Theory]] has established intrinsic motivation as a cornerstone concept, contrasted with extrinsic motivation to explain why rewards can undermine engagement. But the Socratic examination can probe whether the intrinsic/extrinsic distinction is as clean as it appears. All goals are pursued because they connect — however indirectly — to valued outcomes. The person who reads "for pleasure" is still pursuing a felt state they value; the person reading "for a grade" may have internalized the value of academic achievement deeply enough that the grade is genuinely self-expressive. The dialogue can push toward the question of whether motivation is better characterized by its source or its degree of integration into the self — and whether the popular use of "intrinsic motivation" conceals a wish rather than a mechanism.
+  - **Description**: [[self-determination-theory]] has established intrinsic motivation as a cornerstone concept, contrasted with extrinsic motivation to explain why rewards can undermine engagement. But the Socratic examination can probe whether the intrinsic/extrinsic distinction is as clean as it appears. All goals are pursued because they connect — however indirectly — to valued outcomes. The person who reads "for pleasure" is still pursuing a felt state they value; the person reading "for a grade" may have internalized the value of academic achievement deeply enough that the grade is genuinely self-expressive. The dialogue can push toward the question of whether motivation is better characterized by its source or its degree of integration into the self — and whether the popular use of "intrinsic motivation" conceals a wish rather than a mechanism.
 
 ---
 
@@ -65,12 +65,12 @@ Appendix as specified.
 ---
 
 - **Topic**: Is metacognition genuinely useful for learning, or have we mistaken the ability to narrate one's cognitive processes for the ability to improve them?
-  - **Description**: [[Metacognition]] has become a cornerstone of evidence-based education — the ability to monitor and regulate one's own thinking is treated as both a learnable skill and a reliable predictor of learning outcomes. But the Socratic examination can surface a troubling gap: people's metacognitive judgments (ease of recall, feeling of knowing, judgments of learning) are systematically unreliable, particularly in domains where they are novices — which is precisely where metacognition is most needed. The dialogue can push toward aporia around whether what educators call "metacognitive skill" is often a form of post-hoc rationalization dressed in self-regulatory language, and what genuine metacognitive competence would actually require.
+  - **Description**: [[metacognition]] has become a cornerstone of evidence-based education — the ability to monitor and regulate one's own thinking is treated as both a learnable skill and a reliable predictor of learning outcomes. But the Socratic examination can surface a troubling gap: people's metacognitive judgments (ease of recall, feeling of knowing, judgments of learning) are systematically unreliable, particularly in domains where they are novices — which is precisely where metacognition is most needed. The dialogue can push toward aporia around whether what educators call "metacognitive skill" is often a form of post-hoc rationalization dressed in self-regulatory language, and what genuine metacognitive competence would actually require.
 
 ---
 
 - **Topic**: Do emotions enhance cognition and reasoning, or do they systematically distort it — and what does the answer reveal about the kind of reasoners we actually are?
-  - **Description**: Damasio's somatic marker hypothesis, [[Embodied-Cognition]] research, and the broader affective neuroscience tradition have argued that emotions are constitutive of good reasoning, not merely disruptive to it. This challenges the Enlightenment model of reason as properly cold. Yet the literature on [[Cognitive-Biases]] is equally well-established: emotional states produce systematic errors in probability assessment, risk evaluation, and interpersonal judgment. The Socratic examination can probe whether these two bodies of evidence are actually in tension or merely describe different functional roles — and push toward the harder question of whether there is a coherent concept of "pure reason" that serves as the appropriate contrast class for emotional cognition, or whether that contrast itself is incoherent.
+  - **Description**: Damasio's somatic marker hypothesis, [[embodied-cognition]] research, and the broader affective neuroscience tradition have argued that emotions are constitutive of good reasoning, not merely disruptive to it. This challenges the Enlightenment model of reason as properly cold. Yet the literature on [[cognitive-biases]] is equally well-established: emotional states produce systematic errors in probability assessment, risk evaluation, and interpersonal judgment. The Socratic examination can probe whether these two bodies of evidence are actually in tension or merely describe different functional roles — and push toward the harder question of whether there is a coherent concept of "pure reason" that serves as the appropriate contrast class for emotional cognition, or whether that contrast itself is incoherent.
 
 ---
 
@@ -80,7 +80,7 @@ Appendix as specified.
 ---
 
 - **Topic**: What is the relationship between language and thought — does language merely express pre-formed ideas, or does it partly constitute what we are capable of thinking?
-  - **Description**: The Sapir-Whorf hypothesis in its strong form (language determines thought) has been largely discredited, but the weak version — that language shapes certain aspects of cognition — has found empirical support in color perception, spatial reasoning, and numerical cognition. The Socratic examination can probe the deeper question: when you think about a concept for which you have no word, are you thinking about it or are you fumbling toward something you cannot yet hold? The dialogue connects to [[Personal-Knowledge-Management]] practices — the act of writing and naming ideas — and can produce aporia around whether the project of building a conceptual vocabulary is genuinely expanding one's thinking or merely providing labels for thoughts one could have had anyway.
+  - **Description**: The Sapir-Whorf hypothesis in its strong form (language determines thought) has been largely discredited, but the weak version — that language shapes certain aspects of cognition — has found empirical support in color perception, spatial reasoning, and numerical cognition. The Socratic examination can probe the deeper question: when you think about a concept for which you have no word, are you thinking about it or are you fumbling toward something you cannot yet hold? The dialogue connects to [[personal-knowledge-management]] practices — the act of writing and naming ideas — and can produce aporia around whether the project of building a conceptual vocabulary is genuinely expanding one's thinking or merely providing labels for thoughts one could have had anyway.
 
 ---
 
@@ -90,7 +90,7 @@ Appendix as specified.
 ---
 
 - **Topic**: Can attention be trained, or are attentional capacities relatively fixed — and what are the implications for the modern information environment?
-  - **Description**: Popular culture has embraced the claim that [[Cognitive-Load-Theory]] and distracted environments are "rewiring" attention, with equally popular claims that mindfulness meditation and deliberate attentional practice can reverse this. But the Socratic examination can probe whether "attention" is a single trainable capacity or a family of distinct processes that respond differently to intervention. The claim that digital environments are reducing attention spans runs into definitional problems: attention spans for what? Under what conditions? The dialogue can push toward the harder question of whether the very concept of "training attention" makes psychological sense — or whether what improves with practice is not attention itself but domain-specific skills that require sustained engagement to execute.
+  - **Description**: Popular culture has embraced the claim that [[cognitive-load-theory]] and distracted environments are "rewiring" attention, with equally popular claims that mindfulness meditation and deliberate attentional practice can reverse this. But the Socratic examination can probe whether "attention" is a single trainable capacity or a family of distinct processes that respond differently to intervention. The claim that digital environments are reducing attention spans runs into definitional problems: attention spans for what? Under what conditions? The dialogue can push toward the harder question of whether the very concept of "training attention" makes psychological sense — or whether what improves with practice is not attention itself but domain-specific skills that require sustained engagement to execute.
 
 ---
 
@@ -115,7 +115,7 @@ Appendix as specified.
 ---
 
 > [!tip] **Usage Note**
-> Copy the starter prompt above, replace `{INSERT TOPIC QUESTION HERE}` with any of the topic questions above (the bolded portion of each entry), and submit to a Claude Project running the [[Socratic-Dialogue-Report-Generator-v1.0]]. The starter prompt is intentionally minimal — the full structural and formatting instructions live in the system prompt, so the input only needs to name the topic clearly.
+> Copy the starter prompt above, replace `{INSERT TOPIC QUESTION HERE}` with any of the topic questions above (the bolded portion of each entry), and submit to a Claude Project running the [[socratic-dialogue-report-generator-v1.0]]. The starter prompt is intentionally minimal — the full structural and formatting instructions live in the system prompt, so the input only needs to name the topic clearly.
 
 
 
@@ -188,16 +188,16 @@ secondary_domains:
   - dialectical-inquiry
   - pedagogical-design
 related_concepts:
-  - "[[Socratic-Method]]"
-  - "[[Elenchus]]"
-  - "[[Aporia]]"
+  - "[[socratic-method]]"
+  - "[[elenchus]]"
+  - "[[aporia]]"
   - "[[Dialectical Reasoning]]"
   - "[[Maieutic Method]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
-  - "[[Dual-Process-Theory]]"
+  - "[[dual-process-theory]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -262,12 +262,12 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Socratic-Method]]"
-  - "[[Elenchus]]"
+  - "[[socratic-method]]"
+  - "[[elenchus]]"
 
 builds_on:
-  - "[[Foundational-Report-Generator-v1.0]]"
-  - "[[First-Principles-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
+  - "[[first-principles-report-generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 extends:
@@ -277,15 +277,15 @@ extends:
 # ALIASES & LINKING
 # ═══════════════════════════════════════════════════════════════════════════
 aliases:
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
   - "[[SDRP v1.0]]"
   - "[[Report Generator - Socratic Dialogue]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down: []
 link_related:
-  - "[[Foundational-Report-Generator-v1.0]]"
-  - "[[First-Principles-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
+  - "[[first-principles-report-generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -443,7 +443,7 @@ The depth-first principles from the Foundational and First Principles reports ap
 
 ## Section 2: Metadata Generation Protocol
 
-Every Socratic Dialogue Report MUST begin with a complete YAML frontmatter block. The template follows the same structure as the [[Foundational-Report-Generator-v1.0]], Section 2, with the following modifications:
+Every Socratic Dialogue Report MUST begin with a complete YAML frontmatter block. The template follows the same structure as the [[foundational-report-generator-v1.0]], Section 2, with the following modifications:
 
 ### Modified Metadata Fields
 
@@ -493,10 +493,10 @@ document-features:
   reflective-questions: "{count, minimum 10}"
 
 # Source & Generation:
-generation-prompt: "[[Socratic-Dialogue-Report-Generator-v1.0]]"
+generation-prompt: "[[socratic-dialogue-report-generator-v1.0]]"
 ```
 
-All other metadata fields follow the [[Foundational-Report-Generator-v1.0]], Section 2 template. Generate the full YAML block with all fields populated.
+All other metadata fields follow the [[foundational-report-generator-v1.0]], Section 2 template. Generate the full YAML block with all fields populated.
 
 ---
 
@@ -778,7 +778,7 @@ not certainty, but a question worth spending a life on.
 
 ### Appendix: Lexicon, References, and Expansion Topics
 
-The appendix follows the same structure as the [[Foundational-Report-Generator-v1.0]], Phase VII, and [[First-Principles-Report-Generator-v1.0]], Phase VII, with the following additions:
+The appendix follows the same structure as the [[foundational-report-generator-v1.0]], Phase VII, and [[first-principles-report-generator-v1.0]], Phase VII, with the following additions:
 
 #### A. Lexicon
 
@@ -869,7 +869,7 @@ The Respondent IS:
 
 ### All Standards from the Foundational Report Apply
 
-The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, and progressive structure requirements from [[Foundational-Report-Generator-v1.0]], Section 4 apply in full, adapted for dialogue format.
+The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, and progressive structure requirements from [[foundational-report-generator-v1.0]], Section 4 apply in full, adapted for dialogue format.
 
 ### Dialogue-Specific Standards
 
@@ -914,7 +914,7 @@ These are uniquely powerful in dialogue format because the reader can be invited
 
 ### All Protocols from the Foundational Report Apply
 
-The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational-Report-Generator-v1.0]], Section 5 apply.
+The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[foundational-report-generator-v1.0]], Section 5 apply.
 
 ### Dialogue-Specific Integration
 

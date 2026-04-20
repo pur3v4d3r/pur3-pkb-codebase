@@ -27,8 +27,8 @@ link-related: []
 ```
 
 
-# [[YAML-Frontmatter]]: A Reference for PKB
-[[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[Obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.
+# [[yaml-frontmatter]]: A Reference for PKB
+[[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.
 
 > [!definition] What is Frontmatter?
 > Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[Knowledge-Management]] workflows.
@@ -43,7 +43,7 @@ These keys are foundational, establishing the note's identity and basic properti
 | Key | Description |
 | :--- | :--- |
 | **`title`** | The formal title of the note. Useful if the [[filename]] is different (e.g., a Zettelkasten ID). |
-| **`id`** | A unique identifier, such as a [[Zettelkasten]] timestamp (e.g., `202511022230`) or a UUID. |
+| **`id`** | A unique identifier, such as a [[zettelkasten]] timestamp (e.g., `202511022230`) or a UUID. |
 | **`created`** | Timestamp (preferably [[ISO 8601]]) for note creation. Essential for chronological sorting. |
 | **`modified`** | Timestamp for the last significant update. Many plugins can automate this. |
 | **`type`** | Defines the "class" or "schema" of the note (e.g., `Person`, `Project`, `Source`, `Atomic`). |
@@ -83,7 +83,7 @@ These keys explicitly define the note's position within your [[Knowledge-Graph]]
 ---
 
 ## 📚 Source & Citation Keys
-When a note is based on an external resource (e.g., a [[Source Note]]), these keys store the citation metadata.
+When a note is based on an external resource (e.g., a [[source-note]]), these keys store the citation metadata.
 
 | Key                    | Description                                                                               |
 | :--------------------- | :---------------------------------------------------------------------------------------- |

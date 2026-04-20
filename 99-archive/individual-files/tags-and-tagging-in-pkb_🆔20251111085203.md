@@ -287,7 +287,7 @@ An **emergent** approach allows tags to arise organically as you take notes. You
 
 ### The PARA Method and Tags
 
-The **[[PARA-Method]]** (Projects, Areas, Resources, Archives) developed by Tiago Forte is a popular framework for organizing digital information. In a tag-based implementation:
+The **[[para-method]]** (Projects, Areas, Resources, Archives) developed by Tiago Forte is a popular framework for organizing digital information. In a tag-based implementation:
 
 ```yaml
 #para/project/dissertation
@@ -789,7 +789,7 @@ Different note types warrant different tagging strategies.
 
 ### Tags in a Zettelkasten System
 
-In a strict **[[Zettelkasten]]** implementation, the relationship between tags and the note-taking methodology is nuanced.
+In a strict **[[zettelkasten]]** implementation, the relationship between tags and the note-taking methodology is nuanced.
 
 **Luhmann's approach:**
 - Tags (keywords) were entry points, not comprehensive classification
@@ -815,14 +815,14 @@ The key principle: *links carry the semantic load; tags provide access and organ
 > - `[[Information-Architecture]]` — Principles of organizing information systems for findability and usability
 > - `[[Metadata Management]]` — Broader strategies for managing metadata beyond tags
 > - `[[Dataview-Plugin]]` — Advanced querying and dynamic views using your tag system
-> - `[[PARA-Method]]` — Tiago Forte's organizational framework and its relationship to tagging
+> - `[[para-method]]` — Tiago Forte's organizational framework and its relationship to tagging
 > - `[[Controlled Vocabulary Design]]` — Library science principles for creating consistent taxonomies
 
 > [!connections-and-links]
 > **Prerequisites for Deep Understanding:**
 > - `[[Obsidian Core Functionality]]` — Understanding the platform's native features
 > - `[[Markdown Formatting]]` — The foundation of all Obsidian content
-> - `[[YAML-Frontmatter]]` — Structured metadata in Obsidian
+> - `[[yaml-frontmatter]]` — Structured metadata in Obsidian
 > - `[[Boolean Logic]]` — For understanding complex tag queries
 > - `[[Personal Knowledge Management Principles]]` — Foundational PKM concepts
 

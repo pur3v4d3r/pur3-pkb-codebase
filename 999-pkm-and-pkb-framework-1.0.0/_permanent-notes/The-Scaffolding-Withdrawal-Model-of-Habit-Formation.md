@@ -37,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -49,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -73,26 +73,26 @@ narrower:
   []
 
 see-also:
-  - "[[Habit-Formation]]"
-  - "[[Automaticity]]"
-  - "[[Behavioral-Modification]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Schema-Automation]]"
-  - "[[Automaticity]]"
-  - "[[Habit-Formation]]"
-  - "[[Cortico-Striatal-Learning-Loops]]"
-  - "[[System-1]]"
-  - "[[System-2]]"
-  - "[[Cortico-Striatal-Learning-Loops]]"
-  - "[[Hedonic-Adaptation]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Identity-Based-Habits]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Identity-Based-Habits]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Silent-Reading-Fluency]]"
+  - "[[habit-formation|Habit-Formation]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[behavioral-modification|Behavioral-Modification]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[schema-automation|Schema-Automation]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[habit-formation|Habit-Formation]]"
+  - "[[cortico-striatal-learning-loops|Cortico-Striatal-Learning-Loops]]"
+  - "[[system-1|System-1]]"
+  - "[[system-2|System-2]]"
+  - "[[cortico-striatal-learning-loops|Cortico-Striatal-Learning-Loops]]"
+  - "[[hedonic-adaptation|Hedonic-Adaptation]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[identity-based-habits|Identity-Based-Habits]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[identity-based-habits|Identity-Based-Habits]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[silent-reading-fluency|Silent-Reading-Fluency]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,7 +104,7 @@ enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Habit-Breaking-—-The-Inhibition-Architecture-The-analysis-focused-on|> [!topic-idea] [[Habit-Breaking-—-The-Inhibition-Architecture]]
+  - topic: "[[> [!topic-idea] [[Habit-Breaking-—-The-Inhibition-Architecture]]
 > The analysis focused on habit for]]"
     description: ""
     priority: medium
@@ -173,10 +173,10 @@ importance: high
 > The richer and more distinctive the contextual configuration associated with a behavior, the stronger the context-action binding and the more robust the resulting habit. A behavior performed in a highly distinctive context — specific time, specific place, specific preceding activity, specific sensory features — will automatize faster and more durably than the same behavior performed in a generic or variable context. This "context richness principle" predicts that habit formation advice should…
 
 > [!analytical-insight] Key Insight *(from [[habit-formation-focused-analysis-2026-03-28]])*
-> The prediction-error model of dopaminergic reinforcement creates a structural tension for habit maintenance. Early in habit formation, the reward associated with a behavior generates robust dopamine signals because it was not fully predicted. As the behavior becomes habitual and the reward becomes fully expected, the dopamine signal diminishes — not because the reward is gone, but because it is fully anticipated. [[Hedonic-Adaptation]] in the reward system means that the motivational fuel for…
+> The prediction-error model of dopaminergic reinforcement creates a structural tension for habit maintenance. Early in habit formation, the reward associated with a behavior generates robust dopamine signals because it was not fully predicted. As the behavior becomes habitual and the reward becomes fully expected, the dopamine signal diminishes — not because the reward is gone, but because it is fully anticipated. [[hedonic-adaptation]] in the reward system means that the motivational fuel for…
 
 > [!analytical-insight] Key Insight *(from [[habit-formation-focused-analysis-2026-03-28]])*
-> One of the genuinely unresolved tensions in the habit formation literature concerns metacognitive monitoring. [[Self-Regulated-Learning]] research emphasizes the value of monitoring and evaluating one's behavioral patterns — a fundamentally Type 2, goal-directed activity. But the automaticity mechanism works precisely by removing behavior from Type 2 monitoring. The question is whether metacognitive engagement with a habit *during its formation* helps or hinders the transition to automaticity.…
+> One of the genuinely unresolved tensions in the habit formation literature concerns metacognitive monitoring. [[self-regulated-learning]] research emphasizes the value of monitoring and evaluating one's behavioral patterns — a fundamentally Type 2, goal-directed activity. But the automaticity mechanism works precisely by removing behavior from Type 2 monitoring. The question is whether metacognitive engagement with a habit *during its formation* helps or hinders the transition to automaticity.…
 
 ## Practical Implications
 
@@ -218,7 +218,7 @@ importance: high
 > A genuine intellectual tension runs through the habit formation literature: the goal-directed and habitual systems operate in parallel, not sequentially. Both systems generate action tendencies simultaneously; what determines which system's output is executed depends on the relative strength of habitual context-action associations versus current goal representations, modulated by dopaminergic signals reflecting prediction error. This means that "forming a habit" is not a one-time transition but an ongoing competition between systems that can shift depending on context, stress, cognitive load,…
 
 > [!tension] **The Hedonic Adaptation Problem in Habit Maintenance** *(from [[habit-formation-focused-analysis-2026-03-28]])*
-> The prediction-error model of dopaminergic reinforcement creates a structural tension for habit maintenance. Early in habit formation, the reward associated with a behavior generates robust dopamine signals because it was not fully predicted. As the behavior becomes habitual and the reward becomes fully expected, the dopamine signal diminishes — not because the reward is gone, but because it is fully anticipated. [[Hedonic-Adaptation]] in the reward system means that the motivational fuel for early habit formation naturally depletes as the habit forms. This is why many habits that are…
+> The prediction-error model of dopaminergic reinforcement creates a structural tension for habit maintenance. Early in habit formation, the reward associated with a behavior generates robust dopamine signals because it was not fully predicted. As the behavior becomes habitual and the reward becomes fully expected, the dopamine signal diminishes — not because the reward is gone, but because it is fully anticipated. [[hedonic-adaptation]] in the reward system means that the motivational fuel for early habit formation naturally depletes as the habit forms. This is why many habits that are…
 
 > [!tension] **Context Stability vs. Behavioral Flexibility** *(from [[habit-formation-focused-analysis-2026-03-28]])*
 > **Position A (Context-Stability):** The analysis shows that habits require consistent context-action pairing. Maximum automaticity comes from practicing behaviors in highly stable, distinctive contexts, minimizing contextual variation during formation.
@@ -402,19 +402,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[habit-formation-focused-analysis-2026-03-28]])*:
-- [[Automaticity]]
-- [[Self-Regulated-Learning]]
-- [[Self-Regulated-Learning-—-Focused-Analysis]]
-- [[Schema-Automation]]
-- [[Deliberate-Practice]]
-- [[Cortico-Striatal-Learning-Loops]]
-- [[Identity-Based-Habits]]
+- [[automaticity|Automaticity]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[self-regulated-learning-focused-analysis|Self-Regulated-Learning-—-Focused-Analysis]]
+- [[schema-automation|Schema-Automation]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[cortico-striatal-learning-loops|Cortico-Striatal-Learning-Loops]]
+- [[identity-based-habits|Identity-Based-Habits]]
 - [[cog-sci-pkm-cognitive-science-principles-for-habit-formation-in-pkm]]
-- [[Cognitive-Load-Theory]]
-- [[Self-Determination-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
 
 **Related concepts:**
-[[Habit-Formation]] · [[Automaticity]] · [[Behavioral-Modification]] · [[Self-Regulated-Learning]] · [[Deliberate-Practice]] · [[Schema-Automation]] · [[Automaticity]] · [[Habit-Formation]] · [[Cortico-Striatal-Learning-Loops]] · [[System-1]] · [[System-2]] · [[Cortico-Striatal-Learning-Loops]] · [[Hedonic-Adaptation]] · [[Deliberate-Practice]] · [[Identity-Based-Habits]] · [[Self-Regulated-Learning]] · [[Self-Regulated-Learning]] · [[Identity-Based-Habits]] · [[Self-Determination-Theory]] · [[Silent-Reading-Fluency]] · [[Schema-Automation]] · [[Deliberate-Practice]] · [[Guidance-Fading-Principle]] · [[Instructional-Design]] · [[Self-Determination-Theory]] · [[Cognitive-Bias]] · [[Cognitive-Behavioral-Therapy]] · [[Automaticity]] · [[Self-Regulated-Learning]] · [[Self-Regulated-Learning-—-Focused-Analysis]]
+[[habit-formation|Habit-Formation]] · [[automaticity|Automaticity]] · [[behavioral-modification|Behavioral-Modification]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[deliberate-practice|Deliberate-Practice]] · [[schema-automation|Schema-Automation]] · [[automaticity|Automaticity]] · [[habit-formation|Habit-Formation]] · [[cortico-striatal-learning-loops|Cortico-Striatal-Learning-Loops]] · [[system-1|System-1]] · [[system-2|System-2]] · [[cortico-striatal-learning-loops|Cortico-Striatal-Learning-Loops]] · [[hedonic-adaptation|Hedonic-Adaptation]] · [[deliberate-practice|Deliberate-Practice]] · [[identity-based-habits|Identity-Based-Habits]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[identity-based-habits|Identity-Based-Habits]] · [[self-determination-theory|Self-Determination-Theory]] · [[silent-reading-fluency|Silent-Reading-Fluency]] · [[schema-automation|Schema-Automation]] · [[deliberate-practice|Deliberate-Practice]] · [[guidance-fading-principle|Guidance-Fading-Principle]] · [[instructional-design|Instructional-Design]] · [[self-determination-theory|Self-Determination-Theory]] · [[cognitive-bias|Cognitive-Bias]] · [[cognitive-behavioral-therapy|Cognitive-Behavioral-Therapy]] · [[automaticity|Automaticity]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[self-regulated-learning-focused-analysis|Self-Regulated-Learning-—-Focused-Analysis]]
 
 ## References
 

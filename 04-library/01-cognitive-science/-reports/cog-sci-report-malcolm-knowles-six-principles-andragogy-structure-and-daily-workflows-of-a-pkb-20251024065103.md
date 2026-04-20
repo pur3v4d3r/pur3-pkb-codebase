@@ -181,7 +181,7 @@ We now arrive at the core methodology. Having established the "why"—the six pr
         - `tags: #lit_note`
         - `why_this_matters: [This concept is crucial for my Q1 Marketing Strategy project because...]`
         - `---`
-    - **Contextual Linking:** When you link, explain *why*. Don't just write `[[Cognitive-Bias]]`. Write: `This marketing plan fails to account for [[Cognitive-Bias|the user's confirmation bias]]...`
+    - **Contextual Linking:** When you link, explain *why*. Don't just write `[[cognitive-bias]]`. Write: `This marketing plan fails to account for [[cognitive-bias|the user's confirmation bias]]...`
 - **Workflow (The Habit):**
     - **The "Relevance Triage":** When capturing a "fleeting note," your first step is triage. Ask: "Is this interesting, or is it *useful*?" If it's only interesting, put it in a "Curiosities" inbox. If it's *useful*, immediately link it to the project or problem it serves (e.g., `[[Project: Q1 Marketing Strategy]]`). This workflow stops the "hoarding" of irrelevant facts.
 
@@ -399,7 +399,7 @@ This synthesis of andragogy and Personal Knowledge Base technology is nascent, a
 > - **What was the most surprising or counter-intuitive concept presented? Why?**
 >     - The most counter-intuitive idea might be that "Problem-Centered" (Principle 5) is superior to "Subject-Centered" organization. We are *deeply* trained by 12+ years of schooling to think in "subjects" (`Math`, `History`, `Biology`). The idea of *not* having a "Psychology" folder and instead having a `[[Problem: Why am I procrastinating?]]` note that *pulls in* ideas from psychology, neuroscience, and productivity seems chaotic. But the article argues this "chaos" is actually a higher, more *useful* form of personal order because it's *actionable*.
 > - **What pre-existing knowledge did this article connect with or challenge for me?**
->     - This article directly connects to my pre-existing knowledge of the [[Zettelkasten]] method. It challenged my view of it as just a "better note-taking system" and reframed it as *the perfect technological expression of andragogical theory*. It gave me the *pedagogical "why"* for a system I was only using mechanically. It connects the "how" of Zettelkasten (atomic notes, linking) with the "why" of Andragogy (self-direction, problem-centered).
+>     - This article directly connects to my pre-existing knowledge of the [[zettelkasten]] method. It challenged my view of it as just a "better note-taking system" and reframed it as *the perfect technological expression of andragogical theory*. It gave me the *pedagogical "why"* for a system I was only using mechanically. It connects the "how" of Zettelkasten (atomic notes, linking) with the "why" of Andragogy (self-direction, problem-centered).
 
 > [!quote]
 > "The principal value of a slip-box is not as a hoard of information, but as a system to think with. The note-taking of a Zettelkasten is a form of thinking, not a prelude to it."
@@ -408,9 +408,9 @@ This synthesis of andragogy and Personal Knowledge Base technology is nascent, a
 > [!important]
 >
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
-> 1. `[[Andragogy]]`
+> 1. `[[andragogy]]`
 > 1. `[[Problem-Centered Learning]]`
-> 1. `[[Cognitive-Scaffolding]]`
+> 1. `[[cognitive-scaffolding]]`
 
 > [!question]
 >

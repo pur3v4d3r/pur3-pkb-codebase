@@ -242,7 +242,7 @@ extraction_summary:
 #### 18. [CROSS-DOMAIN-CONNECTION] Vygotsky's ZPD as an Elaboration Calibration Criterion *(Line 236)*
 
 > [!cross-domain-connection] Vygotsky's ZPD as an Elaboration Calibration Criterion
-> The [[Zone-of-Proximal-Development|Zone of Proximal Development]] is typically described in the context of social learning — the gap between what a learner can do independently and what they can do with the guidance of a more capable peer or teacher. But the concept translates directly into a design criterion for PKB note architecture and linking structure. A note that merely restates what you already know (operating well below the ZPD) produces no schema development — it is pure assimilation without elaboration. A note that is incomprehensible without extensive background knowledge you don't yet have (operating far above the ZPD) produces confusion without constructive engagement. The productive zone is a note that requires effortful schema activation and extension to understand — just beyond your current comfortable understanding, requiring connection to existing knowledge to make sense, but within reach with that effort. In Reigeluth's terms, this is the zone where elaboration is productive. The practical PKB design implication: when creating or linking to a new note, ask not just "is this accurate?" and "is this clearly written?" but "does this sit in my ZPD for this topic — does it require me to think in order to understand it, and do I have the existing schemas to engage productively with that effort?"
+> The [[zone-of-proximal-development|Zone of Proximal Development]] is typically described in the context of social learning — the gap between what a learner can do independently and what they can do with the guidance of a more capable peer or teacher. But the concept translates directly into a design criterion for PKB note architecture and linking structure. A note that merely restates what you already know (operating well below the ZPD) produces no schema development — it is pure assimilation without elaboration. A note that is incomprehensible without extensive background knowledge you don't yet have (operating far above the ZPD) produces confusion without constructive engagement. The productive zone is a note that requires effortful schema activation and extension to understand — just beyond your current comfortable understanding, requiring connection to existing knowledge to make sense, but within reach with that effort. In Reigeluth's terms, this is the zone where elaboration is productive. The practical PKB design implication: when creating or linking to a new note, ask not just "is this accurate?" and "is this clearly written?" but "does this sit in my ZPD for this topic — does it require me to think in order to understand it, and do I have the existing schemas to engage productively with that effort?"
 
 #### 19. [ANALYTICAL-INSIGHT] The PKB as a Schema-Development Environment *(Line 245)*
 
@@ -310,15 +310,15 @@ extraction_summary:
 > [!connections-and-links] Internal PKB Connections and Cross-Report Links
 > **Internal PKB Connections:**
 > 
-> - **[[Schema-Theory|Schema Theory]]** — The cognitive architecture underlying everything in this report. Understanding schemas as dynamic, hierarchical, variable-slot structures is prerequisite to understanding why knowledge construction works as it does and why the storage model of PKBs fails. This report contributes the translation of Schema Theory's descriptive account into PKB design prescriptions that no prior Schema Theory literature articulates explicitly.
+> - **[[schema-theory|Schema Theory]]** — The cognitive architecture underlying everything in this report. Understanding schemas as dynamic, hierarchical, variable-slot structures is prerequisite to understanding why knowledge construction works as it does and why the storage model of PKBs fails. This report contributes the translation of Schema Theory's descriptive account into PKB design prescriptions that no prior Schema Theory literature articulates explicitly.
 > 
-> - **[[Constructivism]]** — The epistemological frame that gives schema modification its philosophical significance. Without constructivism, schema accommodation is just a computational event; with it, accommodation becomes the mechanism of genuine understanding — the process by which the learner's relationship to their domain of knowledge changes, not just what they know about it. This connection is strongly bidirectional: constructivist practice gains cognitive credibility from Schema Theory's mechanism account; Schema Theory gains epistemological depth and purpose from Constructivism.
+> - **[[constructivism]]** — The epistemological frame that gives schema modification its philosophical significance. Without constructivism, schema accommodation is just a computational event; with it, accommodation becomes the mechanism of genuine understanding — the process by which the learner's relationship to their domain of knowledge changes, not just what they know about it. This connection is strongly bidirectional: constructivist practice gains cognitive credibility from Schema Theory's mechanism account; Schema Theory gains epistemological depth and purpose from Constructivism.
 > 
 > - **[[Elaboration-Theory|Elaboration Theory]]** — The design architecture that makes constructivist schema development programmable. Reigeluth's work translates "knowledge construction requires active schema engagement" into the design prescription "here is how to sequence, structure, and layer knowledge experiences to ensure this engagement occurs." For PKB design, Elaboration Theory is the engineering layer above Constructivism's philosophical layer and Schema Theory's mechanism layer.
 > 
-> - **[[Zone-of-Proximal-Development|Zone of Proximal Development]]** — Vygotsky's ZPD becomes, in the PKB context, a calibration criterion for note complexity and linking architecture: notes should be in the zone just beyond current comfortable understanding, and links should bridge from current to emerging understanding. Too simple produces assimilation without development; too complex produces confusion without construction. ZPD-calibrated notes and links are the structural target for schema-progressive PKB design.
+> - **[[zone-of-proximal-development|Zone of Proximal Development]]** — Vygotsky's ZPD becomes, in the PKB context, a calibration criterion for note complexity and linking architecture: notes should be in the zone just beyond current comfortable understanding, and links should bridge from current to emerging understanding. Too simple produces assimilation without development; too complex produces confusion without construction. ZPD-calibrated notes and links are the structural target for schema-progressive PKB design.
 > 
-> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (from [[Report 02: The Architecture of Learning]]) — The connection here is both deeply supportive and productively tensioned. CLT says reduce extraneous cognitive load to protect working memory capacity for schema construction. Constructivism says effortful construction is the mechanism of genuine learning. The resolution is to distinguish extraneous load (which competes with schema construction and should be reduced) from germane load (the load directly associated with schema construction — productive and should be preserved). The Schema-Progressive Architecture reduces extraneous load through epitome scaffolding while maintaining productive germane load through accommodation-triggering note structures.
+> - **[[cognitive-load-theory|Cognitive Load Theory]]** (from [[Report 02: The Architecture of Learning]]) — The connection here is both deeply supportive and productively tensioned. CLT says reduce extraneous cognitive load to protect working memory capacity for schema construction. Constructivism says effortful construction is the mechanism of genuine learning. The resolution is to distinguish extraneous load (which competes with schema construction and should be reduced) from germane load (the load directly associated with schema construction — productive and should be preserved). The Schema-Progressive Architecture reduces extraneous load through epitome scaffolding while maintaining productive germane load through accommodation-triggering note structures.
 > 
 > - **[[Prior Knowledge Architecture]]** (from [[Report 01: Foundations of Knowledge Architecture]]) — Report 01's structural recommendations about folder organization, note types, and link density can now be understood as physical implementations of schema hierarchy principles: the folder structure externalizes the epitome-to-elaboration hierarchy; the link density reflects schema richness; the metadata fields capture elaboration relationships. These two reports are mutually reinforcing: this report provides the cognitive-philosophical foundation; Report 01 provides the structural implementation.
 > 
@@ -471,22 +471,22 @@ extraction_summary:
 #### 54. [TOPIC-IDEA] [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]] *(Line 503)*
 
 > [!topic-idea] [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]
-> [[David-Ausubel|David Ausubel]]'s advance organizer research provides additional empirical grounding for the epitome concept. Exploring this literature would yield specific design guidance: what structural features, what level of abstraction, what content selection principles produce the most effective schema scaffolding for subsequent elaborations? The research distinguishes expository advance organizers (provide a more abstract, general, or inclusive concept than the material to be learned) from comparative advance organizers (recall already-known material to leverage prior schemas for contrast). Both have PKB parallels with distinct use cases.
+> [[david-ausubel|David Ausubel]]'s advance organizer research provides additional empirical grounding for the epitome concept. Exploring this literature would yield specific design guidance: what structural features, what level of abstraction, what content selection principles produce the most effective schema scaffolding for subsequent elaborations? The research distinguishes expository advance organizers (provide a more abstract, general, or inclusive concept than the material to be learned) from comparative advance organizers (recall already-known material to leverage prior schemas for contrast). Both have PKB parallels with distinct use cases.
 
 #### 55. [TOPIC-IDEA] [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]] *(Line 506)*
 
 > [!topic-idea] [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]
-> [[Vygotsky]]'s social constructivism is underrepresented in this report relative to its importance for PKM practitioners. A full exploration would address: how dialogue and collaborative annotation extend the ZPD beyond what solo practice can reach; how PKM community practices (shared notes, Obsidian Publish sites, annotation layers) can simulate the social scaffolding that Vygotsky identified as the primary driver of cognitive development; and how a solo PKB can be designed to incorporate multiple perspectives as schema-challenging inputs (through devil's advocate note templates, systematic recording of counterarguments, and the explicit representation of viewpoints you disagree with as first-class schema-challenging artifacts).
+> [[vygotsky]]'s social constructivism is underrepresented in this report relative to its importance for PKM practitioners. A full exploration would address: how dialogue and collaborative annotation extend the ZPD beyond what solo practice can reach; how PKM community practices (shared notes, Obsidian Publish sites, annotation layers) can simulate the social scaffolding that Vygotsky identified as the primary driver of cognitive development; and how a solo PKB can be designed to incorporate multiple perspectives as schema-challenging inputs (through devil's advocate note templates, systematic recording of counterarguments, and the explicit representation of viewpoints you disagree with as first-class schema-challenging artifacts).
 
 #### 56. [TOPIC-IDEA] [[Transfer-Appropriate Processing and PKB Retrieval Design]] *(Line 509)*
 
 > [!topic-idea] [[Transfer-Appropriate Processing and PKB Retrieval Design]]
-> [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] (Morris, Bransford & Franks 1977) proposes that memory retrieval is most effective when retrieval conditions match encoding conditions — when the cognitive operations used to access a memory are the same as those used to encode it. In PKB terms, this suggests that how you retrieve a note matters as much as how you create it: retrieval that requires the same constructive cognitive engagement as initial creation (active recall, elaborative questioning, schema reconstruction) will produce better schema reinforcement than retrieval that is purely associative (search-and-find). This connects the Schema-Progressive Architecture to the retrieval practice literature explored in [[Report-06]].
+> [[transfer-appropriate-processing|Transfer-Appropriate Processing]] (Morris, Bransford & Franks 1977) proposes that memory retrieval is most effective when retrieval conditions match encoding conditions — when the cognitive operations used to access a memory are the same as those used to encode it. In PKB terms, this suggests that how you retrieve a note matters as much as how you create it: retrieval that requires the same constructive cognitive engagement as initial creation (active recall, elaborative questioning, schema reconstruction) will produce better schema reinforcement than retrieval that is purely associative (search-and-find). This connects the Schema-Progressive Architecture to the retrieval practice literature explored in [[Report-06]].
 
 #### 57. [TOPIC-IDEA] [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]] *(Line 512)*
 
 > [!topic-idea] [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]]
-> A genuine challenge for the schema-constructivist account of text-based PKBs is posed by [[Embodied-Cognition|Embodied Cognition]] research (Lakoff & Johnson, Varela, Thompson & Rosch): some schemas are not purely propositional but fundamentally embodied — grounded in sensorimotor experience in ways that text-based notes cannot fully capture or trigger. Skills, tacit knowledge, aesthetic judgments, and experientially grounded understanding may require non-textual schema-building practices that complement rather than compete with note-based PKB work. This connects directly to [[Report 22]] (tacit knowledge and the limits of capture).
+> A genuine challenge for the schema-constructivist account of text-based PKBs is posed by [[embodied-cognition|Embodied Cognition]] research (Lakoff & Johnson, Varela, Thompson & Rosch): some schemas are not purely propositional but fundamentally embodied — grounded in sensorimotor experience in ways that text-based notes cannot fully capture or trigger. Skills, tacit knowledge, aesthetic judgments, and experientially grounded understanding may require non-textual schema-building practices that complement rather than compete with note-based PKB work. This connects directly to [[Report 22]] (tacit knowledge and the limits of capture).
 
 ---
 
@@ -498,42 +498,42 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Accommodation]]
-- [[Advance-Organizer|Advance Organizer]]
+- [[accommodation]]
+- [[advance-organizer|Advance Organizer]]
 - [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]
 - [[Charles-Reigeluth|Charles Reigeluth]]
 - [[Chess-Schemas|Chess Schemas]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Dataview]]
-- [[David-Ausubel|David Ausubel]]
+- [[david-ausubel|David Ausubel]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Embodied-Cognition|Embodied Cognition]]
+- [[embodied-cognition|Embodied Cognition]]
 - [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]]
 - [[Epitome]]
 - [[Evergreen-Notes]]
-- [[Frederic-Bartlett]]
-- [[Generation-Effect|Generation Effect]]
-- [[Germane-Cognitive-Load|Germane Cognitive Load]]
+- [[frederic-bartlett]]
+- [[generation-effect|Generation Effect]]
+- [[germane-cognitive-load|Germane Cognitive Load]]
 - [[Gertzog]]
 - [[Henry Roediger]]
 - [[Herbert-Simon]]
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 - [[interleaving]]
-- [[Jean-Piaget]]
-- [[John-Dewey|John Dewey]]
-- [[John-Sweller]]
+- [[jean-piaget]]
+- [[john-dewey|John Dewey]]
+- [[john-sweller]]
 - [[Knowledge Commons]]
 - [[Leslie Leslie]]
-- [[Lev-Vygotsky]]
+- [[lev-vygotsky]]
 - [[Marcy Recht]]
 - [[Mark McDaniel]]
 - [[Michelene Chi]]
@@ -541,14 +541,14 @@ extraction_summary:
 - [[Note Title A]]
 - [[Note Title B]]
 - [[Periodic Review]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[Personal Learning Networks]]
 - [[Peter Graf]]
 - [[Peter Pearson]]
 - [[Posner]]
 - [[pragmatism]]
 - [[Prior Elaboration Note]]
-- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[prior-knowledge-activation|Prior Knowledge Activation]]
 - [[Prior Knowledge Architecture]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report-02]]
@@ -564,70 +564,70 @@ extraction_summary:
 - [[Report 17]]
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 - [[Report 22]]
-- [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard-Anderson]]
+- [[retrieval-practice|Retrieval Practice]]
+- [[richard-anderson]]
 - [[Robert-Bjork]]
 - [[Robert Slamecka]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
+- [[schema-theory|Schema Theory]]
+- [[schema-progressive-architecture|Schema-Progressive Architecture]]
 - [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]
 - [[spaced-practice]]
 - [[Strike]]
-- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+- [[transfer-appropriate-processing|Transfer-Appropriate Processing]]
 - [[Transfer-Appropriate Processing and PKB Retrieval Design]]
-- [[Vygotsky]]
+- [[vygotsky]]
 - [[Vygotsky's ZPD]]
 - [[William Chase]]
-- [[Working-Memory|Working Memory]]
-- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
+- [[working-memory|Working Memory]]
+- [[zone-of-proximal-development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Wrong Theory at the Foundation | 75 |
-| 2 | [[Schema-Theory|Schema Theory]] | — | — | The Wrong Theory at the Foundation | 77 |
+| 1 | [[personal-knowledge-base|Personal Knowledge Base]] | — | — | The Wrong Theory at the Foundation | 75 |
+| 2 | [[schema-theory|Schema Theory]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 3 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Wrong Theory at the Foundation | 77 |
-| 4 | [[Constructivism]] | — | — | The Wrong Theory at the Foundation | 77 |
+| 4 | [[constructivism]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 5 | [[Educational-Philosophy|Educational Philosophy]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 6 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 7 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | The Wrong Theory at the Foundation | 77 |
-| 8 | [[Schema-Theory|Schema Theory]] | — | — | Why Three Disciplines Are Necessary | 85 |
-| 9 | [[Constructivism]] | — | — | Why Three Disciplines Are Necessary | 85 |
+| 8 | [[schema-theory|Schema Theory]] | — | — | Why Three Disciplines Are Necessary | 85 |
+| 9 | [[constructivism]] | — | — | Why Three Disciplines Are Necessary | 85 |
 | 10 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Why Three Disciplines Are Necessary | 85 |
-| 11 | [[Schema-Progressive-Architecture|Schema-Progressive Architecture]] | — | — | Scope and Roadmap | 91 |
+| 11 | [[schema-progressive-architecture|Schema-Progressive Architecture]] | — | — | Scope and Roadmap | 91 |
 | 12 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Scope and Roadmap | 93 |
 | 13 | [[Report 02: The Architecture of Learning]] | — | — | Scope and Roadmap | 93 |
 | 14 | [[Report-05]] | — | — | Scope and Roadmap | 93 |
 | 15 | [[Report 08]] | — | — | Scope and Roadmap | 93 |
 | 16 | [[Report 11]] | — | — | Scope and Roadmap | 93 |
 | 17 | [[Report 17]] | — | — | Scope and Roadmap | 93 |
-| 18 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
-| 19 | [[Frederic-Bartlett]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
+| 18 | [[schema-theory|Schema Theory]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
+| 19 | [[frederic-bartlett]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
 | 20 | [[David-Rumelhart|David Rumelhart]] | — | — | Schema Theory: The Cognitive Architec... | 109 |
-| 21 | [[Richard-Anderson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
+| 21 | [[richard-anderson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
 | 22 | [[Peter Pearson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
-| 23 | [[Constructivism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 24 | [[Jean-Piaget]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 25 | [[Lev-Vygotsky]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 26 | [[John-Dewey|John Dewey]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 23 | [[constructivism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 24 | [[jean-piaget]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 25 | [[lev-vygotsky]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 26 | [[john-dewey|John Dewey]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 27 | [[pragmatism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Constructivism: The Philosophy of Kno... | 128 |
+| 28 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | Constructivism: The Philosophy of Kno... | 128 |
 | 29 | [[Charles-Reigeluth|Charles Reigeluth]] | — | — | Elaboration Theory: Designing Knowled... | 137 |
 | 30 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Elaboration Theory: Designing Knowled... | 137 |
 | 31 | [[William Chase]] | — | — | The Evidence Landscape | 171 |
 | 32 | [[Herbert-Simon]] | — | — | The Evidence Landscape | 171 |
 | 33 | [[Chess-Schemas|Chess Schemas]] | — | — | The Evidence Landscape | 171 |
-| 34 | [[David-Ausubel|David Ausubel]] | — | — | The Evidence Landscape | 173 |
-| 35 | [[Advance-Organizer|Advance Organizer]] | — | — | The Evidence Landscape | 173 |
-| 36 | [[Prior-Knowledge-Activation|Prior Knowledge Activation]] | — | — | The Evidence Landscape | 175 |
+| 34 | [[david-ausubel|David Ausubel]] | — | — | The Evidence Landscape | 173 |
+| 35 | [[advance-organizer|Advance Organizer]] | — | — | The Evidence Landscape | 173 |
+| 36 | [[prior-knowledge-activation|Prior Knowledge Activation]] | — | — | The Evidence Landscape | 175 |
 | 37 | [[Marcy Recht]] | — | — | The Evidence Landscape | 175 |
 | 38 | [[Leslie Leslie]] | — | — | The Evidence Landscape | 175 |
-| 39 | [[John-Sweller]] | — | — | The Evidence Landscape | 181 |
-| 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Evidence Landscape | 181 |
+| 39 | [[john-sweller]] | — | — | The Evidence Landscape | 181 |
+| 40 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Evidence Landscape | 181 |
 | 41 | [[Report-02]] | — | — | The Evidence Landscape | 181 |
-| 42 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | The Evidence Landscape | 181 |
-| 43 | [[Generation-Effect|Generation Effect]] | — | — | The Evidence Landscape | 183 |
+| 42 | [[germane-cognitive-load|Germane Cognitive Load]] | — | — | The Evidence Landscape | 181 |
+| 43 | [[generation-effect|Generation Effect]] | — | — | The Evidence Landscape | 183 |
 | 44 | [[Robert Slamecka]] | — | — | The Evidence Landscape | 183 |
 | 45 | [[Peter Graf]] | — | — | The Evidence Landscape | 183 |
 | 46 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | The Evidence Landscape | 185 |
@@ -636,44 +636,44 @@ extraction_summary:
 | 49 | [[Hewson]] | — | — | The Evidence Landscape | 185 |
 | 50 | [[Gertzog]] | — | — | The Evidence Landscape | 185 |
 | 51 | [[Michelene Chi]] | — | — | The Evidence Landscape | 185 |
-| 52 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 191 |
+| 52 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 191 |
 | 53 | [[spaced-practice]] | — | — | The Evidence Landscape | 191 |
 | 54 | [[interleaving]] | — | — | The Evidence Landscape | 191 |
-| 55 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Evidence Landscape | 191 |
+| 55 | [[retrieval-practice|Retrieval Practice]] | — | — | The Evidence Landscape | 191 |
 | 56 | [[Robert-Bjork]] | — | — | The Evidence Landscape | 191 |
 | 57 | [[Henry Roediger]] | — | — | The Evidence Landscape | 191 |
 | 58 | [[Mark McDaniel]] | — | — | The Evidence Landscape | 191 |
-| 59 | [[Accommodation]] | — | — | The Core Mechanism: Schema-Directed C... | 225 |
-| 60 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Dynamic: Elaboration Cycles and S... | 237 |
-| 61 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
-| 62 | [[Working-Memory|Working Memory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
-| 63 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
+| 59 | [[accommodation]] | — | — | The Core Mechanism: Schema-Directed C... | 225 |
+| 60 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | The Dynamic: Elaboration Cycles and S... | 237 |
+| 61 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
+| 62 | [[working-memory|Working Memory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
+| 63 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
 | 64 | [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
 | 65 | [[Note Title]] | — | — | Design Principles Derived from the Sy... | 279 |
 | 66 | [[Note Title]] | — | — | Design Principles Derived from the Sy... | 280 |
 | 67 | [[Note Title A]] | — | — | Design Principles Derived from the Sy... | 281 |
 | 68 | [[Note Title B]] | — | — | Design Principles Derived from the Sy... | 281 |
 | 69 | [[Evergreen-Notes]] | — | — | Design Principles Derived from the Sy... | 288 |
-| 70 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Design Principles Derived from the Sy... | 294 |
+| 70 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Design Principles Derived from the Sy... | 294 |
 | 71 | [[Vygotsky's ZPD]] | — | — | Design Principles Derived from the Sy... | 294 |
 | 72 | [[Report-06]] | — | — | Design Principles Derived from the Sy... | 298 |
 | 73 | [[Dataview]] | — | — | Practical Implementation in Obsidian | 308 |
 | 74 | [[Periodic Review]] | — | — | Practical Implementation in Obsidian | 312 |
 | 75 | [[Personal Learning Networks]] | — | — | Limitations and Honest Boundaries | 320 |
 | 76 | [[Knowledge Commons]] | — | — | Limitations and Honest Boundaries | 320 |
-| 77 | [[Schema-Theory|Schema Theory]] | — | — | Assembling the Cross-Domain Picture | 340 |
-| 78 | [[Constructivism]] | — | — | Assembling the Cross-Domain Picture | 340 |
+| 77 | [[schema-theory|Schema Theory]] | — | — | Assembling the Cross-Domain Picture | 340 |
+| 78 | [[constructivism]] | — | — | Assembling the Cross-Domain Picture | 340 |
 | 79 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Assembling the Cross-Domain Picture | 340 |
 | 80 | [[Epitome]] | — | — | The Central Question Revisited | 366 |
 | 81 | [[Prior Elaboration Note]] | — | — | The Central Question Revisited | 366 |
 | 82 | [[Report 08]] | — | — | Unresolved Questions | 377 |
 | 83 | [[Report 15]] | — | — | Unresolved Questions | 377 |
 | 84 | [[Report 22]] | — | — | Unresolved Questions | 377 |
-| 85 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
-| 86 | [[Constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
+| 85 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
+| 86 | [[constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 87 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
-| 88 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 393 |
-| 89 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
+| 88 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 393 |
+| 89 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 90 | [[Report 02: The Architecture of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 91 | [[Prior Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 397 |
 | 92 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 397 |
@@ -684,14 +684,14 @@ extraction_summary:
 | 97 | [[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]] | — | — | D. Expansion Topics | 500 |
 | 98 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | D. Expansion Topics | 501 |
 | 99 | [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]] | — | — | D. Expansion Topics | 503 |
-| 100 | [[David-Ausubel|David Ausubel]] | — | — | D. Expansion Topics | 504 |
+| 100 | [[david-ausubel|David Ausubel]] | — | — | D. Expansion Topics | 504 |
 | 101 | [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]] | — | — | D. Expansion Topics | 506 |
-| 102 | [[Vygotsky]] | — | — | D. Expansion Topics | 507 |
+| 102 | [[vygotsky]] | — | — | D. Expansion Topics | 507 |
 | 103 | [[Transfer-Appropriate Processing and PKB Retrieval Design]] | — | — | D. Expansion Topics | 509 |
-| 104 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | D. Expansion Topics | 510 |
+| 104 | [[transfer-appropriate-processing|Transfer-Appropriate Processing]] | — | — | D. Expansion Topics | 510 |
 | 105 | [[Report-06]] | — | — | D. Expansion Topics | 510 |
 | 106 | [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]] | — | — | D. Expansion Topics | 512 |
-| 107 | [[Embodied-Cognition|Embodied Cognition]] | — | — | D. Expansion Topics | 513 |
+| 107 | [[embodied-cognition|Embodied Cognition]] | — | — | D. Expansion Topics | 513 |
 | 108 | [[Report 22]] | — | — | D. Expansion Topics | 513 |
 | 109 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | D. Expansion Topics | 519 |
 | 110 | [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]] | — | — | D. Expansion Topics | 520 |
@@ -739,42 +739,42 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Accommodation]]
-- [[Advance-Organizer|Advance Organizer]]
+- [[accommodation]]
+- [[advance-organizer|Advance Organizer]]
 - [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]
 - [[Charles-Reigeluth|Charles Reigeluth]]
 - [[Chess-Schemas|Chess Schemas]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]]
-- [[Constructivism]]
+- [[constructivism]]
 - [[Dataview]]
-- [[David-Ausubel|David Ausubel]]
+- [[david-ausubel|David Ausubel]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[desirable-difficulties|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[Embodied-Cognition|Embodied Cognition]]
+- [[embodied-cognition|Embodied Cognition]]
 - [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]]
 - [[Epitome]]
 - [[Evergreen-Notes]]
-- [[Frederic-Bartlett]]
-- [[Generation-Effect|Generation Effect]]
-- [[Germane-Cognitive-Load|Germane Cognitive Load]]
+- [[frederic-bartlett]]
+- [[generation-effect|Generation Effect]]
+- [[germane-cognitive-load|Germane Cognitive Load]]
 - [[Gertzog]]
 - [[Henry Roediger]]
 - [[Herbert-Simon]]
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 - [[interleaving]]
-- [[Jean-Piaget]]
-- [[John-Dewey|John Dewey]]
-- [[John-Sweller]]
+- [[jean-piaget]]
+- [[john-dewey|John Dewey]]
+- [[john-sweller]]
 - [[Knowledge Commons]]
 - [[Leslie Leslie]]
-- [[Lev-Vygotsky]]
+- [[lev-vygotsky]]
 - [[Marcy Recht]]
 - [[Mark McDaniel]]
 - [[Michelene Chi]]
@@ -782,14 +782,14 @@ extraction_summary:
 - [[Note Title A]]
 - [[Note Title B]]
 - [[Periodic Review]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[Personal Learning Networks]]
 - [[Peter Graf]]
 - [[Peter Pearson]]
 - [[Posner]]
 - [[pragmatism]]
 - [[Prior Elaboration Note]]
-- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[prior-knowledge-activation|Prior Knowledge Activation]]
 - [[Prior Knowledge Architecture]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report-02]]
@@ -805,22 +805,22 @@ extraction_summary:
 - [[Report 17]]
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 - [[Report 22]]
-- [[Retrieval-Practice|Retrieval Practice]]
-- [[Richard-Anderson]]
+- [[retrieval-practice|Retrieval Practice]]
+- [[richard-anderson]]
 - [[Robert-Bjork]]
 - [[Robert Slamecka]]
-- [[Schema-Theory|Schema Theory]]
-- [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
+- [[schema-theory|Schema Theory]]
+- [[schema-progressive-architecture|Schema-Progressive Architecture]]
 - [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]
 - [[spaced-practice]]
 - [[Strike]]
-- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+- [[transfer-appropriate-processing|Transfer-Appropriate Processing]]
 - [[Transfer-Appropriate Processing and PKB Retrieval Design]]
-- [[Vygotsky]]
+- [[vygotsky]]
 - [[Vygotsky's ZPD]]
 - [[William Chase]]
-- [[Working-Memory|Working Memory]]
-- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
+- [[working-memory|Working Memory]]
+- [[zone-of-proximal-development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
 
@@ -831,21 +831,21 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[Constructivism]]
-- [[Schema-Theory|Schema Theory]]
+- [[constructivism]]
+- [[schema-theory|Schema Theory]]
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Piaget]]
-- [[Vygotsky]]
+- [[vygotsky]]
 - [[Dewey]]
-- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
-- [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
+- [[zone-of-proximal-development|Zone of Proximal Development]]
+- [[assimilation-and-accommodation|Assimilation and Accommodation]]
 - [[Reigeluth]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[Note Linking Philosophy]]
 - [[Progressive Note Development]]
 - [[Knowledge Scaffolding]]
-- [[Prior-Knowledge]]
-- [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
+- [[prior-knowledge]]
+- [[schema-progressive-architecture|Schema-Progressive Architecture]]
 
 ---
 

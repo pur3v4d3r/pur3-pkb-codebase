@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +44,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,48 +68,48 @@ narrower:
   []
 
 see-also:
-  - "[[Cognitive-Architecture]]"
-  - "[[Working-Memory]]"
-  - "[[Hermann-Ebbinghaus]]"
-  - "[[Frederic-Bartlett]]"
-  - "[[Endel-Tulving]]"
-  - "[[Larry-Squire]]"
-  - "[[Declarative-Memory]]"
-  - "[[Non-Declarative-Memory]]"
-  - "[[Episodic-Memory]]"
-  - "[[Semantic-Memory]]"
-  - "[[Hippocampus]]"
-  - "[[Memory-Consolidation]]"
-  - "[[Schema-Theory]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Spaced-Repetition]]"
-  - "[[Retrieval-Practice]]"
-  - "[[Elaborative-Interrogation]]"
-  - "[[Working-Memory]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[cognitive-architecture|Cognitive-Architecture]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[hermann-ebbinghaus|Hermann-Ebbinghaus]]"
+  - "[[frederic-bartlett|Frederic-Bartlett]]"
+  - "[[endel-tulving|Endel-Tulving]]"
+  - "[[larry-squire|Larry-Squire]]"
+  - "[[declarative-memory|Declarative-Memory]]"
+  - "[[non-declarative-memory|Non-Declarative-Memory]]"
+  - "[[episodic-memory|Episodic-Memory]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[hippocampus|Hippocampus]]"
+  - "[[memory-consolidation|Memory-Consolidation]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[spaced-repetition|Spaced-Repetition]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
+  - "[[elaborative-interrogation|Elaborative-Interrogation]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Atkinson-Shiffrin-Multi-Store-Model]]"
-  - "[[Levels-of-Processing-Theory]]"
+  - "[[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-emerge-from-the-analysis-in-this-report-as-high-priority-ca|The following topics emerge from the analysis in this report as high-priority candidates for further]]"
+  - topic: "[[The following topics emerge from the analysis in this report as high-priority candidates for further]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-focused-investigation-of-the-neural-mechanisms-by-which-sleep-cont|**Description:** A focused investigation of the neural mechanisms by which sleep contributes to memo]]"
+  - topic: "[[**Description:** A focused investigation of the neural mechanisms by which sleep contributes to memo]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-comprehensive-examination-of-the-mechanisms-by-which-entirely-fals|**Description:** A comprehensive examination of the mechanisms by which entirely false memories can ]]"
+  - topic: "[[**Description:** A comprehensive examination of the mechanisms by which entirely false memories can ]]"
     description: ""
     priority: medium
-  - topic: "[[Description-An-investigation-of-metamemory-—-knowledge-about-one's-own-memory-pr|**Description:** An investigation of metamemory — knowledge about one's own memory processes, includ]]"
+  - topic: "[[**Description:** An investigation of metamemory — knowledge about one's own memory processes, includ]]"
     description: ""
     priority: medium
 
@@ -128,7 +128,7 @@ importance: high
 > 
 > **Boundary:** Forgetting must be distinguished from the failure to encode in the first place. Information that was never adequately attended to or processed cannot be "forgotten" in any meaningful sense; it was simply never acquired. The common complaint of "forgetting" a person's name often reflects shallow encoding rather than genuine retrieval failure.
 > 
-> **See also:** [[Forgetting-Curve]], [[Interference-Theory]], [[Cue-Dependent-Forgetting]], [[Retrieval-Induced-Forgetting]]
+> **See also:** [[Forgetting-Curve]], [[Interference-Theory]], [[Cue-Dependent-Forgetting]], [[retrieval-induced-forgetting]]
 
 ## Core Explanation
 
@@ -163,19 +163,19 @@ importance: high
 > Articulated the encoding specificity principle — that retrieval cue effectiveness depends on the degree of match with encoding context. Foundational for Sections III and VI.
 
 > [!analytical-insight] Key Insight *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> The most architecturally significant feature of the human memory system is the stark asymmetry between the limited processing capacity of working memory and the effectively unlimited storage capacity of long-term memory. [[George-Miller|George Miller's]] classic 1956 estimate of [[Miller's-Magical-Number-Seven|7 ± 2 items]] as the span of immediate apprehension (later revised downward by [[Nelson-Cowan|Cowan]] to approximately 4 items) describes a bottleneck through which all information must…
+> The most architecturally significant feature of the human memory system is the stark asymmetry between the limited processing capacity of working memory and the effectively unlimited storage capacity of long-term memory. [[george-miller|George Miller's]] classic 1956 estimate of [[Miller's-Magical-Number-Seven|7 ± 2 items]] as the span of immediate apprehension (later revised downward by [[Nelson-Cowan|Cowan]] to approximately 4 items) describes a bottleneck through which all information must…
 
 > [!analytical-insight] Key Insight *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> Among the most practically significant encoding phenomena is the [[Generation-Effect|generation effect]]: information that the learner actively generates — by completing a word fragment, answering a question, solving a problem, or producing an inference — is retained substantially better than information that is merely read, heard, or otherwise passively received. The generation effect is robust across materials, age groups, and testing conditions, and it provides one of the strongest empirical…
+> Among the most practically significant encoding phenomena is the [[generation-effect|generation effect]]: information that the learner actively generates — by completing a word fragment, answering a question, solving a problem, or producing an inference — is retained substantially better than information that is merely read, heard, or otherwise passively received. The generation effect is robust across materials, age groups, and testing conditions, and it provides one of the strongest empirical…
 
 > [!analytical-insight] Key Insight *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> For knowledge domains of any complexity, the unit of long-term storage is not the isolated fact or association but the [[Schema-Theory|schema]] — an organized knowledge structure that represents the typical features, relationships, and sequences associated with a category of experience. Schemas, a concept with roots in [[Frederic-Bartlett|Bartlett's]] 1932 work and systematically developed by [[David-Rumelhart|Rumelhart]] and others in the 1970s and 1980s, serve multiple functions: they guide…
+> For knowledge domains of any complexity, the unit of long-term storage is not the isolated fact or association but the [[schema-theory|schema]] — an organized knowledge structure that represents the typical features, relationships, and sequences associated with a category of experience. Schemas, a concept with roots in [[frederic-bartlett|Bartlett's]] 1932 work and systematically developed by [[David-Rumelhart|Rumelhart]] and others in the 1970s and 1980s, serve multiple functions: they guide…
 
 > [!analytical-insight] Key Insight *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> One of the most important discoveries of contemporary memory research is that retrieval is not a neutral process that leaves the retrieved memory unchanged. The act of retrieving a memory alters that memory — typically strengthening the retrieved trace while simultaneously inhibiting competing, non-retrieved traces. This phenomenon, known as [[Retrieval-Induced-Forgetting|retrieval-induced forgetting]], means that the selective retrieval of some memories from a set comes at the cost of reduced…
+> One of the most important discoveries of contemporary memory research is that retrieval is not a neutral process that leaves the retrieved memory unchanged. The act of retrieving a memory alters that memory — typically strengthening the retrieved trace while simultaneously inhibiting competing, non-retrieved traces. This phenomenon, known as [[retrieval-induced-forgetting|retrieval-induced forgetting]], means that the selective retrieval of some memories from a set comes at the cost of reduced…
 
 > [!analytical-insight] Key Insight *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> [[Robert-Bjork|Robert Bjork's]] concept of [[Desirable-Difficulties|desirable difficulties]] provides the overarching theoretical framework for understanding why effortful learning tends to be durable learning. A desirable difficulty is any encoding or retrieval condition that imposes additional cognitive effort during learning but that, precisely because of that effort, produces stronger and more flexible long-term memory representations. The key desirable difficulties supported by extensive…
+> [[Robert-Bjork|Robert Bjork's]] concept of [[desirable-difficulties|desirable difficulties]] provides the overarching theoretical framework for understanding why effortful learning tends to be durable learning. A desirable difficulty is any encoding or retrieval condition that imposes additional cognitive effort during learning but that, precisely because of that effort, produces stronger and more flexible long-term memory representations. The key desirable difficulties supported by extensive…
 
 ## Practical Implications
 
@@ -194,20 +194,20 @@ importance: high
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Hermann Ebbinghaus (1850–1909)** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> German psychologist; pioneer of the experimental study of memory. Using himself as subject and nonsense syllables as material, Ebbinghaus established the [[Forgetting-Curve|forgetting curve]], the [[Spacing-Effect|spacing effect]], and the [[Learning-Curve|learning curve]] — three of the most fundamental regularities in memory research. His 1885 monograph *Über das Gedächtnis* inaugurated the quantitative, laboratory-based tradition of memory research.
+> German psychologist; pioneer of the experimental study of memory. Using himself as subject and nonsense syllables as material, Ebbinghaus established the [[Forgetting-Curve|forgetting curve]], the [[spacing-effect|spacing effect]], and the [[Learning-Curve|learning curve]] — three of the most fundamental regularities in memory research. His 1885 monograph *Über das Gedächtnis* inaugurated the quantitative, laboratory-based tradition of memory research.
 > **Key work:** *Über das Gedächtnis* (1885).
 
 > [!person] **Frederic Bartlett (1886–1969)** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> British psychologist; Cambridge professor who pioneered the study of [[Reconstructive-Memory|reconstructive memory]]. Bartlett demonstrated that remembering is an active, constructive process shaped by the rememberer's schemas, expectations, and cultural frameworks. His 1932 *Remembering* directly opposed the Ebbinghaus tradition's emphasis on verbatim retention, introducing the concept of the schema and establishing the constructive paradigm.
+> British psychologist; Cambridge professor who pioneered the study of [[reconstructive-memory|reconstructive memory]]. Bartlett demonstrated that remembering is an active, constructive process shaped by the rememberer's schemas, expectations, and cultural frameworks. His 1932 *Remembering* directly opposed the Ebbinghaus tradition's emphasis on verbatim retention, introducing the concept of the schema and establishing the constructive paradigm.
 > **Key work:** *Remembering: A Study in Experimental and Social Psychology* (1932).
 > **Relationship:** Intellectual counterpoint to Ebbinghaus;…
 
 > [!person] **Endel Tulving (1927–2023)** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> Estonian-Canadian cognitive psychologist; developed the distinction between [[Episodic-Memory|episodic]] and [[Semantic-Memory|semantic memory]] (1972), the [[Encoding-Specificity-Principle|encoding specificity principle]] (1973), and the concept of autonoetic consciousness. Tulving's taxonomic contributions provided the conceptual framework for the modern multiple memory systems approach.
+> Estonian-Canadian cognitive psychologist; developed the distinction between [[episodic-memory|episodic]] and [[semantic-memory|semantic memory]] (1972), the [[encoding-specificity-principle|encoding specificity principle]] (1973), and the concept of autonoetic consciousness. Tulving's taxonomic contributions provided the conceptual framework for the modern multiple memory systems approach.
 > **Key works:** *Elements of Episodic Memory* (1983); "Episodic and semantic memory" (1972).
 
 > [!person] **Larry Squire (b. 1941)** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> American neuroscientist; developed the most widely cited hierarchical taxonomy of long-term memory systems, integrating evidence from human amnesia, animal lesion studies, and neuroimaging. With colleagues, articulated the [[Standard-Model-of-Consolidation|standard model of consolidation]] and the distinction between [[Declarative-Memory|declarative]] and [[Non-Declarative-Memory|non-declarative]] memory.
+> American neuroscientist; developed the most widely cited hierarchical taxonomy of long-term memory systems, integrating evidence from human amnesia, animal lesion studies, and neuroimaging. With colleagues, articulated the [[Standard-Model-of-Consolidation|standard model of consolidation]] and the distinction between [[declarative-memory|declarative]] and [[non-declarative-memory|non-declarative]] memory.
 > **Key work:** *Memory and Brain* (1987).
 > **Relationship:** Extended Tulving's taxonomy with neurobiological grounding.
 
@@ -217,12 +217,12 @@ importance: high
 > **Relationship:** Intellectual descendant of Bartlett's constructive memory tradition.
 
 > [!person] **Robert Bjork (b. 1939)** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> American cognitive psychologist; developed the [[Desirable-Difficulties|desirable difficulties]] framework and (with Elizabeth Bjork) the "new theory of disuse," distinguishing storage strength from retrieval strength. His work provides the theoretical foundation for evidence-based learning strategies including spacing, interleaving, and retrieval practice.
+> American cognitive psychologist; developed the [[desirable-difficulties|desirable difficulties]] framework and (with Elizabeth Bjork) the "new theory of disuse," distinguishing storage strength from retrieval strength. His work provides the theoretical foundation for evidence-based learning strategies including spacing, interleaving, and retrieval practice.
 > **Key works:** "Memory and metamemory considerations in the training of human beings" (1994); numerous papers on spacing, interleaving, and retrieval.
 > **Relationship:** Extended and applied the spacing effect first documented by Ebbinghaus.
 
 > [!person] **Donald Hebb (1904–1985)** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> Canadian neuropsychologist; proposed the principle now known as [[Hebb's-rule|Hebb's rule]] — that neurons that repeatedly fire together strengthen their connections — providing the foundational theory for [[Synaptic-Consolidation|synaptic consolidation]] and [[Long-Term-Potentiation|long-term potentiation]]. His 1949 *The Organization of Behavior* laid the conceptual groundwork for modern computational neuroscience.
+> Canadian neuropsychologist; proposed the principle now known as [[Hebb's-rule|Hebb's rule]] — that neurons that repeatedly fire together strengthen their connections — providing the foundational theory for [[synaptic-consolidation|synaptic consolidation]] and [[Long-Term-Potentiation|long-term potentiation]]. His 1949 *The Organization of Behavior* laid the conceptual groundwork for modern computational neuroscience.
 > **Key work:** *The Organization of Behavior* (1949).
 
 ## Conceptual Tensions
@@ -249,7 +249,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[long-term-memory-foundational-report-2026-04-16]])*
 > 1. What would it mean for our understanding of expertise if procedural memory and declarative memory were shown to be more deeply interdependent than the taxonomic framework suggests?
-> 2. How does the process of "semanticization" — the extraction of general knowledge from particular episodes — relate to the formation of [[Schema|schemas]] in [[Schema-Theory|schema theory]]?
+> 2. How does the process of "semanticization" — the extraction of general knowledge from particular episodes — relate to the formation of [[schema|schemas]] in [[schema-theory|schema theory]]?
 
 > [!reflection] **Reflect** *(from [[long-term-memory-foundational-report-2026-04-16]])*
 > 1. How might the encoding-retrieval asymmetry — the mismatch between what feels effective and what actually works — apply to your own study or learning practices?
@@ -278,7 +278,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge: Connecting to What You Already Know** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> If you have encountered the distinction between [[Working-Memory|working memory]] and [[Long-Term-Memory|long-term memory]] — perhaps through [[Cognitive-Load-Theory|cognitive load theory]] or the [[Atkinson-Shiffrin-Multi-Store-Model|Atkinson-Shiffrin multi-store model]] — you already possess a foundational schema for understanding memory as a multi-component system. This report deepens that understanding considerably. Where introductory treatments often present long-term memory as a uniform storage facility, the analysis that follows reveals it to be a constellation of functionally and…
+> If you have encountered the distinction between [[working-memory|working memory]] and [[long-term-memory|long-term memory]] — perhaps through [[cognitive-load-theory|cognitive load theory]] or the [[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin multi-store model]] — you already possess a foundational schema for understanding memory as a multi-component system. This report deepens that understanding considerably. Where introductory treatments often present long-term memory as a uniform storage facility, the analysis that follows reveals it to be a constellation of functionally and…
 
 ## Far Transfer Applications
 
@@ -286,13 +286,13 @@ importance: high
 > The architecture of artificial neural networks — particularly the distinction between short-term activation patterns and long-term weight changes, the problem of catastrophic forgetting (the tendency of neural networks to lose previously learned information when trained on new data), and the development of complementary learning systems models — recapitulates many of the structural features of human long-term memory. The [[Standard-Model-of-Consolidation|standard model of consolidation]], with its distinction between a fast-learning hippocampal system and a slow-learning neocortical system,…
 
 > [!far-transfer] **Legal Epistemology: Eyewitness Testimony and the Construction of Evidence** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> The findings on [[Reconstructive-Memory|reconstructive memory]], the [[Misinformation-Effect|misinformation effect]], and schema-driven distortion have direct and urgent implications for the legal system, which historically treated eyewitness testimony as among the most probative forms of evidence. The work of [[Elizabeth-Loftus|Elizabeth Loftus]] and others has demonstrated that confident, detailed, and compelling eyewitness accounts can be entirely or substantially false — not because the witness is lying, but because the memory has been genuinely altered by post-event suggestion, leading…
+> The findings on [[reconstructive-memory|reconstructive memory]], the [[Misinformation-Effect|misinformation effect]], and schema-driven distortion have direct and urgent implications for the legal system, which historically treated eyewitness testimony as among the most probative forms of evidence. The work of [[Elizabeth-Loftus|Elizabeth Loftus]] and others has demonstrated that confident, detailed, and compelling eyewitness accounts can be entirely or substantially false — not because the witness is lying, but because the memory has been genuinely altered by post-event suggestion, leading…
 
 > [!far-transfer] **Organizational Knowledge Management: Institutional Memory** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> The principles of individual long-term memory map provocatively onto the challenges of organizational knowledge management — the problem of how institutions preserve, organize, retrieve, and transmit what they collectively "know." The distinction between [[Declarative-Memory|declarative]] and [[Procedural-Memory|procedural]] memory finds its organizational analogue in the distinction between explicit knowledge (documented policies, databases, manuals) and tacit knowledge (embodied expertise, cultural norms, informal practices). The phenomenon of [[Interference-Theory|interference]] maps onto…
+> The principles of individual long-term memory map provocatively onto the challenges of organizational knowledge management — the problem of how institutions preserve, organize, retrieve, and transmit what they collectively "know." The distinction between [[declarative-memory|declarative]] and [[procedural-memory|procedural]] memory finds its organizational analogue in the distinction between explicit knowledge (documented policies, databases, manuals) and tacit knowledge (embodied expertise, cultural norms, informal practices). The phenomenon of [[Interference-Theory|interference]] maps onto…
 
 > [!far-transfer] **Personal Knowledge Management and PKB Design** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> For the practitioner of [[Personal-Knowledge-Management|personal knowledge management]] — the individual who maintains a personal knowledge base, a Zettelkasten, or a digital garden — the principles of long-term memory provide a scientific foundation for design decisions that are often made intuitively. The spacing effect argues for review systems with expanding intervals ([[Spaced-Repetition|spaced repetition]]). The generation effect and [[Retrieval-Practice|retrieval practice]] argue for active note-making rather than passive highlighting. [[Schema-Theory|Schema theory]] argues for the…
+> For the practitioner of [[personal-knowledge-management|personal knowledge management]] — the individual who maintains a personal knowledge base, a Zettelkasten, or a digital garden — the principles of long-term memory provide a scientific foundation for design decisions that are often made intuitively. The spacing effect argues for review systems with expanding intervals ([[spaced-repetition|spaced repetition]]). The generation effect and [[retrieval-practice|retrieval practice]] argue for active note-making rather than passive highlighting. [[schema-theory|Schema theory]] argues for the…
 
 ## Concrete Examples
 
@@ -311,7 +311,7 @@ importance: high
 > What emerges from this architectural overview is a picture of long-term memory not merely as a storage system but as the *epistemic infrastructure* of the mind. It is the system through which the past becomes usable in the present — through which particular experiences are generalized into categories, episodes are organized into narrative, and isolated facts are woven into the interconnected web of understanding that constitutes knowledge. The capacity limitations of working memory mean that virtually everything the mind can do beyond the processing of immediate sensation depends upon the…
 
 > [!claude-insight] **Episodic-Semantic Interaction as a Knowledge Engine** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> One of the most underappreciated features of the episodic-semantic distinction is the dynamic relationship between the two systems. [[Episodic-Memory|Episodic memory]] does not merely store autobiographical episodes in perpetuity; it serves as a kind of cognitive laboratory from which [[Semantic-Memory|semantic knowledge]] is gradually extracted. The child who remembers several specific experiences of being corrected for grammatical errors eventually abstracts a general rule of grammar — an item of semantic knowledge — from these particular episodes. This extraction process, sometimes called…
+> One of the most underappreciated features of the episodic-semantic distinction is the dynamic relationship between the two systems. [[episodic-memory|Episodic memory]] does not merely store autobiographical episodes in perpetuity; it serves as a kind of cognitive laboratory from which [[semantic-memory|semantic knowledge]] is gradually extracted. The child who remembers several specific experiences of being corrected for grammatical errors eventually abstracts a general rule of grammar — an item of semantic knowledge — from these particular episodes. This extraction process, sometimes called…
 
 > [!claude-insight] **The Encoding-Retrieval Asymmetry as a Pedagogical Design Principle** *(from [[long-term-memory-foundational-report-2026-04-16]])*
 > Taken together, the evidence on encoding suggests a paradox that has substantial implications for educational practice: the conditions that *feel* most effective to the learner at the time of study are often the conditions that produce the *worst* long-term retention, and vice versa. Rereading a text produces a fluent, subjectively satisfying experience that reliably generates overconfident judgments of learning, yet it is among the weakest encoding strategies available. Retrieval practice, generation, and interleaving feel effortful and uncertain — learners often judge them as ineffective —…
@@ -323,7 +323,7 @@ importance: high
 > The evidence reviewed in this section points toward a view of memory storage that is fundamentally different from the commonsense intuition of a stable archive. If memories are distributed across neural networks, organized by schemas, and subject to continuous consolidation-driven transformation, then "storage" is not a state but a process — an ongoing, dynamic activity of maintaining, reorganising, and reinterpreting representational patterns. Every time a schema is updated by new experience, the memories organised within it are subtly altered. Every time a memory is reactivated and…
 
 > [!claude-insight] **The Metacognitive Paradox of Effective Learning** *(from [[long-term-memory-foundational-report-2026-04-16]])*
-> A recurring theme across all evidence-based learning strategies is the metacognitive paradox: the strategies that produce the best long-term learning are precisely those that feel the worst during the learning process. Spacing makes review feel rusty. Retrieval practice makes errors salient. Interleaving makes each problem feel harder. Generation makes study feel slower. And yet each of these subjectively unpleasant experiences is producing the effortful processing that strengthens long-term memory traces. The practical consequence is that [[Metacognition|metacognitive]] monitoring — the…
+> A recurring theme across all evidence-based learning strategies is the metacognitive paradox: the strategies that produce the best long-term learning are precisely those that feel the worst during the learning process. Spacing makes review feel rusty. Retrieval practice makes errors salient. Interleaving makes each problem feel harder. Generation makes study feel slower. And yet each of these subjectively unpleasant experiences is producing the effortful processing that strengthens long-term memory traces. The practical consequence is that [[metacognition|metacognitive]] monitoring — the…
 
 ## Section Summaries
 
@@ -461,13 +461,13 @@ importance: high
 > **Step 1: Encode deeply**
 > - Process material for meaning, not surface features. Ask "why" and "how" questions.
 > - Generate explanations in your own words rather than re-reading source material.
-> - Use [[Dual-Coding-Theory|dual coding]]: combine verbal explanations with visual representations.
+> - Use [[dual-coding-theory|dual coding]]: combine verbal explanations with visual representations.
 > - Activate relevant schemas by linking new material to prior knowledge.
 > 
 > **Step 2: Space your practice**
 > - Distribute study sessions across multiple days rather than massing them in a single session.
 > - Use expanding retrieval intervals: review after 1 day, then 3 days, then 7, then 14, then 30.
-> - Implement [[Spaced-Repetition|spaced repetition]] software (e.g., Anki) for…
+> - Implement [[spaced-repetition|spaced repetition]] software (e.g., Anki) for…
 
 ## Visual Representations
 
@@ -530,19 +530,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[long-term-memory-foundational-report-2026-04-16]])*:
-- [[Cognitive-Architecture]]
-- [[Neuroscience-of-Learning]]
-- [[Epistemology]]
-- [[Research-Methods-in-Psychology]]
+- [[cognitive-architecture|Cognitive-Architecture]]
+- [[neuroscience-of-learning|Neuroscience-of-Learning]]
+- [[epistemology|Epistemology]]
+- [[research-methods-in-psychology|Research-Methods-in-Psychology]]
 - [[philosophy-of-mind]]
-- [[Evidence-Based-Learning-Strategies]]
-- [[Personal-Knowledge-Management]]
-- [[Instructional-Design]]
-- [[Cognitive-Load-Theory]]
-- [[Self-Regulated-Learning]]
+- [[evidence-based-learning-strategies|Evidence-Based-Learning-Strategies]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[instructional-design|Instructional-Design]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
 
 **Related concepts:**
-[[Cognitive-Architecture]] · [[Working-Memory]] · [[Hermann-Ebbinghaus]] · [[Frederic-Bartlett]] · [[Endel-Tulving]] · [[Larry-Squire]] · [[Declarative-Memory]] · [[Non-Declarative-Memory]] · [[Episodic-Memory]] · [[Semantic-Memory]] · [[Hippocampus]] · [[Memory-Consolidation]] · [[Schema-Theory]] · [[Personal-Knowledge-Management]] · [[Spaced-Repetition]] · [[Retrieval-Practice]] · [[Elaborative-Interrogation]] · [[Working-Memory]] · [[Long-Term-Memory]] · [[Cognitive-Load-Theory]] · [[Atkinson-Shiffrin-Multi-Store-Model]] · [[Schema-Theory]] · [[Levels-of-Processing-Theory]] · [[Spacing-Effect]] · [[Long-Term-Memory]] · [[Long-Term-Memory]] · [[Short-Term-Memory]] · [[Working-Memory]] · [[Sensory-Memory]] · [[Working-Memory]]
+[[cognitive-architecture|Cognitive-Architecture]] · [[working-memory|Working-Memory]] · [[hermann-ebbinghaus|Hermann-Ebbinghaus]] · [[frederic-bartlett|Frederic-Bartlett]] · [[endel-tulving|Endel-Tulving]] · [[larry-squire|Larry-Squire]] · [[declarative-memory|Declarative-Memory]] · [[non-declarative-memory|Non-Declarative-Memory]] · [[episodic-memory|Episodic-Memory]] · [[semantic-memory|Semantic-Memory]] · [[hippocampus|Hippocampus]] · [[memory-consolidation|Memory-Consolidation]] · [[schema-theory|Schema-Theory]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[spaced-repetition|Spaced-Repetition]] · [[retrieval-practice|Retrieval-Practice]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin-Multi-Store-Model]] · [[schema-theory|Schema-Theory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[spacing-effect|Spacing-Effect]] · [[long-term-memory|Long-Term-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[short-term-memory|Short-Term-Memory]] · [[working-memory|Working-Memory]] · [[sensory-memory|Sensory-Memory]] · [[working-memory|Working-Memory]]
 
 ## References
 

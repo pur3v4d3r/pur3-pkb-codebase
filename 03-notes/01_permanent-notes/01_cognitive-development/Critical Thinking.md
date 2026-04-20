@@ -21,23 +21,23 @@ link-up:
 link-related:
   - "[[2025-11-15|Daily-Note]]"
   - "[[permeant-note_moc]]"
-  - "[[Metacognition]]"
-  - "[[Andragogy]]"
-  - "[[Constructivism]]"
+  - "[[metacognition]]"
+  - "[[andragogy]]"
+  - "[[constructivism]]"
   - "[[Constructivist Learning]]"
-  - "[[Critical-Thinking]]"
-  - "[[Educational-Psychology]]"
+  - "[[critical-thinking]]"
+  - "[[educational-psychology]]"
   - "[[Information-Theory]]"
-  - "[[Instructional-Design]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
+  - "[[instructional-design]]"
+  - "[[metacognitive-knowledge]]"
+  - "[[metacognitive-regulation]]"
   - "[[schemas]]"
   - "[[Self Behavioral Management]]"
-  - "[[Self-Directed-Learning]]"
-  - "[[Self-Regulated-Learning]]"
+  - "[[self-directed-learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Self-Regulation-Theory]]"
   - "[[System Building]]"
-  - "[[Zone-of-Proximal-Development]]"
+  - "[[zone-of-proximal-development]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -53,7 +53,7 @@ review-priority: medium
 # Critical Thinking
 
 > [!definition]
-> - **Key-Term**:[[Critical-Thinking]]
+> - **Key-Term**:[[critical-thinking]]
 > - [**Definition**:Purposeful, self-regulatory judgment" involving interpretation, analysis, evaluation, inference, explanation, and self-regulation.]
 
 > [!key]
@@ -63,7 +63,7 @@ review-priority: medium
 > [!key-claim]
 > # **Metacognition provides the psychological infrastructure for critical thinking**
 > 
-> While [[Critical-Thinking]] frameworks specify *what* skilled thinking looks like—the standards, dispositions, and cognitive operations characterizing effective reasoning—they rarely explain *how* thinkers achieve these standards psychologically. Metacognition answers this question: critical thinking emerges when metacognitive awareness and regulation are deployed specifically toward evaluating reasoning quality, assessing evidence, identifying assumptions, and detecting fallacies.
+> While [[critical-thinking]] frameworks specify *what* skilled thinking looks like—the standards, dispositions, and cognitive operations characterizing effective reasoning—they rarely explain *how* thinkers achieve these standards psychologically. Metacognition answers this question: critical thinking emerges when metacognitive awareness and regulation are deployed specifically toward evaluating reasoning quality, assessing evidence, identifying assumptions, and detecting fallacies.
 > > [!evidence]
 > > **Interpretation** requires metacognitive awareness to recognize when understanding remains incomplete, prompting clarification-seeking. Without monitoring comprehension accuracy, thinkers mistake their interpretation for objective meaning, failing to consider alternative readings.
 > > 

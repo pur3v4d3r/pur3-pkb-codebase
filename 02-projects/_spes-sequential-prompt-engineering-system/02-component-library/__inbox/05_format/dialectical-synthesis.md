@@ -330,7 +330,7 @@ id: prompt-block-🆔20251106010323
 
 > [!connection-ideas]
 > **Integration with Your PKB:**
-> - **This synthesis connects to [[Existing Note 1]]:** {{Explain connection}}
+> - **This synthesis connects to [[Existing-Note-1]]:** {{Explain connection}}
 > - **It challenges my previous understanding in [[Existing Note 2]]:** {{Explain revision needed}}
 > - **It opens new inquiry toward [[New Topic]]:** {{Explain future direction}}
 

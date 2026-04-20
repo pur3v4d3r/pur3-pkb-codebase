@@ -158,7 +158,7 @@ LIMIT 10
 ### Direct Connections
 - [[pragmatism]]
 - [[Stoicism]]
-- [[Metacognition]]
+- [[metacognition]]
 
 ## Benefits of Socratic Thinking
 > Adopting a Socratic approach offers numerous advantages for personal and intellectual development:

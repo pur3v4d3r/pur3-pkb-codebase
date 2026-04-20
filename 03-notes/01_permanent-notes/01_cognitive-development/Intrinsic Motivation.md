@@ -31,32 +31,32 @@ link-count: 0
 backlink-count: 0
 link-up:
   - "[[cognitive-science-moc]]"
-  - "[[Andragogy]]"
-  - "[[Autonomy]]"
+  - "[[andragogy]]"
+  - "[[autonomy]]"
   - "[[Cognitive Processes]]"
   - "[[cognitive-psychology]]"
-  - "[[Cognitive-Restructuring]]"
-  - "[[Cognitive-Science]]"
-  - "[[Critical-Thinking]]"
-  - "[[Default Mode Network]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Educational-Psychology]]"
+  - "[[cognitive-restructuring]]"
+  - "[[cognitive-science]]"
+  - "[[critical-thinking]]"
+  - "[[Default-Mode-Network]]"
+  - "[[deliberate-practice]]"
+  - "[[educational-psychology]]"
   - "[[Executive Functions]]"
-  - "[[Habit-Formation]]"
+  - "[[habit-formation]]"
   - "[[Goal Setting]]"
-  - "[[Heutagogy]]"
-  - "[[Instructional-Design]]"
-  - "[[Metacognition]]"
+  - "[[heutagogy]]"
+  - "[[instructional-design]]"
+  - "[[metacognition]]"
   - "[[motivation-science]]"
-  - "[[Motivational-Psychology]]"
-  - "[[Relatedness]]"
+  - "[[motivational-psychology]]"
+  - "[[relatedness]]"
   - "[[Rumination]]"
   - "[[Self Behavioral Management]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Self-Directed-Learning]]"
+  - "[[self-determination-theory]]"
+  - "[[self-regulated-learning]]"
+  - "[[self-directed-learning]]"
   - "[[Self-Regulation-Theory]]"
-  - "[[Self-Determination-Theory]]"
+  - "[[self-determination-theory]]"
 link-related:
   - "[[2025-11-27 1|Daily-Note]]"
 status: active
@@ -70,7 +70,7 @@ review-priority: medium
 # Intrinsic Motivation
 
 > [!definition]
-> - **Key-Term**:[[Intrinsic-Motivation]]
+> - **Key-Term**:[[intrinsic-motivation]]
 > - [**Definition**:refers to the act of doing something without any obvious external rewards. You perform an activity because you find it inherently enjoyable, satisfying, or meaningful, not because you're looking for an external incentive or trying to avoid punishment. The reward is the activity itself.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -114,8 +114,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Extrinsic-Motivation]]
-- [[Self-Determination-Theory]]
+- [[extrinsic-motivation]]
+- [[self-determination-theory]]
 - [[Self-Regulation-Theory]]
 
 ## Practical Applications

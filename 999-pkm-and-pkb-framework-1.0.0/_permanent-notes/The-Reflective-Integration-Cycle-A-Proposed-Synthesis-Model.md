@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,48 +69,48 @@ narrower:
   []
 
 see-also:
-  - "[[Metacognition]]"
-  - "[[Metacognitive-Monitoring]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Zimmerman-SRL-Model]]"
-  - "[[Pintrich's-Integrative-SRL-Framework]]"
-  - "[[Reflective-Practice]]"
-  - "[[Donald-Schön]]"
-  - "[[Argyris-Double-Loop-Learning]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Judgment-of-Learning]]"
-  - "[[Feeling-of-Knowing]]"
-  - "[[Attribution-Theory]]"
-  - "[[Growth-Mindset]]"
-  - "[[AAR-After-Action-Review]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Metacognitive-Scaffolding-Design-Patterns]]"
-  - "[[Barry-Zimmerman]]"
-  - "[[John-Flavell]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[zimmerman-srl-model|Zimmerman-SRL-Model]]"
+  - "[[pintrichs-integrative-srl-framework|Pintrich's-Integrative-SRL-Framework]]"
+  - "[[reflective-practice|Reflective-Practice]]"
+  - "[[donald-schön|Donald-Schön]]"
+  - "[[Argyris-Double-Loop-Learning|Argyris-Double-Loop-Learning]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[judgment-of-learning|Judgment-of-Learning]]"
+  - "[[feeling-of-knowing|Feeling-of-Knowing]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[aar-after-action-review|AAR-After-Action-Review]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[metacognitive-scaffolding-design-patterns|Metacognitive-Scaffolding-Design-Patterns]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[john-flavell|John-Flavell]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Flavell's-Metacognitive-Model]]"
-  - "[[Nelson-Narens-Model]]"
+  - "[[flavells-metacognitive-model|Flavell's-Metacognitive-Model]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Description-The-accuracy-of-metacognitive-judgments-—-the-correspondence-between|- **Description:** The accuracy of metacognitive judgments — the correspondence between expressed co]]"
+  - topic: "[[- **Description:** The accuracy of metacognitive judgments — the correspondence between expressed co]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Schön's-reflective-practitioner-framework-receives-substantial-treat|- **Description:** Schön's reflective practitioner framework receives substantial treatment here but]]"
+  - topic: "[[- **Description:** Schön's reflective practitioner framework receives substantial treatment here but]]"
     description: ""
     priority: medium
-  - topic: "[[Description-Adrian-Wells's-Metacognitive-Therapy-offers-the-most-theoretically-d|- **Description:** Adrian Wells's Metacognitive Therapy offers the most theoretically developed clin]]"
+  - topic: "[[- **Description:** Adrian Wells's Metacognitive Therapy offers the most theoretically developed clin]]"
     description: ""
     priority: medium
-  - topic: "[[Description-The-synthesis-section-introduced-'epistemic-sovereignty'-as-a-frame|- **Description:** The synthesis section introduced 'epistemic sovereignty' as a frame connecting me]]"
+  - topic: "[[- **Description:** The synthesis section introduced 'epistemic sovereignty' as a frame connecting me]]"
     description: ""
     priority: medium
 
@@ -314,7 +314,7 @@ importance: high
 > In a flipped classroom design for an advanced biology course, students watch lecture videos outside class (Phase 1: content exposure) and complete a pre-class metacognitive reflection activity: identifying which concepts they understand confidently, which produce confusion, and what specific questions they bring to class. This pre-class reflection drives differentiated in-class activities — students with solid understanding engage in application and generation activities, while those with comprehension difficulties receive targeted clarification. Post-class reflection documents what changed,…
 
 > [!example] **After-Action Reviews as Organizational Metacognitive Reflection** *(from [[metacognitive-reflection-foundational-report-2026-04-09]])*
-> The [[AAR-After-Action-Review]] protocol, developed by the U.S. Army and now widely adopted in professional and organizational contexts, is a structured post-event reflective protocol that applies metacognitive principles to team performance. The four-question format — What was supposed to happen? What actually happened? Why was there a difference? What should we do the same or differently next time? — embeds exactly the evaluation-attribution-revision structure of personal metacognitive reflection in a structured group process. Research on AAR effectiveness demonstrates that teams using…
+> The [[aar-after-action-review]] protocol, developed by the U.S. Army and now widely adopted in professional and organizational contexts, is a structured post-event reflective protocol that applies metacognitive principles to team performance. The four-question format — What was supposed to happen? What actually happened? Why was there a difference? What should we do the same or differently next time? — embeds exactly the evaluation-attribution-revision structure of personal metacognitive reflection in a structured group process. Research on AAR effectiveness demonstrates that teams using…
 
 ## AI Insights
 
@@ -325,7 +325,7 @@ importance: high
 > The Nelson-Narens framework models two levels: object and meta. Metacognitive reflection, properly understood, involves a third functional move: *operating on the meta level itself* rather than merely on its outputs. When a student reflects after an exam not just on whether they got answers right (that's performance evaluation) but on the *pattern of their JOL calibration* — why they consistently felt confident before items they actually got wrong — they are reflecting on the metacognitive system's operation, not merely using it. This meta-meta perspective is what makes reflection generative:…
 
 > [!claude-insight] **The Identity-Reflection Conflict and Its Resolution** *(from [[metacognitive-reflection-foundational-report-2026-04-09]])*
-> Motivated reasoning in metacognitive reflection intensifies precisely when cognitive performance is deeply integrated with identity — when being a competent learner is central to self-concept. This is the painful paradox at the heart of [[Growth-Mindset]] research: the people who most need accurate, disconfirming metacognitive feedback are those for whom the accuracy of that feedback is most motivationally threatening. The resolution is not simply to "be more objective" (a motivational injunction that ignores the structural sources of motivated reasoning) but to architect the reflective…
+> Motivated reasoning in metacognitive reflection intensifies precisely when cognitive performance is deeply integrated with identity — when being a competent learner is central to self-concept. This is the painful paradox at the heart of [[growth-mindset]] research: the people who most need accurate, disconfirming metacognitive feedback are those for whom the accuracy of that feedback is most motivationally threatening. The resolution is not simply to "be more objective" (a motivational injunction that ignores the structural sources of motivated reasoning) but to architect the reflective…
 
 > [!claude-insight] **Reflection as Self-Efficacy Architecture** *(from [[metacognitive-reflection-foundational-report-2026-04-09]])*
 > A sophisticated understanding of the self-reflection phase reveals that metacognitive reflection serves not only an epistemic function (updating models of one's cognitive functioning) but also a motivational-architectural function (constructing and maintaining the self-efficacy beliefs that determine whether effortful learning engagement is undertaken in the future). This dual function creates a design requirement for reflective practice: effective reflection must be epistemically accurate (using performance evidence honestly and avoiding fluency-based overestimation or…
@@ -358,7 +358,7 @@ importance: high
 > 3. Motivated reasoning systematically distorts attributional patterns in reflection, protecting…
 
 > [!section-summary] **Section 6 Key Takeaways** *(from [[metacognitive-reflection-foundational-report-2026-04-09]])*
-> 1. [[Self-Regulated-Learning]] frameworks provide the most rigorous educational account of metacognitive reflection, locating it in the self-reflection phase of cyclical learning models (Zimmerman) and across all phases of the cognition column (Pintrich).
+> 1. [[self-regulated-learning]] frameworks provide the most rigorous educational account of metacognitive reflection, locating it in the self-reflection phase of cyclical learning models (Zimmerman) and across all phases of the cognition column (Pintrich).
 > 2. Within Zimmerman's framework, self-evaluation and causal attribution are the principal processes, with attribution quality — specifically, attribution to controllable, unstable strategy and effort factors — as the pivotal determinant of adaptive vs. maladaptive reflective outcomes.
 > 3. Pintrich's 4×4 framework enriches the account by…
 
@@ -532,19 +532,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[metacognitive-reflection-foundational-report-2026-04-09]])*:
-- [[Metacognition]]
-- [[Self-Regulated-Learning]]
-- [[Nelson-Narens-Model]]
-- [[Reflective-Practice]]
-- [[Personal-Knowledge-Management]]
-- [[Metacognitive-Scaffolding-Design-Patterns]]
-- [[Self-Efficacy]]
-- [[Growth-Mindset]]
-- [[Critical-Thinking]]
-- [[Epistemic-Humility]]
+- [[metacognition|Metacognition]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[nelson-narens-model|Nelson-Narens-Model]]
+- [[reflective-practice|Reflective-Practice]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[metacognitive-scaffolding-design-patterns|Metacognitive-Scaffolding-Design-Patterns]]
+- [[self-efficacy|Self-Efficacy]]
+- [[growth-mindset|Growth-Mindset]]
+- [[critical-thinking|Critical-Thinking]]
+- [[epistemic-humility|Epistemic-Humility]]
 
 **Related concepts:**
-[[Metacognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]] · [[Nelson-Narens-Model]] · [[Self-Regulated-Learning]] · [[Zimmerman-SRL-Model]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Reflective-Practice]] · [[Donald-Schön]] · [[Argyris-Double-Loop-Learning]] · [[Fluency-Illusion]] · [[Judgment-of-Learning]] · [[Feeling-of-Knowing]] · [[Attribution-Theory]] · [[Growth-Mindset]] · [[AAR-After-Action-Review]] · [[Personal-Knowledge-Management]] · [[Metacognitive-Scaffolding-Design-Patterns]] · [[Barry-Zimmerman]] · [[John-Flavell]] · [[Motivated-Reasoning]] · [[Critical-Thinking]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Critical-Thinking]] · [[Reflective-Practice]] · [[Growth-Mindset]] · [[Metacognition]] · [[Metacognitive-Monitoring]] · [[Metacognitive-Regulation]]
+[[metacognition|Metacognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[zimmerman-srl-model|Zimmerman-SRL-Model]] · [[pintrichs-integrative-srl-framework|Pintrich's-Integrative-SRL-Framework]] · [[reflective-practice|Reflective-Practice]] · [[donald-schön|Donald-Schön]] · [[Argyris-Double-Loop-Learning|Argyris-Double-Loop-Learning]] · [[fluency-illusion|Fluency-Illusion]] · [[judgment-of-learning|Judgment-of-Learning]] · [[feeling-of-knowing|Feeling-of-Knowing]] · [[attribution-theory|Attribution-Theory]] · [[growth-mindset|Growth-Mindset]] · [[aar-after-action-review|AAR-After-Action-Review]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[metacognitive-scaffolding-design-patterns|Metacognitive-Scaffolding-Design-Patterns]] · [[barry-zimmerman|Barry-Zimmerman]] · [[john-flavell|John-Flavell]] · [[motivated-reasoning|Motivated-Reasoning]] · [[critical-thinking|Critical-Thinking]] · [[metacognition|Metacognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[critical-thinking|Critical-Thinking]] · [[reflective-practice|Reflective-Practice]] · [[growth-mindset|Growth-Mindset]] · [[metacognition|Metacognition]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[metacognitive-regulation|Metacognitive-Regulation]]
 
 ## References
 

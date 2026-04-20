@@ -78,7 +78,7 @@ Conduct a Socratic examination of the question: "What makes a celestial body a '
 >[!topic-idea]
 > 📖*Narrative-Driven Learning*: The Life and Death of a Sun-Like Star: A Ten-Billion-Year Cosmic Biography
 
-> **Scope & Angle:** This topic transforms the [[Stellar-Evolution]] of a solar-mass star into a compelling narrative arc spanning ten billion years. The "protagonist" is a star like our Sun, born from a collapsing molecular cloud, facing the challenges of achieving fusion ignition, spending billions of years in stable main-sequence "middle age," then confronting the crisis of hydrogen depletion leading to red giant expansion, helium flash, and ultimately shedding its outer layers to become a white dwarf. The narrative structure makes abstract astrophysical processes emotionally and intellectually engaging.
+> **Scope & Angle:** This topic transforms the [[stellar-evolution]] of a solar-mass star into a compelling narrative arc spanning ten billion years. The "protagonist" is a star like our Sun, born from a collapsing molecular cloud, facing the challenges of achieving fusion ignition, spending billions of years in stable main-sequence "middle age," then confronting the crisis of hydrogen depletion leading to red giant expansion, helium flash, and ultimately shedding its outer layers to become a white dwarf. The narrative structure makes abstract astrophysical processes emotionally and intellectually engaging.
 
 **Engineered Input for Gem:**
 

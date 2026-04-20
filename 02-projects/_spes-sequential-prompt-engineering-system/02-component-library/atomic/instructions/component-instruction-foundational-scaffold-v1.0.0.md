@@ -83,7 +83,7 @@ used-in-prompts: []
 **1. Define Core Parameters:**
    * **[TOPIC]:** {{Specify the central topic, concept, or question}}
    * **[DEPTH_LEVEL]:** {{e.g., "Encyclopedic overview," "In-depth technical analysis," "Historical context"}}
-   * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to. Example: `[[Concept A]]`, `[[Theory B]]`}}
+   * **[EXISTING_CONCEPTS]:** {{(Optional) Provide a list of `[[wikilinks]]` from your vault that you want to connect this topic to. Example: `[[Concept-A]]`, `[[Theory B]]`}}
 
 **2. Phase 1: Overture & Foundation (The "Why & What")**
    * **Abstract:** Start with a `> [!abstract]` callout. Provide a high-level, 1-2 paragraph summary of the entire topic.
@@ -363,7 +363,7 @@ Use the Foundational Report Scaffold (Comparative Analysis Variation) to analyze
 [COMPARISON_DIMENSIONS]: Theoretical foundations, View of learner, Instructional methods, Evidence base, Limitations, Modern applications
 [SYNTHESIS_GOAL]: Develop selection criteria for when to apply each approach
 
-[EXISTING_CONCEPTS]: [[Cognitive-Load-Theory]], [[Metacognition]], [[Self-Determination-Theory]]
+[EXISTING_CONCEPTS]: [[cognitive-load-theory]], [[metacognition]], [[self-determination-theory]]
 
 Ensure Phase 2 includes:
 - Fair representation of each theory's strengths
@@ -380,7 +380,7 @@ In Phase 4, generate provocative questions about integrative frameworks and hybr
 - 4 synthesis pathways identified:
   - [[Cognitive-Behavioral Integration in Education]]
   - [[Situated Cognition Theory]]
-  - [[Communities-of-Practice]]
+  - [[communities-of-practice]]
   - [[Technology-Enhanced Constructivism]]
 
 **Effectiveness**: ⭐⭐⭐⭐⭐

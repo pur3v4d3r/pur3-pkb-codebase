@@ -16,9 +16,9 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Germane-Load]]"
-  - "[[Extraneous-Load]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[germane-load]]"
+  - "[[extraneous-load]]"
+  - "[[cognitive-load-theory]]"
 maturity: seedling
 confidence: speculative
 

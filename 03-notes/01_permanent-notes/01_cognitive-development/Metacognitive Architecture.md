@@ -17,7 +17,7 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 maturity: seedling
 confidence: speculative
 

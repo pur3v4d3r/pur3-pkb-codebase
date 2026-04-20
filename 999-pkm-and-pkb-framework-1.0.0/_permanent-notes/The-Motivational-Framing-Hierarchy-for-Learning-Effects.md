@@ -32,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +44,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,40 +68,40 @@ narrower:
   []
 
 see-also:
-  - "[[Fluency-Illusion]]"
-  - "[[Metacognitive-Strategy]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Robert-Bjork]]"
-  - "[[Edward-Deci]]"
-  - "[[Richard-Ryan]]"
-  - "[[Paul-Pintrich]]"
-  - "[[Barry-Zimmerman]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Desirable-Difficulties]]"
-  - "[[Metacognitive-Strategy]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Testing-Effect]]"
-  - "[[Spacing-Effect]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Attribution-Theory]]"
-  - "[[Self-Efficacy]]"
-  - "[[Mastery-Goal]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[metacognitive-strategy|Metacognitive-Strategy]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[Robert-Bjork|Robert-Bjork]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[paul-pintrich|Paul-Pintrich]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[metacognitive-strategy|Metacognitive-Strategy]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[Testing-Effect|Testing-Effect]]"
+  - "[[spacing-effect|Spacing-Effect]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[mastery-goal|Mastery-Goal]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Levels-of-Processing-Theory]]"
-  - "[[Self-Determination-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Self-Determination-Theory-in-Educational-Contexts-Description-A-dedi|> [!topic-idea] **[[Self-Determination-Theory-in-Educational-Contexts]]**
+  - topic: "[[> [!topic-idea] **[[Self-Determination-Theory-in-Educational-Contexts]]**
 > **Description:** A dedic]]"
     description: ""
     priority: medium
@@ -131,7 +131,7 @@ importance: high
 > 
 > These reframes are not motivational manipulation or self-deception. They are accurate cognitive appraisals of the actual mechanism by which each strategy works. The negative frames are phenomenologically accurate but mechanistically misleading; the Motivational Reframes are accurate at both the phenomenological and mechanistic levels. The claim is that when learners genuinely believe the reframe — because they understand the underlying learning science — the reframe becomes motivationally active rather than merely intellectually accepted.
 > 
-> **See also:** [[Cognitive-Appraisal-Theory]], [[Desirable-Difficulties]], [[Attribution-Theory]]
+> **See also:** [[Cognitive-Appraisal-Theory]], [[desirable-difficulties]], [[attribution-theory]]
 
 ## Core Explanation
 
@@ -183,7 +183,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[motivation-and-academic-reading-foundational-report-2026-04-10]])*
-> One of the most insidious errors in academic reading is the **[[Fluency-Illusion]]**: the experience of reading text rapidly, with smooth comprehension, and concluding that understanding has been achieved. This illusion is particularly dangerous with moderately advanced academic material because familiarity with vocabulary and topic area generates a feeling of comprehension even when the deeper logical structure, the empirical basis, and the implications of the claims have not been processed.…
+> One of the most insidious errors in academic reading is the **[[fluency-illusion]]**: the experience of reading text rapidly, with smooth comprehension, and concluding that understanding has been achieved. This illusion is particularly dangerous with moderately advanced academic material because familiarity with vocabulary and topic area generates a feeling of comprehension even when the deeper logical structure, the empirical basis, and the implications of the claims have not been processed.…
 
 > [!warning] **Key Distinction** *(from [[motivation-and-academic-reading-foundational-report-2026-04-10]])*
 > High test anxiety specifically impairs retrieval from long-term memory through a combination of working memory invasion (intrusive thoughts that compete for cognitive resources) and amygdala-mediated threat response (which channels attention toward self-protection rather than memory search). This creates a specific incompatibility with retrieval practice: anxious students most need the long-term benefits of retrieval practice, and the retrieval practice paradigm most directly triggers the…
@@ -299,7 +299,7 @@ importance: high
 > For the self-directed learner who is their own teacher, the SDT framework generates a profound insight: the learning environment you design for yourself is the primary determinant of whether you will experience autonomous or controlled motivation while studying. A learner who sets rigid daily quotas ("I must complete 50 Anki cards by 7 PM regardless of comprehension quality") and tracks performance obsessively for external validation is effectively administering controlled motivation to themselves. A learner who designs their study environment to maximize curiosity, personal relevance, and…
 
 > [!claude-insight] **The PKB Architecture as an Implicit Learning Science Engine** *(from [[motivation-and-academic-reading-foundational-report-2026-04-10]])*
-> The Obsidian PKB architecture, when practiced systematically, implicitly implements multiple learning effects simultaneously. The practice of creating [[Atomic-Notes]] as permanent notes implements the generation effect. The practice of building [[Spaced-Repetition-Systems|SRS]] from PKB notes implements the testing and spacing effects. The practice of linking notes across the [[Knowledge-Graph]] implements elaboration. The practice of reviewing MOCs and connection maps implements interleaving (encountering related but distinct concepts in adjacent sequence). The PKB methodology was not…
+> The Obsidian PKB architecture, when practiced systematically, implicitly implements multiple learning effects simultaneously. The practice of creating [[Atomic-Notes]] as permanent notes implements the generation effect. The practice of building [[spaced-repetition-systems|SRS]] from PKB notes implements the testing and spacing effects. The practice of linking notes across the [[Knowledge-Graph]] implements elaboration. The practice of reviewing MOCs and connection maps implements interleaving (encountering related but distinct concepts in adjacent sequence). The PKB methodology was not…
 
 ## Section Summaries
 
@@ -409,19 +409,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[motivation-and-academic-reading-foundational-report-2026-04-10]])*:
-- [[Self-Regulated-Learning-SRL]]
-- [[Metacognition]]
-- [[Self-Determination-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Desirable-Difficulties]]
-- [[Spaced-Repetition-Systems]]
-- [[Atomic-Notes]]
-- [[Personal-Knowledge-Base]]
-- [[Self-Regulated-Learning-Practice]]
-- [[Growth-Mindset]]
+- [[self-regulated-learning-srl|Self-Regulated-Learning-SRL]]
+- [[metacognition|Metacognition]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[desirable-difficulties|Desirable-Difficulties]]
+- [[spaced-repetition-systems|Spaced-Repetition-Systems]]
+- [[Atomic-Notes|Atomic-Notes]]
+- [[personal-knowledge-base|Personal-Knowledge-Base]]
+- [[self-regulated-learning-practice|Self-Regulated-Learning-Practice]]
+- [[growth-mindset|Growth-Mindset]]
 
 **Related concepts:**
-[[Fluency-Illusion]] · [[Metacognitive-Strategy]] · [[Self-Determination-Theory]] · [[Robert-Bjork]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[Paul-Pintrich]] · [[Barry-Zimmerman]] · [[Self-Regulated-Learning]] · [[Self-Determination-Theory]] · [[Desirable-Difficulties]] · [[Metacognitive-Strategy]] · [[Achievement-Goal-Theory]] · [[Fluency-Illusion]] · [[Testing-Effect]] · [[Spacing-Effect]] · [[Intrinsic-Motivation]] · [[Attribution-Theory]] · [[Self-Efficacy]] · [[Mastery-Goal]] · [[Levels-of-Processing-Theory]] · [[Cognitive-Load-Theory]] · [[Generation-Effect]] · [[Testing-Effect]] · [[Spacing-Effect]] · [[Elaboration]] · [[Self-Explanation-Effect]] · [[Metacognitive-Strategy]] · [[Self-Determination-Theory]] · [[Achievement-Goal-Theory]]
+[[fluency-illusion|Fluency-Illusion]] · [[metacognitive-strategy|Metacognitive-Strategy]] · [[self-determination-theory|Self-Determination-Theory]] · [[Robert-Bjork|Robert-Bjork]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[paul-pintrich|Paul-Pintrich]] · [[barry-zimmerman|Barry-Zimmerman]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[self-determination-theory|Self-Determination-Theory]] · [[desirable-difficulties|Desirable-Difficulties]] · [[metacognitive-strategy|Metacognitive-Strategy]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[fluency-illusion|Fluency-Illusion]] · [[Testing-Effect|Testing-Effect]] · [[spacing-effect|Spacing-Effect]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[attribution-theory|Attribution-Theory]] · [[self-efficacy|Self-Efficacy]] · [[mastery-goal|Mastery-Goal]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[generation-effect|Generation-Effect]] · [[Testing-Effect|Testing-Effect]] · [[spacing-effect|Spacing-Effect]] · [[elaboration|Elaboration]] · [[self-explanation-effect|Self-Explanation-Effect]] · [[metacognitive-strategy|Metacognitive-Strategy]] · [[self-determination-theory|Self-Determination-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]]
 
 ## References
 

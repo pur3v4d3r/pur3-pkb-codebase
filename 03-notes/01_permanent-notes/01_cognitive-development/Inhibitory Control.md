@@ -31,7 +31,7 @@ review-priority: medium
 > [!definition]
 > - **Key-Term**:[[Inhibitory Control]]
 > - [**Definition**:Inhibitory control is a cognitive process that allows an individual to suppress inappropriate or irrelevant actions, thoughts, or impulses in favor of goal-directed behavior. It is a crucial component of executive functions, enabling focused attention and deliberate decision-making.
-> - [**Application**:Essential for sustained attention during [[Deliberate-Practice]] and resisting the temptation of [[Illusions Of Comprehension]]]
+> - [**Application**:Essential for sustained attention during [[deliberate-practice]] and resisting the temptation of [[Illusions Of Comprehension]]]
 >    - Resisting distractions and automatic responses
 >    - Maintaining focus on relevant information
 >    - Suppressing irrelevant thoughts or impulses

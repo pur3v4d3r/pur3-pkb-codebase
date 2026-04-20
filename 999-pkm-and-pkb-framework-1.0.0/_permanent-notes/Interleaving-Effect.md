@@ -5,6 +5,7 @@
 title: "Interleaving Effect"
 aliases:
   - "Interleaving Effect"
+  - "Interleaving-Effect"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -32,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,40 +69,40 @@ narrower:
   []
 
 see-also:
-  - "[[Desirable-Difficulties]]"
-  - "[[Metacognition]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Autonomy-Need]]"
-  - "[[Competence-Need]]"
-  - "[[Relatedness-Need]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Spaced-Repetition]]"
-  - "[[Forgetting-Curve]]"
-  - "[[Hermann-Ebbinghaus]]"
-  - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Autonomy-Support]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Fluency-Illusion]]"
-  - "[[Retrieval-Practice]]"
+  - "[[desirable-difficulties|Desirable-Difficulties]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[autonomy-need|Autonomy-Need]]"
+  - "[[competence-need|Competence-Need]]"
+  - "[[relatedness-need|Relatedness-Need]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[spaced-repetition|Spaced-Repetition]]"
+  - "[[Forgetting-Curve|Forgetting-Curve]]"
+  - "[[hermann-ebbinghaus|Hermann-Ebbinghaus]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[autonomy-support|Autonomy-Support]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[fluency-illusion|Fluency-Illusion]]"
+  - "[[retrieval-practice|Retrieval-Practice]]"
   - "[[spaced-practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Schema-Theory]]"
-  - "[[Self-Determination-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[schema-theory|Schema-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Spaced-Repetition-Algorithm-Engineering-and-Optimization-Description|> [!topic-idea] **[[Spaced-Repetition-Algorithm-Engineering-and-Optimization]]**
+  - topic: "[[> [!topic-idea] **[[Spaced-Repetition-Algorithm-Engineering-and-Optimization]]**
 > **Description:** ]]"
     description: ""
     priority: medium
@@ -123,12 +124,12 @@ importance: high
 > 
 > **Report-Specific Significance:** The interleaving effect challenges the natural intuition to organize study by topic, suggesting instead that diversified review queues (implemented naturally by SRS algorithms) produce better learning outcomes.
 > 
-> **See also:** [[Interleaving-Effect]], [[interleaving]], [[variation-practice]], [[Desirable-Difficulties]]
+> **See also:** [[interleaving-effect]], [[interleaving]], [[variation-practice]], [[desirable-difficulties]]
 
 ## Core Explanation
 
 > [!evidence] Supporting Evidence *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> Foundational source for the [[Desirable-Difficulties]] framework, proposing that conditions that make learning harder during acquisition often produce superior long-term retention. Primary theoretical reference for Sections 2 and throughout. Essential reading for understanding why all seven strategies in this report feel more effortful than passive alternatives.
+> Foundational source for the [[desirable-difficulties]] framework, proposing that conditions that make learning harder during acquisition often produce superior long-term retention. Primary theoretical reference for Sections 2 and throughout. Essential reading for understanding why all seven strategies in this report feel more effortful than passive alternatives.
 
 > [!evidence] Supporting Evidence *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > The most comprehensive meta-review of learning technique effectiveness, evaluating 10 techniques across criteria of utility for educational settings. Provides the high-utility designations for retrieval practice and distributed practice that anchor this report's strategy selection. Indispensable reference for any evidence-based reading system design.
@@ -146,13 +147,13 @@ importance: high
 > Original documentation of the self-explanation effect in physics problem-solving, showing that the number and quality of self-explanations generated during study is the primary predictor of learning gains. Primary empirical reference for Section 6.
 
 > [!evidence] Supporting Evidence *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> Comprehensive theoretical statement of [[Self-Determination-Theory]], including the Basic Psychological Needs model, the internalization continuum, and the distinction between autonomous and controlled motivation. Primary reference for Section 8.
+> Comprehensive theoretical statement of [[self-determination-theory]], including the Basic Psychological Needs model, the internalization continuum, and the distinction between autonomous and controlled motivation. Primary reference for Section 8.
 
 > [!evidence] Supporting Evidence *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > Comprehensive treatment of the cyclical model of self-regulated learning, including the forethought-performance-self-reflection cycle and the role of self-efficacy, goal-setting, and strategy use in effective self-regulation. Primary reference for Section 10.
 
 > [!evidence] Supporting Evidence *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> Original documentation of the [[Generation-Effect]], demonstrating that generated words are remembered better than read words across a wide range of conditions. Primary empirical reference for Section 3.
+> Original documentation of the [[generation-effect]], demonstrating that generated words are remembered better than read words across a wide range of conditions. Primary empirical reference for Section 3.
 
 > [!evidence] Supporting Evidence *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > Foundational statement of the monitoring-control model of metacognition, distinguishing object-level from meta-level processes and the bidirectional communication flows between them. Primary theoretical reference for Section 7.
@@ -196,7 +197,7 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> Re-reading is the most widely practiced study strategy and the one with the worst return on invested time. It creates a powerful [[Fluency-Illusion|fluency trap]]: the ease of reading familiar text *feels* like learning because the material is more accessible. But accessibility is not the same as retrievability under novel conditions or after time delay. Dunlosky et al. (2013) rated re-reading as *low utility* across virtually all domains and populations. Highlighting and underlining — when not…
+> Re-reading is the most widely practiced study strategy and the one with the worst return on invested time. It creates a powerful [[fluency-illusion|fluency trap]]: the ease of reading familiar text *feels* like learning because the material is more accessible. But accessibility is not the same as retrievability under novel conditions or after time delay. Dunlosky et al. (2013) rated re-reading as *low utility* across virtually all domains and populations. Highlighting and underlining — when not…
 
 > [!warning] **Key Distinction** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > Retrieval practice is substantially more powerful when combined with spacing than when conducted in massed sessions. A single test immediately after reading produces modest benefits; the same number of tests distributed across expanding intervals (the expanding retrieval practice schedule pioneered by Landauer and Bjork, 1978) produces dramatically superior retention. This is the theoretical basis for spaced repetition systems like Anki: the testing effect + the spacing effect, combined. Any…
@@ -212,7 +213,7 @@ importance: high
 > **Relationship to report:** The foundational empiricist whose spacing data underpins all modern spaced repetition systems. Methodologically pioneering (quantitative memory science); his findings are more practically useful today than when…
 
 > [!person] **Robert Bjork (born 1939)** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> UCLA cognitive psychologist who introduced the [[Desirable-Difficulties]] framework and conducted foundational research on spacing, interleaving, and the distinction between storage strength and retrieval strength. Arguably the single most influential figure in the translation of cognitive psychology to evidence-based education.
+> UCLA cognitive psychologist who introduced the [[desirable-difficulties]] framework and conducted foundational research on spacing, interleaving, and the distinction between storage strength and retrieval strength. Arguably the single most influential figure in the translation of cognitive psychology to evidence-based education.
 > 
 > **Relationship to report:** The Desirable Difficulties framework is the unifying theoretical lens through which all seven strategies in this report are interpreted. Bjork's distinction between conditions that enhance *current performance* versus conditions that…
 
@@ -224,10 +225,10 @@ importance: high
 > [!person] **Michelene Chi (born c. 1950)** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > Carnegie Mellon cognitive and learning scientist best known for her documentation of the self-explanation effect and her ICAP framework (Interactive-Constructive-Active-Passive). Her work on expert-novice differences in problem solving established that experts self-explain more spontaneously and more effectively than novices.
 > 
-> **Relationship to report:** The [[Self-Explanation-Effect]] is a key component of Section 6, and Chi's documentation of its mechanisms (gap-detection, mental model construction) directly informs the explanation note format and the self-explanation prompts in the reading…
+> **Relationship to report:** The [[self-explanation-effect]] is a key component of Section 6, and Chi's documentation of its mechanisms (gap-detection, mental model construction) directly informs the explanation note format and the self-explanation prompts in the reading…
 
 > [!person] **Edward Deci and Richard Ryan (born 1942 and 1953)** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> University of Rochester psychologists who developed [[Self-Determination-Theory]] from the early 1970s through its current comprehensive formulation. Their experimental programs on intrinsic vs. extrinsic motivation, basic psychological needs, and the internalization continuum constitute the most empirically developed motivation theory in psychology.
+> University of Rochester psychologists who developed [[self-determination-theory]] from the early 1970s through its current comprehensive formulation. Their experimental programs on intrinsic vs. extrinsic motivation, basic psychological needs, and the internalization continuum constitute the most empirically developed motivation theory in psychology.
 > 
 > **Relationship to report:** SDT provides the motivational architecture (Section 8) that converts the cognitive strategies from intellectually interesting techniques into components of a sustainable reading life.
 
@@ -261,7 +262,7 @@ importance: high
 ## Reflection Prompts
 
 > [!reflection] **Reflect** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. In your own reading practice, can you identify specific examples where you experienced the [[Fluency-Illusion|fluency illusion]] — where re-reading a text felt like learning but was not?
+> 1. In your own reading practice, can you identify specific examples where you experienced the [[fluency-illusion|fluency illusion]] — where re-reading a text felt like learning but was not?
 > 2. Which of the seven strategies are you already using, even in partial or informal ways? Which are entirely absent from your current reading workflow?
 > 3. How would you characterize the motivational experience of your current academic reading practice — does it feel autonomy-supportive and…
 
@@ -271,7 +272,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > 1. In what percentage of your reading sessions do you currently engage in any form of pre-reading prediction or anticipation? How might adding even five minutes of prediction before major sections change your encoding depth?
-> 2. Have you ever experienced the "look-away note" phenomenon — writing what you understood and discovering you understood less than you thought? How might systematic application of this technique improve your [[Metacognitive-Calibration|metacognitive calibration]] about…
+> 2. Have you ever experienced the "look-away note" phenomenon — writing what you understood and discovering you understood less than you thought? How might systematic application of this technique improve your [[metacognitive-calibration|metacognitive calibration]] about…
 
 > [!reflection] **Reflect** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > 1. The most powerful finding in retrieval practice research is the divergence between *immediate* performance (where re-study wins) and *delayed* performance (where retrieval wins). How does understanding this time-delay pattern change how you should evaluate the effectiveness of your study strategies in real time?
@@ -290,7 +291,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > 1. When you finish reading a chapter and feel you "understand it," what evidence are you actually using? Is it the reading fluency experience, or genuine tests of comprehension? How would you distinguish between them?
-> 2. The [[Nelson-Narens-Model]] identifies control as the response to monitoring information. In your learning practice, how often do you detect a comprehension failure (monitoring) but fail to take corrective action (control)? What prevents the monitoring signal from triggering a…
+> 2. The [[nelson-narens-model]] identifies control as the response to monitoring information. In your learning practice, how often do you detect a comprehension failure (monitoring) but fail to take corrective action (control)? What prevents the monitoring signal from triggering a…
 
 > [!reflection] **Reflect** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > 1. When your reading practice feels most engaged and intrinsically rewarding, which of the three basic needs are most clearly satisfied? When it feels most like a chore, which are most frustrated?
@@ -311,7 +312,7 @@ importance: high
 > [!schema-activation] **Prior Knowledge Bridge — Activating Your Reading Strategy Schema** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > Before encountering this report's analytical framework, briefly survey the existing knowledge structures you bring to this terrain.
 > 
-> You may have encountered [[Spaced-Repetition]] through applications like Anki or Obsidian's SR plugins — the intuition that distributing practice across time improves retention better than cramming. You may vaguely know the [[Forgetting-Curve]] — that without rehearsal, memories decay according to a predictable exponential function first described by [[Hermann-Ebbinghaus]]. You likely have some sense of [[Metacognition]] as "thinking about your own thinking,"…
+> You may have encountered [[spaced-repetition]] through applications like Anki or Obsidian's SR plugins — the intuition that distributing practice across time improves retention better than cramming. You may vaguely know the [[Forgetting-Curve]] — that without rehearsal, memories decay according to a predictable exponential function first described by [[hermann-ebbinghaus]]. You likely have some sense of [[metacognition]] as "thinking about your own thinking,"…
 
 ## Far Transfer Applications
 
@@ -330,7 +331,7 @@ importance: high
 ## Concrete Examples
 
 > [!example] **Generation in PKB Practice — The "Look-Away Note"** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> The simple heuristic is this: read a passage, close the book or look away from the screen, and write what you understood. Do not look back until after you have written your version. The resulting note will be imperfect — it will miss some nuances, may slightly misrepresent some points. That imperfection is not a failure; it is *diagnostic*: re-reading to correct your generated version is now a purposeful retrieval practice session rather than mere re-reading. The [[Generation-Effect]] and the [[Retrieval-Practice-Effect]] compound in this "look-away note" technique.
+> The simple heuristic is this: read a passage, close the book or look away from the screen, and write what you understood. Do not look back until after you have written your version. The resulting note will be imperfect — it will miss some nuances, may slightly misrepresent some points. That imperfection is not a failure; it is *diagnostic*: re-reading to correct your generated version is now a purposeful retrieval practice session rather than mere re-reading. The [[generation-effect]] and the [[retrieval-practice-effect]] compound in this "look-away note" technique.
 
 > [!example] **The 4Rs Retrieval Practice Protocol for PKB Reading** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > A practical PKB-integrated retrieval protocol:
@@ -368,7 +369,7 @@ importance: high
 > What is missing from almost every treatment of evidence-based learning strategies is the recognition that these seven techniques are not merely additive — they are architecturally interdependent. Metacognition without generation is monitoring without anything worth monitoring. Retrieval practice without spacing is intensive but temporally myopic. Elaboration without self-explanation collapses into surface-level association. A genuine strategic reading system must sequence and integrate these strategies so that each one scaffolds and amplifies the others. This report's primary original…
 
 > [!claude-insight] **The Retrieval Context Problem in PKB Design** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> Most PKB architectures implicitly assume a single retrieval context: note lookup by title or search. But the human cognitive system retrieves knowledge in far more varied contexts — problem-solving, writing, conversation, creative synthesis, decision-making. A PKB designed only for lookup-retrieval will encode memories that are accessible when consciously sought but not when spontaneously needed in other thinking contexts. The [[Encoding-Specificity-Principle]] suggests that for genuine intellectual integration, PKB notes must be encoded not just as information units but as nodes in a…
+> Most PKB architectures implicitly assume a single retrieval context: note lookup by title or search. But the human cognitive system retrieves knowledge in far more varied contexts — problem-solving, writing, conversation, creative synthesis, decision-making. A PKB designed only for lookup-retrieval will encode memories that are accessible when consciously sought but not when spontaneously needed in other thinking contexts. The [[encoding-specificity-principle]] suggests that for genuine intellectual integration, PKB notes must be encoded not just as information units but as nodes in a…
 
 > [!claude-insight] **Generation as Epistemic Transformation** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > There is a philosophical dimension to the generation effect that goes beyond its cognitive mechanism. To generate knowledge from a text — to predict, reformulate, question, and construct — is to position oneself as a *knowing subject* rather than an *information recipient*. This is the difference between reading as epistemic passivity (the text teaches me) and reading as epistemic agency (I construct understanding through engagement with the text). A PKB designed around generation is a system for cultivating epistemic agency — the habitual disposition to construct rather than receive, to…
@@ -385,42 +386,42 @@ importance: high
 ## Section Summaries
 
 > [!section-summary] **Section 1 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. Passive reading systematically fails to produce durable learning because it relies on re-reading and familiarity (fluency) rather than retrieval and construction — producing the [[Fluency-Illusion]] while accumulating minimal genuine knowledge.
+> 1. Passive reading systematically fails to produce durable learning because it relies on re-reading and familiarity (fluency) rather than retrieval and construction — producing the [[fluency-illusion]] while accumulating minimal genuine knowledge.
 > 2. The Dunlosky et al. (2013) comprehensive review empirically confirmed that the most commonly used strategies (re-reading, highlighting) have low utility, while retrieval practice and spaced practice have high utility.
 > 3. The seven evidence-based strategies — generation, testing, spacing, interleaving, elaboration, self-explanation, metacognition…
 
 > [!section-summary] **Section 2 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. Reading comprehension is constrained by [[Working-Memory]] capacity (CLT), organized through schema structures in [[Long-Term-Memory]] (schema theory), depth-determined (Levels of Processing), and context-sensitive (encoding specificity). A strategic reading system must be designed to address all four dimensions simultaneously.
+> 1. Reading comprehension is constrained by [[working-memory]] capacity (CLT), organized through schema structures in [[long-term-memory]] (schema theory), depth-determined (Levels of Processing), and context-sensitive (encoding specificity). A strategic reading system must be designed to address all four dimensions simultaneously.
 > 2. The [[Situation-Models|situation model]] is the gold standard of reading comprehension — the integrated mental representation that merges text propositions with prior knowledge. Most passive reading produces only textbase comprehension; strategic reading…
 
 > [!section-summary] **Section 3 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. The [[Generation-Effect]] — robust across decades of research — demonstrates that self-generated information is encoded more deeply and retained more durably than passively received information, via mechanisms of effortful processing, distinctive encoding, and prediction-error signals.
+> 1. The [[generation-effect]] — robust across decades of research — demonstrates that self-generated information is encoded more deeply and retained more durably than passively received information, via mechanisms of effortful processing, distinctive encoding, and prediction-error signals.
 > 2. Generation strategies for academic reading include pre-reading prediction, generative titling, look-away reformulation, and blanking-and-completion techniques, all of which convert passive reception into active construction.
 > 3. A PKB built around generative note-making rather than note-taking treats every…
 
 > [!section-summary] **Section 4 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > 1. The [[Testing-Effect]] — retrieval practice producing superior long-term retention compared to equivalent re-study time — is one of the most robust findings in learning science, driven by retrieval-induced strengthening, elaborative retrieval, error correction, and desirable difficulty effects.
-> 2. PKB implementations of retrieval practice range from formal spaced flashcard systems ([[Spaced-Repetition-Systems]]) to informal free recall sessions, note interrogation protocols, and retrieval-first re-reading, each with distinct advantages and appropriate use contexts.
+> 2. PKB implementations of retrieval practice range from formal spaced flashcard systems ([[spaced-repetition-systems]]) to informal free recall sessions, note interrogation protocols, and retrieval-first re-reading, each with distinct advantages and appropriate use contexts.
 > 3. Beyond retention…
 
 > [!section-summary] **Section 5 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. The [[Spacing-Effect]] — one of the most reliable findings in cognitive science — demonstrates that distributing practice across time produces dramatically better long-term retention than massing equivalent practice, via mechanisms of implicit retrieval, encoding variability, and memory consolidation windows.
-> 2. [[Interleaving-Effect|Interleaved practice]] outperforms blocked practice on delayed tests and transfer problems despite feeling worse and performing worse in-session, because interleaving builds the discriminative recognition and retrieval skills that transfer actually demands.
+> 1. The [[spacing-effect]] — one of the most reliable findings in cognitive science — demonstrates that distributing practice across time produces dramatically better long-term retention than massing equivalent practice, via mechanisms of implicit retrieval, encoding variability, and memory consolidation windows.
+> 2. [[interleaving-effect|Interleaved practice]] outperforms blocked practice on delayed tests and transfer problems despite feeling worse and performing worse in-session, because interleaving builds the discriminative recognition and retrieval skills that transfer actually demands.
 > 3.…
 
 > [!section-summary] **Section 6 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. [[Elaboration]] — actively connecting new information to existing knowledge through why/how/what-if questions — produces deep, transferable encodings by integrating new nodes into existing schema networks, with elaborative interrogation being one of the highest-utility study strategies.
-> 2. The [[Self-Explanation-Effect]] demonstrates that self-explanation during study produces dramatically better learning than passive reading, because it forces construction of accurate situation models and — crucially — surfaces the gaps in comprehension that fluent reading conceals.
+> 1. [[elaboration]] — actively connecting new information to existing knowledge through why/how/what-if questions — produces deep, transferable encodings by integrating new nodes into existing schema networks, with elaborative interrogation being one of the highest-utility study strategies.
+> 2. The [[self-explanation-effect]] demonstrates that self-explanation during study produces dramatically better learning than passive reading, because it forces construction of accurate situation models and — crucially — surfaces the gaps in comprehension that fluent reading conceals.
 > 3. Elaboration and…
 
 > [!section-summary] **Section 7 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. The [[Nelson-Narens-Model]] frames metacognition as a monitoring-control system, with monitoring (object → meta level) providing information about cognitive state and control (meta → object level) adjusting cognitive operations in response — both components necessary for effective self-regulation.
-> 2. The key monitoring operations — [[Judgment-of-Learning]], [[Feeling-of-Knowing]], comprehension monitoring, and calibration — are systematically distorted by the fluency illusion, causing most readers to systematically overestimate their comprehension and terminate study too early.
+> 1. The [[nelson-narens-model]] frames metacognition as a monitoring-control system, with monitoring (object → meta level) providing information about cognitive state and control (meta → object level) adjusting cognitive operations in response — both components necessary for effective self-regulation.
+> 2. The key monitoring operations — [[judgment-of-learning]], [[feeling-of-knowing]], comprehension monitoring, and calibration — are systematically distorted by the fluency illusion, causing most readers to systematically overestimate their comprehension and terminate study too early.
 > 3. A PKB…
 
 > [!section-summary] **Section 8 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. [[Self-Determination-Theory]] provides the motivational architecture for sustainable reading engagement: autonomous motivation (identified, integrated, intrinsic) predicts consistent strategy use and long-term engagement more reliably than effort-based or disciplinary models.
-> 2. The three [[Basic-Psychological-Needs]] — autonomy (self-chosen activity), competence (genuine mastery growth), and relatedness (connection to community and purpose) — are design constraints for any reading system intended to be used consistently over years rather than abandoned under pressure.
+> 1. [[self-determination-theory]] provides the motivational architecture for sustainable reading engagement: autonomous motivation (identified, integrated, intrinsic) predicts consistent strategy use and long-term engagement more reliably than effort-based or disciplinary models.
+> 2. The three [[basic-psychological-needs]] — autonomy (self-chosen activity), competence (genuine mastery growth), and relatedness (connection to community and purpose) — are design constraints for any reading system intended to be used consistently over years rather than abandoned under pressure.
 > 3. A PKB designed…
 
 > [!section-summary] **Section 9 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
@@ -429,7 +430,7 @@ importance: high
 > 3. SRS integration converts the PKB from an archive into a learning system; the most sustainable implementation…
 
 > [!section-summary] **Section 10 Takeaways** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
-> 1. [[Barry-Zimmerman]]'s cyclical SRL model provides the temporal scaffold: forethought (goal-setting, prior knowledge activation, advance questions) before; generative note-making, comprehension monitoring, and self-explanation during; free recall, PKB note-making, connection-building, and SRS submission after.
+> 1. [[barry-zimmerman]]'s cyclical SRL model provides the temporal scaffold: forethought (goal-setting, prior knowledge activation, advance questions) before; generative note-making, comprehension monitoring, and self-explanation during; free recall, PKB note-making, connection-building, and SRS submission after.
 > 2. The before-during-after workflow sequences the seven strategies at their points of maximum effectiveness: generation and schema activation before; elaboration and self-explanation during; retrieval practice, spacing, and metacognitive evaluation after.
 > 3. Strategic reading takes…
 
@@ -446,63 +447,63 @@ importance: high
 > **Q:** Untitled
 > **A:** **Q:** What is the fluency illusion, and why is it a metacognitive problem?
 **A:** The fluency illusion is using processing ease (how smoothly text is read) as a cue for comprehension depth (how deeply it has been understood). It is a metacognitive monitoring error: the wrong signal (fluency) is feeding the judgment-of-learning system, producing systematic overconfidence in understanding and premature termination of study.
-**Source:** Sections 1 and 7, [[Fluency-Illusion]]
+**Source:** Sections 1 and 7, [[fluency-illusion]]
 **Difficulty:** Basic
 
 > [!flashcard] **Card 3** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** What is a desirable difficulty, and what distinguishes it from undesirable difficulty?
 **A:** A desirable difficulty impedes performance during acquisition but produces better long-term retention and transfer by engaging constructive and reconstructive memory operations (retrieval, elaboration, discrimination). Undesirable difficulty impedes performance *without* engaging these operations — e.g., cramped fonts, poor organization, cognitive overload beyond competence zone.
-**Source:** Section 2, [[Desirable-Difficulties]]
+**Source:** Section 2, [[desirable-difficulties]]
 **Difficulty:** Intermediate
 
 > [!flashcard] **Card 4** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** How do spacing and retrieval practice interact, and why is the interaction important?
 **A:** Retrieval practice is substantially more powerful when combined with spacing: testing at a delay requires actual retrieval from long-term memory (implicit retrieval practice embedded in spaced study), while testing immediately draws on working memory. The combination — retrieval at optimally spaced intervals — is the theoretical foundation of spaced repetition systems.
-**Source:** Sections 4 and 5, [[Spaced-Repetition]], [[Retrieval-Practice]]
+**Source:** Sections 4 and 5, [[spaced-repetition]], [[retrieval-practice]]
 **Difficulty:** Advanced
 
 > [!flashcard] **Card 5** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** What is the interleaving effect, and why does it feel less productive than blocked study?
 **A:** The interleaving effect is that mixing problem types or topics within a study session produces better long-term retention and transfer than studying each type exhaustively before moving to the next. It feels less productive because it prevents the shallow repetition fluency that blocked study generates — requiring re-encoding from scratch on each encounter, which is the source of both the felt difficulty and the learning benefit.
-**Source:** Section 5, [[Interleaving-Effect]]
+**Source:** Section 5, [[interleaving-effect]]
 **Difficulty:** Intermediate
 
 > [!flashcard] **Card 6** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** According to Self-Determination Theory, what are the three basic psychological needs and their relevance to academic reading engagement?
 **A:** Autonomy (experiencing reading as self-chosen, identity-aligned), Competence (experiencing genuine mastery growth through challenge calibrated to current ability), and Relatedness (experiencing connection to intellectual community and purpose). All three must be satisfied for reading engagement to be sustainable and autonomously motivated rather than compliance-driven and fragile.
-**Source:** Section 8, [[Basic-Psychological-Needs]], [[Self-Determination-Theory]]
+**Source:** Section 8, [[basic-psychological-needs]], [[self-determination-theory]]
 **Difficulty:** Intermediate
 
 > [!flashcard] **Card 7** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** What is the generation effect, and how does it differ from retrieval practice?
 **A:** The generation effect is the finding that self-generated information is encoded more durably than received information. Unlike retrieval practice (which retrieves already-encoded information), generation occurs *during initial encoding* — before durable storage. Both engage active construction, but at different points in the learning cycle: generation at encoding, retrieval practice during maintenance.
-**Source:** Section 3, [[Generation-Effect]]
+**Source:** Section 3, [[generation-effect]]
 **Difficulty:** Advanced
 
 > [!flashcard] **Card 8** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** What is the self-explanation effect, and what is its primary mechanism?
 **A:** Students who generate more self-explanations during problem-solving and text study (articulating why claims are true, how processes work) show substantially greater learning gains than those who explain less. The primary mechanism is gap-detection: self-explanation forces the learner to confront logical gaps in their understanding that fluent reading conceals, triggering targeted repair of exactly the incomplete aspects of their mental model.
-**Source:** Section 6, [[Self-Explanation-Effect]]
+**Source:** Section 6, [[self-explanation-effect]]
 **Difficulty:** Intermediate
 
 > [!flashcard] **Card 9** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** What are the three phases of Zimmerman's cyclical self-regulated learning model, and what is their relevance to strategic reading?
 **A:** Forethought (goal-setting, prior knowledge activation, strategy planning before reading), Performance (active strategy deployment with comprehension monitoring during reading), and Self-Reflection (honest post-reading evaluation of what was learned and strategy effectiveness). Most natural readers skip forethought and self-reflection entirely, which eliminates the cyclical improvement mechanism that makes SRL more effective over time.
-**Source:** Section 10, [[Cyclical-Model-of-Self-Regulated-Learning]]
+**Source:** Section 10, [[cyclical-model-of-self-regulated-learning]]
 **Difficulty:** Advanced
 
 > [!flashcard] **Card 10** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*
 > **Q:** Untitled
 > **A:** **Q:** In the Nelson-Narens model of metacognition, what are monitoring and control, and how do they interact?
 **A:** Monitoring: information flowing from the object (cognitive) level to the meta level, including judgments of learning, feelings of knowing, and comprehension signals. Control: commands flowing from the meta level to the object level, adjusting strategies, allocating study time, deciding to review. Effective self-regulation requires both: monitoring that generates accurate signals, and control operations that respond to those signals adaptively.
-**Source:** Section 7, [[Nelson-Narens-Model]]
+**Source:** Section 7, [[nelson-narens-model]]
 **Difficulty:** Advanced
 
 ## Protocols & Methods
@@ -526,31 +527,31 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[strategic-reading-systems-foundational-report-2026-04-10]])*:
-- [[Cognitive-Load-Theory]]
-- [[Schema-Theory]]
-- [[Levels-of-Processing-Theory]]
-- [[Self-Regulated-Learning]]
-- [[Obsidian-PKB-Architecture]]
-- [[Deliberate-Practice-Design]]
-- [[Academic-Writing-System]]
-- [[Lifelong-Learning-System-Design]]
-- [[Metacognition]]
-- [[Spaced-Repetition]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[schema-theory|Schema-Theory]]
+- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[obsidian-pkb-architecture|Obsidian-PKB-Architecture]]
+- [[deliberate-practice-design|Deliberate-Practice-Design]]
+- [[academic-writing-system|Academic-Writing-System]]
+- [[lifelong-learning-system-design|Lifelong-Learning-System-Design]]
+- [[metacognition|Metacognition]]
+- [[spaced-repetition|Spaced-Repetition]]
 
 **Related concepts:**
-[[Desirable-Difficulties]] · [[Metacognition]] · [[Self-Determination-Theory]] · [[Autonomy-Need]] · [[Competence-Need]] · [[Relatedness-Need]] · [[Personal-Knowledge-Base]] · [[Self-Regulated-Learning]] · [[Spaced-Repetition]] · [[Forgetting-Curve]] · [[Hermann-Ebbinghaus]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Personal-Knowledge-Base]] · [[Self-Determination-Theory]] · [[Autonomy-Support]] · [[Fluency-Illusion]] · [[Fluency-Illusion]] · [[Retrieval-Practice]] · [[spaced-practice]] · [[Elaborative-Interrogation]] · [[self-explanation]] · [[Fluency-Illusion]] · [[Memory-Consolidation]] · [[Levels-of-Processing-Theory]] · [[Situation-Models]] · [[Walter-Kintsch]] · [[Situation-Models]] · [[Generation-Effect]] · [[Testing-Effect]]
+[[desirable-difficulties|Desirable-Difficulties]] · [[metacognition|Metacognition]] · [[self-determination-theory|Self-Determination-Theory]] · [[autonomy-need|Autonomy-Need]] · [[competence-need|Competence-Need]] · [[relatedness-need|Relatedness-Need]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[spaced-repetition|Spaced-Repetition]] · [[Forgetting-Curve|Forgetting-Curve]] · [[hermann-ebbinghaus|Hermann-Ebbinghaus]] · [[metacognition|Metacognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[self-determination-theory|Self-Determination-Theory]] · [[autonomy-support|Autonomy-Support]] · [[fluency-illusion|Fluency-Illusion]] · [[fluency-illusion|Fluency-Illusion]] · [[retrieval-practice|Retrieval-Practice]] · [[spaced-practice]] · [[elaborative-interrogation|Elaborative-Interrogation]] · [[self-explanation]] · [[fluency-illusion|Fluency-Illusion]] · [[memory-consolidation|Memory-Consolidation]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[Situation-Models|Situation-Models]] · [[walter-kintsch|Walter-Kintsch]] · [[Situation-Models|Situation-Models]] · [[generation-effect|Generation-Effect]] · [[Testing-Effect|Testing-Effect]]
 
 ## References
 
-- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational source for the [[Desirable-Difficulties]] framework, proposing that conditions that make learning harder during acquisition often produce superior long-term retention. Primary theoretical reference for Sections 2 and throughout. Essential reading for understanding why all seven strategies in this report feel more effortful than passive alternatives.
+- **Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press.**: Foundational source for the [[desirable-difficulties]] framework, proposing that conditions that make learning harder during acquisition often produce superior long-term retention. Primary theoretical reference for Sections 2 and throughout. Essential reading for understanding why all seven strategies in this report feel more effortful than passive alternatives.
 - **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., and Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58.**: The most comprehensive meta-review of learning technique effectiveness, evaluating 10 techniques across criteria of utility for educational settings. Provides the high-utility designations for retrieval practice and distributed practice that anchor this report's strategy selection. Indispensable reference for any evidence-based reading system design.
 - **Karpicke, J. D., and Blunt, J. R. (2011). Retrieval practice produces more learning than elaborative studying with concept mapping. *Science, 331*(6018), 772–775.**: Demonstrates that retrieval practice outperforms concept mapping (a supposedly deep processing strategy) on both direct retention and inferential tests. Critical evidence for the testing-effect sections and a key source for the claim that retrieval is not merely assessment but a primary learning mechanism.
 - **Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., and Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380.**: Comprehensive meta-analysis of 317 experiments on spacing effects, establishing the optimal spacing formula and confirming the spacing advantage across virtually every studied domain and population. Primary empirical reference for Section 5.
 - **Roediger, H. L., and Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255.**: Landmark experimental demonstration of the testing effect using educationally realistic materials (prose passages), showing approximately 50% higher retention after one week for retrieval-practice conditions versus re-study conditions. Primary empirical reference for Section 4.
 - **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., and Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.**: Original documentation of the self-explanation effect in physics problem-solving, showing that the number and quality of self-explanations generated during study is the primary predictor of learning gains. Primary empirical reference for Section 6.
-- **Deci, E. L., and Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive theoretical statement of [[Self-Determination-Theory]], including the Basic Psychological Needs model, the internalization continuum, and the distinction between autonomous and controlled motivation. Primary reference for Section 8.
+- **Deci, E. L., and Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.**: Comprehensive theoretical statement of [[self-determination-theory]], including the Basic Psychological Needs model, the internalization continuum, and the distinction between autonomous and controlled motivation. Primary reference for Section 8.
 - **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, and M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: Comprehensive treatment of the cyclical model of self-regulated learning, including the forethought-performance-self-reflection cycle and the role of self-efficacy, goal-setting, and strategy use in effective self-regulation. Primary reference for Section 10.
-- **Slamecka, N. J., and Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592–604.**: Original documentation of the [[Generation-Effect]], demonstrating that generated words are remembered better than read words across a wide range of conditions. Primary empirical reference for Section 3.
+- **Slamecka, N. J., and Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592–604.**: Original documentation of the [[generation-effect]], demonstrating that generated words are remembered better than read words across a wide range of conditions. Primary empirical reference for Section 3.
 - **Nelson, T. O., and Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), *The psychology of learning and motivation* (Vol. 26, pp. 125–173). Academic Press.**: Foundational statement of the monitoring-control model of metacognition, distinguishing object-level from meta-level processes and the bidirectional communication flows between them. Primary theoretical reference for Section 7.
 - **Kornell, N., and Bjork, R. A. (2008). Learning concepts and categories: Is spacing the "enemy of induction"? *Psychological Science, 19*(6), 585–592.**: Demonstrates the interleaving advantage for category learning (painting attribution), including the striking paradox that participants rated blocked study as more effective despite inferior outcomes. Primary empirical reference for the interleaving sections of Section 5.
 

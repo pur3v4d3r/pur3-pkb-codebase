@@ -33,7 +33,7 @@ link-related:
 >
 > To solve this "impossible" problem, astronomers have developed a toolkit of ingenious *indirect* methods. This report will systematically deconstruct the four primary solutions. We will explore the [[Transit Method]], which watches for the subtle *dimming* of a star as a planet passes in front of it. We will analyze the [[Radial Velocity Method]], which measures the tiny gravitational "wobble" a planet induces in its host star. We will also investigate the technologically demanding [[Direct Imaging]] method, which uses advanced optics to *block* the starlight and capture a direct photon from the planet itself. Finally, we will examine the [[Gravitational Microlensing]] technique, which uses [[Albert Einstein]]'s theory of [[General Relativity]] to detect planets by how their gravity magnifies a distant background star.
 >
-> The final outcome of this analysis will demonstrate that no single method is sufficient. The "solved state" of exoplanetology is achieved only through the *synergy* of these methods. By combining the [[radius]] data from transits with the [[mass]] data from radial velocity, we can calculate a planet's [[density]] and begin to characterize it. By applying [[Spectroscopy]] during a transit, we can even "read" the chemical composition of its atmosphere, moving us from a simple census of planets to the profound search for [[life]] elsewhere in the cosmos.
+> The final outcome of this analysis will demonstrate that no single method is sufficient. The "solved state" of exoplanetology is achieved only through the *synergy* of these methods. By combining the [[radius]] data from transits with the [[mass]] data from radial velocity, we can calculate a planet's [[density]] and begin to characterize it. By applying [[spectroscopy]] during a transit, we can even "read" the chemical composition of its atmosphere, moving us from a simple census of planets to the profound search for [[life]] elsewhere in the cosmos.
 
 # 1.0  DIAGNOSTICS: Deconstructing the Problem
 
@@ -181,13 +181,13 @@ This section "zooms out" to explore the wider implications of this problem-solvi
 >     - The single biggest blocker was the **signal-to-noise ratio**. The "signal" is the planet's light, and the "noise" is the star's light, which is a billion times brighter. All the "smart" methods (Transit, RV) are clever ways to *change the problem*. Instead of trying to detect a faint signal *buried in* noise, they *modulate* the noise itself. The transit modulates the star's *brightness*. The RV method observes the modulation of the star's *wavelength*. They found a way to make the "noise" *become* the signal.
 > - *What* **new questions** *does this solution raise?*
 >     - This solution has raised a new, more profound set of questions. We've gone from "Are there other planets?" to:
->         1.  **Why are they so weird?** Our toolkit has revealed "[[Hot Jupiters]]" (gas giants orbiting in days), "Super-Earths," and "Mini-Neptunes"—planet types that *do not exist* in our solar system. This has broken our theories of [[planet formation]].
+>         1.  **Why are they so weird?** Our toolkit has revealed "[[Hot Jupiters]]" (gas giants orbiting in days), "Super-Earths," and "Mini-Neptunes"—planet types that *do not exist* in our solar system. This has broken our theories of [[Planet-Formation]].
 >         2.  **Are any of them habitable?** Now that we can find Earth-sized planets and probe their atmospheres, the new quest is defining and searching for the [[Habitable Zone]] and identifying true [[Earth 2.0]] candidates.
 >         3.  **Are we missing a population?** Our methods are biased. How many Earth-sized planets in Earth-like (1-year) orbits are we *not* seeing?
 
 > [!tasks]
 > - **Next Actions:**
->     - Investigate the [[planet formation]] theories that attempt to explain the "hot Jupiter" phenomenon, such as [[planetary migration]].
+>     - Investigate the [[Planet-Formation]] theories that attempt to explain the "hot Jupiter" phenomenon, such as [[planetary migration]].
 >     - Research the capabilities of the [[James Webb Space Telescope (JWST)]] for transmission spectroscopy and compare its sensitivity to the [[Hubble Space Telescope]].
 >     - Explore the "Phase Curve" method, an advanced technique that measures the changing brightness of a planet as it goes through its own "phases" (like our Moon).
 
@@ -214,7 +214,7 @@ This section "zooms out" to explore the wider implications of this problem-solvi
 > - [Analysis of Extra-Planets Searching and Detection Approaches: Radial Velocity, Transition and Gravitational Microlensing - SciTePress](https://www.scitepress.org/Papers/2025/138158/138158.pdf) [7.2]
 
 > [!related-topics-to-consider]
-> - [[Exoplanet]]
+> - [[exoplanet]]
 > - [[Transit Method]]
 > - [[Radial Velocity Method]]
 > - [[Direct Imaging]]
@@ -229,4 +229,4 @@ This section "zooms out" to explore the wider implications of this problem-solvi
 > - [[James Webb Space Telescope (JWST)]]
 > - [[Kepler Space Telescope]]
 > - [[TESS (Transiting Exoplanet Survey Satellite)]]
-> - [[Planet Formation]]
+> - [[Planet-Formation]]

@@ -363,7 +363,7 @@ LIMIT 20
 ## 🔗 Category 2: Link Analysis & Graph Intelligence
 
 > [!methodology-and-sources] Use Case
-> These queries analyze the [[Knowledge-Graph]] structure within a folder: identifying hubs, orphans, bridges, and link density patterns. Critical for maintaining a well-connected [[Personal-Knowledge-Base]].
+> These queries analyze the [[Knowledge-Graph]] structure within a folder: identifying hubs, orphans, bridges, and link density patterns. Critical for maintaining a well-connected [[personal-knowledge-base]].
 
 ### **2.1 Orphan Note Detection**
 
@@ -774,7 +774,7 @@ dv.paragraph(`\n**Folder Summary**: ${files.length} notes | ~${totalWords.toLoca
 ## ⏰ Category 4: Temporal & Review Management
 
 > [!methodology-and-sources] Use Case
-> Time-based queries for [[Spaced-Repetition]], review scheduling, and temporal pattern analysis. Essential for maintaining [[Evergreen-Notes]] and implementing review systems.
+> Time-based queries for [[spaced-repetition]], review scheduling, and temporal pattern analysis. Essential for maintaining [[Evergreen-Notes]] and implementing review systems.
 
 ### **4.1 Notes Due for Review (Spaced Repetition)**
 
@@ -1176,7 +1176,7 @@ dv.list(randomNotes);
 
 **Use Cases:**
 - Daily review ritual (refresh daily)
-- [[Spaced-Repetition]] variation
+- [[spaced-repetition]] variation
 - Idea generation prompts
 
 **Customization**: Change `numberToShow` to control count
@@ -1615,7 +1615,7 @@ dv.paragraph(`*Healthy ratio: 0.3-0.5 (indicates conversion of captures to refin
 ```
 
 **What This Does:**
-- Visualizes [[Zettelkasten]] note lifecycle
+- Visualizes [[zettelkasten]] note lifecycle
 - Tracks conversion of fleeting → permanent notes
 - Indicates knowledge refinement health
 
@@ -2341,5 +2341,5 @@ Progress: `= round((this.completed-tasks / this.total-tasks) * 100)`%
 > For maximum query utility, standardize these properties:
 > - `status`, `type`, `priority`, `urgency`
 > - `created`, `modified`, `review-date`, `review-count`
-> - `maturity`, `confidence` (for [[Zettelkasten]])
+> - `maturity`, `confidence` (for [[zettelkasten]])
 > - `start-date`, `due`, `end-date` (for project tracking)

@@ -16,21 +16,21 @@ link-up:
 link-related:
   - "[[2025-11-13|Daily-Note]]"
   - "[[permeant-note_moc]]"
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[pedagogy]]"
   - "[[schemas]]"
-  - "[[Self-Regulated-Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Self-Regulation-Theory]]"
   - "[[Self-Regulation Theory]]"
   - "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]"
   - "[[Structured Reflection]]"
-  - "[[Zone-of-Proximal-Development]]"
-  - "[[Working-Memory]]"
+  - "[[zone-of-proximal-development]]"
+  - "[[working-memory]]"
   - "[[Focus Of Attention]]"
   - "[[Illusions Of Comprehension]]"
   - "[[Knowledge-Management]]"
   - "[[cognitive-psychology]]"
-  - "[[Cognitive-Biases]]"
+  - "[[cognitive-biases]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -46,7 +46,7 @@ review-priority: medium
 # Self-Directed Learning
 
 > [!definition]
-> - **Key-Term**:[[Self-Directed-Learning]]
+> - **Key-Term**:[[self-directed-learning]]
 > - [**Definition**:]
 
 > [!evidence]
@@ -54,7 +54,7 @@ review-priority: medium
 > 
 > 
 
-[[Self-Directed-Learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:
+[[self-directed-learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:
 
 **Diagnostic Phase**: The learner conducts a self-assessment to identify learning needs, existing knowledge gaps, and personal learning preferences. This requires high [[metacognitive-awareness]]—the ability to accurately perceive one's own cognitive strengths and limitations.
 

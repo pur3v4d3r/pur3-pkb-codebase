@@ -863,7 +863,7 @@ Replace: [$1]
 > [!the-philosophy]
 > **Design Philosophy**
 > 
-> Text Format embodies **granular control over text transformation** in [[Obsidian]]. Rather than rigid preprocessing, it provides building blocks that users assemble into personal text processing pipelines. The Custom Replacement feature exemplifies this: instead of hundreds of built-in commands, it provides a framework where users define exactly the transformations they need.
+> Text Format embodies **granular control over text transformation** in [[obsidian]]. Rather than rigid preprocessing, it provides building blocks that users assemble into personal text processing pipelines. The Custom Replacement feature exemplifies this: instead of hundreds of built-in commands, it provides a framework where users define exactly the transformations they need.
 
 ### Strategic Workflow Integration
 

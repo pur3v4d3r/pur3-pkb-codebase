@@ -41,7 +41,7 @@ An excellent and foundational pursuit. Your focus on the "dichotomy" aligns perf
 
 These figures, while all adhering to the central Stoic framework, each had a unique perspective shaped by their lives: Epictetus, the enslaved teacher; Marcus Aurelius, the philosopher-emperor; and Seneca, the wealthy statesman and advisor. Their collective wisdom provides a robust toolkit for navigating reality.
 
-Here are several quotes, formatted for your [[Obsidian]] vault, that expand upon the principle you are implementing.
+Here are several quotes, formatted for your [[obsidian]] vault, that expand upon the principle you are implementing.
 
 ---
 

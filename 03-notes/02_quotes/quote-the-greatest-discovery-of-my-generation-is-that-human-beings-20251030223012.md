@@ -40,7 +40,7 @@ date modified: 2025-11-07T07:05:51
 > - **URL / DOI**:: <https://quoteinvestigator.com/2021/05/21/alter/>
 > - **Date Accessed**:: October 30, 2025
 > 
-> **Attribution Note**: According to Quote Investigator's research, there is no substantive evidence that [[William-James]] wrote or spoke this exact statement. The quote emerged from a family of similar sayings beginning with Harry Granison Hill (1928) and was first attributed to James by Joseph Fort Newton (1943), then popularized by [[Norman Vincent Peale]] in *The Power of Positive Thinking* (1952). While the sentiment aligns with James's [[pragmatist philosophy]] and his work on [[psychology of belief]], this specific formulation appears to be apocryphal.
+> **Attribution Note**: According to Quote Investigator's research, there is no substantive evidence that [[william-james]] wrote or spoke this exact statement. The quote emerged from a family of similar sayings beginning with Harry Granison Hill (1928) and was first attributed to James by Joseph Fort Newton (1943), then popularized by [[Norman Vincent Peale]] in *The Power of Positive Thinking* (1952). While the sentiment aligns with James's [[pragmatist philosophy]] and his work on [[psychology of belief]], this specific formulation appears to be apocryphal.
 
 ---
 
@@ -48,7 +48,7 @@ date modified: 2025-11-07T07:05:51
 
 > [!purpose]
 > ### 🎯 Core Purpose & Interpretation
-> This statement articulates a foundational principle of [[psychological agency]]—that human consciousness possesses transformative power over lived experience. The core claim posits a bidirectional relationship between internal mental states (attitudes) and external life outcomes. James (or the attributed source) is asserting that the locus of control for life change resides not primarily in external circumstances but in the cognitive-affective orientation one adopts toward those circumstances. The phrase "greatest discovery" elevates this insight to paradigm-shifting status, suggesting it represents a revolutionary understanding of human capacity—specifically, that we are not merely passive recipients of circumstance but active architects of meaning and outcome through our interpretive frameworks. The emphasis on "my generation" historicizes the claim, positioning it as an emergent realization tied to the late 19th/early 20th-century psychological revolution that James himself helped catalyze through his work in [[Functional-Psychology]] and [[radical empiricism]].
+> This statement articulates a foundational principle of [[psychological agency]]—that human consciousness possesses transformative power over lived experience. The core claim posits a bidirectional relationship between internal mental states (attitudes) and external life outcomes. James (or the attributed source) is asserting that the locus of control for life change resides not primarily in external circumstances but in the cognitive-affective orientation one adopts toward those circumstances. The phrase "greatest discovery" elevates this insight to paradigm-shifting status, suggesting it represents a revolutionary understanding of human capacity—specifically, that we are not merely passive recipients of circumstance but active architects of meaning and outcome through our interpretive frameworks. The emphasis on "my generation" historicizes the claim, positioning it as an emergent realization tied to the late 19th/early 20th-century psychological revolution that James himself helped catalyze through his work in [[functional-psychology]] and [[radical empiricism]].
 
 > [!analysis-rhetorical]
 > ### 🏛️ Rhetorical Analysis
@@ -81,7 +81,7 @@ date modified: 2025-11-07T07:05:51
 
 > [!analysis-contextual]
 > ### 🌍 Socio-Cultural Context
-> **Historical/Cultural**: This statement emerged (or was popularized) during a pivotal moment in American intellectual history—the transition from Victorian determinism to Progressive-era optimism about human capacity for self-transformation. The late 19th and early 20th centuries saw the rise of [[American-pragmatism]], [[Functional-Psychology]], and the [[New Thought movement]], all of which challenged rigid mechanistic views of human nature and emphasized the practical efficacy of belief and will.
+> **Historical/Cultural**: This statement emerged (or was popularized) during a pivotal moment in American intellectual history—the transition from Victorian determinism to Progressive-era optimism about human capacity for self-transformation. The late 19th and early 20th centuries saw the rise of [[american-pragmatism]], [[functional-psychology]], and the [[New Thought movement]], all of which challenged rigid mechanistic views of human nature and emphasized the practical efficacy of belief and will.
 >
 > William James's authentic work, particularly *The Principles of Psychology* (1890), *The Will to Believe* (1897), and *The Varieties of Religious Experience* (1902), extensively explored the relationship between mental states and lived outcomes. His concept of the "[[will to believe]]" argued that in certain cases, belief itself could help create the fact believed in—a radical departure from pure empiricism that emphasized the pragmatic consequences of ideas.
 >
@@ -97,18 +97,18 @@ date modified: 2025-11-07T07:05:51
 >
 > 1. **[[Illusion of control]]**: The quote feeds the human tendency to overestimate our ability to influence outcomes, which can be both empowering (increased self-efficacy) and problematic (victim-blaming, underestimating external constraints).
 > 
-> 2. **[[Confirmation-Bias]]**: Readers who have experienced positive outcomes from attitude shifts will readily embrace this claim, while those whose circumstances resist attitudinal transformation may be dismissed as not having truly changed their attitudes—the unfalsifiable nature of the claim makes it resistant to counterevidence.
+> 2. **[[confirmation-bias]]**: Readers who have experienced positive outcomes from attitude shifts will readily embrace this claim, while those whose circumstances resist attitudinal transformation may be dismissed as not having truly changed their attitudes—the unfalsifiable nature of the claim makes it resistant to counterevidence.
 > 
 > 3. **[[Self-serving bias]]**: The statement implicitly flatters readers by suggesting they possess the power to fundamentally reshape their lives, which is cognitively rewarding and increases receptivity to the message.
 > 
 > 4. **[[Optimism bias]]**: By framing attitude change as the "greatest discovery," it taps into our tendency to believe we can influence outcomes more than we actually can, which research shows can motivate beneficial action but also lead to poor risk assessment.
 > 
-> **Reader's Heuristic**: The quote functions as an efficient **[[Mental-Model]]** that provides:
+> **Reader's Heuristic**: The quote functions as an efficient **[[mental-model]]** that provides:
 >
 > - **Agency restoration**: For readers feeling powerless, it offers an internal locus of control when external control seems impossible
 > - **Actionable simplicity**: Complex life problems are reduced to a single intervention point (attitude), which is cognitively less overwhelming than systemic analysis
-> - **[[Growth-Mindset]] activation**: It implicitly frames personal qualities as malleable rather than fixed, which research by Carol Dweck shows enhances persistence and resilience
-> - **[[Cognitive-Reappraisal]] validation**: The statement legitimizes the psychological strategy of reframing negative situations, a core component of [[Cognitive-Behavioral-Therapy]] and [[resilience]] training
+> - **[[growth-mindset]] activation**: It implicitly frames personal qualities as malleable rather than fixed, which research by Carol Dweck shows enhances persistence and resilience
+> - **[[cognitive-reappraisal]] validation**: The statement legitimizes the psychological strategy of reframing negative situations, a core component of [[cognitive-behavioral-therapy]] and [[resilience]] training
 > 
 > **Emotional Resonance**: The quote triggers hope and self-determination while potentially creating **defensive reactions** in those whose material circumstances are severely constrained—for whom the message might feel like invalidation of genuine structural barriers. This duality makes it simultaneously therapeutic and potentially harmful, depending on the reader's context and how the principle is applied.
 

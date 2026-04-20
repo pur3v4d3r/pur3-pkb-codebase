@@ -139,7 +139,7 @@ Users can use their own system prompt and choose between different embedding pro
 1. **Role Definition**: Clearly establish the AI's identity and expertise domain
 2. **Output Format Specification**: Define structure, tone, and formatting expectations
 3. **Constraint Declaration**: Set boundaries on behavior, content types, and scope
-4. **Context Awareness**: Acknowledge the [[Obsidian]] environment and [[Zettelkasten]] methodology
+4. **Context Awareness**: Acknowledge the [[obsidian]] environment and [[zettelkasten]] methodology
 
 > [!methodology-and-sources]
 > **System Prompt Template Structure**
@@ -1444,7 +1444,7 @@ Default chat model is "copilot-plus-flash" (Gemini Flash with one context window
 > [!the-philosophy]
 > **The Philosophy of Copilot Prompt Engineering**
 > 
-> Prompt engineering in Copilot is fundamentally about **augmenting human thinking within a networked knowledge environment**. Unlike standalone LLM interfaces, Copilot prompts exist within the context of an evolving [[Personal-Knowledge-Base]], where each interaction should:
+> Prompt engineering in Copilot is fundamentally about **augmenting human thinking within a networked knowledge environment**. Unlike standalone LLM interfaces, Copilot prompts exist within the context of an evolving [[personal-knowledge-base]], where each interaction should:
 > 
 > 1. **Strengthen the knowledge graph** through thoughtful linking
 > 2. **Respect the vault's existing structure** (Zettelkasten, PARA, etc.)
@@ -1681,7 +1681,7 @@ Structural Planning:
   - Best practices and workflows
   
 - Wiki-Link Opportunities:
-  - [[Obsidian]], [[Copilot Plugin]], [[Prompt-Engineering]]
+  - [[obsidian]], [[Copilot Plugin]], [[Prompt-Engineering]]
   - [[LLM]], [[Context-Window]], [[System Prompts]]
   - [[RAG]], [[Semantic-Search]], [[Embeddings]]
   - [[Chain-of-Thought]], [[Few-Shot-Learning]]

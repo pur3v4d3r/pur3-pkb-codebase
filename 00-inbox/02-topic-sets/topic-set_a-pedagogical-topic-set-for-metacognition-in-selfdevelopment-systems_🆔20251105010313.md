@@ -37,7 +37,7 @@ link-related:
 
 >[!topic-idea]
 >
-> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive-Monitoring]] and [[Executive-Control]] in Personal Development Systems
+> 🏛️*Knowledge-Driven Learning*: The Architecture of [[metacognitive-monitoring]] and [[Executive-Control]] in Personal Development Systems
 >
 > **Scope & Angle:** This topic provides a comprehensive exposition of the dual-process model of metacognition (monitoring and control) and how these processes can be systematically applied to create a self-development framework. It covers the theoretical foundations from Flavell, Nelson & Narens, and modern neurocognitive research, then maps these concepts onto practical self-improvement methodologies. The focus is on understanding the complete taxonomy of metacognitive strategies and their specific applications in behavior change.
 
@@ -50,7 +50,7 @@ Provide a comprehensive exposition on the architecture of metacognitive monitori
  * [x] *Used?**  [created:: 2025-11-05]  [completion:: 2025-11-05]
 
 > [!topic-idea]
-> ⚙️*Problem-Based Learning*: Solving the [[Dunning-Kruger-Effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth
+> ⚙️*Problem-Based Learning*: Solving the [[dunning-kruger-effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth
 >
 > **Scope & Angle:** This topic addresses the concrete problem of how individuals can accurately assess their own competencies and progress when cognitive biases (particularly the Dunning-Kruger effect) systematically distort self-perception. It explores practical solutions including external calibration methods, structured reflection protocols, and objective measurement systems. The focus is on creating a reliable feedback system that overcomes the inherent limitations of self-assessment.
 

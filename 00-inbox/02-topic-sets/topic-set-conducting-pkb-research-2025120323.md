@@ -202,7 +202,7 @@ Tiago Forte's progressive summarization method has deep roots in cognitive psych
 **Analogical Potential**:
 Progressive summarization is like mining for gold: first pass removes obvious debris (dirt), second pass identifies ore-bearing rock (highlighting), third pass extracts precious metal (bolding key insights), final pass refines into pure gold (atomic notes) - each iteration increases density while reducing volume.
 **Prerequisite Knowledge**:
-[[Cognitive-Load-Theory]], [[Note-Taking vs Note-Making Distinction]], [[Information vs Knowledge Distinction]]
+[[cognitive-load-theory]], [[Note-Taking vs Note-Making Distinction]], [[Information vs Knowledge Distinction]]
 **Research Starting Points**:
 - Search: "progressive summarization Forte" + "incremental formalization knowledge work" + "depth of processing Craik Lockhart"
 - Key texts: Forte, *Building a Second Brain*; Craik & Lockhart, "Levels of Processing" (1972)
@@ -327,7 +327,7 @@ This topic draws from metacognition research (Flavell's metacognitive monitoring
 **Analogical Potential**:
 Metacognitive monitoring in research is like having both a speedometer (am I making progress?) and a diagnostic dashboard (is the engine healthy?) - you need real-time feedback on your research velocity but also deep indicators of whether you're building genuine understanding or just accumulating information exhaust.
 **Prerequisite Knowledge**:
-[[Metacognition Basics]], [[Self-Regulated-Learning]], [[Assessment Literacy]]
+[[Metacognition Basics]], [[self-regulated-learning]], [[Assessment Literacy]]
 **Research Starting Points**:
 - Search: "metacognitive monitoring research" + "knowledge assessment metrics" + "personal analytics knowledge work"
 - Key texts: Dunlosky & Metcalfe, *Metacognition*; Flavell's work on metacognitive monitoring

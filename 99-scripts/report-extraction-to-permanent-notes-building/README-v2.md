@@ -104,8 +104,8 @@ python 99-scripts/report-extraction-to-permanent-notes-building/pipeline_v2.py -
 ```bash
 # Extract new reports first
 python 99-scripts/pkb_extractor.py \
-  --input "999-report-orginizing/999-first-principles-reports" \
-  --output "999-report-orginizing/_extractor-output/2026-03-20-new-batch" \
+  --input "999-report-organizing/999-first-principles-reports" \
+  --output "999-report-organizing/_extractor-output/2026-03-20-new-batch" \
   --recursive
 
 # Then run pipeline
@@ -220,12 +220,12 @@ Options:
 
 | Path | Purpose |
 |------|---------|
-| `999-report-orginizing/_permanent-notes/_permanent-notes/` | All permanent notes (~1094) |
-| `999-report-orginizing/_extractor-output/` | Extraction batches (11 batches, ~457 JSON files) |
-| `999-report-orginizing/999-first-principles-reports/` | First-principles reports |
-| `999-report-orginizing/999-focused-analysis-report-generator/` | Focused analysis reports |
-| `999-report-orginizing/999-foundational-report-genrator/` | Foundational reports |
-| `999-report-orginizing/999-socratic-reports/` | Socratic dialogue reports |
+| `999-report-organizing/_permanent-notes/_permanent-notes/` | All permanent notes (~1094) |
+| `999-report-organizing/_extractor-output/` | Extraction batches (11 batches, ~457 JSON files) |
+| `999-report-organizing/999-first-principles-reports/` | First-principles reports |
+| `999-report-organizing/999-focused-analysis-report-generator/` | Focused analysis reports |
+| `999-report-organizing/999-foundational-report-generator/` | Foundational reports |
+| `999-report-organizing/999-socratic-reports/` | Socratic dialogue reports |
 | `99-scripts/report-extraction-to-permanent-notes-building/_pipeline-output/` | Pipeline run logs |
 
 ---
@@ -263,7 +263,7 @@ To add new extraction batches, append to the `EXTRACTION_BATCHES` list in `confi
 1. **Extract reports** to a new batch directory:
    ```bash
    python 99-scripts/pkb_extractor.py --input "path/to/new/reports" \
-     --output "999-report-orginizing/_extractor-output/YYYY-MM-DD-batch-name" -r
+     --output "999-report-organizing/_extractor-output/YYYY-MM-DD-batch-name" -r
    ```
 
 2. **Add the batch** to `config.py`:

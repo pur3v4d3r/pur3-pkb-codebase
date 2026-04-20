@@ -5,6 +5,7 @@
 title: "Self-Serving Attribution Bias"
 aliases:
   - "Self-Serving Attribution Bias"
+  - "Self-Serving-Attribution-Bias"
   - "SAB"
 type: permanent-note
 status: evergreen
@@ -29,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +42,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,39 +66,39 @@ narrower:
   []
 
 see-also:
-  - "[[Growth-Mindset]]"
-  - "[[Learned-Helplessness]]"
-  - "[[Self-Efficacy]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Control-Value-Theory]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Attribution-Theory]]"
-  - "[[Learned-Helplessness]]"
-  - "[[Growth-Mindset]]"
-  - "[[Locus-of-Control]]"
-  - "[[Expectancy-Value-Theory]]"
-  - "[[Self-Efficacy]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Attribution-Theory]]"
-  - "[[Motivational-Psychology]]"
-  - "[[Cognitive-Psychology-Foundations]]"
-  - "[[Motivational-Psychology]]"
-  - "[[Emotional-Regulation]]"
-  - "[[Fritz-Heider]]"
-  - "[[Harold-Kelley]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[learned-helplessness|Learned-Helplessness]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[Control-Value-Theory|Control-Value-Theory]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[learned-helplessness|Learned-Helplessness]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[locus-of-control|Locus-of-Control]]"
+  - "[[expectancy-value-theory|Expectancy-Value-Theory]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[motivational-psychology|Motivational-Psychology]]"
+  - "[[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]]"
+  - "[[motivational-psychology|Motivational-Psychology]]"
+  - "[[emotional-regulation|Emotional-Regulation]]"
+  - "[[fritz-heider|Fritz-Heider]]"
+  - "[[harold-kelley|Harold-Kelley]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive-Behavioral-Therapy]]"
-  - "[[Social-Cognitive-Theory-—-Bandura]]"
+  - "[[cognitive-behavioral-therapy|Cognitive-Behavioral-Therapy]]"
+  - "[[social-cognitive-theory-bandura|Social-Cognitive-Theory-—-Bandura]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Self-Regulated-Learning-and-Attribution-Connection-Attribution-patte|> [!topic-idea] [[Self-Regulated-Learning]] and Attribution
+  - topic: "[[> [!topic-idea] [[self-regulated-learning]] and Attribution
 > **Connection:** Attribution patterns s]]"
     description: ""
     priority: medium
@@ -160,13 +161,13 @@ importance: high
 > Weiner argued that it is not the *surface content* of an attribution — whether one says "I failed because I lack ability" versus "I failed because the test was hard" — that determines emotional and behavioral consequences, but rather the *dimensional location* of that attribution. Two attributions with completely different surface content can have identical consequences if they share the same dimensional profile. Conversely, two attributions with similar surface content can diverge dramatically…
 
 > [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
-> The stability dimension is arguably the most motivationally consequential of the three dimensions because it directly regulates the probability estimates that govern persistence decisions. Atkinson's classical expectancy-value model — the precursor to [[Expectancy-Value-Theory]] — already recognized that motivation is a function of both the value of a goal and the expectation of success. Weiner specified *how* those expectancies are updated via the attributional process: stable attributions…
+> The stability dimension is arguably the most motivationally consequential of the three dimensions because it directly regulates the probability estimates that govern persistence decisions. Atkinson's classical expectancy-value model — the precursor to [[expectancy-value-theory]] — already recognized that motivation is a function of both the value of a goal and the expectation of success. Weiner specified *how* those expectancies are updated via the attributional process: stable attributions…
 
 > [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
 > Weiner's central hypothesis about emotion states that the specific, differentiated emotions that drive achievement behavior — pride, shame, guilt, anger, gratitude, pity — are not generated by outcomes alone but by the *attributional interpretation* of those outcomes. The same failure can generate shame (if attributed internally and to ability), guilt (if attributed internally and to controllable effort), anger (if attributed externally to the unfair behavior of others), or sadness without…
 
 > [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
-> [[Learned-Helplessness]] — Seligman and Maier's (1967) foundational experimental construct — was initially formulated in purely behavioral terms: animals exposed to uncontrollable aversive events failed to escape when escape became available. The reformulation by Abramson, Seligman, and Teasdale (1978) introduced **attributional style** as the mechanism: whether uncontrollable outcomes produce generalized helplessness depends on how the person attributes the uncontrollability. Internal, Stable,…
+> [[learned-helplessness]] — Seligman and Maier's (1967) foundational experimental construct — was initially formulated in purely behavioral terms: animals exposed to uncontrollable aversive events failed to escape when escape became available. The reformulation by Abramson, Seligman, and Teasdale (1978) introduced **attributional style** as the mechanism: whether uncontrollable outcomes produce generalized helplessness depends on how the person attributes the uncontrollability. Internal, Stable,…
 
 > [!analytical-insight] Key Insight *(from [[attribution-theory-foundational-report-2026-04-03]])*
 > Crocker and Major's research and subsequent studies demonstrated that this attributional ambiguity is not benign uncertainty — it carries substantial psychological costs. When negative feedback cannot be cleanly attributed either to personal performance deficits (which allows targeted improvement) or to external bias (which allows blame-deflection without personal learning), individuals experience heightened uncertainty, rumination, and a failure of the ordinary psychological defenses that both…
@@ -191,7 +192,7 @@ importance: high
 > The self-serving attributional bias presents a fundamental tension for learning environments. Adults who consistently attribute failure to external, uncontrollable causes — "the test was poorly designed," "the instructor was unclear," "the grading was unfair" — protect their self-esteem but systematically deprive themselves of the accurate causal feedback necessary for learning. The self-serving bias functions as a cognitive immune system that prevents self-concept damage but, at excessive…
 
 > [!warning] **Key Distinction** *(from [[attribution-theory-foundational-report-2026-04-03]])*
-> Self-handicapping is significantly more common among students with ability-oriented (as opposed to effort-oriented) achievement attributions. Students who construe success as reflecting fixed ability have the most to lose from unimpeded failure-to-ability attribution, and thus engage most extensively in strategic context-manipulation. This connection between ability attribution patterns and self-handicapping explains why entity theories of intelligence (see [[Implicit-Theory-of-Intelligence]])…
+> Self-handicapping is significantly more common among students with ability-oriented (as opposed to effort-oriented) achievement attributions. Students who construe success as reflecting fixed ability have the most to lose from unimpeded failure-to-ability attribution, and thus engage most extensively in strategic context-manipulation. This connection between ability attribution patterns and self-handicapping explains why entity theories of intelligence (see [[implicit-theory-of-intelligence]])…
 
 ## Key Figures & Intellectual Lineage
 
@@ -202,10 +203,10 @@ importance: high
 > **Role:** Formalized Heider's intuitions into rigorous testable models. American social psychologist; worked with John Thibaut on interdependence theory. **Key Works:** "Attribution Theory in Social Psychology" (1967); "Causal Schemata and the Attribution Process" (1972). **Core Contribution:** The ANOVA covariation model; causal schemata; the discounting and augmentation principles.
 
 > [!person] **Bernard Weiner (born 1935)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
-> **Role:** Extended attribution from person-perception to motivational dynamics; the central theorist of educational Attribution Theory. **Key Works:** *Theories of Motivation* (1972); *An Attributional Theory of Motivation and Emotion* (1986); ongoing empirical and theoretical contributions through the 2000s. **Core Contribution:** Tripartite dimensional model (locus, stability, controllability); attribution-emotion-behavior chain; application to achievement settings. See also: [[Bernard-Weiner]].
+> **Role:** Extended attribution from person-perception to motivational dynamics; the central theorist of educational Attribution Theory. **Key Works:** *Theories of Motivation* (1972); *An Attributional Theory of Motivation and Emotion* (1986); ongoing empirical and theoretical contributions through the 2000s. **Core Contribution:** Tripartite dimensional model (locus, stability, controllability); attribution-emotion-behavior chain; application to achievement settings. See also: [[bernard-weiner]].
 
 > [!person] **Carol Dweck (born 1946)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
-> **Role:** Extended Weiner's work on motivation into the implicit theory framework; responsible for the most widely disseminated applied applications. **Key Works:** *Self-Theories* (1999); *Mindset: The New Psychology of Success* (2006). **Core Contribution:** Helpless vs. mastery response patterns; entity vs. incremental theories of intelligence; experimental demonstration of mindset interventions. See also: [[Carol-Dweck]].
+> **Role:** Extended Weiner's work on motivation into the implicit theory framework; responsible for the most widely disseminated applied applications. **Key Works:** *Self-Theories* (1999); *Mindset: The New Psychology of Success* (2006). **Core Contribution:** Helpless vs. mastery response patterns; entity vs. incremental theories of intelligence; experimental demonstration of mindset interventions. See also: [[carol-dweck]].
 
 > [!person] **Lee Ross (1942–2021)** *(from [[attribution-theory-foundational-report-2026-04-03]])*
 > **Role:** Identified and named the Fundamental Attribution Error; contributed extensively to social psychology's understanding of dispositional attribution biases. **Key Works:** "The Intuitive Psychologist and His Shortcomings" (1977). **Core Contribution:** Naming and systematizing the FAE; developing the "naive realism" perspective on social perception.
@@ -248,9 +249,9 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: What You Already Know About Causal Explanation** *(from [[attribution-theory-foundational-report-2026-04-03]])*
-> Before entering the technical architecture of [[Attribution-Theory]], pause to activate what you already implicitly know. Every time you have succeeded or failed at something — an exam, a presentation, a relationship — you have almost certainly asked *why*. "I failed because the test was unfair." "I succeeded because I worked hard." "She succeeded because she is naturally talented." These spontaneous causal explanations are the raw material of Attribution Theory.
+> Before entering the technical architecture of [[attribution-theory]], pause to activate what you already implicitly know. Every time you have succeeded or failed at something — an exam, a presentation, a relationship — you have almost certainly asked *why*. "I failed because the test was unfair." "I succeeded because I worked hard." "She succeeded because she is naturally talented." These spontaneous causal explanations are the raw material of Attribution Theory.
 > 
-> If you have encountered [[Learned-Helplessness]] or [[Growth-Mindset]], you have already touched the applied edges of…
+> If you have encountered [[learned-helplessness]] or [[growth-mindset]], you have already touched the applied edges of…
 
 ## Far Transfer Applications
 
@@ -291,7 +292,7 @@ importance: high
 ## AI Insights
 
 > [!claude-insight] **The Efficiency-Accuracy Trade-off in Attribution** *(from [[attribution-theory-foundational-report-2026-04-03]])*
-> One of the most intellectually interesting tensions in attributional cognition is the trade-off between cognitive efficiency and attributional accuracy. Kelley's ANOVA model describes the *accurate* attribution procedure, but it is computationally expensive — requiring the aggregation of information across instances, people, and contexts. Human beings, operating under time pressure and cognitive resource constraints (see [[Cognitive-Load-Theory]]), cannot typically perform this ideal analysis. The causal schemata and heuristics they use instead are adaptive shortcuts: they produce roughly…
+> One of the most intellectually interesting tensions in attributional cognition is the trade-off between cognitive efficiency and attributional accuracy. Kelley's ANOVA model describes the *accurate* attribution procedure, but it is computationally expensive — requiring the aggregation of information across instances, people, and contexts. Human beings, operating under time pressure and cognitive resource constraints (see [[cognitive-load-theory]]), cannot typically perform this ideal analysis. The causal schemata and heuristics they use instead are adaptive shortcuts: they produce roughly…
 
 > [!claude-insight] **The Moral Geometry of Attribution** *(from [[attribution-theory-foundational-report-2026-04-03]])*
 > One of the most intellectually striking features of Weiner's emotion-attribution mapping is its implicit moral geometry. The controllability dimension, in other-attribution contexts, serves as an operationalization of moral responsibility: for a behavior to generate anger or blame, it must be perceived as freely chosen; for suffering to generate pity rather than blame, it must be perceived as uncontrollable. What Weiner's framework reveals is that ordinary moral intuitions about responsibility, blame, praise, and pity are structurally organized by the same dimensional logic that governs…
@@ -392,34 +393,34 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
-- [[Cognitive-Psychology-Foundations]]
-- [[Motivational-Psychology]]
-- [[Social-Cognitive-Theory-—-Bandura]]
-- [[Information-Processing-Theory]]
+- [[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]]
+- [[motivational-psychology|Motivational-Psychology]]
+- [[social-cognitive-theory-bandura|Social-Cognitive-Theory-—-Bandura]]
+- [[information-processing-theory|Information-Processing-Theory]]
 
 **Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
-- [[Attribution-Retraining]]
-- [[Feedback-Design-for-Autonomy-and-Mastery]]
-- [[Formative-Assessment]]
-- [[Psychological-Safety-in-Learning-Environments]]
+- [[attribution-retraining|Attribution-Retraining]]
+- [[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]]
+- [[formative-assessment|Formative-Assessment]]
+- [[psychological-safety-in-learning-environments|Psychological-Safety-in-Learning-Environments]]
 
 **Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
-- [[Self-Determination-Theory]]
-- [[Growth-Mindset-Theory]]
-- [[Expectancy-Value-Theory]]
-- [[Achievement-Goal-Theory]]
-- [[Control-Value-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[growth-mindset-theory|Growth-Mindset-Theory]]
+- [[expectancy-value-theory|Expectancy-Value-Theory]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[Control-Value-Theory|Control-Value-Theory]]
 
 **Cross-report connections** *(from [[attribution-theory-foundational-report-2026-04-03]])*:
-- [[Learned-Helplessness]]
-- [[Locus-of-Control]]
-- [[Academic-Emotions]]
-- [[Implicit-Theory-of-Intelligence]]
-- [[Self-Efficacy]]
-- [[Emotional-Regulation]]
+- [[learned-helplessness|Learned-Helplessness]]
+- [[locus-of-control|Locus-of-Control]]
+- [[academic-emotions|Academic-Emotions]]
+- [[implicit-theory-of-intelligence|Implicit-Theory-of-Intelligence]]
+- [[self-efficacy|Self-Efficacy]]
+- [[emotional-regulation|Emotional-Regulation]]
 
 **Related concepts:**
-[[Growth-Mindset]] · [[Learned-Helplessness]] · [[Self-Efficacy]] · [[Achievement-Goal-Theory]] · [[Control-Value-Theory]] · [[Self-Determination-Theory]] · [[Attribution-Theory]] · [[Learned-Helplessness]] · [[Growth-Mindset]] · [[Locus-of-Control]] · [[Expectancy-Value-Theory]] · [[Self-Efficacy]] · [[Achievement-Goal-Theory]] · [[Attribution-Theory]] · [[Motivational-Psychology]] · [[Cognitive-Psychology-Foundations]] · [[Motivational-Psychology]] · [[Emotional-Regulation]] · [[Fritz-Heider]] · [[Harold-Kelley]] · [[Harold-Kelley]] · [[Bernard-Weiner]] · [[Locus-of-Control]] · [[Expectancy-Value-Theory]] · [[Growth-Mindset-Theory]] · [[Fixed-Mindset]] · [[Helpless-Response-Pattern]] · [[Mastery-Oriented-Response-Pattern]] · [[Locus-of-Control]] · [[Information-Processing-Theory]]
+[[growth-mindset|Growth-Mindset]] · [[learned-helplessness|Learned-Helplessness]] · [[self-efficacy|Self-Efficacy]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[Control-Value-Theory|Control-Value-Theory]] · [[self-determination-theory|Self-Determination-Theory]] · [[attribution-theory|Attribution-Theory]] · [[learned-helplessness|Learned-Helplessness]] · [[growth-mindset|Growth-Mindset]] · [[locus-of-control|Locus-of-Control]] · [[expectancy-value-theory|Expectancy-Value-Theory]] · [[self-efficacy|Self-Efficacy]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[attribution-theory|Attribution-Theory]] · [[motivational-psychology|Motivational-Psychology]] · [[cognitive-psychology-foundations|Cognitive-Psychology-Foundations]] · [[motivational-psychology|Motivational-Psychology]] · [[emotional-regulation|Emotional-Regulation]] · [[fritz-heider|Fritz-Heider]] · [[harold-kelley|Harold-Kelley]] · [[harold-kelley|Harold-Kelley]] · [[bernard-weiner|Bernard-Weiner]] · [[locus-of-control|Locus-of-Control]] · [[expectancy-value-theory|Expectancy-Value-Theory]] · [[growth-mindset-theory|Growth-Mindset-Theory]] · [[fixed-mindset|Fixed-Mindset]] · [[helpless-response-pattern|Helpless-Response-Pattern]] · [[mastery-oriented-response-pattern|Mastery-Oriented-Response-Pattern]] · [[locus-of-control|Locus-of-Control]] · [[information-processing-theory|Information-Processing-Theory]]
 
 ## References
 

@@ -75,7 +75,7 @@ The teaching-learning relationship involves a complex interplay where instructor
 
 The conceptualization of teaching methods has evolved dramatically across centuries, moving from the Socratic questioning methods of ancient Greece through medieval scholastic traditions to the progressive education movements of the 20th century. Each historical period contributed distinct insights into how humans learn and how instruction might be optimized. The scientific study of human learning dates back over 2000 years to Aristotle and Plato, with particularly rapid growth in educational theory development occurring in the last thirty years.
 
-Modern pedagogy distinguishes itself from historical approaches through systematic integration of empirical research from [[cognitive-psychology]], [[neuroscience]], and [[Educational-Psychology]]. This evidence-based orientation has transformed pedagogy from an intuitive art practiced through apprenticeship into a disciplined field supported by rigorous research methodologies including [[Randomized Controlled Trials]], [[Meta-Analysis]], and [[Longitudinal Studies]].
+Modern pedagogy distinguishes itself from historical approaches through systematic integration of empirical research from [[cognitive-psychology]], [[neuroscience]], and [[educational-psychology]]. This evidence-based orientation has transformed pedagogy from an intuitive art practiced through apprenticeship into a disciplined field supported by rigorous research methodologies including [[Randomized Controlled Trials]], [[Meta-Analysis]], and [[Longitudinal Studies]].
 
 ### The Pedagogy-Andragogy-Heutagogy Continuum
 
@@ -139,7 +139,7 @@ Behaviorist principles manifest in teaching through:
 
 > [!definition]
 > - **Cognitivism**:: A learning theory conceptualizing the mind as an information processing system that encodes, stores, and retrieves information through mental structures called [[schemas|schemata]]
-> - **Key Theorists**:: [[Jean-Piaget]], [[Jerome-Bruner]], [[Robert Gagné]], [[David-Ausubel]]
+> - **Key Theorists**:: [[jean-piaget]], [[jerome-bruner]], [[Robert Gagné]], [[david-ausubel]]
 
 Cognitivism emerged in the mid-20th century as a response to behaviorism's limitations, redirecting attention to internal mental processes that mediate between stimulus and response. Piaget detailed how learners compare new information with prior held beliefs and actively change behavior or disregard learning based upon their analysis of the material.
 
@@ -147,25 +147,25 @@ Cognitivism emerged in the mid-20th century as a response to behaviorism's limit
 
 **Schema Theory**: Knowledge is organized into cognitive structures (schemata) representing concepts and their relationships. Learning involves modifying existing schemata through two processes: assimilation (integrating new information into existing frameworks) and accommodation (restructuring frameworks to incorporate incompatible information).
 
-**Information Processing Model**: The mind functions analogously to a computer, with sensory input moving through [[Working-Memory]] (limited capacity, temporary storage) to [[Long-Term-Memory]] (virtually unlimited capacity, permanent storage). The human brain has limited memory resources within working memory, which is easily overwhelmed when processing large amounts of new or complex information.
+**Information Processing Model**: The mind functions analogously to a computer, with sensory input moving through [[working-memory]] (limited capacity, temporary storage) to [[long-term-memory]] (virtually unlimited capacity, permanent storage). The human brain has limited memory resources within working memory, which is easily overwhelmed when processing large amounts of new or complex information.
 
 **Meaningful Learning**: Ausubel's concept of meaningful learning contrasts with rote memorization by emphasizing the importance of connecting new knowledge to learners' existing cognitive structures. Information becomes meaningful through intentional linking to prior knowledge rather than arbitrary association.
 
 #### Pedagogical Implications
 
 Cognitivist principles inform teaching through:
-- [[Advance-Organizers]] providing conceptual frameworks before detailed content
+- [[advance-organizers]] providing conceptual frameworks before detailed content
 - [[Concept Mapping]] to externalize knowledge structures
-- [[Chunking]] information to respect working memory limitations
-- [[Elaborative-Rehearsal]] promoting deep processing
-- [[Metacognitive-strategies]] helping learners monitor their thinking
-- [[Scaffolding]] that progressively transfers cognitive responsibility
+- [[chunking]] information to respect working memory limitations
+- [[elaborative-rehearsal]] promoting deep processing
+- [[metacognitive-strategies]] helping learners monitor their thinking
+- [[scaffolding]] that progressively transfers cognitive responsibility
 
 ### 🏗️ Constructivism: Active Knowledge Construction
 
 > [!definition]
 > - **Constructivism**:: A learning theory proposing that learners actively construct knowledge through experiences and reflection rather than passively receiving information
-> - **Key Theorists**:: [[Jean-Piaget]] (Cognitive Constructivism), [[Lev-Vygotsky]] (Social Constructivism), [[Jerome-Bruner]], [[John-Dewey]]
+> - **Key Theorists**:: [[jean-piaget]] (Cognitive Constructivism), [[lev-vygotsky]] (Social Constructivism), [[jerome-bruner]], [[john-dewey]]
 
 Constructivism suggests learners actively build their knowledge through experiences and interactions, with education focusing on problem-solving and critical thinking while encouraging learners to connect new information with prior knowledge.
 
@@ -199,10 +199,10 @@ Vygotsky's theory of social constructivism posits that learning and development 
 
 Constructivist principles manifest in:
 - [[Problem-Based Learning]] where learners construct understanding through problem-solving
-- [[Project-Based Learning]] with authentic, extended inquiries
-- [[Inquiry-Based-Learning]] emphasizing question formulation and investigation
+- [[Project-Based-Learning]] with authentic, extended inquiries
+- [[inquiry-based-learning]] emphasizing question formulation and investigation
 - [[Collaborative Learning]] leveraging peer interaction
-- [[Discovery-Learning]] with guided exploration
+- [[discovery-learning]] with guided exploration
 - [[Authentic Assessment]] evaluating real-world application
 
 > [!key-claim]
@@ -229,7 +229,7 @@ Connectivism addresses how technology has fundamentally altered the nature of kn
 
 > [!definition]
 > - **Humanism**:: A learning theory emphasizing personal growth, self-actualization, and the affective dimensions of learning
-> - **Key Theorists**:: [[Carl-Rogers]], [[Abraham-Maslow]], [[Paulo Freire]]
+> - **Key Theorists**:: [[carl-rogers]], [[abraham-maslow]], [[Paulo Freire]]
 
 Humanistic approaches prioritize the learner's emotional well-being, intrinsic motivation, and personal development alongside cognitive growth. The transformation model based on humanistic psychology emphasizes personal meaning-making, social consciousness, and education as a tool for empowerment rather than mere knowledge transmission.
 
@@ -245,7 +245,7 @@ Humanistic approaches prioritize the learner's emotional well-being, intrinsic m
 - [[Critical Pedagogy]] examining power structures
 - [[Social-Emotional Learning]] integration
 - [[Trauma-Informed Teaching]]
-- [[Motivational-Interviewing]] in educational contexts
+- [[motivational-interviewing]] in educational contexts
 
 ### Comparative Theoretical Framework
 
@@ -275,7 +275,7 @@ Humanistic approaches prioritize the learner's emotional well-being, intrinsic m
 
 > [!definition]
 > - **Direct Instruction**:: A teacher-centered pedagogical approach characterized by explicit explanation, modeling, guided practice, and independent practice in a structured sequence
-> - **Theoretical Foundation**:: [[Behaviorism]], [[Cognitive-Load-Theory]]
+> - **Theoretical Foundation**:: [[Behaviorism]], [[cognitive-load-theory]]
 
 Direct Instruction represents the systematic, explicit teaching of specific skills or knowledge through a clearly defined sequence. The method emphasizes teacher demonstration, student practice under supervision, and corrective feedback until learners achieve mastery.
 
@@ -312,7 +312,7 @@ Critics argue that Cognitive Load Theory promoting Direct Instruction has been c
 
 > [!definition]
 > - **Socratic Method**:: A pedagogical approach using systematic questioning to stimulate critical thinking, expose contradictions in thinking, and guide learners toward understanding through dialogue
-> - **Historical Origin**:: Ancient Greek philosopher [[Socrates]] (5th century BCE)
+> - **Historical Origin**:: Ancient Greek philosopher [[socrates]] (5th century BCE)
 
 The Socratic Method transforms teaching into structured dialogue where the instructor poses carefully sequenced questions that challenge assumptions, probe implications, and guide learners to discover principles independently rather than receiving direct instruction.
 
@@ -331,7 +331,7 @@ The Socratic Method transforms teaching into structured dialogue where the instr
 #### Strengths and Limitations
 
 **Strengths**:
-- Develops [[Critical-Thinking]] and [[Logical-Reasoning]]
+- Develops [[critical-thinking]] and [[Logical-Reasoning]]
 - Enhances [[metacognitive-awareness]]
 - Promotes active engagement with content
 - Reveals misconceptions for targeted intervention
@@ -375,7 +375,7 @@ Pure lecture without active elements shows consistently poor learning outcomes c
 
 > [!definition]
 > - **Demonstration**:: A pedagogical method where the teacher performs a skill or procedure while students observe, then students practice under supervision
-> - **Theoretical Foundation**:: [[Social Learning Theory]] ([[Albert-Bandura]]), [[Cognitive-Apprenticeship]]
+> - **Theoretical Foundation**:: [[Social Learning Theory]] ([[albert-bandura]]), [[Cognitive-Apprenticeship]]
 
 Demonstration and modeling bridges the gap between abstract explanation and practical application by making expert performance visible and providing clear exemplars for novice learners to emulate.
 
@@ -439,13 +439,13 @@ Overreliance on rote learning:
 
 > [!the-philosophy]
 > **Paradigm Evolution**
-> Contemporary pedagogical methods integrate insights from [[Cognitive-Science]], [[neuroscience]], and rigorous educational research to optimize learning outcomes. These evidence-based approaches emphasize active engagement, metacognitive development, and authentic application while respecting principles of how human cognition actually functions.
+> Contemporary pedagogical methods integrate insights from [[cognitive-science]], [[neuroscience]], and rigorous educational research to optimize learning outcomes. These evidence-based approaches emphasize active engagement, metacognitive development, and authentic application while respecting principles of how human cognition actually functions.
 
 ### 🎯 Active Learning
 
 > [!definition]
 > - **Active Learning**:: Any instructional method engaging students in the learning process through activities requiring analysis, synthesis, and evaluation of content rather than passive information reception
-> - **Theoretical Foundation**:: [[Constructivism]], [[Cognitive Engagement Theory]]
+> - **Theoretical Foundation**:: [[constructivism]], [[Cognitive Engagement Theory]]
 
 Active learning is any approach whereby students engage in activities such as reading, writing, discussion, or problem-solving that promote analysis, synthesis, and evaluation of content. The fundamental premise holds that students learn more deeply when actively processing information rather than passively receiving it.
 
@@ -486,7 +486,7 @@ The evidence strongly favors active learning over traditional lecture-only appro
 > [!definition]
 > - **Collaborative Learning**:: Instructional methods leveraging student interaction in groups to achieve learning objectives through shared intellectual effort
 > - **Cooperative Learning**:: A structured form of collaborative learning with defined roles, individual accountability, and positive interdependence
-> - **Theoretical Foundation**:: [[Social-Constructivism]] ([[Vygotsky]]), [[Cognitive Elaboration Theory]]
+> - **Theoretical Foundation**:: [[social-constructivism]] ([[vygotsky]]), [[Cognitive Elaboration Theory]]
 
 Collaborative approaches recognize that learning is fundamentally social, with peer interaction providing opportunities for articulation, cognitive conflict resolution, and exposure to diverse perspectives.
 
@@ -530,7 +530,7 @@ Collaborative learning proves particularly effective for:
 
 > [!definition]
 > - **Problem-Based Learning**:: An instructional method where students learn content and develop skills by working to solve complex, open-ended problems without predetermined solutions
-> - **Theoretical Foundation**:: [[Constructivism]], [[Situated-Learning-Theory]]
+> - **Theoretical Foundation**:: [[constructivism]], [[situated-learning-theory]]
 > - **Origin**:: 1960s medical education (McMaster University)
 
 Problem-based learning presents students with real or realistic problems, using inductive reasoning to learn both information about the topic and how to think critically, with instructors facilitating and guiding rather than teaching directly.
@@ -587,7 +587,7 @@ Sweller proposed cognitive load theory to explain how novices react to problem-s
 
 > [!definition]
 > - **Project-Based Learning**:: An extended learning approach where students investigate complex questions or problems through sustained inquiry, culminating in publicly presented products or performances
-> - **Theoretical Foundation**:: [[Constructivism]], [[Experiential Learning Theory]] ([[John-Dewey]])
+> - **Theoretical Foundation**:: [[constructivism]], [[Experiential Learning Theory]] ([[john-dewey]])
 > - **Historical Origin**:: 1918 (William Kilpatrick's "Project Method")
 
 Project-based learning is a student-centered approach where learners gain knowledge by working for an extended period to investigate and respond to authentic, complex questions or problems. While sharing similarities with PBL, PjBL emphasizes tangible product creation and public presentation.
@@ -648,7 +648,7 @@ Both approaches share constructivist foundations and emphasize authentic, studen
 
 > [!definition]
 > - **Inquiry-Based Learning**:: A pedagogical approach where students learn through asking questions, investigating phenomena, and constructing explanations based on evidence
-> - **Theoretical Foundation**:: [[Constructivism]], [[Discovery-Learning]]
+> - **Theoretical Foundation**:: [[constructivism]], [[discovery-learning]]
 > - **Levels**:: Ranges from structured (teacher-provided questions) to open (student-generated questions)
 
 Guided inquiry-based learning promotes conceptual learning by engaging students in investigation of how ideas relate to one another rather than presenting them with a set of ideas. The approach mirrors authentic scientific and scholarly inquiry processes.
@@ -690,7 +690,7 @@ However, purely unguided discovery learning shows poor effectiveness, particular
 
 > [!definition]
 > - **Experiential Learning**:: A pedagogical philosophy emphasizing learning through direct experience, reflection, and application
-> - **Theoretical Foundation**:: [[David-Kolb]]'s Experiential Learning Theory, [[John-Dewey]]'s Progressive Education
+> - **Theoretical Foundation**:: [[David-Kolb]]'s Experiential Learning Theory, [[john-dewey]]'s Progressive Education
 > - **Key Principle**:: Learning results from grasping experience and transforming it through reflection
 
 Kolb's Experiential Learning Cycle describes learning as a four-stage cyclical process:
@@ -730,7 +730,7 @@ The approach requires careful attention to reflection quality; experience withou
 
 > [!definition]
 > - **Mastery Learning**:: An instructional approach ensuring all students achieve defined competency levels before progressing to subsequent content
-> - **Theoretical Foundation**:: [[Benjamin-Bloom]]'s work on mastery, [[John Carroll]]'s Model of School Learning
+> - **Theoretical Foundation**:: [[benjamin-bloom]]'s work on mastery, [[John Carroll]]'s Model of School Learning
 > - **Key Principle**:: Given sufficient time and appropriate instruction, nearly all students can master learning objectives
 
 Mastery Learning inverts traditional time-constant, achievement-variable models by fixing achievement standards while varying time and instructional support until mastery is demonstrated.
@@ -1013,7 +1013,7 @@ UbD identifies six dimensions demonstrating deep understanding:
 > [!definition]
 > - **5E Model**:: A constructivist instructional framework consisting of five phases: Engage, Explore, Explain, Elaborate, and Evaluate
 > - **Origin**:: [[Biological Sciences Curriculum Study]] (BSCS)
-> - **Theoretical Foundation**:: [[Constructivism]], [[Conceptual-Change-Theory]]
+> - **Theoretical Foundation**:: [[constructivism]], [[Conceptual-Change-Theory]]
 
 The 5E Model provides a learning cycle structure particularly prevalent in science education but applicable across disciplines. It systematically guides learners from initial engagement through exploration, explanation, application, and assessment.
 
@@ -1062,7 +1062,7 @@ The 5E sequence aligns with constructivist learning principles by:
 
 > [!definition]
 > - **Gradual Release of Responsibility**:: An instructional framework progressively transferring cognitive work from teacher to student through four phases: I do, We do, You do together, You do alone
-> - **Theoretical Foundation**:: [[Vygotsky]]'s [[Zone-of-Proximal-Development]], [[Scaffolding Theory]]
+> - **Theoretical Foundation**:: [[vygotsky]]'s [[zone-of-proximal-development]], [[Scaffolding Theory]]
 > - **Also Known As**:: "I do, We do, You do" model
 
 This framework provides a systematic approach for scaffolding instruction, beginning with teacher modeling and systematically increasing student independence as competence develops.
@@ -1475,7 +1475,7 @@ Summative assessments should:
 
 > [!definition]
 > - **Authentic Assessment**:: Evaluation requiring students to demonstrate knowledge and skills through real-world application rather than artificial test contexts
-> - **Theoretical Foundation**:: [[Situated-Learning-Theory]], [[Transfer-of-Learning]]
+> - **Theoretical Foundation**:: [[situated-learning-theory]], [[transfer-of-learning]]
 > - **Key Characteristic**:: Tasks resembling performances expected in professional or civic contexts
 
 Authentic assessment addresses limitations of traditional testing by evaluating whether students can apply learning in contexts resembling actual knowledge use.
@@ -1687,7 +1687,7 @@ Effective differentiation depends on ongoing assessment revealing:
 
 > [!definition]
 > - **Universal Design for Learning**:: An educational framework providing multiple means of engagement, representation, and action/expression to support all learners
-> - **Theoretical Foundation**:: [[neuroscience]], [[Cognitive-Science]], [[Universal Design]]
+> - **Theoretical Foundation**:: [[neuroscience]], [[cognitive-science]], [[Universal Design]]
 > - **Developers**:: [[CAST]] (Center for Applied Special Technology)
 > - **Key Principle**:: Proactive design eliminating barriers rather than retrofitting accommodations
 
@@ -1951,7 +1951,7 @@ It DOES mean:
 
 > [!definition]
 > - **Cognitive Load Theory (CLT)**:: A framework explaining how the limited capacity of working memory affects learning and how instructional design can manage cognitive demands
-> - **Developer**:: [[John-Sweller]] (1980s)
+> - **Developer**:: [[john-sweller]] (1980s)
 > - **Core Principle**:: Learning is optimized when instructional design minimizes extraneous load, manages intrinsic load appropriately, and maximizes germane load
 
 Cognitive Load Theory is an instructional design framework that focuses on how the human brain processes, stores, and retrieves information, rooted in the psychology of learning and providing valuable insights for educators to optimize teaching by considering the brain's cognitive capacity.
@@ -2547,7 +2547,7 @@ Most effective pedagogy draws eclectically from multiple paradigms:
 * [[Neuroscience of Learning and Memory]]
 * [[Cultural Dimensions of Teaching and Learning]]
 * [[Motivation Theories in Educational Contexts]]
-* [[Metacognition-and-Self-Regulated-Learning]]
+* [[metacognition-and-self-regulated-learning]]
 * [[Educational Measurement and Psychometrics]]
 * [[Classroom Management and Learning Environment Design]]
 * [[Professional Development for Pedagogical Excellence]]

@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Purple",
+  "cssTheme": "V4D3R Aurora",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -18,7 +18,7 @@
   "showRibbon": true,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "theme": "obsidian",
-  "accentColor": "#ff0000"
+  "accentColor": "#ffffff"
 }

@@ -439,9 +439,9 @@ improvement-potential: "Medium"
 > **Link Quality**: Generally high—meaningful conceptual connections
 > 
 > <span style='color: #27FF00;'>**Well-Executed Links:**</span>
-> - Core constructs: `[[Selective-Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
-> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel-Kahneman]]` (implied)
-> - Related frameworks: `[[Working-Memory]]`, `[[Cognitive-Load-Theory]]`, `[[Self-Determination-Theory]]`
+> - Core constructs: `[[selective-attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
+> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[daniel-kahneman]]` (implied)
+> - Related frameworks: `[[working-memory]]`, `[[cognitive-load-theory]]`, `[[self-determination-theory]]`
 > - Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`
 
 > [!warning] Missed Wiki-Link Opportunities
@@ -573,7 +573,7 @@ improvement-potential: "Medium"
 > 3. **Remove duplicate tags** (lines 358-360): Delete the second `tags:` block in document body
 > 
 > 4. **Add missed wiki-links**:
->    - `[[Yerkes-Dodson-Law]]` at line 488
+>    - `[[yerkes-dodson-law]]` at line 488
 >    - `[[Anne Treisman]]` at line 421
 >    - `[[Iconic-Memory]]` and `[[Echoic-Memory]]` at line 396
 >    - `[[Information-Theory]]` at line 372
@@ -597,7 +597,7 @@ improvement-potential: "Medium"
 >    ```markdown
 >    ## 🔗 Integration with Cognitive Frameworks
 >    
->    ### [[Working-Memory]]
+>    ### [[working-memory]]
 >    Kahneman's capacity model provided theoretical foundation…
 >    ```
 > 
@@ -699,8 +699,8 @@ Verify:
 
 For cognitive science content, ALWAYS wiki-link:
 - Named theories (e.g., [[Filter Model]], [[Capacity Model]])
-- Named researchers (e.g., [[Donald Broadbent]], [[Daniel-Kahneman]])
-- Named laws/principles (e.g., [[Yerkes-Dodson-Law]])
+- Named researchers (e.g., [[Donald Broadbent]], [[daniel-kahneman]])
+- Named laws/principles (e.g., [[yerkes-dodson-law]])
 - Named experimental paradigms (e.g., [[Dichotic Listening Task]])
 - Memory systems (e.g., [[Iconic-Memory]], [[Echoic-Memory]])
 - Related frameworks mentioned in connections section
@@ -717,7 +717,7 @@ For cognitive science content, ALWAYS wiki-link:
 |-----------|--------|-----------------|
 | `[[cognitive-science-moc]]` | High | Add this note as key reference |
 | `[[learning-theory-moc]]` | Medium | Cross-reference via Cognitive Load Theory |
-| `[[Attention]]` tag family | High | Verify tag hierarchy consistency |
+| `[[attention]]` tag family | High | Verify tag hierarchy consistency |
 | Permanent note template | Low | No template changes needed |
 | DataviewJS extraction | None | Inline fields already compatible |
 

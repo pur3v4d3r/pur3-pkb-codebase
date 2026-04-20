@@ -250,7 +250,7 @@ link-related:
 > - [[QuickAdd]] - capture plugin
 > - [[CSS Snippets]] - Obsidian feature
 > - [[Dataview]] - query plugin
-> - [[Personal-Knowledge-Management]] - broader context
+> - [[personal-knowledge-management]] - broader context
 > - [[Text Formatting]] - general concept
 > - [[Accessibility]] - design principle
 > - [[Keyboard Shortcuts]] - efficiency technique
@@ -327,7 +327,7 @@ aliases: [Text Wrappers, Obsidian HTML Snippets, Markdown Styling Shortcuts, Cus
 
 ### What Makes Wrappers Powerful
 
-Wrappers represent a paradigm shift in how you interact with text formatting in your [[Personal-Knowledge-Management]] system. Unlike manual HTML typing or repetitive Markdown formatting, wrappers create **reusable formatting templates** that can be invoked instantly through automation tools like [[Templater]], [[QuickAdd]], or text expander utilities.
+Wrappers represent a paradigm shift in how you interact with text formatting in your [[personal-knowledge-management]] system. Unlike manual HTML typing or repetitive Markdown formatting, wrappers create **reusable formatting templates** that can be invoked instantly through automation tools like [[Templater]], [[QuickAdd]], or text expander utilities.
 
 The power of wrappers derives from three core capabilities. First, they provide **consistency enforcement** across your entire vault—once you define a wrapper for highlighting important concepts, every note using that wrapper maintains identical visual treatment. This consistency isn't merely aesthetic; it creates **cognitive anchors** that help your brain recognize information hierarchies instantly during review sessions.
 

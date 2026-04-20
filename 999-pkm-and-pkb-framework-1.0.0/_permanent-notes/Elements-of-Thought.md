@@ -5,6 +5,7 @@
 title: "Elements of Thought"
 aliases:
   - "Elements of Thought"
+  - "Elements-of-Thought"
   - "EOT"
 type: permanent-note
 status: evergreen
@@ -36,8 +37,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -48,7 +49,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -72,40 +73,40 @@ narrower:
   []
 
 see-also:
-  - "[[Critical-Thinking]]"
-  - "[[Elenchus]]"
-  - "[[John-Dewey]]"
-  - "[[Reflective-Thinking]]"
-  - "[[Robert-Ennis]]"
-  - "[[Peter-Facione]]"
-  - "[[Diane-Halpern]]"
-  - "[[Keith-Stanovich]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Working-Memory]]"
-  - "[[Metacognition]]"
-  - "[[Virtue-Epistemology]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition-and-Critical-Thinking]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Flavell-Metacognition-Framework]]"
-  - "[[Barry-Zimmerman]]"
-  - "[[Daniel-Kahneman]]"
-  - "[[Bloom's-Taxonomy]]"
+  - "[[critical-thinking|Critical-Thinking]]"
+  - "[[elenchus|Elenchus]]"
+  - "[[john-dewey|John-Dewey]]"
+  - "[[reflective-thinking|Reflective-Thinking]]"
+  - "[[robert-ennis|Robert-Ennis]]"
+  - "[[Peter-Facione|Peter-Facione]]"
+  - "[[diane-halpern|Diane-Halpern]]"
+  - "[[keith-stanovich|Keith-Stanovich]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[working-memory|Working-Memory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[virtue-epistemology|Virtue-Epistemology]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition-and-critical-thinking|Metacognition-and-Critical-Thinking]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[dual-process-theory|Dual-Process-Theory]]"
+  - "[[flavell-metacognition-framework|Flavell-Metacognition-Framework]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[daniel-kahneman|Daniel-Kahneman]]"
+  - "[[blooms-taxonomy|Bloom's-Taxonomy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Dewey's-Reflective-Thinking]]"
-  - "[[Delphi-Report]]"
-  - "[[Paul-Elder-Framework]]"
+  - "[[deweys-reflective-thinking|Dewey's-Reflective-Thinking]]"
+  - "[[delphi-report|Delphi-Report]]"
+  - "[[paul-elder-framework|Paul-Elder-Framework]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-1.-Informal-Logic-and-Argumentation-Theory-Connection-This-report-ad|> [!topic-idea] 1. [[Informal-Logic]] and Argumentation Theory
+  - topic: "[[> [!topic-idea] 1. [[Informal-Logic]] and Argumentation Theory
 > **Connection:** This report address]]"
     description: ""
     priority: medium
@@ -125,7 +126,7 @@ importance: high
 > **Definition:** Eight universal structures present in all reasoning: purpose, question at issue, information, interpretation/inference, concepts, assumptions, implications/consequences, and point of view. Critical analysis involves examining each element for quality using Intellectual Standards.
 > **Boundary conditions:** The framework provides structural analysis tools but requires domain knowledge for meaningful application. Not all reasoning tasks engage all eight elements equally.
 > **Report significance:** One of the major frameworks analysed in Section 3.
-> **See also:** [[Intellectual-Standards]], [[Paul-Elder-Framework]], [[Strong-Sense-Critical-Thinking]]
+> **See also:** [[intellectual-standards]], [[paul-elder-framework]], [[Strong-Sense-Critical-Thinking]]
 
 ## Core Explanation
 
@@ -155,16 +156,16 @@ importance: high
 > - McPeck, J.E. (1981). *Critical Thinking and Education*. Blackwell. — The strongest articulation of the domain-specificity position.
 
 > [!analytical-insight] Key Insight *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> The Socratic method established two principles that remain central to critical thinking theory: (1) that systematic questioning is more epistemically productive than assertion, and (2) that recognizing the limits of one's knowledge (Socratic ignorance) is a prerequisite for intellectual progress. These principles surface in virtually every modern critical thinking framework, from [[Paul-and-Elder|Paul and Elder's]] emphasis on [[Socratic-Questioning-Methodology|Socratic questioning]] to…
+> The Socratic method established two principles that remain central to critical thinking theory: (1) that systematic questioning is more epistemically productive than assertion, and (2) that recognizing the limits of one's knowledge (Socratic ignorance) is a prerequisite for intellectual progress. These principles surface in virtually every modern critical thinking framework, from [[paul-and-elder|Paul and Elder's]] emphasis on [[socratic-questioning-methodology|Socratic questioning]] to…
 
 > [!analytical-insight] Key Insight *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> Stanovich's tripartite model reveals that critical thinking is doubly dependent: it requires both the *algorithmic capacity* to engage in complex reasoning (a function of intelligence and [[Working-Memory]] capacity) and the *reflective disposition* to recognize when such engagement is needed and to initiate it. This explains why critical thinking and general intelligence are correlated but not identical — a person can have high algorithmic capacity but low reflective disposition, resulting in…
+> Stanovich's tripartite model reveals that critical thinking is doubly dependent: it requires both the *algorithmic capacity* to engage in complex reasoning (a function of intelligence and [[working-memory]] capacity) and the *reflective disposition* to recognize when such engagement is needed and to initiate it. This explains why critical thinking and general intelligence are correlated but not identical — a person can have high algorithmic capacity but low reflective disposition, resulting in…
 
 > [!analytical-insight] Key Insight *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > Among Facione's seven dispositions, truth-seeking occupies a privileged position because it is the only one that explicitly requires willingness to pursue findings even when they are uncomfortable. A person can be analytical, systematic, and self-confident while still deploying these qualities selectively — avoiding domains where the truth might threaten cherished beliefs. Truth-seeking, as Facione defines it, requires the intellectual courage to follow arguments and evidence wherever they…
 
 > [!analytical-insight] Key Insight *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> The [[Monitoring-Control-Coupling|monitoring-control coupling]] identified in the Nelson-Narens model is the engine of critical thinking in action. When a critical thinker detects that their [[Judgment-of-Learning|judgment]] about an argument is based on the conclusion's plausibility rather than the argument's logical structure (monitoring), and consequently shifts to explicit evaluation of the argument's form (control), they are executing the metacognitive cycle that makes critical thinking…
+> The [[monitoring-control-coupling|monitoring-control coupling]] identified in the Nelson-Narens model is the engine of critical thinking in action. When a critical thinker detects that their [[judgment-of-learning|judgment]] about an argument is based on the conclusion's plausibility rather than the argument's logical structure (monitoring), and consequently shifts to explicit evaluation of the argument's form (control), they are executing the metacognitive cycle that makes critical thinking…
 
 > [!analytical-insight] Key Insight *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > McPeck's central argument is that background knowledge and domain-specific epistemic norms are not merely *helpful* for critical thinking but *constitutive* of it. A person who has mastered the principles of [[Formal-Logic|formal logic]] but knows nothing about epidemiology cannot think critically about a medical study — not because they lack general skills but because they lack the domain knowledge that makes the skills applicable. The implication is that "generic" CT courses are fundamentally…
@@ -175,13 +176,13 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> Paul's insistence on the strong sense/weak sense distinction carries a profound implication: a person can be highly skilled in logical analysis, evidence evaluation, and argument construction while still failing to think critically in the fullest sense. If those skills are deployed only in service of defending prior commitments — if they function as tools of [[Motivated-Reasoning|motivated reasoning]] rather than genuine inquiry — they constitute sophisticated rationalization, not critical…
+> Paul's insistence on the strong sense/weak sense distinction carries a profound implication: a person can be highly skilled in logical analysis, evidence evaluation, and argument construction while still failing to think critically in the fullest sense. If those skills are deployed only in service of defending prior commitments — if they function as tools of [[motivated-reasoning|motivated reasoning]] rather than genuine inquiry — they constitute sophisticated rationalization, not critical…
 
 > [!warning] **Key Distinction** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > The hierarchical structure of Bloom's Taxonomy carries a significant pedagogical assumption: that higher-order thinking is necessarily built upon a foundation of lower-order knowledge and comprehension. While there is intuitive appeal to this assumption — one cannot evaluate what one does not understand — it has been challenged by educational research demonstrating that analytical and evaluative thinking can sometimes *drive* knowledge acquisition rather than merely building upon it. The…
 
 > [!warning] **Key Distinction** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> The contemporary information landscape poses challenges to critical thinking that are qualitatively different from those anticipated by the field's founders. [[Misinformation-and-Disinformation|Misinformation and disinformation]], algorithmically amplified and targeted, exploit precisely the cognitive vulnerabilities identified in Section 4 — [[Confirmation-Bias|confirmation bias]], the [[Fluency-Illusion|fluency illusion]], [[Availability-Heuristic|availability bias]],…
+> The contemporary information landscape poses challenges to critical thinking that are qualitatively different from those anticipated by the field's founders. [[Misinformation-and-Disinformation|Misinformation and disinformation]], algorithmically amplified and targeted, exploit precisely the cognitive vulnerabilities identified in Section 4 — [[confirmation-bias|confirmation bias]], the [[fluency-illusion|fluency illusion]], [[availability-heuristic|availability bias]],…
 
 ## Key Figures & Intellectual Lineage
 
@@ -195,7 +196,7 @@ importance: high
 > Philosopher of education who provided the first modern analytical definition of CT (1962) as "the correct assessing of statements" and subsequently refined it to "reasonable reflective thinking focused on deciding what to believe or do." His comprehensive taxonomy of CT skills and dispositions and his four-model instructional framework (general, infusion, immersion, mixed) shaped decades of educational practice.
 
 > [!person] **Richard Paul (1937–2019) and Linda Elder** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> Developed the most comprehensive structural framework for CT through the [[Paul-Elder-Framework]], comprising Elements of Thought, Intellectual Standards, and Intellectual Traits. Paul's distinction between weak-sense and strong-sense critical thinking remains foundational, and his emphasis on intellectual character connected CT to virtue theory.
+> Developed the most comprehensive structural framework for CT through the [[paul-elder-framework]], comprising Elements of Thought, Intellectual Standards, and Intellectual Traits. Paul's distinction between weak-sense and strong-sense critical thinking remains foundational, and his emphasis on intellectual character connected CT to virtue theory.
 
 > [!person] **Peter Facione (b. 1944)** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > Led the 1988-1990 Delphi project that produced the field's most influential consensus definition and the PENCRISAL skills taxonomy. Developed the California Critical Thinking Skills Test (CCTST) and Disposition Inventory (CCTDI), providing psychometrically validated assessment instruments that operationalized the theoretical taxonomy.
@@ -228,7 +229,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > 1. If the Delphi process required forty-six experts and two years to reach consensus, what does this difficulty reveal about the concept of critical thinking itself? Is definitional precision achievable, or is the concept inherently contested?
-> 2. How does Paul's strong-sense/weak-sense distinction relate to the phenomenon of [[Motivated-Reasoning|motivated reasoning]]? Can someone be a strong-sense critical thinker about topics where they have strong emotional commitments?
+> 2. How does Paul's strong-sense/weak-sense distinction relate to the phenomenon of [[motivated-reasoning|motivated reasoning]]? Can someone be a strong-sense critical thinker about topics where they have strong emotional commitments?
 > 3. The Delphi…
 
 > [!reflection] **Reflect** *(from [[critical-thinking-foundational-report-2026-04-01]])*
@@ -252,16 +253,16 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > 1. Consider a domain where you possess deep expertise and one where you are a novice. Can you identify specific ways in which domain knowledge enables or constrains your critical thinking in each? Does your experience support McPeck's position, Halpern's, or the integrative view?
-> 2. What implications does the transfer literature have for [[Self-Directed-Learning|self-directed learners]] building a [[Personal-Knowledge-Base|PKB]]? If "mindful abstraction" is required for transfer, how might PKB…
+> 2. What implications does the transfer literature have for [[self-directed-learning|self-directed learners]] building a [[personal-knowledge-base|PKB]]? If "mindful abstraction" is required for transfer, how might PKB…
 
 > [!reflection] **Reflect** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> 1. If the mixed approach (standalone + infusion) is pedagogically strongest, what does this imply for how a self-directed learner should structure their own CT development programme? How might a [[Personal-Knowledge-Base|PKB]] serve as a personal "infusion" mechanism?
+> 1. If the mixed approach (standalone + infusion) is pedagogically strongest, what does this imply for how a self-directed learner should structure their own CT development programme? How might a [[personal-knowledge-base|PKB]] serve as a personal "infusion" mechanism?
 > 2. The assessment instruments described above reflect different theoretical commitments. Which instrument's implicit definition of CT aligns most closely with your own understanding? What does your answer reveal about your…
 
 ## Schema Activations
 
 > [!schema-activation] **Connecting to Your Existing Knowledge** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> If you have engaged with [[Metacognition-and-Critical-Thinking]], [[Self-Regulated-Learning]], or [[Dual-Process-Theory]], you already possess significant scaffolding for this report. Critical thinking operates at the intersection of these domains: it requires the metacognitive monitoring that [[Flavell-Metacognition-Framework|Flavell's framework]] describes, the self-regulatory processes that [[Barry-Zimmerman|Zimmerman's]] cyclical model formalizes, and the deliberate System 2 engagement that [[Daniel-Kahneman|Kahneman]] and Stanovich have characterized. If you have explored…
+> If you have engaged with [[metacognition-and-critical-thinking]], [[self-regulated-learning]], or [[dual-process-theory]], you already possess significant scaffolding for this report. Critical thinking operates at the intersection of these domains: it requires the metacognitive monitoring that [[flavell-metacognition-framework|Flavell's framework]] describes, the self-regulatory processes that [[barry-zimmerman|Zimmerman's]] cyclical model formalizes, and the deliberate System 2 engagement that [[daniel-kahneman|Kahneman]] and Stanovich have characterized. If you have explored…
 
 ## Active Reading Prompts
 
@@ -282,7 +283,7 @@ importance: high
 > [!far-transfer] **Medical and Clinical Reasoning** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > **Structural Principle:** The dual-process model of critical thinking (System 1 intuition vs. System 2 deliberation) maps directly onto [[Clinical-Reasoning|clinical reasoning]], where experienced clinicians rely heavily on [[Pattern-Recognition|pattern recognition]] (System 1) while managing the ever-present risk of diagnostic error through metacognitive checking (System 2).
 > 
-> **Application:** The cognitive biases catalogued in Section 4 — [[Confirmation-Bias|confirmation bias]], anchoring, [[Availability-Heuristic|availability bias]] — are well-documented sources of diagnostic error…
+> **Application:** The cognitive biases catalogued in Section 4 — [[confirmation-bias|confirmation bias]], anchoring, [[availability-heuristic|availability bias]] — are well-documented sources of diagnostic error…
 
 > [!far-transfer] **Legal Reasoning and Argumentation** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > **Structural Principle:** The relationship between [[Formal-Logic|logical structure]] and [[Rhetorical-Analysis|rhetorical persuasion]] — a central tension in critical thinking — is the defining feature of [[Legal-Reasoning|legal reasoning]], where the force of an argument depends on both its logical validity and its persuasive presentation.
@@ -295,9 +296,9 @@ importance: high
 > **Application:** [[Systems-Thinking]] extends critical thinking's emphasis on identifying assumptions and considering consequences by requiring analysis of feedback loops, unintended effects, and emergent properties. When an engineer asks "What assumptions am I making about how this system will…
 
 > [!far-transfer] **Personal Knowledge Management and Lifelong Learning** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> **Structural Principle:** The relationship between metacognitive monitoring and knowledge quality — the core insight of Section 6 — applies directly to [[Personal-Knowledge-Management|personal knowledge management]], where the learner must continuously evaluate the reliability, relevance, and interconnection of their knowledge.
+> **Structural Principle:** The relationship between metacognitive monitoring and knowledge quality — the core insight of Section 6 — applies directly to [[personal-knowledge-management|personal knowledge management]], where the learner must continuously evaluate the reliability, relevance, and interconnection of their knowledge.
 > 
-> **Application:** A [[Personal-Knowledge-Base|PKB]] practitioner who creates a reference note is engaged in critical thinking: evaluating sources, identifying key claims versus supporting evidence, assessing certainty levels, detecting their own biases in knowledge…
+> **Application:** A [[personal-knowledge-base|PKB]] practitioner who creates a reference note is engaged in critical thinking: evaluating sources, identifying key claims versus supporting evidence, assessing certainty levels, detecting their own biases in knowledge…
 
 ## Debates
 
@@ -309,13 +310,13 @@ importance: high
 ## Concrete Examples
 
 > [!example] **Dewey's Influence on Modern Frameworks** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> When [[Peter-Facione|Facione]] identifies "self-regulation" as a core CT skill requiring "self-consciously to monitor one's cognitive activities" (Delphi Report, 1990, p. 11), he is operationalizing Dewey's insight that reflective thinking requires turning thought upon itself. When [[Robert-Ennis|Ennis]] defines critical thinking as "reasonable reflective thinking focused on deciding what to believe or do" (1985), the term "reflective" carries Deweyan resonance. Dewey's DNA runs through virtually every contemporary account.
+> When [[Peter-Facione|Facione]] identifies "self-regulation" as a core CT skill requiring "self-consciously to monitor one's cognitive activities" (Delphi Report, 1990, p. 11), he is operationalizing Dewey's insight that reflective thinking requires turning thought upon itself. When [[robert-ennis|Ennis]] defines critical thinking as "reasonable reflective thinking focused on deciding what to believe or do" (1985), the term "reflective" carries Deweyan resonance. Dewey's DNA runs through virtually every contemporary account.
 
 > [!example] **Applying the Paul-Elder Matrix** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > Consider an argument for a new educational policy. Using the Paul-Elder framework, a critical thinker would ask: What is the *purpose* of this policy (and is it clearly stated)? What *question* does it address (and is it the right question)? What *information* does it rely on (and is that information accurate and relevant)? What *assumptions* underlie it (and are they justified)? What *implications* follow from it (and have negative consequences been considered)? What *point of view* does it represent (and have alternative viewpoints been fairly considered)? This systematic decomposition…
 
 > [!example] **Intellectual Humility in Practice** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> [[Intellectual-Humility]] illustrates the practical significance of virtue epistemology for critical thinking. A thinker who possesses analytical skills but lacks intellectual humility will apply those skills asymmetrically — rigorously scrutinizing claims they dislike while uncritically accepting claims that confirm their existing views. Intellectual humility provides the *motivational substrate* for symmetrical scrutiny: the recognition that one's own beliefs are fallible creates the disposition to apply the same evaluative standards to one's own reasoning as to others'. This is why Paul's…
+> [[intellectual-humility]] illustrates the practical significance of virtue epistemology for critical thinking. A thinker who possesses analytical skills but lacks intellectual humility will apply those skills asymmetrically — rigorously scrutinizing claims they dislike while uncritically accepting claims that confirm their existing views. Intellectual humility provides the *motivational substrate* for symmetrical scrutiny: the recognition that one's own beliefs are fallible creates the disposition to apply the same evaluative standards to one's own reasoning as to others'. This is why Paul's…
 
 ## AI Insights
 
@@ -354,14 +355,14 @@ importance: high
 > - Halpern's framework makes the strongest explicit…
 
 > [!section-summary] **Section 4 Summary** *(from [[critical-thinking-foundational-report-2026-04-01]])*
-> - [[Dual-Process-Theory]] provides the foundational cognitive architecture: critical thinking is primarily a System 2/reflective mind operation that requires overriding default System 1 responses
-> - [[Working-Memory]] constraints mean that effective critical thinking depends not just on capacity but on [[Schema-Automation|schema automation]] that frees resources for higher-order evaluation
-> - Critical thinking integrates [[Deductive-Reasoning|deductive]], [[Inductive-Reasoning|inductive]], and [[Abductive-Reasoning|abductive]] reasoning, requiring meta-level awareness of which mode is operative…
+> - [[dual-process-theory]] provides the foundational cognitive architecture: critical thinking is primarily a System 2/reflective mind operation that requires overriding default System 1 responses
+> - [[working-memory]] constraints mean that effective critical thinking depends not just on capacity but on [[schema-automation|schema automation]] that frees resources for higher-order evaluation
+> - Critical thinking integrates [[deductive-reasoning|deductive]], [[inductive-reasoning|inductive]], and [[abductive-reasoning|abductive]] reasoning, requiring meta-level awareness of which mode is operative…
 
 > [!section-summary] **Section 5 Summary** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > - The skill-disposition gap represents a fundamental challenge: possessing CT skills does not guarantee their deployment; dispositions determine whether skills are activated
 > - Facione's seven dispositional categories (truth-seeking, open-mindedness, analyticity, systematicity, CT self-confidence, inquisitiveness, maturity) can be empirically measured and developed somewhat independently of skills
-> - [[Virtue-Epistemology]] provides philosophical depth to the dispositional dimension, grounding CT dispositions in a theory of [[Epistemic-Character|epistemic character]] and intellectual virtue
+> - [[virtue-epistemology]] provides philosophical depth to the dispositional dimension, grounding CT dispositions in a theory of [[Epistemic-Character|epistemic character]] and intellectual virtue
 > -…
 
 > [!section-summary] **Section 6 Summary** *(from [[critical-thinking-foundational-report-2026-04-01]])*
@@ -373,7 +374,7 @@ importance: high
 > [!section-summary] **Section 7 Summary** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > - The generality-specificity debate addresses whether CT is a domain-general skill set or a domain-specific capacity — a question with major educational policy implications
 > - The generalist position (Ennis, Halpern) emphasizes transferable logical structures and metacognitive strategies; the specifist position (McPeck) insists on the constitutive role of domain knowledge and epistemic norms
-> - [[Transfer-of-Learning|Transfer research]] (Perkins & Salomon, Barnett & Ceci) resolves the debate: CT has both general and specific components, and transfer requires explicit "mindful abstraction" and…
+> - [[transfer-of-learning|Transfer research]] (Perkins & Salomon, Barnett & Ceci) resolves the debate: CT has both general and specific components, and transfer requires explicit "mindful abstraction" and…
 
 > [!section-summary] **Section 8 Summary** *(from [[critical-thinking-foundational-report-2026-04-01]])*
 > - The mixed pedagogical approach (explicit CT instruction combined with disciplinary infusion) is most effective; dialogue and Socratic questioning are the most consistently supported instructional strategies
@@ -463,19 +464,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[critical-thinking-foundational-report-2026-04-01]])*:
-- [[Epistemology]]
+- [[epistemology|Epistemology]]
 - [[cognitive-psychology]]
-- [[Philosophy-of-Education]]
-- [[Virtue-Ethics]]
+- [[philosophy-of-education|Philosophy-of-Education]]
+- [[virtue-ethics|Virtue-Ethics]]
 - [[philosophy-of-science]]
-- [[Argument-Analysis]]
-- [[Information-Literacy]]
-- [[Evidence-Based-Practice]]
-- [[Self-Directed-Learning]]
-- [[Personal-Knowledge-Management]]
+- [[argument-analysis|Argument-Analysis]]
+- [[information-literacy|Information-Literacy]]
+- [[evidence-based-practice|Evidence-Based-Practice]]
+- [[self-directed-learning|Self-Directed-Learning]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
 
 **Related concepts:**
-[[Critical-Thinking]] · [[Elenchus]] · [[John-Dewey]] · [[Reflective-Thinking]] · [[Robert-Ennis]] · [[Peter-Facione]] · [[Diane-Halpern]] · [[Keith-Stanovich]] · [[Dual-Process-Theory]] · [[Working-Memory]] · [[Metacognition]] · [[Virtue-Epistemology]] · [[Self-Regulated-Learning]] · [[Metacognition-and-Critical-Thinking]] · [[Self-Regulated-Learning]] · [[Dual-Process-Theory]] · [[Flavell-Metacognition-Framework]] · [[Barry-Zimmerman]] · [[Daniel-Kahneman]] · [[Bloom's-Taxonomy]] · [[Socratic-Method]] · [[Elenchus]] · [[Critical-Thinking]] · [[Socrates]] · [[Elenchus]] · [[Aporia]] · [[Pierre-Hadot]] · [[Intellectual-Virtue]] · [[Paul-and-Elder]] · [[Socratic-Questioning-Methodology]]
+[[critical-thinking|Critical-Thinking]] · [[elenchus|Elenchus]] · [[john-dewey|John-Dewey]] · [[reflective-thinking|Reflective-Thinking]] · [[robert-ennis|Robert-Ennis]] · [[Peter-Facione|Peter-Facione]] · [[diane-halpern|Diane-Halpern]] · [[keith-stanovich|Keith-Stanovich]] · [[dual-process-theory|Dual-Process-Theory]] · [[working-memory|Working-Memory]] · [[metacognition|Metacognition]] · [[virtue-epistemology|Virtue-Epistemology]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition-and-critical-thinking|Metacognition-and-Critical-Thinking]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[dual-process-theory|Dual-Process-Theory]] · [[flavell-metacognition-framework|Flavell-Metacognition-Framework]] · [[barry-zimmerman|Barry-Zimmerman]] · [[daniel-kahneman|Daniel-Kahneman]] · [[blooms-taxonomy|Bloom's-Taxonomy]] · [[socratic-method|Socratic-Method]] · [[elenchus|Elenchus]] · [[critical-thinking|Critical-Thinking]] · [[socrates|Socrates]] · [[elenchus|Elenchus]] · [[aporia|Aporia]] · [[pierre-hadot|Pierre-Hadot]] · [[intellectual-virtue|Intellectual-Virtue]] · [[paul-and-elder|Paul-and-Elder]] · [[socratic-questioning-methodology|Socratic-Questioning-Methodology]]
 
 ## References
 

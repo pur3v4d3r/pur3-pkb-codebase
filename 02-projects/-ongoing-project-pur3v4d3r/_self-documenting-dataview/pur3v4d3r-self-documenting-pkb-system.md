@@ -147,8 +147,8 @@ link-related: [[manual-link]]  # Keep for explicit curation
 # NEW SELF-DOCUMENTING FIELDS
 concepts: [[Concept-1]], [[Concept-2]]       # Theoretical frameworks
 methodologies: [[Method 1]]                  # Research/work methods
-tools: [[Obsidian]], [[Dataview]]           # Technologies
-fields: [[Cognitive-Science]]                # Academic domains
+tools: [[obsidian]], [[Dataview]]           # Technologies
+fields: [[cognitive-science]]                # Academic domains
 people: [[Author-Name]]                      # Collaborators/sources
 ---
 ```
@@ -604,7 +604,7 @@ TABLE
   concepts as "Concepts",
   methodologies as "Methods",
   status
-WHERE fields AND contains(fields, [[Cognitive-Science]])
+WHERE fields AND contains(fields, [[cognitive-science]])
 SORT file.mtime DESC
 LIMIT 20
 ```
@@ -617,7 +617,7 @@ TABLE
   concepts,
   maturity,
   file.mtime as "Updated"
-WHERE fields AND contains(fields, [[Personal-Knowledge-Management]])
+WHERE fields AND contains(fields, [[personal-knowledge-management]])
    OR contains(tags, "pkb") OR contains(tags, "pkm")
 SORT file.mtime DESC
 LIMIT 20

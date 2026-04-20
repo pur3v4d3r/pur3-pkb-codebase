@@ -1855,14 +1855,14 @@ Let me know if you'd like any adjustments!
 ### 3. **[[Cognitive Load Theory for Prompt Design]]**
 * *Connection:** Enhancement phase mentions cognitive load balancing but doesn't ground it in CLT principles
 * *Depth Potential:** Apply Sweller's framework to prompt structure---intrinsic/extraneous/germane load optimization
-* *Knowledge Graph Role:** Bridge between [[Cognitive-Science]] and [[Prompt-Engineering]]
+* *Knowledge Graph Role:** Bridge between [[cognitive-science]] and [[Prompt-Engineering]]
 * *Priority:** Medium---theoretical grounding improves intuition for prompt structure
-* *Prerequisites:** [[Cognitive-Load-Theory]], [[Working-Memory]]
+* *Prerequisites:** [[cognitive-load-theory]], [[working-memory]]
 
 ### 4. **[[Instructional Design Principles for LLMs]]**
 * *Connection:** Few-shot examples parallel instructional scaffolding; reasoning protocols parallel guided instruction
 * *Depth Potential:** Apply Gagné's Nine Events, Merrill's Principles, 4C/ID model to prompt construction
-* *Knowledge Graph Role:** Bridge between [[Learning Science]] and [[Prompt-Engineering]]
+* *Knowledge Graph Role:** Bridge between [[Learning-Science]] and [[Prompt-Engineering]]
 * *Priority:** Medium---enriches theoretical foundation for prompt pedagogy
 * *Prerequisites:** [[Instructional Design Fundamentals]]
 

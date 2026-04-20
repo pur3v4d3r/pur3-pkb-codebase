@@ -187,7 +187,7 @@ component-category: instruction
 atomic-type: instruction
 
 # Intelligence Layer
-concepts:: [[System Prompt]], [[Identity Frame]], [[Constitutional-AI]], [[ReAct Framework]], [[Chain-of-Density]], [[Knowledge Graph Building]], [[Instructional-Design]]
+concepts:: [[System Prompt]], [[Identity Frame]], [[Constitutional-AI]], [[ReAct Framework]], [[Chain-of-Density]], [[Knowledge Graph Building]], [[instructional-design]]
 use-cases::
   - Comprehensive reference note generation for PKB
   - Technical documentation with proper Obsidian formatting
@@ -260,7 +260,7 @@ component-category: workflow
 composite-type: sequential-chain
 
 # Intelligence Layer
-concepts:: [[Claude-Code]], [[System Prompt]], [[PKB-Architecture]], [[Multi-Mode Operation]], [[Semantic Color Coding]], [[Dataview Integration]], [[Quality Gates]]
+concepts:: [[Claude-Code]], [[System Prompt]], [[pkb-architecture]], [[Multi-Mode Operation]], [[Semantic Color Coding]], [[Dataview Integration]], [[Quality Gates]]
 use-cases::
   - Operating Claude Code as PKB assistant in VS Code
   - Generating vault-native notes with full formatting

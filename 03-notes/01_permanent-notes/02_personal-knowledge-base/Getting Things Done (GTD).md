@@ -23,10 +23,10 @@ link-related:
   - "[[2025-11-14|Daily-Note]]"
   - "[[permeant-note_moc]]"
   - "[[Goal Setting]]"
-  - "[[Strategic-Planning]]"
+  - "[[strategic-planning]]"
   - "[[Motivational Beliefs]]"
-  - "[[Planning]]"
-  - "[[Working-Memory]]"
+  - "[[planning]]"
+  - "[[working-memory]]"
   - "[[Getting Things Done (GTD)]]"
 maturity: seedling
 confidence: speculative
@@ -48,7 +48,7 @@ review-priority: medium
 
 > [!key-claim]
 >  **GTD's Cognitive Liberation**
-> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed-Cognition]] or [[Extended Mind]] theory.
+> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[distributed-cognition]] or [[Extended Mind]] theory.
 
 > [!use-cases-and-examples]
 > # **PKB Application of GTD**
@@ -56,7 +56,7 @@ review-priority: medium
 > **Traditional GTD**: "Write quarterly report" → "Draft outline for Q3 metrics" (@computer, 30min)
 > 
 > **Knowledge Work GTD**: "Master retrieval practice techniques" → 
-> - Project: [[Retrieval-Practice]] mastery
+> - Project: [[retrieval-practice]] mastery
 > - Next Actions: 
 >   - "Read Chapter 3 of 'Make It Stick'" (@reading-chair, 45min, med-energy)
 >   - "Create 10 flashcards on spacing effects" (@computer, 20min, low-energy)

@@ -26,7 +26,7 @@ link-related:
 ### 1.1 What is SPES?
 
 > [!definition] Sequential Prompt Engineering System (SPES)
-> A **production-ready framework** for creating, testing, optimizing, and managing AI prompts through systematic workflows, reusable components, and intelligent automation. Built on [[Obsidian]] with [[Dataview]], [[Templater]], [[QuickAdd]], and [[Meta-Bind]] plugins.
+> A **production-ready framework** for creating, testing, optimizing, and managing AI prompts through systematic workflows, reusable components, and intelligent automation. Built on [[obsidian]] with [[Dataview]], [[Templater]], [[QuickAdd]], and [[Meta-Bind]] plugins.
 
 The system serves three core functions:
 

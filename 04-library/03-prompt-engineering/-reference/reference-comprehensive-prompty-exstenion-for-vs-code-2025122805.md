@@ -448,7 +448,7 @@ Your setup involves:
 
 1. **[[Claude-Code]]** — Anthropic's agentic coding assistant (VS Code + terminal)
 2. **[[Gemini-Code-Assist]]** — Google's coding assistant
-3. **[[Obsidian]] PKB** — Markdown-based knowledge base run through VS Code
+3. **[[obsidian]] PKB** — Markdown-based knowledge base run through VS Code
 4. **Prompt Engineering Library** — Cognitive science-backed prompt collection
 
 ### Strategic Options for Prompty
@@ -465,7 +465,7 @@ Your setup involves:
 - Adopt `.prompty` **file format** for ALL prompts (OpenAI, Claude, Gemini)
 - Use Prompty extension only for OpenAI prompts
 - Manually execute Claude/Gemini prompts via API or CLI
-- Store all `.prompty` files in [[Obsidian]] vault for version control
+- Store all `.prompty` files in [[obsidian]] vault for version control
 - **Pro:** Standardized format, version control, PKB integration
 - **Con:** No preview/execution for non-OpenAI prompts
 
@@ -484,7 +484,7 @@ Your setup involves:
 > 2. **Discoverability** — All prompts follow same schema
 > 3. **Documentation** — Frontmatter captures metadata
 > 4. **Portability** — Easy migration if tooling improves
-> 5. **PKB Integration** — Markdown files work natively in [[Obsidian]]
+> 5. **PKB Integration** — Markdown files work natively in [[obsidian]]
 
 **Implementation Pattern:**
 
@@ -542,7 +542,7 @@ your-pkb/
 ### Prompty as PKB Assets
 
 > [!what-this-does] Markdown Compatibility
-> `.prompty` files are <span style='color: #27FF00;'>**pure markdown**</span> with YAML frontmatter—exactly what [[Obsidian]] expects. They integrate seamlessly into your PKB as:
+> `.prompty` files are <span style='color: #27FF00;'>**pure markdown**</span> with YAML frontmatter—exactly what [[obsidian]] expects. They integrate seamlessly into your PKB as:
 > - **Prompt library** — Searchable, version-controlled prompt collection
 > - **Documentation** — Self-documenting with frontmatter metadata
 > - **Templates** — Reusable prompt patterns
@@ -684,7 +684,7 @@ This allows:
 > - [[Markdown]] — Format foundation enabling PKB integration
 > - [[Jinja2]] — Templating engine for dynamic prompt content
 > - [[Claude-Code]] — Complementary tool for agentic coding
-> - [[Obsidian]] — PKB platform for prompt library storage
+> - [[obsidian]] — PKB platform for prompt library storage
 > - [[LLM Development Tools]] — Ecosystem of prompt engineering platforms
 > - [[YAML]] — Metadata format for structured configuration
 
@@ -756,7 +756,7 @@ This allows:
 
 **Connection:** Optimizing PKB management when using both Obsidian and VS Code simultaneously
 **Depth Potential:** Setup guide, plugin recommendations, sync strategies, and workflow patterns
-**Knowledge Graph Role:** Bridges [[Obsidian]] PKB practices with [[VS-Code]] development workflows
+**Knowledge Graph Role:** Bridges [[obsidian]] PKB practices with [[vs-code]] development workflows
 **Priority:** Medium — enhances your specific setup efficiency
 
 ### 5. **[[Prompt Engineering Framework Comparison]]** *(Optional)*
@@ -1145,7 +1145,7 @@ Common scripting paradigms include event-driven scripting (e.g., JavaScript), pr
 > - [[Systems-Thinking]] → maps interdependencies between tools  
 > - [[Second-Order Effects]] → anticipates ripple effects of automation  
 > - [[Constraint Theory]] → identifies bottlenecks in scripting workflows  
-> - [[Mental-Models]] → supports cross-domain transfer  
+> - [[mental-models]] → supports cross-domain transfer  
 
 ### Section 2: Synthesis & Reflection  
 

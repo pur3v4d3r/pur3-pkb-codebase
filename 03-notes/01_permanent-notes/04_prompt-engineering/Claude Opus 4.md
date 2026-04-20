@@ -39,12 +39,12 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Claude-Opus-4]]
+> - **Key-Term**:: [[claude-opus-4]]
 > - [**Definition**:: Opus models are engineered for tasks requiring maximum computational depth, though [[Claude Sonnet 4.5|Sonnet 4.5]] has largely superseded earlier Opus versions in practical applications.]
 
 > [!evidence]
 > The architectural distinction lies in how these models allocate computational resources during inference.
-> - [[Claude-Opus-4|Opus]] prioritizes depth and exhaustiveness.
+> - [[claude-opus-4|Opus]] prioritizes depth and exhaustiveness.
 > - [[Claude Sonnet 4.5|Sonnet]] optimizes for speed without sacrificing reasoning quality.
 > 
 > 

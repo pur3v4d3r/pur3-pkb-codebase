@@ -5,6 +5,7 @@
 title: "Need Balance"
 aliases:
   - "Need Balance"
+  - "Need-Balance"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -31,8 +32,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,7 +44,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -67,40 +68,40 @@ narrower:
   []
 
 see-also:
-  - "[[Self-Determination-Theory]]"
-  - "[[Edward-Deci]]"
-  - "[[Richard-Ryan]]"
-  - "[[Autonomy-Need]]"
-  - "[[Competence-Need]]"
-  - "[[Relatedness-Need]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Humanistic-Psychology]]"
-  - "[[Carl-Rogers]]"
-  - "[[Abraham-Maslow]]"
-  - "[[Conditional-Regard]]"
-  - "[[Educational-Psychology]]"
-  - "[[Autonomy-Support]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Organismic-Integration-Theory]]"
-  - "[[Cognitive-Evaluation-Theory]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Autonomy-Support]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[autonomy-need|Autonomy-Need]]"
+  - "[[competence-need|Competence-Need]]"
+  - "[[relatedness-need|Relatedness-Need]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[humanistic-psychology|Humanistic-Psychology]]"
+  - "[[carl-rogers|Carl-Rogers]]"
+  - "[[abraham-maslow|Abraham-Maslow]]"
+  - "[[conditional-regard|Conditional-Regard]]"
+  - "[[educational-psychology|Educational-Psychology]]"
+  - "[[autonomy-support|Autonomy-Support]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[organismic-integration-theory|Organismic-Integration-Theory]]"
+  - "[[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[autonomy-support|Autonomy-Support]]"
   - "[[self-determination-theory-foundational-report-2026-03-11]]"
-  - "[[Basic-Psychological-Needs-Theory]]"
+  - "[[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Humanistic-Psychology]]"
-  - "[[Intrinsic-Motivation]]"
-  - "[[Attachment-Theory]]"
+  - "[[humanistic-psychology|Humanistic-Psychology]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[attachment-theory|Attachment-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[Expansion-Topics-for-PKB-Development-!topic-idea-Terror-Management-Theory-and-BP|**Expansion Topics for PKB Development**
+  - topic: "[[**Expansion Topics for PKB Development**
 
 > [!topic-idea] **[[Terror-Management-Theory]] and BPNT Co]]"
     description: ""
@@ -159,7 +160,7 @@ importance: high
 > One of BPNT's most important and counter-intuitive claims is that autonomy is entirely compatible with interdependence, conformity, and deference to authority. What matters is the phenomenological quality of behavioral engagement — whether action flows from one's authentic values and reflects volitional endorsement (autonomous) or is experienced as externally compelled pressure that one must comply with regardless of personal meaning (heteronomous). This distinction has major implications for…
 
 > [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*
-> The distinction between need satisfaction and need frustration — the [[Satisfaction-Frustration-Asymmetry|satisfaction-frustration asymmetry]] — is one of BPNT's most theoretically significant contemporary developments. It implies that the absence of need satisfaction (a neutral deprivation environment) produces a different outcome profile than the presence of need frustration (an actively thwarting environment), and that interventions designed to increase need satisfaction may be insufficient…
+> The distinction between need satisfaction and need frustration — the [[satisfaction-frustration-asymmetry|satisfaction-frustration asymmetry]] — is one of BPNT's most theoretically significant contemporary developments. It implies that the absence of need satisfaction (a neutral deprivation environment) produces a different outcome profile than the presence of need frustration (an actively thwarting environment), and that interventions designed to increase need satisfaction may be insufficient…
 
 > [!analytical-insight] Key Insight *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*
 > Within the SDT theoretical architecture, BPNT functions as the *explanatory layer* beneath the other mini-theories' *predictive layers*. CET, OIT, and COT each describe what happens (what types of events affect motivation, how internalization proceeds, what individual differences exist in motivational orientation) without themselves providing the causal mechanisms. BPNT provides those mechanisms: the three needs and their satisfaction or frustration are the mediating variables that explain why…
@@ -207,7 +208,7 @@ importance: high
 > [!person] **Johnmarshall Reeve** (contemporary)** *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*
 > *Role:* Expert on autonomy-supportive teaching and student engagement within SDT.
 > *Key contributions:* Development of the agentic engagement construct; research on autonomy-supportive versus controlling teaching; translation of BPNT principles into teacher training programs; development of the motivational climate observation coding system.
-> *Related:* [[Agentic-Engagement]], [[Autonomy-Supportive-Teaching-and-Learning-Environments]], [[Student-Engagement]]
+> *Related:* [[Agentic-Engagement]], [[autonomy-supportive-teaching-and-learning-environments]], [[Student-Engagement]]
 
 > [!person] **Netta Weinstein & Geoffrey Williams** (contemporary)** *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*
 > *Role:* SDT researchers specializing in healthcare and nature applications.
@@ -268,7 +269,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: Where Does BPNT Fit in Your Existing Framework?** *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*
-> Before engaging with Basic Psychological Needs Theory in depth, consider what you already know about human motivation and psychological well-being. If you are familiar with [[Self-Determination-Theory]], BPNT is the structural backbone that explains *why* autonomous motivation is more beneficial than controlled motivation — because autonomous motivation arises from need-satisfying contexts, while controlled motivation reflects need-thwarting. If your background is in [[Humanistic-Psychology]], BPNT represents a rigorous empirical operationalization of [[Carl-Rogers]]'s organismic valuing…
+> Before engaging with Basic Psychological Needs Theory in depth, consider what you already know about human motivation and psychological well-being. If you are familiar with [[self-determination-theory]], BPNT is the structural backbone that explains *why* autonomous motivation is more beneficial than controlled motivation — because autonomous motivation arises from need-satisfying contexts, while controlled motivation reflects need-thwarting. If your background is in [[humanistic-psychology]], BPNT represents a rigorous empirical operationalization of [[carl-rogers]]'s organismic valuing…
 
 ## Far Transfer Applications
 
@@ -417,19 +418,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*:
-- [[Self-Determination-Theory]]
-- [[Maslow's-Hierarchy-of-Needs]]
-- [[Humanistic-Psychology]]
-- [[Attachment-Theory]]
-- [[Effectance-Motivation]]
-- [[Intrinsic-Motivation]]
-- [[Organismic-Meta-Theory]]
-- [[Autonomy-Supportive-Teaching-and-Learning-Environments]]
-- [[Cognitive-Evaluation-Theory]]
-- [[Organismic-Integration-Theory]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[maslows-hierarchy-of-needs|Maslow's-Hierarchy-of-Needs]]
+- [[humanistic-psychology|Humanistic-Psychology]]
+- [[attachment-theory|Attachment-Theory]]
+- [[effectance-motivation|Effectance-Motivation]]
+- [[intrinsic-motivation|Intrinsic-Motivation]]
+- [[organismic-meta-theory|Organismic-Meta-Theory]]
+- [[autonomy-supportive-teaching-and-learning-environments|Autonomy-Supportive-Teaching-and-Learning-Environments]]
+- [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]]
+- [[organismic-integration-theory|Organismic-Integration-Theory]]
 
 **Related concepts:**
-[[Self-Determination-Theory]] · [[Edward-Deci]] · [[Richard-Ryan]] · [[Autonomy-Need]] · [[Competence-Need]] · [[Relatedness-Need]] · [[Self-Determination-Theory]] · [[Humanistic-Psychology]] · [[Carl-Rogers]] · [[Abraham-Maslow]] · [[Conditional-Regard]] · [[Educational-Psychology]] · [[Autonomy-Support]] · [[Self-Determination-Theory]] · [[Organismic-Integration-Theory]] · [[Cognitive-Evaluation-Theory]] · [[Intrinsic-Motivation]] · [[Autonomy-Support]] · [[self-determination-theory-foundational-report-2026-03-11]] · [[Basic-Psychological-Needs-Theory]] · [[Robert-Ennis]] · [[Competence-Need]] · [[Cognitive-Evaluation-Theory]] · [[Autonomy-Need]] · [[Overjustification-Effect]] · [[The-Undermining-Effect]] · [[Cognitive-Evaluation-Theory]] · [[Autonomy-Need]] · [[Competence-Need]] · [[Attachment-Theory]]
+[[self-determination-theory|Self-Determination-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[autonomy-need|Autonomy-Need]] · [[competence-need|Competence-Need]] · [[relatedness-need|Relatedness-Need]] · [[self-determination-theory|Self-Determination-Theory]] · [[humanistic-psychology|Humanistic-Psychology]] · [[carl-rogers|Carl-Rogers]] · [[abraham-maslow|Abraham-Maslow]] · [[conditional-regard|Conditional-Regard]] · [[educational-psychology|Educational-Psychology]] · [[autonomy-support|Autonomy-Support]] · [[self-determination-theory|Self-Determination-Theory]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[autonomy-support|Autonomy-Support]] · [[self-determination-theory-foundational-report-2026-03-11]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]] · [[robert-ennis|Robert-Ennis]] · [[competence-need|Competence-Need]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[autonomy-need|Autonomy-Need]] · [[overjustification-effect|Overjustification-Effect]] · [[the-undermining-effect|The-Undermining-Effect]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[autonomy-need|Autonomy-Need]] · [[competence-need|Competence-Need]] · [[attachment-theory|Attachment-Theory]]
 
 ## References
 
@@ -459,7 +460,7 @@ importance: high
 ## Methodology Notes
 
 > [!methodology-and-sources] **Transfer Research Grounding** *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*
-> The following section applies insights from Basic Psychological Needs Theory to domains beyond its primary empirical base, drawing on the concept of [[Transfer-of-Learning]] and specifically on *far transfer* — the application of structural principles from one domain to significantly different contexts (Halpern, 2010; Perkins & Salomon, 1992; Barnett & Ceci, 2002). Far transfer requires identifying the *deep structural principles* of BPNT rather than its surface features, and asking: what does this theory's logic imply outside its original domain of empirical application? The following…
+> The following section applies insights from Basic Psychological Needs Theory to domains beyond its primary empirical base, drawing on the concept of [[transfer-of-learning]] and specifically on *far transfer* — the application of structural principles from one domain to significantly different contexts (Halpern, 2010; Perkins & Salomon, 1992; Barnett & Ceci, 2002). Far transfer requires identifying the *deep structural principles* of BPNT rather than its surface features, and asking: what does this theory's logic imply outside its original domain of empirical application? The following…
 
 > [!methodology-and-sources] **How This Report Was Constructed** *(from [[basic-psychological-needs-theory-foundational-report-2026-04-01]])*
 > **Generation method:** This report was produced by Claude (Anthropic) using a multi-pass Chain of Density architecture within the Foundational Report Generator framework, with Self-Consistency architecture selection and incremental file construction via the Append-Marker Chain protocol.

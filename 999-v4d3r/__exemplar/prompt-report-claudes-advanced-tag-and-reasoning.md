@@ -57,14 +57,14 @@ generated_via_workflow: "[[Extended-Thinking-Tree-of-Thoughts-Workflow]]"
 
 # Knowledge Graph Integration
 related_concepts:
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
   - "[[Chain-of-Verification]]"
-  - "[[Metacognitive-Monitoring]]"
+  - "[[metacognitive-monitoring]]"
   - "[[Prompt-Engineering]]"
   - "[[LLM Reasoning]]"
-  - "[[Cognitive-Scaffolding]]"
+  - "[[cognitive-scaffolding]]"
   - "[[Quality Assurance Systems]]"
   - "[[Claude Architecture]]"
 prerequisites:
@@ -120,7 +120,7 @@ link_related:
 > [!abstract] Executive Summary
 > **[Advanced-Thinking-Tags-System**:: Claude's architectural innovation enabling explicit, visible reasoning through structured XML tags that create distinct cognitive contexts - separating internal deliberation (optimized for correctness) from external communication (optimized for clarity), thereby enabling sophisticated reasoning patterns like Tree of Thoughts, Self-Consistency, and Chain of Verification through systematic metacognitive scaffolding.]**
 >
-> This comprehensive reference explores the complete architecture of Claude's advanced thinking and reasoning tag system, providing prompt engineering practitioners with deep understanding of how these tags function, when to apply different patterns, and how to leverage them for production-grade reasoning tasks. Drawing from extensive documentation of [[LLM Reasoning Techniques]], [[Extended-Thinking-Architecture]], and [[Advanced Reasoning Architectures]], this guide synthesizes theoretical foundations with practical implementation patterns.
+> This comprehensive reference explores the complete architecture of Claude's advanced thinking and reasoning tag system, providing prompt engineering practitioners with deep understanding of how these tags function, when to apply different patterns, and how to leverage them for production-grade reasoning tasks. Drawing from extensive documentation of [[LLM Reasoning Techniques]], [[extended-thinking-architecture]], and [[Advanced Reasoning Architectures]], this guide synthesizes theoretical foundations with practical implementation patterns.
 >
 > **Key Innovation**: Thinking tags transform opaque token generation into transparent cognitive processes by creating architectural asymmetry where reasoning depth is incentivized through separate optimization objectives, token budgets, and evaluation criteria - analogous to how human System 2 deliberation enables complex problem-solving through conscious, step-by-step reasoning.
 
@@ -169,7 +169,7 @@ link_related:
 > [!definition] Extended Thinking System
 > **[Extended-Thinking-System**:: Claude's architectural capability to perform explicit, visible reasoning through structured XML `<thinking>` tags that enable multi-step deliberation, self-correction, and metacognitive reflection before generating final responses - transforming opaque token generation into transparent cognitive processes.]**
 
-The advanced thinking and reasoning tag system represents a fundamental architectural innovation in large language models, drawing inspiration from cognitive science theories of human reasoning while adapting them to the unique constraints and capabilities of transformer-based architectures. At its core, this system creates a **dual-process architecture** analogous to the distinction between System 1 (fast, intuitive) and System 2 (slow, deliberate) thinking in [[Dual-Process-Theory]].
+The advanced thinking and reasoning tag system represents a fundamental architectural innovation in large language models, drawing inspiration from cognitive science theories of human reasoning while adapting them to the unique constraints and capabilities of transformer-based architectures. At its core, this system creates a **dual-process architecture** analogous to the distinction between System 1 (fast, intuitive) and System 2 (slow, deliberate) thinking in [[dual-process-theory]].
 
 ### The Problem: Opaque Reasoning in Standard LLMs
 
@@ -206,7 +206,7 @@ This asymmetry creates what cognitive scientists call **cognitive scaffolding** 
 
 The thinking tag architecture draws from several established frameworks in cognitive science and psychology:
 
-**[[Dual-Process-Theory]]** ([[Kahneman, 2011]]) - Distinguishes between:
+**[[dual-process-theory]]** ([[Kahneman, 2011]]) - Distinguishes between:
 - **System 1**: Fast, automatic, intuitive processing (standard LLM generation)
 - **System 2**: Slow, deliberate, systematic reasoning (thinking tag deliberation)
 
@@ -3362,8 +3362,8 @@ Solution: Accept that quality reasoning requires tokens
 
 **Depth Potential**: A comprehensive exploration (2000-3000 words) would cover:
 - [[Flavell's Three-Component Model]] (metacognitive knowledge, monitoring, control)
-- [[Executive-Function]] and its relationship to metacognition
-- [[Working-Memory-Capacity]] constraints and metacognitive load
+- [[executive-function]] and its relationship to metacognition
+- [[working-memory-capacity]] constraints and metacognitive load
 - Developmental trajectory of metacognitive skills
 - Domain-specific vs. domain-general metacognition
 - Instructional strategies for teaching metacognitive skills

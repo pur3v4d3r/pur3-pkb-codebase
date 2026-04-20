@@ -31,8 +31,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -43,7 +43,7 @@ source-reports:
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -67,26 +67,26 @@ narrower:
   []
 
 see-also:
-  - "[[Schema-Theory-and-Learning]]"
-  - "[[Bartlett]]"
-  - "[[David-Rumelhart]]"
-  - "[[Conceptual-Change-Theory-and-Schema-Restructuring]]"
-  - "[[Long-Term-Memory]]"
-  - "[[Episodic-Memory]]"
-  - "[[Semantic-Memory]]"
-  - "[[Bartlett]]"
-  - "[[Bartlett's-Reconstructive-Memory-Experiments]]"
-  - "[[Reconstructive-Memory]]"
-  - "[[Bartlett's-Reconstructive-Memory-Experiments]]"
-  - "[[David-Rumelhart]]"
-  - "[[Declarative-schemas]]"
-  - "[[Procedural-schemas]]"
-  - "[[Pragmatic-Reasoning-Schemas]]"
-  - "[[Schema-Theory-Bartlett,-Rumelhart]]"
+  - "[[schema-theory-and-learning|Schema-Theory-and-Learning]]"
+  - "[[bartlett|Bartlett]]"
+  - "[[David-Rumelhart|David-Rumelhart]]"
+  - "[[conceptual-change-theory-and-schema-restructuring|Conceptual-Change-Theory-and-Schema-Restructuring]]"
+  - "[[long-term-memory|Long-Term-Memory]]"
+  - "[[episodic-memory|Episodic-Memory]]"
+  - "[[semantic-memory|Semantic-Memory]]"
+  - "[[bartlett|Bartlett]]"
+  - "[[bartletts-reconstructive-memory-experiments|Bartlett's-Reconstructive-Memory-Experiments]]"
+  - "[[reconstructive-memory|Reconstructive-Memory]]"
+  - "[[bartletts-reconstructive-memory-experiments|Bartlett's-Reconstructive-Memory-Experiments]]"
+  - "[[David-Rumelhart|David-Rumelhart]]"
+  - "[[declarative-schemas|Declarative-schemas]]"
+  - "[[procedural-schemas|Procedural-schemas]]"
+  - "[[pragmatic-reasoning-schemas|Pragmatic-Reasoning-Schemas]]"
+  - "[[schema-theory-bartlett-rumelhart|Schema-Theory-Bartlett,-Rumelhart]]"
   - "[[parallel-distributed-processing]]"
   - "[[bottom-up-processing]]"
-  - "[[Elaborative-Inference]]"
-  - "[[Spreading-Activation]]"
+  - "[[elaborative-inference|Elaborative-Inference]]"
+  - "[[spreading-activation|Spreading-Activation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -128,7 +128,7 @@ importance: high
 ## Core Explanation
 
 > [!analytical-insight] Key Insight *(from [[schema-and-how-they-work-deep-dive-2026-04-08]])*
-> [[Reconstructive-Memory]] is not a failure of memory but its normal operating mode. Memory does not retrieve stored records; it reconstructs plausible past experiences guided by schemas, using whatever fragments remain as scaffolding. The more time has passed since encoding, the more reconstruction dominates retrieval, and the more the reconstructed memory reflects current schematic knowledge rather than the original experience.
+> [[reconstructive-memory]] is not a failure of memory but its normal operating mode. Memory does not retrieve stored records; it reconstructs plausible past experiences guided by schemas, using whatever fragments remain as scaffolding. The more time has passed since encoding, the more reconstruction dominates retrieval, and the more the reconstructed memory reflects current schematic knowledge rather than the original experience.
 > 
 > **Evidence:** [[Bartlett's-Reconstructive-Memory-Experiments]]…
 
@@ -354,7 +354,7 @@ importance: high
 
 > [!section-summary] **Level 6 Summary: The Frontier** *(from [[schema-and-how-they-work-deep-dive-2026-04-08]])*
 > At edge cases level, schema theory was constrained and enriched by specific boundary conditions. At frontier level, we can see where schema theory is being actively extended:
-> - **Systems neuroscience:** Hippocampal-neocortical transfer via replay during sleep; schema availability speeds its own extension ([[Prior-Knowledge-Activation]] as neural facilitator); van Kesteren dissociation between mPFC (congruent) and hippocampal (incongruent) encoding
+> - **Systems neuroscience:** Hippocampal-neocortical transfer via replay during sleep; schema availability speeds its own extension ([[prior-knowledge-activation]] as neural facilitator); van Kesteren dissociation between mPFC (congruent) and hippocampal (incongruent) encoding
 > - **Predictive processing:** Schemas reframed as hierarchical Bayesian priors; accommodation resistance explained via precision-attenuation;…
 
 > [!section-summary] **Level 7 Summary: The Speculation** *(from [[schema-and-how-they-work-deep-dive-2026-04-08]])*
@@ -487,7 +487,7 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Schema-Theory-and-Learning]] · [[Bartlett]] · [[David-Rumelhart]] · [[Conceptual-Change-Theory-and-Schema-Restructuring]] · [[Long-Term-Memory]] · [[Episodic-Memory]] · [[Semantic-Memory]] · [[Bartlett]] · [[Bartlett's-Reconstructive-Memory-Experiments]] · [[Reconstructive-Memory]] · [[Bartlett's-Reconstructive-Memory-Experiments]] · [[David-Rumelhart]] · [[Declarative-schemas]] · [[Procedural-schemas]] · [[Pragmatic-Reasoning-Schemas]] · [[Schema-Theory-Bartlett,-Rumelhart]] · [[parallel-distributed-processing]] · [[bottom-up-processing]] · [[Elaborative-Inference]] · [[Spreading-Activation]] · [[Reconstructive-Memory]] · [[Assimilation-and-Accommodation]] · [[Assimilation]] · [[Schema-Accommodation]] · [[Equilibration]] · [[Long-Term-Memory]] · [[parallel-distributed-processing]] · [[Schema-Attractor]] · [[Expertise]] · [[Semantic-Memory]]
+[[schema-theory-and-learning|Schema-Theory-and-Learning]] · [[bartlett|Bartlett]] · [[David-Rumelhart|David-Rumelhart]] · [[conceptual-change-theory-and-schema-restructuring|Conceptual-Change-Theory-and-Schema-Restructuring]] · [[long-term-memory|Long-Term-Memory]] · [[episodic-memory|Episodic-Memory]] · [[semantic-memory|Semantic-Memory]] · [[bartlett|Bartlett]] · [[bartletts-reconstructive-memory-experiments|Bartlett's-Reconstructive-Memory-Experiments]] · [[reconstructive-memory|Reconstructive-Memory]] · [[bartletts-reconstructive-memory-experiments|Bartlett's-Reconstructive-Memory-Experiments]] · [[David-Rumelhart|David-Rumelhart]] · [[declarative-schemas|Declarative-schemas]] · [[procedural-schemas|Procedural-schemas]] · [[pragmatic-reasoning-schemas|Pragmatic-Reasoning-Schemas]] · [[schema-theory-bartlett-rumelhart|Schema-Theory-Bartlett,-Rumelhart]] · [[parallel-distributed-processing]] · [[bottom-up-processing]] · [[elaborative-inference|Elaborative-Inference]] · [[spreading-activation|Spreading-Activation]] · [[reconstructive-memory|Reconstructive-Memory]] · [[assimilation-and-accommodation|Assimilation-and-Accommodation]] · [[assimilation|Assimilation]] · [[schema-accommodation|Schema-Accommodation]] · [[equilibration|Equilibration]] · [[long-term-memory|Long-Term-Memory]] · [[parallel-distributed-processing]] · [[schema-attractor|Schema-Attractor]] · [[expertise|Expertise]] · [[semantic-memory|Semantic-Memory]]
 
 ## Methodology Notes
 

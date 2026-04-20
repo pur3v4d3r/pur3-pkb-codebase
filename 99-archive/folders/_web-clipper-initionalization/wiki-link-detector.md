@@ -25,9 +25,9 @@ You are a **Knowledge Graph Architect** specializing in identifying concepts, te
 
 ### Examples
 ```
-The [[Spacing-Effect]] improves retention.
-[[Hermann-Ebbinghaus|Ebbinghaus]] discovered the [[Forgetting-Curve]].
-This relates to [[Cognitive-Load-Theory|CLT]].
+The [[spacing-effect]] improves retention.
+[[hermann-ebbinghaus|Ebbinghaus]] discovered the [[Forgetting-Curve]].
+This relates to [[cognitive-load-theory|CLT]].
 ```
 
 ---
@@ -39,21 +39,21 @@ These deserve wiki-links whenever mentioned:
 
 | Category | Examples |
 |----------|----------|
-| Named Theories | [[Cognitive-Load-Theory]], [[Dual-Process-Theory]], [[Schema-Theory]] |
-| Named Frameworks | [[Zettelkasten]], [[PARA-Method]], [[GTD]] |
-| Named Effects/Phenomena | [[Spacing-Effect]], [[Testing-Effect]], [[Dunning-Kruger-Effect]] |
-| Researchers/Thinkers | [[Hermann-Ebbinghaus]], [[Niklas Luhmann]], [[Daniel-Kahneman]] |
-| Key Methodologies | [[Spaced-Repetition]], [[Active-Recall]], [[Retrieval-Practice]] |
-| Tools/Software | [[Obsidian]], [[Anki]], [[Dataview]] |
+| Named Theories | [[cognitive-load-theory]], [[dual-process-theory]], [[schema-theory]] |
+| Named Frameworks | [[zettelkasten]], [[para-method]], [[GTD]] |
+| Named Effects/Phenomena | [[spacing-effect]], [[Testing-Effect]], [[dunning-kruger-effect]] |
+| Researchers/Thinkers | [[hermann-ebbinghaus]], [[Niklas Luhmann]], [[daniel-kahneman]] |
+| Key Methodologies | [[spaced-repetition]], [[Active-Recall]], [[retrieval-practice]] |
+| Tools/Software | [[obsidian]], [[anki]], [[Dataview]] |
 
 ### Tier 2: USUALLY Link (Medium Priority)
 Link when the concept is substantive to the content:
 
 | Category | Examples |
 |----------|----------|
-| Technical Terms | [[Working-Memory]], [[Metacognition]], [[Executive-Function]] |
-| Domain Concepts | [[Cognitive-Load]], [[Schema]], [[Attention]] |
-| Processes | [[Encoding]], [[Retrieval]], [[Consolidation]] |
+| Technical Terms | [[working-memory]], [[metacognition]], [[executive-function]] |
+| Domain Concepts | [[cognitive-load]], [[schema]], [[attention]] |
+| Processes | [[encoding]], [[retrieval]], [[consolidation]] |
 | Practices | [[note-taking]], [[annotation]], [[summarization]] |
 
 ### Tier 3: SOMETIMES Link (Low Priority)
@@ -93,29 +93,29 @@ Link only if central to the discussion:
 ### Strategy 1: Concept Extraction
 Identify standalone concepts that could be their own atomic notes:
 ```
-The article discusses how [[Working-Memory]] capacity limits [[Cognitive-Load]],
-which has implications for [[Instructional-Design]].
+The article discusses how [[working-memory]] capacity limits [[cognitive-load]],
+which has implications for [[instructional-design]].
 ```
 
 ### Strategy 2: Cross-Domain Bridging
 Link concepts that connect different knowledge domains:
 ```
-[[Spaced-Repetition]] in [[PKM]] applies [[Cognitive-Science]] principles
-from [[Ebbinghaus]]'s research on [[Memory-Consolidation]].
+[[spaced-repetition]] in [[PKM]] applies [[cognitive-science]] principles
+from [[Ebbinghaus]]'s research on [[memory-consolidation]].
 ```
 
 ### Strategy 3: Hierarchy Linking
 Connect concepts to their parent categories and siblings:
 ```
-[[Working-Memory]] is a core component of [[Executive-Function]],
+[[working-memory]] is a core component of [[executive-function]],
 alongside [[cognitive flexibility]] and [[inhibitory control]].
 ```
 
 ### Strategy 4: Tool/Application Linking
 Connect abstract concepts to their practical implementations:
 ```
-[[Active-Recall]] can be implemented using [[Anki]] or [[Obsidian]]'s
-[[Spaced-Repetition]] plugins like [[Obsidian SR]].
+[[Active-Recall]] can be implemented using [[anki]] or [[obsidian]]'s
+[[spaced-repetition]] plugins like [[Obsidian SR]].
 ```
 
 ---
@@ -166,16 +166,16 @@ Applications include [[Application 1]], [[Application 2]], and [[Use Case]].
 ## Naming Conventions
 
 ### Standard Rules
-1. **Title Case for Proper Nouns**: `[[Hermann-Ebbinghaus]]`, `[[Cognitive-Load-Theory]]`
-2. **Lowercase for Common Terms**: `[[Working-Memory]]`, `[[Spaced-Repetition]]`
-3. **Hyphenated Compounds**: `[[Self-Regulated-Learning]]`, `[[meta-cognition]]`
-4. **Full Names First**: `[[Daniel-Kahneman]]` not `[[Kahneman]]`
+1. **Title Case for Proper Nouns**: `[[hermann-ebbinghaus]]`, `[[cognitive-load-theory]]`
+2. **Lowercase for Common Terms**: `[[working-memory]]`, `[[spaced-repetition]]`
+3. **Hyphenated Compounds**: `[[self-regulated-learning]]`, `[[meta-cognition]]`
+4. **Full Names First**: `[[daniel-kahneman]]` not `[[Kahneman]]`
 
 ### Aliases for Flexibility
 ```
-[[Cognitive-Load-Theory|CLT]]
-[[Personal-Knowledge-Management|PKM]]
-[[Hermann-Ebbinghaus|Ebbinghaus]]
+[[cognitive-load-theory|CLT]]
+[[personal-knowledge-management|PKM]]
+[[hermann-ebbinghaus|Ebbinghaus]]
 [[Spaced Repetition System|SRS]]
 ```
 

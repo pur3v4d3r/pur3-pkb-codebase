@@ -22,8 +22,8 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Metacognitive-Scaffolding]]"
+  - "[[extended-thinking-architecture]]"
+  - "[[metacognitive-scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -100,16 +100,16 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Chain of Density]]"
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
 
 extends:
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -121,13 +121,13 @@ aliases:
   - "[[Report Generator - Focused Analysis]]"
   - "[[Deep Dive Report Prompt]]"
 
-link_up: "[[Report-Generation-Prompt-Suite]]"
+link_up: "[[report-generation-prompt-suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic-Dialogue-Report-Prompt]]"
+  - "[[socratic-dialogue-report-prompt]]"
   - "[[Comparative Analysis Report Prompt]]"
 link_related:
-  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[foundational-report-generator-v1.0]]"
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
@@ -476,7 +476,7 @@ The Cognitive Engagement Architecture addresses all three weaknesses by deployin
 
 **Purpose**: Test the reader's understanding of a critical concept BEFORE the report builds on it. This prevents the common failure mode where a reader loses the thread early but continues reading without real comprehension.
 
-**Cognitive Science Basis**: [[Elaborative-Interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
+**Cognitive Science Basis**: [[elaborative-interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
 
 **Placement**: After introducing a critical concept that subsequent sections depend on. Placed within the text flow, not at section boundaries.
 
@@ -623,7 +623,7 @@ One of the most powerful features of the Progressive Depth Architecture is the *
 
 **How to implement**: After introducing Concept A at Layers 1-2 in Phase II, when Phase IV provides new evidence or mechanisms that illuminate Concept A in a new way, explicitly return to it:
 
-*"Earlier, we introduced [[Concept A]] as {orientation summary}. With the mechanism of [[Concept B]] now in view, we can see that Concept A has an implication that wasn't visible before: {new insight}."*
+*"Earlier, we introduced [[Concept-A]] as {orientation summary}. With the mechanism of [[Concept-B]] now in view, we can see that Concept A has an implication that wasn't visible before: {new insight}."*
 
 This creates a sense of intellectual momentum — the reader experiences their understanding deepening in real time.
 
@@ -861,7 +861,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-opus-4.6
-generation-prompt: "[[Focused-Analysis-Report-Generator-v1.0]]"
+generation-prompt: "[[focused-analysis-report-generator-v1.0]]"
 generation-date: "{YYYY-MM-DD}"
 ---
 ```
@@ -911,7 +911,7 @@ Every Focused Analysis Report follows an eight-phase architecture. Each phase ha
 - **Core Definitions**: Each essential concept defined using `> [!definition]` callouts with boundary conditions. Only concepts the analysis directly depends on — not a comprehensive glossary.
 - **Key Distinctions**: The 2-4 critical distinctions that structure the analysis. These are the intellectual lenses through which evidence will be examined.
 - **Framework Selection**: If the analysis uses a particular theoretical framework, present it with enough detail to follow the argument. Explain WHY this framework over alternatives.
-- **Foundational Callbacks**: Where appropriate, reference Foundational Reports for deeper background: "For the full historical development of [[Concept X]], see the Foundational Report on [[Topic]]. Here, we focus on the specific aspect relevant to our analysis: {specific aspect}."
+- **Foundational Callbacks**: Where appropriate, reference Foundational Reports for deeper background: "For the full historical development of [[Concept-X]], see the Foundational Report on [[Topic]]. Here, we focus on the specific aspect relevant to our analysis: {specific aspect}."
 
 **Callout Strategy:**
 - Use `> [!definition]` for each essential concept (3-6 definitions)

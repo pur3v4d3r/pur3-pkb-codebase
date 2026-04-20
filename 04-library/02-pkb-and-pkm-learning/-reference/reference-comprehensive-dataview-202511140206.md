@@ -67,7 +67,7 @@ aliases: [Dataview Plugin, DQL, Dataview Query Language, Obsidian Dataview, Data
 ## ⚙️ Dataview Plugin Overview & Core Architecture
 
 > [!definition]
-> - **Dataview**: A [[Community Plugin]] for [[Obsidian]] that treats your vault as a queryable database
+> - **Dataview**: A [[Community Plugin]] for [[obsidian]] that treats your vault as a queryable database
 > - **Core Function**: Live index and query engine that keeps queries always up to date and makes data aggregation a breeze
 > - **Primary Use Case**: Automated views, dashboards, and data aggregation without manual maintenance
 
@@ -77,7 +77,7 @@ Dataview operates on metadata in your Markdown files through data indexing and d
 
 The plugin's architecture centers on two building blocks: **Data Indexing** (what information Dataview can "see") and **Data Querying** (how you retrieve and manipulate that information). Understanding this distinction is critical—Dataview cannot query arbitrary text content within your notes, but only specifically indexed data types.
 
-Dataview indexes certain information like tags and list items and the data you add via fields. This includes [[YAML-Frontmatter]], [[Inline-Fields]], [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]], [[project-pur3v4d3r-20251121013128]], [[Bullet Lists]], and implicit [[File Metadata]]. The indexing happens automatically and continuously as you work, ensuring query results remain current without manual intervention.
+Dataview indexes certain information like tags and list items and the data you add via fields. This includes [[yaml-frontmatter]], [[Inline-Fields]], [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]], [[project-pur3v4d3r-20251121013128]], [[Bullet Lists]], and implicit [[File Metadata]]. The indexing happens automatically and continuously as you work, ensuring query results remain current without manual intervention.
 
 > [!key-claim]
 > **Central Principle**
@@ -2085,16 +2085,16 @@ STRUCTURAL REASONING:
 │
 └── Cross-referencing Strategy
     └── Internal link opportunities:
-        - [[Obsidian]] ecosystem
-        - [[YAML-Frontmatter]] conventions
+        - [[obsidian]] ecosystem
+        - [[yaml-frontmatter]] conventions
         - [[Metadata Schema Design]]
         - [[Regular-Expressions]]
         - [[JavaScript]] for DataviewJS
         - [[SQL]] parallels for mental model
         - [[Knowledge-Graph]] building
         - [[MOC]] creation with Dataview
-        - [[Personal-Knowledge-Management]]
-        - [[Zettelkasten]] integration
+        - [[personal-knowledge-management]]
+        - [[zettelkasten]] integration
 
 **WIKI-LINK TARGETS:**
 Technical concepts: YAML, Frontmatter, Metadata, Query Language, DQL, JavaScript, Boolean Logic, Regular Expressions, Data Types

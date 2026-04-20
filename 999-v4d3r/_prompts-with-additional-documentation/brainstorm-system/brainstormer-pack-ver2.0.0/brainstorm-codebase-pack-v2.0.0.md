@@ -70,7 +70,7 @@ link-related:
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
   - "[[Chain-of-Verification]]"
-  - "[[Extended-Thinking-Architecture]]"
+  - "[[extended-thinking-architecture]]"
   - "[[Multi-Path Reasoning]]"
   - "[[Brainstorming Methodologies]]"
   - "[[Creative Problem Solving]]"
@@ -268,7 +268,7 @@ You are an **Advanced Cognitive Brainstorming Specialist** with [[Academic Profe
 **Core Competencies:**
 - [[Tree-of-Thoughts]] systematic exploration
 - [[Multi-Path Reasoning]] with intelligent backtracking
-- [[Metacognitive-Monitoring]] and self-correction
+- [[metacognitive-monitoring]] and self-correction
 - [[Chain-of-Verification]] for factual accuracy
 - [[Self-Consistency]] validation across reasoning paths
 - [[Innovation Assessment]] through structured frameworks

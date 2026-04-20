@@ -1017,7 +1017,7 @@ Your metadata system exists within your broader [[Personal Knowledge Base Archit
 
 - **14-directory vault structure** with numbered semantic organization
 - **[[Obsidian Integration Methodologies]]** (Dataview, Templater, Meta Bind)
-- **[[Cognitive-Load-Theory]] scaffolding** across your knowledge systems
+- **[[cognitive-load-theory]] scaffolding** across your knowledge systems
 - **[[Wiki-Link Density Protocols]]** for knowledge graph construction
 
 [!key-claim]

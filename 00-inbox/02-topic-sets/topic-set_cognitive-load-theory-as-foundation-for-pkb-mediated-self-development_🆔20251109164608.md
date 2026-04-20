@@ -97,12 +97,12 @@ Used: 2026-01-28T04:30:29
 
 > [!further-exploration]
 > Recommended continued study:
-> - **[[Dual-Coding-Theory]]** and its relationship to CLT, particularly how combining verbal and visual information channels can increase effective working memory capacity when applied to PKB design
-> - **[[Schema-Theory]]** as the complementary framework to CLT, examining how organized knowledge structures in long-term memory reduce the effective cognitive load of complex information
-> - **[[Desirable-Difficulties]]** framework by Robert Bjork, exploring the productive tension between CLT's load reduction principles and the necessity of appropriate challenge for deep learning
-> - **[[Cognitive-Task-Analysis]]** methodologies for systematically identifying the cognitive demands of complex learning tasks before designing instructional or PKB structures
+> - **[[dual-coding-theory]]** and its relationship to CLT, particularly how combining verbal and visual information channels can increase effective working memory capacity when applied to PKB design
+> - **[[schema-theory]]** as the complementary framework to CLT, examining how organized knowledge structures in long-term memory reduce the effective cognitive load of complex information
+> - **[[desirable-difficulties]]** framework by Robert Bjork, exploring the productive tension between CLT's load reduction principles and the necessity of appropriate challenge for deep learning
+> - **[[cognitive-task-analysis]]** methodologies for systematically identifying the cognitive demands of complex learning tasks before designing instructional or PKB structures
 > - **[[The Testing Effect]]** and retrieval practice research, examining how active recall protocols can be integrated into PKB workflows while managing cognitive load
-> - **[[Distributed-Cognition]]** theory, which extends beyond individual cognitive architecture to examine how knowledge and processing are distributed across people, tools, and environments—providing theoretical grounding for why PKBs can serve as genuine cognitive partners
+> - **[[distributed-cognition]]** theory, which extends beyond individual cognitive architecture to examine how knowledge and processing are distributed across people, tools, and environments—providing theoretical grounding for why PKBs can serve as genuine cognitive partners
 > - **[[Expertise Studies]]** literature examining the transition from novice to expert across domains, providing empirical grounding for understanding how schema development changes learning requirements over time
 
 ***

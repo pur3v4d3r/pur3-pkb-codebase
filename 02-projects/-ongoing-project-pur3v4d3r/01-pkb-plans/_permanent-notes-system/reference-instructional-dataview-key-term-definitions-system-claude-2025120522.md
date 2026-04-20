@@ -174,7 +174,7 @@ review-priority: medium
 > - Note Type: Technical reference with code examples
 > **Structural Planning:**
 > - Main sections: Problem analysis, Solution approaches, Complete implementations, Usage guide, Troubleshooting
-> - Wiki-Link Opportunities: [[Dataview]], [[DataviewJS]], [[Inline-Fields]], [[Metadata]], [[YAML-Frontmatter]], [[Regex]], [[JavaScript]]
+> - Wiki-Link Opportunities: [[Dataview]], [[DataviewJS]], [[Inline-Fields]], [[Metadata]], [[yaml-frontmatter]], [[Regex]], [[JavaScript]]
 > - Callout Strategy: Use methodology, example, code blocks, warnings, and tips
 > - Metadata: Tags for technical guide, Dataview, Obsidian automation
 > **Key Technical Considerations:**
@@ -1201,7 +1201,7 @@ if (sortedDefinitions.length > 0) {
 
 ### 🔄 Query 6: Combine Frontmatter + Inline Fields
 
-If you want to mix [[YAML-Frontmatter]] definitions with inline fields:
+If you want to mix [[yaml-frontmatter]] definitions with inline fields:
 
 ```dataviewj
 const currentFile = dv.current().file;
@@ -1463,7 +1463,7 @@ dv.paragraph("```csv\n" + csv + "\n```");
 1. **[[Dataview Performance Optimization]]**
    - *Connection*: Large-scale queries across hundreds of notes require optimization strategies
    - *Depth Potential*: Covers caching, query structure, async processing, and pagination techniques
-   - *Knowledge Graph Role*: Core node for [[Obsidian]] power users managing large vaults
+   - *Knowledge Graph Role*: Core node for [[obsidian]] power users managing large vaults
 
 2. **[[Regex Patterns for Knowledge Management]]**
    - *Connection*: Custom parsing depends on robust regex patterns for varied formats
@@ -1473,12 +1473,12 @@ dv.paragraph("```csv\n" + csv + "\n```");
 3. **[[Automated Glossary Systems]]**
    - *Connection*: Building on inline field extraction to create self-maintaining reference systems
    - *Depth Potential*: Advanced architectures for cross-vault glossaries, version tracking, and synonym detection
-   - *Knowledge Graph Role*: Integration point for [[Zettelkasten]], [[MOC]], and [[Reference Management]]
+   - *Knowledge Graph Role*: Integration point for [[zettelkasten]], [[MOC]], and [[Reference Management]]
 
 4. **[[Inline Metadata Standards and Best Practices]]**
    - *Connection*: Choosing optimal formats affects both human readability and machine parseability
    - *Depth Potential*: Comparative analysis of inline vs frontmatter metadata, standardization recommendations
-   - *Knowledge Graph Role*: Foundational knowledge for [[Information-Architecture]] in [[Personal-Knowledge-Base]] design
+   - *Knowledge Graph Role*: Foundational knowledge for [[Information-Architecture]] in [[personal-knowledge-base]] design
 
 ---
 

@@ -22,10 +22,10 @@ link-up:
   - 
 link-related:
   - "[[2025-11-21|Daily-Note]]"
-  - "[[Critical-Thinking]]"
+  - "[[critical-thinking]]"
   - "[[03-notes/01_permanent-notes/01_cognitive-development/Attention]]"
-  - "[[Dual-Process-Theory]]"
-  - "[[Epistemic-Cognition]]"
+  - "[[dual-process-theory]]"
+  - "[[epistemic-cognition]]"
   - "[[Executive Functions]]"
 maturity: seedling
 confidence: speculative
@@ -43,7 +43,7 @@ review-priority: medium
 # Default Mode Network
 
 > [!definition]
-> - **Key-Term**:[[Default Mode Network]]
+> - **Key-Term**:[[Default-Mode-Network]]
 > - [**Definition**:The Default Mode Network is a large-scale brain network of interacting regions that is most active when an individual is not focused on the external world and the brain is at "rest," typically involved in internal processes like self-reflection, planning, and memory retrieval.]
 
 ## Foundational Understanding

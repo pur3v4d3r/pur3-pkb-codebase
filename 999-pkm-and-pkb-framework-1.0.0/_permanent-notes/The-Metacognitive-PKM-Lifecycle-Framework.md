@@ -34,8 +34,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -46,7 +46,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -70,49 +70,49 @@ narrower:
   []
 
 see-also:
-  - "[[Metacognition]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[John-Flavell]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Barry-Zimmerman]]"
-  - "[[Paul-Pintrich]]"
-  - "[[Extended-Mind-Theory]]"
-  - "[[Andy-Clark]]"
-  - "[[David-Chalmers]]"
-  - "[[Metacognition]]"
-  - "[[Personal-Knowledge-Base]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Cognitive-Offloading]]"
-  - "[[Metacognition]]"
-  - "[[John-Flavell]]"
-  - "[[Aristotle]]"
-  - "[[John-Dewey]]"
-  - "[[Metacognitive-Knowledge]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[john-flavell|John-Flavell]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[paul-pintrich|Paul-Pintrich]]"
+  - "[[extended-mind-theory|Extended-Mind-Theory]]"
+  - "[[andy-clark|Andy-Clark]]"
+  - "[[david-chalmers|David-Chalmers]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[personal-knowledge-base|Personal-Knowledge-Base]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[cognitive-offloading|Cognitive-Offloading]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[john-flavell|John-Flavell]]"
+  - "[[aristotle|Aristotle]]"
+  - "[[john-dewey|John-Dewey]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Flavell-Metacognition-Framework]]"
-  - "[[Nelson-Narens-Model]]"
-  - "[[Zimmerman-SRL-Model]]"
+  - "[[flavell-metacognition-framework|Flavell-Metacognition-Framework]]"
+  - "[[nelson-narens-model|Nelson-Narens-Model]]"
+  - "[[zimmerman-srl-model|Zimmerman-SRL-Model]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[The-following-topics-emerged-from-the-analysis-in-this-report-as-warranting-sepa|The following topics emerged from the analysis in this report as warranting separate, in-depth treat]]"
+  - topic: "[[The following topics emerged from the analysis in this report as warranting separate, in-depth treat]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-systematic-investigation-of-whether-metacognitive-monitoring-and-r|**Description:** A systematic investigation of whether metacognitive monitoring and regulation skill]]"
+  - topic: "[[**Description:** A systematic investigation of whether metacognitive monitoring and regulation skill]]"
     description: ""
     priority: medium
-  - topic: "[[Description-An-analysis-of-how-metacognitive-monitoring-and-regulation-function|**Description:** An analysis of how metacognitive monitoring and regulation function in social and c]]"
+  - topic: "[[**Description:** An analysis of how metacognitive monitoring and regulation function in social and c]]"
     description: ""
     priority: medium
-  - topic: "[[Description-A-deep-investigation-of-what-happens-when-metacognitive-functions-ar|**Description:** A deep investigation of what happens when metacognitive functions are delegated to ]]"
+  - topic: "[[**Description:** A deep investigation of what happens when metacognitive functions are delegated to ]]"
     description: ""
     priority: medium
 
@@ -129,13 +129,13 @@ importance: high
 > [!definition] **The Metacognitive PKM Lifecycle Framework** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
 > I propose the **Metacognitive PKM Lifecycle** — a four-phase developmental model describing how practitioners' metacognitive capacity and PKM sophistication co-evolve:
 > 
-> **Phase 1: Unconscious Capture** — The novice practitioner collects information with enthusiasm but without metacognitive awareness of *why* they are collecting or *how* they will use it. Capture is driven by interest rather than by strategic assessment of knowledge gaps. The PKM system is a repository, not a cognitive tool. Metacognitive monitoring is dominated by [[Fluency-Illusion|fluency illusions]], and regulatory processes are ad hoc.
+> **Phase 1: Unconscious Capture** — The novice practitioner collects information with enthusiasm but without metacognitive awareness of *why* they are collecting or *how* they will use it. Capture is driven by interest rather than by strategic assessment of knowledge gaps. The PKM system is a repository, not a cognitive tool. Metacognitive monitoring is dominated by [[fluency-illusion|fluency illusions]], and regulatory processes are ad hoc.
 > 
-> **Phase 2: Structured Processing** — The practitioner has learned to process information actively — writing in their own words, making connections, asking evaluative questions. Templates and workflows provide regulatory scaffolding. The PKM system begins to function as a metacognitive tool, but the practitioner is largely following external procedures rather than internally generating metacognitive judgments. Monitoring improves through structured retrieval practice, but [[Metacognitive-Calibration|calibration]] remains limited.
+> **Phase 2: Structured Processing** — The practitioner has learned to process information actively — writing in their own words, making connections, asking evaluative questions. Templates and workflows provide regulatory scaffolding. The PKM system begins to function as a metacognitive tool, but the practitioner is largely following external procedures rather than internally generating metacognitive judgments. Monitoring improves through structured retrieval practice, but [[metacognitive-calibration|calibration]] remains limited.
 > 
-> **Phase 3: Reflective Integration** — The practitioner begins to monitor and regulate their *system use*, not just their *content processing*. They evaluate which templates work, which workflows produce deep understanding versus superficial coverage, and which review practices genuinely improve their knowledge. The PKM system becomes an object of [[Reflective-Practice|reflective practice]]. Metacognitive monitoring extends to system-level assessment, and regulatory processes include deliberate system modification. Calibration improves as the practitioner develops domain-specific metacognitive expertise.
+> **Phase 3: Reflective Integration** — The practitioner begins to monitor and regulate their *system use*, not just their *content processing*. They evaluate which templates work, which workflows produce deep understanding versus superficial coverage, and which review practices genuinely improve their knowledge. The PKM system becomes an object of [[reflective-practice|reflective practice]]. Metacognitive monitoring extends to system-level assessment, and regulatory processes include deliberate system modification. Calibration improves as the practitioner develops domain-specific metacognitive expertise.
 > 
-> **Phase 4: Metacognitive Mastery** — The practitioner operates with flexible, context-sensitive metacognitive regulation. They select processing strategies based on accurate assessment of material difficulty, personal knowledge state, and learning goals. The PKM system is continuously refined through data-driven evaluation. Scaffolding is selectively deployed — heavy for new domains, light for familiar ones, in accordance with the [[Expertise-Reversal-Effect|expertise reversal effect]]. The relationship between internal and external metacognition (the EMAM tiers) is consciously managed.
+> **Phase 4: Metacognitive Mastery** — The practitioner operates with flexible, context-sensitive metacognitive regulation. They select processing strategies based on accurate assessment of material difficulty, personal knowledge state, and learning goals. The PKM system is continuously refined through data-driven evaluation. Scaffolding is selectively deployed — heavy for new domains, light for familiar ones, in accordance with the [[expertise-reversal-effect|expertise reversal effect]]. The relationship between internal and external metacognition (the EMAM tiers) is consciously managed.
 > 
 > This lifecycle is not purely linear — practitioners may be at different phases for different domains within their PKM, and regression is possible when entering unfamiliar territory. But the overall trajectory describes a movement from externalized dependence (the system does the metacognitive work) through conscious scaffolding (the system supports metacognitive work) to integrated mastery (the practitioner and system form a coherent metacognitive architecture).
 
@@ -189,10 +189,10 @@ importance: high
 > *Describe how this concept applies in practice.*
 
 > [!warning] **Key Distinction** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
-> The fluency illusion creates a particularly insidious trap in PKM. A practitioner who re-reads their own notes experiences high fluency (they wrote them, after all) and mistakes this fluency for deep understanding. The monitoring system reports "I know this," when the accurate report would be "I recognise this." This is the same phenomenon that makes [[The-Fluency-Illusion|the fluency illusion]] so dangerous in academic settings — and it is amplified in PKM contexts where the practitioner is…
+> The fluency illusion creates a particularly insidious trap in PKM. A practitioner who re-reads their own notes experiences high fluency (they wrote them, after all) and mistakes this fluency for deep understanding. The monitoring system reports "I know this," when the accurate report would be "I recognise this." This is the same phenomenon that makes [[the-fluency-illusion|the fluency illusion]] so dangerous in academic settings — and it is amplified in PKM contexts where the practitioner is…
 
 > [!warning] **Key Distinction** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
-> Externalised regulation, like externalised monitoring, carries the risk of dependency. If templates always tell the practitioner what questions to ask, the practitioner may never develop the capacity to formulate those questions independently. [[Scaffolded-Fading|Scaffolded fading]] — the deliberate, gradual withdrawal of regulatory support as the practitioner develops internal capacity — is essential. A well-designed PKM system evolves with the practitioner: detailed templates for novice…
+> Externalised regulation, like externalised monitoring, carries the risk of dependency. If templates always tell the practitioner what questions to ask, the practitioner may never develop the capacity to formulate those questions independently. [[scaffolded-fading|Scaffolded fading]] — the deliberate, gradual withdrawal of regulatory support as the practitioner develops internal capacity — is essential. A well-designed PKM system evolves with the practitioner: detailed templates for novice…
 
 > [!warning] **Key Distinction** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
 > A particular calibration risk in PKM is confusing the *quantity* of notes with the *quality* of understanding. A vault containing 500 notes on cognitive science may give its owner a subjective sense of mastery — the sheer volume feels evidence of deep learning. But volume is a surface feature, not an indicator of comprehension depth. Without retrieval-based assessment of actual understanding, the vault size can function as a misleading metacognitive signal. The antidote is to evaluate…
@@ -295,7 +295,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Connecting to What You Already Know** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
-> If you have engaged with [[Metacognition|metacognition]] as a concept — the idea that humans can think *about* their own thinking — you have likely encountered it as an internal, private capacity: the inner voice that asks "Do I really understand this?" or "Should I re-read that passage?" Similarly, if you have built or maintained a [[Personal-Knowledge-Base|personal knowledge base]], you have engaged in decisions about what to capture, how to structure it, and when to revisit it. This report asks you to see these two practices as the *same underlying activity* operating at different levels…
+> If you have engaged with [[metacognition|metacognition]] as a concept — the idea that humans can think *about* their own thinking — you have likely encountered it as an internal, private capacity: the inner voice that asks "Do I really understand this?" or "Should I re-read that passage?" Similarly, if you have built or maintained a [[personal-knowledge-base|personal knowledge base]], you have engaged in decisions about what to capture, how to structure it, and when to revisit it. This report asks you to see these two practices as the *same underlying activity* operating at different levels…
 
 ## Active Reading Prompts
 
@@ -313,7 +313,7 @@ importance: high
 > [!far-transfer] **Software Engineering: Code Quality as Metacognitive Practice** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
 > **Structural Principle:** The monitoring-regulation-calibration triad is isomorphic with software engineering quality practices.
 > 
-> **Application:** Code review is externalized monitoring — another person evaluates the quality of cognitive output that the original developer cannot objectively assess (the [[Dunning-Kruger-Effect|Dunning-Kruger effect]] applies to code quality as much as to knowledge assessment). Automated testing suites are algorithmic monitoring — they assess code correctness more reliably than developer intuition. CI/CD pipelines instantiate regulatory processes: they enforce…
+> **Application:** Code review is externalized monitoring — another person evaluates the quality of cognitive output that the original developer cannot objectively assess (the [[dunning-kruger-effect|Dunning-Kruger effect]] applies to code quality as much as to knowledge assessment). Automated testing suites are algorithmic monitoring — they assess code correctness more reliably than developer intuition. CI/CD pipelines instantiate regulatory processes: they enforce…
 
 > [!far-transfer] **Healthcare: Clinical Reasoning as Metacognitive Regulation** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
 > **Structural Principle:** Diagnostic reasoning in medicine is a metacognitively regulated process vulnerable to the same calibration failures identified in learning contexts.
@@ -328,12 +328,12 @@ importance: high
 > [!far-transfer] **Athletic Performance: Deliberate Practice as Metacognitive Regulation** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
 > **Structural Principle:** The monitoring-regulation cycle in athletic skill development is structurally parallel to the metacognitive cycle in knowledge work.
 > 
-> **Application:** [[Deliberate-Practice|Deliberate practice]] (Ericsson, Krampe, & Tesch-Römer, 1993) is, at its core, a metacognitively regulated learning process. The athlete monitors performance through both internal signals (proprioception, effort perception) and external systems (video analysis, performance metrics, coach feedback). Regulation involves strategy adjustment based on monitoring signals. Calibration — accurately…
+> **Application:** [[deliberate-practice|Deliberate practice]] (Ericsson, Krampe, & Tesch-Römer, 1993) is, at its core, a metacognitively regulated learning process. The athlete monitors performance through both internal signals (proprioception, effort perception) and external systems (video analysis, performance metrics, coach feedback). Regulation involves strategy adjustment based on monitoring signals. Calibration — accurately…
 
 ## Concrete Examples
 
 > [!example] **Note-Making as Metacognitive Regulation in Action** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
-> Consider a PKM practitioner processing a research paper on [[Cognitive-Load-Theory|cognitive load theory]]. Note-taking would produce a summary of the paper's main points. Note-making requires the practitioner to ask: "How does this relate to what I already know about [[Working-Memory|working memory]] constraints? Does it challenge or extend my understanding of [[Intrinsic-Cognitive-Load|intrinsic load]]? Where in my knowledge graph does this connect — and are those connections tight enough, or do I need to reconsider my existing notes?" Each of these questions is a metacognitive act. The…
+> Consider a PKM practitioner processing a research paper on [[cognitive-load-theory|cognitive load theory]]. Note-taking would produce a summary of the paper's main points. Note-making requires the practitioner to ask: "How does this relate to what I already know about [[working-memory|working memory]] constraints? Does it challenge or extend my understanding of [[intrinsic-cognitive-load|intrinsic load]]? Where in my knowledge graph does this connect — and are those connections tight enough, or do I need to reconsider my existing notes?" Each of these questions is a metacognitive act. The…
 
 > [!example] **The Template as Regulatory Scaffolding** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
 > Consider a PKM template for processing research papers that includes the following prompts: "What is the central claim?", "What evidence supports it?", "How does this relate to [existing note X]?", "Where is the argument weakest?", "What would I need to know to evaluate this claim myself?" Each prompt is a *regulatory instruction* — a control directive from a meta-level (the template designer, who was either the practitioner's past self or a community member) to the object-level (the practitioner's current cognitive processing). The template instantiates…
@@ -353,10 +353,10 @@ importance: high
 > There is a deep structural isomorphism between Zimmerman's SRL cycle and the workflow of a well-designed PKM system. The forethought phase maps to the *capture and planning* workflows (selecting what to study, setting learning goals, choosing processing strategies). The performance phase maps to *active note-making* (implementing elaboration, self-explanation, and connection-making strategies while processing material). The self-reflection phase maps to *review and evolution* practices (assessing the quality of one's notes, evaluating comprehension, identifying gaps, and modifying future…
 
 > [!claude-insight] **The PKM Calibration Paradox** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
-> There is a paradox at the heart of PKM and calibration. The very act of creating a comprehensive knowledge base can *worsen* calibration by fostering an [[Illusion-of-Knowing|illusion of knowing]]. A practitioner who has written extensive notes on a topic may subjectively feel deeply knowledgeable about it, when in fact the knowledge resides in the notes rather than in their cognitive architecture. The notes become an external memory store that the practitioner mistakenly attributes to their internal memory. This is the [[Cognitive-Offloading|cognitive offloading]] version of the fluency…
+> There is a paradox at the heart of PKM and calibration. The very act of creating a comprehensive knowledge base can *worsen* calibration by fostering an [[illusion-of-knowing|illusion of knowing]]. A practitioner who has written extensive notes on a topic may subjectively feel deeply knowledgeable about it, when in fact the knowledge resides in the notes rather than in their cognitive architecture. The notes become an external memory store that the practitioner mistakenly attributes to their internal memory. This is the [[cognitive-offloading|cognitive offloading]] version of the fluency…
 
 > [!claude-insight] **The Metacognitive Cyborg** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*
-> The extended metacognition framework suggests that the advanced PKM practitioner is, in a philosophically precise sense, a *metacognitive cyborg* — a cognitive agent whose self-monitoring and self-regulatory apparatus is distributed across biological and artifactual components. This is not science fiction but a description of current practice. When a researcher relies on their [[Obsidian|Obsidian]] vault's link analysis to identify conceptual gaps, uses [[Spaced-Repetition|spaced repetition]] to monitor retention, and follows template-guided regulatory protocols for deep processing, their…
+> The extended metacognition framework suggests that the advanced PKM practitioner is, in a philosophically precise sense, a *metacognitive cyborg* — a cognitive agent whose self-monitoring and self-regulatory apparatus is distributed across biological and artifactual components. This is not science fiction but a description of current practice. When a researcher relies on their [[obsidian|Obsidian]] vault's link analysis to identify conceptual gaps, uses [[spaced-repetition|spaced repetition]] to monitor retention, and follows template-guided regulatory protocols for deep processing, their…
 
 ## Section Summaries
 
@@ -567,19 +567,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[metacognition-and-pkm-foundational-report-2026-04-12]])*:
-- [[Metacognition]]
-- [[Metacognition-—-Foundational-Concepts]]
-- [[Nelson-Narens-Model]]
-- [[The-Nelson-Narens-Monitoring-Control-Model]]
-- [[Self-Regulated-Learning]]
-- [[Zimmerman-SRL-Model]]
-- [[Extended-Mind-Theory]]
-- [[Cognitive-Load-Theory]]
-- [[Personal-Knowledge-Management]]
-- [[PKM]]
+- [[metacognition|Metacognition]]
+- [[metacognition-foundational-concepts|Metacognition-—-Foundational-Concepts]]
+- [[nelson-narens-model|Nelson-Narens-Model]]
+- [[the-nelson-narens-monitoring-control-model|The-Nelson-Narens-Monitoring-Control-Model]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[zimmerman-srl-model|Zimmerman-SRL-Model]]
+- [[extended-mind-theory|Extended-Mind-Theory]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[pkm|PKM]]
 
 **Related concepts:**
-[[Metacognition]] · [[Personal-Knowledge-Management]] · [[John-Flavell]] · [[Nelson-Narens-Model]] · [[Self-Regulated-Learning]] · [[Barry-Zimmerman]] · [[Paul-Pintrich]] · [[Extended-Mind-Theory]] · [[Andy-Clark]] · [[David-Chalmers]] · [[Metacognition]] · [[Personal-Knowledge-Base]] · [[Self-Regulated-Learning]] · [[Cognitive-Load-Theory]] · [[Cognitive-Offloading]] · [[Metacognition]] · [[John-Flavell]] · [[Aristotle]] · [[John-Dewey]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Experience]] · [[Critical-Thinking]] · [[Flavell-Metacognition-Framework]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Experience]] · [[Knowledge-of-Cognition]] · [[Ann-Brown]] · [[Knowledge-of-Cognition]] · [[Regulation-of-Cognition]] · [[Gregory-Schraw]]
+[[metacognition|Metacognition]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[john-flavell|John-Flavell]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[barry-zimmerman|Barry-Zimmerman]] · [[paul-pintrich|Paul-Pintrich]] · [[extended-mind-theory|Extended-Mind-Theory]] · [[andy-clark|Andy-Clark]] · [[david-chalmers|David-Chalmers]] · [[metacognition|Metacognition]] · [[personal-knowledge-base|Personal-Knowledge-Base]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[cognitive-offloading|Cognitive-Offloading]] · [[metacognition|Metacognition]] · [[john-flavell|John-Flavell]] · [[aristotle|Aristotle]] · [[john-dewey|John-Dewey]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-experience|Metacognitive-Experience]] · [[critical-thinking|Critical-Thinking]] · [[flavell-metacognition-framework|Flavell-Metacognition-Framework]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-experience|Metacognitive-Experience]] · [[knowledge-of-cognition|Knowledge-of-Cognition]] · [[ann-brown|Ann-Brown]] · [[knowledge-of-cognition|Knowledge-of-Cognition]] · [[regulation-of-cognition|Regulation-of-Cognition]] · [[gregory-schraw|Gregory-Schraw]]
 
 ## References
 

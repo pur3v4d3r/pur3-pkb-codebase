@@ -364,7 +364,7 @@ She champions **Atomic Daily Notes**, **Daily Maintenance Protocols**, and **Con
 > - [ ] Finish PKM proposal → due:: 2025-04-05
 > 
 > ## 🌱 Insights
-> - Realized: [[Neuroplasticity]] happens faster under play, not pressure.
+> - Realized: [[neuroplasticity]] happens faster under play, not pressure.
 > 
 > ## 🌇 Evening Review
 > - 3 Wins: …

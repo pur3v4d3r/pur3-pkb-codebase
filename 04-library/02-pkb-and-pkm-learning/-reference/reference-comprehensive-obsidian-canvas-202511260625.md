@@ -100,10 +100,10 @@ Structural Planning:
   6. Strategic implementation roadmap for their vault
   
 - Wiki-Link Opportunities:
-  - [[Obsidian]]
+  - [[obsidian]]
   - [[Visual Knowledge Management]]
   - [[Spatial Thinking]]
-  - [[Zettelkasten]]
+  - [[zettelkasten]]
   - [[MOC]] (Map of Content)
   - [[Mind-Mapping]]
   - [[Concept Mapping]]
@@ -157,7 +157,7 @@ aliases: [Obsidian Canvas, Infinite Canvas, Canvas Feature, Visual Workspace, JS
 
 > [!abstract]
 > **Executive Overview**
-> Obsidian Canvas provides infinite space to research, brainstorm, diagram, and organize notes visually through an unlimited canvas workspace. Released in Obsidian 1.1 (2022), Canvas represents a paradigm shift from linear note-taking to [[Spatial Thinking|spatial knowledge organization]], enabling [[Visual Knowledge Management]] through node-based layouts with full integration into your [[Zettelkasten]] and [[PKM]] ecosystem.
+> Obsidian Canvas provides infinite space to research, brainstorm, diagram, and organize notes visually through an unlimited canvas workspace. Released in Obsidian 1.1 (2022), Canvas represents a paradigm shift from linear note-taking to [[Spatial Thinking|spatial knowledge organization]], enabling [[Visual Knowledge Management]] through node-based layouts with full integration into your [[zettelkasten]] and [[PKM]] ecosystem.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -181,7 +181,7 @@ aliases: [Obsidian Canvas, Infinite Canvas, Canvas Feature, Visual Workspace, JS
 ## 🎯 Core Canvas Concept & Philosophy
 
 > [!definition]
-> - **Canvas**:: An [[Obsidian]] core plugin providing an infinite, two-dimensional workspace where notes, media, text blocks, and web content can be spatially arranged and interconnected through visual connections
+> - **Canvas**:: An [[obsidian]] core plugin providing an infinite, two-dimensional workspace where notes, media, text blocks, and web content can be spatially arranged and interconnected through visual connections
 > - **Infinite Canvas Paradigm**:: A UI pattern that removes spatial constraints, allowing unlimited expansion in all directions for non-linear thinking and organization
 > - **Node-Based System**:: Architecture where discrete elements (nodes) are placed on a canvas and connected via directional edges
 
@@ -191,7 +191,7 @@ Canvas represents Obsidian's commitment to storing data locally, accessible offl
 
 > [!key-claim]
 > **Central Principle: Spatial Thinking Complements Sequential Thinking**
-> Canvas doesn't replace your [[Zettelkasten]] atomic notes—it provides a **complementary visualization layer**. Linear notes capture atomized concepts; Canvas reveals the spatial relationships, hierarchies, and workflows between them.
+> Canvas doesn't replace your [[zettelkasten]] atomic notes—it provides a **complementary visualization layer**. Linear notes capture atomized concepts; Canvas reveals the spatial relationships, hierarchies, and workflows between them.
 
 The philosophical foundation rests on three principles:
 
@@ -201,7 +201,7 @@ The philosophical foundation rests on three principles:
 
 > [!analogy]
 > **Illuminating Comparison**
-> Think of your [[Obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[wiki-links]] are roads (connections), [[MOC|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
+> Think of your [[obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[wiki-links]] are roads (connections), [[MOC|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
 
 ### Use Case Philosophy
 
@@ -1131,7 +1131,7 @@ Based on your vault structure (from Strategic Roadmap), here are **specific canv
 
 #### Pattern 2: **Weekly Review Canvas**
 
-**Purpose**: Structured weekly reflection per your [[Self-Regulated-Learning]] framework
+**Purpose**: Structured weekly reflection per your [[self-regulated-learning]] framework
 
 **Structure**:
 ```
@@ -1154,7 +1154,7 @@ Based on your vault structure (from Strategic Roadmap), here are **specific canv
 
 #### Pattern 4: **Meta-Cognitive Reflection Canvas**
 
-**Purpose**: Visualization of your [[Cognitive-Load]] reduction progress
+**Purpose**: Visualization of your [[cognitive-load]] reduction progress
 
 **Structure**:
 ```
@@ -1176,7 +1176,7 @@ Based on your vault structure (from Strategic Roadmap), here are **specific canv
 
 #### Limitation 1: No Native Graph Integration
 
-**Problem**: Canvas files don't show up in linked views like Local Graph—breaks [[Zettelkasten]] principles of bidirectional discovery.
+**Problem**: Canvas files don't show up in linked views like Local Graph—breaks [[zettelkasten]] principles of bidirectional discovery.
 
 **Impact**: 
 - Canvas connections invisible in [[Graph View]]
@@ -1331,7 +1331,7 @@ create_moc_canvas("03_permanent-notes/cognitive-science", "moc-canvas.canvas")
 > [!the-philosophy]
 > **Canvas as Cognitive Prosthetic**
 > 
-> Canvas isn't a replacement for your [[Zettelkasten]] note-taking—it's a **complementary thinking tool**. Linear notes capture atomized knowledge; Canvas reveals emergent structure. The magic happens in the **interplay**:
+> Canvas isn't a replacement for your [[zettelkasten]] note-taking—it's a **complementary thinking tool**. Linear notes capture atomized knowledge; Canvas reveals emergent structure. The magic happens in the **interplay**:
 > 
 > - Notes provide granular, searchable, linkable knowledge units
 > - Canvas provides spatial context, hierarchical understanding, workflow visualization

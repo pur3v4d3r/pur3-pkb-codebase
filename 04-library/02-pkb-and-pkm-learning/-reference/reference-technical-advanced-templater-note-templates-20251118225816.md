@@ -30,7 +30,7 @@ aliases: [Daily Planning Templates, Daily Note Automation, Day Planning Template
 # Daily Planning & Daily Notes Templates
 
 > [!abstract] Purpose
-> Comprehensive Templater templates for daily planning, execution tracking, and reflection. Integrates task management, time blocking, habit tracking, and learning capture into cohesive daily workflow systems optimized for the [[Obsidian]] ecosystem.
+> Comprehensive Templater templates for daily planning, execution tracking, and reflection. Integrates task management, time blocking, habit tracking, and learning capture into cohesive daily workflow systems optimized for the [[obsidian]] ecosystem.
 
 ---
 
@@ -1182,7 +1182,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 *Weekly review completed: [ ]*
 `````
 
-**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD-Weekly-Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[Strategic-Planning]] at the weekly cadence.
+**Template Purpose:** Specialized daily note for weekly review and planning days (typically Sunday evening or Monday morning). Combines [[GTD-Weekly-Review]] methodology with forward planning and maintains daily note structure for consistency. Designed for [[strategic-planning]] at the weekly cadence.
 
 **Key Features:**
 - Automatic weekly review triggers and checklists
@@ -1408,7 +1408,7 @@ mode: "🌴 Rest & Recharge"
    - *Depth Potential*: Synthesis of [[Atomic-Habits]] (Clear), [[The-Power-of-Habit]] (Duhigg), [[Tiny-Habits]] (Fogg), implementation intention research, and environmental design
    - *Knowledge Graph Role*: Behavioral psychology cluster linking neuroscience, personal development, and systems thinking
 
-3. **[[Daily-Review-Frameworks]]**
+3. **[[daily-review-frameworks]]**
    - *Connection*: Structured reflection methodologies beyond basic gratitude journaling, including [[Stoic-Evening-Meditation]], [[AAR (After Action Review)]], and evidence-based reflection practices
    - *Depth Potential*: Comparative analysis of reflection frameworks, metacognitive skill development, emotional regulation through structured processing, and learning consolidation research
    - *Knowledge Graph Role*: Self-improvement practices domain connecting psychology, learning theory, and wisdom traditions
@@ -1857,8 +1857,8 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *What clicked for you? What was the "aha!" moment?*
 
 **Connection to Prior Knowledge:**
-- How does this relate to [[Concept X]] that you already understand?
-- How does this contrast with [[Concept Y]]?
+- How does this relate to [[Concept-X]] that you already understand?
+- How does this contrast with [[Concept-Y]]?
 
 ## 🎯 Practical Applications
 
@@ -1905,7 +1905,7 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *Last Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Structured learning documentation following [[Spaced-Repetition]] and [[Elaborative-Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
+**Template Purpose:** Structured learning documentation following [[spaced-repetition]] and [[elaborative-interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
 
 **Key Features:** 
 - Confidence tracking for metacognitive awareness
@@ -1918,7 +1918,7 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 - Adjust review intervals based on your retention patterns
 - Modify confidence_level scale to match your assessment preferences
 - Add domain-specific sections (e.g., "Mathematical Formulation" for STEM topics)
-- Integrate with [[Anki]] export workflows for flashcard generation
+- Integrate with [[anki]] export workflows for flashcard generation
 
 ---
 
@@ -2275,7 +2275,7 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 *Review Completed: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Comprehensive weekly reflection combining [[GTD (Getting Things Done)]] principles, [[Bullet Journaling]] techniques, and [[Positive Psychology]] practices. Designed for holistic life review covering professional productivity, personal growth, and well-being.
+**Template Purpose:** Comprehensive weekly reflection combining [[GTD (Getting Things Done)]] principles, [[Bullet Journaling]] techniques, and [[Positive-Psychology]] practices. Designed for holistic life review covering professional productivity, personal growth, and well-being.
 
 **Key Features:**
 - Automatic week number calculation and date range generation
@@ -4141,7 +4141,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 - [[Topic B]] - Foundation for…
 
 **This conversation fills gap:**
-- Between [[Concept X]] and [[Concept Y]]
+- Between [[Concept-X]] and [[Concept-Y]]
 - Missing piece in understanding [[Framework Z]]
 
 **Enables next learning:**
@@ -4174,11 +4174,11 @@ created: <% tp.date.now("YYYY-MM-DD") %>
    - Answer: 
    - Check: ✅ / ⚠️ / ❌
 
-2. **What is the relationship between [[Concept A]] and [[Concept B]]?**
+2. **What is the relationship between [[Concept-A]] and [[Concept-B]]?**
    - Answer: 
    - Check: ✅ / ⚠️ / ❌
 
-3. **Give an example of [[Concept X]] in a real-world context:**
+3. **Give an example of [[Concept-X]] in a real-world context:**
    - Answer: 
    - Check: ✅ / ⚠️ / ❌
 
@@ -4273,7 +4273,7 @@ graph LR
 *Follow-up status: <% tp.frontmatter.follow_up_needed ? "🔴 Follow-up needed" : "✅ Complete" %>*
 `````
 
-**Template Purpose:** Comprehensive framework for archiving educational LLM conversations with structured learning assessment, comprehension tracking, and integration into spaced repetition workflows. Designed for [[Self-Directed-Learning]] and [[Metacognitive-Development]].
+**Template Purpose:** Comprehensive framework for archiving educational LLM conversations with structured learning assessment, comprehension tracking, and integration into spaced repetition workflows. Designed for [[self-directed-learning]] and [[Metacognitive-Development]].
 
 **Key Features:**
 - Learning stage and comprehension level tracking for metacognitive awareness
@@ -4288,7 +4288,7 @@ graph LR
 - Adjust comprehension rating scale to match your assessment preferences
 - Modify review schedule based on your retention patterns
 - Add domain-specific testing approaches (problem sets for math, code challenges for programming)
-- Integrate with [[Anki]] or other SRS tools for automated review prompts
+- Integrate with [[anki]] or other SRS tools for automated review prompts
 - Connect to learning goal tracking systems
 - Expand meta-learning section for specific learning modalities
 
@@ -4314,4 +4314,4 @@ graph LR
 4. **[[Meta-Learning from LLM Interactions]]**
    - *Connection*: Extracting insights about your own learning patterns, knowledge gaps, and reasoning from conversations with LLMs
    - *Depth Potential*: Self-knowledge development, identifying cognitive biases, improving questioning techniques, and metacognitive skill building
-   - *Knowledge Graph Role*: Personal development cluster connecting [[Metacognition]], [[Learning Theory]], and [[AI-Augmented Thinking]] concepts
+   - *Knowledge Graph Role*: Personal development cluster connecting [[metacognition]], [[Learning Theory]], and [[AI-Augmented Thinking]] concepts

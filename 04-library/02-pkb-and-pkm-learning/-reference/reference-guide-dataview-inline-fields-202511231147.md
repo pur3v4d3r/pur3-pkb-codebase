@@ -40,7 +40,7 @@ aliases: [Dataview Inline Fields, Inline Metadata, Dataview Inline Syntax]
 # 🏷️ Dataview Inline Fields: Complete Reference Guide
 
 > [!the-purpose]
-> **Inline fields** are a core [[Dataview-Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[YAML-Frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
+> **Inline fields** are a core [[Dataview-Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[yaml-frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
 
 ## 📐 What Are Inline Fields?
 
@@ -274,7 +274,7 @@ type: #book
 
 # Atomic Habits
 
-author:: [[James-Clear]]
+author:: [[james-clear]]
 published:: 2018
 pages:: 320
 rating:: 9/10
@@ -494,7 +494,7 @@ WHERE !task.completed
 > - **Use lowercase with hyphens** for consistency: `project-status`, `due-date`, `team-lead`
 > - **Avoid spaces** unless you're comfortable with sanitized names
 > - **Be descriptive but concise**: `est-hours` rather than `estimated-hours-to-complete`
-> - **Establish naming patterns** across your [[Personal-Knowledge-Base]]
+> - **Establish naming patterns** across your [[personal-knowledge-base]]
 
 **Handling spaces and capitals:**
 ```markdown
@@ -760,7 +760,7 @@ dv.list(Array.from(fields).sort());
 > 3. Create simple LIST queries accessing single fields
 > 
 > **Level 2: Integration**
-> 4. Mix inline fields with [[YAML-Frontmatter]]
+> 4. Mix inline fields with [[yaml-frontmatter]]
 > 5. Add fields to tasks and query with TASK command
 > 6. Build TABLE queries with multiple field columns
 > 

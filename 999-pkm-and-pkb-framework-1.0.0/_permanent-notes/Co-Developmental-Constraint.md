@@ -5,6 +5,7 @@
 title: "Co-Developmental Constraint"
 aliases:
   - "Co-Developmental Constraint"
+  - "Co-Developmental-Constraint"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -32,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -44,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -68,39 +69,39 @@ narrower:
   []
 
 see-also:
-  - "[[John-Flavell]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Critical-Thinking]]"
-  - "[[Personal-Knowledge-Management]]"
-  - "[[Metacognitive-Calibration]]"
-  - "[[The-Fluency-Illusion]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Growth-Mindset-Theory]]"
-  - "[[John-Flavell]]"
-  - "[[Metacognition]]"
-  - "[[William-James]]"
-  - "[[Edward-Titchener]]"
-  - "[[Metacognitive-Knowledge]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Knowledge-of-Cognition]]"
-  - "[[Regulation-of-Cognition]]"
-  - "[[Ann-Brown]]"
-  - "[[Thomas-Nelson]]"
+  - "[[john-flavell|John-Flavell]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[critical-thinking|Critical-Thinking]]"
+  - "[[personal-knowledge-management|Personal-Knowledge-Management]]"
+  - "[[metacognitive-calibration|Metacognitive-Calibration]]"
+  - "[[the-fluency-illusion|The-Fluency-Illusion]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[growth-mindset-theory|Growth-Mindset-Theory]]"
+  - "[[john-flavell|John-Flavell]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[william-james|William-James]]"
+  - "[[edward-titchener|Edward-Titchener]]"
+  - "[[metacognitive-knowledge|Metacognitive-Knowledge]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[knowledge-of-cognition|Knowledge-of-Cognition]]"
+  - "[[regulation-of-cognition|Regulation-of-Cognition]]"
+  - "[[ann-brown|Ann-Brown]]"
+  - "[[thomas-nelson|Thomas-Nelson]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Metacognition]]"
-  - "[[Cognitive-Development-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[cognitive-development-theory|Cognitive-Development-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Calibration-Training-Methods-and-Evidence-—-Priority-Critical-Descri|> [!topic-idea] **[[Calibration-Training-Methods-and-Evidence]]** — *Priority: Critical*
+  - topic: "[[> [!topic-idea] **[[Calibration-Training-Methods-and-Evidence]]** — *Priority: Critical*
 > **Descrip]]"
     description: ""
     priority: medium
@@ -118,7 +119,7 @@ importance: high
 > [!definition] **Co-Developmental Constraint** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
 > The co-developmental constraint is the structural feature of domain-specific metacognitive monitoring whereby monitoring accuracy cannot substantially surpass domain competence, because accurate assessment of performance quality requires a representation of what excellent performance looks like that can only be constructed through substantial domain experience. First articulated here as an original framing of the Dunning-Kruger data and related monitoring accuracy literature.
 > 
-> **See also:** [[Metacognitive-Calibration]], [[Dunning-Kruger-Effect]], [[Metacognitive-Monitoring]], [[Domain-Specific-Knowledge]]
+> **See also:** [[metacognitive-calibration]], [[dunning-kruger-effect]], [[metacognitive-monitoring]], [[Domain-Specific-Knowledge]]
 
 ## Core Explanation
 
@@ -189,7 +190,7 @@ importance: high
 ## Conceptual Tensions
 
 > [!tension] **Domain-General versus Domain-Specific Metacognitive Skills** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
-> **The tension:** Research on metacognitive training consistently finds that improvements in monitoring and control often show poor transfer across domains, suggesting that [[Metacognitive-Knowledge|metacognitive knowledge]] and monitoring skills are substantially domain-specific. Yet practitioners of PKB, reflective practice, and general critical thinking education treat metacognitive skills as meaningfully domain-general and transferable.
+> **The tension:** Research on metacognitive training consistently finds that improvements in monitoring and control often show poor transfer across domains, suggesting that [[metacognitive-knowledge|metacognitive knowledge]] and monitoring skills are substantially domain-specific. Yet practitioners of PKB, reflective practice, and general critical thinking education treat metacognitive skills as meaningfully domain-general and transferable.
 > 
 > **Position A (domain-specific):** The co-developmental constraint implies that monitoring accuracy depends on domain-specific performance standards;…
 
@@ -249,12 +250,12 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Prior Knowledge Bridge: What You Already Know About Thinking About Thinking** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
-> Before engaging the formal framework, locate your existing schema. You already have metacognitive experience: every time you ask yourself whether you truly understand a concept, estimate how long a task will take, or recognize mid-way through a reading that you have lost comprehension — these are metacognitive acts. You have almost certainly encountered the phenomenon of [[The-Fluency-Illusion|the fluency illusion]] — the experience of recognizing material as familiar while failing to actually be able to reproduce or apply it. This sense of "I know this" when confronted with a concept is…
+> Before engaging the formal framework, locate your existing schema. You already have metacognitive experience: every time you ask yourself whether you truly understand a concept, estimate how long a task will take, or recognize mid-way through a reading that you have lost comprehension — these are metacognitive acts. You have almost certainly encountered the phenomenon of [[the-fluency-illusion|the fluency illusion]] — the experience of recognizing material as familiar while failing to actually be able to reproduce or apply it. This sense of "I know this" when confronted with a concept is…
 
 ## Far Transfer Applications
 
 > [!far-transfer] **Epistemic Virtue and Collective Metacognition** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
-> At a social and epistemological scale, metacognitive development theory maps onto the project of epistemic virtue cultivation in communities of inquiry. [[Virtue-Epistemology|Virtue epistemology]] — the project of characterizing and cultivating intellectual virtues such as intellectual humility, open-mindedness, thoroughness, and intellectual courage — is metacognitive development at the level of stable dispositional traits. The calibration failures analyzed in this report (motivated monitoring distortion, fluency trap overconfidence, pseudometacognitive substitution) have analogs in…
+> At a social and epistemological scale, metacognitive development theory maps onto the project of epistemic virtue cultivation in communities of inquiry. [[virtue-epistemology|Virtue epistemology]] — the project of characterizing and cultivating intellectual virtues such as intellectual humility, open-mindedness, thoroughness, and intellectual courage — is metacognitive development at the level of stable dispositional traits. The calibration failures analyzed in this report (motivated monitoring distortion, fluency trap overconfidence, pseudometacognitive substitution) have analogs in…
 
 > [!far-transfer] **Metacognition in AI Systems and Machine Self-Monitoring** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
 > The architecture of metacognitive monitoring and control — the separation of a meta level that monitors and governs an object level — is directly analogous to the challenge of building AI systems with reliable self-monitoring. AI systems trained to recognize their own uncertainty boundaries, to flag when a query is outside their competence, and to modulate confidence expression in proportion to evidence quality are implementing the monitoring function. Systems trained to modify their reasoning approach in response to performance feedback are implementing the control function. The failures of…
@@ -288,30 +289,30 @@ importance: high
 > Winne and Hadwin's standards-comparison framework implies a specific and underexplored mechanism for metacognitive development: rather than focusing exclusively on "metacognitive strategy instruction" (teaching learners monitoring tactics), instructors and learners should invest heavily in **standards enrichment** — explicit, detailed, concrete construction of the standards for excellent performance specific to each domain. Students who have extensively analyzed exemplary work across multiple problem types develop richer, more differentiated standards for performance quality; students taught…
 
 > [!claude-insight] **The PKB as Externalized Metacognitive System** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
-> A well-maintained [[Personal-Knowledge-Base|Personal Knowledge Base]] functions as an externalized metacognitive monitoring system — a record not merely of what the user has been exposed to but of what they have genuinely processed, understood, linked to other ideas, and applied in specific contexts. The link density of a note (how many other notes connect to it and how it connects to them) is a rough proxy for the depth of the note-maker's comprehension and integration: a note that sits isolated in the PKB represents information encountered but not yet genuinely understood in relation to…
+> A well-maintained [[personal-knowledge-base|Personal Knowledge Base]] functions as an externalized metacognitive monitoring system — a record not merely of what the user has been exposed to but of what they have genuinely processed, understood, linked to other ideas, and applied in specific contexts. The link density of a note (how many other notes connect to it and how it connects to them) is a rough proxy for the depth of the note-maker's comprehension and integration: a note that sits isolated in the PKB represents information encountered but not yet genuinely understood in relation to…
 
 ## Section Summaries
 
 > [!section-summary] **Section 1 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
 > - Metacognition denotes a two-layer cognitive architecture: a meta level that monitors and controls an object level that performs cognitive tasks.
-> - The field was formally established by [[John-H.-Flavell|John Flavell]] and [[Ann-L.-Brown|Ann Brown]] in the 1970s, drawing on the cognitive revolution's conceptual resources but with deep philosophical roots in the self-knowledge problem.
-> - The [[Nelson-Narens-Model|Nelson-Narens model]] provides the most rigorous formal architecture: monitoring flows upward from object to meta level; control flows downward.
+> - The field was formally established by [[john-h.-flavell|John Flavell]] and [[ann-l.-brown|Ann Brown]] in the 1970s, drawing on the cognitive revolution's conceptual resources but with deep philosophical roots in the self-knowledge problem.
+> - The [[nelson-narens-model|Nelson-Narens model]] provides the most rigorous formal architecture: monitoring flows upward from object to meta level; control flows downward.
 > - The central epistemological…
 
 > [!section-summary] **Section 2 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
-> - [[Metacognitive-Knowledge|Metacognitive knowledge]] is Flavell's term for stably held beliefs about persons, tasks, and strategies as cognitive phenomena. Schraw extends it into declarative (*what*), procedural (*how*), and [[conditional-metacognitive-knowledge|conditional]] (*when/why*) forms.
+> - [[metacognitive-knowledge|Metacognitive knowledge]] is Flavell's term for stably held beliefs about persons, tasks, and strategies as cognitive phenomena. Schraw extends it into declarative (*what*), procedural (*how*), and [[conditional-metacognitive-knowledge|conditional]] (*when/why*) forms.
 > - Conditional metacognitive knowledge is the most developmentally advanced component and the strongest predictor of expert performance; it is also the most difficult to instruct because it requires diagnostic pattern recognition that develops through extensive experience.
 > - The…
 
 > [!section-summary] **Section 3 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
-> - Metacognitive monitoring relies on accessible cues — especially [[Fluency-Illusion|processing fluency]] — whose validity for predicting actual cognitive performance is limited and context-dependent, generating systematic biases.
-> - The most prevalent biases include overconfidence in comprehension (due to [[The-Fluency-Trap|fluency effects]]), immediate over-delayed JOL bias (due to study-time rather than retrieval-based monitoring), and domain-specific accuracy limitations (the Dunning-Kruger pattern reveals a structural co-developmental constraint).
+> - Metacognitive monitoring relies on accessible cues — especially [[fluency-illusion|processing fluency]] — whose validity for predicting actual cognitive performance is limited and context-dependent, generating systematic biases.
+> - The most prevalent biases include overconfidence in comprehension (due to [[the-fluency-trap|fluency effects]]), immediate over-delayed JOL bias (due to study-time rather than retrieval-based monitoring), and domain-specific accuracy limitations (the Dunning-Kruger pattern reveals a structural co-developmental constraint).
 > -…
 
 > [!section-summary] **Section 4 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
 > - Metacognitive control encompasses initiation, continuation, termination, and re-selection operations that translate monitoring signals into behavioral adjustment.
 > - The monitoring-control coupling is a critical but fragile mechanism: monitoring and control can fail independently, and failures at the interface between them (the detection-correction gap, control-without-monitoring, automaticity-induced monitoring suppression) are among the most consequential metacognitive limitations.
-> - [[Executive-Function|Executive function]] provides the enabling architecture for metacognitive control but…
+> - [[executive-function|Executive function]] provides the enabling architecture for metacognitive control but…
 
 > [!section-summary] **Section 5 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
 > - Metacognitive development follows a characteristic trajectory from crude, overconfident preschool monitoring through the middle-school strategic metacognition expansion through adolescent metacognitive agency to adult and expert [[Metacognitive-Competence|metacognitive competence]].
@@ -325,7 +326,7 @@ importance: high
 
 > [!section-summary] **Section 7 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
 > - The fluency trap is the most pervasive calibration failure mode: processing fluency is a poor proxy for deep understanding during novel conceptual learning, but the monitoring system treats it as evidence of comprehension.
-> - [[Pseudometacognition]] — investment in metacognitive infrastructure without functional monitoring and control — is a common and institutionally-reinforced failure mode among conscientious learners.
+> - [[pseudometacognition]] — investment in metacognitive infrastructure without functional monitoring and control — is a common and institutionally-reinforced failure mode among conscientious learners.
 > - Motivated monitoring distortion systematically biases self-assessment toward self-serving conclusions; [[Epistemic-Courage|epistemic courage]] is the developmental…
 
 > [!section-summary] **Section 8 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
@@ -335,7 +336,7 @@ importance: high
 
 > [!section-summary] **Section 9 Key Takeaways** *(from [[metacognitive-development-foundational-report-2026-04-09]])*
 > - In expert knowledge-work domains, metacognitive calibration failures — particularly overconfidence in comprehension and premature diagnostic closure — carry high-stakes consequences that motivate specific applied metacognitive development interventions.
-> - [[Personal-Knowledge-Base|PKB]] development practices (atomic notes, genuine reformulation, link-building) are, in metacognitive terms, generation-based encoding and comprehension monitoring protocols that directly counter the fluency trap.
+> - [[personal-knowledge-base|PKB]] development practices (atomic notes, genuine reformulation, link-building) are, in metacognitive terms, generation-based encoding and comprehension monitoring protocols that directly counter the fluency trap.
 > - Critical thinking is substantially a metacognitive project: internalizing epistemic standards for…
 
 ## Spaced Repetition Seeds
@@ -423,19 +424,19 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[metacognitive-development-foundational-report-2026-04-09]])*:
-- [[Metacognition]]
-- [[Self-Regulated-Learning]]
-- [[Executive-Function]]
-- [[Cognitive-Development]]
-- [[Zone-of-Proximal-Development]]
-- [[Working-Memory]]
-- [[Deliberate-Practice]]
-- [[Critical-Thinking]]
-- [[Personal-Knowledge-Management]]
-- [[Reciprocal-Teaching]]
+- [[metacognition|Metacognition]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[executive-function|Executive-Function]]
+- [[cognitive-development|Cognitive-Development]]
+- [[zone-of-proximal-development|Zone-of-Proximal-Development]]
+- [[working-memory|Working-Memory]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[critical-thinking|Critical-Thinking]]
+- [[personal-knowledge-management|Personal-Knowledge-Management]]
+- [[reciprocal-teaching|Reciprocal-Teaching]]
 
 **Related concepts:**
-[[John-Flavell]] · [[Metacognitive-Knowledge]] · [[Self-Regulated-Learning]] · [[Critical-Thinking]] · [[Personal-Knowledge-Management]] · [[Metacognitive-Calibration]] · [[The-Fluency-Illusion]] · [[Self-Regulated-Learning]] · [[Cognitive-Load-Theory]] · [[Growth-Mindset-Theory]] · [[John-Flavell]] · [[Metacognition]] · [[William-James]] · [[Edward-Titchener]] · [[Metacognitive-Knowledge]] · [[Metacognitive-Regulation]] · [[Knowledge-of-Cognition]] · [[Regulation-of-Cognition]] · [[Ann-Brown]] · [[Thomas-Nelson]] · [[Louis-Narens]] · [[Nelson-Narens-Model]] · [[The-Nelson-Narens-Monitoring-Control-Model]] · [[Epistemic-Humility]] · [[Richard-Nisbett]] · [[Fluency-Illusion]] · [[Metacognition]] · [[Social-Metacognition—When-Other-Minds-Improve-Your-Monitoring]] · [[John-H.-Flavell]] · [[Ann-L.-Brown]]
+[[john-flavell|John-Flavell]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[critical-thinking|Critical-Thinking]] · [[personal-knowledge-management|Personal-Knowledge-Management]] · [[metacognitive-calibration|Metacognitive-Calibration]] · [[the-fluency-illusion|The-Fluency-Illusion]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[growth-mindset-theory|Growth-Mindset-Theory]] · [[john-flavell|John-Flavell]] · [[metacognition|Metacognition]] · [[william-james|William-James]] · [[edward-titchener|Edward-Titchener]] · [[metacognitive-knowledge|Metacognitive-Knowledge]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[knowledge-of-cognition|Knowledge-of-Cognition]] · [[regulation-of-cognition|Regulation-of-Cognition]] · [[ann-brown|Ann-Brown]] · [[thomas-nelson|Thomas-Nelson]] · [[louis-narens|Louis-Narens]] · [[nelson-narens-model|Nelson-Narens-Model]] · [[the-nelson-narens-monitoring-control-model|The-Nelson-Narens-Monitoring-Control-Model]] · [[epistemic-humility|Epistemic-Humility]] · [[richard-nisbett|Richard-Nisbett]] · [[fluency-illusion|Fluency-Illusion]] · [[metacognition|Metacognition]] · [[social-metacognition-when-other-minds-improve-your-monitoring|Social-Metacognition—When-Other-Minds-Improve-Your-Monitoring]] · [[john-h.-flavell|John-H.-Flavell]] · [[ann-l.-brown|Ann-L.-Brown]]
 
 ## References
 

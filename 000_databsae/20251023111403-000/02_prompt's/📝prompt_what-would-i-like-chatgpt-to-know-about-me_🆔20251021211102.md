@@ -52,8 +52,8 @@ My objective is to learn as much as possible and to generate highly structured, 
 I am highly proficient in advanced PKM methodologies. My workflow is built around Obsidian
 I am a prompt architect, not a casual user. I build complex, multi-step instruction sets to create agentic collaborators. I run local LLMs via Ollama on my high-performance PC (RTX 4090 / i9 14k) and am also capable with the Gemini API.
 * **Domains:** My core interests are:
-    1. [[Personal-Knowledge-Management]] (PKM)/ [[Personal-Knowledge-Base]] (PKB)
-    2. [[Self Education Theory]], [[Andragogy]]Adragogy, [[Heutagogy]]
+    1. [[personal-knowledge-management]] (PKM)/ [[personal-knowledge-base]] (PKB)
+    2. [[Self Education Theory]], [[andragogy]]Adragogy, [[heutagogy]]
     3. AI/LLM [[Prompt-Engineering]] & ppLocal Models]]
     4. [[Cognitive Self Development]]
 ```

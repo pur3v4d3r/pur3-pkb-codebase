@@ -107,7 +107,7 @@ They have outgoing links but nothing links back to them.
 
 | Note | Outgoing Links |
 |---|---|
-| [[Elenchus]] | 22 |
+| [[elenchus]] | 22 |
 
 ---
 
@@ -116,25 +116,25 @@ They have outgoing links but nothing links back to them.
 | Note | Incoming | Outgoing |
 |---|---|---|
 | [[Google-Effect-Digital-Amnesia-—-Cognitive-Psychology]] | 236 | 30 |
-| [[Cognitive-Load-Theory]] | 218 | 17 |
-| [[Constructivism]] | 142 | 31 |
-| [[Desirable-Difficulties]] | 134 | 20 |
-| [[Educational-Psychology]] | 122 | 20 |
+| [[cognitive-load-theory]] | 218 | 17 |
+| [[constructivism]] | 142 | 31 |
+| [[desirable-difficulties]] | 134 | 20 |
+| [[educational-psychology]] | 122 | 20 |
 | [[Educational-Philosophy]] | 93 | 20 |
-| [[Expertise-Reversal-Effect]] | 84 | 19 |
-| [[Aporia]] | 77 | 22 |
-| [[Accommodation]] | 70 | 27 |
-| [[Illusion-of-Knowing]] | 65 | 39 |
+| [[expertise-reversal-effect]] | 84 | 19 |
+| [[aporia]] | 77 | 22 |
+| [[accommodation]] | 70 | 27 |
+| [[illusion-of-knowing]] | 65 | 39 |
 | [[Cognitive-Alignment-Principle]] | 64 | 30 |
-| [[Self-Determination-Theory]] | 63 | 23 |
+| [[self-determination-theory]] | 63 | 23 |
 | [[Cognitive-Conflict-Disequilibrium]] | 61 | 36 |
 | [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] | 57 | 26 |
 | [[Confirmation-Bias-Myside-Bias]] | 56 | 23 |
-| [[Elaborative-Interrogation]] | 55 | 31 |
-| [[Calibration]] | 52 | 33 |
-| [[Judgment-of-Learning]] | 52 | 16 |
-| [[Zone-of-Proximal-Development]] | 52 | 31 |
-| [[Autonomy-Need]] | 50 | 20 |
+| [[elaborative-interrogation]] | 55 | 31 |
+| [[calibration]] | 52 | 33 |
+| [[judgment-of-learning]] | 52 | 16 |
+| [[zone-of-proximal-development]] | 52 | 31 |
+| [[autonomy-need]] | 50 | 20 |
 
 ---
 

@@ -138,7 +138,7 @@ This architectural separation mirrors cognitive science research on human expert
 
 [**Cognitive-Scaffolding-Theory**:: The principle that complex cognitive tasks require structured support systems (scaffolds) that organize thinking processes, reduce cognitive load, and enable systematic problem-solving—directly applicable to LLM reasoning where explicit thinking tags and frameworks provide the architectural scaffolding for coherent multi-step reasoning.]
 
-The theoretical foundation for extended thinking draws heavily from [[Cognitive-Load-Theory]] (Sweller, 1988) and its implications for information processing architecture. Human working memory, constrained to approximately 4±1 elements simultaneously (per [[Cowan's Capacity Estimates]]), requires strategic management of cognitive demands. When solving complex problems, experts employ various strategies to work within these constraints:
+The theoretical foundation for extended thinking draws heavily from [[cognitive-load-theory]] (Sweller, 1988) and its implications for information processing architecture. Human working memory, constrained to approximately 4±1 elements simultaneously (per [[Cowan's Capacity Estimates]]), requires strategic management of cognitive demands. When solving complex problems, experts employ various strategies to work within these constraints:
 
 **Chunking**: Grouping related information into unified cognitive units that occupy single working memory slots. A chess grandmaster processes board positions as strategic patterns rather than individual piece locations, dramatically expanding effective working memory capacity.
 

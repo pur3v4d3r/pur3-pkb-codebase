@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**: [[Autonomy]]
+> - **Key-Term**: [[autonomy]]
 > - [**Definition**: Refers to the psychological need to experience oneself as the origin of one's own behavior, to act in harmony with one's integrated sense of self rather than being controlled by external forces or internal pressures.]
 
 Thought on this:**Research questions** are because *adults* only really do *self learning* when there's an **immediate problem** that they can **solve**.

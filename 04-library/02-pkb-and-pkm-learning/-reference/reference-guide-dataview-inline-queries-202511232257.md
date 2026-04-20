@@ -53,7 +53,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 ## 🎯 Core Concept
 
 > [!definition]
-> **Dataview Inline Queries** are compact, single-line expressions that execute [[Dataview Query Language]] (DQL) computations and render results directly within text. They transform static notes into dynamic views of your [[Personal-Knowledge-Base]], displaying metadata, calculations, and aggregations that update automatically as your vault evolves.
+> **Dataview Inline Queries** are compact, single-line expressions that execute [[Dataview Query Language]] (DQL) computations and render results directly within text. They transform static notes into dynamic views of your [[personal-knowledge-base]], displaying metadata, calculations, and aggregations that update automatically as your vault evolves.
 
 > [!analogy]
 > Think of inline queries as **embedded spreadsheet cells** in your text. Just as Excel formulas calculate values based on other cells, inline queries compute values based on your vault's metadata. The difference? They read naturally within prose rather than living in a separate calculation layer.
@@ -92,7 +92,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 ```
 
 > [!what-this-does]
-> Accesses [[YAML-Frontmatter]] or [[Inline-Fields]] from the **current page**. The `this` keyword references the active note's metadata.
+> Accesses [[yaml-frontmatter]] or [[Inline-Fields]] from the **current page**. The `this` keyword references the active note's metadata.
 
 #### 2️⃣ **Link Field Access** (Other Pages)
 ```markdown
@@ -338,7 +338,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > ```
 
 > [!what-this-does]
-> This dashboard becomes a **living nerve center** for your [[Personal-Knowledge-Base]]. Every time you open it, the numbers reflect your vault's current state with zero manual updates.
+> This dashboard becomes a **living nerve center** for your [[personal-knowledge-base]]. Every time you open it, the numbers reflect your vault's current state with zero manual updates.
 
 ---
 
@@ -377,7 +377,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 ### 🔬 Research Organization
 
 > [!example]
-> **Pattern:** For [[Zettelkasten]] literature notes
+> **Pattern:** For [[zettelkasten]] literature notes
 > 
 > ```markdown
 > **Source Type:** `= this.type`  
@@ -481,7 +481,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > 
 > 2. **Strategic Scoping** — Narrow queries to specific folders or tags rather than querying entire vault when possible. This maintains performance at scale.
 > 
-> 3. **Metadata First** — Establish robust [[YAML-Frontmatter]] conventions before implementing complex queries. Consistent metadata architecture is foundational to reliable inline query results.
+> 3. **Metadata First** — Establish robust [[yaml-frontmatter]] conventions before implementing complex queries. Consistent metadata architecture is foundational to reliable inline query results.
 
 > [!helpful-tip]
 > **Implementation Strategy for New Users:**
@@ -498,7 +498,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 1. **[[Dataview Query Language (DQL)]]**
    - *Connection*: Inline queries are a subset of DQL; full query blocks offer expanded capabilities including table and list views
    - *Depth Potential*: Comprehensive DQL mastery enables building complex knowledge management automation and dynamic MOCs
-   - *Knowledge Graph Role*: Foundational skill for creating reactive [[Personal-Knowledge-Base]] architectures
+   - *Knowledge Graph Role*: Foundational skill for creating reactive [[personal-knowledge-base]] architectures
 
 2. **[[DataviewJS — JavaScript API]]**
    - *Connection*: When inline DQL hits limitations, DataviewJS provides full programmatic control over query rendering and computation
@@ -513,7 +513,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 4. **[[Templater Plugin Integration]]**
    - *Connection*: Combining Templater's template logic with Dataview inline queries creates dynamic, self-updating note templates
    - *Depth Potential*: Building advanced note generation systems that inject both static (Templater) and reactive (Dataview) content
-   - *Knowledge Graph Role*: Automation bridge between note creation and knowledge graph maintenance, critical for scalable [[Zettelkasten]] workflows
+   - *Knowledge Graph Role*: Automation bridge between note creation and knowledge graph maintenance, critical for scalable [[zettelkasten]] workflows
 
 ---
 ```
@@ -570,7 +570,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Dataview-Plugin]]
 - [[Dataview Query Language]] (DQL)
 - [[Obsidian Metadata]]
-- [[YAML-Frontmatter]]
+- [[yaml-frontmatter]]
 - [[Inline-Fields]]
 - [[Dataview Functions]]
 - [[JavaScript Dataview]] (DataviewJS)
@@ -579,7 +579,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Dashboard-Design]]
 - [[Task-Management]]
 - [[Daily-Notes]]
-- [[Zettelkasten]]
+- [[zettelkasten]]
 - [[Progressive-Summarization]]
 - [[Regular-Expressions]]
 

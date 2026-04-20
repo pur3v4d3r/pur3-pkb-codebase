@@ -33,8 +33,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -45,7 +45,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -69,42 +69,42 @@ narrower:
   []
 
 see-also:
-  - "[[Habit-Formation]]"
-  - "[[Automaticity]]"
-  - "[[Procedural-Memory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Attribution-Theory]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Memory-Systems]]"
+  - "[[habit-formation|Habit-Formation]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[procedural-memory|Procedural-Memory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[attribution-theory|Attribution-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[memory-systems|Memory-Systems]]"
   - "[[repetition]]"
-  - "[[Procedural-Memory]]"
-  - "[[Automaticity]]"
-  - "[[Procedural-Memory]]"
-  - "[[Non-Declarative-Memory]]"
-  - "[[System-1-and-System-2]]"
-  - "[[Automaticity]]"
-  - "[[Habit-Formation]]"
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Chunking]]"
-  - "[[Skill-Acquisition]]"
-  - "[[Schema-Automation]]"
+  - "[[procedural-memory|Procedural-Memory]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[procedural-memory|Procedural-Memory]]"
+  - "[[non-declarative-memory|Non-Declarative-Memory]]"
+  - "[[system-1-and-system-2|System-1-and-System-2]]"
+  - "[[automaticity|Automaticity]]"
+  - "[[habit-formation|Habit-Formation]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[chunking|Chunking]]"
+  - "[[Skill-Acquisition|Skill-Acquisition]]"
+  - "[[schema-automation|Schema-Automation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Cognitive-Load-Theory]]"
-  - "[[Memory-Systems]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
+  - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
+  - "[[memory-systems|Memory-Systems]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Implementation-Intentions-Description-Gollwitzer's-if-then-planning|> [!topic-idea] [[Implementation-Intentions]]
-> **Description:** Gollwitzer's if-then planning frame]]"
+  - topic: "[[topic-idea-implementation-intentionsimplementation-intentions-description-gollwi|> [!topic-idea] [[Implementation-Intentions|Implementation Intentions]]
+> **Description:** Gollwitze]]"
     description: ""
     priority: medium
 
@@ -121,7 +121,7 @@ importance: high
 > [!definition] **Craving** *(from [[habit-formation-foundational-report-2026-03-28]])*
 > The anticipatory motivational state triggered by a habit cue — the desire for the reward before any action has occurred. Craving is proposed to be the motivational bridge between cue and routine, and the primary source of the "pull" that makes established habits feel compelling rather than merely automatic.
 > 
-> **See also:** [[Intrinsic-Motivation]], [[Extrinsic-Motivation]], [[Cortico-Striatal-Learning-Loops]]
+> **See also:** [[intrinsic-motivation]], [[extrinsic-motivation]], [[cortico-striatal-learning-loops]]
 
 ## Core Explanation
 
@@ -177,7 +177,7 @@ importance: high
 > Reducing friction for desired habits and increasing friction for undesired habits is one of the highest-leverage behavioral design strategies available. Moving running shoes next to the bed reduces the barrier to morning exercise. Keeping a notebook at the reading desk reduces the barrier to annotation. Putting the phone in another room increases the barrier to distraction. These environmental interventions operate on the cue-context association without requiring willpower, and they remain…
 
 > [!warning] **Key Distinction** *(from [[habit-formation-foundational-report-2026-03-28]])*
-> Habits optimize for consistency within stable conditions, but learning and expertise development require ongoing challenge and adaptation. The expert learner faces the paradox that habitualized study routines — while cognitively efficient — can become ruts: producing the comfortable feeling of activity without the generative struggle that drives genuine learning. [[Productive-Failure]] research (Kapur) suggests that desirable difficulties — conditions that feel inefficient but drive deeper…
+> Habits optimize for consistency within stable conditions, but learning and expertise development require ongoing challenge and adaptation. The expert learner faces the paradox that habitualized study routines — while cognitively efficient — can become ruts: producing the comfortable feeling of activity without the generative struggle that drives genuine learning. [[productive-failure]] research (Kapur) suggests that desirable difficulties — conditions that feel inefficient but drive deeper…
 
 ## Key Figures & Intellectual Lineage
 
@@ -210,7 +210,7 @@ importance: high
 ## Conceptual Tensions
 
 > [!tension] **Habit vs. Intrinsic Motivation: Compatibility or Conflict?** *(from [[habit-formation-foundational-report-2026-03-28]])*
-> **The Tension:** [[Self-Determination-Theory]] proposes that intrinsically motivated behaviors are experienced as freely chosen and autonomous. Habits, by definition, execute without requiring deliberate choice. Does habitualization of a behavior undermine its experienced autonomy and, consequently, its intrinsic motivation?
+> **The Tension:** [[self-determination-theory]] proposes that intrinsically motivated behaviors are experienced as freely chosen and autonomous. Habits, by definition, execute without requiring deliberate choice. Does habitualization of a behavior undermine its experienced autonomy and, consequently, its intrinsic motivation?
 > 
 > **Position A — Habit Undermines Autonomy (SDT conservative reading):** Behaviors that run automatically, without conscious endorsement in the moment, risk sliding toward the "controlled" end of the regulatory spectrum. If I no longer choose to study — I just *do* it…
 
@@ -388,31 +388,31 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[habit-formation-foundational-report-2026-03-28]])*:
-- [[Habit-Formation]]
-- [[Cognitive-Load-Theory]]
-- [[Memory-Systems]]
-- [[Self-Determination-Theory]]
-- [[Volitional-Congruence]]
-- [[Metacognition-&-Lifelong-Learning]]
-- [[Self-Directed-Learning]]
-- [[Schema-Theory]]
-- [[Attribution-Theory]]
-- [[Growth-Mindset]]
+- [[habit-formation|Habit-Formation]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[memory-systems|Memory-Systems]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[volitional-congruence|Volitional-Congruence]]
+- [[metacognition-lifelong-learning|Metacognition-&-Lifelong-Learning]]
+- [[self-directed-learning|Self-Directed-Learning]]
+- [[schema-theory|Schema-Theory]]
+- [[attribution-theory|Attribution-Theory]]
+- [[growth-mindset|Growth-Mindset]]
 
 **Cross-report connections** *(from [[habit-formation-foundational-report-2026-03-28]])*:
-- [[Habit-Formation]]
-- [[Cognitive-Load-Theory]]
-- [[Memory-Systems]]
-- [[Self-Determination-Theory]]
-- [[Volitional-Congruence]]
-- [[Metacognition-&-Lifelong-Learning]]
-- [[Self-Directed-Learning]]
-- [[Attribution-Theory]]
-- [[Growth-Mindset]]
-- [[Schema-Theory]]
+- [[habit-formation|Habit-Formation]]
+- [[cognitive-load-theory|Cognitive-Load-Theory]]
+- [[memory-systems|Memory-Systems]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[volitional-congruence|Volitional-Congruence]]
+- [[metacognition-lifelong-learning|Metacognition-&-Lifelong-Learning]]
+- [[self-directed-learning|Self-Directed-Learning]]
+- [[attribution-theory|Attribution-Theory]]
+- [[growth-mindset|Growth-Mindset]]
+- [[schema-theory|Schema-Theory]]
 
 **Related concepts:**
-[[Habit-Formation]] · [[Automaticity]] · [[Procedural-Memory]] · [[Self-Regulated-Learning]] · [[Self-Regulated-Learning]] · [[Attribution-Theory]] · [[Cognitive-Load-Theory]] · [[Memory-Systems]] · [[repetition]] · [[Procedural-Memory]] · [[Automaticity]] · [[Procedural-Memory]] · [[Non-Declarative-Memory]] · [[System-1-and-System-2]] · [[Automaticity]] · [[Habit-Formation]] · [[Cognitive-Load-Theory]] · [[Chunking]] · [[Skill-Acquisition]] · [[Schema-Automation]] · [[habit]] · [[habit]] · [[Behavioral-Modification]] · [[Cortico-Striatal-Learning-Loops]] · [[Schema-Theory]] · [[Basal-Ganglia]] · [[Chunking]] · [[Procedural-Memory]] · [[Skill-Acquisition]] · [[Intrinsic-Motivation]]
+[[habit-formation|Habit-Formation]] · [[automaticity|Automaticity]] · [[procedural-memory|Procedural-Memory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[attribution-theory|Attribution-Theory]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[memory-systems|Memory-Systems]] · [[repetition]] · [[procedural-memory|Procedural-Memory]] · [[automaticity|Automaticity]] · [[procedural-memory|Procedural-Memory]] · [[non-declarative-memory|Non-Declarative-Memory]] · [[system-1-and-system-2|System-1-and-System-2]] · [[automaticity|Automaticity]] · [[habit-formation|Habit-Formation]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[chunking|Chunking]] · [[Skill-Acquisition|Skill-Acquisition]] · [[schema-automation|Schema-Automation]] · [[habit]] · [[habit]] · [[behavioral-modification|Behavioral-Modification]] · [[cortico-striatal-learning-loops|Cortico-Striatal-Learning-Loops]] · [[schema-theory|Schema-Theory]] · [[basal-ganglia|Basal-Ganglia]] · [[chunking|Chunking]] · [[procedural-memory|Procedural-Memory]] · [[Skill-Acquisition|Skill-Acquisition]] · [[intrinsic-motivation|Intrinsic-Motivation]]
 
 ## References
 

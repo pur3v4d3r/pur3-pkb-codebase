@@ -173,7 +173,7 @@ extraction_summary:
 #### 5. [DEFINITION] Melete (Stoic Philosophy — Musonius Rufus, Epictetus) *(Line 175)*
 
 > [!definition] Melete (Stoic Philosophy — Musonius Rufus, Epictetus)
-> Stoic term for the discipline of philosophical *attention* and *practice*: the ongoing, daily habituation of philosophical principles through deliberate exercise. The Stoics distinguished between theoretical knowledge of correct principles and the practical habituation (*askēsis*) required to make them operative under conditions of emotional pressure. Knowing that difficulty is a natural part of learning does not automatically produce equanimity when difficulty arrives — melete is the training practice that builds the gap between stimulus and response into a reliable habit. This concept is structurally parallel to modern research on [[Emotional-Regulation]] skill development, which similarly distinguishes knowing a regulation strategy from having it automatized as a response tendency.
+> Stoic term for the discipline of philosophical *attention* and *practice*: the ongoing, daily habituation of philosophical principles through deliberate exercise. The Stoics distinguished between theoretical knowledge of correct principles and the practical habituation (*askēsis*) required to make them operative under conditions of emotional pressure. Knowing that difficulty is a natural part of learning does not automatically produce equanimity when difficulty arrives — melete is the training practice that builds the gap between stimulus and response into a reliable habit. This concept is structurally parallel to modern research on [[emotional-regulation]] skill development, which similarly distinguishes knowing a regulation strategy from having it automatized as a response tendency.
 
 #### 6. [CROSS-DOMAIN-CONNECTION] Stoic Assent and Modern Cognitive Reappraisal *(Line 180)*
 
@@ -218,7 +218,7 @@ extraction_summary:
 #### 14. [DEFINITION] Mastery Orientation vs. Helpless Orientation (Dweck & Leggett, 1988) *(Line 216)*
 
 > [!definition] Mastery Orientation vs. Helpless Orientation (Dweck & Leggett, 1988)
-> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[Implicit-Theory-of-Intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]) are more likely to develop mastery orientations.
+> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[implicit-theory-of-intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]) are more likely to develop mastery orientations.
 
 #### 15. [DEFINITION] Cognitive Reappraisal (Gross, 1998; Process Model of Emotion Regulation) *(Line 219)*
 
@@ -257,7 +257,7 @@ extraction_summary:
 #### 21. [EVIDENCE] The Competence Need Paradox: Challenge vs. Incompetence (Baumeister & Tice, 1985; Deci, Koestner & Ryan, 1999) *(Line 268)*
 
 > [!evidence] The Competence Need Paradox: Challenge vs. Incompetence (Baumeister & Tice, 1985; Deci, Koestner & Ryan, 1999)
-> Research on need satisfaction and challenge calibration finds a non-linear relationship between difficulty and competence need satisfaction. Too easy (boredom quadrant in CVT: low challenge → low perceived competence need activation → deactivating positive or negative emotion). Too hard with uncontrollability (incompetence quadrant: high challenge + low perceived control → need frustration → anxiety/shame). The optimal zone — high challenge with perceived controllability — produces what [[Mihaly-Csikszentmihalyi]]'s [[Flow-Theory]] would recognize as the preconditions for flow: a state of optimal engagement where skill and challenge are matched and the organism is operating at its full capability. PKB design implications follow directly: notes and review systems should be calibrated to maintain the challenge–competence balance, not simply to maximize retrieval accuracy.
+> Research on need satisfaction and challenge calibration finds a non-linear relationship between difficulty and competence need satisfaction. Too easy (boredom quadrant in CVT: low challenge → low perceived competence need activation → deactivating positive or negative emotion). Too hard with uncontrollability (incompetence quadrant: high challenge + low perceived control → need frustration → anxiety/shame). The optimal zone — high challenge with perceived controllability — produces what [[Mihaly-Csikszentmihalyi]]'s [[flow-theory]] would recognize as the preconditions for flow: a state of optimal engagement where skill and challenge are matched and the organism is operating at its full capability. PKB design implications follow directly: notes and review systems should be calibrated to maintain the challenge–competence balance, not simply to maximize retrieval accuracy.
 
 #### 22. [TENSION-IDENTIFIED] SDT's Competence Need vs. Stoic Voluntary Hardship *(Line 271)*
 
@@ -552,27 +552,27 @@ extraction_summary:
 - [[Academic-Anxiety|Academic Anxiety]]
 - [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]]
 - [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
-- [[Autonomy-Need|Autonomy Need]]
+- [[autonomy-need|Autonomy Need]]
 - [[Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses|Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
 - [[Boredom-in-Learning|Boredom in Learning]]
 - [[Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame|Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
-- [[Competence-Need|Competence Need]]
+- [[competence-need|Competence Need]]
 - [[Control-Value-Theory-CVT|Control-Value Theory]]
-- [[Educational-Psychology|Educational Psychology]]
-- [[Emotional-Regulation]]
+- [[educational-psychology|Educational Psychology]]
+- [[emotional-regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
-- [[Flow-Theory]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Implicit-Theory-of-Intelligence]]
+- [[flow-theory]]
+- [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
+- [[implicit-theory-of-intelligence]]
 - [[Information Architecture Meets Cognitive Architecture]]
-- [[Learned-Helplessness|Learned Helplessness]]
+- [[learned-helplessness|Learned Helplessness]]
 - [[Mihaly-Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard-Pekrun]]
-- [[Relatedness-Need]]
-- [[Schema-Theory|Schema Theory]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[relatedness-need]]
+- [[schema-theory|Schema Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[Seligman]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[The Philosophy of Eudaimonia and Its Relationship to Knowledge Pursuit]]
@@ -581,36 +581,36 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Learned-Helplessness|Learned Helplessness]] | — | — | The Learning Paradox Nobody Talks About | 137 |
+| 1 | [[learned-helplessness|Learned Helplessness]] | — | — | The Learning Paradox Nobody Talks About | 137 |
 | 2 | [[Academic-Anxiety|Academic Anxiety]] | — | — | The Learning Paradox Nobody Talks About | 137 |
 | 3 | [[Boredom-in-Learning|Boredom in Learning]] | — | — | The Learning Paradox Nobody Talks About | 137 |
 | 4 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Learning Paradox Nobody Talks About | 139 |
-| 5 | [[Educational-Psychology|Educational Psychology]] | — | — | The Learning Paradox Nobody Talks About | 139 |
+| 5 | [[educational-psychology|Educational Psychology]] | — | — | The Learning Paradox Nobody Talks About | 139 |
 | 6 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Synthesis Focus Statement | 145 |
-| 7 | [[Self-Determination-Theory|Self-Determination Theory]] | SDT | — | Synthesis Focus Statement | 145 |
+| 7 | [[self-determination-theory|Self-Determination Theory]] | SDT | — | Synthesis Focus Statement | 145 |
 | 8 | [[Control-Value-Theory-CVT|Control-Value Theory]] | Pekrun's Control-Value Theory of Academic Emotions | — | Synthesis Focus Statement | 145 |
 | 9 | [[Seligman]] | — | — | Synthesis Focus Statement | 145 |
-| 10 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Synthesis Focus Statement | 145 |
+| 10 | [[learned-helplessness|Learned Helplessness]] | — | — | Synthesis Focus Statement | 145 |
 | 11 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Scope and Cross-Domain Preview | 151 |
-| 12 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
+| 12 | [[self-determination-theory|Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
 | 13 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
-| 14 | [[Emotional-Regulation]] | — | — | The Stoic Analysis of Destructive Emo... | 176 |
-| 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | SDT and the Emotional Consequences of... | 185 |
+| 14 | [[emotional-regulation]] | — | — | The Stoic Analysis of Destructive Emo... | 176 |
+| 15 | [[self-determination-theory|Self-Determination Theory]] | — | — | SDT and the Emotional Consequences of... | 185 |
 | 16 | [[Reinhard-Pekrun]] | — | — | Pekrun's Control-Value Theory of Acad... | 195 |
-| 17 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Learned Helplessness and Its Antidotes | 211 |
-| 18 | [[Implicit-Theory-of-Intelligence]] | — | — | Learned Helplessness and Its Antidotes | 217 |
-| 19 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Learned Helplessness and Its Antidotes | 217 |
+| 17 | [[learned-helplessness|Learned Helplessness]] | — | — | Learned Helplessness and Its Antidotes | 211 |
+| 18 | [[implicit-theory-of-intelligence]] | — | — | Learned Helplessness and Its Antidotes | 217 |
+| 19 | [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]] | — | — | Learned Helplessness and Its Antidotes | 217 |
 | 20 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | The Evidence for Control-Value Theory | 239 |
 | 21 | [[Epistemic-Emotions|Epistemic Emotions]] | — | — | The Evidence for Control-Value Theory | 246 |
 | 22 | [[Information Architecture Meets Cognitive Architecture]] | — | — | The Evidence for Control-Value Theory | 249 |
 | 23 | [[Mihaly-Csikszentmihalyi]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
-| 24 | [[Flow-Theory]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
+| 24 | [[flow-theory]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
 | 25 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | How Academic Emotions Are Actually Ge... | 291 |
-| 26 | [[Autonomy-Need|Autonomy Need]] | autonomy | — | SDT Need Support as Emotional Inocula... | 322 |
-| 27 | [[Competence-Need|Competence Need]] | competence | — | SDT Need Support as Emotional Inocula... | 322 |
-| 28 | [[Relatedness-Need]] | relatedness | — | SDT Need Support as Emotional Inocula... | 322 |
+| 26 | [[autonomy-need|Autonomy Need]] | autonomy | — | SDT Need Support as Emotional Inocula... | 322 |
+| 27 | [[competence-need|Competence Need]] | competence | — | SDT Need Support as Emotional Inocula... | 322 |
+| 28 | [[relatedness-need]] | relatedness | — | SDT Need Support as Emotional Inocula... | 322 |
 | 29 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | SDT Need Support as Emotional Inocula... | 331 |
-| 30 | [[Schema-Theory|Schema Theory]] | — | — | The Return-and-Deepen: Schema Theory ... | 407 |
+| 30 | [[schema-theory|Schema Theory]] | — | — | The Return-and-Deepen: Schema Theory ... | 407 |
 | 31 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | Report 04: Metacognitive Self-Regulation | — | Phase VII: PKB Connections & Cross-Re... | 438 |
 | 32 | [[05-motivation-architecture-pkm-framework-2026-03-13]] | Report 05: Motivation Architecture | — | Phase VII: PKB Connections & Cross-Re... | 440 |
 | 33 | [[03-constructing-understanding-pkm-framework-2026-03-13]] | Report 03: Constructing Understanding | — | Phase VII: PKB Connections & Cross-Re... | 442 |
@@ -644,27 +644,27 @@ extraction_summary:
 - [[Academic-Anxiety|Academic Anxiety]]
 - [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]]
 - [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
-- [[Autonomy-Need|Autonomy Need]]
+- [[autonomy-need|Autonomy Need]]
 - [[Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses|Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
 - [[Boredom-in-Learning|Boredom in Learning]]
 - [[Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame|Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
-- [[Competence-Need|Competence Need]]
+- [[competence-need|Competence Need]]
 - [[Control-Value-Theory-CVT|Control-Value Theory]]
-- [[Educational-Psychology|Educational Psychology]]
-- [[Emotional-Regulation]]
+- [[educational-psychology|Educational Psychology]]
+- [[emotional-regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
-- [[Flow-Theory]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Implicit-Theory-of-Intelligence]]
+- [[flow-theory]]
+- [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
+- [[implicit-theory-of-intelligence]]
 - [[Information Architecture Meets Cognitive Architecture]]
-- [[Learned-Helplessness|Learned Helplessness]]
+- [[learned-helplessness|Learned Helplessness]]
 - [[Mihaly-Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard-Pekrun]]
-- [[Relatedness-Need]]
-- [[Schema-Theory|Schema Theory]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[relatedness-need]]
+- [[schema-theory|Schema Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
 - [[Seligman]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[The Philosophy of Eudaimonia and Its Relationship to Knowledge Pursuit]]
@@ -673,9 +673,9 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Metacognition]]
-- [[Schema-Theory|Schema Theory]]
+- [[self-determination-theory|Self-Determination Theory]]
+- [[metacognition]]
+- [[schema-theory|Schema Theory]]
 
 #### Builds On
 
@@ -685,43 +685,43 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[Academic-Emotions|Academic Emotions]]
+- [[academic-emotions|Academic Emotions]]
 - [[Control-Value-Theory-CVT|Control-Value Theory]]
-- [[Learned-Helplessness|Learned Helplessness]]
+- [[learned-helplessness|Learned Helplessness]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Discipline-of-Assent|Discipline of Assent]]
 - [[Negative Visualization]]
-- [[Melete]]
+- [[melete]]
 - [[Stoic Journaling]]
-- [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Basic-Psychological-Needs|Basic Psychological Needs]]
-- [[Competence-Need|Competence Need]]
-- [[Autonomy-Need|Autonomy Need]]
-- [[Amotivation]]
-- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
+- [[self-determination-theory|Self-Determination Theory]]
+- [[basic-psychological-needs|Basic Psychological Needs]]
+- [[competence-need|Competence Need]]
+- [[autonomy-need|Autonomy Need]]
+- [[amotivation]]
+- [[cognitive-reappraisal|Cognitive Reappraisal]]
 - [[Gross Process Model]]
-- [[Emotional-Regulation]]
+- [[emotional-regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
 - [[Achievement Emotions]]
 - [[Boredom-in-Learning|Boredom in Learning]]
 - [[Academic-Anxiety|Academic Anxiety]]
-- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
+- [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
 - [[Mastery Orientation]]
 - [[Learned Industriousness]]
 - [[Frustration Tolerance]]
 - [[Resilience]]
 - [[Post-Traumatic Growth]]
 - [[Adversity-Activated Development]]
-- [[Eudaimonia]]
-- [[Virtue-Ethics]]
+- [[eudaimonia]]
+- [[virtue-ethics]]
 - [[Amor-Fati]]
 - [[Stoic Sage]]
 - [[Helplessness Attribution]]
-- [[Locus-of-Control]]
-- [[Self-Efficacy]]
-- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[locus-of-control]]
+- [[self-efficacy]]
+- [[personal-knowledge-base|Personal Knowledge Base]]
 - [[PKM Design Principles]]
 - [[Frustration Management Protocol]]
 - [[Growth-Oriented Review]]

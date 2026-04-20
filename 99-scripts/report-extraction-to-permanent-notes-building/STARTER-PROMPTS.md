@@ -36,7 +36,7 @@ Run the full PKB pipeline including extraction of new reports.
 1. Activate the Python venv: source ".venv/Scripts/activate"
 2. cd to "D:/10_pur3v4d3r's-vault"
 3. First, extract the new reports:
-   python 99-scripts/pkb_extractor.py --input "<REPORT_FOLDER_PATH>" --output "999-report-orginizing/_extractor-output/<BATCH_NAME>" --recursive
+   python 99-scripts/pkb_extractor.py --input "<REPORT_FOLDER_PATH>" --output "999-report-organizing/_extractor-output/<BATCH_NAME>" --recursive
 4. Then run the full pipeline:
    python 99-scripts/report-extraction-to-permanent-notes-building/pipeline_v2.py --execute --auto-commit --verbose
 5. Show me the summary of all changes.
@@ -99,7 +99,7 @@ Run a read-only audit of my PKB permanent notes.
 1. Activate venv: source ".venv/Scripts/activate"
 2. cd "D:/10_pur3v4d3r's-vault"
 3. Run:
-   python 99-scripts/report-extraction-to-permanent-notes-building/audit_notes.py --markdown --notes-dir="999-report-orginizing/_permanent-notes/_permanent-notes" --top=50
+   python 99-scripts/report-extraction-to-permanent-notes-building/audit_notes.py --markdown --notes-dir="999-report-organizing/_permanent-notes/_permanent-notes" --top=50
 4. Show me the resolution rate, orphan count, and top missing concepts.
 ```
 

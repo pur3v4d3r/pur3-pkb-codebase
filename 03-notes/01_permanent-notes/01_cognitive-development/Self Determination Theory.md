@@ -27,12 +27,12 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Self-Determination-Theory]]
-> - [**Definition**:(SDT), developed by [[Edward-Deci]] and [[Richard-Ryan]] beginning in the 1985, posits that three innate psychological needs—[[Autonomy]], [[Competence]], and [[Relatedness]]—are essential for optimal human functioning, and when these needs are satisfied, individuals demonstrate enhanced self-motivation, performance, and psychological well-being. SDT has become one of the most empirically validated frameworks in motivational psychology, with applications spanning education, workplace psychology, healthcare, and technology design. For understanding PKB engagement, SDT provides a powerful lens through which to examine why certain system characteristics promote sustained use while others lead to abandonment.]
-> - [Developed by:[[Edward-Deci]] and [[Richard-Ryan]] beginning in the 1985]
+> - **Key-Term**:[[self-determination-theory]]
+> - [**Definition**:(SDT), developed by [[edward-deci]] and [[richard-ryan]] beginning in the 1985, posits that three innate psychological needs—[[autonomy]], [[competence]], and [[relatedness]]—are essential for optimal human functioning, and when these needs are satisfied, individuals demonstrate enhanced self-motivation, performance, and psychological well-being. SDT has become one of the most empirically validated frameworks in motivational psychology, with applications spanning education, workplace psychology, healthcare, and technology design. For understanding PKB engagement, SDT provides a powerful lens through which to examine why certain system characteristics promote sustained use while others lead to abandonment.]
+> - [Developed by:[[edward-deci]] and [[richard-ryan]] beginning in the 1985]
 
 > [!definition]
-> - **Key-Term**:[[Self-Determination-Theory]]
+> - **Key-Term**:[[self-determination-theory]]
 > - [**Definition**:**(SDT)** is a macro-theory of human motivation and personality that distinguishes between autonomous (self-determined) and controlled motivations, proposing that psychological wellness and optimal functioning depend upon the satisfaction of three universal, innate psychological needs: autonomy, competence, and relatedness. Unlike theories focused solely on the *quantity* of motivation, SDT emphasizes that the *quality* of motivation—specifically, whether behavior is experienced as voluntary versus compelled—fundamentally determines both performance outcomes and psychological well-being.]
 
 **Self Determination Theory**
@@ -58,9 +58,9 @@ review-priority: medium
 > - **Relatedness** addresses the human need to feel connected to others, to experience oneself as part of a larger community and to have one's existence matter to significant others.
 
 > [!topic-idea]
-> - **Topic or Idea**:[[Self-Determination-Theory]]
+> - **Topic or Idea**:[[self-determination-theory]]
 > - **Key Figure(s)**:*Edward L. Deci*, *Richard M. Ryan*
-> - **Description**:A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[Intrinsic-Motivation]].
+> - **Description**:A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[intrinsic-motivation]].
 
 
 

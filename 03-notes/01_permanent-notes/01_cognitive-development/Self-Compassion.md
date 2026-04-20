@@ -26,7 +26,7 @@ link-related:
   - "[[Behaviorism]]"
   - "[[cognitive-psychology]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive-Science]]"
+  - "[[cognitive-science]]"
 maturity: seedling
 confidence: speculative
 status: active

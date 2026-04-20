@@ -299,7 +299,7 @@ Matches Position 3 tag but provides structured metadata:
 
 **Example:**
 ```yaml
-related: [[Cognitive-Load-Theory]], [[Working-Memory]], [[Schema-Theory]], [[Instructional-Design]]
+related: [[cognitive-load-theory]], [[working-memory]], [[schema-theory]], [[instructional-design]]
 ```
 
 </metadata_architecture>
@@ -363,8 +363,8 @@ related: [[Cognitive-Load-Theory]], [[Working-Memory]], [[Schema-Theory]], [[Ins
 **Use display text for clarity:**
 ```markdown
 [[Technical Jargon Term|Plain Language Description]]
-[[Self-Determination-Theory|SDT]]
-[[Cognitive-Load-Theory#Intrinsic Load|intrinsic cognitive load]]
+[[self-determination-theory|SDT]]
+[[cognitive-load-theory#Intrinsic Load|intrinsic cognitive load]]
 ```
 
 **When to use display text:**
@@ -984,10 +984,10 @@ type: synthesis
 
 ## Component Concepts
 
-### [[Concept A]]
+### [[Concept-A]]
 [Brief summary relevant to synthesis]
 
-### [[Concept B]]
+### [[Concept-B]]
 [Brief summary relevant to synthesis]
 
 ## Integration Analysis
@@ -1150,12 +1150,12 @@ SORT file.mtime DESC
 
 **Syntax:**
 ```markdown
-[[Target Note]]^relationship-type
+[[target-note]]^relationship-type
 
-[[Cognitive-Load-Theory]]^prerequisite-for-this
-[[Spaced-Repetition]]^complements
+[[cognitive-load-theory]]^prerequisite-for-this
+[[spaced-repetition]]^complements
 [[Massed Practice]]^contradicts
-[[Working-Memory]]^part-of
+[[working-memory]]^part-of
 ```
 
 **Relationship Types:**
@@ -1245,7 +1245,7 @@ WHERE contains(file.content, "%%extract-atomic:")
 [[Foundation Concept]]^hard-prerequisite
 [[Helpful Context]]^soft-prerequisite
 
-%%prereq-hard: [[Working-Memory]]%% Must understand before proceeding
+%%prereq-hard: [[working-memory]]%% Must understand before proceeding
 %%prereq-soft: [[information-processing]]%% Helpful but not required
 ```
 
@@ -1536,7 +1536,7 @@ Resolution: Different operationalizations of construct - both correct in context
 
 %%QA:learning:spacing-effects%%
 
-[[Cognitive-Load-Theory]]^prerequisite
+[[cognitive-load-theory]]^prerequisite
 [[Ebbinghaus Forgetting Curve]]^foundation-for-this
 [[Massed Practice]]^contradicts
 
@@ -1719,13 +1719,13 @@ SORT resolution-status ASC
 
 **Explicit prerequisite listing:**
 - List specific notes that must be understood first
-- Use wiki-links: `Prerequisites: [[Concept A]], [[Concept B]]`
+- Use wiki-links: `Prerequisites: [[Concept-A]], [[Concept-B]]`
 - Explain WHY prerequisites matter
 - Distinguish hard vs soft prerequisites
 
 **Example:**
 ```markdown
-**Prerequisites:** [[Working-Memory]], [[Schema-Theory]]  
+**Prerequisites:** [[working-memory]], [[schema-theory]]  
 *Rationale:* Understanding cognitive architecture (working memory) and knowledge organization (schemas) essential for appreciating instructional design implications.
 ```
 

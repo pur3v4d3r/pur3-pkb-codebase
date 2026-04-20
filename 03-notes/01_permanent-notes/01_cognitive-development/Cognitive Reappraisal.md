@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Cognitive-Reappraisal]]
+> - **Key-Term**:[[cognitive-reappraisal]]
 > - [**Definition**:the process of reinterpreting the meaning of emotional stimuli to alter their emotional impact.]
 
 

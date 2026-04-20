@@ -35,19 +35,6 @@ aliases:
   - [Table of Contents](#table-of-contents)
 - [Topic Ideas](#topic-ideas)
 - [Pur3v4d3r's House Style Report Generation Starter Prompt for Copilot V2.0.0](#pur3v4d3rs-house-style-report-generation-starter-prompt-for-copilot-v200)
-  - [WRITING STYLE: CONTEMPLATIVE MECHANISM v1.0.0](#writing-style-contemplative-mechanism-v100)
-    - [Voice \& Register](#voice--register)
-    - [Sentence Architecture](#sentence-architecture)
-    - [Primary Explanatory Engine: Mechanism-Tracing](#primary-explanatory-engine-mechanism-tracing)
-    - [Secondary Tool: Contrastive Clarification](#secondary-tool-contrastive-clarification)
-    - [Metaphor Policy](#metaphor-policy)
-    - [Anti-Patterns (NEVER DO THESE)](#anti-patterns-never-do-these)
-    - [Depth Enforcement](#depth-enforcement)
-    - [Exemplar 1: Schema Theory (Cognitive Psychology)](#exemplar-1-schema-theory-cognitive-psychology)
-    - [Exemplar 2: Working Memory (Cognitive Architecture)](#exemplar-2-working-memory-cognitive-architecture)
-    - [Exemplar 3: Dual Process Theory (Reasoning \& Decision-Making)](#exemplar-3-dual-process-theory-reasoning--decision-making)
-    - [Exemplar 4: Metacognition (Self-Regulated Learning)](#exemplar-4-metacognition-self-regulated-learning)
-  - [Diagnostic Checklist](#diagnostic-checklist)
 
 <!-- TOC END -->
 
@@ -250,7 +237,7 @@ Emoji for Completion: ✅
 
 # Pur3v4d3r's House Style Report Generation Starter Prompt for Copilot V2.0.0
 
-
+`````markdown
 Generate a report on: [TOPIC]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-orginizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
@@ -481,3 +468,4 @@ Use this checklist during validation (Phase 9) to verify style compliance:
 - [ ] No paragraph operating below enrichment depth
 ---
 </style-directive-checklist>
+`````

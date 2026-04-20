@@ -192,7 +192,7 @@ Having examined terrestrial and giant planets across multiple dimensions, we now
 > **2. [[Phase Transitions]] and [[Critical Points]]**
 > Throughout most of a gas giant's volume, matter exists above its critical point, where there's no distinction between liquid and gaseous phases. This concept—that matter can exist in states entirely unlike those we experience on Earth—is crucial for understanding giant planet interiors. The metallic hydrogen phase in Jupiter and Saturn represents matter under conditions unreproducible in any laboratory.
 >
-> **3. [[Accretion]] and [[Runaway Growth]]**
+> **3. [[accretion]] and [[Runaway Growth]]**
 > Planet formation proceeds through distinct phases where growth accelerates dramatically once certain mass thresholds are crossed. Below $10^{-6}$ Earth masses, growth is slow and dominated by collisional sticking. Between $10^{-6}$ and $10^{-2}$ Earth masses, gravitational focusing begins to accelerate growth. Above $\sim 10$ Earth masses (for planets beyond the frost line), runaway gas accretion causes exponential mass increase until the local gas supply is exhausted.
 >
 > **4. [[Planetary Migration]] and [[Orbital Dynamics]]**

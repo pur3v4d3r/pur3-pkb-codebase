@@ -51,15 +51,15 @@ link-related:
 This section defines the topic in its "native" or most common domain to establish a clear baseline.
 
 > [!the-purpose]
-> To provide a comprehensive, foundational definition of **[[Andragogy]]** and **[[Higher-Order Cognition]]** within their primary field of study, **Adult Education**, before "bridging" to other disciplines.
+> To provide a comprehensive, foundational definition of **[[andragogy]]** and **[[Higher-Order Cognition]]** within their primary field of study, **Adult Education**, before "bridging" to other disciplines.
 
 ### 1.1. Baseline Definition
 
 > [!definition]
 > **Andragogy and Higher-Order Cognition (in Adult Education)**
-> Andragogy, a term popularized by [[Malcolm-Knowles]], is distinguishable from pedagogy by its insistence that adult learners are self-directed, experience-rich, and problem-centered rather than content-oriented. Higher-Order Cognitive Skills (HOCS) refer to the upper tiers of [[Bloom’s Taxonomy]]—specifically analysis, evaluation, and synthesis (creation)—which require the learner to manipulate information rather than merely recall it. In the context of this inquiry, the central topic is the *dependency* between these two: the hypothesis that the specific conditions of andragogy are the prerequisite substrate for developing HOCS.
+> Andragogy, a term popularized by [[malcolm-knowles]], is distinguishable from pedagogy by its insistence that adult learners are self-directed, experience-rich, and problem-centered rather than content-oriented. Higher-Order Cognitive Skills (HOCS) refer to the upper tiers of [[Bloom’s Taxonomy]]—specifically analysis, evaluation, and synthesis (creation)—which require the learner to manipulate information rather than merely recall it. In the context of this inquiry, the central topic is the *dependency* between these two: the hypothesis that the specific conditions of andragogy are the prerequisite substrate for developing HOCS.
 
-The intersection of these two concepts suggests that the adult brain is not simply a vessel for more information, but a processor requiring specific environmental triggers to engage in deep thought. Unlike pedagogical models where the learner is a dependent recipient of knowledge, the andragogical model posits that the learner's accumulated reservoir of experience is the primary resource for learning. Consequently, [[Critical-Thinking]] in adults is not an abstract skill but a recursive process of re-evaluating that reservoir of experience against new data.
+The intersection of these two concepts suggests that the adult brain is not simply a vessel for more information, but a processor requiring specific environmental triggers to engage in deep thought. Unlike pedagogical models where the learner is a dependent recipient of knowledge, the andragogical model posits that the learner's accumulated reservoir of experience is the primary resource for learning. Consequently, [[critical-thinking]] in adults is not an abstract skill but a recursive process of re-evaluating that reservoir of experience against new data.
 
 ### 1.2. Foundational Principles
 
@@ -70,7 +70,7 @@ The intersection of these two concepts suggests that the adult brain is not simp
 >
 > **Principle 2: Orientation to Learning.** Adults possess a problem-centered orientation rather than a subject-centered one. They are motivated to learn to the extent that they perceive that learning will help them perform tasks or deal with problems that they confront in their life situations. This implies that [[Divergent-Thinking]]—the ability to generate multiple creative solutions—is triggered most effectively by authentic, contextual challenges rather than abstract theoretical postulates.
 
-The fundamental assumption here is that cognitive maturation moves from dependency toward self-direction. However, this transition is not automatic; it requires a learning environment that respects the autonomy of the learner. If an adult is treated pedagogically—as a passive recipient—their capacity for [[Metacognition]] (thinking about thinking) is stifled, as the responsibility for evaluation is externalized to the instructor. Thus, andragogy is the structural framework that permits the internal locus of control necessary for high-level cognitive processing.
+The fundamental assumption here is that cognitive maturation moves from dependency toward self-direction. However, this transition is not automatic; it requires a learning environment that respects the autonomy of the learner. If an adult is treated pedagogically—as a passive recipient—their capacity for [[metacognition]] (thinking about thinking) is stifled, as the responsibility for evaluation is externalized to the instructor. Thus, andragogy is the structural framework that permits the internal locus of control necessary for high-level cognitive processing.
 
 -----
 
@@ -79,7 +79,7 @@ The fundamental assumption here is that cognitive maturation moves from dependen
 This section performs the first "conceptual jump," analyzing the central topic from an entirely new perspective.
 
 > [\!the-purpose]
-> To analyze **Andragogy** using the tools, metaphors, and frameworks of **Neuroscience**, specifically focusing on [[Neuroplasticity]] and synaptic pruning.
+> To analyze **Andragogy** using the tools, metaphors, and frameworks of **Neuroscience**, specifically focusing on [[neuroplasticity]] and synaptic pruning.
 
 ### 2.1. A New Lens: Neuroscience's Perspective
 
@@ -87,7 +87,7 @@ This section performs the first "conceptual jump," analyzing the central topic f
 > **How does Neuroscience conceptualize the adult learner?**
 > Neuroscience views learning not as a social transaction but as a biological alteration of neural substrate. The field challenges the Andragogical assumption of "flexibility" by introducing the concept of [[Crystallized Intelligence]].
 
-From a neurobiological perspective, the adult brain is characterized by robust, well-myelinated neural pathways that represent established habits, beliefs, and knowledge. This biological reality presents a paradox for [[Critical-Thinking]]. While the "Experience" principle of andragogy views past history as an asset, neuroscience reveals it can also be a liability in the form of cognitive rigidity. The adult brain is optimized for efficiency, utilizing heuristic shortcuts based on past experiences to conserve metabolic energy.
+From a neurobiological perspective, the adult brain is characterized by robust, well-myelinated neural pathways that represent established habits, beliefs, and knowledge. This biological reality presents a paradox for [[critical-thinking]]. While the "Experience" principle of andragogy views past history as an asset, neuroscience reveals it can also be a liability in the form of cognitive rigidity. The adult brain is optimized for efficiency, utilizing heuristic shortcuts based on past experiences to conserve metabolic energy.
 
 Therefore, higher-order cognition in adults—specifically the act of changing one's mind or creating novel connections—is metabolically expensive and biologically difficult. It requires the inhibition of established strong pathways (unlearning) to allow for the strengthening of weaker, novel pathways. This connects directly to [[Hebbian Learning]], often summarized as "neurons that fire together, wire together." In the adult context, the "wiring" is already dense and established.
 

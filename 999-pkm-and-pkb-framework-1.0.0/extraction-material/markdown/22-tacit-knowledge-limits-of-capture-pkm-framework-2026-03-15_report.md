@@ -557,11 +557,11 @@ extraction_summary:
 ### Unique Targets
 
 - [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
-- [[Cognitive-Science|Cognitive Science]]
+- [[cognitive-science|Cognitive Science]]
 - [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]
 - [[Deliberate-Practice-Log|Deliberate Practice Log]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Embodied-Cognition|Embodied Cognition]]
+- [[embodied-cognition|Embodied Cognition]]
 - [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Externalization-Exercises|Externalization Exercises]]
@@ -571,7 +571,7 @@ extraction_summary:
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
 - [[Portfolio-of-Evidence|Portfolio of Evidence]]
-- [[Procedural-Memory|Procedural Memory]]
+- [[procedural-memory|Procedural Memory]]
 - [[Reflection-in-action]]
 - [[Reflection-on-Action]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
@@ -592,10 +592,10 @@ extraction_summary:
 | 1 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 2 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 3 | [[phenomenology]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
-| 4 | [[Cognitive-Science|Cognitive Science]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
+| 4 | [[cognitive-science|Cognitive Science]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 5 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
-| 6 | [[Embodied-Cognition|Embodied Cognition]] | — | — | Embodied and Situated Cognition | 192 |
-| 7 | [[Procedural-Memory|Procedural Memory]] | — | — | The Embodied Evidence | 243 |
+| 6 | [[embodied-cognition|Embodied Cognition]] | — | — | Embodied and Situated Cognition | 192 |
+| 7 | [[procedural-memory|Procedural Memory]] | — | — | The Embodied Evidence | 243 |
 | 8 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Return-and-Deepen: Report 08's Experi... | 311 |
 | 9 | [[Schön's Reflective Practitioner]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
 | 10 | [[Reflection-in-action]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
@@ -638,11 +638,11 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
-- [[Cognitive-Science|Cognitive Science]]
+- [[cognitive-science|Cognitive Science]]
 - [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]
 - [[Deliberate-Practice-Log|Deliberate Practice Log]]
 - [[Educational-Philosophy|Educational Philosophy]]
-- [[Embodied-Cognition|Embodied Cognition]]
+- [[embodied-cognition|Embodied Cognition]]
 - [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Externalization-Exercises|Externalization Exercises]]
@@ -652,7 +652,7 @@ extraction_summary:
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
 - [[Portfolio-of-Evidence|Portfolio of Evidence]]
-- [[Procedural-Memory|Procedural Memory]]
+- [[procedural-memory|Procedural Memory]]
 - [[Reflection-in-action]]
 - [[Reflection-on-Action]]
 - [[Report 08: Reflective Practice and Experiential Learning]]

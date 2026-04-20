@@ -20,14 +20,14 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Pre-Mortem-Analysis]]"
-  - "[[Metacognition]]"
-  - "[[Cognitive-Biases]]"
+  - "[[pre-mortem-analysis]]"
+  - "[[metacognition]]"
+  - "[[cognitive-biases]]"
   - "[[Cognitive Distortions]]"
-  - "[[Confirmation-Bias]]"
+  - "[[confirmation-bias]]"
   - "[[Epistemic Accountability]]"
   - "[[Metacognitive Bias]]"
-  - "[[Metacognitive-Monitoring]]"
+  - "[[metacognitive-monitoring]]"
 maturity: seedling
 confidence: speculative
 
@@ -68,7 +68,7 @@ review-priority: medium
 
 *Combating [[Hindsight-Bias]]*: The primary mechanism is creating a **contemporaneous record** that cannot be revised after outcomes are known.[^21] Hindsight bias causes people to believe they "knew it all along" when predictions come true, or to remember themselves as "less confident" than they actually were when predictions fail. By writing down specific probability estimates and reasoning in advance, decision journals create an objective standard against which post-hoc memory can be evaluated. Research by Baruch Fischhoff demonstrates that without such records, people substantially overestimate their predictive accuracy.[^22]
 
-*Training [[Metacognitive-Calibration]]*: Regular comparison of confidence estimates to actual outcomes creates a feedback loop that improves probability judgment.[^14] Philip Tetlock's research on superforecasters shows that providing frequent, unambiguous outcome feedback is essential for developing well-calibrated intuition. Decision journals systematize this feedback for personal decisions where formal accuracy tracking doesn't occur naturally.
+*Training [[metacognitive-calibration]]*: Regular comparison of confidence estimates to actual outcomes creates a feedback loop that improves probability judgment.[^14] Philip Tetlock's research on superforecasters shows that providing frequent, unambiguous outcome feedback is essential for developing well-calibrated intuition. Decision journals systematize this feedback for personal decisions where formal accuracy tracking doesn't occur naturally.
 
 *Identifying Domain-Specific Competence*: Not all judgment is equally poor or good. A common finding is that people show well-calibrated intuition in domains of genuine expertise (where they've received extensive feedback) but overconfidence in domains where they have abstract knowledge without ground truth testing. Decision journals make these competence boundaries visible.[^23]
 

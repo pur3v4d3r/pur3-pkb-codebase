@@ -379,7 +379,7 @@ extraction_summary:
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Equanimity - Apatheia Upekkha and Modern Psychology]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Hellenistic and Indian Philosophy - Ancient Encounters]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Logos]]
@@ -388,7 +388,7 @@ extraction_summary:
 - [[Memento Mori]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
-- [[Pierre-Hadot]]
+- [[pierre-hadot]]
 - [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
@@ -400,7 +400,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 - [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 
 ### All Occurrences
 
@@ -429,11 +429,11 @@ extraction_summary:
 | 21 | [[Logos]] | — | — | Divergence 1: The Nature of the Self | 401 |
 | 22 | [[Logos]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 425 |
 | 23 | [[Marcus-Aurelius]] | — | — | Divergence 3: Teleology — Cosmic Rati... | 425 |
-| 24 | [[Virtue-Ethics]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
-| 25 | [[Eudaimonia]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
-| 26 | [[Pierre-Hadot]] | — | — | Part 6: The Integration Opportunity —... | 459 |
+| 24 | [[virtue-ethics]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
+| 25 | [[eudaimonia]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
+| 26 | [[pierre-hadot]] | — | — | Part 6: The Integration Opportunity —... | 459 |
 | 27 | [[Dichotomy-of-Control]] | — | — | Part 6: The Integration Opportunity —... | 466 |
-| 28 | [[Eudaimonia]] | — | — | Part 6: The Integration Opportunity —... | 466 |
+| 28 | [[eudaimonia]] | — | — | Part 6: The Integration Opportunity —... | 466 |
 | 29 | [[Alexander the Great]] | — | — | Part 7: Historical Connections — Did ... | 490 |
 | 30 | [[Pyrrho of Elis]] | — | — | Part 7: Historical Connections — Did ... | 492 |
 | 31 | [[Hellenistic and Indian Philosophy - Ancient Encounters]] | — | — | Expansion Topics for PKB | 609 |
@@ -485,7 +485,7 @@ extraction_summary:
 - [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Equanimity - Apatheia Upekkha and Modern Psychology]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Hellenistic and Indian Philosophy - Ancient Encounters]]
 - [[Introduction to Stoicism - Origins and Key Figures]]
 - [[Logos]]
@@ -494,7 +494,7 @@ extraction_summary:
 - [[Memento Mori]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
-- [[Pierre-Hadot]]
+- [[pierre-hadot]]
 - [[Preferred-Indifferents]]
 - [[Prohairesis]]
 - [[Prosoche]]
@@ -506,7 +506,7 @@ extraction_summary:
 - [[Stoicism and CBT - Similarities Differences and Integration]]
 - [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 - [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 
 ### Frontmatter Relationships
 
@@ -529,12 +529,12 @@ extraction_summary:
 - [[Prosoche]]
 - [[Dichotomy-of-Control]]
 - [[Prohairesis]]
-- [[Eudaimonia]]
+- [[eudaimonia]]
 - [[Apatheia]]
 - [[Jon Kabat-Zinn]]
 - [[Mindfulness-Based Stress Reduction]]
 - [[Impermanence]]
-- [[Pierre-Hadot]]
+- [[pierre-hadot]]
 - [[Present Moment Awareness]]
 
 #### Broader
@@ -542,7 +542,7 @@ extraction_summary:
 - [[Philosophy MOC]]
 - [[Contemplative Traditions]]
 - [[Comparative Philosophy]]
-- [[Virtue-Ethics]]
+- [[virtue-ethics]]
 
 #### Narrower
 
@@ -558,7 +558,7 @@ extraction_summary:
 
 - [[Acceptance-and-Commitment-Therapy]]
 - [[Mindfulness-Based Cognitive Therapy]]
-- [[Cognitive-Behavioral-Therapy]]
+- [[cognitive-behavioral-therapy]]
 - [[Epictetan Three Disciplines]]
 - [[Buddhist Psychology]]
 - [[Hellenistic Philosophy and Indian Philosophy]]

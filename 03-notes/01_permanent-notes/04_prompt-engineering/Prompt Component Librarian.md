@@ -29,7 +29,7 @@ review-priority: medium
 
 > [!definition]
 > - **Key-Term**:: [[Prompt Component Librarian]]
-> - [**Definition**:: A systematic role where an AI assistant (specifically [[03-notes/01_permanent-notes/04_prompt-engineering/Claude]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal-Knowledge-Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.]
+> - [**Definition**:: A systematic role where an AI assistant (specifically [[03-notes/01_permanent-notes/04_prompt-engineering/Claude]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[personal-knowledge-base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.]
 
 > [!key-claim]
 > **Central Principle**

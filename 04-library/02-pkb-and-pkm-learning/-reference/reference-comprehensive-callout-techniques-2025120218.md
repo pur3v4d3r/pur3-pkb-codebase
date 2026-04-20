@@ -222,7 +222,7 @@ INFORMATION ARCHITECTURE:
 └── 7. Syntax Reference Quick Guide
     └── Complete syntax examples
 **WIKI-LINK OPPORTUNITIES:**
-- [[Obsidian]]
+- [[obsidian]]
 - [[Markdown]]
 - [[Callout Syntax]]
 - [[Dataview-Plugin]]
@@ -282,7 +282,7 @@ I'll create a comprehensive reference note on Obsidian callout techniques. Let m
 
 > [!abstract]
 > **Executive Overview**
-> This comprehensive reference documents every possible technique for modifying, customizing, and extending [[Callout Syntax]] in [[Obsidian]] using [[Markdown]], [[CSS]], and plugin integrations. From basic syntax to advanced multi-level nesting, custom styling, and [[Plugin Integration]], this guide covers all documented and discoverable callout manipulation methods.
+> This comprehensive reference documents every possible technique for modifying, customizing, and extending [[Callout Syntax]] in [[obsidian]] using [[Markdown]], [[CSS]], and plugin integrations. From basic syntax to advanced multi-level nesting, custom styling, and [[Plugin Integration]], this guide covers all documented and discoverable callout manipulation methods.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -304,7 +304,7 @@ I'll create a comprehensive reference note on Obsidian callout techniques. Let m
 ## 1. ⚙️ Foundational Callout Syntax & Core Types
 
 > [!definition]
-> - **Callout**:: A specially styled [[Blockquote]] element in [[Obsidian]] featuring customizable icons, colors, and collapsible behavior
+> - **Callout**:: A specially styled [[Blockquote]] element in [[obsidian]] featuring customizable icons, colors, and collapsible behavior
 > - **Type Identifier**:: The lowercase string following `[!` that determines callout appearance and semantic meaning
 > - **Callout Metadata**:: Optional parameters following the type identifier using pipe (`|`) syntax for customization
 

@@ -47,7 +47,7 @@ review-priority: medium
 # Cognitive-Behavioral Therapy
 
 > [!definition]
-> - **Key-Term**:[[Cognitive-Behavioral-Therapy]]
+> - **Key-Term**:[[cognitive-behavioral-therapy]]
 > - [**Definition**:A type of psychotherapy that focuses on changing negative thought patterns and behaviors to improve mental health]
 
 ## Foundational Understanding
@@ -92,7 +92,7 @@ review-priority: medium
 # Cognitive Behavioral Therapy
 
 > [!definition]
-> - **Key-Term**:[[Cognitive-Behavioral-Therapy]]
+> - **Key-Term**:[[cognitive-behavioral-therapy]]
 > -[ **Definition**:Cognitive Behavioral Therapy (CBT) is a widely-used psychotherapeutic approach focused on helping individuals identify and change unhelpful thinking and behavioral patterns. It operates on the principle that our thoughts, feelings, and behaviors are interconnected, and by modifying one, we can positively impact the others.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

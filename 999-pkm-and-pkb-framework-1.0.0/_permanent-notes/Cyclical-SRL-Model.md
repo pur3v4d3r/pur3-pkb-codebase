@@ -5,6 +5,7 @@
 title: "Cyclical SRL Model"
 aliases:
   - "Cyclical SRL Model"
+  - "Cyclical-SRL-Model"
   - "CSM"
 type: permanent-note
 status: evergreen
@@ -29,8 +30,8 @@ subdomains:
 # ═══════════════════════════════════════════════════════════════════════════
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
-created: 2026-04-18
-updated: 2026-04-18
+created: 2026-04-20
+updated: 2026-04-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,7 +42,7 @@ source-reports:
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 pipeline-version: "2.1.0"
-extraction-date: "2026-04-18"
+extraction-date: "2026-04-20"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONTENT CHARACTERISTICS
@@ -65,39 +66,39 @@ narrower:
   []
 
 see-also:
-  - "[[Goal-Setting-Theory]]"
-  - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
-  - "[[Implementation-Intention]]"
-  - "[[Self-Determination-Theory]]"
-  - "[[Achievement-Goal-Theory]]"
-  - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Metacognition]]"
-  - "[[Self-Efficacy]]"
-  - "[[Growth-Mindset]]"
-  - "[[Zimmerman-SRL-Model]]"
-  - "[[Goal-Setting-Theory]]"
-  - "[[Self-Regulated-Learning]]"
-  - "[[Goal-Setting-Theory]]"
-  - "[[Peter-Gollwitzer]]"
-  - "[[Metacognitive-Regulation]]"
-  - "[[Deliberate-Practice]]"
-  - "[[Self-Directed-Learning]]"
-  - "[[Executive-Function]]"
-  - "[[Implementation-Intention]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
+  - "[[implementation-intention|Implementation-Intention]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[achievement-goal-theory|Achievement-Goal-Theory]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[metacognition|Metacognition]]"
+  - "[[self-efficacy|Self-Efficacy]]"
+  - "[[growth-mindset|Growth-Mindset]]"
+  - "[[zimmerman-srl-model|Zimmerman-SRL-Model]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[self-regulated-learning|Self-Regulated-Learning]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[peter-gollwitzer|Peter-Gollwitzer]]"
+  - "[[metacognitive-regulation|Metacognitive-Regulation]]"
+  - "[[deliberate-practice|Deliberate-Practice]]"
+  - "[[self-directed-learning|Self-Directed-Learning]]"
+  - "[[executive-function|Executive-Function]]"
+  - "[[implementation-intention|Implementation-Intention]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Goal-Setting-Theory]]"
-  - "[[Self-Efficacy]]"
+  - "[[goal-setting-theory|Goal-Setting-Theory]]"
+  - "[[self-efficacy|Self-Efficacy]]"
 
 enables:
   []
 
 expansion-topics:
-  - topic: "[[!topic-idea-Grit-and-Perseverance-—-Angela-Duckworth's-grit-construct-intersects|> [!topic-idea] [[Grit-and-Perseverance]] — Angela Duckworth's grit construct intersects with voliti]]"
+  - topic: "[[> [!topic-idea] [[Grit-and-Perseverance]] — Angela Duckworth's grit construct intersects with voliti]]"
     description: ""
     priority: medium
 
@@ -113,7 +114,7 @@ importance: high
 
 > [!definition] **Cyclical SRL Model** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > **Cyclical SRL Model** (Zimmerman): A three-phase recursive model of self-regulated learning — Forethought, Performance, and Self-Reflection — in which each cycle's outputs (especially attributional inferences) feed forward to shape the regulatory quality of subsequent cycles. The recursiveness explains why SRL capacity is compounding: each high-quality cycle improves subsequent cycles.
-> See also: [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]], [[Forethought-Phase]], [[Performance-Phase]], [[Self-Reflection-Phase]]
+> See also: [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]], [[forethought-phase]], [[performance-phase]], [[self-reflection-phase]]
 
 ## Core Explanation
 
@@ -166,7 +167,7 @@ importance: high
 ## Key Figures & Intellectual Lineage
 
 > [!person] **Edwin Locke (b. 1938) & Gary Latham (b. 1944)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> **Primary Contribution**: Developed and validated [[Goal-Setting-Theory]] across 400+ studies from the late 1960s to present. Established that specific, challenging goals consistently produce higher performance than vague or easy goals, mediated by direction, effort, persistence, and strategy activation.
+> **Primary Contribution**: Developed and validated [[goal-setting-theory]] across 400+ studies from the late 1960s to present. Established that specific, challenging goals consistently produce higher performance than vague or easy goals, mediated by direction, effort, persistence, and strategy activation.
 > **Key Works**: *A Theory of Goal Setting and Task Performance* (1990); "Building a Practically Useful Theory of Goal Setting and Task Motivation" (2002, *American Psychologist*)
 > **Intellectual Legacy**: Framework is the most replicated finding in industrial-organizational psychology; its…
 
@@ -181,16 +182,16 @@ importance: high
 > **Legacy**: Most widely used SRL research measurement instrument…
 
 > [!person] **Peter Gollwitzer (b. 1950)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> **Primary Contribution**: Developed the Rubicon Model of action phases and the [[Implementation-Intention]] construct; provided the empirical foundation for volitional control in the intention-action gap literature.
+> **Primary Contribution**: Developed the Rubicon Model of action phases and the [[implementation-intention]] construct; provided the empirical foundation for volitional control in the intention-action gap literature.
 > **Key Works**: "Implementation Intentions" (1999, *American Psychologist*); *Volition and Personality* (with Heckhausen, 1991).
 > **Intellectual lineage**: Built on Heckhausen's action control research; Gollwitzer's implementation intention framework has generated 200+ empirical studies across health, education, and performance domains.
 
 > [!person] **Albert Bandura (b. 1925)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> **Primary Contribution**: Developed [[Self-Efficacy-Theory]] and social-cognitive learning theory; provided the motivational foundation that Zimmerman applied to the SRL framework.
+> **Primary Contribution**: Developed [[self-efficacy-theory]] and social-cognitive learning theory; provided the motivational foundation that Zimmerman applied to the SRL framework.
 > **Key Works**: *Social Foundations of Thought and Action* (1986); *Self-Efficacy: The Exercise of Control* (1997).
 
 > [!person] **Carol Dweck (b. 1946)** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> **Primary Contribution**: Developed the [[Growth-Mindset|incremental/entity theory of intelligence]] framework; linked implicit theories of intelligence to achievement goal orientations and their regulatory consequences.
+> **Primary Contribution**: Developed the [[growth-mindset|incremental/entity theory of intelligence]] framework; linked implicit theories of intelligence to achievement goal orientations and their regulatory consequences.
 > **Key Works**: *Mindset* (2006); "Motivational Processes Affecting Learning" (1986, *American Psychologist*).
 
 ## Conceptual Tensions
@@ -214,7 +215,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > 1. Goal difficulty and goal commitment are both necessary for performance optimization — but they can conflict when a challenging goal undermines commitment. What design strategies for self-set goals (goal partitioning, proximal sub-goals, commitment devices) resolve this tension?
-> 2. The feedback-standard comparison loop is structurally identical in goal theory and [[Metacognitive-Regulation]]. What does this structural parallelism imply for the relationship between goal-setting and…
+> 2. The feedback-standard comparison loop is structurally identical in goal theory and [[metacognitive-regulation]]. What does this structural parallelism imply for the relationship between goal-setting and…
 
 > [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > 1. How does the quality of Self-Reflection phase processing interact with the Forethought phase of the next cycle? What specific Self-Reflection practices produce the highest-fidelity forward transfer to subsequent Forethought?
@@ -226,7 +227,7 @@ importance: high
 
 > [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > 1. The illusion of knowing corrupts the SRL cycle at the monitoring stage. What classroom or self-study design features most effectively expose and correct this illusion before it propagates into downstream regulatory failures?
-> 2. [[Retrieval-Practice]] functions partly as a metacognitive calibration device. What is its mechanism of calibration improvement, and are there conditions under which retrieval practice could produce overconfidence rather than accurate calibration?
+> 2. [[retrieval-practice]] functions partly as a metacognitive calibration device. What is its mechanism of calibration improvement, and are there conditions under which retrieval practice could produce overconfidence rather than accurate calibration?
 > 3. Pintrich's…
 
 > [!reflection] **Reflect** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
@@ -240,7 +241,7 @@ importance: high
 ## Schema Activations
 
 > [!schema-activation] **Activating Prior Knowledge: What You Already Know** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> Before engaging with this report, consider what existing knowledge you bring to the intersection of goals and learning. You have almost certainly studied some version of [[Metacognition]] — the capacity to monitor and regulate your own cognition. You may have encountered [[Self-Efficacy]] through Bandura's social cognitive theory, or explored how [[Growth-Mindset]] shapes responses to challenge. You may have used the [[Zimmerman-SRL-Model]] in educational contexts, or applied [[Goal-Setting-Theory]] in performance management.
+> Before engaging with this report, consider what existing knowledge you bring to the intersection of goals and learning. You have almost certainly studied some version of [[metacognition]] — the capacity to monitor and regulate your own cognition. You may have encountered [[self-efficacy]] through Bandura's social cognitive theory, or explored how [[growth-mindset]] shapes responses to challenge. You may have used the [[zimmerman-srl-model]] in educational contexts, or applied [[goal-setting-theory]] in performance management.
 > 
 > The questions this report addresses sit at the intersection of all…
 
@@ -249,7 +250,7 @@ importance: high
 > [!far-transfer] **Transfer to Professional Performance** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > **Structural Principle**: Professional expertise development follows the same four-system architecture as academic SRL — it requires procedurally excellent goal architecture (specific, challenging performance targets), volitional protection (structuring practice environments against competing demands), metacognitive monitoring (accurate self-assessment against expert standards), and mastery motivational orientation (pursuing genuine competence rather than status or credential).
 > 
-> **Application**: [[Deliberate-Practice]] (Ericsson's account) is essentially expert SRL applied to skill…
+> **Application**: [[deliberate-practice]] (Ericsson's account) is essentially expert SRL applied to skill…
 
 > [!far-transfer] **Transfer to Creative and Research Projects** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > **Structural Principle**: Long-horizon creative and research projects require the same intention architecture as learning tasks, but are distinctively vulnerable to the goal-specification problem: creative goals resist precise specification because the desired output is often not fully knowable in advance. This requires a modified goal architecture that specifies process goals (hours of focused work, pages written, experiments conducted) when outcome goals cannot be specified, combined with mastery-approach motivational framing to sustain engagement through the uncertainty and productive…
@@ -273,10 +274,10 @@ importance: high
 > Compare two learners who both "want to master calculus."
 > **Learner A** (vague): "I'll study calculus whenever I have time until I feel like I understand it."
 > **Learner B** (specific): "I will work through ten integration problems each day from Spivak's *Calculus*, checking each answer, identifying error types, and recording which problem types require more review. I will complete Chapter 5 by Friday."
-> Learner B's goal activates [[Metacognitive-Monitoring]], generates direct feedback, creates an explicit success criterion, and enables adaptive adjustment. Learner A's aspiration, while genuine,…
+> Learner B's goal activates [[metacognitive-monitoring]], generates direct feedback, creates an explicit success criterion, and enables adaptive adjustment. Learner A's aspiration, while genuine,…
 
 > [!example] **Forethought in Practice** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> A doctoral student preparing for a comprehensive examination engages in Forethought phase activity: listing the core topics that will be examined, breaking the preparation timeline into weekly sub-goals with specific reading lists, selecting study strategies calibrated to the exam format (practice questions, not passive re-reading), establishing criteria for "ready to move on" (accuracy ≥85% on practice questions by domain), and activating [[Self-Efficacy]] beliefs by reviewing past academic successes. Each of these activities is a Forethought process with documented SRL significance.
+> A doctoral student preparing for a comprehensive examination engages in Forethought phase activity: listing the core topics that will be examined, breaking the preparation timeline into weekly sub-goals with specific reading lists, selecting study strategies calibrated to the exam format (practice questions, not passive re-reading), establishing criteria for "ready to move on" (accuracy ≥85% on practice questions by domain), and activating [[self-efficacy]] beliefs by reviewing past academic successes. Each of these activities is a Forethought process with documented SRL significance.
 
 > [!example] **Goal Orientation in Practice** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > **Same task, different orientations:**
@@ -304,7 +305,7 @@ importance: high
 > Metacognition is typically described as the "regulatory layer above cognition" — it monitors and controls cognitive processing. But this description raises a structural question that neither Flavell's nor Zimmerman's accounts fully address: what governs metacognition? If metacognitive monitoring can be inaccurate (as in the illusion of knowing), that inaccuracy itself is not detectable by the monitoring system that is doing the monitoring. There is a second-order calibration problem: the learner would need to monitor their own monitoring, which either regresses infinitely or bottoms out at…
 
 > [!claude-insight] **The Goal Source Paradox** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> There is a productive paradox at the intersection of Goal-Setting Theory and [[Self-Determination-Theory]]: assigned, specific, challenging goals — the procedurally optimal format for performance enhancement per Locke and Latham — are also the format most likely to produce controlled rather than autonomous motivation, because they are externally specified rather than self-generated. Yet goals generated purely through autonomous self-determination may lack the specificity and challenge that procedural goal theory identifies as performance-relevant. The practical resolution is sequential: an…
+> There is a productive paradox at the intersection of Goal-Setting Theory and [[self-determination-theory]]: assigned, specific, challenging goals — the procedurally optimal format for performance enhancement per Locke and Latham — are also the format most likely to produce controlled rather than autonomous motivation, because they are externally specified rather than self-generated. Yet goals generated purely through autonomous self-determination may lack the specificity and challenge that procedural goal theory identifies as performance-relevant. The practical resolution is sequential: an…
 
 > [!claude-insight] **The Four-System Integration Architecture** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > What is perhaps most striking about the confluent research on goal-setting and SRL is that each theoretical tradition independently converged on the same diagnostic principle: **the limiting factor in any learning system is the weakest of its regulatory components.** A learner with exceptional metacognitive accuracy but motivationally impoverished goals (purely externally controlled, performance-avoidance oriented) will show systematically defensive rather than exploratory regulation — the monitoring system will accurately detect failures, but the attributional and motivational systems will…
@@ -312,22 +313,22 @@ importance: high
 ## Section Summaries
 
 > [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> The intention-action gap is a real, empirically documented, and architecturally explicable phenomenon. It arises from failures at multiple points: the predecisional failure to cross the Rubicon into commitment; the absence of implementation plans that bind intentions to specific cues; competition from other intentions that crowd out effortful goal pursuit; motivational decay between intention formation and action opportunity; and insufficient [[Self-Efficacy]] to overcome initiation thresholds. Understanding this gap is the prerequisite for understanding why specific features of how goals are…
+> The intention-action gap is a real, empirically documented, and architecturally explicable phenomenon. It arises from failures at multiple points: the predecisional failure to cross the Rubicon into commitment; the absence of implementation plans that bind intentions to specific cues; competition from other intentions that crowd out effortful goal pursuit; motivational decay between intention formation and action opportunity; and insufficient [[self-efficacy]] to overcome initiation thresholds. Understanding this gap is the prerequisite for understanding why specific features of how goals are…
 
 > [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> Goal-Setting Theory establishes that goal *properties* — not simply the existence of goals — determine whether goals improve performance. Specifically, challenging and specific goals, when pursued with high commitment, produce higher performance than vague or easy goals, mediated by directing attention, mobilizing effort, sustaining persistence, and activating strategy. Feedback is a necessary co-condition, functioning through a discrepancy-monitoring loop that drives regulatory adjustment. These mechanisms map directly onto the cognitive architecture of [[Self-Regulated-Learning]]: to…
+> Goal-Setting Theory establishes that goal *properties* — not simply the existence of goals — determine whether goals improve performance. Specifically, challenging and specific goals, when pursued with high commitment, produce higher performance than vague or easy goals, mediated by directing attention, mobilizing effort, sustaining persistence, and activating strategy. Feedback is a necessary co-condition, functioning through a discrepancy-monitoring loop that drives regulatory adjustment. These mechanisms map directly onto the cognitive architecture of [[self-regulated-learning]]: to…
 
 > [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > Zimmerman's Cyclical SRL Model provides the structural framework within which Goal-Setting Theory mechanisms operate. In the Forethought phase, goal-setting and strategic planning establish the directional, effort-mobilizing, persistence-sustaining intent. In the Performance phase, self-control and self-observation operationalize those intents through real-time regulation. In the Self-Reflection phase, evaluation and attribution determine whether the cycle generates adaptive growth or maladaptive entrenchment. The recursive nature of the model explains why early SRL investments pay compound…
 
 > [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> Volitional control occupies the critical space between goal formation and goal attainment, protecting goal pursuit against the psychological forces — competing motivations, affective interference, decision fatigue, environmental distraction — that convert sincere intentions into failed follow-throughs. The key mechanisms are: Kuhl's action-vs-state orientation (managing attentional focus under difficulty), [[Implementation-Intention|implementation intentions]] (pre-specifying situational triggers to automatize goal-directed behavior), emotion regulation strategies (reappraisal to maintain…
+> Volitional control occupies the critical space between goal formation and goal attainment, protecting goal pursuit against the psychological forces — competing motivations, affective interference, decision fatigue, environmental distraction — that convert sincere intentions into failed follow-throughs. The key mechanisms are: Kuhl's action-vs-state orientation (managing attentional focus under difficulty), [[implementation-intention|implementation intentions]] (pre-specifying situational triggers to automatize goal-directed behavior), emotion regulation strategies (reappraisal to maintain…
 
 > [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > Metacognition constitutes the epistemic infrastructure of SRL: without accurate monitoring of one's own cognitive processes, the feedback loops that drive regulatory adaptation cannot close. The critical variable is not metacognitive sophistication in the abstract but monitoring *accuracy* — calibration between self-assessment and actual performance. The Dunning-Kruger problem reveals that novice learners face a metacognitive deficit that makes externally-sourced calibration (testing, expert feedback) a necessary complement to endogenous self-monitoring. Above monitoring, metacognitive…
 
 > [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> Goal quality — the motivational architecture of what is being pursued and why — fundamentally moderates the effectiveness of goal-setting procedures. Achievement goal orientation (mastery vs. performance vs. avoidance) determines the quality of regulatory engagement with task demands and responses to difficulty. [[Self-Determination-Theory]] identifies autonomous vs. controlled regulation as an independent moderator of engagement quality and wellbeing. Self-efficacy determines approach vs. avoidance behavior at the point of challenge. Optimal SRL requires goals that are simultaneously…
+> Goal quality — the motivational architecture of what is being pursued and why — fundamentally moderates the effectiveness of goal-setting procedures. Achievement goal orientation (mastery vs. performance vs. avoidance) determines the quality of regulatory engagement with task demands and responses to difficulty. [[self-determination-theory]] identifies autonomous vs. controlled regulation as an independent moderator of engagement quality and wellbeing. Self-efficacy determines approach vs. avoidance behavior at the point of challenge. Optimal SRL requires goals that are simultaneously…
 
 > [!section-summary] **Section Summary** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > The integrated model of goal-setting and SRL identifies four interacting systems — goal architecture, SRL cycle quality, volitional protection, and motivational orientation — each necessary and none sufficient alone. Goal properties operate directly within each SRL phase: specificity determines monitoring precision in the Performance phase, challenge calibration drives the effort mechanism, and commitment determines Rubicon crossing in Forethought. Self-concordance addresses the long-horizon motivational problem: goals that are genuinely aligned with values sustain the motivational investment…
@@ -405,38 +406,38 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
-- [[Goal-Setting-Theory]]
-- [[Self-Regulated-Learning]]
-- [[Metacognition]]
-- [[Self-Determination-Theory]]
-- [[Achievement-Goal-Theory]]
-- [[Attribution-Theory]]
+- [[goal-setting-theory|Goal-Setting-Theory]]
+- [[self-regulated-learning|Self-Regulated-Learning]]
+- [[metacognition|Metacognition]]
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+- [[attribution-theory|Attribution-Theory]]
 
 **Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
-- [[Learning-System-Design]]
-- [[Deliberate-Practice]]
-- [[Habit-Formation]]
-- [[Feedback-Design]]
-- [[Metacognitive-Strategies-in-Education]]
+- [[learning-system-design|Learning-System-Design]]
+- [[deliberate-practice|Deliberate-Practice]]
+- [[habit-formation|Habit-Formation]]
+- [[feedback-design|Feedback-Design]]
+- [[metacognitive-strategies-in-education|Metacognitive-Strategies-in-Education]]
 
 **Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
-- [[Executive-Function]]
-- [[Growth-Mindset]]
-- [[Implementation-Intention]]
-- [[Intrinsic-Motivation]]
-- [[Transfer-of-Learning]]
-- [[Spaced-Repetition]]
-- [[Self-Concordance-Model]]
-- [[Psychological-Safety]]
+- [[executive-function|Executive-Function]]
+- [[growth-mindset|Growth-Mindset]]
+- [[implementation-intention|Implementation-Intention]]
+- [[intrinsic-motivation|Intrinsic-Motivation]]
+- [[transfer-of-learning|Transfer-of-Learning]]
+- [[spaced-repetition|Spaced-Repetition]]
+- [[self-concordance-model|Self-Concordance-Model]]
+- [[psychological-safety|Psychological-Safety]]
 
 **Cross-report connections** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*:
 - [[pintrichs-framework-srl-focused-analysis-2026-03-23]]
 - [[zimmerman-cyclical-srl-focused-analysis-2026-03-23]]
 - [[sdt-srl-comparative-synthesis-2026-03-19]]
-- [[Self-Efficacy]]
+- [[self-efficacy|Self-Efficacy]]
 
 **Related concepts:**
-[[Goal-Setting-Theory]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Implementation-Intention]] · [[Self-Determination-Theory]] · [[Achievement-Goal-Theory]] · [[Metacognition]] · [[Self-Regulated-Learning]] · [[Metacognition]] · [[Self-Efficacy]] · [[Growth-Mindset]] · [[Zimmerman-SRL-Model]] · [[Goal-Setting-Theory]] · [[Self-Regulated-Learning]] · [[Goal-Setting-Theory]] · [[Peter-Gollwitzer]] · [[Metacognitive-Regulation]] · [[Deliberate-Practice]] · [[Self-Directed-Learning]] · [[Executive-Function]] · [[Implementation-Intention]] · [[Self-Efficacy]] · [[Self-Efficacy]] · [[Priority-Management]] · [[Self-Efficacy]] · [[Goal-Setting-Theory]] · [[Self-Monitoring]] · [[Metacognitive-Monitoring]] · [[Self-Regulated-Learning]] · [[Metacognitive-Monitoring]] · [[Basic-Psychological-Needs-Theory]]
+[[goal-setting-theory|Goal-Setting-Theory]] · [[zimmermans-cyclical-model-of-self-regulated-learning|Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[implementation-intention|Implementation-Intention]] · [[self-determination-theory|Self-Determination-Theory]] · [[achievement-goal-theory|Achievement-Goal-Theory]] · [[metacognition|Metacognition]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognition|Metacognition]] · [[self-efficacy|Self-Efficacy]] · [[growth-mindset|Growth-Mindset]] · [[zimmerman-srl-model|Zimmerman-SRL-Model]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[peter-gollwitzer|Peter-Gollwitzer]] · [[metacognitive-regulation|Metacognitive-Regulation]] · [[deliberate-practice|Deliberate-Practice]] · [[self-directed-learning|Self-Directed-Learning]] · [[executive-function|Executive-Function]] · [[implementation-intention|Implementation-Intention]] · [[self-efficacy|Self-Efficacy]] · [[self-efficacy|Self-Efficacy]] · [[Priority-Management|Priority-Management]] · [[self-efficacy|Self-Efficacy]] · [[goal-setting-theory|Goal-Setting-Theory]] · [[self-monitoring|Self-Monitoring]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[self-regulated-learning|Self-Regulated-Learning]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[basic-psychological-needs-theory|Basic-Psychological-Needs-Theory]]
 
 ## References
 
@@ -468,7 +469,7 @@ importance: high
 > Locke and Latham's core findings derive primarily from laboratory studies with assigned goals and performance on specific tasks (e.g., logging industry productivity, clerical work). The theory's generalization to self-set goals, complex learning tasks, and longer time horizons involves genuine extrapolation. Research by Zimmerman, Pintrich, and colleagues on SRL broadly supports the generalization but identifies important complications: the motivational implications of goal origin (autonomous vs. controlled) significantly moderate outcomes in educational contexts in ways the original…
 
 > [!methodology-and-sources] **Transfer Research Grounding** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
-> The far transfer analysis draws on established frameworks from the [[Transfer-of-Learning]] literature (Halpern & Hakel, 2003; Barnett & Ceci, 2002; Perkins & Salomon, 1992) and extends the regulatory principles of this report into adjacent performance domains. The structural principle for each domain is identified: the abstract feature that the domain shares with the SRL system, which enables the goal-setting and SRL concepts to be applied despite surface dissimilarities. Boundary conditions are specified to prevent inappropriate over-extension.
+> The far transfer analysis draws on established frameworks from the [[transfer-of-learning]] literature (Halpern & Hakel, 2003; Barnett & Ceci, 2002; Perkins & Salomon, 1992) and extends the regulatory principles of this report into adjacent performance domains. The structural principle for each domain is identified: the abstract feature that the domain shares with the SRL system, which enables the goal-setting and SRL concepts to be applied despite surface dissimilarities. Boundary conditions are specified to prevent inappropriate over-extension.
 
 > [!methodology-and-sources] **Research Methodology and Epistemic Transparency** *(from [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03]])*
 > **Claim Taxonomy:**
