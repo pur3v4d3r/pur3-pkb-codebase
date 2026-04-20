@@ -18,6 +18,16 @@
   - [Cognitive Science \& Psychology](#cognitive-science--psychology)
   - [Neuroscience](#neuroscience)
   - [Technology \& Learning](#technology--learning)
+  - [Critical Thinking \& Reasoning](#critical-thinking--reasoning)
+  - [Reading \& Literacy](#reading--literacy)
+  - [Writing \& Communication](#writing--communication)
+  - [Language Learning](#language-learning)
+  - [Mathematics \& STEM Learning](#mathematics--stem-learning)
+  - [Skill Acquisition \& Expertise](#skill-acquisition--expertise)
+  - [Habits \& Behavior Change](#habits--behavior-change)
+  - [Emotion, Mental Health, \& Learning](#emotion-mental-health--learning)
+  - [Neurodiversity \& Learning](#neurodiversity--learning)
+  - [Lifespan Development](#lifespan-development)
 - [2. Annotated Critical Analysis Generator](#2-annotated-critical-analysis-generator)
   - [Memory \& Cognition — High-Controversy Topics](#memory--cognition--high-controversy-topics)
   - [Motivation — Contested Claims](#motivation--contested-claims)
@@ -26,6 +36,15 @@
   - [Cognitive Science \& Neuroscience — High Epistemic Stakes](#cognitive-science--neuroscience--high-epistemic-stakes)
   - [Research Methodology — Meta-Level Analysis](#research-methodology--meta-level-analysis)
   - [Technology \& AI — Critical Perspectives](#technology--ai--critical-perspectives)
+  - [Skill Acquisition \& Expertise — Contested Claims](#skill-acquisition--expertise--contested-claims)
+  - [Habits \& Behavior Change — Critical Review](#habits--behavior-change--critical-review)
+  - [Reading, Literacy \& Language — Contested Evidence](#reading-literacy--language--contested-evidence)
+  - [Mathematics Education — Contested Claims](#mathematics-education--contested-claims)
+  - [Mental Health \& Learning — Critical Examination](#mental-health--learning--critical-examination)
+  - [AI in Education — Sharper Critical Targets](#ai-in-education--sharper-critical-targets)
+  - [PKM \& Productivity — Sharper Critical Targets](#pkm--productivity--sharper-critical-targets)
+  - [Neuroscience Claims in Popular Education — Critical Reviews](#neuroscience-claims-in-popular-education--critical-reviews)
+  - [Educational Policy — Contested Evidence](#educational-policy--contested-evidence)
 - [3. Practitioner's Field Guide Generator](#3-practitioners-field-guide-generator)
   - [Study \& Learning Skills — Practical Applications](#study--learning-skills--practical-applications)
   - [PKM — Practical Implementation](#pkm--practical-implementation)
@@ -34,6 +53,16 @@
   - [Coaching \& Facilitation](#coaching--facilitation)
   - [Research \& Writing](#research--writing)
   - [Technology \& Tools](#technology--tools)
+  - [Habits \& Behavior Change — Practical Implementation](#habits--behavior-change--practical-implementation)
+  - [Reading \& Comprehension — Practical Application](#reading--comprehension--practical-application)
+  - [Writing — Practical Workflows](#writing--practical-workflows)
+  - [Language Learning — Practical Application](#language-learning--practical-application)
+  - [Programming \& Technical Learning](#programming--technical-learning)
+  - [Mental Health \& Learning Practical Strategies](#mental-health--learning-practical-strategies)
+  - [Decision Making \& Forecasting — Practical Workflows](#decision-making--forecasting--practical-workflows)
+  - [Knowledge Work \& Research Practical Workflows](#knowledge-work--research-practical-workflows)
+  - [AI-Augmented Practical Workflows](#ai-augmented-practical-workflows)
+  - [Career \& Skill Development](#career--skill-development)
 - [4. Dialectical Report Generator](#4-dialectical-report-generator)
   - [Memory \& Learning — Genuine Tensions](#memory--learning--genuine-tensions)
   - [Motivation — Contested Frameworks](#motivation--contested-frameworks)
@@ -43,6 +72,16 @@
   - [Education — Systemic Debates](#education--systemic-debates)
   - [AI \& Technology in Learning — New Tensions](#ai--technology-in-learning--new-tensions)
   - [Philosophy of Education — Foundational Disputes](#philosophy-of-education--foundational-disputes)
+  - [Skill Acquisition \& Expertise — Genuine Tensions](#skill-acquisition--expertise--genuine-tensions)
+  - [Reading \& Literacy — Genuine Tensions](#reading--literacy--genuine-tensions)
+  - [Habits \& Behavior Change — Tensions](#habits--behavior-change--tensions)
+  - [Mental Health \& Learning — Tensions](#mental-health--learning--tensions)
+  - [Decision Making — Genuine Tensions](#decision-making--genuine-tensions)
+  - [Career \& Lifelong Learning — Tensions](#career--lifelong-learning--tensions)
+  - [Reading, Writing, \& Note-Taking — Deeper Tensions](#reading-writing--note-taking--deeper-tensions)
+  - [AI Augmentation — New Dialectical Tensions](#ai-augmentation--new-dialectical-tensions)
+  - [Programming \& Technical Learning — Tensions](#programming--technical-learning--tensions)
+  - [Cognitive Augmentation — New Tensions](#cognitive-augmentation--new-tensions)
 - [5. Comparative Architecture Generator](#5-comparative-architecture-generator)
   - [PKM Tools \& Platforms — Head-to-Head Comparisons](#pkm-tools--platforms--head-to-head-comparisons)
   - [Learning Methods — Comparative Evaluation](#learning-methods--comparative-evaluation)
@@ -52,6 +91,17 @@
   - [Theoretical Frameworks — Comparative Architecture](#theoretical-frameworks--comparative-architecture)
   - [AI \& Technology Tools — Comparative Evaluation](#ai--technology-tools--comparative-evaluation)
   - [Organizational Knowledge Management — System Comparisons](#organizational-knowledge-management--system-comparisons)
+  - [Productivity \& Task Management Systems — Comparative Architecture](#productivity--task-management-systems--comparative-architecture)
+  - [Note-Taking Methods — Comparative Architecture](#note-taking-methods--comparative-architecture)
+  - [AI \& LLM Tools — Expanded Comparative Evaluation](#ai--llm-tools--expanded-comparative-evaluation)
+  - [Reading \& Reference Management — Comparison](#reading--reference-management--comparison)
+  - [Writing Tools — Comparative Evaluation](#writing-tools--comparative-evaluation)
+  - [Spaced Repetition Systems — Expanded Comparison](#spaced-repetition-systems--expanded-comparison)
+  - [Programming Education Platforms — Comparison](#programming-education-platforms--comparison)
+  - [Knowledge Capture \& Voice — Comparison](#knowledge-capture--voice--comparison)
+  - [Habit \& Behavior Tracking — Comparative Architecture](#habit--behavior-tracking--comparative-architecture)
+  - [Frameworks for Decision Making — Comparison](#frameworks-for-decision-making--comparison)
+  - [Educational Philosophies — Architectural Comparison](#educational-philosophies--architectural-comparison)
 - [6. Historical-Genealogical Generator](#6-historical-genealogical-generator)
   - [Memory Research — Historical Development](#memory-research--historical-development)
   - [Learning Theories — Intellectual History](#learning-theories--intellectual-history)
@@ -62,6 +112,16 @@
   - [Educational Technology — Historical Development](#educational-technology--historical-development)
   - [Neuroscience of Learning — Historical Development](#neuroscience-of-learning--historical-development)
   - [Philosophy \& Epistemology of Education — Genealogy](#philosophy--epistemology-of-education--genealogy)
+  - [Reading, Writing, and Literacy — Historical Development](#reading-writing-and-literacy--historical-development)
+  - [Mathematics Education — Historical Genealogy](#mathematics-education--historical-genealogy)
+  - [Productivity Systems — Intellectual History](#productivity-systems--intellectual-history)
+  - [AI \& Computing in Knowledge Work — Historical Development](#ai--computing-in-knowledge-work--historical-development)
+  - [Cognitive \& Behavioral Science — Genealogy](#cognitive--behavioral-science--genealogy)
+  - [Skill Acquisition Research — Historical Development](#skill-acquisition-research--historical-development)
+  - [Education Reform Movements — Historical Genealogy](#education-reform-movements--historical-genealogy)
+  - [Note-Taking \& Knowledge Tools — Historical Evolution](#note-taking--knowledge-tools--historical-evolution)
+  - [Language Learning — Intellectual History](#language-learning--intellectual-history)
+  - [Workplace \& Adult Learning — Historical Development](#workplace--adult-learning--historical-development)
 - [7. Socratic Exploration Generator](#7-socratic-exploration-generator)
   - [Memory \& Cognition — Questions to Explore](#memory--cognition--questions-to-explore)
   - [Motivation — Deep Questions](#motivation--deep-questions)
@@ -70,6 +130,13 @@
   - [Cognitive Science — Deep Questions](#cognitive-science--deep-questions)
   - [Education — Foundational Questions](#education--foundational-questions)
   - [AI \& Technology — Questions to Explore](#ai--technology--questions-to-explore)
+  - [Reading \& Writing — Questions to Interrogate](#reading--writing--questions-to-interrogate)
+  - [Habits \& Behavior — Deeper Questions](#habits--behavior--deeper-questions)
+  - [Decision Making \& Judgment — Questions to Explore](#decision-making--judgment--questions-to-explore)
+  - [Skill Acquisition — Deep Questions](#skill-acquisition--deep-questions)
+  - [Identity \& Learning — Questions to Explore](#identity--learning--questions-to-explore)
+  - [Mental Models \& Mental Health](#mental-models--mental-health)
+  - [AI \& Cognition — Sharper Questions](#ai--cognition--sharper-questions)
 - [8. First Principles Analysis Generator](#8-first-principles-analysis-generator)
   - [Memory \& Learning — First-Principles Targets](#memory--learning--first-principles-targets)
   - [Motivation — Foundational Challenges](#motivation--foundational-challenges)
@@ -78,6 +145,15 @@
   - [Cognitive Science — Foundational Analysis](#cognitive-science--foundational-analysis)
   - [Education — Foundational Scrutiny](#education--foundational-scrutiny)
   - [AI \& Technology — First-Principles Targets](#ai--technology--first-principles-targets)
+  - [Habits \& Behavior Change — Foundational Targets](#habits--behavior-change--foundational-targets)
+  - [Skill Acquisition — Foundational Targets](#skill-acquisition--foundational-targets)
+  - [Reading, Writing, \& Language — First Principles](#reading-writing--language--first-principles)
+  - [Mathematics \& STEM Learning — Foundational Scrutiny](#mathematics--stem-learning--foundational-scrutiny)
+  - [Decision Making — Foundational Targets](#decision-making--foundational-targets)
+  - [Mental Health \& Learning — Foundational Targets](#mental-health--learning--foundational-targets)
+  - [AI \& Cognition — Sharper First-Principles Targets](#ai--cognition--sharper-first-principles-targets)
+  - [Productivity \& Knowledge Work — Foundational Targets](#productivity--knowledge-work--foundational-targets)
+  - [Education Policy — Foundational Scrutiny](#education-policy--foundational-scrutiny)
 - [9. Deep Dive Report Generator](#9-deep-dive-report-generator)
   - [Memory — Narrow Deep-Dive Targets](#memory--narrow-deep-dive-targets)
   - [Cognitive Science — Narrow Deep-Dive Targets](#cognitive-science--narrow-deep-dive-targets)
@@ -87,6 +163,18 @@
   - [PKM — Narrow Deep-Dive Targets](#pkm--narrow-deep-dive-targets)
   - [Neuroscience — Narrow Deep-Dive Targets](#neuroscience--narrow-deep-dive-targets)
   - [AI \& Educational Technology — Narrow Deep-Dive Targets](#ai--educational-technology--narrow-deep-dive-targets)
+  - [Habits \& Behavior Change — Narrow Deep-Dive Targets](#habits--behavior-change--narrow-deep-dive-targets)
+  - [Skill Acquisition — Deep-Dive Targets](#skill-acquisition--deep-dive-targets)
+  - [Reading \& Literacy — Deep-Dive Targets](#reading--literacy--deep-dive-targets)
+  - [Language Learning — Deep-Dive Targets](#language-learning--deep-dive-targets)
+  - [Mathematics \& STEM Learning — Deep-Dive Targets](#mathematics--stem-learning--deep-dive-targets)
+  - [Decision Making — Deep-Dive Targets](#decision-making--deep-dive-targets)
+  - [AI \& LLMs in Knowledge Work — Deep-Dive Targets](#ai--llms-in-knowledge-work--deep-dive-targets)
+  - [Productivity \& Knowledge Work — Deep-Dive Targets](#productivity--knowledge-work--deep-dive-targets)
+  - [Self-Regulated Learning — Deep-Dive Targets](#self-regulated-learning--deep-dive-targets)
+  - [Mental Health, Stress, \& Learning — Deep-Dive Targets](#mental-health-stress--learning--deep-dive-targets)
+  - [Note-Taking \& PKM Tools — Narrow Technical Targets](#note-taking--pkm-tools--narrow-technical-targets)
+  - [Cognitive Science — Additional Deep-Dive Targets](#cognitive-science--additional-deep-dive-targets)
   - [Quick-Reference Index by Domain](#quick-reference-index-by-domain)
 
 <!-- TOC END -->
@@ -1229,6 +1317,18 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Is "willpower" a depletable resource, a skill, or a story we tell ourselves — and what follows from each view?
 - What does it mean to be "motivated by curiosity" if curiosity itself can be killed by overstructured learning?
 - Can you motivate someone to learn something they have decided they cannot learn?
+
+
+
+
+
+
+
+
+
+
+
+
 - Is interest something you discover or something you cultivate — and does the answer change how 
 - If learning objectives must be "measurable," does that bias the entire enterprise toward what is easy to measure rather than what matters?
 - What is the difference between instruction designed for the learner and instruction designed for the institution — and which one are we usually building?
@@ -1242,6 +1342,8 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - What would instruction look like if we designed for forgetting rather than against it?
 - If worked examples reduce cognitive load, why do we still privilege "discovery learning" in m
 - If a thought is not written down, did it really happen — and what does your answer reveal about your epistemology?
+
+
 - What is the difference between a note and a thought — and at what point does one become the other?
 - Is collecting notes a form of learning, or a sophisticated form of procrastination disguised as productivity?
 - If atomic notes are the goal, what is lost in the act of fragmentation — does context die in the process?
@@ -1268,13 +1370,17 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Can AI summarization of your notes give you back insight, or does it return only the surface you've already seen?
 - What is the difference between knowledge management and knowledge cultivation — and which one are you actually doing?any domains?
 - What is the difference between teaching content and teaching how to learn content — and which is more valuable long-term?
+
+
+
+
 - Can microlearning produce deep understanding, or does depth require sustained engagement that micro-formats cannot deliver?
 - If feedback is the most powerful instructional intervention, why is it so often delivered in forms that nobody acts on?
 - What does it mean to "differentiate" instruction — is it equity, accommodation, or just better design?
 - Is the lecture format obsolete, or have we just gotten bad at lectures?
 - What assumptions about human nature underlie behaviorist instructional design — and are they still defensible?
 - If learning is social, what is the educational cost of asynchronous, individual online courses?
-- Can you design instruction for genuine creativity — or does design
+- Can you design instruction for genuine creativity — or does design inherently constrain it?
 - If we cannot introspect accurately on our own cognitive processes, what is the status of self-report data in psychology?
 - Is consciousness necessary for learning, or can sophisticated learning happen entirely beneath awareness?
 - What is the difference between thinking and reasoning — and is one more fundamental than the other?
