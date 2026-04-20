@@ -227,6 +227,104 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Mobile Learning (mLearning) — Comprehensive Survey
 - Intelligent Tutoring Systems — Full Overview
 
+## Critical Thinking & Reasoning
+- Critical Thinking — A Comprehensive Overview of the Field
+- Argumentation Theory — Complete Survey (Toulmin, Walton)
+- Logical Fallacies — A Full Catalog and Taxonomy
+- Bayesian Reasoning — Foundational Overview
+- Inductive vs. Deductive vs. Abductive Reasoning — Complete Survey
+- Informal Logic — A Field Overview
+- Fact-Checking and Source Evaluation — Comprehensive Survey
+- Forecasting and Prediction (Tetlock — Superforecasting) — Field Overview
+- Probabilistic Thinking — A Complete Introduction
+- Steelmanning and Ideological Turing Tests — Overview
+
+## Reading & Literacy
+- The Science of Reading — Comprehensive Overview
+- Reading Comprehension — A Full Survey
+- Phonics vs. Whole Language — Field Overview
+- Vocabulary Acquisition — Comprehensive Survey
+- Disciplinary Literacy — A Complete Introduction
+- Close Reading and Annotation Practices — Overview
+- Speed Reading — Claims, Evidence, and Field Survey
+- Digital Reading vs. Print Reading — Overview
+- Academic Reading Strategies — Comprehensive Survey
+
+## Writing & Communication
+- The Cognitive Process Theory of Writing (Flower & Hayes) — Overview
+- Genre Theory in Writing — Comprehensive Survey
+- Writing-to-Learn — A Field Overview
+- Academic Writing — Complete Introduction
+- Rhetorical Theory — Foundational Survey
+- Visual Communication and Information Design — Overview
+- Technical Writing — Comprehensive Field Survey
+- Style Guides and Their History — Overview
+
+## Language Learning
+- Second Language Acquisition (SLA) — Complete Overview
+- The Comprehensible Input Hypothesis (Krashen) — Survey
+- The Critical Period Hypothesis — Field Overview
+- Bilingualism and Cognition — Comprehensive Survey
+- Vocabulary Acquisition in L2 — Overview
+- Communicative Language Teaching — Survey
+- Task-Based Language Teaching — Overview
+- Spaced Repetition for Language Learning — Field Survey
+
+## Mathematics & STEM Learning
+- Mathematics Education Research — Comprehensive Overview
+- Conceptual vs. Procedural Knowledge in Math — Survey
+- Math Anxiety — A Field Overview
+- Number Sense Development — Complete Survey
+- Productive Failure (Kapur) — Overview
+- Inquiry-Based Science Education — Survey
+- Misconceptions in Science Learning — Comprehensive Overview
+- Computational Thinking — A Field Survey
+- The Use of Manipulatives in Math Education — Overview
+
+## Skill Acquisition & Expertise
+- Deliberate Practice (Ericsson) — Comprehensive Overview
+- The 10,000 Hour Rule — Origins, Claims, and Evidence
+- Motor Learning — A Complete Field Survey
+- Skill Decay and Retention — Overview
+- The Power Law of Practice — Complete Survey
+- Chunking and Expertise — Field Overview
+- Tacit Knowledge in Skill Acquisition — Survey
+- The Apprenticeship Model — Comprehensive Overview
+
+## Habits & Behavior Change
+- Habit Formation — Complete Field Overview
+- The Habit Loop (Cue–Routine–Reward) — Survey
+- Behavior Design (Fogg Behavior Model) — Overview
+- Implementation Intentions — Comprehensive Survey
+- Tiny Habits Methodology — Overview
+- Atomic Habits (Clear) — Comprehensive Treatment
+- The Transtheoretical Model of Change — Survey
+- Nudge Theory and Choice Architecture — Field Overview
+
+## Emotion, Mental Health, & Learning
+- Emotion Regulation — Comprehensive Field Overview
+- Test Anxiety — Complete Survey
+- Stress and Cognitive Performance — Overview
+- Burnout in Students and Knowledge Workers — Survey
+- Learning and Trauma-Informed Education — Overview
+- Mindfulness in Learning Contexts — Comprehensive Survey
+- Self-Compassion in Academic Contexts — Overview
+
+## Neurodiversity & Learning
+- ADHD and Learning — Comprehensive Field Overview
+- Dyslexia — Complete Survey
+- Autism and Learning Differences — Overview
+- Twice-Exceptional Learners — Field Survey
+- Executive Function Differences — Overview
+- Working Memory Deficits and Learning — Comprehensive Survey
+
+## Lifespan Development
+- Cognitive Development Across the Lifespan — Overview
+- Adolescent Brain Development and Learning — Survey
+- Cognitive Aging — Comprehensive Field Overview
+- Childhood Memory Development — Survey
+- Lifelong Learning — Field Overview
+
 ---
 
 # 2. Annotated Critical Analysis Generator
@@ -309,6 +407,76 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Social Media and Academic Performance — Correlation vs. Causation
 - Screen Time and Cognitive Development — What Does the Evidence Show?
 - Learning Analytics — Privacy Trade-offs and Evidence of Efficacy
+
+## Skill Acquisition & Expertise — Contested Claims
+- The 10,000 Hour Rule — Critical Examination of the Evidence
+- Deliberate Practice as Universal Mechanism of Expertise — A Critical Review
+- Talent vs. Practice — What Does the Evidence Actually Show?
+- The Power Law of Practice — Universality Reexamined
+- Transfer Across Domains in Expertise — How Robust Is the Evidence?
+- Expert Intuition — Reliable Skill or Cognitive Illusion?
+
+## Habits & Behavior Change — Critical Review
+- Atomic Habits and the Popular Habit Literature — Critical Analysis
+- The 21-Day Habit Formation Claim — Where Did It Come From and Is It True?
+- Implementation Intentions — Critical Review of Effect Sizes Across Contexts
+- Nudge Interventions — How Big Are the Effects After Replication?
+- Choice Architecture in Education — Critical Analysis of the Evidence
+- The Fogg Behavior Model — Empirical Status Examined
+
+## Reading, Literacy & Language — Contested Evidence
+- The Reading Wars — Critical Analysis of Phonics vs. Whole Language Evidence
+- Speed Reading Programs — Evidence vs. Marketing
+- Reading on Screens vs. Paper — A Critical Review of the Comprehension Claims
+- The Critical Period Hypothesis in Language Acquisition — Evidence Reexamined
+- Bilingualism and Cognitive Advantages — Replication Status
+- Comprehensible Input Hypothesis — Critical Examination
+
+## Mathematics Education — Contested Claims
+- Productive Failure — Critical Analysis of the Evidence Base
+- Inquiry-Based vs. Direct Instruction in Math — Evidence Examined
+- Math Anxiety Interventions — How Effective Are They Really?
+- The Effect of Manipulatives on Math Learning — Critical Review
+- Common Core Mathematics — Evidence For and Against the Approach
+
+## Mental Health & Learning — Critical Examination
+- Mindfulness in Schools — A Critical Review of Outcomes
+- SEL (Social-Emotional Learning) Programs — Evidence vs. Hype
+- Trauma-Informed Education — Critical Analysis of the Evidence
+- Test Anxiety Interventions — How Robust Is the Evidence?
+- The "Mental Health Crisis" in Students — Evaluating the Evidence
+
+## AI in Education — Sharper Critical Targets
+- Khan Academy's Khanmigo — Evidence vs. Marketing Claims
+- LLMs as Tutors — A Critical Examination of Current Evidence
+- AI Detection Tools — Validity, Bias, and Real-World Failure Modes
+- Generative AI and Student Learning — Critical Analysis of Early Studies
+- AI-Generated Personalized Feedback — Does It Actually Improve Learning?
+- The "AI Will Transform Education" Claim — A Skeptical Examination
+
+## PKM & Productivity — Sharper Critical Targets
+- Building a Second Brain Methodology — A Critical Analysis
+- The Productivity Industry — Evidence Behind Popular Claims
+- GTD (Getting Things Done) — Evidence Base Examined
+- The Pomodoro Technique — Critical Review of the Evidence
+- Time Blocking — How Robust Is the Productivity Claim?
+- Digital Minimalism — Evidence Behind the Claims
+
+## Neuroscience Claims in Popular Education — Critical Reviews
+- The "Use It or Lose It" Brain Claim — Evidence Examined
+- Brain Training Apps (Lumosity, Elevate) — Critical Analysis of Efficacy
+- The Mozart Effect — Origin, Evidence, and Why It Persists
+- Right-Brain vs. Left-Brain Learning — A Persistent Neuromyth Examined
+- The 10% of the Brain Myth — How It Endures Despite Evidence
+- Brain Gym — Critical Review of the Program and Its Claims
+
+## Educational Policy — Contested Evidence
+- Class Size Effects on Learning — Critical Review of the Evidence
+- The Effect of Teacher Quality on Student Outcomes — Evidence Examined
+- School Choice and Charter Schools — Critical Analysis of Outcomes
+- Universal Pre-K — Evidence For and Against
+- High-Stakes Testing Effects — Critical Review of the Evidence
+- Grade Retention Policies — A Critical Analysis
 
 ---
 
@@ -424,6 +592,102 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - How to Integrate Automation Tools into a PKM Workflow
 - How to Choose Between PKM Tools (Obsidian vs. Notion vs. Logseq)
 
+## Habits & Behavior Change — Practical Implementation
+- How to Build a Habit That Actually Sticks (Step-by-Step)
+- How to Use Implementation Intentions in Daily Life
+- How to Apply the Tiny Habits Method to Learning
+- How to Stack Habits Onto Existing Routines
+- How to Break a Bad Habit Using Behavioral Substitution
+- How to Use Habit Tracking Without It Becoming Performative
+- How to Recover From Habit Lapses Without Spiraling
+- How to Design Your Environment for Better Behavior
+- How to Use Commitment Devices to Follow Through
+- How to Build a 30-Day Habit Experiment
+
+## Reading & Comprehension — Practical Application
+- How to Read a Difficult Book Methodically (Adler's How to Read a Book in Practice)
+- How to Annotate a Book for Long-Term Retention
+- How to Build a Daily Reading Habit From Zero
+- How to Read Multiple Books in Parallel Without Getting Lost
+- How to Take Reading Notes That Become Permanent Notes
+- How to Use Marginalia Effectively
+- How to Read Dense Academic Papers Quickly Without Losing Comprehension
+- How to Build a Personal Reading Curriculum
+- How to Track What You Read in a Way That Compounds Over Time
+- How to Implement Active Reading Techniques
+
+## Writing — Practical Workflows
+- How to Use Writing as a Tool for Thinking
+- How to Build a Daily Writing Habit
+- How to Write Permanent Notes That Become Future Articles
+- How to Outline a Long Article From Note Clusters
+- How to Edit Your Own Writing Effectively
+- How to Use the Pomodoro Technique for Drafting
+- How to Overcome Writer's Block With Structured Prompts
+- How to Write Better Email and Documentation in Knowledge Work
+
+## Language Learning — Practical Application
+- How to Build an Anki Deck for a New Language
+- How to Use Spaced Repetition for Vocabulary Acquisition
+- How to Implement Comprehensible Input in Self-Study
+- How to Build a Daily Immersion Routine Without Travel
+- How to Use Shadowing for Pronunciation Practice
+- How to Track Vocabulary Knowledge Across Levels (A1–C2)
+- How to Use LLMs as a Conversation Partner for Language Practice
+- How to Read in a Foreign Language Productively
+
+## Programming & Technical Learning
+- How to Learn a New Programming Language Efficiently
+- How to Build a Spaced Repetition System for Code Patterns
+- How to Read Source Code as a Learning Strategy
+- How to Use Project-Based Learning for Technical Skills
+- How to Document Your Learning as a Developer
+- How to Build a Personal Reference Wiki for Technical Knowledge
+- How to Use LLMs as a Pair Programming Partner Productively
+
+## Mental Health & Learning Practical Strategies
+- How to Manage Test Anxiety With Evidence-Based Techniques
+- How to Build a Burnout Prevention Routine for Knowledge Workers
+- How to Use Cognitive Behavioral Strategies for Procrastination
+- How to Build Emotional Regulation Skills as a Learner
+- How to Apply Mindfulness Techniques to Studying
+- How to Recognize and Recover From Learning Burnout
+- How to Build Self-Compassion Practices Around Academic Failure
+
+## Decision Making & Forecasting — Practical Workflows
+- How to Build a Decision Journal for Better Judgment
+- How to Run a Pre-Mortem on a Decision
+- How to Use Calibration Training to Improve Forecasting Skills
+- How to Apply Bayesian Updating in Daily Reasoning
+- How to Make Better Decisions Under Uncertainty
+- How to Build a Personal Lessons-Learned System
+- How to Distinguish Good Decisions From Good Outcomes
+
+## Knowledge Work & Research Practical Workflows
+- How to Build a Research Workflow That Compounds Over Years
+- How to Manage a Long-Term Research Project in Obsidian
+- How to Build a Personal Database of Quotes and Sources
+- How to Track Citations Across Multiple Projects
+- How to Conduct Expert Interviews and Process the Notes
+- How to Build a Topic Tracking System for Domain Mastery
+
+## AI-Augmented Practical Workflows
+- How to Build a Prompt Library for Repeated Knowledge Tasks
+- How to Use LLMs to Generate Flashcards From Notes
+- How to Use AI for Literature Review Without Losing Critical Thinking
+- How to Build an AI-Augmented Daily Review Workflow
+- How to Use LLMs as a Socratic Tutor on Difficult Concepts
+- How to Validate AI Outputs Before Trusting Them
+- How to Build a Personal RAG System Over Your Notes
+- How to Use AI Agents to Maintain Your PKB
+
+## Career & Skill Development
+- How to Build a Learning Roadmap for a Career Pivot
+- How to Conduct Effective Self-Reviews of Professional Skills
+- How to Build a Portfolio of Learning Artifacts
+- How to Use Side Projects as Skill Acquisition Vehicles
+- How to Learn From Senior Practitioners Effectively
+
 ---
 
 # 4. Dialectical Report Generator
@@ -509,6 +773,79 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Western vs. Non-Western Epistemologies in Educational Frameworks
 - Meritocracy in Education: Myth or Ideal to Pursue?
 
+## Skill Acquisition & Expertise — Genuine Tensions
+- Talent vs. Deliberate Practice: Where Does Each Account End?
+- Generalist vs. Specialist: Which Path Produces Greater Expertise and Impact?
+- Domain Knowledge vs. Transferable Skills: A Dialectical Examination
+- Coaching vs. Self-Directed Practice in Skill Mastery
+- Early Specialization vs. Late Specialization in Skill Development
+- Practice in Isolation vs. Practice in Context: Tradeoffs in Skill Building
+
+## Reading & Literacy — Genuine Tensions
+- Phonics vs. Whole Language: A Fair Dialectical Treatment
+- Reading Widely vs. Reading Deeply: Two Reading Philosophies
+- Reading Fiction vs. Nonfiction for Cognitive Development
+- Print vs. Digital Reading: Beyond the Comprehension Wars
+- Speed Reading vs. Slow Reading: Genuine Tradeoffs Examined
+- Annotated Reading vs. Pure Reading: Does Annotation Help or Distract?
+
+## Habits & Behavior Change — Tensions
+- Discipline vs. Motivation: Which Should Practitioners Cultivate?
+- Top-Down Goal-Setting vs. Bottom-Up Identity Change in Habit Formation
+- Big Behavioral Changes vs. Tiny Habits: Which Approach Sustains?
+- Tracking Habits vs. Trusting the Process: A Dialectical Examination
+- Self-Discipline vs. Environmental Design: Where Should Effort Sit?
+
+## Mental Health & Learning — Tensions
+- Mindfulness vs. Action: Acceptance vs. Change in Learning Struggles
+- Self-Compassion vs. Self-Criticism as Drivers of Improvement
+- Therapy-Style Interventions in Schools vs. Pure Educational Focus
+- Trauma-Informed Education vs. Resilience-Based Education
+- Medication vs. Behavioral Intervention for ADHD in Learning Contexts
+
+## Decision Making — Genuine Tensions
+- Intuition vs. Deliberation in Expert Decision Making
+- Rules vs. Judgment in Professional Practice
+- Optimization vs. Satisficing as Decision Strategies
+- Quantification vs. Holistic Judgment in Hiring and Admissions
+- Speed vs. Accuracy: A Genuine Tradeoff or False Dichotomy?
+
+## Career & Lifelong Learning — Tensions
+- T-Shaped vs. I-Shaped vs. Comb-Shaped Skill Profiles: Genuine Disputes
+- Credentials vs. Demonstrated Competence: Tensions in Career Capital
+- Following Passion vs. Building Career Capital (Newport vs. Critics)
+- Generalist Career Paths vs. Specialist Career Paths
+- Working at Established Institutions vs. Startups for Skill Acquisition
+- Online Learning vs. Formal Education for Career Development
+
+## Reading, Writing, & Note-Taking — Deeper Tensions
+- Writing for Self vs. Writing for an Audience: Tensions in Note Quality
+- Quantity of Output vs. Quality of Output: A Dialectical Examination
+- Linear Writing vs. Nonlinear Writing Workflows
+- Long-Form vs. Short-Form Writing for Knowledge Development
+- Notes as Personal Records vs. Notes as Future Publications
+
+## AI Augmentation — New Dialectical Tensions
+- AI as Brainstorming Partner vs. AI as Idea Source
+- LLMs as Tutors vs. LLMs as Cheating Tools: Beyond Simple Framings
+- Human-Authored vs. AI-Augmented Content: Where Should the Line Be?
+- Trusting AI Output vs. Verifying Everything: Practical Tensions
+- Fast AI Outputs vs. Slow Human Reflection: Tradeoffs in Knowledge Work
+- Building With AI vs. Building Without AI as a Skill-Development Strategy
+
+## Programming & Technical Learning — Tensions
+- Bootcamp vs. CS Degree: A Dialectical Examination
+- Building Projects vs. Studying Fundamentals in Programming Education
+- Reading Code vs. Writing Code as a Learning Strategy
+- Multiple Languages vs. Mastery of One: Programming Education Tensions
+- Theory-First vs. Practice-First Programming Education
+
+## Cognitive Augmentation — New Tensions
+- Note-Taking Apps vs. Memory Training as Approaches to Knowledge Retention
+- External Cognition vs. Internal Cognition: Where Should Effort Be Invested?
+- Productivity Systems vs. Letting Things Emerge: Two Knowledge Work Philosophies
+- Optimizing for Output vs. Optimizing for Insight in Knowledge Work
+
 ---
 
 # 5. Comparative Architecture Generator
@@ -589,6 +926,73 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Tacit vs. Explicit Knowledge Transfer Strategies: What Works When
 - Communities of Practice vs. Formal Training: Knowledge Transfer Compared
 - After-Action Reviews vs. Pre-Mortems vs. Lessons-Learned Systems
+
+## Productivity & Task Management Systems — Comparative Architecture
+- GTD vs. PARA vs. BASB: Productivity Methodology Architectures Compared
+- Todoist vs. Things vs. OmniFocus vs. TickTick: Task Manager Architectures
+- Time Blocking vs. Pomodoro vs. Deep Work: Time Management Architectures
+- Bullet Journaling vs. Digital Daily Notes: Methodological Comparison
+- Asana vs. Trello vs. Notion vs. ClickUp: Project Management Tool Comparison
+- Calendar-First vs. Task-List-First Productivity Systems
+
+## Note-Taking Methods — Comparative Architecture
+- Cornell Notes vs. Outline Method vs. Mapping vs. Charting Notes
+- Sketchnoting vs. Linear Note-Taking: Cognitive Tradeoffs
+- Live Note-Taking vs. Post-Lecture Note Construction
+- Handwritten vs. Typed vs. Voice-to-Text Note Capture
+- Single-Vault vs. Multi-Vault Obsidian Architectures
+
+## AI & LLM Tools — Expanded Comparative Evaluation
+- Cursor vs. GitHub Copilot vs. Windsurf vs. Cline: AI Coding Assistant Architectures
+- Claude Projects vs. ChatGPT GPTs vs. Gemini Gems: Custom AI Architecture Comparison
+- LangChain vs. LlamaIndex vs. Haystack: RAG Framework Comparison
+- Pinecone vs. Weaviate vs. Qdrant vs. Chroma: Vector Database Comparison
+- Ollama vs. LM Studio vs. Jan: Local LLM Runner Architectures
+- OpenWebUI vs. AnythingLLM vs. LibreChat: Self-Hosted LLM Interface Comparison
+- RAG vs. Fine-Tuning vs. Long Context: Knowledge Injection Strategies Compared
+- Anthropic Claude Code vs. Aider vs. OpenHands: Agentic Coding Tool Architectures
+
+## Reading & Reference Management — Comparison
+- Readwise vs. Matter vs. Omnivore: Read-Later App Architectures
+- Kindle vs. Kobo vs. Boox: E-Reader Ecosystem Comparison
+- Hypothesis vs. Readwise Highlights vs. Margin Note: Annotation Systems Compared
+- Zotero vs. Citavi vs. Paperpile: Academic Reference Manager Comparison
+
+## Writing Tools — Comparative Evaluation
+- iA Writer vs. Ulysses vs. Scrivener vs. Obsidian for Long-Form Writing
+- Markdown Editors Compared: Typora vs. Obsidian vs. Mark Text vs. iA Writer
+- LaTeX vs. Markdown vs. Word for Academic Writing
+- Grammarly vs. ProWritingAid vs. Hemingway: Writing Assistant Comparison
+
+## Spaced Repetition Systems — Expanded Comparison
+- Anki vs. Mochi vs. RemNote vs. Obsidian Spaced Repetition Plugin
+- FSRS vs. SM-2 vs. SM-17: Spaced Repetition Algorithm Architecture Comparison
+- Web-Based SRS vs. Desktop SRS vs. Mobile-First SRS
+
+## Programming Education Platforms — Comparison
+- LeetCode vs. HackerRank vs. CodeSignal vs. Exercism: Practice Platform Comparison
+- freeCodeCamp vs. The Odin Project vs. Frontend Masters vs. Boot.dev
+- Pluralsight vs. LinkedIn Learning vs. Coursera vs. Udacity for Programmers
+
+## Knowledge Capture & Voice — Comparison
+- Otter vs. Whisper vs. Granola vs. Fireflies: Meeting & Transcription Tools Compared
+- Voice Memos + AI Pipeline vs. Native Voice Note Apps
+- Audio-First vs. Text-First Knowledge Capture Workflows
+
+## Habit & Behavior Tracking — Comparative Architecture
+- Streaks vs. Habitica vs. HabitNow vs. Loop: Habit Tracker Architectures
+- Daylio vs. Reflectly vs. Stoic: Mood and Reflection App Comparison
+- Pen-and-Paper Habit Tracking vs. App-Based Tracking
+
+## Frameworks for Decision Making — Comparison
+- WRAP (Heath Brothers) vs. OODA Loop vs. PrOACT: Decision Frameworks Compared
+- SWOT vs. Porter's Five Forces vs. PEST: Strategic Analysis Frameworks Compared
+- 10/10/10 Rule vs. Eisenhower Matrix vs. ICE Score for Prioritization
+
+## Educational Philosophies — Architectural Comparison
+- Montessori vs. Waldorf vs. Reggio Emilia vs. Sudbury: Alternative Education Architectures
+- Classical Education vs. Progressive Education vs. Unschooling
+- Charter Schools vs. Magnet Schools vs. Public Schools vs. Private Schools
 
 ---
 
@@ -683,6 +1087,84 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - The History of Competency-Based Education
 - How Evidence-Based Education Became the Dominant Paradigm
 - The History of Standardized Testing in Education
+
+## Reading, Writing, and Literacy — Historical Development
+- The History of Reading Instruction in the West
+- The Reading Wars: A Hundred-Year History of Phonics vs. Whole Language
+- The History of Literacy: From Oral Cultures to Mass Literacy
+- The Genealogy of Composition Pedagogy in Higher Education
+- The Evolution of the Essay as an Educational Form
+- How Print Changed Cognition: Eisenstein's History of the Printing Revolution
+- The History of Marginalia and Annotation Practices
+- The History of the Commonplace Book
+
+## Mathematics Education — Historical Genealogy
+- The History of Mathematics Education in the West
+- The New Math Movement of the 1960s: Origins, Failures, and Legacy
+- Common Core Mathematics: Origins, Implementation, and Backlash
+- The History of Calculus Pedagogy
+- The Evolution of How Statistics Is Taught
+
+## Productivity Systems — Intellectual History
+- The History of Productivity Methodology: From Drucker to Deep Work
+- Getting Things Done (Allen): Origins, Evolution, and Cultural Diffusion
+- The Bullet Journal Method: Origins and Cultural Spread
+- The History of Time Management as a Discipline
+- The Quantified Self Movement: Origins and Trajectory
+
+## AI & Computing in Knowledge Work — Historical Development
+- The History of Personal Computing and Knowledge Work (Engelbart's Vision and Its Legacy)
+- The History of Hypertext: Bush, Nelson, Berners-Lee
+- The History of Search Engines and Their Effect on Cognition
+- The History of Wikipedia and the Crowdsourced Knowledge Movement
+- The History of Large Language Models: From RNNs to GPT-4
+- The History of AI in Education: Logo, Intelligent Tutoring, and the LLM Era
+- The History of Recommendation Algorithms in Knowledge Discovery
+- The History of the Knowledge Graph (From Cyc to Wikidata to LLM Knowledge)
+
+## Cognitive & Behavioral Science — Genealogy
+- The History of Behavioral Economics: Kahneman, Tversky, Thaler
+- The History of Habit Research: From William James to Wendy Wood
+- The Mindfulness Movement in the West: From Kabat-Zinn to Apps
+- The History of Self-Regulation Research
+- The Genealogy of Positive Psychology (Seligman and Beyond)
+
+## Skill Acquisition Research — Historical Development
+- The History of Expertise Research: From de Groot's Chess Studies to Ericsson
+- The Evolution of the Concept of Deliberate Practice
+- The History of the Apprenticeship Tradition Across Cultures
+- The History of Coaching as a Profession
+- The Genealogy of Sports Science and Motor Learning Research
+
+## Education Reform Movements — Historical Genealogy
+- The Open Education Movement: From OER to MOOCs to LLMs
+- The Homeschooling Movement in the United States: A Historical Survey
+- The Maker Movement in Education: Origins and Trajectory
+- The Personalized Learning Movement: Origins, Promises, and Critiques
+- The Standards Movement in K-12 Education
+- The History of Educational Equity Movements
+
+## Note-Taking & Knowledge Tools — Historical Evolution
+- The History of the Notebook: From Codex to Moleskine to Digital
+- The History of Index Cards as Knowledge Infrastructure
+- The Evolution of Outliners (From Think Tank to Dynalist to Roam)
+- The History of Wiki Software in Personal Knowledge Work
+- The History of Markdown as a Knowledge Format
+- The History of YAML and Structured Metadata in Notes
+
+## Language Learning — Intellectual History
+- The History of Foreign Language Pedagogy in the West
+- The Communicative Approach in Language Teaching: Origins and Evolution
+- The Direct Method, Audiolingual Method, and Their Historical Context
+- The History of Spaced Repetition in Language Learning (Pimsleur to Anki)
+- Krashen's Comprehensible Input Hypothesis: Historical Reception
+
+## Workplace & Adult Learning — Historical Development
+- The History of Corporate Training and L&D as a Discipline
+- The Evolution of the Learning Organization Concept
+- The History of Coaching in the Workplace
+- The Rise of Microlearning and Just-in-Time Workplace Education
+- The History of Performance Support Systems
 
 ---
 
@@ -944,6 +1426,77 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Can AI be genuinely curious — and does the answer change how we should use AI in education?
 - If AI personalizes education perfectly, what do we lose from shared educational experiences?
 
+## Reading & Writing — Questions to Interrogate
+- What is the difference between reading words and reading meaning — and where exactly does the difference occur?
+- If you cannot recall a book a year after reading it, did you really read it?
+- Is reading widely a virtue, or a sophisticated form of intellectual procrastination?
+- What does it mean to "think on the page" — is writing a tool for discovering thoughts or just expressing them?
+- If a piece of writing is unreadable, has the writer thought clearly?
+- Can you understand a book deeply without writing about it — what does writing add that thinking alone does not?
+- Is rereading a book a return to the same text, or to a different text because you have changed?
+- What is the cognitive function of marginalia — record, dialogue, or rehearsal?
+- If a thought becomes clearer when you write it, was it ever really a complete thought before?
+- Is the canon a body of essential knowledge or a record of historical power?
+
+## Habits & Behavior — Deeper Questions
+- If your habits define your identity, are you authoring your habits or are they authoring you?
+- What is the difference between a habit and a routine — and does the distinction matter for behavior change?
+- Can you build a habit of being curious — or is curiosity necessarily spontaneous?
+- What does it mean that habits often persist after their original reward is removed?
+- If small habits compound into large outcomes, why is the experience of building them so unpleasant?
+- Is willpower a resource you spend, a muscle you train, or a cultural story?
+- What does it mean to "want to want" something — and is that a coherent motivational state?
+- Can a habit be authentically yours if you adopted it from someone else's recommendation?
+
+## Decision Making & Judgment — Questions to Explore
+- If hindsight bias makes us overconfident in retrospect, can we ever accurately judge our past decisions?
+- Is a good decision one with a good outcome, or one made well regardless of outcome?
+- Can we distinguish skill from luck in any individual decision — or only across many decisions?
+- What does it mean that experts often disagree on questions inside their expertise?
+- If our intuitions are often wrong, why do they so reliably feel right?
+- Is calibration something we can train, or a stable disposition?
+- What is the difference between a forecast and a guess — and does it matter?
+- If you cannot articulate the reasons for your judgment, is the judgment less valid?
+
+## Skill Acquisition — Deep Questions
+- If deliberate practice is the path to expertise, why do so few practitioners ever reach mastery?
+- What does it mean to be "naturally talented" if all expertise requires practice?
+- Can a skill be transferred between domains, or is every domain its own learning curve?
+- If experts often cannot teach what they know, what does that say about the nature of expertise?
+- Is mastery a state, a process, or a horizon you never reach?
+- What is the relationship between conscious knowledge and skilled action — and where does each begin?
+- Can you become an expert in a field by studying it without practicing it?
+- If chunking enables expertise, what determines what becomes a chunk?
+
+## Identity & Learning — Questions to Explore
+- What does it mean to call yourself "a learner" — is that an identity, an activity, or an aspiration?
+- If learning changes who you are, can you ever be the same person after learning something significant?
+- Is intellectual humility a character trait you can cultivate, or just a habit of speech?
+- What does it mean to outgrow a belief — and is the new belief truly more correct, or just newer?
+- Can you genuinely change your mind, or do you only update your stated positions?
+- If your future self will know more than you, can you trust your current convictions?
+- Is reading challenging material a way to improve, or a way to confirm what you already believe?
+
+## Mental Models & Mental Health
+- Is naming a cognitive bias the same as overcoming it?
+- Can knowing about a cognitive distortion prevent you from falling for it — or just give you new vocabulary?
+- What does it mean to have an "open mind" — is openness a virtue without limit?
+- If anxiety produces vigilance and creativity, is reducing anxiety always a good trade?
+- Can you be too self-aware — and what would that mean cognitively?
+- Is comfort with not knowing a sign of wisdom or of intellectual surrender?
+
+## AI & Cognition — Sharper Questions
+- If a model can produce a paragraph indistinguishable from yours, what was your paragraph for?
+- When AI gives you the answer immediately, do you skip the productive struggle that generates understanding?
+- Is asking a great question a skill being preserved or eroded by AI assistance?
+- Can you remain curious about a topic when AI can satisfy any question instantly?
+- If you cannot tell whether AI is hallucinating, what does it mean to "use AI carefully"?
+- Is iterating with AI a new form of thinking, or a new form of editing?
+- What does it mean to have a private thought in a world where you might prompt an AI with it?
+- If AI can read everything you have written, does the act of writing change?
+- Can you trust an AI's reasoning if its reasoning chain is post-hoc rationalization?
+- What does it mean to learn from AI when AI cannot tell you what it doesn't know?
+
 ---
 
 
@@ -1026,6 +1579,78 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - What Does "Understanding" Mean for a Language Model — Is the Question Coherent?
 - From First Principles: Can AI Replace the Teacher's Role — What Functions Are Actually Required?
 - What Are the Irreducible Privacy Risks of Learning Analytics Systems?
+
+## Habits & Behavior Change — Foundational Targets
+- Habit Formation From First Principles: What Mechanism Is Required?
+- Is the Habit Loop (Cue–Routine–Reward) a Real Mechanism or a Useful Heuristic?
+- From First Principles: What Would It Take for Implementation Intentions to Work?
+- Is "Identity-Based Habit Change" a Coherent Concept or a Repackaged Self-Concept Theory?
+- The Tiny Habits Hypothesis: What Minimal Assumptions Does It Require?
+- From First Principles: Is Willpower a Coherent Construct?
+
+## Skill Acquisition — Foundational Targets
+- Deliberate Practice From First Principles: What Are the Irreducible Conditions?
+- Is the 10,000 Hour Rule Built on Defensible Premises?
+- From First Principles: What Distinguishes Expertise From Mere Experience?
+- Is "Talent" a Useful Construct or an Explanatory Placeholder?
+- Skill Transfer From First Principles: What Mechanism Could Possibly Produce It?
+- Is Chunking a Real Cognitive Mechanism or a Description of Performance?
+
+## Reading, Writing, & Language — First Principles
+- What Is Reading, Really — At the Most Fundamental Level?
+- Reading Comprehension From First Principles: What Are Its Irreducible Components?
+- Is "Writing to Learn" a Real Mechanism or a Productive Coincidence?
+- From First Principles: What Are the Necessary Conditions for Second Language Acquisition?
+- Is "Comprehensible Input" a Coherent Construct or Circular?
+- Vocabulary Knowledge From First Principles: What Does It Mean to Know a Word?
+
+## Mathematics & STEM Learning — Foundational Scrutiny
+- Mathematical Understanding From First Principles: What Does It Require?
+- Is the Distinction Between Conceptual and Procedural Knowledge Defensible?
+- From First Principles: What Are the Irreducible Components of Computational Thinking?
+- Productive Failure: What Mechanism Could Plausibly Produce the Reported Effect?
+- Is Math Anxiety a Distinct Construct or a Domain-Specific Manifestation of Test Anxiety?
+
+## Decision Making — Foundational Targets
+- Rationality From First Principles: Which Norm Is Defensible?
+- Is Bayesian Updating a Normative Standard or a Descriptive Model — Or Both?
+- From First Principles: What Does It Mean for a Forecast to Be "Calibrated"?
+- Decision Quality vs. Outcome Quality: A First-Principles Distinction
+- Is the Distinction Between Risk and Uncertainty Sustainable Under Scrutiny?
+- From First Principles: Are Heuristics Departures From Rationality or Adaptations of It?
+
+## Mental Health & Learning — Foundational Targets
+- Is Mindfulness a Distinct Mechanism or a Cluster of Loosely Related Practices?
+- From First Principles: What Are the Necessary Conditions for Self-Regulation?
+- Is Burnout a Real Construct or a Politically Convenient Label?
+- Test Anxiety From First Principles: What Are Its Irreducible Components?
+- Is "Trauma-Informed Education" a Coherent Pedagogical Framework or an Aspiration?
+
+## AI & Cognition — Sharper First-Principles Targets
+- What Does "Reasoning" Mean for a Language Model From First Principles?
+- Is Chain-of-Thought Prompting Real Reasoning or Verbal Camouflage?
+- From First Principles: What Would AI "Understanding" Require?
+- Are LLM Capabilities Discoveries About Cognition or About Statistics?
+- Is "AI Hallucination" a Distinct Phenomenon or Just a Failure Mode of Generation?
+- From First Principles: What Are the Irreducible Differences Between Human and Machine Learning?
+- Is "Prompt Engineering" a Skill or a Symptom of Immature Tooling?
+- What Does It Mean to "Fine-Tune" a Model From First Principles?
+- Is Retrieval-Augmented Generation a Different Capability or Just Better Context?
+
+## Productivity & Knowledge Work — Foundational Targets
+- From First Principles: Is "Deep Work" a Real Construct or a Branded Common Sense?
+- Is GTD a Theory of Cognition or a Workflow Convention?
+- From First Principles: What Makes a Knowledge Worker Productive?
+- Is the Pomodoro Technique Built on Defensible Cognitive Premises?
+- Is Multitasking Always Inefficient? A First-Principles Examination
+- From First Principles: What Is Attention, and Can It Be Managed?
+
+## Education Policy — Foundational Scrutiny
+- From First Principles: What Is the Purpose of Schooling?
+- Is the Concept of Grade Levels Defensible From First Principles?
+- What Would a Defensible Standard for Educational Equity Look Like?
+- From First Principles: Is Teacher Quality a Coherent Measurable Construct?
+- Is Standardized Testing Built on Defensible Premises About Learning?
 
 ---
 
@@ -1123,6 +1748,115 @@ Wiki-links/Permanent Notes List Location: [FULL_PATH_TO_WIKI_LINKS_FILE]
 - Bayesian Knowledge Tracing in Adaptive Learning: Technical Architecture and Evidence
 - Natural Language Processing for Educational Feedback Generation: Methods and Limitations
 - The Complete Research Record on Gamification Elements in Educational Contexts
+
+## Habits & Behavior Change — Narrow Deep-Dive Targets
+- Implementation Intentions: Complete Research Program (Gollwitzer), Mechanisms, Boundary Conditions
+- The Habit Formation Curve: Lally et al. and Subsequent Replications — Complete Treatment
+- Identity-Based Habit Change: Complete Theoretical and Empirical Treatment
+- Habit Stacking: Mechanisms, Limits, and Empirical Status
+- Cue-Reactivity in Habit Formation: Neural and Behavioral Evidence
+- The Default Effect in Behavioral Economics: Complete Research Record
+- Choice Architecture and Nudges: Complete Empirical Survey of Effect Sizes
+- Streak Effects in Habit Apps: Behavioral Mechanisms and Counter-Effects
+
+## Skill Acquisition — Deep-Dive Targets
+- Ericsson's Deliberate Practice Research Program: Complete Critical Treatment
+- de Groot's Chess Expertise Research: Complete Methodological and Theoretical Treatment
+- The Power Law of Practice: Mathematical Form, Mechanisms, and Boundary Conditions
+- Motor Skill Consolidation: Complete Neuroscientific Treatment
+- Variable Practice in Motor Learning (Schmidt's Schema Theory): Complete Treatment
+- Chunking in Expert Memory: From Chase & Simon to Modern Cognitive Science
+- The Specificity of Skill Transfer: Complete Empirical Survey
+
+## Reading & Literacy — Deep-Dive Targets
+- The Simple View of Reading: Complete Theoretical and Empirical Treatment
+- Phonemic Awareness Development: Complete Research Survey
+- The Matthew Effect in Reading (Stanovich): Complete Empirical Treatment
+- Eye-Tracking Studies of Reading: What They Reveal About Comprehension
+- The Dual-Route Model of Word Recognition: Complete Treatment
+- Lexical Quality Hypothesis (Perfetti): Complete Theoretical and Empirical Survey
+- The Construction-Integration Model of Reading Comprehension (Kintsch)
+
+## Language Learning — Deep-Dive Targets
+- The Complete Research Record on the Critical Period Hypothesis
+- Spaced Repetition Algorithms in Language Learning: Comparative Technical Treatment
+- Lexical Frequency and Vocabulary Acquisition: Complete Research Survey
+- The Interaction Hypothesis (Long): Complete Theoretical and Empirical Treatment
+- Output Hypothesis (Swain): Complete Treatment
+- L1 Transfer in L2 Acquisition: Complete Research Survey
+
+## Mathematics & STEM Learning — Deep-Dive Targets
+- Productive Failure (Kapur): Complete Research Program Treatment
+- Cognitive Load in Mathematics Problem Solving: Complete Treatment
+- The Worked Example Effect in Mathematics: Complete Empirical Survey
+- Conceptual Change in Physics Education: Complete Research Treatment
+- The Misconceptions Research Program in Science Education
+- Number Line Estimation and Mathematical Cognition
+
+## Decision Making — Deep-Dive Targets
+- Prospect Theory (Kahneman & Tversky): Complete Mathematical and Empirical Treatment
+- Calibration of Probability Judgments: Complete Research Survey
+- The Good Judgment Project: Complete Methodology and Findings
+- Bayesian Reasoning in Naive Subjects: Complete Empirical Survey
+- The Recognition Heuristic (Gigerenzer): Complete Treatment
+- Naturalistic Decision Making (Klein): Complete Theoretical and Empirical Treatment
+
+## AI & LLMs in Knowledge Work — Deep-Dive Targets
+- Retrieval-Augmented Generation Architecture: Complete Technical Treatment
+- Chain-of-Thought Prompting: Complete Research Survey of Mechanisms and Limits
+- Constitutional AI (Anthropic): Complete Technical and Conceptual Treatment
+- The Transformer Architecture: Complete Technical Reference for Educators
+- Embeddings and Semantic Search in Knowledge Bases: Complete Treatment
+- Fine-Tuning vs. RAG vs. Long Context: Complete Comparative Technical Analysis
+- LLM Hallucination: Mechanisms, Detection, and Mitigation — Complete Treatment
+- Prompt Engineering Patterns: Complete Catalog and Mechanisms
+- Vector Databases for Personal Knowledge: Complete Technical Reference
+- AI Coding Assistants (Copilot, Cursor, Claude Code): Complete Technical and Practical Treatment
+- Local LLM Deployment for PKM: Complete Technical Treatment
+- Tool-Use and Agentic LLMs: Complete Technical Reference
+
+## Productivity & Knowledge Work — Deep-Dive Targets
+- Deep Work (Newport): Complete Theoretical and Empirical Treatment
+- Attention Residue Research (Leroy): Complete Empirical Survey
+- The Pomodoro Technique: Complete Research and Methodological Treatment
+- The Eisenhower Matrix and Prioritization Frameworks: Complete Treatment
+- GTD (Getting Things Done): Complete Methodological Treatment with Empirical Status
+- Meeting Cognition: The Research Record on Meeting Effectiveness
+- Email and Cognitive Load: Complete Research Survey
+
+## Self-Regulated Learning — Deep-Dive Targets
+- Zimmerman's Self-Regulated Learning Model: Complete Theoretical and Empirical Treatment
+- The Forethought–Performance–Self-Reflection Cycle: Complete Treatment
+- Metacognitive Calibration in Self-Regulated Learning: Complete Survey
+- Help-Seeking Behavior in Learning: Complete Research Survey
+- Self-Explanation as a Learning Strategy: Complete Empirical Treatment
+
+## Mental Health, Stress, & Learning — Deep-Dive Targets
+- The HPA Axis and Learning: Complete Neuroendocrine Treatment
+- Stereotype Threat: Complete Research Record and Replication Status
+- Test Anxiety: Complete Theoretical and Empirical Treatment
+- Burnout in Students: Complete Research Survey (Maslach Burnout Inventory and Beyond)
+- Mindfulness-Based Stress Reduction in Educational Contexts: Complete Treatment
+- Self-Compassion (Neff) in Academic Contexts: Complete Empirical Survey
+
+## Note-Taking & PKM Tools — Narrow Technical Targets
+- Templater Plugin in Obsidian: Complete Technical Reference
+- QuickAdd Plugin in Obsidian: Complete Technical Reference
+- Meta-Bind Plugin in Obsidian: Complete Technical Reference
+- The Tasks Plugin Ecosystem in Obsidian: Complete Technical Treatment
+- Excalidraw in Obsidian for Visual Note-Taking: Complete Treatment
+- Obsidian's Bases System (Native Database): Complete Technical Reference
+- Anki's FSRS Algorithm: Complete Technical Treatment
+- Hypothesis Web Annotation: Complete Technical and Workflow Treatment
+- Markdown LSP and Editing Infrastructure: Complete Technical Reference
+- Pandoc for Knowledge Pipeline Conversion: Complete Reference
+
+## Cognitive Science — Additional Deep-Dive Targets
+- The Construction-Integration Model of Comprehension (Kintsch): Complete Treatment
+- ACT-R Cognitive Architecture (Anderson): Complete Technical Reference
+- The Common Coding Theory of Perception and Action: Complete Treatment
+- Predictive Processing in Learning: Complete Theoretical and Empirical Treatment
+- The Adaptive Toolbox (Gigerenzer): Complete Theoretical Treatment
 
 ---
 
