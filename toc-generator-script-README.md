@@ -1,0 +1,77 @@
+# Python Script Running Commands
+
+python 99-scripts/obsidian_toc.py "D:\10_pur3v4d3r's-vault\metadata-template.md" --execute
+
+# TOC Generator for Obsidian Notes
+
+Script Location -> `D:\10_pur3v4d3r's-vault\99-scripts\obsidian_toc.py`
+
+## Run Commands for obsidian_toc.py
+
+All commands assume you're in the vault root (10_pur3v4d3r's-vault) with the venv active.
+
+### 1. Preview (dry-run, safe — no changes)
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md"
+```
+
+### 2. Apply the TOC (writes to file, creates `.bak`)
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md" --execute
+```
+
+### 3. Full-feature command (every flag, with sensible values)
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md" \
+  --execute \
+  --min-depth 2 \
+  --max-depth 4 \
+  --skip-h1 \
+  --style alias \
+  --heading "## 📑 Table of Contents"
+```
+
+### 4. Common variants
+
+**Compact TOC — H2 and H3 only, no backup:**
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md" --execute --max-depth 3 --no-backup
+```
+
+**Aliased wiki-links (cleaner display in reading mode):**
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md" --execute --style alias
+```
+
+**GitHub-compatible anchors (for files also viewed on GitHub):**
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md" --execute --style anchor
+```
+
+**No "Table of Contents" heading above the list:**
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md" --execute --heading ""
+```
+
+**Insert TOC immediately after frontmatter (skip the H1-anchor):**
+```bash
+python 99-scripts/obsidian_toc.py "path/to/your-note.md" --execute --no-h1-insert
+```
+
+### 5. Batch run — apply to every `.md` in a folder
+```bash
+find "02-projects" -name "*.md" -exec python 99-scripts/obsidian_toc.py {} --execute --max-depth 3 \;
+```
+
+### 6. Quick reference — all flags
+| Flag | Default | Purpose |
+|---|---|---|
+| `--execute` | off (dry-run) | Actually write the file |
+| `--no-backup` | backup on | Skip the `.YYYYMMDD-HHMMSS.bak` file |
+| `--min-depth N` | `2` | Lowest heading level to include |
+| `--max-depth N` | `6` | Highest heading level to include |
+| `--skip-h1` / `--include-h1` | skip | Exclude/include the document's H1 |
+| `--no-h1-insert` | off | Place TOC right after frontmatter |
+| `--style {wiki,alias,anchor}` | `wiki` | Link syntax (Obsidian-native, aliased, or GitHub) |
+| `--heading "..."` | `## 📑 Table of Contents` | Heading shown above the TOC (`""` to omit) |Continued with Autopilot: Task not yet completeProvided ready-to-run command examples for obsidian_toc.py, covering dry-run, full-execute, every flag, common variants, batch processing, and a complete flag reference table. 
+
