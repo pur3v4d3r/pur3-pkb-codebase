@@ -1,3 +1,124 @@
+---
+title: Running Python Scripts in VS Code — Complete Guide
+aliases:
+  - Python Development in VS Code
+  - VS Code Python Execution Guide
+  - Python Scripts VS Code
+  - VS Code Python Interpreter Setup
+  - Python Debugging in VS Code
+type: reference-note
+status: evergreen
+confidence: high
+
+tags:
+  - reference-note
+  - software-development/python/tools
+  - software-development/ides/vscode
+  - technical/tutorial
+  - guide
+  - intermediate-advanced
+
+domain:
+  - software-development
+  - python-development
+  - ide-productivity
+
+frameworks:
+  - VS Code
+  - Python
+  - Pylance
+  - Debugpy
+
+tools-covered:
+  - pytest
+  - ruff
+  - mypy
+  - Pylance
+  - black
+  - isort
+
+created: 2026-04-21
+updated: 2026-04-21
+
+audience:
+  - python-developers
+  - vscode-users
+
+complexity: intermediate-to-advanced
+
+key-concepts:
+  - Python interpreter selection
+  - Virtual environments (.venv)
+  - Script execution methods
+  - Debugging with breakpoints
+  - Testing integration (pytest)
+  - Terminal automation
+  - PYTHONPATH configuration
+  - Code quality (linting, formatting)
+  - Remote development
+  - Performance profiling
+
+related:
+  - "[[Python Development Workflows]]"
+  - "[[VS Code Configuration Best Practices]]"
+  - "[[Testing Strategies in Python]]"
+  - "[[Debugging Techniques]]"
+  - "[[Environment Variable Management]]"
+
+prerequisites:
+  - "[[Python Fundamentals]]"
+  - "[[VS Code Basics]]"
+  - "[[Command Line Essentials]]"
+
+see-also:
+  - "[[Virtual Environment Management]]"
+  - "[[Pytest Framework Guide]]"
+  - "[[Code Quality Tools (Ruff, Black, Mypy)]]"
+  - "[[Remote Development with VS Code]]"
+
+broader:
+  - "[[Python Development Tools]]"
+  - "[[IDE Mastery]]"
+  - "[[Developer Productivity]]"
+
+narrower:
+  - "[[Debugging Python Code]]"
+  - "[[Pytest Testing Setup]]"
+  - "[[VS Code Task Automation]]"
+  - "[[Python Code Quality Tools]]"
+
+use-cases:
+  - reference/lookup
+  - learning/onboarding
+  - troubleshooting
+  - workflow-optimization
+
+sections-covered:
+  - environment-setup
+  - interpreter-management
+  - script-execution
+  - debugging
+  - testing
+  - terminal-productivity
+  - automation
+  - code-quality
+  - remote-development
+  - performance-analysis
+  - troubleshooting
+
+last-updated-reason: Initial metadata generation for PKB integration
+---
+
+
+
+
+
+
+
+
+
+
+
 # Running Python Scripts in VS Code — Complete Guide
 
 ## Foundation: Setting Up Your Environment

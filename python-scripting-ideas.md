@@ -1,3 +1,106 @@
+---
+title: Python PKB Scripting Ideas Backlog
+aliases:
+  - Python Scripting Ideas
+  - Vault Automation Scripts
+  - PKB Script Collection
+  - Obsidian Python Automation
+  - Script Backlog
+  - Python Automation Checklist
+type: reference-note
+status: evergreen
+confidence: high
+
+tags:
+  - reference-note
+  - knowledge-management/automation
+  - knowledge-management/pkb-systems
+  - python/scripting
+  - obsidian/automation
+  - vault-management
+  - technical/tooling
+  - collection/backlog
+
+domain:
+  - knowledge-management
+  - software-automation
+  - python-development
+
+created: 2026-04-21
+updated: 2026-04-21
+
+# Content Scope
+scope: Comprehensive backlog of 100+ Python automation scripts for Obsidian vault and PKB management
+script-categories: 16
+total-scripts: 100+
+organization: Categorical (16 major domains)
+
+# Purpose & Use Case
+use-case:
+  - development-planning
+  - feature-discovery
+  - automation-reference
+  - task-tracking
+
+# Related Concepts
+related:
+  - "[[Obsidian-Automation]]"
+  - "[[Python-Scripting]]"
+  - "[[Vault-Organization]]"
+  - "[[Metadata-Management]]"
+  - "[[Knowledge-Graph-Construction]]"
+  - "[[PKM-Systems]]"
+
+prerequisites:
+  - "[[Python-Fundamentals]]"
+  - "[[File-System-Operations]]"
+  - "[[Markdown-Format]]"
+  - "[[YAML-Configuration]]"
+
+see-also:
+  - "[[Obsidian-Plugins]]"
+  - "[[Dataview-Queries]]"
+  - "[[Templater-Automation]]"
+  - "[[Script-Organization]]"
+
+# Script Categories Covered
+categories:
+  - Vault Structure & Organisation (11 scripts)
+  - Link Intelligence (11 scripts)
+  - Frontmatter & Metadata (12 scripts)
+  - Knowledge Analysis & Intelligence (11 scripts)
+  - Export & Publishing (11 scripts)
+  - External Integrations (14 scripts)
+  - Flashcards & Spaced Repetition (6 scripts)
+  - Search & Retrieval (7 scripts)
+  - Content Quality Assurance (9 scripts)
+  - Task & Project Management (6 scripts)
+  - Git & Version Control (5 scripts)
+  - Visualisation & Reporting (8 scripts)
+  - Workflow Automation (9 scripts)
+  - NLP & AI-Augmented (9 scripts)
+  - Developer & Toolchain Utilities (9 scripts)
+
+# Dataview Query Support
+can-be-filtered-by:
+  - domain
+  - script-category
+  - complexity
+  - external-dependencies
+  - automation-type
+---
+
+
+
+
+
+
+
+
+
+
+
+
 # Python PKB Scripting Ideas
 
 
@@ -6,22 +109,23 @@
 ## Table of Contents
 
 - [Python PKB Scripting Ideas](#python-pkb-scripting-ideas)
-  - [📄 Existing (Original List)](#existing-original-list)
-  - [🏗️ Vault Structure & Organisation](#vault-structure-organisation)
-  - [🔗 Link Intelligence](#link-intelligence)
-  - [🏷️ Frontmatter & Metadata](#frontmatter-metadata)
-  - [🧠 Knowledge Analysis & Intelligence](#knowledge-analysis-intelligence)
-  - [📤 Export & Publishing](#export-publishing)
-  - [🔌 External Integrations](#external-integrations)
-  - [🃏 Flashcards & Spaced Repetition](#flashcards-spaced-repetition)
-  - [🔍 Search & Retrieval](#search-retrieval)
-  - [🛠️ Content Quality Assurance](#content-quality-assurance)
-  - [🗂️ Task & Project Management](#task-project-management)
-  - [🔄 Git & Version Control](#git-version-control)
-  - [📊 Visualisation & Reporting](#visualisation-reporting)
-  - [⚙️ Workflow Automation](#workflow-automation)
-  - [🔬 NLP & AI-Augmented](#nlp-ai-augmented)
-  - [🧰 Developer & Toolchain Utilities](#developer-toolchain-utilities)
+  - [Table of Contents](#table-of-contents)
+  - [📄 Existing (Original List)](#-existing-original-list)
+  - [🏗️ Vault Structure \& Organisation](#️-vault-structure--organisation)
+  - [🔗 Link Intelligence](#-link-intelligence)
+  - [🏷️ Frontmatter \& Metadata](#️-frontmatter--metadata)
+  - [🧠 Knowledge Analysis \& Intelligence](#-knowledge-analysis--intelligence)
+  - [📤 Export \& Publishing](#-export--publishing)
+  - [🔌 External Integrations](#-external-integrations)
+  - [🃏 Flashcards \& Spaced Repetition](#-flashcards--spaced-repetition)
+  - [🔍 Search \& Retrieval](#-search--retrieval)
+  - [🛠️ Content Quality Assurance](#️-content-quality-assurance)
+  - [🗂️ Task \& Project Management](#️-task--project-management)
+  - [🔄 Git \& Version Control](#-git--version-control)
+  - [📊 Visualisation \& Reporting](#-visualisation--reporting)
+  - [⚙️ Workflow Automation](#️-workflow-automation)
+  - [🔬 NLP \& AI-Augmented](#-nlp--ai-augmented)
+  - [🧰 Developer \& Toolchain Utilities](#-developer--toolchain-utilities)
 
 <!-- TOC END -->
 

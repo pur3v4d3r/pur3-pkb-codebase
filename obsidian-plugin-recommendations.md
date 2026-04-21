@@ -1,3 +1,74 @@
+---
+title: Recommended Obsidian Plugins for Visual Report Enhancement
+aliases:
+  - Obsidian Plugin Guide
+  - Visual Report Plugins
+  - Plugin Recommendations
+  - Plugin Tier System
+  - Obsidian Plugin Installation Guide
+type: reference-note
+status: evergreen
+confidence: high
+
+tags:
+  - reference-note
+  - obsidian/plugins
+  - knowledge-management/pkb-systems
+  - visual-enhancement/charts-and-diagrams
+  - guide/installation
+  - obsidian/visualization
+
+domain: knowledge-management
+created: 2026-04-21
+updated: 2026-04-21
+
+scope: Comprehensive plugin recommendations organized by installation tier (Essential, Highly Recommended, Specialized)
+tier-count: 3
+plugins-covered: 11
+plugin-categories:
+  - charting-and-visualization
+  - knowledge-graph-visualization
+  - diagram-tools
+  - project-management
+  - table-editing
+  - mapping
+  - theming
+
+use-case:
+  - plugin-selection
+  - visual-report-creation
+  - obsidian-setup
+  - feature-discovery
+
+essential-plugins:
+  - obsidian-charts
+  - obsidian-markmap
+  - dataview
+
+highly-recommended:
+  - obsidian-excalidraw-plugin
+  - obsidian-leaflet-plugin
+  - obsidian-kanban
+
+related:
+  - "[[Obsidian Vault Architecture]]"
+  - "[[Knowledge Management Systems]]"
+  - "[[Visual Diagramming Techniques]]"
+  - "[[PKB Metadata Systems]]"
+  - "[[Report Generation Workflows]]"
+
+see-also:
+  - "[[Mermaid Diagram Types]]"
+  - "[[Dataview Query Patterns]]"
+  - "[[Obsidian Themes and Customization]]"
+
+installation-checklist: true
+compatibility-matrix: true
+tier-system: true
+---
+
+
+
 # Recommended Obsidian Plugins for Visual Report Enhancement
 
 ## Plugin Tier System

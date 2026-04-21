@@ -1,3 +1,121 @@
+---
+# DOCUMENT IDENTIFICATION
+
+doc_id: "PERM-CTMSR-2026-02-01"
+doc_type: "Permanent Note"
+doc_created: "2026-02-01"
+doc_modified: "2026-04-21"
+author: "GitHub Copilot"
+
+# CLASSIFICATION & DISCOVERY
+primary_domain: "Cognitive Psychology"
+secondary_domains:
+  - "Educational Psychology"
+  - "Applied Epistemology"
+  - "Learning Science"
+discovery_terms:
+  - "critical thinking"
+  - "metacognitive self-regulation"
+  - "PENCRISAL"
+  - "MAI"
+  - "epistemic vigilance"
+knowledge_level: "In-depth technical analysis with practical synthesis"
+tags:
+  - "#cognitive-psychology"
+  - "#metacognition"
+  - "#critical-thinking"
+  - "#self-regulated-learning"
+  - "#reference-note"
+
+# QUALITY & STATUS
+status: "evergreen"
+maturity: "highly developed"
+confidence: "high"
+
+# REASONING ARCHITECTURE
+reasoning_tier: "Tier 3: Synthesis and Innovation"
+reasoning_methods:
+  - "Deductive reasoning"
+  - "Inductive reasoning"
+  - "Comparative analysis"
+  - "Framework synthesis"
+reasoning_technique: "Comparative synthesis with operational protocol design"
+
+# EPISTEMIC & VALIDATION
+epistemic_status: "well-established with active areas of theoretical refinement"
+validation_methods:
+  - "Empirical evidence"
+  - "Psychometric validation"
+  - "Cross-framework comparison"
+  - "Logical consistency"
+test_coverage: "Comprehensive literature-grounded synthesis"
+validation_results: "Consistent with established metacognition, transfer, and critical thinking literature; limitations and contested areas are explicitly noted."
+validation_date: "2026-04-21"
+factual_verification: "Partially verified"
+hallucination_check: false
+
+# SOURCE & ATTRIBUTION
+source: "Academic synthesis based on cognitive psychology and education research"
+based_on_prompts:
+  - "Define the core architecture of critical thinking as metacognitive self-regulation."
+  - "Integrate PENCRISAL, MAI, and epistemic vigilance into a single practical framework."
+  - "Explain how transfer of learning affects critical thinking deployment in real contexts."
+
+# KNOWLEDGE GRAPH INTEGRATION
+related_concepts:
+  - "[[metacognition]]"
+  - "[[PENCRISAL Assessment Framework]]"
+  - "[[Metacognitive-Awareness-Inventory]]"
+  - "[[epistemic-vigilance]]"
+  - "[[transfer-of-learning]]"
+
+prerequisites:
+  - "[[introduction-to-critical-thinking]]"
+  - "[[Metacognition Fundamentals]]"
+  - "[[Basic Argument Analysis]]"
+  - "[[Logical Reasoning Foundations]]"
+
+builds_on:
+  - "[[foundational-logic]]"
+  - "[[cognitive-development-theory]]"
+  - "[[information-processing-models]]"
+
+extends:
+  - "[[Advanced Reasoning Techniques]]"
+  - "[[Debiasing-Interventions]]"
+  - "[[Metacognitive Instruction Design]]"
+
+# ALIASES & LINKING
+aliases:
+  - "Critical Thinking Deployment"
+  - "Metacognitive Self-Regulation in Reasoning"
+  - "Applied Critical Thinking Framework"
+  - "CT-MSR Framework"
+
+link_up: "[[cognitive-psychology]]"
+link_down: "[[Metacognitive Monitoring Protocols]]"
+link_related:
+  - "[[self-regulated-learning]]"
+  - "[[Decision-Making-Under-Uncertainty]]"
+  - "[[Cognitive Biases and Debiasing]]"
+
+# ADDITIONAL METADATA
+summary: "This note synthesizes critical thinking and metacognitive self-regulation into a practical framework that integrates PENCRISAL, MAI, transfer research, and epistemic vigilance for real-world reasoning improvement."
+keywords:
+  - "critical thinking"
+  - "metacognition"
+  - "self-regulation"
+  - "PENCRISAL"
+  - "MAI"
+  - "transfer of learning"
+  - "epistemic vigilance"
+
+---
+
+
+
+
+
 
 # PKB Metadata Template
 This final section is a YAML Metadata template that should be included at the beginning of each report.
