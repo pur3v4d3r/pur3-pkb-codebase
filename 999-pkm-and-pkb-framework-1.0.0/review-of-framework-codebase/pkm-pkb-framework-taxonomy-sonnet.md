@@ -99,8 +99,8 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 #### 3.2 Self-Regulated Learning
 - **[[self-regulated-learning]]** (SRL) — Metacognitively guided, motivationally active, behaviorally engaged learning (Zimmerman) [Reports 04, 12]
   - [[zimmerman-srl-model]] — Three-phase cycle: Forethought → Performance → Self-Reflection [Reports 04, 12]
-  - [[Monitoring-Control Loop]] — Core mechanism of self-regulation [Report 04]
-- **[[Implementation-Intentions]]** — If-then plans that automate intention-to-behavior conversion (Gollwitzer) [Report 12]
+  - [[monitoring-control-loop]] — Core mechanism of self-regulation [Report 04]
+- **[[implementation-intentions]]** — If-then plans that automate intention-to-behavior conversion (Gollwitzer) [Report 12]
 - **[[Structural-Metacognition-Principle]]** — Monitoring requires structural embedding, not just intention [Report 12] ***ORIGINAL SYNTHESIS***
 
 #### 3.3 Reflective Practice
@@ -158,7 +158,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 - **[[self-determination-theory]]** (SDT) — Autonomous motivation requires satisfaction of Autonomy, Competence, and Relatedness needs (Deci & Ryan) [Reports 05, 24]
 - **[[achievement-goal-theory]]** — Mastery-approach vs. performance-approach vs. performance-avoidance goals (Elliot, Dweck) [Reports 05, 13]
-- **[[Mindset Theory]]** — Growth mindset (intelligence is developable) vs. fixed mindset (Dweck) [Reports 05, 13]
+- **[[Mindset-Theory]]** — Growth mindset (intelligence is developable) vs. fixed mindset (Dweck) [Reports 05, 13]
 - **[[intrinsic-motivation]]** — Motivation arising from inherent interest or enjoyment; most durable [Reports 05, 13, 19]
 - **[[habit-formation]]** — Neural pathway formation through cue-routine-reward repetition [Reports 12, 19, 29]
 
@@ -235,7 +235,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 | [[expertise-reversal-effect]] | CLT | Dreyfus Model | Cognitive architecture ↔ phenomenology |
 | [[Weak Ties]] | Network Science | Transfer of Learning | Bridge notes ↔ variable encoding |
 | [[habit-formation]] | Behavioral Science | Virtue Epistemology | Character as neural pathway |
-| [[Implementation-Intentions]] | Behavioral Science | Metacognition | Bridging knowing to doing |
+| [[implementation-intentions]] | Behavioral Science | Metacognition | Bridging knowing to doing |
 
 ---
 

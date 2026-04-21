@@ -407,7 +407,7 @@ modified: 2025-12-14
 status: evergreen
 certainty: confident
 type: reference
-related: [[cognitive-load-theory]], [[Depth of Processing Theory]], [[working-memory]], [[zettelkasten]], [[Atomic-Notes]], [[Knowledge Graph Architecture]]
+related: [[cognitive-load-theory]], [[Depth of Processing Theory]], [[working-memory]], [[zettelkasten]], [[atomic-notes]], [[Knowledge Graph Architecture]]
 
 ---
 
@@ -439,7 +439,7 @@ The progressive summarization method operationalizes this theoretical insight by
 
 ### Working Memory Constraints and External Cognition
 
-The necessity for progressive rather than immediate comprehensive processing stems directly from [[cognitive-load-theory]] and [[working-memory]] architecture. <span style='color: #FF5700;'>George Miller's (1956)</span> classic finding that working memory capacity hovers around 7±2 chunks, later refined by <span style='color: #FF5700;'>Cowan (2001)</span> to approximately 4 chunks, establishes fundamental limits on simultaneous information processing. Attempting to fully process, connect, and formalize knowledge at the moment of capture overwhelms working memory, leading to [[Cognitive Overload]] and shallow encoding despite substantial effort.
+The necessity for progressive rather than immediate comprehensive processing stems directly from [[cognitive-load-theory]] and [[working-memory]] architecture. <span style='color: #FF5700;'>George Miller's (1956)</span> classic finding that working memory capacity hovers around 7±2 chunks, later refined by <span style='color: #FF5700;'>Cowan (2001)</span> to approximately 4 chunks, establishes fundamental limits on simultaneous information processing. Attempting to fully process, connect, and formalize knowledge at the moment of capture overwhelms working memory, leading to [[Cognitive-Overload]] and shallow encoding despite substantial effort.
 
 > [!analogy] Mining for Gold: The Progressive Refinement Metaphor
 > Progressive summarization mirrors mineral extraction processes. <span style='color: #9E6CD3;'>The first pass removes obvious debris (dirt)</span>—capturing raw material without judgment. <span style='color: #FFC700;'>The second pass identifies ore-bearing rock (highlighting)</span>—distinguishing potentially valuable content from pure filler. <span style='color: #27FF00;'>The third pass extracts precious metal (bolding key insights)</span>—isolating the highest-concentration deposits. <span style='color: #FF00DC;'>The final pass refines into pure gold (atomic notes)</span>—transforming raw ore into finished product. Each iteration increases density while reducing volume, and <span style='color: #72FFF1;'>critically, no single step attempts to accomplish the entire transformation</span>.
@@ -545,7 +545,7 @@ This layer represents the transition from <span style='color: #9E6CD3;'>**inform
 
 %%extract-atomic: Progressive Summarization Layer 5%%
 
-While Forte's original framework describes four layers, <span style='color: #72FFF1;'>**a fifth implicit layer emerges when progressive summarization integrates with [[zettelkasten]] methodology**</span>: the transformation of executive summaries into standalone [[Atomic-Notes]] that enter the permanent knowledge graph. This final step represents full [[Incremental Formalization]]—rough highlights crystallize into precise, interconnected knowledge atoms with explicit relationships, prerequisite structures, and integration into broader conceptual frameworks.
+While Forte's original framework describes four layers, <span style='color: #72FFF1;'>**a fifth implicit layer emerges when progressive summarization integrates with [[zettelkasten]] methodology**</span>: the transformation of executive summaries into standalone [[atomic-notes]] that enter the permanent knowledge graph. This final step represents full [[Incremental Formalization]]—rough highlights crystallize into precise, interconnected knowledge atoms with explicit relationships, prerequisite structures, and integration into broader conceptual frameworks.
 
 [**Atomic-Note-Distillation**:: The process of extracting core concepts from progressively summarized notes into standalone notes that: (a) focus on a single idea, (b) are written in your own words, (c) are highly linked to related concepts, and (d) are tagged/metadata-enriched for discoverability. This represents the endpoint of incremental formalization where informal captures become formalized knowledge structures.]
 
@@ -609,7 +609,7 @@ At Layer 1, you're working entirely in the author's linguistic space. By Layer 4
 
 %%mental-model: Zettelkasten%%
 
-The ultimate formalization step—creating [[Atomic-Notes]] within a [[Knowledge-Graph]]—depends critically on <span style='color: #72FFF1;'>**explicit relationship encoding through bidirectional links**</span>. Progressive summarization identifies what to formalize; <span style='color: #FFC700;'>**bidirectional linking specifies how formalized concepts interconnect**</span>.
+The ultimate formalization step—creating [[atomic-notes]] within a [[Knowledge-Graph]]—depends critically on <span style='color: #72FFF1;'>**explicit relationship encoding through bidirectional links**</span>. Progressive summarization identifies what to formalize; <span style='color: #FFC700;'>**bidirectional linking specifies how formalized concepts interconnect**</span>.
 
 [**Bidirectional-Linking**:: The practice of creating explicit, navigable connections between notes such that links are visible and traversable in both directions (A→B and B→A). In tools like [[obsidian]], [[Roam Research]], and [[Logseq]], bidirectional links automatically create backlinks, enabling discovery of relationships from either node. This contrasts with traditional hierarchical organization where relationships are implicit in folder structure.]
 
@@ -1018,11 +1018,11 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Depth Potential:** Would cover [[Graph Theory]] applied to PKM, [[Semantic-Networks]] in cognitive science, practical linking strategies (hub-and-spoke, rhizomatic, hierarchical-hybrid), and tools/techniques for visualizing and navigating knowledge graphs. Could include case studies of high-functioning PKBs showing different architectural patterns.
 
-**Knowledge Graph Role:** Extends [[Progressive-Summarization]] and [[Atomic-Notes]] into [[Knowledge Graph Architecture]], [[Graph Theory Applications]], [[Network Science]], and [[Information-Architecture]]. Represents the "so what now?" after you've extracted hundreds of atomic notes—how do you organize them for discovery, connection-making, and emergent insight?
+**Knowledge Graph Role:** Extends [[Progressive-Summarization]] and [[atomic-notes]] into [[Knowledge Graph Architecture]], [[Graph Theory Applications]], [[Network Science]], and [[Information-Architecture]]. Represents the "so what now?" after you've extracted hundreds of atomic notes—how do you organize them for discovery, connection-making, and emergent insight?
 
 **Priority:** Medium-High — Critical for anyone who's successfully built atomic note collection and now faces organization challenges. Represents the natural maturation point of a PKB system from individual notes to interconnected network.
 
-**Prerequisites:** [[Progressive-Summarization]], [[Atomic-Notes]], [[zettelkasten]], [[Bidirectional Linking]], basic [[Graph Theory Concepts]]
+**Prerequisites:** [[Progressive-Summarization]], [[atomic-notes]], [[zettelkasten]], [[Bidirectional Linking]], basic [[Graph Theory Concepts]]
 
 ---
 

@@ -484,11 +484,11 @@ The literature note functions as a processing waystation. Raw annotations and hi
 
 Template design matters considerably. Your literature note template should prompt the cognitive operations that produce deep understanding. Consider including: a field for one-sentence synthesis of the source's main contribution; prompts for identifying strengths and limitations; explicit space for connecting to previous reading; and fields for tracking whether processing is complete.
 
-The relationship between literature notes and [[Atomic-Notes]] (or [[Permanent-Notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.
+The relationship between literature notes and [[atomic-notes]] (or [[Permanent-Notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.
 
 ### Atomic Notes: The Knowledge Graph Foundation
 
-[[Atomic-Notes]] represent the fundamental building blocks of PKB architecture. Each atomic note captures a single concept, claim, or insight in your own words, densely linked to related concepts. The term "atomic" emphasizes indivisibility—each note contains one and only one idea, expressed completely enough to stand alone.
+[[atomic-notes]] represent the fundamental building blocks of PKB architecture. Each atomic note captures a single concept, claim, or insight in your own words, densely linked to related concepts. The term "atomic" emphasizes indivisibility—each note contains one and only one idea, expressed completely enough to stand alone.
 
 The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[george-miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.
 

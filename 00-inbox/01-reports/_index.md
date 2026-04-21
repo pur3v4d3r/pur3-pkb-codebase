@@ -446,7 +446,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Elements of Reasoning*, *Structures of Thought*
 
-**Links to:** [[Academic Writing]] · [[Analytical-Thinking]] · [[Applied-Ethics]] · [[argument-analysis]] · [[Argumentation]] · [[Assumptions]] · [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]] · [[cognitive-psychology]] · [[Concepts]] · [[critical-thinking]] · [[decision-making]] · [[Dialectical Reasoning]] · [[epistemology]] · [[Ethical-Reasoning]] · [[Evidence-Based Argumentation]] · [[Experimental-Design]] · [[Hermeneutics]] · [[Heuristics-and-Biases]] · [[Historical-Interpretation]] · [[Hypothesis-Testing]]
+**Links to:** [[Academic Writing]] · [[Analytical-Thinking]] · [[Applied-Ethics]] · [[argument-analysis]] · [[Argumentation]] · [[Assumptions]] · [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]] · [[cognitive-psychology]] · [[Concepts]] · [[critical-thinking]] · [[decision-making]] · [[Dialectical Reasoning]] · [[epistemology]] · [[Ethical-Reasoning]] · [[Evidence-Based Argumentation]] · [[Experimental-Design]] · [[Hermeneutics]] · [[heuristics-and-biases]] · [[Historical-Interpretation]] · [[Hypothesis-Testing]]
 *... and 36 more*
 
 **Content Features:** 54 headings · 36 callouts · 6 code blocks (mermaid, dataviewjs) · 📊 Dataview · ⚙️ Templater · 52 inline fields
@@ -569,7 +569,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Framework Mastery Paradox*, *Critical Thinking Framework Question*
 
-**Links to:** [[ACER Framework]] · [[Adaptive Expertise]] · [[Automaticity Hypothesis]] · [[Bloom's-Taxonomy]] · [[Circular Validation]] · [[cognitive-load-theory]] · [[cognitive-science]] · [[critical-thinking]] · [[Critical Thinking Ability]] · [[Critical-Thinking-Frameworks]] · [[Cultural Epistemologies: Non-Western Approaches to Reasoning and Judgment]] · [[Declarative-Knowledge]] · [[Dreyfus Model in Clinical Problem-Solving]] · [[Dreyfus Model of Skill Acquisition]] · [[Dual-Process Theories of Reasoning]] · [[dual-process-theory]] · [[Einstellung Effect]] · [[Expert-Novice Differences]] · [[expertise-development]] · [[Explicit-Knowledge]]
+**Links to:** [[ACER Framework]] · [[adaptive-expertise]] · [[Automaticity Hypothesis]] · [[Bloom's-Taxonomy]] · [[Circular Validation]] · [[cognitive-load-theory]] · [[cognitive-science]] · [[critical-thinking]] · [[Critical Thinking Ability]] · [[Critical-Thinking-Frameworks]] · [[Cultural Epistemologies: Non-Western Approaches to Reasoning and Judgment]] · [[Declarative-Knowledge]] · [[Dreyfus Model in Clinical Problem-Solving]] · [[Dreyfus Model of Skill Acquisition]] · [[Dual-Process Theories of Reasoning]] · [[dual-process-theory]] · [[Einstellung Effect]] · [[Expert-Novice Differences]] · [[expertise-development]] · [[Explicit-Knowledge]]
 *... and 21 more*
 
 **Content Features:** 31 headings · 8 callouts · 2 code blocks (dataviewjs) · 📊 Dataview · 11 external links
@@ -610,7 +610,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Socratic Questions*, *Socratic Inquiry*, *Systematic Questioning*, *Paul's Taxonomy of Questions*
 
-**Links to:** [[andragogy]] · [[aporia]] · [[argument-analysis]] · [[Assumption Analysis]] · [[Automatic Thoughts]] · [[autonomy]] · [[Banking Model of Education]] · [[Bloom's-Taxonomy]] · [[Clarification Questions]] · [[Cognitive-Apprenticeship]] · [[cognitive-biases]] · [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] · [[cognitive-psychology]] · [[cognitive-restructuring]] · [[cognitive-behavioral-therapy]] · [[Conceptual Confusion]] · [[confirmation-bias]] · [[Consequential Thinking]] · [[constructivist-learning-theory]] · [[critical-thinking]]
+**Links to:** [[andragogy]] · [[aporia]] · [[argument-analysis]] · [[Assumption Analysis]] · [[Automatic Thoughts]] · [[autonomy]] · [[Banking Model of Education]] · [[Bloom's-Taxonomy]] · [[Clarification Questions]] · [[cognitive-apprenticeship]] · [[cognitive-biases]] · [[Cognitive Biases and Debiasing Strategies - The Systematic Errors in Human Reasoning]] · [[cognitive-psychology]] · [[cognitive-restructuring]] · [[cognitive-behavioral-therapy]] · [[Conceptual Confusion]] · [[confirmation-bias]] · [[Consequential Thinking]] · [[constructivist-learning-theory]] · [[critical-thinking]]
 *... and 71 more*
 
 **Content Features:** 39 headings · 23 callouts · ⚙️ Templater · 10 external links
@@ -692,7 +692,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Research in PKB*, *PKB Research Workflow*
 
-**Links to:** [[Atomic-Notes]] · [[cognitive-load-theory]] · [[cognitive-science]] · [[Critical-Thinking-Frameworks]] · [[Dataview]] · [[Dataview-Plugin]] · [[distributed-cognition]] · [[george-miller]] · [[Knowledge-Graph-Theory]] · [[Literature Review Matrix Methods]] · [[Map of Content]] · [[Maps of Content]] · [[Mendeley]] · [[metacognition]] · [[Metacognitive Monitoring in Knowledge Work]] · [[Nick Milo]] · [[Niklas Luhmann]] · [[obsidian]] · [[Paperpile]] · [[Paul-Elder model]]
+**Links to:** [[atomic-notes]] · [[cognitive-load-theory]] · [[cognitive-science]] · [[Critical-Thinking-Frameworks]] · [[Dataview]] · [[Dataview-Plugin]] · [[distributed-cognition]] · [[george-miller]] · [[Knowledge-Graph-Theory]] · [[Literature Review Matrix Methods]] · [[Map of Content]] · [[Maps of Content]] · [[Mendeley]] · [[metacognition]] · [[Metacognitive Monitoring in Knowledge Work]] · [[Nick Milo]] · [[Niklas Luhmann]] · [[obsidian]] · [[Paperpile]] · [[Paul-Elder model]]
 *... and 26 more*
 
 **Content Features:** 32 headings · 14 callouts · 4 code blocks (dataviewjs) · 📊 Dataview · 4 external links
@@ -733,7 +733,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Research Synthesis in PKB*, *Lit Review Methods*
 
-**Links to:** [[Algorithmic Filtering]] · [[Appraisal Tool Templates]] · [[Atomic Concept Notes]] · [[Atomic-Notes]] · [[Attrition Bias]] · [[Backlink Counts]] · [[Backlinks]] · [[Better BibTeX]] · [[Bibliographic Metadata]] · [[Bidirectional Linking]] · [[Boolean Operators]] · [[CASP Assessment Template]] · [[Citation]] · [[Citation Distortion and Provenance Integrity in Knowledge Graphs]] · [[Citation Keys]] · [[Citation Management]] · [[Citation Plugin]] · [[Clinical Trial Registries]] · [[Conceptual Framework Development]] · [[Conceptual Networks]]
+**Links to:** [[Algorithmic Filtering]] · [[Appraisal Tool Templates]] · [[Atomic Concept Notes]] · [[atomic-notes]] · [[Attrition Bias]] · [[Backlink Counts]] · [[Backlinks]] · [[Better BibTeX]] · [[Bibliographic Metadata]] · [[Bidirectional Linking]] · [[Boolean Operators]] · [[CASP Assessment Template]] · [[Citation]] · [[Citation Distortion and Provenance Integrity in Knowledge Graphs]] · [[Citation Keys]] · [[Citation Management]] · [[Citation Plugin]] · [[Clinical Trial Registries]] · [[Conceptual Framework Development]] · [[Conceptual Networks]]
 *... and 88 more*
 
 **Content Features:** 42 headings · 4 callouts · 2 code blocks (dataview) · 📊 Dataview · 11 inline fields · 24 external links
@@ -775,7 +775,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *AI Agent Coordination System*, *LLM Librarian System,*, *AI Agent Coordination System: Implementation Guide*
 
-**Links to:** [[**AI Agent Coordination System: Implementation Guide**]] · [[AI Agent Coordination System: Implementation Guide]] · [[Agent-Capability-Development-Framework]] · [[Agent-Coordination-Patterns]] · [[Agentic-Prompt-Engineering-Workflows]] · [[Claude-Code]] · [[cognitive-load-theory]] · [[Cognitive-Load-Theory-Applied-to-AI-Coordination]] · [[Gemini-Code-Assist]] · [[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems]] · [[Multi-Modal Agent Coordination (Text + Vision + Code)]] · [[Note 1]] · [[Note 2]] · [[Note 3]] · [[obsidian-pkb-architecture]] · [[SPES]] · [[Sequential Prompt Engineering System]] · [[Session Memory Optimization Patterns]]
+**Links to:** [[**AI Agent Coordination System: Implementation Guide**]] · [[AI Agent Coordination System: Implementation Guide]] · [[Agent-Capability-Development-Framework]] · [[Agent-Coordination-Patterns]] · [[agentic-prompt-engineering-workflows]] · [[Claude-Code]] · [[cognitive-load-theory]] · [[Cognitive-Load-Theory-Applied-to-AI-Coordination]] · [[Gemini-Code-Assist]] · [[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems]] · [[Multi-Modal Agent Coordination (Text + Vision + Code)]] · [[Note 1]] · [[Note 2]] · [[Note 3]] · [[obsidian-pkb-architecture]] · [[SPES]] · [[Sequential Prompt Engineering System]] · [[Session Memory Optimization Patterns]]
 
 **Content Features:** 122 headings · 20 callouts · 64 code blocks (mermaid, tasks, yaml, markdown, dataviewjs) · 📊 Dataview · 2 inline fields
 
@@ -817,7 +817,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Progressive Summarization*, *Incremental Formalization*, *Layer-Based Note Processing*, *Forte Method*
 
-**Links to:** [[Adaptive Memory Theory]] · [[analysis]] · [[Atomic-Notes]] · [[Attention as Limited Resource]] · [[Automation Strategies]] · [[Bidirectional Linking]] · [[Bloom's-Taxonomy]] · [[Building-a-Second-Brain]] · [[chunking]] · [[cognitive-load-theory]] · [[Cognitive Load Theory and Instructional Design for PKM Systems]] · [[Cognitive Overload]] · [[comprehension]] · [[Computer Science]] · [[Dataview]] · [[Deep Processing Techniques]] · [[Depth of Processing Theory]] · [[elaborative-interrogation]] · [[Elaborative Interrogation as Progressive Technique]] · [[Evergreen-Notes]]
+**Links to:** [[Adaptive Memory Theory]] · [[analysis]] · [[atomic-notes]] · [[Attention as Limited Resource]] · [[Automation Strategies]] · [[Bidirectional Linking]] · [[Bloom's-Taxonomy]] · [[Building-a-Second-Brain]] · [[chunking]] · [[cognitive-load-theory]] · [[Cognitive Load Theory and Instructional Design for PKM Systems]] · [[Cognitive-Overload]] · [[comprehension]] · [[Computer Science]] · [[Dataview]] · [[Deep Processing Techniques]] · [[Depth of Processing Theory]] · [[elaborative-interrogation]] · [[Elaborative Interrogation as Progressive Technique]] · [[Evergreen-Notes]]
 *... and 70 more*
 
 **Content Features:** 48 headings · 19 callouts · 12 code blocks (dataview, javascript, dataviewjs, yaml) · 📊 Dataview · 21 inline fields · 6 external links
@@ -1122,7 +1122,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *prompt-engineering-001*, *Modular Prompt Decomposition*, *Modular Task Decomposition in Sequential Prompt Engineering*
 
-**Links to:** [[Actor-Network Theory]] · [[Adaptive Orchestration and Meta-Learning in Prompt Systems]] · [[Agile Development]] · [[Atomic-Notes]] · [[Cellular Manufacturing]] · [[Chain-of-Thought-Prompting]] · [[Chain-of-Thought Prompting Techniques]] · [[cognitive-load]] · [[Cognitive Load Management in Digital Knowledge Work]] · [[cognitive-load-theory]] · [[Constitutional-AI]] · [[Context Window Architectures and Memory Management]] · [[Ergonomics]] · [[extraneous-load]] · [[Few-Shot-Learning]] · [[germane-load]] · [[information-processing-theory]] · [[Information-Theory]] · [[instructional-design]] · [[Intrinsic-Load]]
+**Links to:** [[Actor-Network Theory]] · [[Adaptive Orchestration and Meta-Learning in Prompt Systems]] · [[Agile Development]] · [[atomic-notes]] · [[Cellular Manufacturing]] · [[Chain-of-Thought-Prompting]] · [[Chain-of-Thought Prompting Techniques]] · [[cognitive-load]] · [[Cognitive Load Management in Digital Knowledge Work]] · [[cognitive-load-theory]] · [[Constitutional-AI]] · [[Context Window Architectures and Memory Management]] · [[Ergonomics]] · [[extraneous-load]] · [[Few-Shot-Learning]] · [[germane-load]] · [[information-processing-theory]] · [[Information-Theory]] · [[instructional-design]] · [[Intrinsic-Load]]
 *... and 29 more*
 
 **Content Features:** 49 headings · 17 callouts · 11 code blocks (dataviewjs, tasks) · 📊 Dataview · 21 inline fields
@@ -1341,7 +1341,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Stoic Psychology Mechanisms*, *Stoic Cognitive Techniques*
 
-**Links to:** [[24-Hour News Cycle]] · [[aaron-beck]] · [[Abstract Construal]] · [[Abstract Reasoning]] · [[Acceptance]] · [[Acceptance-and-Commitment-Therapy]] · [[Adequate Sleep]] · [[Aerobic Exercise]] · [[Affective Neuroscience]] · [[Affective and Cognitive Neuroscience Lab]] · [[Agency]] · [[Albert Ellis]] · [[Amor-Fati]] · [[Amygdala]] · [[Ancient Philosophy]] · [[Anger]] · [[antifragility]] · [[Anxiety]] · [[Anxiety Disorders]] · [[Anxiety Spectrum Disorders]]
+**Links to:** [[24-Hour News Cycle]] · [[aaron-beck]] · [[Abstract Construal]] · [[Abstract Reasoning]] · [[Acceptance]] · [[Acceptance-and-Commitment-Therapy]] · [[Adequate Sleep]] · [[Aerobic Exercise]] · [[Affective Neuroscience]] · [[Affective and Cognitive Neuroscience Lab]] · [[Agency]] · [[Albert Ellis]] · [[Amor-Fati]] · [[Amygdala]] · [[Ancient Philosophy]] · [[Anger]] · [[antifragility]] · [[anxiety]] · [[Anxiety Disorders]] · [[Anxiety Spectrum Disorders]]
 *... and 193 more*
 
 **Content Features:** 21 headings · 20 callouts · 1 inline fields · 11 external links
@@ -1422,7 +1422,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *ACER Critical Thinking Framework*, *Australian Council for Educational Research Framework*
 
-**Links to:** [[ACER Framework]] · [[abductive-reasoning]] · [[Action Research]] · [[Adaptive Decision-Making]] · [[Adaptive Learning]] · [[Anchoring-Bias]] · [[Applied Problem-Solving]] · [[argument-analysis]] · [[Argument Analysis Notes]] · [[Argument Evaluation]] · [[Argument-Mapping]] · [[Argument Patterns]] · [[argumentation-theory]] · [[Assumption Detection]] · [[availability-heuristic]] · [[Bayesian-Reasoning]] · [[Bloom's-Taxonomy]] · [[Capture, Process, Connect]] · [[Categorical Thinking]] · [[Causal Analysis]]
+**Links to:** [[ACER Framework]] · [[abductive-reasoning]] · [[Action Research]] · [[Adaptive Decision-Making]] · [[adaptive-learning]] · [[Anchoring-Bias]] · [[Applied Problem-Solving]] · [[argument-analysis]] · [[Argument Analysis Notes]] · [[Argument Evaluation]] · [[Argument-Mapping]] · [[Argument Patterns]] · [[argumentation-theory]] · [[Assumption Detection]] · [[availability-heuristic]] · [[Bayesian-Reasoning]] · [[Bloom's-Taxonomy]] · [[Capture, Process, Connect]] · [[Categorical Thinking]] · [[Causal Analysis]]
 *... and 139 more*
 
 **Content Features:** 51 headings · 56 callouts · 4 code blocks (javascript, mermaid) · 📊 Dataview · 11 inline fields
@@ -1508,7 +1508,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *MCP Servers*, *MCP*, *MCP Reference*, *Model Context Protocol*, *AI Tool Protocol*, *Claude MCP*, *MCP Architecture*, *Comprehensive Refernece: MCP Servers*
 
-**Links to:** [[**Comprehensive Refernece: MCP Servers**]] · [[2025-04-05]] · [[AI-Agent-Architecture]] · [[AI Agent Gateway]] · [[AI Agent Orchestration]] · [[AI-Agents]] · [[AI-Augmented-Zettelkasten]] · [[ai-pkb-integration]] · [[API-Design-Patterns]] · [[API-Fundamentals]] · [[Async-Programming]] · [[Claude-Code]] · [[Claude-Code-Workflows]] · [[Claude-Desktop]] · [[Cognitive Engineering Stack]] · [[Cognitive Load Optimization]] · [[cognitive-load-theory]] · [[Comprehensive Refernece: MCP Servers]] · [[Context-Aware Prompting]] · [[Custom-MCP-Server-Development]]
+**Links to:** [[**Comprehensive Refernece: MCP Servers**]] · [[2025-04-05]] · [[AI-Agent-Architecture]] · [[AI Agent Gateway]] · [[AI Agent Orchestration]] · [[AI-Agents]] · [[AI-Augmented-Zettelkasten]] · [[ai-pkb-integration]] · [[API-Design-Patterns]] · [[API-Fundamentals]] · [[Async-Programming]] · [[Claude-Code]] · [[claude-code-workflows]] · [[Claude-Desktop]] · [[Cognitive Engineering Stack]] · [[Cognitive Load Optimization]] · [[cognitive-load-theory]] · [[Comprehensive Refernece: MCP Servers]] · [[Context-Aware Prompting]] · [[Custom-MCP-Server-Development]]
 *... and 49 more*
 
 **Content Features:** 120 headings · 95 callouts · 40 code blocks (json, mermaid, tasks, toc, bash, yaml, dataviewjs, typescript) · 📊 Dataview · 20 inline fields · 7 external links
@@ -1698,7 +1698,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Text Generator Plugin*, *Obsidian AI Assistant*
 
-**Links to:** [[<%= note.basename %>]] · [[<%= note.path %>]] · [[AI-Embeddings]] · [[API]] · [[API Concepts]] · [[API-Cost-Optimization-Strategies]] · [[Anthropic]] · [[Anthropic-API]] · [[Anthropic-Claude]] · [[Building-Custom-AI-Agents-in-Obsidian]] · [[ChatGPT]] · [[Claude]] · [[Claude-3.5-Sonnet]] · [[Claude-API]] · [[Claude-Projects]] · [[Claude.ai]] · [[cognitive-load]] · [[cognitive-load-theory]] · [[Cognitive-Load-Theory-and-PKB-Design]] · [[Dataview]]
+**Links to:** [[<%= note.basename %>]] · [[<%= note.path %>]] · [[AI-Embeddings]] · [[api]] · [[API Concepts]] · [[API-Cost-Optimization-Strategies]] · [[Anthropic]] · [[Anthropic-API]] · [[Anthropic-Claude]] · [[building-custom-ai-agents-in-obsidian]] · [[ChatGPT]] · [[Claude]] · [[Claude-3.5-Sonnet]] · [[Claude-API]] · [[Claude-Projects]] · [[Claude.ai]] · [[cognitive-load]] · [[cognitive-load-theory]] · [[cognitive-load-theory-and-pkb-design]] · [[Dataview]]
 *... and 34 more*
 
 **Content Features:** 83 headings · 35 callouts · 82 code blocks (handlebars, javascript, mermaid, markdown, yaml, dataviewjs) · 📊 Dataview · ⚙️ Templater · 6 inline fields · 1 external links
@@ -1739,7 +1739,7 @@ Complete listing of all **40** indexed documents with extracted metadata.
 
 **Aliases:** *Obsidian SR*, *Spaced Repetition Plugin Guide*
 
-**Links to:** [[Active Recall vs. Passive Review]] · [[anki]] · [[Cloze Deletion]] · [[cognitive-load-theory]] · [[cognitive-psychology]] · [[Dataview]] · [[desirable-difficulties]] · [[dual-coding-theory]] · [[Educational-Technology]] · [[Effective Flashcard Design]] · [[FSRS Algorithm]] · [[Introduction to Spaced Repetition in Obsidian]] · [[Learning-Science]] · [[Linking Your Thinking (LYT)]] · [[Maps of Content (MOCs)]] · [[Markdown]] · [[metacognition]] · [[obsidian]] · [[Obsidian Git]] · [[Obsidian Publish]]
+**Links to:** [[Active Recall vs. Passive Review]] · [[anki]] · [[Cloze Deletion]] · [[cognitive-load-theory]] · [[cognitive-psychology]] · [[Dataview]] · [[desirable-difficulties]] · [[dual-coding-theory]] · [[educational-technology]] · [[Effective Flashcard Design]] · [[FSRS Algorithm]] · [[Introduction to Spaced Repetition in Obsidian]] · [[Learning-Science]] · [[Linking Your Thinking (LYT)]] · [[Maps of Content (MOCs)]] · [[Markdown]] · [[metacognition]] · [[obsidian]] · [[Obsidian Git]] · [[Obsidian Publish]]
 *... and 13 more*
 
 **Content Features:** 61 headings · 24 callouts · 64 code blocks (javascript, markdown, dataviewjs, dataview, python) · 📊 Dataview · ⚙️ Templater · 2 external links

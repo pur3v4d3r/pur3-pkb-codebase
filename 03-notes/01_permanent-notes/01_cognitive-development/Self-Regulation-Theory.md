@@ -36,7 +36,7 @@ link-related:
   - "[[Information-Theory]]"
   - "[[instructional-design]]"
   - "[[long-term-memory]]"
-  - "[[Long-Term-Working-Memory]]"
+  - "[[long-term-working-memory]]"
   - "[[metacognition]]"
   - "[[metacognitive-knowledge]]"
   - "[[metacognitive-regulation]]"
@@ -62,7 +62,7 @@ link-related:
   - "[[Getting Things Done (GTD)]]"
   - "[[Information-Architecture]]"
   - "[[Methodological Frameworks]]"
-  - "[[Knowledge-Management]]"
+  - "[[knowledge-management]]"
   - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]"
   - "[[personal-knowledge-base]]"
 status: active

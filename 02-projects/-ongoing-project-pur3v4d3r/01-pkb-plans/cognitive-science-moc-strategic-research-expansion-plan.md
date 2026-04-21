@@ -219,7 +219,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Taxonomy Tags**: `#perception`, `#visual-cognition`, `#motion-processing`
 
 26. **[[Face Recognition]]**
-    - **Connection to MOC**: Specialized visual processing linked to [[Social Cognition]]
+    - **Connection to MOC**: Specialized visual processing linked to [[social-cognition]]
     - **Research Value**: Configural processing, fusiform face area, prosopagnosia
     - **Integration Points**: [[Object Recognition]] ↔ [[Emotion Recognition]] ↔ [[Social Perception]]
     - **Taxonomy Tags**: `#perception`, `#social-cognition`, `#face-processing`
@@ -237,7 +237,7 @@ These fill critical theoretical gaps in your existing pillars:
 <span style='color: #FFC700;'>**Your #2 Research Priority**</span> - Acknowledged gap with high integration potential
 
 > [!key-claim] Knowledge Graph Multiplier
-> Language notes will create massive cross-domain connections: [[Memory]] (verbal encoding), [[attention]] (auditory selective attention), [[Learning]] (language acquisition), [[Social Cognition]] (pragmatics).
+> Language notes will create massive cross-domain connections: [[Memory]] (verbal encoding), [[attention]] (auditory selective attention), [[Learning]] (language acquisition), [[social-cognition]] (pragmatics).
 
 ### Language Architecture
 
@@ -294,7 +294,7 @@ These fill critical theoretical gaps in your existing pillars:
 ### Pragmatics & Social Language Use
 
 36. **[[Pragmatics]]**
-    - **Connection to MOC**: Bridge between [[Language]] ↔ [[Social Cognition]] ↔ [[Theory of Mind]]
+    - **Connection to MOC**: Bridge between [[Language]] ↔ [[social-cognition]] ↔ [[Theory of Mind]]
     - **Research Value**: Conversational implicature, speech acts, context effects
     - **Integration Points**: [[Gricean Maxims]] ↔ [[Common Ground]] ↔ [[Discourse Management]]
     - **Taxonomy Tags**: `#language`, `#pragmatics`, `#social-cognition`
@@ -341,7 +341,7 @@ These fill critical theoretical gaps in your existing pillars:
 > Social cognition notes will create bridges to [[Emotion]], [[Language]], [[decision-making]], [[clinical-psychology]], and [[Developmental-Psychology]]—making them knowledge graph "hub" notes.
 
 42. **[[Theory of Mind]]**
-    - **Connection to MOC**: Foundation for [[Social Cognition]] ↔ [[Perspective-Taking]] ↔ [[Empathy]]
+    - **Connection to MOC**: Foundation for [[social-cognition]] ↔ [[Perspective-Taking]] ↔ [[Empathy]]
     - **Research Value**: False belief understanding, developmental trajectory, autism
     - **Integration Points**: [[Mentalizing]] ↔ [[Intentionality]] ↔ [[Social Perception]]
     - **Taxonomy Tags**: `#social-cognition`, `#theory-of-mind`, `#developmental`
@@ -367,11 +367,11 @@ These fill critical theoretical gaps in your existing pillars:
 46. **[[Perspective-Taking]]**
     - **Connection to MOC**: Cognitive component of [[Empathy]] and [[Theory of Mind]]
     - **Research Value**: Visual perspective-taking, conceptual perspective-taking, egocentric bias
-    - **Integration Points**: [[Spatial-Cognition]] ↔ [[Social Cognition]] ↔ [[Decentering]]
+    - **Integration Points**: [[Spatial-Cognition]] ↔ [[social-cognition]] ↔ [[Decentering]]
     - **Taxonomy Tags**: `#social-cognition`, `#perspective-taking`, `#empathy`
 
 47. **[[Social Influence]]**
-    - **Connection to MOC**: Links [[Social Cognition]] ↔ [[decision-making]] ↔ [[Group Dynamics]]
+    - **Connection to MOC**: Links [[social-cognition]] ↔ [[decision-making]] ↔ [[Group Dynamics]]
     - **Research Value**: Conformity, obedience, persuasion, social proof
     - **Integration Points**: `[[Normative Influence]] ↔ [[Informational Influence]] ↔ [[Authority]]
     - **Taxonomy Tags**: `#social-cognition`, `#social-influence`, `#persuasion`
@@ -395,7 +395,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Taxonomy Tags**: `#social-cognition`, `#stereotyping`, `#implicit-cognition`
 
 51. **[[Moral Cognition]]**
-    - **Connection to MOC**: Integrates [[Social Cognition]] ↔ [[Emotion]] ↔ [[reasoning]]
+    - **Connection to MOC**: Integrates [[social-cognition]] ↔ [[Emotion]] ↔ [[reasoning]]
     - **Research Value**: Moral judgment, trolley problems, moral development (Kohlberg)
     - **Integration Points**: [[Moral Reasoning]] ↔ [[Moral Emotions]] ↔ [[Ethical Decision-Making]]
     - **Taxonomy Tags**: `#social-cognition`, `#moral-psychology`, `#judgment`
@@ -659,7 +659,7 @@ These fill critical theoretical gaps in your existing pillars:
    - *Knowledge Graph Role*: Bridges cognitive science with AI/ML; complements symbolic approaches
 
 3. **[[Cultural Cognition]]**
-   - *Connection*: Cross-cultural variation in [[Perception]], [[Memory]], [[reasoning]], [[Social Cognition]]
+   - *Connection*: Cross-cultural variation in [[Perception]], [[Memory]], [[reasoning]], [[social-cognition]]
    - *Depth Potential*: Collectivism vs. individualism, cultural schemas, context sensitivity
    - *Knowledge Graph Role*: Challenges universality assumptions; adds diversity to theoretical frameworks
 

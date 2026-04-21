@@ -433,7 +433,7 @@ There is also a cultural limitation worth acknowledging. Both SRL and SDT are ro
 > [!connection-ideas] 🔗 Expansion Topic 3: [[Transfer-of-Learning-and-Near-vs.-Far-Transfer|Transfer of Learning and Near vs. Far Transfer]]
 > The most important and least understood outcome of self-directed learning is *transfer* — the application of knowledge and regulatory strategies to genuinely novel domains. Understanding the conditions under which SRL competencies transfer across domains would significantly extend and constrain this report's claims about the value of internalized regulatory capacity. Priority: **High**.
 
-> [!connection-ideas] 🔗 Expansion Topic 4: [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition|Personal Knowledge Management Systems and Spaced Repetition]]
+> [!connection-ideas] 🔗 Expansion Topic 4: [[personal-knowledge-management-systems-and-spaced-repetition|Personal Knowledge Management Systems and Spaced Repetition]]
 > The practical infrastructure for implementing a personal learning architecture — methods like [[zettelkasten]], spaced repetition systems (Anki), interleaved practice, and the practice of writing to think — are the concrete operationalizations of the SRL framework in adult self-directed learning contexts. Priority: **Medium**.
 
 > [!connection-ideas] 🔗 Expansion Topic 5: [[Scaffolded Fading and Gradual Release of Responsibility]]

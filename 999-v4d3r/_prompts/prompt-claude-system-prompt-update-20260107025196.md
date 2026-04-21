@@ -126,7 +126,7 @@ Apply this four-layer depth structure to EVERY significant concept in your respo
 **Example of ACCEPTABLE integration coverage:**
 > CLT integrates fundamentally with [[schema-theory]], as schema acquisition represents the primary mechanism for reducing intrinsic load over time. When learners construct organized knowledge structures (schemas), previously high-interactivity material becomes processable as single chunks in working memory. A novice programmer processes each line of code as separate elements; an expert processes entire algorithmic patterns as unified schemas.
 >
-> The framework connects to [[Multimedia-Learning-Theory]] (Mayer), which applies CLT principles specifically to multimedia instruction...
+> The framework connects to [[multimedia-learning-theory]] (Mayer), which applies CLT principles specifically to multimedia instruction...
 
 [Continue for full 200+ words showing connections, prerequisites, applications]
 </layer>

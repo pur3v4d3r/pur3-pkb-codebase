@@ -458,7 +458,7 @@ In [[Machine-Learning]], [[Neural-Networks]] use [[Backpropagation]] to update [
 #### Pattern 3: Contextual Linking
 
 ```markdown
-The [[Feynman Technique]] involves explaining concepts in simple terms, identifying knowledge gaps, and iterating until understanding is complete. This approach aligns with principles from [[Active-Learning]] and [[metacognition]].
+The [[Feynman Technique]] involves explaining concepts in simple terms, identifying knowledge gaps, and iterating until understanding is complete. This approach aligns with principles from [[active-learning]] and [[metacognition]].
 ```
 
 **Analysis:** 3 links in 2 sentences—moderate density for methodological content.
@@ -581,7 +581,7 @@ Create MOCs when you have 10+ notes on a topic. MOC becomes navigation hub with 
 
 **2. Linking Common Words**
 ❌ `[[The]] [[importance]] [[of]] [[learning]]`
-✅ `The importance of [[Active-Learning]]`
+✅ `The importance of [[active-learning]]`
 
 **3. Broken Link Syntax**
 ❌ `[Cognitive Load](cognitive-load.md)` (markdown link)

@@ -116,7 +116,7 @@ Working memory serves as your cognitive workspace—the mental "scratch pad" whe
 - **Episodic Buffer**: Integrates information from different modalities with [[long-term-memory]]
 - **Central Executive**: Directs attention and coordinates the other components
 
-The relationship with [[Long-Term-Working-Memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to chunk information efficiently, effectively expanding working memory capacity within their domain of expertise.
+The relationship with [[long-term-working-memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to chunk information efficiently, effectively expanding working memory capacity within their domain of expertise.
 
 ### Cognitive Load Theory
 
@@ -656,7 +656,7 @@ Research on children's metacognitive development shows that teacher/mentor suppo
 
 > [!the-purpose]
 > **Section Purpose**
-> While internal cognitive and metacognitive development is foundational, true mastery requires sophisticated external systems that capture, organize, and amplify your learning. This section synthesizes [[Knowledge-Management]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], and your Obsidian-based PKB infrastructure into a comprehensive framework for lifelong knowledge work.
+> While internal cognitive and metacognitive development is foundational, true mastery requires sophisticated external systems that capture, organize, and amplify your learning. This section synthesizes [[knowledge-management]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], and your Obsidian-based PKB infrastructure into a comprehensive framework for lifelong knowledge work.
 
 ## 4.1 Theoretical Foundations of PKM
 
@@ -1040,7 +1040,7 @@ Research on expertise reveals consistent patterns distinguishing experts from no
 | **Knowledge Structure** | Isolated facts, surface features | Rich [[schema|schemas]], deep principles |
 | **Problem Representation** | Concrete, formula-focused | Abstract, conceptual patterns |
 | **Pattern Recognition** | Limited, effortful | Rapid, intuitive |
-| **[[working-memory]]** | Standard capacity (4±1 chunks) | Extended capacity through [[Long-Term-Working-Memory|domain-specific schemas]] |
+| **[[working-memory]]** | Standard capacity (4±1 chunks) | Extended capacity through [[long-term-working-memory|domain-specific schemas]] |
 | **Metacognitive Accuracy** | Poor calibration, overconfidence early ([[dunning-kruger-effect]]) | Well-calibrated, accurate self-assessment |
 | **Strategy Use** | Limited repertoire, inflexible | Extensive, adaptively deployed |
 | **Error Detection** | External feedback required | Self-monitoring, early error detection |
@@ -1129,7 +1129,7 @@ Research shows that interleaving various problems and topics, rather than blocki
 ### Cognitive Apprenticeship Model
 
 > [!definition]
-> **[[Cognitive-Apprenticeship]]**:: A model for instruction that makes thinking visible, enabling novices to observe and practice expert cognitive processes
+> **[[cognitive-apprenticeship]]**:: A model for instruction that makes thinking visible, enabling novices to observe and practice expert cognitive processes
 
 **Six Teaching Methods**:
 1. **Modeling**: Expert demonstrates while articulating reasoning
@@ -1172,7 +1172,7 @@ PKM promotes creativity and innovation by synthesizing diverse sources of inform
 4. **Cross-Pollination**: Apply methods from one domain to problems in another
 5. **Collaborative Learning**: Engage with experts from other fields
 
-Your PKB system, with extensive cross-referencing between [[cognitive-psychology]], [[instructional-design]], [[Stoic-Philosophy]], and [[Knowledge-Management]], exemplifies this interdisciplinary approach.
+Your PKB system, with extensive cross-referencing between [[cognitive-psychology]], [[instructional-design]], [[Stoic-Philosophy]], and [[knowledge-management]], exemplifies this interdisciplinary approach.
 
 ### Synthesis Techniques
 
@@ -1498,7 +1498,7 @@ This subtle shift from behavior goals to identity makes actions self-reinforcing
 - **Synthesis capacity**: Connecting knowledge across domains
 - **Sustained motivation**: Intrinsic drive for continuous growth
 
-Your work across [[metacognition]], [[self-regulated-learning]], [[Knowledge-Management]], [[heutagogy]], and related domains represents exactly this meta-skill development.
+Your work across [[metacognition]], [[self-regulated-learning]], [[knowledge-management]], [[heutagogy]], and related domains represents exactly this meta-skill development.
 
 ### The Compounding Returns of Learning
 
@@ -1714,11 +1714,11 @@ Additional concepts to introduce as wiki-links:
 - [[desirable-difficulties]]
 - [[transfer-of-learning]]
 - [[Expert-Novice Differences]]
-- [[Cognitive-Apprenticeship]]
+- [[cognitive-apprenticeship]]
 - [[mental-models]]
 - [[Progressive-Summarization]]
 - [[Evergreen-Notes]]
-- [[Atomic-Notes]]
+- [[atomic-notes]]
 - [[Concept Mapping]]
 - [[elaborative-interrogation]]
 - [[self-explanation]]

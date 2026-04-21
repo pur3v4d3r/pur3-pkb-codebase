@@ -2696,7 +2696,7 @@ sections:
 12. research shows that chronic physiological dysregulation — from sustained sleep deficiency, acute and chronic stress, sedentary behavior, and metabolic disruption — specifically degrades the cognitive operations most central to Tier 1's framework.
    *⚙️ Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine*
 
-13. research reveals *how* expert practical judgment operates, [[Gerd-Gigerenzer]]'s program in *[[Ecological-Rationality|ecological rationality]]* reveals *why* it often works better than exhaustive deliberation.
+13. research reveals *how* expert practical judgment operates, [[gerd-gigerenzer]]'s program in *[[Ecological-Rationality|ecological rationality]]* reveals *why* it often works better than exhaustive deliberation.
    *Gigerenzer's Ecological Rationality: Why Less Is Sometimes More*
 
 14. research demonstrates that expert practitioners exercise this capacity through recognition-based judgment, not comparative evaluation.

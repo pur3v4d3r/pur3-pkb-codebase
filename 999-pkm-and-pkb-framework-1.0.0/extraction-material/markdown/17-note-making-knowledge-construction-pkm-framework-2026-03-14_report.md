@@ -273,7 +273,7 @@ extraction_summary:
 #### 22. [CROSS-DOMAIN-CONNECTION] Elaborative Interrogation Meets the SECI Model: Making Tacit Knowledge Explicit *(Line 323)*
 
 > [!cross-domain-connection] Elaborative Interrogation Meets the SECI Model: Making Tacit Knowledge Explicit
-> Nonaka's [[SECI-Model|SECI Model]] from [[Knowledge-Management|Knowledge Management]] describes four modes of knowledge creation, including "Externalization" — the conversion of tacit knowledge (embodied, intuitive, difficult to articulate) into explicit knowledge (documented, communicable, inspectable). Elaborative interrogation, as a cognitive operation, is an externalization mechanism: when you ask "why is this true?" and generate a causal explanation, you are externalizing the implicit causal understanding that underlies your pattern recognition in the domain. Expert practitioners often cannot directly state why they make the decisions they make — their expertise is tacit. The WHY-questioning process forces them to externalize that tacit causal knowledge. For PKB design, this means that elaborative interrogation is not only a learning strategy for novices acquiring new information — it is also a knowledge capture strategy for experts making their existing expertise explicit. The domain expert who asks themselves WHY they hold each belief in their domain is performing genuine knowledge externalization, not just learning reinforcement.
+> Nonaka's [[SECI-Model|SECI Model]] from [[knowledge-management|Knowledge Management]] describes four modes of knowledge creation, including "Externalization" — the conversion of tacit knowledge (embodied, intuitive, difficult to articulate) into explicit knowledge (documented, communicable, inspectable). Elaborative interrogation, as a cognitive operation, is an externalization mechanism: when you ask "why is this true?" and generate a causal explanation, you are externalizing the implicit causal understanding that underlies your pattern recognition in the domain. Expert practitioners often cannot directly state why they make the decisions they make — their expertise is tacit. The WHY-questioning process forces them to externalize that tacit causal knowledge. For PKB design, this means that elaborative interrogation is not only a learning strategy for novices acquiring new information — it is also a knowledge capture strategy for experts making their existing expertise explicit. The domain expert who asks themselves WHY they hold each belief in their domain is performing genuine knowledge externalization, not just learning reinforcement.
 
 #### 23. [ANALYTICAL-INSIGHT] Accommodation Notes vs. Assimilation Notes — A Distinction the PKM Literature Has Not Articulated *(Line 333)*
 
@@ -311,7 +311,7 @@ extraction_summary:
 #### 28. [TENSION-IDENTIFIED] Atomicity vs. Construction Depth: A PKM Design Tension *(Line 417)*
 
 > [!tension-identified] Atomicity vs. Construction Depth: A PKM Design Tension
-> The [[Atomic-Notes|Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.
+> The [[atomic-notes|Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.
 
 #### 29. [REFLECTION] Knowledge State — After *(Line 425)*
 
@@ -525,7 +525,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[articulatory-construction-principle|Articulatory Construction Principle]]
-- [[Atomic-Notes|Atomic Notes]]
+- [[atomic-notes|Atomic Notes]]
 - [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]
@@ -543,7 +543,7 @@ extraction_summary:
 - [[germane-load|Germane Load]]
 - [[icap-framework|ICAP Framework]]
 - [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[metacognition]]
 - [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
 - [[obsidian]]
@@ -630,12 +630,12 @@ extraction_summary:
 | 47 | [[self-explanation]] | — | — | Mechanism 2: The Self-Explanation as ... | 311 |
 | 48 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 319 |
 | 49 | [[SECI-Model|SECI Model]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
-| 50 | [[Knowledge-Management|Knowledge Management]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
+| 50 | [[knowledge-management|Knowledge Management]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
 | 51 | [[Report 03: Constructing Understanding]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
 | 52 | [[schema-theory|Schema Theory]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
 | 53 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Design Principle 4: Progressive Summa... | 405 |
-| 54 | [[Atomic-Notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 413 |
-| 55 | [[Atomic-Notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 419 |
+| 54 | [[atomic-notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 413 |
+| 55 | [[atomic-notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 419 |
 | 56 | [[Report 05: Motivation Architecture]] | — | — | Limitations | 423 |
 | 57 | [[Report 03: Constructing Understanding]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
 | 58 | [[schema-construction|Schema Construction]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
@@ -674,7 +674,7 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[articulatory-construction-principle|Articulatory Construction Principle]]
-- [[Atomic-Notes|Atomic Notes]]
+- [[atomic-notes|Atomic Notes]]
 - [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]
@@ -692,7 +692,7 @@ extraction_summary:
 - [[germane-load|Germane Load]]
 - [[icap-framework|ICAP Framework]]
 - [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[metacognition]]
 - [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
 - [[obsidian]]
@@ -751,7 +751,7 @@ extraction_summary:
 - [[cognitive-load-theory|Cognitive Load Theory]]
 - [[generation-effect|Generation Effect]]
 - [[Progressive-Summarization|Progressive Summarization]]
-- [[Atomic-Notes|Atomic Notes]]
+- [[atomic-notes|Atomic Notes]]
 - [[Elaboration Prompts]]
 - [[note-making-vs-note-taking]]
 - [[articulatory-construction-principle|Articulatory Construction Principle]]

@@ -66,7 +66,7 @@ related:
   - "[[Environment Variable Management]]"
 
 prerequisites:
-  - "[[Python Fundamentals]]"
+  - "[[python-fundamentals]]"
   - "[[VS Code Basics]]"
   - "[[Command Line Essentials]]"
 

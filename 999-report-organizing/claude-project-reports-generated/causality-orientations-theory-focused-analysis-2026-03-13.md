@@ -143,7 +143,7 @@ foundational-report: "[[Self-Determination-Theory-—-Focused-Analysis|Self-Dete
 related:
   - "[[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]"
   - "[[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]"
-  - "[[Goal-Orientation-Theory|Goal Orientation Theory]]"
+  - "[[goal-orientation-theory|Goal Orientation Theory]]"
   - "[[expectancy-value-theory|Expectancy-Value Theory]]"
   - "[[Locus of Control — Rotter]]"
   - "[[Learned Helplessness — Seligman]]"

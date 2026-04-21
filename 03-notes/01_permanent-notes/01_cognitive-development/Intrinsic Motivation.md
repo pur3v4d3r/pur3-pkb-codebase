@@ -50,7 +50,7 @@ link-up:
   - "[[motivation-science]]"
   - "[[motivational-psychology]]"
   - "[[relatedness]]"
-  - "[[Rumination]]"
+  - "[[rumination]]"
   - "[[Self Behavioral Management]]"
   - "[[self-determination-theory]]"
   - "[[self-regulated-learning]]"

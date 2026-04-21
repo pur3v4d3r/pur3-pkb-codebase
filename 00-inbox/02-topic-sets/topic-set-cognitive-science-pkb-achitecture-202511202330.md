@@ -308,7 +308,7 @@ Your refactoring process should itself embody [[Incremental Learning]] principle
 
 2. **[[Expertise Development Stages and PKB Architecture Evolution]]**
    - *Connection*: As you progress from novice to expert in cognitive science (and in PKM itself), your PKB needs different structures—this topic examines how system design should adapt across expertise levels
-   - *Depth Potential*: Integration of [[Dreyfus Model of Skill Acquisition]], [[Adaptive Expertise]] theory, and [[expertise-reversal-effect]] with concrete PKB transformation strategies
+   - *Depth Potential*: Integration of [[Dreyfus Model of Skill Acquisition]], [[adaptive-expertise]] theory, and [[expertise-reversal-effect]] with concrete PKB transformation strategies
    - *Knowledge Graph Role*: Meta-level topic that informs how all other cognitive science principles should be applied differently based on current knowledge state
 
 3. **[[Cognitive Offloading vs. Cognitive Partnership in External Systems]]**

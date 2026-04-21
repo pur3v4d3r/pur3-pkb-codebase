@@ -555,7 +555,7 @@ extraction_summary:
 - [[Graph-Theory-and-Knowledge-Network-Design-—-When-Structure-Becomes-Topology|Graph Theory and Knowledge Network Design — When Structure Becomes Topology]]
 - [[Information-Science|Information Science]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[long-term-memory|Long-Term Memory]]
 - [[memory-systems|Memory Systems]]
 - [[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]
@@ -610,7 +610,7 @@ extraction_summary:
 | 20 | [[Information-Science|Information Science]] | — | — | Scope and Cross-Domain Preview | 125 |
 | 21 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | Scope and Cross-Domain Preview | 126 |
 | 22 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Scope and Cross-Domain Preview | 127 |
-| 23 | [[Knowledge-Management|Knowledge Management]] | — | — | Scope and Cross-Domain Preview | 128 |
+| 23 | [[knowledge-management|Knowledge Management]] | — | — | Scope and Cross-Domain Preview | 128 |
 | 24 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Scope and Cross-Domain Preview | 130 |
 | 25 | [[long-term-memory|Long-Term Memory]] | — | — | Phase II: Analytical Framework — Cros... | 145 |
 | 26 | [[working-memory|Working Memory]] | — | — | Phase II: Analytical Framework — Cros... | 145 |
@@ -673,7 +673,7 @@ extraction_summary:
 - [[Graph-Theory-and-Knowledge-Network-Design-—-When-Structure-Becomes-Topology|Graph Theory and Knowledge Network Design — When Structure Becomes Topology]]
 - [[Information-Science|Information Science]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[long-term-memory|Long-Term Memory]]
 - [[memory-systems|Memory Systems]]
 - [[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]

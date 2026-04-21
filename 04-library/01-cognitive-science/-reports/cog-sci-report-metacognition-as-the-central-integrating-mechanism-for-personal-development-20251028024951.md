@@ -218,7 +218,7 @@ The concept of [[Scaffolding-(Constructivist-Learning)]], introduced by [[jerome
 
 > [!connection-ideas]
 > - *The principles of constructivism* **strongly connect to the field of:**
->     - [[Educational-Technology]] and [[intelligent tutoring systems]]
+>     - [[educational-technology]] and [[intelligent tutoring systems]]
 >     - **The reason:**
 >         - Modern adaptive learning technologies attempt to operationalize constructivist principles by providing scaffolded support calibrated to each learner's ZPD. These systems must implement what might be called "computational metacognition"—monitoring student performance, assessing understanding, detecting misconceptions, and providing appropriately timed and calibrated instructional support. The success of such systems depends on whether they can replicate the metacognitive functions that expert human tutors provide. This connection reveals that metacognition is not merely an individual cognitive capacity but a fundamental principle of effective instruction—whether delivered by humans or machines—that bridges the gap between current understanding and learning objectives.
 

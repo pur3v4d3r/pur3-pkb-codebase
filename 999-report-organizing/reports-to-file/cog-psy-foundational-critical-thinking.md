@@ -51,7 +51,7 @@ related_concepts:
   - "[[Bloom's-Taxonomy|Bloom's Taxonomy]]"
   - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
   - "[[information-literacy|Information Literacy]]"
-  - "[[Knowledge-Management|Knowledge Management]]"
+  - "[[knowledge-management|Knowledge Management]]"
   - "[[Learning Theory]]"
   - "[[cognitive-psychology|Cognitive Psychology]]"
   
@@ -1129,7 +1129,7 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Depth Potential**: Would cover metacognitive monitoring and control, calibration research, metacognitive instruction strategies, [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] models, epistemic cognition development, and assessment of metacognitive skills.
 
-**Knowledge Graph Role**: Extends CT cognitive architecture focus to specialized treatment of metacognition; connects to [[Learning Strategies]], [[cognitive-development|Cognitive Development]], [[educational-psychology|Educational Psychology]].
+**Knowledge Graph Role**: Extends CT cognitive architecture focus to specialized treatment of metacognition; connects to [[learning-strategies|Learning Strategies]], [[cognitive-development|Cognitive Development]], [[educational-psychology|Educational Psychology]].
 
 **Priority**: **High** - Metacognition central to CT excellence; understanding metacognitive mechanisms crucial for CT development.
 

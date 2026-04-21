@@ -257,7 +257,7 @@ extraction_summary:
 > [[Mathematical Problem Solving]] — Primary application domain showing 40-60% accuracy gains  
 > [[scientific-reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
 > [[Code Generation]] — Programming tasks benefit from step-by-step algorithmic decomposition  
-> [[Educational-Technology]] — CoT enables tutoring systems that demonstrate solution processes
+> [[educational-technology]] — CoT enables tutoring systems that demonstrate solution processes
 
 #### 17. [SUMMARY] Untitled *(Line 297)*
 
@@ -370,7 +370,7 @@ extraction_summary:
 - [[Curriculum Learning]]
 - [[Depth-First Search]]
 - [[Economic Analysis of CoT Cost-Benefit Tradeoffs]]
-- [[Educational-Technology]]
+- [[educational-technology]]
 - [[Emergent-Abilities]]
 - [[Emergent-Abilities-in-LLMs]]
 - [[Ensemble-Learning]]
@@ -382,7 +382,7 @@ extraction_summary:
 - [[GPT-3]]
 - [[GSM8K]]
 - [[Google-Research]]
-- [[Human-Reasoning]]
+- [[human-reasoning]]
 - [[Image Captioning]]
 - [[Inference Optimization]]
 - [[Interpretability]]
@@ -465,7 +465,7 @@ extraction_summary:
 | 22 | [[Few-Shot-Prompting]] | — | — | 📜 Theoretical Foundations & Historica... | 135 |
 | 23 | [[Protocol Analysis]] | — | — | 📜 Theoretical Foundations & Historica... | 136 |
 | 24 | [[Think-Aloud Protocols]] | — | — | 📜 Theoretical Foundations & Historica... | 136 |
-| 25 | [[Human-Reasoning]] | — | — | 📜 Theoretical Foundations & Historica... | 137 |
+| 25 | [[human-reasoning]] | — | — | 📜 Theoretical Foundations & Historica... | 137 |
 | 26 | [[Circuit-Complexity-Theory]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 139 |
 | 27 | [[Feng et al. (2024)]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 142 |
 | 28 | [[Attention-Mechanism]] | — | — | ⚙️ Core Mechanism: Intermediate Token... | 144 |
@@ -511,7 +511,7 @@ extraction_summary:
 | 68 | [[Mathematical Problem Solving]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 291 |
 | 69 | [[scientific-reasoning]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 292 |
 | 70 | [[Code Generation]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 293 |
-| 71 | [[Educational-Technology]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 294 |
+| 71 | [[educational-technology]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 294 |
 | 72 | [[Mechanistic Interpretability of Reasoning Circuits]] | — | — | 1. **[[Mechanistic Interpretability o... | 317 |
 | 73 | [[Activation Patching]] | — | — | 1. **[[Mechanistic Interpretability o... | 319 |
 | 74 | [[Causal Tracing]] | — | — | 1. **[[Mechanistic Interpretability o... | 319 |
@@ -1145,7 +1145,7 @@ $$
 - [[Curriculum Learning]]
 - [[Depth-First Search]]
 - [[Economic Analysis of CoT Cost-Benefit Tradeoffs]]
-- [[Educational-Technology]]
+- [[educational-technology]]
 - [[Emergent-Abilities]]
 - [[Emergent-Abilities-in-LLMs]]
 - [[Ensemble-Learning]]
@@ -1157,7 +1157,7 @@ $$
 - [[GPT-3]]
 - [[GSM8K]]
 - [[Google-Research]]
-- [[Human-Reasoning]]
+- [[human-reasoning]]
 - [[Image Captioning]]
 - [[Inference Optimization]]
 - [[Interpretability]]

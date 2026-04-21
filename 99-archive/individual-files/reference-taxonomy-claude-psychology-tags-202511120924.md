@@ -609,7 +609,7 @@ aliases:
 
 ### Self-Regulation & Motivation
 - [[self-determination-theory]]
-- [[Social Cognitive Theory]]
+- [[social-cognitive-theory]]
 - [[Control Theory of Self-Regulation]]
 - [[intrinsic-vs-extrinsic-motivation]]
 

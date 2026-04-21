@@ -27,7 +27,7 @@ related_concepts:
   - "[[metacognition]]"
   - "[[working-memory|Working Memory]]"
   - "[[long-term-memory|Long-Term Memory]]"
-  - "[[Atomic-Notes|Atomic Notes]]"
+  - "[[atomic-notes|Atomic Notes]]"
   - "[[Knowledge-Graph|Knowledge Graph]]"
 
 source: "claude-sonnet-4-6"

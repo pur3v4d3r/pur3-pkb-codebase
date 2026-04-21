@@ -175,7 +175,7 @@ expansion-topics:
   - topic: "[[attribution-retraining]]"
     description: "Systematic training protocols for shifting from fixed, uncontrollable attributions to malleable, effort-based ones across the Self-Reflection phase"
     priority: "high"
-  - topic: "[[Comprehension-Monitoring-Training-Protocols]]"
+  - topic: "[[comprehension-monitoring-training-protocols]]"
     description: "The specific monitoring strategies that must be active during the Performance Phase to generate the data that makes Self-Reflection meaningful"
     priority: "high"
   - topic: "[[mastery-goal-orientation]]"
@@ -994,7 +994,7 @@ Beyond the session-by-session Self-Reflection Protocol, a monthly meta-reflectio
 >
 > - **[[self-efficacy]]** — Bandura's self-efficacy construct runs through every component of this report. The Self-Efficacy permanent note provides the theoretical depth that the pragmatic treatment in Parts II and VIII presupposes.
 >
-> - **[[comprehension-monitoring]]** and **[[Comprehension-Monitoring-Training-Protocols]]** — The monitoring strategies referenced throughout this report for the Performance Phase have their own research literature. These nodes are the direct prerequisite for the monitoring component of the Forethought Protocol.
+> - **[[comprehension-monitoring]]** and **[[comprehension-monitoring-training-protocols]]** — The monitoring strategies referenced throughout this report for the Performance Phase have their own research literature. These nodes are the direct prerequisite for the monitoring component of the Forethought Protocol.
 >
 > - **[[formative-assessment]]** — Black and Wiliam's formative assessment research provides the external-validation analog to Zimmerman's self-assessment framework. The connection illuminates why the Self-Reflection Protocol's design choices — particularly the emphasis on specific, actionable, behavioral feedback rather than global evaluations — parallel the most effective externally-provided formative feedback.
 >

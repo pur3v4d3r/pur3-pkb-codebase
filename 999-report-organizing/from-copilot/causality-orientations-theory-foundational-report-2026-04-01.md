@@ -571,7 +571,7 @@ These claims are not logically contradictory, but they create a tension that req
 
 ### Replication and Methodological Concerns
 
-In the broader context of what has been termed the [[Replication-Crisis-in-Psychology|replication crisis in psychology]], it is important to acknowledge that several key empirical claims in the SDT tradition have not been without replication challenges. The infamous Baumeister et al. replication failure of ego depletion, which intersects with SDT's treatment of self-regulation, created methodological controversy that extended to related constructs. While COT's own foundational correlational findings are less vulnerable to replication failure than experimental paradigms, the quantitative size of COT's predictive effects — when carefully estimated in large, pre-registered studies — tends to be modest (correlation coefficients typically .20–.40), consistent with the expectation that orientation is one of many predictors of motivational outcomes rather than a dominant causal force.
+In the broader context of what has been termed the [[replication-crisis-in-psychology|replication crisis in psychology]], it is important to acknowledge that several key empirical claims in the SDT tradition have not been without replication challenges. The infamous Baumeister et al. replication failure of ego depletion, which intersects with SDT's treatment of self-regulation, created methodological controversy that extended to related constructs. While COT's own foundational correlational findings are less vulnerable to replication failure than experimental paradigms, the quantitative size of COT's predictive effects — when carefully estimated in large, pre-registered studies — tends to be modest (correlation coefficients typically .20–.40), consistent with the expectation that orientation is one of many predictors of motivational outcomes rather than a dominant causal force.
 
 > [!section-summary] Section 8 Summary
 > - GCOS measurement faces construct validity questions, social desirability concerns, and discriminant validity challenges from related constructs
@@ -683,7 +683,7 @@ The schema activation callout at the outset of this report posed a guiding quest
 
 > [!definition] Self-Determination Theory (SDT; Deci & Ryan, 1985, 2000, 2017)
 > A macro-theory of human motivation, personality, and well-being comprising six mini-theories: [[cognitive-evaluation-theory]], [[organismic-integration-theory]], [[causality-orientations-theory]], [[basic-psychological-needs-theory]], [[goal-contents-theory]], and [[relationship-motivation-theory]]. SDT's central claim is that humans have innate psychological needs for autonomy, competence, and relatedness, and that environments supporting these needs facilitate intrinsic motivation, internalization, and well-being, while environments thwarting these needs produce controlled motivation, amotivation, and ill-being.
-> **See Also:** [[humanistic-psychology]], [[Positive-Psychology]], [[Motivation-Theory]]
+> **See Also:** [[humanistic-psychology]], [[Positive-Psychology]], [[motivation-theory]]
 
 > [!definition] Organismic Integration Theory (OIT; Deci & Ryan, 1985)
 > The SDT mini-theory addressing the internalization and integration of extrinsic motivation. OIT proposes a regulatory continuum from [[amotivation]] through [[external-regulation]], [[introjected-regulation]], [[identified-regulation]], [[integrated-regulation]], to [[intrinsic-motivation]], representing progressively more autonomous forms of behavioral regulation. COT's three orientations map characteristically onto different regions of this continuum.
@@ -931,7 +931,7 @@ Rotter (Locus of Control) ──────────────────
 >
 > **Lateral Connections** (related frameworks at similar level of analysis):
 > - [[achievement-goal-theory]] — Parallel individual-difference approach to motivation with complementary predictions
-> - [[implicit-theories-of-intelligence]] — Dweck's fixed/growth mindset construct shares conceptual territory with autonomy/control orientations
+> - [[Implicit-Theories-of-Intelligence]] — Dweck's fixed/growth mindset construct shares conceptual territory with autonomy/control orientations
 > - [[attachment-theory]] — Developmental antecedents of orientations parallel secure/insecure attachment pathways
 > - [[attribution-theory]] — Weiner's attributional framework addresses similar perceived-causality questions from a different theoretical tradition
 > - [[expectancy-value-theory]] — Complementary motivational framework addressing what COT does not (expectancy beliefs, subjective task value)

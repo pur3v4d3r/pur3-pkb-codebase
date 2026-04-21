@@ -64,7 +64,7 @@ related-concepts:
   - "[[Semantic-Networks|Semantic Networks]]"
   - "[[progressive-disclosure|Progressive Disclosure]]"
   - "[[Maps-of-Content-—-MOCs|Maps of Content]]"
-  - "[[Atomic-Notes|Atomic Notes]]"
+  - "[[atomic-notes|Atomic Notes]]"
   - "[[zettelkasten]]"
   - "[[Faceted-Classification|Faceted Classification]]"
   - "[[SECI-Model|SECI Model]]"
@@ -114,7 +114,7 @@ Five disciplinary traditions will be synthesized throughout:
 - **[[Information-Science|Information Science]]**: Information architecture, faceted classification, and knowledge organization systems principles (Morville, Wurman, Ranganathan)
 - **[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]**: Elaboration theory, scaffolding, and learning environment design (Reigeluth, Collins & Brown, Jonassen)
 - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] Research**: The SRL cycle and its structural requirements (Zimmerman, Pintrich, built on Report 04 foundations)
-- **[[Knowledge-Management|Knowledge Management]]**: The SECI model and the structural conditions for knowledge creation (Nonaka & Takeuchi)
+- **[[knowledge-management|Knowledge Management]]**: The SECI model and the structural conditions for knowledge creation (Nonaka & Takeuchi)
 
 **Roadmap**: Phase II establishes the conceptual toolkit from all five disciplines. Phase III examines the empirical evidence on how expert knowledge organization differs from novice organization and what this means for PKB design. Phase IV reveals the mechanisms by which structural choices affect learning outcomes — the analytical heart of this report. Phase V translates everything into specific Obsidian design recommendations. Phase VI presents the [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] as a unified design framework. Phase VII maps cross-report connections. Phase VIII provides lexicon, references, and expansion topics.
 

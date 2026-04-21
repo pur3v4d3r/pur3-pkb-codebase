@@ -621,7 +621,7 @@ Following Barnett and Ceci's (2002) taxonomy of transfer dimensions, the transfe
 >
 > **Boundary condition:** Organizational knowledge management involves collective metacognition and political dynamics absent from individual PKB practice.
 >
-> **See also:** [[Organizational-Learning]], [[Knowledge-Management]], [[Collective-Intelligence]]
+> **See also:** [[Organizational-Learning]], [[knowledge-management]], [[Collective-Intelligence]]
 
 > [!far-transfer] **AI Alignment and Machine Metacognition**
 > **Structural principle:** The externalization of monitoring and control functions through structured systems — the core PKB-metacognition insight — provides a conceptual framework for designing AI systems with transparent self-monitoring capabilities.
@@ -1036,7 +1036,7 @@ These limitations, however, define a productive research frontier rather than in
 > **Connection to this report:** This report focuses exclusively on individual PKB practice. Social metacognition represents the natural extension to collaborative contexts — how do shared knowledge bases, peer review of notes, and collaborative synthesis affect individual and collective metacognitive capacity?
 > **Priority:** Medium
 > **Suggested report type:** Socratic Exploration (the topic benefits from question-chain driven investigation, as the relationship between social interaction and metacognition raises many open questions)
-> **Prerequisites:** [[metacognition]], [[Collaborative-Learning]], [[Knowledge-Management]]
+> **Prerequisites:** [[metacognition]], [[Collaborative-Learning]], [[knowledge-management]]
 
 > [!topic-idea] **[[Physiological-Metacognition|Physiological Metacognition: Embodied Signals in Cognitive Self-Regulation]]**
 > **Description:** An investigation into the role of physiological states — stress, arousal, fatigue, hunger — in shaping metacognitive monitoring accuracy and regulatory decisions. Explores how bodily signals interact with cognitive monitoring and whether PKB design could incorporate physiological awareness.

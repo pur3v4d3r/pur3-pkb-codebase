@@ -178,7 +178,7 @@ LIMIT 10
 
 ### Primary Memory Systems
 - [[working-memory]] - Active information maintenance
-  - [[Long-Term-Working-Memory]] - Expertise-driven capacity
+  - [[long-term-working-memory]] - Expertise-driven capacity
   - [[cognitive-load-theory]] - Capacity limitations and optimization
     - [[Intrinsic-Load]] - Task complexity
     - [[extraneous-load]] - Design-imposed burden
@@ -317,7 +317,7 @@ LIMIT 10
 ### Cognitive Distortions & Corrections
 - [[Cognitive Distortions]] - Systematic thinking errors
   - [[Automatic Thoughts]] - Rapid, uncritical cognitions
-  - [[Rumination]] - Perseverative negative thought
+  - [[rumination]] - Perseverative negative thought
 - [[cognitive-biases]] - Systematic judgment deviations
   - [[confirmation-bias]] - Belief-confirming evidence preference
   - [[Anchoring Effect]] - Initial value over-influence

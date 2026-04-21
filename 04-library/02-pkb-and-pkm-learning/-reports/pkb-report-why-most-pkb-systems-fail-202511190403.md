@@ -231,7 +231,7 @@ The psychological concepts you identified map directly onto system architecture,
 
 **Cognitive Processing Constraints:**
 
-[[working-memory]], [[long-term-memory]], [[Long-Term-Working-Memory]], and [[cognitive-load-theory]] establish the fundamental constraints that every design decision must respect. Systems must reduce extraneous load, optimize intrinsic load through appropriate chunking, and maximize germane load devoted to meaningful schema construction. [[Cognitive Load Management]] becomes the central organizing principle ensuring that system complexity never exceeds users' cognitive resources.
+[[working-memory]], [[long-term-memory]], [[long-term-working-memory]], and [[cognitive-load-theory]] establish the fundamental constraints that every design decision must respect. Systems must reduce extraneous load, optimize intrinsic load through appropriate chunking, and maximize germane load devoted to meaningful schema construction. [[Cognitive Load Management]] becomes the central organizing principle ensuring that system complexity never exceeds users' cognitive resources.
 
 **Learning Architecture:**
 
@@ -255,7 +255,7 @@ The psychological concepts you identified map directly onto system architecture,
 
 **Philosophical and Theoretical Foundations:**
 
-[[cognitive-science]], [[Information-Theory]], [[Library Science]], and [[Knowledge-Management]] provide interdisciplinary foundations ensuring systems build on established understanding rather than reinventing from ignorance. [[Networked Thought]] and [[Extended Mind]] theory establish that cognition extends beyond the brain into external tools and representations.
+[[cognitive-science]], [[Information-Theory]], [[Library Science]], and [[knowledge-management]] provide interdisciplinary foundations ensuring systems build on established understanding rather than reinventing from ignorance. [[Networked Thought]] and [[Extended Mind]] theory establish that cognition extends beyond the brain into external tools and representations.
 
 **Contextual and Planning Elements:**
 
@@ -301,7 +301,7 @@ The goal is not creating perfect systems but building **psychological architectu
 ---
 
 > [!connections-and-links]
-> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology]] (explaining how thinking works), [[educational-psychology]] (establishing how learning happens), [[instructional-design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[Knowledge-Management]] (establishing organizational knowledge practices), [[Human-Computer-Interaction]] (ensuring usable interfaces), and [[philosophy-of-mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
+> **Disciplinary Convergence:** This analysis sits at the nexus of [[cognitive-psychology]] (explaining how thinking works), [[educational-psychology]] (establishing how learning happens), [[instructional-design]] (determining effective teaching architectures), [[Library Science]] (providing information organization principles), [[knowledge-management]] (establishing organizational knowledge practices), [[Human-Computer-Interaction]] (ensuring usable interfaces), and [[philosophy-of-mind]] (questioning the nature of knowledge itself). The strength of PKB design lies precisely in this interdisciplinary synthesis rather than disciplinary purity.
 
 ---
 

@@ -200,7 +200,7 @@ Paul's most distinctive contribution is his identification of [[the-elements-of-
 [**Paul-Strong-Weak-CT**:: Paul's distinction between [[weak-sense-vs.-strong-sense-critical-thinking|weak-sense and strong-sense critical thinking]] identifies a crucial asymmetry: weak-sense critical thinking applies analytical skills to defend existing beliefs and attack opposing ones, while strong-sense critical thinking turns those same skills inward, subjecting one's own reasoning to the same rigorous scrutiny applied to others. Only strong-sense CT qualifies as genuine critical thinking.]
 
 > [!warning] The Strong-Sense Requirement
-> Paul's insistence on the strong sense/weak sense distinction carries a profound implication: a person can be highly skilled in logical analysis, evidence evaluation, and argument construction while still failing to think critically in the fullest sense. If those skills are deployed only in service of defending prior commitments — if they function as tools of [[motivated-reasoning|motivated reasoning]] rather than genuine inquiry — they constitute sophisticated rationalization, not critical thinking. This insight connects directly to [[confirmation-bias]] research and to [[keith-stanovich|Stanovich's]] concept of [[Cognitive-Miserliness|cognitive miserliness]] and dysrationalia.
+> Paul's insistence on the strong sense/weak sense distinction carries a profound implication: a person can be highly skilled in logical analysis, evidence evaluation, and argument construction while still failing to think critically in the fullest sense. If those skills are deployed only in service of defending prior commitments — if they function as tools of [[motivated-reasoning|motivated reasoning]] rather than genuine inquiry — they constitute sophisticated rationalization, not critical thinking. This insight connects directly to [[confirmation-bias]] research and to [[keith-stanovich|Stanovich's]] concept of [[cognitive-miserliness|cognitive miserliness]] and dysrationalia.
 
 ### 2.4 Synthesis: What the Definitions Share
 
@@ -606,7 +606,7 @@ Returning to the guiding question posed in the schema activation: *What would it
 > **Definition:** A cognitive framework positing two fundamentally different modes of processing: [[system-1-and-system-2|System 1]] (fast, automatic, intuitive, low-effort) and System 2 (slow, deliberate, analytical, effortful). Critical thinking is primarily a System 2 activity that involves overriding or supplementing System 1 outputs.
 > **Boundary conditions:** The dichotomy is a simplification; actual processing involves continuous interaction between systems. Not all System 1 processing is error-prone, and not all System 2 processing is accurate.
 > **Report significance:** Provides the cognitive architecture underlying all CT operations (Section 4).
-> **See also:** [[cognitive-bias]], [[Heuristics-and-Biases]], [[Stanovich-Tripartite-Model]]
+> **See also:** [[cognitive-bias]], [[heuristics-and-biases]], [[Stanovich-Tripartite-Model]]
 
 > [!definition] Metacognition
 > **Term:** Metacognition (Flavell, 1979; Nelson & Narens, 1990)
@@ -666,7 +666,7 @@ Returning to the guiding question posed in the schema activation: *What would it
 
 > [!definition] Cognitive Bias
 > **Term:** Cognitive Bias (Tversky & Kahneman, 1974; [[daniel-kahneman|Kahneman]], 2011)
-> **Definition:** Systematic patterns of deviation from normative standards in judgment and decision-making. Arise from reliance on simplifying [[Heuristics-and-Biases|heuristics]] that are generally adaptive but produce predictable errors in specific contexts.
+> **Definition:** Systematic patterns of deviation from normative standards in judgment and decision-making. Arise from reliance on simplifying [[heuristics-and-biases|heuristics]] that are generally adaptive but produce predictable errors in specific contexts.
 > **Boundary conditions:** Not all heuristic-based reasoning is biased — in ecologically valid environments, heuristics can outperform analytical strategies (Gigerenzer's "fast and frugal" heuristics). Bias is context-dependent.
 > **Report significance:** Frames the cognitive obstacles that critical thinking must overcome (Section 4).
 > **See also:** [[availability-heuristic]], [[Anchoring-Bias]], [[representativeness-heuristic]], [[confirmation-bias]]
@@ -939,7 +939,7 @@ Socrates (Method of Inquiry)
 > **Lateral Connections** (adjacent domains with structural parallels):
 > - [[scientific-method]] — hypothesis testing, evidence evaluation, and falsification as domain-specific instantiations of CT principles
 > - [[decision-making]] — the application of CT to practical choices under uncertainty; overlaps significantly with the judgment/evaluation component
-> - [[Problem-Solving]] — shares cognitive architecture with CT but emphasises solution generation alongside evaluation
+> - [[problem-solving]] — shares cognitive architecture with CT but emphasises solution generation alongside evaluation
 > - [[Creative-Thinking]] — the generative complement to CT's evaluative focus; tension between divergent and convergent thinking
 > - [[Rhetoric-and-Persuasion]] — understanding persuasive techniques as both a CT skill (defensive) and a potential CT challenge (when rhetoric substitutes for reasoning)
 >

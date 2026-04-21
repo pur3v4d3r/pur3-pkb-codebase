@@ -156,7 +156,7 @@ status: "generated"
 | [[metacognition]] | 59 |
 | [[self-determination-theory]] | 58 |
 | [[working-memory]] | 56 |
-| [[Python-Fundamentals]] | 44 |
+| [[python-fundamentals]] | 44 |
 | [[self-efficacy]] | 38 |
 | [[metacognitive-monitoring]] | 34 |
 | [[transfer-of-learning]] | 33 |
@@ -320,7 +320,7 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Explanatory-Style]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attributional-style]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[carol-dweck]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[implicit-theories-of-intelligence]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Implicit-Theories-of-Intelligence]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[entity-theory-of-intelligence]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[helpless-response-pattern]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[incremental-theory-of-intelligence]]` |
@@ -345,9 +345,9 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fundamental-attribution-error]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[cognitive-biases]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[dual-process-theory]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Heuristics-and-Biases]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[heuristics-and-biases]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[daniel-kahneman]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Heuristics-and-Biases]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[heuristics-and-biases]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[system-1-and-system-2]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[individualism-collectivism-and-attribution]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[actor-observer-asymmetry]]` |
@@ -361,7 +361,7 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[wilson-and-linville]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-two-stage-attribution-intervention-architecture]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Explanatory-Style]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Wise-Interventions]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[wise-interventions]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[learned-helplessness]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-regulated-learning]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[metacognition]]` |
@@ -429,7 +429,7 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[learned-helplessness]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-retraining]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-two-stage-attribution-intervention-architecture]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Wise-Interventions]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[wise-interventions]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attributional-vocabulary]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[inner-speech]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[inner-speech-vocabulary-as-self-generated-motivational-architecture]]` |
@@ -447,7 +447,7 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[clinical-psychology]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[The-Actor-Observer-Asymmetry-in-Social-Cognition]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Social-Cognition]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[social-cognition]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Perspective-Taking]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Attributional-Processes-in-Intergroup-Relations]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
@@ -457,10 +457,10 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-regulated-learning]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[instructional-design]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Social-Cognition]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[social-cognition]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[cognitive-biases]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Emotion-Theory]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[Motivation-Theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[emotion-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[motivation-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[locus-of-control]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[cross-cultural-psychology]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-regulated-learning]]` |

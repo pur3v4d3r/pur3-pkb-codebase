@@ -375,7 +375,7 @@ Pure lecture without active elements shows consistently poor learning outcomes c
 
 > [!definition]
 > - **Demonstration**:: A pedagogical method where the teacher performs a skill or procedure while students observe, then students practice under supervision
-> - **Theoretical Foundation**:: [[Social Learning Theory]] ([[albert-bandura]]), [[Cognitive-Apprenticeship]]
+> - **Theoretical Foundation**:: [[Social Learning Theory]] ([[albert-bandura]]), [[cognitive-apprenticeship]]
 
 Demonstration and modeling bridges the gap between abstract explanation and practical application by making expert performance visible and providing clear exemplars for novice learners to emulate.
 
@@ -399,7 +399,7 @@ Demonstration and modeling bridges the gap between abstract explanation and prac
 
 > [!connections-and-links]
 > **Evolution to Contemporary Methods**
-> Classical demonstration evolved into [[Cognitive-Apprenticeship]] (see [[#5-instructional-design-frameworks|Instructional Design Frameworks]]), which makes cognitive and metacognitive processes visible, not just physical actions.
+> Classical demonstration evolved into [[cognitive-apprenticeship]] (see [[#5-instructional-design-frameworks|Instructional Design Frameworks]]), which makes cognitive and metacognitive processes visible, not just physical actions.
 
 ### 📝 Rote Learning and Memorization
 
@@ -769,7 +769,7 @@ Challenges involve:
 
 > [!definition]
 > - **Flipped Classroom**:: An instructional approach where direct instruction moves outside class time (typically via video), with class time dedicated to active learning, application, and collaborative work
-> - **Theoretical Foundation**:: [[Active-Learning]], [[Bloom's-Taxonomy]] (reserving class for higher-order thinking)
+> - **Theoretical Foundation**:: [[active-learning]], [[Bloom's-Taxonomy]] (reserving class for higher-order thinking)
 
 The flipped learning approach moves direct instruction from group learning space to individual learning space, transforming the group space into a dynamic, interactive environment where educators guide students as they apply concepts and engage creatively.
 

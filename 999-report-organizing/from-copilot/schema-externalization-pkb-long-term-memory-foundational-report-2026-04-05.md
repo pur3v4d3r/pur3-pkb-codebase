@@ -1058,7 +1058,7 @@ This report identifies two conceptual contributions that go beyond synthesis of 
 > **Connection to this report:** Section 5 briefly notes distributed cognition contexts. Team-level or community-level PKBs represent a significant practical frontier where this report's individual-level framework needs extension.
 > **Priority:** High
 > **Suggested report type:** Foundational Report
-> **Prerequisites:** [[Transactive-Memory-Systems]], [[distributed-cognition]], [[Collaborative-Learning]], [[Knowledge-Management]]
+> **Prerequisites:** [[Transactive-Memory-Systems]], [[distributed-cognition]], [[Collaborative-Learning]], [[knowledge-management]]
 
 > [!topic-idea] **Historical and Cultural Variability in External Schema-Like Structures**
 > **Description:** Oral cultures, manuscript traditions, codex cultures, and digital cultures have each developed external schema structures — memory palaces, commonplace books, card indices, wiki graphs. A historical-genealogical examination would reveal what schema externalization problems each era faced, what structural solutions emerged, and what we can learn from the intellectual history of externalizing schema-like structure.
@@ -1113,7 +1113,7 @@ This report identifies two conceptual contributions that go beyond synthesis of 
 >
 > **[[memory-systems]]** — This report integrates episodic, semantic, and working memory system interactions in the context of knowledge work, enriching the standalone memory systems treatment with a practical framework for application.
 >
-> **[[Knowledge-Management]]** — Schema externalization provides a cognitive science foundation for knowledge management principles that are typically justified on organizational or productivity grounds. This report bridges the cognitive and the organizational.
+> **[[knowledge-management]]** — Schema externalization provides a cognitive science foundation for knowledge management principles that are typically justified on organizational or productivity grounds. This report bridges the cognitive and the organizational.
 
 ---
 

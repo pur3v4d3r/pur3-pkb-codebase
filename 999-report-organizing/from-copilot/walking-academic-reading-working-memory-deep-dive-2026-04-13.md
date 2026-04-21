@@ -1145,7 +1145,7 @@ Synthesizing across all magnification levels, the following protocol emerges as 
 >
 > - **Walking meetings → sitting follow-up:** Walk to generate ideas divergently (cf. Oppezzo & Schwartz 2014), sit to evaluate and structure them convergently. The cognitive basis is identical: walking supports the priming mode, sitting supports the processing mode.
 > - **Commuting + thinking → desk work:** Many knowledge workers report that commuting generates ideas. The mechanism is the same: moderate arousal + reduced executive control (mind-wandering) = associative ideation. The post-commute desk session captures the arousal window for convergent processing.
-> - **Exercise + incubation → focused work:** The well-documented [[Incubation-Effect]] in [[Problem-Solving]] may be partly explained by the arousal dynamics documented here. Moderate exercise shifts the catecholamine balance toward divergent processing; post-exercise return to desk provides the convergent window.
+> - **Exercise + incubation → focused work:** The well-documented [[Incubation-Effect]] in [[problem-solving]] may be partly explained by the arousal dynamics documented here. Moderate exercise shifts the catecholamine balance toward divergent processing; post-exercise return to desk provides the convergent window.
 >
 > **The transferable principle:** Any knowledge work involving both generative (divergent, associative, exploratory) and evaluative (convergent, structured, critical) phases can benefit from movement-state cycling. Use movement for the generative phase; use stillness for the evaluative phase; time the transition to capture the post-movement arousal window for evaluation.
 

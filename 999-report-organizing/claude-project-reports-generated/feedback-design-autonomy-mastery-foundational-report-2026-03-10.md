@@ -105,7 +105,7 @@ related:
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[attribution-theory|Attribution Theory]]"
-  - "[[Goal-Orientation-Theory|Goal Orientation Theory]]"
+  - "[[goal-orientation-theory|Goal Orientation Theory]]"
   - "[[formative-assessment|Formative Assessment]]"
   - "[[cognitive-load-theory|Cognitive Load Theory]]"
 broader:
@@ -152,7 +152,7 @@ expansion-topics:
   - topic: "[[cognitive-load-theory|Cognitive Load Theory]]"
     description: Foundational framework for understanding the processing constraints that govern how feedback information can be received and acted upon
     priority: high
-  - topic: "[[Goal-Orientation-Theory|Goal Orientation Theory]]"
+  - topic: "[[goal-orientation-theory|Goal Orientation Theory]]"
     description: Achievement goal framework distinguishing mastery, performance-approach, and performance-avoidance orientations; essential for understanding how learners interpret feedback
     priority: high
   - topic: "[[autonomy-supportive-teaching|Autonomy-Supportive Teaching]]"
@@ -594,7 +594,7 @@ Important open questions remain. The *optimal trajectory* for moving feedback up
 > > [!topic-idea] [[cognitive-load-theory|Cognitive Load Theory]]
 > > [[john-sweller|John Sweller]]'s theory of working memory constraints and their instructional implications provides the processing architecture within which feedback must operate. Feedback that is perfectly calibrated to motivational and attribution principles can still fail if it overloads working memory — if it presents too many corrective dimensions simultaneously, or if it requires processing resources that compete with task performance. A Cognitive Load Theory report would complete the picture of the cognitive infrastructure for feedback reception. Priority: High.
 
-> > [!topic-idea] [[Goal-Orientation-Theory|Goal Orientation Theory]]
+> > [!topic-idea] [[goal-orientation-theory|Goal Orientation Theory]]
 > > Full treatment of [[Elliot-&-McGregor|Elliot & McGregor]]'s 2 × 2 achievement goal framework — distinguishing mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance orientations — and its implications for how learners process feedback. A performance-avoidance oriented learner receives even well-designed process feedback as a threat; a mastery-approach oriented learner processes the same feedback as valuable data. Understanding goal orientation allows practitioners to calibrate feedback not just to content and level but to the motivational stance of the recipient. Priority: High.
 
 > > [!topic-idea] [[Peer-Feedback-and-Collaborative-Assessment|Peer Feedback and Collaborative Assessment]]

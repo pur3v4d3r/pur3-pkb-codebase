@@ -227,7 +227,7 @@ Based on your stated domains (Cognitive Science, PKM, Cosmology, Prompt Engineer
    - Read Master Index + Framework Core Sections 1-2
    - Follow Quick Start Guide Phases 1-6
    - Implement PKM Methodology domain
-   - Document 3 concepts: [[zettelkasten]], [[Atomic-Notes]], [[Progressive-Summarization]]
+   - Document 3 concepts: [[zettelkasten]], [[atomic-notes]], [[Progressive-Summarization]]
 
 2. **This Week** (2 hours):
    - Create 10 application notes (your existing workflows)

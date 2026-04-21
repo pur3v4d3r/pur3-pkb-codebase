@@ -100,7 +100,7 @@ SORT file.name ASC
 > - [ ] Audit existing naming patterns (use [[Dataview]] queries)  
 > - [ ] Identify inconsistencies and problem areas
 > - [ ] Catalog all [[Metadata Architecture]] fields in use
-> - [ ] Survey note types (count of [[Atomic-Notes]], [[Reference Notes]], [[MOC]] notes)
+> - [ ] Survey note types (count of [[atomic-notes]], [[Reference Notes]], [[MOC]] notes)
 > - [ ] List pain points and desired improvements
 > 
 > ### Discovery Questions
@@ -646,7 +646,7 @@ I'll create a comprehensive reference note with:
 - Examples and templates
 
 **Wiki-links to identify:**
-[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[obsidian]], [[zettelkasten]], [[para-method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[yaml-frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[cognitive-load]], [[mental-models]], [[MOC]], [[Atomic-Notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building-a-Second-Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
+[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[obsidian]], [[zettelkasten]], [[para-method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[yaml-frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[cognitive-load]], [[mental-models]], [[MOC]], [[atomic-notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building-a-Second-Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
 
 **Callouts to use (selecting 10-15 from the pool):**
 - [!definition] - for key terms
@@ -806,7 +806,7 @@ Personal tag vocabularies can be highly specific to your field or profession, cr
 > [!use-cases-and-examples]
 > **Note Type Taxonomy** — Identifies the structural and functional nature of the note:
 > 
-> - `#type/atomic` — Single-concept [[Atomic-Notes]] following [[zettelkasten]] principles
+> - `#type/atomic` — Single-concept [[atomic-notes]] following [[zettelkasten]] principles
 > - `#type/reference` — Comprehensive resource notes with exhaustive coverage
 > - `#type/literature` — Notes from external sources (books, papers, articles)
 > - `#type/synthesis` — Integration notes connecting multiple concepts
@@ -1193,12 +1193,12 @@ Controlled Taxonomy ←→ Organic Folksonomy
 2. **[[Faceted Classification Systems]]**
    - *Connection*: Faceted classification allows items to be classified in multiple, orthogonal ways simultaneously—the theoretical foundation for multi-dimensional tag frameworks
    - *Depth Potential*: Ranganathan's [[Colon Classification]], faceted search implementation, combining facets with hierarchies, and applying facet analysis to personal knowledge domains deserves full treatment
-   - *Knowledge Graph Role*: Bridges [[Library Science]] principles with modern [[Information-Architecture]], connecting to [[User Experience Design]] and [[Search Interface Design]]
+   - *Knowledge Graph Role*: Bridges [[Library Science]] principles with modern [[Information-Architecture]], connecting to [[user-experience-design]] and [[Search Interface Design]]
 
 3. **[[Controlled Vocabularies and Thesauri]]**
    - *Connection*: Tags represent controlled vocabulary terms; understanding thesaurus construction (preferred terms, synonyms, related terms, broader/narrower relationships) enhances taxonomy design
    - *Depth Potential*: SKOS (Simple Knowledge Organization System), authority control, synonym management, term mapping, and building personal thesauri for domain-specific knowledge
-   - *Knowledge Graph Role*: Connects to [[Natural Language Processing]], [[Semantic Web Technologies]], [[Ontology Engineering]], and professional [[Knowledge-Management]] practices
+   - *Knowledge Graph Role*: Connects to [[natural-language-processing]], [[Semantic Web Technologies]], [[Ontology Engineering]], and professional [[knowledge-management]] practices
 
 4. **[[Progressive Summarization and Tag Evolution]]**
    - *Connection*: As notes evolve through [[Progressive-Summarization]] stages, their tag requirements change—initial broad tags refine into specific classifications as understanding deepens

@@ -147,7 +147,7 @@ first and felt most natural.
 
 ### Exemplar 4: Metacognition (Self-Regulated Learning)
 
-**Topic area:** [[metacognition]] · [[self-regulated-learning]] · [[Monitoring]] · [[Epistemic Feelings]]
+**Topic area:** [[metacognition]] · [[self-regulated-learning]] · [[Monitoring]] · [[epistemic-feelings]]
 **Demonstrates:** Contemplative voice at maximum warmth; mechanism-tracing following the full monitoring-control loop
 
 ```markdown

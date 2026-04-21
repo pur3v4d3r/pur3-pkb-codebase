@@ -241,10 +241,10 @@ actions:
 - [[working-memory]]
 - [[Curve Of Forgetting]]-
 	- [[long-term-memory]]
-		- [[Long-Term-Working-Memory]]
+		- [[long-term-working-memory]]
 - [[Retrospective Memory]]
 
-- [[Biologically Primary Knowledge]]
+- [[biologically-primary-knowledge]]
 - [[Biologically Secondary Knowledge]]
 
 - [[metacognition]]
@@ -281,7 +281,7 @@ actions:
 - [[Creative Thinking]]
 - [[reflective-thinking]]
 - [[critical-thinking]]
-	- [[Problem-Solving]]
+	- [[problem-solving]]
 	- [[Critical-Thinking-Frameworks]]
 		- [[Bloom's-Taxonomy]]
 		- [[Facione's Dual-Dimensional Model]]
@@ -300,7 +300,7 @@ actions:
 
 - [[Cognitive Distortions]]
 		- [[Automatic Thoughts]]
-		- [[Rumination]]
+		- [[rumination]]
 
 - [[cognitive-biases]]
 - [[Logical Fallacy]]

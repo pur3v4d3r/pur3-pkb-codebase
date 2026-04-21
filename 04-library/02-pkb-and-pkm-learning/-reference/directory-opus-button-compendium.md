@@ -1584,13 +1584,13 @@ type: reference
 * *Depth Potential:** Custom columns, conditional formatting, dynamic labels
 * *Knowledge Graph Role:** Advanced customization extending basic button functionality
 * *Priority:** Low --- specialized need for power users
-* *Prerequisites:** [[Directory-Opus-Scripting]], [[Basic-Programming-Logic]]
+* *Prerequisites:** [[Directory-Opus-Scripting]], [[basic-programming-logic]]
 
 ### 6. **[[Multi-Tool-Automation-Pipelines]]** *[Requires prerequisites]*
 * *Connection:** Buttons can trigger external tools; pipelines chain multiple tools together
 * *Depth Potential:** ImageMagick integration, FFmpeg processing, PDF manipulation chains
 * *Knowledge Graph Role:** Cross-tool automation building on single-tool buttons
 * *Priority:** Low --- specialized workflows requiring specific tool combinations
-* *Prerequisites:** [[CLI-Tool-Proficiency]], [[Directory-Opus-Scripting]]
+* *Prerequisites:** [[cli-tool-proficiency]], [[Directory-Opus-Scripting]]
 
 - --

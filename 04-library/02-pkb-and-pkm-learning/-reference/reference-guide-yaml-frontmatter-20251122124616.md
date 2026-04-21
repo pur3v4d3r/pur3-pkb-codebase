@@ -31,7 +31,7 @@ link-related: []
 [[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.
 
 > [!definition] What is Frontmatter?
-> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[Knowledge-Management]] workflows.
+> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[knowledge-management]] workflows.
 
 Below are tables of common and functionally-useful frontmatter keys, categorized by their primary purpose.
 

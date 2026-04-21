@@ -363,7 +363,7 @@ The automation of schemas described in the preceding section produces a characte
 
 ### Recognition-Primed Decision Making
 
-The most systematic theoretical account of expert intuitive performance is the [[Recognition-Primed-Decision-Model|Recognition-Primed Decision]] (RPD) model, developed by [[Gary-Klein|Gary Klein]] and colleagues through their studies of [[Naturalistic-Decision-Making|naturalistic decision making]] — real-world decision making under conditions of time pressure, uncertainty, dynamic change, and high stakes. Klein's research, conducted initially with fireground commanders and later extended to military officers, intensive care nurses, commercial pilots, and other expert practitioners, revealed that experienced decision makers rarely engage in the kind of systematic option comparison that classical decision theory prescribes. Instead, they assess the situation, recognize it as a familiar type (or as analogous to a familiar type), and thereby generate a workable course of action that can be evaluated and, if necessary, adapted — all in a process that typically takes seconds rather than minutes.
+The most systematic theoretical account of expert intuitive performance is the [[Recognition-Primed-Decision-Model|Recognition-Primed Decision]] (RPD) model, developed by [[gary-klein|Gary Klein]] and colleagues through their studies of [[naturalistic-decision-making|naturalistic decision making]] — real-world decision making under conditions of time pressure, uncertainty, dynamic change, and high stakes. Klein's research, conducted initially with fireground commanders and later extended to military officers, intensive care nurses, commercial pilots, and other expert practitioners, revealed that experienced decision makers rarely engage in the kind of systematic option comparison that classical decision theory prescribes. Instead, they assess the situation, recognize it as a familiar type (or as analogous to a familiar type), and thereby generate a workable course of action that can be evaluated and, if necessary, adapted — all in a process that typically takes seconds rather than minutes.
 
 The RPD model describes this process in three variants of increasing complexity. In the simplest case, the expert recognizes the situation as a prototypical instance of a familiar category, and the appropriate response is immediately available as part of the recognition. In more complex cases, the expert recognizes the situation but must mentally simulate the candidate response to assess its adequacy before acting. In the most complex cases, the situation is novel and the expert must construct a response through deliberate adaptation of familiar patterns.
 
@@ -458,7 +458,7 @@ But the worked example effect does not persist across the expertise continuum. A
 
 ### The Four-Component Instructional Design Model
 
-[[jeroen-van-merriënboer|Jeroen van Merriënboer's]] [[Four-Component-Instructional-Design|Four-Component Instructional Design]] (4C/ID) model extends CLT into a comprehensive framework for designing instruction for complex learning — the kind of learning that requires the integration of knowledge, skills, and attitudes across multiple task domains, as in professional and technical education. The model's four components — learning tasks, supportive information, procedural information, and part-task practice — are explicitly designed to manage the different types of cognitive load that arise in complex learning environments.
+[[jeroen-van-merriënboer|Jeroen van Merriënboer's]] [[four-component-instructional-design|Four-Component Instructional Design]] (4C/ID) model extends CLT into a comprehensive framework for designing instruction for complex learning — the kind of learning that requires the integration of knowledge, skills, and attitudes across multiple task domains, as in professional and technical education. The model's four components — learning tasks, supportive information, procedural information, and part-task practice — are explicitly designed to manage the different types of cognitive load that arise in complex learning environments.
 
 Learning tasks are whole-task experiences of increasing complexity — analogous to the increasingly challenging problems of deliberate practice — that provide the experiential basis for schema construction. [[scaffolding|Supportive information]] — conceptual models, cognitive strategies, and domain knowledge — is presented before or during learning tasks to activate relevant prior knowledge and provide the organizational frameworks within which new schemas can be constructed. Procedural information — step-by-step instructions for routine aspects of the task — is provided just in time, when the learner needs it, to avoid overloading working memory during task performance. Part-task practice targets specific routine aspects that require automation, providing the repetitive practice necessary for schema automation without the cognitive overhead of whole-task performance.
 
@@ -470,7 +470,7 @@ The 4C/ID model can be understood as an engineering application of the chunking-
 > [!section-summary] **Section Summary**
 > - [[cognitive-load-theory|Cognitive load theory]] translates chunking and schema theory into actionable instructional design principles, centered on managing the demands placed on working memory during learning.
 > - The [[worked-example-effect|worked example effect]] and [[expertise-reversal-effect|expertise reversal effect]] demonstrate that optimal instruction must be continuously calibrated to the learner's developing expertise — what helps novices can hinder experts.
-> - The [[Four-Component-Instructional-Design|4C/ID model]] provides a comprehensive framework that manages the full novice-to-expert transition through scaffolded learning tasks, appropriately timed information, and targeted automation practice.
+> - The [[four-component-instructional-design|4C/ID model]] provides a comprehensive framework that manages the full novice-to-expert transition through scaffolded learning tasks, appropriately timed information, and targeted automation practice.
 
 > [!reflection] **Reflective Questions**
 > 1. If effective instructional design recapitulates the natural chunking process in compressed form, are there limits to this compression — points at which learning cannot be further accelerated without loss of quality in the resulting knowledge structures?
@@ -561,7 +561,7 @@ Several integrative themes emerge from this analysis. The first is the centralit
 
 The second theme is the *progressive nature of expertise development*. Expertise is not a threshold phenomenon but a continuous process of knowledge reorganization. Each stage of the trajectory — from the novice's element-by-element processing to the expert's holistic, automatic recognition — represents a quantitative and qualitative change in the chunk library: more chunks, larger chunks, more deeply nested chunks, more richly interconnected chunks, more thoroughly automated chunks. The difference between the novice and the expert is not a difference in cognitive hardware but a difference in cognitive software — the accumulated product of tens of thousands of hours of experience organized by the chunking mechanism.
 
-The third theme is the *design implication*: if we understand how expertise develops, we can design instructional environments that accelerate the process. [[cognitive-load-theory|Cognitive load theory]], the [[worked-example-effect|worked example effect]], the [[faded-worked-example|fading protocol]], the [[Four-Component-Instructional-Design|4C/ID model]], and the principles of [[deliberate-practice|deliberate practice]] all represent attempts to engineer the conditions that optimize chunk formation, schema construction, and automation. These are not merely pedagogical techniques; they are applications of the cognitive science of expertise.
+The third theme is the *design implication*: if we understand how expertise develops, we can design instructional environments that accelerate the process. [[cognitive-load-theory|Cognitive load theory]], the [[worked-example-effect|worked example effect]], the [[faded-worked-example|fading protocol]], the [[four-component-instructional-design|4C/ID model]], and the principles of [[deliberate-practice|deliberate practice]] all represent attempts to engineer the conditions that optimize chunk formation, schema construction, and automation. These are not merely pedagogical techniques; they are applications of the cognitive science of expertise.
 
 This report has also offered two original contributions. The first is the *constraint-liberation dialectic* — the explicit articulation of the paradox that working memory limitation is both the obstacle that makes novice performance difficult and the condition that makes expert development possible. The second is the *currency hypothesis* — the proposal that chunking is the unit currency of deliberate practice, the fundamental cognitive operation through which each cycle of targeted, feedback-guided practice produces its developmental effects.
 
@@ -643,7 +643,7 @@ Finally, returning to the guiding question posed in the schema activation: *What
 >
 > **Report-Specific Significance:** RPD provides the decision-making account that complements the perceptual account of expert chunking, showing how chunked knowledge supports not only recognition but also action selection under time pressure.
 >
-> **See also:** [[Recognition-Primed-Decision-Model]], [[Gary-Klein]], [[Naturalistic-Decision-Making]], [[tacit-knowledge]]
+> **See also:** [[Recognition-Primed-Decision-Model]], [[gary-klein]], [[naturalistic-decision-making]], [[tacit-knowledge]]
 
 > [!definition] **Cognitive Bandwidth Liberation**
 > The freeing of [[working-memory|working memory]] resources that occurs when schemas are automated, creating capacity for higher-order cognitive operations — strategic planning, creative thinking, metacognitive monitoring, and further learning. This process produces a self-reinforcing cycle in which each increment of automation opens cognitive space for the next increment of schema construction.
@@ -703,7 +703,7 @@ Finally, returning to the guiding question posed in the schema activation: *What
 > **Relationships:** Applied chunk-based models of expertise to real-world decision making; debated Kahneman on the conditions under which intuitive expertise is trustworthy.
 
 > [!person] **Jeroen J. G. van Merriënboer** — Maastricht University
-> Developed the [[Four-Component-Instructional-Design|Four-Component Instructional Design]] (4C/ID) model, a comprehensive framework for designing instruction for complex learning tasks. The 4C/ID model translates the cognitive science of chunking, schema construction, and automation into a systematic instructional design methodology.
+> Developed the [[four-component-instructional-design|Four-Component Instructional Design]] (4C/ID) model, a comprehensive framework for designing instruction for complex learning tasks. The 4C/ID model translates the cognitive science of chunking, schema construction, and automation into a systematic instructional design methodology.
 > **Key works referenced:** van Merriënboer & Kirschner (2018). *Ten Steps to Complex Learning.*
 > **Relationships:** Built on Sweller's cognitive load theory; extended instructional design from simple to complex learning.
 
@@ -986,7 +986,7 @@ Finally, returning to the guiding question posed in the schema activation: *What
 > [!further-exploration] **Directions for Future Investigation**
 > The following topics represent productive directions for deepening and extending the knowledge structures developed in this report. Each includes a recommended report type from the PKB Report Generator Suite.
 
-> [!topic-idea] **[[Long-Term-Working-Memory]] — Ericsson and Kintsch's Challenge to Classical Capacity Limits**
+> [!topic-idea] **[[long-term-working-memory]] — Ericsson and Kintsch's Challenge to Classical Capacity Limits**
 > **Description:** Ericsson and Kintsch (1995) proposed that experts develop domain-specific retrieval structures that allow them to use long-term memory as a functional extension of working memory — effectively circumventing the ~4-item capacity limit within their domain of expertise. This construct, long-term working memory (LTWM), has significant implications for how we understand the relationship between chunking and working memory capacity in experts.
 >
 > **Connection to this report:** LTWM provides an alternative (or complementary) account of how experts process more information than working memory capacity would seemingly allow. Where this report emphasizes chunk compression within the classical working memory architecture, LTWM emphasizes the use of long-term memory retrieval structures to expand the functional capacity of the system.
@@ -1020,7 +1020,7 @@ Finally, returning to the guiding question posed in the schema activation: *What
 >
 > **Priority:** Medium
 > **Suggested report type:** Annotated Critical Analysis — examining the evidence for and against chunking theory's applicability in ill-structured domains
-> **Prerequisites:** [[expertise-development]], [[domain-knowledge]], [[Naturalistic-Decision-Making]]
+> **Prerequisites:** [[expertise-development]], [[domain-knowledge]], [[naturalistic-decision-making]]
 
 > [!topic-idea] **[[Cognitive-Load-Theory-Advanced-Applications]] — Beyond the Classroom**
 > **Description:** While CLT is most commonly applied to classroom instruction and educational technology, its principles have implications for any context in which human cognition must process complex information — medical decision support systems, user interface design, legal document presentation, financial reporting, and emergency procedure design.
@@ -1029,7 +1029,7 @@ Finally, returning to the guiding question posed in the schema activation: *What
 >
 > **Priority:** Medium
 > **Suggested report type:** Practitioner's Field Guide — problem-first practical scaffolding for CLT application across domains
-> **Prerequisites:** [[cognitive-load-theory]], [[instructional-design]], [[Four-Component-Instructional-Design]]
+> **Prerequisites:** [[cognitive-load-theory]], [[instructional-design]], [[four-component-instructional-design]]
 
 ---
 

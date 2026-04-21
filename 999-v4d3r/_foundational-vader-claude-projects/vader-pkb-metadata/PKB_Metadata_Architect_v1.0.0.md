@@ -928,7 +928,7 @@ alternatives:
 ```yaml
 applied-in:
   - "[[Computer Vision]]"
-  - "[[Natural Language Processing]]"
+  - "[[natural-language-processing]]"
   - "[[Robotics]]"
 
 examples:

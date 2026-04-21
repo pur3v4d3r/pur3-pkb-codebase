@@ -71,7 +71,7 @@ related-concepts:
   - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
   - "[[calibration]]"
   - "[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]"
-  - "[[Implementation-Intentions|Implementation Intentions]]"
+  - "[[implementation-intentions|Implementation Intentions]]"
   - "[[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]]"
   - "[[habit-formation|Habit Formation]]"
   - "[[Cue-Routine-Reward-Loop]]"
@@ -168,7 +168,7 @@ The design significance of this framework for PKB architecture goes beyond conce
 
 ### Gollwitzer's Implementation Intentions: The Bridge from Intention to Habit
 
-The connection between Zimmerman's SRL framework and Gollwitzer's [[Implementation-Intentions|Implementation Intentions]] research is not obvious until you examine the specific mechanism by which the SRL cycle breaks down in practice. Research consistently shows that learners with strong metacognitive knowledge and high SRL intentions still fail to perform monitoring behaviors reliably. The failure point is *implementation* — the translation of the intention "I will monitor my understanding" into the actual behavior "I am monitoring my understanding right now, in this specific situation."
+The connection between Zimmerman's SRL framework and Gollwitzer's [[implementation-intentions|Implementation Intentions]] research is not obvious until you examine the specific mechanism by which the SRL cycle breaks down in practice. Research consistently shows that learners with strong metacognitive knowledge and high SRL intentions still fail to perform monitoring behaviors reliably. The failure point is *implementation* — the translation of the intention "I will monitor my understanding" into the actual behavior "I am monitoring my understanding right now, in this specific situation."
 
 > [!definition] **Implementation Intentions (Behavioral Science, Gollwitzer 1993, 1999; Gollwitzer & Sheeran 2006)**
 > A self-regulatory strategy in which a person supplements a goal intention ("I intend to do X") with a situational specification ("I intend to do X when situation Y occurs"). Formulated as explicit if-then plans: "If situation Y arises, then I will initiate behavior X." Gollwitzer and Sheeran's (2006) meta-analysis across 94 studies found that implementation intentions increased goal achievement with an effect size of d = 0.65 — a large effect by behavioral science standards. The mechanism is the creation of a mental link between a situational cue and a behavioral response, such that the cue automatically activates the behavior without requiring deliberate retrieval of the goal intention. Implementation intentions do not strengthen motivation; they automate the detection of the appropriate moment to act.
@@ -429,7 +429,7 @@ Three open questions emerge from this synthesis. First, what is the optimal spec
 >
 > - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — A hub concept connecting this report to the desirable difficulties literature (Report 16), the testing effect (Report 06), and calibration and epistemic humility (Report 18). The fluency illusion is the mechanism that most systematically undermines metacognitive monitoring; understanding it structurally connects the memory science, metacognition, and instructional design threads of the framework.
 >
-> - **[[Implementation-Intentions|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
+> - **[[implementation-intentions|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
 >
 > - **[[zimmerman-srl-model|Zimmerman SRL Model]]** — This report advances the use of Zimmerman's framework from conceptual reference (as in Report 04) to structural design template. The three-phase forethought-performance-self-reflection structure maps directly onto the daily/session/weekly monitoring rhythms of the Embedded Monitoring Architecture.
 >

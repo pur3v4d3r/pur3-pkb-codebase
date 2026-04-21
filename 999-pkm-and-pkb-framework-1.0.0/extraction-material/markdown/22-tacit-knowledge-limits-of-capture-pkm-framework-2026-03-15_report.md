@@ -565,7 +565,7 @@ extraction_summary:
 - [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Externalization-Exercises|Externalization Exercises]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[phenomenology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
@@ -589,7 +589,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
+| 1 | [[knowledge-management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 2 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 3 | [[phenomenology]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 4 | [[cognitive-science|Cognitive Science]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
@@ -646,7 +646,7 @@ extraction_summary:
 - [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Externalization-Exercises|Externalization Exercises]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[phenomenology]]
 - [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]

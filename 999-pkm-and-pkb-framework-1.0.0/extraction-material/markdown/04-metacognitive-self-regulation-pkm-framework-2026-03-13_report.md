@@ -541,7 +541,7 @@ extraction_summary:
 - [[Forgetting-Curve|Forgetting Curve]]
 - [[illusion-of-knowing|Illusion of Knowing]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Learning-Journal|Learning Journal]]
 - [[metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]
@@ -587,7 +587,7 @@ extraction_summary:
 | 10 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 11 | [[pragmatism]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 12 | [[Reflective-Inquiry|Reflective Inquiry]] | — | — | Disciplinary Contributions and Their ... | 108 |
-| 13 | [[Knowledge-Management|Knowledge Management]] | — | — | Disciplinary Contributions and Their ... | 108 |
+| 13 | [[knowledge-management|Knowledge Management]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 14 | [[Reflective-Practitioner|Reflective Practitioner]] | — | — | Disciplinary Contributions and Their ... | 108 |
 | 15 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | What Metacognition Actually Is | 132 |
 | 16 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | What Metacognition Actually Is | 132 |
@@ -689,7 +689,7 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 - [[Forgetting-Curve|Forgetting Curve]]
 - [[illusion-of-knowing|Illusion of Knowing]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Learning-Journal|Learning Journal]]
 - [[metacognition]]
 - [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]

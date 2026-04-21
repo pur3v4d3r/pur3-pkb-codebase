@@ -703,7 +703,7 @@ dv.table(
 
 **Convert 3-5 Existing Concept Notes:**
 
-1. **[[Atomic-Notes]]** (already exists)
+1. **[[atomic-notes]]** (already exists)
    - Add self-discovery query
    - Add concept health metrics
 
@@ -719,7 +719,7 @@ dv.table(
 
 Select notes from different domains and add:
 ```yaml
-concepts: [[Atomic-Notes]], [[Advanced Prompting]]
+concepts: [[atomic-notes]], [[Advanced Prompting]]
 tools: [[Dataview-Plugin]]
 ```
 

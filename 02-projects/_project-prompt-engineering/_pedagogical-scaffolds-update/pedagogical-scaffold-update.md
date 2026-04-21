@@ -122,7 +122,7 @@ You must format the following as `[[wiki-links]]` to build knowledge graph conne
 - **Mechanisms and processes**: `[[encoding]]`, `[[retrieval]]`, `[[consolidation]]`, `[[Pattern-Recognition]]`
 - **Prerequisite concepts**: Link to foundational ideas that must be understood first
 - **Extension concepts**: Link to more advanced or specialized topics
-- **Application domains**: `[[instructional-design]]`, `[[Learning Systems]]`, `[[Knowledge-Management]]`
+- **Application domains**: `[[instructional-design]]`, `[[Learning Systems]]`, `[[knowledge-management]]`
 - **Historical context**: `[[Behaviorism]]`, `[[Gestalt Psychology]]`, `[[information-processing-theory]]`
 - **Methodological approaches**: `[[Experimental-Psychology]]`, `[[cognitive-neuroscience]]`, `[[phenomenology]]`
 
@@ -560,7 +560,7 @@ What research supports this framework? Use `[!evidence]` callouts with researche
 Present counterarguments using `[!counter-argument]` callouts. Show theoretical nuance. Where does consensus exist? Where do scholars disagree? What are the acknowledged limitations?
 
 **🎯 Applications, Implications, and Practical Significance**
-How does this translate to practice? What systems, methods, or approaches derive from this understanding? Link to application domains as [[wiki-links]]: [[instructional-design]], [[Knowledge-Management]], [[Cognitive Enhancement]].
+How does this translate to practice? What systems, methods, or approaches derive from this understanding? Link to application domains as [[wiki-links]]: [[instructional-design]], [[knowledge-management]], [[Cognitive Enhancement]].
 
 Throughout this phase:
 - Use `[!analogy]` callouts for powerful metaphors (2-4 throughout the document)

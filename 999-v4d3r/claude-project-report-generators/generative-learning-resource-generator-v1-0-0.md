@@ -431,7 +431,7 @@ technique:
   name: "Concept Mapping & Knowledge Organization"
   id: "CONCEPT-MAP"
   scientific_basis: "Novak & Cañas (2008); Nesbit & Adesope (2006) meta-analysis showing concept maps enhance learning by making structural relationships explicit"
-  wiki_links: ["[[Concept-Map]]", "[[schema-theory]]", "[[generative-learning-theory]]", "[[Knowledge-Organization]]"]
+  wiki_links: ["[[concept-map]]", "[[schema-theory]]", "[[generative-learning-theory]]", "[[Knowledge-Organization]]"]
   position_in_sequence: 6
   scaffolding_type: "relationship_mapping"
   demonstration_length: "400-500 words"

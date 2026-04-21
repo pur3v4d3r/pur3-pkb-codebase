@@ -488,7 +488,7 @@ The connection between critical thinking and autonomy also explains why authorit
 >
 > **[[information-literacy]]** - The processes of identifying information needs, evaluating source credibility, and synthesizing information from multiple sources constitute shared ground between critical thinking and information literacy frameworks.
 >
-> **[[Problem-Solving]]** and **[[Creative Thinking]]** - While distinct constructs, critical and creative thinking intersect in complex problem-solving requiring both generative thinking (creating alternatives) and evaluative thinking (assessing alternatives).
+> **[[problem-solving]]** and **[[Creative Thinking]]** - While distinct constructs, critical and creative thinking intersect in complex problem-solving requiring both generative thinking (creating alternatives) and evaluative thinking (assessing alternatives).
 >
 > **[[cognitive-development]]** - The protracted development of executive functions and prefrontal cortex maturation explains critical thinking's gradual emergence, connecting to Piagetian stages of cognitive development and neo-Piagetian information-processing theories.
 >

@@ -458,7 +458,7 @@ status: "generated"
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[achievement-goal-theory]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[2×2-Framework]]` |
-| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[Replication-Crisis-in-Psychology]]` |
+| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[replication-crisis-in-psychology]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[motivational-climate-design]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[formative-assessment]]` |
@@ -506,11 +506,11 @@ status: "generated"
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[self-determination-theory]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[carol-s.-dweck]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[growth-mindset-implicit-theories-of-intelligence]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Andrew-J.-Elliot]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[andrew-j.-elliot]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Judith-Harackiewicz]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Andrew-J.-Elliot]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[andrew-j.-elliot]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Marcy-Church]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Andrew-J.-Elliot]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[andrew-j.-elliot]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Kenji-Murayama]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Reinhard-Pekrun]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[carol-ames]]` |

@@ -81,7 +81,7 @@ This framework assumes that the *act* of "planning" is a singular, transferable 
 >
 >   * **[[self-regulated-learning]]:** This is conventionally defined as the cyclical, self-directed process of planning, monitoring, and evaluating one's own learning processes, independent of the domain of learning.
 >   * **[[metacognition]]:** This is defined as "thinking about thinking," a general-purpose monitoring function that oversees and controls other cognitive processes, again, assumed to be domain-general.
->   * **[[Learning Strategies]]:** This term refers to a collection of discrete, teachable "tools" or "techniques" like using mnemonics, concept mapping, or self-testing, which are believed to enhance learning in any subject.
+>   * **[[learning-strategies]]:** This term refers to a collection of discrete, teachable "tools" or "techniques" like using mnemonics, concept mapping, or self-testing, which are believed to enhance learning in any subject.
 
 > [!warning]
 > **What We Accept on Authority:**
@@ -396,7 +396,7 @@ Now that we have established the *source* of cognitive capacity (freed WM from s
 > **Emergent Concepts:**
 >
 >   * **[[self-regulated-learning]]:** We can now re-define this term from first principles. It is **"the set of emergent, domain-specific behaviors (e.g., simulation, comparison) that become possible when an individual's schema-driven automation (T1.2) frees sufficient working memory capacity (Axiom 1) to allow for the manipulation and evaluation of the schemas themselves (T2.1)."**
->   * **[[Adaptive Expertise]]:** This is not a primitive term but a shorthand for: **"a state of high-schema-automation (Axiom 3, T1.2) that allows an individual to not only *fluently apply* existing schemas but also to use their freed WM (T2.1) to *adapt, combine, or create new schemas* to solve novel problems."** This is the ultimate goal, and it is inseparable from self-regulation.
+>   * **[[adaptive-expertise]]:** This is not a primitive term but a shorthand for: **"a state of high-schema-automation (Axiom 3, T1.2) that allows an individual to not only *fluently apply* existing schemas but also to use their freed WM (T2.1) to *adapt, combine, or create new schemas* to solve novel problems."** This is the ultimate goal, and it is inseparable from self-regulation.
 
 > [!analogy]
 > **The Reconstruction Process:**
@@ -643,7 +643,7 @@ What else becomes possible from these axioms?
 >
 >   * This same axiomatic structure (A1, A2, A3) can be used to deconstruct *other* "general skill" myths.
 >   * **[[critical-thinking]]:** The "conventional" view is that "critical thinking" is a general skill. Our model proves this is false. "Critical thinking" is just *what you call* an expert *using their schemas* (T2.1) to "monitor" and "evaluate" claims in their domain. You cannot be a "general critical thinker"; you can only be a "critical thinker *in history*" or "critical thinker *in chemistry*." It suffers from the same T3.1 fallacy.
->   * **[[Problem-Solving]]:** Same analysis. "Problem-solving" is not a general skill. It is the schema-driven process (T2.1) of identifying a problem type and applying a known, schema-based solution.
+>   * **[[problem-solving]]:** Same analysis. "Problem-solving" is not a general skill. It is the schema-driven process (T2.1) of identifying a problem type and applying a known, schema-based solution.
 >
 > **This reveals a deep structural pattern:** *All* alleged "high-order general cognitive skills" are illusions. They are all just *labels for schema in action*.
 
@@ -747,7 +747,7 @@ Was this arduous, multi-thousand-word reconstruction worth it?
 > This method is *not* for everything. It is high-effort. You should *not* use it to learn "how to make a sandwich."
 >
 >   * **Use this method for:** *High-stakes, foundational concepts*. The "linchpin" ideas upon which an entire field rests.
->   * **Topics that benefit:** [[critical-thinking]], [[Problem-Solving]], [[Learning]], [[Management Theory]], [[Economic Principles]], [[Political Ideologies]].
+>   * **Topics that benefit:** [[critical-thinking]], [[problem-solving]], [[Learning]], [[Management Theory]], [[Economic Principles]], [[Political Ideologies]].
 >   * **Recognize the need:** Use this method when the "conventional wisdom" seems *too simple*, *contradictory*, or *fails to explain* observable paradoxes (like the "SRL skill" not transferring). That "itch" of cognitive dissonance is the signal to begin deconstruction.
 
 -----
@@ -851,7 +851,7 @@ Was this arduous, multi-thousand-word reconstruction worth it?
   * [[Novice-Expert Gap]]
   * [[Schema (Psychology)]]
   * [[Domain-Specificity]] vs. [[Domain-Generality]]
-  * [[Adaptive Expertise]]
+  * [[adaptive-expertise]]
   * [[The Fallacy of General Skills]]
   * [[Critical Thinking as Domain-Specific]]
   * [[Epistemology and Foundations of Knowledge]]

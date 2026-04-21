@@ -50,7 +50,7 @@ habit. It emerges from genuine [[Doubt]], proceeds through successive [[inferenc
 passive reception but active **[[Inquiry]]**: a transaction between a person and a
 problematic situation.
 
-Dewey's work anticipates [[metacognition]], [[Problem-Solving|problem-based learning]],
+Dewey's work anticipates [[metacognition]], [[problem-solving|problem-based learning]],
 and modern [[critical-thinking]] frameworks by nearly a century. Reading it today, one
 finds both a precise philosophical anatomy of thought and a practical manual for
 anyone who teaches, learns, or manages knowledge.

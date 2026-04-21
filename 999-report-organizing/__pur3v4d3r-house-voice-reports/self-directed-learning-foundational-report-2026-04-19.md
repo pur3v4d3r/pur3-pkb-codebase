@@ -99,7 +99,7 @@ broader: ["[[Adult-Education]]", "[[learning-projects]]"]
 narrower: ["[[self-directed-learning-readiness-scale]]", "[[sdl-as-educational-goal]]", "[[personal-responsibility-orientation]]"]
 see-also: ["[[heutagogy]]", "[[Transformative-Learning]]", "[[communities-of-practice]]"]
 builds-on: ["[[andragogy]]", "[[self-regulated-learning]]", "[[self-determination-theory]]"]
-enables: ["[[Personal-Learning-Environments]]", "[[learning-contracts]]", "[[personal-knowledge-management]]"]
+enables: ["[[personal-learning-environments]]", "[[learning-contracts]]", "[[personal-knowledge-management]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -421,7 +421,7 @@ In workplace settings, self-directed learning has become not merely a desirable 
 
 In higher education, the relationship between self-directed learning and institutional structure is more complex, because universities simultaneously claim to develop autonomous learners and maintain tight control over curriculum, assessment, and progression. The tension is structural: institutions designed around instructor-defined syllabi, standardized assessments, and semester-bounded courses create an environment in which the most rewarded learning behaviors are compliance and efficient information processing rather than initiative and independent inquiry. Programs that genuinely foster self-directed learning — through [[learning-contracts|learning contracts]], independent studies, problem-based learning curricula, and student-designed projects — necessarily surrender some of the control that institutional structures are designed to maintain, which is why such programs, though widely praised, remain pedagogically marginal in most university contexts.
 
-The digital environment represents the most transformative context for self-directed learning because it has simultaneously made the raw materials of learning universally accessible and made the curation and evaluation of those materials dramatically more demanding. A learner in 1975, when Knowles published his foundational work, faced the primary challenge of *finding* learning resources — libraries, expert contacts, correspondence courses. A learner today faces the inverse challenge: an overwhelming abundance of resources of wildly varying quality, requiring sophisticated evaluative judgment to distinguish authoritative sources from misleading ones, substantive treatments from superficial summaries, and evidence-based claims from unsupported opinions. [[Personal-Learning-Environments|Personal learning environments]] — the self-curated digital ecosystems of tools, platforms, communities, and resources that learners construct to support their ongoing learning — have emerged as the primary infrastructure of self-directed learning in the digital age.
+The digital environment represents the most transformative context for self-directed learning because it has simultaneously made the raw materials of learning universally accessible and made the curation and evaluation of those materials dramatically more demanding. A learner in 1975, when Knowles published his foundational work, faced the primary challenge of *finding* learning resources — libraries, expert contacts, correspondence courses. A learner today faces the inverse challenge: an overwhelming abundance of resources of wildly varying quality, requiring sophisticated evaluative judgment to distinguish authoritative sources from misleading ones, substantive treatments from superficial summaries, and evidence-based claims from unsupported opinions. [[personal-learning-environments|Personal learning environments]] — the self-curated digital ecosystems of tools, platforms, communities, and resources that learners construct to support their ongoing learning — have emerged as the primary infrastructure of self-directed learning in the digital age.
 
 > [!claude-insight] **The Digital SDL Paradox**
 > The digital environment creates a paradox for self-directed learning: it has dramatically lowered the barriers to accessing learning resources while simultaneously raising the cognitive demands of self-direction. The challenge is no longer "Where can I find information about X?" but "Which of these thousand sources about X is reliable, appropriately pitched for my current level, and structured in a way that supports genuine understanding rather than the illusion of understanding?" This evaluative demand requires precisely the kind of [[Epistemic-Virtue|epistemic sophistication]] — source evaluation, evidence weighing, recognition of one's own knowledge boundaries — that constitutes advanced metacognitive capacity. The digital environment, in other words, makes self-directed learning more accessible in principle but more demanding in practice, widening the gap between learners who possess sophisticated metacognitive and evaluative skills and those who do not.
@@ -508,7 +508,7 @@ The common structural principle that unites these transfer domains is this: when
 
 The investigation that has unfolded across these eight sections reveals self-directed learning to be considerably more complex, more theoretically rich, and more consequential than the popular understanding suggests. What began with Tough's empirical observation that ordinary adults routinely undertake substantial learning projects outside institutional settings has matured — through five decades of theoretical development, empirical research, and critical examination — into a multidimensional construct that sits at the intersection of metacognition, motivation, development, and context.
 
-The central argument of this report has been that self-directed learning is best understood not as a trait that some individuals possess and others lack, but as a *developed capacity* that emerges from the recursive interaction of three interconnected pillars: metacognitive sovereignty (the cognitive architecture of monitoring, evaluation, and regulation), motivational alignment (the convergence of autonomy, competence, self-efficacy, and internalized valuation), and contextual navigation (the ability to manage the environmental, social, and resource dimensions of learning). The [[Metacognitive-Monitoring-and-Control|monitoring-control loop]] that constitutes the cognitive engine of SDL drives the entire process, but it cannot operate without motivational fuel or contextual affordance.
+The central argument of this report has been that self-directed learning is best understood not as a trait that some individuals possess and others lack, but as a *developed capacity* that emerges from the recursive interaction of three interconnected pillars: metacognitive sovereignty (the cognitive architecture of monitoring, evaluation, and regulation), motivational alignment (the convergence of autonomy, competence, self-efficacy, and internalized valuation), and contextual navigation (the ability to manage the environmental, social, and resource dimensions of learning). The [[metacognitive-monitoring-and-control|monitoring-control loop]] that constitutes the cognitive engine of SDL drives the entire process, but it cannot operate without motivational fuel or contextual affordance.
 
 This understanding carries direct implications for anyone engaged in continuous learning. First, it implies that the development of self-directed learning capacity is itself a legitimate and important learning project — perhaps the most consequential one, because it enables all subsequent learning. Second, it implies that the conditions enabling self-direction are not merely personal but structural: institutions, organizations, digital platforms, and social contexts either support or undermine the exercise of learning autonomy, and the design of these environments matters. Third, it implies that the relationship between self-direction and other-direction is not oppositional but developmental — the most effective path to genuine self-direction passes through stages of supported autonomy, scaffolded independence, and gradually internalized regulatory capacity.
 
@@ -540,7 +540,7 @@ It clarifies everything to end where we began.
 >
 > **Report-Specific Significance:** Proposed as the cognitive engine that drives the entire SDL process; weakness in metacognitive sovereignty is identified as the primary reason SDL attempts fail.
 >
-> **See also:** [[Metacognitive-Monitoring-and-Control]], [[metacognition]], [[Self-Assessment]]
+> **See also:** [[metacognitive-monitoring-and-control]], [[metacognition]], [[Self-Assessment]]
 
 > [!definition] **Monitoring-Control Loop (Nelson & Narens, 1990; Flavell, 1979)**
 > The recursive cognitive process through which learners monitor their own comprehension and performance (generating an internal assessment signal) and then exercise control over their learning strategies in response to that signal. Monitoring generates information about the current state of learning; control translates that information into strategic action.
@@ -549,7 +549,7 @@ It clarifies everything to end where we began.
 >
 > **Report-Specific Significance:** Identified as the fundamental cognitive mechanism — the engine-within-the-engine — of self-directed learning.
 >
-> **See also:** [[Metacognitive-Monitoring-and-Control]], [[metacognition]], [[calibration]]
+> **See also:** [[metacognitive-monitoring-and-control]], [[metacognition]], [[calibration]]
 
 > [!definition] **Andragogy (Knowles, 1968, 1980)**
 > A theory of adult learning grounded in five assumptions about adult learners: the need to know (adults need to understand why they should learn something), learner self-concept (adults conceive of themselves as self-directing), the role of experience (adults bring extensive experience that serves as a resource for learning), readiness to learn (adults become ready to learn when they encounter life situations requiring new knowledge or skills), and orientation to learning (adults are problem-centered rather than subject-centered).
@@ -594,7 +594,7 @@ It clarifies everything to end where we began.
 >
 > **Report-Specific Significance:** Identified as the primary contemporary infrastructure for self-directed learning in digital environments, with PKM systems (Obsidian, Roam, etc.) representing the most systematic form.
 >
-> **See also:** [[Personal-Learning-Environments]], [[personal-knowledge-management]], [[personal-knowledge-base]]
+> **See also:** [[personal-learning-environments]], [[personal-knowledge-management]], [[personal-knowledge-base]]
 
 > [!definition] **SDL-SRL Grain-Size Continuum (Original to This Report)**
 > A proposed framework that reconceives the relationship between self-directed learning and self-regulated learning as positions on a continuum of grain size rather than as categorically distinct constructs. At the finest grain: moment-to-moment metacognitive monitoring within tasks (SRL focus). At intermediate grain: strategic management of bounded learning projects (classical SDL). At coarsest grain: lifelong revision of one's own epistemic frameworks (heutagogy).
@@ -887,7 +887,7 @@ It clarifies everything to end where we began.
 > **Connection to this report:** Metacognitive monitoring and control is identified as the cognitive engine of SDL. This expansion would provide the foundational cognitive science for that claim.
 > **Priority:** Critical
 > **Suggested report type:** Foundational Report
-> **Prerequisites:** [[Metacognitive-Monitoring-and-Control]], [[calibration]], [[cognitive-psychology]]
+> **Prerequisites:** [[metacognitive-monitoring-and-control]], [[calibration]], [[cognitive-psychology]]
 
 > [!topic-idea] **[[self-determination-theory]] — Autonomy, Competence, and Relatedness as Foundations of Human Motivation**
 > **Description:** A deep treatment of Deci and Ryan's theory — its empirical base, the organismic integration theory of internalization, cognitive evaluation theory, basic psychological needs theory, and applications to education, work, health, and well-being.
@@ -924,7 +924,7 @@ It clarifies everything to end where we began.
 > [!connections-and-links] **Knowledge Graph Integration Map**
 >
 > **Upstream Dependencies (This Report Builds On):**
-> - [[Metacognitive-Monitoring-and-Control]] — provides the cognitive mechanism framework that this report identifies as the engine of SDL. Understanding metacognitive monitoring-control dynamics is prerequisite to understanding why SDL works and why it fails.
+> - [[metacognitive-monitoring-and-control]] — provides the cognitive mechanism framework that this report identifies as the engine of SDL. Understanding metacognitive monitoring-control dynamics is prerequisite to understanding why SDL works and why it fails.
 > - [[self-determination-theory]] — provides the motivational framework (autonomy, competence, relatedness, internalization continuum) that explains how and why learners sustain self-directed effort over time.
 > - [[self-regulated-learning]] — provides the within-task regulatory process framework that this report situates as nested within the broader SDL process. Understanding SRL is necessary for understanding the grain-size distinction.
 > - [[andragogy]] — provides the adult learning theory within which Knowles originally situated SDL. Understanding andragogical assumptions about adult learners is foundational to understanding SDL's theoretical commitments.
@@ -933,9 +933,9 @@ It clarifies everything to end where we began.
 >
 > **Downstream Applications (This Report Enables):**
 > - [[personal-knowledge-management]] — PKM practice is identified in Section 7 as the most systematic contemporary instantiation of SDL principles. This report provides the theoretical grounding for understanding PKM as self-directed learning.
-> - [[Learning-Strategies]] — understanding the metacognitive monitoring-control loop enables more effective strategy selection and adaptation during learning tasks.
+> - [[learning-strategies]] — understanding the metacognitive monitoring-control loop enables more effective strategy selection and adaptation during learning tasks.
 > - [[lifelong-learning]] — this report provides the theoretical architecture for understanding how learning capacity develops across the lifespan and what sustains it.
-> - [[Professional-Learning]] — the workplace applications in Section 7 directly inform how professionals can design and sustain their own development.
+> - [[professional-learning]] — the workplace applications in Section 7 directly inform how professionals can design and sustain their own development.
 > - [[reflective-practice]] — identified in Section 6 as the mechanism that converts learning experience into metacognitive knowledge, connecting SDL theory to reflective practice methodology.
 >
 > **Lateral Connections (Mutual Enrichment):**
@@ -948,7 +948,7 @@ It clarifies everything to end where we began.
 >
 > **Strengthened Nodes (Existing Permanent Notes Enriched by This Report):**
 > - [[self-directed-learning]] — this report provides comprehensive foundational treatment, enriching the permanent note with theoretical depth, developmental perspective, and original integrative frameworks.
-> - [[Metacognitive-Monitoring-and-Control]] — enriched with specific application to SDL contexts, including calibration challenges and the monitoring-control loop as SDL's cognitive engine.
+> - [[metacognitive-monitoring-and-control]] — enriched with specific application to SDL contexts, including calibration challenges and the monitoring-control loop as SDL's cognitive engine.
 > - [[andragogy]] — enriched with critical perspective on andragogical assumptions about adult self-direction and the evolution of SDL theory beyond Knowles's original formulation.
 > - [[self-determination-theory]] — enriched with detailed application to learning contexts, showing how autonomy, competence, and relatedness function as SDL's motivational substrates.
 > - [[personal-knowledge-management]] — enriched with theoretical grounding in SDL, establishing PKM as systematic self-directed learning practice.

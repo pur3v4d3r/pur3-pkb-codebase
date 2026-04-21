@@ -87,7 +87,7 @@ related:
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[autonomy-support-in-education|Autonomy Support in Education]]"
 broader:
-  - "[[Motivation Theory]]"
+  - "[[motivation-theory]]"
   - "[[educational-psychology|Educational Psychology]]"
   - "[[Positive-Psychology|Positive Psychology]]"
 narrower:

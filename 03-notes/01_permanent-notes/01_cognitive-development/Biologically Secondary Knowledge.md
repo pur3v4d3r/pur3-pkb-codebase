@@ -94,7 +94,7 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Biologically Primary Knowledge]]
+- [[biologically-primary-knowledge]]
 - [[andragogy]]
 - [[heutagogy]]
 

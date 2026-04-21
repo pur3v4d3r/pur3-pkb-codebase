@@ -52,7 +52,7 @@ review-priority: medium
 # Biologically Primary Knowledge
 
 > [!definition]
-> - **Key-Term**: [[Biologically Primary Knowledge]]
+> - **Key-Term**: [[biologically-primary-knowledge]]
 > - **Definition**: refers to skills and knowledge that human beings have evolved to acquire naturally and easily through exposure and experience. These are "hard-wired" learning mechanisms that have been crucial for our survival as a species.
 > - **Status**: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 

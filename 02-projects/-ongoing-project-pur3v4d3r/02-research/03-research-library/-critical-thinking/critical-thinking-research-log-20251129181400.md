@@ -40,7 +40,7 @@ tags:
 [[decision-theory]]
 [[argumentation-theory]]
 [[information-literacy]]
-[[Problem-Solving]]
+[[problem-solving]]
 [[Creative Thinking]]
 [[cognitive-development]]
 

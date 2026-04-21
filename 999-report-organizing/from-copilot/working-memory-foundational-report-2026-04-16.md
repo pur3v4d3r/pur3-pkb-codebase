@@ -1089,7 +1089,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > - **[[metacognitive-monitoring]]** — The metacognitive overhead problem identified in this report has direct implications for how metacognitive interventions should be designed and when they are likely to succeed or fail.
 >
-> - **[[Four-Component-Instructional-Design]]** — Van Merriënboer's 4C/ID model explicitly incorporates working memory constraints through its management of intrinsic load. This report provides the theoretical base.
+> - **[[four-component-instructional-design]]** — Van Merriënboer's 4C/ID model explicitly incorporates working memory constraints through its management of intrinsic load. This report provides the theoretical base.
 >
 > **3. Lateral Connections** (mutual enrichment):
 >

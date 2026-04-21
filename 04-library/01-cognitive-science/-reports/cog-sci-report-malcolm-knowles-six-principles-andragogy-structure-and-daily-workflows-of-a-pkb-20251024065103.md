@@ -260,7 +260,7 @@ We now arrive at the core methodology. Having established the "why"—the six pr
     - **Problem Templates:** Create a dedicated `Template: Problem Note`.
         - `Problem: [Clear statement of the problem, e.g., "My team is disengaged in Zoom meetings"]`
         - `Context: [Why is this happening? What have I observed?]`
-        - `Related Concepts: [[Motivation Theory]], [[Zoom Fatigue]]`
+        - `Related Concepts: [[motivation-theory]], [[Zoom Fatigue]]`
         - `Potential Solutions (Hypotheses): [Hypothesis 1...]`
         - `Action & Outcome: [What I tried and what happened...]`
 - **Structure (The Note):**

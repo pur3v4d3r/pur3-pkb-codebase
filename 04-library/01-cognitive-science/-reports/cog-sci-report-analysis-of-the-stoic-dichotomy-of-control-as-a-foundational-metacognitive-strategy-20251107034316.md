@@ -28,7 +28,7 @@ link-related:
 > [!pre-read-questions]
 > - How does the Stoic division between "what is up to us" and "what is not up to us" function as a foundational metacognitive strategy for behavioral self-regulation?
 > - In what specific ways do ancient Stoic principles map onto modern psychological constructs such as [[internal locus of control]], [[cognitive-reappraisal]], and [[self-determination-theory]]?
-> - What empirical evidence exists for the clinical efficacy of Stoic-derived interventions in promoting [[Psychological Resilience]], [[emotional-regulation]], and sustained [[Motivation]]?
+> - What empirical evidence exists for the clinical efficacy of Stoic-derived interventions in promoting [[Psychological Resilience]], [[emotional-regulation]], and sustained [[motivation]]?
 > - How does the practice of systematically categorizing life experiences through the lens of personal agency versus external circumstances reshape neural processing patterns and behavioral responses?
 
 ---

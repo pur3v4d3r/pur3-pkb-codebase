@@ -117,7 +117,7 @@ review
   - "[[Information-Theory]]"
   - "[[instructional-design]]"
   - "[[long-term-memory]]"
-  - "[[Long-Term-Working-Memory]]"
+  - "[[long-term-working-memory]]"
   - "[[metacognition]]"
   - "[[metacognitive-knowledge]]"
   - "[[metacognitive-regulation]]"
@@ -143,7 +143,7 @@ review
   - "[[Getting Things Done (GTD)]]"
   - "[[Information-Architecture]]"
   - "[[Methodological Frameworks]]"
-  - "[[Knowledge-Management]]"
+  - "[[knowledge-management]]"
   - "[[personal-knowledge-management]]"
   - "[[personal-knowledge-base]]"
 ```

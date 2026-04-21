@@ -218,22 +218,3 @@ Which direction do you want to take? Or should I start with #1 (highest ROI, no 
 
 
 
-
-
-
-
-
-
-
-
-# Ideas for Python Scripting Projects in Obsidian
-**Note Merger** — Merge two or more notes into a single file, resolving duplicate headings.
-**Markdown to EPUB Converter** — Package a collection of notes into a structured EPUB ebook.
-**Obsidian Link Graph Visualizer** — Generate an interactive graph of note connections.
-**Note Version Control** — Track changes to notes over time with git-like versioning.
-**Markdown Table of Contents Generator** — Automatically create a table of contents based on note headings.
-
-
-
-
-

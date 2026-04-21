@@ -712,7 +712,7 @@ Understanding selective attention has practical implications for:
 
 - **Interface Design:** Where should critical information appear to capture attention? How much can users monitor simultaneously?
 - **Education:** Can students learn from unattended information (e.g., background educational content)? When does multitasking impair learning?
-- **Clinical Disorders:** What goes wrong in [[ADHD]], where attentional selection is impaired? How do [[Anxiety]] and [[Depression]] alter attentional filters?
+- **Clinical Disorders:** What goes wrong in [[ADHD]], where attentional selection is impaired? How do [[anxiety]] and [[Depression]] alter attentional filters?
 - **Auditory Processing:** Designing better hearing aids requires understanding how the brain separates speech from noise—the original cocktail party problem.
 
 [**Applied-Relevance**:: Modern applications include: (1) **cognitive training programs** targeting attentional control, (2) **user interface design** principles for minimizing distraction, (3) **educational technology** incorporating attention management, (4) **clinical interventions** for attention disorders, and (5) **machine learning models** of auditory scene analysis inspired by human selective attention.]

@@ -613,7 +613,7 @@ extraction_summary:
 - [[Faceted-Classification|Faceted Classification]]
 - [[Information-Science|Information Science]]
 - [[Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know|Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Knowledge-Organization-System|Knowledge Organization System]]
 - [[Knowledge-Organization-Systems|Knowledge Organization Systems]]
 - [[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]
@@ -656,14 +656,14 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[personal-knowledge-base|Personal Knowledge Base]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
 | 2 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
-| 3 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
+| 3 | [[knowledge-management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
 | 4 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
 | 5 | [[schema-theory|Schema Theory]] | — | — | The Synthesis Question | 99 |
 | 6 | [[Knowledge-Organization-Systems|Knowledge Organization Systems]] | — | — | The Synthesis Question | 99 |
 | 7 | [[constructivism]] | — | — | The Synthesis Question | 99 |
 | 8 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Synthesis Question | 101 |
 | 9 | [[Information-Science|Information Science]] | — | — | The Synthesis Question | 101 |
-| 10 | [[Knowledge-Management|Knowledge Management]] | — | — | The Synthesis Question | 101 |
+| 10 | [[knowledge-management|Knowledge Management]] | — | — | The Synthesis Question | 101 |
 | 11 | [[constructivism]] | — | — | The Synthesis Question | 101 |
 | 12 | [[Report 06: The Science of Remembering]] | — | — | Scope and Cross-Domain Preview | 107 |
 | 13 | [[Report 02: The Architecture of Learning]] | — | — | Scope and Cross-Domain Preview | 107 |
@@ -672,7 +672,7 @@ extraction_summary:
 | 16 | [[schema-theory|Schema Theory]] | — | — | Scope and Cross-Domain Preview | 111 |
 | 17 | [[Semantic-Networks|Semantic Networks]] | — | — | Scope and Cross-Domain Preview | 111 |
 | 18 | [[Information-Science|Information Science]] | — | — | Scope and Cross-Domain Preview | 112 |
-| 19 | [[Knowledge-Management|Knowledge Management]] | — | — | Scope and Cross-Domain Preview | 112 |
+| 19 | [[knowledge-management|Knowledge Management]] | — | — | Scope and Cross-Domain Preview | 112 |
 | 20 | [[Faceted-Classification|Faceted Classification]] | — | — | Scope and Cross-Domain Preview | 112 |
 | 21 | [[Ontologies]] | — | — | Scope and Cross-Domain Preview | 112 |
 | 22 | [[Taxonomies]] | — | — | Scope and Cross-Domain Preview | 112 |
@@ -792,7 +792,7 @@ extraction_summary:
 - [[Faceted-Classification|Faceted Classification]]
 - [[Information-Science|Information Science]]
 - [[Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know|Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Knowledge-Organization-System|Knowledge Organization System]]
 - [[Knowledge-Organization-Systems|Knowledge Organization Systems]]
 - [[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]

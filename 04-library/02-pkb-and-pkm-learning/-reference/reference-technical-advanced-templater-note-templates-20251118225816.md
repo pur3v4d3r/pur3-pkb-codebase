@@ -1680,7 +1680,7 @@ scaffold += "\n## 🔗 Related Concepts\n\n";
 if (selectedType === "Literature Note") {
     scaffold += "- [[Author-Name]]\n- [[Key-Concepts]]\n- [[Theoretical-Framework]]\n\n";
 } else if (selectedType === "Technical Documentation") {
-    scaffold += "- [[Architecture-Patterns]]\n- [[Technology-Stack]]\n- [[Dependencies]]\n\n";
+    scaffold += "- [[architecture-patterns]]\n- [[Technology-Stack]]\n- [[Dependencies]]\n\n";
 } else {
     scaffold += "- [[Concept-1]]\n- [[Concept-2]]\n- [[Concept-3]]\n\n";
 }

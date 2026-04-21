@@ -92,7 +92,7 @@ related:
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[cognitive-load-theory|Cognitive Load Theory]]"
   - "[[attribution-theory|Attribution Theory]]"
-  - "[[Goal-Orientation-Theory|Goal Orientation Theory]]"
+  - "[[goal-orientation-theory|Goal Orientation Theory]]"
 broader:
   - "[[educational-psychology|Educational Psychology]]"
   - "[[cognitive-science|Cognitive Science]]"

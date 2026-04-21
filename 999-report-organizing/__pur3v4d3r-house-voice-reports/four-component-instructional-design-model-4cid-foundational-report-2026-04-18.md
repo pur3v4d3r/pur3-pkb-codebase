@@ -98,7 +98,7 @@ broader: ["[[Instructional-Design-Models-—-Overview]]", "[[educational-psychol
 narrower: ["[[faded-worked-example]]", "[[Completion-Problem-Effect]]", "[[schema-automation]]"]
 see-also: ["[[cognitive-task-analysis]]", "[[situated-learning]]", "[[productive-failure]]"]
 builds-on: ["[[cognitive-load-theory]]", "[[schema-formation]]", "[[cognitive-architecture]]"]
-enables: ["[[Adaptive-Instruction]]", "[[Competency-Based-Learning]]", "[[assessment-design]]"]
+enables: ["[[Adaptive-Instruction]]", "[[competency-based-learning]]", "[[assessment-design]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -263,7 +263,7 @@ This dual-mechanism thesis — schema construction for non-recurrent aspects of 
 With the cognitive foundations established, the 4C/ID model can now be examined as what it fundamentally is: an applied cognitive architecture for instruction. The model specifies four interrelated components that together constitute a complete instructional environment for complex learning. These components are not arbitrary pedagogical choices but structural necessities — each one addresses a specific cognitive requirement identified by the theoretical foundations described in Section 2, and the omission of any single component produces predictable deficits in learning outcomes. The architecture is elegant precisely because it is constrained: every element earns its place by serving a demonstrable cognitive function.
 
 > [!definition] **The Four Components of 4C/ID**
-> The [[Four-Component-Instructional-Design|Four Component Instructional Design]] model specifies four interrelated components for designing training programs for complex learning:
+> The [[four-component-instructional-design|Four Component Instructional Design]] model specifies four interrelated components for designing training programs for complex learning:
 >
 > 1. **Learning Tasks** — Authentic whole-task experiences organized in task classes of increasing complexity, providing the backbone of the learning process through which learners develop and integrate knowledge, skills, and attitudes.
 > 2. **Supportive Information** — The bridge between what learners already know and what they need to know to perform non-recurrent aspects of learning tasks, supporting schema construction through mental model elaboration and cognitive strategy development.
@@ -524,7 +524,7 @@ The model has attracted several lines of criticism, each illuminating genuine te
 
 Several research directions are extending the 4C/ID model's reach and addressing its current limitations.
 
-**Adaptive 4C/ID** programs are exploring how [[Educational-Technology|educational technology]] — particularly intelligent tutoring systems, learning analytics, and adaptive algorithms — can dynamically adjust task complexity, scaffold support, and part-task practice allocation based on real-time assessment of individual learner performance. This represents the most promising avenue for addressing the individual differences challenge.
+**Adaptive 4C/ID** programs are exploring how [[educational-technology|educational technology]] — particularly intelligent tutoring systems, learning analytics, and adaptive algorithms — can dynamically adjust task complexity, scaffold support, and part-task practice allocation based on real-time assessment of individual learner performance. This represents the most promising avenue for addressing the individual differences challenge.
 
 **Self-Directed 4C/ID** research examines how the model's principles can be adapted for [[self-regulated-learning|self-regulated learning]] contexts where learners design their own learning programs without the guidance of an instructional designer. This work connects the 4C/ID literature to metacognitive research and self-regulated learning theory, exploring whether learners can be taught to apply 4C/ID principles to their own learning.
 
@@ -572,7 +572,7 @@ The research on [[transfer-of-learning|transfer of learning]] — from Thorndike
 >
 > **Boundary condition:** The analogy holds most strongly in organizations with sufficiently complex systems that whole-task onboarding is genuinely necessary. For simple codebases, atomistic training may suffice.
 >
-> **See also:** [[Cognitive-Apprenticeship]], [[deliberate-practice]], [[Cognitive-Skill-Acquisition]]
+> **See also:** [[cognitive-apprenticeship]], [[deliberate-practice]], [[Cognitive-Skill-Acquisition]]
 
 > [!far-transfer] **Medical Education: Diagnostic Reasoning as Schema Construction**
 > The 4C/ID model's distinction between schema construction (for non-recurrent diagnostic reasoning) and schema automation (for recurrent examination procedures and data-gathering protocols) provides a precise framework for understanding the developmental trajectory from medical student to attending physician. The [[Clinical-Reasoning|clinical reasoning]] process — generating differential diagnoses, selecting discriminating tests, interpreting results in context — is inherently non-recurrent, varying with each patient presentation. The physical examination, vital sign assessment, and structured history-taking are recurrent operations requiring high automaticity. The 4C/ID model predicts that training which emphasizes integrated clinical encounters from early in the curriculum (whole-task approach) with progressive complexity, supported by pathophysiology and clinical reasoning frameworks (supportive information), will outperform programs that separate basic science from clinical experience — a prediction that the medical education literature has substantially confirmed.
@@ -593,7 +593,7 @@ The research on [[transfer-of-learning|transfer of learning]] — from Thorndike
 >
 > **Structural principle:** Training programs that decompose complex professional roles into isolated competency workshops will produce the organizational equivalent of inert knowledge — employees who perform well in workshop assessments but poorly in integrated professional contexts.
 >
-> **See also:** [[Competency-Based-Learning]], [[situated-learning]], [[communities-of-practice]]
+> **See also:** [[competency-based-learning]], [[situated-learning]], [[communities-of-practice]]
 
 **Metacognitive Transfer Prompt:** As the transfer domains above suggest, the 4C/ID model's structural principles operate at a level of abstraction above any specific domain. The dual-mechanism logic, the whole-task commitment, the scaffold-fading trajectory, and the recurrent/non-recurrent distinction are domain-general design heuristics. Where in your own practice — as a learner, a teacher, a knowledge worker, or a designer of systems — can you recognize these patterns?
 
@@ -1111,11 +1111,11 @@ Kalyuga & Sweller (Expertise Reversal) ──→ Adaptive 4C/ID Extensions
 >
 > - **[[instructional-design]]** — This report provides a detailed analysis of one of the most theoretically grounded instructional design models available, enabling more informed design decisions in any complex learning context.
 >
-> - **[[Competency-Based-Learning]]** — The 4C/ID model's task class sequencing provides a principled framework for defining and sequencing competency levels in competency-based education systems.
+> - **[[competency-based-learning]]** — The 4C/ID model's task class sequencing provides a principled framework for defining and sequencing competency levels in competency-based education systems.
 >
 > - **[[assessment-design]]** — The 4C/ID model's performance objectives (defined at each task class level) provide a systematic basis for designing authentic assessment tasks that measure integrated performance rather than isolated knowledge.
 >
-> - **[[Educational-Technology]]** — The 4C/ID model's component specifications provide design requirements for learning management systems, adaptive platforms, and simulation environments that support complex learning.
+> - **[[educational-technology]]** — The 4C/ID model's component specifications provide design requirements for learning management systems, adaptive platforms, and simulation environments that support complex learning.
 >
 > - **[[self-regulated-learning]]** — The report's original synthesis connecting 4C/ID to self-directed learning opens a pathway for applying the model's principles to the design of personal learning architectures.
 >

@@ -133,7 +133,7 @@ related:
   - "[[intrinsic-motivation|Intrinsic Motivation]]"
 
 broader:
-  - "[[Achievement Motivation]]"
+  - "[[achievement-motivation]]"
   - "[[educational-psychology|Educational Psychology]]"
   - "[[motivational-psychology|Motivational Psychology]]"
 
@@ -349,7 +349,7 @@ This neat picture was, however, too neat. By the early 1990s, empirical anomalie
 
 ### The Trichotomous Model
 
-[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Judith-Harackiewicz|Judith Harackiewicz]] (1996) proposed a solution: split the performance goal category into two distinct orientations based on whether the person's valence is positive (approaching success, outperforming others) or negative (avoiding failure, avoiding appearing incompetent). This gave rise to the *trichotomous model* of achievement goals.
+[[andrew-j.-elliot|Andrew J. Elliot]] and [[Judith-Harackiewicz|Judith Harackiewicz]] (1996) proposed a solution: split the performance goal category into two distinct orientations based on whether the person's valence is positive (approaching success, outperforming others) or negative (avoiding failure, avoiding appearing incompetent). This gave rise to the *trichotomous model* of achievement goals.
 
 > [!definition] **Performance-Approach Goal**
 > A performance-approach goal is oriented toward the positive possibility of normative competence — demonstrating that one is more competent than others. The motivational focus is appetitive: moving toward success in the normative sense. Under this orientation, competition and social comparison are energising rather than threatening, and success in outperforming others is the primary desired outcome.
@@ -361,7 +361,7 @@ The trichotomous model preserved the undivided mastery goal and divided the perf
 
 ### The 2×2 Framework
 
-[[Andrew-J.-Elliot|Andrew J. Elliot]] and [[Marcy-Church|Marcy Church]] McGregor (2001) extended the approach-avoidance distinction to mastery goals as well, completing the logic that had motivated the trichotomous model. If approach and avoidance are fundamental motivational valences that can apply to any goal content, then there should also be a *mastery-avoidance* goal: the goal of avoiding doing worse than one has done before, or failing to live up to one's own past performance standards.
+[[andrew-j.-elliot|Andrew J. Elliot]] and [[Marcy-Church|Marcy Church]] McGregor (2001) extended the approach-avoidance distinction to mastery goals as well, completing the logic that had motivated the trichotomous model. If approach and avoidance are fundamental motivational valences that can apply to any goal content, then there should also be a *mastery-avoidance* goal: the goal of avoiding doing worse than one has done before, or failing to live up to one's own past performance standards.
 
 The resulting *2×2 framework* crossed two dimensions — goal content (mastery vs. performance) with motivational valence (approach vs. avoidance) — to yield four goal types:
 
@@ -382,7 +382,7 @@ The resulting *2×2 framework* crossed two dimensions — goal content (mastery 
 
 ### The 3×2 Model and Beyond
 
-[[Andrew-J.-Elliot|Andrew J. Elliot]], [[Kenji-Murayama|Kenji Murayama]], and [[Reinhard-Pekrun|Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
+[[andrew-j.-elliot|Andrew J. Elliot]], [[Kenji-Murayama|Kenji Murayama]], and [[Reinhard-Pekrun|Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
 
 > [!insight] **The Pattern Across Frameworks**
 > Looking across the dichotomous, trichotomous, 2×2, and 3×2 models, a clear pattern emerges: theoretical progress in AGT has consistently been driven by two moves — finer-grained differentiation of the competence standard (what counts as "doing well") and the incorporation of fundamental motivational distinctions (approach vs. avoidance, task vs. self vs. other). Each refinement has clarified the empirical landscape by separating what earlier models conflated.

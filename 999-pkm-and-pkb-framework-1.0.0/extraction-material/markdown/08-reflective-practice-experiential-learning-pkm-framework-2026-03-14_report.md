@@ -541,7 +541,7 @@ extraction_summary:
 - [[felt-difficulty|Felt Difficulty]]
 - [[Gibbs-Reflective-Cycle-as-PKB-Template-Architecture|Gibbs Reflective Cycle as PKB Template Architecture]]
 - [[john-dewey|John Dewey]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Kolb-Experiential-Learning-Cycle|Kolb Experiential Learning Cycle]]
 - [[Learning-Journal|Learning Journal]]
 - [[metacognition]]
@@ -573,7 +573,7 @@ extraction_summary:
 | 5 | [[SECI-Model|SECI Model]] | — | — | Phase I: Orientation & Synthesis Focus | 102 |
 | 6 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 107 |
 | 7 | [[educational-psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 108 |
-| 8 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
+| 8 | [[knowledge-management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 109 |
 | 9 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
 | 10 | [[metacognition]] | — | — | Phase I: Orientation & Synthesis Focus | 111 |
 | 11 | [[felt-difficulty|Felt Difficulty]] | — | — | Dewey and the Problem of Experience | 132 |
@@ -620,7 +620,7 @@ extraction_summary:
 - [[felt-difficulty|Felt Difficulty]]
 - [[Gibbs-Reflective-Cycle-as-PKB-Template-Architecture|Gibbs Reflective Cycle as PKB Template Architecture]]
 - [[john-dewey|John Dewey]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Kolb-Experiential-Learning-Cycle|Kolb Experiential Learning Cycle]]
 - [[Learning-Journal|Learning Journal]]
 - [[metacognition]]

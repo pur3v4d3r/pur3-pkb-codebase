@@ -134,7 +134,7 @@ related:
   - "[[metacognition-and-self-regulated-learning|Metacognition and Self-Regulated Learning]]"
   - "[[Engagement Frameworks in Education]]"
   - "[[cognitive-evaluation-theory|Cognitive Evaluation Theory]]"
-  - "[[Goal-Orientation-Theory|Goal Orientation Theory]]"
+  - "[[goal-orientation-theory|Goal Orientation Theory]]"
   - "[[psychological-safety-in-learning-environments|Psychological Safety in Learning Environments]]"
   - "[[Resilience and Academic Persistence]]"
   - "[[expectancy-value-theory|Expectancy-Value Theory]]"

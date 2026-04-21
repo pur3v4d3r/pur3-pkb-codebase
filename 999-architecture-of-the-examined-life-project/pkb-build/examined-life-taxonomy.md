@@ -63,7 +63,7 @@ source_synthesis: "[[examined-life-synthesis]]"
 - **[[Governed Attentional Gap]]** — Space between System 1 automatic response and System 2 deliberate intervention, where metacognitive attention (prosoche) intervenes. [Source: R06] [Status: Novel synthesis]
 - **[[Stanovich Tripartite Model]]** — Autonomous mind, algorithmic mind, reflective mind — more differentiated than Kahneman's dual model. [Source: R06, ref-stanovich] [Status: Established]
   - **[[dysrationalia]]** — Systematic irrationality despite adequate intelligence. [Source: ref-stanovich] [Status: Established]
-  - **[[Mindware]]** — Cognitive rules, procedures, and strategies available for deployment in thinking. [Source: ref-stanovich] [Status: Established]
+  - **[[mindware]]** — Cognitive rules, procedures, and strategies available for deployment in thinking. [Source: ref-stanovich] [Status: Established]
 
 #### 2.2 Metacognition
 - **[[metacognition]]** — Thinking about thinking; monitoring and governing one's own cognitive processes. [Source: All reports] [Status: Established]

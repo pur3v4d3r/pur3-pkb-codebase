@@ -93,7 +93,7 @@ key-distinctions: ["Goal Intention vs Implementation Intention", "Conscious Stra
 prerequisites: ["[[goal-setting-theory]]", "[[Self-Regulated-Learning-—-SRL]]", "[[dual-process-theory]]"]
 related: ["[[habit-formation]]", "[[automaticity]]", "[[cue-utilization-framework]]", "[[intention-action-gap]]", "[[forethought-phase]]"]
 broader: ["[[Self-Regulated-Learning-—-Foundational-Report]]", "[[metacognition-and-self-regulated-learning]]"]
-narrower: ["[[Mental-Contrasting]]", "[[MCII]]"]
+narrower: ["[[mental-contrasting]]", "[[mcii]]"]
 see-also: ["[[Atomic-Habits]]", "[[encoding-specificity-principle]]"]
 builds-on: ["[[Bratman's-Planning-Theory]]", "[[Goal-Setting-Theory-—-Locke-and-Latham]]"]
 enables: ["[[habit-formation]]", "[[cyclical-model-of-self-regulated-learning]]"]
@@ -151,7 +151,7 @@ connection-strength:
 
 ## Abstract
 
-Implementation intentions, as Peter M. Gollwitzer formulated them in the early 1990s and elaborated across three decades of empirical work, are a deceptively simple psychological construct with disproportionately powerful behavioral consequences — they are if-then plans of the form *"When situation X arises, I will perform behavior Y,"* and they consistently close the gap between what people intend to do and what they actually do across domains as varied as health behavior, academic study, prejudice control, and clinical anxiety. This report traces the construct from its origins in [[Bratman's-Planning-Theory]] and Heckhausen's Rubicon Model of Action Phases through Gollwitzer's foundational synthesis, the substantial meta-analytic evidence base assembled by Paschal Sheeran, and the contemporary integrations with [[Mental-Contrasting]], [[habit-formation]], and [[Self-Regulated-Learning-—-SRL]] that constitute the present research frontier. The central argument developed across the report is that implementation intentions function as a form of *strategic automaticity* — a deliberate cognitive pre-compilation in which the conscious, effortful goal of [[goal-setting-theory]] is transformed into a stimulus-response link that operates with the speed, efficiency, and resistance to interference that ordinarily characterize habitual action, but without requiring the long behavioral repetition that genuine [[habit-formation]] demands. This pre-compilation is what makes the construct theoretically interesting and practically valuable, and it is also what determines the construct's boundary conditions: implementation intentions succeed when their cue is well-specified and reliably encoded, when the behavior is within the actor's competence, and when the goal commitment underlying the plan is genuine; they fail predictably when any of these conditions is violated. The report concludes by examining what implementation intentions mean for the design of personal knowledge management systems and self-regulated learning environments, arguing that explicit if-then planning constitutes one of the most reliably evidence-supported regulatory tools available to the contemporary autodidact.
+Implementation intentions, as Peter M. Gollwitzer formulated them in the early 1990s and elaborated across three decades of empirical work, are a deceptively simple psychological construct with disproportionately powerful behavioral consequences — they are if-then plans of the form *"When situation X arises, I will perform behavior Y,"* and they consistently close the gap between what people intend to do and what they actually do across domains as varied as health behavior, academic study, prejudice control, and clinical anxiety. This report traces the construct from its origins in [[Bratman's-Planning-Theory]] and Heckhausen's Rubicon Model of Action Phases through Gollwitzer's foundational synthesis, the substantial meta-analytic evidence base assembled by Paschal Sheeran, and the contemporary integrations with [[mental-contrasting]], [[habit-formation]], and [[Self-Regulated-Learning-—-SRL]] that constitute the present research frontier. The central argument developed across the report is that implementation intentions function as a form of *strategic automaticity* — a deliberate cognitive pre-compilation in which the conscious, effortful goal of [[goal-setting-theory]] is transformed into a stimulus-response link that operates with the speed, efficiency, and resistance to interference that ordinarily characterize habitual action, but without requiring the long behavioral repetition that genuine [[habit-formation]] demands. This pre-compilation is what makes the construct theoretically interesting and practically valuable, and it is also what determines the construct's boundary conditions: implementation intentions succeed when their cue is well-specified and reliably encoded, when the behavior is within the actor's competence, and when the goal commitment underlying the plan is genuine; they fail predictably when any of these conditions is violated. The report concludes by examining what implementation intentions mean for the design of personal knowledge management systems and self-regulated learning environments, arguing that explicit if-then planning constitutes one of the most reliably evidence-supported regulatory tools available to the contemporary autodidact.
 
 > [!schema-activation] **Connecting to What You Already Know**
 > If you have engaged with [[goal-setting-theory]] or [[Self-Regulated-Learning-—-SRL]], you have already encountered the puzzle this report addresses: people who set specific, difficult, committed goals nonetheless fail to enact them with disturbing regularity, and no amount of motivational intensity at the goal-setting moment seems to resolve this gap reliably. Implementation intentions are the construct that names this gap as a structural feature of the goal-pursuit architecture rather than a moral failing of the actor, and they offer a specific, testable, and surprisingly inexpensive intervention that addresses the gap directly. As you read, hold one guiding question in mind: *what does it mean for a deliberate plan to operate with the cognitive signature of a habit, and why would the mind be designed in such a way that this transformation is possible at all?*  This question will return at the close of the report and will reveal something important about the nature of [[dual-process-theory]], the scope of [[self-regulation]], and the limits of conscious control over one's own behavior.
@@ -389,7 +389,7 @@ Beyond these failure modes, several systematic moderators have been identified a
 
 ## Section 6: Extensions and Integrations — MCII, Mental Contrasting, and Habit Formation
 
-The implementation-intention construct did not remain isolated; over the two decades following its initial formulation, it was integrated with adjacent constructs, extended into new domains, and combined into compound interventions that exploit complementary mechanisms to achieve effects larger than either constituent alone. The most important of these integrations is the combination of implementation intentions with *mental contrasting*, a construct developed by Gabriele Oettingen that operates on the goal-commitment side of the action-control architecture and addresses a different but complementary failure mode — the failure to convert positive future thinking into actionable goal commitment. Mental contrasting requires the actor to vividly imagine a desired future outcome, then deliberately contrast it with the present obstacles standing in the way, and the contrast itself produces what Oettingen calls *expectancy-dependent commitment* — strong commitment when the actor judges the goal feasible, and disengagement when the actor judges it infeasible. The combination of mental contrasting with implementation intentions, abbreviated [[MCII]] (Mental Contrasting with Implementation Intentions), produces effects substantially larger than either intervention alone, because mental contrasting strengthens the goal commitment that implementation intentions need in order to operate, while implementation intentions provide the cognitive engineering that mental contrasting alone does not supply.
+The implementation-intention construct did not remain isolated; over the two decades following its initial formulation, it was integrated with adjacent constructs, extended into new domains, and combined into compound interventions that exploit complementary mechanisms to achieve effects larger than either constituent alone. The most important of these integrations is the combination of implementation intentions with *mental contrasting*, a construct developed by Gabriele Oettingen that operates on the goal-commitment side of the action-control architecture and addresses a different but complementary failure mode — the failure to convert positive future thinking into actionable goal commitment. Mental contrasting requires the actor to vividly imagine a desired future outcome, then deliberately contrast it with the present obstacles standing in the way, and the contrast itself produces what Oettingen calls *expectancy-dependent commitment* — strong commitment when the actor judges the goal feasible, and disengagement when the actor judges it infeasible. The combination of mental contrasting with implementation intentions, abbreviated [[mcii]] (Mental Contrasting with Implementation Intentions), produces effects substantially larger than either intervention alone, because mental contrasting strengthens the goal commitment that implementation intentions need in order to operate, while implementation intentions provide the cognitive engineering that mental contrasting alone does not supply.
 
 The mechanism of MCII illustrates a general principle worth surfacing — that implementation intentions are most powerful when they are *upstream-coupled* to interventions that strengthen the goal commitment they presuppose, and most fragile when they are deployed without such upstream coupling. This is not the same as saying that implementation intentions require strong commitment to work; rather, it is saying that the construct's behavioral leverage is multiplicative with commitment strength, such that a marginal increase in commitment produces a more than marginal increase in the if-then plan's effectiveness. Practical interventions that combine commitment-strengthening with implementation-intention engineering routinely outperform either alone, and the MCII protocol — now extensively researched across health, academic, and interpersonal domains — has become a workhorse in applied behavior-change practice precisely because it integrates these complementary mechanisms in a clinically tractable form.
 
@@ -402,9 +402,9 @@ The second major integration is between implementation intentions and the scienc
 >
 > **Report-Specific Significance:** MCII is the single most evidence-supported applied protocol in the implementation-intention literature, and it represents the construct's evolution from isolated mechanism to integrated practice.
 >
-> **See also:** [[Mental-Contrasting]], [[goal-setting-theory]], [[Self-Regulated-Learning-—-SRL]]
+> **See also:** [[mental-contrasting]], [[goal-setting-theory]], [[Self-Regulated-Learning-—-SRL]]
 
-A third integration that deserves attention is the connection between implementation intentions and [[Self-Regulated-Learning-—-SRL]] frameworks, particularly Zimmerman's cyclical model. In Zimmerman's model, the [[forethought-phase]] of the self-regulation cycle is where goal-setting and strategic planning occur, the performance phase is where the planned behaviors are enacted with concurrent self-monitoring, and the self-reflection phase is where outcomes are evaluated and the next cycle is informed. Implementation intentions slot directly into the forethought phase as a specific form of strategic planning that addresses the action-initiation problem within self-regulated learning, and the integration is sufficiently natural that contemporary SRL pedagogy increasingly incorporates explicit if-then planning as a teachable component of the broader self-regulatory skill set. This integration also bears on the design of [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]] — systems whose effectiveness depends on the user reliably enacting review behaviors at the right times, which is precisely the kind of action-initiation problem that implementation intentions are well-suited to address.
+A third integration that deserves attention is the connection between implementation intentions and [[Self-Regulated-Learning-—-SRL]] frameworks, particularly Zimmerman's cyclical model. In Zimmerman's model, the [[forethought-phase]] of the self-regulation cycle is where goal-setting and strategic planning occur, the performance phase is where the planned behaviors are enacted with concurrent self-monitoring, and the self-reflection phase is where outcomes are evaluated and the next cycle is informed. Implementation intentions slot directly into the forethought phase as a specific form of strategic planning that addresses the action-initiation problem within self-regulated learning, and the integration is sufficiently natural that contemporary SRL pedagogy increasingly incorporates explicit if-then planning as a teachable component of the broader self-regulatory skill set. This integration also bears on the design of [[personal-knowledge-management-systems-and-spaced-repetition]] — systems whose effectiveness depends on the user reliably enacting review behaviors at the right times, which is precisely the kind of action-initiation problem that implementation intentions are well-suited to address.
 
 A fourth extension worth surfacing concerns the application of implementation intentions to *emotion regulation* and *clinical psychology*, where the construct has been adapted to address phobic avoidance, anxiety responses, and dysregulated impulses. The mechanism in these clinical applications differs from the standard initiating case in interesting ways — instead of triggering a planned action, the if-then plan triggers a planned cognitive or attentional response that interrupts the otherwise automatic dysregulation pattern. A patient with social anxiety, for example, might form the plan "When I notice my heart racing in a social situation, I will exhale slowly and focus on what the other person is saying," and the resulting cue-triggered redirection can substantially reduce the symptomatic spiral that would otherwise unfold. The clinical literature on these applications is still developing, but the early evidence is encouraging enough that implementation intentions are now recognized as a useful adjunct to standard cognitive-behavioral interventions for several disorders.
 
@@ -436,7 +436,7 @@ The cumulative picture that emerges from these integrations is that implementati
 
 The translation of implementation-intention research into the design of self-regulated learning environments and personal knowledge management systems is a translation worth making explicitly, because the gap between knowing about the construct and using it well in one's own intellectual practice is itself an instance of the intention-action gap that the construct was designed to close. The autodidact who has read Gollwitzer and Sheeran but does not actually form if-then plans for their own learning behavior has reproduced, in their own life, exactly the failure mode the literature describes — a strong intention to use the construct that has not been engineered into a cue-triggered routine and therefore does not affect behavior. This is not an ironic footnote; it is the central practical lesson, and recognizing it should change how the reader approaches the concluding sections of this report.
 
-When one applies the implementation-intention framework specifically to the practice of [[Self-Regulated-Learning-—-SRL]] within a [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]] environment, several specific design implications emerge that have been validated in pilot studies and that align with the broader empirical record. The first concerns the scheduling of *review behaviors* — the spaced-repetition practice that PKM systems depend upon for long-term knowledge consolidation. Spaced-repetition systems present users with a daily queue of cards or notes to review, and the empirical effectiveness of these systems depends almost entirely on whether the user actually completes the daily review. The intention-behavior gap applies here in full force: users who intend to maintain daily review often fail, and the failure is concentrated at the moment of review initiation rather than during review itself. An implementation intention of the form "When I open my laptop in the morning before checking email, I will complete my Anki queue" addresses precisely this initiation problem, and the empirical effects in spaced-repetition contexts are sufficiently robust that explicit if-then planning should be regarded as a standard component of effective PKM practice rather than as an optional enhancement.
+When one applies the implementation-intention framework specifically to the practice of [[Self-Regulated-Learning-—-SRL]] within a [[personal-knowledge-management-systems-and-spaced-repetition]] environment, several specific design implications emerge that have been validated in pilot studies and that align with the broader empirical record. The first concerns the scheduling of *review behaviors* — the spaced-repetition practice that PKM systems depend upon for long-term knowledge consolidation. Spaced-repetition systems present users with a daily queue of cards or notes to review, and the empirical effectiveness of these systems depends almost entirely on whether the user actually completes the daily review. The intention-behavior gap applies here in full force: users who intend to maintain daily review often fail, and the failure is concentrated at the moment of review initiation rather than during review itself. An implementation intention of the form "When I open my laptop in the morning before checking email, I will complete my Anki queue" addresses precisely this initiation problem, and the empirical effects in spaced-repetition contexts are sufficiently robust that explicit if-then planning should be regarded as a standard component of effective PKM practice rather than as an optional enhancement.
 
 The second design implication concerns the *capture* of fleeting insights and ideas — the moments at which something worth recording in the PKM system arises and the user must decide whether to interrupt their current activity to record it. The cognitive friction of capture is one of the most-cited reasons that PKM systems fail in practice, and the friction has multiple sources, but a substantial portion of it is pure action-initiation friction of the sort that implementation intentions are designed to address. A plan of the form "When I have an idea worth recording while reading, I will immediately open my capture inbox and dictate it before continuing" pre-installs a cue-triggered capture response that bypasses the moment of deliberation about whether to interrupt the reading flow. The deliberation has already been performed, the decision has already been made, and the cue triggers the prepared response without consuming additional working-memory resources. Practitioners who have implemented capture-protocol implementation intentions report substantially higher capture rates without the corresponding reading-flow disruption that case-by-case deliberation would produce.
 
@@ -531,7 +531,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** This is the central construct around which the entire report is organized; its mechanism, evidence base, and applications structure every section.
 >
-> **See also:** [[Goal-Intention]], [[Action-Phase-Model]], [[Strategic-Automaticity]]
+> **See also:** [[goal-intention]], [[action-phase-model]], [[strategic-automaticity]]
 
 > [!definition] **Goal Intention (Heckhausen & Gollwitzer)**
 > A volitional commitment to achieve a desired end state, expressed in the form *"I intend to achieve Z."* Goal intentions occupy the predecisional and post-actional phases of the action phase model and concern *what* the actor wants; implementation intentions concern *when, where, and how* the corresponding behavior will be enacted.
@@ -540,7 +540,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** The distinction between goal intentions and implementation intentions is the single most important conceptual move in the construct's theoretical foundation.
 >
-> **See also:** [[implementation-intention]], [[Intention-Behavior-Gap]]
+> **See also:** [[implementation-intention]], [[intention-behavior-gap]]
 
 > [!definition] **Strategic Automaticity (Gollwitzer & Brandstätter, 1997)**
 > The cognitive condition in which a behavior, having been pre-linked to a specific cue through deliberate planning, subsequently exhibits the operational signatures of automaticity (immediacy, efficiency, lack of conscious effort) without having undergone the prolonged repetition that produces traditional habits. Strategic automaticity is plan-dependent and revocable, distinguishing it from procedural-memory-based habit automaticity.
@@ -558,7 +558,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** The model provides the theoretical home in which implementation intentions are situated and against which their function is best understood.
 >
-> **See also:** [[Rubicon-Model-of-Action-Phases]], [[Volition]]
+> **See also:** [[Rubicon-Model-of-Action-Phases]], [[volition]]
 
 > [!definition] **Rubicon (Heckhausen & Gollwitzer)**
 > The metaphorical boundary between the predecisional phase (in which the actor weighs alternative goals) and the preactional phase (in which the chosen goal is planned and enacted), named after Caesar's irrevocable river crossing. Crossing the rubicon represents a qualitative shift from open-minded deliberation to commitment-protective implementation.
@@ -567,7 +567,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** The rubicon image clarifies why implementation intentions are most effective when commitment is firm and least effective when commitment is still being weighed.
 >
-> **See also:** [[Action-Phase-Model]], [[Volition]]
+> **See also:** [[action-phase-model]], [[volition]]
 
 > [!definition] **Mental Contrasting (Oettingen)**
 > A self-regulatory technique in which the actor vividly imagines a desired future outcome and then deliberately contrasts it with the present obstacles standing in the way; the contrast produces expectancy-dependent commitment, with strong commitment when the goal is judged feasible and disengagement when it is judged infeasible.
@@ -576,7 +576,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** Mental contrasting is the upstream coupling partner that combines with implementation intentions to produce MCII.
 >
-> **See also:** [[MCII]], [[goal-setting-theory]]
+> **See also:** [[mcii]], [[goal-setting-theory]]
 
 > [!definition] **MCII (Mental Contrasting with Implementation Intentions)**
 > A compound intervention combining mental contrasting (which strengthens commitment) with implementation-intention specification (which engineers cue-triggered enactment). MCII routinely outperforms either constituent alone because the two interventions address complementary failure modes within the action phase cycle.
@@ -585,7 +585,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** MCII represents the construct's most evidence-supported applied form and exemplifies the principle of upstream coupling.
 >
-> **See also:** [[Mental-Contrasting]], [[implementation-intention]]
+> **See also:** [[mental-contrasting]], [[implementation-intention]]
 
 > [!definition] **Intention-Behavior Gap**
 > The empirically documented and theoretically central phenomenon that strong intentions to perform a behavior only weakly predict whether the behavior will actually be performed; meta-analytic estimates suggest intentions account for less than thirty percent of the variance in subsequent behavior. The intention-behavior gap is the problem implementation intentions were designed to address.
@@ -594,7 +594,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** This gap motivates the entire construct; without it, implementation intentions would be solving a problem that did not exist.
 >
-> **See also:** [[Theory-of-Planned-Behavior]], [[Goal-Intention]]
+> **See also:** [[theory-of-planned-behavior]], [[goal-intention]]
 
 > [!definition] **Cue-Encoding Bottleneck (this report)**
 > A proposed integrative hypothesis, surfaced originally in this synthesis, holding that the most common single point of failure for implementation intentions is the quality of cue specification — that vague, abstract, or context-dependent cues fail to acquire the perceptual discriminability required for reliable detection, regardless of how strong the underlying goal commitment is. The hypothesis predicts that practitioner training in cue-encoding skill should outperform other forms of implementation-intention coaching.
@@ -612,7 +612,7 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 >
 > **Report-Specific Significance:** This is the second of two original-synthesis contributions the report attempts to surface; it serves both pedagogical and theoretical purposes.
 >
-> **See also:** [[Strategic-Automaticity]], [[procedural-memory]]
+> **See also:** [[strategic-automaticity]], [[procedural-memory]]
 
 ---
 
@@ -877,14 +877,14 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 > [!further-exploration] **Future Investigation Directions**
 > The following topics have been surfaced through this synthesis as candidates for dedicated future report generation. Each is wiki-linked as a potential future permanent note.
 
-> [!topic-idea] **[[Mental-Contrasting]] — Oettingen's Independent Contribution**
+> [!topic-idea] **[[mental-contrasting]] — Oettingen's Independent Contribution**
 > **Description:** A dedicated treatment of mental contrasting as a self-regulatory technique in its own right, independent of its role in MCII. The construct's mechanism (expectancy-dependent commitment formation through future-obstacle contrast), its boundary conditions, and its applications across academic, clinical, and interpersonal domains all merit a foundational treatment that this report could only sketch.
 > **Connection to this report:** Mental contrasting is one of the two constituents of MCII discussed in Section 6, but its independent significance and detailed mechanism were necessarily compressed.
 > **Priority:** High
 > **Suggested report type:** Foundational Report
 > **Prerequisites:** [[implementation-intention]], [[goal-setting-theory]]
 
-> [!topic-idea] **[[habit-formation]] vs. [[Strategic-Automaticity]] — A Comparative Analysis**
+> [!topic-idea] **[[habit-formation]] vs. [[strategic-automaticity]] — A Comparative Analysis**
 > **Description:** A direct side-by-side comparison of the two principal mechanisms by which behavior comes to operate without continuous deliberation, including their respective neural substrates, temporal trajectories, revocability profiles, and practical implications. The bridging relationship sketched in Section 6 deserves expansion into a full comparative treatment.
 > **Connection to this report:** Section 3 distinguished strategic automaticity from habit, and Section 6 sketched their bridging relationship; a comparative-architecture report would treat both constructs symmetrically.
 > **Priority:** High
@@ -919,27 +919,27 @@ What the autodidact reader should take from this synthesis is, finally, somethin
 > [!connections-and-links] **Knowledge Graph Integration**
 >
 > **Upstream Dependencies (this report builds on):**
-> - [[Theory-of-Planned-Behavior]] — The Ajzen-Fishbein framework that established intentions as proximal predictors of behavior, against which implementation-intention research developed by addressing the residual variance left unexplained by intentions alone. Without this prior framework, the intention-behavior gap would not have been conceptually crystallized.
-> - [[Action-Phase-Model]] — Heckhausen and Gollwitzer's structural model of motivated action, which provided the theoretical home in which implementation intentions are situated as the principal cognitive operation of the preactional phase.
+> - [[theory-of-planned-behavior]] — The Ajzen-Fishbein framework that established intentions as proximal predictors of behavior, against which implementation-intention research developed by addressing the residual variance left unexplained by intentions alone. Without this prior framework, the intention-behavior gap would not have been conceptually crystallized.
+> - [[action-phase-model]] — Heckhausen and Gollwitzer's structural model of motivated action, which provided the theoretical home in which implementation intentions are situated as the principal cognitive operation of the preactional phase.
 > - [[goal-setting-theory]] — Locke and Latham's framework on goal commitment, specificity, and difficulty, which establishes the importance of well-formed goal intentions that implementation intentions then translate into reliable enactment.
-> - [[Volition]] — The classical philosophical and psychological concept of will-formation that Heckhausen restored to mainstream psychology and on which the entire implementation-intention research program ultimately depends.
+> - [[volition]] — The classical philosophical and psychological concept of will-formation that Heckhausen restored to mainstream psychology and on which the entire implementation-intention research program ultimately depends.
 >
 > **Downstream Applications (this report enables):**
 > - [[Self-Regulated-Learning-—-SRL]] — Implementation intentions provide a concrete strategic-planning technique for the forethought phase of self-regulated learning, enabling practitioners to engineer reliable enactment of planned learning behaviors.
-> - [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]] — The reliable enactment of review behaviors, capture protocols, and transition rituals that effective PKM practice requires can be substantially supported by implementation-intention engineering.
+> - [[personal-knowledge-management-systems-and-spaced-repetition]] — The reliable enactment of review behaviors, capture protocols, and transition rituals that effective PKM practice requires can be substantially supported by implementation-intention engineering.
 > - [[habit-formation]] — Implementation intentions can serve as a bridge into true habit formation by ensuring the reliable repetition that habit consolidation requires.
-> - [[Behavior-Change-Techniques]] — The construct is now recognized as a standard behavior-change technique in both clinical and applied behavior-change taxonomies.
+> - [[behavior-change-techniques]] — The construct is now recognized as a standard behavior-change technique in both clinical and applied behavior-change taxonomies.
 >
 > **Lateral Connections (mutual enrichment):**
-> - [[Mental-Contrasting]] — The complementary commitment-strengthening intervention that combines with implementation intentions to produce MCII; mutual enrichment because each addresses a failure mode the other cannot.
+> - [[mental-contrasting]] — The complementary commitment-strengthening intervention that combines with implementation intentions to produce MCII; mutual enrichment because each addresses a failure mode the other cannot.
 > - [[Worked-Examples]] — The educational research on worked examples shares the structural feature that pre-compiled solution structures are deployed against subsequently encountered cue patterns; the comparison illuminates both literatures.
 > - [[High-Reliability-Organizations]] — The organizational-level use of standard operating procedures instantiates the same general principle (advance planning enabling cue-triggered automaticity) at a different scale of analysis.
 > - [[Clinical-Heuristics]] — The clinical use of action plans for asthma, diabetes, and other chronic conditions parallels the individual-level use of implementation intentions in interesting ways that bear on both literatures.
 >
 > **Strengthened Nodes (existing notes this report enriches):**
-> - [[Intention-Behavior-Gap]] — This report substantially deepens the treatment of the gap by tracing its theoretical articulation through the action phase model and surfacing the cognitive mechanism by which it can be narrowed.
-> - [[Strategic-Automaticity]] — The concept's mechanism, evidence, and boundary conditions are developed in much more detail here than in any single previous PKB note.
-> - [[Action-Phase-Model]] — The four-phase structure and its theoretical motivation are developed at length in Section 2, providing additional depth for any future cross-reference.
+> - [[intention-behavior-gap]] — This report substantially deepens the treatment of the gap by tracing its theoretical articulation through the action phase model and surfacing the cognitive mechanism by which it can be narrowed.
+> - [[strategic-automaticity]] — The concept's mechanism, evidence, and boundary conditions are developed in much more detail here than in any single previous PKB note.
+> - [[action-phase-model]] — The four-phase structure and its theoretical motivation are developed at length in Section 2, providing additional depth for any future cross-reference.
 > - [[Self-Regulated-Learning-—-SRL]] — The Zimmerman cyclical-model integration in Section 7 strengthens the practical grounding of the SRL node by connecting it to a specific strategic-planning technique with strong empirical support.
 
 ---

@@ -95,7 +95,7 @@ broader: ["[[cognitive-psychology-foundations]]"]
 narrower: ["[[split-attention-effect]]", "[[worked-example-effect]]", "[[redundancy-effect]]"]
 see-also: ["[[dual-coding-theory]]", "[[cognitive-theory-of-multimedia-learning]]"]
 builds-on: ["[[Baddeley's-Working-Memory-Model]]", "[[information-processing-theory]]"]
-enables: ["[[prior-knowledge-moderation|PKM]]", "[[ai-pkb-integration]]", "[[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]]"]
+enables: ["[[prior-knowledge-moderation|PKM]]", "[[ai-pkb-integration]]", "[[personal-knowledge-management-systems-and-spaced-repetition]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -534,7 +534,7 @@ The modality effect's boundary conditions apply here: visual-verbal integration 
 
 ### Design Principle 5: Implement Structured Retrieval Practice
 
-The retrieval phase of PKM should be deliberately engineered rather than emergently happening (or not happening) during casual browsing. [[retrieval-practice]] is among the most effective learning science interventions ever studied, and its integration with PKM systems is both natural and underexploited. [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]] examines this intersection in depth; the CLT contribution is to specify *why* retrieval practice works in load-theoretic terms: it generates the moderate-effort processing that activates consolidated schemas without the excessive load of novel encoding, producing the memory strengthening that passive re-reading fails to achieve.
+The retrieval phase of PKM should be deliberately engineered rather than emergently happening (or not happening) during casual browsing. [[retrieval-practice]] is among the most effective learning science interventions ever studied, and its integration with PKM systems is both natural and underexploited. [[personal-knowledge-management-systems-and-spaced-repetition]] examines this intersection in depth; the CLT contribution is to specify *why* retrieval practice works in load-theoretic terms: it generates the moderate-effort processing that activates consolidated schemas without the excessive load of novel encoding, producing the memory strengthening that passive re-reading fails to achieve.
 
 Practically, this means PKM systems should support easy creation of retrieval practice cards from permanent notes, scheduled review sessions that are structurally separate from capture and synthesis sessions, and some mechanism for tracking which material has been retrieved recently versus which is approaching the forgetting-curve-predicted point of significant decay. The integration of Anki-style [[spaced-repetition]] with Obsidian-style networked notes is one of the most promising frontier areas in PKM design.
 
@@ -698,7 +698,7 @@ For practitioners, the report's most actionable message is this: the decision ab
 >
 > **Report-Specific Significance:** Working memory capacity limits are the fundamental constraint that both CLT and PKM must work within and around.
 >
-> **See also:** [[working-memory]], [[Baddeley-s-Model-of-Working-Memory]], [[cognitive-load-theory]], [[chunking]]
+> **See also:** [[working-memory]], [[baddeley-s-model-of-working-memory]], [[cognitive-load-theory]], [[chunking]]
 
 > [!definition] **Element Interactivity (Sweller & Chandler, 1994)**
 > The number of elements in a learning task that must be simultaneously held in working memory and considered in relation to each other for comprehension to be possible. High element-interactivity material (e.g., understanding a mathematical proof, comprehending a complex philosophical argument, reading dense technical documentation) exhausts working memory capacity and generates high intrinsic load. Low element-interactivity material (e.g., learning isolated vocabulary, recalling independent facts) can be processed element by element without simultaneous multi-element consideration.
@@ -1037,7 +1037,7 @@ For practitioners, the report's most actionable message is this: the decision ab
 >
 > - [[clt-as-a-dynamic-load-optimization-problem]]: This report's advocacy for adaptive scaffolding and expertise-calibrated design motivates a further dynamic-systems extension; see Expansion Topics.
 > - [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]]: This report generates the theoretical motivation for measurement methodologies in PKM contexts; the downstream note would operationalize the monitoring implications.
-> - [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]]: Section 5's treatment of spaced retrieval practice directly motivates a focused report on the PKM-spaced-repetition integration.
+> - [[personal-knowledge-management-systems-and-spaced-repetition]]: Section 5's treatment of spaced retrieval practice directly motivates a focused report on the PKM-spaced-repetition integration.
 > - [[cog-sci-pkm-metacognition-and-its-role-in-pkm]]: Section 7's identification of metacognitive prerequisites as an unresolved tension directly motivates this downstream note; see Expansion Topics.
 >
 > **Lateral Connections** *(Mutual enrichment with these permanent notes)*

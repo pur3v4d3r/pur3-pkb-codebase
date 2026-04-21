@@ -141,7 +141,7 @@ link_related:
   - "[[Grit-and-Perseverance|Grit and Perseverance]]"
   - "[[stereotype-threat|Stereotype Threat]]"
   - "[[academic-buoyancy|Academic Buoyancy]]"
-  - "[[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]"
+  - "[[replication-crisis-in-psychology|Replication Crisis in Psychology]]"
 
 summary: "A first-principles deconstruction of Carol Dweck's growth mindset framework. The analysis audits eight significant assumptions — including directionality of mindset effects, coherence of ability beliefs as constructs, universality of effort praise, and the stability of mindset states — finding that four dissolve under scrutiny, two require significant revision, and two survive. The resulting axiom set, grounded in attribution theory and well-replicated motivational findings, generates a more precisely circumscribed reconstruction: attribution retraining in specific, high-stakes contexts can meaningfully support persistence after failure, but the packaging of this insight as 'mindset installation' overpromises. Novel insights include the goal-structure primacy hypothesis and the appreciation that mindset's apparent effects may be mediated by goal orientation rather than intelligence beliefs per se."
 ---
@@ -243,7 +243,7 @@ The conventional growth mindset account embeds at least eight significant assump
 > **Statement**: A brief educational intervention (one to three hours of content about brain malleability and growth mindset) produces lasting changes in students' mindset beliefs that transfer to meaningful academic outcomes (grades, test scores, persistence) over months and years.
 > **Origin**: A series of studies by Yeager, Walton, and Dweck in the 2010s reporting significant effects of brief interventions on academic outcomes for at-risk students.
 > **Evidence For**: Several well-designed studies by the original research group, plus a large preregistered national study (Yeager et al., 2019) that reported small but statistically significant effects on challenge-seeking and GPA for lower-performing students.
-> **Evidence Against**: A preponderance of independent replications find null or near-null effects. The Behavioral Insights Team's large-scale replication found no effects. The effect sizes when found are small enough that their practical significance is contested. Crucially, most studies do not demonstrate that the intervention actually changed mindset beliefs — only that it was administered — leaving the proposed mechanism unverified. [[Replication-Crisis-in-Psychology|The replication crisis in psychology]] has hit the mindset intervention literature particularly hard.
+> **Evidence Against**: A preponderance of independent replications find null or near-null effects. The Behavioral Insights Team's large-scale replication found no effects. The effect sizes when found are small enough that their practical significance is contested. Crucially, most studies do not demonstrate that the intervention actually changed mindset beliefs — only that it was administered — leaving the proposed mechanism unverified. [[replication-crisis-in-psychology|The replication crisis in psychology]] has hit the mindset intervention literature particularly hard.
 > **Load-Bearing?**: Very load-bearing — this is the primary applied claim. If brief interventions do not transfer to outcomes, the practical significance of the theory is severely circumscribed.
 > **Verdict**: Dissolved ✗ — Brief, generic mindset interventions do not reliably produce meaningful gains in academic outcomes for general populations. The evidence for small effects in highly specific at-risk populations is suggestive but fragile.
 
@@ -458,7 +458,7 @@ A [[socratic-dialogue-report-prompt|Socratic Dialogue]] on this topic would prod
 >
 > - **[[stereotype-threat|Stereotype Threat]]** — The interaction between stereotype threat and growth mindset is incompletely theorized. Stereotype threat operates partly through attribution effects (attributing difficulty to stereotype-confirming ability deficit). Growth mindset interventions might theoretically interrupt this mechanism, but the empirical evidence for this interaction is not yet robust. This remains a genuine open question for the PKB.
 >
-> - **[[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]** — This analysis should be read alongside the broader PKB node on the replication crisis. The growth mindset intervention literature is one of the more prominent casualties, and the pattern of original striking results followed by failed independent replications is a case study in the sociology of psychological research that extends well beyond this specific framework.
+> - **[[replication-crisis-in-psychology|Replication Crisis in Psychology]]** — This analysis should be read alongside the broader PKB node on the replication crisis. The growth mindset intervention literature is one of the more prominent casualties, and the pattern of original striking results followed by failed independent replications is a case study in the sociology of psychological research that extends well beyond this specific framework.
 >
 > The pattern of connections reveals that the growth mindset framework, at its best, is a synthesis of insights from attribution theory, self-efficacy theory, and achievement goal theory — packaged for educational practitioners in a more accessible form. The packaging has both enabled wide dissemination (genuinely valuable) and obscured the mechanistic foundations (genuinely harmful to good intervention design).
 
@@ -579,18 +579,18 @@ The deepest open question this analysis generates is also the most practically i
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive survey of the goal climate literature — how the motivational environment created by instructional practices, evaluation structures, and classroom culture shapes students' goal orientations independent of their individual ability beliefs. This would operationalize the Goal Orientation Bypass identified as novel in Phase IV, giving practitioners actionable tools that do not require mindset instruction.
 > **Core Concepts**: Achievement Goal Theory, motivational climate, mastery-structured assessment, social comparison effects, normative grading, competency-based evaluation
-> **Related Topics**: [[achievement-goal-theory|Achievement Goal Theory]], [[Classroom-Motivation|Classroom Motivation]], [[Competency-Based-Learning|Competency-Based Learning]], [[self-determination-theory|Self-Determination Theory]]
+> **Related Topics**: [[achievement-goal-theory|Achievement Goal Theory]], [[classroom-motivation|Classroom Motivation]], [[competency-based-learning|Competency-Based Learning]], [[self-determination-theory|Self-Determination Theory]]
 
 > [!topic-idea]
 > **Topic**: The Replication Crisis and Psychological Intervention Science
 > **Report Type**: First Principles
 > **Description**: A first-principles examination of the structural and methodological factors that produced the replication crisis in social and educational psychology, using growth mindset as a central case study but extending to broader lessons about how psychological findings acquire cultural authority before their replication record is established, and what institutional changes would produce more reliable intervention science.
 > **Core Concepts**: Publication bias, underpowered studies, researcher degrees of freedom, preregistration, registered reports, effect size inflation, conceptual vs. direct replication
-> **Related Topics**: [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]], [[Open-Science-Framework|Open Science Framework]], [[Meta-Science]], [[Evidence-Based-Education|Evidence-Based Education]]
+> **Related Topics**: [[replication-crisis-in-psychology|Replication Crisis in Psychology]], [[Open-Science-Framework|Open Science Framework]], [[Meta-Science]], [[Evidence-Based-Education|Evidence-Based Education]]
 
 > [!topic-idea]
 > **Topic**: Stereotype Threat and Attribution Interaction
 > **Report Type**: Socratic Dialogue
 > **Description**: A dialectical exploration of the interaction between stereotype threat and growth mindset, specifically examining the hypothesis that stereotype threat operates partly through the same attribution mechanism identified in this report's axioms (threat activates stable-ability attributions for difficulty), and that attribution-level interventions might interrupt stereotype threat more effectively than general mindset instruction. This topic benefits from Socratic treatment because the theoretical case is plausible but the empirical record is contested.
 > **Core Concepts**: Stereotype threat mechanisms, identity contingency, attributional ambiguity, domain identification, wise interventions
-> **Related Topics**: [[stereotype-threat|Stereotype Threat]], [[Identity-Based-Motivation|Identity-Based Motivation]], [[Wise-Interventions|Wise Interventions]], [[Attributional-Ambiguity|Attributional Ambiguity]]
+> **Related Topics**: [[stereotype-threat|Stereotype Threat]], [[Identity-Based-Motivation|Identity-Based Motivation]], [[wise-interventions|Wise Interventions]], [[Attributional-Ambiguity|Attributional Ambiguity]]

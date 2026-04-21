@@ -1,0 +1,84 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "evidence-based-learning-strategies"
+aliases:
+  - "evidence-based-learning-strategies"
+type: permanent-note
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - educational-psychology
+
+domain: educational-psychology
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-21
+updated: 2026-04-21
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 17
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
+  - "[[calibration-adaptation-engine]]"
+  - "[[declarative-memory]]"
+  - "[[declarative-memory-explicit-memory]]"
+  - "[[developmental-arc-model]]"
+  - "[[distributed-representation]]"
+  - "[[encoding]]"
+  - "[[forgetting]]"
+  - "[[forgetting-as-adaptive-editing]]"
+  - "[[memory-consolidation]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: medium
+---
+
+# evidence-based-learning-strategies
+
+> [!definition] **evidence-based-learning-strategies**
+> *Stub note — concept referenced by 17 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+*Auto-generated stub — referenced by 17 permanent notes.*
+
+## Referenced By
+
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
+- [[calibration-adaptation-engine]]
+- [[declarative-memory]]
+- [[declarative-memory-explicit-memory]]
+- [[developmental-arc-model]]
+- [[distributed-representation]]
+- [[encoding]]
+- [[forgetting]]
+- [[forgetting-as-adaptive-editing]]
+- [[memory-consolidation]]
+- [[non-declarative-memory]]
+- [[reconsolidation]]
+- [[reconstructive-memory]]
+- [[retrieval]]
+- [[the-calibration-adaptation-engine]]
+- [[the-metacognitive-scaffold-developmental-arc]]
+- [[the-retrieval-paradox-access-shapes-existence]]

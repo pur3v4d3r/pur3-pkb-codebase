@@ -92,7 +92,7 @@ key-distinctions: ["Decoding vs. Comprehension", "Metacognitive Knowledge vs. Me
 prerequisites: ["[[metacognition]]", "[[cognitive-load-theory]]", "[[long-term-memory]]"]
 related: ["[[metacognitive-monitoring]]", "[[comprehension-monitoring]]", "[[self-regulated-learning]]", "[[elaborative-interrogation]]", "[[advance-organizer]]"]
 broader: ["[[cognitive-psychology]]", "[[educational-psychology]]"]
-narrower: ["[[kwl-strategy]]", "[[metacognitive-scaffolding]]", "[[Comprehension-Monitoring-Training-Protocols]]"]
+narrower: ["[[kwl-strategy]]", "[[metacognitive-scaffolding]]", "[[comprehension-monitoring-training-protocols]]"]
 see-also: ["[[cog-sci-pkm-reading-fluency-and-comprehension-in-pkm]]", "[[metacognition-silent-reading-focused-analysis-2026-03-21]]"]
 builds-on: ["[[metacognitive-knowledge]]", "[[levels-of-processing-theory]]", "[[mental-models]]"]
 enables: ["[[knowledge-telling-vs.-knowledge-transforming]]", "[[active-note-making]]", "[[deep-processing]]"]
@@ -648,7 +648,7 @@ The research synthesized in this report generates structural principles that app
 >
 > **Boundary condition:** Domain-specific text structure knowledge and epistemic conventions remain necessary even in professional contexts — medical literature, legal opinions, financial analyses, and engineering specifications each constitute technical genres with their own structural conventions requiring explicit genre-schema development.
 >
-> **See also:** [[self-directed-learning]], [[Professional-Learning]], [[cog-sci-pkm-metacognition-and-its-role-in-pkm]]
+> **See also:** [[self-directed-learning]], [[professional-learning]], [[cog-sci-pkm-metacognition-and-its-role-in-pkm]]
 
 > [!far-transfer] Transfer Domain 2: Multimedia and Digital Learning Environments
 >

@@ -130,7 +130,7 @@ A comprehensive examination of the process by which theoretical knowledge become
 > Recommended continued study:
 > - [[cognitive-load-theory]] and working memory architecture as foundational constraints on workflow design
 > - [[Attention-Restoration-Theory]] and the role of restorative environments in sustaining cognitive performance
-> - [[Habit Stacking]] and [[Implementation-Intentions]] as practical mechanisms for behavioral integration
+> - [[Habit Stacking]] and [[implementation-intentions]] as practical mechanisms for behavioral integration
 > - [[Energy Management]] frameworks that prioritize vitality over mere time management
 > - [[deliberate-practice]] methodology and the structured acquisition of workflow-related meta-skills
 > - [[Decision-Fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work

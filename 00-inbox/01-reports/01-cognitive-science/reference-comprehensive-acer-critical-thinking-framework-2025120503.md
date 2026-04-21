@@ -205,7 +205,7 @@ link-related:
 > **KEY WIKI-LINK OPPORTUNITIES:**
 > - [[critical-thinking]]
 > - [[decision-making]]
-> - [[Problem-Solving]]
+> - [[problem-solving]]
 > - [[metacognition]]
 > - [[information-literacy]]
 > - [[constructivism]]
@@ -286,7 +286,7 @@ The ACER Framework synthesizes four major traditions in critical thinking resear
 
 **Philosophical Tradition**: Drawing from Dewey's (1910) "reflective thinking," McPeck's (1981) "reflective skepticism," and Siegel's (1980) emphasis on rationality and principled reasoning. This tradition emphasizes [[Logical Analysis]], [[Argument Evaluation]], and adherence to objective standards.
 
-**Psychological Tradition**: Incorporating [[cognitive-psychology]] research on [[information-processing]], [[metacognition]] (Kuhn, 1999), and [[Problem-Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
+**Psychological Tradition**: Incorporating [[cognitive-psychology]] research on [[information-processing]], [[metacognition]] (Kuhn, 1999), and [[problem-solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
 
 **Information Literacy Tradition**: Recognizing overlap with [[information-literacy]] frameworks (American Library Association, 1989), the ACER model includes skills for recognizing knowledge gaps, evaluating source reliability, and organizing information effectively—essential for [[Knowledge Construction]].
 
@@ -410,7 +410,7 @@ Interpretation moves beyond surface-level comprehension to deep understanding of
 > [!definition]
 > **Organizing Information**:: The ability to structure, categorize, and synthesize information effectively to produce sound new knowledge products
 
-Organization transforms interpreted information into usable knowledge structures. It involves determining optimal categorization schemes, creating meaningful hierarchies, identifying relationships, and synthesizing disparate elements into coherent wholes. This aspect is foundational for [[Note-Taking]], [[Knowledge-Management]], and [[Synthesis]].
+Organization transforms interpreted information into usable knowledge structures. It involves determining optimal categorization schemes, creating meaningful hierarchies, identifying relationships, and synthesizing disparate elements into coherent wholes. This aspect is foundational for [[Note-Taking]], [[knowledge-management]], and [[Synthesis]].
 
 **Observable Behaviors:**
 - Selects appropriate organizational structures for the task
@@ -585,7 +585,7 @@ This strand draws from [[decision-theory]], [[Judgment and Decision-Making]] res
 
 ### The Decision-Making Context
 
-Decision-making in the ACER Framework requires only the analytical and evaluative aspects of [[Problem-Solving]]—not necessarily the creative generation of solutions (which falls under [[Creative Thinking]] frameworks). This distinction is crucial: Making Decisions focuses on systematically analyzing situations, establishing criteria, comparing alternatives, and monitoring outcomes using critical thinking principles.
+Decision-making in the ACER Framework requires only the analytical and evaluative aspects of [[problem-solving]]—not necessarily the creative generation of solutions (which falls under [[Creative Thinking]] frameworks). This distinction is crucial: Making Decisions focuses on systematically analyzing situations, establishing criteria, comparing alternatives, and monitoring outcomes using critical thinking principles.
 
 Effective decision-making requires integrating skills from Strands 1 and 2:
 - **From Strand 1**: Constructing accurate understanding of the decision context, gathering relevant information, organizing options systematically
@@ -827,7 +827,7 @@ This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-
 - [[Evidence Evaluation]]
 - [[Causal Analysis]]
 - [[Pattern-Recognition]]
-- [[Adaptive Learning]]
+- [[adaptive-learning]]
 - [[reflective-practice]]
 
 > [!key-claim]

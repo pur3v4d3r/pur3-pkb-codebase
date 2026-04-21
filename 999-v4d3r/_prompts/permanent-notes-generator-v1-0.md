@@ -868,7 +868,7 @@ narrower:
   - "[[split-attention-effect]]"
 
 see-also:
-  - "[[Multimedia-Learning-Theory]]"
+  - "[[multimedia-learning-theory]]"
   - "[[deliberate-practice]]"
   - "[[zone-of-proximal-development]]"
 

@@ -149,7 +149,7 @@ broader:
 narrower:
   - "[[identity-based-habits]]"
   - "[[cortico-striatal-learning-loops]]"
-  - "[[Implementation-Intentions|Implementation Intentions]]"
+  - "[[implementation-intentions|Implementation Intentions]]"
 
 see-also:
   - "[[schema-theory]]"
@@ -182,7 +182,7 @@ enables:
   - "[[Metacognition-&-Lifelong-Learning]]"
 
 expansion-topics:
-  - topic: "[[Implementation-Intentions|Implementation Intentions]]"
+  - topic: "[[implementation-intentions|Implementation Intentions]]"
     description: "Gollwitzer's if-then planning as a technology for bridging intention-behavior gaps; meta-analytic evidence and mechanisms"
     priority: "high"
   - topic: "[[Cue-Routine-Reward-Loop]]"
@@ -353,7 +353,7 @@ This has counterintuitive implications. A behavior performed every day but alway
 
 ### Implementation Intentions: Bridging Intention and Action
 
-One of the most practically important theoretical contributions to habit formation is Peter Gollwitzer's work on [[Implementation-Intentions|implementation intentions]] (1999). Gollwitzer identified a critical gap in standard motivational frameworks: the fact that people frequently hold strong intentions to perform a behavior without reliably executing it — the intention-action gap. Implementation intentions address this gap through if-then planning: *if situation X arises, then I will perform behavior Y*. This pre-commitment to a specific action in a specific situation effectively creates an automatic cue-routine link before the situation is encountered.
+One of the most practically important theoretical contributions to habit formation is Peter Gollwitzer's work on [[implementation-intentions|implementation intentions]] (1999). Gollwitzer identified a critical gap in standard motivational frameworks: the fact that people frequently hold strong intentions to perform a behavior without reliably executing it — the intention-action gap. Implementation intentions address this gap through if-then planning: *if situation X arises, then I will perform behavior Y*. This pre-commitment to a specific action in a specific situation effectively creates an automatic cue-routine link before the situation is encountered.
 
 > [!key-claim] **The Meta-Analytic Effect of Implementation Intentions**
 > A meta-analysis of 94 independent studies (Gollwitzer & Sheeran, 2006) found that implementation intentions had a medium-to-large effect on goal-directed behavior (d ≈ 0.65), roughly doubling the likelihood of goal achievement compared to mere motivational intentions. The proposed mechanism is that if-then planning creates a prospective memory cue: when the situational trigger is encountered, the intended response comes to mind automatically, without requiring deliberate recollection.
@@ -834,7 +834,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Implementation-Intentions|Implementation Intentions]]
+> > [!topic-idea] [[implementation-intentions|Implementation Intentions]]
 > > **Description:** Gollwitzer's if-then planning framework deserves a dedicated foundational node in the PKB. Such a report would cover the theoretical mechanism (prospective memory automation), the meta-analytic evidence base (Gollwitzer & Sheeran, 2006, d ≈ 0.65), the conditions under which implementation intentions are most and least effective, and the relationship to volition, self-regulation, and habit formation theory. Implementation intentions occupy a crucial functional niche: they are the deliberate scaffolding that enables habit formation to begin before the automatic loop is established.
 > > **Connection to This Report:** Phase III directly introduces implementation intentions as a habit-formation technology; this report treats them too briefly for their importance.
 > > **Priority:** High
@@ -945,4 +945,4 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 > **Recommendations for Future Revision:**
 > - Expand Phase V with a more detailed treatment of habit reversal protocols
 > - Add Appendix Section 6 (Argument Maps) in next revision to visualize the habit loop, the cortical-to-striatal shift, and the SRL-habit connection
-> - Once [[Implementation-Intentions|Implementation Intentions]] is generated as a dedicated report, link it explicitly to Phase III and update the expansion section
+> - Once [[implementation-intentions|Implementation Intentions]] is generated as a dedicated report, link it explicitly to Phase III and update the expansion section

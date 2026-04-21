@@ -146,7 +146,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 > **Scope**: Comprehensive understanding of Self-Determination Theory (SDT) from foundational concepts through contemporary applications and empirical validation
 > **Duration**: 2-3 months (adjustable based on depth of engagement)
 > **Learning Objective**: Develop expert-level understanding of SDT's theoretical framework, empirical foundations, mini-theories, and practical applications across domains (education, work, health, technology)
-> **PKB Integration Strategy**: Build a robust SDT knowledge cluster with bidirectional links to [[Motivation Theory]], [[Human Development]], [[Learning Theory]], [[Organizational Psychology]], and [[Behavior Change]] domains
+> **PKB Integration Strategy**: Build a robust SDT knowledge cluster with bidirectional links to [[motivation-theory]], [[Human Development]], [[Learning Theory]], [[Organizational Psychology]], and [[behavior-change]] domains
 
 ---
 
@@ -356,7 +356,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. What critiques have been leveled against SDT, and how have Deci and Ryan responded?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[goal-setting-theory]], [[achievement-goal-theory]], [[expectancy-value-theory]], [[flow-theory]], [[Behaviorism]], [[Social Cognitive Theory]], [[humanistic-psychology]], [[Maslow's-Hierarchy-of-Needs]], [[Drive Theory]]
+- Core concepts to wiki-link: [[goal-setting-theory]], [[achievement-goal-theory]], [[expectancy-value-theory]], [[flow-theory]], [[Behaviorism]], [[social-cognitive-theory]], [[humanistic-psychology]], [[Maslow's-Hierarchy-of-Needs]], [[Drive Theory]]
 - Recommended tags: #theoretical-comparison #dialectical-analysis #motivation-theories
 - Connection points: Links to [[Comparative Psychology]], [[Theoretical Integration]], [[philosophy-of-science]]
 
@@ -377,7 +377,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 **Cross-Domain Connections**:
 - Link to existing [[Learning Theory]] notes (SDT informs autonomy-supportive pedagogy)
 - Bridge with [[Organizational Behavior]] knowledge (SDT explains workplace motivation)
-- Synthesize with [[Behavior Change]] frameworks (SDT guides intervention design)
+- Synthesize with [[behavior-change]] frameworks (SDT guides intervention design)
 - Connect to [[Well-being]] and [[Human Flourishing]] concepts (eudaimonic perspective)
 - Integrate with [[cognitive-science]] (understanding autonomy, competence, relatedness as cognitive-affective systems)
 
@@ -544,7 +544,7 @@ Learning Objectives:
 
 Prerequisites: Topics 1-2 (Historical Foundations, Basic Psychological Needs)
 
-PKB Integration: This topic refines your understanding of SDT's most central distinction and connects to notes on [[Reward Systems]], [[Incentive Design]], [[educational-psychology]], [[Performance Management]], and [[Behavior Change]]. It prepares you for understanding the internalization continuum in Organismic Integration Theory.
+PKB Integration: This topic refines your understanding of SDT's most central distinction and connects to notes on [[Reward Systems]], [[Incentive Design]], [[educational-psychology]], [[Performance Management]], and [[behavior-change]]. It prepares you for understanding the internalization continuum in Organismic Integration Theory.
 </topic_context>
 
 <pedagogical_approach>
@@ -714,7 +714,7 @@ The report should:
 2. **[[Autonomy Support in Educational Design - Practical Applications]]**
    - *Connection*: Translates SDT's autonomy concept into concrete instructional design principles
    - *Depth Potential*: Examining specific teaching practices, classroom structures, and assessment designs that support vs. thwart autonomy
-   - *Knowledge Graph Role*: Connects SDT to [[instructional-design]], [[pedagogy]], and [[Educational-Technology]] domains
+   - *Knowledge Graph Role*: Connects SDT to [[instructional-design]], [[pedagogy]], and [[educational-technology]] domains
 
 3. **[[Cultural Variations in Basic Psychological Needs - The Universality Debate]]**
    - *Connection*: Addresses one of the most significant theoretical debates in SDT regarding cross-cultural applicability

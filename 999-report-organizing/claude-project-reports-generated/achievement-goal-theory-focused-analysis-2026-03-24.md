@@ -785,7 +785,7 @@ Insights transfer easily when they identify *mechanisms that operate at the leve
 > > **Connection to This Report:** Directly evaluates the empirical foundation of the regulatory mode primacy thesis.
 > > **Priority:** High
 > > **Suggested Report Type:** Dialectical Re-Examination
-> > **Prerequisites:** [[achievement-goal-theory]], [[2×2-Framework]], [[Replication-Crisis-in-Psychology]]
+> > **Prerequisites:** [[achievement-goal-theory]], [[2×2-Framework]], [[replication-crisis-in-psychology]]
 >
 > > [!topic-idea] [[A-deep-dive-into-the-practical-engineering-of-mastery-oriented-learning-environm|Mastery Climate Engineering: Structural Design Principles]]
 > > A focused investigation of the practical engineering of mastery-oriented learning environments — moving from the abstract principles identified in Ames' TARGET framework to the specific design specifications for assessment, grouping, recognition, authority, and time structures. This expansion would operationalize the motivational climate audit protocol in this report into a comprehensive design guide.

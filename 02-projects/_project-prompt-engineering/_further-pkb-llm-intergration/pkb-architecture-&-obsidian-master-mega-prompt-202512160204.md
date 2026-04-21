@@ -430,7 +430,7 @@ Identify and link any term that meets these criteria:
 
 ✓ **Technical Syntax & Concepts**
 - Query languages: [[DQL]], [[DataviewJS]], [[Regex]]
-- Protocols: [[MCP]], [[API]], [[REST]]
+- Protocols: [[MCP]], [[api]], [[REST]]
 - Data structures: [[Graph Database]], [[Knowledge-Graph]], [[Network Topology]]
 - Algorithms: [[SuperMemo Algorithm]], [[PageRank]], [[Neural Network]]
 
@@ -633,7 +633,7 @@ This [[method]] uses several [[techniques]] to improve [[things]].
 ```
 ✅ **Correct Approach:**
 ```markdown
-The [[Zettelkasten-Method]] uses [[Atomic-Notes]] and [[Progressive Linking]] 
+The [[Zettelkasten-Method]] uses [[atomic-notes]] and [[Progressive Linking]] 
 to improve knowledge retention.
 ```
 
@@ -2070,7 +2070,7 @@ FOR each section:
 
 **WITH WIKI-LINKS:**
 ```markdown
-The <span style='color: #FFC700;'>[[Zettelkasten-Method]]</span> leverages <span style='color: #72FFF1;'>[[Atomic-Notes]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
+The <span style='color: #FFC700;'>[[Zettelkasten-Method]]</span> leverages <span style='color: #72FFF1;'>[[atomic-notes]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
 ```
 *Color can wrap wiki-links to add semantic layer.*
 

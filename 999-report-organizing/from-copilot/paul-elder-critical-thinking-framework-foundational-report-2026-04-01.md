@@ -471,7 +471,7 @@ The Paul-Elder framework is unusually well-positioned for far transfer because i
 >
 > **Boundary condition**: Clinical environments include tacit pattern recognition and embodied expertise not fully captured by explicit standards language. Paul-Elder is strongest when used to audit and communicate reasoning, not to replace expert intuition.
 >
-> **See also**: [[decision-making]], [[attention-and-cognitive-control]], [[Cognitive-Forcing-Functions-in-Clinical-Reasoning]], [[metacognitive-monitoring]].
+> **See also**: [[decision-making]], [[attention-and-cognitive-control]], [[cognitive-forcing-functions-in-clinical-reasoning]], [[metacognitive-monitoring]].
 
 > [!far-transfer] Domain 2: Organizational Strategy and Leadership
 > **Structural principle**: Strategic decisions improve when assumptions, implications, and point-of-view conflicts are explicit.

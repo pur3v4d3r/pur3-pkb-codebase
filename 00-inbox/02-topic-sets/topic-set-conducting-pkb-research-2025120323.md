@@ -312,7 +312,7 @@ Research ontology is like organizing a massive library: the Dewey Decimal system
 **Why This Topic is Foundationally Rich**:
 This topic draws from metacognition research (Flavell's metacognitive monitoring, Dunning-Kruger effect, calibration accuracy) and applies it to the unique context of PKB-based research. It explores the challenge of measuring what matters: not just *quantity* of notes (easy to measure, often meaningless) but *quality* of understanding, *density* of connections, and *actionability* of knowledge. The topic addresses how to create feedback loops that promote epistemic humility while building confidence, drawing from educational assessment theory, research validity frameworks, and personal analytics. It connects to cognitive bias awareness, deliberate practice principles, and the quantified self movement.
 **Key Conceptual Anchors**:
-- [[Metacognitive Monitoring and Control]]
+- [[metacognitive-monitoring-and-control]]
 - [[Epistemic Accountability Practices]]
 - [[Research Validity and Reliability]]
 - [[Knowledge Integration Metrics]]

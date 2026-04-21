@@ -94,7 +94,7 @@ The development of prompt engineering frameworks draws on several theoretical mo
 
 **[[dual-process-theory]]**: Tree of Thoughts prompting builds on Daniel Kahneman's concept from "Thinking, Fast and Slow" of [[]] (fast, automatic, unconscious) versus System 2 (slow, deliberate, conscious) thinking. Different frameworks engage different cognitive processes in the model's response generation.
 
-**[[Information-Architecture]]**: The organization of information within a prompt follows principles from [[Library Science]] and [[Knowledge-Management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.
+**[[Information-Architecture]]**: The organization of information within a prompt follows principles from [[Library Science]] and [[knowledge-management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.
 
 **[[instructional-design]]**: Frameworks treat prompt writing as a full-stack design challenge, considering what the model should know, say, and sound like, with space for business goals, tone guidelines, and context variation. This parallels pedagogical frameworks for teaching complex concepts.
 

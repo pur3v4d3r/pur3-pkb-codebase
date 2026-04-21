@@ -1,147 +1,309 @@
 ---
-title: "Metacognitive-Monitoring"
-aliases: [Metacognitive Monitoring]
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Metacognitive Monitoring"
+aliases:
+  - "Metacognitive Monitoring"
 type: permanent-note
 status: evergreen
 confidence: high
-domain: unknown
-subdomains: [Metacognition, Reading Science, Self-Regulated Learning, Knowledge Management, Educational Psychology, Learning Science, educational-psychology, self-regulated-learning, learning-science, instructional-design, metacognition, learning-strategy-research, Cognitive Science, Educational Neuroscience, learning-theory, motivational-psychology]
-tags: [permanent-note, unknown, metacognition, reading-science, self-regulated-learning, knowledge-management, educational-psychology, learning-science, instructional-design, learning-strategy-research, cognitive-science, educational-neuroscience, learning-theory, motivational-psychology]
-created: '2026-04-21'
-updated: '2026-04-21'
-complexity: comprehensive foundational treatment
-importance: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - evergreen
+  - other
+  - comparative-synthesis
+  - self-determination-theory
+  - self-regulated-learning
+  - motivation
+  - metacognition
+  - autonomy
+  - internalization
+  - PKB-integration
+  - Zimmerman
+  - Pintrich
+
+domain: other
+subdomains:
+  - motivational-psychology
+  - metacognition
+  - learning-science
+  - self-regulation
+  - PKB-design
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-21
+updated: 2026-04-21
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: report-extraction
+source-reports:
+  - "sdt-srl-comparative-synthesis-2026-03-19"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-04-21"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
+complexity-level: advanced-practitioner
+depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+prerequisites:
+  []
+
+related:
+  []
+
+broader:
+  []
+
+narrower:
+  []
+
+see-also:
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[paul-pintrich|Paul-Pintrich]]"
+  - "[[forethought-phase|Forethought-Phase]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[self-reflection-phase|Self-Reflection-Phase]]"
+  - "[[autonomous-motivation|Autonomous-Motivation]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[internalization|Internalization]]"
+  - "[[autonomy|Autonomy]]"
+  - "[[zimmerman-srl-model|Zimmerman-SRL-Model]]"
+  - "[[pintrichs-motivational-integration|Pintrich's-Motivational-Integration]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[autonomy-need|Autonomy-Need]]"
+  - "[[competence-need|Competence-Need]]"
+  - "[[relatedness-need|Relatedness-Need]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
+builds-on:
+  []
+
+enables:
+  []
+
+expansion-topics:
+  - topic: "[[> [!topic-idea] [[The-Fourfold-Motivational-Architecture-for-PKB-Design|The Fourfold Motivational Ar]]"
+    description: ""
+    priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-provenance:
-  source-type: report-extraction
-  pipeline-version: "3.0.0"
-  source-reports: [claudes-extended-thinking_report, developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08, developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08_report, metacognition-and-pkm-foundational-report-2026-04-12, metacognition-and-pkm-foundational-report-2026-04-12_report, metacognition-in-learning-focused-analysis-2026-03-20, metacognition-in-learning-focused-analysis-2026-03-20_report, metacognitive-regulation-foundational-report-2026-03-31, metacognitive-regulation-foundational-report-2026-03-31_report, metacognitive-skills-foundational-report-2026-04-09, metacognitive-skills-foundational-report-2026-04-09_report, report-claudes-extended-thinking-acrchitecture_report, self-regulated-learning-focused-analysis-2026-03-06, self-regulated-learning-focused-analysis-2026-03-06_report]
-  extraction-method: pkb-extractor-v1 → pipeline-v3
+importance: high
 ---
 
-# Metacognitive-Monitoring
+# Metacognitive Monitoring
 
-> [!definition] Metacognitive-Monitoring
-> Explicit self-assessment of reasoning quality, strategy effectiveness, and confidence levels during problem-solving—analogous to human metacognition where we pause to evaluate whether our current approach is working or needs adjustment.
+> [!definition] **Metacognitive Monitoring** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The ongoing process of tracking one's own cognitive states during learning — assessing comprehension, judging learning progress, comparing performance against goals. Quality of monitoring determines calibration accuracy (whether one accurately knows what one knows) and thus the quality of adaptive regulatory responses. *SDT connection: competence-need frustration degrades monitoring quality by inducing ego-protective rather than accuracy-seeking processing.*
 
 ## Core Explanation
 
-> [!evidence] Metacognitive-Monitoring
-> Explicit self-assessment of reasoning quality, strategy effectiveness, and confidence levels during problem-solving—analogous to human metacognition where we pause to evaluate whether our current approach is working or needs adjustment.
-> *— [[claudes-extended-thinking_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The evidence suggests that SRL frameworks systematically underspecify the motivational architecture of self-regulation — not because motivation is irrelevant to SRL researchers, but because the motivational theories they import (expectancy-value, goal orientation, self-efficacy) are primarily *cognitive* theories of motivation that share the information-processing commitments of the frameworks themselves. SDT's qualitative distinctions — between types of regulation that produce different…
 
-> [!evidence] Metacognitive Monitoring
-> Metacognitive monitoring refers to the ongoing assessment processes through which a reader tracks the state of their own comprehension — whether meaning is being successfully constructed, whether key claims are understood, whether confusing passages are signaling genuine comprehension failure versus mere surface unfamiliarity. Core monitoring sub-processes include Judgments of Learning (JOLs), Feeling of Knowing (FOK) assessments, and sensitivity to comprehension failure signals including propositional conflicts, situational implausibility, and cohesion breaks.
->
-> **Boundary:** Monitoring accuracy is not the same as monitoring activity — readers can actively assess their comprehension while being systematically inaccurate. Monitoring accuracy is a trainable skill distinct from monitoring frequency.
->
-> **See also:** [[metacognitive-monitoring]], [[judgment-of-learning]], [[feeling-of-knowing]], [[comprehension-monitoring]]
-> *— [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The convergent evidence across all four theoretical traditions — each independently concluding that autonomy-supportive environments produce superior learning outcomes — is the strongest empirical signal in this entire comparison. Whether the mechanism is need satisfaction (SDT), regulatory capacity development (Zimmerman), goal adoption (Pintrich), or internal standard quality (Winne & Hadwin), the practical upshot is identical: environments that provide structure while respecting learner…
 
-> [!evidence] Metacognitive Monitoring
-> Metacognitive monitoring refers to the ongoing assessment processes through which a reader tracks the state of their own comprehension — whether meaning is being successfully constructed, whether key claims are understood, whether confusing passages are signaling genuine comprehension failure versus mere surface unfamiliarity. Core monitoring sub-processes include Judgments of Learning (JOLs), Feeling of Knowing (FOK) assessments, and sensitivity to comprehension failure signals including propositional conflicts, situational implausibility, and cohesion breaks.
->
-> **Boundary:** Monitoring accuracy is not the same as monitoring activity — readers can actively assess their comprehension while being systematically inaccurate. Monitoring accuracy is a trainable skill distinct from monitoring frequency.
->
-> **See also:** [[metacognitive-monitoring]], [[judgment-of-learning]], [[feeling-of-knowing]], [[comprehension-monitoring]]
-> *— [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
 
-> [!evidence] Metacognitive Monitoring
-> [[metacognitive-monitoring|Metacognitive monitoring]] is the set of processes through which a cognitive agent evaluates the current state of their own cognitive activity — including the quality of comprehension, the progress of learning, the likelihood of successful retrieval, and the difficulty of the task at hand. Monitoring produces the information upon which metacognitive control decisions are based.
->
-> **Boundary:** Monitoring is distinct from the cognitive activity it monitors. A person can read a passage (object-level) and simultaneously assess whether they understand it (meta-level). However, monitoring is not always accurate — the gap between subjective assessment and objective performance is the [[metacognitive-calibration|calibration]] problem.
->
-> **See also:** [[metacognitive-monitoring]], [[feeling-of-knowing]], [[judgment-of-learning]], [[comprehension-monitoring]], [[metacognitive-accuracy]]
-> *— [[metacognition-and-pkm-foundational-report-2026-04-12_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
 
-> [!evidence] Metacognitive Monitoring
-> [[metacognitive-monitoring|Metacognitive monitoring]] is the set of processes through which a cognitive agent evaluates the current state of their own cognitive activity — including the quality of comprehension, the progress of learning, the likelihood of successful retrieval, and the difficulty of the task at hand. Monitoring produces the information upon which metacognitive control decisions are based.
->
-> **Boundary:** Monitoring is distinct from the cognitive activity it monitors. A person can read a passage (object-level) and simultaneously assess whether they understand it (meta-level). However, monitoring is not always accurate — the gap between subjective assessment and objective performance is the [[metacognitive-calibration|calibration]] problem.
->
-> **See also:** [[metacognitive-monitoring]], [[feeling-of-knowing]], [[judgment-of-learning]], [[comprehension-monitoring]], [[metacognitive-accuracy]]
-> *— [[metacognition-and-pkm-foundational-report-2026-04-12]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
 
-> [!evidence] Metacognitive Monitoring
-> The real-time process of assessing one's current cognitive state: comprehension level, progress toward a goal, the adequacy of one's current strategy, the accuracy of a retrieved answer. Monitoring generates the *signals* that the regulatory system must act on. It is fundamentally a judgment process, drawing on phenomenological cues, performance feedback, and strategic assessments. See [[metacognitive-monitoring]].
-> *— [[metacognition-in-learning-focused-analysis-2026-03-20_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
 
-> [!evidence] Metacognitive Monitoring
-> The real-time process of assessing one's current cognitive state — comprehension level, memory accessibility, strategy adequacy — by detecting and interpreting phenomenological cues. Distinguished from [[metacognitive-regulation]] by its assessment function (monitoring generates signals) versus control function (regulation responds to them). Source: Nelson & Narens (1990).
-> *— [[metacognition-in-learning-focused-analysis-2026-03-20_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
 
-> [!evidence] Metacognitive Monitoring
-> The real-time process of assessing one's current cognitive state: comprehension level, progress toward a goal, the adequacy of one's current strategy, the accuracy of a retrieved answer. Monitoring generates the *signals* that the regulatory system must act on. It is fundamentally a judgment process, drawing on phenomenological cues, performance feedback, and strategic assessments. See [[metacognitive-monitoring]].
-> *— [[metacognition-in-learning-focused-analysis-2026-03-20]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The field-defining handbook containing canonical statements of all major SRL frameworks. Essential reference for any systematic comparison of SRL theories. Contains chapters by Zimmerman, Pintrich, Winne, and Boekaerts himself.
 
-> [!evidence] Metacognitive Monitoring
-> The real-time process of assessing one's current cognitive state — comprehension level, memory accessibility, strategy adequacy — by detecting and interpreting phenomenological cues. Distinguished from [[metacognitive-regulation]] by its assessment function (monitoring generates signals) versus control function (regulation responds to them). Source: Nelson & Narens (1990).
-> *— [[metacognition-in-learning-focused-analysis-2026-03-20]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most accessible single-chapter overview of all five SDT mini-theories. Particularly useful for understanding how the CET, OIT, COT, BPNT, and GCT components articulate. Directly informs Phase II's SDT profile and Phase IV's convergence analysis.
 
-> [!evidence] Metacognitive Monitoring
-> Monitoring is the concurrent regulatory activity through which the learner tracks the ongoing state of her own cognition during task engagement. It encompasses comprehension monitoring (tracking whether meaning is being constructed or merely decoded), performance monitoring (tracking progress toward task goals), and strategy monitoring (tracking whether the current approach is productive). Monitoring is the informational foundation of adaptive regulation: without accurate monitoring, the control signals required for adaptive adjustment are absent or corrupted.
->
-> **Boundary:** Metacognitive monitoring, as distinguished from object-level cognitive processing, operates on representations of one's own cognitive states — not on the domain content directly. In reading, for example, monitoring does not mean attending more carefully to the text; it means tracking whether one's comprehension of the text is adequate. This distinction is formally expressed in the Nelson-Narens model as the difference between meta-level and object-level processing.
->
-> **Common Misconception:** Monitoring is frequently equated with rereading or slowing down when confused. These are control responses triggered by monitoring signals, not monitoring itself. Monitoring is the detection of difficulty; control is the response to it.
->
-> **Research Status:** Monitoring accuracy — the correspondence between monitoring judgments and actual performance — is one of the most extensively studied metacognitive outcomes. The literature consistently demonstrates that monitoring accuracy is modest on average, that overconfidence predominates (particularly among lower-performing students), and that monitoring accuracy improves with domain expertise.
->
-> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[comprehension-monitoring|Comprehension Monitoring]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[metacognitive-calibration|Metacognitive Calibration]], [[calibration]]
-> *— [[metacognitive-regulation-foundational-report-2026-03-31_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most recent and comprehensive textbook statement of SDT. Covers all six mini-theories, cross-cultural evidence, developmental applications, and the integration with clinical psychology. The primary contemporary reference for SDT.
 
-> [!evidence] Metacognitive Monitoring
-> Monitoring is the concurrent regulatory activity through which the learner tracks the ongoing state of her own cognition during task engagement. It encompasses comprehension monitoring (tracking whether meaning is being constructed or merely decoded), performance monitoring (tracking progress toward task goals), and strategy monitoring (tracking whether the current approach is productive). Monitoring is the informational foundation of adaptive regulation: without accurate monitoring, the control signals required for adaptive adjustment are absent or corrupted.
->
-> **Boundary:** Metacognitive monitoring, as distinguished from object-level cognitive processing, operates on representations of one's own cognitive states — not on the domain content directly. In reading, for example, monitoring does not mean attending more carefully to the text; it means tracking whether one's comprehension of the text is adequate. This distinction is formally expressed in the Nelson-Narens model as the difference between meta-level and object-level processing.
->
-> **Common Misconception:** Monitoring is frequently equated with rereading or slowing down when confused. These are control responses triggered by monitoring signals, not monitoring itself. Monitoring is the detection of difficulty; control is the response to it.
->
-> **Research Status:** Monitoring accuracy — the correspondence between monitoring judgments and actual performance — is one of the most extensively studied metacognitive outcomes. The literature consistently demonstrates that monitoring accuracy is modest on average, that overconfidence predominates (particularly among lower-performing students), and that monitoring accuracy improves with domain expertise.
->
-> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[comprehension-monitoring|Comprehension Monitoring]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[metacognitive-calibration|Metacognitive Calibration]], [[calibration]]
-> *— [[metacognitive-regulation-foundational-report-2026-03-31]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> A comprehensive survey of the SRL field in its modern form. Includes chapters on the SDT-SRL interface, on metacognitive models, and on domain-specific applications. Provides the evidence base for Phase V's situational navigation recommendations.
 
-> [!evidence] Metacognitive Monitoring
-> Metacognitive monitoring refers to the processes by which the cognitive system assesses its own current state — including comprehension level, learning progress, retrieval availability, and task performance quality. Monitoring generates signals (Judgment of Learning, Feeling of Knowing, Ease of Learning, Confidence Judgment) that feed into the control system and inform regulatory decisions. Monitoring accuracy (the degree to which monitoring signals correspond to actual cognitive states) is a trainable capacity that varies substantially across individuals and domains.
->
-> **Boundary:** Distinguished from regulation/control, which is the behavioral response to monitoring signals. Monitoring can be accurate without triggering appropriate regulation (monitoring-control gap); regulation can occur without accurate monitoring (habitual strategy use). Neither is sufficient alone for effective [[self-regulated-learning]].
->
-> **See also:** [[metacognitive-monitoring]], [[judgment-of-learning-jol]], [[feeling-of-knowing]], [[metacognitive-calibration]]
-> *— [[metacognitive-skills-foundational-report-2026-04-09_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Important for the developmental analysis in Phase VI — demonstrates how SDT's account of need-supportive vs. need-thwarting parenting maps onto developmental trajectories in self-regulation that parallel Zimmerman's account of regulatory skill development.
 
-> [!evidence] Metacognitive Monitoring
-> Metacognitive monitoring refers to the processes by which the cognitive system assesses its own current state — including comprehension level, learning progress, retrieval availability, and task performance quality. Monitoring generates signals (Judgment of Learning, Feeling of Knowing, Ease of Learning, Confidence Judgment) that feed into the control system and inform regulatory decisions. Monitoring accuracy (the degree to which monitoring signals correspond to actual cognitive states) is a trainable capacity that varies substantially across individuals and domains.
->
-> **Boundary:** Distinguished from regulation/control, which is the behavioral response to monitoring signals. Monitoring can be accurate without triggering appropriate regulation (monitoring-control gap); regulation can occur without accurate monitoring (habitual strategy use). Neither is sufficient alone for effective [[self-regulated-learning]].
->
-> **See also:** [[metacognitive-monitoring]], [[judgment-of-learning-jol]], [[feeling-of-knowing]], [[metacognitive-calibration]]
-> *— [[metacognitive-skills-foundational-report-2026-04-09]]*
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT and SRL frameworks are neither simply complementary (covering different terrain without interface) nor competitors (making incompatible claims about the same phenomenon). They stand in a more interesting relationship: they provide accounts of *different levels* of the same complex system. SDT describes the motivational quality of the energy that powers self-regulation; SRL frameworks describe the cognitive and metacognitive architecture through which that energy is converted into skilled…
 
-> [!evidence] Metacognitive-Monitoring
-> Explicit self-assessment of reasoning quality, strategy effectiveness, and confidence levels during problem-solving—analogous to human metacognition where we pause to evaluate whether our current approach is working or needs adjustment.
-> *— [[report-claudes-extended-thinking-acrchitecture_report]]*
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Complementarity
+> 
+> The four frameworks are not competing in their accounts of autonomy — they are describing it at different levels of analysis. SDT's autonomy need describes the *motivational substrate* that makes willing self-direction possible. Zimmerman's self-direction describes the *process architecture* through which that willingness is expressed. Winne & Hadwin's cognitive autonomy describes the *information-processing signature* of self-direction. These three levels…
 
-> [!evidence] Metacognitive Monitoring
-> The ongoing process of tracking one's own cognitive states — detecting comprehension failures, accuracy lapses, or strategy-goal mismatches — during active learning. Distinct from metacognitive knowledge (knowing about learning) and from metacognitive control (taking regulatory action). The monitoring-control coupling is the mechanism by which monitoring signals trigger regulatory responses.
-> *— [[self-regulated-learning-focused-analysis-2026-03-06_report]]*
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Complementarity
+> 
+> The most productive structural insight from comparing these frameworks is the distinction between motivational energy and regulatory architecture. SDT theorises the quality and source of the energy; SRL frameworks theorise the architecture through which that energy is converted into skilled performance. This is analogous to distinguishing between a fuel and an engine — you need both, and neither alone predicts how far you will travel. A learner with high-quality…
 
-> [!evidence] Metacognitive Monitoring
-> The ongoing process of tracking one's own cognitive states — detecting comprehension failures, accuracy lapses, or strategy-goal mismatches — during active learning. Distinct from metacognitive knowledge (knowing about learning) and from metacognitive control (taking regulatory action). The monitoring-control coupling is the mechanism by which monitoring signals trigger regulatory responses.
-> *— [[self-regulated-learning-focused-analysis-2026-03-06]]*
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most important insight at the cognitive-motivational interface emerges from placing SDT alongside Winne & Hadwin's processing model. Controlled motivation — regulation from introjection, external pressure, ego-involvement — imposes what might be called *regulatory overhead*: a layer of self-surveillance, performance anxiety, and contingent self-esteem management that competes with the cognitive resources available for actual task engagement. This overhead does not appear in motivational…
 
-## Connections
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Complementarity
+> 
+> SDT and SRL frameworks treat the relationship between learner and environment differently in a way that is illuminating rather than contradictory. SDT treats the environment as the *source* of need-satisfying or need-frustrating conditions — as the context that shapes motivational quality. SRL frameworks, especially Zimmerman's and Pintrich's, treat the environment as an *object of regulation* — as something that skilled learners actively modify to support their own…
 
-**Related:** [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[Academic Coaching]] · [[Academic Self-Regulation Interventions]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]] · [[Argument-Mapping]] · [[Argumentation]] · [[Artificial-Intelligence]] · [[Basic Learning Theory]] · [[Behavioral Learning Theory]] · [[Chain-of-Thought]] · [[Chain-of-Thought-Prompting]] · [[Chain-of-Verification]] · [[Clinical-Reasoning]] · [[Code-Review]] · [[Cognitive Science Foundations of LLM Reasoning Techniques]] · [[Cognitive Science of Learning]] · [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]] · [[Cognitive-Control]] · [[Cognitive-Friction]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[Cognitive-Load-Theory-and-SRL-—-The-Resource-Competition-Model]] · [[Collaborative-Intelligence]] · [[Collaborative-Learning]] · [[Comprehension-Monitoring-Training-Protocols]] · [[Continuous-Integration-Continuous-Deployment]] · [[Decision-Making-Under-Uncertainty]] · [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]] · [[Deliberate-Practice-—-Ericsson]] · [[Desirable-Difficulties-—-Bjork]] · [[Dhuliawala et al. 2023]] · [[Dialectical-Thinking]] · [[Disciplinary-Literacy-Instruction]] · [[Ease-of-Learning]] · [[Epistemic-Humility-in-Communication]] · [[Evaluation Methodologies for LLM Reasoning Quality]] · [[Evidence-Based-Medicine]] · [[Feeling-of-Knowing-—-FOK]] · [[Flavell's-Metacognitive-Framework]] · [[Flavell's-Metacognitive-Model]] · [[Goal-Orientation-Theory-—-Achievement-Goals-in-Depth]] · [[Goal-Setting-Theory-—-Locke-and-Latham]] · [[Kintsch-Construction-Integration-Model]] · [[Knowledge-Graph]] · [[Knowledge-Management]] · [[Learning Design]] · [[Learning-Organization]] · [[Learning-Theory-—-Foundational-Report]] · [[Machine-Learning]] · [[Meta-Level-Object-Level-Model]] · [[Metacognition-&-Critical-Thinking]] · [[Metacognition-&-Lifelong-Learning]] · [[Metacognition-&-Motivation]] · [[Metacognition-—-Foundational-Concepts]] · [[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector]] · [[Metacognitive-Awareness-Inventory]] · [[Metacognitive-Calibration-Training-Protocols]] · [[Metacognitive-Feelings-Affect,-Fluency,-and-Learning-Judgments]] · [[Metacognitive-Monitoring-Accuracy-and-Calibration]] · [[Metacognitive-PKM-Lifecycle]] · [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains]] · [[Motivational Inner Speech]] · [[Multi-Agent Architectures and Agentic Workflows]] · [[Nelson-Narens-Framework]] · [[Organizational-Learning]] · [[Overconfidence-Bias]] · [[Passive Absorption Models of Learning]] · [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]] · [[Philip-Winne]] · [[Pintrich]] · [[Pintrich's-4×4-Matrix]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Professional Development Programs]] · [[Professional-Learning]] · [[Prompt Engineering Taxonomy and Pattern Library]] · [[Reciprocal-Teaching-Research-Synthesis]] · [[Reflection-in-action]] · [[Reflexion]] · [[Retrieval-Practice-and-the-Testing-Effect]] · [[SRL Interventions in Higher Education]] · [[SRL-Based Instructional Design]] · [[SRL-Intervention-Design-—-Evidence-Based-Principles]] · [[SRL-in-Digital-and-AI-Enhanced-Learning-Environments]] · [[Safety and Alignment Considerations in Advanced Reasoning Systems]] · [[Self-Consistency]] · [[Self-Efficacy and Academic Achievement]] · [[Self-Efficacy-Calibration-—-The-Optimal-Confidence-Zone]] · [[Self-Explanation-Laboratory-to-Classroom]] · [[Shinn et al. 2023]] · [[Situation-Models-van-Dijk-&-Kintsch]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring]] · [[Software-Engineering-Principles]] · [[Testing-Effect]] · [[The-Structural-Metacognition-Principle]] · [[Token Economics and Cost Optimization for Production LLM Systems]] · [[Tree-of-Thoughts]] · [[Vocabulary-Acquisition-for-Reading-Automaticity]] · [[Vocabulary-Building-Through-Reading]] · [[Vocabulary-Development-for-Academic-Reading]] · [[Wang-et-al.-2022]] · [[Wei-et-al.-2022]] · [[Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[Yao et al. 2023]] · [[Zettelkasten-Method]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[achievement-goal-theory]] · [[active-note-making]] · [[adaptive-immunity]] · [[advance-organizer]] · [[albert-bandura]] · [[andragogy]] · [[andy-clark]] · [[ann-brown]] · [[aristotle]] · [[attribution-theory]] · [[automaticity]] · [[barry-zimmerman]] · [[calibration]] · [[carol-dweck]] · [[central-executive]] · [[cog-sci-pkm-metacognition-and-its-role-in-pkm]] · [[cog-sci-pkm-reading-fluency-and-comprehension-in-pkm]] · [[cognitive-bandwidth-liberation]] · [[cognitive-forcing-functions]] · [[cognitive-load-theory]] · [[cognitive-offloading]] · [[cognitive-psychology]] · [[cognitive-psychology-foundations]] · [[cognitive-psychology-moc]] · [[cognitive-scaffolding]] · [[comprehension-monitoring]] · [[conditional-metacognitive-knowledge]] · [[critical-thinking]] · [[critical-thinking-as-metacognitively-regulated-reasoning]] · [[cyclical-model-of-self-regulated-learning]] · [[daily-review-frameworks]] · [[david-chalmers]] · [[declarative-metacognitive-knowledge]] · [[deep-processing]] · [[deliberate-practice]] · [[desirable-difficulties]] · [[distributed-cognition]] · [[domain-knowledge]] · [[donald-schön]] · [[double-loop-learning]] · [[dual-coding-theory]] · [[dual-process-theory]] · [[dunning-kruger-effect]] · [[educational-psychology]] · [[efklides]] · [[elaborative-inference]] · [[elaborative-interrogation]] · [[episodic-buffer]] · [[epistemic-calibration]] · [[epistemic-cognition]] · [[epistemic-humility]] · [[executive-function]] · [[expertise]] · [[expertise-reversal-effect]] · [[extended-mind-theory]] · [[extended-thinking-modes]] · [[far-transfer]] · [[feeling-of-knowing]] · [[fixed-mindset]] · [[flavell]] · [[flavell-metacognition-framework]] · [[fluency-illusion]] · [[focused-analysis-report-generator-v1.0]] · [[forethought-phase]] · [[formative-assessment]] · [[general-intelligence]] · [[generation-effect]] · [[gilbert-ryle]] · [[goal-orientation]] · [[gregory-schraw]] · [[growth-mindset]] · [[growth-mindset-and-implicit-theories-of-intelligence]] · [[growth-mindset-and-incremental-intelligence-theory]] · [[growth-mindset-implicit-theories-of-intelligence]] · [[guidance-fading-principle]] · [[habit-formation]] · [[heutagogy]] · [[illusion-of-knowing]] · [[inferential-bridging]] · [[innate-immunity]] · [[interleaving]] · [[intrinsic-cognitive-load]] · [[introduction-to-metacognition]] · [[john-dewey]] · [[john-flavell]] · [[judgment-of-learning]] · [[judgment-of-learning-jol]] · [[knowledge-of-cognition]] · [[knowledge-schemas]] · [[knowledge-telling-vs.-knowledge-transforming]] · [[knowledge-transforming]] · [[kwl-strategy]] · [[language-comprehension]] · [[levels-of-processing-theory]] · [[lifelong-learning]] · [[long-term-memory]] · [[mastery-goal-orientation]] · [[matthew-effect]] · [[mental-models]] · [[metacognition]] · [[metacognition-and-lifelong-learning]] · [[metacognition-and-self-regulated-learning]] · [[metacognitive-accuracy]] · [[metacognitive-calibration]] · [[metacognitive-calibration-training]] · [[metacognitive-experience]] · [[metacognitive-experiences]] · [[metacognitive-feelings]] · [[metacognitive-infrastructure]] · [[metacognitive-knowledge]] · [[metacognitive-monitoring]] · [[metacognitive-monitoring-accuracy]] · [[metacognitive-regulation]] · [[metacognitive-scaffolding]] · [[metacognitive-scaffolding-as-externalized-prefrontal-function]] · [[metacognitive-scaffolding-design-patterns]] · [[metacognitive-self-regulation]] · [[metacognitive-strategies]] · [[metacognitive-strategy]] · [[monitoring-control-coupling]] · [[monitoring-gap]] · [[monitoring-regulation-coupling]] · [[monitoring-regulation-decoupling]] · [[motivated-reasoning]] · [[motivated-strategies-for-learning-questionnaire]] · [[motivation-science]] · [[motivational-regulation]] · [[mslq]] · [[multimedia-learning]] · [[negative-feedback-control-system]] · [[nelson-narens-model]] · [[note-making-vs.-note-taking]] · [[obsidian]] · [[paul-pintrich]] · [[performance-phase]] · [[personal-knowledge-base]] · [[personal-knowledge-management]] · [[phonological-loop]] · [[pkb-&-pkm-moc]] · [[pkb-architecture]] · [[prefrontal-cortex]] · [[prior-knowledge]] · [[prior-knowledge-activation]] · [[prior-knowledge-moderation]] · [[procedural-metacognitive-knowledge]] · [[productive-struggle]] · [[pseudometacognition]] · [[reading-comprehension]] · [[reciprocal-teaching]] · [[reflective-practice]] · [[regulation-of-cognition]] · [[regulatory-reflexivity-problem]] · [[retrieval-practice]] · [[scaffolded-fading]] · [[scaffolding]] · [[schema-theory]] · [[schema-theory-and-learning]] · [[self-determination-theory]] · [[self-directed-learning]] · [[self-efficacy]] · [[self-explanation]] · [[self-explanation-effect]] · [[self-monitoring]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[simple-view-of-reading]] · [[situation-model]] · [[situation-models-in-text-comprehension]] · [[spaced-practice]] · [[spaced-repetition]] · [[spaced-repetition-spacing-effect]] · [[task-value]] · [[text-structure]] · [[textbase]] · [[the-fluency-illusion]] · [[the-metacognitive-scaffolding-design-triangle]] · [[the-nelson-narens-monitoring-control-model]] · [[the-parity-principle]] · [[the-regulatory-reflexivity-problem-a-novel-framing]] · [[transfer-of-learning]] · [[verbal-efficiency-theory]] · [[vygotsky]] · [[walter-kintsch]] · [[working-memory]] · [[working-memory-capacity]] · [[working-memory-in-reading]] · [[writing-to-learn]] · [[zettelkasten]] · [[zimmerman-srl-model]] · [[zone-of-proximal-development]]
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The deepest structural complementarity between SDT and SRL frameworks is not just that they cover different territories but that they describe the *same developmental transformation* from different levels. SDT's internalization continuum describes the qualitative motivational shift from "I do this because I must" to "I do this because I genuinely value it" to "I do this because it is part of who I am." Zimmerman's SRL model describes the developmental shift from "I need others to monitor and…
 
-```dataview
-LIST FROM [[Metacognitive-Monitoring]]
-WHERE file.path != this.file.path
-SORT file.mtime DESC
-LIMIT 10
-```
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's ideal is the effortlessly absorbed intrinsically motivated learner; Zimmerman's ideal is the effortfully and systematically self-regulating deliberate practitioner. These ideals are not identical, and their coexistence in the "ideal learner" is theoretically underdeveloped. One resolution: intrinsic motivation describes the *motivational quality* of engagement (volitional, non-pressured, interest-driven) while deliberate practice describes the *cognitive quality* of learning activity…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's universalism and SRL's implicit acknowledgment of cultural variability in regulatory strategies create a tension with practical implications. If need satisfaction is universal but the forms through which regulation is culturally organised are variable, then the same need-satisfying environment may need to look quite different across cultural contexts to produce equivalent regulatory quality. SDT acknowledges cultural variation in the *forms* of need satisfaction but has been challenged on…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Convergence
+> 
+> SDT via goal contents analysis, Zimmerman via deliberate practice research, Pintrich via [[achievement-goal-theory]] integration, and Winne & Hadwin via standard-setting theory all converge on the recommendation that learners who orient toward mastery (learning, improvement, deep understanding) rather than performance (outperforming others, demonstrating ability) show superior long-term learning outcomes. This convergence from frameworks with different theoretical…
+
+## Practical Implications
+
+> [!example] **Application** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT is the strongest diagnostic lens for identifying how environmental features are affecting motivational quality. Before designing any learning environment change, run an SDT audit: Which features of the current environment are autonomy-thwarting (controlling language, external pressure, reward contingencies that undermine interest)? Which undermine competence (unclear expectations, insufficiently challenging tasks, negative or ego-involving feedback)? Which undermine relatedness (social…
+
+> [!warning] **Key Distinction** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Error 1 — Treating motivational and regulatory failures as the same**: A student who lacks autonomous motivation requires fundamentally different intervention than a student with autonomous motivation but poor regulatory strategies. Applying strategy instruction to a motivationally controlled student adds cognitive burden without addressing the root condition. Applying motivational support to a learner with poor regulatory architecture addresses the energy quality without providing the…
+
+## Conceptual Tensions
+
+> [!tension] **The Effortlessness-Effort Paradox** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's ideal is the effortlessly absorbed intrinsically motivated learner; Zimmerman's ideal is the effortfully and systematically self-regulating deliberate practitioner. These ideals are not identical, and their coexistence in the "ideal learner" is theoretically underdeveloped. One resolution: intrinsic motivation describes the *motivational quality* of engagement (volitional, non-pressured, interest-driven) while deliberate practice describes the *cognitive quality* of learning activity (systematically structured, feedback-rich, goal-directed). A learner could be intrinsically motivated…
+
+> [!tension] **Universal Needs, Variable Regulation** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's universalism and SRL's implicit acknowledgment of cultural variability in regulatory strategies create a tension with practical implications. If need satisfaction is universal but the forms through which regulation is culturally organised are variable, then the same need-satisfying environment may need to look quite different across cultural contexts to produce equivalent regulatory quality. SDT acknowledges cultural variation in the *forms* of need satisfaction but has been challenged on whether even the basic need categories apply universally. SRL's variability evidence suggests the…
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Before reading, identify which tradition you currently inhabit more naturally. When you encounter a learner who is struggling, do you ask first *why* they are struggling — questioning their motivation, engagement quality, or sense of purpose? Or do you ask *how* they are regulating — examining their planning strategies, monitoring accuracy, or self-reflection practices? Most practitioners have an implicit allegiance to one tradition. Making it explicit creates the cognitive anchor that makes…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Choose a specific learning episode from your recent experience — a time you were studying something important to you. Describe that episode first through SDT's lens: What was the quality of your motivation? Were your needs for autonomy, competence, and relatedness being satisfied or frustrated? Now switch to Zimmerman's lens: How did your forethought phase look? How actively were you monitoring during performance? What self-reflection did you engage in afterward? Notice how different features…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: Which framework's distinctive contribution was least familiar to you? What does that framework make visible that your prior thinking about learning missed?
+> 
+> **Application**: Looking across all four frameworks, which one best describes the learning challenges you encounter most frequently — in yourself or in people you work with? Does that suggest something about where your own learning environment needs strengthening?
+> 
+> **Extension**: Even before formal comparison, you may…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Before reading the dimensional comparison, predict: on which dimension will the four frameworks *most agree*? On which will they *most disagree*? I expect the strongest agreement will be around environmental conditions (all four will value autonomy-supportive environments), and the most instructive tension will emerge on the cognitive-motivational interface dimension. Hold your prediction and compare it to what the analysis reveals.
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: Which comparative finding surprised you most? Was it the complementarity on autonomy (need vs. achievement vs. cognitive property), the genuine incompleteness of SRL's motivational architecture, or the regulatory overhead concept?
+> 
+> **Application**: Looking at the five dimensions, identify the one that matters most for your own learning context. Which framework best addresses that dimension?
+> 
+> **Extension**: Are there dimensions the comparison revealed that you hadn't…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: The energy-architecture complementarity and the internalization-regulation isomorphism are the two most structurally important findings. Can you articulate in your own words what each reveals about learning that the individual frameworks do not?
+> 
+> **Application**: How do the genuine conflicts — the effortlessness-effort paradox and the universalism-individualism tension — affect how you would design a learning environment? Do they suggest a resolution strategy?
+> 
+> **Extension**:…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Think of a learning challenge you are currently facing — something you want to master but are struggling with. Apply the SDT lens: Is the difficulty primarily motivational (lacking autonomous engagement, experiencing need frustration)? Apply the Zimmerman lens: Is the difficulty processual (poor forethought planning, inadequate monitoring, superficial self-reflection)? Apply Winne & Hadwin's lens: Is the difficulty calibration-based (overconfident in areas you don't know, inadequate sensitivity…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: What is the single most important contextual factor that determines which framework to reach for? The analysis suggests it is the *type of question* — motivational quality questions route to SDT; process architecture questions to Zimmerman; comprehensive profiling to Pintrich; calibration accuracy to Winne & Hadwin.
+> 
+> **Application**: Identify two learning contexts where you would reach for different frameworks. What features of each context drive the different…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The structural pattern discovered here — the energy-architecture distinction in purposeful human development — appears in domains far beyond formal learning. Can you identify a domain in your own life where you want to develop mastery? Analyse it along both dimensions: (1) What is the quality of your motivational energy for development in this domain — is it autonomous and need-satisfying, or is it controlled and need-thwarting? (2) What is the quality of your regulatory architecture in this…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: The single most important integrative insight from this report is the Motivational-Regulatory Architecture framework — the idea that learning quality requires both autonomous motivational energy and sophisticated regulatory architecture, and that their interaction is qualitatively distinctive rather than simply additive. Can you articulate this insight in your own words?
+> 
+> **Application**: How will you navigate the framework landscape differently in your own learning practice…
+
+## Connections & Context
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[motivational-interviewing|Motivational-Interviewing]]
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[self-regulated-learning-srl|Self-Regulated-Learning-—-SRL]]
+- [[undermining-effect|Undermining-Effect]]
+- [[internalization-continuum|Internalization-Continuum]]
+- [[barry-zimmerman|Barry-Zimmerman]]
+- [[zimmerman-srl-model|Zimmerman-SRL-Model]]
+- [[autonomous-motivation|Autonomous-Motivation]]
+- [[internalization-continuum|Internalization-Continuum]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+
+**Related concepts:**
+[[self-determination-theory|Self-Determination-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[barry-zimmerman|Barry-Zimmerman]] · [[paul-pintrich|Paul-Pintrich]] · [[forethought-phase|Forethought-Phase]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[self-reflection-phase|Self-Reflection-Phase]] · [[autonomous-motivation|Autonomous-Motivation]] · [[self-determination-theory|Self-Determination-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[internalization|Internalization]] · [[autonomy|Autonomy]] · [[zimmerman-srl-model|Zimmerman-SRL-Model]] · [[pintrichs-motivational-integration|Pintrich's-Motivational-Integration]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[autonomy-need|Autonomy-Need]] · [[competence-need|Competence-Need]] · [[relatedness-need|Relatedness-Need]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[internalization-continuum|Internalization-Continuum]] · [[external-regulation|External-Regulation]] · [[introjected-regulation|Introjected-Regulation]] · [[identified-regulation|Identified-Regulation]] · [[integrated-regulation|Integrated-Regulation]] · [[causality-orientations-theory|Causality-Orientations-Theory]] · [[amotivation|Amotivation]]
+
+## References
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
+- **Boekaerts, M., Pintrich, P. R., & Zeidner, M. (Eds.). (2000). *Handbook of self-regulation*. Academic Press.**: The field-defining handbook containing canonical statements of all major SRL frameworks. Essential reference for any systematic comparison of SRL theories. Contains chapters by Zimmerman, Pintrich, Winne, and Boekaerts himself.
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A, pp. 105–165).**: The most accessible single-chapter overview of all five SDT mini-theories. Particularly useful for understanding how the CET, OIT, COT, BPNT, and GCT components articulate. Directly informs Phase II's SDT profile and Phase IV's convergence analysis.
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.**: The most recent and comprehensive textbook statement of SDT. Covers all six mini-theories, cross-cultural evidence, developmental applications, and the integration with clinical psychology. The primary contemporary reference for SDT.
+- **Zimmerman, B. J., & Schunk, D. H. (Eds.). (2011). *Handbook of self-regulation of learning and performance*. Routledge.**: A comprehensive survey of the SRL field in its modern form. Includes chapters on the SDT-SRL interface, on metacognitive models, and on domain-specific applications. Provides the evidence base for Phase V's situational navigation recommendations.
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review*, 30(1), 74–99.**: Important for the developmental analysis in Phase VI — demonstrates how SDT's account of need-supportive vs. need-thwarting parenting maps onto developmental trajectories in self-regulation that parallel Zimmerman's account of regulatory skill development.
+
+*Citations sourced from [[sdt-srl-comparative-synthesis-2026-03-19]]*
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> This report draws on four decades of empirical literature in motivational psychology (primarily SDT research) and self-regulated learning research (Zimmerman, Pintrich, Winne & Hadwin traditions). The comparative analysis proceeds through dimensional mapping (identifying shared questions), complementarity/conflict/convergence classification (applying the five-operation Comparative Analysis Engine), and integrative yield assessment (identifying what becomes visible only through comparison).
+> 
+> Claims in the individual framework profiles (Phase II) are empirically grounded in the primary…
 
 ---
 
-**Sources:** [[claudes-extended-thinking_report]] · [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08]] · [[developing-reading-comprehension-and-metacognition-for-academic-texts-foundational-report-2026-04-08_report]] · [[metacognition-and-pkm-foundational-report-2026-04-12]] · [[metacognition-and-pkm-foundational-report-2026-04-12_report]] · [[metacognition-in-learning-focused-analysis-2026-03-20]] · [[metacognition-in-learning-focused-analysis-2026-03-20_report]] · [[metacognitive-regulation-foundational-report-2026-03-31]] · [[metacognitive-regulation-foundational-report-2026-03-31_report]] · [[metacognitive-skills-foundational-report-2026-04-09]] · [[metacognitive-skills-foundational-report-2026-04-09_report]] · [[report-claudes-extended-thinking-acrchitecture_report]] · [[self-regulated-learning-focused-analysis-2026-03-06]] · [[self-regulated-learning-focused-analysis-2026-03-06_report]]
+## Source Attribution
+
+**Extracted from:** [[sdt-srl-comparative-synthesis-2026-03-19]]
+**Report ID:** `sdt-srl-comparative-synthesis-2026-03-19`

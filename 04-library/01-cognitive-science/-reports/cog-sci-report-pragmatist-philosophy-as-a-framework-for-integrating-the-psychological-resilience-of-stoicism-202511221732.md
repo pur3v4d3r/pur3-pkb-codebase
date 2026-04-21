@@ -398,7 +398,7 @@ This will require a sophisticated structure:
 - [[scaffolding]]
 - [[Cognitive Reframing]]
 - [[Dichotomy-of-Control]]
-- [[Adaptive Learning]]
+- [[adaptive-learning]]
 - [[self-directed-learning]]
 - [[personal-knowledge-management]]
 - [[cognitive-architecture]]

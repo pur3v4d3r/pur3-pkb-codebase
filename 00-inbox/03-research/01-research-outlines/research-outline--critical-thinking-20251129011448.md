@@ -394,7 +394,7 @@ Applying CT skills to research, synthesis, and PKB integration
 5. How can I build metacognitive reflection directly into my PKB note-taking process?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[metacognition]], [[self-regulated-learning]], [[Metastrategic Knowledge]], [[metacognitive-monitoring]], [[metacognitive-control]], [[comprehension-monitoring]], [[Self-Questioning]], [[Reflection]], [[Learning Strategies]], [[Cognitive Regulation]]
+- Core concepts to wiki-link: [[metacognition]], [[self-regulated-learning]], [[Metastrategic Knowledge]], [[metacognitive-monitoring]], [[metacognitive-control]], [[comprehension-monitoring]], [[Self-Questioning]], [[Reflection]], [[learning-strategies]], [[Cognitive Regulation]]
 - Recommended tags: #metacognition #self-regulated-learning #critical-thinking/meta-awareness
 - Connection points: Links to [[Learning Theory]], [[cognitive-science]], [[andragogy]], [[personal-knowledge-management]]; bridge to PKB application topics
 
@@ -1317,7 +1317,7 @@ Generate a comprehensive academic report on Metacognition and Self-Regulated Lea
     - Reflection notes that analyze your own thinking
 
 11. **PKB Capture Guidance**:
-    - Atomic notes: [[metacognition]], [[metacognitive-knowledge]], [[metacognitive-regulation]], [[self-regulated-learning]], [[comprehension-monitoring]], [[Self-Questioning]], [[planning]], [[Monitoring]], [[evaluation]], [[Learning Strategies]]
+    - Atomic notes: [[metacognition]], [[metacognitive-knowledge]], [[metacognitive-regulation]], [[self-regulated-learning]], [[comprehension-monitoring]], [[Self-Questioning]], [[planning]], [[Monitoring]], [[evaluation]], [[learning-strategies]]
     - Tags: #metacognition #self-regulated-learning #critical-thinking/meta-awareness
     - Create metacognitive reflection template
     - Create learning log template
@@ -1929,7 +1929,7 @@ This plan is a **living document**. Adapt based on:
 8. **[[Creative Thinking and Innovation]]**
    - *Connection*: Complements CT's evaluative focus with generative thinking; shows how they work together
    - *Depth Potential*: Creativity frameworks, divergent thinking, design thinking, innovation processes, lateral thinking
-   - *Knowledge Graph Role*: Integrates [[critical-thinking]] with [[Creativity]], [[Problem-Solving]], [[Design]], [[Innovation Studies]]
+   - *Knowledge Graph Role*: Integrates [[critical-thinking]] with [[Creativity]], [[problem-solving]], [[Design]], [[Innovation Studies]]
 
 ---
 

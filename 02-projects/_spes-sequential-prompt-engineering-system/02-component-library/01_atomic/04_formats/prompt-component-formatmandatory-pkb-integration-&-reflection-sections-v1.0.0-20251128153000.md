@@ -153,7 +153,7 @@ Generate a test report to confirm both sections appear with appropriate depth an
 ### ❌ Bad: Superficial Connections
 ```markdown
 > This connects to [[self-determination-theory]].
-> It also relates to [[Motivation]].
+> It also relates to [[motivation]].
 > See also [[Learning]].
 ```
 **Problem:** No explanation of *how* or *why* concepts connect. These are mere wiki-link lists without insight.

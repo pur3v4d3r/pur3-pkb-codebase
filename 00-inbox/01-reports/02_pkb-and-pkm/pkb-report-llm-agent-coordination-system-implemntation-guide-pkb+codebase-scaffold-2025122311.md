@@ -1316,7 +1316,7 @@ Agent uses knowledge graph + semantic similarity
 
 ## Advanced Deep Dives
 
-### 5. **[[Agentic-Prompt-Engineering-Workflows]]** *[Requires SPES completion]*
+### 5. **[[agentic-prompt-engineering-workflows]]** *[Requires SPES completion]*
 **Connection:** Uses SPES framework to enable agents to self-improve prompts  
 **Depth Potential:** Meta-learning system where agents optimize their own initialization  
 **Knowledge Graph Role:** Advanced automation / self-improving systems cluster  

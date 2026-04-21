@@ -78,7 +78,7 @@ These are some of my permanent notes created in the last week to give you approp
 [[Library Science]]
 [[Logical Fallacy]]
 [[Logotherapy]]
-[[Long-Term-Working-Memory]]
+[[long-term-working-memory]]
 [[metacognitive-calibration]]
 [[metacognitive-control]]
 [[Metacognitive Planning]]

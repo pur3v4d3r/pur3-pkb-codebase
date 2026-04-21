@@ -121,7 +121,7 @@ related:
 
 broader:
   - "[[educational-psychology]]"
-  - "[[Motivation]]"
+  - "[[motivation]]"
 
 narrower:
   - "[[mastery-goal-orientation]]"

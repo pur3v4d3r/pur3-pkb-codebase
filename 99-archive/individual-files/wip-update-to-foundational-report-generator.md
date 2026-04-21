@@ -1532,7 +1532,7 @@ The critical departure from standard [[Few-Shot-Prompting]] lies in the <span st
 
 [**Cognitive-Science-Foundation**:: CoT prompting instantiates principles from cognitive psychology, particularly [[Protocol Analysis]] and [[Think-Aloud Protocols]], where verbalizing thought processes enhances problem-solving accuracy by externalizing working memory constraints and enabling metacognitive monitoring.]^established
 
-The relationship to [[Human-Reasoning]] processes proves instructive. Cognitive scientists have long observed that <span style='color: #27FF00;'>explicit verbalization</span> of reasoning steps serves dual functions: <span style='color: #FFC700;'>offloading working memory demands</span> by externalizing intermediate computations, and <span style='color: #72FFF1;'>enabling error detection</span> through conscious inspection of logical steps. CoT prompting achieves analogous effects in transformer architectures, though the mechanisms differ fundamentally from human cognition.
+The relationship to [[human-reasoning]] processes proves instructive. Cognitive scientists have long observed that <span style='color: #27FF00;'>explicit verbalization</span> of reasoning steps serves dual functions: <span style='color: #FFC700;'>offloading working memory demands</span> by externalizing intermediate computations, and <span style='color: #72FFF1;'>enabling error detection</span> through conscious inspection of logical steps. CoT prompting achieves analogous effects in transformer architectures, though the mechanisms differ fundamentally from human cognition.
 
 ## ⚙️ Core Mechanism: Intermediate Token Generation as Computational Resource Allocation
 
@@ -1786,7 +1786,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 > [[Mathematical Problem Solving]] — Primary application domain showing 40-60% accuracy gains  
 > [[scientific-reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
 > [[Code Generation]] — Programming tasks benefit from step-by-step algorithmic decomposition  
-> [[Educational-Technology]] — CoT enables tutoring systems that demonstrate solution processes
+> [[educational-technology]] — CoT enables tutoring systems that demonstrate solution processes
 
 ---
 

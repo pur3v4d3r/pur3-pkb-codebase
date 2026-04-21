@@ -2826,7 +2826,7 @@ Claude Code provides three delegation mechanisms:
 > - [[microservices-architecture|Microservices Architecture]] → Agent isolation mirrors service boundaries
 > - [[Distributed-Systems-Design|Distributed Systems Design]] → State management, error handling, coordination
 > - [[Multi-Agent-AI-Systems|Multi-Agent AI Systems]] → Academic research on agent coordination
-> - [[Software-Engineering-Workflows|Software Engineering Workflows]] → CI/CD, git integration, code review
+> - [[software-engineering-workflows|Software Engineering Workflows]] → CI/CD, git integration, code review
 > - [[Team-Collaboration-Patterns|Team Collaboration Patterns]] → Async communication, role separation
 
 > [!atomic-candidates]

@@ -458,7 +458,7 @@ The conceptual foundation for this transfer analysis derives from the [[transfer
 >
 > **Boundary Condition:** Organisations involve power dynamics, collective action problems, and misaligned incentives that do not arise in individual PKM. The SDT framework's emphasis on autonomy, competence, and relatedness requires institutional support structures to be realised at scale.
 >
-> **See also:** [[Learning-Organisation]], [[Knowledge-Management]], [[Organisational-Learning]]
+> **See also:** [[Learning-Organisation]], [[knowledge-management]], [[Organisational-Learning]]
 
 > [!far-transfer] **Transfer Domain 3: Creative Practice and Artistic Development**
 > **Structural Principle:** Autonomy-motivation alignment as the engine of sustained creative growth.

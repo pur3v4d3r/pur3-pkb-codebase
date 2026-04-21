@@ -125,7 +125,7 @@ prerequisites:
   soft: [[API-Fundamentals]], [[JSON-RPC]], [[AI-Agent-Architecture]]
 enables:
   direct: [[Custom-MCP-Server-Development]], [[ai-pkb-integration]], [[Prompt-Library-Management]]
-  related: [[Claude-Code-Workflows]], [[Gemini-Code-Assist]], [[Obsidian-Automation]]
+  related: [[claude-code-workflows]], [[Gemini-Code-Assist]], [[Obsidian-Automation]]
 related: [[Claude-Code]], [[Gemini-Code-Assist]], [[obsidian]], [[Prompt-Engineering]], [[AI-Agents]]
 ---
 ```
@@ -1063,19 +1063,19 @@ await server.connect(transport);
 
 ### Core Extensions
 
-#### 1. **[[FastMCP-Development-Guide]]**
+#### 1. **[[fastmcp-development-guide]]**
 **Connection:** Deep technical reference for building Python MCP servers using FastMCP framework
 **Depth Potential:** Code patterns, async handling, error management, testing strategies, deployment
 **Knowledge Graph Role:** Technical implementation node under MCP development cluster
 **Priority:** High — Enables custom tool creation for personalized workflows
-**Prerequisites:** [[Python-Fundamentals]], [[Async-Programming]]
+**Prerequisites:** [[python-fundamentals]], [[Async-Programming]]
 
 #### 2. **[[MCP-Security-Hardening]]**
 **Connection:** Comprehensive security implementation guide building on risks identified here
 **Depth Potential:** Container configurations, network policies, monitoring dashboards, incident response
 **Knowledge Graph Role:** Security specialization branch from main MCP reference
 **Priority:** High — Critical for any production MCP deployment
-**Prerequisites:** [[Docker-Fundamentals]], [[Network-Security-Basics]]
+**Prerequisites:** [[docker-fundamentals]], [[Network-Security-Basics]]
 
 ### Cross-Domain Connections
 

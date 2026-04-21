@@ -83,11 +83,11 @@
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
 - **[[Cognitive-Decoupling]]** (2×)
   - *First appears in: ✨ The Emergent Insight: The Governed Attentional Gap*
-- **[[Cognitive-Forcing-Functions-in-Clinical-Reasoning]]** (2×)
+- **[[cognitive-forcing-functions-in-clinical-reasoning]]** (2×)
   - *First appears in: LEARNING PATHWAYS*
 - **[[cognitive-load]]** (2×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
-- **[[Cognitive-Miserliness]]** (2×)
+- **[[cognitive-miserliness]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
 - **[[cognitive-psychology-foundations]]** (2×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
@@ -855,7 +855,7 @@
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
 - **[[emotional-intelligence]]** (4×)
   - *First appears in: RELATIONSHIPS*
-- **[[Gary-Klein]]** (4×)
+- **[[gary-klein]]** (4×)
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - **[[gregory-schraw]]** (4×)
   - *First appears in: Metacognitive Self-Regulation: The Psychological Operationalization*
@@ -873,7 +873,7 @@
   - *First appears in: The Primary Emergent Insight: Inquiry Activation as a Single Mechanism*
 - **[[Lisa-Feldman-Barrett]]** (4×)
   - *First appears in: 2.1 The Theory of Constructed Emotion: Emotions as Predictive Categorizations*
-- **[[Naturalistic-Decision-Making]]** (4×)
+- **[[naturalistic-decision-making]]** (4×)
   - *First appears in: Gap 3: Practical Wisdom (Phronesis) — The Missing Theory of Action*
 - **[[Post-Traumatic Growth]]** (4×)
   - *First appears in: Addition 4: Cognitive Resilience and Antifragility*
@@ -969,11 +969,11 @@
   - *First appears in: ⚙️ Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine*
 - **[[francisco-varela]]** (2×)
   - *First appears in: 🧠 Embodied and Extended Cognition — The Body as Cognitive Scaffold*
-- **[[Gerd-Gigerenzer]]** (2×)
+- **[[gerd-gigerenzer]]** (2×)
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - **[[Gregory-Vlastos]]** (2×)
   - *First appears in: B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish*
-- **[[Heuristics-and-Biases-Program]]** (2×)
+- **[[heuristics-and-biases-program]]** (2×)
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 - **[[hugo-mercier]]** (2×)
   - *First appears in: Phase I 🧭 The Premise: The Individual Thinker's Social Blind Spot*
@@ -1235,9 +1235,9 @@
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Implementation Intentions and Bias Correction]]
   - *First appears in: 🗺️ Expansion Topics for PKB Development*
-- [[Implementation Intentions and Habit Formation]]
+- [[Implementation-Intentions-and-Habit-Formation]]
   - *First appears in: LEARNING PATHWAYS*
-- [[implicit-theories-of-intelligence]]
+- [[Implicit-Theories-of-Intelligence]]
   - *First appears in: RELATIONSHIPS*
 - [[Impression-Management]]
   - *First appears in: 📜 The Stoic Discovery: Prosoche as Practiced Attention*
@@ -1323,7 +1323,7 @@
   - *First appears in: PKB Expansion Topics*
 - [[Nassim Taleb's Antifragility]]
   - *First appears in: Addition 4: Cognitive Resilience and Antifragility*
-- [[Naturalistic-Decision-Making|naturalistic decision making]]
+- [[naturalistic-decision-making|naturalistic decision making]]
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - [[Nel-Noddings]]
   - *First appears in: PKB Expansion Topics*
@@ -1367,7 +1367,7 @@
   - *First appears in: RELATIONSHIPS*
 - [[personal-knowledge-management-systems]]
   - *First appears in: LEARNING PATHWAYS*
-- [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]]
+- [[personal-knowledge-management-systems-and-spaced-repetition]]
   - *First appears in: Expansion Topics for PKB Development*
 - [[Personal Mythology]]
   - *First appears in: RELATIONSHIPS*
@@ -1679,10 +1679,10 @@
 - [[Cognitive-Decoupling]] — 2×
 - [[Cognitive-Decoupling|cognitive decoupling]]
 - [[cognitive-forcing-functions]]
-- [[Cognitive-Forcing-Functions-in-Clinical-Reasoning]] — 2×
+- [[cognitive-forcing-functions-in-clinical-reasoning]] — 2×
 - [[cognitive-load]] — 2×
 - [[cognitive-load-theory]] — 13×
-- [[Cognitive-Miserliness]] — 2×
+- [[cognitive-miserliness]] — 2×
 - [[Cognitive Mode of Being]]
 - [[cognitive-neuroscience]] — 3×
 - [[cognitive-psychology]]
@@ -1847,12 +1847,12 @@
 
 - [[Gail-Ross]]
 - [[Galen]]
-- [[Gary-Klein]] — 4×
+- [[gary-klein]] — 4×
 - [[Gary Klein's Recognition-Primed Decision Model]]
 - [[Generative-Model]]
 - [[genetic-epistemology]]
 - [[Gerald-Clore]]
-- [[Gerd-Gigerenzer]] — 2×
+- [[gerd-gigerenzer]] — 2×
 - [[Gerd Gigerenzer's Ecological Rationality]]
 - [[Ghassani-Swaryandini]]
 - [[Governed Attentional Gap]]
@@ -1871,7 +1871,7 @@
 - [[Herbert-Simon]]
 - [[Hermeneutical Humility]] — 4×
 - [[Hermeneutical-Injustice]]
-- [[Heuristics-and-Biases-Program]] — 2×
+- [[heuristics-and-biases-program]] — 2×
 - [[hilary-putnam]]
 - [[hippocampus]]
 - [[Homeostasis]]
@@ -1891,8 +1891,8 @@
 - [[Ikigai and Cross-Cultural Meaning Frameworks]] — 2×
 - [[illusion-of-explanatory-depth]] — 2×
 - [[Implementation Intentions and Bias Correction]]
-- [[Implementation Intentions and Habit Formation]]
-- [[implicit-theories-of-intelligence]]
+- [[Implementation-Intentions-and-Habit-Formation]]
+- [[Implicit-Theories-of-Intelligence]]
 - [[Impression-Management]]
 - [[inquiry-based-learning]]
 - [[Inquiry-Based Learning Design]]
@@ -2022,8 +2022,8 @@
 - [[Narrative Thought]]
 - [[Nassim-Taleb]]
 - [[Nassim Taleb's Antifragility]]
-- [[Naturalistic-Decision-Making]] — 4×
-- [[Naturalistic-Decision-Making|naturalistic decision making]]
+- [[naturalistic-decision-making]] — 4×
+- [[naturalistic-decision-making|naturalistic decision making]]
 - [[Nature-Human-Behaviour]] — 2×
 - [[Nel-Noddings]]
 - [[Neural Substrates of Integrated Wisdom — Neuroscience of Phronesis]] — 2×
@@ -2062,7 +2062,7 @@
 - [[Pellegrino]]
 - [[personal-knowledge-management]]
 - [[personal-knowledge-management-systems]]
-- [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]]
+- [[personal-knowledge-management-systems-and-spaced-repetition]]
 - [[Personal Mythology]]
 - [[perspective-taking-failures]]
 - [[Peter-Sterling]]
@@ -2645,13 +2645,13 @@
 
 | [[cognitive-forcing-functions]] | 1 | RELATIONSHIPS |
 
-| [[Cognitive-Forcing-Functions-in-Clinical-Reasoning]] | 2 | LEARNING PATHWAYS |
+| [[cognitive-forcing-functions-in-clinical-reasoning]] | 2 | LEARNING PATHWAYS |
 
 | [[cognitive-load]] | 2 | Gap 5: Predictive Processing and Active Inference |
 
 | [[cognitive-load-theory]] | 13 | Gap 1: Embodied Cognition and the Absent Body |
 
-| [[Cognitive-Miserliness]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
+| [[cognitive-miserliness]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
 | [[Cognitive Mode of Being]] | 1 | RELATIONSHIPS |
 
@@ -2957,7 +2957,7 @@
 
 | [[Galen]] | 1 | 2.3 The Stoic Theory of Passions: Pathē, Eupath... |
 
-| [[Gary-Klein]] | 4 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[gary-klein]] | 4 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
 | [[Gary Klein's Recognition-Primed Decision Model]] | 1 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
@@ -2967,7 +2967,7 @@
 
 | [[Gerald-Clore]] | 1 | 1.2 The Third Function: Emotion as Epistemic Si... |
 
-| [[Gerd-Gigerenzer]] | 2 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[gerd-gigerenzer]] | 2 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
 | [[Gerd Gigerenzer's Ecological Rationality]] | 1 | Addition 1: Ecological Rationality (Gigerenzer) |
 
@@ -2999,7 +2999,7 @@
 
 | [[Hermeneutical-Injustice]] | 1 | Worked Example: The Advisory Committee |
 
-| [[Heuristics-and-Biases-Program]] | 2 | 📋 Phase I — The Premise: What Cognitive Failure... |
+| [[heuristics-and-biases-program]] | 2 | 📋 Phase I — The Premise: What Cognitive Failure... |
 
 | [[hilary-putnam]] | 1 | The Central Conceptual Tension: Mechanism Versu... |
 
@@ -3033,9 +3033,9 @@
 
 | [[Implementation Intentions and Bias Correction]] | 1 | 🗺️ Expansion Topics for PKB Development |
 
-| [[Implementation Intentions and Habit Formation]] | 1 | LEARNING PATHWAYS |
+| [[Implementation-Intentions-and-Habit-Formation]] | 1 | LEARNING PATHWAYS |
 
-| [[implicit-theories-of-intelligence]] | 1 | RELATIONSHIPS |
+| [[Implicit-Theories-of-Intelligence]] | 1 | RELATIONSHIPS |
 
 | [[Impression-Management]] | 1 | 📜 The Stoic Discovery: Prosoche as Practiced At... |
 
@@ -3265,9 +3265,9 @@
 
 | [[Nassim Taleb's Antifragility]] | 1 | Addition 4: Cognitive Resilience and Antifragility |
 
-| [[Naturalistic-Decision-Making]] | 4 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
+| [[naturalistic-decision-making]] | 4 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
-| [[Naturalistic-Decision-Making|naturalistic decision making]] | 1 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[naturalistic-decision-making|naturalistic decision making]] | 1 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
 | [[Nature-Human-Behaviour]] | 2 | 🎯 Phase I: The Premise — The Regulatory Problem |
 
@@ -3333,7 +3333,7 @@
 
 | [[personal-knowledge-management-systems]] | 1 | LEARNING PATHWAYS |
 
-| [[Personal-Knowledge-Management-Systems-and-Spaced-Repetition]] | 1 | Expansion Topics for PKB Development |
+| [[personal-knowledge-management-systems-and-spaced-repetition]] | 1 | Expansion Topics for PKB Development |
 
 | [[Personal Mythology]] | 1 | RELATIONSHIPS |
 
@@ -3859,7 +3859,7 @@
 - [[eudaimonia]] (10× total)
 - [[fallibilism]] (14× total)
 - [[frederic-bartlett]] (3× total)
-- [[Gary-Klein]] (4× total)
+- [[gary-klein]] (4× total)
 - [[gregory-schraw]] (4× total)
 - [[Gregory-Vlastos]] (2× total)
 - [[How-We-Think]]
@@ -3881,7 +3881,7 @@
 - [[Elena]]
 - [[emotional-granularity]] (11× total)
 - [[fallibilism]] (14× total)
-- [[Gary-Klein]] (4× total)
+- [[gary-klein]] (4× total)
 - [[Intellectual-Courage]] (9× total)
 - [[intellectual-humility]] (12× total)
 - [[Marcus]]
@@ -4093,7 +4093,7 @@
 
 | [[Physiological-Metacognition]] | Phase IV, Phase VI, Report 04 | 5 |
 
-| [[Gary-Klein]] | Phase IV, Phase II, Report 04 | 4 |
+| [[gary-klein]] | Phase IV, Phase II, Report 04 | 4 |
 
 
 *...and 58 more multi-report concepts*

@@ -108,7 +108,7 @@ broader:
   - "[[educational-psychology|Educational Psychology]]"
 narrower:
   - "[[learning-contracts|Learning Contracts]]"
-  - "[[Personal-Learning-Environments|Personal Learning Environments]]"
+  - "[[personal-learning-environments|Personal Learning Environments]]"
   - "[[self-directed-learning-readiness-scale|Self-Directed Learning Readiness Scale]]"
   - "[[heutagogy]]"
 see-also:
@@ -132,7 +132,7 @@ builds-on:
 enables:
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[heutagogy]]"
-  - "[[Personal-Learning-Environments|Personal Learning Environments]]"
+  - "[[personal-learning-environments|Personal Learning Environments]]"
   - "[[Inquiry-Based Learning Design & Evidence]]"
 expansion-topics:
   - topic: "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
@@ -141,7 +141,7 @@ expansion-topics:
   - topic: "[[heutagogy]]"
     description: The theoretical extension of SDL toward full learner self-determination of competencies and learning pathways, with applications in capability development and digital learning environments
     priority: high
-  - topic: "[[Personal-Learning-Environments|Personal Learning Environments]]"
+  - topic: "[[personal-learning-environments|Personal Learning Environments]]"
     description: The technological and organisational architectures through which SDL is enacted in digital contexts; connects SDL theory to contemporary learning technology design
     priority: high
   - topic: "[[andragogy]]"
@@ -322,7 +322,7 @@ Understanding SDL at the level of observable behaviour and theoretical construct
 
 **Self-management mechanisms** involve the learner's organised control of the external environment in service of learning. This includes time management (allocating sufficient, sustained time for learning activity without falling into either procrastination or sporadic bursts), resource identification and evaluation (locating and selecting among available learning resources based on quality, relevance, and accessibility), and task management (structuring the learning activity itself in a way that promotes progressive skill or knowledge development rather than aimless exploration). Research on learning projects suggests that naturally occurring SDL often lacks systematic planning — learners pursue resources opportunistically, revise their goals frequently, and measure success against practical performance outcomes rather than pre-specified learning objectives. This natural SDL process is effective precisely because it is tightly coupled to immediate application; the learner knows whether the learning has worked because they can or cannot do the thing they were trying to do. In formal educational settings, where the coupling between learning and application is often looser, more systematic self-management planning may be necessary to prevent learning from becoming unfocused.
 
-**Environmental and social mechanisms** are often underemphasised in a literature that tends toward individualism. SDL does not occur in a vacuum. Learners are embedded in social networks, organisational contexts, and cultural environments that shape what learning is available, valued, and supported. [[Personal-Learning-Environments|Personal Learning Environments]] — the collection of resources, tools, social connections, and practices through which an individual organises their learning — vary dramatically by social position, with those who have access to professional communities, libraries, mentoring relationships, and high-quality digital resources having structurally different SDL opportunities than those who do not. Moreover, learning is frequently social even when self-directed: the learner who teaches herself statistics is likely to be drawing on conversations with colleagues, seeking feedback from more knowledgeable others, and participating in communities of practice even if these social elements are not foregrounded in her self-account of the learning process. A theoretically adequate account of SDL needs to hold the individual learner and their social environment in view simultaneously.
+**Environmental and social mechanisms** are often underemphasised in a literature that tends toward individualism. SDL does not occur in a vacuum. Learners are embedded in social networks, organisational contexts, and cultural environments that shape what learning is available, valued, and supported. [[personal-learning-environments|Personal Learning Environments]] — the collection of resources, tools, social connections, and practices through which an individual organises their learning — vary dramatically by social position, with those who have access to professional communities, libraries, mentoring relationships, and high-quality digital resources having structurally different SDL opportunities than those who do not. Moreover, learning is frequently social even when self-directed: the learner who teaches herself statistics is likely to be drawing on conversations with colleagues, seeking feedback from more knowledgeable others, and participating in communities of practice even if these social elements are not foregrounded in her self-account of the learning process. A theoretically adequate account of SDL needs to hold the individual learner and their social environment in view simultaneously.
 
 > [!example] **Learning Projects as a Window into Natural SDL**
 > Tough's original research on adult [[learning-projects|Learning Projects]] used a rigorous interview methodology that is worth understanding. Respondents were asked to describe any sustained, deliberate effort they had undertaken in the past year to gain knowledge or skill. To qualify as a learning project, the episode had to involve at least seven hours of deliberate effort. Respondents consistently underestimated their own learning until the interview process systematically probed for projects they had not initially thought of as "learning" — because they had occurred informally, outside educational institutions. Typical projects included learning to manage a health condition, mastering a new software tool, preparing to make a significant financial decision, and developing a hobby skill. What Tough found was not merely that adults learned outside institutions, but that this learning was *more* intentional, purposeful, and self-monitored than they themselves initially recognised — because their implicit model of learning was institutional.
@@ -500,7 +500,7 @@ The connections to the [[Metacognition-&-Motivation|Metacognition & Motivation]]
 > > [!topic-idea] [[heutagogy]]
 > > A dedicated report on heutagogy would provide deeper theoretical treatment of self-determined learning beyond the sketch offered in this SDL report. Key areas would include: the capability development framework on which heutagogy draws; the double-loop learning mechanism and its relationship to transformative learning theory; empirical studies of heutagogy in higher education and professional development; and the design principles for technology-enhanced heutagogical environments. The report would also engage the critique that heutagogy is an ideological extension of neoliberal self-actualisation discourse rather than a genuine theoretical advance. **Priority: High**
 >
-> > [!topic-idea] [[Personal-Learning-Environments|Personal Learning Environments]]
+> > [!topic-idea] [[personal-learning-environments|Personal Learning Environments]]
 > > This report would address the technological and organisational architectures through which SDL is enacted in digital learning contexts. Coverage would include the concept of the PLE as a distributed network of tools, resources, and social connections; the relationship between PLE design and SDL readiness development; the affordances and constraints of different PLE configurations; and the design implications for institutions that want to support rather than supplant learners' own learning ecologies. Directly relevant to online learning design and to any instructional context where learners access resources outside institutional boundaries. **Priority: High**
 >
 > > [!topic-idea] [[andragogy]]

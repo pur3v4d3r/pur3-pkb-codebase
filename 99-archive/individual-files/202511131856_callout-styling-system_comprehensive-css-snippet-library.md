@@ -1919,12 +1919,12 @@ Within a single snippet, you can give specific callout types unique treatment:
 3. **[[CSS Animation Performance Optimization]]**
    - *Connection*: Understanding GPU acceleration and reflow triggers improves snippet performance
    - *Depth Potential*: Explore [[Compositor Layers]], [[Paint Operations]], and [[Browser Rendering Pipeline]]
-   - *Knowledge Graph Role*: Critical for [[Performance Engineering]] and [[User Experience Design]]
+   - *Knowledge Graph Role*: Critical for [[Performance Engineering]] and [[user-experience-design]]
 
 4. **[[Visual Hierarchy in Information Design]]**
    - *Connection*: Callout styling decisions should support cognitive processing and information architecture
    - *Depth Potential*: Study [[Gestalt Principles]], [[Typographic Hierarchy]], and [[Attention Management]]
-   - *Knowledge Graph Role*: Core concept linking [[Design Theory]] and [[Knowledge-Management]]
+   - *Knowledge Graph Role*: Core concept linking [[Design Theory]] and [[knowledge-management]]
 
 ---
 

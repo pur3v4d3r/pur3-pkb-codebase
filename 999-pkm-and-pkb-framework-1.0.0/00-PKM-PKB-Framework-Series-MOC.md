@@ -105,7 +105,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[05-motivation-architecture-pkm-framework-2026-03-13|Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
 
-**Synthesis Focus:** How do [[self-determination-theory]], [[achievement-goal-theory]], and [[Mindset Theory]] explain sustained PKB engagement?
+**Synthesis Focus:** How do [[self-determination-theory]], [[achievement-goal-theory]], and [[Mindset-Theory]] explain sustained PKB engagement?
 **Disciplines:** Educational Psychology, Psychology of Learning, Stoic Philosophy, Learning Experience Design
 **Original Contribution:** **[[fourfold-motivational-architecture]]** — SDT + AGT + Stoic philosophy + LXD integration for PKB motivation design
 **Builds On:** Reports 03, 04 | **Feeds Into:** Reports 08, 10, 13, 19

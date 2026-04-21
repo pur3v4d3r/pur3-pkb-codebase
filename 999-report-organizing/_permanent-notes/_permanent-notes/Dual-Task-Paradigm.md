@@ -1,47 +1,75 @@
 ---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
 title: "Dual-Task-Paradigm"
-aliases: []
+aliases:
+  - "Dual-Task-Paradigm"
 type: permanent-note
-status: evergreen
-confidence: high
-domain: cognitive-psychology
-subdomains: [memory-systems, working-memory, cognitive-architecture, learning-science]
-tags: [permanent-note, cognitive-psychology, memory-systems, working-memory, cognitive-architecture, learning-science]
-created: '2026-04-21'
-updated: '2026-04-21'
-complexity: intermediate
-importance: medium
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - other
+
+domain: other
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-21
+updated: 2026-04-21
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 9
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
+  - "[[automaticity-gradient]]"
+  - "[[baddeleys-multi-component-model]]"
+  - "[[dual-task-interference]]"
+  - "[[multiple-resource-theory]]"
+  - "[[original-synthesis-the-reframing]]"
+  - "[[transient-hypofrontality-hypothesis]]"
+  - "[[walking-reading-dual-task]]"
+  - "[[yerkes-dodson-law]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-provenance:
-  source-type: report-extraction
-  pipeline-version: "3.0.0"
-  source-reports: [baddeley-working-memory-model-foundational-report-2026-03-31_report]
-  extraction-method: pkb-extractor-v1 → pipeline-v3
+importance: low
 ---
 
 # Dual-Task-Paradigm
 
-> [!definition] Dual-Task-Paradigm
-> The experimental method of concurrently loading short-term storage while requiring complex cognitive processing, used by Baddeley & Hitch (1974) to demonstrate that storage and processing draw on separable cognitive resources — the founding empirical strategy of working memory research.
+> [!definition] **Dual-Task-Paradigm**
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-## Core Explanation
+*Auto-generated stub — referenced by 9 permanent notes.*
 
-> [!evidence] Dual-Task-Paradigm
-> The experimental method of concurrently loading short-term storage while requiring complex cognitive processing, used by Baddeley & Hitch (1974) to demonstrate that storage and processing draw on separable cognitive resources — the founding empirical strategy of working memory research.
-> *— [[baddeley-working-memory-model-foundational-report-2026-03-31_report]]*
+## Referenced By
 
-## Connections
-
-**Related:** [[long-term-memory]] · [[atkinson-shiffrin-multi-store-model]] · [[working-memory]] · [[central-executive]] · [[phonological-loop]] · [[visuospatial-sketchpad]] · [[episodic-buffer]] · [[long-term-memory]] · [[expertise]] · [[long-term-memory]] · [[cognitive-load-theory]] · [[automaticity]] · [[cognitive-load-theory]] · [[cognitive-load-theory]] · [[expertise]] · [[automaticity]] · [[long-term-memory]] · [[articulatory-construction-principle]] · [[atkinson-shiffrin-multi-store-model]] · [[attention-and-cognitive-control]] · [[automaticity]] · [[Baddeley's-Working-Memory-Model]] · [[central-executive]] · [[chunking]] · [[cognitive-load-theory]] · [[dual-coding-theory]] · [[episodic-buffer]] · [[executive-function]] · [[expertise]] · [[expertise-reversal-effect]] · [[extraneous-cognitive-load]] · [[george-miller]] · [[germane-cognitive-load]] · [[intrinsic-cognitive-load]] · [[Learning-Science]] · [[levels-of-processing-theory]] · [[long-term-memory]] · [[mental-model]] · [[Miller's-Magical-Number-Seven]] · [[phonological-loop]] · [[schema-theory-and-learning]] · [[visuospatial-sketchpad]] · [[working-memory]] · [[working-memory-capacity]] · [[working-memory-in-reading]] · [[cognitive-load-theory]] · [[Learning-Science]] · [[executive-function]] · [[Baddeley's-Working-Memory-Model]] · [[atkinson-shiffrin-multi-store-model]] · [[long-term-memory]] · [[atkinson-shiffrin-multi-store-model]] · [[george-miller]] · [[Miller's-Magical-Number-Seven]] · [[chunking]] · [[long-term-memory]] · [[long-term-memory]] · [[central-executive]] · [[episodic-buffer]] · [[long-term-memory]] · [[working-memory]] · [[central-executive]] · [[central-executive]] · [[executive-function]] · [[attention-and-cognitive-control]] · [[phonological-loop]] · [[phonological-loop]] · [[articulatory-construction-principle]] · [[working-memory-in-reading]] · [[visuospatial-sketchpad]] · [[visuospatial-sketchpad]] · [[dual-coding-theory]] · [[episodic-buffer]] · [[episodic-buffer]] · [[long-term-memory]] · [[episodic-buffer]] · [[working-memory]] · [[working-memory-capacity]] · [[long-term-memory]] · [[schema-theory-and-learning]] · [[cognitive-load-theory]] · [[long-term-memory]] · [[expertise]] · [[long-term-memory]] · [[cognitive-load-theory]] · [[automaticity]] · [[long-term-memory]] · [[cognitive-load-theory]] · [[expertise-reversal-effect]] · [[cognitive-load-theory]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]] · [[long-term-memory]] · [[cognitive-load-theory]] · [[long-term-memory]] · [[working-memory-in-reading]] · [[mental-model]] · [[dual-coding-theory]] · [[cognitive-load-theory]] · [[expertise]] · [[automaticity]] · [[long-term-memory]] · [[long-term-memory]] · [[chunking]] · [[cognitive-load-theory]] · [[cognitive-load-theory]] · [[attention-and-cognitive-control]] · [[working-memory-capacity]] · [[levels-of-processing-theory]] · [[articulatory-construction-principle]] · [[atkinson-shiffrin-multi-store-model]] · [[attention-and-cognitive-control]] · [[automaticity]] · [[Baddeley's-Working-Memory-Model]] · [[central-executive]] · [[chunking]] · [[cognitive-load-theory]] · [[dual-coding-theory]] · [[episodic-buffer]] · [[executive-function]] · [[expertise]] · [[expertise-reversal-effect]] · [[extraneous-cognitive-load]] · [[george-miller]] · [[germane-cognitive-load]] · [[intrinsic-cognitive-load]] · [[Learning-Science]] · [[levels-of-processing-theory]] · [[long-term-memory]] · [[mental-model]] · [[Miller's-Magical-Number-Seven]] · [[phonological-loop]] · [[schema-theory-and-learning]] · [[visuospatial-sketchpad]] · [[working-memory]] · [[working-memory-capacity]] · [[working-memory-in-reading]] · [[attention-and-selective-processing]] · [[atkinson-shiffrin-multi-store-model]] · [[cognitive-load-theory]] · [[schema-theory-and-learning]] · [[retrieval-practice]] · [[levels-of-processing-theory]] · [[metacognition-in-learning]] · [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]] · [[long-term-memory]] · [[Memory-Systems-and-Encoding]] · [[phonological-loop]] · [[visuospatial-sketchpad]] · [[central-executive]] · [[episodic-buffer]] · [[working-memory-capacity]] · [[working-memory-in-reading]] · [[Working-Memory-—-Baddeley-Model]] · [[Working-Memory.md]] · [[automaticity]] · [[chunking]] · [[dual-coding-theory]] · [[executive-function]] · [[elaborative-rehearsal]] · [[cognitive-load-theory]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]]
-
-```dataview
-LIST FROM [[Dual-Task-Paradigm]]
-WHERE file.path != this.file.path
-SORT file.mtime DESC
-LIMIT 10
-```
-
----
-
-**Sources:** [[baddeley-working-memory-model-foundational-report-2026-03-31_report]]
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
+- [[automaticity-gradient]]
+- [[baddeleys-multi-component-model]]
+- [[dual-task-interference]]
+- [[multiple-resource-theory]]
+- [[original-synthesis-the-reframing]]
+- [[transient-hypofrontality-hypothesis]]
+- [[walking-reading-dual-task]]
+- [[yerkes-dodson-law]]

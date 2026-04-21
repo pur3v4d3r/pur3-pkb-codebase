@@ -105,7 +105,7 @@ related:
   - "[[attribution-theory|Attribution Theory]]"
   - "[[goal-setting-theory|Goal-Setting Theory]]"
 broader:
-  - "[[Motivation Theory]]"
+  - "[[motivation-theory]]"
   - "[[educational-psychology|Educational Psychology]]"
 narrower:
   - "[[Reward Contingency Research]]"

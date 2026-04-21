@@ -582,7 +582,7 @@ The transferable principles from the metacognition-PKM relationship can be state
 >
 > **Boundary Condition:** Software engineering has more objective quality metrics (tests pass or fail, code compiles or doesn't), while knowledge assessment is more subjective. The transfer principle applies to the structure of the quality assurance process, not to the precision of measurement.
 >
-> **See also:** [[Software-Engineering-Principles]], [[Code-Review]], [[Continuous-Integration-Continuous-Deployment]]
+> **See also:** [[software-engineering-principles]], [[code-review]], [[Continuous-Integration-Continuous-Deployment]]
 
 > [!far-transfer] **Healthcare: Clinical Reasoning as Metacognitive Regulation**
 > **Structural Principle:** Diagnostic reasoning in medicine is a metacognitively regulated process vulnerable to the same calibration failures identified in learning contexts.
@@ -600,7 +600,7 @@ The transferable principles from the metacognition-PKM relationship can be state
 >
 > **Boundary Condition:** Organisational metacognition involves multiple agents, creating coordination challenges (conflicting monitoring signals, regulatory disagreements) that individual metacognition does not face.
 >
-> **See also:** [[Organizational-Learning]], [[Knowledge-Management]], [[Learning-Organization]]
+> **See also:** [[Organizational-Learning]], [[knowledge-management]], [[Learning-Organization]]
 
 > [!far-transfer] **Athletic Performance: Deliberate Practice as Metacognitive Regulation**
 > **Structural Principle:** The monitoring-regulation cycle in athletic skill development is structurally parallel to the metacognitive cycle in knowledge work.

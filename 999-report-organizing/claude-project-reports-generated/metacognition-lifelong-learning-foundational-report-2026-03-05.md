@@ -130,7 +130,7 @@ contrasts-with:
   - "[[fixed-mindset|Fixed Mindset]]"
 applied-in:
   - "[[Professional Development]]"
-  - "[[Medical Education]]"
+  - "[[medical-education]]"
   - "[[K-12 Education]]"
   - "[[Workplace Learning]]"
   - "[[personal-knowledge-management|Personal Knowledge Management]]"
@@ -379,7 +379,7 @@ The question of how to develop metacognitive competence has attracted substantia
 
 Lifelong learning in professional contexts involves metacognitive challenges distinct from those of formal education. The professional learner typically lacks external structure (no syllabus, no scheduled tests, no explicit instruction), operates under time pressure that militates against deliberate reflection, and must self-diagnose knowledge and skill gaps without the scaffolding that formal educational assessment provides.
 
-In [[medical education]], metacognition has received substantial research attention because calibration failures have life-or-death consequences. Studies of [[Clinical-Reasoning|clinical reasoning]] show that physicians who overestimate their diagnostic accuracy — who lack the metacognitive humility to remain uncertain when uncertainty is warranted — commit more diagnostic errors, particularly in complex cases that resist rapid pattern recognition. Institutions have increasingly incorporated explicit metacognitive training into medical curricula and continuing education, teaching physicians to flag their own cognitive biases and to deliberately slow down their reasoning when encountering unfamiliar patterns.
+In [[medical-education]], metacognition has received substantial research attention because calibration failures have life-or-death consequences. Studies of [[Clinical-Reasoning|clinical reasoning]] show that physicians who overestimate their diagnostic accuracy — who lack the metacognitive humility to remain uncertain when uncertainty is warranted — commit more diagnostic errors, particularly in complex cases that resist rapid pattern recognition. Institutions have increasingly incorporated explicit metacognitive training into medical curricula and continuing education, teaching physicians to flag their own cognitive biases and to deliberately slow down their reasoning when encountering unfamiliar patterns.
 
 In knowledge work and professional development more broadly, [[deliberate-practice|deliberate practice]] — [[anders-ericsson|Anders Ericsson]]'s term for the structured, effortful, feedback-rich practice that produces expert skill — is essentially a metacognitive practice. Deliberate practice requires identifying specific weaknesses (monitoring), selecting practice tasks that target those weaknesses (control), performing the practice with full cognitive engagement, evaluating the results against a clear standard, and adjusting based on feedback. The metacognitive sophistication of this cycle is precisely what distinguishes deliberate practice from mere experience: ten thousand hours of unreflective practice produces automaticity, not expertise.
 

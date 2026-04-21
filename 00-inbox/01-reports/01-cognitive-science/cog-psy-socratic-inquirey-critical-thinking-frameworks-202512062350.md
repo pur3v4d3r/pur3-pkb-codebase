@@ -385,7 +385,7 @@ This hypothesis suggests that studying Paul-Elder, Facione, Bloom, and ACER isn'
 
 Each framework offers a different "lens" on the reasoning landscape. The sophisticated critical thinker isn't one who mechanically applies all four but one who recognizes that critical thinking involves **multiple dimensions**—logical structure, evidential quality, conceptual clarity, dispositional virtues, cognitive complexity—and who can flexibly attend to whichever dimension a particular reasoning task requires.
 
-This meta-framework perspective aligns with contemporary emphasis on [[Adaptive Expertise]]—the capacity to flexibly modify approaches based on task demands rather than rigidly applying a single method. Research on adaptive expertise (Hatano & Inagaki, 1986) distinguishes it from routine expertise: routine experts efficiently apply well-learned procedures, while adaptive experts innovatively modify approaches when standard procedures prove inadequate.
+This meta-framework perspective aligns with contemporary emphasis on [[adaptive-expertise]]—the capacity to flexibly modify approaches based on task demands rather than rigidly applying a single method. Research on adaptive expertise (Hatano & Inagaki, 1986) distinguishes it from routine expertise: routine experts efficiently apply well-learned procedures, while adaptive experts innovatively modify approaches when standard procedures prove inadequate.
 
 ---
 

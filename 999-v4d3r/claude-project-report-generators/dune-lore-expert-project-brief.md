@@ -132,7 +132,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Common Misconception:** System 2 is not "better" than System 1. System 1 handles the vast majority of cognition efficiently and accurately. The problem is not that System 1 exists, but that it is sometimes deployed in contexts where it produces systematic errors — and that System 2 activation is not automatic in those contexts.
 >
-> **See also:** [[Dual-Process-Thinking-Model]], [[Cognitive-Miserliness]], [[actively-open-minded-thinking]]
+> **See also:** [[Dual-Process-Thinking-Model]], [[cognitive-miserliness]], [[actively-open-minded-thinking]]
 
 > [!definition] **Conflict Monitoring (De Neys)**
 > The cognitive mechanism by which inconsistencies between System 1 outputs and more deliberate reasoning are detected, generating a signal that can (but does not always) activate System 2 correction. The neural substrate of what Dewey called felt difficulty and what Socrates produced through elenchus.

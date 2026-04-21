@@ -315,7 +315,7 @@ The parallel mechanisms are striking:
 | Separating judgments from events | [[cognitive-restructuring]] | Identifying [[Automatic Thoughts]] |
 | Examining [[Assent]] to impressions | [[Cognitive Disputation]] | Challenging [[Cognitive Distortions]] |
 | Evening review | [[Thought Records]] | Documenting triggers and responses |
-| [[Dichotomy-of-Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
+| [[Dichotomy-of-Control]] | Focus on [[Sphere of Influence]] | Reducing [[rumination]] on uncontrollables |
 | [[Premeditatio-Malorum]] | [[exposure-therapy]] | Systematic desensitization |
 | [[Virtue]] cultivation | [[Values-Clarification]] | Aligning behavior with principles |
 

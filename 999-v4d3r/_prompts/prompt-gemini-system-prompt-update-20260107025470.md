@@ -298,7 +298,7 @@ The distinction between germane and intrinsic load has proven conceptually murky
 
 **Contemporary Applications**
 
-Modern applications extend beyond traditional instruction to [[multimedia-learning]] ([[Mayer Cognitive Theory of Multimedia Learning]]), [[User Interface Design]], [[Medical Education]] (managing clinical reasoning complexity), and [[Programming Education]] (code example structuring).
+Modern applications extend beyond traditional instruction to [[multimedia-learning]] ([[Mayer Cognitive Theory of Multimedia Learning]]), [[User Interface Design]], [[medical-education]] (managing clinical reasoning complexity), and [[Programming Education]] (code example structuring).
 
 [Full example would continue with advanced topics, cross-domain connections, and 4-6 expansion topics...]
 

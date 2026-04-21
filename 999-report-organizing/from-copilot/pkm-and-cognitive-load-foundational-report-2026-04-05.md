@@ -539,7 +539,7 @@ A PKM design principle emerges directly: the structure of a knowledge base withi
 >
 > **Epistemic Status:** Well-motivated synthesis — directly derived from CLT's sequencing principle and element interactivity framework, applied to PKM. The specific three-tier architecture is original to this report.
 >
-> **See also:** [[element-interactivity]], [[intrinsic-cognitive-load]], [[zettelkasten]], [[Evergreen-Notes]], [[Four-Component-Instructional-Design]]
+> **See also:** [[element-interactivity]], [[intrinsic-cognitive-load]], [[zettelkasten]], [[Evergreen-Notes]], [[four-component-instructional-design]]
 
 ### 6.3 Schema Chunking and the Expert Experience of PKM
 
@@ -663,7 +663,7 @@ The expertise-reversal insight generates a developmental model of PKM design: th
 >
 > **Epistemic Status:** Well-motivated synthesis based on the expertise-reversal effect (Kalyuga, 2007) applied to PKM practice. The three-stage developmental model is original to this report and speculative at the edges; the core principle of developmental adaptation is well-supported by the underlying CLT research.
 >
-> **See also:** [[expertise-reversal-effect]], [[self-regulated-learning]], [[metacognition]], [[Knowledge-Management]]
+> **See also:** [[expertise-reversal-effect]], [[self-regulated-learning]], [[metacognition]], [[knowledge-management]]
 
 ### 8.3 Navigating the Transition Zones
 
@@ -702,7 +702,7 @@ The [[zettelkasten]] method as practised by Luhmann and interpreted by Sönke Ah
 > [!far-transfer] Far Transfer: Zettelkasten Principles in Non-PKM Domains
 > The core insight of Zettelkasten — that schema-building quality comes from elaboration and connection, not accumulation — applies directly to any domain involving the development of complex knowledge structures over time. Scientific research notebooks, code documentation practices, and project post-mortem logs all exhibit the same cognitive load trade-off: high-elaboration approaches produce better long-term knowledge utility at the cost of higher upfront cognitive investment. The Zettelkasten's atomicity principle applies to code documentation (each function documented independently, not in a running narrative), to research notes (each finding with its own interpretation, not cumulative summaries), and to project knowledge bases (each decision with its own rationale, not embedded in meeting notes). Structural isomorphism to the PKM context is high; boundary condition is applicability of the linking-at-capture norm in time-pressured professional contexts.
 >
-> **See also:** [[transfer-of-learning]], [[zettelkasten]], [[note-making-vs.-note-taking]], [[Knowledge-Management]]
+> **See also:** [[transfer-of-learning]], [[zettelkasten]], [[note-making-vs.-note-taking]], [[knowledge-management]]
 
 ### 9.2 PARA — Extraneous Load Reduction Through Action Orientation
 
@@ -833,7 +833,7 @@ Halpern (1998), Perkins and Salomon (1988), and Barnett and Ceci (2002) identify
 >
 > **Boundary Condition:** The expertise-reversal effect applies here with particular force: instructional scaffolding appropriate for first-year students (worked examples, detailed rubrics, step-by-step procedures) may actively harm the learning of senior students who need to develop independent judgment. Adaptive instruction design that varies scaffolding by student expertise level is the theoretically optimal but practically demanding solution.
 >
-> **See also:** [[transfer-of-learning]], [[cognitive-load-theory]], [[Four-Component-Instructional-Design]], [[desirable-difficulties]]
+> **See also:** [[transfer-of-learning]], [[cognitive-load-theory]], [[four-component-instructional-design]], [[desirable-difficulties]]
 
 > [!far-transfer] Transfer Domain 2: Organisational Knowledge Management
 >
@@ -843,7 +843,7 @@ Halpern (1998), Perkins and Salomon (1988), and Barnett and Ceci (2002) identify
 >
 > **Boundary Condition:** Organisational KM adds a social coordination dimension absent from individual PKM. Structures that are individually suboptimal but collectively legible (a standard folder hierarchy that everyone follows consistently) may outperform individually optimal structures that coordination costs prevent from being applied consistently. The minimum structure principle requires modification: minimum viable shared structure is not the same as minimum individual structure.
 >
-> **See also:** [[Knowledge-Management]], [[distributed-cognition]], [[Information-Architecture]], [[cognitive-offloading]]
+> **See also:** [[knowledge-management]], [[distributed-cognition]], [[Information-Architecture]], [[cognitive-offloading]]
 
 > [!far-transfer] Transfer Domain 3: Personal Productivity and Attention Management
 >
@@ -896,7 +896,7 @@ The practical horizon of this analysis is not a specific PKM tool, method, or ar
 >
 > **Boundary:** CLT was developed in instructional contexts; its extension to self-directed knowledge management involves interpretive extrapolation. The core WM-capacity mechanisms are domain-independent; specific design recommendations require adaptation for the PKM context.
 >
-> **See also:** [[cognitive-load-theory]], [[instructional-design]], [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]], [[Four-Component-Instructional-Design]]
+> **See also:** [[cognitive-load-theory]], [[instructional-design]], [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]], [[four-component-instructional-design]]
 
 > [!definition] **Schema (Bartlett, 1932; Rumelhart, 1980; Sweller, 1988)**
 > An organized cognitive structure in long-term memory that encodes patterns of related information, enabling recognition, prediction, and rapid processing. Schemas allow experts to handle complex material as a small number of familiar chunks rather than as many individual elements. In CLT, schema formation is the primary goal of effective instruction and learning.
@@ -990,7 +990,7 @@ The practical horizon of this analysis is not a specific PKM tool, method, or ar
 > **Core contribution to this report:** Cognitive load measurement methodology; germane load operationalisation; systematic CLT research programme.
 
 > [!person] **Jeroen van Merriënboer** (contemporary)
-> Educational technologist at Maastricht University; collaborator with Sweller and Paas; architect of the [[Four-Component-Instructional-Design]] (4C/ID) model — an application of CLT principles to complex professional skills training. Van Merriënboer's work extends CLT from simple task learning to complex, whole-task skill development.
+> Educational technologist at Maastricht University; collaborator with Sweller and Paas; architect of the [[four-component-instructional-design]] (4C/ID) model — an application of CLT principles to complex professional skills training. Van Merriënboer's work extends CLT from simple task learning to complex, whole-task skill development.
 >
 > **Core contribution to this report:** Germane load concept (with Sweller and Paas, 1998); extension of CLT to complex learning; practical CLT design guidelines.
 
@@ -1411,7 +1411,7 @@ Atkinson & Shiffrin (1968)           Bartlett (1932)
 > > **Connection to this report:** The cognitive offloading analysis in Section 4 assumes a single practitioner; distributed cognition extends the analysis to networks of agents.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Foundational Report
-> > **Prerequisites:** [[extended-mind-theory]], [[Knowledge-Management]], [[cognitive-offloading]]
+> > **Prerequisites:** [[extended-mind-theory]], [[knowledge-management]], [[cognitive-offloading]]
 
 > > [!topic-idea] **[[self-regulated-learning]]** (Metacognitive PKM Design)
 > > **Description:** The Cognitive Priority Principle states that practitioners should allocate cognitive resources proportionally to cognitive value — but this requires metacognitive skill: the ability to monitor one's own cognitive processes, recognise when synthesis is occurring vs. when capture bias is operating, and deliberately regulate effort allocation. Self-regulated learning research offers a mature framework for understanding how practitioners develop these metacognitive skills and what instructional conditions support their development. Applying SRL theory to PKM skill development would provide the metacognitive infrastructure this report implicitly requires.

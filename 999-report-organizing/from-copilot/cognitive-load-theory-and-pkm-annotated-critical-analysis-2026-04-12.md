@@ -655,7 +655,7 @@ The report's argumentation chain is most vulnerable at two points:
 > **Boundary condition:** Organizational KM involves shared construction (multiple authors), which introduces coordination costs not present in personal PKM. [[cognitive-load]] management in collaborative knowledge construction requires additional mechanisms beyond those analyzed here.
 
 > [!far-transfer] **Transfer Domain 2: Educational Technology Design**
-> **Structural principle:** The [[cognitive-offloading]] paradox (Section 5.3) applies directly to [[Educational-Technology|educational technology]] design. Learning management systems (LMS), AI tutoring systems, and digital textbooks all face the tension between supporting immediate performance (through scaffolding and offloading) and building lasting knowledge (through effortful processing).
+> **Structural principle:** The [[cognitive-offloading]] paradox (Section 5.3) applies directly to [[educational-technology|educational technology]] design. Learning management systems (LMS), AI tutoring systems, and digital textbooks all face the tension between supporting immediate performance (through scaffolding and offloading) and building lasting knowledge (through effortful processing).
 >
 > **Application:** EdTech designers should implement "fading scaffolds" — support mechanisms that are strong during initial learning and gradually reduce, forcing increased [[schema-construction]] effort. This mirrors CLT's [[guidance-fading-principle]] and addresses the offloading paradox by design rather than relying on learner self-regulation.
 >

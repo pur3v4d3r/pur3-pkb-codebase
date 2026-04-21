@@ -95,7 +95,7 @@ broader: ["[[cognitive-science]]", "[[4e-cognition]]"]
 narrower: ["[[pkb-architecture]]", "[[obsidian-pkb-architecture]]"]
 see-also: ["[[cognitive-bandwidth-liberation]]", "[[cognitive-scaffolding]]", "[[metacognitive-scaffolding]]"]
 builds-on: ["[[Baddeley's-Working-Memory-Model]]", "[[cognitive-load-theory]]", "[[extended-mind-theory]]"]
-enables: ["[[pkb-design-for-pre-crystallization-knowledge-states]]", "[[Personal-Workflow-Architecture]]"]
+enables: ["[[pkb-design-for-pre-crystallization-knowledge-states]]", "[[personal-workflow-architecture]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)

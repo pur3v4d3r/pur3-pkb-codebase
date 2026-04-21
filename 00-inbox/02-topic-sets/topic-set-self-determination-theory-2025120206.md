@@ -62,7 +62,7 @@ SDT topics would generate extensive wiki-links:
 - [[internalization]], [[integration]]
 - [[controlled-motivation]], [[autonomous-motivation]]
 - [[amotivation]], [[Flow-State]]
-- [[Goal Theory]], [[Achievement Motivation]]
+- [[Goal Theory]], [[achievement-motivation]]
 - [[self-efficacy]], [[locus-of-control]]
 - [[organismic-integration]], [[Regulatory Styles]]
 

@@ -995,7 +995,7 @@ These tags track the state of information as it moves through your system.
   * **`#pkm/capture`**: Ingesting information (Inbox phase).
       * *Use for:* Quick capture ideas, raw highlights.
   * **`#pkm/process`**: Refining and atomizing information.
-      * *Use for:* Turning highlights into [[Atomic-Notes]], progressive summarization.
+      * *Use for:* Turning highlights into [[atomic-notes]], progressive summarization.
   * **`#pkm/connect`**: Linking and gardening.
       * *Use for:* Building MOCs, reviewing orphans.
   * **`#pkm/synthesis`**: Creating new outputs.

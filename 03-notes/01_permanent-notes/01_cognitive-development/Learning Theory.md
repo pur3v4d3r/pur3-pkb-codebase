@@ -34,7 +34,7 @@ link-up:
 link-related:
   - "[[2025-11-29|Daily-Note]]"
   - "[[andragogy]]"
-  - "[[Biologically Primary Knowledge]]"
+  - "[[biologically-primary-knowledge]]"
   - "[[Biologically Secondary Knowledge]]"
   - "[[chunking]]"
   - "[[Cognitive Distortions]]"
@@ -58,7 +58,7 @@ link-related:
   - "[[Learner Autonomy Spectrum]]"
   - "[[Library Science]]"
   - "[[locus-of-control]]"
-  - "[[Long-Term-Working-Memory]]"
+  - "[[long-term-working-memory]]"
   - "[[long-term-memory]]"
   - "[[metacognition]]"
   - "[[More-Knowledgeable-Other]]"

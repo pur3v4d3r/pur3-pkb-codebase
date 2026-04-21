@@ -143,7 +143,7 @@ dv.paragraph(`**Total Learning & Memory Notes**: ${total}`);
 **Working Memory**
 - [[working-memory]] - Active information maintenance and manipulation
   - [**Working-Memory-Capacity**:: the limited amount of information that can be held in conscious awareness and actively processed simultaneously—typically 4±1 chunks in healthy adults, constrained by both storage and processing demands.]
-  - [[Long-Term-Working-Memory]] - Expertise-based capacity expansion
+  - [[long-term-working-memory]] - Expertise-based capacity expansion
   - [**LTWM-Mechanism**:: skilled individuals develop retrieval structures in long-term memory that function as extensions of working memory, enabling domain experts to effectively bypass capacity limits through rapid access to stored patterns.]
 
 **Long-Term Memory Systems**

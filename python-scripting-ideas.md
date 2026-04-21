@@ -52,7 +52,7 @@ related:
   - "[[PKM-Systems]]"
 
 prerequisites:
-  - "[[Python-Fundamentals]]"
+  - "[[python-fundamentals]]"
   - "[[File-System-Operations]]"
   - "[[Markdown-Format]]"
   - "[[YAML-Configuration]]"

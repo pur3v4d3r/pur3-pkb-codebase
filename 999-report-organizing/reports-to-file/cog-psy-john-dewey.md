@@ -476,7 +476,7 @@ The critique from the political right that progressive education undermined acad
 ### Contemporary Applications: From K-12 to Professional Education
 
 > [!connections-and-links]
-> Dewey's influence extends far beyond K-12 education into professional education ([[medical education]], [[legal education]], [[business education]]), where problem-based learning, case method instruction, and experiential learning reflect Deweyan principles about the development of reflective practitioners.
+> Dewey's influence extends far beyond K-12 education into professional education ([[medical-education|medical education]], [[legal education]], [[business education]]), where problem-based learning, case method instruction, and experiential learning reflect Deweyan principles about the development of reflective practitioners.
 
 The influence of Dewey's educational philosophy manifests across contemporary educational contexts, though often in transformed or partial ways. In K-12 education, the emphasis on [[inquiry-based science education]] directly descends from Dewey's conception of learning as inquiry. The [[Next-Generation-Science-Standards|Next Generation Science Standards]], adopted by many U.S. states, organize science education around disciplinary core ideas, crosscutting concepts, and science practices—reflecting Dewey's insistence that students must engage in authentic scientific thinking rather than merely memorizing scientific facts.
 

@@ -38,7 +38,7 @@ review-priority: medium
 # Rumination
 
 > [!definition]
-> - **Key-Term**:[[Rumination]]
+> - **Key-Term**:[[rumination]]
 > - [**Definition**:Reflection; a calm, lengthy, intent consideration]
 
 ## Foundational Understanding

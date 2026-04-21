@@ -45,7 +45,7 @@ link-related:
 
 ## 1\. Introduction: The Workflow as an Engineering Problem
 
-The modern knowledge worker exists within a stochastic environment characterized by high information velocity and volume. The traditional response to this environment has been the adoption of "productivity hacks"—superficial behavioral adjustments akin to putting a fresh coat of paint on a crumbling building. To truly solve the problem of output and comprehension in the information age, one must shift the paradigm from behavioral psychology to systems engineering. We must define the `[[Personal-Workflow-Architecture]]` not as a set of habits, but as a designed system comprising inputs, processing nodes, feedback loops, and outputs.
+The modern knowledge worker exists within a stochastic environment characterized by high information velocity and volume. The traditional response to this environment has been the adoption of "productivity hacks"—superficial behavioral adjustments akin to putting a fresh coat of paint on a crumbling building. To truly solve the problem of output and comprehension in the information age, one must shift the paradigm from behavioral psychology to systems engineering. We must define the `[[personal-workflow-architecture]]` not as a set of habits, but as a designed system comprising inputs, processing nodes, feedback loops, and outputs.
 
 > [!definition] Personal Workflow Architecture
 > A formalized, engineered structure of tools, protocols, and information pathways designed to capture, process, and synthesize information with minimal `[[Cognitive-Friction]]`. It acts as an externalized cognitive scaffolding that supports high-order thinking by automating low-order management.

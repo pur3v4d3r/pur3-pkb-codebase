@@ -13,7 +13,7 @@ secondary_domains:
   - Python Development
   - Obsidian/PKB Tools
 related_concepts:
-  - "[[Obsidian Automation]]"
+  - "[[Obsidian-Automation]]"
   - "[[Python Scripting]]"
   - "[[PKB Infrastructure]]"
   - "[[CLI Tools]]"

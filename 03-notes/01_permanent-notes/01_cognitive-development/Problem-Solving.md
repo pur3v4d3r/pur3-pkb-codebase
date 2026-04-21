@@ -48,7 +48,7 @@ review-priority: medium
 # Problem-Solving
 
 > [!definition]
-> - **Key-Term**:[[Problem-Solving]]
+> - **Key-Term**:[[problem-solving]]
 > - [**Definition**:]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

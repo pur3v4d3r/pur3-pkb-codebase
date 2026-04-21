@@ -100,7 +100,7 @@ aliases: [Stoicism Research Plan, Applied Stoic Philosophy Study, Stoic Epistemo
 # 🎯 Research Plan: Stoicism as Epistemic & Metacognitive Operating System
 
 > [!abstract] Research Plan Overview
-> **Domain**: [[Stoic-Philosophy]], [[Practical Ethics]], [[metacognition]], [[epistemology]], [[Behavior Change]]
+> **Domain**: [[Stoic-Philosophy]], [[Practical Ethics]], [[metacognition]], [[epistemology]], [[behavior-change]]
 > **Scope**: Comprehensive study of Stoic philosophy from historical foundations through contemporary applications, with explicit integration into metacognitive frameworks, epistemic accountability practices, and lifelong learning identity development
 > **Duration**: 10-14 weeks (adaptable based on depth preferences)
 > **Learning Objective**: Develop operational mastery of Stoic principles sufficient to systematically modify behavior, strengthen epistemic practices, and cultivate metacognitive regulation—culminating in a coherent philosophical foundation for professional-level knowledge seeking
@@ -270,7 +270,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Premeditatio-Malorum]], [[Memento Mori]], [[View from Above]], [[Philosophical Journaling]], [[Morning Meditation (Stoic)]], [[Evening Review (Stoic)]], [[pierre-hadot]], [[Spiritual Exercises]], [[Askēsis]]
 - Recommended tags: #stoicism #practice #spiritual-exercises #habit-formation #self-improvement
-- Connection points: Connect to [[Behavior Change]] literature; bridge to [[habit-formation]] science; link to your PKB daily practice routines
+- Connection points: Connect to [[behavior-change]] literature; bridge to [[habit-formation]] science; link to your PKB daily practice routines
 
 **Prerequisites**: Topics 1-4 (practices are meaningful only with theoretical grounding)
 
@@ -370,7 +370,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 - Link extensively to existing [[self-determination-theory]] notes—the Stoic concept of autonomy ([[Prohairesis]]) parallels SDT autonomy satisfaction
 - Bridge with [[cognitive-science]] through Stoic psychology and CBT connections
 - Connect to [[metacognition]] literature through epistemic monitoring practices
-- Synthesize with any existing [[Behavior Change]] or [[habit-formation]] notes
+- Synthesize with any existing [[behavior-change]] or [[habit-formation]] notes
 
 **Metadata Architecture**:
 - Tag hierarchy: #stoicism/history, #stoicism/doctrine, #stoicism/practice, #stoicism/epistemology, #stoicism/modern
@@ -1194,7 +1194,7 @@ After completing Topics 7-8, ask yourself: *Can I articulate my personal philoso
 3. **[[Cognitive Behavioral Therapy - Deep Dive]]**
    - *Connection*: Topic 6 introduces CBT connections; deeper study would provide robust understanding of the psychological mechanisms
    - *Depth Potential*: Medium—well-documented field with clear literature
-   - *Knowledge Graph Role*: Strengthens [[emotional-regulation]] and [[Behavior Change]] clusters
+   - *Knowledge Graph Role*: Strengthens [[emotional-regulation]] and [[behavior-change]] clusters
 
 4. **[[Self-Determination Theory and Stoicism Integration]]**
    - *Connection*: Your existing SDT work creates natural synthesis opportunity—Stoic autonomy (prohairesis) and SDT autonomy, Stoic virtue development and SDT competence

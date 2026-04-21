@@ -62,7 +62,7 @@ children:
 # PKM/PKB Lifelong Learning Framework — Master Map of Content
 
 > [!abstract] What This Framework Is
-> A **30-report, ~280,000-word cross-domain synthesis** grounding [[personal-knowledge-management]] in rigorous scientific evidence drawn from [[cognitive-science]], [[educational-psychology]], [[Educational-Philosophy]], [[Knowledge-Management]], [[instructional-design]], [[Learning-Experience-Design]], [[metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic-Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
+> A **30-report, ~280,000-word cross-domain synthesis** grounding [[personal-knowledge-management]] in rigorous scientific evidence drawn from [[cognitive-science]], [[educational-psychology]], [[Educational-Philosophy]], [[knowledge-management]], [[instructional-design]], [[Learning-Experience-Design]], [[metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic-Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
 
 ---
 
@@ -293,7 +293,7 @@ See [[00-PKM-PKB-Framework-Series-MOC]] for the complete annotated registry.
 | [[educational-psychology]] | SRL, Transfer, Motivation | Zimmerman, Deci & Ryan, Dweck |
 | [[Educational-Philosophy]] | Constructivism, Pragmatism, Inquiry | Piaget, Dewey, Vygotsky |
 | [[Memory Science]] | Testing Effect, Spacing, Desirable Difficulties | Bjork, Roediger, Dunlosky |
-| [[Knowledge-Management]] | SECI Model, KOS, Tacit Knowledge | Nonaka, Polanyi, Ranganathan |
+| [[knowledge-management]] | SECI Model, KOS, Tacit Knowledge | Nonaka, Polanyi, Ranganathan |
 | [[instructional-design]] | Elaboration Theory, Scaffolding | Reigeluth, Merrill |
 | [[metacognition]] | Monitoring, Calibration, SRL | Flavell, Nelson & Narens |
 | [[critical-thinking]] | Reasoning, Epistemic Vigilance | Halpern, Paul & Elder |

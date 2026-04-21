@@ -619,7 +619,7 @@ extraction_summary:
 - [[How this applies]]
 - [[interleaving]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[memory-consolidation]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Project or problem context]]
@@ -662,7 +662,7 @@ extraction_summary:
 | 14 | [[interleaving]] | — | — | The Disciplinary Intersection | 123 |
 | 15 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Disciplinary Intersection | 123 |
 | 16 | [[educational-psychology|Educational Psychology]] | — | — | The Disciplinary Intersection | 123 |
-| 17 | [[Knowledge-Management|Knowledge Management]] | — | — | The Disciplinary Intersection | 123 |
+| 17 | [[knowledge-management|Knowledge Management]] | — | — | The Disciplinary Intersection | 123 |
 | 18 | [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
 | 19 | [[schema-theory|Schema Theory]] | — | — | Scope and Connections | 129 |
 | 20 | [[02-architecture-of-learning-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
@@ -854,7 +854,7 @@ extraction_summary:
 - [[How this applies]]
 - [[interleaving]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[memory-consolidation]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Project or problem context]]

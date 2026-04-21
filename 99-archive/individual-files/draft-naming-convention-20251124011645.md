@@ -70,7 +70,7 @@ Quick Referenc for Reference Type:
 	- Example: [[The Law Of Cognitive Miserliness]]
 	- Example: [[Self Regulation Theory]]
 	- Example: [[Getting Things Done (GTD)]]
-	- Example: [[Knowledge-Management]]
+	- Example: [[knowledge-management]]
 	- Example: [[Stock Of Abstract Conceptualizations]]
 	  
 - Atmoic/Evergreen Notes

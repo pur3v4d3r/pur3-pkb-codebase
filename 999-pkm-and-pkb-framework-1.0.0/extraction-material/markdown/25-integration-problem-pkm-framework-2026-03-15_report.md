@@ -604,7 +604,7 @@ extraction_summary:
 - [[Jan Meyer]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[Knowledge Integration Framework]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Knowledge Organization at Scale]]
 - [[Marcia Linn]]
 - [[Mark Granovetter]]
@@ -648,11 +648,11 @@ extraction_summary:
 | 1 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
 | 2 | [[educational-psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
 | 3 | [[Network Science]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
-| 4 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
+| 4 | [[knowledge-management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 126 |
 | 5 | [[Knowledge-Integration|Knowledge Integration]] | — | — | The Synthesis Question | 132 |
 | 6 | [[conceptual-change|Conceptual Change]] | — | — | The Synthesis Question | 132 |
 | 7 | [[Network Science]] | — | — | The Synthesis Question | 132 |
-| 8 | [[Knowledge-Management|Knowledge Management]] | — | — | The Synthesis Question | 132 |
+| 8 | [[knowledge-management|Knowledge Management]] | — | — | The Synthesis Question | 132 |
 | 9 | [[Marcia Linn]] | — | — | The Synthesis Question | 134 |
 | 10 | [[Knowledge Integration Framework]] | — | — | The Synthesis Question | 134 |
 | 11 | [[Stella-Vosniadou]] | — | — | The Synthesis Question | 134 |
@@ -664,7 +664,7 @@ extraction_summary:
 | 17 | [[Small-World-Networks|Small-World Networks]] | — | — | The Synthesis Question | 134 |
 | 18 | [[Mark Granovetter]] | — | — | The Synthesis Question | 134 |
 | 19 | [[Weak Ties]] | — | — | The Synthesis Question | 134 |
-| 20 | [[Knowledge-Management|Knowledge Management]] | — | — | The Synthesis Question | 134 |
+| 20 | [[knowledge-management|Knowledge Management]] | — | — | The Synthesis Question | 134 |
 | 21 | [[Boundary-Objects|Boundary Objects]] | — | — | The Synthesis Question | 134 |
 | 22 | [[SECI-Model|SECI Model]] | — | — | The Synthesis Question | 134 |
 | 23 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Scope, Dependencies, and Roadmap | 140 |
@@ -677,7 +677,7 @@ extraction_summary:
 | 30 | [[educational-psychology|Educational Psychology]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 31 | [[Information-Science|Information Science]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 32 | [[Network Science]] | — | — | Scope, Dependencies, and Roadmap | 142 |
-| 33 | [[Knowledge-Management|Knowledge Management]] | — | — | Scope, Dependencies, and Roadmap | 142 |
+| 33 | [[knowledge-management|Knowledge Management]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 34 | [[Integration Architecture]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 35 | [[integration-paradox|Integration Paradox]] | — | — | Scope, Dependencies, and Roadmap | 142 |
 | 36 | [[integration-paradox|Integration Paradox]] | — | — | Scope, Dependencies, and Roadmap | 144 |
@@ -712,7 +712,7 @@ extraction_summary:
 | 65 | [[Report 20]] | — | — | The Three Integration Mechanisms | 281 |
 | 66 | [[schema-theory|Schema Theory]] | — | — | The Three Integration Mechanisms | 290 |
 | 67 | [[Report-01]] | — | — | The Three Integration Mechanisms | 290 |
-| 68 | [[Knowledge-Management|Knowledge Management]] | — | — | The Three Integration Mechanisms | 303 |
+| 68 | [[knowledge-management|Knowledge Management]] | — | — | The Three Integration Mechanisms | 303 |
 | 69 | [[Science and Technology Studies]] | — | — | The Three Integration Mechanisms | 303 |
 | 70 | [[Boundary-Objects|Boundary Objects]] | — | — | The Three Integration Mechanisms | 303 |
 | 71 | [[Boundary-Objects|Boundary Objects]] | — | — | The Three Integration Mechanisms | 306 |
@@ -794,7 +794,7 @@ extraction_summary:
 - [[Jan Meyer]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[Knowledge Integration Framework]]
-- [[Knowledge-Management|Knowledge Management]]
+- [[knowledge-management|Knowledge Management]]
 - [[Knowledge Organization at Scale]]
 - [[Marcia Linn]]
 - [[Mark Granovetter]]

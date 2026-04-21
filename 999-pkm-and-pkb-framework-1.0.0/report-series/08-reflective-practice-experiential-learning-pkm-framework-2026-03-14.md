@@ -111,7 +111,7 @@ The synthesis question driving this report is: **What happens when you place the
 **Disciplines contributing to this synthesis**:
 - [[Educational-Philosophy|Educational Philosophy]] (pragmatism, Dewey's inquiry theory, Schön's reflective practice)
 - [[educational-psychology|Educational Psychology]] (Kolb's ELC, experiential learning research, writing-to-learn evidence)
-- [[Knowledge-Management|Knowledge Management]] (Nonaka's SECI model, tacit-explicit conversion)
+- [[knowledge-management|Knowledge Management]] (Nonaka's SECI model, tacit-explicit conversion)
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] (encoding specificity, schema formation, self-explanation effect)
 - [[metacognition]] (reflection as metacognitive regulation, monitoring and control of reflective processes)
 

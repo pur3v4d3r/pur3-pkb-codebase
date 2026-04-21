@@ -365,7 +365,7 @@ extraction_summary:
 > 
 > - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — A hub concept connecting this report to the desirable difficulties literature (Report 16), the testing effect (Report 06), and calibration and epistemic humility (Report 18). The fluency illusion is the mechanism that most systematically undermines metacognitive monitoring; understanding it structurally connects the memory science, metacognition, and instructional design threads of the framework.
 > 
-> - **[[Implementation-Intentions|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
+> - **[[implementation-intentions|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
 > 
 > - **[[zimmerman-srl-model|Zimmerman SRL Model]]** — This report advances the use of Zimmerman's framework from conceptual reference (as in Report 04) to structural design template. The three-phase forethought-performance-self-reflection structure maps directly onto the daily/session/weekly monitoring rhythms of the Embedded Monitoring Architecture.
 > 
@@ -557,7 +557,7 @@ extraction_summary:
 - [[flavell-metacognition-framework|Flavell Metacognition Framework]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]]
-- [[Implementation-Intentions|Implementation Intentions]]
+- [[implementation-intentions|Implementation Intentions]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
@@ -597,7 +597,7 @@ extraction_summary:
 | 16 | [[behavioral-science|Behavioral Science]] | — | — | The Synthesis Question and Its Relati... | 145 |
 | 17 | [[Report-04]] | — | — | The Monitoring Processes and What The... | 161 |
 | 18 | [[zimmerman-srl-model|Zimmerman SRL Model]] | Zimmerman's | — | Zimmerman's SRL Cycle as a PKB Struct... | 182 |
-| 19 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Gollwitzer's Implementation Intention... | 194 |
+| 19 | [[implementation-intentions|Implementation Intentions]] | — | — | Gollwitzer's Implementation Intention... | 194 |
 | 20 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Fluency Illusion Evidence Base | 225 |
 | 21 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Why PKB Designs Accidentally Undermin... | 282 |
 | 22 | [[Report-04]] | — | — | Return-and-Deepen: The Monitoring-Con... | 316 |
@@ -605,7 +605,7 @@ extraction_summary:
 | 24 | [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 449 |
 | 25 | [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 451 |
 | 26 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 453 |
-| 27 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 455 |
+| 27 | [[implementation-intentions|Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 455 |
 | 28 | [[zimmerman-srl-model|Zimmerman SRL Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 457 |
 | 29 | [[Calibration-Tracking|Calibration Tracking]] | — | — | Phase VII: PKB Connections & Cross-Re... | 459 |
 | 30 | [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]] | — | — | Phase VII: PKB Connections & Cross-Re... | 463 |
@@ -637,7 +637,7 @@ extraction_summary:
 - [[flavell-metacognition-framework|Flavell Metacognition Framework]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]]
-- [[Implementation-Intentions|Implementation Intentions]]
+- [[implementation-intentions|Implementation Intentions]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]

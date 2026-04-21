@@ -731,7 +731,7 @@ Organizations develop something functionally analogous to institutional memory �
 >
 > **Boundary Condition:** Organizations are not brains — they lack biological consolidation processes — but the transfer is useful precisely because the *functional analogues* of consolidation (standardization, cultural embedding, cross-training) have been under-theorized in organizational learning. The boundary is crossed when the analogy suggests that organizations should sleep.
 >
-> **See also:** [[Organizational-Learning]], [[tacit-knowledge]], [[procedural-memory]], [[systems-consolidation]], [[Knowledge-Management]]
+> **See also:** [[Organizational-Learning]], [[tacit-knowledge]], [[procedural-memory]], [[systems-consolidation]], [[knowledge-management]]
 
 ---
 

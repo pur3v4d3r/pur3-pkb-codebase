@@ -1,47 +1,75 @@
 ---
-title: "Volition"
-aliases: []
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "volition"
+aliases:
+  - "volition"
 type: permanent-note
-status: evergreen
-confidence: high
-domain: Learning Science
-subdomains: [Motivational Psychology, Cognitive Psychology, Educational Psychology]
-tags: [permanent-note, learning-science, motivational-psychology, cognitive-psychology, educational-psychology]
-created: '2026-04-21'
-updated: '2026-04-21'
-complexity: intermediate
-importance: medium
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - other
+
+domain: other
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-21
+updated: 2026-04-21
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 9
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[action-phase-model]]"
+  - "[[cognitive-pre-compilation]]"
+  - "[[cue-encoding-bottleneck]]"
+  - "[[goal-intention]]"
+  - "[[intention-behavior-gap]]"
+  - "[[mcii]]"
+  - "[[mental-contrasting]]"
+  - "[[rubicon]]"
+  - "[[strategic-automaticity]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-provenance:
-  source-type: report-extraction
-  pipeline-version: "3.0.0"
-  source-reports: [goal-setting-and-self-regulated-learning-foundational-report-2026-04-03_report]
-  extraction-method: pkb-extractor-v1 → pipeline-v3
+importance: low
 ---
 
-# Volition
+# volition
 
-> [!definition] Volition
-> The psychological capacity to translate committed intentions into sustained action, protecting goal pursuit against competing motivations, environmental distractions, emotional disturbances, and cognitive temptations during the period between goal commitment and goal attainment. Distinguished from motivation (the force that initiates intent) and from metacognition (the monitoring of cognitive processes).
+> [!definition] **volition**
+> *Stub note — concept referenced by 9 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-## Core Explanation
+*Auto-generated stub — referenced by 9 permanent notes.*
 
-> [!evidence] Volition
-> The psychological capacity to translate committed intentions into sustained action, protecting goal pursuit against competing motivations, environmental distractions, emotional disturbances, and cognitive temptations during the period between goal commitment and goal attainment. Distinguished from motivation (the force that initiates intent) and from metacognition (the monitoring of cognitive processes).
-> *— [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03_report]]*
+## Referenced By
 
-## Connections
-
-**Related:** [[goal-setting-theory]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[implementation-intention]] · [[self-determination-theory]] · [[achievement-goal-theory]] · [[metacognition]] · [[self-regulated-learning]] · [[metacognition]] · [[self-efficacy]] · [[growth-mindset]] · [[zimmerman-srl-model]] · [[goal-setting-theory]] · [[self-efficacy]] · [[Priority-Management]] · [[self-efficacy]] · [[metacognitive-monitoring]] · [[metacognitive-monitoring]] · [[productive-struggle]] · [[self-regulated-learning]] · [[metacognitive-regulation]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[self-efficacy]] · [[growth-mindset]] · [[implementation-intention]] · [[Gollwitzer-Implementation-Intention]] · [[implementation-intention]] · [[habit-formation]] · [[metacognition]] · [[metacognition]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[metacognitive-self-regulation]] · [[retrieval-practice]] · [[spaced-repetition]] · [[retrieval-practice]] · [[transfer-of-learning]] · [[self-determination-theory]] · [[self-determination-theory]] · [[transfer-of-learning]] · [[deliberate-practice]] · [[metacognition]] · [[deliberate-practice]] · [[Expert-Performance-Acquisition]] · [[feedback-design]] · [[productive-failure]] · [[intrinsic-motivation]] · [[productive-struggle]] · [[habit-formation]] · [[implementation-intention]] · [[self-determination-theory]] · [[intrinsic-motivation]] · [[psychological-safety]] · [[Collective-SRL]] · [[Team-Learning]] · [[Organizational-Learning]] · [[implementation-intention]] · [[self-regulated-learning]] · [[Volitional-Control]] · [[implementation-intention]] · [[forethought-phase]] · [[metacognitive-regulation]] · [[metacognitive-monitoring]] · [[self-reflection-phase]] · [[self-efficacy]] · [[goal-setting-theory]] · [[self-determination-theory]] · [[implementation-intention]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[forethought-phase]] · [[performance-phase]] · [[self-reflection-phase]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[albert-bandura]] · [[attribution-theory]] · [[implementation-intention]] · [[habit-formation]] · [[Volitional-Control]] · [[mastery-goal]] · [[achievement-goal-theory]] · [[growth-mindset]] · [[carol-dweck]] · [[autonomous-motivation]] · [[self-determination-theory]] · [[intrinsic-motivation]] · [[motivation-continuum]] · [[metacognition]] · [[metacognitive-monitoring]] · [[retrieval-practice]] · [[spaced-repetition]] · [[attribution-theory]] · [[growth-mindset]] · [[self-reflection-phase]] · [[learned-helplessness]] · [[self-concordance-model]] · [[self-determination-theory]] · [[autonomous-motivation]] · [[goal-setting-theory]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Pintrich's-Integrative-SRL-Framework]] · [[implementation-intention]] · [[self-efficacy-theory]] · [[growth-mindset]] · [[self-determination-theory]] · [[goal-setting-theory]] · [[organismic-integration-theory]] · [[metacognition]] · [[metacognitive-monitoring]] · [[Grit-and-Perseverance]] · [[Proactive-Interference-in-Learning]] · [[Goal-Framing-Effects]] · [[Computational-Models-of-Self-Regulation]] · [[Embodied-Cognition-and-Learning]] · [[Learning-Environment-Design-for-Autonomy]] · [[Temporal-Self-Regulation-Theory]] · [[goal-setting-theory]] · [[self-regulated-learning]] · [[metacognition]] · [[self-determination-theory]] · [[achievement-goal-theory]] · [[attribution-theory]] · [[learning-system-design]] · [[deliberate-practice]] · [[habit-formation]] · [[feedback-design]] · [[metacognitive-strategies-in-education]] · [[executive-function]] · [[growth-mindset]] · [[implementation-intention]] · [[intrinsic-motivation]] · [[transfer-of-learning]] · [[spaced-repetition]] · [[self-concordance-model]] · [[psychological-safety]] · [[self-efficacy]] · [[achievement-goal-theory]] · [[albert-bandura]] · [[attention]] · [[attribution-theory]] · [[autonomous-motivation]] · [[barry-zimmerman]] · [[basic-psychological-needs-theory]] · [[bernard-weiner]] · [[carol-dweck]] · [[Collective-SRL]] · [[Computational-Models-of-Self-Regulation]] · [[deliberate-practice]] · [[Embodied-Cognition-and-Learning]] · [[executive-function]] · [[Expert-Performance-Acquisition]] · [[feedback-design]] · [[forethought-phase]] · [[Goal-Framing-Effects]] · [[goal-setting-theory]] · [[Gollwitzer-Implementation-Intention]] · [[Grit-and-Perseverance]] · [[growth-mindset]] · [[habit-formation]] · [[implementation-intention]] · [[intrinsic-motivation]] · [[john-flavell]] · [[learned-helplessness]] · [[Learning-Environment-Design-for-Autonomy]] · [[Learning-How-to-Learn]] · [[learning-system-design]] · [[mastery-approach-goal]] · [[mastery-avoidance-goal]] · [[mastery-goal]] · [[metacognition]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[metacognitive-self-regulation]] · [[metacognitive-strategies-in-education]] · [[motivation-continuum]] · [[organismic-integration-theory]] · [[Organizational-Learning]] · [[paul-pintrich]] · [[performance-approach-goal]] · [[performance-avoidance-goal]] · [[performance-phase]] · [[peter-gollwitzer]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Priority-Management]] · [[Proactive-Interference-in-Learning]] · [[productive-failure]] · [[productive-struggle]] · [[psychological-safety]] · [[retrieval-practice]] · [[self-concordance-model]] · [[self-determination-theory]] · [[self-directed-learning]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-monitoring]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[spaced-repetition]] · [[Team-Learning]] · [[Temporal-Self-Regulation-Theory]] · [[transfer-of-learning]] · [[Volitional-Control]] · [[Vygotsky's-Zone-of-Proximal-Development]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[zimmerman-srl-model]] · [[goal-setting-theory]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[implementation-intention]] · [[self-determination-theory]] · [[achievement-goal-theory]] · [[metacognition]] · [[self-regulated-learning]] · [[metacognition]] · [[self-efficacy]] · [[growth-mindset]] · [[zimmerman-srl-model]] · [[goal-setting-theory]] · [[self-regulated-learning]] · [[goal-setting-theory]] · [[peter-gollwitzer]] · [[metacognitive-regulation]] · [[deliberate-practice]] · [[self-directed-learning]] · [[executive-function]] · [[implementation-intention]] · [[self-efficacy]] · [[self-efficacy]] · [[Priority-Management]] · [[self-efficacy]] · [[goal-setting-theory]] · [[self-monitoring]] · [[metacognitive-monitoring]] · [[self-regulated-learning]] · [[metacognitive-monitoring]] · [[basic-psychological-needs-theory]] · [[self-efficacy]] · [[self-determination-theory]] · [[productive-struggle]] · [[metacognitive-regulation]] · [[attention]] · [[growth-mindset]] · [[achievement-goal-theory]] · [[Vygotsky's-Zone-of-Proximal-Development]] · [[self-regulated-learning]] · [[metacognitive-regulation]] · [[barry-zimmerman]] · [[self-regulated-learning]] · [[forethought-phase]] · [[performance-phase]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[metacognition]] · [[self-efficacy]] · [[achievement-goal-theory]] · [[metacognitive-regulation]] · [[executive-function]] · [[metacognitive-monitoring]] · [[attribution-theory]] · [[bernard-weiner]] · [[growth-mindset]] · [[growth-mindset]] · [[implementation-intention]] · [[implementation-intention]] · [[Gollwitzer-Implementation-Intention]] · [[habit-formation]] · [[implementation-intention]] · [[habit-formation]] · [[metacognition]] · [[john-flavell]] · [[metacognitive-monitoring]] · [[metacognition]] · [[metacognition]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[metacognitive-self-regulation]] · [[metacognitive-regulation]] · [[paul-pintrich]] · [[Pintrich's-Integrative-SRL-Framework]] · [[retrieval-practice]] · [[spaced-repetition]] · [[Learning-How-to-Learn]] · [[deliberate-practice]] · [[retrieval-practice]] · [[achievement-goal-theory]] · [[self-determination-theory]] · [[achievement-goal-theory]] · [[mastery-approach-goal]] · [[mastery-avoidance-goal]] · [[performance-approach-goal]] · [[performance-avoidance-goal]] · [[growth-mindset]] · [[learned-helplessness]] · [[transfer-of-learning]] · [[self-determination-theory]] · [[motivation-continuum]] · [[self-determination-theory]] · [[metacognitive-self-regulation]] · [[basic-psychological-needs-theory]] · [[self-determination-theory]] · [[self-efficacy-theory]] · [[self-determination-theory]] · [[self-concordance-model]] · [[transfer-of-learning]] · [[transfer-of-learning]] · [[deliberate-practice]] · [[metacognition]] · [[deliberate-practice]] · [[Expert-Performance-Acquisition]] · [[feedback-design]] · [[productive-failure]] · [[intrinsic-motivation]] · [[productive-struggle]] · [[habit-formation]] · [[implementation-intention]] · [[self-determination-theory]] · [[intrinsic-motivation]] · [[psychological-safety]] · [[Collective-SRL]] · [[Team-Learning]] · [[Organizational-Learning]] · [[implementation-intention]] · [[self-regulated-learning]] · [[Volitional-Control]] · [[implementation-intention]] · [[forethought-phase]] · [[metacognitive-regulation]] · [[metacognitive-monitoring]] · [[self-reflection-phase]] · [[self-efficacy]] · [[goal-setting-theory]] · [[self-determination-theory]] · [[implementation-intention]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[forethought-phase]] · [[performance-phase]] · [[self-reflection-phase]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[albert-bandura]] · [[attribution-theory]] · [[implementation-intention]] · [[habit-formation]] · [[Volitional-Control]] · [[mastery-goal]] · [[achievement-goal-theory]] · [[growth-mindset]] · [[carol-dweck]] · [[autonomous-motivation]] · [[self-determination-theory]] · [[intrinsic-motivation]] · [[motivation-continuum]] · [[metacognition]] · [[metacognitive-monitoring]] · [[retrieval-practice]] · [[spaced-repetition]] · [[attribution-theory]] · [[growth-mindset]] · [[self-reflection-phase]] · [[learned-helplessness]] · [[self-concordance-model]] · [[self-determination-theory]] · [[autonomous-motivation]] · [[goal-setting-theory]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Pintrich's-Integrative-SRL-Framework]] · [[implementation-intention]] · [[self-efficacy-theory]] · [[growth-mindset]] · [[self-determination-theory]] · [[goal-setting-theory]] · [[organismic-integration-theory]] · [[metacognition]] · [[metacognitive-monitoring]] · [[Grit-and-Perseverance]] · [[Proactive-Interference-in-Learning]] · [[Goal-Framing-Effects]] · [[Computational-Models-of-Self-Regulation]] · [[Embodied-Cognition-and-Learning]] · [[Learning-Environment-Design-for-Autonomy]] · [[Temporal-Self-Regulation-Theory]] · [[goal-setting-theory]] · [[self-regulated-learning]] · [[metacognition]] · [[self-determination-theory]] · [[achievement-goal-theory]] · [[attribution-theory]] · [[learning-system-design]] · [[deliberate-practice]] · [[habit-formation]] · [[feedback-design]] · [[metacognitive-strategies-in-education]] · [[executive-function]] · [[growth-mindset]] · [[implementation-intention]] · [[intrinsic-motivation]] · [[transfer-of-learning]] · [[spaced-repetition]] · [[self-concordance-model]] · [[psychological-safety]] · [[self-efficacy]] · [[Self-Regulated-Learning]] · [[albert-bandura]] · [[attention]] · [[attribution-theory]] · [[autonomous-motivation]] · [[barry-zimmerman]] · [[basic-psychological-needs-theory]] · [[bernard-weiner]] · [[carol-dweck]] · [[Collective-SRL]] · [[Computational-Models-of-Self-Regulation]] · [[deliberate-practice]] · [[Embodied-Cognition-and-Learning]] · [[executive-function]] · [[Expert-Performance-Acquisition]] · [[feedback-design]] · [[forethought-phase]] · [[Goal-Framing-Effects]] · [[goal-setting-theory]] · [[Gollwitzer-Implementation-Intention]] · [[Grit-and-Perseverance]] · [[growth-mindset]] · [[habit-formation]] · [[implementation-intention]] · [[intrinsic-motivation]] · [[john-flavell]] · [[learned-helplessness]] · [[Learning-Environment-Design-for-Autonomy]] · [[Learning-How-to-Learn]] · [[learning-system-design]] · [[mastery-approach-goal]] · [[mastery-avoidance-goal]] · [[mastery-goal]] · [[metacognition]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[metacognitive-self-regulation]] · [[metacognitive-strategies-in-education]] · [[motivation-continuum]] · [[organismic-integration-theory]] · [[Organizational-Learning]] · [[paul-pintrich]] · [[performance-approach-goal]] · [[performance-avoidance-goal]] · [[performance-phase]] · [[peter-gollwitzer]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Priority-Management]] · [[Proactive-Interference-in-Learning]] · [[productive-failure]] · [[productive-struggle]] · [[psychological-safety]] · [[retrieval-practice]] · [[self-concordance-model]] · [[self-determination-theory]] · [[self-directed-learning]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-monitoring]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[spaced-repetition]] · [[Team-Learning]] · [[Temporal-Self-Regulation-Theory]] · [[transfer-of-learning]] · [[Volitional-Control]] · [[Vygotsky's-Zone-of-Proximal-Development]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[Zimmerman's-Three-Phase-SRL-Cycle]] · [[zimmerman-srl-model]] · [[self-regulated-learning]] · [[goal-setting-theory]] · [[metacognition]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[self-determination-theory]] · [[achievement-goal-theory]] · [[self-efficacy]] · [[metacognitive-regulation]] · [[motivational-psychology]] · [[forethought-phase]] · [[implementation-intention]] · [[habit-formation]] · [[executive-function]] · [[growth-mindset]] · [[goal-setting-theory]] · [[self-efficacy]] · [[deliberate-practice]] · [[self-directed-learning]]
-
-```dataview
-LIST FROM [[Volition]]
-WHERE file.path != this.file.path
-SORT file.mtime DESC
-LIMIT 10
-```
-
----
-
-**Sources:** [[goal-setting-and-self-regulated-learning-foundational-report-2026-04-03_report]]
+- [[action-phase-model]]
+- [[cognitive-pre-compilation]]
+- [[cue-encoding-bottleneck]]
+- [[goal-intention]]
+- [[intention-behavior-gap]]
+- [[mcii]]
+- [[mental-contrasting]]
+- [[rubicon]]
+- [[strategic-automaticity]]

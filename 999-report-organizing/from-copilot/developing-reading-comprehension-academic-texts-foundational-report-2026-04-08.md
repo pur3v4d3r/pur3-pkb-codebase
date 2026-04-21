@@ -685,7 +685,7 @@ This has a practical consequence for long-run academic reading development: it p
 >
 > **Boundary:** The transfer is structural, not surface — the vocabulary and schemas must be domain-specific; only the metacognitive and strategic framework transfers directly.
 >
-> **See also:** [[Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation]], [[metacognitive-strategy]]
+> **See also:** [[domain-expertise-and-reading-speed-a-transfer-investigation]], [[metacognitive-strategy]]
 
 > [!far-transfer] Far Transfer Domain 3: Digital Reading and Information Environments
 > **Structural principle:** Contemporary digital reading environments introduce comprehension variables that were absent in the print-text paradigm this report primarily addresses — hyperlink structure, non-linear navigation, notification interruption, and multi-source information integration. The situation model framework, however, applies with equal force: comprehension quality in digital environments depends on the same vocabulary, schema, inference generation, and metacognitive monitoring processes.
@@ -768,7 +768,7 @@ The development of this metacognitive understanding of reading is, in a sense, t
 >
 > **Boundary:** Comprehension monitoring does not automatically lead to comprehension repair. Readers may monitor accurately but lack fix-up strategies; or may have strategies but misapply them. The detection-repair link requires both metacognitive skill and strategic knowledge.
 >
-> **See also:** [[comprehension-monitoring]], [[Comprehension-Monitoring-Training-Protocols]], [[fix-up-strategy]], [[metacognitive-monitoring]], [[ann-brown]]
+> **See also:** [[comprehension-monitoring]], [[comprehension-monitoring-training-protocols]], [[fix-up-strategy]], [[metacognitive-monitoring]], [[ann-brown]]
 
 > [!definition] **Schema Accommodation vs. Assimilation (Piaget; Rumelhart & Norman, 1981)**
 > Assimilation is the incorporation of new information into an existing schema without changing the schema's structure — the new information is interpreted through the existing frame. Accommodation is the modification of an existing schema, or the creation of a new one, in response to information that cannot be assimilated into current structures without distortion. In academic reading, assimilation is the default process and produces efficient comprehension when schemas are accurate; accommodation is the more cognitively demanding process required when texts challenge or contradict existing schemas. Conceptual change learning — reading academic texts that revise current understanding — requires accommodation.

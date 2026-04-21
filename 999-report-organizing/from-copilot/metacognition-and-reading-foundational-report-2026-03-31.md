@@ -979,7 +979,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 > | **Composite Score** | **8.5/10** | | **PASS** (threshold: 8.0) |
 >
 > **Identified Limitations:**
-> - Wiki-links to [[Kintsch]], [[ann-l.-brown]], [[Palincsar]], [[Scott Paris]], [[Michael Pressley]] — some of these figures either lack permanent notes entirely or the note names may differ from the format used here. These are flagged as potential ⚠ unverified links.
+> - Wiki-links to [[Kintsch]], [[ann-l.-brown]], [[Palincsar]], [[Scott Paris]], [[michael-pressley]] — some of these figures either lack permanent notes entirely or the note names may differ from the format used here. These are flagged as potential ⚠ unverified links.
 > - Argument maps section not included; the Four-Layer Monitoring Architecture is described in prose (Phase VI) rather than ASCII-diagrammed.
 > - Digital reading limitations are noted but not comprehensively treated.
 > - Practical application protocols section adapted to inline descriptions; a dedicated protocol template for a reading session metacognitive workflow would be a productive expansion.

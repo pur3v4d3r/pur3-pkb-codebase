@@ -122,14 +122,14 @@ This needs to be an exhaustive academic treatment that:
 - [[working-memory]]
 - [[locus-of-control]]
 - [[Self-Regulation-Theory]]
-- [[Rumination]]
+- [[rumination]]
 - [[Attention Allocation]]
 - [[self-determination-theory]]
 - [[autonomy]]
 - [[personal-knowledge-base]]
 - [[obsidian]]
 - [[zettelkasten]]
-- [[Implementation-Intentions]]
+- [[implementation-intentions]]
 - [[Prospective Memory]]
 - [[cognitive-reappraisal]]
 - [[emotional-regulation]]
@@ -223,7 +223,7 @@ aliases: [Stoic Dichotomy in PKB Systems, Control Dichotomy Filter, Metacognitiv
 ---
 
 > [!abstract]
-> The **[[Stoic]] [[Dichotomy-of-Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[cognitive-load-theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[personal-knowledge-base|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[metacognition|metacognitive filter]] that prevents [[Rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[locus-of-control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[personal-knowledge-base]] abandonment.
+> The **[[Stoic]] [[Dichotomy-of-Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[cognitive-load-theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[personal-knowledge-base|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[metacognition|metacognitive filter]] that prevents [[rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[locus-of-control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[personal-knowledge-base]] abandonment.
 
 ---
 
@@ -294,7 +294,7 @@ The primary mechanism by which the Dichotomy reduces [[cognitive-load]] operates
 > 
 > The Dichotomy functions as a **[[Metacognitive]] gate** that regulates what information receives sustained processing. In computational terms, it's a boolean filter applied at the threshold of working memory: `if (controllable) {process} else {accept_and_redirect}`. This prevents what [[john-sweller]] in [[cognitive-load-theory]] terms "extraneous cognitive load"—processing that does not contribute to schema construction or [[automaticity]] development. Uncontrollable variables, by definition, cannot inform better action; therefore, any cognitive load devoted to processing them is extraneous. The Dichotomy eliminates this load systematically.
 
-The contrast with common cognitive patterns is stark. Without systematic control-discernment training, individuals typically engage in what might be called "undifferentiated processing"—applying similar cognitive effort to both controllable and uncontrollable domains. This creates several pathologies: (1) [[Rumination]] on past uncontrollable events, consuming resources that could address present controllable situations; (2) anxiety about future uncontrollable outcomes, likewise wasting [[working-memory]] capacity; (3) frustration with uncontrollable aspects of controllable situations, preventing effective action on the controllable components; and (4) learned helplessness from repeated failure to control the uncontrollable, generalizing inappropriately to controllable domains.
+The contrast with common cognitive patterns is stark. Without systematic control-discernment training, individuals typically engage in what might be called "undifferentiated processing"—applying similar cognitive effort to both controllable and uncontrollable domains. This creates several pathologies: (1) [[rumination]] on past uncontrollable events, consuming resources that could address present controllable situations; (2) anxiety about future uncontrollable outcomes, likewise wasting [[working-memory]] capacity; (3) frustration with uncontrollable aspects of controllable situations, preventing effective action on the controllable components; and (4) learned helplessness from repeated failure to control the uncontrollable, generalizing inappropriately to controllable domains.
 
 ### Rumination Prevention Through Temporal and Causal Boundaries
 
@@ -311,7 +311,7 @@ The temporal dimension is particularly important for [[personal-knowledge-base]]
 
 ### Forcing Functions for Rational Assessment
 
-The Dichotomy creates **[[Forcing Functions]]**—architectural constraints that compel specific behaviors—for rational assessment of action possibilities. By requiring every situation to be explicitly classified as controllable or uncontrollable, it forces conscious [[Metacognitive]] evaluation rather than automatic reaction. This aligns with research on [[Implementation-Intentions]] and [[Prospective Memory]]: pre-established decision rules ("If [situation], then [response]") dramatically improve execution compared to vague intentions.
+The Dichotomy creates **[[Forcing Functions]]**—architectural constraints that compel specific behaviors—for rational assessment of action possibilities. By requiring every situation to be explicitly classified as controllable or uncontrollable, it forces conscious [[Metacognitive]] evaluation rather than automatic reaction. This aligns with research on [[implementation-intentions]] and [[Prospective Memory]]: pre-established decision rules ("If [situation], then [response]") dramatically improve execution compared to vague intentions.
 
 > [!methodology-and-sources]
 > **Implementation: The Trichotomy Refinement**
@@ -611,7 +611,7 @@ Review processes should architecturally integrate acceptance of uncontrollable e
 
 ### Neural Correlates of Stoic Practice
 
-While behavioral research on [[locus-of-control]] and [[Rumination]] is extensive, the specific neural mechanisms underlying Stoic control-discernment practice remain understudied. Research shows that rumination relates to attention biases via altered frontoinsular and default network functioning, but we lack neuroimaging studies specifically examining how systematic Stoic practice might alter these networks. Future research using fMRI or EEG during control-discernment tasks could reveal whether consistent practice produces measurable changes in default mode network activity, prefrontal control network engagement, or connectivity between these systems.
+While behavioral research on [[locus-of-control]] and [[rumination]] is extensive, the specific neural mechanisms underlying Stoic control-discernment practice remain understudied. Research shows that rumination relates to attention biases via altered frontoinsular and default network functioning, but we lack neuroimaging studies specifically examining how systematic Stoic practice might alter these networks. Future research using fMRI or EEG during control-discernment tasks could reveal whether consistent practice produces measurable changes in default mode network activity, prefrontal control network engagement, or connectivity between these systems.
 
 > [!question]
 > **Critical Research Questions**

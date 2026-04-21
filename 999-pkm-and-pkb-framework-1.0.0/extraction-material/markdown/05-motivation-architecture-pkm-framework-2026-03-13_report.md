@@ -322,7 +322,7 @@ extraction_summary:
 > 
 > - **[[achievement-goal-theory|Achievement Goal Theory]]** — AGT links naturally to all notes on learning strategy, academic performance, and educational design. The mastery/performance distinction connects to [[assessment-design|Assessment Design]], [[feedback-design|Feedback Design]], and [[Learning Environment Design]] — a rich interconnection hub.
 > 
-> - **[[Stoic-Philosophy|Stoic Philosophy]]** — Your Stoic notes (if any exist) should now connect explicitly to motivational psychology notes, not merely to philosophy notes. The [[Dichotomy-of-Control|Dichotomy of Control]] → [[autonomous-motivation|Autonomous Motivation]] connection is a particularly high-value bidirectional link. [[Premeditatio-Malorum|Premeditatio Malorum]] should connect to [[Implementation-Intentions|Implementation Intentions]] and [[Obstacle Planning]] in your PKB.
+> - **[[Stoic-Philosophy|Stoic Philosophy]]** — Your Stoic notes (if any exist) should now connect explicitly to motivational psychology notes, not merely to philosophy notes. The [[Dichotomy-of-Control|Dichotomy of Control]] → [[autonomous-motivation|Autonomous Motivation]] connection is a particularly high-value bidirectional link. [[Premeditatio-Malorum|Premeditatio Malorum]] should connect to [[implementation-intentions|Implementation Intentions]] and [[Obstacle Planning]] in your PKB.
 > 
 > - **[[gamification]]** — Your PKB likely has existing notes on gamification (from technology, education, or productivity contexts). This report substantially complicates the gamification narrative — the existing note should link to SDT's [[cognitive-evaluation-theory|Cognitive Evaluation Theory]] for the undermining mechanism, and to Stoic [[Dichotomy-of-Control|Dichotomy of Control]] for the outcome-contingency problem.
 > 
@@ -504,14 +504,14 @@ extraction_summary:
 - [[gamification]]
 - [[Gamification in Learning Contexts — A Systematic Review and Design Critique]]
 - [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
-- [[Implementation-Intentions|Implementation Intentions]]
+- [[implementation-intentions|Implementation Intentions]]
 - [[Interest Development Theory and the PKB Knowledge Niche]]
 - [[internalization]]
 - [[intrinsic-motivation|Intrinsic Motivation]]
 - [[Learning Environment Design]]
 - [[Learning-Experience-Design|Learning Experience Design]]
 - [[Mastery-Goals|Mastery Goals]]
-- [[Mindset Theory]]
+- [[Mindset-Theory]]
 - [[Obstacle Planning]]
 - [[organismic-integration-theory]]
 - [[performance-goals|Performance Goals]]
@@ -530,7 +530,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Synthesis Question | 110 |
 | 2 | [[achievement-goal-theory|Achievement Goal Theory]] | — | — | The Synthesis Question | 110 |
-| 3 | [[Mindset Theory]] | — | — | The Synthesis Question | 110 |
+| 3 | [[Mindset-Theory]] | — | — | The Synthesis Question | 110 |
 | 4 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Synthesis Question | 110 |
 | 5 | [[educational-psychology|Educational Psychology]] | — | — | Disciplinary Contributions and Their ... | 118 |
 | 6 | [[self-determination-theory|Self-Determination Theory]] | — | — | Disciplinary Contributions and Their ... | 118 |
@@ -540,7 +540,7 @@ extraction_summary:
 | 10 | [[educational-psychology|Educational Psychology]] | — | — | Disciplinary Contributions and Their ... | 118 |
 | 11 | [[achievement-goal-theory|Achievement Goal Theory]] | — | — | Disciplinary Contributions and Their ... | 118 |
 | 12 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Disciplinary Contributions and Their ... | 120 |
-| 13 | [[Mindset Theory]] | — | — | Disciplinary Contributions and Their ... | 120 |
+| 13 | [[Mindset-Theory]] | — | — | Disciplinary Contributions and Their ... | 120 |
 | 14 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Disciplinary Contributions and Their ... | 122 |
 | 15 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Disciplinary Contributions and Their ... | 122 |
 | 16 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Disciplinary Contributions and Their ... | 122 |
@@ -575,7 +575,7 @@ extraction_summary:
 | 45 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 46 | [[autonomous-motivation|Autonomous Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 47 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
-| 48 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
+| 48 | [[implementation-intentions|Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 49 | [[Obstacle Planning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 50 | [[gamification]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
 | 51 | [[cognitive-evaluation-theory|Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
@@ -625,14 +625,14 @@ extraction_summary:
 - [[gamification]]
 - [[Gamification in Learning Contexts — A Systematic Review and Design Critique]]
 - [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
-- [[Implementation-Intentions|Implementation Intentions]]
+- [[implementation-intentions|Implementation Intentions]]
 - [[Interest Development Theory and the PKB Knowledge Niche]]
 - [[internalization]]
 - [[intrinsic-motivation|Intrinsic Motivation]]
 - [[Learning Environment Design]]
 - [[Learning-Experience-Design|Learning Experience Design]]
 - [[Mastery-Goals|Mastery Goals]]
-- [[Mindset Theory]]
+- [[Mindset-Theory]]
 - [[Obstacle Planning]]
 - [[organismic-integration-theory]]
 - [[performance-goals|Performance Goals]]

@@ -93,12 +93,12 @@ treatment-type: foundational-analytical
 core-concepts: ["Cognitive Load", "Intrinsic Load", "Extraneous Load", "Germane Load", "Element Interactivity", "Schema Automation", "Working Memory Constraints"]
 key-distinctions: ["Intrinsic vs. Extraneous vs. Germane Load", "Schema Construction vs. Schema Automation", "Near vs. Far Transfer under Load Constraints"]
 prerequisites: ["[[working-memory]]", "[[long-term-memory]]", "[[schema-theory]]", "[[information-processing-theory]]"]
-related: ["[[Multimedia-Learning-Theory]]", "[[instructional-design]]", "[[four-component-instructional-design-4cid]]", "[[desirable-difficulties]]", "[[metacognition]]"]
+related: ["[[multimedia-learning-theory]]", "[[instructional-design]]", "[[four-component-instructional-design-4cid]]", "[[desirable-difficulties]]", "[[metacognition]]"]
 broader: ["[[cognitive-architecture]]", "[[educational-psychology]]"]
 narrower: ["[[intrinsic-cognitive-load]]", "[[extraneous-cognitive-load]]", "[[germane-cognitive-load]]", "[[element-interactivity]]"]
 see-also: ["[[worked-example-effect]]", "[[split-attention-effect]]", "[[expertise-reversal-effect]]"]
 builds-on: ["[[working-memory]]", "[[schema-theory]]", "[[cognitive-architecture]]"]
-enables: ["[[instructional-design]]", "[[four-component-instructional-design-4cid]]", "[[Multimedia-Learning-Theory]]"]
+enables: ["[[instructional-design]]", "[[four-component-instructional-design-4cid]]", "[[multimedia-learning-theory]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -153,7 +153,7 @@ connection-strength:
 
 ## Abstract
 
-[[cognitive-load-theory]] stands among the most empirically productive frameworks in [[educational-psychology]], yet its explanatory power derives not from pedagogical intuition but from a single, unforgiving constraint: the severe processing limitations of [[working-memory]]. Developed principally by [[john-sweller]] from the mid-1980s onward, the theory holds that effective instruction must be designed in light of what human [[cognitive-architecture]] can and cannot do — and that the architecture's central bottleneck, the narrow channel through which all novel information must pass before reaching the vast, organized store of [[long-term-memory]], imposes non-negotiable boundaries on instructional form. The tripartite taxonomy of cognitive load — intrinsic, extraneous, and germane — provides the analytic vocabulary for diagnosing why some instructional formats succeed while others collapse under their own informational weight. This report traces the architectural foundations that necessitate the theory, examines each load type and the principle of [[element-interactivity]] that governs intrinsic complexity, surveys the major CLT effect principles (including the [[worked-example-effect]], [[split-attention-effect]], [[redundancy-effect]], [[modality-effect]], and [[expertise-reversal-effect]]), confronts the germane load reconceptualization that reshaped the theory after 2010, addresses the persistent measurement challenges that shadow its empirical programme, and evaluates CLT's relationship to adjacent theoretical frameworks — particularly [[Multimedia-Learning-Theory]], [[desirable-difficulties]], and [[self-regulated-learning]]. Throughout, the treatment maintains a dual focus: analytical precision regarding the theory's internal architecture and critical honesty regarding its unresolved tensions.
+[[cognitive-load-theory]] stands among the most empirically productive frameworks in [[educational-psychology]], yet its explanatory power derives not from pedagogical intuition but from a single, unforgiving constraint: the severe processing limitations of [[working-memory]]. Developed principally by [[john-sweller]] from the mid-1980s onward, the theory holds that effective instruction must be designed in light of what human [[cognitive-architecture]] can and cannot do — and that the architecture's central bottleneck, the narrow channel through which all novel information must pass before reaching the vast, organized store of [[long-term-memory]], imposes non-negotiable boundaries on instructional form. The tripartite taxonomy of cognitive load — intrinsic, extraneous, and germane — provides the analytic vocabulary for diagnosing why some instructional formats succeed while others collapse under their own informational weight. This report traces the architectural foundations that necessitate the theory, examines each load type and the principle of [[element-interactivity]] that governs intrinsic complexity, surveys the major CLT effect principles (including the [[worked-example-effect]], [[split-attention-effect]], [[redundancy-effect]], [[modality-effect]], and [[expertise-reversal-effect]]), confronts the germane load reconceptualization that reshaped the theory after 2010, addresses the persistent measurement challenges that shadow its empirical programme, and evaluates CLT's relationship to adjacent theoretical frameworks — particularly [[multimedia-learning-theory]], [[desirable-difficulties]], and [[self-regulated-learning]]. Throughout, the treatment maintains a dual focus: analytical precision regarding the theory's internal architecture and critical honesty regarding its unresolved tensions.
 
 > [!schema-activation] **Activating Prior Knowledge: The Bottleneck You Already Navigate**
 > Consider a familiar experience: attempting to follow complex spoken instructions while simultaneously reading a diagram, holding a question in mind, and suppressing the impulse to skip ahead. The strain — that distinctive cognitive pressure where information seems to overflow its container — is not a failure of effort or intelligence. It is the signature of a processing architecture that was never designed for the informational densities of modern instruction. If [[working-memory]] and [[schema-theory]] are already established nodes in one's knowledge network, then [[cognitive-load-theory]] can be understood as the systematic effort to reverse-engineer that architecture's constraints into actionable design principles. The guiding question for this report: *What does it mean to design instruction that respects, rather than overwhelms, the cognitive architecture through which all learning must pass — and where do the theory's own assumptions begin to strain under scrutiny?*
@@ -291,9 +291,9 @@ The [[redundancy-effect]] represents the inverse case: when multiple information
 >
 > **Boundary:** The modality effect requires that the two sources provide genuinely complementary information and that the auditory channel is not itself overloaded. It interacts with the redundancy effect: dual-channel presentation of *redundant* information can increase rather than decrease extraneous load.
 >
-> **See also:** [[Baddeley's-Working-Memory-Model]], [[dual-coding-theory]], [[Multimedia-Learning-Theory]]
+> **See also:** [[Baddeley's-Working-Memory-Model]], [[dual-coding-theory]], [[multimedia-learning-theory]]
 
-The modality effect connects CLT to [[Richard-Mayer]]'s [[Multimedia-Learning-Theory]], which independently developed a set of principles for multimedia instruction grounded in a similar dual-channel processing architecture. The convergence is not coincidental — both theories derive their predictions from the same architectural constraints — but the theoretical emphases differ. CLT focuses primarily on load management; Mayer's framework emphasizes active cognitive processing (selecting, organizing, integrating) across dual channels. The relationship between these frameworks is one of the more productive zones in the instructional design literature, though it also generates boundary disputes about which framework offers the more parsimonious account of specific phenomena.
+The modality effect connects CLT to [[Richard-Mayer]]'s [[multimedia-learning-theory]], which independently developed a set of principles for multimedia instruction grounded in a similar dual-channel processing architecture. The convergence is not coincidental — both theories derive their predictions from the same architectural constraints — but the theoretical emphases differ. CLT focuses primarily on load management; Mayer's framework emphasizes active cognitive processing (selecting, organizing, integrating) across dual channels. The relationship between these frameworks is one of the more productive zones in the instructional design literature, though it also generates boundary disputes about which framework offers the more parsimonious account of specific phenomena.
 
 ### The Expertise Reversal Effect
 
@@ -483,7 +483,7 @@ The paradox connects to the practical challenge identified in Section 6: CLT's s
 For CLT, the most consequential schema-theoretic question is whether [[schema-automation]] — the process by which well-practiced schemas become automatic and cease to consume working memory — is gradual or threshold-like. If gradual, then the expertise reversal effect should be a smooth transition; if threshold-like, there should be discontinuities. The empirical evidence suggests gradual transition, which aligns with CLT's standard account but creates practical difficulties for the "rapid diagnostic assessment" approaches to expertise calibration.
 
 > [!key-claim] **CLT's Neighbour Relations: A Summary Assessment**
-> [[cognitive-load-theory]] stands in productive but unresolved tension with [[desirable-difficulties]] (when does load management yield to difficulty enhancement?), in convergent relationship with [[Multimedia-Learning-Theory]] (same architecture, different analytical emphasis), in under-theorized relationship with [[metacognition]] and [[self-regulated-learning]] (the metacognitive load paradox), and in constitutive dependency on [[schema-theory]] (inheriting its explanatory power and its measurement challenges). These relationships collectively define the theory's current frontier — the zones where future development must occur if CLT is to evolve from a powerful but architecturally bounded account of initial instruction into a comprehensive framework for understanding cognitive processing across the full arc of learning.
+> [[cognitive-load-theory]] stands in productive but unresolved tension with [[desirable-difficulties]] (when does load management yield to difficulty enhancement?), in convergent relationship with [[multimedia-learning-theory]] (same architecture, different analytical emphasis), in under-theorized relationship with [[metacognition]] and [[self-regulated-learning]] (the metacognitive load paradox), and in constitutive dependency on [[schema-theory]] (inheriting its explanatory power and its measurement challenges). These relationships collectively define the theory's current frontier — the zones where future development must occur if CLT is to evolve from a powerful but architecturally bounded account of initial instruction into a comprehensive framework for understanding cognitive processing across the full arc of learning.
 
 > [!section-summary] **Section 7 Summary**
 > - CLT and desirable difficulties operate on different learning phases — initial schema construction versus consolidation and transfer — and are complementary rather than contradictory, though the handoff point remains unspecified.
@@ -511,7 +511,7 @@ The transfer literature distinguishes [[Near-Transfer]] (application to closely 
 >
 > **Boundary Condition:** Clinical reasoning involves time pressure, emotional stakes, and team dynamics that CLT's cognitive-only architecture does not address. The transfer is structural, not comprehensive.
 >
-> **See also:** [[Clinical-Reasoning]], [[Evidence-Based-Medicine]], [[Medical-Education]]
+> **See also:** [[Clinical-Reasoning]], [[Evidence-Based-Medicine]], [[medical-education]]
 
 > [!far-transfer] **Domain 2: User Interface and Human-Computer Interaction Design**
 > **Structural Principle:** Extraneous load arises from processing demands that do not contribute to the task goal; interface design is fundamentally a load management problem.
@@ -520,7 +520,7 @@ The transfer literature distinguishes [[Near-Transfer]] (application to closely 
 >
 > **Boundary Condition:** Interface design must also address aesthetic experience, emotional engagement, and brand identity — factors outside CLT's cognitive scope.
 >
-> **See also:** [[User-Experience-Design]], [[progressive-disclosure]], [[Information-Architecture]]
+> **See also:** [[user-experience-design]], [[progressive-disclosure]], [[Information-Architecture]]
 
 > [!far-transfer] **Domain 3: Athletic Coaching and Motor Skill Acquisition**
 > **Structural Principle:** Schema automation reduces working memory demands, freeing capacity for strategic processing; the transition from controlled to automatic processing determines when instruction should shift from supportive to challenging.
@@ -1036,13 +1036,13 @@ The guiding question posed in the schema activation — *What is Cognitive Load 
 >
 > - **[[instructional-design]]** — CLT's primary application domain. Every effect principle in this report translates into specific design recommendations for educational materials, training programmes, and learning environments.
 >
-> - **[[Multimedia-Learning-Theory]]** — Mayer's framework shares CLT's architecture and generates convergent design principles. This report's analysis of the convergence and subtle divergence enables deeper understanding of multimedia design rationale.
+> - **[[multimedia-learning-theory]]** — Mayer's framework shares CLT's architecture and generates convergent design principles. This report's analysis of the convergence and subtle divergence enables deeper understanding of multimedia design rationale.
 >
-> - **[[User-Experience-Design]]** — The far transfer analysis (Domain 2) maps CLT principles onto interface design challenges, connecting cognitive load management to usability heuristics and interaction design patterns.
+> - **[[user-experience-design]]** — The far transfer analysis (Domain 2) maps CLT principles onto interface design challenges, connecting cognitive load management to usability heuristics and interaction design patterns.
 >
 > - **[[personal-knowledge-management]]** — The far transfer analysis (Domain 4) positions PKB architecture as cognitive offloading, connecting CLT to the design principles underlying Zettelkasten, atomic notes, and knowledge graph construction.
 >
-> - **[[Medical-Education]]** — The far transfer analysis (Domain 1) connects CLT to clinical reasoning and case-based instruction, enabling analysis of medical training through an information-processing lens.
+> - **[[medical-education]]** — The far transfer analysis (Domain 1) connects CLT to clinical reasoning and case-based instruction, enabling analysis of medical training through an information-processing lens.
 >
 > **3. Lateral Connections (mutual enrichment)**
 >

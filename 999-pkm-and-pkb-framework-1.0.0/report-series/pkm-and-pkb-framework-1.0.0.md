@@ -86,7 +86,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 01, 02 | **Feeds into**: Reports 06, 09, 12, 18
 
 **Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn**
-- **Synthesis Focus**: How do [[self-determination-theory|Self-Determination Theory]], [[achievement-goal-theory|Achievement Goal Theory]], and [[Mindset Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
+- **Synthesis Focus**: How do [[self-determination-theory|Self-Determination Theory]], [[achievement-goal-theory|Achievement Goal Theory]], and [[Mindset-Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
 - **Disciplines**: Educational Psychology (SDT, AGT, mindset), Psychology of Learning (motivation), Stoic Philosophy (discipline, virtue), Learning Experience Design (engagement)
 - **PKM/PKB Design Target**: Gamification vs. genuine engagement, progress visibility, autonomy-supporting design, mastery orientation
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
@@ -908,7 +908,7 @@ Every report draws from a core set of disciplines, using them as complementary l
 | **[[Educational-Philosophy|Educational Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[constructivism]], [[Critical Pedagogy]] |
 | **[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory|Elaboration Theory]] |
 | **[[Learning-Experience-Design|Learning Experience Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
-| **[[Knowledge-Management|Knowledge Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model|SECI Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]] |
+| **[[knowledge-management|Knowledge Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model|SECI Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]] |
 | **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[spaced-repetition-spacing-effect|Spacing Effect]], [[testing-effect-retrieval-practice-effect|Testing Effect]], [[interleaving]], [[desirable-difficulties|Desirable Difficulties]] |
 | **[[Stoic-Philosophy|Stoic Philosophy]]** | Resilience, emotional regulation, virtue-based growth | [[Dichotomy-of-Control|Dichotomy of Control]], [[Premeditatio-Malorum|Premeditatio Malorum]], [[virtue-ethics]] |
 | **[[Socratic Philosophy]]** | Inquiry, self-examination, dialogue-based learning | [[Socratic-Method-Elenchus|Socratic Method]], [[Socratic-Method-Elenchus|Elenchus]], [[aporia]] |
@@ -1693,7 +1693,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 01, 02 | **Feeds into**: Reports 06, 09, 12, 18
 
 **Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn**
-- **Synthesis Focus**: How do [[self-determination-theory|Self-Determination Theory]], [[achievement-goal-theory|Achievement Goal Theory]], and [[Mindset Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
+- **Synthesis Focus**: How do [[self-determination-theory|Self-Determination Theory]], [[achievement-goal-theory|Achievement Goal Theory]], and [[Mindset-Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
 - **Disciplines**: Educational Psychology (SDT, AGT, mindset), Psychology of Learning (motivation), Stoic Philosophy (discipline, virtue), Learning Experience Design (engagement)
 - **PKM/PKB Design Target**: Gamification vs. genuine engagement, progress visibility, autonomy-supporting design, mastery orientation
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19

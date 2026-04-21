@@ -28,7 +28,7 @@ link-related:
   - "[[working-memory]]"
   - "[[Focus Of Attention]]"
   - "[[Illusions Of Comprehension]]"
-  - "[[Knowledge-Management]]"
+  - "[[knowledge-management]]"
   - "[[cognitive-psychology]]"
   - "[[cognitive-biases]]"
 maturity: seedling

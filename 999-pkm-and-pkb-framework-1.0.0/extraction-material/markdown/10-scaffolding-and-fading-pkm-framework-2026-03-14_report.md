@@ -166,7 +166,7 @@ extraction_summary:
 #### 6. [DEFINITION] Fading — Instructional Design / Collins, Brown & Newman (1989) *(Line 153)*
 
 > [!definition] Fading — Instructional Design / Collins, Brown & Newman (1989)
-> The deliberate, graduated withdrawal of instructional support as learner competence increases. Collins, Brown, and Newman's [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] framework identified fading as one of the four core instructional methods (alongside modeling, coaching, and articulation). Fading is not the same as abandonment of support — it is a systematic reduction in both the intensity and frequency of scaffolding, timed to match demonstrated competence. The critical design challenge of fading is that it must be *triggered by evidence of competence* rather than by time elapsed or content coverage. Premature fading produces failure and frustration; delayed fading produces learned helplessness and scaffold dependency.
+> The deliberate, graduated withdrawal of instructional support as learner competence increases. Collins, Brown, and Newman's [[cognitive-apprenticeship|Cognitive Apprenticeship]] framework identified fading as one of the four core instructional methods (alongside modeling, coaching, and articulation). Fading is not the same as abandonment of support — it is a systematic reduction in both the intensity and frequency of scaffolding, timed to match demonstrated competence. The critical design challenge of fading is that it must be *triggered by evidence of competence* rather than by time elapsed or content coverage. Premature fading produces failure and frustration; delayed fading produces learned helplessness and scaffold dependency.
 
 #### 7. [DEFINITION] Expertise Reversal Effect — Cognitive Psychology / Kalyuga, Chandler, Tuovinen & Sweller (2001) *(Line 156)*
 
@@ -577,7 +577,7 @@ extraction_summary:
 
 - [[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]
 - [[andragogy]]
-- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
+- [[cognitive-apprenticeship|Cognitive Apprenticeship]]
 - [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review|Double-Loop Learning in Practice: Templates for PKB Meta-Review]]
@@ -631,7 +631,7 @@ extraction_summary:
 | 10 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | The PAH Spectrum: A Developmental Arc... | 142 |
 | 11 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | The PAH Spectrum: A Developmental Arc... | 151 |
 | 12 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | The PAH Spectrum: A Developmental Arc... | 151 |
-| 13 | [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] | — | — | The PAH Spectrum: A Developmental Arc... | 154 |
+| 13 | [[cognitive-apprenticeship|Cognitive Apprenticeship]] | — | — | The PAH Spectrum: A Developmental Arc... | 154 |
 | 14 | [[andragogy]] | PAH spectrum | — | The PAH Spectrum: A Developmental Arc... | 167 |
 | 15 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | The PAH Spectrum: A Developmental Arc... | 167 |
 | 16 | [[Report 05: Motivation Architecture]] | — | — | The Empirical Record on Expertise and... | 211 |
@@ -695,7 +695,7 @@ extraction_summary:
 
 - [[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]
 - [[andragogy]]
-- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
+- [[cognitive-apprenticeship|Cognitive Apprenticeship]]
 - [[cognitive-load-theory|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review|Double-Loop Learning in Practice: Templates for PKB Meta-Review]]

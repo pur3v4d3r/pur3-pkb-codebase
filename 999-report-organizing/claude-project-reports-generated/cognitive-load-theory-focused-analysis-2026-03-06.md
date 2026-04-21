@@ -161,7 +161,7 @@ contrasts-with:
   - "[[Constructivist Learning Approaches]]"
 
 applied-in:
-  - "[[Curriculum Design]]"
+  - "[[curriculum-design]]"
   - "[[E-Learning and Technology-Enhanced Learning]]"
   - "[[Medical and Professional Education]]"
   - "[[Mathematics Education Research]]"
@@ -536,7 +536,7 @@ CLT's theoretical architecture — particularly the germane load construct — i
 > 
 > **Application**: If you were to summarize the practical takeaway from this analysis for a colleague who had heard of CLT but never engaged with it deeply, what three-sentence encapsulation would you offer?
 > 
-> **Extension**: What is the next question this analysis leaves you wanting to pursue? Where does the treatment here open a gap that a follow-on analysis of [[desirable-difficulties|Desirable Difficulties]], [[Multimedia-Learning-Theory|Multimedia Learning Theory]], or [[Adaptive-Instruction|Adaptive Instruction]] might close?
+> **Extension**: What is the next question this analysis leaves you wanting to pursue? Where does the treatment here open a gap that a follow-on analysis of [[desirable-difficulties|Desirable Difficulties]], [[multimedia-learning-theory|Multimedia Learning Theory]], or [[Adaptive-Instruction|Adaptive Instruction]] might close?
 
 ---
 

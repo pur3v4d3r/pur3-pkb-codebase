@@ -1,0 +1,65 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Multimedia-Learning-Theory"
+aliases:
+  - "Multimedia-Learning-Theory"
+type: permanent-note
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - educational-psychology
+
+domain: educational-psychology
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-21
+updated: 2026-04-21
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 4
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]"
+  - "[[the-metacognitive-load-paradox]]"
+  - "[[the-modality-effect]]"
+  - "[[working-memory-in-the-clt-framework]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: low
+---
+
+# Multimedia-Learning-Theory
+
+> [!definition] **Multimedia-Learning-Theory**
+> *Stub note — concept referenced by 4 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+*Auto-generated stub — referenced by 4 permanent notes.*
+
+## Referenced By
+
+- [[_Master-PKB-Connections-Index|_Master-PKB-Connections-Index]]
+- [[the-metacognitive-load-paradox]]
+- [[the-modality-effect]]
+- [[working-memory-in-the-clt-framework]]

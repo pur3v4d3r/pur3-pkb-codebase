@@ -28,11 +28,11 @@ link-related:
   - "[[schemas]]"
   - "[[Self-Regulation-Theory]]"
   - "[[Mocs]]"
-  - "[[Atomic-Notes]]"
+  - "[[atomic-notes]]"
   - "[[planning]]"
   - "[[Self Behavioral Management]]"
   - "[[long-term-memory]]"
-  - "[[Long-Term-Working-Memory]]"
+  - "[[long-term-working-memory]]"
   - "[[planning]]"
   - "[[critical-thinking]]"
 maturity: seedling
@@ -70,7 +70,7 @@ review-priority: medium
 - *Application*: Critical for complex reasoning, problem-solving, and connecting new knowledge to existing [[schemas|schemas]]
 
 > [!connections-and-links]
-> - The relationship with [[Long-Term-Working-Memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to [[chunking|chunk]] information efficiently, effectively expanding [[working-memory]] capacity within their domain of expertise.
+> - The relationship with [[long-term-working-memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to [[chunking|chunk]] information efficiently, effectively expanding [[working-memory]] capacity within their domain of expertise.
 
 > [!connection-ideas]
 > **The Cognitive Load Relationship**

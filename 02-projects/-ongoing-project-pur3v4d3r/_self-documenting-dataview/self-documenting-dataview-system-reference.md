@@ -699,7 +699,7 @@ For literature review and research notes:
 ```markdown
 - Research meta
   - methodology:: [[Grounded Theory]]
-  - theoretical-framework:: [[Social Cognitive Theory]]
+  - theoretical-framework:: [[social-cognitive-theory]]
   - analysis-methods:: [[Thematic Analysis]]
   - citations:: [@Smith2023], [@Jones2024]
 ```

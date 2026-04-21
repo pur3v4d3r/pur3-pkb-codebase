@@ -30,7 +30,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Integrated Development Environment]]
+> - **Key-Term**:: [[integrated-development-environment]]
 > - [**Definition**:: Using the PKB for Prompting.]
 
 

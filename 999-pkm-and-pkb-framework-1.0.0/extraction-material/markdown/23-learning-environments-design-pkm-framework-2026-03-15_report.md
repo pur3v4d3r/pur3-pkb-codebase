@@ -229,7 +229,7 @@ extraction_summary:
 #### 15. [TENSION-IDENTIFIED] Social Learning vs. Personal Knowledge Base *(Line 245)*
 
 > [!tension-identified] Social Learning vs. Personal Knowledge Base
-> Situated learning theory presents a genuine challenge for PKB design that cannot be resolved by clever architectural choices. Vygotsky's ZPD, Lave and Wenger's communities of practice, and [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]'s [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] model all locate the engine of deep learning in social interaction — dialogue, observation of expert practice, feedback from the community. A personal PKB is, by definition, a solo artifact. The tension is real: if the most powerful learning environments are fundamentally social, a personal knowledge base may be structurally incapable of replicating their most important features. The honest resolution is not to deny this limitation but to design the PKB to be a complement to social learning rather than a replacement for it — capturing, processing, and extending what is learned through social interaction, while remaining aware of what solo practice cannot achieve. This connects to findings from [[Report 22: Tacit Knowledge and the Limits of Capture]].
+> Situated learning theory presents a genuine challenge for PKB design that cannot be resolved by clever architectural choices. Vygotsky's ZPD, Lave and Wenger's communities of practice, and [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]'s [[cognitive-apprenticeship|Cognitive Apprenticeship]] model all locate the engine of deep learning in social interaction — dialogue, observation of expert practice, feedback from the community. A personal PKB is, by definition, a solo artifact. The tension is real: if the most powerful learning environments are fundamentally social, a personal knowledge base may be structurally incapable of replicating their most important features. The honest resolution is not to deny this limitation but to design the PKB to be a complement to social learning rather than a replacement for it — capturing, processing, and extending what is learned through social interaction, while remaining aware of what solo practice cannot achieve. This connects to findings from [[Report 22: Tacit Knowledge and the Limits of Capture]].
 
 #### 16. [EVIDENCE] Learner-Controlled Environments and Self-Regulation (Dabbagh and Kitsantas, 2012) *(Line 252)*
 
@@ -536,7 +536,7 @@ extraction_summary:
 
 - [[Activity-Theory|Activity Theory]]
 - [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]
-- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
+- [[cognitive-apprenticeship|Cognitive Apprenticeship]]
 - [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]
 - [[Cognitive-Tools|Cognitive Tools]]
 - [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]
@@ -568,7 +568,7 @@ extraction_summary:
 - [[Object of PKM Activity]]
 - [[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]
 - [[personal-knowledge-base|Personal Knowledge Base]]
-- [[Personal-Learning-Environments]]
+- [[personal-learning-environments]]
 - [[Personal Learning Environments and PKB Alignment]]
 - [[Physical Space Design and Knowledge Work Environments]]
 - [[Question-Embedded Notes]]
@@ -639,9 +639,9 @@ extraction_summary:
 | 30 | [[communities-of-practice|Communities of Practice]] | — | — | The Environmental Effects Literature:... | 243 |
 | 31 | [[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]] | — | — | The Environmental Effects Literature:... | 243 |
 | 32 | [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]] | — | — | The Environmental Effects Literature:... | 246 |
-| 33 | [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] | — | — | The Environmental Effects Literature:... | 246 |
+| 33 | [[cognitive-apprenticeship|Cognitive Apprenticeship]] | — | — | The Environmental Effects Literature:... | 246 |
 | 34 | [[Report 22: Tacit Knowledge and the Limits of Capture]] | — | — | The Environmental Effects Literature:... | 246 |
-| 35 | [[Personal-Learning-Environments]] | — | — | Evidence on Digital Learning Environm... | 250 |
+| 35 | [[personal-learning-environments]] | — | — | Evidence on Digital Learning Environm... | 250 |
 | 36 | [[self-determination-theory|Self-Determination Theory]] | — | — | Evidence on Digital Learning Environm... | 250 |
 | 37 | [[Universal-Design-for-Learning]] | — | — | Evidence on Digital Learning Environm... | 255 |
 | 38 | [[schema-construction|Schema Construction]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
@@ -716,7 +716,7 @@ extraction_summary:
 
 - [[Activity-Theory|Activity Theory]]
 - [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]
-- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
+- [[cognitive-apprenticeship|Cognitive Apprenticeship]]
 - [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]
 - [[Cognitive-Tools|Cognitive Tools]]
 - [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]
@@ -748,7 +748,7 @@ extraction_summary:
 - [[Object of PKM Activity]]
 - [[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]
 - [[personal-knowledge-base|Personal Knowledge Base]]
-- [[Personal-Learning-Environments]]
+- [[personal-learning-environments]]
 - [[Personal Learning Environments and PKB Alignment]]
 - [[Physical Space Design and Knowledge Work Environments]]
 - [[Question-Embedded Notes]]

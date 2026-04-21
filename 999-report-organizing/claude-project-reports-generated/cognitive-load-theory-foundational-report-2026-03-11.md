@@ -116,7 +116,7 @@ contrasts-with:
   - "[[constructivism|Constructivism (Radical)]]"
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
-  - "[[Medical Education]]"
+  - "[[medical-education]]"
   - "[[STEM Education]]"
   - "[[e-Learning-Design|e-Learning Design]]"
   - "[[Complex Skill Training]]"

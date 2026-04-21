@@ -269,7 +269,7 @@ Every report draws from a core set of disciplines, using them as complementary l
 | **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[constructivism]], [[Critical Pedagogy]] |
 | **[[instructional-design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory]] |
 | **[[Learning-Experience-Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
-| **[[Knowledge-Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems]] |
+| **[[knowledge-management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems]] |
 | **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[spacing-effect]], [[Testing-Effect]], [[interleaving]], [[desirable-difficulties]] |
 | **[[Stoic-Philosophy]]** | Resilience, emotional regulation, virtue-based growth | [[Dichotomy-of-Control]], [[Premeditatio-Malorum]], [[virtue-ethics]] |
 | **[[Socratic Philosophy]]** | Inquiry, self-examination, dialogue-based learning | [[socratic-method]], [[elenchus]], [[aporia]] |
@@ -1054,7 +1054,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 01, 02 | **Feeds into**: Reports 06, 09, 12, 18
 
 **Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn**
-- **Synthesis Focus**: How do [[self-determination-theory]], [[achievement-goal-theory]], and [[Mindset Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
+- **Synthesis Focus**: How do [[self-determination-theory]], [[achievement-goal-theory]], and [[Mindset-Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
 - **Disciplines**: Educational Psychology (SDT, AGT, mindset), Psychology of Learning (motivation), Stoic Philosophy (discipline, virtue), Learning Experience Design (engagement)
 - **PKM/PKB Design Target**: Gamification vs. genuine engagement, progress visibility, autonomy-supporting design, mastery orientation
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
@@ -1156,7 +1156,7 @@ These reports tackle the most sophisticated integration challenges and edge case
 - **Disciplines**: Knowledge Management, Philosophy of Mind, Cognitive Science, Educational Philosophy
 
 **Report 23: Learning Environments Design — The PKB as a Constructed Learning Space**
-- **Synthesis Focus**: How do [[Constructivist Learning Environments]], [[zone-of-proximal-development]], [[Learning-Experience-Design]], and [[Educational-Technology]] principles combine to frame the PKB as a designed learning environment rather than a mere storage system?
+- **Synthesis Focus**: How do [[Constructivist Learning Environments]], [[zone-of-proximal-development]], [[Learning-Experience-Design]], and [[educational-technology]] principles combine to frame the PKB as a designed learning environment rather than a mere storage system?
 - **Disciplines**: Educational Science, Constructivism, Learning Experience Design, Educational Technology
 
 **Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy**

@@ -2662,7 +2662,7 @@ Magnus Aasrud maintains an impressive, curated list of Obsidian themes, plugins,
 > 
 > CSS snippet customization in Obsidian embodies the philosophy of **progressive personalization** - users begin with pre-built themes and incrementally customize specific elements through modular snippets. This approach balances aesthetic consistency with individual preference, enabling deep customization without overwhelming complexity.
 
-The snippet system reflects broader [[User Experience Design]] principles:
+The snippet system reflects broader [[user-experience-design]] principles:
 - **[[Modularity]]**: Small, focused files over monolithic stylesheets
 - **[[Composability]]**: Snippets combine without conflicts
 - **[[Discoverability]]**: Community sharing and searchable collections

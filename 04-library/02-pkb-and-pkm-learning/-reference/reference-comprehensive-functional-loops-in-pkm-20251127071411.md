@@ -160,7 +160,7 @@ aliases: [Functional Loops in PKM, Self-Reinforcing Learning Cycles, PKB Feedbac
 
 > [!abstract]
 > **Executive Overview**
-> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[self-regulated-learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[cognitive-science]], [[educational-psychology]], and [[Knowledge-Management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[cognitive-architecture]].
+> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[self-regulated-learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[cognitive-science]], [[educational-psychology]], and [[knowledge-management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[cognitive-architecture]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -221,7 +221,7 @@ In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a
 >
 > 2. **Initial Processing** (24-48 hours post-capture)
 >    - First retrieval attempt strengthens initial encoding
->    - Convert raw captures into [[Atomic-Notes]]
+>    - Convert raw captures into [[atomic-notes]]
 >    - Establishes foundational [[schema]]
 >
 > 3. **First Review** (3-7 days post-processing)

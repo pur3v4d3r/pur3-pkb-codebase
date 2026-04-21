@@ -1244,7 +1244,7 @@ extraction_summary:
 - [[Dunning-Kruger research]]
 - [[Educational-Philosophy]]
 - [[educational-psychology]]
-- [[Educational-Technology]]
+- [[educational-technology]]
 - [[Elaboration-Theory]]
 - [[elaborative-interrogation]]
 - [[Elaborative-Retrieval]]
@@ -1295,7 +1295,7 @@ extraction_summary:
 - [[judgment-of-learning]]
 - [[Knowledge Graph Integration]]
 - [[Knowledge-Integration]]
-- [[Knowledge-Management]]
+- [[knowledge-management]]
 - [[Knowledge Organization]]
 - [[Knowledge-Organization-Systems]]
 - [[Kolb's-Experiential-Learning-Cycle]]
@@ -1320,7 +1320,7 @@ extraction_summary:
 - [[metacognitive-scaffolding]]
 - [[metacognitive-monitoring]]
 - [[metacognitive-scaffolding]]
-- [[Mindset Theory]]
+- [[Mindset-Theory]]
 - [[Network Models of Memory]]
 - [[Nonaka's SECI Model]]
 - [[Obsidian Callout Taxonomy]]
@@ -1468,7 +1468,7 @@ extraction_summary:
 | 12 | [[reflective-thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 83 |
 | 13 | [[self-determination-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
 | 14 | [[achievement-goal-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
-| 15 | [[Mindset Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
+| 15 | [[Mindset-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
 | 16 | [[spacing-effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
 | 17 | [[Testing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
 | 18 | [[interleaving]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
@@ -1530,7 +1530,7 @@ extraction_summary:
 | 74 | [[Constructivist Learning Environments]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 75 | [[zone-of-proximal-development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 76 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
-| 77 | [[Educational-Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
+| 77 | [[educational-technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 78 | [[pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 79 | [[andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 80 | [[heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
@@ -1615,7 +1615,7 @@ extraction_summary:
 | 159 | [[UX for Learning]] | — | — | The Disciplinary Toolkit | 910 |
 | 160 | [[Learner Journey Mapping]] | — | — | The Disciplinary Toolkit | 910 |
 | 161 | [[Engagement Design]] | — | — | The Disciplinary Toolkit | 910 |
-| 162 | [[Knowledge-Management]] | — | — | The Disciplinary Toolkit | 911 |
+| 162 | [[knowledge-management]] | — | — | The Disciplinary Toolkit | 911 |
 | 163 | [[SECI-Model]] | — | — | The Disciplinary Toolkit | 911 |
 | 164 | [[PKM Frameworks]] | — | — | The Disciplinary Toolkit | 911 |
 | 165 | [[Knowledge-Organization-Systems]] | — | — | The Disciplinary Toolkit | 911 |
@@ -1660,7 +1660,7 @@ extraction_summary:
 | 204 | [[reflective-thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1690 |
 | 205 | [[self-determination-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
 | 206 | [[achievement-goal-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
-| 207 | [[Mindset Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
+| 207 | [[Mindset-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
 | 208 | [[spacing-effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
 | 209 | [[Testing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
 | 210 | [[interleaving]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
@@ -1722,7 +1722,7 @@ extraction_summary:
 | 266 | [[Constructivist Learning Environments]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 267 | [[zone-of-proximal-development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 268 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
-| 269 | [[Educational-Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
+| 269 | [[educational-technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 270 | [[pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 271 | [[andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 272 | [[heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
@@ -2941,7 +2941,7 @@ tags:
 - [[Dunning-Kruger research]]
 - [[Educational-Philosophy]]
 - [[educational-psychology]]
-- [[Educational-Technology]]
+- [[educational-technology]]
 - [[Elaboration-Theory]]
 - [[elaborative-interrogation]]
 - [[Elaborative-Retrieval]]
@@ -2992,7 +2992,7 @@ tags:
 - [[judgment-of-learning]]
 - [[Knowledge Graph Integration]]
 - [[Knowledge-Integration]]
-- [[Knowledge-Management]]
+- [[knowledge-management]]
 - [[Knowledge Organization]]
 - [[Knowledge-Organization-Systems]]
 - [[Kolb's-Experiential-Learning-Cycle]]
@@ -3017,7 +3017,7 @@ tags:
 - [[metacognitive-scaffolding]]
 - [[metacognitive-monitoring]]
 - [[metacognitive-scaffolding]]
-- [[Mindset Theory]]
+- [[Mindset-Theory]]
 - [[Network Models of Memory]]
 - [[Nonaka's SECI Model]]
 - [[Obsidian Callout Taxonomy]]

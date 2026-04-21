@@ -244,7 +244,7 @@
 - [[emotional-granularity]] — 2× integrating
 - [[appraisal-theory]] — 2× integrating
 - [[Phronesis]] — 2× integrating
-- [[Naturalistic-Decision-Making]] — 2× integrating
+- [[naturalistic-decision-making]] — 2× integrating
 - [[virtue-epistemology]] — 2× integrating
 - [[Kathekon]] — 2× integrating
 - [[Social-Epistemology]] — 2× integrating
@@ -1119,7 +1119,7 @@ occurrences: 10
 ## Related Concepts
 
 - [[emotional-granularity]] (4× co-occurrence)
-- [[Naturalistic-Decision-Making]] (3× co-occurrence)
+- [[naturalistic-decision-making]] (3× co-occurrence)
 - [[Kathekon]] (2× co-occurrence)
 - [[Social-Epistemology]] (2× co-occurrence)
 - [[distributed-cognition]] (2× co-occurrence)

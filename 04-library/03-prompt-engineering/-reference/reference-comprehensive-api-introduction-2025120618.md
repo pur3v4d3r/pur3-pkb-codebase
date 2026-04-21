@@ -192,7 +192,7 @@ link-related:
 > ├─ Agent architectures for research workflows
 > └─ Local LLM integration (Ollama)
 > **WIKI-LINK OPPORTUNITIES IDENTIFIED:**
-> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic-API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[Error Handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Self-Consistency]], [[Constitutional-AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search]], [[Knowledge Graphs]], [[obsidian-dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
+> [[API Endpoints]], [[Token Economics]], [[System Messages]], [[Function Calling]], [[LangChain]], [[Prompt Templates]], [[Context Windows]], [[Streaming Responses]], [[Rate Limiting]], [[LLM Orchestration]], [[Agentic Workflows]], [[REST APIs]], [[Python SDK]], [[OpenAI API]], [[Anthropic-API]], [[Google AI API]], [[Cost Optimization]], [[Prompt Caching]], [[Batch Processing]], [[JSON Mode]], [[Tool Use]], [[Multi-turn Conversations]], [[Temperature Settings]], [[Top-p Sampling]], [[Max Tokens]], [[Stop Sequences]], [[Logit Bias]], [[Response Formatting]], [[error-handling]], [[Retry Logic]], [[Async Processing]], [[Concurrent Requests]], [[API Keys]], [[Environment Variables]], [[dotenv]], [[Request Headers]], [[OAuth]], [[Jupyter Notebooks]], [[VSCode Extensions]], [[Postman]], [[curl]], [[httpie]], [[Requests Library]], [[OpenAI Python]], [[Anthropic Python SDK]], [[Google GenerativeAI]], [[LlamaIndex]], [[Semantic Kernel]], [[Haystack]], [[DSPy]], [[Guidance]], [[LMQL]], [[Prompt Flow]], [[Agent Protocols]], [[ReAct Pattern]], [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Self-Consistency]], [[Constitutional-AI]], [[RLHF]], [[Fine-tuning]], [[Few-Shot-Learning]], [[Zero-shot Learning]], [[Embeddings]], [[Vector Databases]], [[RAG Systems]], [[Semantic-Search]], [[Knowledge Graphs]], [[obsidian-dataview]], [[Templater]], [[QuickAdd]], [[Meta Bind]], [[Ollama API]], [[Local LLM Serving]], [[Model Quantization]], [[GGUF Format]], [[Context Length]], [[Sliding Window]], [[KV Cache]], [[Speculative Decoding]]
 > **CALLOUT STRATEGY:**
 > - [!abstract] - Executive overview
 > - [!important] - Cost considerations and breaking points
@@ -297,7 +297,7 @@ For research-intensive knowledge workers leveraging [[Agentic Workflows]], this 
 > - **Infrastructure**: $0.50-2.00 per 1,000 calls for hosting, load balancing, redundancy
 > - **Tool Use Tokens**: System prompts for [[Function Calling]] add 200-1,000 tokens per request
 > - **Monitoring/Logging**: [[Token Tracking]] and analytics infrastructure costs
-> - **Development Time**: Initial setup, [[Error Handling]], [[Retry Logic]] implementation
+> - **Development Time**: Initial setup, [[error-handling]], [[Retry Logic]] implementation
 
 ---
 
@@ -440,7 +440,7 @@ API interaction occurs through three primary patterns, each suited to different 
 
 **1. REST API (Direct HTTP Requests)**
 
-The foundational approach using [[HTTP POST]] requests to provider endpoints. Offers maximum control and language independence but requires manual [[Request Formatting]], [[Error Handling]], and [[Token Counting]].
+The foundational approach using [[HTTP POST]] requests to provider endpoints. Offers maximum control and language independence but requires manual [[Request Formatting]], [[error-handling]], and [[Token Counting]].
 
 ```python
 import requests
@@ -728,7 +728,7 @@ For PKB development workflows, **complete responses** (non-streaming) are typica
 
 ### Error Handling & Retry Patterns
 
-Production-grade API usage requires robust [[Error Handling]]:
+Production-grade API usage requires robust [[error-handling]]:
 
 ```python
 import time

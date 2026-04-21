@@ -116,10 +116,10 @@ expansion-topics:
   - topic: "[[Process Dissociation Procedures in Debiasing]]"
     description: Methodological approaches to separating automatic from controlled contributions to cognitive outcomes; implications for measuring debiasing effectiveness
     priority: medium
-  - topic: "[[Implementation Intentions and Habit Formation]]"
+  - topic: "[[Implementation-Intentions-and-Habit-Formation|Implementation Intentions and Habit Formation]]"
     description: How if-then plans encode debiasing strategies into Type 1 responses, progressively reducing the cognitive cost of governance
     priority: medium
-  - topic: "[[Cognitive-Forcing-Functions-in-Clinical-Reasoning|Cognitive Forcing Functions in Clinical Reasoning]]"
+  - topic: "[[cognitive-forcing-functions-in-clinical-reasoning|Cognitive Forcing Functions in Clinical Reasoning]]"
     description: Structured metacognitive prompts that force System 2 engagement in high-stakes domains; medical diagnostic applications
     priority: medium
 empirical-support:
@@ -461,7 +461,7 @@ Finally, the Stoic motivational architecture — the conviction that attention i
 > Gollwitzer's if-then planning framework as a technology for encoding debiasing intentions into quasi-automatic responses — progressively moving bias-correction from Type 2 deliberation to Type 1 habitual response. This provides the mechanistic account of how the governed attentional gap transitions from effortful to dispositional over the developmental trajectory.
 > **(Priority: Medium)**
 
-> [!connection-ideas] 🔗 Expansion Topic 5: [[Cognitive-Forcing-Functions-in-Clinical-Reasoning|Cognitive Forcing Functions in Clinical Reasoning]]
+> [!connection-ideas] 🔗 Expansion Topic 5: [[cognitive-forcing-functions-in-clinical-reasoning|Cognitive Forcing Functions in Clinical Reasoning]]
 > The medical education application of metacognitive governance through structured prompts (diagnostic timeout, forcing functions, checklists) that create the governed attentional gap in high-stakes clinical decision-making. The clinical domain provides particularly well-studied evidence of both the costs of ungoverned Type 1 diagnostic reasoning and the effectiveness of structured metacognitive interventions.
 > **(Priority: Medium)**
 

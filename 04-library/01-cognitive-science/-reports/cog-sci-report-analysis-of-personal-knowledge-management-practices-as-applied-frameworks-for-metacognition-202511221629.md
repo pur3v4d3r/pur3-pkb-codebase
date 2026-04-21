@@ -30,7 +30,7 @@ Aliases: [[Metacognitive PKM Frameworks]], [[Externalized Cognition in Note-Taki
 ## Phase 1: Overture & Foundation
 
 > [!abstract]
-> Personal Knowledge Management (PKM) is frequently mischaracterized as a mere productivity practice or digital filing system. In a rigorous academic context, however, PKM functions as an externalized architecture for **Metacognition**—the ability to monitor, assess, and regulate one's own cognitive processes. This analysis argues that the specific mechanics of modern PKM (linking, structuring, and reviewing) serve as applied scaffolding for **Self-Regulated Learning (SRL)**. By externalizing the relationships between [[Atomic-Notes]], the learner is forced to engage in high-order evaluation of their own understanding, transforming the vault from a storage repository into a dynamic feedback loop of epistemic growth.
+> Personal Knowledge Management (PKM) is frequently mischaracterized as a mere productivity practice or digital filing system. In a rigorous academic context, however, PKM functions as an externalized architecture for **Metacognition**—the ability to monitor, assess, and regulate one's own cognitive processes. This analysis argues that the specific mechanics of modern PKM (linking, structuring, and reviewing) serve as applied scaffolding for **Self-Regulated Learning (SRL)**. By externalizing the relationships between [[atomic-notes]], the learner is forced to engage in high-order evaluation of their own understanding, transforming the vault from a storage repository into a dynamic feedback loop of epistemic growth.
 
 > [!the-purpose]
 > To deconstruct the mechanical operations of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]—specifically linking, structuring, and reviewing—and validate them as essential cognitive instruments for achieving [[metacognition]] and deep understanding.
@@ -47,7 +47,7 @@ Aliases: [[Metacognitive PKM Frameworks]], [[Externalized Cognition in Note-Taki
 
 ### The Theoretical Basis: From Storage to Synthesis
 
-The evolution of [[Knowledge-Management]] has shifted from a focus on retrieval efficiency to a focus on generative synthesis. Historically, the "filing cabinet" model treated information as static artifacts to be preserved. However, modern cognitive science suggests that deep learning requires the active reconstruction of knowledge, a concept rooted in [[constructivism]]. When a learner engages with a PKM system, they are not merely transcribing information; they are translating external stimuli into internal mental models. This translation process relies heavily on **Self-Regulated Learning (SRL)**, a cyclical process where the learner plans, monitors, and evaluates their learning strategies.
+The evolution of [[knowledge-management]] has shifted from a focus on retrieval efficiency to a focus on generative synthesis. Historically, the "filing cabinet" model treated information as static artifacts to be preserved. However, modern cognitive science suggests that deep learning requires the active reconstruction of knowledge, a concept rooted in [[constructivism]]. When a learner engages with a PKM system, they are not merely transcribing information; they are translating external stimuli into internal mental models. This translation process relies heavily on **Self-Regulated Learning (SRL)**, a cyclical process where the learner plans, monitors, and evaluates their learning strategies.
 
 > [!core-principle]
 > **The Mirror Principle of PKM**

@@ -1,51 +1,321 @@
 ---
-title: "Self-Determination-Theory"
-aliases: []
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Self-Determination Theory"
+aliases:
+  - "Self-Determination Theory"
 type: permanent-note
 status: evergreen
 confidence: high
-domain: motivational-psychology
-subdomains: [philosophical-psychology, cross-cultural-psychology, educational-psychology, organisational-psychology, philosophy-of-mind]
-tags: [permanent-note, motivational-psychology, philosophical-psychology, cross-cultural-psychology, educational-psychology, organisational-psychology, philosophy-of-mind]
-created: '2026-04-21'
-updated: '2026-04-21'
-complexity: intermediate
-importance: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - evergreen
+  - educational-psychology
+  - comparative-synthesis
+  - self-determination-theory
+  - self-regulated-learning
+  - motivation
+  - metacognition
+  - autonomy
+  - internalization
+  - PKB-integration
+  - Zimmerman
+  - Pintrich
+
+domain: educational-psychology
+subdomains:
+  - motivational-psychology
+  - metacognition
+  - learning-science
+  - self-regulation
+  - PKB-design
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-21
+updated: 2026-04-21
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: report-extraction
+source-reports:
+  - "sdt-srl-comparative-synthesis-2026-03-19"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+pipeline-version: "2.1.0"
+extraction-date: "2026-04-21"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
+complexity-level: advanced-practitioner
+depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+prerequisites:
+  []
+
+related:
+  []
+
+broader:
+  []
+
+narrower:
+  []
+
+see-also:
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[edward-deci|Edward-Deci]]"
+  - "[[richard-ryan|Richard-Ryan]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]"
+  - "[[barry-zimmerman|Barry-Zimmerman]]"
+  - "[[paul-pintrich|Paul-Pintrich]]"
+  - "[[forethought-phase|Forethought-Phase]]"
+  - "[[metacognitive-monitoring|Metacognitive-Monitoring]]"
+  - "[[self-reflection-phase|Self-Reflection-Phase]]"
+  - "[[autonomous-motivation|Autonomous-Motivation]]"
+  - "[[self-determination-theory|Self-Determination-Theory]]"
+  - "[[intrinsic-motivation|Intrinsic-Motivation]]"
+  - "[[internalization|Internalization]]"
+  - "[[autonomy|Autonomy]]"
+  - "[[zimmerman-srl-model|Zimmerman-SRL-Model]]"
+  - "[[pintrichs-motivational-integration|Pintrich's-Motivational-Integration]]"
+  - "[[basic-psychological-needs|Basic-Psychological-Needs]]"
+  - "[[autonomy-need|Autonomy-Need]]"
+  - "[[competence-need|Competence-Need]]"
+  - "[[relatedness-need|Relatedness-Need]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
+builds-on:
+  []
+
+enables:
+  []
+
+expansion-topics:
+  - topic: "[[> [!topic-idea] [[The-Fourfold-Motivational-Architecture-for-PKB-Design|The Fourfold Motivational Ar]]"
+    description: ""
+    priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
-provenance:
-  source-type: report-extraction
-  pipeline-version: "3.0.0"
-  source-reports: [self-determination-theory-first-principles-report-2026-03-11_report, stoicism-codebase-pack_report]
-  extraction-method: pkb-extractor-v1 → pipeline-v3
+importance: high
 ---
 
-# Self-Determination-Theory
+# Self-Determination Theory
 
-> [!definition] Self-Determination-Theory
-> A macro-theory of human motivation and personality developed by Edward Deci and Richard Ryan, originating in empirical studies from the early 1970s and formalised through the 1980s–2000s. SDT proposes that humans have three universal, innate basic psychological needs — for autonomy, competence, and relatedness — whose satisfaction is necessary and sufficient to explain optimal motivation, psychological well-being, and personal growth. The theory encompasses six formally articulated mini-theories that together address intrinsic motivation, externalisation, need satisfaction, goal contents, causality orientations, and relationship motivation.
+> [!definition] **Self-Determination Theory** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Core claim**: Human beings are active, growth-oriented organisms who naturally tend toward psychological integration, competence development, and social participation. This natural tendency is supported or undermined by the degree to which the social environment satisfies three [[basic-psychological-needs]]: [[autonomy-need|autonomy]] (the experience of volitional causation of one's actions), [[competence-need|competence]] (the experience of effective engagement with challenging activities), and [[relatedness-need|relatedness]] (the experience of meaningful connection with others). When these needs are satisfied, people exhibit autonomous motivation, psychological well-being, deep engagement, and integrative development. When they are frustrated or thwarted, people exhibit controlled motivation, psychological ill-being, and developmental rigidity.
+> 
+> **How it works**: SDT is not a single theory but a family of six related mini-theories. [[cognitive-evaluation-theory]] (CET) explains how external events (rewards, deadlines, feedback) affect [[intrinsic-motivation]] by influencing perceived autonomy and competence. [[organismic-integration-theory]] (OIT) explains how initially external regulations become progressively internalised along the [[internalization-continuum|internalization continuum]] from [[external-regulation|external regulation]] → [[introjected-regulation|introjected regulation]] → [[identified-regulation|identified regulation]] → [[integrated-regulation|integrated regulation]] → intrinsic motivation. [[causality-orientations-theory|Causality Orientations Theory]] describes stable individual differences in tendency toward autonomy-oriented, control-oriented, or [[amotivation|amotivated]] processing of environmental cues. Basic Psychological Needs Theory (BPNT) specifies the need satisfaction mechanisms in detail. Relatedness Motivation Theory (RMT) addresses quality of relationships, and Goal Contents Theory (GCT) addresses the distinction between intrinsic and extrinsic aspiration content.
+> 
+> **Distinctive contribution**: What SDT uniquely provides, and what no SRL framework replicates, is a *qualitative* theory of motivation — one that distinguishes not just high versus low motivation but the experiential and developmental quality of different motivational forms. A student can be highly motivated (high effort, persistence) under controlled regulation (anxiety about failure, desire for approval) or under autonomous regulation (genuine interest, personal meaning). SDT's central empirical finding is that these motivational qualities, despite sometimes producing similar short-term effort levels, have dramatically different long-term consequences for learning depth, creativity, well-being, and dispositional growth.
+> 
+> **Evidence base**: Four decades of research across educational, clinical, work, health, and sport contexts. The SDT framework is supported by experimental studies (controlled vs. autonomous condition manipulations), large-scale survey research using instruments like the [[mslq]], and cross-cultural replication demonstrating need universality. The undermining effect of controlling rewards on intrinsic motivation has been meta-analytically confirmed (Deci, Koestner & Ryan, 1999; over 100 studies). Need satisfaction has been prospectively associated with well-being, vitality, and learning quality across cultural contexts.
+> 
+> **When it shines**: SDT is most powerful when the question is about the *quality* of motivation rather than its quantity — why a highly motivated student experiences learning as draining rather than vitalising, why reward systems produce compliance without genuine engagement, why autonomy-supportive environments produce learning depth advantages that persist after the environment changes.
+> 
+> **Known limitations**: SDT is primarily a theory of motivational dynamics, not of cognitive processes. It provides limited guidance on the specific metacognitive strategies through which autonomous motivation is converted into skilled performance. The three-need model, while empirically robust, has been challenged on cultural grounds (collectivist cultures may weight relatedness differently). The [[undermining-effect]] — while meta-analytically confirmed — applies primarily to initially intrinsically motivated activities; its boundaries remain theoretically debated.
+
+*Source: Edward Deci & Richard Ryan (1985–2017)*
 
 ## Core Explanation
 
-> [!evidence] Self-Determination-Theory
-> A macro-theory of human motivation and personality developed by Edward Deci and Richard Ryan, originating in empirical studies from the early 1970s and formalised through the 1980s–2000s. SDT proposes that humans have three universal, innate basic psychological needs — for autonomy, competence, and relatedness — whose satisfaction is necessary and sufficient to explain optimal motivation, psychological well-being, and personal growth. The theory encompasses six formally articulated mini-theories that together address intrinsic motivation, externalisation, need satisfaction, goal contents, causality orientations, and relationship motivation.
-> *— [[self-determination-theory-first-principles-report-2026-03-11_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The evidence suggests that SRL frameworks systematically underspecify the motivational architecture of self-regulation — not because motivation is irrelevant to SRL researchers, but because the motivational theories they import (expectancy-value, goal orientation, self-efficacy) are primarily *cognitive* theories of motivation that share the information-processing commitments of the frameworks themselves. SDT's qualitative distinctions — between types of regulation that produce different…
 
-> [!evidence] Self-Determination-Theory
-> A macro-theory of human motivation and personality developed by Edward Deci and Richard Ryan, originating in empirical studies from the early 1970s and formalised through the 1980s–2000s. SDT proposes that humans have three universal, innate basic psychological needs — for autonomy, competence, and relatedness — whose satisfaction is necessary and sufficient to explain optimal motivation, psychological well-being, and personal growth. The theory encompasses six formally articulated mini-theories that together address intrinsic motivation, externalisation, need satisfaction, goal contents, causality orientations, and relationship motivation.
-> *— [[stoicism-codebase-pack_report]]*
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The convergent evidence across all four theoretical traditions — each independently concluding that autonomy-supportive environments produce superior learning outcomes — is the strongest empirical signal in this entire comparison. Whether the mechanism is need satisfaction (SDT), regulatory capacity development (Zimmerman), goal adoption (Pintrich), or internal standard quality (Winne & Hadwin), the practical upshot is identical: environments that provide structure while respecting learner…
 
-## Connections
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
 
-**Related:** [[2025-Q4]] · [[2025-W48]] · [[2025-W49]] · [[99-archive/05-moc's/cognitive-science-moc]] · [[ABC Model REBT]] · [[Academic Research]] · [[Academic Skeptics]] · [[Academic-Skepticism]] · [[Academy]] · [[Acceptance-and-Commitment-Therapy]] · [[Achievement Motivation Theory]] · [[Actions]] · [[Adiaphora]] · [[Advanced Reasoning Techniques]] · [[Advanced Stoic Contemplative Practices]] · [[Adversity]] · [[Agchinoia]] · [[Agency]] · [[Aidēmosyne]] · [[Albert Ellis]] · [[Albert Ellis and the Stoic Heritage of REBT]] · [[Alexander the Great]] · [[Alias 1]] · [[Alias 2]] · [[Amathia]] · [[Amor Fati — Nietzsche, Stoicism, and the Love of Fate]] · [[Amor Fati — The Stoic and Nietzschean Traditions]] · [[Amor-Fati]] · [[Amygdala]] · [[Amygdala Modulation]] · [[Amygdalar]] · [[Anatta and the Stoic Rational Soul - A Contrast]] · [[Anchoring-Bias]] · [[Ancient Greek Philosophy]] · [[Ancient Philosophy]] · [[Andreia]] · [[Andreia (Courage)]] · [[Anger]] · [[Anicca - Buddhist Impermanence]] · [[Antisthenes]] · [[Antonine Plague]] · [[Apatheia]] · [[Apathy]] · [[Apoproegmena]] · [[Applied Epistemology]] · [[Applied Philosophy]] · [[Arcesilaus]] · [[Arete]] · [[Argument-Mapping]] · [[Aristotelian Virtue Ethics]] · [[Aristotelian-thought]] · [[Arrian]] · [[Art of Living]] · [[Askesis]] · [[Assent]] · [[Ataraxia]] · [[Attributional-Ambiguity]] · [[Autarkeia]] · [[Autexousion]] · [[Authentic Leadership]] · [[Automatic Thoughts]] · [[Axia]] · [[Axioma]] · [[B.F. Skinner]] · [[Basic Argument Analysis]] · [[Bayesian-Reasoning]] · [[Behavioral Change]] · [[Beneficence]] · [[Bidirectional Linking]] · [[Body Scan Meditation]] · [[Boulêsis]] · [[Bratman's-Planning-Theory]] · [[Brief Resilience Scale]] · [[Buddhism]] · [[Buddhist Meditation]] · [[Buddhist Metta (Lovingkindness)]] · [[Buddhist Non-Attachment]] · [[Buddhist Psychology]] · [[Building a Personal Philosophy - Integration Framework]] · [[Calibration Training Methods]] · [[Carneades]] · [[Cato the Younger]] · [[Chara]] · [[Character]] · [[Character Cultivation]] · [[Character Ethics]] · [[Character Strengths and Virtue]] · [[Christian Theology]] · [[Chrysippus]] · [[Chrysippus - Systematic Stoic Doctrine]] · [[Chrysippus of Soli]] · [[Chrysippus — Systematic Stoic Doctrine]] · [[Chrēstotēs]] · [[Cicero]] · [[Circadian Optimization]] · [[Classroom-Motivation]] · [[Cleanthes]] · [[Cleanthes of Assos]] · [[Cognitive]] · [[Cognitive Activity]] · [[Cognitive Behavioral Therapy - Theoretical Foundations and Clinical Applications]] · [[Cognitive Behavioral Therapy and Stoicism Convergence]] · [[Cognitive Bias Mitigation Protocols]] · [[Cognitive Bias and the Discipline of Assent]] · [[Cognitive Bias in Leadership]] · [[Cognitive Biases and Debiasing]] · [[Cognitive Defusion]] · [[Cognitive Defusion ACT]] · [[Cognitive Defusion vs Stoic Assent]] · [[Cognitive Defusion vs Stoic Reserve Clause]] · [[Cognitive Disputation]] · [[Cognitive Distortions]] · [[Cognitive Habit]] · [[Cognitive Model of Emotion]] · [[Cognitive Primacy]] · [[Cognitive Prompts]] · [[Cognitive Responses]] · [[Cognitive Science First Principles Suite]] · [[Cognitive Triad Beck]] · [[Cognitive-Arousal]] · [[Cognitive-Bias-Research]] · [[Cognitive-Distortion]] · [[Cognitive-Narrowing]] · [[Committed Action]] · [[Commodus]] · [[Comparative Philosophy]] · [[Comparing Stoicism, Buddhism, and Modern Psychology]] · [[Competency-Based-Learning]] · [[Compound-Interest]] · [[Concept Z]] · [[Concept-A]] · [[Concept-Y]] · [[Connor-Davidson Resilience Scale]] · [[Contemplative Practice]] · [[Contemplative Traditions]] · [[Core Principles - Virtue Wisdom and Self-Control]] · [[Cosmology]] · [[Cosmopolitan Ethics — From Hierocles to Nussbaum]] · [[Cosmopolitan Ethics — Stoic Roots and Modern Descendants]] · [[Cosmopolitanism]] · [[Cosmopolitanism and Stoic Political Philosophy]] · [[Cosmos]] · [[Courage]] · [[Craik (1943) The Nature of Explanation]] · [[Crates-of-Thebes]] · [[Cross-Cultural Psychology Debates]] · [[Cross-Cultural Universality]] · [[Cynic lifestyle]] · [[Cynic-philosopher]] · [[Cynic-philosophy]] · [[Cynic-school]] · [[Cynicism]] · [[Cynicism (Philosophy)]] · [[Cynicism and Stoicism — The Ascetic Inheritance]] · [[Daily Note]] · [[Daily Stoic]] · [[Daily-Notes]] · [[Daniel Gilbert]] · [[Dataview]] · [[Debiasing-Interventions]] · [[Debugging Strategies for Reasoning Errors]] · [[Decision-Making-Under-Uncertainty]] · [[Deductive Reasoning Techniques]] · [[Default-Mode-Network]] · [[Defensive Avoidance]] · [[Diadochi]] · [[Dialectical Behavior Therapy]] · [[Dianoia]] · [[Dichotomy-of-Control]] · [[Difficulties in Emotion Regulation Scale]] · [[Digital Stoic Practice Environment]] · [[Dikaiosyne]] · [[Dikaiosyne (Justice)]] · [[Diogenes Laërtius]] · [[Diogenes of Sinope]] · [[Diogenes the Cynic]] · [[Diogenes-Laertius]] · [[Discipline of Action]] · [[Discipline-of-Assent]] · [[Discipline-of-Desire]] · [[Discourses]] · [[Domain-Specific Critical Thinking]] · [[Domain-Specific Critical Thinking Standards]] · [[Donald Robertson]] · [[Donald Robertson and Stoic CBT]] · [[Donald Robertson and Stoic CBT — A Clinical Synthesis]] · [[Dorsolateral Prefrontal Cortex]] · [[Doxa]] · [[Dual Process Theory First Principles]] · [[Dweck First Principles]] · [[Early Stoa]] · [[Educational Psychology Knowledge Base]] · [[Effort Praise]] · [[Ekloge]] · [[Ekpyrosis]] · [[Emotion Regulation Science]] · [[Emotion-Regulation]] · [[Emotional Control]] · [[Emotional Regulation Questionnaire]] · [[Emotional Resilience]] · [[Emotional Responses]] · [[Emotional-Dysregulation]] · [[Enchiridion]] · [[Enkrateia]] · [[Eph' Hêmin]] · [[Epictetan Cognitive Model]] · [[Epictetan Impression Theory]] · [[Epictetan Impression Theory — Phantasia, Synkatathesis, and Prohairesis]] · [[Epictetan Three Disciplines]] · [[Epictetus]] · [[Epictetus Three Disciplines]] · [[Epictetus Three Disciplines — Systematic Analysis]] · [[Epicureanism]] · [[Epicurus]] · [[Epimelet eia]] · [[Episteme]] · [[Epistemic Humility and Intellectual Virtue]] · [[Epistemic Refinement]] · [[Epistemic Virtue Development]] · [[Epistulae Morales ad Lucilium]] · [[Epithumia]] · [[Equanimity]] · [[Equanimity - Apatheia Upekkha and Modern Psychology]] · [[Equanimity as Psychological Practice]] · [[Ethical Decision-Making]] · [[Ethical Framework]] · [[Ethics]] · [[Ethics of Consumption]] · [[Euboulia]] · [[Eudaimonic Wellbeing]] · [[Eudaimonic Wellbeing Research]] · [[Eulabeia]] · [[Eulogistia]] · [[Eunoia]] · [[Eupatheia]] · [[Eupsychia]] · [[Eusebeia]] · [[Eustochia]] · [[Eusynallaxia]] · [[Euthumia]] · [[Evening Review]] · [[Evening Review Practice]] · [[Evidence-Based-Education]] · [[Executive-Control]] · [[Existential Therapy]] · [[Existentialism]] · [[External Events]] · [[External-Achievement]] · [[Fear-Extinction]] · [[First Movements]] · [[First Movements / Propatheiai]] · [[Flourishing]] · [[Forensic Self-Analysis]] · [[Forgiveness in Stoicism]] · [[Forgiveness — Philosophy, Psychology, and Practice]] · [[Four-Cardinal-Virtues]] · [[Fractal Consistency]] · [[Frankfurt's-Hierarchy-of-Desires]] · [[Functional Connectivity]] · [[Gaius Musonius Rufus]] · [[Garden]] · [[Golden Verses of Pythagoras]] · [[Gottman-Four-Horsemen|Gottman Four Horsemen]] · [[Gottman Method]] · [[Graph View]] · [[Gratitude]] · [[Greco-Roman Philosophy]] · [[Grief Processing Models]] · [[Grit-and-Perseverance]] · [[Growth Mindset FPR]] · [[Hamartia]] · [[Hardiness Theory (Kobasa)]] · [[Hedonic Adaptation — The Psychology of the Treadmill]] · [[Hedonic Adaptation — The Treadmill of Acquisition]] · [[Hedonic Treadmill Research]] · [[Hegemonikon]] · [[Heimarmenê]] · [[Hellenistic Philosophy]] · [[Hellenistic Philosophy and Indian Philosophy]] · [[Hellenistic and Indian Philosophy - Ancient Encounters]] · [[Hellenistic-period]] · [[Heuristic-Based Decision Making]] · [[Hexis]] · [[Hierocles]] · [[Hierocles Concentric Circles]] · [[Hierocles and the Ethics of Social Obligation]] · [[Higher-Level Concept]] · [[Hippocampal]] · [[Hippocampal Consolidation]] · [[History of Psychology]] · [[History of Psychotherapy]] · [[Human Flourishing]] · [[Humanistic Learning Theory]] · [[Hymn to Zeus]] · [[Hêdonê]] · [[Identity-Based-Motivation]] · [[Impermanence]] · [[Impermanence Contemplation]] · [[Impermanence Meditation]] · [[Implementation Friction]] · [[Implicit Theories Deconstruction]] · [[Impressions]] · [[Inductive Reasoning Strategies]] · [[Internal Experience]] · [[Interpersonal Acceptance and Commitment Therapy]] · [[Interpersonal Neurobiology]] · [[Interpretations]] · [[Intrinsic Motivation Research — Deci 1971]] · [[Intrinsic vs Extrinsic Motivation Foundational Report]] · [[Introduction to Stoicism - Origins and Key Figures]] · [[Intuitive Judgment]] · [[James Gross]] · [[James Pennebaker]] · [[James Stockdale]] · [[James Stockdale and Stoic Resilience in Extremis]] · [[James Stockdale and Stoicism Under Fire]] · [[James Stockdale — Stoicism Under Extreme Conditions]] · [[John Bowlby]] · [[Johnson-Laird FP Report]] · [[Jon Kabat-Zinn]] · [[Joseph Wolpe]] · [[Journaling]] · [[Journaling as Psychological Practice]] · [[Judgments]] · [[Justice]] · [[Kakon]] · [[Kakon / Kakia]] · [[Kalos]] · [[Karteria]] · [[Kata Physin]] · [[Katalepseis]] · [[Katalepsis]] · [[Kataleptic Impressions]] · [[Kategorema]] · [[Kathêkon]] · [[Kathêkon — Appropriate Action]] · [[Kathêkon — The Ethics of Role Obligations]] · [[Kathêkonta]] · [[Katorthoma]] · [[Koinai Ennoiai]] · [[Korsgaard's-Self-Constitution]] · [[Kosmiotēs]] · [[Kosmopolites]] · [[Late Stoa]] · [[Leadership Philosophy]] · [[Learning Cycle]] · [[Learning Theory]] · [[Lekta]] · [[Lekton]] · [[Letter 47]] · [[Linguistic Crystallization]] · [[Living According to Nature]] · [[Living According to Nature - Stoic Ethics Decoded]] · [[Local Storage]] · [[Locus of Control Research and Stoic Practice]] · [[Logic]] · [[Logical Reasoning Foundations]] · [[Logikê]] · [[Logos]] · [[Logos Spermatikos]] · [[Long-Term-Potentiation]] · [[Lower-Level Concept]] · [[Lucius-Annaeus-Seneca]] · [[Lupê]] · [[Lyceum]] · [[MBSR - Clinical Research Summary]] · [[MBSR Protocol]] · [[MBSR Protocol and Research]] · [[Marcomannic Wars]] · [[Marcus Aurelius Meditations]] · [[Marcus Aurelius as Leader]] · [[Marcus Aurelius — Leadership in the Antonine Plague]] · [[Marcus Aurelius' Meditations - Philosophical Analysis and Practical Guide]] · [[Marcus-Aurelius]] · [[Martin Seligman]] · [[Mary Ainsworth]] · [[Maslow Hierarchy Critique]] · [[Massimo Pigliucci]] · [[Matthew Killingsworth]] · [[Medial Prefrontal Cortex]] · [[Meditatio Paupertatis]] · [[Meditatio Paupertatis — Seneca's Practice of Voluntary Poverty]] · [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]] · [[Meditations]] · [[Megalopsychia]] · [[Melete Kakôn]] · [[Melete Thanatou]] · [[Memento Mori]] · [[Memento Mori Practice]] · [[Memento Mori — Ancient and Modern Perspectives]] · [[Memento Mori — Contemplating Mortality]] · [[Memory Enhancement]] · [[Mental Models Theory Report]] · [[Meta Bind]] · [[Meta-Science]] · [[Metacognition Fundamentals]] · [[Metacognition and Self-Regulated Learning - Research and Application]] · [[Metacognitive Instruction Design]] · [[Metacognitive Intervention Design]] · [[Metacognitive Journaling]] · [[Metacognitive Monitoring Protocols]] · [[Metacognitive Monitoring System]] · [[Metacognitive Scaffold]] · [[Metacognitive System]] · [[Metacognitive-Awareness-Inventory]] · [[Metaphysics]] · [[Metriopatheia]] · [[Middle Stoa]] · [[Mindfulness]] · [[Mindfulness Meditation]] · [[Mindfulness-Based Cognitive Therapy]] · [[Mindfulness-Based Stress Reduction]] · [[Mindfulness-Based Stress Reduction - Clinical Research Review]] · [[Mindset Interventions]] · [[Minimalism]] · [[Model Semantics]] · [[Model-Theoretic Semantics]] · [[Moderation]] · [[Modern Stoicism]] · [[Moral Development]] · [[Moral Hygiene]] · [[Moral Psychology]] · [[Moral Reasoning]] · [[Morning Preparation]] · [[Morning/Evening Review]] · [[Motivational Psychology Foundations]] · [[Motivational Psychology Fundamentals]] · [[Motivational Psychology Report Suite]] · [[Musonius Rufus]] · [[Musonius Rufus — Roman Stoic Teacher]] · [[Nature]] · [[Negative Visualization]] · [[Negative Visualization — Hedonic Adaptation Research]] · [[Nested Temporal Reviews]] · [[Neuroplastic Change]] · [[Neuroplasticity and Deliberate Practice]] · [[Neuroplasticity and Habit]] · [[Neuroplasticity and Philosophical Practice]] · [[Nietzsche]] · [[Nirvana]] · [[Non-Reactive Observation]] · [[Nonviolent Communication]] · [[Nonviolent Communication (Rosenberg)]] · [[Oaksford-&-Chater-Probabilistic-Approach]] · [[Obstacle Is the Way]] · [[Oikeiosis]] · [[Oikeiosis — Natural Affiliation and the Expansion of Care]] · [[Oikeiosis — The Stoic Theory of Natural Affiliation]] · [[Open-Science-Framework]] · [[Operationalism in Psychology]] · [[Ouk Eph' Hêmin]] · [[PENCRISAL Assessment Framework]] · [[PERMA Profiler]] · [[Palingenesis]] · [[Panaetius]] · [[Panaetius of Rhodes]] · [[Pantheists]] · [[Paradigm Shifts]] · [[Passions]] · [[Pathos]] · [[Pattern-Recognition]] · [[Pax Romana]] · [[Peripatetics]] · [[Permanence]] · [[Perspective Shift]] · [[Phantasia]] · [[Phantasia Hormetikê]] · [[Phantasia Katalêptikê]] · [[Phantasiai]] · [[Philanthropia]] · [[Philoponia]] · [[Philosopher-Emperor]] · [[Philosophy MOC]] · [[Philosophy of Agency Report]] · [[Philosophy of Language]] · [[Philosophy of Mental Representation]] · [[Phobos]] · [[Phronesis]] · [[Physics]] · [[Physis]] · [[Pierre Hadot Philosophy as a Way of Life]] · [[Pierre Hadot and Spiritual Exercises]] · [[Pierre Hadot and the Recovery of Spiritual Exercises]] · [[Plain Text]] · [[Plato]] · [[Platonic-philosophy]] · [[Platonism]] · [[Plutarch]] · [[Pneuma]] · [[Political-Philosophy]] · [[Posidonius]] · [[Posidonius of Apamea]] · [[Positive Psychology Leadership]] · [[Positive-Psychology]] · [[Post-Traumatic Growth]] · [[Post-Traumatic Growth — The Stoic Dimension]] · [[Posterior Cingulate Cortex]] · [[Practical Philosophy]] · [[Practical Reasoning in Real-World Contexts]] · [[Praemeditatio]] · [[Praxis]] · [[Preferred Indifferents - Stoic Value Theory]] · [[Preferred Indifferents — A Complete Taxonomy]] · [[Preferred Indifferents — Complete Taxonomy]] · [[Preferred Indifferents — Stoic Value Theory]] · [[Preferred-Indifferent]] · [[Preferred-Indifferents]] · [[Premeditatio-Malorum]] · [[Prerequisite Concept 1]] · [[Prerequisite Concept 2]] · [[Present Moment Awareness]] · [[Problem Solving in Complex Domains]] · [[Proegmena]] · [[Professional Decision Making]] · [[Progress Principle]] · [[Prohairesis]] · [[Prohairesis — Epictetus' Central Concept]] · [[Prokoptôn]] · [[Prolêpseis]] · [[Prolêpsis]] · [[Pronoia]] · [[Propatheiai]] · [[Propositional Logic Basics]] · [[Propositional vs Analogical Representation]] · [[Prosoche]] · [[Prosoche - Stoic Mindfulness Practice]] · [[Prosoche - Stoic Self-Attention]] · [[Prosoche - Stoic Self-Attention Practice]] · [[Prosoche — Stoic Self-Attention]] · [[Prosochê]] · [[Prospective Self-Monitoring]] · [[Pseudo-Andronicus]] · [[Psychological Flexibility]] · [[Psychological Flexibility Hexaflex]] · [[Psychological Flexibility and the Dichotomy of Control]] · [[Psychological Flexibility and the Discipline of Desire]] · [[Psychological Flexibility and the Three Epictetan Disciplines]] · [[Psychological Resilience]] · [[Psychology MOC]] · [[Psychology of Relationships]] · [[Psychology of Resilience]] · [[Psychê]] · [[Pyr Technikon]] · [[Pyrrho of Elis]] · [[Pythagorean Tradition]] · [[QuickAdd]] · [[Quintus Junius Rusticus]] · [[Rational Emotive Behavior Therapy]] · [[Rational-Nature]] · [[Rationality Studies]] · [[Reflective Writing]] · [[Related Concept 1]] · [[Related Concept 2]] · [[Replication Crisis]] · [[Replication-Crisis-in-Psychology]] · [[Report 01 — Introduction to Stoicism: Origins and Key Figures]] · [[Report 04 — Stoicism and Modern Psychology]] · [[Report 05 — Stoicism in Leadership and Decision-Making]] · [[Report 10 — Stoicism and CBT]] · [[Reserve Clause in Practice]] · [[Reserve Clause in Stoic Practice]] · [[Reserve-Clause]] · [[Resilience]] · [[Resilience Science — From Hardiness to Post-Traumatic Growth]] · [[Resilience Science — Trajectories, Factors, and Mechanisms]] · [[Rhetoric]] · [[Ruling Faculty]] · [[Rumination]] · [[Ryan Holiday]] · [[SDT First Principles Report]] · [[Sati]] · [[Sati - Buddhist Mindfulness]] · [[Satisfaction with Life Scale]] · [[Schema Theory Foundational Report]] · [[Scipionic Circle]] · [[Second Nature]] · [[Self-Compassion]] · [[Self-Determination Theory Deconstructed]] · [[Self-Determination Theory and Intrinsic Motivation]] · [[Self-Determination Theory and Intrinsic Motivation Development]] · [[Self-Examination]] · [[Self-Referential Processing]] · [[Self-Referential Rumination]] · [[Self-Regulated Learners]] · [[Self-Regulation-Theory]] · [[Self-Theories (Dweck)]] · [[Seneca]] · [[Seneca on Friendship — De Amicitia and the Letters]] · [[Seneca the Younger]] · [[Servant Leadership Theory]] · [[Siddhartha Gautama]] · [[Situation-Models]] · [[Sleep Neuroscience]] · [[Sleep-Dependent Memory Consolidation Mechanisms]] · [[Social Virtue]] · [[Sophia]] · [[Sophia (Stoic Wisdom)]] · [[Sophia / Phronesis]] · [[Sophos]] · [[Sophrosyne]] · [[Sophrosyne (Temperance)]] · [[Source]] · [[Sphere of Influence]] · [[Spiritual Exercises]] · [[Stanford Encyclopedia of Philosophy]] · [[Steven Hayes]] · [[Stoa Poikile]] · [[Stobaeus]] · [[Stoic Attitudes and Behaviors Scale]] · [[Stoic Consolation]] · [[Stoic Consolation Literature]] · [[Stoic Consolation Literature — Seneca and the Art of Grief]] · [[Stoic Cosmopolitanism]] · [[Stoic Cosmopolitanism — The Universal Community of Reason]] · [[Stoic Daily Journaling]] · [[Stoic Daily Journaling: A systematic practice of written Self-Examination]] · [[Stoic Decision Heuristics]] · [[Stoic Decision Heuristics — A Reference Toolkit]] · [[Stoic Emotional Theory - Pathē and Eupatheia]] · [[Stoic Exercises - Comprehensive Practice Guide]] · [[Stoic Friendship]] · [[Stoic Frugality]] · [[Stoic Influence on Early Christianity]] · [[Stoic Journaling]] · [[Stoic Journaling — Practical Guide]] · [[Stoic Journaling — Practical Guide and Templates]] · [[Stoic Opposition]] · [[Stoic Paradoxes]] · [[Stoic Pathology of Emotion]] · [[Stoic Pathē Taxonomy]] · [[Stoic Pathē and CBT Cognitive Distortions — A Detailed Mapping]] · [[Stoic Physics and Cosmology]] · [[Stoic Physics and Metaphysics]] · [[Stoic Practice]] · [[Stoic Precepts]] · [[Stoic Precepts and Quotes]] · [[Stoic Psychology vs. Modern Cognitive Science - Parallels and Divergences]] · [[Stoic Sage]] · [[Stoic School]] · [[Stoic View of Anger]] · [[Stoic View of Anger — De Ira and Modern Applications]] · [[Stoic logic]] · [[Stoic paradoxes]] · [[Stoic physics]] · [[Stoic-Philosophy]] · [[Stoicism]] · [[Stoicism MOC]] · [[Stoicism Series Overview]] · [[Stoicism and CBT - Similarities Differences and Integration]] · [[Stoicism and Emotional Resilience - Coping with Adversity]] · [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] · [[Stoicism and Minimalism - Living a Simple Fulfilling Life]] · [[Stoicism and Modern Psychology - Parallels and Insights]] · [[Stoicism in Leadership and Decision-Making]] · [[Stoicism in Relationships - Building Stronger Connections]] · [[Stoicism-in-Practice-Daily-Exercises-and-Mindset-Shifts]] · [[Structural Encoding Techniques]] · [[Structured Prompts]] · [[Sunkatathesis]] · [[Sympatheia]] · [[Synesis]] · [[Systems-Thinking]] · [[Ta Eph' Hêmin]] · [[Ta Kathêkonta]] · [[Ta Ouk Eph' Hêmin]] · [[Tacitus]] · [[Tags]] · [[Tasks]] · [[Telos]] · [[Temperance]] · [[Templater]] · [[Templates]] · [[Temporal Distance]] · [[The Four Cardinal Virtues]] · [[The Neuroscience of Habit Formation and Extinction]] · [[The Obstacle Is the Way]] · [[The Obstacle Is the Way (Principle)]] · [[The Stoa Poikile — Philosophy in the Agora]] · [[The Stockdale Paradox — Accepting Reality While Maintaining Hope]] · [[The Stoic Sage]] · [[The Stoic Sage - Philosophical Ideal and Practical Impossibility]] · [[The Stoic Sage — Ideal and Reality]] · [[The Stoic Theory of Passions and Therapy]] · [[The Stoic Therapist — Philosophy as Clinical Practice in Antiquity]] · [[The Stoic Trichotomy of Value vs. Aristotelian Eudaimonism]] · [[The Three Disciplines / Topoi]] · [[The View from Above]] · [[The-Historical-and-Intellectual-Origins-of-Stoicism]] · [[Theodicy]] · [[Theology]] · [[Theory B]] · [[Theory W]] · [[Theory X]] · [[Theory of Value]] · [[Therapy]] · [[Third-Wave CBT]] · [[Thomas Aquinas]] · [[Thoreau and Walden Experiment]] · [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]] · [[Thoreau's Walden and the Philosophical Experiment in Simplicity]] · [[Thought Record]] · [[Thought Records]] · [[Three Disciplines]] · [[Tim Ferriss]] · [[To Eph' Hêmin]] · [[Tonos]] · [[Tranquility]] · [[Transfer-Enabling Pedagogical Frameworks]] · [[Unconscious Competence]] · [[Unity of the Virtues]] · [[Unity of the Virtues — Philosophical Analysis]] · [[Universal Ethics]] · [[Universal Nature]] · [[Universal Reason]] · [[Value-Assessments]] · [[Values-Clarification]] · [[Vice]] · [[View from Above]] · [[Viktor Frankl]] · [[Vipassana]] · [[Vipassana Meditation]] · [[Virtue]] · [[Voluntary Discomfort Practice]] · [[Voluntary Simplicity]] · [[Voluntary Simplicity Movement]] · [[Wisdom]] · [[Wise-Interventions]] · [[Wise-Interventions-Walton-&-Wilson]] · [[Working Memory and Executive Function]] · [[Written Language]] · [[Zeno]] · [[Zeno of Citium]] · [[Zeus]] · [[aaron-beck]] · [[abraham-maslow]] · [[academic-buoyancy]] · [[achievement-goal-theory]] · [[analogical-reasoning]] · [[anterior-cingulate-cortex]] · [[argument-analysis]] · [[aristotle]] · [[attachment-theory]] · [[attribution-theory]] · [[automaticity]] · [[autonomy]] · [[availability-heuristic]] · [[barry-zimmerman]] · [[basic-psychological-needs-theory]] · [[behavioral-modification]] · [[bounded-rationality]] · [[carl-rogers]] · [[carol-dweck]] · [[challenge-skill-balance]] · [[cognition]] · [[cognitive-architecture]] · [[cognitive-behavioral-therapy]] · [[cognitive-bias]] · [[cognitive-biases]] · [[cognitive-development-theory]] · [[cognitive-evaluation-theory]] · [[cognitive-forcing-functions]] · [[cognitive-load]] · [[cognitive-load-theory]] · [[cognitive-neuroscience]] · [[cognitive-offloading]] · [[cognitive-psychology]] · [[cognitive-psychology-foundations]] · [[cognitive-reappraisal]] · [[cognitive-restructuring]] · [[cognitive-science]] · [[cognitive-science-moc]] · [[compatibilism]] · [[competence]] · [[confirmation-bias]] · [[cosmic conflagration]] · [[cosmic perspective]] · [[cosmopolitanism]] · [[critical-thinking-pedagogy]] · [[cross-cultural-psychology]] · [[daniel-kahneman]] · [[decision-theory]] · [[deductive-reasoning]] · [[deliberate-practice]] · [[desirable-difficulties]] · [[dual-process-theory]] · [[educational-psychology]] · [[edward-deci]] · [[effectance-motivation]] · [[elaborative-rehearsal]] · [[emotional-regulation]] · [[entity-theory-of-intelligence]] · [[epistemic-vigilance]] · [[epistemology]] · [[eudaimonia]] · [[evidence-based-practice]] · [[executive-function]] · [[expertise-acquisition]] · [[expertise-development]] · [[exposure-therapy]] · [[extrinsic-motivation]] · [[fate]] · [[first-principles-report-generator-v1.0]] · [[fixed-mindset]] · [[flow-theory]] · [[foundational-logic]] · [[foundational-report]] · [[foundational-report-generator-v1.0]] · [[goal-contents-theory]] · [[goal-setting-theory]] · [[growth-mindset]] · [[growth-mindset-implicit-theories-of-intelligence]] · [[habit-formation]] · [[hedonic-adaptation]] · [[hormê]] · [[humanistic-psychology]] · [[hypomnemata]] · [[implementation-intention]] · [[implicit-theories-of-intelligence]] · [[incremental-theory-of-intelligence]] · [[indifferents]] · [[information-processing-models]] · [[intellectual-humility]] · [[internalization-continuum]] · [[intrinsic-motivation]] · [[intrinsic-vs-extrinsic-motivation]] · [[introduction-to-critical-thinking]] · [[johnson-laird]] · [[kataleptic impressions]] · [[learned-helplessness]] · [[living in agreement with nature]] · [[locus-of-control]] · [[memento mori]] · [[memory-consolidation]] · [[memory-systems]] · [[mental-models-theory]] · [[mental-simulation]] · [[metacognition]] · [[metacognitive-awareness]] · [[metacognitive-knowledge]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[mindfulness]] · [[mindset-interventions-in-education]] · [[motivational-interviewing]] · [[negative visualization]] · [[neuroplasticity]] · [[obsidian]] · [[organismic-integration]] · [[organismic-integration-theory]] · [[our-perceptions-shape-our-suffering-202512010031]] · [[passions]] · [[paul-pintrich]] · [[personal-knowledge-base]] · [[personal-knowledge-management]] · [[philosophy]] · [[philosophy-of-agency]] · [[philosophy-of-mind]] · [[pierre-hadot]] · [[pneuma]] · [[polis]] · [[practical-philosophy-moc]] · [[pre-mortem-analysis]] · [[prefrontal-cortex]] · [[propositional-representation]] · [[providence]] · [[psychological-well-being]] · [[reasoning-biases-and-heuristics]] · [[red-team-thinking]] · [[reflective-judgment-model]] · [[relatedness]] · [[richard-lazarus]] · [[richard-ryan]] · [[schema-theory]] · [[scientific-reasoning]] · [[self-determination-theory]] · [[self-determination-theory-foundational-report]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-regulated-learning]] · [[self-regulation]] · [[social duty]] · [[social-psychological-interventions-in-education]] · [[socrates]] · [[socratic-dialogue-on-autonomy-and-self-determination]] · [[socratic-dialogue-report]] · [[socratic-dialogue-report-prompt]] · [[socratic-questioning]] · [[stereotype-threat]] · [[strategic-planning]] · [[transfer-of-learning]] · [[virtue-ethics]] · [[wiki-links]] · [[wisdom]] · [[working-memory]]
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
 
-```dataview
-LIST FROM [[Self-Determination-Theory]]
-WHERE file.path != this.file.path
-SORT file.mtime DESC
-LIMIT 10
-```
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
+
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
+
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
+
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The field-defining handbook containing canonical statements of all major SRL frameworks. Essential reference for any systematic comparison of SRL theories. Contains chapters by Zimmerman, Pintrich, Winne, and Boekaerts himself.
+
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most accessible single-chapter overview of all five SDT mini-theories. Particularly useful for understanding how the CET, OIT, COT, BPNT, and GCT components articulate. Directly informs Phase II's SDT profile and Phase IV's convergence analysis.
+
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most recent and comprehensive textbook statement of SDT. Covers all six mini-theories, cross-cultural evidence, developmental applications, and the integration with clinical psychology. The primary contemporary reference for SDT.
+
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> A comprehensive survey of the SRL field in its modern form. Includes chapters on the SDT-SRL interface, on metacognitive models, and on domain-specific applications. Provides the evidence base for Phase V's situational navigation recommendations.
+
+> [!evidence] Supporting Evidence *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Important for the developmental analysis in Phase VI — demonstrates how SDT's account of need-supportive vs. need-thwarting parenting maps onto developmental trajectories in self-regulation that parallel Zimmerman's account of regulatory skill development.
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT and SRL frameworks are neither simply complementary (covering different terrain without interface) nor competitors (making incompatible claims about the same phenomenon). They stand in a more interesting relationship: they provide accounts of *different levels* of the same complex system. SDT describes the motivational quality of the energy that powers self-regulation; SRL frameworks describe the cognitive and metacognitive architecture through which that energy is converted into skilled…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Complementarity
+> 
+> The four frameworks are not competing in their accounts of autonomy — they are describing it at different levels of analysis. SDT's autonomy need describes the *motivational substrate* that makes willing self-direction possible. Zimmerman's self-direction describes the *process architecture* through which that willingness is expressed. Winne & Hadwin's cognitive autonomy describes the *information-processing signature* of self-direction. These three levels…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Complementarity
+> 
+> The most productive structural insight from comparing these frameworks is the distinction between motivational energy and regulatory architecture. SDT theorises the quality and source of the energy; SRL frameworks theorise the architecture through which that energy is converted into skilled performance. This is analogous to distinguishing between a fuel and an engine — you need both, and neither alone predicts how far you will travel. A learner with high-quality…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The most important insight at the cognitive-motivational interface emerges from placing SDT alongside Winne & Hadwin's processing model. Controlled motivation — regulation from introjection, external pressure, ego-involvement — imposes what might be called *regulatory overhead*: a layer of self-surveillance, performance anxiety, and contingent self-esteem management that competes with the cognitive resources available for actual task engagement. This overhead does not appear in motivational…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Complementarity
+> 
+> SDT and SRL frameworks treat the relationship between learner and environment differently in a way that is illuminating rather than contradictory. SDT treats the environment as the *source* of need-satisfying or need-frustrating conditions — as the context that shapes motivational quality. SRL frameworks, especially Zimmerman's and Pintrich's, treat the environment as an *object of regulation* — as something that skilled learners actively modify to support their own…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The deepest structural complementarity between SDT and SRL frameworks is not just that they cover different territories but that they describe the *same developmental transformation* from different levels. SDT's internalization continuum describes the qualitative motivational shift from "I do this because I must" to "I do this because I genuinely value it" to "I do this because it is part of who I am." Zimmerman's SRL model describes the developmental shift from "I need others to monitor and…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's ideal is the effortlessly absorbed intrinsically motivated learner; Zimmerman's ideal is the effortfully and systematically self-regulating deliberate practitioner. These ideals are not identical, and their coexistence in the "ideal learner" is theoretically underdeveloped. One resolution: intrinsic motivation describes the *motivational quality* of engagement (volitional, non-pressured, interest-driven) while deliberate practice describes the *cognitive quality* of learning activity…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's universalism and SRL's implicit acknowledgment of cultural variability in regulatory strategies create a tension with practical implications. If need satisfaction is universal but the forms through which regulation is culturally organised are variable, then the same need-satisfying environment may need to look quite different across cultural contexts to produce equivalent regulatory quality. SDT acknowledges cultural variation in the *forms* of need satisfaction but has been challenged on…
+
+> [!analytical-insight] Key Insight *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Type**: Convergence
+> 
+> SDT via goal contents analysis, Zimmerman via deliberate practice research, Pintrich via [[achievement-goal-theory]] integration, and Winne & Hadwin via standard-setting theory all converge on the recommendation that learners who orient toward mastery (learning, improvement, deep understanding) rather than performance (outperforming others, demonstrating ability) show superior long-term learning outcomes. This convergence from frameworks with different theoretical…
+
+## Practical Implications
+
+> [!example] **Application** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT is the strongest diagnostic lens for identifying how environmental features are affecting motivational quality. Before designing any learning environment change, run an SDT audit: Which features of the current environment are autonomy-thwarting (controlling language, external pressure, reward contingencies that undermine interest)? Which undermine competence (unclear expectations, insufficiently challenging tasks, negative or ego-involving feedback)? Which undermine relatedness (social…
+
+> [!warning] **Key Distinction** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Error 1 — Treating motivational and regulatory failures as the same**: A student who lacks autonomous motivation requires fundamentally different intervention than a student with autonomous motivation but poor regulatory strategies. Applying strategy instruction to a motivationally controlled student adds cognitive burden without addressing the root condition. Applying motivational support to a learner with poor regulatory architecture addresses the energy quality without providing the…
+
+## Conceptual Tensions
+
+> [!tension] **The Effortlessness-Effort Paradox** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's ideal is the effortlessly absorbed intrinsically motivated learner; Zimmerman's ideal is the effortfully and systematically self-regulating deliberate practitioner. These ideals are not identical, and their coexistence in the "ideal learner" is theoretically underdeveloped. One resolution: intrinsic motivation describes the *motivational quality* of engagement (volitional, non-pressured, interest-driven) while deliberate practice describes the *cognitive quality* of learning activity (systematically structured, feedback-rich, goal-directed). A learner could be intrinsically motivated…
+
+> [!tension] **Universal Needs, Variable Regulation** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> SDT's universalism and SRL's implicit acknowledgment of cultural variability in regulatory strategies create a tension with practical implications. If need satisfaction is universal but the forms through which regulation is culturally organised are variable, then the same need-satisfying environment may need to look quite different across cultural contexts to produce equivalent regulatory quality. SDT acknowledges cultural variation in the *forms* of need satisfaction but has been challenged on whether even the basic need categories apply universally. SRL's variability evidence suggests the…
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Before reading, identify which tradition you currently inhabit more naturally. When you encounter a learner who is struggling, do you ask first *why* they are struggling — questioning their motivation, engagement quality, or sense of purpose? Or do you ask *how* they are regulating — examining their planning strategies, monitoring accuracy, or self-reflection practices? Most practitioners have an implicit allegiance to one tradition. Making it explicit creates the cognitive anchor that makes…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Choose a specific learning episode from your recent experience — a time you were studying something important to you. Describe that episode first through SDT's lens: What was the quality of your motivation? Were your needs for autonomy, competence, and relatedness being satisfied or frustrated? Now switch to Zimmerman's lens: How did your forethought phase look? How actively were you monitoring during performance? What self-reflection did you engage in afterward? Notice how different features…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: Which framework's distinctive contribution was least familiar to you? What does that framework make visible that your prior thinking about learning missed?
+> 
+> **Application**: Looking across all four frameworks, which one best describes the learning challenges you encounter most frequently — in yourself or in people you work with? Does that suggest something about where your own learning environment needs strengthening?
+> 
+> **Extension**: Even before formal comparison, you may…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Before reading the dimensional comparison, predict: on which dimension will the four frameworks *most agree*? On which will they *most disagree*? I expect the strongest agreement will be around environmental conditions (all four will value autonomy-supportive environments), and the most instructive tension will emerge on the cognitive-motivational interface dimension. Hold your prediction and compare it to what the analysis reveals.
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: Which comparative finding surprised you most? Was it the complementarity on autonomy (need vs. achievement vs. cognitive property), the genuine incompleteness of SRL's motivational architecture, or the regulatory overhead concept?
+> 
+> **Application**: Looking at the five dimensions, identify the one that matters most for your own learning context. Which framework best addresses that dimension?
+> 
+> **Extension**: Are there dimensions the comparison revealed that you hadn't…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: The energy-architecture complementarity and the internalization-regulation isomorphism are the two most structurally important findings. Can you articulate in your own words what each reveals about learning that the individual frameworks do not?
+> 
+> **Application**: How do the genuine conflicts — the effortlessness-effort paradox and the universalism-individualism tension — affect how you would design a learning environment? Do they suggest a resolution strategy?
+> 
+> **Extension**:…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> Think of a learning challenge you are currently facing — something you want to master but are struggling with. Apply the SDT lens: Is the difficulty primarily motivational (lacking autonomous engagement, experiencing need frustration)? Apply the Zimmerman lens: Is the difficulty processual (poor forethought planning, inadequate monitoring, superficial self-reflection)? Apply Winne & Hadwin's lens: Is the difficulty calibration-based (overconfident in areas you don't know, inadequate sensitivity…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: What is the single most important contextual factor that determines which framework to reach for? The analysis suggests it is the *type of question* — motivational quality questions route to SDT; process architecture questions to Zimmerman; comprehensive profiling to Pintrich; calibration accuracy to Winne & Hadwin.
+> 
+> **Application**: Identify two learning contexts where you would reach for different frameworks. What features of each context drive the different…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> The structural pattern discovered here — the energy-architecture distinction in purposeful human development — appears in domains far beyond formal learning. Can you identify a domain in your own life where you want to develop mastery? Analyse it along both dimensions: (1) What is the quality of your motivational energy for development in this domain — is it autonomous and need-satisfying, or is it controlled and need-thwarting? (2) What is the quality of your regulatory architecture in this…
+
+> [!reflection] **Reflect** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> **Comprehension**: The single most important integrative insight from this report is the Motivational-Regulatory Architecture framework — the idea that learning quality requires both autonomous motivational energy and sophisticated regulatory architecture, and that their interaction is qualitatively distinctive rather than simply additive. Can you articulate this insight in your own words?
+> 
+> **Application**: How will you navigate the framework landscape differently in your own learning practice…
+
+## Connections & Context
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[motivational-interviewing|Motivational-Interviewing]]
+
+**Cross-report connections** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*:
+- [[self-determination-theory|Self-Determination-Theory]]
+- [[self-regulated-learning-srl|Self-Regulated-Learning-—-SRL]]
+- [[undermining-effect|Undermining-Effect]]
+- [[internalization-continuum|Internalization-Continuum]]
+- [[barry-zimmerman|Barry-Zimmerman]]
+- [[zimmerman-srl-model|Zimmerman-SRL-Model]]
+- [[autonomous-motivation|Autonomous-Motivation]]
+- [[internalization-continuum|Internalization-Continuum]]
+- [[metacognitive-monitoring|Metacognitive-Monitoring]]
+- [[achievement-goal-theory|Achievement-Goal-Theory]]
+
+**Related concepts:**
+[[self-determination-theory|Self-Determination-Theory]] · [[edward-deci|Edward-Deci]] · [[richard-ryan|Richard-Ryan]] · [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[barry-zimmerman|Barry-Zimmerman]] · [[paul-pintrich|Paul-Pintrich]] · [[forethought-phase|Forethought-Phase]] · [[metacognitive-monitoring|Metacognitive-Monitoring]] · [[self-reflection-phase|Self-Reflection-Phase]] · [[autonomous-motivation|Autonomous-Motivation]] · [[self-determination-theory|Self-Determination-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[internalization|Internalization]] · [[autonomy|Autonomy]] · [[zimmerman-srl-model|Zimmerman-SRL-Model]] · [[pintrichs-motivational-integration|Pintrich's-Motivational-Integration]] · [[basic-psychological-needs|Basic-Psychological-Needs]] · [[autonomy-need|Autonomy-Need]] · [[competence-need|Competence-Need]] · [[relatedness-need|Relatedness-Need]] · [[cognitive-evaluation-theory|Cognitive-Evaluation-Theory]] · [[intrinsic-motivation|Intrinsic-Motivation]] · [[organismic-integration-theory|Organismic-Integration-Theory]] · [[internalization-continuum|Internalization-Continuum]] · [[external-regulation|External-Regulation]] · [[introjected-regulation|Introjected-Regulation]] · [[identified-regulation|Identified-Regulation]] · [[integrated-regulation|Integrated-Regulation]] · [[causality-orientations-theory|Causality-Orientations-Theory]] · [[amotivation|Amotivation]]
+
+## References
+
+- **Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.**: The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
+- **Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press.**: The canonical statement of Zimmerman's three-phase cyclical model. The primary source for Phase II's Zimmerman profile and Phase III's dimension analysis. Particularly important for the forethought-performance-reflection cycle and its application to deliberate practice.
+- **Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 451–502). Academic Press.**: Pintrich's most complete statement of his integrative framework. Provides the 4×4 matrix of regulatory areas and phases. The primary source for the "motivational regulation" component that bridges SDT and SRL.
+- **Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. Hacker, J. Dunlosky, & A. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Lawrence Erlbaum.**: The canonical statement of the COPES model and trace methodology. Foundation for the metacognitive calibration dimension in Phase III. Particularly important for understanding why the Winne & Hadwin framework provides the most cognitively detailed (and motivationally thin) account of SRL.
+- **Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin*, 125(6), 627–668.**: The definitive meta-analytic confirmation of the undermining effect. Covers over 100 experimental studies. Provides the primary evidence base for SDT's claim that controlling rewards degrade intrinsic motivation.
+- **Boekaerts, M., Pintrich, P. R., & Zeidner, M. (Eds.). (2000). *Handbook of self-regulation*. Academic Press.**: The field-defining handbook containing canonical statements of all major SRL frameworks. Essential reference for any systematic comparison of SRL theories. Contains chapters by Zimmerman, Pintrich, Winne, and Boekaerts himself.
+- **Vansteenkiste, M., Niemiec, C. P., & Soenens, B. (2010). The development of the five mini-theories of self-determination theory. In T. Urdan & S. Karabenick (Eds.), *Advances in Motivation and Achievement* (Vol. 16A, pp. 105–165).**: The most accessible single-chapter overview of all five SDT mini-theories. Particularly useful for understanding how the CET, OIT, COT, BPNT, and GCT components articulate. Directly informs Phase II's SDT profile and Phase IV's convergence analysis.
+- **Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.**: The most recent and comprehensive textbook statement of SDT. Covers all six mini-theories, cross-cultural evidence, developmental applications, and the integration with clinical psychology. The primary contemporary reference for SDT.
+- **Zimmerman, B. J., & Schunk, D. H. (Eds.). (2011). *Handbook of self-regulation of learning and performance*. Routledge.**: A comprehensive survey of the SRL field in its modern form. Includes chapters on the SDT-SRL interface, on metacognitive models, and on domain-specific applications. Provides the evidence base for Phase V's situational navigation recommendations.
+- **Soenens, B., & Vansteenkiste, M. (2010). A theoretical upgrade of the concept of parental psychological control: Proposing new insights on the basis of self-determination theory. *Developmental Review*, 30(1), 74–99.**: Important for the developmental analysis in Phase VI — demonstrates how SDT's account of need-supportive vs. need-thwarting parenting maps onto developmental trajectories in self-regulation that parallel Zimmerman's account of regulatory skill development.
+
+*Citations sourced from [[sdt-srl-comparative-synthesis-2026-03-19]]*
+
+## Methodology Notes
+
+> [!methodology-and-sources] **Research Grounding for This Report** *(from [[sdt-srl-comparative-synthesis-2026-03-19]])*
+> This report draws on four decades of empirical literature in motivational psychology (primarily SDT research) and self-regulated learning research (Zimmerman, Pintrich, Winne & Hadwin traditions). The comparative analysis proceeds through dimensional mapping (identifying shared questions), complementarity/conflict/convergence classification (applying the five-operation Comparative Analysis Engine), and integrative yield assessment (identifying what becomes visible only through comparison).
+> 
+> Claims in the individual framework profiles (Phase II) are empirically grounded in the primary…
 
 ---
 
-**Sources:** [[self-determination-theory-first-principles-report-2026-03-11_report]] · [[stoicism-codebase-pack_report]]
+## Source Attribution
+
+**Extracted from:** [[sdt-srl-comparative-synthesis-2026-03-19]]
+**Report ID:** `sdt-srl-comparative-synthesis-2026-03-19`

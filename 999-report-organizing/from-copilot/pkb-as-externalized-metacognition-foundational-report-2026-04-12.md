@@ -186,7 +186,7 @@ Why is internal metacognition so unreliable? The [[nelson-narens-model|Nelson-Na
 > [!key-claim] **The Metacognitive Opacity Thesis**
 > Internal metacognitive monitoring is inherently limited by its reliance on indirect, inferential cues about cognitive processing. The meta level can never directly inspect the object level; it can only construct *models* of object-level states from impoverished signals. This architectural constraint means that internal metacognition is structurally prone to systematic errors that no amount of "trying harder to think about your thinking" can fully overcome.
 
-The [[dual-process-theory|dual-process framework]] deepens this analysis. [[system-1|System 1]] — fast, automatic, intuitive — generates much of our moment-to-moment cognitive activity, including the feelings of comprehension and familiarity that inform [[metacognitive-judgments|metacognitive judgments]]. [[system-2|System 2]] — slow, deliberate, analytical — is what we typically mean by "metacognition" in the reflective sense. But System 2's capacity to monitor System 1 is limited by several factors: it is resource-intensive and easily depleted; it requires motivation to engage; and it often accepts System 1's outputs uncritically, especially under time pressure or cognitive load. The result is what Keith Stanovich has called the "[[Cognitive-Miserliness|cognitive miser]]" problem: we default to accepting our initial assessments because the metacognitive work required to question them is expensive.
+The [[dual-process-theory|dual-process framework]] deepens this analysis. [[system-1|System 1]] — fast, automatic, intuitive — generates much of our moment-to-moment cognitive activity, including the feelings of comprehension and familiarity that inform [[metacognitive-judgments|metacognitive judgments]]. [[system-2|System 2]] — slow, deliberate, analytical — is what we typically mean by "metacognition" in the reflective sense. But System 2's capacity to monitor System 1 is limited by several factors: it is resource-intensive and easily depleted; it requires motivation to engage; and it often accepts System 1's outputs uncritically, especially under time pressure or cognitive load. The result is what Keith Stanovich has called the "[[cognitive-miserliness|cognitive miser]]" problem: we default to accepting our initial assessments because the metacognitive work required to question them is expensive.
 
 This is where externalization enters the picture. If internal metacognitive monitoring is architecturally limited — if the meta level cannot directly inspect the object level — then creating external representations that *make cognitive processes visible* transforms the fundamental constraint. Writing your understanding down, structuring it, linking it to other ideas, and revisiting it later does not merely record thinking; it creates a new kind of metacognitive access that is, in principle, unavailable to introspection alone.
 
@@ -606,7 +606,7 @@ The six mechanisms of metacognitive externalization identified in this report �
 >
 > **Boundary:** Clinical charting designed primarily for billing or legal compliance — rather than for diagnostic reasoning — does not serve the externalized metacognition function. The mechanism depends on the chart being designed to mirror and support the thinking process, not just to document it for external audiences.
 >
-> **See also:** [[Clinical-Reasoning]], [[Diagnostic-Reasoning]], [[dual-process-theory]]
+> **See also:** [[Clinical-Reasoning]], [[diagnostic-reasoning]], [[dual-process-theory]]
 
 > [!far-transfer] **Domain 2: Software Engineering — Documentation and Code Review as Cognitive Mirrors**
 > **Structural Principle:** Code documentation, version control commentary, and code review processes externalize the metacognitive monitoring of software design decisions.
@@ -615,7 +615,7 @@ The six mechanisms of metacognitive externalization identified in this report �
 >
 > **Boundary:** This transfer applies most strongly to design documentation and architectural decisions. Routine code comments may not trigger the knowledge-transforming process necessary for metacognitive monitoring.
 >
-> **See also:** [[Software-Design]], [[reflective-practice]], [[deliberate-practice]]
+> **See also:** [[software-design]], [[reflective-practice]], [[deliberate-practice]]
 
 > [!far-transfer] **Domain 3: Organizational Learning — Knowledge Management as Institutional Metacognition**
 > **Structural Principle:** Organizational knowledge management systems externalize *institutional* metacognition — an organization's capacity to monitor what it collectively knows, how it is learning, and where its knowledge gaps lie.
@@ -624,7 +624,7 @@ The six mechanisms of metacognitive externalization identified in this report �
 >
 > **Boundary:** Organizational knowledge management systems face the pseudometacognition risk (Section VIII) at an acute level — compliance-driven documentation that exists to satisfy requirements rather than to support genuine institutional reflection.
 >
-> **See also:** [[Organizational-Learning]], [[Knowledge-Management]], [[communities-of-practice]]
+> **See also:** [[Organizational-Learning]], [[knowledge-management]], [[communities-of-practice]]
 
 > [!far-transfer] **Domain 4: Legal Reasoning — Case Analysis as Externalized Juridical Thinking**
 > **Structural Principle:** Legal case notes, briefs, and precedent databases externalize the metacognitive monitoring of legal reasoning, making argumentative structure inspectable.

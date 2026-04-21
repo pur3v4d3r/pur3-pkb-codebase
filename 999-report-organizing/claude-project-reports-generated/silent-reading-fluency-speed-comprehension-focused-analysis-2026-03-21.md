@@ -673,10 +673,10 @@ For readers using AI tools to accelerate information processing — summarizatio
 > [!topic-idea] [[Vocabulary-Acquisition-for-Reading-Automaticity]]
 > A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — beyond definitional learning, into the consolidated, multi-context representations that actually reduce lexical processing load. Should examine spaced repetition optimization for reading (as distinct from vocabulary testing), morphological pattern learning, and the minimum exposure threshold for automaticity consolidation. Connects directly to [[spaced-repetition-systems]], [[elaborative-rehearsal]], and [[levels-of-processing]].
 
-> [!topic-idea] [[Comprehension-Monitoring-Training-Protocols]]
+> [!topic-idea] [[comprehension-monitoring-training-protocols]]
 > The [[metacognitive-monitoring]] analysis in this report identifies comprehension monitoring as both the most important and most vulnerable cognitive process in reading under speed pressure. A dedicated investigation should examine structured self-testing protocols, the optimal frequency and type of comprehension checks during reading, and the evidence base for monitoring training as a transferable skill. Connects to [[metacognitive-regulation]], [[self-regulated-learning]], and [[formative-assessment]].
 
-> [!topic-idea] [[Domain-Expertise-and-Reading-Speed-A-Transfer-Investigation]]
+> [!topic-idea] [[domain-expertise-and-reading-speed-a-transfer-investigation]]
 > This expansion topic follows the far-transfer direction: applies the Bottleneck Liberation principle to the question of how expertise development in a target domain should be optimized to accelerate reading speed in that domain. Should examine the relationship between vocabulary automaticity and conceptual schema depth as independent and interactive contributors to reading efficiency. A transfer-oriented investigation testing whether the bottleneck structure identified in reading science maps onto expertise acquisition in other cognitively demanding domains (chess, medical diagnosis, code review).
 
 > [!topic-idea] [[The-Situation-Model-in-Knowledge-Management]]

@@ -354,7 +354,7 @@ platform: "Obsidian 1.4.0+"
 %%QA:obsidian:text-generator-mastery%%
 
 > [!abstract] Executive Summary
-> **Text Generator Plugin** transforms [[obsidian]] into a fully-featured [[API]] user interface for [[Large-Language-Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template-Engineering]], [[Smart-Connections]] integration, and replicating [[Claude-Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
+> **Text Generator Plugin** transforms [[obsidian]] into a fully-featured [[api]] user interface for [[Large-Language-Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template-Engineering]], [[Smart-Connections]] integration, and replicating [[Claude-Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
 
 > [!how-to-use-this] Navigation Guide
 > This reference note is organized into 11 major sections covering all aspects of Text Generator Plugin mastery. Use the table of contents below for quick navigation. Sections progress from foundational concepts through advanced techniques, with extensive code examples and real-world workflows throughout.
@@ -388,13 +388,13 @@ Text Generator Plugin (TGP) represents a paradigm shift in how knowledge workers
 
 ### Why Use Text Generator as Your Primary API Interface?
 
-The decision to use TGP as your full-time [[API]] interface offers several strategic advantages:
+The decision to use TGP as your full-time [[api]] interface offers several strategic advantages:
 
 **1. Context Preservation**
 When you work in claude.ai or ChatGPT, you're operating in isolation from your knowledge base. With TGP, every interaction happens within the context of your vault. You can reference notes, include linked content, and have outputs automatically integrate with your [[Knowledge-Graph]].
 
 **2. Cost Efficiency**
-Direct [[API]] usage through TGP follows pay-per-token pricing, which for serious users is dramatically more cost-effective than subscription models. A typical knowledge worker using Claude might spend $20/month on a Pro subscription but only use $3-5 worth of actual tokens.
+Direct [[api]] usage through TGP follows pay-per-token pricing, which for serious users is dramatically more cost-effective than subscription models. A typical knowledge worker using Claude might spend $20/month on a Pro subscription but only use $3-5 worth of actual tokens.
 
 **3. Template Engineering**
 TGP's [[Template-System]] enables you to codify your best prompts, create reusable workflows, and build sophisticated [[Prompt-Engineering]] libraries that evolve with your practice.
@@ -1853,7 +1853,7 @@ output: cursor          # cursor, replace, new-note
 
 #### Cross-Domain Connections
 
-##### 3. **[[Cognitive-Load-Theory-and-PKB-Design]]**
+##### 3. **[[cognitive-load-theory-and-pkb-design]]**
 **Connection:** Understanding CLT informs how to structure AI-augmented workflows to minimize mental overhead while maximizing output quality
 **Depth Potential:** Applies cognitive science to PKB architecture, explaining why vault-centric AI reduces extraneous load
 **Knowledge Graph Role:** Theoretical bridge between cognitive science and PKM practice
@@ -1871,7 +1871,7 @@ output: cursor          # cursor, replace, new-note
 
 #### Advanced Deep Dives
 
-##### 5. **[[Building-Custom-AI-Agents-in-Obsidian]]** *[Requires prerequisites]*
+##### 5. **[[building-custom-ai-agents-in-obsidian]]** *[Requires prerequisites]*
 **Connection:** Extends TGP concepts to create autonomous agents that can perform multi-step research and synthesis tasks
 **Depth Potential:** Agent architectures, tool use patterns, memory systems, and goal-directed behavior within PKB context
 **Knowledge Graph Role:** Advanced node representing frontier PKB capabilities

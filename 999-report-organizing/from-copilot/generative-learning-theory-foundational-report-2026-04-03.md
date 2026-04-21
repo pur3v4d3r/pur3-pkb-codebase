@@ -724,7 +724,7 @@ This is, at once, a profoundly empowering and profoundly demanding conclusion. E
 > Mayer's theoretical framework for multimedia learning, built on Wittrock's SOI model and extended with Baddeley's dual-channel cognitive architecture. CTML holds that meaningful learning from words and pictures requires active selection, organization into separate verbal and pictorial models, and integration of those models with each other and with prior knowledge. The theory generates twelve empirically tested instructional design principles. See also: [[cognitive-theory-of-multimedia-learning]], [[multimedia-learning]], [[dual-coding-theory]]
 
 > [!definition] ICAP Framework
-> Chi and Wylie's (2014) framework organizing learning activities into four hierarchical levels — Interactive, Constructive, Active, Passive — based on the cognitive engagement they require. The framework proposes a learning hierarchy (I > C > A > P) grounded in the prediction that higher-level activities produce more complex, accurate, and integrated knowledge. ICAP provides a complementary taxonomy to GLT, specifying the behavioral activities that instantiate different degrees of generative cognitive engagement. See also: [[icap-framework]], [[constructivism]], [[Active-Learning]]
+> Chi and Wylie's (2014) framework organizing learning activities into four hierarchical levels — Interactive, Constructive, Active, Passive — based on the cognitive engagement they require. The framework proposes a learning hierarchy (I > C > A > P) grounded in the prediction that higher-level activities produce more complex, accurate, and integrated knowledge. ICAP provides a complementary taxonomy to GLT, specifying the behavioral activities that instantiate different degrees of generative cognitive engagement. See also: [[icap-framework]], [[constructivism]], [[active-learning]]
 
 > [!definition] Desirable Difficulties
 > Robert Bjork's concept describing learning conditions that increase short-term difficulty while improving long-term retention and transfer. Desirable difficulties impose germane cognitive load — effort invested in the cognitive processes that build durable understanding — rather than extraneous load. Examples include spaced practice, interleaved practice, reduced feedback, and varied conditions of learning. See also: [[desirable-difficulties]], [[spacing-effect]], [[interleaving]]
@@ -933,7 +933,7 @@ Jean Piaget (Constructivism: knowledge is built, not received)
 > > *PKB Role*: Central to the design of learning resources and instructional materials for complex skill acquisition.
 
 > [!further-exploration]
-> > [!topic-idea] **[[Cognitive-Apprenticeship]]** — Generative Learning in Authentic Practice Contexts
+> > [!topic-idea] **[[cognitive-apprenticeship]]** — Generative Learning in Authentic Practice Contexts
 > > *Connection*: Collins, Brown, and Newman's (1989) cognitive apprenticeship model instantiates generative learning principles in authentic performance contexts: modeling, coaching, scaffolding, articulation, reflection, and exploration are all conditions that support and require generative processing of domain practices.
 > > *Depth Potential*: The transition from novice generative processing (highly supported, with expert modeling) to expert generative improvisation (minimally scaffolded, autonomous) is a developmental trajectory with significant implications for professional education.
 > > *PKB Role*: Connects learning theory to mentorship, apprenticeship, and professional development frameworks in the vault.

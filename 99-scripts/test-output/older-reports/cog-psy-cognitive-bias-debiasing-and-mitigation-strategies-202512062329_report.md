@@ -239,14 +239,14 @@ extraction_summary:
 > [!abstract] Untitled
 > **Executive Summary**
 > 
-> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[cognitive-bias|cognitive biases]] have been extensively catalogued since [[daniel-kahneman]] and [[amos-tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge-Theory|nudges]] and [[choice-architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd-Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
+> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[cognitive-bias|cognitive biases]] have been extensively catalogued since [[daniel-kahneman]] and [[amos-tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge-Theory|nudges]] and [[choice-architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[gerd-gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 190)*
 
 > [!key-claim] Untitled
 > **The Ecological Rationality Challenge**
 > 
-> [[Gerd-Gigerenzer]] (2018) articulated what he termed the "bias bias"—the tendency of behavioral economists and psychologists to label any deviation from normative theory as an error requiring correction, without adequately examining whether the deviation might be adaptive in real-world conditions. This perspective suggests that the question "how can we debias judgment?" may itself be poorly framed, because many so-called biases are actually [[Fast-and-Frugal-Heuristics]] that succeed precisely *because* they ignore information and avoid complex calculations.
+> [[gerd-gigerenzer]] (2018) articulated what he termed the "bias bias"—the tendency of behavioral economists and psychologists to label any deviation from normative theory as an error requiring correction, without adequately examining whether the deviation might be adaptive in real-world conditions. This perspective suggests that the question "how can we debias judgment?" may itself be poorly framed, because many so-called biases are actually [[Fast-and-Frugal-Heuristics]] that succeed precisely *because* they ignore information and avoid complex calculations.
 
 #### 5. [DEFINITION] Untitled *(Line 205)*
 
@@ -426,11 +426,11 @@ extraction_summary:
 - [[Fast-and-Frugal-Heuristics]]
 - [[Focalism]]
 - [[fundamental-attribution-error]]
-- [[Gary-Klein]]
-- [[Gerd-Gigerenzer]]
+- [[gary-klein]]
+- [[gerd-gigerenzer]]
 - [[Groupthink]]
 - [[Halo Effect]]
-- [[Heuristics-and-Biases-Program]]
+- [[heuristics-and-biases-program]]
 - [[Hindsight-Bias]]
 - [[Impact Bias]]
 - [[Inside View]]
@@ -484,19 +484,19 @@ extraction_summary:
 | 7 | [[Nudge-Theory]] | nudges | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 8 | [[choice-architecture]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 9 | [[Bias Blind Spot]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 10 | [[Gerd-Gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 10 | [[gerd-gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 11 | [[Fast-and-Frugal-Heuristics]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 12 | [[Heuristics-and-Biases-Program]] | — | — | 📜 The Foundational Tension: Are Biase... | 184 |
+| 12 | [[heuristics-and-biases-program]] | — | — | 📜 The Foundational Tension: Are Biase... | 184 |
 | 13 | [[confirmation-bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 14 | [[Anchoring-Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 15 | [[availability-heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 16 | [[representativeness-heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 17 | [[Hindsight-Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 18 | [[Overconfidence-Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
-| 19 | [[Gerd-Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
+| 19 | [[gerd-gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 20 | [[Adaptive Behavior and Cognition (ABC) Research Group]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 21 | [[Ecological-Rationality]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
-| 22 | [[Gerd-Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
+| 22 | [[gerd-gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
 | 23 | [[Fast-and-Frugal-Heuristics]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
 | 24 | [[Take-the-Best Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 195 |
 | 25 | [[Adaptive Toolbox]] | — | — | 📜 The Foundational Tension: Are Biase... | 197 |
@@ -514,7 +514,7 @@ extraction_summary:
 | 37 | [[Ivar Fahsing]] | — | — | The Consider-the-Opposite Strategy | 234 |
 | 38 | [[Selective Accessibility]] | — | — | The Consider-the-Opposite Strategy | 236 |
 | 39 | [[Premortem Technique]] | — | — | The Premortem Technique | 240 |
-| 40 | [[Gary-Klein]] | — | — | The Premortem Technique | 240 |
+| 40 | [[gary-klein]] | — | — | The Premortem Technique | 240 |
 | 41 | [[Prospective Hindsight]] | — | — | The Premortem Technique | 240 |
 | 42 | [[Deborah Mitchell]] | — | — | The Premortem Technique | 240 |
 | 43 | [[Jay Russo]] | — | — | The Premortem Technique | 240 |
@@ -813,11 +813,11 @@ for (let letter of sortedLetters) {
 - [[Fast-and-Frugal-Heuristics]]
 - [[Focalism]]
 - [[fundamental-attribution-error]]
-- [[Gary-Klein]]
-- [[Gerd-Gigerenzer]]
+- [[gary-klein]]
+- [[gerd-gigerenzer]]
 - [[Groupthink]]
 - [[Halo Effect]]
-- [[Heuristics-and-Biases-Program]]
+- [[heuristics-and-biases-program]]
 - [[Hindsight-Bias]]
 - [[Impact Bias]]
 - [[Inside View]]
