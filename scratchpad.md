@@ -197,3 +197,15 @@ Pick one of these to start (I can execute any of them):
 
 Which direction do you want to take? Or should I start with #1 (highest ROI, no architectural commitment) and we can layer the LLM stuff on top once the regex pipeline is clean? 
 
+
+---
+---
+
+
+
+
+
+
+
+
+

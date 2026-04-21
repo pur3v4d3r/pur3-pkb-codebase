@@ -662,4 +662,3 @@ Remaining sign-offs before scaffolding (low-risk, tell me to proceed if no edits
 Report back when Phase 0 gate passes, then proceed to Phase 1 (link_validator).
 
 
-
