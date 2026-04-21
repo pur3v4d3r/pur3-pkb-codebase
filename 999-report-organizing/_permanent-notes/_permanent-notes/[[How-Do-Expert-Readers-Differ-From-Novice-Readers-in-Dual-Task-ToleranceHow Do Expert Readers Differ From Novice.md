@@ -1,0 +1,55 @@
+---
+title: "[[How-Do-Expert-Readers-Differ-From-Novice-Readers-in-Dual-Task-Tolerance|How Do Expert Readers Differ From Novice Readers in Dual-Task Tolerance?]]"
+aliases: []
+type: permanent-note
+status: evergreen
+confidence: high
+domain: unknown
+subdomains: []
+tags: [permanent-note, unknown]
+created: '2026-04-21'
+updated: '2026-04-21'
+complexity: intermediate
+importance: medium
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [walking-and-academic-reading-socratic-exploration-2026-04-13, walking-and-academic-reading-socratic-exploration-2026-04-13_report]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# [[How-Do-Expert-Readers-Differ-From-Novice-Readers-in-Dual-Task-Tolerance|How Do Expert Readers Differ From Novice Readers in Dual-Task Tolerance?]]
+
+> [!definition] [[How-Do-Expert-Readers-Differ-From-Novice-Readers-in-Dual-Task-Tolerance|How Do Expert Readers Differ From Novice Readers in Dual-Task Tolerance?]]
+> *Definition pending — derived from 2 source report(s).*
+
+## Core Explanation
+
+> [!evidence] [[How-Do-Expert-Readers-Differ-From-Novice-Readers-in-Dual-Task-Tolerance|How Do Expert Readers Differ From Novice Readers in Dual-Task Tolerance?]]
+> **Description:** The inquiry noted that individual differences are large but did not examine expertise effects systematically. The [[expertise-reversal-effect]] in [[cognitive-load-theory]] predicts that expert readers may TOLERATE dual-task costs better because their domain knowledge reduces intrinsic cognitive load for familiar material. This expansion would explore how reading expertise, subject-matter expertise, and walking-reading experience interact to determine dual-task tolerance.
+> **Priority:** Medium-High
+> **Suggested Type:** Foundational Report — the expertise-reversal intersection with dual-task performance is a well-defined knowledge domain.
+> *— [[walking-and-academic-reading-socratic-exploration-2026-04-13_report]]*
+
+> [!evidence] [[How-Do-Expert-Readers-Differ-From-Novice-Readers-in-Dual-Task-Tolerance|How Do Expert Readers Differ From Novice Readers in Dual-Task Tolerance?]]
+> **Description:** The inquiry noted that individual differences are large but did not examine expertise effects systematically. The [[expertise-reversal-effect]] in [[cognitive-load-theory]] predicts that expert readers may TOLERATE dual-task costs better because their domain knowledge reduces intrinsic cognitive load for familiar material. This expansion would explore how reading expertise, subject-matter expertise, and walking-reading experience interact to determine dual-task tolerance.
+> **Priority:** Medium-High
+> **Suggested Type:** Foundational Report — the expertise-reversal intersection with dual-task performance is a well-defined knowledge domain.
+> *— [[walking-and-academic-reading-socratic-exploration-2026-04-13]]*
+
+## Connections
+
+**Related:** [[4e-cognition]] · [[Baddeley's-Working-Memory-Model]] · [[Can-Active-Note-Making-Actually-Replace-Physical-Activity-as-an-Arousal-Regulati]] · [[How-Do-Expert-Readers-Differ-From-Novice-Readers-in-Dual-Task-Tolerance]] · [[Nelson-Narens-Model]] · [[Testing-Effect]] · [[What-Is-the-Optimal-Movement-to-Stillness-Ratio-for-Different-Types-of-Knowledge]] · [[What-Would-Change-If-the-Fluency-Illusion-Were-Larger-Than-the-Arousal-Benefit]] · [[active-note-making]] · [[andragogy]] · [[attention]] · [[automaticity]] · [[central-executive]] · [[cognitive-architecture]] · [[cognitive-load-theory]] · [[cognitive-offloading]] · [[cognitive-psychology]] · [[cognitive-science]] · [[deep-processing]] · [[desirable-difficulties]] · [[elaboration]] · [[element-interactivity]] · [[embodied-cognition]] · [[episodic-buffer]] · [[expertise-reversal-effect]] · [[extraneous-cognitive-load]] · [[fluency-illusion]] · [[foundational-report]] · [[generation-effect]] · [[germane-cognitive-load]] · [[habit-formation]] · [[heutagogy]] · [[intrinsic-cognitive-load]] · [[levels-of-processing]] · [[metacognition]] · [[metacognitive-calibration]] · [[metacognitive-feelings]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[nelson-narens-model]] · [[personal-knowledge-base]] · [[phonological-loop]] · [[prior-knowledge-moderation]] · [[retrieval-practice]] · [[schema-theory]] · [[selective-attention]] · [[self-explanation]] · [[self-regulated-learning]] · [[self-regulation]] · [[transfer-appropriate-processing]] · [[visuospatial-sketchpad]] · [[working-memory]] · [[working-memory-capacity]]
+
+```dataview
+LIST FROM [[[[How-Do-Expert-Readers-Differ-From-Novice-Readers-in-Dual-Task-ToleranceHow Do Expert Readers Differ From Novice]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[walking-and-academic-reading-socratic-exploration-2026-04-13]] · [[walking-and-academic-reading-socratic-exploration-2026-04-13_report]]

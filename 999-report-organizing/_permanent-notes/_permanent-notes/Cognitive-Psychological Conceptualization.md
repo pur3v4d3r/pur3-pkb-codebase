@@ -1,0 +1,57 @@
+---
+title: "Cognitive-Psychological Conceptualization"
+aliases: []
+type: permanent-note
+status: evergreen
+confidence: high
+domain: cognitive-science
+subdomains: [educational-psychology, philosophy, epistemology]
+tags: [permanent-note, cognitive-science, educational-psychology, philosophy, epistemology]
+created: '2026-04-21'
+updated: '2026-04-21'
+complexity: advanced
+importance: medium
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [cog-psy-foundational-critical-thinking, cog-psy-foundational-critical-thinking_report]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# Cognitive-Psychological Conceptualization
+
+> [!definition] Cognitive-Psychological Conceptualization
+> **[CT-Cognitive-Process-Model**:: From cognitive science perspective, critical thinking comprises specific, measurable cognitive operations including semantic analysis (extracting meaning from text/speech), logical evaluation (assessing argument validity), evidence appraisal (judging claim support), inference generation (drawing conclusions), and synthesis (integrating multiple perspectives) - all executed within working memory constraints and regulated by executive control and metacognitive monitoring.]**
+>
+> This operationalization transforms CT from abstract virtue into analyzable phenomenon. Research by [[robert-ennis|Robert Ennis]] identified CT as "reasonable reflective thinking focused on deciding what to believe or do" - emphasizing both the deliberative (reflective) and action-oriented (deciding) dimensions. [[diane-halpern|Diane Halpern]]'s work further specified CT as "the use of cognitive skills or strategies that increase the probability of a desirable outcome" - connecting process to results. These definitions ground CT in measurable cognitive operations: identifying assumptions, evaluating evidence, recognizing fallacies, drawing warranted conclusions.
+
+## Core Explanation
+
+> [!evidence] Cognitive-Psychological Conceptualization
+> **[CT-Cognitive-Process-Model**:: From cognitive science perspective, critical thinking comprises specific, measurable cognitive operations including semantic analysis (extracting meaning from text/speech), logical evaluation (assessing argument validity), evidence appraisal (judging claim support), inference generation (drawing conclusions), and synthesis (integrating multiple perspectives) - all executed within working memory constraints and regulated by executive control and metacognitive monitoring.]**
+>
+> This operationalization transforms CT from abstract virtue into analyzable phenomenon. Research by [[robert-ennis|Robert Ennis]] identified CT as "reasonable reflective thinking focused on deciding what to believe or do" - emphasizing both the deliberative (reflective) and action-oriented (deciding) dimensions. [[diane-halpern|Diane Halpern]]'s work further specified CT as "the use of cognitive skills or strategies that increase the probability of a desirable outcome" - connecting process to results. These definitions ground CT in measurable cognitive operations: identifying assumptions, evaluating evidence, recognizing fallacies, drawing warranted conclusions.
+> *— [[cog-psy-foundational-critical-thinking_report]]*
+
+> [!evidence] Cognitive-Psychological Conceptualization
+> **[CT-Cognitive-Process-Model**:: From cognitive science perspective, critical thinking comprises specific, measurable cognitive operations including semantic analysis (extracting meaning from text/speech), logical evaluation (assessing argument validity), evidence appraisal (judging claim support), inference generation (drawing conclusions), and synthesis (integrating multiple perspectives) - all executed within working memory constraints and regulated by executive control and metacognitive monitoring.]**
+>
+> This operationalization transforms CT from abstract virtue into analyzable phenomenon. Research by [[robert-ennis|Robert Ennis]] identified CT as "reasonable reflective thinking focused on deciding what to believe or do" - emphasizing both the deliberative (reflective) and action-oriented (deciding) dimensions. [[diane-halpern|Diane Halpern]]'s work further specified CT as "the use of cognitive skills or strategies that increase the probability of a desirable outcome" - connecting process to results. These definitions ground CT in measurable cognitive operations: identifying assumptions, evaluating evidence, recognizing fallacies, drawing warranted conclusions.
+> *— [[cog-psy-foundational-critical-thinking]]*
+
+## Connections
+
+**Related:** [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[Ad Hominem]] · [[Anchoring]] · [[Anderson-and-Krathwohl]] · [[Argument Analysis and Logical Fallacies]] · [[Argument-Based Inquiry]] · [[Australian-Council-for-Educational-Research]] · [[Basic Psychology]] · [[Bat-and-Ball-Problem]] · [[Behavioral Economics]] · [[Bloom's-Taxonomy]] · [[Bruner]] · [[CRAAP Test]] · [[California-Critical-Thinking-Disposition-Inventory]] · [[Cognitive Biases and Critical Thinking]] · [[Cognitive Science Fundamentals]] · [[Confirmation-Bias-Myside-Bias]] · [[Cornell Critical Thinking Test]] · [[Cowan]] · [[Critical Thinking Assessment]] · [[Critical Thinking Development and Pedagogy]] · [[Critical-Thinking-Assessment-and-Measurement]] · [[Delphi-Study]] · [[Domain-Specific Critical Thinking in STEM]] · [[Dunning-Kruger]] · [[Educational Assessment]] · [[Engineering Practice]] · [[Entwistle]] · [[Epistemic-Autonomy-—-Epistemology]] · [[Evidence-Based-Medicine]] · [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman]] · [[False Dilemma]] · [[Foundation-for-Critical-Thinking]] · [[Goel-and-Dolan]] · [[Halpern Critical Thinking Assessment]] · [[Judgment and Decision Making]] · [[Knowledge-Management]] · [[Kruger-and-Dunning]] · [[Kuhn and Weinstock]] · [[Kuhn's]] · [[Larkin-and-Simon]] · [[Lateral Reading]] · [[Learning Strategies]] · [[Learning Theory]] · [[Linda-Elder]] · [[Logic]] · [[Marton-and-Säljö]] · [[Mathematical Reasoning]] · [[Measurement Theory]] · [[Metacognition-and-Self-Regulated-Learning]] · [[Miyake-and-Friedman]] · [[Peter-Facione]] · [[Piaget]] · [[Problem-Based Learning]] · [[Psychometrics]] · [[Rhetoric]] · [[Richard-Paul]] · [[Science Education]] · [[Straw-Man]] · [[Test-of-Reasoning-and-Argument]] · [[Toulmin-Model]] · [[Walton's Argumentation Schemes]] · [[Wardle and Derakhshan]] · [[Watson-Glaser]] · [[Webb's-Depth-of-Knowledge]] · [[Willingham]] · [[Wineburg]] · [[Wisconsin-Card-Sorting-Task]] · [[Zettelkasten-Method]] · [[alan-baddeley]] · [[anchoring-effects]] · [[argument-analysis]] · [[argumentation-theory]] · [[assessment-design]] · [[atkinson-and-shiffrin]] · [[availability-heuristic]] · [[benjamin-bloom]] · [[california-critical-thinking-skills-test]] · [[cognitive-development]] · [[cognitive-load-theory]] · [[cognitive-psychology]] · [[constructivism]] · [[constructivist-learning-theory]] · [[cowan]] · [[critical-thinking]] · [[daniel-kahneman]] · [[diane-halpern]] · [[dual-process-theory]] · [[dunning-and-kruger]] · [[dunning-kruger-effect]] · [[educational-psychology]] · [[empiricism]] · [[ennis]] · [[epistemic-cognition]] · [[executive-function]] · [[fallibilism]] · [[glaser]] · [[information-literacy]] · [[information-processing-theory]] · [[john-flavell]] · [[keith-stanovich]] · [[kuhn-and-dean]] · [[mcpeck]] · [[metacognition]] · [[metacognition-and-self-regulated-learning]] · [[michael-polanyi]] · [[modus-ponens]] · [[modus-tollens]] · [[myside-bias]] · [[newell-and-simon]] · [[paul-and-elder]] · [[paul-elder-framework]] · [[personal-knowledge-management]] · [[rationalism]] · [[robert-ennis]] · [[scientific-method]] · [[socrates]] · [[socratic-method]] · [[susan-haack]] · [[system-1]] · [[system-2]] · [[transfer]] · [[vygotsky]] · [[working-memory]]
+
+```dataview
+LIST FROM [[Cognitive-Psychological Conceptualization]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[cog-psy-foundational-critical-thinking]] · [[cog-psy-foundational-critical-thinking_report]]

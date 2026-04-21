@@ -1,0 +1,51 @@
+---
+title: "Self-Directedness — Trait or Readiness Sense (Guglielmino, 1977)"
+aliases: []
+type: permanent-note
+status: evergreen
+confidence: high
+domain: learning-sciences
+subdomains: [adult-education, learner-autonomy, self-regulation, lifelong-learning]
+tags: [permanent-note, learning-sciences, adult-education, learner-autonomy, self-regulation, lifelong-learning]
+created: '2026-04-21'
+updated: '2026-04-21'
+complexity: intermediate
+importance: high
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [self-directed-learning-foundational-report-2026-03-11, self-directed-learning-foundational-report-2026-03-11_report]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# Self-Directedness — Trait or Readiness Sense (Guglielmino, 1977)
+
+> [!definition] Self-Directedness — Trait or Readiness Sense (Guglielmino, 1977)
+> A relatively stable cluster of attitudes, abilities, and personal characteristics associated with taking initiative and responsibility in learning. This includes openness to learning opportunities, self-concept as an effective and independent learner, initiative and independence in learning, informed acceptance of responsibility for one's own learning, love of learning, creativity, future orientation, and the ability to use basic study and problem-solving skills. Self-directedness, in this sense, is not something one does but something one *has* — a readiness or propensity that varies across individuals and that can, at least in principle, be developed over time.
+
+## Core Explanation
+
+> [!evidence] Self-Directedness — Trait or Readiness Sense (Guglielmino, 1977)
+> A relatively stable cluster of attitudes, abilities, and personal characteristics associated with taking initiative and responsibility in learning. This includes openness to learning opportunities, self-concept as an effective and independent learner, initiative and independence in learning, informed acceptance of responsibility for one's own learning, love of learning, creativity, future orientation, and the ability to use basic study and problem-solving skills. Self-directedness, in this sense, is not something one does but something one *has* — a readiness or propensity that varies across individuals and that can, at least in principle, be developed over time.
+> *— [[self-directed-learning-foundational-report-2026-03-11_report]]*
+
+> [!evidence] Self-Directedness — Trait or Readiness Sense (Guglielmino, 1977)
+> A relatively stable cluster of attitudes, abilities, and personal characteristics associated with taking initiative and responsibility in learning. This includes openness to learning opportunities, self-concept as an effective and independent learner, initiative and independence in learning, informed acceptance of responsibility for one's own learning, love of learning, creativity, future orientation, and the ability to use basic study and problem-solving skills. Self-directedness, in this sense, is not something one does but something one *has* — a readiness or propensity that varies across individuals and that can, at least in principle, be developed over time.
+> *— [[self-directed-learning-foundational-report-2026-03-11]]*
+
+## Connections
+
+**Related:** [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[Adult-Education]] · [[Behaviorist Learning Theory]] · [[Directed Instruction]] · [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman]] · [[Higher Education Pedagogy]] · [[Inquiry-Based Learning Design & Evidence]] · [[Learning Sciences]] · [[Metacognition-&-Critical-Thinking]] · [[Metacognition-&-Lifelong-Learning]] · [[Metacognition-&-Motivation]] · [[Personal-Learning-Environments]] · [[Professional Development]] · [[Stephen-Brookfield]] · [[Transformative-Learning]] · [[achievement-goal-theory]] · [[allen-tough]] · [[andragogy]] · [[argyris-and-schön]] · [[barry-zimmerman]] · [[chris-kenyon]] · [[d.-randy-garrison]] · [[educational-psychology]] · [[feedback-design-for-autonomy-and-mastery]] · [[growth-mindset-implicit-theories-of-intelligence]] · [[heutagogy]] · [[learning-contracts]] · [[learning-projects]] · [[lifelong-learning]] · [[lucy-guglielmino]] · [[malcolm-knowles]] · [[metacognitive-monitoring]] · [[online-learning-design]] · [[paul-pintrich]] · [[pedagogy]] · [[philip-candy]] · [[ralph-hiemstra]] · [[roger-brockett]] · [[schema-theory]] · [[self-determination-theory]] · [[self-directed-learning]] · [[self-directed-learning-readiness-scale]] · [[stewart-hase]] · [[transfer-of-learning]]
+
+```dataview
+LIST FROM [[Self-Directedness — Trait or Readiness Sense (Guglielmino, 1977)]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[self-directed-learning-foundational-report-2026-03-11]] · [[self-directed-learning-foundational-report-2026-03-11_report]]

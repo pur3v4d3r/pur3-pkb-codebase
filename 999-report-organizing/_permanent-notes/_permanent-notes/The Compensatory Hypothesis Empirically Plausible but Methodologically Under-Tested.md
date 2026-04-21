@@ -1,0 +1,51 @@
+---
+title: "The Compensatory Hypothesis: Empirically Plausible but Methodologically Under-Tested"
+aliases: []
+type: permanent-note
+status: evergreen
+confidence: high
+domain: learning-science
+subdomains: [motivation-theory, self-determination-theory, goal-theory, psychological-well-being]
+tags: [permanent-note, learning-science, motivation-theory, self-determination-theory, goal-theory, psychological-well-being]
+created: '2026-04-21'
+updated: '2026-04-21'
+complexity: intermediate
+importance: medium
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [goal-contents-theory-focused-analysis-2026-03-13, goal-contents-theory-focused-analysis-2026-03-13_report]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# The Compensatory Hypothesis: Empirically Plausible but Methodologically Under-Tested
+
+> [!definition] The Compensatory Hypothesis: Empirically Plausible but Methodologically Under-Tested
+> *Definition pending — derived from 2 source report(s).*
+
+## Core Explanation
+
+> [!evidence] The Compensatory Hypothesis: Empirically Plausible but Methodologically Under-Tested
+> Kasser's research group has produced consistent evidence that cold and controlling parenting predicts higher extrinsic goal emphasis in children and adolescents — consistent with the compensatory hypothesis. Studies of materialism show that financial insecurity and economic precarity predict increased materialistic values — again consistent. And correlational research reliably finds that basic needs frustration (measured directly) predicts extrinsic goal importance. However, the prospective experimental evidence needed to firmly establish the compensatory mechanism — demonstrating that experimental frustration of basic needs *causes* increases in extrinsic goal endorsement — is limited. Most of the evidence is correlational, creating the same directionality ambiguity the theory faces elsewhere. What the evidence most strongly supports is that basic needs history and goal content are tightly linked, and that interventions aimed at either end of this relationship may affect the other — but the exact causal architecture remains somewhat uncertain.
+> *— [[goal-contents-theory-focused-analysis-2026-03-13_report]]*
+
+> [!evidence] The Compensatory Hypothesis: Empirically Plausible but Methodologically Under-Tested
+> Kasser's research group has produced consistent evidence that cold and controlling parenting predicts higher extrinsic goal emphasis in children and adolescents — consistent with the compensatory hypothesis. Studies of materialism show that financial insecurity and economic precarity predict increased materialistic values — again consistent. And correlational research reliably finds that basic needs frustration (measured directly) predicts extrinsic goal importance. However, the prospective experimental evidence needed to firmly establish the compensatory mechanism — demonstrating that experimental frustration of basic needs *causes* increases in extrinsic goal endorsement — is limited. Most of the evidence is correlational, creating the same directionality ambiguity the theory faces elsewhere. What the evidence most strongly supports is that basic needs history and goal content are tightly linked, and that interventions aimed at either end of this relationship may affect the other — but the exact causal architecture remains somewhat uncertain.
+> *— [[goal-contents-theory-focused-analysis-2026-03-13]]*
+
+## Connections
+
+**Related:** [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] · [[Causality-Orientations-Theory-—-SDT-Sub-Theory-Analysis]] · [[Educational Psychology Practice]] · [[Expectancy-Value-Theory-—-Focused-Analysis]] · [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman]] · [[Goal Framing in Education]] · [[Goal Framing in Instructional Design]] · [[Hedonic-Adaptation-and-the-Attainment-Paradox-—-Cross-Theory-Analysis]] · [[Intrinsic Goal Taxonomy]] · [[Intrinsic-Goal-Framing-in-Instructional-Design-—-A-Practical-Guide]] · [[Materialism Research]] · [[Materialism,-Consumer-Culture,-and-Psychological-Well-Being]] · [[Motivational Interviewing in Education]] · [[Organizational Psychology]] · [[Positive-Psychology]] · [[Psychological-Safety-and-Basic-Needs-Environments-in-Educational-Settings]] · [[Rokeach Value Theory]] · [[Terror-Management-Theory]] · [[Values-Based Curriculum Design]] · [[aspiration-index]] · [[autonomy]] · [[basic-psychological-needs]] · [[basic-psychological-needs-theory]] · [[causality-orientations-theory]] · [[cognitive-load-theory]] · [[competence]] · [[contingent-self-worth]] · [[edward-deci]] · [[expectancy-value-theory]] · [[goal-contents-theory]] · [[goal-setting-theory]] · [[growth-mindset-implicit-theories-of-intelligence]] · [[hedonic-adaptation]] · [[ill-being]] · [[intrinsic-motivation]] · [[kennon-sheldon]] · [[maarten-vansteenkiste]] · [[motivational-interviewing]] · [[motivational-psychology]] · [[organismic-integration-theory]] · [[organismic-valuing-process]] · [[psychological-well-being]] · [[relatedness]] · [[richard-ryan]] · [[self-actualization]] · [[self-concordance-model]] · [[self-determination-theory]] · [[tim-kasser]]
+
+```dataview
+LIST FROM [[The Compensatory Hypothesis Empirically Plausible but Methodologically Under-Tested]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[goal-contents-theory-focused-analysis-2026-03-13]] · [[goal-contents-theory-focused-analysis-2026-03-13_report]]

@@ -1,0 +1,52 @@
+---
+title: "Frontier Question 4: Intra-Person Dynamics of Need Satisfaction and Regulatory Style"
+aliases: []
+type: permanent-note
+status: evergreen
+confidence: medium
+domain: uncategorized
+subdomains: []
+tags: [permanent-note, uncategorized]
+created: '2026-04-21'
+updated: '2026-04-21'
+complexity: intermediate
+importance: medium
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [self-determination-theory-internalization-continuum-deep-dive-2026-04-21]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# Frontier Question 4: Intra-Person Dynamics of Need Satisfaction and Regulatory Style
+
+> [!definition] Frontier Question 4: Intra-Person Dynamics of Need Satisfaction and Regulatory Style
+> *Definition pending — derived from 1 source report(s).*
+
+## Core Explanation
+
+> [!evidence] Frontier Question 4: Intra-Person Dynamics of Need Satisfaction and Regulatory Style
+> **The question:** What does the moment-to-moment, day-to-day variation in need satisfaction and regulatory engagement actually look like within individuals, and how does that variation aggregate into the trait-level individual differences that traditional designs measure?
+> **Current best understanding:** Substantial intra-person variability exists in both need satisfaction and regulatory engagement; the patterns of within-person variability predict outcomes that between-person trait measures do not capture; the dynamic mechanism articulated at Level 4 receives empirical support from intensive longitudinal designs in ways it did not from earlier methodologies.
+> **What we don't know:** Whether the within-person dynamics observed in intensive longitudinal designs replicate the theoretical mechanism cleanly or reveal departures from it that will require theoretical refinement; whether intervention designs that target within-person dynamics directly produce more sustained effects than interventions targeting trait-level orientations.
+> **Active research directions:** Daily-diary studies of need satisfaction and well-being; experience-sampling work on the functional-significance interpretation of moment-to-moment events; integration of intensive longitudinal designs with neural and physiological measurement.
+> **Predicted resolution timeline:** Active development for the foreseeable future; methodological infrastructure is rapidly improving.
+> **What would change if resolved:** Substantially refined intervention designs that target the dynamic mechanism rather than trait-level orientations; more accurate prediction of intervention effects in the populations that are most variable in their day-to-day need-satisfaction trajectories.
+> *— [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]*
+
+## Connections
+
+**Related:** [[Self-Determination-Theory-—-Foundational-Overview]] · [[organismic-integration-theory]] · [[introjection]] · [[identification]] · [[integrated-regulation]] · [[intrinsic-motivation]] · [[basic-psychological-needs-theory]] · [[cognitive-evaluation-theory-cet]] · [[basic-psychological-needs-theory-BPNT]] · [[autonomy-need]] · [[competence-need]] · [[relatedness-need]] · [[cognitive-evaluation-theory-cet]] · [[Edward-L.-Deci]] · [[richard-ryan]] · [[Edward-L.-Deci]] · [[richard-ryan]] · [[the-internalization-continuum]] · [[organismic-integration-theory]] · [[Edward-L.-Deci]] · [[richard-ryan]] · [[deci-ryan]] · [[extrinsic-motivation]] · [[external-regulation]] · [[introjection]] · [[identified]] · [[integrated-regulation]] · [[the-internalization-continuum]] · [[external-regulation]] · [[deci-and-ryan]] · [[deci-and-ryan]] · [[introjection]] · [[deci-ryan]] · [[conditional-regard]] · [[Controlling-Teaching-Styles]] · [[identification]] · [[integrated-regulation]] · [[intrinsic-motivation]] · [[autonomous-motivation]] · [[controlled-motivation]] · [[basic-psychological-needs]] · [[autonomy-need]] · [[competence-need]] · [[relatedness-need]] · [[Self-Determination-Theory-—-Foundational-Overview]] · [[Edward-L.-Deci]] · [[richard-ryan]] · [[autonomy-need]] · [[competence-need]] · [[relatedness-need]] · [[conditional-regard]] · [[autonomy-need]] · [[Controlling-Teaching-Styles]] · [[competence-need]] · [[relatedness-need]] · [[deci-ryan]] · [[grolnick-ryan-1989]] · [[need-frustration]] · [[maarten-vansteenkiste]] · [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis]] · [[need-satisfaction-as-dynamic-equilibrium-not-cumulative-score]] · [[autonomy-need]] · [[competence-need]] · [[relatedness-need]] · [[Functional-Significance-—-Informational,-Controlling,-Amotivating]] · [[amotivation]] · [[amotivation]] · [[functional-significance-informational-controlling-amotivating]] · [[cognitive-evaluation-theory-cet]] · [[autonomy-orientation]] · [[Reeve]] · [[Reeve]] · [[grolnick-ryan-1989]] · [[Autonomy-Support-—-Mechanisms-and-Measurement]] · [[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]] · [[functional-significance-informational-controlling-amotivating]] · [[Conditional-Regard-and-the-Introjection-Trap]] · [[Psychological-Controlling-Parenting]] · [[Goal Contents Theory]] · [[Iyengar]] · [[chen-2015]] · [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination]] · [[Iyengar]] · [[grolnick-ryan-1989]] · [[Conditional-Regard-Research]] · [[Conditional-Regard-and-the-Introjection-Trap]] · [[Psychological-Controlling-Parenting]] · [[Soenens-&-Vansteenkiste-2011]] · [[maarten-vansteenkiste]] · [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis]] · [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis]] · [[need-thwarting]] · [[Vansteenkiste,-Lens,-&-Deci-2006]] · [[extrinsic-goal-content]] · [[Kenji-Murayama]] · [[Kenji-Murayama]] · [[chen-2015]] · [[Self-Determination-Theory-and-Digital-Media]] · [[Frank Martela]] · [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments]] · [[Kenji-Murayama]] · [[chen-2015]] · [[grolnick-ryan-1989]] · [[chen-2015]] · [[Self-Determination-Theory-—-Foundational-Overview]] · [[Conditional-Regard-and-the-Introjection-Trap]] · [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination]] · [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis]] · [[Self-Determination-Theory-and-Digital-Media]] · [[Goal Contents Theory]] · [[Autonomy-Support-—-Mechanisms-and-Measurement]] · [[Self-Determination-Theory-—-Foundational-Overview]] · [[cognitive-evaluation-theory-cet]] · [[Functional-Significance-—-Informational,-Controlling,-Amotivating]]
+
+```dataview
+LIST FROM [[Frontier Question 4 Intra-Person Dynamics of Need Satisfaction and Regulatory Style]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

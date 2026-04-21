@@ -112,7 +112,7 @@ def resolve_report_links(
             raise ResolveLinksError(f"reports_dir does not exist: {rd}")
 
     logger.info("Building resolution index from %s", notes_dir)
-    index = rewrite_report_wikilinks.build_resolution_index(notes_dir)
+    index = rewrite_report_wikilinks.build_resolution_index(notes_dir.resolve())
     logger.info("Index entries: %d", len(index))
 
     grand_changed = 0
@@ -121,7 +121,8 @@ def resolve_report_links(
     grand_unresolved: list[str] = []
 
     for folder in reports_dirs:
-        files = sorted(folder.rglob("*.md"))
+        # Resolve to absolute so filepath.relative_to(VAULT_ROOT) works in v2 helper.
+        files = sorted(folder.resolve().rglob("*.md"))
         if not files:
             logger.warning("No markdown files under %s; skipping.", folder)
             continue

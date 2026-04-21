@@ -156,7 +156,12 @@ def _run_stage_1(
         extracted_dir.mkdir(parents=True, exist_ok=True)
     for rd in reports_to_extract:
         click.echo(f"  extracting: {rd}")
-        cmd = [sys.executable, str(_V2_EXTRACTOR), str(rd)]
+        cmd = [
+            sys.executable, str(_V2_EXTRACTOR),
+            "--input", str(rd),
+            "--output", str(extracted_dir),
+            "--recursive",
+        ]
         try:
             subprocess.run(cmd, check=True)
         except subprocess.CalledProcessError as e:
@@ -261,8 +266,10 @@ def _run_stage_5(
     match_output_dir.mkdir(parents=True, exist_ok=True)
     stats = s5_match.run_match(candidates_path, target_dir, match_output_dir)
     click.echo(
-        f"  matched={stats.matched} review={stats.review} new={stats.new} "
-        f"elapsed={stats.elapsed_seconds:.1f}s"
+        f"  matched={stats.by_status.get('matched', 0)}"
+        f" review={stats.by_status.get('review_queue', 0)}"
+        f" new={stats.by_status.get('new', 0)}"
+        f" elapsed={stats.elapsed_seconds:.1f}s"
     )
 
 

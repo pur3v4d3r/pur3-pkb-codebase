@@ -1,0 +1,51 @@
+---
+title: "The PKB Learning System as a Needs-Satisfying Environment"
+aliases: []
+type: permanent-note
+status: evergreen
+confidence: high
+domain: educational-psychology
+subdomains: [self-regulated-learning, metacognition, motivational-psychology, knowledge-management]
+tags: [permanent-note, educational-psychology, self-regulated-learning, metacognition, motivational-psychology, knowledge-management]
+created: '2026-04-21'
+updated: '2026-04-21'
+complexity: intermediate
+importance: critical
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24, srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24_report]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# The PKB Learning System as a Needs-Satisfying Environment
+
+> [!definition] The PKB Learning System as a Needs-Satisfying Environment
+> *Definition pending — derived from 2 source report(s).*
+
+## Core Explanation
+
+> [!analytical-insight] The PKB Learning System as a Needs-Satisfying Environment
+> A well-designed PKB learning system can satisfy all three SDT needs without external provision: autonomy is satisfied by genuine self-direction — reading what you choose, setting your own goals, designing your own practice; competence is satisfied by the visible growth of the knowledge graph — seeing new nodes added, new connections formed, previously opaque material becoming integrated; relatedness is satisfied by the connection of the learning to a larger purpose or project that the learner genuinely cares about. The risk in a self-directed system is that these need-satisfying elements are not reliably present — that autonomy degrades into obligation ("I should be reading this"), competence satisfaction erodes when sessions are challenging without adequate attribution calibration, and relatedness withers when the PKB feels like an archive rather than a living system. The Forethought and Self-Reflection protocols in this report are explicitly designed to sustain all three needs across sessions.
+> *— [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24_report]]*
+
+> [!analytical-insight] The PKB Learning System as a Needs-Satisfying Environment
+> A well-designed PKB learning system can satisfy all three SDT needs without external provision: autonomy is satisfied by genuine self-direction — reading what you choose, setting your own goals, designing your own practice; competence is satisfied by the visible growth of the knowledge graph — seeing new nodes added, new connections formed, previously opaque material becoming integrated; relatedness is satisfied by the connection of the learning to a larger purpose or project that the learner genuinely cares about. The risk in a self-directed system is that these need-satisfying elements are not reliably present — that autonomy degrades into obligation ("I should be reading this"), competence satisfaction erodes when sessions are challenging without adequate attribution calibration, and relatedness withers when the PKB feels like an archive rather than a living system. The Forethought and Self-Reflection protocols in this report are explicitly designed to sustain all three needs across sessions.
+> *— [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24]]*
+
+## Connections
+
+**Related:** [[Comprehension-Monitoring-Training-Protocols]] · [[Concept-A]] · [[Concept-B]] · [[Concept-X]] · [[Concept-Y]] · [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]] · [[Existing Node 2]] · [[Existing-Node-1]] · [[Existing-Note-1]] · [[Flavell's-Metacognitive-Framework]] · [[Framework-Name]] · [[Note]] · [[Note 1]] · [[Note 2]] · [[Note-Name-1]] · [[Note-Name-2]] · [[The-Zimmerman-Cycle-as-Normative-Architecture-and-Design-Target]] · [[Winne-&-Hadwin's-Metacognitive-Processing-Model]] · [[Zimmerman's-Cyclical-SRL-Model]] · [[achievement-goal-theory]] · [[advance-organizer]] · [[albert-bandura]] · [[attribution-retraining]] · [[attribution-style]] · [[attribution-theory]] · [[barry-zimmerman]] · [[bernard-weiner]] · [[carol-dweck]] · [[comprehension-monitoring]] · [[conditional-metacognitive-knowledge]] · [[declarative-metacognitive-knowledge]] · [[deliberate-practice]] · [[desirable-difficulties]] · [[double-loop-learning]] · [[educational-psychology]] · [[elaborative-interrogation]] · [[fluency-illusion]] · [[forethought-phase]] · [[formative-assessment]] · [[goal-setting-theory]] · [[intrinsic-motivation]] · [[john-h.-flavell]] · [[judgment-of-learning]] · [[learned-helplessness]] · [[mastery-approach-goal]] · [[mastery-experience]] · [[mastery-goal]] · [[mastery-goal-orientation]] · [[metacognition]] · [[metacognition-and-self-regulated-learning]] · [[metacognitive-accuracy]] · [[metacognitive-calibration]] · [[obsidian]] · [[performance-phase]] · [[personal-knowledge-base]] · [[schema-theory]] · [[self-determination-theory]] · [[self-determined-self-regulation]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-explanation-effect]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[the-fluency-metacognition-paradox]] · [[the-fluency-trap]] · [[the-srl-cycle-as-a-calibration-engine]] · [[transfer-of-learning]] · [[vs-code]]
+
+```dataview
+LIST FROM [[The PKB Learning System as a Needs-Satisfying Environment]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24]] · [[srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24_report]]

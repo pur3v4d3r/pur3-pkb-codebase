@@ -1,0 +1,51 @@
+---
+title: "Abductive Reasoning in Medical Education"
+aliases: []
+type: permanent-note
+status: evergreen
+confidence: high
+domain: cognitive-science
+subdomains: [reasoning, educational-psychology, critical-thinking, epistemology]
+tags: [permanent-note, cognitive-science, reasoning, educational-psychology, critical-thinking, epistemology]
+created: '2026-04-21'
+updated: '2026-04-21'
+complexity: intermediate
+importance: high
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [types-of-reasoning-foundational-report-2026-03-05, types-of-reasoning-foundational-report-2026-03-05_report]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# Abductive Reasoning in Medical Education
+
+> [!definition] Abductive Reasoning in Medical Education
+> *Definition pending — derived from 2 source report(s).*
+
+## Examples
+
+> [!example] Abductive Reasoning in Medical Education
+> A medical student observes that a patient presents with fatigue, unexplained weight loss, and night sweats. None of these symptoms alone is diagnostically decisive. But their combination suggests a diagnostic hypothesis — perhaps lymphoma or tuberculosis — that would, if correct, explain all three symptoms simultaneously. The student abducts to a diagnosis: not because the evidence guarantees it, but because it is the best available explanation of the symptom cluster. Medical education is fundamentally training in abductive reasoning, though it is rarely named as such.
+> *— [[types-of-reasoning-foundational-report-2026-03-05_report]]*
+
+> [!example] Abductive Reasoning in Medical Education
+> A medical student observes that a patient presents with fatigue, unexplained weight loss, and night sweats. None of these symptoms alone is diagnostically decisive. But their combination suggests a diagnostic hypothesis — perhaps lymphoma or tuberculosis — that would, if correct, explain all three symptoms simultaneously. The student abducts to a diagnosis: not because the evidence guarantees it, but because it is the best available explanation of the symptom cluster. Medical education is fundamentally training in abductive reasoning, though it is rarely named as such.
+> *— [[types-of-reasoning-foundational-report-2026-03-05]]*
+
+## Connections
+
+**Related:** [[Advanced Critical Thinking Pedagogy]] · [[Algorithmic Thinking]] · [[Analogical Reasoning and Its Role in Conceptual Transfer]] · [[Assessment of Higher-Order Reasoning in Education]] · [[Basic Logic and Argumentation]] · [[Bloom's-Taxonomy]] · [[Causal-Reasoning]] · [[Cognitive Development - Piaget]] · [[Conceptual Understanding]] · [[Concrete Examples]] · [[Confirmation-Bias-Myside-Bias]] · [[Counterfactual-Reasoning]] · [[Critical-Thinking-Frameworks]] · [[Curriculum Design for Higher-Order Thinking]] · [[Design Thinking Workshops]] · [[Dual Process Theory and Its Implications for Instruction]] · [[Epistemic Cognition - How Learners Understand Knowledge and Its Limits]] · [[Epistemology in Education]] · [[Extended-Mind-Theory-—-Philosophy-of-Mind]] · [[Formal-Reasoning]] · [[Hypothesis Generation]] · [[Kirschner,-Sweller-&-Clark]] · [[Law School Pedagogy]] · [[Medical Diagnosis Training]] · [[Metacognitive Interventions in K-12 Education — An Evidence Review]] · [[Philosophy Curricula]] · [[Philosophy of Knowledge]] · [[Probabilistic Reasoning]] · [[Problem-Solving in Education]] · [[Problem-of-Induction]] · [[Project-Based-Learning]] · [[Propositional Logic Basics]] · [[Research Methods Design]] · [[STEM Education]] · [[Socratic Method in Teaching]] · [[Socratic-Seminars-—-Design-and-Facilitation]] · [[Statistical Induction]] · [[Syllogism]] · [[Syllogistic Reasoning]] · [[The Socratic Method as a Reasoning Scaffold]] · [[WEIRD]] · [[abduction]] · [[analogical-reasoning]] · [[argument-analysis]] · [[aristotle]] · [[charles-sanders-peirce]] · [[cognitive-development-theory]] · [[cognitive-load-theory]] · [[cognitive-science]] · [[critical-thinking]] · [[daniel-kahneman]] · [[david-hume]] · [[deanna-kuhn]] · [[deductive-reasoning]] · [[dual-process-theory]] · [[educational-psychology]] · [[epistemic-cognition]] · [[foundational-report-generator-v1.0]] · [[francis-bacon]] · [[inductive-reasoning]] · [[inquiry-based-learning]] · [[jean-piaget]] · [[john-flavell]] · [[john-hattie]] · [[john-sweller]] · [[karl-popper]] · [[keith-stanovich]] · [[metacognition]] · [[metacognition-and-self-regulated-learning]] · [[peter-wason]] · [[philosophy-of-science]] · [[richard-nisbett]] · [[richard-west]] · [[rote-memorization]] · [[scientific-method]]
+
+```dataview
+LIST FROM [[Abductive Reasoning in Medical Education]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[types-of-reasoning-foundational-report-2026-03-05]] · [[types-of-reasoning-foundational-report-2026-03-05_report]]
