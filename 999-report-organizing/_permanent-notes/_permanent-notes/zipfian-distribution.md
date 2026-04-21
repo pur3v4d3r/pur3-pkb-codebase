@@ -76,16 +76,19 @@ see-also:
   - "[[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]]"
   - "[[vocabulary-comprehension-spiral|Vocabulary-Comprehension-Spiral]]"
   - "[[nations-vocabulary-size-thresholds|Nation's-Vocabulary-Size-Thresholds]]"
+  - "[[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]]"
   - "[[levels-of-processing-theory|Levels-of-Processing-Theory]]"
   - "[[dual-coding-theory|Dual-Coding-Theory]]"
+  - "[[semantic-memory|Semantic-Memory]]"
   - "[[zipfian-distribution|Zipfian-Distribution]]"
   - "[[reading-fluency|Reading-Fluency]]"
   - "[[lexical-automaticity|Lexical-Automaticity]]"
   - "[[verbal-efficiency-theory|Verbal-Efficiency-Theory]]"
   - "[[keith-stanovich|Keith-Stanovich]]"
   - "[[matthew-effect|Matthew-Effect]]"
+  - "[[schema-theory|Schema-Theory]]"
   - "[[charles-perfetti|Charles-Perfetti]]"
-  - "[[Nation's-Vocabulary-Size-Thresholds|Nation's-Vocabulary-Size-Thresholds]]"
+  - "[[verbal-efficiency-theory|Verbal-Efficiency-Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -374,24 +377,6 @@ importance: high
 **Difficulty:** Advanced
 **Tags:** #vocabulary, #learning-strategy, #elaboration, #robust-instruction
 
-> [!flashcard] **Spaced Repetition** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*
-> **Q:** Seed 3 — Distinction
-> **A:** **Q:** What is the difference between receptive and productive vocabulary?
-> **A:** Receptive = words understood when encountered in reading or listening. Productive = words actively used in writing or speaking. Receptive vocabulary is always larger (typically 2–4×). Reading builds receptive vocabulary primarily; productive vocabulary requires deliberate generation practice.
-> **Source:** Phase II, Conceptual Foundations
-> **Difficulty:** Basic
-> **Tags:** #vocabulary, #receptive, #productive, #distinction
-
-> [!flashcard] **Spaced Repetition** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*
-> **Q:** Seed 5 — Process
-> **A:** **Q:** What is the Vocabulary-Comprehension Spiral and what interrupts it?
-> **A:** The bidirectional amplifying relationship: vocabulary → better comprehension → more reading → more word encounters → larger vocabulary → better comprehension. The spiral is interrupted below the coverage threshold, where texts are too lexically demanding for comprehension and incidental acquisition to operate efficiently.
-> **Source:** Phase III, Theoretical Landscape
-> **Difficulty:** Intermediate
-> **Tags:** #vocabulary, #comprehension-spiral, #matthew-effect, #reading
-
-
-
 ## Protocols & Methods
 
 > [!protocol] **The Active Word-Encounter Protocol (derived from Nation's Elaborative Processing Principles)** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*
@@ -431,26 +416,6 @@ importance: high
 **Related concepts:**
 [[paul-nation|Paul-Nation]] · [[vocabulary-breadth-vs.-depth|Vocabulary-Breadth-vs.-Depth]] · [[semantic-memory|Semantic-Memory]] · [[schema-theory|Schema-Theory]] · [[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]] · [[vocabulary-comprehension-spiral|Vocabulary-Comprehension-Spiral]] · [[nations-vocabulary-size-thresholds|Nation's-Vocabulary-Size-Thresholds]] · [[incidental-vocabulary-acquisition|Incidental-Vocabulary-Acquisition]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[dual-coding-theory|Dual-Coding-Theory]] · [[semantic-memory|Semantic-Memory]] · [[zipfian-distribution|Zipfian-Distribution]] · [[reading-fluency|Reading-Fluency]] · [[lexical-automaticity|Lexical-Automaticity]] · [[verbal-efficiency-theory|Verbal-Efficiency-Theory]] · [[keith-stanovich|Keith-Stanovich]] · [[matthew-effect|Matthew-Effect]] · [[schema-theory|Schema-Theory]] · [[charles-perfetti|Charles-Perfetti]] · [[verbal-efficiency-theory|Verbal-Efficiency-Theory]] · [[lexical-automaticity|Lexical-Automaticity]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[paul-nation|Paul-Nation]] · [[michael-nagy|Michael-Nagy]] · [[levels-of-processing-theory|Levels-of-Processing-Theory]] · [[incidental-learning|Incidental-Learning]] · [[schema-theory|Schema-Theory]] · [[elaborative-inference|Elaborative-Inference]] · [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
 
-**Related concepts** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*:
-[[spacing-effect|Spacing-Effect]] * [[morphological-awareness|Morphological-Awareness]] * [[elaborative-interrogation|Elaborative-Interrogation]] * [[Contextual-Inference-Strategies|Contextual Inference Strategies]] * [[Nation's-Word-Knowledge-Framework|Nation's Word Knowledge Framework]] * [[self-efficacy-theory|Self-Efficacy-Theory]] * [[growth-mindset|Growth-Mindset]] * [[working-memory|Working-Memory]] * [[zone-of-proximal-development|Zone-of-Proximal-Development]] * [[Vocabulary-Building-Through-Reading|Vocabulary Building Through Reading]] * [[vocabulary-threshold-hypothesis|Vocabulary-Threshold-Hypothesis]] * [[Beck's-Tier-Vocabulary-Model|Beck's Tier Vocabulary Model]] * [[Krashen's-Input-Hypothesis|Krashen's-Input-Hypothesis]] * [[Metacognition-&-Lifelong-Learning|Metacognition-&-Lifelong-Learning]]
-
-**Cross-report connections** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*:
-- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
-- [[cognitive-load-theory|Cognitive-Load-Theory]]
-- [[schema-theory|Schema-Theory]]
-- [[reading-fluency|Reading-Fluency]]
-- [[lexical-automaticity|Lexical-Automaticity]]
-
-**Cross-report connections** *(from [[vocabulary-building-reading-foundational-report-2026-03-28]])*:
-- [[levels-of-processing-theory|Levels-of-Processing-Theory]]
-- [[schema-theory|Schema-Theory]]
-- [[cognitive-load-theory|Cognitive-Load-Theory]]
-- [[memory-systems|Memory-Systems]]
-- [[situation-models-in-text-comprehension|Situation-Models-in-Text-Comprehension]]
-
-
-
-
 ## References
 
 - **Nation, I.S.P. (2001). *Learning Vocabulary in Another Language*. Cambridge University Press.**: The standard comprehensive reference work in vocabulary acquisition research. Nation's framework for multidimensional word knowledge, coverage thresholds, and the design of vocabulary learning programs is presented in full here. Essential for any serious engagement with this literature. Particularly valuable: Chapter 2 (what is involved in knowing a word) and Chapter 4 (incidental learning through extensive reading).
@@ -476,41 +441,6 @@ importance: high
 **Recommended Sections:** Pages 6–19 in full.
 
 *Citations sourced from [[vocabulary-building-reading-foundational-report-2026-03-28]]*
-
-- **Nation, I.S.P. (2001). *Learning Vocabulary in Another Language*. Cambridge University Press.**: The standard comprehensive reference work in vocabulary acquisition research. Nation's framework for multidimensional word knowledge, coverage thresholds, and the design of vocabulary learning programs is presented in full here. Essential for any serious engagement with this literature. Particularly valuable: Chapter 2 (what is involved in knowing a word) and Chapter 4 (incidental learning through extensive reading).
-
-**Recommended Sections:** Chapters 2, 4, and 7 (vocabulary size goals).
-
-- **Stanovich, K.E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly*, 21(4), 360–407.**: The foundational paper articulating the self-amplifying vocabulary-comprehension dynamic. Stanovich's analysis of how early reading skill advantages compound over development remains the most influential single theoretical contribution to reading science. Readable and empirically grounded; a model of theoretical synthesis in educational psychology.
-
-**Recommended Sections:** Full paper is relatively short (~48 pages); the vocabulary-comprehension spiral analysis in sections III–V is most directly relevant.
-
-- **Perfetti, C.A. (1985). *Reading Ability*. Oxford University Press.**: The foundational monograph for Verbal Efficiency Theory. Perfetti presents the full theoretical argument and the supporting empirical research demonstrating the role of lexical access speed in determining comprehension quality.
-
-**Recommended Sections:** Chapters 3 and 5 (verbal efficiency mechanisms and reading comprehension).
-
-- **Nagy, W.E., & Herman, P.A. (1987). Breadth and depth of vocabulary knowledge: Implications for acquisition and instruction. In M.G. McKeown & M.E. Curtis (Eds.), *The Nature of Vocabulary Acquisition* (pp. 19–35). Erlbaum.**: The source of the most widely cited estimates of incidental vocabulary acquisition rate from reading. Nagy and Herman's analysis of the vocabulary-breadth-depth distinction and the case for extensive reading as the primary vocabulary-building mechanism remains central to the field.
-
-**Recommended Sections:** Pages 19–35 in full; essential for understanding the quantitative case for reading-based acquisition.
-
-- **Beck, I.L., McKeown, M.G., & Kucan, L. (2002). *Bringing Words to Life: Robust Vocabulary Instruction*. Guilford Press.**: The foundational text for the three-tier vocabulary model and its implications for instruction. Beck and colleagues make the case for intensive, multi-faceted instruction in Tier 2 academic vocabulary as a comprehension-support intervention. The practical protocols are directly applicable to deliberate vocabulary study programs.
-
-**Recommended Sections:** Chapters 1–3 (the tier model and its rationale); Chapter 6 (instructional activities adaptable for self-directed study).
-
-- **Craik, F.I.M., & Lockhart, R.S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior*, 11(6), 671–684.**: The foundational levels-of-processing paper. While not a vocabulary acquisition paper per se, its framework is the most important theoretical tool for understanding why some vocabulary learning strategies produce durable retention and others do not.
-
-**Recommended Sections:** Full paper (13 pages); particularly the distinction between structural, phonemic, and semantic processing and the depth-retention relationship.
-
-- **Nation, I.S.P., & Waring, R. (1997). Vocabulary size, text coverage and word lists. In N. Schmitt & M. McCarthy (Eds.), *Vocabulary: Description, Acquisition and Pedagogy* (pp. 6–19). Cambridge University Press.**: The source of the empirical coverage threshold analysis (95–98%) and vocabulary size recommendations (8,000–9,000 word families for general text comprehension). Essential for understanding the quantitative case for vocabulary size as a reading bottleneck.
-
-**Recommended Sections:** Pages 6–19 in full.
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

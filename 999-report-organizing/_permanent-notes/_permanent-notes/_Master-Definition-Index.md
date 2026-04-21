@@ -60,8 +60,8 @@ importance: high
 | Metric | Count |
 |--------|-------|
 | Total definitions | 1051 |
-| With permanent note | 1051 |
-| Missing permanent note | 0 |
+| With permanent note | 995 |
+| Missing permanent note | 56 |
 
 **By Domain:**
 
@@ -136,7 +136,7 @@ importance: high
 > *Source: paul-elder-critical-thinking-framework-foundational-report-2026-04-01* | *Domain: critical thinking*
 > *Permanent Note: [[the-elements-of-thought-fundamental-structures-of-reasoning]]*
 
-> [!definition] **The-Fluency-Trap|Fluency Illusion / The-Fluency-Metacognition-Paradox|Fluency-Metacognition Paradox** **[perm-note]**
+> [!definition] **The-Fluency-Trap|Fluency Illusion / The-Fluency-Metacognition-Paradox|Fluency-Metacognition Paradox** *[needs-note]*
 > **Definition:** The phenomenon by which smooth, effortless processing of surface code and propositional text base generates subjective confidence in comprehension quality that does not accurately reflect the quality of the situation model constructed. Boundary condition: the illusion operates most powerfully when texts are linguistically familiar even when situationally novel — when the reader can parse the sentences easily while lacking the prior knowledge to integrate them into a coherent situation model.
 > 
 > **Report-Specific Significance:** The mechanism by which the Text-Base Trap becomes...
@@ -150,19 +150,19 @@ importance: high
 > *Source: self-determination-theory-focused-analysis-2026-03-19* | *Domain: motivational-psychology*
 > *Permanent Note: [[the-organismic-dialectical-perspective]]*
 
-> [!definition] **The 2×2 Achievement Goal Framework** **[perm-note]**
+> [!definition] **The 2×2 Achievement Goal Framework** *[needs-note]*
 > **Definition:** The 2×2 framework cross-classifies two conceptually independent dimensions — *definition of competence* (mastery vs. performance) and *valence of motivation* (approach vs. avoidance) — to yield four distinct achievement goal constructs: mastery-approach (MAP), mastery-avoidance (MAV), performance-approach (PAP), and performance-avoidance (PAP). The definition-of-competence dimension distinguishes whether the referent for competence evaluation is absolute/intrapersonal (mastery) or normative/interpersonal (performance). The valence dimension distinguishes whether the motivati...
 > 
 > *Source: achievement-goal-theory-focused-analysis-2026-03-24* | *Domain: motivational-psychology*
 > *Permanent Note: [[The-2×2-Achievement-Goal-Framework|The 2×2 Achievement Goal Framework]]*
 
-> [!definition] **2×2 Achievement Goal Framework** **[perm-note]**
+> [!definition] **2×2 Achievement Goal Framework** *[needs-note]*
 > The 2×2 framework organizes achievement goals along two orthogonal dimensions: (1) the *definition* dimension (mastery vs. performance — the competence standard used) and (2) the *valence* dimension (approach vs. avoidance — whether positive or negative possibilities regulate behavior). The resulting four goals are: **Mastery-Approach** (pursuing positive mastery outcomes — learning, development), **Mastery-Avoidance** (avoiding negative mastery outcomes — incompetence, failure to develop), **Performance-Approach** (pursuing positive performance outcomes — outperforming others, demonstratin...
 > 
 > *Source: achievement-goal-theory-foundational-report-2026-03-31* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[2×2-Achievement-Goal-Framework|2×2 Achievement Goal Framework]]*
 
-> [!definition] **2×2 Framework** **[perm-note]**
+> [!definition] **2×2 Framework** *[needs-note]*
 > A theoretical model of achievement goals that crosses two dimensions — goal content (mastery vs. performance) with motivational valence (approach vs. avoidance) — to yield four distinct goal types: mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance. Currently the dominant framework in the field, though contested regarding the adaptive potential of performance-approach goals.
 > 
 > *Source: achievement-goal-theory-foundational-report-2026-03-10* | *Domain: Other / Uncategorised*
@@ -174,7 +174,7 @@ importance: high
 > *Source: extended-mind-theory-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[4e-cognition|4E Cognition]]*
 
-> [!definition] **🔑 Core Concept Definition** **[perm-note]**
+> [!definition] **🔑 Core Concept Definition** *[needs-note]*
 > **Stoic Journaling as Metacognitive Tool**: The systematic practice of written self-examination rooted in ancient [[Stoicism|Stoic philosophy]], wherein practitioners engage in structured reflection to monitor cognitive processes, evaluate judgments, regulate emotional responses, and consciously reshape behavioral patterns through the externalization of thought into permanent textual form. This practice operates simultaneously as philosophical discipline, cognitive scaffold, and neuroplasticity intervention, bridging the 2000-year gap between [[Marcus-Aurelius]]'s *Meditations* and contempo...
 > 
 > *Source: cog-psy-role-of-stoic-journaling-practices-in-metacognitive-monitoring-20251128214625* | *Domain: Other / Uncategorised*
@@ -262,13 +262,13 @@ importance: high
 > *Source: how-stars-are-created-in-the-universe-foundational-report-2026-04-17* | *Domain: astrophysics*
 > *Permanent Note: [[accretion-disk|Accretion Disk]]*
 
-> [!definition] **Accretion, Tuning, and Restructuring** **[perm-note]**
+> [!definition] **Accretion, Tuning, and Restructuring** *[needs-note]*
 > **Accretion** is the addition of new information to an existing schema without modifying the schema's fundamental structure — new facts or examples are stored as instances of the schema, filling its slots with new specific values. Most day-to-day learning is accretion: we learn that Abraham Lincoln was 6'4" without revising our schema for presidents or for historical figures. **Tuning** is the gradual refinement of a schema's parameters through experience — the slot values, default settings, and variable constraints are adjusted to fit the evidence more accurately. A novice chess player who...
 > 
 > *Source: schema-theory-foundational-report-2026-03-31* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Accretion,-Tuning,-and-Restructuring|Accretion, Tuning, and Restructuring]]*
 
-> [!definition] **Accretion, Tuning, Restructuring** **[perm-note]**
+> [!definition] **Accretion, Tuning, Restructuring** *[needs-note]*
 > **Definition**: The three mechanisms of schema change. Accretion adds information to an existing schema without modifying its structure. Tuning adjusts variable constraints or default values. Restructuring creates qualitatively new schema organizations when existing schemas fail. After this re-examination: the restructuring mechanism is dramatically underdescribed by the term itself; genuine restructuring is better captured by conceptual change theory's revolutionary account.
 > **Report-Specific Significance**: The taxonomy that exposes the internal tension within schema theory — the mechanis...
 > 
@@ -467,7 +467,7 @@ importance: high
 > *Source: paul-elder-critical-thinking-framework-foundational-report-2026-04-01* | *Domain: critical thinking*
 > *Permanent Note: [[argument-analysis]]*
 
-> [!definition] **Aristotle's Modes of Persuasion** **[perm-note]**
+> [!definition] **Aristotle's Modes of Persuasion** *[needs-note]*
 > **Logos** — the quality and force of the argument itself: the accuracy of the evidence, the validity of the inferences, the strength of the logical structure. **Ethos** — the audience's perception of the speaker's credibility, expertise, character, and good will. **Pathos** — emotional arousal that makes the audience more receptive to the speaker's conclusion. Effective persuasion typically requires all three: a technically sound argument (logos) delivered by a credible source (ethos) that engages the audience's genuine interests and values (pathos). Overreliance on any one mode at the expe...
 > 
 > *Source: how-to-communicate-effectively-foundational-report-2026-04-03* | *Domain: communication psychology*
@@ -505,7 +505,7 @@ importance: high
 > *Source: baddeley-model-of-working-memory-foundational-report-2026-04-03* | *Domain: cognitive psychology*
 > *Permanent Note: [[articulatory-suppression|Articulatory Suppression]]*
 
-> [!definition] **Ease of Learning — EOL** **[perm-note]**
+> [!definition] **Ease of Learning — EOL** *[needs-note]*
 > An [[Ease-of-Learning|ease-of-learning]] judgment is a pre-acquisition metacognitive assessment of how difficult a particular item or body of material will be to learn. EOL judgments are based primarily on intrinsic cues (properties of the material) and prior experience with similar material, and they represent the meta-level's prediction of the effort that object-level processing will require.
 > 
 > **Boundary:** EOL is a prospective judgment made *before* learning, not a retrospective assessment of experienced difficulty during learning.
@@ -847,13 +847,13 @@ importance: high
 
 ## _B
 
-> [!definition] **Baddeley's Multi-Component Model** **[perm-note]**
+> [!definition] **Baddeley's Multi-Component Model** *[needs-note]*
 > [**Baddeley-Multi-Component-WM**:: A model of working memory comprising four subsystems: the **[[central-executive]]** (attentional control, task coordination, resource allocation), the **[[phonological-loop]]** (verbal-acoustic rehearsal and temporary storage of speech-based information), the **[[visuospatial-sketchpad]]** (spatial and visual representation), and the **[[episodic-buffer]]** (multi-modal integration, binding information across subsystems and with long-term memory). First proposed by Baddeley & Hitch (1974), revised by Baddeley (2000) to include the episodic buffer.]
 > 
 > *Source: walking-academic-reading-working-memory-deep-dive-2026-04-13* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Baddeley's-Multi-Component-Model|Baddeley's Multi-Component Model]]*
 
-> [!definition] **Baddeley's Working Memory Model** **[perm-note]**
+> [!definition] **Baddeley's Working Memory Model** *[needs-note]*
 > [**Baddeley's-Working-Memory-Model**:: A multi-component model of [[working-memory]] proposing four subsystems: the [[phonological-loop]] (processing verbal and acoustic information), the [[visuospatial-sketchpad]] (processing visual and spatial information), the [[episodic-buffer]] (integrating information across subsystems and with long-term memory), and the [[central-executive]] (an attentional control system that coordinates the subsystems, allocates resources, and manages task-switching).]
 > 
 > *Source: walking-and-academic-reading-socratic-exploration-2026-04-13* | *Domain: Other / Uncategorised*
@@ -889,7 +889,7 @@ importance: high
 > *Source: self-determination-theory-dialectical-re-examination-2026-03-19* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[basic-psychological-needs-theory|Basic Psychological Needs Theory]]*
 
-> [!definition] **Basic-Psychological-Needs — The Three** **[perm-note]**
+> [!definition] **Basic-Psychological-Needs — The Three** *[needs-note]*
 > *[[autonomy-need|Autonomy]]*: The need to experience one's behavior as volitional and self-endorsed — to feel like the author of one's actions rather than their instrument. *[[competence-need|Competence]]*: The need to feel effective in interactions with the environment — to experience mastery and growth. *[[relatedness-need|Relatedness]]*: The need to feel connected to others, to care and to be cared for within secure relational contexts. These are *psychological* needs in the strict sense: their satisfaction supports growth, integration, and wellbeing; their frustration produces ill-being...
 > 
 > *Source: self-determination-theory-focused-analysis-2026-03-19* | *Domain: motivational-psychology*
@@ -901,7 +901,7 @@ importance: high
 > *Source: inductive-reasoning-foundational-report-2026-03-06* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[bayesian-inference|Bayesian Inference]]*
 
-> [!definition] **Beck's Three-Tier Vocabulary Framework** **[perm-note]**
+> [!definition] **Beck's Three-Tier Vocabulary Framework** *[needs-note]*
 > **Definition:** A classification of English vocabulary into three pedagogically relevant tiers. *Tier 1* comprises basic, everyday vocabulary acquired through everyday conversation and experience (e.g., *happy*, *walk*, *table*). *Tier 2* comprises high-frequency academic and literary vocabulary that appears across multiple domains of formal discourse but is rarely used in everyday conversation (e.g., *pernicious*, *infer*, *consequence*) — this is the vocabulary most critical for academic literacy and most underserved by reading alone. *Tier 3* comprises low-frequency, domain-specific tech...
 > 
 > *Source: vocabulary-building-reading-dialectical-re-examination-2026-03-28* | *Domain: Other / Uncategorised*
@@ -1064,7 +1064,7 @@ importance: high
 > *Source: baddeley-model-of-working-memory-foundational-report-2026-04-03* | *Domain: cognitive psychology*
 > *Permanent Note: [[central-executive|Central Executive]]*
 
-> [!definition] **CET's Four Propositions** **[perm-note]**
+> [!definition] **CET's Four Propositions** *[needs-note]*
 > [**CET-Four-Propositions-Summary**:: (I) External events affect intrinsic motivation via PLOC and Perceived Competence; (II) Interpersonal context moderates the functional significance of specific events; (III) Controlling and amotivating events undermine intrinsic motivation; informational events can enhance it; (IV) Positive feedback enhances intrinsic motivation only when delivered informationally within autonomy-supportive contexts, not when delivered as evaluative pressure.]
 > 
 > *Source: cognitive-evaluation-theory-foundational-report-2026-04-01* | *Domain: motivational psychology*
@@ -1183,7 +1183,7 @@ importance: high
 > *Source: sdt-focused-analysis-2026-03-06* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[cognitive-evaluation-theory|Cognitive Evaluation Theory]]*
 
-> [!definition] **Cognitive Evaluation Theory — CET** **[perm-note]**
+> [!definition] **Cognitive Evaluation Theory — CET** *[needs-note]*
 > Cognitive Evaluation Theory is the mini-theory within [[self-determination-theory]] that specifies the conditions under which external events — rewards, feedback, surveillance, deadlines, competitive structures — affect intrinsic motivation. CET proposes that external events have three aspects of functional significance: informational (competence-relevant, autonomy-preserving), controlling (autonomy-undermining, PLOC-shifting), and amotivating (competence-disconfirming). Informational events enhance intrinsic motivation; controlling events undermine it; amotivating events collapse it. The t...
 > 
 > *Source: cognitive-evaluation-theory-foundational-report-2026-03-31* | *Domain: Other / Uncategorised*
@@ -1848,13 +1848,13 @@ importance: high
 > *Source: cog-psy-critical-thinking-metacognitive-regulation* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[critical-thinking-as-metacognitively-regulated-reasoning|Critical Thinking as Metacognitively-Regulated Reasoning]]*
 
-> [!definition] **Critical Thinking — Delphi Consensus** **[perm-note]**
+> [!definition] **Critical Thinking — Delphi Consensus** *[needs-note]*
 > The [[delphi-report]] defines critical thinking as "purposeful, self-regulatory judgment which results in interpretation, [[analysis|analysis]], [[evaluation|evaluation]], and [[inference|inference]], as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based. CT is essential as a tool of inquiry" (Facione, 1990, p. 3). This definition was the product of a two-year Delphi process involving forty-six expert panelists drawn from philosophy, education, social science, and physical science.
 > 
 > *Source: critical-thinking-foundational-report-2026-04-01* | *Domain: critical thinking*
 > *Permanent Note: [[Critical-Thinking-—-Delphi-Consensus|Critical Thinking — Delphi Consensus]]*
 
-> [!definition] **Critical Thinking — The Definitional Landscape** **[perm-note]**
+> [!definition] **Critical Thinking — The Definitional Landscape** *[needs-note]*
 > [[critical-thinking]] has been defined in numerous ways across the philosophical, psychological, and educational literatures. [[john-dewey]] (1910) defined [[reflective-thinking|reflective thought]] as "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends." [[robert-ennis]] (1987) offered the influential definition: "reasonable reflective thinking focused on deciding what to believe or do." The [[delphi-report|APA Delphi consensus]] ([[Peter-Facione]], 1990) charact...
 > 
 > *Source: paul-elder-critical-thinking-framework-foundational-report-2026-04-01* | *Domain: critical thinking*
@@ -1981,7 +1981,7 @@ importance: high
 > *Source: schema-theory-foundational-report-2026-03-31* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[declarative-schema|Declarative Schema]]*
 
-> [!definition] **Declarative, Procedural, and Conditional Metacognitive Knowledge** **[perm-note]**
+> [!definition] **Declarative, Procedural, and Conditional Metacognitive Knowledge** *[needs-note]*
 > **Declarative Metacognitive Knowledge:** What one knows *about* cognition — knowledge about oneself as a learner ("I tend to skim when tired and miss important qualifications"), about task demands ("dense theoretical texts require slower reading and more monitoring than narrative texts"), and about strategies ("elaborative interrogation produces deeper understanding than passive re-reading").
 > 
 > **Procedural Metacognitive Knowledge:** Knowledge of *how* to implement cognitive strategies — knowing not just that elaborative interrogation exists, but how to conduct it effectively during actual r...
@@ -1989,7 +1989,7 @@ importance: high
 > *Source: srl-forethought-self-reflection-pkb-focused-analysis-2026-03-24* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]]*
 
-> [!definition] **Declarative, Procedural, and Conditional Schemas** **[perm-note]**
+> [!definition] **Declarative, Procedural, and Conditional Schemas** *[needs-note]*
 > **[[declarative-schemas]]** represent *what* knowledge — facts, concepts, objects, entities, and their properties. The schema for "bird" contains the slots SIZE, PLUMAGE, LOCOMOTION, HABITAT, etc. with default values (small, feathered, flies, trees).
 > 
 > **[[procedural-schemas]]** represent *how* knowledge — sequences of actions for achieving goals. The schema for "boiling water" specifies: fill kettle → place on heat source → wait for boiling → pour. The slots are ACTION-STEPS, SEQUENCE-CONSTRAINTS, and GOAL-STATE.
@@ -2392,7 +2392,7 @@ importance: high
 > *Source: metacognition-in-learning-focused-analysis-2026-03-20* | *Domain: cognitive-psychology/metacognition*
 > *Permanent Note: [[feeling-of-knowing|Feeling of Knowing]]*
 
-> [!definition] **Feeling of Knowing — FOK** **[perm-note]**
+> [!definition] **Feeling of Knowing — FOK** *[needs-note]*
 > A [[feeling-of-knowing|feeling of knowing]] is a metacognitive monitoring event that occurs when retrieval has been attempted but has failed, and the individual nevertheless senses that the unretrieved information is stored in memory and would be recognised if encountered. FOK judgments are driven by the accessibility of partial information related to the target rather than by the actual availability of the target itself.
 > 
 > **Boundary:** FOK is distinct from tip-of-the-tongue (TOT) states, though the two often co-occur. TOT involves the specific sense that retrieval is imminent; FOK is a bro...
@@ -2463,7 +2463,7 @@ importance: high
 > *Source: growth-mindset-first-principles-report-2026-03-11* | *Domain: Educational Psychology*
 > *Permanent Note: [[fixed-mindset|Fixed Mindset]]*
 
-> [!definition] **Flavell's Metacognitive Framework** **[perm-note]**
+> [!definition] **Flavell's Metacognitive Framework** *[needs-note]*
 > Flavell distinguished **[[metacognitive-knowledge|Metacognitive Knowledge]]** (stable declarative knowledge about persons, tasks, and strategies — knowing that re-reading is an ineffective consolidation strategy, for instance) from **[[metacognitive-experiences|Metacognitive Experiences]]** (in-the-moment feelings of knowing, confusion, or fluency that trigger regulatory responses during active learning). This distinction is foundational to SRL theory: metacognitive knowledge provides the repertoire from which the learner selects strategies; metacognitive experiences are the monitoring sign...
 > 
 > *Source: self-regulated-learning-focused-analysis-2026-03-06* | *Domain: Other / Uncategorised*
@@ -2643,7 +2643,7 @@ importance: high
 > *Source: cognitive-evaluation-theory-focused-analysis-2026-03-13* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[functional-significance|Functional Significance]]*
 
-> [!definition] **Functional Significance — Informational, Controlling, Amotivating** **[perm-note]**
+> [!definition] **Functional Significance — Informational, Controlling, Amotivating** *[needs-note]*
 > See full definition in Phase II. Functional significance is the perceived motivational role of an external event — the function the agent interprets the event as serving. Three aspects are identified: informational (competence-affirming, autonomy-preserving), controlling (pressure toward specific outcomes), and amotivating (competence-disconfirming). The dominant aspect in an individual's interpretation determines the motivational consequence of the event.
 > 
 > **See also:** [[autonomy-support]], [[controlling-environment]], [[autonomy-supportive-environment]], [[reward-contingency-types]]
@@ -2727,7 +2727,7 @@ importance: high
 > *Source: writing-to-learn-focused-analysis-2026-03-21* | *Domain: Educational Psychology*
 > *Permanent Note: [[generative-learning-theory|Generative Learning Theory]]*
 
-> [!definition] **Generative Learning Theory (GLT) — Wittrock's Original Formulation** **[perm-note]**
+> [!definition] **Generative Learning Theory (GLT) — Wittrock's Original Formulation** *[needs-note]*
 > A theory of learning and comprehension proposing that meaningful understanding arises from the learner's generative cognitive activity: the active construction of relationships between new information and existing knowledge, experiences, and mental models. Learning is characterized not by the acquisition of information presented externally but by the learner's self-generated mental elaborations, organizational structures, and integrative connections. Coined by Merlin C. Wittrock (1974).
 > 
 > *Source: generative-learning-theory-foundational-report-2026-04-03* | *Domain: educational psychology & learning science*
@@ -2765,7 +2765,7 @@ importance: high
 > *Source: cognitive-load-theory-dialectical-re-examination-2026-03-22* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[germane-cognitive-load|Germane Cognitive Load]]*
 
-> [!definition] **Germane Cognitive Load (Sweller, van Merriënboer & Paas, 1998) — Original Formulation** **[perm-note]**
+> [!definition] **Germane Cognitive Load (Sweller, van Merriënboer & Paas, 1998) — Original Formulation** *[needs-note]*
 > In the original three-component model, germane load referred to the cognitive effort specifically dedicated to schema formation and automation — the "good" load associated with active learning processes. The idea was that once extraneous load was minimized, designers could deliberately increase germane load (e.g., by introducing variability, by requiring self-explanation) to promote deeper schema formation. This construct became theoretically problematic (see Phase III) and was reconceptualized around 2010: subsequent accounts treat what was called germane load as a resource allocation desc...
 > 
 > *Source: cognitive-load-theory-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
@@ -2867,7 +2867,7 @@ importance: high
 > *Source: goal-contents-theory-foundational-report-2026-04-01* | *Domain: motivational psychology*
 > *Permanent Note: [[goal-contents-theory|Goal Contents Theory]]*
 
-> [!definition] **Goal Contents Theory — Core Definition** **[perm-note]**
+> [!definition] **Goal Contents Theory — Core Definition** *[needs-note]*
 > **Goal Contents Theory (GCT)** is a mini-theory within [[self-determination-theory]] that distinguishes between two qualitatively different classes of life aspiration based on their typical relationships to [[basic-psychological-needs-theory|basic psychological need]] satisfaction. **Intrinsic goal content** includes aspirations for personal growth, meaningful relationships (close affiliation), community contribution, and physical health — goals whose pursuit and attainment tend to directly express or satisfy the needs for autonomy, competence, and relatedness. **Extrinsic goal content** in...
 > 
 > *Source: goal-contents-theory-foundational-report-2026-04-01* | *Domain: motivational psychology*
@@ -2964,7 +2964,7 @@ importance: high
 > *Source: how-to-communicate-effectively-annotated-critical-analysis-2026-04-04* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[gricean-cooperative-principle|Gricean Cooperative Principle]]*
 
-> [!definition] **GRM Triad — Goal-Regulation-Metacognition Triad** **[perm-note]**
+> [!definition] **GRM Triad — Goal-Regulation-Metacognition Triad** *[needs-note]*
 > A triadic model proposing that effective goal-directed learning in PKM depends on the dynamic interaction of three mutually constitutive processes: goal formulation, self-regulatory execution, and metacognitive monitoring. Unlike linear models that treat these as sequential stages, the GRM Triad conceives them as simultaneously active vertices of a system, each capable of initiating change in the others. The model predicts specific failure modes when any vertex is underdeveloped.
 > 
 > **Boundary:** The GRM Triad is a theoretical synthesis, not an empirically tested model. It organises existing ...
@@ -3206,7 +3206,7 @@ importance: high
 > *Source: formative-assessment-focused-analysis-2026-03-24* | *Domain: Educational Psychology*
 > *Permanent Note: [[information-transfer-model|Information Transfer Model]]*
 
-> [!definition] **Information Transfer Model (ITM)** **[perm-note]**
+> [!definition] **Information Transfer Model (ITM)** *[needs-note]*
 > **Definition:** The view that formative assessment works primarily through the delivery of accurate, timely, specific information about a student's performance gap. The operative variable is information quality and accessibility. **Boundary conditions:** not wrong, but insufficient; treats the monitoring system as a reliable conduit for information rather than as a variable in its own right.
 > 
 > **Report-Specific Significance:** The foil against which the MCM is developed. The ITM explains some variance but cannot explain the implementation gap or the differential effectiveness findings.
@@ -3493,13 +3493,13 @@ importance: high
 > *Source: generative-learning-theory-foundational-report-2026-04-03* | *Domain: educational psychology & learning science*
 > *Permanent Note: [[judgment-of-learning|Judgment of Learning]]*
 
-> [!definition] **The Judgment of Learning (JOL) Problem** **[perm-note]**
+> [!definition] **The Judgment of Learning (JOL) Problem** *[needs-note]*
 > Judgments of Learning are the metacognitive assessments learners make about how well they have learned material — "I understand this," "I could explain this," "I would get this right on a test." Research consistently shows that JOLs made immediately after studying are systematically overconfident, particularly for material studied through passive reading. Re-reading a passage increases fluency, and learners confuse fluency with understanding. Generative strategies — particularly self-testing and self-explanation — tend to produce more accurate JOLs because they require the learner to actual...
 > 
 > *Source: generative-learning-theory-foundational-report-2026-04-03* | *Domain: educational psychology & learning science*
 > *Permanent Note: [[The-Judgment-of-Learning-JOL-Problem|The Judgment of Learning (JOL) Problem]]*
 
-> [!definition] **Judgment of Learning — JOL** **[perm-note]**
+> [!definition] **Judgment of Learning — JOL** *[needs-note]*
 > A [[judgment-of-learning|judgment of learning]] is a metacognitive monitoring event in which the learner assesses the likelihood that a recently studied item will be successfully recalled at a future test. JOLs can be made immediately after study (immediate JOLs) or after a delay (delayed JOLs). The accuracy of JOLs depends critically on the cue basis: immediate JOLs rely on short-term memory cues and tend to be less accurate; delayed JOLs rely on retrieval attempts from long-term memory and are substantially more accurate.
 > 
 > **Boundary:** JOLs are prospective judgments about *future* perfor...
@@ -3541,7 +3541,7 @@ importance: high
 > *Source: writing-to-learn-focused-analysis-2026-03-21* | *Domain: Educational Psychology*
 > *Permanent Note: [[knowledge-transforming|Knowledge Transforming]]*
 
-> [!definition] **Knowledge-Activation Gap [Original Construct — Speculative Synthesis]** **[perm-note]**
+> [!definition] **Knowledge-Activation Gap [Original Construct — Speculative Synthesis]** *[needs-note]*
 > The systematic failure of stored, declaratively accurate metacognitive knowledge to activate in the relevant regulatory contexts during task performance, even when monitoring conditions that should trigger activation are present. Hypothesized to result from three contributing mechanisms: indexing insufficiency (declarative knowledge indexed to instruction contexts rather than task-embedded monitoring signals), proceduralization deficit (insufficient supported practice to proceduralize declarative knowledge), and monitoring-knowledge decoupling (weak associative links between monitoring stat...
 > 
 > *Source: metacognitive-knowledge-foundational-report-2026-03-31* | *Domain: Other / Uncategorised*
@@ -3559,7 +3559,7 @@ importance: high
 > *Source: writing-techniques-effective-learning-focused-analysis-2026-03-21* | *Domain: Educational Psychology*
 > *Permanent Note: [[knowledge-transforming]]*
 
-> [!definition] **Krashen's Input Hypothesis** **[perm-note]**
+> [!definition] **Krashen's Input Hypothesis** *[needs-note]*
 > **Definition:** The theoretical claim that language acquisition — including vocabulary acquisition — occurs through exposure to *comprehensible input* slightly beyond the learner's current level (*i+1*). On this view, explicit instruction plays a minor role; the primary acquisition mechanism is the processing of large quantities of meaningful, comprehensible input. Applied to vocabulary, the hypothesis predicts that extensive reading is the primary and most efficient vocabulary acquisition mechanism.
 > 
 > **Report-Specific Significance:** The proximate theoretical source of the received view un...
@@ -4050,7 +4050,7 @@ importance: high
 > *Source: formative-assessment-focused-analysis-2026-03-24* | *Domain: Educational Psychology*
 > *Permanent Note: [[metacognitive-calibration-model|Metacognitive Calibration Model]]*
 
-> [!definition] **Metacognitive Calibration Model (MCM)** **[perm-note]**
+> [!definition] **Metacognitive Calibration Model (MCM)** *[needs-note]*
 > **Definition:** The view that formative assessment's operative mechanism is the correction of metacognitive miscalibration — aligning students' monitoring accuracy with their actual knowledge state. The operative variable is calibration receptivity (the accuracy of the monitoring system *before* feedback is processed). **Boundary conditions:** most powerful for learners in the intermediate zone — enough knowledge to study but not enough to be accurately calibrated; less distinctive for expert learners with already-good calibration.
 > 
 > **Cross-References:** [[nelson-narens-model]], [[Metacogni...
@@ -4132,7 +4132,7 @@ importance: high
 > *Source: metacognition-and-reading-foundational-report-2026-03-31* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[metacognitive-knowledge-of-reading|Metacognitive Knowledge of Reading]]*
 
-> [!definition] **Metacognitive Knowledge — Flavell's Tripartite Taxonomy** **[perm-note]**
+> [!definition] **Metacognitive Knowledge — Flavell's Tripartite Taxonomy** *[needs-note]*
 > Metacognitive knowledge refers to stably held, often consciously accessible beliefs about cognition, organized along three axes: (1) **Person knowledge** — what one knows about oneself and others as cognitive agents, including relative strengths, limitations, and universal cognitive characteristics; (2) **Task knowledge** — what one knows about how different task features (novelty, complexity, goal structure) affect cognitive demands and appropriate approaches; (3) **Strategy knowledge** — what one knows about cognitive and metacognitive strategies, including their existence, relative effec...
 > 
 > *Source: metacognitive-development-foundational-report-2026-04-09* | *Domain: cognitive psychology*
@@ -4206,7 +4206,7 @@ importance: high
 > *Source: nelson-narrens-metacognitive-model-foundational-report-2026-04-16* | *Domain: cognitive psychology*
 > *Permanent Note: [[metacognitive-sensitivity|Metacognitive Sensitivity]]*
 
-> [!definition] **Metacognitive Sensitivity — meta-d'** **[perm-note]**
+> [!definition] **Metacognitive Sensitivity — meta-d'** *[needs-note]*
 > Metacognitive sensitivity, measured by the meta-d' statistic, quantifies the ability of the metacognitive system to discriminate between correct and incorrect cognitive outputs. It is derived from signal detection theory and controls for first-order task performance, isolating the specifically metacognitive component of confidence judgments.
 > 
 > **Boundary:** Meta-d' measures resolution (relative accuracy), not calibration (absolute accuracy).
@@ -4355,7 +4355,7 @@ importance: high
 > *Source: metacognition-silent-reading-focused-analysis-2026-03-21* | *Domain: Cognitive Psychology*
 > *Permanent Note: [[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]]*
 
-> [!definition] **Monitoring–Control Coupling** **[perm-note]**
+> [!definition] **Monitoring–Control Coupling** *[needs-note]*
 > [[monitoring-control-coupling|Monitoring–control coupling]] refers to the degree to which metacognitive monitoring information is effectively translated into metacognitive control actions. Tight coupling means that accurate monitoring leads to adaptive control (e.g., allocating more study time to items judged as poorly learned). [[monitoring-regulation-decoupling|Decoupling]] occurs when monitoring information is available but is not acted upon, or when control actions do not correspond to monitoring signals.
 > 
 > **Boundary:** Coupling is a relational property of the monitoring–control system,...
@@ -4458,7 +4458,7 @@ importance: high
 > *Source: inner-speech-attribution-self-efficacy-focused-analysis-2026-03-25* | *Domain: motivation-science*
 > *Permanent Note: [[motivational-lexicon|Motivational Lexicon]]*
 
-> [!definition] **Motivational Quality — SDT Continuum** **[perm-note]**
+> [!definition] **Motivational Quality — SDT Continuum** *[needs-note]*
 > SDT defines motivation quality in terms of regulatory style along a continuum from external regulation (acting to obtain external rewards or avoid punishment) through introjected regulation (acting to protect self-esteem or gain internal ego rewards) through identified regulation (acting because the activity is personally valued even if not inherently enjoyable) to integrated regulation (acting because the activity is fully congruent with one's deeper values and identity) to intrinsic motivation (acting for the inherent interest and enjoyment of the activity itself).
 > 
 > **Boundary:** SDT does...
@@ -5019,7 +5019,7 @@ importance: high
 > *Source: self-determination-theory-dialectical-re-examination-2026-03-19* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[perceived-locus-of-causality|Perceived Locus of Causality]]*
 
-> [!definition] **Perceived Locus of Causality — PLOC** **[perm-note]**
+> [!definition] **Perceived Locus of Causality — PLOC** *[needs-note]*
 > See full definition in Phase II. The PLOC is the subjective sense that one's behavior is self-determined (internal PLOC) or externally caused (external PLOC). In CET, controlling events shift the PLOC toward external; informational events preserve or enhance the internal PLOC. The PLOC mediates the relationship between external event type and intrinsic motivation.
 > 
 > **See also:** [[perceived-locus-of-causality]], [[autonomy-need]], [[autonomous-motivation]], [[controlled-motivation]], [[external-regulation]]
@@ -5105,7 +5105,7 @@ importance: high
 > *Source: schema-externalization-pkb-long-term-memory-foundational-report-2026-04-05* | *Domain: cognitive science / personal knowledge management*
 > *Permanent Note: [[personal-knowledge-base|Personal Knowledge Base]]*
 
-> [!definition] **Personal Knowledge Base — PKB** **[perm-note]**
+> [!definition] **Personal Knowledge Base — PKB** *[needs-note]*
 > A [[personal-knowledge-base]] (PKB) is a structured, interconnected system for capturing, organizing, developing, and retrieving personal knowledge — typically implemented as a digital tool (such as [[obsidian]], Logseq, or Roam Research) that supports bidirectional linking, metadata tagging, and progressive elaboration. Unlike a simple note archive, a PKB is designed to grow into a *knowledge graph* where the *relationships between ideas* are as important as the ideas themselves, and where the act of building the system is itself a primary mechanism of learning.
 > 
 > **Boundary:** A PKB is not...
@@ -5121,7 +5121,7 @@ importance: high
 > *Source: cognitive-load-theory-and-pkm-foundational-report-2026-04-12* | *Domain: cognitive psychology*
 > *Permanent Note: [[personal-knowledge-management|Personal Knowledge Management]]*
 
-> [!definition] **Personal Knowledge Management — PKM** **[perm-note]**
+> [!definition] **Personal Knowledge Management — PKM** *[needs-note]*
 > An integrated set of practices, tools, and strategies through which an individual captures, organises, processes, connects, retrieves, and applies knowledge. Extends beyond information management to include active knowledge construction and the development of an external representation of one's conceptual understanding.
 > 
 > **Boundary:** PKM is not synonymous with note-taking, information hoarding, or productivity systems. The distinguishing feature is *knowledge construction* — the transformation of information into integrated understanding through active processing.
@@ -5137,7 +5137,7 @@ importance: high
 > *Source: self-directed-learning-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[personal-responsibility-orientation|Personal Responsibility Orientation]]*
 
-> [!definition] **Phase vs. Area — A Critical Distinction** **[perm-note]**
+> [!definition] **Phase vs. Area — A Critical Distinction** *[needs-note]*
 > Phases and areas interact, but they are not the same thing. A *phase* describes a temporal moment in the regulatory cycle; an *area* describes a domain of regulatory attention. The monitoring phase involves monitoring cognition, monitoring motivation, monitoring behavior, and monitoring context — four distinct monitoring activities happening within the same temporal window. Confusing phases with areas leads to systematically incomplete models that effectively reduce to single-area monitoring (usually cognition) spread across time.
 > 
 > *Source: pintrichs-framework-srl-focused-analysis-2026-03-23* | *Domain: Educational Psychology*
@@ -5197,7 +5197,7 @@ importance: high
 > *Source: silent-reading-fluency-speed-comprehension-focused-analysis-2026-03-21* | *Domain: Cognitive Psychology*
 > *Permanent Note: [[phonological-loopphonological-loop|Phonological-Loop|Phonological Loop]]*
 
-> [!definition] **Pintrich's 4×4 Matrix** **[perm-note]**
+> [!definition] **Pintrich's 4×4 Matrix** *[needs-note]*
 > **Definition:** A theoretical architecture for self-regulated learning consisting of four regulatory phases (Forethought/Planning/Activation; Monitoring; Control; Reaction/Reflection) crossed with four regulated areas (Cognition; Motivation/Affect; Behavior; Context), generating 16 cells each representing a distinct regulatory activity. The matrix is analytic — it decomposes simultaneous regulatory processes for examination — not sequential.
 > 
 > **Report-Specific Significance:** The matrix structure is both Pintrich's principal contribution and the source of the tractability problem identified...
@@ -5205,7 +5205,7 @@ importance: high
 > *Source: pintrichs-framework-srl-focused-analysis-2026-03-23* | *Domain: Educational Psychology*
 > *Permanent Note: [[Pintrich's-4×4-Matrix|Pintrich's 4×4 Matrix]]*
 
-> [!definition] **Pintrich's Motivational Integration** **[perm-note]**
+> [!definition] **Pintrich's Motivational Integration** *[needs-note]*
 > Pintrich extended Zimmerman's primarily cognitive account by foregrounding [[motivational-regulation|Motivational Regulation]] as a co-equal component of self-regulation alongside cognitive and metacognitive regulation. His framework distinguishes: **[[goal-orientation|Goal Orientation]]** (mastery vs. performance approach vs. performance avoidance — which shapes not just effort level but the qualitative nature of regulatory behavior); **[[task-value|Task Value]]** (intrinsic interest, utility value, and attainment value — which determine whether regulation is initiated in the first place);...
 > 
 > *Source: self-regulated-learning-focused-analysis-2026-03-06* | *Domain: Other / Uncategorised*
@@ -5960,7 +5960,7 @@ importance: high
 > *Source: relationship-motivation-theory-focused-analysis-2026-03-13* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[relationship-motivation-theory|Relationship Motivation Theory]]*
 
-> [!definition] **Relationship Motivation Theory — Core Definition** **[perm-note]**
+> [!definition] **Relationship Motivation Theory — Core Definition** *[needs-note]*
 > Relationship Motivation Theory (RMT) is the sixth mini-theory within Self-Determination Theory, proposing that people are motivated to pursue close relationships in qualitatively different ways — autonomously (because the relationships are genuinely valued and the other person matters intrinsically) or in a controlled fashion (because of guilt, obligation, fear of rejection, or contingent self-worth). RMT further proposes that perceived partner responsiveness — the degree to which one's partner is perceived to see, understand, validate, and care for one's authentic self — is the primary mec...
 > 
 > *Source: relationship-motivation-theory-foundational-report-2026-04-01* | *Domain: motivational psychology*
@@ -6131,7 +6131,7 @@ importance: high
 > *Source: feedback-design-autonomy-mastery-foundational-report-2026-03-10* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[rubric]]*
 
-> [!definition] **Rumelhart's Schema Specification** **[perm-note]**
+> [!definition] **Rumelhart's Schema Specification** *[needs-note]*
 > A schema, in Rumelhart's formalization, is a data structure that represents a generalized concept. It consists of:
 > 1. **A network of interrelated concepts** — the elements of the schema and their relationships
 > 2. **Variable slots** — positions within the schema that can be filled by specific instances (variables, not constants)
@@ -6144,7 +6144,7 @@ importance: high
 > *Source: schema-and-how-they-work-deep-dive-2026-04-08* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Rumelhart's-Schema-Specification|Rumelhart's Schema Specification]]*
 
-> [!definition] **Rumelhart's Technical Schema Specification** **[perm-note]**
+> [!definition] **Rumelhart's Technical Schema Specification** *[needs-note]*
 > For Rumelhart, a schema is a data structure for representing generic concepts — not a fixed template but a packet of information that includes: (1) a set of variables (slots) representing attributes of the concept; (2) constraints on the values those variables can take; (3) default values (typical values assumed when specific information is unavailable); and (4) embedded sub-schemas representing constituent components. Crucially, Rumelhart specified that schemas are not passive stored memories but active *procedures* — they impose themselves on incoming information through a process of inst...
 > 
 > *Source: schema-theory-foundational-report-2026-04-03* | *Domain: cognitive psychology*
@@ -6196,7 +6196,7 @@ importance: high
 > *Source: constructivist-learning-theory-foundational-report-2026-03-31* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[scaffolding]]*
 
-> [!definition] **Scaffolding — Instructional Design** **[perm-note]**
+> [!definition] **Scaffolding — Instructional Design** *[needs-note]*
 > Contingent support provided to a learner working within their [[zone-of-proximal-development]] that enables task performance currently beyond independent capability. Six defining functions: recruitment (engaging learner interest in the task), reduction of degrees of freedom (simplifying the task without eliminating its essential structure), direction maintenance (keeping the learner focused on the goal), marking critical features (highlighting key errors and relevant task features), frustration control (managing the affective response to difficulty), and demonstration (modelling ideal solut...
 > 
 > *Source: metacognitive-scaffolding-focused-analysis-2026-03-20* | *Domain: Educational Psychology*
@@ -6314,7 +6314,7 @@ importance: high
 > *Source: schema-and-how-they-work-deep-dive-2026-04-08* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[schema-intrusion-error|Schema Intrusion Error]]*
 
-> [!definition] **Schema — Core Definition** **[perm-note]**
+> [!definition] **Schema — Core Definition** *[needs-note]*
 > A **schema** (plural: *schemas* or *schemata*) is a structured, hierarchical, and dynamic cognitive framework that encodes generalized knowledge about a domain, category, event, or situation. Schemas are mental data structures organized around a central concept or prototype that contain variables (slots) with associated ranges of permissible values (default values). Rather than encoding specific episodic facts, schemas represent abstracted, typicalized knowledge derived from experience — the "what typically goes together" structure of the world as the mind has modeled it.
 > 
 > *Source: schema-theory-foundational-report-2026-04-03* | *Domain: cognitive psychology*
@@ -6409,7 +6409,7 @@ importance: high
 > *Source: self-directed-learning-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[self-directed-learning-readiness-scale|Self-Directed Learning Readiness Scale]]*
 
-> [!definition] **Self-Directedness — Trait or Readiness Sense** **[perm-note]**
+> [!definition] **Self-Directedness — Trait or Readiness Sense** *[needs-note]*
 > A relatively stable cluster of attitudes, abilities, and personal characteristics associated with taking initiative and responsibility in learning. This includes openness to learning opportunities, self-concept as an effective and independent learner, initiative and independence in learning, informed acceptance of responsibility for one's own learning, love of learning, creativity, future orientation, and the ability to use basic study and problem-solving skills. Self-directedness, in this sense, is not something one does but something one *has* — a readiness or propensity that varies acros...
 > 
 > *Source: self-directed-learning-foundational-report-2026-03-11* | *Domain: Other / Uncategorised*
@@ -6523,7 +6523,7 @@ importance: high
 > *Source: sdt-srl-comparative-synthesis-2026-03-19* | *Domain: Educational Psychology*
 > *Permanent Note: [[self-regulated-learning-srl|Self-Regulated Learning / SRL]]*
 
-> [!definition] **Self-Regulated Learning — SRL** **[perm-note]**
+> [!definition] **Self-Regulated Learning — SRL** *[needs-note]*
 > An active, constructive process by which learners set goals, monitor progress, and regulate their cognition, motivation, and behavior. SRL is distinguished from passive learning by the learner's agentic role in initiating, sustaining, and adjusting their learning processes. Not synonymous with self-directed learning, which emphasizes the learner's control over goals and context; SRL can occur within externally set goals.
 > 
 > *Source: zimmerman-srl-focused-analysis-2026-03-22* | *Domain: Learning Science*
@@ -6684,7 +6684,7 @@ importance: high
 > *Source: situation-model-construction-focused-analysis-2026-03-29* | *Domain: reading-comprehension*
 > *Permanent Note: [[situation-model|Situation Model]]*
 
-> [!definition] **The Situation-Models-van-Dijk-&-Kintsch|Three-Level Model of Text Representation** **[perm-note]**
+> [!definition] **The Situation-Models-van-Dijk-&-Kintsch|Three-Level Model of Text Representation** *[needs-note]*
 > **Definition:** Text comprehension produces three levels of representation, each dependent on but not reducible to the one below it. The **surface code** (exact words and syntax) fades rapidly. The **propositional text base** (explicit semantic content) persists longer and supports recognition and verbatim recall. The **situation model** (mental representation of the described world) persists longest, supports inference, transfer, and application, and constitutes the gold standard of comprehension. Crucially, the levels are dissociable: readers can succeed at one while failing at the next.
 > 
 > *Source: situation-model-construction-dialectical-re-examination-2026-03-29* | *Domain: Other / Uncategorised*
@@ -6720,7 +6720,7 @@ importance: high
 > *Source: critical-thinking-educational-settings-foundational-report-2026-03-05* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[socratic-method|Socratic Method]]*
 
-> [!definition] **The SOI Model — Three Core Processes** **[perm-note]**
+> [!definition] **The SOI Model — Three Core Processes** *[needs-note]*
 > **Selection**: The learner actively attends to and selects relevant information from the available sensory input, filtering out irrelevant or redundant material. This is not passive perception but active attentional deployment guided by prior knowledge, goals, and comprehension monitoring.
 > **Organization**: The learner arranges selected information into a coherent internal structure, forming a mental representation that captures the relationships between elements (temporal, causal, hierarchical, comparative). This produces a mental model or schema fragment rather than a list.
 > **Integration*...
@@ -7285,13 +7285,13 @@ importance: high
 > *Source: reading-fluency-automaticity-focused-analysis-2026-03-20* | *Domain: Cognitive Psychology*
 > *Permanent Note: [[working-memory-in-reading|Working Memory in Reading]]*
 
-> [!definition] **Working Memory — The Cognitive Workspace** **[perm-note]**
+> [!definition] **Working Memory — The Cognitive Workspace** *[needs-note]*
 > **Working memory** refers to the temporary storage and active manipulation of information necessary for complex cognitive tasks such as reasoning, comprehension, learning, and action. Unlike passive short-term memory stores in older models, working memory is fundamentally active: it is a workspace where information is not merely held but operated upon, transformed, combined with information from long-term memory, and used to guide ongoing cognition. [[alan-baddeley]] and [[graham-hitch]] proposed in 1974 that this workspace is not a unitary buffer but a multicomponent system with distinct s...
 > 
 > *Source: baddeley-model-of-working-memory-foundational-report-2026-04-03* | *Domain: cognitive psychology*
 > *Permanent Note: [[Working-Memory-—-The-Cognitive-Workspace|Working Memory — The Cognitive Workspace]]*
 
-> [!definition] **Working Memory–Long-Term Memory Interface** **[perm-note]**
+> [!definition] **Working Memory–Long-Term Memory Interface** *[needs-note]*
 > The bidirectional relationship between working memory's active processing space and long-term memory's schema repository. Information is encoded into long-term memory through working memory processing; retrieval from long-term memory into working memory is cue-dependent and schema-guided. Experts in a domain are distinguished not by larger working memories but by more richly organized long-term memories that allow large amounts of relevant information to be retrieved as compact schemas into working memory on demand.
 > 
 > **Boundary:** Even experts with massive domain-relevant long-term memory s...
@@ -7534,19 +7534,19 @@ importance: high
 
 ## _Z
 
-> [!definition] **Zimmerman's Cyclical Model of Self-Regulated Learning** **[perm-note]**
+> [!definition] **Zimmerman's Cyclical Model of Self-Regulated Learning** *[needs-note]*
 > A [[Social-Cognitive-Theory-—-Bandura|social cognitive]] account of self-regulated learning organized as a three-phase cycle — Forethought, Performance, and Self-Reflection — each containing two sub-process categories. The cyclical claim asserts that self-reflection outputs directly shape subsequent forethought inputs, making the cycle self-modifying: learners who close the cycle with accurate adaptive inferences enter the next forethought phase with calibrated expectations, while learners who close with defensive inferences enter the next forethought phase with distorted ones.
 > 
 > *Source: zimmerman-cyclical-srl-focused-analysis-2026-03-23* | *Domain: Educational Psychology*
 > *Permanent Note: [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's Cyclical Model of Self-Regulated Learning]]*
 
-> [!definition] **Zimmerman's Cyclical Model of Self-Regulation** **[perm-note]**
+> [!definition] **Zimmerman's Cyclical Model of Self-Regulation** *[needs-note]*
 > Zimmerman's model describes self-regulation as a three-phase cycle: the **[[forethought-phase|Forethought Phase]]** (task analysis through goal-setting and strategic planning, underpinned by self-motivational beliefs including [[self-efficacy|self-efficacy]] and goal orientation); the **[[performance-phase|Performance Phase]]** (self-control processes such as imagery, self-instruction, and attention focusing, combined with **[[self-monitoring|self-monitoring]]** of performance quality); and the **[[self-reflection-phase|Self-Reflection Phase]]** (self-judgment comparing current performance ...
 > 
 > *Source: self-regulated-learning-focused-analysis-2026-03-06* | *Domain: Other / Uncategorised*
 > *Permanent Note: [[Zimmerman's-Cyclical-Model-of-Self-Regulation|Zimmerman's Cyclical Model of Self-Regulation]]*
 
-> [!definition] **Zimmerman's Cyclical SRL Model** **[perm-note]**
+> [!definition] **Zimmerman's Cyclical SRL Model** *[needs-note]*
 > **Cyclical SRL Model**: Barry Zimmerman's framework describing self-regulated learning as a three-phase recursive cycle:
 > - **Forethought Phase**: Pre-task processes including goal-setting, strategic planning, and motivational belief activation
 > - **Performance Phase**: During-task processes including self-monitoring, self-instruction, and attention focusing

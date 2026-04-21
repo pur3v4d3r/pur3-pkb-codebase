@@ -2920,22 +2920,6 @@ h6 {
    }
    
    
-   /* ═══════════════════════════════════════════════════════════════════════════
-      SECTION 12: ACCESSIBILITY — Reduced Motion
-      ═══════════════════════════════════════════════════════════════════════════ */
-   
-   @media (prefers-reduced-motion: reduce) {
-     .callout {
-       animation: none !important;
-       transition: none !important;
-     }
-     .callout::before {
-       animation: none !important;
-     }
-     .callout-icon {
-       transition: none !important;
-     }
-   }
    
    /* ── Print: Strip effects ───────────────────────────────────────────────── */
    @media print {
@@ -2966,35 +2950,5 @@ h6 {
    
 
 
-/* ═══════════════════════════════════════════════════════════════════════════
-   PART 21: ACCESSIBILITY & REDUCED MOTION [A11Y]
-   Respects user motion preferences and print media
-   ═══════════════════════════════════════════════════════════════════════════ */
-
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.001ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.001ms !important;
-  }
-}
-
-@media print {
-  .callout {
-    box-shadow: none !important;
-    border: 1px solid #666 !important;
-    border-left: 4px solid #333 !important;
-    background: #fff !important;
-  }
-  .callout-title {
-    background: #f0f0f0 !important;
-    color: #333 !important;
-  }
-  .callout-content {
-    color: #000 !important;
-  }
-}
 
 /* === END OF FILE: theme.css === */

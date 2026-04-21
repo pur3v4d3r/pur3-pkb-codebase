@@ -169,22 +169,6 @@ importance: medium
 **Related concepts:**
 [[william-james|William-James]] · [[psychology]] · [[philosophy]] · [[habit-formation|Habit-Formation]] · [[consciousness]] · [[harvard-university|Harvard-University]] · [[american-pragmatism|American-pragmatism]] · [[evolutionary-theory]] · [[neurology]] · [[phenomenology]] · [[plasticity]] · [[adaptation]] · [[neuroscience]] · [[john-dewey|John-Dewey]] · [[progressive-education]] · [[Skill-Acquisition|Skill-Acquisition]] · [[automaticity|Automaticity]] · [[conscious-attention]] · [[procedural-memory|Procedural-Memory]] · [[working-memory|Working-Memory]] · [[attention|Attention]] · [[Cognitive-Control|Cognitive-Control]] · [[synaptic-plasticity|synaptic plasticity]] · [[neurogenesis]] · [[experience-dependent-brain-development|experience-dependent brain development]] · [[metacognition|Metacognition]] · [[critical-thinking|Critical-Thinking]] · [[attention|Attention]] · [[natural-science|natural science]] · [[biological]]
 
-**Related concepts** *(from [[cog-psy-william-james]])*:
-[[synaptic-plasticity|synaptic plasticity]] * [[experience-dependent-brain-development|experience-dependent brain development]] * [[natural-science|natural science]] * [[subjective-experience|subjective experience]] * [[functional-psychology|Functional-Psychology]] * [[higher-cognitive-functions|higher cognitive functions]] * [[automatic-processes|automatic processes]] * [[British-empiricism|British-empiricism]] * [[John-Locke|John Locke]] * [[david-hume|David-Hume]] * [[German-idealism|German-idealism]] * [[Hegel|Hegel]] * [[Associationism|Associationism]] * [[Alexander-Bain|Alexander-Bain]] * [[James-Mill|James-Mill]] * [[Wilhelm-Wundt|Wilhelm Wundt]] * [[experience|experience]] * [[practice|practice]] * [[Henry-James|Henry James]] * [[physiological-psychology|physiological psychology]] * [[brain-anatomy|brain anatomy]] * [[neural-structures|neural structures]] * [[structuralism|structuralism]] * [[edward-titchener|Edward-Titchener]] * [[Darwinian|Darwinian]] * [[comparative-anatomy|comparative anatomy]] * [[physiology|physiology]] * [[Henry-Holt|Henry Holt]] * [[French-psychology|French psychology]] * [[Théodule-Ribot|Théodule Ribot]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[pragmatic-philosophy|pragmatic philosophy]]
-
-**Cross-report connections** *(from [[cog-psy-william-james]])*:
-- [[Dewey's-Reflective-Thinking|Dewey's-Reflective-Thinking]]
-- [[metacognitive-awareness|metacognitive-awareness]]
-- [[dual-process-theory|Dual-Process-Theory]]
-- [[cognitive-load-theory|Cognitive-Load-Theory]]
-- [[transfer-of-learning|Transfer-of-Learning]]
-
-
-
-
 ## References
 
 - **Untitled**: **Primary Sources:**

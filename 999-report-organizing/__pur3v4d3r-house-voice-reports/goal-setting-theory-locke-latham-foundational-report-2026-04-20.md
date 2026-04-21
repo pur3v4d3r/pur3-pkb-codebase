@@ -132,20 +132,8 @@ original_contributions:
     type: "theoretical-integration"
     epistemic_status: "well-motivated-synthesis"
     validation_needed: true
-callout_count: "to be updated"
 
-# ═══════════════════════════════════════════════════════════════
-# ORIGINAL CONTRIBUTIONS (Pipeline-Compatible)
-# ═══════════════════════════════════════════════════════════════
-original_contributions:
-  - name: "The Translation Window"
-    type: "theoretical-integration"
-    epistemic_status: "well-motivated-synthesis"
-    validation_needed: true
-  - name: "Goal-Setting–SDT Reconciliation via the Quality of Commitment"
-    type: "theoretical-integration"
-    epistemic_status: "well-motivated-synthesis"
-    validation_needed: true
+
 
 # ═══════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -159,7 +147,7 @@ connection-strength:
   medium: ["Implementation Intentions", "Deliberate Practice"]
   exploratory: ["Cybernetic Control Models"]
 ---
-
+[[2026-04-20-2152-srl-session]]
 # Goal Setting Theory (Locke & Latham): A Foundational Report
 
 ## Abstract

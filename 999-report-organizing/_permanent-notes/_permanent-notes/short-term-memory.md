@@ -76,6 +76,7 @@ see-also:
   - "[[cognitive-load-theory|Cognitive-Load-Theory]]"
   - "[[Retrieval-Practice-and-the-Testing-Effect|Retrieval-Practice-and-the-Testing-Effect]]"
   - "[[schema-theory|Schema-Theory]]"
+  - "[[hermann-ebbinghaus|Hermann-Ebbinghaus]]"
   - "[[Forgetting-Curve|Forgetting-Curve]]"
   - "[[Savings-in-Relearning|Savings-in-Relearning]]"
   - "[[george-miller|George-Miller]]"
@@ -83,6 +84,7 @@ see-also:
   - "[[richard-shiffrin|Richard-Shiffrin]]"
   - "[[Iconic-Memory|Iconic-Memory]]"
   - "[[Echoic-Memory|Echoic-Memory]]"
+  - "[[working-memory|Working-Memory]]"
   - "[[alan-baddeley|Alan-Baddeley]]"
   - "[[graham-hitch|Graham-Hitch]]"
   - "[[phonological-loop|Phonological-Loop]]"
@@ -232,18 +234,6 @@ importance: high
 **Related concepts:**
 [[working-memory|Working-Memory]] · [[long-term-memory|Long-Term-Memory]] · [[hermann-ebbinghaus|Hermann-Ebbinghaus]] · [[cognitive-load-theory|Cognitive-Load-Theory]] · [[Retrieval-Practice-and-the-Testing-Effect|Retrieval-Practice-and-the-Testing-Effect]] · [[schema-theory|Schema-Theory]] · [[hermann-ebbinghaus|Hermann-Ebbinghaus]] · [[Forgetting-Curve|Forgetting-Curve]] · [[Savings-in-Relearning|Savings-in-Relearning]] · [[george-miller|George-Miller]] · [[richard-atkinson|Richard-Atkinson]] · [[richard-shiffrin|Richard-Shiffrin]] · [[Iconic-Memory|Iconic-Memory]] · [[Echoic-Memory|Echoic-Memory]] · [[working-memory|Working-Memory]] · [[alan-baddeley|Alan-Baddeley]] · [[graham-hitch|Graham-Hitch]] · [[phonological-loop|Phonological-Loop]] · [[visuospatial-sketchpad|Visuospatial-Sketchpad]] · [[central-executive|Central-Executive]] · [[episodic-buffer|Episodic-Buffer]] · [[Norman-and-Shallice|Norman-and-Shallice]] · [[endel-tulving|Endel-Tulving]] · [[hippocampus|Hippocampus]] · [[central-executive|Central-Executive]] · [[Norman-and-Shallice|Norman-and-Shallice]] · [[Miyake-and-colleagues|Miyake-and-colleagues]] · [[long-term-memory|Long-Term-Memory]] · [[schema-theory|Schema-Theory]] · [[frederic-bartlett|Frederic-Bartlett]]
 
-**Related concepts** *(from [[memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11]])*:
-[[David-Rumelhart|David-Rumelhart]] * [[jean-piaget|Jean-Piaget]] * [[Nelson-Cowan|Nelson-Cowan]] * [[larry-squire|Larry-Squire]] * [[basal-ganglia|Basal-Ganglia]] * [[Amygdala|Amygdala]] * [[Standard-Model-of-Consolidation|Standard-Model-of-Consolidation]] * [[Lynn-Nadel|Lynn-Nadel]] * [[Morris-Moscovitch|Morris-Moscovitch]] * [[Fergus-Craik|Fergus Craik]] * [[Robert-Lockhart|Robert Lockhart]] * [[von-Restorff-Effect|von Restorff Effect]] * [[Emotional-Memory|Emotional Memory]] * [[Tip-of-the-Tongue-Phenomenon|Tip-of-the-Tongue Phenomenon]] * [[Jorge-Luis-Borges|Jorge Luis Borges]] * [[Ebbinghaus|Ebbinghaus]] * [[john-sweller|John-Sweller]] * [[Robert-Bjork|Robert-Bjork]] * [[Ulric-Neisser|Ulric Neisser]] * [[Everyday-Memory|Everyday Memory]] * [[Adele-Diamond|Adele Diamond]] * [[Akira-Miyake-and-colleagues|Akira Miyake and colleagues]] * [[daniel-willingham|Daniel-Willingham]] * [[Multiple-Trace-Theory|Multiple-Trace-Theory]] * [[levels-of-processing-theory|Levels-of-Processing-Theory]] * [[Spacing-Effect-and-Distributed-Practice|Spacing Effect and Distributed Practice]] * [[Forgetting:-Decay,-Interference,-and-Retrieval-Failure|Forgetting: Decay, Interference, and Retrieval Failure]] * [[sleep-and-memory-consolidation|Sleep-and-Memory-Consolidation]] * [[Neuroscience-of-Memory:-Hippocampus,-Synaptic-Plasticity,-and-LTP|Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]] * [[foundational-report-generator-v1.0|Foundational-Report-Generator-v1.0]]
-
-**Cross-report connections** *(from [[memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11]])*:
-- [[cognitive-load-theory|Cognitive-Load-Theory]]
-- [[schema-theory|Schema-Theory]]
-- [[metacognition-and-lifelong-learning|Metacognition-and-Lifelong-Learning]]
-- [[feedback-design-for-autonomy-and-mastery|Feedback-Design-for-Autonomy-and-Mastery]]
-- [[achievement-goal-theory|Achievement-Goal-Theory]]
-
-
-
 ## References
 
 - **Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.**: The foundational multi-store model paper. Introduced the sensory register, short-term store, and long-term store as a unified architecture, along with the concept of control processes (rehearsal, coding strategies) that modulate transfer between stores. Essential background for understanding what Baddeley & Hitch were responding to. Dated in its specifics but historically indispensable; still the clearest articulation of the case for structurally distinct memory stores.
@@ -256,30 +246,6 @@ importance: high
 - **Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science*, 17(3), 249–255.**: A landmark study establishing the testing effect in educationally relevant conditions. Compared re-study versus repeated testing on retention of prose passages over a one-week interval. Testing produced dramatically better retention than re-studying, particularly over longer delays. One of the most practically important papers in applied memory research and a key empirical basis for the instructional design recommendations in Phase V. Accessible to non-specialists; should be read directly by anyone engaged in educational practice.
 
 *Citations sourced from [[memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11]]*
-
-- **Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.**: The foundational multi-store model paper. Introduced the sensory register, short-term store, and long-term store as a unified architecture, along with the concept of control processes (rehearsal, coding strategies) that modulate transfer between stores. Essential background for understanding what Baddeley & Hitch were responding to. Dated in its specifics but historically indispensable; still the clearest articulation of the case for structurally distinct memory stores.
-
-- **Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. A. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47–89). Academic Press.**: The paper introducing the working memory model. Presented dual-task evidence undermining the unitary STM construct and proposed the phonological loop, visuospatial sketchpad, and central executive as the three-component working memory system. The most influential single paper in the history of short-term memory research. Readers interested in the empirical methodology underlying the model (particularly the dual-task paradigm) should read this alongside Baddeley's 2000 update below.
-
-- **Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.**: Introduces the episodic buffer as a fourth component of the working memory model, addressing the original three-component model's difficulty explaining how information from different systems and from long-term memory is integrated into multimodal representations. Concise and accessible. Also important as a record of how the model was updated in response to anomalies — a useful example of theory revision in cognitive psychology.
-
-- **Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.**: One of the most cited papers in psychology. Established the ~7-item capacity limit of short-term memory, introduced the concept of chunking as the mechanism explaining how the limit applies to meaningful units rather than raw information, and demonstrated the value of information-theoretic analysis for cognitive psychology. The "magic number" has been revised downward in subsequent research (particularly by Cowan, who argues for ~4 as the capacity of the attentional focus), but the paper remains definitively influential.
-
-- **Tulving, E. (1972). Episodic and semantic memory. In E. Tulving & W. Donaldson (Eds.), *Organization of Memory* (pp. 381–403). Academic Press.**: The first systematic articulation of the episodic/semantic distinction within long-term memory. Tulving argued that episodic memory is temporally oriented and personally experienced, while semantic memory is a cognitive map of the world stripped of episodic context. The distinction has generated substantial subsequent debate (particularly about whether the two are neurologically independent), but the conceptual framework remains foundational for the entire multiple memory systems approach.
-
-- **Squire, L. R. (1992). Memory and the hippocampus: A synthesis from findings with rats, monkeys, and humans. *Psychological Review*, 99(2), 195–231.**: A comprehensive review synthesising the neuropsychological and animal literature on hippocampal function and memory. Provides the empirical basis for the multiple memory systems taxonomy and for the Standard Model of consolidation. Essential for understanding the neural grounding of the declarative/non-declarative distinction and for appreciating the convergent evidence from multiple species and methodologies.
-
-- **Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior*, 11(6), 671–684.**: Proposed levels of processing as an alternative to the structural multi-store model: memory durability depends on depth of processing (from shallow perceptual to deep semantic) rather than on which store information passes through. Highly influential and productive as a research framework, though subsequently criticised for circularity (depth was often defined by the very retention differences it was invoked to explain). Read alongside the material on encoding in Phase IV; the levels of processing account remains one of the most important challenges to purely structural accounts of memory.
-
-- **Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science*, 17(3), 249–255.**: A landmark study establishing the testing effect in educationally relevant conditions. Compared re-study versus repeated testing on retention of prose passages over a one-week interval. Testing produced dramatically better retention than re-studying, particularly over longer delays. One of the most practically important papers in applied memory research and a key empirical basis for the instructional design recommendations in Phase V. Accessible to non-specialists; should be read directly by anyone engaged in educational practice.
-
-
-
-
-
-
-
-
 
 ## Methodology Notes
 

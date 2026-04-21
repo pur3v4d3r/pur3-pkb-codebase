@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Aurora",
+  "cssTheme": "V4D3R Crimson",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -9,6 +9,8 @@
     "__v4d3r-mermaid-tables-plugins-part2",
     "__v4d3r-mermaid-tables-plugins-part3",
     "09-dataview",
+    "block-quote-gradient",
+    "callout-minimal-outline",
     "pur3v4d3r-ultimate-callout-system"
   ],
   "interfaceFontFamily": "JetBrains Mono",
