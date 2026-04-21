@@ -1,7 +1,7 @@
 I have acess to multiple various LLMs through either Ollama other other means that are more efficient and such.
 I have a i9 1400k and RTX4090, so I can run some models locally as well.
 
-I have a pipeline for extracting information from previousley generated reports and then creating or mosifying existing permanent notes in my Obsidian based PKB.
+I have a pipeline for extracting information from previousley generated reports and then creating or modifying existing permanent notes in my Obsidian based PKB.
 
 I have questions:
 1. How can I use the Local LLMs to complete this pipeline, and produce better orginized materials for my PKB?

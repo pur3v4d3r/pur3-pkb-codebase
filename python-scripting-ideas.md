@@ -354,3 +354,211 @@ A comprehensive backlog of Python automation scripts for Obsidian vault and PKB 
 - **Vault Backup Manager** — Create timestamped zip archives of the vault, rotate old backups, and optionally push to cloud storage.
 - **Path Sanitiser** — Find and fix file/folder names containing characters that break cross-platform compatibility.
 - **JSON Schema Generator** — Introspect your vault's frontmatter and auto-generate a JSON Schema for validation tooling.
+
+---
+
+# 🌐 General-Purpose Python Scripts (Beyond PKB)
+
+The sections below expand the backlog beyond Obsidian/PKB-specific tooling into broader Python automation, data engineering, dev-ops, security, and personal-productivity territory.
+
+---
+
+## 📁 File System & Disk Management
+
+- **Duplicate File Finder (Hash-Based)** — Scan a directory tree, hash files with SHA-256, and report byte-identical duplicates.
+- **Smart File Mover** — Sort files into subfolders by extension, MIME type, creation date, or EXIF metadata.
+- **Bulk File Renamer (Regex)** — Rename files in bulk using regex patterns with dry-run preview.
+- **Directory Size Profiler** — Recursively report disk usage per folder, sorted by size, with treemap visualisation.
+- **Empty Folder Cleaner** — Recursively find and remove empty directories.
+- **File Age Analyser** — Report files not accessed/modified in N days for archival candidates.
+- **Symlink Resolver & Auditor** — Walk a tree, resolve all symlinks, and report broken or circular ones.
+- **Cross-Drive File Sync** — Two-way mirror folders across drives using checksum comparison and conflict resolution.
+- **Permissions Auditor** — Report file/folder permissions and flag world-writable or insecure entries.
+- **File Timestamp Backdater** — Restore `mtime`/`atime` from EXIF data, git history, or sidecar JSON.
+
+---
+
+## 🖼️ Image, Audio & Video Processing
+
+- **Bulk Image Resizer** — Resize all images in a folder to target dimensions while preserving aspect ratio (`Pillow`).
+- **Image Format Converter** — Batch-convert between PNG, JPG, WebP, AVIF with quality control.
+- **EXIF Stripper / Editor** — Remove or edit EXIF metadata for privacy or organisation.
+- **Image Watermarker** — Add text or logo watermarks to images in batch.
+- **Screenshot Auto-Cropper** — Detect and crop empty borders from screenshots.
+- **PDF Page Extractor / Merger / Splitter** — Manipulate PDFs with `pypdf` or `pdfplumber`.
+- **PDF to Image Converter** — Render PDF pages as PNG/JPG thumbnails.
+- **Video Thumbnail Generator** — Extract a thumbnail at the N-second mark from every video in a folder via `ffmpeg`.
+- **Audio Transcriber (Whisper)** — Transcribe local audio files using OpenAI Whisper (local model).
+- **Video Transcoder** — Batch-convert videos between formats/codecs with `ffmpeg-python`.
+- **Audio Loudness Normaliser** — Normalise audio loudness to broadcast standards (LUFS).
+- **GIF Maker from Video** — Convert a video clip to optimised GIF with custom frame rate and palette.
+- **Image Deduplicator (Perceptual Hash)** — Find visually similar images using perceptual hashing (`imagehash`).
+- **OCR Bulk Extractor** — Extract text from scanned PDFs and images with `pytesseract`.
+
+---
+
+## 🌐 Web Scraping & API Integration
+
+- **Generic Web Scraper Skeleton** — Reusable `requests + BeautifulSoup` template with rate limiting and retry logic.
+- **Headless Browser Scraper** — Scrape JavaScript-rendered pages using `playwright` or `selenium`.
+- **API Response Cacher** — Decorator that caches HTTP responses to disk for replayable testing.
+- **Web Page Change Watcher** — Monitor a URL for content changes and notify via email/Slack.
+- **Sitemap Generator** — Crawl a domain and generate a sitemap XML.
+- **Broken Link Crawler** — Recursively crawl a site and report all 4xx/5xx links.
+- **OpenAPI Schema Validator** — Validate a REST API's responses against its OpenAPI spec.
+- **GraphQL Query Runner CLI** — Execute saved GraphQL queries from the command line with auth.
+- **Webhook Receiver** — FastAPI/Flask app that logs incoming webhooks and forwards them.
+- **Twitter/Mastodon Auto-Poster** — Schedule and post threads to social platforms via API.
+- **Reddit Subreddit Monitor** — Watch subreddits for keyword matches and notify via webhook.
+
+---
+
+## 📧 Email, Calendar & Communication
+
+- **Bulk Email Sender (SMTP)** — Send personalised emails from a CSV recipient list with templating.
+- **IMAP Inbox Triager** — Auto-label, archive, or delete emails by rules using `imaplib`.
+- **Email Attachment Extractor** — Pull all attachments from a Gmail label into a folder.
+- **iCal Event Generator** — Build `.ics` calendar files programmatically from CSV or JSON.
+- **Calendar Sync Bridge** — Sync events between Google Calendar, CalDAV, and Outlook.
+- **Slack/Discord Notifier** — Send formatted notifications to chat channels via webhook.
+- **SMS Sender (Twilio)** — Send programmatic SMS alerts via Twilio API.
+- **Auto-Responder Bot** — IMAP-based out-of-office auto-replier with custom rules.
+- **Email Digest Builder** — Aggregate news/RSS items into a daily digest email.
+
+---
+
+## 📊 Data Engineering & Analysis
+
+- **CSV Schema Inferrer** — Analyse a CSV and infer column types, nullability, and value distributions.
+- **CSV to SQLite Loader** — Auto-create schema and bulk-load CSV files into SQLite.
+- **Excel Workbook Splitter** — Split a multi-sheet `.xlsx` into one file per sheet.
+- **Excel Cross-Sheet Reporter** — Aggregate data across sheets/files into a summary workbook.
+- **JSON ↔ YAML ↔ TOML Converter** — Bidirectional config-format converter with schema preservation.
+- **Pandas Data Profiler** — Generate `ydata-profiling` reports for any CSV/Parquet file.
+- **Outlier Detector** — Detect statistical outliers in tabular data (IQR, Z-score, isolation forest).
+- **Data Diff Tool** — Compare two CSVs/DataFrames and report row/cell-level differences.
+- **SQL Query Runner CLI** — Run parameterised SQL queries against multiple DBs with CSV/JSON output.
+- **Database Backup Rotator** — Dump Postgres/MySQL databases to disk with versioned rotation.
+- **Synthetic Data Generator** — Build realistic fake datasets with `Faker` for testing.
+- **Parquet Inspector** — CLI tool to print Parquet schema, row count, and sample rows.
+- **ETL Pipeline Skeleton** — Reusable extract → transform → load template with logging and checkpointing.
+
+---
+
+## 🛡️ Security & DevOps Utilities
+
+- **Secret Scanner** — Scan a repo for accidentally committed API keys and tokens (regex + entropy).
+- **`.env` File Validator** — Verify all `.env.example` keys are present in `.env` and vice versa.
+- **Password Generator** — Cryptographically strong password generator with policy enforcement.
+- **Hash Calculator (Multi-Algorithm)** — Compute MD5/SHA-1/SHA-256/BLAKE3 hashes for files or strings.
+- **SSL Certificate Expiry Monitor** — Check a list of domains and alert on certs expiring within N days.
+- **Port Scanner** — Lightweight TCP port scanner with banner grabbing (authorised use only).
+- **Log File Analyser** — Parse Apache/Nginx/syslog and report top errors, IPs, and traffic patterns.
+- **Failed Login Detector** — Tail auth logs and alert on brute-force patterns.
+- **Docker Image Auditor** — Report image sizes, layer counts, and exposed ports across local images.
+- **Dependency Vulnerability Checker** — Scan `requirements.txt` against the OSV/PyPI advisory DB.
+- **System Resource Monitor** — Log CPU, RAM, disk, and network usage to CSV with alerting thresholds.
+
+---
+
+## 🤖 Personal Productivity & Automation
+
+- **Pomodoro Timer CLI** — Terminal-based Pomodoro with desktop notifications and session logging.
+- **Habit Tracker (CLI + SQLite)** — Track daily habits with streaks, statistics, and exports.
+- **Time Tracker** — Tag-based time-tracking CLI with project/category reporting.
+- **Clipboard History Manager** — Background daemon that records clipboard history with search.
+- **Window Title Logger** — Track active window titles to analyse where time is spent (`pygetwindow`).
+- **Auto-Mute on Meeting Start** — Detect Zoom/Teams launch and mute system notifications.
+- **Desktop Wallpaper Rotator** — Cycle wallpapers from a folder, Unsplash, or NASA APOD.
+- **Read-It-Later Aggregator** — Combine Pocket/Instapaper queues into a single inbox.
+- **Daily Standup Generator** — Build a daily standup message from git commits and calendar events.
+
+---
+
+## 💰 Finance, Crypto & Trading
+
+- **Bank Statement Parser** — Parse PDF/CSV statements from major banks into normalised transactions.
+- **Expense Categoriser** — Auto-categorise transactions by merchant patterns or ML classification.
+- **Budget Tracker** — Monthly budget vs actual reporting with rollover and category alerts.
+- **Stock Price Fetcher** — Pull historical OHLCV data via `yfinance` and persist to SQLite.
+- **Portfolio Performance Tracker** — Track holdings across brokers with daily P&L reports.
+- **Crypto Wallet Balance Aggregator** — Query multi-chain wallet balances via blockchain APIs.
+- **Tax Lot Calculator** — FIFO/LIFO/specific-ID tax lot tracking for capital gains reporting.
+- **Currency Converter CLI** — Convert between currencies using ECB/openexchangerates rates.
+- **Invoice Generator** — Generate branded PDF invoices from a YAML/JSON definition.
+
+---
+
+## 🎮 Games, Entertainment & Hobbies
+
+- **Steam Library Analyser** — Pull Steam library data and report unplayed games, playtime stats, and value.
+- **Music Library Tagger** — Auto-tag MP3/FLAC files using MusicBrainz/AcoustID lookup.
+- **Playlist Cross-Platform Sync** — Sync playlists between Spotify, YouTube Music, and local files.
+- **Movie Library Renamer** — Rename media files to Plex/Jellyfin conventions using TMDb metadata.
+- **Subtitle Downloader** — Auto-download `.srt` subtitles for video files via OpenSubtitles API.
+- **Chess Game Analyser** — Parse PGN files and run engine analysis to spot blunders.
+- **D&D Character Sheet Generator** — Generate randomised characters with stats, gear, and backstory.
+- **Recipe Scaler** — Parse a recipe file and scale ingredient quantities for N servings.
+
+---
+
+## 🧪 Scientific Computing & ML Tooling
+
+- **Experiment Logger** — Log ML hyperparameters, metrics, and artefacts to SQLite or MLflow.
+- **Hyperparameter Sweep Runner** — Grid/random search runner with parallel execution.
+- **Dataset Splitter** — Stratified train/val/test splits with reproducible seeds.
+- **Model Comparison Reporter** — Train N models and produce a comparative metrics table.
+- **Confusion Matrix Visualiser** — Render annotated confusion matrices to PNG for any classifier.
+- **TensorBoard Log Aggregator** — Combine multiple run logs into a unified comparison dashboard.
+- **Notebook to Script Converter** — Convert `.ipynb` to clean `.py` with cell markers (beyond `nbconvert`).
+- **GPU Utilisation Logger** — Periodically sample `nvidia-smi` and chart GPU usage over time.
+- **Citation Network Builder** — Build co-citation graphs from BibTeX libraries.
+
+---
+
+## 🏠 Home Automation & IoT
+
+- **Home Assistant State Logger** — Log Home Assistant entity states to a time-series DB.
+- **MQTT Message Bridge** — Bridge MQTT topics between brokers with transformation rules.
+- **Smart Plug Scheduler** — Schedule Tasmota/Shelly devices via REST/MQTT.
+- **Weather Alert Notifier** — Pull weather forecasts and notify on rain, storms, or temperature thresholds.
+- **Energy Usage Reporter** — Aggregate smart meter data and produce daily/monthly energy reports.
+- **Plant Watering Reminder** — Track watering schedules per plant with optional sensor integration.
+- **Air Quality Monitor** — Pull data from Purpleair/AQICN APIs and alert on threshold breaches.
+
+---
+
+## 🧰 Developer Workflow Utilities
+
+- **Repo Statistics Dashboard** — Aggregate LOC, commits, contributors, and language breakdown for any git repo.
+- **Conventional Commit Linter** — Enforce conventional commit messages via git hook.
+- **Changelog Generator from Commits** — Build CHANGELOG.md from conventional commits between two tags.
+- **Dependency Graph Visualiser** — Render a Python project's import graph as SVG.
+- **Dead Code Finder** — Identify unused functions/classes across a Python project (`vulture` wrapper).
+- **License Compliance Reporter** — Aggregate licenses of all dependencies and flag GPL/incompatible terms.
+- **Multi-Repo Status Reporter** — Walk a folder of repos and report dirty/ahead/behind status.
+- **PyPI Package Bootstrapper** — Scaffold a new PyPI-ready package with CI, tests, and docs.
+- **Auto-Format on Save Daemon** — Watch a folder and run black/isort/prettier on file save.
+- **Mock API Server** — Spin up a JSON-driven mock REST API from a YAML spec.
+
+---
+
+## 🌍 Geo, Travel & Maps
+
+- **GPX Track Analyser** — Parse GPX files and report distance, elevation, pace, and splits.
+- **Photo Geo-Tagger** — Match photos to GPX tracks and write GPS EXIF data.
+- **Address Geocoder** — Bulk-geocode addresses via Nominatim/Mapbox with caching.
+- **Travel Itinerary Builder** — Generate day-by-day itineraries from a destination list with map links.
+- **Flight Price Tracker** — Monitor flight prices for routes via Skyscanner/Kiwi APIs.
+- **Currency-Aware Travel Budget** — Track travel expenses in multiple currencies with auto-conversion.
+
+---
+
+## 🔔 Notifications & Monitoring
+
+- **Cross-Platform Notifier** — Single API that sends to Slack, Discord, email, SMS, ntfy, and Pushover.
+- **Cron Job Wrapper** — Wrap any cron job with logging, timeout, retry, and failure notification.
+- **Uptime Monitor** — Periodically ping URLs and log latency, alert on downtime.
+- **Disk Space Alerter** — Monitor disk usage and notify when partitions exceed thresholds.
+- **Backup Verification** — Verify backups completed successfully and notify on failures.
+- **RSS to Notification Bridge** — Convert RSS feed updates into push notifications.
