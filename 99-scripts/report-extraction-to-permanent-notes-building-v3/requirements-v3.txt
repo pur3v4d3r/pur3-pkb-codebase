@@ -1,0 +1,30 @@
+# Pipeline v3 dependencies
+# Install with: pip install -r requirements-v3.txt
+#
+# Note: torch with CUDA must be installed separately if not already present:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+# ── Core data + validation ───────────────────────────────────────────────
+pydantic>=2.6,<3.0
+ruamel.yaml>=0.18,<0.19
+PyYAML>=6.0,<7.0
+
+# ── Templating ───────────────────────────────────────────────────────────
+jinja2>=3.1,<4.0
+
+# ── Embeddings + LLM ─────────────────────────────────────────────────────
+sentence-transformers>=2.7,<4.0
+numpy>=1.26,<3.0
+requests>=2.31,<3.0
+outlines>=0.0.43         # Structured output validation post-hoc
+
+# ── CLI + UX ─────────────────────────────────────────────────────────────
+click>=8.1,<9.0
+rich>=13.7,<14.0
+
+# ── Testing ──────────────────────────────────────────────────────────────
+pytest>=8.0,<9.0
+pytest-cov>=5.0,<7.0
+
+# ── Optional (commented; enable as needed) ───────────────────────────────
+# torch>=2.2          # Install separately with CUDA wheel

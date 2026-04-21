@@ -1,0 +1,154 @@
+{# ════════════════════════════════════════════════════════════════════════
+   permanent_note.md.j2 — slim conditional template per spec §3.3.
+   Every section is emitted only if the corresponding content exists.
+   Frontmatter is rendered upstream and passed in as ``frontmatter_block``.
+   ════════════════════════════════════════════════════════════════════════ #}
+{{ frontmatter_block }}
+
+# {{ title }}
+
+> [!definition] {{ title }}
+{% if definition_body %}
+{{ definition_body | indent_callout }}
+{% else %}
+> *Definition pending — derived from {{ source_reports | length }} source report(s).*
+{% endif %}
+{% if synthesis %}
+
+## Synthesis
+
+{{ synthesis }}
+{% endif %}
+{% if evidence or insights %}
+
+## Core Explanation
+{% for e in evidence %}
+
+{{ render_callout("evidence", e.title or "Supporting evidence", e.body, e.source_stem) }}
+{% endfor %}
+{% for i in insights %}
+
+{{ render_callout("analytical-insight", i.title or "Key insight", i.body, i.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if practices or warnings %}
+
+## Practical Implications
+{% for p in practices %}
+
+{{ render_callout("example", p.title or "Application", p.body, p.source_stem) }}
+{% endfor %}
+{% for w in warnings %}
+
+{{ render_callout("warning", w.title or "Caution", w.body, w.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if methodology or citations %}
+
+## Methodology & Sources
+{% for m in methodology %}
+
+{{ render_callout("methodology-and-sources", m.title or "Methodology", m.body, m.source_stem) }}
+{% endfor %}
+{% for c in citations %}
+
+{{ render_callout("cite", c.title or "Citation", c.body, c.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if tensions or open_questions %}
+
+## Open Threads
+{% for t in tensions %}
+
+{{ render_callout("tension-identified", t.title or "Tension", t.body, t.source_stem) }}
+{% endfor %}
+{% for q in open_questions %}
+
+{{ render_callout("open-question", q.title or "Question", q.body, q.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if reflections or claude_insights %}
+
+## Reflections
+{% for r in reflections %}
+
+{{ render_callout("reflection", r.title or "Reflection", r.body, r.source_stem) }}
+{% endfor %}
+{% for ci in claude_insights %}
+
+{{ render_callout("claude-insight", ci.title or "AI Insight", ci.body, ci.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if far_transfers %}
+
+## Cross-Domain Connections
+{% for f in far_transfers %}
+
+{{ render_callout("cross-domain-connection", f.title or "Connection", f.body, f.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if examples %}
+
+## Examples
+{% for ex in examples %}
+
+{{ render_callout("example", ex.title or "Example", ex.body, ex.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if flashcards %}
+
+## Flashcards
+{% for fc in flashcards %}
+
+{{ render_callout("flashcard", fc.title or "Flashcard", fc.body, fc.source_stem) }}
+{% endfor %}
+{% endif %}
+{% if protocols or schema_activations or active_readings or debates or persons or section_summaries or diagrams %}
+
+## Additional Material
+{% for it in protocols %}
+
+{{ render_callout("protocol", it.title or "Protocol", it.body, it.source_stem) }}
+{% endfor %}
+{% for it in schema_activations %}
+
+{{ render_callout("schema-activation", it.title or "Schema activation", it.body, it.source_stem) }}
+{% endfor %}
+{% for it in active_readings %}
+
+{{ render_callout("active-reading", it.title or "Active reading", it.body, it.source_stem) }}
+{% endfor %}
+{% for it in debates %}
+
+{{ render_callout("debate", it.title or "Debate", it.body, it.source_stem) }}
+{% endfor %}
+{% for it in persons %}
+
+{{ render_callout("person", it.title or "Person", it.body, it.source_stem) }}
+{% endfor %}
+{% for it in section_summaries %}
+
+{{ render_callout("section-summary", it.title or "Section summary", it.body, it.source_stem) }}
+{% endfor %}
+{% for it in diagrams %}
+
+{{ render_callout("diagram", it.title or "Diagram", it.body, it.source_stem) }}
+{% endfor %}
+{% endif %}
+
+## Connections
+{% if related_concepts %}
+
+**Related:** {{ related_concepts | join_wikilinks }}
+{% endif %}
+
+```dataview
+LIST FROM [[{{ stem }}]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** {{ source_reports | join_wikilinks }}
