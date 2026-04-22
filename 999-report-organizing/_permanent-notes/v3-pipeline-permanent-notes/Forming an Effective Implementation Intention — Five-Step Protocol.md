@@ -1,6 +1,6 @@
 ---
 title: "Forming an Effective Implementation Intention — Five-Step Protocol"
-aliases: []
+aliases: [five-step protocol for forming effective implementation intentions]
 type: permanent-note
 status: evergreen
 confidence: high

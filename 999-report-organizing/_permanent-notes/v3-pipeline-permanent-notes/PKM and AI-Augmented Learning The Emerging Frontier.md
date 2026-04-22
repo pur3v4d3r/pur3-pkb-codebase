@@ -1,6 +1,6 @@
 ---
 title: "PKM and AI-Augmented Learning: The Emerging Frontier"
-aliases: [personal-knowledge-management-and-ai-augmented-learning, AI-enhanced-PKM]
+aliases: [personal-knowledge-management-and-ai-augmented-learning]
 type: permanent-note
 status: evergreen
 confidence: high

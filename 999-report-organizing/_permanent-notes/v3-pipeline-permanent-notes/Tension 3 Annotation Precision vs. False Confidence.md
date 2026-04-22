@@ -1,6 +1,6 @@
 ---
 title: "Tension 3: Annotation Precision vs. False Confidence"
-aliases: [annotation-precision-vs-false-confidence, false-confidence-tension]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium

@@ -1,6 +1,6 @@
 ---
 title: "Tension 2: AI Speed vs. Practitioner Understanding"
-aliases: [AI speed vs. practitioner understanding, speed-accuracy tradeoff in AI]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium

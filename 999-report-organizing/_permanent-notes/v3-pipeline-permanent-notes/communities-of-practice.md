@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 239
+referenced-by-count: 189
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
   - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
   - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
   - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
+  - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
+  - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # communities-of-practice
 
 > [!definition] **communities-of-practice**
-> *Stub note — concept referenced by 239 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 189 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 239 permanent notes.*
+*Auto-generated stub — referenced by 189 permanent notes.*
 
 ## Referenced By
 
@@ -70,19 +70,19 @@ importance: high
 - [[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman]]
-- [[Barry-Zimmerman-1942–present-—-City-University-of-New-York|Barry Zimmerman (1942–present) — City University of New York]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A]]
 - [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
 - [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
-- [[Brookfield,-S.-D.-1985.-Self-directed-learning-A-critical-review-of-research.-In|Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed]]
 - [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
-- *...and 219 more permanent notes*
+- [[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]
+- [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]
+- [[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]
+- *...and 169 more permanent notes*

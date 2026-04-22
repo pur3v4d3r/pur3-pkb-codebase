@@ -1,6 +1,6 @@
 ---
 title: "Implementation Intention (Gollwitzer, 1999)"
-aliases: ['when situation X arises, I will perform behavior Y', implementation-intention]
+aliases: [if-then plan]
 type: permanent-note
 status: evergreen
 confidence: high

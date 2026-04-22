@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 166
+referenced-by-count: 145
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[AI-Agent-Development-and-Prompt-Engineering|AI Agent Development and Prompt Engineering]]"
   - "[[AI-Assistance-vs.-Learning-Depth|AI Assistance vs. Learning Depth]]"
   - "[[Abstract]]"
-  - "[[Barnett,-S.-M.,-&-Ceci,-S.-J.-2002.-When-and-where-do-we-apply-what-we-learn-A-t|Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn A taxonomy for far transfer]]"
   - "[[Breakpoint]]"
   - "[[Breakpoint-Debugger|Breakpoint (Debugger)]]"
   - "[[Build-Your-First-Managed-Project|Build Your First Managed Project]]"
   - "[[Claude's-Perspective-Python-as-Connective-Tissue|Claude's Perspective Python as Connective Tissue]]"
+  - "[[Claude's-Perspective-The-Two-Kinds-of-Errors|Claude's Perspective The Two Kinds of Errors]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # Continuous-Integration-Continuous-Deployment
 
 > [!definition] **Continuous-Integration-Continuous-Deployment**
-> *Stub note — concept referenced by 166 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 145 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 166 permanent notes.*
+*Auto-generated stub — referenced by 145 permanent notes.*
 
 ## Referenced By
 
@@ -70,7 +70,6 @@ importance: high
 - [[AI-Agent-Development-and-Prompt-Engineering|AI Agent Development and Prompt Engineering]]
 - [[AI-Assistance-vs.-Learning-Depth|AI Assistance vs. Learning Depth]]
 - [[Abstract]]
-- [[Barnett,-S.-M.,-&-Ceci,-S.-J.-2002.-When-and-where-do-we-apply-what-we-learn-A-t|Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn A taxonomy for far transfer]]
 - [[Breakpoint]]
 - [[Breakpoint-Debugger|Breakpoint (Debugger)]]
 - [[Build-Your-First-Managed-Project|Build Your First Managed Project]]
@@ -84,5 +83,6 @@ importance: high
 - [[Debug-a-Real-Script|Debug a Real Script]]
 - [[Debugging-Hierarchy-Decision-Tree|Debugging Hierarchy Decision Tree]]
 - [[Decision-Fork-Flat-Structure-vs.-Package-Structure|Decision Fork Flat Structure vs. Package Structure]]
-- [[Decision-Fork-How-Much-Infrastructure-Does-Your-Project-Need|Decision Fork How Much Infrastructure Does Your Project Need]]
-- *...and 146 more permanent notes*
+- [[Development-Environment-Architecture|Development Environment Architecture]]
+- [[Error-Types-as-Diagnostic-Categories|Error Types as Diagnostic Categories]]
+- *...and 125 more permanent notes*

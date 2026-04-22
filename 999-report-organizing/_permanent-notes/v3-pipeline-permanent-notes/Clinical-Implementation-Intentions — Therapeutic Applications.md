@@ -1,6 +1,6 @@
 ---
 title: "Clinical-Implementation-Intentions — Therapeutic Applications"
-aliases: [clinical implementation intentions, CCI for therapeutic applications]
+aliases: [clinical implementation intentions, CCI-TA]
 type: permanent-note
 status: evergreen
 confidence: high

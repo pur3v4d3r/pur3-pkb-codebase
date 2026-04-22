@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 240
+referenced-by-count: 186
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,14 +39,14 @@ referenced-by-count: 240
 see-also:
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]"
-  - "[[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]"
   - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
   - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
   - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
   - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
-  - "[[Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center|Barry J. Zimmerman (1942– ), CUNY Graduate Center]]"
-  - "[[Barry-Zimmerman-1942–present-—-City-University-of-New-York|Barry Zimmerman (1942–present) — City University of New York]]"
+  - "[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]"
+  - "[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]"
+  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
+  - "[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # paul-pintrich
 
 > [!definition] **paul-pintrich**
-> *Stub note — concept referenced by 240 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 186 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 240 permanent notes.*
+*Auto-generated stub — referenced by 186 permanent notes.*
 
 ## Referenced By
 
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
 - [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
-- [[Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center|Barry J. Zimmerman (1942– ), CUNY Graduate Center]]
-- [[Barry-Zimmerman-1942–present-—-City-University-of-New-York|Barry Zimmerman (1942–present) — City University of New York]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]
-- [[Boekaerts,-M.-1996.-Self-regulated-learning-at-the-junction-of-cognition-and-mot|Boekaerts, M. (1996). Self-regulated learning at the junction of cognition and motivation. European Psychologist, 1(2),]]
 - [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
-- [[Brown,-A.-L.-1987.-Metacognition,-executive-control,-self-regulation,-and-other|Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E]]
 - [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
-- [[Calibration-Lichtenstein,-Fischhoff,-&-Phillips,-1982;-applied-to-metacognition|Calibration (Lichtenstein, Fischhoff, & Phillips, 1982; applied to metacognition by Nelson and colleagues)]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
 - [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
-- [[Can-the-Two-Level-Architecture-Be-Extended-to-More-Than-Two-Levels|Can the Two-Level Architecture Be Extended to More Than Two Levels]]
-- *...and 220 more permanent notes*
+- [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
+- [[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]
+- [[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]
+- [[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]
+- [[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]
+- [[Construction-as-the-Common-Currency-of-Effective-Encoding|Construction as the Common Currency of Effective Encoding]]
+- [[Control-Move-Selection|Control Move Selection]]
+- *...and 166 more permanent notes*

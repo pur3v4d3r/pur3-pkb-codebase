@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 173
+referenced-by-count: 143
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
   - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]"
-  - "[[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]"
   - "[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]"
   - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
   - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
-  - "[[CLT-vs.-Desirable-Difficulties-When-Does-Load-Help|CLT vs. Desirable Difficulties When Does Load Help]]"
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
+  - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
+  - "[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]"
+  - "[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]"
+  - "[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # Zettelkasten-Method
 
 > [!definition] **Zettelkasten-Method**
-> *Stub note — concept referenced by 173 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 143 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 173 permanent notes.*
+*Auto-generated stub — referenced by 143 permanent notes.*
 
 ## Referenced By
 
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]
-- [[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]
 - [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
 - [[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]
-- [[CLT-vs.-Desirable-Difficulties-When-Does-Load-Help|CLT vs. Desirable Difficulties When Does Load Help]]
 - [[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]
 - [[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
 - [[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]
-- [[Cognitive-Load-Theory-and-PKB-Design-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory and PKB Design (Sweller, 1988; Sweller et al., 2011)]]
 - [[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive Engagement]]
 - [[Core-CLT-Argument-Structure|Core CLT Argument Structure]]
-- [[Craik,-F.-I.-M.,-&-Lockhart,-R.-S.-1972.-Levels-of-processing-A-framework-for-me|Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing A framework for memory research. Journal of Verbal]]
-- [[Deci,-E.-L.,-&-Ryan,-R.-M.-2000.-The-what-and-why-of-goal-pursuits-Human-needs-a|Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits Human needs and the self-determination of]]
-- *...and 153 more permanent notes*
+- [[Design-Application-Exercise|Design Application Exercise]]
+- [[Desirable-Difficulties-Bjork-&-Bjork,-1992;-2011|Desirable Difficulties (Bjork & Bjork, 1992; 2011)]]
+- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
+- [[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]
+- [[Domain-2-User-Interface-and-Human-Computer-Interaction-Design|Domain 2 User Interface and Human-Computer Interaction Design]]
+- [[Domain-3-Athletic-Coaching-and-Motor-Skill-Acquisition|Domain 3 Athletic Coaching and Motor Skill Acquisition]]
+- [[Domain-4-Personal-Knowledge-Management-and-PKB-Architecture|Domain 4 Personal Knowledge Management and PKB Architecture]]
+- *...and 123 more permanent notes*

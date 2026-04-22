@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 85
+referenced-by-count: 75
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Claude's-Perspective-The-Understanding-Verification-Problem|Claude's Perspective The Understanding Verification Problem]]"
   - "[[Curated-Sources|Curated Sources]]"
   - "[[Decision-Fork-Flat-Structure-vs.-Package-Structure|Decision Fork Flat Structure vs. Package Structure]]"
-  - "[[Decision-Fork-How-Much-Infrastructure-Does-Your-Project-Need|Decision Fork How Much Infrastructure Does Your Project Need]]"
-  - "[[Decision-Fork-Which-AI-Interaction-Mode-Should-You-Use|Decision Fork Which AI Interaction Mode Should You Use]]"
-  - "[[Decision-Fork-Which-Execution-Method-Should-You-Use|Decision Fork Which Execution Method Should You Use]]"
   - "[[Exception]]"
+  - "[[How-This-Guide-Was-Constructed|How This Guide Was Constructed]]"
+  - "[[How-to-Use-This-Field-Guide|How to Use This Field Guide]]"
+  - "[[Integration-Points-with-the-Knowledge-Base|Integration Points with the Knowledge Base]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # Abstraction
 
 > [!definition] **Abstraction**
-> *Stub note — concept referenced by 85 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 75 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 85 permanent notes.*
+*Auto-generated stub — referenced by 75 permanent notes.*
 
 ## Referenced By
 
@@ -71,9 +71,6 @@ importance: high
 - [[Claude's-Perspective-The-Understanding-Verification-Problem|Claude's Perspective The Understanding Verification Problem]]
 - [[Curated-Sources|Curated Sources]]
 - [[Decision-Fork-Flat-Structure-vs.-Package-Structure|Decision Fork Flat Structure vs. Package Structure]]
-- [[Decision-Fork-How-Much-Infrastructure-Does-Your-Project-Need|Decision Fork How Much Infrastructure Does Your Project Need]]
-- [[Decision-Fork-Which-AI-Interaction-Mode-Should-You-Use|Decision Fork Which AI Interaction Mode Should You Use]]
-- [[Decision-Fork-Which-Execution-Method-Should-You-Use|Decision Fork Which Execution Method Should You Use]]
 - [[Exception]]
 - [[How-This-Guide-Was-Constructed|How This Guide Was Constructed]]
 - [[How-to-Use-This-Field-Guide|How to Use This Field Guide]]
@@ -85,4 +82,7 @@ importance: high
 - [[Practical-Takeaways-—-Section-2|Practical Takeaways — Section 2]]
 - [[Practical-Takeaways-—-Section-3|Practical Takeaways — Section 3]]
 - [[Practical-Takeaways-—-Section-4|Practical Takeaways — Section 4]]
-- *...and 65 more permanent notes*
+- [[Practical-Takeaways-—-Section-5|Practical Takeaways — Section 5]]
+- [[Practical-Takeaways-—-Section-6|Practical Takeaways — Section 6]]
+- [[Practical-Takeaways-—-Section-7|Practical Takeaways — Section 7]]
+- *...and 55 more permanent notes*

@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 392
+referenced-by-count: 310
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
   - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
-  - "[[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]"
+  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
+  - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
+  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # cognitive-architecture
 
 > [!definition] **cognitive-architecture**
-> *Stub note — concept referenced by 392 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 310 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 392 permanent notes.*
+*Auto-generated stub — referenced by 310 permanent notes.*
 
 ## Referenced By
 
@@ -71,18 +71,18 @@ importance: high
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
 - [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
-- [[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]
-- [[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]
-- [[Barry-Zimmerman-1942–present-—-City-University-of-New-York|Barry Zimmerman (1942–present) — City University of New York]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]
-- *...and 372 more permanent notes*
+- [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
+- [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
+- [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
+- [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
+- [[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]
+- [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
+- [[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]
+- [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
+- *...and 290 more permanent notes*

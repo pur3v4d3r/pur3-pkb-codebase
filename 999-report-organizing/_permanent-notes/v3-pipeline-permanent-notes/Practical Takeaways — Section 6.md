@@ -4,9 +4,9 @@ aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium
-domain: machine-learning
+domain: uncategorized
 subdomains: []
-tags: [permanent-note, machine-learning]
+tags: [permanent-note, uncategorized]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: intermediate

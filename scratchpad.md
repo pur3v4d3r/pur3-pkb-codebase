@@ -297,3 +297,6 @@ Adds at top of note. Original callouts stay below as the receipt. **Toggle behin
 
 
 
+Develop a workflow for turning the vast neumber of permanent notes stubs into full fledge permanent notes.
+- using local llm
+- adding information, like definition callouit and such.

@@ -1,6 +1,6 @@
 ---
 title: "Performance Monitoring Through Structured Annotation"
-aliases: [performance-monitoring-structured-annotation, SMSA]
+aliases: [performance-monitoring-via-structured-annotation, structured-annotation-for-performance-tracking]
 type: permanent-note
 status: evergreen
 confidence: high

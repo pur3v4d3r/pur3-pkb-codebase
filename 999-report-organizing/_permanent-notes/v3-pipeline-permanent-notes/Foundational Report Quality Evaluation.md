@@ -1,6 +1,6 @@
 ---
 title: "Foundational Report Quality Evaluation"
-aliases: []
+aliases: [FRQE]
 type: permanent-note
 status: evergreen
 confidence: high

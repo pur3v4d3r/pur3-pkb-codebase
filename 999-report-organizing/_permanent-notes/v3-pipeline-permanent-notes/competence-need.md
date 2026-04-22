@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 355
+referenced-by-count: 288
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Achievement-Goal|Achievement Goal]]"
   - "[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]"
   - "[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
-  - "[[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]"
-  - "[[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]"
   - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
+  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
+  - "[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]"
+  - "[[Autonomous-Motivation|Autonomous Motivation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # competence-need
 
 > [!definition] **competence-need**
-> *Stub note — concept referenced by 355 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 288 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 355 permanent notes.*
+*Auto-generated stub — referenced by 288 permanent notes.*
 
 ## Referenced By
 
@@ -71,18 +71,18 @@ importance: high
 - [[Achievement-Goal|Achievement Goal]]
 - [[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
-- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
-- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
-- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
 - [[Autonomous-Motivation|Autonomous Motivation]]
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
 - [[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]
 - [[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]
-- [[Autonomy-Support-in-Practice-—-The-Anatomy-of-a-Teaching-Moment|Autonomy Support in Practice — The Anatomy of a Teaching Moment]]
 - [[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
-- *...and 335 more permanent notes*
+- [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
+- [[Autonomy-≠-Independence|Autonomy ≠ Independence]]
+- [[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]
+- [[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]
+- [[Basic-Psychological-Need-in-SDT|Basic Psychological Need (in SDT)]]
+- *...and 268 more permanent notes*

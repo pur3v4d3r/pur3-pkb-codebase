@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 243
+referenced-by-count: 194
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
   - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
-  - "[[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]"
-  - "[[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]"
   - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
   - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
   - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
   - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
   - "[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]"
+  - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
+  - "[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]"
+  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,17 +59,14 @@ importance: high
 # performance-phase
 
 > [!definition] **performance-phase**
-> *Stub note — concept referenced by 243 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 194 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 243 permanent notes.*
+*Auto-generated stub — referenced by 194 permanent notes.*
 
 ## Referenced By
 
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
@@ -77,12 +74,15 @@ importance: high
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman]]
-- [[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]
-- [[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]
-- [[Brookfield,-S.-D.-1985.-Self-directed-learning-A-critical-review-of-research.-In|Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed]]
-- [[Brown,-A.-L.-1987.-Metacognition,-executive-control,-self-regulation,-and-other|Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E]]
-- [[Calibration-Lichtenstein,-Fischhoff,-&-Phillips,-1982;-applied-to-metacognition|Calibration (Lichtenstein, Fischhoff, & Phillips, 1982; applied to metacognition by Nelson and colleagues)]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
-- *...and 223 more permanent notes*
+- [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
+- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
+- [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
+- [[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]
+- [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
+- [[Cognitive-Offloading|Cognitive Offloading]]
+- [[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]
+- [[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]
+- [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
+- [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
+- *...and 174 more permanent notes*

@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 398
+referenced-by-count: 305
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,8 +45,8 @@ see-also:
   - "[[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]"
   - "[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
+  - "[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # habit-formation
 
 > [!definition] **habit-formation**
-> *Stub note — concept referenced by 398 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 305 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 398 permanent notes.*
+*Auto-generated stub — referenced by 305 permanent notes.*
 
 ## Referenced By
 
@@ -73,16 +73,16 @@ importance: high
 - [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
 - [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
 - [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
-- *...and 378 more permanent notes*
+- [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
+- [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
+- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
+- [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
+- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
+- [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
+- *...and 285 more permanent notes*

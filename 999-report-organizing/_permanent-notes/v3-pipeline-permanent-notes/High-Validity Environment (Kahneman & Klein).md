@@ -1,6 +1,6 @@
 ---
 title: "High-Validity Environment (Kahneman & Klein)"
-aliases: [HVE, Kahneman-and-Klein-environment]
+aliases: [HVE, Kahneman-Klein Environment]
 type: permanent-note
 status: evergreen
 confidence: high

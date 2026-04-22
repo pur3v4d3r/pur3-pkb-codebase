@@ -33,7 +33,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 94
+referenced-by-count: 71
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -41,14 +41,14 @@ referenced-by-count: 94
 see-also:
   - "[[AI-Assisted-Reading-Risks-and-Safeguards]]"
   - "[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]"
-  - "[[Ann-L.-Brown-1943–1999-—-University-of-California,-Berkeley|Ann L. Brown (1943–1999) — University of California, Berkeley]]"
-  - "[[Annemarie-Sullivan-Palincsar-—-University-of-Michigan|Annemarie Sullivan Palincsar — University of Michigan]]"
   - "[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]"
-  - "[[Baker,-L.-1985.-How-do-we-know-when-we-don't-understand-Standards-for-evaluating|Baker, L. (1985). How do we know when we don't understand Standards for evaluating text comprehension. In D. L]]"
-  - "[[Baker,-L.,-&-Brown,-A.-L.-1984.-Metacognitive-skills-and-reading.-In-P.-D.-Pears|Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson, M. Kamil, R. Barr, & P. Mosenthal]]"
   - "[[Calibration-Metacognitive-Accuracy-Literature|Calibration (Metacognitive Accuracy Literature)]]"
   - "[[Calibration-Check-After-Reading|Calibration Check After Reading]]"
   - "[[Calibration-vs.-Sensitivity-in-Metacognitive-Judgment|Calibration vs. Sensitivity in Metacognitive Judgment]]"
+  - "[[Calibration-Training-Methods-and-Evidence]]"
+  - "[[Clinical-Diagnosis-as-Metacognitive-Reading|Clinical Diagnosis as Metacognitive Reading]]"
+  - "[[Code-Review-as-Metacognitive-Reading|Code Review as Metacognitive Reading]]"
+  - "[[Comprehension-Monitoring-Baker-&-Brown,-1984|Comprehension Monitoring (Baker & Brown, 1984)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -61,24 +61,19 @@ importance: high
 # Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work
 
 > [!definition] **Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work**
-> *Stub note — expansion topic suggested for future research, referenced by 94 permanent notes. This represents a potential deep-dive area connecting multiple concepts in the PKB.*
+> *Stub note — expansion topic suggested for future research, referenced by 71 permanent notes. This represents a potential deep-dive area connecting multiple concepts in the PKB.*
 
-*Auto-generated stub — referenced by 94 permanent notes.*
+*Auto-generated stub — referenced by 71 permanent notes.*
 
 ## Referenced By
 
 - [[AI-Assisted-Reading-Risks-and-Safeguards]]
 - [[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]
-- [[Ann-L.-Brown-1943–1999-—-University-of-California,-Berkeley|Ann L. Brown (1943–1999) — University of California, Berkeley]]
-- [[Annemarie-Sullivan-Palincsar-—-University-of-Michigan|Annemarie Sullivan Palincsar — University of Michigan]]
 - [[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]
-- [[Baker,-L.-1985.-How-do-we-know-when-we-don't-understand-Standards-for-evaluating|Baker, L. (1985). How do we know when we don't understand Standards for evaluating text comprehension. In D. L]]
-- [[Baker,-L.,-&-Brown,-A.-L.-1984.-Metacognitive-skills-and-reading.-In-P.-D.-Pears|Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson, M. Kamil, R. Barr, & P. Mosenthal]]
 - [[Calibration-Metacognitive-Accuracy-Literature|Calibration (Metacognitive Accuracy Literature)]]
 - [[Calibration-Check-After-Reading|Calibration Check After Reading]]
 - [[Calibration-vs.-Sensitivity-in-Metacognitive-Judgment|Calibration vs. Sensitivity in Metacognitive Judgment]]
 - [[Calibration-Training-Methods-and-Evidence]]
-- [[Chi,-M.-T.-H.,-Bassok,-M.,-Lewis,-M.-W.,-Reimann,-P.,-&-Glaser,-R.-1989.-Self-ex|Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations How students study and use]]
 - [[Clinical-Diagnosis-as-Metacognitive-Reading|Clinical Diagnosis as Metacognitive Reading]]
 - [[Code-Review-as-Metacognitive-Reading|Code Review as Metacognitive Reading]]
 - [[Comprehension-Monitoring-Baker-&-Brown,-1984|Comprehension Monitoring (Baker & Brown, 1984)]]
@@ -87,4 +82,9 @@ importance: high
 - [[Definition-Comprehension-Monitoring|Definition Comprehension Monitoring]]
 - [[Definition-Illusion-of-Explanatory-Depth|Definition Illusion of Explanatory Depth]]
 - [[Definition-Standard-of-Coherence|Definition Standard of Coherence]]
-- *...and 74 more permanent notes*
+- [[Disciplinary-Reading-Architectures-Across-Five-Domains]]
+- [[Distinction-Declarative,-Procedural,-Conditional-Knowledge|Distinction Declarative, Procedural, Conditional Knowledge]]
+- [[Distinction-Sensitivity-vs.-Calibration|Distinction Sensitivity vs. Calibration]]
+- [[Extended-Listening-as-Metacognitive-Reading|Extended Listening as Metacognitive Reading]]
+- [[Fix-Up-Strategy-Strategic-Reading-Literature|Fix-Up Strategy (Strategic Reading Literature)]]
+- *...and 51 more permanent notes*

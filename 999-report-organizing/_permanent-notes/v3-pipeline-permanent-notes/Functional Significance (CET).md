@@ -1,6 +1,6 @@
 ---
 title: "Functional Significance (CET)"
-aliases: [CET, Controlling Event Theory]
+aliases: [CET]
 type: permanent-note
 status: evergreen
 confidence: high

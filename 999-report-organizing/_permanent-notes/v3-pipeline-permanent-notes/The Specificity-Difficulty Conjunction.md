@@ -1,6 +1,6 @@
 ---
 title: "The Specificity-Difficulty Conjunction"
-aliases: []
+aliases: [specificity-and-difficulty-conjunction, goal-setting-theory-conjunction]
 type: permanent-note
 status: evergreen
 confidence: high

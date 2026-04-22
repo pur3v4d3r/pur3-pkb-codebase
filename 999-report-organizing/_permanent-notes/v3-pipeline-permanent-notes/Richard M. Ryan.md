@@ -4,9 +4,9 @@ aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium
-domain: self-determination-theory
+domain: cognitive-psychology
 subdomains: []
-tags: [permanent-note, self-determination-theory]
+tags: [permanent-note, cognitive-psychology]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: intermediate

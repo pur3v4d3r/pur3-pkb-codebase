@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 154
+referenced-by-count: 134
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
   - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
   - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]"
-  - "[[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]"
   - "[[Annotation-Confidence-25|Annotation Confidence 25]]"
   - "[[Annotation-Confidence-35|Annotation Confidence 35]]"
+  - "[[Annotation-Confidence-45|Annotation Confidence 45]]"
+  - "[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # Second-Language-Acquisition
 
 > [!definition] **Second-Language-Acquisition**
-> *Stub note — concept referenced by 154 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 134 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 154 permanent notes.*
+*Auto-generated stub — referenced by 134 permanent notes.*
 
 ## Referenced By
 
@@ -71,8 +71,6 @@ importance: high
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
 - [[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]
 - [[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]
-- [[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]
-- [[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]
 - [[Annotation-Confidence-25|Annotation Confidence 25]]
 - [[Annotation-Confidence-35|Annotation Confidence 35]]
 - [[Annotation-Confidence-45|Annotation Confidence 45]]
@@ -85,4 +83,6 @@ importance: high
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]
 - [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
-- *...and 134 more permanent notes*
+- [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
+- [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
+- *...and 114 more permanent notes*

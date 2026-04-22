@@ -1,6 +1,6 @@
 ---
 title: "Calibration-Training-Methods-and-Evidence"
-aliases: [calibration-training, training-for-accuracy-calibration]
+aliases: [calibration-training, training-for-calibration-accuracy]
 type: permanent-note
 status: evergreen
 confidence: high

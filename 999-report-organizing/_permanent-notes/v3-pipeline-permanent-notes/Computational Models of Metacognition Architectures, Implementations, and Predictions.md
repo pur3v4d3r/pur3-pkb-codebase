@@ -1,6 +1,6 @@
 ---
 title: "Computational Models of Metacognition: Architectures, Implementations, and Predictions"
-aliases: [computational-architectures-of-metacognition, metacognitive-computational-models]
+aliases: [computational-architectures-of-metacognition, metacognitive-models, cognitive-architecture-implementations]
 type: permanent-note
 status: evergreen
 confidence: high

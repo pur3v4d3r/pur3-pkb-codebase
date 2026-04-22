@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 193
+referenced-by-count: 156
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Abstract]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
   - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
   - "[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]"
   - "[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]"
+  - "[[Central-claim-of-this-level|Central claim of this level]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # self-explanation-effect
 
 > [!definition] **self-explanation-effect**
-> *Stub note — concept referenced by 193 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 156 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 193 permanent notes.*
+*Auto-generated stub — referenced by 156 permanent notes.*
 
 ## Referenced By
 
@@ -71,7 +71,6 @@ importance: high
 - [[Abstract]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
@@ -85,4 +84,5 @@ importance: high
 - [[Claude's-perspective-on-the-substructure|Claude's perspective on the substructure]]
 - [[Claude's-perspective-on-the-surface-picture|Claude's perspective on the surface picture]]
 - [[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]
-- *...and 173 more permanent notes*
+- [[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]
+- *...and 136 more permanent notes*

@@ -31,14 +31,13 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 167
+referenced-by-count: 146
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Abstract]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
   - "[[Annotation-Confidence-25|Annotation Confidence 25]]"
   - "[[Annotation-Confidence-35|Annotation Confidence 35]]"
   - "[[Annotation-Confidence-45|Annotation Confidence 45]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]"
   - "[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]"
   - "[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]"
+  - "[[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,14 +59,13 @@ importance: high
 # personal-workflow-architecture
 
 > [!definition] **personal-workflow-architecture**
-> *Stub note — concept referenced by 167 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 146 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 167 permanent notes.*
+*Auto-generated stub — referenced by 146 permanent notes.*
 
 ## Referenced By
 
 - [[Abstract]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
 - [[Annotation-Confidence-25|Annotation Confidence 25]]
 - [[Annotation-Confidence-35|Annotation Confidence 35]]
 - [[Annotation-Confidence-45|Annotation Confidence 45]]
@@ -78,11 +77,12 @@ importance: high
 - [[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]
 - [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
 - [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
-- [[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]
 - [[Breakpoint]]
 - [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
 - [[Cargo-Cult-Coding|Cargo-Cult Coding]]
 - [[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]
-- [[Claim-1-The-VS-Code-+-Python-+-Copilot-Stack-as-Compounding-Cognitive-Scaffoldin|Claim 1 The VS Code + Python + Copilot Stack as Compounding Cognitive Scaffolding]]
 - [[Claim-2-Virtual-Environments-as-the-Critical-Operational-Concept|Claim 2 Virtual Environments as the Critical Operational Concept]]
-- *...and 147 more permanent notes*
+- [[Claim-3-Debugging-as-the-Primary-Site-of-Model-Formation|Claim 3 Debugging as the Primary Site of Model Formation]]
+- [[Claim-4-Copilot-Reverses-the-Traditional-Programming-Learning-Trajectory|Claim 4 Copilot Reverses the Traditional Programming Learning Trajectory]]
+- [[Claim-5-Project-Organization-as-Externalized-Cognitive-Architecture|Claim 5 Project Organization as Externalized Cognitive Architecture]]
+- *...and 126 more permanent notes*

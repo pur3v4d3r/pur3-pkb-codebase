@@ -1,6 +1,6 @@
 ---
 title: "Spaced-Repetition-Algorithms-and-Chunk-Consolidation"
-aliases: [spaced-repetition-scheduling, SRS algorithms, chunking techniques]
+aliases: [spaced repetition scheduling, SRS algorithms, chunking techniques]
 type: permanent-note
 status: evergreen
 confidence: high
@@ -23,7 +23,7 @@ provenance:
 # Spaced-Repetition-Algorithms-and-Chunk-Consolidation
 
 > [!definition] Spaced-Repetition-Algorithms-and-Chunk-Consolidation
-> *Definition pending — derived from 1 source report(s).*
+> The use of spaced repetition algorithms to enhance the consolidation of learned material into durable memory chunks.
 
 ## Core Explanation
 

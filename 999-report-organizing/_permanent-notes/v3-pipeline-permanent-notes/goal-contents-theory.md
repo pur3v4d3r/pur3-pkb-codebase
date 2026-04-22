@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 217
+referenced-by-count: 189
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]"
   - "[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]"
   - "[[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]"
-  - "[[Autonomy-Support-in-Practice-—-The-Anatomy-of-a-Teaching-Moment|Autonomy Support in Practice — The Anatomy of a Teaching Moment]]"
   - "[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]"
   - "[[Autonomy-≠-Independence|Autonomy ≠ Independence]]"
   - "[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]"
   - "[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]"
+  - "[[Basic-Psychological-Need-in-SDT|Basic Psychological Need (in SDT)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # goal-contents-theory
 
 > [!definition] **goal-contents-theory**
-> *Stub note — concept referenced by 217 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 189 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 217 permanent notes.*
+*Auto-generated stub — referenced by 189 permanent notes.*
 
 ## Referenced By
 
@@ -70,7 +70,6 @@ importance: high
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
 - [[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]
 - [[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]
-- [[Autonomy-Support-in-Practice-—-The-Anatomy-of-a-Teaching-Moment|Autonomy Support in Practice — The Anatomy of a Teaching Moment]]
 - [[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]
 - [[Autonomy-≠-Independence|Autonomy ≠ Independence]]
 - [[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]
@@ -80,9 +79,10 @@ importance: high
 - [[Beiwen-Chen-and-Cross-Cultural-SDT-Researchers|Beiwen Chen and Cross-Cultural SDT Researchers]]
 - [[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]
 - [[Central-Claim-of-OIT|Central Claim of OIT]]
-- [[Chen,-B.,-Vansteenkiste,-M.,-Beyers,-W.,-Boone,-L.,-Deci,-E.-L.,-Van-der-Kaap-De|Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015)]]
-- [[Claude's-Specialist-Observation-Dynamics-Are-Why-Autonomy-Support-Cannot-Be-Redu|Claude's Specialist Observation Dynamics Are Why Autonomy Support Cannot Be Reduced to a Behavior Checklist]]
 - [[Claude's-Specialist-Observation-Edge-Cases-as-Theory-Diagnostics|Claude's Specialist Observation Edge Cases as Theory Diagnostics]]
 - [[Claude's-Specialist-Observation-The-Frontier-Has-a-Shape|Claude's Specialist Observation The Frontier Has a Shape]]
 - [[Claude's-Specialist-Observation-The-Surface-Underdetermines-the-Mechanism|Claude's Specialist Observation The Surface Underdetermines the Mechanism]]
-- *...and 197 more permanent notes*
+- [[Claude's-Specialist-Observation-Why-Three-Needs-Is-Not-Arbitrary|Claude's Specialist Observation Why Three Needs Is Not Arbitrary]]
+- [[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]
+- [[Competence-in-the-SDT-technical-sense|Competence (in the SDT technical sense)]]
+- *...and 169 more permanent notes*

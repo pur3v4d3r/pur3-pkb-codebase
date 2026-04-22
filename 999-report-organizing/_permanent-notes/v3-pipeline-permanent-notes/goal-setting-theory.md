@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 302
+referenced-by-count: 222
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # goal-setting-theory
 
 > [!definition] **goal-setting-theory**
-> *Stub note — concept referenced by 302 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 222 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 302 permanent notes.*
+*Auto-generated stub — referenced by 222 permanent notes.*
 
 ## Referenced By
 
@@ -76,13 +76,13 @@ importance: high
 - [[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]
 - [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
-- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
-- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
-- *...and 282 more permanent notes*
+- [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
+- [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
+- [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
+- [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
+- [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
+- [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
+- [[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]
+- *...and 202 more permanent notes*

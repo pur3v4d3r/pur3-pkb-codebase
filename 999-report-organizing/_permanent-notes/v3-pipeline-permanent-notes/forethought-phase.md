@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 602
+referenced-by-count: 462
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # forethought-phase
 
 > [!definition] **forethought-phase**
-> *Stub note — concept referenced by 602 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 462 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 602 permanent notes.*
+*Auto-generated stub — referenced by 462 permanent notes.*
 
 ## Referenced By
 
@@ -75,14 +75,14 @@ importance: high
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
-- *...and 582 more permanent notes*
+- [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
+- [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
+- [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
+- [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
+- [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
+- [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
+- [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
+- [[Assessment-for-Autonomy|Assessment for Autonomy]]
+- *...and 442 more permanent notes*

@@ -1,6 +1,6 @@
 ---
 title: "Learned-Helplessness-and-Explanatory-Style"
-aliases: [learned-helplessness, explanatory-style]
+aliases: [LHES]
 type: permanent-note
 status: evergreen
 confidence: high

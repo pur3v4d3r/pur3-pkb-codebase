@@ -1,6 +1,6 @@
 ---
 title: "Transfer to Pedagogy: Worked Examples and Cognitive Pre-Compilation"
-aliases: []
+aliases: [worked-examples-method, cognitive-precompilation]
 type: permanent-note
 status: evergreen
 confidence: high
@@ -23,7 +23,7 @@ provenance:
 # Transfer to Pedagogy: Worked Examples and Cognitive Pre-Compilation
 
 > [!definition] Transfer to Pedagogy: Worked Examples and Cognitive Pre-Compilation
-> *Definition pending — derived from 1 source report(s).*
+> A pedagogical technique where fully worked solutions are provided before students attempt similar problems, enhancing learning.
 
 ## Core Explanation
 

@@ -1,6 +1,6 @@
 ---
 title: "The-Replication-Crisis-and-Dual-Process-Findings"
-aliases: [replication-crisis-dual-process-findings, dual-process-replication]
+aliases: [replication-crisis-in-dual-process-theory, dual-process-replication-analysis]
 type: permanent-note
 status: evergreen
 confidence: high

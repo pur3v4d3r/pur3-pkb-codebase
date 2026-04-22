@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 79
+referenced-by-count: 49
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
-  - "[[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]"
   - "[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]"
   - "[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]"
-  - "[[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-New-York-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. New York W. H. Freeman]]"
-  - "[[Barry-J.-Zimmerman-1942–2020-—-CUNY-Graduate-Center|Barry J. Zimmerman (1942–2020) — CUNY Graduate Center]]"
   - "[[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]"
   - "[[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]"
   - "[[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]"
   - "[[Directive-Function|Directive Function]]"
+  - "[[Educational-Goal-Setting|Educational Goal Setting]]"
+  - "[[Goal-Commitment|Goal Commitment]]"
+  - "[[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]"
+  - "[[Goal-Difficulty|Goal Difficulty]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # autonomous-motivation-vs.-controlled-motivation
 
 > [!definition] **autonomous-motivation-vs.-controlled-motivation**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 49 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+*Auto-generated stub — referenced by 49 permanent notes.*
 
 ## Referenced By
 
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
 - [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-New-York-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. New York W. H. Freeman]]
-- [[Barry-J.-Zimmerman-1942–2020-—-CUNY-Graduate-Center|Barry J. Zimmerman (1942–2020) — CUNY Graduate Center]]
 - [[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]
 - [[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]
 - [[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]
 - [[Directive-Function|Directive Function]]
 - [[Educational-Goal-Setting|Educational Goal Setting]]
-- [[Edwin-A.-Locke-b.-1938-—-Professor-Emeritus,-University-of-Maryland|Edwin A. Locke (b. 1938) — Professor Emeritus, University of Maryland]]
-- [[Gary-P.-Latham-b.-1945-—-Professor-of-Organizational-Behavior,-University-of-Tor|Gary P. Latham (b. 1945) — Professor of Organizational Behavior, University of Toronto (Rotman)]]
 - [[Goal-Commitment|Goal Commitment]]
 - [[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]
 - [[Goal-Difficulty|Goal Difficulty]]
 - [[Goal-Setting-Theory-Locke-&-Latham,-formalized-1990|Goal Setting Theory (Locke & Latham, formalized 1990)]]
 - [[Goal-Setting-Theory-in-the-Knowledge-Graph|Goal Setting Theory in the Knowledge Graph]]
-- [[Goal-Setting-as-Productivity-Tool-vs.-Goal-Setting-as-Powerful-Intervention-Requ|Goal Setting as Productivity Tool vs. Goal Setting as Powerful Intervention Requiring Caution]]
 - [[Goal-Specificity|Goal Specificity]]
-- *...and 59 more permanent notes*
+- [[Goal-Setting–SDT-Reconciliation-via-the-Quality-of-Commitment|Goal-Setting–SDT Reconciliation via the Quality of Commitment]]
+- [[High-Performance-Cycle|High Performance Cycle]]
+- [[Honest-Self-Scoring-of-This-Report|Honest Self-Scoring of This Report]]
+- [[How-This-Report-Was-Constructed|How This Report Was Constructed]]
+- [[Implementation-Intention-Gollwitzer,-1999|Implementation Intention (Gollwitzer, 1999)]]
+- [[Metacognitive-Closing-Prompt|Metacognitive Closing Prompt]]
+- [[Performance-Gains-vs.-Performance-Pathologies|Performance Gains vs. Performance Pathologies]]
+- *...and 29 more permanent notes*

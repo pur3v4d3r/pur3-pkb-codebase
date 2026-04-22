@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 192
+referenced-by-count: 160
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -40,13 +40,13 @@ see-also:
   - "[[Abstract]]"
   - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
   - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]"
   - "[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]"
   - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
   - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
-  - "[[CLT-vs.-Desirable-Difficulties-When-Does-Load-Help|CLT vs. Desirable Difficulties When Does Load Help]]"
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
   - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
+  - "[[Central-claim-of-this-level|Central claim of this level]]"
+  - "[[Chunk]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,20 +59,18 @@ importance: high
 # educational-psychology
 
 > [!definition] **educational-psychology**
-> *Stub note — concept referenced by 192 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 160 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 192 permanent notes.*
+*Auto-generated stub — referenced by 160 permanent notes.*
 
 ## Referenced By
 
 - [[Abstract]]
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
 - [[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]
-- [[CLT-vs.-Desirable-Difficulties-When-Does-Load-Help|CLT vs. Desirable Difficulties When Does Load Help]]
 - [[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Central-claim-of-this-level|Central claim of this level]]
@@ -85,4 +83,6 @@ importance: high
 - [[Claude's-perspective-on-the-substructure|Claude's perspective on the substructure]]
 - [[Claude's-perspective-on-the-surface-picture|Claude's perspective on the surface picture]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
-- *...and 172 more permanent notes*
+- [[Core-CLT-Argument-Structure|Core CLT Argument Structure]]
+- [[Design-Application-Exercise|Design Application Exercise]]
+- *...and 140 more permanent notes*

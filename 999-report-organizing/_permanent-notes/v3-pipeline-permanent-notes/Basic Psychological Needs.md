@@ -1,6 +1,6 @@
 ---
 title: "Basic Psychological Needs"
-aliases: [autonomy-competence-relatedness, SDT-needs]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium

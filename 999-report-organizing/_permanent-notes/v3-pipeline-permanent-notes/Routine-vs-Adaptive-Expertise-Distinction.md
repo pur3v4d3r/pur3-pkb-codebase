@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 89
+referenced-by-count: 76
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
   - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
   - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]"
-  - "[[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]"
   - "[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]"
   - "[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]"
   - "[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]"
+  - "[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]"
+  - "[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # Routine-vs-Adaptive-Expertise-Distinction
 
 > [!definition] **Routine-vs-Adaptive-Expertise-Distinction**
-> *Stub note — concept referenced by 89 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 76 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 89 permanent notes.*
+*Auto-generated stub — referenced by 76 permanent notes.*
 
 ## Referenced By
 
@@ -70,12 +70,9 @@ importance: high
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
 - [[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]
 - [[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]
-- [[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]
-- [[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
-- [[Chase,-W.-G.,-&-Simon,-H.-A.-1973.-Perception-in-chess.-Cognitive-Psychology,-41|Chase, W. G., & Simon, H. A. (1973). Perception in chess. Cognitive Psychology, 4(1), 55–81]]
 - [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
 - [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
 - [[Chunking-in-Second-Language-Acquisition]]
@@ -85,4 +82,7 @@ importance: high
 - [[Definition-Chunk|Definition Chunk]]
 - [[Definition-Long-Term-Working-Memory|Definition Long-Term Working Memory]]
 - [[Deliberate-Practice-Ericsson,-Krampe-&-Tesch-Römer,-1993|Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993)]]
-- *...and 69 more permanent notes*
+- [[Designing-PKB-Notes-as-External-Chunks|Designing PKB Notes as External Chunks]]
+- [[Diagnosing-Whether-an-Activity-Qualifies-as-Deliberate-Practice|Diagnosing Whether an Activity Qualifies as Deliberate Practice]]
+- [[Distinction-Template-vs.-Chunk|Distinction Template vs. Chunk]]
+- *...and 56 more permanent notes*

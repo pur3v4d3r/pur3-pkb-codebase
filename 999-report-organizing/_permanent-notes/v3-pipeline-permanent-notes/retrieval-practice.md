@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 395
+referenced-by-count: 314
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
   - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
-  - "[[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]"
   - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
   - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
   - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
   - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
+  - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
+  - "[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]"
+  - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,18 +59,15 @@ importance: high
 # retrieval-practice
 
 > [!definition] **retrieval-practice**
-> *Stub note — concept referenced by 395 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 314 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 395 permanent notes.*
+*Auto-generated stub — referenced by 314 permanent notes.*
 
 ## Referenced By
 
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
@@ -83,6 +80,9 @@ importance: high
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
 - [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]
-- [[Bandura,-A.-1997.-Self-Efficacy-The-Exercise-of-Control.-W.H.-Freeman|Bandura, A. (1997). Self-Efficacy The Exercise of Control. W.H. Freeman]]
-- *...and 375 more permanent notes*
+- [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
+- [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
+- [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
+- [[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]
+- [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
+- *...and 294 more permanent notes*

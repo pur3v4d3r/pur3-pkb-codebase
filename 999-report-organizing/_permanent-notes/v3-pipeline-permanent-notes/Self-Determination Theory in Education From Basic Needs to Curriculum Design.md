@@ -1,6 +1,6 @@
 ---
 title: "Self-Determination Theory in Education: From Basic Needs to Curriculum Design"
-aliases: [self-determination-theory-in-education, SDT in education]
+aliases: [SDT in Education, Self-Determination Theory for Educational Design]
 type: permanent-note
 status: evergreen
 confidence: high

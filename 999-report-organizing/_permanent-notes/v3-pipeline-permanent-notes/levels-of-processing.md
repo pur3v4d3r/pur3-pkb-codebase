@@ -31,14 +31,13 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 228
+referenced-by-count: 194
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Abstract]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
   - "[[Annotation-Confidence-25|Annotation Confidence 25]]"
   - "[[Annotation-Confidence-35|Annotation Confidence 35]]"
   - "[[Annotation-Confidence-45|Annotation Confidence 45]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]"
   - "[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]"
   - "[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]"
+  - "[[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,14 +59,13 @@ importance: high
 # levels-of-processing
 
 > [!definition] **levels-of-processing**
-> *Stub note — concept referenced by 228 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 194 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 228 permanent notes.*
+*Auto-generated stub — referenced by 194 permanent notes.*
 
 ## Referenced By
 
 - [[Abstract]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
 - [[Annotation-Confidence-25|Annotation Confidence 25]]
 - [[Annotation-Confidence-35|Annotation Confidence 35]]
 - [[Annotation-Confidence-45|Annotation Confidence 45]]
@@ -79,10 +78,11 @@ importance: high
 - [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
 - [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
 - [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
-- [[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]
-- [[Barry-Zimmerman-1942–present-—-City-University-of-New-York|Barry Zimmerman (1942–present) — City University of New York]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A]]
 - [[Breakpoint]]
 - [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
 - [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
-- *...and 208 more permanent notes*
+- [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
+- [[Cargo-Cult-Coding|Cargo-Cult Coding]]
+- [[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]
+- [[Claim-2-Virtual-Environments-as-the-Critical-Operational-Concept|Claim 2 Virtual Environments as the Critical Operational Concept]]
+- *...and 174 more permanent notes*

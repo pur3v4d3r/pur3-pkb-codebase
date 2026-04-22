@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 278
+referenced-by-count: 221
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Abstract]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
   - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
+  - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
+  - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # guidance-fading-principle
 
 > [!definition] **guidance-fading-principle**
-> *Stub note — concept referenced by 278 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 221 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 278 permanent notes.*
+*Auto-generated stub — referenced by 221 permanent notes.*
 
 ## Referenced By
 
@@ -71,8 +71,6 @@ importance: high
 - [[Abstract]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
@@ -83,6 +81,8 @@ importance: high
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
 - [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Bandura,-A.-1997.-Self-Efficacy-The-Exercise-of-Control.-W.H.-Freeman|Bandura, A. (1997). Self-Efficacy The Exercise of Control. W.H. Freeman]]
-- [[Barry-Zimmerman-1942–2021-—-City-University-of-New-York|Barry Zimmerman (1942–2021) — City University of New York]]
-- *...and 258 more permanent notes*
+- [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
+- [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
+- [[Central-claim-of-this-level|Central claim of this level]]
+- [[Chunk]]
+- *...and 201 more permanent notes*

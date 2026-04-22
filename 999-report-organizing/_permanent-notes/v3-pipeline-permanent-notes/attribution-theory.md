@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 386
+referenced-by-count: 266
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -40,13 +40,13 @@ see-also:
   - "[[A-Common-Misreading|A Common Misreading]]"
   - "[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]"
   - "[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]"
-  - "[[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]"
   - "[[Achievement-Goal|Achievement Goal]]"
   - "[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
   - "[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
+  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
+  - "[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # attribution-theory
 
 > [!definition] **attribution-theory**
-> *Stub note — concept referenced by 386 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 266 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 386 permanent notes.*
+*Auto-generated stub — referenced by 266 permanent notes.*
 
 ## Referenced By
 
 - [[A-Common-Misreading|A Common Misreading]]
 - [[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]
 - [[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]
-- [[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]
 - [[Achievement-Goal|Achievement Goal]]
 - [[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
-- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
-- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]
 - [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
 - [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
-- *...and 366 more permanent notes*
+- [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
+- [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
+- [[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]
+- [[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]
+- [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
+- [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
+- [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
+- [[Attributional-Processes-in-Intergroup-Relations]]
+- *...and 246 more permanent notes*

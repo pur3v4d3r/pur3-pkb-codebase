@@ -1,6 +1,6 @@
 ---
 title: "The PKB as Metacognitive Prosthesis"
-aliases: [PKB-based metacognition, metacognitive knowledge base]
+aliases: [personal knowledge base as metacognitive tool, PKB for metacognition]
 type: permanent-note
 status: evergreen
 confidence: high

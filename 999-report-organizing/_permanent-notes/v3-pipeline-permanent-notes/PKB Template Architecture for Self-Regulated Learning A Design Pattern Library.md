@@ -1,6 +1,6 @@
 ---
 title: "PKB Template Architecture for Self-Regulated Learning: A Design Pattern Library"
-aliases: [PKB template design for self-regulated learning, SRL PKB pattern library]
+aliases: [PKB template design for self-regulated learning, SRL PKB template architecture, Design pattern library for SRL PKBs]
 type: permanent-note
 status: evergreen
 confidence: high
@@ -23,7 +23,7 @@ provenance:
 # PKB Template Architecture for Self-Regulated Learning: A Design Pattern Library
 
 > [!definition] PKB Template Architecture for Self-Regulated Learning: A Design Pattern Library
-> *Definition pending — derived from 1 source report(s).*
+> A practical, pattern-oriented approach to designing PKB templates optimized for self-regulated learning.
 
 ## Core Explanation
 

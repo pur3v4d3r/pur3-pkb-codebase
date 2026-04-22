@@ -1,6 +1,6 @@
 ---
 title: "Trait vs. State Measurement"
-aliases: []
+aliases: [trait-state distinction, trait-state assessment]
 type: permanent-note
 status: evergreen
 confidence: high

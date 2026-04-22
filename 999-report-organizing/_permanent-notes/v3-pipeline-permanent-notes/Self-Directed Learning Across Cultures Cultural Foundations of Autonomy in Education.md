@@ -1,6 +1,6 @@
 ---
 title: "Self-Directed Learning Across Cultures: Cultural Foundations of Autonomy in Education"
-aliases: [cultural-aspects-of-self-directed-learning, self-directed-learning-across-cultures]
+aliases: [cultural-roots-of-self-directed-learning, cross-cultural-self-directed-learning]
 type: permanent-note
 status: evergreen
 confidence: high

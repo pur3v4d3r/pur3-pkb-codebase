@@ -1,6 +1,6 @@
 ---
 title: "Functional Significance"
-aliases: [FS, informational significance, controlling significance, amotivating significance]
+aliases: [functional-significance, FS]
 type: permanent-note
 status: evergreen
 confidence: medium

@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 158
+referenced-by-count: 135
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,7 +39,6 @@ referenced-by-count: 158
 see-also:
   - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
   - "[[Abstract]]"
-  - "[[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]"
   - "[[Annotation-Confidence-25|Annotation Confidence 25]]"
   - "[[Annotation-Confidence-35|Annotation Confidence 35]]"
   - "[[Annotation-Confidence-45|Annotation Confidence 45]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]"
   - "[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]"
   - "[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]"
+  - "[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,15 +59,14 @@ importance: high
 # elaborative-encoding
 
 > [!definition] **elaborative-encoding**
-> *Stub note — concept referenced by 158 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 135 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 158 permanent notes.*
+*Auto-generated stub — referenced by 135 permanent notes.*
 
 ## Referenced By
 
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
 - [[Abstract]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
 - [[Annotation-Confidence-25|Annotation Confidence 25]]
 - [[Annotation-Confidence-35|Annotation Confidence 35]]
 - [[Annotation-Confidence-45|Annotation Confidence 45]]
@@ -80,9 +79,10 @@ importance: high
 - [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
 - [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
-- [[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]
-- [[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]
 - [[Breakpoint]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
 - [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
-- *...and 138 more permanent notes*
+- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
+- [[Cargo-Cult-Coding|Cargo-Cult Coding]]
+- [[Claim-2-Virtual-Environments-as-the-Critical-Operational-Concept|Claim 2 Virtual Environments as the Critical Operational Concept]]
+- *...and 115 more permanent notes*

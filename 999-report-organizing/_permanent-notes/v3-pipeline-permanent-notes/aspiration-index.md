@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 106
+referenced-by-count: 85
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,14 +39,14 @@ referenced-by-count: 106
 see-also:
   - "[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]"
   - "[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]"
-  - "[[Autonomy-Support-in-Practice-—-The-Anatomy-of-a-Teaching-Moment|Autonomy Support in Practice — The Anatomy of a Teaching Moment]]"
   - "[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]"
   - "[[Autonomy-≠-Independence|Autonomy ≠ Independence]]"
   - "[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]"
   - "[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]"
   - "[[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]"
-  - "[[Chen,-B.,-Vansteenkiste,-M.,-Beyers,-W.,-Boone,-L.,-Deci,-E.-L.,-Van-der-Kaap-De|Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015)]]"
   - "[[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]"
+  - "[[Diagnostic-Pause|Diagnostic Pause]]"
+  - "[[Functional-Significance-CET|Functional Significance (CET)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # aspiration-index
 
 > [!definition] **aspiration-index**
-> *Stub note — concept referenced by 106 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 85 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 106 permanent notes.*
+*Auto-generated stub — referenced by 85 permanent notes.*
 
 ## Referenced By
 
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
 - [[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]
-- [[Autonomy-Support-in-Practice-—-The-Anatomy-of-a-Teaching-Moment|Autonomy Support in Practice — The Anatomy of a Teaching Moment]]
 - [[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]
 - [[Autonomy-≠-Independence|Autonomy ≠ Independence]]
 - [[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]
 - [[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]
 - [[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]
-- [[Chen,-B.,-Vansteenkiste,-M.,-Beyers,-W.,-Boone,-L.,-Deci,-E.-L.,-Van-der-Kaap-De|Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015)]]
 - [[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]
-- [[Deci,-E.-L.-1971.-Effects-of-externally-mediated-rewards-on-intrinsic-motivation|Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. Journal of Personality and Social]]
-- [[Deci,-E.-L.,-&-Ryan,-R.-M.-1985.-Intrinsic-motivation-and-self-determination-in|Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. New York Plenum]]
-- [[Deci,-E.-L.,-Koestner,-R.,-&-Ryan,-R.-M.-1999.-A-meta-analytic-review-of-experim|Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of]]
 - [[Diagnostic-Pause|Diagnostic Pause]]
-- [[Edward-L.-Deci-1942–2017|Edward L. Deci (1942–2017)]]
 - [[Functional-Significance-CET|Functional Significance (CET)]]
 - [[Functional-Significance-Deci-&-Ryan,-1985|Functional Significance (Deci & Ryan, 1985)]]
-- [[Gagné,-M.,-&-Deci,-E.-L.-2005.-Self-determination-theory-and-work-motivation.-Jo|Gagné, M., & Deci, E. L. (2005). Self-determination theory and work motivation. Journal of Organizational Behavior,]]
-- [[Game-Design-and-Digital-Environments-—-Need-Satisfaction-as-Engagement-Architect|Game Design and Digital Environments — Need Satisfaction as Engagement Architecture]]
 - [[Internalization-Deci-&-Ryan,-1985;-Ryan,-1995|Internalization (Deci & Ryan, 1985; Ryan, 1995)]]
-- *...and 86 more permanent notes*
+- [[Internalization-SDT|Internalization (SDT)]]
+- [[Intrinsic-Motivation-Deci,-1971;-Deci-&-Ryan,-1985|Intrinsic Motivation (Deci, 1971; Deci & Ryan, 1985)]]
+- [[Intrinsic-vs.-Extrinsic-Goal-Contents-GCT|Intrinsic vs. Extrinsic Goal Contents (GCT)]]
+- [[Johnmarshall-Reeve-dates-not-verified|Johnmarshall Reeve (dates not verified)]]
+- [[Maarten-Vansteenkiste-1976–|Maarten Vansteenkiste (1976–)]]
+- [[Metatheory-as-Predictive-Constraint|Metatheory as Predictive Constraint]]
+- [[Methodological-Transparency|Methodological Transparency]]
+- [[Need-Frustration-Vansteenkiste-&-Ryan,-2013|Need Frustration (Vansteenkiste & Ryan, 2013)]]
+- *...and 65 more permanent notes*

@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 1106
+referenced-by-count: 818
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,8 +45,8 @@ see-also:
   - "[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]"
   - "[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]"
   - "[[AI-Assisted-Reading-Risks-and-Safeguards]]"
-  - "[[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]"
   - "[[Abstract]]"
+  - "[[Achievement-Goal|Achievement Goal]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # self-regulated-learning
 
 > [!definition] **self-regulated-learning**
-> *Stub note — concept referenced by 1106 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 818 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 1106 permanent notes.*
+*Auto-generated stub — referenced by 818 permanent notes.*
 
 ## Referenced By
 
@@ -73,16 +73,16 @@ importance: high
 - [[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]
 - [[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]
 - [[AI-Assisted-Reading-Risks-and-Safeguards]]
-- [[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]
 - [[Abstract]]
 - [[Achievement-Goal|Achievement Goal]]
 - [[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
 - [[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- *...and 1086 more permanent notes*
+- [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
+- [[Andragogy-Knowles|Andragogy (Knowles)]]
+- *...and 798 more permanent notes*

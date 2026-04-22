@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 536
+referenced-by-count: 425
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # automaticity
 
 > [!definition] **automaticity**
-> *Stub note — concept referenced by 536 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 425 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 536 permanent notes.*
+*Auto-generated stub — referenced by 425 permanent notes.*
 
 ## Referenced By
 
@@ -80,9 +80,9 @@ importance: high
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Amos-Tversky-1937–1996-—-Stanford-University,-formerly-Hebrew-University|Amos Tversky (1937–1996) — Stanford University, formerly Hebrew University]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
-- *...and 516 more permanent notes*
+- [[Annotation-Confidence-25|Annotation Confidence 25]]
+- [[Annotation-Confidence-35|Annotation Confidence 35]]
+- [[Annotation-Confidence-45|Annotation Confidence 45]]
+- [[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]
+- *...and 405 more permanent notes*

@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 97
+referenced-by-count: 81
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # Germane-Load-as-a-Functional-Category,-Not-a-Source-Category
 
 > [!definition] **Germane-Load-as-a-Functional-Category,-Not-a-Source-Category**
-> *Stub note — concept referenced by 97 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 81 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 97 permanent notes.*
+*Auto-generated stub — referenced by 81 permanent notes.*
 
 ## Referenced By
 
@@ -85,4 +85,4 @@ importance: high
 - [[Edge-Case-6-The-Multimedia-Exceptions|Edge Case 6 The Multimedia Exceptions]]
 - [[Element-operational,-contemporary|Element (operational, contemporary)]]
 - [[Element-Interactivity|Element Interactivity]]
-- *...and 77 more permanent notes*
+- *...and 61 more permanent notes*

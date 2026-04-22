@@ -1,6 +1,6 @@
 ---
 title: "Systematic Troubleshooting as Metacognitive Architecture"
-aliases: [Diagnostic Reasoning, Error Debugging]
+aliases: [Debugging, Diagnostic Reasoning]
 type: permanent-note
 status: evergreen
 confidence: high

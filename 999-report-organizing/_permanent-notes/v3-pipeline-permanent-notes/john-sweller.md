@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 415
+referenced-by-count: 329
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,8 +45,8 @@ see-also:
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
   - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
+  - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
+  - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # john-sweller
 
 > [!definition] **john-sweller**
-> *Stub note — concept referenced by 415 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 329 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 415 permanent notes.*
+*Auto-generated stub — referenced by 329 permanent notes.*
 
 ## Referenced By
 
@@ -73,8 +73,6 @@ importance: high
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
@@ -85,4 +83,6 @@ importance: high
 - [[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
-- *...and 395 more permanent notes*
+- [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
+- [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
+- *...and 309 more permanent notes*

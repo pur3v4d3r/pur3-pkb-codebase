@@ -1,6 +1,6 @@
 ---
 title: "Whole-Task Approach (van Merriënboer, 1997)"
-aliases: []
+aliases: [van Merriënboer-97, task-based instruction]
 type: permanent-note
 status: evergreen
 confidence: high

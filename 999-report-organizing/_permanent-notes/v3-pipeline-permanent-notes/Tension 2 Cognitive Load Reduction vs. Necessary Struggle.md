@@ -1,6 +1,6 @@
 ---
 title: "Tension 2: Cognitive Load Reduction vs. Necessary Struggle"
-aliases: [cognitive-load-reduction-vs-necessary-struggle, Bjork's desirability difficulty]
+aliases: [cognitive-load-reduction-vs-necessary-struggle, Bjork's desirable difficulties]
 type: permanent-note
 status: evergreen
 confidence: medium

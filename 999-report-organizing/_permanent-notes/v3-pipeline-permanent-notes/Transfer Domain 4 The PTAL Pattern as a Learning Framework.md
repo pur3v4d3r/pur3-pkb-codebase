@@ -1,6 +1,6 @@
 ---
 title: "Transfer Domain 4: The PTAL Pattern as a Learning Framework"
-aliases: [Problem-Theory-Application-Limits, PTAL structure]
+aliases: [Problem-Theory-Application-Limits pattern, PTAL structure]
 type: permanent-note
 status: evergreen
 confidence: medium
@@ -23,7 +23,7 @@ provenance:
 # Transfer Domain 4: The PTAL Pattern as a Learning Framework
 
 > [!definition] Transfer Domain 4: The PTAL Pattern as a Learning Framework
-> A learning framework using Problem-Theory-Application-Limits to guide the acquisition of complex skills.
+> A structured approach for learning complex skill domains by identifying problems, theories, applications, and limitations.
 
 ## Core Explanation
 

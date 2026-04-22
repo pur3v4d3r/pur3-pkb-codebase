@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 62
+referenced-by-count: 37
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,14 +39,14 @@ referenced-by-count: 62
 see-also:
   - "[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]"
   - "[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]"
-  - "[[Bandura,-A.-1977.-Self-efficacy-Toward-a-unifying-theory-of-behavioral-change.-P|Bandura, A. (1977). Self-efficacy Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215]]"
-  - "[[Bandura,-A.-1986.-Social-foundations-of-thought-and-action-A-social-cognitive-th|Bandura, A. (1986). Social foundations of thought and action A social cognitive theory. Englewood Cliffs, NJ]]"
-  - "[[Barry-J.-Zimmerman-—-City-University-of-New-York|Barry J. Zimmerman — City University of New York]]"
   - "[[Calibration-Versus-Optimism|Calibration Versus Optimism]]"
   - "[[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]"
   - "[[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]"
+  - "[[Collective-Efficacy-as-a-Bridge-Between-Self-Efficacy-Theory-and-Sociology|Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology]]"
+  - "[[Cross-Cultural-Universality-of-Source-Weighting|Cross-Cultural Universality of Source Weighting]]"
+  - "[[Designing-Efficacy-Building-Learning-Sequences|Designing Efficacy-Building Learning Sequences]]"
+  - "[[Diagnostic-Questions-for-Efficacy-Intervention-Design|Diagnostic Questions for Efficacy Intervention Design]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # Collective-Efficacy-and-Social-Capital-The-Sociological-Bridge
 
 > [!definition] **Collective-Efficacy-and-Social-Capital-The-Sociological-Bridge**
-> *Stub note — concept referenced by 62 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 37 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 62 permanent notes.*
+*Auto-generated stub — referenced by 37 permanent notes.*
 
 ## Referenced By
 
 - [[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
 - [[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]
-- [[Bandura,-A.-1977.-Self-efficacy-Toward-a-unifying-theory-of-behavioral-change.-P|Bandura, A. (1977). Self-efficacy Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215]]
-- [[Bandura,-A.-1986.-Social-foundations-of-thought-and-action-A-social-cognitive-th|Bandura, A. (1986). Social foundations of thought and action A social cognitive theory. Englewood Cliffs, NJ]]
-- [[Barry-J.-Zimmerman-—-City-University-of-New-York|Barry J. Zimmerman — City University of New York]]
 - [[Calibration-Versus-Optimism|Calibration Versus Optimism]]
 - [[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]
 - [[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]
 - [[Collective-Efficacy-as-a-Bridge-Between-Self-Efficacy-Theory-and-Sociology|Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology]]
 - [[Cross-Cultural-Universality-of-Source-Weighting|Cross-Cultural Universality of Source Weighting]]
-- [[Dale-H.-Schunk-—-University-of-North-Carolina-at-Greensboro|Dale H. Schunk — University of North Carolina at Greensboro]]
 - [[Designing-Efficacy-Building-Learning-Sequences|Designing Efficacy-Building Learning Sequences]]
 - [[Diagnostic-Questions-for-Efficacy-Intervention-Design|Diagnostic Questions for Efficacy Intervention Design]]
 - [[Efficacy-Calibration|Efficacy Calibration]]
 - [[Efficacy-Hierarchy|Efficacy Hierarchy]]
 - [[Efficacy-Driven-Path-Dependence-in-Mathematical-Learning|Efficacy-Driven Path Dependence in Mathematical Learning]]
-- [[Ellen-L.-Usher-—-University-of-Kentucky|Ellen L. Usher — University of Kentucky]]
 - [[Enactive-Mastery-Experience|Enactive Mastery Experience]]
-- *...and 42 more permanent notes*
+- [[Future-Investigation-Directions-Arising-from-This-Report|Future Investigation Directions Arising from This Report]]
+- [[Honest-Dimensional-Self-Scoring|Honest Dimensional Self-Scoring]]
+- [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
+- [[Leadership-Development-and-the-Cultivation-of-Collective-Efficacy|Leadership Development and the Cultivation of Collective Efficacy]]
+- [[Methodology,-Claim-Taxonomy,-and-AI-Generation-Transparency|Methodology, Claim Taxonomy, and AI Generation Transparency]]
+- [[Outcome-Expectation|Outcome Expectation]]
+- *...and 17 more permanent notes*

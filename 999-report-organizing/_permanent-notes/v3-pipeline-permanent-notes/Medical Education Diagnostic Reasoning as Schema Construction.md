@@ -1,6 +1,6 @@
 ---
 title: "Medical Education: Diagnostic Reasoning as Schema Construction"
-aliases: [Diagnostic Reasoning in Medical Education, Schema-Based Learning in Medicine]
+aliases: [diagnostic-reasoning-in-medical-education, schema-construction-for-diagnosis]
 type: permanent-note
 status: evergreen
 confidence: high

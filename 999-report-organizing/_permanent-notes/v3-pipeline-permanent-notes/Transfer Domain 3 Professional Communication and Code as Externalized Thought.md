@@ -4,9 +4,9 @@ aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium
-domain: professional-development
+domain: professional-communication
 subdomains: []
-tags: [permanent-note, professional-development]
+tags: [permanent-note, professional-communication]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: intermediate

@@ -1,6 +1,6 @@
 ---
 title: "Claim 2: Virtual Environments as the Critical Operational Concept"
-aliases: [virtual-environment-criticality, critical-virtual-environment]
+aliases: [virtual-environment-critical-concept, critical-virtual-environment]
 type: permanent-note
 status: evergreen
 confidence: medium

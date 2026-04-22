@@ -1,6 +1,6 @@
 ---
 title: "Technology-Enhanced Self-Directed Learning: Adaptive Systems and Digital Scaffolding"
-aliases: ['TESDL: Adaptive Systems and Digital Scaffolding', Adaptive Learning Platforms in Self-Directed Learning]
+aliases: [TESDL, Adaptive Learning Systems, Digital Scaffolding in Self-Directed Learning]
 type: permanent-note
 status: evergreen
 confidence: high

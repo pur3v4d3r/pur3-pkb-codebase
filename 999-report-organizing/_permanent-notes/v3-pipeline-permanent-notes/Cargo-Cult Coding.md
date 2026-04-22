@@ -1,6 +1,6 @@
 ---
 title: "Cargo-Cult Coding"
-aliases: [cargo-cult programming, copy-and-paste coding]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium

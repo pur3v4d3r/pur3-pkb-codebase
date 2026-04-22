@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 232
+referenced-by-count: 183
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
-  - "[[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]"
   - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
   - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
   - "[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]"
   - "[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]"
   - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
   - "[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]"
+  - "[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]"
+  - "[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,16 +59,14 @@ importance: high
 # scaffolded-fading
 
 > [!definition] **scaffolded-fading**
-> *Stub note — concept referenced by 232 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 183 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 232 permanent notes.*
+*Auto-generated stub — referenced by 183 permanent notes.*
 
 ## Referenced By
 
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
 - [[Assessment-for-Autonomy|Assessment for Autonomy]]
 - [[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]
@@ -79,10 +77,12 @@ importance: high
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
 - [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Bandura,-A.-1997.-Self-Efficacy-The-Exercise-of-Control.-W.H.-Freeman|Bandura, A. (1997). Self-Efficacy The Exercise of Control. W.H. Freeman]]
-- [[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]
-- [[Barry-Zimmerman-1942–2021-—-City-University-of-New-York|Barry Zimmerman (1942–2021) — City University of New York]]
-- [[Barry-Zimmerman-1942–present-—-City-University-of-New-York|Barry Zimmerman (1942–present) — City University of New York]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A]]
-- [[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]
-- *...and 212 more permanent notes*
+- [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
+- [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
+- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
+- [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
+- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
+- [[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]
+- [[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
+- *...and 163 more permanent notes*

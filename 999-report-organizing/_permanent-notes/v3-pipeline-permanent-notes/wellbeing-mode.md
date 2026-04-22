@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 95
+referenced-by-count: 72
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,14 +39,14 @@ referenced-by-count: 95
 see-also:
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]"
-  - "[[Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center|Barry J. Zimmerman (1942– ), CUNY Graduate Center]]"
-  - "[[Boekaerts,-M.-1996.-Self-regulated-learning-at-the-junction-of-cognition-and-mot|Boekaerts, M. (1996). Self-regulated learning at the junction of cognition and motivation. European Psychologist, 1(2),]]"
   - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
   - "[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]"
   - "[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]"
   - "[[Control-Move-Selection|Control Move Selection]]"
   - "[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]"
+  - "[[Control-Phase-Pintrich|Control Phase (Pintrich)]]"
+  - "[[Control-Repertoire-in-Action|Control Repertoire in Action]]"
+  - "[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,17 +59,14 @@ importance: high
 # wellbeing-mode
 
 > [!definition] **wellbeing-mode**
-> *Stub note — concept referenced by 95 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 95 permanent notes.*
+*Auto-generated stub — referenced by 72 permanent notes.*
 
 ## Referenced By
 
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
-- [[Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center|Barry J. Zimmerman (1942– ), CUNY Graduate Center]]
-- [[Boekaerts,-M.-1996.-Self-regulated-learning-at-the-junction-of-cognition-and-mot|Boekaerts, M. (1996). Self-regulated learning at the junction of cognition and motivation. European Psychologist, 1(2),]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
 - [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
 - [[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]
@@ -78,11 +75,14 @@ importance: high
 - [[Control-Phase-Pintrich|Control Phase (Pintrich)]]
 - [[Control-Repertoire-in-Action|Control Repertoire in Action]]
 - [[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]
-- [[Efklides,-A.-2011.-Interactions-of-metacognition-with-motivation-and-affect-in-s|Efklides, A. (2011). Interactions of metacognition with motivation and affect in self-regulated learning The MASRL]]
 - [[Externalized-Metacognition-and-Personal-Knowledge-Bases]]
 - [[Forethought-Failure-and-Its-Downstream-Consequences|Forethought Failure and Its Downstream Consequences]]
 - [[Forethought-Phase-Pintrich|Forethought Phase (Pintrich)]]
 - [[Forethought-as-Regulatory-Front-Loading|Forethought as Regulatory Front-Loading]]
 - [[High-Priority-Expansion-Topics|High-Priority Expansion Topics]]
 - [[Mastery-vs.-Performance-Goal-Orientation-Ames,-Dweck,-integrated-into-Pintrich|Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich)]]
-- *...and 75 more permanent notes*
+- [[Methodology,-Claim-Taxonomy,-and-Generation-Transparency|Methodology, Claim Taxonomy, and Generation Transparency]]
+- [[Monitoring-Phase-Pintrich|Monitoring Phase (Pintrich)]]
+- [[Monitoring-Vocabulary-Audit|Monitoring Vocabulary Audit]]
+- [[Monitoring-as-Vocabulary-Dependent-Signal-Generation|Monitoring as Vocabulary-Dependent Signal Generation]]
+- *...and 52 more permanent notes*

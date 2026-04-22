@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 501
+referenced-by-count: 406
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # expertise-reversal-effect
 
 > [!definition] **expertise-reversal-effect**
-> *Stub note — concept referenced by 501 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 406 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 501 permanent notes.*
+*Auto-generated stub — referenced by 406 permanent notes.*
 
 ## Referenced By
 
@@ -77,12 +77,12 @@ importance: high
 - [[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]
-- [[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
-- *...and 481 more permanent notes*
+- [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
+- [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
+- [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
+- [[Assessment-for-Autonomy|Assessment for Autonomy]]
+- *...and 386 more permanent notes*

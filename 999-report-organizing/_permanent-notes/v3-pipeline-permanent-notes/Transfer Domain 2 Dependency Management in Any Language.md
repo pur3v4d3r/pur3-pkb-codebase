@@ -23,7 +23,7 @@ provenance:
 # Transfer Domain 2: Dependency Management in Any Language
 
 > [!definition] Transfer Domain 2: Dependency Management in Any Language
-> The process of identifying, declaring, and managing software dependencies.
+> *Definition pending — derived from 1 source report(s).*
 
 ## Core Explanation
 

@@ -1,6 +1,6 @@
 ---
 title: "Spaced Repetition Seeds for Active Recall"
-aliases: [SRS for AR, spaced repetition method for active recall]
+aliases: [SRS for AR, Active Recall via Spaced Repetition]
 type: permanent-note
 status: evergreen
 confidence: medium

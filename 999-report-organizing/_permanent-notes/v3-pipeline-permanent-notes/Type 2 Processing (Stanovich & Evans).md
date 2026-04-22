@@ -1,6 +1,6 @@
 ---
 title: "Type 2 Processing (Stanovich & Evans)"
-aliases: []
+aliases: [Stanovich-Evans Model, Deliberate Processing]
 type: permanent-note
 status: evergreen
 confidence: high

@@ -1,6 +1,6 @@
 ---
 title: "Tension 4: VS Code Magic vs. Terminal Transparency"
-aliases: [vs-code-vs-terminal, vscode-terminal-tension]
+aliases: [VS Code magic vs terminal transparency, VS Code automation vs manual command-line]
 type: permanent-note
 status: evergreen
 confidence: medium

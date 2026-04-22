@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 96
+referenced-by-count: 75
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
   - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
   - "[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]"
   - "[[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]"
   - "[[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]"
+  - "[[Complex-Learning|Complex Learning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # the-worked-example-effect
 
 > [!definition] **the-worked-example-effect**
-> *Stub note — concept referenced by 96 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 75 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 96 permanent notes.*
+*Auto-generated stub — referenced by 75 permanent notes.*
 
 ## Referenced By
 
@@ -70,7 +70,6 @@ importance: high
 - [[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
 - [[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]
@@ -83,6 +82,7 @@ importance: high
 - [[Final-Integration-Before-the-Appendix|Final Integration Before the Appendix]]
 - [[Four-Component-Instructional-Design-4CID-van-Merriënboer,-1997|Four-Component Instructional Design (4CID) (van Merriënboer, 1997)]]
 - [[Fred-Paas-b.-1963|Fred Paas (b. 1963)]]
-- [[Germane-Load-Theoretical-Construct-or-Explanatory-Artifact|Germane Load Theoretical Construct or Explanatory Artifact]]
 - [[Guidance-vs.-Discovery-The-Scaffold-Fading-Dilemma|Guidance vs. Discovery The Scaffold-Fading Dilemma]]
-- *...and 76 more permanent notes*
+- [[Jeroen-J.G.-van-Merriënboer-b.-1959|Jeroen J.G. van Merriënboer (b. 1959)]]
+- [[John-Sweller-b.-1946|John Sweller (b. 1946)]]
+- *...and 55 more permanent notes*

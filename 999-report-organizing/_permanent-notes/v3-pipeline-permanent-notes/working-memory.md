@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 969
+referenced-by-count: 740
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # working-memory
 
 > [!definition] **working-memory**
-> *Stub note — concept referenced by 969 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 740 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 969 permanent notes.*
+*Auto-generated stub — referenced by 740 permanent notes.*
 
 ## Referenced By
 
@@ -80,9 +80,9 @@ importance: high
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
 - [[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- *...and 949 more permanent notes*
+- [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
+- *...and 720 more permanent notes*

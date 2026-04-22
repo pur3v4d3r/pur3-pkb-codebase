@@ -23,7 +23,7 @@ provenance:
 # Attributional-Processes-in-Intergroup-Relations
 
 > [!definition] Attributional-Processes-in-Intergroup-Relations
-> The cognitive processes by which individuals attribute causes to the behaviors of ingroups and outgroups.
+> *Definition pending — derived from 1 source report(s).*
 
 ## Core Explanation
 

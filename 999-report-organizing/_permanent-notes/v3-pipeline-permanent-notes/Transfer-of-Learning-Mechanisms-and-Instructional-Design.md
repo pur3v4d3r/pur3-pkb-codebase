@@ -1,6 +1,6 @@
 ---
 title: "Transfer-of-Learning-Mechanisms-and-Instructional-Design"
-aliases: [transfer-learning-mechanisms-and-instructional-design, learning-transfer-mechanisms]
+aliases: [transfer-of-learning, learning-transfer-mechanisms, instructional-design-for-transfer]
 type: permanent-note
 status: evergreen
 confidence: high

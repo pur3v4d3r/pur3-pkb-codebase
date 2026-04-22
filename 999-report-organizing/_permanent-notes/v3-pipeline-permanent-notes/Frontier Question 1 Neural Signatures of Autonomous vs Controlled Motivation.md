@@ -1,6 +1,6 @@
 ---
 title: "Frontier Question 1: Neural Signatures of Autonomous vs Controlled Motivation"
-aliases: [neural-basis-of-autonomous-vs-controlled-motivation, autonomous-vs-controlled-motivation-neural-signature]
+aliases: [neural-markers-of-autonomous-vs-controlled-motivation, autonomous-vs-controlled-motivation-neural-signatures]
 type: permanent-note
 status: evergreen
 confidence: medium

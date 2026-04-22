@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 318
+referenced-by-count: 253
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -46,7 +46,7 @@ see-also:
   - "[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]"
+  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # cyclical-model-of-self-regulated-learning
 
 > [!definition] **cyclical-model-of-self-regulated-learning**
-> *Stub note — concept referenced by 318 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 253 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 318 permanent notes.*
+*Auto-generated stub — referenced by 253 permanent notes.*
 
 ## Referenced By
 
@@ -74,15 +74,15 @@ importance: high
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
 - [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- *...and 298 more permanent notes*
+- [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
+- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
+- [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
+- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
+- *...and 233 more permanent notes*

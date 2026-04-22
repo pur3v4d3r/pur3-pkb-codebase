@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Instruction: Real-Time Learning Environment Optimization"
-aliases: [Adaptive Learning, Dynamic Instruction, Real-Time Instructional Adjustment]
+aliases: [adaptive-instruction, real-time-learning-optimization]
 type: permanent-note
 status: evergreen
 confidence: high

@@ -1,6 +1,6 @@
 ---
 title: "Chunk (Miller, 1956; Chase & Simon, 1973)"
-aliases: [chunking]
+aliases: [Miller-chunk, Chase-Simon-chunk]
 type: permanent-note
 status: evergreen
 confidence: high

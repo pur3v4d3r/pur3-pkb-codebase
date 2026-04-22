@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 95
+referenced-by-count: 79
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
   - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
   - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
   - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
   - "[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]"
-  - "[[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman]]"
-  - "[[Brookfield,-S.-D.-1985.-Self-directed-learning-A-critical-review-of-research.-In|Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed]]"
   - "[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]"
   - "[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]"
   - "[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]"
+  - "[[Connection-SDT-and-SDL|Connection SDT and SDL]]"
+  - "[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]"
+  - "[[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,25 +59,21 @@ importance: high
 # epistemic-curiosity
 
 > [!definition] **epistemic-curiosity**
-> *Stub note — concept referenced by 95 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 95 permanent notes.*
+*Auto-generated stub — referenced by 79 permanent notes.*
 
 ## Referenced By
 
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman]]
-- [[Brookfield,-S.-D.-1985.-Self-directed-learning-A-critical-review-of-research.-In|Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed]]
 - [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
 - [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
 - [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
 - [[Connection-SDT-and-SDL|Connection SDT and SDL]]
 - [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
-- [[D.-Randy-Garrison-—-University-of-Calgary|D. Randy Garrison — University of Calgary]]
 - [[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]
 - [[Definition-Heutagogy|Definition Heutagogy]]
 - [[Definition-Self-Directed-Learning|Definition Self-Directed Learning]]
@@ -85,4 +81,8 @@ importance: high
 - [[Distinction-SDL-vs.-SRL|Distinction SDL vs. SRL]]
 - [[Distinction-Technical-vs.-Critical-Self-Direction|Distinction Technical vs. Critical Self-Direction]]
 - [[Entrepreneurship-Venture-Building-as-Self-Directed-Learning|Entrepreneurship Venture Building as Self-Directed Learning]]
-- *...and 75 more permanent notes*
+- [[Garrison's-Comprehensive-Model-of-Self-Directed-Learning-1997|Garrison's Comprehensive Model of Self-Directed Learning (1997)]]
+- [[Grow's-Stage-Diagnostic-Checklist|Grow's Stage Diagnostic Checklist]]
+- [[Grow's-Staged-Self-Directed-Learning-Model-Grow,-1991|Grow's Staged Self-Directed Learning Model (Grow, 1991)]]
+- [[Heutagogy-Hase-&-Kenyon,-2000|Heutagogy (Hase & Kenyon, 2000)]]
+- *...and 59 more permanent notes*

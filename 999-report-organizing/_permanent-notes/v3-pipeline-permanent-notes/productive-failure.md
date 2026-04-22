@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 272
+referenced-by-count: 212
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -40,13 +40,13 @@ see-also:
   - "[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]"
   - "[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]"
   - "[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]"
-  - "[[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
+  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
+  - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
+  - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
+  - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,21 +59,17 @@ importance: high
 # productive-failure
 
 > [!definition] **productive-failure**
-> *Stub note — concept referenced by 272 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 212 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 272 permanent notes.*
+*Auto-generated stub — referenced by 212 permanent notes.*
 
 ## Referenced By
 
 - [[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]
 - [[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]
 - [[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]
-- [[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
@@ -85,4 +81,8 @@ importance: high
 - [[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]
 - [[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
-- *...and 252 more permanent notes*
+- [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
+- [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
+- [[Attributional-Processes-in-Intergroup-Relations]]
+- [[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]
+- *...and 192 more permanent notes*

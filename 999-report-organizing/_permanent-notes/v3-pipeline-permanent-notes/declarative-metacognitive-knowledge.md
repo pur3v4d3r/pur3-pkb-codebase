@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 170
+referenced-by-count: 137
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
-  - "[[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]"
-  - "[[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]"
   - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
   - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
   - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
   - "[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]"
-  - "[[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]"
-  - "[[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]"
-  - "[[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]"
+  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
+  - "[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]"
+  - "[[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]"
+  - "[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]"
+  - "[[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # declarative-metacognitive-knowledge
 
 > [!definition] **declarative-metacognitive-knowledge**
-> *Stub note — concept referenced by 170 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 137 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 170 permanent notes.*
+*Auto-generated stub — referenced by 137 permanent notes.*
 
 ## Referenced By
 
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
-- [[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]
-- [[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]
-- [[Brown,-A.-L.-1987.-Metacognition,-executive-control,-self-regulation,-and-other|Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E]]
-- [[Calibration-Lichtenstein,-Fischhoff,-&-Phillips,-1982;-applied-to-metacognition|Calibration (Lichtenstein, Fischhoff, & Phillips, 1982; applied to metacognition by Nelson and colleagues)]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
 - [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
 - [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
-- [[Can-Metacognitive-Scaffolding-Be-Personalised-at-Scale|Can Metacognitive Scaffolding Be Personalised at Scale]]
-- [[Can-the-Two-Level-Architecture-Be-Extended-to-More-Than-Two-Levels|Can the Two-Level Architecture Be Extended to More Than Two Levels]]
-- [[Clark,-A.,-&-Chalmers,-D.-1998.-The-extended-mind.-Analysis,-581,-7–19|Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19]]
 - [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
 - [[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]
-- *...and 150 more permanent notes*
+- [[Cognitive-Offloading|Cognitive Offloading]]
+- [[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]
+- [[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]
+- [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
+- [[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]
+- [[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]
+- [[Core-Argument-Structure|Core Argument Structure]]
+- [[Creative-Writing-and-Artistic-Practice|Creative Writing and Artistic Practice]]
+- [[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]
+- [[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]
+- *...and 117 more permanent notes*

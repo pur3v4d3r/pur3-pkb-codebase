@@ -1,6 +1,6 @@
 ---
 title: "Chunking-in-Second-Language-Acquisition"
-aliases: [formulaic-sequence-formation, grammatical-pattern-integration]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: high
@@ -23,7 +23,7 @@ provenance:
 # Chunking-in-Second-Language-Acquisition
 
 > [!definition] Chunking-in-Second-Language-Acquisition
-> The process of forming and using formulaic sequences and grammatical patterns to enhance fluency in a second language.
+> The process of forming reusable language units to facilitate second language learning.
 
 ## Core Explanation
 

@@ -22,12 +22,12 @@ link-related:
 
 # <% tp.date.now("dddd, MMMM Do, YYYY") %>
 
-> [! ]
+> [! ] ### Temporal Context
 >
-> ### Temporal Context
+> 
 > **Week**: [[<% tp.date.now("gggg-[W]WW", ) %>]]
-> **This Week's Theme**:: `Critical Thinking`
-> **Monthly Goal**:: `Stoicism`
+> **This Week's Theme**:: `Getting back into the pkb instaed of just vs-code`
+> **Monthly Goal**:: `Reading`
 > **Created**: `= this.file.ctime`
 > **Modified**: `= this.file.mtime`
 > **Today**: `= date(today)`
@@ -44,12 +44,12 @@ link-related:
 > [[psy-report-psychological-mechanisms-underlying-the-efficacy-and-multi-millennial-longevity-of-stoic-techniques-2025112508|Efficacy and Multi Millennial Longevity of Stoic Techniques]]
 
 #### *Full Daily Quote's*
-> [!stoic-quote]  Stoic Quote
+> [! ] ### Stoic Quote
 >  "Remember that it is not only the desire of having, but also the desire of avoiding, that is subject to our will. Remember that you are a mortal, and one of the parts of a whole. Remember that the nature of the things which you desire is not your own, but foreign. Remember that as soon as an impression [phantasia] arises, say to it: 'You are just an impression and not at all the thing you claim to be.' Then examine it by those rules which you have, and first and chiefly, by this: whether it relates to the things which are in our power, or to those which are not; and, if it relates to anything not in our power, be prepared to say: 'It is nothing to me.'"
 >  	—— Epictetus, 
 >  	    Discourses [Book II, Chapter 18]
 
-> [!purpose]  The One Thing to Remember
+> [! ]  ### Stoic Quote
 > *When something disturbing happens*, ***immediately ask*** "**Is this something I can control or something I cannot control?**" If it's something you cannot control (which includes most of what happens), then struggling against it, resenting it, or being emotionally devastated by it is irrational—you're expending energy trying to change what cannot be changed. Your only rational response is **acceptance** of the fact and **focus** on what remains within your power: how you interpret the event, what meaning you assign it, and what actions you choose to take in response.
 
 ----
@@ -57,20 +57,20 @@ link-related:
 >[! ]  Tasks Overview
 Use this space to plan out today's activities. 
 **Note**: Don't forget you can also add see these tasks in the day planner window.
-- [ ] ` `
-- [ ] ` `
-- [ ] ` `
-- [ ] ` `
+
+
+
+
+
+
 
 >[! ]  Task Scheduling 
 > [Add Tasks that are recurring here (⬇️).]
-- **Weekly Menu Planning**
-- [ ] #task Plan this upcoming weeks Menu.  [id:: aeh5ty]  [priority:: high]  [repeat:: every week]  [created:: 2025-12-17]  [start:: 2025-12-20]  [due:: 2025-12-20]
-- **Weekly Grocery List Creation**
-- [ ] #task Create this week's grocery list, using the Menu you just created.  [id:: 0fyzil]  [dependsOn:: aeh5ty]  [priority:: high]  [repeat:: every week]  [created:: 2025-12-17]  [start:: 2025-12-20]  [scheduled:: 2025-12-20]  [due:: 2025-12-20]
-- **Weekly Grocery Shopping**
-- [x] #task Go Grocery Shopping  [priority:: highest]  [repeat:: every week]  [created:: 2025-12-06]  [start:: 2025-12-13]  [due:: 2025-12-13]  [completion:: 2025-12-06]
-- [ ] #task Go Grocery Shopping  [dependsOn:: 0fyzil]  [priority:: highest]  [repeat:: every week]  [created:: 2025-12-06]  [start:: 2025-12-20]  [due:: 2025-12-20]
+
+
+
+
+
 
 
 ---

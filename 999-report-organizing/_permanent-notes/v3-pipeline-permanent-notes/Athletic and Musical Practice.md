@@ -1,6 +1,6 @@
 ---
 title: "Athletic and Musical Practice"
-aliases: [athletic-practice, musical-practice]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: high

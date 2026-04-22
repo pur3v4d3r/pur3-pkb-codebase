@@ -4,9 +4,9 @@ aliases: [Beiwen-Chen-and-cross-cultural-SDT-researchers, cross-cultural-SDT-res
 type: permanent-note
 status: evergreen
 confidence: medium
-domain: cognitive-psychology
+domain: psychology
 subdomains: []
-tags: [permanent-note, cognitive-psychology]
+tags: [permanent-note, psychology]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: intermediate

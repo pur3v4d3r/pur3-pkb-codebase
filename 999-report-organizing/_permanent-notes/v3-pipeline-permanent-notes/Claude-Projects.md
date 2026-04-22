@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 90
+referenced-by-count: 79
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -41,12 +41,12 @@ see-also:
   - "[[A-Working-settings.json-for-Python-Development|A Working settings.json for Python Development]]"
   - "[[AI-Agent-Development-and-Prompt-Engineering|AI Agent Development and Prompt Engineering]]"
   - "[[AI-Assistance-vs.-Learning-Depth|AI Assistance vs. Learning Depth]]"
-  - "[[Barnett,-S.-M.,-&-Ceci,-S.-J.-2002.-When-and-where-do-we-apply-what-we-learn-A-t|Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn A taxonomy for far transfer]]"
   - "[[Breakpoint]]"
   - "[[Breakpoint-Debugger|Breakpoint (Debugger)]]"
   - "[[Build-Your-First-Managed-Project|Build Your First Managed Project]]"
   - "[[Configuration-Flexibility-vs.-Beginner-Overwhelm|Configuration Flexibility vs. Beginner Overwhelm]]"
   - "[[Copilot-as-Metacognitive-Scaffold-The-AI-Augmented-Learning-Loop|Copilot as Metacognitive Scaffold The AI-Augmented Learning Loop]]"
+  - "[[Data-Driven-Decision-Making|Data-Driven Decision Making]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # Claude-Projects
 
 > [!definition] **Claude-Projects**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 90 permanent notes.*
+*Auto-generated stub — referenced by 79 permanent notes.*
 
 ## Referenced By
 
@@ -69,7 +69,6 @@ importance: high
 - [[A-Working-settings.json-for-Python-Development|A Working settings.json for Python Development]]
 - [[AI-Agent-Development-and-Prompt-Engineering|AI Agent Development and Prompt Engineering]]
 - [[AI-Assistance-vs.-Learning-Depth|AI Assistance vs. Learning Depth]]
-- [[Barnett,-S.-M.,-&-Ceci,-S.-J.-2002.-When-and-where-do-we-apply-what-we-learn-A-t|Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn A taxonomy for far transfer]]
 - [[Breakpoint]]
 - [[Breakpoint-Debugger|Breakpoint (Debugger)]]
 - [[Build-Your-First-Managed-Project|Build Your First Managed Project]]
@@ -81,8 +80,9 @@ importance: high
 - [[Development-Environment-Architecture|Development Environment Architecture]]
 - [[Error-Types-as-Diagnostic-Categories|Error Types as Diagnostic Categories]]
 - [[GitHub-Copilot|GitHub Copilot]]
-- [[GitHub.-2024.-GitHub-Copilot-Documentation.-GitHub-Docs|GitHub. (2024). GitHub Copilot Documentation. GitHub Docs]]
 - [[Identify-Your-Transfer-Domains|Identify Your Transfer Domains]]
 - [[Integrated-Development-Environment-IDE|Integrated Development Environment (IDE)]]
 - [[Integrated-Development-Environment-IDE-vs.-Code-Editor|Integrated Development Environment (IDE) vs. Code Editor]]
-- *...and 70 more permanent notes*
+- [[Language-Server-Protocol-LSP|Language Server Protocol (LSP)]]
+- [[Methodology-&-Epistemic-Transparency|Methodology & Epistemic Transparency]]
+- *...and 59 more permanent notes*

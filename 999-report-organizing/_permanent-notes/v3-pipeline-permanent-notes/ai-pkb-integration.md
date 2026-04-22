@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 170
+referenced-by-count: 136
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[AI-Assistance-vs.-Learning-Depth|AI Assistance vs. Learning Depth]]"
   - "[[AI-Assisted-Reading-Risks-and-Safeguards]]"
   - "[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]"
-  - "[[Ann-L.-Brown-1943–1999-—-University-of-California,-Berkeley|Ann L. Brown (1943–1999) — University of California, Berkeley]]"
-  - "[[Annemarie-Sullivan-Palincsar-—-University-of-Michigan|Annemarie Sullivan Palincsar — University of Michigan]]"
   - "[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]"
-  - "[[Baker,-L.-1985.-How-do-we-know-when-we-don't-understand-Standards-for-evaluating|Baker, L. (1985). How do we know when we don't understand Standards for evaluating text comprehension. In D. L]]"
+  - "[[Breakpoint]]"
+  - "[[Breakpoint-Debugger|Breakpoint (Debugger)]]"
+  - "[[Build-Your-First-Managed-Project|Build Your First Managed Project]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # ai-pkb-integration
 
 > [!definition] **ai-pkb-integration**
-> *Stub note — concept referenced by 170 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 136 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 170 permanent notes.*
+*Auto-generated stub — referenced by 136 permanent notes.*
 
 ## Referenced By
 
@@ -71,12 +71,7 @@ importance: high
 - [[AI-Assistance-vs.-Learning-Depth|AI Assistance vs. Learning Depth]]
 - [[AI-Assisted-Reading-Risks-and-Safeguards]]
 - [[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]
-- [[Ann-L.-Brown-1943–1999-—-University-of-California,-Berkeley|Ann L. Brown (1943–1999) — University of California, Berkeley]]
-- [[Annemarie-Sullivan-Palincsar-—-University-of-Michigan|Annemarie Sullivan Palincsar — University of Michigan]]
 - [[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]
-- [[Baker,-L.-1985.-How-do-we-know-when-we-don't-understand-Standards-for-evaluating|Baker, L. (1985). How do we know when we don't understand Standards for evaluating text comprehension. In D. L]]
-- [[Baker,-L.,-&-Brown,-A.-L.-1984.-Metacognitive-skills-and-reading.-In-P.-D.-Pears|Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson, M. Kamil, R. Barr, & P. Mosenthal]]
-- [[Barnett,-S.-M.,-&-Ceci,-S.-J.-2002.-When-and-where-do-we-apply-what-we-learn-A-t|Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn A taxonomy for far transfer]]
 - [[Breakpoint]]
 - [[Breakpoint-Debugger|Breakpoint (Debugger)]]
 - [[Build-Your-First-Managed-Project|Build Your First Managed Project]]
@@ -84,5 +79,10 @@ importance: high
 - [[Calibration-Check-After-Reading|Calibration Check After Reading]]
 - [[Calibration-vs.-Sensitivity-in-Metacognitive-Judgment|Calibration vs. Sensitivity in Metacognitive Judgment]]
 - [[Calibration-Training-Methods-and-Evidence]]
-- [[Chi,-M.-T.-H.,-Bassok,-M.,-Lewis,-M.-W.,-Reimann,-P.,-&-Glaser,-R.-1989.-Self-ex|Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations How students study and use]]
-- *...and 150 more permanent notes*
+- [[Clinical-Diagnosis-as-Metacognitive-Reading|Clinical Diagnosis as Metacognitive Reading]]
+- [[Code-Review-as-Metacognitive-Reading|Code Review as Metacognitive Reading]]
+- [[Comprehension-Monitoring-Baker-&-Brown,-1984|Comprehension Monitoring (Baker & Brown, 1984)]]
+- [[Configuration-Flexibility-vs.-Beginner-Overwhelm|Configuration Flexibility vs. Beginner Overwhelm]]
+- [[Connection-Fluency-Illusion-and-Calibration-Error|Connection Fluency Illusion and Calibration Error]]
+- [[Connection-Reciprocal-Teaching-and-the-Architectural-Layers|Connection Reciprocal Teaching and the Architectural Layers]]
+- *...and 116 more permanent notes*

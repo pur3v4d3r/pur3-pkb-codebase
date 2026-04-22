@@ -1,6 +1,6 @@
 ---
 title: "Goal Setting Theory in the Knowledge Graph"
-aliases: [Locke-Latham Theory, Goal-Setting Theory]
+aliases: [Locke-Skidmore theory, Goal-Setting Theory]
 type: permanent-note
 status: evergreen
 confidence: high

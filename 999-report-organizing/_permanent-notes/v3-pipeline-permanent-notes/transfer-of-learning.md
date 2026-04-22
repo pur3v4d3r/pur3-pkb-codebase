@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 1311
+referenced-by-count: 977
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # transfer-of-learning
 
 > [!definition] **transfer-of-learning**
-> *Stub note — concept referenced by 1311 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 977 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 1311 permanent notes.*
+*Auto-generated stub — referenced by 977 permanent notes.*
 
 ## Referenced By
 
@@ -81,8 +81,8 @@ importance: high
 - [[AI-Assistance-vs.-Learning-Depth|AI Assistance vs. Learning Depth]]
 - [[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]
 - [[AI-Assisted-Reading-Risks-and-Safeguards]]
-- [[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]
 - [[Abstract]]
 - [[Achievement-Goal|Achievement Goal]]
 - [[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]
-- *...and 1291 more permanent notes*
+- [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
+- *...and 957 more permanent notes*

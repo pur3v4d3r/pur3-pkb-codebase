@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 177
+referenced-by-count: 145
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
-  - "[[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]"
   - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
   - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
   - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
-  - "[[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]"
-  - "[[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]"
   - "[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]"
-  - "[[Brown,-A.-L.-1987.-Metacognition,-executive-control,-self-regulation,-and-other|Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E]]"
-  - "[[Calibration-Lichtenstein,-Fischhoff,-&-Phillips,-1982;-applied-to-metacognition|Calibration (Lichtenstein, Fischhoff, & Phillips, 1982; applied to metacognition by Nelson and colleagues)]]"
+  - "[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]"
+  - "[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]"
+  - "[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]"
+  - "[[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]"
+  - "[[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive Engagement]]"
+  - "[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # Pintrich's-Integrative-SRL-Framework
 
 > [!definition] **Pintrich's-Integrative-SRL-Framework**
-> *Stub note — concept referenced by 177 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 145 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 177 permanent notes.*
+*Auto-generated stub — referenced by 145 permanent notes.*
 
 ## Referenced By
 
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
-- [[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]
 - [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
-- [[Brown,-A.-L.-1987.-Metacognition,-executive-control,-self-regulation,-and-other|Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E]]
-- [[Calibration-Lichtenstein,-Fischhoff,-&-Phillips,-1982;-applied-to-metacognition|Calibration (Lichtenstein, Fischhoff, & Phillips, 1982; applied to metacognition by Nelson and colleagues)]]
-- [[Can-the-Two-Level-Architecture-Be-Extended-to-More-Than-Two-Levels|Can the Two-Level Architecture Be Extended to More Than Two Levels]]
 - [[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]
 - [[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]
 - [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
 - [[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]
-- [[Cognitive-Load-Theory-and-PKB-Design-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory and PKB Design (Sweller, 1988; Sweller et al., 2011)]]
 - [[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive Engagement]]
 - [[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]
 - [[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]
 - [[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]
-- *...and 157 more permanent notes*
+- [[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]
+- [[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]
+- [[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]
+- [[Definition-Meta-Level|Definition Meta-Level]]
+- [[Definition-Monitoring-vs.-Control|Definition Monitoring vs. Control]]
+- [[Desirable-Difficulties-Bjork-&-Bjork,-1992;-2011|Desirable Difficulties (Bjork & Bjork, 1992; 2011)]]
+- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
+- [[Distinction-Fluency-Illusion-vs.-Illusion-of-Knowing|Distinction Fluency Illusion vs. Illusion of Knowing]]
+- *...and 125 more permanent notes*

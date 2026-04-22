@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 188
+referenced-by-count: 147
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
   - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
   - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
+  - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
+  - "[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # formative-assessment
 
 > [!definition] **formative-assessment**
-> *Stub note — concept referenced by 188 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 147 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 188 permanent notes.*
+*Auto-generated stub — referenced by 147 permanent notes.*
 
 ## Referenced By
 
@@ -70,8 +70,6 @@ importance: high
 - [[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
@@ -82,7 +80,9 @@ importance: high
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
 - [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Bandura,-A.-1997.-Self-Efficacy-The-Exercise-of-Control.-W.H.-Freeman|Bandura, A. (1997). Self-Efficacy The Exercise of Control. W.H. Freeman]]
-- [[Barry-Zimmerman-1942–2021-—-City-University-of-New-York|Barry Zimmerman (1942–2021) — City University of New York]]
-- [[Black,-P.,-&-Wiliam,-D.-1998.-Assessment-and-Classroom-Learning.-Assessment-in-E|Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. Assessment in Education Principles, Policy &]]
-- *...and 168 more permanent notes*
+- [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
+- [[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]
+- [[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]
+- [[Community-Development-and-Civic-Education|Community Development and Civic Education]]
+- [[Complex-Learning|Complex Learning]]
+- *...and 127 more permanent notes*

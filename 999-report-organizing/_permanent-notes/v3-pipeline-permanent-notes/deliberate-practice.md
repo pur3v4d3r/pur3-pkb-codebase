@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 908
+referenced-by-count: 683
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # deliberate-practice
 
 > [!definition] **deliberate-practice**
-> *Stub note — concept referenced by 908 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 683 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 908 permanent notes.*
+*Auto-generated stub — referenced by 683 permanent notes.*
 
 ## Referenced By
 
@@ -79,10 +79,10 @@ importance: high
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]
-- *...and 888 more permanent notes*
+- [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
+- *...and 663 more permanent notes*

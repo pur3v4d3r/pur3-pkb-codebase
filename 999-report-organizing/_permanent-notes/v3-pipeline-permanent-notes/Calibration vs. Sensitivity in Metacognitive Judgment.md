@@ -1,6 +1,6 @@
 ---
 title: "Calibration vs. Sensitivity in Metacognitive Judgment"
-aliases: [sensitivity-vs-calibration, metacognitive-judgment-calibration]
+aliases: [sensitivity of metacognitive judgments, calibration of confidence]
 type: permanent-note
 status: evergreen
 confidence: high

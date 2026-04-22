@@ -31,14 +31,13 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 295
+referenced-by-count: 247
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
   - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
   - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]"
   - "[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]"
   - "[[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]"
+  - "[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,14 +59,13 @@ importance: high
 # extrinsic-motivation
 
 > [!definition] **extrinsic-motivation**
-> *Stub note — concept referenced by 295 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 247 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 295 permanent notes.*
+*Auto-generated stub — referenced by 247 permanent notes.*
 
 ## Referenced By
 
 - [[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
 - [[Assessment-for-Autonomy|Assessment for Autonomy]]
@@ -75,7 +74,6 @@ importance: high
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
 - [[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]
 - [[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]
-- [[Autonomy-Support-in-Practice-—-The-Anatomy-of-a-Teaching-Moment|Autonomy Support in Practice — The Anatomy of a Teaching Moment]]
 - [[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]
 - [[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]
 - [[Autonomy-≠-Independence|Autonomy ≠ Independence]]
@@ -84,5 +82,7 @@ importance: high
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
 - [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Bandura,-A.-1997.-Self-Efficacy-The-Exercise-of-Control.-W.H.-Freeman|Bandura, A. (1997). Self-Efficacy The Exercise of Control. W.H. Freeman]]
-- *...and 275 more permanent notes*
+- [[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]
+- [[Basic-Psychological-Need-in-SDT|Basic Psychological Need (in SDT)]]
+- [[Basic-Psychological-Needs|Basic Psychological Needs]]
+- *...and 227 more permanent notes*

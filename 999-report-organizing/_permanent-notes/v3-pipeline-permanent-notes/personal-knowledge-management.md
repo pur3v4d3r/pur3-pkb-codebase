@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 595
+referenced-by-count: 455
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -41,12 +41,12 @@ see-also:
   - "[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]"
   - "[[Abstract]]"
   - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
   - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
-  - "[[Amos-Tversky-1937–1996-—-Stanford-University,-formerly-Hebrew-University|Amos Tversky (1937–1996) — Stanford University, formerly Hebrew University]]"
+  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
+  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
+  - "[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]"
+  - "[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]"
+  - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # personal-knowledge-management
 
 > [!definition] **personal-knowledge-management**
-> *Stub note — concept referenced by 595 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 455 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 595 permanent notes.*
+*Auto-generated stub — referenced by 455 permanent notes.*
 
 ## Referenced By
 
@@ -69,14 +69,8 @@ importance: high
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Abstract]]
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
-- [[Amos-Tversky-1937–1996-—-Stanford-University,-formerly-Hebrew-University|Amos Tversky (1937–1996) — Stanford University, formerly Hebrew University]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
@@ -85,4 +79,10 @@ importance: high
 - [[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]
 - [[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
-- *...and 575 more permanent notes*
+- [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
+- [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
+- [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
+- [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
+- [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
+- [[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]
+- *...and 435 more permanent notes*

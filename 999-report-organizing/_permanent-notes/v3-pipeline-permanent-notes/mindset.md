@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 221
+referenced-by-count: 149
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,8 +45,8 @@ see-also:
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]"
-  - "[[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]"
+  - "[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]"
+  - "[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # mindset
 
 > [!definition] **mindset**
-> *Stub note — concept referenced by 221 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 149 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 221 permanent notes.*
+*Auto-generated stub — referenced by 149 permanent notes.*
 
 ## Referenced By
 
@@ -73,16 +73,16 @@ importance: high
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
-- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
-- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
 - [[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]
 - [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
-- [[Bandura,-A.-1977.-Self-efficacy-Toward-a-unifying-theory-of-behavioral-change.-P|Bandura, A. (1977). Self-efficacy Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215]]
-- [[Bandura,-A.-1986.-Social-foundations-of-thought-and-action-A-social-cognitive-th|Bandura, A. (1986). Social foundations of thought and action A social cognitive theory. Englewood Cliffs, NJ]]
-- [[Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center|Barry J. Zimmerman (1942– ), CUNY Graduate Center]]
-- [[Barry-J.-Zimmerman-—-City-University-of-New-York|Barry J. Zimmerman — City University of New York]]
-- [[Boekaerts,-M.-1996.-Self-regulated-learning-at-the-junction-of-cognition-and-mot|Boekaerts, M. (1996). Self-regulated learning at the junction of cognition and motivation. European Psychologist, 1(2),]]
-- *...and 201 more permanent notes*
+- [[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]
+- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
+- [[Calibration-Versus-Optimism|Calibration Versus Optimism]]
+- [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
+- [[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]
+- [[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]
+- [[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]
+- [[Collective-Efficacy-as-a-Bridge-Between-Self-Efficacy-Theory-and-Sociology|Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology]]
+- [[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]
+- [[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]
+- *...and 129 more permanent notes*

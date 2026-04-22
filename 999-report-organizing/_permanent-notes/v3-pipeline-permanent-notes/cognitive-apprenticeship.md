@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 241
+referenced-by-count: 194
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # cognitive-apprenticeship
 
 > [!definition] **cognitive-apprenticeship**
-> *Stub note — concept referenced by 241 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 194 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 241 permanent notes.*
+*Auto-generated stub — referenced by 194 permanent notes.*
 
 ## Referenced By
 
@@ -75,14 +75,14 @@ importance: high
 - [[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]
-- [[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]
-- [[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
 - [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
-- [[Barry-Zimmerman-1942–present-—-City-University-of-New-York|Barry Zimmerman (1942–present) — City University of New York]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A]]
-- *...and 221 more permanent notes*
+- [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
+- [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
+- [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
+- [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
+- [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
+- *...and 174 more permanent notes*

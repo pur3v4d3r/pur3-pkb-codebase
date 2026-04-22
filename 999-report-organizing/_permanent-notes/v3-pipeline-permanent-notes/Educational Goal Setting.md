@@ -1,6 +1,6 @@
 ---
 title: "Educational Goal Setting"
-aliases: [Goal Setting in Education, Educational Goal Achievement]
+aliases: [Goal Setting in Education, Educational Goal Orientation]
 type: permanent-note
 status: evergreen
 confidence: high

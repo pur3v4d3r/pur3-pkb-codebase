@@ -1,6 +1,6 @@
 ---
 title: "The-Historical-Genealogy-of-Chunking-Theory"
-aliases: [historical-genealogy-of-chunking-theory, genealogy-of-chunking-theory]
+aliases: [historical genealogy of chunking theory, genealogy of chunking theory]
 type: permanent-note
 status: evergreen
 confidence: high

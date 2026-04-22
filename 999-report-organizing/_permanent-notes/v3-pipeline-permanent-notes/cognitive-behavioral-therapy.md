@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 226
+referenced-by-count: 168
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -46,7 +46,7 @@ see-also:
   - "[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]"
+  - "[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # cognitive-behavioral-therapy
 
 > [!definition] **cognitive-behavioral-therapy**
-> *Stub note — concept referenced by 226 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 168 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 226 permanent notes.*
+*Auto-generated stub — referenced by 168 permanent notes.*
 
 ## Referenced By
 
@@ -74,15 +74,15 @@ importance: high
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
 - [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
 - [[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]
-- [[Bandura,-A.-1977.-Self-efficacy-Toward-a-unifying-theory-of-behavioral-change.-P|Bandura, A. (1977). Self-efficacy Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215]]
-- [[Bandura,-A.-1986.-Social-foundations-of-thought-and-action-A-social-cognitive-th|Bandura, A. (1986). Social foundations of thought and action A social cognitive theory. Englewood Cliffs, NJ]]
-- [[Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center|Barry J. Zimmerman (1942– ), CUNY Graduate Center]]
-- [[Barry-J.-Zimmerman-—-City-University-of-New-York|Barry J. Zimmerman — City University of New York]]
-- [[Boekaerts,-M.-1996.-Self-regulated-learning-at-the-junction-of-cognition-and-mot|Boekaerts, M. (1996). Self-regulated learning at the junction of cognition and motivation. European Psychologist, 1(2),]]
-- *...and 206 more permanent notes*
+- [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
+- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
+- [[Calibration-Versus-Optimism|Calibration Versus Optimism]]
+- [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
+- [[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]
+- [[Clinical-Implementation-Intentions-—-Therapeutic-Applications|Clinical-Implementation-Intentions — Therapeutic Applications]]
+- [[Cognitive-Pre-Compilation-this-report|Cognitive Pre-Compilation (this report)]]
+- [[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]
+- *...and 148 more permanent notes*

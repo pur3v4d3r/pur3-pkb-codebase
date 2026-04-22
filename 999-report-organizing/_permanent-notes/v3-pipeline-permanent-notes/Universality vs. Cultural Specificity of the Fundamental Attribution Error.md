@@ -23,7 +23,7 @@ provenance:
 # Universality vs. Cultural Specificity of the Fundamental Attribution Error
 
 > [!definition] Universality vs. Cultural Specificity of the Fundamental Attribution Error
-> The debate over whether the fundamental attribution error is universally present or culturally specific.
+> The debate over whether the tendency to attribute others' behaviors to their character rather than situational factors is universal or varies across cultures.
 
 ## Open Threads
 

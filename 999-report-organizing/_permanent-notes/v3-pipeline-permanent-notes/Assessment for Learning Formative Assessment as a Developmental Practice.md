@@ -1,6 +1,6 @@
 ---
 title: "Assessment for Learning: Formative Assessment as a Developmental Practice"
-aliases: [Assessment for Learning, AFL]
+aliases: [Assessment for Learning, AFL, Developmental Assessment]
 type: permanent-note
 status: evergreen
 confidence: high

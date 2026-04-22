@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 324
+referenced-by-count: 245
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -41,12 +41,12 @@ see-also:
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
-  - "[[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
-  - "[[Ann-L.-Brown-1943–1999-—-University-of-California,-Berkeley|Ann L. Brown (1943–1999) — University of California, Berkeley]]"
-  - "[[Annemarie-Sullivan-Palincsar-—-University-of-Michigan|Annemarie Sullivan Palincsar — University of Michigan]]"
   - "[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]"
+  - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
+  - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
+  - "[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]"
+  - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # self-explanation
 
 > [!definition] **self-explanation**
-> *Stub note — concept referenced by 324 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 245 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 324 permanent notes.*
+*Auto-generated stub — referenced by 245 permanent notes.*
 
 ## Referenced By
 
@@ -69,11 +69,7 @@ importance: high
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
-- [[Ann-L.-Brown-1943–1999-—-University-of-California,-Berkeley|Ann L. Brown (1943–1999) — University of California, Berkeley]]
-- [[Annemarie-Sullivan-Palincsar-—-University-of-Michigan|Annemarie Sullivan Palincsar — University of Michigan]]
 - [[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
 - [[Assessment-for-Autonomy|Assessment for Autonomy]]
@@ -84,5 +80,9 @@ importance: high
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
 - [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Baker,-L.-1985.-How-do-we-know-when-we-don't-understand-Standards-for-evaluating|Baker, L. (1985). How do we know when we don't understand Standards for evaluating text comprehension. In D. L]]
-- *...and 304 more permanent notes*
+- [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
+- [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
+- [[Calibration-Metacognitive-Accuracy-Literature|Calibration (Metacognitive Accuracy Literature)]]
+- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
+- [[Calibration-Check-After-Reading|Calibration Check After Reading]]
+- *...and 225 more permanent notes*

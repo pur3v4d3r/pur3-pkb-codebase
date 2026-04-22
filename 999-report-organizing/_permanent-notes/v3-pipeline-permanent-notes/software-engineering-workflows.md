@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 152
+referenced-by-count: 134
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # software-engineering-workflows
 
 > [!definition] **software-engineering-workflows**
-> *Stub note — concept referenced by 152 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 134 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 152 permanent notes.*
+*Auto-generated stub — referenced by 134 permanent notes.*
 
 ## Referenced By
 
@@ -81,8 +81,8 @@ importance: high
 - [[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]
 - [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
 - [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
-- [[Barnett,-S.-M.,-&-Ceci,-S.-J.-2002.-When-and-where-do-we-apply-what-we-learn-A-t|Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn A taxonomy for far transfer]]
 - [[Breakpoint]]
 - [[Breakpoint-Debugger|Breakpoint (Debugger)]]
 - [[Build-Your-First-Managed-Project|Build Your First Managed Project]]
-- *...and 132 more permanent notes*
+- [[Cargo-Cult-Coding|Cargo-Cult Coding]]
+- *...and 114 more permanent notes*

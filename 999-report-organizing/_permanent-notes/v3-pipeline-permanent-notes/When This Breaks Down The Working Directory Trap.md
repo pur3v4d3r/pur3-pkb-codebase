@@ -1,6 +1,6 @@
 ---
 title: "When This Breaks Down: The Working Directory Trap"
-aliases: [directory-trap, wd-trap]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium

@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Forcing Function (Croskerry)"
-aliases: []
+aliases: [CFF, Croskerry's Cognitive Forcing Function]
 type: permanent-note
 status: evergreen
 confidence: high

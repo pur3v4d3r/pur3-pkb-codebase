@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 537
+referenced-by-count: 413
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
-  - "[[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
-  - "[[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]"
+  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
+  - "[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]"
+  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
+  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # metacognitive-monitoring
 
 > [!definition] **metacognitive-monitoring**
-> *Stub note — concept referenced by 537 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 413 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 537 permanent notes.*
+*Auto-generated stub — referenced by 413 permanent notes.*
 
 ## Referenced By
 
@@ -70,14 +70,7 @@ importance: high
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
-- [[Ann-L.-Brown-1943–1999-—-University-of-California,-Berkeley|Ann L. Brown (1943–1999) — University of California, Berkeley]]
-- [[Annemarie-Sullivan-Palincsar-—-University-of-Michigan|Annemarie Sullivan Palincsar — University of Michigan]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
@@ -85,4 +78,11 @@ importance: high
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
 - [[Assessment-for-Autonomy|Assessment for Autonomy]]
 - [[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]
-- *...and 517 more permanent notes*
+- [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
+- [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
+- [[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]
+- [[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]
+- [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
+- [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
+- [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
+- *...and 393 more permanent notes*

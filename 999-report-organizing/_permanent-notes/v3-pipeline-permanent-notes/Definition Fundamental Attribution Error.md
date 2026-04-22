@@ -1,6 +1,6 @@
 ---
 title: "Definition: Fundamental Attribution Error"
-aliases: [basic attribution error, attribution error]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: high
@@ -23,7 +23,7 @@ provenance:
 # Definition: Fundamental Attribution Error
 
 > [!definition] Definition: Fundamental Attribution Error
-> The tendency to overemphasize personality or disposition-based explanations for other people's behavior while underestimating the impact of situational factors.
+> *Definition pending — derived from 1 source report(s).*
 
 ## Flashcards
 

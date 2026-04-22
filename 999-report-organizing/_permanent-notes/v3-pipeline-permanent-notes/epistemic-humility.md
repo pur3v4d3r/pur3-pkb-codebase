@@ -31,15 +31,12 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 181
+referenced-by-count: 147
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]"
-  - "[[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
   - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
   - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
@@ -47,6 +44,9 @@ see-also:
   - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
   - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
   - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
+  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
+  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
+  - "[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,15 +59,12 @@ importance: high
 # epistemic-humility
 
 > [!definition] **epistemic-humility**
-> *Stub note — concept referenced by 181 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 147 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 181 permanent notes.*
+*Auto-generated stub — referenced by 147 permanent notes.*
 
 ## Referenced By
 
-- [[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]
-- [[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
@@ -81,8 +78,11 @@ importance: high
 - [[Attributional-Processes-in-Intergroup-Relations]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman]]
-- [[Bernard-Weiner-1935–present|Bernard Weiner (1935–present)]]
-- [[Brookfield,-S.-D.-1985.-Self-directed-learning-A-critical-review-of-research.-In|Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed]]
-- [[Carol-Dweck-1946–present|Carol Dweck (1946–present)]]
-- *...and 161 more permanent notes*
+- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
+- [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
+- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
+- [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
+- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
+- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
+- [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
+- *...and 127 more permanent notes*

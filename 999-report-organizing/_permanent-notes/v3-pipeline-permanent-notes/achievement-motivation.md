@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 161
+referenced-by-count: 114
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -44,9 +44,9 @@ see-also:
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
   - "[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]"
-  - "[[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]"
-  - "[[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]"
+  - "[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]"
+  - "[[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]"
+  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # achievement-motivation
 
 > [!definition] **achievement-motivation**
-> *Stub note — concept referenced by 161 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 114 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 161 permanent notes.*
+*Auto-generated stub — referenced by 114 permanent notes.*
 
 ## Referenced By
 
@@ -72,17 +72,17 @@ importance: high
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
-- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
-- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
 - [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
-- [[Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center|Barry J. Zimmerman (1942– ), CUNY Graduate Center]]
-- [[Boekaerts,-M.-1996.-Self-regulated-learning-at-the-junction-of-cognition-and-mot|Boekaerts, M. (1996). Self-regulated learning at the junction of cognition and motivation. European Psychologist, 1(2),]]
 - [[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
 - [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
-- [[Carol-Ames-1942–-—-Michigan-State-University|Carol Ames (1942– ) — Michigan State University]]
-- [[Carol-Dweck-1946–-—-Stanford-University,-formerly-Columbia-and-University-of-Ill|Carol Dweck (1946– ) — Stanford University, formerly Columbia and University of Illinois]]
-- [[Carol-Midgley-1947–2002-—-University-of-Michigan|Carol Midgley (1947–2002) — University of Michigan]]
-- *...and 141 more permanent notes*
+- [[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]
+- [[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]
+- [[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]
+- [[Control-Move-Selection|Control Move Selection]]
+- [[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]
+- [[Control-Phase-Pintrich|Control Phase (Pintrich)]]
+- [[Control-Repertoire-in-Action|Control Repertoire in Action]]
+- [[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]
+- [[Externalized-Metacognition-and-Personal-Knowledge-Bases]]
+- *...and 94 more permanent notes*

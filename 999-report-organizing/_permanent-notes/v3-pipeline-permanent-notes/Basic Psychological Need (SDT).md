@@ -1,6 +1,6 @@
 ---
 title: "Basic Psychological Need (SDT)"
-aliases: [BPN, SDT need]
+aliases: [BPN, Self-Determination Theory need]
 type: permanent-note
 status: evergreen
 confidence: high

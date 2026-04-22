@@ -1,6 +1,6 @@
 ---
 title: "Medical Decision-Making and Diagnostic Attribution"
-aliases: [MDM-DA, Diagnostic Attribution in Medicine]
+aliases: [medical-decision-making, diagnostic-attribution]
 type: permanent-note
 status: evergreen
 confidence: high

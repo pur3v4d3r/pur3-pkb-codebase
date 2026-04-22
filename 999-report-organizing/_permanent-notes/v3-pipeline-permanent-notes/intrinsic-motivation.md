@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 747
+referenced-by-count: 582
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]"
-  - "[[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
   - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
-  - "[[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]"
-  - "[[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
+  - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
+  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
+  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
+  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
+  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
+  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
+  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,30 +59,30 @@ importance: high
 # intrinsic-motivation
 
 > [!definition] **intrinsic-motivation**
-> *Stub note — concept referenced by 747 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 582 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 747 permanent notes.*
+*Auto-generated stub — referenced by 582 permanent notes.*
 
 ## Referenced By
 
 - [[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]
-- [[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
-- [[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
-- *...and 727 more permanent notes*
+- [[Assessment-for-Autonomy|Assessment for Autonomy]]
+- [[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]
+- [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
+- [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
+- [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
+- [[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]
+- [[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]
+- [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
+- [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
+- *...and 562 more permanent notes*

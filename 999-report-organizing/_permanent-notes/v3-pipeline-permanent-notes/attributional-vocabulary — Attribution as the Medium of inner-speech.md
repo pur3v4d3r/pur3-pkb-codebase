@@ -1,6 +1,6 @@
 ---
 title: "attributional-vocabulary — Attribution as the Medium of inner-speech"
-aliases: [attribution-terms, inner-speech-attributions]
+aliases: [inner-speech attributions, self-talk attributions]
 type: permanent-note
 status: evergreen
 confidence: high

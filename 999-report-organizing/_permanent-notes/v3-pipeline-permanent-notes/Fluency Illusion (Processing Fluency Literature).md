@@ -1,6 +1,6 @@
 ---
 title: "Fluency Illusion (Processing Fluency Literature)"
-aliases: [processing fluency illusion, fluency effect]
+aliases: [processing fluency illusion, fluency effect in comprehension]
 type: permanent-note
 status: evergreen
 confidence: high

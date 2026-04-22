@@ -31,22 +31,22 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 88
+referenced-by-count: 72
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
-  - "[[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]"
   - "[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]"
-  - "[[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]"
-  - "[[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]"
   - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
   - "[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]"
   - "[[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]"
-  - "[[Can-Metacognitive-Scaffolding-Be-Personalised-at-Scale|Can Metacognitive Scaffolding Be Personalised at Scale]]"
-  - "[[Clark,-A.,-&-Chalmers,-D.-1998.-The-extended-mind.-Analysis,-581,-7–19|Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19]]"
+  - "[[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]"
+  - "[[Cognitive-Offloading|Cognitive Offloading]]"
+  - "[[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]"
+  - "[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]"
+  - "[[Core-Argument-Structure|Core Argument Structure]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,22 +59,17 @@ importance: high
 # Metacognitive-Calibration-Training-Protocols
 
 > [!definition] **Metacognitive-Calibration-Training-Protocols**
-> *Stub note — concept referenced by 88 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 88 permanent notes.*
+*Auto-generated stub — referenced by 72 permanent notes.*
 
 ## Referenced By
 
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
-- [[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]
-- [[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
 - [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
 - [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
-- [[Can-Metacognitive-Scaffolding-Be-Personalised-at-Scale|Can Metacognitive Scaffolding Be Personalised at Scale]]
-- [[Clark,-A.,-&-Chalmers,-D.-1998.-The-extended-mind.-Analysis,-581,-7–19|Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19]]
 - [[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]
 - [[Cognitive-Offloading|Cognitive Offloading]]
 - [[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]
@@ -82,7 +77,12 @@ importance: high
 - [[Core-Argument-Structure|Core Argument Structure]]
 - [[Creative-Writing-and-Artistic-Practice|Creative Writing and Artistic Practice]]
 - [[Developmental-Arc-Model-Original-to-This-Report|Developmental Arc Model (Original to This Report)]]
-- [[Dunlosky,-J.,-Rawson,-K.-A.,-Marsh,-E.-J.,-Nathan,-M.-J.,-&-Willingham,-D.-T.-20|Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with]]
 - [[Extended-Mind-Thesis|Extended Mind Thesis]]
-- [[Externalisation-vs.-Internalisation-Where-Should-Cognition-Live|Externalisation vs. Internalisation Where Should Cognition Live]]
-- *...and 68 more permanent notes*
+- [[Fading-Is-Not-Abandonment|Fading Is Not Abandonment]]
+- [[Fluency-Illusion|Fluency Illusion]]
+- [[John-H.-Flavell-1928–|John H. Flavell (1928–)]]
+- [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
+- [[Metacognitive-Calibration-Training-Protocols|Metacognitive Calibration Training Protocols]]
+- [[Metacognitive-Development-Across-Expertise-Levels-From-Novice-to-Expert-Self-Reg|Metacognitive Development Across Expertise Levels From Novice to Expert Self-Regulation]]
+- [[Metacognitive-Knowledge-Flavell|Metacognitive Knowledge (Flavell)]]
+- *...and 52 more permanent notes*

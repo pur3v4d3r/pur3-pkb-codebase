@@ -1,6 +1,6 @@
 ---
 title: "Dual-Process Theory and its Implications for Knowledge Management Decision-Making"
-aliases: [dual-process-theory-in-knowledge-management, system-1-system-2-model-in-pkm]
+aliases: [dual-process framework in knowledge management, System 1/System 2 model applied to PKM]
 type: permanent-note
 status: evergreen
 confidence: high
@@ -23,7 +23,7 @@ provenance:
 # Dual-Process Theory and its Implications for Knowledge Management Decision-Making
 
 > [!definition] Dual-Process Theory and its Implications for Knowledge Management Decision-Making
-> *Definition pending — derived from 1 source report(s).*
+> An application of cognitive psychology's dual-process theory to decision-making in personal knowledge management.
 
 ## Core Explanation
 

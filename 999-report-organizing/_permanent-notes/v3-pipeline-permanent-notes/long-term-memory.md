@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 634
+referenced-by-count: 503
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # long-term-memory
 
 > [!definition] **long-term-memory**
-> *Stub note — concept referenced by 634 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 503 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 634 permanent notes.*
+*Auto-generated stub — referenced by 503 permanent notes.*
 
 ## Referenced By
 
@@ -80,9 +80,9 @@ importance: high
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki|Anastasia Efklides (1949– ), Aristotle University of Thessaloniki]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
-- *...and 614 more permanent notes*
+- [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
+- [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
+- [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
+- [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
+- *...and 483 more permanent notes*

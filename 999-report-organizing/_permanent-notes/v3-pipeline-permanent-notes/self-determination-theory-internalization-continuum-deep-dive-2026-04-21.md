@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 118
+referenced-by-count: 111
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -44,9 +44,9 @@ see-also:
   - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
   - "[[Beiwen-Chen-and-Cross-Cultural-SDT-Researchers|Beiwen Chen and Cross-Cultural SDT Researchers]]"
   - "[[Central-Claim-of-OIT|Central Claim of OIT]]"
-  - "[[Claude's-Specialist-Observation-Dynamics-Are-Why-Autonomy-Support-Cannot-Be-Redu|Claude's Specialist Observation Dynamics Are Why Autonomy Support Cannot Be Reduced to a Behavior Checklist]]"
   - "[[Claude's-Specialist-Observation-Edge-Cases-as-Theory-Diagnostics|Claude's Specialist Observation Edge Cases as Theory Diagnostics]]"
   - "[[Claude's-Specialist-Observation-The-Frontier-Has-a-Shape|Claude's Specialist Observation The Frontier Has a Shape]]"
+  - "[[Claude's-Specialist-Observation-The-Surface-Underdetermines-the-Mechanism|Claude's Specialist Observation The Surface Underdetermines the Mechanism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # self-determination-theory-internalization-continuum-deep-dive-2026-04-21
 
 > [!definition] **self-determination-theory-internalization-continuum-deep-dive-2026-04-21**
-> *Stub note — concept referenced by 118 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 111 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 118 permanent notes.*
+*Auto-generated stub — referenced by 111 permanent notes.*
 
 ## Referenced By
 
@@ -72,7 +72,6 @@ importance: high
 - [[Basic-Psychological-Needs|Basic Psychological Needs]]
 - [[Beiwen-Chen-and-Cross-Cultural-SDT-Researchers|Beiwen Chen and Cross-Cultural SDT Researchers]]
 - [[Central-Claim-of-OIT|Central Claim of OIT]]
-- [[Claude's-Specialist-Observation-Dynamics-Are-Why-Autonomy-Support-Cannot-Be-Redu|Claude's Specialist Observation Dynamics Are Why Autonomy Support Cannot Be Reduced to a Behavior Checklist]]
 - [[Claude's-Specialist-Observation-Edge-Cases-as-Theory-Diagnostics|Claude's Specialist Observation Edge Cases as Theory Diagnostics]]
 - [[Claude's-Specialist-Observation-The-Frontier-Has-a-Shape|Claude's Specialist Observation The Frontier Has a Shape]]
 - [[Claude's-Specialist-Observation-The-Surface-Underdetermines-the-Mechanism|Claude's Specialist Observation The Surface Underdetermines the Mechanism]]
@@ -85,4 +84,5 @@ importance: high
 - [[Edge-Case-Identification-Without-Integration|Edge Case Identification Without Integration]]
 - [[Edge-Case-Internalization-Before-Reflective-Capacity|Edge Case Internalization Before Reflective Capacity]]
 - [[Edge-Case-Need-Satisfaction-Through-Controlling-Substrates|Edge Case Need Satisfaction Through Controlling Substrates]]
-- *...and 98 more permanent notes*
+- [[Edge-Case-The-Cross-Cultural-Autonomy-Challenge|Edge Case The Cross-Cultural Autonomy Challenge]]
+- *...and 91 more permanent notes*

@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 338
+referenced-by-count: 261
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # worked-example-effect
 
 > [!definition] **worked-example-effect**
-> *Stub note — concept referenced by 338 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 261 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 338 permanent notes.*
+*Auto-generated stub — referenced by 261 permanent notes.*
 
 ## Referenced By
 
@@ -78,11 +78,11 @@ importance: high
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
-- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
-- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
-- [[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]
-- *...and 318 more permanent notes*
+- [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
+- [[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]
+- [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
+- [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
+- [[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]
+- *...and 241 more permanent notes*

@@ -1,6 +1,6 @@
 ---
 title: "Productive Failure and Desirable Difficulties: When Struggle Enhances Learning"
-aliases: [Kapur's Productive Failure, Bjork's Desirable Difficulties]
+aliases: [Kapur's productive failure, Bjork's desirable difficulties]
 type: permanent-note
 status: evergreen
 confidence: high
@@ -23,7 +23,7 @@ provenance:
 # Productive Failure and Desirable Difficulties: When Struggle Enhances Learning
 
 > [!definition] Productive Failure and Desirable Difficulties: When Struggle Enhances Learning
-> Strategies that enhance learning through challenge and struggle.
+> *Definition pending — derived from 1 source report(s).*
 
 ## Core Explanation
 

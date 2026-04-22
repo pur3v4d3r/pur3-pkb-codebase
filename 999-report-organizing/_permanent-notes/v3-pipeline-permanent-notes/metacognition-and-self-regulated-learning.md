@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 242
+referenced-by-count: 199
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -44,9 +44,9 @@ see-also:
   - "[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]"
   - "[[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]"
   - "[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]"
-  - "[[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]"
-  - "[[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]"
-  - "[[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]"
+  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
+  - "[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]"
+  - "[[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # metacognition-and-self-regulated-learning
 
 > [!definition] **metacognition-and-self-regulated-learning**
-> *Stub note — concept referenced by 242 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 199 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 242 permanent notes.*
+*Auto-generated stub — referenced by 199 permanent notes.*
 
 ## Referenced By
 
@@ -72,17 +72,17 @@ importance: high
 - [[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]
 - [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Andy-Clark-1957–-&-David-Chalmers-1966–|Andy Clark (1957–) & David Chalmers (1966–)]]
-- [[Ann-L.-Brown-1943–1999|Ann L. Brown (1943–1999)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
 - [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
-- [[Barry-J.-Zimmerman-1942–2014|Barry J. Zimmerman (1942–2014)]]
-- [[Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-in-the-training-of-human|Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P]]
-- [[Bjork,-R.-A.,-&-Bjork,-E.-L.-2011.-Making-things-hard-on-yourself,-but-in-a-good|Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties]]
 - [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
-- *...and 222 more permanent notes*
+- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
+- [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
+- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
+- [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
+- [[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]
+- [[Clinical-Implementation-Intentions-—-Therapeutic-Applications|Clinical-Implementation-Intentions — Therapeutic Applications]]
+- *...and 179 more permanent notes*

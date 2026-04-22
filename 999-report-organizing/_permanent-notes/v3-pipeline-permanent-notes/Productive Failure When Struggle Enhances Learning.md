@@ -1,6 +1,6 @@
 ---
 title: "Productive Failure: When Struggle Enhances Learning"
-aliases: [productive-failure, Kapur's productive failure]
+aliases: [productive-failure, when-struggle-enhances-learning]
 type: permanent-note
 status: evergreen
 confidence: high

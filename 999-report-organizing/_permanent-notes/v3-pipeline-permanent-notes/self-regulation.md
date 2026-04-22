@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 217
+referenced-by-count: 153
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -45,8 +45,8 @@ see-also:
   - "[[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]"
   - "[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
-  - "[[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]"
+  - "[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]"
+  - "[[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # self-regulation
 
 > [!definition] **self-regulation**
-> *Stub note — concept referenced by 217 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 153 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 217 permanent notes.*
+*Auto-generated stub — referenced by 153 permanent notes.*
 
 ## Referenced By
 
@@ -73,16 +73,16 @@ importance: high
 - [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
 - [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
 - [[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]
 - [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
-- [[Bandura,-A.-1977.-Self-efficacy-Toward-a-unifying-theory-of-behavioral-change.-P|Bandura, A. (1977). Self-efficacy Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215]]
-- [[Bandura,-A.-1986.-Social-foundations-of-thought-and-action-A-social-cognitive-th|Bandura, A. (1986). Social foundations of thought and action A social cognitive theory. Englewood Cliffs, NJ]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-New-York-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. New York W. H. Freeman]]
-- [[Barry-J.-Zimmerman-1942–2020-—-CUNY-Graduate-Center|Barry J. Zimmerman (1942–2020) — CUNY Graduate Center]]
-- *...and 197 more permanent notes*
+- [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
+- [[Calibration-Versus-Optimism|Calibration Versus Optimism]]
+- [[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]
+- [[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]
+- [[Clinical-Implementation-Intentions-—-Therapeutic-Applications|Clinical-Implementation-Intentions — Therapeutic Applications]]
+- [[Cognitive-Pre-Compilation-this-report|Cognitive Pre-Compilation (this report)]]
+- [[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]
+- *...and 133 more permanent notes*

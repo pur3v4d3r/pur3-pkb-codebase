@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 251
+referenced-by-count: 208
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -42,11 +42,11 @@ see-also:
   - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
   - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
   - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]"
-  - "[[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
-  - "[[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]"
   - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
+  - "[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]"
+  - "[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]"
+  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
+  - "[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # Organizational-Learning
 
 > [!definition] **Organizational-Learning**
-> *Stub note — concept referenced by 251 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 208 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 251 permanent notes.*
+*Auto-generated stub — referenced by 208 permanent notes.*
 
 ## Referenced By
 
@@ -70,10 +70,6 @@ importance: high
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
 - [[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]
 - [[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]
-- [[Adriaan-de-Groot-1914–2006|Adriaan de Groot (1914–2006)]]
-- [[Ahrens,-S.-2017.-How-to-Take-Smart-Notes-One-Simple-Technique-to-Boost-Writing,|Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
-- [[Anderson,-J.-R.-1982.-Acquisition-of-cognitive-skill.-Psychological-Review,-894,|Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
@@ -81,8 +77,12 @@ importance: high
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman]]
-- [[Barry-Zimmerman-1942–2020|Barry Zimmerman (1942–2020)]]
 - [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
-- [[Brookfield,-S.-D.-1985.-Self-directed-learning-A-critical-review-of-research.-In|Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed]]
-- *...and 231 more permanent notes*
+- [[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]
+- [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
+- [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
+- [[Chunking-in-Second-Language-Acquisition]]
+- [[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]
+- [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
+- [[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]
+- *...and 188 more permanent notes*

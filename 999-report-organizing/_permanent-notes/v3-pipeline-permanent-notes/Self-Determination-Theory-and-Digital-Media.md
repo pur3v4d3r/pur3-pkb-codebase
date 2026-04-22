@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 189
+referenced-by-count: 175
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # Self-Determination-Theory-and-Digital-Media
 
 > [!definition] **Self-Determination-Theory-and-Digital-Media**
-> *Stub note — concept referenced by 189 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 175 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 189 permanent notes.*
+*Auto-generated stub — referenced by 175 permanent notes.*
 
 ## Referenced By
 
@@ -85,4 +85,4 @@ importance: high
 - [[Beiwen-Chen-and-Cross-Cultural-SDT-Researchers|Beiwen Chen and Cross-Cultural SDT Researchers]]
 - [[Breakpoint]]
 - [[Cargo-Cult-Coding|Cargo-Cult Coding]]
-- *...and 169 more permanent notes*
+- *...and 155 more permanent notes*

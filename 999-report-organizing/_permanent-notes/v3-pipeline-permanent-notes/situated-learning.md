@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 181
+referenced-by-count: 150
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[Abstract]]"
   - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
   - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
   - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
   - "[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]"
   - "[[Claude's-Perspective-Python-as-Connective-Tissue|Claude's Perspective Python as Connective Tissue]]"
+  - "[[Claude's-Perspective-The-Two-Kinds-of-Errors|Claude's Perspective The Two Kinds of Errors]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # situated-learning
 
 > [!definition] **situated-learning**
-> *Stub note — concept referenced by 181 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 150 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 181 permanent notes.*
+*Auto-generated stub — referenced by 150 permanent notes.*
 
 ## Referenced By
 
@@ -71,7 +71,6 @@ importance: high
 - [[Abstract]]
 - [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
 - [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
-- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
 - [[Claude's-Perspective-Python-as-Connective-Tissue|Claude's Perspective Python as Connective Tissue]]
@@ -82,7 +81,8 @@ importance: high
 - [[Complex-Learning|Complex Learning]]
 - [[Curated-Sources|Curated Sources]]
 - [[Decision-Fork-Flat-Structure-vs.-Package-Structure|Decision Fork Flat Structure vs. Package Structure]]
-- [[Decision-Fork-How-Much-Infrastructure-Does-Your-Project-Need|Decision Fork How Much Infrastructure Does Your Project Need]]
-- [[Decision-Fork-Which-AI-Interaction-Mode-Should-You-Use|Decision Fork Which AI Interaction Mode Should You Use]]
-- [[Decision-Fork-Which-Execution-Method-Should-You-Use|Decision Fork Which Execution Method Should You Use]]
-- *...and 161 more permanent notes*
+- [[Deliberate-Practice-Ericsson's-Framework-and-Its-Cognitive-Architecture|Deliberate Practice Ericsson's Framework and Its Cognitive Architecture]]
+- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
+- [[Element-Interactivity-Sweller,-2010|Element Interactivity (Sweller, 2010)]]
+- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
+- *...and 130 more permanent notes*

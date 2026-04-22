@@ -1,6 +1,6 @@
 ---
 title: "Performance-Avoidance Goal (Elliot 2×2 framework)"
-aliases: [PA goal, Elliot's Performance-Avoidance Goal]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: high

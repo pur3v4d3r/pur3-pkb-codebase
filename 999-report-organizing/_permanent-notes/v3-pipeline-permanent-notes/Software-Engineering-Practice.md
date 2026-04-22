@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 157
+referenced-by-count: 117
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]"
   - "[[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]"
   - "[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]"
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
-  - "[[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]"
-  - "[[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]"
   - "[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]"
+  - "[[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]"
+  - "[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]"
+  - "[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # Software-Engineering-Practice
 
 > [!definition] **Software-Engineering-Practice**
-> *Stub note — concept referenced by 157 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 117 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 157 permanent notes.*
+*Auto-generated stub — referenced by 117 permanent notes.*
 
 ## Referenced By
 
@@ -71,18 +71,18 @@ importance: high
 - [[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]
 - [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
 - [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
 - [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-New-York-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. New York W. H. Freeman]]
-- [[Barry-J.-Zimmerman-1942–2020-—-CUNY-Graduate-Center|Barry J. Zimmerman (1942–2020) — CUNY Graduate Center]]
 - [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
-- [[Brandstätter,-V.,-Lengfelder,-A.,-&-Gollwitzer,-P.-M.-2001.-Implementation-inten|Brandstätter, V., Lengfelder, A., & Gollwitzer, P. M. (2001). Implementation intentions and efficient action]]
-- [[Bratman,-M.-1987.-Intention,-plans,-and-practical-reason.-Cambridge,-MA-Harvard|Bratman, M. (1987). Intention, plans, and practical reason. Cambridge, MA Harvard University Press]]
 - [[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]
 - [[Clinical-Implementation-Intentions-—-Therapeutic-Applications|Clinical-Implementation-Intentions — Therapeutic Applications]]
-- *...and 137 more permanent notes*
+- [[Cognitive-Pre-Compilation-this-report|Cognitive Pre-Compilation (this report)]]
+- [[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]
+- [[Common-Misconceptions-About-Strategic-Automaticity|Common Misconceptions About Strategic Automaticity]]
+- [[Connecting-to-What-You-Already-Know|Connecting to What You Already Know]]
+- [[Connection-Action-Phase-Model|Connection Action Phase Model]]
+- [[Conscious-vs.-Automatic-Regulation|Conscious vs. Automatic Regulation]]
+- [[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]
+- *...and 97 more permanent notes*

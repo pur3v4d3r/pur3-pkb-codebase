@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 1028
+referenced-by-count: 802
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -59,9 +59,9 @@ importance: high
 # cognitive-load-theory
 
 > [!definition] **cognitive-load-theory**
-> *Stub note — concept referenced by 1028 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 802 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 1028 permanent notes.*
+*Auto-generated stub — referenced by 802 permanent notes.*
 
 ## Referenced By
 
@@ -85,4 +85,4 @@ importance: high
 - [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
-- *...and 1008 more permanent notes*
+- *...and 782 more permanent notes*

@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 85
+referenced-by-count: 75
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -43,10 +43,10 @@ see-also:
   - "[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]"
   - "[[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]"
   - "[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]"
-  - "[[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]"
   - "[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]"
   - "[[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]"
   - "[[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]"
+  - "[[Clinical-Implementation-Intentions-—-Therapeutic-Applications|Clinical-Implementation-Intentions — Therapeutic Applications]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,9 +59,9 @@ importance: high
 # goal-intention
 
 > [!definition] **goal-intention**
-> *Stub note — concept referenced by 85 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 75 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 85 permanent notes.*
+*Auto-generated stub — referenced by 75 permanent notes.*
 
 ## Referenced By
 
@@ -71,12 +71,9 @@ importance: high
 - [[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]
 - [[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]
 - [[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]
-- [[Adriaanse,-M.-A.,-Vinkers,-C.-D.,-De-Ridder,-D.-T.,-Hox,-J.-J.,-&-De-Wit,-J.-B.|Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions]]
 - [[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]
 - [[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]
 - [[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]
-- [[Brandstätter,-V.,-Lengfelder,-A.,-&-Gollwitzer,-P.-M.-2001.-Implementation-inten|Brandstätter, V., Lengfelder, A., & Gollwitzer, P. M. (2001). Implementation intentions and efficient action]]
-- [[Bratman,-M.-1987.-Intention,-plans,-and-practical-reason.-Cambridge,-MA-Harvard|Bratman, M. (1987). Intention, plans, and practical reason. Cambridge, MA Harvard University Press]]
 - [[Clinical-Implementation-Intentions-—-Therapeutic-Applications|Clinical-Implementation-Intentions — Therapeutic Applications]]
 - [[Cognitive-Pre-Compilation-this-report|Cognitive Pre-Compilation (this report)]]
 - [[Common-Misconceptions-About-Strategic-Automaticity|Common Misconceptions About Strategic Automaticity]]
@@ -85,4 +82,7 @@ importance: high
 - [[Conscious-vs.-Automatic-Regulation|Conscious vs. Automatic Regulation]]
 - [[Cue-Quality-Assessment-Checklist|Cue Quality Assessment Checklist]]
 - [[Cue-Encoding-Bottleneck-this-report|Cue-Encoding Bottleneck (this report)]]
-- *...and 65 more permanent notes*
+- [[Definition-Implementation-Intention|Definition Implementation Intention]]
+- [[Distinction-Goal-Intention-vs.-Implementation-Intention|Distinction Goal Intention vs. Implementation Intention]]
+- [[Distinction-Strategic-vs.-Habitual-Automaticity|Distinction Strategic vs. Habitual Automaticity]]
+- *...and 55 more permanent notes*

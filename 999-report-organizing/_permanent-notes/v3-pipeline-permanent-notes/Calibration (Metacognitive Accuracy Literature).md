@@ -1,6 +1,6 @@
 ---
 title: "Calibration (Metacognitive Accuracy Literature)"
-aliases: [metacognitive-calibration, calibration-of-confidence]
+aliases: []
 type: permanent-note
 status: evergreen
 confidence: high

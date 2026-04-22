@@ -1,6 +1,6 @@
 ---
 title: "Metacognition (Flavell, 1976)"
-aliases: [metacognitive processes, Flavell's metacognition]
+aliases: [self-awareness of one's own cognition, cognitive monitoring]
 type: permanent-note
 status: evergreen
 confidence: high

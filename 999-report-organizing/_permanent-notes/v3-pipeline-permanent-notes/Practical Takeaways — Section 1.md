@@ -4,9 +4,9 @@ aliases: []
 type: permanent-note
 status: evergreen
 confidence: medium
-domain: uncategorized
+domain: pedagogy
 subdomains: []
-tags: [permanent-note, uncategorized]
+tags: [permanent-note, pedagogy]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: intermediate

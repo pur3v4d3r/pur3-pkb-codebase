@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 95
+referenced-by-count: 79
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,14 +39,14 @@ referenced-by-count: 95
 see-also:
   - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
   - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]"
   - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
   - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
-  - "[[CLT-vs.-Desirable-Difficulties-When-Does-Load-Help|CLT vs. Desirable Difficulties When Does Load Help]]"
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
   - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
   - "[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]"
   - "[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]"
+  - "[[Design-Application-Exercise|Design Application Exercise]]"
+  - "[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,18 +59,16 @@ importance: high
 # Dual-Task-Paradigm
 
 > [!definition] **Dual-Task-Paradigm**
-> *Stub note — concept referenced by 95 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 95 permanent notes.*
+*Auto-generated stub — referenced by 79 permanent notes.*
 
 ## Referenced By
 
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
-- [[Baddeley,-A.-1986.-Working-memory.-Oxford-University-Press|Baddeley, A. (1986). Working memory. Oxford University Press]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
 - [[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]
-- [[CLT-vs.-Desirable-Difficulties-When-Does-Load-Help|CLT vs. Desirable Difficulties When Does Load Help]]
 - [[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
@@ -85,4 +83,6 @@ importance: high
 - [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
 - [[Expertise-Reversal-Effect-Kalyuga,-Ayres,-Chandler,-Sweller,-2003|Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
 - [[Expertise-Reversal-in-Programming-Instruction|Expertise Reversal in Programming Instruction]]
-- *...and 75 more permanent notes*
+- [[Extraneous-Cognitive-Load-Sweller,-Ayres,-&-Kalyuga,-2011|Extraneous Cognitive Load (Sweller, Ayres, & Kalyuga, 2011)]]
+- [[Extraneous-Cognitive-Load-Sweller,-Chandler,-1991|Extraneous Cognitive Load (Sweller, Chandler, 1991)]]
+- *...and 59 more permanent notes*

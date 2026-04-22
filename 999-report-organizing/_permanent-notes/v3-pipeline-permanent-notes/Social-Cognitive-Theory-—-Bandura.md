@@ -33,7 +33,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 230
+referenced-by-count: 160
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -41,14 +41,14 @@ referenced-by-count: 230
 see-also:
   - "[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]"
   - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]"
-  - "[[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]"
-  - "[[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]"
   - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
   - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
   - "[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]"
   - "[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]"
   - "[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]"
+  - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
+  - "[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]"
+  - "[[Calibration-Versus-Optimism|Calibration Versus Optimism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -61,17 +61,14 @@ importance: high
 # Social-Cognitive-Theory-—-Bandura
 
 > [!definition] **Social-Cognitive-Theory-—-Bandura**
-> *Stub note — concept referenced by 230 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 160 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 230 permanent notes.*
+*Auto-generated stub — referenced by 160 permanent notes.*
 
 ## Referenced By
 
 - [[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
-- [[Activating-Prior-Knowledge-Where-to-Position-This-Report-in-Your-Existing-Map|Activating Prior Knowledge Where to Position This Report in Your Existing Map]]
-- [[Albert-Bandura-1925–2021-—-Stanford-University|Albert Bandura (1925–2021) — Stanford University]]
-- [[Allen-Tough-1936–2012-—-Ontario-Institute-for-Studies-in-Education|Allen Tough (1936–2012) — Ontario Institute for Studies in Education]]
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]
@@ -79,12 +76,15 @@ importance: high
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- [[Bandura,-A.-1977.-Self-efficacy-Toward-a-unifying-theory-of-behavioral-change.-P|Bandura, A. (1977). Self-efficacy Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215]]
-- [[Bandura,-A.-1986.-Social-foundations-of-thought-and-action-A-social-cognitive-th|Bandura, A. (1986). Social foundations of thought and action A social cognitive theory. Englewood Cliffs, NJ]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-New-York-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. New York W. H. Freeman]]
-- [[Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control.-W.-H.-Freeman|Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman]]
-- [[Barry-J.-Zimmerman-1942–2020-—-CUNY-Graduate-Center|Barry J. Zimmerman (1942–2020) — CUNY Graduate Center]]
-- [[Barry-J.-Zimmerman-—-City-University-of-New-York|Barry J. Zimmerman — City University of New York]]
-- [[Brookfield,-S.-D.-1985.-Self-directed-learning-A-critical-review-of-research.-In|Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed]]
 - [[Calibration-Versus-Optimism|Calibration Versus Optimism]]
-- *...and 210 more permanent notes*
+- [[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]
+- [[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]
+- [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
+- [[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]
+- [[Collective-Efficacy-as-a-Bridge-Between-Self-Efficacy-Theory-and-Sociology|Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology]]
+- [[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]
+- [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
+- [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
+- [[Connection-SDT-and-SDL|Connection SDT and SDL]]
+- [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
+- *...and 140 more permanent notes*

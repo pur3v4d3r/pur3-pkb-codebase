@@ -31,7 +31,7 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 175
+referenced-by-count: 132
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
@@ -39,14 +39,14 @@ referenced-by-count: 175
 see-also:
   - "[[A-Common-Misreading|A Common Misreading]]"
   - "[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]"
-  - "[[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]"
   - "[[Achievement-Goal|Achievement Goal]]"
   - "[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]"
   - "[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]"
-  - "[[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]"
-  - "[[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]"
-  - "[[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]"
-  - "[[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]"
+  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
+  - "[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]"
+  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
+  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
+  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,22 +59,17 @@ importance: high
 # Implicit-Theories-of-Intelligence
 
 > [!definition] **Implicit-Theories-of-Intelligence**
-> *Stub note — concept referenced by 175 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 132 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 175 permanent notes.*
+*Auto-generated stub — referenced by 132 permanent notes.*
 
 ## Referenced By
 
 - [[A-Common-Misreading|A Common Misreading]]
 - [[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]
-- [[Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-&-Teasdale,-J.-D.-1978.-Learned-helplessnes|Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and]]
 - [[Achievement-Goal|Achievement Goal]]
 - [[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]
 - [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
-- [[Albert-Bandura-1925–2021|Albert Bandura (1925–2021)]]
-- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
-- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
-- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
@@ -85,4 +80,9 @@ importance: high
 - [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
 - [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
 - [[Attributional-Processes-in-Intergroup-Relations]]
-- *...and 155 more permanent notes*
+- [[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]
+- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
+- [[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]
+- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
+- [[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]
+- *...and 112 more permanent notes*

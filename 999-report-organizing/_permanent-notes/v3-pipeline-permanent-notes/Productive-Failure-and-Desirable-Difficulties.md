@@ -31,13 +31,12 @@ updated: 2026-04-22
 # ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
 extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
-referenced-by-count: 106
+referenced-by-count: 86
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]"
   - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
   - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
   - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
@@ -47,6 +46,7 @@ see-also:
   - "[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]"
   - "[[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]"
   - "[[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]"
+  - "[[Community-Development-and-Civic-Education|Community Development and Civic Education]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -59,13 +59,12 @@ importance: high
 # Productive-Failure-and-Desirable-Difficulties
 
 > [!definition] **Productive-Failure-and-Desirable-Difficulties**
-> *Stub note — concept referenced by 106 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> *Stub note — concept referenced by 86 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
-*Auto-generated stub — referenced by 106 permanent notes.*
+*Auto-generated stub — referenced by 86 permanent notes.*
 
 ## Referenced By
 
-- [[Allen-Tough-1936–2012-—-University-of-Toronto|Allen Tough (1936–2012) — University of Toronto]]
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
 - [[Assessment-for-Autonomy|Assessment for Autonomy]]
@@ -75,14 +74,15 @@ importance: high
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
 - [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Bandura,-A.-1997.-Self-Efficacy-The-Exercise-of-Control.-W.H.-Freeman|Bandura, A. (1997). Self-Efficacy The Exercise of Control. W.H. Freeman]]
-- [[Barry-Zimmerman-1942–2021-—-City-University-of-New-York|Barry Zimmerman (1942–2021) — City University of New York]]
-- [[Black,-P.,-&-Wiliam,-D.-1998.-Assessment-and-Classroom-Learning.-Assessment-in-E|Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. Assessment in Education Principles, Policy &]]
-- [[Candy,-P.C.-1991.-Self-Direction-for-Lifelong-Learning.-Jossey-Bass|Candy, P.C. (1991). Self-Direction for Lifelong Learning. Jossey-Bass]]
 - [[Community-Development-and-Civic-Education|Community Development and Civic Education]]
 - [[Cultural-Boundedness-of-Self-Direction|Cultural Boundedness of Self-Direction]]
 - [[Curriculum-Audit-for-Self-Direction-Development|Curriculum Audit for Self-Direction Development]]
 - [[Curriculum-Design-as-distinguished-from-Curriculum|Curriculum Design (as distinguished from Curriculum)]]
-- [[Dewey,-J.-1938.-Experience-and-Education.-Kappa-Delta-Pi|Dewey, J. (1938). Experience and Education. Kappa Delta Pi]]
-- [[Emancipatory-vs.-Neoliberal-Self-Direction-Whose-Freedom|Emancipatory vs. Neoliberal Self-Direction Whose Freedom]]
-- *...and 86 more permanent notes*
+- [[Embedding-Evidence-Based-Strategies-in-a-Self-Directed-Learning-Curriculum|Embedding Evidence-Based Strategies in a Self-Directed Learning Curriculum]]
+- [[Future-Investigation-Directions|Future Investigation Directions]]
+- [[Healthcare-Education-and-Patient-Self-Management|Healthcare Education and Patient Self-Management]]
+- [[Heutagogy-Hase-&-Kenyon|Heutagogy (Hase & Kenyon)]]
+- [[Learning-Contract-Knowles|Learning Contract (Knowles)]]
+- [[Learning-Contract-Design-Template|Learning Contract Design Template]]
+- [[Lifelong-Learning|Lifelong Learning]]
+- *...and 66 more permanent notes*
