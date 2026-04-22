@@ -1,8 +1,0 @@
-tavily-python
-langchain-chroma 
-langchain 
-langchain-tavily 
-langgraph
-chromadb 
-pypdf 
-langchain-openai

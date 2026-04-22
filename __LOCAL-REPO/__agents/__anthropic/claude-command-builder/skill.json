@@ -1,8 +1,0 @@
-{
-  "id": "claude-command-builder",
-  "version": "1.0.0",
-  "category": "ai",
-  "keywords": ["claude-code", "command", "slash", "workflow"],
-  "dependencies": ["claude-code"],
-  "docs": null
-}

@@ -24,7 +24,7 @@ link-related:
 # <% tp.date.now("dddd, MMMM Do, YYYY") %>
 
 > [!info] Temporal Context
->
+
 > **Week**: [[<% tp.date.now("gggg-[W]WW") %>]]
 > [**This Week's Theme**:: Getting back into the PKB instead of just VS Code]
 > [**Monthly Goal**:: Reading]
