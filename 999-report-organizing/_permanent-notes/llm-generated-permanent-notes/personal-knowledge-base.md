@@ -1,16 +1,15 @@
 ---
 title: personal-knowledge-base
 aliases:
-  - personal-knowledge-base
+- personal-knowledge-base
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,18 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 347
 see-also:
-  - '[[A-Common-Misreading|A Common Misreading]]'
-  - '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
-  - '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
-  - '[[Achievement-Goal|Achievement Goal]]'
-  - '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]'
-  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
-  - '[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]'
-  - '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
-  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
-  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Common-Misreading|A Common Misreading]]'
+- '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
+- '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
+- '[[Achievement-Goal|Achievement Goal]]'
+- '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement
+  Goal Theory tradition)]]'
+- '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+- '[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This
+  Report]]'
+- '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
+- '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+- '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +36,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[pkm-and-knowledge-systems-moc]]'
 ---
 
 # personal-knowledge-base

@@ -1,16 +1,15 @@
 ---
 title: relatedness-need
 aliases:
-  - relatedness-need
+- relatedness-need
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,18 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 231
 see-also:
-  - '[[A-Common-Misreading|A Common Misreading]]'
-  - '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
-  - '[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]'
-  - '[[Achievement-Goal|Achievement Goal]]'
-  - '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]'
-  - '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
-  - '[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]'
-  - '[[Autonomous-Motivation|Autonomous Motivation]]'
-  - '[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]'
-  - '[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Common-Misreading|A Common Misreading]]'
+- '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
+- '[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]'
+- '[[Achievement-Goal|Achievement Goal]]'
+- '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement
+  Goal Theory tradition)]]'
+- '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
+- '[[Athletic-Training-and-Performance-Development|Athletic Training and Performance
+  Development]]'
+- '[[Autonomous-Motivation|Autonomous Motivation]]'
+- '[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]'
+- '[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +36,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[motivation-theory-moc]]'
 ---
 
 # relatedness-need

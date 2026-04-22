@@ -1,16 +1,15 @@
 ---
 title: automaticity
 aliases:
-  - automaticity
+- automaticity
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 425
 see-also:
-  - '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
-  - '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
-  - '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]'
-  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
-  - '[[A-PKM-Specific-Implementation-Intention-Stack|A PKM-Specific Implementation Intention Stack]]'
-  - "[[A-Reflection-on-the-Construct's-Quiet-Significance|A Reflection on the Construct's Quiet Significance]]"
-  - '[[A-Reframing-of-the-Self-Regulation-Problem|A Reframing of the Self-Regulation Problem]]'
-  - '[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]'
-  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
-  - '[[Abstract]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
+- '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
+- '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and
+  Individual Differences Beyond One-Size-Fits-All Sequencing]]'
+- '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+- '[[A-PKM-Specific-Implementation-Intention-Stack|A PKM-Specific Implementation Intention
+  Stack]]'
+- '[[A-Reflection-on-the-Construct''s-Quiet-Significance|A Reflection on the Construct''s
+  Quiet Significance]]'
+- '[[A-Reframing-of-the-Self-Regulation-Problem|A Reframing of the Self-Regulation
+  Problem]]'
+- '[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic
+  Behavior]]'
+- '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+- '[[Abstract]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +39,10 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[cognitive-science-moc]]'
+- '[[learning-strategies-and-practice-moc]]'
+- '[[software-engineering-and-development-moc]]'
 ---
 
 # automaticity

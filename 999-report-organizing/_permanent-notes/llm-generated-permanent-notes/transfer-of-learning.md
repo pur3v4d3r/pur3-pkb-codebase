@@ -1,16 +1,15 @@
 ---
 title: transfer-of-learning
 aliases:
-  - transfer-of-learning
+- transfer-of-learning
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 977
 see-also:
-  - '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
-  - '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
-  - '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]'
-  - '[[A-Common-Misreading|A Common Misreading]]'
-  - '[[A-Debugging-Workflow-in-Practice|A Debugging Workflow in Practice]]'
-  - '[[A-PKM-Specific-Implementation-Intention-Stack|A PKM-Specific Implementation Intention Stack]]'
-  - "[[A-Reflection-on-the-Construct's-Quiet-Significance|A Reflection on the Construct's Quiet Significance]]"
-  - '[[A-Reframing-of-the-Self-Regulation-Problem|A Reframing of the Self-Regulation Problem]]'
-  - '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
-  - '[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
+- '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
+- '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and
+  Individual Differences Beyond One-Size-Fits-All Sequencing]]'
+- '[[A-Common-Misreading|A Common Misreading]]'
+- '[[A-Debugging-Workflow-in-Practice|A Debugging Workflow in Practice]]'
+- '[[A-PKM-Specific-Implementation-Intention-Stack|A PKM-Specific Implementation Intention
+  Stack]]'
+- '[[A-Reflection-on-the-Construct''s-Quiet-Significance|A Reflection on the Construct''s
+  Quiet Significance]]'
+- '[[A-Reframing-of-the-Self-Regulation-Problem|A Reframing of the Self-Regulation
+  Problem]]'
+- '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
+- '[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic
+  Behavior]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +39,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[learning-strategies-and-practice-moc]]'
 ---
 
 # transfer-of-learning

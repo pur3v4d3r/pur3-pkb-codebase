@@ -1,10 +1,16 @@
 ---
 title: heuristics-and-biases
-aliases: [heuristics-and-biases, heuristics-and-biases-program]
+aliases:
+- heuristics-and-biases
+- heuristics-and-biases-program
 type: permanent-note
 status: enriched
 confidence: low
-tags: [permanent-note, seedling, concept-stub, cognitive-psychology]
+tags:
+- permanent-note
+- seedling
+- concept-stub
+- cognitive-psychology
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -12,20 +18,23 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 126
 see-also:
-  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
-  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
-  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
-  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
-  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
-  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
-  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
-  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
-  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+- '[[Application-Attribution-Retraining''s-Two-Stage-Architecture|Application Attribution
+  Retraining''s Two-Stage Architecture]]'
+- '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description
+  vs. Normative Prescription]]'
+- '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman
+  & Frederick)]]'
+- '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman
+  & Frederick, 2002)]]'
+- '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+- '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining
+  (Försterling, 1985; Perry et al., 2010)]]'
+- '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+- '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical
+  Depression]]'
+- '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion
+  (Weiner, 1985, 1995)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -34,6 +43,8 @@ provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
 maturity: budding
+parent-moc:
+- '[[cognitive-science-moc]]'
 ---
 
 # heuristics-and-biases

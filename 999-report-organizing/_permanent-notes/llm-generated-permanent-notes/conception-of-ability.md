@@ -1,10 +1,18 @@
 ---
 title: conception-of-ability
-aliases: [conception-of-ability, conceptions-of-ability, differentiated-conception-of-ability, undifferentiated-conception-of-ability]
+aliases:
+- conception-of-ability
+- conceptions-of-ability
+- differentiated-conception-of-ability
+- undifferentiated-conception-of-ability
 type: permanent-note
 status: enriched
 confidence: low
-tags: [permanent-note, seedling, concept-stub, other]
+tags:
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -12,20 +20,18 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 50
 see-also:
-  - '[[A-Common-Misreading|A Common Misreading]]'
-  - '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
-  - '[[Achievement-Goal|Achievement Goal]]'
-  - '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]'
-  - '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
-  - '[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]'
-  - '[[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]'
-  - '[[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]'
-  - '[[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]'
-  - '[[Future-Investigation-Directions|Future Investigation Directions]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Common-Misreading|A Common Misreading]]'
+- '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
+- '[[Achievement-Goal|Achievement Goal]]'
+- '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement
+  Goal Theory tradition)]]'
+- '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
+- '[[Athletic-Training-and-Performance-Development|Athletic Training and Performance
+  Development]]'
+- '[[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]'
+- '[[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]'
+- '[[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]'
+- '[[Future-Investigation-Directions|Future Investigation Directions]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -34,6 +40,8 @@ provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
 maturity: budding
+parent-moc:
+- '[[motivation-theory-moc]]'
 ---
 
 # conception-of-ability

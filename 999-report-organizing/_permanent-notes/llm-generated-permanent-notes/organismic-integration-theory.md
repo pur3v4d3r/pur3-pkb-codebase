@@ -1,16 +1,15 @@
 ---
 title: organismic-integration-theory
 aliases:
-  - organismic-integration-theory
+- organismic-integration-theory
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,18 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 246
 see-also:
-  - '[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]'
-  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
-  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
-  - '[[Autonomous-Motivation|Autonomous Motivation]]'
-  - '[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]'
-  - '[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]'
-  - '[[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]'
-  - '[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]'
-  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
-  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]'
+- '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+- '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+- '[[Autonomous-Motivation|Autonomous Motivation]]'
+- '[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]'
+- '[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]'
+- '[[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]'
+- '[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural
+  Specificity]]'
+- '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation
+  of SDL]]'
+- '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +36,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[motivation-theory-moc]]'
 ---
 
 # organismic-integration-theory

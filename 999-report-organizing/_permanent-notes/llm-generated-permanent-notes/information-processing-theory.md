@@ -1,16 +1,15 @@
 ---
 title: information-processing-theory
 aliases:
-  - information-processing-theory
+- information-processing-theory
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - learning-science
-
+- permanent-note
+- seedling
+- concept-stub
+- learning-science
 domain: learning-science
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,19 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 491
 see-also:
-  - '[[A-Closing-Reflection|A Closing Reflection]]'
-  - '[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]'
-  - '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
-  - '[[Abstract]]'
-  - '[[Activate-What-You-Already-Know|Activate What You Already Know]]'
-  - '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]'
-  - '[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]'
-  - '[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]'
-  - '[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]'
-  - '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Closing-Reflection|A Closing Reflection]]'
+- '[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete
+  Trajectory How Deliberate Practice Builds the Architecture]]'
+- '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
+- '[[Abstract]]'
+- '[[Activate-What-You-Already-Know|Activate What You Already Know]]'
+- '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior
+  Knowledge The Bottleneck You Already Navigate]]'
+- '[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This
+  Report]]'
+- '[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]'
+- '[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]'
+- '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +37,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[cognitive-science-moc]]'
 ---
 
 # information-processing-theory

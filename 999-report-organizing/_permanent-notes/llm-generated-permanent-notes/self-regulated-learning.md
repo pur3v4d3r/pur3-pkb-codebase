@@ -1,16 +1,15 @@
 ---
 title: self-regulated-learning
 aliases:
-  - self-regulated-learning
+- self-regulated-learning
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,18 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 818
 see-also:
-  - '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
-  - '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
-  - '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]'
-  - '[[A-Common-Misreading|A Common Misreading]]'
-  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
-  - '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
-  - '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]'
-  - '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
-  - '[[Abstract]]'
-  - '[[Achievement-Goal|Achievement Goal]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
+- '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
+- '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and
+  Individual Differences Beyond One-Size-Fits-All Sequencing]]'
+- '[[A-Common-Misreading|A Common Misreading]]'
+- '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+- '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
+- '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted
+  Learning Environments and the Future of Efficacy Cultivation]]'
+- '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
+- '[[Abstract]]'
+- '[[Achievement-Goal|Achievement Goal]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +36,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[self-regulated-learning-moc]]'
 ---
 
 # self-regulated-learning

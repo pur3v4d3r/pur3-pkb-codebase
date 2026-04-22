@@ -1,18 +1,17 @@
 ---
 title: Self-Regulated-Learning-—-SRL
 aliases:
-  - -SRL
-  - Self-Regulated-Learning-
-  - Self-Regulated-Learning-—-SRL
+- -SRL
+- Self-Regulated-Learning-
+- Self-Regulated-Learning-—-SRL
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -20,20 +19,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 150
 see-also:
-  - '[[A-PKM-Specific-Implementation-Intention-Stack|A PKM-Specific Implementation Intention Stack]]'
-  - "[[A-Reflection-on-the-Construct's-Quiet-Significance|A Reflection on the Construct's Quiet Significance]]"
-  - '[[A-Reframing-of-the-Self-Regulation-Problem|A Reframing of the Self-Regulation Problem]]'
-  - '[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic Behavior]]'
-  - '[[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen & Gollwitzer, 1987)]]'
-  - '[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]'
-  - '[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]'
-  - '[[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]'
-  - '[[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]'
-  - '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-PKM-Specific-Implementation-Intention-Stack|A PKM-Specific Implementation Intention
+  Stack]]'
+- '[[A-Reflection-on-the-Construct''s-Quiet-Significance|A Reflection on the Construct''s
+  Quiet Significance]]'
+- '[[A-Reframing-of-the-Self-Regulation-Problem|A Reframing of the Self-Regulation
+  Problem]]'
+- '[[A-Worked-Example-of-MCII-for-Academic-Behavior|A Worked Example of MCII for Academic
+  Behavior]]'
+- '[[Action-Phase-Model-Heckhausen-&-Gollwitzer,-1987|Action Phase Model (Heckhausen
+  & Gollwitzer, 1987)]]'
+- '[[Action-Phase-Model-Heckhausen|Action Phase Model (Heckhausen)]]'
+- '[[Application-MCII-Compound-Intervention|Application MCII Compound Intervention]]'
+- '[[Application-PKM-Recursive-Architecture|Application PKM Recursive Architecture]]'
+- '[[Boundary-Most-Common-Failure-Mode|Boundary Most Common Failure Mode]]'
+- '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -41,6 +41,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[self-regulated-learning-moc]]'
 ---
 
 # Self-Regulated-Learning-—-SRL

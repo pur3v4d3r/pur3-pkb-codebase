@@ -378,3 +378,12 @@ python 99-scripts/wikipedia_downloader.py "https://en.wikipedia.org/wiki/Pragmat
 
 
 
+# MOC Develpment Workflow
+
+I have a series of permanent notes that have been extracted from reports but are currently unlinked and not organized into any Map of Content (MOC). I want to develop a workflow for taking these standalone notes and integrating them into a coherent MOC structure within Obsidian.
+- The workflow should involve identifying thematic clusters among the notes, creating MOC files that link to these notes, and establishing a hierarchical structure that reflects the relationships between concepts.
+
+`D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md` -> A reference file that lists all permanent notes with their canonical names and wiki-link formats. This can be used to ensure consistency when linking notes in MOCs.
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\llm-generated-permanent-notes` -> This directory contains all the permanent notes that have been generated from the report extraction pipeline. These are the notes that need to be organized into MOCs.
+
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_maps-of-content-for-permenent-notes` -> USE THIS DIRECTORY TO STORE ALL GENERATED MOCs. This keeps them organized and separate from individual notes.

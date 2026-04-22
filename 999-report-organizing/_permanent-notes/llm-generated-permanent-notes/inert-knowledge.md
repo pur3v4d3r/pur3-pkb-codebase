@@ -1,16 +1,15 @@
 ---
 title: inert-knowledge
 aliases:
-  - inert-knowledge
+- inert-knowledge
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 75
 see-also:
-  - '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
-  - '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
-  - '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]'
-  - '[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]'
-  - '[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]'
-  - '[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]'
-  - '[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]'
-  - '[[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]'
-  - '[[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]'
-  - '[[Complex-Learning|Complex Learning]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
+- '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
+- '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and
+  Individual Differences Beyond One-Size-Fits-All Sequencing]]'
+- '[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time
+  Adjustment Algorithms]]'
+- '[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction
+  Real-Time Learning Environment Optimization]]'
+- '[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]'
+- '[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]'
+- '[[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]'
+- '[[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task
+  Analysis Methods, Validity, and Design Integration]]'
+- '[[Complex-Learning|Complex Learning]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +38,9 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[learning-strategies-and-practice-moc]]'
+- '[[pkm-and-knowledge-systems-moc]]'
 ---
 
 # inert-knowledge

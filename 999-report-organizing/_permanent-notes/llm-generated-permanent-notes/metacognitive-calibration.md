@@ -1,16 +1,15 @@
 ---
 title: metacognitive-calibration
 aliases:
-  - metacognitive-calibration
+- metacognitive-calibration
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - cognitive-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- cognitive-psychology
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 202
 see-also:
-  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
-  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
-  - '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]'
-  - '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
-  - '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]'
-  - '[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]'
-  - '[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]'
-  - '[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]'
-  - '[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]'
-  - '[[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+- '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+- '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment
+  as the Completion of the Scaffolding-Sovereignty Progression]]'
+- '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
+- '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment
+  for Learning Formative Assessment as a Developmental Practice]]'
+- '[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical
+  Skill Development]]'
+- '[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding
+  Paradox]]'
+- '[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]'
+- '[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]'
+- '[[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +38,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[metacognition-moc]]'
 ---
 
 # metacognitive-calibration

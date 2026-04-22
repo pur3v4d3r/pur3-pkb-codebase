@@ -1,16 +1,15 @@
 ---
 title: cross-cultural-psychology
 aliases:
-  - cross-cultural-psychology
+- cross-cultural-psychology
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,22 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 127
 see-also:
-  - '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]'
-  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
-  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]'
-  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
-  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
-  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
-  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
-  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
-  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted
+  Learning Environments and the Future of Efficacy Cultivation]]'
+- '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+- '[[Application-Attribution-Retraining''s-Two-Stage-Architecture|Application Attribution
+  Retraining''s Two-Stage Architecture]]'
+- '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching
+  and the Engineering of Performance Confidence]]'
+- '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+- '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining
+  (Försterling, 1985; Perry et al., 2010)]]'
+- '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+- '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical
+  Depression]]'
+- '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion
+  (Weiner, 1985, 1995)]]'
+- '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +40,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[social-cultural-and-eudaimonic-psychology-moc]]'
 ---
 
 # cross-cultural-psychology

@@ -1,16 +1,15 @@
 ---
 title: john-flavell
 aliases:
-  - john-flavell
+- john-flavell
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,23 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 185
 see-also:
-  - '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
-  - '[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]'
-  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
-  - '[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]'
-  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
-  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
-  - '[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]'
-  - '[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]'
-  - '[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]'
-  - '[[Calibration-Metacognitive-Accuracy-Literature|Calibration (Metacognitive Accuracy Literature)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
+- '[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This
+  Report]]'
+- '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties
+  and Monitoring]]'
+- '[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]'
+- '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring
+  Systems]]'
+- '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+- '[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and
+  Motor Learning]]'
+- '[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge
+  The PKB as Cognitive Partner]]'
+- '[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic
+  for PKB Design Failures]]'
+- '[[Calibration-Metacognitive-Accuracy-Literature|Calibration (Metacognitive Accuracy
+  Literature)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +41,9 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[metacognition-moc]]'
+- '[[researchers-and-theorists-moc]]'
 ---
 
 # john-flavell

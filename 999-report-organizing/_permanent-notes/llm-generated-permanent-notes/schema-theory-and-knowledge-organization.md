@@ -1,10 +1,16 @@
 ---
 title: schema-theory-and-knowledge-organization
-aliases: [schema-theory-and-knowledge-organization, schema-theory]
+aliases:
+- schema-theory-and-knowledge-organization
+- schema-theory
 type: permanent-note
 status: enriched
 confidence: low
-tags: [permanent-note, seedling, concept-stub, cognitive-psychology]
+tags:
+- permanent-note
+- seedling
+- concept-stub
+- cognitive-psychology
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -12,20 +18,22 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 82
 see-also:
-  - '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
-  - '[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]'
-  - '[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]'
-  - '[[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]'
-  - '[[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive Engagement]]'
-  - '[[Desirable-Difficulties-Bjork-&-Bjork,-1992;-2011|Desirable Difficulties (Bjork & Bjork, 1992; 2011)]]'
-  - '[[Directions-for-Future-Investigation|Directions for Future Investigation]]'
-  - '[[Dual-Process-Theory-and-its-Implications-for-Knowledge-Management-Decision-Makin|Dual-Process Theory and its Implications for Knowledge Management Decision-Making]]'
-  - '[[Emergent-Organization-vs.-Imposed-Organization|Emergent Organization vs. Imposed Organization]]'
-  - '[[Encoding-Depth-Craik-&-Lockhart,-1972|Encoding Depth (Craik & Lockhart, 1972)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
+- '[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System
+  Design Audit (Seven-Problem Framework)]]'
+- '[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]'
+- '[[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory
+  (Sweller, 1988; Sweller et al., 2011)]]'
+- '[[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive
+  Engagement]]'
+- '[[Desirable-Difficulties-Bjork-&-Bjork,-1992;-2011|Desirable Difficulties (Bjork
+  & Bjork, 1992; 2011)]]'
+- '[[Directions-for-Future-Investigation|Directions for Future Investigation]]'
+- '[[Dual-Process-Theory-and-its-Implications-for-Knowledge-Management-Decision-Makin|Dual-Process
+  Theory and its Implications for Knowledge Management Decision-Making]]'
+- '[[Emergent-Organization-vs.-Imposed-Organization|Emergent Organization vs. Imposed
+  Organization]]'
+- '[[Encoding-Depth-Craik-&-Lockhart,-1972|Encoding Depth (Craik & Lockhart, 1972)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -34,6 +42,8 @@ provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
 maturity: budding
+parent-moc:
+- '[[cognitive-science-moc]]'
 ---
 
 # schema-theory-and-knowledge-organization

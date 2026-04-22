@@ -1,16 +1,15 @@
 ---
 title: roger-brockett
 aliases:
-  - roger-brockett
+- roger-brockett
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
 see-also:
-  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
-  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
-  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
-  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
-  - '[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]'
-  - '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
-  - '[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]'
-  - '[[Connection-SDT-and-SDL|Connection SDT and SDL]]'
-  - '[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]'
-  - "[[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+- '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+- '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation
+  of SDL]]'
+- '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
+- '[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical
+  Education The Diagnostic Self-Director]]'
+- '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
+- '[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty
+  Framework]]'
+- '[[Connection-SDT-and-SDL|Connection SDT and SDL]]'
+- '[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of
+  Self-Directed Learning]]'
+- '[[Definition-Grow''s-SSDL-Model|Definition Grow''s SSDL Model]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +38,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[pkm-and-knowledge-systems-moc]]'
 ---
 
 # roger-brockett

@@ -1,16 +1,15 @@
 ---
 title: reflective-practice
 aliases:
-  - reflective-practice
+- reflective-practice
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 243
 see-also:
-  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
-  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
-  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
-  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
-  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
-  - '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]'
-  - '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
-  - '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]'
-  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+- '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+- '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+- '[[Application-Attribution-Retraining''s-Two-Stage-Architecture|Application Attribution
+  Retraining''s Two-Stage Architecture]]'
+- '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+- '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description
+  vs. Normative Prescription]]'
+- '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment
+  as the Completion of the Scaffolding-Sovereignty Progression]]'
+- '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
+- '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment
+  for Learning Formative Assessment as a Developmental Practice]]'
+- '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman
+  & Frederick)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +39,9 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[metacognition-moc]]'
+- '[[self-regulated-learning-moc]]'
 ---
 
 # reflective-practice

@@ -1,16 +1,15 @@
 ---
 title: motivation
 aliases:
-  - motivation
+- motivation
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,23 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 37
 see-also:
-  - '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]'
-  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
-  - '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]'
-  - '[[Calibration-Versus-Optimism|Calibration Versus Optimism]]'
-  - '[[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]'
-  - '[[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]'
-  - '[[Collective-Efficacy-as-a-Bridge-Between-Self-Efficacy-Theory-and-Sociology|Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology]]'
-  - '[[Cross-Cultural-Universality-of-Source-Weighting|Cross-Cultural Universality of Source Weighting]]'
-  - '[[Designing-Efficacy-Building-Learning-Sequences|Designing Efficacy-Building Learning Sequences]]'
-  - '[[Diagnostic-Questions-for-Efficacy-Intervention-Design|Diagnostic Questions for Efficacy Intervention Design]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted
+  Learning Environments and the Future of Efficacy Cultivation]]'
+- '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+- '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching
+  and the Engineering of Performance Confidence]]'
+- '[[Calibration-Versus-Optimism|Calibration Versus Optimism]]'
+- '[[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice
+  and the Architecture of Therapeutic Change]]'
+- '[[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]'
+- '[[Collective-Efficacy-as-a-Bridge-Between-Self-Efficacy-Theory-and-Sociology|Collective
+  Efficacy as a Bridge Between Self-Efficacy Theory and Sociology]]'
+- '[[Cross-Cultural-Universality-of-Source-Weighting|Cross-Cultural Universality of
+  Source Weighting]]'
+- '[[Designing-Efficacy-Building-Learning-Sequences|Designing Efficacy-Building Learning
+  Sequences]]'
+- '[[Diagnostic-Questions-for-Efficacy-Intervention-Design|Diagnostic Questions for
+  Efficacy Intervention Design]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +41,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[motivation-theory-moc]]'
 ---
 
 # motivation

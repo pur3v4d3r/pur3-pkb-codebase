@@ -1,16 +1,15 @@
 ---
 title: sdl-as-educational-goal
 aliases:
-  - sdl-as-educational-goal
+- sdl-as-educational-goal
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 142
 see-also:
-  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
-  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
-  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
-  - '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]'
-  - '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
-  - '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]'
-  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
-  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
-  - '[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]'
-  - '[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+- '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+- '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+- '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment
+  as the Completion of the Scaffolding-Sovereignty Progression]]'
+- '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
+- '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment
+  for Learning Formative Assessment as a Developmental Practice]]'
+- '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation
+  of SDL]]'
+- '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
+- '[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding
+  Paradox]]'
+- '[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +38,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[adult-and-self-directed-learning-moc]]'
 ---
 
 # sdl-as-educational-goal

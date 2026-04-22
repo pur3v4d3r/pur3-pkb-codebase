@@ -1,16 +1,15 @@
 ---
 title: instructional-design
 aliases:
-  - instructional-design
+- instructional-design
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 332
 see-also:
-  - '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
-  - '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
-  - '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]'
-  - '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]'
-  - '[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]'
-  - '[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]'
-  - '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
-  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
-  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - '[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
+- '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
+- '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and
+  Individual Differences Beyond One-Size-Fits-All Sequencing]]'
+- '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior
+  Knowledge The Bottleneck You Already Navigate]]'
+- '[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time
+  Adjustment Algorithms]]'
+- '[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction
+  Real-Time Learning Environment Optimization]]'
+- '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
+- '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+- '[[Application-Attribution-Retraining''s-Two-Stage-Architecture|Application Attribution
+  Retraining''s Two-Stage Architecture]]'
+- '[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +39,9 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[cognitive-science-moc]]'
+- '[[learning-strategies-and-practice-moc]]'
 ---
 
 # instructional-design

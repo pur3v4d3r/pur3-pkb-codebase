@@ -1,16 +1,15 @@
 ---
 title: WEIRD-Sample-Bias
 aliases:
-  - WEIRD-Sample-Bias
+- WEIRD-Sample-Bias
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - cognitive-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- cognitive-psychology
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,22 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 187
 see-also:
-  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
-  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
-  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
-  - '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]'
-  - '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
-  - '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]'
-  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
-  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
-  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+- '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+- '[[Application-Attribution-Retraining''s-Two-Stage-Architecture|Application Attribution
+  Retraining''s Two-Stage Architecture]]'
+- '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description
+  vs. Normative Prescription]]'
+- '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment
+  as the Completion of the Scaffolding-Sovereignty Progression]]'
+- '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
+- '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment
+  for Learning Formative Assessment as a Developmental Practice]]'
+- '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman
+  & Frederick)]]'
+- '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman
+  & Frederick, 2002)]]'
+- '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +40,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[social-cultural-and-eudaimonic-psychology-moc]]'
 ---
 
 # WEIRD-Sample-Bias

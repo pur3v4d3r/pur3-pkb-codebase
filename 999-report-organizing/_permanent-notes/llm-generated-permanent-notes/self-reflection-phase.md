@@ -1,16 +1,15 @@
 ---
 title: self-reflection-phase
 aliases:
-  - self-reflection-phase
+- self-reflection-phase
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 237
 see-also:
-  - '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]'
-  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
-  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
-  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
-  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
-  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
-  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
-  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
-  - '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]'
-  - '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted
+  Learning Environments and the Future of Efficacy Cultivation]]'
+- '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+- '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+- '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+- '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties
+  and Monitoring]]'
+- '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+- '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring
+  Systems]]'
+- '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+- '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment
+  as the Completion of the Scaffolding-Sovereignty Progression]]'
+- '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +38,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[self-regulated-learning-moc]]'
 ---
 
 # self-reflection-phase

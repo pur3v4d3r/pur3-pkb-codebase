@@ -1,16 +1,15 @@
 ---
 title: Implicit-Theories-of-Intelligence
 aliases:
-  - Implicit-Theories-of-Intelligence
+- Implicit-Theories-of-Intelligence
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 132
 see-also:
-  - '[[A-Common-Misreading|A Common Misreading]]'
-  - '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
-  - '[[Achievement-Goal|Achievement Goal]]'
-  - '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]'
-  - '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
-  - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - '[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]'
-  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
-  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
-  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Common-Misreading|A Common Misreading]]'
+- '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
+- '[[Achievement-Goal|Achievement Goal]]'
+- '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement
+  Goal Theory tradition)]]'
+- '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
+- '[[Application-Attribution-Retraining''s-Two-Stage-Architecture|Application Attribution
+  Retraining''s Two-Stage Architecture]]'
+- '[[Athletic-Training-and-Performance-Development|Athletic Training and Performance
+  Development]]'
+- '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+- '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining
+  (Försterling, 1985; Perry et al., 2010)]]'
+- '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +38,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[motivation-theory-moc]]'
 ---
 
 # Implicit-Theories-of-Intelligence

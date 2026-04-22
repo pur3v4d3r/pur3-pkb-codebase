@@ -1,16 +1,15 @@
 ---
 title: prefrontal-cortex
 aliases:
-  - prefrontal-cortex
+- prefrontal-cortex
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - neuroscience
-
+- permanent-note
+- seedling
+- concept-stub
+- neuroscience
 domain: neuroscience
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,17 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 81
 see-also:
-  - '[[Abstract]]'
-  - '[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]'
-  - '[[Central-claim-of-this-level|Central claim of this level]]'
-  - '[[Chunk (Miller, 1956; Chase & Simon, 1973)]]'
-  - "[[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]"
-  - "[[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]"
-  - "[[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]"
-  - "[[Claude's-perspective-on-the-reorganization|Claude's perspective on the reorganization]]"
-  - "[[Claude's-perspective-on-the-speculative-horizon|Claude's perspective on the speculative horizon]]"
-  - "[[Claude's-perspective-on-the-substructure|Claude's perspective on the substructure]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Abstract]]'
+- '[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]'
+- '[[Central-claim-of-this-level|Central claim of this level]]'
+- '[[Chunk (Miller, 1956; Chase & Simon, 1973)]]'
+- '[[Claude''s-perspective-on-the-dynamics|Claude''s perspective on the dynamics]]'
+- '[[Claude''s-perspective-on-the-edge-cases|Claude''s perspective on the edge cases]]'
+- '[[Claude''s-perspective-on-the-frontier|Claude''s perspective on the frontier]]'
+- '[[Claude''s-perspective-on-the-reorganization|Claude''s perspective on the reorganization]]'
+- '[[Claude''s-perspective-on-the-speculative-horizon|Claude''s perspective on the
+  speculative horizon]]'
+- '[[Claude''s-perspective-on-the-substructure|Claude''s perspective on the substructure]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +35,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[cognitive-science-moc]]'
 ---
 
 # prefrontal-cortex

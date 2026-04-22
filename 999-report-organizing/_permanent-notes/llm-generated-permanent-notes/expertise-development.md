@@ -1,16 +1,15 @@
 ---
 title: expertise-development
 aliases:
-  - expertise-development
+- expertise-development
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,23 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 169
 see-also:
-  - '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]'
-  - '[[Abstract]]'
-  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
-  - '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]'
-  - '[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]'
-  - '[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]'
-  - '[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]'
-  - '[[Calibration-Versus-Optimism|Calibration Versus Optimism]]'
-  - "[[Claude's-Perspective-Python-as-Connective-Tissue|Claude's Perspective Python as Connective Tissue]]"
-  - "[[Claude's-Perspective-The-Two-Kinds-of-Errors|Claude's Perspective The Two Kinds of Errors]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted
+  Learning Environments and the Future of Efficacy Cultivation]]'
+- '[[Abstract]]'
+- '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+- '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching
+  and the Engineering of Performance Confidence]]'
+- '[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and
+  Motor Learning]]'
+- '[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge
+  The PKB as Cognitive Partner]]'
+- '[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic
+  for PKB Design Failures]]'
+- '[[Calibration-Versus-Optimism|Calibration Versus Optimism]]'
+- '[[Claude''s-Perspective-Python-as-Connective-Tissue|Claude''s Perspective Python
+  as Connective Tissue]]'
+- '[[Claude''s-Perspective-The-Two-Kinds-of-Errors|Claude''s Perspective The Two Kinds
+  of Errors]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +41,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[learning-strategies-and-practice-moc]]'
 ---
 
 # expertise-development

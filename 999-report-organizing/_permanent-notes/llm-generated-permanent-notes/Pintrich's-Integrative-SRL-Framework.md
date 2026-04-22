@@ -1,16 +1,15 @@
 ---
 title: Pintrich's-Integrative-SRL-Framework
 aliases:
-  - Pintrich's-Integrative-SRL-Framework
+- Pintrich's-Integrative-SRL-Framework
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,23 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 145
 see-also:
-  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
-  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
-  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
-  - '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
-  - '[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]'
-  - '[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]'
-  - '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]'
-  - '[[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]'
-  - '[[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive Engagement]]'
-  - '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties
+  and Monitoring]]'
+- '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring
+  Systems]]'
+- '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+- '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
+- '[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System
+  Design Audit (Seven-Problem Framework)]]'
+- '[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]'
+- '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making
+  The Diagnostic Monitoring-Control Loop]]'
+- '[[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory
+  (Sweller, 1988; Sweller et al., 2011)]]'
+- '[[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive
+  Engagement]]'
+- '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational
+  Models of Metacognition Architectures, Implementations, and Predictions]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +41,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[self-regulated-learning-moc]]'
 ---
 
 # Pintrich's-Integrative-SRL-Framework

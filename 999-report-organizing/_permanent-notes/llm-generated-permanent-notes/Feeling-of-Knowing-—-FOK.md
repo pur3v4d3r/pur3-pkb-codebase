@@ -1,18 +1,17 @@
 ---
 title: Feeling-of-Knowing-—-FOK
 aliases:
-  - -FOK
-  - Feeling-of-Knowing-
-  - Feeling-of-Knowing-—-FOK
+- -FOK
+- Feeling-of-Knowing-
+- Feeling-of-Knowing-—-FOK
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -20,20 +19,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
 see-also:
-  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
-  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
-  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
-  - '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]'
-  - '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]'
-  - '[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]'
-  - '[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]'
-  - '[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]'
-  - '[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]'
-  - '[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties
+  and Monitoring]]'
+- '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring
+  Systems]]'
+- '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+- '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making
+  The Diagnostic Monitoring-Control Loop]]'
+- '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational
+  Models of Metacognition Architectures, Implementations, and Predictions]]'
+- '[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]'
+- '[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens
+  Two-Level Model]]'
+- '[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]'
+- '[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]'
+- '[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -41,6 +41,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[metacognition-moc]]'
 ---
 
 # Feeling-of-Knowing-—-FOK

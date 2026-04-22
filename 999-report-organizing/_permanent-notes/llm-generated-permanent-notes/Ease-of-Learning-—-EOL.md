@@ -1,18 +1,17 @@
 ---
 title: Ease-of-Learning-—-EOL
 aliases:
-  - -EOL
-  - Ease-of-Learning-
-  - Ease-of-Learning-—-EOL
+- -EOL
+- Ease-of-Learning-
+- Ease-of-Learning-—-EOL
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - educational-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- educational-psychology
 domain: educational-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -20,20 +19,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
 see-also:
-  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
-  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
-  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
-  - '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]'
-  - '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]'
-  - '[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]'
-  - '[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]'
-  - '[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]'
-  - '[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]'
-  - '[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties
+  and Monitoring]]'
+- '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring
+  Systems]]'
+- '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+- '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making
+  The Diagnostic Monitoring-Control Loop]]'
+- '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational
+  Models of Metacognition Architectures, Implementations, and Predictions]]'
+- '[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]'
+- '[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens
+  Two-Level Model]]'
+- '[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]'
+- '[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]'
+- '[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -41,6 +41,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[metacognition-moc]]'
 ---
 
 # Ease-of-Learning-—-EOL

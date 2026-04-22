@@ -1,18 +1,17 @@
 ---
 title: Social-Cognitive-Theory-—-Bandura
 aliases:
-  - -Bandura
-  - Social-Cognitive-Theory-
-  - Social-Cognitive-Theory-—-Bandura
+- -Bandura
+- Social-Cognitive-Theory-
+- Social-Cognitive-Theory-—-Bandura
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - cognitive-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- cognitive-psychology
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -20,20 +19,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 160
 see-also:
-  - '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]'
-  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
-  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
-  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
-  - '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]'
-  - '[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]'
-  - '[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]'
-  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
-  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
-  - '[[Calibration-Versus-Optimism|Calibration Versus Optimism]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted
+  Learning Environments and the Future of Efficacy Cultivation]]'
+- '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+- '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+- '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+- '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching
+  and the Engineering of Performance Confidence]]'
+- '[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]'
+- '[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled
+  Commitment (integrating SDT)]]'
+- '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation
+  of SDL]]'
+- '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
+- '[[Calibration-Versus-Optimism|Calibration Versus Optimism]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -41,6 +40,9 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[motivation-theory-moc]]'
+- '[[self-regulated-learning-moc]]'
 ---
 
 # Social-Cognitive-Theory-—-Bandura

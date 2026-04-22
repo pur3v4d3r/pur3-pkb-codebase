@@ -1,18 +1,17 @@
 ---
 title: Goal-Setting-Theory-—-Locke-and-Latham
 aliases:
-  - -Locke-and-Latham
-  - Goal-Setting-Theory-
-  - Goal-Setting-Theory-—-Locke-and-Latham
+- -Locke-and-Latham
+- Goal-Setting-Theory-
+- Goal-Setting-Theory-—-Locke-and-Latham
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+- permanent-note
+- seedling
+- concept-stub
+- other
 domain: other
 created: 2026-04-22
 updated: '2026-04-22'
@@ -20,20 +19,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 49
 see-also:
-  - '[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]'
-  - '[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]'
-  - '[[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]'
-  - '[[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]'
-  - '[[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]'
-  - '[[Directive-Function|Directive Function]]'
-  - '[[Educational-Goal-Setting|Educational Goal Setting]]'
-  - '[[Goal-Commitment|Goal Commitment]]'
-  - '[[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]'
-  - '[[Goal-Difficulty|Goal Difficulty]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]'
+- '[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled
+  Commitment (integrating SDT)]]'
+- '[[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]'
+- '[[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment
+  as Quantitative Variable vs. Quality-Differentiated Variable]]'
+- '[[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering
+  Discipline]]'
+- '[[Directive-Function|Directive Function]]'
+- '[[Educational-Goal-Setting|Educational Goal Setting]]'
+- '[[Goal-Commitment|Goal Commitment]]'
+- '[[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting
+  Checklist]]'
+- '[[Goal-Difficulty|Goal Difficulty]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -41,6 +40,9 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[motivation-theory-moc]]'
+- '[[self-regulated-learning-moc]]'
 ---
 
 # Goal-Setting-Theory-—-Locke-and-Latham

@@ -1,16 +1,15 @@
 ---
 title: metacognitive-calibration-training
 aliases:
-  - metacognitive-calibration-training
+- metacognitive-calibration-training
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - cognitive-psychology
-
+- permanent-note
+- seedling
+- concept-stub
+- cognitive-psychology
 domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,20 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 72
 see-also:
-  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
-  - '[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]'
-  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
-  - '[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]'
-  - '[[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]'
-  - '[[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]'
-  - '[[Cognitive-Offloading|Cognitive Offloading]]'
-  - '[[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]'
-  - '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
-  - '[[Core-Argument-Structure|Core Argument Structure]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+- '[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical
+  Skill Development]]'
+- '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+- '[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]'
+- '[[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation
+  Engine (Original to This Report)]]'
+- '[[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic
+  Practice]]'
+- '[[Cognitive-Offloading|Cognitive Offloading]]'
+- '[[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive
+  Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]'
+- '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
+- '[[Core-Argument-Structure|Core Argument Structure]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +38,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[metacognition-moc]]'
 ---
 
 # metacognitive-calibration-training

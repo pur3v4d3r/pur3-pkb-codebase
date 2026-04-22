@@ -1,16 +1,15 @@
 ---
 title: elaborative-encoding
 aliases:
-  - elaborative-encoding
+- elaborative-encoding
 type: permanent-note
 status: enriched
 confidence: low
 tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - learning-science
-
+- permanent-note
+- seedling
+- concept-stub
+- learning-science
 domain: learning-science
 created: 2026-04-22
 updated: '2026-04-22'
@@ -18,20 +17,21 @@ source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 135
 see-also:
-  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
-  - '[[Abstract]]'
-  - '[[Annotation-Confidence-25|Annotation Confidence 25]]'
-  - '[[Annotation-Confidence-35|Annotation Confidence 35]]'
-  - '[[Annotation-Confidence-45|Annotation Confidence 45]]'
-  - '[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]'
-  - '[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]'
-  - '[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]'
-  - '[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]'
-  - '[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]'
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+- '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+- '[[Abstract]]'
+- '[[Annotation-Confidence-25|Annotation Confidence 25]]'
+- '[[Annotation-Confidence-35|Annotation Confidence 35]]'
+- '[[Annotation-Confidence-45|Annotation Confidence 45]]'
+- '[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence
+  45 for the risks; 35 for the mitigations]]'
+- '[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation
+  Coverage Gap — Terminal Proficiency and Command-Line Development]]'
+- '[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap —
+  Testing and Code Quality]]'
+- '[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence
+  Calibration]]'
+- '[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological
+  Limitation — Single Perspective]]'
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
@@ -39,6 +39,8 @@ maturity: budding
 provenance:
   enrichment-method: enrich_stubs-v1
   enrichment-model: qwen2.5:7b-instruct-q5_K_M
+parent-moc:
+- '[[learning-strategies-and-practice-moc]]'
 ---
 
 # elaborative-encoding
