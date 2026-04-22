@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "monitoring"
+title: monitoring
 aliases:
-  - "monitoring"
+  - monitoring
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 72
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
-  - "[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]"
-  - "[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]"
-  - "[[Control-Move-Selection|Control Move Selection]]"
-  - "[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]"
-  - "[[Control-Phase-Pintrich|Control Phase (Pintrich)]]"
-  - "[[Control-Repertoire-in-Action|Control Repertoire in Action]]"
-  - "[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]"
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+  - '[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]'
+  - '[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]'
+  - '[[Control-Move-Selection|Control Move Selection]]'
+  - '[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]'
+  - '[[Control-Phase-Pintrich|Control Phase (Pintrich)]]'
+  - '[[Control-Repertoire-in-Action|Control Repertoire in Action]]'
+  - '[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # monitoring
 
-> [!definition] **monitoring**
-> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] monitoring
+> - **Key-Term**: [[monitoring]]
+> - **Definition**: Monitoring refers to the continuous observation and evaluation of processes, systems, or behaviors to ensure they are functioning as intended and to make adjustments when necessary.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 72 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Monitoring is a fundamental process used across various domains such as education, psychology, and technology. It involves systematically observing and assessing performance or outcomes to identify discrepancies between expected and actual results, enabling timely interventions or corrections.
 
+> [!analytical-insight] Explanation 2
+> In practice, monitoring can be applied in real-time or through periodic checks. For instance, in educational settings, it might involve tracking students' progress to adjust teaching strategies; in technical contexts, it could mean continuously checking system performance to prevent failures.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between active and passive monitoring, where active involves direct intervention based on observations, while passive relies solely on data collection without immediate action.
+
+## Practical Implications
+
+> [!example] Application
+> In educational settings, monitoring can help teachers identify students who need additional support or resources, leading to more personalized learning experiences.
+
+> [!example] Application
+> In technology, continuous monitoring of software systems ensures they operate efficiently and securely, preventing potential failures before they occur.
+
+## Connections
+
+**Related:** [[Metacognition]] · [[Feedback]] · [[Regulatory Processes]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Control-Move-Selection|Control Move Selection]]
 - [[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]
 - [[Control-Phase-Pintrich|Control Phase (Pintrich)]]
-- [[Control-Repertoire-in-Action|Control Repertoire in Action]]
-- [[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]
-- [[Externalized-Metacognition-and-Personal-Knowledge-Bases]]
-- [[Forethought-Failure-and-Its-Downstream-Consequences|Forethought Failure and Its Downstream Consequences]]
-- [[Forethought-Phase-Pintrich|Forethought Phase (Pintrich)]]
-- [[Forethought-as-Regulatory-Front-Loading|Forethought as Regulatory Front-Loading]]
-- [[High-Priority-Expansion-Topics|High-Priority Expansion Topics]]
-- [[Mastery-vs.-Performance-Goal-Orientation-Ames,-Dweck,-integrated-into-Pintrich|Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich)]]
-- [[Methodology,-Claim-Taxonomy,-and-Generation-Transparency|Methodology, Claim Taxonomy, and Generation Transparency]]
-- [[Monitoring-Phase-Pintrich|Monitoring Phase (Pintrich)]]
-- [[Monitoring-Vocabulary-Audit|Monitoring Vocabulary Audit]]
-- [[Monitoring-as-Vocabulary-Dependent-Signal-Generation|Monitoring as Vocabulary-Dependent Signal Generation]]
-- *...and 52 more permanent notes*
+
+```dataview
+LIST FROM [[monitoring]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

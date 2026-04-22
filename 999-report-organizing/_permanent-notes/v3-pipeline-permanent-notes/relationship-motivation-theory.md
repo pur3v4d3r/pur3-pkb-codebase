@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "relationship-motivation-theory"
+title: relationship-motivation-theory
 aliases:
-  - "relationship-motivation-theory"
+  - relationship-motivation-theory
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - educational-psychology
 
 domain: educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 85
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]"
-  - "[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]"
-  - "[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]"
-  - "[[Autonomy-≠-Independence|Autonomy ≠ Independence]]"
-  - "[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]"
-  - "[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]"
-  - "[[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]"
-  - "[[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]"
-  - "[[Diagnostic-Pause|Diagnostic Pause]]"
-  - "[[Functional-Significance-CET|Functional Significance (CET)]]"
+  - '[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]'
+  - '[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]'
+  - '[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]'
+  - '[[Autonomy-≠-Independence|Autonomy ≠ Independence]]'
+  - '[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]'
+  - '[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]'
+  - '[[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]'
+  - '[[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]'
+  - '[[Diagnostic-Pause|Diagnostic Pause]]'
+  - '[[Functional-Significance-CET|Functional Significance (CET)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # relationship-motivation-theory
 
-> [!definition] **relationship-motivation-theory**
-> *Stub note — concept referenced by 85 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] relationship-motivation-theory
+> - **Key-Term**: [[relationship-motivation-theory]]
+> - **Definition**: Relationship-motivation-theory is a framework that explores how interpersonal relationships influence and are influenced by motivational processes, particularly focusing on the role of autonomy in these interactions.
+> - **Domain**: educational-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 85 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> This theory posits that individuals' motivations to engage in certain behaviors or activities can be significantly shaped by their relationships with others. It emphasizes the importance of mutual respect, understanding, and support within these relationships for fostering intrinsic motivation and well-being.
 
+> [!analytical-insight] Explanation 2
+> In practice, this means that educators, therapists, and managers can enhance motivational outcomes by creating environments where individuals feel supported and valued in their pursuits, thereby promoting autonomy and self-determination.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between autonomous and controlled motivations, with a focus on how relationships can either facilitate or hinder the development of autonomous motivation. The theory also acknowledges cultural variations in how these dynamics play out.
+
+## Practical Implications
+
+> [!example] Application
+> In educational settings, teachers who foster supportive and understanding relationships with their students are more likely to promote intrinsic motivation and academic engagement.
+
+> [!example] Application
+> In therapeutic contexts, therapists who build strong, trusting relationships with clients can enhance the client's sense of autonomy and self-efficacy, leading to better treatment outcomes.
+
+## Connections
+
+**Related:** [[Autonomous-Motivation-Deci-&-Ryan,-2000]] · [[Autonomy-SDT-Deci-&-Ryan,-1985]] · [[Basic-Psychological-Need-SDT]]
+
+**See Also (existing):**
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
 - [[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]
 - [[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]
@@ -73,16 +81,14 @@ importance: high
 - [[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]
 - [[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]
 - [[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]
-- [[Diagnostic-Pause|Diagnostic Pause]]
-- [[Functional-Significance-CET|Functional Significance (CET)]]
-- [[Functional-Significance-Deci-&-Ryan,-1985|Functional Significance (Deci & Ryan, 1985)]]
-- [[Internalization-Deci-&-Ryan,-1985;-Ryan,-1995|Internalization (Deci & Ryan, 1985; Ryan, 1995)]]
-- [[Internalization-SDT|Internalization (SDT)]]
-- [[Intrinsic-Motivation-Deci,-1971;-Deci-&-Ryan,-1985|Intrinsic Motivation (Deci, 1971; Deci & Ryan, 1985)]]
-- [[Intrinsic-vs.-Extrinsic-Goal-Contents-GCT|Intrinsic vs. Extrinsic Goal Contents (GCT)]]
-- [[Johnmarshall-Reeve-dates-not-verified|Johnmarshall Reeve (dates not verified)]]
-- [[Maarten-Vansteenkiste-1976–|Maarten Vansteenkiste (1976–)]]
-- [[Metatheory-as-Predictive-Constraint|Metatheory as Predictive Constraint]]
-- [[Methodological-Transparency|Methodological Transparency]]
-- [[Need-Frustration-Vansteenkiste-&-Ryan,-2013|Need Frustration (Vansteenkiste & Ryan, 2013)]]
-- *...and 65 more permanent notes*
+
+```dataview
+LIST FROM [[relationship-motivation-theory]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

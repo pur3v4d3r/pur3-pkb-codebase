@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Organisational-Routines"
+title: Organisational-Routines
 aliases:
-  - "Organisational-Routines"
+  - Organisational-Routines
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 44
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]"
-  - "[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]"
-  - "[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]"
-  - "[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]"
-  - "[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]"
-  - "[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]"
-  - "[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]"
-  - "[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]"
+  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
+  - '[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]'
+  - '[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]'
+  - '[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]'
+  - '[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]'
+  - '[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]'
+  - '[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Organisational-Routines
 
-> [!definition] **Organisational-Routines**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Organisational-Routines
+> - **Key-Term**: [[Organisational-Routines]]
+> - **Definition**: Organisational-routines are standardized procedures and practices that employees follow to accomplish tasks efficiently within an organization, often becoming habitual over time.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Organisational-routines serve as a foundational mechanism for maintaining consistency and efficiency in organizational operations. They help reduce cognitive load by providing structured ways of handling routine tasks, thereby allowing employees to focus on more complex issues.
 
+> [!analytical-insight] Explanation 2
+> These routines are applied through various means such as checklists, standard operating procedures (SOPs), and training programs. They can be formal or informal and are often embedded within the organizational culture.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the potential for routines to become rigid and resistant to change, which can hinder innovation and adaptability. Sub-variants of organisational-routines include cognitive forcing functions, which are designed to challenge assumptions and prevent errors.
+
+## Practical Implications
+
+> [!example] Application
+> In AI alignment and machine learning, understanding organisational-routines helps in designing systems that align with existing workflows and practices.
+
+> [!example] Application
+> Architectural descriptions vs. normative prescriptions highlight the importance of considering how routines fit into broader organizational structures and goals.
+
+## Connections
+
+**Related:** [[Cognitive-Forcing-Functions-Croskerry]] · [[Attribute-Substitution-Kahneman-Frederick]] · [[Cognitive-Miserliness-Stanovich]]
+
+**See Also (existing):**
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
 - [[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]
 - [[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]
 - [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]
-- [[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich,-2013|Default-Interventionist Architecture (Evans & Stanovich, 2013)]]
-- [[Default-Interventionist-vs.-Parallel-Competitive-Architectures|Default-Interventionist vs. Parallel-Competitive Architectures]]
-- [[Dimensional-Self-Scoring|Dimensional Self-Scoring]]
-- [[Dual-Process-Theory-Kahneman,-Stanovich,-Evans|Dual-Process Theory (Kahneman, Stanovich, Evans)]]
-- [[Education-and-Pedagogy|Education and Pedagogy]]
-- [[Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics]]
-- [[Heuristics-as-Bias-vs.-Heuristics-as-Adaptive-Tools-Kahneman-vs.-Gigerenzer|Heuristics-as-Bias vs. Heuristics-as-Adaptive-Tools (Kahneman vs. Gigerenzer)]]
-- [[High-Validity-Environment-Kahneman-&-Klein|High-Validity Environment (Kahneman & Klein)]]
-- [[Kahneman's-Heuristics-as-Bias-vs.-Gigerenzer's-Heuristics-as-Adaptive-Tools|Kahneman's Heuristics-as-Bias vs. Gigerenzer's Heuristics-as-Adaptive-Tools]]
-- [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
-- *...and 24 more permanent notes*
+
+```dataview
+LIST FROM [[Organisational-Routines]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

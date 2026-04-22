@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "inner-speech"
+title: inner-speech
 aliases:
-  - "inner-speech"
+  - inner-speech
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 90
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
-  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
-  - "[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]"
-  - "[[Attributional-Processes-in-Intergroup-Relations]]"
-  - "[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]"
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
+  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
+  - '[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]'
+  - '[[Attributional-Processes-in-Intergroup-Relations]]'
+  - '[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # inner-speech
 
-> [!definition] **inner-speech**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] inner-speech
+> - **Key-Term**: [[inner-speech]]
+> - **Definition**: Inner-speech refers to the silent, verbalized thoughts that occur within one's mind, often serving as a means of self-reflection and communication without external sound.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 90 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Inner-speech is a fundamental aspect of human cognition, enabling individuals to engage in internal dialogue and mental rehearsal. It plays a crucial role in problem-solving, decision-making, and emotional regulation.
 
+> [!analytical-insight] Explanation 2
+> The mechanism behind inner-speech involves the activation of language-related brain regions, such as Broca's area and Wernicke's area, which are also involved in external speech. This process allows for the generation and manipulation of thoughts through linguistic means without vocalization.
+
+> [!analytical-insight] Explanation 3
+> There are various sub-variants of inner-speech, including verbal thought, imagery-based thought, and abstract thinking. The theoretical roots of inner-speech can be traced back to cognitive psychology and neuroscience.
+
+## Practical Implications
+
+> [!example] Application
+> In therapeutic settings, understanding inner-speech can help in the development of techniques for managing anxiety and depression by retraining negative thought patterns.
+
+> [!example] Application
+> Inner-speech is also relevant in educational contexts, where it can inform strategies for enhancing learning through self-explanation and mental rehearsal.
+
+## Connections
+
+**Related:** [[Cognitive-Dissonance]] · [[Self-Talk]] · [[Working-Memory]]
+
+**See Also (existing):**
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
 - [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
 - [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- [[Controllability-Dimension-Weiner,-1979,-1985|Controllability Dimension (Weiner, 1979, 1985)]]
-- [[Controllability-and-the-Politics-of-Compassion|Controllability and the Politics of Compassion]]
-- [[Cross-Cultural-Thought-Experiment|Cross-Cultural Thought Experiment]]
-- [[Definition-Causal-Attribution|Definition Causal Attribution]]
-- [[Definition-Fundamental-Attribution-Error|Definition Fundamental Attribution Error]]
-- [[Distinction-Locus-of-Causality-vs.-Locus-of-Control|Distinction Locus of Causality vs. Locus of Control]]
-- [[Distinction-Outcome-Dependent-vs.-Attribution-Dependent-Emotions|Distinction Outcome-Dependent vs. Attribution-Dependent Emotions]]
-- *...and 70 more permanent notes*
+
+```dataview
+LIST FROM [[inner-speech]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

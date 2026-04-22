@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "MCP-Tools"
+title: MCP-Tools
 aliases:
-  - "MCP-Tools"
+  - MCP-Tools
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 70
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Abstract]]"
-  - "[[Annotation-Confidence-25|Annotation Confidence 25]]"
-  - "[[Annotation-Confidence-35|Annotation Confidence 35]]"
-  - "[[Annotation-Confidence-45|Annotation Confidence 45]]"
-  - "[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]"
-  - "[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]"
-  - "[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]"
-  - "[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]"
-  - "[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]"
-  - "[[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]"
+  - '[[Abstract]]'
+  - '[[Annotation-Confidence-25|Annotation Confidence 25]]'
+  - '[[Annotation-Confidence-35|Annotation Confidence 35]]'
+  - '[[Annotation-Confidence-45|Annotation Confidence 45]]'
+  - '[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]'
+  - '[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]'
+  - '[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]'
+  - '[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]'
+  - '[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]'
+  - '[[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # MCP-Tools
 
-> [!definition] **MCP-Tools**
-> *Stub note — concept referenced by 70 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] MCP-Tools
+> - **Key-Term**: [[MCP-Tools]]
+> - **Definition**: MCP-Tools is a suite of software development tools designed to enhance the quality and efficiency of code annotation, particularly for security and risk assessment purposes in software projects.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 70 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> MCP-Tools provides a framework for developers to annotate their code with metadata that reflects its security status, risks, and mitigations. This helps in identifying potential vulnerabilities early in the development lifecycle.
 
+> [!analytical-insight] Explanation 2
+> The tools include features such as annotation confidence levels (e.g., Annotation-Confidence-25, Annotation-Confidence-35) which allow developers to specify how confident they are about their annotations. These levels help in prioritizing code reviews and risk management strategies.
+
+> [!analytical-insight] Explanation 3
+> Key nuances involve the calibration of these confidence levels across different parts of a project, ensuring that all stakeholders have a consistent understanding of the security posture of the code.
+
+## Practical Implications
+
+> [!example] Application
+> Concrete application: Developers can use MCP-Tools to tag their code with annotations indicating potential risks and mitigations, which aids in automated security scans and manual reviews.
+
+> [!example] Application
+> A second distinct application: The tools facilitate better communication between developers and security teams by providing a standardized way of documenting security concerns.
+
+## Connections
+
+**Related:** [[Annotation-Confidence]] · [[Code-Quality-Assessment]] · [[Security-Scanning]]
+
+**See Also (existing):**
 - [[Abstract]]
 - [[Annotation-Confidence-25|Annotation Confidence 25]]
 - [[Annotation-Confidence-35|Annotation Confidence 35]]
@@ -73,16 +81,14 @@ importance: high
 - [[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]
 - [[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]
 - [[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]
-- [[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]
-- [[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]
-- [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
-- [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
-- [[Breakpoint]]
-- [[Cargo-Cult-Coding|Cargo-Cult Coding]]
-- [[Claim-2-Virtual-Environments-as-the-Critical-Operational-Concept|Claim 2 Virtual Environments as the Critical Operational Concept]]
-- [[Claim-3-Debugging-as-the-Primary-Site-of-Model-Formation|Claim 3 Debugging as the Primary Site of Model Formation]]
-- [[Claim-4-Copilot-Reverses-the-Traditional-Programming-Learning-Trajectory|Claim 4 Copilot Reverses the Traditional Programming Learning Trajectory]]
-- [[Claim-5-Project-Organization-as-Externalized-Cognitive-Architecture|Claim 5 Project Organization as Externalized Cognitive Architecture]]
-- [[Claim-6-Copilot-Bridges-the-Intent-Implementation-Gap-for-Domain-Specific-Tasks|Claim 6 Copilot Bridges the Intent-Implementation Gap for Domain-Specific Tasks]]
-- [[Claude's-Analytical-Perspective-Shifts-During-Analysis|Claude's Analytical Perspective Shifts During Analysis]]
-- *...and 50 more permanent notes*
+
+```dataview
+LIST FROM [[MCP-Tools]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

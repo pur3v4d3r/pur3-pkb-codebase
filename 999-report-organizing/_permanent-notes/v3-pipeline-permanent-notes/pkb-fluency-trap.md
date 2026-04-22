@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "pkb-fluency-trap"
+title: pkb-fluency-trap
 aliases:
-  - "pkb-fluency-trap"
+  - pkb-fluency-trap
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,72 @@ tags:
   - learning-science
 
 domain: learning-science
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 76
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Closing-Reflection|A Closing Reflection]]"
-  - "[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]"
-  - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
-  - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
-  - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]"
-  - "[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]"
-  - "[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]"
-  - "[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]"
-  - "[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]"
+  - '[[A-Closing-Reflection|A Closing Reflection]]'
+  - '[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]'
+  - '[[Activate-What-You-Already-Know|Activate What You Already Know]]'
+  - '[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]'
+  - '[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]'
+  - '[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]'
+  - '[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]'
+  - '[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]'
+  - '[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]'
+  - '[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # pkb-fluency-trap
 
-> [!definition] **pkb-fluency-trap**
-> *Stub note — concept referenced by 76 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] pkb-fluency-trap
+> - **Key-Term**: [[pkb-fluency-trap]]
+> - **Definition**: A pkb-fluency-trap refers to the phenomenon where frequent and repetitive engagement with a Personal Knowledge Base (PKB) leads to a superficial sense of mastery, obscuring deeper understanding or critical gaps in knowledge.
+> - **Domain**: learning-science
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 76 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The core mechanism involves the illusion of fluency, where repeated exposure to information creates an impression of familiarity and ease, which can mislead learners into believing they have mastered the material without achieving true comprehension or retention.
 
+> [!analytical-insight] Explanation 2
+> This works by making it easier for users to recall specific pieces of information from their PKB, but often at the cost of understanding underlying principles or connections between different concepts. The trap is that this fluency can lead to overconfidence and a false sense of security in one's knowledge base.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between surface-level familiarity and deep understanding, as well as the role of spaced repetition and varied practice in mitigating this effect.
+
+## Practical Implications
+
+> [!example] Application
+> In practical terms, users may rely too heavily on their PKB for quick recall rather than engaging in deeper cognitive processing that leads to true mastery.
+
+> [!example] Application
+> This can result in a lack of transferability of knowledge across different contexts or situations, as the user's reliance on fluency-based recall hinders the development of flexible and adaptable expertise.
+
+## Open Threads
+
+> [!open-question] Question
+> How can PKB design address the pkb-fluency-trap to foster genuine expertise rather than superficial fluency?
+
+## Connections
+
+**Related:** [[Adaptive-Expertise]] · [[Routine-Expertise]] · [[Spaced-Repetition]]
+
+**See Also (existing):**
 - [[A-Closing-Reflection|A Closing Reflection]]
 - [[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
@@ -73,16 +86,14 @@ importance: high
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
-- [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
-- [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
-- [[Chunking-in-Second-Language-Acquisition]]
-- [[Connection-Expertise-Reversal-Effect-Mechanism|Connection Expertise Reversal Effect Mechanism]]
-- [[Connection-Why-Failure-Modes-are-Inseparable-from-Benefits|Connection Why Failure Modes are Inseparable from Benefits]]
-- [[Cultural-Transmission-as-Inter-Generational-Chunking|Cultural Transmission as Inter-Generational Chunking]]
-- [[Definition-Chunk|Definition Chunk]]
-- [[Definition-Long-Term-Working-Memory|Definition Long-Term Working Memory]]
-- [[Deliberate-Practice-Ericsson,-Krampe-&-Tesch-Römer,-1993|Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993)]]
-- [[Designing-PKB-Notes-as-External-Chunks|Designing PKB Notes as External Chunks]]
-- [[Diagnosing-Whether-an-Activity-Qualifies-as-Deliberate-Practice|Diagnosing Whether an Activity Qualifies as Deliberate Practice]]
-- [[Distinction-Template-vs.-Chunk|Distinction Template vs. Chunk]]
-- *...and 56 more permanent notes*
+
+```dataview
+LIST FROM [[pkb-fluency-trap]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

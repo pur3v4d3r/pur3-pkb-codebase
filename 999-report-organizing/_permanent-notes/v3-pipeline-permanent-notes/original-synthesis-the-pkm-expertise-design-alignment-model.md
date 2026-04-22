@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "original-synthesis-the-pkm-expertise-design-alignment-model"
+title: original-synthesis-the-pkm-expertise-design-alignment-model
 aliases:
-  - "original-synthesis-the-pkm-expertise-design-alignment-model"
+  - original-synthesis-the-pkm-expertise-design-alignment-model
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,72 @@ tags:
   - philosophy
 
 domain: philosophy
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 76
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Closing-Reflection|A Closing Reflection]]"
-  - "[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]"
-  - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
-  - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
-  - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]"
-  - "[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]"
-  - "[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]"
-  - "[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]"
-  - "[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]"
+  - '[[A-Closing-Reflection|A Closing Reflection]]'
+  - '[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]'
+  - '[[Activate-What-You-Already-Know|Activate What You Already Know]]'
+  - '[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]'
+  - '[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]'
+  - '[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]'
+  - '[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]'
+  - '[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]'
+  - '[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]'
+  - '[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # original-synthesis-the-pkm-expertise-design-alignment-model
 
-> [!definition] **original-synthesis-the-pkm-expertise-design-alignment-model**
-> *Stub note — concept referenced by 76 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] original-synthesis-the-pkm-expertise-design-alignment-model
+> - **Key-Term**: [[original-synthesis-the-pkm-expertise-design-alignment-model]]
+> - **Definition**: The original-synthesis-the-pkm-expertise-design-alignment-model is a framework that integrates personal knowledge management (PKM) practices to enhance the design and alignment of expertise, particularly in adaptive and routine contexts.
+> - **Domain**: philosophy
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 76 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> This model posits that effective expertise development requires a synthesis of internal cognitive processes with external PKM strategies. It emphasizes the importance of leveraging existing knowledge while continuously integrating new information through deliberate practice and reflective learning.
 
+> [!analytical-insight] Explanation 2
+> In practice, this involves designing PKM systems that support the acquisition, retention, and application of knowledge in ways that align with individual learning styles and professional goals. The model advocates for a dynamic approach to expertise development, where practitioners actively engage in reflective practices and use external tools to enhance their cognitive architecture.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between adaptive and routine expertise, as well as the role of deliberate practice in building robust knowledge structures.
+
+## Practical Implications
+
+> [!example] Application
+> In real-world applications, this model can help professionals develop more effective learning strategies by integrating PKM tools with traditional educational methods.
+
+> [!example] Application
+> It also provides a framework for organizations to design training programs that foster both adaptive and routine expertise among their employees.
+
+## Open Threads
+
+> [!open-question] Question
+> The model raises questions about the balance between internal cognitive processes and external PKM tools in expertise development.
+
+## Connections
+
+**Related:** [[Adaptive-Expertise-Hatano-&-Inagaki]] · [[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture]] · [[Application-Designing-PKB-Notes-as-External-Chunks]]
+
+**See Also (existing):**
 - [[A-Closing-Reflection|A Closing Reflection]]
 - [[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
@@ -73,16 +86,14 @@ importance: high
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
-- [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
-- [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
-- [[Chunking-in-Second-Language-Acquisition]]
-- [[Connection-Expertise-Reversal-Effect-Mechanism|Connection Expertise Reversal Effect Mechanism]]
-- [[Connection-Why-Failure-Modes-are-Inseparable-from-Benefits|Connection Why Failure Modes are Inseparable from Benefits]]
-- [[Cultural-Transmission-as-Inter-Generational-Chunking|Cultural Transmission as Inter-Generational Chunking]]
-- [[Definition-Chunk|Definition Chunk]]
-- [[Definition-Long-Term-Working-Memory|Definition Long-Term Working Memory]]
-- [[Deliberate-Practice-Ericsson,-Krampe-&-Tesch-Römer,-1993|Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993)]]
-- [[Designing-PKB-Notes-as-External-Chunks|Designing PKB Notes as External Chunks]]
-- [[Diagnosing-Whether-an-Activity-Qualifies-as-Deliberate-Practice|Diagnosing Whether an Activity Qualifies as Deliberate Practice]]
-- [[Distinction-Template-vs.-Chunk|Distinction Template vs. Chunk]]
-- *...and 56 more permanent notes*
+
+```dataview
+LIST FROM [[original-synthesis-the-pkm-expertise-design-alignment-model]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

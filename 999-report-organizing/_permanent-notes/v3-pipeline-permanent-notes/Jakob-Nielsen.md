@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Jakob-Nielsen"
+title: Jakob-Nielsen
 aliases:
-  - "Jakob-Nielsen"
+  - Jakob-Nielsen
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
-  - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
+  - '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]'
+  - '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
+  - '[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]'
+  - '[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]'
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
-  - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
-  - "[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]"
-  - "[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]"
-  - "[[Design-Application-Exercise|Design Application Exercise]]"
-  - "[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]"
+  - '[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]'
+  - '[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]'
+  - '[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]'
+  - '[[Design-Application-Exercise|Design Application Exercise]]'
+  - '[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Jakob-Nielsen
 
-> [!definition] **Jakob-Nielsen**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Jakob-Nielsen
+> - **Key-Term**: [[Jakob-Nielsen]]
+> - **Definition**: Jakob-Nielsen is a user experience (UX) and human-computer interaction (HCI) expert known for his work on web usability, particularly the concept of 'Jakob’s Law', which states that users expect a website to work similarly to those they already know.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Jakob-Nielsen's foundational contribution is the principle of 'Jakob’s Law', which posits that users prefer websites that are familiar and consistent with their previous experiences. This law emphasizes the importance of adhering to established patterns in web design to enhance user satisfaction and reduce cognitive load.
 
+> [!analytical-insight] Explanation 2
+> In practice, Jakob-Nielsen advocates for designing interfaces based on common user expectations rather than inventing new conventions. His work has influenced UX designers to prioritize simplicity, consistency, and intuitive navigation in their designs.
+
+> [!analytical-insight] Explanation 3
+> Jakob-Nielsen's principles are rooted in the broader field of human-computer interaction (HCI) and cognitive psychology, particularly the concept of mental models and how users form expectations based on prior experiences.
+
+## Practical Implications
+
+> [!example] Application
+> Adhering to Jakob’s Law can significantly improve user satisfaction and reduce the learning curve for new websites or applications.
+
+> [!example] Application
+> Designers should focus on familiar patterns and avoid introducing unnecessary complexity that could confuse users.
+
+## Connections
+
+**Related:** [[User-Centered-Design]] · [[Cognitive-Load-Theory-Sweller,-1988]] · [[Mental-Model]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
@@ -73,16 +81,14 @@ importance: high
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
 - [[Core-CLT-Argument-Structure|Core CLT Argument Structure]]
-- [[Design-Application-Exercise|Design Application Exercise]]
-- [[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]
-- [[Domain-2-User-Interface-and-Human-Computer-Interaction-Design|Domain 2 User Interface and Human-Computer Interaction Design]]
-- [[Domain-3-Athletic-Coaching-and-Motor-Skill-Acquisition|Domain 3 Athletic Coaching and Motor Skill Acquisition]]
-- [[Domain-4-Personal-Knowledge-Management-and-PKB-Architecture|Domain 4 Personal Knowledge Management and PKB Architecture]]
-- [[Element-Interactivity-Sweller,-1994|Element Interactivity (Sweller, 1994)]]
-- [[Element-Interactivity-in-Practice-Two-Learning-Tasks|Element Interactivity in Practice Two Learning Tasks]]
-- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
-- [[Expertise-Reversal-Effect-Kalyuga,-Ayres,-Chandler,-Sweller,-2003|Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
-- [[Expertise-Reversal-in-Programming-Instruction|Expertise Reversal in Programming Instruction]]
-- [[Extraneous-Cognitive-Load-Sweller,-Ayres,-&-Kalyuga,-2011|Extraneous Cognitive Load (Sweller, Ayres, & Kalyuga, 2011)]]
-- [[Extraneous-Cognitive-Load-Sweller,-Chandler,-1991|Extraneous Cognitive Load (Sweller, Chandler, 1991)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[Jakob-Nielsen]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

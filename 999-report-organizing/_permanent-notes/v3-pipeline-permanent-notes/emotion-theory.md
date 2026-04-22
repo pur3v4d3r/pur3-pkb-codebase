@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "emotion-theory"
+title: emotion-theory
 aliases:
-  - "emotion-theory"
+  - emotion-theory
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 90
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
-  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
-  - "[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]"
-  - "[[Attributional-Processes-in-Intergroup-Relations]]"
-  - "[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]"
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
+  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
+  - '[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]'
+  - '[[Attributional-Processes-in-Intergroup-Relations]]'
+  - '[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # emotion-theory
 
-> [!definition] **emotion-theory**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] emotion-theory
+> - **Key-Term**: [[emotion-theory]]
+> - **Definition**: Emotion theory refers to the scientific study of emotions, including their nature, causes, and effects on behavior and cognition.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 90 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Emotion theories aim to explain how emotions are generated, experienced, and expressed. They often focus on the interplay between cognitive appraisals and emotional responses.
 
+> [!analytical-insight] Explanation 2
+> These theories can be applied in various fields such as psychology, neuroscience, and social sciences to understand human behavior and mental processes better.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include differentiating between primary and secondary emotions, and how cultural and individual differences influence emotional experiences.
+
+## Practical Implications
+
+> [!example] Application
+> In clinical settings, emotion theories help therapists understand patient emotions and develop effective treatment strategies for conditions like depression.
+
+> [!example] Application
+> In marketing, understanding consumer emotions can lead to more effective advertising campaigns that resonate with target audiences.
+
+## Connections
+
+**Related:** [[Cognitive Appraisal]] · [[Affect Theory]] · [[Emotion Regulation]]
+
+**See Also (existing):**
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
 - [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
 - [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- [[Controllability-Dimension-Weiner,-1979,-1985|Controllability Dimension (Weiner, 1979, 1985)]]
-- [[Controllability-and-the-Politics-of-Compassion|Controllability and the Politics of Compassion]]
-- [[Cross-Cultural-Thought-Experiment|Cross-Cultural Thought Experiment]]
-- [[Definition-Causal-Attribution|Definition Causal Attribution]]
-- [[Definition-Fundamental-Attribution-Error|Definition Fundamental Attribution Error]]
-- [[Distinction-Locus-of-Causality-vs.-Locus-of-Control|Distinction Locus of Causality vs. Locus of Control]]
-- [[Distinction-Outcome-Dependent-vs.-Attribution-Dependent-Emotions|Distinction Outcome-Dependent vs. Attribution-Dependent Emotions]]
-- *...and 70 more permanent notes*
+
+```dataview
+LIST FROM [[emotion-theory]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

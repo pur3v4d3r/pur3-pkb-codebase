@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Goal-Setting-in-Personal-Knowledge-Management"
+title: Goal-Setting-in-Personal-Knowledge-Management
 aliases:
-  - "Goal-Setting-in-Personal-Knowledge-Management"
+  - Goal-Setting-in-Personal-Knowledge-Management
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 49
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]"
-  - "[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]"
-  - "[[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]"
-  - "[[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]"
-  - "[[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]"
-  - "[[Directive-Function|Directive Function]]"
-  - "[[Educational-Goal-Setting|Educational Goal Setting]]"
-  - "[[Goal-Commitment|Goal Commitment]]"
-  - "[[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]"
-  - "[[Goal-Difficulty|Goal Difficulty]]"
+  - '[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]'
+  - '[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]'
+  - '[[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]'
+  - '[[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]'
+  - '[[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]'
+  - '[[Directive-Function|Directive Function]]'
+  - '[[Educational-Goal-Setting|Educational Goal Setting]]'
+  - '[[Goal-Commitment|Goal Commitment]]'
+  - '[[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]'
+  - '[[Goal-Difficulty|Goal Difficulty]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Goal-Setting-in-Personal-Knowledge-Management
 
-> [!definition] **Goal-Setting-in-Personal-Knowledge-Management**
-> *Stub note — concept referenced by 49 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Goal-Setting-in-Personal-Knowledge-Management
+> - **Key-Term**: [[Goal-Setting-in-Personal-Knowledge-Management]]
+> - **Definition**: Goal-setting in personal knowledge management refers to the process of defining specific, measurable objectives for enhancing one's knowledge and skills, which is crucial for effective learning and skill development in various domains such as education, professional growth, and personal development.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 49 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The core mechanism involves setting clear, achievable goals that are tailored to individual needs and aspirations. This process helps individuals focus their efforts on specific areas of improvement, thereby enhancing their knowledge management capabilities.
 
+> [!analytical-insight] Explanation 2
+> In practice, goal-setting in PKM often involves breaking down broader objectives into smaller, manageable tasks or milestones. Techniques such as the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound) are commonly used to ensure goals are well-defined and actionable.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include differentiating between quantitative and qualitative aspects of knowledge, recognizing that some goals may be more about developing a certain mindset or attitude towards learning rather than just acquiring specific information.
+
+## Practical Implications
+
+> [!example] Application
+> Improves focus and motivation by providing clear direction for learning activities.
+
+> [!example] Application
+> Enhances the efficiency of knowledge acquisition through structured planning and prioritization.
+
+## Connections
+
+**Related:** [[Athletic-and-Musical-Practice]] · [[Autonomous-vs.-Controlled-Commitment-integrating-SDT]] · [[Clinical-and-Health-Behavior-Change]] · [[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable]] · [[Cross-Domain-Application-Engineering-Discipline]]
+
+**See Also (existing):**
 - [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
 - [[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]
@@ -73,16 +81,14 @@ importance: high
 - [[Directive-Function|Directive Function]]
 - [[Educational-Goal-Setting|Educational Goal Setting]]
 - [[Goal-Commitment|Goal Commitment]]
-- [[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]
-- [[Goal-Difficulty|Goal Difficulty]]
-- [[Goal-Setting-Theory-Locke-&-Latham,-formalized-1990|Goal Setting Theory (Locke & Latham, formalized 1990)]]
-- [[Goal-Setting-Theory-in-the-Knowledge-Graph|Goal Setting Theory in the Knowledge Graph]]
-- [[Goal-Specificity|Goal Specificity]]
-- [[Goal-Setting–SDT-Reconciliation-via-the-Quality-of-Commitment|Goal-Setting–SDT Reconciliation via the Quality of Commitment]]
-- [[High-Performance-Cycle|High Performance Cycle]]
-- [[Honest-Self-Scoring-of-This-Report|Honest Self-Scoring of This Report]]
-- [[How-This-Report-Was-Constructed|How This Report Was Constructed]]
-- [[Implementation-Intention-Gollwitzer,-1999|Implementation Intention (Gollwitzer, 1999)]]
-- [[Metacognitive-Closing-Prompt|Metacognitive Closing Prompt]]
-- [[Performance-Gains-vs.-Performance-Pathologies|Performance Gains vs. Performance Pathologies]]
-- *...and 29 more permanent notes*
+
+```dataview
+LIST FROM [[Goal-Setting-in-Personal-Knowledge-Management]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

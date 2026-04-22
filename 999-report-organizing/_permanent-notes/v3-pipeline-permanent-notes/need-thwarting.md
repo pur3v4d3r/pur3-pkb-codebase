@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "need-thwarting"
+title: need-thwarting
 aliases:
-  - "need-thwarting"
+  - need-thwarting
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 189
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]"
-  - "[[Autonomous-Motivation|Autonomous Motivation]]"
-  - "[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]"
-  - "[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]"
-  - "[[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]"
-  - "[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]"
-  - "[[Autonomy-≠-Independence|Autonomy ≠ Independence]]"
-  - "[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]"
-  - "[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]"
-  - "[[Basic-Psychological-Need-in-SDT|Basic Psychological Need (in SDT)]]"
+  - '[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]'
+  - '[[Autonomous-Motivation|Autonomous Motivation]]'
+  - '[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]'
+  - '[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]'
+  - '[[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]'
+  - '[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]'
+  - '[[Autonomy-≠-Independence|Autonomy ≠ Independence]]'
+  - '[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]'
+  - '[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]'
+  - '[[Basic-Psychological-Need-in-SDT|Basic Psychological Need (in SDT)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # need-thwarting
 
-> [!definition] **need-thwarting**
-> *Stub note — concept referenced by 189 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] need-thwarting
+> - **Key-Term**: [[need-thwarting]]
+> - **Definition**: Need-thwarting refers to the psychological experience of having one's needs being unmet, leading to dissatisfaction and potentially negative emotional states such as frustration or anxiety.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 189 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Need-thwarting is a fundamental concept in motivational psychology that describes the state where an individual perceives their basic needs are not being satisfied. This can occur in various contexts, from personal relationships to work environments, and it often leads to a sense of dissatisfaction and reduced well-being.
 
+> [!analytical-insight] Explanation 2
+> In practice, need-thwarting operates by disrupting the fulfillment of essential psychological needs such as autonomy, competence, or relatedness, which are central to human motivation according to Self-Determination Theory (SDT). When these needs are thwarted, individuals may experience decreased intrinsic motivation and increased negative emotions like frustration or anxiety.
+
+> [!analytical-insight] Explanation 3
+> The concept is rooted in theories of motivation that emphasize the importance of meeting basic psychological needs for optimal functioning. SDT posits that autonomy, competence, and relatedness are universal human needs that must be satisfied to foster healthy development and well-being.
+
+## Practical Implications
+
+> [!example] Application
+> In a work context, need-thwarting can lead to decreased job satisfaction and increased turnover rates among employees who feel their basic psychological needs are not being met by their organization.
+
+> [!example] Application
+> In personal relationships, need-thwarting can strain connections when partners or friends do not fulfill each other's emotional or social needs, leading to conflicts and reduced relationship quality.
+
+## Connections
+
+**Related:** [[Self-Determination-Theory]] · [[Autonomy]] · [[Competence]] · [[Relatedness]]
+
+**See Also (existing):**
 - [[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]
 - [[Autonomous-Motivation|Autonomous Motivation]]
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]
 - [[Autonomy-≠-Independence|Autonomy ≠ Independence]]
 - [[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]
-- [[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]
-- [[Basic-Psychological-Need-in-SDT|Basic Psychological Need (in SDT)]]
-- [[Basic-Psychological-Needs|Basic Psychological Needs]]
-- [[Beiwen-Chen-and-Cross-Cultural-SDT-Researchers|Beiwen Chen and Cross-Cultural SDT Researchers]]
-- [[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]
-- [[Central-Claim-of-OIT|Central Claim of OIT]]
-- [[Claude's-Specialist-Observation-Edge-Cases-as-Theory-Diagnostics|Claude's Specialist Observation Edge Cases as Theory Diagnostics]]
-- [[Claude's-Specialist-Observation-The-Frontier-Has-a-Shape|Claude's Specialist Observation The Frontier Has a Shape]]
-- [[Claude's-Specialist-Observation-The-Surface-Underdetermines-the-Mechanism|Claude's Specialist Observation The Surface Underdetermines the Mechanism]]
-- [[Claude's-Specialist-Observation-Why-Three-Needs-Is-Not-Arbitrary|Claude's Specialist Observation Why Three Needs Is Not Arbitrary]]
-- [[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]
-- [[Competence-in-the-SDT-technical-sense|Competence (in the SDT technical sense)]]
-- *...and 169 more permanent notes*
+
+```dataview
+LIST FROM [[need-thwarting]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

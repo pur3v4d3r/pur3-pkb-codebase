@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "epistemic-curiosity"
+title: epistemic-curiosity
 aliases:
-  - "epistemic-curiosity"
+  - epistemic-curiosity
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - philosophy
 
 domain: philosophy
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
-  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
-  - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
-  - "[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]"
-  - "[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]"
-  - "[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]"
-  - "[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]"
-  - "[[Connection-SDT-and-SDL|Connection SDT and SDL]]"
-  - "[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]"
+  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
+  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
+  - '[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]'
+  - '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
+  - '[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]'
+  - '[[Connection-SDT-and-SDL|Connection SDT and SDL]]'
+  - '[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]'
   - "[[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # epistemic-curiosity
 
-> [!definition] **epistemic-curiosity**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] epistemic-curiosity
+> - **Key-Term**: [[epistemic-curiosity]]
+> - **Definition**: Epistemic curiosity is the drive to seek out and acquire knowledge, driven by an intrinsic desire to understand and explore the world around us.
+> - **Domain**: philosophy
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Epistemic curiosity is rooted in a deep-seated human need to make sense of our environment. It involves a proactive engagement with new information and ideas, often leading to a deeper understanding or resolution of problems.
 
+> [!analytical-insight] Explanation 2
+> In practice, epistemic curiosity can manifest as a persistent questioning of assumptions, seeking out diverse perspectives, and engaging in lifelong learning. This drive is particularly evident in educational settings where students actively seek knowledge beyond the curriculum.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between epistemic curiosity and other forms of curiosity, such as existential or aesthetic curiosity. Epistemic curiosity specifically pertains to the pursuit of understanding through systematic inquiry.
+
+## Practical Implications
+
+> [!example] Application
+> In education, fostering epistemic curiosity can lead to more effective learning outcomes by encouraging students to engage deeply with material and develop critical thinking skills.
+
+> [!example] Application
+> In professional settings, individuals driven by epistemic curiosity are likely to excel in roles that require continuous learning and adaptation.
+
+## Connections
+
+**Related:** [[Autonomy]] · [[Metacognition]] · [[Lifelong-learning]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
@@ -73,16 +81,14 @@ importance: high
 - [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
 - [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
 - [[Connection-SDT-and-SDL|Connection SDT and SDL]]
-- [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
-- [[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]
-- [[Definition-Heutagogy|Definition Heutagogy]]
-- [[Definition-Self-Directed-Learning|Definition Self-Directed Learning]]
-- [[Directions-for-Further-Investigation|Directions for Further Investigation]]
-- [[Distinction-SDL-vs.-SRL|Distinction SDL vs. SRL]]
-- [[Distinction-Technical-vs.-Critical-Self-Direction|Distinction Technical vs. Critical Self-Direction]]
-- [[Entrepreneurship-Venture-Building-as-Self-Directed-Learning|Entrepreneurship Venture Building as Self-Directed Learning]]
-- [[Garrison's-Comprehensive-Model-of-Self-Directed-Learning-1997|Garrison's Comprehensive Model of Self-Directed Learning (1997)]]
-- [[Grow's-Stage-Diagnostic-Checklist|Grow's Stage Diagnostic Checklist]]
-- [[Grow's-Staged-Self-Directed-Learning-Model-Grow,-1991|Grow's Staged Self-Directed Learning Model (Grow, 1991)]]
-- [[Heutagogy-Hase-&-Kenyon,-2000|Heutagogy (Hase & Kenyon, 2000)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[epistemic-curiosity]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

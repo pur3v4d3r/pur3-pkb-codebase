@@ -3,2686 +3,2124 @@ WIKI_LINK NAMES_ This is for use in generation of Wiki-links !IMPORTANT USE EVER
 These are the note names of my permanent note collection use these as the Wiki-link pipe etc to make saure future generation connects to pre existing notes correctly 
 
 
-# 📁 v3-pipeline-permanent-notes
-
-**Generated:** 2026-04-22T08:13:53.947Z
-**Generation time:** 132 ms
-**Items processed:** 2673
-
-## Directory tree
-```
 📁 v3-pipeline-permanent-notes
+⏱️  Generated in 22 ms
 ──────────────────────────────────────────────────
-├── 2×2-Achievement-Goal-Framework.md (7.2 KB)
-├── 4CID and Individual Differences Beyond One-Size-Fits-All Sequencing.md (7.8 KB)
-├── 4CID Blueprint Completeness Checklist.md (8.2 KB)
-├── 4CID Dual-Mechanism Architecture.md (10.9 KB)
-├── 4e-cognition.md (5.8 KB)
-├── 2026-04-20-2152-srl-session.md (6.9 KB)
-├── A Closing Reflection.md (5.8 KB)
-├── A Common Misreading.md (6.7 KB)
-├── A Concrete Trajectory How Deliberate Practice Builds the Architecture.md (6.5 KB)
-├── A Debugging Workflow in Practice.md (5.5 KB)
-├── A Forethought Template in Practice.md (7.8 KB)
-├── A PKM-Specific Implementation Intention Stack.md (5.3 KB)
-├── A Reflection on the Construct's Quiet Significance.md (5.5 KB)
-├── A Reframing of the Self-Regulation Problem.md (5.5 KB)
-├── A Single Learner Through Multiple Lenses.md (7.1 KB)
-├── A Worked Example of MCII for Academic Behavior.md (5.5 KB)
-├── A Worked Example to Hold in Mind.md (6.0 KB)
-├── A Working settings.json for Python Development.md (5.8 KB)
-├── abraham-maslow.md (6.9 KB)
-├── Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans Critique and.md (8.7 KB)
-├── Abstract.md (10.1 KB)
-├── Abstraction.md (6.1 KB)
-├── Academic-Burnout-and-Wellbeing.md (6.8 KB)
-├── academic-emotions.md (7.1 KB)
-├── Academic-Help-Seeking.md (6.5 KB)
-├── accessibility-heuristic.md (7.0 KB)
-├── Achievement Goal (Achievement Goal Theory tradition).md (7.9 KB)
-├── Achievement Goal.md (7.8 KB)
-├── Achievement-Emotions-—-Pekrun's-Control-Value-Theory.md (7.2 KB)
-├── achievement-goal-theory.md (6.6 KB)
-├── achievement-motivation.md (6.8 KB)
-├── act-r-theory.md (6.5 KB)
-├── Action Phase Model (Heckhausen & Gollwitzer, 1987).md (6.0 KB)
-├── Action Phase Model (Heckhausen).md (6.3 KB)
-├── action-phase-model.md (6.7 KB)
-├── Activate What You Already Know.md (6.4 KB)
-├── Activating Prior Knowledge for This Report.md (8.3 KB)
-├── Activating Prior Knowledge The Bottleneck You Already Navigate.md (8.6 KB)
-├── Activating Prior Knowledge Where to Position This Report in Your Existing Map.md (7.9 KB)
-├── Activating Prior Knowledge.md (9.5 KB)
-├── active-inference.md (5.8 KB)
-├── active-learning.md (6.3 KB)
-├── active-note-making.md (6.8 KB)
-├── Active-Open-Mindedness.md (7.0 KB)
-├── Active-Recall.md (6.9 KB)
-├── actor-observer-asymmetry.md (6.8 KB)
-├── Adaptive 4CID Optimal Real-Time Adjustment Algorithms.md (7.9 KB)
-├── Adaptive Expertise (Hatano & Inagaki).md (6.2 KB)
-├── Adaptive Help-Seeking.md (7.8 KB)
-├── Adaptive Instruction Real-Time Learning Environment Optimization.md (8.4 KB)
-├── Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis.md (5.7 KB)
-├── adaptive-expertise.md (6.6 KB)
-├── Adaptive-Help-Seeking-As-a-Regulatory-Skill.md (10.7 KB)
-├── adaptive-help-seeking-vs.-avoidant-help-seeking.md (6.8 KB)
-├── Adaptive-Instruction.md (6.7 KB)
-├── adaptive-learning.md (7.0 KB)
-├── adaptive-self-reaction.md (6.8 KB)
-├── Adriaan de Groot (1914–2006).md (5.3 KB)
-├── Adriaanse, M. A., Vinkers, C. D., De Ridder, D. T., Hox, J. J., & De Wit, J. B. (2011). Do implementation intentions.md (5.5 KB)
-├── Adult-Learning.md (7.2 KB)
-├── advance-organizer.md (7.2 KB)
-├── Advance-Organizers-and-Prior-Knowledge-Activation.md (7.0 KB)
-├── Affect-as-Information-Theory.md (7.1 KB)
-├── agent-prompt-engineering.md (6.6 KB)
-├── agentic-prompt-engineering-workflows.md (6.3 KB)
-├── AGQ-—-Achievement-Goals-Questionnaire.md (7.3 KB)
-├── Ahrens, S. (2017). How to Take Smart Notes One Simple Technique to Boost Writing, Learning, and Thinking. Sönke Ahrens.md (9.3 KB)
-├── AI Agent Development and Prompt Engineering.md (6.2 KB)
-├── AI Alignment and Machine Learning.md (8.5 KB)
-├── AI Assistance vs. Learning Depth.md (6.1 KB)
-├── AI-Agent-Architecture.md (6.2 KB)
-├── AI-Agents.md (6.2 KB)
-├── AI-Alignment.md (7.0 KB)
-├── AI-Assisted Learning Environments and the Future of Efficacy Cultivation.md (7.5 KB)
-├── AI-Assisted-Development-Workflows-Comparative-Analysis.md (6.3 KB)
-├── AI-Assisted-Reading-Risks-and-Safeguards.md (7.7 KB)
-├── AI-Hallucination.md (6.6 KB)
-├── ai-pkb-integration.md (6.7 KB)
-├── Alan Baddeley (1934–).md (7.9 KB)
-├── alan-baddeley.md (6.8 KB)
-├── Albert Bandura (1925–2021) — Stanford University.md (6.0 KB)
-├── Albert Bandura (1925–2021).md (8.1 KB)
-├── albert-bandura.md (6.8 KB)
-├── Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work.md (7.3 KB)
-├── Allen Tough (1936–2012) — Ontario Institute for Studies in Education.md (6.6 KB)
-├── Allen Tough (1936–2012) — University of Toronto.md (9.2 KB)
-├── allen-tough.md (6.6 KB)
-├── Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271.md (6.8 KB)
-├── Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation.md (6.9 KB)
-├── Amos Tversky (1937–1996) — Stanford University, formerly Hebrew University.md (7.7 KB)
-├── amos-tversky.md (7.0 KB)
-├── amotivation.md (6.4 KB)
-├── Anastasia Efklides (1949– ), Aristotle University of Thessaloniki.md (10.4 KB)
-├── Anastasia-Efklides.md (6.4 KB)
-├── Anchoring-and-Adjustment.md (7.0 KB)
-├── anchoring-effects.md (7.0 KB)
-├── anders-ericsson.md (6.6 KB)
-├── Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89(4), 369–406.md (5.4 KB)
-├── Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press.md (7.8 KB)
-├── Andragogy (Knowles, 1968, 1980).md (8.0 KB)
-├── Andragogy (Knowles).md (10.7 KB)
-├── andragogy.md (6.6 KB)
-├── Andrew J. Elliot (1962– ) — University of Rochester.md (6.6 KB)
-├── andrew-j.-elliot.md (7.2 KB)
-├── Andy Clark (1957–) & David Chalmers (1966–).md (7.4 KB)
-├── andy-clark.md (7.2 KB)
-├── anki.md (7.1 KB)
-├── Ann L. Brown (1943–1999) — University of California, Berkeley.md (7.9 KB)
-├── Ann L. Brown (1943–1999).md (7.9 KB)
-├── ann-brown.md (7.1 KB)
-├── ann-l.-brown.md (6.9 KB)
-├── Anneliese-Palincsar.md (6.9 KB)
-├── Annemarie Sullivan Palincsar — University of Michigan.md (7.6 KB)
-├── Annotation Confidence 25.md (6.7 KB)
-├── Annotation Confidence 35.md (12.8 KB)
-├── Annotation Confidence 45 for the risks; 35 for the mitigations.md (7.1 KB)
-├── Annotation Confidence 45.md (6.2 KB)
-├── Annotation Coverage Gap — Terminal Proficiency and Command-Line Development.md (6.9 KB)
-├── Annotation Coverage Gap — Testing and Code Quality.md (6.8 KB)
-├── Annotation Cross-Section Confidence Calibration.md (6.9 KB)
-├── Annotation Methodological Limitation — Single Perspective.md (6.7 KB)
-├── Anthropic-API.md (6.2 KB)
-├── anxiety.md (7.0 KB)
-├── API-Cost-Optimization-Strategies.md (6.2 KB)
-├── API-Design-Patterns.md (6.2 KB)
-├── API-Fundamentals.md (6.2 KB)
-├── api.md (6.0 KB)
-├── appellate-review-as-metacognitive-check.md (7.0 KB)
-├── Application Attribution Retraining's Two-Stage Architecture.md (8.5 KB)
-├── Application Designing PKB Notes as External Chunks.md (5.5 KB)
-├── Application Desirable Difficulties and Monitoring.md (7.9 KB)
-├── Application Distinguishing Genuine Expertise from Pseudoexpertise.md (5.6 KB)
-├── Application MCII Compound Intervention.md (5.0 KB)
-├── Application PKM Recursive Architecture.md (5.0 KB)
-├── Application The Readiness Paradox.md (6.4 KB)
-├── Application Why Self-Explanation Works.md (7.6 KB)
-├── Applying the Ten Steps Teacher Education.md (8.3 KB)
-├── Apprenticeship.md (6.7 KB)
-├── Architectural Description vs. Normative Prescription.md (8.1 KB)
-├── architecture-patterns.md (6.1 KB)
-├── Argument Map — Report Structure and Claim Dependencies.md (9.2 KB)
-├── Argument Map Central Thesis and Supporting Claims.md (7.1 KB)
-├── Argument Map Enablement-Risk Dialectic.md (6.3 KB)
-├── Artificial Intelligence Architecture as Engineered Chunking.md (6.7 KB)
-├── Artificial Intelligence Self-Monitoring Systems.md (8.4 KB)
-├── Asher Koriat (b. 1942).md (8.0 KB)
-├── Asher-Koriat.md (7.1 KB)
-├── aspiration-index.md (6.9 KB)
-├── Assessment as the Completion of the Scaffolding-Sovereignty Progression.md (9.6 KB)
-├── Assessment for Autonomy.md (7.7 KB)
-├── Assessment for Learning Formative Assessment as a Developmental Practice.md (9.6 KB)
-├── Assessment-Design-&-Goal-Orientation.md (7.3 KB)
-├── assessment-design.md (6.7 KB)
-├── Assessment-for-Learning.md (6.8 KB)
-├── assimilation-and-accommodation.md (7.2 KB)
-├── Associative-Learning.md (7.4 KB)
-├── Async-Programming.md (6.1 KB)
-├── Athletic and Musical Practice.md (7.1 KB)
-├── Athletic Coaching and Physical Skill Development.md (7.9 KB)
-├── Athletic Coaching and the Engineering of Performance Confidence.md (6.7 KB)
-├── Athletic Skill Acquisition and Motor Learning.md (10.5 KB)
-├── Athletic Training and Performance Development.md (7.4 KB)
-├── atomic-note.md (6.6 KB)
-├── atomic-notes.md (7.2 KB)
-├── attention-and-learning.md (6.8 KB)
-├── attention.md (7.0 KB)
-├── Attribute Substitution (Kahneman & Frederick, 2002).md (8.9 KB)
-├── Attribute Substitution (Kahneman & Frederick).md (9.6 KB)
-├── Attribution (Heider, 1958).md (9.3 KB)
-├── Attribution Retraining (Försterling, 1985; Perry et al., 2010).md (9.2 KB)
-├── Attribution Retraining Design Protocol.md (9.5 KB)
-├── Attribution Retraining in Clinical Depression.md (9.0 KB)
-├── Attribution-Dependent Emotion (Weiner, 1985, 1995).md (7.7 KB)
-├── attribution-retraining.md (6.8 KB)
-├── attribution-theory.md (6.7 KB)
-├── attribution.md (6.8 KB)
-├── Attributional Self-Assessment Checklist.md (8.9 KB)
-├── Attributional Vocabulary (Original to this report).md (8.9 KB)
-├── Attributional-Processes-in-Intergroup-Relations.md (8.8 KB)
-├── attributional-retraining.md (6.5 KB)
-├── attributional-style.md (6.8 KB)
-├── attributional-vocabulary — Attribution as the Medium of inner-speech.md (9.3 KB)
-├── attributional-vocabulary.md (6.8 KB)
-├── autodidacticism.md (6.4 KB)
-├── automaticity-gradient.md (7.0 KB)
-├── automaticity.md (6.5 KB)
-├── automation.md (6.2 KB)
-├── Autonomous Motivation (Deci & Ryan, 2000).md (9.0 KB)
-├── Autonomous Motivation.md (5.8 KB)
-├── Autonomous vs. Controlled Commitment (integrating SDT).md (7.9 KB)
-├── autonomous-motivation-vs.-controlled-motivation.md (6.9 KB)
-├── autonomous-motivation.md (6.5 KB)
-├── Autonomy (in the SDT technical sense).md (5.9 KB)
-├── Autonomy (SDT) (Deci & Ryan, 1985).md (8.9 KB)
-├── Autonomy ≠ Independence.md (7.5 KB)
-├── Autonomy as the Motivational Foundation of SDL.md (6.5 KB)
-├── Autonomy Support in Practice — The Anatomy of a Teaching Moment.md (8.2 KB)
-├── Autonomy Universality vs. Cultural Specificity.md (8.1 KB)
-├── Autonomy vs. Interdependence.md (7.0 KB)
-├── Autonomy vs. Structure The Scaffolding Paradox.md (10.0 KB)
-├── autonomy-need.md (6.5 KB)
-├── autonomy-orientation.md (6.4 KB)
-├── autonomy-relatedness-integration.md (7.0 KB)
-├── Autonomy-Structure Dialectic.md (10.4 KB)
-├── Autonomy-Support-—-Mechanisms-and-Measurement.md (6.7 KB)
-├── Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments.md (6.7 KB)
-├── autonomy-support.md (7.0 KB)
-├── Autonomy-Supportive Communication Protocol.md (8.1 KB)
-├── Autonomy-Supportive Structure.md (9.4 KB)
-├── Autonomy-Supportive-Parenting.md (7.0 KB)
-├── autonomy-supportive-teaching.md (7.0 KB)
-├── autonomy.md (6.6 KB)
-├── availability-heuristic.md (7.0 KB)
-├── avoidant-help-seeking.md (6.5 KB)
-├── Backward Design (Wiggins & McTighe).md (10.2 KB)
-├── Backward Design for Self-Direction A Professional Development Curriculum.md (9.8 KB)
-├── baddeley-s-model-of-working-memory.md (6.4 KB)
-├── Baddeley, A. (1986). Working memory. Oxford University Press.md (7.8 KB)
-├── Baddeley's-Working-Memory-Model.md (6.6 KB)
-├── Baker-1985-Standards-of-Coherence.md (7.0 KB)
-├── Baker-comprehension-monitoring.md (7.0 KB)
-├── Baker, L. (1985). How do we know when we don't understand Standards for evaluating text comprehension. In D. L.md (8.5 KB)
-├── Baker, L., & Brown, A. L. (1984). Metacognitive skills and reading. In P. D. Pearson, M. Kamil, R. Barr, & P. Mosenthal.md (8.2 KB)
-├── Bandura, A. (1977). Self-efficacy Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215.md (6.0 KB)
-├── Bandura, A. (1986). Social foundations of thought and action A social cognitive theory. Englewood Cliffs, NJ.md (5.9 KB)
-├── Bandura, A. (1997). Self-efficacy The exercise of control. New York W. H. Freeman.md (6.8 KB)
-├── Bandura, A. (1997). Self-efficacy The exercise of control. W. H. Freeman.md (6.7 KB)
-├── Bandura, A. (1997). Self-Efficacy The Exercise of Control. W.H. Freeman.md (9.3 KB)
-├── Bandura.md (7.3 KB)
-├── Barnett-and-Ceci.md (7.0 KB)
-├── Barnett-Ceci.md (6.8 KB)
-├── Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn A taxonomy for far transfer.md (5.4 KB)
-├── Barry J. Zimmerman — City University of New York.md (5.7 KB)
-├── Barry J. Zimmerman (1942– ), CUNY Graduate Center.md (10.5 KB)
-├── Barry J. Zimmerman (1942–2014).md (7.4 KB)
-├── Barry J. Zimmerman (1942–2020) — CUNY Graduate Center.md (6.7 KB)
-├── Barry Zimmerman (1942–2020).md (8.8 KB)
-├── Barry Zimmerman (1942–2021) — City University of New York.md (9.3 KB)
-├── Barry Zimmerman (1942–present) — City University of New York.md (9.9 KB)
-├── Barry-J-Zimmerman.md (6.5 KB)
-├── barry-zimmerman.md (6.6 KB)
-├── Basic Psychological Need (in SDT).md (6.2 KB)
-├── Basic Psychological Need (SDT).md (9.4 KB)
-├── Basic Psychological Needs.md (5.9 KB)
-├── basic-programming-logic.md (6.2 KB)
-├── Basic-Psychological-Needs-—-The-Three.md (7.1 KB)
-├── Basic-Psychological-Needs-Theory-BPNT.md (6.6 KB)
-├── basic-psychological-needs-theory.md (6.4 KB)
-├── basic-psychological-needs.md (6.5 KB)
-├── behavior-change-techniques.md (6.7 KB)
-├── behavior-change.md (6.4 KB)
-├── behavioural-economics.md (7.0 KB)
-├── Beiwen Chen and Cross-Cultural SDT Researchers.md (5.4 KB)
-├── Bernard Weiner (1935–present).md (8.6 KB)
-├── bernard-weiner.md (6.8 KB)
-├── Biologically Primary Knowledge.md (7.3 KB)
-├── Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. P.md (8.4 KB)
-├── Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A.md (10.4 KB)
-├── Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way Creating desirable difficulties.md (8.2 KB)
-├── Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. Assessment in Education Principles, Policy &.md (9.5 KB)
-├── Bloom's-Taxonomy.md (7.2 KB)
-├── Boekaerts, M. (1996). Self-regulated learning at the junction of cognition and motivation. European Psychologist, 1(2),.md (10.5 KB)
-├── Boekaerts.md (6.4 KB)
-├── Boundary Most Common Failure Mode.md (4.9 KB)
-├── bounded-rationality.md (7.0 KB)
-├── Brandstätter, V., Lengfelder, A., & Gollwitzer, P. M. (2001). Implementation intentions and efficient action.md (5.4 KB)
-├── Bratman, M. (1987). Intention, plans, and practical reason. Cambridge, MA Harvard University Press.md (4.9 KB)
-├── Bratman's-Planning-Theory.md (6.7 KB)
-├── Breakpoint (Debugger).md (6.5 KB)
-├── Breakpoint.md (5.8 KB)
-├── Bridging from What You Already Know.md (7.6 KB)
-├── Bridging to Prior Knowledge The PKB as Cognitive Partner.md (11.3 KB)
-├── Bridging to Prior Knowledge.md (9.7 KB)
-├── Bridging to Your Existing Knowledge.md (8.6 KB)
-├── bridging-inference.md (6.9 KB)
-├── Brookfield, S. D. (1985). Self-directed learning A critical review of research. In S. Brookfield (Ed.), Self-directed.md (6.7 KB)
-├── Brown-metacognition.md (6.9 KB)
-├── Brown, A. L. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. E.md (8.6 KB)
-├── Build Your First Managed Project.md (5.4 KB)
-├── Building-a-Second-Brain.md (7.1 KB)
-├── building-custom-ai-agents-in-obsidian.md (6.3 KB)
-├── Calibration (Lichtenstein, Fischhoff, & Phillips, 1982; applied to metacognition by Nelson and colleagues).md (9.5 KB)
-├── Calibration (Metacognitive Accuracy Literature).md (9.4 KB)
-├── Calibration (Metacognitive).md (10.2 KB)
-├── Calibration as a Trainable Skill.md (7.6 KB)
-├── Calibration Check After Reading.md (7.8 KB)
-├── Calibration Versus Optimism.md (5.9 KB)
-├── Calibration vs. Sensitivity in Metacognitive Judgment.md (10.0 KB)
-├── Calibration-Adaptation Engine (Original to This Report).md (8.8 KB)
-├── Calibration-of-Confidence.md (7.1 KB)
-├── Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature.md (10.8 KB)
-├── Calibration-Science-and-Metacognitive-Accuracy.md (7.0 KB)
-├── Calibration-Training-Methods-and-Evidence.md (7.8 KB)
-├── calibration.md (6.6 KB)
-├── Can Metacognitive Scaffolding Be Personalised at Scale.md (7.4 KB)
-├── Can the Two-Level Architecture Be Extended to More Than Two Levels.md (8.0 KB)
-├── Candy, P.C. (1991). Self-Direction for Lifelong Learning. Jossey-Bass.md (9.2 KB)
-├── Capability-Building.md (6.7 KB)
-├── Cargo-Cult Coding.md (6.4 KB)
-├── carl-rogers.md (6.9 KB)
-├── Carol Ames (1942– ) — Michigan State University.md (6.6 KB)
-├── Carol Dweck (1946– ) — Stanford University, formerly Columbia and University of Illinois.md (6.9 KB)
-├── Carol Dweck (1946–present).md (8.3 KB)
-├── Carol Midgley (1947–2002) — University of Michigan.md (6.6 KB)
-├── carol-dweck.md (6.5 KB)
-├── carole-ames.md (7.1 KB)
-├── Cass-Sunstein.md (7.0 KB)
-├── Causal Attribution (Heider, 1958; Weiner, 1985).md (6.8 KB)
-├── causal-attribution-in-srl.md (6.8 KB)
-├── causal-attribution.md (6.6 KB)
-├── causal-schemata.md (6.8 KB)
-├── causality-orientations-theory.md (7.0 KB)
-├── Central Claim of OIT.md (5.5 KB)
-├── Central claim of this level.md (7.0 KB)
-├── central-executive.md (6.5 KB)
-├── Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks A.md (10.4 KB)
-├── CET as a Theory of Motivational Pollution.md (7.7 KB)
-├── Chain-of-Thought-Prompting.md (7.0 KB)
-├── Charles-Judd.md (6.4 KB)
-├── Chase, W. G., & Simon, H. A. (1973). Perception in chess. Cognitive Psychology, 4(1), 55–81.md (5.5 KB)
-├── Checklist PKM System Design Audit (Seven-Problem Framework).md (10.0 KB)
-├── Checklist-Manifesto.md (7.0 KB)
-├── chen-2015.md (6.5 KB)
-├── Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., ... & Verstuyf, J. (2015).md (8.3 KB)
-├── Chi, M. T. H. (2000). Self-explaining expository texts The dual processes of generating inferences and repairing mental.md (10.6 KB)
-├── Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations How students study and use.md (8.3 KB)
-├── Choi, I., Nisbett, R. E., & Norenzayan, A. (1999). Causal attribution across cultures Variation and universality.md (8.6 KB)
-├── chris-kenyon.md (6.6 KB)
-├── chronic-illness-self-management.md (6.5 KB)
-├── Chunk (Miller, 1956; Chase & Simon, 1973).md (6.6 KB)
-├── Chunk (Miller, 1956; refined by Chase & Simon, 1973).md (7.3 KB)
-├── Chunk.md (7.1 KB)
-├── chunking-as-the-unit-currency-of-deliberate-practice.md (6.8 KB)
-├── Chunking-in-Second-Language-Acquisition.md (5.8 KB)
-├── chunking.md (6.8 KB)
-├── Claim 1 The VS Code + Python + Copilot Stack as Compounding Cognitive Scaffolding.md (6.7 KB)
-├── Claim 2 Virtual Environments as the Critical Operational Concept.md (6.3 KB)
-├── Claim 3 Debugging as the Primary Site of Model Formation.md (6.4 KB)
-├── Claim 4 Copilot Reverses the Traditional Programming Learning Trajectory.md (6.2 KB)
-├── Claim 5 Project Organization as Externalized Cognitive Architecture.md (6.4 KB)
-├── Claim 6 Copilot Bridges the Intent-Implementation Gap for Domain-Specific Tasks.md (6.7 KB)
-├── Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7-19.md (9.9 KB)
-├── Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19.md (7.2 KB)
-├── classroom-motivation.md (7.2 KB)
-├── Claude-API.md (6.2 KB)
-├── claude-code-basics.md (6.2 KB)
-├── claude-code-workflows.md (6.2 KB)
-├── Claude-Code.md (6.2 KB)
-├── Claude-Projects.md (6.2 KB)
-├── Claude's Analytical Perspective Shifts During Analysis.md (7.3 KB)
-├── Claude's Analytical Perspective The Comment-as-Intent Pattern.md (6.6 KB)
-├── Claude's Analytical Perspective The Extension Ecosystem as Capability Multiplier.md (6.8 KB)
-├── Claude's Analytical Perspective The Productivity Trajectory.md (6.9 KB)
-├── Claude's perspective on the dynamics.md (7.4 KB)
-├── Claude's perspective on the edge cases.md (7.5 KB)
-├── Claude's perspective on the frontier.md (7.4 KB)
-├── Claude's perspective on the reorganization.md (7.6 KB)
-├── Claude's perspective on the speculative horizon.md (7.6 KB)
-├── Claude's perspective on the substructure.md (7.6 KB)
-├── Claude's perspective on the surface picture.md (7.4 KB)
-├── Claude's Perspective Python as Connective Tissue.md (4.3 KB)
-├── Claude's Perspective The Two Kinds of Errors.md (4.4 KB)
-├── Claude's Perspective The Understanding Verification Problem.md (4.4 KB)
-├── Claude's Specialist Observation Dynamics Are Why Autonomy Support Cannot Be Reduced to a Behavior Checklist.md (6.8 KB)
-├── Claude's Specialist Observation Edge Cases as Theory Diagnostics.md (6.1 KB)
-├── Claude's Specialist Observation The Frontier Has a Shape.md (6.0 KB)
-├── Claude's Specialist Observation The Surface Underdetermines the Mechanism.md (6.1 KB)
-├── Claude's Specialist Observation Why Three Needs Is Not Arbitrary.md (6.3 KB)
-├── cli-tool-proficiency.md (6.2 KB)
-├── Client-Server-Architecture.md (6.2 KB)
-├── Clinical and Health Behavior Change.md (7.1 KB)
-├── Clinical and Medical Education The Diagnostic Self-Director.md (7.0 KB)
-├── Clinical and Therapeutic Recovery.md (7.1 KB)
-├── Clinical Decision Support Systems.md (9.9 KB)
-├── Clinical Decision-Making The Diagnostic Monitoring-Control Loop.md (8.9 KB)
-├── Clinical Diagnosis as Metacognitive Reading.md (7.7 KB)
-├── Clinical Education and Medical Reasoning.md (10.7 KB)
-├── Clinical Practice and the Architecture of Therapeutic Change.md (6.8 KB)
-├── Clinical Reasoning and Diagnostic Practice.md (8.2 KB)
-├── Clinical-Heuristics.md (6.7 KB)
-├── Clinical-Implementation-Intentions — Therapeutic Applications.md (5.2 KB)
-├── Clinical-Implementation-Intentions.md (6.8 KB)
-├── clinical-psychology.md (6.8 KB)
-├── clinical-reasoning-metacognition.md (7.0 KB)
-├── Clinical-Reasoning.md (6.9 KB)
-├── CLT as the Unifying Diagnostic for PKB Design Failures.md (10.5 KB)
-├── CLT Compliance Review for Multimedia Materials.md (8.1 KB)
-├── CLT Principles in E-Learning Design.md (8.5 KB)
-├── CLT vs. Desirable Difficulties When Does Load Help.md (8.3 KB)
-├── CLT-Informed Instructional Design Diagnostic Protocol.md (9.3 KB)
-├── CLT's Neighbour Relations A Summary Assessment.md (8.3 KB)
-├── Code Review as Metacognitive Reading.md (7.7 KB)
-├── code-review-cognitive-load.md (7.0 KB)
-├── code-review.md (6.2 KB)
-├── cog-sci-pkm-the-role-of-reading-in-pkm.md (7.0 KB)
-├── Cognitive Architecture.md (10.2 KB)
-├── Cognitive Forcing Function (Croskerry).md (8.3 KB)
-├── Cognitive Forcing Functions (Croskerry, in Clinical Reasoning).md (9.5 KB)
-├── Cognitive Load Theory (CLT).md (9.5 KB)
-├── Cognitive Load Theory (John Sweller, 1988).md (11.5 KB)
-├── Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011).md (10.6 KB)
-├── Cognitive Load Theory (Sweller, 1988).md (9.2 KB)
-├── Cognitive Load Theory and PKB Design (Sweller, 1988; Sweller et al., 2011).md (11.5 KB)
-├── Cognitive Load Theory.md (11.1 KB)
-├── Cognitive Miserliness (Stanovich).md (8.4 KB)
-├── Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation.md (7.8 KB)
-├── Cognitive Offloading vs. Cognitive Engagement.md (10.0 KB)
-├── Cognitive Offloading.md (8.5 KB)
-├── Cognitive Pre-Compilation (this report).md (6.2 KB)
-├── Cognitive Safety Net.md (6.5 KB)
-├── Cognitive Scaffolding.md (6.5 KB)
-├── Cognitive Task Analysis Methods, Validity, and Design Integration.md (8.3 KB)
-├── Cognitive vs. Motivational Sources of Attributional Bias.md (9.4 KB)
-├── Cognitive-Apprenticeship-in-PKM.md (7.3 KB)
-├── cognitive-apprenticeship.md (6.9 KB)
-├── cognitive-architecture — Comparative Models and Instructional Implications.md (8.6 KB)
-├── cognitive-architecture-in-reading.md (7.0 KB)
-├── Cognitive-Architecture-Working-Memory-&-Long-Term-Memory.md (6.5 KB)
-├── cognitive-architecture.md (7.1 KB)
-├── cognitive-behavioral-therapy.md (7.1 KB)
-├── Cognitive-Behavioural-Therapy.md (6.9 KB)
-├── cognitive-biases.md (6.8 KB)
-├── cognitive-chunking.md (6.7 KB)
-├── cognitive-constructivism.md (6.7 KB)
-├── cognitive-control-mechanisms.md (7.2 KB)
-├── Cognitive-Development-—-Piaget-and-Vygotsky.md (7.2 KB)
-├── Cognitive-Engineering.md (6.7 KB)
-├── cognitive-evaluation-theory-cet.md (6.6 KB)
-├── cognitive-evaluation-theory.md (7.0 KB)
-├── cognitive-forcing-functions-in-clinical-reasoning.md (7.8 KB)
-├── Cognitive-Load-and-Need-Satisfaction.md (7.0 KB)
-├── Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice.md (6.4 KB)
-├── cognitive-load-theory-and-pkb-design.md (7.4 KB)
-├── cognitive-load-theory-element-interactivity-deep-dive-2026-04-20.md (6.0 KB)
-├── cognitive-load-theory.md (6.2 KB)
-├── cognitive-load.md (6.8 KB)
-├── cognitive-miserliness.md (7.0 KB)
-├── Cognitive-Offloading-in-Knowledge-Work.md (6.9 KB)
-├── cognitive-offloading.md (6.7 KB)
-├── cognitive-operation.md (6.5 KB)
-├── Cognitive-Overload.md (7.3 KB)
-├── cognitive-psychology.md (6.7 KB)
-├── Cognitive-Reflection-Test-and-Rationality-Quotient.md (7.0 KB)
-├── Cognitive-Revolution.md (6.7 KB)
-├── cognitive-scaffolding.md (6.6 KB)
-├── cognitive-science.md (7.3 KB)
-├── Cognitive-Skill-Acquisition.md (7.1 KB)
-├── cognitive-task-analysis.md (6.7 KB)
-├── cognitive-theory-of-multimedia-learning.md (6.4 KB)
-├── Collective Efficacy (Bandura, 1997).md (5.4 KB)
-├── Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology.md (6.6 KB)
-├── Collective-Efficacy-and-Social-Capital-The-Sociological-Bridge.md (7.2 KB)
-├── Collective-Metacognition-and-Epistemic-Institutions.md (7.3 KB)
-├── command-line.md (6.2 KB)
-├── Commitment as Quantitative Variable vs. Quality-Differentiated Variable.md (7.0 KB)
-├── Common Misconception The Matrix as Procedure.md (10.5 KB)
-├── Common Misconceptions About Strategic Automaticity.md (5.4 KB)
-├── communities-of-practice.md (7.1 KB)
-├── Community Development and Civic Education.md (10.0 KB)
-├── Competence (in the SDT technical sense).md (5.7 KB)
-├── Competence (SDT) (White, 1959; Deci & Ryan, 1985).md (9.0 KB)
-├── competence-need.md (6.6 KB)
-├── competence.md (6.9 KB)
-├── competency-based-learning.md (6.7 KB)
-├── complete-project-structure.md (6.2 KB)
-├── Completion-Problem-Effect.md (6.7 KB)
-├── Complex Learning.md (9.6 KB)
-├── Comprehension Monitoring (Baker & Brown, 1984).md (9.3 KB)
-├── comprehension-criterion.md (6.9 KB)
-├── comprehension-monitoring-training-protocols.md (7.0 KB)
-├── comprehension-monitoring.md (6.6 KB)
-├── Computational Models of Metacognition Architectures, Implementations, and Predictions.md (8.3 KB)
-├── Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik.md (7.4 KB)
-├── concept-map.md (6.4 KB)
-├── Conception of Ability (Nicholls).md (8.0 KB)
-├── conception-of-ability.md (7.2 KB)
-├── conceptions-of-ability.md (7.2 KB)
-├── conceptual-change-theory-and-schema-restructuring.md (6.7 KB)
-├── Conditional Regard.md (5.7 KB)
-├── conditional-knowledge.md (6.9 KB)
-├── conditional-metacognitive-knowledge.md (7.0 KB)
-├── Conditional-Regard-and-the-Introjection-Trap.md (6.6 KB)
-├── Conditional-Regard-Research.md (6.6 KB)
-├── conditional-regard.md (6.5 KB)
-├── Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis.md (7.8 KB)
-├── Configuration Flexibility vs. Beginner Overwhelm.md (6.0 KB)
-├── confirmation-bias.md (7.0 KB)
-├── Connecting to What You Already Know.md (5.5 KB)
-├── Connecting to Your Existing Knowledge.md (9.2 KB)
-├── Connection Action Phase Model.md (4.9 KB)
-├── Connection Attribution as the Interpretive Layer of Motivation.md (8.6 KB)
-├── Connection Expertise Reversal Effect Mechanism.md (5.5 KB)
-├── Connection Fluency Illusion and Calibration Error.md (7.7 KB)
-├── Connection Implicit Theories and the Stability Dimension.md (8.5 KB)
-├── Connection Metacognitive Sovereignty Framework.md (6.6 KB)
-├── Connection Nelson-Narens and SRL.md (8.0 KB)
-├── Connection Reciprocal Teaching and the Architectural Layers.md (7.9 KB)
-├── Connection SDT and SDL.md (6.4 KB)
-├── Connection Why Failure Modes are Inseparable from Benefits.md (5.7 KB)
-├── Conscious vs. Automatic Regulation.md (6.0 KB)
-├── Construction as the Common Currency of Effective Encoding.md (10.4 KB)
-├── construction-integration-model.md (7.0 KB)
-├── constructivism.md (7.3 KB)
-├── Contemplative-Mechanism.md (6.1 KB)
-├── Contiguity-Principle.md (6.6 KB)
-├── Continuous-Integration-Continuous-Deployment.md (6.2 KB)
-├── Control as Diagnostic Response, Not Habitual Response.md (10.5 KB)
-├── Control Move Selection.md (11.4 KB)
-├── Control Moves Have Costs and Failure Modes.md (10.8 KB)
-├── Control Phase (Pintrich).md (11.7 KB)
-├── Control Repertoire in Action.md (10.9 KB)
-├── Control-Value-Theory.md (7.2 KB)
-├── Controllability and the Politics of Compassion.md (8.8 KB)
-├── Controllability Dimension (Weiner, 1979, 1985).md (9.0 KB)
-├── controllability-moral-inference-bridge.md (6.9 KB)
-├── controllability.md (6.8 KB)
-├── Controlled Motivation.md (5.6 KB)
-├── controlled-motivation.md (6.4 KB)
-├── Controlling-Teaching-Styles.md (6.6 KB)
-├── COPES-model.md (6.4 KB)
-├── Copilot as Metacognitive Scaffold The AI-Augmented Learning Loop.md (6.1 KB)
-├── Core Architecture The Nelson-Narens Two-Level Model.md (9.9 KB)
-├── Core Argument Structure of Self-Directed Learning.md (7.4 KB)
-├── Core Argument Structure.md (12.8 KB)
-├── Core CLT Argument Structure.md (12.0 KB)
-├── correspondent-inference-theory.md (6.8 KB)
-├── covariation-principle.md (6.8 KB)
-├── Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing A framework for memory research. Journal of Verbal.md (9.4 KB)
-├── Creative Writing and Artistic Practice.md (7.8 KB)
-├── critical-thinking-skills-and-metacognitive-self-regulation.md (6.6 KB)
-├── critical-thinking.md (6.7 KB)
-├── Croskerry, P. (2003). The importance of cognitive errors in diagnosis and strategies to minimize them. Academic.md (7.7 KB)
-├── Cross-Cultural Thought Experiment.md (8.1 KB)
-├── Cross-Cultural Universality of Source Weighting.md (5.5 KB)
-├── Cross-Cultural-Motivation-Science.md (7.0 KB)
-├── Cross-Cultural-Operation-of-the-Four-Sources.md (7.1 KB)
-├── cross-cultural-psychology.md (7.0 KB)
-├── Cross-Domain Application Engineering Discipline.md (6.9 KB)
-├── Cross-PKB Connection Map.md (8.7 KB)
-├── Cue Quality Assessment Checklist.md (5.2 KB)
-├── Cue-Encoding Bottleneck (this report).md (6.1 KB)
-├── Cue-Utilization Framework (Koriat, 1997).md (9.3 KB)
-├── cue-utilization-framework.md (7.1 KB)
-├── Cultural Boundedness of Self-Direction.md (9.8 KB)
-├── Cultural Transmission as Inter-Generational Chunking.md (6.4 KB)
-├── Cultural-Transmission.md (6.7 KB)
-├── Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination.md (6.8 KB)
-├── Curated Sources.md (5.7 KB)
-├── Curriculum Audit for Self-Direction Development.md (10.9 KB)
-├── Curriculum Design (as distinguished from Curriculum).md (10.7 KB)
-├── Custom-MCP-Server-Development.md (6.2 KB)
-├── cyclical-model-of-self-regulated-learning — Zimmerman's Framework in Detail.md (5.4 KB)
-├── cyclical-model-of-self-regulated-learning.md (6.6 KB)
-├── cyclical-srl-model.md (7.3 KB)
-├── D. Randy Garrison — University of Calgary.md (6.4 KB)
-├── d.-randy-garrison.md (6.6 KB)
-├── Dale H. Schunk — University of North Carolina at Greensboro.md (5.8 KB)
-├── Daniel Kahneman (1934–2024) — Princeton University.md (7.8 KB)
-├── daniel-kahneman.md (6.7 KB)
-├── Data-Driven Decision Making.md (5.9 KB)
-├── Data-Literacy.md (6.1 KB)
-├── Data-Visualization.md (6.2 KB)
-├── Dataview.md (7.1 KB)
-├── david-ausubel.md (7.2 KB)
-├── David-Perkins.md (6.4 KB)
-├── de Groot, A. D. (1965). Thought and choice in chess. The Hague Mouton.md (5.2 KB)
-├── De Neys, W. (2012). Bias and conflict A case for logical intuitions. Perspectives on Psychological Science, 7(1), 28–38.md (7.7 KB)
-├── Debiasing Self-Audit (for High-Stakes Personal Decisions).md (7.9 KB)
-├── Debiasing-Interventions.md (7.0 KB)
-├── Debug a Real Script.md (5.2 KB)
-├── Debugging Hierarchy Decision Tree.md (5.6 KB)
-├── debugging-as-metacognition.md (7.0 KB)
-├── debugging.md (6.0 KB)
-├── deci-and-ryan.md (6.5 KB)
-├── deci-ryan.md (6.8 KB)
-├── Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. Journal of Personality and Social.md (7.9 KB)
-├── Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. New York Plenum.md (7.7 KB)
-├── Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits Human needs and the self-determination of.md (9.4 KB)
-├── Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of.md (8.1 KB)
-├── Decision Fork Flat Structure vs. Package Structure.md (4.6 KB)
-├── Decision Fork How Much Infrastructure Does Your Project Need.md (4.5 KB)
-├── Decision Fork Which AI Interaction Mode Should You Use.md (4.6 KB)
-├── Decision Fork Which Execution Method Should You Use.md (4.8 KB)
-├── Decision-Architecture.md (7.0 KB)
-├── declarative-knowledge.md (6.9 KB)
-├── declarative-memory.md (7.3 KB)
-├── declarative-metacognitive-knowledge.md (7.1 KB)
-├── declarative-procedural-and-conditional-metacognitive-knowledge.md (7.1 KB)
-├── Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge.md (7.0 KB)
-├── deep-processing-elaborative-encoding.md (7.4 KB)
-├── deep-processing.md (6.5 KB)
-├── Default-Interventionist Architecture (Evans & Stanovich, 2013).md (8.9 KB)
-├── Default-Interventionist Architecture (Evans & Stanovich).md (9.6 KB)
-├── Default-Interventionist vs. Parallel-Competitive Architectures.md (8.0 KB)
-├── Default-Mode-Network.md (7.0 KB)
-├── Defensive-Pessimism.md (7.2 KB)
-├── Definition Causal Attribution.md (8.1 KB)
-├── Definition Chunk.md (5.3 KB)
-├── Definition Comprehension Monitoring.md (7.6 KB)
-├── Definition Cue-Utilization Framework.md (7.9 KB)
-├── Definition Dominance Asymmetry.md (7.9 KB)
-├── Definition Fundamental Attribution Error.md (8.4 KB)
-├── Definition Grow's SSDL Model.md (6.2 KB)
-├── Definition Heutagogy.md (6.4 KB)
-├── Definition Illusion of Explanatory Depth.md (7.7 KB)
-├── Definition Implementation Intention.md (4.8 KB)
-├── Definition Long-Term Working Memory.md (5.5 KB)
-├── Definition Meta-Level.md (7.5 KB)
-├── Definition Monitoring vs. Control.md (7.7 KB)
-├── Definition Self-Directed Learning.md (6.2 KB)
-├── Definition Standard of Coherence.md (7.5 KB)
-├── Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993).md (7.2 KB)
-├── Deliberate Practice Ericsson's Framework and Its Cognitive Architecture.md (8.4 KB)
-├── Deliberate-Practice-—-Ericsson.md (7.0 KB)
-├── deliberate-practice.md (6.1 KB)
-├── Dependency-Management.md (6.1 KB)
-├── Design Application Exercise.md (8.1 KB)
-├── Designing Efficacy-Building Learning Sequences.md (6.7 KB)
-├── Designing PKB Notes as External Chunks.md (6.1 KB)
-├── Designing-AI-Tutors-for-Calibrated-Efficacy-Cultivation.md (7.2 KB)
-├── Desirable Difficulties (Bjork & Bjork, 1992; 2011).md (10.4 KB)
-├── Desirable Difficulties (Robert Bjork, 1994).md (11.6 KB)
-├── Desirable Difficulties and the Design of Productive Friction in Learning Systems.md (9.7 KB)
-├── Desirable Difficulties vs. Cognitive Load Reduction.md (11.0 KB)
-├── Desirable Difficulties.md (10.8 KB)
-├── desirable-difficulties — Framework, Evidence, and Instructional Integration.md (8.5 KB)
-├── Desirable-Difficulties-—-Bjork.md (7.2 KB)
-├── desirable-difficulties.md (7.1 KB)
-├── Desirable-Difficulty.md (6.1 KB)
-├── Development Environment Architecture.md (8.2 KB)
-├── Developmental Arc Model (Original to This Report).md (8.9 KB)
-├── Dewey, J. (1938). Experience and Education. Kappa Delta Pi.md (9.1 KB)
-├── Diagnosing Whether an Activity Qualifies as Deliberate Practice.md (5.9 KB)
-├── Diagnostic Pause.md (7.4 KB)
-├── Diagnostic Questions for Efficacy Intervention Design.md (6.0 KB)
-├── diagnostic-error-cognitive-causes.md (7.0 KB)
-├── diagnostic-reasoning.md (7.0 KB)
-├── diagram.md (6.4 KB)
-├── differential-diagnosis-as-coherence-standard.md (7.0 KB)
-├── Differential-Diagnosis.md (7.0 KB)
-├── differentiated-conception-of-ability.md (7.2 KB)
-├── Digital-Literacy.md (6.1 KB)
-├── Dimensional Self-Scoring.md (11.8 KB)
-├── Direct Access vs. Cue-Utilization How Does Monitoring Work.md (9.1 KB)
-├── Directions for Further Investigation.md (6.1 KB)
-├── Directions for Future Investigation.md (8.6 KB)
-├── Directive Function.md (5.5 KB)
-├── Disciplinary-Reading-Architectures-Across-Five-Domains.md (7.8 KB)
-├── Discriminative-Contrast.md (7.2 KB)
-├── Distinction Declarative, Procedural, Conditional Knowledge.md (7.7 KB)
-├── Distinction Fluency Illusion vs. Illusion of Knowing.md (7.9 KB)
-├── Distinction Goal Intention vs. Implementation Intention.md (5.1 KB)
-├── Distinction Immediate vs. Delayed JOLs.md (7.8 KB)
-├── Distinction Locus of Causality vs. Locus of Control.md (8.4 KB)
-├── Distinction Outcome-Dependent vs. Attribution-Dependent Emotions.md (8.4 KB)
-├── Distinction SDL vs. SRL.md (6.3 KB)
-├── Distinction Sensitivity vs. Calibration.md (7.6 KB)
-├── Distinction Shame vs. Guilt in Attribution Theory.md (8.5 KB)
-├── Distinction Strategic vs. Habitual Automaticity.md (5.0 KB)
-├── Distinction Technical vs. Critical Self-Direction.md (6.5 KB)
-├── Distinction Template vs. Chunk.md (5.4 KB)
-├── Distinguish adaptive help-seeking from avoidant help-seeking and from executive help-seeking.md (6.9 KB)
-├── distributed-cognition.md (7.1 KB)
-├── Distribution-Shift.md (6.6 KB)
-├── docker-fundamentals.md (6.2 KB)
-├── Does Cue-Encoding Training Outperform Other Implementation-Intention Coaching.md (5.1 KB)
-├── Domain 1 Clinical Reasoning and Medical Decision-Making.md (8.9 KB)
-├── Domain 2 User Interface and Human-Computer Interaction Design.md (9.0 KB)
-├── Domain 3 Athletic Coaching and Motor Skill Acquisition.md (8.9 KB)
-├── Domain 4 Personal Knowledge Management and PKB Architecture.md (9.0 KB)
-├── Domain of Validity of the Standard Account.md (7.1 KB)
-├── domain-expertise-and-reading-speed-a-transfer-investigation.md (6.8 KB)
-├── double-loop-learning.md (6.7 KB)
-├── dual-coding-theory.md (6.9 KB)
-├── Dual-Process Theory (Kahneman, Stanovich, Evans).md (9.8 KB)
-├── Dual-Process Theory and its Implications for Knowledge Management Decision-Making.md (9.7 KB)
-├── Dual-Process-Theory-and-Knowledge-Management.md (7.3 KB)
-├── dual-process-theory.md (7.1 KB)
-├── dual-processing-model-of-self-regulation.md (6.6 KB)
-├── dual-processing-self-regulation-model.md (6.6 KB)
-├── Dual-Task-Paradigm.md (6.5 KB)
-├── Dunlosky, J., & Metcalfe, J. (2009). Metacognition. Sage Publications.md (8.0 KB)
-├── Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with.md (8.4 KB)
-├── Dweck, C. S. (1986). Motivational processes affecting learning. American Psychologist, 41(10), 1040–1048.md (6.6 KB)
-├── Dweck, C. S. (2000). Self-theories Their role in motivation, personality, and development. Psychology Press.md (8.4 KB)
-├── Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. Psychological Review,.md (6.8 KB)
-├── Ease-of-Learning Judgment — EOL (Nelson & Narens, 1990).md (9.5 KB)
-├── Ease-of-Learning-—-EOL.md (7.2 KB)
-├── Ebbinghaus-Forgetting-Curve.md (7.2 KB)
-├── Ecological-Rationality.md (7.0 KB)
-├── Edge Case 1 Biologically Primary Knowledge.md (9.0 KB)
-├── Edge Case 2 The Expertise Reversal Effect.md (8.6 KB)
-├── Edge Case 3 The Germane Cognitive Load Reformulation.md (9.2 KB)
-├── Edge Case 4 The Isolated Elements Effect.md (8.7 KB)
-├── Edge Case 5 Productive Failure.md (8.4 KB)
-├── Edge Case 6 The Multimedia Exceptions.md (8.6 KB)
-├── Edge Case Autonomous Regulation of Harmful Goals.md (7.1 KB)
-├── Edge Case Controlled Internalization (Identification That Looks Real But Isn't).md (7.2 KB)
-├── Edge Case Identification Without Integration.md (7.1 KB)
-├── Edge Case Internalization Before Reflective Capacity.md (6.9 KB)
-├── Edge Case Need Satisfaction Through Controlling Substrates.md (6.8 KB)
-├── Edge Case The Cross-Cultural Autonomy Challenge.md (7.0 KB)
-├── Education and Pedagogy.md (8.6 KB)
-├── Educational Goal Setting.md (7.2 KB)
-├── educational-psychology.md (6.2 KB)
-├── educational-technology.md (6.7 KB)
-├── Edward Deci (1942–2017) & Richard Ryan (b. 1953).md (9.0 KB)
-├── Edward L. Deci (1942–2017).md (7.8 KB)
-├── Edward L. Deci (b. 1942).md (5.4 KB)
-├── edward-deci.md (6.6 KB)
-├── edward-l.-deci.md (6.4 KB)
-├── Edward-Thorndike.md (6.4 KB)
-├── Edwin A. Locke (b. 1938) — Professor Emeritus, University of Maryland.md (6.8 KB)
-├── effectance-motivation.md (7.0 KB)
-├── Efficacy Calibration.md (5.5 KB)
-├── Efficacy Hierarchy.md (5.6 KB)
-├── Efficacy-Driven Path Dependence in Mathematical Learning.md (6.2 KB)
-├── efficacy-management.md (6.5 KB)
-├── Efklides, A. (2011). Interactions of metacognition with motivation and affect in self-regulated learning The MASRL.md (10.7 KB)
-├── ego-involvement.md (7.2 KB)
-├── elaboration-strategies.md (6.5 KB)
-├── elaboration.md (7.2 KB)
-├── Elaborative Encoding (Craik & Tulving, 1975; Pressley et al., 1987).md (11.5 KB)
-├── Elaborative Interrogation.md (10.5 KB)
-├── elaborative-encoding.md (6.3 KB)
-├── elaborative-interrogation.md (6.9 KB)
-├── Elaborative-Processing.md (7.4 KB)
-├── elaborative-strategies.md (6.5 KB)
-├── Element (operational, contemporary).md (7.9 KB)
-├── Element Interactivity (formal).md (8.2 KB)
-├── Element Interactivity (Sweller, 1994).md (9.1 KB)
-├── Element Interactivity (Sweller, 2010).md (9.2 KB)
-├── Element Interactivity in Practice Two Learning Tasks.md (8.2 KB)
-├── Element Interactivity.md (7.4 KB)
-├── element-interactivity — A Dedicated Foundational Treatment.md (8.4 KB)
-├── Element-Interactivity at Multiple Grain Sizes.md (7.9 KB)
-├── element-interactivity.md (6.7 KB)
-├── Ellen L. Usher — University of Kentucky.md (5.6 KB)
-├── Elliot, A. J., & Harackiewicz, J. M. (1996). Approach and avoidance achievement goals and intrinsic motivation A.md (7.0 KB)
-├── Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. Journal of Personality and Social.md (6.8 KB)
-├── Emancipatory vs. Neoliberal Self-Direction Whose Freedom.md (10.1 KB)
-├── Embedding Evidence-Based Strategies in a Self-Directed Learning Curriculum.md (9.8 KB)
-├── Embodied-Cognition-and-Digital-Knowledge-Tools.md (7.3 KB)
-├── embodied-cognition.md (7.2 KB)
-├── Emergent Organization vs. Imposed Organization.md (9.6 KB)
-├── emotion-mediation-in-attribution.md (6.8 KB)
-├── emotion-theory.md (6.8 KB)
-├── Empirical Meta-Analytic Effect Size.md (4.8 KB)
-├── Empirical Validation of PKB-Specific Cognitive Claims.md (10.0 KB)
-├── Empirical-Research-Methods.md (6.1 KB)
-├── Enactive Mastery Experience.md (5.6 KB)
-├── Encoding Depth (Craik & Lockhart, 1972).md (10.7 KB)
-├── Encoding Depth in Practice Two Notes on Schema Theory.md (9.6 KB)
-├── encoding-specificity-principle.md (7.2 KB)
-├── encoding.md (7.4 KB)
-├── Endel Tulving (1927–2023).md (8.9 KB)
-├── endel-tulving.md (7.2 KB)
-├── Engineering-Metrics-and-the-Dark-Side-of-Optimization.md (6.9 KB)
-├── entity-theory-of-intelligence.md (6.8 KB)
-├── Entrepreneurship Venture Building as Self-Directed Learning.md (7.1 KB)
-├── environment-design-for-learning.md (6.5 KB)
-├── environmental-structuring.md (6.5 KB)
-├── episodic-buffer.md (6.5 KB)
-├── episodic-memory.md (7.3 KB)
-├── Epistemic Risk 1 Cargo-Cult Coding.md (6.5 KB)
-├── Epistemic Risk 2 Subtle Bugs and False Confidence.md (6.7 KB)
-├── Epistemic Transparency Statement.md (10.9 KB)
-├── Epistemic Transparency.md (7.8 KB)
-├── epistemic-calibration.md (7.2 KB)
-├── epistemic-curiosity.md (6.6 KB)
-├── epistemic-feelings.md (6.5 KB)
-├── epistemic-humility.md (6.7 KB)
-├── Epistemic-Virtue.md (6.6 KB)
-├── Ericsson, K. A., & Kintsch, W. (1995). Long-term working memory. Psychological Review, 102(2), 211–245.md (5.5 KB)
-├── Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert.md (5.8 KB)
-├── ericsson.md (6.8 KB)
-├── Error Types as Diagnostic Categories.md (5.5 KB)
-├── Error-Handling-as-Cognitive-Engineering.md (6.8 KB)
-├── error-handling.md (6.1 KB)
-├── Ethical-Reasoning.md (6.1 KB)
-├── eudaimonia.md (6.9 KB)
-├── Eudaimonic-Well-Being.md (7.0 KB)
-├── Evans, J. St. B. T., & Stanovich, K. E. (2013). Dual-process theories of higher cognition Advancing the debate.md (7.9 KB)
-├── Evergreen-Notes.md (7.2 KB)
-├── evidence-based-learning-strategies.md (7.0 KB)
-├── Evidence-Based-Medicine.md (6.9 KB)
-├── evidence-based-practice.md (6.6 KB)
-├── Example A Single Encounter Across Three Timescales.md (7.0 KB)
-├── Example The Three Needs in a Clinical Internalization Context.md (7.0 KB)
-├── Exception.md (5.0 KB)
-├── executive-function.md (6.7 KB)
-├── Expansion Topics for PKB Development.md (9.9 KB)
-├── expectancy-value-theory.md (6.6 KB)
-├── Expert Blind Spot.md (7.1 KB)
-├── Expert Debate 1 Direct instruction vs. minimally-guided instruction.md (8.4 KB)
-├── Expert Debate 2 Should germane load be retained as a third source.md (7.7 KB)
-├── Expert Debate 3 Is element interactivity a single construct or a family.md (7.4 KB)
-├── Expert Debate 4 The role of motivation in cognitive load.md (7.2 KB)
-├── Expert Debate Are the Three Needs Actually Three, or Should the List Be Modified.md (6.7 KB)
-├── Expert Debate How Should Need Frustration Be Measured Relative to Need Satisfaction.md (6.4 KB)
-├── Expert Debate Is the schema-construction loop the central mechanism, or one mechanism among several.md (8.6 KB)
-├── Expert Debate Universality of Basic Needs.md (6.7 KB)
-├── expert-blind-spot.md (6.6 KB)
-├── expert-blindness.md (6.6 KB)
-├── Expert-Intuition.md (7.0 KB)
-├── expert-novice-research.md (5.8 KB)
-├── Expert-vs.-Novice-Differences.md (7.2 KB)
-├── Expertise Reversal Effect (Kalyuga et al.).md (6.4 KB)
-├── Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003).md (9.6 KB)
-├── Expertise Reversal Effect.md (7.2 KB)
-├── Expertise Reversal in Programming Instruction.md (8.1 KB)
-├── expertise-development.md (7.4 KB)
-├── expertise-reversal-effect.md (6.5 KB)
-├── expertise.md (6.9 KB)
-├── Explanatory Style Attributional Style (Abramson, Seligman, & Teasdale, 1978).md (9.2 KB)
-├── Explanatory-Style.md (6.8 KB)
-├── Extended Listening as Metacognitive Reading.md (7.6 KB)
-├── Extended Mind Thesis (Clark & Chalmers, 1998).md (11.4 KB)
-├── Extended Mind Thesis.md (8.6 KB)
-├── extended-metacognition.md (7.0 KB)
-├── extended-mind-theory.md (7.2 KB)
-├── External Regulation.md (5.4 KB)
-├── external-regulation.md (6.5 KB)
-├── Externalisation vs. Internalisation Where Should Cognition Live.md (8.0 KB)
-├── Externalized Cognitive Architecture.md (6.6 KB)
-├── Externalized Metacognition — Systems, Tools, and Cognitive Augmentation.md (9.8 KB)
-├── Externalized-Metacognition-and-Personal-Knowledge-Bases.md (10.7 KB)
-├── externalized-metacognition.md (7.0 KB)
-├── Extraneous Cognitive Load (Sweller, Ayres, & Kalyuga, 2011).md (9.5 KB)
-├── Extraneous Cognitive Load (Sweller, Chandler, 1991).md (9.3 KB)
-├── Extraneous Cognitive Load.md (7.1 KB)
-├── extraneous-cognitive-load-in-pkm.md (7.4 KB)
-├── extraneous-cognitive-load.md (6.6 KB)
-├── extrinsic-goal-content.md (6.5 KB)
-├── extrinsic-motivation.md (6.4 KB)
-├── faded-worked-example.md (6.7 KB)
-├── Fading Is Not Abandonment.md (7.3 KB)
-├── far-transfer.md (6.4 KB)
-├── Fast-and-Frugal-Heuristics.md (7.1 KB)
-├── fastmcp-development-guide.md (6.2 KB)
-├── FastMCP.md (6.1 KB)
-├── feedback-design-for-autonomy-and-mastery.md (6.8 KB)
-├── feedback-design.md (6.5 KB)
-├── feedback-effects-on-motivation-and-learning.md (6.9 KB)
-├── Feeling of Knowing — FOK (Hart, 1965; Nelson & Narens, 1990).md (7.6 KB)
-├── Feeling-of-Knowing-—-FOK.md (7.2 KB)
-├── Feeling-of-Knowing—FOK.md (7.0 KB)
-├── Fergus I. M. Craik (b. 1935).md (9.0 KB)
-├── Fernand Gobet.md (5.1 KB)
-├── Figure 1 The Compounding Scaffolding Stack.md (7.4 KB)
-├── Figure 2 The Intent-Code-Understanding Cycle.md (7.2 KB)
-├── Figure 3 Confidence Distribution Across Claims.md (6.5 KB)
-├── File-Management-Workflow-Design.md (6.6 KB)
-├── Final Integration Before the Appendix.md (7.9 KB)
-├── Fix-Up Strategy (Strategic Reading Literature).md (9.8 KB)
-├── Fix-Up Strategy Selection Guide.md (8.3 KB)
-├── fix-up-strategy.md (6.9 KB)
-├── fixed-mindset.md (7.0 KB)
-├── Flashcard Seeds for AnkiSR Systems.md (10.0 KB)
-├── flavell-metacognition-framework.md (6.8 KB)
-├── Flavell, J. H. (1979). Metacognition and cognitive monitoring A new area of cognitive-developmental inquiry. American.md (9.1 KB)
-├── Flavell's Metacognitive Taxonomy (Flavell, 1979).md (9.6 KB)
-├── Flavell's-Metacognitive-Framework.md (7.1 KB)
-├── Flourishing.md (6.9 KB)
-├── Flow-State.md (6.9 KB)
-├── flow-theory.md (6.6 KB)
-├── Fluency Illusion (Processing Fluency Literature).md (9.3 KB)
-├── Fluency Illusion.md (8.6 KB)
-├── fluency-illusion.md (6.4 KB)
-├── For Further Thought.md (7.7 KB)
-├── Forethought as Regulatory Front-Loading.md (10.5 KB)
-├── Forethought Failure and Its Downstream Consequences.md (11.0 KB)
-├── Forethought Phase (Pintrich).md (11.5 KB)
-├── forethought-phase.md (6.6 KB)
-├── Forgetting-Curve.md (7.2 KB)
-├── Form vs Content.md (5.4 KB)
-├── Formal vs. Informal Learning Where Does Curriculum End.md (9.9 KB)
-├── formative-assessment.md (7.0 KB)
-├── Forming an Effective Implementation Intention — Five-Step Protocol.md (6.1 KB)
-├── Formulaic-Sequences.md (6.7 KB)
-├── Foundational Report Quality Evaluation.md (10.6 KB)
-├── Four-Component Instructional Design (4CID) (van Merriënboer, 1997).md (9.4 KB)
-├── four-component-instructional-design-4cid — Design Methodology for Complex Learning.md (8.5 KB)
-├── four-component-instructional-design-4cid.md (7.0 KB)
-├── four-component-instructional-design.md (6.7 KB)
-├── Frank Pajares (1947–2009) — Emory University.md (5.7 KB)
-├── Frank-Martela.md (6.5 KB)
-├── Fred Paas (b. 1963).md (7.8 KB)
-├── Fred Paas.md (7.8 KB)
-├── fred-paas.md (6.4 KB)
-├── Frederick, S. (2005). Cognitive reflection and decision making. Journal of Economic Perspectives, 19(4), 25–42.md (7.7 KB)
-├── Fritz Heider (1896–1988).md (8.2 KB)
-├── fritz-heider.md (6.8 KB)
-├── Frontier Question (Speculative) What would a falsification of CLT even look like.md (7.4 KB)
-├── Frontier Question 1 Can element interactivity be quantified in a generalizable way.md (9.0 KB)
-├── Frontier Question 1 Neural Signatures of Autonomous vs Controlled Motivation.md (7.7 KB)
-├── Frontier Question 2 Cultural Variability in Need-Weighting and Need-Satisfying Contents.md (6.9 KB)
-├── Frontier Question 2 What are the neural correlates of element interactivity.md (9.0 KB)
-├── Frontier Question 3 How does CLT relate to broader cognitive architectures.md (8.7 KB)
-├── Frontier Question 3 Internalization in Algorithmically Mediated Environments.md (7.3 KB)
-├── Frontier Question 4 Intra-Person Dynamics of Need Satisfaction and Regulatory Style.md (6.9 KB)
-├── Frontier Question 4 The contested status of Long-Term Working Memory.md (8.5 KB)
-├── Frontier Question 5 AI-Mediated Need Support — Can Artificial Agents Provide the Conditions for Autonomous.md (7.5 KB)
-├── Frontier Question 5 Can element interactivity be integrated with relational complexity.md (8.5 KB)
-├── Functional Significance (CET).md (8.8 KB)
-├── Functional Significance (Deci & Ryan, 1985).md (8.9 KB)
-├── Functional Significance.md (5.1 KB)
-├── Functional-Significance-—-Informational,-Controlling,-Amotivating.md (6.9 KB)
-├── functional-significance-informational-controlling-amotivating.md (6.7 KB)
-├── Fundamental Attribution Error Correspondence Bias (Ross, 1977; Gilbert & Malone, 1995).md (9.2 KB)
-├── fundamental-attribution-error.md (6.8 KB)
-├── Future Directions for Investigation.md (7.1 KB)
-├── Future Investigation Directions Arising from This Report.md (8.9 KB)
-├── Future Investigation Directions.md (16.1 KB)
-├── Gabriel-Salomon.md (6.4 KB)
-├── Gabriele Oettingen (NYU University of Hamburg).md (4.8 KB)
-├── Gagné, M., & Deci, E. L. (2005). Self-determination theory and work motivation. Journal of Organizational Behavior,.md (7.7 KB)
-├── Game Design and Digital Environments — Need Satisfaction as Engagement Architecture.md (8.4 KB)
-├── Garner, R. (1987). Metacognition and reading comprehension. Ablex Publishing.md (7.7 KB)
-├── Garrison, D. R. (1997). Self-directed learning Toward a comprehensive model. Adult Education Quarterly, 48(1), 18–33.md (6.6 KB)
-├── Garrison's Comprehensive Model of Self-Directed Learning (1997).md (8.1 KB)
-├── Gary Klein.md (5.1 KB)
-├── Gary P. Latham (b. 1945) — Professor of Organizational Behavior, University of Toronto (Rotman).md (7.0 KB)
-├── gary-klein.md (7.0 KB)
-├── generation-effect.md (6.8 KB)
-├── generative-learning-strategy.md (6.8 KB)
-├── generative-learning-theory.md (7.3 KB)
-├── George A. Miller (1920–2012).md (5.2 KB)
-├── George-A.-Miller.md (5.8 KB)
-├── george-miller.md (6.5 KB)
-├── Gerald Grow — Florida A&M University.md (6.3 KB)
-├── Gerd Gigerenzer (b. 1947) — Max Planck Institute for Human Development, Berlin.md (7.8 KB)
-├── gerd-gigerenzer.md (7.0 KB)
-├── Germane Cognitive Load (Sweller, van Merriënboer, & Paas, 1998).md (9.2 KB)
-├── Germane Cognitive Load (Sweller, van Merriënboer, Paas, 1998; reconceptualized Sweller, 2010).md (9.6 KB)
-├── Germane Cognitive Load.md (7.4 KB)
-├── Germane Load Construct or Epiphenomenon.md (8.4 KB)
-├── Germane Load Theoretical Construct or Explanatory Artifact.md (8.6 KB)
-├── germane-cognitive-load.md (6.9 KB)
-├── Germane-Load-as-a-Functional-Category,-Not-a-Source-Category.md (6.0 KB)
-├── germane-load.md (6.5 KB)
-├── germane-processing.md (6.5 KB)
-├── Gigerenzer, G., & Gaissmaier, W. (2011). Heuristic decision making. Annual Review of Psychology, 62, 451–482.md (7.7 KB)
-├── Gilbert, D. T., & Malone, P. S. (1995). The correspondence bias. Psychological Bulletin, 117(1), 21–38.md (8.4 KB)
-├── git-based-workflow.md (6.2 KB)
-├── Git.md (6.0 KB)
-├── GitHub Copilot.md (6.9 KB)
-├── github-copilot.md (6.1 KB)
-├── GitHub. (2024). GitHub Copilot Documentation. GitHub Docs.md (4.9 KB)
-├── Goal Commitment.md (5.6 KB)
-├── Goal Design Protocol — Pre-Setting Checklist.md (7.1 KB)
-├── Goal Difficulty.md (7.3 KB)
-├── Goal Intention (Heckhausen & Gollwitzer).md (6.0 KB)
-├── Goal Orientation Self-Audit for Self-Directed Learners.md (7.4 KB)
-├── Goal Setting as Productivity Tool vs. Goal Setting as Powerful Intervention Requiring Caution.md (7.1 KB)
-├── Goal Setting Theory (Locke & Latham, formalized 1990).md (6.0 KB)
-├── Goal Setting Theory in the Knowledge Graph.md (9.5 KB)
-├── Goal Specificity.md (7.2 KB)
-├── goal-commitment.md (6.8 KB)
-├── goal-content-theory.md (7.2 KB)
-├── goal-contents-theory.md (6.4 KB)
-├── goal-intention.md (6.7 KB)
-├── goal-orientation-theory.md (6.5 KB)
-├── goal-orientation.md (6.7 KB)
-├── goal-reframing.md (6.4 KB)
-├── Goal-Setting-in-Personal-Knowledge-Management.md (6.9 KB)
-├── Goal-Setting-Theory-—-Locke-and-Latham.md (6.9 KB)
-├── goal-setting-theory.md (6.6 KB)
-├── Goal-Setting–SDT Reconciliation via the Quality of Commitment.md (7.5 KB)
-├── Goal-Setting.md (6.4 KB)
-├── goal-specificity.md (6.8 KB)
-├── Gobet, F., & Simon, H. A. (1996). Templates in chess memory A mechanism for recalling several boards. Cognitive.md (5.6 KB)
-├── Gollwitzer, P. M. (1999). Implementation intentions Strong effects of simple plans. American Psychologist, 54(7),.md (7.1 KB)
-├── Gollwitzer, P. M., & Brandstätter, V. (1997). Implementation intentions and effective goal pursuit. Journal of.md (5.2 KB)
-├── Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement A meta-analysis of effects and.md (7.3 KB)
-├── grolnick-ryan-1989.md (6.5 KB)
-├── Grow, G. O. (1991). Teaching learners to be self-directed. Adult Education Quarterly, 41(3), 125–149.md (6.4 KB)
-├── Grow's Stage Diagnostic Checklist.md (6.5 KB)
-├── Grow's Staged Self-Directed Learning Model (Grow, 1991).md (7.6 KB)
-├── growth-mindset-and-implicit-theories-of-intelligence.md (6.9 KB)
-├── growth-mindset.md (6.6 KB)
-├── Guidance vs. Discovery The Scaffold-Fading Dilemma.md (8.5 KB)
-├── guidance-fading-principle.md (6.6 KB)
-├── habit-formation vs. strategic-automaticity — A Comparative Analysis.md (5.4 KB)
-├── habit-formation.md (6.6 KB)
-├── habit-loop.md (6.4 KB)
-├── Halpern.md (7.0 KB)
-├── Hambrick, D. Z., Oswald, F. L., Altmann, E. M., Meinz, E. J., Gobet, F., & Campitelli, G. (2014). Deliberate practice.md (5.8 KB)
-├── Handwriting-vs.-Typing.md (7.2 KB)
-├── Harold Kelley (1921–2003).md (8.0 KB)
-├── harold-kelley.md (6.8 KB)
-├── Hart, J. T. (1965). Memory and the feeling-of-knowing experience. Journal of Educational Psychology, 56(4), 208–216.md (7.9 KB)
-├── Hatano-and-Inagaki.md (6.6 KB)
-├── Hattie-&-Timperley-Feedback-Model.md (7.1 KB)
-├── hattie-timperley-feedback-model.md (6.9 KB)
-├── Hattie, J., & Timperley, H. (2007). The Power of Feedback. Review of Educational Research, 77(1), 81-112.md (9.3 KB)
-├── Health-Behavior-Change.md (6.7 KB)
-├── Healthcare Education and Patient Self-Management.md (9.9 KB)
-├── Heckhausen, H., & Gollwitzer, P. M. (1987). Thought contents and cognitive functioning in motivational versus.md (5.3 KB)
-├── Heider, F. (1958). The psychology of interpersonal relations. Wiley.md (8.2 KB)
-├── Heinz Heckhausen (1926-1988, University of Bochum Max Planck Institute Munich).md (5.0 KB)
-├── helpless-response-pattern.md (6.8 KB)
-├── Henry L. Roediger III (1947–present) — Washington University in St. Louis.md (10.0 KB)
-├── heuristics-and-biases-program.md (7.1 KB)
-├── Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics.md (7.8 KB)
-├── heuristics-and-biases.md (6.8 KB)
-├── Heuristics-as-Bias vs. Heuristics-as-Adaptive-Tools (Kahneman vs. Gigerenzer).md (7.9 KB)
-├── Heutagogy (Hase & Kenyon, 2000).md (7.8 KB)
-├── Heutagogy (Hase & Kenyon).md (10.6 KB)
-├── heutagogy.md (6.8 KB)
-├── Hidi-Renninger-Four-Phase-Model-of-Interest-Development.md (6.6 KB)
-├── Hidi, S., & Renninger, K.A. (2006). The Four-Phase Model of Interest Development. Educational Psychologist, 41(2),.md (9.5 KB)
-├── Hierarchical Chunk Structure.md (6.9 KB)
-├── High Performance Cycle.md (6.3 KB)
-├── high-performance-cycle.md (6.8 KB)
-├── High-Priority Expansion Topics.md (9.9 KB)
-├── High-Reliability-Organisations.md (7.0 KB)
-├── High-Reliability-Organizations.md (6.7 KB)
-├── High-Validity Environment (Kahneman & Klein).md (8.8 KB)
-├── History-of-Comprehension-Monitoring-Research-1970-Present.md (7.8 KB)
-├── Honest Dimensional Scoring.md (9.4 KB)
-├── Honest Dimensional Self-Scoring.md (9.5 KB)
-├── Honest Self-Evaluation.md (10.9 KB)
-├── Honest Self-Scoring Across Quality Dimensions.md (12.4 KB)
-├── Honest Self-Scoring of This Report.md (10.5 KB)
-├── Honest Self-Scoring.md (8.6 KB)
-├── Honicke, T., & Broadbent, J. (2016). The influence of academic self-efficacy on academic performance A systematic.md (6.1 KB)
-├── How do Goal Orientation Theory, Mindset Theory, Self-Efficacy Theory, and Self-Determination Theory relate to each other.md (7.2 KB)
-├── How does element interactivity relate to intrinsic cognitive load.md (7.8 KB)
-├── How Should Goal Setting Be Designed for Genuinely Creative Work.md (6.7 KB)
-├── How This Guide Was Constructed.md (5.9 KB)
-├── How This Report Integrates with the Broader Knowledge Graph.md (12.5 KB)
-├── How This Report Was Constructed and What That Implies for Reading It.md (11.8 KB)
-├── How This Report Was Constructed.md (9.4 KB)
-├── How to Read This Report's Annotations.md (7.3 KB)
-├── How to Use This Field Guide.md (4.8 KB)
-├── human-reasoning.md (7.0 KB)
-├── humanistic-psychology.md (7.0 KB)
-├── Hypothesis-Testing.md (6.6 KB)
-├── icap-framework.md (7.2 KB)
-├── identification.md (6.5 KB)
-├── Identified Regulation.md (5.7 KB)
-├── identified.md (6.5 KB)
-├── Identify Your Transfer Domains.md (5.0 KB)
-├── Illusion of Explanatory Depth (Rozenblit & Keil, 2002).md (9.3 KB)
-├── illusion-of-explanatory-depth.md (6.9 KB)
-├── illusion-of-knowing.md (7.0 KB)
-├── Illusions-of-Competence.md (7.0 KB)
-├── Implementation Intention (Gollwitzer, 1993, 1999).md (6.4 KB)
-├── Implementation Intention (Gollwitzer, 1999).md (7.6 KB)
-├── Implementation Intentions (Gollwitzer, 1999).md (9.7 KB)
-├── Implementation Intentions as Cognitive Pre-Compilation.md (5.9 KB)
-├── implementation-intention.md (7.1 KB)
-├── Implementation-Intentions-and-Habit-Formation.md (6.9 KB)
-├── implementation-intentions.md (6.9 KB)
-├── Implicit-Theories-of-Intelligence.md (6.8 KB)
-├── implicit-theory-of-intelligence.md (7.2 KB)
-├── Important Nuance Behavior Maintenance Is Not Internalization.md (6.2 KB)
-├── Important Nuance edge cases as theoretical pressure.md (7.5 KB)
-├── Important Nuance Element interactivity is not complexity in the colloquial sense.md (7.8 KB)
-├── Important Nuance Form-Content Distinction.md (5.7 KB)
-├── Important Nuance Introjection Is Not Conscience.md (6.5 KB)
-├── Important Nuance Long-Term Working Memory complicates the picture.md (8.2 KB)
-├── Important Nuance Need Satisfaction vs Need Frustration.md (6.6 KB)
-├── Important Nuance Speculation as a Discipline.md (5.8 KB)
-├── Important Nuance speculation must remain disciplined.md (7.4 KB)
-├── Important Nuance The connection to relational complexity theory.md (7.9 KB)
-├── Important Nuance The Self-Stabilizing Continuum.md (6.2 KB)
-├── Important Nuance The taxonomy is descriptive, not mechanistic.md (7.6 KB)
-├── incremental-theory-of-intelligence.md (6.9 KB)
-├── individualism-collectivism-and-attribution.md (6.9 KB)
-├── inert-knowledge.md (6.6 KB)
-├── Information-Architecture.md (6.9 KB)
-├── information-processing-model-of-self-regulated-learning.md (6.6 KB)
-├── information-processing-model.md (6.5 KB)
-├── information-processing-theory.md (6.2 KB)
-├── Information-Retrieval.md (6.1 KB)
-├── inner-speech-vocabulary-as-self-generated-motivational-architecture.md (7.0 KB)
-├── inner-speech.md (6.8 KB)
-├── Input-Hypothesis.md (6.7 KB)
-├── inquiry-based-learning.md (6.8 KB)
-├── Insight Transfer 1 The learner-relativity principle in adjacent design problems.md (8.1 KB)
-├── Insight Transfer 2 The schema-construction loop in self-directed learning and PKM.md (8.0 KB)
-├── Insight Transfer 3 Edge cases as theoretical pressure in any maturing field.md (7.6 KB)
-├── Insight Transfer From the Continuum to the Analysis of Institutional Cultures.md (6.4 KB)
-├── Insight Transfer From the Internalization Continuum to Habit Formation.md (6.3 KB)
-├── Instructional-Design-Models-—-Overview.md (6.8 KB)
-├── instructional-design.md (7.1 KB)
-├── Integrated Development Environment (IDE) vs. Code Editor.md (6.9 KB)
-├── Integrated Development Environment (IDE).md (7.8 KB)
-├── Integrated Regulation.md (5.7 KB)
-├── integrated-development-environment.md (6.6 KB)
-├── integrated-regulation.md (6.5 KB)
-├── Integration Challenge.md (7.7 KB)
-├── Integration Points with the Knowledge Base.md (6.5 KB)
-├── Integration with the Knowledge Graph.md (8.8 KB)
-├── Integration with the Personal Knowledge Base.md (12.8 KB)
-├── Integrative Exercise.md (8.3 KB)
-├── Intelligent-Tutoring-Systems.md (7.1 KB)
-├── Intent-Code-Understanding Cycle.md (6.6 KB)
-├── intention-action-gap.md (6.7 KB)
-├── Intention-Behavior Gap.md (5.9 KB)
-├── intention-behavior-gap.md (6.7 KB)
-├── intention.md (6.7 KB)
-├── Interdisciplinary-Research.md (6.7 KB)
-├── interest-development.md (6.5 KB)
-├── interest-enhancement.md (6.5 KB)
-├── Interest-Theory.md (6.8 KB)
-├── Interleaving-Practice.md (6.6 KB)
-├── interleaving.md (7.0 KB)
-├── Internalization (Deci & Ryan, 1985; Ryan, 1995).md (9.1 KB)
-├── Internalization (SDT).md (8.8 KB)
-├── Internalization (Technical Sense).md (5.9 KB)
-├── Internalization Continuum.md (5.8 KB)
-├── internalization-continuum.md (7.0 KB)
-├── internalization.md (6.6 KB)
-├── Intrinsic Cognitive Load (Sweller, 1994; Sweller & Chandler, 1994).md (9.3 KB)
-├── Intrinsic Cognitive Load (Sweller, 1994).md (9.3 KB)
-├── Intrinsic Cognitive Load.md (7.1 KB)
-├── Intrinsic Motivation (Deci, 1971; Deci & Ryan, 1985).md (8.9 KB)
-├── Intrinsic Motivation.md (5.6 KB)
-├── Intrinsic vs. Extrinsic Goal Contents (GCT).md (8.9 KB)
-├── intrinsic-cognitive-load.md (6.9 KB)
-├── intrinsic-motivation-and-extrinsic-motivation.md (7.5 KB)
-├── intrinsic-motivation.md (6.9 KB)
-├── introduction-to-metacognition.md (7.2 KB)
-├── Introjected Regulation.md (5.8 KB)
-├── introjection.md (6.5 KB)
-├── Introspection.md (7.0 KB)
-├── Isolated Elements Effect.md (7.3 KB)
-├── isolated-elements.md (5.8 KB)
-├── Iyengar.md (6.5 KB)
-├── Jakob-Nielsen.md (6.5 KB)
-├── jean-piaget.md (7.2 KB)
-├── Jeroen J.G. van Merriënboer (b. 1959).md (8.1 KB)
-├── Jeroen van Merriënboer.md (7.8 KB)
-├── jeroen-van-merriënboer.md (6.5 KB)
-├── jerome-bruner.md (6.7 KB)
-├── Joan-L.-Duda.md (7.1 KB)
-├── John Dewey (1859–1952) — University of Chicago; Columbia University.md (9.5 KB)
-├── John Flavell (1928–present) — Stanford University.md (9.8 KB)
-├── John G. Nicholls (1940–1994) — University of Illinois, then Vanderbilt.md (6.8 KB)
-├── John H. Flavell (1928–) — Stanford University.md (7.8 KB)
-├── John H. Flavell (1928–).md (7.4 KB)
-├── John H. Flavell (b. 1928).md (7.4 KB)
-├── John R. Anderson.md (5.0 KB)
-├── John Sweller (1946–).md (8.1 KB)
-├── John Sweller (1946–present) — University of New South Wales.md (9.9 KB)
-├── John Sweller (b. 1946).md (7.1 KB)
-├── john-dewey.md (6.7 KB)
-├── john-flavell.md (7.0 KB)
-├── john-g.-nicholls.md (7.2 KB)
-├── john-h.-flavell.md (7.1 KB)
-├── john-sweller.md (6.5 KB)
-├── Johnmarshall Reeve (dates not verified).md (7.5 KB)
-├── Johnmarshall Reeve.md (5.2 KB)
-├── Jonathan St. B. T. Evans (b. 1948) — University of Plymouth (Emeritus).md (7.8 KB)
-├── jonathan-evans.md (7.0 KB)
-├── Joseph T. Hart (1936–).md (7.7 KB)
-├── JSON-RPC.md (6.2 KB)
-├── Judgment of Learning — JOL (Nelson & Narens, 1990; Nelson & Dunlosky, 1991).md (7.7 KB)
-├── Judgment-of-Learning-—-JOL.md (7.3 KB)
-├── judgment-of-learning.md (6.9 KB)
-├── K. Anders Ericsson (1947–2020).md (5.2 KB)
-├── Kahneman, D. (2011). Thinking, Fast and Slow. New York Farrar, Straus and Giroux.md (7.6 KB)
-├── Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise A failure to disagree. American Psychologist,.md (7.8 KB)
-├── Kahneman's Heuristics-as-Bias vs. Gigerenzer's Heuristics-as-Adaptive-Tools.md (8.9 KB)
-├── Kalyuga, S., & Sweller, J. (2005). Rapid dynamic assessment of expertise to improve the efficiency of adaptive.md (8.1 KB)
-├── Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. Educational Psychologist,.md (6.4 KB)
-├── Kapur, M. (2008). Productive failure. Cognition and Instruction, 26(3), 379–424.md (7.7 KB)
-├── Kapur, M. (2016). Examining productive failure, productive success, and deliberate practice in the learning of math.md (7.7 KB)
-├── Kasser, T., & Ryan, R. M. (1996). Further examining the American dream Differential correlates of intrinsic and.md (8.0 KB)
-├── Keith Stanovich (b. 1950) — University of Toronto (Emeritus).md (7.7 KB)
-├── keith-stanovich.md (7.0 KB)
-├── Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), Nebraska Symposium on Motivation.md (8.6 KB)
-├── Kenji Murayama.md (5.2 KB)
-├── Kenji-Murayama.md (6.5 KB)
-├── Key Terms and Their Practical Significance.md (7.5 KB)
-├── Kintsch, W. (1998). Comprehension A paradigm for cognition. Cambridge University Press.md (7.7 KB)
-├── Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work An analysis.md (8.5 KB)
-├── Kirschner,-Sweller-&-Clark.md (5.8 KB)
-├── Klein, G. (1998). Sources of power How people make decisions. Cambridge, MA MIT Press.md (5.4 KB)
-├── Knowledge Graph Integration Map.md (30.3 KB)
-├── Knowledge Graph Integration.md (33.5 KB)
-├── Knowledge of Cognition (Brown, 1987 — extending Flavell, 1979).md (9.6 KB)
-├── Knowledge of Cognition (Flavell, 1979).md (9.7 KB)
-├── Knowledge-Graph.md (7.3 KB)
-├── knowledge-management.md (7.3 KB)
-├── knowledge-of-cognition.md (6.9 KB)
-├── knowledge-representation.md (7.2 KB)
-├── knowledge-telling-vs.-knowledge-transforming.md (7.4 KB)
-├── Knowles, M. S. (1975). Self-directed learning A guide for learners and teachers. Association Press.md (6.5 KB)
-├── Knowles, M.S. (1975). Self-Directed Learning A Guide for Learners and Teachers. Association Press.md (9.3 KB)
-├── Koriat, A. (1997). Monitoring one's own knowledge during study A cue-utilization approach to judgments of learning.md (8.3 KB)
-├── Koriat, A. (2007). Metacognition and consciousness. In P. D. Zelazo, M. Moscovitch, & E. Thompson (Eds.), The Cambridge.md (7.7 KB)
-├── Koriat's Cue-Utilization Framework A Comprehensive Treatment.md (8.3 KB)
-├── Kreuzberger, D., Kühl, N., & Hirschl, S. (2023). Machine Learning Operations (MLOps) Overview, Definition, and.md (5.4 KB)
-├── Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed Modelling habit.md (9.5 KB)
-├── Language Server Protocol (LSP).md (6.9 KB)
-├── Large-Language-Model.md (6.7 KB)
-├── Latham, G. P., & Locke, E. A. (2007). New developments in and directions for goal-setting research. European.md (6.9 KB)
-├── Leadership Development and the Cultivation of Collective Efficacy.md (6.8 KB)
-├── Learned-Helplessness-and-Explanatory-Style.md (8.8 KB)
-├── learned-helplessness.md (7.0 KB)
-├── Learning Contract (Knowles).md (10.3 KB)
-├── Learning Contract Design Template.md (9.9 KB)
-├── Learning Task (van Merriënboer & Kirschner, 2018).md (9.2 KB)
-├── learning-contracts.md (6.8 KB)
-├── learning-environment.md (6.5 KB)
-├── learning-projects.md (6.8 KB)
-├── learning-strategies.md (6.7 KB)
-├── learning-strategy-selection.md (6.8 KB)
-├── lecture-comprehension-research.md (7.0 KB)
-├── Legal Interpretation as Metacognitive Reading.md (7.7 KB)
-├── legal-interpretation-cognitive-models.md (7.0 KB)
-├── Legitimate-Peripheral-Participation.md (6.8 KB)
-├── Leppink, J., Paas, F., Van der Vleuten, C. P. M., Van Gog, T., & Van Merriënboer, J. J. G. (2013). Development of an.md (8.5 KB)
-├── Leppink, J., Paas, F., van Gog, T., van der Vleuten, C. P. M., & van Merriënboer, J. J. G. (2014). Effects of pairs of.md (8.4 KB)
-├── Lev Vygotsky (1896–1934) — Moscow State University.md (9.3 KB)
-├── Lev Vygotsky (1896–1934).md (7.4 KB)
-├── lev-vygotsky.md (6.7 KB)
-├── Level 1 Summary.md (5.9 KB)
-├── Level 1 Surface — The Observable Phenomenon.md (5.6 KB)
-├── Level 1 Surface — What CLT Appears to Be on First Encounter.md (7.4 KB)
-├── Level 2 Mechanism — How Internalization Actually Works.md (6.0 KB)
-├── Level 2 Mechanism — How Intrinsic Load Is Actually Generated.md (7.6 KB)
-├── Level 2 Summary.md (6.5 KB)
-├── Level 3 Substructure — The Components Beneath the Mechanism.md (7.7 KB)
-├── Level 3 Substructure — What Lies Beneath the Mechanism.md (6.1 KB)
-├── Level 3 Summary.md (6.4 KB)
-├── Level 4 Dynamics — How the Substructure Produces Observable Behavior Across Time.md (7.9 KB)
-├── Level 4 Dynamics — The Substrate in Motion.md (6.4 KB)
-├── Level 4 Summary.md (6.4 KB)
-├── Level 5 Edge Cases — The Boundaries of the Standard Model.md (5.9 KB)
-├── Level 5 Edge Cases — The Boundary Conditions That Have Forced Theoretical Reorganization.md (8.1 KB)
-├── Level 5 Summary.md (6.4 KB)
-├── Level 6 Frontier — Where the Field Is Currently Active.md (5.9 KB)
-├── Level 6 Frontier — Where the Field Is Currently Working.md (7.7 KB)
-├── Level 6 Summary.md (6.1 KB)
-├── Level 7 Speculation — Informed Extrapolation Beyond Current Evidence.md (7.8 KB)
-├── Level 7 Speculation — What Internalization May Become.md (6.0 KB)
-├── Level 7 Summary.md (5.6 KB)
-├── Levels of Processing (Craik & Lockhart, 1972).md (10.3 KB)
-├── levels-of-processing-theory.md (7.3 KB)
-├── levels-of-processing.md (6.6 KB)
-├── Lifelong Learning.md (11.1 KB)
-├── lifelong-learning-system-design.md (6.7 KB)
-├── lifelong-learning.md (6.7 KB)
-├── Linda Baker — University of Maryland, Baltimore County.md (7.8 KB)
-├── linda-baker.md (6.9 KB)
-├── linting.md (6.0 KB)
-├── Lisa Ordóñez (Eller College of Management) — University of Arizona.md (6.7 KB)
-├── Locke, E. A., & Latham, G. P. (1990). A Theory of Goal Setting and Task Performance. Englewood Cliffs, NJ Prentice-Hall.md (7.0 KB)
-├── Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation A.md (7.1 KB)
-├── Locke, E. A., & Latham, G. P. (Eds.). (2013). New Developments in Goal Setting and Task Performance. New York Routledge.md (6.9 KB)
-├── Locus of Causality (Heider, 1958; Weiner, 1972).md (8.8 KB)
-├── locus-of-causality.md (6.6 KB)
-├── locus-of-control.md (6.7 KB)
-├── Long-Term Working Memory (Ericsson & Kintsch, 1995).md (6.9 KB)
-├── Long-Term Working Memory (LTWM).md (7.3 KB)
-├── long-term-memory.md (6.6 KB)
-├── long-term-working-memory.md (6.3 KB)
-├── Loss-aversion.md (7.0 KB)
-├── Louis Narens (b. 1941).md (7.8 KB)
-├── louis-narens.md (7.0 KB)
-├── Lucy Guglielmino — Florida Atlantic University.md (9.1 KB)
-├── lucy-guglielmino.md (6.8 KB)
-├── Maarten Vansteenkiste (1976–).md (7.5 KB)
-├── Maarten Vansteenkiste.md (5.3 KB)
-├── maarten-vansteenkiste.md (6.5 KB)
-├── Magnification Arc Summary.md (7.1 KB)
-├── Malcolm Knowles (1913–1997) — North Carolina State University; Boston University.md (9.5 KB)
-├── Malcolm Knowles (1913–1997) — North Carolina State University.md (6.6 KB)
-├── malcolm-knowles.md (6.8 KB)
-├── Map-of-Content.md (6.5 KB)
-├── Markdown-Fundamentals.md (6.6 KB)
-├── Martin Seligman (1942–present).md (8.4 KB)
-├── Martin-Seligman.md (6.8 KB)
-├── Maslow's-Hierarchy-of-Needs.md (7.0 KB)
-├── Master Diagnostic Flow Something Isn't Working.md (5.7 KB)
-├── Mastery Climate vs. Performance Climate.md (8.3 KB)
-├── Mastery Climate.md (7.8 KB)
-├── Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich).md (11.7 KB)
-├── Mastery-Approach Goal (Elliot 2×2 framework).md (7.8 KB)
-├── mastery-approach-goal.md (7.2 KB)
-├── mastery-avoidance-goal.md (7.2 KB)
-├── Mastery-Climate Configuration Checklist (TARGET-Based).md (7.1 KB)
-├── mastery-climate.md (7.2 KB)
-├── mastery-experience-vocabulary.md (7.1 KB)
-├── mastery-experience.md (7.0 KB)
-├── mastery-goal-orientation.md (6.8 KB)
-├── mastery-goal.md (6.8 KB)
-├── mastery-mode.md (6.5 KB)
-├── mastery-orientation-vs-performance-orientation.md (6.6 KB)
-├── mastery-oriented-response-pattern.md (6.8 KB)
-├── mastery-pathway.md (6.5 KB)
-├── mastery-self-talk.md (6.5 KB)
-├── Mayer, R. E. (2009). Multimedia learning (2nd ed.). Cambridge University Press.md (7.9 KB)
-├── MCII (Mental Contrasting with Implementation Intentions).md (5.9 KB)
-├── mcii.md (6.6 KB)
-├── McKinney, W. (2022). Python for Data Analysis (3rd ed.). O'Reilly Media.md (5.1 KB)
-├── MCP-Server-Development-with-Python.md (6.2 KB)
-├── mcp-servers.md (6.2 KB)
-├── MCP-Tools.md (6.5 KB)
-├── meaningful-learning.md (7.2 KB)
-├── Mechanism Three Operational Signatures.md (4.8 KB)
-├── Medical Decision-Making and Diagnostic Attribution.md (9.8 KB)
-├── Medical Education Diagnostic Reasoning as Schema Construction.md (8.8 KB)
-├── medical-education.md (6.5 KB)
-├── memory-consolidation.md (6.7 KB)
-├── memory-monitoring.md (6.5 KB)
-├── Mental Contrasting (Oettingen).md (5.8 KB)
-├── mental-contrasting — Oettingen's Independent Contribution.md (5.3 KB)
-├── mental-contrasting.md (6.7 KB)
-├── mental-effort.md (6.5 KB)
-├── mental-model.md (6.5 KB)
-├── Merriënboer, J. J. G. van (1997). Training Complex Cognitive Skills A Four-Component Instructional Design Model for.md (8.2 KB)
-├── Merriënboer, J. J. G. van, & Kirschner, P. A. (2018). Ten Steps to Complex Learning A Systematic Approach to.md (8.2 KB)
-├── Meta-Level (Nelson & Narens, 1990).md (6.9 KB)
-├── Meta-Level-Object-Level-Model.md (7.2 KB)
-├── meta-level-object-level.md (6.9 KB)
-├── meta-level.md (7.1 KB)
-├── meta-levelobject-level-architecture.md (7.2 KB)
-├── metacognition — The Cognitive Science of Thinking About Thinking.md (6.7 KB)
-├── Metacognition (Flavell, 1976, 1979).md (9.2 KB)
-├── Metacognition (Flavell, 1976).md (9.5 KB)
-├── Metacognition (Flavell, 1979).md (7.4 KB)
-├── Metacognition (John Flavell, 1976).md (11.4 KB)
-├── Metacognition (Nelson & Narens' Operational Framing).md (9.6 KB)
-├── Metacognition as the Governor of Strategy Deployment.md (10.4 KB)
-├── Metacognition-—-Foundational-Concepts.md (7.2 KB)
-├── Metacognition-&-Motivation.md (7.2 KB)
-├── Metacognition-and-Memory-Monitoring.md (7.2 KB)
-├── metacognition-and-self-regulated-learning.md (6.8 KB)
-├── Metacognition-and-the-Limits-of-Self-Knowledge.md (7.8 KB)
-├── metacognition-foundational-concepts.md (7.0 KB)
-├── Metacognition.md (11.0 KB)
-├── Metacognitive Calibration Self-Assessment.md (8.0 KB)
-├── Metacognitive Calibration Training Methods, Evidence, and Mechanisms.md (8.2 KB)
-├── Metacognitive Calibration Training Protocols.md (7.5 KB)
-├── Metacognitive Closing Prompt.md (5.4 KB)
-├── Metacognitive Control (Nelson & Narens, 1990).md (9.0 KB)
-├── Metacognitive Development Across Expertise Levels From Novice to Expert Self-Regulation.md (7.9 KB)
-├── Metacognitive Knowledge (Flavell).md (9.0 KB)
-├── Metacognitive Load Missing Construct or Unnecessary Extension.md (8.0 KB)
-├── Metacognitive Monitoring (Nelson & Narens, 1990).md (9.2 KB)
-├── Metacognitive Monitoring in Self-Directed Learning.md (7.7 KB)
-├── Metacognitive Prompts in PKB Templates.md (10.3 KB)
-├── Metacognitive Scaffolding.md (7.4 KB)
-├── Metacognitive Sovereignty (Original to This Report).md (7.8 KB)
-├── Metacognitive Sovereignty as the Cognitive Core of SDL.md (6.9 KB)
-├── metacognitive-and-affective-model-of-self-regulated-learning.md (6.6 KB)
-├── metacognitive-awareness.md (7.2 KB)
-├── metacognitive-calibration-model.md (6.8 KB)
-├── Metacognitive-Calibration-Training-Protocols.md (6.9 KB)
-├── metacognitive-calibration-training.md (6.8 KB)
-├── metacognitive-calibration.md (7.0 KB)
-├── metacognitive-control.md (6.9 KB)
-├── Metacognitive-Development-Across-Expertise-Levels.md (6.9 KB)
-├── metacognitive-experience.md (7.1 KB)
-├── metacognitive-experiences.md (7.1 KB)
-├── metacognitive-externalization.md (7.0 KB)
-├── metacognitive-feelings.md (7.0 KB)
-├── metacognitive-judgments.md (7.2 KB)
-├── Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy.md (7.3 KB)
-├── metacognitive-knowledge.md (6.6 KB)
-├── Metacognitive-Monitoring-Accuracy-and-Calibration.md (7.3 KB)
-├── metacognitive-monitoring-accuracy-calibration.md (6.6 KB)
-├── metacognitive-monitoring-accuracy.md (7.0 KB)
-├── metacognitive-monitoring-and-control.md (6.7 KB)
-├── metacognitive-monitoring.md (6.5 KB)
-├── metacognitive-regulation.md (6.4 KB)
-├── metacognitive-scaffolding-design-patterns.md (6.9 KB)
-├── metacognitive-scaffolding-design-triangle.md (6.9 KB)
-├── metacognitive-scaffolding.md (6.3 KB)
-├── metacognitive-self-regulation.md (6.7 KB)
-├── metacognitive-sensitivity.md (7.0 KB)
-├── metacognitive-strategies.md (7.4 KB)
-├── Metatheory as Predictive Constraint.md (7.8 KB)
-├── Method Transfer Progressive Magnification as a Study Discipline.md (8.4 KB)
-├── Method Transfer Progressive Magnification as a Study Method.md (6.5 KB)
-├── Methodological Transparency.md (9.9 KB)
-├── Methodology & Epistemic Transparency.md (18.1 KB)
-├── Methodology and Epistemic Transparency.md (12.0 KB)
-├── Methodology and Sources.md (9.9 KB)
-├── Methodology as Theory-Enabler.md (8.0 KB)
-├── Methodology Note.md (9.0 KB)
-├── Methodology of This Report.md (11.0 KB)
-├── Methodology, Claim Taxonomy, and AI Generation Transparency.md (13.0 KB)
-├── Methodology, Claim Taxonomy, and Generation Transparency.md (14.0 KB)
-├── Methodology.md (9.5 KB)
-├── Mezirow, J. (1991). Transformative dimensions of adult learning. Jossey-Bass.md (6.3 KB)
-├── Michael Bratman (Stanford University).md (4.8 KB)
-├── Michael Pressley (1951–2006) — Michigan State University.md (7.8 KB)
-├── michael-pressley.md (6.9 KB)
-├── Microsoft. (2024). Language Server Protocol Specification — Version 3.17. Microsoft.md (5.1 KB)
-├── Microsoft. (2024). Python in Visual Studio Code. Microsoft Documentation.md (5.2 KB)
-├── Midgley, C., Kaplan, A., & Middleton, M. (2001). Performance-approach goals Good for what, for whom, under what.md (7.0 KB)
-├── Miller, G. A. (1956). The magical number seven, plus or minus two Some limits on our capacity for processing.md (5.7 KB)
-├── Miller's-Magical-Number-Seven.md (6.7 KB)
-├── Mindset-Theory.md (7.1 KB)
-├── mindset.md (6.9 KB)
-├── Mindware (Stanovich).md (8.4 KB)
-├── mindware.md (7.0 KB)
-├── Modality Effect.md (7.2 KB)
-├── modality-effect.md (6.4 KB)
-├── modeling.md (6.4 KB)
-├── Monique Boekaerts (1944– ), Leiden University.md (10.4 KB)
-├── Monique-Boekaerts.md (6.4 KB)
-├── Monitoring Accuracy as Trait vs. State Is Calibration Stable.md (8.9 KB)
-├── Monitoring Accuracy Improvement Protocol.md (8.9 KB)
-├── Monitoring as Vocabulary-Dependent Signal Generation.md (11.6 KB)
-├── Monitoring Phase (Pintrich).md (11.7 KB)
-├── Monitoring Vocabulary Audit.md (11.3 KB)
-├── Monitoring-Control Coupling.md (8.8 KB)
-├── Monitoring-Control Loop (Nelson & Narens, 1990; Flavell, 1979).md (7.7 KB)
-├── monitoring-control-architecture.md (6.8 KB)
-├── monitoring-control-coupling.md (6.8 KB)
-├── monitoring-control-loop.md (6.9 KB)
-├── monitoring-regulation-coupling.md (7.0 KB)
-├── Monitoring–Control Loop (Nelson & Narens, 1990).md (8.7 KB)
-├── Monitoring–Control-Coupling.md (6.9 KB)
-├── monitoring.md (6.4 KB)
-├── motivated-reasoning.md (6.8 KB)
-├── motivated-strategies-for-learning-questionnaire.md (6.6 KB)
-├── Motivation Regulation as a Cognitive Skill.md (11.1 KB)
-├── motivation-continuum.md (7.0 KB)
-├── motivation-theory-foundational-report.md (6.9 KB)
-├── motivation-theory.md (6.8 KB)
-├── motivation.md (7.0 KB)
-├── Motivational Ecology (Original to This Report).md (10.3 KB)
-├── Motivational Regulation (Pintrich).md (11.7 KB)
-├── motivational-climate.md (6.9 KB)
-├── motivational-interviewing.md (6.9 KB)
-├── motivational-psychology.md (6.9 KB)
-├── motivational-regulation-strategies.md (6.5 KB)
-├── motivational-regulation.md (6.5 KB)
-├── motor-learning.md (6.6 KB)
-├── multimedia-learning-theory.md (6.2 KB)
-├── Multiple-Goal Pursuit.md (6.4 KB)
-├── Multon, K. D., Brown, S. D., & Lent, R. W. (1991). Relation of self-efficacy beliefs to academic outcomes A.md (6.2 KB)
-├── myside-bias.md (7.0 KB)
-├── Name the Ten Steps of the 4CID design methodology.md (7.7 KB)
-├── natural-language-processing.md (6.6 KB)
-├── naturalistic-decision-making.md (6.7 KB)
-├── Navigation Guide.md (7.0 KB)
-├── Near-Transfer.md (6.4 KB)
-├── near-vs.-far-transfer.md (7.2 KB)
-├── Need Frustration (Vansteenkiste & Ryan, 2013).md (9.1 KB)
-├── Need Frustration as an Active Pathogenic Process.md (7.8 KB)
-├── Need Frustration.md (5.6 KB)
-├── Need Satisfaction as Dynamic Equilibrium — Toward an Ecological SDT.md (8.8 KB)
-├── Need Satisfaction vs. Need Frustration — One Continuum or Two.md (8.1 KB)
-├── Need-Frustration-and-Psychopathology.md (7.0 KB)
-├── Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis.md (6.9 KB)
-├── need-frustration.md (6.4 KB)
-├── need-satisfaction-as-dynamic-equilibrium-not-cumulative-score.md (6.7 KB)
-├── need-satisfaction-vs.-need-frustration.md (7.0 KB)
-├── need-satisfaction.md (6.9 KB)
-├── Need-Supportive Environment Assessment.md (8.0 KB)
-├── Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis.md (6.8 KB)
-├── need-thwarting.md (6.4 KB)
-├── Nelson-and-Narens.md (6.9 KB)
-├── nelson-narens-model.md (7.5 KB)
-├── Nelson, T. O., & Dunlosky, J. (1991). When people's judgments of learning (JOLs) are extremely accurate at predicting.md (8.4 KB)
-├── Nelson, T. O., & Narens, L. (1990). Metamemory A theoretical framework and new findings. In G. Bower (Ed.), The.md (8.2 KB)
-├── Nelson, T. O., & Narens, L. (1990). Metamemory A theoretical framework and new findings. In G. H. Bower (Ed.), The.md (7.3 KB)
-├── Nelson, T. O., & Narens, L. (1994). Why investigate metacognition In J. Metcalfe & A. P. Shimamura (Eds.),.md (8.1 KB)
-├── Nelson.md (6.4 KB)
-├── Neural Mechanisms of Causal Attribution.md (8.3 KB)
-├── Nicholls, J. G. (1984). Achievement motivation Conceptions of ability, subjective experience, task choice, and.md (6.9 KB)
-├── Non-Recurrent Constituent Skill (van Merriënboer, 1997).md (9.3 KB)
-├── note-making-vs.-note-taking.md (7.4 KB)
-├── note-taking-as-metacognitive-tool.md (7.0 KB)
-├── Nudge-Theory.md (7.0 KB)
-├── Numeracy.md (7.0 KB)
-├── Object-Level (Nelson & Narens, 1990).md (6.7 KB)
-├── Obsidian-Automation.md (6.6 KB)
-├── obsidian-pkb-architecture.md (7.4 KB)
-├── obsidian-zettelkasten.md (6.7 KB)
-├── obsidian.md (7.3 KB)
-├── Oettingen, G. (2014). Rethinking positive thinking Inside the new science of motivation. New York Current.md (5.0 KB)
-├── online-learning-design.md (6.8 KB)
-├── Open Question Domain Specificity vs. Generality of Regulatory Skill.md (10.5 KB)
-├── Ordóñez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). Goals gone wild The systematic side.md (7.3 KB)
-├── Organisational Decision-Making and Institutional Design.md (8.6 KB)
-├── Organisational Leadership and Performance Evaluation.md (9.4 KB)
-├── Organisational Learning and Professional Development.md (10.2 KB)
-├── Organisational-Routines.md (7.0 KB)
-├── Organismic Integration Tendency (Ryan, 1995; Deci & Ryan, 2000).md (9.1 KB)
-├── Organismic Integration Theory (OIT).md (5.9 KB)
-├── Organismic Metatheory.md (8.5 KB)
-├── organismic-integration-tendency.md (7.0 KB)
-├── organismic-integration-theory.md (6.4 KB)
-├── organismic-metatheory.md (7.0 KB)
-├── organization-strategies.md (6.5 KB)
-├── Organizational Architecture in Practice.md (9.4 KB)
-├── Organizational Capability as Collective Chunking.md (6.4 KB)
-├── Organizational Knowledge Management.md (10.1 KB)
-├── Organizational Leadership — The Autonomy-Supportive Leader as Need Architect.md (8.4 KB)
-├── Organizational Learning and Knowledge Management Systems.md (10.8 KB)
-├── Organizational Learning Strategic Self-Assessment.md (8.4 KB)
-├── Organizational Learning Teams as Self-Directed Learning Systems.md (7.1 KB)
-├── Organizational Learning Training Program Architecture.md (8.5 KB)
-├── organizational-culture.md (7.0 KB)
-├── Organizational-Learning.md (6.9 KB)
-├── Original Synthesis Git as Cognitive Safety Net for Experimental Learning.md (6.7 KB)
-├── Original Synthesis The Intent-Code-Understanding Cycle.md (7.0 KB)
-├── Original Synthesis What Only Depth Reveals.md (8.0 KB)
-├── Original-Synthesis-Element-Interactivity-as-Relational-Complexity-Under-Constrai.md (6.1 KB)
-├── original-synthesis-the-element-interactivity-paradox.md (6.0 KB)
-├── original-synthesis-the-metacognitive-monitoring-paradox.md (7.3 KB)
-├── original-synthesis-the-pkm-expertise-design-alignment-model.md (6.8 KB)
-├── Outcome Expectation.md (6.6 KB)
-├── Overconfidence-Bias.md (6.3 KB)
-├── overjustification-effect.md (7.0 KB)
-├── Paas, F. (1992). Training strategies for attaining transfer of problem-solving skill in statistics A cognitive-load.md (8.3 KB)
-├── Paas, F., & van Merriënboer, J. J. G. (1994). Instructional control of cognitive load in the training of complex.md (8.1 KB)
-├── Package-Management.md (6.1 KB)
-├── Pajares, F. (1996). Self-efficacy beliefs in academic settings. Review of Educational Research, 66(4), 543–578.md (5.9 KB)
-├── Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring.md (8.1 KB)
-├── PALS-—-Patterns-of-Adaptive-Learning-Survey.md (7.4 KB)
-├── Pandas.md (6.5 KB)
-├── Paradigm-Theory.md (6.6 KB)
-├── Parenting and Value Transmission — Internalization as Developmental Engineering.md (8.5 KB)
-├── Part-Task Practice (van Merriënboer & Kirschner, 2018).md (8.9 KB)
-├── Part-Task Practice Is Not Part-Task Instruction.md (7.8 KB)
-├── Paschal Sheeran (University of North Carolina at Chapel Hill).md (4.9 KB)
-├── Passive Storage vs. Active Cognitive Engagement in PKB Design.md (11.2 KB)
-├── PATH (Environment Variable).md (5.7 KB)
-├── PATH Environment Variable.md (7.8 KB)
-├── Pattern-Recognition.md (6.7 KB)
-├── Paul Kirschner (b. 1951).md (7.9 KB)
-├── Paul R. Pintrich (1953–2003), University of Michigan.md (10.6 KB)
-├── paul-pintrich.md (6.9 KB)
-├── paul-r-pintrich.md (6.4 KB)
-├── Pause and Apply.md (11.3 KB)
-├── Pause and Configure.md (5.1 KB)
-├── Pause and Connect.md (7.5 KB)
-├── Pause and Consider.md (7.4 KB)
-├── Pause and Construct.md (7.7 KB)
-├── Pause and Integrate.md (3.8 KB)
-├── Pause and Reflect.md (10.4 KB)
-├── pedagogy.md (6.8 KB)
-├── Pekrun, R. (2006). The control-value theory of achievement emotions Assumptions, corollaries, and implications for.md (7.0 KB)
-├── Perceived Locus of Causality (deCharms, 1968; Deci & Ryan, 1985).md (9.2 KB)
-├── Perceived Self-Efficacy (Bandura, 1977, 1986, 1997).md (5.6 KB)
-├── perceived-competence.md (7.0 KB)
-├── perceived-locus-of-causality.md (6.6 KB)
-├── Performance Gains vs. Performance Pathologies.md (7.8 KB)
-├── Performance Goal vs. Learning Goal (Locke & Latham, 1990; refined 2002).md (8.4 KB)
-├── Performance Goal vs. Learning Goal Decision Tree.md (6.9 KB)
-├── Performance Goal vs. Learning Goal.md (7.6 KB)
-├── Performance Monitoring Through Structured Annotation.md (8.1 KB)
-├── Performance-Approach Goals Adaptive or Conditionally Adaptive.md (7.1 KB)
-├── performance-approach-goal.md (7.2 KB)
-├── Performance-Avoidance Goal (Elliot 2×2 framework).md (8.2 KB)
-├── performance-avoidance-goal.md (7.2 KB)
-├── Performance-Climate.md (7.2 KB)
-├── performance-goal-orientation.md (7.2 KB)
-├── performance-goal.md (6.8 KB)
-├── Performance-Goals-vs-Mastery-Goals-Reconciling-the-Frameworks.md (7.0 KB)
-├── performance-phase.md (6.8 KB)
-├── Perkins-and-Salomon.md (6.9 KB)
-├── Perkins-Salomon.md (6.8 KB)
-├── Perkins, D. N., & Salomon, G. (1992). Transfer of learning. In T. Husén & T. N. Postlethwaite (Eds.), International.md (7.6 KB)
-├── Perkins, D. N., & Salomon, G. (1992). Transfer of Learning. International Encyclopedia of Education (2nd ed.). Pergamon.md (5.3 KB)
-├── Perry, R. P., Stupnisky, R. H., Hall, N. C., Chipperfield, J. G., & Weiner, B. (2010). Bad starts and better finishes.md (9.0 KB)
-├── Personal Knowledge Management — The PKB as an Autonomy-Supportive Learning Environment.md (8.4 KB)
-├── Personal Knowledge Management (PKM).md (10.5 KB)
-├── Personal Knowledge Management and Learning Self-Assessment.md (9.5 KB)
-├── Personal Knowledge Management and Reflective Practice.md (8.7 KB)
-├── Personal Knowledge Management PKM as Self-Directed 4CID.md (8.6 KB)
-├── Personal Knowledge Management System Design.md (10.1 KB)
-├── Personal Knowledge Management Systems.md (7.3 KB)
-├── Personal Learning Environment — PLE (Martindale & Dowdy, 2010; various).md (7.7 KB)
-├── personal-causation.md (6.8 KB)
-├── personal-knowledge-base.md (6.5 KB)
-├── personal-knowledge-management — Systems and Practices for Lifelong Knowledge Construction.md (6.8 KB)
-├── Personal-Knowledge-Management-—-PKM.md (6.8 KB)
-├── personal-knowledge-management-pkm.md (7.2 KB)
-├── personal-knowledge-management-systems-and-spaced-repetition.md (7.3 KB)
-├── personal-knowledge-management.md (6.8 KB)
-├── personal-learning-environments.md (6.9 KB)
-├── personal-responsibility-orientation.md (6.7 KB)
-├── personal-workflow-architecture.md (6.6 KB)
-├── Perspective-Taking.md (6.8 KB)
-├── Peter M. Gollwitzer (b. 1950, NYU University of Konstanz).md (5.0 KB)
-├── Peter M. Gollwitzer (b. 1950) — New York University.md (6.6 KB)
-├── peter-wason.md (7.0 KB)
-├── phenomenological-substitution.md (7.1 KB)
-├── Philip Candy — University of Ballarat.md (9.1 KB)
-├── Philip H. Winne (1945– ), Simon Fraser University.md (10.6 KB)
-├── philip-candy.md (6.8 KB)
-├── Philip-H-Winne.md (6.4 KB)
-├── philip-johnson-laird.md (7.0 KB)
-├── Philip-Winne.md (7.1 KB)
-├── phonological-loop.md (6.5 KB)
-├── Physiological and Affective States (Somatic Source).md (5.4 KB)
-├── Pintrich-vs-Zimmerman-A-Comparative-Analysis-of-Cyclical-SRL-Models.md (10.8 KB)
-├── Pintrich, P. R. (2000). Multiple goals, multiple pathways The role of goal orientation in learning and achievement.md (6.9 KB)
-├── Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In M. Boekaerts, P. R. Pintrich, & M.md (11.2 KB)
-├── Pintrich, P. R., & De Groot, E. V. (1990). Motivational and self-regulated learning components of classroom academic.md (10.9 KB)
-├── Pintrich, P. R., Smith, D. A. F., Garcia, T., & McKeachie, W. J. (1991). A manual for the use of the Motivated.md (11.2 KB)
-├── Pintrich, P. R., Smith, D. A. F., Garcia, T., & McKeachie, W. J. (1993). Reliability and predictive validity of the.md (10.8 KB)
-├── Pintrich.md (6.7 KB)
-├── Pintrich's Framework of Self-Regulated Learning.md (11.7 KB)
-├── Pintrich's-4×4-Matrix.md (7.2 KB)
-├── Pintrich's-Integrative-SRL-Framework.md (7.4 KB)
-├── pip.md (6.0 KB)
-├── PKB Architecture Cognitive Load Audit.md (10.4 KB)
-├── PKB as Externalized Coherence Standard.md (8.4 KB)
-├── PKB Integration Four-Category Connection Map.md (15.3 KB)
-├── PKB Integration Map.md (39.2 KB)
-├── PKB Scripting and Knowledge Infrastructure.md (6.1 KB)
-├── PKB Template Architecture for Self-Regulated Learning A Design Pattern Library.md (7.9 KB)
-├── PKB-Automation.md (6.6 KB)
-├── pkb-fluency-trap.md (6.7 KB)
-├── pkb-goal-scaffolding-architecture.md (6.8 KB)
-├── PKB-Template-Architecture-for-Self-Regulated-Learning.md (6.9 KB)
-├── PKM and AI-Augmented Learning The Emerging Frontier.md (7.1 KB)
-├── PKM and Lifelong Self-Directed Learning.md (7.7 KB)
-├── planning.md (6.4 KB)
-├── podcast-listening-deep-engagement.md (7.0 KB)
-├── Political Reasoning and Voter Attribution.md (9.3 KB)
-├── positive-psychology.md (7.0 KB)
-├── Power Law of Practice.md (6.4 KB)
-├── power-law-of-practice.md (6.7 KB)
-├── Practical Takeaways — Section 1.md (4.2 KB)
-├── Practical Takeaways — Section 2.md (4.3 KB)
-├── Practical Takeaways — Section 3.md (4.3 KB)
-├── Practical Takeaways — Section 4.md (4.2 KB)
-├── Practical Takeaways — Section 5.md (4.3 KB)
-├── Practical Takeaways — Section 6.md (4.2 KB)
-├── Practical Takeaways — Section 7.md (4.3 KB)
-├── Practical Takeaways — Section 8.md (4.3 KB)
-├── Practice-Oriented Reflection.md (7.3 KB)
-├── Practitioner's Note.md (4.0 KB)
-├── Pre-Commit Quality Checklist.md (5.1 KB)
-├── Precision Note on Autonomy.md (6.1 KB)
-├── Precision Note on Reversibility.md (5.8 KB)
-├── Precision Note.md (7.0 KB)
-├── predictive-processing.md (7.0 KB)
-├── prefrontal-cortex.md (5.8 KB)
-├── Prejudice-and-Stereotyping.md (6.8 KB)
-├── premature-closure.md (6.9 KB)
-├── Pressley, M., & Afflerbach, P. (1995). Verbal protocols of reading The nature of constructively responsive reading.md (7.9 KB)
-├── Prior Knowledge Bridge — Connecting Attribution to Your Existing Understanding.md (9.6 KB)
-├── Prior Knowledge Bridge — Connecting to What You Already Know.md (8.7 KB)
-├── Prior Knowledge Bridge — Connecting to Your Existing Understanding.md (10.2 KB)
-├── Prior Knowledge Bridge — Situating This Framework.md (8.7 KB)
-├── Prior Knowledge Bridge — What You Already Know.md (5.9 KB)
-├── prior-knowledge.md (7.5 KB)
-├── problem-solving.md (6.1 KB)
-├── Procedural Information (van Merriënboer & Kirschner, 2018).md (9.0 KB)
-├── procedural-knowledge.md (6.9 KB)
-├── procedural-memory.md (7.1 KB)
-├── Process Actor-Observer Asymmetry Mechanism.md (8.5 KB)
-├── Process Deliberate Practice Conditions.md (5.3 KB)
-├── Process Five-Step Formation Protocol.md (4.8 KB)
-├── Process How Monitoring Drives Control.md (7.9 KB)
-├── Process Monitoring-Control Loop.md (6.4 KB)
-├── Process Power Law of Practice.md (5.5 KB)
-├── Process The Monitoring–Control Loop.md (7.7 KB)
-├── Process The Stability-Expectancy Mechanism.md (8.2 KB)
-├── Processing Fluency (Jacoby & Dallas, 1981; Whittlesea, 1993; applied to metacognition by Koriat and colleagues).md (9.6 KB)
-├── processing-fluency.md (7.0 KB)
-├── Productive Failure and Desirable Difficulties When Struggle Enhances Learning.md (9.8 KB)
-├── Productive Failure When Struggle Enhances Learning.md (8.3 KB)
-├── Productive Failure.md (7.2 KB)
-├── Productive-Failure-and-Desirable-Difficulties.md (6.9 KB)
-├── productive-failure.md (6.9 KB)
-├── professional-learning.md (6.7 KB)
-├── Programming-Concepts.md (6.1 KB)
-├── programming-expertise-metacognitive-component.md (7.0 KB)
-├── progressive-disclosure.md (6.6 KB)
-├── progressive-education.md (6.8 KB)
-├── Project Management and Strategic Planning.md (7.9 KB)
-├── Prompt Engineering for Code The Quality-In-Quality-Out Principle.md (5.9 KB)
-├── Prospect-Theory.md (7.0 KB)
-├── Prospective-Memory and the Cognitive Substrate of Plan-Following.md (5.3 KB)
-├── Prospective-Memory.md (6.7 KB)
-├── Protocol 1 Building a Forethought Template.md (7.8 KB)
-├── Protocol 1 Python Environment Setup in VS Code (Complete Sequence).md (6.6 KB)
-├── Protocol 2 Debugging Workflow for Learning.md (6.3 KB)
-├── Protocol 2 Implementing the Calibration-Adaptation Engine.md (7.6 KB)
-├── Protocol 3 Copilot-Assisted Development (Intent-Code-Understanding).md (6.4 KB)
-├── Protocol Complete Python + VS Code Setup from Scratch.md (7.0 KB)
-├── Protocol Conducting a RecurrentNon-Recurrent Skill Analysis.md (8.8 KB)
-├── Protocol Creating and Managing Virtual Environments in VS Code.md (7.0 KB)
-├── Protocol Designing a Task Class Sequence.md (8.3 KB)
-├── Protocol Designing Autonomy-Supportive Interventions.md (5.8 KB)
-├── Protocol Diagnosing Module Not Found Errors.md (5.7 KB)
-├── Protocol Diagnosing Regulatory Style in Clinical or Educational Practice.md (6.2 KB)
-├── Protocol Making a Python Project Shareable.md (6.9 KB)
-├── Protocol Setting Up a New Python Project from Scratch.md (6.2 KB)
-├── Protocol Standard Python Project Structure.md (7.8 KB)
-├── Protocol Systematic Traceback Reading.md (5.8 KB)
-├── Protocol The Copilot Collaboration Workflow.md (6.8 KB)
-├── Protocol The Encoding Depth Checklist.md (9.5 KB)
-├── Protocol The Weekly PKB Health Check.md (9.3 KB)
-├── Protocol VS Code Debugger Setup and Basic Usage.md (6.8 KB)
-├── Pseudoexpertise-in-the-Age-of-LLMs-Annotated-Analysis.md (5.8 KB)
-├── Pseudoexpertise.md (6.6 KB)
-├── Psychological-Controlling-Parenting.md (6.6 KB)
-├── psychological-well-being.md (7.0 KB)
-├── Python as Universal Glue The Integration Principle.md (5.7 KB)
-├── Python Package.md (4.8 KB)
-├── Python-Data-Analysis-Pipeline-Design.md (6.3 KB)
-├── python-development-in-vscode-practitioners-field-guide-2026-04-19.md (6.3 KB)
-├── python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19.md (6.8 KB)
-├── python-fundamentals.md (6.2 KB)
-├── python-interpreter.md (6.1 KB)
-├── Python-Standard-Library.md (6.1 KB)
-├── Python-Testing-Strategies-and-TDD.md (6.2 KB)
-├── Python-Type-System-and-Static-Analysis.md (6.3 KB)
-├── Python.md (6.0 KB)
-├── Q Define attribute substitution and explain why it produces systematic rather than random error.md (7.9 KB)
-├── Q Describe the High Performance Cycle in one sentence.md (6.7 KB)
-├── Q How does autonomous commitment differ from controlled commitment in its predicted effects on goal pursuit.md (7.1 KB)
-├── Q How does collective efficacy differ from the sum of individual efficacy beliefs in a group.md (6.0 KB)
-├── Q How does Gigerenzer's adaptive-heuristics view differ from the heuristics-as-bias view, and how can the two be.md (8.1 KB)
-├── Q How does monitoring quality depend on vocabulary, and what is the pedagogical implication.md (10.6 KB)
-├── Q Name the four mediating mechanisms through which goals affect performance.md (6.7 KB)
-├── Q Name three motivational regulation strategies from Wolters's catalog and briefly describe each.md (10.6 KB)
-├── Q State the substitution-targeting principle and give one example of an intervention that instantiates it.md (7.8 KB)
-├── Q Through what four channels does an efficacy belief, once formed, exert influence.md (5.8 KB)
-├── Q What are the five conditions that reliably trigger Type 2 intervention in the default-interventionist architecture.md (7.7 KB)
-├── Q What are the four areas across which each phase operates in Pintrich's framework.md (10.2 KB)
-├── Q What are the four phases of Pintrich's framework of self-regulated learning.md (10.3 KB)
-├── Q What are the four sources of efficacy information, ranked by typical evidential weight.md (6.0 KB)
-├── Q What conditions distinguish high-validity from low-validity environments for the development of trustworthy intuition.md (7.9 KB)
-├── Q What distinguishes regulated control from habitual control in the framework's account.md (10.6 KB)
-├── Q What does the phenomenological opacity argument claim, and what is its central implication for self-knowledge.md (8.0 KB)
-├── Q What does triadic reciprocal determinism specify, and why does it matter for self-efficacy.md (6.0 KB)
-├── Q What four cognitive operations transform source information into efficacy belief.md (5.8 KB)
-├── Q What four conditions define the open Translation Window.md (6.6 KB)
-├── Q What four phenomena constitute the dark-side pattern documented by Ordóñez et al. (2009).md (6.8 KB)
-├── Q What gap in classical Goal Setting Theory does the integration with implementation intentions address.md (6.9 KB)
-├── Q What is the calibration problem in the context of metacognitive monitoring, and what does it imply for monitoring.md (10.8 KB)
-├── Q What is the core distinction between an efficacy expectation and an outcome expectation.md (5.9 KB)
-├── Q What is the cost-asymmetry insight that justifies front-loading regulatory work into the forethought phase.md (10.5 KB)
-├── Q What is the difference between the algorithmic mind and the reflective mind in Stanovich's tripartite model.md (7.8 KB)
-├── Q What is the efficacy hierarchy and why does it matter for measurement.md (5.8 KB)
-├── Q What is the master moderator in Goal Setting Theory, and what determines it.md (6.7 KB)
-├── Q What is the methodological critique of MSLQ-based research from Winne, and what does it imply about the existing.md (10.8 KB)
-├── Q What is the most distinctive theoretical contribution of Pintrich's framework relative to prior accounts of.md (10.6 KB)
-├── Q What is the most fundamental architectural difference between Type 1 and Type 2 processing.md (7.6 KB)
-├── Q What is the relationship between self-efficacy and self-regulated learning.md (5.9 KB)
-├── Q What two properties of goals jointly produce the strongest effect on performance, according to Goal Setting Theory.md (6.9 KB)
-├── Q When does Goal Setting Theory recommend a learning goal rather than a performance goal.md (6.8 KB)
-├── Q Why do efficacy interventions targeting only one source typically produce limited effects.md (6.0 KB)
-├── Q Why does education about cognitive biases produce smaller debiasing effects than structural environmental changes.md (7.9 KB)
-├── Q Why does the framework treat reflection as the highest-leverage intervention target despite being empirically the.md (10.8 KB)
-├── Q Why is it accurate to say Goal Setting Theory has become harder to apply well even as its predictive precision has.md (7.2 KB)
-├── Q Why is more efficacy not always practically optimal.md (5.8 KB)
-├── Quality Self-Assessment.md (17.2 KB)
-├── Quality-Assurance.md (6.1 KB)
-├── Questions for Active Engagement.md (7.1 KB)
-├── Questions for Reflection.md (7.9 KB)
-├── Questions to Carry Forward.md (6.5 KB)
-├── Rabbit Hole Predictive processing as a foundation for educational theory.md (7.3 KB)
-├── Rabbit Hole The 4CID model and complex learning.md (7.2 KB)
-├── Rabbit Hole The Conditional Regard Literature.md (6.2 KB)
-├── Rabbit Hole The Form-Content Architecture and Goal Contents Theory.md (5.9 KB)
-├── Rabbit Hole The Need-Frustration Dark Side Literature.md (5.9 KB)
-├── Rabbit Hole The Paas mental-effort scale and its discontents.md (7.5 KB)
-├── ralph-hiemstra.md (6.6 KB)
-├── Reaction and Reflection as Cyclic Coupling.md (11.6 KB)
-├── Reaction and Reflection Phase (Pintrich).md (11.6 KB)
-├── reading-comprehension-strategies.md (7.0 KB)
-├── reading-comprehension.md (6.9 KB)
-├── reading-fluency.md (6.6 KB)
-├── reading-strategies.md (6.9 KB)
-├── Reasoning Trace Why Debug Working Code Is a Learning Strategy.md (7.3 KB)
-├── Reasoning Trace Why the Compounding Scaffolding Thesis Holds Across Sections.md (8.4 KB)
-├── Reasoning-in-LLMs.md (7.0 KB)
-├── Reciprocal Teaching (Palincsar & Brown, 1984).md (9.9 KB)
-├── reciprocal-teaching.md (6.9 KB)
-├── recognition-primed-decision-making.md (6.7 KB)
-├── Recognition-Primed-Decision.md (7.0 KB)
-├── Recommendations for the Continuing Investigator.md (6.8 KB)
-├── Recommended Future Investigations.md (9.8 KB)
-├── Recommended Topics for Future Investigation.md (7.2 KB)
-├── recovery-models.md (6.4 KB)
-├── Recurrent Constituent Skill (van Merriënboer, 1997).md (8.9 KB)
-├── Recurrent vs. Non-Recurrent Constituent Skills.md (10.0 KB)
-├── redundancy-effect.md (6.4 KB)
-├── Reeve, J. (2006). Teachers as facilitators What autonomy-supportive teachers do and why their students benefit.md (7.9 KB)
-├── Reeve.md (6.5 KB)
-├── References.md (9.1 KB)
-├── Reflection as the Phase Most Vulnerable to Skipping.md (10.9 KB)
-├── Reflection vs. Rumination.md (10.5 KB)
-├── reflection-practice.md (6.5 KB)
-├── Reflective Disposition (Stanovich, Reflective Mind).md (8.7 KB)
-├── Reflective Questions — Section 1.md (24.7 KB)
-├── Reflective Questions — Section 2.md (24.9 KB)
-├── Reflective Questions — Section 3.md (24.8 KB)
-├── Reflective Questions — Section 4.md (24.8 KB)
-├── Reflective Questions — Section 5.md (24.7 KB)
-├── Reflective Questions — Section 6.md (24.7 KB)
-├── Reflective Questions — Section 7.md (24.9 KB)
-├── Reflective Questions — Section 8.md (11.7 KB)
-├── Reflective Questions — Section 9.md (7.5 KB)
-├── Reflective Questions.md (25.3 KB)
-├── reflective-disposition.md (7.0 KB)
-├── reflective-practice.md (6.8 KB)
-├── reflective-thinking.md (6.7 KB)
-├── Regular-Expressions.md (6.1 KB)
-├── regulating.md (6.4 KB)
-├── regulation-of-cognition.md (6.9 KB)
-├── Rehabilitation-Psychology.md (7.2 KB)
-├── rehearsal-strategies.md (6.5 KB)
-├── Reigeluth, C. M. (1999). The elaboration theory Guidance for scope and sequence decisions. In C. M. Reigeluth (Ed.),.md (8.4 KB)
-├── Related Reports in the PKB.md (4.2 KB)
-├── Relatedness (in the SDT technical sense).md (5.7 KB)
-├── Relatedness (SDT) (Baumeister & Leary, 1995; Deci & Ryan, 2000).md (8.6 KB)
-├── relatedness-need.md (6.5 KB)
-├── relatedness.md (6.9 KB)
-├── Relational Complexity.md (7.2 KB)
-├── relational-complexity.md (5.8 KB)
-├── relationship-motivation-theory.md (7.0 KB)
-├── REPL (Read-Eval-Print Loop).md (6.7 KB)
-├── repl.md (6.0 KB)
-├── replication-crisis-in-psychology.md (7.1 KB)
-├── Report Quality Evaluation.md (6.0 KB)
-├── Report Quality Self-Assessment.md (15.5 KB)
-├── representativeness-heuristic.md (7.1 KB)
-├── requirements.txt (Dependency Manifest).md (6.8 KB)
-├── Research Methodology and Epistemic Transparency.md (12.1 KB)
-├── Research Traditions and Epistemic Transparency.md (11.1 KB)
-├── Retraining as Dimensional Recalibration, Not Belief Replacement.md (8.7 KB)
-├── Retrieval as Construction A Reframing with Architectural Consequences.md (10.5 KB)
-├── Retrieval as the Missing Layer in Most PKM Systems.md (9.5 KB)
-├── Retrieval Practice (Roediger & Karpicke, 2006).md (10.9 KB)
-├── Retrieval Practice as the Most Potent Single Strategy.md (10.3 KB)
-├── Retrieval Structure (Ericsson & Kintsch, 1995).md (6.3 KB)
-├── Retrieval-Augmented-Generation-RAG.md (7.3 KB)
-├── Retrieval-Practice-and-the-Testing-Effect.md (7.4 KB)
-├── retrieval-practice.md (6.7 KB)
-├── retrieval.md (7.2 KB)
-├── Richard deCharms (1927–2010).md (7.4 KB)
-├── Richard M. Ryan (1953–).md (7.7 KB)
-├── Richard M. Ryan.md (5.3 KB)
-├── Richard Mayer (1947–).md (7.9 KB)
-├── richard-anderson.md (7.2 KB)
-├── Richard-M.-Ryan.md (6.9 KB)
-├── Richard-Mayer.md (6.8 KB)
-├── richard-ryan.md (6.5 KB)
-├── Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. Trends in Cognitive Sciences, 20(9), 676–688.md (7.4 KB)
-├── Robert A. Bjork (1939–present) — University of California, Los Angeles.md (10.1 KB)
-├── Robert A. Bjork (b. 1939) & Elizabeth L. Bjork.md (8.9 KB)
-├── Robert White (1904–2001).md (7.5 KB)
-├── Robert-Bjork.md (7.0 KB)
-├── Robert-White.md (6.9 KB)
-├── Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning Taking memory tests improves long-term retention.md (9.4 KB)
-├── Roediger, H. L., III, & Karpicke, J. D. (2006). Test-enhanced learning Taking memory tests improves long-term.md (10.3 KB)
-├── roediger.md (7.2 KB)
-├── roger-brockett.md (6.6 KB)
-├── Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. Instructional Science, 35(6),.md (10.1 KB)
-├── Rosenshine-Meister.md (6.9 KB)
-├── Routine-Dynamics.md (6.6 KB)
-├── Routine-vs-Adaptive-Expertise-Distinction.md (6.7 KB)
-├── Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science An illusion of explanatory depth. Cognitive.md (8.0 KB)
-├── Rubicon (Heckhausen & Gollwitzer).md (5.9 KB)
-├── Rubicon-Model-of-Action-Phases.md (6.7 KB)
-├── rumelhart.md (7.2 KB)
-├── rumination.md (6.4 KB)
-├── ruth-garner.md (6.9 KB)
-├── Ryan, R. M., & Connell, J. P. (1989). Perceived locus of causality and internalization Examining reasons for acting in.md (8.0 KB)
-├── Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social.md (6.7 KB)
-├── Ryan, R. M., & Deci, E. L. (2017). Self-Determination Theory Basic Psychological Needs in Motivation, Development, and.md (7.0 KB)
-├── Scaffold Fading Readiness Assessment.md (7.4 KB)
-├── Scaffold Fading Within a Task Class.md (8.4 KB)
-├── scaffold-dependence.md (6.8 KB)
-├── Scaffold-Fading Trajectory Within a Task Class.md (8.2 KB)
-├── Scaffolded Fading.md (8.4 KB)
-├── scaffolded-fading.md (6.8 KB)
-├── scaffolding — Graduated Transfer of Cognitive Responsibility.md (6.6 KB)
-├── Scaffolding Fading in Self-Directed Learning Mechanisms, Evidence, and Design.md (7.8 KB)
-├── Scaffolding vs. Struggle The Productive Failure Debate.md (8.2 KB)
-├── Scaffolding-Fading Progression (VygotskyBrunerWood).md (10.7 KB)
-├── Scaffolding-Fading Progression.md (11.7 KB)
-├── Scaffolding-Fading-in-Self-Directed-Learning.md (6.9 KB)
-├── Scaffolding-in-Education.md (6.8 KB)
-├── Scaffolding-Sovereignty Progression (Original to This Report).md (10.4 KB)
-├── scaffolding.md (6.3 KB)
-├── Schema (Bartlett, 1932; Piaget; Anderson, 1977).md (12.0 KB)
-├── Schema (Bartlett, 1932; Rumelhart, 1980).md (7.7 KB)
-├── Schema Automation (Anderson, 1982; Sweller, 1994).md (9.2 KB)
-├── Schema Automation.md (7.1 KB)
-├── Schema Construction Through Progressive Linking.md (10.6 KB)
-├── Schema Construction.md (7.1 KB)
-├── Schema Theory and the Architecture of Conceptual Change.md (9.6 KB)
-├── schema-accommodation.md (7.2 KB)
-├── schema-automation.md (6.9 KB)
-├── schema-construction.md (6.6 KB)
-├── schema-externalization.md (7.2 KB)
-├── schema-formation.md (6.7 KB)
-├── schema-hierarchy.md (6.7 KB)
-├── schema-theory-and-knowledge-organization.md (7.4 KB)
-├── Schema-Theory-Bartlett,-Rumelhart.md (7.4 KB)
-├── schema-theory.md (6.4 KB)
-├── Schema.md (10.6 KB)
-├── Schematic of the Default-Interventionist Architecture.md (10.4 KB)
-├── Schunk, D. H. (1991). Self-efficacy and academic motivation. Educational Psychologist, 26(3-4), 207–231.md (5.8 KB)
-├── Scientific Theory Development as Domain-Specific Chunking.md (6.3 KB)
-├── Scientific-Specialization.md (6.7 KB)
-├── Scope Statement.md (9.5 KB)
-├── script-automation.md (6.1 KB)
-├── SDL as SRL Plus Curricular Self-Design.md (6.8 KB)
-├── SDL in Professional Practice The Self-Updating Professional.md (6.9 KB)
-├── SDL Self-Assessment Protocol.md (7.2 KB)
-├── sdl-as-educational-goal.md (6.8 KB)
-├── SDL-SRL Grain-Size Continuum (Original to This Report).md (7.7 KB)
-├── SDL-SRL Grain-Size Continuum.md (7.0 KB)
-├── SDT as a Unified Applied Science.md (7.9 KB)
-├── SDT-AGT-Integration.md (6.9 KB)
-├── SDT-and-Digital-Technology.md (7.0 KB)
-├── SDT-Clinical-Applications.md (7.0 KB)
-├── SDT-Internalization-Continuum.md (7.0 KB)
-├── SDT-Meets-Achievement-Goal-Theory-Convergences,-Divergences,-and-Integration-Pos.md (7.2 KB)
-├── SDT's Causal Architecture — Core Mediational Model.md (9.8 KB)
-├── Second-Brain.md (6.5 KB)
-├── Second-Language-Acquisition.md (6.3 KB)
-├── Section 1 Summary.md (41.1 KB)
-├── Section 2 Summary.md (42.5 KB)
-├── Section 3 Summary.md (42.2 KB)
-├── Section 4 Summary.md (42.7 KB)
-├── Section 5 Summary.md (42.7 KB)
-├── Section 6 Summary.md (42.9 KB)
-├── Section 7 Summary.md (41.5 KB)
-├── Section 8 Summary.md (24.0 KB)
-├── Section 9 Summary.md (7.5 KB)
-├── Section Epistemic Status Established (Confidence 4.55).md (6.3 KB)
-├── Section Epistemic Status Mixed (Confidence 3.55).md (4.0 KB)
-├── Section Epistemic Status Mixed (Confidence 35).md (6.4 KB)
-├── Section Epistemic Status Mixed Evidence (Confidence 3.55).md (6.5 KB)
-├── Section Epistemic Status Mixed to Speculative (Confidence 2.55).md (6.5 KB)
-├── selective-attention.md (6.8 KB)
-├── Self-Assessment — Foundational Report on PKBPKM Planning and Cognitive Science.md (12.6 KB)
-├── Self-Assessment of Report Quality.md (11.0 KB)
-├── Self-Assessment.md (20.0 KB)
-├── self-consequating.md (6.4 KB)
-├── Self-Determination Theory — SDT (Deci & Ryan, 1985; 2000).md (10.5 KB)
-├── Self-Determination Theory (Deci & Ryan, 1985; 2000).md (11.8 KB)
-├── Self-Determination Theory in Education From Basic Needs to Curriculum Design.md (9.6 KB)
-├── self-determination-theory — Autonomy, Competence, and Relatedness as Foundations of Human Motivation.md (6.8 KB)
-├── Self-Determination-Theory-—-Foundational-Overview.md (6.7 KB)
-├── Self-Determination-Theory-and-Digital-Media.md (6.2 KB)
-├── Self-Determination-Theory-and-Motivation.md (7.4 KB)
-├── Self-Determination-Theory-in-Education.md (6.9 KB)
-├── Self-Determination-Theory-in-Educational-Contexts.md (7.1 KB)
-├── self-determination-theory-internalization-continuum-deep-dive-2026-04-21.md (6.8 KB)
-├── self-determination-theory.md (6.9 KB)
-├── self-determined-learning.md (6.8 KB)
-├── Self-Directed Learning (Knowles, 1975).md (6.5 KB)
-├── Self-Directed Learning (SDL).md (11.9 KB)
-├── Self-Directed Learning Across Cultures Cultural Foundations of Autonomy in Education.md (9.7 KB)
-├── Self-Directed Learning Readiness Scale — SDLRS (Guglielmino, 1977).md (7.6 KB)
-├── Self-Directed-Learning-Across-Cultures.md (6.9 KB)
-├── self-directed-learning-readiness-scale.md (6.9 KB)
-├── self-directed-learning.md (6.8 KB)
-├── Self-Directedness-—-Trait-or-Readiness-Sense.md (6.8 KB)
-├── Self-Efficacy-Across-the-Lifespan-Developmental-Variation-in-Source-Operation.md (7.2 KB)
-├── Self-Efficacy-and-Mindset-A-Comparative-Architecture.md (7.1 KB)
-├── self-efficacy-belief.md (7.0 KB)
-├── self-efficacy-calibration.md (7.2 KB)
-├── self-efficacy-for-learning-and-performance.md (6.7 KB)
-├── self-efficacy-theory.md (6.8 KB)
-├── self-efficacy.md (6.8 KB)
-├── self-esteem.md (6.8 KB)
-├── Self-Evaluation Against Quality Standards.md (10.5 KB)
-├── Self-Evaluation.md (10.0 KB)
-├── Self-Explanation as Embedded Calibration.md (7.7 KB)
-├── self-explanation-effect.md (6.3 KB)
-├── self-explanation.md (6.5 KB)
-├── Self-Handicapping.md (7.5 KB)
-├── Self-Knowledge.md (7.0 KB)
-├── Self-Monitoring Protocol for Demanding Reading.md (8.3 KB)
-├── self-monitoring-vs.-illusion-of-knowing.md (7.2 KB)
-├── self-monitoring.md (6.6 KB)
-├── self-reflection-phase.md (6.4 KB)
-├── Self-Regulated Learning — SRL (Zimmerman, 1989; 2000).md (10.2 KB)
-├── Self-Regulated Learning (Pintrich).md (11.8 KB)
-├── Self-Regulated Learning (SRL).md (10.9 KB)
-├── Self-Regulated Learning (Zimmerman, 2000; Pintrich, 2004).md (11.5 KB)
-├── Self-Regulated Learning Cycle Mapped to PKB Functions.md (11.0 KB)
-├── self-regulated-learning — Metacognitive Architecture and Instructional Implications.md (8.5 KB)
-├── Self-Regulated-Learning-—-SRL.md (7.2 KB)
-├── self-regulated-learning.md (6.4 KB)
-├── self-regulation.md (7.2 KB)
-├── Self-Report Methodology and What It Cannot Establish.md (10.6 KB)
-├── self-serving-attribution-bias.md (6.9 KB)
-├── semantic-memory.md (7.3 KB)
-├── Sensitivity vs. Calibration as Targets of Instruction.md (8.4 KB)
-├── Sergei Kalyuga.md (7.7 KB)
-├── Sergei-Kalyuga.md (7.0 KB)
-├── Servant-Leadership.md (7.0 KB)
-├── Setting Up Architecture-Aware Deliberate Practice.md (6.0 KB)
-├── shallow-processing.md (7.3 KB)
-├── shame-vs.-guilt-in-attribution-theory.md (6.9 KB)
-├── Shanahan-disciplinary-literacy.md (7.0 KB)
-├── Sheeran & Gollwitzer (2006) — The Foundational Meta-Analysis.md (4.9 KB)
-├── Sheeran, P. (2002). Intention-behavior relations A conceptual and empirical review. European Review of Social.md (5.1 KB)
-├── Should I Trust My Intuition Here.md (7.8 KB)
-├── Significant Contributors to the Python + VS Code Ecosystem.md (5.0 KB)
-├── Simplicity vs. Comprehensiveness in System Design.md (9.7 KB)
-├── Single-Responsibility-Principle.md (7.4 KB)
-├── situated-learning.md (6.6 KB)
-├── Situation Model — Final Through Section 8.md (7.7 KB)
-├── Situation Model — Final Update Through Section 8.md (10.5 KB)
-├── Situation Model — Through Section 1.md (8.2 KB)
-├── Situation Model — Updated Through Section 1.md (49.9 KB)
-├── Situation Model — Updated Through Section 2.md (59.2 KB)
-├── Situation Model — Updated Through Section 3.md (60.8 KB)
-├── Situation Model — Updated Through Section 4.md (62.5 KB)
-├── Situation Model — Updated Through Section 5.md (61.0 KB)
-├── Situation Model — Updated Through Section 6.md (61.7 KB)
-├── Situation Model — Updated Through Section 7 (Final).md (9.5 KB)
-├── Situation Model — Updated Through Section 7.md (51.7 KB)
-├── Situation Model — Updated Through Section 8.md (34.6 KB)
-├── Situation Model — Updated Through Section 9.md (8.4 KB)
-├── situation-model.md (6.9 KB)
-├── Skill-Acquisition.md (7.2 KB)
-├── skimming-strategies.md (6.5 KB)
-├── SM-2-Algorithm.md (6.6 KB)
-├── social-capital.md (7.0 KB)
-├── social-cognition.md (6.8 KB)
-├── Social-Cognitive-Theory-—-Bandura.md (7.3 KB)
-├── social-cognitive-theory-bandura.md (7.1 KB)
-├── social-cognitive-theory.md (6.5 KB)
-├── Social-Identity-Theory.md (6.8 KB)
-├── Soenens-&-Vansteenkiste-2011.md (6.6 KB)
-├── Software Architecture and Information Architecture.md (10.1 KB)
-├── Software Engineering and Codebase Architecture.md (10.8 KB)
-├── Software Engineering Code Review as Metacognitive Monitoring.md (8.6 KB)
-├── Software Engineering Onboarding as Complex Learning Design.md (8.9 KB)
-├── Software-Architecture.md (7.3 KB)
-├── software-design.md (6.2 KB)
-├── Software-Engineering-Practice.md (7.1 KB)
-├── software-engineering-principles.md (6.2 KB)
-├── software-engineering-workflows.md (6.3 KB)
-├── Sönke Ahrens (contemporary).md (8.8 KB)
-├── Source Information Is Cognitively Constructed, Not Mechanically Recorded.md (5.8 KB)
-├── Spaced Repetition Seeds for Active Recall.md (7.3 KB)
-├── Spaced-Repetition-Algorithm-Comparison.md (7.3 KB)
-├── Spaced-Repetition-Algorithms-and-Chunk-Consolidation.md (5.6 KB)
-├── Spaced-Repetition-Algorithms-and-Memory.md (7.0 KB)
-├── spaced-repetition-systems.md (7.4 KB)
-├── spaced-repetition.md (6.6 KB)
-├── Spacing Effect (Ebbinghaus, 1885; Cepeda et al., 2006).md (11.5 KB)
-├── spacing-effect.md (7.2 KB)
-├── Spatial-Cognition.md (7.3 KB)
-├── Specialist Pitfall Equating Trait and State Need Satisfaction.md (5.9 KB)
-├── Specialist Pitfall The Self-Determination Index.md (6.0 KB)
-├── Specialist Pitfall Treating Need Satisfaction as Cumulative Score.md (6.1 KB)
-├── Specialist Recommendations for Continued Investigation.md (8.0 KB)
-├── Specialist Reflection — Level 1.md (5.7 KB)
-├── Specialist Reflection — Level 2.md (5.7 KB)
-├── Specialist Reflection — Level 3.md (5.6 KB)
-├── Specialist Reflection — Level 4.md (5.7 KB)
-├── Specialist Reflection — Level 5.md (5.6 KB)
-├── Specialist Reflection — Level 6.md (5.4 KB)
-├── Specialist Reflection — Level 7.md (5.4 KB)
-├── Specialist Reflection.md (4.9 KB)
-├── Specific Performance Goals vs. Learning Goals on Complex Tasks.md (7.0 KB)
-├── Specificity Versus Generality in Measurement.md (6.1 KB)
-├── Speculative Synthesis Developmental Timescale as a Regulatory Variable.md (5.9 KB)
-├── Speculative Synthesis The Authenticity Question May Become Empirically Live.md (5.9 KB)
-├── Speculative Synthesis The Relatedness Question Has Been a Sleeping Question.md (5.8 KB)
-├── Speculative Trajectory 1 Element interactivity reformulated as prediction-error processing load.md (9.3 KB)
-├── Speculative Trajectory 2 AI-mediated dynamic load measurement and adaptive instruction.md (8.8 KB)
-├── Speculative Trajectory 3 A unified dynamical model that absorbs the edge cases.md (9.2 KB)
-├── Split Attention Effect (Sweller, Chandler, 1992).md (9.2 KB)
-├── split-attention-effect.md (6.5 KB)
-├── Sport-Psychology.md (7.2 KB)
-├── Spreading Activation (Collins & Loftus, 1975).md (10.1 KB)
-├── spreading-activation.md (7.3 KB)
-├── SR Seed 1 — Definition Virtual Environment.md (5.1 KB)
-├── SR Seed 1 — Definition.md (14.1 KB)
-├── SR Seed 2 — Definition.md (6.8 KB)
-├── SR Seed 2 — Distinction IDE vs. Code Editor.md (5.2 KB)
-├── SR Seed 2 — Distinction.md (9.5 KB)
-├── SR Seed 3 — Definition.md (8.0 KB)
-├── SR Seed 3 — Distinction.md (7.0 KB)
-├── SR Seed 3 — Process Reading a Traceback.md (5.2 KB)
-├── SR Seed 3 — Process.md (7.4 KB)
-├── SR Seed 4 — Application.md (9.0 KB)
-├── SR Seed 4 — Connection.md (7.4 KB)
-├── SR Seed 4 — Distinction Inline Suggestions vs. Copilot Chat.md (5.3 KB)
-├── SR Seed 4 — Distinction.md (6.9 KB)
-├── SR Seed 4 — Process.md (8.0 KB)
-├── SR Seed 5 — Application Interpreter Mismatch Diagnosis.md (5.3 KB)
-├── SR Seed 5 — Connection.md (9.0 KB)
-├── SR Seed 5 — Distinction.md (9.6 KB)
-├── SR Seed 5 — Process.md (7.2 KB)
-├── SR Seed 6 — Application.md (6.7 KB)
-├── SR Seed 6 — Connection Verification Imperative.md (5.3 KB)
-├── SR Seed 6 — Definition.md (8.9 KB)
-├── SR Seed 6 — Process.md (6.9 KB)
-├── SR Seed 7 — Application.md (7.2 KB)
-├── SR Seed 7 — Connection.md (9.7 KB)
-├── SR Seed 7 — Process Creating a Reproducible Project.md (5.3 KB)
-├── SR Seed 7 — Process.md (9.1 KB)
-├── SR Seed 8 — Application.md (9.2 KB)
-├── SR Seed 8 — Connection Prompt Engineering for Copilot.md (5.3 KB)
-├── SR Seed 8 — Connection.md (7.1 KB)
-├── SR Seed 8 — Definition.md (7.4 KB)
-├── SR Seed 8 — Distinction.md (9.0 KB)
-├── SR Seed 9 — Application.md (9.0 KB)
-├── SR Seed 9 — Connection.md (9.5 KB)
-├── SR Seed 9 — Distinction settings.json Scope.md (5.2 KB)
-├── SR Seed 9 — Process.md (7.4 KB)
-├── SR Seed 10 — Application Debugging Step Controls.md (5.2 KB)
-├── SR Seed 10 — Connection.md (10.3 KB)
-├── SR Seed 10 — Distinction.md (7.2 KB)
-├── SRL as the Bridge Between Curriculum Structure and Learner Autonomy.md (9.8 KB)
-├── Stability as the Temporal Horizon of Agency.md (8.6 KB)
-├── Stability Dimension (Weiner, 1972, 1985).md (8.8 KB)
-├── stability-dimension.md (6.8 KB)
-├── stability.md (6.8 KB)
-├── stack-trace.md (6.1 KB)
-├── Stajkovic, A. D., & Luthans, F. (1998). Self-efficacy and work-related performance A meta-analysis. Psychological.md (6.0 KB)
-├── Standard of Coherence (Baker, 1985).md (9.1 KB)
-├── Standard Python Project Structure.md (6.1 KB)
-├── standard-of-coherence.md (6.9 KB)
-├── Standardisation vs. Personalisation The Institutional Dilemma.md (9.7 KB)
-├── Stanovich, K. E., & West, R. F. (2000). Individual differences in reasoning Implications for the rationality debate.md (7.9 KB)
-├── Stanovich, K. E., West, R. F., & Toplak, M. E. (2016). The Rationality Quotient Toward a Test of Rational Thinking.md (7.7 KB)
-├── Statistical-Literacy.md (7.0 KB)
-├── Status-quo-bias.md (7.0 KB)
-├── Stephen Brookfield — University of St. Thomas.md (6.7 KB)
-├── Stephen-Brookfield.md (6.8 KB)
-├── Stewart Hase — Southern Cross University.md (9.1 KB)
-├── stewart-hase.md (6.7 KB)
-├── Strategic Automaticity (Gollwitzer & Brandstätter, 1997).md (6.1 KB)
-├── Strategic Automaticity (Gollwitzer 1999).md (6.3 KB)
-├── strategic-automaticity.md (6.7 KB)
-├── strategic-planning.md (6.4 KB)
-├── strategic-reading.md (6.9 KB)
-├── Strategy Instruction vs. Knowledge Building as the Path to Skilled Reading.md (8.4 KB)
-├── Strategy Repertoire as Metacognitive Infrastructure.md (7.7 KB)
-├── Strategy Use Without Strategy Calibration.md (7.8 KB)
-├── strategy-monitoring.md (6.5 KB)
-├── strategy-selection.md (6.4 KB)
-├── Strong vs. Moderate Deliberate Practice Hypothesis.md (5.8 KB)
-├── Study Time Allocation Under Time Pressure.md (8.0 KB)
-├── Substitution as the Generative Mechanism of Bias — Strategic Implications.md (9.0 KB)
-├── summarization.md (6.9 KB)
-├── summative-assessment.md (6.8 KB)
-├── Supportive Information (van Merriënboer & Kirschner, 2018).md (9.2 KB)
-├── Supportive Information as Cognitive Bridging.md (8.1 KB)
-├── Surface Markers vs Substrate Architecture.md (5.4 KB)
-├── Sweigart, A. (2019). Automate the Boring Stuff with Python (2nd ed.). No Starch Press.md (5.2 KB)
-├── Sweller, J. (1988). Cognitive load during problem solving Effects on learning. Cognitive Science, 12(2), 257-285.md (10.1 KB)
-├── Sweller, J. (1988). Cognitive load during problem solving Effects on learning. Cognitive Science, 12(2), 257–285.md (8.2 KB)
-├── Sweller, J. (2010). Element interactivity and intrinsic, extraneous, and germane cognitive load. Educational Psychology.md (8.3 KB)
-├── Sweller, J., Ayres, P., & Kalyuga, S. (2011). Cognitive Load Theory. Springer.md (8.9 KB)
-├── Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. Educational.md (8.2 KB)
-├── Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design 20 years.md (8.1 KB)
-├── Sweller's 2010 Reconceptualization.md (8.2 KB)
-├── system-1-and-system-2.md (6.8 KB)
-├── system-1.md (7.0 KB)
-├── system-2.md (7.0 KB)
-├── Systematic Troubleshooting as Metacognitive Architecture.md (6.1 KB)
-├── tacit-knowledge.md (6.6 KB)
-├── TARGET Framework (Ames).md (7.7 KB)
-├── target-framework.md (7.2 KB)
-├── Task Class (van Merriënboer & Kirschner, 2018).md (9.1 KB)
-├── Task Class Sequencing in Medical Education.md (8.0 KB)
-├── Task Value (Eccles–Wigfield, integrated into Pintrich).md (11.6 KB)
-├── task-analysis.md (6.4 KB)
-├── task-involvement.md (7.2 KB)
-├── task-value.md (6.4 KB)
-├── Technical Detail Autonomous vs. Controlled Motivation as Higher-Order Categories.md (6.5 KB)
-├── Technical Detail Need-Specific Contributions to Each Internalization Transition.md (6.6 KB)
-├── Technical Detail The asymmetry between schema construction and schema automation.md (8.4 KB)
-├── Technical Detail The Operational Markers of External Regulation.md (6.5 KB)
-├── Technical Detail The relation between elements and chunks.md (8.1 KB)
-├── Technical Detail The relationship between element interactivity and working-memory load.md (8.4 KB)
-├── Technical Detail The Three Functional Significances and Their Need-Satisfaction Profiles.md (7.5 KB)
-├── Technical vs. Critical Self-Direction — Brookfield's Challenge to SDL Theory.md (6.7 KB)
-├── Technology-Enhanced Self-Directed Learning Adaptive Systems and Digital Scaffolding.md (9.9 KB)
-├── Technology-Enhanced-Self-Directed-Learning.md (6.9 KB)
-├── Template (Gobet & Simon, 1996).md (6.5 KB)
-├── Template-Engineering.md (6.6 KB)
-├── Templater.md (7.2 KB)
-├── Temporal Taxonomy of Monitoring Judgments.md (8.8 KB)
-├── Tension 1 Phase Discreteness vs. Phase Interleaving (Pintrich vs. Zimmerman).md (11.5 KB)
-├── Tension 1 Scaffolding vs. Dependency.md (6.3 KB)
-├── Tension 1 Simplicity vs. Explicitness in Environment Management.md (4.3 KB)
-├── Tension 2 AI Speed vs. Practitioner Understanding.md (4.2 KB)
-├── Tension 2 Cognition-Motivation Primacy.md (10.9 KB)
-├── Tension 2 Cognitive Load Reduction vs. Necessary Struggle.md (6.3 KB)
-├── Tension 3 Annotation Precision vs. False Confidence.md (6.3 KB)
-├── Tension 3 Convention vs. Configuration in Project Structure.md (4.2 KB)
-├── Tension 4 Tool-Specific vs. Transferable Knowledge.md (6.2 KB)
-├── Tension 4 VS Code Magic vs. Terminal Transparency.md (4.3 KB)
-├── Test-Anxiety.md (7.1 KB)
-├── Test-Driven-Development.md (6.1 KB)
-├── testing-effect-retrieval-practice-effect.md (7.4 KB)
-├── Testing-Effect.md (7.3 KB)
-├── textualism-purposivism-as-coherence-standards.md (7.0 KB)
-├── The 2×2 Achievement Goal Framework.md (8.1 KB)
-├── The Active Organism Hypothesis.md (7.5 KB)
-├── The Additivity Misconception.md (8.2 KB)
-├── The Additivity Problem.md (7.8 KB)
-├── The Architectural Asymmetry the Theory Resolves.md (5.6 KB)
-├── The Architectural Imperative.md (7.6 KB)
-├── The Architectural Invariance Thesis.md (7.9 KB)
-├── The Architecture as Diagnostic Tool.md (7.7 KB)
-├── The Asymmetric Architecture as Design Constraint.md (8.1 KB)
-├── The Asymmetry Between Cognitive and Motivational Monitoring.md (10.9 KB)
-├── The Asymmetry Between Need Satisfaction and Need Frustration.md (8.0 KB)
-├── The Asymmetry That Drives Everything.md (7.3 KB)
-├── The Athlete's Comeback Stability and the Reconstruction of Expectancy.md (8.8 KB)
-├── The Atomistic Fallacy.md (7.6 KB)
-├── The Attribution-Emotion-Behaviour Causal Chain (Weiner, 1985).md (10.4 KB)
-├── The Attributional Bridge (Original to this report).md (9.1 KB)
-├── The Automation Threshold Problem.md (7.9 KB)
-├── The Automation-Liberation Principle.md (7.9 KB)
-├── The Autonomy-Independence Conflation.md (6.8 KB)
-├── The Autonomy-Relatedness Integration Problem.md (8.0 KB)
-├── The Calibration Problem as a Translational Bottleneck Between Monitoring and Regulation.md (8.6 KB)
-├── The Calibration Problem.md (10.5 KB)
-├── The Calibration Trap in Self-Directed Learning.md (6.8 KB)
-├── The Calibration-Adaptation Engine.md (7.7 KB)
-├── The Calibration-Engagement Trade-off and a Proposed Framework for Optimal Efficacy.md (6.9 KB)
-├── The Causal Chain Practice → Chunks → Architecture → Performance.md (6.9 KB)
-├── The Central Design Challenge.md (9.4 KB)
-├── The Central Diagnostic Phenomenon.md (7.4 KB)
-├── The Central Phenomenon.md (5.2 KB)
-├── The Central Puzzle.md (4.6 KB)
-├── The Centrality of Efficacy Over Outcome Expectations.md (5.8 KB)
-├── The CLT–Desirable Difficulties Reconciliation.md (8.4 KB)
-├── The Cognitive Offloading Paradox.md (7.5 KB)
-├── The Cognitive Strategy Convergence Framework for PKB Design.md (11.7 KB)
-├── The Collector's Fallacy.md (9.1 KB)
-├── The Compartmentalization Thesis.md (7.7 KB)
-├── The Compensatory Process Trap.md (7.8 KB)
-├── The Complementarity-Redundancy Continuum.md (8.2 KB)
-├── The Complexity Trap.md (9.3 KB)
-├── The Compounding Cost of Fluency-Based Confidence.md (7.7 KB)
-├── The Compounding Loop and Why It Matters.md (7.3 KB)
-├── The Comprehension Illusion Mechanism.md (8.2 KB)
-├── The Conceptual Pivot of the Theory.md (6.8 KB)
-├── The Continuum Made Concrete A Single Behavior Across Five Architectures.md (6.6 KB)
-├── The Controllability Dimension (Weiner, 1979, 1985).md (10.6 KB)
-├── The Convergence Thesis.md (8.8 KB)
-├── The Coordination Thesis for Schema Construction.md (7.8 KB)
-├── The Cue-Accessibility Trap.md (8.0 KB)
-├── The Cue-Encoding Bottleneck Hypothesis.md (5.5 KB)
-├── The Current Working Directory Trap.md (5.4 KB)
-├── The Cycle in Skill Acquisition.md (7.0 KB)
-├── The Cyclical Feedback Architecture as Learning Engine.md (7.5 KB)
-├── The Danger of Psychological Reductionism.md (9.6 KB)
-├── The Delayed JOL Effect in Practice.md (7.9 KB)
-├── The Developmental Differentiation of Effort and Ability.md (8.5 KB)
-├── The Developmental Imperative.md (7.2 KB)
-├── The Differentiated Frame in an Adult Learner.md (6.9 KB)
-├── The Digital SDL Paradox.md (6.7 KB)
-├── The Dimensional Status of Globality.md (8.1 KB)
-├── The Discrepancy-Reduction Model of Study Time Allocation.md (8.1 KB)
-├── The Dominance Asymmetry.md (7.7 KB)
-├── The Door That the Framework Opens.md (10.4 KB)
-├── The Dual Architecture of Attributional Bias.md (9.0 KB)
-├── The Dual-Architecture Hypothesis PKB as Cognitive Prosthesis.md (6.7 KB)
-├── The Dual-Architecture System.md (7.0 KB)
-├── The Dual-Mechanism Instructional Logic.md (8.1 KB)
-├── The Dual-Mechanism Thesis.md (7.7 KB)
-├── The Ecological Validity Question.md (9.1 KB)
-├── The Ecosystem Reading vs. the Competitive Reading.md (7.1 KB)
-├── The Edge Case Map.md (5.6 KB)
-├── The Editor-Interpreter Separation as Architectural Principle.md (5.5 KB)
-├── The Elaboration–Linking Isomorphism.md (10.2 KB)
-├── The Elaborative Note-Making Protocol.md (10.2 KB)
-├── The Element-Interactivity Bridge.md (7.9 KB)
-├── The Encoding-Organization-Retrieval Loop.md (9.8 KB)
-├── The Encoding-Retrieval Entanglement.md (9.3 KB)
-├── The Environment Mastery → Tool Creation Pipeline.md (5.9 KB)
-├── The Examination Scenario as Attributional Microcosm.md (8.7 KB)
-├── The Execution Model as Mental Architecture.md (5.5 KB)
-├── The Expertise Reversal Effect (Kalyuga, Ayres, Chandler, & Sweller, 2003).md (9.2 KB)
-├── The Extension Ecosystem as Capability Assembly.md (5.6 KB)
-├── The False Equivalence Between Confidence and Capability.md (6.2 KB)
-├── The Feature-Function Map as Diagnostic Tool.md (7.6 KB)
-├── The Five-Minute Forethought Routine.md (11.2 KB)
-├── The Flexibility-Reliability Trade-Off.md (5.2 KB)
-├── The Fluency Illusion in Digital Reading.md (7.8 KB)
-├── The Fluency Illusion in PKB Review.md (10.1 KB)
-├── The Fluency Illusion in PKM.md (9.4 KB)
-├── The Fluency Trap and Pseudoexpertise.md (5.8 KB)
-├── The Fluency Trap in Self-Directed Study.md (7.4 KB)
-├── The Four Areas of Regulation.md (11.8 KB)
-├── The Four Components of 4CID.md (10.8 KB)
-├── The Four-by-Four Matrix (Pintrich).md (11.5 KB)
-├── The Four-by-Four Matrix.md (12.4 KB)
-├── The Four-Layer Architecture of Skilled Metacognitive Reading.md (10.3 KB)
-├── The Four-Source Integration Architecture.md (7.5 KB)
-├── The Framework as Implicit Theory of the Learner.md (11.1 KB)
-├── The Framework as Metacognitive Backbone of SRL.md (8.7 KB)
-├── The Framework Is Not a Universal Diagnostic.md (6.7 KB)
-├── The Framework's Position in the Multi-Framework Landscape.md (10.5 KB)
-├── The Framework's Tacit Realism About the Phenomenology of Studying.md (10.9 KB)
-├── The Functional Priority of Unexpected and Negative Outcomes.md (8.5 KB)
-├── The Fundamental Attribution Error (Ross, 1977; also Correspondence Bias).md (10.8 KB)
-├── The Generation Effect in PKB Note-Making.md (10.3 KB)
-├── The Germane Load Debate as a Case Study in Theoretical Self-Correction.md (8.4 KB)
-├── The Grading Trap.md (9.7 KB)
-├── The Grain-Size Distinction Between SDL and SRL.md (6.6 KB)
-├── The Guidance Paradox in 4CID.md (7.9 KB)
-├── The Guilt-Shame Asymmetry as Motivational Architecture.md (9.1 KB)
-├── The Habit Formation Imperative.md (9.1 KB)
-├── The Hidden Cost of Strategy Naming Without Conditional Reasoning.md (7.9 KB)
-├── The High Performance Cycle — Visual Summary.md (9.1 KB)
-├── The Illusion of Linear Progression.md (9.4 KB)
-├── The Illusion of Understanding Through Summarisation.md (7.7 KB)
-├── The Implementation-Intention Mechanism Flow.md (8.0 KB)
-├── The Integration Problem in SDL Modeling.md (6.9 KB)
-├── The Integration-Transfer Advantage.md (7.7 KB)
-├── The Integrative Bottleneck and Why Efficacy Beliefs Resist Easy Change.md (6.5 KB)
-├── The Interleaved Review Protocol.md (10.1 KB)
-├── The Internalization Continuum — Stages or Spectrum.md (7.7 KB)
-├── The Internalization Continuum (OIT).md (8.2 KB)
-├── The Internalization Phenomenon (Surface Description).md (5.9 KB)
-├── The Isolation Principle as Engineering Discipline.md (5.5 KB)
-├── The Just-in-Time Principle.md (7.7 KB)
-├── The Limits of Climate Engineering.md (7.0 KB)
-├── The Limits of Substitutability.md (5.2 KB)
-├── The Lindeman-Dewey Bridge.md (9.5 KB)
-├── The Linear Rise and the Cliff.md (6.8 KB)
-├── The Link Supremacy Thesis.md (9.0 KB)
-├── The Load-Motivation Interface.md (8.1 KB)
-├── The Locus of Causality Dimension (Weiner, 1972; cf. Heider, 1958).md (10.1 KB)
-├── The Loop as a Sampling System, Not a Continuous Tracker.md (8.1 KB)
-├── The Loop in Action A Reader Encountering an Unfamiliar Term.md (8.2 KB)
-├── The Magnification Path.md (9.6 KB)
-├── THE MASTER PROTOCOL Python Project Lifecycle in VS Code.md (6.0 KB)
-├── The Matrix in Action A Concrete Episode.md (11.2 KB)
-├── The Measurement Challenge as a Theoretical Opportunity.md (8.3 KB)
-├── The Measurement Circularity Problem.md (8.1 KB)
-├── The Measurement Problem.md (6.1 KB)
-├── The Mechanism Cascade as Argument Structure.md (9.8 KB)
-├── The Mechanism Cascade in a Single Learning Episode.md (7.5 KB)
-├── The Mechanism of Adaptive Expertise.md (5.3 KB)
-├── The Mechanism of Type 2 Depletion.md (7.5 KB)
-├── The Mechanisms Compound, But Not Independently.md (7.1 KB)
-├── The Metacognition-Motivation Interface How Self-Assessment Shapes Engagement.md (8.3 KB)
-├── The Metacognitive Bootstrapping Problem.md (7.4 KB)
-├── The Metacognitive Load Paradox.md (8.5 KB)
-├── The Metacognitive Scaffold Developmental Arc.md (8.6 KB)
-├── The Metacognitive Scaffolding Principle.md (9.0 KB)
-├── The Metacognitive Sovereignty Framework — An Integrative Proposal.md (7.4 KB)
-├── The Misnaming of Fundamental.md (8.6 KB)
-├── The Modality Effect (Mousavi, Low, & Sweller, 1995).md (9.3 KB)
-├── The Moderators Are Conditions of Adequacy, Not Adjustment.md (7.2 KB)
-├── The Monitoring-Control Asymmetry as Design Constraint.md (8.9 KB)
-├── The Monitoring-Control Coupling as Design Principle.md (7.6 KB)
-├── The Monitoring-Control Coupling as the Key Vulnerability.md (8.6 KB)
-├── The Most Common Misapplication.md (6.6 KB)
-├── The Most Common Misconception About Chunking.md (5.6 KB)
-├── The Most Dangerous Cases Are the Easy Ones.md (7.6 KB)
-├── The Motivation-Metacognition Interface.md (6.8 KB)
-├── The Motivation-Regulation Entanglement.md (9.5 KB)
-├── The Motivational Ecology as Adaptive System.md (9.9 KB)
-├── The Motivational Ecology Model for Curriculum Design.md (10.4 KB)
-├── The Motivational Ecology Thesis.md (9.3 KB)
-├── The Motivational Hydraulics Model — Need Satisfaction as the Engine of Internalization.md (8.8 KB)
-├── The Over-Optimization Trap.md (9.3 KB)
-├── The Overconfidence Default.md (8.1 KB)
-├── The Paradox of Effective Learning.md (8.6 KB)
-├── The Paradox of Effective Structure.md (7.9 KB)
-├── The PATH Checkbox — A Configuration Decision with Lasting Consequences.md (5.6 KB)
-├── The Pattern Has a Name.md (6.9 KB)
-├── The Performance-Approach Debate.md (7.1 KB)
-├── The Persistence Multiplier and Why Efficacy Beliefs Compound Outcome Differences.md (6.4 KB)
-├── The Persistence of Three-Source Language.md (8.0 KB)
-├── The Phenomenological Opacity Argument.md (9.2 KB)
-├── The PKB as a Schema Externalization Medium.md (10.6 KB)
-├── The PKB as Constitutive Metacognitive Architecture.md (7.6 KB)
-├── The PKB as Externalized Schema Network.md (9.7 KB)
-├── The PKB as Metacognitive Prosthesis.md (9.5 KB)
-├── The PKM Calibration Problem.md (8.3 KB)
-├── The PKM-4CID Structural Analogy.md (8.4 KB)
-├── The Practical Synthesis Architecture-Aware Practice.md (6.3 KB)
-├── The Privilege Problem in SDL Theory.md (6.9 KB)
-├── The Problem-Library Map A Practitioner's Navigation Aid.md (6.7 KB)
-├── The Productivity of Imperfection.md (8.2 KB)
-├── The Puzzle Experiment — Deci (1971).md (7.9 KB)
-├── The Readiness Paradox.md (6.7 KB)
-├── The Reading Case Domain Expertise Hidden in Plain Sight.md (6.1 KB)
-├── The Recursive Application Worth Surfacing.md (5.4 KB)
-├── The Recursive Architecture of Efficacy in Triadic Determinism.md (6.5 KB)
-├── The Recycling Study (Holland, Aarts, & Langendam, 2006).md (5.3 KB)
-├── The Regulatory Cycle and Its Cost Asymmetries.md (10.8 KB)
-├── The Relationship Between Self-Efficacy and Mindset Frameworks.md (5.6 KB)
-├── The Replication Challenge to the Undermining Effect.md (8.3 KB)
-├── The Retrieval Architecture Imperative.md (9.0 KB)
-├── The Scaffolding Paradox Within Inquiry.md (9.8 KB)
-├── The Scaffolding Progression in Practice A Graduate Research Methods Course.md (10.2 KB)
-├── The Scaffolding-Sovereignty Progression Structural Overview.md (11.1 KB)
-├── The Scaffolding-Sovereignty Progression.md (10.5 KB)
-├── The Schema-Construction Loop (formal structure).md (8.5 KB)
-├── The schema-construction loop (formal).md (8.1 KB)
-├── The SDL-SRL Grain-Size Continuum.md (7.0 KB)
-├── The Self-Directed Learner's Metacognitive Challenge A Concrete Illustration.md (7.2 KB)
-├── The Seven-Problem Decomposition.md (9.2 KB)
-├── The Seven-Problem Planning Framework — Structural Overview.md (11.5 KB)
-├── The Seven-Problem Planning Framework.md (9.6 KB)
-├── The Shift from Catalogue to Architecture.md (8.2 KB)
-├── The Situation It Works on My Machine.md (4.6 KB)
-├── The Situation The 800-Line Monster.md (4.6 KB)
-├── The Situation The AI Writes Code You Cannot Read.md (4.8 KB)
-├── The Situation The Package That Broke Everything.md (4.6 KB)
-├── The Situation The Red Wall of Text.md (4.7 KB)
-├── The Situation The Tool You Do Not Know You Have.md (4.7 KB)
-├── The Situation You Have a Script But Cannot Make It Go.md (4.9 KB)
-├── The Situation You Installed Everything But Nothing Works.md (4.5 KB)
-├── The Specificity Trap in Self-Efficacy Research.md (5.7 KB)
-├── The Specificity-Difficulty Conjunction.md (6.6 KB)
-├── The SRL Cycle in PKM Practice.md (9.8 KB)
-├── The Stability Dimension (Weiner, 1972, 1985).md (10.0 KB)
-├── The Stability-Expectancy Principle.md (8.3 KB)
-├── The Standard Mechanism in Compressed Form.md (6.5 KB)
-├── The standard three-load taxonomy.md (7.9 KB)
-├── The Standard-of-Coherence Bandwidth Hypothesis.md (8.0 KB)
-├── The Substructure Need-to-Style Mapping.md (5.6 KB)
-├── The Task Analysis Bottleneck.md (7.7 KB)
-├── The Tautology Concern.md (7.9 KB)
-├── The Taxonomy as a Diagnostic Instrument.md (8.1 KB)
-├── The Taxonomy as Emotional Grammar.md (8.5 KB)
-├── The Temporal Architecture of Forethought.md (7.8 KB)
-├── The Temporal Architecture of Post-Outcome Affect.md (9.2 KB)
-├── The Temporal Architecture of Self-Assessment.md (8.2 KB)
-├── The Temporal Dynamics of Optimal Support.md (9.8 KB)
-├── The Temptation of Dimensional Purity.md (8.4 KB)
-├── The Theory at Its Frontier.md (7.4 KB)
-├── The Three Basic Psychological Needs.md (7.2 KB)
-├── The Three Modes of AI-Assisted Coding.md (5.2 KB)
-├── The Three-Level Mechanism Map as Intervention Architecture.md (7.7 KB)
-├── The Tool Complexity Paradox in PKM Systems.md (10.5 KB)
-├── The Transcription Trap When PKB Workflow Bypasses Encoding.md (10.2 KB)
-├── The Translation Window An Original Synthesis.md (7.3 KB)
-├── The Translation Window as Diagnostic Frame.md (7.4 KB)
-├── The Translation Window Diagnostic.md (8.3 KB)
-├── The Tripartite Scope of SDL.md (6.4 KB)
-├── The Two Performance States in a Concrete Case.md (7.1 KB)
-├── The Two-Stage Architecture of Attribution Retraining.md (8.7 KB)
-├── The Undermining Effect — Robust Finding or Fragile Artifact.md (8.1 KB)
-├── The Universality Thesis.md (7.7 KB)
-├── The Verification Imperative — Copilot Is Not an Oracle.md (5.7 KB)
-├── The WEIRD-Sample-Bias in Attribution Research.md (8.6 KB)
-├── The Whole-Task Paradox.md (7.9 KB)
-├── The Worked Example Effect (Sweller & Cooper, 1985; Cooper & Sweller, 1987).md (9.5 KB)
-├── The Worked Example Effect Mechanisms, Moderators, and Design Principles.md (8.3 KB)
-├── The Working Memory–Long-Term Memory Relationship as the Master Design Constraint.md (10.2 KB)
-├── The-22-as-a-Map-of-Vulnerability,-Not-Just-Goal-Types.md (7.3 KB)
-├── The-Actor-Observer-Asymmetry-in-Social-Cognition.md (8.8 KB)
-├── the-atkinson-shiffrin-multi-store-model.md (7.3 KB)
-├── the-attributional-bridge — Attribution as the Interpretive Layer.md (9.2 KB)
-├── the-attributional-bridge.md (6.8 KB)
-├── The-Calibrated-Engagement-Criterion-A-Dialectical-Examination.md (7.2 KB)
-├── the-controllability-dimension.md (6.8 KB)
-├── the-expertise-reversal-effect.md (7.2 KB)
-├── the-fluency-illusion.md (7.5 KB)
-├── the-fluency-trap.md (7.2 KB)
-├── the-fundamental-attribution-error.md (6.8 KB)
-├── the-guilt-shame-asymmetry-in-motivational-function.md (6.9 KB)
-├── The-Historical-Genealogy-of-Chunking-Theory.md (5.6 KB)
-├── The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces.md (6.7 KB)
-├── The-Intellectual-Lineage-of-Self-Regulation-Research.md (7.0 KB)
-├── the-internalization-continuum.md (6.6 KB)
-├── The-Multi-Framework-Landscape-of-Self-Regulated-Learning-Theory.md (10.8 KB)
-├── the-parity-principle.md (7.2 KB)
-├── the-pkb-as-externalized-metacognitive-architecture.md (10.1 KB)
-├── The-Replication-Crisis-and-Dual-Process-Findings.md (7.8 KB)
-├── The-SRL-SDT-Interface-Motivational-Quality-as-the-Meta-Regulator-of-Regulation-Q.md (7.6 KB)
-├── the-stability-expectancy-mechanism.md (6.9 KB)
-├── the-substitution-trap.md (7.0 KB)
-├── the-three-dimensional-causal-taxonomy.md (6.9 KB)
-├── the-two-stage-attribution-intervention-architecture.md (6.9 KB)
-├── the-undermining-effect.md (7.0 KB)
-├── the-worked-example-effect.md (6.7 KB)
-├── theory-of-planned-behavior.md (6.7 KB)
-├── therapeutic-alliance.md (7.0 KB)
-├── Thomas O. Nelson (1943–2005) & Louis Narens.md (7.5 KB)
-├── Thomas O. Nelson (1944–2005) and Louis Narens — University of Maryland; UC Irvine.md (7.8 KB)
-├── Thomas O. Nelson (1945–2005).md (8.2 KB)
-├── thomas-nelson-and-louis-narens.md (6.8 KB)
-├── thomas-nelson.md (7.0 KB)
-├── thomas-o.-nelson.md (7.2 KB)
-├── Three Failures, Three Fix-Up Choices.md (8.1 KB)
-├── Three Needs vs More Needs.md (5.3 KB)
-├── Tim Kasser (1966–).md (7.4 KB)
-├── time-management.md (6.4 KB)
-├── Tool-Centrism vs. Process-Centrism.md (9.9 KB)
-├── Tools as Cognitive Scaffolding, Not Cognitive Replacement.md (10.0 KB)
-├── Topic 1 Python Testing Frameworks — Pytest, unittest, and Test-Driven Development.md (5.1 KB)
-├── Topic 2 Python Data Analysis Pipeline — Pandas, Visualization, and Exploratory Data Analysis.md (5.0 KB)
-├── Topic 3 Python Web Scraping and API Integration — Requests, BeautifulSoup, and REST APIs.md (5.0 KB)
-├── Topic 4 Advanced VS Code Customization — Tasks, Settings, Extensions, and Workspace Configuration.md (5.2 KB)
-├── Topic 5 The Psychology of AI-Assisted Skill Acquisition — When and How AI Helps vs. Hinders Learning.md (5.3 KB)
-├── Topics for Future Investigation.md (29.9 KB)
-├── Tough, A. (1971). The Adult's Learning Projects A Fresh Approach to Theory and Practice in Adult Learning. Ontario.md (6.4 KB)
-├── trace-data.md (6.4 KB)
-├── Traceback (Stack Trace).md (6.4 KB)
-├── Traceback.md (7.0 KB)
-├── Trait vs State Regulation.md (5.3 KB)
-├── Trait vs. Process.md (6.5 KB)
-├── Trait vs. State Measurement.md (6.5 KB)
-├── Transfer Domain 1 Any Command-Line Tool Ecosystem.md (4.4 KB)
-├── Transfer Domain 1 Personal Knowledge Management and PKB Automation.md (7.1 KB)
-├── Transfer Domain 1 Professional Skill Acquisition Outside Formal Education.md (11.6 KB)
-├── Transfer Domain 2 Dependency Management in Any Language.md (4.4 KB)
-├── Transfer Domain 2 Long-Term Habit Formation and Behavior Change.md (11.4 KB)
-├── Transfer Domain 2 Research Methodology and Systematic Debugging as Hypothesis Testing.md (7.1 KB)
-├── Transfer Domain 3 AI-Assisted Work Beyond Coding.md (4.4 KB)
-├── Transfer Domain 3 Personal Knowledge Management Practice.md (11.3 KB)
-├── Transfer Domain 3 Professional Communication and Code as Externalized Thought.md (7.0 KB)
-├── Transfer Domain 4 The PTAL Pattern as a Learning Framework.md (4.5 KB)
-├── Transfer Domain 4 Therapeutic Self-Management and Mental Health Practice.md (11.3 KB)
-├── Transfer Domain 4 Transferring the Annotation Practice Itself.md (7.2 KB)
-├── Transfer of Learning — Near Transfer, Far Transfer, and the Conditions for Generalization.md (9.8 KB)
-├── Transfer Pessimism vs. Transfer Optimism.md (5.7 KB)
-├── Transfer to Clinical Practice Action Plans in Asthma Management.md (5.6 KB)
-├── Transfer to Organizational Practice Standard Operating Procedures.md (5.5 KB)
-├── Transfer to Pedagogy Worked Examples and Cognitive Pre-Compilation.md (5.6 KB)
-├── Transfer to Software Engineering Defensive Programming as Implementation Intention.md (5.8 KB)
-├── Transfer-of-Learning-Mechanisms-and-Instructional-Design.md (8.8 KB)
-├── transfer-of-learning.md (6.3 KB)
-├── Transformational-Leadership.md (7.0 KB)
-├── Transformative-Learning.md (6.7 KB)
-├── Translation Window (original to this report).md (7.8 KB)
-├── Translation Window Diagnostic Checklist.md (7.0 KB)
-├── Transparent Quality Evaluation.md (9.0 KB)
-├── Triadic Reciprocal Determinism (Bandura, 1986).md (6.0 KB)
-├── Triggering Type 2 Engagement at Decision Points.md (7.9 KB)
-├── Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty Heuristics and biases. Science, 185(4157), 1124–1131.md (7.7 KB)
-├── Two Readers, Same Passage, Different Standards.md (7.9 KB)
-├── Type 1 Processing (Stanovich & Evans).md (7.0 KB)
-├── Type 2 Processing (Stanovich & Evans).md (8.7 KB)
-├── type-1-processing.md (7.0 KB)
-├── type-2-processing.md (7.0 KB)
-├── type-hints.md (6.0 KB)
-├── undifferentiated-conception-of-ability.md (7.2 KB)
-├── Universality vs Cultural Variability.md (5.4 KB)
-├── Universality vs. Cultural Specificity of the Fundamental Attribution Error.md (8.9 KB)
-├── Urban Planning and Wayfinding.md (10.0 KB)
-├── user-experience-design.md (6.6 KB)
-├── Usher, E. L., & Pajares, F. (2008). Sources of self-efficacy in school Critical review of the literature and future.md (6.1 KB)
-├── Vaithilingam, P., Zhang, T., & Glassman, E. L. (2022). Expectation vs. Experience Evaluating the Usability of Code.md (5.8 KB)
-├── van Merriënboer, J. J. G., & Kirschner, P. A. (2018). Ten steps to complex learning (3rd ed.). Routledge.md (8.0 KB)
-├── Van Rossum, G., & Drake, F. L. (2023). The Python Tutorial. Python Software Foundation.md (5.2 KB)
-├── Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability Basic psychological need.md (8.1 KB)
-├── Vansteenkiste,-Lens,-&-Deci-2006.md (6.6 KB)
-├── variability-of-practice-effect.md (6.6 KB)
-├── Vector-Embeddings.md (7.2 KB)
-├── Verbal Persuasion (Social Communication Source).md (5.6 KB)
-├── verbal-persuasion.md (7.0 KB)
-├── Version-Control.md (6.1 KB)
-├── Vicarious Experience (Modeling Source).md (5.4 KB)
-├── Virtual Environment (venv).md (7.2 KB)
-├── Virtual Environment Health Check.md (4.2 KB)
-├── Virtual Environment.md (6.7 KB)
-├── virtual-environment.md (6.1 KB)
-├── Visual-Representation.md (6.1 KB)
-├── visuospatial-sketchpad.md (6.6 KB)
-├── volition.md (6.7 KB)
-├── volitional-congruence.md (6.8 KB)
-├── vs-code.md (6.2 KB)
-├── Vygotsky, L.S. (1978). Mind in Society The Development of Higher Psychological Processes. Harvard University Press.md (9.4 KB)
-├── Vygotsky's-Zone-of-Proximal-Development.md (6.7 KB)
-├── Walter Kintsch (1932–) — University of Colorado Boulder.md (7.8 KB)
-├── walter-kintsch.md (6.9 KB)
-├── Wayne-De-Neys.md (7.0 KB)
-├── Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change A meta-analysis of the.md (5.3 KB)
-├── Weiner, B. (1985). An attributional theory of achievement motivation and emotion. Psychological Review, 92(4), 548–573.md (8.5 KB)
-├── Weiner, B. (1995). Judgments of responsibility A foundation for a theory of social conduct. Guilford Press.md (8.5 KB)
-├── Weiner, B. (2006). Social motivation, justice, and the moral emotions An attributional approach. Lawrence Erlbaum.md (8.4 KB)
-├── WEIRD-Sample-Bias.md (6.8 KB)
-├── well-being-pathway.md (6.4 KB)
-├── wellbeing-mode.md (6.4 KB)
-├── Wendy Grolnick.md (5.2 KB)
-├── What are the four components of the 4CID model.md (7.7 KB)
-├── What are the six dimensions of the TARGET framework.md (6.7 KB)
-├── What are the three levels of the mechanism cascade by which goal orientation produces downstream effects.md (6.9 KB)
-├── What distinguishes recurrent from non-recurrent constituent skills.md (7.7 KB)
-├── What Distinguishes the Mature Theory from the Original.md (5.9 KB)
-├── What is germane cognitive load and why is its status contested.md (8.0 KB)
-├── What is the asymmetric interpretation of error, and why does it matter.md (6.9 KB)
-├── What is the central distinction at the heart of Goal Orientation Theory.md (6.7 KB)
-├── What is the dual-mechanism instructional logic of 4CID.md (7.9 KB)
-├── What is the expertise reversal effect and how does it challenge 4CID.md (7.9 KB)
-├── What is the scaffold-fading trajectory within a task class.md (7.8 KB)
-├── What Remains for Further Work.md (7.4 KB)
-├── What the 2×2 Reveals That the Dichotomy Concealed.md (7.1 KB)
-├── What the Evidence Does Not Support.md (5.0 KB)
-├── What This Depth Made Visible.md (6.7 KB)
-├── What This Framework Does Not Resolve.md (6.0 KB)
-├── What This Looks Like in Practice.md (5.3 KB)
-├── What This Section Established.md (6.8 KB)
-├── When AI-Assisted Coding Excels.md (4.2 KB)
-├── When AI-Assisted Coding Undermines You.md (4.3 KB)
-├── When Efficacy Intervention Will Likely Fail.md (6.0 KB)
-├── When Python Is Not the Right Tool.md (4.1 KB)
-├── When Python Is the Right Tool.md (4.2 KB)
-├── When should supportive information vs. procedural information be presented.md (7.9 KB)
-├── When This Breaks Down The Activation Amnesia.md (4.8 KB)
-├── When This Breaks Down The Cargo Cult Pattern.md (4.9 KB)
-├── When This Breaks Down The Import Path Nightmare.md (4.8 KB)
-├── When This Breaks Down The Multiple Pythons Problem.md (5.0 KB)
-├── When This Breaks Down The Print-Debugging Trap.md (5.0 KB)
-├── When This Breaks Down The Secrets Problem.md (4.7 KB)
-├── When This Breaks Down The Working Directory Trap.md (5.0 KB)
-├── When to Intervene at Which Level.md (6.9 KB)
-├── Where Does Python Proficiency End and Software Engineering Begin.md (5.2 KB)
-├── Where Should You Start.md (4.8 KB)
-├── Where the Framework Is Headed.md (7.1 KB)
-├── Whole-Task Approach (van Merriënboer, 1997).md (9.0 KB)
-├── Why an Inductive Theory Is Both Strong and Brittle.md (7.1 KB)
-├── Why Architectural Transfer Is More Tractable than Strategy Transfer.md (8.0 KB)
-├── Why did the original mastery–performance dichotomy require the approach–avoidance refinement.md (6.8 KB)
-├── Why does the 4CID model use a whole-task approach rather than part-task decomposition.md (7.8 KB)
-├── Why element interactivity is the engine of intrinsic load.md (7.3 KB)
-├── Why is climate generally a more powerful determinant of orientation than individual disposition over time.md (7.0 KB)
-├── Why the Climate-Individual Relationship Is Not Symmetric.md (7.4 KB)
-├── Why the Cross-Area Cells Carry Disproportionate Theoretical Weight.md (10.8 KB)
-├── Why the Cycle Matters More Than the Static Theory.md (7.1 KB)
-├── Why These Failure Modes Are Not Bugs but Features.md (5.9 KB)
-├── Why Triadic Reciprocity Is the Key to Understanding Persistent Inequities in Efficacy.md (6.7 KB)
-├── Why-Strategy-Instruction-Sometimes-Fails-Diagnostic-Framework.md (7.9 KB)
-├── wiki-link.md (6.4 KB)
-├── wiki-links.md (7.2 KB)
-├── wilbert-mckeachie.md (6.4 KB)
-├── William G. Chase and Herbert A. Simon.md (5.3 KB)
-├── wilson-and-linville.md (6.8 KB)
-├── Wilson, T. D., & Linville, P. W. (1985). Improving the performance of college freshmen with attributional techniques.md (8.7 KB)
-├── Windows-Terminal.md (6.6 KB)
-├── winne-and-hadwin.md (7.2 KB)
-├── Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated learning. In D. J. Hacker, J. Dunlosky, & A. C.md (10.9 KB)
-├── Winne.md (6.4 KB)
-├── Winne's-information-processing-model.md (6.5 KB)
-├── wise-interventions.md (6.8 KB)
-├── Wolters-Motivational-Regulation-Strategies-Catalog.md (10.7 KB)
-├── Wolters, C. A. (2003). Regulation of motivation Evaluating an underemphasized aspect of self-regulated learning.md (10.8 KB)
-├── Wolters.md (6.4 KB)
-├── Worked Example Counting elements in a syllogism vs. a vocabulary list.md (7.9 KB)
-├── Worked Example The same material, three levels of element interactivity.md (8.1 KB)
-├── Worked Example The trajectory of learning long division.md (8.5 KB)
-├── worked-example-effect.md (6.5 KB)
-├── Worked-Examples-Effect.md (7.0 KB)
-├── Worked-Examples.md (6.8 KB)
-├── Working Memory (Baddeley, 1986; Baddeley & Hitch, 1974).md (9.6 KB)
-├── Working Memory in the CLT Framework (Sweller, Ayres, & Kalyuga, 2011).md (9.5 KB)
-├── working-memory-capacity.md (6.6 KB)
-├── Working-Memory-Limitations.md (7.2 KB)
-├── working-memory.md (6.3 KB)
-├── Workplace Learning and Professional Development.md (7.4 KB)
-├── Workplace-Learning.md (7.2 KB)
-├── YAML.md (6.2 KB)
-├── Zettelkasten-Method.md (6.9 KB)
-├── zettelkasten.md (6.9 KB)
-├── zimmerman-srl-model.md (7.1 KB)
-├── Zimmerman, B. J. (2000). Attaining self-regulation A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, &.md (7.6 KB)
-├── Zimmerman, B. J. (2000). Self-efficacy An essential motive to learn. Contemporary Educational Psychology, 25(1), 82–91.md (5.9 KB)
-├── Zimmerman, B. J. (2002). Becoming a self-regulated learner An overview. Theory Into Practice, 41(2), 64-70.md (10.0 KB)
-├── Zimmerman, B. J. (2002). Becoming a self-regulated learner An overview. Theory into Practice, 41(2), 64–70.md (7.7 KB)
-├── Zimmerman, B.J. (2002). Becoming a Self-Regulated Learner An Overview. Theory Into Practice, 41(2), 64-70.md (9.3 KB)
-├── Zimmerman.md (7.4 KB)
-├── Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning.md (7.4 KB)
-├── Zimmerman's-Cyclical-Model-of-Self-Regulation.md (6.9 KB)
-└── zone-of-proximal-development.md (7.0 KB)```
+├── 2×2-Achievement-Goal-Framework.md
+├── 4CID and Individual Differences Beyond One-Size-Fits-All Sequencing.md
+├── 4CID Blueprint Completeness Checklist.md
+├── 4CID Dual-Mechanism Architecture.md
+├── 4e-cognition.md
+├── 2026-04-20-2152-srl-session.md
+├── A Closing Reflection.md
+├── A Common Misreading.md
+├── A Concrete Trajectory How Deliberate Practice Builds the Architecture.md
+├── A Debugging Workflow in Practice.md
+├── A Forethought Template in Practice.md
+├── A PKM-Specific Implementation Intention Stack.md
+├── A Reflection on the Construct's Quiet Significance.md
+├── A Reframing of the Self-Regulation Problem.md
+├── A Single Learner Through Multiple Lenses.md
+├── A Worked Example of MCII for Academic Behavior.md
+├── A Worked Example to Hold in Mind.md
+├── A Working settings.json for Python Development.md
+├── abraham-maslow.md
+├── Abstract.md
+├── Abstraction.md
+├── Academic-Burnout-and-Wellbeing.md
+├── academic-emotions.md
+├── Academic-Help-Seeking.md
+├── accessibility-heuristic.md
+├── Achievement Goal (Achievement Goal Theory tradition).md
+├── Achievement Goal.md
+├── Achievement-Emotions-—-Pekrun's-Control-Value-Theory.md
+├── achievement-goal-theory.md
+├── achievement-motivation.md
+├── act-r-theory.md
+├── Action Phase Model (Heckhausen & Gollwitzer, 1987).md
+├── action-phase-model.md
+├── Activate What You Already Know.md
+├── Activating Prior Knowledge for This Report.md
+├── Activating Prior Knowledge The Bottleneck You Already Navigate.md
+├── Activating Prior Knowledge.md
+├── active-inference.md
+├── active-learning.md
+├── active-note-making.md
+├── Active-Open-Mindedness.md
+├── Active-Recall.md
+├── actor-observer-asymmetry.md
+├── Adaptive 4CID Optimal Real-Time Adjustment Algorithms.md
+├── Adaptive Expertise (Hatano & Inagaki).md
+├── Adaptive Help-Seeking.md
+├── Adaptive Instruction Real-Time Learning Environment Optimization.md
+├── Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis.md
+├── adaptive-expertise.md
+├── Adaptive-Help-Seeking-As-a-Regulatory-Skill.md
+├── adaptive-help-seeking-vs.-avoidant-help-seeking.md
+├── Adaptive-Instruction.md
+├── adaptive-learning.md
+├── adaptive-self-reaction.md
+├── Adult-Learning.md
+├── advance-organizer.md
+├── Advance-Organizers-and-Prior-Knowledge-Activation.md
+├── Affect-as-Information-Theory.md
+├── agent-prompt-engineering.md
+├── agentic-prompt-engineering-workflows.md
+├── AGQ-—-Achievement-Goals-Questionnaire.md
+├── AI Agent Development and Prompt Engineering.md
+├── AI Alignment and Machine Learning.md
+├── AI Assistance vs. Learning Depth.md
+├── AI-Agent-Architecture.md
+├── AI-Agents.md
+├── AI-Alignment.md
+├── AI-Assisted Learning Environments and the Future of Efficacy Cultivation.md
+├── AI-Assisted-Development-Workflows-Comparative-Analysis.md
+├── AI-Assisted-Reading-Risks-and-Safeguards.md
+├── AI-Hallucination.md
+├── ai-pkb-integration.md
+├── alan-baddeley.md
+├── albert-bandura.md
+├── Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work.md
+├── allen-tough.md
+├── amos-tversky.md
+├── amotivation.md
+├── Anastasia-Efklides.md
+├── Anchoring-and-Adjustment.md
+├── anchoring-effects.md
+├── anders-ericsson.md
+├── Andragogy (Knowles, 1968, 1980).md
+├── Andragogy (Knowles).md
+├── andragogy.md
+├── andrew-j.-elliot.md
+├── andy-clark.md
+├── anki.md
+├── ann-brown.md
+├── ann-l.-brown.md
+├── Anneliese-Palincsar.md
+├── Annotation Confidence 25.md
+├── Annotation Confidence 35.md
+├── Annotation Confidence 45 for the risks; 35 for the mitigations.md
+├── Annotation Confidence 45.md
+├── Annotation Coverage Gap — Terminal Proficiency and Command-Line Development.md
+├── Annotation Coverage Gap — Testing and Code Quality.md
+├── Annotation Cross-Section Confidence Calibration.md
+├── Annotation Methodological Limitation — Single Perspective.md
+├── Anthropic-API.md
+├── anxiety.md
+├── API-Cost-Optimization-Strategies.md
+├── API-Design-Patterns.md
+├── API-Fundamentals.md
+├── api.md
+├── appellate-review-as-metacognitive-check.md
+├── Application Attribution Retraining's Two-Stage Architecture.md
+├── Application Designing PKB Notes as External Chunks.md
+├── Application Desirable Difficulties and Monitoring.md
+├── Application Distinguishing Genuine Expertise from Pseudoexpertise.md
+├── Application MCII Compound Intervention.md
+├── Application PKM Recursive Architecture.md
+├── Application The Readiness Paradox.md
+├── Application Why Self-Explanation Works.md
+├── Applying the Ten Steps Teacher Education.md
+├── Apprenticeship.md
+├── Architectural Description vs. Normative Prescription.md
+├── architecture-patterns.md
+├── Argument Map — Report Structure and Claim Dependencies.md
+├── Argument Map Central Thesis and Supporting Claims.md
+├── Argument Map Enablement-Risk Dialectic.md
+├── Artificial Intelligence Architecture as Engineered Chunking.md
+├── Artificial Intelligence Self-Monitoring Systems.md
+├── Asher-Koriat.md
+├── aspiration-index.md
+├── Assessment as the Completion of the Scaffolding-Sovereignty Progression.md
+├── Assessment for Autonomy.md
+├── Assessment for Learning Formative Assessment as a Developmental Practice.md
+├── Assessment-Design-&-Goal-Orientation.md
+├── assessment-design.md
+├── Assessment-for-Learning.md
+├── assimilation-and-accommodation.md
+├── Associative-Learning.md
+├── Async-Programming.md
+├── Athletic and Musical Practice.md
+├── Athletic Coaching and Physical Skill Development.md
+├── Athletic Coaching and the Engineering of Performance Confidence.md
+├── Athletic Skill Acquisition and Motor Learning.md
+├── Athletic Training and Performance Development.md
+├── atomic-note.md
+├── attention-and-learning.md
+├── attention.md
+├── Attribute Substitution (Kahneman & Frederick).md
+├── Attribution (Heider, 1958).md
+├── Attribution Retraining (Försterling, 1985; Perry et al., 2010).md
+├── Attribution Retraining Design Protocol.md
+├── Attribution Retraining in Clinical Depression.md
+├── Attribution-Dependent Emotion (Weiner, 1985, 1995).md
+├── attribution-retraining.md
+├── Attributional Self-Assessment Checklist.md
+├── Attributional Vocabulary (Original to this report).md
+├── Attributional-Processes-in-Intergroup-Relations.md
+├── attributional-vocabulary — Attribution as the Medium of inner-speech.md
+├── attributional-vocabulary.md
+├── autodidacticism.md
+├── automaticity-gradient.md
+├── automaticity.md
+├── automation.md
+├── Autonomous Motivation (Deci & Ryan, 2000).md
+├── Autonomous Motivation.md
+├── Autonomous vs. Controlled Commitment (integrating SDT).md
+├── autonomous-motivation-vs.-controlled-motivation.md
+├── Autonomy (in the SDT technical sense).md
+├── Autonomy (SDT) (Deci & Ryan, 1985).md
+├── Autonomy ≠ Independence.md
+├── Autonomy as the Motivational Foundation of SDL.md
+├── Autonomy Universality vs. Cultural Specificity.md
+├── Autonomy vs. Interdependence.md
+├── Autonomy vs. Structure The Scaffolding Paradox.md
+├── autonomy-need.md
+├── autonomy-orientation.md
+├── autonomy-relatedness-integration.md
+├── Autonomy-Structure Dialectic.md
+├── Autonomy-Support-—-Mechanisms-and-Measurement.md
+├── Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments.md
+├── autonomy-support.md
+├── Autonomy-Supportive Communication Protocol.md
+├── Autonomy-Supportive Structure.md
+├── Autonomy-Supportive-Parenting.md
+├── autonomy-supportive-teaching.md
+├── autonomy.md
+├── availability-heuristic.md
+├── avoidant-help-seeking.md
+├── Backward Design (Wiggins & McTighe).md
+├── Backward Design for Self-Direction A Professional Development Curriculum.md
+├── baddeley-s-model-of-working-memory.md
+├── Baddeley's-Working-Memory-Model.md
+├── Baker-1985-Standards-of-Coherence.md
+├── Bandura.md
+├── Barnett-and-Ceci.md
+├── Barnett-Ceci.md
+├── Barry-J-Zimmerman.md
+├── barry-zimmerman.md
+├── Basic Psychological Need (in SDT).md
+├── Basic Psychological Need (SDT).md
+├── Basic Psychological Needs.md
+├── basic-programming-logic.md
+├── Basic-Psychological-Needs-—-The-Three.md
+├── Basic-Psychological-Needs-Theory-BPNT.md
+├── basic-psychological-needs-theory.md
+├── behavior-change-techniques.md
+├── behavior-change.md
+├── behavioural-economics.md
+├── Beiwen Chen and Cross-Cultural SDT Researchers.md
+├── bernard-weiner.md
+├── Biologically Primary Knowledge.md
+├── Bloom's-Taxonomy.md
+├── Boekaerts.md
+├── Boundary Most Common Failure Mode.md
+├── bounded-rationality.md
+├── Bratman's-Planning-Theory.md
+├── Breakpoint (Debugger).md
+├── Breakpoint.md
+├── Bridging from What You Already Know.md
+├── Bridging to Prior Knowledge The PKB as Cognitive Partner.md
+├── Bridging to Prior Knowledge.md
+├── Bridging to Your Existing Knowledge.md
+├── bridging-inference.md
+├── Brown-metacognition.md
+├── Build Your First Managed Project.md
+├── Building-a-Second-Brain.md
+├── building-custom-ai-agents-in-obsidian.md
+├── Calibration (Metacognitive Accuracy Literature).md
+├── Calibration (Metacognitive).md
+├── Calibration as a Trainable Skill.md
+├── Calibration Check After Reading.md
+├── Calibration Versus Optimism.md
+├── Calibration vs. Sensitivity in Metacognitive Judgment.md
+├── Calibration-Adaptation Engine (Original to This Report).md
+├── Calibration-of-Confidence.md
+├── Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature.md
+├── Calibration-Science-and-Metacognitive-Accuracy.md
+├── Calibration-Training-Methods-and-Evidence.md
+├── calibration.md
+├── Capability-Building.md
+├── Cargo-Cult Coding.md
+├── carl-rogers.md
+├── carol-dweck.md
+├── carole-ames.md
+├── Cass-Sunstein.md
+├── causal-schemata.md
+├── causality-orientations-theory.md
+├── Central Claim of OIT.md
+├── Central claim of this level.md
+├── central-executive.md
+├── CET as a Theory of Motivational Pollution.md
+├── Chain-of-Thought-Prompting.md
+├── Charles-Judd.md
+├── Checklist PKM System Design Audit (Seven-Problem Framework).md
+├── Checklist-Manifesto.md
+├── chen-2015.md
+├── chris-kenyon.md
+├── chronic-illness-self-management.md
+├── Chunk (Miller, 1956; Chase & Simon, 1973).md
+├── chunking-as-the-unit-currency-of-deliberate-practice.md
+├── Chunking-in-Second-Language-Acquisition.md
+├── chunking.md
+├── Claim 2 Virtual Environments as the Critical Operational Concept.md
+├── Claim 3 Debugging as the Primary Site of Model Formation.md
+├── Claim 4 Copilot Reverses the Traditional Programming Learning Trajectory.md
+├── Claim 5 Project Organization as Externalized Cognitive Architecture.md
+├── Claim 6 Copilot Bridges the Intent-Implementation Gap for Domain-Specific Tasks.md
+├── classroom-motivation.md
+├── Claude-API.md
+├── claude-code-basics.md
+├── claude-code-workflows.md
+├── Claude-Code.md
+├── Claude-Projects.md
+├── Claude's Analytical Perspective Shifts During Analysis.md
+├── Claude's Analytical Perspective The Comment-as-Intent Pattern.md
+├── Claude's Analytical Perspective The Extension Ecosystem as Capability Multiplier.md
+├── Claude's Analytical Perspective The Productivity Trajectory.md
+├── Claude's perspective on the dynamics.md
+├── Claude's perspective on the edge cases.md
+├── Claude's perspective on the frontier.md
+├── Claude's perspective on the reorganization.md
+├── Claude's perspective on the speculative horizon.md
+├── Claude's perspective on the substructure.md
+├── Claude's perspective on the surface picture.md
+├── Claude's Perspective Python as Connective Tissue.md
+├── Claude's Perspective The Two Kinds of Errors.md
+├── Claude's Perspective The Understanding Verification Problem.md
+├── Claude's Specialist Observation Edge Cases as Theory Diagnostics.md
+├── Claude's Specialist Observation The Frontier Has a Shape.md
+├── Claude's Specialist Observation The Surface Underdetermines the Mechanism.md
+├── Claude's Specialist Observation Why Three Needs Is Not Arbitrary.md
+├── cli-tool-proficiency.md
+├── Client-Server-Architecture.md
+├── Clinical and Health Behavior Change.md
+├── Clinical and Medical Education The Diagnostic Self-Director.md
+├── Clinical and Therapeutic Recovery.md
+├── Clinical Decision Support Systems.md
+├── Clinical Decision-Making The Diagnostic Monitoring-Control Loop.md
+├── Clinical Diagnosis as Metacognitive Reading.md
+├── Clinical Education and Medical Reasoning.md
+├── Clinical Practice and the Architecture of Therapeutic Change.md
+├── Clinical Reasoning and Diagnostic Practice.md
+├── Clinical-Heuristics.md
+├── Clinical-Implementation-Intentions — Therapeutic Applications.md
+├── Clinical-Implementation-Intentions.md
+├── clinical-psychology.md
+├── clinical-reasoning-metacognition.md
+├── Clinical-Reasoning.md
+├── CLT as the Unifying Diagnostic for PKB Design Failures.md
+├── CLT Compliance Review for Multimedia Materials.md
+├── CLT Principles in E-Learning Design.md
+├── CLT-Informed Instructional Design Diagnostic Protocol.md
+├── CLT's Neighbour Relations A Summary Assessment.md
+├── Code Review as Metacognitive Reading.md
+├── code-review.md
+├── cog-sci-pkm-the-role-of-reading-in-pkm.md
+├── Cognitive Architecture.md
+├── Cognitive Forcing Function (Croskerry).md
+├── Cognitive Load Theory (CLT).md
+├── Cognitive Miserliness (Stanovich).md
+├── Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation.md
+├── Cognitive Offloading vs. Cognitive Engagement.md
+├── Cognitive Offloading.md
+├── Cognitive Pre-Compilation (this report).md
+├── Cognitive Safety Net.md
+├── Cognitive Scaffolding.md
+├── Cognitive Task Analysis Methods, Validity, and Design Integration.md
+├── Cognitive vs. Motivational Sources of Attributional Bias.md
+├── Cognitive-Apprenticeship-in-PKM.md
+├── cognitive-apprenticeship.md
+├── cognitive-architecture — Comparative Models and Instructional Implications.md
+├── cognitive-architecture-in-reading.md
+├── Cognitive-Architecture-Working-Memory-&-Long-Term-Memory.md
+├── cognitive-behavioral-therapy.md
+├── Cognitive-Behavioural-Therapy.md
+├── cognitive-biases.md
+├── cognitive-chunking.md
+├── cognitive-constructivism.md
+├── cognitive-control-mechanisms.md
+├── Cognitive-Development-—-Piaget-and-Vygotsky.md
+├── Cognitive-Engineering.md
+├── cognitive-evaluation-theory-cet.md
+├── cognitive-forcing-functions-in-clinical-reasoning.md
+├── Cognitive-Load-and-Need-Satisfaction.md
+├── Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice.md
+├── cognitive-load-theory-element-interactivity-deep-dive-2026-04-20.md
+├── cognitive-miserliness.md
+├── Cognitive-Offloading-in-Knowledge-Work.md
+├── cognitive-operation.md
+├── Cognitive-Overload.md
+├── cognitive-psychology.md
+├── Cognitive-Reflection-Test-and-Rationality-Quotient.md
+├── Cognitive-Revolution.md
+├── cognitive-science.md
+├── Cognitive-Skill-Acquisition.md
+├── cognitive-task-analysis.md
+├── cognitive-theory-of-multimedia-learning.md
+├── Collective Efficacy (Bandura, 1997).md
+├── Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology.md
+├── Collective-Efficacy-and-Social-Capital-The-Sociological-Bridge.md
+├── Collective-Metacognition-and-Epistemic-Institutions.md
+├── command-line.md
+├── Commitment as Quantitative Variable vs. Quality-Differentiated Variable.md
+├── Common Misconception The Matrix as Procedure.md
+├── Common Misconceptions About Strategic Automaticity.md
+├── communities-of-practice.md
+├── Community Development and Civic Education.md
+├── Competence (in the SDT technical sense).md
+├── Competence (SDT) (White, 1959; Deci & Ryan, 1985).md
+├── competence-need.md
+├── competence.md
+├── competency-based-learning.md
+├── complete-project-structure.md
+├── Completion-Problem-Effect.md
+├── Complex Learning.md
+├── Comprehension Monitoring (Baker & Brown, 1984).md
+├── comprehension-criterion.md
+├── comprehension-monitoring-training-protocols.md
+├── comprehension-monitoring.md
+├── Computational Models of Metacognition Architectures, Implementations, and Predictions.md
+├── Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik.md
+├── concept-map.md
+├── Conception of Ability (Nicholls).md
+├── conception-of-ability.md
+├── conceptual-change-theory-and-schema-restructuring.md
+├── Conditional Regard.md
+├── conditional-knowledge.md
+├── conditional-metacognitive-knowledge.md
+├── Conditional-Regard-and-the-Introjection-Trap.md
+├── Conditional-Regard-Research.md
+├── Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis.md
+├── Configuration Flexibility vs. Beginner Overwhelm.md
+├── confirmation-bias.md
+├── Connecting to What You Already Know.md
+├── Connecting to Your Existing Knowledge.md
+├── Connection Action Phase Model.md
+├── Connection Attribution as the Interpretive Layer of Motivation.md
+├── Connection Expertise Reversal Effect Mechanism.md
+├── Connection Fluency Illusion and Calibration Error.md
+├── Connection Implicit Theories and the Stability Dimension.md
+├── Connection Metacognitive Sovereignty Framework.md
+├── Connection Nelson-Narens and SRL.md
+├── Connection Reciprocal Teaching and the Architectural Layers.md
+├── Connection SDT and SDL.md
+├── Connection Why Failure Modes are Inseparable from Benefits.md
+├── Conscious vs. Automatic Regulation.md
+├── Construction as the Common Currency of Effective Encoding.md
+├── construction-integration-model.md
+├── constructivism.md
+├── Contemplative-Mechanism.md
+├── Contiguity-Principle.md
+├── Continuous-Integration-Continuous-Deployment.md
+├── Control as Diagnostic Response, Not Habitual Response.md
+├── Control Move Selection.md
+├── Control Moves Have Costs and Failure Modes.md
+├── Control Phase (Pintrich).md
+├── Control Repertoire in Action.md
+├── Control-Value-Theory.md
+├── Controllability and the Politics of Compassion.md
+├── Controllability Dimension (Weiner, 1979, 1985).md
+├── controllability-moral-inference-bridge.md
+├── Controlled Motivation.md
+├── Controlling-Teaching-Styles.md
+├── COPES-model.md
+├── Copilot as Metacognitive Scaffold The AI-Augmented Learning Loop.md
+├── Core Architecture The Nelson-Narens Two-Level Model.md
+├── Core Argument Structure of Self-Directed Learning.md
+├── Core Argument Structure.md
+├── Core CLT Argument Structure.md
+├── correspondent-inference-theory.md
+├── covariation-principle.md
+├── Creative Writing and Artistic Practice.md
+├── critical-thinking-skills-and-metacognitive-self-regulation.md
+├── critical-thinking.md
+├── Cross-Cultural Thought Experiment.md
+├── Cross-Cultural Universality of Source Weighting.md
+├── Cross-Cultural-Motivation-Science.md
+├── Cross-Cultural-Operation-of-the-Four-Sources.md
+├── cross-cultural-psychology.md
+├── Cross-Domain Application Engineering Discipline.md
+├── Cross-PKB Connection Map.md
+├── Cue Quality Assessment Checklist.md
+├── Cue-Encoding Bottleneck (this report).md
+├── Cue-Utilization Framework (Koriat, 1997).md
+├── cue-utilization-framework.md
+├── Cultural Boundedness of Self-Direction.md
+├── Cultural Transmission as Inter-Generational Chunking.md
+├── Cultural-Transmission.md
+├── Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination.md
+├── Curated Sources.md
+├── Curriculum Audit for Self-Direction Development.md
+├── Curriculum Design (as distinguished from Curriculum).md
+├── Custom-MCP-Server-Development.md
+├── cyclical-model-of-self-regulated-learning — Zimmerman's Framework in Detail.md
+├── cyclical-model-of-self-regulated-learning.md
+├── cyclical-srl-model.md
+├── d.-randy-garrison.md
+├── daniel-kahneman.md
+├── Data-Driven Decision Making.md
+├── Data-Literacy.md
+├── Data-Visualization.md
+├── Dataview.md
+├── david-ausubel.md
+├── David-Perkins.md
+├── Debiasing Self-Audit (for High-Stakes Personal Decisions).md
+├── Debiasing-Interventions.md
+├── Debug a Real Script.md
+├── Debugging Hierarchy Decision Tree.md
+├── debugging-as-metacognition.md
+├── debugging.md
+├── deci-and-ryan.md
+├── Decision Fork Flat Structure vs. Package Structure.md
+├── Decision-Architecture.md
+├── declarative-knowledge.md
+├── declarative-memory.md
+├── declarative-metacognitive-knowledge.md
+├── declarative-procedural-and-conditional-metacognitive-knowledge.md
+├── Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge.md
+├── deep-processing-elaborative-encoding.md
+├── deep-processing.md
+├── Default-Interventionist Architecture (Evans & Stanovich).md
+├── Default-Interventionist vs. Parallel-Competitive Architectures.md
+├── Default-Mode-Network.md
+├── Defensive-Pessimism.md
+├── Definition Causal Attribution.md
+├── Definition Chunk.md
+├── Definition Comprehension Monitoring.md
+├── Definition Cue-Utilization Framework.md
+├── Definition Dominance Asymmetry.md
+├── Definition Fundamental Attribution Error.md
+├── Definition Grow's SSDL Model.md
+├── Definition Heutagogy.md
+├── Definition Illusion of Explanatory Depth.md
+├── Definition Implementation Intention.md
+├── Definition Long-Term Working Memory.md
+├── Definition Meta-Level.md
+├── Definition Monitoring vs. Control.md
+├── Definition Self-Directed Learning.md
+├── Definition Standard of Coherence.md
+├── Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993).md
+├── Deliberate Practice Ericsson's Framework and Its Cognitive Architecture.md
+├── Deliberate-Practice-—-Ericsson.md
+├── deliberate-practice.md
+├── Dependency-Management.md
+├── Design Application Exercise.md
+├── Designing Efficacy-Building Learning Sequences.md
+├── Designing PKB Notes as External Chunks.md
+├── Designing-AI-Tutors-for-Calibrated-Efficacy-Cultivation.md
+├── Desirable Difficulties (Bjork & Bjork, 1992; 2011).md
+├── Desirable Difficulties (Robert Bjork, 1994).md
+├── Desirable Difficulties vs. Cognitive Load Reduction.md
+├── Desirable-Difficulties-—-Bjork.md
+├── Desirable-Difficulty.md
+├── Development Environment Architecture.md
+├── Developmental Arc Model (Original to This Report).md
+├── Diagnosing Whether an Activity Qualifies as Deliberate Practice.md
+├── Diagnostic Pause.md
+├── Diagnostic Questions for Efficacy Intervention Design.md
+├── diagnostic-error-cognitive-causes.md
+├── diagnostic-reasoning.md
+├── diagram.md
+├── differential-diagnosis-as-coherence-standard.md
+├── Differential-Diagnosis.md
+├── Digital-Literacy.md
+├── Dimensional Self-Scoring.md
+├── Directions for Further Investigation.md
+├── Directions for Future Investigation.md
+├── Directive Function.md
+├── Disciplinary-Reading-Architectures-Across-Five-Domains.md
+├── Discriminative-Contrast.md
+├── Distinction Declarative, Procedural, Conditional Knowledge.md
+├── Distinction Fluency Illusion vs. Illusion of Knowing.md
+├── Distinction Goal Intention vs. Implementation Intention.md
+├── Distinction Immediate vs. Delayed JOLs.md
+├── Distinction Locus of Causality vs. Locus of Control.md
+├── Distinction Outcome-Dependent vs. Attribution-Dependent Emotions.md
+├── Distinction SDL vs. SRL.md
+├── Distinction Sensitivity vs. Calibration.md
+├── Distinction Shame vs. Guilt in Attribution Theory.md
+├── Distinction Strategic vs. Habitual Automaticity.md
+├── Distinction Technical vs. Critical Self-Direction.md
+├── Distinction Template vs. Chunk.md
+├── distributed-cognition.md
+├── Distribution-Shift.md
+├── docker-fundamentals.md
+├── Domain 1 Clinical Reasoning and Medical Decision-Making.md
+├── Domain 2 User Interface and Human-Computer Interaction Design.md
+├── Domain 3 Athletic Coaching and Motor Skill Acquisition.md
+├── Domain 4 Personal Knowledge Management and PKB Architecture.md
+├── Domain of Validity of the Standard Account.md
+├── domain-expertise-and-reading-speed-a-transfer-investigation.md
+├── double-loop-learning.md
+├── dual-coding-theory.md
+├── Dual-Process Theory (Kahneman, Stanovich, Evans).md
+├── Dual-Process Theory and its Implications for Knowledge Management Decision-Making.md
+├── Dual-Process-Theory-and-Knowledge-Management.md
+├── dual-process-theory.md
+├── dual-processing-model-of-self-regulation.md
+├── Dual-Task-Paradigm.md
+├── Ease-of-Learning-—-EOL.md
+├── Ebbinghaus-Forgetting-Curve.md
+├── Ecological-Rationality.md
+├── Edge Case 1 Biologically Primary Knowledge.md
+├── Edge Case 2 The Expertise Reversal Effect.md
+├── Edge Case 3 The Germane Cognitive Load Reformulation.md
+├── Edge Case 4 The Isolated Elements Effect.md
+├── Edge Case 5 Productive Failure.md
+├── Edge Case 6 The Multimedia Exceptions.md
+├── Edge Case Autonomous Regulation of Harmful Goals.md
+├── Edge Case Controlled Internalization (Identification That Looks Real But Isn't).md
+├── Edge Case Identification Without Integration.md
+├── Edge Case Internalization Before Reflective Capacity.md
+├── Edge Case Need Satisfaction Through Controlling Substrates.md
+├── Edge Case The Cross-Cultural Autonomy Challenge.md
+├── Education and Pedagogy.md
+├── Educational Goal Setting.md
+├── educational-psychology.md
+├── educational-technology.md
+├── edward-deci.md
+├── Edward-Thorndike.md
+├── effectance-motivation.md
+├── Efficacy Calibration.md
+├── Efficacy Hierarchy.md
+├── Efficacy-Driven Path Dependence in Mathematical Learning.md
+├── efficacy-management.md
+├── ego-involvement.md
+├── elaboration-strategies.md
+├── elaboration.md
+├── Elaborative Encoding (Craik & Tulving, 1975; Pressley et al., 1987).md
+├── Elaborative Interrogation.md
+├── elaborative-encoding.md
+├── Elaborative-Processing.md
+├── Element Interactivity in Practice Two Learning Tasks.md
+├── Element-Interactivity at Multiple Grain Sizes.md
+├── Embedding Evidence-Based Strategies in a Self-Directed Learning Curriculum.md
+├── Embodied-Cognition-and-Digital-Knowledge-Tools.md
+├── embodied-cognition.md
+├── Emergent Organization vs. Imposed Organization.md
+├── emotion-mediation-in-attribution.md
+├── emotion-theory.md
+├── Empirical Meta-Analytic Effect Size.md
+├── Empirical Validation of PKB-Specific Cognitive Claims.md
+├── Empirical-Research-Methods.md
+├── Enactive Mastery Experience.md
+├── Encoding Depth (Craik & Lockhart, 1972).md
+├── Encoding Depth in Practice Two Notes on Schema Theory.md
+├── encoding-specificity-principle.md
+├── encoding.md
+├── endel-tulving.md
+├── Engineering-Metrics-and-the-Dark-Side-of-Optimization.md
+├── entity-theory-of-intelligence.md
+├── Entrepreneurship Venture Building as Self-Directed Learning.md
+├── environment-design-for-learning.md
+├── environmental-structuring.md
+├── episodic-buffer.md
+├── episodic-memory.md
+├── Epistemic Risk 1 Cargo-Cult Coding.md
+├── Epistemic Risk 2 Subtle Bugs and False Confidence.md
+├── Epistemic Transparency Statement.md
+├── Epistemic Transparency.md
+├── epistemic-calibration.md
+├── epistemic-curiosity.md
+├── epistemic-feelings.md
+├── epistemic-humility.md
+├── Epistemic-Virtue.md
+├── ericsson.md
+├── Error Types as Diagnostic Categories.md
+├── Error-Handling-as-Cognitive-Engineering.md
+├── error-handling.md
+├── Ethical-Reasoning.md
+├── eudaimonia.md
+├── Eudaimonic-Well-Being.md
+├── Evergreen-Notes.md
+├── evidence-based-learning-strategies.md
+├── Evidence-Based-Medicine.md
+├── evidence-based-practice.md
+├── Example A Single Encounter Across Three Timescales.md
+├── Example The Three Needs in a Clinical Internalization Context.md
+├── Exception.md
+├── executive-function.md
+├── Expansion Topics for PKB Development.md
+├── expectancy-value-theory.md
+├── Expert Blind Spot.md
+├── Expert Debate 1 Direct instruction vs. minimally-guided instruction.md
+├── Expert Debate 4 The role of motivation in cognitive load.md
+├── Expert Debate Universality of Basic Needs.md
+├── expert-blindness.md
+├── Expert-Intuition.md
+├── expert-novice-research.md
+├── Expert-vs.-Novice-Differences.md
+├── Expertise Reversal Effect (Kalyuga et al.).md
+├── Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003).md
+├── Expertise Reversal in Programming Instruction.md
+├── expertise-development.md
+├── expertise.md
+├── Explanatory Style Attributional Style (Abramson, Seligman, & Teasdale, 1978).md
+├── Explanatory-Style.md
+├── Extended Listening as Metacognitive Reading.md
+├── Extended Mind Thesis (Clark & Chalmers, 1998).md
+├── extended-metacognition.md
+├── External Regulation.md
+├── Externalized Metacognition — Systems, Tools, and Cognitive Augmentation.md
+├── Externalized-Metacognition-and-Personal-Knowledge-Bases.md
+├── externalized-metacognition.md
+├── Extraneous Cognitive Load (Sweller, Chandler, 1991).md
+├── Extraneous Cognitive Load.md
+├── extrinsic-goal-content.md
+├── extrinsic-motivation.md
+├── faded-worked-example.md
+├── Fading Is Not Abandonment.md
+├── far-transfer.md
+├── Fast-and-Frugal-Heuristics.md
+├── fastmcp-development-guide.md
+├── FastMCP.md
+├── feedback-design-for-autonomy-and-mastery.md
+├── feedback-design.md
+├── feedback-effects-on-motivation-and-learning.md
+├── Feeling-of-Knowing-—-FOK.md
+├── Feeling-of-Knowing—FOK.md
+├── Fernand Gobet.md
+├── Figure 1 The Compounding Scaffolding Stack.md
+├── Figure 2 The Intent-Code-Understanding Cycle.md
+├── Figure 3 Confidence Distribution Across Claims.md
+├── File-Management-Workflow-Design.md
+├── Final Integration Before the Appendix.md
+├── Fix-Up Strategy (Strategic Reading Literature).md
+├── Fix-Up Strategy Selection Guide.md
+├── fix-up-strategy.md
+├── fixed-mindset.md
+├── Flashcard Seeds for AnkiSR Systems.md
+├── flavell-metacognition-framework.md
+├── Flavell's Metacognitive Taxonomy (Flavell, 1979).md
+├── Flavell's-Metacognitive-Framework.md
+├── Flourishing.md
+├── Flow-State.md
+├── flow-theory.md
+├── Fluency Illusion (Processing Fluency Literature).md
+├── For Further Thought.md
+├── Forethought as Regulatory Front-Loading.md
+├── Forethought Failure and Its Downstream Consequences.md
+├── Forethought Phase (Pintrich).md
+├── forethought-phase.md
+├── Forgetting-Curve.md
+├── Form vs Content.md
+├── formative-assessment.md
+├── Forming an Effective Implementation Intention — Five-Step Protocol.md
+├── Formulaic-Sequences.md
+├── Foundational Report Quality Evaluation.md
+├── Four-Component Instructional Design (4CID) (van Merriënboer, 1997).md
+├── four-component-instructional-design-4cid — Design Methodology for Complex Learning.md
+├── Frank-Martela.md
+├── Fred Paas.md
+├── fritz-heider.md
+├── Frontier Question 1 Neural Signatures of Autonomous vs Controlled Motivation.md
+├── Frontier Question 2 Cultural Variability in Need-Weighting and Need-Satisfying Contents.md
+├── Frontier Question 3 Internalization in Algorithmically Mediated Environments.md
+├── Frontier Question 4 The contested status of Long-Term Working Memory.md
+├── Functional Significance (CET).md
+├── Functional Significance.md
+├── Functional-Significance-—-Informational,-Controlling,-Amotivating.md
+├── functional-significance-informational-controlling-amotivating.md
+├── fundamental-attribution-error.md
+├── Future Directions for Investigation.md
+├── Future Investigation Directions Arising from This Report.md
+├── Future Investigation Directions.md
+├── Gabriel-Salomon.md
+├── Gabriele Oettingen (NYU University of Hamburg).md
+├── Garrison's Comprehensive Model of Self-Directed Learning (1997).md
+├── Gary Klein.md
+├── generation-effect.md
+├── generative-learning-strategy.md
+├── generative-learning-theory.md
+├── George-A.-Miller.md
+├── george-miller.md
+├── gerd-gigerenzer.md
+├── Germane-Load-as-a-Functional-Category,-Not-a-Source-Category.md
+├── germane-processing.md
+├── git-based-workflow.md
+├── Git.md
+├── GitHub Copilot.md
+├── Goal Commitment.md
+├── Goal Design Protocol — Pre-Setting Checklist.md
+├── Goal Difficulty.md
+├── Goal Intention (Heckhausen & Gollwitzer).md
+├── Goal Orientation Self-Audit for Self-Directed Learners.md
+├── Goal Setting Theory (Locke & Latham, formalized 1990).md
+├── Goal Setting Theory in the Knowledge Graph.md
+├── Goal Specificity.md
+├── goal-content-theory.md
+├── goal-contents-theory.md
+├── goal-intention.md
+├── goal-orientation-theory.md
+├── goal-orientation.md
+├── goal-reframing.md
+├── Goal-Setting-in-Personal-Knowledge-Management.md
+├── Goal-Setting-Theory-—-Locke-and-Latham.md
+├── goal-setting-theory.md
+├── Goal-Setting–SDT Reconciliation via the Quality of Commitment.md
+├── Goal-Setting.md
+├── grolnick-ryan-1989.md
+├── Grow's Stage Diagnostic Checklist.md
+├── Grow's Staged Self-Directed Learning Model (Grow, 1991).md
+├── growth-mindset-and-implicit-theories-of-intelligence.md
+├── growth-mindset.md
+├── Guidance vs. Discovery The Scaffold-Fading Dilemma.md
+├── guidance-fading-principle.md
+├── habit-formation vs. strategic-automaticity — A Comparative Analysis.md
+├── habit-formation.md
+├── habit-loop.md
+├── Halpern.md
+├── Handwriting-vs.-Typing.md
+├── harold-kelley.md
+├── Hatano-and-Inagaki.md
+├── Hattie-&-Timperley-Feedback-Model.md
+├── hattie-timperley-feedback-model.md
+├── Health-Behavior-Change.md
+├── Healthcare Education and Patient Self-Management.md
+├── helpless-response-pattern.md
+├── Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics.md
+├── heuristics-and-biases.md
+├── Heuristics-as-Bias vs. Heuristics-as-Adaptive-Tools (Kahneman vs. Gigerenzer).md
+├── Heutagogy (Hase & Kenyon).md
+├── heutagogy.md
+├── Hidi-Renninger-Four-Phase-Model-of-Interest-Development.md
+├── Hierarchical Chunk Structure.md
+├── High Performance Cycle.md
+├── High-Priority Expansion Topics.md
+├── High-Reliability-Organisations.md
+├── High-Reliability-Organizations.md
+├── High-Validity Environment (Kahneman & Klein).md
+├── History-of-Comprehension-Monitoring-Research-1970-Present.md
+├── Honest Dimensional Scoring.md
+├── Honest Dimensional Self-Scoring.md
+├── Honest Self-Evaluation.md
+├── Honest Self-Scoring Across Quality Dimensions.md
+├── Honest Self-Scoring of This Report.md
+├── Honest Self-Scoring.md
+├── How This Guide Was Constructed.md
+├── How This Report Integrates with the Broader Knowledge Graph.md
+├── How This Report Was Constructed.md
+├── How to Read This Report's Annotations.md
+├── How to Use This Field Guide.md
+├── human-reasoning.md
+├── humanistic-psychology.md
+├── Hypothesis-Testing.md
+├── icap-framework.md
+├── identification.md
+├── Identified Regulation.md
+├── identified.md
+├── Identify Your Transfer Domains.md
+├── Illusion of Explanatory Depth (Rozenblit & Keil, 2002).md
+├── illusion-of-explanatory-depth.md
+├── illusion-of-knowing.md
+├── Illusions-of-Competence.md
+├── Implementation Intention (Gollwitzer, 1993, 1999).md
+├── Implementation Intention (Gollwitzer, 1999).md
+├── Implementation Intentions (Gollwitzer, 1999).md
+├── Implementation Intentions as Cognitive Pre-Compilation.md
+├── Implementation-Intentions-and-Habit-Formation.md
+├── Implicit-Theories-of-Intelligence.md
+├── implicit-theory-of-intelligence.md
+├── Important Nuance Behavior Maintenance Is Not Internalization.md
+├── Important Nuance edge cases as theoretical pressure.md
+├── Important Nuance Form-Content Distinction.md
+├── Important Nuance Introjection Is Not Conscience.md
+├── Important Nuance Long-Term Working Memory complicates the picture.md
+├── Important Nuance Need Satisfaction vs Need Frustration.md
+├── Important Nuance Speculation as a Discipline.md
+├── Important Nuance speculation must remain disciplined.md
+├── Important Nuance The connection to relational complexity theory.md
+├── Important Nuance The Self-Stabilizing Continuum.md
+├── Important Nuance The taxonomy is descriptive, not mechanistic.md
+├── incremental-theory-of-intelligence.md
+├── individualism-collectivism-and-attribution.md
+├── inert-knowledge.md
+├── Information-Architecture.md
+├── information-processing-model-of-self-regulated-learning.md
+├── information-processing-theory.md
+├── Information-Retrieval.md
+├── inner-speech-vocabulary-as-self-generated-motivational-architecture.md
+├── inner-speech.md
+├── Input-Hypothesis.md
+├── inquiry-based-learning.md
+├── Insight Transfer 1 The learner-relativity principle in adjacent design problems.md
+├── Insight Transfer From the Internalization Continuum to Habit Formation.md
+├── Instructional-Design-Models-—-Overview.md
+├── instructional-design.md
+├── Integrated Development Environment (IDE) vs. Code Editor.md
+├── Integrated Regulation.md
+├── integrated-development-environment.md
+├── Integration Challenge.md
+├── Integration Points with the Knowledge Base.md
+├── Integration with the Knowledge Graph.md
+├── Integration with the Personal Knowledge Base.md
+├── Integrative Exercise.md
+├── Intelligent-Tutoring-Systems.md
+├── Intent-Code-Understanding Cycle.md
+├── intention-action-gap.md
+├── Intention-Behavior Gap.md
+├── Interdisciplinary-Research.md
+├── interest-development.md
+├── interest-enhancement.md
+├── Interest-Theory.md
+├── Interleaving-Practice.md
+├── interleaving.md
+├── Internalization (Deci & Ryan, 1985; Ryan, 1995).md
+├── Internalization Continuum.md
+├── internalization.md
+├── Intrinsic Cognitive Load.md
+├── Intrinsic Motivation (Deci, 1971; Deci & Ryan, 1985).md
+├── Intrinsic Motivation.md
+├── Intrinsic vs. Extrinsic Goal Contents (GCT).md
+├── intrinsic-motivation-and-extrinsic-motivation.md
+├── introduction-to-metacognition.md
+├── Introjected Regulation.md
+├── introjection.md
+├── Introspection.md
+├── Isolated Elements Effect.md
+├── isolated-elements.md
+├── Iyengar.md
+├── Jakob-Nielsen.md
+├── jean-piaget.md
+├── Jeroen J.G. van Merriënboer (b. 1959).md
+├── Jeroen van Merriënboer.md
+├── jerome-bruner.md
+├── Joan-L.-Duda.md
+├── John H. Flavell (b. 1928).md
+├── John R. Anderson.md
+├── john-dewey.md
+├── john-flavell.md
+├── john-g.-nicholls.md
+├── john-h.-flavell.md
+├── john-sweller.md
+├── Johnmarshall Reeve (dates not verified).md
+├── Johnmarshall Reeve.md
+├── jonathan-evans.md
+├── JSON-RPC.md
+├── Judgment-of-Learning-—-JOL.md
+├── judgment-of-learning.md
+├── Kahneman's Heuristics-as-Bias vs. Gigerenzer's Heuristics-as-Adaptive-Tools.md
+├── keith-stanovich.md
+├── Kenji Murayama.md
+├── Key Terms and Their Practical Significance.md
+├── Kirschner,-Sweller-&-Clark.md
+├── Knowledge Graph Integration Map.md
+├── Knowledge Graph Integration.md
+├── Knowledge of Cognition (Flavell, 1979).md
+├── Knowledge-Graph.md
+├── knowledge-management.md
+├── knowledge-of-cognition.md
+├── knowledge-representation.md
+├── knowledge-telling-vs.-knowledge-transforming.md
+├── Koriat's Cue-Utilization Framework A Comprehensive Treatment.md
+├── Language Server Protocol (LSP).md
+├── Large-Language-Model.md
+├── Leadership Development and the Cultivation of Collective Efficacy.md
+├── Learned-Helplessness-and-Explanatory-Style.md
+├── learned-helplessness.md
+├── Learning Contract (Knowles).md
+├── Learning Contract Design Template.md
+├── Learning Task (van Merriënboer & Kirschner, 2018).md
+├── learning-contracts.md
+├── learning-environment.md
+├── learning-projects.md
+├── learning-strategies.md
+├── learning-strategy-selection.md
+├── lecture-comprehension-research.md
+├── Legal Interpretation as Metacognitive Reading.md
+├── legal-interpretation-cognitive-models.md
+├── Legitimate-Peripheral-Participation.md
+├── lev-vygotsky.md
+├── Level 1 Summary.md
+├── Level 1 Surface — The Observable Phenomenon.md
+├── Level 2 Mechanism — How Internalization Actually Works.md
+├── Level 2 Mechanism — How Intrinsic Load Is Actually Generated.md
+├── Level 2 Summary.md
+├── Level 3 Substructure — The Components Beneath the Mechanism.md
+├── Level 3 Substructure — What Lies Beneath the Mechanism.md
+├── Level 3 Summary.md
+├── Level 4 Dynamics — The Substrate in Motion.md
+├── Level 4 Summary.md
+├── Level 5 Summary.md
+├── Level 6 Frontier — Where the Field Is Currently Active.md
+├── Level 6 Frontier — Where the Field Is Currently Working.md
+├── Level 6 Summary.md
+├── Level 7 Speculation — Informed Extrapolation Beyond Current Evidence.md
+├── Level 7 Speculation — What Internalization May Become.md
+├── Level 7 Summary.md
+├── levels-of-processing-theory.md
+├── Lifelong Learning.md
+├── lifelong-learning-system-design.md
+├── linda-baker.md
+├── linting.md
+├── Locus of Causality (Heider, 1958; Weiner, 1972).md
+├── locus-of-causality.md
+├── locus-of-control.md
+├── Long-Term Working Memory (Ericsson & Kintsch, 1995).md
+├── Long-Term Working Memory (LTWM).md
+├── long-term-memory.md
+├── long-term-working-memory.md
+├── Loss-aversion.md
+├── louis-narens.md
+├── lucy-guglielmino.md
+├── Maarten Vansteenkiste (1976–).md
+├── Maarten Vansteenkiste.md
+├── Magnification Arc Summary.md
+├── malcolm-knowles.md
+├── Map-of-Content.md
+├── Markdown-Fundamentals.md
+├── Martin-Seligman.md
+├── Maslow's-Hierarchy-of-Needs.md
+├── Master Diagnostic Flow Something Isn't Working.md
+├── Mastery Climate vs. Performance Climate.md
+├── Mastery Climate.md
+├── Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich).md
+├── Mastery-Approach Goal (Elliot 2×2 framework).md
+├── mastery-approach-goal.md
+├── mastery-avoidance-goal.md
+├── Mastery-Climate Configuration Checklist (TARGET-Based).md
+├── mastery-experience-vocabulary.md
+├── mastery-goal-orientation.md
+├── mastery-goal.md
+├── mastery-mode.md
+├── mastery-oriented-response-pattern.md
+├── mastery-pathway.md
+├── mastery-self-talk.md
+├── MCII (Mental Contrasting with Implementation Intentions).md
+├── mcii.md
+├── MCP-Server-Development-with-Python.md
+├── mcp-servers.md
+├── MCP-Tools.md
+├── meaningful-learning.md
+├── Mechanism Three Operational Signatures.md
+├── Medical Decision-Making and Diagnostic Attribution.md
+├── Medical Education Diagnostic Reasoning as Schema Construction.md
+├── medical-education.md
+├── memory-consolidation.md
+├── memory-monitoring.md
+├── Mental Contrasting (Oettingen).md
+├── mental-contrasting — Oettingen's Independent Contribution.md
+├── mental-contrasting.md
+├── mental-effort.md
+├── mental-model.md
+├── Meta-Level (Nelson & Narens, 1990).md
+├── Meta-Level-Object-Level-Model.md
+├── meta-level-object-level.md
+├── meta-level.md
+├── meta-levelobject-level-architecture.md
+├── metacognition — The Cognitive Science of Thinking About Thinking.md
+├── Metacognition (Flavell, 1976, 1979).md
+├── Metacognition (Flavell, 1976).md
+├── Metacognition (Flavell, 1979).md
+├── Metacognition (John Flavell, 1976).md
+├── Metacognition (Nelson & Narens' Operational Framing).md
+├── Metacognition as the Governor of Strategy Deployment.md
+├── Metacognition-—-Foundational-Concepts.md
+├── Metacognition-&-Motivation.md
+├── Metacognition-and-Memory-Monitoring.md
+├── metacognition-and-self-regulated-learning.md
+├── Metacognition-and-the-Limits-of-Self-Knowledge.md
+├── metacognition-foundational-concepts.md
+├── Metacognition.md
+├── Metacognitive Calibration Self-Assessment.md
+├── Metacognitive Calibration Training Methods, Evidence, and Mechanisms.md
+├── Metacognitive Calibration Training Protocols.md
+├── Metacognitive Closing Prompt.md
+├── Metacognitive Control (Nelson & Narens, 1990).md
+├── Metacognitive Development Across Expertise Levels From Novice to Expert Self-Regulation.md
+├── Metacognitive Knowledge (Flavell).md
+├── Metacognitive Monitoring (Nelson & Narens, 1990).md
+├── Metacognitive Monitoring in Self-Directed Learning.md
+├── Metacognitive Prompts in PKB Templates.md
+├── Metacognitive Scaffolding.md
+├── Metacognitive Sovereignty (Original to This Report).md
+├── Metacognitive Sovereignty as the Cognitive Core of SDL.md
+├── metacognitive-and-affective-model-of-self-regulated-learning.md
+├── metacognitive-awareness.md
+├── metacognitive-calibration-model.md
+├── metacognitive-calibration-training.md
+├── metacognitive-calibration.md
+├── metacognitive-control.md
+├── Metacognitive-Development-Across-Expertise-Levels.md
+├── metacognitive-experience.md
+├── metacognitive-experiences.md
+├── metacognitive-externalization.md
+├── metacognitive-feelings.md
+├── metacognitive-judgments.md
+├── Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy.md
+├── metacognitive-knowledge.md
+├── Metacognitive-Monitoring-Accuracy-and-Calibration.md
+├── metacognitive-monitoring-accuracy-calibration.md
+├── metacognitive-monitoring-accuracy.md
+├── metacognitive-monitoring-and-control.md
+├── metacognitive-monitoring.md
+├── metacognitive-regulation.md
+├── metacognitive-scaffolding-design-patterns.md
+├── metacognitive-scaffolding-design-triangle.md
+├── metacognitive-self-regulation.md
+├── metacognitive-sensitivity.md
+├── metacognitive-strategies.md
+├── Metatheory as Predictive Constraint.md
+├── Method Transfer Progressive Magnification as a Study Discipline.md
+├── Method Transfer Progressive Magnification as a Study Method.md
+├── Methodological Transparency.md
+├── Methodology & Epistemic Transparency.md
+├── Methodology and Epistemic Transparency.md
+├── Methodology and Sources.md
+├── Methodology as Theory-Enabler.md
+├── Methodology Note.md
+├── Methodology of This Report.md
+├── Methodology, Claim Taxonomy, and AI Generation Transparency.md
+├── Methodology, Claim Taxonomy, and Generation Transparency.md
+├── Methodology.md
+├── Michael Bratman (Stanford University).md
+├── michael-pressley.md
+├── Miller's-Magical-Number-Seven.md
+├── Mindset-Theory.md
+├── mindset.md
+├── Mindware (Stanovich).md
+├── mindware.md
+├── Modality Effect.md
+├── modeling.md
+├── Monique-Boekaerts.md
+├── Monitoring Accuracy Improvement Protocol.md
+├── Monitoring as Vocabulary-Dependent Signal Generation.md
+├── Monitoring Phase (Pintrich).md
+├── Monitoring Vocabulary Audit.md
+├── Monitoring-Control Coupling.md
+├── Monitoring-Control Loop (Nelson & Narens, 1990; Flavell, 1979).md
+├── monitoring-control-architecture.md
+├── monitoring-control-loop.md
+├── monitoring-regulation-coupling.md
+├── Monitoring–Control-Coupling.md
+├── monitoring.md
+├── motivated-reasoning.md
+├── motivated-strategies-for-learning-questionnaire.md
+├── Motivation Regulation as a Cognitive Skill.md
+├── motivation-continuum.md
+├── motivation-theory-foundational-report.md
+├── motivation-theory.md
+├── motivation.md
+├── Motivational Ecology (Original to This Report).md
+├── Motivational Regulation (Pintrich).md
+├── motivational-climate.md
+├── motivational-interviewing.md
+├── motivational-psychology.md
+├── motivational-regulation-strategies.md
+├── motivational-regulation.md
+├── motor-learning.md
+├── multimedia-learning-theory.md
+├── Multiple-Goal Pursuit.md
+├── myside-bias.md
+├── natural-language-processing.md
+├── naturalistic-decision-making.md
+├── Navigation Guide.md
+├── Near-Transfer.md
+├── near-vs.-far-transfer.md
+├── Need Frustration (Vansteenkiste & Ryan, 2013).md
+├── Need Frustration as an Active Pathogenic Process.md
+├── Need Frustration.md
+├── Need Satisfaction as Dynamic Equilibrium — Toward an Ecological SDT.md
+├── Need-Frustration-and-Psychopathology.md
+├── Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis.md
+├── need-satisfaction-as-dynamic-equilibrium-not-cumulative-score.md
+├── need-satisfaction-vs.-need-frustration.md
+├── need-satisfaction.md
+├── Need-Supportive Environment Assessment.md
+├── Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis.md
+├── need-thwarting.md
+├── Nelson-and-Narens.md
+├── nelson-narens-model.md
+├── Nelson.md
+├── Neural Mechanisms of Causal Attribution.md
+├── Non-Recurrent Constituent Skill (van Merriënboer, 1997).md
+├── note-making-vs.-note-taking.md
+├── note-taking-as-metacognitive-tool.md
+├── Nudge-Theory.md
+├── Numeracy.md
+├── Object-Level (Nelson & Narens, 1990).md
+├── Obsidian-Automation.md
+├── obsidian-pkb-architecture.md
+├── obsidian-zettelkasten.md
+├── obsidian.md
+├── online-learning-design.md
+├── Open Question Domain Specificity vs. Generality of Regulatory Skill.md
+├── Organisational Decision-Making and Institutional Design.md
+├── Organisational Leadership and Performance Evaluation.md
+├── Organisational Learning and Professional Development.md
+├── Organisational-Routines.md
+├── Organismic Integration Tendency (Ryan, 1995; Deci & Ryan, 2000).md
+├── Organismic Integration Theory (OIT).md
+├── Organismic Metatheory.md
+├── organismic-integration-tendency.md
+├── organismic-integration-theory.md
+├── organization-strategies.md
+├── Organizational Architecture in Practice.md
+├── Organizational Capability as Collective Chunking.md
+├── Organizational Knowledge Management.md
+├── Organizational Leadership — The Autonomy-Supportive Leader as Need Architect.md
+├── Organizational Learning and Knowledge Management Systems.md
+├── Organizational Learning Strategic Self-Assessment.md
+├── Organizational Learning Teams as Self-Directed Learning Systems.md
+├── Organizational Learning Training Program Architecture.md
+├── organizational-culture.md
+├── Organizational-Learning.md
+├── Original Synthesis Git as Cognitive Safety Net for Experimental Learning.md
+├── Original Synthesis The Intent-Code-Understanding Cycle.md
+├── Original Synthesis What Only Depth Reveals.md
+├── Original-Synthesis-Element-Interactivity-as-Relational-Complexity-Under-Constrai.md
+├── original-synthesis-the-element-interactivity-paradox.md
+├── original-synthesis-the-metacognitive-monitoring-paradox.md
+├── original-synthesis-the-pkm-expertise-design-alignment-model.md
+├── Outcome Expectation.md
+├── Overconfidence-Bias.md
+├── overjustification-effect.md
+├── Package-Management.md
+├── PALS-—-Patterns-of-Adaptive-Learning-Survey.md
+├── Pandas.md
+├── Paradigm-Theory.md
+├── Parenting and Value Transmission — Internalization as Developmental Engineering.md
+├── Part-Task Practice (van Merriënboer & Kirschner, 2018).md
+├── Part-Task Practice Is Not Part-Task Instruction.md
+├── Paschal Sheeran (University of North Carolina at Chapel Hill).md
+├── Passive Storage vs. Active Cognitive Engagement in PKB Design.md
+├── PATH (Environment Variable).md
+├── PATH Environment Variable.md
+├── Pattern-Recognition.md
+├── paul-pintrich.md
+├── paul-r-pintrich.md
+├── Pause and Apply.md
+├── Pause and Configure.md
+├── Pause and Connect.md
+├── Pause and Consider.md
+├── Pause and Construct.md
+├── Pause and Integrate.md
+├── Pause and Reflect.md
+├── pedagogy.md
+├── Perceived Locus of Causality (deCharms, 1968; Deci & Ryan, 1985).md
+├── Perceived Self-Efficacy (Bandura, 1977, 1986, 1997).md
+├── perceived-competence.md
+├── perceived-locus-of-causality.md
+├── Performance Gains vs. Performance Pathologies.md
+├── Performance Goal vs. Learning Goal Decision Tree.md
+├── Performance Goal vs. Learning Goal.md
+├── Performance Monitoring Through Structured Annotation.md
+├── performance-approach-goal.md
+├── Performance-Avoidance Goal (Elliot 2×2 framework).md
+├── performance-avoidance-goal.md
+├── Performance-Climate.md
+├── performance-goal-orientation.md
+├── performance-goal.md
+├── Performance-Goals-vs-Mastery-Goals-Reconciling-the-Frameworks.md
+├── performance-phase.md
+├── Perkins-and-Salomon.md
+├── Perkins-Salomon.md
+├── Personal Knowledge Management (PKM).md
+├── Personal Knowledge Management and Learning Self-Assessment.md
+├── Personal Knowledge Management and Reflective Practice.md
+├── Personal Knowledge Management PKM as Self-Directed 4CID.md
+├── Personal Knowledge Management System Design.md
+├── Personal Knowledge Management Systems.md
+├── personal-causation.md
+├── personal-knowledge-base.md
+├── personal-knowledge-management — Systems and Practices for Lifelong Knowledge Construction.md
+├── Personal-Knowledge-Management-—-PKM.md
+├── personal-knowledge-management-pkm.md
+├── personal-knowledge-management-systems-and-spaced-repetition.md
+├── personal-knowledge-management.md
+├── personal-learning-environments.md
+├── personal-responsibility-orientation.md
+├── personal-workflow-architecture.md
+├── Perspective-Taking.md
+├── peter-wason.md
+├── phenomenological-substitution.md
+├── philip-candy.md
+├── Philip-H-Winne.md
+├── philip-johnson-laird.md
+├── Philip-Winne.md
+├── phonological-loop.md
+├── Physiological and Affective States (Somatic Source).md
+├── Pintrich-vs-Zimmerman-A-Comparative-Analysis-of-Cyclical-SRL-Models.md
+├── Pintrich.md
+├── Pintrich's Framework of Self-Regulated Learning.md
+├── Pintrich's-4×4-Matrix.md
+├── Pintrich's-Integrative-SRL-Framework.md
+├── pip.md
+├── PKB Architecture Cognitive Load Audit.md
+├── PKB as Externalized Coherence Standard.md
+├── PKB Integration Four-Category Connection Map.md
+├── PKB Integration Map.md
+├── PKB Scripting and Knowledge Infrastructure.md
+├── PKB Template Architecture for Self-Regulated Learning A Design Pattern Library.md
+├── PKB-Automation.md
+├── pkb-fluency-trap.md
+├── pkb-goal-scaffolding-architecture.md
+├── PKB-Template-Architecture-for-Self-Regulated-Learning.md
+├── PKM and AI-Augmented Learning The Emerging Frontier.md
+├── PKM and Lifelong Self-Directed Learning.md
+├── planning.md
+├── podcast-listening-deep-engagement.md
+├── Political Reasoning and Voter Attribution.md
+├── positive-psychology.md
+├── Power Law of Practice.md
+├── Practical Takeaways — Section 1.md
+├── Practical Takeaways — Section 2.md
+├── Practical Takeaways — Section 3.md
+├── Practical Takeaways — Section 4.md
+├── Practical Takeaways — Section 5.md
+├── Practical Takeaways — Section 6.md
+├── Practical Takeaways — Section 7.md
+├── Practice-Oriented Reflection.md
+├── Practitioner's Note.md
+├── Pre-Commit Quality Checklist.md
+├── Precision Note on Autonomy.md
+├── Precision Note on Reversibility.md
+├── Precision Note.md
+├── predictive-processing.md
+├── prefrontal-cortex.md
+├── Prejudice-and-Stereotyping.md
+├── premature-closure.md
+├── Prior Knowledge Bridge — Connecting Attribution to Your Existing Understanding.md
+├── Prior Knowledge Bridge — Connecting to What You Already Know.md
+├── Prior Knowledge Bridge — Connecting to Your Existing Understanding.md
+├── Prior Knowledge Bridge — Situating This Framework.md
+├── Prior Knowledge Bridge — What You Already Know.md
+├── prior-knowledge.md
+├── problem-solving.md
+├── Procedural Information (van Merriënboer & Kirschner, 2018).md
+├── procedural-knowledge.md
+├── procedural-memory.md
+├── Process Actor-Observer Asymmetry Mechanism.md
+├── Process Deliberate Practice Conditions.md
+├── Process Five-Step Formation Protocol.md
+├── Process How Monitoring Drives Control.md
+├── Process Monitoring-Control Loop.md
+├── Process Power Law of Practice.md
+├── Process The Monitoring–Control Loop.md
+├── Process The Stability-Expectancy Mechanism.md
+├── processing-fluency.md
+├── Productive Failure and Desirable Difficulties When Struggle Enhances Learning.md
+├── Productive Failure When Struggle Enhances Learning.md
+├── Productive Failure.md
+├── Productive-Failure-and-Desirable-Difficulties.md
+├── professional-learning.md
+├── Programming-Concepts.md
+├── programming-expertise-metacognitive-component.md
+├── progressive-disclosure.md
+├── progressive-education.md
+├── Project Management and Strategic Planning.md
+├── Prompt Engineering for Code The Quality-In-Quality-Out Principle.md
+├── Prospect-Theory.md
+├── Prospective-Memory and the Cognitive Substrate of Plan-Following.md
+├── Prospective-Memory.md
+├── Protocol 1 Building a Forethought Template.md
+├── Protocol 1 Python Environment Setup in VS Code (Complete Sequence).md
+├── Protocol 2 Debugging Workflow for Learning.md
+├── Protocol 2 Implementing the Calibration-Adaptation Engine.md
+├── Protocol 3 Copilot-Assisted Development (Intent-Code-Understanding).md
+├── Protocol Complete Python + VS Code Setup from Scratch.md
+├── Protocol Conducting a RecurrentNon-Recurrent Skill Analysis.md
+├── Protocol Creating and Managing Virtual Environments in VS Code.md
+├── Protocol Designing a Task Class Sequence.md
+├── Protocol Designing Autonomy-Supportive Interventions.md
+├── Protocol Diagnosing Module Not Found Errors.md
+├── Protocol Diagnosing Regulatory Style in Clinical or Educational Practice.md
+├── Protocol Making a Python Project Shareable.md
+├── Protocol Setting Up a New Python Project from Scratch.md
+├── Protocol Standard Python Project Structure.md
+├── Protocol Systematic Traceback Reading.md
+├── Protocol The Copilot Collaboration Workflow.md
+├── Protocol The Encoding Depth Checklist.md
+├── Protocol The Weekly PKB Health Check.md
+├── Protocol VS Code Debugger Setup and Basic Usage.md
+├── Pseudoexpertise-in-the-Age-of-LLMs-Annotated-Analysis.md
+├── Pseudoexpertise.md
+├── Psychological-Controlling-Parenting.md
+├── psychological-well-being.md
+├── Python as Universal Glue The Integration Principle.md
+├── Python Package.md
+├── Python-Data-Analysis-Pipeline-Design.md
+├── python-development-in-vscode-practitioners-field-guide-2026-04-19.md
+├── python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19.md
+├── python-fundamentals.md
+├── python-interpreter.md
+├── Python-Standard-Library.md
+├── Python-Testing-Strategies-and-TDD.md
+├── Python-Type-System-and-Static-Analysis.md
+├── Python.md
+├── Quality Self-Assessment.md
+├── Quality-Assurance.md
+├── Questions for Active Engagement.md
+├── Questions for Reflection.md
+├── Questions to Carry Forward.md
+├── Rabbit Hole Predictive processing as a foundation for educational theory.md
+├── Rabbit Hole The 4CID model and complex learning.md
+├── Rabbit Hole The Conditional Regard Literature.md
+├── Rabbit Hole The Form-Content Architecture and Goal Contents Theory.md
+├── Rabbit Hole The Need-Frustration Dark Side Literature.md
+├── Rabbit Hole The Paas mental-effort scale and its discontents.md
+├── ralph-hiemstra.md
+├── Reaction and Reflection as Cyclic Coupling.md
+├── Reaction and Reflection Phase (Pintrich).md
+├── reading-comprehension-strategies.md
+├── reading-comprehension.md
+├── reading-fluency.md
+├── reading-strategies.md
+├── Reasoning Trace Why Debug Working Code Is a Learning Strategy.md
+├── Reasoning Trace Why the Compounding Scaffolding Thesis Holds Across Sections.md
+├── Reasoning-in-LLMs.md
+├── Reciprocal Teaching (Palincsar & Brown, 1984).md
+├── reciprocal-teaching.md
+├── recognition-primed-decision-making.md
+├── Recognition-Primed-Decision.md
+├── Recommendations for the Continuing Investigator.md
+├── Recommended Future Investigations.md
+├── Recommended Topics for Future Investigation.md
+├── recovery-models.md
+├── Recurrent Constituent Skill (van Merriënboer, 1997).md
+├── Recurrent vs. Non-Recurrent Constituent Skills.md
+├── redundancy-effect.md
+├── Reeve.md
+├── References.md
+├── Reflection as the Phase Most Vulnerable to Skipping.md
+├── Reflection vs. Rumination.md
+├── reflection-practice.md
+├── Reflective Disposition (Stanovich, Reflective Mind).md
+├── Reflective Questions — Section 1.md
+├── Reflective Questions — Section 2.md
+├── Reflective Questions — Section 3.md
+├── Reflective Questions — Section 4.md
+├── Reflective Questions — Section 5.md
+├── Reflective Questions — Section 6.md
+├── Reflective Questions — Section 7.md
+├── Reflective Questions.md
+├── reflective-disposition.md
+├── reflective-practice.md
+├── reflective-thinking.md
+├── Regular-Expressions.md
+├── regulating.md
+├── regulation-of-cognition.md
+├── Rehabilitation-Psychology.md
+├── rehearsal-strategies.md
+├── Related Reports in the PKB.md
+├── Relatedness (in the SDT technical sense).md
+├── Relatedness (SDT) (Baumeister & Leary, 1995; Deci & Ryan, 2000).md
+├── relatedness-need.md
+├── relatedness.md
+├── Relational Complexity.md
+├── relationship-motivation-theory.md
+├── REPL (Read-Eval-Print Loop).md
+├── repl.md
+├── replication-crisis-in-psychology.md
+├── Report Quality Evaluation.md
+├── Report Quality Self-Assessment.md
+├── representativeness-heuristic.md
+├── requirements.txt (Dependency Manifest).md
+├── Research Methodology and Epistemic Transparency.md
+├── Research Traditions and Epistemic Transparency.md
+├── Retraining as Dimensional Recalibration, Not Belief Replacement.md
+├── Retrieval as Construction A Reframing with Architectural Consequences.md
+├── Retrieval as the Missing Layer in Most PKM Systems.md
+├── Retrieval Practice (Roediger & Karpicke, 2006).md
+├── Retrieval Practice as the Most Potent Single Strategy.md
+├── Retrieval Structure (Ericsson & Kintsch, 1995).md
+├── Retrieval-Augmented-Generation-RAG.md
+├── Retrieval-Practice-and-the-Testing-Effect.md
+├── retrieval-practice.md
+├── retrieval.md
+├── Richard M. Ryan (1953–).md
+├── Richard M. Ryan.md
+├── richard-anderson.md
+├── Richard-Mayer.md
+├── richard-ryan.md
+├── Robert-Bjork.md
+├── Robert-White.md
+├── roediger.md
+├── roger-brockett.md
+├── Rosenshine-Meister.md
+├── Routine-Dynamics.md
+├── Routine-vs-Adaptive-Expertise-Distinction.md
+├── Rubicon (Heckhausen & Gollwitzer).md
+├── Rubicon-Model-of-Action-Phases.md
+├── rumelhart.md
+├── rumination.md
+├── ruth-garner.md
+├── Scaffold Fading Readiness Assessment.md
+├── Scaffold Fading Within a Task Class.md
+├── scaffold-dependence.md
+├── Scaffold-Fading Trajectory Within a Task Class.md
+├── Scaffolded Fading.md
+├── scaffolding — Graduated Transfer of Cognitive Responsibility.md
+├── Scaffolding Fading in Self-Directed Learning Mechanisms, Evidence, and Design.md
+├── Scaffolding vs. Struggle The Productive Failure Debate.md
+├── Scaffolding-Fading Progression.md
+├── Scaffolding-Fading-in-Self-Directed-Learning.md
+├── Scaffolding-in-Education.md
+├── Scaffolding-Sovereignty Progression (Original to This Report).md
+├── scaffolding.md
+├── Schema (Bartlett, 1932; Piaget; Anderson, 1977).md
+├── Schema (Bartlett, 1932; Rumelhart, 1980).md
+├── Schema Automation (Anderson, 1982; Sweller, 1994).md
+├── Schema Automation.md
+├── Schema Construction Through Progressive Linking.md
+├── Schema Construction.md
+├── Schema Theory and the Architecture of Conceptual Change.md
+├── schema-accommodation.md
+├── schema-externalization.md
+├── schema-formation.md
+├── schema-hierarchy.md
+├── schema-theory-and-knowledge-organization.md
+├── Schema-Theory-Bartlett,-Rumelhart.md
+├── Schema.md
+├── Schematic of the Default-Interventionist Architecture.md
+├── Scientific Theory Development as Domain-Specific Chunking.md
+├── Scientific-Specialization.md
+├── Scope Statement.md
+├── script-automation.md
+├── SDL as SRL Plus Curricular Self-Design.md
+├── SDL in Professional Practice The Self-Updating Professional.md
+├── SDL Self-Assessment Protocol.md
+├── sdl-as-educational-goal.md
+├── SDL-SRL Grain-Size Continuum (Original to This Report).md
+├── SDL-SRL Grain-Size Continuum.md
+├── SDT as a Unified Applied Science.md
+├── SDT-AGT-Integration.md
+├── SDT-and-Digital-Technology.md
+├── SDT-Clinical-Applications.md
+├── SDT-Internalization-Continuum.md
+├── SDT-Meets-Achievement-Goal-Theory-Convergences,-Divergences,-and-Integration-Pos.md
+├── SDT's Causal Architecture — Core Mediational Model.md
+├── Second-Brain.md
+├── Second-Language-Acquisition.md
+├── Section 1 Summary.md
+├── Section 2 Summary.md
+├── Section 3 Summary.md
+├── Section 4 Summary.md
+├── Section 5 Summary.md
+├── Section 6 Summary.md
+├── Section 7 Summary.md
+├── selective-attention.md
+├── Self-Assessment — Foundational Report on PKBPKM Planning and Cognitive Science.md
+├── Self-Assessment of Report Quality.md
+├── Self-Assessment.md
+├── self-consequating.md
+├── Self-Determination Theory (Deci & Ryan, 1985; 2000).md
+├── Self-Determination Theory in Education From Basic Needs to Curriculum Design.md
+├── Self-Determination-Theory-—-Foundational-Overview.md
+├── Self-Determination-Theory-and-Digital-Media.md
+├── Self-Determination-Theory-and-Motivation.md
+├── Self-Determination-Theory-in-Education.md
+├── Self-Determination-Theory-in-Educational-Contexts.md
+├── self-determination-theory-internalization-continuum-deep-dive-2026-04-21.md
+├── self-determination-theory.md
+├── self-determined-learning.md
+├── Self-Directed Learning (Knowles, 1975).md
+├── Self-Directed Learning (SDL).md
+├── Self-Directed Learning Across Cultures Cultural Foundations of Autonomy in Education.md
+├── Self-Directed-Learning-Across-Cultures.md
+├── self-directed-learning-readiness-scale.md
+├── self-directed-learning.md
+├── Self-Directedness-—-Trait-or-Readiness-Sense.md
+├── Self-Efficacy-Across-the-Lifespan-Developmental-Variation-in-Source-Operation.md
+├── Self-Efficacy-and-Mindset-A-Comparative-Architecture.md
+├── self-efficacy-belief.md
+├── self-efficacy-calibration.md
+├── self-efficacy-for-learning-and-performance.md
+├── self-efficacy-theory.md
+├── self-efficacy.md
+├── self-esteem.md
+├── Self-Evaluation Against Quality Standards.md
+├── Self-Evaluation.md
+├── Self-Explanation as Embedded Calibration.md
+├── self-explanation-effect.md
+├── Self-Handicapping.md
+├── Self-Knowledge.md
+├── Self-Monitoring Protocol for Demanding Reading.md
+├── self-monitoring-vs.-illusion-of-knowing.md
+├── self-monitoring.md
+├── self-reflection-phase.md
+├── Self-Regulated Learning (Pintrich).md
+├── Self-Regulated Learning (SRL).md
+├── Self-Regulated Learning (Zimmerman, 2000; Pintrich, 2004).md
+├── Self-Regulated Learning Cycle Mapped to PKB Functions.md
+├── self-regulated-learning — Metacognitive Architecture and Instructional Implications.md
+├── Self-Regulated-Learning-—-SRL.md
+├── self-regulated-learning.md
+├── self-regulation.md
+├── Self-Report Methodology and What It Cannot Establish.md
+├── self-serving-attribution-bias.md
+├── semantic-memory.md
+├── Sensitivity vs. Calibration as Targets of Instruction.md
+├── Sergei Kalyuga.md
+├── Servant-Leadership.md
+├── Setting Up Architecture-Aware Deliberate Practice.md
+├── shallow-processing.md
+├── shame-vs.-guilt-in-attribution-theory.md
+├── Shanahan-disciplinary-literacy.md
+├── Sheeran & Gollwitzer (2006) — The Foundational Meta-Analysis.md
+├── Significant Contributors to the Python + VS Code Ecosystem.md
+├── Simplicity vs. Comprehensiveness in System Design.md
+├── Single-Responsibility-Principle.md
+├── situated-learning.md
+├── Situation Model — Through Section 1.md
+├── Situation Model — Updated Through Section 1.md
+├── Situation Model — Updated Through Section 2.md
+├── Situation Model — Updated Through Section 3.md
+├── Situation Model — Updated Through Section 4.md
+├── Situation Model — Updated Through Section 5.md
+├── Situation Model — Updated Through Section 6.md
+├── Situation Model — Updated Through Section 7 (Final).md
+├── Situation Model — Updated Through Section 7.md
+├── Situation Model — Updated Through Section 8.md
+├── situation-model.md
+├── Skill-Acquisition.md
+├── skimming-strategies.md
+├── SM-2-Algorithm.md
+├── social-capital.md
+├── social-cognition.md
+├── Social-Cognitive-Theory-—-Bandura.md
+├── social-cognitive-theory-bandura.md
+├── social-cognitive-theory.md
+├── Social-Identity-Theory.md
+├── Soenens-&-Vansteenkiste-2011.md
+├── Software Architecture and Information Architecture.md
+├── Software Engineering and Codebase Architecture.md
+├── Software Engineering Code Review as Metacognitive Monitoring.md
+├── Software Engineering Onboarding as Complex Learning Design.md
+├── Software-Architecture.md
+├── software-design.md
+├── Software-Engineering-Practice.md
+├── software-engineering-principles.md
+├── software-engineering-workflows.md
+├── Sönke Ahrens (contemporary).md
+├── Source Information Is Cognitively Constructed, Not Mechanically Recorded.md
+├── Spaced Repetition Seeds for Active Recall.md
+├── Spaced-Repetition-Algorithm-Comparison.md
+├── Spaced-Repetition-Algorithms-and-Chunk-Consolidation.md
+├── Spaced-Repetition-Algorithms-and-Memory.md
+├── spaced-repetition-systems.md
+├── spaced-repetition.md
+├── Spacing Effect (Ebbinghaus, 1885; Cepeda et al., 2006).md
+├── spacing-effect.md
+├── Spatial-Cognition.md
+├── Specialist Pitfall Equating Trait and State Need Satisfaction.md
+├── Specialist Pitfall The Self-Determination Index.md
+├── Specialist Pitfall Treating Need Satisfaction as Cumulative Score.md
+├── Specialist Recommendations for Continued Investigation.md
+├── Specialist Reflection — Level 1.md
+├── Specialist Reflection — Level 2.md
+├── Specialist Reflection — Level 3.md
+├── Specialist Reflection — Level 4.md
+├── Specialist Reflection — Level 5.md
+├── Specialist Reflection — Level 6.md
+├── Specialist Reflection — Level 7.md
+├── Specialist Reflection.md
+├── Specific Performance Goals vs. Learning Goals on Complex Tasks.md
+├── Specificity Versus Generality in Measurement.md
+├── Speculative Synthesis Developmental Timescale as a Regulatory Variable.md
+├── Speculative Synthesis The Authenticity Question May Become Empirically Live.md
+├── Speculative Synthesis The Relatedness Question Has Been a Sleeping Question.md
+├── Speculative Trajectory 1 Element interactivity reformulated as prediction-error processing load.md
+├── Speculative Trajectory 2 AI-mediated dynamic load measurement and adaptive instruction.md
+├── Split Attention Effect (Sweller, Chandler, 1992).md
+├── split-attention-effect.md
+├── Sport-Psychology.md
+├── Spreading Activation (Collins & Loftus, 1975).md
+├── spreading-activation.md
+├── SR Seed 1 — Definition Virtual Environment.md
+├── SR Seed 1 — Definition.md
+├── SR Seed 2 — Definition.md
+├── SR Seed 2 — Distinction IDE vs. Code Editor.md
+├── SR Seed 2 — Distinction.md
+├── SR Seed 3 — Definition.md
+├── SR Seed 3 — Distinction.md
+├── SR Seed 3 — Process Reading a Traceback.md
+├── SR Seed 3 — Process.md
+├── SR Seed 4 — Application.md
+├── SR Seed 4 — Connection.md
+├── SR Seed 4 — Distinction Inline Suggestions vs. Copilot Chat.md
+├── SR Seed 4 — Distinction.md
+├── SR Seed 4 — Process.md
+├── SR Seed 5 — Application Interpreter Mismatch Diagnosis.md
+├── SR Seed 5 — Connection.md
+├── SR Seed 5 — Distinction.md
+├── SR Seed 5 — Process.md
+├── SR Seed 6 — Application.md
+├── SR Seed 6 — Connection Verification Imperative.md
+├── SR Seed 6 — Definition.md
+├── SR Seed 6 — Process.md
+├── SR Seed 7 — Application.md
+├── SR Seed 7 — Connection.md
+├── SR Seed 7 — Process Creating a Reproducible Project.md
+├── SR Seed 7 — Process.md
+├── SR Seed 9 — Connection.md
+├── SR Seed 9 — Distinction settings.json Scope.md
+├── SR Seed 10 — Connection.md
+├── SRL as the Bridge Between Curriculum Structure and Learner Autonomy.md
+├── Stability as the Temporal Horizon of Agency.md
+├── Stability Dimension (Weiner, 1972, 1985).md
+├── stability-dimension.md
+├── stability.md
+├── stack-trace.md
+├── Standard of Coherence (Baker, 1985).md
+├── Standard Python Project Structure.md
+├── standard-of-coherence.md
+├── Standardisation vs. Personalisation The Institutional Dilemma.md
+├── Statistical-Literacy.md
+├── Status-quo-bias.md
+├── Stephen-Brookfield.md
+├── stewart-hase.md
+├── Strategic Automaticity (Gollwitzer & Brandstätter, 1997).md
+├── Strategic Automaticity (Gollwitzer 1999).md
+├── strategic-automaticity.md
+├── strategic-planning.md
+├── strategic-reading.md
+├── Strategy Repertoire as Metacognitive Infrastructure.md
+├── Strategy Use Without Strategy Calibration.md
+├── strategy-monitoring.md
+├── strategy-selection.md
+├── Strong vs. Moderate Deliberate Practice Hypothesis.md
+├── Study Time Allocation Under Time Pressure.md
+├── Substitution as the Generative Mechanism of Bias — Strategic Implications.md
+├── summarization.md
+├── summative-assessment.md
+├── Supportive Information (van Merriënboer & Kirschner, 2018).md
+├── Supportive Information as Cognitive Bridging.md
+├── Surface Markers vs Substrate Architecture.md
+├── Sweller's 2010 Reconceptualization.md
+├── system-1-and-system-2.md
+├── system-1.md
+├── system-2.md
+├── Systematic Troubleshooting as Metacognitive Architecture.md
+├── tacit-knowledge.md
+├── TARGET Framework (Ames).md
+├── target-framework.md
+├── Task Class (van Merriënboer & Kirschner, 2018).md
+├── Task Class Sequencing in Medical Education.md
+├── Task Value (Eccles–Wigfield, integrated into Pintrich).md
+├── task-analysis.md
+├── task-involvement.md
+├── task-value.md
+├── Technical Detail Autonomous vs. Controlled Motivation as Higher-Order Categories.md
+├── Technical Detail Need-Specific Contributions to Each Internalization Transition.md
+├── Technical Detail The asymmetry between schema construction and schema automation.md
+├── Technical Detail The Operational Markers of External Regulation.md
+├── Technical Detail The relation between elements and chunks.md
+├── Technical Detail The relationship between element interactivity and working-memory load.md
+├── Technical Detail The Three Functional Significances and Their Need-Satisfaction Profiles.md
+├── Technical vs. Critical Self-Direction — Brookfield's Challenge to SDL Theory.md
+├── Technology-Enhanced Self-Directed Learning Adaptive Systems and Digital Scaffolding.md
+├── Technology-Enhanced-Self-Directed-Learning.md
+├── Template (Gobet & Simon, 1996).md
+├── Template-Engineering.md
+├── Templater.md
+├── Temporal Taxonomy of Monitoring Judgments.md
+├── Tension 1 Phase Discreteness vs. Phase Interleaving (Pintrich vs. Zimmerman).md
+├── Tension 1 Scaffolding vs. Dependency.md
+├── Tension 1 Simplicity vs. Explicitness in Environment Management.md
+├── Tension 2 AI Speed vs. Practitioner Understanding.md
+├── Tension 2 Cognition-Motivation Primacy.md
+├── Tension 2 Cognitive Load Reduction vs. Necessary Struggle.md
+├── Tension 3 Annotation Precision vs. False Confidence.md
+├── Tension 3 Convention vs. Configuration in Project Structure.md
+├── Tension 4 Tool-Specific vs. Transferable Knowledge.md
+├── Tension 4 VS Code Magic vs. Terminal Transparency.md
+├── Test-Anxiety.md
+├── Test-Driven-Development.md
+├── testing-effect-retrieval-practice-effect.md
+├── Testing-Effect.md
+├── textualism-purposivism-as-coherence-standards.md
+├── The 2×2 Achievement Goal Framework.md
+├── The Active Organism Hypothesis.md
+├── The Additivity Misconception.md
+├── The Additivity Problem.md
+├── The Architectural Asymmetry the Theory Resolves.md
+├── The Architectural Imperative.md
+├── The Architectural Invariance Thesis.md
+├── The Architecture as Diagnostic Tool.md
+├── The Asymmetric Architecture as Design Constraint.md
+├── The Asymmetry Between Cognitive and Motivational Monitoring.md
+├── The Asymmetry Between Need Satisfaction and Need Frustration.md
+├── The Asymmetry That Drives Everything.md
+├── The Athlete's Comeback Stability and the Reconstruction of Expectancy.md
+├── The Atomistic Fallacy.md
+├── The Attribution-Emotion-Behaviour Causal Chain (Weiner, 1985).md
+├── The Attributional Bridge (Original to this report).md
+├── The Automation Threshold Problem.md
+├── The Automation-Liberation Principle.md
+├── The Autonomy-Independence Conflation.md
+├── The Autonomy-Relatedness Integration Problem.md
+├── The Calibration Problem.md
+├── The Calibration Trap in Self-Directed Learning.md
+├── The Calibration-Adaptation Engine.md
+├── The Calibration-Engagement Trade-off and a Proposed Framework for Optimal Efficacy.md
+├── The Causal Chain Practice → Chunks → Architecture → Performance.md
+├── The Central Design Challenge.md
+├── The Central Diagnostic Phenomenon.md
+├── The Central Phenomenon.md
+├── The Central Puzzle.md
+├── The Centrality of Efficacy Over Outcome Expectations.md
+├── The CLT–Desirable Difficulties Reconciliation.md
+├── The Cognitive Offloading Paradox.md
+├── The Cognitive Strategy Convergence Framework for PKB Design.md
+├── The Collector's Fallacy.md
+├── The Compartmentalization Thesis.md
+├── The Compensatory Process Trap.md
+├── The Complementarity-Redundancy Continuum.md
+├── The Complexity Trap.md
+├── The Compounding Cost of Fluency-Based Confidence.md
+├── The Compounding Loop and Why It Matters.md
+├── The Comprehension Illusion Mechanism.md
+├── The Conceptual Pivot of the Theory.md
+├── The Continuum Made Concrete A Single Behavior Across Five Architectures.md
+├── The Convergence Thesis.md
+├── The Coordination Thesis for Schema Construction.md
+├── The Cue-Accessibility Trap.md
+├── The Cue-Encoding Bottleneck Hypothesis.md
+├── The Current Working Directory Trap.md
+├── The Cycle in Skill Acquisition.md
+├── The Cyclical Feedback Architecture as Learning Engine.md
+├── The Danger of Psychological Reductionism.md
+├── The Delayed JOL Effect in Practice.md
+├── The Developmental Differentiation of Effort and Ability.md
+├── The Developmental Imperative.md
+├── The Differentiated Frame in an Adult Learner.md
+├── The Digital SDL Paradox.md
+├── The Dimensional Status of Globality.md
+├── The Discrepancy-Reduction Model of Study Time Allocation.md
+├── The Dominance Asymmetry.md
+├── The Door That the Framework Opens.md
+├── The Dual Architecture of Attributional Bias.md
+├── The Dual-Architecture Hypothesis PKB as Cognitive Prosthesis.md
+├── The Dual-Architecture System.md
+├── The Dual-Mechanism Instructional Logic.md
+├── The Dual-Mechanism Thesis.md
+├── The Ecological Validity Question.md
+├── The Ecosystem Reading vs. the Competitive Reading.md
+├── The Edge Case Map.md
+├── The Editor-Interpreter Separation as Architectural Principle.md
+├── The Elaboration–Linking Isomorphism.md
+├── The Elaborative Note-Making Protocol.md
+├── The Element-Interactivity Bridge.md
+├── The Encoding-Organization-Retrieval Loop.md
+├── The Encoding-Retrieval Entanglement.md
+├── The Environment Mastery → Tool Creation Pipeline.md
+├── The Examination Scenario as Attributional Microcosm.md
+├── The Execution Model as Mental Architecture.md
+├── The Extension Ecosystem as Capability Assembly.md
+├── The False Equivalence Between Confidence and Capability.md
+├── The Feature-Function Map as Diagnostic Tool.md
+├── The Five-Minute Forethought Routine.md
+├── The Flexibility-Reliability Trade-Off.md
+├── The Fluency Illusion in Digital Reading.md
+├── The Fluency Illusion in PKB Review.md
+├── The Fluency Illusion in PKM.md
+├── The Fluency Trap and Pseudoexpertise.md
+├── The Fluency Trap in Self-Directed Study.md
+├── The Four Areas of Regulation.md
+├── The Four-by-Four Matrix (Pintrich).md
+├── The Four-by-Four Matrix.md
+├── The Four-Layer Architecture of Skilled Metacognitive Reading.md
+├── The Four-Source Integration Architecture.md
+├── The Framework as Implicit Theory of the Learner.md
+├── The Framework as Metacognitive Backbone of SRL.md
+├── The Framework Is Not a Universal Diagnostic.md
+├── The Framework's Position in the Multi-Framework Landscape.md
+├── The Framework's Tacit Realism About the Phenomenology of Studying.md
+├── The Functional Priority of Unexpected and Negative Outcomes.md
+├── The Fundamental Attribution Error (Ross, 1977; also Correspondence Bias).md
+├── The Generation Effect in PKB Note-Making.md
+├── The Grading Trap.md
+├── The Grain-Size Distinction Between SDL and SRL.md
+├── The Guidance Paradox in 4CID.md
+├── The Guilt-Shame Asymmetry as Motivational Architecture.md
+├── The Habit Formation Imperative.md
+├── The Hidden Cost of Strategy Naming Without Conditional Reasoning.md
+├── The High Performance Cycle — Visual Summary.md
+├── The Illusion of Linear Progression.md
+├── The Illusion of Understanding Through Summarisation.md
+├── The Implementation-Intention Mechanism Flow.md
+├── The Integration Problem in SDL Modeling.md
+├── The Integration-Transfer Advantage.md
+├── The Integrative Bottleneck and Why Efficacy Beliefs Resist Easy Change.md
+├── The Interleaved Review Protocol.md
+├── The Internalization Continuum (OIT).md
+├── The Internalization Phenomenon (Surface Description).md
+├── The Isolation Principle as Engineering Discipline.md
+├── The Just-in-Time Principle.md
+├── The Limits of Climate Engineering.md
+├── The Limits of Substitutability.md
+├── The Lindeman-Dewey Bridge.md
+├── The Linear Rise and the Cliff.md
+├── The Link Supremacy Thesis.md
+├── The Load-Motivation Interface.md
+├── The Loop as a Sampling System, Not a Continuous Tracker.md
+├── The Loop in Action A Reader Encountering an Unfamiliar Term.md
+├── The Magnification Path.md
+├── THE MASTER PROTOCOL Python Project Lifecycle in VS Code.md
+├── The Matrix in Action A Concrete Episode.md
+├── The Measurement Challenge as a Theoretical Opportunity.md
+├── The Measurement Circularity Problem.md
+├── The Measurement Problem.md
+├── The Mechanism Cascade as Argument Structure.md
+├── The Mechanism Cascade in a Single Learning Episode.md
+├── The Mechanism of Adaptive Expertise.md
+├── The Mechanism of Type 2 Depletion.md
+├── The Mechanisms Compound, But Not Independently.md
+├── The Metacognition-Motivation Interface How Self-Assessment Shapes Engagement.md
+├── The Metacognitive Bootstrapping Problem.md
+├── The Metacognitive Load Paradox.md
+├── The Metacognitive Scaffold Developmental Arc.md
+├── The Metacognitive Scaffolding Principle.md
+├── The Metacognitive Sovereignty Framework — An Integrative Proposal.md
+├── The Misnaming of Fundamental.md
+├── The Modality Effect (Mousavi, Low, & Sweller, 1995).md
+├── The Moderators Are Conditions of Adequacy, Not Adjustment.md
+├── The Monitoring-Control Asymmetry as Design Constraint.md
+├── The Monitoring-Control Coupling as Design Principle.md
+├── The Monitoring-Control Coupling as the Key Vulnerability.md
+├── The Most Common Misapplication.md
+├── The Most Common Misconception About Chunking.md
+├── The Most Dangerous Cases Are the Easy Ones.md
+├── The Motivation-Metacognition Interface.md
+├── The Motivation-Regulation Entanglement.md
+├── The Motivational Ecology as Adaptive System.md
+├── The Motivational Ecology Model for Curriculum Design.md
+├── The Motivational Ecology Thesis.md
+├── The Over-Optimization Trap.md
+├── The Overconfidence Default.md
+├── The Paradox of Effective Learning.md
+├── The Paradox of Effective Structure.md
+├── The PATH Checkbox — A Configuration Decision with Lasting Consequences.md
+├── The Pattern Has a Name.md
+├── The Performance-Approach Debate.md
+├── The Persistence Multiplier and Why Efficacy Beliefs Compound Outcome Differences.md
+├── The Persistence of Three-Source Language.md
+├── The Phenomenological Opacity Argument.md
+├── The PKB as a Schema Externalization Medium.md
+├── The PKB as Constitutive Metacognitive Architecture.md
+├── The PKB as Externalized Schema Network.md
+├── The PKB as Metacognitive Prosthesis.md
+├── The PKM Calibration Problem.md
+├── The PKM-4CID Structural Analogy.md
+├── The Practical Synthesis Architecture-Aware Practice.md
+├── The Privilege Problem in SDL Theory.md
+├── The Problem-Library Map A Practitioner's Navigation Aid.md
+├── The Productivity of Imperfection.md
+├── The Readiness Paradox.md
+├── The Reading Case Domain Expertise Hidden in Plain Sight.md
+├── The Recursive Application Worth Surfacing.md
+├── The Recursive Architecture of Efficacy in Triadic Determinism.md
+├── The Recycling Study (Holland, Aarts, & Langendam, 2006).md
+├── The Regulatory Cycle and Its Cost Asymmetries.md
+├── The Relationship Between Self-Efficacy and Mindset Frameworks.md
+├── The Replication Challenge to the Undermining Effect.md
+├── The Retrieval Architecture Imperative.md
+├── The Scaffolding Paradox Within Inquiry.md
+├── The Scaffolding Progression in Practice A Graduate Research Methods Course.md
+├── The Scaffolding-Sovereignty Progression Structural Overview.md
+├── The Scaffolding-Sovereignty Progression.md
+├── The Schema-Construction Loop (formal structure).md
+├── The schema-construction loop (formal).md
+├── The SDL-SRL Grain-Size Continuum.md
+├── The Self-Directed Learner's Metacognitive Challenge A Concrete Illustration.md
+├── The Seven-Problem Decomposition.md
+├── The Seven-Problem Planning Framework — Structural Overview.md
+├── The Seven-Problem Planning Framework.md
+├── The Shift from Catalogue to Architecture.md
+├── The Situation It Works on My Machine.md
+├── The Situation The 800-Line Monster.md
+├── The Situation The AI Writes Code You Cannot Read.md
+├── The Situation The Package That Broke Everything.md
+├── The Situation The Red Wall of Text.md
+├── The Situation The Tool You Do Not Know You Have.md
+├── The Situation You Installed Everything But Nothing Works.md
+├── The Specificity Trap in Self-Efficacy Research.md
+├── The Specificity-Difficulty Conjunction.md
+├── The SRL Cycle in PKM Practice.md
+├── The Standard Mechanism in Compressed Form.md
+├── The standard three-load taxonomy.md
+├── The Standard-of-Coherence Bandwidth Hypothesis.md
+├── The Substructure Need-to-Style Mapping.md
+├── The Task Analysis Bottleneck.md
+├── The Tautology Concern.md
+├── The Taxonomy as a Diagnostic Instrument.md
+├── The Taxonomy as Emotional Grammar.md
+├── The Temporal Architecture of Forethought.md
+├── The Temporal Architecture of Post-Outcome Affect.md
+├── The Temporal Architecture of Self-Assessment.md
+├── The Temporal Dynamics of Optimal Support.md
+├── The Temptation of Dimensional Purity.md
+├── The Theory at Its Frontier.md
+├── The Three Basic Psychological Needs.md
+├── The Three Modes of AI-Assisted Coding.md
+├── The Three-Level Mechanism Map as Intervention Architecture.md
+├── The Tool Complexity Paradox in PKM Systems.md
+├── The Transcription Trap When PKB Workflow Bypasses Encoding.md
+├── The Translation Window An Original Synthesis.md
+├── The Translation Window as Diagnostic Frame.md
+├── The Translation Window Diagnostic.md
+├── The Tripartite Scope of SDL.md
+├── The Two Performance States in a Concrete Case.md
+├── The Two-Stage Architecture of Attribution Retraining.md
+├── The Universality Thesis.md
+├── The Verification Imperative — Copilot Is Not an Oracle.md
+├── The WEIRD-Sample-Bias in Attribution Research.md
+├── The Whole-Task Paradox.md
+├── The Worked Example Effect Mechanisms, Moderators, and Design Principles.md
+├── The Working Memory–Long-Term Memory Relationship as the Master Design Constraint.md
+├── The-22-as-a-Map-of-Vulnerability,-Not-Just-Goal-Types.md
+├── The-Actor-Observer-Asymmetry-in-Social-Cognition.md
+├── the-atkinson-shiffrin-multi-store-model.md
+├── the-attributional-bridge — Attribution as the Interpretive Layer.md
+├── The-Calibrated-Engagement-Criterion-A-Dialectical-Examination.md
+├── the-fluency-illusion.md
+├── the-fluency-trap.md
+├── the-guilt-shame-asymmetry-in-motivational-function.md
+├── The-Historical-Genealogy-of-Chunking-Theory.md
+├── The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces.md
+├── The-Intellectual-Lineage-of-Self-Regulation-Research.md
+├── The-Multi-Framework-Landscape-of-Self-Regulated-Learning-Theory.md
+├── the-parity-principle.md
+├── the-pkb-as-externalized-metacognitive-architecture.md
+├── The-Replication-Crisis-and-Dual-Process-Findings.md
+├── The-SRL-SDT-Interface-Motivational-Quality-as-the-Meta-Regulator-of-Regulation-Q.md
+├── the-stability-expectancy-mechanism.md
+├── the-substitution-trap.md
+├── the-three-dimensional-causal-taxonomy.md
+├── the-two-stage-attribution-intervention-architecture.md
+├── the-undermining-effect.md
+├── the-worked-example-effect.md
+├── theory-of-planned-behavior.md
+├── therapeutic-alliance.md
+├── thomas-nelson-and-louis-narens.md
+├── thomas-nelson.md
+├── thomas-o.-nelson.md
+├── Three Failures, Three Fix-Up Choices.md
+├── Three Needs vs More Needs.md
+├── Tim Kasser (1966–).md
+├── time-management.md
+├── Tool-Centrism vs. Process-Centrism.md
+├── Tools as Cognitive Scaffolding, Not Cognitive Replacement.md
+├── Topics for Future Investigation.md
+├── trace-data.md
+├── Traceback (Stack Trace).md
+├── Trait vs State Regulation.md
+├── Trait vs. Process.md
+├── Trait vs. State Measurement.md
+├── Transfer Domain 1 Any Command-Line Tool Ecosystem.md
+├── Transfer Domain 1 Personal Knowledge Management and PKB Automation.md
+├── Transfer Domain 1 Professional Skill Acquisition Outside Formal Education.md
+├── Transfer Domain 2 Dependency Management in Any Language.md
+├── Transfer Domain 2 Long-Term Habit Formation and Behavior Change.md
+├── Transfer Domain 3 AI-Assisted Work Beyond Coding.md
+├── Transfer Domain 3 Personal Knowledge Management Practice.md
+├── Transfer Domain 3 Professional Communication and Code as Externalized Thought.md
+├── Transfer Domain 4 The PTAL Pattern as a Learning Framework.md
+├── Transfer Domain 4 Therapeutic Self-Management and Mental Health Practice.md
+├── Transfer Domain 4 Transferring the Annotation Practice Itself.md
+├── Transfer Pessimism vs. Transfer Optimism.md
+├── Transfer to Clinical Practice Action Plans in Asthma Management.md
+├── Transfer to Organizational Practice Standard Operating Procedures.md
+├── Transfer to Pedagogy Worked Examples and Cognitive Pre-Compilation.md
+├── Transfer to Software Engineering Defensive Programming as Implementation Intention.md
+├── Transfer-of-Learning-Mechanisms-and-Instructional-Design.md
+├── transfer-of-learning.md
+├── Transformational-Leadership.md
+├── Transformative-Learning.md
+├── Translation Window (original to this report).md
+├── Translation Window Diagnostic Checklist.md
+├── Transparent Quality Evaluation.md
+├── Triadic Reciprocal Determinism (Bandura, 1986).md
+├── Triggering Type 2 Engagement at Decision Points.md
+├── Two Readers, Same Passage, Different Standards.md
+├── Type 1 Processing (Stanovich & Evans).md
+├── Type 2 Processing (Stanovich & Evans).md
+├── type-1-processing.md
+├── type-2-processing.md
+├── type-hints.md
+├── Universality vs Cultural Variability.md
+├── Universality vs. Cultural Specificity of the Fundamental Attribution Error.md
+├── Urban Planning and Wayfinding.md
+├── user-experience-design.md
+├── Vansteenkiste,-Lens,-&-Deci-2006.md
+├── variability-of-practice-effect.md
+├── Vector-Embeddings.md
+├── Verbal Persuasion (Social Communication Source).md
+├── verbal-persuasion.md
+├── Version-Control.md
+├── Vicarious Experience (Modeling Source).md
+├── Virtual Environment (venv).md
+├── Virtual Environment Health Check.md
+├── Visual-Representation.md
+├── visuospatial-sketchpad.md
+├── volition.md
+├── volitional-congruence.md
+├── vs-code.md
+├── Vygotsky's-Zone-of-Proximal-Development.md
+├── walter-kintsch.md
+├── Wayne-De-Neys.md
+├── WEIRD-Sample-Bias.md
+├── well-being-pathway.md
+├── wellbeing-mode.md
+├── Wendy Grolnick.md
+├── What Distinguishes the Mature Theory from the Original.md
+├── What Remains for Further Work.md
+├── What the 2×2 Reveals That the Dichotomy Concealed.md
+├── What the Evidence Does Not Support.md
+├── What This Depth Made Visible.md
+├── What This Framework Does Not Resolve.md
+├── What This Looks Like in Practice.md
+├── What This Section Established.md
+├── When AI-Assisted Coding Excels.md
+├── When AI-Assisted Coding Undermines You.md
+├── When Efficacy Intervention Will Likely Fail.md
+├── When Python Is Not the Right Tool.md
+├── When Python Is the Right Tool.md
+├── When This Breaks Down The Activation Amnesia.md
+├── When This Breaks Down The Cargo Cult Pattern.md
+├── When This Breaks Down The Import Path Nightmare.md
+├── When This Breaks Down The Multiple Pythons Problem.md
+├── When This Breaks Down The Print-Debugging Trap.md
+├── When This Breaks Down The Secrets Problem.md
+├── When This Breaks Down The Working Directory Trap.md
+├── When to Intervene at Which Level.md
+├── Where the Framework Is Headed.md
+├── Why an Inductive Theory Is Both Strong and Brittle.md
+├── Why Architectural Transfer Is More Tractable than Strategy Transfer.md
+├── Why the Climate-Individual Relationship Is Not Symmetric.md
+├── Why the Cross-Area Cells Carry Disproportionate Theoretical Weight.md
+├── Why the Cycle Matters More Than the Static Theory.md
+├── Why These Failure Modes Are Not Bugs but Features.md
+├── Why-Strategy-Instruction-Sometimes-Fails-Diagnostic-Framework.md
+├── wiki-link.md
+├── wiki-links.md
+├── wilbert-mckeachie.md
+├── William G. Chase and Herbert A. Simon.md
+├── wilson-and-linville.md
+├── Windows-Terminal.md
+├── winne-and-hadwin.md
+├── Winne.md
+├── Winne's-information-processing-model.md
+├── wise-interventions.md
+├── Wolters-Motivational-Regulation-Strategies-Catalog.md
+├── Wolters.md
+├── Worked Example The same material, three levels of element interactivity.md
+├── Worked Example The trajectory of learning long division.md
+├── Worked-Examples-Effect.md
+├── Worked-Examples.md
+├── Working Memory (Baddeley, 1986; Baddeley & Hitch, 1974).md
+├── working-memory-capacity.md
+├── Working-Memory-Limitations.md
+├── working-memory.md
+├── Workplace Learning and Professional Development.md
+├── Workplace-Learning.md
+├── YAML.md
+├── Zettelkasten-Method.md
+├── zettelkasten.md
+├── zimmerman-srl-model.md
+├── Zimmerman.md
+├── Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning.md
+├── Zimmerman's-Cyclical-Model-of-Self-Regulation.md
+└── zone-of-proximal-development.md

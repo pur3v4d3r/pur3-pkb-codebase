@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Productive-Failure-and-Desirable-Difficulties"
+title: Productive-Failure-and-Desirable-Difficulties
 aliases:
-  - "Productive-Failure-and-Desirable-Difficulties"
+  - Productive-Failure-and-Desirable-Difficulties
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 86
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
-  - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
-  - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
-  - "[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]"
-  - "[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]"
-  - "[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]"
-  - "[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]"
-  - "[[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]"
-  - "[[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]"
-  - "[[Community-Development-and-Civic-Education|Community Development and Civic Education]]"
+  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+  - '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]'
+  - '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
+  - '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]'
+  - '[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]'
+  - '[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]'
+  - '[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]'
+  - '[[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]'
+  - '[[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]'
+  - '[[Community-Development-and-Civic-Education|Community Development and Civic Education]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Productive-Failure-and-Desirable-Difficulties
 
-> [!definition] **Productive-Failure-and-Desirable-Difficulties**
-> *Stub note — concept referenced by 86 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Productive-Failure-and-Desirable-Difficulties
+> - **Key-Term**: [[Productive-Failure-and-Desirable-Difficulties]]
+> - **Definition**: Productive failure and desirable difficulties refer to the educational strategy of intentionally creating challenging situations that promote deep learning through problem-solving and reflection, rather than providing direct instruction or solutions.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 86 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> This concept is rooted in the idea that encountering obstacles and making mistakes can lead to deeper understanding when learners are given opportunities to reflect on their errors and think critically about how to solve problems. It works by intentionally setting up tasks that require learners to grapple with challenges, fostering resilience and a growth mindset.
 
+> [!analytical-insight] Explanation 2
+> In practice, this might involve assigning complex problems without initial guidance or requiring students to design solutions based on limited information. The teacher then facilitates reflection sessions where students discuss their approaches, identify misconceptions, and refine their understanding through dialogue and feedback.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the importance of providing sufficient support so that learners do not become overly frustrated, as well as ensuring that the tasks are aligned with learning objectives to maximize educational benefits.
+
+## Practical Implications
+
+> [!example] Application
+> Instructors can use this approach to encourage students to develop critical thinking and problem-solving skills by designing assignments that require them to apply knowledge in novel situations.
+
+> [!example] Application
+> This method can also help reduce reliance on rote memorization, promoting a deeper understanding of the subject matter.
+
+## Connections
+
+**Related:** [[Andragogy-Knowles]] · [[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice]] · [[Autonomy-vs.-Structure-The-Scaffolding-Paradox]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
 - [[Assessment-for-Autonomy|Assessment for Autonomy]]
@@ -73,16 +81,14 @@ importance: high
 - [[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
-- [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Community-Development-and-Civic-Education|Community Development and Civic Education]]
-- [[Cultural-Boundedness-of-Self-Direction|Cultural Boundedness of Self-Direction]]
-- [[Curriculum-Audit-for-Self-Direction-Development|Curriculum Audit for Self-Direction Development]]
-- [[Curriculum-Design-as-distinguished-from-Curriculum|Curriculum Design (as distinguished from Curriculum)]]
-- [[Embedding-Evidence-Based-Strategies-in-a-Self-Directed-Learning-Curriculum|Embedding Evidence-Based Strategies in a Self-Directed Learning Curriculum]]
-- [[Future-Investigation-Directions|Future Investigation Directions]]
-- [[Healthcare-Education-and-Patient-Self-Management|Healthcare Education and Patient Self-Management]]
-- [[Heutagogy-Hase-&-Kenyon|Heutagogy (Hase & Kenyon)]]
-- [[Learning-Contract-Knowles|Learning Contract (Knowles)]]
-- [[Learning-Contract-Design-Template|Learning Contract Design Template]]
-- [[Lifelong-Learning|Lifelong Learning]]
-- *...and 66 more permanent notes*
+
+```dataview
+LIST FROM [[Productive-Failure-and-Desirable-Difficulties]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

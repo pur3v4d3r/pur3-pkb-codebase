@@ -2,10 +2,10 @@
 title: comprehension-monitoring
 aliases: [comprehension-monitoring, Baker-comprehension-monitoring]
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
 tags: [permanent-note, seedling, concept-stub, other]
-domain: other
+domain: cognitive-psychology
 created: 2026-04-22
 updated: '2026-04-22'
 source-type: stub-generation
@@ -27,22 +27,47 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
 provenance:
   source-reports: []
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
+maturity: budding
 ---
-
 
 # comprehension-monitoring
 
-> [!definition] **comprehension-monitoring**
-> *Stub note — concept referenced by 251 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] comprehension-monitoring
+> - **Key-Term**: [[comprehension-monitoring]]
+> - **Definition**: Comprehension-monitoring is the process of actively monitoring one's understanding while reading or listening, adjusting strategies as needed to ensure full comprehension.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 251 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Comprehension-monitoring involves recognizing when information does not make sense and taking steps to clarify it. This can include rereading, asking questions, or seeking additional information.
 
+> [!analytical-insight] Explanation 2
+> It works by constantly evaluating the coherence of one's understanding against the text or speech being consumed, allowing for adjustments in reading speed, focus, or approach as necessary.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the role of metacognition and the importance of self-assessment in educational settings.
+
+## Practical Implications
+
+> [!example] Application
+> In education, comprehension-monitoring can lead to more effective learning by ensuring that students understand material before moving on.
+
+> [!example] Application
+> In AI-assisted reading systems, it helps in tailoring assistance based on user understanding levels, enhancing the overall reading experience.
+
+## Connections
+
+**Related:** [[Forethought-Template-in-Practice]] · [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]] · [[Desirable-Difficulties]]
+
+**See Also (existing):**
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
 - [[AI-Assisted-Reading-Risks-and-Safeguards]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
@@ -51,24 +76,14 @@ provenance:
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
-- [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
-- [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
-- [[Calibration-Metacognitive-Accuracy-Literature|Calibration (Metacognitive Accuracy Literature)]]
-- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
-- [[Calibration-Check-After-Reading|Calibration Check After Reading]]
-- [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
-- [[Calibration-vs.-Sensitivity-in-Metacognitive-Judgment|Calibration vs. Sensitivity in Metacognitive Judgment]]
-- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
-- [[Calibration-Training-Methods-and-Evidence]]
-- [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
-- [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
-- [[Clinical-Diagnosis-as-Metacognitive-Reading|Clinical Diagnosis as Metacognitive Reading]]
-- *...and 231 more permanent notes*
 
-## Additional Material (Merged)
+```dataview
+LIST FROM [[comprehension-monitoring]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
 
-> [!definition] **Baker-comprehension-monitoring**
-> *Stub note — concept referenced by 71 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+---
 
-
-## Connections
+**Sources:** *(auto-enriched from domain knowledge)*

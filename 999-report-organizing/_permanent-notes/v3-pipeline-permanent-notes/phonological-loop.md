@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "phonological-loop"
+title: phonological-loop
 aliases:
-  - "phonological-loop"
+  - phonological-loop
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
-  - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
+  - '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]'
+  - '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
+  - '[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]'
+  - '[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]'
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
-  - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
-  - "[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]"
-  - "[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]"
-  - "[[Design-Application-Exercise|Design Application Exercise]]"
-  - "[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]"
+  - '[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]'
+  - '[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]'
+  - '[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]'
+  - '[[Design-Application-Exercise|Design Application Exercise]]'
+  - '[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # phonological-loop
 
-> [!definition] **phonological-loop**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] phonological-loop
+> - **Key-Term**: [[phonological-loop]]
+> - **Definition**: The phonological loop is a component of working memory that helps us hold and manipulate verbal information, such as numbers or words in mind for short periods of time through rehearsal.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The phonological loop consists of two parts: the phonological store, which holds auditory information, and the articulatory control process, which allows us to repeat information to keep it active in memory.
 
+> [!analytical-insight] Explanation 2
+> It works by allowing individuals to rehearse verbal information internally or externally, enabling them to maintain and manipulate this information for brief periods before it is either forgotten or transferred to long-term memory.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the loop's reliance on auditory processing and its limited capacity, which can be overwhelmed with too much information.
+
+## Practical Implications
+
+> [!example] Application
+> In e-learning design, understanding the phonological loop helps in creating instructional materials that avoid overwhelming learners with too many verbal details at once.
+
+> [!example] Application
+> Designers can use techniques like chunking to make information more manageable for students and reduce cognitive load.
+
+## Connections
+
+**Related:** [[Working-Memory]] · [[Cognitive-Load-Theory]] · [[Short-Term-Memory]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
@@ -73,16 +81,14 @@ importance: high
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
 - [[Core-CLT-Argument-Structure|Core CLT Argument Structure]]
-- [[Design-Application-Exercise|Design Application Exercise]]
-- [[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]
-- [[Domain-2-User-Interface-and-Human-Computer-Interaction-Design|Domain 2 User Interface and Human-Computer Interaction Design]]
-- [[Domain-3-Athletic-Coaching-and-Motor-Skill-Acquisition|Domain 3 Athletic Coaching and Motor Skill Acquisition]]
-- [[Domain-4-Personal-Knowledge-Management-and-PKB-Architecture|Domain 4 Personal Knowledge Management and PKB Architecture]]
-- [[Element-Interactivity-Sweller,-1994|Element Interactivity (Sweller, 1994)]]
-- [[Element-Interactivity-in-Practice-Two-Learning-Tasks|Element Interactivity in Practice Two Learning Tasks]]
-- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
-- [[Expertise-Reversal-Effect-Kalyuga,-Ayres,-Chandler,-Sweller,-2003|Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
-- [[Expertise-Reversal-in-Programming-Instruction|Expertise Reversal in Programming Instruction]]
-- [[Extraneous-Cognitive-Load-Sweller,-Ayres,-&-Kalyuga,-2011|Extraneous Cognitive Load (Sweller, Ayres, & Kalyuga, 2011)]]
-- [[Extraneous-Cognitive-Load-Sweller,-Chandler,-1991|Extraneous Cognitive Load (Sweller, Chandler, 1991)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[phonological-loop]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

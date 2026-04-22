@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "the-stability-expectancy-mechanism"
+title: the-stability-expectancy-mechanism
 aliases:
-  - "the-stability-expectancy-mechanism"
+  - the-stability-expectancy-mechanism
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 90
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
-  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
-  - "[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]"
-  - "[[Attributional-Processes-in-Intergroup-Relations]]"
-  - "[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]"
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
+  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
+  - '[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]'
+  - '[[Attributional-Processes-in-Intergroup-Relations]]'
+  - '[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # the-stability-expectancy-mechanism
 
-> [!definition] **the-stability-expectancy-mechanism**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] the-stability-expectancy-mechanism
+> - **Key-Term**: [[the-stability-expectancy-mechanism]]
+> - **Definition**: The stability-expectancy mechanism refers to the tendency of individuals to expect and seek out stable explanations for their own behaviors and outcomes, rather than attributing them to unstable factors like luck or mood swings.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 90 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> This mechanism is foundational in understanding how people attribute causes to events. It suggests that when faced with a situation, individuals prefer to believe that the outcome was due to stable internal characteristics (like their own abilities) rather than external and unpredictable factors.
 
+> [!analytical-insight] Explanation 2
+> In practice, this means that after experiencing success or failure, people are more likely to attribute these outcomes to their inherent traits or skills, which can influence future behavior and self-perception. This preference for stability in attributions is often driven by a desire for consistency and control over one's environment.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the fact that this mechanism operates differently across various contexts and cultures, and it interacts with other attributional biases such as fundamental attribution error.
+
+## Practical Implications
+
+> [!example] Application
+> In clinical settings, understanding the stability-expectancy mechanism can help in designing interventions aimed at changing maladaptive attributions in patients with depression or anxiety.
+
+> [!example] Application
+> Educational programs might benefit from incorporating strategies that encourage students to attribute their successes and failures to stable factors like effort rather than luck.
+
+## Connections
+
+**Related:** [[Attribution-Heider,-1958]] · [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010]] · [[Attribution-Retraining-Design-Protocol]]
+
+**See Also (existing):**
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
 - [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
 - [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- [[Controllability-Dimension-Weiner,-1979,-1985|Controllability Dimension (Weiner, 1979, 1985)]]
-- [[Controllability-and-the-Politics-of-Compassion|Controllability and the Politics of Compassion]]
-- [[Cross-Cultural-Thought-Experiment|Cross-Cultural Thought Experiment]]
-- [[Definition-Causal-Attribution|Definition Causal Attribution]]
-- [[Definition-Fundamental-Attribution-Error|Definition Fundamental Attribution Error]]
-- [[Distinction-Locus-of-Causality-vs.-Locus-of-Control|Distinction Locus of Causality vs. Locus of Control]]
-- [[Distinction-Outcome-Dependent-vs.-Attribution-Dependent-Emotions|Distinction Outcome-Dependent vs. Attribution-Dependent Emotions]]
-- *...and 70 more permanent notes*
+
+```dataview
+LIST FROM [[the-stability-expectancy-mechanism]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

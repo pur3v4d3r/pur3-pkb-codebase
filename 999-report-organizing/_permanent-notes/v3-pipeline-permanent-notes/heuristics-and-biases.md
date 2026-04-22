@@ -2,7 +2,7 @@
 title: heuristics-and-biases
 aliases: [heuristics-and-biases, heuristics-and-biases-program]
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
 tags: [permanent-note, seedling, concept-stub, cognitive-psychology]
 domain: cognitive-psychology
@@ -27,22 +27,57 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
 provenance:
   source-reports: []
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
+maturity: budding
 ---
-
 
 # heuristics-and-biases
 
-> [!definition] **heuristics-and-biases**
-> *Stub note — concept referenced by 126 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] heuristics-and-biases
+> - **Key-Term**: [[heuristics-and-biases]]
+> - **Definition**: Heuristics and biases is a framework in cognitive psychology that examines how people make judgments and decisions using mental shortcuts (heuristics) which can lead to systematic errors (biases).
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 126 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The core mechanism involves the use of heuristics, or simple rules of thumb, to process information quickly and efficiently. These heuristics are often effective but can also result in cognitive biases that distort judgment.
 
+> [!analytical-insight] Explanation 2
+> In practice, this framework helps explain why people frequently deviate from rational decision-making processes, such as overestimating their own abilities (overconfidence bias) or underestimating risks (availability heuristic).
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between descriptive and normative approaches, where descriptive focuses on how people actually think, while normative aims to identify optimal thinking strategies.
+
+## Practical Implications
+
+> [!example] Application
+> In AI alignment, understanding heuristics and biases can help in designing more human-like decision-making algorithms that avoid common cognitive pitfalls.
+
+> [!example] Application
+> In machine learning, it informs the development of retraining protocols (like attribution retraining) to correct for biases in model predictions.
+
+## Key Figures
+
+> [!person] Daniel Kahneman
+> co-developer with Amos Tversky of the heuristics and biases program
+
+## Open Threads
+
+> [!open-question] Question
+> The debate over whether cognitive biases are always detrimental or if they serve some adaptive function.
+
+## Connections
+
+**Related:** [[cognitive-bias]] · [[descriptive-normative-paradigm]] · [[heuristic-algorithms]]
+
+**See Also (existing):**
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
@@ -51,24 +86,14 @@ provenance:
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
 - [[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]
-- [[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]
-- [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
-- [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
-- [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]
-- [[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]
-- [[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- *...and 106 more permanent notes*
 
-## Additional Material (Merged)
+```dataview
+LIST FROM [[heuristics-and-biases]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
 
-> [!definition] **heuristics-and-biases-program**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+---
 
-
-## Connections
+**Sources:** *(auto-enriched from domain knowledge)*

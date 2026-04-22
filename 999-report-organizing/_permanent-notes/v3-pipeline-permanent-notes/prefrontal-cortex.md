@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "prefrontal-cortex"
+title: prefrontal-cortex
 aliases:
-  - "prefrontal-cortex"
+  - prefrontal-cortex
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,28 +12,16 @@ tags:
   - neuroscience
 
 domain: neuroscience
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 81
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Abstract]]"
-  - "[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]"
-  - "[[Central-claim-of-this-level|Central claim of this level]]"
-  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
+  - '[[Abstract]]'
+  - '[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]'
+  - '[[Central-claim-of-this-level|Central claim of this level]]'
+  - '[[Chunk (Miller, 1956; Chase & Simon, 1973)]]'
   - "[[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]"
   - "[[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]"
   - "[[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]"
@@ -52,19 +33,54 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # prefrontal-cortex
 
-> [!definition] **prefrontal-cortex**
-> *Stub note — concept referenced by 81 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] prefrontal-cortex
+> - **Key-Term**: [[prefrontal-cortex]]
+> - **Definition**: The prefrontal cortex is the anterior part of the frontal lobes of the brain, involved in decision making, planning complex cognitive behavior, personality expression, and moderating social behavior.
+> - **Domain**: neuroscience
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 81 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The prefrontal cortex plays a crucial role in executive functions such as working memory, reasoning, problem-solving, and inhibitory control. It integrates information from various sensory inputs and motor outputs to guide adaptive behaviors.
 
+> [!analytical-insight] Explanation 2
+> This region is particularly important for tasks that require planning ahead, managing multiple goals simultaneously, and adjusting behavior based on changing circumstances. Damage or dysfunction in the prefrontal cortex can lead to impairments in these higher-order cognitive processes.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include its involvement in emotional regulation, social cognition, and reward processing. Sub-variants of the prefrontal cortex, such as the orbitofrontal cortex and dorsolateral prefrontal cortex, have distinct roles in different aspects of executive function.
+
+## Practical Implications
+
+> [!example] Application
+> In clinical settings, understanding the functions of the prefrontal cortex helps in diagnosing and treating conditions like depression, schizophrenia, and attention deficit hyperactivity disorder (ADHD).
+
+> [!example] Application
+> In education, knowledge about the prefrontal cortex can inform teaching strategies that enhance executive function skills in students.
+
+> [!example] Application
+> A cautionary note is that while interventions targeting the prefrontal cortex may be beneficial for certain cognitive impairments, they must be carefully designed to avoid unintended negative effects.
+
+## Open Threads
+
+> [!open-question] Question
+> The exact mechanisms by which the prefrontal cortex interacts with other brain regions to modulate behavior remain an active area of research.
+
+## Connections
+
+**Related:** [[Executive function]] · [[Working memory]] · [[Cognitive control]]
+
+**See Also (existing):**
 - [[Abstract]]
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[Central-claim-of-this-level|Central claim of this level]]
@@ -73,16 +89,14 @@ importance: high
 - [[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]
 - [[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]
 - [[Claude's-perspective-on-the-reorganization|Claude's perspective on the reorganization]]
-- [[Claude's-perspective-on-the-speculative-horizon|Claude's perspective on the speculative horizon]]
-- [[Claude's-perspective-on-the-substructure|Claude's perspective on the substructure]]
-- [[Claude's-perspective-on-the-surface-picture|Claude's perspective on the surface picture]]
-- [[Domain-of-Validity-of-the-Standard-Account|Domain of Validity of the Standard Account]]
-- [[Edge-Case-1-Biologically-Primary-Knowledge|Edge Case 1 Biologically Primary Knowledge]]
-- [[Edge-Case-2-The-Expertise-Reversal-Effect|Edge Case 2 The Expertise Reversal Effect]]
-- [[Edge-Case-3-The-Germane-Cognitive-Load-Reformulation|Edge Case 3 The Germane Cognitive Load Reformulation]]
-- [[Edge-Case-4-The-Isolated-Elements-Effect|Edge Case 4 The Isolated Elements Effect]]
-- [[Edge-Case-5-Productive-Failure|Edge Case 5 Productive Failure]]
-- [[Edge-Case-6-The-Multimedia-Exceptions|Edge Case 6 The Multimedia Exceptions]]
-- [[Element-operational,-contemporary|Element (operational, contemporary)]]
-- [[Element-Interactivity|Element Interactivity]]
-- *...and 61 more permanent notes*
+
+```dataview
+LIST FROM [[prefrontal-cortex]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

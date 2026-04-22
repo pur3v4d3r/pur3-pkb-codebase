@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "cognitive-biases"
+title: cognitive-biases
 aliases:
-  - "cognitive-biases"
+  - cognitive-biases
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 126
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]"
+  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
+  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # cognitive-biases
 
-> [!definition] **cognitive-biases**
-> *Stub note — concept referenced by 126 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] cognitive-biases
+> - **Key-Term**: [[cognitive-biases]]
+> - **Definition**: Cognitive biases are systematic errors in thinking that affect judgment and decision-making, often due to mental shortcuts (heuristics) that can lead to inaccurate perceptions of reality.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 126 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Cognitive biases arise from the brain's tendency to process information quickly using heuristics, which are mental shortcuts designed to save time and energy. These shortcuts can sometimes result in systematic errors or distortions in thinking, leading to biased judgments and decisions.
 
+> [!analytical-insight] Explanation 2
+> For example, confirmation bias occurs when individuals favor information that confirms their preexisting beliefs while ignoring contradictory evidence. This bias can lead to flawed decision-making processes in various domains, including AI alignment and machine learning, where it is crucial to maintain objectivity and accuracy.
+
+> [!analytical-insight] Explanation 3
+> Key cognitive biases include the availability heuristic (judging likelihood based on how easily examples come to mind), anchoring (relying too heavily on initial information when making decisions), and the representativeness heuristic (assuming that similar events are likely to occur in a similar manner). These biases have deep roots in both evolutionary psychology and modern cognitive science.
+
+## Practical Implications
+
+> [!example] Application
+> In AI alignment, understanding cognitive biases can help designers create more robust systems by anticipating potential errors or misinterpretations of data.
+
+> [!example] Application
+> In machine learning, recognizing these biases is essential for developing fair and unbiased algorithms that do not perpetuate existing social inequalities.
+
+## Connections
+
+**Related:** [[heuristics]] · [[confirmation-bias]] · [[availability-heuristic]]
+
+**See Also (existing):**
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
 - [[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]
-- [[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]
-- [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
-- [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
-- [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]
-- [[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]
-- [[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- *...and 106 more permanent notes*
+
+```dataview
+LIST FROM [[cognitive-biases]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

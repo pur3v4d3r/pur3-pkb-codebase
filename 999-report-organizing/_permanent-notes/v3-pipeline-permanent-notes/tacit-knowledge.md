@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "tacit-knowledge"
+title: tacit-knowledge
 aliases:
-  - "tacit-knowledge"
+  - tacit-knowledge
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 76
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Closing-Reflection|A Closing Reflection]]"
-  - "[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]"
-  - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
-  - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
-  - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]"
-  - "[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]"
-  - "[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]"
-  - "[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]"
-  - "[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]"
+  - '[[A-Closing-Reflection|A Closing Reflection]]'
+  - '[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]'
+  - '[[Activate-What-You-Already-Know|Activate What You Already Know]]'
+  - '[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]'
+  - '[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]'
+  - '[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]'
+  - '[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]'
+  - '[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]'
+  - '[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]'
+  - '[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # tacit-knowledge
 
-> [!definition] **tacit-knowledge**
-> *Stub note — concept referenced by 76 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] tacit-knowledge
+> - **Key-Term**: [[tacit-knowledge]]
+> - **Definition**: Tacit knowledge is personal, non-verbalized knowledge that is difficult to articulate and is acquired through experience rather than explicit instruction.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 76 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Tacit knowledge involves skills, habits, and intuitions that are not easily codified or communicated. It is deeply embedded in the individual's practical abilities and understanding of their environment.
 
+> [!analytical-insight] Explanation 2
+> In practice, tacit knowledge is often developed through prolonged engagement with a task or domain, where practitioners develop an intuitive grasp of what works without necessarily being able to explain why.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the idea that tacit knowledge can be context-dependent and difficult to transfer between individuals. It also includes skills like knowing when to apply certain techniques based on subtle cues.
+
+## Practical Implications
+
+> [!example] Application
+> In education, recognizing tacit knowledge helps in designing curricula that foster experiential learning and mentorship.
+
+> [!example] Application
+> In professional settings, understanding tacit knowledge can aid in knowledge management strategies to capture and transfer this type of expertise.
+
+## Connections
+
+**Related:** [[Explicit-knowledge]] · [[Heuristics]] · [[Experience]]
+
+**See Also (existing):**
 - [[A-Closing-Reflection|A Closing Reflection]]
 - [[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
@@ -73,16 +81,14 @@ importance: high
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
-- [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
-- [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
-- [[Chunking-in-Second-Language-Acquisition]]
-- [[Connection-Expertise-Reversal-Effect-Mechanism|Connection Expertise Reversal Effect Mechanism]]
-- [[Connection-Why-Failure-Modes-are-Inseparable-from-Benefits|Connection Why Failure Modes are Inseparable from Benefits]]
-- [[Cultural-Transmission-as-Inter-Generational-Chunking|Cultural Transmission as Inter-Generational Chunking]]
-- [[Definition-Chunk|Definition Chunk]]
-- [[Definition-Long-Term-Working-Memory|Definition Long-Term Working Memory]]
-- [[Deliberate-Practice-Ericsson,-Krampe-&-Tesch-Römer,-1993|Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993)]]
-- [[Designing-PKB-Notes-as-External-Chunks|Designing PKB Notes as External Chunks]]
-- [[Diagnosing-Whether-an-Activity-Qualifies-as-Deliberate-Practice|Diagnosing Whether an Activity Qualifies as Deliberate Practice]]
-- [[Distinction-Template-vs.-Chunk|Distinction Template vs. Chunk]]
-- *...and 56 more permanent notes*
+
+```dataview
+LIST FROM [[tacit-knowledge]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

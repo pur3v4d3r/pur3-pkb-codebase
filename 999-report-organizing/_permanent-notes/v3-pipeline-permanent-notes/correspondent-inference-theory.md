@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "correspondent-inference-theory"
+title: correspondent-inference-theory
 aliases:
-  - "correspondent-inference-theory"
+  - correspondent-inference-theory
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 90
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
-  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
-  - "[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]"
-  - "[[Attributional-Processes-in-Intergroup-Relations]]"
-  - "[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]"
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
+  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
+  - '[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]'
+  - '[[Attributional-Processes-in-Intergroup-Relations]]'
+  - '[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # correspondent-inference-theory
 
-> [!definition] **correspondent-inference-theory**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] correspondent-inference-theory
+> - **Key-Term**: [[correspondent-inference-theory]]
+> - **Definition**: Correspondent inference theory is a psychological concept that explains how people make attributions about the causes of others' behavior, assuming those behaviors are caused by stable dispositions rather than situational factors.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 90 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> This theory posits that individuals tend to attribute others' actions to their underlying personality traits or internal states, rather than external circumstances. For example, if someone helps a stranger, we might infer they have a helpful nature, not just that the situation was conducive to helping.
 
+> [!analytical-insight] Explanation 2
+> The process involves making inferences about another person's mental state based on observed behavior, often leading to over-attribution of dispositional causes and under-attribution of situational ones. This can lead to stereotyping or biased perceptions of others.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the role of context and the tendency for people to make more dispositional attributions when they have limited information about a person's situation.
+
+## Practical Implications
+
+> [!example] Application
+> In social interactions, understanding correspondent inference theory helps in managing first impressions and avoiding quick judgments based on limited data.
+
+> [!example] Application
+> In therapeutic settings, recognizing this bias can aid in addressing attributional styles that may contribute to mental health issues like depression or anxiety.
+
+## Connections
+
+**Related:** [[Attribution Theory]] · [[Fundamental Attribution Error]] · [[Actor-Observer Bias]]
+
+**See Also (existing):**
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
 - [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
 - [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- [[Controllability-Dimension-Weiner,-1979,-1985|Controllability Dimension (Weiner, 1979, 1985)]]
-- [[Controllability-and-the-Politics-of-Compassion|Controllability and the Politics of Compassion]]
-- [[Cross-Cultural-Thought-Experiment|Cross-Cultural Thought Experiment]]
-- [[Definition-Causal-Attribution|Definition Causal Attribution]]
-- [[Definition-Fundamental-Attribution-Error|Definition Fundamental Attribution Error]]
-- [[Distinction-Locus-of-Causality-vs.-Locus-of-Control|Distinction Locus of Causality vs. Locus of Control]]
-- [[Distinction-Outcome-Dependent-vs.-Attribution-Dependent-Emotions|Distinction Outcome-Dependent vs. Attribution-Dependent Emotions]]
-- *...and 70 more permanent notes*
+
+```dataview
+LIST FROM [[correspondent-inference-theory]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

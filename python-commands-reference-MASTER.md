@@ -631,14 +631,14 @@ python 99-scripts/wikipedia_downloader.py "Mercury (planet)"           # disambi
 ### From a Full URL
 
 ```bash
-python 99-scripts/wikipedia_downloader.py --url https://en.wikipedia.org/wiki/Stoicism
+python 99-scripts/wikipedia_downloader.py --url https://en.wikipedia.org/wiki/Cognitive_load --output D:\02-reference\wikipedia
 python 99-scripts/wikipedia_downloader.py --url https://en.wikipedia.org/wiki/Quantum_entanglement
 ```
 
 ### Choose Output Folder
 
 ```bash
-python 99-scripts/wikipedia_downloader.py "Logic" --output 04-library/wikipedia
+python 99-scripts/wikipedia_downloader.py "[(https://en.wikipedia.org/wiki/Cognitive_load)](https://en.wikipedia.org/wiki/Cognitive_load)" --output D:\02-reference\wikipedia
 python 99-scripts/wikipedia_downloader.py "Plato" --output 03-notes/philosophy
 python 99-scripts/wikipedia_downloader.py "React (software)" --output 999-codebase+pkb/refs
 ```

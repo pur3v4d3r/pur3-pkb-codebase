@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Pandas"
+title: Pandas
 aliases:
-  - "Pandas"
+  - Pandas
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 70
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Abstract]]"
-  - "[[Annotation-Confidence-25|Annotation Confidence 25]]"
-  - "[[Annotation-Confidence-35|Annotation Confidence 35]]"
-  - "[[Annotation-Confidence-45|Annotation Confidence 45]]"
-  - "[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]"
-  - "[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]"
-  - "[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]"
-  - "[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]"
-  - "[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]"
-  - "[[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]"
+  - '[[Abstract]]'
+  - '[[Annotation-Confidence-25|Annotation Confidence 25]]'
+  - '[[Annotation-Confidence-35|Annotation Confidence 35]]'
+  - '[[Annotation-Confidence-45|Annotation Confidence 45]]'
+  - '[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]'
+  - '[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]'
+  - '[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]'
+  - '[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]'
+  - '[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]'
+  - '[[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Pandas
 
-> [!definition] **Pandas**
-> *Stub note — concept referenced by 70 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Pandas
+> - **Key-Term**: [[Pandas]]
+> - **Definition**: Pandas is a software library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 70 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Pandas offers data structures like DataFrame and Series that allow efficient manipulation of numerical tables and time series. It supports operations such as filtering, aggregation, merging, and reshaping of data.
 
+> [!analytical-insight] Explanation 2
+> It works by leveraging NumPy arrays under the hood for fast computation and provides a user-friendly interface with intuitive syntax. Pandas is widely used in data analysis, machine learning, and statistical computing.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include its ability to handle missing data gracefully and its extensive set of functions for data manipulation and transformation.
+
+## Practical Implications
+
+> [!example] Application
+> Pandas enables efficient data preprocessing and exploration, which are crucial steps in the data science pipeline. It simplifies tasks such as cleaning datasets and preparing them for machine learning models.
+
+> [!example] Application
+> It is integral to many data analysis workflows, making it a foundational tool for data scientists and analysts.
+
+## Connections
+
+**Related:** [[NumPy]] · [[SciPy]] · [[Matplotlib]] · [[Seaborn]]
+
+**See Also (existing):**
 - [[Abstract]]
 - [[Annotation-Confidence-25|Annotation Confidence 25]]
 - [[Annotation-Confidence-35|Annotation Confidence 35]]
@@ -73,16 +81,14 @@ importance: high
 - [[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]
 - [[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]
 - [[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]
-- [[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]
-- [[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]
-- [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
-- [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
-- [[Breakpoint]]
-- [[Cargo-Cult-Coding|Cargo-Cult Coding]]
-- [[Claim-2-Virtual-Environments-as-the-Critical-Operational-Concept|Claim 2 Virtual Environments as the Critical Operational Concept]]
-- [[Claim-3-Debugging-as-the-Primary-Site-of-Model-Formation|Claim 3 Debugging as the Primary Site of Model Formation]]
-- [[Claim-4-Copilot-Reverses-the-Traditional-Programming-Learning-Trajectory|Claim 4 Copilot Reverses the Traditional Programming Learning Trajectory]]
-- [[Claim-5-Project-Organization-as-Externalized-Cognitive-Architecture|Claim 5 Project Organization as Externalized Cognitive Architecture]]
-- [[Claim-6-Copilot-Bridges-the-Intent-Implementation-Gap-for-Domain-Specific-Tasks|Claim 6 Copilot Bridges the Intent-Implementation Gap for Domain-Specific Tasks]]
-- [[Claude's-Analytical-Perspective-Shifts-During-Analysis|Claude's Analytical Perspective Shifts During Analysis]]
-- *...and 50 more permanent notes*
+
+```dataview
+LIST FROM [[Pandas]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

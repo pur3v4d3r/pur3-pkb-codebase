@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "learning-environment"
+title: learning-environment
 aliases:
-  - "learning-environment"
+  - learning-environment
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - educational-psychology
 
 domain: educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 72
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
-  - "[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]"
-  - "[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]"
-  - "[[Control-Move-Selection|Control Move Selection]]"
-  - "[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]"
-  - "[[Control-Phase-Pintrich|Control Phase (Pintrich)]]"
-  - "[[Control-Repertoire-in-Action|Control Repertoire in Action]]"
-  - "[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]"
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+  - '[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]'
+  - '[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]'
+  - '[[Control-Move-Selection|Control Move Selection]]'
+  - '[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]'
+  - '[[Control-Phase-Pintrich|Control Phase (Pintrich)]]'
+  - '[[Control-Repertoire-in-Action|Control Repertoire in Action]]'
+  - '[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # learning-environment
 
-> [!definition] **learning-environment**
-> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] learning-environment
+> - **Key-Term**: [[learning-environment]]
+> - **Definition**: A learning environment is the context within which learners engage with educational materials and activities, encompassing physical space, technological tools, social interactions, and pedagogical strategies that facilitate learning processes.
+> - **Domain**: educational-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 72 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The concept of a learning environment is foundational in educational psychology as it encompasses all elements that influence how students learn. It includes the physical setting (e.g., classroom layout), digital resources (e.g., software, online platforms), and social dynamics among peers and teachers.
 
+> [!analytical-insight] Explanation 2
+> In practice, a well-designed learning environment supports various teaching methods such as collaborative learning, inquiry-based instruction, and personalized learning paths. For instance, adaptive help-seeking skills can be fostered in environments that encourage students to ask questions and seek assistance when needed.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the role of metacognitive monitoring, where learners assess their own understanding and adjust their strategies accordingly. Theoretical roots trace back to constructivist theories emphasizing active construction of knowledge through experience.
+
+## Practical Implications
+
+> [!example] Application
+> In a learning environment that promotes adaptive help-seeking, students are more likely to develop effective problem-solving skills by actively seeking out resources and guidance.
+
+> [!example] Application
+> A supportive physical space can enhance engagement and motivation, leading to better academic outcomes. For example, flexible seating arrangements can accommodate different learning styles and promote collaboration.
+
+## Connections
+
+**Related:** [[Activating-Prior-Knowledge]] · [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]] · [[Calibration-Metacognitive]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Control-Move-Selection|Control Move Selection]]
 - [[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]
 - [[Control-Phase-Pintrich|Control Phase (Pintrich)]]
-- [[Control-Repertoire-in-Action|Control Repertoire in Action]]
-- [[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]
-- [[Externalized-Metacognition-and-Personal-Knowledge-Bases]]
-- [[Forethought-Failure-and-Its-Downstream-Consequences|Forethought Failure and Its Downstream Consequences]]
-- [[Forethought-Phase-Pintrich|Forethought Phase (Pintrich)]]
-- [[Forethought-as-Regulatory-Front-Loading|Forethought as Regulatory Front-Loading]]
-- [[High-Priority-Expansion-Topics|High-Priority Expansion Topics]]
-- [[Mastery-vs.-Performance-Goal-Orientation-Ames,-Dweck,-integrated-into-Pintrich|Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich)]]
-- [[Methodology,-Claim-Taxonomy,-and-Generation-Transparency|Methodology, Claim Taxonomy, and Generation Transparency]]
-- [[Monitoring-Phase-Pintrich|Monitoring Phase (Pintrich)]]
-- [[Monitoring-Vocabulary-Audit|Monitoring Vocabulary Audit]]
-- [[Monitoring-as-Vocabulary-Dependent-Signal-Generation|Monitoring as Vocabulary-Dependent Signal Generation]]
-- *...and 52 more permanent notes*
+
+```dataview
+LIST FROM [[learning-environment]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "motivation-theory"
+title: motivation-theory
 aliases:
-  - "motivation-theory"
+  - motivation-theory
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - educational-psychology
 
 domain: educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 90
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
-  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
-  - "[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]"
-  - "[[Attributional-Processes-in-Intergroup-Relations]]"
-  - "[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]"
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
+  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
+  - '[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]'
+  - '[[Attributional-Processes-in-Intergroup-Relations]]'
+  - '[[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # motivation-theory
 
-> [!definition] **motivation-theory**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] motivation-theory
+> - **Key-Term**: [[motivation-theory]]
+> - **Definition**: Motivation-theory refers to the study of what drives and sustains human behavior, particularly in educational settings, focusing on how internal and external factors influence learning and performance.
+> - **Domain**: educational-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 90 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Motivation-theory is a fundamental aspect of educational psychology that explores why individuals engage in certain behaviors and persist with tasks. It encompasses both intrinsic (internal) and extrinsic (external) motivators such as interest, curiosity, rewards, and recognition.
 
+> [!analytical-insight] Explanation 2
+> In practice, motivation-theory informs strategies for enhancing student engagement and academic performance by understanding and addressing the underlying psychological needs of learners. For instance, teachers can use praise, autonomy support, and goal setting to boost intrinsic motivation.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between different types of motivation (e.g., achievement vs. mastery), the role of self-efficacy beliefs, and how attributions influence future behavior.
+
+## Practical Implications
+
+> [!example] Application
+> Understanding student motivation can lead to more effective teaching strategies that enhance engagement and learning outcomes.
+
+> [!example] Application
+> Educators can design curricula and assessments that align with students' intrinsic motivations, such as providing opportunities for choice and relevance in the material.
+
+## Connections
+
+**Related:** [[Self-Determination-Theory]] · [[Goal-Setting-Theory]] · [[Attribution-Theory]]
+
+**See Also (existing):**
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
 - [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
 - [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- [[Controllability-Dimension-Weiner,-1979,-1985|Controllability Dimension (Weiner, 1979, 1985)]]
-- [[Controllability-and-the-Politics-of-Compassion|Controllability and the Politics of Compassion]]
-- [[Cross-Cultural-Thought-Experiment|Cross-Cultural Thought Experiment]]
-- [[Definition-Causal-Attribution|Definition Causal Attribution]]
-- [[Definition-Fundamental-Attribution-Error|Definition Fundamental Attribution Error]]
-- [[Distinction-Locus-of-Causality-vs.-Locus-of-Control|Distinction Locus of Causality vs. Locus of Control]]
-- [[Distinction-Outcome-Dependent-vs.-Attribution-Dependent-Emotions|Distinction Outcome-Dependent vs. Attribution-Dependent Emotions]]
-- *...and 70 more permanent notes*
+
+```dataview
+LIST FROM [[motivation-theory]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

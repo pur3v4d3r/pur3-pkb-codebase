@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "reflective-thinking"
+title: reflective-thinking
 aliases:
-  - "reflective-thinking"
+  - reflective-thinking
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
-  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
-  - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
-  - "[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]"
-  - "[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]"
-  - "[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]"
-  - "[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]"
-  - "[[Connection-SDT-and-SDL|Connection SDT and SDL]]"
-  - "[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]"
+  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
+  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
+  - '[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]'
+  - '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
+  - '[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]'
+  - '[[Connection-SDT-and-SDL|Connection SDT and SDL]]'
+  - '[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]'
   - "[[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # reflective-thinking
 
-> [!definition] **reflective-thinking**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] reflective-thinking
+> - **Key-Term**: [[reflective-thinking]]
+> - **Definition**: Reflective thinking is a process of introspection and analysis that involves critically examining one's own thoughts, actions, and experiences to gain deeper understanding and improve future performance.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Reflective thinking is a fundamental component of self-directed learning (SDL) and is closely tied to the concept of metacognition. It allows individuals to step back from their immediate experiences and analyze them in a structured manner, often through written or verbal reflection.
 
+> [!analytical-insight] Explanation 2
+> In practice, reflective thinking can be applied in various settings such as education, professional development, and personal growth. For instance, medical students might reflect on patient interactions to improve clinical skills, while educators use it to refine teaching methods based on student feedback.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between reflective thinking and reflexive thinking, where the former involves deeper analysis and self-examination, whereas the latter is more automatic and less deliberate.
+
+## Practical Implications
+
+> [!example] Application
+> In education, reflective thinking can enhance learning outcomes by helping students connect new information with existing knowledge, leading to better retention and application of concepts.
+
+> [!example] Application
+> Professionals in various fields use reflective thinking to continuously improve their skills and adapt to changing environments. For example, lawyers might reflect on past cases to refine their argument strategies.
+
+## Connections
+
+**Related:** [[metacognition]] · [[self-directed-learning]] · [[clinical-education]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
@@ -73,16 +81,14 @@ importance: high
 - [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
 - [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
 - [[Connection-SDT-and-SDL|Connection SDT and SDL]]
-- [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
-- [[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]
-- [[Definition-Heutagogy|Definition Heutagogy]]
-- [[Definition-Self-Directed-Learning|Definition Self-Directed Learning]]
-- [[Directions-for-Further-Investigation|Directions for Further Investigation]]
-- [[Distinction-SDL-vs.-SRL|Distinction SDL vs. SRL]]
-- [[Distinction-Technical-vs.-Critical-Self-Direction|Distinction Technical vs. Critical Self-Direction]]
-- [[Entrepreneurship-Venture-Building-as-Self-Directed-Learning|Entrepreneurship Venture Building as Self-Directed Learning]]
-- [[Garrison's-Comprehensive-Model-of-Self-Directed-Learning-1997|Garrison's Comprehensive Model of Self-Directed Learning (1997)]]
-- [[Grow's-Stage-Diagnostic-Checklist|Grow's Stage Diagnostic Checklist]]
-- [[Grow's-Staged-Self-Directed-Learning-Model-Grow,-1991|Grow's Staged Self-Directed Learning Model (Grow, 1991)]]
-- [[Heutagogy-Hase-&-Kenyon,-2000|Heutagogy (Hase & Kenyon, 2000)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[reflective-thinking]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "ann-brown"
+title: ann-brown
 aliases:
-  - "ann-brown"
+  - ann-brown
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,72 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
-  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
-  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
-  - "[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]"
-  - "[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]"
-  - "[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]"
-  - "[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]"
-  - "[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]"
-  - "[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]"
-  - "[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]"
+  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
+  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
+  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+  - '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]'
+  - '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]'
+  - '[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]'
+  - '[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]'
+  - '[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]'
+  - '[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]'
+  - '[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # ann-brown
 
-> [!definition] **ann-brown**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] ann-brown
+> - **Key-Term**: [[ann-brown]]
+> - **Definition**: Ann Brown is a theoretical framework that emphasizes the role of metacognition and self-regulated learning in educational settings, particularly focusing on how learners can become more effective and autonomous in their learning processes.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The core mechanism of Ann Brown's theory involves the development of strategies for monitoring one's own understanding and adjusting learning behaviors accordingly. This framework is grounded in the belief that metacognitive skills are crucial for successful learning, enabling individuals to reflect on their thinking processes and adapt them as needed.
 
+> [!analytical-insight] Explanation 2
+> In practice, this means that learners are encouraged to engage in activities such as self-assessment, goal-setting, and reflection, which help them become more aware of their own cognitive processes. This approach is often applied in educational settings where students are taught how to think about their learning and how to manage it effectively.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the emphasis on the development of metacognitive strategies that can be generalized across different subjects and contexts, as well as the importance of social interactions in fostering these skills.
+
+## Practical Implications
+
+> [!example] Application
+> In educational settings, teachers can use Ann Brown's framework to design learning activities that promote self-regulated learning, thereby enhancing students' ability to take control of their own learning processes.
+
+> [!example] Application
+> This approach can lead to improved academic performance and a deeper understanding of the material as learners become more adept at managing their cognitive resources.
+
+## Open Threads
+
+> [!open-question] Question
+> There is ongoing debate about the extent to which metacognitive strategies can be generalized across different contexts and whether they are sufficient on their own for promoting effective learning.
+
+## Connections
+
+**Related:** [[Metacognition]] · [[Self-Regulated Learning]] · [[Cognitive-Affective Theory]]
+
+**See Also (existing):**
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
@@ -73,16 +86,14 @@ importance: high
 - [[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]
 - [[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]
 - [[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]
-- [[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]
-- [[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]
-- [[Definition-Meta-Level|Definition Meta-Level]]
-- [[Definition-Monitoring-vs.-Control|Definition Monitoring vs. Control]]
-- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
-- [[Distinction-Fluency-Illusion-vs.-Illusion-of-Knowing|Distinction Fluency Illusion vs. Illusion of Knowing]]
-- [[Distinction-Immediate-vs.-Delayed-JOLs|Distinction Immediate vs. Delayed JOLs]]
-- [[Flavell's-Metacognitive-Taxonomy-Flavell,-1979|Flavell's Metacognitive Taxonomy (Flavell, 1979)]]
-- [[Integration-with-the-Personal-Knowledge-Base|Integration with the Personal Knowledge Base]]
-- [[John-H.-Flavell-b.-1928|John H. Flavell (b. 1928)]]
-- [[Joseph-T.-Hart-1936–|Joseph T. Hart (1936–)]]
-- [[Koriat's-Cue-Utilization-Framework-A-Comprehensive-Treatment|Koriat's Cue-Utilization Framework A Comprehensive Treatment]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[ann-brown]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

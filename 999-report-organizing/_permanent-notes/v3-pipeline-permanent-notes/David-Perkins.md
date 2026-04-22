@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "David-Perkins"
+title: David-Perkins
 aliases:
-  - "David-Perkins"
+  - David-Perkins
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,72 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 72
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
-  - "[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]"
-  - "[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]"
-  - "[[Control-Move-Selection|Control Move Selection]]"
-  - "[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]"
-  - "[[Control-Phase-Pintrich|Control Phase (Pintrich)]]"
-  - "[[Control-Repertoire-in-Action|Control Repertoire in Action]]"
-  - "[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]"
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+  - '[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]'
+  - '[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]'
+  - '[[Control-Move-Selection|Control Move Selection]]'
+  - '[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]'
+  - '[[Control-Phase-Pintrich|Control Phase (Pintrich)]]'
+  - '[[Control-Repertoire-in-Action|Control Repertoire in Action]]'
+  - '[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # David-Perkins
 
-> [!definition] **David-Perkins**
-> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] David-Perkins
+> - **Key-Term**: [[David-Perkins]]
+> - **Definition**: David Perkins is an educational psychologist known for his work on learning and problem-solving, particularly the role of metacognition and adaptive help-seeking in education.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 72 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> In foundational context, David Perkins emphasizes the importance of students' ability to think about their own thinking (metacognition) and seek appropriate assistance when needed (adaptive help-seeking). These skills are crucial for effective learning and problem-solving.
 
+> [!analytical-insight] Explanation 2
+> These mechanisms work by enabling learners to monitor their understanding, recognize when they need additional support, and strategically seek out resources or guidance. This process enhances the quality of learning experiences and improves overall academic performance.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the idea that metacognitive monitoring is not always accurate (calibration), leading to common misconceptions such as overconfidence in one's abilities.
+
+## Practical Implications
+
+> [!example] Application
+> In practical terms, educators can use Perkins' theories to design instructional strategies that promote metacognition and adaptive help-seeking. For example, teachers might encourage students to reflect on their learning processes and provide opportunities for collaborative problem-solving.
+
+> [!example] Application
+> Another implication is the importance of teaching students how to calibrate their understanding accurately, which can be done through activities like self-assessment and peer review.
+
+## Open Threads
+
+> [!open-question] Question
+> The challenge of accurately calibrating one's understanding remains a significant tension in educational psychology.
+
+## Connections
+
+**Related:** [[Metacognition]] · [[Adaptive Help-Seeking]] · [[Calibration of Metacognitive Monitoring]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
@@ -73,16 +86,14 @@ importance: high
 - [[Control-Move-Selection|Control Move Selection]]
 - [[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]
 - [[Control-Phase-Pintrich|Control Phase (Pintrich)]]
-- [[Control-Repertoire-in-Action|Control Repertoire in Action]]
-- [[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]
-- [[Externalized-Metacognition-and-Personal-Knowledge-Bases]]
-- [[Forethought-Failure-and-Its-Downstream-Consequences|Forethought Failure and Its Downstream Consequences]]
-- [[Forethought-Phase-Pintrich|Forethought Phase (Pintrich)]]
-- [[Forethought-as-Regulatory-Front-Loading|Forethought as Regulatory Front-Loading]]
-- [[High-Priority-Expansion-Topics|High-Priority Expansion Topics]]
-- [[Mastery-vs.-Performance-Goal-Orientation-Ames,-Dweck,-integrated-into-Pintrich|Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich)]]
-- [[Methodology,-Claim-Taxonomy,-and-Generation-Transparency|Methodology, Claim Taxonomy, and Generation Transparency]]
-- [[Monitoring-Phase-Pintrich|Monitoring Phase (Pintrich)]]
-- [[Monitoring-Vocabulary-Audit|Monitoring Vocabulary Audit]]
-- [[Monitoring-as-Vocabulary-Dependent-Signal-Generation|Monitoring as Vocabulary-Dependent Signal Generation]]
-- *...and 52 more permanent notes*
+
+```dataview
+LIST FROM [[David-Perkins]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

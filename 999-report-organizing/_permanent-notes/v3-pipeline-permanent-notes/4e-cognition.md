@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "4e-cognition"
+title: 4e-cognition
 aliases:
-  - "4e-cognition"
+  - 4e-cognition
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,28 +12,16 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 81
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Abstract]]"
-  - "[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]"
-  - "[[Central-claim-of-this-level|Central claim of this level]]"
-  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
+  - '[[Abstract]]'
+  - '[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]'
+  - '[[Central-claim-of-this-level|Central claim of this level]]'
+  - '[[Chunk (Miller, 1956; Chase & Simon, 1973)]]'
   - "[[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]"
   - "[[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]"
   - "[[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]"
@@ -52,19 +33,51 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # 4e-cognition
 
-> [!definition] **4e-cognition**
-> *Stub note — concept referenced by 81 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] 4e-cognition
+> - **Key-Term**: [[4e-cognition]]
+> - **Definition**: 4e-cognition refers to the idea that cognitive processes are not solely internal but also involve external resources and tools, enhancing our ability to think and solve problems effectively.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 81 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> 4e-cognition posits that cognition is extended beyond the brain, incorporating external artifacts such as pen and paper, computers, or even social interactions. This framework emphasizes how these external elements can serve as extensions of our minds, facilitating complex thought processes.
 
+> [!analytical-insight] Explanation 2
+> In practice, this means that when we use a calculator to perform arithmetic operations, write down ideas to organize thoughts, or collaborate with others to solve problems, we are leveraging 4e-cognition. These tools and interactions extend the boundaries of our cognitive capabilities, allowing us to handle information more efficiently and effectively.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between different types of external resources—some may be more biologically primary (like writing) while others might be more abstract (like computer simulations). The theory also explores how these extensions can lead to reorganization of mental processes.
+
+## Practical Implications
+
+> [!example] Application
+> In education, understanding 4e-cognition can inform the design of learning environments that incorporate tools and resources to enhance students' cognitive abilities.
+
+> [!example] Application
+> In technology development, recognizing the role of external tools in cognition can guide the creation of more intuitive interfaces and applications that better support human thought processes.
+
+## Open Threads
+
+> [!open-question] Question
+> The extent to which external tools can truly extend cognition versus merely facilitating it remains a topic of debate.
+
+## Connections
+
+**Related:** [[Biologically-Primary-Knowledge]] · [[Chunk (Miller, 1956; Chase & Simon, 1973)]] · [[Central-claim-of-this-level]]
+
+**See Also (existing):**
 - [[Abstract]]
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[Central-claim-of-this-level|Central claim of this level]]
@@ -73,16 +86,14 @@ importance: high
 - [[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]
 - [[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]
 - [[Claude's-perspective-on-the-reorganization|Claude's perspective on the reorganization]]
-- [[Claude's-perspective-on-the-speculative-horizon|Claude's perspective on the speculative horizon]]
-- [[Claude's-perspective-on-the-substructure|Claude's perspective on the substructure]]
-- [[Claude's-perspective-on-the-surface-picture|Claude's perspective on the surface picture]]
-- [[Domain-of-Validity-of-the-Standard-Account|Domain of Validity of the Standard Account]]
-- [[Edge-Case-1-Biologically-Primary-Knowledge|Edge Case 1 Biologically Primary Knowledge]]
-- [[Edge-Case-2-The-Expertise-Reversal-Effect|Edge Case 2 The Expertise Reversal Effect]]
-- [[Edge-Case-3-The-Germane-Cognitive-Load-Reformulation|Edge Case 3 The Germane Cognitive Load Reformulation]]
-- [[Edge-Case-4-The-Isolated-Elements-Effect|Edge Case 4 The Isolated Elements Effect]]
-- [[Edge-Case-5-Productive-Failure|Edge Case 5 Productive Failure]]
-- [[Edge-Case-6-The-Multimedia-Exceptions|Edge Case 6 The Multimedia Exceptions]]
-- [[Element-operational,-contemporary|Element (operational, contemporary)]]
-- [[Element-Interactivity|Element Interactivity]]
-- *...and 61 more permanent notes*
+
+```dataview
+LIST FROM [[4e-cognition]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

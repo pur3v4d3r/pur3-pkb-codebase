@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "epistemic-humility"
+title: epistemic-humility
 aliases:
-  - "epistemic-humility"
+  - epistemic-humility
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - philosophy
 
 domain: philosophy
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 147
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
+  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
-  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
-  - "[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]"
+  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
+  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
+  - '[[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # epistemic-humility
 
-> [!definition] **epistemic-humility**
-> *Stub note — concept referenced by 147 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] epistemic-humility
+> - **Key-Term**: [[epistemic-humility]]
+> - **Definition**: Epistemic humility is the recognition and acknowledgment of one's own limitations in knowledge and understanding, particularly within the context of epistemology, the study of knowledge and belief.
+> - **Domain**: philosophy
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 147 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Epistemic humility involves a critical awareness that no individual can possess all knowledge or fully understand every aspect of reality. This concept is foundational in promoting open-mindedness and intellectual modesty, which are crucial for engaging with complex problems and fostering genuine dialogue and learning.
 
+> [!analytical-insight] Explanation 2
+> In practice, epistemic humility manifests as the willingness to question one's own beliefs, seek out alternative perspectives, and acknowledge when one lacks sufficient information or expertise to make a definitive judgment. This attitude is particularly important in fields such as science, philosophy, and education where continuous learning and adaptation are essential.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between epistemic humility and intellectual arrogance or skepticism. While humility involves recognizing limits, it does not equate to dismissing valid knowledge claims outright; rather, it encourages a balanced approach that values both confidence in one's knowledge and openness to new information.
+
+## Practical Implications
+
+> [!example] Application
+> In education, fostering epistemic humility can lead to more effective learning environments where students are encouraged to critically evaluate their own understanding and engage constructively with peers.
+
+> [!example] Application
+> In scientific research, acknowledging the limits of current knowledge can drive innovation by prompting researchers to explore new avenues of inquiry and collaborate across disciplines.
+
+## Connections
+
+**Related:** [[cognitive-dissonance]] · [[intellectual-modesty]] · [[open-mindedness]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]
 - [[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
-- [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
-- [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
-- [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
-- *...and 127 more permanent notes*
+
+```dataview
+LIST FROM [[epistemic-humility]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "john-h.-flavell"
+title: john-h.-flavell
 aliases:
-  - "john-h.-flavell"
+  - john-h.-flavell
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
-  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
-  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
-  - "[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]"
-  - "[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]"
-  - "[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]"
-  - "[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]"
-  - "[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]"
-  - "[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]"
-  - "[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]"
+  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
+  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
+  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+  - '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]'
+  - '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]'
+  - '[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]'
+  - '[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]'
+  - '[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]'
+  - '[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]'
+  - '[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # john-h.-flavell
 
-> [!definition] **john-h.-flavell**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] john-h.-flavell
+> - **Key-Term**: [[john-h.-flavell]]
+> - **Definition**: John H. Flavell is an American developmental psychologist known for his work on metacognition, particularly the awareness and understanding of one's own cognitive processes.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Flavell introduced the concept of metacognition in the 1970s, defining it as 'one’s knowledge concerning one’s own cognitive processes and products or anything related to them, e.g., the planfulness of one’s thoughts.' This includes awareness of one's thought processes, strategies for problem-solving, and monitoring of learning.
 
+> [!analytical-insight] Explanation 2
+> In practice, Flavell's work has been influential in understanding how children develop metacognitive skills. His research has shown that these skills are not innate but develop over time through experience and instruction.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between procedural and declarative knowledge within metacognition, where procedural knowledge involves knowing 'how' to do something, while declarative knowledge involves knowing 'what' one is doing.
+
+## Practical Implications
+
+> [!example] Application
+> In education, Flavell's work has led to the development of teaching strategies that explicitly teach students about their own thinking processes, helping them become more effective learners.
+
+> [!example] Application
+> In clinical settings, understanding metacognition can aid in diagnosing and treating cognitive disorders by providing insights into how patients process information.
+
+## Connections
+
+**Related:** [[Metacognition]] · [[Self-Regulated Learning]] · [[Cognitive Development]]
+
+**See Also (existing):**
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]
 - [[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]
 - [[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]
-- [[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]
-- [[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]
-- [[Definition-Meta-Level|Definition Meta-Level]]
-- [[Definition-Monitoring-vs.-Control|Definition Monitoring vs. Control]]
-- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
-- [[Distinction-Fluency-Illusion-vs.-Illusion-of-Knowing|Distinction Fluency Illusion vs. Illusion of Knowing]]
-- [[Distinction-Immediate-vs.-Delayed-JOLs|Distinction Immediate vs. Delayed JOLs]]
-- [[Flavell's-Metacognitive-Taxonomy-Flavell,-1979|Flavell's Metacognitive Taxonomy (Flavell, 1979)]]
-- [[Integration-with-the-Personal-Knowledge-Base|Integration with the Personal Knowledge Base]]
-- [[John-H.-Flavell-b.-1928|John H. Flavell (b. 1928)]]
-- [[Joseph-T.-Hart-1936–|Joseph T. Hart (1936–)]]
-- [[Koriat's-Cue-Utilization-Framework-A-Comprehensive-Treatment|Koriat's Cue-Utilization Framework A Comprehensive Treatment]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[john-h.-flavell]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Pattern-Recognition"
+title: Pattern-Recognition
 aliases:
-  - "Pattern-Recognition"
+  - Pattern-Recognition
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 76
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Closing-Reflection|A Closing Reflection]]"
-  - "[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]"
-  - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
-  - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
-  - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]"
-  - "[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]"
-  - "[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]"
-  - "[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]"
-  - "[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]"
+  - '[[A-Closing-Reflection|A Closing Reflection]]'
+  - '[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]'
+  - '[[Activate-What-You-Already-Know|Activate What You Already Know]]'
+  - '[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]'
+  - '[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]'
+  - '[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]'
+  - '[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]'
+  - '[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]'
+  - '[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]'
+  - '[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Pattern-Recognition
 
-> [!definition] **Pattern-Recognition**
-> *Stub note — concept referenced by 76 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Pattern-Recognition
+> - **Key-Term**: [[Pattern-Recognition]]
+> - **Definition**: Pattern recognition is the process of identifying patterns within data, which can be numerical, visual, or logical, and using these patterns to make predictions or decisions.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 76 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Pattern recognition involves the ability to detect regularities in information that can be used for classification, prediction, and decision-making. It is a fundamental aspect of human cognition and is also crucial in machine learning and artificial intelligence.
 
+> [!analytical-insight] Explanation 2
+> In practice, pattern recognition algorithms analyze data by extracting features and comparing them against known patterns or models. This process can involve statistical methods, neural networks, or other computational techniques to identify meaningful structures within the data.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between supervised and unsupervised learning, where supervised learning requires labeled data for training, while unsupervised learning identifies patterns without such guidance.
+
+## Practical Implications
+
+> [!example] Application
+> In cognitive psychology, understanding pattern recognition helps in developing educational strategies that enhance learning by leveraging students' ability to recognize and apply patterns.
+
+> [!example] Application
+> In machine learning, effective pattern recognition is essential for improving the accuracy of predictive models used in fields like finance, healthcare, and cybersecurity.
+
+## Connections
+
+**Related:** [[Machine-Learning]] · [[Neural-Networks]] · [[Feature-Extraction]]
+
+**See Also (existing):**
 - [[A-Closing-Reflection|A Closing Reflection]]
 - [[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
@@ -73,16 +81,14 @@ importance: high
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
-- [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
-- [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
-- [[Chunking-in-Second-Language-Acquisition]]
-- [[Connection-Expertise-Reversal-Effect-Mechanism|Connection Expertise Reversal Effect Mechanism]]
-- [[Connection-Why-Failure-Modes-are-Inseparable-from-Benefits|Connection Why Failure Modes are Inseparable from Benefits]]
-- [[Cultural-Transmission-as-Inter-Generational-Chunking|Cultural Transmission as Inter-Generational Chunking]]
-- [[Definition-Chunk|Definition Chunk]]
-- [[Definition-Long-Term-Working-Memory|Definition Long-Term Working Memory]]
-- [[Deliberate-Practice-Ericsson,-Krampe-&-Tesch-Römer,-1993|Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993)]]
-- [[Designing-PKB-Notes-as-External-Chunks|Designing PKB Notes as External Chunks]]
-- [[Diagnosing-Whether-an-Activity-Qualifies-as-Deliberate-Practice|Diagnosing Whether an Activity Qualifies as Deliberate Practice]]
-- [[Distinction-Template-vs.-Chunk|Distinction Template vs. Chunk]]
-- *...and 56 more permanent notes*
+
+```dataview
+LIST FROM [[Pattern-Recognition]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

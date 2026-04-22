@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "metacognitive-monitoring"
+title: metacognitive-monitoring
 aliases:
-  - "metacognitive-monitoring"
+  - metacognitive-monitoring
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 413
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
-  - "[[AI-Assisted-Reading-Risks-and-Safeguards]]"
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]"
-  - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
-  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
-  - "[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]"
-  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
-  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
+  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+  - '[[AI-Assisted-Reading-Risks-and-Safeguards]]'
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+  - '[[Activating-Prior-Knowledge-for-This-Report|Activating Prior Knowledge for This Report]]'
+  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
+  - '[[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]'
+  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
+  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # metacognitive-monitoring
 
-> [!definition] **metacognitive-monitoring**
-> *Stub note — concept referenced by 413 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] metacognitive-monitoring
+> - **Key-Term**: [[metacognitive-monitoring]]
+> - **Definition**: Metacognitive monitoring refers to the process of actively observing and evaluating one's own cognitive processes, particularly during learning activities, in order to ensure that understanding is being achieved effectively.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 413 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Metacognitive monitoring involves recognizing when comprehension or problem-solving strategies are not working as intended, and then adjusting them accordingly. This includes assessing the effectiveness of different approaches and making informed decisions about how to proceed based on this assessment.
 
+> [!analytical-insight] Explanation 2
+> In practice, metacognitive monitoring can be seen in students who pause during reading to check if they understand a concept, or in learners who reflect on their problem-solving methods after completing a task to determine what worked well and what could be improved.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between forethought (planning) and control processes, where metacognitive monitoring is more closely associated with the latter. It also involves self-regulation strategies such as setting goals, evaluating progress, and adjusting actions based on feedback.
+
+## Practical Implications
+
+> [!example] Application
+> In education, fostering metacognitive monitoring can lead to improved learning outcomes by encouraging students to take an active role in their own learning processes.
+
+> [!example] Application
+> In professional settings, individuals who engage in metacognitive monitoring are better equipped to solve complex problems and adapt their strategies as needed.
+
+## Connections
+
+**Related:** [[Self-regulated-learning]] · [[Cognitive-strategy-use]] · [[Working-memory]]
+
+**See Also (existing):**
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
 - [[AI-Assisted-Reading-Risks-and-Safeguards]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
@@ -73,16 +81,14 @@ importance: high
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Application-Why-Self-Explanation-Works|Application Why Self-Explanation Works]]
-- [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
-- [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
-- [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
-- [[Assessment-for-Autonomy|Assessment for Autonomy]]
-- [[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]
-- [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
-- [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
-- [[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]
-- [[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]
-- [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
-- [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
-- [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- *...and 393 more permanent notes*
+
+```dataview
+LIST FROM [[metacognitive-monitoring]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

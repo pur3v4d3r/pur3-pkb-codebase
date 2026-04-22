@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "critical-thinking"
+title: critical-thinking
 aliases:
-  - "critical-thinking"
+  - critical-thinking
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,70 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
-  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
-  - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
-  - "[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]"
-  - "[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]"
-  - "[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]"
-  - "[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]"
-  - "[[Connection-SDT-and-SDL|Connection SDT and SDL]]"
-  - "[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]"
+  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
+  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
+  - '[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]'
+  - '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
+  - '[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]'
+  - '[[Connection-SDT-and-SDL|Connection SDT and SDL]]'
+  - '[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]'
   - "[[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # critical-thinking
 
-> [!definition] **critical-thinking**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] critical-thinking
+> - **Key-Term**: [[critical-thinking]]
+> - **Definition**: Critical thinking is the objective analysis of facts to form a judgment, involving the systematic identification of assumptions and evaluation of evidence.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Critical thinking involves the ability to analyze information objectively and make sound judgments based on logic and reason. It encompasses skills such as problem-solving, reasoning, and decision-making, which are essential for effective communication and lifelong learning.
 
+> [!analytical-insight] Explanation 2
+> In practice, critical thinking is applied in various fields including education, medicine, law, and business, where individuals must evaluate complex situations and make informed decisions. For instance, medical students use critical thinking to diagnose patients by evaluating symptoms and test results, while educators apply it to assess the effectiveness of teaching methods and student learning outcomes.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include distinguishing between critical thinking and mere skepticism or cynicism. Critical thinkers are open-minded and willing to consider multiple perspectives before forming a judgment. Sub-variants include analytical reasoning, creative problem-solving, and ethical reasoning.
+
+## Practical Implications
+
+> [!example] Application
+> In education, fostering critical thinking can lead to better academic performance and the development of lifelong learning skills.
+
+> [!example] Application
+> In professional settings, critical thinking enhances decision-making abilities and improves overall job performance.
+
+> [!example] Application
+> A cautionary note is that over-reliance on critical thinking without empathy or emotional intelligence can sometimes lead to a lack of collaboration and understanding.
+
+## Connections
+
+**Related:** [[metacognition]] · [[problem-solving]] · [[reasoning]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
@@ -73,16 +84,14 @@ importance: high
 - [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
 - [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
 - [[Connection-SDT-and-SDL|Connection SDT and SDL]]
-- [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
-- [[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]
-- [[Definition-Heutagogy|Definition Heutagogy]]
-- [[Definition-Self-Directed-Learning|Definition Self-Directed Learning]]
-- [[Directions-for-Further-Investigation|Directions for Further Investigation]]
-- [[Distinction-SDL-vs.-SRL|Distinction SDL vs. SRL]]
-- [[Distinction-Technical-vs.-Critical-Self-Direction|Distinction Technical vs. Critical Self-Direction]]
-- [[Entrepreneurship-Venture-Building-as-Self-Directed-Learning|Entrepreneurship Venture Building as Self-Directed Learning]]
-- [[Garrison's-Comprehensive-Model-of-Self-Directed-Learning-1997|Garrison's Comprehensive Model of Self-Directed Learning (1997)]]
-- [[Grow's-Stage-Diagnostic-Checklist|Grow's Stage Diagnostic Checklist]]
-- [[Grow's-Staged-Self-Directed-Learning-Model-Grow,-1991|Grow's Staged Self-Directed Learning Model (Grow, 1991)]]
-- [[Heutagogy-Hase-&-Kenyon,-2000|Heutagogy (Hase & Kenyon, 2000)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[critical-thinking]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

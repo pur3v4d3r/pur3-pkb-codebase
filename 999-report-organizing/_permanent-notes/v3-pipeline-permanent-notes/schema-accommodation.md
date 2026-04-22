@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "schema-accommodation"
+title: schema-accommodation
 aliases:
-  - "schema-accommodation"
+  - schema-accommodation
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 57
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
-  - "[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]"
-  - "[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]"
-  - "[[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]"
-  - "[[Cognitive-Architecture|Cognitive Architecture]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]"
-  - "[[Construction-as-the-Common-Currency-of-Effective-Encoding|Construction as the Common Currency of Effective Encoding]]"
-  - "[[Core-Argument-Structure|Core Argument Structure]]"
-  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - '[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]'
+  - '[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]'
+  - '[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]'
+  - '[[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]'
+  - '[[Cognitive-Architecture|Cognitive Architecture]]'
+  - '[[Cognitive-Load-Theory|Cognitive Load Theory]]'
+  - '[[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]'
+  - '[[Construction-as-the-Common-Currency-of-Effective-Encoding|Construction as the Common Currency of Effective Encoding]]'
+  - '[[Core-Argument-Structure|Core Argument Structure]]'
+  - '[[Desirable-Difficulties|Desirable Difficulties]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # schema-accommodation
 
-> [!definition] **schema-accommodation**
-> *Stub note — concept referenced by 57 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] schema-accommodation
+> - **Key-Term**: [[schema-accommodation]]
+> - **Definition**: Schema-accommodation is the process by which existing schemas are modified to incorporate new information, thereby enhancing understanding and adaptability in cognitive processing.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 57 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Schema-accommodation is a fundamental concept within cognitive psychology that describes how individuals adjust their pre-existing knowledge structures (schemas) when encountering new or conflicting information. This process allows for the integration of novel experiences into existing frameworks, facilitating learning and problem-solving.
 
+> [!analytical-insight] Explanation 2
+> During schema-accommodation, an individual identifies discrepancies between their current understanding and new information, then modifies their schemas to better align with reality. This can involve adding new elements, removing outdated ones, or reorganizing the structure of the schema itself.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the degree of change required for accommodation; minor adjustments are often easier than significant overhauls. Additionally, the process is influenced by factors such as prior knowledge, cognitive flexibility, and the nature of the new information.
+
+## Practical Implications
+
+> [!example] Application
+> In educational settings, understanding schema-accommodation can inform teaching strategies that promote active engagement with material to facilitate meaningful learning.
+
+> [!example] Application
+> Clinical educators can use this concept to design interventions that help medical students integrate new knowledge into their existing schemas, improving diagnostic and treatment skills.
+
+## Connections
+
+**Related:** [[Cognitive-Load-Theory]] · [[Constructivism]] · [[Scaffolding]]
+
+**See Also (existing):**
 - [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
 - [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
 - [[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]
@@ -73,16 +81,14 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]
 - [[Construction-as-the-Common-Currency-of-Effective-Encoding|Construction as the Common Currency of Effective Encoding]]
-- [[Core-Argument-Structure|Core Argument Structure]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Desirable-Difficulties-Robert-Bjork,-1994|Desirable Difficulties (Robert Bjork, 1994)]]
-- [[Desirable-Difficulties-vs.-Cognitive-Load-Reduction|Desirable Difficulties vs. Cognitive Load Reduction]]
-- [[Elaborative-Encoding-Craik-&-Tulving,-1975;-Pressley-et-al.,-1987|Elaborative Encoding (Craik & Tulving, 1975; Pressley et al., 1987)]]
-- [[Elaborative-Interrogation|Elaborative Interrogation]]
-- [[Empirical-Validation-of-PKB-Specific-Cognitive-Claims|Empirical Validation of PKB-Specific Cognitive Claims]]
-- [[Extended-Mind-Thesis-Clark-&-Chalmers,-1998|Extended Mind Thesis (Clark & Chalmers, 1998)]]
-- [[Metacognition]]
-- [[Metacognition-John-Flavell,-1976|Metacognition (John Flavell, 1976)]]
-- [[Metacognition-as-the-Governor-of-Strategy-Deployment|Metacognition as the Governor of Strategy Deployment]]
-- [[Metacognitive-Prompts-in-PKB-Templates|Metacognitive Prompts in PKB Templates]]
-- *...and 37 more permanent notes*
+
+```dataview
+LIST FROM [[schema-accommodation]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

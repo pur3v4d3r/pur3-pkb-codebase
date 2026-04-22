@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Testing-Effect"
+title: Testing-Effect
 aliases:
-  - "Testing-Effect"
+  - Testing-Effect
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 131
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]"
-  - "[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]"
-  - "[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]"
-  - "[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]"
-  - "[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]"
-  - "[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]"
-  - "[[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]"
-  - "[[Cognitive-Architecture|Cognitive Architecture]]"
-  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-  - "[[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]"
+  - '[[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]'
+  - '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
+  - '[[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]'
+  - '[[CLT-as-the-Unifying-Diagnostic-for-PKB-Design-Failures|CLT as the Unifying Diagnostic for PKB Design Failures]]'
+  - '[[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]'
+  - '[[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]'
+  - '[[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]'
+  - '[[Cognitive-Architecture|Cognitive Architecture]]'
+  - '[[Cognitive-Load-Theory|Cognitive Load Theory]]'
+  - '[[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Testing-Effect
 
-> [!definition] **Testing-Effect**
-> *Stub note — concept referenced by 131 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Testing-Effect
+> - **Key-Term**: [[Testing-Effect]]
+> - **Definition**: The Testing-Effect, also known as the testing hypothesis, refers to the phenomenon where retrieving information from memory through testing enhances long-term retention and learning compared to restudy of the material alone.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 131 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The core mechanism behind the Testing-Effect involves the act of retrieval practice, which forces the brain to actively recall information. This process strengthens neural connections associated with the learned material, leading to better memory consolidation.
 
+> [!analytical-insight] Explanation 2
+> In practical applications, the Testing-Effect is leveraged in various educational and training settings through quizzing, self-testing, and low-stakes assessments. These methods not only improve immediate recall but also enhance long-term retention of information.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the spacing effect, where testing is most effective when spaced out over time, and the type of questions used can influence the effectiveness of retrieval practice.
+
+## Practical Implications
+
+> [!example] Application
+> In education, incorporating regular quizzes and self-tests can significantly improve student performance on exams by enhancing long-term retention.
+
+> [!example] Application
+> In professional training, using testing as a formative assessment tool can lead to better skill acquisition and application in real-world scenarios.
+
+## Connections
+
+**Related:** [[Retrieval Practice]] · [[Spaced Repetition]] · [[Active Learning]]
+
+**See Also (existing):**
 - [[Athletic-Skill-Acquisition-and-Motor-Learning|Athletic Skill Acquisition and Motor Learning]]
 - [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
 - [[Bridging-to-Prior-Knowledge-The-PKB-as-Cognitive-Partner|Bridging to Prior Knowledge The PKB as Cognitive Partner]]
@@ -73,16 +81,14 @@ importance: high
 - [[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]
 - [[Clinical-Education-and-Medical-Reasoning|Clinical Education and Medical Reasoning]]
 - [[Cognitive-Architecture|Cognitive Architecture]]
-- [[Cognitive-Load-Theory|Cognitive Load Theory]]
-- [[Cognitive-Load-Theory-John-Sweller,-1988|Cognitive Load Theory (John Sweller, 1988)]]
-- [[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]
-- [[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive Engagement]]
-- [[Construction-as-the-Common-Currency-of-Effective-Encoding|Construction as the Common Currency of Effective Encoding]]
-- [[Core-Argument-Structure|Core Argument Structure]]
-- [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Desirable-Difficulties-Bjork-&-Bjork,-1992;-2011|Desirable Difficulties (Bjork & Bjork, 1992; 2011)]]
-- [[Desirable-Difficulties-Robert-Bjork,-1994|Desirable Difficulties (Robert Bjork, 1994)]]
-- [[Desirable-Difficulties-vs.-Cognitive-Load-Reduction|Desirable Difficulties vs. Cognitive Load Reduction]]
-- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
-- [[Dual-Process-Theory-and-its-Implications-for-Knowledge-Management-Decision-Makin|Dual-Process Theory and its Implications for Knowledge Management Decision-Making]]
-- *...and 111 more permanent notes*
+
+```dataview
+LIST FROM [[Testing-Effect]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

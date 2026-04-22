@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Philip-H-Winne"
+title: Philip-H-Winne
 aliases:
-  - "Philip-H-Winne"
+  - Philip-H-Winne
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 72
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
-  - "[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]"
-  - "[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]"
-  - "[[Control-Move-Selection|Control Move Selection]]"
-  - "[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]"
-  - "[[Control-Phase-Pintrich|Control Phase (Pintrich)]]"
-  - "[[Control-Repertoire-in-Action|Control Repertoire in Action]]"
-  - "[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]"
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+  - '[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]'
+  - '[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]'
+  - '[[Control-Move-Selection|Control Move Selection]]'
+  - '[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]'
+  - '[[Control-Phase-Pintrich|Control Phase (Pintrich)]]'
+  - '[[Control-Repertoire-in-Action|Control Repertoire in Action]]'
+  - '[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Philip-H-Winne
 
-> [!definition] **Philip-H-Winne**
-> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Philip-H-Winne
+> - **Key-Term**: [[Philip-H-Winne]]
+> - **Definition**: Philip-H-Winne is a theoretical framework that explores the role of metacognitive monitoring and adaptive help-seeking behaviors in educational settings, particularly how students regulate their learning processes to improve understanding and performance.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 72 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The core mechanism of Philip-H-Winne's theory involves the interplay between metacognitive awareness (the ability to monitor one’s own cognitive processes) and adaptive help-seeking strategies. This framework posits that effective learners actively engage in monitoring their knowledge gaps, seeking appropriate assistance when needed, and adjusting their learning strategies based on feedback.
 
+> [!analytical-insight] Explanation 2
+> In practice, this means students who use Philip-H-Winne's framework are more likely to recognize when they need additional support or resources, ask targeted questions, and reflect on the effectiveness of different study techniques. This process helps them activate prior knowledge, refine their understanding, and enhance overall academic performance.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between metacognitive monitoring (awareness) and adaptive help-seeking (action), as well as the importance of calibration—adjusting one’s confidence in judgments about learning outcomes.
+
+## Practical Implications
+
+> [!example] Application
+> In educational settings, teachers can use Philip-H-Winne's framework to design interventions that promote metacognitive awareness and encourage students to seek appropriate help. This can lead to improved academic performance and more effective learning strategies.
+
+> [!example] Application
+> For learners, understanding this framework can empower them to take a more active role in their education by recognizing when they need assistance and how to seek it effectively.
+
+## Connections
+
+**Related:** [[Activating-Prior-Knowledge]] · [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]] · [[Calibration-Metacognitive]] · [[Common-Misconception-The-Matrix-as-Procedure]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Control-Move-Selection|Control Move Selection]]
 - [[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]
 - [[Control-Phase-Pintrich|Control Phase (Pintrich)]]
-- [[Control-Repertoire-in-Action|Control Repertoire in Action]]
-- [[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]
-- [[Externalized-Metacognition-and-Personal-Knowledge-Bases]]
-- [[Forethought-Failure-and-Its-Downstream-Consequences|Forethought Failure and Its Downstream Consequences]]
-- [[Forethought-Phase-Pintrich|Forethought Phase (Pintrich)]]
-- [[Forethought-as-Regulatory-Front-Loading|Forethought as Regulatory Front-Loading]]
-- [[High-Priority-Expansion-Topics|High-Priority Expansion Topics]]
-- [[Mastery-vs.-Performance-Goal-Orientation-Ames,-Dweck,-integrated-into-Pintrich|Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich)]]
-- [[Methodology,-Claim-Taxonomy,-and-Generation-Transparency|Methodology, Claim Taxonomy, and Generation Transparency]]
-- [[Monitoring-Phase-Pintrich|Monitoring Phase (Pintrich)]]
-- [[Monitoring-Vocabulary-Audit|Monitoring Vocabulary Audit]]
-- [[Monitoring-as-Vocabulary-Dependent-Signal-Generation|Monitoring as Vocabulary-Dependent Signal Generation]]
-- *...and 52 more permanent notes*
+
+```dataview
+LIST FROM [[Philip-H-Winne]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "medical-education"
+title: medical-education
 aliases:
-  - "medical-education"
+  - medical-education
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
-  - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
+  - '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]'
+  - '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
+  - '[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]'
+  - '[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]'
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
-  - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
-  - "[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]"
-  - "[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]"
-  - "[[Design-Application-Exercise|Design Application Exercise]]"
-  - "[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]"
+  - '[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]'
+  - '[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]'
+  - '[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]'
+  - '[[Design-Application-Exercise|Design Application Exercise]]'
+  - '[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # medical-education
 
-> [!definition] **medical-education**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] medical-education
+> - **Key-Term**: [[medical-education]]
+> - **Definition**: Medical education refers to the training and instruction provided to students aspiring to become healthcare professionals, encompassing theoretical knowledge and practical skills necessary for clinical practice.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Medical education is a multifaceted process that combines didactic teaching methods with experiential learning. It aims to equip future doctors, nurses, and other healthcare providers with the foundational knowledge, critical thinking skills, and hands-on experience required to deliver high-quality patient care.
 
+> [!analytical-insight] Explanation 2
+> The educational approach varies widely depending on the institution and discipline but typically includes lectures, clinical rotations, simulations, and mentorship. Key components include anatomy, physiology, pharmacology, pathology, and ethics, alongside developing communication and diagnostic skills.
+
+> [!analytical-insight] Explanation 3
+> Medical education encompasses both undergraduate medical education (UME) for aspiring doctors and postgraduate medical education (PGME) for residency training. It also includes continuing medical education (CME) to keep healthcare professionals updated with the latest advancements in their field.
+
+## Practical Implications
+
+> [!example] Application
+> In clinical settings, effective medical education ensures that healthcare providers can make accurate diagnoses and provide appropriate treatments based on current evidence-based practices.
+
+> [!example] Application
+> For patients, well-trained healthcare professionals contribute to better health outcomes through informed decision-making and compassionate care.
+
+## Connections
+
+**Related:** [[Cognitive-Load-Theory]] · [[CLT-Informed-Instructional-Design-Diagnostic-Protocol]] · [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
@@ -73,16 +81,14 @@ importance: high
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
 - [[Core-CLT-Argument-Structure|Core CLT Argument Structure]]
-- [[Design-Application-Exercise|Design Application Exercise]]
-- [[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]
-- [[Domain-2-User-Interface-and-Human-Computer-Interaction-Design|Domain 2 User Interface and Human-Computer Interaction Design]]
-- [[Domain-3-Athletic-Coaching-and-Motor-Skill-Acquisition|Domain 3 Athletic Coaching and Motor Skill Acquisition]]
-- [[Domain-4-Personal-Knowledge-Management-and-PKB-Architecture|Domain 4 Personal Knowledge Management and PKB Architecture]]
-- [[Element-Interactivity-Sweller,-1994|Element Interactivity (Sweller, 1994)]]
-- [[Element-Interactivity-in-Practice-Two-Learning-Tasks|Element Interactivity in Practice Two Learning Tasks]]
-- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
-- [[Expertise-Reversal-Effect-Kalyuga,-Ayres,-Chandler,-Sweller,-2003|Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
-- [[Expertise-Reversal-in-Programming-Instruction|Expertise Reversal in Programming Instruction]]
-- [[Extraneous-Cognitive-Load-Sweller,-Ayres,-&-Kalyuga,-2011|Extraneous Cognitive Load (Sweller, Ayres, & Kalyuga, 2011)]]
-- [[Extraneous-Cognitive-Load-Sweller,-Chandler,-1991|Extraneous Cognitive Load (Sweller, Chandler, 1991)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[medical-education]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

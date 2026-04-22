@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "reflection-practice"
+title: reflection-practice
 aliases:
-  - "reflection-practice"
+  - reflection-practice
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,70 @@ tags:
   - educational-psychology
 
 domain: educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 72
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
-  - "[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]"
-  - "[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]"
-  - "[[Control-Move-Selection|Control Move Selection]]"
-  - "[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]"
-  - "[[Control-Phase-Pintrich|Control Phase (Pintrich)]]"
-  - "[[Control-Repertoire-in-Action|Control Repertoire in Action]]"
-  - "[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]"
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+  - '[[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]'
+  - '[[Common-Misconception-The-Matrix-as-Procedure|Common Misconception The Matrix as Procedure]]'
+  - '[[Control-Move-Selection|Control Move Selection]]'
+  - '[[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]'
+  - '[[Control-Phase-Pintrich|Control Phase (Pintrich)]]'
+  - '[[Control-Repertoire-in-Action|Control Repertoire in Action]]'
+  - '[[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # reflection-practice
 
-> [!definition] **reflection-practice**
-> *Stub note — concept referenced by 72 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] reflection-practice
+> - **Key-Term**: [[reflection-practice]]
+> - **Definition**: Reflection practice involves the systematic examination of one's own thoughts, feelings, and actions to enhance understanding and improve performance, often used in educational settings to foster metacognitive skills and self-regulation.
+> - **Domain**: educational-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 72 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Reflection practice is a method that encourages individuals to critically analyze their experiences, thoughts, and behaviors. This process helps learners identify patterns, understand underlying principles, and develop strategies for improvement.
 
+> [!analytical-insight] Explanation 2
+> In practice, reflection can be structured through journaling, discussions, or self-assessment tasks. It often involves asking questions such as 'What did I learn?', 'How could I have done it differently?', and 'What are my strengths and weaknesses?'
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between reflective thinking (thinking about one's thoughts) and reflective practice (applying this thinking to actions). Theoretical roots can be traced back to John Dewey’s pragmatism and more recently, to theories of metacognition.
+
+## Practical Implications
+
+> [!example] Application
+> In education, reflection practice helps students develop self-awareness and improve their learning strategies.
+
+> [!example] Application
+> Professionals in various fields use reflection to enhance their skills and adapt to new challenges.
+
+> [!example] Application
+> A cautionary note is that reflection must be balanced with action; simply reflecting without applying insights can lead to stagnation.
+
+## Connections
+
+**Related:** [[Metacognition]] · [[Self-Regulation]] · [[Active-Learning]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
@@ -73,16 +84,14 @@ importance: high
 - [[Control-Move-Selection|Control Move Selection]]
 - [[Control-Moves-Have-Costs-and-Failure-Modes|Control Moves Have Costs and Failure Modes]]
 - [[Control-Phase-Pintrich|Control Phase (Pintrich)]]
-- [[Control-Repertoire-in-Action|Control Repertoire in Action]]
-- [[Control-as-Diagnostic-Response,-Not-Habitual-Response|Control as Diagnostic Response, Not Habitual Response]]
-- [[Externalized-Metacognition-and-Personal-Knowledge-Bases]]
-- [[Forethought-Failure-and-Its-Downstream-Consequences|Forethought Failure and Its Downstream Consequences]]
-- [[Forethought-Phase-Pintrich|Forethought Phase (Pintrich)]]
-- [[Forethought-as-Regulatory-Front-Loading|Forethought as Regulatory Front-Loading]]
-- [[High-Priority-Expansion-Topics|High-Priority Expansion Topics]]
-- [[Mastery-vs.-Performance-Goal-Orientation-Ames,-Dweck,-integrated-into-Pintrich|Mastery vs. Performance Goal Orientation (Ames, Dweck, integrated into Pintrich)]]
-- [[Methodology,-Claim-Taxonomy,-and-Generation-Transparency|Methodology, Claim Taxonomy, and Generation Transparency]]
-- [[Monitoring-Phase-Pintrich|Monitoring Phase (Pintrich)]]
-- [[Monitoring-Vocabulary-Audit|Monitoring Vocabulary Audit]]
-- [[Monitoring-as-Vocabulary-Dependent-Signal-Generation|Monitoring as Vocabulary-Dependent Signal Generation]]
-- *...and 52 more permanent notes*
+
+```dataview
+LIST FROM [[reflection-practice]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

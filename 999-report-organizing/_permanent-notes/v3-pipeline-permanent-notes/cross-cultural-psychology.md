@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "cross-cultural-psychology"
+title: cross-cultural-psychology
 aliases:
-  - "cross-cultural-psychology"
+  - cross-cultural-psychology
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 127
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]"
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
+  - '[[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]'
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
   - "[[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]"
-  - "[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]"
-  - "[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]"
-  - "[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]"
-  - "[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]"
-  - "[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]"
-  - "[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]"
-  - "[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]"
+  - '[[Athletic-Coaching-and-the-Engineering-of-Performance-Confidence|Athletic Coaching and the Engineering of Performance Confidence]]'
+  - '[[Attribution-Heider,-1958|Attribution (Heider, 1958)]]'
+  - '[[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]'
+  - '[[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]'
+  - '[[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]'
+  - '[[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]'
+  - '[[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # cross-cultural-psychology
 
-> [!definition] **cross-cultural-psychology**
-> *Stub note — concept referenced by 127 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] cross-cultural-psychology
+> - **Key-Term**: [[cross-cultural-psychology]]
+> - **Definition**: Cross-cultural psychology is the study of how cultural factors influence human behavior, cognition, and mental processes across different societies and contexts.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 127 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Cross-cultural psychology seeks to understand psychological phenomena by comparing and contrasting behaviors, beliefs, and cognitive processes among diverse cultures. It examines how cultural norms, values, and social structures shape individual experiences and mental health.
 
+> [!analytical-insight] Explanation 2
+> Researchers in this field often use methods such as surveys, interviews, and observational studies to gather data from various cultural groups, aiming to identify universal psychological principles versus culturally specific ones.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the recognition of cultural relativism (the idea that cultural differences are not necessarily better or worse but simply different) and the challenge of developing valid cross-cultural measures.
+
+## Practical Implications
+
+> [!example] Application
+> In education, understanding cross-cultural psychology can help educators design more effective teaching strategies that accommodate diverse student backgrounds.
+
+> [!example] Application
+> In clinical settings, it aids in tailoring therapeutic approaches to meet the unique needs of clients from different cultural backgrounds.
+
+## Connections
+
+**Related:** [[Cultural Psychology]] · [[Sociocultural Theory]] · [[Psychological Anthropology]]
+
+**See Also (existing):**
 - [[AI-Assisted-Learning-Environments-and-the-Future-of-Efficacy-Cultivation|AI-Assisted Learning Environments and the Future of Efficacy Cultivation]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
@@ -73,16 +81,14 @@ importance: high
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
 - [[Attribution-Retraining-Design-Protocol|Attribution Retraining Design Protocol]]
 - [[Attribution-Retraining-in-Clinical-Depression|Attribution Retraining in Clinical Depression]]
-- [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
-- [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
-- [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Calibration-Versus-Optimism|Calibration Versus Optimism]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Clinical-Practice-and-the-Architecture-of-Therapeutic-Change|Clinical Practice and the Architecture of Therapeutic Change]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Collective-Efficacy-Bandura,-1997|Collective Efficacy (Bandura, 1997)]]
-- [[Collective-Efficacy-as-a-Bridge-Between-Self-Efficacy-Theory-and-Sociology|Collective Efficacy as a Bridge Between Self-Efficacy Theory and Sociology]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- *...and 107 more permanent notes*
+
+```dataview
+LIST FROM [[cross-cultural-psychology]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

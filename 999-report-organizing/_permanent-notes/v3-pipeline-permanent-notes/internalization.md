@@ -2,7 +2,7 @@
 title: internalization
 aliases: [internalization, the-internalization-continuum]
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
 tags: [permanent-note, seedling, concept-stub, other]
 domain: other
@@ -27,22 +27,47 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
 provenance:
   source-reports: []
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
+maturity: budding
 ---
-
 
 # internalization
 
-> [!definition] **internalization**
-> *Stub note — concept referenced by 142 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] internalization
+> - **Key-Term**: [[internalization]]
+> - **Definition**: Internalization refers to the process by which external influences, such as knowledge, beliefs, and behaviors, become part of an individual's internal framework, influencing their thoughts, attitudes, and actions without external prompting.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 142 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Internalization is a fundamental concept in social psychology and education that describes how individuals incorporate new information or norms into their existing cognitive structures. This process typically involves several stages: compliance (acting according to external demands), identification (aligning with the values of others), and integration (making the new knowledge part of one's own belief system).
 
+> [!analytical-insight] Explanation 2
+> In practice, internalization can be observed in various contexts such as learning a new language or adopting a company’s culture. For instance, when students learn a foreign language, they may initially rely on external rules and structures but eventually start using the language naturally without conscious effort.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between cognitive and affective internalization, where cognitive internalization involves changes in beliefs and knowledge, while affective internalization pertains to emotional and attitudinal shifts. The process can also vary based on individual differences and cultural contexts.
+
+## Practical Implications
+
+> [!example] Application
+> In education, understanding the stages of internalization helps educators design curricula that facilitate deeper learning by encouraging active engagement and reflection.
+
+> [!example] Application
+> In organizational settings, promoting a culture where employees feel valued and their contributions are recognized can enhance internalization of company values and goals.
+
+## Connections
+
+**Related:** [[cognitive-dissonance]] · [[social-cognition]] · [[attitude-change]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
@@ -51,24 +76,14 @@ provenance:
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
 - [[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]
 - [[Autonomy-≠-Independence|Autonomy ≠ Independence]]
-- [[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]
-- [[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]
-- [[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]
-- [[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]
-- [[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]
-- [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
-- [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
-- [[Connection-SDT-and-SDL|Connection SDT and SDL]]
-- [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
-- [[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]
-- [[Definition-Heutagogy|Definition Heutagogy]]
-- [[Definition-Self-Directed-Learning|Definition Self-Directed Learning]]
-- *...and 122 more permanent notes*
 
-## Additional Material (Merged)
+```dataview
+LIST FROM [[internalization]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
 
-> [!definition] **the-internalization-continuum**
-> *Stub note — concept referenced by 111 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+---
 
-
-## Connections
+**Sources:** *(auto-enriched from domain knowledge)*

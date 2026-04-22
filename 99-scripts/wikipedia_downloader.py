@@ -186,31 +186,81 @@ def html_to_markdown(html: str) -> str:
 
 
 def convert_internal_links(markdown_text: str) -> str:
-    """Convert [text](/wiki/Article_Name) → [[Article Name|text]] ghost links."""
-    if not CONFIG["convert_internal_links"]:
-        return markdown_text
+    """Convert internal Wikipedia links to [[Wiki-Links]] (or plain text if disabled).
+
+    Handles two href styles:
+      - Action API / legacy:  [text](/wiki/Article_Name)
+      - REST Parsoid HTML:    [text](./Article_Name "title")
+
+    When ``CONFIG["convert_internal_links"]`` is False, internal links are
+    flattened to their plain text (since ``./Foo`` URLs don't resolve in
+    Obsidian anyway). External links are always left untouched.
+    """
+    convert = CONFIG["convert_internal_links"]
+
+    # Match: [text](href "optional title")
+    # ``text`` may contain ``]`` (e.g. footnote anchors like ``[[a]]``); ``href``
+    # may contain unescaped ``(...)`` pairs (e.g. ``Naturalism_(philosophy)``).
+    # We allow balanced parens inside the href via an alternation.
+    pattern = re.compile(
+        r'\[(.+?)\]\(((?:[^()\s"]|\([^()]*\))+)(?:\s+"[^"]*")?\)',
+        re.DOTALL,
+    )
+
+    def is_internal(href: str) -> str | None:
+        """Return the article path if href is an internal wiki link, else None."""
+        if href.startswith("/wiki/"):
+            return href[len("/wiki/"):]
+        if href.startswith("./"):
+            return href[2:]
+        return None
 
     def repl(m: re.Match) -> str:
         text = m.group(1).strip()
-        target_raw = m.group(2)
-        # Skip non-/wiki/ links (external, file, etc.)
-        if not target_raw.startswith("/wiki/"):
-            return m.group(0)
-        # Skip special namespaces
-        target = unquote(target_raw[len("/wiki/"):])
-        if ":" in target.split("#")[0]:
-            return text  # collapse File:, Help:, Category: links to plain text
-        target = target.replace("_", " ")
-        # Strip fragments
+        href = m.group(2)
+        article = is_internal(href)
+        if article is None:
+            return m.group(0)  # external link — leave alone
+
+        target = unquote(article)
+        # Strip fragment
         if "#" in target:
             target = target.split("#")[0]
+        # Skip special namespaces (File:, Help:, Category:, etc.) → plain text
+        if ":" in target:
+            return text
+        target = target.replace("_", " ").strip()
         if not target:
             return text
+
+        if not convert:
+            return text  # --no-links: flatten to plain text
+
         if text.lower() == target.lower():
             return f"[[{target}]]"
         return f"[[{target}|{text}]]"
 
-    return re.sub(r"\[([^\]]+?)\]\((/wiki/[^)]+)\)", repl, markdown_text)
+    result = pattern.sub(repl, markdown_text)
+
+    if not convert:
+        # Strip ALL remaining markdown links/images to plain text:
+        #   ![alt](url)         → ""           (drop images entirely)
+        #   [](url)             → ""           (empty-text links — image wrappers)
+        #   [text](url)         → "text"       (any external/footnote link)
+        #   [text](url "title") → "text"
+        result = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', result)
+        result = re.sub(r'\[\]\([^)]*\)', '', result)
+        result = re.sub(
+            r'\[(.+?)\]\([^)\s]+(?:\s+"[^"]*")?\)',
+            lambda m: m.group(1),
+            result,
+            flags=re.DOTALL,
+        )
+        # Flatten any leftover wiki-links from earlier passes (e.g. footnote [[a]])
+        result = re.sub(r'\[\[([^\]|]+)(?:\|([^\]]+))?\]\]',
+                        lambda m: m.group(2) or m.group(1), result)
+
+    return result
 
 
 # ═══════════════════════════════════════════════════════════════════════════

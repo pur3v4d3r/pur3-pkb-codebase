@@ -2,7 +2,7 @@
 title: fundamental-attribution-error
 aliases: [fundamental-attribution-error, the-fundamental-attribution-error]
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
 tags: [permanent-note, seedling, concept-stub, other]
 domain: other
@@ -27,22 +27,47 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
 provenance:
   source-reports: []
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
+maturity: budding
 ---
-
 
 # fundamental-attribution-error
 
-> [!definition] **fundamental-attribution-error**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] fundamental-attribution-error
+> - **Key-Term**: [[fundamental-attribution-error]]
+> - **Definition**: The fundamental attribution error is the tendency to overemphasize personality-based explanations for others' behavior while underestimating situational factors, often leading to biased judgments about their character or intentions.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 90 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> This cognitive bias was first described by social psychologists in the late 20th century and has been extensively studied. It arises from our natural inclination to attribute people's actions to their dispositions rather than considering the context or circumstances that might influence their behavior.
 
+> [!analytical-insight] Explanation 2
+> For example, if someone cuts you off in traffic, you might assume they are a rude person without considering that they might have been distracted by a phone call or an emergency. This error can lead to misunderstandings and negative judgments about others.
+
+> [!analytical-insight] Explanation 3
+> The fundamental attribution error is closely related to the self-serving bias, where individuals attribute their successes to internal factors but blame external circumstances for failures.
+
+## Practical Implications
+
+> [!example] Application
+> In social interactions, recognizing this bias can help in reducing conflicts by encouraging empathy and understanding of situational factors.
+
+> [!example] Application
+> In organizational settings, awareness of this error can improve teamwork and communication by fostering a more balanced view of colleagues' actions.
+
+## Connections
+
+**Related:** [[self-serving-bias]] · [[cognitive-dissonance]] · [[confirmation-bias]]
+
+**See Also (existing):**
 - [[Application-Attribution-Retraining's-Two-Stage-Architecture|Application Attribution Retraining's Two-Stage Architecture]]
 - [[Attribution-Heider,-1958|Attribution (Heider, 1958)]]
 - [[Attribution-Retraining-Försterling,-1985;-Perry-et-al.,-2010|Attribution Retraining (Försterling, 1985; Perry et al., 2010)]]
@@ -51,24 +76,14 @@ provenance:
 - [[Attribution-Dependent-Emotion-Weiner,-1985,-1995|Attribution-Dependent Emotion (Weiner, 1985, 1995)]]
 - [[Attributional-Self-Assessment-Checklist|Attributional Self-Assessment Checklist]]
 - [[Attributional-Vocabulary-Original-to-this-report|Attributional Vocabulary (Original to this report)]]
-- [[Attributional-Processes-in-Intergroup-Relations]]
-- [[Causal-Attribution-Heider,-1958;-Weiner,-1985|Causal Attribution (Heider, 1958; Weiner, 1985)]]
-- [[Cognitive-vs.-Motivational-Sources-of-Attributional-Bias|Cognitive vs. Motivational Sources of Attributional Bias]]
-- [[Connection-Attribution-as-the-Interpretive-Layer-of-Motivation|Connection Attribution as the Interpretive Layer of Motivation]]
-- [[Connection-Implicit-Theories-and-the-Stability-Dimension|Connection Implicit Theories and the Stability Dimension]]
-- [[Controllability-Dimension-Weiner,-1979,-1985|Controllability Dimension (Weiner, 1979, 1985)]]
-- [[Controllability-and-the-Politics-of-Compassion|Controllability and the Politics of Compassion]]
-- [[Cross-Cultural-Thought-Experiment|Cross-Cultural Thought Experiment]]
-- [[Definition-Causal-Attribution|Definition Causal Attribution]]
-- [[Definition-Fundamental-Attribution-Error|Definition Fundamental Attribution Error]]
-- [[Distinction-Locus-of-Causality-vs.-Locus-of-Control|Distinction Locus of Causality vs. Locus of Control]]
-- [[Distinction-Outcome-Dependent-vs.-Attribution-Dependent-Emotions|Distinction Outcome-Dependent vs. Attribution-Dependent Emotions]]
-- *...and 70 more permanent notes*
 
-## Additional Material (Merged)
+```dataview
+LIST FROM [[fundamental-attribution-error]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
 
-> [!definition] **the-fundamental-attribution-error**
-> *Stub note — concept referenced by 90 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+---
 
-
-## Connections
+**Sources:** *(auto-enriched from domain knowledge)*

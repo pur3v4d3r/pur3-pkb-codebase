@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "diagnostic-reasoning"
+title: diagnostic-reasoning
 aliases:
-  - "diagnostic-reasoning"
+  - diagnostic-reasoning
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,72 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 44
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]"
-  - "[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]"
-  - "[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]"
-  - "[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]"
-  - "[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]"
-  - "[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]"
-  - "[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]"
-  - "[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]"
+  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
+  - '[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]'
+  - '[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]'
+  - '[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]'
+  - '[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]'
+  - '[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]'
+  - '[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # diagnostic-reasoning
 
-> [!definition] **diagnostic-reasoning**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] diagnostic-reasoning
+> - **Key-Term**: [[diagnostic-reasoning]]
+> - **Definition**: Diagnostic reasoning is the process of using available information to identify the most likely cause of a patient's symptoms, often involving the application of medical knowledge and clinical judgment.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Diagnostic reasoning involves the systematic evaluation of symptoms, signs, and test results to arrive at a diagnosis. It relies on both explicit knowledge (e.g., medical textbooks) and implicit knowledge (e.g., experience), which are integrated through cognitive processes such as pattern recognition and inference.
 
+> [!analytical-insight] Explanation 2
+> In practice, diagnostic reasoning often follows a structured approach, including gathering patient history, performing physical examination, ordering tests, and integrating findings to form a differential diagnosis. Clinicians then select the most likely diagnosis based on their assessment of the evidence.
+
+> [!analytical-insight] Explanation 3
+> Key nuances in diagnostic reasoning include the role of cognitive biases (e.g., confirmation bias), the importance of heuristics like availability heuristic, and the impact of context and patient-specific factors.
+
+## Practical Implications
+
+> [!example] Application
+> In healthcare, accurate diagnostic reasoning can lead to timely and effective treatment, improving patient outcomes.
+
+> [!example] Application
+> Diagnostic errors are a significant source of medical malpractice claims; thus, enhancing diagnostic accuracy is crucial for reducing medical errors.
+
+## Open Threads
+
+> [!open-question] Question
+> The balance between using heuristics and avoiding cognitive biases in diagnostic reasoning remains a topic of debate.
+
+## Connections
+
+**Related:** [[Cognitive-Forcing-Functions-Croskerry]] · [[Attribute-Substitution-Kahneman-&-Frederick]] · [[Cognitive-Miserliness-Stanovich]]
+
+**See Also (existing):**
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
 - [[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]
@@ -73,16 +86,14 @@ importance: high
 - [[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]
 - [[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]
 - [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]
-- [[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich,-2013|Default-Interventionist Architecture (Evans & Stanovich, 2013)]]
-- [[Default-Interventionist-vs.-Parallel-Competitive-Architectures|Default-Interventionist vs. Parallel-Competitive Architectures]]
-- [[Dimensional-Self-Scoring|Dimensional Self-Scoring]]
-- [[Dual-Process-Theory-Kahneman,-Stanovich,-Evans|Dual-Process Theory (Kahneman, Stanovich, Evans)]]
-- [[Education-and-Pedagogy|Education and Pedagogy]]
-- [[Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics]]
-- [[Heuristics-as-Bias-vs.-Heuristics-as-Adaptive-Tools-Kahneman-vs.-Gigerenzer|Heuristics-as-Bias vs. Heuristics-as-Adaptive-Tools (Kahneman vs. Gigerenzer)]]
-- [[High-Validity-Environment-Kahneman-&-Klein|High-Validity Environment (Kahneman & Klein)]]
-- [[Kahneman's-Heuristics-as-Bias-vs.-Gigerenzer's-Heuristics-as-Adaptive-Tools|Kahneman's Heuristics-as-Bias vs. Gigerenzer's Heuristics-as-Adaptive-Tools]]
-- [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
-- *...and 24 more permanent notes*
+
+```dataview
+LIST FROM [[diagnostic-reasoning]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

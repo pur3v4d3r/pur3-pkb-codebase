@@ -2,7 +2,7 @@
 title: deci-and-ryan
 aliases: [deci-and-ryan, deci-ryan]
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
 tags: [permanent-note, seedling, concept-stub, other]
 domain: other
@@ -27,23 +27,55 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
 provenance:
   source-reports: []
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
+maturity: budding
 ---
-
-
 
 # deci-and-ryan
 
-> [!definition] **deci-and-ryan**
-> *Stub note — concept referenced by 111 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] deci-and-ryan
+> - **Key-Term**: [[deci-and-ryan]]
+> - **Definition**: Deci and Ryan refer to Edward L. Deci and Richard M. Ryan, who are co-founders of Self-Determination Theory (SDT), a psychological framework that emphasizes the role of intrinsic motivation in human behavior and well-being.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 111 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The foundational context for Deci and Ryan's work is rooted in their belief that individuals have innate psychological needs for autonomy, competence, and relatedness. These needs are central to SDT and guide much of their research and theory development.
 
+> [!analytical-insight] Explanation 2
+> In practice, Deci and Ryan apply these principles by examining how different contexts and interventions can either support or undermine the satisfaction of these basic psychological needs, thereby influencing motivation and well-being.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between intrinsic and extrinsic motivation, with a focus on intrinsic motivation as being more conducive to long-term engagement and personal growth.
+
+## Practical Implications
+
+> [!example] Application
+> In education, understanding Deci and Ryan's work can inform teaching practices that foster student autonomy and competence, leading to higher levels of engagement and achievement.
+
+> [!example] Application
+> In organizational settings, their theory can guide the design of supportive environments that enhance employee motivation and job satisfaction.
+
+## Key Figures
+
+> [!person] Edward L. Deci
+> co-founder of SDT
+
+> [!person] Richard M. Ryan
+> co-founder of SDT
+
+## Connections
+
+**Related:** [[Autonomy-in-the-SDT-technical-sense]] · [[Basic-Psychological-Need-in-SDT]] · [[Autonomous-Motivation]]
+
+**See Also (existing):**
 - [[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]
 - [[Autonomous-Motivation|Autonomous Motivation]]
 - [[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]
@@ -52,23 +84,14 @@ provenance:
 - [[Beiwen-Chen-and-Cross-Cultural-SDT-Researchers|Beiwen Chen and Cross-Cultural SDT Researchers]]
 - [[Central-Claim-of-OIT|Central Claim of OIT]]
 - [[Claude's-Specialist-Observation-Edge-Cases-as-Theory-Diagnostics|Claude's Specialist Observation Edge Cases as Theory Diagnostics]]
-- [[Claude's-Specialist-Observation-The-Frontier-Has-a-Shape|Claude's Specialist Observation The Frontier Has a Shape]]
-- [[Claude's-Specialist-Observation-The-Surface-Underdetermines-the-Mechanism|Claude's Specialist Observation The Surface Underdetermines the Mechanism]]
-- [[Claude's-Specialist-Observation-Why-Three-Needs-Is-Not-Arbitrary|Claude's Specialist Observation Why Three Needs Is Not Arbitrary]]
-- [[Competence-in-the-SDT-technical-sense|Competence (in the SDT technical sense)]]
-- [[Conditional-Regard|Conditional Regard]]
-- [[Controlled-Motivation|Controlled Motivation]]
-- [[Edge-Case-Autonomous-Regulation-of-Harmful-Goals|Edge Case Autonomous Regulation of Harmful Goals]]
-- [[Edge-Case-Controlled-Internalization-Identification-That-Looks-Real-But-Isn't|Edge Case Controlled Internalization (Identification That Looks Real But Isn't)]]
-- [[Edge-Case-Identification-Without-Integration|Edge Case Identification Without Integration]]
-- [[Edge-Case-Internalization-Before-Reflective-Capacity|Edge Case Internalization Before Reflective Capacity]]
-- [[Edge-Case-Need-Satisfaction-Through-Controlling-Substrates|Edge Case Need Satisfaction Through Controlling Substrates]]
-- [[Edge-Case-The-Cross-Cultural-Autonomy-Challenge|Edge Case The Cross-Cultural Autonomy Challenge]]
-- *...and 91 more permanent notes*
 
-## Additional Material (Merged)
+```dataview
+LIST FROM [[deci-and-ryan]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
 
-> [!definition] **deci-ryan**
-> *Stub note — concept referenced by 154 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+---
 
-## Connections
+**Sources:** *(auto-enriched from domain knowledge)*

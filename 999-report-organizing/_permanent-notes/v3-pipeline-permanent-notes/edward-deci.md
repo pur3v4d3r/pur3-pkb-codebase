@@ -2,7 +2,7 @@
 title: edward-deci
 aliases: [edward-deci, edward-l.-deci]
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
 tags: [permanent-note, seedling, concept-stub, other]
 domain: other
@@ -27,22 +27,57 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
 provenance:
   source-reports: []
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
+maturity: budding
 ---
-
 
 # edward-deci
 
-> [!definition] **edward-deci**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] edward-deci
+> - **Key-Term**: [[edward-deci]]
+> - **Definition**: Edward L. Deci is an American psychologist known for his work on self-determination theory (SDT), which focuses on the role of autonomy, competence, and relatedness in motivation and well-being.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Deci's core mechanism revolves around the idea that intrinsic motivation—doing something because it is inherently enjoyable or satisfying—is more effective than extrinsic motivation for long-term engagement and performance. SDT posits that individuals are motivated by three basic psychological needs: autonomy (the need to feel in control of one’s actions), competence (the need to feel capable and effective), and relatedness (the need to connect with others).
 
+> [!analytical-insight] Explanation 2
+> In practice, Deci's theory is applied across various fields such as education, health, and organizational behavior. For instance, in educational settings, fostering autonomy-supportive teaching practices can enhance students' intrinsic motivation and academic performance.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between autonomous and controlled forms of motivation, where autonomous motivation is more beneficial for well-being and long-term engagement.
+
+## Practical Implications
+
+> [!example] Application
+> In education, teachers who support student autonomy by providing choice and encouraging self-regulation can improve students' intrinsic motivation and academic achievement.
+
+> [!example] Application
+> In organizational settings, managers who foster a work environment that supports employees' autonomy, competence, and relatedness can enhance job satisfaction and productivity.
+
+## Key Figures
+
+> [!person] Richard Ryan
+> co-developer of SDT with Deci
+
+## Open Threads
+
+> [!open-question] Question
+> The debate over the relative importance of autonomy, competence, and relatedness in different contexts remains an open question.
+
+## Connections
+
+**Related:** [[Intrinsic-Motivation]] · [[Extrinsic-Motivation]] · [[Self-Regulation]] · [[Autonomy-Supportive-Teaching]] · [[Competence-Need]] · [[Relatedness-Need]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
@@ -51,24 +86,14 @@ provenance:
 - [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
 - [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
 - [[Connection-SDT-and-SDL|Connection SDT and SDL]]
-- [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
-- [[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]
-- [[Definition-Heutagogy|Definition Heutagogy]]
-- [[Definition-Self-Directed-Learning|Definition Self-Directed Learning]]
-- [[Directions-for-Further-Investigation|Directions for Further Investigation]]
-- [[Distinction-SDL-vs.-SRL|Distinction SDL vs. SRL]]
-- [[Distinction-Technical-vs.-Critical-Self-Direction|Distinction Technical vs. Critical Self-Direction]]
-- [[Entrepreneurship-Venture-Building-as-Self-Directed-Learning|Entrepreneurship Venture Building as Self-Directed Learning]]
-- [[Garrison's-Comprehensive-Model-of-Self-Directed-Learning-1997|Garrison's Comprehensive Model of Self-Directed Learning (1997)]]
-- [[Grow's-Stage-Diagnostic-Checklist|Grow's Stage Diagnostic Checklist]]
-- [[Grow's-Staged-Self-Directed-Learning-Model-Grow,-1991|Grow's Staged Self-Directed Learning Model (Grow, 1991)]]
-- [[Heutagogy-Hase-&-Kenyon,-2000|Heutagogy (Hase & Kenyon, 2000)]]
-- *...and 59 more permanent notes*
 
-## Additional Material (Merged)
+```dataview
+LIST FROM [[edward-deci]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
 
-> [!definition] **edward-l.-deci**
-> *Stub note — concept referenced by 189 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+---
 
-
-## Connections
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Interleaving-Practice"
+title: Interleaving-Practice
 aliases:
-  - "Interleaving-Practice"
+  - Interleaving-Practice
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - educational-psychology
 
 domain: educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
-  - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
+  - '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]'
+  - '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
+  - '[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]'
+  - '[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]'
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
-  - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
-  - "[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]"
-  - "[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]"
-  - "[[Design-Application-Exercise|Design Application Exercise]]"
-  - "[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]"
+  - '[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]'
+  - '[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]'
+  - '[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]'
+  - '[[Design-Application-Exercise|Design Application Exercise]]'
+  - '[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Interleaving-Practice
 
-> [!definition] **Interleaving-Practice**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Interleaving-Practice
+> - **Key-Term**: [[Interleaving-Practice]]
+> - **Definition**: Interleaving-Practice is an educational technique where students switch between different types of problems or topics during study sessions, rather than focusing on one topic at a time.
+> - **Domain**: educational-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Interleaving-Practice enhances learning by promoting the ability to distinguish between different problem types and apply appropriate strategies. This method leverages cognitive flexibility and helps in better retention and transfer of knowledge across various contexts.
 
+> [!analytical-insight] Explanation 2
+> During practice, students encounter problems from multiple topics or skill sets in a single session, which requires them to identify the correct approach for each problem. This process strengthens their ability to recognize patterns and apply relevant concepts more effectively.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the timing and frequency of interleaving, as well as the complexity of the tasks involved. The technique is particularly effective when used alongside other learning strategies such as spaced repetition.
+
+## Practical Implications
+
+> [!example] Application
+> Instructors can use interleaving to create varied practice sessions that challenge students to apply their knowledge flexibly across different contexts.
+
+> [!example] Application
+> Students benefit from interleaved practice by improving their ability to distinguish between problem types and enhancing long-term retention of material.
+
+## Connections
+
+**Related:** [[Spaced-Repetition]] · [[Cognitive-Load-Theory]] · [[Active-Learning]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
@@ -73,16 +81,14 @@ importance: high
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
 - [[Core-CLT-Argument-Structure|Core CLT Argument Structure]]
-- [[Design-Application-Exercise|Design Application Exercise]]
-- [[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]
-- [[Domain-2-User-Interface-and-Human-Computer-Interaction-Design|Domain 2 User Interface and Human-Computer Interaction Design]]
-- [[Domain-3-Athletic-Coaching-and-Motor-Skill-Acquisition|Domain 3 Athletic Coaching and Motor Skill Acquisition]]
-- [[Domain-4-Personal-Knowledge-Management-and-PKB-Architecture|Domain 4 Personal Knowledge Management and PKB Architecture]]
-- [[Element-Interactivity-Sweller,-1994|Element Interactivity (Sweller, 1994)]]
-- [[Element-Interactivity-in-Practice-Two-Learning-Tasks|Element Interactivity in Practice Two Learning Tasks]]
-- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
-- [[Expertise-Reversal-Effect-Kalyuga,-Ayres,-Chandler,-Sweller,-2003|Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
-- [[Expertise-Reversal-in-Programming-Instruction|Expertise Reversal in Programming Instruction]]
-- [[Extraneous-Cognitive-Load-Sweller,-Ayres,-&-Kalyuga,-2011|Extraneous Cognitive Load (Sweller, Ayres, & Kalyuga, 2011)]]
-- [[Extraneous-Cognitive-Load-Sweller,-Chandler,-1991|Extraneous Cognitive Load (Sweller, Chandler, 1991)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[Interleaving-Practice]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

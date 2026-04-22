@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Metacognition-&-Motivation"
+title: Metacognition-&-Motivation
 aliases:
-  - "Metacognition-&-Motivation"
+  - Metacognition-&-Motivation
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,77 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
-  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
-  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
-  - "[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]"
-  - "[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]"
-  - "[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]"
-  - "[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]"
-  - "[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]"
-  - "[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]"
-  - "[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]"
+  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
+  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
+  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+  - '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]'
+  - '[[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]'
+  - '[[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]'
+  - '[[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]'
+  - '[[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]'
+  - '[[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]'
+  - '[[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Metacognition-&-Motivation
 
-> [!definition] **Metacognition-&-Motivation**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Metacognition-&-Motivation
+> - **Key-Term**: [[Metacognition-&-Motivation]]
+> - **Definition**: Metacognition-and-Motivation refers to the cognitive processes involved in monitoring, regulating, and directing one's own learning and problem-solving efforts, as well as the motivational factors that influence these processes.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Metacognition-and-Motivation involves both metacognitive skills such as planning, monitoring, and evaluating one’s understanding and cognitive strategies, and motivational aspects like goal-setting, self-efficacy, and intrinsic/extrinsic motivation. These components work together to enhance learning efficiency and effectiveness.
 
+> [!analytical-insight] Explanation 2
+> In practice, individuals use metacognitive strategies to assess their current knowledge state, set appropriate goals, and adjust their study methods accordingly. Motivational factors such as interest in the subject matter or personal relevance can significantly influence how effectively these strategies are applied.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between procedural (how one does something) and declarative (what one knows) metacognition, as well as the role of self-regulation in managing cognitive resources. Theoretical roots trace back to theories of self-efficacy and goal-setting.
+
+## Practical Implications
+
+> [!example] Application
+> In education, understanding metacognitive-and-motivational processes can help teachers design more effective learning environments that foster student autonomy and engagement.
+
+> [!example] Application
+> In clinical settings, recognizing these processes is crucial for diagnosing and treating cognitive disorders where self-monitoring and motivation may be impaired.
+
+## Key Figures
+
+> [!person] Asher Koriat
+> influential researcher in metacognition
+
+## Open Threads
+
+> [!open-question] Question
+> The exact nature of the interaction between cognitive and motivational processes remains an open question in metacognition research.
+
+## Connections
+
+**Related:** [[Self-Efficacy]] · [[Goal-Setting Theory]] · [[Cognitive-Affective Processing System (CAPS)]]
+
+**See Also (existing):**
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
@@ -73,16 +91,14 @@ importance: high
 - [[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]
 - [[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]
 - [[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]
-- [[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]
-- [[Definition-Dominance-Asymmetry|Definition Dominance Asymmetry]]
-- [[Definition-Meta-Level|Definition Meta-Level]]
-- [[Definition-Monitoring-vs.-Control|Definition Monitoring vs. Control]]
-- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
-- [[Distinction-Fluency-Illusion-vs.-Illusion-of-Knowing|Distinction Fluency Illusion vs. Illusion of Knowing]]
-- [[Distinction-Immediate-vs.-Delayed-JOLs|Distinction Immediate vs. Delayed JOLs]]
-- [[Flavell's-Metacognitive-Taxonomy-Flavell,-1979|Flavell's Metacognitive Taxonomy (Flavell, 1979)]]
-- [[Integration-with-the-Personal-Knowledge-Base|Integration with the Personal Knowledge Base]]
-- [[John-H.-Flavell-b.-1928|John H. Flavell (b. 1928)]]
-- [[Joseph-T.-Hart-1936–|Joseph T. Hart (1936–)]]
-- [[Koriat's-Cue-Utilization-Framework-A-Comprehensive-Treatment|Koriat's Cue-Utilization Framework A Comprehensive Treatment]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[Metacognition-&-Motivation]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

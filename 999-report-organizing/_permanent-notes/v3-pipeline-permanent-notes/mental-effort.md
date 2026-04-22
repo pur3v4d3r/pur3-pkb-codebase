@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "mental-effort"
+title: mental-effort
 aliases:
-  - "mental-effort"
+  - mental-effort
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]"
-  - "[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]"
-  - "[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]"
-  - "[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]"
+  - '[[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]'
+  - '[[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]'
+  - '[[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]'
+  - '[[CLT-Principles-in-E-Learning-Design|CLT Principles in E-Learning Design]]'
   - "[[CLT's-Neighbour-Relations-A-Summary-Assessment|CLT's Neighbour Relations A Summary Assessment]]"
-  - "[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]"
-  - "[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]"
-  - "[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]"
-  - "[[Design-Application-Exercise|Design Application Exercise]]"
-  - "[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]"
+  - '[[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]'
+  - '[[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]'
+  - '[[Core-CLT-Argument-Structure|Core CLT Argument Structure]]'
+  - '[[Design-Application-Exercise|Design Application Exercise]]'
+  - '[[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # mental-effort
 
-> [!definition] **mental-effort**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] mental-effort
+> - **Key-Term**: [[mental-effort]]
+> - **Definition**: Mental effort refers to the cognitive resources and energy expended by an individual when engaging in complex tasks that require active processing, such as problem-solving, learning new information, or performing mental calculations.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Mental effort is a fundamental concept in cognitive psychology, particularly within Cognitive Load Theory (CLT), which posits that the human mind has limited capacity for processing information. When individuals encounter tasks that exceed their current cognitive load, they must allocate more mental resources to manage these demands.
 
+> [!analytical-insight] Explanation 2
+> In practice, mental effort can be observed when learners struggle with new material or when workers face challenging problems at work. The amount of mental effort required often depends on the complexity of the task and the individual's prior knowledge and skills.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between intrinsic (inherent to the task) and extraneous (due to instructional design) cognitive loads, which can significantly impact how much mental effort is needed.
+
+## Practical Implications
+
+> [!example] Application
+> In e-learning design, reducing extraneous cognitive load through clear and concise instruction can minimize the amount of mental effort required by learners, thereby enhancing their learning outcomes.
+
+> [!example] Application
+> In workplace settings, understanding the concept of mental effort can help managers design tasks that are neither too easy nor too difficult, optimizing productivity and job satisfaction.
+
+## Connections
+
+**Related:** [[Cognitive Load Theory]] · [[Working Memory]] · [[Problem-Solving]]
+
+**See Also (existing):**
 - [[Activating-Prior-Knowledge-The-Bottleneck-You-Already-Navigate|Activating Prior Knowledge The Bottleneck You Already Navigate]]
 - [[Alan-Baddeley-1934–|Alan Baddeley (1934–)]]
 - [[CLT-Compliance-Review-for-Multimedia-Materials|CLT Compliance Review for Multimedia Materials]]
@@ -73,16 +81,14 @@ importance: high
 - [[CLT-Informed-Instructional-Design-Diagnostic-Protocol|CLT-Informed Instructional Design Diagnostic Protocol]]
 - [[Cognitive-Load-Theory-Sweller,-1988|Cognitive Load Theory (Sweller, 1988)]]
 - [[Core-CLT-Argument-Structure|Core CLT Argument Structure]]
-- [[Design-Application-Exercise|Design Application Exercise]]
-- [[Domain-1-Clinical-Reasoning-and-Medical-Decision-Making|Domain 1 Clinical Reasoning and Medical Decision-Making]]
-- [[Domain-2-User-Interface-and-Human-Computer-Interaction-Design|Domain 2 User Interface and Human-Computer Interaction Design]]
-- [[Domain-3-Athletic-Coaching-and-Motor-Skill-Acquisition|Domain 3 Athletic Coaching and Motor Skill Acquisition]]
-- [[Domain-4-Personal-Knowledge-Management-and-PKB-Architecture|Domain 4 Personal Knowledge Management and PKB Architecture]]
-- [[Element-Interactivity-Sweller,-1994|Element Interactivity (Sweller, 1994)]]
-- [[Element-Interactivity-in-Practice-Two-Learning-Tasks|Element Interactivity in Practice Two Learning Tasks]]
-- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
-- [[Expertise-Reversal-Effect-Kalyuga,-Ayres,-Chandler,-Sweller,-2003|Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
-- [[Expertise-Reversal-in-Programming-Instruction|Expertise Reversal in Programming Instruction]]
-- [[Extraneous-Cognitive-Load-Sweller,-Ayres,-&-Kalyuga,-2011|Extraneous Cognitive Load (Sweller, Ayres, & Kalyuga, 2011)]]
-- [[Extraneous-Cognitive-Load-Sweller,-Chandler,-1991|Extraneous Cognitive Load (Sweller, Chandler, 1991)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[mental-effort]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

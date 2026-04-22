@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Barnett-Ceci"
+title: Barnett-Ceci
 aliases:
-  - "Barnett-Ceci"
+  - Barnett-Ceci
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,70 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 49
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]"
-  - "[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]"
-  - "[[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]"
-  - "[[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]"
-  - "[[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]"
-  - "[[Directive-Function|Directive Function]]"
-  - "[[Educational-Goal-Setting|Educational Goal Setting]]"
-  - "[[Goal-Commitment|Goal Commitment]]"
-  - "[[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]"
-  - "[[Goal-Difficulty|Goal Difficulty]]"
+  - '[[Athletic-and-Musical-Practice|Athletic and Musical Practice]]'
+  - '[[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]'
+  - '[[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]'
+  - '[[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable|Commitment as Quantitative Variable vs. Quality-Differentiated Variable]]'
+  - '[[Cross-Domain-Application-Engineering-Discipline|Cross-Domain Application Engineering Discipline]]'
+  - '[[Directive-Function|Directive Function]]'
+  - '[[Educational-Goal-Setting|Educational Goal Setting]]'
+  - '[[Goal-Commitment|Goal Commitment]]'
+  - '[[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]'
+  - '[[Goal-Difficulty|Goal Difficulty]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Barnett-Ceci
 
-> [!definition] **Barnett-Ceci**
-> *Stub note — concept referenced by 49 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Barnett-Ceci
+> - **Key-Term**: [[Barnett-Ceci]]
+> - **Definition**: The Barnett-Ceci framework refers to the idea that commitment can be quantitatively measured and is crucial for understanding behavior change in various domains such as athletic practice, musical training, and educational goal-setting.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 49 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> In the Barnett-Ceci framework, commitment is viewed as a quantitative variable rather than a qualitative one. This means that it can be measured on a scale, allowing researchers to track changes over time or across different contexts.
 
+> [!analytical-insight] Explanation 2
+> The framework suggests that high levels of commitment are necessary for successful behavior change and performance improvement in various fields. For instance, in athletic practice, musicians' training, and educational settings, sustained commitment is essential for achieving desired outcomes.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between autonomous and controlled commitment, where autonomous commitment refers to internal motivation driven by personal values, while controlled commitment is driven by external pressures or rewards.
+
+## Practical Implications
+
+> [!example] Application
+> In athletic practice, understanding the level of commitment can help coaches tailor their strategies to enhance performance.
+
+> [!example] Application
+> For musicians, this framework can guide teachers in designing effective training programs that foster long-term dedication and skill development.
+
+> [!example] Application
+> In educational settings, it can inform goal-setting practices by helping educators set realistic and motivating goals for students.
+
+## Connections
+
+**Related:** [[Autonomous-vs.-Controlled-Commitment-integrating-SDT]] · [[Clinical-and-Health-Behavior-Change]] · [[Commitment-as-Quantitative-Variable-vs.-Quality-Differentiated-Variable]]
+
+**See Also (existing):**
 - [[Athletic-and-Musical-Practice|Athletic and Musical Practice]]
 - [[Autonomous-vs.-Controlled-Commitment-integrating-SDT|Autonomous vs. Controlled Commitment (integrating SDT)]]
 - [[Clinical-and-Health-Behavior-Change|Clinical and Health Behavior Change]]
@@ -73,16 +84,14 @@ importance: high
 - [[Directive-Function|Directive Function]]
 - [[Educational-Goal-Setting|Educational Goal Setting]]
 - [[Goal-Commitment|Goal Commitment]]
-- [[Goal-Design-Protocol-—-Pre-Setting-Checklist|Goal Design Protocol — Pre-Setting Checklist]]
-- [[Goal-Difficulty|Goal Difficulty]]
-- [[Goal-Setting-Theory-Locke-&-Latham,-formalized-1990|Goal Setting Theory (Locke & Latham, formalized 1990)]]
-- [[Goal-Setting-Theory-in-the-Knowledge-Graph|Goal Setting Theory in the Knowledge Graph]]
-- [[Goal-Specificity|Goal Specificity]]
-- [[Goal-Setting–SDT-Reconciliation-via-the-Quality-of-Commitment|Goal-Setting–SDT Reconciliation via the Quality of Commitment]]
-- [[High-Performance-Cycle|High Performance Cycle]]
-- [[Honest-Self-Scoring-of-This-Report|Honest Self-Scoring of This Report]]
-- [[How-This-Report-Was-Constructed|How This Report Was Constructed]]
-- [[Implementation-Intention-Gollwitzer,-1999|Implementation Intention (Gollwitzer, 1999)]]
-- [[Metacognitive-Closing-Prompt|Metacognitive Closing Prompt]]
-- [[Performance-Gains-vs.-Performance-Pathologies|Performance Gains vs. Performance Pathologies]]
-- *...and 29 more permanent notes*
+
+```dataview
+LIST FROM [[Barnett-Ceci]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -1,70 +1,78 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "SM-2-Algorithm"
+title: SM-2-Algorithm
 aliases:
-  - "SM-2-Algorithm"
+  - SM-2-Algorithm
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
 
-domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
+domain: cognitive-psychology
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 76
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Closing-Reflection|A Closing Reflection]]"
-  - "[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]"
-  - "[[Activate-What-You-Already-Know|Activate What You Already Know]]"
-  - "[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]"
-  - "[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]"
-  - "[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]"
-  - "[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]"
-  - "[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]"
-  - "[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]"
-  - "[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]"
+  - '[[A-Closing-Reflection|A Closing Reflection]]'
+  - '[[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]'
+  - '[[Activate-What-You-Already-Know|Activate What You Already Know]]'
+  - '[[Adaptive-Expertise-Hatano-&-Inagaki|Adaptive Expertise (Hatano & Inagaki)]]'
+  - '[[Adaptive-Expertise-vs-Routine-Expertise-A-Dialectical-Analysis]]'
+  - '[[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]'
+  - '[[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]'
+  - '[[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]'
+  - '[[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]'
+  - '[[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # SM-2-Algorithm
 
-> [!definition] **SM-2-Algorithm**
-> *Stub note — concept referenced by 76 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] SM-2-Algorithm
+> - **Key-Term**: [[SM-2-Algorithm]]
+> - **Definition**: The SM-2-Algorithm is a cognitive model that describes the process of how experts activate and integrate their existing knowledge to solve problems more efficiently than novices, particularly in domains requiring adaptive expertise.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 76 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The foundational context for the SM-2-Algorithm lies within the theory of adaptive expertise, which posits that expert performance is characterized by a deep integration of domain-specific knowledge and flexible problem-solving strategies. The core mechanism involves two key processes: schema activation (S) and model-based reasoning (M).
 
+> [!analytical-insight] Explanation 2
+> In practice, the algorithm works through the initial activation of relevant schemas or chunks of knowledge, followed by the application of these models to generate solutions. This process is iterative, allowing for rapid adaptation based on feedback and new information.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the role of metacognition in monitoring and adjusting problem-solving strategies, as well as the dynamic nature of schema activation and model-based reasoning.
+
+## Practical Implications
+
+> [!example] Application
+> In real-world applications, understanding the SM-2-Algorithm can inform instructional design by emphasizing the importance of activating prior knowledge and fostering flexible thinking.
+
+> [!example] Application
+> It also has implications for artificial intelligence architecture, where similar principles can be applied to develop more adaptive and contextually aware systems.
+
+## Connections
+
+**Related:** [[Adaptive-Expertise-Hatano-&-Inagaki]] · [[Routine-Expertise]] · [[Chunking]]
+
+**See Also (existing):**
 - [[A-Closing-Reflection|A Closing Reflection]]
 - [[A-Concrete-Trajectory-How-Deliberate-Practice-Builds-the-Architecture|A Concrete Trajectory How Deliberate Practice Builds the Architecture]]
 - [[Activate-What-You-Already-Know|Activate What You Already Know]]
@@ -73,16 +81,14 @@ importance: high
 - [[Application-Designing-PKB-Notes-as-External-Chunks|Application Designing PKB Notes as External Chunks]]
 - [[Application-Distinguishing-Genuine-Expertise-from-Pseudoexpertise|Application Distinguishing Genuine Expertise from Pseudoexpertise]]
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
-- [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
-- [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
-- [[Chunking-in-Second-Language-Acquisition]]
-- [[Connection-Expertise-Reversal-Effect-Mechanism|Connection Expertise Reversal Effect Mechanism]]
-- [[Connection-Why-Failure-Modes-are-Inseparable-from-Benefits|Connection Why Failure Modes are Inseparable from Benefits]]
-- [[Cultural-Transmission-as-Inter-Generational-Chunking|Cultural Transmission as Inter-Generational Chunking]]
-- [[Definition-Chunk|Definition Chunk]]
-- [[Definition-Long-Term-Working-Memory|Definition Long-Term Working Memory]]
-- [[Deliberate-Practice-Ericsson,-Krampe-&-Tesch-Römer,-1993|Deliberate Practice (Ericsson, Krampe & Tesch-Römer, 1993)]]
-- [[Designing-PKB-Notes-as-External-Chunks|Designing PKB Notes as External Chunks]]
-- [[Diagnosing-Whether-an-Activity-Qualifies-as-Deliberate-Practice|Diagnosing Whether an Activity Qualifies as Deliberate Practice]]
-- [[Distinction-Template-vs.-Chunk|Distinction Template vs. Chunk]]
-- *...and 56 more permanent notes*
+
+```dataview
+LIST FROM [[SM-2-Algorithm]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

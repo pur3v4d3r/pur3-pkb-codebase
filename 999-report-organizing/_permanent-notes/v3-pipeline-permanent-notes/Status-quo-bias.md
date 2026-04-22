@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Status-quo-bias"
+title: Status-quo-bias
 aliases:
-  - "Status-quo-bias"
+  - Status-quo-bias
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 44
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]"
-  - "[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]"
-  - "[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]"
-  - "[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]"
-  - "[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]"
-  - "[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]"
-  - "[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]"
-  - "[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]"
+  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
+  - '[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]'
+  - '[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]'
+  - '[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]'
+  - '[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]'
+  - '[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]'
+  - '[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Status-quo-bias
 
-> [!definition] **Status-quo-bias**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Status-quo-bias
+> - **Key-Term**: [[Status-quo-bias]]
+> - **Definition**: Status-quo-bias is the tendency to prefer existing conditions over new alternatives, even when the new alternatives might be objectively better.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Status-quo-bias arises from cognitive biases and heuristics that make individuals resistant to change. It often stems from a preference for familiarity and a fear of uncertainty or risk associated with change.
 
+> [!analytical-insight] Explanation 2
+> This bias can manifest in various ways, such as reluctance to adopt new technologies, policies, or strategies, even if they could improve outcomes. The underlying mechanism involves the psychological comfort derived from current situations and the perceived costs of switching to something unfamiliar.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the strength of the status-quo bias varying across individuals and contexts. Some people may be more resistant to change due to a stronger preference for stability or a higher tolerance for risk.
+
+## Practical Implications
+
+> [!example] Application
+> In decision-making processes, status-quo-bias can lead to suboptimal outcomes as it hinders the adoption of potentially better alternatives.
+
+> [!example] Application
+> In organizational settings, this bias can impede innovation and progress by discouraging employees from suggesting or implementing new ideas.
+
+## Connections
+
+**Related:** [[Confirmation-Bias]] · [[Loss-Aversion]] · [[Framing-Effect]]
+
+**See Also (existing):**
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
 - [[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]
@@ -73,16 +81,14 @@ importance: high
 - [[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]
 - [[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]
 - [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]
-- [[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich,-2013|Default-Interventionist Architecture (Evans & Stanovich, 2013)]]
-- [[Default-Interventionist-vs.-Parallel-Competitive-Architectures|Default-Interventionist vs. Parallel-Competitive Architectures]]
-- [[Dimensional-Self-Scoring|Dimensional Self-Scoring]]
-- [[Dual-Process-Theory-Kahneman,-Stanovich,-Evans|Dual-Process Theory (Kahneman, Stanovich, Evans)]]
-- [[Education-and-Pedagogy|Education and Pedagogy]]
-- [[Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics]]
-- [[Heuristics-as-Bias-vs.-Heuristics-as-Adaptive-Tools-Kahneman-vs.-Gigerenzer|Heuristics-as-Bias vs. Heuristics-as-Adaptive-Tools (Kahneman vs. Gigerenzer)]]
-- [[High-Validity-Environment-Kahneman-&-Klein|High-Validity Environment (Kahneman & Klein)]]
-- [[Kahneman's-Heuristics-as-Bias-vs.-Gigerenzer's-Heuristics-as-Adaptive-Tools|Kahneman's Heuristics-as-Bias vs. Gigerenzer's Heuristics-as-Adaptive-Tools]]
-- [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
-- *...and 24 more permanent notes*
+
+```dataview
+LIST FROM [[Status-quo-bias]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

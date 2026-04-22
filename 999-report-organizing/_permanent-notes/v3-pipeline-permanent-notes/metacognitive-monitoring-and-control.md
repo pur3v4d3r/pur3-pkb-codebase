@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "metacognitive-monitoring-and-control"
+title: metacognitive-monitoring-and-control
 aliases:
-  - "metacognitive-monitoring-and-control"
+  - metacognitive-monitoring-and-control
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 79
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]"
-  - "[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]"
-  - "[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]"
-  - "[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]"
-  - "[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]"
-  - "[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]"
-  - "[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]"
-  - "[[Connection-SDT-and-SDL|Connection SDT and SDL]]"
-  - "[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]"
+  - '[[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]'
+  - '[[Application-The-Readiness-Paradox|Application The Readiness Paradox]]'
+  - '[[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]'
+  - '[[Autonomy-vs.-Interdependence|Autonomy vs. Interdependence]]'
+  - '[[Clinical-and-Medical-Education-The-Diagnostic-Self-Director|Clinical and Medical Education The Diagnostic Self-Director]]'
+  - '[[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]'
+  - '[[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]'
+  - '[[Connection-SDT-and-SDL|Connection SDT and SDL]]'
+  - '[[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]'
   - "[[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # metacognitive-monitoring-and-control
 
-> [!definition] **metacognitive-monitoring-and-control**
-> *Stub note — concept referenced by 79 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] metacognitive-monitoring-and-control
+> - **Key-Term**: [[metacognitive-monitoring-and-control]]
+> - **Definition**: Metacognitive monitoring and control refers to the ability to reflect on one's own cognitive processes, understand them, and regulate them effectively to achieve learning goals.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 79 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Metacognitive monitoring involves observing and evaluating one’s thought processes, strategies, and knowledge during problem-solving or learning tasks. Control mechanisms then adjust these processes based on this evaluation to enhance performance and understanding.
 
+> [!analytical-insight] Explanation 2
+> In practice, metacognitive monitoring and control can be seen in students who plan their study sessions, assess their progress, and modify their approaches as needed. This process is crucial for effective self-regulated learning (SDL).
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between procedural and declarative knowledge, where procedural knowledge involves knowing how to do something, while declarative knowledge involves knowing what or why.
+
+## Practical Implications
+
+> [!example] Application
+> In education, fostering metacognitive monitoring and control can lead to improved learning outcomes by helping students become more autonomous learners.
+
+> [!example] Application
+> In clinical settings, such as medical education, it aids in developing diagnostic skills through self-reflection and continuous improvement of diagnostic strategies.
+
+## Connections
+
+**Related:** [[Self-Regulated Learning (SDL)]] · [[Andragogy]] · [[Motivation]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles,-1968,-1980|Andragogy (Knowles, 1968, 1980)]]
 - [[Application-The-Readiness-Paradox|Application The Readiness Paradox]]
 - [[Autonomy-as-the-Motivational-Foundation-of-SDL|Autonomy as the Motivational Foundation of SDL]]
@@ -73,16 +81,14 @@ importance: high
 - [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
 - [[Connection-Metacognitive-Sovereignty-Framework|Connection Metacognitive Sovereignty Framework]]
 - [[Connection-SDT-and-SDL|Connection SDT and SDL]]
-- [[Core-Argument-Structure-of-Self-Directed-Learning|Core Argument Structure of Self-Directed Learning]]
-- [[Definition-Grow's-SSDL-Model|Definition Grow's SSDL Model]]
-- [[Definition-Heutagogy|Definition Heutagogy]]
-- [[Definition-Self-Directed-Learning|Definition Self-Directed Learning]]
-- [[Directions-for-Further-Investigation|Directions for Further Investigation]]
-- [[Distinction-SDL-vs.-SRL|Distinction SDL vs. SRL]]
-- [[Distinction-Technical-vs.-Critical-Self-Direction|Distinction Technical vs. Critical Self-Direction]]
-- [[Entrepreneurship-Venture-Building-as-Self-Directed-Learning|Entrepreneurship Venture Building as Self-Directed Learning]]
-- [[Garrison's-Comprehensive-Model-of-Self-Directed-Learning-1997|Garrison's Comprehensive Model of Self-Directed Learning (1997)]]
-- [[Grow's-Stage-Diagnostic-Checklist|Grow's Stage Diagnostic Checklist]]
-- [[Grow's-Staged-Self-Directed-Learning-Model-Grow,-1991|Grow's Staged Self-Directed Learning Model (Grow, 1991)]]
-- [[Heutagogy-Hase-&-Kenyon,-2000|Heutagogy (Hase & Kenyon, 2000)]]
-- *...and 59 more permanent notes*
+
+```dataview
+LIST FROM [[metacognitive-monitoring-and-control]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

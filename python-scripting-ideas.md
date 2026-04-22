@@ -139,6 +139,31 @@ A comprehensive backlog of Python automation scripts for Obsidian vault and PKB 
 - **Markdown TOC Updater** — Update the table of contents in markdown files when headers are added, removed, or changed.
 - **Markdown Metadata Updater** — Update the metadata in markdown files, such as the title, author, or date.
 - **File Renamer** — Rename files in a directory based on a specified pattern or criteria.
+- **Directory Organizer** — Organize files in a directory into subdirectories based on file type or other criteria.
+- **Duplicate File Finder** — Find duplicate files in a directory based on file content or name.
+- **File Size Analyzer** — Analyze the size of files in a directory and report on large files or disk usage.
+- **File Backup Script** — Create backups of files in a directory to a specified location.
+- **File Synchronizer** — Synchronize files between two directories, ensuring they have the same content.
+- **File Deletion Script** — Delete files in a directory based on specified criteria, such as age or size.
+- **File Compression Script** — Compress files in a directory into a zip or tar archive.
+- **File Decompression Script** — Decompress zip or tar archives into a specified directory.
+- **File Metadata Extractor** — Extract metadata from files, such as creation date, modification date, or author.
+- **File Content Searcher** — Search for specific content within files in a directory and report matches.
+- **File Renamer with Regex** — Rename files in a directory based on regex patterns for more complex renaming rules.
+- **Directory Size Analyzer** — Analyze the size of directories and report on disk usage.
+- **Directory Watcher** — Watch a directory for changes and trigger actions when files are added, modified, or deleted.
+- **File Permission Changer** — Change the permissions of files in a directory based on specified criteria.
+- **File Owner Changer** — Change the owner of files in a directory based on specified criteria.
+- **File Access Time Updater** — Update the access time of files in a directory to the current time or a specified time.
+- **File Modification Time Updater** — Update the modification time of files in a directory to the current time or a specified time.
+- **File Creation Time Updater** — Update the creation time of files in a directory to the current time or a specified time.
+- **File Type Converter** — Convert files from one type to another, such as from CSV to JSON or from TXT to PDF.
+- **File Content Replacer** — Replace specific content within files in a directory based on specified criteria.
+- **File Content Appender** — Append specific content to files in a directory based on specified criteria.
+- **File Content Prepend** — Prepend specific content to files in a directory based on specified criteria.
+- **File Content Deleter** — Delete specific content from files in a directory based on specified criteria.
+- **File Content Extractor** — Extract specific content from files in a directory based on specified criteria and save it to a new file.
+- **File Content Analyzer** — Analyze the content of files in a directory for specific patterns, keywords, or sentiment.
 
 ---
 
@@ -148,6 +173,7 @@ A comprehensive backlog of Python automation scripts for Obsidian vault and PKB 
 - **Note Archiver** — Move notes with `status: archived` or last-modified older than N days to an `_archive/` folder.
 - **Duplicate Note Detector** — Find notes with near-identical titles or content using fuzzy string matching.
 - **Note Splitter** — Split a large note at a specified heading level into multiple separate notes with correct frontmatter.
+- **Note Renamer** — Rename note files to match their title frontmatter field, with conflict resolution.
 - **Note Merger** — Merge two or more notes into a single file, resolving duplicate headings.
 - **Attachment Auditor** — Find images and attachments in your vault that are not referenced by any note.
 - **Unused Attachment Cleaner** — Move (not delete) unreferenced attachments to a `_orphan-attachments/` folder.

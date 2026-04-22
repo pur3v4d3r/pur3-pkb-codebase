@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "accessibility-heuristic"
+title: accessibility-heuristic
 aliases:
-  - "accessibility-heuristic"
+  - accessibility-heuristic
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,72 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 44
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]"
-  - "[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]"
-  - "[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]"
-  - "[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]"
-  - "[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]"
-  - "[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]"
-  - "[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]"
-  - "[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]"
+  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
+  - '[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]'
+  - '[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]'
+  - '[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]'
+  - '[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]'
+  - '[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]'
+  - '[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # accessibility-heuristic
 
-> [!definition] **accessibility-heuristic**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] accessibility-heuristic
+> - **Key-Term**: [[accessibility-heuristic]]
+> - **Definition**: An accessibility heuristic is a mental shortcut that relies on immediate accessibility of information to make judgments, often leading to biased decisions as more relevant but less accessible information may be overlooked.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Accessibility heuristics are cognitive biases where individuals rely on the ease with which information comes to mind when making decisions. This can lead to systematic errors because highly accessible information is not always the most relevant or accurate.
 
+> [!analytical-insight] Explanation 2
+> For example, people might overestimate the likelihood of events that are more vividly remembered or frequently encountered, such as plane crashes, despite their actual rarity compared to other events like car accidents.
+
+> [!analytical-insight] Explanation 3
+> The concept is rooted in cognitive psychology and decision-making theory, particularly within the framework of attribute substitution proposed by Daniel Kahneman and Shane Frederick.
+
+## Practical Implications
+
+> [!example] Application
+> In marketing, understanding accessibility heuristics can help companies design more effective advertisements that rely on easily recalled information to influence consumer behavior.
+
+> [!example] Application
+> In legal contexts, recognizing these biases can aid in the development of fairer decision-making processes by ensuring that all relevant evidence is considered.
+
+## Key Figures
+
+> [!person] Daniel Kahneman
+> co-proposer of attribute substitution theory
+
+## Connections
+
+**Related:** [[attribute-substitution-kahneman-&-frederick]] · [[cognitive-forcing-functions-croskerry,-in-clinical-reasoning]] · [[cognitive-miserliness-stanovich]]
+
+**See Also (existing):**
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
 - [[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]
@@ -73,16 +86,14 @@ importance: high
 - [[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]
 - [[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]
 - [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]
-- [[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich,-2013|Default-Interventionist Architecture (Evans & Stanovich, 2013)]]
-- [[Default-Interventionist-vs.-Parallel-Competitive-Architectures|Default-Interventionist vs. Parallel-Competitive Architectures]]
-- [[Dimensional-Self-Scoring|Dimensional Self-Scoring]]
-- [[Dual-Process-Theory-Kahneman,-Stanovich,-Evans|Dual-Process Theory (Kahneman, Stanovich, Evans)]]
-- [[Education-and-Pedagogy|Education and Pedagogy]]
-- [[Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics]]
-- [[Heuristics-as-Bias-vs.-Heuristics-as-Adaptive-Tools-Kahneman-vs.-Gigerenzer|Heuristics-as-Bias vs. Heuristics-as-Adaptive-Tools (Kahneman vs. Gigerenzer)]]
-- [[High-Validity-Environment-Kahneman-&-Klein|High-Validity Environment (Kahneman & Klein)]]
-- [[Kahneman's-Heuristics-as-Bias-vs.-Gigerenzer's-Heuristics-as-Adaptive-Tools|Kahneman's Heuristics-as-Bias vs. Gigerenzer's Heuristics-as-Adaptive-Tools]]
-- [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
-- *...and 24 more permanent notes*
+
+```dataview
+LIST FROM [[accessibility-heuristic]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

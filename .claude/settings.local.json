@@ -27,7 +27,12 @@
       "Bash(git -C \"d:/10_pur3v4d3r''s-vault\" show --stat HEAD)",
       "Bash(powershell.exe -Command \"[System.Environment]::GetEnvironmentVariable\\(''ANTHROPIC_API_KEY'', ''User''\\)\")",
       "Bash(curl -s http://localhost:11434/api/tags)",
-      "Bash(git -C \"d:/10_pur3v4d3r's-vault\" status --short)"
+      "Bash(git -C \"d:/10_pur3v4d3r's-vault\" status --short)",
+      "Bash(cd \"d:\\\\\\\\10_pur3v4d3r's-vault\")",
+      "Bash(grep -E \"\\\\.py$|config\")",
+      "Bash(ls -la \"d:\\\\\\\\10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v3/\")",
+      "Bash(ls -la \"d:\\\\\\\\10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v3/lib/\")",
+      "Bash(ls -la \"d:\\\\\\\\10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v3/stages/\")"
     ]
   }
 }

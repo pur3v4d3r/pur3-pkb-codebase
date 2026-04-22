@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Pintrich"
+title: Pintrich
 aliases:
-  - "Pintrich"
+  - Pintrich
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 86
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Andragogy-Knowles|Andragogy (Knowles)]]"
-  - "[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]"
-  - "[[Assessment-for-Autonomy|Assessment for Autonomy]]"
-  - "[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]"
-  - "[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]"
-  - "[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]"
-  - "[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]"
-  - "[[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]"
-  - "[[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]"
-  - "[[Community-Development-and-Civic-Education|Community Development and Civic Education]]"
+  - '[[Andragogy-Knowles|Andragogy (Knowles)]]'
+  - '[[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]'
+  - '[[Assessment-for-Autonomy|Assessment for Autonomy]]'
+  - '[[Assessment-for-Learning-Formative-Assessment-as-a-Developmental-Practice|Assessment for Learning Formative Assessment as a Developmental Practice]]'
+  - '[[Autonomy-vs.-Structure-The-Scaffolding-Paradox|Autonomy vs. Structure The Scaffolding Paradox]]'
+  - '[[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]'
+  - '[[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]'
+  - '[[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]'
+  - '[[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]'
+  - '[[Community-Development-and-Civic-Education|Community Development and Civic Education]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Pintrich
 
-> [!definition] **Pintrich**
-> *Stub note — concept referenced by 86 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Pintrich
+> - **Key-Term**: [[Pintrich]]
+> - **Definition**: Pintrich refers to the theoretical framework developed by Paul R. Pintrich that focuses on students' motivational and cognitive processes in learning, particularly emphasizing the role of self-regulation and goal orientation in educational settings.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 86 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The core mechanism of Pintrich's theory involves understanding how learners set goals, monitor their progress, and adjust their strategies to achieve those goals. It emphasizes the importance of both intrinsic (e.g., interest in the subject matter) and extrinsic (e.g., grades, rewards) motivation in fostering effective learning.
 
+> [!analytical-insight] Explanation 2
+> In practice, educators can apply Pintrich's framework by designing assessments that align with students' goal orientations and providing feedback that supports self-regulation. For instance, formative assessments can be used to help students set realistic goals and track their progress towards these goals.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between mastery and performance goal orientations, where mastery orientation is associated with a focus on learning and understanding, while performance orientation is linked to concerns about ability and achievement.
+
+## Practical Implications
+
+> [!example] Application
+> Educators can use Pintrich's framework to design more effective assessments that promote self-regulation and goal setting among students.
+
+> [!example] Application
+> By aligning teaching strategies with students' goal orientations, educators can enhance motivation and learning outcomes.
+
+## Connections
+
+**Related:** [[Self-Regulated Learning]] · [[Goal Orientation]] · [[Motivation]]
+
+**See Also (existing):**
 - [[Andragogy-Knowles|Andragogy (Knowles)]]
 - [[Assessment-as-the-Completion-of-the-Scaffolding-Sovereignty-Progression|Assessment as the Completion of the Scaffolding-Sovereignty Progression]]
 - [[Assessment-for-Autonomy|Assessment for Autonomy]]
@@ -73,16 +81,14 @@ importance: high
 - [[Autonomy-Structure-Dialectic|Autonomy-Structure Dialectic]]
 - [[Autonomy-Supportive-Structure|Autonomy-Supportive Structure]]
 - [[Backward-Design-Wiggins-&-McTighe|Backward Design (Wiggins & McTighe)]]
-- [[Backward-Design-for-Self-Direction-A-Professional-Development-Curriculum|Backward Design for Self-Direction A Professional Development Curriculum]]
-- [[Community-Development-and-Civic-Education|Community Development and Civic Education]]
-- [[Cultural-Boundedness-of-Self-Direction|Cultural Boundedness of Self-Direction]]
-- [[Curriculum-Audit-for-Self-Direction-Development|Curriculum Audit for Self-Direction Development]]
-- [[Curriculum-Design-as-distinguished-from-Curriculum|Curriculum Design (as distinguished from Curriculum)]]
-- [[Embedding-Evidence-Based-Strategies-in-a-Self-Directed-Learning-Curriculum|Embedding Evidence-Based Strategies in a Self-Directed Learning Curriculum]]
-- [[Future-Investigation-Directions|Future Investigation Directions]]
-- [[Healthcare-Education-and-Patient-Self-Management|Healthcare Education and Patient Self-Management]]
-- [[Heutagogy-Hase-&-Kenyon|Heutagogy (Hase & Kenyon)]]
-- [[Learning-Contract-Knowles|Learning Contract (Knowles)]]
-- [[Learning-Contract-Design-Template|Learning Contract Design Template]]
-- [[Lifelong-Learning|Lifelong Learning]]
-- *...and 66 more permanent notes*
+
+```dataview
+LIST FROM [[Pintrich]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

@@ -2,7 +2,7 @@
 title: the-worked-example-effect
 aliases: [the-worked-example-effect, worked-example-effect]
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
 tags: [permanent-note, seedling, concept-stub, other]
 domain: other
@@ -27,22 +27,47 @@ see-also:
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
 provenance:
   source-reports: []
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
+maturity: budding
 ---
-
 
 # the-worked-example-effect
 
-> [!definition] **the-worked-example-effect**
-> *Stub note — concept referenced by 75 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] the-worked-example-effect
+> - **Key-Term**: [[the-worked-example-effect]]
+> - **Definition**: The worked-example effect is the phenomenon where learners benefit from studying step-by-step solutions to problems, which enhances their problem-solving skills and reduces cognitive load compared to solving similar problems without guidance.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 75 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> This effect is rooted in cognitive load theory (CLT), which posits that working memory has limited capacity. Worked examples provide a scaffold for learners by breaking down complex tasks into manageable steps, thereby reducing the initial cognitive load and allowing learners to focus on understanding the underlying principles.
 
+> [!analytical-insight] Explanation 2
+> In practice, worked examples are used in instructional design to help students learn new skills or solve problems more effectively. They can be particularly useful in domains like mathematics, programming, and problem-solving in science and engineering.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between complete and incomplete worked examples, where complete examples show all steps from start to finish, while incomplete ones require learners to fill in some steps themselves, promoting deeper understanding.
+
+## Practical Implications
+
+> [!example] Application
+> In education, incorporating worked examples into instructional materials can significantly improve learning outcomes by reducing cognitive load and guiding students through problem-solving processes.
+
+> [!example] Application
+> In software development training, using detailed code walkthroughs as worked examples can help novices understand complex programming concepts more quickly.
+
+## Connections
+
+**Related:** [[cognitive-load-theory-clt]] · [[worked-example-methodology]] · [[problem-solving-strategies]]
+
+**See Also (existing):**
 - [[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]
 - [[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]
 - [[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]
@@ -51,24 +76,14 @@ provenance:
 - [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
 - [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
 - [[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]
-- [[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]
-- [[Complex-Learning|Complex Learning]]
-- [[Deliberate-Practice-Ericsson's-Framework-and-Its-Cognitive-Architecture|Deliberate Practice Ericsson's Framework and Its Cognitive Architecture]]
-- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
-- [[Element-Interactivity-Sweller,-2010|Element Interactivity (Sweller, 2010)]]
-- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
-- [[Final-Integration-Before-the-Appendix|Final Integration Before the Appendix]]
-- [[Four-Component-Instructional-Design-4CID-van-Merriënboer,-1997|Four-Component Instructional Design (4CID) (van Merriënboer, 1997)]]
-- [[Fred-Paas-b.-1963|Fred Paas (b. 1963)]]
-- [[Guidance-vs.-Discovery-The-Scaffold-Fading-Dilemma|Guidance vs. Discovery The Scaffold-Fading Dilemma]]
-- [[Jeroen-J.G.-van-Merriënboer-b.-1959|Jeroen J.G. van Merriënboer (b. 1959)]]
-- [[John-Sweller-b.-1946|John Sweller (b. 1946)]]
-- *...and 55 more permanent notes*
 
-## Additional Material (Merged)
+```dataview
+LIST FROM [[the-worked-example-effect]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
 
-> [!definition] **worked-example-effect**
-> *Stub note — concept referenced by 261 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+---
 
-
-## Connections
+**Sources:** *(auto-enriched from domain knowledge)*

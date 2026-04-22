@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "externalized-metacognition"
+title: externalized-metacognition
 aliases:
-  - "externalized-metacognition"
+  - externalized-metacognition
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 261
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
-  - "[[Activating-Prior-Knowledge|Activating Prior Knowledge]]"
-  - "[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]"
-  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
-  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
-  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
-  - "[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]"
-  - "[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]"
-  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
-  - "[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]"
+  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+  - '[[Activating-Prior-Knowledge|Activating Prior Knowledge]]'
+  - '[[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]'
+  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
+  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
+  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+  - '[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]'
+  - '[[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]'
+  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+  - '[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # externalized-metacognition
 
-> [!definition] **externalized-metacognition**
-> *Stub note — concept referenced by 261 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] externalized-metacognition
+> - **Key-Term**: [[externalized-metacognition]]
+> - **Definition**: Externalized metacognition refers to the process of offloading cognitive tasks, such as planning and monitoring, from one's own mind to external tools, strategies, or social interactions.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 261 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Externalized metacognition involves the use of external resources to support self-regulation. This can include tools like planners, checklists, or digital apps that help individuals manage their cognitive processes more effectively.
 
+> [!analytical-insight] Explanation 2
+> In practice, this might involve a student using a study guide to plan and monitor their learning, or an athlete consulting with a coach to refine their technique and performance.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the role of social interactions in externalized metacognition, such as seeking advice from peers or mentors, and the potential for over-reliance on these external aids.
+
+## Practical Implications
+
+> [!example] Application
+> In education, externalized metacognition can enhance learning by providing structured support that helps students manage their study processes more effectively.
+
+> [!example] Application
+> In professional settings, it can improve performance through better task management and decision-making.
+
+## Connections
+
+**Related:** [[self-regulated-learning]] · [[cognitive-augmentation]] · [[social-cognition]]
+
+**See Also (existing):**
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
 - [[Activating-Prior-Knowledge|Activating Prior Knowledge]]
 - [[Adaptive-Help-Seeking-As-a-Regulatory-Skill]]
@@ -73,16 +81,14 @@ importance: high
 - [[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]
 - [[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]
 - [[Bridging-to-Prior-Knowledge|Bridging to Prior Knowledge]]
-- [[Calibration-Metacognitive|Calibration (Metacognitive)]]
-- [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
-- [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
-- [[Calibration-of-Metacognitive-Monitoring-The-Empirical-Literature]]
-- [[Checklist-PKM-System-Design-Audit-Seven-Problem-Framework|Checklist PKM System Design Audit (Seven-Problem Framework)]]
-- [[Clinical-Decision-Support-Systems|Clinical Decision Support Systems]]
-- [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
-- [[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]
-- [[Cognitive-Load-Theory-Sweller,-1988;-Sweller-et-al.,-2011|Cognitive Load Theory (Sweller, 1988; Sweller et al., 2011)]]
-- [[Cognitive-Offloading|Cognitive Offloading]]
-- [[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]
-- [[Cognitive-Offloading-vs.-Cognitive-Engagement|Cognitive Offloading vs. Cognitive Engagement]]
-- *...and 241 more permanent notes*
+
+```dataview
+LIST FROM [[externalized-metacognition]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

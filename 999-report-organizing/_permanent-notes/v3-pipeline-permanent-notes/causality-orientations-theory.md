@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "causality-orientations-theory"
+title: causality-orientations-theory
 aliases:
-  - "causality-orientations-theory"
+  - causality-orientations-theory
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 85
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]"
-  - "[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]"
-  - "[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]"
-  - "[[Autonomy-≠-Independence|Autonomy ≠ Independence]]"
-  - "[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]"
-  - "[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]"
-  - "[[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]"
-  - "[[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]"
-  - "[[Diagnostic-Pause|Diagnostic Pause]]"
-  - "[[Functional-Significance-CET|Functional Significance (CET)]]"
+  - '[[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]'
+  - '[[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]'
+  - '[[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]'
+  - '[[Autonomy-≠-Independence|Autonomy ≠ Independence]]'
+  - '[[Autonomy-Supportive-Communication-Protocol|Autonomy-Supportive Communication Protocol]]'
+  - '[[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]'
+  - '[[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]'
+  - '[[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]'
+  - '[[Diagnostic-Pause|Diagnostic Pause]]'
+  - '[[Functional-Significance-CET|Functional Significance (CET)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # causality-orientations-theory
 
-> [!definition] **causality-orientations-theory**
-> *Stub note — concept referenced by 85 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] causality-orientations-theory
+> - **Key-Term**: [[causality-orientations-theory]]
+> - **Definition**: Causality orientations theory is a framework that explores how individuals perceive and interpret the causes of their behaviors, focusing on autonomy, competence, and relatedness as key psychological needs.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 85 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> The theory posits that people have innate needs for autonomy (feeling in control), competence (feeling effective), and relatedness (feeling connected to others). These needs influence how individuals orient themselves towards the causes of their behaviors, leading them to attribute these causes either internally or externally.
 
+> [!analytical-insight] Explanation 2
+> When an individual attributes their actions to internal factors such as personal choice or ability, they are more likely to feel autonomous and competent. Conversely, attributing actions to external factors like luck or pressure from others can undermine these feelings. The theory also emphasizes the role of supportive environments in fostering healthy causality orientations by satisfying these basic psychological needs.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between autonomy-supportive communication and control-oriented communication, which significantly impact how individuals perceive their behaviors and motivations.
+
+## Practical Implications
+
+> [!example] Application
+> In educational settings, understanding causality orientations can help teachers design supportive environments that promote students' sense of autonomy and competence.
+
+> [!example] Application
+> In organizational contexts, managers can use this theory to foster a culture where employees feel empowered and connected, leading to higher job satisfaction and performance.
+
+## Connections
+
+**Related:** [[Autonomous-Motivation-Deci-&-Ryan,-2000]] · [[Autonomy-SDT-Deci-&-Ryan,-1985]] · [[Basic-Psychological-Need-SDT]]
+
+**See Also (existing):**
 - [[Autonomous-Motivation-Deci-&-Ryan,-2000|Autonomous Motivation (Deci & Ryan, 2000)]]
 - [[Autonomy-SDT-Deci-&-Ryan,-1985|Autonomy (SDT) (Deci & Ryan, 1985)]]
 - [[Autonomy-Universality-vs.-Cultural-Specificity|Autonomy Universality vs. Cultural Specificity]]
@@ -73,16 +81,14 @@ importance: high
 - [[Basic-Psychological-Need-SDT|Basic Psychological Need (SDT)]]
 - [[CET-as-a-Theory-of-Motivational-Pollution|CET as a Theory of Motivational Pollution]]
 - [[Competence-SDT-White,-1959;-Deci-&-Ryan,-1985|Competence (SDT) (White, 1959; Deci & Ryan, 1985)]]
-- [[Diagnostic-Pause|Diagnostic Pause]]
-- [[Functional-Significance-CET|Functional Significance (CET)]]
-- [[Functional-Significance-Deci-&-Ryan,-1985|Functional Significance (Deci & Ryan, 1985)]]
-- [[Internalization-Deci-&-Ryan,-1985;-Ryan,-1995|Internalization (Deci & Ryan, 1985; Ryan, 1995)]]
-- [[Internalization-SDT|Internalization (SDT)]]
-- [[Intrinsic-Motivation-Deci,-1971;-Deci-&-Ryan,-1985|Intrinsic Motivation (Deci, 1971; Deci & Ryan, 1985)]]
-- [[Intrinsic-vs.-Extrinsic-Goal-Contents-GCT|Intrinsic vs. Extrinsic Goal Contents (GCT)]]
-- [[Johnmarshall-Reeve-dates-not-verified|Johnmarshall Reeve (dates not verified)]]
-- [[Maarten-Vansteenkiste-1976–|Maarten Vansteenkiste (1976–)]]
-- [[Metatheory-as-Predictive-Constraint|Metatheory as Predictive Constraint]]
-- [[Methodological-Transparency|Methodological Transparency]]
-- [[Need-Frustration-Vansteenkiste-&-Ryan,-2013|Need Frustration (Vansteenkiste & Ryan, 2013)]]
-- *...and 65 more permanent notes*
+
+```dataview
+LIST FROM [[causality-orientations-theory]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

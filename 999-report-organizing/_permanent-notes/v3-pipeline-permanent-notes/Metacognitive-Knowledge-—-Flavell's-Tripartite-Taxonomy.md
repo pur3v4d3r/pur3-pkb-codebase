@@ -1,19 +1,12 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy"
+title: Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy
 aliases:
-  - "-Flavell's-Tripartite-Taxonomy"
-  - "Metacognitive-Knowledge-"
-  - "Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy"
+  - -Flavell's-Tripartite-Taxonomy
+  - Metacognitive-Knowledge-
+  - Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -21,52 +14,71 @@ tags:
   - cognitive-psychology
 
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 137
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]"
-  - "[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]"
-  - "[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]"
-  - "[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]"
-  - "[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]"
-  - "[[Calibration-Metacognitive|Calibration (Metacognitive)]]"
-  - "[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]"
-  - "[[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]"
-  - "[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]"
-  - "[[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]"
+  - '[[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]'
+  - '[[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]'
+  - '[[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]'
+  - '[[Asher-Koriat-b.-1942|Asher Koriat (b. 1942)]]'
+  - '[[Athletic-Coaching-and-Physical-Skill-Development|Athletic Coaching and Physical Skill Development]]'
+  - '[[Calibration-Metacognitive|Calibration (Metacognitive)]]'
+  - '[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]'
+  - '[[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]'
+  - '[[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]'
+  - '[[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy
 
-> [!definition] **Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy**
-> *Stub note — concept referenced by 137 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy
+> - **Key-Term**: [[Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy]]
+> - **Definition**: Metacognitive knowledge, as per Flavell's tripartite taxonomy, refers to an individual's awareness and understanding of their own cognitive processes and strategies for learning and problem-solving.
+> - **Domain**: cognitive-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 137 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Flavell (1976) proposed a tripartite taxonomy of metacognition which includes knowledge about cognition, knowledge about persons, and knowledge about tasks. Knowledge about cognition pertains to an individual's understanding of their own cognitive processes such as memory, attention, and problem-solving strategies.
 
+> [!analytical-insight] Explanation 2
+> This knowledge is applied in practice through self-regulation, where individuals use this awareness to set goals, monitor progress, and adjust learning strategies accordingly. For instance, a student might recognize that they need more time to understand a complex concept and seek additional resources or ask for help.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between different types of metacognitive knowledge: procedural (how to do something), declarative (what one knows about their cognitive processes), and conditional (under what conditions certain strategies are effective).
+
+## Practical Implications
+
+> [!example] Application
+> In education, understanding a student's metacognitive knowledge can help teachers tailor instructional methods to enhance learning. For example, teaching students how to use self-explanation techniques can improve their comprehension of complex material.
+
+> [!example] Application
+> In professional settings, managers can use this knowledge to develop training programs that focus on improving employees' ability to monitor and adjust their work processes.
+
+## Key Figures
+
+> [!person] John Flavell
+
+## Connections
+
+**Related:** [[Self-Regulated-Learning]] · [[Cognitive-Awareness]] · [[Learning-Strategies]]
+
+**See Also (existing):**
 - [[A-Forethought-Template-in-Practice|A Forethought Template in Practice]]
 - [[Application-Desirable-Difficulties-and-Monitoring|Application Desirable Difficulties and Monitoring]]
 - [[Artificial-Intelligence-Self-Monitoring-Systems|Artificial Intelligence Self-Monitoring Systems]]
@@ -75,16 +87,14 @@ importance: high
 - [[Calibration-Metacognitive|Calibration (Metacognitive)]]
 - [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
 - [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
-- [[Clinical-Decision-Making-The-Diagnostic-Monitoring-Control-Loop|Clinical Decision-Making The Diagnostic Monitoring-Control Loop]]
-- [[Clinical-Reasoning-and-Diagnostic-Practice|Clinical Reasoning and Diagnostic Practice]]
-- [[Cognitive-Offloading|Cognitive Offloading]]
-- [[Cognitive-Offloading-in-Knowledge-Work-Benefits,-Risks,-and-Optimal-Allocation|Cognitive Offloading in Knowledge Work Benefits, Risks, and Optimal Allocation]]
-- [[Computational-Models-of-Metacognition-Architectures,-Implementations,-and-Predic|Computational Models of Metacognition Architectures, Implementations, and Predictions]]
-- [[Connecting-to-Your-Existing-Knowledge|Connecting to Your Existing Knowledge]]
-- [[Connection-Nelson-Narens-and-SRL|Connection Nelson-Narens and SRL]]
-- [[Core-Architecture-The-Nelson-Narens-Two-Level-Model|Core Architecture The Nelson-Narens Two-Level Model]]
-- [[Core-Argument-Structure|Core Argument Structure]]
-- [[Creative-Writing-and-Artistic-Practice|Creative Writing and Artistic Practice]]
-- [[Cue-Utilization-Framework-Koriat,-1997|Cue-Utilization Framework (Koriat, 1997)]]
-- [[Definition-Cue-Utilization-Framework|Definition Cue-Utilization Framework]]
-- *...and 117 more permanent notes*
+
+```dataview
+LIST FROM [[Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

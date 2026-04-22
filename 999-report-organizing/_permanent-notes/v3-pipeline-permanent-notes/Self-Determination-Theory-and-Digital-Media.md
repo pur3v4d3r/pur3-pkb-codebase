@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Self-Determination-Theory-and-Digital-Media"
+title: Self-Determination-Theory-and-Digital-Media
 aliases:
-  - "Self-Determination-Theory-and-Digital-Media"
+  - Self-Determination-Theory-and-Digital-Media
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,67 @@ tags:
   - educational-psychology
 
 domain: educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 175
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]"
-  - "[[Abstract]]"
-  - "[[Annotation-Confidence-25|Annotation Confidence 25]]"
-  - "[[Annotation-Confidence-35|Annotation Confidence 35]]"
-  - "[[Annotation-Confidence-45|Annotation Confidence 45]]"
-  - "[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]"
-  - "[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]"
-  - "[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]"
-  - "[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]"
-  - "[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]"
+  - '[[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]'
+  - '[[Abstract]]'
+  - '[[Annotation-Confidence-25|Annotation Confidence 25]]'
+  - '[[Annotation-Confidence-35|Annotation Confidence 35]]'
+  - '[[Annotation-Confidence-45|Annotation Confidence 45]]'
+  - '[[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]'
+  - '[[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]'
+  - '[[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]'
+  - '[[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]'
+  - '[[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # Self-Determination-Theory-and-Digital-Media
 
-> [!definition] **Self-Determination-Theory-and-Digital-Media**
-> *Stub note — concept referenced by 175 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] Self-Determination-Theory-and-Digital-Media
+> - **Key-Term**: [[Self-Determination-Theory-and-Digital-Media]]
+> - **Definition**: Self-Determination-Theory-and-Digital-Media refers to the application of Self-Determination Theory (SDT) principles within digital media contexts, focusing on how autonomy, competence, and relatedness influence user engagement and motivation in online environments.
+> - **Domain**: educational-psychology
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 175 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Paragraph 1: Foundational context and core mechanism. Self-Determination Theory posits that individuals are motivated by three basic psychological needs: autonomy (feeling of control), competence (ability to perform tasks effectively), and relatedness (sense of connection with others). When these needs are satisfied, motivation is enhanced.
 
+> [!analytical-insight] Explanation 2
+> Paragraph 2: How it works or is applied in practice. In digital media, designers can create platforms that support user autonomy by offering choices and personalization options; foster competence through clear feedback and challenges; and promote relatedness via social interactions and community features.
+
+> [!analytical-insight] Explanation 3
+> Paragraph 3: Key nuances, sub-variants, or theoretical roots. SDT has been adapted for various contexts including education (e.g., gamification) and workplace settings (e.g., employee engagement). Digital media applications often blend these adaptations to create more engaging experiences.
+
+## Practical Implications
+
+> [!example] Application
+> Implication 1: Concrete application or real-world consequence. Educational apps that allow students to choose their learning paths can increase motivation and engagement.
+
+> [!example] Application
+> Implication 2: A second distinct application. Gamified elements in social media platforms can enhance user interaction and retention.
+
+## Connections
+
+**Related:** [[Self-Determination-Theory]] · [[Digital-Media]] · [[Motivation]]
+
+**See Also (existing):**
 - [[A-Worked-Example-to-Hold-in-Mind|A Worked Example to Hold in Mind]]
 - [[Abstract]]
 - [[Annotation-Confidence-25|Annotation Confidence 25]]
@@ -73,16 +81,14 @@ importance: high
 - [[Annotation-Confidence-45-for-the-risks;-35-for-the-mitigations|Annotation Confidence 45 for the risks; 35 for the mitigations]]
 - [[Annotation-Coverage-Gap-—-Terminal-Proficiency-and-Command-Line-Development|Annotation Coverage Gap — Terminal Proficiency and Command-Line Development]]
 - [[Annotation-Coverage-Gap-—-Testing-and-Code-Quality|Annotation Coverage Gap — Testing and Code Quality]]
-- [[Annotation-Cross-Section-Confidence-Calibration|Annotation Cross-Section Confidence Calibration]]
-- [[Annotation-Methodological-Limitation-—-Single-Perspective|Annotation Methodological Limitation — Single Perspective]]
-- [[Argument-Map-Central-Thesis-and-Supporting-Claims|Argument Map Central Thesis and Supporting Claims]]
-- [[Argument-Map-Enablement-Risk-Dialectic|Argument Map Enablement-Risk Dialectic]]
-- [[Argument-Map-—-Report-Structure-and-Claim-Dependencies|Argument Map — Report Structure and Claim Dependencies]]
-- [[Autonomous-Motivation|Autonomous Motivation]]
-- [[Autonomy-in-the-SDT-technical-sense|Autonomy (in the SDT technical sense)]]
-- [[Basic-Psychological-Need-in-SDT|Basic Psychological Need (in SDT)]]
-- [[Basic-Psychological-Needs|Basic Psychological Needs]]
-- [[Beiwen-Chen-and-Cross-Cultural-SDT-Researchers|Beiwen Chen and Cross-Cultural SDT Researchers]]
-- [[Breakpoint]]
-- [[Cargo-Cult-Coding|Cargo-Cult Coding]]
-- *...and 155 more permanent notes*
+
+```dataview
+LIST FROM [[Self-Determination-Theory-and-Digital-Media]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*

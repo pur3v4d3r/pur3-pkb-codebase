@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "amos-tversky"
+title: amos-tversky
 aliases:
-  - "amos-tversky"
+  - amos-tversky
 type: permanent-note
-status: seedling
+status: enriched
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
@@ -19,52 +12,72 @@ tags:
   - other
 
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 44
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]"
-  - "[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]"
-  - "[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]"
-  - "[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]"
-  - "[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]"
-  - "[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]"
-  - "[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]"
-  - "[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]"
-  - "[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]"
+  - '[[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]'
+  - '[[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]'
+  - '[[Attribute-Substitution-Kahneman-&-Frederick,-2002|Attribute Substitution (Kahneman & Frederick, 2002)]]'
+  - '[[Cognitive-Forcing-Function-Croskerry|Cognitive Forcing Function (Croskerry)]]'
+  - '[[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]'
+  - '[[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]'
+  - '[[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]'
+  - '[[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]'
+  - '[[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
 # ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
-mastery-stage: seedling
+mastery-stage: budding
 importance: high
+maturity: budding
+provenance:
+  enrichment-method: enrich_stubs-v1
+  enrichment-model: qwen2.5:7b-instruct-q5_K_M
 ---
 
 # amos-tversky
 
-> [!definition] **amos-tversky**
-> *Stub note — concept referenced by 44 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+> [!definition] amos-tversky
+> - **Key-Term**: [[amos-tversky]]
+> - **Definition**: Amos Tversky was an Israeli-American psychologist and economist known for his work on heuristics, biases, and decision-making processes in cognitive psychology and behavioral economics.
+> - **Domain**: other
+> - **Status**: 🌱 budding | Confidence: speculative
 
-*Auto-generated stub — referenced by 44 permanent notes.*
+## Core Explanation
 
-## Referenced By
+> [!analytical-insight] Core Explanation
+> Amos Tversky co-developed the concept of heuristics with Daniel Kahneman, which are mental shortcuts that people use to make decisions quickly. These heuristics can lead to systematic errors or biases in judgment.
 
+> [!analytical-insight] Explanation 2
+> Tversky's work often involved experimental methods to identify and describe these cognitive biases, such as the availability heuristic, where people overestimate the likelihood of events based on how easily examples come to mind.
+
+> [!analytical-insight] Explanation 3
+> Key nuances include the distinction between descriptive and normative models of decision-making, with Tversky contributing significantly to understanding how people actually make decisions rather than how they should make them.
+
+## Practical Implications
+
+> [!example] Application
+> In AI alignment, Tversky's insights on human biases can inform the design of algorithms that better understand and predict human behavior.
+
+> [!example] Application
+> His work on cognitive forcing functions can be applied in clinical reasoning to help doctors avoid common diagnostic errors.
+
+## Key Figures
+
+> [!person] Daniel Kahneman
+> co-developer of heuristics and biases
+
+## Connections
+
+**Related:** [[heuristics]] · [[cognitive-biases]] · [[descriptive-normative-paradigm]]
+
+**See Also (existing):**
 - [[AI-Alignment-and-Machine-Learning|AI Alignment and Machine Learning]]
 - [[Architectural-Description-vs.-Normative-Prescription|Architectural Description vs. Normative Prescription]]
 - [[Attribute-Substitution-Kahneman-&-Frederick|Attribute Substitution (Kahneman & Frederick)]]
@@ -73,16 +86,14 @@ importance: high
 - [[Cognitive-Forcing-Functions-Croskerry,-in-Clinical-Reasoning|Cognitive Forcing Functions (Croskerry, in Clinical Reasoning)]]
 - [[Cognitive-Miserliness-Stanovich|Cognitive Miserliness (Stanovich)]]
 - [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]]
-- [[Debiasing-Self-Audit-for-High-Stakes-Personal-Decisions|Debiasing Self-Audit (for High-Stakes Personal Decisions)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich|Default-Interventionist Architecture (Evans & Stanovich)]]
-- [[Default-Interventionist-Architecture-Evans-&-Stanovich,-2013|Default-Interventionist Architecture (Evans & Stanovich, 2013)]]
-- [[Default-Interventionist-vs.-Parallel-Competitive-Architectures|Default-Interventionist vs. Parallel-Competitive Architectures]]
-- [[Dimensional-Self-Scoring|Dimensional Self-Scoring]]
-- [[Dual-Process-Theory-Kahneman,-Stanovich,-Evans|Dual-Process Theory (Kahneman, Stanovich, Evans)]]
-- [[Education-and-Pedagogy|Education and Pedagogy]]
-- [[Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics]]
-- [[Heuristics-as-Bias-vs.-Heuristics-as-Adaptive-Tools-Kahneman-vs.-Gigerenzer|Heuristics-as-Bias vs. Heuristics-as-Adaptive-Tools (Kahneman vs. Gigerenzer)]]
-- [[High-Validity-Environment-Kahneman-&-Klein|High-Validity Environment (Kahneman & Klein)]]
-- [[Kahneman's-Heuristics-as-Bias-vs.-Gigerenzer's-Heuristics-as-Adaptive-Tools|Kahneman's Heuristics-as-Bias vs. Gigerenzer's Heuristics-as-Adaptive-Tools]]
-- [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
-- *...and 24 more permanent notes*
+
+```dataview
+LIST FROM [[amos-tversky]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** *(auto-enriched from domain knowledge)*
